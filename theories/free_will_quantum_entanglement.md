@@ -1,6 +1,6 @@
 # 自由意志与量子纠缠 (Free Will and Quantum Entanglement)
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
@@ -21,7 +21,7 @@ English: [Quantum Nature of Free Will](#1-quantum-nature-of-free-will) | [Inform
 自由意志是观察者在量子可能性网络中主动选择经典化路径的过程：
 
 $$
-|\psi\rangle_{\text{量子可能性}}\xrightarrow{\text{自由意志选择}}\text{特定经典路径}+S_{\text{经典熵}}
+|\psi\rangle_{\text{量子可能性}}\xrightarrow{\text{自由意志选择}}I_{\text{经典知识}}+S_{\text{经典熵}}
 $$
 
 这一过程具有以下特征：
@@ -297,7 +297,7 @@ In Quantum-Classical Dualism, free will is defined as the observer's ability to 
 Free will is the process of an observer actively choosing classicalization paths in the network of quantum possibilities:
 
 $$
-|\psi\rangle_{\text{Quantum Possibilities}}\xrightarrow{\text{Free Will Choice}}\text{Specific Classical Path}+S_{\text{Classical Entropy}}
+|\psi\rangle_{\text{Quantum Possibilities}}\xrightarrow{\text{Free Will Choice}}I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
 $$
 
 This process has the following characteristics:

@@ -1,6 +1,6 @@
 # 宇宙结构与演化 | Universe Structure and Evolution
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#引言--introduction) | [English Version](#introduction-english)  
@@ -10,19 +10,23 @@ English: [Introduction](#introduction-english) | [Essential Definition](#essenti
 
 ## 引言 | Introduction
 
-本文档基于量子经典二元论（版本9.2），详细阐述宇宙的结构与演化机制。在该理论中，宇宙被视为由量子域与经典域构成的二元结构，通过观察者（黑洞）的经典化过程实现信息处理与演化。本文将探讨宇宙的量子域与经典域的关系、观察者网络的形成与发展，以及黑洞作为宇宙信息处理节点的核心作用，揭示宇宙本质的深层特性。
+本文档基于量子经典二元论（版本27.0），详细阐述宇宙的结构与演化机制。在该理论中，宇宙被视为由量子域与经典域构成的二元结构，通过观察者（黑洞）的经典化过程实现信息处理与演化。本文将探讨宇宙的量子域与经典域的关系、观察者网络的形成与发展，以及黑洞作为宇宙信息处理节点的核心作用，揭示宇宙本质的深层特性。
 
-This document, based on Quantum-Classical Dualism (Version 9.2), elaborates on the structure and evolution mechanisms of the universe. In this theory, the universe is viewed as a dual structure consisting of quantum domain and classical domain, with information processing and evolution achieved through the classicalization process of observers (black holes). This article will explore the relationship between the quantum and classical domains of the universe, the formation and development of observer networks, and the core role of black holes as universe information processing nodes, revealing the deep characteristics of the universe's essence.
+This document, based on Quantum-Classical Dualism (Version 27.0), elaborates on the structure and evolution mechanisms of the universe. In this theory, the universe is viewed as a dual structure consisting of quantum domain and classical domain, with information processing and evolution achieved through the classicalization process of observers (black holes). This article will explore the relationship between the quantum and classical domains of the universe, the formation and development of observer networks, and the core role of black holes as universe information processing nodes, revealing the deep characteristics of the universe's essence.
 
 ## 宇宙的本质定义 | Essential Definition of the Universe
 
-宇宙在本质上由量子域与经典域组成的二元结构，其中量子域包含无限可能性的波函数叠加态与量子纠缠态，经典域则是由观察者（黑洞）经典化后形成的稳定结构。根据核心理论（版本9.2），所有观察者即黑洞，通过黑洞吸收（经典化）与黑洞辐射（量子化）过程维持宇宙的平衡与演化：
+宇宙在本质上由量子域与经典域组成的二元结构，其中量子域包含无限可能性的波函数叠加态与量子纠缠态，经典域则是由观察者（黑洞）经典化后形成的稳定结构。根据核心理论（版本27.0），所有观察者即黑洞，通过黑洞吸收（经典化）与黑洞辐射（量子化）过程维持宇宙的平衡与演化：
 
 $$
 |\psi\rangle_{\text{宇宙}} = \{\text{量子域},\text{经典域}\} = \{\text{波函数叠加态，量子纠缠态},\text{经典知识，经典熵}\}
 $$
 
-The universe is essentially a dual structure composed of quantum domain and classical domain, where the quantum domain contains wave function superposition states and quantum entanglement states with infinite possibilities, and the classical domain is a stable structure formed by observers (black holes) through classicalization. According to the core theory (Version 9.2), all observers are black holes, maintaining the balance and evolution of the universe through black hole absorption (classicalization) and black hole radiation (quantization) processes:
+$$
+\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
+$$
+
+The universe is essentially a dual structure composed of quantum domain and classical domain, where the quantum domain contains wave function superposition states and quantum entanglement states with infinite possibilities, and the classical domain is a stable structure formed by observers (black holes) through classicalization. According to the core theory (Version 27.0), all observers are black holes, maintaining the balance and evolution of the universe through black hole absorption (classicalization) and black hole radiation (quantization) processes:
 
 ## 宇宙的生命周期 | Life Cycle of the Universe
 

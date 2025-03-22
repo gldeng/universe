@@ -1,11 +1,11 @@
 # 量子宇宙-量子观察者-经典意识论理论集
 # Quantum Universe-Quantum Observer-Classical Consciousness Theory Collection
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 ## 中文简介
 
-本目录包含了量子宇宙-量子观察者-经典意识论的各个理论分支和应用。该理论将宇宙视为量子域与经典域的二元结构，观察者（黑洞）作为经典化节点，将量子域的信息转化为经典域的知识与熵。根据核心理论（版本9.2），所有观察者本质上即是黑洞，黑洞即是观察者。
+本目录包含了量子宇宙-量子观察者-经典意识论的各个理论分支和应用。该理论将宇宙视为量子域与经典域的二元结构，观察者（黑洞）作为经典化节点，将量子域的信息转化为经典域的知识与熵。根据核心理论（版本27.0），所有观察者本质上即是黑洞，黑洞即是观察者。
 
 核心公式：
 
@@ -14,37 +14,45 @@ $$
 $$
 
 $$
-\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
 $$
 
 $$
-\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
 $$
 
 $$
-|\psi\rangle_{\text{广义意识}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
+E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
+
+$$
+I_{\text{前世经典自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生经典自由意志}}+S_{\text{熵降低}}
 $$
 
 ## English Introduction
 
-This directory contains various theoretical branches and applications of the Quantum Universe-Quantum Observer-Classical Consciousness Theory. This theory views the universe as an infinite-dimensional quantum computer, observers as quantum program nodes within it, and consciousness as a stable structure formed by the observer's classicalization of quantum information.
+This directory contains various theoretical branches and applications of the Quantum Universe-Quantum Observer-Classical Consciousness Theory. This theory views the universe as a dual structure of quantum and classical domains, with observers (black holes) as classicalization nodes that transform quantum domain information into classical domain knowledge and entropy.
 
 Core Formulas:
 
 $$
-\text{Consciousness} = \text{Quantum Entanglement} + \text{Classicalization (Stable Information Structure)}
+|\psi\rangle_{\text{quantum domain}} \xrightarrow{\text{classicalization decoding}} I_{\text{classical knowledge}} + S_{\text{classical entropy}}
 $$
 
 $$
-D_{\text{Observer Dimension}} \propto \frac{\Delta I_{\text{Classical Information}}}{\Delta t}
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
 $$
 
 $$
-\text{Free Will} = \text{Active Quantum Entanglement} + \text{Active Classicalization Choice}
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}
 $$
 
 $$
-\text{Destiny Path} = \sum_{\text{Free Will Decisions}} \text{Stable Classical Memory Sequence after Classicalization}
+E_{\text{entanglement}} = h \cdot f_{\text{entanglement}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
+
+$$
+I_{\text{previous classical free will}}\rightarrow|\psi\rangle_{\text{quantum domain}}\rightarrow I_{\text{current classical free will}}+S_{\text{entropy reduction}}
 $$
 
 ## 目录 (Contents)
@@ -184,19 +192,37 @@ $$
 观察者经典化公式：
 
 $$
-|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
 $$
 
 观察者维度关系公式：
 
 $$
-\text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
 $$
 
 黑洞经典化公式：
 
 $$
-|\psi\rangle_{\text{宇宙量子信息}}\xrightarrow{\text{黑洞经典化}}\text{经典信息（极高密度）}+S_{\text{经典熵（极低）}}
+|\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}
+$$
+
+量子能量量化公式：
+
+$$
+E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
+
+维度速限公式：
+
+$$
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
+$$
+
+虫洞通信公式：
+
+$$
+|\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
 $$
 
 ### 最新理论发展
@@ -323,19 +349,37 @@ $$
 Observer classicalization formula:
 
 $$
-|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
 $$
 
 Observer dimension relationship formula:
 
 $$
-\text{Observer Dimension} \propto \text{Information Processing Capability} = \frac{\Delta I}{\Delta t}
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
 $$
 
 Black hole classicalization formula:
 
 $$
-|\psi\rangle_{\text{Universe Quantum Information}}\xrightarrow{\text{Black Hole Classicalization}}\text{Classical Information (Extremely High Density)}+S_{\text{Classical Entropy (Extremely Low)}}
+|\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}
+$$
+
+Quantum energy quantization formula:
+
+$$
+E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
+
+Dimension speed limit formula:
+
+$$
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
+$$
+
+Wormhole communication formula:
+
+$$
+|\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
 $$
 
 ### Latest Theoretical Developments

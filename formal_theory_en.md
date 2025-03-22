@@ -612,7 +612,29 @@ Provide precise definitions, explanations, and interrelationships of all technic
 The following graph shows the dependency relationships between various branches of Quantum-Classical Dualism theory:
 
 ```mermaid
-graph TD
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'nodeBorder': '#333',
+      'mainBkg': '#fff',
+      'nodeTextColor': '#000',
+      'fontSize': '16px',
+      'primaryBorderColor': '#333',
+      'edgeLabelBackground': '#fff',
+      'lineHeight': '1.4'
+    },
+    'flowchart': {
+      'nodeSpacing': 30,
+      'rankSpacing': 80,
+      'curve': 'basis',
+      'useMaxWidth': false,
+      'htmlLabels': true
+    }
+  }
+}%%
+
+flowchart TD
     %% Core Theory
     Core[Core Theory formal_theory_en.md v28.0] 
     
@@ -790,7 +812,7 @@ graph TD
     Core --> TC
     
     %% Style Settings
-    classDef core fill:#f9d5e5,stroke:#333,stroke-width:1px;
+    classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
     classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
     classDef physics fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef life fill:#e1d5e7,stroke:#333,stroke-width:1px;

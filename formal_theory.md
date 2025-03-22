@@ -619,7 +619,29 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 下图展示了量子经典二元论各分支理论之间的依赖关系：
 
 ```mermaid
-graph TD
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'nodeBorder': '#333',
+      'mainBkg': '#fff',
+      'nodeTextColor': '#000',
+      'fontSize': '16px',
+      'primaryBorderColor': '#333',
+      'edgeLabelBackground': '#fff',
+      'lineHeight': '1.4'
+    },
+    'flowchart': {
+      'nodeSpacing': 30,
+      'rankSpacing': 80,
+      'curve': 'basis',
+      'useMaxWidth': false,
+      'htmlLabels': true
+    }
+  }
+}%%
+
+flowchart TD
     %% 核心理论
     Core[核心理论 formal_theory.md v28.0] 
     
@@ -797,7 +819,7 @@ graph TD
     Core --> TC
     
     %% 样式设置
-    classDef core fill:#f9d5e5,stroke:#333,stroke-width:1px;
+    classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
     classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
     classDef physics fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef life fill:#e1d5e7,stroke:#333,stroke-width:1px;

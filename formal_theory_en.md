@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism Formal Expression v28.0
+# Quantum-Classical Dualism Formal Expression v29.0
 
 **English Version | [中文版](formal_theory.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0
+> This theory is based on [Core Theory](core_en.md) v29.0
 
 ## Complete Description of Core Theory
 
@@ -610,6 +610,21 @@ Analyze quantum-classical conversion mechanisms in meditation processes, explain
 ### [Terminology and Concept Dictionary](formal_theory_terminology_en.md)
 Provide precise definitions, explanations, and interrelationships of all technical terms used in quantum-classical dualism. Ensures conceptual clarity and consistency of the theoretical framework.
 
+### [Quantum Emergence Theory](formal_theory_quantum_emergence_en.md)
+Explores how higher-level complexity and classical behavior emerge from fundamental quantum levels, explaining the mathematical mechanisms and physical foundations of emergence processes, providing a quantum basis for explaining the complexity of the macroscopic world.
+
+### [Information Dynamics Theory](formal_theory_information_dynamics_en.md)
+Studies the dynamic changes and flow patterns of information during quantum-classical transitions, establishing precise mathematical models describing information evolution, transformation, and preservation, revealing the dynamic behavior of information as a fundamental existence.
+
+### [Consciousness Measurement Theory](formal_theory_consciousness_measurement_en.md)
+Proposes a theoretical framework for quantitatively measuring and evaluating consciousness states and dimensions, developing consciousness quantification metrics and measurement methods, providing verifiable empirical foundations and experimental paradigms for consciousness science research.
+
+### [Reality Engineering](formal_theory_reality_engineering_en.md)
+Studies how to consciously design and change reality structures based on quantum-classical transition principles, developing theoretical tools and practical techniques for influencing and reconstructing reality, providing scientific foundations for humans to actively shape experienced reality.
+
+### [Universal Learning Theory](formal_theory_universal_learning_en.md)
+Presents an integrated framework of the universe as a learning system, exploring universal learning mechanisms, explaining how systems at different levels in the universe acquire, process, and adapt to information, revealing the essential laws of learning as a fundamental cosmic process.
+
 ## Theory Dependency Graph
 
 The following graph shows the dependency relationships between various branches of Quantum-Classical Dualism theory:
@@ -639,7 +654,7 @@ The following graph shows the dependency relationships between various branches 
 
 flowchart TD
     %% Core Theory
-    Core[Core Theory formal_theory_en.md v28.0] 
+    Core[Core Theory formal_theory_en.md v29.0] 
     
     %% Foundation Layer
     QD[Quantum Domain Details v19.1]
@@ -675,7 +690,7 @@ flowchart TD
     TA[Temporal Asymmetry Theory v24.0]
     MU[Multiverse Interference Model v27.0]
     CM[Cosmological Dualism Model]
-    EC[Evolutionary Cosmology Dualism]
+    EC[Dualism Evolutionary Cosmology]
     
     %% Physics Applications Dependencies
     Core --> UT
@@ -690,19 +705,21 @@ flowchart TD
     
     %% Life and Consciousness Layer
     QB[Quantum Biology v20.0]
-    EL[Entropy and Life v27.0]
+    EL[Information Entropy and Life v27.0]
     CO[Quantum Consciousness Theory v25.0]
-    QDr[Quantum Dreams Theory]
-    ON[Higher-dimensional Observer Networks v26.0]
+    UC[Unified Consciousness Theory v28.0]
+    QDr[Quantum Dream Theory]
+    ON[Higher-Dimensional Observer Networks v26.0]
     OF[Observer Feedback Theory]
-    EV[Evolutionary Dualist Perspective v27.0]
-    CF[Future Development of Human Consciousness]
-    ME[Meditation Science v27.0]
+    EV[Evolution Dualistic Perspective v27.0]
+    CF[Human Consciousness Future Development]
+    ME[Mindfulness Meditation Science v27.0]
     
     %% Life and Consciousness Dependencies
     IF --> QB
     Core & QB --> EL
     Core & OB --> CO
+    Core & CO --> UC
     IF & CO --> QDr
     OB --> ON
     OB --> OF
@@ -714,32 +731,40 @@ flowchart TD
     CD2[Quantum Cognitive Dynamics v24.0]
     QDe[Quantum Decision Theory v24.0]
     NE[Quantum-Classical Non-equilibrium Theory v27.0]
-    LT[Language and Thought Dualism]
-    QL[Quantum Linguistics v27.0]
+    LT[Language and Thought Dual Structure]
+    QLF[Quantum Language Formation Theory v28.0]
+    QL[Language Quantum Properties v27.0]
     MEM[Quantum Memory Theory v11.1]
     TP[Time Perception Theory v27.0]
     SR[Self-Reference Loop Theory]
+    QEm[Quantum Emergence Theory v29.0]
+    ID[Information Dynamics Theory v29.0]
+    CM2[Consciousness Measurement Theory v29.0]
     
     %% Cognition and Information Dependencies
     Core & OB --> CD2
     Core & CD2 --> QDe
     Core & IF --> NE
     CD2 --> LT
+    Core & LT --> QLF
     Core & LT --> QL
     Core --> MEM
     Core & CO --> TP
     CO --> SR
+    Core & NE --> QEm
+    Core & PT --> ID
+    Core & CO --> CM2
     
     %% Computation and Information Technology Layer
     QC[Quantum Computing Applications]
-    CC[Computational Complexity Dualism v27.0]
-    QS[Quantum-Classical Information Security v25.0]
-    TO[Topological Information Protection v27.0]
+    CC[Dualism Computational Complexity Theory v27.0]
+    QS[Quantum-Classical Information Security Theory v25.0]
+    TO[Topological Information Protection Theory v27.0]
     QM[Quantum Communication Protocols v27.0]
     QA[Quantum AI and Machine Learning v27.0]
     IT[Quantum-Classical Interaction Technology v27.0]
     VR[Virtual Reality and Dualism]
-    TS[Technological Singularity Predictions v27.0]
+    TS[Technological Singularity Prediction v27.0]
     
     %% Computation and Information Technology Dependencies
     QD & CD --> QC
@@ -756,18 +781,19 @@ flowchart TD
     SD[Quantum Social Dynamics v27.0]
     SN[Quantum Social Network Theory v27.0]
     QE[Quantum Economics Principles]
+    QET[Quantum Technology Ethics Theory v28.0]
     ET[Quantum-Classical Ethics v27.0]
-    PH[Philosophical Foundations of Dualism v27.0]
+    PH[Dualism Philosophical Foundations v27.0]
     CC2[Cross-Cultural Philosophy Integration v11.1]
     MM[Quantum-Classical Mathematical Foundations v27.0]
     SO[Quantum Self-Organization Theory]
-    CS[Complex Systems Dualist Analysis v27.0]
+    CS[Complex Systems Dual Analysis v27.0]
     
     %% Society and Humanities Dependencies
     Core & OB --> SD
     Core & SD --> SN
     QDe --> QE
-    Core & OB --> ET
+    Core & ET --> QET
     Core --> PH
     Core & PH --> CC2
     Core & PH --> MM
@@ -775,11 +801,11 @@ flowchart TD
     Core & SO --> CS
     
     %% Creativity and Expression Layer
-    AR[Dualist Art Theory v27.0]
+    AR[Dualism Art Theory v27.0]
     MU2[Quantum-Classical Music Theory]
-    AE[Quantum-Classical Aesthetics v27.0]
-    NA[Quantum Narrative Theory v27.0]
-    SE[Dualist Semiotics Theory]
+    AE[Quantum-Classical Aesthetics Theory v27.0]
+    NA[Quantum Storytelling Theory v27.0]
+    SE[Dualism Semiotics Theory]
     DE[Quantum-Classical Design Theory v11.1]
     IN[Quantum Innovation Theory v27.0]
     RE[Quantum-Classical Resonance Theory]
@@ -796,23 +822,39 @@ flowchart TD
     
     %% Application Domains Layer
     MD[Quantum Medicine Applications v27.0]
-    PS[Dualist Psychotherapy Model v28.0]
-    ED[Dualist Education Theory v27.0]
-    RD[Systems Reduction Theory v28.0]
-    PA[Practical Applications Collection v28.0]
+    QH[Quantum Information Healing Theory v28.0]
+    PS[Dualism Psychotherapy Model v28.0]
+    ED[Dualism Education Theory v27.0]
+    RD[System Reduction Theory v28.0]
+    PA[Theory Practical Applications Collection v28.0]
+    RE2[Reality Engineering v29.0]
+    UL[Universal Learning Theory v29.0]
     
     %% Application Domains Dependencies
     Core & QB --> MD
+    Core & MD & QB --> QH
     Core & CO --> PS
     Core & CD2 --> ED
     Core --> RD
     Core & RD --> PA
+    Core & IF & QEm --> RE2
+    Core & ID --> UL
     
-    %% Reference Materials Layer
-    TC[Terminology and Concept Dictionary v27.0]
+    %% Physics Applications Additional Dependencies
+    Core & GS --> QSH
+    QSH[Quantum Spacetime Harmony Theory v28.0]
     
-    %% Reference Materials Dependencies
-    Core --> TC
+    %% Additional Theory Dependencies
+    CO & ON --> UC
+    QB & MD --> QH
+    ET & SD & QA --> QET
+    GS & UT --> QSH
+    LT & QL & CD2 --> QLF
+    NE & PT & QD --> QEm
+    PT & IF --> ID
+    CO & OB & QEm --> CM2
+    IF & OB & QEm --> RE2
+    ID & EV --> UL
     
     %% Style Settings
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
@@ -830,11 +872,11 @@ flowchart TD
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
     class QB,EL,CO,QDr,ON,OF,EV,CF,ME life;
-    class CD2,QDe,NE,LT,QL,MEM,TP,SR cognition;
+    class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR,QEm,ID,CM2 cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
-    class SD,SN,QE,ET,PH,CC2,MM,SO,CS society;
+    class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS society;
     class AR,MU2,AE,NA,SE,DE,IN,RE creativity;
-    class MD,PS,ED,RD,PA application;
+    class MD,QH,PS,ED,RD,PA,RE2,UL application;
     class TC reference;
 ```
 
@@ -851,7 +893,7 @@ This dependency graph illustrates the actual dependency relationships between va
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Quantum Biology](formal_theory_quantum_biology_en.md)
 - [Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)
-- [High-Dimensional Observer Networks](formal_theory_observer_network_en.md)
+- [Higher-Dimensional Observer Networks](formal_theory_observer_network_en.md)
 - [Quantum Computing Applications](formal_theory_quantum_computing_en.md)
 - [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 - [Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)
@@ -864,53 +906,58 @@ This dependency graph illustrates the actual dependency relationships between va
 - [Quantum Information Healing Theory](formal_theory_quantum_healing_en.md)
 - [Topological Information Protection Theory](formal_theory_topology_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
-- [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
-- [Quantum-Classical Dualism Artificial Intelligence Theory](formal_theory_artificial_intelligence_en.md)
+- [Quantum AI and Machine Learning](formal_theory_quantum_ai_en.md)
+- [Quantum-Classical Dualism AI Theory](formal_theory_artificial_intelligence_en.md)
 - [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
 - [Quantum-Classical Resonance Theory](formal_theory_resonance_en.md)
 - [Information Phase Transition Theory](formal_theory_phase_transition_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
 - [Quantum-Classical Non-equilibrium Theory](formal_theory_nonequilibrium_en.md)
-- [Dualistic Computational Complexity Theory](formal_theory_computation_en.md)
+- [Dualism Computational Complexity Theory](formal_theory_computation_en.md)
 - [Observer Feedback Theory](formal_theory_observer_feedback_en.md)
 - [System Reduction Theory](formal_theory_reduction_en.md)
 - [Theory Practical Applications Collection](formal_theory_practical_applications_en.md)
 - [Cosmological Dualism Model](formal_theory_cosmology_en.md)
-- [Technology Singularity Prediction](formal_theory_singularity_en.md)
+- [Technological Singularity Prediction](formal_theory_singularity_en.md)
 - [Quantum Communication Protocols](formal_theory_quantum_communication_en.md)
-- [Dualistic Philosophy Foundation](formal_theory_philosophy_en.md)
-- [Quantum Science Philosophy and Artificial Intelligence Theory](formal_theory_quantum_science_philosophy_en.md)
+- [Dualism Philosophical Foundations](formal_theory_philosophy_en.md)
+- [Quantum Science Philosophy and AI Theory](formal_theory_quantum_science_philosophy_en.md)
 - [Virtual Reality and Dualism](formal_theory_virtual_reality_en.md)
 - [Information Entropy and Life](formal_theory_entropy_life_en.md)
 - [Quantum Economics Principles](formal_theory_quantum_economics_en.md)
 - [Language and Thought Dual Structure](formal_theory_language_thought_en.md)
 - [Quantum Language Formation Theory](formal_theory_quantum_language_formation_en.md)
-- [Evolutionary Theory Dual Perspective](formal_theory_evolution_en.md)
-- [Future Development of Human Consciousness](formal_theory_consciousness_future_en.md)
+- [Evolution Dualistic Perspective](formal_theory_evolution_en.md)
+- [Human Consciousness Future Development](formal_theory_consciousness_future_en.md)
 - [Quantum Dream Theory](formal_theory_quantum_dreams_en.md)
-- [Dualistic Art Theory](formal_theory_art_en.md)
+- [Dualism Art Theory](formal_theory_art_en.md)
 - [Quantum-Classical Mathematical Foundations](formal_theory_mathematics_en.md)
-- [Dualistic Education Theory](formal_theory_education_en.md)
+- [Dualism Education Theory](formal_theory_education_en.md)
 - [Quantum-Classical Music Theory](formal_theory_music_en.md)
-- [Linguistic Quantum Properties](formal_theory_quantum_linguistics_en.md)
+- [Language Quantum Properties](formal_theory_quantum_linguistics_en.md)
 - [Quantum Self-Organization Theory](formal_theory_self_organization_en.md)
 - [Time Perception Theory](formal_theory_time_perception_en.md)
 - [Quantum-Classical Ethics](formal_theory_ethics_en.md)
 - [Quantum Technology Ethics Theory](formal_theory_quantum_ethics_en.md)
 - [Quantum Innovation Theory](formal_theory_innovation_en.md)
 - [Matter Essence Theory](formal_theory_matter_en.md)
-- [Complex Systems Dualistic Analysis](formal_theory_complex_systems_en.md)
+- [Complex Systems Dual Analysis](formal_theory_complex_systems_en.md)
 - [Quantum-Classical Aesthetics Theory](formal_theory_aesthetics_en.md)
-- [Dualistic Psychotherapy Model](formal_theory_psychotherapy_en.md)
-- [Quantum Narrative Theory](formal_theory_narrative_en.md)
-- [Dualistic Semiotics Theory](formal_theory_semiotics_en.md)
+- [Dualism Psychotherapy Model](formal_theory_psychotherapy_en.md)
+- [Quantum Storytelling Theory](formal_theory_narrative_en.md)
+- [Dualism Semiotics Theory](formal_theory_semiotics_en.md)
 - [Quantum-Classical Design Theory](formal_theory_design_en.md)
 - [Quantum Memory Theory](formal_theory_memory_en.md)
 - [Multiverse Interference Model](formal_theory_multiverse_en.md)
 - [Quantum-Classical Interaction Technology](formal_theory_interaction_en.md)
-- [Dualistic Evolutionary Cosmology](formal_theory_evolutionary_cosmology_en.md)
+- [Dualism Evolutionary Cosmology](formal_theory_evolutionary_cosmology_en.md)
 - [Quantum Spacetime Harmony Theory](formal_theory_quantum_spacetime_harmony_en.md)
 - [Cross-Cultural Philosophy Integration](formal_theory_cross_cultural_en.md)
 - [Quantum Social Network Theory](formal_theory_social_networks_en.md)
 - [Mindfulness Meditation Science](formal_theory_meditation_en.md)
+- [Quantum Emergence Theory](formal_theory_quantum_emergence_en.md)
+- [Information Dynamics Theory](formal_theory_information_dynamics_en.md)
+- [Consciousness Measurement Theory](formal_theory_consciousness_measurement_en.md)
+- [Reality Engineering](formal_theory_reality_engineering_en.md)
+- [Universal Learning Theory](formal_theory_universal_learning_en.md)
 - [Terminology and Concept Dictionary](formal_theory_terminology_en.md) 

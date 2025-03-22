@@ -475,6 +475,9 @@ Extend the dualism framework to social systems, establishing quantum-classical d
 ### [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
 Discuss quantum-classical hybrid models for artificial intelligence and machine learning. Designs next-generation intelligent system architectures.
 
+### [Quantum-Classical Dualism Theory of Artificial Intelligence](formal_theory_artificial_intelligence_en.md)
+Study the application of dualism in artificial intelligence, explaining the integration of quantum and classical information in intelligent systems. Provides new theoretical tools for AI research.
+
 ### [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
 Unify classical cryptography and quantum cryptography, revealing deep connections between them. Develops new secure communication schemes.
 
@@ -860,6 +863,7 @@ This dependency graph illustrates the actual dependency relationships between va
 - [Topological Information Protection Theory](formal_theory_topology_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
 - [Quantum Artificial Intelligence and Machine Learning](formal_theory_quantum_ai_en.md)
+- [Quantum-Classical Dualism Theory of Artificial Intelligence](formal_theory_artificial_intelligence_en.md)
 - [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
 - [Quantum-Classical Resonance Theory](formal_theory_resonance_en.md)
 - [Information Phase Transition Theory](formal_theory_phase_transition_en.md)

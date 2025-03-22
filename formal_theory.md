@@ -569,6 +569,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [拓扑信息保护理论](formal_theory_topology.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子人工智能与机器学习](formal_theory_quantum_ai.md)
+- [量子-经典二元论人工智能理论](formal_theory_artificial_intelligence.md)
 - [量子-经典信息安全理论](formal_theory_quantum_security.md)
 - [量子-经典共鸣理论](formal_theory_resonance.md)
 - [信息相变理论](formal_theory_phase_transition.md)

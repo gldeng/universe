@@ -1,5 +1,7 @@
 # 观察者熵知识对偶性理论 (Observer Entropy-Knowledge Duality Theory)
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本27.0）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 

@@ -1,5 +1,7 @@
 # 爱情与吸引力的量子经典解释 (Quantum-Classical Explanation of Love and Attraction)
 
+> 本文档基于[量子经典二元论核心理论](../../core.md)（版本27.0）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 **章节链接 | Section Links**  

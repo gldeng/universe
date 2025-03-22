@@ -1,4 +1,4 @@
-# Information Phase Transition Theory v26.0
+# Information Phase Transition Theory v28.0
 
 **English Version | [中文版](formal_theory_phase_transition.md)**
 
@@ -20,7 +20,7 @@
 - [Experimental Validation and Predictions](#experimental-validation-and-predictions)
 - [Applications and Implications](#applications-and-implications)
 
-> This theory is based on [Core Theory](core_en.md) v11.1, [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v26.0.
+> This theory is based on [Core Theory](core_en.md) v28.0
 
 ## Theoretical Foundation
 

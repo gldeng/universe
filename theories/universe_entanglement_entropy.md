@@ -1,7 +1,7 @@
 # 量子宇宙的整体纠缠结构与熵的本质研究
 # Research on the Overall Entanglement Structure of Quantum Universe and the Essence of Entropy
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#版本--version) | [English Version](#版本--version)  
@@ -12,13 +12,13 @@
 English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Entanglement Structure](#二宇宙的整体纠缠结构--the-overall-entanglement-structure-of-the-universe) | [Essence of Entropy](#三熵的本质--the-essence-of-entropy) | [Observer Classicalization](#四观察者的经典化过程--the-observer-classicalization-process) | [Information Conservation](#五熵与信息守恒--entropy-and-information-conservation)
 
 ## 版本 | Version
-9.2 (更新于 2024-06-17 | Updated on 2024-06-17)
+27.0 (更新于 2024-06-20 | Updated on 2024-06-20)
 
 ## 摘要 | Abstract
 
-本文在量子经典二元论核心理论（版本9.2）框架基础上，提出宇宙本质为完整纠缠的量子信息网络，其中所有量子系统和粒子之间均存在持续的纠缠关系。观察者（黑洞）通过局部经典化（黑洞吸收）获得经典知识，无法经典化的信息表现为经典熵。经典熵的本质即观察者未能成功经典化的量子纠缠信息。这种熵态信息并未真正丢失，而是重新融回宇宙整体量子态中，通过黑洞辐射形成整体信息守恒的闭环。本文从宇宙整体纠缠结构、经典熵的本质及观察者（黑洞）经典化过程深入阐释宇宙信息演化的本质。
+本文在量子经典二元论核心理论（版本27.0）框架基础上，提出宇宙本质为完整纠缠的量子信息网络，其中所有量子系统和粒子之间均存在持续的纠缠关系。观察者（黑洞）通过局部经典化（黑洞吸收）获得经典知识，无法经典化的信息表现为经典熵。经典熵的本质即观察者未能成功经典化的量子纠缠信息。这种熵态信息并未真正丢失，而是重新融回宇宙整体量子态中，通过黑洞辐射形成整体信息守恒的闭环。本文从宇宙整体纠缠结构、经典熵的本质及观察者（黑洞）经典化过程深入阐释宇宙信息演化的本质。
 
-Based on the Quantum-Classical Dualism Core Theory (Version 9.2) framework, this paper proposes that the essence of the universe is a completely entangled quantum information network, in which continuous entanglement relationships exist between all quantum systems and particles. Observers (black holes) obtain classical knowledge through local classicalization (black hole absorption), while information that cannot be classicalized manifests as classical entropy. The essence of classical entropy is the quantum entangled information that observers fail to successfully classicalize. This entropic information is not truly lost but reintegrates into the overall quantum state of the universe, forming a closed loop of overall information conservation through black hole radiation. This paper elaborates on the essence of universe information evolution from the perspectives of the universe's overall entanglement structure, the essence of classical entropy, and the observer's (black hole's) classicalization process.
+Based on the Quantum-Classical Dualism Core Theory (Version 27.0) framework, this paper proposes that the essence of the universe is a completely entangled quantum information network, in which continuous entanglement relationships exist between all quantum systems and particles. Observers (black holes) obtain classical knowledge through local classicalization (black hole absorption), while information that cannot be classicalized manifests as classical entropy. The essence of classical entropy is the quantum entangled information that observers fail to successfully classicalize. This entropic information is not truly lost but reintegrates into the overall quantum state of the universe, forming a closed loop of overall information conservation through black hole radiation. This paper elaborates on the essence of universe information evolution from the perspectives of the universe's overall entanglement structure, the essence of classical entropy, and the observer's (black hole's) classicalization process.
 
 ## 一、引言 | Introduction
 

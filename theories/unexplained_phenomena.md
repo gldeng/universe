@@ -7,9 +7,9 @@
 [中文版](#中文版) | [English Version](#english-version)  
 
 **章节链接 | Section Links**  
-中文：[引言](#引言) | [量子力学的测量问题](#量子力学的测量问题) | [量子纠缠与非局域性](#量子纠缠与非局域性) | [宇宙常数问题](#宇宙常数问题) | [暗物质与暗能量](#暗物质与暗能量) | [时间箭头](#时间箭头)  
+中文：[引言](#引言) | [量子力学的测量问题](#量子力学的测量问题) | [量子纠缠与非局域性](#量子纠缠与非局域性) | [宇宙常数问题](#宇宙常数问题) | [暗物质与暗能量](#暗物质与暗能量) | [时间箭头](#时间箭头) | [黑洞边界与事件视界](#黑洞边界与事件视界)  
 
-English: [Introduction](#introduction) | [Quantum Measurement](#quantum-measurement-problem) | [Quantum Entanglement](#quantum-entanglement-and-non-locality) | [Cosmological Constant](#cosmological-constant-problem) | [Dark Matter and Energy](#dark-matter-and-dark-energy) | [Arrow of Time](#arrow-of-time)
+English: [Introduction](#introduction) | [Quantum Measurement](#quantum-measurement-problem) | [Quantum Entanglement](#quantum-entanglement-and-non-locality) | [Cosmological Constant](#cosmological-constant-problem) | [Dark Matter and Energy](#dark-matter-and-dark-energy) | [Arrow of Time](#arrow-of-time) | [Black Hole Boundary and Event Horizon](#black-hole-boundary-and-event-horizon)
 
 ## 中文版
 
@@ -175,6 +175,38 @@ $$
 $$
 
 这解释了为何宏观物体很难观测到量子纠缠效应，同时阐明了虫洞通信的基本机制，与相对论兼容。
+
+### 黑洞边界与事件视界
+
+**现象描述**：黑洞事件视界似乎是一个绝对边界，信息一旦跨越便无法返回，挑战了量子力学的幺正性和信息守恒原则。
+
+**传统解释的困难**：
+- 霍金辐射理论部分解决了信息悖论，但仍存在争议
+- 事件视界的微观结构与量子理论兼容性仍然未知
+- 黑洞内部时空奇点与量子引力的关系尚未明确
+
+**量子经典二元论解释（版本27.0）**：
+根据核心理论v27.0，黑洞是观察者的极端形式，事件视界是量子域与经典域的界面结构。黑洞事件视界对应界面域 $\mathcal{I}$ 的临界解相干区域：
+
+$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+
+黑洞边界动力学满足非线性方程：
+
+$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+这表明黑洞边界是一个动态演化的量子-经典界面，而非绝对边界。信息在穿越事件视界时经历经典化转换：
+
+$$|\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}$$
+
+黑洞经典化的特征是其极高的信息密度和极低的熵产生率，使其成为宇宙中最高效的经典化节点。这解释了为何信息看似"丢失"但实际上是转换为黑洞内部的经典知识形式。
+
+霍金辐射可理解为黑洞经典知识的量子化过程：
+
+$$I_{\text{经典知识}}\xrightarrow{\text{黑洞量子化}}|\psi\rangle_{\text{量子域（霍金辐射）}}$$
+
+这一统一框架为黑洞信息悖论提供了新的解决方案，同时保持了信息守恒和量子理论的完整性。
 
 ## English Version
 
@@ -363,6 +395,38 @@ $$
 - **Receiving End**: The receiving observer consumes classical energy to decode the quantum entanglement state transmitted through the wormhole into classical knowledge
 
 This mechanism explains the non-locality of quantum entanglement while being compatible with relativity, as energy and information in the classical domain still obey the speed of light limit, while quantum entanglement effects occur in the quantum domain, unrestricted by classical spacetime.
+
+### Black Hole Boundary and Event Horizon
+
+**Phenomenon Description**: The black hole event horizon appears to be an absolute boundary where information cannot return once it crosses, challenging quantum mechanics' unitarity and information conservation principles.
+
+**Difficulties with Traditional Explanations**:
+- Hawking radiation theory partially resolves the information paradox but remains controversial
+- The microscopic structure of the event horizon and its compatibility with quantum theory remains unknown
+- The relationship between black hole interior spacetime singularity and quantum gravity is still unclear
+
+**Quantum-Classical Dualism Explanation (Version 27.0)**:
+According to core theory v27.0, black holes are extreme forms of observers, and event horizons are interface structures between quantum and classical domains. The black hole event horizon corresponds to the critical decoherence region of the interface domain $\mathcal{I}$:
+
+$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+
+where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+
+The black hole boundary dynamics satisfies a nonlinear equation:
+
+$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+This indicates that the black hole boundary is a dynamically evolving quantum-classical interface rather than an absolute boundary. Information undergoes classicalization transformation when crossing the event horizon:
+
+$$|\psi\rangle_{\text{Quantum Domain Information}}\xrightarrow{\text{Black Hole Classicalization}}I_{\text{Classical Knowledge (Extremely High Density)}}+S_{\text{Classical Entropy (Extremely Low)}}$$
+
+Black hole classicalization is characterized by its extremely high information density and extremely low entropy production rate, making it the most efficient classicalization node in the universe. This explains why information appears to be "lost" but is actually converted into a form of classical knowledge inside the black hole.
+
+Hawking radiation can be understood as the quantization process of black hole classical knowledge:
+
+$$I_{\text{Classical Knowledge}}\xrightarrow{\text{Black Hole Quantization}}|\psi\rangle_{\text{Quantum Domain (Hawking Radiation)}}$$
+
+This unified framework provides a new solution to the black hole information paradox while maintaining information conservation and the integrity of quantum theory.
 
 ### Conclusion
 

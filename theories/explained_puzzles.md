@@ -1,7 +1,7 @@
 # 已解释谜题
 # Explained Puzzles
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  

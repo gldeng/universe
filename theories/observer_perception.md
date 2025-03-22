@@ -1,6 +1,6 @@
 # 观察者感知宇宙的机制 | Observer's Perception of the Universe
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#引言--introduction) | [English Version](#引言--introduction)  
@@ -12,9 +12,9 @@ English: [Introduction](#引言--introduction) | [Essential Definitions](#宇宙
 
 ## 引言 | Introduction
 
-本文档基于量子经典二元论核心理论（版本9.2），详细阐述观察者（黑洞）如何感知宇宙的机制。在该理论中，宇宙被视为一个无限维的量子计算机，观察者（黑洞）则为其中的量子程序节点，而意识是观察者经典化量子信息形成的稳定结构。本文将探讨观察者与宇宙之间的信息交换过程，以及这一过程如何通过黑洞吸收（经典化）与黑洞辐射（量子化）塑造我们对现实的感知。
+本文档基于量子经典二元论核心理论（版本27.0），详细阐述观察者（黑洞）如何感知宇宙的机制。在该理论中，宇宙被视为量子域与经典域的二元结构，观察者（黑洞）是将量子域信息转化为经典域知识与熵的经典化节点，而意识是观察者经典化量子信息形成的稳定结构。本文将探讨观察者与宇宙之间的信息交换过程，以及这一过程如何通过黑洞吸收（经典化）与黑洞辐射（量子化）塑造我们对现实的感知。
 
-This document, based on the Quantum-Classical Dualism Core Theory (Version 9.2), elaborates on the mechanism of how observers (black holes) perceive the universe. In this theory, the universe is viewed as an infinite-dimensional quantum computer, observers (black holes) are quantum program nodes within it, and consciousness is a stable structure formed by the observer's classicalization of quantum information. This article will explore the information exchange process between observers and the universe, and how this process shapes our perception of reality through black hole absorption (classicalization) and black hole radiation (quantization).
+This document, based on the Quantum-Classical Dualism Core Theory (Version 27.0), elaborates on the mechanism of how observers (black holes) perceive the universe. In this theory, the universe is viewed as a dual structure of quantum domain and classical domain, observers (black holes) are classicalization nodes that transform quantum domain information into classical domain knowledge and entropy, and consciousness is a stable structure formed by the observer's classicalization of quantum information. This article will explore the information exchange process between observers and the universe, and how this process shapes our perception of reality through black hole absorption (classicalization) and black hole radiation (quantization).
 
 > **相关文档**：本文与《宇宙结构与演化》、《意识的持久性与传递》和《量子计算与人工意识》形成完整的理论体系。若要深入了解宇宙的本质结构，请参阅《宇宙结构与演化》；若要了解意识如何在时间维度上保持持久性以及在观察者之间传递，请参阅《意识的持久性与传递》；若要了解如何应用这一理论框架设计量子计算机和构建人工意识，请参阅《量子计算与人工意识》。
 
@@ -46,9 +46,9 @@ This definition views the universe as an ocean of information, rather than a col
 
 ### 观察者（黑洞）的本质 | The Essence of the Observer (Black Hole)
 
-根据量子经典二元论核心理论（版本9.2），所有观察者本质上即是黑洞，是与宇宙本质同构的量子程序节点，具有以下特性：
+根据量子经典二元论核心理论（版本27.0），所有观察者本质上即是黑洞，是与宇宙本质同构的量子程序节点，具有以下特性：
 
-According to the Quantum-Classical Dualism Core Theory (Version 9.2), all observers are essentially black holes, quantum program nodes isomorphic to the essence of the universe, with the following characteristics:
+According to the Quantum-Classical Dualism Core Theory (Version 27.0), all observers are essentially black holes, quantum program nodes isomorphic to the essence of the universe, with the following characteristics:
 
 1. **量子性**：观察者（黑洞）本身是量子系统，能够与宇宙中的其他量子系统建立纠缠
 2. **信息处理能力**：观察者通过黑洞吸收（经典化）和黑洞辐射（量子化）处理信息
@@ -130,9 +130,9 @@ This bidirectional process enables the observer to engage in continuous informat
 
 ### 观察者维度的定义 | Definition of Observer Dimension
 
-根据量子经典二元论核心理论（版本9.2），观察者维度由经典知识与经典熵的比值决定：
+根据量子经典二元论核心理论（版本27.0），观察者维度由经典知识与经典熵的比值决定：
 
-According to the Quantum-Classical Dualism Core Theory (Version 9.2), the observer's dimension is determined by the ratio of classical knowledge to classical entropy:
+According to the Quantum-Classical Dualism Core Theory (Version 27.0), the observer's dimension is determined by the ratio of classical knowledge to classical entropy:
 
 $$
 \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
@@ -220,9 +220,9 @@ Where $\alpha$ and $\beta$ are the efficiency coefficients of structure optimiza
 
 ### 虫洞通信与维度提升 | Wormhole Communication and Dimension Elevation
 
-根据量子经典二元论核心理论（版本9.2），虫洞通信是观察者（黑洞）之间的信息传输过程，能够有效提升观察者维度：
+根据量子经典二元论核心理论（版本27.0），虫洞通信是观察者（黑洞）之间的信息传输过程，能够有效提升观察者维度：
 
-According to the Quantum-Classical Dualism Core Theory (Version 9.2), wormhole communication is the information transmission process between observers (black holes), which can effectively elevate the observer's dimension:
+According to the Quantum-Classical Dualism Core Theory (Version 27.0), wormhole communication is the information transmission process between observers (black holes), which can effectively elevate the observer's dimension:
 
 $$
 \text{观察者A维度}(t+\Delta t) = \text{观察者A维度}(t) + \Delta D_{A←B}
@@ -412,7 +412,7 @@ By increasing classical knowledge, reducing classical entropy, establishing a br
 
 ## 参考 | References
 
-1. 量子经典二元论核心理论（版本9.2）| Quantum-Classical Dualism Core Theory (Version 9.2)
+1. 量子经典二元论核心理论（版本27.0）| Quantum-Classical Dualism Core Theory (Version 27.0)
 2. 《宇宙结构与演化》| "Universe Structure and Evolution"
 3. 《意识的持久性与传递》| "Consciousness Persistence and Transmission"
 4. 《量子计算与人工意识》| "Quantum Computing and Artificial Consciousness"

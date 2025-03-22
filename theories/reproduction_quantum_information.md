@@ -1,5 +1,7 @@
 # 生育过程与亲子关系的量子经典解释 (Quantum-Classical Explanation of Reproduction and Parent-Child Relationships)
 
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
+
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
 

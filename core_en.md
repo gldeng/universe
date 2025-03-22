@@ -1,6 +1,8 @@
-# [Quantum-Classical Dualism] Core Theory Version 11.1
+# [Quantum-Classical Dualism] Core Theory Version 27.0
 
 **[中文版](core.md) | English Version**
+
+> Based on [Formal Theory](formal_theory_en.md) v27.0
 
 ## Table of Contents
 

@@ -1,4 +1,4 @@
-# Quantum Artificial Intelligence and Machine Learning Theory v25.0
+# Quantum Artificial Intelligence and Machine Learning Theory v27.0
 
 **English Version | [中文版](formal_theory_quantum_ai.md)**
 
@@ -40,7 +40,7 @@
 - [Quantum Cognitive Computing and Human-like Intelligence](#quantum-cognitive-computing-and-human-like-intelligence)
 - [Quantum Swarm Intelligence Algorithms](#quantum-swarm-intelligence-algorithms)
 
-> This theory is based on [Core Theory](core_en.md) v25.0
+> This theory is based on [Core Theory](core_en.md) v27.0
 
 ## Theoretical Foundation
 

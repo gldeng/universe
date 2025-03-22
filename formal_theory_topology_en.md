@@ -1,4 +1,4 @@
-# Topological Information Protection Theory v25.0
+# Topological Information Protection Theory v27.0
 
 **English Version | [中文版](formal_theory_topology.md)**
 
@@ -22,7 +22,7 @@
 - [Experimental Validation Approaches](#experimental-validation-approaches)
 - [Technological Application Prospects](#technological-application-prospects)
 
-> This theory is based on [Core Theory](core.md) v14.0
+> This theory is based on [Core Theory](core_en.md) v27.0
 
 ## Theoretical Foundation
 

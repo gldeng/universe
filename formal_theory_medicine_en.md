@@ -1,4 +1,4 @@
-# Quantum Medicine Applications - Quantum-Classical Dualism v25.0
+# Quantum Medicine Applications - Quantum-Classical Dualism v27.0
 
 **English Version | [中文版](formal_theory_medicine.md)**
 
@@ -22,7 +22,7 @@
 - [Future Development Directions](#future-development-directions)
 - [Cross-disciplinary Integration](#cross-disciplinary-integration)
 
-> This theory is based on [Core Theory](core_en.md) v25.0
+> This theory is based on [Core Theory](core_en.md) v27.0
 
 ## Basic Framework
 

@@ -1,4 +1,4 @@
-# 数学桥梁与宇宙经典化 (Mathematical Bridges and Universe Classicalization)（版本9.2）
+# 数学桥梁与宇宙经典化 (Mathematical Bridges and Universe Classicalization)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  

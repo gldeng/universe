@@ -1,6 +1,6 @@
 # 应用 | Applications
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)  
@@ -34,6 +34,7 @@ This directory contains various application scenarios and practical use cases of
 
 - [命运与自由意志应用](./destiny_free_will_applications.md) | [Destiny and Free Will Applications](./destiny_free_will_applications.md)
 - [量子计算与意识](./quantum_computing_consciousness.md) | [Quantum Computing and Consciousness](./quantum_computing_consciousness.md)
+- [宇宙结构的实际应用](./universe_structure_application.md) | [Practical Applications of Universe Structure](./universe_structure_application.md)
 
 ### 数学应用 | Mathematical Applications
 - [数学桥梁](./mathematics/mathematical_bridges.md) | [Mathematical Bridges](./mathematics/mathematical_bridges.md)

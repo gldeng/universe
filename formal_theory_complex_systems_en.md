@@ -1,8 +1,8 @@
-# Complex Systems Dualistic Analysis v15.0
+# Complex Systems Dualistic Analysis v27.0
 
 **English Version | [中文版](formal_theory_complex_systems.md)**
 
-> Based on [Core Theory](core_en.md) v11.1
+> Based on [Core Theory](core_en.md) v27.0
 
 ## Navigation
 

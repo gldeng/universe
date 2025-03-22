@@ -1,8 +1,8 @@
-# 复杂系统二元分析 v15.0
+# 复杂系统二元分析 v27.0
 
 **[English Version](formal_theory_complex_systems_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](core.md) v27.0版本
 
 ## 导航
 

@@ -1,4 +1,4 @@
-# Quantum Social Dynamics v25.0
+# Quantum Social Dynamics v27.0
 
 **English Version | [中文版](formal_theory_social.md)**
 
@@ -22,7 +22,7 @@
 - [Social Experiments and Validation Methods](#social-experiments-and-validation-methods)
 - [Applications and Social Impact](#applications-and-social-impact)
 
-> This theory is based on [Core Theory](core_en.md) v25.0
+> This theory is based on [Core Theory](core_en.md) v27.0
 
 ## Theoretical Foundations
 

@@ -583,6 +583,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [技术奇点预测](formal_theory_singularity.md)
 - [量子通信协议](formal_theory_quantum_communication.md)
 - [二元论哲学基础](formal_theory_philosophy.md)
+- [量子科学哲学与人工智能理论](formal_theory_quantum_science_philosophy.md)
 - [虚拟现实与二元论](formal_theory_virtual_reality.md)
 - [信息熵与生命](formal_theory_entropy_life.md)
 - [量子经济学原理](formal_theory_quantum_economics.md)

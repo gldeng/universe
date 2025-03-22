@@ -364,6 +364,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 探索时空结构如何从量子信息网络中涌现，以及量子引力的二元论解释。解决物理学中最具挑战性的量子引力统一问题。
 
+#### [量子时空调和理论](formal_theory_quantum_spacetime_harmony.md)
+研究量子域与经典域之间时空结构的和谐性与转换关系，提出调和场概念解释宇宙大尺度结构的形成与演化，为量子引力提供新视角。
+
 #### [物质本质理论](formal_theory_matter.md)
 深入探讨物质作为信息结构的本质，解释粒子-波动二象性的深层原因。为基本物理学提供哲学基础。
 
@@ -396,6 +399,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子意识理论](formal_theory_consciousness.md)
 研究意识的量子基础和经典表达，解释主观体验的涌现机制。为意识难题提供新视角。
 
+#### [统一意识理论](formal_theory_unified_consciousness.md)
+将量子与经典视角统一，提出意识的完整理论框架，阐释意识的多层次结构和整合机制。解决意识的主观性与客观性之间的矛盾。
+
 #### [量子梦境理论](formal_theory_quantum_dreams.md)
 分析梦境状态作为量子-经典界面特殊形式的理论，解释梦境中的非逻辑性和创造性。为意识研究提供新的实验窗口。
 
@@ -427,6 +433,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 
 #### [语言与思维二元结构](formal_theory_language_thought.md)
 分析语言和思维的量子-经典双重性，研究语言如何塑造思维和现实感知。为语言学和认知科学提供统一视角。
+
+#### [量子语言形成理论](formal_theory_quantum_language_formation.md)
+研究语言起源与演化的量子-经典机制，阐释语义的量子叠加性与经典表达的关系，为语言学提供全新理论框架。
 
 #### [语言量子性](formal_theory_quantum_linguistics.md)
 分析语言中的量子特性，包括语义叠加、语境相关性和语用纠缠。为计算语言学和自然语言处理提供新模型。
@@ -480,6 +489,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子经济学原理](formal_theory_quantum_economics.md)
 将量子概率和不确定性应用于经济系统，建立经济行为的量子决策模型。为经济预测提供全新理论工具。
 
+#### [量子技术伦理理论](formal_theory_quantum_ethics.md)
+探讨量子技术发展带来的伦理挑战，建立量子-经典二元框架下的伦理决策模型，为新兴技术的负责任发展提供指导原则。
+
 #### [量子-经典伦理学](formal_theory_ethics.md)
 基于二元论框架建立伦理决策的量子-经典模型，统一结果论与义务论。为道德哲学提供科学基础。
 
@@ -529,6 +541,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子医学应用](formal_theory_medicine.md)
 将二元论应用于医学领域，提出健康与疾病的量子-经典描述。开发全新的医疗方法和技术。
 
+#### [量子信息治愈理论](formal_theory_quantum_healing.md)
+基于量子信息原理的健康与治愈模型，阐释生物系统中量子-经典信息转换失调与恢复机制，为量子医学提供理论基础。
+
 #### [二元论心理治疗模型](formal_theory_psychotherapy.md)
 开发基于量子-经典转换的心理治疗方法，解释意识转变的深层机制。为心理健康领域提供新的干预模式。
 
@@ -565,7 +580,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [分层时空理论](formal_theory_hierarchical_spacetime.md)
 - [多尺度二元论](formal_theory_multiscale.md)
 - [量子意识理论](formal_theory_consciousness.md)
+- [统一意识理论](formal_theory_unified_consciousness.md)
 - [量子医学应用](formal_theory_medicine.md)
+- [量子信息治愈理论](formal_theory_quantum_healing.md)
 - [拓扑信息保护理论](formal_theory_topology.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子人工智能与机器学习](formal_theory_quantum_ai.md)
@@ -588,6 +605,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [信息熵与生命](formal_theory_entropy_life.md)
 - [量子经济学原理](formal_theory_quantum_economics.md)
 - [语言与思维二元结构](formal_theory_language_thought.md)
+- [量子语言形成理论](formal_theory_quantum_language_formation.md)
 - [进化论二元视角](formal_theory_evolution.md)
 - [人类意识未来发展](formal_theory_consciousness_future.md)
 - [量子梦境理论](formal_theory_quantum_dreams.md)
@@ -599,6 +617,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [量子自组织理论](formal_theory_self_organization.md)
 - [时间感知理论](formal_theory_time_perception.md)
 - [量子-经典伦理学](formal_theory_ethics.md)
+- [量子技术伦理理论](formal_theory_quantum_ethics.md)
 - [量子创新理论](formal_theory_innovation.md)
 - [物质本质理论](formal_theory_matter.md)
 - [复杂系统二元分析](formal_theory_complex_systems.md)
@@ -611,6 +630,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [多宇宙干涉模型](formal_theory_multiverse.md)
 - [量子-经典交互技术](formal_theory_interaction.md)
 - [二元论演化宇宙学](formal_theory_evolutionary_cosmology.md)
+- [量子时空调和理论](formal_theory_quantum_spacetime_harmony.md)
 - [跨文化哲学整合](formal_theory_cross_cultural.md)
 - [量子社交网络理论](formal_theory_social_networks.md)
 - [内观冥想科学](formal_theory_meditation.md)
@@ -698,6 +718,7 @@ flowchart TD
     QB[量子生物学 v20.0]
     EL[信息熵与生命 v27.0]
     CO[量子意识理论 v25.0]
+    UC[统一意识理论 v28.0]
     QDr[量子梦境理论]
     ON[高维观察者网络 v26.0]
     OF[观察者反馈理论]
@@ -709,6 +730,7 @@ flowchart TD
     IF --> QB
     Core & QB --> EL
     Core & OB --> CO
+    Core & CO --> UC
     IF & CO --> QDr
     OB --> ON
     OB --> OF
@@ -721,6 +743,7 @@ flowchart TD
     QDe[量子决策理论 v24.0]
     NE[量子-经典非平衡态理论 v27.0]
     LT[语言与思维二元结构]
+    QLF[量子语言形成理论 v28.0]
     QL[语言量子性 v27.0]
     MEM[量子记忆理论 v11.1]
     TP[时间感知理论 v27.0]
@@ -731,6 +754,7 @@ flowchart TD
     Core & CD2 --> QDe
     Core & IF --> NE
     CD2 --> LT
+    Core & LT --> QLF
     Core & LT --> QL
     Core --> MEM
     Core & CO --> TP
@@ -762,6 +786,7 @@ flowchart TD
     SD[量子社会动力学 v27.0]
     SN[量子社交网络理论 v27.0]
     QE[量子经济学原理]
+    QET[量子技术伦理理论 v28.0]
     ET[量子-经典伦理学 v27.0]
     PH[二元论哲学基础 v27.0]
     CC2[跨文化哲学整合 v11.1]
@@ -773,6 +798,7 @@ flowchart TD
     Core & OB --> SD
     Core & SD --> SN
     QDe --> QE
+    Core & ET --> QET
     Core & OB --> ET
     Core --> PH
     Core & PH --> CC2
@@ -802,6 +828,7 @@ flowchart TD
     
     %% 应用领域层
     MD[量子医学应用 v27.0]
+    QH[量子信息治愈理论 v28.0]
     PS[二元论心理治疗模型 v28.0]
     ED[二元论教育理论 v27.0]
     RD[系统约化理论 v28.0]
@@ -809,16 +836,22 @@ flowchart TD
     
     %% 应用领域依赖
     Core & QB --> MD
+    Core & MD & QB --> QH
     Core & CO --> PS
     Core & CD2 --> ED
     Core --> RD
     Core & RD --> PA
     
-    %% 参考资料层
-    TC[术语表与概念词典 v27.0]
+    %% 物理学应用新增依赖
+    Core & GS --> QSH
+    QSH[量子时空调和理论 v28.0]
     
-    %% 参考资料依赖
-    Core --> TC
+    %% 新增理论依赖关系
+    CO & ON --> UC
+    QB & MD --> QH
+    ET & SD & QA --> QET
+    GS & UT --> QSH
+    LT & QL & CD2 --> QLF
     
     %% 样式设置
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
@@ -836,9 +869,9 @@ flowchart TD
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
     class QB,EL,CO,QDr,ON,OF,EV,CF,ME life;
-    class CD2,QDe,NE,LT,QL,MEM,TP,SR cognition;
+    class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
-    class SD,SN,QE,ET,PH,CC2,MM,SO,CS society;
+    class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS society;
     class AR,MU2,AE,NA,SE,DE,IN,RE creativity;
     class MD,PS,ED,RD,PA application;
     class TC reference;

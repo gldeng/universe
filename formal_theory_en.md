@@ -607,6 +607,128 @@ Analyze quantum-classical conversion mechanisms in meditation processes, explain
 ### [Terminology and Concept Dictionary](formal_theory_terminology_en.md)
 Provide precise definitions, explanations, and interrelationships of all technical terms used in quantum-classical dualism. Ensures conceptual clarity and consistency of the theoretical framework.
 
+## Theory Dependency Graph
+
+The following graph shows the dependency relationships between various branches of Quantum-Classical Dualism theory:
+
+```mermaid
+graph TD
+    %% Core Theory
+    Core[Core Theory formal_theory_en.md] --> QD[Quantum Domain Details]
+    Core --> CD[Classical Domain Details]
+    Core --> IF[Interface Theory]
+    Core --> OB[Observer Theory]
+    Core --> PT[Information Phase Transition Theory]
+    Core --> MA[Mathematical Appendix]
+    Core --> EX[Experimental Predictions]
+
+    %% Foundation Layer Dependencies
+    QD & CD --> IF
+    IF --> OB
+    PT --> IF
+    MA --> PT
+    MA --> OB
+
+    %% Physics Applications Layer
+    Core --> UT[Information-Spacetime-Energy Unified Theory]
+    Core --> GS[Quantum Gravity and Spacetime Emergence]
+    QD & CD --> MT[Matter Essence Theory]
+    OB --> HS[Hierarchical Spacetime Theory]
+    HS --> MS[Multiscale Dualism]
+    QD --> TA[Temporal Asymmetry Theory]
+    QD --> MU[Multiverse Interference Model]
+    GS --> CM[Cosmological Dualism Model]
+    CM --> EC[Evolutionary Cosmology Dualism]
+
+    %% Life and Consciousness Layer
+    IF --> QB[Quantum Biology]
+    QB --> EL[Entropy and Life]
+    OB --> CO[Quantum Consciousness Theory]
+    IF & CO --> QD[Quantum Dreams Theory]
+    OB --> ON[Higher-dimensional Observer Networks]
+    OB --> OF[Observer Feedback Theory]
+    QB --> EV[Evolutionary Dualist Perspective]
+    CO --> CF[Future Development of Human Consciousness]
+    CO --> ME[Meditation Science]
+
+    %% Cognition and Information Layer
+    OB --> CD[Quantum Cognitive Dynamics]
+    CD --> QD[Quantum Decision Theory]
+    IF --> NE[Quantum-Classical Non-equilibrium Theory]
+    CD --> LT[Language and Thought Dualism]
+    LT --> QL[Quantum Linguistics]
+    CD --> ME[Quantum Memory Theory]
+    CO --> TP[Time Perception Theory]
+    CO --> SR[Self-Reference Loop Theory]
+
+    %% Computation and Information Technology Layer
+    QD & CD --> QC[Quantum Computing Applications]
+    QC --> CC[Computational Complexity Dualism]
+    QC --> QS[Quantum-Classical Information Security]
+    QD --> TO[Topological Information Protection]
+    QC --> QM[Quantum Communication Protocols]
+    QC & CD --> QA[Quantum AI and Machine Learning]
+    IF --> IT[Quantum-Classical Interaction Technology]
+    IT --> VR[Virtual Reality and Dualism]
+    IT --> TS[Technological Singularity Predictions]
+
+    %% Society and Humanities Layer
+    OB --> SD[Quantum Social Dynamics]
+    SD --> SN[Quantum Social Network Theory]
+    QD[Quantum Decision Theory] --> QE[Quantum Economics Principles]
+    OB --> ET[Quantum-Classical Ethics]
+    Core --> PH[Philosophical Foundations of Dualism]
+    PH --> CC[Cross-Cultural Philosophy Integration]
+    PH --> MM[Quantum-Classical Mathematical Foundations]
+    NE --> SO[Quantum Self-Organization Theory]
+    SO --> CS[Complex Systems Dualist Analysis]
+
+    %% Creativity and Expression Layer
+    OB --> AR[Dualist Art Theory]
+    AR --> MU[Quantum-Classical Music Theory]
+    AR --> AE[Quantum-Classical Aesthetics]
+    LT --> NA[Quantum Narrative Theory]
+    LT --> SE[Dualist Semiotics Theory]
+    AR --> DE[Quantum-Classical Design Theory]
+    CD --> IN[Quantum Innovation Theory]
+    QD & CD --> RE[Quantum-Classical Resonance Theory]
+
+    %% Application Domains Layer
+    QB --> MD[Quantum Medicine Applications]
+    CO --> PS[Dualist Psychotherapy Model]
+    CD --> ED[Dualist Education Theory]
+    Core --> RD[Systems Reduction Theory]
+    RD --> PA[Practical Applications Collection]
+
+    %% Reference Materials
+    Core --> TC[Terminology and Concept Dictionary]
+
+    %% Style Settings
+    classDef core fill:#f9d5e5,stroke:#333,stroke-width:1px;
+    classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
+    classDef physics fill:#d5e8d4,stroke:#333,stroke-width:1px;
+    classDef life fill:#e1d5e7,stroke:#333,stroke-width:1px;
+    classDef cognition fill:#dae8fc,stroke:#333,stroke-width:1px;
+    classDef computation fill:#fff2cc,stroke:#333,stroke-width:1px;
+    classDef society fill:#f8cecc,stroke:#333,stroke-width:1px;
+    classDef creativity fill:#d5e8d4,stroke:#333,stroke-width:1px;
+    classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
+    classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
+
+    class Core core;
+    class QD,CD,IF,OB,PT,MA,EX foundation;
+    class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
+    class QB,EL,CO,QD,ON,OF,EV,CF,ME life;
+    class CD,QD,NE,LT,QL,ME,TP,SR cognition;
+    class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
+    class SD,SN,QE,ET,PH,CC,MM,SO,CS society;
+    class AR,MU,AE,NA,SE,DE,IN,RE creativity;
+    class MD,PS,ED,RD,PA application;
+    class TC reference;
+```
+
+This dependency graph illustrates the hierarchical relationships and dependency structures between various branches of Quantum-Classical Dualism theory. Different colors represent different theory categories, and arrows indicate the direction of dependencies. The Core Theory sits at the top, providing the foundation for all branch theories. The branch theories form a complex knowledge network based on their research domains and interdependencies.
+
 ## Document Navigation
 - [Core Theory (This File)](formal_theory_en.md)
 - [Quantum Domain](formal_theory_quantum_domain_en.md)

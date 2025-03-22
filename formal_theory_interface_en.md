@@ -2,11 +2,11 @@
 
 **[中文版](formal_theory_interface.md) | English Version**
 
-> Based on [Core Theory](core.md) v11.1
+> Based on [Core Theory](core_en.md) v27.0
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory v27.0](formal_theory_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md) (Current Document)

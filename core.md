@@ -2,7 +2,7 @@
 
 **[English Version](core_en.md) | 中文版**
 
-> 本文档基于[形式化理论](formal_theory.md)进行整合
+> 本文档基于[形式化理论](formal_theory.md) v27.0进行整合
 
 ## 目录
 

@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](core.md) v27.0版本
 
 ## 核心理论完整描述
 

@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory.md)**
 
-> Based on [Core Theory](core_en.md) v11.1 version
+> Based on [Core Theory](core_en.md) v27.0 version
 
 ## Complete Description of Core Theory
 

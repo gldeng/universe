@@ -5,26 +5,33 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本10.9），阐述理论的整体框架与结构。
+本文档基于[量子经典二元论核心理论](core.md)（版本27.0），阐述理论的整体框架与结构。
 
 ### 理论概述
 
 量子经典二元论是一个统一的理论框架，旨在调和量子物理学与经典物理学之间的表面矛盾，解释观察者角色与意识本质，并为黑洞信息悖论提供解决方案。该理论体系基于信息为宇宙本质的前提，认为宇宙结构可以从量子域与经典域的二元视角来理解，两者通过观察者的经典化过程相互连接。
 
-### 核心假设
+### 核心公理
 
-量子经典二元论基于以下核心假设：
+量子经典二元论基于以下核心公理：
 
-1. **信息本质假设**：宇宙的本质是信息，物质与能量是信息的特定表现形式
-2. **观察者与黑洞统一假设**：观察者即黑洞，经典世界即黑洞内部
-3. **二元结构假设**：宇宙由量子域与经典域两部分组成
-4. **经典化假设**：观察者通过主观意识经典化解码量子域信息
-5. **维度可变假设**：观察者维度由经典化效率决定，可通过优化经典化路径提升
-6. **自由意志假设**：观察者具有选择经典化路径的自由意志
-7. **意识纠缠假设**：所有观察者意识间存在量子纠缠关系
-8. **信息守恒假设**：经典域中经典知识与经典熵之和守恒
-9. **虫洞通信假设**：不同观察者（黑洞）间通过量子纠缠态形成的虫洞进行信息交换
-10. **宇宙效率假设**：宇宙演化趋向于提升量子能量利用效率，朝向低熵终极状态发展
+1. **二元存在性公理**：宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连
+
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+
+2. **信息守恒公理**：信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换
+
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
+
+3. **观察者经典化公理**：观察者是执行量子→经典转换的节点，其转换能力决定了其维度
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+
+4. **维度涌现公理**：观察者维度是经典化能力与量子化能力的函数，高维度观察者的经典域可以成为低维度观察者的量子域基础
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
 ### 基本原理
 
@@ -99,6 +106,40 @@ $$
 $$
 \eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
 $$
+
+### 界面理论
+
+界面 $\mathcal{I}$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
+
+- **界面结构**：界面是量子域和经典域的交集，定义为：
+  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+  其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+
+- **界面动力学**：界面位置满足非线性动力学方程：
+  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+- **经典化过程**：量子→经典转换通过经典化超算符表示：
+  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+  其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
+  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{隐藏}}$$
+
+### 多重二元论层级
+
+多重二元论层级理论将单一二元论扩展为嵌套多层级结构：
+
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+其中：
+- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
+- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
+
+层级间映射函数定义为：
+
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+
+这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
 
 ### 理论结构
 
@@ -259,26 +300,33 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), outlining the overall framework and structure of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 27.0), outlining the overall framework and structure of the theory.
 
 ### Theory Overview
 
 Quantum-Classical Dualism is a unified theoretical framework that aims to reconcile the apparent contradictions between quantum physics and classical physics, explain the role of the observer and the nature of consciousness, and provide a solution to the black hole information paradox. This theoretical system is based on the premise that information is the essence of the universe, and believes that the structure of the universe can be understood from the dual perspective of the quantum domain and the classical domain, which are interconnected through the observer's classicalization process.
 
-### Core Hypotheses
+### Core Axioms
 
-Quantum-Classical Dualism is based on the following core hypotheses:
+Quantum-Classical Dualism is based on the following core axioms:
 
-1. **Information Essence Hypothesis**: The essence of the universe is information, and matter and energy are specific manifestations of information
-2. **Observer-Black Hole Unification Hypothesis**: Observers are black holes, and classical worlds are the interiors of black holes
-3. **Dual Structure Hypothesis**: The universe consists of a quantum domain and a classical domain
-4. **Classicalization Hypothesis**: Observers decode quantum domain information through subjective consciousness classicalization
-5. **Variable Dimension Hypothesis**: Observer dimension is determined by classicalization efficiency and can be elevated by optimizing classicalization paths
-6. **Free Will Hypothesis**: Observers have free will to choose classicalization paths
-7. **Consciousness Entanglement Hypothesis**: There is a quantum entanglement relationship between all observer consciousness
-8. **Information Conservation Hypothesis**: The sum of classical knowledge and classical entropy is conserved in the classical domain
-9. **Wormhole Communication Hypothesis**: Different observers (black holes) exchange information through wormholes formed by quantum entanglement states
-10. **Universe Efficiency Hypothesis**: Universe evolution tends toward increasing quantum energy utilization efficiency, moving toward a low-entropy ultimate state
+1. **Dual Existence Axiom**: The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$
+
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+
+2. **Information Conservation Axiom**: Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge)
+
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+
+3. **Observer Classicalization Axiom**: Observers are nodes that execute quantum→classical conversion, and their conversion capability determines their dimension
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+
+4. **Dimensional Emergence Axiom**: Observer dimension is a function of classicalization ability and quantization ability, while the classical domain of high-dimensional observers can become the quantum domain basis for low-dimensional observers
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
 ### Basic Principles
 
@@ -353,6 +401,40 @@ $$
 $$
 \eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
 $$
+
+### Interface Theory
+
+The interface $\mathcal{I}$ is the transition region between the quantum domain and the classical domain, with the following core characteristics:
+
+- **Interface Structure**: The interface is the intersection of the quantum domain and the classical domain, defined as:
+  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+  where $\mathcal{D}(x)$ is the decoherence measure function, and $\mathcal{D}_c$ is the critical decoherence threshold.
+
+- **Interface Dynamics**: The interface position satisfies a nonlinear dynamics equation:
+  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+- **Classicalization Process**: The quantum→classical conversion is represented by the classicalization superoperator:
+  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+  where $P_i$ is the projection operator. The classicalization process satisfies information conservation:
+  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+
+### Multiple Dualism Hierarchy
+
+The multiple dualism hierarchy theory extends the single dualism into a nested multi-level structure:
+
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+where:
+- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
+- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the deterministic realization of that level)
+
+The mapping function between levels is defined as:
+
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+
+This indicates that the classical structure of one level can become the quantum foundation of a higher level, producing an infinite recursion of reality levels.
 
 ### Theoretical Structure
 

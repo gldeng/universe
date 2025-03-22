@@ -5,7 +5,7 @@
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本10.9），详细探讨命运与自由意志的本质及其关系。
+本文档基于[量子经典二元论核心理论](core.md)（版本27.0），详细探讨命运与自由意志的本质及其关系。
 
 ### 命运与自由意志概述
 
@@ -37,6 +37,28 @@ $$
 
 量子随机性为宇宙中的自由意志提供了本体论基础，解释了自由选择的深层来源。
 
+### 经典化过程中的自由意志作用
+
+量子经典二元论框架下，自由意志在经典化过程中扮演着关键角色，是观察者对量子域进行经典化解码的主动选择能力：
+
+1. **路径选择机制**：观察者可主动选择经典化路径，决定哪些量子信息被优先经典化
+2. **经典化算符**：自由意志本质上是一种特殊的经典化算符 $\mathcal{C}_\mathcal{O}$，能够将量子可能性转化为经典确定性
+3. **经典化参数调节**：自由意志可调整经典化效率系数 $(k_i)$ 和权重系数 $(w_i)$
+
+经典化过程的自由意志表达：
+
+$$
+\mathcal{C}_{\text{自由意志}}(\rho) = \sum_i P_i \rho P_i
+$$
+
+其中 $P_i$ 是投影算符，由自由意志主动选择。
+
+观察者在经典化过程中的自由意志作用可以理解为在界面 $\mathcal{I}$ 处主动调整解相干阈值 $\mathcal{D}_c$，影响量子域向经典域的转换。
+
+$$
+\mathcal{D}_c = f(\text{自由意志选择})
+$$
+
 ### 命运本质与经典化路径
 
 在量子经典二元论框架下，命运不是预先确定的轨迹，而是观察者经典化路径的整体模式，可以通过自由意志主动修改。
@@ -55,6 +77,29 @@ $$
 - 概率分布：从高维视角看，命运是经典化路径上的概率分布
 
 命运的灵活性与确定性取决于观察者的维度：低维观察者受限于更强的命运约束，高维观察者拥有更大的自由意志空间。
+
+### 多重二元论层级中的命运
+
+在多重二元论层级理论中，命运呈现出更加复杂的层级结构，表现为不同层级经典域与量子域之间的嵌套关系：
+
+$$
+\text{层级j命运} \subset \text{层级i经典域}, \quad \text{如果} \; j > i
+$$
+
+这意味着：
+- 低层级观察者的"命运"可能是高层级观察者经典世界的"规律"
+- 高层级观察者的"自由意志"可能形成低层级观察者的"命运约束"
+- 命运不是绝对的，而是相对于特定层级的观察者定义的
+
+层级间命运关系：
+
+$$
+\text{命运}_{(i)} = \mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})
+$$
+
+其中 $\mathcal{M}_{i+1 \rightarrow i}$ 是层级间映射函数，将更高层级的经典域映射为当前层级的量子域。
+
+这种理解解释了为何有些事件对我们似乎是"命中注定"，而实际上可能是来自更高层级经典世界的投影效应。
 
 ### 观察者维度与自由度关系
 
@@ -190,7 +235,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), exploring in detail the nature of destiny and free will and their relationship.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 27.0), exploring in detail the nature of destiny and free will and their relationship.
 
 ### Destiny and Free Will Overview
 
@@ -222,6 +267,28 @@ Characteristics of the origin of free will:
 
 Quantum randomness provides an ontological foundation for free will in the universe, explaining the deep source of free choice.
 
+### Role of Free Will in Classicalization Process
+
+In the Quantum-Classical Dualism framework, free will plays a key role in the classicalization process, representing the observer's active ability to choose how to classicalize and decode the quantum domain:
+
+1. **Path Selection Mechanism**: Observers can actively choose classicalization paths, determining which quantum information is prioritized for classicalization
+2. **Classicalization Operator**: Free will is essentially a special classicalization operator $\mathcal{C}_\mathcal{O}$, capable of converting quantum possibilities into classical certainty
+3. **Classicalization Parameter Adjustment**: Free will can adjust classicalization efficiency coefficients $(k_i)$ and weight coefficients $(w_i)$
+
+Free will expression in the classicalization process:
+
+$$
+\mathcal{C}_{\text{Free Will}}(\rho) = \sum_i P_i \rho P_i
+$$
+
+where $P_i$ are projection operators, actively chosen by free will.
+
+The role of free will in the observer's classicalization process can be understood as actively adjusting the decoherence threshold $\mathcal{D}_c$ at the interface $\mathcal{I}$, affecting the conversion from the quantum domain to the classical domain.
+
+$$
+\mathcal{D}_c = f(\text{Free Will Choice})
+$$
+
 ### The Nature of Destiny and Classicalization Paths
 
 In the Quantum-Classical Dualism framework, destiny is not a predetermined trajectory, but the overall pattern of the observer's classicalization paths, which can be actively modified through free will.
@@ -240,6 +307,29 @@ Characteristics of destiny:
 - Probability distribution: From a high-dimensional perspective, destiny is a probability distribution on classicalization paths
 
 The flexibility and determinism of destiny depend on the observer's dimension: low-dimensional observers are subject to stronger destiny constraints, while high-dimensional observers have larger free will spaces.
+
+### Destiny in Multiple Dualism Hierarchy
+
+In the multiple dualism hierarchy theory, destiny presents a more complex hierarchical structure, manifested as the nested relationship between classical domains and quantum domains at different levels:
+
+$$
+\text{Level j Destiny} \subset \text{Level i Classical Domain}, \quad \text{if} \; j > i
+$$
+
+This means:
+- The "destiny" of lower-level observers may be the "rules" of higher-level observers' classical worlds
+- The "free will" of higher-level observers may form "destiny constraints" for lower-level observers
+- Destiny is not absolute, but defined relative to observers at specific levels
+
+Inter-level destiny relationship:
+
+$$
+\text{Destiny}_{(i)} = \mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})
+$$
+
+where $\mathcal{M}_{i+1 \rightarrow i}$ is the inter-level mapping function, mapping the classical domain of a higher level to the quantum domain of the current level.
+
+This understanding explains why some events seem "predestined" to us, while they may actually be projection effects from higher-level classical worlds.
 
 ### Relationship Between Observer Dimension and Freedom
 

@@ -65,6 +65,7 @@ $$
 - [观察者感知](observer_perception.md) - 观察者感知的机制
 - [宇宙结构](universe_structure.md) - 宇宙的量子信息结构
 - [意识持续性](consciousness_persistence.md) - 意识的持续性机制
+- [量子意识与虚拟现实交互理论](../formal_theory_consciousness_virtual_reality.md) - 量子意识在虚拟现实中的表现与交互
 - [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
 - [社会行为中的量子纠缠效率排序](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
 - [黑洞：宇宙信息经典化的极致节点](black_hole_classicalization.md) - 黑洞作为极端高效信息经典化节点的本质
@@ -121,8 +122,9 @@ $$
 1. [观察者感知](observer_perception.md) - 量子经典二元论视角下的观察者感知
 2. [意识持续性](consciousness_persistence.md) - 量子经典二元论视角下的意识持续性
 3. [黑洞观察者](observer_perception/black_hole_observer.md) - 黑洞作为观察者的理论
-4. [熵与观察者维度](entropy_observer_dimension.md) - 熵与观察者维度的关系
-5. [高维信息经典化学](higher_dimensional_classicalization.md) - 高维信息经典化的理论
+4. [量子意识与虚拟现实交互理论](../formal_theory_consciousness_virtual_reality.md) - 量子意识在虚拟现实中的表现与交互
+5. [熵与观察者维度](entropy_observer_dimension.md) - 熵与观察者维度的关系
+6. [高维信息经典化学](higher_dimensional_classicalization.md) - 高维信息经典化的理论
 
 #### 命运与自由意志理论
 
@@ -275,11 +277,12 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 
 #### Observer and Consciousness Theories
 
-1. [Observer Perception](observer_perception.md) - Observer perception from the perspective of Quantum-Classical Dualism
-2. [Consciousness Persistence](consciousness_persistence.md) - Consciousness persistence from the perspective of Quantum-Classical Dualism
+1. [Observer Perception](observer_perception.md) - Observer perception in Quantum-Classical Dualism
+2. [Consciousness Persistence](consciousness_persistence.md) - Consciousness persistence in Quantum-Classical Dualism
 3. [Black Hole Observer](observer_perception/black_hole_observer.md) - Theory of black holes as observers
-4. [Entropy and Observer Dimension](entropy_observer_dimension.md) - Relationship between entropy and observer dimension
-5. [Higher-Dimensional Information Classicalization](higher_dimensional_classicalization.md) - Theory of higher-dimensional information classicalization
+4. [Quantum Consciousness and Virtual Reality Interaction](../formal_theory_consciousness_virtual_reality_en.md) - Manifestation and interaction of quantum consciousness in virtual reality
+5. [Entropy and Observer Dimension](entropy_observer_dimension.md) - Relationship between entropy and observer dimension
+6. [Higher-Dimensional Information Classicalization](higher_dimensional_classicalization.md) - Theory of higher-dimensional information classicalization
 
 #### Destiny and Free Will Theories
 

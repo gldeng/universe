@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_mathematical_appendix_en.md) | 中文版**
 
-> 本文档基于[核心理论](core.md) v11.1版本
+> 本文档基于[核心理论](core.md) v27.0版本
 
 ## 导航
 

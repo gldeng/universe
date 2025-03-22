@@ -1,8 +1,8 @@
-# 量子经典二元论形式化理论术语表 v11.1
+# 量子经典二元论形式化理论术语表 v27.0
 
 **[返回核心理论](formal_theory.md) | [English Version](formal_theory_terminology_en.md)**
 
-> 本术语表基于[核心理论](core.md) v11.1版本
+> 本术语表基于[核心理论](core.md) v27.0版本
 
 ## 核心概念术语
 
@@ -80,7 +80,7 @@
 
 ## 理论演化术语对照
 
-| 早期术语 (v6.0) | 当前术语 (v11.1) | 变更说明 |
+| 早期术语 (v6.0) | 当前术语 (v27.0) | 变更说明 |
 |-----------------|-------------------|--------------------|
 | 波函数 | 量子域态 | 扩展为更一般的量子态概念 |
 | 粒子态 | 经典域确定态 | 强调确定性而非粒子性质 |
@@ -129,14 +129,14 @@
 
 本术语表参考了以下文献和资料：
 
-1. 核心理论文档 [core.md](core.md) v11.1
+1. 核心理论文档 [core.md](core.md) v27.0
 2. 形式化表达文档 [formal_theory.md](formal_theory.md) v27.0
 3. 量子域详解 [formal_theory_quantum_domain.md](formal_theory_quantum_domain.md) v19.0
 4. 经典域详解 [formal_theory_classical_domain.md](formal_theory_classical_domain.md) v19.1
 5. 界面理论 [formal_theory_interface.md](formal_theory_interface.md) v19.0
 6. 观察者理论 [formal_theory_observer.md](formal_theory_observer.md) v19.0
-7. 非平衡态理论 [formal_theory_nonequilibrium.md](formal_theory_nonequilibrium.md) v11.1
-8. 计算复杂性理论 [formal_theory_computation.md](formal_theory_computation.md) v11.1
+7. 非平衡态理论 [formal_theory_nonequilibrium.md](formal_theory_nonequilibrium.md) v27.0
+8. 计算复杂性理论 [formal_theory_computation.md](formal_theory_computation.md) v27.0
 
 ## 文档导航
 - [核心理论](formal_theory.md)

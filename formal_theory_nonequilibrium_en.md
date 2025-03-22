@@ -1,8 +1,8 @@
-# Quantum-Classical Nonequilibrium Theory v11.1
+# Quantum-Classical Nonequilibrium Theory v27.0
 
-**[Back to Core Theory](formal_theory_en.md) | [中文版](formal_theory_nonequilibrium.md)**
+**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_nonequilibrium.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1
+> This theory is based on [Core Theory](core_en.md) v27.0
 
 ## Table of Contents
 - [Basic Definitions](#basic-definitions)

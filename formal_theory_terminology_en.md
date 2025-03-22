@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism Formal Theory Terminology Glossary v11.1
+# Quantum-Classical Dualism Formal Theory Terminology Glossary v27.0
 
-**[Back to Core Theory](formal_theory_en.md) | [中文版](formal_theory_terminology.md)**
+**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_terminology.md)**
 
-> This terminology glossary is based on [Core Theory](core_en.md) v11.1
+> This terminology glossary is based on [Core Theory](core_en.md) v27.0
 
 ## Core Concept Terminology
 
@@ -80,7 +80,7 @@
 
 ## Theory Evolution Terminology Comparison
 
-| Early Term (v6.0) | Current Term (v11.1) | Change Description |
+| Early Term (v6.0) | Current Term (v27.0) | Change Description |
 |-------------------|----------------------|-------------------|
 | Wave Function | Quantum Domain State | Extended to more general quantum state concept |
 | Particle State | Classical Domain Determined State | Emphasizes determinism rather than particle properties |
@@ -129,14 +129,14 @@
 
 This terminology glossary references the following documents and materials:
 
-1. Core Theory Document [core_en.md](core_en.md) v11.1
+1. Core Theory Document [core_en.md](core_en.md) v27.0
 2. Formal Expression Document [formal_theory_en.md](formal_theory_en.md) v27.0
 3. Quantum Domain Details [formal_theory_quantum_domain_en.md](formal_theory_quantum_domain_en.md) v19.0
 4. Classical Domain Details [formal_theory_classical_domain_en.md](formal_theory_classical_domain_en.md) v19.1
 5. Interface Theory [formal_theory_interface_en.md](formal_theory_interface_en.md) v19.0
 6. Observer Theory [formal_theory_observer_en.md](formal_theory_observer_en.md) v19.0
-7. Nonequilibrium Theory [formal_theory_nonequilibrium_en.md](formal_theory_nonequilibrium_en.md) v11.1
-8. Computational Complexity Theory [formal_theory_computation_en.md](formal_theory_computation_en.md) v11.1
+7. Nonequilibrium Theory [formal_theory_nonequilibrium_en.md](formal_theory_nonequilibrium_en.md) v27.0
+8. Computational Complexity Theory [formal_theory_computation_en.md](formal_theory_computation_en.md) v27.0
 
 ## Document Navigation
 - [Core Theory](formal_theory_en.md)

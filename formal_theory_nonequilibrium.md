@@ -1,8 +1,8 @@
-# 量子-经典非平衡态理论 v11.1
+# 量子-经典非平衡态理论 v27.0
 
 **[返回核心理论](formal_theory.md) | [English Version](formal_theory_nonequilibrium_en.md)**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](core.md) v27.0版本
 
 ## 目录
 - [基本定义](#基本定义)

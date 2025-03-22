@@ -2,7 +2,7 @@
 
 **[中文版](formal_theory_observer.md) | English Version**
 
-> Based on [Core Theory](core.md) v11.1
+> Based on [Core Theory](core_en.md) v27.0
 
 ## Navigation
 

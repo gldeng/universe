@@ -453,6 +453,81 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 ### [人类意识未来发展](formal_theory_consciousness_future.md)
 预测高维观察者意识的发展路径，探索意识增强技术和人机融合的理论可能性。为人类意识进化提供科学蓝图。
 
+### [量子梦境理论](formal_theory_quantum_dreams.md)
+分析梦境状态作为量子-经典界面特殊形式的理论，解释梦境中的非逻辑性和创造性。为意识研究提供新的实验窗口。
+
+### [二元论艺术理论](formal_theory_art.md)
+研究艺术创作和欣赏过程中的量子-经典转换机制，解释美学体验的深层结构。建立艺术与意识科学的桥梁。
+
+### [量子-经典数学基础](formal_theory_mathematics.md)
+探讨数学作为量子-经典转换形式语言的本质，揭示数学直觉与形式证明的二元关系。为数学哲学提供新视角。
+
+### [二元论教育理论](formal_theory_education.md)
+应用二元论框架分析学习过程，解释创造性思维和批判性思维的平衡。开发基于理论的高效教育方法。
+
+### [量子-经典音乐理论](formal_theory_music.md)
+研究音乐结构、创作和感知中的量子-经典双重性，解释音乐情感效应的神经基础。连接音乐理论与认知科学。
+
+### [语言量子性](formal_theory_quantum_linguistics.md)
+分析语言中的量子特性，包括语义叠加、语境相关性和语用纠缠。为计算语言学和自然语言处理提供新模型。
+
+### [量子自组织理论](formal_theory_self_organization.md)
+探索复杂系统自组织过程中的量子-经典相互作用，解释结构涌现机制。为复杂系统科学提供统一理论基础。
+
+### [时间感知理论](formal_theory_time_perception.md)
+研究意识时间感知的量子-经典双重性，解释主观时间经验的可变性。连接神经科学与意识研究。
+
+### [量子-经典伦理学](formal_theory_ethics.md)
+基于二元论框架建立伦理决策的量子-经典模型，统一结果论与义务论。为道德哲学提供科学基础。
+
+### [量子创新理论](formal_theory_innovation.md)
+分析创新过程中的量子思维和经典实现的转换机制，提出促进创新的量子-经典平衡方法。为创新管理提供理论指导。
+
+### [物质本质理论](formal_theory_matter.md)
+深入探讨物质作为信息结构的本质，解释粒子-波动二象性的深层原因。为基本物理学提供哲学基础。
+
+### [复杂系统二元分析](formal_theory_complex_systems.md)
+应用二元论框架解析复杂适应系统，从神经网络到生态系统的共同原理。建立复杂系统的统一理论视角。
+
+### [量子-经典美学理论](formal_theory_aesthetics.md)
+研究美感体验的量子-经典双重结构，解释审美判断的主观-客观二元性。连接艺术理论与神经美学。
+
+### [二元论心理治疗模型](formal_theory_psychotherapy.md)
+开发基于量子-经典转换的心理治疗方法，解释意识转变的深层机制。为心理健康领域提供新的干预模式。
+
+### [量子故事叙述理论](formal_theory_narrative.md)
+分析叙事结构中的量子可能性和经典实现，解释故事对意识的深层影响。为叙事学和传播学提供新框架。
+
+### [二元论符号学理论](formal_theory_semiotics.md)
+研究符号系统的量子-经典双重性，解释意义创造和解释的动态过程。为符号学研究提供新方向。
+
+### [量子-经典设计理论](formal_theory_design.md)
+应用二元论框架分析设计过程中的创造与约束平衡，提出基于量子-经典原理的优化设计方法。为设计学科提供理论基础。
+
+### [量子记忆理论](formal_theory_memory.md)
+探索记忆形成、存储和提取过程中的量子-经典特性，解释记忆可塑性和主观性的机制。为记忆研究提供新模型。
+
+### [多宇宙干涉模型](formal_theory_multiverse.md)
+建立描述可能世界之间相互作用的精确模型，解释现实分支和干涉现象。为多宇宙理论提供可测试框架。
+
+### [量子-经典交互技术](formal_theory_interaction.md)
+设计基于量子-经典转换原理的人机交互系统，创造更高维度的信息表达和体验方式。为下一代交互技术提供理论指南。
+
+### [二元论演化宇宙学](formal_theory_evolutionary_cosmology.md)
+探索宇宙作为量子-经典转换大系统的演化模式，提出宇宙目的论的可能性。建立宏观宇宙学的新模型。
+
+### [跨文化哲学整合](formal_theory_cross_cultural.md)
+通过二元论框架融合东西方哲学传统，调和物质主义与意识主义的分歧。为全球哲学对话提供共同语言。
+
+### [量子社交网络理论](formal_theory_social_networks.md)
+分析社交网络中的量子纠缠行为和集体意识现象，解释社会信息传播的非局域性。为社交媒体研究提供新视角。
+
+### [内观冥想科学](formal_theory_meditation.md)
+解析冥想过程中的量子-经典转换机制，解释意识状态转变和自我概念弱化的原理。为冥想研究提供科学框架。
+
+### [术语表与概念词典](formal_theory_terminology.md)
+提供量子经典二元论中使用的所有专业术语的精确定义、解释和相互关系。确保理论框架的概念清晰和一致性。
+
 ## 文档导航
 - [核心理论 (本文件)](formal_theory.md)
 - [量子域详解](formal_theory_quantum_domain.md)
@@ -495,3 +570,28 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [语言与思维二元结构](formal_theory_language_thought.md)
 - [进化论二元视角](formal_theory_evolution.md)
 - [人类意识未来发展](formal_theory_consciousness_future.md)
+- [量子梦境理论](formal_theory_quantum_dreams.md)
+- [二元论艺术理论](formal_theory_art.md)
+- [量子-经典数学基础](formal_theory_mathematics.md)
+- [二元论教育理论](formal_theory_education.md)
+- [量子-经典音乐理论](formal_theory_music.md)
+- [语言量子性](formal_theory_quantum_linguistics.md)
+- [量子自组织理论](formal_theory_self_organization.md)
+- [时间感知理论](formal_theory_time_perception.md)
+- [量子-经典伦理学](formal_theory_ethics.md)
+- [量子创新理论](formal_theory_innovation.md)
+- [物质本质理论](formal_theory_matter.md)
+- [复杂系统二元分析](formal_theory_complex_systems.md)
+- [量子-经典美学理论](formal_theory_aesthetics.md)
+- [二元论心理治疗模型](formal_theory_psychotherapy.md)
+- [量子故事叙述理论](formal_theory_narrative.md)
+- [二元论符号学理论](formal_theory_semiotics.md)
+- [量子-经典设计理论](formal_theory_design.md)
+- [量子记忆理论](formal_theory_memory.md)
+- [多宇宙干涉模型](formal_theory_multiverse.md)
+- [量子-经典交互技术](formal_theory_interaction.md)
+- [二元论演化宇宙学](formal_theory_evolutionary_cosmology.md)
+- [跨文化哲学整合](formal_theory_cross_cultural.md)
+- [量子社交网络理论](formal_theory_social_networks.md)
+- [内观冥想科学](formal_theory_meditation.md)
+- [术语表与概念词典](formal_theory_terminology.md)

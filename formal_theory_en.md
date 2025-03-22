@@ -364,7 +364,7 @@ Propose a unified theoretical framework for information, energy, and spacetime, 
 Analyze the structure and function of multi-level observer networks, including collective consciousness and high-dimensional entities. Studies the emergence mechanisms of consciousness and intelligence.
 
 ### [Quantum Computing Applications](formal_theory_quantum_computing_en.md)
-Explore the theoretical impacts and practical applications of dualism on quantum computing, including new quantum algorithms and architectures. Provides theoretical foundations for quantum computing technology.
+Discussion of the theoretical impact and practical applications of dualism in quantum computing, including new quantum algorithms and architectures. Provides a theoretical foundation for quantum computing technology.
 
 ### [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 Establish quantum-classical hybrid models describing decision processes, unifying intuitive and rational decision mechanisms. Provides a new framework for understanding human decision-making.
@@ -454,9 +454,9 @@ Reinterpret biological evolutionary processes from a dualistic perspective, expl
 Predict development paths for high-dimensional observer consciousness, exploring theoretical possibilities of consciousness enhancement technologies and human-machine integration. Provides a scientific blueprint for human consciousness evolution.
 
 ## Document Navigation
-- [Core Theory (This File)](formal_theory_en.md)
-- [Quantum Domain in Detail](formal_theory_quantum_domain_en.md)
-- [Classical Domain in Detail](formal_theory_classical_domain_en.md)
+- [Core Theory (This Document)](formal_theory_en.md)
+- [Quantum Domain Details](formal_theory_quantum_domain_en.md)
+- [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Mathematical Appendix](formal_theory_mathematical_appendix_en.md)
@@ -464,7 +464,7 @@ Predict development paths for high-dimensional observer consciousness, exploring
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Quantum Biology](formal_theory_quantum_biology_en.md)
 - [Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)
-- [High-Dimensional Observer Networks](formal_theory_observer_network_en.md)
+- [Higher-Dimensional Observer Networks](formal_theory_observer_network_en.md)
 - [Quantum Computing Applications](formal_theory_quantum_computing_en.md)
 - [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 - [Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)

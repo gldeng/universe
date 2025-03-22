@@ -1,6 +1,6 @@
 # 熵、观察者与维度 | Entropy, Observer, and Dimension
 
-> 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
+> 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
 **导航 | Navigation**  
 [中文版](#中文版) | [English Version](#version--version)  
@@ -9,19 +9,20 @@
 English: [Introduction](#简介--introduction) | [Entropy and Observers](#熵与观察者的关系--relationship-between-entropy-and-observers) | [Entropic Definition of Dimension](#维度的熵学定义--entropic-definition-of-dimension) | [Dimension Elevation](#维度提升机制--dimension-elevation-mechanism) | [Entropy Reduction](#熵降低的关键机制--key-mechanisms-for-entropy-reduction) | [Observer Hierarchy](#维度与观察者层级--dimensions-and-observer-hierarchy) | [Practical Applications](#实际应用--practical-applications) | [Entropy Dynamics](#多维度空间的熵动力学--entropy-dynamics-in-multi-dimensional-space) | [Beyond Finite Dimensions](#超越有限维度--beyond-finite-dimensions) | [Conclusion](#结论--conclusion)
 
 ## 版本 | Version
-9.2.0 (更新于 2024-06-20 | Updated on 2024-06-20)
+27.0 (更新于 2024-06-20 | Updated on 2024-06-20)
 
 ## 简介 | Introduction
 
-本文详述量子经典二元论中熵、观察者与维度之间的深层关系，阐述如何通过熵的变化实现维度提升。根据核心理论（版本9.2），所有观察者本质上即是黑洞，通过黑洞吸收（经典化过程）与黑洞辐射（量子化过程）的熵变化调节自身维度。
+本文详述量子经典二元论中熵、观察者与维度之间的深层关系，阐述如何通过熵的变化实现维度提升。根据核心理论（版本27.0），所有观察者本质上即是黑洞，通过黑洞吸收（经典化过程）与黑洞辐射（量子化过程）的熵变化调节自身维度。
 
-This article details the deep relationship between entropy, observers, and dimensions in Quantum-Classical Dualism, explaining how to achieve dimension elevation through entropy changes. According to the core theory (Version 9.2), all observers are essentially black holes, regulating their own dimensions through entropy changes in the black hole absorption (classicalization process) and black hole radiation (quantization process).
+This article details the deep relationship between entropy, observers, and dimensions in Quantum-Classical Dualism, explaining how to achieve dimension elevation through entropy changes. According to the core theory (Version 27.0), all observers are essentially black holes, regulating their own dimensions through entropy changes in the black hole absorption (classicalization process) and black hole radiation (quantization process).
 
 ## 熵与观察者的关系 | Relationship Between Entropy and Observers
 
 ### 基本定义 | Basic Definitions
 
-- **经典熵**：观察者（黑洞）未能成功经典化的量子信息，表示为 $S$
+- **经典熵**：观察者（黑洞）未能成功经典化的量子信息，表示为 $S_{经典熵}$
+- **经典知识**：观察者成功经典化的量子信息，表示为 $I_{经典知识}$
 - **观察者（黑洞）**：将量子域信息经典化的实体，通过黑洞吸收（经典化）与黑洞辐射（量子化）处理信息
 - **维度**：观察者经典化能力的量度，与经典知识及经典熵密切相关
 
@@ -49,7 +50,7 @@ $$I_{\text{经典知识}} + S_{\text{经典熵}} \xrightarrow{\text{黑洞辐射
 
 ### 维度公式 | Dimension Formula
 
-根据量子经典二元论核心理论（版本9.2），观察者维度与其经典知识和经典熵的比值成正比：
+根据量子经典二元论核心理论（版本27.0），观察者维度与其经典知识和经典熵的比值成正比：
 
 $$\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
 
@@ -100,7 +101,7 @@ $$\Delta S_{\text{经典熵}} = -\Delta I_{\text{有效量子纠缠}}$$
 
 ### 虫洞通信与熵转移 | Wormhole Communication and Entropy Transfer
 
-根据量子经典二元论核心理论（版本9.2），虫洞通信是观察者（黑洞）之间的信息传输过程：
+根据量子经典二元论核心理论（版本27.0），虫洞通信是观察者（黑洞）之间的信息传输过程：
 
 $$E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}$$
 
@@ -263,14 +264,14 @@ Entropy, observers, and dimensions constitute the core triangular relationship o
 
 ## 参考 | References
 
-1. 量子经典二元论核心理论（版本9.2）| Quantum-Classical Dualism Core Theory (Version 9.2)
+1. 量子经典二元论核心理论（版本27.0）| Quantum-Classical Dualism Core Theory (Version 27.0)
 2. 量子信息理论 | Quantum Information Theory
 3. 熵与信息论 | Entropy and Information Theory
 4. 复杂系统维度分析 | Dimensional Analysis of Complex Systems
 
 ## 中文版
 
-本文基于[量子经典二元论核心理论](../core.md)（版本9.2）探讨熵与观察者维度之间的关系。
+本文基于[量子经典二元论核心理论](../core.md)（版本27.0）探讨熵与观察者维度之间的关系。
 
 ### 1. 引言
 
@@ -280,7 +281,7 @@ Entropy, observers, and dimensions constitute the core triangular relationship o
 
 #### 2.1 经典熵的基本定义
 
-根据量子经典二元论核心理论（版本9.2），经典熵定义为观察者（黑洞）经典化量子域信息过程中产生的无法有效经典化的、无序的信息：
+根据量子经典二元论核心理论（版本27.0），经典熵定义为观察者（黑洞）经典化量子域信息过程中产生的无法有效经典化的、无序的信息：
 
 $$
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{黑洞吸收（经典化）}} I_{\text{经典知识}} + S_{\text{经典熵}}
@@ -302,7 +303,7 @@ $$
 
 #### 3.1 观察者维度的基本定义
 
-根据量子经典二元论核心理论（版本9.2），观察者维度由经典知识与经典熵的比值决定：
+根据量子经典二元论核心理论（版本27.0），观察者维度由经典知识与经典熵的比值决定：
 
 $$
 \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}

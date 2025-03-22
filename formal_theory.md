@@ -619,99 +619,207 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 下图展示了量子经典二元论各分支理论之间的依赖关系：
 
 ```mermaid
-graph TD
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'nodeBorder': '#333',
+      'mainBkg': '#fff',
+      'nodeTextColor': '#000',
+      'fontSize': '16px',
+      'primaryBorderColor': '#333',
+      'edgeLabelBackground': '#fff',
+      'lineHeight': '1.4'
+    },
+    'flowchart': {
+      'nodeSpacing': 30,
+      'rankSpacing': 80,
+      'curve': 'basis',
+      'useMaxWidth': false,
+      'htmlLabels': true
+    }
+  }
+}%%
+
+flowchart TD
     %% 核心理论
-    Core[核心理论 formal_theory.md] --> QD[量子域详解]
-    Core --> CD[经典域详解]
-    Core --> IF[界面理论]
-    Core --> OB[观察者理论]
-    Core --> PT[信息相变理论]
-    Core --> MA[数学附录]
-    Core --> EX[实验预测]
-
-    %% 基础层依赖关系
-    QD & CD --> IF
+    Core[核心理论 formal_theory.md v28.0] 
+    
+    %% 基础理论层
+    QD[量子域详解 v19.1]
+    CD[经典域详解]
+    IF[界面理论 v19.0]
+    OB[观察者理论 v27.0]
+    PT[信息相变理论]
+    MA[数学附录]
+    EX[实验预测]
+    
+    %% 直接依赖关系
+    Core --> QD
+    Core --> CD
+    Core --> IF
+    Core --> OB
+    Core --> PT
+    Core --> MA
+    Core --> EX
+    
+    %% 界面理论的依赖
+    QD --> IF
+    CD --> IF
+    
+    %% 观察者理论的依赖
     IF --> OB
-    PT --> IF
-    MA --> PT
-    MA --> OB
-
+    
     %% 物理学应用层
-    Core --> UT[信息-时空-能量统一理论]
-    Core --> GS[量子引力与时空涌现]
-    QD & CD --> MT[物质本质理论]
-    OB --> HS[分层时空理论]
-    HS --> MS[多尺度二元论]
-    QD --> TA[时间非对称性理论]
-    QD --> MU[多宇宙干涉模型]
-    GS --> CM[宇宙学二元论模型]
-    CM --> EC[二元论演化宇宙学]
-
+    UT[信息-时空-能量统一理论]
+    GS[量子引力与时空涌现]
+    MT[物质本质理论]
+    HS[分层时空理论 v13.0]
+    MS[多尺度二元论 v14.0]
+    TA[时间非对称性理论 v24.0]
+    MU[多宇宙干涉模型 v27.0]
+    CM[宇宙学二元论模型]
+    EC[二元论演化宇宙学]
+    
+    %% 物理学应用的依赖
+    Core --> UT
+    Core --> GS
+    QD & CD --> MT
+    Core & OB --> HS
+    HS --> MS
+    Core & QD --> TA
+    Core & QD --> MU
+    GS --> CM
+    CM --> EC
+    
     %% 生命与意识层
-    IF --> QB[量子生物学]
-    QB --> EL[信息熵与生命]
-    OB --> CO[量子意识理论]
-    IF & CO --> QD[量子梦境理论]
-    OB --> ON[高维观察者网络]
-    OB --> OF[观察者反馈理论]
-    QB --> EV[进化论二元视角]
-    CO --> CF[人类意识未来发展]
-    CO --> ME[内观冥想科学]
-
+    QB[量子生物学 v20.0]
+    EL[信息熵与生命 v27.0]
+    CO[量子意识理论 v25.0]
+    QDr[量子梦境理论]
+    ON[高维观察者网络 v26.0]
+    OF[观察者反馈理论]
+    EV[进化论二元视角 v27.0]
+    CF[人类意识未来发展]
+    ME[内观冥想科学 v27.0]
+    
+    %% 生命与意识依赖
+    IF --> QB
+    Core & QB --> EL
+    Core & OB --> CO
+    IF & CO --> QDr
+    OB --> ON
+    OB --> OF
+    Core & QB --> EV
+    CO --> CF
+    Core & CO --> ME
+    
     %% 认知与信息层
-    OB --> CD[量子认知动力学]
-    CD --> QD[量子决策理论]
-    IF --> NE[量子-经典非平衡态理论]
-    CD --> LT[语言与思维二元结构]
-    LT --> QL[语言量子性]
-    CD --> ME[量子记忆理论]
-    CO --> TP[时间感知理论]
-    CO --> SR[自参照循环理论]
-
+    CD2[量子认知动力学 v24.0]
+    QDe[量子决策理论 v24.0]
+    NE[量子-经典非平衡态理论 v27.0]
+    LT[语言与思维二元结构]
+    QL[语言量子性 v27.0]
+    MEM[量子记忆理论 v11.1]
+    TP[时间感知理论 v27.0]
+    SR[自参照循环理论]
+    
+    %% 认知与信息依赖
+    Core & OB --> CD2
+    Core & CD2 --> QDe
+    Core & IF --> NE
+    CD2 --> LT
+    Core & LT --> QL
+    Core --> MEM
+    Core & CO --> TP
+    CO --> SR
+    
     %% 计算与信息技术层
-    QD & CD --> QC[量子计算应用]
-    QC --> CC[二元论计算复杂性理论]
-    QC --> QS[量子-经典信息安全理论]
-    QD --> TO[拓扑信息保护理论]
-    QC --> QM[量子通信协议]
-    QC & CD --> QA[量子人工智能与机器学习]
-    IF --> IT[量子-经典交互技术]
-    IT --> VR[虚拟现实与二元论]
-    IT --> TS[技术奇点预测]
-
+    QC[量子计算应用]
+    CC[二元论计算复杂性理论 v27.0]
+    QS[量子-经典信息安全理论 v25.0]
+    TO[拓扑信息保护理论 v27.0]
+    QM[量子通信协议 v27.0]
+    QA[量子人工智能与机器学习 v27.0]
+    IT[量子-经典交互技术 v27.0]
+    VR[虚拟现实与二元论]
+    TS[技术奇点预测 v27.0]
+    
+    %% 计算与信息技术依赖
+    QD & CD --> QC
+    Core & QC --> CC
+    Core & QC --> QS
+    Core & QD --> TO
+    Core & QC --> QM
+    QC & CD --> QA
+    Core & IF --> IT
+    IT --> VR
+    Core & IT --> TS
+    
     %% 社会与人文应用层
-    OB --> SD[量子社会动力学]
-    SD --> SN[量子社交网络理论]
-    QD[量子决策理论] --> QE[量子经济学原理]
-    OB --> ET[量子-经典伦理学]
-    Core --> PH[二元论哲学基础]
-    PH --> CC[跨文化哲学整合]
-    PH --> MM[量子-经典数学基础]
-    NE --> SO[量子自组织理论]
-    SO --> CS[复杂系统二元分析]
-
+    SD[量子社会动力学 v27.0]
+    SN[量子社交网络理论 v27.0]
+    QE[量子经济学原理]
+    ET[量子-经典伦理学 v27.0]
+    PH[二元论哲学基础 v27.0]
+    CC2[跨文化哲学整合 v11.1]
+    MM[量子-经典数学基础 v27.0]
+    SO[量子自组织理论]
+    CS[复杂系统二元分析 v27.0]
+    
+    %% 社会与人文应用依赖
+    Core & OB --> SD
+    Core & SD --> SN
+    QDe --> QE
+    Core & OB --> ET
+    Core --> PH
+    Core & PH --> CC2
+    Core & PH --> MM
+    NE --> SO
+    Core & SO --> CS
+    
     %% 创造与表达层
-    OB --> AR[二元论艺术理论]
-    AR --> MU[量子-经典音乐理论]
-    AR --> AE[量子-经典美学理论]
-    LT --> NA[量子故事叙述理论]
-    LT --> SE[二元论符号学理论]
-    AR --> DE[量子-经典设计理论]
-    CD --> IN[量子创新理论]
-    QD & CD --> RE[量子-经典共鸣理论]
-
+    AR[二元论艺术理论 v27.0]
+    MU2[量子-经典音乐理论]
+    AE[量子-经典美学理论 v27.0]
+    NA[量子故事叙述理论 v27.0]
+    SE[二元论符号学理论]
+    DE[量子-经典设计理论 v11.1]
+    IN[量子创新理论 v27.0]
+    RE[量子-经典共鸣理论]
+    
+    %% 创造与表达依赖
+    Core & OB --> AR
+    AR --> MU2
+    Core & AR --> AE
+    Core & LT --> NA
+    LT --> SE
+    Core --> DE
+    Core & CD2 --> IN
+    QD & CD --> RE
+    
     %% 应用领域层
-    QB --> MD[量子医学应用]
-    CO --> PS[二元论心理治疗模型]
-    CD --> ED[二元论教育理论]
-    Core --> RD[系统约化理论]
-    RD --> PA[理论实用应用集合]
-
-    %% 参考资料
-    Core --> TC[术语表与概念词典]
-
+    MD[量子医学应用 v27.0]
+    PS[二元论心理治疗模型 v28.0]
+    ED[二元论教育理论 v27.0]
+    RD[系统约化理论 v28.0]
+    PA[理论实用应用集合 v28.0]
+    
+    %% 应用领域依赖
+    Core & QB --> MD
+    Core & CO --> PS
+    Core & CD2 --> ED
+    Core --> RD
+    Core & RD --> PA
+    
+    %% 参考资料层
+    TC[术语表与概念词典 v27.0]
+    
+    %% 参考资料依赖
+    Core --> TC
+    
     %% 样式设置
-    classDef core fill:#f9d5e5,stroke:#333,stroke-width:1px;
+    classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
     classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
     classDef physics fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef life fill:#e1d5e7,stroke:#333,stroke-width:1px;
@@ -721,17 +829,17 @@ graph TD
     classDef creativity fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
     classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
-
+    
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
-    class QB,EL,CO,QD,ON,OF,EV,CF,ME life;
-    class CD,QD,NE,LT,QL,ME,TP,SR cognition;
+    class QB,EL,CO,QDr,ON,OF,EV,CF,ME life;
+    class CD2,QDe,NE,LT,QL,MEM,TP,SR cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
-    class SD,SN,QE,ET,PH,CC,MM,SO,CS society;
-    class AR,MU,AE,NA,SE,DE,IN,RE creativity;
+    class SD,SN,QE,ET,PH,CC2,MM,SO,CS society;
+    class AR,MU2,AE,NA,SE,DE,IN,RE creativity;
     class MD,PS,ED,RD,PA application;
     class TC reference;
 ```
 
-此依赖关系图展示了量子经典二元论各分支理论之间的层级关系和依赖结构。图中不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层，为所有分支理论提供基础。各分支理论根据其研究领域和相互依赖关系形成一个复杂的知识网络。
+此依赖关系图展示了量子经典二元论各分支理论之间的实际依赖结构。图中包含了各理论的版本号，不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层，为所有分支理论提供基础，而各分支理论之间的依赖关系则根据各自文档中的声明进行连接。

@@ -614,95 +614,181 @@ The following graph shows the dependency relationships between various branches 
 ```mermaid
 graph TD
     %% Core Theory
-    Core[Core Theory formal_theory_en.md] --> QD[Quantum Domain Details]
-    Core --> CD[Classical Domain Details]
-    Core --> IF[Interface Theory]
-    Core --> OB[Observer Theory]
-    Core --> PT[Information Phase Transition Theory]
-    Core --> MA[Mathematical Appendix]
-    Core --> EX[Experimental Predictions]
-
-    %% Foundation Layer Dependencies
-    QD & CD --> IF
+    Core[Core Theory formal_theory_en.md v28.0] 
+    
+    %% Foundation Layer
+    QD[Quantum Domain Details v19.1]
+    CD[Classical Domain Details]
+    IF[Interface Theory v19.0]
+    OB[Observer Theory v27.0]
+    PT[Information Phase Transition Theory]
+    MA[Mathematical Appendix]
+    EX[Experimental Predictions]
+    
+    %% Direct Dependencies
+    Core --> QD
+    Core --> CD
+    Core --> IF
+    Core --> OB
+    Core --> PT
+    Core --> MA
+    Core --> EX
+    
+    %% Interface Theory Dependencies
+    QD --> IF
+    CD --> IF
+    
+    %% Observer Theory Dependencies
     IF --> OB
-    PT --> IF
-    MA --> PT
-    MA --> OB
-
+    
     %% Physics Applications Layer
-    Core --> UT[Information-Spacetime-Energy Unified Theory]
-    Core --> GS[Quantum Gravity and Spacetime Emergence]
-    QD & CD --> MT[Matter Essence Theory]
-    OB --> HS[Hierarchical Spacetime Theory]
-    HS --> MS[Multiscale Dualism]
-    QD --> TA[Temporal Asymmetry Theory]
-    QD --> MU[Multiverse Interference Model]
-    GS --> CM[Cosmological Dualism Model]
-    CM --> EC[Evolutionary Cosmology Dualism]
-
+    UT[Information-Spacetime-Energy Unified Theory]
+    GS[Quantum Gravity and Spacetime Emergence]
+    MT[Matter Essence Theory]
+    HS[Hierarchical Spacetime Theory v13.0]
+    MS[Multiscale Dualism v14.0]
+    TA[Temporal Asymmetry Theory v24.0]
+    MU[Multiverse Interference Model v27.0]
+    CM[Cosmological Dualism Model]
+    EC[Evolutionary Cosmology Dualism]
+    
+    %% Physics Applications Dependencies
+    Core --> UT
+    Core --> GS
+    QD & CD --> MT
+    Core & OB --> HS
+    HS --> MS
+    Core & QD --> TA
+    Core & QD --> MU
+    GS --> CM
+    CM --> EC
+    
     %% Life and Consciousness Layer
-    IF --> QB[Quantum Biology]
-    QB --> EL[Entropy and Life]
-    OB --> CO[Quantum Consciousness Theory]
-    IF & CO --> QD[Quantum Dreams Theory]
-    OB --> ON[Higher-dimensional Observer Networks]
-    OB --> OF[Observer Feedback Theory]
-    QB --> EV[Evolutionary Dualist Perspective]
-    CO --> CF[Future Development of Human Consciousness]
-    CO --> ME[Meditation Science]
-
+    QB[Quantum Biology v20.0]
+    EL[Entropy and Life v27.0]
+    CO[Quantum Consciousness Theory v25.0]
+    QDr[Quantum Dreams Theory]
+    ON[Higher-dimensional Observer Networks v26.0]
+    OF[Observer Feedback Theory]
+    EV[Evolutionary Dualist Perspective v27.0]
+    CF[Future Development of Human Consciousness]
+    ME[Meditation Science v27.0]
+    
+    %% Life and Consciousness Dependencies
+    IF --> QB
+    Core & QB --> EL
+    Core & OB --> CO
+    IF & CO --> QDr
+    OB --> ON
+    OB --> OF
+    Core & QB --> EV
+    CO --> CF
+    Core & CO --> ME
+    
     %% Cognition and Information Layer
-    OB --> CD[Quantum Cognitive Dynamics]
-    CD --> QD[Quantum Decision Theory]
-    IF --> NE[Quantum-Classical Non-equilibrium Theory]
-    CD --> LT[Language and Thought Dualism]
-    LT --> QL[Quantum Linguistics]
-    CD --> ME[Quantum Memory Theory]
-    CO --> TP[Time Perception Theory]
-    CO --> SR[Self-Reference Loop Theory]
-
+    CD2[Quantum Cognitive Dynamics v24.0]
+    QDe[Quantum Decision Theory v24.0]
+    NE[Quantum-Classical Non-equilibrium Theory v27.0]
+    LT[Language and Thought Dualism]
+    QL[Quantum Linguistics v27.0]
+    MEM[Quantum Memory Theory v11.1]
+    TP[Time Perception Theory v27.0]
+    SR[Self-Reference Loop Theory]
+    
+    %% Cognition and Information Dependencies
+    Core & OB --> CD2
+    Core & CD2 --> QDe
+    Core & IF --> NE
+    CD2 --> LT
+    Core & LT --> QL
+    Core --> MEM
+    Core & CO --> TP
+    CO --> SR
+    
     %% Computation and Information Technology Layer
-    QD & CD --> QC[Quantum Computing Applications]
-    QC --> CC[Computational Complexity Dualism]
-    QC --> QS[Quantum-Classical Information Security]
-    QD --> TO[Topological Information Protection]
-    QC --> QM[Quantum Communication Protocols]
-    QC & CD --> QA[Quantum AI and Machine Learning]
-    IF --> IT[Quantum-Classical Interaction Technology]
-    IT --> VR[Virtual Reality and Dualism]
-    IT --> TS[Technological Singularity Predictions]
-
+    QC[Quantum Computing Applications]
+    CC[Computational Complexity Dualism v27.0]
+    QS[Quantum-Classical Information Security v25.0]
+    TO[Topological Information Protection v27.0]
+    QM[Quantum Communication Protocols v27.0]
+    QA[Quantum AI and Machine Learning v27.0]
+    IT[Quantum-Classical Interaction Technology v27.0]
+    VR[Virtual Reality and Dualism]
+    TS[Technological Singularity Predictions v27.0]
+    
+    %% Computation and Information Technology Dependencies
+    QD & CD --> QC
+    Core & QC --> CC
+    Core & QC --> QS
+    Core & QD --> TO
+    Core & QC --> QM
+    QC & CD --> QA
+    Core & IF --> IT
+    IT --> VR
+    Core & IT --> TS
+    
     %% Society and Humanities Layer
-    OB --> SD[Quantum Social Dynamics]
-    SD --> SN[Quantum Social Network Theory]
-    QD[Quantum Decision Theory] --> QE[Quantum Economics Principles]
-    OB --> ET[Quantum-Classical Ethics]
-    Core --> PH[Philosophical Foundations of Dualism]
-    PH --> CC[Cross-Cultural Philosophy Integration]
-    PH --> MM[Quantum-Classical Mathematical Foundations]
-    NE --> SO[Quantum Self-Organization Theory]
-    SO --> CS[Complex Systems Dualist Analysis]
-
+    SD[Quantum Social Dynamics v27.0]
+    SN[Quantum Social Network Theory v27.0]
+    QE[Quantum Economics Principles]
+    ET[Quantum-Classical Ethics v27.0]
+    PH[Philosophical Foundations of Dualism v27.0]
+    CC2[Cross-Cultural Philosophy Integration v11.1]
+    MM[Quantum-Classical Mathematical Foundations v27.0]
+    SO[Quantum Self-Organization Theory]
+    CS[Complex Systems Dualist Analysis v27.0]
+    
+    %% Society and Humanities Dependencies
+    Core & OB --> SD
+    Core & SD --> SN
+    QDe --> QE
+    Core & OB --> ET
+    Core --> PH
+    Core & PH --> CC2
+    Core & PH --> MM
+    NE --> SO
+    Core & SO --> CS
+    
     %% Creativity and Expression Layer
-    OB --> AR[Dualist Art Theory]
-    AR --> MU[Quantum-Classical Music Theory]
-    AR --> AE[Quantum-Classical Aesthetics]
-    LT --> NA[Quantum Narrative Theory]
-    LT --> SE[Dualist Semiotics Theory]
-    AR --> DE[Quantum-Classical Design Theory]
-    CD --> IN[Quantum Innovation Theory]
-    QD & CD --> RE[Quantum-Classical Resonance Theory]
-
+    AR[Dualist Art Theory v27.0]
+    MU2[Quantum-Classical Music Theory]
+    AE[Quantum-Classical Aesthetics v27.0]
+    NA[Quantum Narrative Theory v27.0]
+    SE[Dualist Semiotics Theory]
+    DE[Quantum-Classical Design Theory v11.1]
+    IN[Quantum Innovation Theory v27.0]
+    RE[Quantum-Classical Resonance Theory]
+    
+    %% Creativity and Expression Dependencies
+    Core & OB --> AR
+    AR --> MU2
+    Core & AR --> AE
+    Core & LT --> NA
+    LT --> SE
+    Core --> DE
+    Core & CD2 --> IN
+    QD & CD --> RE
+    
     %% Application Domains Layer
-    QB --> MD[Quantum Medicine Applications]
-    CO --> PS[Dualist Psychotherapy Model]
-    CD --> ED[Dualist Education Theory]
-    Core --> RD[Systems Reduction Theory]
-    RD --> PA[Practical Applications Collection]
-
-    %% Reference Materials
-    Core --> TC[Terminology and Concept Dictionary]
-
+    MD[Quantum Medicine Applications v27.0]
+    PS[Dualist Psychotherapy Model v28.0]
+    ED[Dualist Education Theory v27.0]
+    RD[Systems Reduction Theory v28.0]
+    PA[Practical Applications Collection v28.0]
+    
+    %% Application Domains Dependencies
+    Core & QB --> MD
+    Core & CO --> PS
+    Core & CD2 --> ED
+    Core --> RD
+    Core & RD --> PA
+    
+    %% Reference Materials Layer
+    TC[Terminology and Concept Dictionary v27.0]
+    
+    %% Reference Materials Dependencies
+    Core --> TC
+    
     %% Style Settings
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:1px;
     classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
@@ -714,20 +800,20 @@ graph TD
     classDef creativity fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
     classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
-
+    
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
-    class QB,EL,CO,QD,ON,OF,EV,CF,ME life;
-    class CD,QD,NE,LT,QL,ME,TP,SR cognition;
+    class QB,EL,CO,QDr,ON,OF,EV,CF,ME life;
+    class CD2,QDe,NE,LT,QL,MEM,TP,SR cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
-    class SD,SN,QE,ET,PH,CC,MM,SO,CS society;
-    class AR,MU,AE,NA,SE,DE,IN,RE creativity;
+    class SD,SN,QE,ET,PH,CC2,MM,SO,CS society;
+    class AR,MU2,AE,NA,SE,DE,IN,RE creativity;
     class MD,PS,ED,RD,PA application;
     class TC reference;
 ```
 
-This dependency graph illustrates the hierarchical relationships and dependency structures between various branches of Quantum-Classical Dualism theory. Different colors represent different theory categories, and arrows indicate the direction of dependencies. The Core Theory sits at the top, providing the foundation for all branch theories. The branch theories form a complex knowledge network based on their research domains and interdependencies.
+This dependency graph illustrates the actual dependency relationships between various branches of Quantum-Classical Dualism theory. The graph includes version numbers for each theory, with different colors representing different theory categories, and arrows indicating the direction of dependencies. The Core Theory sits at the top, providing the foundation for all branch theories, while the dependencies between branch theories are connected according to the declarations in their respective documents.
 
 ## Document Navigation
 - [Core Theory (This File)](formal_theory_en.md)

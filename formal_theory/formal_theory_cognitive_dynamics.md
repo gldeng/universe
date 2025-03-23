@@ -1,8 +1,8 @@
-# 量子认知动力学 v1.0
+# 量子认知动力学 v31.0
 
-**[English Version](formal_theory_cognitive_dynamics_en.md) | 中文版**
+**中文版**
 
-> 本理论基于[核心理论](../core.md) v13.0版本和[量子经典二元论](../formal_theory_core.md) v24.0版本
+> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论](../formal_theory_core.md) v31.0版本
 
 ## 文档导航
 - [核心理论](../formal_theory_core.md)

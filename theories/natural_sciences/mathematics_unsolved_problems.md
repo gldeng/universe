@@ -59,6 +59,8 @@ $$
 - [P vs NP问题](mathematics_unsolved_problems/p_vs_np_problem.md)
 - [黎曼假设](mathematics_unsolved_problems/riemann_hypothesis.md)
 - [哥德巴赫猜想](mathematics_unsolved_problems/goldbach_conjecture.md)
+- [孪生素数猜想](mathematics_unsolved_problems/twin_prime_conjecture.md)
+- [ABC猜想](mathematics_unsolved_problems/abc_conjecture.md)
 
 更多证明文档将陆续添加。
 
@@ -200,6 +202,8 @@ $$
 
 量子经典预测：孪生素数猜想为真，因为它描述了量子纠缠态经典化后在数系中的残余量子联系模式，这种模式理论上应无限延续。
 
+**详细证明:** [孪生素数猜想的量子经典二元论证明](mathematics_unsolved_problems/twin_prime_conjecture.md)
+
 ### ABC猜想 | ABC Conjecture
 
 #### 量子经典视角
@@ -211,6 +215,8 @@ $$
 $$
 
 量子经典预测：ABC猜想为真，因为它表达了经典域中信息与熵分布的一个基本平衡关系，这一平衡源于量子信息经典化过程的效率边界。
+
+**详细证明:** [ABC猜想的量子经典二元论证明](mathematics_unsolved_problems/abc_conjecture.md)
 
 ## 量子经典解决路径 | Quantum-Classical Solution Paths
 
@@ -294,6 +300,8 @@ Currently included detailed proofs:
 - [P vs NP Problem](mathematics_unsolved_problems/p_vs_np_problem.md)
 - [Riemann Hypothesis](mathematics_unsolved_problems/riemann_hypothesis.md)
 - [Goldbach's Conjecture](mathematics_unsolved_problems/goldbach_conjecture.md)
+- [Twin Prime Conjecture](mathematics_unsolved_problems/twin_prime_conjecture.md)
+- [ABC Conjecture](mathematics_unsolved_problems/abc_conjecture.md)
 
 More proof documents will be added.
 

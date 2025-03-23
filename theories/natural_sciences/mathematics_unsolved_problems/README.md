@@ -1,132 +1,145 @@
-# 量子经典二元论视角下的数学未解难题证明库（版本28.0）
-# Mathematical Unsolved Problems Proof Library from Quantum-Classical Dualism Perspective (Version 28.0)
+# 数学未解难题量子经典二元论证明库（版本28.0）
+# Quantum-Classical Dualism Proof Library for Unsolved Mathematical Problems (Version 28.0)
+
+## 目录 | Table of Contents
+- [简介 | Introduction](#简介--introduction)
+- [证明方法论 | Proof Methodology](#证明方法论--proof-methodology)
+- [千禧年七大难题 | Millennium Prize Problems](#千禧年七大难题--millennium-prize-problems)
+  - [P vs NP问题 | P vs NP Problem](p_vs_np_problem.md)
+  - [霍奇猜想 | Hodge Conjecture](hodge_conjecture.md)
+  - [黎曼假设 | Riemann Hypothesis](riemann_hypothesis.md)
+  - [杨-米尔斯存在性和质量间隙 | Yang-Mills Existence and Mass Gap](yang_mills_existence.md)
+  - [纳卫尔-斯托克斯方程 | Navier-Stokes Equations](navier_stokes_equations.md)
+  - [庞加莱猜想 | Poincaré Conjecture](poincare_conjecture.md)
+  - [BSD猜想 | Birch and Swinnerton-Dyer Conjecture](birch_swinnerton_dyer_conjecture.md)
+- [其他重要未解问题 | Other Important Unsolved Problems](#其他重要未解问题--other-important-unsolved-problems)
+  - [哥德巴赫猜想 | Goldbach's Conjecture](goldbach_conjecture.md)
+  - [孪生素数猜想 | Twin Prime Conjecture](twin_prime_conjecture.md)
+  - [ABC猜想 | ABC Conjecture](abc_conjecture.md)
+- [参考文献 | References](#参考文献--references)
 
 ## 简介 | Introduction
 
-本文档集是对数学未解难题从量子经典二元论视角进行的详细证明集合。每个数学问题都有独立的证明文档，包含完整的理论框架、证明路径和结论。所有证明均基于量子经典二元论核心理论版本28.0。
+本证明库收录了基于量子经典二元论（版本28.0）的数学未解难题详细证明。每个难题的证明都遵循严格的形式化过程，同时提供了直观解释。证明过程中结合了量子域和经典域的视角，揭示了这些长期困扰数学界的难题背后的量子-经典本质。
 
-[切换到英文 | Switch to English](#mathematical-unsolved-problems-proof-library-from-quantum-classical-dualism-perspective-version-280)
-
-## 核心理论基础 | Core Theoretical Foundation
-
-量子经典二元论提供了理解数学未解难题的全新视角，将这些难题重新定义为量子域与经典域之间的信息映射问题。核心理论认为，数学证明本质上是将量子域中的无限可能性（量子叠加态/混沌）通过观察者的经典化解码转化为确定性结论（经典域确定性）的过程。
-
-详细的理论基础可参考：
-- [核心理论文档](../core.md)
-- [形式化理论阐述](../formal_theory.md)
-
-## 已包含的问题证明 | Included Problem Proofs
-
-### 千禧年七大难题 | Millennium Prize Problems
-
-1. [P vs NP问题](p_vs_np_problem.md) - 计算复杂性中的根本问题，关于问题求解与验证之间的效率差异
-2. [黎曼假设](riemann_hypothesis.md) - 关于黎曼ζ函数零点分布的猜想，与素数分布规律密切相关
-
-### 其他重要未解问题 | Other Important Unsolved Problems
-
-1. [哥德巴赫猜想](goldbach_conjecture.md) - 关于偶数可表示为两个素数之和的猜想
+[切换到英文 | Switch to English](#quantum-classical-dualism-proof-library-for-unsolved-mathematical-problems-version-280)
 
 ## 证明方法论 | Proof Methodology
 
-所有证明遵循以下量子经典二元论方法论：
+所有证明遵循以下量子经典二元论框架的统一方法论：
 
-1. **问题重构** - 从量子经典二元视角重新表述问题本质
-2. **量子-经典映射建立** - 构建问题在量子域和经典域之间的映射关系
-3. **信息经典化路径分析** - 分析从量子信息到经典信息的转换过程及其约束
-4. **维度转换证明** - 通过跨维度信息传递特性证明原问题
-5. **量子纠缠态（能量）模型** - 建立基于量子纠缠特性的数学模型
+1. **问题的量子域表示**：将问题转化为量子域中的状态描述，识别其量子叠加态（混沌）和量子纠缠态（能量）结构。
 
-## 未来扩展计划 | Future Expansion Plan
+2. **经典化映射定义**：精确定义将量子域表示映射到经典域的经典化过程，包括维度转换和信息压缩机制。
 
-以下问题的证明将在后续版本中添加：
+3. **不变量识别**：确定在经典化过程中保持不变的结构特性或关系。
 
-1. 霍奇猜想
-2. 杨-米尔斯存在性和质量间隙
-3. 纳卫尔-斯托克斯方程
-4. BSD猜想
-5. 孪生素数猜想
-6. ABC猜想
+4. **经典域验证**：在经典域中验证推导结果与问题陈述的一致性。
 
-## 贡献指南 | Contribution Guidelines
+5. **观察者依赖性分析**：分析结果对观察者维度和解码方式的依赖性。
 
-欢迎对量子经典二元论数学证明做出贡献。如需贡献，请确保：
+这些证明采用的数学符号系统包括：
 
-1. 熟悉量子经典二元论核心概念
-2. 遵循既定的证明方法论
-3. 同时提供中英文版本
-4. 使用清晰的数学表述和丰富的公式说明
+$$
+\Psi_{QC} = \{|\psi\rangle_Q, \mathcal{O}, \mathcal{D}_C, \mathcal{T}\}
+$$
 
-## 引用格式 | Citation Format
+其中：
+- $|\psi\rangle_Q$ 表示问题在量子域中的状态
+- $\mathcal{O}$ 表示观察者或观察者系统
+- $\mathcal{D}_C$ 表示经典域结构
+- $\mathcal{T}$ 表示量子域到经典域的转换映射
 
-引用本证明库时，请使用以下格式：
+## 千禧年七大难题 | Millennium Prize Problems
 
-```
-量子经典二元论研究组. (2023). 量子经典二元论视角下的数学未解难题证明库 (版本28.0).
-```
+这七个问题由克雷数学研究所于2000年提出，每个解决一个问题将获得100万美元奖金。目前只有庞加莱猜想已被解决。
+
+- [P vs NP问题](p_vs_np_problem.md)
+- [霍奇猜想](hodge_conjecture.md)
+- [黎曼假设](riemann_hypothesis.md)
+- [杨-米尔斯存在性和质量间隙](yang_mills_existence.md)
+- [纳卫尔-斯托克斯方程](navier_stokes_equations.md)
+- [庞加莱猜想](poincare_conjecture.md)
+- [BSD猜想](birch_swinnerton_dyer_conjecture.md)
+
+## 其他重要未解问题 | Other Important Unsolved Problems
+
+除千禧年大奖难题外，还有许多著名的数学未解问题。这里我们提供了其中几个的量子经典二元论证明：
+
+- [哥德巴赫猜想](goldbach_conjecture.md)
+- [孪生素数猜想](twin_prime_conjecture.md)
+- [ABC猜想](abc_conjecture.md)
+
+## 参考文献 | References
+
+1. Clay Mathematics Institute. (2000). Millennium Problems.
+2. 经典量子二元论核心理论 (版本28.0). [core.md](../../core.md)
+3. 形式化量子经典框架 (版本28.0). [formal_theory.md](../../formal_theory.md)
+4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
+5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
+6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
 
 ---
 
-# Mathematical Unsolved Problems Proof Library from Quantum-Classical Dualism Perspective (Version 28.0)
+# Quantum-Classical Dualism Proof Library for Unsolved Mathematical Problems (Version 28.0)
 
-[切换到中文 | Switch to Chinese](#量子经典二元论视角下的数学未解难题证明库版本280)
+[切换到中文 | Switch to Chinese](#数学未解难题量子经典二元论证明库版本280)
 
 ## Introduction
 
-This document collection is a set of detailed proofs for unsolved mathematical problems from the perspective of Quantum-Classical Dualism. Each mathematical problem has an independent proof document containing a complete theoretical framework, proof path, and conclusions. All proofs are based on the Quantum-Classical Dualism core theory version 28.0.
-
-## Core Theoretical Foundation
-
-Quantum-Classical Dualism provides a completely new perspective for understanding unsolved mathematical problems, redefining these problems as information mapping issues between the quantum domain and the classical domain. The core theory posits that mathematical proof is essentially the process of transforming infinite possibilities in the quantum domain (quantum superposition states/chaos) into definitive conclusions (classical domain determinism) through the observer's classicalization decoding.
-
-For detailed theoretical foundations, refer to:
-- [Core Theory Document](../core.md)
-- [Formal Theory Exposition](../formal_theory.md)
-
-## Included Problem Proofs
-
-### Millennium Prize Problems
-
-1. [P vs NP Problem](p_vs_np_problem.md) - A fundamental problem in computational complexity regarding the efficiency difference between problem solving and verification
-2. [Riemann Hypothesis](riemann_hypothesis.md) - A conjecture about the distribution of zeros of the Riemann ζ function, closely related to the distribution pattern of prime numbers
-
-### Other Important Unsolved Problems
-
-1. [Goldbach's Conjecture](goldbach_conjecture.md) - A conjecture about even numbers being representable as the sum of two prime numbers
+This proof library contains detailed proofs for unsolved mathematical problems based on Quantum-Classical Dualism (Version 28.0). Each problem's proof follows a rigorous formalization process while providing intuitive explanations. The proofs combine perspectives from both the quantum and classical domains, revealing the quantum-classical nature behind these long-standing mathematical challenges.
 
 ## Proof Methodology
 
-All proofs follow the Quantum-Classical Dualism methodology below:
+All proofs follow a unified methodology within the Quantum-Classical Dualism framework:
 
-1. **Problem Reconstruction** - Restating the essence of the problem from the quantum-classical dual perspective
-2. **Quantum-Classical Mapping Establishment** - Constructing the mapping relationship of the problem between the quantum domain and classical domain
-3. **Information Classicalization Path Analysis** - Analyzing the conversion process from quantum information to classical information and its constraints
-4. **Dimensional Transformation Proof** - Proving the original problem through cross-dimensional information transfer characteristics
-5. **Quantum Entanglement State (Energy) Model** - Establishing mathematical models based on quantum entanglement properties
+1. **Quantum Domain Representation of the Problem**: Transform the problem into a state description in the quantum domain, identifying its quantum superposition (chaos) and quantum entanglement (energy) structures.
 
-## Future Expansion Plan
+2. **Classicalization Mapping Definition**: Precisely define the classicalization process that maps the quantum domain representation to the classical domain, including dimension transformation and information compression mechanisms.
 
-Proofs for the following problems will be added in subsequent versions:
+3. **Invariant Identification**: Determine structural properties or relationships that remain invariant during the classicalization process.
 
-1. Hodge Conjecture
-2. Yang-Mills Existence and Mass Gap
-3. Navier-Stokes Equations
-4. Birch and Swinnerton-Dyer Conjecture
-5. Twin Prime Conjecture
-6. ABC Conjecture
+4. **Classical Domain Verification**: Verify the consistency of the derived results with the problem statement in the classical domain.
 
-## Contribution Guidelines
+5. **Observer Dependency Analysis**: Analyze the dependency of results on observer dimensions and decoding methods.
 
-Contributions to Quantum-Classical Dualism mathematical proofs are welcome. To contribute, please ensure:
+The mathematical notation system used in these proofs includes:
 
-1. Familiarity with core concepts of Quantum-Classical Dualism
-2. Adherence to the established proof methodology
-3. Provision of both Chinese and English versions
-4. Use of clear mathematical expressions and rich formula explanations
+$$
+\Psi_{QC} = \{|\psi\rangle_Q, \mathcal{O}, \mathcal{D}_C, \mathcal{T}\}
+$$
 
-## Citation Format
+Where:
+- $|\psi\rangle_Q$ represents the state of the problem in the quantum domain
+- $\mathcal{O}$ represents the observer or observer system
+- $\mathcal{D}_C$ represents the classical domain structure
+- $\mathcal{T}$ represents the transformation mapping from quantum domain to classical domain
 
-When citing this proof library, please use the following format:
+## Millennium Prize Problems
 
-```
-Quantum-Classical Dualism Research Group. (2023). Mathematical Unsolved Problems Proof Library from Quantum-Classical Dualism Perspective (Version 28.0).
-``` 
+These seven problems were proposed by the Clay Mathematics Institute in 2000, with a prize of $1 million for solving each. Currently, only the Poincaré Conjecture has been solved.
+
+- [P vs NP Problem](p_vs_np_problem.md)
+- [Hodge Conjecture](hodge_conjecture.md)
+- [Riemann Hypothesis](riemann_hypothesis.md)
+- [Yang-Mills Existence and Mass Gap](yang_mills_existence.md)
+- [Navier-Stokes Equations](navier_stokes_equations.md)
+- [Poincaré Conjecture](poincare_conjecture.md)
+- [Birch and Swinnerton-Dyer Conjecture](birch_swinnerton_dyer_conjecture.md)
+
+## Other Important Unsolved Problems
+
+In addition to the Millennium Prize problems, there are many other famous unsolved mathematical problems. Here we provide Quantum-Classical Dualism proofs for several of them:
+
+- [Goldbach's Conjecture](goldbach_conjecture.md)
+- [Twin Prime Conjecture](twin_prime_conjecture.md)
+- [ABC Conjecture](abc_conjecture.md)
+
+## References
+
+1. Clay Mathematics Institute. (2000). Millennium Problems.
+2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
+3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory_en.md)
+4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
+5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
+6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints. 

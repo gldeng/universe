@@ -4,7 +4,7 @@
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [信息相变理论 (本文件)](formal_theory_phase_transition.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
@@ -577,7 +577,7 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 6. **社会技术系统相变预测**：建立预测社会技术系统相变的数学模型
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [信息相变理论 (本文件)](formal_theory_phase_transition.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)

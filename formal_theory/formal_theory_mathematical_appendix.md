@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_mathematical_appendix_en.md) | 中文版**
 
-> 本文档基于[核心理论](core.md) v27.0版本
+> 本文档基于[核心理论](../core.md) v27.0版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -394,7 +394,7 @@ $$d\mathcal{D}(x,t) = \alpha \nabla^2 \mathcal{D}(x,t)dt + \beta(\mathcal{D}_c -
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

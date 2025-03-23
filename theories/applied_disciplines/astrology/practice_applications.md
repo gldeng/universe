@@ -3,7 +3,7 @@
 **导航链接：**
 - [中文版](#占星学实践如何提高经典化效率的具体方法分析-1)
 - [English Version](#analysis-of-how-astrological-practice-can-improve-classicalization-efficiency)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 占星学实践如何提高经典化效率的具体方法分析
 

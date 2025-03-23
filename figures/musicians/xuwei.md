@@ -21,20 +21,20 @@ English: [Artist Introduction](#artist-introduction) | [Works Index](#works-inde
 以下是本项目中已完成量子经典二元论视角分析的许巍作品列表：
 
 **按时间顺序**
-- 1997年 - [《像风一样自由》](./xuwei_xiangFengYiYangZiYou.md) - 收录于《在别处》专辑
-- 1999年 - [《故乡》](./xuwei_guxiang.md) - 收录于《那一年》专辑
-- 2002年 - [《蓝莲花》](./xuwei_lanlaienhua.md) - 收录于《时光·漫步》专辑
-- 2002年 - [《时光》](./xuwei_shiguang.md) - 收录于《时光·漫步》专辑
-- 2004年 - [《曾经的你》](./xuwei_cengJingDeNi.md) - 收录于《每一刻都是崭新的》专辑
-- 2012年 - [《无尽光芒》](./xuwei_wujinguangmang.md) - 收录于同名专辑《无尽光芒》
-- 2014年 - [《生活不止眼前的苟且》](./xuwei_shenghuoBuZhiYanQianDeGouQie.md) - 单曲作品
-- 未标明 - [《执着》](./xuwei_zhizhuo.md) - 最初为田震创作，后自己演唱版本也广为流传
+- 1997年 - [《像风一样自由》](xuwei_xiangFengYiYangZiYou.md) - 收录于《在别处》专辑
+- 1999年 - [《故乡》](xuwei_guxiang.md) - 收录于《那一年》专辑
+- 2002年 - [《蓝莲花》](xuwei_lanlaienhua.md) - 收录于《时光·漫步》专辑
+- 2002年 - [《时光》](xuwei_shiguang.md) - 收录于《时光·漫步》专辑
+- 2004年 - [《曾经的你》](xuwei_cengJingDeNi.md) - 收录于《每一刻都是崭新的》专辑
+- 2012年 - [《无尽光芒》](xuwei_wujinguangmang.md) - 收录于同名专辑《无尽光芒》
+- 2014年 - [《生活不止眼前的苟且》](xuwei_shenghuoBuZhiYanQianDeGouQie.md) - 单曲作品
+- 未标明 - [《执着》](xuwei_zhizhuo.md) - 最初为田震创作，后自己演唱版本也广为流传
 
 **按主题分类**
-- **时间与永恒**：[《时光》](./xuwei_shiguang.md)、[《无尽光芒》](./xuwei_wujinguangmang.md)
-- **记忆与怀念**：[《故乡》](./xuwei_guxiang.md)、[《曾经的你》](./xuwei_cengJingDeNi.md)
-- **自由与超越**：[《像风一样自由》](./xuwei_xiangFengYiYangZiYou.md)、[《生活不止眼前的苟且》](./xuwei_shenghuoBuZhiYanQianDeGouQie.md)
-- **坚持与信念**：[《执着》](./xuwei_zhizhuo.md)、[《蓝莲花》](./xuwei_lanlaienhua.md)
+- **时间与永恒**：[《时光》](xuwei_shiguang.md)、[《无尽光芒》](xuwei_wujinguangmang.md)
+- **记忆与怀念**：[《故乡》](xuwei_guxiang.md)、[《曾经的你》](xuwei_cengJingDeNi.md)
+- **自由与超越**：[《像风一样自由》](xuwei_xiangFengYiYangZiYou.md)、[《生活不止眼前的苟且》](xuwei_shenghuoBuZhiYanQianDeGouQie.md)
+- **坚持与信念**：[《执着》](xuwei_zhizhuo.md)、[《蓝莲花》](xuwei_lanlaienhua.md)
 
 ### 创作哲学
 
@@ -58,7 +58,7 @@ English: [Artist Introduction](#artist-introduction) | [Works Index](#works-inde
 
 ### 代表作品分析
 
-#### [《蓝莲花》](./xuwei_lanlaienhua.md)：理想经典化状态的象征
+#### [《蓝莲花》](xuwei_lanlaienhua.md)：理想经典化状态的象征
 
 《蓝莲花》收录于2002年专辑《时光·漫步》，是许巍最具代表性的作品之一。从量子经典二元论视角看，这首歌呈现了理想经典化状态与观察者维度提升的过程：
 
@@ -76,7 +76,7 @@ $$
 
 这首歌的流行和影响力，从量子经典二元论看，正是因为它完美呈现了理想的经典化状态，满足了人类对秩序与永恒的渴望。
 
-#### [《故乡》](./xuwei_guxiang.md)：低熵经典世界的向往
+#### [《故乡》](xuwei_guxiang.md)：低熵经典世界的向往
 
 《故乡》收录于1999年专辑《那一年》，从量子经典二元论角度看，"故乡"作为核心意象，代表了观察者心目中的理想低熵经典世界状态：
 
@@ -94,7 +94,7 @@ $$
 
 《故乡》的广泛共鸣，源于它触及了人类共同的心灵原型—对低熵稳定状态的永恒追求。
 
-#### [《无尽光芒》](./xuwei_wujinguangmang.md)：宇宙能量与熵减的关系
+#### [《无尽光芒》](xuwei_wujinguangmang.md)：宇宙能量与熵减的关系
 
 《无尽光芒》是许巍2012年同名专辑的主打歌，从量子经典二元论视角看，这首歌直接触及了宇宙能量与熵减的核心关系：
 
@@ -112,7 +112,7 @@ $$
 
 《无尽光芒》的震撼力量来自于它对宇宙本源层面的洞察—能量与秩序的永恒辩证关系。
 
-#### [《生活不止眼前的苟且》](./xuwei_shenghuoBuZhiYanQianDeGouQie.md)：维度提升的艺术表达
+#### [《生活不止眼前的苟且》](xuwei_shenghuoBuZhiYanQianDeGouQie.md)：维度提升的艺术表达
 
 这首创作于2014年的单曲，是许巍对维度提升最直接的艺术表达：
 
@@ -136,7 +136,7 @@ $$
 
 #### 1. 量子域与经典域的交织
 
-许巍的作品常常在具体的经典描述（如自然景观、城市生活）中蕴含着对无限可能性的探索。这种创作特点体现了量子域（无限可能性）与经典域（确定表达）的交织共存。例如在[《像风一样自由》](./xuwei_xiangFengYiYangZiYou.md)中，风既有确定的物理特性（经典域），又有不可预测的随机性（量子域）；在[《时光》](./xuwei_shiguang.md)中，时间既有线性流动的确定性，又有超越线性的永恒特质。
+许巍的作品常常在具体的经典描述（如自然景观、城市生活）中蕴含着对无限可能性的探索。这种创作特点体现了量子域（无限可能性）与经典域（确定表达）的交织共存。例如在[《像风一样自由》](xuwei_xiangFengYiYangZiYou.md)中，风既有确定的物理特性（经典域），又有不可预测的随机性（量子域）；在[《时光》](xuwei_shiguang.md)中，时间既有线性流动的确定性，又有超越线性的永恒特质。
 
 $$
 |\psi\rangle_{\text{许巍创作}} = \alpha|\psi\rangle_{\text{经典表达}} + \beta|\psi\rangle_{\text{量子可能性}}
@@ -146,7 +146,7 @@ $$
 
 #### 2. 熵减过程的艺术实践
 
-许巍的创作过程本质上是一种熵减实践，他将混沌的情感和思想通过有序的音乐结构和诗性语言组织起来，创造出低熵高信息的艺术作品。例如，[《执着》](./xuwei_zhizhuo.md)通过清晰的主题和反复的结构，将复杂的坚持理念组织为有序的表达；[《曾经的你》](./xuwei_cengJingDeNi.md)将模糊的记忆转化为清晰的音乐叙事。
+许巍的创作过程本质上是一种熵减实践，他将混沌的情感和思想通过有序的音乐结构和诗性语言组织起来，创造出低熵高信息的艺术作品。例如，[《执着》](xuwei_zhizhuo.md)通过清晰的主题和反复的结构，将复杂的坚持理念组织为有序的表达；[《曾经的你》](xuwei_cengJingDeNi.md)将模糊的记忆转化为清晰的音乐叙事。
 
 $$
 \Delta S_{\text{创作}} = -k \cdot \ln\left(\frac{\Omega_{\text{思想情感可能状态数}}}{
@@ -228,20 +228,20 @@ Xu Wei's music career began in the late 1980s. In 1991, he created numerous song
 The following is a list of Xu Wei's works that have been analyzed from the perspective of Quantum-Classical Dualism in this project:
 
 **Chronological Order**
-- 1997 - ["Free Like the Wind"](./xuwei_xiangFengYiYangZiYou.md) - Included in the album "Elsewhere"
-- 1999 - ["Hometown"](./xuwei_guxiang.md) - Included in the album "That Year"
-- 2002 - ["Blue Lotus"](./xuwei_lanlaienhua.md) - Included in the album "Time · Stroll"
-- 2002 - ["Time"](./xuwei_shiguang.md) - Included in the album "Time · Stroll"
-- 2004 - ["Once You"](./xuwei_cengJingDeNi.md) - Included in the album "Every Moment is Brand New"
-- 2012 - ["Endless Radiance"](./xuwei_wujinguangmang.md) - Included in the album of the same name "Endless Radiance"
-- 2014 - ["Life is More Than Just Getting By"](./xuwei_shenghuoBuZhiYanQianDeGouQie.md) - Single work
-- Unspecified - ["Persistence"](./xuwei_zhizhuo.md) - Originally created for Tian Zhen, later his own version also became widely popular
+- 1997 - ["Free Like the Wind"](xuwei_xiangFengYiYangZiYou.md) - Included in the album "Elsewhere"
+- 1999 - ["Hometown"](xuwei_guxiang.md) - Included in the album "That Year"
+- 2002 - ["Blue Lotus"](xuwei_lanlaienhua.md) - Included in the album "Time · Stroll"
+- 2002 - ["Time"](xuwei_shiguang.md) - Included in the album "Time · Stroll"
+- 2004 - ["Once You"](xuwei_cengJingDeNi.md) - Included in the album "Every Moment is Brand New"
+- 2012 - ["Endless Radiance"](xuwei_wujinguangmang.md) - Included in the album of the same name "Endless Radiance"
+- 2014 - ["Life is More Than Just Getting By"](xuwei_shenghuoBuZhiYanQianDeGouQie.md) - Single work
+- Unspecified - ["Persistence"](xuwei_zhizhuo.md) - Originally created for Tian Zhen, later his own version also became widely popular
 
 **Thematic Classification**
-- **Time and Eternity**: ["Time"](./xuwei_shiguang.md), ["Endless Radiance"](./xuwei_wujinguangmang.md)
-- **Memory and Nostalgia**: ["Hometown"](./xuwei_guxiang.md), ["Once You"](./xuwei_cengJingDeNi.md)
-- **Freedom and Transcendence**: ["Free Like the Wind"](./xuwei_xiangFengYiYangZiYou.md), ["Life is More Than Just Getting By"](./xuwei_shenghuoBuZhiYanQianDeGouQie.md)
-- **Perseverance and Belief**: ["Persistence"](./xuwei_zhizhuo.md), ["Blue Lotus"](./xuwei_lanlaienhua.md)
+- **Time and Eternity**: ["Time"](xuwei_shiguang.md), ["Endless Radiance"](xuwei_wujinguangmang.md)
+- **Memory and Nostalgia**: ["Hometown"](xuwei_guxiang.md), ["Once You"](xuwei_cengJingDeNi.md)
+- **Freedom and Transcendence**: ["Free Like the Wind"](xuwei_xiangFengYiYangZiYou.md), ["Life is More Than Just Getting By"](xuwei_shenghuoBuZhiYanQianDeGouQie.md)
+- **Perseverance and Belief**: ["Persistence"](xuwei_zhizhuo.md), ["Blue Lotus"](xuwei_lanlaienhua.md)
 
 ### Creative Philosophy
 
@@ -265,7 +265,7 @@ Xu Wei excels at expressing profound philosophical thinking through poetic langu
 
 ### Analysis of Representative Works
 
-#### ["Blue Lotus"](./xuwei_lanlaienhua.md): Symbol of Ideal Classicalization State
+#### ["Blue Lotus"](xuwei_lanlaienhua.md): Symbol of Ideal Classicalization State
 
 "Blue Lotus" is included in the 2002 album "Time · Stroll" and is one of Xu Wei's most representative works. From the perspective of Quantum-Classical Dualism, this song presents the ideal classicalization state and the process of observer dimension elevation:
 
@@ -283,7 +283,7 @@ $$
 
 The popularity and influence of this song, from the perspective of Quantum-Classical Dualism, is precisely because it perfectly presents the ideal classicalization state, satisfying human longing for order and eternity.
 
-#### ["Hometown"](./xuwei_guxiang.md): Longing for a Low-Entropy Classical World
+#### ["Hometown"](xuwei_guxiang.md): Longing for a Low-Entropy Classical World
 
 "Hometown" is included in the 1999 album "That Year." From the perspective of Quantum-Classical Dualism, "hometown" as a core image represents the ideal low-entropy classical world state in the observer's mind:
 
@@ -301,7 +301,7 @@ $$
 
 The widespread resonance of "Hometown" stems from its touching on a common human psychological archetype—the eternal pursuit of a low-entropy stable state.
 
-#### ["Endless Radiance"](./xuwei_wujinguangmang.md): Relationship Between Universal Energy and Entropy Reduction
+#### ["Endless Radiance"](xuwei_wujinguangmang.md): Relationship Between Universal Energy and Entropy Reduction
 
 "Endless Radiance" is the title track of Xu Wei's 2012 album. From the perspective of Quantum-Classical Dualism, this song directly touches on the core relationship between universal energy and entropy reduction:
 
@@ -319,7 +319,7 @@ $$
 
 The powerful impact of "Endless Radiance" comes from its insight into the origin level of the universe—the eternal dialectical relationship between energy and order.
 
-#### ["Life is More Than Just Getting By"](./xuwei_shenghuoBuZhiYanQianDeGouQie.md): Artistic Expression of Dimension Elevation
+#### ["Life is More Than Just Getting By"](xuwei_shenghuoBuZhiYanQianDeGouQie.md): Artistic Expression of Dimension Elevation
 
 This single created in 2014 is Xu Wei's most direct artistic expression of dimension elevation:
 
@@ -343,7 +343,7 @@ From the perspective of Quantum-Classical Dualism, Xu Wei's music creation refle
 
 #### 1. Interweaving of Quantum and Classical Domains
 
-Xu Wei's works often contain exploration of infinite possibilities within concrete classical descriptions (such as natural landscapes, urban life). This creative characteristic embodies the coexistence of the quantum domain (infinite possibilities) and the classical domain (definite expressions). For example, in ["Free Like the Wind"](./xuwei_xiangFengYiYangZiYou.md), wind has both definite physical characteristics (classical domain) and unpredictable randomness (quantum domain); in ["Time"](./xuwei_shiguang.md), time has both the certainty of linear flow and the eternal quality that transcends linearity.
+Xu Wei's works often contain exploration of infinite possibilities within concrete classical descriptions (such as natural landscapes, urban life). This creative characteristic embodies the coexistence of the quantum domain (infinite possibilities) and the classical domain (definite expressions). For example, in ["Free Like the Wind"](xuwei_xiangFengYiYangZiYou.md), wind has both definite physical characteristics (classical domain) and unpredictable randomness (quantum domain); in ["Time"](xuwei_shiguang.md), time has both the certainty of linear flow and the eternal quality that transcends linearity.
 
 $$
 |\psi\rangle_{\text{Xu Wei's Creation}} = \alpha|\psi\rangle_{\text{Classical Expression}} + \beta|\psi\rangle_{\text{Quantum Possibility}}
@@ -353,7 +353,7 @@ This interweaving enables Xu Wei's music to convey universality within specifici
 
 #### 2. Artistic Practice of Entropy Reduction
 
-Xu Wei's creative process is essentially an entropy reduction practice. He organizes chaotic emotions and thoughts through ordered musical structures and poetic language, creating artistic works with low entropy and high information. For example, ["Persistence"](./xuwei_zhizhuo.md) organizes the complex concept of perseverance into ordered expression through clear themes and repetitive structures; ["Once You"](./xuwei_cengJingDeNi.md) transforms fuzzy memories into clear musical narratives.
+Xu Wei's creative process is essentially an entropy reduction practice. He organizes chaotic emotions and thoughts through ordered musical structures and poetic language, creating artistic works with low entropy and high information. For example, ["Persistence"](xuwei_zhizhuo.md) organizes the complex concept of perseverance into ordered expression through clear themes and repetitive structures; ["Once You"](xuwei_cengJingDeNi.md) transforms fuzzy memories into clear musical narratives.
 
 $$
 \Delta S_{\text{Creation}} = -k \cdot \ln\left(\frac{\Omega_{\text{Number of Possible States of Thoughts and Emotions}}}{

@@ -156,8 +156,8 @@ NP类问题（高维到低维投影）：
 ## 参考文献 | References
 
 1. Cook, S. A. (1971). The complexity of theorem-proving procedures. Proceedings of the Third Annual ACM Symposium on Theory of Computing.
-2. 经典量子二元论核心理论 (版本28.0). [core.md](../../core.md)
-3. 形式化量子经典框架 (版本28.0). [formal_theory.md](../../formal_theory.md)
+2. 经典量子二元论核心理论 (版本28.0). [core.md](../../../core.md)
+3. 形式化量子经典框架 (版本28.0). [formal_theory.md](../../../formal_theory_core.md)
 4. Aaronson, S. (2005). NP-complete problems and physical reality. ACM SIGACT News, 36(1), 30-52.
 5. Wigderson, A. (2019). Mathematics and Computation. Princeton University Press.
 
@@ -308,7 +308,7 @@ The deeper significance of this conclusion is that the complexity of certain mat
 ## References
 
 1. Cook, S. A. (1971). The complexity of theorem-proving procedures. Proceedings of the Third Annual ACM Symposium on Theory of Computing.
-2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory_en.md)
+2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../../core_en.md)
+3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 4. Aaronson, S. (2005). NP-complete problems and physical reality. ACM SIGACT News, 36(1), 30-52.
 5. Wigderson, A. (2019). Mathematics and Computation. Princeton University Press. 

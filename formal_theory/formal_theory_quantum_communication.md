@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_communication_en.md) | 中文版**
 
-> 本文基于[量子经典二元论](formal_theory.md) v27.0版本
+> 本文基于[量子经典二元论](../formal_theory_core.md) v27.0版本
 
 ## 量子通信协议概述
 
@@ -274,7 +274,7 @@ $$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}$$
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [信息-时空-能量统一理论](formal_theory_unified.md)

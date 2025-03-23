@@ -1,12 +1,12 @@
 # 量子-经典设计理论 v13.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_design_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_design_en.md)**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 导航
 
-- [量子经典二元论形式化表达](formal_theory.md)
+- [量子经典二元论形式化表达](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -314,7 +314,7 @@ $$\Psi_{\text{团队}} = \sum_{i} \omega_i \Psi_{\text{个体}_i} + \sum_{i,j} \
 5. Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

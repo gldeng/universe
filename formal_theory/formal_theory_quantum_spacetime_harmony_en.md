@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_quantum_spacetime_harmony.md)**
 
-> This theory is based on [Core Theory](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../formal_theory_core_en.md) v28.0
 
 ## Navigation
 
@@ -274,7 +274,7 @@ Philosophical interpretation and future outlook of quantum spacetime harmony the
 
 ## References
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)
 - [Hierarchical Spacetime Theory](formal_theory_hierarchical_spacetime_en.md)

@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_complex_systems_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [复杂系统二元分析 (本文件)](formal_theory_complex_systems.md)
@@ -267,7 +267,7 @@ $$Y \sim N^{\beta}$$
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [复杂系统二元分析 (本文件)](formal_theory_complex_systems.md)

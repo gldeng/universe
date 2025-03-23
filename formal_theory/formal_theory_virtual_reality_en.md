@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_virtual_reality.md)**
 
-> This theory is based on [Quantum-Classical Dualism](formal_theory_en.md) v28.0
+> This theory is based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v28.0
 
 ## Virtual Reality Theory Overview
 
@@ -336,7 +336,7 @@ The quantum-classical dualism perspective suggests that identity is fundamentall
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)

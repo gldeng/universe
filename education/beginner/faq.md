@@ -137,7 +137,7 @@ $$
 #### 问：作为初学者，如何开始学习量子经典二元论？
 
 **答**：建议学习路径：
-1. 从[核心理论](../../core.md)和[简介](../01_introduction.md)开始，获得整体概览
+1. 从[核心理论](../../core.md)和[简介](../../01_introduction.md)开始，获得整体概览
 2. 使用[思想实验](thought_experiments.md)和[日常应用](everyday_applications.md)培养直观理解
 3. 学习[基本概念](../../02_basic_concepts.md)，理解核心术语和定义
 4. 探索[理论框架](../../03_theoretical_framework.md)，了解整体结构
@@ -309,7 +309,7 @@ $$
 #### Q: As a beginner, how should I start learning Quantum-Classical Dualism?
 
 **A**: Recommended learning path:
-1. Start with the [Core Theory](../../core.md) and [Introduction](../01_introduction.md) to get an overall view
+1. Start with the [Core Theory](../../core.md) and [Introduction](../../01_introduction.md) to get an overall view
 2. Use [Thought Experiments](thought_experiments.md) and [Everyday Applications](everyday_applications.md) to develop intuitive understanding
 3. Learn [Basic Concepts](../../02_basic_concepts.md) to understand core terminology and definitions
 4. Explore the [Theoretical Framework](../../03_theoretical_framework.md) to understand the overall structure

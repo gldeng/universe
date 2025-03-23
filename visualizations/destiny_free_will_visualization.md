@@ -613,6 +613,6 @@ Visualized as the relationship between free will and information choice:
 
 ## 相关链接 | Related Links
 
-- [返回可视化目录 | Return to Visualizations](./README.md)
-- [量子纠缠本质可视化 | Quantum Entanglement Essence Visualization](./quantum_entanglement_essence_visualization.md)
-- [经典化过程可视化 | Classicalization Process Visualization](./classicalization_process_visualization.md) 
+- [返回可视化目录 | Return to Visualizations](README.md)
+- [量子纠缠本质可视化 | Quantum Entanglement Essence Visualization](quantum_entanglement_essence_visualization.md)
+- [经典化过程可视化 | Classicalization Process Visualization](classicalization_process_visualization.md) 

@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_self_organization.md)**
 
-> Based on [Core Theory](core_en.md) v11.1
+> Based on [Core Theory](../core_en.md) v11.1
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Quantum Self-Organization Theory (This File)](formal_theory_self_organization_en.md)
@@ -205,7 +205,7 @@ Quantum self-organization processes embody the universe's self-creativity, where
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Quantum Self-Organization Theory (This File)](formal_theory_self_organization_en.md)

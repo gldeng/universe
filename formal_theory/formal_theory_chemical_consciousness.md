@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_chemical_consciousness_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论形式化表达](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v28.0版本
 
 ## 导航链接
 - [理论核心概述](#理论核心概述)
@@ -384,7 +384,7 @@ $$D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

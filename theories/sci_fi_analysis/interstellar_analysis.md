@@ -1,7 +1,7 @@
 # 《星际穿越》量子经典二元论分析
 # "Interstellar" Analysis from Quantum-Classical Dualism Perspective
 
-[返回科幻分析目录](./README.md) | [Back to Sci-Fi Analysis Directory](./README.md)
+[返回科幻分析目录](README.md) | [Back to Sci-Fi Analysis Directory](README.md)
 
 [中文版](#中文导航) | [English Version](#english-navigation)
 

@@ -3,7 +3,7 @@
 **[English Version](formal_theory_quantum_ai_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -40,7 +40,7 @@
 - [量子认知计算与类人智能](#量子认知计算与类人智能)
 - [量子群体智能算法](#量子群体智能算法)
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 理论基础
 

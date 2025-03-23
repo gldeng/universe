@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_ethics_en.md) | 中文版**
 
-> 本理论基于[核心理论](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../formal_theory_core.md) v28.0版本
 
 ## 导航
 
@@ -302,7 +302,7 @@
 
 ## 参考文献
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [量子-经典伦理学](formal_theory_ethics.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子技术奇点预测](formal_theory_singularity.md)

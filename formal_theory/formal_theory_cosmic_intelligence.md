@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_cosmic_intelligence_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v29.0版本和[量子经典二元论形式化表达](formal_theory.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v29.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v29.0版本
 
 ## 导航链接
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [宇宙学二元论模型](formal_theory_cosmology.md)
@@ -291,7 +291,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
 10. Chalmers, D. (1995). Facing up to the problem of consciousness.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [宇宙学二元论模型](formal_theory_cosmology.md)

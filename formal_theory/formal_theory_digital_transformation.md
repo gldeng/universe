@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_digital_transformation_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v30.0版本和[量子经典二元论形式化表达](formal_theory.md) v30.0版本
+> 本理论基于[核心理论](../core.md) v30.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v30.0版本
 
 ## 导航链接
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -407,7 +407,7 @@ $$\frac{d\mathcal{D}}{dt} = \frac{d\mathcal{D}}{dt}\bigg|_{base} + \alpha_{VR} \
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

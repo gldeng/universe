@@ -1,12 +1,12 @@
 # 量子记忆理论 v15.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_memory_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_memory_en.md)**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 导航
 
-- [量子经典二元论形式化表达](formal_theory.md)
+- [量子经典二元论形式化表达](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -267,7 +267,7 @@ $$\rho_{\text{共享记忆}} = \sum_i \omega_i \mathcal{O}_i(\rho_{\text{量子�
 5. McGaugh, J. L. (2000). Memory--a century of consolidation. Science, 287(5451), 248-251.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

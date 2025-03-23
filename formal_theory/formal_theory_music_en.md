@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_music.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v11.1 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v27.0
 
 ## Table of Contents
 - [Theory Overview](#theory-overview)

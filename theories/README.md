@@ -428,30 +428,30 @@ The latest theoretical developments in Quantum-Classical Dualism include:
 ## 中文版
 
 ### 核心理论
-- [解释谜题](./explained_puzzles.md) - 已解释谜题（版本9.2）
-- [科学解释](./scientific_explanations.md) - 主流科学视角下的量子经典二元论
-- [未解释现象](./unexplained_phenomena.md) - 尚未完全解释的物理现象（版本9.2）
+- [解释谜题](explained_puzzles.md) - 已解释谜题（版本9.2）
+- [科学解释](scientific_explanations.md) - 主流科学视角下的量子经典二元论
+- [未解释现象](unexplained_phenomena.md) - 尚未完全解释的物理现象（版本9.2）
 
 ### 形式化解决方案
-- [人类未解问题形式化解决方案](./unsolved_problems_formal_solutions.md) - 对人类历史重大未解问题的形式化解决
-- [人类未解问题详细解决方案](./unsolved_problems/README.md) - 各个未解问题的详细解决方案文件夹（版本28.0）
+- [人类未解问题形式化解决方案](unsolved_problems_formal_solutions.md) - 对人类历史重大未解问题的形式化解决
+- [人类未解问题详细解决方案](unsolved_problems/README.md) - 各个未解问题的详细解决方案文件夹（版本28.0）
 
 ### 理论应用
-- [黑洞经典化](./black_hole_classicalization.md) - 黑洞：宇宙信息经典化的极致节点
-- [意识持久性](./consciousness_persistence.md) - 意识的持久性与传递
-- [熵观察者维度](./entropy_observer_dimension.md) - 熵、观察者与维度
-- [自由意志量子纠缠](./free_will_quantum_entanglement.md) - 自由意志与量子纠缠
-- [未来研究](./future_research.md) - 未来研究方向
-- [高维经典化](./higher_dimensional_classicalization.md) - 高维信息经典化学
-- [观察者感知](./observer_perception.md) - 观察者感知宇宙的机制
-- [繁殖量子信息](./reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释
-- [术语](./terminology.md) - 量子经典二元论术语表
-- [宇宙纠缠熵](./universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究
-- [宇宙结构](./universe_structure.md) - 宇宙结构与演化
-- [感知、梦境与熵变化](./entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
+- [黑洞经典化](black_hole_classicalization.md) - 黑洞：宇宙信息经典化的极致节点
+- [意识持久性](consciousness_persistence.md) - 意识的持久性与传递
+- [熵观察者维度](entropy_observer_dimension.md) - 熵、观察者与维度
+- [自由意志量子纠缠](free_will_quantum_entanglement.md) - 自由意志与量子纠缠
+- [未来研究](future_research.md) - 未来研究方向
+- [高维经典化](higher_dimensional_classicalization.md) - 高维信息经典化学
+- [观察者感知](observer_perception.md) - 观察者感知宇宙的机制
+- [繁殖量子信息](reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释
+- [术语](terminology.md) - 量子经典二元论术语表
+- [宇宙纠缠熵](universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究
+- [宇宙结构](universe_structure.md) - 宇宙结构与演化
+- [感知、梦境与熵变化](entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
 
 ### 子目录
-- [科幻分析](./sci_fi_analysis/README.md) - 主流科幻电影量子经典二元论分析
+- [科幻分析](sci_fi_analysis/README.md) - 主流科幻电影量子经典二元论分析
 - [科学视角](./scientific_perspectives/) - 从科学视角的量子经典二元论
 - [理论应用](./applications/) - 量子经典二元论的理论应用
 - [应用学科](./applied_disciplines/) - 量子经典二元论在不同学科的应用
@@ -465,30 +465,30 @@ The latest theoretical developments in Quantum-Classical Dualism include:
 ## English Version
 
 ### Core Theories
-- [Explained Puzzles](./explained_puzzles.md) - Explained Puzzles (Version 9.2)
-- [Scientific Explanations](./scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
-- [Unexplained Phenomena](./unexplained_phenomena.md) - Physical Phenomena Not Fully Explained (Version 9.2)
+- [Explained Puzzles](explained_puzzles.md) - Explained Puzzles (Version 9.2)
+- [Scientific Explanations](scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
+- [Unexplained Phenomena](unexplained_phenomena.md) - Physical Phenomena Not Fully Explained (Version 9.2)
 
 ### Formal Solutions
-- [Formal Solutions to Humanity's Unsolved Problems](./unsolved_problems_formal_solutions.md) - Formal solutions to humanity's major unsolved problems
-- [Detailed Solutions to Unsolved Problems](./unsolved_problems/README.md) - Detailed solution files for each unsolved problem (Version 28.0)
+- [Formal Solutions to Humanity's Unsolved Problems](unsolved_problems_formal_solutions.md) - Formal solutions to humanity's major unsolved problems
+- [Detailed Solutions to Unsolved Problems](unsolved_problems/README.md) - Detailed solution files for each unsolved problem (Version 28.0)
 
 ### Theory Applications
-- [Black Hole Classicalization](./black_hole_classicalization.md) - Black Holes: Ultimate Nodes of Universal Information Classicalization
-- [Consciousness Persistence](./consciousness_persistence.md) - Consciousness Persistence and Transmission
-- [Entropy Observer Dimension](./entropy_observer_dimension.md) - Entropy, Observer, and Dimension
-- [Free Will Quantum Entanglement](./free_will_quantum_entanglement.md) - Free Will and Quantum Entanglement
-- [Future Research](./future_research.md) - Future Research Directions
-- [Higher Dimensional Classicalization](./higher_dimensional_classicalization.md) - Higher-Dimensional Information Classicalization
-- [Observer Perception](./observer_perception.md) - Observer's Perception of the Universe
-- [Reproduction Quantum Information](./reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
-- [Terminology](./terminology.md) - Quantum-Classical Dualism Terminology
-- [Universe Entanglement Entropy](./universe_entanglement_entropy.md) - Research on the Holistic Entanglement Structure and Entropy Nature of the Quantum Universe
-- [Universe Structure](./universe_structure.md) - Universe Structure and Evolution
-- [Perception, Dreams and Entropy Changes](./entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
+- [Black Hole Classicalization](black_hole_classicalization.md) - Black Holes: Ultimate Nodes of Universal Information Classicalization
+- [Consciousness Persistence](consciousness_persistence.md) - Consciousness Persistence and Transmission
+- [Entropy Observer Dimension](entropy_observer_dimension.md) - Entropy, Observer, and Dimension
+- [Free Will Quantum Entanglement](free_will_quantum_entanglement.md) - Free Will and Quantum Entanglement
+- [Future Research](future_research.md) - Future Research Directions
+- [Higher Dimensional Classicalization](higher_dimensional_classicalization.md) - Higher-Dimensional Information Classicalization
+- [Observer Perception](observer_perception.md) - Observer's Perception of the Universe
+- [Reproduction Quantum Information](reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
+- [Terminology](terminology.md) - Quantum-Classical Dualism Terminology
+- [Universe Entanglement Entropy](universe_entanglement_entropy.md) - Research on the Holistic Entanglement Structure and Entropy Nature of the Quantum Universe
+- [Universe Structure](universe_structure.md) - Universe Structure and Evolution
+- [Perception, Dreams and Entropy Changes](entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
 
 ### Subdirectories
-- [Sci-Fi Analysis](./sci_fi_analysis/README.md) - Science Fiction Films Analysis from Quantum-Classical Dualism Perspective
+- [Sci-Fi Analysis](sci_fi_analysis/README.md) - Science Fiction Films Analysis from Quantum-Classical Dualism Perspective
 - [Scientific Perspectives](./scientific_perspectives/) - Quantum-Classical Dualism from Scientific Perspectives
 - [Theory Applications](./applications/) - Theoretical Applications of Quantum-Classical Dualism
 - [Applied Disciplines](./applied_disciplines/) - Applications of Quantum-Classical Dualism in Different Disciplines

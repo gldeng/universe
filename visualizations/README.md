@@ -27,12 +27,12 @@
 
 以下资源提供了量子经典二元论核心概念的可视化表示：
 
-- [宇宙结构可视化](./universe_structure_visualization.md) - 量子经典二元论框架下宇宙结构的多层次模型
-- [观察者感知可视化](./observer_perception_visualization.md) - 观察者与宇宙信息交互的感知机制
-- [量子意识可视化](./quantum_consciousness_visualization.md) - 二元论中意识本质和形成机制的图形化表示
-- [经典化过程可视化](./classicalization_process_visualization.md) - 量子信息转变为经典信息的过程模型
-- [命运与自由意志可视化](./destiny_free_will_visualization.md) - 二元论框架中命运与自由意志的辩证关系
-- [量子纠缠本质可视化](./quantum_entanglement_essence_visualization.md) - 量子纠缠在二元论中的本质及其与观察者的关系
+- [宇宙结构可视化](universe_structure_visualization.md) - 量子经典二元论框架下宇宙结构的多层次模型
+- [观察者感知可视化](observer_perception_visualization.md) - 观察者与宇宙信息交互的感知机制
+- [量子意识可视化](quantum_consciousness_visualization.md) - 二元论中意识本质和形成机制的图形化表示
+- [经典化过程可视化](classicalization_process_visualization.md) - 量子信息转变为经典信息的过程模型
+- [命运与自由意志可视化](destiny_free_will_visualization.md) - 二元论框架中命运与自由意志的辩证关系
+- [量子纠缠本质可视化](quantum_entanglement_essence_visualization.md) - 量子纠缠在二元论中的本质及其与观察者的关系
 - [灵性维度可视化](./spiritual_dimensions_visualization.md) - 灵性观念在量子经典二元论中的科学解释
 - [数学模型可视化](./mathematical_model_visualization.md) - 核心理论的数学表达及其图形化表示
 
@@ -68,12 +68,12 @@ This directory organizes different categories of visualization resources, includ
 
 The following resources provide visual representations of the core concepts of Quantum-Classical Dualism:
 
-- [Universe Structure Visualization](./universe_structure_visualization.md) - Multi-level models of universe structure within the Quantum-Classical Dualism framework
-- [Observer Perception Visualization](./observer_perception_visualization.md) - Perception mechanisms of observer interaction with universal information
-- [Quantum Consciousness Visualization](./quantum_consciousness_visualization.md) - Graphical representations of the nature and formation mechanisms of consciousness in dualism
-- [Classicalization Process Visualization](./classicalization_process_visualization.md) - Process models of quantum information transforming into classical information
-- [Destiny and Free Will Visualization](./destiny_free_will_visualization.md) - Dialectical relationship between destiny and free will in the dualistic framework
-- [Quantum Entanglement Essence Visualization](./quantum_entanglement_essence_visualization.md) - The essence of quantum entanglement in dualism and its relationship with observers
+- [Universe Structure Visualization](universe_structure_visualization.md) - Multi-level models of universe structure within the Quantum-Classical Dualism framework
+- [Observer Perception Visualization](observer_perception_visualization.md) - Perception mechanisms of observer interaction with universal information
+- [Quantum Consciousness Visualization](quantum_consciousness_visualization.md) - Graphical representations of the nature and formation mechanisms of consciousness in dualism
+- [Classicalization Process Visualization](classicalization_process_visualization.md) - Process models of quantum information transforming into classical information
+- [Destiny and Free Will Visualization](destiny_free_will_visualization.md) - Dialectical relationship between destiny and free will in the dualistic framework
+- [Quantum Entanglement Essence Visualization](quantum_entanglement_essence_visualization.md) - The essence of quantum entanglement in dualism and its relationship with observers
 - [Spiritual Dimensions Visualization](./spiritual_dimensions_visualization.md) - Scientific explanation of spiritual concepts in Quantum-Classical Dualism
 - [Mathematical Model Visualization](./mathematical_model_visualization.md) - Mathematical expressions of core theory and their graphical representations
 
@@ -106,7 +106,7 @@ This directory contains various visual representations and diagrams of the Unive
 
 ## 目录 | Contents
 
-- [核心概念可视化](./core_concepts.md) | [Core Concepts Visualization](./core_concepts.md)
+- [核心概念可视化](core_concepts.md) | [Core Concepts Visualization](core_concepts.md)
 
 ## 返回 | Return
 

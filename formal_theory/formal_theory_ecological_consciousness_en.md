@@ -2,10 +2,10 @@
 
 **English Version | [中文版](formal_theory_ecological_consciousness.md)**
 
-> This theory is based on [Core Theory](core_en.md) v30.0 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v30.0
+> This theory is based on [Core Theory](../core_en.md) v30.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v30.0
 
 ## Navigation Links
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
@@ -367,7 +367,7 @@ Quantum-Classical Ecological Consciousness Theory provides a revolutionary persp
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)

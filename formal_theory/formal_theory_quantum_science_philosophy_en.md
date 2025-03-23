@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_science_philosophy_en.md) | [中文版](formal_theory_quantum_science_philosophy.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v28.0
 
 ## Theory Core Overview
 
@@ -288,7 +288,7 @@ The following hypotheses proposed by Quantum Science Philosophy and Artificial I
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)
 - [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)

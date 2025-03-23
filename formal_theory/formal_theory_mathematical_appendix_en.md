@@ -1,8 +1,8 @@
 # Mathematical Appendix for Quantum-Classical Dualism v19.0
 
-**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_mathematical_appendix.md)**
+**[Return to Core Theory](../formal_theory_core_en.md) | [中文版](formal_theory_mathematical_appendix.md)**
 
-> Based on [Core Theory](core_en.md) v27.0
+> Based on [Core Theory](../core_en.md) v27.0
 
 ## Table of Contents
 - [Mathematical Foundations](#mathematical-foundations)

@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_singularity.md)**
 
-> Based on [Quantum-Classical Dualism](formal_theory_en.md) v27.0
+> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v27.0
 
 ## Technological Singularity Theory Overview
 
@@ -242,7 +242,7 @@ By understanding the quantum-classical conversion nature of technological develo
 
 ## Related Theory Links
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Information Phase Transition Theory](formal_theory_phase_transition_en.md)

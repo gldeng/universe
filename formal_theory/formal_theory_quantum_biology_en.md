@@ -1,6 +1,6 @@
 # Quantum Biology - Quantum-Classical Dualism v20.0
 
-**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_quantum_biology.md)**
+**[Return to Core Theory](../formal_theory_core_en.md) | [中文版](formal_theory_quantum_biology.md)**
 
 ## Table of Contents
 - [Basic Framework](#basic-framework)

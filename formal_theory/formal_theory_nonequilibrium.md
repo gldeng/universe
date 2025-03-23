@@ -1,8 +1,8 @@
 # 量子-经典非平衡态理论 v27.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_nonequilibrium_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_nonequilibrium_en.md)**
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 目录
 - [基本定义](#基本定义)
@@ -493,7 +493,7 @@ $$T_{eff}^{observed} = T_{eff}^{unobserved} \cdot (1 + \gamma \cdot \Gamma_{obse
 ---
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

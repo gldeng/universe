@@ -1,6 +1,6 @@
 # 量子生物学 - 量子经典二元论 v20.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_quantum_biology_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_quantum_biology_en.md)**
 
 ## 目录
 - [基本框架](#基本框架)

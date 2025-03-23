@@ -3,7 +3,7 @@
 **[English Version](formal_theory_medicine_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子医学应用 (本文件)](formal_theory_medicine.md)
 - [量子生物学](formal_theory_quantum_biology.md)
 - [量子意识理论](formal_theory_consciousness.md)
@@ -22,7 +22,7 @@
 - [未来发展方向](#未来发展方向)
 - [跨学科整合](#跨学科整合)
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 基本框架
 

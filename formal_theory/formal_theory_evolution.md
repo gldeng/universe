@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_evolution_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本，[量子经典二元论形式化表达](formal_theory.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v11.1版本，[量子经典二元论形式化表达](../formal_theory_core.md) v27.0版本
 
 ## 导航链接
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子生物学](formal_theory_quantum_biology.md)
 - [信息熵与生命](formal_theory_entropy_life.md)
 - [进化论二元视角 (本文件)](formal_theory_evolution.md)
@@ -308,7 +308,7 @@ $$\Delta F_{\text{总体}} = \Delta F_{\text{自然}} + \Delta F_{\text{意识}}
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子生物学](formal_theory_quantum_biology.md)
 - [信息熵与生命](formal_theory_entropy_life.md)
 - [进化论二元视角 (本文件)](formal_theory_evolution.md)

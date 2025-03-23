@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_topology.md)**
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Topological Information Protection Theory (This File)](formal_theory_topology_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
@@ -22,7 +22,7 @@
 - [Experimental Validation Approaches](#experimental-validation-approaches)
 - [Technological Application Prospects](#technological-application-prospects)
 
-> This theory is based on [Core Theory](core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v27.0
 
 ## Theoretical Foundation
 

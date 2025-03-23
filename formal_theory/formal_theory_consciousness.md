@@ -3,7 +3,7 @@
 **[English Version](formal_theory_consciousness_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论 (本文件)](formal_theory_consciousness.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [多尺度二元论](formal_theory_multiscale.md)
@@ -22,7 +22,7 @@
 - [实验验证途径](#实验验证途径)
 - [哲学与伦理学影响](#哲学与伦理学影响)
 
-> 本理论基于[核心理论](core.md) v14.0版本
+> 本理论基于[核心理论](../core.md) v14.0版本
 
 ## 理论基础
 

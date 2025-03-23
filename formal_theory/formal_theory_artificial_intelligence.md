@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_artificial_intelligence_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论形式化表达](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v28.0版本
 
 ## 理论核心概述
 
@@ -268,7 +268,7 @@ $$\mathcal{AI}_{collective} = \sum_i w_i \cdot \mathcal{AI}_i + \sum_{i,j} J_{ij
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子认知动力学](formal_theory_cognitive_dynamics.md)
 - [观察者理论](formal_theory_observer.md)
 - [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)

@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_evolution.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v27.0
 
 ## Navigation Links
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Biology](formal_theory_quantum_biology_en.md)
 - [Information Entropy and Life](formal_theory_entropy_life_en.md)
 - [Evolution from a Dualistic Perspective (This File)](formal_theory_evolution_en.md)
@@ -308,7 +308,7 @@ Future research directions include: in-depth study of quantum effects in biologi
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Biology](formal_theory_quantum_biology_en.md)
 - [Information Entropy and Life](formal_theory_entropy_life_en.md)
 - [Evolution from a Dualistic Perspective (This File)](formal_theory_evolution_en.md)

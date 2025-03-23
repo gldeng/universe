@@ -3,7 +3,7 @@
 **[English Version](formal_theory_observer_network_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -25,7 +25,7 @@
 - [实验验证方案](#实验验证方案)
 - [应用领域](#应用领域)
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 理论基础
 

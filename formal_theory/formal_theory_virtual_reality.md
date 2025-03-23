@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_virtual_reality_en.md) | 中文版**
 
-> 本文基于[量子经典二元论](formal_theory.md) v28.0版本
+> 本文基于[量子经典二元论](../formal_theory_core.md) v28.0版本
 
 ## 虚拟现实理论概述
 
@@ -365,7 +365,7 @@ $$C_{认同} = \sum_{i,j} |\langle I_i | I_j \rangle|^2$$
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [观察者理论](formal_theory_observer.md)
 - [多尺度二元论](formal_theory_multiscale.md)

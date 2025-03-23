@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_cosmology.md)**
 
-> Based on [Quantum-Classical Dualism](formal_theory_en.md) v27.0
+> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v27.0
 
 ## Cosmological Model Overview
 
@@ -237,7 +237,7 @@ More importantly, dualistic cosmology provides a more coherent epistemological f
 
 ## Related Theory Links
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Multiscale Dualism](formal_theory_multiscale_en.md)

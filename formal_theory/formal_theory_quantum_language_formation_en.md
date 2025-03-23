@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_quantum_language_formation.md)**
 
-> This theory is based on [Core Theory](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../formal_theory_core_en.md) v28.0
 
 ## Navigation
 
@@ -310,7 +310,7 @@ Philosophical significance and future outlook of quantum language formation theo
 
 ## References
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Language and Thought Dual Structure](formal_theory_language_thought_en.md)
 - [Linguistic Quantum Properties](formal_theory_quantum_linguistics_en.md)
 - [Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)

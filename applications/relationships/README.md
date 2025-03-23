@@ -15,8 +15,8 @@ This directory explores the applications of Universe Observer Theory in interper
 
 ## 目录 | Contents
 
-- [人际冲突](./interpersonal_conflicts.md) | [Interpersonal Conflicts](./interpersonal_conflicts.md)
-- [爱与吸引力](./love_attraction.md) | [Love and Attraction](./love_attraction.md)
+- [人际冲突](interpersonal_conflicts.md) | [Interpersonal Conflicts](interpersonal_conflicts.md)
+- [爱与吸引力](love_attraction.md) | [Love and Attraction](love_attraction.md)
 
 ## 返回 | Return
 

@@ -2,11 +2,11 @@
 
 **[中文版](formal_theory_consciousness_measurement.md) | [English Version](formal_theory_consciousness_measurement_en.md)**
 
-> 本理论基于[核心理论](core.md) v29.0版本和[量子经典二元论形式化表达](formal_theory.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v29.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v29.0版本
 
 ## 导航链接
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [观察者理论](formal_theory_observer.md)
@@ -256,7 +256,7 @@ $$\frac{d\mathcal{M}(\mathcal{C})}{dt} = \lambda \cdot \nabla^2 \mathcal{M}(\mat
 | 意识维度 | 多模态整合系统 | 综合各测量指标 | ±0.25 D |
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [观察者理论](formal_theory_observer.md)

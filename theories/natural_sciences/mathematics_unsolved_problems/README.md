@@ -73,8 +73,8 @@ $$
 ## 参考文献 | References
 
 1. Clay Mathematics Institute. (2000). Millennium Problems.
-2. 经典量子二元论核心理论 (版本29.0). [core.md](../../core.md)
-3. 形式化量子经典框架 (版本29.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
+2. 经典量子二元论核心理论 (版本29.0). [core.md](../../../core.md)
+3. 形式化量子经典框架 (版本29.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
 5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
 6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
@@ -138,8 +138,8 @@ In addition to the Millennium Prize problems, there are many other famous unsolv
 ## References
 
 1. Clay Mathematics Institute. (2000). Millennium Problems.
-2. Quantum-Classical Dualism Core Theory (Version 29.0). [core_en.md](../../core_en.md)
-3. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
+2. Quantum-Classical Dualism Core Theory (Version 29.0). [core_en.md](../../../core_en.md)
+3. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
 5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
 6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints. 

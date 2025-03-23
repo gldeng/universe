@@ -15,7 +15,7 @@ This directory explores the mathematical applications and foundations of the Uni
 
 ## 目录 | Contents
 
-- [数学桥梁](./mathematical_bridges.md) | [Mathematical Bridges](./mathematical_bridges.md)
+- [数学桥梁](mathematical_bridges.md) | [Mathematical Bridges](mathematical_bridges.md)
 
 ## 返回 | Return
 

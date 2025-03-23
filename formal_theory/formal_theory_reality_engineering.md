@@ -2,11 +2,11 @@
 
 **[中文版](formal_theory_reality_engineering.md) | [English Version](formal_theory_reality_engineering_en.md)**
 
-> 本理论基于[核心理论](core.md) v29.0版本和[量子经典二元论形式化表达](formal_theory.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v29.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v29.0版本
 
 ## 导航链接
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -361,7 +361,7 @@ $$\text{RE-power}(\mathcal{N}) > \sum_i \text{RE-power}(\mathcal{O}_i)$$
 | 多层级 | 现实仿真 | 创建可替代现实 | 教育培训，娱乐体验 |
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

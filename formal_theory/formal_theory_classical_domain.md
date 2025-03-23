@@ -1,8 +1,8 @@
 # 经典域详解 - 量子经典二元论 v19.1
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_classical_domain_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_classical_domain_en.md)**
 
-> 本文档基于[核心理论](core.md) v27.0版本
+> 本文档基于[核心理论](../core.md) v27.0版本
 
 ## 本文内部导航
 - [经典域基本定义](#经典域基本定义)

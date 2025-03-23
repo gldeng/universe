@@ -2,10 +2,10 @@
 
 **English Version | [中文版](formal_theory_quantum_economics.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0 and [Quantum-Classical Dualism](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0 and [Quantum-Classical Dualism](../formal_theory_core_en.md) v28.0
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 - [Quantum Economics Principles (This File)](formal_theory_quantum_economics_en.md)
 - [Quantum-Classical Non-equilibrium Theory](formal_theory_nonequilibrium_en.md)
@@ -273,7 +273,7 @@ Future research directions include:
 - Exploring applications of quantum computing in economic modeling
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 - [Quantum Economics Principles (This File)](formal_theory_quantum_economics_en.md)
 - [Quantum-Classical Non-equilibrium Theory](formal_theory_nonequilibrium_en.md)

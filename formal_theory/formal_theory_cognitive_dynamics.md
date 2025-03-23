@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_cognitive_dynamics_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v13.0版本和[量子经典二元论](formal_theory.md) v24.0版本
+> 本理论基于[核心理论](../core.md) v13.0版本和[量子经典二元论](../formal_theory_core.md) v24.0版本
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [观察者理论](formal_theory_observer.md)

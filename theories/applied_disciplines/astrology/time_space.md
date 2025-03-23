@@ -3,7 +3,7 @@
 **导航链接：**
 - [中文版](#占星学中时间与空间概念的量子经典二元理解-1)
 - [English Version](#quantum-classical-dualism-understanding-of-time-and-space-concepts-in-astrology)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 占星学中时间与空间概念的量子经典二元理解
 

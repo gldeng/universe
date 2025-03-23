@@ -2,11 +2,11 @@
 
 **[中文版](formal_theory_consciousness_measurement.md) | English Version**
 
-> This theory is based on [Core Theory](core_en.md) v29.0 and [Formal Expression of Quantum-Classical Dualism](formal_theory_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v29.0 and [Formal Expression of Quantum-Classical Dualism](../formal_theory_core_en.md) v29.0
 
 ## Navigation Links
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
@@ -256,7 +256,7 @@ Where $\mathcal{J}(\mathcal{C})$ is the consciousness information flow.
 | Consciousness Dimension | Multi-modal Integration System | Comprehensive Measurement Indicators | ±0.25 D |
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Observer Theory](formal_theory_observer_en.md)

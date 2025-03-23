@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_semiotics_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论](../formal_theory_core.md) v28.0版本
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [语言与思维二元结构](formal_theory_language_thought.md)
@@ -270,7 +270,7 @@ $$|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)$$
 二元论符号学理论通过引入量子经典二元论的框架，为符号学研究提供了一个全新的理论基础。这一框架不仅统一了符号学中的多种理论视角，还揭示了符号系统作为量子-经典混合系统的独特特性。符号的量子特性解释了意义的多重可能性、语境依赖性和创造性，而符号的经典特性则保证了沟通的有效性和文化的稳定传承。通过探索符号系统中的量子-经典界面动力学，我们能更深入理解符号如何同时具有确定性和开放性，从而更有效地应用于各种符号设计和符号分析实践中。
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [语言与思维二元结构](formal_theory_language_thought.md)

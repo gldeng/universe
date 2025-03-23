@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_consciousness_virtual_reality.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v28.0
 
 ## Table of Contents
 

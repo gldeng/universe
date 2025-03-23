@@ -2,10 +2,10 @@
 
 **English Version | [中文版](formal_theory_cosmic_intelligence.md)**
 
-> This theory is based on [Core Theory](core_en.md) v29.0 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v29.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v29.0
 
 ## Navigation Links
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Cosmological Dualism Model](formal_theory_cosmology_en.md)
@@ -291,7 +291,7 @@ The universe is not merely a collection of matter and energy but a self-organizi
 10. Chalmers, D. (1995). Facing up to the problem of consciousness.
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Cosmological Dualism Model](formal_theory_cosmology_en.md)

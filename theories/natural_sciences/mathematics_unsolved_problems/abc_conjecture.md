@@ -145,8 +145,8 @@ $$
 
 ## 参考文献 | References
 
-1. 经典量子二元论核心理论 (版本29.0). [core.md](../../core.md)
-2. 形式化量子经典框架 (版本29.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
+1. 经典量子二元论核心理论 (版本29.0). [core.md](../../../core.md)
+2. 形式化量子经典框架 (版本29.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 3. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
 4. Taylor, R., & Wiles, A. (1995). Ring-theoretic properties of certain Hecke algebras. Annals of Mathematics, 141(3), 553-572.
 5. Oesterlé, J. (1988). Nouvelles approches du "théorème" de Fermat. Séminaire Bourbaki, 694, 165-186.
@@ -289,8 +289,8 @@ These conditions have been verified through the fusion of modern number theory a
 
 ## References
 
-1. Quantum-Classical Dualism Core Theory (Version 29.0). [core_en.md](../../core_en.md)
-2. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
+1. Quantum-Classical Dualism Core Theory (Version 29.0). [core_en.md](../../../core_en.md)
+2. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 3. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
 4. Taylor, R., & Wiles, A. (1995). Ring-theoretic properties of certain Hecke algebras. Annals of Mathematics, 141(3), 553-572.
 5. Oesterlé, J. (1988). Nouvelles approches du "théorème" de Fermat. Séminaire Bourbaki, 694, 165-186.

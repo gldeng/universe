@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_social_networks_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v27.0版本和[量子经典二元论形式化表达](formal_theory.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v27.0版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子社交网络理论 (本文件)](formal_theory_social_networks.md)
 - [量子域详解](formal_theory_quantum_domain.md)
@@ -263,7 +263,7 @@ $$V(x) = -V_0 \delta(x) + \frac{1}{2}m\omega^2 x^2$$
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子社交网络理论 (本文件)](formal_theory_social_networks.md)
 - [量子域详解](formal_theory_quantum_domain.md)

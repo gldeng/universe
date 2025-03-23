@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_self_organization_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [量子自组织理论（本文件）](formal_theory_self_organization.md)
@@ -205,7 +205,7 @@ $$E_c = \frac{hc}{\lambda_c} = \hbar \omega_c$$
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [量子自组织理论（本文件）](formal_theory_self_organization.md)

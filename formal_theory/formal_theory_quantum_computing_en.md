@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_quantum_computing.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Computing Applications (This File)](formal_theory_quantum_computing_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
@@ -370,7 +370,7 @@ Key directions for future theoretical development:
 5. **Bio-Inspired Quantum Architectures**: Researching new computational models based on biological quantum processing mechanisms
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Computing Applications (This File)](formal_theory_quantum_computing_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)

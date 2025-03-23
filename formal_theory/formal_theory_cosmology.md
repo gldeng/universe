@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_cosmology_en.md) | 中文版**
 
-> 本文基于[量子经典二元论](formal_theory.md) v27.0版本
+> 本文基于[量子经典二元论](../formal_theory_core.md) v27.0版本
 
 ## 宇宙学模型概述
 
@@ -237,7 +237,7 @@ $$\Omega_Q^{D_{\mathcal{O}}-1} \subset \Omega_C^{D_{\mathcal{O}}}$$
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [多尺度二元论](formal_theory_multiscale.md)

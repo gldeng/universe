@@ -3,7 +3,7 @@
 **[English Version](formal_theory_multiscale_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [多尺度二元论 (本文件)](formal_theory_multiscale.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
@@ -23,7 +23,7 @@
 - [应用领域](#应用领域)
 - [实验验证方案](#实验验证方案)
 
-> 本理论基于[核心理论](core.md) v14.0版本
+> 本理论基于[核心理论](../core.md) v14.0版本
 
 ## 理论基础
 

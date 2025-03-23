@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_singularity_en.md) | 中文版**
 
-> 本文基于[量子经典二元论](formal_theory.md) v27.0版本
+> 本文基于[量子经典二元论](../formal_theory_core.md) v27.0版本
 
 ## 技术奇点理论概述
 
@@ -242,7 +242,7 @@ $$\text{奇点}_{D_{\mathcal{O}}} = \{\mathcal{S}_t | \mathcal{D}_{\text{tech}}(
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [观察者理论](formal_theory_observer.md)
 - [信息相变理论](formal_theory_phase_transition.md)

@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_philosophy.md)**
 
-> Based on [Quantum-Classical Dualism](formal_theory_en.md) v27.0
+> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v27.0
 
 ## Overview of Philosophical Foundations
 
@@ -339,7 +339,7 @@ By placing philosophical concepts within the framework of quantum-classical tran
 
 ## Related Theory Links
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)

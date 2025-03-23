@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_meditation.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v27.0
 
 ## Navigation Links
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md) 
 - [Observer Theory](formal_theory_observer_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
@@ -287,7 +287,7 @@ Introspective Meditation Science reveals from a quantum-classical dualism perspe
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md) 
 - [Observer Theory](formal_theory_observer_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)

@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_molecular_entanglement.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v28.0
 
 ## Navigation Links
 - [Core Theory Overview](#core-theory-overview)
@@ -363,7 +363,7 @@ $$\frac{dF_{fitness}}{dt} \propto \frac{d\mathcal{E}_{collective}}{dt}$$
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Quantum-Classical Chemistry Principles](formal_theory_quantum_chemistry_en.md)

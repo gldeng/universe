@@ -1,27 +1,27 @@
 # Quantum-Classical Dualism Formal Theory Terminology Glossary v27.0
 
-**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_terminology.md)**
+**[Return to Core Theory](../formal_theory_core_en.md) | [中文版](formal_theory_terminology.md)**
 
-> This terminology glossary is based on [Core Theory](core_en.md) v27.0
+> This terminology glossary is based on [Core Theory](../core_en.md) v27.0
 
 ## Core Concept Terminology
 
 | Term(English) | 术语(中文) | Symbol | Definition | Related Theory Files |
 |---------------|------------|--------|------------|----------------------|
-| Quantum Domain | 量子域 | $\Omega_Q$ | Space of infinite possibilities, containing wave function superposition states and quantum entanglement states | [core_en.md](core_en.md), [formal_theory_en.md](formal_theory_en.md) |
-| Classical Domain | 经典域 | $\Omega_C$ | Space of determined reality, containing classical knowledge and classical entropy | [core_en.md](core_en.md), [formal_theory_en.md](formal_theory_en.md) |
+| Quantum Domain | 量子域 | $\Omega_Q$ | Space of infinite possibilities, containing wave function superposition states and quantum entanglement states | [core_en.md](../core_en.md), [formal_theory_en.md](../formal_theory_core_en.md) |
+| Classical Domain | 经典域 | $\Omega_C$ | Space of determined reality, containing classical knowledge and classical entropy | [core_en.md](../core_en.md), [formal_theory_en.md](../formal_theory_core_en.md) |
 | Interface Domain | 界面域 | $\mathcal{I}$ | Intersection of quantum and classical domains, boundary where quantum-classical conversion occurs | [formal_theory_interface_en.md](formal_theory_interface_en.md) |
-| Classicalization | 经典化 | $\mathcal{C}$ | Quantum→classical conversion process, transforming quantum possibilities into classical determinism | [formal_theory_en.md](formal_theory_en.md) |
-| Quantization | 量子化 | $\mathcal{Q}$ | Classical→quantum conversion process, transforming classical determinism into quantum possibilities | [formal_theory_en.md](formal_theory_en.md) |
+| Classicalization | 经典化 | $\mathcal{C}$ | Quantum→classical conversion process, transforming quantum possibilities into classical determinism | [formal_theory_en.md](../formal_theory_core_en.md) |
+| Quantization | 量子化 | $\mathcal{Q}$ | Classical→quantum conversion process, transforming classical determinism into quantum possibilities | [formal_theory_en.md](../formal_theory_core_en.md) |
 | Observer | 观察者 | $\mathcal{O}$ | Node executing quantum→classical conversion, consisting of classicalization operator, quantization operator, and classical knowledge base | [formal_theory_observer_en.md](formal_theory_observer_en.md) |
-| Observer Dimension | 观察者维度 | $D_{\mathcal{O}}$ | Information processing capability of an observer, determined by the ratio of classical knowledge to classical entropy | [core_en.md](core_en.md), [formal_theory_observer_en.md](formal_theory_observer_en.md) |
+| Observer Dimension | 观察者维度 | $D_{\mathcal{O}}$ | Information processing capability of an observer, determined by the ratio of classical knowledge to classical entropy | [core_en.md](../core_en.md), [formal_theory_observer_en.md](formal_theory_observer_en.md) |
 | Nonequilibrium Degree | 非平衡度 | $D_{NEQ}$ | Degree to which a system is far from equilibrium, determined by state change rate | [formal_theory_nonequilibrium_en.md](formal_theory_nonequilibrium_en.md) |
 | Computational Complexity | 计算复杂度 | $\mathcal{K}(\Psi)$ | Measure of resources required for computation, including quantum, classical, and conversion complexity | [formal_theory_computation_en.md](formal_theory_computation_en.md) |
-| Quantum Entanglement | 量子纠缠 | $E(|\psi_{AB}\rangle)$ | Non-local correlation between quantum systems that cannot be fully described by local states | [core_en.md](core_en.md), [formal_theory_quantum_domain_en.md](formal_theory_quantum_domain_en.md) |
-| Classical Knowledge | 经典知识 | $K_C$ | Determined information structure in the classical domain, obtained by observers through classicalization | [core_en.md](core_en.md), [formal_theory_classical_domain_en.md](formal_theory_classical_domain_en.md) |
-| Classical Entropy | 经典熵 | $S_C$ | Measure of uncertainty in the classical domain, characterizing system disorder | [core_en.md](core_en.md), [formal_theory_classical_domain_en.md](formal_theory_classical_domain_en.md) |
+| Quantum Entanglement | 量子纠缠 | $E(|\psi_{AB}\rangle)$ | Non-local correlation between quantum systems that cannot be fully described by local states | [core_en.md](../core_en.md), [formal_theory_quantum_domain_en.md](formal_theory_quantum_domain_en.md) |
+| Classical Knowledge | 经典知识 | $K_C$ | Determined information structure in the classical domain, obtained by observers through classicalization | [core_en.md](../core_en.md), [formal_theory_classical_domain_en.md](formal_theory_classical_domain_en.md) |
+| Classical Entropy | 经典熵 | $S_C$ | Measure of uncertainty in the classical domain, characterizing system disorder | [core_en.md](../core_en.md), [formal_theory_classical_domain_en.md](formal_theory_classical_domain_en.md) |
 | Interface Thickness | 界面厚度 | $\delta_{\mathcal{I}}$ | Spatial range of quantum-classical conversion process | [formal_theory_interface_en.md](formal_theory_interface_en.md) |
-| Classicalization Efficiency | 经典化效率 | $\eta_C$ | Efficiency of converting quantum information into classical knowledge | [core_en.md](core_en.md), [formal_theory_interface_en.md](formal_theory_interface_en.md) |
+| Classicalization Efficiency | 经典化效率 | $\eta_C$ | Efficiency of converting quantum information into classical knowledge | [core_en.md](../core_en.md), [formal_theory_interface_en.md](formal_theory_interface_en.md) |
 | Creativity Measure | 创造性度量 | $\mathcal{CR}(\Psi)$ | Difference between output information and derivable information in a computational system | [formal_theory_computation_en.md](formal_theory_computation_en.md) |
 
 ## Mathematical Symbol Conventions
@@ -129,8 +129,8 @@
 
 This terminology glossary references the following documents and materials:
 
-1. Core Theory Document [core_en.md](core_en.md) v27.0
-2. Formal Expression Document [formal_theory_en.md](formal_theory_en.md) v27.0
+1. Core Theory Document [core_en.md](../core_en.md) v27.0
+2. Formal Expression Document [formal_theory_en.md](../formal_theory_core_en.md) v27.0
 3. Quantum Domain Details [formal_theory_quantum_domain_en.md](formal_theory_quantum_domain_en.md) v19.0
 4. Classical Domain Details [formal_theory_classical_domain_en.md](formal_theory_classical_domain_en.md) v19.1
 5. Interface Theory [formal_theory_interface_en.md](formal_theory_interface_en.md) v19.0
@@ -139,7 +139,7 @@ This terminology glossary references the following documents and materials:
 8. Computational Complexity Theory [formal_theory_computation_en.md](formal_theory_computation_en.md) v27.0
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)

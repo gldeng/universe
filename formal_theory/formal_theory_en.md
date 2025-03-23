@@ -1,6 +1,6 @@
 # Quantum-Classical Dualism Formal Theory v30.0
 
-**English Version | [中文版](formal_theory.md)**
+**English Version | [中文版](../formal_theory_core.md)**
 
 > This theory is based on [Core Theory](../core_en.md) v30.0
 

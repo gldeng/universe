@@ -3,7 +3,7 @@
 **[English Version](formal_theory_topology_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [拓扑信息保护理论 (本文件)](formal_theory_topology.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
@@ -22,7 +22,7 @@
 - [实验验证方案](#实验验证方案)
 - [技术应用前景](#技术应用前景)
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 理论基础
 

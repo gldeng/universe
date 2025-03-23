@@ -173,8 +173,8 @@ $$
 ## 参考文献 | References
 
 1. Goldbach, C. (1742). Letter to Euler.
-2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
+2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../../core_en.md)
+3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 4. Hardy, G. H., & Littlewood, J. E. (1923). Some problems of 'Partitio Numerorum': III. On the expression of a number as a sum of primes. Acta Mathematica, 44, 1-70.
 5. Helfgott, H. A. (2013). The ternary Goldbach conjecture is true. arXiv preprint arXiv:1312.7748.
 6. Richstein, J. (2001). Verifying the Goldbach conjecture up to 4×10¹⁴. Mathematics of Computation, 70(236), 1745-1749.
@@ -341,8 +341,8 @@ Quantum-Classical Dualism provides a unified theoretical framework for mathemati
 ## References
 
 1. Goldbach, C. (1742). Letter to Euler.
-2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
+2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../../core_en.md)
+3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 4. Hardy, G. H., & Littlewood, J. E. (1923). Some problems of 'Partitio Numerorum': III. On the expression of a number as a sum of primes. Acta Mathematica, 44, 1-70.
 5. Helfgott, H. A. (2013). The ternary Goldbach conjecture is true. arXiv preprint arXiv:1312.7748.
 6. Richstein, J. (2001). Verifying the Goldbach conjecture up to 4×10¹⁴. Mathematics of Computation, 70(236), 1745-1749. 

@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_healing_en.md) | 中文版**
 
-> 本理论基于[核心理论](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../formal_theory_core.md) v28.0版本
 
 ## 导航
 
@@ -230,7 +230,7 @@
 
 ## 参考文献
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [量子生物学](formal_theory_quantum_biology.md)
 - [量子医学应用](formal_theory_medicine.md)
 - [量子意识理论](formal_theory_consciousness.md)

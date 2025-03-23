@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_science_philosophy_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论形式化表达](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v28.0版本
 
 ## 理论核心概述
 
@@ -288,7 +288,7 @@ $$\mathcal{S}_{科学} = \{\mathcal{C}_{共识}, \mathcal{N}_{科学家}, \mathc
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子认知动力学](formal_theory_cognitive_dynamics.md)
 - [量子决策理论](formal_theory_quantum_decision.md)
 - [量子社会动力学](formal_theory_social.md)

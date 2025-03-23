@@ -3,14 +3,14 @@
 **English Version | [中文版](formal_theory_phase_transition.md)**
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
 - [Quantum-Classical Resonance Theory](formal_theory_resonance_en.md)
 - [Information Phase Transition Theory (This File)](formal_theory_phase_transition_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
-- [All Documents...](formal_theory_en.md)
+- [All Documents...](../formal_theory_core_en.md)
 
 ## Internal Navigation
 - [Theoretical Foundation](#theoretical-foundation)
@@ -20,7 +20,7 @@
 - [Experimental Validation and Predictions](#experimental-validation-and-predictions)
 - [Applications and Implications](#applications-and-implications)
 
-> This theory is based on [Core Theory](core_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0
 
 ## Theoretical Foundation
 

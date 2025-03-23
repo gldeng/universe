@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_cross_cultural_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [二元论哲学基础](formal_theory_philosophy.md)
 - [跨文化哲学整合 (本文件)](formal_theory_cross_cultural.md)
 - [量子意识理论](formal_theory_consciousness.md)
@@ -337,7 +337,7 @@ $$B = \int_{\Omega_Q \times \Omega_C} \rho_Q(x) \cdot \rho_C(y) \cdot R(x,y) dxd
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [二元论哲学基础](formal_theory_philosophy.md)
 - [跨文化哲学整合 (本文件)](formal_theory_cross_cultural.md)
 - [量子意识理论](formal_theory_consciousness.md)

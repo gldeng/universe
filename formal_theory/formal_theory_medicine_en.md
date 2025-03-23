@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_medicine.md)**
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Medicine Applications (This File)](formal_theory_medicine_en.md)
 - [Quantum Biology](formal_theory_quantum_biology_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
@@ -22,7 +22,7 @@
 - [Future Development Directions](#future-development-directions)
 - [Cross-disciplinary Integration](#cross-disciplinary-integration)
 
-> This theory is based on [Core Theory](core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v27.0
 
 ## Basic Framework
 

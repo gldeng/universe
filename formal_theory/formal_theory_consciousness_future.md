@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_consciousness_future_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论](formal_theory_consciousness.md)
 - [高维观察者网络](formal_theory_observer_network.md)
 - [人类意识未来发展 (本文件)](formal_theory_consciousness_future.md)
@@ -295,7 +295,7 @@ $$A(t) = A_0 \cdot (1 + \alpha t)^{\beta} \cdot (1 - e^{-\gamma t})$$
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论](formal_theory_consciousness.md)
 - [高维观察者网络](formal_theory_observer_network.md)
 - [人类意识未来发展 (本文件)](formal_theory_consciousness_future.md)

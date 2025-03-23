@@ -3,7 +3,7 @@
 **导航链接：**
 - [中文版](#从量子经典二元论视角对占星学的批判修正与补充)
 - [English Version](#critique-corrections-and-supplements-to-astrology-from-quantum-classical-dualism-perspective)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 从量子经典二元论视角对占星学的批判、修正与补充
 

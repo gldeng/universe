@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_tech_ethics_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v30.0版本和[量子经典二元论形式化表达](formal_theory.md) v30.0版本
+> 本理论基于[核心理论](../core.md) v30.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v30.0版本
 
 ## 导航链接
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论](formal_theory_consciousness.md)
 - [量子-经典伦理学](formal_theory_ethics.md)
 - [量子技术伦理理论](formal_theory_quantum_ethics.md)
@@ -601,7 +601,7 @@ $$Resp(A, T, t) = \int_{\Omega_Q} P(s) \cdot R(A, T, s, t) ds + \sum_{i} w_i \cd
 10. O'Neil, C. (2016). Weapons of math destruction. Broadway Books.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论](formal_theory_consciousness.md)
 - [量子-经典伦理学](formal_theory_ethics.md)
 - [量子技术伦理理论](formal_theory_quantum_ethics.md)

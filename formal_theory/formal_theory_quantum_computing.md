@@ -4,7 +4,7 @@
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子计算应用 (本文件)](formal_theory_quantum_computing.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
@@ -368,7 +368,7 @@ $$V = \sum_i w_i \cdot \frac{S_i \cdot (D_{\mathcal{O}_i} - D_{\text{经典}_i})
 5. **生物启发量子架构**：研究基于生物量子处理机制的新型计算模型
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子计算应用 (本文件)](formal_theory_quantum_computing.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)

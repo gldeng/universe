@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_hierarchical_spacetime_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v13.0版本和[量子经典二元论](formal_theory.md) v24.0版本
+> 本理论基于[核心理论](../core.md) v13.0版本和[量子经典二元论](../formal_theory_core.md) v24.0版本
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [时间非对称性理论](formal_theory_temporal_asymmetry.md)
 - [分层时空理论 (本文件)](formal_theory_hierarchical_spacetime.md)

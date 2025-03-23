@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_cross_cultural.md)**
 
-> Based on [Core Theory](core_en.md) v11.1
+> Based on [Core Theory](../core_en.md) v11.1
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Philosophical Foundations of Dualism](formal_theory_philosophy_en.md)
 - [Cross-Cultural Philosophical Integration (This File)](formal_theory_cross_cultural_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
@@ -337,7 +337,7 @@ Quantum-classical dualism is not only a theory but also a practical methodology,
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Philosophical Foundations of Dualism](formal_theory_philosophy_en.md)
 - [Cross-Cultural Philosophical Integration (This File)](formal_theory_cross_cultural_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)

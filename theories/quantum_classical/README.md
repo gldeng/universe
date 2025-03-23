@@ -35,9 +35,9 @@ $$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text
 
 ## 目录 | Contents
 
-- [经典意识](./classical_consciousness.md) | [Classical Consciousness](./classical_consciousness.md)
-- [量子观察者](./quantum_observer.md) | [Quantum Observer](./quantum_observer.md)
-- [量子宇宙](./quantum_universe.md) | [Quantum Universe](./quantum_universe.md)
+- [经典意识](classical_consciousness.md) | [Classical Consciousness](classical_consciousness.md)
+- [量子观察者](quantum_observer.md) | [Quantum Observer](quantum_observer.md)
+- [量子宇宙](quantum_universe.md) | [Quantum Universe](quantum_universe.md)
 
 ## 理论组成部分 | Theory Components
 

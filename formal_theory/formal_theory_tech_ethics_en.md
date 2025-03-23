@@ -2,10 +2,10 @@
 
 **English Version | [中文版](formal_theory_tech_ethics.md)**
 
-> This theory is based on [Core Theory](core_en.md) v30.0 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v30.0
+> This theory is based on [Core Theory](../core_en.md) v30.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v30.0
 
 ## Navigation Links
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
 - [Quantum-Classical Ethics](formal_theory_ethics_en.md)
 - [Quantum Technology Ethics Theory](formal_theory_quantum_ethics_en.md)
@@ -473,7 +473,7 @@ Through Quantum-Classical Technology Ethics Theory, we hope to create a future t
 10. O'Neil, C. (2016). Weapons of math destruction. Broadway Books.
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
 - [Quantum-Classical Ethics](formal_theory_ethics_en.md)
 - [Quantum Technology Ethics Theory](formal_theory_quantum_ethics_en.md)

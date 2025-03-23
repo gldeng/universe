@@ -3,7 +3,7 @@
 **导航链接：**
 - [中文版](#占星盘与预测机制的量子经典二元数学模型-1)
 - [English Version](#quantum-classical-dualism-mathematical-models-of-birth-charts-and-prediction-mechanisms)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 占星盘与预测机制的量子经典二元数学模型
 

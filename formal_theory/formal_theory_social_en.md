@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_social.md)**
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Social Dynamics (This File)](formal_theory_social_en.md)
 - [Multiscale Dualism](formal_theory_multiscale_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
@@ -22,7 +22,7 @@
 - [Social Experiments and Validation Methods](#social-experiments-and-validation-methods)
 - [Applications and Social Impact](#applications-and-social-impact)
 
-> This theory is based on [Core Theory](core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v27.0
 
 ## Theoretical Foundations
 

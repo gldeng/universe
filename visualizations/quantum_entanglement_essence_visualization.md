@@ -643,6 +643,6 @@ Visualized as an entanglement spacetime network:
 
 ## 相关链接 | Related Links
 
-- [返回可视化目录 | Return to Visualizations](./README.md)
-- [宇宙结构可视化 | Universe Structure Visualization](./universe_structure_visualization.md)
-- [命运与自由意志可视化 | Destiny and Free Will Visualization](./destiny_free_will_visualization.md) 
+- [返回可视化目录 | Return to Visualizations](README.md)
+- [宇宙结构可视化 | Universe Structure Visualization](universe_structure_visualization.md)
+- [命运与自由意志可视化 | Destiny and Free Will Visualization](destiny_free_will_visualization.md) 

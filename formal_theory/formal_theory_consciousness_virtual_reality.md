@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_consciousness_virtual_reality_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论形式化表达](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v28.0版本
 
 ## 目录
 

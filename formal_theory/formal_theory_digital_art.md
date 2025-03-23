@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_digital_art_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v29.0版本和[量子经典二元论形式化表达](formal_theory.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v29.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v29.0版本
 
 ## 导航链接
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子-经典美学理论](formal_theory_aesthetics.md)
 - [二元论艺术理论](formal_theory_art.md)
 - [量子-经典设计理论](formal_theory_design.md)
@@ -528,7 +528,7 @@ VR艺术《Carne y Arena》的量子-经典分析：
 10. Tribe, M., & Jana, R. (2006). New media art. Taschen.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子-经典美学理论](formal_theory_aesthetics.md)
 - [二元论艺术理论](formal_theory_art.md)
 - [量子-经典设计理论](formal_theory_design.md)

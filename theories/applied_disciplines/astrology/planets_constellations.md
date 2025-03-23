@@ -3,7 +3,7 @@
 **导航链接：**
 - [中文版](#行星与星座的量子经典二元特性分析-1)
 - [English Version](#quantum-classical-dualism-analysis-of-planets-and-constellations)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 行星与星座的量子经典二元特性分析
 

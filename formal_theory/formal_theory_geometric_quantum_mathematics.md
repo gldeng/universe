@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_geometric_quantum_mathematics_en.md) | 中文版**
 
-> 基于[核心理论](core.md) v29.0版本和[形式化理论](formal_theory.md) v29.0版本
+> 基于[核心理论](../core.md) v29.0版本和[形式化理论](../formal_theory_core.md) v29.0版本
 
 ## 目录
 

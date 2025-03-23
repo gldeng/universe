@@ -2,10 +2,10 @@
 
 **English Version | [中文版](formal_theory_semiotics.md)**
 
-> This theory is based on [Core Theory](core_en.md) v28.0 and [Quantum-Classical Dualism](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v28.0 and [Quantum-Classical Dualism](../formal_theory_core_en.md) v28.0
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Language and Thought Dual Structure](formal_theory_language_thought_en.md)
@@ -270,7 +270,7 @@ Quantum-Classical Semiotics provides a new framework for communication research:
 Quantum-Classical Semiotic Theory provides a novel theoretical foundation for semiotic research by introducing the framework of quantum-classical dualism. This framework not only unifies multiple theoretical perspectives in semiotics but also reveals the unique characteristics of sign systems as quantum-classical hybrid systems. The quantum properties of signs explain the multiplicity of possible meanings, context dependence, and creativity, while the classical properties ensure the effectiveness of communication and the stable transmission of culture. By exploring the quantum-classical interface dynamics in sign systems, we can gain a deeper understanding of how signs simultaneously possess determinacy and openness, thereby more effectively applying them to various sign design and sign analysis practices.
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Language and Thought Dual Structure](formal_theory_language_thought_en.md)

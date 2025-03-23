@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_consciousness.md)**
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory (This File)](formal_theory_consciousness_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Multiscale Dualism](formal_theory_multiscale_en.md)
@@ -22,7 +22,7 @@
 - [Experimental Validation Approaches](#experimental-validation-approaches)
 - [Philosophical and Ethical Implications](#philosophical-and-ethical-implications)
 
-> This theory is based on [Core Theory](core.md) v14.0
+> This theory is based on [Core Theory](../core.md) v14.0
 
 ## Theoretical Foundation
 

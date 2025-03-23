@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_quantum_healing.md)**
 
-> This theory is based on [Core Theory](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../formal_theory_core_en.md) v28.0
 
 ## Navigation
 
@@ -230,7 +230,7 @@ Ethical issues raised by Quantum Information Healing Theory:
 
 ## References
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Quantum Biology](formal_theory_quantum_biology_en.md)
 - [Quantum Medicine Applications](formal_theory_medicine_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)

@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_interface_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 导航
 
-- [核心理论 v27.0](formal_theory.md)
+- [核心理论 v27.0](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md) (当前文档)
@@ -289,7 +289,7 @@ $$C_{\text{生物}} \propto \int_{\mathcal{I}_{\text{生物}}} |\nabla \mathcal{
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

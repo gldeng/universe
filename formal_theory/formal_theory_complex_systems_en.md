@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_complex_systems.md)**
 
-> Based on [Core Theory](core_en.md) v27.0
+> Based on [Core Theory](../core_en.md) v27.0
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Complex Systems Dualistic Analysis (This File)](formal_theory_complex_systems_en.md)
@@ -267,7 +267,7 @@ From a philosophical perspective, this theory transcends the opposition between 
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Complex Systems Dualistic Analysis (This File)](formal_theory_complex_systems_en.md)

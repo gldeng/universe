@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_geometric_quantum_mathematics.md)**
 
-> Based on [Core Theory](core_en.md) v29.0 and [Formal Theory](formal_theory_en.md) v29.0
+> Based on [Core Theory](../core_en.md) v29.0 and [Formal Theory](../formal_theory_core_en.md) v29.0
 
 ## Table of Contents
 

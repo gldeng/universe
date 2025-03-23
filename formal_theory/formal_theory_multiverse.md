@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_multiverse_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v27.0版本和[量子经典二元论形式化表达](formal_theory.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v27.0版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [多宇宙干涉模型 (本文件)](formal_theory_multiverse.md)
@@ -347,7 +347,7 @@ $$P(\text{灭绝}) = \prod_i P_i(\text{灭绝})$$
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [多宇宙干涉模型 (本文件)](formal_theory_multiverse.md)

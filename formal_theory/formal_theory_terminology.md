@@ -1,27 +1,27 @@
 # 量子经典二元论形式化理论术语表 v27.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_terminology_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_terminology_en.md)**
 
-> 本术语表基于[核心理论](core.md) v27.0版本
+> 本术语表基于[核心理论](../core.md) v27.0版本
 
 ## 核心概念术语
 
 | 术语(中文) | Term(English) | 符号表示 | 定义 | 相关理论文件 |
 |------------|---------------|----------|------|--------------|
-| 量子域 | Quantum Domain | $\Omega_Q$ | 无限可能性的空间，包含波函数叠加态和量子纠缠态 | [core.md](core.md), [formal_theory.md](formal_theory.md) |
-| 经典域 | Classical Domain | $\Omega_C$ | 确定现实的空间，包含经典知识和经典熵 | [core.md](core.md), [formal_theory.md](formal_theory.md) |
+| 量子域 | Quantum Domain | $\Omega_Q$ | 无限可能性的空间，包含波函数叠加态和量子纠缠态 | [core.md](../core.md), [formal_theory.md](../formal_theory_core.md) |
+| 经典域 | Classical Domain | $\Omega_C$ | 确定现实的空间，包含经典知识和经典熵 | [core.md](../core.md), [formal_theory.md](../formal_theory_core.md) |
 | 界面域 | Interface Domain | $\mathcal{I}$ | 量子域与经典域的交集，量子-经典转换发生的边界 | [formal_theory_interface.md](formal_theory_interface.md) |
-| 经典化 | Classicalization | $\mathcal{C}$ | 量子→经典转换过程，将量子可能性转化为经典确定性 | [formal_theory.md](formal_theory.md) |
-| 量子化 | Quantization | $\mathcal{Q}$ | 经典→量子转换过程，将经典确定性转化为量子可能性 | [formal_theory.md](formal_theory.md) |
+| 经典化 | Classicalization | $\mathcal{C}$ | 量子→经典转换过程，将量子可能性转化为经典确定性 | [formal_theory.md](../formal_theory_core.md) |
+| 量子化 | Quantization | $\mathcal{Q}$ | 经典→量子转换过程，将经典确定性转化为量子可能性 | [formal_theory.md](../formal_theory_core.md) |
 | 观察者 | Observer | $\mathcal{O}$ | 执行量子→经典转换的节点，由经典化算符、量子化算符和经典知识库构成 | [formal_theory_observer.md](formal_theory_observer.md) |
-| 观察者维度 | Observer Dimension | $D_{\mathcal{O}}$ | 观察者的信息处理能力，由经典知识与经典熵比率决定 | [core.md](core.md), [formal_theory_observer.md](formal_theory_observer.md) |
+| 观察者维度 | Observer Dimension | $D_{\mathcal{O}}$ | 观察者的信息处理能力，由经典知识与经典熵比率决定 | [core.md](../core.md), [formal_theory_observer.md](formal_theory_observer.md) |
 | 非平衡度 | Nonequilibrium Degree | $D_{NEQ}$ | 系统远离平衡态的程度，由状态变化率决定 | [formal_theory_nonequilibrium.md](formal_theory_nonequilibrium.md) |
 | 计算复杂度 | Computational Complexity | $\mathcal{K}(\Psi)$ | 计算过程所需资源的度量，包括量子、经典和转换复杂度 | [formal_theory_computation.md](formal_theory_computation.md) |
-| 量子纠缠 | Quantum Entanglement | $E(|\psi_{AB}\rangle)$ | 量子系统间的非局域关联，无法用局域状态完全描述 | [core.md](core.md), [formal_theory_quantum_domain.md](formal_theory_quantum_domain.md) |
-| 经典知识 | Classical Knowledge | $K_C$ | 经典域中的确定信息结构，观察者通过经典化获得 | [core.md](core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
-| 经典熵 | Classical Entropy | $S_C$ | 经典域中的不确定性量度，表征系统无序程度 | [core.md](core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
+| 量子纠缠 | Quantum Entanglement | $E(|\psi_{AB}\rangle)$ | 量子系统间的非局域关联，无法用局域状态完全描述 | [core.md](../core.md), [formal_theory_quantum_domain.md](formal_theory_quantum_domain.md) |
+| 经典知识 | Classical Knowledge | $K_C$ | 经典域中的确定信息结构，观察者通过经典化获得 | [core.md](../core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
+| 经典熵 | Classical Entropy | $S_C$ | 经典域中的不确定性量度，表征系统无序程度 | [core.md](../core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
 | 界面厚度 | Interface Thickness | $\delta_{\mathcal{I}}$ | 量子-经典转换过程的空间范围 | [formal_theory_interface.md](formal_theory_interface.md) |
-| 经典化效率 | Classicalization Efficiency | $\eta_C$ | 量子信息转化为经典知识的效率 | [core.md](core.md), [formal_theory_interface.md](formal_theory_interface.md) |
+| 经典化效率 | Classicalization Efficiency | $\eta_C$ | 量子信息转化为经典知识的效率 | [core.md](../core.md), [formal_theory_interface.md](formal_theory_interface.md) |
 | 创造性度量 | Creativity Measure | $\mathcal{CR}(\Psi)$ | 计算系统输出信息与可推导信息之差 | [formal_theory_computation.md](formal_theory_computation.md) |
 
 ## 数学符号约定
@@ -129,8 +129,8 @@
 
 本术语表参考了以下文献和资料：
 
-1. 核心理论文档 [core.md](core.md) v27.0
-2. 形式化表达文档 [formal_theory.md](formal_theory.md) v27.0
+1. 核心理论文档 [core.md](../core.md) v27.0
+2. 形式化表达文档 [formal_theory.md](../formal_theory_core.md) v27.0
 3. 量子域详解 [formal_theory_quantum_domain.md](formal_theory_quantum_domain.md) v19.0
 4. 经典域详解 [formal_theory_classical_domain.md](formal_theory_classical_domain.md) v19.1
 5. 界面理论 [formal_theory_interface.md](formal_theory_interface.md) v19.0
@@ -139,7 +139,7 @@
 8. 计算复杂性理论 [formal_theory_computation.md](formal_theory_computation.md) v27.0
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

@@ -1,12 +1,12 @@
 # Quantum-Classical Design Theory v13.0
 
-**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_design.md)**
+**[Return to Core Theory](../formal_theory_core_en.md) | [中文版](formal_theory_design.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1
+> This theory is based on [Core Theory](../core_en.md) v11.1
 
 ## Navigation
 
-- [Quantum-Classical Dualism Formal Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
@@ -314,7 +314,7 @@ Future research directions include:
 5. Schön, D. A. (1983). *The Reflective Practitioner: How Professionals Think in Action*. Basic Books.
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)

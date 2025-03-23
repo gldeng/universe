@@ -11,23 +11,23 @@
 ### 已收录音乐家
 
 1. **许巍**
-   - [许巍主页](./xuwei.md) - 中国摇滚乐坛最具诗人气质的歌手，深度哲学分析
+   - [许巍主页](xuwei.md) - 中国摇滚乐坛最具诗人气质的歌手，深度哲学分析
    - 代表作分析:
-     - [《蓝莲花》](./xuwei_lanlaienhua.md) - 稳定经典态的象征
-     - [《故乡》](./xuwei_guxiang.md) - 理想低熵经典世界的向往
-     - [《执着》](./xuwei_zhizhuo.md) - 量子可能性向经典确定性转化的过程
-     - [《曾经的你》](./xuwei_cengJingDeNi.md) - 时空记忆在量子与经典域之间的转化
-     - [《像风一样自由》](./xuwei_xiangFengYiYangZiYou.md) - 量子自由与经典约束的辩证关系
-     - [《时光》](./xuwei_shiguang.md) - 时间在量子域与经典域中的不同特性
-     - [《生活不止眼前的苟且》](./xuwei_shenghuoBuZhiYanQianDeGouQie.md) - 观察者维度提升的艺术表达
-     - [《无尽光芒》](./xuwei_wujinguangmang.md) - 宇宙能量与熵减的关系映射
+     - [《蓝莲花》](xuwei_lanlaienhua.md) - 稳定经典态的象征
+     - [《故乡》](xuwei_guxiang.md) - 理想低熵经典世界的向往
+     - [《执着》](xuwei_zhizhuo.md) - 量子可能性向经典确定性转化的过程
+     - [《曾经的你》](xuwei_cengJingDeNi.md) - 时空记忆在量子与经典域之间的转化
+     - [《像风一样自由》](xuwei_xiangFengYiYangZiYou.md) - 量子自由与经典约束的辩证关系
+     - [《时光》](xuwei_shiguang.md) - 时间在量子域与经典域中的不同特性
+     - [《生活不止眼前的苟且》](xuwei_shenghuoBuZhiYanQianDeGouQie.md) - 观察者维度提升的艺术表达
+     - [《无尽光芒》](xuwei_wujinguangmang.md) - 宇宙能量与熵减的关系映射
 
 2. **朴树**
-   - [朴树主页](./pushu.md) - 中国另类摇滚的代表人物
+   - [朴树主页](pushu.md) - 中国另类摇滚的代表人物
    - 代表作分析:
-     - [《那些花儿》](./pushu_nafehua.md) - 时间流逝与记忆经典化
-     - [《平凡之路》](./pushu_pingfanzhilu.md) - 经典化路径的哲学思考
-     - [《白桦林》](./pushu_baihulin.md) - 自然意象中的量子经典映射
+     - [《那些花儿》](pushu_nafehua.md) - 时间流逝与记忆经典化
+     - [《平凡之路》](pushu_pingfanzhilu.md) - 经典化路径的哲学思考
+     - [《白桦林》](pushu_baihulin.md) - 自然意象中的量子经典映射
 
 ### 分析框架
 
@@ -53,23 +53,23 @@ This directory contains analyses of various musicians' works from the perspectiv
 ### Featured Musicians
 
 1. **Xu Wei**
-   - [Xu Wei Homepage](./xuwei.md) - The most poetic singer in Chinese rock music, with in-depth philosophical analysis
+   - [Xu Wei Homepage](xuwei.md) - The most poetic singer in Chinese rock music, with in-depth philosophical analysis
    - Representative Works Analysis:
-     - ["Blue Lotus"](./xuwei_lanlaienhua.md) - Symbol of stable classical state
-     - ["Hometown"](./xuwei_guxiang.md) - Longing for ideal low-entropy classical world
-     - ["Persistence"](./xuwei_zhizhuo.md) - Process of transforming quantum possibilities into classical certainty
-     - ["Once You"](./xuwei_cengJingDeNi.md) - Transformation of space-time memory between quantum and classical domains
-     - ["Free Like the Wind"](./xuwei_xiangFengYiYangZiYou.md) - Dialectical relationship between quantum freedom and classical constraints
-     - ["Time"](./xuwei_shiguang.md) - Different characteristics of time in quantum and classical domains
-     - ["Life is More Than Just Getting By"](./xuwei_shenghuoBuZhiYanQianDeGouQie.md) - Artistic expression of observer dimension elevation
-     - ["Endless Radiance"](./xuwei_wujinguangmang.md) - Mapping of universal energy and entropy reduction relationship
+     - ["Blue Lotus"](xuwei_lanlaienhua.md) - Symbol of stable classical state
+     - ["Hometown"](xuwei_guxiang.md) - Longing for ideal low-entropy classical world
+     - ["Persistence"](xuwei_zhizhuo.md) - Process of transforming quantum possibilities into classical certainty
+     - ["Once You"](xuwei_cengJingDeNi.md) - Transformation of space-time memory between quantum and classical domains
+     - ["Free Like the Wind"](xuwei_xiangFengYiYangZiYou.md) - Dialectical relationship between quantum freedom and classical constraints
+     - ["Time"](xuwei_shiguang.md) - Different characteristics of time in quantum and classical domains
+     - ["Life is More Than Just Getting By"](xuwei_shenghuoBuZhiYanQianDeGouQie.md) - Artistic expression of observer dimension elevation
+     - ["Endless Radiance"](xuwei_wujinguangmang.md) - Mapping of universal energy and entropy reduction relationship
 
 2. **Pu Shu**
-   - [Pu Shu Homepage](./pushu.md) - Representative figure of Chinese alternative rock
+   - [Pu Shu Homepage](pushu.md) - Representative figure of Chinese alternative rock
    - Representative Works Analysis:
-     - ["Those Flowers"](./pushu_nafehua.md) - Time passage and memory classicalization
-     - ["Ordinary Road"](./pushu_pingfanzhilu.md) - Philosophical thinking on classicalization paths
-     - ["Birch Forest"](./pushu_baihulin.md) - Quantum-classical mapping in natural imagery
+     - ["Those Flowers"](pushu_nafehua.md) - Time passage and memory classicalization
+     - ["Ordinary Road"](pushu_pingfanzhilu.md) - Philosophical thinking on classicalization paths
+     - ["Birch Forest"](pushu_baihulin.md) - Quantum-classical mapping in natural imagery
 
 ### Analysis Framework
 

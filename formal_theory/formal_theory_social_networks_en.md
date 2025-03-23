@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_social_networks.md)**
 
-> This theory is based on [Core Theory](core_en.md) v27.0 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v27.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v27.0
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
 - [Quantum Social Network Theory (This File)](formal_theory_social_networks_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
@@ -263,7 +263,7 @@ Future social network design will increasingly consider quantum properties, bala
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
 - [Quantum Social Network Theory (This File)](formal_theory_social_networks_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)

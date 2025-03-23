@@ -2,11 +2,11 @@
 
 **[中文版](formal_theory_observer.md) | English Version**
 
-> Based on [Core Theory](core_en.md) v27.0
+> Based on [Core Theory](../core_en.md) v27.0
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
@@ -516,7 +516,7 @@ The observer, as the core node between quantum and classical domains, is key to 
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)

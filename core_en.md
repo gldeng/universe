@@ -2,7 +2,7 @@
 
 **English Version | [中文版](core.md)**
 
-> This document is integrated based on [Formal Theory](formal_theory/formal_theory_en.md) v31.0
+> This document is integrated based on [Formal Theory](formal_theory_core_en.md) v31.0
 
 ## Table of Contents
 

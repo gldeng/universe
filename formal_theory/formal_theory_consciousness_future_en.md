@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_consciousness_future.md)**
 
-> Based on [Core Theory](core_en.md) v11.1
+> Based on [Core Theory](../core_en.md) v11.1
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
 - [High-Dimensional Observer Network](formal_theory_observer_network_en.md)
 - [Future Development of Human Consciousness (This File)](formal_theory_consciousness_future_en.md)
@@ -295,7 +295,7 @@ Quantum-classical dualism provides a scientific framework for understanding and 
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
 - [High-Dimensional Observer Network](formal_theory_observer_network_en.md)
 - [Future Development of Human Consciousness (This File)](formal_theory_consciousness_future_en.md)

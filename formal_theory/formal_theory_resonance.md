@@ -3,14 +3,14 @@
 **[English Version](formal_theory_resonance_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
 - [量子-经典共鸣理论 (本文件)](formal_theory_resonance.md)
 - [信息相变理论](formal_theory_phase_transition.md)
 - [自参照循环理论](formal_theory_self_reference.md)
-- [所有文档...](formal_theory.md)
+- [所有文档...](../formal_theory_core.md)
 
 ## 本文内部导航
 - [理论基础](#理论基础)
@@ -20,7 +20,7 @@
 - [实验验证预测](#实验验证预测)
 - [技术应用潜力](#技术应用潜力)
 
-> 本理论基于[核心理论](core.md) v11.1版本，[量子经典二元论形式化表达](formal_theory.md) v26.0版本。
+> 本理论基于[核心理论](../core.md) v11.1版本，[量子经典二元论形式化表达](../formal_theory_core.md) v26.0版本。
 
 ## 理论基础
 

@@ -3,7 +3,7 @@
 ## 导航链接 | Navigation Links
 - [中文版](#中文版)
 - [English Version](#english-version)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 中文版
 

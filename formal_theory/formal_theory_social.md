@@ -3,7 +3,7 @@
 **[English Version](formal_theory_social_en.md) | 中文版**
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子社会动力学 (本文件)](formal_theory_social.md)
 - [多尺度二元论](formal_theory_multiscale.md)
 - [量子意识理论](formal_theory_consciousness.md)
@@ -22,7 +22,7 @@
 - [社会实验与验证方法](#社会实验与验证方法)
 - [应用与社会影响](#应用与社会影响)
 
-> 本理论基于[核心理论](core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v27.0版本
 
 ## 理论基础
 

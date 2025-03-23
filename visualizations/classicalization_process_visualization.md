@@ -630,7 +630,7 @@ Visualized as a dimensional projection network:
 
 ## 相关链接 | Related Links
 
-- [返回可视化目录 | Return to Visualizations](./README.md)
-- [量子意识可视化 | Quantum Consciousness Visualization](./quantum_consciousness_visualization.md)
-- [观察者感知可视化 | Observer Perception Visualization](./observer_perception_visualization.md)
-- [命运与自由意志可视化 | Destiny and Free Will Visualization](./destiny_free_will_visualization.md) 
+- [返回可视化目录 | Return to Visualizations](README.md)
+- [量子意识可视化 | Quantum Consciousness Visualization](quantum_consciousness_visualization.md)
+- [观察者感知可视化 | Observer Perception Visualization](observer_perception_visualization.md)
+- [命运与自由意志可视化 | Destiny and Free Will Visualization](destiny_free_will_visualization.md) 

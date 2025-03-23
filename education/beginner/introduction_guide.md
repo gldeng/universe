@@ -87,10 +87,10 @@ $$
 ### 初学者路径 (1-3个月)
 
 1. 阅读本入门指南
-2. 学习[核心概念简明解释](./core_concepts_simplified.md)
-3. 探索[日常生活中的量子经典二元论](./everyday_applications.md)
-4. 尝试[思想实验入门](./thought_experiments.md)
-5. 查阅[常见问题解答](./faq.md)解决疑惑
+2. 学习[核心概念简明解释](core_concepts_simplified.md)
+3. 探索[日常生活中的量子经典二元论](everyday_applications.md)
+4. 尝试[思想实验入门](thought_experiments.md)
+5. 查阅[常见问题解答](faq.md)解决疑惑
 
 ### 进阶路径 (3-6个月)
 
@@ -120,9 +120,9 @@ $$
 
 ## 下一步学习推荐
 
-- [核心概念简明解释](./core_concepts_simplified.md)
-- [日常生活中的量子经典二元论](./everyday_applications.md)
-- [思想实验入门](./thought_experiments.md)
+- [核心概念简明解释](core_concepts_simplified.md)
+- [日常生活中的量子经典二元论](everyday_applications.md)
+- [思想实验入门](thought_experiments.md)
 
 ---
 
@@ -204,10 +204,10 @@ Try these simple exercises to help you understand Quantum-Classical Dualism:
 ### Beginner Path (1-3 months)
 
 1. Read this introduction guide
-2. Learn the [Core Concepts Simplified](./core_concepts_simplified.md)
-3. Explore [Quantum-Classical Dualism in Everyday Life](./everyday_applications.md)
-4. Try [Introduction to Thought Experiments](./thought_experiments.md)
-5. Consult the [FAQ](./faq.md) to resolve doubts
+2. Learn the [Core Concepts Simplified](core_concepts_simplified.md)
+3. Explore [Quantum-Classical Dualism in Everyday Life](everyday_applications.md)
+4. Try [Introduction to Thought Experiments](thought_experiments.md)
+5. Consult the [FAQ](faq.md) to resolve doubts
 
 ### Advanced Path (3-6 months)
 
@@ -237,6 +237,6 @@ Try these simple exercises to help you understand Quantum-Classical Dualism:
 
 ## Recommended Next Steps
 
-- [Core Concepts Simplified](./core_concepts_simplified.md)
-- [Quantum-Classical Dualism in Everyday Life](./everyday_applications.md)
-- [Introduction to Thought Experiments](./thought_experiments.md) 
+- [Core Concepts Simplified](core_concepts_simplified.md)
+- [Quantum-Classical Dualism in Everyday Life](everyday_applications.md)
+- [Introduction to Thought Experiments](thought_experiments.md) 

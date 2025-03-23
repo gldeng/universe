@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_quantum_economics_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论](formal_theory.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论](../formal_theory_core.md) v28.0版本
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子决策理论](formal_theory_quantum_decision.md)
 - [量子经济学原理 (本文件)](formal_theory_quantum_economics.md)
 - [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)
@@ -273,7 +273,7 @@ $$P_t = \mathbb{E}_Q[\sum_{s=t+1}^{\infty} \beta^{s-t} \frac{U'(C_s)}{U'(C_t)} D
 - 探索量子计算在经济建模中的应用
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子决策理论](formal_theory_quantum_decision.md)
 - [量子经济学原理 (本文件)](formal_theory_quantum_economics.md)
 - [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)

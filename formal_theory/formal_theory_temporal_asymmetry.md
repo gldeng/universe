@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_temporal_asymmetry_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v13.0版本和[量子经典二元论](formal_theory.md) v24.0版本
+> 本理论基于[核心理论](../core.md) v13.0版本和[量子经典二元论](../formal_theory_core.md) v24.0版本
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [时间非对称性理论 (本文件)](formal_theory_temporal_asymmetry.md)

@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_multiscale.md)**
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Multiscale Dualism (This File)](formal_theory_multiscale_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
@@ -23,7 +23,7 @@
 - [Application Domains](#application-domains)
 - [Experimental Validation Approaches](#experimental-validation-approaches)
 
-> This theory is based on [Core Theory](core.md) v14.0
+> This theory is based on [Core Theory](../core.md) v14.0
 
 ## Theoretical Foundation
 

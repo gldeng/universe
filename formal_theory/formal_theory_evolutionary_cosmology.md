@@ -1,12 +1,12 @@
 # 二元论演化宇宙学 v16.0
 
-**[返回核心理论](formal_theory.md) | [English Version](formal_theory_evolutionary_cosmology_en.md)**
+**[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_evolutionary_cosmology_en.md)**
 
-> 本理论基于[核心理论](core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v11.1版本
 
 ## 导航
 
-- [量子经典二元论形式化表达](formal_theory.md)
+- [量子经典二元论形式化表达](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
@@ -367,7 +367,7 @@ $$\rho_{\mathcal{U}}(t_8) \xrightarrow{\text{整合突现}} \rho_{\mathcal{U}}(t
 5. Linde, A. (2017). A brief history of the multiverse. *Reports on Progress in Physics*, 80(2), 022001.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

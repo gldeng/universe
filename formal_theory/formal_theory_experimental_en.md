@@ -1,6 +1,6 @@
 # Experimental Predictions for Quantum-Classical Dualism v19.0
 
-**[Return to Core Theory](formal_theory_en.md) | [中文版](formal_theory_experimental.md)**
+**[Return to Core Theory](../formal_theory_core_en.md) | [中文版](formal_theory_experimental.md)**
 
 ## Table of Contents
 - [Foundational Experiments](#foundational-experiments)

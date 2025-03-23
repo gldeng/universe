@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_quantum_communication.md)**
 
-> Based on [Quantum-Classical Dualism](formal_theory_en.md) v27.0
+> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v27.0
 
 ## Quantum Communication Protocols Overview
 
@@ -274,7 +274,7 @@ By understanding and utilizing the interface dynamics between quantum and classi
 
 ## Related Theory Links
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)

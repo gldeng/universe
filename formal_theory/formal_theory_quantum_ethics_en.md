@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_quantum_ethics.md)**
 
-> This theory is based on [Core Theory](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../formal_theory_core_en.md) v28.0
 
 ## Navigation
 
@@ -302,7 +302,7 @@ Philosophical foundations and future outlook of quantum ethics:
 
 ## References
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Quantum-Classical Ethics](formal_theory_ethics_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
 - [Quantum Technology Singularity Prediction](formal_theory_singularity_en.md)

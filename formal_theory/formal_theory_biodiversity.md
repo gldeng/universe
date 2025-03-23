@@ -2,10 +2,10 @@
 
 **[English Version](formal_theory_biodiversity_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v29.0版本和[量子经典二元论形式化表达](formal_theory.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v29.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v29.0版本
 
 ## 导航链接
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [量子生物学](formal_theory_quantum_biology.md)
@@ -362,7 +362,7 @@ $$C(A) \leq C_{max}$$
 10. Worm, B., et al. (2006). Impacts of biodiversity loss on ocean ecosystem services. Science, 314(5800), 787-790.
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [量子生物学](formal_theory_quantum_biology.md)

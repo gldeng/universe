@@ -552,6 +552,6 @@ Visualized as a consciousness entanglement network:
 
 ## 相关链接 | Related Links
 
-- [返回可视化目录 | Return to Visualizations](./README.md)
-- [观察者感知可视化 | Observer Perception Visualization](./observer_perception_visualization.md)
-- [经典化过程可视化 | Classicalization Process Visualization](./classicalization_process_visualization.md) 
+- [返回可视化目录 | Return to Visualizations](README.md)
+- [观察者感知可视化 | Observer Perception Visualization](observer_perception_visualization.md)
+- [经典化过程可视化 | Classicalization Process Visualization](classicalization_process_visualization.md) 

@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_observer_feedback.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v27.0
 
 ## Navigation Links
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
@@ -271,7 +271,7 @@ Observer Feedback Theory reveals the bidirectional nature of the observation pro
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)

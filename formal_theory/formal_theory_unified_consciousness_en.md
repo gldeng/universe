@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory_unified_consciousness.md)**
 
-> This theory is based on [Core Theory](formal_theory_en.md) v28.0
+> This theory is based on [Core Theory](../formal_theory_core_en.md) v28.0
 
 ## Navigation
 
@@ -154,7 +154,7 @@ The Unified Consciousness Theory has broad application prospects:
 
 ## References
 
-- [Quantum-Classical Dualism Core Theory](formal_theory_en.md)
+- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 - [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
 - [High-Dimensional Observer Network](formal_theory_observer_network_en.md)
 - [Observer Theory](formal_theory_observer_en.md)

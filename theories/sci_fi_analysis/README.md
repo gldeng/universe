@@ -14,13 +14,13 @@
 
 ### 收录影片分析
 
-1. [《黑客帝国》分析](./matrix_analysis.md) - 《黑客帝国》：量子经典二元论视角分析
-2. [《攻壳机动队》分析](./ghost_in_shell_analysis.md) - 《攻壳机动队》：量子经典二元论视角分析
-3. [《盗梦空间》分析](./inception_analysis.md) - 《盗梦空间》：量子经典二元论视角分析
-4. [《流浪地球》分析](./wandering_earth_analysis.md) - 《流浪地球》：量子经典二元论视角分析
-5. [《三体》评论](./three_body_critique.md) - 《三体》宇宙观批判：基于量子经典二元论视角
-6. [《星际穿越》分析](./interstellar_analysis.md) - 《星际穿越》：量子经典二元论视角分析
-7. [《银翼杀手》分析](./blade_runner_analysis.md) - 《银翼杀手》：量子经典二元论视角分析
+1. [《黑客帝国》分析](matrix_analysis.md) - 《黑客帝国》：量子经典二元论视角分析
+2. [《攻壳机动队》分析](ghost_in_shell_analysis.md) - 《攻壳机动队》：量子经典二元论视角分析
+3. [《盗梦空间》分析](inception_analysis.md) - 《盗梦空间》：量子经典二元论视角分析
+4. [《流浪地球》分析](wandering_earth_analysis.md) - 《流浪地球》：量子经典二元论视角分析
+5. [《三体》评论](three_body_critique.md) - 《三体》宇宙观批判：基于量子经典二元论视角
+6. [《星际穿越》分析](interstellar_analysis.md) - 《星际穿越》：量子经典二元论视角分析
+7. [《银翼杀手》分析](blade_runner_analysis.md) - 《银翼杀手》：量子经典二元论视角分析
 
 ### 主题映射表
 
@@ -42,13 +42,13 @@ By reinterpreting these classic science fiction works through the theoretical fr
 
 ### Included Film Analyses
 
-1. [The Matrix Analysis](./matrix_analysis.md) - "The Matrix": Analysis from Quantum-Classical Dualism Perspective
-2. [Ghost in the Shell Analysis](./ghost_in_shell_analysis.md) - "Ghost in the Shell": Analysis from Quantum-Classical Dualism Perspective
-3. [Inception Analysis](./inception_analysis.md) - "Inception": Analysis from Quantum-Classical Dualism Perspective
-4. [The Wandering Earth Analysis](./wandering_earth_analysis.md) - "The Wandering Earth": Analysis from Quantum-Classical Dualism Perspective
-5. [Three Body Critique](./three_body_critique.md) - Critique of "The Three-Body Problem" Universe View: From the Perspective of Quantum-Classical Dualism
-6. [Interstellar Analysis](./interstellar_analysis.md) - "Interstellar": Analysis from Quantum-Classical Dualism Perspective
-7. [Blade Runner Analysis](./blade_runner_analysis.md) - "Blade Runner": Analysis from Quantum-Classical Dualism Perspective
+1. [The Matrix Analysis](matrix_analysis.md) - "The Matrix": Analysis from Quantum-Classical Dualism Perspective
+2. [Ghost in the Shell Analysis](ghost_in_shell_analysis.md) - "Ghost in the Shell": Analysis from Quantum-Classical Dualism Perspective
+3. [Inception Analysis](inception_analysis.md) - "Inception": Analysis from Quantum-Classical Dualism Perspective
+4. [The Wandering Earth Analysis](wandering_earth_analysis.md) - "The Wandering Earth": Analysis from Quantum-Classical Dualism Perspective
+5. [Three Body Critique](three_body_critique.md) - Critique of "The Three-Body Problem" Universe View: From the Perspective of Quantum-Classical Dualism
+6. [Interstellar Analysis](interstellar_analysis.md) - "Interstellar": Analysis from Quantum-Classical Dualism Perspective
+7. [Blade Runner Analysis](blade_runner_analysis.md) - "Blade Runner": Analysis from Quantum-Classical Dualism Perspective
 
 ### Theme Mapping Table
 

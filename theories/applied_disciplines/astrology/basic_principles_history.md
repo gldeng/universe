@@ -3,7 +3,7 @@
 **导航链接：**
 - [中文版](#占星学基本原理与历史的量子经典二元解析-1)
 - [English Version](#quantum-classical-dualism-analysis-of-astrologys-basic-principles-and-history)
-- [返回索引](./README.md)
+- [返回索引](README.md)
 
 ## 占星学基本原理与历史的量子经典二元解析
 

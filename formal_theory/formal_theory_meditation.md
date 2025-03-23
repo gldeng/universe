@@ -2,11 +2,11 @@
 
 **[English Version](formal_theory_meditation_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本，[量子经典二元论形式化表达](formal_theory.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v11.1版本，[量子经典二元论形式化表达](../formal_theory_core.md) v27.0版本
 
 ## 导航链接
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论](formal_theory_consciousness.md) 
 - [观察者理论](formal_theory_observer.md)
 - [自参照循环理论](formal_theory_self_reference.md)
@@ -287,7 +287,7 @@ $$|\psi_{\text{认知}}\rangle = U_{\text{冥想}}|\psi_{\text{初始}}\rangle$$
 
 ## 文档导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子意识理论](formal_theory_consciousness.md) 
 - [观察者理论](formal_theory_observer.md)
 - [自参照循环理论](formal_theory_self_reference.md)

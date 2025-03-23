@@ -2,18 +2,18 @@
 
 **[English Version](formal_theory_self_reference_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v28.0版本
 
 ## 导航
 
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
 - [量子-经典共鸣理论](formal_theory_resonance.md)
 - [信息相变理论](formal_theory_phase_transition.md)
 - [自参照循环理论 (本文件)](formal_theory_self_reference.md)
-- [所有文档...](formal_theory.md)
+- [所有文档...](../formal_theory_core.md)
 
 ## 1. 理论概述
 
@@ -836,7 +836,7 @@ $$CI = \alpha \cdot \bar{c} + \beta \cdot \sigma_c + \gamma \cdot R_{\text{集�
 6. **增强型元认知**：开发基于自参照的认知增强技术
 
 ## 文档导航
-- [核心理论](formal_theory.md)
+- [核心理论](../formal_theory_core.md)
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)

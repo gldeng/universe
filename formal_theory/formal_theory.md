@@ -1,6 +1,6 @@
 # 量子经典二元论形式化表达 v30.0
 
-**[English Version](formal_theory_en.md) | 中文版**
+**[English Version](../formal_theory_core_en.md) | 中文版**
 
 > 本理论基于[核心理论](../core.md) v30.0版本
 > 

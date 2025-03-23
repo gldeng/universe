@@ -2,10 +2,10 @@
 
 **English Version | [中文版](formal_theory_digital_art.md)**
 
-> This theory is based on [Core Theory](core_en.md) v29.0 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v29.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v29.0
 
 ## Navigation Links
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum-Classical Aesthetics Theory](formal_theory_aesthetics_en.md)
 - [Dualistic Art Theory](formal_theory_art_en.md)
 - [Quantum-Classical Design Theory](formal_theory_design_en.md)
@@ -528,7 +528,7 @@ Quantum-Classical Digital Art Theory not only enriches our understanding of art 
 10. Tribe, M., & Jana, R. (2006). New media art. Taschen.
 
 ## Document Navigation
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum-Classical Aesthetics Theory](formal_theory_aesthetics_en.md)
 - [Dualistic Art Theory](formal_theory_art_en.md)
 - [Quantum-Classical Design Theory](formal_theory_design_en.md)

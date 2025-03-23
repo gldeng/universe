@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_philosophy_en.md) | 中文版**
 
-> 本文基于[量子经典二元论](formal_theory.md) v27.0版本
+> 本文基于[量子经典二元论](../formal_theory_core.md) v27.0版本
 
 ## 哲学基础概述
 
@@ -339,7 +339,7 @@ $$E_{\text{混合}} = \{E_{\text{物理}}, E_{\text{思维}}\}$$
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](formal_theory.md)
+- [量子经典二元论核心理论](../formal_theory_core.md)
 - [观察者理论](formal_theory_observer.md)
 - [自参照循环理论](formal_theory_self_reference.md)
 - [量子意识理论](formal_theory_consciousness.md)

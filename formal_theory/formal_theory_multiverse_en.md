@@ -2,11 +2,11 @@
 
 **English Version | [中文版](formal_theory_multiverse.md)**
 
-> This theory is based on [Core Theory](core_en.md) v27.0 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v27.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v27.0
 
 ## Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Multiverse Interference Model (This File)](formal_theory_multiverse_en.md)
@@ -347,7 +347,7 @@ As quantum technology advances, experimental verification of multiverse interfer
 
 ## Document Navigation
 
-- [Core Theory](formal_theory_en.md)
+- [Core Theory](../formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Multiverse Interference Model (This File)](formal_theory_multiverse_en.md)

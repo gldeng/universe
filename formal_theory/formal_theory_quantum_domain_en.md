@@ -1,8 +1,8 @@
 # Quantum Domain Details - Quantum-Classical Dualism v19.1
 
-**[Back to Core Theory](formal_theory_en.md) | [中文版](formal_theory_quantum_domain.md)**
+**[Back to Core Theory](../formal_theory_core_en.md) | [中文版](formal_theory_quantum_domain.md)**
 
-This document is based on [Core Theory](core_en.md) v27.0
+This document is based on [Core Theory](../core_en.md) v27.0
 
 ## Table of Contents
 - [Quantum Domain Basic Definition](#quantum-domain-basic-definition)

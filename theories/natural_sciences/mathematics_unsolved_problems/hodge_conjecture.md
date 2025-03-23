@@ -1,5 +1,5 @@
-# 霍奇猜想的量子经典二元论证明（版本28.0）
-# Quantum-Classical Dualism Proof of the Hodge Conjecture (Version 28.0)
+# 霍奇猜想的量子经典二元论证明（版本29.0）
+# Quantum-Classical Dualism Proof of the Hodge Conjecture (Version 29.0)
 
 ## 导航 | Navigation
 - [中文简介](#霍奇猜想的简介)
@@ -198,3 +198,5 @@ From the perspective of quantum-classical dualism, the Hodge Conjecture can be i
 In the quantum domain (infinite possibilities), there is an essential unity between topological structures and algebraic structures, which coexist as different observed results of quantum superposition states. When we project this unity into the classical domain (deterministic reality) through a specific observer dimension, this unity manifests as a one-to-one correspondence between Hodge classes and algebraic cycles.
 
 In simple terms, the Hodge Conjecture reveals the unified nature of topological properties (Hodge classes) and algebraic properties (algebraic cycles) of complex projective algebraic varieties under quantum-classical dual observation, reflecting the quantum-classical duality in the deep structure of mathematics. 
+
+[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-the-hodge-conjecture-version-290) 

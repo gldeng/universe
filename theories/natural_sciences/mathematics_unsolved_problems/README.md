@@ -1,5 +1,5 @@
-# 数学未解难题量子经典二元论证明库（版本28.0）
-# Quantum-Classical Dualism Proof Library for Unsolved Mathematical Problems (Version 28.0)
+# 数学未解难题量子经典二元论证明库（版本29.0）
+# Quantum-Classical Dualism Proof Library for Unsolved Mathematical Problems (Version 29.0)
 
 ## 目录 | Table of Contents
 - [简介 | Introduction](#简介--introduction)
@@ -20,9 +20,9 @@
 
 ## 简介 | Introduction
 
-本证明库收录了基于量子经典二元论（版本28.0）的数学未解难题详细证明。每个难题的证明都遵循严格的形式化过程，同时提供了直观解释。证明过程中结合了量子域和经典域的视角，揭示了这些长期困扰数学界的难题背后的量子-经典本质。
+本证明库收录了基于量子经典二元论（版本29.0）的数学未解难题详细证明。每个难题的证明都遵循严格的形式化过程，同时提供了直观解释。证明过程中结合了量子域和经典域的视角，揭示了这些长期困扰数学界的难题背后的量子-经典本质。
 
-[切换到英文 | Switch to English](#quantum-classical-dualism-proof-library-for-unsolved-mathematical-problems-version-280)
+[切换到英文 | Switch to English](#quantum-classical-dualism-proof-library-for-unsolved-mathematical-problems-version-290)
 
 ## 证明方法论 | Proof Methodology
 
@@ -73,21 +73,21 @@ $$
 ## 参考文献 | References
 
 1. Clay Mathematics Institute. (2000). Millennium Problems.
-2. 经典量子二元论核心理论 (版本28.0). [core.md](../../core.md)
-3. 形式化量子经典框架 (版本28.0). [formal_theory.md](../../formal_theory.md)
+2. 经典量子二元论核心理论 (版本29.0). [core.md](../../core.md)
+3. 形式化量子经典框架 (版本29.0). [formal_theory.md](../../formal_theory.md)
 4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
 5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
 6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
 
 ---
 
-# Quantum-Classical Dualism Proof Library for Unsolved Mathematical Problems (Version 28.0)
+# Quantum-Classical Dualism Proof Library for Unsolved Mathematical Problems (Version 29.0)
 
-[切换到中文 | Switch to Chinese](#数学未解难题量子经典二元论证明库版本280)
+[切换到中文 | Switch to Chinese](#数学未解难题量子经典二元论证明库版本290)
 
 ## Introduction
 
-This proof library contains detailed proofs for unsolved mathematical problems based on Quantum-Classical Dualism (Version 28.0). Each problem's proof follows a rigorous formalization process while providing intuitive explanations. The proofs combine perspectives from both the quantum and classical domains, revealing the quantum-classical nature behind these long-standing mathematical challenges.
+This proof library contains detailed proofs for unsolved mathematical problems based on Quantum-Classical Dualism (Version 29.0). Each problem's proof follows a rigorous formalization process while providing intuitive explanations. The proofs combine perspectives from both the quantum and classical domains, revealing the quantum-classical nature behind these long-standing mathematical challenges.
 
 ## Proof Methodology
 
@@ -138,8 +138,8 @@ In addition to the Millennium Prize problems, there are many other famous unsolv
 ## References
 
 1. Clay Mathematics Institute. (2000). Millennium Problems.
-2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory_en.md)
+2. Quantum-Classical Dualism Core Theory (Version 29.0). [core_en.md](../../core_en.md)
+3. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../formal_theory_en.md)
 4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
 5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
 6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints. 

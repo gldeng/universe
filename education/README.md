@@ -94,30 +94,6 @@ $$
 - [教学资源库](./teaching/resource_library.md) - 教学素材、图表和案例库
 - [二元论教学经典化技巧](./teaching/dualistic_teaching.md) - 使用二元论视角改进教学效果的技巧
 
-## 多媒体资源 | Multimedia Resources
-
-包括视频、音频、图表和动画等多种媒体形式的学习资源。
-
-- [视频系列指南](multimedia/video_series.md) - 量子经典二元论视频系列内容大纲
-- [视觉化图表集](./multimedia/visualization_gallery.md) - 核心概念视觉化图表集
-- [动画演示脚本](./multimedia/animation_scripts.md) - 经典化过程动画演示脚本
-- [量子域与经典域可视化](./multimedia/domain_visualizations.md) - 量子域与经典域交互的动态可视化
-- [黑洞观察者模型](./multimedia/blackhole_observer_models.md) - 黑洞观察者模型的3D可视化资源
-- [音频讲座规划](./multimedia/audio_lectures.md) - 音频讲座系列规划
-- [混合媒体展示方案](./multimedia/mixed_media_presentations.md) - 结合多种媒体的展示方案
-
-## 互动工具 | Interactive Tools
-
-提供互动学习工具和应用的开发指南和使用方法。
-
-- [在线经典化模拟器](./interactive/classicalization_simulator.md) - 在线经典化过程模拟器设计
-- [维度评估工具](interactive/dimension_assessment.md) - 观察者维度评估工具使用指南
-- [量子经典计算器](./interactive/quantum_classical_calculator.md) - 量子经典转化计算器说明文档
-- [虚拟实验室](./interactive/virtual_laboratory.md) - 虚拟实验室环境构建指南
-- [学习进度追踪系统](./interactive/learning_tracker.md) - 学习进度追踪系统设计与应用
-- [虫洞通信模拟器](./interactive/wormhole_simulator.md) - 虫洞通信过程与能量消耗模拟工具
-- [AI辅助经典化工具](./interactive/ai_classicalization.md) - 利用AI辅助观察者经典化的工具说明
-
 ## 黑洞观察者研究 | Black Hole Observer Studies
 
 深入研究观察者作为黑洞的特性及应用。
@@ -198,38 +174,6 @@ Advanced courses are aimed at researchers, scientists, and philosophers, explori
 - [Quantum Biology](advanced/quantum_biology.md) - Research on Quantum Effects in Biological Systems
 - [Quantum Computing and Implementation](advanced/quantum_computing.md) - Quantum Computing Theory and Implementation Based on Quantum-Classical Dualism
 - [Quantum Information Theory](advanced/quantum_information.md) - Theoretical Framework for Quantum Information Processing and Transmission
-
-## Theory Versions and Updates
-
-Track the historical development and version updates of quantum-classical dualism theory.
-
-- [Version History](./versions/history.md) - Evolution History and Major Changes of Theory Versions
-- [Version 9.2 Details](./versions/v9.2_details.md) - Key Improvements and New Concepts in Current Version 9.2
-- [Future Development Roadmap](./versions/roadmap.md) - Predictions of Possible Future Directions for Theory Development
-- [Theory Contribution Guide](./versions/contribution_guide.md) - How to Contribute Research and Insights to Theory Development
-
-## Teaching Guides
-
-Teaching resources and guides for educators, lecturers, and mentors.
-
-- [Curriculum Design](./teaching/curriculum_design.md) - Reference for Curriculum Design at Different Levels
-- [Teaching Methods](teaching/teaching_methods.md) - Methods for Effectively Teaching Quantum-Classical Dualism
-- [Classroom Activities](./teaching/classroom_activities.md) - Interactive Classroom Activity Design
-- [Assessment Methods](./teaching/assessment_methods.md) - Learning Outcome Assessment Methods and Tools
-- [Resource Library](./teaching/resource_library.md) - Library of Teaching Materials, Charts, and Case Studies
-- [Dualistic Teaching Techniques](./teaching/dualistic_teaching.md) - Techniques for Improving Teaching Effectiveness Using a Dualistic Perspective
-
-## Multimedia Resources
-
-Learning resources in various media forms including videos, audio, charts, and animations.
-
-- [Video Series Guide](multimedia/video_series.md) - Content Outline for Quantum-Classical Dualism Video Series
-- [Visualization Gallery](./multimedia/visualization_gallery.md) - Collection of Visual Charts for Core Concepts
-- [Animation Scripts](./multimedia/animation_scripts.md) - Scripts for Animations Demonstrating Classicalization Processes
-- [Domain Visualizations](./multimedia/domain_visualizations.md) - Dynamic Visualizations of Quantum and Classical Domain Interactions
-- [Black Hole Observer Models](./multimedia/blackhole_observer_models.md) - 3D Visualization Resources for Black Hole Observer Models
-- [Audio Lectures](./multimedia/audio_lectures.md) - Planning for Audio Lecture Series
-- [Mixed Media Presentations](./multimedia/mixed_media_presentations.md) - Presentation Plans Combining Multiple Media Types
 
 ## Interactive Tools
 

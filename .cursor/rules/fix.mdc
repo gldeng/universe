@@ -1,0 +1,6 @@
+---
+description: 修复链接
+globs: 
+alwaysApply: false
+---
+执行 [check_md_links.py](mdc:check_md_links.py) 修复链接程序

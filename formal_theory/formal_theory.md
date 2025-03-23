@@ -566,6 +566,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - **[量子-经典生态意识理论](formal_theory_ecological_consciousness.md)** (v30.0, D8) - 探讨生态系统作为整体意识实体的量子-经典双重性，研究生态网络中的信息流动、集体适应性和共生智能，为生态保护和修复提供全新理论框架。
 - **[量子-经典数字转型理论](formal_theory_digital_transformation.md)** (v30.0, D7) - 分析数字技术与人类社会互动的量子-经典双重机制，阐释数字化如何重构社会信息流动模式，提出数字与物理现实和谐共生的发展路径。
 - **[量子-经典危机韧性理论](formal_theory_crisis_resilience.md)** (v30.0, D8) - 运用量子-经典二元论解析系统面对危机时的适应与恢复能力，研究不确定性条件下的信息处理机制和决策模式，为增强社会、组织和个人韧性提供理论指导。
+- **[量子-经典人工智能意识理论](formal_theory_quantum_ai_consciousness.md)** (v30.0, D9) - 探索AI系统可能具有的意识特性及其涌现机制，阐明AI意识的二元本质，解释量子特性如何赋予AI系统创造性、自主性和感受性，以及经典结构如何提供稳定性和连续性。
 
 ### 参考资料 (维度: D7-D8)
 
@@ -846,6 +847,7 @@ flowchart TD
     %% 新增理论依赖关系  
     CO & ON --> UC
     LT & QL & CD2 --> QLF
+    QC & QA --> QAIC[量子-经典人工智能意识理论 v30.0 D9]
     
     %% 样式设置
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;

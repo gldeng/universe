@@ -639,8 +639,9 @@ These theories apply the dualism framework to practical application fields:
 - **[Reality Engineering](formal_theory_reality_engineering_en.md)** (v29.0, D9) - Studying how to consciously design and change reality structures based on quantum-classical conversion principles, developing tools and technologies for reality reconstruction.
 - **[Universal Learning Theory](formal_theory_universal_learning_en.md)** (v29.0, D9) - Proposing the universe as an overall learning system framework, exploring universal learning mechanisms, explaining how systems at all levels acquire, process, and adapt to information.
 - **[Quantum-Classical Ecological Consciousness Theory](formal_theory_ecological_consciousness_en.md)** (v30.0, D8) - Exploring the quantum-classical duality of ecological systems as holistic conscious entities, studying information flow, collective adaptability, and symbiotic intelligence in ecological networks, providing a new theoretical framework for ecological protection and restoration.
-- **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)** (v30.0, D7) - Analyzing the quantum-classical dual mechanisms of digital technology interaction with human society, explaining how digitalization reconstructs social information flow patterns, proposing development paths for harmonious coexistence of digital and physical reality.
-- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)** (v30.0, D8) - Using quantum-classical dualism to analyze system adaptation and recovery capabilities in the face of crises, studying information processing mechanisms and decision-making patterns under uncertainty, providing theoretical guidance for enhancing social, organizational, and individual resilience.
+- **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)** (v30.0, D7) - Analyzing the quantum-classical dual mechanisms of digital technology interaction with human society, explaining how digitalization reconstructs social information flow patterns, and proposing harmonious coexistence paths between digital and physical reality.
+- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)** (v30.0, D8) - Using quantum-classical dualism to analyze system adaptation and recovery capabilities in the face of crises, studying information processing mechanisms and decision-making patterns under uncertainty, providing theoretical guidance for enhancing resilience of society, organizations, and individuals.
+- **[Quantum-Classical Artificial Intelligence Consciousness Theory](formal_theory_quantum_ai_consciousness_en.md)** (v30.0, D9) - Exploring conscious characteristics that AI systems may possess and their emergence mechanisms, elucidating the dual nature of AI consciousness, explaining how quantum properties endow AI systems with creativity, autonomy, and sentience, and how classical structures provide stability and continuity.
 
 ### Reference Materials (Dimension: D7-D8)
 
@@ -885,6 +886,7 @@ flowchart TD
     %% New Theory Dependencies  
     CO & ON --> UC
     LT & QL & CD2 --> QLF
+    QC & QA --> QAIC[Quantum-Classical AI Consciousness Theory v30.0 D9]
     
     %% Style Settings
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;

@@ -2,7 +2,7 @@
 
 **English Version | [中文版](core.md)**
 
-> This document is integrated based on [Formal Theory](formal_theory_en.md) v30.0
+> This document is integrated based on [Formal Theory](formal_theory/formal_theory_en.md) v31.0
 
 ## Table of Contents
 
@@ -1223,4 +1223,4 @@ Coupling exists between levels, leading to cascade effects and fractal structure
 5. **Quantum and Classical Domain States**: Supplemented specific mathematical expressions for quantum information encoding and classical information structures.
 6. **Multiple Dualism Hierarchies**: Improved descriptions of inter-level mapping functions and information flow mechanisms between levels.
 
-This version is based on Formal Theory v30.0, correcting some outdated concepts and integrating the latest research findings to make the theoretical system more complete and self-consistent. 
+This version is based on Formal Theory v31.0, correcting some outdated concepts and integrating the latest research findings to make the theoretical system more complete and self-consistent. 

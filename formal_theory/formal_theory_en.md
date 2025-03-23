@@ -2,7 +2,7 @@
 
 **English Version | [中文版](formal_theory.md)**
 
-> This theory is based on [Core Theory](core_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v29.0
 
 ## Complete Description of Core Theory
 
@@ -500,7 +500,7 @@ The higher the dimension value, the more the theory emphasizes quantum domain ch
 
 ### Core Theory (Dimension: Full Spectrum D∞)
 
-- **[Core Theory (This Document)](formal_theory_en.md)** (v30.0, D∞) - Provides the basic axiom system and conceptual framework for dualism, spanning all dimensional levels, serving as the foundation for all branch theories.
+- **[Core Theory](../core_en.md)** (v30.0, D∞) - Provides the basic axiom system and conceptual framework for dualism, spanning all dimensional levels, serving as the foundation for all branch theories.
 
 ### Foundation Framework Theories (Dimension: D7-D9)
 

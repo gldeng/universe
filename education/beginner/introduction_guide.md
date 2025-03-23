@@ -98,7 +98,7 @@ $$
 2. 学习[理论基础深度讲解](../intermediate/theoretical_foundations.md)
 3. 尝试理解[基本数学表达](../intermediate/mathematical_introduction.md)
 4. 研究[观察者维度详解](../intermediate/observer_dimensions.md)
-5. 参与[实践练习与应用](../intermediate/practical_exercises.md)
+5. 参与[实践练习与应用](../intermediate/classicalization_case_studies.md)
 
 ## 常见误解澄清
 
@@ -215,7 +215,7 @@ Try these simple exercises to help you understand Quantum-Classical Dualism:
 2. Learn [In-depth Explanation of Theoretical Foundations](../intermediate/theoretical_foundations.md)
 3. Try to understand [Basic Mathematical Expressions](../intermediate/mathematical_introduction.md)
 4. Study [Detailed Analysis of Observer Dimensions](../intermediate/observer_dimensions.md)
-5. Participate in [Practical Exercises and Applications](../intermediate/practical_exercises.md)
+5. Participate in [Practical Exercises and Applications](../intermediate/classicalization_case_studies.md)
 
 ## Clarification of Common Misconceptions
 

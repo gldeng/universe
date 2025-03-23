@@ -37,13 +37,13 @@ This directory explores the applications of Universe Observer Theory in interper
    - 提出基于维度提升的冲突解决框架
    - 分析冲突在宇宙自我经典化过程中的进化意义
 
-2. [亲子关系理论](parent_child.md)
+2. [亲子关系理论](love_attraction.md)
    - 生育过程的量子经典解释模型
    - 亲子量子纠缠的理论框架
    - 妊娠期量子信息传递机制
    - 超越DNA的信息传递理论
 
-3. [社会行为中的量子纠缠效率](social_entanglement.md)
+3. [社会行为中的量子纠缠效率](collective_social_entanglement.md)
    - 社会行为中量子纠缠效率的排序框架
    - 高效纠缠、中等效率纠缠和低效纠缠的分类标准
    - 不同社会关系的量子纠缠特性分析
@@ -105,13 +105,13 @@ This directory contains application theories of Quantum-Classical Dualism in the
    - Proposing a conflict resolution framework based on dimension elevation
    - Analyzing the evolutionary significance of conflicts in the universe's self-classicalization process
 
-2. [Parent-Child Relationship Theory](parent_child.md)
+2. [Parent-Child Relationship Theory](love_attraction.md)
    - Quantum-classical explanation model of the reproduction process
    - Theoretical framework of parent-child quantum entanglement
    - Quantum information transfer mechanism during pregnancy
    - Theory of information transfer beyond DNA
 
-3. [Quantum Entanglement Efficiency in Social Behaviors](social_entanglement.md)
+3. [Quantum Entanglement Efficiency in Social Behaviors](collective_social_entanglement.md)
    - Ranking framework of quantum entanglement efficiency in social behaviors
    - Classification criteria for high-efficiency, medium-efficiency, and low-efficiency entanglement
    - Analysis of quantum entanglement characteristics in different social relationships

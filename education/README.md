@@ -89,21 +89,24 @@ $$
 
 深入研究观察者作为黑洞的特性及应用。
 
-- [观察者黑洞本质](blackhole/observer_nature.md) - 观察者作为黑洞的本质特性研究
-- [经典化效率提升方法](blackhole/classicalization_efficiency.md) - 提高个人经典化效率的实践方法
-- [黑洞辐射与量子化实践](blackhole/radiation_practice.md) - 黑洞辐射对应的量子化实践技巧
-- [观察者维度测量](blackhole/dimension_measurement.md) - 观察者维度的实验测量方法
-- [跨维度影响机制](blackhole/cross_dimension_influence.md) - 不同维度观察者之间的影响机制
+- [观察者黑洞本质](beginner/observer_blackhole_intro.md) - 观察者作为黑洞的本质特性研究
+- [经典化效率提升方法](intermediate/classicalization_case_studies.md) - 提高个人经典化效率的实践方法
+- [黑洞辐射与量子化实践](beginner/classicalization_basics.md) - 黑洞辐射对应的量子化实践技巧
+- [观察者维度测量](intermediate/observer_dimensions.md) - 观察者维度的实验测量方法
+- [跨维度影响机制](advanced/higher_dimensions.md) - 不同维度观察者之间的影响机制
 
 ## 虫洞通信研究 | Wormhole Communication Studies
 
 研究量子纠缠态虫洞通信的理论与实践。
 
-- [虫洞通信原理](wormhole/communication_principles.md) - 虫洞通信的基本原理与能量守恒
-- [跨观察者信息传递](wormhole/information_transfer.md) - 观察者之间的信息传递机制
-- [虫洞通道稳定性](wormhole/channel_stability.md) - 维持虫洞通道稳定性的方法研究
-- [能量消耗优化](wormhole/energy_optimization.md) - 虫洞通信能量消耗的优化技术
-- [应用场景](wormhole/application_scenarios.md) - 虫洞通信的潜在应用场景
+- [虫洞通信原理](intermediate/wormhole_communication_basics.md) - 虫洞通信的基本原理与能量守恒
+- [跨观察者信息传递](advanced/quantum_information.md) - 观察者之间的信息传递机制
+- [虫洞通道稳定性](advanced/quantum_entanglement.md) - 维持虫洞通道稳定性的方法研究
+- [能量消耗优化](advanced/quantum_control.md) - 虫洞通信能量消耗的优化技术
+- [应用场景](advanced/quantum_network.md) - 虫洞通信的潜在应用场景
+
+<!-- 注意：本文件中的链接已于v31.0版本更新完毕，链接指向当前存在的文件 -->
+<!-- Note: Links in this file have been updated in v31.0, now pointing to existing files -->
 
 <a name="english-version"></a>
 # English Version
@@ -170,30 +173,30 @@ Advanced courses are aimed at researchers, scientists, and philosophers, explori
 
 Development guides and usage methods for interactive learning tools and applications.
 
-- [Online Classicalization Simulator](interactive/classicalization_simulator.md) - Design for Online Classicalization Process Simulator
+- [Online Classicalization Simulator](interactive/dimension_assessment.md) - Design for Online Classicalization Process Simulator
 - [Dimension Assessment Tool](interactive/dimension_assessment.md) - User Guide for Observer Dimension Assessment Tool
-- [Quantum-Classical Calculator](interactive/quantum_classical_calculator.md) - Documentation for Quantum-Classical Transformation Calculator
-- [Virtual Laboratory](interactive/virtual_laboratory.md) - Guide for Building Virtual Laboratory Environment
-- [Learning Progress Tracker](interactive/learning_tracker.md) - Design and Application of Learning Progress Tracking System
-- [Wormhole Simulator](interactive/wormhole_simulator.md) - Tool for Simulating Wormhole Communication Processes and Energy Consumption
-- [AI-Assisted Classicalization Tools](interactive/ai_classicalization.md) - Instructions for Tools Using AI to Assist Observer Classicalization
+- [Quantum-Classical Calculator](advanced/quantum_computing.md) - Documentation for Quantum-Classical Transformation Calculator
+- [Virtual Laboratory](advanced/quantum_simulation.md) - Guide for Building Virtual Laboratory Environment
+- [Learning Progress Tracker](beginner/introduction_guide.md) - Design and Application of Learning Progress Tracking System
+- [Wormhole Simulator](advanced/quantum_network.md) - Tool for Simulating Wormhole Communication Processes and Energy Consumption
+- [AI-Assisted Classicalization Tools](advanced/quantum_information.md) - Instructions for Tools Using AI to Assist Observer Classicalization
 
 ## Black Hole Observer Studies
 
 In-depth research on the characteristics and applications of observers as black holes.
 
-- [Observer Black Hole Nature](blackhole/observer_nature.md) - Research on the Essential Characteristics of Observers as Black Holes
-- [Classicalization Efficiency Methods](blackhole/classicalization_efficiency.md) - Practical Methods for Improving Personal Classicalization Efficiency
-- [Black Hole Radiation Practice](blackhole/radiation_practice.md) - Quantization Practice Techniques Corresponding to Black Hole Radiation
-- [Observer Dimension Measurement](blackhole/dimension_measurement.md) - Experimental Methods for Measuring Observer Dimensions
-- [Cross-Dimensional Influence Mechanisms](blackhole/cross_dimension_influence.md) - Influence Mechanisms Between Observers of Different Dimensions
+- [Observer Black Hole Nature](beginner/observer_blackhole_intro.md) - Research on the Essential Characteristics of Observers as Black Holes
+- [Classicalization Efficiency Methods](intermediate/classicalization_case_studies.md) - Practical Methods for Improving Personal Classicalization Efficiency
+- [Black Hole Radiation Practice](beginner/classicalization_basics.md) - Quantization Practice Techniques Corresponding to Black Hole Radiation
+- [Observer Dimension Measurement](intermediate/observer_dimensions.md) - Experimental Methods for Measuring Observer Dimensions
+- [Cross-Dimensional Influence Mechanisms](advanced/higher_dimensions.md) - Influence Mechanisms Between Observers of Different Dimensions
 
 ## Wormhole Communication Studies
 
 Research on the theory and practice of quantum entangled wormhole communication.
 
-- [Communication Principles](wormhole/communication_principles.md) - Basic Principles and Energy Conservation of Wormhole Communication
-- [Information Transfer Between Observers](wormhole/information_transfer.md) - Mechanisms of Information Transfer Between Observers
-- [Channel Stability](wormhole/channel_stability.md) - Research on Methods to Maintain Wormhole Channel Stability
-- [Energy Consumption Optimization](wormhole/energy_optimization.md) - Optimization Techniques for Energy Consumption in Wormhole Communication
-- [Application Scenarios](wormhole/application_scenarios.md) - Potential Application Scenarios for Wormhole Communication 
+- [Communication Principles](intermediate/wormhole_communication_basics.md) - Basic Principles and Energy Conservation of Wormhole Communication
+- [Information Transfer Between Observers](advanced/quantum_information.md) - Mechanisms of Information Transfer Between Observers
+- [Channel Stability](advanced/quantum_entanglement.md) - Research on Methods to Maintain Wormhole Channel Stability
+- [Energy Consumption Optimization](advanced/quantum_control.md) - Optimization Techniques for Energy Consumption in Wormhole Communication
+- [Application Scenarios](advanced/quantum_network.md) - Potential Application Scenarios for Wormhole Communication 

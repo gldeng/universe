@@ -36,31 +36,31 @@ This directory explores the mathematical applications and foundations of the Uni
    - 维度动态变化的微分方程组
    - 维度提升的收益函数与成本函数
 
-2. [经典化效率的数学框架](classicalization_efficiency_math.md)
+2. [经典化效率的数学框架](mathematical_bridges.md)
    - 经典化效率的测量理论
    - 经典化效率与观察者维度的数学关系
    - 多维观察下的经典化效率张量
    - 经典化效率优化的变分方法
 
-3. [多观察者系统的量子纠缠模型](multi_observer_entanglement.md)
+3. [多观察者系统的量子纠缠模型](mathematical_bridges.md)
    - 多观察者量子纠缠的数学表示
    - 观察者间纠缠强度的量化方法
    - 纠缠网络的拓扑结构与动力学
    - 集体观察导致的量子退相干模型
 
-4. [经典熵的微分几何模型](classical_entropy_geometry.md)
+4. [经典熵的微分几何模型](mathematical_bridges.md)
    - 经典熵作为信息流形上的度量
    - 经典熵与Fisher信息度量的关系
    - 熵梯度流和最小熵路径
    - 多观察者系统的熵曲率分析
 
-5. [量子经典二元论的统计推断](statistical_inference.md)
+5. [量子经典二元论的统计推断](mathematical_bridges.md)
    - 基于量子贝叶斯方法的观察者推断
    - 经典化过程的统计力学模型
    - 信息熵与统计复杂度的关系
    - 观察者知识的概率图模型
 
-6. [自由意志的随机过程模型](free_will_stochastic.md)
+6. [自由意志的随机过程模型](mathematical_bridges.md)
    - 自由意志作为受限随机过程
    - 决策空间的拓扑结构
    - 意志力作为随机过程的偏差参数
@@ -107,31 +107,31 @@ This directory contains mathematical applications of Quantum-Classical Dualism, 
    - Differential equations for dimensional dynamics
    - Benefit and cost functions for dimension elevation
 
-2. [Mathematical Framework for Classicalization Efficiency](classicalization_efficiency_math.md)
+2. [Mathematical Framework for Classicalization Efficiency](mathematical_bridges.md)
    - Measurement theory for classicalization efficiency
    - Mathematical relationship between classicalization efficiency and observer dimension
    - Classicalization efficiency tensor in multi-dimensional observation
    - Variational methods for optimizing classicalization efficiency
 
-3. [Quantum Entanglement Models for Multi-Observer Systems](multi_observer_entanglement.md)
+3. [Quantum Entanglement Models for Multi-Observer Systems](mathematical_bridges.md)
    - Mathematical representation of multi-observer quantum entanglement
    - Quantification methods for entanglement strength between observers
    - Topological structure and dynamics of entanglement networks
    - Quantum decoherence models resulting from collective observation
 
-4. [Differential Geometric Models of Classical Entropy](classical_entropy_geometry.md)
+4. [Differential Geometric Models of Classical Entropy](mathematical_bridges.md)
    - Classical entropy as a metric on information manifold
    - Relationship between classical entropy and Fisher information metric
    - Entropy gradient flow and minimum entropy paths
    - Entropy curvature analysis in multi-observer systems
 
-5. [Statistical Inference in Quantum-Classical Dualism](statistical_inference.md)
+5. [Statistical Inference in Quantum-Classical Dualism](mathematical_bridges.md)
    - Observer inference based on quantum Bayesian methods
    - Statistical mechanics models of classicalization processes
    - Relationship between information entropy and statistical complexity
    - Probabilistic graphical models of observer knowledge
 
-6. [Stochastic Process Models of Free Will](free_will_stochastic.md)
+6. [Stochastic Process Models of Free Will](mathematical_bridges.md)
    - Free will as constrained stochastic processes
    - Topological structure of decision space
    - Willpower as bias parameters in stochastic processes

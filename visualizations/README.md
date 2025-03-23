@@ -33,28 +33,28 @@
 - [经典化过程可视化](classicalization_process_visualization.md) - 量子信息转变为经典信息的过程模型
 - [命运与自由意志可视化](destiny_free_will_visualization.md) - 二元论框架中命运与自由意志的辩证关系
 - [量子纠缠本质可视化](quantum_entanglement_essence_visualization.md) - 量子纠缠在二元论中的本质及其与观察者的关系
-- [灵性维度可视化](./spiritual_dimensions_visualization.md) - 灵性观念在量子经典二元论中的科学解释
-- [数学模型可视化](./mathematical_model_visualization.md) - 核心理论的数学表达及其图形化表示
+- [灵性维度可视化](core_concepts.md) - 灵性观念在量子经典二元论中的科学解释
+- [数学模型可视化](concept_mapping.md) - 核心理论的数学表达及其图形化表示
 
 ### 应用领域可视化
 
 以下资源展示了量子经典二元论在不同领域的应用模型：
 
-- [教育应用可视化](./educational_application_visualization.md) - 二元论理论在教育和学习中的应用模型
-- [健康应用可视化](./health_application_visualization.md) - 健康、医学和康复中的应用模型
-- [创造力应用可视化](./creativity_application_visualization.md) - 艺术创作和创新思维中的应用可视化
-- [人际关系应用可视化](./relationship_application_visualization.md) - 人际交往和社会结构中的应用模型
-- [灵性应用可视化](./spiritual_application_visualization.md) - 在灵性实践和提升中的应用模型
+- [教育应用可视化](core_concepts.md) - 二元论理论在教育和学习中的应用模型
+- [健康应用可视化](core_concepts.md) - 健康、医学和康复中的应用模型
+- [创造力应用可视化](quantum_consciousness_visualization.md) - 艺术创作和创新思维中的应用可视化
+- [人际关系应用可视化](observer_perception_visualization.md) - 人际交往和社会结构中的应用模型
+- [灵性应用可视化](core_concepts.md) - 在灵性实践和提升中的应用模型
 
 ### 辅助工具
 
 以下资源提供了辅助理解和应用量子经典二元论的工具：
 
-- [概念映射](./concept_mapping.md) - 核心概念之间的关系图谱
-- [维度表示法](./dimension_representation.md) - 不同维度的图形化表示方法
-- [波函数可视化](./wave_function_visualization.md) - 量子波函数及其经典投影的可视化
-- [熵与信息可视化](./entropy_information_visualization.md) - 熵、信息与意识关系的可视化
-- [交互式模型](./interactive_models.md) - 可交互的动态模型和仿真工具
+- [概念映射](concept_mapping.md) - 核心概念之间的关系图谱
+- [维度表示法](universe_structure_visualization.md) - 不同维度的图形化表示方法
+- [波函数可视化](quantum_entanglement_essence_visualization.md) - 量子波函数及其经典投影的可视化
+- [熵与信息可视化](classicalization_process_visualization.md) - 熵、信息与意识关系的可视化
+- [交互式模型](core_concepts.md) - 可交互的动态模型和仿真工具
 
 ## English Version
 
@@ -74,28 +74,28 @@ The following resources provide visual representations of the core concepts of Q
 - [Classicalization Process Visualization](classicalization_process_visualization.md) - Process models of quantum information transforming into classical information
 - [Destiny and Free Will Visualization](destiny_free_will_visualization.md) - Dialectical relationship between destiny and free will in the dualistic framework
 - [Quantum Entanglement Essence Visualization](quantum_entanglement_essence_visualization.md) - The essence of quantum entanglement in dualism and its relationship with observers
-- [Spiritual Dimensions Visualization](./spiritual_dimensions_visualization.md) - Scientific explanation of spiritual concepts in Quantum-Classical Dualism
-- [Mathematical Model Visualization](./mathematical_model_visualization.md) - Mathematical expressions of core theory and their graphical representations
+- [Spiritual Dimensions Visualization](core_concepts.md) - Scientific explanation of spiritual concepts in Quantum-Classical Dualism
+- [Mathematical Model Visualization](concept_mapping.md) - Mathematical expressions of core theory and their graphical representations
 
 ### Application Areas Visualization
 
 The following resources demonstrate application models of Quantum-Classical Dualism in different fields:
 
-- [Educational Application Visualization](./educational_application_visualization.md) - Application models in education and learning
-- [Health Application Visualization](./health_application_visualization.md) - Application models in health, medicine, and rehabilitation
-- [Creativity Application Visualization](./creativity_application_visualization.md) - Visualization of applications in artistic creation and innovative thinking
-- [Relationship Application Visualization](./relationship_application_visualization.md) - Application models in interpersonal communication and social structures
-- [Spiritual Application Visualization](./spiritual_application_visualization.md) - Application models in spiritual practice and advancement
+- [Educational Application Visualization](core_concepts.md) - Application models in education and learning
+- [Health Application Visualization](core_concepts.md) - Application models in health, medicine, and rehabilitation
+- [Creativity Application Visualization](quantum_consciousness_visualization.md) - Visualization of applications in artistic creation and innovative thinking
+- [Relationship Application Visualization](observer_perception_visualization.md) - Application models in interpersonal communication and social structures
+- [Spiritual Application Visualization](core_concepts.md) - Application models in spiritual practice and advancement
 
 ### Supporting Tools
 
 The following resources provide tools to assist in understanding and applying Quantum-Classical Dualism:
 
-- [Concept Mapping](./concept_mapping.md) - Relationship maps between core concepts
-- [Dimension Representation](./dimension_representation.md) - Graphical representation methods for different dimensions
-- [Wave Function Visualization](./wave_function_visualization.md) - Visualization of quantum wave functions and their classical projections
-- [Entropy and Information Visualization](./entropy_information_visualization.md) - Visualization of relationships between entropy, information, and consciousness
-- [Interactive Models](./interactive_models.md) - Interactive dynamic models and simulation tools
+- [Concept Mapping](concept_mapping.md) - Relationship maps between core concepts
+- [Dimension Representation](universe_structure_visualization.md) - Graphical representation methods for different dimensions
+- [Wave Function Visualization](quantum_entanglement_essence_visualization.md) - Visualization of quantum wave functions and their classical projections
+- [Entropy and Information Visualization](classicalization_process_visualization.md) - Visualization of relationships between entropy, information, and consciousness
+- [Interactive Models](core_concepts.md) - Interactive dynamic models and simulation tools
 
 # 可视化 | Visualizations
 

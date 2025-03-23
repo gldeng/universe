@@ -33,23 +33,23 @@ This directory contains explanations of major Confucian scriptures based on the 
 4. [中庸 (Doctrine of the Mean)](Doctrine_of_the_Mean.md)
 
 ### 五经 (Five Classics)
-1. [诗经 (Book of Songs)](Book_of_Songs.md)
-2. [尚书 (Book of Documents)](Book_of_Documents.md)
-3. [礼记 (Book of Rites)](Book_of_Rites.md)
-4. [周易 (Book of Changes / I Ching)](I_Ching.md)
-5. [春秋 (Spring and Autumn Annals)](Spring_and_Autumn_Annals.md)
+1. [诗经 (Book of Songs)](Book_of_Songs.md) <!-- 待创建 -->
+2. [尚书 (Book of Documents)](Book_of_Documents.md) <!-- 待创建 -->
+3. [礼记 (Book of Rites)](Book_of_Rites.md) <!-- 待创建 -->
+4. [周易 (Book of Changes / I Ching)](I_Ching.md) <!-- 待创建 -->
+5. [春秋 (Spring and Autumn Annals)](Spring_and_Autumn_Annals.md) <!-- 待创建 -->
 
 ### 宋明理学 (Neo-Confucianism)
-1. [二程全书 (Complete Works of the Cheng Brothers)](Cheng_Brothers.md)
-2. [朱子全书 (Complete Works of Zhu Xi)](Zhu_Xi.md)
-3. [王阳明全集 (Complete Works of Wang Yangming)](Wang_Yangming.md)
-4. [近思录 (Reflections on Things at Hand)](Reflections_on_Things_at_Hand.md)
+1. [二程全书 (Complete Works of the Cheng Brothers)](Cheng_Brothers.md) <!-- 待创建 -->
+2. [朱子全书 (Complete Works of Zhu Xi)](Zhu_Xi.md) <!-- 待创建 -->
+3. [王阳明全集 (Complete Works of Wang Yangming)](Wang_Yangming.md) <!-- 待创建 -->
+4. [近思录 (Reflections on Things at Hand)](Reflections_on_Things_at_Hand.md) <!-- 待创建 -->
 
 ### 现代新儒家 (Modern New Confucianism)
-1. [梁漱溟著作 (Works of Liang Shuming)](Liang_Shuming.md)
-2. [牟宗三著作 (Works of Mou Zongsan)](Mou_Zongsan.md)
-3. [徐复观著作 (Works of Xu Fuguan)](Xu_Fuguan.md)
-4. [杜维明著作 (Works of Tu Weiming)](Tu_Weiming.md)
+1. [梁漱溟著作 (Works of Liang Shuming)](Liang_Shuming.md) <!-- 待创建 -->
+2. [牟宗三著作 (Works of Mou Zongsan)](Mou_Zongsan.md) <!-- 待创建 -->
+3. [徐复观著作 (Works of Xu Fuguan)](Xu_Fuguan.md) <!-- 待创建 -->
+4. [杜维明著作 (Works of Tu Weiming)](Tu_Weiming.md) <!-- 待创建 -->
 
 ## 经典分类 (Scripture Classifications)
 

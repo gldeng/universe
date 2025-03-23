@@ -4,7 +4,7 @@
 ## 导航 | Navigation
 - [中文版](#中文版)
 - [English Version](#english-version)
-- [返回数学应用目录](./README.md)
+- [返回数学应用目录](README.md)
 
 ## 中文版
 

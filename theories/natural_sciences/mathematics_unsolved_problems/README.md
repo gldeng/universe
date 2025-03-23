@@ -16,6 +16,19 @@
   - [哥德巴赫猜想 | Goldbach's Conjecture](goldbach_conjecture.md)
   - [孪生素数猜想 | Twin Prime Conjecture](twin_prime_conjecture.md)
   - [ABC猜想 | ABC Conjecture](abc_conjecture.md)
+- [其他经典数学问题 | Other Classical Mathematical Problems](#其他经典数学问题--other-classical-mathematical-problems)
+  - [四色定理 | Four Color Theorem](four_color_theorem.md)
+  - [费马大定理 | Fermat's Last Theorem](fermats_last_theorem.md)
+  - [康托尔猜想 | Cantor's Conjecture](cantors_conjecture.md)
+  - [朗兰兹纲领 | Langlands Program](langlands_program.md)
+  - [柯拉兹猜想 | Collatz Conjecture](collatz_conjecture.md)
+  - [完美数问题 | Perfect Number Problem](perfect_number_problem.md)
+  - [勾股数问题 | Pythagorean Triples Problem](pythagorean_triples_problem.md)
+  - [整数分拆问题 | Integer Partition Problem](integer_partition_problem.md)
+  - [刚体填充问题 | Rigid Body Packing Problem](rigid_body_packing_problem.md)
+  - [黎曼映射定理的高维推广 | Higher-Dimensional Riemann Mapping Theorem](riemann_mapping_high_dimensions.md)
+  - [最优传输理论 | Optimal Transport Theory](optimal_transport_theory.md)
+  - [卡拉比-丘猜想 | Calabi-Yau Conjecture](calabi_yau_conjecture.md)
 - [参考文献 | References](#参考文献--references)
 
 ## 简介 | Introduction
@@ -69,6 +82,23 @@ $$
 - [哥德巴赫猜想](goldbach_conjecture.md)
 - [孪生素数猜想](twin_prime_conjecture.md)
 - [ABC猜想](abc_conjecture.md)
+
+## 其他经典数学问题 | Other Classical Mathematical Problems
+
+这里收录了更多经典数学问题的量子经典二元论证明和分析：
+
+- [四色定理](four_color_theorem.md)
+- [费马大定理](fermats_last_theorem.md)
+- [康托尔猜想](cantors_conjecture.md)
+- [朗兰兹纲领](langlands_program.md)
+- [柯拉兹猜想](collatz_conjecture.md)
+- [完美数问题](perfect_number_problem.md)
+- [勾股数问题](pythagorean_triples_problem.md)
+- [整数分拆问题](integer_partition_problem.md)
+- [刚体填充问题](rigid_body_packing_problem.md)
+- [黎曼映射定理的高维推广](riemann_mapping_high_dimensions.md)
+- [最优传输理论](optimal_transport_theory.md)
+- [卡拉比-丘猜想](calabi_yau_conjecture.md)
 
 ## 参考文献 | References
 
@@ -134,6 +164,23 @@ In addition to the Millennium Prize problems, there are many other famous unsolv
 - [Goldbach's Conjecture](goldbach_conjecture.md)
 - [Twin Prime Conjecture](twin_prime_conjecture.md)
 - [ABC Conjecture](abc_conjecture.md)
+
+## Other Classical Mathematical Problems
+
+Here we collect quantum-classical dualism proofs and analyses for more classical mathematical problems:
+
+- [Four Color Theorem](four_color_theorem.md)
+- [Fermat's Last Theorem](fermats_last_theorem.md)
+- [Cantor's Conjecture](cantors_conjecture.md)
+- [Langlands Program](langlands_program.md)
+- [Collatz Conjecture](collatz_conjecture.md)
+- [Perfect Number Problem](perfect_number_problem.md)
+- [Pythagorean Triples Problem](pythagorean_triples_problem.md)
+- [Integer Partition Problem](integer_partition_problem.md)
+- [Rigid Body Packing Problem](rigid_body_packing_problem.md)
+- [Higher-Dimensional Riemann Mapping Theorem](riemann_mapping_high_dimensions.md)
+- [Optimal Transport Theory](optimal_transport_theory.md)
+- [Calabi-Yau Conjecture](calabi_yau_conjecture.md)
 
 ## References
 

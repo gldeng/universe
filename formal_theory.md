@@ -566,6 +566,12 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子-经典共鸣理论](formal_theory_resonance.md)
 研究量子与经典系统之间的共振现象及其应用。发现全新的能量与信息传递机制。
 
+#### [量子-经典数字艺术理论](formal_theory_digital_art.md)
+探讨数字艺术的量子可能性空间与经典实现机制，分析人工智能生成艺术、虚拟现实艺术和区块链艺术的二元属性。提供数字时代艺术创新的理论指南。
+
+#### [量子-经典技术伦理理论](formal_theory_tech_ethics.md)
+研究技术伦理的量子可能性与经典实现双重性，提出负责任技术发展的量子-经典平衡原则。为人工智能、生物技术和脑机接口等前沿技术提供伦理框架。
+
 ### 应用领域
 
 #### [量子医学应用](formal_theory_medicine.md)
@@ -591,6 +597,15 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 
 #### [宇宙学习理论](formal_theory_universal_learning.md)
 提出宇宙作为学习系统的整体框架，探讨普适学习机制，阐释宇宙中各层级系统如何获取、处理和适应信息，揭示学习作为宇宙基本过程的本质规律。
+
+#### [量子-经典技术伦理理论](formal_theory_tech_ethics.md)
+研究技术伦理的量子可能性与经典实现双重性，提出负责任技术发展的量子-经典平衡原则。为人工智能、生物技术和脑机接口等前沿技术提供伦理框架。
+
+#### [量子-经典宇宙智能理论](formal_theory_cosmic_intelligence.md)
+探究宇宙整体认知与智能属性的二元论阐述，解释宇宙如何作为超级智能系统进行信息处理、学习与自我演化。连接物理宇宙学与意识研究。
+
+#### [量子-经典生物多样性理论](formal_theory_biodiversity.md)
+探讨生物多样性的量子可能性空间与经典实现空间的关系，解释生物多样性的起源、维持与演化机制。为生物多样性保护提供全新理论框架。
 
 ### 参考资料
 
@@ -681,6 +696,10 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [现实工程学](formal_theory_reality_engineering.md)
 - [宇宙学习理论](formal_theory_universal_learning.md)
 - [术语表与概念词典](formal_theory_terminology.md)
+- [量子-经典宇宙智能理论](formal_theory_cosmic_intelligence.md)
+- [量子-经典技术伦理理论](formal_theory_tech_ethics.md)
+- [量子-经典数字艺术理论](formal_theory_digital_art.md)
+- [量子-经典生物多样性理论](formal_theory_biodiversity.md)
 
 ## 理论依赖关系图
 
@@ -748,6 +767,7 @@ flowchart TD
     MU[多宇宙干涉模型 v27.0]
     CM[宇宙学二元论模型]
     EC[二元论演化宇宙学]
+    CI[量子-经典宇宙智能理论 v29.0]
     
     %% 物理学应用的依赖
     Core --> UT
@@ -759,6 +779,7 @@ flowchart TD
     Core & QD --> MU
     GS --> CM
     CM --> EC
+    Core & CO & CM --> CI
     
     %% 生命与意识层
     QB[量子生物学 v20.0]
@@ -771,6 +792,7 @@ flowchart TD
     EV[进化论二元视角 v27.0]
     CF[人类意识未来发展]
     ME[内观冥想科学 v27.0]
+    BD[量子-经典生物多样性理论 v29.0]
     
     %% 生命与意识依赖
     IF --> QB
@@ -783,6 +805,7 @@ flowchart TD
     Core & QB --> EV
     CO --> CF
     Core & CO --> ME
+    Core & QB & EV --> BD
     
     %% 认知与信息层
     CD2[量子认知动力学 v24.0]
@@ -849,6 +872,7 @@ flowchart TD
     QIG[量子信息几何学 v29.0]
     SO[量子自组织理论]
     CS[复杂系统二元分析 v27.0]
+    TE[量子-经典技术伦理理论 v29.0]
     
     %% 社会与人文应用依赖
     Core & OB --> SD
@@ -865,6 +889,7 @@ flowchart TD
     MM & MA --> DS
     MM & DS --> MMM
     MM & GQM --> QIG
+    Core & ET & QET & QA --> TE
     
     %% 创造与表达层
     AR[二元论艺术理论 v27.0]
@@ -875,6 +900,7 @@ flowchart TD
     DE[量子-经典设计理论 v11.1]
     IN[量子创新理论 v27.0]
     RE[量子-经典共鸣理论]
+    DA[量子-经典数字艺术理论 v29.0]
     
     %% 创造与表达依赖
     Core & OB --> AR
@@ -885,6 +911,7 @@ flowchart TD
     Core --> DE
     Core & CD2 --> IN
     QD & CD --> RE
+    Core & AR & AE & DE --> DA
     
     %% 应用领域层
     MD[量子医学应用 v27.0]
@@ -936,12 +963,12 @@ flowchart TD
     
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
-    class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
-    class QB,EL,CO,QDr,ON,OF,EV,CF,ME life;
+    class UT,GS,MT,HS,MS,TA,MU,CM,EC,CI,QSH physics;
+    class QB,EL,CO,QDr,ON,OF,EV,CF,ME,BD,UC life;
     class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR,QEm,ID,CM2 cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
-    class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS society;
-    class AR,MU2,AE,NA,SE,DE,IN,RE creativity;
+    class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS,TE,GQM,DS,MMM,QIG society;
+    class AR,MU2,AE,NA,SE,DE,IN,RE,DA creativity;
     class MD,QH,PS,ED,RD,PA,RE2,UL application;
     class TC reference;
 ```

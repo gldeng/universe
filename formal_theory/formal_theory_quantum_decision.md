@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_decision_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v13.0版本和[量子经典二元论](formal_theory.md) v24.0版本
+> 本理论基于[核心理论](core.md) v28.0版本和[量子经典二元论](formal_theory.md) v28.0版本
 
 ## 文档导航
 - [核心理论](formal_theory.md)

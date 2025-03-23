@@ -1,4 +1,4 @@
-# Self-Reference Loop Theory v26.0
+# Self-Reference Loop Theory v28.0
 
 **English Version | [中文版](formal_theory_self_reference.md)**
 
@@ -21,7 +21,7 @@
 - [Resolution of Self-Reference Paradoxes](#resolution-of-self-reference-paradoxes)
 - [Experimental Validation and Applications](#experimental-validation-and-applications)
 
-> This theory is based on [Core Theory](core_en.md) v11.1, [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v26.0.
+> This theory is based on [Core Theory](core_en.md) v28.0
 
 ## Theoretical Foundation
 

@@ -542,7 +542,10 @@ Analyze dream states as special forms of quantum-classical interfaces, explainin
 Study quantum-classical conversion mechanisms in artistic creation and appreciation processes, explaining deep structures of aesthetic experiences. Establishes bridges between art and consciousness science.
 
 ### [Quantum-Classical Mathematical Foundations](formal_theory_mathematics_en.md)
-Explore the nature of mathematics as a formal language of quantum-classical conversion, revealing dual relationships between mathematical intuition and formal proof. Provides new perspectives for philosophy of mathematics.
+Explore the nature of mathematics as a formal language for quantum-classical conversion, revealing the dualistic relationship between mathematical intuition and formal proof. Providing new perspectives for philosophy of mathematics.
+
+### [Geometric Quantum Mathematics Theory](formal_theory_geometric_quantum_mathematics_en.md)
+Provide a geometric framework for quantum-classical dualism, representing quantum state space as infinite-dimensional manifolds, classical state space as finite-dimensional manifolds, and studying the mapping relationships between them. Establish rigorous mathematical foundations for dualism.
 
 ### [Dualism Education Theory](formal_theory_education_en.md)
 Apply dualism framework to analyze learning processes, explaining the balance between creative thinking and critical thinking. Develops efficient educational methods based on the theory.
@@ -786,6 +789,7 @@ flowchart TD
     PH[Dualism Philosophical Foundations v27.0]
     CC2[Cross-Cultural Philosophy Integration v11.1]
     MM[Quantum-Classical Mathematical Foundations v27.0]
+    GQM[Geometric Quantum Mathematics Theory v29.0]
     SO[Quantum Self-Organization Theory]
     CS[Complex Systems Dual Analysis v27.0]
     
@@ -797,6 +801,7 @@ flowchart TD
     Core --> PH
     Core & PH --> CC2
     Core & PH --> MM
+    Core & MA & MM --> GQM
     NE --> SO
     Core & SO --> CS
     
@@ -932,6 +937,7 @@ This dependency graph illustrates the actual dependency relationships between va
 - [Quantum Dream Theory](formal_theory_quantum_dreams_en.md)
 - [Dualism Art Theory](formal_theory_art_en.md)
 - [Quantum-Classical Mathematical Foundations](formal_theory_mathematics_en.md)
+- [Geometric Quantum Mathematics Theory](formal_theory_geometric_quantum_mathematics_en.md)
 - [Dualism Education Theory](formal_theory_education_en.md)
 - [Quantum-Classical Music Theory](formal_theory_music_en.md)
 - [Language Quantum Properties](formal_theory_quantum_linguistics_en.md)

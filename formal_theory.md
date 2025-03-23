@@ -513,6 +513,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子-经典数学基础](formal_theory_mathematics.md)
 探讨数学作为量子-经典转换形式语言的本质，揭示数学直觉与形式证明的二元关系。为数学哲学提供新视角。
 
+#### [几何量子数学理论](formal_theory_geometric_quantum_mathematics.md)
+提供量子-经典二元论的几何学框架，将量子态空间表示为无限维流形，经典态空间表示为有限维流形，并研究之间的映射关系。为二元论提供严格的数学基础。
+
 #### [量子自组织理论](formal_theory_self_organization.md)
 探索复杂系统自组织过程中的量子-经典相互作用，解释结构涌现机制。为复杂系统科学提供统一理论基础。
 
@@ -632,6 +635,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [量子梦境理论](formal_theory_quantum_dreams.md)
 - [二元论艺术理论](formal_theory_art.md)
 - [量子-经典数学基础](formal_theory_mathematics.md)
+- [几何量子数学理论](formal_theory_geometric_quantum_mathematics.md)
 - [二元论教育理论](formal_theory_education.md)
 - [量子-经典音乐理论](formal_theory_music.md)
 - [语言量子性](formal_theory_quantum_linguistics.md)
@@ -823,6 +827,7 @@ flowchart TD
     PH[二元论哲学基础 v27.0]
     CC2[跨文化哲学整合 v11.1]
     MM[量子-经典数学基础 v27.0]
+    GQM[几何量子数学理论 v29.0]
     SO[量子自组织理论]
     CS[复杂系统二元分析 v27.0]
     
@@ -835,6 +840,7 @@ flowchart TD
     Core --> PH
     Core & PH --> CC2
     Core & PH --> MM
+    Core & MA & MM --> GQM
     NE --> SO
     Core & SO --> CS
     

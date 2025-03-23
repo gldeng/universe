@@ -182,12 +182,12 @@
 
 #### 宗教经典 | Religious Classics
 - [宗教经典概述](README.md) - 宗教经典在量子经典二元论下的解读 (Religious Classics Interpreted Through Quantum-Classical Dualism)
-- [圣经](./religious_classics/Bible.md) - 圣经在量子经典二元论下的解读 (Bible Interpreted Through Quantum-Classical Dualism)
-- [古兰经](./religious_classics/Quran.md) - 古兰经在量子经典二元论下的解读 (Quran Interpreted Through Quantum-Classical Dualism)
-- [佛经](./religious_classics/Buddhist_Sutras.md) - 佛经在量子经典二元论下的解读 (Buddhist Sutras Interpreted Through Quantum-Classical Dualism)
+- [圣经](religious_classics/Bible.md) - 圣经在量子经典二元论下的解读 (Bible Interpreted Through Quantum-Classical Dualism)
+- [古兰经](religious_classics/Quran.md) - 古兰经在量子经典二元论下的解读 (Quran Interpreted Through Quantum-Classical Dualism)
+- [佛经](religious_classics/Buddhist_Sutras.md) - 佛经在量子经典二元论下的解读 (Buddhist Sutras Interpreted Through Quantum-Classical Dualism)
 - [道德经](religions/taoism_scriptures/Tao_Te_Ching.md) - 道德经在量子经典二元论下的解读 (Tao Te Ching Interpreted Through Quantum-Classical Dualism)
-- [吠陀经](./religious_classics/Vedas.md) - 吠陀经在量子经典二元论下的解读 (Vedas Interpreted Through Quantum-Classical Dualism)
-- [犹太经典](./religious_classics/Torah.md) - 犹太经典在量子经典二元论下的解读 (Torah Interpreted Through Quantum-Classical Dualism)
+- [吠陀经](religious_classics/Vedas.md) - 吠陀经在量子经典二元论下的解读 (Vedas Interpreted Through Quantum-Classical Dualism)
+- [犹太经典](religious_classics/Torah.md) - 犹太经典在量子经典二元论下的解读 (Torah Interpreted Through Quantum-Classical Dualism)
 - [论语](religions/confucianism_scriptures/Analects.md) - 论语在量子经典二元论下的解读 (Analects Interpreted Through Quantum-Classical Dualism)
 - [格兰特经](religions/sikhism_scriptures/Guru_Granth_Sahib.md) - 格兰特经在量子经典二元论下的解读 (Guru Granth Sahib Interpreted Through Quantum-Classical Dualism)
 
@@ -533,12 +533,12 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 
 #### 宗教经典 | Religious Classics
 - [宗教经典概述](README.md) - 宗教经典在量子经典二元论下的解读 (Religious Classics Interpreted Through Quantum-Classical Dualism)
-- [圣经](./religious_classics/Bible.md) - 圣经在量子经典二元论下的解读 (Bible Interpreted Through Quantum-Classical Dualism)
-- [古兰经](./religious_classics/Quran.md) - 古兰经在量子经典二元论下的解读 (Quran Interpreted Through Quantum-Classical Dualism)
-- [佛经](./religious_classics/Buddhist_Sutras.md) - 佛经在量子经典二元论下的解读 (Buddhist Sutras Interpreted Through Quantum-Classical Dualism)
+- [圣经](religious_classics/Bible.md) - 圣经在量子经典二元论下的解读 (Bible Interpreted Through Quantum-Classical Dualism)
+- [古兰经](religious_classics/Quran.md) - 古兰经在量子经典二元论下的解读 (Quran Interpreted Through Quantum-Classical Dualism)
+- [佛经](religious_classics/Buddhist_Sutras.md) - 佛经在量子经典二元论下的解读 (Buddhist Sutras Interpreted Through Quantum-Classical Dualism)
 - [道德经](religions/taoism_scriptures/Tao_Te_Ching.md) - 道德经在量子经典二元论下的解读 (Tao Te Ching Interpreted Through Quantum-Classical Dualism)
-- [吠陀经](./religious_classics/Vedas.md) - 吠陀经在量子经典二元论下的解读 (Vedas Interpreted Through Quantum-Classical Dualism)
-- [犹太经典](./religious_classics/Torah.md) - 犹太经典在量子经典二元论下的解读 (Torah Interpreted Through Quantum-Classical Dualism)
+- [吠陀经](religious_classics/Vedas.md) - 吠陀经在量子经典二元论下的解读 (Vedas Interpreted Through Quantum-Classical Dualism)
+- [犹太经典](religious_classics/Torah.md) - 犹太经典在量子经典二元论下的解读 (Torah Interpreted Through Quantum-Classical Dualism)
 - [论语](religions/confucianism_scriptures/Analects.md) - 论语在量子经典二元论下的解读 (Analects Interpreted Through Quantum-Classical Dualism)
 - [格兰特经](religions/sikhism_scriptures/Guru_Granth_Sahib.md) - 格兰特经在量子经典二元论下的解读 (Guru Granth Sahib Interpreted Through Quantum-Classical Dualism)
 
@@ -701,3 +701,15 @@ We welcome researchers, thinkers, and practitioners interested in Quantum-Classi
 
 Current Version: 2.5.0
 Last Updated: June 15, 2024
+
+#### 宗教文本分析 | Religious Texts Analysis
+- [宗教文本分析概述](religions/README.md) - 宗教文本的量子经典双视角解读
+- **佛教** - [佛教总览](religions/Buddhism.md)、[佛经解读](religions/buddhism_scriptures/README.md)
+- **道教** - [道教总览](religions/Taoism.md)、[道教经典解读](religions/taoism_scriptures/README.md)
+- **儒家** - [儒家总览](religions/Confucianism.md)、[儒家经典解读](religions/confucianism_scriptures/README.md)
+- **基督教** - [基督教总览](religions/Christianity.md)、[圣经解读](religions/christianity_scriptures/README.md)
+- **伊斯兰教** - [伊斯兰教总览](religions/Islam.md)、[古兰经解读](religions/islam_scriptures/README.md)
+- **印度教** - [印度教总览](religions/Hinduism.md)、[印度教经典解读](religions/hinduism_scriptures/README.md)
+- **犹太教** - [犹太教总览](religions/Judaism.md)、[犹太教经典解读](religions/judaism_scriptures/README.md)
+- **锡克教** - [锡克教总览](religions/Sikhism.md)、[锡克教经典解读](religions/sikhism_scriptures/README.md)
+- [圣经](religious_classics/Bible.md)、[古兰经](religious_classics/Quran.md)、[佛经](religious_classics/Buddhist_Sutras.md)、[吠陀经](religious_classics/Vedas.md)、[托拉](religious_classics/Torah.md)等宗教经典的量子经典解读

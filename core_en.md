@@ -1,8 +1,8 @@
-# [Quantum-Classical Dualism] Core Theory Version 29.0
+# [Quantum-Classical Dualism] Core Theory Version 30.0
 
-**[中文版](core.md) | English Version**
+**English Version | [中文版](core.md)**
 
-> Based on [Formal Theory](formal_theory_en.md) v29.0
+> This document is integrated based on [Formal Theory](formal_theory_en.md) v30.0
 
 ## Table of Contents
 

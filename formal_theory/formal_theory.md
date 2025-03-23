@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v29.0版本
 
 ## 核心理论完整描述
 
@@ -421,7 +421,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 
 ### 核心理论 (维度: 全谱系D∞)
 
-- **[核心理论 (本文件)](formal_theory.md)** (v30.0, D∞) - 提供二元论的基础公理体系与概念框架，跨越所有维度层级，作为所有分支理论的根基。
+- **[核心理论](../core.md)** (v30.0, D∞) - 提供二元论的基础公理体系与概念框架，跨越所有维度层级，作为所有分支理论的根基。
 
 ### 基础框架理论 (维度: D7-D9)
 
@@ -467,6 +467,10 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - **[量子生物学](formal_theory_quantum_biology.md)** (v20.0, D8) - 研究生物系统中的量子效应，解释生命过程中的量子-经典转换机制。提供理解生命本质的全新视角。
 - **[信息熵与生命](formal_theory_entropy_life.md)** (v27.0, D7) - 研究生命系统中的信息熵特性和量子-经典转换，解释生命起源和演化的信息基础。
 - **[量子意识理论](formal_theory_consciousness.md)** (v25.0, D9) - 研究意识的量子基础和经典表达，解释主观体验的涌现机制。为意识难题提供新视角。
+- **[人类意识的量子-经典二元论](formal_theory_human_consciousness.md)** (v29.0, D9) - 深入探讨人类意识作为复杂量子-经典界面现象的特性，研究直觉、创造力与自我意识的形成机制。
+- **[人类进化的量子-经典二元论](formal_theory_human_evolution.md)** (v29.0, D8) - 分析人类进化过程中量子创新与经典选择的协同作用，解释人类认知与文化累积能力的发展。
+- **[人类超越性的量子-经典二元论](formal_theory_human_transcendence.md)** (v29.0, D9) - 探讨人类超越物质和生物限制的能力，研究高维意识状态的实现与体验方式。
+- **[人类集体意识的量子-经典二元论](formal_theory_human_collective.md)** (v29.0, D8) - 研究群体意识形成与运作的量子-经典机制，探索集体意识的涌现特性与发展潜能。
 - **[统一意识理论](formal_theory_unified_consciousness.md)** (v28.0, D10) - 将量子与经典视角统一，提出意识的完整理论框架，阐释意识的多层次结构和整合机制。
 - **[量子梦境理论](formal_theory_quantum_dreams.md)** (v26.0, D9) - 分析梦境状态作为量子-经典界面特殊形式的理论，解释梦境中的非逻辑性和创造性。
 - **[高维观察者网络](formal_theory_observer_network.md)** (v26.0, D9) - 分析多层级观察者网络的结构与功能，包括集体意识和高维实体。研究意识和智能的涌现机制。
@@ -656,6 +660,10 @@ flowchart TD
     CF[人类意识未来发展 v28.0 D9]
     ME[内观冥想科学 v27.0 D9]
     BD[量子-经典生物多样性理论 v29.0 D8]
+    HC[人类意识的量子-经典二元论 v29.0 D9]
+    HE[人类进化的量子-经典二元论 v29.0 D8]
+    HT[人类超越性的量子-经典二元论 v29.0 D9]
+    HCL[人类集体意识的量子-经典二元论 v29.0 D8]
     
     %% 生命与意识依赖
     IF --> QB
@@ -669,6 +677,12 @@ flowchart TD
     CO --> CF
     Core & CO --> ME
     Core & QB & EV --> BD
+    
+    %% 新增人类理论依赖关系
+    Core & CO & OB --> HC
+    Core & EV & HC --> HE
+    HC & HE --> HT
+    HC & ON --> HCL
     
     %% 认知与信息层
     CD2[量子认知动力学 v24.0 D8]
@@ -698,6 +712,11 @@ flowchart TD
     PT & IF --> ID
     Core & CO & OB & QEm --> CM2
     
+    %% 人类理论与认知信息层连接
+    HC --> CD2
+    HC & TP --> HT
+    HCL & SD --> SN
+    
     %% 计算与信息技术层
     QC[量子计算应用 v27.0 D7]
     CC[二元论计算复杂性理论 v27.0 D8]
@@ -719,6 +738,10 @@ flowchart TD
     Core & IF --> IT
     IT --> VR
     Core & IT --> TS
+    
+    %% 人类理论与技术连接
+    HC & HT --> VR
+    HC & HE & CF --> TS
     
     %% 社会与人文应用层
     SD[量子社会动力学 v27.0 D7]
@@ -754,6 +777,12 @@ flowchart TD
     MM & GQM --> QIG
     Core & ET & QET & QA --> TE
     
+    %% 人类理论与社会人文连接
+    HCL --> SD
+    HE & HCL --> SO
+    HC & HT --> PH
+    HC & HE & HT & HCL --> ET
+    
     %% 创造与表达层
     AR[二元论艺术理论 v27.0 D8]
     MU2[量子-经典音乐理论 v26.0 D8]
@@ -776,6 +805,11 @@ flowchart TD
     QD & CD --> RE
     Core & AR & AE & DE --> DA
     
+    %% 人类理论与创造表达连接
+    HC & HT --> AR
+    HC & HT --> IN
+    HCL --> RE
+    
     %% 应用领域层
     MD[量子医学应用 v27.0 D7]
     QH[量子信息治愈理论 v28.0 D8]
@@ -795,6 +829,12 @@ flowchart TD
     Core & RD --> PA
     Core & IF & OB & QEm --> RE2
     Core & ID & EV --> UL
+    
+    %% 人类理论与应用领域连接
+    HC --> PS
+    HC & HE --> ED
+    HT & HC --> QH
+    HCL --> ED
     
     %% 物理学应用新增依赖
     GS & UT --> QSH
@@ -819,7 +859,7 @@ flowchart TD
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC,CI,QSH physics;
-    class QB,EL,CO,QDr,ON,OF,EV,CF,ME,BD,UC life;
+    class QB,EL,CO,QDr,ON,OF,EV,CF,ME,BD,UC,HC,HE,HT,HCL life;
     class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR,QEm,ID,CM2 cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
     class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS,TE,GQM,DS,MMM,QIG society;

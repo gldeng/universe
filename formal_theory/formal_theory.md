@@ -1,8 +1,8 @@
-# 量子经典二元论形式化表达 v30.0
+# 量子经典二元论形式化表达 v31.0
 
 **[English Version](../formal_theory_core_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v30.0版本
+> 本理论基于[核心理论](../core.md) v31.0版本
 > 
 > 核心理论完整摘要请查看[量子经典二元论核心理论](../formal_theory_core.md)
 

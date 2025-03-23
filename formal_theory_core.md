@@ -1,12 +1,12 @@
-# 量子经典二元论核心理论形式化描述 v30.0
+# 量子经典二元论核心理论形式化描述 v31.0
 
 **[English Version](formal_theory_core_en.md) | 中文版**
 
-> 本文件包含[核心理论](core.md) v30.0版本的核心内容摘要
+> 本文件包含[核心理论](core.md) v31.0版本的核心内容摘要
 
 ## 核心理论完整描述
 
-- [返回主理论 v30.0](formal_theory/formal_theory.md) | [量子域详细理论 v30.0](formal_theory/formal_theory_quantum_domain.md) | [经典域详细理论 v30.0](formal_theory/formal_theory_classical_domain.md) | [界面理论 v30.0](formal_theory/formal_theory_interface.md) | [观察者理论 v30.0](formal_theory/formal_theory_observer.md)
+- [返回主理论 v31.0](formal_theory/formal_theory.md) | [量子域详细理论 v31.0](formal_theory/formal_theory_quantum_domain.md) | [经典域详细理论 v31.0](formal_theory/formal_theory_classical_domain.md) | [界面理论 v31.0](formal_theory/formal_theory_interface.md) | [观察者理论 v31.0](formal_theory/formal_theory_observer.md)
 
 ### 基本定义与公理
 

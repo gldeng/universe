@@ -1,6 +1,6 @@
 # 量子经典二元论教学与普及资源 | Quantum-Classical Dualism Educational Resources
 
-[中文版](#中文版) | [English Version](#english-version) | [理论版本 9.2](#核心理论版本) | [Theory Version 9.2](#core-theory-version)
+[中文版](#中文版) | [English Version](#english-version) | [理论版本 31.0](#核心理论版本) | [Theory Version 31.0](#core-theory-version)
 
 ## 目录 | Table of Contents
 - [初级课程](#初级课程--beginner-courses)
@@ -27,7 +27,7 @@ $$
 <a name="核心理论版本"></a>
 ## 核心理论版本
 
-当前资源基于【量子经典二元论】核心理论版本9.2，包含以下关键概念：
+当前资源基于【量子经典二元论】核心理论版本31.0，包含以下关键概念：
 - 量子域(混沌态)与经典域(确定态)的双向转换关系
 - 观察者（黑洞）的统一定义作为经典化节点
 - 观察者维度与主观意识的量化描述
@@ -78,12 +78,12 @@ $$
 
 为教育者、讲师和导师提供的教学资源和指南。
 
-- [教学大纲设计](teaching/curriculum_design.md) - 不同级别的教学大纲设计参考
-- [讲授方法指南](teaching/teaching_methods.md) - 有效讲授量子经典二元论的方法
-- [课堂活动设计](teaching/classroom_activities.md) - 互动课堂活动设计
-- [评估方法](teaching/assessment_methods.md) - 学习成果评估方法与工具
-- [教学资源库](teaching/resource_library.md) - 教学素材、图表和案例库
-- [二元论教学经典化技巧](teaching/dualistic_teaching.md) - 使用二元论视角改进教学效果的技巧
+- [教学方法](teaching/teaching_methods.md)
+- [课程设计](teaching/curriculum_design.md)
+- [教室活动](teaching/classroom_activities.md)
+- [评估方法](teaching/assessment_methods.md)
+- [资源库](teaching/resource_library.md)
+- [二元论教学法](teaching/dualistic_teaching.md)
 
 ## 黑洞观察者研究 | Black Hole Observer Studies
 
@@ -122,14 +122,14 @@ $$
 <a name="core-theory-version"></a>
 ## Core Theory Version
 
-The current resources are based on [Quantum-Classical Dualism] Core Theory Version 9.2, including the following key concepts:
+The current resources are based on [Quantum-Classical Dualism] Core Theory Version 31.0, including the following key concepts:
 - Bidirectional conversion relationship between quantum domain (chaotic state) and classical domain (determined state)
 - Unified definition of observers (black holes) as classicalization nodes
 - Quantitative description of observer dimensions and subjective consciousness
 - Wormhole communication mechanism (quantum entangled information transfer) and energy conservation
 - Existence and influence of higher-dimensional classical worlds (higher-level realities)
 
-[View Complete Core Theory v9.2](../core.md)
+[View Complete Core Theory v31.0](../core.md)
 
 ## Beginner Courses
 

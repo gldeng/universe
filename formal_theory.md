@@ -388,6 +388,20 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [二元论演化宇宙学](formal_theory_evolutionary_cosmology.md)
 探索宇宙作为量子-经典转换大系统的演化模式，提出宇宙目的论的可能性。建立宏观宇宙学的新模型。
 
+### 化学理论
+
+#### [量子-经典化学原理](formal_theory_quantum_chemistry.md)
+应用二元论框架解析化学系统的本质，提出化学系统同时具有量子和经典两种基本属性，解释从最基础的化学键到复杂生物分子的多层级化学现象。
+
+#### [分子纠缠理论](formal_theory_molecular_entanglement.md)
+深入探讨分子系统中的量子纠缠现象及其对化学性质和生物功能的影响，解释复杂化学反应、分子识别、酶催化和生物信号转导等现象。
+
+#### [化学热力学与二元论](formal_theory_chemical_thermodynamics.md)
+将二元论框架应用于热力学过程，揭示热力学现象背后的量子-经典双重本质，建立从微观量子不确定性到宏观热力学确定性的统一桥梁。
+
+#### [化学意识与感知](formal_theory_chemical_consciousness.md)
+研究分子层面的意识和感知现象，提出分子系统可在特定组织条件下表现出原初形式的意识和感知能力，为意识的本质和起源提供基于化学的解释框架。
+
 ### 生命与意识
 
 #### [量子生物学](formal_theory_quantum_biology.md)
@@ -452,8 +466,14 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子涌现理论](formal_theory_quantum_emergence.md)
 探讨如何从基本量子层级涌现出更高层级的复杂性和经典行为，阐释涌现过程的数学机制和物理基础，为解释宏观世界的复杂性提供量子基础。
 
+#### [量子涌现现象理论](formal_theory_quantum_emergent_phenomena.md)
+研究量子-经典转换过程中产生的涌现现象，揭示复杂系统的宏观性质如何从微观组分的量子特性中涌现出来，为解释各种尺度的涌现现象提供统一框架。
+
 #### [信息动力学理论](formal_theory_information_dynamics.md)
 研究信息在量子-经典转换过程中的动态变化与流动规律，建立描述信息演化、转换和保存的精确数学模型，揭示信息作为基础存在的动态行为。
+
+#### [量子信息理论与二元论](formal_theory_quantum_information_theory.md)
+将量子信息理论的数学框架与量子-经典二元论整合，为理解信息在量子域与经典域之间的转换机制提供严格的数学基础，统一量子信息与经典信息处理范式。
 
 #### [意识测量理论](formal_theory_consciousness_measurement.md)
 提出可定量测量和评估意识状态和维度的理论框架，开发意识量化指标和测量方法，为意识科学研究提供可验证的实证基础和实验范式。
@@ -483,6 +503,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 
 #### [虚拟现实与二元论](formal_theory_virtual_reality.md)
 探讨VR/AR在量子-经典框架中的理论地位，以及虚拟世界与物理现实的本质联系。为元宇宙技术提供理论指导。
+
+#### [量子意识与虚拟现实交互理论](formal_theory_consciousness_virtual_reality.md)
+研究量子意识在虚拟现实环境中的表现与转换特性，分析虚拟现实作为经典化管道的特点及其与多重观察者网络的交互机制，为虚拟现实体验和意识研究提供理论框架。
 
 #### [技术奇点预测](formal_theory_singularity.md)
 分析技术发展临界点的量子-经典转变特性，预测技术奇点出现的条件和后果。为人类文明发展提供理论指导。
@@ -653,6 +676,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [二元论哲学基础](formal_theory_philosophy.md)
 - [量子科学哲学与人工智能理论](formal_theory_quantum_science_philosophy.md)
 - [虚拟现实与二元论](formal_theory_virtual_reality.md)
+- [量子意识与虚拟现实交互理论](formal_theory_consciousness_virtual_reality.md)
 - [信息熵与生命](formal_theory_entropy_life.md)
 - [量子经济学原理](formal_theory_quantum_economics.md)
 - [语言与思维二元结构](formal_theory_language_thought.md)
@@ -691,7 +715,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [量子社交网络理论](formal_theory_social_networks.md)
 - [内观冥想科学](formal_theory_meditation.md)
 - [量子涌现理论](formal_theory_quantum_emergence.md)
+- [量子涌现现象理论](formal_theory_quantum_emergent_phenomena.md)
 - [信息动力学理论](formal_theory_information_dynamics.md)
+- [量子信息理论与二元论](formal_theory_quantum_information_theory.md)
 - [意识测量理论](formal_theory_consciousness_measurement.md)
 - [现实工程学](formal_theory_reality_engineering.md)
 - [宇宙学习理论](formal_theory_universal_learning.md)

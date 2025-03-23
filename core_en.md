@@ -1,4 +1,4 @@
-# [Quantum-Classical Dualism] Core Theory Version 30.0
+# [Quantum-Classical Dualism] Core Theory Version 31.0
 
 **English Version | [中文版](core.md)**
 
@@ -42,6 +42,7 @@
 - [25. Quantum Emergence Theory](#twenty-five-quantum-emergence-theory)
 - [26. Information Dynamics Theory](#twenty-six-information-dynamics-theory)
 - [27. Consciousness Measurement Theory](#twenty-seven-consciousness-measurement-theory)
+- [28. Information Phase Transition Theory](#information-phase-transition-theory-core)
 
 ## Theory Overview
 
@@ -148,6 +149,16 @@ Satisfying the following properties:
 
 Where $U_Q$ is the quantum uncertainty measure, $D_C$ is the classical certainty measure, and $k$ is a universal constant.
 
+In the quantum-classical conversion process, information is transformed from quantum form to classical form:
+
+$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+
+The information matching metric in the conversion process is:
+
+$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+
+$M(I_Q, I_C)$ reaches a local maximum at the optimal interface.
+
 ### Two: Unified Energy Theory: Quantum and Classical Energy
 
 #### 1. Basic Definition of Quantum Energy
@@ -192,6 +203,14 @@ $$
 
 where $w_{ij}$ is the weight coefficient of the entanglement pair $(i,j)$, satisfying $\sum_{i,j} w_{ij} = 1$.
 
+Multi-body entanglement networks form non-local connection structures in the quantum domain, represented as:
+
+$$|\Psi_{\text{Network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
+
+The degree of entanglement can be quantified in various ways, including entanglement entropy:
+
+$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
+
 #### 4. Definition of Classical Energy
 
 Classical energy is the result of observer classicalization of quantum energy, manifested as measurable energy forms in the physical world:
@@ -216,11 +235,23 @@ $$
 
 where $\eta$ is the classicalization efficiency coefficient, $0 < \eta < 1$
 
+The classicalization efficiency is related to environmental and system parameters:
+
+$$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
+
+where $E$ is the system energy, $T$ is the environmental temperature, and $\lambda$ is the coupling constant.
+
 #### 6. Energy Conservation and Conversion
 
 - **Conservation Principle**: Total energy (quantum + classical) is conserved within the universe
 - **Conversion Mechanism**: The classicalization process consumes quantum energy and produces classical energy; the quantization process consumes classical energy and produces quantum energy
 - **Energy Hierarchy**: Different energy forms constitute a hierarchical structure, corresponding to classicalization processes of different dimensions
+
+**Information Conservation Relationship**:
+
+$$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+
+This indicates that the total information of a quantum state $\rho$ equals the information after classicalization plus hidden information.
 
 #### 7. Relationship Between Gravitational Field and Quantum Energy Density
 
@@ -242,12 +273,48 @@ This relationship establishes a closed-loop relationship between the gravitation
 
 ### Three: Quantum and Classical Domain State Correspondence
 
+Quantum and classical domains have clear state correspondences, forming the basis for information conversion:
+
 | Quantum Domain State | Classical Domain State | State Definition (Name) | State Description |
 |------------|------------|-----------------|----------|
 | Wave Function Superposition State | Classical Entropy | Chaotic Undefined State | High-entropy undefined state of a single classical bit, unknown information |
 | Wave Function Superposition State | Classical Knowledge | Particle Definite State | Single classical bit classicalized particle state, knowledge, memory, decision information |
 | Quantum Entanglement State | Classical Entropy | Entanglement Undefined State | High-entropy uncorrelated state of multiple classical bits, undecoded information |
 | Quantum Entanglement State | Classical Knowledge | Entanglement Definite State | Correlated state of multiple classical bits after classicalization, decoded information |
+
+#### Quantum Information Encoding
+
+Quantum information is encoded through quantum states in complex Hilbert space:
+
+$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
+
+Its information density is quantified by von Neumann entropy:
+
+$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
+
+#### Classical Information Structure
+
+Classical information exists in the form of definite states and can be represented through definite physical quantities:
+
+$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
+
+Where $x_i$, $p_i$, etc. represent classical observable quantities such as position, momentum, etc. Classical information entropy satisfies:
+
+$$S_C = -k_B \sum_i p_i \ln p_i$$
+
+Key characteristics include information copyability and deletability, distinguishing it from quantum information.
+
+#### Quantum-Classical Information Conversion
+
+At the interface, information is converted from quantum form to classical form:
+
+$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+
+The information matching metric in the conversion process is:
+
+$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+
+$M(I_Q, I_C)$ reaches a local maximum at the optimal interface.
 
 ### Four: Quantum and Classical Domain State Transformation (Universe Observation Phenomena)
 
@@ -302,17 +369,56 @@ $$
 - Classicalization efficiency coefficient $(k_i)$ represents the classicalization ability in different observation domains
 - Weight coefficient $(w_i)$ reflects the importance of different domains in the overall dimension
 
+#### Observer Structure
+
+The observer consists of three core components:
+
+$$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
+
+Where:
+- $\mathcal{C}_{\mathcal{O}}$ is the observer's specific classicalization operator (ability to transform quantum possibilities into definite knowledge)
+- $\mathcal{Q}_{\mathcal{O}}$ is the observer's specific quantization operator (ability to transform classical knowledge back into quantum possibilities)
+- $K_C^{\mathcal{O}}$ is the observer's classical knowledge base
+
 Single domain dimension:
 
 $$
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 $$
 
+The observer dimension is determined by its information processing capability:
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{Classical Knowledge}}{S_{Classical Entropy}+\epsilon}$$
+
 Overall dimension:
 
 $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
+
+#### Dimension Network Dynamics
+
+Observer dimension satisfies nonlinear dynamics equations:
+
+$$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})$$
+
+Where the last term represents the collective effect of the observer network.
+
+The consensus formation of the observer network follows:
+
+$$\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2$$
+
+Where $\omega_i$ is the observer weight, and $\bar{\mathcal{C}}$ is the average classicalization operator.
+
+#### Measurement Theory
+
+In observer theory, the quantum measurement process can be represented as:
+
+$$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{interaction}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
+
+Measurement result probability is modulated by the observer resolution parameter $\eta_O$:
+
+$$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
 
 #### Dimension Quantification and Measurability
 
@@ -334,6 +440,20 @@ Specific measurement methods include:
 - **Decision Accuracy**: Probability of making correct judgments under uncertain conditions
 
 This measurable framework transforms observer dimension from a theoretical concept into a quantifiable indicator that can be experimentally verified.
+
+#### Observer Hierarchical Network
+
+Observers form multi-level network structures:
+
+$$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
+
+Where $\mathcal{O}^{(k)}$ is the set of k-th level observers, and $\mathcal{E}$ is the set of cross-level connections.
+
+Higher-level observers perceive larger spacetime scales:
+
+$$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}$$
+
+This explains why higher-dimensional observers can perceive spacetime patterns at larger scales.
 
 ### Seven: Spacetime Nature and Observer Classicalization
 
@@ -988,6 +1108,119 @@ $$\mathcal{M}: \Psi_{\text{consciousness}} \rightarrow \mathbb{R}^n$$
 
 Through this mapping, a consciousness state atlas can be constructed to identify characteristic parameters of different states (such as wakefulness, dreaming, meditation, anesthesia, etc.).
 
+### Information Phase Transition Theory Core
+
+Information phase transition is a key phenomenon in the quantum-classical dualism framework, with the following characteristics:
+
+#### Basic Mechanism of Information Phase Transition
+
+Information phase transition is the sudden transformation process that information systems undergo near certain critical parameter values, leading to qualitative changes in the system's information processing methods, structure, or function:
+
+$$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
+
+Where $\mathcal{S}$ is the information state of the system, and $\lambda$ is the control parameter. Near the critical point $\lambda_c$, the order parameter behaves as:
+
+$$\eta(\lambda) = \begin{cases}
+0, & \lambda < \lambda_c \\
+(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
+\end{cases}$$
+
+#### Types of Quantum-Classical Phase Transitions
+
+Quantum-classical phase transitions can be classified into various types, each with distinct characteristics:
+
+- **First-order phase transition**: Order parameter changes discontinuously, with phase coexistence regions
+- **Second-order phase transition**: Order parameter changes continuously but its derivative is discontinuous, with diverging correlation length
+- **Non-equilibrium phase transition**: Far from equilibrium, with continuous energy or information flow
+- **Topological phase transition**: Changes in the overall topological properties of the system, with emergent edge states
+
+#### Observer-Induced Phase Transitions
+
+Observers can induce system phase transitions by adjusting parameters, with key parameters including:
+
+- **Observer dimension** $D_{\mathcal{O}}$: There exists a critical dimension $D_{\mathcal{O}}^c$, above which the system transforms from quantum state to classical state
+  
+$$P(quantum \to classical) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
+
+- **Observer resolution** $\eta_{\mathcal{O}}$: Affects the discrimination ability of the measurement basis
+- **Measurement frequency** $f_{\mathcal{O}}$: Related to the quantum Zeno effect
+
+#### Multi-level Structure of Information Phase Transitions
+
+Information phase transitions exhibit nested hierarchical structures:
+
+$$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
+
+Phase transitions at different levels occur at specific scales and times:
+
+$$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
+
+Coupling exists between levels, leading to cascade effects and fractal structures of phase transitions.
+
 ---
 
 [Note] This theory involves interdisciplinary areas of science and philosophy. The parts concerning consciousness, reincarnation, etc. belong to philosophical extensions and still require more rigorous scientific verification. The core physics content is compatible with existing scientific theories and provides new verifiable predictions. 
+
+### Information Phase Transition Theory Core
+
+Information phase transition is a key phenomenon in the quantum-classical dualism framework, with the following characteristics:
+
+#### Basic Mechanism of Information Phase Transition
+
+Information phase transition is the sudden transformation process that information systems undergo near certain critical parameter values, leading to qualitative changes in the system's information processing methods, structure, or function:
+
+$$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
+
+Where $\mathcal{S}$ is the information state of the system, and $\lambda$ is the control parameter. Near the critical point $\lambda_c$, the order parameter behaves as:
+
+$$\eta(\lambda) = \begin{cases}
+0, & \lambda < \lambda_c \\
+(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
+\end{cases}$$
+
+#### Types of Quantum-Classical Phase Transitions
+
+Quantum-classical phase transitions can be classified into various types, each with distinct characteristics:
+
+- **First-order phase transition**: Order parameter changes discontinuously, with phase coexistence regions
+- **Second-order phase transition**: Order parameter changes continuously but its derivative is discontinuous, with diverging correlation length
+- **Non-equilibrium phase transition**: Far from equilibrium, with continuous energy or information flow
+- **Topological phase transition**: Changes in the overall topological properties of the system, with emergent edge states
+
+#### Observer-Induced Phase Transitions
+
+Observers can induce system phase transitions by adjusting parameters, with key parameters including:
+
+- **Observer dimension** $D_{\mathcal{O}}$: There exists a critical dimension $D_{\mathcal{O}}^c$, above which the system transforms from quantum state to classical state
+  
+$$P(quantum \to classical) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
+
+- **Observer resolution** $\eta_{\mathcal{O}}$: Affects the discrimination ability of the measurement basis
+- **Measurement frequency** $f_{\mathcal{O}}$: Related to the quantum Zeno effect
+
+#### Multi-level Structure of Information Phase Transitions
+
+Information phase transitions exhibit nested hierarchical structures:
+
+$$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
+
+Phase transitions at different levels occur at specific scales and times:
+
+$$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
+
+Coupling exists between levels, leading to cascade effects and fractal structures of phase transitions.
+
+---
+
+## Version Update Notes
+
+### v31.0 Update Contents (December 2023)
+
+1. **Information Phase Transition Theory**: Added a complete chapter detailing the basic mechanisms, types, observer-induced phase transitions, and multi-level structures of information phase transitions.
+2. **Observer Theory**: Enhanced descriptions of observer structure, dimension network dynamics, and measurement theory, with more precise definitions of observer hierarchical networks.
+3. **Quantum Energy**: Expanded the description of quantum entanglement state energy, adding precise mathematical expressions for multi-body entanglement networks.
+4. **Quantum-Classical Information Conversion**: Provided more detailed descriptions of the conversion process, adding key concepts such as information matching metrics.
+5. **Quantum and Classical Domain States**: Supplemented specific mathematical expressions for quantum information encoding and classical information structures.
+6. **Multiple Dualism Hierarchies**: Improved descriptions of inter-level mapping functions and information flow mechanisms between levels.
+
+This version is based on Formal Theory v30.0, correcting some outdated concepts and integrating the latest research findings to make the theoretical system more complete and self-consistent. 

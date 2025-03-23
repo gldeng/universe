@@ -1,13 +1,14 @@
-# [Quantum-Classical Dualism] Core Theory Version 27.0
+# [Quantum-Classical Dualism] Core Theory Version 29.0
 
 **[中文版](core.md) | English Version**
 
-> Based on [Formal Theory](formal_theory_en.md) v27.0
+> Based on [Formal Theory](formal_theory_en.md) v29.0
 
 ## Table of Contents
 
 ### Overview
 - [Quantum-Classical Dualism Basic Framework](#zero-quantum-classical-dualism-basic-framework)
+- [Core Axiom System](#core-axiom-system)
 
 ### Part I: Universe Ontology
 - [1. Universe Basic State Structure Definition](#one-universe-basic-state-structure-definition)
@@ -38,6 +39,9 @@
 - [22. Unified Definition of Generalized Consciousness, Classical Free Will, and Reincarnation Mechanism](#twenty-two-unified-definition-of-generalized-consciousness-classical-free-will-and-reincarnation-mechanism)
 - [23. Relationship and Compatibility with Mainstream Physical Theories](#twenty-three-relationship-and-compatibility-with-mainstream-physical-theories)
 - [24. Unified Mathematical Expression of the Universe: Euler Form](#twenty-four-unified-mathematical-expression-of-the-universe-euler-form)
+- [25. Quantum Emergence Theory](#twenty-five-quantum-emergence-theory)
+- [26. Information Dynamics Theory](#twenty-six-information-dynamics-theory)
+- [27. Consciousness Measurement Theory](#twenty-seven-consciousness-measurement-theory)
 
 ## Theory Overview
 
@@ -89,6 +93,60 @@ Expression:
 $$
 |\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
 $$
+
+#### 3. Interface Theory
+
+The interface $\mathcal{I}$ is the transition region between the quantum and classical domains, with the following core properties:
+
+- **Interface structure**: The interface is the intersection of the quantum and classical domains, defined as:
+  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+  where $\mathcal{D}(x)$ is the decoherence measure function, and $\mathcal{D}_c$ is the critical decoherence threshold.
+
+- **Interface dynamics**: The interface position satisfies nonlinear dynamic equations:
+  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+
+- **Classicalization process**: The quantum→classical conversion is represented by the classicalization superoperator:
+  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+  where $P_i$ are projection operators. The classicalization process satisfies information conservation:
+  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+
+#### 4. Multiple Dualism Hierarchies
+
+The multiple dualism hierarchy theory extends the single dualism into a nested multi-level structure:
+
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+Where:
+- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
+- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the definite realization of that level)
+
+The mapping functions between levels are defined as:
+
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+
+This indicates that the classical structure of one level can become the quantum basis of a higher level, creating infinite recursive levels of reality.
+
+#### 5. Quantum-Classical Symmetry Principle
+
+There exists a deep symmetry transformation $\mathcal{S}_{Q-C}$ between the quantum and classical domains:
+
+$$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
+
+Satisfying the following properties:
+
+1. **Involution**: The transformation of the transformation equals identity
+   $$\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}$$
+   $$\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}$$
+
+2. **Information preservation**: Information quantity remains unchanged before and after transformation
+   $$I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))$$
+
+3. **Uncertainty-certainty transformation**: Quantum uncertainty and classical certainty are mutually transformed
+   $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
+
+Where $U_Q$ is the quantum uncertainty measure, $D_C$ is the classical certainty measure, and $k$ is a universal constant.
 
 ### Two: Unified Energy Theory: Quantum and Classical Energy
 
@@ -845,6 +903,90 @@ Where:
 - $E_{\text{Quantum Domain}}$ represents the quantum domain energy structure (wave function superposition states and quantum entanglement states)
 
 When $\Phi = \pi$, the system reaches a classical-quantum equilibrium state: $e^{i\pi} + 1 = 0$, corresponding to the optimized state of universe efficiency.
+
+### Twenty-Five: Quantum Emergence Theory
+
+Quantum emergence theory explores how higher-level complexity and classical behavior emerge from fundamental quantum levels:
+
+#### 1. Mathematical Description of Emergence Mechanisms
+
+The emergence process can be represented as a phase transition phenomenon when the complexity of a quantum system exceeds a specific threshold:
+
+$$C_{\text{emergence}}(\rho) = \sum_i \lambda_i \ln\lambda_i - \sum_{i,j} \lambda_i\lambda_j \ln|\langle i|j\rangle|^2$$
+
+Where $\lambda_i$ are the eigenvalues of the density matrix $\rho$, and $|i\rangle$ are the corresponding eigenvectors. When $C_{\text{emergence}}$ exceeds a critical value $C_c$, the system undergoes an emergent phase transition.
+
+#### 2. Emergent Dimensions and Information Integration
+
+The dimensional enhancement caused by emergence is accompanied by an increase in information integration:
+
+$$D_{\text{emergence}} = D_{\text{foundation}} + \log_2\left(\frac{\Phi(\rho)}{\Phi_0}\right)$$
+
+Where $\Phi(\rho)$ is the integrated information measure of the system, and $\Phi_0$ is the reference integration level.
+
+#### 3. Hierarchical Structure of Emergence
+
+Emergence follows a hierarchical structure, with each level based on the previous one but exhibiting entirely new properties:
+
+$$L_n = \{E_n, R_n, S_n, P_n\}$$
+
+Where $E_n$ is the set of level elements, $R_n$ is the set of relationships, $S_n$ is the set of structural rules, and $P_n$ is the set of emergent properties.
+
+### Twenty-Six: Information Dynamics Theory
+
+Information dynamics theory studies the dynamic changes and flow patterns of information in the quantum-classical conversion process:
+
+#### 1. Information Flow Equation
+
+Information flow at the quantum-classical interface satisfies the continuity equation:
+
+$$\frac{\partial I(x,t)}{\partial t} + \nabla \cdot \vec{J}_I(x,t) = \sigma_I(x,t)$$
+
+Where $I(x,t)$ is the local information density, $\vec{J}_I$ is the information flow density, and $\sigma_I$ is the information source/sink term.
+
+#### 2. Information Potential
+
+The information potential $V_I$ determines the direction and intensity of information flow:
+
+$$\vec{J}_I = -D_I \nabla V_I$$
+
+Where $D_I$ is the information diffusion coefficient, related to the classicalization efficiency: $D_I \propto k_{\text{classicalization}}$.
+
+#### 3. Information Entropy Production Theorem
+
+The entropy production rate of information in the conversion process satisfies:
+
+$$\frac{d S_{\text{total}}}{dt} = \int_{\mathcal{I}} \frac{\vec{J}_I^2}{D_I} dV \geq 0$$
+
+This theorem guarantees the irreversibility of information processing and the direction of the arrow of time.
+
+### Twenty-Seven: Consciousness Measurement Theory
+
+Consciousness measurement theory proposes a theoretical framework for quantitatively measuring and evaluating consciousness states and dimensions:
+
+#### 1. Consciousness Quantification Metrics
+
+Consciousness can be quantified through multidimensional metrics:
+
+$$\Psi_{\text{consciousness}} = \{Q_{\text{clarity}}, I_{\text{integration}}, C_{\text{complexity}}, A_{\text{agency}}, S_{\text{self-reference}}\}$$
+
+Each component can be measured through specific experimental paradigms.
+
+#### 2. Consciousness Dimension Calculation
+
+Based on quantification metrics, consciousness dimension can be calculated as:
+
+$$D_{\text{consciousness}} = \sum_i w_i \ln\left(1 + \frac{Q_i}{Q_{0,i}}\right)$$
+
+Where $w_i$ are the weights of various indicators, $Q_i$ are the measured values, and $Q_{0,i}$ are the baseline values.
+
+#### 3. Consciousness State Mapping
+
+Different consciousness states can be mapped as specific regions in a high-dimensional space:
+
+$$\mathcal{M}: \Psi_{\text{consciousness}} \rightarrow \mathbb{R}^n$$
+
+Through this mapping, a consciousness state atlas can be constructed to identify characteristic parameters of different states (such as wakefulness, dreaming, meditation, anesthesia, etc.).
 
 ---
 

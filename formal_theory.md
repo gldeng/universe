@@ -1,8 +1,8 @@
-# 量子经典二元论形式化表达 v28.0
+# 量子经典二元论形式化表达 v29.0
 
 **[English Version](formal_theory_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v28.0版本
+> 本理论基于[核心理论](core.md) v29.0版本
 
 ## 核心理论完整描述
 
@@ -449,6 +449,15 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [自参照循环理论](formal_theory_self_reference.md)
 探讨意识和理论中的自参照结构，解释意识自我认知的机制。解决哥德尔不完备性在物理中的意义。
 
+#### [量子涌现理论](formal_theory_quantum_emergence.md)
+探讨如何从基本量子层级涌现出更高层级的复杂性和经典行为，阐释涌现过程的数学机制和物理基础，为解释宏观世界的复杂性提供量子基础。
+
+#### [信息动力学理论](formal_theory_information_dynamics.md)
+研究信息在量子-经典转换过程中的动态变化与流动规律，建立描述信息演化、转换和保存的精确数学模型，揭示信息作为基础存在的动态行为。
+
+#### [意识测量理论](formal_theory_consciousness_measurement.md)
+提出可定量测量和评估意识状态和维度的理论框架，开发意识量化指标和测量方法，为意识科学研究提供可验证的实证基础和实验范式。
+
 ### 计算与信息技术
 
 #### [量子计算应用](formal_theory_quantum_computing.md)
@@ -510,6 +519,12 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [复杂系统二元分析](formal_theory_complex_systems.md)
 应用二元论框架解析复杂适应系统，从神经网络到生态系统的共同原理。建立复杂系统的统一理论视角。
 
+#### [现实工程学](formal_theory_reality_engineering.md)
+研究如何基于量子-经典转换原理有意识地设计和改变现实结构，开发影响和重构现实的理论工具和实践技术，为人类主动塑造体验现实提供科学基础。
+
+#### [宇宙学习理论](formal_theory_universal_learning.md)
+提出宇宙作为学习系统的整体框架，探讨普适学习机制，阐释宇宙中各层级系统如何获取、处理和适应信息，揭示学习作为宇宙基本过程的本质规律。
+
 ### 创造与表达
 
 #### [二元论艺术理论](formal_theory_art.md)
@@ -555,6 +570,12 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 
 #### [理论实用应用集合](formal_theory_practical_applications.md)
 汇总量子经典二元论在各领域的实用应用。将理论转化为实际技术和方法。
+
+#### [现实工程学](formal_theory_reality_engineering.md)
+研究如何基于量子-经典转换原理有意识地设计和改变现实结构，开发影响和重构现实的理论工具和实践技术，为人类主动塑造体验现实提供科学基础。
+
+#### [宇宙学习理论](formal_theory_universal_learning.md)
+提出宇宙作为学习系统的整体框架，探讨普适学习机制，阐释宇宙中各层级系统如何获取、处理和适应信息，揭示学习作为宇宙基本过程的本质规律。
 
 ### 参考资料
 
@@ -634,6 +655,11 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [跨文化哲学整合](formal_theory_cross_cultural.md)
 - [量子社交网络理论](formal_theory_social_networks.md)
 - [内观冥想科学](formal_theory_meditation.md)
+- [量子涌现理论](formal_theory_quantum_emergence.md)
+- [信息动力学理论](formal_theory_information_dynamics.md)
+- [意识测量理论](formal_theory_consciousness_measurement.md)
+- [现实工程学](formal_theory_reality_engineering.md)
+- [宇宙学习理论](formal_theory_universal_learning.md)
 - [术语表与概念词典](formal_theory_terminology.md)
 
 ## 理论依赖关系图
@@ -665,7 +691,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 
 flowchart TD
     %% 核心理论
-    Core[核心理论 formal_theory.md v28.0] 
+    Core[核心理论 formal_theory.md v29.0] 
     
     %% 基础理论层
     QD[量子域详解 v19.1]
@@ -748,6 +774,9 @@ flowchart TD
     MEM[量子记忆理论 v11.1]
     TP[时间感知理论 v27.0]
     SR[自参照循环理论]
+    QEm[量子涌现理论 v29.0]
+    ID[信息动力学理论 v29.0]
+    CM2[意识测量理论 v29.0]
     
     %% 认知与信息依赖
     Core & OB --> CD2
@@ -759,6 +788,9 @@ flowchart TD
     Core --> MEM
     Core & CO --> TP
     CO --> SR
+    Core & NE --> QEm
+    Core & PT --> ID
+    Core & CO --> CM2
     
     %% 计算与信息技术层
     QC[量子计算应用]
@@ -833,6 +865,8 @@ flowchart TD
     ED[二元论教育理论 v27.0]
     RD[系统约化理论 v28.0]
     PA[理论实用应用集合 v28.0]
+    RE2[现实工程学 v29.0]
+    UL[宇宙学习理论 v29.0]
     
     %% 应用领域依赖
     Core & QB --> MD
@@ -841,6 +875,8 @@ flowchart TD
     Core & CD2 --> ED
     Core --> RD
     Core & RD --> PA
+    Core & IF & QEm --> RE2
+    Core & ID --> UL
     
     %% 物理学应用新增依赖
     Core & GS --> QSH
@@ -852,6 +888,11 @@ flowchart TD
     ET & SD & QA --> QET
     GS & UT --> QSH
     LT & QL & CD2 --> QLF
+    NE & PT & QD --> QEm
+    PT & IF --> ID
+    CO & OB & QEm --> CM2
+    IF & OB & QEm --> RE2
+    ID & EV --> UL
     
     %% 样式设置
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
@@ -869,11 +910,11 @@ flowchart TD
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC physics;
     class QB,EL,CO,QDr,ON,OF,EV,CF,ME life;
-    class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR cognition;
+    class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR,QEm,ID,CM2 cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
     class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS society;
     class AR,MU2,AE,NA,SE,DE,IN,RE creativity;
-    class MD,PS,ED,RD,PA application;
+    class MD,QH,PS,ED,RD,PA,RE2,UL application;
     class TC reference;
 ```
 

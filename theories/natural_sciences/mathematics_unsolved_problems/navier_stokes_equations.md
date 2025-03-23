@@ -1,5 +1,5 @@
-# 纳卫尔-斯托克斯方程的量子经典二元论证明（版本28.0）
-# Quantum-Classical Dualism Proof of Navier-Stokes Equations (Version 28.0)
+# 纳卫尔-斯托克斯方程的量子经典二元论分析（版本29.0）
+# Quantum-Classical Dualism Analysis of the Navier-Stokes Equations (Version 29.0)
 
 ## 导航 | Navigation
 - [中文简介](#纳卫尔-斯托克斯方程的简介)
@@ -281,4 +281,6 @@ In the quantum domain (infinite possibilities), the motion state of fluid exists
 
 The potential blowup phenomenon in the classical domain (i.e., the development of singularities with infinite gradients in finite time) corresponds to the rapid transfer of energy to high-frequency modes in the quantum domain, reflecting the fundamental limitations in the quantum-classical transformation process. When the observation dimension is insufficient to capture the complete dynamics in the quantum domain, what we observe in the classical domain is an incomplete solution or singularities in the solution.
 
-In simple terms, the existence and smoothness problem of solutions to the Navier-Stokes equations is essentially about how quantum fluid dynamics manifests under classical observation, and the answer to this problem reveals the quantum-classical duality in fluid dynamics. 
+In simple terms, the existence and smoothness problem of solutions to the Navier-Stokes equations is essentially about how quantum fluid dynamics manifests under classical observation, and the answer to this problem reveals the quantum-classical duality in fluid dynamics.
+
+[切换到英文 | Switch to English](#quantum-classical-dualism-analysis-of-the-navier-stokes-equations-version-290) 

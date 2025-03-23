@@ -1,5 +1,5 @@
-# ABC猜想的量子经典二元论证明（版本28.0）
-# Quantum-Classical Dualism Proof of the ABC Conjecture (Version 28.0)
+# ABC猜想的量子经典二元论证明（版本29.0）
+# Quantum-Classical Dualism Proof of the ABC Conjecture (Version 29.0)
 
 ## 导航 | Navigation
 - [简介](#简介--introduction) | [Introduction](#introduction)
@@ -14,9 +14,9 @@
 
 ## 简介 | Introduction
 
-ABC猜想是数论中最深刻且影响广泛的未解决问题之一，连接了加法数论与乘法数论的基本方面。本文运用量子经典二元论框架（版本28.0）提供了该猜想的严格证明。通过将问题从经典数学域映射到量子域，我们揭示了整数加法与乘法之间深层量子结构关联，并通过形式化过程建立了猜想的有效性。
+ABC猜想是数论中最深刻且影响广泛的未解决问题之一，连接了加法数论与乘法数论的基本方面。本文运用量子经典二元论框架（版本29.0）提供了该猜想的严格证明。通过将问题从经典数学域映射到量子域，我们揭示了整数加法与乘法之间深层量子结构关联，并通过形式化过程建立了猜想的有效性。
 
-[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-the-abc-conjecture-version-280)
+[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-the-abc-conjecture-version-290)
 
 ## 问题陈述 | Problem Statement
 
@@ -145,8 +145,8 @@ $$
 
 ## 参考文献 | References
 
-1. 经典量子二元论核心理论 (版本28.0). [core.md](../../core.md)
-2. 形式化量子经典框架 (版本28.0). [formal_theory.md](../../formal_theory.md)
+1. 经典量子二元论核心理论 (版本29.0). [core.md](../../core.md)
+2. 形式化量子经典框架 (版本29.0). [formal_theory.md](../../formal_theory.md)
 3. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
 4. Taylor, R., & Wiles, A. (1995). Ring-theoretic properties of certain Hecke algebras. Annals of Mathematics, 141(3), 553-572.
 5. Oesterlé, J. (1988). Nouvelles approches du "théorème" de Fermat. Séminaire Bourbaki, 694, 165-186.
@@ -154,13 +154,13 @@ $$
 
 ---
 
-# Quantum-Classical Dualism Proof of the ABC Conjecture (Version 28.0)
+# Quantum-Classical Dualism Proof of the ABC Conjecture (Version 29.0)
 
-[切换到中文 | Switch to Chinese](#abc猜想的量子经典二元论证明版本280)
+[切换到中文 | Switch to Chinese](#abc猜想的量子经典二元论证明版本290)
 
 ## Introduction
 
-The ABC Conjecture is one of the most profound and far-reaching unsolved problems in number theory, connecting fundamental aspects of additive and multiplicative number theory. This paper provides a rigorous proof of the conjecture using the Quantum-Classical Dualism framework (Version 28.0). By mapping the problem from the classical mathematical domain to the quantum domain, we reveal the deep quantum structural connection between integer addition and multiplication, and establish the validity of the conjecture through a formalization process.
+The ABC Conjecture is one of the most profound and far-reaching unsolved problems in number theory, connecting fundamental aspects of additive and multiplicative number theory. This paper provides a rigorous proof of the conjecture using the Quantum-Classical Dualism framework (Version 29.0). By mapping the problem from the classical mathematical domain to the quantum domain, we reveal the deep quantum structural connection between integer addition and multiplication, and establish the validity of the conjecture through a formalization process.
 
 ## Problem Statement
 
@@ -289,8 +289,8 @@ These conditions have been verified through the fusion of modern number theory a
 
 ## References
 
-1. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-2. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory_en.md)
+1. Quantum-Classical Dualism Core Theory (Version 29.0). [core_en.md](../../core_en.md)
+2. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../formal_theory_en.md)
 3. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
 4. Taylor, R., & Wiles, A. (1995). Ring-theoretic properties of certain Hecke algebras. Annals of Mathematics, 141(3), 553-572.
 5. Oesterlé, J. (1988). Nouvelles approches du "théorème" de Fermat. Séminaire Bourbaki, 694, 165-186.

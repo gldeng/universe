@@ -1,5 +1,5 @@
-# 量子经典二元论视角的数学未解难题分析（版本28.0）
-# Mathematical Unsolved Problems Analysis from Quantum-Classical Dualism Perspective (Version 28.0)
+# 量子经典二元论视角的数学未解难题分析（版本29.0）
+# Mathematical Unsolved Problems Analysis from Quantum-Classical Dualism Perspective (Version 29.0)
 
 ## 目录 | Table of Contents
 - [简介 | Introduction](#简介--introduction)
@@ -57,7 +57,12 @@ $$
 
 目前包含的详细证明：
 - [P vs NP问题](mathematics_unsolved_problems/p_vs_np_problem.md)
+- [霍奇猜想](mathematics_unsolved_problems/hodge_conjecture.md)
 - [黎曼假设](mathematics_unsolved_problems/riemann_hypothesis.md)
+- [杨-米尔斯存在性和质量间隙](mathematics_unsolved_problems/yang_mills_existence.md)
+- [纳卫尔-斯托克斯方程](mathematics_unsolved_problems/navier_stokes_equations.md)
+- [庞加莱猜想](mathematics_unsolved_problems/poincare_conjecture.md)
+- [BSD猜想](mathematics_unsolved_problems/birch_swinnerton_dyer_conjecture.md)
 - [哥德巴赫猜想](mathematics_unsolved_problems/goldbach_conjecture.md)
 - [孪生素数猜想](mathematics_unsolved_problems/twin_prime_conjecture.md)
 - [ABC猜想](mathematics_unsolved_problems/abc_conjecture.md)
@@ -99,6 +104,8 @@ $$
 
 量子经典预测：霍奇猜想将被证明为真，因为它本质上描述了高维量子域几何结构经典化后必然保留的信息不变量。
 
+**详细证明:** [霍奇猜想的量子经典二元论证明](mathematics_unsolved_problems/hodge_conjecture.md)
+
 ### 黎曼假设 | Riemann Hypothesis
 
 #### 量子经典视角
@@ -133,6 +140,8 @@ $$
 
 量子经典预测：杨-米尔斯质量间隙是量子场经典化的必然结果，其证明将建立在量子纠缠态经典化过程的数学结构之上。
 
+**详细证明:** [杨-米尔斯存在性的量子经典二元论证明](mathematics_unsolved_problems/yang_mills_existence.md)
+
 ### 纳卫尔-斯托克斯方程 | Navier-Stokes Equations
 
 #### 量子经典视角
@@ -148,6 +157,8 @@ $$
 
 量子经典预测：纳卫尔-斯托克斯方程在三维情况下可能出现奇点，因为它反映了经典化过程中的临界不稳定性。
 
+**详细证明:** [纳卫尔-斯托克斯方程的量子经典二元论证明](mathematics_unsolved_problems/navier_stokes_equations.md)
+
 ### 庞加莱猜想 | Poincaré Conjecture
 
 #### 量子经典视角
@@ -159,6 +170,8 @@ $$
 $$
 
 量子经典解释：庞加莱猜想的正确性表明，在经典化过程中，观察者系统如果满足信息完整性原则（单连通性），则其整体结构必然等价于最基本的封闭信息结构（球面）。
+
+**详细证明:** [庞加莱猜想的量子经典二元论证明](mathematics_unsolved_problems/poincare_conjecture.md)
 
 ### BSD猜想 | Birch and Swinnerton-Dyer Conjecture
 
@@ -173,6 +186,8 @@ $$
 $$
 
 量子经典预测：BSD猜想为真，因为它描述了经典域和量子域之间的映射保持了某种秩匹配关系，这是经典化过程的普遍特性。
+
+**详细证明:** [BSD猜想的量子经典二元论证明](mathematics_unsolved_problems/birch_swinnerton_dyer_conjecture.md)
 
 ## 其他重要未解问题 | Other Important Unsolved Problems
 
@@ -264,7 +279,7 @@ $$
 
 # Mathematical Unsolved Problems Analysis from Quantum-Classical Dualism Perspective
 
-[切换到中文 | Switch to Chinese](#量子经典二元论视角的数学未解难题分析版本280)
+[切换到中文 | Switch to Chinese](#量子经典二元论视角的数学未解难题分析版本290)
 
 ## Introduction
 

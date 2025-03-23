@@ -1,5 +1,5 @@
-# 哥德巴赫猜想的量子经典二元论证明（版本28.0）
-# Quantum-Classical Dualism Proof of the Goldbach Conjecture (Version 28.0)
+# 哥德巴赫猜想的量子经典二元论证明（版本29.0）
+# Quantum-Classical Dualism Proof of Goldbach's Conjecture (Version 29.0)
 
 ## 目录 | Table of Contents
 - [问题简介 | Problem Introduction](#问题简介--problem-introduction)
@@ -31,7 +31,7 @@ $$
 
 除了强哥德巴赫猜想，还有弱哥德巴赫猜想（每个大于5的奇数都可以表示为三个素数之和），该猜想已于2013年被证明。本文将专注于强哥德巴赫猜想的证明。
 
-[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-the-goldbach-conjecture-version-280)
+[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-goldbachs-conjecture-version-290)
 
 ## 量子经典视角分析 | Quantum-Classical Perspective Analysis
 
@@ -181,9 +181,9 @@ $$
 
 ---
 
-# Quantum-Classical Dualism Proof of the Goldbach Conjecture (Version 28.0)
+# Quantum-Classical Dualism Proof of Goldbach's Conjecture (Version 29.0)
 
-[切换到中文 | Switch to Chinese](#哥德巴赫猜想的量子经典二元论证明版本280)
+[切换到中文 | Switch to Chinese](#哥德巴赫猜想的量子经典二元论证明版本290)
 
 ## Problem Introduction
 

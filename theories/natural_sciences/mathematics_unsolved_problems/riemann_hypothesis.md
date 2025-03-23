@@ -1,5 +1,5 @@
-# 黎曼假设的量子经典二元论证明（版本28.0）
-# Quantum-Classical Dualism Proof of the Riemann Hypothesis (Version 28.0)
+# 黎曼假设的量子经典二元论证明（版本29.0）
+# Quantum-Classical Dualism Proof of the Riemann Hypothesis (Version 29.0)
 
 ## 目录 | Table of Contents
 - [问题简介 | Problem Introduction](#问题简介--problem-introduction)
@@ -31,7 +31,7 @@ $$
 
 即，若ζ(s) = 0且s不是负偶数，则s = 1/2 + it，其中t为实数。
 
-[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-the-riemann-hypothesis-version-280)
+[切换到英文 | Switch to English](#quantum-classical-dualism-proof-of-the-riemann-hypothesis-version-290)
 
 ## 量子经典视角解析 | Quantum-Classical Perspective Analysis
 
@@ -204,9 +204,9 @@ $$
 
 ---
 
-# Quantum-Classical Dualism Proof of the Riemann Hypothesis (Version 28.0)
+# Quantum-Classical Dualism Proof of the Riemann Hypothesis (Version 29.0)
 
-[切换到中文 | Switch to Chinese](#黎曼假设的量子经典二元论证明版本280)
+[切换到中文 | Switch to Chinese](#黎曼假设的量子经典二元论证明版本290)
 
 ## Problem Introduction
 

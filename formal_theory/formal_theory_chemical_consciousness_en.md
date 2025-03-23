@@ -393,4 +393,4 @@ $$D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}
 - [Chemical Thermodynamics and Dualism](formal_theory_chemical_thermodynamics_en.md)
 - [Molecular Entanglement Theory](formal_theory_molecular_entanglement_en.md)
 - [Chemical Consciousness and Perception (This File)](formal_theory_chemical_consciousness_en.md)
-- [Biochemical Information Processing](../religious_classics/formal_theory/formal_theory_biochemical_information_en.md) 
+- [Biochemical Information Processing](formal_theory_biochemical_information_en.md) 

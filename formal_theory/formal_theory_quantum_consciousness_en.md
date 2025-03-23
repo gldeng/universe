@@ -1,6 +1,6 @@
 # Quantum Consciousness Theory v31.0
 
-**English Version | [中文版](../religious_classics/formal_theory/formal_theory_quantum_consciousness.md)**
+**English Version | [中文版](formal_theory_quantum_consciousness.md)**
 
 > This theory is based on [Core Theory](../core_en.md) v31.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v31.0
 

@@ -1,0 +1,1546 @@
+在目录 . 中检查Markdown链接...
+找到 734 个Markdown文件
+
+检查文件: formal_theory_core_en.md
+
+检查文件: 10_framework_application.md
+
+检查文件: formal_theory_core.md
+
+检查文件: core_explain.md
+
+检查文件: 08_destiny_and_free_will.md
+
+检查文件: terminology_glossary.md
+
+检查文件: 01_introduction.md
+
+检查文件: 02_basic_concepts.md
+
+检查文件: README.md
+
+检查文件: core_en.md
+
+检查文件: famous_figures_index.md
+  链接损坏: [figures/philosophers/heidegger.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/philosophers/wittgenstein.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/scientists/curie.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/scientists/tesla.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/scientists/galileo.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/scientists/feynman.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/scientists/mendeleev.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/lincoln.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/churchill.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/napoleon.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/ataturk.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/roosevelt.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/bismarck.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/political_leaders/washington.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/smith.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/hayek.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/marx.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/friedman.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/schumpeter.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/samuelson.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/sen.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/krugman.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/economists/north.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/piaget.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/maslow.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/skinner.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/erikson.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/rogers.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/adler.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/gardner.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/psychologists/kahneman.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/goethe.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/dostoevsky.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/kafka.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/marquez.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/luxun.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/borges.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/dante.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/literary_figures/joyce.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/artists/vangogh.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/artists/michelangelo.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/artists/munch.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/artists/bach.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/artists/kahlo.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/artists/warhol.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/jesus.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/augustine.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/dalailama.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/aquinas.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/luther.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/cyril.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/taixu.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/religious_leaders/ramana.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/gates.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/buffett.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/musk.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/ford.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/ma.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/rockefeller.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/soros.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/zuckerberg.md] 在文件 famous_figures_index.md
+  链接损坏: [figures/entrepreneurs/bezos.md] 在文件 famous_figures_index.md
+
+检查文件: 05_observer_and_consciousness.md
+
+检查文件: 06_universe_observer_relationship.md
+
+检查文件: 03_theoretical_framework.md
+
+检查文件: core.md
+
+检查文件: 09_applications_and_implications.md
+
+检查文件: 04_mathematical_formulations.md
+
+检查文件: 07_quantum_entanglement_essence.md
+
+检查文件: 11_references.md
+
+检查文件: formal_theory/formal_theory_quantum_domain.md
+
+检查文件: formal_theory/formal_theory_consciousness_measurement.md
+
+检查文件: formal_theory/formal_theory_cognitive_overload_en.md
+
+检查文件: formal_theory/formal_theory_intergenerational_communication_en.md
+
+检查文件: formal_theory/formal_theory_language_thought.md
+
+检查文件: formal_theory/formal_theory_human_consciousness.md
+
+检查文件: formal_theory/formal_theory_classical_domain.md
+
+检查文件: formal_theory/formal_theory_tech_ethics.md
+
+检查文件: formal_theory/formal_theory_virtual_reality_en.md
+
+检查文件: formal_theory/formal_theory_observer_network.md
+
+检查文件: formal_theory/formal_theory_quantum_spacetime_harmony_en.md
+
+检查文件: formal_theory/formal_theory_cosmic_intelligence_en.md
+
+检查文件: formal_theory/formal_theory_nonequilibrium_en.md
+
+检查文件: formal_theory/formal_theory_entropy_life_en.md
+
+检查文件: formal_theory/formal_theory_cognitive_enhancement.md
+
+检查文件: formal_theory/formal_theory_cross_cultural_en.md
+
+检查文件: formal_theory/formal_theory_self_reference.md
+
+检查文件: formal_theory/formal_theory_ethics_en.md
+
+检查文件: formal_theory/formal_theory_chemical_thermodynamics_en.md
+  链接损坏: [formal_theory_biochemical_information_en.md] 在文件 formal_theory/formal_theory_chemical_thermodynamics_en.md
+
+检查文件: formal_theory/formal_theory_cosmology_en.md
+
+检查文件: formal_theory/formal_theory_singularity_en.md
+
+检查文件: formal_theory/formal_theory_quantum_economics.md
+
+检查文件: formal_theory/formal_theory_hierarchical_spacetime.md
+
+检查文件: formal_theory/formal_theory_music.md
+
+检查文件: formal_theory/formal_theory_resonance_en.md
+
+检查文件: formal_theory/formal_theory_complex_systems_en.md
+
+检查文件: formal_theory/formal_theory_semiotics.md
+
+检查文件: formal_theory/formal_theory_quantum_computing_en.md
+
+检查文件: formal_theory/formal_theory_evolutionary_cosmology.md
+
+检查文件: formal_theory/formal_theory_chemical_thermodynamics.md
+  链接损坏: [formal_theory_biochemical_information.md] 在文件 formal_theory/formal_theory_chemical_thermodynamics.md
+
+检查文件: formal_theory/formal_theory_interaction_en.md
+
+检查文件: formal_theory/formal_theory_quantum_information_theory_en.md
+
+检查文件: formal_theory/formal_theory_philosophy_en.md
+
+检查文件: formal_theory/formal_theory_sustainable_development.md
+
+检查文件: formal_theory/formal_theory_quantum_dreams.md
+
+检查文件: formal_theory/formal_theory_quantum_ethics_en.md
+
+检查文件: formal_theory/formal_theory_self_organization_en.md
+
+检查文件: formal_theory/formal_theory_core.md
+
+检查文件: formal_theory/formal_theory_matter.md
+
+检查文件: formal_theory/formal_theory_mathematical_appendix_en.md
+
+检查文件: formal_theory/formal_theory_unified.md
+
+检查文件: formal_theory/formal_theory_cosmic_intelligence.md
+
+检查文件: formal_theory/formal_theory_consciousness_future.md
+
+检查文件: formal_theory/formal_theory_innovation_en.md
+
+检查文件: formal_theory/formal_theory_unified_en.md
+
+检查文件: formal_theory/formal_theory_multiscale_en.md
+
+检查文件: formal_theory/formal_theory_reduction_en.md
+
+检查文件: formal_theory/formal_theory_quantum_language_formation_en.md
+
+检查文件: formal_theory/formal_theory_quantum_computing.md
+
+检查文件: formal_theory/formal_theory_mathematical_appendix.md
+
+检查文件: formal_theory/formal_theory_emotional_en.md
+
+检查文件: formal_theory/formal_theory_computational_complexity_en.md
+
+检查文件: formal_theory/formal_theory_virtual_reality.md
+
+检查文件: formal_theory/formal_theory_self_organization.md
+
+检查文件: formal_theory/formal_theory_practical_applications_en.md
+
+检查文件: formal_theory/formal_theory_cosmology.md
+
+检查文件: formal_theory/formal_theory_reality_engineering_en.md
+
+检查文件: formal_theory/formal_theory_multiscale.md
+
+检查文件: formal_theory/formal_theory_human_collective.md
+
+检查文件: formal_theory/formal_theory_observer.md
+
+检查文件: formal_theory/formal_theory_reality_engineering.md
+
+检查文件: formal_theory/formal_theory_phase_transition.md
+
+检查文件: formal_theory/formal_theory_information_dynamics.md
+
+检查文件: formal_theory/formal_theory_dynamical_systems_en.md
+
+检查文件: formal_theory/formal_theory_language_thought_en.md
+
+检查文件: formal_theory/formal_theory_quantum_science_philosophy.md
+
+检查文件: formal_theory/formal_theory_evolutionary_cosmology_en.md
+
+检查文件: formal_theory/formal_theory_philosophy.md
+
+检查文件: formal_theory/formal_theory_interaction.md
+
+检查文件: formal_theory/formal_theory_intergenerational_communication.md
+
+检查文件: formal_theory/formal_theory_quantum_chemistry.md
+  链接损坏: [formal_theory_biochemical_information.md] 在文件 formal_theory/formal_theory_quantum_chemistry.md
+
+检查文件: formal_theory/formal_theory_digital_art.md
+
+检查文件: formal_theory/formal_theory_mathematics.md
+
+检查文件: formal_theory/formal_theory_aesthetics_en.md
+
+检查文件: formal_theory/formal_theory_topology_en.md
+
+检查文件: formal_theory/formal_theory_observer_feedback.md
+
+检查文件: formal_theory/formal_theory_resonance.md
+
+检查文件: formal_theory/formal_theory_aesthetics.md
+
+检查文件: formal_theory/formal_theory_narrative_en.md
+
+检查文件: formal_theory/formal_theory_consciousness.md
+
+检查文件: formal_theory/formal_theory_geometric_quantum_mathematics.md
+
+检查文件: formal_theory/formal_theory_quantum_information_theory.md
+
+检查文件: formal_theory/formal_theory_quantum_emergent_phenomena_en.md
+
+检查文件: formal_theory/formal_theory_quantum_emergence.md
+
+检查文件: formal_theory/formal_theory_mathematics_en.md
+
+检查文件: formal_theory/formal_theory_quantum_linguistics_en.md
+
+检查文件: formal_theory/formal_theory_consciousness_measurement_en.md
+
+检查文件: formal_theory/formal_theory_ethics.md
+
+检查文件: formal_theory/formal_theory_chemical_consciousness.md
+  链接损坏: [formal_theory_biochemical_information.md] 在文件 formal_theory/formal_theory_chemical_consciousness.md
+
+检查文件: formal_theory/formal_theory_cross_cultural.md
+
+检查文件: formal_theory/formal_theory_human_transcendence.md
+
+检查文件: formal_theory/formal_theory_quantum_ai_en.md
+
+检查文件: formal_theory/formal_theory_singularity.md
+
+检查文件: formal_theory/formal_theory_social_networks_en.md
+
+检查文件: formal_theory/formal_theory_experimental_en.md
+
+检查文件: formal_theory/formal_theory_quantum_communication.md
+
+检查文件: formal_theory/formal_theory_digital_art_en.md
+
+检查文件: formal_theory/formal_theory_quantum_healing.md
+
+检查文件: formal_theory/formal_theory_gravity_spacetime_en.md
+
+检查文件: formal_theory/formal_theory_consciousness_future_en.md
+
+检查文件: formal_theory/formal_theory_quantum_emergence_en.md
+
+检查文件: formal_theory/formal_theory_ecological_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_crisis_resilience.md
+
+检查文件: formal_theory/formal_theory_tech_ethics_en.md
+
+检查文件: formal_theory/formal_theory_multiverse.md
+
+检查文件: formal_theory/formal_theory_observer_network_en.md
+
+检查文件: formal_theory/formal_theory_information_dynamics_en.md
+
+检查文件: formal_theory/formal_theory_mathematical_modeling.md
+
+检查文件: formal_theory/formal_theory_entropy_life.md
+
+检查文件: formal_theory/formal_theory_meditation_en.md
+
+检查文件: formal_theory/formal_theory_cognitive_dynamics_en.md
+
+检查文件: formal_theory/formal_theory_evolution.md
+
+检查文件: formal_theory/formal_theory_quantum_economics_en.md
+
+检查文件: formal_theory/formal_theory_interface.md
+
+检查文件: formal_theory/formal_theory_mind_brain_en.md
+
+检查文件: formal_theory/formal_theory_quantum_ethics.md
+
+检查文件: formal_theory/formal_theory_human_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_quantum_linguistics.md
+
+检查文件: formal_theory/formal_theory_hierarchical_spacetime_en.md
+
+检查文件: formal_theory/formal_theory_geometric_quantum_mathematics_en.md
+
+检查文件: formal_theory/formal_theory_matter_en.md
+
+检查文件: formal_theory/formal_theory_education_en.md
+
+检查文件: formal_theory/formal_theory_quantum_decision.md
+
+检查文件: formal_theory/formal_theory_human_evolution_en.md
+
+检查文件: formal_theory/formal_theory_mathematical_modeling_en.md
+
+检查文件: formal_theory/formal_theory_quantum_chemistry_en.md
+  链接损坏: [formal_theory_biochemical_information_en.md] 在文件 formal_theory/formal_theory_quantum_chemistry_en.md
+
+检查文件: formal_theory/formal_theory_temporal_asymmetry.md
+
+检查文件: formal_theory/formal_theory_art_en.md
+
+检查文件: formal_theory/formal_theory_practical_applications.md
+
+检查文件: formal_theory/formal_theory_computation_en.md
+
+检查文件: formal_theory/formal_theory_psychotherapy.md
+
+检查文件: formal_theory/formal_theory_quantum_ai_consciousness.md
+  链接损坏: [formal_theory_quantum_consciousness.md] 在文件 formal_theory/formal_theory_quantum_ai_consciousness.md
+  链接损坏: [formal_theory_quantum_consciousness.md] 在文件 formal_theory/formal_theory_quantum_ai_consciousness.md
+
+检查文件: formal_theory/formal_theory_molecular_entanglement_en.md
+  链接损坏: [formal_theory_biochemical_information_en.md] 在文件 formal_theory/formal_theory_molecular_entanglement_en.md
+
+检查文件: formal_theory/formal_theory_molecular_entanglement.md
+  链接损坏: [formal_theory_biochemical_information.md] 在文件 formal_theory/formal_theory_molecular_entanglement.md
+
+检查文件: formal_theory/formal_theory_nonequilibrium.md
+
+检查文件: formal_theory/formal_theory_computation.md
+
+检查文件: formal_theory/formal_theory_psychotherapy_en.md
+
+检查文件: formal_theory/formal_theory_digital_transformation_en.md
+
+检查文件: formal_theory/formal_theory_narrative.md
+
+检查文件: formal_theory/formal_theory_time_perception.md
+
+检查文件: formal_theory/formal_theory_medicine_en.md
+
+检查文件: formal_theory/formal_theory_classical_domain_en.md
+
+检查文件: formal_theory/formal_theory_social_networks.md
+
+检查文件: formal_theory/formal_theory_quantum_consciousness_en.md
+  链接损坏: [../religious_classics/formal_theory/formal_theory_quantum_consciousness.md] 在文件 formal_theory/formal_theory_quantum_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_quantum_decision_en.md
+
+检查文件: formal_theory/formal_theory_terminology.md
+
+检查文件: formal_theory/formal_theory_design_en.md
+
+检查文件: formal_theory/formal_theory_time_perception_en.md
+
+检查文件: formal_theory/formal_theory_quantum_information_geometry.md
+
+检查文件: formal_theory/formal_theory_phase_transition_en.md
+
+检查文件: formal_theory/formal_theory_quantum_security.md
+
+检查文件: formal_theory/formal_theory_computational_complexity.md
+
+检查文件: formal_theory/formal_theory_design.md
+
+检查文件: formal_theory/formal_theory_emotional.md
+
+检查文件: formal_theory/formal_theory_education.md
+
+检查文件: formal_theory/formal_theory_quantum_science_philosophy_en.md
+
+检查文件: formal_theory/formal_theory_biodiversity.md
+
+检查文件: formal_theory/formal_theory_artificial_intelligence_en.md
+
+检查文件: formal_theory/formal_theory_quantum_security_en.md
+
+检查文件: formal_theory/formal_theory_quantum_dreams_en.md
+
+检查文件: formal_theory/formal_theory_mind_brain.md
+
+检查文件: formal_theory/formal_theory_dynamical_systems.md
+
+检查文件: formal_theory/formal_theory_quantum_information_geometry_en.md
+
+检查文件: formal_theory/formal_theory_quantum_ai.md
+
+检查文件: formal_theory/formal_theory_chemical_consciousness_en.md
+  链接损坏: [../religious_classics/formal_theory/formal_theory_biochemical_information_en.md] 在文件 formal_theory/formal_theory_chemical_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_memory_en.md
+
+检查文件: formal_theory/formal_theory_ecological_consciousness.md
+
+检查文件: formal_theory/formal_theory_quantum_language_formation.md
+
+检查文件: formal_theory/formal_theory_music_en.md
+
+检查文件: formal_theory/formal_theory_gravity_spacetime.md
+
+检查文件: formal_theory/formal_theory_unified_consciousness.md
+
+检查文件: formal_theory/formal_theory_meditation.md
+
+检查文件: formal_theory/formal_theory_quantum_domain_en.md
+
+检查文件: formal_theory/formal_theory_quantum_emergent_phenomena.md
+
+检查文件: formal_theory/formal_theory_observer_feedback_en.md
+
+检查文件: formal_theory/formal_theory_cognitive_overload.md
+
+检查文件: formal_theory/formal_theory_evolution_en.md
+
+检查文件: formal_theory/formal_theory_multiverse_en.md
+
+检查文件: formal_theory/formal_theory_consciousness_virtual_reality.md
+
+检查文件: formal_theory/formal_theory_en.md
+
+检查文件: formal_theory/formal_theory_unified_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_quantum_ai_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_quantum_biology_en.md
+
+检查文件: formal_theory/formal_theory_consciousness_virtual_reality_en.md
+
+检查文件: formal_theory/formal_theory_universal_learning.md
+
+检查文件: formal_theory/formal_theory_human_transcendence_en.md
+
+检查文件: formal_theory/formal_theory_human_evolution.md
+
+检查文件: formal_theory/formal_theory_quantum_communication_en.md
+
+检查文件: formal_theory/formal_theory_interface_en.md
+
+检查文件: formal_theory/formal_theory.md
+
+检查文件: formal_theory/formal_theory_quantum_biology.md
+
+检查文件: formal_theory/formal_theory_cognitive_dynamics.md
+
+检查文件: formal_theory/formal_theory_human_collective_en.md
+
+检查文件: formal_theory/formal_theory_observer_en.md
+
+检查文件: formal_theory/formal_theory_terminology_en.md
+
+检查文件: formal_theory/formal_theory_quantum_spacetime_harmony.md
+
+检查文件: formal_theory/formal_theory_memory.md
+
+检查文件: formal_theory/formal_theory_experimental.md
+
+检查文件: formal_theory/formal_theory_crisis_resilience_en.md
+
+检查文件: formal_theory/formal_theory_art.md
+
+检查文件: formal_theory/formal_theory_innovation.md
+
+检查文件: formal_theory/formal_theory_medicine.md
+
+检查文件: formal_theory/formal_theory_consciousness_en.md
+
+检查文件: formal_theory/formal_theory_quantum_healing_en.md
+
+检查文件: formal_theory/formal_theory_reduction.md
+
+检查文件: formal_theory/formal_theory_biodiversity_en.md
+
+检查文件: formal_theory/formal_theory_universal_learning_en.md
+
+检查文件: formal_theory/formal_theory_topology.md
+
+检查文件: formal_theory/formal_theory_digital_transformation.md
+
+检查文件: formal_theory/formal_theory_self_reference_en.md
+
+检查文件: formal_theory/formal_theory_complex_systems.md
+
+检查文件: formal_theory/formal_theory_sustainable_development_en.md
+
+检查文件: formal_theory/formal_theory_artificial_intelligence.md
+
+检查文件: formal_theory/formal_theory_semiotics_en.md
+
+检查文件: formal_theory/formal_theory_temporal_asymmetry_en.md
+
+检查文件: formal_theory/formal_theory_social.md
+
+检查文件: formal_theory/formal_theory_social_en.md
+
+检查文件: formal_theory/formal_theory_cognitive_enhancement_en.md
+
+检查文件: quantum_classical_explanations/part5_unified_theory.md
+
+检查文件: quantum_classical_explanations/README.md
+
+检查文件: quantum_classical_explanations/part4_thermodynamics.md
+
+检查文件: quantum_classical_explanations/part1_basic_physics.md
+
+检查文件: quantum_classical_explanations/part3_relativity.md
+
+检查文件: quantum_classical_explanations/part2_quantum_mechanics.md
+
+检查文件: articles/brain_quantum_computer.md
+
+检查文件: articles/ancient_wisdom_quantum.md
+
+检查文件: articles/consciousness_shapes_universe.md
+
+检查文件: articles/emotions_dna_quantum.md
+
+检查文件: articles/README.md
+
+检查文件: articles/quantum_success.md
+
+检查文件: articles/quantum_love.md
+
+检查文件: articles/quantum_dreams.md
+
+检查文件: articles/simulated_reality_quantum.md
+
+检查文件: articles/quantum_intuition.md
+
+检查文件: articles/quantum_classical_for_beginners.md
+
+检查文件: articles/quantum_creativity.md
+
+检查文件: articles/death_illusion_quantum.md
+
+检查文件: articles/quantum_health.md
+
+检查文件: education/README.md
+
+检查文件: education/advanced/quantum_optics_technology.md
+
+检查文件: education/advanced/quantum_optics_development.md
+
+检查文件: education/advanced/interdisciplinary_applications.md
+
+检查文件: education/advanced/mathematical_derivations.md
+
+检查文件: education/advanced/quantum_optics_innovation.md
+
+检查文件: education/advanced/quantum_mechanics.md
+
+检查文件: education/advanced/quantum_control.md
+
+检查文件: education/advanced/quantum_algorithm.md
+
+检查文件: education/advanced/quantum_optics.md
+
+检查文件: education/advanced/quantum_simulation.md
+
+检查文件: education/advanced/quantum_consciousness.md
+
+检查文件: education/advanced/quantum_optics_experiment.md
+
+检查文件: education/advanced/quantum_optics_challenge.md
+
+检查文件: education/advanced/physics_theory_comparison.md
+
+检查文件: education/advanced/quantum_gravity.md
+
+检查文件: education/advanced/quantum_computing.md
+
+检查文件: education/advanced/quantum_field.md
+
+检查文件: education/advanced/quantum_optics_breakthrough.md
+
+检查文件: education/advanced/quantum_network.md
+
+检查文件: education/advanced/quantum_error.md
+
+检查文件: education/advanced/quantum_entanglement.md
+
+检查文件: education/advanced/quantum_cosmology.md
+
+检查文件: education/advanced/quantum_information.md
+
+检查文件: education/advanced/theoretical_extensions.md
+
+检查文件: education/advanced/quantum_optics_revolution.md
+
+检查文件: education/advanced/quantum_optics_opportunity.md
+
+检查文件: education/advanced/higher_dimensions.md
+
+检查文件: education/advanced/quantum_biology.md
+
+检查文件: education/advanced/quantum_optics_engineering.md
+
+检查文件: education/advanced/research_methodology.md
+
+检查文件: education/advanced/quantum_optics_future.md
+
+检查文件: education/advanced/quantum_optics_application.md
+
+检查文件: education/advanced/free_will_reincarnation.md
+
+检查文件: education/advanced/quantum_optics_prospect.md
+
+检查文件: education/advanced/quantum_cryptography.md
+
+检查文件: education/advanced/quantum_measurement.md
+
+检查文件: education/beginner/thought_experiments.md
+
+检查文件: education/beginner/introduction_guide.md
+
+检查文件: education/beginner/faq.md
+
+检查文件: education/beginner/everyday_applications.md
+
+检查文件: education/beginner/observer_blackhole_intro.md
+
+检查文件: education/beginner/core_concepts_simplified.md
+
+检查文件: education/beginner/classicalization_basics.md
+
+检查文件: education/teaching/assessment_methods.md
+
+检查文件: education/teaching/classroom_activities_en.md
+
+检查文件: education/teaching/resource_library.md
+
+检查文件: education/teaching/assessment_methods_en.md
+
+检查文件: education/teaching/teaching_methods.md
+
+检查文件: education/teaching/resource_library_en.md
+
+检查文件: education/teaching/classroom_activities.md
+
+检查文件: education/teaching/dualistic_teaching.md
+
+检查文件: education/teaching/dualistic_teaching_en.md
+
+检查文件: education/teaching/curriculum_design.md
+
+检查文件: education/multimedia/video_series.md
+
+检查文件: education/interactive/dimension_assessment.md
+
+检查文件: education/intermediate/mathematical_introduction.md
+
+检查文件: education/intermediate/observer_dimensions.md
+
+检查文件: education/intermediate/classicalization_case_studies.md
+
+检查文件: education/intermediate/wormhole_communication_basics.md
+
+检查文件: education/intermediate/theoretical_foundations.md
+
+检查文件: theories/universe_structure.md
+
+检查文件: theories/entropy_changes_daily_life.md
+
+检查文件: theories/entropy_observer_dimension.md
+
+检查文件: theories/unsolved_problems_formal_solutions.md
+
+检查文件: theories/reproduction_quantum_information.md
+
+检查文件: theories/economic_classical_quantum.md
+
+检查文件: theories/ai_computational_explanations.md
+
+检查文件: theories/black_hole_classicalization.md
+
+检查文件: theories/unexplained_phenomena.md
+
+检查文件: theories/scientific_explanations.md
+
+检查文件: theories/observer_perception.md
+
+检查文件: theories/terminology.md
+
+检查文件: theories/explained_puzzles.md
+
+检查文件: theories/README.md
+
+检查文件: theories/consciousness_persistence.md
+
+检查文件: theories/higher_dimensional_classicalization.md
+
+检查文件: theories/future_research.md
+
+检查文件: theories/free_will_quantum_entanglement.md
+
+检查文件: theories/universe_entanglement_entropy.md
+
+检查文件: theories/universe_creation_process.md
+
+检查文件: theories/unsolved_problems/quantum_measurement_problem.md
+
+检查文件: theories/unsolved_problems/p_vs_np.md
+
+检查文件: theories/unsolved_problems/consciousness_hard_problem.md
+
+检查文件: theories/unsolved_problems/collective_consciousness.md
+
+检查文件: theories/unsolved_problems/quantum_nonlocality.md
+
+检查文件: theories/unsolved_problems/nature_of_aesthetics.md
+
+检查文件: theories/unsolved_problems/meaning_value_problem.md
+
+检查文件: theories/unsolved_problems/fermi_paradox.md
+
+检查文件: theories/unsolved_problems/origin_of_cooperation.md
+
+检查文件: theories/unsolved_problems/artificial_consciousness.md
+
+检查文件: theories/unsolved_problems/README.md
+
+检查文件: theories/unsolved_problems/mind_body_problem.md
+
+检查文件: theories/unsolved_problems/free_will_determinism.md
+
+检查文件: theories/unsolved_problems/anthropic_principle.md
+
+检查文件: theories/unsolved_problems/origin_of_life.md
+
+检查文件: theories/unsolved_problems/black_hole_information_paradox.md
+
+检查文件: theories/unsolved_problems/origin_of_language.md
+
+检查文件: theories/unsolved_problems/arrow_of_time.md
+
+检查文件: theories/philosophy_humanities/spiritual_dimensions.md
+
+检查文件: theories/philosophy_humanities/philosophy_explanation.md
+
+检查文件: theories/philosophy_humanities/religious_explanations.md
+
+检查文件: theories/philosophy_humanities/ethical_explanations.md
+
+检查文件: theories/philosophy_humanities/philosophical_explanations.md
+
+检查文件: theories/philosophy_humanities/yijing_quantum_classical.md
+
+检查文件: theories/philosophy_humanities/religious_studies_explanation.md
+
+检查文件: theories/applied_disciplines/game_entertainment_explanations.md
+
+检查文件: theories/applied_disciplines/architecture_explanation.md
+
+检查文件: theories/applied_disciplines/music_explanations.md
+
+检查文件: theories/applied_disciplines/finance_explanation.md
+
+检查文件: theories/applied_disciplines/educational_explanations.md
+
+检查文件: theories/applied_disciplines/media_information_explanations.md
+
+检查文件: theories/applied_disciplines/astrology_explanations.md
+
+检查文件: theories/applied_disciplines/ai_computation_explanations.md
+
+检查文件: theories/applied_disciplines/education_learning_explanations.md
+
+检查文件: theories/applied_disciplines/fashion_clothing_explanations.md
+
+检查文件: theories/applied_disciplines/sports_movement_explanations.md
+
+检查文件: theories/applied_disciplines/art_aesthetics_explanations.md
+
+检查文件: theories/applied_disciplines/art_explanation.md
+
+检查文件: theories/applied_disciplines/dream_sleep_explanations.md
+
+检查文件: theories/applied_disciplines/architecture_space_explanations.md
+
+检查文件: theories/applied_disciplines/astrology.md
+
+检查文件: theories/applied_disciplines/cooking_food_explanations.md
+
+检查文件: theories/applied_disciplines/urban_planning_development_explanations.md
+
+检查文件: theories/applied_disciplines/marketing_explanation.md
+
+检查文件: theories/applied_disciplines/law_explanation.md
+
+检查文件: theories/applied_disciplines/ai_explanations.md
+
+检查文件: theories/applied_disciplines/management_explanation.md
+
+检查文件: theories/applied_disciplines/astrology/planets_constellations.md
+
+检查文件: theories/applied_disciplines/astrology/basic_principles_history.md
+
+检查文件: theories/applied_disciplines/astrology/practice_applications.md
+
+检查文件: theories/applied_disciplines/astrology/README.md
+
+检查文件: theories/applied_disciplines/astrology/time_space.md
+
+检查文件: theories/applied_disciplines/astrology/critique_corrections.md
+
+检查文件: theories/applied_disciplines/astrology/charts_prediction.md
+
+检查文件: theories/social_sciences/psychology_explanation.md
+
+检查文件: theories/social_sciences/social_quantum_entanglement.md
+
+检查文件: theories/social_sciences/sociological_explanations.md
+
+检查文件: theories/social_sciences/historical_explanations.md
+
+检查文件: theories/social_sciences/politics_governance_explanations.md
+
+检查文件: theories/social_sciences/political_science_explanation.md
+
+检查文件: theories/social_sciences/economic_explanations.md
+
+检查文件: theories/social_sciences/history_explanation.md
+
+检查文件: theories/social_sciences/economics_explanation.md
+
+检查文件: theories/social_sciences/linguistics_communication_explanations.md
+
+检查文件: theories/social_sciences/linguistic_explanations.md
+
+检查文件: theories/social_sciences/psychological_explanations.md
+
+检查文件: theories/quantum_classical/quantum_universe.md
+
+检查文件: theories/quantum_classical/classical_consciousness.md
+
+检查文件: theories/quantum_classical/README.md
+
+检查文件: theories/quantum_classical/quantum_observer.md
+
+检查文件: theories/sci_fi_analysis/inception_analysis.md
+
+检查文件: theories/sci_fi_analysis/three_body_critique.md
+
+检查文件: theories/sci_fi_analysis/README.md
+
+检查文件: theories/sci_fi_analysis/matrix_analysis.md
+
+检查文件: theories/sci_fi_analysis/ghost_in_shell_analysis.md
+
+检查文件: theories/sci_fi_analysis/wandering_earth_analysis.md
+
+检查文件: theories/sci_fi_analysis/blade_runner_analysis.md
+
+检查文件: theories/sci_fi_analysis/interstellar_analysis.md
+
+检查文件: theories/observer_perception/black_hole_observer.md
+
+检查文件: theories/scientific_perspectives/meditation_entropy_reduction.md
+
+检查文件: theories/applications/celestial_information_nodes.md
+
+检查文件: theories/applications/wormhole_entanglement.md
+
+检查文件: theories/applications/observer_hierarchy.md
+
+检查文件: theories/applications/black_hole_information.md
+
+检查文件: theories/universe_structure/observer_dimension_evolution.md
+
+检查文件: theories/natural_sciences/mathematics_nature_explanations.md
+
+检查文件: theories/natural_sciences/environmental_explanations.md
+
+检查文件: theories/natural_sciences/physics_explanation.md
+
+检查文件: theories/natural_sciences/medicine_health_explanations.md
+
+检查文件: theories/natural_sciences/biology_explanation.md
+
+检查文件: theories/natural_sciences/mathematics_explanation.md
+
+检查文件: theories/natural_sciences/chemistry_explanation.md
+
+检查文件: theories/natural_sciences/README.md
+
+检查文件: theories/natural_sciences/pharmacy_explanation.md
+
+检查文件: theories/natural_sciences/environment_ecology_explanations.md
+
+检查文件: theories/natural_sciences/biological_explanations.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems.md
+
+检查文件: theories/natural_sciences/medicine_explanation.md
+
+检查文件: theories/natural_sciences/traditional_physics_explained.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/goldbach_conjecture.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/abc_conjecture.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/navier_stokes_equations.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/riemann_hypothesis.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/hodge_conjecture.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/README.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/twin_prime_conjecture.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/poincare_conjecture.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/birch_swinnerton_dyer_conjecture.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/yang_mills_existence.md
+
+检查文件: theories/natural_sciences/mathematics_unsolved_problems/p_vs_np_problem.md
+
+检查文件: religious_classics/Quran.md
+
+检查文件: religious_classics/Torah.md
+
+检查文件: religious_classics/Buddhist_Sutras.md
+
+检查文件: religious_classics/Bible.md
+
+检查文件: religious_classics/Vedas.md
+
+检查文件: religions/Sikhism.md
+
+检查文件: religions/Buddhism.md
+
+检查文件: religions/Judaism.md
+
+检查文件: religions/README.md
+
+检查文件: religions/Hinduism.md
+
+检查文件: religions/Islam.md
+
+检查文件: religions/Confucianism.md
+
+检查文件: religions/Taoism.md
+
+检查文件: religions/Christianity.md
+
+检查文件: religions/confucianism_scriptures/Liang_Shuming.md
+
+检查文件: religions/confucianism_scriptures/Wang_Yangming.md
+
+检查文件: religions/confucianism_scriptures/Book_of_Songs.md
+
+检查文件: religions/confucianism_scriptures/Zhu_Xi.md
+
+检查文件: religions/confucianism_scriptures/Cheng_Brothers.md
+
+检查文件: religions/confucianism_scriptures/Great_Learning.md
+
+检查文件: religions/confucianism_scriptures/Book_of_Rites.md
+
+检查文件: religions/confucianism_scriptures/Mencius.md
+
+检查文件: religions/confucianism_scriptures/Mou_Zongsan.md
+
+检查文件: religions/confucianism_scriptures/README.md
+
+检查文件: religions/confucianism_scriptures/Analects.md
+
+检查文件: religions/confucianism_scriptures/Doctrine_of_the_Mean.md
+
+检查文件: religions/confucianism_scriptures/I_Ching.md
+
+检查文件: religions/confucianism_scriptures/Xu_Fuguan.md
+
+检查文件: religions/confucianism_scriptures/Reflections_on_Things_at_Hand.md
+
+检查文件: religions/confucianism_scriptures/Book_of_Documents.md
+
+检查文件: religions/confucianism_scriptures/Spring_and_Autumn_Annals.md
+
+检查文件: religions/confucianism_scriptures/Tu_Weiming.md
+
+检查文件: religions/sikhism_scriptures/Guru_Granth_Sahib.md
+
+检查文件: religions/sikhism_scriptures/Japji_Sahib.md
+
+检查文件: religions/sikhism_scriptures/README.md
+
+检查文件: religions/sikhism_scriptures/Mool_Mantar.md
+
+检查文件: religions/sikhism_scriptures/Sukhmani_Sahib.md
+
+检查文件: religions/christianity_scriptures/Psalms.md
+
+检查文件: religions/christianity_scriptures/Corinthians.md
+
+检查文件: religions/christianity_scriptures/Exodus.md
+
+检查文件: religions/christianity_scriptures/Galatians.md
+
+检查文件: religions/christianity_scriptures/Genesis.md
+
+检查文件: religions/christianity_scriptures/Isaiah.md
+
+检查文件: religions/christianity_scriptures/Matthew.md
+
+检查文件: religions/christianity_scriptures/Luke.md
+
+检查文件: religions/christianity_scriptures/README.md
+
+检查文件: religions/christianity_scriptures/Revelation.md
+
+检查文件: religions/christianity_scriptures/Timothy.md
+
+检查文件: religions/christianity_scriptures/Mark.md
+
+检查文件: religions/christianity_scriptures/Acts.md
+
+检查文件: religions/christianity_scriptures/Romans.md
+
+检查文件: religions/christianity_scriptures/Leviticus.md
+
+检查文件: religions/christianity_scriptures/John.md
+
+检查文件: religions/christianity_scriptures/Titus.md
+
+检查文件: religions/islam_scriptures/Sahih_Muslim.md
+
+检查文件: religions/islam_scriptures/Ibn_Taymiyyah_Works.md
+
+检查文件: religions/islam_scriptures/Abu_Hanifa_Works.md
+
+检查文件: religions/islam_scriptures/An-Nisa.md
+
+检查文件: religions/islam_scriptures/Al-Maidah.md
+
+检查文件: religions/islam_scriptures/Al-Baqarah.md
+
+检查文件: religions/islam_scriptures/README.md
+
+检查文件: religions/islam_scriptures/Al-Isra.md
+
+检查文件: religions/islam_scriptures/Sahih_al-Bukhari.md
+
+检查文件: religions/islam_scriptures/Masnavi.md
+
+检查文件: religions/islam_scriptures/Al-Fatihah.md
+
+检查文件: religions/islam_scriptures/Usul_al-Fiqh.md
+
+检查文件: religions/islam_scriptures/Al-Hadid.md
+
+检查文件: religions/islam_scriptures/Meccan_Revelations.md
+
+检查文件: religions/islam_scriptures/Al-Shafii_Works.md
+
+检查文件: religions/islam_scriptures/Al-Imran.md
+
+检查文件: religions/islam_scriptures/Surah_Ikhlas.md
+
+检查文件: religions/islam_scriptures/Forty_Hadiths.md
+
+检查文件: religions/islam_scriptures/Al-Ikhlas.md
+
+检查文件: religions/islam_scriptures/An-Nur.md
+
+检查文件: religions/islam_scriptures/Revival_Religious_Sciences.md
+
+检查文件: religions/taoism_scriptures/Cantong_Qi.md
+
+检查文件: religions/taoism_scriptures/Wuzhen_Pian.md
+
+检查文件: religions/taoism_scriptures/Qingjing_Jing.md
+
+检查文件: religions/taoism_scriptures/Tao_Te_Ching.md
+
+检查文件: religions/taoism_scriptures/Yunji_Qiqian.md
+
+检查文件: religions/taoism_scriptures/Liezi.md
+
+检查文件: religions/taoism_scriptures/Xingming_Guizhi.md
+
+检查文件: religions/taoism_scriptures/Daozang.md
+
+检查文件: religions/taoism_scriptures/Qinghua_Miwen.md
+
+检查文件: religions/taoism_scriptures/Wenzi.md
+
+检查文件: religions/taoism_scriptures/README.md
+
+检查文件: religions/taoism_scriptures/Huangting_Jing.md
+
+检查文件: religions/taoism_scriptures/Zhengtong_Daozang.md
+
+检查文件: religions/taoism_scriptures/Zhuangzi.md
+
+检查文件: religions/taoism_scriptures/Taiping_Jing.md
+
+检查文件: religions/taoism_scriptures/Jade_Emperor_Sutra.md
+
+检查文件: religions/taoism_scriptures/Huainanzi.md
+
+检查文件: religions/taoism_scriptures/Taishang_Ganying_Pian.md
+
+检查文件: religions/judaism_scriptures/Gemara.md
+
+检查文件: religions/judaism_scriptures/Psalms.md
+
+检查文件: religions/judaism_scriptures/Judges.md
+
+检查文件: religions/judaism_scriptures/Jerusalem_Talmud.md
+
+检查文件: religions/judaism_scriptures/Exodus.md
+
+检查文件: religions/judaism_scriptures/Genesis.md
+
+检查文件: religions/judaism_scriptures/Torah_Overview.md
+
+检查文件: religions/judaism_scriptures/Isaiah.md
+
+检查文件: religions/judaism_scriptures/Mishnah.md
+
+检查文件: religions/judaism_scriptures/Ruth.md
+
+检查文件: religions/judaism_scriptures/Ezekiel.md
+
+检查文件: religions/judaism_scriptures/Zohar.md
+
+检查文件: religions/judaism_scriptures/Shulchan_Aruch.md
+
+检查文件: religions/judaism_scriptures/Joshua.md
+
+检查文件: religions/judaism_scriptures/Mishneh_Torah.md
+
+检查文件: religions/judaism_scriptures/Deuteronomy.md
+
+检查文件: religions/judaism_scriptures/README.md
+
+检查文件: religions/judaism_scriptures/Proverbs.md
+
+检查文件: religions/judaism_scriptures/Minor_Prophets.md
+
+检查文件: religions/judaism_scriptures/Song_of_Songs.md
+
+检查文件: religions/judaism_scriptures/Jeremiah.md
+
+检查文件: religions/judaism_scriptures/Lamentations.md
+
+检查文件: religions/judaism_scriptures/Hasidic_Works.md
+
+检查文件: religions/judaism_scriptures/Samuel.md
+
+检查文件: religions/judaism_scriptures/Numbers.md
+
+检查文件: religions/judaism_scriptures/Ecclesiastes.md
+
+检查文件: religions/judaism_scriptures/Job.md
+
+检查文件: religions/judaism_scriptures/Kings.md
+
+检查文件: religions/judaism_scriptures/Babylonian_Talmud.md
+
+检查文件: religions/buddhism_scriptures/Gateless_Gate.md
+
+检查文件: religions/buddhism_scriptures/Abhidhamma_Pitaka.md
+
+检查文件: religions/buddhism_scriptures/Avatamsaka_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Vinaya_Pitaka.md
+
+检查文件: religions/buddhism_scriptures/Majjhima_Nikaya.md
+
+检查文件: religions/buddhism_scriptures/Khuddaka_Nikaya.md
+
+检查文件: religions/buddhism_scriptures/Platform_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Blue_Cliff_Record.md
+
+检查文件: religions/buddhism_scriptures/README.md
+
+检查文件: religions/buddhism_scriptures/Lankavatara_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Dhammapada.md
+
+检查文件: religions/buddhism_scriptures/Anguttara_Nikaya.md
+
+检查文件: religions/buddhism_scriptures/Tantric_Texts.md
+
+检查文件: religions/buddhism_scriptures/Lotus_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Diamond_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Madhyamaka.md
+
+检查文件: religions/buddhism_scriptures/Heart_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Mahaparinirvana_Sutra.md
+
+检查文件: religions/buddhism_scriptures/Samyutta_Nikaya.md
+
+检查文件: religions/buddhism_scriptures/Tibetan_Book_of_Dead.md
+
+检查文件: religions/buddhism_scriptures/Digha_Nikaya.md
+
+检查文件: religions/buddhism_scriptures/Vimalakirti_Sutra.md
+
+检查文件: religions/hinduism_scriptures/Shaiva_Tantras.md
+
+检查文件: religions/hinduism_scriptures/Bhagavad_Gita.md
+
+检查文件: religions/hinduism_scriptures/Mahabharata.md
+
+检查文件: religions/hinduism_scriptures/Ramayana.md
+
+检查文件: religions/hinduism_scriptures/Shakta_Tantras.md
+
+检查文件: religions/hinduism_scriptures/Samkhya_Karika.md
+
+检查文件: religions/hinduism_scriptures/Atharvaveda.md
+
+检查文件: religions/hinduism_scriptures/Vishnu_Purana.md
+
+检查文件: religions/hinduism_scriptures/Vedanta_Sutras.md
+
+检查文件: religions/hinduism_scriptures/Yajurveda.md
+
+检查文件: religions/hinduism_scriptures/README.md
+
+检查文件: religions/hinduism_scriptures/Upanishads.md
+
+检查文件: religions/hinduism_scriptures/Brahma_Sutras.md
+
+检查文件: religions/hinduism_scriptures/Yoga_Sutras.md
+
+检查文件: religions/hinduism_scriptures/Samaveda.md
+
+检查文件: religions/hinduism_scriptures/Vaishnava_Tantras.md
+
+检查文件: religions/hinduism_scriptures/Shiva_Purana.md
+
+检查文件: religions/hinduism_scriptures/Rigveda.md
+
+检查文件: religions/hinduism_scriptures/Bhagavata_Purana.md
+
+检查文件: visualizations/core_concepts.md
+
+检查文件: visualizations/universe_structure_visualization.md
+
+检查文件: visualizations/observer_perception_visualization.md
+
+检查文件: visualizations/destiny_free_will_visualization.md
+
+检查文件: visualizations/quantum_consciousness_visualization.md
+
+检查文件: visualizations/quantum_entanglement_essence_visualization.md
+
+检查文件: visualizations/README.md
+
+检查文件: visualizations/concept_mapping.md
+
+检查文件: visualizations/classicalization_process_visualization.md
+
+检查文件: figures/README.md
+
+检查文件: figures/philosophical/simone_beauvoir.md
+
+检查文件: figures/humanitarians/albert_schweitzer.md
+
+检查文件: figures/innovators/bill_gates.md
+
+检查文件: figures/economists/adam_smith.md
+
+检查文件: figures/economists/keynes.md
+
+检查文件: figures/strategists/sunzi.md
+
+检查文件: figures/filmmakers/stanley_kubrick.md
+
+检查文件: figures/entrepreneurs/jobs.md
+
+检查文件: figures/entrepreneurs/steve_jobs.md
+
+检查文件: figures/political_leaders/martin_luther_king.md
+
+检查文件: figures/political_leaders/aung_san_suu_kyi.md
+
+检查文件: figures/political_leaders/elizabeth_i.md
+
+检查文件: figures/political_leaders/machiavelli.md
+
+检查文件: figures/political_leaders/rosa_luxemburg.md
+
+检查文件: figures/political_leaders/cleopatra.md
+
+检查文件: figures/political_leaders/gandhi.md
+
+检查文件: figures/psychologists/freud.md
+
+检查文件: figures/psychologists/jung.md
+
+检查文件: figures/environmentalists/rachel_carson.md
+
+检查文件: figures/mathematicians/von_neumann.md
+
+检查文件: figures/mathematicians/john_nash.md
+
+检查文件: figures/scientists/ada_lovelace.md
+
+检查文件: figures/scientists/marie_curie.md
+
+检查文件: figures/scientists/einstein.md
+
+检查文件: figures/scientists/turing.md
+
+检查文件: figures/scientists/hawking.md
+
+检查文件: figures/scientists/niels_bohr.md
+
+检查文件: figures/scientists/darwin.md
+
+检查文件: figures/scientists/gauss.md
+
+检查文件: figures/scientists/newton.md
+
+检查文件: figures/scientists/nikola_tesla.md
+
+检查文件: figures/leaders/mandela.md
+
+检查文件: figures/leaders/alexander.md
+
+检查文件: figures/religious/buddha.md
+
+检查文件: figures/literary_figures/shakespeare.md
+
+检查文件: figures/literary_figures/george_orwell.md
+
+检查文件: figures/literary_figures/mark_twain.md
+
+检查文件: figures/literary_figures/hermann_hesse.md
+
+检查文件: figures/literary_figures/jane_austen.md
+
+检查文件: figures/literary_figures/lu_xun.md
+
+检查文件: figures/literary_figures/tolstoy.md
+
+检查文件: figures/musicians/xuwei_guxiang.md
+
+检查文件: figures/musicians/xuwei_xiangFengYiYangZiYou.md
+
+检查文件: figures/musicians/xuwei_lanlaienhua.md
+
+检查文件: figures/musicians/xuwei_zhizhuo.md
+
+检查文件: figures/musicians/xuwei_cengJingDeNi.md
+
+检查文件: figures/musicians/pushu.md
+
+检查文件: figures/musicians/README.md
+
+检查文件: figures/musicians/pushu_pingfanzhilu.md
+
+检查文件: figures/musicians/xuwei.md
+
+检查文件: figures/musicians/pushu_nafehua.md
+
+检查文件: figures/musicians/xuwei_wujinguangmang.md
+
+检查文件: figures/musicians/xuwei_shiguang.md
+
+检查文件: figures/musicians/xuwei_shenghuoBuZhiYanQianDeGouQie.md
+
+检查文件: figures/musicians/pushu_baihulin.md
+
+检查文件: figures/artists/shakespeare.md
+
+检查文件: figures/artists/beethoven.md
+
+检查文件: figures/artists/van_gogh.md
+
+检查文件: figures/artists/davinci.md
+
+检查文件: figures/artists/mozart.md
+
+检查文件: figures/artists/picasso.md
+
+检查文件: figures/artists/frida_kahlo.md
+
+检查文件: figures/artists/maria_callas.md
+
+检查文件: figures/artists/andy_warhol.md
+
+检查文件: figures/religious_leaders/moses.md
+
+检查文件: figures/religious_leaders/dalai_lama.md
+
+检查文件: figures/religious_leaders/jesus_christ.md
+
+检查文件: figures/religious_leaders/mother_teresa.md
+
+检查文件: figures/religious_leaders/buddha.md
+
+检查文件: figures/religious_leaders/thomas_aquinas.md
+
+检查文件: figures/religious_leaders/pope_john_paul_ii.md
+
+检查文件: figures/religious_leaders/saint_augustine.md
+
+检查文件: figures/religious_leaders/saint_paul.md
+
+检查文件: figures/religious_leaders/swami_vivekananda.md
+
+检查文件: figures/religious_leaders/muhammad.md
+
+检查文件: figures/religious_leaders/martin_luther.md
+
+检查文件: figures/philosophers/socrates.md
+
+检查文件: figures/philosophers/hannah_arendt.md
+
+检查文件: figures/philosophers/confucius.md
+
+检查文件: figures/philosophers/descartes.md
+
+检查文件: figures/philosophers/xunzi.md
+
+检查文件: figures/philosophers/nietzsche.md
+
+检查文件: figures/philosophers/aristotle.md
+
+检查文件: figures/philosophers/camus.md
+
+检查文件: figures/philosophers/kant.md
+
+检查文件: figures/philosophers/mary_wollstonecraft.md
+
+检查文件: figures/philosophers/laozi.md
+
+检查文件: figures/philosophers/plato.md
+
+检查文件: applications/universe_structure_application.md
+
+检查文件: applications/quantum_computing_consciousness.md
+
+检查文件: applications/README.md
+
+检查文件: applications/destiny_free_will_applications.md
+
+检查文件: applications/mathematics/observer_dimension_math.md
+
+检查文件: applications/mathematics/README.md
+
+检查文件: applications/mathematics/mathematical_bridges.md
+
+检查文件: applications/mathematics/collective_dynamics_models.md
+
+检查文件: applications/observer_theory/observer_dimension_relationships.md
+
+检查文件: applications/observer_theory/classicalization_worlds.md
+
+检查文件: applications/observer_theory/civilization_classicalization.md
+
+检查文件: applications/observer_theory/consciousness_limitations_healing.md
+
+检查文件: applications/observer_theory/universe_game_time_longevity.md
+
+检查文件: applications/observer_theory/README.md
+
+检查文件: applications/observer_theory/entropy_knowledge_duality.md
+
+检查文件: applications/observer_theory/entropy_reduction_rejuvenation.md
+
+检查文件: applications/observer_theory/observer_self_understanding.md
+
+检查文件: applications/observer_theory/destiny_free_will_comparison.md
+
+检查文件: applications/observer_theory/observation_wavefunction_entropy.md
+
+检查文件: applications/observer_theory/information_transmission.md
+
+检查文件: applications/observer_theory/dimension_happiness_relationships.md
+
+检查文件: applications/relationships/interpersonal_conflicts.md
+
+检查文件: applications/relationships/README.md
+
+检查文件: applications/relationships/love_attraction.md
+
+检查文件: applications/relationships/collective_social_entanglement.md
+
+检查完成!
+发现 73 个损坏的链接

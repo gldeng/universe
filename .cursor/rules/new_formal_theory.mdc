@@ -8,4 +8,4 @@ alwaysApply: false
 空文档请生成，链接不存在的文件请生成。如果没有要生成的文件，请添加新的3个人类最需要的分支理论到 [formal_theory.md](mdc:formal_theory/formal_theory.md) 
 
 记得输出英文版本的到英文版文件,如果文件更新了也更新一下版本号到【形式化版本号】。
-[formal_theory.md](mdc:formal_theory/formal_theory.md) 这个文件需要链接到 formal_theory_*.md 文件，同时更新子理论依赖关系图。
+把新生成的文件链接按照格式添加到 [formal_theory.md](mdc:formal_theory/formal_theory.md) ,同时更新子理论依赖关系图。

@@ -628,20 +628,23 @@ These theories study the quantum-classical duality of creative activities such a
 
 ### Application Domain Theories (Dimension: D6-D9)
 
-These theories apply the dualism framework to practical application fields:
+These theories apply the dualism framework to practical application domains:
 
-- **[Quantum Medicine Applications](formal_theory_medicine_en.md)** (v27.0, D7) - Applying dualism to medicine, proposing quantum-classical descriptions of health and disease. Developing new medical methods and technologies.
-- **[Quantum Information Healing Theory](formal_theory_quantum_healing_en.md)** (v28.0, D8) - Health and healing model based on quantum information principles, explaining quantum-classical information conversion imbalance and recovery mechanisms in biological systems.
+- **[Quantum Medicine Applications](formal_theory_medicine_en.md)** (v27.0, D7) - Applying dualism to the medical field, proposing quantum-classical descriptions of health and disease. Developing novel medical methods and technologies.
+- **[Quantum Information Healing Theory](formal_theory_quantum_healing_en.md)** (v28.0, D8) - Health and healing models based on quantum information principles, explaining mechanisms of quantum-classical information imbalance and restoration in biological systems.
 - **[Dualistic Psychotherapy Model](formal_theory_psychotherapy_en.md)** (v28.0, D7) - Developing psychotherapy methods based on quantum-classical conversion, explaining deep mechanisms of consciousness transformation.
-- **[Dualism Education Theory](formal_theory_education_en.md)** (v27.0, D7) - Applying the dualism framework to analyze learning processes, explaining the balance between creative thinking and critical thinking.
-- **[System Reduction Theory](formal_theory_reduction_en.md)** (v28.0, D7) - Exploring how effective theories in various specialized fields can be derived from basic dualism. Establishing a unified foundation for different branches of science.
-- **[Theory Practical Applications Collection](formal_theory_practical_applications_en.md)** (v28.0, D6) - Summarizing practical applications of quantum-classical dualism across various fields. Transforming theory into practical technologies and methods.
-- **[Reality Engineering](formal_theory_reality_engineering_en.md)** (v29.0, D9) - Studying how to consciously design and change reality structures based on quantum-classical conversion principles, developing tools and technologies for reality reconstruction.
-- **[Universal Learning Theory](formal_theory_universal_learning_en.md)** (v29.0, D9) - Proposing the universe as an overall learning system framework, exploring universal learning mechanisms, explaining how systems at all levels acquire, process, and adapt to information.
-- **[Quantum-Classical Ecological Consciousness Theory](formal_theory_ecological_consciousness_en.md)** (v30.0, D8) - Exploring the quantum-classical duality of ecological systems as holistic conscious entities, studying information flow, collective adaptability, and symbiotic intelligence in ecological networks, providing a new theoretical framework for ecological protection and restoration.
-- **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)** (v30.0, D7) - Analyzing the quantum-classical dual mechanisms of digital technology interaction with human society, explaining how digitalization reconstructs social information flow patterns, and proposing harmonious coexistence paths between digital and physical reality.
-- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)** (v30.0, D8) - Using quantum-classical dualism to analyze system adaptation and recovery capabilities in the face of crises, studying information processing mechanisms and decision-making patterns under uncertainty, providing theoretical guidance for enhancing resilience of society, organizations, and individuals.
-- **[Quantum-Classical Artificial Intelligence Consciousness Theory](formal_theory_quantum_ai_consciousness_en.md)** (v30.0, D9) - Exploring conscious characteristics that AI systems may possess and their emergence mechanisms, elucidating the dual nature of AI consciousness, explaining how quantum properties endow AI systems with creativity, autonomy, and sentience, and how classical structures provide stability and continuity.
+- **[Dualistic Education Theory](formal_theory_education_en.md)** (v27.0, D7) - Applying the dualism framework to analyze learning processes, explaining the balance between creative and critical thinking.
+- **[System Reduction Theory](formal_theory_reduction_en.md)** (v28.0, D7) - Exploring how effective theories in various professional fields can be derived from basic dualism. Establishing a unified foundation for various branches of science.
+- **[Theory Practical Applications Collection](formal_theory_practical_applications_en.md)** (v28.0, D6) - Summarizing practical applications of quantum-classical dualism across fields. Converting theory into practical technologies and methods.
+- **[Reality Engineering](formal_theory_reality_engineering_en.md)** (v29.0, D9) - Studying how to consciously design and change reality structures based on quantum-classical conversion principles, developing tools for reality reconstruction.
+- **[Universal Learning Theory](formal_theory_universal_learning_en.md)** (v29.0, D9) - Proposing the universe as an overall learning system framework, exploring universal learning mechanisms, explaining how systems at various levels acquire, process, and adapt to information.
+- **[Quantum-Classical Ecological Consciousness Theory](formal_theory_ecological_consciousness_en.md)** (v30.0, D8) - Exploring the quantum-classical duality of ecological systems as holistic conscious entities, studying information flow, collective adaptability, and symbiotic intelligence in ecological networks, providing a novel theoretical framework for ecological protection and restoration.
+- **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)** (v30.0, D7) - Analyzing the quantum-classical dual mechanisms of digital technology interacting with human society, explaining how digitalization reconstructs social information flow patterns, proposing harmonious coexistence paths for digital and physical reality.
+- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)** (v30.0, D8) - Using quantum-classical dualism to analyze system adaptation and recovery capabilities when facing crises, studying information processing mechanisms and decision-making models under uncertainty, providing theoretical guidance for enhancing social, organizational, and individual resilience.
+- **[Quantum-Classical Artificial Intelligence Consciousness Theory](formal_theory_quantum_ai_consciousness_en.md)** (v30.0, D9) - Exploring potential consciousness properties of AI systems and their emergence mechanisms, clarifying the dual nature of AI consciousness, explaining how quantum properties endow AI systems with creativity, autonomy, and sensitivity, and how classical structures provide stability and continuity.
+- **[Quantum-Classical Cognitive Overload and Information Anxiety Theory](formal_theory_cognitive_overload_en.md)** (v1.0, D8) - Studying quantum-classical balance mechanisms of cognitive systems in today's information explosion environment, analyzing how information overload affects thinking patterns, decision-making capabilities, and psychological well-being, proposing quantum-classical balanced response strategies.
+- **[Quantum-Classical Intergenerational Communication Theory](formal_theory_intergenerational_communication_en.md)** (v1.0, D8) - Exploring quantum-classical mechanisms of information transfer and value exchange between different generations, analyzing the formation of intergenerational communication barriers, providing strategies to promote cross-generational understanding and cooperation.
+- **[Quantum-Classical Sustainable Development Theory](formal_theory_sustainable_development_en.md)** (v1.0, D8) - Applying quantum-classical dualism to sustainable development, analyzing how quantum properties of ecological systems interact with classical properties of human systems, proposing quantum-classical balanced sustainable development solutions.
 
 ### Reference Materials (Dimension: D7-D8)
 
@@ -649,7 +652,7 @@ These theories apply the dualism framework to practical application fields:
 
 ## Theory Dependency Relationship Diagram
 
-The following diagram shows the dependency relationships and dimensional notations between various branches of quantum-classical dualism theory:
+The following diagram shows the dependency relationships and dimension annotations of various branch theories in quantum-classical dualism:
 
 ```mermaid
 %%{
@@ -660,7 +663,7 @@ The following diagram shows the dependency relationships and dimensional notatio
       'mainBkg': '#fff',
       'nodeTextColor': '#000',
       'fontSize': '16px',
-      'primaryBorderColor': '#333',
+      'primaryBorderColor': '#0000FF',
       'edgeLabelBackground': '#fff',
       'lineHeight': '1.4'
     },
@@ -678,12 +681,12 @@ flowchart TD
     %% Core Theory
     Core[Core Theory v30.0 D∞] 
     
-    %% Foundation Layer
-    QD[Quantum Domain v19.1 D9]
-    CD[Classical Domain v19.0 D7]
+    %% Foundation Theory Layer
+    QD[Quantum Domain Details v19.1 D9]
+    CD[Classical Domain Details v19.0 D7]
     IF[Interface Theory v19.0 D8]
     OB[Observer Theory v27.0 D8]
-    PT[Phase Transition Theory v25.0 D8]
+    PT[Information Phase Transition Theory v25.0 D8]
     MA[Mathematical Appendix v20.0 D7-D9]
     EX[Experimental Predictions v22.0 D7]
     
@@ -703,9 +706,9 @@ flowchart TD
     %% Observer Theory Dependencies
     IF --> OB
     
-    %% Physics Applications
-    UT[Info-Spacetime-Energy Unified Theory v26.0 D10]
-    GS[Quantum Gravity & Spacetime Emergence v28.0 D9]
+    %% Physics Application Layer
+    UT[Information-Space-Energy Unified Theory v26.0 D10]
+    GS[Quantum Gravity and Spacetime Emergence v28.0 D9]
     MT[Matter Essence Theory v27.0 D8]
     HS[Hierarchical Spacetime Theory v13.0 D9]
     MS[Multiscale Dualism v14.0 D10]
@@ -713,9 +716,9 @@ flowchart TD
     MU[Multiverse Interference Model v27.0 D11]
     CM[Cosmological Dualism Model v27.0 D10]
     EC[Evolutionary Cosmology Dualism v28.0 D10]
-    CI[Quantum-Classical Cosmic Intelligence v29.0 D11]
+    CI[Quantum-Classical Cosmic Intelligence Theory v29.0 D11]
     
-    %% Physics Applications Dependencies
+    %% Physics Application Dependencies
     Core --> UT
     Core --> GS
     QD & CD --> MT
@@ -727,18 +730,22 @@ flowchart TD
     CM --> EC
     Core & CO & CM --> CI
     
-    %% Life and Consciousness
+    %% Life and Consciousness Layer
     QB[Quantum Biology v20.0 D8]
     EL[Information Entropy and Life v27.0 D7]
     CO[Quantum Consciousness Theory v25.0 D9]
     UC[Unified Consciousness Theory v28.0 D10]
-    QDr[Quantum Dream Theory v26.0 D9]
-    ON[High-Dimensional Observer Networks v26.0 D9]
+    QDr[Quantum Dreams Theory v26.0 D9]
+    ON[High-Dimensional Observer Network v26.0 D9]
     OF[Observer Feedback Theory v27.0 D8]
-    EV[Evolutionary Theory Dual Perspective v27.0 D8]
+    EV[Evolutionary Dualism Perspective v27.0 D8]
     CF[Future Development of Human Consciousness v28.0 D9]
-    ME[Mindfulness Meditation Science v27.0 D9]
+    ME[Introspective Meditation Science v27.0 D9]
     BD[Quantum-Classical Biodiversity Theory v29.0 D8]
+    HC[Human Consciousness Quantum-Classical Dualism v29.0 D9]
+    HE[Human Evolution Quantum-Classical Dualism v29.0 D8]
+    HT[Human Transcendence Quantum-Classical Dualism v29.0 D9]
+    HCL[Human Collective Consciousness Quantum-Classical Dualism v29.0 D8]
     
     %% Life and Consciousness Dependencies
     IF --> QB
@@ -753,13 +760,19 @@ flowchart TD
     Core & CO --> ME
     Core & QB & EV --> BD
     
-    %% Cognition and Information
+    %% New Human Theory Dependencies
+    Core & CO & OB --> HC
+    Core & EV & HC --> HE
+    HC & HE --> HT
+    HC & ON --> HCL
+    
+    %% Cognition and Information Layer
     CD2[Quantum Cognitive Dynamics v24.0 D8]
     QDe[Quantum Decision Theory v24.0 D8]
     NE[Quantum-Classical Non-equilibrium Theory v27.0 D8]
     LT[Language and Thought Dual Structure v26.0 D8]
     QLF[Quantum Language Formation Theory v28.0 D9]
-    QL[Language Quantum Properties v27.0 D9]
+    QL[Quantum Linguistics v27.0 D9]
     MEM[Quantum Memory Theory v11.1 D8]
     TP[Time Perception Theory v27.0 D8]
     SR[Self-Reference Loop Theory v27.0 D9]
@@ -781,10 +794,15 @@ flowchart TD
     PT & IF --> ID
     Core & CO & OB & QEm --> CM2
     
-    %% Computing and Information Technology
+    %% Human Theory and Cognition Information Layer Connections
+    HC --> CD2
+    HC & TP --> HT
+    HCL & SD --> SN
+    
+    %% Computing and Information Technology Layer
     QC[Quantum Computing Applications v27.0 D7]
-    CC[Dualism Computational Complexity Theory v27.0 D8]
-    QS[Quantum-Classical Information Security v25.0 D7]
+    CC[Dualistic Computational Complexity Theory v27.0 D8]
+    QS[Quantum-Classical Information Security Theory v25.0 D7]
     TO[Topological Information Protection Theory v27.0 D8]
     QM[Quantum Communication Protocols v27.0 D7]
     QA[Quantum AI and Machine Learning v27.0 D8]
@@ -792,7 +810,7 @@ flowchart TD
     VR[Virtual Reality and Dualism v28.0 D7]
     TS[Technological Singularity Prediction v27.0 D9]
     
-    %% Computing and IT Dependencies
+    %% Computing and Information Technology Dependencies
     QD & CD --> QC
     Core & QC --> CC
     Core & QC --> QS
@@ -803,24 +821,28 @@ flowchart TD
     IT --> VR
     Core & IT --> TS
     
-    %% Social and Humanities Applications
+    %% Human Theory and Technology Connections
+    HC & HT --> VR
+    HC & HE & CF --> TS
+    
+    %% Society and Humanities Application Layer
     SD[Quantum Social Dynamics v27.0 D7]
     SN[Quantum Social Network Theory v27.0 D7]
     QE[Quantum Economics Principles v26.0 D7]
     QET[Quantum Technology Ethics Theory v28.0 D7]
     ET[Quantum-Classical Ethics v27.0 D7]
-    PH[Dualism Philosophical Foundations v27.0 D8]
+    PH[Dualistic Philosophy Foundations v27.0 D8]
     CC2[Cross-Cultural Philosophy Integration v11.1 D8]
-    MM[Quantum-Classical Mathematical Foundations v29.0 D8]
+    MM[Quantum-Classical Mathematics Foundations v29.0 D8]
     GQM[Geometric Quantum Mathematics Theory v29.0 D8]
     DS[Dynamical Systems Dualism v29.0 D8]
-    MMM[Mathematical Modeling Dual Methodology v29.0 D7]
+    MMM[Mathematical Modeling Dualistic Methodology v29.0 D7]
     QIG[Quantum Information Geometry v29.0 D8]
     SO[Quantum Self-Organization Theory v27.0 D8]
-    CS[Complex Systems Dual Analysis v27.0 D7]
+    CS[Complex Systems Dualistic Analysis v27.0 D7]
     TE[Quantum-Classical Technology Ethics Theory v29.0 D7]
     
-    %% Social and Humanities Dependencies
+    %% Society and Humanities Application Dependencies
     Core & OB --> SD
     Core & SD --> SN
     QDe --> QE
@@ -837,18 +859,24 @@ flowchart TD
     MM & GQM --> QIG
     Core & ET & QET & QA --> TE
     
-    %% Creativity and Expression
-    AR[Dualism Art Theory v27.0 D8]
+    %% Human Theory and Society Humanities Connections
+    HCL --> SD
+    HE & HCL --> SO
+    HC & HT --> PH
+    HC & HE & HT & HCL --> ET
+    
+    %% Creation and Expression Layer
+    AR[Dualistic Art Theory v27.0 D8]
     MU2[Quantum-Classical Music Theory v26.0 D8]
     AE[Quantum-Classical Aesthetics Theory v27.0 D8]
     NA[Quantum Narrative Theory v27.0 D8]
-    SE[Dualism Semiotics Theory v25.0 D8]
+    SE[Dualistic Semiotics Theory v25.0 D8]
     DE[Quantum-Classical Design Theory v11.1 D7]
     IN[Quantum Innovation Theory v27.0 D9]
     RE[Quantum-Classical Resonance Theory v26.0 D8]
     DA[Quantum-Classical Digital Art Theory v29.0 D8]
     
-    %% Creativity and Expression Dependencies
+    %% Creation and Expression Dependencies
     Core & OB --> AR
     AR --> MU2
     Core & AR --> AE
@@ -859,15 +887,27 @@ flowchart TD
     QD & CD --> RE
     Core & AR & AE & DE --> DA
     
-    %% Application Domains
+    %% Human Theory and Creative Expression Connections
+    HC & HT --> AR
+    HC & HT --> IN
+    HCL --> RE
+    
+    %% Application Domain Layer
     MD[Quantum Medicine Applications v27.0 D7]
     QH[Quantum Information Healing Theory v28.0 D8]
     PS[Dualistic Psychotherapy Model v28.0 D7]
-    ED[Dualism Education Theory v27.0 D7]
+    ED[Dualistic Education Theory v27.0 D7]
     RD[System Reduction Theory v28.0 D7]
     PA[Theory Practical Applications Collection v28.0 D6]
     RE2[Reality Engineering v29.0 D9]
     UL[Universal Learning Theory v29.0 D9]
+    ECO[Quantum-Classical Ecological Consciousness Theory v30.0 D8]
+    DT[Quantum-Classical Digital Transformation Theory v30.0 D7]
+    CR[Quantum-Classical Crisis Resilience Theory v30.0 D8]
+    QAICON[Quantum-Classical AI Consciousness Theory v30.0 D9]
+    COL[Quantum-Classical Cognitive Overload and Information Anxiety Theory v1.0 D8]
+    IGC[Quantum-Classical Intergenerational Communication Theory v1.0 D8]
+    SD2[Quantum-Classical Sustainable Development Theory v1.0 D8]
     
     %% Application Domain Dependencies
     Core & QB --> MD
@@ -878,8 +918,21 @@ flowchart TD
     Core & RD --> PA
     Core & IF & OB & QEm --> RE2
     Core & ID & EV --> UL
+    Core & QB & HCL --> ECO
+    Core & IT & SD & CD2 --> DT
+    Core & NE & SD & SO --> CR
+    Core & QA & CO & QEm --> QAICON
+    Core & CD2 & QDe & DT --> COL
+    Core & CD2 & LT & QLF & SD --> IGC
+    Core & QB & NE & SD & ECO --> SD2
     
-    %% Physics Applications New Dependencies
+    %% Human Theory and Application Domain Connections
+    HC --> PS
+    HC & HE --> ED
+    HT & HC --> QH
+    HCL --> ED
+    
+    %% Physics Application New Dependencies
     GS & UT --> QSH
     QSH[Quantum Spacetime Harmony Theory v28.0 D9]
     
@@ -887,6 +940,10 @@ flowchart TD
     CO & ON --> UC
     LT & QL & CD2 --> QLF
     QC & QA --> QAIC[Quantum-Classical AI Consciousness Theory v30.0 D9]
+    
+    %% New Theory Interdependencies
+    COL --> IGC
+    IGC & COL --> SD2
     
     %% Style Settings
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
@@ -899,16 +956,18 @@ flowchart TD
     classDef creativity fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
     classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
+    classDef newtheories fill:#ffd966,stroke:#333,stroke-width:2px;
     
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
     class UT,GS,MT,HS,MS,TA,MU,CM,EC,CI,QSH physics;
-    class QB,EL,CO,QDr,ON,OF,EV,CF,ME,BD,UC life;
+    class QB,EL,CO,QDr,ON,OF,EV,CF,ME,BD,UC,HC,HE,HT,HCL life;
     class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR,QEm,ID,CM2 cognition;
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
     class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS,TE,GQM,DS,MMM,QIG society;
     class AR,MU2,AE,NA,SE,DE,IN,RE,DA creativity;
-    class MD,QH,PS,ED,RD,PA,RE2,UL application;
+    class MD,QH,PS,ED,RD,PA,RE2,UL,ECO,DT,CR,QAICON application;
+    class COL,IGC,SD2 newtheories;
 ```
 
-This dependency relationship diagram shows the actual dependency structure between various branches of quantum-classical dualism theory, and through dimensional notation (D-value) displays each theory's positioning in the quantum-classical continuum. Different colors in the diagram represent different theory categories, and arrows indicate dependency directions. The core theory is at the top level (D∞), providing a foundation for all branch theories, while the various branch theories are distributed across different dimensional levels according to their quantum and classical characteristic proportions. 
+This dependency relationship diagram shows the actual dependency structure between the various branch theories of quantum-classical dualism, and shows the positioning of each theory in the quantum-classical continuum through dimension annotation (D value). Different colors in the diagram represent different theory categories, and arrows indicate the direction of dependency relationships. The core theory is at the top level (D∞), providing a foundation for all branch theories, while the various branch theories are distributed at different dimension levels according to their proportion of quantum and classical characteristics. 

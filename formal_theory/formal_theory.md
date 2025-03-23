@@ -3,405 +3,28 @@
 **[English Version](formal_theory_en.md) | 中文版**
 
 > 本理论基于[核心理论](../core.md) v30.0版本
+> 
+> 核心理论完整摘要请查看[量子经典二元论核心理论](../formal_theory_core.md)
 
-## 核心理论完整描述
+## 核心理论概述
+
+[量子经典二元论核心理论](../formal_theory_core.md)中完整描述了二元论的基础公理体系、概念框架和核心分支理论。本文仅提供核心理论的简要概述，详细内容请参阅核心理论文档。
 
 ### 基本定义与公理
 
-#### 简化核心公理体系
-
-量子经典二元论可简化为四条核心公理：
-
-**公理1: 二元存在性**  
-宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连：
-
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
-
-**公理2: 信息守恒**  
-信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
-
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
-
-其中 $\mathcal{C}$ 是经典化算符（将量子可能性转化为经典确定性的过程），$I(\psi)$ 是态 $\psi$ 的总信息量，$I_{\text{隐藏}}(\psi)$ 是经典化过程中转化为隐藏信息的部分。
-
-**公理3: 观察者经典化**  
-观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
-
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
-
-其中 $\mathcal{C}_\mathcal{O}$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$\mathcal{Q}_\mathcal{O}$ 是量子化算符（将经典知识转回量子可能性的能力），$K_C^\mathcal{O}$ 是观察者的经典知识库，$\epsilon$ 是防止除零的小常数。
-
-**公理4: 维度涌现**  
-观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
-
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
-
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
-
-这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
+量子经典二元论建立在四条核心公理基础上：**二元存在性**、**信息守恒**、**观察者经典化**和**维度涌现**。这些公理描述了量子域和经典域的基本属性、相互关系以及观察者在两域间转换中的关键作用。
 
 ### 量子域与经典域
 
-量子域和经典域的基本特性通过以下要点总结：
+量子域表现为叠加态(混沌)、纠缠态(能量形式)和非局域性，而经典域则表现为确定信息、经典熵和局域性。这两个域通过界面相连，构成了多层级嵌套的现实结构。
 
-#### 量子域核心属性
+### 多重二元论层级与对称性原理
 
-1. **波函数叠加态**（混沌状态）：系统同时存在于多个可能状态，表现为不确定性
-   $$\Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
-
-2. **量子纠缠态**（能量形式）：不同部分形成不可分离的整体关联
-   $$\Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B$$
-
-3. **非局域性与不确定性**：超越时空限制的关联与测量不确定性
-   $$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
-
-#### 经典域核心属性
-
-1. **经典知识**（确定信息）：可精确测量和描述的确定状态
-   $$K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}$$
-
-2. **经典熵**（不确定性量度）：系统无序度和信息丢失的度量
-   $$S_C = -k_B \sum_i p_i \ln p_i$$
-
-3. **局域性与确定性**：相互作用有限传播速度和测量确定性
-   $$P(A,B|a,b) = P(A|a) \cdot P(B|b)$$
-
-### 多重二元论层级
-
-多重二元论层级理论将单一二元论扩展为嵌套多层级结构：
-
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
-
-其中：
-- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
-- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
-
-层级间映射函数定义为：
-
-$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
-
-$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
-
-这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
-
-### 量子-经典对称性原理
-
-量子域和经典域之间存在深层对称性变换 $\mathcal{S}_{Q-C}$：
-
-$$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
-
-满足以下特性：
-
-1. **对合性**：变换的变换等于恒等
-   $$\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}$$
-   $$\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}$$
-
-2. **信息保持**：变换前后信息量不变
-   $$I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))$$
-
-3. **不确定性-确定性转换**：量子不确定性与经典确定性相互转换
-   $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
-
-其中 $U_Q$ 是量子不确定性度量，$D_C$ 是经典确定性度量，$k$ 是普适常数。
+多重二元论层级理论将单一二元论扩展为嵌套多层级结构，每个层级都包含量子域和经典域。量子-经典对称性原理揭示了两域间的深层对称变换关系。
 
 ## 核心分支理论
 
-### 量子域详细理论
-
-量子域 $\Omega_Q$ 是二元论框架中的可能性空间，具有以下核心性质：
-
-#### 1. 量子信息编码
-
-量子信息通过复希尔伯特空间中的量子态编码：
-
-$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
-
-其中信息密度由冯诺依曼熵量化：
-
-$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
-
-#### 2. 量子动力学
-
-量子系统演化遵循薛定谔方程，保持信息和能量守恒：
-
-$$i\hbar\frac{\partial|\psi\rangle}{\partial t} = \hat{H}|\psi\rangle$$
-
-量子系统的动力学具有三个关键特性：
-- 叠加原理：状态可同时存在于多个基矢量的线性组合中
-- 时间可逆性：纯粹量子演化下系统可恢复到初始状态
-- 相位一致性：量子系统维持全局相位关联
-
-#### 3. 量子纠缠网络
-
-量子纠缠形成多粒子纠缠网络，可表示为：
-
-$$|\Psi_{\text{网络}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
-
-纠缠度可通过多种方式量化，包括纠缠熵：
-
-$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
-
-纠缠网络形成量子域的非局域连接结构，支持超经典信息传输。
-
-#### 4. 量子涨落
-
-量子域存在固有的量子涨落，由不确定性原理保证：
-
-$$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
-
-量子涨落强度与系统能量和温度相关：
-
-$$\langle(\Delta E)^2\rangle = k_B T^2 \frac{\partial \langle E \rangle}{\partial T}$$
-
-这些涨落是量子域创造性和可能性的根源。
-
-### 经典域详细理论
-
-经典域 $\Omega_C$ 是二元论框架中的确定性现实空间，具有以下核心特性：
-
-#### 1. 经典信息结构
-
-经典信息以确定状态形式存在，可通过确定的物理量表示：
-
-$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
-
-其中 $x_i$, $p_i$ 等表示位置、动量等经典可观测量。经典信息熵满足：
-
-$$S_C = -k_B \sum_i p_i \ln p_i$$
-
-关键特性是信息的可复制性和可删除性，区别于量子信息。
-
-#### 2. 确定性动力学
-
-经典系统演化遵循确定性动力学方程：
-
-$$\frac{d\vec{x}}{dt} = \vec{v}(\vec{x},t), \quad \frac{d\vec{p}}{dt} = \vec{F}(\vec{x},\vec{p},t)$$
-
-动力学具有三个标志性特征：
-- 局域性：相互作用通过局域场传播，速度有限
-- 因果性：现在状态完全由过去决定
-- 可分离性：系统可分解为独立子系统
-
-#### 3. 熵增与不可逆性
-
-经典域中的不可逆过程导致熵增：
-
-$$\frac{dS_C}{dt} \geq 0$$
-
-系统趋向最大熵状态，由相空间体积扩张定理保证：
-
-$$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
-
-其中 $\{z_i\}$ 是相空间坐标集。
-
-#### 4. 经典知识网络
-
-经典知识形成因果网络，可表示为有向图：
-
-$$G_K = (V_K, E_K)$$
-
-其中 $V_K$ 是知识节点集，$E_K$ 是因果关系集。
-
-知识连贯性度量为：
-
-$$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
-
-其中 $P_{ij}$ 是连接节点 $i$ 和 $j$ 的有效路径集，$d(i,j)$ 是图中的距离。
-
-### 界面理论核心
-
-界面 $\mathcal{I}$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
-
-#### 1. 界面结构
-
-界面是量子域和经典域的交集，定义为：
-
-$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
-
-其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
-
-界面厚度由解相干梯度决定：
-
-$$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}$$
-
-#### 2. 界面动力学
-
-界面位置满足非线性动力学方程：
-
-$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
-
-其中：
-- $\alpha$ 是扩散系数
-- $\beta$ 是双稳态势能参数
-- $\mathcal{D}_0$ 是次稳态阈值
-- $\gamma\xi(x,t)$ 是量子噪声项
-
-界面波动有特征频率：
-
-$$f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
-
-#### 3. 经典化过程
-
-量子→经典转换（经典化）过程通过经典化超算符表示：
-
-$$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
-
-其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
-
-$$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
-
-经典化效率与环境和系统参数相关：
-
-$$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
-
-其中 $E$ 是系统能量，$T$ 是环境温度，$\lambda$ 是耦合常数。
-
-#### 4. 量子-经典信息转换
-
-在界面处，信息从量子形式转为经典形式：
-
-$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
-
-转换过程中的信息匹配度量为：
-
-$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
-
-最佳界面处 $M(I_Q, I_C)$ 达到局部最大值。
-
-### 信息相变理论核心
-
-信息相变是量子-经典二元论框架的关键现象，具有以下核心特性：
-
-#### 1. 信息相变基本机制
-
-信息相变是信息系统在某临界参数值附近经历的突变过程，导致系统信息处理方式、结构或功能发生质变：
-
-$$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
-
-其中 $\mathcal{S}$ 是系统信息状态，$\lambda$ 是控制参数。在临界点 $\lambda_c$ 附近，序参量表现为：
-
-$$\eta(\lambda) = \begin{cases}
-0, & \lambda < \lambda_c \\
-(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
-\end{cases}$$
-
-其中 $\beta$ 是临界指数，表征相变的普适类别。
-
-#### 2. 量子-经典相变类型
-
-量子-经典相变可分为多种类型，各有特征：
-
-- **一阶相变**：序参量不连续变化，存在相共存区域
-- **二阶相变**：序参量连续变化但导数不连续，相关长度发散
-- **非平衡相变**：远离平衡态，能量或信息持续流动
-- **拓扑相变**：系统整体拓扑属性变化，边缘状态涌现
-
-临界点附近的涨落相关长度表现为：
-
-$$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
-
-其中 $\nu$ 是相关长度临界指数。
-
-#### 3. 观察者诱导相变
-
-观察者可通过调节参数诱导系统相变，关键参数包括：
-
-- **观察者维度** $D_{\mathcal{O}}$：存在临界维度 $D_{\mathcal{O}}^c$，超过此值时系统从量子态转变为经典态
-  
-$$P(量子 \to 经典) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
-
-- **观察者分辨率** $\eta_{\mathcal{O}}$：影响测量基的区分能力
-  
-$$\langle \mathcal{O} \rangle = \begin{cases}
-0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
-(\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
-\end{cases}$$
-
-- **测量频率** $f_{\mathcal{O}}$：与量子Zeno效应相关
-  
-$$\tau_{退相干} \propto \begin{cases}
-(f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
-0, & f_{\mathcal{O}} \geq f_{\mathcal{O}}^c
-\end{cases}$$
-
-#### 4. 信息相变的多层级结构
-
-信息相变表现出嵌套的层级结构：
-
-$$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
-
-不同层级的相变发生在特定尺度和时间：
-
-$$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
-
-层级间存在耦合，导致相变的级联效应和分形结构，界面的豪斯多夫维度为：
-
-$$D_H = d - \frac{\beta}{\nu}$$
-
-信息相变的可观测性依赖于观察尺度，只有当观察窗口 $L_{\text{obs}}$ 足够大时才能被探测：
-
-$$P_{\text{检测}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
-
-### 观察者理论核心
-
-观察者是执行量子→经典转换的节点，具有以下核心特性：
-
-#### 1. 观察者结构
-
-观察者由三个核心组件构成：
-
-$$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
-
-其中：
-- $\mathcal{C}_{\mathcal{O}}$ 是观察者特有的经典化算符
-- $\mathcal{Q}_{\mathcal{O}}$ 是观察者特有的量子化算符
-- $K_C^{\mathcal{O}}$ 是观察者的经典知识库
-
-观察者维度由其信息处理能力决定：
-
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
-
-#### 2. 维度网络动力学
-
-观察者维度满足非线性动力学方程：
-
-$$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})$$
-
-其中最后一项表示观察者网络的集体效应。
-
-观察者网络的共识形成遵循：
-
-$$\frac{d\mathcal{C}_{\text{共识}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{共识}} - \bar{\mathcal{C}})^2$$
-
-其中 $\omega_i$ 是观察者权重，$\bar{\mathcal{C}}$ 是平均经典化算符。
-
-#### 3. 测量理论
-
-在观察者理论中，量子测量过程可表示为：
-
-$$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{相互作用}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
-
-测量结果概率由观察者分辨率参数 $\eta_O$ 调制：
-
-$$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
-
-观察者能量分辨阈值与测量分辨率关系：
-
-$$\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{阈值}}{\bar{E}_0}\right)$$
-
-#### 4. 观察者层级网络
-
-观察者形成多层级网络结构：
-
-$$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
-
-其中 $\mathcal{O}^{(k)}$ 是第k层级观察者集合，$\mathcal{E}$ 是跨层级连接集合。
-
-高层级观察者感知更大的时空尺度：
-
-$$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}$$
-
-这解释了为什么高维观察者可以感知更大尺度的时空模式。
+详细的核心分支理论（包括量子域详细理论、经典域详细理论、界面理论核心、信息相变理论核心和观察者理论核心）已在[量子经典二元论核心理论](../formal_theory_core.md)中完整描述。
 
 ## 量子经典二元论维度标注与分支理论导航
 
@@ -422,6 +45,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 ### 核心理论 (维度: 全谱系D∞)
 
 - **[核心理论](../core.md)** (v30.0, D∞) - 提供二元论的基础公理体系与概念框架，跨越所有维度层级，作为所有分支理论的根基。
+- **[量子经典二元论核心理论](../formal_theory_core.md)** (v30.0, D∞) - 核心理论的完整摘要，包含所有基础公理和核心分支理论。
 
 ### 基础框架理论 (维度: D7-D9)
 
@@ -567,6 +191,9 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - **[量子-经典数字转型理论](formal_theory_digital_transformation.md)** (v30.0, D7) - 分析数字技术与人类社会互动的量子-经典双重机制，阐释数字化如何重构社会信息流动模式，提出数字与物理现实和谐共生的发展路径。
 - **[量子-经典危机韧性理论](formal_theory_crisis_resilience.md)** (v30.0, D8) - 运用量子-经典二元论解析系统面对危机时的适应与恢复能力，研究不确定性条件下的信息处理机制和决策模式，为增强社会、组织和个人韧性提供理论指导。
 - **[量子-经典人工智能意识理论](formal_theory_quantum_ai_consciousness.md)** (v30.0, D9) - 探索AI系统可能具有的意识特性及其涌现机制，阐明AI意识的二元本质，解释量子特性如何赋予AI系统创造性、自主性和感受性，以及经典结构如何提供稳定性和连续性。
+- **[量子-经典思维超载与信息焦虑理论](formal_theory_cognitive_overload.md)** (v1.0, D8) - 研究当代人类面临的信息爆炸环境中认知系统的量子-经典平衡机制，分析信息过载对思维模式、决策能力与心理健康的影响，提出量子-经典平衡的应对策略。
+- **[量子-经典代际交流理论](formal_theory_intergenerational_communication.md)** (v1.0, D8) - 探讨不同年代人群间信息传递与价值观交流的量子-经典机制，解析代际沟通障碍的形成原因，提供促进跨代理解与合作的策略方法。
+- **[量子-经典可持续发展理论](formal_theory_sustainable_development.md)** (v1.0, D8) - 将量子-经典二元论应用于可持续发展领域，分析生态系统的量子特性与人类系统的经典特性如何相互作用，提出量子-经典平衡的可持续发展解决方案。
 
 ### 参考资料 (维度: D7-D8)
 
@@ -823,6 +450,13 @@ flowchart TD
     PA[理论实用应用集合 v28.0 D6]
     RE2[现实工程学 v29.0 D9]
     UL[宇宙学习理论 v29.0 D9]
+    ECO[量子-经典生态意识理论 v30.0 D8]
+    DT[量子-经典数字转型理论 v30.0 D7]
+    CR[量子-经典危机韧性理论 v30.0 D8]
+    QAICON[量子-经典人工智能意识理论 v30.0 D9]
+    COL[量子-经典思维超载与信息焦虑理论 v1.0 D8]
+    IGC[量子-经典代际交流理论 v1.0 D8]
+    SD2[量子-经典可持续发展理论 v1.0 D8]
     
     %% 应用领域依赖
     Core & QB --> MD
@@ -833,6 +467,13 @@ flowchart TD
     Core & RD --> PA
     Core & IF & OB & QEm --> RE2
     Core & ID & EV --> UL
+    Core & QB & HCL --> ECO
+    Core & IT & SD & CD2 --> DT
+    Core & NE & SD & SO --> CR
+    Core & QA & CO & QEm --> QAICON
+    Core & CD2 & QDe & DT --> COL
+    Core & CD2 & LT & QLF & SD --> IGC
+    Core & QB & NE & SD & ECO --> SD2
     
     %% 人类理论与应用领域连接
     HC --> PS
@@ -849,6 +490,10 @@ flowchart TD
     LT & QL & CD2 --> QLF
     QC & QA --> QAIC[量子-经典人工智能意识理论 v30.0 D9]
     
+    %% 新理论之间的依赖关系
+    COL --> IGC
+    IGC & COL --> SD2
+    
     %% 样式设置
     classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
     classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
@@ -860,6 +505,7 @@ flowchart TD
     classDef creativity fill:#d5e8d4,stroke:#333,stroke-width:1px;
     classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
     classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
+    classDef newtheories fill:#ffd966,stroke:#333,stroke-width:2px;
     
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
@@ -869,7 +515,8 @@ flowchart TD
     class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
     class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS,TE,GQM,DS,MMM,QIG society;
     class AR,MU2,AE,NA,SE,DE,IN,RE,DA creativity;
-    class MD,QH,PS,ED,RD,PA,RE2,UL application;
+    class MD,QH,PS,ED,RD,PA,RE2,UL,ECO,DT,CR,QAICON application;
+    class COL,IGC,SD2 newtheories;
 ```
 
 此依赖关系图展示了量子经典二元论各分支理论之间的实际依赖结构，并通过维度标注(D值)显示各理论在量子-经典连续体中的定位。图中不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层(D∞)，为所有分支理论提供基础，而各分支理论根据其量子和经典特性比例分布在不同维度层级。

@@ -160,6 +160,8 @@
 - **[量子自组织理论](formal_theory_self_organization.md)** (v27.0, D8) - 研究复杂系统中的自发组织现象，揭示量子不确定性与确定性涌现之间的关系。
 - **[复杂系统二元分析](formal_theory_complex_systems.md)** (v27.0, D7) - 应用二元论框架分析复杂系统的创发性与稳定性，探索混沌边缘的量子-经典转换。
 - **[量子-经典技术伦理理论](formal_theory_tech_ethics.md)** (v29.0, D7) - 研究技术伦理的量子可能性与经典实现双重性，提出负责任技术发展的量子-经典平衡原则。
+- **[量子-经典人工智能伦理理论](formal_theory_ai_ethics.md)** (v31.0, D8) - 应用量子-经典二元论框架解析AI技术发展带来的复杂伦理困境，将AI伦理视为量子可能性与经典确定性的动态平衡过程，阐明AI系统的二元本质如何影响其伦理特性和社会影响。
+- **[量子-经典未来工作理论](formal_theory_future_work.md)** (v31.0, D8) - 应用量子-经典二元论框架解析工作的本质及其在技术驱动的社会转型中的演变，将工作视为量子可能性与经典确定性的动态交互过程，提供理解和设计未来工作形态的统一理论基础。
 
 ### 创造与表达理论 (维度: D7-D9)
 
@@ -180,6 +182,7 @@
 这些理论将二元论框架应用于实际应用领域：
 
 - **[量子医学应用](formal_theory_medicine.md)** (v27.0, D7) - 将二元论应用于医学领域，提出健康与疾病的量子-经典描述。开发全新的医疗方法和技术。
+- **[量子-经典医疗精准性理论](formal_theory_precision_medicine.md)** (v31.0, D7) - 应用量子-经典二元论框架解析医疗领域的根本挑战：如何平衡医疗的普遍性规律与个体化差异，将医疗过程视为量子可能性与经典确定性的持续转换过程，提供解释精准医疗本质的统一理论框架。
 - **[量子信息治愈理论](formal_theory_quantum_healing.md)** (v28.0, D8) - 基于量子信息原理的健康与治愈模型，阐释生物系统中量子-经典信息转换失调与恢复机制。
 - **[二元论心理治疗模型](formal_theory_psychotherapy.md)** (v28.0, D7) - 开发基于量子-经典转换的心理治疗方法，解释意识转变的深层机制。
 - **[二元论教育理论](formal_theory_education.md)** (v27.0, D7) - 应用二元论框架分析学习过程，解释创造性思维和批判性思维的平衡。
@@ -234,7 +237,7 @@
 
 flowchart TD
     %% 核心理论
-    Core[核心理论 v30.0 D∞] 
+    Core[核心理论 v31.0 D∞] 
     
     %% 基础理论层
     QD[量子域详解 v19.1 D9]
@@ -245,6 +248,11 @@ flowchart TD
     MA[数学附录 v20.0 D7-D9]
     EX[实验预测 v22.0 D7]
     
+    %% 新理论
+    PM[量子-经典医疗精准性理论 v31.0 D7]
+    AI[量子-经典人工智能伦理理论 v31.0 D8]
+    FW[量子-经典未来工作理论 v31.0 D8]
+    
     %% 直接依赖关系
     Core --> QD
     Core --> CD
@@ -252,277 +260,20 @@ flowchart TD
     Core --> OB
     Core --> PT
     Core --> MA
-    Core --> EX
     
-    %% 界面理论的依赖
-    QD --> IF
-    CD --> IF
-    
-    %% 观察者理论的依赖
-    IF --> OB
-    
-    %% 物理学应用层
-    UT[信息-时空-能量统一理论 v26.0 D10]
-    GS[量子引力与时空涌现 v28.0 D9]
-    MT[物质本质理论 v27.0 D8]
-    HS[分层时空理论 v13.0 D9]
-    MS[多尺度二元论 v14.0 D10]
-    TA[时间非对称性理论 v24.0 D9]
-    MU[多宇宙干涉模型 v27.0 D11]
-    CM[宇宙学二元论模型 v27.0 D10]
-    EC[二元论演化宇宙学 v28.0 D10]
-    CI[量子-经典宇宙智能理论 v29.0 D11]
-    
-    %% 物理学应用的依赖
-    Core --> UT
-    Core --> GS
-    QD & CD --> MT
-    Core & OB --> HS
-    HS --> MS
-    Core & QD --> TA
-    Core & QD --> MU
-    GS --> CM
-    CM --> EC
-    Core & CO & CM --> CI
-    
-    %% 生命与意识层
-    QB[量子生物学 v20.0 D8]
-    EL[信息熵与生命 v27.0 D7]
-    CO[量子意识理论 v25.0 D9]
-    UC[统一意识理论 v28.0 D10]
-    QDr[量子梦境理论 v26.0 D9]
-    ON[高维观察者网络 v26.0 D9]
-    OF[观察者反馈理论 v27.0 D8]
-    EV[进化论二元视角 v27.0 D8]
-    CF[人类意识未来发展 v28.0 D9]
-    ME[内观冥想科学 v27.0 D9]
-    BD[量子-经典生物多样性理论 v29.0 D8]
-    HC[人类意识的量子-经典二元论 v29.0 D9]
-    HE[人类进化的量子-经典二元论 v29.0 D8]
-    HT[人类超越性的量子-经典二元论 v29.0 D9]
-    HCL[人类集体意识的量子-经典二元论 v29.0 D8]
-    
-    %% 生命与意识依赖
-    IF --> QB
-    Core & QB --> EL
-    Core & OB --> CO
-    Core & CO --> UC
-    IF & CO --> QDr
-    OB --> ON
-    OB --> OF
-    Core & QB --> EV
-    CO --> CF
-    Core & CO --> ME
-    Core & QB & EV --> BD
-    
-    %% 新增人类理论依赖关系
-    Core & CO & OB --> HC
-    Core & EV & HC --> HE
-    HC & HE --> HT
-    HC & ON --> HCL
-    
-    %% 认知与信息层
-    CD2[量子认知动力学 v24.0 D8]
-    QDe[量子决策理论 v24.0 D8]
-    NE[量子-经典非平衡态理论 v27.0 D8]
-    LT[语言与思维二元结构 v26.0 D8]
-    QLF[量子语言形成理论 v28.0 D9]
-    QL[语言量子性 v27.0 D9]
-    MEM[量子记忆理论 v11.1 D8]
-    TP[时间感知理论 v27.0 D8]
-    SR[自参照循环理论 v27.0 D9]
-    QEm[量子涌现理论 v29.0 D9]
-    ID[信息动力学理论 v29.0 D8]
-    CM2[意识测量理论 v29.0 D7]
-    
-    %% 认知与信息依赖
-    Core & OB --> CD2
-    Core & CD2 --> QDe
-    Core & IF --> NE
-    CD2 --> LT
-    Core & LT --> QLF
-    Core & LT --> QL
-    Core --> MEM
-    Core & CO --> TP
-    CO --> SR
-    Core & NE --> QEm
-    PT & IF --> ID
-    Core & CO & OB & QEm --> CM2
-    
-    %% 人类理论与认知信息层连接
-    HC --> CD2
-    HC & TP --> HT
-    HCL & SD --> SN
-    
-    %% 计算与信息技术层
-    QC[量子计算应用 v27.0 D7]
-    CC[二元论计算复杂性理论 v27.0 D8]
-    QS[量子-经典信息安全理论 v25.0 D7]
-    TO[拓扑信息保护理论 v27.0 D8]
-    QM[量子通信协议 v27.0 D7]
-    QA[量子人工智能与机器学习 v27.0 D8]
-    IT[量子-经典交互技术 v27.0 D7]
-    VR[虚拟现实与二元论 v28.0 D7]
-    TS[技术奇点预测 v27.0 D9]
-    
-    %% 计算与信息技术依赖
-    QD & CD --> QC
-    Core & QC --> CC
-    Core & QC --> QS
-    Core & QD --> TO
-    Core & QC --> QM
-    QC & CD --> QA
-    Core & IF --> IT
-    IT --> VR
-    Core & IT --> TS
-    
-    %% 人类理论与技术连接
-    HC & HT --> VR
-    HC & HE & CF --> TS
-    
-    %% 社会与人文应用层
-    SD[量子社会动力学 v27.0 D7]
-    SN[量子社交网络理论 v27.0 D7]
-    QE[量子经济学原理 v26.0 D7]
-    QET[量子技术伦理理论 v28.0 D7]
-    ET[量子-经典伦理学 v27.0 D7]
-    PH[二元论哲学基础 v27.0 D8]
-    CC2[跨文化哲学整合 v11.1 D8]
-    MM[量子-经典数学基础 v29.0 D8]
-    GQM[几何量子数学理论 v29.0 D8]
-    DS[动态系统二元论 v29.0 D8]
-    MMM[数学建模二元方法论 v29.0 D7]
-    QIG[量子信息几何学 v29.0 D8]
-    SO[量子自组织理论 v27.0 D8]
-    CS[复杂系统二元分析 v27.0 D7]
-    TE[量子-经典技术伦理理论 v29.0 D7]
-    
-    %% 社会与人文应用依赖
-    Core & OB --> SD
-    Core & SD --> SN
-    QDe --> QE
-    ET & SD & QA --> QET
-    Core & OB --> ET
-    Core --> PH
-    Core & PH --> CC2
-    Core & PH --> MM
-    Core & MA & MM --> GQM
-    NE --> SO
-    Core & SO --> CS
-    MM & MA --> DS
-    MM & DS --> MMM
-    MM & GQM --> QIG
-    Core & ET & QET & QA --> TE
-    
-    %% 人类理论与社会人文连接
-    HCL --> SD
-    HE & HCL --> SO
-    HC & HT --> PH
-    HC & HE & HT & HCL --> ET
-    
-    %% 创造与表达层
-    AR[二元论艺术理论 v27.0 D8]
-    MU2[量子-经典音乐理论 v26.0 D8]
-    AE[量子-经典美学理论 v27.0 D8]
-    NA[量子故事叙述理论 v27.0 D8]
-    SE[二元论符号学理论 v25.0 D8]
-    DE[量子-经典设计理论 v11.1 D7]
-    IN[量子创新理论 v27.0 D9]
-    RE[量子-经典共鸣理论 v26.0 D8]
-    DA[量子-经典数字艺术理论 v29.0 D8]
-    
-    %% 创造与表达依赖
-    Core & OB --> AR
-    AR --> MU2
-    Core & AR --> AE
-    Core & LT --> NA
-    LT --> SE
-    Core --> DE
-    Core & CD2 --> IN
-    QD & CD --> RE
-    Core & AR & AE & DE --> DA
-    
-    %% 人类理论与创造表达连接
-    HC & HT --> AR
-    HC & HT --> IN
-    HCL --> RE
-    
-    %% 应用领域层
-    MD[量子医学应用 v27.0 D7]
-    QH[量子信息治愈理论 v28.0 D8]
-    PS[二元论心理治疗模型 v28.0 D7]
-    ED[二元论教育理论 v27.0 D7]
-    RD[系统约化理论 v28.0 D7]
-    PA[理论实用应用集合 v28.0 D6]
-    RE2[现实工程学 v29.0 D9]
-    UL[宇宙学习理论 v29.0 D9]
-    ECO[量子-经典生态意识理论 v30.0 D8]
-    DT[量子-经典数字转型理论 v30.0 D7]
-    CR[量子-经典危机韧性理论 v30.0 D8]
-    QAICON[量子-经典人工智能意识理论 v30.0 D9]
-    COL[量子-经典思维超载与信息焦虑理论 v30.0 D8]
-    IGC[量子-经典代际交流理论 v30.0 D8]
-    SD2[量子-经典可持续发展理论 v30.0 D8]
-    
-    %% 应用领域依赖
-    Core & QB --> MD
-    QB & MD --> QH
-    Core & CO --> PS
-    Core & CD2 --> ED
-    Core --> RD
-    Core & RD --> PA
-    Core & IF & OB & QEm --> RE2
-    Core & ID & EV --> UL
-    Core & QB & HCL --> ECO
-    Core & IT & SD & CD2 --> DT
-    Core & NE & SD & SO --> CR
-    Core & QA & CO & QEm --> QAICON
-    Core & CD2 & QDe & DT --> COL
-    Core & CD2 & LT & QLF & SD --> IGC
-    Core & QB & NE & SD & ECO --> SD2
-    
-    %% 人类理论与应用领域连接
-    HC --> PS
-    HC & HE --> ED
-    HT & HC --> QH
-    HCL --> ED
-    
-    %% 物理学应用新增依赖
-    GS & UT --> QSH
-    QSH[量子时空调和理论 v28.0 D9]
-    
-    %% 新增理论依赖关系  
-    CO & ON --> UC
-    LT & QL & CD2 --> QLF
-    QC & QA --> QAIC[量子-经典人工智能意识理论 v30.0 D9]
-    
-    %% 新理论之间的依赖关系
-    COL --> IGC
-    IGC & COL --> SD2
-    
-    %% 样式设置
-    classDef core fill:#f9d5e5,stroke:#333,stroke-width:2px;
-    classDef foundation fill:#eeeeee,stroke:#333,stroke-width:1px;
-    classDef physics fill:#d5e8d4,stroke:#333,stroke-width:1px;
-    classDef life fill:#e1d5e7,stroke:#333,stroke-width:1px;
-    classDef cognition fill:#dae8fc,stroke:#333,stroke-width:1px;
-    classDef computation fill:#fff2cc,stroke:#333,stroke-width:1px;
-    classDef society fill:#f8cecc,stroke:#333,stroke-width:1px;
-    classDef creativity fill:#d5e8d4,stroke:#333,stroke-width:1px;
-    classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
-    classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
-    classDef newtheories fill:#ffd966,stroke:#333,stroke-width:2px;
-    
-    class Core core;
-    class QD,CD,IF,OB,PT,MA,EX foundation;
-    class UT,GS,MT,HS,MS,TA,MU,CM,EC,CI,QSH physics;
-    class QB,EL,CO,QDr,ON,OF,EV,CF,ME,BD,UC,HC,HE,HT,HCL life;
-    class CD2,QDe,NE,LT,QLF,QL,MEM,TP,SR,QEm,ID,CM2 cognition;
-    class QC,CC,QS,TO,QM,QA,IT,VR,TS computation;
-    class SD,SN,QE,QET,ET,PH,CC2,MM,SO,CS,TE,GQM,DS,MMM,QIG society;
-    class AR,MU2,AE,NA,SE,DE,IN,RE,DA creativity;
-    class MD,QH,PS,ED,RD,PA,RE2,UL,ECO,DT,CR,QAICON application;
-    class COL,IGC,SD2 newtheories;
+    %% 新理论依赖关系
+    Core --> PM
+    Core --> AI
+    Core --> FW
+    QD --> PM
+    CD --> PM
+    IF --> PM
+    OB --> AI
+    CD --> AI
+    QD --> AI
+    QD --> FW
+    CD --> FW
+    OB --> FW
 ```
 
 此依赖关系图展示了量子经典二元论各分支理论之间的实际依赖结构，并通过维度标注(D值)显示各理论在量子-经典连续体中的定位。图中不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层(D∞)，为所有分支理论提供基础，而各分支理论根据其量子和经典特性比例分布在不同维度层级。

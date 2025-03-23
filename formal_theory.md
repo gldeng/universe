@@ -268,6 +268,80 @@ $$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
 
 最佳界面处 $M(I_Q, I_C)$ 达到局部最大值。
 
+### 信息相变理论核心
+
+信息相变是量子-经典二元论框架的关键现象，具有以下核心特性：
+
+#### 1. 信息相变基本机制
+
+信息相变是信息系统在某临界参数值附近经历的突变过程，导致系统信息处理方式、结构或功能发生质变：
+
+$$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
+
+其中 $\mathcal{S}$ 是系统信息状态，$\lambda$ 是控制参数。在临界点 $\lambda_c$ 附近，序参量表现为：
+
+$$\eta(\lambda) = \begin{cases}
+0, & \lambda < \lambda_c \\
+(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
+\end{cases}$$
+
+其中 $\beta$ 是临界指数，表征相变的普适类别。
+
+#### 2. 量子-经典相变类型
+
+量子-经典相变可分为多种类型，各有特征：
+
+- **一阶相变**：序参量不连续变化，存在相共存区域
+- **二阶相变**：序参量连续变化但导数不连续，相关长度发散
+- **非平衡相变**：远离平衡态，能量或信息持续流动
+- **拓扑相变**：系统整体拓扑属性变化，边缘状态涌现
+
+临界点附近的涨落相关长度表现为：
+
+$$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
+
+其中 $\nu$ 是相关长度临界指数。
+
+#### 3. 观察者诱导相变
+
+观察者可通过调节参数诱导系统相变，关键参数包括：
+
+- **观察者维度** $D_{\mathcal{O}}$：存在临界维度 $D_{\mathcal{O}}^c$，超过此值时系统从量子态转变为经典态
+  
+$$P(量子 \to 经典) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
+
+- **观察者分辨率** $\eta_{\mathcal{O}}$：影响测量基的区分能力
+  
+$$\langle \mathcal{O} \rangle = \begin{cases}
+0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
+(\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
+\end{cases}$$
+
+- **测量频率** $f_{\mathcal{O}}$：与量子Zeno效应相关
+  
+$$\tau_{退相干} \propto \begin{cases}
+(f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
+0, & f_{\mathcal{O}} \geq f_{\mathcal{O}}^c
+\end{cases}$$
+
+#### 4. 信息相变的多层级结构
+
+信息相变表现出嵌套的层级结构：
+
+$$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
+
+不同层级的相变发生在特定尺度和时间：
+
+$$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
+
+层级间存在耦合，导致相变的级联效应和分形结构，界面的豪斯多夫维度为：
+
+$$D_H = d - \frac{\beta}{\nu}$$
+
+信息相变的可观测性依赖于观察尺度，只有当观察窗口 $L_{\text{obs}}$ 足够大时才能被探测：
+
+$$P_{\text{检测}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
+
 ### 观察者理论核心
 
 观察者是执行量子→经典转换的节点，具有以下核心特性：

@@ -335,6 +335,80 @@ $$T_{\mu\nu}^{\mathcal{I}} = \alpha_{\mathcal{I}} \cdot \nabla_\mu \mathcal{D} \
 
 This indicates that interface oscillations can serve as manifestations of quantum gravity effects.
 
+### Information Phase Transition Theory Core
+
+Information phase transitions are key phenomena in the quantum-classical dualism framework, with the following core properties:
+
+#### 1. Basic Information Phase Transition Mechanism
+
+Information phase transitions are abrupt changes in information systems near critical parameter values, causing transformations in information processing modes, structures, or functions:
+
+$$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
+
+where $\mathcal{S}$ is the system's information state and $\lambda$ is a control parameter. Near the critical point $\lambda_c$, the order parameter behaves as:
+
+$$\eta(\lambda) = \begin{cases}
+0, & \lambda < \lambda_c \\
+(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
+\end{cases}$$
+
+where $\beta$ is a critical exponent characterizing the universality class of the phase transition.
+
+#### 2. Types of Quantum-Classical Phase Transitions
+
+Quantum-classical phase transitions can be classified into multiple types, each with distinctive characteristics:
+
+- **First-order transitions**: Discontinuous changes in order parameters, with coexistence regions
+- **Second-order transitions**: Continuous changes in order parameters but discontinuous derivatives, with diverging correlation lengths
+- **Non-equilibrium transitions**: Far from equilibrium, with continuous energy or information flow
+- **Topological transitions**: Changes in global topological properties, with emergent edge states
+
+Near critical points, the fluctuation correlation length behaves as:
+
+$$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
+
+where $\nu$ is the correlation length critical exponent.
+
+#### 3. Observer-Induced Phase Transitions
+
+Observers can induce system phase transitions by adjusting parameters, including:
+
+- **Observer dimension** $D_{\mathcal{O}}$: There exists a critical dimension $D_{\mathcal{O}}^c$ above which systems transition from quantum to classical states
+  
+$$P(\text{quantum} \to \text{classical}) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
+
+- **Observer resolution** $\eta_{\mathcal{O}}$: Affects the distinguishability of measurement bases
+  
+$$\langle \mathcal{O} \rangle = \begin{cases}
+0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
+(\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
+\end{cases}$$
+
+- **Measurement frequency** $f_{\mathcal{O}}$: Related to the quantum Zeno effect
+  
+$$\tau_{\text{decoherence}} \propto \begin{cases}
+(f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
+0, & f_{\mathcal{O}} \geq f_{\mathcal{O}}^c
+\end{cases}$$
+
+#### 4. Multi-level Structure of Information Phase Transitions
+
+Information phase transitions exhibit nested hierarchical structures:
+
+$$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
+
+Different levels of phase transitions occur at specific scales and times:
+
+$$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
+
+Coupling between levels leads to cascade effects and fractal structures, with the interface's Hausdorff dimension:
+
+$$D_H = d - \frac{\beta}{\nu}$$
+
+The observability of information phase transitions depends on the observation scale; they can only be detected when the observation window $L_{\text{obs}}$ is sufficiently large:
+
+$$P_{\text{detection}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
+
 ### Core Observer Theory
 
 Observers are nodes executing quantum→classical transformations, with the following core properties:

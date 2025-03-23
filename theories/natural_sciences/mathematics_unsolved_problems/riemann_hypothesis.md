@@ -198,7 +198,7 @@ $$
 
 1. Riemann, B. (1859). Über die Anzahl der Primzahlen unter einer gegebenen Größe. Monatsberichte der Berliner Akademie.
 2. 经典量子二元论核心理论 (版本28.0). [core.md](../../core.md)
-3. 形式化量子经典框架 (版本28.0). [formal_theory.md](../../formal_theory.md)
+3. 形式化量子经典框架 (版本28.0). [formal_theory/formal_theory_en.md](../../formal_theory/formal_theory_en.md)
 4. Connes, A. (1999). Trace formula in noncommutative geometry and the zeros of the Riemann zeta function. Selecta Mathematica, 5(1), 29-106.
 5. Berry, M. V., & Keating, J. P. (1999). The Riemann zeros and eigenvalue asymptotics. SIAM Review, 41(2), 236-266.
 
@@ -389,6 +389,6 @@ This proof not only resolves a long-standing mathematical problem but also revea
 
 1. Riemann, B. (1859). Über die Anzahl der Primzahlen unter einer gegebenen Größe. Monatsberichte der Berliner Akademie.
 2. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory_en.md)
+3. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
 4. Connes, A. (1999). Trace formula in noncommutative geometry and the zeros of the Riemann zeta function. Selecta Mathematica, 5(1), 29-106.
 5. Berry, M. V., & Keating, J. P. (1999). The Riemann zeros and eigenvalue asymptotics. SIAM Review, 41(2), 236-266. 

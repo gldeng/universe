@@ -256,7 +256,7 @@ These conditions have been verified in our analysis, leading to the conclusion: 
 ## References
 
 1. Quantum-Classical Dualism Core Theory (Version 28.0). [core_en.md](../../core_en.md)
-2. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory_en.md)
+2. Formalized Quantum-Classical Framework (Version 28.0). [formal_theory_en.md](../../formal_theory/formal_theory_en.md)
 3. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
 4. Tao, T. (2014). The Erdos discrepancy problem. arXiv:1509.05363.
 5. Maynard, J. (2015). Small gaps between primes. Annals of Mathematics, 181(1), 383-413.

@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism Formal Theory v30.0
+# Quantum-Classical Dualism Formal Theory v31.0
 
 **English Version | [中文版](../formal_theory_core.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v30.0
+> This theory is based on [Core Theory](../core_en.md) v31.0
 
 ## Complete Description of Core Theory
 
@@ -500,7 +500,7 @@ The higher the dimension value, the more the theory emphasizes quantum domain ch
 
 ### Core Theory (Dimension: Full Spectrum D∞)
 
-- **[Core Theory](../core_en.md)** (v30.0, D∞) - Provides the basic axiom system and conceptual framework for dualism, spanning all dimensional levels, serving as the foundation for all branch theories.
+- **[Core Theory](../core_en.md)** (v31.0, D∞) - Provides the basic axiom system and conceptual framework for dualism, spanning all dimensional levels, serving as the foundation for all branch theories.
 
 ### Foundation Framework Theories (Dimension: D7-D9)
 
@@ -682,7 +682,7 @@ The following diagram shows the dependency relationships and dimension annotatio
 
 flowchart TD
     %% Core Theory
-    Core[Core Theory v30.0 D∞] 
+    Core[Core Theory v31.0 D∞] 
     
     %% Foundation Theory Layer
     QD[Quantum Domain Details v19.1 D9]

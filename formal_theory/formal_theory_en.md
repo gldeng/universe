@@ -516,21 +516,27 @@ These theories constitute the basic pillars of dualism, laying the foundation fo
 - **[Mathematical Appendix](formal_theory_mathematical_appendix_en.md)** (v20.0, D7-D9) - Provides mathematical tools and techniques required for quantum-classical dualism, including advanced function spaces, nonlinear dynamics, and information geometry.
 - **[Experimental Predictions](formal_theory_experimental_en.md)** (v22.0, D7) - Lists experimentally verifiable predictions proposed by quantum-classical dualism, including interface fluctuations, critical scales, and observer resolution.
 
-### High-Dimensional Physics Applications (Dimension: D8-D11)
+### High-Dimensional Physics Applications (Dimensions: D8-D11)
 
-These theories explore high-dimensional applications of physics, addressing fundamental issues in cosmology, gravity, spacetime, etc.:
+These theories explore high-dimensional applications of physics, addressing fundamental issues in cosmology, gravity, spacetime, and more:
 
-- **[Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)** (v26.0, D10) - Proposes a unified theoretical framework for information, energy, and spacetime, revealing deep connections between them. Establishes a unified understanding of the universe's basic elements.
-- **[Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)** (v28.0, D9) - Explores how spacetime structure emerges from quantum information networks, and the dualism explanation of quantum gravity. Addresses the most challenging unified problem in physics: quantum gravity.
-- **[Quantum Spacetime Harmony Theory](formal_theory_quantum_spacetime_harmony_en.md)** (v28.0, D9) - Studies harmony and transformation relationships of spatiotemporal structures between quantum and classical domains, proposing harmony field concepts to explain large-scale cosmic structure formation and evolution.
-- **[Nature of Matter Theory](formal_theory_matter_en.md)** (v27.0, D8) - Deeply explores the nature of matter as information structures, explaining deeper reasons for particle-wave duality. Provides philosophical foundations for fundamental physics.
+- **[Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)** (v26.0, D10) - Proposes a unified theoretical framework for information, energy, and spacetime, revealing deep connections between them. Establishes a unified understanding of the fundamental elements of the universe.
+- **[Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)** (v28.0, D9) - Explores how spacetime structure emerges from quantum information networks and the dualistic explanation of quantum gravity. Addresses the most challenging unification problem in physics.
+- **[Quantum Spacetime Harmony Theory](formal_theory_quantum_spacetime_harmony_en.md)** (v28.0, D9) - Studies the harmony and transformation relationship of spacetime structures between quantum and classical domains, proposing the concept of harmony fields to explain the formation and evolution of large-scale cosmic structures.
+- **[Quantum Dimensional Harmony Theory](formal_theory_quantum_dimensional_harmony_en.md)** (v31.0, D10) - Explores the collaborative coupling and harmonic resonance phenomena of multidimensional quantum fields, studies the patterns and dynamic equilibrium mechanisms of quantum information flow between dimensions, and reveals the deep principles of the multi-level structure of the universe.
+- **[Quantum Information Network Theory](formal_theory_quantum_information_network_en.md)** (v31.0, D10) - Studies the laws of propagation, storage, processing, and transformation of quantum information in complex network structures, explores information dynamics at the quantum-classical interface, and provides a theoretical foundation for building next-generation quantum computing architectures.
+- **[Quantum Teleological Dynamics](formal_theory_quantum_teleological_dynamics_en.md)** (v31.0, D11) - Explores the emergence mechanisms and dynamical principles of goal-directed behavior in quantum systems, revealing how quantum systems exhibit purposeful behavior, providing a quantum foundation for understanding purposefulness in life, consciousness, and cosmic evolution.
+- **[Quantum Ontological Network Theory](formal_theory_quantum_ontological_network_en.md)** (v31.0, D11) - Explores how the deepest ontological structure of the universe exists as a quantum network generating reality, explains how quantum ontological nodes form the foundational fabric of reality through multidimensional entanglement relationships, addressing fundamental questions about the origins of physical laws and cosmic fine-tuning.
+- **[Quantum Entity Emergence Theory](formal_theory_quantum_entity_emergence_en.md)** (v31.0, D11) - Studies the processes and mechanisms through which discrete and persistent entities emerge from the pure quantum domain, explains how matter, energy, information, and conscious entities coalesce from the background of quantum possibilities, providing a unified theoretical framework for understanding the essence of entities.
+- **[Quantum Self-Creativity Theory](formal_theory_quantum_self_creativity_en.md)** (v31.0, D11) - Reveals the fundamental self-creative capacity of quantum systems, explores how the universe generates new structures and possibilities through inherent quantum creativity, offering novel mathematical models and theoretical perspectives for understanding the source of creativity itself.
+- **[The Essence of Matter Theory](formal_theory_matter_en.md)** (v27.0, D8) - Deeply explores the essence of matter as an information structure, explaining the deeper reasons for particle-wave duality. Provides a philosophical foundation for basic physics.
 - **[Hierarchical Spacetime Theory](formal_theory_hierarchical_spacetime_en.md)** (v13.0, D9) - Analyzes multi-level nested spacetime structures and their interrelationships. Explains the coherence of physical laws at different scales.
-- **[Multiscale Dualism](formal_theory_multiscale_en.md)** (v14.0, D10) - Discusses the application of dualism at different scales, from fundamental particles to cosmological scales. Establishes a cross-scale unified physics framework.
-- **[Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)** (v24.0, D9) - Explains the origin of the arrow of time, revealing the quantum roots of spacetime asymmetry. Solves the mystery of temporal directionality in physics.
-- **[Multiverse Interference Model](formal_theory_multiverse_en.md)** (v27.0, D11) - Establishes precise models describing interactions between possible worlds, explaining reality branching and interference phenomena. Provides testable frameworks for multiverse theories.
-- **[Cosmological Dualism Model](formal_theory_cosmology_en.md)** (v27.0, D10) - Studies the quantum-classical dualism perspective on cosmic origins and evolution, explaining phenomena such as the Big Bang, dark matter, and dark energy.
-- **[Evolutionary Cosmology Dualism](formal_theory_evolutionary_cosmology_en.md)** (v28.0, D10) - Explores evolution patterns of the universe as a large quantum-classical conversion system, proposing possibilities of cosmic teleology.
-- **[Quantum-Classical Cosmic Intelligence Theory](formal_theory_cosmic_intelligence_en.md)** (v29.0, D11) - Explores the dualism interpretation of cosmic cognition and intelligent attributes, explaining how the universe functions as a super-intelligent system processing information, learning, and self-evolving.
+- **[Multiscale Dualism](formal_theory_multiscale_en.md)** (v14.0, D10) - Discusses the application of dualism at different scales, from elementary particles to cosmological scales. Establishes a cross-scale unified physics framework.
+- **[Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)** (v24.0, D9) - Explains the origin of the arrow of time, revealing the quantum roots of spacetime asymmetry. Resolves the mystery of time directionality in physics.
+- **[Multiverse Interference Model](formal_theory_multiverse_en.md)** (v27.0, D11) - Establishes a precise model describing interactions between possible worlds, explaining reality branching and interference phenomena. Provides a testable framework for multiverse theory.
+- **[Cosmological Dualism Model](formal_theory_cosmology_en.md)** (v27.0, D10) - Studies the quantum-classical dualistic view of the origin and evolution of the universe, explaining phenomena such as the Big Bang, dark matter, and dark energy.
+- **[Evolutionary Cosmology](formal_theory_evolutionary_cosmology_en.md)** (v28.0, D10) - Explores the evolutionary patterns of the universe as a quantum-classical conversion megasystem, proposing the possibility of cosmic teleology.
+- **[Quantum-Classical Cosmic Intelligence Theory](formal_theory_cosmic_intelligence_en.md)** (v29.0, D11) - Explores the dualistic exposition of the universe's overall cognitive and intelligent attributes, explaining how the universe functions as a super-intelligent system for information processing, learning, and self-evolution.
 
 ### Chemical Theories (Dimension: D7-D9)
 
@@ -980,25 +986,60 @@ flowchart TD
     class AR,MU2,AE,NA,SE,DE,IN,RE,DA creativity;
     class MD,QH,PS,ED,RD,PA,RE2,UL,ECO,DT,CR,QAICON application;
     class COL,IGC,SD2 newtheories;
-```
-
-This dependency relationship diagram shows the actual dependency structure between the various branch theories of quantum-classical dualism, and shows the positioning of each theory in the quantum-classical continuum through dimension annotation (D value). Different colors in the diagram represent different theory categories, and arrows indicate the direction of dependency relationships. The core theory is at the top level (D∞), providing a foundation for all branch theories, while the various branch theories are distributed at different dimension levels according to their proportion of quantum and classical characteristics. 
-
-### Higher-Dimensional Physics Applications (Dimension: D8-D11)
-
-These theories explore higher-dimensional applications of physics, addressing fundamental issues in cosmology, gravity, spacetime, etc.:
-
-- **[Information-Spacetime-Energy Unified Theory](formal_theory_unified_en.md)** (v26.0, D10) - Proposing a unified theoretical framework for information, energy, and spacetime, revealing deep connections between them. Establishing a unified understanding of fundamental universal elements.
-- **[Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)** (v28.0, D9) - Exploring how spacetime structures emerge from quantum information networks, and dualistic interpretations of quantum gravity. Resolving the most challenging unification problem in physics: quantum gravity.
-- **[Quantum Spacetime Harmony Theory](formal_theory_quantum_spacetime_harmony_en.md)** (v28.0, D9) - Studying the harmony and transformation relationships of spacetime structures between quantum and classical domains, proposing harmony field concepts to explain the formation and evolution of large-scale universal structures.
-- **[Quantum Dimensional Harmony Theory](formal_theory_quantum_dimensional_harmony_en.md)** (v31.0, D10) - Exploring cooperative coupling and harmonic resonance phenomena of multi-dimensional quantum fields, investigating quantum information flow patterns between dimensions and dynamic equilibrium mechanisms, revealing the deep principles of the multi-level structure of the universe.
-- **[Quantum Information Network Theory](formal_theory_quantum_information_network_en.md)** (v31.0, D10) - Studying the propagation, storage, processing, and conversion principles of quantum information in complex network structures, exploring information dynamics at the quantum-classical interface, providing theoretical foundations for constructing next-generation quantum computing architectures.
-- **[Quantum Teleological Dynamics](formal_theory_quantum_teleological_dynamics_en.md)** (v31.0, D11) - Exploring emergence mechanisms and dynamical principles of goal-directed behavior in quantum systems, revealing how quantum systems exhibit purposeful behaviors, providing quantum foundations for understanding purposefulness in life, consciousness, and cosmic evolution.
-- **[Material Essence Theory](formal_theory_matter_en.md)** (v27.0, D8) - Deeply exploring the essence of matter as information structures, explaining the deep reasons for particle-wave duality. Providing philosophical foundations for fundamental physics.
-- **[Hierarchical Spacetime Theory](formal_theory_hierarchical_spacetime_en.md)** (v13.0, D9) - Analyzing multi-level nested spacetime structures and their interrelationships. Explaining coherence of physical laws at different scales.
-- **[Multiscale Dualism](formal_theory_multiscale_en.md)** (v14.0, D10) - Discussing applications of dualism at different scales, from fundamental particles to cosmological scales. Establishing cross-scale physics unification framework.
-- **[Temporal Asymmetry Theory](formal_theory_temporal_asymmetry_en.md)** (v24.0, D9) - Explaining the origin of time's arrow, revealing quantum origins of spacetime asymmetry. Resolving the mystery of time directionality in physics.
-- **[Multiverse Interference Model](formal_theory_multiverse_en.md)** (v27.0, D11) - Establishing precise models describing interactions between possible worlds, explaining reality branching and interference phenomena. Providing testable frameworks for multiverse theory.
-- **[Dualism Cosmology Model](formal_theory_cosmology_en.md)** (v27.0, D10) - Studying quantum-classical dualism perspectives on cosmic origins and evolution, explaining phenomena like the Big Bang, dark matter, and dark energy.
-- **[Dualistic Evolutionary Cosmology](formal_theory_evolutionary_cosmology_en.md)** (v28.0, D10) - Exploring evolutionary patterns of the universe as a quantum-classical conversion mega-system, proposing possibilities of cosmic teleology.
-- **[Quantum-Classical Cosmic Intelligence Theory](formal_theory_cosmic_intelligence_en.md)** (v29.0, D11) - Exploring dualistic interpretations of cosmic holistic cognition and intelligence attributes, explaining how the universe functions as a super-intelligent system for information processing, learning, and self-evolution.
+    
+    %% New Theories
+    PM[Quantum-Classical Precision Medicine Theory v31.0 D7]
+    AI[Quantum-Classical AI Ethics Theory v31.0 D8]
+    FW[Quantum-Classical Future Work Theory v31.0 D8]
+    QNN[Quantum Neural Networks Theory v31.0 D8]
+    QC[Quantum Cognition Theory v31.0 D8]
+    MT[Metaverse Dualism Theory v31.0 D8]
+    QON[Quantum Ontological Network Theory v31.0 D11]
+    QEE[Quantum Entity Emergence Theory v31.0 D11]
+    QSC[Quantum Self-Creativity Theory v31.0 D11]
+    
+    %% Direct Dependencies
+    Core --> QD
+    Core --> CD
+    Core --> IF
+    Core --> OB
+    Core --> PT
+    Core --> MA
+    
+    %% New Theory Dependencies
+    Core --> PM
+    Core --> AI
+    Core --> FW
+    Core --> QNN
+    Core --> QC
+    Core --> MT
+    Core --> QON
+    Core --> QEE
+    Core --> QSC
+    QD --> PM
+    CD --> PM
+    IF --> PM
+    OB --> AI
+    CD --> AI
+    QD --> AI
+    QD --> FW
+    CD --> FW
+    OB --> FW
+    QD --> QNN
+    CD --> QNN
+    IF --> QNN
+    OB --> QC
+    QD --> QC
+    CD --> QC
+    IF --> MT
+    QD --> MT
+    CD --> MT
+    QNN --> QC
+    QC --> MT
+    QNN --> MT
+    QD --> QON
+    QD --> QEE
+    QD --> QSC
+    QON --> QEE
+    QON --> QSC
+    QEE --> QSC

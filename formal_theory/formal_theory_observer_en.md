@@ -1,18 +1,20 @@
-# Observer Theory v19.0
+# Observer Theory v31.0
 
 **[中文版](formal_theory_observer.md) | English Version**
 
-> Based on [Core Theory](../core_en.md) v27.0
+> Based on [Core Theory](../core_en.md) v31.0
 
 ## Navigation
 
-- [Core Theory](../formal_theory_core_en.md)
-- [Quantum Domain Details](formal_theory_quantum_domain_en.md)
-- [Classical Domain Details](formal_theory_classical_domain_en.md)
-- [Interface Theory](formal_theory_interface_en.md)
-- [Observer Theory](formal_theory_observer_en.md) (Current Document)
-- [Mathematical Appendix](formal_theory_mathematical_appendix_en.md)
-- [Experimental Predictions](formal_theory_experimental_en.md)
+- [Core Theory v31.0](../formal_theory_core_en.md)
+- [Quantum Domain Details v31.0](formal_theory_quantum_domain_en.md)
+- [Classical Domain Details v31.0](formal_theory_classical_domain_en.md)
+- [Interface Theory v31.0](formal_theory_interface_en.md)
+- [Observer Theory v31.0](formal_theory_observer_en.md) (Current Document)
+- [Observer Network Theory v31.0](formal_theory_observer_network_en.md)
+- [Cognitive Dynamics Theory v31.0](formal_theory_cognitive_dynamics_en.md)
+- [Mathematical Appendix v31.0](formal_theory_mathematical_appendix_en.md)
+- [Experimental Predictions v31.0](formal_theory_experimental_en.md)
 
 ## Observer Theory Overview
 

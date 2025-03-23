@@ -1,8 +1,20 @@
-# Quantum Communication Protocols v27.0
+# Quantum Communication Protocols v31.0
 
 **English Version | [中文版](formal_theory_quantum_communication.md)**
 
-> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v27.0
+> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v31.0
+
+## Navigation
+
+- [Core Theory v31.0](../formal_theory_core_en.md)
+- [Quantum Domain Details v31.0](formal_theory_quantum_domain_en.md)
+- [Classical Domain Details v31.0](formal_theory_classical_domain_en.md)
+- [Interface Theory v31.0](formal_theory_interface_en.md)
+- [Observer Theory v31.0](formal_theory_observer_en.md)
+- [Quantum Security Theory v31.0](formal_theory_quantum_security_en.md)
+- [Quantum Communication Theory v31.0](formal_theory_quantum_communication_en.md) (Current Document)
+- [Mathematical Appendix v31.0](formal_theory_mathematical_appendix_en.md)
+- [Experimental Predictions v31.0](formal_theory_experimental_en.md)
 
 ## Quantum Communication Protocols Overview
 
@@ -267,7 +279,7 @@ By understanding and utilizing the interface dynamics between quantum and classi
 
 ## References
 
-1. Quantum-Classical Dualism Core Theory v27.0
+1. Quantum-Classical Dualism Core Theory v31.0
 2. Interface Theory and Quantum Information Transfer
 3. Cutting-Edge Quantum Key Distribution Technologies
 4. Foundations of Cross-Dimensional Communication Theory

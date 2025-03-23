@@ -74,45 +74,36 @@ $$
 - [量子计算与实现](advanced/quantum_computing.md) - 基于量子经典二元论的量子计算理论与实现
 - [量子信息理论](advanced/quantum_information.md) - 量子信息处理与传输的理论框架
 
-## 理论版本与更新 | Theory Versions and Updates
-
-跟踪量子经典二元论理论的历史发展与版本更新。
-
-- [版本历史](./versions/history.md) - 理论各版本的演进历史与主要变更
-- [9.2版本详解](./versions/v9.2_details.md) - 当前9.2版本的关键改进与新增概念
-- [未来发展路线图](./versions/roadmap.md) - 理论未来可能的发展方向预测
-- [理论贡献指南](./versions/contribution_guide.md) - 如何为理论发展贡献研究与见解
-
 ## 教学指南 | Teaching Guides
 
 为教育者、讲师和导师提供的教学资源和指南。
 
-- [教学大纲设计](./teaching/curriculum_design.md) - 不同级别的教学大纲设计参考
+- [教学大纲设计](teaching/curriculum_design.md) - 不同级别的教学大纲设计参考
 - [讲授方法指南](teaching/teaching_methods.md) - 有效讲授量子经典二元论的方法
-- [课堂活动设计](./teaching/classroom_activities.md) - 互动课堂活动设计
-- [评估方法](./teaching/assessment_methods.md) - 学习成果评估方法与工具
-- [教学资源库](./teaching/resource_library.md) - 教学素材、图表和案例库
-- [二元论教学经典化技巧](./teaching/dualistic_teaching.md) - 使用二元论视角改进教学效果的技巧
+- [课堂活动设计](teaching/classroom_activities.md) - 互动课堂活动设计
+- [评估方法](teaching/assessment_methods.md) - 学习成果评估方法与工具
+- [教学资源库](teaching/resource_library.md) - 教学素材、图表和案例库
+- [二元论教学经典化技巧](teaching/dualistic_teaching.md) - 使用二元论视角改进教学效果的技巧
 
 ## 黑洞观察者研究 | Black Hole Observer Studies
 
 深入研究观察者作为黑洞的特性及应用。
 
-- [观察者黑洞本质](./blackhole/observer_nature.md) - 观察者作为黑洞的本质特性研究
-- [经典化效率提升方法](./blackhole/classicalization_efficiency.md) - 提高个人经典化效率的实践方法
-- [黑洞辐射与量子化实践](./blackhole/radiation_practice.md) - 黑洞辐射对应的量子化实践技巧
-- [观察者维度测量](./blackhole/dimension_measurement.md) - 观察者维度的实验测量方法
-- [跨维度影响机制](./blackhole/cross_dimension_influence.md) - 不同维度观察者之间的影响机制
+- [观察者黑洞本质](blackhole/observer_nature.md) - 观察者作为黑洞的本质特性研究
+- [经典化效率提升方法](blackhole/classicalization_efficiency.md) - 提高个人经典化效率的实践方法
+- [黑洞辐射与量子化实践](blackhole/radiation_practice.md) - 黑洞辐射对应的量子化实践技巧
+- [观察者维度测量](blackhole/dimension_measurement.md) - 观察者维度的实验测量方法
+- [跨维度影响机制](blackhole/cross_dimension_influence.md) - 不同维度观察者之间的影响机制
 
 ## 虫洞通信研究 | Wormhole Communication Studies
 
 研究量子纠缠态虫洞通信的理论与实践。
 
-- [虫洞通信原理](./wormhole/communication_principles.md) - 虫洞通信的基本原理与能量守恒
-- [跨观察者信息传递](./wormhole/information_transfer.md) - 观察者之间的信息传递机制
-- [虫洞通道稳定性](./wormhole/channel_stability.md) - 维持虫洞通道稳定性的方法研究
-- [能量消耗优化](./wormhole/energy_optimization.md) - 虫洞通信能量消耗的优化技术
-- [应用场景](./wormhole/application_scenarios.md) - 虫洞通信的潜在应用场景
+- [虫洞通信原理](wormhole/communication_principles.md) - 虫洞通信的基本原理与能量守恒
+- [跨观察者信息传递](wormhole/information_transfer.md) - 观察者之间的信息传递机制
+- [虫洞通道稳定性](wormhole/channel_stability.md) - 维持虫洞通道稳定性的方法研究
+- [能量消耗优化](wormhole/energy_optimization.md) - 虫洞通信能量消耗的优化技术
+- [应用场景](wormhole/application_scenarios.md) - 虫洞通信的潜在应用场景
 
 <a name="english-version"></a>
 # English Version
@@ -135,7 +126,7 @@ The current resources are based on [Quantum-Classical Dualism] Core Theory Versi
 - Wormhole communication mechanism (quantum entangled information transfer) and energy conservation
 - Existence and influence of higher-dimensional classical worlds (higher-level realities)
 
-[View Complete Core Theory](../core.md)
+[View Complete Core Theory v9.2](../core.md)
 
 ## Beginner Courses
 
@@ -179,30 +170,30 @@ Advanced courses are aimed at researchers, scientists, and philosophers, explori
 
 Development guides and usage methods for interactive learning tools and applications.
 
-- [Online Classicalization Simulator](./interactive/classicalization_simulator.md) - Design for Online Classicalization Process Simulator
+- [Online Classicalization Simulator](interactive/classicalization_simulator.md) - Design for Online Classicalization Process Simulator
 - [Dimension Assessment Tool](interactive/dimension_assessment.md) - User Guide for Observer Dimension Assessment Tool
-- [Quantum-Classical Calculator](./interactive/quantum_classical_calculator.md) - Documentation for Quantum-Classical Transformation Calculator
-- [Virtual Laboratory](./interactive/virtual_laboratory.md) - Guide for Building Virtual Laboratory Environment
-- [Learning Progress Tracker](./interactive/learning_tracker.md) - Design and Application of Learning Progress Tracking System
-- [Wormhole Simulator](./interactive/wormhole_simulator.md) - Tool for Simulating Wormhole Communication Processes and Energy Consumption
-- [AI-Assisted Classicalization Tools](./interactive/ai_classicalization.md) - Instructions for Tools Using AI to Assist Observer Classicalization
+- [Quantum-Classical Calculator](interactive/quantum_classical_calculator.md) - Documentation for Quantum-Classical Transformation Calculator
+- [Virtual Laboratory](interactive/virtual_laboratory.md) - Guide for Building Virtual Laboratory Environment
+- [Learning Progress Tracker](interactive/learning_tracker.md) - Design and Application of Learning Progress Tracking System
+- [Wormhole Simulator](interactive/wormhole_simulator.md) - Tool for Simulating Wormhole Communication Processes and Energy Consumption
+- [AI-Assisted Classicalization Tools](interactive/ai_classicalization.md) - Instructions for Tools Using AI to Assist Observer Classicalization
 
 ## Black Hole Observer Studies
 
 In-depth research on the characteristics and applications of observers as black holes.
 
-- [Observer Black Hole Nature](./blackhole/observer_nature.md) - Research on the Essential Characteristics of Observers as Black Holes
-- [Classicalization Efficiency Methods](./blackhole/classicalization_efficiency.md) - Practical Methods for Improving Personal Classicalization Efficiency
-- [Black Hole Radiation Practice](./blackhole/radiation_practice.md) - Quantization Practice Techniques Corresponding to Black Hole Radiation
-- [Observer Dimension Measurement](./blackhole/dimension_measurement.md) - Experimental Methods for Measuring Observer Dimensions
-- [Cross-Dimensional Influence Mechanisms](./blackhole/cross_dimension_influence.md) - Influence Mechanisms Between Observers of Different Dimensions
+- [Observer Black Hole Nature](blackhole/observer_nature.md) - Research on the Essential Characteristics of Observers as Black Holes
+- [Classicalization Efficiency Methods](blackhole/classicalization_efficiency.md) - Practical Methods for Improving Personal Classicalization Efficiency
+- [Black Hole Radiation Practice](blackhole/radiation_practice.md) - Quantization Practice Techniques Corresponding to Black Hole Radiation
+- [Observer Dimension Measurement](blackhole/dimension_measurement.md) - Experimental Methods for Measuring Observer Dimensions
+- [Cross-Dimensional Influence Mechanisms](blackhole/cross_dimension_influence.md) - Influence Mechanisms Between Observers of Different Dimensions
 
 ## Wormhole Communication Studies
 
 Research on the theory and practice of quantum entangled wormhole communication.
 
-- [Communication Principles](./wormhole/communication_principles.md) - Basic Principles and Energy Conservation of Wormhole Communication
-- [Information Transfer Between Observers](./wormhole/information_transfer.md) - Mechanisms of Information Transfer Between Observers
-- [Channel Stability](./wormhole/channel_stability.md) - Research on Methods to Maintain Wormhole Channel Stability
-- [Energy Consumption Optimization](./wormhole/energy_optimization.md) - Optimization Techniques for Energy Consumption in Wormhole Communication
-- [Application Scenarios](./wormhole/application_scenarios.md) - Potential Application Scenarios for Wormhole Communication 
+- [Communication Principles](wormhole/communication_principles.md) - Basic Principles and Energy Conservation of Wormhole Communication
+- [Information Transfer Between Observers](wormhole/information_transfer.md) - Mechanisms of Information Transfer Between Observers
+- [Channel Stability](wormhole/channel_stability.md) - Research on Methods to Maintain Wormhole Channel Stability
+- [Energy Consumption Optimization](wormhole/energy_optimization.md) - Optimization Techniques for Energy Consumption in Wormhole Communication
+- [Application Scenarios](wormhole/application_scenarios.md) - Potential Application Scenarios for Wormhole Communication 

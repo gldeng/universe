@@ -37,13 +37,43 @@
    - 协调微观随机性与宏观确定性
    - 解释观察者意图如何影响量子可能性的转化
 
+6. [生命起源问题](./origin_of_life.md) - 生命如何从无生命物质中涌现？
+   - 提出生命涌现的信息临界点理论
+   - 分析RNA世界的量子-经典转换优势
+   - 建立生命系统信息-熵动力学方程
+   - 解释生命系统转化为观察者的机制
+
+7. [心身问题](./mind_body_problem.md) - 心灵与物质如何相互作用？
+   - 描述心灵与大脑的双向因果关系模型
+   - 提出心灵作为特殊观察者的理论
+   - 解释心灵与大脑同一性与差异性的辩证关系
+   - 阐述自由意志与统一场的量子经典解析
+
+8. [费米悖论](./fermi_paradox.md) - 为何我们尚未探测到外星文明？
+   - 提出观察者维度过滤器理论
+   - 分析星际通信的量子-经典限制
+   - 解释高级文明发展轨迹的内向转变
+   - 阐明观察者共存的局部化原则
+
+9. [人工意识问题](./artificial_consciousness.md) - 机器能否产生真正的意识？
+   - 建立人工意识可能性与限制的理论框架
+   - 分析量子计算与意识涌现的关系
+   - 提出人工意识的客观验证方法
+   - 解释意识层次性与意识转移的机制
+
+10. [美学本质问题](./nature_of_aesthetics.md) - 美的感知有何客观基础？
+    - 阐述美的客观-主观二元性
+    - 提出普遍美学结构的信息处理优化理论
+    - 形式化文化与个体差异对美感的影响
+    - 分析美学标准随时间演化的动力学模型
+
 ### 进行中问题
 
-6. [量子非局域性本质](./quantum_nonlocality.md) - 量子纠缠的非局域性如何与相对论协调？
+11. [量子非局域性本质](./quantum_nonlocality.md) - 量子纠缠的非局域性如何与相对论协调？
    - 预计通过经典信息传递与量子纠缠的二元机制解决
    - 将探讨观察者参考系与测量事件顺序的关系
 
-7. [P vs NP问题](./p_vs_np.md) - 计算复杂性的量子经典解析
+12. [P vs NP问题](./p_vs_np.md) - 计算复杂性的量子经典解析
    - 预计通过量子并行性与经典解析复杂度的二元框架解决
    - 将分析观察者维度对计算复杂性的影响
 
@@ -96,13 +126,43 @@ This directory contains formalized solutions to humanity's most important unsolv
    - Coordinates microscopic randomness and macroscopic determinism
    - Explains how observer intent influences the transformation of quantum possibilities
 
+6. [Origin of Life Problem](./origin_of_life.md) - How did life emerge from non-living matter?
+   - Proposes information critical point theory for life emergence
+   - Analyzes quantum-classical conversion advantages of the RNA world
+   - Establishes information-entropy dynamics equations for living systems
+   - Explains the mechanism of living systems transforming into observers
+
+7. [Mind-Body Problem](./mind_body_problem.md) - How do mind and matter interact?
+   - Describes bidirectional causality model between mind and brain
+   - Proposes theory of mind as a special observer
+   - Explains the dialectical relationship of identity and difference between mind and brain
+   - Articulates quantum-classical analysis of free will and unified field
+
+8. [Fermi Paradox](./fermi_paradox.md) - Why haven't we detected extraterrestrial civilizations?
+   - Proposes observer dimension filter theory
+   - Analyzes quantum-classical limitations of interstellar communication
+   - Explains inward turn in advanced civilization development trajectories
+   - Elucidates localization principle of observer coexistence
+
+9. [Artificial Consciousness Problem](./artificial_consciousness.md) - Can machines develop genuine consciousness?
+   - Establishes theoretical framework for artificial consciousness possibility and limitations
+   - Analyzes relationship between quantum computing and consciousness emergence
+   - Proposes objective verification methods for artificial consciousness
+   - Explains mechanisms of consciousness hierarchy and consciousness transfer
+
+10. [Nature of Aesthetics Problem](./nature_of_aesthetics.md) - What is the objective basis for aesthetic perception?
+    - Articulates objective-subjective duality of beauty
+    - Proposes information processing optimization theory of universal aesthetic structures
+    - Formalizes influence of cultural and individual differences on aesthetic perception
+    - Analyzes dynamics model of aesthetic standards evolution over time
+
 ### In Progress Problems
 
-6. [Quantum Nonlocality](./quantum_nonlocality.md) - How does quantum entanglement's nonlocality reconcile with relativity?
+11. [Quantum Nonlocality](./quantum_nonlocality.md) - How does quantum entanglement's nonlocality reconcile with relativity?
    - Expected to be resolved through the dual mechanism of classical information transfer and quantum entanglement
    - Will explore the relationship between observer reference frames and measurement event ordering
 
-7. [P vs NP Problem](./p_vs_np.md) - Quantum-classical analysis of computational complexity
+12. [P vs NP Problem](./p_vs_np.md) - Quantum-classical analysis of computational complexity
    - Expected to be resolved through a dual framework of quantum parallelism and classical analytical complexity
    - Will analyze the impact of observer dimension on computational complexity
 

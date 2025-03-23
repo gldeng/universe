@@ -38,7 +38,7 @@
 3. [林肯 Lincoln](./figures/political_leaders/lincoln.md)
 4. [丘吉尔 Churchill](./figures/political_leaders/churchill.md)
 5. [拿破仑 Napoleon](./figures/political_leaders/napoleon.md)
-6. [曼德拉 Mandela](./figures/political_leaders/mandela.md)
+6. [曼德拉 Mandela](figures/leaders/mandela.md)
 7. [凯末尔 Atatürk](./figures/political_leaders/ataturk.md)
 8. [罗斯福 Roosevelt](./figures/political_leaders/roosevelt.md)
 9. [俾斯麦 Bismarck](./figures/political_leaders/bismarck.md)

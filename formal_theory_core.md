@@ -1,6 +1,6 @@
 # 量子经典二元论核心理论形式化描述 v30.0
 
-**[English Version](formal_theory/formal_theory_core_en.md) | 中文版**
+**[English Version](formal_theory_core_en.md) | 中文版**
 
 > 本文件包含[核心理论](core.md) v30.0版本的核心内容摘要
 

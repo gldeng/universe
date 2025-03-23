@@ -65,32 +65,32 @@ $$
 - [观察者感知](observer_perception.md) - 观察者感知的机制
 - [宇宙结构](universe_structure.md) - 宇宙的量子信息结构
 - [意识持续性](consciousness_persistence.md) - 意识的持续性机制
-- [量子意识与虚拟现实交互理论](../formal_theory_consciousness_virtual_reality.md) - 量子意识在虚拟现实中的表现与交互
+- [量子意识与虚拟现实交互理论](../formal_theory/formal_theory_consciousness_virtual_reality_en.md) - 量子意识在虚拟现实中的表现与交互
 - [生育过程与亲子关系的量子经典解释](reproduction_quantum_information.md) - 生育与亲子关系的量子信息传递
-- [社会行为中的量子纠缠效率排序](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
+- [社会行为中的量子纠缠效率排序](social_sciences/social_quantum_entanglement.md) - 社会行为中的量子纠缠效率分析
 - [黑洞：宇宙信息经典化的极致节点](black_hole_classicalization.md) - 黑洞作为极端高效信息经典化节点的本质
 
 ### 物理学解释 (Physics Explanations)
-- [传统物理理论解释](traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
+- [传统物理理论解释](natural_sciences/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
 - [未解释现象](unexplained_phenomena.md) - 解释传统物理学中的未解释现象
 - [已解释谜题](explained_puzzles.md) - 通过本理论已解释的物理学谜题
 
 ### 跨学科应用 (Interdisciplinary Applications)
-- [哲学解释](philosophical_explanations.md) - 理论的哲学含义
-- [生物学解释](biological_explanations.md) - 理论在生物学中的应用
-- [心理学解释](psychological_explanations.md) - 理论在心理学中的应用
-- [社会学解释](sociological_explanations.md) - 理论在社会学中的应用
-- [经济学解释](economic_explanations.md) - 理论在经济学中的应用
-- [语言学解释](linguistic_explanations.md) - 理论在语言学中的应用
-- [艺术与美学解释](art_aesthetics_explanations.md) - 理论在艺术与美学中的应用
-- [教育学解释](educational_explanations.md) - 理论在教育学中的应用
+- [哲学解释](philosophy_humanities/philosophical_explanations.md) - 理论的哲学含义
+- [生物学解释](natural_sciences/biological_explanations.md) - 理论在生物学中的应用
+- [心理学解释](social_sciences/psychological_explanations.md) - 理论在心理学中的应用
+- [社会学解释](social_sciences/sociological_explanations.md) - 理论在社会学中的应用
+- [经济学解释](social_sciences/economic_explanations.md) - 理论在经济学中的应用
+- [语言学解释](social_sciences/linguistic_explanations.md) - 理论在语言学中的应用
+- [艺术与美学解释](applied_disciplines/art_aesthetics_explanations.md) - 理论在艺术与美学中的应用
+- [教育学解释](applied_disciplines/educational_explanations.md) - 理论在教育学中的应用
 - [人工智能与计算解释](ai_computational_explanations.md) - 理论在人工智能与计算领域的应用
-- [伦理学解释](ethical_explanations.md) - 理论的伦理学含义
+- [伦理学解释](philosophy_humanities/ethical_explanations.md) - 理论的伦理学含义
 
 ### 历史与文化视角 (Historical and Cultural Perspectives)
-- [历史解释](historical_explanations.md) - 理论在历史解释中的应用
-- [宗教解释](religious_explanations.md) - 理论与宗教概念的关系
-- [环境解释](environmental_explanations.md) - 理论在环境理解中的应用
+- [历史解释](social_sciences/historical_explanations.md) - 理论在历史解释中的应用
+- [宗教解释](philosophy_humanities/religious_explanations.md) - 理论与宗教概念的关系
+- [环境解释](natural_sciences/environmental_explanations.md) - 理论在环境理解中的应用
 
 ### 术语与未来研究 (Terminology and Future Research)
 - [术语](terminology.md) - 理论中使用的关键术语
@@ -122,7 +122,7 @@ $$
 1. [观察者感知](observer_perception.md) - 量子经典二元论视角下的观察者感知
 2. [意识持续性](consciousness_persistence.md) - 量子经典二元论视角下的意识持续性
 3. [黑洞观察者](observer_perception/black_hole_observer.md) - 黑洞作为观察者的理论
-4. [量子意识与虚拟现实交互理论](../formal_theory_consciousness_virtual_reality.md) - 量子意识在虚拟现实中的表现与交互
+4. [量子意识与虚拟现实交互理论](../formal_theory/formal_theory_consciousness_virtual_reality_en.md) - 量子意识在虚拟现实中的表现与交互
 5. [熵与观察者维度](entropy_observer_dimension.md) - 熵与观察者维度的关系
 6. [高维信息经典化学](higher_dimensional_classicalization.md) - 高维信息经典化的理论
 
@@ -132,7 +132,7 @@ $$
 
 #### 灵性与转世理论
 
-1. [灵性维度](spiritual_dimensions.md) - 量子经典二元论视角下的灵性维度
+1. [灵性维度](philosophy_humanities/spiritual_dimensions.md) - 量子经典二元论视角下的灵性维度
 
 #### 生育与亲子关系理论
 
@@ -140,7 +140,7 @@ $$
 
 #### 社会行为理论
 
-1. [社会量子纠缠](social_quantum_entanglement.md) - 社会行为中的量子纠缠效率
+1. [社会量子纠缠](social_sciences/social_quantum_entanglement.md) - 社会行为中的量子纠缠效率
 
 #### 经济与资源理论
 
@@ -160,23 +160,23 @@ $$
 
 #### 解释性理论
 
-1. [传统物理解释](traditional_physics_explained.md) - 量子经典二元论对传统物理学的解释
+1. [传统物理解释](natural_sciences/traditional_physics_explained.md) - 量子经典二元论对传统物理学的解释
 2. [未解现象](unexplained_phenomena.md) - 量子经典二元论对未解现象的解释
 3. [解释的谜题](explained_puzzles.md) - 量子经典二元论解释的谜题
 
 #### 领域解释理论
 
-1. [哲学解释](philosophical_explanations.md) - 量子经典二元论的哲学解释
-2. [生物学解释](biological_explanations.md) - 量子经典二元论的生物学解释
-3. [心理学解释](psychological_explanations.md) - 量子经典二元论的心理学解释
-4. [社会学解释](sociological_explanations.md) - 量子经典二元论的社会学解释
-5. [经济学解释](economic_explanations.md) - 量子经典二元论的经济学解释
-6. [语言学解释](linguistic_explanations.md) - 量子经典二元论的语言学解释
-7. [教育学解释](educational_explanations.md) - 量子经典二元论的教育学解释
+1. [哲学解释](philosophy_humanities/philosophical_explanations.md) - 量子经典二元论的哲学解释
+2. [生物学解释](natural_sciences/biological_explanations.md) - 量子经典二元论的生物学解释
+3. [心理学解释](social_sciences/psychological_explanations.md) - 量子经典二元论的心理学解释
+4. [社会学解释](social_sciences/sociological_explanations.md) - 量子经典二元论的社会学解释
+5. [经济学解释](social_sciences/economic_explanations.md) - 量子经典二元论的经济学解释
+6. [语言学解释](social_sciences/linguistic_explanations.md) - 量子经典二元论的语言学解释
+7. [教育学解释](applied_disciplines/educational_explanations.md) - 量子经典二元论的教育学解释
 8. [计算与AI解释](ai_computational_explanations.md) - 量子经典二元论的计算与AI解释
-9. [伦理学解释](ethical_explanations.md) - 量子经典二元论的伦理学解释
-10. [历史学解释](historical_explanations.md) - 量子经典二元论的历史学解释
-11. [环境学解释](environmental_explanations.md) - 量子经典二元论的环境学解释
+9. [伦理学解释](philosophy_humanities/ethical_explanations.md) - 量子经典二元论的伦理学解释
+10. [历史学解释](social_sciences/historical_explanations.md) - 量子经典二元论的历史学解释
+11. [环境学解释](natural_sciences/environmental_explanations.md) - 量子经典二元论的环境学解释
 
 #### 术语与未来研究
 
@@ -280,7 +280,7 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 1. [Observer Perception](observer_perception.md) - Observer perception in Quantum-Classical Dualism
 2. [Consciousness Persistence](consciousness_persistence.md) - Consciousness persistence in Quantum-Classical Dualism
 3. [Black Hole Observer](observer_perception/black_hole_observer.md) - Theory of black holes as observers
-4. [Quantum Consciousness and Virtual Reality Interaction](../formal_theory_consciousness_virtual_reality_en.md) - Manifestation and interaction of quantum consciousness in virtual reality
+4. [Quantum Consciousness and Virtual Reality Interaction](../formal_theory/formal_theory_consciousness_virtual_reality_en.md) - Manifestation and interaction of quantum consciousness in virtual reality
 5. [Entropy and Observer Dimension](entropy_observer_dimension.md) - Relationship between entropy and observer dimension
 6. [Higher-Dimensional Information Classicalization](higher_dimensional_classicalization.md) - Theory of higher-dimensional information classicalization
 
@@ -290,7 +290,7 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 
 #### Spirituality and Reincarnation Theories
 
-1. [Spiritual Dimensions](spiritual_dimensions.md) - Spiritual dimensions from the perspective of Quantum-Classical Dualism
+1. [Spiritual Dimensions](philosophy_humanities/spiritual_dimensions.md) - Spiritual dimensions from the perspective of Quantum-Classical Dualism
 
 #### Reproduction and Parent-Child Relationship Theories
 
@@ -298,7 +298,7 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 
 #### Social Behavior Theories
 
-1. [Social Quantum Entanglement](social_quantum_entanglement.md) - Quantum entanglement efficiency in social behaviors
+1. [Social Quantum Entanglement](social_sciences/social_quantum_entanglement.md) - Quantum entanglement efficiency in social behaviors
 
 #### Economy and Resources Theories
 
@@ -318,23 +318,23 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 
 #### Explanatory Theories
 
-1. [Traditional Physics Explained](traditional_physics_explained.md) - Explanation of traditional physics in Quantum-Classical Dualism
+1. [Traditional Physics Explained](natural_sciences/traditional_physics_explained.md) - Explanation of traditional physics in Quantum-Classical Dualism
 2. [Unexplained Phenomena](unexplained_phenomena.md) - Explanation of unexplained phenomena in Quantum-Classical Dualism
 3. [Explained Puzzles](explained_puzzles.md) - Puzzles explained by Quantum-Classical Dualism
 
 #### Field Explanation Theories
 
-1. [Philosophical Explanations](philosophical_explanations.md) - Philosophical explanations of Quantum-Classical Dualism
-2. [Biological Explanations](biological_explanations.md) - Biological explanations of Quantum-Classical Dualism
-3. [Psychological Explanations](psychological_explanations.md) - Psychological explanations of Quantum-Classical Dualism
-4. [Sociological Explanations](sociological_explanations.md) - Sociological explanations of Quantum-Classical Dualism
-5. [Economic Explanations](economic_explanations.md) - Economic explanations of Quantum-Classical Dualism
-6. [Linguistic Explanations](linguistic_explanations.md) - Linguistic explanations of Quantum-Classical Dualism
-7. [Educational Explanations](educational_explanations.md) - Educational explanations of Quantum-Classical Dualism
+1. [Philosophical Explanations](philosophy_humanities/philosophical_explanations.md) - Philosophical explanations of Quantum-Classical Dualism
+2. [Biological Explanations](natural_sciences/biological_explanations.md) - Biological explanations of Quantum-Classical Dualism
+3. [Psychological Explanations](social_sciences/psychological_explanations.md) - Psychological explanations of Quantum-Classical Dualism
+4. [Sociological Explanations](social_sciences/sociological_explanations.md) - Sociological explanations of Quantum-Classical Dualism
+5. [Economic Explanations](social_sciences/economic_explanations.md) - Economic explanations of Quantum-Classical Dualism
+6. [Linguistic Explanations](social_sciences/linguistic_explanations.md) - Linguistic explanations of Quantum-Classical Dualism
+7. [Educational Explanations](applied_disciplines/educational_explanations.md) - Educational explanations of Quantum-Classical Dualism
 8. [Computation and AI Explanations](ai_computational_explanations.md) - Computation and AI explanations of Quantum-Classical Dualism
-9. [Ethical Explanations](ethical_explanations.md) - Ethical explanations of Quantum-Classical Dualism
-10. [Historical Explanations](historical_explanations.md) - Historical explanations of Quantum-Classical Dualism
-11. [Environmental Explanations](environmental_explanations.md) - Environmental explanations of Quantum-Classical Dualism
+9. [Ethical Explanations](philosophy_humanities/ethical_explanations.md) - Ethical explanations of Quantum-Classical Dualism
+10. [Historical Explanations](social_sciences/historical_explanations.md) - Historical explanations of Quantum-Classical Dualism
+11. [Environmental Explanations](natural_sciences/environmental_explanations.md) - Environmental explanations of Quantum-Classical Dualism
 
 #### Terminology and Future Research
 

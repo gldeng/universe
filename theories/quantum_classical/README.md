@@ -238,5 +238,5 @@ $$
 
 ## 相关理论与应用 | Related Theories and Applications
 
-- [传统物理理论解释](../traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论 
-  [Traditional Physics Theory Explanation](../traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory 
+- [传统物理理论解释](../natural_sciences/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论 
+  [Traditional Physics Theory Explanation](../natural_sciences/traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory 

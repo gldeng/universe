@@ -25,6 +25,29 @@ def extract_links(file_path):
     links = re.findall(r'\[.*?\]\((mdc:)?(.*?\.md)(\#.*?)?\)', content)
     return [(prefix, link, anchor) for prefix, link, anchor in links]
 
+def find_same_name_file(base_dir, file_name):
+    """在项目中查找同名文件，优先返回根目录和父目录中的文件"""
+    # 存储找到的文件路径
+    found_files = []
+    
+    # 遍历项目目录
+    for root, _, files in os.walk(base_dir):
+        for file in files:
+            if file == os.path.basename(file_name):
+                found_path = os.path.join(root, file)
+                # 计算与根目录的相对路径层级
+                rel_path = os.path.relpath(found_path, base_dir)
+                depth = len(rel_path.split(os.sep))
+                # 存储路径和深度
+                found_files.append((found_path, depth))
+    
+    # 按深度排序，优先使用层级浅的文件（根目录或接近根目录的）
+    if found_files:
+        found_files.sort(key=lambda x: x[1])
+        return found_files[0][0]  # 返回深度最小的文件路径
+    
+    return None
+
 def check_link_exists(base_dir, file_path, link_path):
     """检查链接是否存在"""
     # 获取文件所在目录
@@ -117,7 +140,24 @@ def main():
                 
             # 检查链接是否存在
             link_target_path = check_link_exists(base_dir, file_path, link)
+            
+            # 如果链接损坏，尝试查找同名文件
             if not link_target_path:
+                link_basename = os.path.basename(link)
+                same_name_path = find_same_name_file(base_dir, link_basename)
+                
+                if same_name_path:
+                    if args.verbose:
+                        print(f"  找到同名文件: {link_basename} -> {same_name_path}")
+                    
+                    if args.fix:
+                        fixed, new_path = fix_link_path(file_path, link, same_name_path, anchor, base_dir)
+                        if fixed:
+                            fixed_count += 1
+                            if args.verbose:
+                                print(f"  已修复链接: [{link}] -> [{new_path}]")
+                            continue
+                
                 broken_links.append((file_path, link))
                 if args.verbose:
                     print(f"  链接损坏: [{link}] 在文件 {rel_path}")

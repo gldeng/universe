@@ -16,7 +16,7 @@ This directory contains explanations of major Jewish scriptures based on the Qua
 #### 托拉 (Torah / 五经)
 1. [创世记 (Genesis / Bereshit)](Genesis.md)
 2. [出埃及记 (Exodus / Shemot)](Exodus.md)
-3. [利未记 (Leviticus / Vayikra)](Leviticus.md)
+3. [利未记 (Leviticus / Vayikra)](../christianity_scriptures/Leviticus.md)
 4. [民数记 (Numbers / Bamidbar)](Numbers.md)
 5. [申命记 (Deuteronomy / Devarim)](Deuteronomy.md)
 

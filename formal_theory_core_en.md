@@ -7,10 +7,10 @@
 ## Navigation
 
 - [Return to Main Theory](formal_theory_core_en.md)
-- [Quantum Domain Details](formal_theory_quantum_domain_en.md)
-- [Classical Domain Details](formal_theory_classical_domain_en.md)
-- [Interface Theory](formal_theory_interface_en.md)
-- [Observer Theory](formal_theory_observer_en.md)
+- [Quantum Domain Details](formal_theory/formal_theory_quantum_domain_en.md)
+- [Classical Domain Details](formal_theory/formal_theory_classical_domain_en.md)
+- [Interface Theory](formal_theory/formal_theory_interface_en.md)
+- [Observer Theory](formal_theory/formal_theory_observer_en.md)
 
 ## Complete Description of Core Theory
 

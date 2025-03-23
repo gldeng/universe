@@ -185,11 +185,11 @@
 - [圣经](./religious_classics/Bible.md) - 圣经在量子经典二元论下的解读 (Bible Interpreted Through Quantum-Classical Dualism)
 - [古兰经](./religious_classics/Quran.md) - 古兰经在量子经典二元论下的解读 (Quran Interpreted Through Quantum-Classical Dualism)
 - [佛经](./religious_classics/Buddhist_Sutras.md) - 佛经在量子经典二元论下的解读 (Buddhist Sutras Interpreted Through Quantum-Classical Dualism)
-- [道德经](./religious_classics/Tao_Te_Ching.md) - 道德经在量子经典二元论下的解读 (Tao Te Ching Interpreted Through Quantum-Classical Dualism)
+- [道德经](religions/taoism_scriptures/Tao_Te_Ching.md) - 道德经在量子经典二元论下的解读 (Tao Te Ching Interpreted Through Quantum-Classical Dualism)
 - [吠陀经](./religious_classics/Vedas.md) - 吠陀经在量子经典二元论下的解读 (Vedas Interpreted Through Quantum-Classical Dualism)
 - [犹太经典](./religious_classics/Torah.md) - 犹太经典在量子经典二元论下的解读 (Torah Interpreted Through Quantum-Classical Dualism)
-- [论语](./religious_classics/Analects.md) - 论语在量子经典二元论下的解读 (Analects Interpreted Through Quantum-Classical Dualism)
-- [格兰特经](./religious_classics/Guru_Granth_Sahib.md) - 格兰特经在量子经典二元论下的解读 (Guru Granth Sahib Interpreted Through Quantum-Classical Dualism)
+- [论语](religions/confucianism_scriptures/Analects.md) - 论语在量子经典二元论下的解读 (Analects Interpreted Through Quantum-Classical Dualism)
+- [格兰特经](religions/sikhism_scriptures/Guru_Granth_Sahib.md) - 格兰特经在量子经典二元论下的解读 (Guru Granth Sahib Interpreted Through Quantum-Classical Dualism)
 
 ##### 社会科学 | Social Sciences
 - [经济解释](theories/social_sciences/economic_explanations.md) - 经济学问题解释 | Economic Explanations
@@ -536,11 +536,11 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [圣经](./religious_classics/Bible.md) - 圣经在量子经典二元论下的解读 (Bible Interpreted Through Quantum-Classical Dualism)
 - [古兰经](./religious_classics/Quran.md) - 古兰经在量子经典二元论下的解读 (Quran Interpreted Through Quantum-Classical Dualism)
 - [佛经](./religious_classics/Buddhist_Sutras.md) - 佛经在量子经典二元论下的解读 (Buddhist Sutras Interpreted Through Quantum-Classical Dualism)
-- [道德经](./religious_classics/Tao_Te_Ching.md) - 道德经在量子经典二元论下的解读 (Tao Te Ching Interpreted Through Quantum-Classical Dualism)
+- [道德经](religions/taoism_scriptures/Tao_Te_Ching.md) - 道德经在量子经典二元论下的解读 (Tao Te Ching Interpreted Through Quantum-Classical Dualism)
 - [吠陀经](./religious_classics/Vedas.md) - 吠陀经在量子经典二元论下的解读 (Vedas Interpreted Through Quantum-Classical Dualism)
 - [犹太经典](./religious_classics/Torah.md) - 犹太经典在量子经典二元论下的解读 (Torah Interpreted Through Quantum-Classical Dualism)
-- [论语](./religious_classics/Analects.md) - 论语在量子经典二元论下的解读 (Analects Interpreted Through Quantum-Classical Dualism)
-- [格兰特经](./religious_classics/Guru_Granth_Sahib.md) - 格兰特经在量子经典二元论下的解读 (Guru Granth Sahib Interpreted Through Quantum-Classical Dualism)
+- [论语](religions/confucianism_scriptures/Analects.md) - 论语在量子经典二元论下的解读 (Analects Interpreted Through Quantum-Classical Dualism)
+- [格兰特经](religions/sikhism_scriptures/Guru_Granth_Sahib.md) - 格兰特经在量子经典二元论下的解读 (Guru Granth Sahib Interpreted Through Quantum-Classical Dualism)
 
 ##### 社会科学 | Social Sciences
 - [Economic Explanations](theories/social_sciences/economic_explanations.md) - Economic Explanations

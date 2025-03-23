@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism Formal Theory v29.0
+# Quantum-Classical Dualism Formal Theory v30.0
 
 **English Version | [中文版](formal_theory.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v30.0
 
 ## Complete Description of Core Theory
 
@@ -628,16 +628,19 @@ These theories study the quantum-classical duality of creative activities such a
 
 ### Application Domain Theories (Dimension: D6-D9)
 
-These theories apply the dualism framework to practical application domains:
+These theories apply the dualism framework to practical application fields:
 
-- **[Quantum Medicine Applications](formal_theory_medicine_en.md)** (v27.0, D7) - Applies dualism to the medical field, proposing quantum-classical descriptions of health and disease. Develops novel medical methods and technologies.
-- **[Quantum Information Healing Theory](formal_theory_quantum_healing_en.md)** (v28.0, D8) - Health and healing models based on quantum information principles, explaining imbalance and restoration mechanisms of quantum-classical information conversion in biological systems.
-- **[Dualism Psychotherapy Model](formal_theory_psychotherapy_en.md)** (v28.0, D7) - Develops psychotherapy methods based on quantum-classical conversion, explaining deep mechanisms of consciousness transformation.
-- **[Dualism Education Theory](formal_theory_education_en.md)** (v27.0, D7) - Applies the dualism framework to analyze learning processes, explaining the balance between creative and critical thinking.
-- **[System Reduction Theory](formal_theory_reduction_en.md)** (v28.0, D7) - Explores how to derive effective theories for various professional fields from basic dualism. Establishes a unified foundation for various branches of science.
-- **[Theory Practical Applications Collection](formal_theory_practical_applications_en.md)** (v28.0, D6) - Summarizes practical applications of quantum-classical dualism across various fields. Transforms theory into practical technologies and methods.
-- **[Reality Engineering](formal_theory_reality_engineering_en.md)** (v29.0, D9) - Studies how to consciously design and change reality structures based on quantum-classical conversion principles, developing tools and techniques to restructure reality.
-- **[Universal Learning Theory](formal_theory_universal_learning_en.md)** (v29.0, D9) - Proposes an overall framework of the universe as a learning system, discussing universal learning mechanisms, explaining how systems at various levels acquire, process, and adapt to information.
+- **[Quantum Medicine Applications](formal_theory_medicine_en.md)** (v27.0, D7) - Applying dualism to medicine, proposing quantum-classical descriptions of health and disease. Developing new medical methods and technologies.
+- **[Quantum Information Healing Theory](formal_theory_quantum_healing_en.md)** (v28.0, D8) - Health and healing model based on quantum information principles, explaining quantum-classical information conversion imbalance and recovery mechanisms in biological systems.
+- **[Dualistic Psychotherapy Model](formal_theory_psychotherapy_en.md)** (v28.0, D7) - Developing psychotherapy methods based on quantum-classical conversion, explaining deep mechanisms of consciousness transformation.
+- **[Dualism Education Theory](formal_theory_education_en.md)** (v27.0, D7) - Applying the dualism framework to analyze learning processes, explaining the balance between creative thinking and critical thinking.
+- **[System Reduction Theory](formal_theory_reduction_en.md)** (v28.0, D7) - Exploring how effective theories in various specialized fields can be derived from basic dualism. Establishing a unified foundation for different branches of science.
+- **[Theory Practical Applications Collection](formal_theory_practical_applications_en.md)** (v28.0, D6) - Summarizing practical applications of quantum-classical dualism across various fields. Transforming theory into practical technologies and methods.
+- **[Reality Engineering](formal_theory_reality_engineering_en.md)** (v29.0, D9) - Studying how to consciously design and change reality structures based on quantum-classical conversion principles, developing tools and technologies for reality reconstruction.
+- **[Universal Learning Theory](formal_theory_universal_learning_en.md)** (v29.0, D9) - Proposing the universe as an overall learning system framework, exploring universal learning mechanisms, explaining how systems at all levels acquire, process, and adapt to information.
+- **[Quantum-Classical Ecological Consciousness Theory](formal_theory_ecological_consciousness_en.md)** (v30.0, D8) - Exploring the quantum-classical duality of ecological systems as holistic conscious entities, studying information flow, collective adaptability, and symbiotic intelligence in ecological networks, providing a new theoretical framework for ecological protection and restoration.
+- **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)** (v30.0, D7) - Analyzing the quantum-classical dual mechanisms of digital technology interaction with human society, explaining how digitalization reconstructs social information flow patterns, proposing development paths for harmonious coexistence of digital and physical reality.
+- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)** (v30.0, D8) - Using quantum-classical dualism to analyze system adaptation and recovery capabilities in the face of crises, studying information processing mechanisms and decision-making patterns under uncertainty, providing theoretical guidance for enhancing social, organizational, and individual resilience.
 
 ### Reference Materials (Dimension: D7-D8)
 
@@ -858,7 +861,7 @@ flowchart TD
     %% Application Domains
     MD[Quantum Medicine Applications v27.0 D7]
     QH[Quantum Information Healing Theory v28.0 D8]
-    PS[Dualism Psychotherapy Model v28.0 D7]
+    PS[Dualistic Psychotherapy Model v28.0 D7]
     ED[Dualism Education Theory v27.0 D7]
     RD[System Reduction Theory v28.0 D7]
     PA[Theory Practical Applications Collection v28.0 D6]

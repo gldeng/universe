@@ -153,6 +153,7 @@
 - [环境解释](./theories/natural_sciences/environmental_explanations.md) - 量子宇宙-量子观察者-经典意识论对环境科学问题的解释
 - [数学解释](./theories/natural_sciences/mathematics_explanation.md) - 数学视角下的量子经典二元论 (Quantum-Classical Dualism from Mathematics Perspective)
 - [数学自然解释](./theories/natural_sciences/mathematics_nature_explanations.md) - 数学本质解释 (Mathematics Nature Explanations)
+- [数学未解难题](./theories/natural_sciences/mathematics_unsolved_problems.md) - 量子经典二元论视角的数学未解难题分析 (Mathematical Unsolved Problems Analysis from Quantum-Classical Dualism Perspective)（版本28.0）
 - [医学解释](./theories/natural_sciences/medicine_explanation.md) - 医学视角下的量子经典二元论 (Quantum-Classical Dualism from Medical Perspective)
 - [医学健康解释](./theories/natural_sciences/medicine_health_explanations.md) - 医学与健康科学解释 (Medicine and Health Science Explanations)
 - [药学解释](./theories/natural_sciences/pharmacy_explanation.md) - 药学视角下的量子经典二元论 (Quantum-Classical Dualism from Pharmacy Perspective)
@@ -503,6 +504,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Environmental Explanations](./theories/natural_sciences/environmental_explanations.md) - Quantum Universe-Quantum Observer-Classical Consciousness Theory on Environmental Science Issues
 - [Mathematics Explanation](./theories/natural_sciences/mathematics_explanation.md) - Quantum-Classical Dualism from Mathematics Perspective
 - [Mathematics Nature Explanations](./theories/natural_sciences/mathematics_nature_explanations.md) - Mathematics Nature Explanations
+- [Mathematics Unsolved Problems](./theories/natural_sciences/mathematics_unsolved_problems.md) - Mathematical Unsolved Problems Analysis from Quantum-Classical Dualism Perspective (Version 28.0)
 - [Medicine Explanation](./theories/natural_sciences/medicine_explanation.md) - Quantum-Classical Dualism from Medical Perspective
 - [Medicine Health Explanations](./theories/natural_sciences/medicine_health_explanations.md) - Medicine and Health Science Explanations
 - [Pharmacy Explanation](./theories/natural_sciences/pharmacy_explanation.md) - Pharmacy Perspective on Quantum-Classical Dualism

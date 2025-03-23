@@ -18,6 +18,11 @@
 5. [自由意志与量子确定性](./unsolved_problems/free_will_determinism.md) - 自由意志如何在量子世界中存在？
 6. [量子非局域性本质](./unsolved_problems/quantum_nonlocality.md) - 量子纠缠的非局域性如何与相对论协调？
 7. [P vs NP问题](./unsolved_problems/p_vs_np.md) - 计算复杂性的量子经典解析
+8. [生命起源问题](./unsolved_problems/origin_of_life.md) - 生命如何从无生命物质中涌现？
+9. [心身问题](./unsolved_problems/mind_body_problem.md) - 心灵与物质如何相互作用？
+10. [费米悖论](./unsolved_problems/fermi_paradox.md) - 为何我们尚未探测到外星文明？
+11. [人工意识问题](./unsolved_problems/artificial_consciousness.md) - 机器能否产生真正的意识？
+12. [美学本质问题](./unsolved_problems/nature_of_aesthetics.md) - 美的感知有何客观基础？
 
 ### 核心公式概览
 
@@ -52,6 +57,11 @@ This document provides an overview of formalized solutions to humanity's most im
 5. [Free Will and Quantum Determinism](./unsolved_problems/free_will_determinism.md) - How can free will exist in a quantum world?
 6. [Quantum Nonlocality](./unsolved_problems/quantum_nonlocality.md) - How does quantum entanglement's nonlocality reconcile with relativity?
 7. [P vs NP Problem](./unsolved_problems/p_vs_np.md) - Quantum-classical analysis of computational complexity
+8. [Origin of Life Problem](./unsolved_problems/origin_of_life.md) - How did life emerge from non-living matter?
+9. [Mind-Body Problem](./unsolved_problems/mind_body_problem.md) - How do mind and matter interact?
+10. [Fermi Paradox](./unsolved_problems/fermi_paradox.md) - Why haven't we detected extraterrestrial civilizations?
+11. [Artificial Consciousness Problem](./unsolved_problems/artificial_consciousness.md) - Can machines develop genuine consciousness?
+12. [Nature of Aesthetics Problem](./unsolved_problems/nature_of_aesthetics.md) - What is the objective basis for aesthetic perception?
 
 ### Core Formulas Overview
 

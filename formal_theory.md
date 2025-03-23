@@ -513,14 +513,26 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 #### [量子-经典数学基础](formal_theory_mathematics.md)
 探讨数学作为量子-经典转换形式语言的本质，揭示数学直觉与形式证明的二元关系。为数学哲学提供新视角。
 
+#### [计算复杂度量子-经典理论](formal_theory_computational_complexity.md)
+探索算法复杂度的量子-经典双重本质，阐述NP完全问题、P与NP问题的量子-经典视角解释，为计算理论提供全新框架。
+
 #### [几何量子数学理论](formal_theory_geometric_quantum_mathematics.md)
 提供量子-经典二元论的几何学框架，将量子态空间表示为无限维流形，经典态空间表示为有限维流形，并研究之间的映射关系。为二元论提供严格的数学基础。
 
-#### [量子自组织理论](formal_theory_self_organization.md)
-探索复杂系统自组织过程中的量子-经典相互作用，解释结构涌现机制。为复杂系统科学提供统一理论基础。
+#### [动态系统二元论](formal_theory_dynamical_systems.md)
+分析非线性动态系统的量子-经典解释，统一混沌理论与量子不确定性，为复杂系统的预测与控制提供理论框架。
 
-#### [复杂系统二元分析](formal_theory_complex_systems.md)
-应用二元论框架解析复杂适应系统，从神经网络到生态系统的共同原理。建立复杂系统的统一理论视角。
+#### [数学建模二元方法论](formal_theory_mathematical_modeling.md)
+建立量子-经典双重视角的数学建模框架，将创造性量子建模与严格经典验证相结合，提高复杂系统建模的效率与准确性。
+
+#### [量子信息几何学](formal_theory_quantum_information_geometry.md)
+研究量子信息在几何空间中的表达形式，利用黎曼几何、信息度量与量子纠缠结构建立信息几何学的统一理论，为量子计算和量子通信提供几何直觉基础。
+
+#### [系统约化理论](formal_theory_reduction.md)
+探讨如何从基本二元论推导出各专业领域的有效理论。建立科学各分支的统一基础。
+
+#### [理论实用应用集合](formal_theory_practical_applications.md)
+汇总量子经典二元论在各领域的实用应用。将理论转化为实际技术和方法。
 
 #### [现实工程学](formal_theory_reality_engineering.md)
 研究如何基于量子-经典转换原理有意识地设计和改变现实结构，开发影响和重构现实的理论工具和实践技术，为人类主动塑造体验现实提供科学基础。
@@ -635,7 +647,11 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
 - [量子梦境理论](formal_theory_quantum_dreams.md)
 - [二元论艺术理论](formal_theory_art.md)
 - [量子-经典数学基础](formal_theory_mathematics.md)
+- [计算复杂度量子-经典理论](formal_theory_computational_complexity.md)
 - [几何量子数学理论](formal_theory_geometric_quantum_mathematics.md)
+- [动态系统二元论](formal_theory_dynamical_systems.md)
+- [数学建模二元方法论](formal_theory_mathematical_modeling.md)
+- [量子信息几何学](formal_theory_quantum_information_geometry.md)
 - [二元论教育理论](formal_theory_education.md)
 - [量子-经典音乐理论](formal_theory_music.md)
 - [语言量子性](formal_theory_quantum_linguistics.md)
@@ -826,8 +842,11 @@ flowchart TD
     ET[量子-经典伦理学 v27.0]
     PH[二元论哲学基础 v27.0]
     CC2[跨文化哲学整合 v11.1]
-    MM[量子-经典数学基础 v27.0]
+    MM[量子-经典数学基础 v29.0]
     GQM[几何量子数学理论 v29.0]
+    DS[动态系统二元论 v29.0]
+    MMM[数学建模二元方法论 v29.0]
+    QIG[量子信息几何学 v29.0]
     SO[量子自组织理论]
     CS[复杂系统二元分析 v27.0]
     
@@ -843,6 +862,9 @@ flowchart TD
     Core & MA & MM --> GQM
     NE --> SO
     Core & SO --> CS
+    MM & MA --> DS
+    MM & DS --> MMM
+    MM & GQM --> QIG
     
     %% 创造与表达层
     AR[二元论艺术理论 v27.0]

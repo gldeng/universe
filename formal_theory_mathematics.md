@@ -1,8 +1,8 @@
-# 量子-经典数学基础 v1.0
+# 量子-经典数学基础 v29.0
 
 **[English Version](formal_theory_mathematics_en.md) | 中文版**
 
-> 本理论基于[核心理论](core.md) v11.1版本和[量子经典二元论形式化表达](formal_theory.md) v27.0版本
+> 本理论基于[核心理论](core.md) v29.0版本和[量子经典二元论形式化表达](formal_theory.md) v29.0版本
 
 ## 理论核心概述
 

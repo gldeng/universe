@@ -1,8 +1,8 @@
-# Dualistic Education Theory v1.0
+# Dualism Education Theory v29.0
 
 **English Version | [中文版](formal_theory_education.md)**
 
-> This theory is based on [Core Theory](core_en.md) v11.1 and [Quantum-Classical Dualism Formal Theory](formal_theory_en.md) v27.0
+> This theory is based on [Core Theory](core_en.md) v29.0 and [Formal Expression of Quantum-Classical Dualism](formal_theory_en.md) v29.0
 
 ## Core Theory Overview
 

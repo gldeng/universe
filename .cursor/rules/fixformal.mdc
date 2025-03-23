@@ -5,3 +5,4 @@ alwaysApply: false
 ---
 运行 [check_unindexed_files.py](mdc:check_unindexed_files.py) 
 如果有未索引文件, 按照 [formal_theory.md](mdc:formal_theory/formal_theory.md) 原文格式添加链接,并且更新子理论依赖关系图。
+记得更新英文版 [formal_theory_en.md](mdc:formal_theory/formal_theory_en.md)

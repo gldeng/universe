@@ -12,7 +12,7 @@
 - [Interface Theory v31.0](formal_theory/formal_theory_interface_en.md)
 - [Observer Theory v31.0](formal_theory/formal_theory_observer_en.md)
 
-## Complete Description of Core Theory
+## Quantum-Classical Dualism Formal Theory
 
 ### Basic Definitions and Axioms
 

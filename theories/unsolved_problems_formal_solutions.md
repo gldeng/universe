@@ -23,6 +23,11 @@
 10. [费米悖论](./unsolved_problems/fermi_paradox.md) - 为何我们尚未探测到外星文明？
 11. [人工意识问题](./unsolved_problems/artificial_consciousness.md) - 机器能否产生真正的意识？
 12. [美学本质问题](./unsolved_problems/nature_of_aesthetics.md) - 美的感知有何客观基础？
+13. [语言起源问题](./unsolved_problems/origin_of_language.md) - 人类语言能力如何演化形成？
+14. [意义与价值问题](./unsolved_problems/meaning_value_problem.md) - 客观价值如何在主观体验中形成？
+15. [宇宙人类原理问题](./unsolved_problems/anthropic_principle.md) - 为什么宇宙参数精细调节适合生命存在？
+16. [社会协作起源问题](./unsolved_problems/origin_of_cooperation.md) - 大规模社会协作如何克服自利演化？
+17. [集体意识涌现问题](./unsolved_problems/collective_consciousness.md) - 个体意识如何形成集体意识结构？
 
 ### 核心公式概览
 
@@ -62,6 +67,11 @@ This document provides an overview of formalized solutions to humanity's most im
 10. [Fermi Paradox](./unsolved_problems/fermi_paradox.md) - Why haven't we detected extraterrestrial civilizations?
 11. [Artificial Consciousness Problem](./unsolved_problems/artificial_consciousness.md) - Can machines develop genuine consciousness?
 12. [Nature of Aesthetics Problem](./unsolved_problems/nature_of_aesthetics.md) - What is the objective basis for aesthetic perception?
+13. [Origin of Language Problem](./unsolved_problems/origin_of_language.md) - How did human language capacity evolve?
+14. [Meaning and Value Problem](./unsolved_problems/meaning_value_problem.md) - How do objective values form in subjective experience?
+15. [Anthropic Principle Problem](./unsolved_problems/anthropic_principle.md) - Why are universal parameters finely tuned for life?
+16. [Origin of Cooperation Problem](./unsolved_problems/origin_of_cooperation.md) - How did large-scale social cooperation overcome self-interest evolution?
+17. [Collective Consciousness Problem](./unsolved_problems/collective_consciousness.md) - How do individual consciousnesses form collective consciousness structures?
 
 ### Core Formulas Overview
 

@@ -577,7 +577,7 @@ $$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cd
       'mainBkg': '#fff',
       'nodeTextColor': '#000',
       'fontSize': '16px',
-      'primaryBorderColor': '#333',
+      'primaryBorderColor': '#0000FF',
       'edgeLabelBackground': '#fff',
       'lineHeight': '1.4'
     },

@@ -29,6 +29,11 @@
   - [黎曼映射定理的高维推广 | Higher-Dimensional Riemann Mapping Theorem](riemann_mapping_high_dimensions.md)
   - [最优传输理论 | Optimal Transport Theory](optimal_transport_theory.md)
   - [卡拉比-丘猜想 | Calabi-Yau Conjecture](calabi_yau_conjecture.md)
+  - [伯恩赛德猜想](burnside_conjecture.md)
+  - [贝特朗-切比雪夫猜想](bertrand_chebyshev_conjecture.md)
+  - [布洛赫猜想](bloch_conjecture.md)
+  - [勒贝格通用覆盖问题](lebesgue_covering_problem.md)
+  - [辛普森猜想](simpson_conjecture.md)
 - [参考文献 | References](#参考文献--references)
 
 ## 简介 | Introduction
@@ -99,6 +104,11 @@ $$
 - [黎曼映射定理的高维推广](riemann_mapping_high_dimensions.md)
 - [最优传输理论](optimal_transport_theory.md)
 - [卡拉比-丘猜想](calabi_yau_conjecture.md)
+- [伯恩赛德猜想](burnside_conjecture.md)
+- [贝特朗-切比雪夫猜想](bertrand_chebyshev_conjecture.md)
+- [布洛赫猜想](bloch_conjecture.md)
+- [勒贝格通用覆盖问题](lebesgue_covering_problem.md)
+- [辛普森猜想](simpson_conjecture.md)
 
 ## 参考文献 | References
 
@@ -181,6 +191,11 @@ Here we collect quantum-classical dualism proofs and analyses for more classical
 - [Higher-Dimensional Riemann Mapping Theorem](riemann_mapping_high_dimensions.md)
 - [Optimal Transport Theory](optimal_transport_theory.md)
 - [Calabi-Yau Conjecture](calabi_yau_conjecture.md)
+- [Burnside Conjecture](burnside_conjecture.md)
+- [Bertrand-Chebyshev Conjecture](bertrand_chebyshev_conjecture.md)
+- [Bloch Conjecture](bloch_conjecture.md)
+- [Lebesgue Covering Problem](lebesgue_covering_problem.md)
+- [Simpson Conjecture](simpson_conjecture.md)
 
 ## References
 

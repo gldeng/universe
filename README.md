@@ -101,6 +101,7 @@
 - [繁殖量子信息](./theories/reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释 (Quantum-Classical Explanation of Reproduction and Parent-Child Relationships)
 - [术语](./theories/terminology.md) - 量子经典二元论术语表 (Quantum-Classical Dualism Terminology)（版本9.2）
 - [未解释现象](./theories/unexplained_phenomena.md) - 尚未完全解释的物理现象（版本9.2）
+- [人类未解问题的形式化解决方案](./theories/unsolved_problems_formal_solutions.md) - 人类未解问题的形式化解决方案 (Formal Solutions to Humanity's Unsolved Problems)（版本28.0）
 - [宇宙纠缠熵](./theories/universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究（版本9.2）
 - [宇宙结构](./theories/universe_structure.md) - 宇宙结构与演化 | Universe Structure and Evolution
 - [感知、梦境与熵变化](./theories/entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
@@ -452,6 +453,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [Reproduction Quantum Information](./theories/reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
 - [Terminology](./theories/terminology.md) - Quantum-Classical Dualism Terminology (Version 9.2)
 - [Unexplained Phenomena](./theories/unexplained_phenomena.md) - Physical Phenomena Not Fully Explained (Version 9.2)
+- [Human Unsolved Problems Formal Solutions](./theories/unsolved_problems_formal_solutions.md) - Formal Solutions to Humanity's Unsolved Problems (Version 28.0)
 - [Universe Entanglement Entropy](./theories/universe_entanglement_entropy.md) - Research on the Holistic Entanglement Structure and Entropy Nature of the Quantum Universe
 - [Universe Structure](./theories/universe_structure.md) - Universe Structure and Evolution
 - [Perception, Dreams and Entropy Changes](./theories/entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective

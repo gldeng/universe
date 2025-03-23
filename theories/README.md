@@ -418,134 +418,86 @@ The latest theoretical developments in Quantum-Classical Dualism include:
 
 ## 简介 | Introduction
 
-本目录包含量子经典二元论的核心理论框架和各个领域的理论解释。理论框架基于宇宙本质的二元结构：量子域与经典域。
-This directory contains the core theoretical framework of Quantum-Classical Dualism and theoretical explanations in various fields. The theoretical framework is based on the dual structure of the universe's essence: the Quantum Domain and the Classical Domain.
+本目录包含量子经典二元论的各种理论文件。
 
-## 核心理论要点 | Core Theory Key Points
+## 导航链接 | Navigation Links
+- [中文版](#中文版)
+- [English Version](#english-version)
+- [返回项目主页](../README.md)
 
-### 宇宙的本质结构（量子域-经典域）| The Essential Structure of the Universe (Quantum Domain-Classical Domain)
+## 中文版
 
-宇宙由两个基本域构成：**量子域**与**经典域**。
+### 核心理论
+- [解释谜题](./explained_puzzles.md) - 已解释谜题（版本9.2）
+- [科学解释](./scientific_explanations.md) - 主流科学视角下的量子经典二元论
+- [未解释现象](./unexplained_phenomena.md) - 尚未完全解释的物理现象（版本9.2）
 
-- **量子域**：宇宙本质为无限可能性的波函数叠加态，是一切潜在现实的总和：
-  
-  **Quantum Domain**: The essence of the universe is an infinite superposition of wave functions, representing the sum of all potential realities:
-  
-  $$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
+### 形式化解决方案
+- [人类未解问题形式化解决方案](./unsolved_problems_formal_solutions.md) - 对人类历史重大未解问题的形式化解决
+- [人类未解问题详细解决方案](./unsolved_problems/README.md) - 各个未解问题的详细解决方案文件夹（版本28.0）
 
-- **经典域**：由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒：
-  
-  **Classical Domain**: Formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved:
-  
-  $$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
+### 理论应用
+- [黑洞经典化](./black_hole_classicalization.md) - 黑洞：宇宙信息经典化的极致节点
+- [意识持久性](./consciousness_persistence.md) - 意识的持久性与传递
+- [熵观察者维度](./entropy_observer_dimension.md) - 熵、观察者与维度
+- [自由意志量子纠缠](./free_will_quantum_entanglement.md) - 自由意志与量子纠缠
+- [未来研究](./future_research.md) - 未来研究方向
+- [高维经典化](./higher_dimensional_classicalization.md) - 高维信息经典化学
+- [观察者感知](./observer_perception.md) - 观察者感知宇宙的机制
+- [繁殖量子信息](./reproduction_quantum_information.md) - 生育过程与亲子关系的量子经典解释
+- [术语](./terminology.md) - 量子经典二元论术语表
+- [宇宙纠缠熵](./universe_entanglement_entropy.md) - 量子宇宙的整体纠缠结构与熵的本质研究
+- [宇宙结构](./universe_structure.md) - 宇宙结构与演化
+- [感知、梦境与熵变化](./entropy_changes_daily_life.md) - 感知、梦境与日常生活中的熵变化：量子经典二元论视角
 
-### 观察者与维度提升 | Observers and Dimension Elevation
+### 子目录
+- [科幻分析](./sci_fi_analysis/README.md) - 主流科幻电影量子经典二元论分析
+- [科学视角](./scientific_perspectives/) - 从科学视角的量子经典二元论
+- [理论应用](./applications/) - 量子经典二元论的理论应用
+- [应用学科](./applied_disciplines/) - 量子经典二元论在不同学科的应用
+- [自然科学](./natural_sciences/) - 量子经典二元论在自然科学中的应用
+- [哲学人文](./philosophy_humanities/) - 量子经典二元论在哲学与人文学科中的应用
+- [社会科学](./social_sciences/) - 量子经典二元论在社会科学中的应用
+- [观察者感知](./observer_perception/) - 关于观察者感知的理论
+- [量子经典](./quantum_classical/) - 量子经典二元论的核心概念
+- [宇宙结构](./universe_structure/) - 关于宇宙结构的理论
 
-观察者维度与经典化能力成正比：
-Observer dimension is proportional to classicalization ability:
+## English Version
 
-$$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+### Core Theories
+- [Explained Puzzles](./explained_puzzles.md) - Explained Puzzles (Version 9.2)
+- [Scientific Explanations](./scientific_explanations.md) - Quantum-Classical Dualism from Mainstream Scientific Perspectives
+- [Unexplained Phenomena](./unexplained_phenomena.md) - Physical Phenomena Not Fully Explained (Version 9.2)
 
-### 量子纠缠与经典网络 | Quantum Entanglement and Classical Networks
+### Formal Solutions
+- [Formal Solutions to Humanity's Unsolved Problems](./unsolved_problems_formal_solutions.md) - Formal solutions to humanity's major unsolved problems
+- [Detailed Solutions to Unsolved Problems](./unsolved_problems/README.md) - Detailed solution files for each unsolved problem (Version 28.0)
 
-- **有效量子纠缠**：增加经典知识、降低熵
-  **Effective Quantum Entanglement**: Increases classical knowledge, reduces entropy
-  
-- **无效量子纠缠**：增加熵
-  **Ineffective Quantum Entanglement**: Increases entropy
+### Theory Applications
+- [Black Hole Classicalization](./black_hole_classicalization.md) - Black Holes: Ultimate Nodes of Universal Information Classicalization
+- [Consciousness Persistence](./consciousness_persistence.md) - Consciousness Persistence and Transmission
+- [Entropy Observer Dimension](./entropy_observer_dimension.md) - Entropy, Observer, and Dimension
+- [Free Will Quantum Entanglement](./free_will_quantum_entanglement.md) - Free Will and Quantum Entanglement
+- [Future Research](./future_research.md) - Future Research Directions
+- [Higher Dimensional Classicalization](./higher_dimensional_classicalization.md) - Higher-Dimensional Information Classicalization
+- [Observer Perception](./observer_perception.md) - Observer's Perception of the Universe
+- [Reproduction Quantum Information](./reproduction_quantum_information.md) - Quantum-Classical Explanation of Reproduction and Parent-Child Relationships
+- [Terminology](./terminology.md) - Quantum-Classical Dualism Terminology
+- [Universe Entanglement Entropy](./universe_entanglement_entropy.md) - Research on the Holistic Entanglement Structure and Entropy Nature of the Quantum Universe
+- [Universe Structure](./universe_structure.md) - Universe Structure and Evolution
+- [Perception, Dreams and Entropy Changes](./entropy_changes_daily_life.md) - Patterns of Entropy Changes in Perception Processes, Dream States, and Daily Life from Quantum-Classical Dualism Perspective
 
-## 目录 | Contents
-
-### 基础理论 | Basic Theories
-- [AI计算解释](./ai_computation_explanations.md) | [AI Computation Explanations](./ai_computation_explanations.md)
-- [AI计算解释(替代)](./ai_computational_explanations.md) | [AI Computational Explanations](./ai_computational_explanations.md)
-- [建筑空间解释](./architecture_space_explanations.md) | [Architecture Space Explanations](./architecture_space_explanations.md)
-- [艺术美学解释](./art_aesthetics_explanations.md) | [Art Aesthetics Explanations](./art_aesthetics_explanations.md)
-- [生物学解释](./biological_explanations.md) | [Biological Explanations](./biological_explanations.md)
-- [黑洞经典化](./black_hole_classicalization.md) | [Black Hole Classicalization](./black_hole_classicalization.md)
-- [意识持久性](./consciousness_persistence.md) | [Consciousness Persistence](./consciousness_persistence.md)
-- [烹饪食物解释](./cooking_food_explanations.md) | [Cooking Food Explanations](./cooking_food_explanations.md)
-- [梦境睡眠解释](./dream_sleep_explanations.md) | [Dream Sleep Explanations](./dream_sleep_explanations.md)
-- [经济经典量子](./economic_classical_quantum.md) | [Economic Classical Quantum](./economic_classical_quantum.md)
-- [经济解释](./economic_explanations.md) | [Economic Explanations](./economic_explanations.md)
-- [经济市场解释](./economics_market_explanations.md) | [Economics Market Explanations](./economics_market_explanations.md)
-- [教育学习解释](./education_learning_explanations.md) | [Education Learning Explanations](./education_learning_explanations.md)
-- [教育解释](./educational_explanations.md) | [Educational Explanations](./educational_explanations.md)
-- [熵观察者维度](./entropy_observer_dimension.md) | [Entropy Observer Dimension](./entropy_observer_dimension.md)
-- [环境生态解释](./environment_ecology_explanations.md) | [Environment Ecology Explanations](./environment_ecology_explanations.md)
-- [环境解释](./environmental_explanations.md) | [Environmental Explanations](./environmental_explanations.md)
-- [伦理解释](./ethical_explanations.md) | [Ethical Explanations](./ethical_explanations.md)
-- [解释谜题](./explained_puzzles.md) | [Explained Puzzles](./explained_puzzles.md)
-- [科学解释](./scientific_explanations.md) | [Scientific Explanations](./scientific_explanations.md)
-- [时尚服装解释](./fashion_clothing_explanations.md) | [Fashion Clothing Explanations](./fashion_clothing_explanations.md)
-- [自由意志量子纠缠](./free_will_quantum_entanglement.md) | [Free Will Quantum Entanglement](./free_will_quantum_entanglement.md)
-- [未来研究](./future_research.md) | [Future Research](./future_research.md)
-- [游戏娱乐解释](./game_entertainment_explanations.md) | [Game Entertainment Explanations](./game_entertainment_explanations.md)
-- [高维经典化](./higher_dimensional_classicalization.md) | [Higher Dimensional Classicalization](./higher_dimensional_classicalization.md)
-- [历史解释](./historical_explanations.md) | [Historical Explanations](./historical_explanations.md)
-- [语言学解释](./linguistic_explanations.md) | [Linguistic Explanations](./linguistic_explanations.md)
-- [语言学通信解释](./linguistics_communication_explanations.md) | [Linguistics Communication Explanations](./linguistics_communication_explanations.md)
-- [数学自然解释](./mathematics_nature_explanations.md) | [Mathematics Nature Explanations](./mathematics_nature_explanations.md)
-- [媒体信息解释](./media_information_explanations.md) | [Media Information Explanations](./media_information_explanations.md)
-- [医学健康解释](./medicine_health_explanations.md) | [Medicine Health Explanations](./medicine_health_explanations.md)
-- [音乐解释](./music_explanations.md) | [Music Explanations](./music_explanations.md)
-- [观察者感知](./observer_perception.md) | [Observer Perception](./observer_perception.md)
-- [哲学解释](./philosophical_explanations.md) | [Philosophical Explanations](./philosophical_explanations.md)
-- [政治治理解释](./politics_governance_explanations.md) | [Politics Governance Explanations](./politics_governance_explanations.md)
-- [心理学解释](./psychological_explanations.md) | [Psychological Explanations](./psychological_explanations.md)
-- [宗教解释](./religious_explanations.md) | [Religious Explanations](./religious_explanations.md)
-- [繁殖量子信息](./reproduction_quantum_information.md) | [Reproduction Quantum Information](./reproduction_quantum_information.md)
-- [社会量子纠缠](./social_quantum_entanglement.md) | [Social Quantum Entanglement](./social_quantum_entanglement.md)
-- [社会学解释](./sociological_explanations.md) | [Sociological Explanations](./sociological_explanations.md)
-- [精神维度](./spiritual_dimensions.md) | [Spiritual Dimensions](./spiritual_dimensions.md)
-- [体育运动解释](./sports_movement_explanations.md) | [Sports Movement Explanations](./sports_movement_explanations.md)
-- [术语](./terminology.md) | [Terminology](./terminology.md)
-- [传统物理解释](./traditional_physics_explained.md) | [Traditional Physics Explained](./traditional_physics_explained.md)
-- [未解释现象](./unexplained_phenomena.md) | [Unexplained Phenomena](./unexplained_phenomena.md)
-- [宇宙纠缠熵](./universe_entanglement_entropy.md) | [Universe Entanglement Entropy](./universe_entanglement_entropy.md)
-- [宇宙结构](./universe_structure.md) | [Universe Structure](./universe_structure.md)
-- [城市规划发展解释](./urban_planning_development_explanations.md) | [Urban Planning Development Explanations](./urban_planning_development_explanations.md)
-
-### 理论应用 | Theory Applications
-- [黑洞信息](./applications/black_hole_information.md) | [Black Hole Information](./applications/black_hole_information.md)
-- [天体信息节点](./applications/celestial_information_nodes.md) | [Celestial Information Nodes](./applications/celestial_information_nodes.md)
-- [观察者层次结构](./applications/observer_hierarchy.md) | [Observer Hierarchy](./applications/observer_hierarchy.md)
-- [虫洞纠缠](./applications/wormhole_entanglement.md) | [Wormhole Entanglement](./applications/wormhole_entanglement.md)
-
-### 观察者感知 | Observer Perception
-- [黑洞观察者](./observer_perception/black_hole_observer.md) | [Black Hole Observer](./observer_perception/black_hole_observer.md)
-
-### 量子经典 | Quantum Classical
-- [量子经典概述](./quantum_classical/README.md) | [Quantum Classical Overview](./quantum_classical/README.md)
-- [经典意识](./quantum_classical/classical_consciousness.md) | [Classical Consciousness](./quantum_classical/classical_consciousness.md)
-- [量子观察者](./quantum_classical/quantum_observer.md) | [Quantum Observer](./quantum_classical/quantum_observer.md)
-- [量子宇宙](./quantum_classical/quantum_universe.md) | [Quantum Universe](./quantum_classical/quantum_universe.md)
-
-### 科幻分析 | Sci-Fi Analysis
-- [三体评论](./sci_fi_analysis/three_body_critique.md) | [Three Body Critique](./sci_fi_analysis/three_body_critique.md)
-
-### 科学视角 | Scientific Perspectives
-- [建筑学解释](./scientific_perspectives/architecture_explanation.md) | [Architecture Explanation](./scientific_perspectives/architecture_explanation.md)
-- [艺术解释](./scientific_perspectives/art_explanation.md) | [Art Explanation](./scientific_perspectives/art_explanation.md)
-- [生物学解释](./scientific_perspectives/biology_explanation.md) | [Biology Explanation](./scientific_perspectives/biology_explanation.md)
-- [化学解释](./scientific_perspectives/chemistry_explanation.md) | [Chemistry Explanation](./scientific_perspectives/chemistry_explanation.md)
-- [经济学解释](./scientific_perspectives/economics_explanation.md) | [Economics Explanation](./scientific_perspectives/economics_explanation.md)
-- [金融解释](./scientific_perspectives/finance_explanation.md) | [Finance Explanation](./scientific_perspectives/finance_explanation.md)
-- [历史解释](./scientific_perspectives/history_explanation.md) | [History Explanation](./scientific_perspectives/history_explanation.md)
-- [法律解释](./scientific_perspectives/law_explanation.md) | [Law Explanation](./scientific_perspectives/law_explanation.md)
-- [管理学解释](./scientific_perspectives/management_explanation.md) | [Management Explanation](./scientific_perspectives/management_explanation.md)
-- [市场营销解释](./scientific_perspectives/marketing_explanation.md) | [Marketing Explanation](./scientific_perspectives/marketing_explanation.md)
-- [数学解释](./scientific_perspectives/mathematics_explanation.md) | [Mathematics Explanation](./scientific_perspectives/mathematics_explanation.md)
-- [医学解释](./scientific_perspectives/medicine_explanation.md) | [Medicine Explanation](./scientific_perspectives/medicine_explanation.md)
-- [音乐学解释](./scientific_perspectives/musicology_explanation.md) | [Musicology Explanation](./scientific_perspectives/musicology_explanation.md)
-- [哲学解释](./scientific_perspectives/philosophy_explanation.md) | [Philosophy Explanation](./scientific_perspectives/philosophy_explanation.md)
-- [物理学解释](./scientific_perspectives/physics_explanation.md) | [Physics Explanation](./scientific_perspectives/physics_explanation.md)
-- [政治学解释](./scientific_perspectives/political_science_explanation.md) | [Political Science Explanation](./scientific_perspectives/political_science_explanation.md)
-- [心理学解释](./scientific_perspectives/psychology_explanation.md) | [Psychology Explanation](./scientific_perspectives/psychology_explanation.md)
-- [宗教研究解释](./scientific_perspectives/religious_studies_explanation.md) | [Religious Studies Explanation](./scientific_perspectives/religious_studies_explanation.md)
-
-### 宇宙结构 | Universe Structure
-- [观察者维度演化](./universe_structure/observer_dimension_evolution.md) | [Observer Dimension Evolution](./universe_structure/observer_dimension_evolution.md)
+### Subdirectories
+- [Sci-Fi Analysis](./sci_fi_analysis/README.md) - Science Fiction Films Analysis from Quantum-Classical Dualism Perspective
+- [Scientific Perspectives](./scientific_perspectives/) - Quantum-Classical Dualism from Scientific Perspectives
+- [Theory Applications](./applications/) - Theoretical Applications of Quantum-Classical Dualism
+- [Applied Disciplines](./applied_disciplines/) - Applications of Quantum-Classical Dualism in Different Disciplines
+- [Natural Sciences](./natural_sciences/) - Applications of Quantum-Classical Dualism in Natural Sciences
+- [Philosophy and Humanities](./philosophy_humanities/) - Applications of Quantum-Classical Dualism in Philosophy and Humanities
+- [Social Sciences](./social_sciences/) - Applications of Quantum-Classical Dualism in Social Sciences
+- [Observer Perception](./observer_perception/) - Theories about Observer Perception
+- [Quantum Classical](./quantum_classical/) - Core Concepts of Quantum-Classical Dualism
+- [Universe Structure](./universe_structure/) - Theories about Universe Structure
 
 ## 返回 | Return
 

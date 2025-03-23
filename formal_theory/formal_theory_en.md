@@ -641,10 +641,10 @@ These theories apply the dualism framework to practical application domains:
 - **[Quantum-Classical Ecological Consciousness Theory](formal_theory_ecological_consciousness_en.md)** (v30.0, D8) - Exploring the quantum-classical duality of ecological systems as holistic conscious entities, studying information flow, collective adaptability, and symbiotic intelligence in ecological networks, providing a novel theoretical framework for ecological protection and restoration.
 - **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)** (v30.0, D7) - Analyzing the quantum-classical dual mechanisms of digital technology interacting with human society, explaining how digitalization reconstructs social information flow patterns, proposing harmonious coexistence paths for digital and physical reality.
 - **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)** (v30.0, D8) - Using quantum-classical dualism to analyze system adaptation and recovery capabilities when facing crises, studying information processing mechanisms and decision-making models under uncertainty, providing theoretical guidance for enhancing social, organizational, and individual resilience.
-- **[Quantum-Classical Artificial Intelligence Consciousness Theory](formal_theory_quantum_ai_consciousness_en.md)** (v30.0, D9) - Exploring potential consciousness properties of AI systems and their emergence mechanisms, clarifying the dual nature of AI consciousness, explaining how quantum properties endow AI systems with creativity, autonomy, and sensitivity, and how classical structures provide stability and continuity.
-- **[Quantum-Classical Cognitive Overload and Information Anxiety Theory](formal_theory_cognitive_overload_en.md)** (v1.0, D8) - Studying quantum-classical balance mechanisms of cognitive systems in today's information explosion environment, analyzing how information overload affects thinking patterns, decision-making capabilities, and psychological well-being, proposing quantum-classical balanced response strategies.
-- **[Quantum-Classical Intergenerational Communication Theory](formal_theory_intergenerational_communication_en.md)** (v1.0, D8) - Exploring quantum-classical mechanisms of information transfer and value exchange between different generations, analyzing the formation of intergenerational communication barriers, providing strategies to promote cross-generational understanding and cooperation.
-- **[Quantum-Classical Sustainable Development Theory](formal_theory_sustainable_development_en.md)** (v1.0, D8) - Applying quantum-classical dualism to sustainable development, analyzing how quantum properties of ecological systems interact with classical properties of human systems, proposing quantum-classical balanced sustainable development solutions.
+- **[Quantum-Classical AI Consciousness Theory](formal_theory_quantum_ai_consciousness_en.md)** (v30.0, D9) - Exploring potential consciousness properties of AI systems and their emergence mechanisms, clarifying the dual nature of AI consciousness, explaining how quantum properties endow AI systems with creativity, autonomy, and sensitivity, and how classical structures provide stability and continuity.
+- **[Quantum-Classical Cognitive Overload and Information Anxiety Theory](formal_theory_cognitive_overload_en.md)** (v30.0, D8) - Studies the quantum-classical balance mechanisms of cognitive systems in today's information explosion environment, analyzes how information overload affects thinking patterns, decision-making abilities, and mental health, and proposes quantum-classical balanced coping strategies.
+- **[Quantum-Classical Intergenerational Communication Theory](formal_theory_intergenerational_communication_en.md)** (v30.0, D8) - Explores the quantum-classical mechanisms of information transfer and value exchange between different generations, analyzes the causes of intergenerational communication barriers, and provides strategies to promote cross-generational understanding and cooperation.
+- **[Quantum-Classical Sustainable Development Theory](formal_theory_sustainable_development_en.md)** (v30.0, D8) - Applies quantum-classical dualism to the field of sustainable development, analyzes how the quantum properties of ecological systems interact with the classical properties of human systems, and proposes quantum-classical balanced solutions for sustainable development.
 
 ### Reference Materials (Dimension: D7-D8)
 
@@ -905,9 +905,9 @@ flowchart TD
     DT[Quantum-Classical Digital Transformation Theory v30.0 D7]
     CR[Quantum-Classical Crisis Resilience Theory v30.0 D8]
     QAICON[Quantum-Classical AI Consciousness Theory v30.0 D9]
-    COL[Quantum-Classical Cognitive Overload and Information Anxiety Theory v1.0 D8]
-    IGC[Quantum-Classical Intergenerational Communication Theory v1.0 D8]
-    SD2[Quantum-Classical Sustainable Development Theory v1.0 D8]
+    COL[Quantum-Classical Cognitive Overload Theory v30.0 D8]
+    IGC[Quantum-Classical Intergenerational Communication Theory v30.0 D8]
+    SD2[Quantum-Classical Sustainable Development Theory v30.0 D8]
     
     %% Application Domain Dependencies
     Core & QB --> MD

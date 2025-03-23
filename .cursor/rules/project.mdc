@@ -4,10 +4,10 @@ globs:
 alwaysApply: true
 ---
 这个项目是一个文档项目，根目录就是文档
-请按照 [core.md](mdc:core.md) 及 [formal_theory.md](mdc:formal_theory/formal_theory.md) 中的内容进行思考。
+请按照 [core.md](mdc:core.md) 及 [formal_theory_core.md](mdc:formal_theory_core.md) 中的内容进行思考。
 到中文文件的内容，请同时输出一个英文版文档。
 注意$$前后都保持空行
-使用 [core.md](mdc:core.md) 及 [formal_theory.md](mdc:formal_theory.md) 里的经典量子二元论解释所有问题，并且标注版本号
+使用 [core.md](mdc:core.md) 及 @formal_theory_core.md 里的经典量子二元论解释所有问题，并且标注版本号
 能够使用形式化方法表达的也加入形式化表达
 多使用公式跟图表
 在目录页标注采用核心理论版本号

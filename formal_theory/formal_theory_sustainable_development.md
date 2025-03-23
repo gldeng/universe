@@ -1,4 +1,4 @@
-# 量子-经典可持续发展理论 v1.0
+# 量子-经典可持续发展理论 v30.0
 
 **[English Version](formal_theory_sustainable_development_en.md) | 中文版**
 

@@ -1,30 +1,30 @@
-# Quantum-Classical Cognitive Overload and Information Anxiety Theory v1.0
+# Quantum-Classical Cognitive Overload and Information Anxiety Theory v30.0
 
-**English Version | [中文版](formal_theory_cognitive_overload.md)**
+**[中文版](formal_theory_cognitive_overload.md) | English Version**
 
 > This theory is based on [Core Theory](../core_en.md) v30.0
 
 ## Overview
 
-Quantum-Classical Cognitive Overload and Information Anxiety Theory explores how human cognitive systems balance and transition between quantum possibilities and classical certainty in today's information explosion environment. The theory analyzes how information overload affects human thinking patterns, decision-making capabilities, and psychological well-being, proposing response strategies based on quantum-classical dualism.
+The Quantum-Classical Cognitive Overload and Information Anxiety Theory examines how cognitive systems balance and transition between quantum possibilities and classical determinism in today's information explosion environment. This theory analyzes how information overload affects human thinking patterns, decision-making abilities, and mental health, and proposes balanced strategies based on quantum-classical dualism.
 
 ## Core Principles
 
 ### 1. Quantum-Classical Duality of Information Overload
 
-Information overload exhibits a quantum-classical dual nature:
+Information overload demonstrates a quantum-classical dual nature:
 
 $$\mathcal{IO} = \{\Psi_{possibility}, \Phi_{actuality}\}$$
 
 Where:
 - $\Psi_{possibility}$ represents the quantum possibility space of potential information (chaotic infinite options)
-- $\Phi_{actuality}$ represents the classical certainty space of processed information (integrated knowledge)
+- $\Phi_{actuality}$ represents the classical deterministic space of processed information (integrated knowledge)
 
-Information anxiety arises from an imbalance between these two:
+Information anxiety arises from imbalance between the two:
 
-$$A_{info} = \alpha\left|\frac{\Psi_{possibility}}{\Phi_{actuality}} - \beta\right|$$
+$$A_{information} = \alpha\left|\frac{\Psi_{possibility}}{\Phi_{actuality}} - \beta\right|$$
 
-Where $\alpha$ is an individual sensitivity parameter and $\beta$ is an optimal balance constant.
+Where $\alpha$ is the individual sensitivity parameter and $\beta$ is the optimal balance constant.
 
 ### 2. Cognitive Bandwidth and Quantum Collapse
 
@@ -32,9 +32,9 @@ Human cognitive bandwidth has fundamental limitations:
 
 $$B_{cognitive}(t) = B_0 + \Delta B(t) - \gamma \cdot S_{fatigue}(t)$$
 
-Where $B_0$ is the base cognitive bandwidth, $\Delta B(t)$ is the dynamically variable component, and $S_{fatigue}(t)$ is cognitive fatigue.
+Where $B_0$ is the baseline cognitive bandwidth, $\Delta B(t)$ is the dynamically variable component, and $S_{fatigue}(t)$ is cognitive fatigue.
 
-Information classicalization processing follows a quantum collapse model:
+Classical processing of information follows a quantum collapse model:
 
 $$\mathcal{C}_{cognitive}(I) = \sum_i P_i(t)I_iP_i(t)$$
 
@@ -64,44 +64,44 @@ $D_{attention}$ approaching 1 indicates severe dispersion, while approaching 0 i
 
 ### 4. Quantum-Classical Transition Mechanism of Information Anxiety
 
-Information anxiety involves the following quantum-classical transition processes:
+Information anxiety involves the following quantum-classical conversion process:
 
 1. **Quantum Phase**: All potential information forms a vast possibility space (chaos)
-2. **Transition Phase**: Attention acts as an observer performing quantum→classical conversion
-3. **Classical Phase**: Formation of deterministic knowledge structures integrated into existing frameworks
+2. **Transition Phase**: Attention as observer performs quantum→classical conversion
+3. **Classical Phase**: Deterministic knowledge structures form and integrate with existing frameworks
 
 Anxiety levels directly correlate with conversion efficiency:
 
 $$A(t) = k \cdot \frac{I_{quantum}(t)}{I_{classical}(t)+\epsilon} \cdot e^{-\eta_{\mathcal{C}} \cdot t}$$
 
-Where $\eta_{\mathcal{C}}$ is the classicalization efficiency and $\epsilon$ is a small constant to prevent division by zero.
+Where $\eta_{\mathcal{C}}$ is classicalization efficiency and $\epsilon$ is a small constant to prevent division by zero.
 
-## Modern Information Environment Analysis
+## Analysis of Modern Information Environment
 
 ### 1. Quantum Properties of Digital Media
 
-The digital media environment exhibits high quantum characteristics:
+The digital media environment exhibits high quantum properties:
 
-- **Superpositionality**: Information exists simultaneously across multiple platforms and carriers
-- **Non-locality**: Information transcends spatial limitations instantaneously
-- **Superposition States**: Multiple viewpoints and versions of facts coexist
-- **Measurement Effects**: Attention changes how content is presented and propagated
+- **Superposition**: Information exists simultaneously on multiple platforms and carriers
+- **Non-locality**: Information traverses spatial limitations instantaneously
+- **Superposition States**: Multiple perspectives and versions of facts coexist
+- **Measurement Effects**: Attention alters how content is presented and propagated
 
-Quantum entanglement degree of media consumption:
+The quantum entanglement degree of media consumption:
 
 $$E_{media} = -\text{Tr}(\rho_{\text{user-media}} \log_2 \rho_{\text{user}})$$
 
-### 2. Symptoms of Failed Classicalization
+### 2. Symptoms of Classicalization Failure
 
-Failed information classicalization manifests as various cognitive and psychological symptoms:
+Failed information classicalization manifests in various cognitive and psychological symptoms:
 
 1. **Decision Paralysis**: Inability to collapse possibilities into action
 2. **Cognitive Fragmentation**: Knowledge fails to form a coherent whole
-3. **Persistent Distraction**: Attention cannot maintain stable classical states
-4. **Memory Leakage**: New information cannot be effectively solidified
+3. **Constant Distraction**: Attention cannot maintain stable classical states
+4. **Memory Leakage**: New information cannot effectively solidify
 5. **Meaning Ambiguity**: Core value judgments become ineffective
 
-Symptom severity correlates with the quantum-classical ratio:
+Symptom severity correlates with quantum-classical ratio:
 
 $$S_{symptoms} = \log\left(\frac{\text{Unprocessed Information}}{\text{Integrated Information}}\right)$$
 
@@ -109,14 +109,14 @@ $$S_{symptoms} = \log\left(\frac{\text{Unprocessed Information}}{\text{Integrate
 
 Information overload manifests as collective phenomena at the social level:
 
-- **Information Echo Chambers**: Group classicalization forms local consistency
-- **Polarization Acceleration**: Quantum possibility spaces rapidly collapse into opposing viewpoints
+- **Information Echo Chambers**: Group classicalization forms local consensus
+- **Polarization Acceleration**: Quantum possibility space rapidly collapses into opposing viewpoints
 - **Consensus Fluidity**: Social truths exhibit quantum uncertainty
-- **Cognitive Resource Inequality**: Classicalization abilities are unevenly distributed
+- **Cognitive Resource Inequality**: Classicalization ability is unevenly distributed
 
 Social information entropy growth rate:
 
-$$\frac{dS_{social info}}{dt} = \alpha I_{creation} - \beta I_{integration} + \gamma I_{noise}$$
+$$\frac{dS_{social information}}{dt} = \alpha I_{creation} - \beta I_{integration} + \gamma I_{noise}$$
 
 ## Adaptation Strategies and Intervention Methods
 
@@ -126,7 +126,7 @@ Developing cognitive skills to balance quantum exploration and classical integra
 
 1. **Quantum Thinking Mode**: Maintaining openness and possibility thinking
 2. **Classical Thinking Mode**: Forming stable structures and deterministic judgments
-3. **Interface Control Ability**: Flexibly switching between the two modes
+3. **Interface Control Ability**: Flexibly switching between both modes
 
 Training can improve cognitive conversion efficiency:
 
@@ -149,35 +149,35 @@ $$F_{filter}(I) = \begin{cases}
 0, & \text{otherwise}
 \end{cases}$$
 
-### 3. Information Classicalization Assistive Technologies
+### 3. Information Classicalization Assistance Technologies
 
-Developing assistive technologies to aid information classicalization:
+Developing auxiliary technologies to assist the information classicalization process:
 
 1. **Intelligent Summary Algorithms**: Compressing quantum information spaces
 2. **Semantic Network Visualization**: Displaying connection relationships between knowledge
 3. **Attention Guidance Systems**: Optimizing cognitive resource allocation
-4. **Periodic Digital Disconnection**: Allowing completion of classicalization processes
+4. **Regular Digital Disconnection**: Allowing completion of classicalization processes
 
 Classicalization efficiency improvement with technological assistance:
 
-$$\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{tech}})$$
+$$\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{technology}})$$
 
-Where $\gamma_{\text{tech}}$ is the technology enhancement coefficient.
+Where $\gamma_{\text{technology}}$ is the technology enhancement coefficient.
 
 ### 4. Social System Interventions
 
 Social-level intervention strategies:
 
 1. **Information Ecology Design**: Optimizing the overall information environment
-2. **Cognitive Education Programs**: Improving population classicalization abilities
-3. **Digital Rhythm Coordination**: Synchronizing information publication and reception
-4. **Collective Information Metabolism Cycles**: Process-integrate-rest cycles at the social level
+2. **Cognitive Education Programs**: Improving population classicalization ability
+3. **Digital Rhythm Coordination**: Synchronizing information publishing and reception
+4. **Collective Information Metabolism Cycles**: Processing-integration-rest cycles at the social level
 
-Information well-being index:
+Information wellbeing index:
 
-$$W_{info} = \frac{I_{useful}}{I_{total}} \cdot \frac{B_{cognitive}}{I_{input}} \cdot \frac{T_{reflection}}{T_{total time}}$$
+$$W_{information} = \frac{I_{useful}}{I_{total}} \cdot \frac{B_{cognitive}}{I_{input}} \cdot \frac{T_{reflection}}{T_{total time}}$$
 
-## Theoretical Applications
+## Theory Applications
 
 ### 1. Personal Information Management
 
@@ -188,36 +188,36 @@ $$W_{info} = \frac{I_{useful}}{I_{total}} \cdot \frac{B_{cognitive}}{I_{input}} 
 ### 2. Education System Reform
 
 - Restructuring educational methods to cultivate quantum-classical balance abilities
-- Developing metacognitive skills for information assessment and integration
+- Developing metacognitive skills for information evaluation and integration
 - Implementing cognitive rhythm-aware learning plans
 
 ### 3. Digital Media Design
 
-- Creating content presentation modes that promote effective classicalization
+- Creating content presentation models that promote effective classicalization
 - Developing cognitive load-aware algorithms and recommendation systems
-- Designing media interaction modes that support deep processing
+- Designing media interaction models that support deep processing
 
 ### 4. Work Environment Optimization
 
-- Constructing cognitively friendly workflows and communication protocols
-- Implementing meeting and collaboration modes based on cognitive rhythms
+- Building cognitive-friendly workflows and communication protocols
+- Implementing meeting and collaboration models based on cognitive rhythms
 - Developing organizational memory systems to reduce information redundancy and fragmentation
 
 ## Connections to Other Theories
 
-- **[Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)**: Provides quantum-classical foundations of cognitive processes
-- **[Quantum Decision Theory](formal_theory_quantum_decision_en.md)**: Explains decision-making difficulties under information overload
+- **[Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)**: Provides quantum-classical foundations for cognitive processes
+- **[Quantum Decision Theory](formal_theory_quantum_decision_en.md)**: Explains decision difficulties under information overload
 - **[Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)**: Analyzes broader digital social transformation
-- **[Quantum Social Dynamics](formal_theory_social_en.md)**: Explores information dissemination and processing at the social level
-- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)**: Studies adaptive capacity in information crises
-- **[Dualistic Education Theory](formal_theory_education_en.md)**: Provides a framework for education system reform
+- **[Quantum Social Dynamics](formal_theory_social_en.md)**: Explores information propagation and processing at the social level
+- **[Quantum-Classical Crisis Resilience Theory](formal_theory_crisis_resilience_en.md)**: Studies adaptability in information crises
+- **[Dualism Education Theory](formal_theory_education_en.md)**: Provides a framework for educational system reform
 
 ## Future Research Directions
 
 1. Developing precise measurement tools for quantifying information overload and cognitive impacts
-2. Researching differences and plasticity in information processing abilities across different populations
-3. Exploring quantum-classical balance-based AI assistive systems
-4. Investigating long-term information environment changes on cognitive evolution
+2. Studying differences and plasticity in information processing abilities across different populations
+3. Exploring quantum-classical balanced AI assistance systems
+4. Investigating the long-term impact of changing information environments on cognitive evolution
 5. Designing large-scale social intervention experiments to validate theoretical predictions
 
 ---
@@ -229,4 +229,4 @@ $$W_{info} = \frac{I_{useful}}{I_{total}} \cdot \frac{B_{cognitive}}{I_{input}} 
 - [Quantum Decision Theory](formal_theory_quantum_decision_en.md)
 - [Quantum-Classical Digital Transformation Theory](formal_theory_digital_transformation_en.md)
 - [Quantum-Classical Cognitive Overload and Information Anxiety Theory (This File)](formal_theory_cognitive_overload_en.md)
-- [Dualistic Education Theory](formal_theory_education_en.md) 
+- [Dualism Education Theory](formal_theory_education_en.md) 

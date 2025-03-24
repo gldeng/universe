@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_self_creativity_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论](../formal_theory_core.md) v31.0版本
+> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论形式化描述](../formal_theory_core.md) v31.0版本
 
 ## 理论概述
 

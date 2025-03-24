@@ -230,14 +230,14 @@ $$\Omega_Q^{D_{\mathcal{O}}-1} \subset \Omega_C^{D_{\mathcal{O}}}$$
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v27.0
+1. 量子经典二元论核心理论形式化描述 v27.0
 2. 界面理论与宇宙学应用
 3. 观测宇宙学最新数据分析
 4. 量子宇宙学与界面动力学
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [多尺度二元论](formal_theory_multiscale.md)

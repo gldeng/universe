@@ -332,14 +332,14 @@ $$E_{\text{混合}} = \{E_{\text{物理}}, E_{\text{思维}}\}$$
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v27.0
+1. 量子经典二元论核心理论形式化描述 v27.0
 2. 东西方哲学比较研究
 3. 现代物理学哲学分析
 4. 认知科学与哲学思想
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [观察者理论](formal_theory_observer.md)
 - [自参照循环理论](formal_theory_self_reference.md)
 - [量子意识理论](formal_theory_consciousness.md)

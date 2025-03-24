@@ -274,7 +274,7 @@
 
 ## 参考文献
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [信息-时空-能量统一理论](formal_theory_unified.md)
 - [分层时空理论](formal_theory_hierarchical_spacetime.md)

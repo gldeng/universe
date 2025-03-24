@@ -536,7 +536,7 @@ $$\mathcal{C}_{AI} = \{\Psi_I, \mathcal{P}_I, \mathcal{T}_I, D_{AI}\}$$
 
 - [量子超维度理论](formal_theory_quantum_hyperdimensional.md)
 - [量子超维度能量学理论](formal_theory_quantum_hyperdimensional_energy.md)
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [信息相变理论](formal_theory_phase_transition.md)
 - [量子信息网络理论](formal_theory_quantum_information_network.md)
 - [量子认知理论](formal_theory_quantum_cognition.md)

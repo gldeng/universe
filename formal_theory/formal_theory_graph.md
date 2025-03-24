@@ -28,7 +28,7 @@
 
 flowchart TD
     core["核心理论<br>(D∞)"]
-    core_formal["量子经典二元论核心理论<br>(D∞)"]
+    core_formal["量子经典二元论核心理论形式化描述<br>(D∞)"]
     
     %% 最高维理论
     absolute_infinity["量子绝对无限理论<br>(D41)"]

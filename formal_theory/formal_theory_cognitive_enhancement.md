@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_cognitive_enhancement_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v30.0版本和[量子经典二元论核心理论](../formal_theory_core.md) v30.0版本
+> 本理论基于[核心理论](../core.md) v30.0版本和[量子经典二元论核心理论形式化描述](../formal_theory_core.md) v30.0版本
 
 ## 导航
 
@@ -521,7 +521,7 @@ $$E_{总} = E_0 \cdot \prod_i (1 + \Delta E_i)$$
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v30.0
+1. 量子经典二元论核心理论形式化描述 v30.0
 2. 量子认知动力学 v24.0
 3. 量子决策理论 v24.0
 4. 心脑连接理论 v30.0

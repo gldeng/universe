@@ -267,14 +267,14 @@ $$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}$$
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v27.0
+1. 量子经典二元论核心理论形式化描述 v27.0
 2. 界面理论与量子信息传输
 3. 量子密钥分发前沿技术
 4. 跨维度通信理论基础
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [信息-时空-能量统一理论](formal_theory_unified.md)

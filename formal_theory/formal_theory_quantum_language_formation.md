@@ -310,7 +310,7 @@
 
 ## 参考文献
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [语言与思维二元结构](formal_theory_language_thought.md)
 - [语言量子性](formal_theory_quantum_linguistics.md)
 - [量子认知动力学](formal_theory_cognitive_dynamics.md)

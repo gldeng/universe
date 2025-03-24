@@ -358,14 +358,14 @@ $$C_{认同} = \sum_{i,j} |\langle I_i | I_j \rangle|^2$$
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v28.0
+1. 量子经典二元论核心理论形式化描述 v28.0
 2. 界面动力学与虚拟系统研究
 3. 元宇宙理论基础研究
 4. 沉浸式技术前沿进展
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [观察者理论](formal_theory_observer.md)
 - [多尺度二元论](formal_theory_multiscale.md)

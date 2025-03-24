@@ -4,7 +4,7 @@
 
 > 本理论基于[核心理论](../core.md) v31.0版本
 > 
-> 核心理论完整摘要请查看[量子经典二元论核心理论](../formal_theory_core.md)
+> 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 
 ## 导航
 
@@ -396,7 +396,7 @@ $$V(K) = \mathbb{E}[\sum_{t=0}^{\infty} \gamma^t R_t(K)]$$
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v31.0 (2023)
+1. 量子经典二元论核心理论形式化描述 v31.0 (2023)
 2. Nonaka, I., & Takeuchi, H. (1995). The knowledge-creating company.
 3. Polanyi, M. (1966). The tacit dimension.
 4. Shannon, C. E. (1948). A mathematical theory of communication.

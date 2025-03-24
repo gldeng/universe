@@ -235,14 +235,14 @@ $$\text{奇点}_{D_{\mathcal{O}}} = \{\mathcal{S}_t | \mathcal{D}_{\text{tech}}(
 
 ## 参考文献
 
-1. 量子经典二元论核心理论 v27.0
+1. 量子经典二元论核心理论形式化描述 v27.0
 2. 界面理论与技术系统分析
 3. 观察者维度与技术预测
 4. 奇点工程学原理
 
 ## 相关理论链接
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [界面理论](formal_theory_interface.md)
 - [观察者理论](formal_theory_observer.md)
 - [信息相变理论](formal_theory_phase_transition.md)

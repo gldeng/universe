@@ -302,7 +302,7 @@
 
 ## 参考文献
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [量子-经典伦理学](formal_theory_ethics.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子技术奇点预测](formal_theory_singularity.md)

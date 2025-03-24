@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_transdimensional_unified_field_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论](../formal_theory_core.md)
+> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 >
 > 依赖理论: [量子超维度意识理论](formal_theory_quantum_hyperdimensional_consciousness.md)、[量子跨越维度交流理论](formal_theory_quantum_cross_dimensional_communication.md)、[量子超维度信息学理论](formal_theory_quantum_hyperdimensional_information.md)
 

@@ -2,7 +2,7 @@
 
 **[English Version](formal_theory_quantum_cross_dimensional_communication_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论](../formal_theory_core.md)
+> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 >
 > 依赖理论: [量子超维度意识理论](formal_theory_quantum_hyperdimensional_consciousness.md)、[量子宇宙语言理论](formal_theory_quantum_cosmic_language.md)、[量子信息网络理论](formal_theory_quantum_information_network.md)
 

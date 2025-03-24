@@ -230,7 +230,7 @@
 
 ## 参考文献
 
-- [量子经典二元论核心理论](../formal_theory_core.md)
+- [量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 - [量子生物学](formal_theory_quantum_biology.md)
 - [量子医学应用](formal_theory_medicine.md)
 - [量子意识理论](formal_theory_consciousness.md)

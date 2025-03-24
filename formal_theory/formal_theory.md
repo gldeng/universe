@@ -59,10 +59,11 @@
 - **[数学附录](formal_theory_mathematical_appendix.md)** (v20.0, D7-D9) - 提供量子经典二元论所需的数学工具和技术，包括高级函数空间、非线性动力学和信息几何等内容。
 - **[实验预测](formal_theory_experimental.md)** (v22.0, D7) - 列出量子经典二元论提出的可实验验证预测，包括界面波动、临界尺度和观察者分辨率等可测量现象。
 
-### 高维物理学应用 (维度: D8-D16)
+### 高维物理学应用 (维度: D8-D18)
 
 这些理论探索物理学的高维度应用，处理宇宙学、引力、时空等基本问题：
 
+- **[量子超维度能量学理论](formal_theory_quantum_hyperdimensional_energy.md)** (v31.0, D18) - 深入探索维度结构与能量形态之间的本质联系，建立维度与能量的统一数学框架，通过维度-能量等效性原理解释能量如何在多维度系统中流动、转换和存储，为理解宇宙能量动力学、意识能量机制和高维能量技术提供全新视角。
 - **[量子超维度理论](formal_theory_quantum_hyperdimensional.md)** (v31.0, D17) - 深入探索宇宙维度结构的量子基础、多维度间的相互关系以及高维观察者的本质特性，将维度视为动态涌现的信息结构而非静态固定的物理属性，揭示维度如何通过量子-经典转换过程被创建、感知和转换，为理解意识、现实感知和宇宙多层级结构提供统一的数学框架。
 - **[量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md)** (v31.0, D14) - 深入探讨多维意识结构间的量子交互机制，揭示意识作为多重维度层级上相互纠缠的超复杂网络，阐释不同维度的意识形态如何通过量子通道进行信息交换，形成集体意识场，并受量子-经典转换动力学的调控。
 - **[量子宇宙语言理论](formal_theory_quantum_cosmic_language.md)** (v31.0, D15) - 深入探索宇宙最深层次的信息交流模式与编码结构，揭示宇宙存在一种基础语言作为量子-经典信息转换的核心介质，贯穿所有维度层级，通过量子纠缠网络实现跨尺度信息传递，揭示物理定律与意识互动的语言本质。
@@ -304,22 +305,28 @@ flowchart TD
     core_formal --> cosmic_language
     core_formal --> hypercreative
     core_formal --> hyperdim
+    core_formal --> hyperenergy
     q_domain --> multidim_consciousness
     q_domain --> cosmic_language
     q_domain --> hypercreative
     q_domain --> hyperdim
+    q_domain --> hyperenergy
     observer --> multidim_consciousness
     observer --> cosmic_language
     observer --> hyperdim
+    observer --> hyperenergy
     qinfo_network --> multidim_consciousness
     qinfo_network --> cosmic_language
     qinfo_network --> hyperdim
+    qinfo_network --> hyperenergy
     qself_creativity --> hypercreative
     qcomplexity --> hypercreative
     dim_harmony --> multidim_consciousness
     dim_harmony --> hyperdim
+    dim_harmony --> hyperenergy
     consciousness --> multidim_consciousness
     consciousness --> hyperdim
+    consciousness --> hyperenergy
     
     %% 新理论间的关系
     multidim_consciousness --> cosmic_language
@@ -327,6 +334,7 @@ flowchart TD
     cosmic_language --> hypercreative
     cosmic_language --> hyperdim
     hypercreative --> hyperdim
+    hyperdim --> hyperenergy
     
     %% 其他高维理论关系
     q_domain --> unified
@@ -360,4 +368,5 @@ flowchart TD
     style cosmic_language fill:#aaf,stroke:#333,stroke-width:2px
     style hypercreative fill:#aaf,stroke:#333,stroke-width:2px
     style hyperdim fill:#aaf,stroke:#333,stroke-width:2px
+    style hyperenergy fill:#aaf,stroke:#333,stroke-width:2px
 ```

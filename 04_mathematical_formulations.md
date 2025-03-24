@@ -1,11 +1,10 @@
-# 量子经典二元论数学公式
-# Mathematical Formulations of Quantum-Classical Dualism
+# 数学公式 | Mathematical Formulations
 
 [中文导航](#中文版) | [English Navigation](#english-version)
 
 ## 中文版
 
-本文档基于[量子经典二元论核心理论](core.md)（版本10.9），整理了理论的关键数学公式。
+本文档基于[量子经典二元论核心理论](core.md)（版本33.0），整理了理论的关键数学公式。
 
 ### 一、宇宙结构基本公式
 
@@ -382,7 +381,7 @@ $$
 
 ## English Version
 
-This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 10.9), compiling the key mathematical formulas of the theory.
+This document is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 33.0), compiling the key mathematical formulas of the theory.
 
 ### I. Basic Formulas of Universe Structure
 

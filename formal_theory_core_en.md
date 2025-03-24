@@ -1,16 +1,16 @@
-# Quantum-Classical Dualism Formal Theory v31.0
+# Quantum-Classical Dualism Formal Theory v33.0
 
 **English Version | [中文版](formal_theory_core.md)**
 
-> This document contains a summary of the core content from [Core Theory](core_en.md) v31.0
+> This document contains a summary of the core content from [Core Theory](core_en.md) v33.0
 
 ## Navigation
 
-- [Return to Main Theory v31.0](formal_theory/formal_theory_en.md)
-- [Quantum Domain Details v31.0](formal_theory/formal_theory_quantum_domain_en.md)
-- [Classical Domain Details v31.0](formal_theory/formal_theory_classical_domain_en.md)
-- [Interface Theory v31.0](formal_theory/formal_theory_interface_en.md)
-- [Observer Theory v31.0](formal_theory/formal_theory_observer_en.md)
+- [Return to Main Theory v33.0](formal_theory/formal_theory_en.md)
+- [Quantum Domain Details v33.0](formal_theory/formal_theory_quantum_domain_en.md)
+- [Classical Domain Details v33.0](formal_theory/formal_theory_classical_domain_en.md)
+- [Interface Theory v33.0](formal_theory/formal_theory_interface_en.md)
+- [Observer Theory v33.0](formal_theory/formal_theory_observer_en.md)
 
 ## Quantum-Classical Dualism Formal Theory
 

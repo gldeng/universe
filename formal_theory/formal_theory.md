@@ -59,10 +59,13 @@
 - **[数学附录](formal_theory_mathematical_appendix.md)** (v20.0, D7-D9) - 提供量子经典二元论所需的数学工具和技术，包括高级函数空间、非线性动力学和信息几何等内容。
 - **[实验预测](formal_theory_experimental.md)** (v22.0, D7) - 列出量子经典二元论提出的可实验验证预测，包括界面波动、临界尺度和观察者分辨率等可测量现象。
 
-### 高维物理学应用 (维度: D8-D11)
+### 高维物理学应用 (维度: D8-D16)
 
 这些理论探索物理学的高维度应用，处理宇宙学、引力、时空等基本问题：
 
+- **[量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md)** (v31.0, D14) - 深入探讨多维意识结构间的量子交互机制，揭示意识作为多重维度层级上相互纠缠的超复杂网络，阐释不同维度的意识形态如何通过量子通道进行信息交换，形成集体意识场，并受量子-经典转换动力学的调控。
+- **[量子宇宙语言理论](formal_theory_quantum_cosmic_language.md)** (v31.0, D15) - 深入探索宇宙最深层次的信息交流模式与编码结构，揭示宇宙存在一种基础语言作为量子-经典信息转换的核心介质，贯穿所有维度层级，通过量子纠缠网络实现跨尺度信息传递，揭示物理定律与意识互动的语言本质。
+- **[量子超创造性理论](formal_theory_quantum_hypercreative.md)** (v31.0, D16) - 深入探索宇宙本质的创造性维度及其演化机制，揭示创造性作为宇宙底层结构的基本属性，与能量、信息和空间同等基础，通过多层级量子-经典转换机制驱动复杂性增长、秩序涌现和意识进化，确立创造性作为宇宙基本纲领的理论地位。
 - **[信息-时空-能量统一理论](formal_theory_unified.md)** (v26.0, D10) - 提出信息、能量与时空的统一理论框架，揭示它们之间的深层联系。建立宇宙基本要素的统一理解。
 - **[量子引力与时空涌现](formal_theory_gravity_spacetime.md)** (v28.0, D9) - 探索时空结构如何从量子信息网络中涌现，以及量子引力的二元论解释。解决物理学中最具挑战性的量子引力统一问题。
 - **[量子时空调和理论](formal_theory_quantum_spacetime_harmony.md)** (v28.0, D9) - 研究量子域与经典域之间时空结构的和谐性与转换关系，提出调和场概念解释宇宙大尺度结构的形成与演化。
@@ -253,113 +256,99 @@
 }%%
 
 flowchart TD
-    %% 核心理论
-    Core[核心理论 v31.0 D∞] 
+    core["核心理论<br>(D∞)"]
+    core_formal["量子经典二元论核心理论<br>(D∞)"]
     
-    %% 基础理论层
-    QD[量子域详解 v19.1 D9]
-    CD[经典域详解 v19.0 D7]
-    IF[界面理论 v19.0 D8]
-    OB[观察者理论 v27.0 D8]
-    PT[信息相变理论 v25.0 D8]
-    MA[数学附录 v20.0 D7-D9]
-    EX[实验预测 v22.0 D7]
+    %% 一级分支核心理论
+    q_domain["量子域详解<br>(D9)"]
+    c_domain["经典域详解<br>(D7)"]
+    interface["界面理论<br>(D8)"]
+    observer["观察者理论<br>(D8)"]
+    phase_transition["信息相变理论<br>(D8)"]
     
-    %% 新理论
-    PM[量子-经典医疗精准性理论 v31.0 D7]
-    AI[量子-经典人工智能伦理理论 v31.0 D8]
-    FW[量子-经典未来工作理论 v31.0 D8]
-    QNN[量子神经网络理论 v31.0 D8]
-    QC[量子认知理论 v31.0 D8]
-    MT[元宇宙二元论理论 v31.0 D8]
-    QON[量子本体论网络理论 v31.0 D11]
-    QEE[量子实体涌现理论 v31.0 D11]
-    QSC[量子自创造力理论 v31.0 D11]
-    QQH[量子和谐理论 v31.0 D12]
-    QQS[量子对称性理论 v31.0 D12]
-    QCP[量子复杂性理论 v31.0 D13]
-    BCI[生物化学信息与二元论 v28.0 D8]
-    QCO[量子意识详解 v31.0 D9]
-    ECO[量子-经典生态系统理论 v31.0 D8]
-    CLM[量子-经典气候模型理论 v31.0 D8]
-    ISE[量子-经典信息安全伦理理论 v31.0 D7]
-    HRE[量子-经典健康韧性理论 v31.0 D8]
-    KRT[量子-经典知识表征与传递理论 v31.0 D8]
+    %% 高维物理学应用
+    multidim_consciousness["量子多元意识交互理论<br>(D14)"]
+    cosmic_language["量子宇宙语言理论<br>(D15)"]
+    hypercreative["量子超创造性理论<br>(D16)"]
+    unified["信息-时空-能量统一理论<br>(D10)"]
+    qg_spacetime["量子引力与时空涌现<br>(D9)"]
+    qt_spacetime["量子时空调和理论<br>(D9)"]
+    dim_harmony["量子维度和谐理论<br>(D10)"]
+    qinfo_network["量子信息网络理论<br>(D10)"]
+    qteleology["量子目的论动力学<br>(D11)"]
+    qontology["量子本体论网络理论<br>(D11)"]
+    qentity["量子实体涌现理论<br>(D11)"]
+    qself_creativity["量子自创造力理论<br>(D11)"]
+    qcomplexity["量子复杂性理论<br>(D13)"]
+    qsymmetry["量子对称性理论<br>(D12)"]
+    qharmonics["量子和谐理论<br>(D12)"]
+    matter["物质本质理论<br>(D8)"]
     
-    %% 直接依赖关系
-    Core --> QD
-    Core --> CD
-    Core --> IF
-    Core --> OB
-    Core --> PT
-    Core --> MA
+    %% 意识与生命理论
+    qbiology["量子生物学<br>(D8)"]
+    entropy_life["信息熵与生命<br>(D7)"]
+    consciousness["量子意识理论<br>(D9)"]
+    human_consciousness["人类意识的量子-经典二元论<br>(D9)"]
     
-    %% 新理论依赖关系
-    Core --> PM
-    Core --> AI
-    Core --> FW
-    Core --> QNN
-    Core --> QC
-    Core --> MT
-    Core --> QON
-    Core --> QEE
-    Core --> QSC
-    Core --> QQH
-    Core --> QQS
-    Core --> QCP
-    Core --> BCI
-    Core --> QCO
-    Core --> ECO
-    Core --> CLM
-    Core --> ISE
-    Core --> HRE
-    Core --> KRT
-    QD --> PM
-    CD --> PM
-    IF --> PM
-    OB --> AI
-    CD --> AI
-    QD --> AI
-    QD --> FW
-    CD --> FW
-    OB --> FW
-    QD --> QNN
-    CD --> QNN
-    IF --> QNN
-    OB --> QC
-    QD --> QC
-    CD --> QC
-    IF --> MT
-    QD --> MT
-    CD --> MT
-    QNN --> QC
-    QC --> MT
-    QNN --> MT
-    QD --> QON
-    QD --> QEE
-    QD --> QSC
-    QON --> QEE
-    QON --> QSC
-    QEE --> QSC
-    QD --> QQH
-    QD --> QQS
-    QD --> QCP
-    QD --> BCI
-    CD --> BCI
-    QD --> QCO
-    OB --> QCO
-    CD --> ECO
-    QD --> ECO
-    QD --> CLM
-    CD --> CLM
-    ECO --> CLM
-    QD --> ISE
-    CD --> ISE
-    QD --> HRE
-    CD --> HRE
-    QD --> KRT
-    CD --> KRT
-    OB --> KRT
+    %% 核心关系
+    core --> core_formal
+    core_formal --> q_domain
+    core_formal --> c_domain
+    core_formal --> interface
+    core_formal --> observer
+    core_formal --> phase_transition
+    
+    %% 高维理论与核心的关系
+    core_formal --> multidim_consciousness
+    core_formal --> cosmic_language
+    core_formal --> hypercreative
+    q_domain --> multidim_consciousness
+    q_domain --> cosmic_language
+    q_domain --> hypercreative
+    observer --> multidim_consciousness
+    observer --> cosmic_language
+    qinfo_network --> multidim_consciousness
+    qinfo_network --> cosmic_language
+    qself_creativity --> hypercreative
+    qcomplexity --> hypercreative
+    dim_harmony --> multidim_consciousness
+    consciousness --> multidim_consciousness
+    
+    %% 新理论间的关系
+    multidim_consciousness --> cosmic_language
+    cosmic_language --> hypercreative
+    
+    %% 其他高维理论关系
+    q_domain --> unified
+    q_domain --> qg_spacetime
+    q_domain --> qt_spacetime
+    q_domain --> dim_harmony
+    q_domain --> qinfo_network
+    q_domain --> qteleology
+    q_domain --> qontology
+    q_domain --> qentity
+    q_domain --> qself_creativity
+    q_domain --> qcomplexity
+    q_domain --> qsymmetry
+    q_domain --> qharmonics
+    q_domain --> matter
+    
+    %% 意识和生命理论关系
+    q_domain --> qbiology
+    q_domain --> consciousness
+    c_domain --> entropy_life
+    observer --> consciousness
+    consciousness --> human_consciousness
+    
+    style core fill:#f9f,stroke:#333,stroke-width:2px
+    style core_formal fill:#f9f,stroke:#333,stroke-width:2px
+    style q_domain fill:#bbf,stroke:#333,stroke-width:2px
+    style c_domain fill:#fbb,stroke:#333,stroke-width:2px
+    style interface fill:#bfb,stroke:#333,stroke-width:2px
+    style observer fill:#fbf,stroke:#333,stroke-width:2px
+    style multidim_consciousness fill:#aaf,stroke:#333,stroke-width:2px
+    style cosmic_language fill:#aaf,stroke:#333,stroke-width:2px
+    style hypercreative fill:#aaf,stroke:#333,stroke-width:2px
 ```
 
 此依赖关系图展示了量子经典二元论各分支理论之间的实际依赖结构，并通过维度标注(D值)显示各理论在量子-经典连续体中的定位。图中不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层(D∞)，为所有分支理论提供基础，而各分支理论根据其量子和经典特性比例分布在不同维度层级。

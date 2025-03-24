@@ -1,4 +1,4 @@
-# 量子-经典医疗精准性理论 v31.0
+# 量子-经典医疗精准性理论 v31.0（维度：D7）
 
 **[English Version](formal_theory_precision_medicine_en.md) | 中文版**
 

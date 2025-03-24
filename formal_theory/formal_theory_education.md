@@ -1,4 +1,4 @@
-# 二元论教育理论 v29.0
+# 二元论教育理论 v29.0（维度：D7）
 
 **[English Version](formal_theory_education_en.md) | 中文版**
 

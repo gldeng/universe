@@ -1,4 +1,4 @@
-# 量子社会动力学 v27.0
+# 量子社会动力学 v27.0（维度：D7）
 
 **[English Version](formal_theory_social_en.md) | 中文版**
 

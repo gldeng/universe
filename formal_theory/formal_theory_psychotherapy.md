@@ -1,4 +1,4 @@
-# 二元论心理治疗模型 v28.0
+# 二元论心理治疗模型 v28.0（维度：D7）
 
 **[English Version](formal_theory_psychotherapy_en.md) | 中文版**
 

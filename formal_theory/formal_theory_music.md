@@ -1,4 +1,4 @@
-# 量子-经典音乐理论 v1.0
+# 量子-经典音乐理论 v1.0（维度：D8）
 
 **[English Version](formal_theory_music_en.md) | 中文版**
 

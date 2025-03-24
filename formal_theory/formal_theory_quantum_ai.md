@@ -1,4 +1,4 @@
-# 量子人工智能与机器学习理论 v27.0
+# 量子人工智能与机器学习理论 v27.0（维度：D8）
 
 **[English Version](formal_theory_quantum_ai_en.md) | 中文版**
 

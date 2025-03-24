@@ -1,4 +1,4 @@
-# 量子时空调和理论 v28.0
+# 量子时空调和理论 v28.0（维度：D9）
 
 **[English Version](formal_theory_quantum_spacetime_harmony_en.md) | 中文版**
 

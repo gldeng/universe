@@ -1,4 +1,4 @@
-# 量子目的论动力学 v31.0
+# 量子目的论动力学 v31.0（维度：D11）
 
 **[English Version](formal_theory_quantum_teleological_dynamics_en.md) | 中文版**
 

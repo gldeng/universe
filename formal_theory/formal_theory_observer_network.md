@@ -1,4 +1,4 @@
-# 高维观察者网络 v26.0
+# 高维观察者网络 v26.0（维度：D9）
 
 **[English Version](formal_theory_observer_network_en.md) | 中文版**
 

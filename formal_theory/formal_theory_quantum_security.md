@@ -1,4 +1,4 @@
-# 量子-经典信息安全理论 v25.0
+# 量子-经典信息安全理论 v25.0（维度：D7）
 
 **[English Version](formal_theory_quantum_security_en.md) | 中文版**
 

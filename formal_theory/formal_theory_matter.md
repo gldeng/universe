@@ -1,4 +1,4 @@
-# 物质本质理论 v11.1
+# 物质本质理论 v11.1（维度：D8）
 
 **[English Version](formal_theory_matter_en.md) | 中文版**
 

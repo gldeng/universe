@@ -1,4 +1,4 @@
-# 生物化学信息与二元论 v28.0
+# 生物化学信息与二元论 v28.0（维度：D8）
 
 **[English Version](formal_theory_biochemical_information_en.md) | 中文版**
 

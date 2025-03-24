@@ -1,4 +1,4 @@
-# 量子经典二元论实用应用集合 v28.0
+# 量子经典二元论实用应用集合 v28.0（维度：D6）
 
 **[English Version](formal_theory_practical_applications_en.md) | 中文版**
 

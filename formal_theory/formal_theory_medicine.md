@@ -1,4 +1,4 @@
-# 量子医学应用 - 量子经典二元论 v27.0
+# 量子医学应用 - 量子经典二元论 v27.0（维度：D7）
 
 **[English Version](formal_theory_medicine_en.md) | 中文版**
 

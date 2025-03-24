@@ -1,4 +1,4 @@
-# 量子-经典宇宙智能理论 v29.0
+# 量子-经典宇宙智能理论 v29.0（维度：D11）
 
 **[English Version](formal_theory_cosmic_intelligence_en.md) | 中文版**
 

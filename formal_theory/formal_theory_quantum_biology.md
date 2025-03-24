@@ -1,4 +1,4 @@
-# 量子生物学 - 量子经典二元论 v20.0
+# 量子生物学 - 量子经典二元论 v20.0（维度：D8）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_quantum_biology_en.md)**
 

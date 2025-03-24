@@ -1,4 +1,4 @@
-# 量子-经典非平衡态理论 v27.0
+# 量子-经典非平衡态理论 v27.0（维度：D8）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_nonequilibrium_en.md)**
 

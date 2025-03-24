@@ -1,4 +1,4 @@
-# 量子超越维度统一场理论 (D22) v31.0
+# 量子超越维度统一场理论 (D22) v31.0（维度：D22）
 
 **[English Version](formal_theory_quantum_transdimensional_unified_field_en.md) | 中文版**
 

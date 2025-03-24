@@ -1,4 +1,4 @@
-# 量子意识理论 v25.0
+# 量子意识理论 v25.0（维度：D9）
 
 **[English Version](formal_theory_consciousness_en.md) | 中文版**
 

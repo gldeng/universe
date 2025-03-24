@@ -1,4 +1,4 @@
-# 观察者理论 v19.0
+# 观察者理论 v19.0（维度：D8）
 
 **[English Version](formal_theory_observer_en.md) | 中文版**
 

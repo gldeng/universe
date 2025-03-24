@@ -1,4 +1,4 @@
-# 分子纠缠理论 v28.0
+# 分子纠缠理论 v28.0（维度：D9）
 
 **[English Version](formal_theory_molecular_entanglement_en.md) | 中文版**
 

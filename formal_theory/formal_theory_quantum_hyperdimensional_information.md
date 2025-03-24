@@ -1,4 +1,4 @@
-# 量子超维度信息学理论 v31.0
+# 量子超维度信息学理论 v31.0（维度：D19）
 
 **[English Version](formal_theory_quantum_hyperdimensional_information_en.md) | 中文版**
 

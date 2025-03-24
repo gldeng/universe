@@ -1,4 +1,4 @@
-# 人类意识的量子-经典二元论 v29.0
+# 人类意识的量子-经典二元论 v29.0（维度：D9）
 
 **[English Version](formal_theory_human_consciousness_en.md) | 中文版**
 

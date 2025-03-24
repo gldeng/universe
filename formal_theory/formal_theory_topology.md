@@ -1,4 +1,4 @@
-# 拓扑信息保护理论 v27.0
+# 拓扑信息保护理论 v27.0（维度：D8）
 
 **[English Version](formal_theory_topology_en.md) | 中文版**
 

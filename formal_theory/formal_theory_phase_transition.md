@@ -1,4 +1,4 @@
-# 信息相变理论 v28.0
+# 信息相变理论 v28.0（维度：D8）
 
 **[English Version](formal_theory_phase_transition_en.md) | 中文版**
 

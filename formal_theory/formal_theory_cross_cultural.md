@@ -1,4 +1,4 @@
-# 跨文化哲学整合 v14.0
+# 跨文化哲学整合 v14.0（维度：D8）
 
 **[English Version](formal_theory_cross_cultural_en.md) | 中文版**
 

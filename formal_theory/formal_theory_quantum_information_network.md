@@ -1,4 +1,4 @@
-# 量子信息网络理论 v31.0
+# 量子信息网络理论 v31.0（维度：D10）
 
 **[English Version](formal_theory_quantum_information_network_en.md) | 中文版**
 

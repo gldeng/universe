@@ -1,4 +1,4 @@
-# 量子-经典设计理论 v13.0
+# 量子-经典设计理论 v13.0（维度：D7）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_design_en.md)**
 

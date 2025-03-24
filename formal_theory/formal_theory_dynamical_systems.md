@@ -1,4 +1,4 @@
-# 动态系统二元论 v29.0
+# 动态系统二元论 v29.0（维度：D8）
 
 **[English Version](formal_theory_dynamical_systems_en.md) | 中文版**
 

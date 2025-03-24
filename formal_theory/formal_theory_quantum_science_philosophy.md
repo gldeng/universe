@@ -1,4 +1,4 @@
-# 量子科学哲学与人工智能理论 v28.0
+# 量子科学哲学与人工智能理论 v28.0（维度：D8）
 
 **[English Version](formal_theory_quantum_science_philosophy_en.md) | 中文版**
 

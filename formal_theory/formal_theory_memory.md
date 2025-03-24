@@ -1,4 +1,4 @@
-# 量子记忆理论 v15.0
+# 量子记忆理论 v15.0（维度：D8）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_memory_en.md)**
 

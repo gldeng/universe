@@ -1,4 +1,4 @@
-# 内观冥想科学 v11.1
+# 内观冥想科学 v11.1（维度：D9）
 
 **[English Version](formal_theory_meditation_en.md) | 中文版**
 

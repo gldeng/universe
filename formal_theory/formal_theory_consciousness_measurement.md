@@ -1,4 +1,4 @@
-# 意识测量理论 v29.0
+# 意识测量理论 v29.0（维度：D7）
 
 **[中文版](formal_theory_consciousness_measurement.md) | [English Version](formal_theory_consciousness_measurement_en.md)**
 

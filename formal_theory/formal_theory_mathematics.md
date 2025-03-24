@@ -1,4 +1,4 @@
-# 量子-经典数学基础 v29.0
+# 量子-经典数学基础 v29.0（维度：D8）
 
 **[English Version](formal_theory_mathematics_en.md) | 中文版**
 

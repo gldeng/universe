@@ -1,4 +1,4 @@
-# 量子信息理论与二元论 v28.0
+# 量子信息理论与二元论 v28.0（维度：D8）
 
 **[English Version](formal_theory_quantum_information_theory_en.md) | 中文版**
 

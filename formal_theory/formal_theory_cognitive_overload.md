@@ -1,4 +1,4 @@
-# 量子-经典思维超载与信息焦虑理论 v30.0
+# 量子-经典思维超载与信息焦虑理论 v30.0（维度：D8）
 
 **[English Version](formal_theory_cognitive_overload_en.md) | 中文版**
 

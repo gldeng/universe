@@ -1,4 +1,4 @@
-# 量子跨越维度交流理论 (D21) v31.0
+# 量子跨越维度交流理论 (D21) v31.0（维度：D21）
 
 **[English Version](formal_theory_quantum_cross_dimensional_communication_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 量子实体涌现理论 v31.0
+# 量子实体涌现理论 v31.0（维度：D11）
 
 **[English Version](formal_theory_quantum_entity_emergence_en.md) | 中文版**
 

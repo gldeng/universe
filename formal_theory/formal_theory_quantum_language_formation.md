@@ -1,4 +1,4 @@
-# 量子语言形成理论 v28.0
+# 量子语言形成理论 v28.0（维度：D9）
 
 **[English Version](formal_theory_quantum_language_formation_en.md) | 中文版**
 

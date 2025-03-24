@@ -1,4 +1,4 @@
-# 量子多元意识交互理论 v31.0
+# 量子多元意识交互理论 v31.0（维度：D14）
 
 **[English Version](formal_theory_quantum_multidimensional_consciousness_en.md) | 中文版**
 

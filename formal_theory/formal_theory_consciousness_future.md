@@ -1,4 +1,4 @@
-# 人类意识未来发展 v16.0
+# 人类意识未来发展 v16.0（维度：D9）
 
 **[English Version](formal_theory_consciousness_future_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 量子-经典思维增强理论 v30.0
+# 量子-经典思维增强理论 v30.0（维度：D9）
 
 **[English Version](formal_theory_cognitive_enhancement_en.md) | 中文版**
 

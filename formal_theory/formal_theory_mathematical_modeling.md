@@ -1,4 +1,4 @@
-# 数学建模二元方法论 v29.0
+# 数学建模二元方法论 v29.0（维度：D7）
 
 **[English Version](formal_theory_mathematical_modeling_en.md) | 中文版**
 

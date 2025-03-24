@@ -1,4 +1,4 @@
-# 量子-经典健康韧性理论 v31.0
+# 量子-经典健康韧性理论 v31.0（维度：D8）
 
 **[English Version](formal_theory_health_resilience_en.md) | 中文版**
 

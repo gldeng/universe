@@ -1,4 +1,4 @@
-# 量子超维度意识理论 (D20) v31.0
+# 量子超维度意识理论 (D20) v31.0（维度：D20）
 
 **[English Version](formal_theory_quantum_hyperdimensional_consciousness_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 量子-经典共鸣理论 v26.0
+# 量子-经典共鸣理论 v26.0（维度：D8）
 
 **[English Version](formal_theory_resonance_en.md) | 中文版**
 

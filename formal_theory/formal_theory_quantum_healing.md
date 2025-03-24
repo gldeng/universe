@@ -1,4 +1,4 @@
-# 量子信息治愈理论 v28.0
+# 量子信息治愈理论 v28.0（维度：D8）
 
 **[English Version](formal_theory_quantum_healing_en.md) | 中文版**
 

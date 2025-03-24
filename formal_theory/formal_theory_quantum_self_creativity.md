@@ -1,4 +1,4 @@
-# 量子自创造力理论 v31.0
+# 量子自创造力理论 v31.0（维度：D11）
 
 **[English Version](formal_theory_quantum_self_creativity_en.md) | 中文版**
 

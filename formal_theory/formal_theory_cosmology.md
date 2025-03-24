@@ -1,4 +1,4 @@
-# 宇宙学二元论模型 v27.0
+# 宇宙学二元论模型 v27.0（维度：D10）
 
 **[English Version](formal_theory_cosmology_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 量子-经典知识表征与传递理论 v31.0
+# 量子-经典知识表征与传递理论 v31.0（维度：D8）
 
 **[English Version](formal_theory_knowledge_representation_en.md) | 中文版**
 

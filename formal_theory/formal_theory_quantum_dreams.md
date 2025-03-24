@@ -1,4 +1,4 @@
-# 量子梦境理论 v1.0
+# 量子梦境理论 v1.0（维度：D9）
 
 **[English Version](formal_theory_quantum_dreams_en.md) | 中文版**
 

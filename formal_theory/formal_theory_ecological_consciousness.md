@@ -1,4 +1,4 @@
-# 量子-经典生态意识理论 v30.0
+# 量子-经典生态意识理论 v30.0（维度：D8）
 
 **[English Version](formal_theory_ecological_consciousness_en.md) | 中文版**
 

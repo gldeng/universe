@@ -1,4 +1,4 @@
-# 实验验证预测 - 量子经典二元论 v19.0
+# 实验验证预测 - 量子经典二元论 v19.0（维度：D7）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_experimental_en.md)**
 

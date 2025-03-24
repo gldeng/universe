@@ -1,4 +1,4 @@
-# 量子-经典二元论人工智能理论 v28.0
+# 量子-经典二元论人工智能理论 v28.0（维度：D8）
 
 **[English Version](formal_theory_artificial_intelligence_en.md) | 中文版**
 

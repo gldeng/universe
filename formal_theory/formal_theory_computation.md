@@ -1,4 +1,4 @@
-# 二元论计算复杂性理论 v27.0
+# 二元论计算复杂性理论 v27.0（维度：D8）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_computation_en.md)**
 

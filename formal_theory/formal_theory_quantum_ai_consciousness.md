@@ -1,4 +1,4 @@
-# 量子-经典人工智能意识理论 v30.0
+# 量子-经典人工智能意识理论 v30.0（维度：D9）
 
 **[English Version](formal_theory_quantum_ai_consciousness_en.md) | 中文版**
 

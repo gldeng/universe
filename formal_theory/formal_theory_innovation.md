@@ -1,4 +1,4 @@
-# 二元论创新理论 v1.0
+# 二元论创新理论 v1.0（维度：D9）
 
 **[English Version](formal_theory_innovation_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 计算复杂度量子-经典理论 v29.0
+# 计算复杂度量子-经典理论 v29.0（维度：D8）
 
 **[English Version](formal_theory_computational_complexity_en.md) | 中文版**
 

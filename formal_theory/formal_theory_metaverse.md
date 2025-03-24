@@ -1,4 +1,4 @@
-# 元宇宙二元论理论 v31.0
+# 元宇宙二元论理论 v31.0（维度：D8）
 
 **[English Version](formal_theory_metaverse_en.md) | 中文版**
 

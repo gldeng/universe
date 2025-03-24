@@ -1,4 +1,4 @@
-# 量子-经典代际交流理论 v30.0
+# 量子-经典代际交流理论 v30.0（维度：D8）
 
 **[English Version](formal_theory_intergenerational_communication_en.md) | 中文版**
 

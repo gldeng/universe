@@ -1,4 +1,4 @@
-# 量子意识与虚拟现实交互理论 v28.0
+# 量子意识与虚拟现实交互理论 v28.0（维度：D8）
 
 **[English Version](formal_theory_consciousness_virtual_reality_en.md) | 中文版**
 

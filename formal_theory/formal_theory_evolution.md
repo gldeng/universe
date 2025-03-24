@@ -1,4 +1,4 @@
-# 进化论二元视角 v11.1
+# 进化论二元视角 v11.1（维度：D8）
 
 **[English Version](formal_theory_evolution_en.md) | 中文版**
 

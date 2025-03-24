@@ -1,4 +1,4 @@
-# 量子信息几何学 v29.0
+# 量子信息几何学 v29.0（维度：D8）
 
 **[English Version](formal_theory_quantum_information_geometry_en.md) | 中文版**
 

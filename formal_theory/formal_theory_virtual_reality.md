@@ -1,4 +1,4 @@
-# 虚拟现实与二元论 v28.0
+# 虚拟现实与二元论 v28.0（维度：D7）
 
 **[English Version](formal_theory_virtual_reality_en.md) | 中文版**
 

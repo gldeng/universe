@@ -1,4 +1,4 @@
-# 二元论量子语言学理论 v1.0
+# 二元论量子语言学理论 v1.0（维度：D9）
 
 **[English Version](formal_theory_quantum_linguistics_en.md) | 中文版**
 

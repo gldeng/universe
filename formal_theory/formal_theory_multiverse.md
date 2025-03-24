@@ -1,4 +1,4 @@
-# 多宇宙干涉模型 v27.0
+# 多宇宙干涉模型 v27.0（维度：D11）
 
 **[English Version](formal_theory_multiverse_en.md) | 中文版**
 

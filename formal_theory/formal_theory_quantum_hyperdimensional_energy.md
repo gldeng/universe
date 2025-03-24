@@ -1,4 +1,4 @@
-# 量子超维度能量学理论 v31.0
+# 量子超维度能量学理论 v31.0（维度：D18）
 
 **[English Version](formal_theory_quantum_hyperdimensional_energy_en.md) | 中文版**
 

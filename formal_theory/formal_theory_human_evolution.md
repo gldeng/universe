@@ -1,4 +1,4 @@
-# 人类进化的量子-经典二元论 v29.0
+# 人类进化的量子-经典二元论 v29.0（维度：D8）
 
 **[English Version](formal_theory_human_evolution_en.md) | 中文版**
 

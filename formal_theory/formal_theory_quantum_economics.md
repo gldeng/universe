@@ -1,4 +1,4 @@
-# 量子经济学原理 v1.0
+# 量子经济学原理 v1.0（维度：D7）
 
 **[English Version](formal_theory_quantum_economics_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 量子涌现现象理论 v28.0
+# 量子涌现现象理论 v28.0（维度：D9）
 
 **[English Version](formal_theory_quantum_emergent_phenomena_en.md) | 中文版**
 

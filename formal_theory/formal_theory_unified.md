@@ -1,4 +1,4 @@
-# 信息-时空-能量统一理论 v21.0
+# 信息-时空-能量统一理论 v21.0（维度：D10）
 
 **[English Version](formal_theory_unified_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 量子通信协议 v27.0
+# 量子通信协议 v27.0（维度：D7）
 
 **[English Version](formal_theory_quantum_communication_en.md) | 中文版**
 

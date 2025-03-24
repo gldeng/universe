@@ -1,4 +1,4 @@
-# 宇宙学习理论 v29.0
+# 宇宙学习理论 v29.0（维度：D9）
 
 **[中文版](formal_theory_universal_learning.md) | [English Version](formal_theory_universal_learning_en.md)**
 

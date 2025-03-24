@@ -1,4 +1,4 @@
-# 二元论伦理学理论 v1.0
+# 二元论伦理学理论 v1.0（维度：D7）
 
 **[English Version](formal_theory_ethics_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 分层时空理论 v1.0
+# 分层时空理论 v1.0（维度：D9）
 
 **[English Version](formal_theory_hierarchical_spacetime_en.md) | 中文版**
 

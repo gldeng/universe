@@ -1,4 +1,4 @@
-# 系统约化理论 v28.0
+# 系统约化理论 v28.0（维度：D7）
 
 **[English Version](formal_theory_reduction_en.md) | 中文版**
 

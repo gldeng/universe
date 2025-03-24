@@ -1,4 +1,4 @@
-# 量子-经典数字转型理论 v30.0
+# 量子-经典数字转型理论 v30.0（维度：D7）
 
 **[English Version](formal_theory_digital_transformation_en.md) | 中文版**
 

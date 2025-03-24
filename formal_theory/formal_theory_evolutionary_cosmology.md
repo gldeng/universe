@@ -1,4 +1,4 @@
-# 二元论演化宇宙学 v16.0
+# 二元论演化宇宙学 v16.0（维度：D10）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_evolutionary_cosmology_en.md)**
 

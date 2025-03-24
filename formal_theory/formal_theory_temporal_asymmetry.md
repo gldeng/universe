@@ -1,4 +1,4 @@
-# 时间非对称性理论 v1.0
+# 时间非对称性理论 v1.0（维度：D9）
 
 **[English Version](formal_theory_temporal_asymmetry_en.md) | 中文版**
 

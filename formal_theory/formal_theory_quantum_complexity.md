@@ -1,4 +1,4 @@
-# 量子复杂性理论 v31.0
+# 量子复杂性理论 v31.0（维度：D13）
 
 **[English Version](formal_theory_quantum_complexity_en.md) | 中文版**
 

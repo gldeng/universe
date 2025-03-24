@@ -1,4 +1,4 @@
-# 语言与思维二元结构 v14.0
+# 语言与思维二元结构 v14.0（维度：D8）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_language_thought_en.md)**
 

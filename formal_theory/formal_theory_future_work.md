@@ -1,4 +1,4 @@
-# 量子-经典未来工作理论 v31.0
+# 量子-经典未来工作理论 v31.0（维度：D8）
 
 **[English Version](formal_theory_future_work_en.md) | 中文版**
 

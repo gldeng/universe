@@ -1,4 +1,4 @@
-# 量子神经网络理论 v31.0
+# 量子神经网络理论 v31.0（维度：D8）
 
 **[English Version](formal_theory_quantum_neural_networks_en.md) | 中文版**
 

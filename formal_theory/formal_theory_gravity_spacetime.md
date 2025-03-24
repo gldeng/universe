@@ -1,4 +1,4 @@
-# 量子引力与时空涌现 - 量子经典二元论 v20.0
+# 量子引力与时空涌现 - 量子经典二元论 v20.0（维度：D9）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_gravity_spacetime_en.md)**
 

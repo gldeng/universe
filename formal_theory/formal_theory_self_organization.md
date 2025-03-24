@@ -1,4 +1,4 @@
-# 量子自组织理论 v14.0
+# 量子自组织理论 v14.0（维度：D8）
 
 **[English Version](formal_theory_self_organization_en.md) | 中文版**
 

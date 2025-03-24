@@ -1,4 +1,4 @@
-# 二元论符号学理论 v1.0
+# 二元论符号学理论 v1.0（维度：D8）
 
 **[English Version](formal_theory_semiotics_en.md) | 中文版**
 

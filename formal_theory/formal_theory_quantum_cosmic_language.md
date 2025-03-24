@@ -1,4 +1,4 @@
-# 量子宇宙语言理论 v31.0
+# 量子宇宙语言理论 v31.0（维度：D15）
 
 **[English Version](formal_theory_quantum_cosmic_language_en.md) | 中文版**
 

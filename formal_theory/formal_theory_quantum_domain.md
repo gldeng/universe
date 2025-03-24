@@ -1,4 +1,4 @@
-# 量子域详解 - 量子经典二元论 v19.1
+# 量子域详解 - 量子经典二元论 v19.1（维度：D9）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_quantum_domain_en.md)**
 

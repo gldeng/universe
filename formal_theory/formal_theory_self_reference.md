@@ -1,4 +1,4 @@
-# 自参照循环理论 v28.0
+# 自参照循环理论 v28.0（维度：D9）
 
 **[English Version](formal_theory_self_reference_en.md) | 中文版**
 

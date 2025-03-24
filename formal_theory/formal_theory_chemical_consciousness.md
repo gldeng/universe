@@ -1,4 +1,4 @@
-# 化学意识与感知 v28.0
+# 化学意识与感知 v28.0（维度：D8）
 
 **[English Version](formal_theory_chemical_consciousness_en.md) | 中文版**
 

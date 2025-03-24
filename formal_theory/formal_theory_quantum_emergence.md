@@ -1,4 +1,4 @@
-# 量子涌现理论 v29.0
+# 量子涌现理论 v29.0（维度：D9）
 
 **[English Version](formal_theory_quantum_emergence_en.md) | 中文版**
 

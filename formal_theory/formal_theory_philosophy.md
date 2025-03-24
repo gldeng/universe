@@ -1,4 +1,4 @@
-# 二元论哲学基础 v27.0
+# 二元论哲学基础 v27.0（维度：D8）
 
 **[English Version](formal_theory_philosophy_en.md) | 中文版**
 

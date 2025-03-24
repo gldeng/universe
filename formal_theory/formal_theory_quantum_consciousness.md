@@ -1,4 +1,4 @@
-# 量子意识理论 v31.0
+# 量子意识理论 v31.0（维度：D9）
 
 **[English Version](formal_theory_quantum_consciousness_en.md) | 中文版**
 

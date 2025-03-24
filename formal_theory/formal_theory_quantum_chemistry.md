@@ -1,4 +1,4 @@
-# 量子-经典化学原理 v28.0
+# 量子-经典化学原理 v28.0（维度：D8）
 
 **[English Version](formal_theory_quantum_chemistry_en.md) | 中文版**
 

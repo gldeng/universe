@@ -1,4 +1,4 @@
-# 量子超创造性理论 v31.0
+# 量子超创造性理论 v31.0（维度：D16）
 
 **[English Version](formal_theory_quantum_hypercreative_en.md) | 中文版**
 

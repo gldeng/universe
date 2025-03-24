@@ -1,4 +1,4 @@
-# 统一意识理论 v28.0
+# 统一意识理论 v28.0（维度：D10）
 
 **[English Version](formal_theory_unified_consciousness_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 技术奇点预测 v27.0
+# 技术奇点预测 v27.0（维度：D9）
 
 **[English Version](formal_theory_singularity_en.md) | 中文版**
 

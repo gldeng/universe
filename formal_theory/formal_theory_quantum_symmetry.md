@@ -1,4 +1,4 @@
-# 量子对称性理论 v31.0
+# 量子对称性理论 v31.0（维度：D12）
 
 **[English Version](formal_theory_quantum_symmetry_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 多尺度量子经典二元论 v25.0
+# 多尺度量子经典二元论 v25.0（维度：D10）
 
 **[English Version](formal_theory_multiscale_en.md) | 中文版**
 

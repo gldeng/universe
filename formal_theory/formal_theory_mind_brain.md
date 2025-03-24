@@ -1,4 +1,4 @@
-# 量子-经典心脑连接理论 v30.0
+# 量子-经典心脑连接理论 v30.0（维度：D8）
 
 **[English Version](formal_theory_mind_brain_en.md) | 中文版**
 

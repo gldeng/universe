@@ -1,4 +1,4 @@
-# 量子维度和谐理论 v31.0
+# 量子维度和谐理论 v31.0（维度：D10）
 
 **[English Version](formal_theory_quantum_dimensional_harmony_en.md) | 中文版**
 

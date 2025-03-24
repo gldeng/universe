@@ -1,4 +1,4 @@
-# 量子-经典技术伦理理论 v30.0
+# 量子-经典技术伦理理论 v30.0（维度：D7）
 
 **[English Version](formal_theory_tech_ethics_en.md) | 中文版**
 

@@ -1,4 +1,4 @@
-# 化学热力学与二元论 v28.0
+# 化学热力学与二元论 v28.0（维度：D8）
 
 **[English Version](formal_theory_chemical_thermodynamics_en.md) | 中文版**
 

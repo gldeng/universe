@@ -1,4 +1,4 @@
-# 信息动力学理论 v29.0
+# 信息动力学理论 v29.0（维度：D8）
 
 **[English Version](formal_theory_information_dynamics_en.md) | 中文版**
 

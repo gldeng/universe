@@ -1,4 +1,4 @@
-# 复杂系统二元分析 v27.0
+# 复杂系统二元分析 v27.0（维度：D7）
 
 **[English Version](formal_theory_complex_systems_en.md) | 中文版**
 

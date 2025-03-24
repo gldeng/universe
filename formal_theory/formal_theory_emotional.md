@@ -1,4 +1,4 @@
-# 量子-经典情感理论 v30.0
+# 量子-经典情感理论 v30.0（维度：D9）
 
 **[English Version](formal_theory_emotional_en.md) | 中文版**
 

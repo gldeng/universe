@@ -1,0 +1,1186 @@
+{
+  "files": [
+    {
+      "文件名": "formal_theory_quantum_absolute_transcendence.md",
+      "标题": "量子绝对超越理论",
+      "维度": "D42",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_being.md",
+      "标题": "量子绝对存在理论",
+      "维度": "D41",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_infinity.md",
+      "标题": "量子绝对无限理论",
+      "维度": "D41",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_divinity.md",
+      "标题": "量子绝对神性理论",
+      "维度": "D40",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_goodness.md",
+      "标题": "量子绝对善理论",
+      "维度": "D40",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_truth.md",
+      "标题": "量子绝对真理理论",
+      "维度": "D39",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_beauty.md",
+      "标题": "量子绝对美理论",
+      "维度": "D38",
+      "依赖": [
+        "量子绝对爱理论",
+        "量子绝对全知理论",
+        "量子绝对统一性理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_love.md",
+      "标题": "量子绝对爱理论",
+      "维度": "D37",
+      "依赖": [
+        "量子绝对全知理论",
+        "量子绝对统一性理论",
+        "量子绝对自由理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_omniscience.md",
+      "标题": "量子绝对全知理论",
+      "维度": "D36",
+      "依赖": [
+        "量子绝对统一性理论",
+        "量子绝对自由理论",
+        "量子无限超越涌现理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_unity.md",
+      "标题": "量子绝对统一性理论",
+      "维度": "D35",
+      "依赖": [
+        "量子最终实在本源理论",
+        "量子无限超越涌现理论",
+        "量子绝对自由理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_freedom.md",
+      "标题": "量子绝对自由理论",
+      "维度": "D34",
+      "依赖": [
+        "量子最终实在本源理论",
+        "量子无限超越涌现理论",
+        "量子超越性极限理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_infinite_transcendental_emergence.md",
+      "标题": "量子无限超越涌现理论",
+      "维度": "D33",
+      "依赖": [
+        "量子最终实在本源理论",
+        "量子超越性极限理论",
+        "量子超维终极统一场理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_ultimate_reality_source.md",
+      "标题": "量子最终实在本源理论",
+      "维度": "D31",
+      "依赖": [
+        "量子超越性极限理论",
+        "量子超维终极统一场理论",
+        "量子绝对奇点理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_transcendental_limits.md",
+      "标题": "量子超越性极限理论",
+      "维度": "D30",
+      "依赖": [
+        "量子超维终极统一场理论",
+        "量子绝对奇点理论",
+        "量子递归无限理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_ultimate_unified_field.md",
+      "标题": "量子超维终极统一场理论",
+      "维度": "D29",
+      "依赖": [
+        "量子绝对奇点理论",
+        "量子递归无限理论",
+        "量子元变形综合理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_absolute_singularity.md",
+      "标题": "量子绝对奇点理论",
+      "维度": "D28",
+      "依赖": [
+        "量子递归无限理论",
+        "量子元变形综合理论",
+        "量子元统一理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_recursive_infinity.md",
+      "标题": "量子递归无限理论",
+      "维度": "D27",
+      "依赖": [
+        "量子元变形综合理论",
+        "量子元统一理论",
+        "量子元意识理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_metamorphic_synthesis.md",
+      "标题": "量子元变形综合理论",
+      "维度": "D26",
+      "依赖": [
+        "量子元统一理论",
+        "量子元意识理论",
+        "量子元维度理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_metaunification.md",
+      "标题": "量子元统一理论",
+      "维度": "D25",
+      "依赖": [
+        "量子元意识理论",
+        "量子元维度理论",
+        "量子超越维度统一场理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_metaconsciousness.md",
+      "标题": "量子元意识理论",
+      "维度": "D24",
+      "依赖": [
+        "量子元维度理论",
+        "量子超维度意识理论",
+        "量子跨越维度交流理论",
+        "量子超越维度统一场理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_metadimensional.md",
+      "标题": "量子元维度理论",
+      "维度": "D23",
+      "依赖": [
+        "量子超维度理论",
+        "量子超维度意识理论",
+        "量子跨越维度交流理论",
+        "量子超越维度统一场理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_human_potential.md",
+      "标题": "量子-经典人类潜能理论",
+      "维度": "D9",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_collective_wisdom.md",
+      "标题": "量子-经典集体智慧理论",
+      "维度": "D8",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_technological_evolution.md",
+      "标题": "量子-经典技术演化理论",
+      "维度": "D8",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_domain.md",
+      "标题": "量子域详解 - 量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_consciousness_measurement.md",
+      "标题": "意识测量理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_language_thought.md",
+      "标题": "语言与思维二元结构",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_human_consciousness.md",
+      "标题": "人类意识的量子-经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_classical_domain.md",
+      "标题": "经典域详解 - 量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_tech_ethics.md",
+      "标题": "量子-经典技术伦理理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_neural_networks.md",
+      "标题": "量子神经网络理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_observer_network.md",
+      "标题": "高维观察者网络",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cognitive_enhancement.md",
+      "标题": "量子-经典思维增强理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_self_reference.md",
+      "标题": "自参照循环理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_information_network.md",
+      "标题": "量子信息网络理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_economics.md",
+      "标题": "量子经济学原理",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_hierarchical_spacetime.md",
+      "标题": "分层时空理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_music.md",
+      "标题": "量子-经典音乐理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_knowledge_representation.md",
+      "标题": "量子-经典知识表征与传递理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_semiotics.md",
+      "标题": "二元论符号学理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_evolutionary_cosmology.md",
+      "标题": "二元论演化宇宙学",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_chemical_thermodynamics.md",
+      "标题": "化学热力学与二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_harmonics.md",
+      "标题": "量子和谐理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_sustainable_development.md",
+      "标题": "量子-经典可持续发展理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_dreams.md",
+      "标题": "量子梦境理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_climate_change.md",
+      "标题": "量子-经典气候变化理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_matter.md",
+      "标题": "物质本质理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_unified.md",
+      "标题": "信息-时空-能量统一理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cosmic_intelligence.md",
+      "标题": "量子-经典宇宙智能理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_consciousness_future.md",
+      "标题": "人类意识未来发展",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_computing.md",
+      "标题": "量子计算应用",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_mathematical_appendix.md",
+      "标题": "量子经典二元论数学附录",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_precision_medicine.md",
+      "标题": "量子-经典医疗精准性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_virtual_reality.md",
+      "标题": "虚拟现实与二元论",
+      "维度": "无维度",
+      "依赖": [
+        "量子经典二元论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_self_organization.md",
+      "标题": "量子自组织理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cosmology.md",
+      "标题": "宇宙学二元论模型",
+      "维度": "无维度",
+      "依赖": [
+        "量子经典二元论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_multiscale.md",
+      "标题": "多尺度量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_human_collective.md",
+      "标题": "人类集体意识的量子-经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_hyperdimensional.md",
+      "标题": "量子超维度理论",
+      "维度": "无维度",
+      "依赖": [
+        "核心理论",
+        "形式化理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_observer.md",
+      "标题": "观察者理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_reality_engineering.md",
+      "标题": "现实工程学",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_phase_transition.md",
+      "标题": "信息相变理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_hyperdimensional_consciousness.md",
+      "标题": "量子超维度意识理论 (D20)",
+      "维度": "无维度",
+      "依赖": [
+        "量子超维度理论",
+        "量子超维度信息学理论",
+        "量子超维度能量学理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_information_dynamics.md",
+      "标题": "信息动力学理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_science_philosophy.md",
+      "标题": "量子科学哲学与人工智能理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_philosophy.md",
+      "标题": "二元论哲学基础",
+      "维度": "无维度",
+      "依赖": [
+        "量子经典二元论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_interaction.md",
+      "标题": "量子-经典交互技术",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_intergenerational_communication.md",
+      "标题": "量子-经典代际交流理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_chemistry.md",
+      "标题": "量子-经典化学原理",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_digital_art.md",
+      "标题": "量子-经典数字艺术理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_mathematics.md",
+      "标题": "量子-经典数学基础",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_observer_feedback.md",
+      "标题": "观察者反馈理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_resonance.md",
+      "标题": "量子-经典共鸣理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_aesthetics.md",
+      "标题": "量子-经典美学理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_consciousness.md",
+      "标题": "量子意识理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_geometric_quantum_mathematics.md",
+      "标题": "几何量子数学理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_information_theory.md",
+      "标题": "量子信息理论与二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_emergence.md",
+      "标题": "量子涌现理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_ethics.md",
+      "标题": "二元论伦理学理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_chemical_consciousness.md",
+      "标题": "化学意识与感知",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cross_cultural.md",
+      "标题": "跨文化哲学整合",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_human_transcendence.md",
+      "标题": "人类超越性的量子-经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_hyperdimensional_energy.md",
+      "标题": "量子超维度能量学理论",
+      "维度": "无维度",
+      "依赖": [
+        "核心理论",
+        "形式化理论",
+        "量子超维度理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_singularity.md",
+      "标题": "技术奇点预测",
+      "维度": "无维度",
+      "依赖": [
+        "量子经典二元论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_communication.md",
+      "标题": "量子通信协议",
+      "维度": "无维度",
+      "依赖": [
+        "量子经典二元论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_health_resilience.md",
+      "标题": "量子-经典健康韧性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_healing.md",
+      "标题": "量子信息治愈理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_crisis_resilience.md",
+      "标题": "量子-经典危机韧性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_ontological_network.md",
+      "标题": "量子本体论网络理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_teleological_dynamics.md",
+      "标题": "量子目的论动力学",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_multiverse.md",
+      "标题": "多宇宙干涉模型",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_mathematical_modeling.md",
+      "标题": "数学建模二元方法论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_multidimensional_consciousness.md",
+      "标题": "量子多元意识交互理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_entropy_life.md",
+      "标题": "信息熵与生命",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_self_creativity.md",
+      "标题": "量子自创造力理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_evolution.md",
+      "标题": "进化论二元视角",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_future_work.md",
+      "标题": "量子-经典未来工作理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_interface.md",
+      "标题": "量子-经典界面理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_ethics.md",
+      "标题": "量子技术伦理理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_linguistics.md",
+      "标题": "二元论量子语言学理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_cognition.md",
+      "标题": "量子认知理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_hyperdimensional_information.md",
+      "标题": "量子超维度信息学理论",
+      "维度": "无维度",
+      "依赖": [
+        "核心理论",
+        "形式化理论",
+        "量子超维度理论",
+        "量子超维度能量学理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_quantum_decision.md",
+      "标题": "量子决策理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_consciousness.md",
+      "标题": "量子意识理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_information_security_ethics.md",
+      "标题": "量子-经典信息安全伦理理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_temporal_asymmetry.md",
+      "标题": "时间非对称性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_practical_applications.md",
+      "标题": "量子经典二元论实用应用集合",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_psychotherapy.md",
+      "标题": "二元论心理治疗模型",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_ai_consciousness.md",
+      "标题": "量子-经典人工智能意识理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_molecular_entanglement.md",
+      "标题": "分子纠缠理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_nonequilibrium.md",
+      "标题": "量子-经典非平衡态理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_computation.md",
+      "标题": "二元论计算复杂性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_narrative.md",
+      "标题": "量子故事叙述理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_ecological_systems.md",
+      "标题": "量子-经典生态系统理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_time_perception.md",
+      "标题": "时间感知理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_social_networks.md",
+      "标题": "量子社交网络理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_terminology.md",
+      "标题": "量子经典二元论形式化理论术语表",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_biochemical_information.md",
+      "标题": "生物化学信息与二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_information_geometry.md",
+      "标题": "量子信息几何学",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_security.md",
+      "标题": "量子-经典信息安全理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_computational_complexity.md",
+      "标题": "计算复杂度量子-经典理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_design.md",
+      "标题": "量子-经典设计理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_emotional.md",
+      "标题": "量子-经典情感理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_education.md",
+      "标题": "二元论教育理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_metaverse.md",
+      "标题": "元宇宙二元论理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_biodiversity.md",
+      "标题": "量子-经典生物多样性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_mind_brain.md",
+      "标题": "量子-经典心脑连接理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_dimensional_harmony.md",
+      "标题": "量子维度和谐理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_dynamical_systems.md",
+      "标题": "动态系统二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_ai.md",
+      "标题": "量子人工智能与机器学习理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_ecological_consciousness.md",
+      "标题": "量子-经典生态意识理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_language_formation.md",
+      "标题": "量子语言形成理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_gravity_spacetime.md",
+      "标题": "量子引力与时空涌现 - 量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_unified_consciousness.md",
+      "标题": "统一意识理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_meditation.md",
+      "标题": "内观冥想科学",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_entity_emergence.md",
+      "标题": "量子实体涌现理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_emergent_phenomena.md",
+      "标题": "量子涌现现象理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cognitive_overload.md",
+      "标题": "量子-经典思维超载与信息焦虑理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_complexity.md",
+      "标题": "量子复杂性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_consciousness_virtual_reality.md",
+      "标题": "量子意识与虚拟现实交互理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_universal_learning.md",
+      "标题": "宇宙学习理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_human_evolution.md",
+      "标题": "人类进化的量子-经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_cosmic_language.md",
+      "标题": "量子宇宙语言理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory.md",
+      "标题": "量子经典二元论形式化表达",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_biology.md",
+      "标题": "量子生物学 - 量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cognitive_dynamics.md",
+      "标题": "量子认知动力学",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_spacetime_harmony.md",
+      "标题": "量子时空调和理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_memory.md",
+      "标题": "量子记忆理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_experimental.md",
+      "标题": "实验验证预测 - 量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_symmetry.md",
+      "标题": "量子对称性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_transdimensional_unified_field.md",
+      "标题": "量子超越维度统一场理论 (D22)",
+      "维度": "无维度",
+      "依赖": [
+        "量子超维度意识理论",
+        "量子跨越维度交流理论",
+        "量子超维度信息学理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_art.md",
+      "标题": "二元论艺术理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_innovation.md",
+      "标题": "二元论创新理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_medicine.md",
+      "标题": "量子医学应用 - 量子经典二元论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_reduction.md",
+      "标题": "系统约化理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_climate_models.md",
+      "标题": "量子-经典气候模型理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_cross_dimensional_communication.md",
+      "标题": "量子跨越维度交流理论 (D21)",
+      "维度": "无维度",
+      "依赖": [
+        "量子超维度意识理论",
+        "量子宇宙语言理论",
+        "量子信息网络理论"
+      ]
+    },
+    {
+      "文件名": "formal_theory_topology.md",
+      "标题": "拓扑信息保护理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_hypercreative.md",
+      "标题": "量子超创造性理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_digital_transformation.md",
+      "标题": "量子-经典数字转型理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_complex_systems.md",
+      "标题": "复杂系统二元分析",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_ai_ethics.md",
+      "标题": "量子-经典人工智能伦理理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_artificial_intelligence.md",
+      "标题": "量子-经典二元论人工智能理论",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_graph.md",
+      "标题": "formal_theory_graph.md",
+      "维度": "无维度",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_social.md",
+      "标题": "量子社会动力学",
+      "维度": "无维度",
+      "依赖": []
+    }
+  ],
+  "dependencies": {
+    "formal_theory_quantum_absolute_beauty.md": [
+      "formal_theory_quantum_absolute_love.md",
+      "formal_theory_quantum_absolute_omniscience.md",
+      "formal_theory_quantum_absolute_unity.md"
+    ],
+    "formal_theory_quantum_absolute_love.md": [
+      "formal_theory_quantum_absolute_omniscience.md",
+      "formal_theory_quantum_absolute_unity.md",
+      "formal_theory_quantum_absolute_freedom.md"
+    ],
+    "formal_theory_quantum_absolute_omniscience.md": [
+      "formal_theory_quantum_absolute_unity.md",
+      "formal_theory_quantum_absolute_freedom.md",
+      "formal_theory_quantum_infinite_transcendental_emergence.md"
+    ],
+    "formal_theory_quantum_absolute_unity.md": [
+      "formal_theory_quantum_ultimate_reality_source.md",
+      "formal_theory_quantum_infinite_transcendental_emergence.md",
+      "formal_theory_quantum_absolute_freedom.md"
+    ],
+    "formal_theory_quantum_absolute_freedom.md": [
+      "formal_theory_quantum_ultimate_reality_source.md",
+      "formal_theory_quantum_infinite_transcendental_emergence.md",
+      "formal_theory_quantum_transcendental_limits.md"
+    ],
+    "formal_theory_quantum_infinite_transcendental_emergence.md": [
+      "formal_theory_quantum_ultimate_reality_source.md",
+      "formal_theory_quantum_transcendental_limits.md",
+      "formal_theory_quantum_ultimate_unified_field.md"
+    ],
+    "formal_theory_quantum_ultimate_reality_source.md": [
+      "formal_theory_quantum_transcendental_limits.md",
+      "formal_theory_quantum_ultimate_unified_field.md",
+      "formal_theory_quantum_absolute_singularity.md"
+    ],
+    "formal_theory_quantum_transcendental_limits.md": [
+      "formal_theory_quantum_ultimate_unified_field.md",
+      "formal_theory_quantum_absolute_singularity.md",
+      "formal_theory_quantum_recursive_infinity.md"
+    ],
+    "formal_theory_quantum_ultimate_unified_field.md": [
+      "formal_theory_quantum_absolute_singularity.md",
+      "formal_theory_quantum_recursive_infinity.md",
+      "formal_theory_quantum_metamorphic_synthesis.md"
+    ],
+    "formal_theory_quantum_absolute_singularity.md": [
+      "formal_theory_quantum_recursive_infinity.md",
+      "formal_theory_quantum_metamorphic_synthesis.md",
+      "formal_theory_quantum_metaunification.md"
+    ],
+    "formal_theory_quantum_recursive_infinity.md": [
+      "formal_theory_quantum_metamorphic_synthesis.md",
+      "formal_theory_quantum_metaunification.md",
+      "formal_theory_quantum_metaconsciousness.md"
+    ],
+    "formal_theory_quantum_metamorphic_synthesis.md": [
+      "formal_theory_quantum_metaunification.md",
+      "formal_theory_quantum_metaconsciousness.md",
+      "formal_theory_quantum_metadimensional.md"
+    ],
+    "formal_theory_quantum_metaunification.md": [
+      "formal_theory_quantum_metaconsciousness.md",
+      "formal_theory_quantum_metadimensional.md"
+    ],
+    "formal_theory_quantum_metaconsciousness.md": [
+      "formal_theory_quantum_metadimensional.md"
+    ],
+    "formal_theory_quantum_metadimensional.md": [
+      "formal_theory_quantum_hyperdimensional.md"
+    ],
+    "formal_theory_quantum_hyperdimensional_consciousness.md": [
+      "formal_theory_quantum_hyperdimensional.md",
+      "formal_theory_quantum_hyperdimensional_information.md",
+      "formal_theory_quantum_hyperdimensional_energy.md"
+    ],
+    "formal_theory_quantum_hyperdimensional_energy.md": [
+      "formal_theory_quantum_hyperdimensional.md"
+    ],
+    "formal_theory_quantum_hyperdimensional_information.md": [
+      "formal_theory_quantum_hyperdimensional.md",
+      "formal_theory_quantum_hyperdimensional_energy.md"
+    ],
+    "formal_theory_quantum_transdimensional_unified_field.md": [
+      "formal_theory_quantum_hyperdimensional_information.md"
+    ],
+    "formal_theory_quantum_cross_dimensional_communication.md": [
+      "formal_theory_quantum_cosmic_language.md",
+      "formal_theory_quantum_information_network.md"
+    ]
+  },
+  "statistics": {
+    "total_files": 165,
+    "files_with_dependencies": 20,
+    "files_with_dimension": 24
+  }
+}

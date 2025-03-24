@@ -1,4 +1,4 @@
-# 量子-经典生物多样性理论 v29.0
+# 量子-经典生物多样性理论 v29.0（维度：D8）
 
 **[English Version](formal_theory_biodiversity_en.md) | 中文版**
 

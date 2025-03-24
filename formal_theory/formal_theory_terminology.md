@@ -1,4 +1,4 @@
-# 量子经典二元论形式化理论术语表 v27.0
+# 量子经典二元论形式化理论术语表 v27.0（维度：D7）
 
 **[返回核心理论](../formal_theory_core.md) | [English Version](formal_theory_terminology_en.md)**
 

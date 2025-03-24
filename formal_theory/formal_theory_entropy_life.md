@@ -1,4 +1,4 @@
-# 信息熵与生命 v11.1
+# 信息熵与生命 v11.1（维度：D7）
 
 **[English Version](formal_theory_entropy_life_en.md) | 中文版**
 

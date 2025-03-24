@@ -1,4 +1,4 @@
-# 量子-经典交互技术 v27.0
+# 量子-经典交互技术 v27.0（维度：D7）
 
 **[English Version](formal_theory_interaction_en.md) | 中文版**
 

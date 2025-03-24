@@ -1,4 +1,4 @@
-# 量子计算应用 v28.0
+# 量子计算应用 v28.0（维度：D7）
 
 **[English Version](formal_theory_quantum_computing_en.md) | 中文版**
 

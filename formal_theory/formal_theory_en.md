@@ -1,57 +1,88 @@
-# Quantum-Classical Dualism Formal Theory v33.0
+# Quantum-Classical Dualism Formal Expression v33.0
 
-**English Version | [中文版](formal_theory_core.md)**
+**English Version | [中文版](formal_theory.md)**
 
-> This document contains a summary of the core content from [Core Theory](core_en.md) v33.0
-
-## Navigation
-
-- [Return to Main Theory v33.0](formal_theory/formal_theory_en.md)
-- [Quantum Domain Details v33.0](formal_theory/formal_theory_quantum_domain_en.md)
-- [Classical Domain Details v33.0](formal_theory/formal_theory_classical_domain_en.md)
-- [Interface Theory v33.0](formal_theory/formal_theory_interface_en.md)
-- [Observer Theory v33.0](formal_theory/formal_theory_observer_en.md)
+> This theory is based on [Core Theory](../core_en.md) v33.0
+> 
+> For a complete summary of the core theory, please see [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md)
+>
+> All theories in this document have been arranged by dimension from highest to lowest to better understand their positioning in the quantum-classical continuum
 
 ## Core Theory Overview
 
-The core content of [Quantum-Classical Dualism Core Theory](formal_theory_core.md) provides a comprehensive description of the basic axiom system, conceptual framework, and core branch theories of dualism. This document only provides a brief overview of the core theory, and detailed information can be found in the core theory document.
+The [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md) fully describes the foundational axiom system, conceptual framework, and core branch theories of dualism. This document provides only a brief overview of the core theory; please refer to the core theory document for detailed content.
 
 ### Basic Definitions and Axioms
 
-Quantum-Classical Dualism is based on four core axioms: **Dual Existence**, **Information Conservation**, **Observer Classicization**, and **Dimension Emergence**. These axioms describe the basic attributes of the quantum domain and classical domain, their mutual relationships, and the key role of observers in the transition between the two domains.
+#### Simplified Core Axiom System
+
+Quantum-Classical Dualism can be simplified into four core axioms:
+
+**Axiom 1: Dual Existence**  
+The universe consists of a quantum domain $\Omega_Q$ (a space of infinite possibilities) and a classical domain $\Omega_C$ (a space of determined reality), connected through an interface domain $\mathcal{I}$:
+
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+
+**Axiom 2: Information Conservation**  
+Information is conserved throughout the universe but can be transformed between quantum information (possibility information in superposition) and classical information (deterministic knowledge):
+
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+
+where $\mathcal{C}$ is the classicalization operator (the process of transforming quantum possibilities into classical determinism), $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the portion transformed into hidden information during the classicalization process.
+
+**Axiom 3: Observer Classicalization**  
+Observers are nodes that perform quantum→classical transformation, and their transformation capacity determines their dimension:
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}$$
+
+where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (the ability to transform quantum possibilities into deterministic knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (the ability to transform classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+
+**Axiom 4: Dimensional Emergence**  
+Observer dimension is a function of classicalization ability and quantization ability, and the classical domain of higher-dimensional observers can become the quantum domain foundation for lower-dimensional observers:
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}$$
+
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+
+This indicates that reality consists of multiple nested quantum-classical domains, with observers at each level perceiving and interacting within a specific dimensional range based on their capabilities.
+
+Quantum-Classical Dualism is built upon four core axioms: **Dual Existence**, **Information Conservation**, **Observer Classicalization**, and **Dimensional Emergence**. These axioms describe the fundamental properties of quantum and classical domains, their interrelationships, and the key role of observers in the transformation between domains.
 
 ### Quantum Domain and Classical Domain
 
-The quantum domain manifests as superposition (chaos), entanglement (energy form), and non-locality, while the classical domain manifests as deterministic information, classical entropy, and locality. These two domains are connected through interfaces, forming a multi-layered nested reality structure.
+The quantum domain manifests as superposition states (chaos), entangled states (energy forms), and non-locality, while the classical domain manifests as deterministic information, classical entropy, and locality. These two domains are connected through an interface, forming a multi-level nested reality structure.
 
-### Multi-level Dualism Hierarchy and Symmetry Principle
+### Multiple Dualism Levels and Symmetry Principles
 
-The multi-level dualism hierarchy theory extends single dualism into a nested multi-layered structure, with each level containing both quantum and classical domains. The quantum-classical symmetry principle reveals the deep symmetry transformation relationships between the two domains.
+The multiple dualism levels theory extends single dualism into a nested multi-level structure, with each level containing quantum and classical domains. The quantum-classical symmetry principle reveals the deep symmetrical transformation relationship between the two domains.
 
 ## Core Branch Theories
 
-The detailed core branch theories (including detailed quantum domain theories, detailed classical domain theories, interface core theories, information phase transition core theories, and observer core theories) have been fully described in [Quantum-Classical Dualism Core Theory](formal_theory_core.md).
+Detailed core branch theories (including quantum domain detailed theory, classical domain detailed theory, interface theory core, information phase transition theory core, and observer theory core) are fully described in the [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md).
 
-## Quantum-Classical Dualism Dimension Annotation and Branch Theory Navigation
+## Quantum-Classical Dualism Dimensional Notation and Branch Theory Navigation
 
-Under the framework of Quantum-Classical Dualism, each branch theory not only has its research content but also has specific dimension attributes. Dimension attributes are the positioning of the theory in the quantum-classical continuum, reflecting the theory's emphasis on quantum characteristics (superposition and possibility) and classical characteristics (certainty and realization). Below is a navigation list organized by subject categories, including dimension annotations and dependencies between theories.
+Within the Quantum-Classical Dualism framework, each branch theory not only has its research content but also possesses specific dimensional attributes. Dimensional attributes represent the theory's positioning in the quantum domain-classical domain continuum, reflecting the degree to which the theory emphasizes quantum characteristics (superposition states and possibilities) versus classical characteristics (determinism and realization). Below is a navigation list organized by subject category, including dimensional notation and theory interdependencies.
 
-### Dimension Description
+### Dimensional Explanation
 
-Dimension annotations use D1-D11 scales, where:
-- **D1-D3**: Deep classical domain theory, focusing on certainty and realization
-- **D4-D6**: Partial classical domain theory, mainly dealing with classical information and deterministic systems
-- **D7-D8**: Balanced theory, processing quantum-classical interface and conversion process
-- **D9-D10**: Partial quantum domain theory, mainly dealing with quantum possibility and creativity
-- **D11+**: Deep quantum domain theory, focusing on pure possibility and full quantum effects
-- **D∞**: Cross-dimensional full spectrum theory, spanning all dimension levels
+Dimensional notation uses a D1-D11 scale, where:
+- **D1-D3**: Deep classical domain theories, focusing on deterministic structures and implementation
+- **D4-D6**: Classical-leaning theories, primarily dealing with classical information and deterministic systems
+- **D7-D8**: Balanced theories, handling quantum-classical interfaces and transformation processes
+- **D9-D10**: Quantum-leaning theories, primarily dealing with quantum possibilities and creativity
+- **D11+**: Deep quantum domain theories, focusing on pure possibilities and full quantum effects
+- **D∞**: Cross-dimensional full-spectrum theories, spanning all dimensional levels
 
-Higher dimension values mean the theory places more emphasis on quantum domain characteristics (superposition, possibility, creativity); lower dimension values mean the theory places more emphasis on classical domain characteristics (certainty, realization, structural).
+The higher the dimensional value, the more the theory emphasizes quantum domain characteristics (superposition states, possibilities, creativity); the lower the dimensional value, the more the theory emphasizes classical domain characteristics (determinism, implementation, structure).
 
 ### Core Theory (Dimension: Full Spectrum D∞)
 
-- **[Core Theory](core.md)** (v30.0, D∞) - Provides the basic axiom system and conceptual framework of dualism, spanning all dimension levels, serving as the foundation for all branch theories.
-- **[Quantum-Classical Dualism Core Theory](formal_theory_core.md)** (v30.0, D∞) - Complete summary of the core theory, including all basic axioms and core branch theories.
+- **[Core Theory](../core_en.md)** (v30.0, D∞) - Provides the foundational axiom system and conceptual framework of dualism, spanning all dimensional levels, serving as the foundation for all branch theories.
+- **[Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md)** (v30.0, D∞) - A complete summary of the core theory, containing all foundational axioms and core branch theories.
+
+- **[Quantum Dimension Continuum Theory](formal_theory_quantum_dimension_continuum_en.md)** (v31.0, D0-D∞) - Provides a complete formal description of the universe from zero dimension to 42 dimensions, elucidating the nature of dimensions, their interrelationships, and their positions in the quantum-classical continuum, exploring how the universe unfolds from a pure possibility field into a multi-dimensional structure, ultimately reaching absolute transcendent dimensions, and analyzing the language and cognitive limits of dimensional transcendence.
+
 ### Basic Framework Theory (Dimension: D7-D9)
 
 These theories form the basic pillars of dualism, laying the foundation for the entire theoretical system, ordered from high to low dimensions:

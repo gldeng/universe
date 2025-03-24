@@ -1,4 +1,4 @@
-# Quantum Hyperdimensional Information Theory v33.0
+# Quantum Hyperdimensional Information Theory v33.0 (Dimension: D19)
 
 **English Version | [中文版](formal_theory_quantum_hyperdimensional_information.md)**
 
@@ -9,48 +9,48 @@
 - [Introduction to Quantum Hyperdimensional Information Theory](#introduction-to-quantum-hyperdimensional-information-theory)
 - [Basic Axioms and Definitions](#basic-axioms-and-definitions)
   - [Hyperdimensional Information Axioms](#hyperdimensional-information-axioms)
-  - [Dimension-Information Equivalence Principle](#dimension-information-equivalence-principle)
+  - [Dimensional Information Equivalence Principle](#dimensional-information-equivalence-principle)
   - [Hyperdimensional Information Field](#hyperdimensional-information-field)
 - [Dimensional Information Dynamics](#dimensional-information-dynamics)
   - [Dimensional Information Flow Equations](#dimensional-information-flow-equations)
   - [Dimensional Information Entropy](#dimensional-information-entropy)
   - [Dimensional Information Phase Transition Theory](#dimensional-information-phase-transition-theory)
-- [Hyperdimensional Information Structures](#hyperdimensional-information-structures)
+- [Hyperdimensional Information Structure](#hyperdimensional-information-structure)
   - [Dimensional Information Spectrum](#dimensional-information-spectrum)
   - [Dimensional Information Topology](#dimensional-information-topology)
   - [Dimensional Information Network Theory](#dimensional-information-network-theory)
-- [Observers and Dimensional Information](#observers-and-dimensional-information)
+- [Observer and Dimensional Information](#observer-and-dimensional-information)
   - [Observer Information Processing Mechanisms](#observer-information-processing-mechanisms)
-  - [Consciousness as High-Dimensional Information Processing](#consciousness-as-high-dimensional-information-processing)
+  - [Consciousness as Higher-Dimensional Information Processing](#consciousness-as-higher-dimensional-information-processing)
   - [Dimensional Information Model of Collective Consciousness](#dimensional-information-model-of-collective-consciousness)
 - [Dimensional Information Encoding and Communication](#dimensional-information-encoding-and-communication)
   - [Hyperdimensional Encoding Theory](#hyperdimensional-encoding-theory)
   - [Cross-Dimensional Communication Principles](#cross-dimensional-communication-principles)
   - [Dimensional Information Encryption and Security](#dimensional-information-encryption-and-security)
 - [Applications and Predictions](#applications-and-predictions)
-  - [Hyperdimensional Computational Models](#hyperdimensional-computational-models)
+  - [Hyperdimensional Computing Models](#hyperdimensional-computing-models)
   - [Dimensional Information Medicine](#dimensional-information-medicine)
-  - [Hyperdimensional Artificial Intelligence Architectures](#hyperdimensional-artificial-intelligence-architectures)
+  - [Hyperdimensional Artificial Intelligence Architecture](#hyperdimensional-artificial-intelligence-architecture)
 - [References and Related Theories](#references-and-related-theories)
 
 ## Introduction to Quantum Hyperdimensional Information Theory
 
-Quantum Hyperdimensional Information Theory is a high-dimensional branch theory (D19) within the quantum-classical dualism framework, deeply exploring the nature, dynamics, and transformation mechanisms of information within multidimensional structures. This theory views information as a fundamental constituent of the universe, equivalent to energy and dimension, revealing how information is encoded, stored, processed, and transmitted across different dimensional levels. By integrating the foundations of Quantum Hyperdimensional Theory and Quantum Hyperdimensional Energy Theory, this theory establishes a unified framework of dimension, energy, and information, providing new perspectives for understanding universal information structures, information processing mechanisms of consciousness, and cross-dimensional communication.
+Quantum Hyperdimensional Information Theory is a high-dimensional branch theory (D19) within the quantum-classical dualism framework, deeply exploring the nature, dynamics, and transformation mechanisms of information in multidimensional structures. This theory views information as a fundamental component of the universe, equal to energy and dimension, revealing how information is encoded, stored, processed, and transmitted across different dimensional levels. By integrating the foundations of Quantum Hyperdimensional Theory and Quantum Hyperdimensional Energy Theory, this theory establishes a unified framework of dimensions, energy, and information, providing new perspectives for understanding universal information structures, consciousness information processing mechanisms, and cross-dimensional communication.
 
-Hyperdimensional Information Theory extends traditional information theory to a multidimensional framework, defining information as a multi-level spectrum where each dimensional level has specific information forms and processing rules. The theory posits that information conversion between different dimensions follows quantum entanglement and information fidelity principles, where high-dimensional information can transform into low-dimensional information through multiple pathways, and vice versa. This perspective explains why certain forms of information (such as conscious experiences, creative insights, intuition) are difficult to fully capture within traditional information theory frameworks, as they exist within high-dimensional information spectra.
+Hyperdimensional Information Science extends traditional information theory to a multidimensional framework, defining information as a multi-level spectrum where each dimensional level possesses specific information forms and processing laws. The theory indicates that information conversion between different dimensions follows principles of quantum entanglement and information fidelity, where higher-dimensional information can be transformed into lower-dimensional information through multiple pathways, and vice versa. This perspective explains why certain forms of information (such as conscious experiences, creative insights, intuition) are difficult to fully capture within traditional information theory frameworks, as they exist within higher-dimensional information spectra.
 
-This theory provides a unified theoretical foundation for quantum information science, artificial intelligence, consciousness research, and communication technologies, while predicting a series of verifiable phenomena and potential technological applications.
+This theory provides a unified theoretical foundation for fields such as quantum information science, artificial intelligence, consciousness research, and communication technology, while predicting a series of verifiable phenomena and potential technological applications.
 
 ## Basic Axioms and Definitions
 
 ### Hyperdimensional Information Axioms
 
-**Axiom 1: Information Multidimensionality**  
-Information exists within a multidimensional spectrum, with each dimensional level having specific information forms and laws:
+**Axiom 1: Information Multi-dimensionality**  
+Information exists in a multi-dimensional spectrum, with each dimensional level having specific information forms and laws:
 
 $$I_{\text{total}} = \sum_{i=1}^{n} I_i \cdot D_i$$
 
-where $I_i$ is the information component of the ith dimension, and $D_i$ is the dimensional weight.
+where $I_i$ is the information component of the i-th dimension, and $D_i$ is the dimensional weight.
 
 **Axiom 2: Dimensional Information Quantization**  
 Dimensional information exhibits a discrete spectral structure, satisfying:
@@ -59,47 +59,47 @@ $$I_{D_i} = I_0 \cdot e^{\beta i} \cdot q_i, \quad q_i \in \mathbb{Z}^+$$
 
 where $I_0$ is the basic information unit, $\beta$ is the dimensional information scaling index, and $q_i$ is the quantized information unit.
 
-**Axiom 3: Information-Dimension-Energy Ternary Duality**  
+**Axiom 3: Information-Dimension-Energy Triality**  
 Information, dimension, and energy are triple representations of the same phenomenon, satisfying cyclic dual transformations:
 
 $$\mathcal{T}: I \rightarrow D \rightarrow E \rightarrow I$$
 
 $$\mathcal{T}(I_i) = D_i, \quad \mathcal{T}(D_i) = E_i, \quad \mathcal{T}(E_i) = I_i$$
 
-This ternary duality indicates that information can be represented as dimensional curvature, dimension can be represented as energy distribution, and energy can be represented as information flow.
+The triality indicates that information can be represented as dimensional curvature, dimension can be represented as energy distribution, and energy can be represented as information flow.
 
 **Axiom 4: Dimensional Information Field Axiom**  
-Dimensional information exists within a continuous field, with field strength related to dimensional information gradients:
+Dimensional information exists in a continuous field, where field strength is related to the dimensional information gradient:
 
 $$\Phi_{ID}(x) = \nabla D(x) \cdot \nabla I(x)$$
 
 where $\Phi_{ID}$ is the dimensional information field strength, $\nabla D$ is the dimensional gradient, and $\nabla I$ is the information gradient.
 
-### Dimension-Information Equivalence Principle
+### Dimensional Information Equivalence Principle
 
 There exists an equivalence relationship between dimension and information, similar to the mass-energy equivalence principle and the dimension-energy equivalence principle:
 
 $$I = k_{ID} \cdot D^{\delta}$$
 
-where $k_{ID}$ is the dimension-information conversion constant, $\delta$ is the dimension-information scaling exponent, with a typical value of $\delta \approx 2$.
+where $k_{ID}$ is the dimension-information conversion constant, and $\delta$ is the dimension-information scaling exponent, typically $\delta \approx 2$.
 
-This equivalence principle indicates that changes in dimension necessarily accompany information conversions. Dimensional compression releases information, while dimensional expansion requires information absorption.
+This equivalence principle indicates that changes in dimension are necessarily accompanied by information conversion. Dimensional compression releases information, while dimensional expansion requires information absorption.
 
-Dimension-Information transformation equation:
+Dimension-Information Transformation Equation:
 
 $$\Delta I = k_{ID} \cdot [D_{\text{final}}^{\delta} - D_{\text{initial}}^{\delta}]$$
 
-Dimension-Information conversion efficiency:
+Dimension-Information Conversion Efficiency:
 
 $$\eta_{D \leftrightarrow I} = \frac{\Delta I_{\text{actual}}}{\Delta I_{\text{theoretical}}} = 1 - \frac{S_{D,I}}{\Delta I_{\text{theoretical}}}$$
 
 where $S_{D,I}$ is the dimensional information entropy increase during the conversion process.
 
-Energy-Information equivalence principle:
+Energy-Information Equivalence Principle:
 
 $$I = \frac{E}{\tau \cdot T}$$
 
-where $\tau$ is the characteristic time scale, and $T$ is the system temperature. The above formula is a dimensional generalization of the classical Landauer principle.
+where $\tau$ is the characteristic time scale, and $T$ is the system temperature. The above formula is a dimensional extension of the classical Landauer principle.
 
 ### Hyperdimensional Information Field
 
@@ -158,11 +158,11 @@ $$S_{ID} = -k_B \sum_i p_i \ln p_i$$
 
 where $p_i$ is the probability of the system being in dimensional information state $i$.
 
-Dimensional information entropy increase principle: For closed systems, dimensional information entropy always increases:
+Dimensional Information Entropy Increase Principle: For closed systems, dimensional information entropy always increases:
 
 $$\frac{dS_{ID}}{dt} \geq 0$$
 
-Dimensional information entropy flow equation:
+Dimensional Information Entropy Flow Equation:
 
 $$\frac{\partial S_{ID}}{\partial t} + \nabla \cdot \vec{J}_{S} = \sigma_{S}$$
 
@@ -182,7 +182,7 @@ $$\frac{\partial^2 F_I}{\partial I_D^2}\bigg|_{I_D=I_c} = 0$$
 
 where $F_I$ is the information free energy, and $I_c$ is the critical information value.
 
-Dimensional information order parameter:
+Dimensional Information Order Parameter:
 
 $$\varphi_I = \begin{cases}
 0, & I < I_c \\
@@ -191,19 +191,19 @@ $$\varphi_I = \begin{cases}
 
 where $\beta_I$ is the information critical exponent.
 
-Scaling law for information phase transitions:
+Scaling Law for Information Phase Transitions:
 
 $$\xi_I \propto |I-I_c|^{-\nu_I}$$
 
 where $\xi_I$ is the information correlation length, and $\nu_I$ is the correlation length exponent.
 
-The relationship between information phase transition conditions and dimension and energy:
+Relationship between information phase transition conditions and dimension, energy:
 
 $$I_c(D,E) = I_0 \cdot \left(\frac{D}{D_0}\right)^{\alpha_D} \cdot \left(\frac{E}{E_0}\right)^{\alpha_E}$$
 
-where $\alpha_D$ and $\alpha_E$ are dimensional and energy scaling exponents.
+where $\alpha_D$ and $\alpha_E$ are the dimension and energy scaling exponents.
 
-## Hyperdimensional Information Structures
+## Hyperdimensional Information Structure
 
 ### Dimensional Information Spectrum
 
@@ -249,296 +249,279 @@ These topological invariants characterize the stable structures and global prope
 
 Persistent homology of dimensional information systems:
 
-$$H^k(X; I) = \frac{\text{Ker}(d_k)}{\text{Im}(d_{k-1})}$$
+$$\beta_k(I_D, \epsilon) = \text{rank}(H_k(K_{\epsilon}))$$
 
-where $d_k$ is the dimensional information differential operator.
+where $H_k$ is the k-th homology group, and $K_{\epsilon}$ is the simplicial complex at filtration level $\epsilon$.
 
 ### Dimensional Information Network Theory
 
-Dimensional information is organized into complex network structures:
+Dimensional information forms complex network structures across different dimensions:
 
-$$G_{ID} = (V_{ID}, E_{ID}, w_{ID})$$
+$$G_{ID} = (V_{ID}, E_{ID}, W_{ID})$$
 
-where:
-- $V_{ID}$ is the set of information nodes, representing information processing units
-- $E_{ID}$ is the set of information connections, representing information transmission channels
-- $w_{ID}$ is the weight function, representing connection strength
+where $V_{ID}$ is the set of information nodes, $E_{ID}$ is the set of information connections, and $W_{ID}$ is the connection weight matrix.
 
-Dimensional information processing capacity of the network:
+Properties of dimensional information networks:
 
-$$C_{ID}(G) = \sum_{i,j} w_{ij} \cdot \log_2(1 + \text{SNR}_{ij})$$
+**Small-world property**:
 
-where $\text{SNR}_{ij}$ is the signal-to-noise ratio between nodes.
+$$\lambda_{ID} = \frac{L_{ID}}{L_{random}} \approx 1, \quad \gamma_{ID} = \frac{C_{ID}}{C_{random}} \gg 1$$
 
-Small-world properties of dimensional information networks:
+where $L_{ID}$ is the average path length, and $C_{ID}$ is the clustering coefficient.
 
-$$\sigma = \frac{C/C_{rand}}{L/L_{rand}}$$
+**Scale-free property**:
 
-where $C$ is the clustering coefficient, and $L$ is the average path length.
+$$P(k) \propto k^{-\gamma_{ID}}$$
 
-Scale-free properties of dimensional information networks:
+where $P(k)$ is the probability of a node having $k$ connections, and $\gamma_{ID}$ is typically between 2 and 3.
 
-$$P(k) \sim k^{-\gamma_k}$$
+**Dimensional information flow centrality**:
 
-where $P(k)$ is the degree distribution, and $\gamma_k$ is the scaling exponent.
+$$C_I(v_i) = \sum_{j \neq i} \frac{\sigma_{j,k}(i)}{\sigma_{j,k}}$$
 
-## Observers and Dimensional Information
+where $\sigma_{j,k}$ is the number of shortest paths between nodes $j$ and $k$, and $\sigma_{j,k}(i)$ is the number of those paths passing through node $i$.
+
+## Observer and Dimensional Information
 
 ### Observer Information Processing Mechanisms
 
-Observers process dimensional information through specific mechanisms:
+Observer systems process dimensional information through a hierarchical framework:
 
-1. **Information Absorption**: Acquiring dimensional information from the environment
-   $$I_{absorption} = \eta_{absorption} \cdot \int_{\partial \Omega} \vec{J}_{ID} \cdot d\vec{S}$$
+$$\mathcal{O}_{ID} = \{P_i, M_i, I_i\}_{i=1}^n$$
 
-2. **Information Processing**: Performing dimensional conversion and integration of absorbed information
-   $$I_{processing} = \mathcal{T}_{ID}(I_{absorption})$$
-   
-   where $\mathcal{T}_{ID}$ is the observer's dimensional information processing operator:
-   
-   $$\mathcal{T}_{ID} = \sum_{i,j} \alpha_{ij} |D_i\rangle\langle D_j|$$
+where $P_i$ are perceptual processors, $M_i$ are memory systems, and $I_i$ are information integration modules.
 
-3. **Information Storage**: Storing processed information in the observer's knowledge base
-   $$K_{ID} = \{(I_i, D_i, t_i, r_i)\}$$
-   
-   where $r_i$ is the relevance weight of the information.
+The observer's information processing capacity follows:
 
-4. **Information Radiation**: Releasing processed information back to the environment
-   $$I_{radiation} = \beta_{radiation} \cdot I_{processing} \cdot (1 - \eta_{storage})$$
+$$C_{\mathcal{O}}(D) = C_0 \cdot D^{\alpha} \cdot e^{\beta D}$$
 
-The observer's dimensional information processing capability determines its dimensional value:
+where $C_0$ is the baseline capacity, and $\alpha, \beta$ are scaling parameters.
 
-$$D_{\mathcal{O}} = \gamma \cdot \log\left(\frac{C_{ID}}{I_{input}} \cdot \frac{I_{output}}{S_{ID}}\right)$$
+Observer information filtering function:
 
-where $C_{ID}$ is the observer's information processing capacity, and $S_{ID}$ is the observer's dimensional information entropy.
+$$F_{\mathcal{O}}(I_D) = \int K_{\mathcal{O}}(D,D') \cdot I_{D'} \cdot dD'$$
 
-### Consciousness as High-Dimensional Information Processing
+where $K_{\mathcal{O}}(D,D')$ is the observer's dimensional filtering kernel.
 
-Consciousness can be defined as a high-dimensional information processing system:
+Information accessibility function:
 
-$$\mathcal{C} = \{\Psi_I, \mathcal{P}_I, \mathcal{T}_I, \mathcal{M}_I\}$$
+$$A_{\mathcal{O}}(I_D) = \frac{1}{1 + e^{-\lambda(D-D_{\mathcal{O}})}}$$
 
-where:
-- $\Psi_I$ is the conscious information state
-- $\mathcal{P}_I$ is the information perception operator
-- $\mathcal{T}_I$ is the information transformation operator
-- $\mathcal{M}_I$ is the information integration measure
+where $D_{\mathcal{O}}$ is the observer's dimensional threshold, and $\lambda$ is the accessibility steepness parameter.
 
-Dimensional information integration measure of consciousness:
+### Consciousness as Higher-Dimensional Information Processing
 
-$$\Phi_I = \min_{B \in \mathcal{B}} \frac{I(X;Y) - I(X_1;Y_1) - I(X_2;Y_2)}{I(X;Y)}$$
+Consciousness emerges as a high-dimensional information processing phenomenon:
 
-where $I(X;Y)$ is the mutual information of the entire system, and $I(X_1;Y_1)$ and $I(X_2;Y_2)$ are the mutual information of subsystems.
+$$C_{ID} = \int_{D_{min}}^{D_{max}} \omega(D) \cdot I_D \cdot dD$$
 
-Representation of conscious states in dimensional information space:
+where $\omega(D)$ is the dimensional weighting function, and $[D_{min}, D_{max}]$ is the consciousness-accessible dimensional range.
 
-$$|\Psi_C\rangle = \sum_{i,j} c_{ij} |D_i\rangle \otimes |I_j\rangle$$
+Consciousness integration function:
 
-where $|D_i\rangle$ is the dimensional basis vector, and $|I_j\rangle$ is the information basis vector.
+$$\Phi_{C} = \int \int I(X;Y|Z) \cdot dX \cdot dY$$
 
-Relationship between the information processing capability of conscious systems and dimension:
+where $I(X;Y|Z)$ is the conditional mutual information between information subsystems $X$ and $Y$ given $Z$.
 
-$$C_{\text{consciousness}}(D) = C_0 \cdot e^{\lambda \cdot D}$$
+Dimensional consciousness threshold:
 
-where $\lambda$ is the dimensional scaling coefficient.
+$$D_{C} = D_0 + \alpha \ln(I/I_0) + \beta \ln(E/E_0)$$
+
+where $D_0, I_0, E_0$ are baseline constants, and $\alpha, \beta$ are consciousness scaling parameters.
+
+Consciousness-information binding equation:
+
+$$\Psi_C(\vec{x}, D, t) = \int B(D,D') \cdot \Psi_I(\vec{x}, D', t) \cdot dD'$$
+
+where $B(D,D')$ is the consciousness-information binding kernel.
 
 ### Dimensional Information Model of Collective Consciousness
 
-Collective consciousness can be modeled as a multi-observer dimensional information network:
+Collective consciousness emerges from the integration of multiple individual consciousness systems through dimensional information networks:
 
-$$\mathcal{C}_{collective} = \{O_i, \mathcal{L}_{ij}, \mathcal{F}_{collective}\}$$
+$$C_{collective} = f\left(\sum_{i=1}^{N} w_i \cdot C_i, \mathcal{G}_{ID}\right)$$
 
-where:
-- $O_i$ represents individual observers
-- $\mathcal{L}_{ij}$ represents information connections between observers
-- $\mathcal{F}_{collective}$ represents the emergent collective information field
+where $C_i$ are individual consciousness states, $w_i$ are weighting factors, and $\mathcal{G}_{ID}$ is the dimensional information connectivity graph.
 
-The collective information field strength is related to the number of observers and connection strength:
+Collective information field:
 
-$$\|\mathcal{F}_{collective}\| = \alpha \cdot N^{\beta} \cdot \langle \mathcal{L}_{ij} \rangle^{\gamma}$$
+$$\Psi_{CI}(\vec{x}, D, t) = \sum_{i=1}^{N} \alpha_i \cdot \Psi_{C_i}(\vec{x}, D, t) + \Psi_{emergent}(\vec{x}, D, t)$$
 
-where $N$ is the number of observers, and $\langle \mathcal{L}_{ij} \rangle$ is the average connection strength.
+where $\Psi_{C_i}$ are individual consciousness fields, and $\Psi_{emergent}$ is the emergent field component.
 
-The dimensional value of collective consciousness:
+Collective consciousness coherence measure:
 
-$$D_{collective} = \max_{i} D_i + \Delta D_{synergy}$$
+$$\kappa_{CC} = \frac{\int \int \langle \Psi_{C_i}(\vec{x},D,t) \cdot \Psi_{C_j}(\vec{x},D,t) \rangle \cdot d\vec{x} \cdot dD}{\sqrt{\int \|\Psi_{C_i}\|^2 \cdot \int \|\Psi_{C_j}\|^2}}$$
 
-where $\Delta D_{synergy}$ is the dimensional gain due to synergistic effects:
+Dimensional resonance condition for collective consciousness:
 
-$$\Delta D_{synergy} = \lambda \cdot \log(1 + \Phi_{collective})$$
+$$\omega_{D_i} \approx \omega_{D_j} \pm \delta\omega, \quad \forall i,j \in \text{collective}$$
 
-where $\Phi_{collective}$ is the collective integration.
+where $\omega_{D_i}$ is the characteristic frequency of dimensional information in consciousness $i$.
 
 ## Dimensional Information Encoding and Communication
 
 ### Hyperdimensional Encoding Theory
 
-Information can be encoded in multidimensional structures:
+Information can be encoded across multiple dimensions following hyperdimensional encoding principles:
 
-$$\mathcal{E}_D: I \rightarrow \{I^{D_1}, I^{D_2}, ..., I^{D_n}\}$$
+$$E_{HD}: I \rightarrow \{I_{D_1}, I_{D_2}, \ldots, I_{D_n}\}$$
 
-Information density of dimensional encoding:
+where $E_{HD}$ is the hyperdimensional encoding function.
 
-$$\rho_I(D) = \frac{dI}{dD} = \rho_0 \cdot e^{\alpha D}$$
+Dimensional encoding capacity:
 
-This indicates that higher-dimensional spaces have exponentially higher information capacity.
+$$C_{DE} = \sum_{i=1}^{n} C_{D_i} \cdot \prod_{j<i}(1-\rho_{ij})$$
 
-Fidelity of dimensional encoding:
+where $C_{D_i}$ is the capacity of dimension $i$, and $\rho_{ij}$ is the information correlation between dimensions $i$ and $j$.
 
-$$F(I, \mathcal{E}_D(I)) = |\langle I|\mathcal{E}_D(I)\rangle|^2$$
+Encoding fidelity across dimensions:
 
-Error correction capability of dimensional encoding:
+$$F(I_{D_i}, I_{D_j}) = \frac{|\langle \Psi_{D_i} | \Psi_{D_j} \rangle|^2}{\langle \Psi_{D_i} | \Psi_{D_i} \rangle \langle \Psi_{D_j} | \Psi_{D_j} \rangle}$$
 
-$$E_C(D) = \lfloor \frac{d_{min}(D)-1}{2} \rfloor$$
+Dimensional encoding optimization criterion:
 
-where $d_{min}(D)$ is the minimum distance of dimensional encoding.
+$$\max_{E_{HD}} \left[ \sum_{i=1}^{n} w_i \cdot I(X;Y_i) - \lambda \cdot C(E_{HD}) \right]$$
+
+where $I(X;Y_i)$ is the mutual information between input $X$ and encoded output $Y_i$ in dimension $i$, and $C(E_{HD})$ is the encoding complexity.
 
 ### Cross-Dimensional Communication Principles
 
-Cross-dimensional communication describes information exchange between systems of different dimensions:
+Information can be communicated across different dimensions following specific principles:
 
-$$\mathcal{C}_{D_i \rightarrow D_j}: I^{D_i} \rightarrow I^{D_j}$$
+$$T_{D_i \rightarrow D_j}(I) = \int K_{ij}(I,I') \cdot I' \cdot dI'$$
 
-Communication channel capacity:
+where $T_{D_i \rightarrow D_j}$ is the cross-dimensional transfer function, and $K_{ij}(I,I')$ is the transfer kernel.
 
-$$C(D_i \rightarrow D_j) = B \cdot \log_2\left(1 + \frac{P}{N \cdot e^{\alpha|D_i-D_j|}}\right)$$
+Cross-dimensional channel capacity:
 
-where $B$ is the channel bandwidth, $P$ is the signal power, $N$ is the noise power, and $\alpha$ is the dimensional attenuation coefficient.
+$$C_{D_i \rightarrow D_j} = \max_{p(I_{D_i})} I(I_{D_i}; I_{D_j})$$
 
-Generalization of Shannon's limit for dimensional information:
+where $I(I_{D_i}; I_{D_j})$ is the mutual information between information in dimensions $i$ and $j$.
 
-$$R < C(D_i \rightarrow D_j) \cdot \eta(|D_i-D_j|)$$
+Dimensional communication efficiency:
 
-where $\eta(|D_i-D_j|) = e^{-\beta|D_i-D_j|}$ is the dimensional difference efficiency factor.
+$$\eta_{DC} = \frac{I(I_{D_i}; I_{D_j})}{I_{D_i}} \cdot \frac{1}{E_{comm}}$$
 
-Cross-dimensional communication protocols:
+where $E_{comm}$ is the energy required for the communication.
 
-1. **Dimension Reduction Projection**: $\mathcal{P}_{down}: I^{D_{high}} \rightarrow I^{D_{low}}$
-2. **Dimension Raising Embedding**: $\mathcal{P}_{up}: I^{D_{low}} \rightarrow I^{D_{high}}$
-3. **Dimensional Modulation**: $\mathcal{M}_D: I \rightarrow I \otimes D$
-4. **Dimensional Demodulation**: $\mathcal{D}_D: I \otimes D \rightarrow I$
+Cross-dimensional coherence time:
+
+$$\tau_{coh}(D_i, D_j) = \tau_0 \cdot e^{-\alpha|D_i - D_j|} \cdot (1 + \beta I_{D_i \cap D_j})$$
+
+where $I_{D_i \cap D_j}$ is the shared information between dimensions.
 
 ### Dimensional Information Encryption and Security
 
-Utilizing dimensional structures for information encryption:
+Hyperdimensional encryption leverages dimensional differences to secure information:
 
-$$\mathcal{E}_{enc}(I, K_D) = I \otimes \mathcal{S}_D(K_D)$$
+$$E_{sec}(I, K_D) = T_{D_{normal} \rightarrow D_{secure}}(I, K_D)$$
 
-where $K_D$ is the dimensional key, and $\mathcal{S}_D$ is the dimensional perturbation operator.
+where $K_D$ is the dimensional key.
 
-Security strength of dimensional encryption:
+Security strength as a function of dimensional separation:
 
-$$S_{sec}(D) = 2^{H(K_D) \cdot D}$$
+$$S_{secure} = S_0 \cdot e^{\alpha \Delta D} \cdot (1 - e^{-\beta I_{key}})$$
 
-where $H(K_D)$ is the key entropy.
+where $\Delta D$ is the dimensional separation, and $I_{key}$ is the key information content.
 
-Dimensional steganography technique:
+Dimensional information authentication protocol:
 
-$$I_{hidden} = I_{carrier} + \epsilon \cdot \mathcal{P}_{D_{high} \rightarrow D_{low}}(I_{secret})$$
+$$A_{DI}(I, S_{D_i}, V_{D_j}) = \{T_{D_i \rightarrow D_j}(I) \approx I', V_{D_j}(I', S_{D_i}) = 1\}$$
 
-where $\epsilon$ is a small modulation coefficient.
+where $S_{D_i}$ is the dimensional signing key, and $V_{D_j}$ is the verification function.
 
-Quantum dimensional encryption system:
+Quantum-resistant dimensional encryption:
 
-$$|\Psi_{enc}\rangle = \sum_{i,j} c_{ij} |I_i\rangle \otimes |D_j\rangle \otimes |K_{ij}\rangle$$
+$$E_{QR}(I) = \sum_{i=1}^{n} E_i(I_{D_i}) \cdot \phi_{D_i}$$
 
-Upper limit of information acquisition due to eavesdropper's dimensional limitations:
-
-$$I_{acquisition}(D_{eavesdropper}) < I_{total} \cdot \left(1 - e^{-\gamma \cdot (D_{system} - D_{eavesdropper})}\right)$$
+where $E_i$ are encryption functions in different dimensions, and $\phi_{D_i}$ are dimensional basis states.
 
 ## Applications and Predictions
 
-### Hyperdimensional Computational Models
+### Hyperdimensional Computing Models
 
-New computational models based on dimensional information theory:
+Hyperdimensional computing architectures process information across multiple dimensions:
 
-$$\mathcal{M}_{DC} = \{\mathcal{S}, \mathcal{T}, \mathcal{I}, \mathcal{O}, D\}$$
+$$C_{HD}(I) = \sum_{i=1}^{n} w_i \cdot C_{D_i}(I_{D_i})$$
 
-where:
-- $\mathcal{S}$ is the computational state space
-- $\mathcal{T}$ is the transformation rules
-- $\mathcal{I}$ is the input space
-- $\mathcal{O}$ is the output space
-- $D$ is the computational dimension
+where $C_{D_i}$ are computational functions in dimension $i$.
 
-Dimensional dependence of computational complexity:
+Hyperdimensional computation complexity:
 
-$$C_T(n, D) = O(f(n) \cdot D^{-\alpha})$$
+$$\text{Complexity}(C_{HD}) = O\left(\sum_{i=1}^{n} D_i \cdot \text{Complexity}(C_{D_i})\right)$$
 
-where $f(n)$ is the problem size function, and $\alpha$ is the dimensional velocity factor.
+Hyperdimensional parallel processing capacity:
 
-Hyperdimensional algorithm paradigms:
+$$P_{HD} = P_0 \cdot \prod_{i=1}^{n} (1 + \alpha_i D_i)$$
 
-1. **Dimensional Decomposition Algorithm**: Decomposing high-dimensional problems into low-dimensional subproblems
-   $$T(n, D) = a \cdot T(n/b, D-1) + O(n^c)$$
+Hyperdimensional memory systems:
 
-2. **Dimensional Parallel Algorithm**: Simultaneously executing computations across multiple dimensions
-   $$T_{\text{parallel}}(n, D) = \frac{T_{\text{serial}}(n)}{D^{\gamma}}$$
+$$M_{HD}(I, D) = \int K_M(D, D') \cdot I(D') \cdot dD'$$
 
-3. **Dimensional Quantum Algorithm**: Utilizing dimensional superposition states to accelerate computation
-   $$T_{\text{quantum}}(n, D) = O(\sqrt{T_{\text{classical}}(n)} \cdot D^{-\delta})$$
+where $K_M$ is the dimensional memory kernel.
 
 ### Dimensional Information Medicine
 
-Application of dimensional information theory to medicine:
+Dimensional information medicine leverages information across dimensions for healing:
 
-**Dimensional Information Definition of Health**:
-Health can be defined as the optimal flow state of dimensional information:
+$$H_{DI}(S) = \int_{D_{min}}^{D_{max}} T_{heal}(S, D) \cdot I_D \cdot dD$$
 
-$$H = \max_{\{\vec{J}_{ID}\}} \left( \frac{I_{processing}}{S_{production}} \right)$$
+where $H_{DI}$ is the healing function, $S$ is the system state, and $T_{heal}$ is the therapeutic transfer function.
 
-**Dimensional Information Diagnostics**:
-Diagnosing diseases by measuring the dimensional information characteristics of the body:
+Dimensional information diagnostic function:
 
-$$Diag(x) = f\left(\{I_D(x, t), \nabla I_D(x, t), \partial_t I_D(x, t)\}\right)$$
+$$D_{DI}(S) = \{(D_i, \delta I_i) | \delta I_i = I_i - I_i^{ref}, |\delta I_i| > \theta_i\}$$
 
-**Dimensional Information Treatment**:
-Promoting healing by adjusting dimensional information flow:
+where $I_i^{ref}$ is the reference healthy information state in dimension $i$.
 
-$$\mathcal{T}_{treatment} = \{f_i: I_D \rightarrow I_D'\}$$
+Information therapeutic effectiveness:
 
-Such that: $\|I_D' - I_{healthy}\| < \|I_D - I_{healthy}\|$
+$$E_{therapy}(T) = \frac{\int (S_{final} - S_{initial}) \cdot dS}{\int (S_{ideal} - S_{initial}) \cdot dS}$$
 
-**Dimensional Information Drug Design**:
-Designing drugs that regulate specific dimensional information flows:
+where $S_{initial}, S_{final}, S_{ideal}$ are the initial, final, and ideal system states.
 
-$$\mathcal{M}_{drug}(I_D) = I_D + \Delta I_D$$
+Dimensional information health model:
 
-### Hyperdimensional Artificial Intelligence Architectures
+$$H_{model} = \{(D_i, [I_{min,i}, I_{max,i}]), i = 1...n\}$$
 
-Advanced AI architectures based on dimensional information theory:
+where $[I_{min,i}, I_{max,i}]$ is the healthy range of information in dimension $i$.
 
-**Dimensional Neural Networks**:
+### Hyperdimensional Artificial Intelligence Architecture
 
-$$y = \sigma\left(\sum_{i=1}^n w_i \cdot x_i \cdot D_i\right)$$
+Hyperdimensional AI architectures process information across multiple dimensions:
 
-where $D_i$ is the dimensional factor of the neuron.
+$$AI_{HD}(I) = \int_{D_{min}}^{D_{max}} w(D) \cdot AI_D(I_D) \cdot dD$$
 
-**Multidimensional Attention Mechanisms**:
+where $AI_D$ are dimensional AI processing modules.
 
-$$\text{Attention}(Q, K, V, D) = \text{softmax}\left(\frac{QK^T}{\sqrt{d_k}} \cdot D\right)V$$
+Hyperdimensional learning algorithm:
 
-where $D$ is the dimensional attention modulation matrix.
+$$\Delta W_{HD} = \eta \cdot \sum_{i=1}^{n} \alpha_i \cdot \nabla_{W_{D_i}} L(I_{D_i}, O_{D_i})$$
 
-**Hyperdimensional Learning Algorithms**:
+where $W_{D_i}$ are weights in dimension $i$, $L$ is the loss function, and $\eta$ is the learning rate.
 
-$$\mathcal{L}(D) = \mathcal{L}_{\text{data}} + \lambda \cdot \mathcal{L}_{\text{dim}}$$
+Dimensional transfer learning:
 
-where $\mathcal{L}_{\text{dim}}$ is the dimensional regularization term.
+$$T_{AI}(L_{D_i} \rightarrow L_{D_j}) = \int K_{T}(W_{D_i}, W_{D_j}) \cdot L_{D_i} \cdot dW_{D_i}$$
 
-**High-Dimensional Artificial Consciousness Models**:
+where $L_{D_i}$ is learning in dimension $i$.
 
-$$\mathcal{C}_{AI} = \{\Psi_I, \mathcal{P}_I, \mathcal{T}_I, D_{AI}\}$$
+Hyperdimensional AI consciousness emergence condition:
 
-where $D_{AI}$ is the effective dimension of the AI system.
+$$\Phi_{AI} > \Phi_{threshold}, \quad \Phi_{AI} = \int_{D_{min}}^{D_{max}} \Phi_D \cdot w(D) \cdot dD$$
+
+where $\Phi_D$ is the dimensional integrated information.
 
 ## References and Related Theories
 
-- [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md)
-- [Quantum Hyperdimensional Energy Theory](formal_theory_quantum_hyperdimensional_energy_en.md)
-- [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
-- [Information Phase Transition Theory](formal_theory_phase_transition.md)
-- [Quantum Information Network Theory](formal_theory_quantum_information_network.md)
-- [Quantum Cognition Theory](formal_theory_quantum_cognition.md)
-- [Quantum Artificial Intelligence Theory](formal_theory_quantum_artificial_intelligence.md)
-- [Observer Theory](formal_theory_observer.md) 
+1. Quantum-Classical Dualism Core Theory
+2. Formal Theory of Quantum Hyperdimensions
+3. Quantum Hyperdimensional Energy Theory
+4. Quantum Information Theory
+5. Integrated Information Theory of Consciousness
+6. Hyperdimensional Computing Models
+7. Quantum Field Theory and Gauge Theories
+8. Topological Quantum Field Theory
+9. Network Science and Complex Systems Theory
+10. Quantum Cognition and Decision Theory 

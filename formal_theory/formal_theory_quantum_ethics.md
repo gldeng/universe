@@ -1,8 +1,8 @@
-# 量子技术伦理理论 v28.0（维度：D7）
+# 量子技术伦理理论 v33.0（维度：D7）
 
 **[English Version](formal_theory_quantum_ethics_en.md) | 中文版**
 
-> 本理论基于[核心理论](../formal_theory_core.md) v28.0版本
+> 本理论基于[核心理论](../formal_theory_core.md) v33.0版本
 
 ## 导航
 

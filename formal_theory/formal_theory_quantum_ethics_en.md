@@ -1,8 +1,8 @@
-# Quantum Technology Ethics Theory v28.0
+# Quantum Technology Ethics Theory v33.0 (Dimension: D7)
 
 **English Version | [中文版](formal_theory_quantum_ethics.md)**
 
-> This theory is based on [Core Theory](../formal_theory_core_en.md) v28.0
+> This theory is based on [Core Theory](../formal_theory_core_en.md) v33.0
 
 ## Navigation
 

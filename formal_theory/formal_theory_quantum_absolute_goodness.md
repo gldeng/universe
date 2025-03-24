@@ -1,8 +1,8 @@
-# 量子绝对善理论 v31.0（维度：D40）
+# 量子绝对善理论 v33.0（维度：D40）
 
 **[English Version](formal_theory_quantum_absolute_goodness_en.md) | 中文版**
 
-> 基于[核心理论](../core.md) v31.0版本
+> 基于[核心理论](../core.md) v33.0版本
 > 
 > 完整理论框架请参阅[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 
@@ -297,8 +297,8 @@ $$V(L) = \int_{0}^{T} \mathcal{A}(L(t), \mathcal{G}_A) dt$$
 
 ## 参考文献
 
-1. [核心理论](../core.md) v31.0 - 量子经典二元论核心原理
-2. [形式化核心理论](../formal_theory_core.md) v31.0 - 量子经典二元论形式化表达
+1. [核心理论](../core.md) v33.0 - 量子经典二元论核心原理
+2. [形式化核心理论](../formal_theory_core.md) v33.0 - 量子经典二元论形式化表达
 3. [量子绝对真理理论](formal_theory_quantum_absolute_truth.md) (v31.0) - 探讨绝对真理的高维理论
 4. [量子绝对美理论](formal_theory_quantum_absolute_beauty.md) (v31.0) - 探讨绝对美的高维理论
 5. [量子绝对爱理论](formal_theory_quantum_absolute_love.md) (v31.0) - 探讨绝对爱的高维理论 

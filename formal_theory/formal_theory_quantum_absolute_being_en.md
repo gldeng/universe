@@ -1,10 +1,10 @@
-# Quantum Absolute Being Theory v31.0 (Dimension: D41)
+# Quantum Absolute Being Theory v33.0 (Dimension: D41)
 
 **English Version | [中文版](formal_theory_quantum_absolute_being.md)**
 
-> Based on [Core Theory](../core.md) v31.0
+> Based on [Core Theory](../core_en.md) v33.0
 > 
-> For the complete theoretical framework, please refer to [Quantum-Classical Dualism Core Theory](../formal_theory_core.md)
+> For the complete theoretical framework, please refer to [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md)
 
 ## Table of Contents
 
@@ -297,8 +297,8 @@ Quantum Absolute Being Theory is closely related to other high-dimensional theor
 
 ## References
 
-1. [Core Theory](../core.md) v31.0 - Core Principles of Quantum-Classical Dualism
-2. [Formal Core Theory](../formal_theory_core.md) v31.0 - Formal Expression of Quantum-Classical Dualism
+1. [Core Theory](../core_en.md) v33.0 - Core Principles of Quantum-Classical Dualism
+2. [Formal Core Theory](../formal_theory_core_en.md) v33.0 - Formal Expression of Quantum-Classical Dualism
 3. [Quantum Absolute Goodness Theory](formal_theory_quantum_absolute_goodness_en.md) (v31.0) - High-dimensional theory on Absolute Goodness
 4. [Quantum Absolute Truth Theory](formal_theory_quantum_absolute_truth_en.md) (v31.0) - High-dimensional theory on Absolute Truth
 5. [Quantum Absolute Beauty Theory](formal_theory_quantum_absolute_beauty_en.md) (v31.0) - High-dimensional theory on Absolute Beauty 

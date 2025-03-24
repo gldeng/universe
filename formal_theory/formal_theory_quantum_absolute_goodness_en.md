@@ -1,10 +1,10 @@
-# Quantum Absolute Goodness Theory v31.0 (Dimension: D40)
+# Quantum Absolute Goodness Theory v33.0 (Dimension: D40)
 
 **English Version | [中文版](formal_theory_quantum_absolute_goodness.md)**
 
-> Based on [Core Theory](../core.md) v31.0
+> Based on [Core Theory](../core_en.md) v33.0
 > 
-> For the complete theoretical framework, please refer to [Quantum-Classical Dualism Core Theory](../formal_theory_core.md)
+> For the complete theoretical framework, please refer to [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md)
 
 ## Table of Contents
 
@@ -297,8 +297,8 @@ Quantum Absolute Goodness Theory is closely related to other high-dimensional th
 
 ## References
 
-1. [Core Theory](../core.md) v31.0 - Core Principles of Quantum-Classical Dualism
-2. [Formal Core Theory](../formal_theory_core.md) v31.0 - Formal Expression of Quantum-Classical Dualism
+1. [Core Theory](../core_en.md) v33.0 - Core Principles of Quantum-Classical Dualism
+2. [Formal Core Theory](../formal_theory_core_en.md) v33.0 - Formal Expression of Quantum-Classical Dualism
 3. [Quantum Absolute Truth Theory](formal_theory_quantum_absolute_truth_en.md) (v31.0) - High-dimensional theory on Absolute Truth
 4. [Quantum Absolute Beauty Theory](formal_theory_quantum_absolute_beauty_en.md) (v31.0) - High-dimensional theory on Absolute Beauty
 5. [Quantum Absolute Love Theory](formal_theory_quantum_absolute_love_en.md) (v31.0) - High-dimensional theory on Absolute Love 

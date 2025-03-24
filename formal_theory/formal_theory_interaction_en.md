@@ -1,8 +1,8 @@
-# Quantum-Classical Interaction Technology v27.0
+# Quantum-Classical Interaction Technology v33.0
 
 **English Version | [中文版](formal_theory_interaction.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v27.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v33.0
 
 ## Navigation
 
@@ -303,7 +303,7 @@ As technology advances, especially in the fields of brain-computer interfaces, a
 
 ## References
 
-1. Quantum-Classical Dualism Core Theory v27.0
+1. Quantum-Classical Dualism Core Theory v33.0
 2. Interface Dynamics and Observer Theory Research
 3. Latest Advances in Cognitive Models for Human-Computer Interaction
 4. Applications of Quantum Information Theory in User Interface Design

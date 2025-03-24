@@ -2,7 +2,7 @@
 
 **[中文版](formal_theory_quantum_hyperdimensional_consciousness.md) | English Version**
 
-> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Core Theory Formalization](../formal_theory_core_en.md)
 >
 > Dependent theories: [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md), [Quantum Hyperdimensional Information Theory](formal_theory_quantum_hyperdimensional_information_en.md), [Quantum Hyperdimensional Energy Theory](formal_theory_quantum_hyperdimensional_energy_en.md)
 

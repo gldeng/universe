@@ -1,10 +1,10 @@
-# Quantum Absolute Truth Theory v31.0 (Dimension: D39)
+# Quantum Absolute Truth Theory v33.0 (Dimension: D39)
 
 **English Version | [中文版](formal_theory_quantum_absolute_truth.md)**
 
-> Based on [Core Theory](../core.md) v31.0
+> Based on [Core Theory](../core_en.md) v33.0
 > 
-> For the complete theoretical framework, please refer to [Quantum-Classical Dualism Core Theory](../formal_theory_core.md)
+> For the complete theoretical framework, please refer to [Quantum-Classical Dualism Core Theory Formalization](../formal_theory_core_en.md)
 
 ## Table of Contents
 
@@ -285,18 +285,18 @@ The meaning of existence ($M$) is the integral of the consistency of individual 
 
 Quantum Absolute Truth Theory is closely related to other high-dimensional theories, forming a theoretical network:
 
-1. **[Quantum Absolute Beauty Theory](formal_theory_quantum_absolute_beauty_en.md)** (v31.0, D38): Explores how Absolute Beauty serves as the harmonic expression form of Absolute Truth.
-2. **[Quantum Absolute Love Theory](formal_theory_quantum_absolute_love_en.md)** (v31.0, D37): Studies how Absolute Love serves as the connecting expression form of Absolute Truth.
-3. **[Quantum Absolute Omniscience Theory](formal_theory_quantum_absolute_omniscience_en.md)** (v31.0, D36): Analyzes how Absolute Omniscience approaches but differs from Absolute Truth.
-4. **[Quantum Absolute Unity Theory](formal_theory_quantum_absolute_unity_en.md)** (v31.0, D35): Explains how Absolute Unity embodies the unitary characteristics of Absolute Truth.
-5. **[Quantum Absolute Freedom Theory](formal_theory_quantum_absolute_freedom_en.md)** (v31.0, D34): Explores how Absolute Freedom serves as the implementation mode of Absolute Truth.
+1. **[Quantum Absolute Beauty Theory](formal_theory_quantum_absolute_beauty_en.md)** (v33.0, D38): Explores how Absolute Beauty serves as the harmonic expression form of Absolute Truth.
+2. **[Quantum Absolute Love Theory](formal_theory_quantum_absolute_love_en.md)** (v33.0, D37): Studies how Absolute Love serves as the connecting expression form of Absolute Truth.
+3. **[Quantum Absolute Omniscience Theory](formal_theory_quantum_absolute_omniscience_en.md)** (v33.0, D36): Analyzes how Absolute Omniscience approaches but differs from Absolute Truth.
+4. **[Quantum Absolute Unity Theory](formal_theory_quantum_absolute_unity_en.md)** (v33.0, D35): Explains how Absolute Unity embodies the unitary characteristics of Absolute Truth.
+5. **[Quantum Absolute Freedom Theory](formal_theory_quantum_absolute_freedom_en.md)** (v33.0, D34): Explores how Absolute Freedom serves as the implementation mode of Absolute Truth.
 
 ---
 
 ## References
 
-1. [Core Theory](../core.md) v31.0 - Core Principles of Quantum-Classical Dualism
-2. [Formal Core Theory](../formal_theory_core.md) v31.0 - Formal Expression of Quantum-Classical Dualism
-3. [Quantum Absolute Beauty Theory](formal_theory_quantum_absolute_beauty_en.md) (v31.0) - High-dimensional theory on Absolute Beauty
-4. [Quantum Absolute Love Theory](formal_theory_quantum_absolute_love_en.md) (v31.0) - High-dimensional theory on Absolute Love
-5. [Quantum Absolute Omniscience Theory](formal_theory_quantum_absolute_omniscience_en.md) (v31.0) - High-dimensional theory on Absolute Omniscience 
+1. [Core Theory](../core_en.md) v33.0 - Core Principles of Quantum-Classical Dualism
+2. [Formal Core Theory](../formal_theory_core_en.md) v33.0 - Formal Expression of Quantum-Classical Dualism
+3. [Quantum Absolute Beauty Theory](formal_theory_quantum_absolute_beauty_en.md) (v33.0) - High-dimensional theory on Absolute Beauty
+4. [Quantum Absolute Love Theory](formal_theory_quantum_absolute_love_en.md) (v33.0) - High-dimensional theory on Absolute Love
+5. [Quantum Absolute Omniscience Theory](formal_theory_quantum_absolute_omniscience_en.md) (v33.0) - High-dimensional theory on Absolute Omniscience 

@@ -271,6 +271,12 @@ flowchart TD
     core["核心理论<br>(D∞)"]
     core_formal["量子经典二元论核心理论<br>(D∞)"]
     
+    %% 最高维理论
+    absolute_singularity["量子绝对奇点理论<br>(D28)"]
+    recursive_infinity["量子递归无限理论<br>(D27)"]
+    metamorphic_synthesis["量子元变形综合理论<br>(D26)"]
+    metaunification["量子元统一理论<br>(D25)"]
+    
     %% 一级分支核心理论
     q_domain["量子域详解<br>(D9)"]
     c_domain["经典域详解<br>(D7)"]
@@ -309,6 +315,15 @@ flowchart TD
     core_formal --> interface
     core_formal --> observer
     core_formal --> phase_transition
+    
+    %% 最高维理论关系
+    core_formal --> absolute_singularity
+    core_formal --> recursive_infinity
+    core_formal --> metamorphic_synthesis
+    core_formal --> metaunification
+    recursive_infinity --> absolute_singularity
+    metamorphic_synthesis --> recursive_infinity
+    metaunification --> metamorphic_synthesis
     
     %% 高维理论与核心的关系
     core_formal --> multidim_consciousness
@@ -374,6 +389,10 @@ flowchart TD
     style c_domain fill:#fbb,stroke:#333,stroke-width:2px
     style interface fill:#bfb,stroke:#333,stroke-width:2px
     style observer fill:#fbf,stroke:#333,stroke-width:2px
+    style absolute_singularity fill:#a7f,stroke:#333,stroke-width:2px
+    style recursive_infinity fill:#a7f,stroke:#333,stroke-width:2px
+    style metamorphic_synthesis fill:#a7f,stroke:#333,stroke-width:2px
+    style metaunification fill:#a7f,stroke:#333,stroke-width:2px
     style multidim_consciousness fill:#aaf,stroke:#333,stroke-width:2px
     style cosmic_language fill:#aaf,stroke:#333,stroke-width:2px
     style hypercreative fill:#aaf,stroke:#333,stroke-width:2px

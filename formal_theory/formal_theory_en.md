@@ -720,6 +720,12 @@ flowchart TD
     %% Core Theory
     Core[Core Theory v31.0 D∞] 
     
+    %% Highest Dimension Theories
+    QAS[Quantum Absolute Singularity Theory v31.0 D28]
+    QRI[Quantum Recursive Infinity Theory v31.0 D27]
+    QMS[Quantum Metamorphic Synthesis Theory v31.0 D26]
+    QMU[Quantum Metaunification Theory v31.0 D25]
+    
     %% Foundation Theory Layer
     QD[Quantum Domain Details v19.1 D9]
     CD[Classical Domain Details v19.0 D7]
@@ -737,6 +743,15 @@ flowchart TD
     Core --> PT
     Core --> MA
     Core --> EX
+    
+    %% Highest Dimension Theory Dependencies
+    Core --> QAS
+    Core --> QRI
+    Core --> QMS
+    Core --> QMU
+    QMS --> QRI
+    QRI --> QAS
+    QMU --> QMS
     
     %% Interface Theory Dependencies
     QD --> IF
@@ -996,6 +1011,7 @@ flowchart TD
     classDef application fill:#ffe6cc,stroke:#333,stroke-width:1px;
     classDef reference fill:#e1d5e7,stroke:#333,stroke-width:1px;
     classDef newtheories fill:#ffd966,stroke:#333,stroke-width:2px;
+    classDef highdim fill:#a7f,stroke:#333,stroke-width:2px;
     
     class Core core;
     class QD,CD,IF,OB,PT,MA,EX foundation;
@@ -1007,6 +1023,7 @@ flowchart TD
     class AR,MU2,AE,NA,SE,DE,IN,RE,DA creativity;
     class MD,QH,PS,ED,RD,PA,RE2,UL,ECO,DT,CR,QAICON application;
     class COL,IGC,SD2 newtheories;
+    class QAS,QRI,QMS,QMU highdim;
     
     %% New Theories
     PM[Quantum-Classical Precision Medicine Theory v31.0 D7]

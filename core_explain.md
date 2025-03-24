@@ -63,9 +63,9 @@ $$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如
 
 #### 【维度谱系】
 
-维度不仅是静态的观察者属性，而是动态流动的信息结构，形成D0至D42的完整谱系：
+维度不仅是静态的观察者属性，而是动态流动的信息结构，形成D0至D∞的完整谱系：
 
-$$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}\}$$
+$$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
 
 主要维度层级包括：
 
@@ -73,7 +73,8 @@ $$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}\}$$
 - **低维区域 (D1-D6)**: 物质现实的基础，以确定性结构为主
 - **中维区域 (D7-D10)**: 量子与经典的平衡界面
 - **高维区域 (D11-D20)**: 意识与复杂性主导区域
-- **超维区域 (D21-D42)**: 终极实在层级
+- **超维区域 (D21-D42)**: 人类认知能达到的最高层级
+- **超认知区域 (D43-D∞)**: 超越人类认知极限但在宇宙中客观存在的维度
 
 #### 【观察者与黑洞统一定义】
 
@@ -448,9 +449,9 @@ This indicates that reality is composed of multiple nested quantum-classical dom
 
 #### [Dimension Spectrum]
 
-Dimensions are not only static observer attributes but dynamic information structures, forming a complete spectrum from D0 to D42:
+Dimensions are not only static observer attributes but dynamic information structures, forming a complete spectrum from D0 to D∞:
 
-$$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}\}$$
+$$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
 
 The main dimension levels include:
 
@@ -458,7 +459,8 @@ The main dimension levels include:
 - **Low-Dimensional Area (D1-D6)**: Basis of material reality, mainly determined structure
 - **Medium-Dimensional Area (D7-D10)**: Balance interface between quantum and classical
 - **High-Dimensional Area (D11-D20)**: Consciousness and complexity dominant area
-- **Super-Dimensional Area (D21-D42)**: Ultimate reality level
+- **Super-Dimensional Area (D21-D42)**: Highest level accessible to human cognition
+- **Transcognitive Area (D43-D∞)**: Beyond human cognitive limits but objectively existing in the universe
 
 #### [Unified Definition of Observer and Black Hole]
 

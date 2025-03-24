@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism Ethics Theory v1.0
+# Quantum-Classical Dualism Ethics Theory v33.0 (Dimension: D7)
 
 **English Version | [中文版](formal_theory_ethics.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v11.1 and [Quantum-Classical Dualism Formalization](../formal_theory_core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formalization](../formal_theory_core_en.md) v33.0
 
 ## Navigation Links
 - [Core Theory Overview](#core-theory-overview)

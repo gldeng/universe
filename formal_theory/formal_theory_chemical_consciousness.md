@@ -1,8 +1,8 @@
-# 化学意识与感知 v28.0（维度：D8）
+# 化学意识与感知 v33.0（维度：D8）
 
 **[English Version](formal_theory_chemical_consciousness_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v28.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v28.0版本
+> 本理论基于[核心理论](../core.md) v33.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v33.0版本
 
 ## 导航链接
 - [理论核心概述](#理论核心概述)

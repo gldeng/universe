@@ -1,8 +1,8 @@
-# 跨文化哲学整合 v14.0（维度：D8）
+# 跨文化哲学整合 v33.0（维度：D8）
 
 **[English Version](formal_theory_cross_cultural_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v11.1版本
+> 本理论基于[核心理论](../core.md) v33.0版本
 
 ## 导航
 

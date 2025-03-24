@@ -1,8 +1,8 @@
-# Chemical Consciousness and Perception v28.0
+# Chemical Consciousness and Perception v33.0 (Dimension: D8)
 
 **English Version | [中文版](formal_theory_chemical_consciousness.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v28.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v28.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v33.0
 
 ## Navigation Links
 - [Core Theory Overview](#core-theory-overview)

@@ -1,8 +1,8 @@
-# Cross-Cultural Philosophical Integration v14.0
+# Cross-Cultural Philosophical Integration v33.0 (Dimension: D8)
 
 **English Version | [中文版](formal_theory_cross_cultural.md)**
 
-> Based on [Core Theory](../core_en.md) v11.1
+> Based on [Core Theory](../core_en.md) v33.0
 
 ## Navigation
 

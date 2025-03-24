@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism of Human Transcendence v29.0
+# Quantum-Classical Dualism of Human Transcendence v33.0 (Dimension: D9)
 
 **English Version | [中文版](formal_theory_human_transcendence.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v29.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v33.0
 
 ## Navigation Links
 - [Core Theory](../formal_theory_core_en.md)

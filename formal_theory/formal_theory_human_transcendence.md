@@ -1,8 +1,8 @@
-# 人类超越性的量子-经典二元论 v29.0（维度：D9）
+# 人类超越性的量子-经典二元论 v33.0（维度：D9）
 
 **[English Version](formal_theory_human_transcendence_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v29.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v29.0版本
+> 本理论基于[核心理论](../core.md) v33.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v33.0版本
 
 ## 导航链接
 - [核心理论](../formal_theory_core.md)

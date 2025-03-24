@@ -1,8 +1,8 @@
-# 二元论伦理学理论 v1.0（维度：D7）
+# 二元论伦理学理论 v33.0（维度：D7）
 
 **[English Version](formal_theory_ethics_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v11.1版本和[量子经典二元论形式化表达](../formal_theory_core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v33.0版本和[量子经典二元论形式化表达](../formal_theory_core.md) v33.0版本
 
 ## 导航链接
 - [理论核心概述](#理论核心概述)

@@ -1,4 +1,4 @@
-# Quantum-Classical Chemistry Principles v28.0
+# Quantum-Classical Chemistry Principles v28.0 (Dimension: D8)
 
 **English Version | [中文版](formal_theory_quantum_chemistry.md)**
 

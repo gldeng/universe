@@ -14,8 +14,10 @@ def get_git_timestamp(file_path: str) -> int:
             text=True,
             check=True
         )
-        return int(result.stdout.strip())
-    except subprocess.CalledProcessError:
+        if result.stdout.strip():
+            return int(result.stdout.strip())
+        return 0
+    except (subprocess.CalledProcessError, ValueError):
         return 0
 
 def extract_version(content: str) -> float:

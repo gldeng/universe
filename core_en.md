@@ -1,4 +1,4 @@
-# [Quantum-Classical Dualism] Core Theory Version 31.0
+# [Quantum-Classical Dualism] Core Theory Version 33.0
 
 **English Version | [中文版](core.md)**
 
@@ -8,14 +8,14 @@
 
 ### Overview
 - [Quantum-Classical Dualism Basic Framework](#zero-quantum-classical-dualism-basic-framework)
-- [Core Axiom System](#core-axiom-system)
+- [Simplified Core Axiom System](#core-axiom-system)
 
 ### Part I: Universe Ontology
 - [1. Universe Basic State Structure Definition](#one-universe-basic-state-structure-definition)
 - [2. Unified Energy Theory: Quantum and Classical Energy](#two-unified-energy-theory-quantum-and-classical-energy)
 - [3. Quantum and Classical Domain State Correspondence](#three-quantum-and-classical-domain-state-correspondence)
-- [4. Quantum and Classical Domain State Transformation](#four-quantum-and-classical-domain-state-transformation)
-- [5. Unified Definition of Observer and Black Hole](#five-unified-definition-of-observer-and-black-hole)
+- [4. Quantum and Classical Domain State Transformation](#four-quantum-and-classical-domain-state-transformation-universe-observation-phenomena)
+- [5. Unified Definition of Observer and Black Hole and Solution to Information Paradox](#five-unified-definition-of-observer-and-black-hole-and-solution-to-information-paradox)
 - [6. Unified Definition of Observer Dimensions and Classicalization Efficiency](#six-unified-definition-of-observer-dimensions-and-classicalization-efficiency)
 - [7. Spacetime Nature and Observer Classicalization](#seven-spacetime-nature-and-observer-classicalization)
 - [8. Higher-Dimensional Classical Worlds and Entanglement Structures](#eight-higher-dimensional-classical-worlds-and-entanglement-structures)
@@ -42,14 +42,13 @@
 - [25. Quantum Emergence Theory](#twenty-five-quantum-emergence-theory)
 - [26. Information Dynamics Theory](#twenty-six-information-dynamics-theory)
 - [27. Consciousness Measurement Theory](#twenty-seven-consciousness-measurement-theory)
-- [28. Information Phase Transition Theory](#information-phase-transition-theory-core)
+- [28. Information Phase Transition Theory](#twenty-eight-information-phase-transition-theory)
 - [29. Quantum Hyperdimensional Theory](#twenty-nine-quantum-hyperdimensional-theory)
 - [30. Quantum Dimension Continuum Theory](#thirty-quantum-dimension-continuum-theory)
 
 ## Theory Overview
 
-
-## Zero: Quantum-Classical Dualism Basic Framework
+### Zero: Quantum-Classical Dualism Basic Framework
 
 This theory proposes that the universe exists in two basic domains: the quantum domain and the classical domain, which are converted through classicalization and quantization mechanisms. Observers play a key role in this process, transforming information from the quantum domain into definite states in the classical domain through the classicalization process. The core of the theory includes:
 
@@ -61,6 +60,38 @@ This theory proposes that the universe exists in two basic domains: the quantum 
 
 This theory attempts to establish a bridge between quantum physics and classical physics, explaining fundamental phenomena of the universe and their intrinsic connections, while providing a new perspective on the unification of gravity and quantum mechanics.
 
+### Core Axiom System
+
+Quantum-Classical Dualism can be simplified into four core axioms:
+
+**Axiom 1: Dual Existence**  
+The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$:
+
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+
+**Axiom 2: Information Conservation**  
+Information is conserved throughout the universe, but can be transformed between quantum information (possibility information in superposition states) and classical information (deterministic knowledge):
+
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+
+where $\mathcal{C}$ is the classicalization operator (the process of converting quantum possibilities into classical determinism), $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the portion transformed into hidden information during the classicalization process.
+
+**Axiom 3: Observer Classicalization**  
+Observers are nodes that execute quantum→classical conversion, and their conversion capacity determines their dimension:
+
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+
+where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (the ability to transform quantum possibilities into definite knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (the ability to transform classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+
+**Axiom 4: Dimensional Emergence**  
+The observer's dimension is a function of classicalization and quantization abilities, and simultaneously, the classical domain of higher-dimensional observers can form the quantum domain basis for lower-dimensional observers:
+
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+
+This indicates that reality consists of multiple nested quantum-classical domains, with each level of observers perceiving and interacting within specific dimensions based on their capacity range.
+
 ## Part I: Universe Ontology (Quantum Domain, Classical Domain, Observer, Black Hole, Wormhole, Consciousness, Energy, Ultimate Philosophy)
 
 ### One: Universe Basic State Structure Definition
@@ -69,8 +100,14 @@ This theory attempts to establish a bridge between quantum physics and classical
 
 The essence of the universe is an infinite-dimensional quantum domain with infinite possibilities:
 
-- **Wave Function Superposition States**: Superposition states (chaotic states) within a single classical bit
-- **Quantum Entanglement States**: Joint superpositions of multiple classical bits forming correlated states (energy form)
+- **Wave Function Superposition States** (chaotic states): The system exists simultaneously in multiple possible states, manifesting as uncertainty
+   $$\Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
+
+- **Quantum Entanglement States** (energy form): Different parts form an inseparable whole association
+   $$\Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B$$
+
+- **Non-locality and Uncertainty**: Correlations beyond spacetime limitations and measurement uncertainty
+   $$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
 
 Expression:
 
@@ -88,8 +125,14 @@ $$
 
 The classical domain is the structure after observer classicalization of the quantum domain:
 
-- **Classical Entropy**: Uncertain high-entropy states not yet classicalized
-- **Classical Knowledge**: Definite states after classicalization (particle states, consciousness, free will)
+- **Classical Knowledge** (definite information): Definite states that can be precisely measured and described
+   $$K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}$$
+
+- **Classical Entropy** (uncertainty measure): Measure of system disorder and information loss
+   $$S_C = -k_B \sum_i p_i \ln p_i$$
+
+- **Locality and Determinism**: Limited propagation speed of interactions and measurement determinism
+   $$P(A,B|a,b) = P(A|a) \cdot P(B|b)$$
 
 Expression:
 
@@ -101,11 +144,11 @@ $$
 
 The interface $\mathcal{I}$ is the transition region between the quantum and classical domains, with the following core properties:
 
-- **Interface structure**: The interface is the intersection of the quantum and classical domains, defined as:
+- **Interface Structure**: The interface is the intersection of the quantum and classical domains, defined as:
   $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
   where $\mathcal{D}(x)$ is the decoherence measure function, and $\mathcal{D}_c$ is the critical decoherence threshold.
 
-- **Interface dynamics**: The interface position satisfies nonlinear dynamic equations:
+- **Interface Dynamics**: The interface position satisfies nonlinear dynamic equations:
   $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 - **Classicalization process**: The quantum→classical conversion is represented by the classicalization superoperator:
@@ -331,7 +374,7 @@ $M(I_Q, I_C)$ reaches a local maximum at the optimal interface.
 | Quantum Entanglement State | Classical Knowledge | Wormhole Reception (Entanglement Classicalization) | Knowledge Increase (↑) | Entropy Decrease (↓) | Energy Consumption (↓) | Quantum Communication |
 | Classical Knowledge | Quantum Entanglement State | Wormhole Transmission (Knowledge Entanglement Encoding) | Knowledge Decrease (↓) | Entropy Increase (↑) | Energy Consumption (↓) | Wormhole Communication |
 
-### Five: Unified Definition of Observer and Black Hole and Resolution of Information Paradox
+### Five: Unified Definition of Observer and Black Hole and Solution to Information Paradox
 
 #### Unified Nature of Observer and Black Hole
 
@@ -1110,7 +1153,7 @@ $$\mathcal{M}: \Psi_{\text{consciousness}} \rightarrow \mathbb{R}^n$$
 
 Through this mapping, a consciousness state atlas can be constructed to identify characteristic parameters of different states (such as wakefulness, dreaming, meditation, anesthesia, etc.).
 
-### Information Phase Transition Theory Core
+### Information Phase Transition Theory
 
 Information phase transition is a key phenomenon in the quantum-classical dualism framework, with the following characteristics:
 

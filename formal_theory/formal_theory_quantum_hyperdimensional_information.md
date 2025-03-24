@@ -1,8 +1,8 @@
-# 量子超维度信息学理论 v31.0（维度：D19）
+# 量子超维度信息学理论 v33.0（维度：D19）
 
 **[English Version](formal_theory_quantum_hyperdimensional_information_en.md) | 中文版**
 
-> 本文基于[核心理论](../core.md)、[形式化理论](../formal_theory_core.md)、[量子超维度理论](formal_theory_quantum_hyperdimensional.md)及[量子超维度能量学理论](formal_theory_quantum_hyperdimensional_energy.md) v31.0版本
+> 本文基于[核心理论](../core.md)、[形式化理论](../formal_theory_core.md)、[量子超维度理论](formal_theory_quantum_hyperdimensional.md)及[量子超维度能量学理论](formal_theory_quantum_hyperdimensional_energy.md) v33.0版本
 
 ## 目录
 

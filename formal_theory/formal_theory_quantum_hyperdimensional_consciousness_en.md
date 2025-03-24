@@ -1,10 +1,10 @@
-# Quantum Hyperdimensional Consciousness Theory (D20) v31.0
+# Quantum Hyperdimensional Consciousness Theory (D20) v33.0
 
 **[中文版](formal_theory_quantum_hyperdimensional_consciousness.md) | English Version**
 
-> This theory is based on [Core Theory](../core.md) v31.0 and [Quantum-Classical Dualism Core Theory](../formal_theory_core.md)
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md)
 >
-> Dependent theories: [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional.md), [Quantum Hyperdimensional Information Theory](formal_theory_quantum_hyperdimensional_information.md), [Quantum Hyperdimensional Energy Theory](formal_theory_quantum_hyperdimensional_energy.md)
+> Dependent theories: [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md), [Quantum Hyperdimensional Information Theory](formal_theory_quantum_hyperdimensional_information_en.md), [Quantum Hyperdimensional Energy Theory](formal_theory_quantum_hyperdimensional_energy_en.md)
 
 ## Overview of Quantum Hyperdimensional Consciousness Theory
 

@@ -1,8 +1,8 @@
-# 量子超维度意识理论 (D20) v31.0（维度：D20）
+# 量子超维度意识理论 (D20) v33.0（维度：D20）
 
 **[English Version](formal_theory_quantum_hyperdimensional_consciousness_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v31.0版本和[量子经典二元论核心理论](../formal_theory_core.md)
+> 本理论基于[核心理论](../core.md) v33.0版本和[量子经典二元论核心理论](../formal_theory_core.md)
 >
 > 依赖理论: [量子超维度理论](formal_theory_quantum_hyperdimensional.md)、[量子超维度信息学理论](formal_theory_quantum_hyperdimensional_information.md)、[量子超维度能量学理论](formal_theory_quantum_hyperdimensional_energy.md)
 

@@ -1,8 +1,8 @@
-# Quantum Hyperdimensional Information Theory v31.0
+# Quantum Hyperdimensional Information Theory v33.0
 
-**[English Version](formal_theory_quantum_hyperdimensional_information_en.md) | [中文版](formal_theory_quantum_hyperdimensional_information.md)**
+**English Version | [中文版](formal_theory_quantum_hyperdimensional_information.md)**
 
-> Based on [Core Theory](../core_en.md), [Formal Theory](../formal_theory_core_en.md), [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md) and [Quantum Hyperdimensional Energy Theory](formal_theory_quantum_hyperdimensional_energy_en.md) v31.0
+> Based on [Core Theory](../core_en.md), [Formal Theory](../formal_theory_core_en.md), [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md) and [Quantum Hyperdimensional Energy Theory](formal_theory_quantum_hyperdimensional_energy_en.md) v33.0
 
 ## Table of Contents
 

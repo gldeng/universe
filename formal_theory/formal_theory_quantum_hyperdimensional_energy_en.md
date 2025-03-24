@@ -1,8 +1,8 @@
-# Quantum Hyperdimensional Energy Theory v31.0
+# Quantum Hyperdimensional Energy Theory v33.0
 
 **English Version | [中文版](formal_theory_quantum_hyperdimensional_energy.md)**
 
-> Based on [Core Theory](../core_en.md), [Formal Theory](../formal_theory_core_en.md), and [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md) v31.0
+> Based on [Core Theory](../core_en.md), [Formal Theory](../formal_theory_core_en.md), and [Quantum Hyperdimensional Theory](formal_theory_quantum_hyperdimensional_en.md) v33.0
 
 ## Table of Contents
 

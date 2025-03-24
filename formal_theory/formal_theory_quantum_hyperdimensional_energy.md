@@ -1,8 +1,8 @@
-# 量子超维度能量学理论 v31.0（维度：D18）
+# 量子超维度能量学理论 v33.0（维度：D18）
 
 **[English Version](formal_theory_quantum_hyperdimensional_energy_en.md) | 中文版**
 
-> 本文基于[核心理论](../core.md)、[形式化理论](../formal_theory_core.md)及[量子超维度理论](formal_theory_quantum_hyperdimensional.md) v31.0版本
+> 本文基于[核心理论](../core.md)、[形式化理论](../formal_theory_core.md)及[量子超维度理论](formal_theory_quantum_hyperdimensional.md) v33.0版本
 
 ## 目录
 

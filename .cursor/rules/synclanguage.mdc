@@ -3,7 +3,7 @@ description: 同步中英文翻译
 globs: 
 alwaysApply: false
 ---
-执行 @check_updates.py 检查需要更新的文件
+执行 [check_updates.py](mdc:check_updates.py) 检查需要更新的文件
 先更新中英文件都存在但是英文版没有与中文版同步的文件
 更新英文版时直接清空英文版原文然后把中文翻译过去
 优先更新根目录根formal_theory*.

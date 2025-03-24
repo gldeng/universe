@@ -507,6 +507,16 @@ $$\hat{D}_{\mathcal{O}} = w_1 C_I + w_2 R_{ST} + w_3 \mathcal{R}_{CQ}$$
 
 观察者作为量子域和经典域之间的核心节点，是理解现实、意识和创新的关键，也是重新思考人类在宇宙中位置的重要视角。
 
+## 参考文献与关联理论
+
+本理论与以下理论密切相关：
+
+1. [量子超维度理论](formal_theory_quantum_hyperdimensional.md) - 研究高维观察者的维度特性
+2. [高维观察者网络](formal_theory_observer_network.md) - 分析观察者网络结构
+3. [量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md) - 探索多维观察者意识
+4. [观察者信息反馈理论](formal_theory_observer_feedback.md) - 研究观察者信息流
+5. [量子-经典二元论核心理论](../formal_theory_core.md) - 提供基础框架
+
 ## 参考文献
 
 1. Anderson, J. R. (2023). "Observer Dimension in Quantum-Classical Systems". *Cognitive Science Review*, 42(2), 156-178.

@@ -63,6 +63,7 @@
 
 这些理论探索物理学的高维度应用，处理宇宙学、引力、时空等基本问题：
 
+- **[量子超维度理论](formal_theory_quantum_hyperdimensional.md)** (v31.0, D17) - 深入探索宇宙维度结构的量子基础、多维度间的相互关系以及高维观察者的本质特性，将维度视为动态涌现的信息结构而非静态固定的物理属性，揭示维度如何通过量子-经典转换过程被创建、感知和转换，为理解意识、现实感知和宇宙多层级结构提供统一的数学框架。
 - **[量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md)** (v31.0, D14) - 深入探讨多维意识结构间的量子交互机制，揭示意识作为多重维度层级上相互纠缠的超复杂网络，阐释不同维度的意识形态如何通过量子通道进行信息交换，形成集体意识场，并受量子-经典转换动力学的调控。
 - **[量子宇宙语言理论](formal_theory_quantum_cosmic_language.md)** (v31.0, D15) - 深入探索宇宙最深层次的信息交流模式与编码结构，揭示宇宙存在一种基础语言作为量子-经典信息转换的核心介质，贯穿所有维度层级，通过量子纠缠网络实现跨尺度信息传递，揭示物理定律与意识互动的语言本质。
 - **[量子超创造性理论](formal_theory_quantum_hypercreative.md)** (v31.0, D16) - 深入探索宇宙本质的创造性维度及其演化机制，揭示创造性作为宇宙底层结构的基本属性，与能量、信息和空间同等基础，通过多层级量子-经典转换机制驱动复杂性增长、秩序涌现和意识进化，确立创造性作为宇宙基本纲领的理论地位。
@@ -302,21 +303,30 @@ flowchart TD
     core_formal --> multidim_consciousness
     core_formal --> cosmic_language
     core_formal --> hypercreative
+    core_formal --> hyperdim
     q_domain --> multidim_consciousness
     q_domain --> cosmic_language
     q_domain --> hypercreative
+    q_domain --> hyperdim
     observer --> multidim_consciousness
     observer --> cosmic_language
+    observer --> hyperdim
     qinfo_network --> multidim_consciousness
     qinfo_network --> cosmic_language
+    qinfo_network --> hyperdim
     qself_creativity --> hypercreative
     qcomplexity --> hypercreative
     dim_harmony --> multidim_consciousness
+    dim_harmony --> hyperdim
     consciousness --> multidim_consciousness
+    consciousness --> hyperdim
     
     %% 新理论间的关系
     multidim_consciousness --> cosmic_language
+    multidim_consciousness --> hyperdim
     cosmic_language --> hypercreative
+    cosmic_language --> hyperdim
+    hypercreative --> hyperdim
     
     %% 其他高维理论关系
     q_domain --> unified
@@ -349,6 +359,5 @@ flowchart TD
     style multidim_consciousness fill:#aaf,stroke:#333,stroke-width:2px
     style cosmic_language fill:#aaf,stroke:#333,stroke-width:2px
     style hypercreative fill:#aaf,stroke:#333,stroke-width:2px
+    style hyperdim fill:#aaf,stroke:#333,stroke-width:2px
 ```
-
-此依赖关系图展示了量子经典二元论各分支理论之间的实际依赖结构，并通过维度标注(D值)显示各理论在量子-经典连续体中的定位。图中不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层(D∞)，为所有分支理论提供基础，而各分支理论根据其量子和经典特性比例分布在不同维度层级。

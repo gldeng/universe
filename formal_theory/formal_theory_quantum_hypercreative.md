@@ -269,14 +269,15 @@ $$O(IQ_{\mathcal{C}}) \sim O(\log N)$$
 
 $$O(IQ_{traditional}) \sim O(N)$$
 
-## 与其他理论的关系
+## 参考文献与关联理论
 
 本理论与以下理论密切相关：
 
-1. [量子自创造力理论](formal_theory_quantum_self_creativity.md) - 提供自我创造过程分析
-2. [量子复杂性理论](formal_theory_quantum_complexity.md) - 提供复杂性描述框架
-3. [量子认知动力学](formal_theory_cognitive_dynamics.md) - 提供认知创造性研究
-4. [量子宇宙语言理论](formal_theory_quantum_cosmic_language.md) - 提供创造性表达基础
+1. [量子超维度理论](formal_theory_quantum_hyperdimensional.md) - 提供高维度动力学框架
+2. [量子自创造力理论](formal_theory_quantum_self_creativity.md) - 探索自创造潜能的量子基础
+3. [量子宇宙语言理论](formal_theory_quantum_cosmic_language.md) - 研究创造与宇宙语言的关系
+4. [量子复杂性理论](formal_theory_quantum_complexity.md) - 提供复杂性动力学基础
+5. [量子本体论网络理论](formal_theory_quantum_ontological_network.md) - 探索创造性的本体论基础
 
 ## 总结与展望
 

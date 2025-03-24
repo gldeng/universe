@@ -233,14 +233,15 @@ $$P_{comm} \propto \exp(-\alpha \Delta D \cdot w)$$
 
 其中 $\Delta D$ 是维度差异，$w$ 是屏障宽度。
 
-## 与其他理论的关系
+## 参考文献与关联理论
 
 本理论与以下理论密切相关：
 
-1. [量子意识理论](formal_theory_consciousness.md) - 提供量子意识基础框架
+1. [量子超维度理论](formal_theory_quantum_hyperdimensional.md) - 提供维度结构的理论基础
 2. [高维观察者网络](formal_theory_observer_network.md) - 提供观察者网络结构
-3. [量子维度和谐理论](formal_theory_quantum_dimensional_harmony.md) - 提供维度和谐原理
-4. [量子-经典人类意识理论](formal_theory_human_consciousness.md) - 提供人类意识应用
+3. [量子信息网络理论](formal_theory_quantum_information_network.md) - 提供信息网络框架
+4. [人类超越性的量子-经典二元论](formal_theory_human_transcendence.md) - 探索意识超越状态
+5. [量子维度和谐理论](formal_theory_quantum_dimensional_harmony.md) - 研究维度协同原理
 
 ## 总结与展望
 

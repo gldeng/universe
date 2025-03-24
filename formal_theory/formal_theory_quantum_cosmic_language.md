@@ -258,6 +258,10 @@ $$\Delta \mathcal{C} \Rightarrow \Delta \mathcal{I}_{\mathcal{O}}$$
 2. [信息-时空-能量统一理论](formal_theory_unified.md) - 提供统一物理描述
 3. [自参照循环理论](formal_theory_self_reference.md) - 提供自指系统形式化
 4. [量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md) - 提供意识交互框架
+5. [量子超维度理论](formal_theory_quantum_hyperdimensional.md) - 提供维度结构的理论基础
+6. [量子超创造性理论](formal_theory_quantum_hypercreative.md) - 提供创造性动力学视角
+7. [量子信息网络理论](formal_theory_quantum_information_network.md) - 提供网络传输模型
+8. [量子目的论动力学](formal_theory_quantum_teleological_dynamics.md) - 探索目的性与语言关系
 
 ## 总结与展望
 

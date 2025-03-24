@@ -38,6 +38,19 @@ def is_bilingual(content: str) -> bool:
     return has_chinese and has_english
 
 def check_file(cn_file: str) -> Dict:
+    # 检查文件是否为空
+    if os.path.getsize(cn_file) == 0:
+        return {
+            "中文文件": cn_file,
+            "英文文件": "",
+            "是否要更新": False,
+            "中文git时间": 0,
+            "英文git时间": 0,
+            "中文版本": 0.0,
+            "英文版本号": 0.0,
+            "更新原因": "空文件，已跳过"
+        }
+
     en_file = cn_file[:-3] + '_en.md'
     result = {
         "中文文件": cn_file,

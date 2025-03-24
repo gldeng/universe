@@ -2,6 +2,7 @@ import os
 import re
 import json
 import subprocess
+import argparse
 from datetime import datetime
 from typing import Dict, List, Optional, Tuple
 
@@ -23,8 +24,8 @@ def extract_version(content: str) -> float:
     if cn_match:
         return float(cn_match.group(1))
     
-    # 查找英文版本号
-    en_match = re.search(r'Version(\d+\.\d+)', content)
+    # 查找英文版本号 (考虑 Version 和数字之间可能有空格)
+    en_match = re.search(r'Version\s*(\d+\.\d+)', content)
     if en_match:
         return float(en_match.group(1))
     
@@ -107,12 +108,19 @@ def check_file(cn_file: str) -> Dict:
     return result
 
 def main():
+    # 添加命令行参数解析
+    parser = argparse.ArgumentParser(description='检查文档更新状态')
+    parser.add_argument('--check-no-version', action='store_true',
+                      help='将没有版本号的文件标记为需要更新')
+    args = parser.parse_args()
+
     results = []
     stats = {
         "总文件数": 0,
         "需要更新数": 0,
         "双语文件数": 0,
-        "缺少英文版本数": 0
+        "缺少英文版本数": 0,
+        "无版本号文件数": 0
     }
     
     # 遍历所有.md文件
@@ -121,18 +129,29 @@ def main():
             if file.endswith('.md') and not file.endswith('_en.md'):
                 file_path = os.path.join(root, file)
                 result = check_file(file_path)
-                results.append(result)
+                
+                # 检查是否没有版本号且需要标记
+                if args.check_no_version and result["中文版本"] == 0.0:
+                    result["是否要更新"] = True
+                    result["更新原因"] = "缺少版本号"
+                    stats["无版本号文件数"] += 1
                 
                 stats["总文件数"] += 1
                 if result["是否要更新"]:
+                    results.append(result)  # 只添加需要更新的文件到结果列表
                     stats["需要更新数"] += 1
                 if not result["英文文件"] and not result["是否要更新"]:
                     stats["双语文件数"] += 1
                 if not result["英文文件"] and result["是否要更新"]:
                     stats["缺少英文版本数"] += 1
     
-    # 输出结果
-    print(json.dumps(results, ensure_ascii=False, indent=2))
+    # 只输出需要更新的文件
+    if results:
+        print("需要更新的文件:")
+        print(json.dumps(results, ensure_ascii=False, indent=2))
+    else:
+        print("没有需要更新的文件")
+    
     print("\n统计信息:")
     print(json.dumps(stats, ensure_ascii=False, indent=2))
 

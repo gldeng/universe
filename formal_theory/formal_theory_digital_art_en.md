@@ -1,8 +1,8 @@
-# Quantum-Classical Digital Art Theory v29.0
+# Quantum-Classical Digital Art Theory v33.0
 
 **English Version | [中文版](formal_theory_digital_art.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v29.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v33.0
 
 ## Navigation Links
 - [Core Theory](../formal_theory_core_en.md)

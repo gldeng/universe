@@ -1,8 +1,8 @@
-# Quantum-Classical Mathematical Foundations v29.0
+# Quantum-Classical Mathematical Foundations v33.0
 
 **English Version | [中文版](formal_theory_mathematics.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v29.0 and [Formal Expression of Quantum-Classical Dualism](../formal_theory_core_en.md) v29.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Formal Expression of Quantum-Classical Dualism](../formal_theory_core_en.md) v33.0
 
 ## Core Theory Overview
 

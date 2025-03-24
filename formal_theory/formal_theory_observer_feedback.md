@@ -1,8 +1,8 @@
-# 观察者反馈理论 v11.1（维度：D8）
+# 观察者反馈理论 v33.0（维度：D8）
 
 **[English Version](formal_theory_observer_feedback_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v11.1版本，[量子经典二元论形式化表达](../formal_theory_core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v33.0版本，[量子经典二元论形式化表达](../formal_theory_core.md) v33.0版本
 
 ## 导航链接
 

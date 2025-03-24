@@ -1,8 +1,8 @@
-# Observer Feedback Theory v11.1
+# Observer Feedback Theory v33.0
 
 **English Version | [中文版](formal_theory_observer_feedback.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v11.1, [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v33.0, [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v33.0
 
 ## Navigation Links
 

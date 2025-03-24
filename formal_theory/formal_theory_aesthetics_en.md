@@ -1,8 +1,8 @@
-# Quantum-Classical Aesthetics Theory v1.0
+# Quantum-Classical Aesthetics Theory v33.0
 
 **English Version | [中文版](formal_theory_aesthetics.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v11.1 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v27.0
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v33.0
 
 ## Table of Contents
 - [Theory Overview](#theory-overview)

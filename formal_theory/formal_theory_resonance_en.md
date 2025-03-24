@@ -1,4 +1,4 @@
-# Quantum-Classical Resonance Theory v26.0
+# Quantum-Classical Resonance Theory v33.0
 
 **English Version | [中文版](formal_theory_resonance.md)**
 
@@ -20,7 +20,7 @@
 - [Experimental Validation Predictions](#experimental-validation-predictions)
 - [Technological Application Potential](#technological-application-potential)
 
-> This theory is based on [Core Theory](../core_en.md) v11.1, [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md) v26.0.
+> This theory is based on [Core Theory](../core_en.md) v33.0 and [Quantum-Classical Dualism Formal Expression](../formal_theory_core_en.md) v33.0
 
 ## Theoretical Foundation
 

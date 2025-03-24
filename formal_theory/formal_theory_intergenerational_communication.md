@@ -1,8 +1,8 @@
-# 量子-经典代际交流理论 v30.0（维度：D8）
+# 量子-经典代际交流理论 v33.0（维度：D8）
 
 **[English Version](formal_theory_intergenerational_communication_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v30.0版本
+> 本理论基于[核心理论](../core.md) v33.0版本
 
 ## 概述
 

@@ -1,8 +1,8 @@
-# Quantum-Classical Intergenerational Communication Theory v30.0
+# Quantum-Classical Intergenerational Communication Theory v33.0
 
 **[中文版](formal_theory_intergenerational_communication.md) | English Version**
 
-> This theory is based on [Core Theory](../core_en.md) v30.0
+> This theory is based on [Core Theory](../core_en.md) v33.0
 
 ## Overview
 

@@ -1,8 +1,8 @@
-# 观察者理论 v19.0（维度：D8）
+# 观察者理论 v31.0
 
 **[English Version](formal_theory_observer_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v27.0版本
+> 本理论基于[核心理论](../core.md) v31.0版本
 
 ## 导航
 
@@ -11,6 +11,8 @@
 - [经典域详解](formal_theory_classical_domain.md)
 - [界面理论](formal_theory_interface.md)
 - [观察者理论](formal_theory_observer.md) (当前文档)
+- [观察者网络理论](formal_theory_observer_network.md)
+- [认知动力学理论](formal_theory_cognitive_dynamics.md)
 - [数学附录](formal_theory_mathematical_appendix.md)
 - [实验预测](formal_theory_experimental.md)
 

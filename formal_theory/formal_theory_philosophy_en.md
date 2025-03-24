@@ -1,8 +1,8 @@
-# Philosophical Foundations of Dualism v27.0
+# Philosophical Foundations of Dualism v33.0
 
 **English Version | [中文版](formal_theory_philosophy.md)**
 
-> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v27.0
+> Based on [Quantum-Classical Dualism](../formal_theory_core_en.md) v33.0
 
 ## Overview of Philosophical Foundations
 
@@ -332,7 +332,7 @@ By placing philosophical concepts within the framework of quantum-classical tran
 
 ## References
 
-1. Quantum-Classical Dualism Core Theory v27.0
+1. Quantum-Classical Dualism Core Theory v33.0
 2. Comparative Studies of Eastern and Western Philosophy
 3. Philosophical Analysis of Modern Physics
 4. Cognitive Science and Philosophical Thought

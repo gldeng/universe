@@ -170,6 +170,16 @@ $$|\Psi_{con}\rangle = \sum_i c_i |\Psi_i\rangle$$
 3. [量子引力与时空涌现](formal_theory_gravity_spacetime.md) - 探讨时空维度结构
 4. [量子涌现理论](formal_theory_quantum_emergence.md) - 研究高维结构涌现
 
+## 参考文献与关联理论
+
+本理论与以下理论密切相关：
+
+1. [量子超维度理论](formal_theory_quantum_hyperdimensional.md) - 提供维度的深层理论框架
+2. [量子信息网络理论](formal_theory_quantum_information_network.md) - 分析信息交互动力学
+3. [量子和谐理论](formal_theory_quantum_harmonics.md) - 研究量子和谐共振现象
+4. [量子涌现理论](formal_theory_quantum_emergence.md) - 研究高维结构涌现
+5. [量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md) - 研究维度间意识交互
+
 ## 总结与展望
 
 量子维度和谐理论提供了理解多维度宇宙结构和动力学的全新框架，揭示了维度间信息流动和共振机制。该理论不仅解释了宇宙多层级结构的形成，还为理解高维意识状态和量子信息处理提供了理论基础。

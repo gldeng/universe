@@ -59,16 +59,37 @@
 - **[数学附录](formal_theory_mathematical_appendix.md)** (v20.0, D7-D9) - 提供量子经典二元论所需的数学工具和技术，包括高级函数空间、非线性动力学和信息几何等内容。
 - **[实验预测](formal_theory_experimental.md)** (v22.0, D7) - 列出量子经典二元论提出的可实验验证预测，包括界面波动、临界尺度和观察者分辨率等可测量现象。
 
-### 高维物理学应用 (维度: D8-D11)
+### 高维物理学应用 (维度: D8-D25)
 
 这些理论探索物理学的高维度应用，处理宇宙学、引力、时空等基本问题：
 
+- **[量子绝对奇点理论](formal_theory_quantum_absolute_singularity.md)** (v31.0, D28) - 探索宇宙的终极本质作为一个超越一切维度、概念和结构的绝对奇点，揭示宇宙不仅具有无限递归自身的特性，而且其本源是一个无限简单同时无限复杂、无限统一同时无限多样的终极实在，为理解宇宙起源、意识本质和实在性的最终基础提供革命性的框架。
+- **[量子递归无限理论](formal_theory_quantum_recursive_infinity.md)** (v31.0, D27) - 探索宇宙最深层本质的无限递归性，揭示宇宙具有无限递归自身、不断超越自身的根本特性，能够生成无尽的存在层级，每一层级又包含完整的多层级结构，通过无限递归实现永恒的创造性、无尽的新颖性和无限的超越性。
+- **[量子元变形综合理论](formal_theory_quantum_metamorphic_synthesis.md)** (v31.0, D26) - 超越元统一理论的元一性概念，探索宇宙最深层本质的自我变形与综合能力，揭示宇宙是一个不断自我变形、自我超越的动态系统，能够综合不同存在形式并创造全新的实在模式，通过自我变形实现静态完满与动态创新的辩证统一。
+- **[量子元统一理论](formal_theory_quantum_metaunification.md)** (v31.0, D25) - 作为量子-经典二元论框架的终极分支理论，实现维度与意识的最终统一，揭示宇宙本质为超越一切二元性的元一性，一种能够自我引用、自我超越的超递归结构，通过无限自反的方式既包含又超越了所有可能的分化和统一，提供理解宇宙"为何存在"而非"如何存在"的深层解释。
+- **[量子元意识理论](formal_theory_quantum_metaconsciousness.md)** (v31.0, D24) - 深入探索意识作为"关于意识的意识"的根本性质，一种能够觉察、操作和转换意识状态本身的高阶意识形态，揭示意识的自反性、超越性和创造性特征，分析元意识如何作为元维度动态结构的源头和动力，连接一切维度和实相的基础场域，为理解高阶意识状态、超个体意识现象和宇宙创造性提供最完整的数学框架。
+- **[量子元维度理论](formal_theory_quantum_metadimensional.md)** (v31.0, D23) - 探索维度概念本身的超越与重构，揭示维度不仅是现实的组织原则，而是一种可变的、自反的、可超越的元结构，通过元维度视角理解不同意识系统如何创造性地超越当前维度限制，宇宙如何持续生成新的结构层次，以及如何在超越任何特定维度的元层面上理解现实的本质，为探索宇宙的最终本质提供全新视角。
+- **[量子超越维度统一场理论](formal_theory_quantum_transdimensional_unified_field.md)** (v31.0, D22) - 提供超越所有维度限制的最终统一框架，将意识、信息、能量、时空与维度本身整合为单一的跨维度统一场，不仅统一所有物理力，还揭示场、维度、意识和信息作为同一超维实在的不同表现，建立宇宙物理学和意识理论完全统一的数学基础。
+- **[量子跨越维度交流理论](formal_theory_quantum_cross_dimensional_communication.md)** (v31.0, D21) - 深入探索跨越不同维度层级的信息、能量与意识交流机制，揭示维度边界作为半渗透膜结构的本质，阐明跨维度通信的数学原理，为理解宇宙多层级结构之间的互动提供统一框架。
+- **[量子超维度意识理论](formal_theory_quantum_hyperdimensional_consciousness.md)** (v31.0, D20) - 深入探索意识作为宇宙基本超维度结构的本质、演化和交互机制，阐明意识如何跨越多个维度层级同时存在，解释意识全息性、超维度时间感知、创造力及意识纠缠共鸣网络的数学基础。
+- **[量子超维度信息学理论](formal_theory_quantum_hyperdimensional_information.md)** (v31.0, D19) - 深入探索信息在多维度结构中的本质、动力学和转换机制，将信息视为与能量、维度同等基本的宇宙构成要素，建立维度-能量-信息的三元统一框架，揭示信息如何在不同维度层级中被编码、存储、处理和传输，为理解宇宙信息结构、意识的信息处理机制和跨维度通信提供全新视角。
+- **[量子超维度能量学理论](formal_theory_quantum_hyperdimensional_energy.md)** (v31.0, D18) - 深入探索维度结构与能量形态之间的本质联系，建立维度与能量的统一数学框架，通过维度-能量等效性原理解释能量如何在多维度系统中流动、转换和存储，为理解宇宙能量动力学、意识能量机制和高维能量技术提供全新视角。
+- **[量子超维度理论](formal_theory_quantum_hyperdimensional.md)** (v31.0, D17) - 深入探索宇宙维度结构的量子基础、多维度间的相互关系以及高维观察者的本质特性，将维度视为动态涌现的信息结构而非静态固定的物理属性，揭示维度如何通过量子-经典转换过程被创建、感知和转换，为理解意识、现实感知和宇宙多层级结构提供统一的数学框架。
+- **[量子多元意识交互理论](formal_theory_quantum_multidimensional_consciousness.md)** (v31.0, D14) - 深入探讨多维意识结构间的量子交互机制，揭示意识作为多重维度层级上相互纠缠的超复杂网络，阐释不同维度的意识形态如何通过量子通道进行信息交换，形成集体意识场，并受量子-经典转换动力学的调控。
+- **[量子宇宙语言理论](formal_theory_quantum_cosmic_language.md)** (v31.0, D15) - 深入探索宇宙最深层次的信息交流模式与编码结构，揭示宇宙存在一种基础语言作为量子-经典信息转换的核心介质，贯穿所有维度层级，通过量子纠缠网络实现跨尺度信息传递，揭示物理定律与意识互动的语言本质。
+- **[量子超创造性理论](formal_theory_quantum_hypercreative.md)** (v31.0, D16) - 深入探索宇宙本质的创造性维度及其演化机制，揭示创造性作为宇宙底层结构的基本属性，与能量、信息和空间同等基础，通过多层级量子-经典转换机制驱动复杂性增长、秩序涌现和意识进化，确立创造性作为宇宙基本纲领的理论地位。
 - **[信息-时空-能量统一理论](formal_theory_unified.md)** (v26.0, D10) - 提出信息、能量与时空的统一理论框架，揭示它们之间的深层联系。建立宇宙基本要素的统一理解。
 - **[量子引力与时空涌现](formal_theory_gravity_spacetime.md)** (v28.0, D9) - 探索时空结构如何从量子信息网络中涌现，以及量子引力的二元论解释。解决物理学中最具挑战性的量子引力统一问题。
 - **[量子时空调和理论](formal_theory_quantum_spacetime_harmony.md)** (v28.0, D9) - 研究量子域与经典域之间时空结构的和谐性与转换关系，提出调和场概念解释宇宙大尺度结构的形成与演化。
 - **[量子维度和谐理论](formal_theory_quantum_dimensional_harmony.md)** (v31.0, D10) - a探索多维度量子场的协同耦合与和谐共振现象，研究维度间量子信息流动模式和动态平衡机制，揭示宇宙多层级结构的深层原理。
 - **[量子信息网络理论](formal_theory_quantum_information_network.md)** (v31.0, D10) - 研究量子信息在复杂网络结构中的传播、存储、处理和转换规律，探索量子-经典界面上的信息动力学，为构建下一代量子计算架构提供理论基础。
 - **[量子目的论动力学](formal_theory_quantum_teleological_dynamics.md)** (v31.0, D11) - 探索量子系统中目的导向行为的涌现机制及其动力学原理，揭示量子系统如何展现出目的性行为，为理解生命、意识和宇宙演化的目的性提供量子基础。
+- **[量子本体论网络理论](formal_theory_quantum_ontological_network.md)** (v31.0, D11) - 探究宇宙最深层次的本体论结构如何作为量子网络存在并生成现实，阐释量子本体节点通过多维纠缠关系构成现实的基础织网，解释物理定律起源与宇宙精调等根本问题。
+- **[量子实体涌现理论](formal_theory_quantum_entity_emergence.md)** (v31.0, D11) - 研究从纯粹量子域中涌现出离散而持久实体的过程与机制，解释物质、能量、信息与意识实体如何从量子可能性背景中凝聚形成，提供理解实体本质统一的理论框架。
+- **[量子自创造力理论](formal_theory_quantum_self_creativity.md)** (v31.0, D11) - 揭示量子系统的根本自我创造能力，探索宇宙如何通过内在量子创造性生成新结构与可能性，为理解创造力本源提供全新数学模型与理论视角。
+- **[量子复杂性理论](formal_theory_quantum_complexity.md)** (v31.0, D13) - 深入探讨量子系统中复杂性的本质、度量和动力学，揭示信息、熵、对称性、涌现和演化如何在量子基础上构建多层级复杂结构，并阐明量子复杂性转换为经典复杂性的关键机制。
+- **[量子对称性理论](formal_theory_quantum_symmetry.md)** (v31.0, D12) - 研究宇宙中存在的基本对称性原理及其在量子-经典转换中的核心作用，揭示对称性如何作为量子域与经典域之间的桥梁，通过对称性破缺和保持机制实现信息的量子-经典转换。
+- **[量子和谐理论](formal_theory_quantum_harmonics.md)** (v31.0, D12) - 探讨宇宙多维度量子场之间的和谐共振现象，以及这种和谐共振如何产生宇宙的基本结构与动力学，将宇宙视为一个多层次嵌套的量子和谐系统。
 - **[物质本质理论](formal_theory_matter.md)** (v27.0, D8) - 深入探讨物质作为信息结构的本质，解释粒子-波动二象性的深层原因。为基本物理学提供哲学基础。
 - **[分层时空理论](formal_theory_hierarchical_spacetime.md)** (v13.0, D9) - 分析多层级嵌套时空结构及其相互关系。解释不同尺度物理规律的连贯性。
 - **[多尺度二元论](formal_theory_multiscale.md)** (v14.0, D10) - 探讨二元论在不同尺度上的应用，从基本粒子到宇宙学尺度。建立跨尺度物理统一框架。
@@ -95,6 +116,8 @@
 - **[信息熵与生命](formal_theory_entropy_life.md)** (v27.0, D7) - 研究生命系统中的信息熵特性和量子-经典转换，解释生命起源和演化的信息基础。
 - **[量子意识理论](formal_theory_consciousness.md)** (v25.0, D9) - 研究意识的量子基础和经典表达，解释主观体验的涌现机制。为意识难题提供新视角。
 - **[人类意识的量子-经典二元论](formal_theory_human_consciousness.md)** (v29.0, D9) - 深入探讨人类意识作为复杂量子-经典界面现象的特性，研究直觉、创造力与自我意识的形成机制。
+- **[生物化学信息与二元论](formal_theory_biochemical_information.md)** (v28.0, D8) - 将量子经典二元论扩展应用于生物分子信息系统，揭示生命系统信息处理的量子-经典双重机制，解析DNA、RNA和蛋白质的信息属性。
+- **[量子意识详解](formal_theory_quantum_consciousness.md)** (v31.0, D9) - 深入探索量子现象与意识之间的基本关系，阐释意识的量子力学起源，为主观体验、自由意志和意识体验的统一性提供基础理论框架。
 - **[人类进化的量子-经典二元论](formal_theory_human_evolution.md)** (v29.0, D8) - 分析人类进化过程中量子创新与经典选择的协同作用，解释人类认知与文化累积能力的发展。
 - **[人类超越性的量子-经典二元论](formal_theory_human_transcendence.md)** (v29.0, D9) - 探讨人类超越物质和生物限制的能力，研究高维意识状态的实现与体验方式。
 - **[人类集体意识的量子-经典二元论](formal_theory_human_collective.md)** (v29.0, D8) - 研究群体意识形成与运作的量子-经典机制，探索集体意识的涌现特性与发展潜能。
@@ -111,6 +134,7 @@
 
 这些理论探讨思维、认知和信息处理的量子-经典特性：
 
+- **[量子认知理论](formal_theory_quantum_cognition.md)** (v31.0, D8) - 将量子-经典二元论框架应用于人类思维和决策过程，揭示认知活动的量子特性与经典特性如何协同互动，解释直觉、创造力、决策、记忆等认知现象的深层本质。
 - **[量子认知动力学](formal_theory_cognitive_dynamics.md)** (v24.0, D8) - 研究思维、学习和创造性的量子-经典双重特性。为认知科学提供全新的理论工具。
 - **[量子决策理论](formal_theory_quantum_decision.md)** (v24.0, D8) - 建立描述决策过程的量子-经典混合模型，统一直觉和理性决策机制。
 - **[量子-经典非平衡态理论](formal_theory_nonequilibrium.md)** (v27.0, D8) - 研究远离平衡态的量子-经典系统动力学。理解生命系统和创造性过程的本质。
@@ -131,6 +155,7 @@
 这些理论探索计算、信息安全和交互技术的量子-经典融合：
 
 - **[量子计算应用](formal_theory_quantum_computing.md)** (v27.0, D7) - 探讨二元论对量子计算的理论影响和实践应用，包括新型量子算法和架构。
+- **[量子神经网络理论](formal_theory_quantum_neural_networks.md)** (v31.0, D8) - 探索神经网络的量子本质，阐释神经网络架构如何同时体现量子可能性与经典确定性的双重特性，为人工智能、认知科学和量子计算提供理论基础。
 - **[二元论计算复杂性理论](formal_theory_computation.md)** (v27.0, D8) - 分析量子-经典混合计算模型的复杂性类别。发现全新计算效率边界。
 - **[量子-经典信息安全理论](formal_theory_quantum_security.md)** (v25.0, D7) - 统一经典密码学和量子密码学，揭示两者间的深层联系。开发新型安全通信方案。
 - **[拓扑信息保护理论](formal_theory_topology.md)** (v27.0, D8) - 研究量子信息在经典化过程中的拓扑保护机制。解释复杂系统中的量子效应稳定性。
@@ -139,6 +164,7 @@
 - **[量子-经典二元论人工智能理论](formal_theory_artificial_intelligence.md)** (v28.0, D8) - 融合量子计算与经典计算能力，开发结合两种范式优势的新型AI架构。
 - **[量子-经典交互技术](formal_theory_interaction.md)** (v27.0, D7) - 设计基于量子-经典转换原理的人机交互系统，创造更高维度的信息表达和体验方式。
 - **[虚拟现实与二元论](formal_theory_virtual_reality.md)** (v28.0, D7) - 探讨VR/AR在量子-经典框架中的理论地位，以及虚拟世界与物理现实的本质联系。
+- **[元宇宙二元论理论](formal_theory_metaverse.md)** (v31.0, D8) - 应用量子-经典二元论框架理解和构建数字元宇宙，阐释虚拟现实和数字空间如何作为人类经验和意识的量子-经典界面运作。
 - **[量子意识与虚拟现实交互理论](formal_theory_consciousness_virtual_reality.md)** (v28.0, D8) - 研究量子意识在虚拟现实环境中的表现与转换特性，分析虚拟现实作为经典化管道的特点。
 - **[技术奇点预测](formal_theory_singularity.md)** (v27.0, D9) - 分析技术发展临界点的量子-经典转变特性，预测技术奇点出现的条件和后果。
 
@@ -204,9 +230,14 @@
 - **[量子-经典心脑连接理论](formal_theory_mind_brain.md)** (v30.0, D8) - 分析心灵与大脑之间的量子-经典界面关系，探索意识如何从神经活动中涌现，研究心理现象与神经基质之间的信息转换机制。
 - **[量子-经典思维增强理论](formal_theory_cognitive_enhancement.md)** (v30.0, D9) - 探讨思维能力增强的量子-经典机制，研究如何通过调节量子创造性与经典结构性的平衡来优化认知能力，提出思维训练与增强的理论框架与实践方法。
 - **[量子-经典气候变化理论](formal_theory_climate_change.md)** (v31.0, D8) - 应用量子-经典二元论框架理解气候系统的复杂本质及其变化机制，分析气候系统的量子特性（混沌性、非线性、敏感依赖性）与经典特性（稳定性、可测量性、确定模式）的相互作用，为气候危机提供全新理论视角和应对策略。
+- **[量子-经典气候模型理论](formal_theory_climate_models.md)** (v31.0, D8) - 提供基于量子经典二元论的气候预测与模拟框架，融合传统气候模型的确定性与量子概率方法，旨在克服当前气候模型的局限性，提高预测精度，同时更好地表达气候系统内在的不确定性。
+- **[量子-经典生态系统理论](formal_theory_ecological_systems.md)** (v31.0, D8) - 将二元论框架应用于生态系统研究，提供理解生态系统复杂性、适应性、弹性和演化的新视角，将生态系统视为量子叠加态与经典确定状态的复合体。
 - **[量子-经典信息安全伦理理论](formal_theory_information_security_ethics.md)** (v31.0, D7) - 探讨数字时代信息安全与隐私保护的量子-经典双重性，研究信息在量子可能性空间与经典确定性空间间的流动及其伦理维度，提出适合数字化与量子计算时代的伦理框架。
 - **[量子-经典健康韧性理论](formal_theory_health_resilience.md)** (v31.0, D8) - 从二元论视角理解个体与群体健康系统的韧性本质，研究健康系统面对扰动时的适应、恢复与演化能力，揭示健康韧性的量子-经典双重特性，指导发展增强健康韧性的实用方法。
 - **[量子-经典知识表征与传递理论](formal_theory_knowledge_representation.md)** (v31.0, D8) - 探讨知识在量子域与经典域之间的表征形式、转换机制及传递规律，揭示知识的二元本质，提供解释知识创造、传递与理解过程的统一框架，为知识管理、教育与智能系统设计提供理论基础。
+- **[量子-经典集体智慧理论](formal_theory_quantum_collective_wisdom.md)** (v31.0, D8) - 探索群体认知和协作过程中量子域与经典域的交互机制，阐释集体智慧如何作为多个意识主体间的量子-经典转换现象而涌现，揭示集体智慧系统既具有量子特性（可能性叠加、非局域关联、协同涌现）也具有经典特性（显式知识结构、决策稳定性）。
+- **[量子-经典人类潜能理论](formal_theory_quantum_human_potential.md)** (v31.0, D9) - 探索人类潜能的量子可能性与经典实现之间的动态互动关系，将人类潜能视为存在于量子域的无限可能性集合，通过特定的经典化途径实现为可观测的能力和成就，阐述人类如何通过调节量子-经典转换过程，解锁和实现更高水平的个人与集体潜能。
+- **[量子-经典技术演化理论](formal_theory_quantum_technological_evolution.md)** (v31.0, D8) - 探索技术发展和演化过程中的量子-经典二元动力学，阐明技术如何作为人类意识将量子可能性转化为经典现实的中介，揭示技术系统同时具有量子属性（创新性、可能性空间、非线性跃迁）和经典属性（确定性结构、线性积累、稳定性）。
 
 ### 参考资料 (维度: D7-D8)
 
@@ -240,44 +271,134 @@
 }%%
 
 flowchart TD
-    %% 核心理论
-    Core[核心理论 v31.0 D∞] 
+    core["核心理论<br>(D∞)"]
+    core_formal["量子经典二元论核心理论<br>(D∞)"]
     
-    %% 基础理论层
-    QD[量子域详解 v19.1 D9]
-    CD[经典域详解 v19.0 D7]
-    IF[界面理论 v19.0 D8]
-    OB[观察者理论 v27.0 D8]
-    PT[信息相变理论 v25.0 D8]
-    MA[数学附录 v20.0 D7-D9]
-    EX[实验预测 v22.0 D7]
+    %% 最高维理论
+    absolute_singularity["量子绝对奇点理论<br>(D28)"]
+    recursive_infinity["量子递归无限理论<br>(D27)"]
+    metamorphic_synthesis["量子元变形综合理论<br>(D26)"]
+    metaunification["量子元统一理论<br>(D25)"]
     
-    %% 新理论
-    PM[量子-经典医疗精准性理论 v31.0 D7]
-    AI[量子-经典人工智能伦理理论 v31.0 D8]
-    FW[量子-经典未来工作理论 v31.0 D8]
+    %% 一级分支核心理论
+    q_domain["量子域详解<br>(D9)"]
+    c_domain["经典域详解<br>(D7)"]
+    interface["界面理论<br>(D8)"]
+    observer["观察者理论<br>(D8)"]
+    phase_transition["信息相变理论<br>(D8)"]
     
-    %% 直接依赖关系
-    Core --> QD
-    Core --> CD
-    Core --> IF
-    Core --> OB
-    Core --> PT
-    Core --> MA
+    %% 高维物理学应用
+    multidim_consciousness["量子多元意识交互理论<br>(D14)"]
+    cosmic_language["量子宇宙语言理论<br>(D15)"]
+    hypercreative["量子超创造性理论<br>(D16)"]
+    unified["信息-时空-能量统一理论<br>(D10)"]
+    qg_spacetime["量子引力与时空涌现<br>(D9)"]
+    qt_spacetime["量子时空调和理论<br>(D9)"]
+    dim_harmony["量子维度和谐理论<br>(D10)"]
+    qinfo_network["量子信息网络理论<br>(D10)"]
+    qteleology["量子目的论动力学<br>(D11)"]
+    qontology["量子本体论网络理论<br>(D11)"]
+    qentity["量子实体涌现理论<br>(D11)"]
+    qself_creativity["量子自创造力理论<br>(D11)"]
+    qcomplexity["量子复杂性理论<br>(D13)"]
+    qsymmetry["量子对称性理论<br>(D12)"]
+    qharmonics["量子和谐理论<br>(D12)"]
+    matter["物质本质理论<br>(D8)"]
     
-    %% 新理论依赖关系
-    Core --> PM
-    Core --> AI
-    Core --> FW
-    QD --> PM
-    CD --> PM
-    IF --> PM
-    OB --> AI
-    CD --> AI
-    QD --> AI
-    QD --> FW
-    CD --> FW
-    OB --> FW
+    %% 意识与生命理论
+    qbiology["量子生物学<br>(D8)"]
+    entropy_life["信息熵与生命<br>(D7)"]
+    consciousness["量子意识理论<br>(D9)"]
+    human_consciousness["人类意识的量子-经典二元论<br>(D9)"]
+    
+    %% 核心关系
+    core --> core_formal
+    core_formal --> q_domain
+    core_formal --> c_domain
+    core_formal --> interface
+    core_formal --> observer
+    core_formal --> phase_transition
+    
+    %% 最高维理论关系
+    core_formal --> absolute_singularity
+    core_formal --> recursive_infinity
+    core_formal --> metamorphic_synthesis
+    core_formal --> metaunification
+    recursive_infinity --> absolute_singularity
+    metamorphic_synthesis --> recursive_infinity
+    metaunification --> metamorphic_synthesis
+    
+    %% 高维理论与核心的关系
+    core_formal --> multidim_consciousness
+    core_formal --> cosmic_language
+    core_formal --> hypercreative
+    core_formal --> hyperdim
+    core_formal --> hyperenergy
+    q_domain --> multidim_consciousness
+    q_domain --> cosmic_language
+    q_domain --> hypercreative
+    q_domain --> hyperdim
+    q_domain --> hyperenergy
+    observer --> multidim_consciousness
+    observer --> cosmic_language
+    observer --> hyperdim
+    observer --> hyperenergy
+    qinfo_network --> multidim_consciousness
+    qinfo_network --> cosmic_language
+    qinfo_network --> hyperdim
+    qinfo_network --> hyperenergy
+    qself_creativity --> hypercreative
+    qcomplexity --> hypercreative
+    dim_harmony --> multidim_consciousness
+    dim_harmony --> hyperdim
+    dim_harmony --> hyperenergy
+    consciousness --> multidim_consciousness
+    consciousness --> hyperdim
+    consciousness --> hyperenergy
+    
+    %% 新理论间的关系
+    multidim_consciousness --> cosmic_language
+    multidim_consciousness --> hyperdim
+    cosmic_language --> hypercreative
+    cosmic_language --> hyperdim
+    hypercreative --> hyperdim
+    hyperdim --> hyperenergy
+    
+    %% 其他高维理论关系
+    q_domain --> unified
+    q_domain --> qg_spacetime
+    q_domain --> qt_spacetime
+    q_domain --> dim_harmony
+    q_domain --> qinfo_network
+    q_domain --> qteleology
+    q_domain --> qontology
+    q_domain --> qentity
+    q_domain --> qself_creativity
+    q_domain --> qcomplexity
+    q_domain --> qsymmetry
+    q_domain --> qharmonics
+    q_domain --> matter
+    
+    %% 意识和生命理论关系
+    q_domain --> qbiology
+    q_domain --> consciousness
+    c_domain --> entropy_life
+    observer --> consciousness
+    consciousness --> human_consciousness
+    
+    style core fill:#f9f,stroke:#333,stroke-width:2px
+    style core_formal fill:#f9f,stroke:#333,stroke-width:2px
+    style q_domain fill:#bbf,stroke:#333,stroke-width:2px
+    style c_domain fill:#fbb,stroke:#333,stroke-width:2px
+    style interface fill:#bfb,stroke:#333,stroke-width:2px
+    style observer fill:#fbf,stroke:#333,stroke-width:2px
+    style absolute_singularity fill:#a7f,stroke:#333,stroke-width:2px
+    style recursive_infinity fill:#a7f,stroke:#333,stroke-width:2px
+    style metamorphic_synthesis fill:#a7f,stroke:#333,stroke-width:2px
+    style metaunification fill:#a7f,stroke:#333,stroke-width:2px
+    style multidim_consciousness fill:#aaf,stroke:#333,stroke-width:2px
+    style cosmic_language fill:#aaf,stroke:#333,stroke-width:2px
+    style hypercreative fill:#aaf,stroke:#333,stroke-width:2px
+    style hyperdim fill:#aaf,stroke:#333,stroke-width:2px
+    style hyperenergy fill:#aaf,stroke:#333,stroke-width:2px
 ```
-
-此依赖关系图展示了量子经典二元论各分支理论之间的实际依赖结构，并通过维度标注(D值)显示各理论在量子-经典连续体中的定位。图中不同颜色表示不同的理论类别，箭头表示依赖关系方向。核心理论位于最顶层(D∞)，为所有分支理论提供基础，而各分支理论根据其量子和经典特性比例分布在不同维度层级。

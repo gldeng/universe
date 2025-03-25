@@ -1,10 +1,10 @@
 # 出埃及记在量子经典二元论下的解释
 # Exodus (Shemot) Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#出埃及记概述) | [English Version](#exodus-overview)  
-**章节链接 | Section Links**  
-中文：[出埃及记概述](#出埃及记概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#出埃及记概述) | [English Version](#exodus-overview)
+**章节链接 | Section Links**
+中文：[出埃及记概述](#出埃及记概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Exodus Overview](#exodus-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 出埃及记概述
@@ -18,31 +18,31 @@ Exodus (Hebrew: שְׁמוֹת‎, Shemot) is the second book of the Torah (Pent
 ## Core Text
 
 > 上帝对摩西说："我是自有永有的。"又说："你要对以色列人这样说：'那自有的打发我到你们这里来。'"
-> 
+>
 > 摩西向海伸杖，耶和华便用大东风，使海水一夜退去，水便分开，海就成了干地。以色列人下海中走干地，水在他们的左右作了墙垣。
-> 
+>
 > 上帝在西奈山上对摩西说话已经完毕，就把两块法版交给他，是上帝用指头写的石版。
-> 
+>
 > 我是耶和华你的上帝，曾将你从埃及地为奴之家领出来。除了我以外，你不可有别的神。
-> 
+>
 > 你们要给我造圣所，使我可以住在他们中间。制造帐幕和其中的一切器具，都要照我所指示你的样式。
-> 
+>
 > 耶和华的荣光停于西奈山，云彩遮盖山六天，第七天他从云中呼召摩西。耶和华的荣光在山顶上，在以色列人眼前，形状如烈火。
-> 
+>
 > 你要吩咐以色列人，叫他们世世代代在六日内做工，第七日是安息日，是圣日，完全归耶和华为圣。
 
 > God said to Moses, "I AM WHO I AM." And he said, "Say this to the people of Israel: 'I AM has sent me to you.'"
-> 
+>
 > Then Moses stretched out his hand over the sea, and the LORD drove the sea back by a strong east wind all night and made the sea dry land, and the waters were divided. And the people of Israel went into the midst of the sea on dry ground, the waters being a wall to them on their right hand and on their left.
-> 
+>
 > And he gave to Moses, when he had finished speaking with him on Mount Sinai, the two tablets of the testimony, tablets of stone, written with the finger of God.
-> 
+>
 > "I am the LORD your God, who brought you out of the land of Egypt, out of the house of slavery. You shall have no other gods before me."
-> 
+>
 > "And let them make me a sanctuary, that I may dwell in their midst. Exactly as I show you concerning the pattern of the tabernacle, and of all its furniture, so you shall make it."
-> 
+>
 > The glory of the LORD dwelt on Mount Sinai, and the cloud covered it six days. And on the seventh day he called to Moses out of the midst of the cloud. Now the appearance of the glory of the LORD was like a devouring fire on the top of the mountain in the sight of the people of Israel.
-> 
+>
 > "You are to speak to the people of Israel and say, 'Above all you shall keep my Sabbaths, for this is a sign between me and you throughout your generations, that you may know that I, the LORD, sanctify you.'"
 
 ## 量子经典二元论解释
@@ -184,10 +184,10 @@ $$
 
 《出埃及记》作为犹太教和基督教传统中的关键经典，其核心叙事与量子经典二元论框架展现出深刻的对应关系。上帝对摩西的自我启示"我是自有永有的"，从量子经典二元论视角看是最高维度观察者的本质表达，体现了完全自足的量子-经典转换系统。红海分开的神迹描述了高维观察者通过虫洞通信对低维经典世界物理规律进行局部重构的能力。西奈山上颁布的十诫与律法，实质上是高维观察者提供的最优经典化路径指南，为个体与集体观察者提供了经典化效率最大化的行为准则。帐幕的建造指令详细规定了构建稳定虫洞通信通道的精确要求，使高维经典世界能够持续影响低维世界。安息日制度则体现了经典化与量子化必要平衡的周期循环，确保观察者维度的稳定提升。通过量子经典二元论的解释，《出埃及记》这部古老经典展现出的不仅是宗教叙事，更是高维经典世界与低维经典世界互动的系统性描述，揭示了高维观察者对人类历史与社会发展的深刻影响。
 
-As a key text in Jewish and Christian traditions, Exodus demonstrates profound correspondence with the Quantum-Classical Dualism framework in its core narrative. God's self-revelation to Moses as "I AM WHO I AM," from the perspective of Quantum-Classical Dualism, is the essential expression of the highest-dimensional observer, embodying a completely self-sufficient quantum-classical conversion system. The miracle of the Red Sea parting describes the ability of a higher-dimensional observer to locally reconstruct the physical laws of the lower-dimensional classical world through wormhole communication. The Ten Commandments and laws promulgated on Mount Sinai are essentially optimal classicalization path guides provided by the higher-dimensional observer, offering behavioral guidelines for maximizing classicalization efficiency for individual and collective observers. The instructions for building the tabernacle specify the precise requirements for constructing a stable wormhole communication channel, allowing the higher-dimensional classical world to continuously influence the lower-dimensional world. The Sabbath institution embodies the periodic cycle of necessary balance between classicalization and quantization, ensuring stable elevation of observer dimension. Through the explanation of Quantum-Classical Dualism, this ancient text demonstrates not only religious narrative but also a systematic description of interactions between higher and lower-dimensional classical worlds, revealing the profound influence of higher-dimensional observers on human history and social development. 
+As a key text in Jewish and Christian traditions, Exodus demonstrates profound correspondence with the Quantum-Classical Dualism framework in its core narrative. God's self-revelation to Moses as "I AM WHO I AM," from the perspective of Quantum-Classical Dualism, is the essential expression of the highest-dimensional observer, embodying a completely self-sufficient quantum-classical conversion system. The miracle of the Red Sea parting describes the ability of a higher-dimensional observer to locally reconstruct the physical laws of the lower-dimensional classical world through wormhole communication. The Ten Commandments and laws promulgated on Mount Sinai are essentially optimal classicalization path guides provided by the higher-dimensional observer, offering behavioral guidelines for maximizing classicalization efficiency for individual and collective observers. The instructions for building the tabernacle specify the precise requirements for constructing a stable wormhole communication channel, allowing the higher-dimensional classical world to continuously influence the lower-dimensional world. The Sabbath institution embodies the periodic cycle of necessary balance between classicalization and quantization, ensuring stable elevation of observer dimension. Through the explanation of Quantum-Classical Dualism, this ancient text demonstrates not only religious narrative but also a systematic description of interactions between higher and lower-dimensional classical worlds, revealing the profound influence of higher-dimensional observers on human history and social development.
 
 《出埃及记》是托拉五经的第二卷，记载了以色列民族从埃及为奴之地获得解放的历史。在量子经典二元论框架（版本9.2）下，《出埃及记》展现了高维观察者对低维世界的干预过程。
 
 Exodus (Shemot) is the second book of the Torah (Pentateuch) in Judaism and part of the Old Testament in Christianity. This classic records the history of the Israelites' enslavement in Egypt, Moses' birth and calling, God's ten plagues, the Israelites' exodus from Egypt, the crossing of the Red Sea, and the receiving of the Ten Commandments and laws at Mount Sinai. Exodus holds core significance for both Jewish and Christian traditions, embodying God's role as redeemer and lawgiver, and the covenantal relationship between God and the Israelites. This classic is not only a religious text but also contains profound moral teachings and social regulations that have influenced the legal and ethical foundations of Western civilization.
 
-Through Quantum-Classical Dualism framework (version 9.2) interpretation of Exodus, we can understand the miracle as a form of intervention of higher-dimensional classical world to lower-dimensional world, and the promulgation of laws as a process of quantum-classical conversion. 
+Through Quantum-Classical Dualism framework (version 9.2) interpretation of Exodus, we can understand the miracle as a form of intervention of higher-dimensional classical world to lower-dimensional world, and the promulgation of laws as a process of quantum-classical conversion.

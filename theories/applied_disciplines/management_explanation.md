@@ -1,9 +1,9 @@
 # 管理学视角下的量子经典二元论 (Quantum-Classical Dualism from Management Perspective)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#1-引言管理学与量子经典二元论) | [战略管理视角](#2-战略管理视角) | [组织结构与设计](#3-组织结构与设计视角) | [决策理论](#4-决策理论视角) | [领导力视角](#5-领导力视角) | [变革管理](#6-变革管理视角)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#1-引言管理学与量子经典二元论) | [战略管理视角](#2-战略管理视角) | [组织结构与设计](#3-组织结构与设计视角) | [决策理论](#4-决策理论视角) | [领导力视角](#5-领导力视角) | [变革管理](#6-变革管理视角)
 English: [Introduction](#1-introduction-management-and-quantum-classical-dualism) | [Strategic Management](#2-strategic-management-perspective) | [Organizational Structure](#3-organizational-structure-and-design-perspective) | [Decision Theory](#4-decision-theory-perspective) | [Leadership](#5-leadership-perspective) | [Change Management](#6-change-management-perspective)
 
 ## 索引
@@ -316,4 +316,4 @@ I_{\text{现有知识（旧经典知识）}} + I_{\text{创新成果（新经典
 
 Management, as the discipline studying the effective operation and goal achievement of organizations, focusing on organizational design, strategic planning, decision-making processes, leadership, change management, and innovation development, has deep correspondences with Quantum-Classical Dualism at multiple levels. The core contradictions faced by modern management practices—certainty and uncertainty, planning and adaptation, stability and change, structure and flexibility—can be understood through the framework of Quantum-Classical Dualism. From the multiple possibilities of strategic conception to the specific formation of final strategy, from tacit knowledge to explicit knowledge conversion, from change dynamics to organizational reconstruction, management activities exhibit clear quantum-classical dual characteristics. This paper will explore the correspondences between major areas of management and Quantum-Classical Dualism, demonstrating how this theoretical framework can provide new perspectives and explanatory tools for management theory and practice.
 
-[English content continues with detailed sections corresponding to the Chinese version...] 
+[English content continues with detailed sections corresponding to the Chinese version...]

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1863年12月12日 - 1944年1月23日  
-**国籍 (Nationality)**: 挪威 (Norwegian)  
-**领域 (Fields)**: 绘画、版画、摄影  
+**生平 (Life Span)**: 1863年12月12日 - 1944年1月23日
+**国籍 (Nationality)**: 挪威 (Norwegian)
+**领域 (Fields)**: 绘画、版画、摄影
 **代表作品 (Representative Works)**: 《呐喊》、《生命之舞》、《思春期》、《病童》、《焦虑》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我不画我所见，而画我所感。"
-> 
+>
 > "I do not paint what I see, but what I saw."
 
 > "病痛、疯狂和死亡是我从摇篮到坟墓的天使守护者。"
-> 
+>
 > "Illness, insanity, and death were the black angels that kept watch over my cradle and accompanied me all my life."
 
 > "自然不仅是肉眼所见，还包括灵魂的内在图像。"
-> 
+>
 > "Nature is not only what is visible to the eye – it is also the inner images of the soul."
 
 > "艺术来源于人的需要，来源于他的快乐和悲伤。"
-> 
+>
 > "Art comes from joy and pain and from the needs of human beings, from their happiness and unhappiness."
 
 > "没有恐惧，就没有艺术。"
-> 
+>
 > "Without fear, there is no art."

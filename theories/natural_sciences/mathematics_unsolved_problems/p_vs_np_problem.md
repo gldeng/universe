@@ -71,17 +71,31 @@ $$
 - $`q_{reject} \in Q`$是拒绝状态，其中$`q_{accept} \neq q_{reject}`$
 
 **定义4**（P类问题）：P是所有可以被确定性图灵机在多项式时间内解决的决策问题集合。形式上，定义为：
-$$P = \{L \subseteq \{0,1\}^* \mid \exists \text{确定性图灵机}\ M, \exists k \in \mathbb{N}, \forall x \in \{0,1\}^*: M \text{在时间} O(|x|^k) \text{内接受} x \iff x \in L\}$$
+
+$$
+P = \{L \subseteq \{0,1\}^* \mid \exists \text{确定性图灵机}\ M, \exists k \in \mathbb{N}, \forall x \in \{0,1\}^*: M \text{在时间} O(|x|^k) \text{内接受} x \iff x \in L\}
+$$
 
 **定义5**（NP类问题）：NP是所有可以被非确定性图灵机在多项式时间内解决的决策问题集合，等价于存在多项式时间验证算法的决策问题集合。形式上，定义为：
-$$NP = \{L \subseteq \{0,1\}^* \mid \exists \text{多项式} p, \exists \text{确定性图灵机} V, \forall x \in \{0,1\}^*: x \in L \iff \exists y \in \{0,1\}^{p(|x|)}, V(x,y) = 1\}$$
+
+$$
+NP = \{L \subseteq \{0,1\}^* \mid \exists \text{多项式} p, \exists \text{确定性图灵机} V, \forall x \in \{0,1\}^*: x \in L \iff \exists y \in \{0,1\}^{p(|x|)}, V(x,y) = 1\}
+$$
+
 其中$`V`$是验证器，在多项式时间内运行。
 
 **定义6**（量子域计算模型）：量子域计算模型定义为一个量子图灵机$`Q = (Q, \Sigma, \Gamma, \delta_Q, q_0, q_{accept}, q_{reject})`$，其中转移函数$`\delta_Q`$允许量子叠加，使计算状态为：
-$$|\psi\rangle = \sum_{q \in Q, \tau \in \Gamma^*, i \in \mathbb{Z}} \alpha_{q,\tau,i} |q, \tau, i\rangle$$
+
+$$
+|\psi\rangle = \sum_{q \in Q, \tau \in \Gamma^*, i \in \mathbb{Z}} \alpha_{q,\tau,i} |q, \tau, i\rangle
+$$
 
 **定义7**（经典化映射）：经典化映射$`\mathcal{O}`$是将量子状态映射到经典状态的过程，定义为：
-$$\mathcal{O}: \mathcal{H} \rightarrow \mathcal{C}$$
+
+$$
+\mathcal{O}: \mathcal{H} \rightarrow \mathcal{C}
+$$
+
 其中$`\mathcal{H}`$是量子希尔伯特空间，$`\mathcal{C}`$是经典状态空间。对于量子态$`|\psi\rangle = \sum_i \alpha_i |i\rangle`$，经典化过程导致状态坍缩为$`|j\rangle`$，概率为$`|\alpha_j|^2`$。
 
 ### 引理1：计算模型表示引理 | Lemma 1: Computational Model Representation Lemma
@@ -308,17 +322,31 @@ To ensure compatibility with the ZFC axiomatic system, we first provide rigorous
 - $`q_{reject} \in Q`$ is the reject state, where $`q_{accept} \neq q_{reject}`$
 
 **Definition 4** (P-class Problems): P is the set of all decision problems that can be solved by a deterministic Turing machine in polynomial time. Formally defined as:
-$$P = \{L \subseteq \{0,1\}^* \mid \exists \text{ deterministic Turing machine } M, \exists k \in \mathbb{N}, \forall x \in \{0,1\}^*: M \text{ accepts } x \text{ in time } O(|x|^k) \iff x \in L\}$$
+
+$$
+P = \{L \subseteq \{0,1\}^* \mid \exists \text{ deterministic Turing machine } M, \exists k \in \mathbb{N}, \forall x \in \{0,1\}^*: M \text{ accepts } x \text{ in time } O(|x|^k) \iff x \in L\}
+$$
 
 **Definition 5** (NP-class Problems): NP is the set of all decision problems that can be solved by a non-deterministic Turing machine in polynomial time, equivalent to the set of decision problems for which there exists a polynomial-time verification algorithm. Formally defined as:
-$$NP = \{L \subseteq \{0,1\}^* \mid \exists \text{ polynomial } p, \exists \text{ deterministic Turing machine } V, \forall x \in \{0,1\}^*: x \in L \iff \exists y \in \{0,1\}^{p(|x|)}, V(x,y) = 1\}$$
+
+$$
+NP = \{L \subseteq \{0,1\}^* \mid \exists \text{ polynomial } p, \exists \text{ deterministic Turing machine } V, \forall x \in \{0,1\}^*: x \in L \iff \exists y \in \{0,1\}^{p(|x|)}, V(x,y) = 1\}
+$$
+
 where $`V`$ is a verifier that runs in polynomial time.
 
 **Definition 6** (Quantum Domain Computational Model): The quantum domain computational model is defined as a quantum Turing machine $`Q = (Q, \Sigma, \Gamma, \delta_Q, q_0, q_{accept}, q_{reject})`$, where the transition function $`\delta_Q`$ allows quantum superposition, making the computational state:
-$$|\psi\rangle = \sum_{q \in Q, \tau \in \Gamma^*, i \in \mathbb{Z}} \alpha_{q,\tau,i} |q, \tau, i\rangle$$
+
+$$
+|\psi\rangle = \sum_{q \in Q, \tau \in \Gamma^*, i \in \mathbb{Z}} \alpha_{q,\tau,i} |q, \tau, i\rangle
+$$
 
 **Definition 7** (Classicalization Mapping): The classicalization mapping $`\mathcal{O}`$ is the process of mapping quantum states to classical states, defined as:
-$$\mathcal{O}: \mathcal{H} \rightarrow \mathcal{C}$$
+
+$$
+\mathcal{O}: \mathcal{H} \rightarrow \mathcal{C}
+$$
+
 where $`\mathcal{H}`$ is the quantum Hilbert space and $`\mathcal{C}`$ is the classical state space. For a quantum state $`|\psi\rangle = \sum_i \alpha_i |i\rangle`$, the classicalization process results in state collapse to $`|j\rangle`$ with probability $`|\alpha_j|^2`$.
 
 ### Lemma 1: Computational Model Representation Lemma
@@ -484,4 +512,4 @@ The deeper significance of this conclusion is that the complexity of certain mat
 5. Wigderson, A. (2019). Mathematics and Computation. Princeton University Press.
 6. Arora, S., & Barak, B. (2009). Computational Complexity: A Modern Approach. Cambridge University Press.
 7. Jain, R., Ji, Z., Upadhyay, S., & Watrous, J. (2010). QIP = PSPACE. In Proceedings of the 42nd ACM Symposium on Theory of Computing.
-8. Cohen, P. J. (1963). The independence of the continuum hypothesis. Proceedings of the National Academy of Sciences, 50(6), 1143-1148. 
+8. Cohen, P. J. (1963). The independence of the continuum hypothesis. Proceedings of the National Academy of Sciences, 50(6), 1143-1148.

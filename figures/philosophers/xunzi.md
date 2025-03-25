@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前313年-公元前238年 (c. 313-238 BCE)  
-**国籍 | Nationality**: 战国时期赵国（今中国河北邯郸） (State of Zhao during the Warring States Period, now Handan, Hebei, China)  
-**主要领域 | Main Fields**: 哲学、伦理学、政治哲学、教育理论 (Philosophy, Ethics, Political Philosophy, Educational Theory)  
+**生卒年份 | Lifespan**: 约公元前313年-公元前238年 (c. 313-238 BCE)
+**国籍 | Nationality**: 战国时期赵国（今中国河北邯郸） (State of Zhao during the Warring States Period, now Handan, Hebei, China)
+**主要领域 | Main Fields**: 哲学、伦理学、政治哲学、教育理论 (Philosophy, Ethics, Political Philosophy, Educational Theory)
 **代表作品 | Representative Works**: 《荀子》（三十二篇） (The Xunzi, 32 chapters)
 
 ## 核心思想 | Core Ideas
@@ -205,4 +205,4 @@ $$
 - "Heaven's operations have constancy, not existing for Yao nor perishing for Jie."
 - "For the gentleman nurturing the mind, nothing is better than sincerity; when sincerity is achieved, there is nothing else to do."
 - "Humans are born with knowledge, and with knowledge comes purpose."
-- "Ritual is nurturing." 
+- "Ritual is nurturing."

@@ -575,4 +575,4 @@ In the quantum domain (infinite possibilities), Yang-Mills fields exist in the f
 
 The essence of this mass gap is the manifestation of quantum entanglement states (energy) under classical observation, which ensures that particles described by Yang-Mills theory have definite masses, preventing the appearance of infinitely many zero-mass excitation states, thereby making the theory physically meaningful.
 
-In short, the existence and mass gap of Yang-Mills theory reflect the quantum-classical duality in the fundamental interactions of physics, and this duality is mathematically expressed as the rigor of the theory and the discreteness of the energy spectrum. 
+In short, the existence and mass gap of Yang-Mills theory reflect the quantum-classical duality in the fundamental interactions of physics, and this duality is mathematically expressed as the rigor of the theory and the discreteness of the energy spectrum.

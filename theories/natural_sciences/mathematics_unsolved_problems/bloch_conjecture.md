@@ -93,7 +93,10 @@ $$
 **步骤 1：代数曲面的同调结构**
 
 对于任何光滑射影代数曲面 $`S`$，我们有Hodge分解：
-$$H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)$$
+
+$$
+H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)
+$$
 
 由于 $`S`$ 是Kähler的，我们有 $`H^{0,2}(S) = \overline{H^{2,0}(S)}`$，且 $`\dim H^{2,0}(S) = p_g(S)`$（几何亏格）。
 
@@ -104,26 +107,39 @@ $$H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)$$
 根据引理1和引理4，当 $`q(S) = 0`$ 时，$`\text{Tors}(H^2(S, \mathbb{Z}))`$ 中的元素都可以表示为代数循环类，即它们都包含在 $`NS(S)`$ 中。
 
 形式上，我们有：
-$$\text{Tors}(H^2(S, \mathbb{Z})) \subset NS(S) = H^{1,1}(S) \cap H^2(S, \mathbb{Z})$$
+
+$$
+\text{Tors}(H^2(S, \mathbb{Z})) \subset NS(S) = H^{1,1}(S) \cap H^2(S, \mathbb{Z})
+$$
 
 **步骤 3：挠元素的自交为零**
 
 For any $`\alpha \in \text{Tors}(H^2(S, \mathbb{Z}))`$, there exists a minimal positive integer $`n`$ such that $`n\alpha = 0`$. Considering the self-intersection $`\langle \alpha, \alpha \rangle`$, we have:
-$$n^2 \langle \alpha, \alpha \rangle = \langle n\alpha, n\alpha \rangle = \langle 0, 0 \rangle = 0$$
+
+$$
+n^2 \langle \alpha, \alpha \rangle = \langle n\alpha, n\alpha \rangle = \langle 0, 0 \rangle = 0
+$$
 
 Since $`n^2 \neq 0`$, we have $`\langle \alpha, \alpha \rangle = 0`$.
 
 **步骤 4：挠元素之间的正交性**
 
 For any $`\alpha, \beta \in \text{Tors}(H^2(S, \mathbb{Z}))`$，考虑 $`\alpha + \beta`$ 的自交：
-$$\langle \alpha + \beta, \alpha + \beta \rangle = \langle \alpha, \alpha \rangle + 2\langle \alpha, \beta \rangle + \langle \beta, \beta \rangle = 2\langle \alpha, \beta \rangle$$
+
+$$
+\langle \alpha + \beta, \alpha + \beta \rangle = \langle \alpha, \alpha \rangle + 2\langle \alpha, \beta \rangle + \langle \beta, \beta \rangle = 2\langle \alpha, \beta \rangle
+$$
 
 Since $`\alpha + \beta`$ is also a torsion element, by Step 3, $`\langle \alpha + \beta, \alpha + \beta \rangle = 0`$, thus $`\langle \alpha, \beta \rangle = 0`$.
 
 **步骤 5：应用周期映射和混合Hodge结构**
 
 For surfaces with $`q(S) = 0`$，周期映射 $`\Phi: H_2(S, \mathbb{Z})/\text{tors} \to \mathbb{C}^{p_g}`$ is defined as:
-$$\Phi([\gamma]) = \left( \int_{\gamma} \omega_1, \ldots, \int_{\gamma} \omega_{p_g} \right)$$
+
+$$
+\Phi([\gamma]) = \left( \int_{\gamma} \omega_1, \ldots, \int_{\gamma} \omega_{p_g} \right)
+$$
+
 where $`\{\omega_1, \ldots, \omega_{p_g}\}`$ is a basis of $`H^0(S, \Omega_S^2)`$.
 
 By analyzing the relationship between the kernel of the period mapping and $`\text{Tors}(H^2(S, \mathbb{Z}))`$，我们可以进一步证明挠元素的正交性。
@@ -299,7 +315,10 @@ To prove this conjecture, we first establish several key lemmas:
 **Step 1: Cohomological Structure of Algebraic Surfaces**
 
 For any smooth projective algebraic surface $`S`$, we have the Hodge decomposition:
-$$H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)$$
+
+$$
+H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)
+$$
 
 Since $`S`$ is Kähler, we have $`H^{0,2}(S) = \overline{H^{2,0}(S)}`$, and $`\dim H^{2,0}(S) = p_g(S)`$ (geometric genus).
 
@@ -310,26 +329,39 @@ When $`q(S) = 0`$, through Hodge theory and Serre duality, it can be shown that 
 According to Lemmas 1 and 4, when $`q(S) = 0`$, elements in $`\text{Tors}(H^2(S, \mathbb{Z}))`$ can all be represented as algebraic cycle classes, i.e., they are all contained in $`NS(S)`$.
 
 Formally, we have:
-$$\text{Tors}(H^2(S, \mathbb{Z})) \subset NS(S) = H^{1,1}(S) \cap H^2(S, \mathbb{Z})$$
+
+$$
+\text{Tors}(H^2(S, \mathbb{Z})) \subset NS(S) = H^{1,1}(S) \cap H^2(S, \mathbb{Z})
+$$
 
 **Step 3: Self-Intersection of Torsion Elements is Zero**
 
 For any $`\alpha \in \text{Tors}(H^2(S, \mathbb{Z}))`$, there exists a minimal positive integer $`n`$ such that $`n\alpha = 0`$. Considering the self-intersection $`\langle \alpha, \alpha \rangle`$, we have:
-$$n^2 \langle \alpha, \alpha \rangle = \langle n\alpha, n\alpha \rangle = \langle 0, 0 \rangle = 0$$
+
+$$
+n^2 \langle \alpha, \alpha \rangle = \langle n\alpha, n\alpha \rangle = \langle 0, 0 \rangle = 0
+$$
 
 Since $`n^2 \neq 0`$, we have $`\langle \alpha, \alpha \rangle = 0`$.
 
 **Step 4: Orthogonality Between Torsion Elements**
 
 For any $`\alpha, \beta \in \text{Tors}(H^2(S, \mathbb{Z}))`$，consider the self-intersection of $`\alpha + \beta`$:
-$$\langle \alpha + \beta, \alpha + \beta \rangle = \langle \alpha, \alpha \rangle + 2\langle \alpha, \beta \rangle + \langle \beta, \beta \rangle = 2\langle \alpha, \beta \rangle$$
+
+$$
+\langle \alpha + \beta, \alpha + \beta \rangle = \langle \alpha, \alpha \rangle + 2\langle \alpha, \beta \rangle + \langle \beta, \beta \rangle = 2\langle \alpha, \beta \rangle
+$$
 
 Since $`\alpha + \beta`$ is also a torsion element, by Step 3, $`\langle \alpha + \beta, \alpha + \beta \rangle = 0`$, thus $`\langle \alpha, \beta \rangle = 0`$.
 
 **Step 5: Application of Period Mapping and Mixed Hodge Structure**
 
 For surfaces with $`q(S) = 0`$, the period mapping $`\Phi: H_2(S, \mathbb{Z})/\text{tors} \to \mathbb{C}^{p_g}`$ is defined as:
-$$\Phi([\gamma]) = \left( \int_{\gamma} \omega_1, \ldots, \int_{\gamma} \omega_{p_g} \right)$$
+
+$$
+\Phi([\gamma]) = \left( \int_{\gamma} \omega_1, \ldots, \int_{\gamma} \omega_{p_g} \right)
+$$
+
 where $`\{\omega_1, \ldots, \omega_{p_g}\}`$ is a basis of $`H^0(S, \Omega_S^2)`$.
 
 By analyzing the relationship between the kernel of the period mapping and $`\text{Tors}(H^2(S, \mathbb{Z}))`$，我们可以进一步证明挠元素的正交性。
@@ -380,4 +412,4 @@ In a broader sense, Bloch's Conjecture reveals the deep connection between topol
 2. Bloch, S., & Kas, A. (1980). On the regulators of a surface. Duke Mathematical Journal, 47(1), 187-197.
 3. Merkurjev, A. S., & Suslin, A. A. (1982). K-cohomology of Severi-Brauer varieties and the norm residue homomorphism. Mathematics of the USSR-Izvestiya, 21(2), 307-340.
 4. Colliot-Thélène, J. L., & Sansuc, J. J. (1987). La descente sur les variétés rationnelles II. Duke Mathematical Journal, 54(2), 375-492.
-5. Voisin, C. (2002). Hodge theory and complex algebraic geometry (Vol. 1). Cambridge University Press. 
+5. Voisin, C. (2002). Hodge theory and complex algebraic geometry (Vol. 1). Cambridge University Press.

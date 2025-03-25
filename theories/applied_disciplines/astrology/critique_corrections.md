@@ -148,26 +148,44 @@ $$
 可检验模型包括：
 
 1. **基于量子干涉的心理影响预测**：特定天象与主体心理状态变化的相关性
-   $$P(\text{心理状态变化}) = |\langle\psi_{\text{天象}}|\psi_{\text{心理基线}}\rangle|^2 \pm \epsilon$$
+
+$$
+P(\text{心理状态变化}) = |\langle\psi_{\text{天象}}|\psi_{\text{心理基线}}\rangle|^2 \pm \epsilon
+$$
 
 2. **基于经典熵变化的社会行为预测**：特定天象与群体行为模式的相关性
-   $$\Delta S_{\text{社会系统}} = f(|\psi\rangle_{\text{天象}}, |\psi\rangle_{\text{社会基线}}) \pm \delta$$
+
+$$
+\Delta S_{\text{社会系统}} = f(|\psi\rangle_{\text{天象}}, |\psi\rangle_{\text{社会基线}}) \pm \delta
+$$
 
 3. **基于神经活动的生理反应预测**：特定天象与大脑神经活动模式的相关性
-   $$\Delta A_{\text{神经活动}} = g(|\psi\rangle_{\text{天象}}, |\psi\rangle_{\text{生理基线}}) \pm \gamma$$
+
+$$
+\Delta A_{\text{神经活动}} = g(|\psi\rangle_{\text{天象}}, |\psi\rangle_{\text{生理基线}}) \pm \gamma
+$$
 
 #### 4.2 占星学有效边界条件
 
 传统占星学声称普遍适用，未明确边界条件。量子经典二元论明确定义了占星学的有效边界：
 
 1. **观察者维度下限**：观察者维度低于临界值时，无法有效感知大多数天象变化
-   $$D_{\text{观察者}} > D_{\text{临界}} \text{ 才能有效感知天象}$$
+
+$$
+D_{\text{观察者}} > D_{\text{临界}} \text{ 才能有效感知天象}
+$$
 
 2. **量子纠缠强度阈值**：天象量子纠缠强度需超过噪声水平才有显著影响
-   $$|\langle\psi_{\text{天象}}|\psi_{\text{观察者}}\rangle|^2 > \eta_{\text{噪声}} \text{ 才有显著影响}$$
+
+$$
+|\langle\psi_{\text{天象}}|\psi_{\text{观察者}}\rangle|^2 > \eta_{\text{噪声}} \text{ 才有显著影响}
+$$
 
 3. **虫洞通信能量条件**：观察者需具备足够的经典能量才能解码天象信息
-   $$E_{\text{观察者可用}} > E_{\text{解码最低需求}} \text{ 才能接收信息}$$
+
+$$
+E_{\text{观察者可用}} > E_{\text{解码最低需求}} \text{ 才能接收信息}
+$$
 
 #### 4.3 量子经典二元占星实验设计
 
@@ -373,26 +391,44 @@ Quantum-Classical Dualism provides strictly testable astrological prediction mod
 Testable models include:
 
 1. **Psychological Impact Predictions Based on Quantum Interference**: Correlation between specific celestial phenomena and changes in subject psychological states
-   $$P(\text{Psychological State Change}) = |\langle\psi_{\text{Celestial Phenomena}}|\psi_{\text{Psychological Baseline}}\rangle|^2 \pm \epsilon$$
+
+$$
+P(\text{Psychological State Change}) = |\langle\psi_{\text{Celestial Phenomena}}|\psi_{\text{Psychological Baseline}}\rangle|^2 \pm \epsilon
+$$
 
 2. **Social Behavior Predictions Based on Classical Entropy Changes**: Correlation between specific celestial phenomena and group behavioral patterns
-   $$\Delta S_{\text{Social System}} = f(|\psi\rangle_{\text{Celestial Phenomena}}, |\psi\rangle_{\text{Social Baseline}}) \pm \delta$$
+
+$$
+\Delta S_{\text{Social System}} = f(|\psi\rangle_{\text{Celestial Phenomena}}, |\psi\rangle_{\text{Social Baseline}}) \pm \delta
+$$
 
 3. **Physiological Response Predictions Based on Neural Activity**: Correlation between specific celestial phenomena and brain neural activity patterns
-   $$\Delta A_{\text{Neural Activity}} = g(|\psi\rangle_{\text{Celestial Phenomena}}, |\psi\rangle_{\text{Physiological Baseline}}) \pm \gamma$$
+
+$$
+\Delta A_{\text{Neural Activity}} = g(|\psi\rangle_{\text{Celestial Phenomena}}, |\psi\rangle_{\text{Physiological Baseline}}) \pm \gamma
+$$
 
 #### 4.2 Effective Boundary Conditions for Astrology
 
 Traditional astrology claims universal applicability without specifying boundary conditions. Quantum-Classical Dualism clearly defines the effective boundaries of astrology:
 
 1. **Observer Dimension Lower Limit**: When observer dimension is below the critical value, most celestial changes cannot be effectively perceived
-   $$D_{\text{Observer}} > D_{\text{Critical}} \text{ for effective perception of celestial phenomena}$$
+
+$$
+D_{\text{Observer}} > D_{\text{Critical}} \text{ for effective perception of celestial phenomena}
+$$
 
 2. **Quantum Entanglement Intensity Threshold**: Celestial quantum entanglement intensity must exceed noise level to have significant impact
-   $$|\langle\psi_{\text{Celestial Phenomena}}|\psi_{\text{Observer}}\rangle|^2 > \eta_{\text{Noise}} \text{ for significant impact}$$
+
+$$
+|\langle\psi_{\text{Celestial Phenomena}}|\psi_{\text{Observer}}\rangle|^2 > \eta_{\text{Noise}} \text{ for significant impact}
+$$
 
 3. **Wormhole Communication Energy Conditions**: Observers must have sufficient classical energy to decode celestial information
-   $$E_{\text{Observer Available}} > E_{\text{Minimum Decoding Requirement}} \text{ to receive information}$$
+
+$$
+E_{\text{Observer Available}} > E_{\text{Minimum Decoding Requirement}} \text{ to receive information}
+$$
 
 #### 4.3 Quantum-Classical Dualism Astrological Experiment Design
 
@@ -451,4 +487,4 @@ $$
 k_i \uparrow \Leftrightarrow \text{Optimizing Classicalization Paths Through Astrology}(I_{\text{Classical Knowledge}}\uparrow,\;S_{\text{Classical Entropy}}\downarrow)
 $$
 
-The true value of astrology lies not in predicting destiny, but in helping humans more efficiently classicalize quantum information through symbolic systems, enhancing observer dimension. 
+The true value of astrology lies not in predicting destiny, but in helping humans more efficiently classicalize quantum information through symbolic systems, enhancing observer dimension.

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1775年12月16日 - 1817年7月18日  
-**国籍 (Nationality)**: 英国 (British)  
-**领域 (Fields)**: 文学、小说创作、社会观察  
+**生平 (Life Span)**: 1775年12月16日 - 1817年7月18日
+**国籍 (Nationality)**: 英国 (British)
+**领域 (Fields)**: 文学、小说创作、社会观察
 **代表作品 (Representative Works)**: 《傲慢与偏见》、《理智与情感》、《爱玛》、《诺桑觉寺》、《曼斯菲尔德庄园》、《劝导》
 
 ## 核心思想 (Core Ideas)
@@ -98,21 +98,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "凡是有钱的单身汉，总想娶位太太，这已经成了一条举世公认的真理。"
-> 
+>
 > "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
 
 > "我可以轻易原谅他的骄傲，如果他没有伤害我的骄傲。"
-> 
+>
 > "I could easily forgive his pride, if he had not mortified mine."
 
 > "我们既不能抱怨人世间没有完美，也不可以自己去追求完美。"
-> 
+>
 > "We neither of us perform to strangers."
 
 > "如果我爱上你的缺点，我还能说什么呢？"
-> 
+>
 > "I have been a selfish being all my life, in practice, though not in principle."
 
 > "心智的沟通也许是人与人之间所能实现的最美好的联结。"
-> 
-> "There is, I believe, in every disposition a tendency to some particular evil—a natural defect, which not even the best education can overcome." 
+>
+> "There is, I believe, in every disposition a tendency to some particular evil—a natural defect, which not even the best education can overcome."

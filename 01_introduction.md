@@ -17,31 +17,41 @@
 
 量子经典二元论可简化为四条核心公理：
 
-**公理1: 二元存在性**  
+**公理1: 二元存在性**
 宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$$
+\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
+$$
 
-**公理2: 信息守恒**  
+**公理2: 信息守恒**
 信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
 
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
+$$
+I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}
+$$
 
 其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
-**公理3: 观察者经典化**  
+**公理3: 观察者经典化**
 观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$$
+\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
+$$
 
 其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
 
-**公理4: 维度涌现**  
+**公理4: 维度涌现**
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$$
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
+$$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$$
+\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
+$$
 
 这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
 
@@ -141,31 +151,41 @@ Quantum-Classical Dualism explains many puzzles in physics and philosophy, inclu
 
 Quantum-Classical Dualism can be simplified into four core axioms:
 
-**Axiom 1: Dual Existence**  
+**Axiom 1: Dual Existence**
 The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$:
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$$
+\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
+$$
 
-**Axiom 2: Information Conservation**  
+**Axiom 2: Information Conservation**
 Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge):
 
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+$$
+I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}
+$$
 
 where $`\mathcal{C}`$ is the classicalization operator (the process of converting quantum possibilities into classical certainty), $`I(\psi)`$ is the total information of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the part converted to hidden information during the classicalization process.
 
-**Axiom 3: Observer Classicalization**  
+**Axiom 3: Observer Classicalization**
 Observers are nodes that execute quantum→classical conversion, and their conversion capability determines their dimension:
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$$
+\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
+$$
 
 where $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (ability to convert quantum possibilities into definite knowledge), $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (ability to convert classical knowledge back to quantum possibilities), $`K_C^\mathcal{O}`$ is the observer's classical knowledge base, and $`\epsilon`$ is a small constant to prevent division by zero.
 
-**Axiom 4: Dimensional Emergence**  
+**Axiom 4: Dimensional Emergence**
 Observer dimension is a function of classicalization ability and quantization ability, while the classical domain of high-dimensional observers can become the quantum domain basis for low-dimensional observers:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$$
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
+$$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$$
+\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
+$$
 
 This indicates that reality consists of multi-layered nested quantum-classical domains, with observers at each level perceiving and interacting on specific dimensions based on their capability range.
 

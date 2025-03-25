@@ -35,23 +35,33 @@
 
 1. **道德选择的量子叠加**：《罪与罚》中拉斯科尔尼科夫的道德困境：
 
-$$|\psi\rangle_{\text{道德}} = \alpha |\text{正义}\rangle + \beta |\text{罪恶}\rangle + \gamma |\text{救赎}\rangle$$
+$$
+|\psi\rangle_{\text{道德}} = \alpha |\text{正义}\rangle + \beta |\text{罪恶}\rangle + \gamma |\text{救赎}\rangle
+$$
 
 2. **人格的量子多重态**：《卡拉马佐夫兄弟》中三兄弟的人格分化：
 
-$$|\Psi_{\text{人格}}\rangle = \sum_i c_i |\text{德米特里}\rangle \otimes |\text{伊万}\rangle \otimes |\text{阿列克谢}\rangle$$
+$$
+|\Psi_{\text{人格}}\rangle = \sum_i c_i |\text{德米特里}\rangle \otimes |\text{伊万}\rangle \otimes |\text{阿列克谢}\rangle
+$$
 
 3. **信仰的量子不确定性**：伊万·卡拉马佐夫的信仰危机：
 
-$$|\phi\rangle_{\text{信仰}} = \frac{1}{\sqrt{2}}(|\text{信仰}\rangle + |\text{怀疑}\rangle)$$
+$$
+|\phi\rangle_{\text{信仰}} = \frac{1}{\sqrt{2}}(|\text{信仰}\rangle + |\text{怀疑}\rangle)
+$$
 
 4. **意识的量子纠缠**：《双重人格》中的人格分裂现象：
 
-$$|\Psi_{\text{意识}}\rangle = \alpha |\text{主体}\rangle |\text{分裂体}\rangle + \beta |\text{分裂体}\rangle |\text{主体}\rangle$$
+$$
+|\Psi_{\text{意识}}\rangle = \alpha |\text{主体}\rangle |\text{分裂体}\rangle + \beta |\text{分裂体}\rangle |\text{主体}\rangle
+$$
 
 5. **自由意志的量子悖论**：《地下室手记》中的理性与非理性：
 
-$$|\psi\rangle_{\text{意志}} = \sum_i c_i |\text{理性}_i\rangle \otimes |\text{非理性}_i\rangle$$
+$$
+|\psi\rangle_{\text{意志}} = \sum_i c_i |\text{理性}_i\rangle \otimes |\text{非理性}_i\rangle
+$$
 
 ### 现代意义
 
@@ -72,21 +82,21 @@ $$|\psi\rangle_{\text{意志}} = \sum_i c_i |\text{理性}_i\rangle \otimes |\te
 ## 经典引言 | Classic Quotes
 
 > "人是个谜。这个谜必须被解开，即使你花费毕生精力去解，也不要说你浪费了时间；我专心致志于这个谜，因为我想做一个人。"
-> 
+>
 > "Man is a mystery. It needs to be unraveled, and if you spend your whole life unraveling it, don't say that you've wasted time. I am studying that mystery because I want to be a human being."
 
 > "痛苦与苦难是必须的，我们才能了解自己，知道自己存在的目的，因为不经过自我审视就无法获得这种理解。"
-> 
+>
 > "Pain and suffering are always inevitable for a large intelligence and a deep heart. The really great men must, I think, have great sadness on earth."
 
 > "爱一个人就是把他看成上帝所希望的样子。"
-> 
+>
 > "To love someone means to see them as God intended them."
 
 > "如果没有上帝，一切皆被允许。"
-> 
+>
 > "If God does not exist, everything is permitted."
 
 > "人类最可怕的痛苦是知道真相却无能为力。"
-> 
+>
 > "The greatest happiness is to know the source of unhappiness."

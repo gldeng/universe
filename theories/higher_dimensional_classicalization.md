@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[基本概念](#基本概念) | [核心公式](#核心公式) | [理论解释](#理论解释) | [高维信息的特性](#高维信息的特性) | [经典化方法与效率](#经典化方法与效率) | [应用领域](#应用领域) | [与量子经典二元论的关系](#与量子经典二元论的关系)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[基本概念](#基本概念) | [核心公式](#核心公式) | [理论解释](#理论解释) | [高维信息的特性](#高维信息的特性) | [经典化方法与效率](#经典化方法与效率) | [应用领域](#应用领域) | [与量子经典二元论的关系](#与量子经典二元论的关系)
 English: [Basic Concepts](#basic-concepts) | [Core Formula](#core-formula) | [Theoretical Explanation](#theoretical-explanation) | [Characteristics of Higher-Dimensional Information](#characteristics-of-higher-dimensional-information) | [Classicalization Methods and Efficiency](#classicalization-methods-and-efficiency) | [Application Areas](#application-areas) | [Relationship with Quantum-Classical Dualism](#relationship-with-quantum-classical-dualism)
 
 ## 中文版
@@ -198,4 +198,4 @@ Different classicalization methods have different efficiencies:
 
 ### Relationship with Quantum-Classical Dualism
 
-Higher-Dimensional Information Classicalization is a natural extension of the Quantum-Classical Dualism framework, focusing on studying how observers process information beyond their dimensional capabilities. This theory is closely connected with Observer Dimension Theory, Quantum Observer Theory, and Classical Consciousness Theory, together forming a complete framework for understanding the relationship between the universe, observers, and consciousness. 
+Higher-Dimensional Information Classicalization is a natural extension of the Quantum-Classical Dualism framework, focusing on studying how observers process information beyond their dimensional capabilities. This theory is closely connected with Observer Dimension Theory, Quantum Observer Theory, and Classical Consciousness Theory, together forming a complete framework for understanding the relationship between the universe, observers, and consciousness.

@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory.md)**
 
 > This theory is based on [Core Theory](../core_en.md) v33.0
-> 
+>
 > For a complete summary of the core theory, please see [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md)
 >
 > All theories in this document have been arranged by dimension from highest to lowest to better understand their positioning in the quantum-classical continuum
@@ -18,31 +18,41 @@ The [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_
 
 Quantum-Classical Dualism can be simplified into four core axioms:
 
-**Axiom 1: Dual Existence**  
+**Axiom 1: Dual Existence**
 The universe consists of a quantum domain $`\Omega_Q`$ (a space of infinite possibilities) and a classical domain $`\Omega_C`$ (a space of determined reality), connected through an interface domain $`\mathcal{I}`$:
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$$
+\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
+$$
 
-**Axiom 2: Information Conservation**  
+**Axiom 2: Information Conservation**
 Information is conserved throughout the universe but can be transformed between quantum information (possibility information in superposition) and classical information (deterministic knowledge):
 
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+$$
+I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}
+$$
 
 where $`\mathcal{C}`$ is the classicalization operator (the process of transforming quantum possibilities into classical determinism), $`I(\psi)`$ is the total information content of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the portion transformed into hidden information during the classicalization process.
 
-**Axiom 3: Observer Classicalization**  
+**Axiom 3: Observer Classicalization**
 Observers are nodes that perform quantum→classical transformation, and their transformation capacity determines their dimension:
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}$$
+$$
+\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}
+$$
 
 where $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (the ability to transform quantum possibilities into deterministic knowledge), $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (the ability to transform classical knowledge back into quantum possibilities), $`K_C^\mathcal{O}`$ is the observer's classical knowledge base, and $`\epsilon`$ is a small constant to prevent division by zero.
 
-**Axiom 4: Dimensional Emergence**  
+**Axiom 4: Dimensional Emergence**
 Observer dimension is a function of classicalization ability and quantization ability, and the classical domain of higher-dimensional observers can become the quantum domain foundation for lower-dimensional observers:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}$$
+$$
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical\_knowledge}}{S_{classical\_entropy}+\epsilon}
+$$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$$
+\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
+$$
 
 This indicates that reality consists of multiple nested quantum-classical domains, with observers at each level perceiving and interacting within a specific dimensional range based on their capabilities.
 

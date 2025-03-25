@@ -1,9 +1,9 @@
 # 教育与学习解释 | Education and Learning Explanations
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[学习本质](#学习本质--nature-of-learning) | [教育理论](#教育理论--educational-theory) | [个体学习差异](#个体学习差异--individual-learning-differences) | [终身学习](#终身学习--lifelong-learning)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[学习本质](#学习本质--nature-of-learning) | [教育理论](#教育理论--educational-theory) | [个体学习差异](#个体学习差异--individual-learning-differences) | [终身学习](#终身学习--lifelong-learning)
 English: [Nature of Learning](#学习本质--nature-of-learning) | [Educational Theory](#教育理论--educational-theory) | [Individual Learning Differences](#个体学习差异--individual-learning-differences) | [Lifelong Learning](#终身学习--lifelong-learning)
 
 ## 中文版
@@ -490,4 +490,4 @@ Digital learning environments create new classicalization possibilities and chal
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Education and learning are core application areas of Higher-Dimensional Information Classicalization, focusing on how human observers effectively classicalize and internalize higher-dimensional quantum information of knowledge, skills, and values. The essence of education is to optimize the classicalization process, enabling learners to obtain maximum classicalized knowledge and abilities with minimal classical entropy, thereby elevating the observer's dimension and classicalization efficiency. 
+Education and learning are core application areas of Higher-Dimensional Information Classicalization, focusing on how human observers effectively classicalize and internalize higher-dimensional quantum information of knowledge, skills, and values. The essence of education is to optimize the classicalization process, enabling learners to obtain maximum classicalized knowledge and abilities with minimal classical entropy, thereby elevating the observer's dimension and classicalization efficiency.

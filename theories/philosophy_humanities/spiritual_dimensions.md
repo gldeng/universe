@@ -1,9 +1,9 @@
 # 精神维度与非物质意识 | Spiritual Dimensions and Non-material Consciousness
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#引言精神维度与量子经典二元论) | [非物质意识](#非物质意识--non-material-consciousness) | [灵性体验](#灵性体验--spiritual-experiences) | [意识超越](#意识超越--consciousness-transcendence)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#引言精神维度与量子经典二元论) | [非物质意识](#非物质意识--non-material-consciousness) | [灵性体验](#灵性体验--spiritual-experiences) | [意识超越](#意识超越--consciousness-transcendence)
 English: [Introduction](#introduction-spiritual-dimensions-and-quantum-classical-dualism) | [Non-material Consciousness](#非物质意识--non-material-consciousness) | [Spiritual Experiences](#灵性体验--spiritual-experiences) | [Consciousness Transcendence](#意识超越--consciousness-transcendence)
 
 ## 中文版
@@ -266,4 +266,4 @@ Based on Quantum-Classical Dualism, systematic methods can be developed to culti
 - Classical entropy reduction training
 - Quantum information perception expansion
 - Classicalization pattern optimization
-- Higher-dimensional information structure construction 
+- Higher-dimensional information structure construction

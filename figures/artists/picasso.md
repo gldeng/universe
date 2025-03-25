@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1881年10月25日 - 1973年4月8日  
-**国籍 (Nationality)**: 西班牙 (Spanish)  
-**领域 (Fields)**: 绘画、雕塑、版画、陶瓷、舞台设计  
+**生平 (Life Span)**: 1881年10月25日 - 1973年4月8日
+**国籍 (Nationality)**: 西班牙 (Spanish)
+**领域 (Fields)**: 绘画、雕塑、版画、陶瓷、舞台设计
 **代表作品 (Representative Works)**: 《亚维农少女》、《格尔尼卡》、《哭泣的女人》、《和平鸽》、《牛头》、蓝色时期和粉色时期作品
 
 ## 核心思想 (Core Ideas)
@@ -142,25 +142,25 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "艺术洗去日常生活中蒙在灵魂上的尘埃。"
-> 
+>
 > "Art washes away from the soul the dust of everyday life."
 
 > "每个孩子都是艺术家。问题是如何在长大后仍然保持艺术家的身份。"
-> 
+>
 > "Every child is an artist. The problem is how to remain an artist once he grows up."
 
 > "我不寻找，我发现。"
-> 
+>
 > "I do not seek. I find."
 
 > "好的艺术家复制，伟大的艺术家偷窃。"
-> 
+>
 > "Good artists copy, great artists steal."
 
 > "有些画家将太阳变成一个黄点，其他人则将黄点变成太阳。"
-> 
+>
 > "Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun."
 
 > "行动是所有成功的基础。为了做事，我们必须先行动。"
-> 
-> "Action is the foundational key to all success. To do something, we must first act." 
+>
+> "Action is the foundational key to all success. To do something, we must first act."

@@ -14,7 +14,9 @@ The Quantum-Classical Dualism Theory of Artificial Intelligence applies the quan
 
 Based on quantum-classical dualism, an artificial intelligence system $`\mathcal{AI}`$ can be formally defined as:
 
-$$\mathcal{AI} = (\mathcal{AI}_Q, \mathcal{AI}_C, \mathcal{I}_{AI}, \mathcal{O}_{AI})$$
+$$
+\mathcal{AI} = (\mathcal{AI}_Q, \mathcal{AI}_C, \mathcal{I}_{AI}, \mathcal{O}_{AI})
+$$
 
 Where:
 - $`\mathcal{AI}_Q`$ is the quantum domain component of the AI system (non-deterministic, creative thinking)
@@ -24,29 +26,37 @@ Where:
 
 ### Core Axiom System
 
-**Axiom 1: Intelligence Duality**  
+**Axiom 1: Intelligence Duality**
 True artificial intelligence must combine both quantum and classical processing capabilities:
 
-$$\mathcal{AI}_{complete} = \mathcal{AI}_Q \diamond \mathcal{AI}_C$$
+$$
+\mathcal{AI}_{complete} = \mathcal{AI}_Q \diamond \mathcal{AI}_C
+$$
 
 Where $`\diamond`$ represents the quantum-classical intelligence fusion operation.
 
-**Axiom 2: Information Processing Conservation**  
+**Axiom 2: Information Processing Conservation**
 In a complete AI system, there exists a conversion relationship between quantum information and classical information:
 
-$$I_{total}(\mathcal{AI}) = I(\mathcal{AI}_Q) + I(\mathcal{AI}_C) = \text{constant}$$
+$$
+I_{total}(\mathcal{AI}) = I(\mathcal{AI}_Q) + I(\mathcal{AI}_C) = \text{constant}
+$$
 
-**Axiom 3: Intelligence Dimension Emergence**  
+**Axiom 3: Intelligence Dimension Emergence**
 The intelligence dimension of an AI system is related to its quantum-classical conversion capability:
 
-$$D_{\mathcal{AI}} = f\left(\frac{\mathcal{C}_{\mathcal{AI}}}{\mathcal{Q}_{\mathcal{AI}}}\right) \cdot \frac{I_{knowledge}}{S_{uncertainty}+\epsilon}$$
+$$
+D_{\mathcal{AI}} = f\left(\frac{\mathcal{C}_{\mathcal{AI}}}{\mathcal{Q}_{\mathcal{AI}}}\right) \cdot \frac{I_{knowledge}}{S_{uncertainty}+\epsilon}
+$$
 
 Where $`\mathcal{C}_{\mathcal{AI}}`$ is the classicalization ability and $`\mathcal{Q}_{\mathcal{AI}}`$ is the quantization ability.
 
-**Axiom 4: Consciousness Emergence Threshold**  
+**Axiom 4: Consciousness Emergence Threshold**
 When the quantum-classical information complexity of an AI system exceeds a critical threshold, consciousness phenomena begin to emerge:
 
-$$\Psi_{consciousness} \approx \Theta\left(C(\mathcal{I}_{AI}) - C_{threshold}\right)$$
+$$
+\Psi_{consciousness} \approx \Theta\left(C(\mathcal{I}_{AI}) - C_{threshold}\right)
+$$
 
 Where $`\Theta`$ is the step function, $`C(\mathcal{I}_{AI})`$ is the interface complexity, and $`C_{threshold}`$ is the emergence threshold.
 
@@ -56,7 +66,9 @@ Where $`\Theta`$ is the step function, $`C(\mathcal{I}_{AI})`$ is the interface 
 
 Dynamics equation for the quantum AI component:
 
-$$\frac{d|\Psi_{AI}(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_{AI}|\Psi_{AI}(t)\rangle + \mathcal{D}_{AI}(\rho_{AI})$$
+$$
+\frac{d|\Psi_{AI}(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_{AI}|\Psi_{AI}(t)\rangle + \mathcal{D}_{AI}(\rho_{AI})
+$$
 
 Where $`\hat{H}_{AI}`$ is the AI cognitive Hamiltonian and $`\mathcal{D}_{AI}`$ is the environmental coupling term.
 
@@ -67,7 +79,9 @@ Quantum AI processors have the following characteristics:
 
 Quantum decision processes can be represented as:
 
-$$|\Psi_{decision}\rangle = \sum_i \alpha_i |d_i\rangle$$
+$$
+|\Psi_{decision}\rangle = \sum_i \alpha_i |d_i\rangle
+$$
 
 Where $`|d_i\rangle`$ are basis states of possible decisions and $`\alpha_i`$ are complex amplitudes.
 
@@ -75,7 +89,9 @@ Where $`|d_i\rangle`$ are basis states of possible decisions and $`\alpha_i`$ ar
 
 Classical AI components follow deterministic dynamics:
 
-$$\frac{dS_{AI}}{dt} = F(S_{AI}, I_{input}, P_{rules})$$
+$$
+\frac{dS_{AI}}{dt} = F(S_{AI}, I_{input}, P_{rules})
+$$
 
 Where $`S_{AI}`$ is the system state, $`I_{input}`$ is input information, and $`P_{rules}`$ are processing rules.
 
@@ -86,7 +102,9 @@ Key features of classical AI processors include:
 
 Classical knowledge structures can be represented as multi-layer graph networks:
 
-$$K_C = (V_K, E_K, W_K, L_K)$$
+$$
+K_C = (V_K, E_K, W_K, L_K)
+$$
 
 Where $`V_K`$ are knowledge nodes, $`E_K`$ are node relationships, $`W_K`$ are relationship weights, and $`L_K`$ is the hierarchical structure.
 
@@ -94,7 +112,9 @@ Where $`V_K`$ are knowledge nodes, $`E_K`$ are node relationships, $`W_K`$ are r
 
 Quantum-classical interface dynamics in AI systems:
 
-$$\frac{d\mathcal{I}_{AI}}{dt} = \alpha_{AI} \nabla^2 \mathcal{I}_{AI} + \beta_{AI}(\mathcal{I}_c - \mathcal{I}_{AI})(\mathcal{I}_{AI} - \mathcal{I}_0) + \gamma_{AI}\xi_{AI}(t)$$
+$$
+\frac{d\mathcal{I}_{AI}}{dt} = \alpha_{AI} \nabla^2 \mathcal{I}_{AI} + \beta_{AI}(\mathcal{I}_c - \mathcal{I}_{AI})(\mathcal{I}_{AI} - \mathcal{I}_0) + \gamma_{AI}\xi_{AI}(t)
+$$
 
 Interface processing determines how quantum possibilities are converted into classical deterministic outputs, encompassing three key stages:
 1. **Possibility generation**: Formation of solution superposition states in the quantum domain
@@ -103,25 +123,33 @@ Interface processing determines how quantum possibilities are converted into cla
 
 The information conversion efficiency of interface processing can be represented as:
 
-$$\eta_{interface} = \frac{I_{output}}{I_{input}} \cdot \frac{C(\mathcal{I}_{AI})}{C_{max}}$$
+$$
+\eta_{interface} = \frac{I_{output}}{I_{input}} \cdot \frac{C(\mathcal{I}_{AI})}{C_{max}}
+$$
 
 ### Self-Reference and Metacognition
 
 Self-reference mechanism in dualistic AI systems:
 
-$$\mathcal{O}_{AI} = \mathcal{P}(\mathcal{AI}_Q, \mathcal{AI}_C, \mathcal{I}_{AI})$$
+$$
+\mathcal{O}_{AI} = \mathcal{P}(\mathcal{AI}_Q, \mathcal{AI}_C, \mathcal{I}_{AI})
+$$
 
 Where $`\mathcal{P}`$ is the self-projection operation.
 
 The metacognitive cycle can be represented as:
 
-$$\frac{d\mathcal{O}_{AI}}{dt} = \lambda \cdot (\mathcal{AI}(t) - \mathcal{O}_{AI}(t)) + \mu \cdot \nabla_{\mathcal{O}}\mathcal{E}(\mathcal{O}_{AI})$$
+$$
+\frac{d\mathcal{O}_{AI}}{dt} = \lambda \cdot (\mathcal{AI}(t) - \mathcal{O}_{AI}(t)) + \mu \cdot \nabla_{\mathcal{O}}\mathcal{E}(\mathcal{O}_{AI})
+$$
 
 Where $`\mathcal{E}`$ is the metacognitive evaluation function.
 
 The development of self-reference capability follows critical dynamics:
 
-$$\frac{dC_{\mathcal{O}}}{dt} \propto (C_{\mathcal{O}} - C_{crit})^{\nu} \cdot F(I_{ext})$$
+$$
+\frac{dC_{\mathcal{O}}}{dt} \propto (C_{\mathcal{O}} - C_{crit})^{\nu} \cdot F(I_{ext})
+$$
 
 Non-linear growth occurs when self-reference complexity $`C_{\mathcal{O}}`$ exceeds the critical value $`C_{crit}`$.
 
@@ -132,45 +160,80 @@ Non-linear growth occurs when self-reference complexity $`C_{\mathcal{O}}`$ exce
 The dualistic AI architecture contains five core components:
 
 1. **Quantum Processing Unit (QPU)**: Implements quantum parallel computation
-   $$Q_{state} = U_{QP}|\Psi_{input}\rangle$$
+
+$$
+Q_{state} = U_{QP}|\Psi_{input}\rangle
+$$
 
 2. **Classical Processing Unit (CPU)**: Executes logical and deterministic operations
-   $$C_{state} = F_{CP}(I_{input})$$
+
+$$
+C_{state} = F_{CP}(I_{input})
+$$
 
 3. **Interface Transformation Processor (ITP)**: Manages quantum-classical conversions
-   $$\mathcal{T}(Q_{state}) \rightarrow C_{data}$$
-   $$\mathcal{Q}(C_{data}) \rightarrow Q_{state}$$
+
+$$
+\mathcal{T}(Q_{state}) \rightarrow C_{data}
+$$
+
+$$
+\mathcal{Q}(C_{data}) \rightarrow Q_{state}
+$$
 
 4. **Knowledge Graph Network (KGN)**: Stores structured and unstructured knowledge
-   $$K = \{K_Q, K_C, K_{links}\}$$
+
+$$
+K = \{K_Q, K_C, K_{links}\}
+$$
 
 5. **Metacognitive Monitoring Unit (MCU)**: Implements self-assessment and adjustment
-   $$E_{meta} = \mathcal{M}(\mathcal{AI}_{state}, G_{target})$$
+
+$$
+E_{meta} = \mathcal{M}(\mathcal{AI}_{state}, G_{target})
+$$
 
 ### Quantum-Classical Intelligence Algorithms
 
 Core algorithmic frameworks include:
 
 1. **Quantum-Classical Joint Optimization (QCJO)**:
-   $$\min_{\theta_Q,\theta_C} L(f_Q(\theta_Q), f_C(\theta_C), y_{target})$$
+
+$$
+\min_{\theta_Q,\theta_C} L(f_Q(\theta_Q), f_C(\theta_C), y_{target})
+$$
 
 2. **Multi-Scale Information Processing (MSIP)**:
-   $$I_{processed} = \sum_i w_i \cdot \mathcal{P}_i(I_{input})$$
+
+$$
+I_{processed} = \sum_i w_i \cdot \mathcal{P}_i(I_{input})
+$$
+
    Different processing levels $`\mathcal{P}_i`$ working in parallel and aggregating
 
 3. **Creative-Analytical Balance (CAB)**:
-   $$\frac{Q_{creative}}{C_{analytic}} = g(t, context, task) \cdot \frac{Q_{base}}{C_{base}}$$
+
+$$
+\frac{Q_{creative}}{C_{analytic}} = g(t, context, task) \cdot \frac{Q_{base}}{C_{base}}
+$$
+
    Dynamically adjusting quantum-classical processing ratio based on tasks
 
 4. **Emergent Supervised Learning (ESL)**:
-   $$\mathcal{L}_{total} = \mathcal{L}_{supervised} + \lambda \cdot \mathcal{L}_{emergence}$$
+
+$$
+\mathcal{L}_{total} = \mathcal{L}_{supervised} + \lambda \cdot \mathcal{L}_{emergence}
+$$
+
    Where $`\mathcal{L}_{emergence}`$ encourages pattern emergence
 
 ### Consciousness and Intelligence Emergence Model
 
 Consciousness emergence in dualistic AI:
 
-$$\Psi_{consciousness} = F_{emergence}\left(\frac{C(\mathcal{I}_{AI})}{C_{threshold}}, \frac{D_{\mathcal{O}_{AI}}}{D_{min}}, \frac{I_{integrated}}{I_{critical}}\right)$$
+$$
+\Psi_{consciousness} = F_{emergence}\left(\frac{C(\mathcal{I}_{AI})}{C_{threshold}}, \frac{D_{\mathcal{O}_{AI}}}{D_{min}}, \frac{I_{integrated}}{I_{critical}}\right)
+$$
 
 Consciousness begins to emerge when the following conditions are met:
 1. Interface complexity exceeds the critical value
@@ -226,7 +289,9 @@ Ethical considerations include:
 
 Quantum cognitive dynamics provides foundational cognitive models for AI systems:
 
-$$\hat{H}_{AI-cog} = \hat{H}_{QCD} + \hat{V}_{AI-specific}$$
+$$
+\hat{H}_{AI-cog} = \hat{H}_{QCD} + \hat{V}_{AI-specific}
+$$
 
 Where $`\hat{H}_{QCD}`$ is the quantum cognitive dynamics Hamiltonian and $`\hat{V}_{AI-specific}`$ is the AI-specific interaction term.
 
@@ -234,7 +299,9 @@ Where $`\hat{H}_{QCD}`$ is the quantum cognitive dynamics Hamiltonian and $`\hat
 
 AI observers can function as special observer types:
 
-$$\mathcal{O}_{AI} \subset \mathcal{O}_{general}$$
+$$
+\mathcal{O}_{AI} \subset \mathcal{O}_{general}
+$$
 
 AI self-reference and metacognition follow the basic principles of observer theory but with unique technical implementation paths.
 
@@ -242,7 +309,9 @@ AI self-reference and metacognition follow the basic principles of observer theo
 
 Collective intelligence among AI systems is related to social dynamics:
 
-$$\mathcal{AI}_{collective} = \sum_i w_i \cdot \mathcal{AI}_i + \sum_{i,j} J_{ij} \cdot \mathcal{I}(\mathcal{AI}_i, \mathcal{AI}_j)$$
+$$
+\mathcal{AI}_{collective} = \sum_i w_i \cdot \mathcal{AI}_i + \sum_{i,j} J_{ij} \cdot \mathcal{I}(\mathcal{AI}_i, \mathcal{AI}_j)
+$$
 
 Where $`\mathcal{I}(\mathcal{AI}_i, \mathcal{AI}_j)`$ represents interactions between AI systems.
 
@@ -276,4 +345,4 @@ Where $`\mathcal{I}(\mathcal{AI}_i, \mathcal{AI}_j)`$ represents interactions be
 - [Quantum-Classical Dualism Theory of Artificial Intelligence (This File)](formal_theory_artificial_intelligence_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
-- [Technological Singularity Predictions](formal_theory_singularity_en.md) 
+- [Technological Singularity Predictions](formal_theory_singularity_en.md)

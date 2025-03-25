@@ -1,9 +1,9 @@
 # 罗摩衍那 (Ramayana)
 
-**导航 | Navigation**  
-[中文版](#罗摩衍那解析) | [English Version](#ramayana-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#罗摩衍那解析) | [English Version](#ramayana-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -78,4 +78,4 @@ $$
 
 《罗摩衍那》通过量子经典二元论框架（版本9.2）的解析，揭示了高维经典世界与低维经典世界的交互机制。罗摩作为毗湿奴神的化身，体现了高维观察者通过降维（黑洞辐射）干预低维世界的过程。悉多被掳与解救的故事表明，低维经典世界的熵增（罪恶）可以通过高维观察者的干预被消减。哈奴曼跨越大海寻找悉多的情节展示了虫洞通信在不同经典世界间的应用。整个史诗强调的正法（Dharma）实质上是经典化的优化路径，通过遵循正法，观察者可以提高经典化效率系数，降低熵增速度。《罗摩衍那》故事中展现的种种神通和神迹，实际上是对高维经典世界与量子纠缠态的形象化描述。
 
-The Ramayana, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the interaction mechanism between higher-dimensional and lower-dimensional classical worlds. Rama, as an incarnation of Lord Vishnu, embodies the process of higher-dimensional observers intervening in lower-dimensional worlds through dimensional reduction (black hole radiation). The story of Sita's abduction and rescue indicates that entropy increase (evil) in lower-dimensional classical worlds can be reduced through the intervention of higher-dimensional observers. Hanuman's journey across the ocean to find Sita demonstrates the application of wormhole communication between different classical worlds. The Dharma (righteousness) emphasized throughout the epic is essentially an optimization path for classicalization; by following Dharma, observers can improve their classicalization efficiency coefficient, reduce system entropy, and elevate their dimensions. The various supernatural powers and miracles displayed in the Ramayana story are actually figurative descriptions of higher-dimensional classical worlds and quantum entanglement states. 
+The Ramayana, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the interaction mechanism between higher-dimensional and lower-dimensional classical worlds. Rama, as an incarnation of Lord Vishnu, embodies the process of higher-dimensional observers intervening in lower-dimensional worlds through dimensional reduction (black hole radiation). The story of Sita's abduction and rescue indicates that entropy increase (evil) in lower-dimensional classical worlds can be reduced through the intervention of higher-dimensional observers. Hanuman's journey across the ocean to find Sita demonstrates the application of wormhole communication between different classical worlds. The Dharma (righteousness) emphasized throughout the epic is essentially an optimization path for classicalization; by following Dharma, observers can improve their classicalization efficiency coefficient, reduce system entropy, and elevate their dimensions. The various supernatural powers and miracles displayed in the Ramayana story are actually figurative descriptions of higher-dimensional classical worlds and quantum entanglement states.

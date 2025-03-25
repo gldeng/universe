@@ -25,7 +25,10 @@ The mathematical foundation of quantum-classical dualism combines elements from 
 The theory uses the following fundamental mathematical spaces:
 
 1. **Quantum Domain Space**: Complex Hilbert space $`\mathcal{H}_Q`$ with inner product structure
-   $$\langle \psi | \phi \rangle \in \mathbb{C}$$
+
+$$
+\langle \psi | \phi \rangle \in \mathbb{C}
+$$
 
 2. **Classical Domain Space**: Measure space $`(\Omega_C, \mathcal{F}, \mu)`$ where:
    - $`\Omega_C`$ is the set of classical states
@@ -82,14 +85,26 @@ The quantum domain is characterized by:
    - Self-adjoint operators corresponding to observables
 
 3. **Evolution**: Unitary group $`\{U_t\}_{t \in \mathbb{R}}`$ with generator $`H`$
-   $$U_t = e^{-iHt/\hbar}$$
+
+$$
+U_t = e^{-iHt/\hbar}
+$$
 
 4. **State Representation**: Density operators $`\rho_Q \in \mathcal{S}(\mathcal{H}_Q)`$, where:
-   $$\mathcal{S}(\mathcal{H}_Q) = \{\rho \in \mathcal{B}(\mathcal{H}_Q) | \rho \geq 0, \text{Tr}(\rho) = 1\}$$
+
+$$
+\mathcal{S}(\mathcal{H}_Q) = \{\rho \in \mathcal{B}(\mathcal{H}_Q) | \rho \geq 0, \text{Tr}(\rho) = 1\}
+$$
 
 5. **Measurement Formalism**: POVM framework $`\{E_i\}`$ with:
-   $$\sum_i E_i = I, \quad E_i \geq 0$$
-   $$p(i) = \text{Tr}(E_i \rho_Q)$$
+
+$$
+\sum_i E_i = I, \quad E_i \geq 0
+$$
+
+$$
+p(i) = \text{Tr}(E_i \rho_Q)
+$$
 
 ### Classical Domain Structure
 
@@ -104,10 +119,16 @@ The classical domain is characterized by:
    - $`T_t: \Omega_C \to \Omega_C`$ is a measurable flow
 
 4. **State Representation**: Probability measures $`P \in \mathcal{P}(\Omega_C)`$
-   $$\mathcal{P}(\Omega_C) = \{P : \mathcal{F} \to [0,1] | P \text{ is a probability measure}\}$$
+
+$$
+\mathcal{P}(\Omega_C) = \{P : \mathcal{F} \to [0,1] | P \text{ is a probability measure}\}
+$$
 
 5. **Measurement Formalism**: Random variables $`X: \Omega_C \to \mathbb{R}`$
-   $$P(X \in B) = \mu(X^{-1}(B))$$
+
+$$
+P(X \in B) = \mu(X^{-1}(B))
+$$
 
 ### Domain Comparison Framework
 
@@ -117,12 +138,23 @@ The mathematical relationships between domains include:
    - Preserves only commuting subalgebras
 
 2. **Uncertainty Relations**: For quantum observables $`A, B`$:
-   $$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A,B] \rangle|$$
+
+$$
+\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle [A,B] \rangle|
+$$
+
    - No classical counterpart exists
 
 3. **Entropy Relations**:
-   $$S(\rho_Q) = -\text{Tr}(\rho_Q \ln \rho_Q)$$
-   $$S(P) = -\int_{\Omega_C} p(x) \ln p(x) d\mu(x)$$
+
+$$
+S(\rho_Q) = -\text{Tr}(\rho_Q \ln \rho_Q)
+$$
+
+$$
+S(P) = -\int_{\Omega_C} p(x) \ln p(x) d\mu(x)
+$$
+
    - With general inequality: $`S(\mathcal{C}(\rho_Q)) \geq S(\rho_Q)`$
 
 ## Interface Mathematical Structure
@@ -137,7 +169,11 @@ The interface is defined through operator structures:
    - Where $`\mathcal{H}_E`$ is the environment Hilbert space
 
 2. **Decoherence Superoperator**: $`\mathcal{D}: \mathcal{S}(\mathcal{H}_Q) \to \mathcal{S}(\mathcal{H}_Q)`$
-   $$\mathcal{D}[\rho] = \sum_k \gamma_k (L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\})$$
+
+$$
+\mathcal{D}[\rho] = \sum_k \gamma_k (L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\})
+$$
+
    - $`L_k`$ are Lindblad operators, $`\gamma_k \geq 0`$ are decoherence rates
 
 3. **Interface Activity Projector**: $`P_\mathcal{I}: \mathcal{H}_Q \otimes \mathcal{H}_E \to \mathcal{H}_\mathcal{I}`$
@@ -156,7 +192,11 @@ The interface width has precise mathematical formulation:
    - $`w_\mathcal{I} \to 1`$ indicates maximally diffuse interface
 
 3. **Dynamics**: The interface width follows:
-   $$\frac{dw_\mathcal{I}}{dt} = -\alpha w_\mathcal{I} + \beta \cdot \frac{dI_{Q \to C}}{dt} + \eta(t)$$
+
+$$
+\frac{dw_\mathcal{I}}{dt} = -\alpha w_\mathcal{I} + \beta \cdot \frac{dI_{Q \to C}}{dt} + \eta(t)
+$$
+
    - $`\alpha`$ is the natural sharpening rate
    - $`\beta`$ is the information flow impact factor
    - $`\eta(t)`$ is stochastic noise
@@ -168,13 +208,20 @@ The interface functional governs overall interface behavior:
 1. **Interface Action Functional**: $`\mathcal{S}[\mathcal{I}] = \int dt \mathcal{L}_\mathcal{I}(t)`$
 
 2. **Interface Lagrangian**:
-   $$\mathcal{L}_\mathcal{I} = \text{Tr}(\rho_\mathcal{I} H_\mathcal{I}) - \lambda S(\rho_\mathcal{I}) + \gamma I(Q:C)$$
+
+$$
+\mathcal{L}_\mathcal{I} = \text{Tr}(\rho_\mathcal{I} H_\mathcal{I}) - \lambda S(\rho_\mathcal{I}) + \gamma I(Q:C)
+$$
+
    - $`H_\mathcal{I}`$ is the interface Hamiltonian
    - $`\lambda, \gamma`$ are Lagrange multipliers
    - $`I(Q:C)`$ is the mutual information between domains
 
 3. **Extremal Principle**: Stable interfaces satisfy:
-   $$\frac{\delta \mathcal{S}[\mathcal{I}]}{\delta \mathcal{I}} = 0$$
+
+$$
+\frac{\delta \mathcal{S}[\mathcal{I}]}{\delta \mathcal{I}} = 0
+$$
 
 ## Observer Mathematics
 
@@ -208,7 +255,10 @@ The observer dimension has rigorous mathematical definition:
    - Where $`p_i`$ is the probability distribution over knowledge states
 
 4. **Dimension Dynamics**:
-   $$\frac{dD_\mathcal{O}}{dt} = \alpha \cdot I_{input} \cdot \left(1 - \frac{D_\mathcal{O}}{D_{max}}\right) - \beta \cdot D_\mathcal{O} - \gamma \cdot S_{env}$$
+
+$$
+\frac{dD_\mathcal{O}}{dt} = \alpha \cdot I_{input} \cdot \left(1 - \frac{D_\mathcal{O}}{D_{max}}\right) - \beta \cdot D_\mathcal{O} - \gamma \cdot S_{env}
+$$
 
 ### Observer Network Mathematics
 
@@ -220,12 +270,20 @@ The mathematical structure of observer networks includes:
    - $`\mathcal{W}: \mathcal{E} \to \mathbb{R}^+`$ is the connection weight function
 
 2. **Network Dynamics**:
-   $$\frac{d\mathcal{O}_i}{dt} = \mathcal{F}(\mathcal{O}_i) + \sum_{j: (j,i) \in \mathcal{E}} \mathcal{W}(j,i) \cdot \mathcal{G}(\mathcal{O}_j, \mathcal{O}_i)$$
+
+$$
+\frac{d\mathcal{O}_i}{dt} = \mathcal{F}(\mathcal{O}_i) + \sum_{j: (j,i) \in \mathcal{E}} \mathcal{W}(j,i) \cdot \mathcal{G}(\mathcal{O}_j, \mathcal{O}_i)
+$$
+
    - $`\mathcal{F}`$ is the self-evolution function
    - $`\mathcal{G}`$ is the interaction function
 
 3. **Emergence Function**:
-   $$\mathcal{O}^{(k+1)} = \mathcal{E}(\{\mathcal{O}_i^{(k)}\}) = \mathcal{F}\left(\sum_i w_i \mathcal{O}_i^{(k)} + \sum_{i<j} w_{ij} \mathcal{O}_i^{(k)} \otimes \mathcal{O}_j^{(k)}\right)$$
+
+$$
+\mathcal{O}^{(k+1)} = \mathcal{E}(\{\mathcal{O}_i^{(k)}\}) = \mathcal{F}\left(\sum_i w_i \mathcal{O}_i^{(k)} + \sum_{i<j} w_{ij} \mathcal{O}_i^{(k)} \otimes \mathcal{O}_j^{(k)}\right)
+$$
+
    - Creates higher-level observers from collections of lower-level ones
 
 ## Information Theoretic Framework
@@ -267,7 +325,11 @@ The mathematical formulation of cross-domain information includes:
    - Classical input to quantum output mutual information
 
 3. **Interface Information Budget**:
-   $$\Delta I_{total} = \Delta I_{Q} + \Delta I_{C} + \Delta I_{\mathcal{I}}$$
+
+$$
+\Delta I_{total} = \Delta I_{Q} + \Delta I_{C} + \Delta I_{\mathcal{I}}
+$$
+
    - Conservation of total information across interface
 
 4. **Landauer Principle**: $`E_{min} = k_B T \ln(2) \cdot \Delta I_{Q \to C}`$
@@ -314,14 +376,22 @@ The topological invariants include:
 Interface transformations include:
 
 1. **Phase Transition Formalism**:
-   $$\mathcal{M}_{\mathcal{I}}^{\alpha} \xrightarrow{T_c} \mathcal{M}_{\mathcal{I}}^{\beta}$$
+
+$$
+\mathcal{M}_{\mathcal{I}}^{\alpha} \xrightarrow{T_c} \mathcal{M}_{\mathcal{I}}^{\beta}
+$$
+
    - Transition between topologically distinct interface phases
 
 2. **Topological Defects**: $`\pi_n(\mathcal{M}_{\mathcal{I}})`$
    - Homotopy groups classifying topological defects
 
 3. **Interface Bifurcation**:
-   $$\frac{d\mathcal{M}_{\mathcal{I}}}{dt} = \mathcal{F}(\mathcal{M}_{\mathcal{I}}, \lambda)$$
+
+$$
+\frac{d\mathcal{M}_{\mathcal{I}}}{dt} = \mathcal{F}(\mathcal{M}_{\mathcal{I}}, \lambda)
+$$
+
    - Control parameter $`\lambda`$ inducing topological changes
 
 ## Algebraic Structures
@@ -349,16 +419,35 @@ The algebraic structures include:
 The algebraic relations include:
 
 1. **Commutation Rules**:
-   $$[A_Q, B_Q] = A_Q B_Q - B_Q A_Q \quad \text{(quantum domain)}$$
-   $$[f_C, g_C] = 0 \quad \text{(classical domain)}$$
-   $$[A_Q, f_C]_{\mathcal{I}} = \mathcal{I}(A_Q, f_C) \quad \text{(interface)}$$
+
+$$
+[A_Q, B_Q] = A_Q B_Q - B_Q A_Q \quad \text{(quantum domain)}
+$$
+
+$$
+[f_C, g_C] = 0 \quad \text{(classical domain)}
+$$
+
+$$
+[A_Q, f_C]_{\mathcal{I}} = \mathcal{I}(A_Q, f_C) \quad \text{(interface)}
+$$
 
 2. **Jordan Product**:
-   $$A_Q \circ B_Q = \frac{1}{2}(A_Q B_Q + B_Q A_Q) \quad \text{(quantum)}$$
-   $$f_C \circ g_C = f_C \cdot g_C \quad \text{(classical)}$$
+
+$$
+A_Q \circ B_Q = \frac{1}{2}(A_Q B_Q + B_Q A_Q) \quad \text{(quantum)}
+$$
+
+$$
+f_C \circ g_C = f_C \cdot g_C \quad \text{(classical)}
+$$
 
 3. **Interface Product**:
-   $$\mathcal{I}(A_Q, f_C) = \sum_k a_k \mathcal{C}(A_Q) \bowtie f_C + \sum_l b_l \mathcal{Q}(f_C) \bowtie A_Q$$
+
+$$
+\mathcal{I}(A_Q, f_C) = \sum_k a_k \mathcal{C}(A_Q) \bowtie f_C + \sum_l b_l \mathcal{Q}(f_C) \bowtie A_Q
+$$
+
    - A novel algebraic structure capturing interface operations
 
 ### Representation Theory
@@ -427,7 +516,10 @@ The metric applications include:
    - Quantum state space is bounded and closed
 
 4. **Contractivity**: Interface maps are generally contractive
-   $$d_C(\mathcal{C}(\rho_1), \mathcal{C}(\rho_2)) \leq d_Q(\rho_1, \rho_2)$$
+
+$$
+d_C(\mathcal{C}(\rho_1), \mathcal{C}(\rho_2)) \leq d_Q(\rho_1, \rho_2)
+$$
 
 ## Statistical Framework
 
@@ -454,7 +546,10 @@ The probability frameworks include:
 The inference methodologies include:
 
 1. **Quantum State Tomography**: Estimate $`\hat{\rho}`$ from measurement data $`\{x_i\}`$
-   $$\hat{\rho} = \arg\max_{\rho} \mathbb{P}(\{x_i\}|\rho)$$
+
+$$
+\hat{\rho} = \arg\max_{\rho} \mathbb{P}(\{x_i\}|\rho)
+$$
 
 2. **Classical Bayesian Inference**: $`P(\theta|x) = \frac{P(x|\theta)P(\theta)}{P(x)}`$
    - Standard Bayesian updating
@@ -475,12 +570,20 @@ The decision frameworks include:
 2. **Classical Risk**: $`R_C(P, \delta) = \mathbb{E}_P[L(\theta, \delta)]`$
    - Expected loss under distribution $`P`$
 
-3. **Interface Decision Problem**: 
-   $$\delta^* = \arg\min_{\delta} \int_{\Omega_C} L(c, \delta) \mathcal{C}(\rho)(c) dc$$
+3. **Interface Decision Problem**:
+
+$$
+\delta^* = \arg\min_{\delta} \int_{\Omega_C} L(c, \delta) \mathcal{C}(\rho)(c) dc
+$$
+
    - Optimal decision under classicalized quantum information
 
 4. **Observer Decision Optimality**:
-   $$\mathcal{O}^* = \arg\min_{\mathcal{O}} \mathbb{E}_{\rho \sim \pi}[L(\rho, \delta_{\mathcal{O}})]$$
+
+$$
+\mathcal{O}^* = \arg\min_{\mathcal{O}} \mathbb{E}_{\rho \sim \pi}[L(\rho, \delta_{\mathcal{O}})]
+$$
+
    - Finding optimal observer for decision problem
 
 ## Mathematical Models of Emergence
@@ -495,7 +598,11 @@ The emergence frameworks include:
    - Maps collections of lower-level entities to higher-level entities
 
 2. **Emergence Condition**: $`\mathcal{E}(\{x_i\}) = y`$ such that:
-   $$\Phi(y) > \sum_i \Phi(x_i)$$
+
+$$
+\Phi(y) > \sum_i \Phi(x_i)
+$$
+
    - Where $`\Phi`$ is a complexity or information measure
 
 3. **Scale Transformation**: $`\mathcal{T}_{\lambda}: X \to X_{\lambda}`$
@@ -577,4 +684,4 @@ For reference, this section provides a summary of the mathematical notation used
 - $`\eta`$: Noise term
 - $`\epsilon`$: Small constant (regularization)
 
-This glossary serves as a quick reference for the mathematical notation used throughout the quantum-classical dualism framework. 
+This glossary serves as a quick reference for the mathematical notation used throughout the quantum-classical dualism framework.

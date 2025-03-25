@@ -234,4 +234,4 @@ The curriculum design for Quantum-Classical Dualism is based on the following co
 2. **Interactive Exercises**: Design efficient interactive exercises based on quantum entanglement principles
 3. **Case Library**: Establish a multi-domain theory application case library
 4. **Experimental Simulation**: Develop virtual experimental environments
-5. **Assessment Tools**: Create assessment systems suitable for different levels 
+5. **Assessment Tools**: Create assessment systems suitable for different levels

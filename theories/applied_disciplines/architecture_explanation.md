@@ -1,9 +1,9 @@
 # 建筑学视角下的量子经典二元论 (Quantum-Classical Dualism from Architectural Perspective)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#1-引言建筑学与量子经典二元论) | [建筑设计过程](#2-建筑设计过程视角) | [建筑空间组织](#3-建筑空间组织视角) | [建筑形式与风格](#4-建筑形式与风格视角) | [建筑技术与材料](#5-建筑技术与材料视角) | [建筑适应性](#6-建筑适应性与持续性视角)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#1-引言建筑学与量子经典二元论) | [建筑设计过程](#2-建筑设计过程视角) | [建筑空间组织](#3-建筑空间组织视角) | [建筑形式与风格](#4-建筑形式与风格视角) | [建筑技术与材料](#5-建筑技术与材料视角) | [建筑适应性](#6-建筑适应性与持续性视角)
 English: [Introduction](#1-introduction-architecture-and-quantum-classical-dualism) | [Architectural Design Process](#2-architectural-design-process-perspective) | [Spatial Organization](#3-spatial-organization-perspective) | [Form & Style](#4-architectural-form-and-style-perspective) | [Technology & Materials](#5-architectural-technology-and-materials-perspective) | [Adaptability](#6-architectural-adaptability-and-sustainability-perspective)
 
 ## 索引
@@ -312,4 +312,4 @@ I_{\text{建筑传统（旧经典知识）}} + |\psi\rangle_{\text{新解释（�
 
 Architecture, as the art and science of human habitat, focusing on the integration of space, form, function, technology, and culture, has multi-level conceptual correspondences with Quantum-Classical Dualism. Core dual relationships in architecture, such as creative conception and physical construction, abstract concepts and concrete forms, stable structures and flexible uses, all bear striking similarities to the quantum-classical dual structure, classicalization process, and observer network in Quantum-Classical Dualism. Through the architectural perspective, we can more intuitively understand the application of Quantum-Classical Dualism in the field of built environment, and explore its implications for architectural design theory and practice.
 
-[English content continues with detailed sections corresponding to the Chinese version...] 
+[English content continues with detailed sections corresponding to the Chinese version...]

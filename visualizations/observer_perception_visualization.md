@@ -500,4 +500,4 @@ Visualized as a logarithmic relationship chart:
 
 - [返回可视化目录 | Return to Visualizations](README.md)
 - [宇宙结构可视化 | Universe Structure Visualization](universe_structure_visualization.md)
-- [量子意识可视化 | Quantum Consciousness Visualization](quantum_consciousness_visualization.md) 
+- [量子意识可视化 | Quantum Consciousness Visualization](quantum_consciousness_visualization.md)

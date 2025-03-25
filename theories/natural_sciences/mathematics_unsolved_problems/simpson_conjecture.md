@@ -301,4 +301,4 @@ In a broader sense, Simpson's Conjecture reveals the deep connection between rep
 4. Donaldson, S. K. (1987). Twisted harmonic maps and the self-duality equations. Proceedings of the London Mathematical Society, 3(1), 127-131.
 5. Hitchin, N. J. (1987). The self-duality equations on a Riemann surface. Proceedings of the London Mathematical Society, 3(1), 59-126.
 6. Goldman, W. M., & Millson, J. J. (1988). The deformation theory of representations of fundamental groups of compact Kähler manifolds. Publications Mathématiques de l'IHÉS, 67(1), 43-96.
-7. Arapura, D. (1997). Fundamental groups of smooth projective varieties. In Current topics in complex algebraic geometry (pp. 1-16). Cambridge University Press. 
+7. Arapura, D. (1997). Fundamental groups of smooth projective varieties. In Current topics in complex algebraic geometry (pp. 1-16). Cambridge University Press.

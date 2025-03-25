@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1809年-1882年 (1809-1882)  
-**国籍 | Nationality**: 英国 (United Kingdom)  
-**主要领域 | Main Fields**: 生物学、进化论、自然历史、地质学 (Biology, Evolution, Natural History, Geology)  
+**生卒年份 | Lifespan**: 1809年-1882年 (1809-1882)
+**国籍 | Nationality**: 英国 (United Kingdom)
+**主要领域 | Main Fields**: 生物学、进化论、自然历史、地质学 (Biology, Evolution, Natural History, Geology)
 **代表作品 | Representative Works**: 《物种起源》、《人类的由来》、《表情的表达》、《贝格尔号航行记》、《珊瑚礁的结构和分布》 (On the Origin of Species, The Descent of Man, The Expression of the Emotions, The Voyage of the Beagle, The Structure and Distribution of Coral Reefs)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ In sexual selection, one sex (usually female) acts as an "observer," with its pr
 - "The difference in mind between man and the higher animals, great as it is, certainly is one of degree and not of kind."
 - "Ignorance more frequently begets confidence than does knowledge."
 - "In the long history of humankind, those who learned to collaborate and improvise most effectively have prevailed."
-- "The world was not made according to our wish, but is discovered through our courage." 
+- "The world was not made according to our wish, but is discovered through our courage."

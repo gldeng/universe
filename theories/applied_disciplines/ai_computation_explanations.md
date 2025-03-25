@@ -528,4 +528,4 @@ $$
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Artificial intelligence and computation theory are core application areas of Higher-Dimensional Information Classicalization, studying how to design and optimize artificial systems to classicalize complex quantum information. By understanding computation as a special classicalization process, we can gain deeper insights into the nature, limitations, and possibilities of AI systems, and explore the relationship between human classicalization capabilities and artificial classicalization systems. 
+Artificial intelligence and computation theory are core application areas of Higher-Dimensional Information Classicalization, studying how to design and optimize artificial systems to classicalize complex quantum information. By understanding computation as a special classicalization process, we can gain deeper insights into the nature, limitations, and possibilities of AI systems, and explore the relationship between human classicalization capabilities and artificial classicalization systems.

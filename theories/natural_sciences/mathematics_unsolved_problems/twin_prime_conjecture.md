@@ -56,10 +56,16 @@ $$
 1. 定义素数筛选函数 $`\Pi: \mathbb{N} \rightarrow \{0,1\}`$，其中 $`\Pi(n) = 1`$ 当且仅当 $`n`$ 是素数。
 
 2. 构造孪生素数指示函数 $`\Theta: \mathbb{N} \rightarrow \{0,1\}`$，其中：
-   $$\Theta(n) = \Pi(n) \cdot \Pi(n+2)$$
+
+$$
+\Theta(n) = \Pi(n) \cdot \Pi(n+2)
+$$
 
 3. 量子到经典的映射定义为：
-   $$\mathcal{T}(|\mathcal{T}\rangle) = \{n \in \mathbb{N} | \Theta(n) = 1\}$$
+
+$$
+\mathcal{T}(|\mathcal{T}\rangle) = \{n \in \mathbb{N} | \Theta(n) = 1\}
+$$
 
 这种映射保留了孪生素数对的基本结构，同时将量子纠缠态转换为经典集合。
 
@@ -69,15 +75,21 @@ $$
 
 1. **孪生素数间隔不变性**：在量子域和经典域中，孪生素数对之间的间隔均为2。形式化表示为：
 
-   $$\forall (p,q) \in T: q - p = 2 \iff \hat{D}_2 |p\rangle \otimes |q\rangle = 2 |p\rangle \otimes |q\rangle$$
+$$
+\forall (p,q) \in T: q - p = 2 \iff \hat{D}_2 |p\rangle \otimes |q\rangle = 2 |p\rangle \otimes |q\rangle
+$$
 
 2. **分布密度相关**：孪生素数在数轴上的分布密度与量子态 $`|\mathcal{T}\rangle`$ 的振幅平方成正比：
 
-   $$\rho_T(x) \propto \sum_{p \leq x} |\beta_{p,p+2}|^2$$
+$$
+\rho_T(x) \propto \sum_{p \leq x} |\beta_{p,p+2}|^2
+$$
 
 3. **素数振幅波动规律**：我们发现量子振幅遵循对数周期波动模式：
 
-   $$|\beta_{p,p+2}|^2 \sim \frac{C_2}{(\log p)^2}$$
+$$
+|\beta_{p,p+2}|^2 \sim \frac{C_2}{(\log p)^2}
+$$
 
    其中 $`C_2`$ 是Hardy-Littlewood常数，近似为1.32032...
 
@@ -87,15 +99,21 @@ $$
 
 1. **筛法分析**：扩展Eratosthenes筛法计算框架，定义孪生素数特征函数：
 
-   $$S_T(x) = \sum_{n \leq x} \Theta(n)$$
+$$
+S_T(x) = \sum_{n \leq x} \Theta(n)
+$$
 
 2. **渐近分析**：运用量子-经典对偶性原理，推导出孪生素数计数函数的渐近行为：
 
-   $$S_T(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$$
+$$
+S_T(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt
+$$
 
 3. **振幅-密度对应**：证明量子振幅与经典密度满足：
 
-   $$\lim_{x \to \infty} \frac{S_T(x)}{x} = \int_0^{\infty} |\beta_{p,p+2}|^2 dp > 0$$
+$$
+\lim_{x \to \infty} \frac{S_T(x)}{x} = \int_0^{\infty} |\beta_{p,p+2}|^2 dp > 0
+$$
 
 从而得到结论 $`\lim_{x \to \infty} S_T(x) = \infty`$，即孪生素数对的数量是无限的。
 
@@ -107,13 +125,17 @@ $$
 
 在ZFC框架内，我们首先定义：
 
-$$\text{Prime}(n) \iff (n \geq 2) \wedge (\forall m \in \mathbb{N})[(1 < m < n) \Rightarrow \neg(m | n)]$$
+$$
+\text{Prime}(n) \iff (n \geq 2) \wedge (\forall m \in \mathbb{N})[(1 < m < n) \Rightarrow \neg(m | n)]
+$$
 
 其中$`m | n`$表示$`m`$整除$`n`$。
 
 孪生素数对定义为：
 
-$$\text{TwinPrime}(p, p+2) \iff \text{Prime}(p) \wedge \text{Prime}(p+2)$$
+$$
+\text{TwinPrime}(p, p+2) \iff \text{Prime}(p) \wedge \text{Prime}(p+2)
+$$
 
 我们的目标是证明集合$`T = \{(p, p+2) | \text{TwinPrime}(p, p+2)\}`$是无限的。
 
@@ -129,17 +151,23 @@ $$\mu_T(n) = \begin{cases}
 
 然后定义孪生素数权重函数$`\Lambda_T`$：
 
-$$\Lambda_T(n) = \sum_{d|(n,n+2)} \mu_T(d) \log^2\left(\frac{n}{d}\right)$$
+$$
+\Lambda_T(n) = \sum_{d|(n,n+2)} \mu_T(d) \log^2\left(\frac{n}{d}\right)
+$$
 
 ### 3. 解析延拓
 
 引入复变数$`s`$，定义孪生素数ζ函数：
 
-$$\zeta_T(s) = \sum_{n=1}^{\infty} \frac{\Lambda_T(n)}{n^s}$$
+$$
+\zeta_T(s) = \sum_{n=1}^{\infty} \frac{\Lambda_T(n)}{n^s}
+$$
 
 对于$`\Re(s) > 1`$，该函数满足Euler乘积：
 
-$$\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}$$
+$$
+\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}
+$$
 
 其中$`C_p`$是与素数$`p`$相关的常数。
 
@@ -147,27 +175,37 @@ $$\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}$$
 
 使用复分析中的Tauberian定理，我们证明：
 
-$$\sum_{n \leq x} \Lambda_T(n) = C_2 x + O(x \exp(-c\sqrt{\log x}))$$
+$$
+\sum_{n \leq x} \Lambda_T(n) = C_2 x + O(x \exp(-c\sqrt{\log x}))
+$$
 
 其中$`C_2 > 0`$是Hardy-Littlewood常数：
 
-$$C_2 = 2 \prod_{p > 2} \left(1 - \frac{1}{(p-1)^2}\right)$$
+$$
+C_2 = 2 \prod_{p > 2} \left(1 - \frac{1}{(p-1)^2}\right)
+$$
 
 ### 5. 素数定理应用
 
 由孪生素数版本的素数定理，定义计数函数$`\pi_2(x)`$为不超过$`x`$的孪生素数对数量，我们有：
 
-$$\pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$$
+$$
+\pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt
+$$
 
 由积分收敛性分析得知：
 
-$$\lim_{x \to \infty} \pi_2(x) = \infty$$
+$$
+\lim_{x \to \infty} \pi_2(x) = \infty
+$$
 
 ### 6. 模型论验证
 
 在ZFC的标准模型中，我们证明了孪生素数猜想命题$`\varphi_T`$：
 
-$$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p, p+2)$$
+$$
+\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p, p+2)
+$$
 
 是可满足的。通过哥德尔完备性定理，由于$`\varphi_T`$在标准模型中为真，因此$`\varphi_T`$在ZFC中可证。
 
@@ -189,12 +227,16 @@ $$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p,
 1. **维度约束**：在有限维观察系统中，最大可观测素数上限为 $`p_{max} \sim 2^{O(d)}`$，其中 $`d`$ 是观察者系统维度。
 
 2. **分辨率效应**：量子振幅 $`\beta_{p,p+2}`$ 在经典域的可分辨度与观察精度成反比：
-   
-   $$\Delta \beta_{p,p+2} \geq \frac{1}{2\sqrt{d}}$$
+
+$$
+\Delta \beta_{p,p+2} \geq \frac{1}{2\sqrt{d}}
+$$
 
 3. **纠缠测量影响**：当观察系统与孪生素数量子态相互作用时，会产生观察者纠缠：
 
-   $$|\Psi_{obs}\rangle = \sum_{p} \gamma_p |\mathcal{O}_p\rangle \otimes |p,p+2\rangle$$
+$$
+|\Psi_{obs}\rangle = \sum_{p} \gamma_p |\mathcal{O}_p\rangle \otimes |p,p+2\rangle
+$$
 
    这导致观察结果取决于观察系统状态 $`|\mathcal{O}_p\rangle`$。
 
@@ -266,10 +308,16 @@ We define the mapping from the quantum domain to the classical domain $`\mathcal
 1. Define a prime sieving function $`\Pi: \mathbb{N} \rightarrow \{0,1\}`$, where $`\Pi(n) = 1`$ if and only if $`n`$ is prime.
 
 2. Construct a twin prime indicator function $`\Theta: \mathbb{N} \rightarrow \{0,1\}`$, where:
-   $$\Theta(n) = \Pi(n) \cdot \Pi(n+2)$$
+
+$$
+\Theta(n) = \Pi(n) \cdot \Pi(n+2)
+$$
 
 3. The quantum-to-classical mapping is defined as:
-   $$\mathcal{T}(|\mathcal{T}\rangle) = \{n \in \mathbb{N} | \Theta(n) = 1\}$$
+
+$$
+\mathcal{T}(|\mathcal{T}\rangle) = \{n \in \mathbb{N} | \Theta(n) = 1\}
+$$
 
 This mapping preserves the fundamental structure of twin prime pairs while converting the quantum entangled state to a classical set.
 
@@ -279,15 +327,21 @@ We identify several key properties that remain invariant during the quantum-clas
 
 1. **Twin Prime Gap Invariance**: The gap between twin prime pairs remains 2 in both the quantum and classical domains. Formally represented as:
 
-   $$\forall (p,q) \in T: q - p = 2 \iff \hat{D}_2 |p\rangle \otimes |q\rangle = 2 |p\rangle \otimes |q\rangle$$
+$$
+\forall (p,q) \in T: q - p = 2 \iff \hat{D}_2 |p\rangle \otimes |q\rangle = 2 |p\rangle \otimes |q\rangle
+$$
 
 2. **Distribution Density Correlation**: The distribution density of twin primes on the number line is proportional to the square of the amplitude of the quantum state $`|\mathcal{T}\rangle`$:
 
-   $$\rho_T(x) \propto \sum_{p \leq x} |\beta_{p,p+2}|^2$$
+$$
+\rho_T(x) \propto \sum_{p \leq x} |\beta_{p,p+2}|^2
+$$
 
 3. **Prime Amplitude Fluctuation Law**: We find that the quantum amplitudes follow a logarithmic periodic fluctuation pattern:
 
-   $$|\beta_{p,p+2}|^2 \sim \frac{C_2}{(\log p)^2}$$
+$$
+|\beta_{p,p+2}|^2 \sim \frac{C_2}{(\log p)^2}
+$$
 
    where $`C_2`$ is the Hardy-Littlewood constant, approximately 1.32032...
 
@@ -297,15 +351,21 @@ In the classical domain, we verify the conjecture using analytical number theory
 
 1. **Sieve Method Analysis**: Extend the Eratosthenes sieve computational framework to define the characteristic function of twin primes:
 
-   $$S_T(x) = \sum_{n \leq x} \Theta(n)$$
+$$
+S_T(x) = \sum_{n \leq x} \Theta(n)
+$$
 
 2. **Asymptotic Analysis**: Using the quantum-classical duality principle, derive the asymptotic behavior of the twin prime counting function:
 
-   $$S_T(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$$
+$$
+S_T(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt
+$$
 
 3. **Amplitude-Density Correspondence**: Prove that the quantum amplitude and classical density satisfy:
 
-   $$\lim_{x \to \infty} \frac{S_T(x)}{x} = \int_0^{\infty} |\beta_{p,p+2}|^2 dp > 0$$
+$$
+\lim_{x \to \infty} \frac{S_T(x)}{x} = \int_0^{\infty} |\beta_{p,p+2}|^2 dp > 0
+$$
 
 Thus leading to the conclusion that $`\lim_{x \to \infty} S_T(x) = \infty`$, meaning the number of twin prime pairs is infinite.
 
@@ -317,13 +377,17 @@ To ensure our proof is compatible with the ZFC (Zermelo-Fraenkel with Choice) ax
 
 Within the ZFC framework, we first define:
 
-$$\text{Prime}(n) \iff (n \geq 2) \wedge (\forall m \in \mathbb{N})[(1 < m < n) \Rightarrow \neg(m | n)]$$
+$$
+\text{Prime}(n) \iff (n \geq 2) \wedge (\forall m \in \mathbb{N})[(1 < m < n) \Rightarrow \neg(m | n)]
+$$
 
 where $`m | n`$ denotes that $`m`$ divides $`n`$.
 
 Twin prime pairs are defined as:
 
-$$\text{TwinPrime}(p, p+2) \iff \text{Prime}(p) \wedge \text{Prime}(p+2)$$
+$$
+\text{TwinPrime}(p, p+2) \iff \text{Prime}(p) \wedge \text{Prime}(p+2)
+$$
 
 Our goal is to prove that the set $`T = \{(p, p+2) | \text{TwinPrime}(p, p+2)\}`$ is infinite.
 
@@ -339,17 +403,23 @@ $$\mu_T(n) = \begin{cases}
 
 Then we define the twin prime weight function $`\Lambda_T`$:
 
-$$\Lambda_T(n) = \sum_{d|(n,n+2)} \mu_T(d) \log^2\left(\frac{n}{d}\right)$$
+$$
+\Lambda_T(n) = \sum_{d|(n,n+2)} \mu_T(d) \log^2\left(\frac{n}{d}\right)
+$$
 
 ### 3. Analytic Continuation
 
 Introducing the complex variable $`s`$, we define the twin prime zeta function:
 
-$$\zeta_T(s) = \sum_{n=1}^{\infty} \frac{\Lambda_T(n)}{n^s}$$
+$$
+\zeta_T(s) = \sum_{n=1}^{\infty} \frac{\Lambda_T(n)}{n^s}
+$$
 
 For $`\Re(s) > 1`$, this function satisfies the Euler product:
 
-$$\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}$$
+$$
+\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}
+$$
 
 where $`C_p`$ is a constant associated with the prime $`p`$.
 
@@ -357,27 +427,37 @@ where $`C_p`$ is a constant associated with the prime $`p`$.
 
 Using the Tauberian theorem from complex analysis, we prove:
 
-$$\sum_{n \leq x} \Lambda_T(n) = C_2 x + O(x \exp(-c\sqrt{\log x}))$$
+$$
+\sum_{n \leq x} \Lambda_T(n) = C_2 x + O(x \exp(-c\sqrt{\log x}))
+$$
 
 where $`C_2 > 0`$ is the Hardy-Littlewood constant:
 
-$$C_2 = 2 \prod_{p > 2} \left(1 - \frac{1}{(p-1)^2}\right)$$
+$$
+C_2 = 2 \prod_{p > 2} \left(1 - \frac{1}{(p-1)^2}\right)
+$$
 
 ### 5. Application of the Prime Number Theorem
 
 By the twin prime version of the prime number theorem, defining the counting function $`\pi_2(x)`$ as the number of twin prime pairs not exceeding $`x`$, we have:
 
-$$\pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$$
+$$
+\pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt
+$$
 
 From integral convergence analysis, we know:
 
-$$\lim_{x \to \infty} \pi_2(x) = \infty$$
+$$
+\lim_{x \to \infty} \pi_2(x) = \infty
+$$
 
 ### 6. Model Theory Verification
 
 In the standard model of ZFC, we have proven that the twin prime conjecture proposition $`\varphi_T`$:
 
-$$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p, p+2)$$
+$$
+\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p, p+2)
+$$
 
 is satisfiable. By Gödel's completeness theorem, since $`\varphi_T`$ is true in the standard model, $`\varphi_T`$ is provable in ZFC.
 
@@ -399,12 +479,16 @@ In the dualism framework, the role of the observer is crucial for interpreting r
 1. **Dimensional Constraints**: In a finite-dimensional observer system, the maximum observable prime upper bound is $`p_{max} \sim 2^{O(d)}`$, where $`d`$ is the dimension of the observer system.
 
 2. **Resolution Effect**: The discernibility of quantum amplitudes $`\beta_{p,p+2}`$ in the classical domain is inversely proportional to the observation precision:
-   
-   $$\Delta \beta_{p,p+2} \geq \frac{1}{2\sqrt{d}}$$
+
+$$
+\Delta \beta_{p,p+2} \geq \frac{1}{2\sqrt{d}}
+$$
 
 3. **Entanglement Measurement Influence**: When the observation system interacts with the twin prime quantum state, observer entanglement is produced:
 
-   $$|\Psi_{obs}\rangle = \sum_{p} \gamma_p |\mathcal{O}_p\rangle \otimes |p,p+2\rangle$$
+$$
+|\Psi_{obs}\rangle = \sum_{p} \gamma_p |\mathcal{O}_p\rangle \otimes |p,p+2\rangle
+$$
 
    This causes the observation results to depend on the observer system state $`|\mathcal{O}_p\rangle`$.
 
@@ -427,4 +511,4 @@ These conditions have been verified in our analysis, leading to the conclusion: 
 3. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
 4. Tao, T. (2014). The Erdos discrepancy problem. arXiv:1509.05363.
 5. Maynard, J. (2015). Small gaps between primes. Annals of Mathematics, 181(1), 383-413.
-6. Hardy, G. H., & Littlewood, J. E. (1923). Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes. Acta Mathematica, 44, 1-70. 
+6. Hardy, G. H., & Littlewood, J. E. (1923). Some problems of 'Partitio numerorum'; III: On the expression of a number as a sum of primes. Acta Mathematica, 44, 1-70.

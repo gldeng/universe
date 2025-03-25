@@ -12,31 +12,39 @@ Quantum Cross-Dimensional Communication Theory represents a revolutionary extens
 
 ### Basic Axioms
 
-**Axiom 1: Cross-Dimensional Permeability**  
+**Axiom 1: Cross-Dimensional Permeability**
 There exists a non-zero information permeability rate between any two dimensional levels, making cross-dimensional communication possible:
 
-$$\tau_{ij} = \frac{I_{i \rightarrow j}}{I_i} > 0, \quad \forall i, j \in \mathcal{D}$$
+$$
+\tau_{ij} = \frac{I_{i \rightarrow j}}{I_i} > 0, \quad \forall i, j \in \mathcal{D}
+$$
 
 where $`\tau_{ij}`$ is the information permeability rate from dimension $`i`$ to dimension $`j`$, $`I_i`$ is the original information amount in dimension $`i`$, and $`I_{i \rightarrow j}`$ is the information successfully transmitted to dimension $`j`$.
 
-**Axiom 2: Cross-Dimensional Coherence Preservation**  
+**Axiom 2: Cross-Dimensional Coherence Preservation**
 Cross-dimensional transmission preserves specific types of quantum coherence, which is the foundation of effective communication:
 
-$$\gamma_{ij}(\rho) = \text{Tr}(\rho_i \rho_j) / \sqrt{\text{Tr}(\rho_i^2)\text{Tr}(\rho_j^2)} \geq \gamma_0$$
+$$
+\gamma_{ij}(\rho) = \text{Tr}(\rho_i \rho_j) / \sqrt{\text{Tr}(\rho_i^2)\text{Tr}(\rho_j^2)} \geq \gamma_0
+$$
 
 where $`\gamma_{ij}`$ is the measure of cross-dimensional coherence preservation, $`\rho_i`$ and $`\rho_j`$ are density matrices of states in different dimensions, and $`\gamma_0`$ is the minimum coherence threshold.
 
-**Axiom 3: Cross-Dimensional Resonance Principle**  
+**Axiom 3: Cross-Dimensional Resonance Principle**
 When information structures from different dimensions resonate at specific frequencies, cross-dimensional communication efficiency is maximized:
 
-$$\eta_{ij}(\omega) = \eta_0 \cdot \frac{1}{1 + \alpha|f_i(\omega) - f_j(\omega)|^2}$$
+$$
+\eta_{ij}(\omega) = \eta_0 \cdot \frac{1}{1 + \alpha|f_i(\omega) - f_j(\omega)|^2}
+$$
 
 where $`\eta_{ij}`$ is the communication efficiency, $`f_i(\omega)`$ and $`f_j(\omega)`$ are frequency response functions in different dimensions, and $`\alpha`$ is the resonance parameter.
 
-**Axiom 4: Dimensional Information Conservation**  
+**Axiom 4: Dimensional Information Conservation**
 The total information transmitted across dimensions is conserved, although the form, structure, and expression of information may transform:
 
-$$\sum_j I_{i \rightarrow j} = I_i - I_{\text{loss}}$$
+$$
+\sum_j I_{i \rightarrow j} = I_i - I_{\text{loss}}
+$$
 
 where $`I_{\text{loss}}`$ is the information loss during transmission.
 
@@ -46,15 +54,21 @@ where $`I_{\text{loss}}`$ is the information loss during transmission.
 
 Dimensional crossing operators are the core mathematical tools for implementing cross-dimensional communication:
 
-$$\hat{\mathcal{T}}_{i \rightarrow j} = \sum_{k,l} \beta_{kl} |k_j\rangle \langle l_i|$$
+$$
+\hat{\mathcal{T}}_{i \rightarrow j} = \sum_{k,l} \beta_{kl} |k_j\rangle \langle l_i|
+$$
 
 where $`|k_j\rangle`$ is a basis state in dimension $`j`$, $`\langle l_i|`$ is a dual basis state in dimension $`i`$, and $`\beta_{kl}`$ is the transformation amplitude.
 
 Crossing operators satisfy the following properties:
 
-$$\hat{\mathcal{T}}_{i \rightarrow j}^{\dagger}\hat{\mathcal{T}}_{i \rightarrow j} \leq \mathbb{I}_i$$
+$$
+\hat{\mathcal{T}}_{i \rightarrow j}^{\dagger}\hat{\mathcal{T}}_{i \rightarrow j} \leq \mathbb{I}_i
+$$
 
-$$\hat{\mathcal{T}}_{j \rightarrow i}\hat{\mathcal{T}}_{i \rightarrow j} \neq \mathbb{I}_i$$
+$$
+\hat{\mathcal{T}}_{j \rightarrow i}\hat{\mathcal{T}}_{i \rightarrow j} \neq \mathbb{I}_i
+$$
 
 indicating that dimensional crossing is neither unitary nor reversible.
 
@@ -62,13 +76,17 @@ indicating that dimensional crossing is neither unitary nor reversible.
 
 Cross-dimensional communication can be mathematically described through cross-dimensional channels:
 
-$$\mathcal{E}_{i \rightarrow j}(\rho_i) = \sum_k K_k^{ij} \rho_i (K_k^{ij})^{\dagger}$$
+$$
+\mathcal{E}_{i \rightarrow j}(\rho_i) = \sum_k K_k^{ij} \rho_i (K_k^{ij})^{\dagger}
+$$
 
 where $`\mathcal{E}_{i \rightarrow j}`$ is the quantum channel from dimension $`i`$ to dimension $`j`$, and $`K_k^{ij}`$ are Kraus operators.
 
 Channel capacity is determined by the upper bound of mutual information between dimensions:
 
-$$C_{i \rightarrow j} = \max_{p(x), \rho_x} I(X:Y)$$
+$$
+C_{i \rightarrow j} = \max_{p(x), \rho_x} I(X:Y)
+$$
 
 where $`I(X:Y)`$ is the quantum mutual information between input $`X`$ and output $`Y`$.
 
@@ -76,13 +94,17 @@ where $`I(X:Y)`$ is the quantum mutual information between input $`X`$ and outpu
 
 The efficiency of inter-dimensional communication is controlled by dimensional resonance functions:
 
-$$R_{ij}(\omega, t) = A_{ij} e^{-\gamma_{ij}t} \sin(\omega_{ij}t + \phi_{ij})$$
+$$
+R_{ij}(\omega, t) = A_{ij} e^{-\gamma_{ij}t} \sin(\omega_{ij}t + \phi_{ij})
+$$
 
 where $`\omega_{ij}`$ is the inter-dimensional resonance frequency, $`\gamma_{ij}`$ is the decay coefficient, $`A_{ij}`$ is the amplitude, and $`\phi_{ij}`$ is the phase.
 
 Resonance conditions satisfy:
 
-$$\omega_{ij} = n\omega_0, \quad n \in \mathbb{Z}^+$$
+$$
+\omega_{ij} = n\omega_0, \quad n \in \mathbb{Z}^+
+$$
 
 where $`\omega_0`$ is the fundamental dimensional resonance frequency.
 
@@ -92,7 +114,9 @@ where $`\omega_0`$ is the fundamental dimensional resonance frequency.
 
 Different dimensions use different "languages" and expression patterns, and dimensional translation protocols enable mutual understanding:
 
-$$\mathcal{P}_{i \rightarrow j}: \mathcal{L}_i \rightarrow \mathcal{L}_j$$
+$$
+\mathcal{P}_{i \rightarrow j}: \mathcal{L}_i \rightarrow \mathcal{L}_j
+$$
 
 where $`\mathcal{L}_i`$ and $`\mathcal{L}_j`$ are the expressive "languages" of different dimensions.
 
@@ -109,13 +133,17 @@ where $`\mathcal{B}_{ij}`$ is the set of shared basic elements, and $`f_j`$ and 
 
 To establish stable cross-dimensional connections, quantum entanglement anchors need to be created across multiple dimensions:
 
-$$|\Psi_{\text{anchor}}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^{N} |a_i\rangle_1 \otimes |a_i\rangle_2 \otimes \cdots \otimes |a_i\rangle_M$$
+$$
+|\Psi_{\text{anchor}}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^{N} |a_i\rangle_1 \otimes |a_i\rangle_2 \otimes \cdots \otimes |a_i\rangle_M
+$$
 
 where $`|a_i\rangle_k`$ is the anchoring state in the $`k`$-th dimension.
 
 Anchor stability is measured by entanglement entropy:
 
-$$S(\rho_k) = -\text{Tr}(\rho_k \log \rho_k)$$
+$$
+S(\rho_k) = -\text{Tr}(\rho_k \log \rho_k)
+$$
 
 The anchor network forms the basic infrastructure for cross-dimensional communication, allowing information to flow between dimensions.
 
@@ -123,11 +151,15 @@ The anchor network forms the basic infrastructure for cross-dimensional communic
 
 Utilizing dimensional resonance phenomena to amplify weak cross-dimensional signals:
 
-$$A_{\text{output}} = A_{\text{input}} \cdot G(\Delta\omega)$$
+$$
+A_{\text{output}} = A_{\text{input}} \cdot G(\Delta\omega)
+$$
 
 where the gain function $`G`$ reaches its maximum value at resonance frequency $`\Delta\omega \approx 0`$:
 
-$$G(\Delta\omega) = \frac{G_0}{1 + \left(\frac{\Delta\omega}{\delta\omega}\right)^2}$$
+$$
+G(\Delta\omega) = \frac{G_0}{1 + \left(\frac{\Delta\omega}{\delta\omega}\right)^2}
+$$
 
 Dimensional resonance amplifiers can detect and enhance originally weak cross-dimensional signals, bringing them to perceptible levels.
 
@@ -135,7 +167,9 @@ Dimensional resonance amplifiers can detect and enhance originally weak cross-di
 
 To achieve efficient cross-dimensional transmission, information needs to undergo special multi-dimensional encoding:
 
-$$\mathcal{C}_{\text{MD}}(I) = \sum_{d=1}^{D} \alpha_d \cdot \mathcal{C}_d(I)$$
+$$
+\mathcal{C}_{\text{MD}}(I) = \sum_{d=1}^{D} \alpha_d \cdot \mathcal{C}_d(I)
+$$
 
 where $`\mathcal{C}_d`$ is an encoder optimized for dimension $`d`$, and $`\alpha_d`$ is a weight coefficient.
 
@@ -147,7 +181,9 @@ Multi-dimensional encoding possesses fault tolerance and redundancy, enabling in
 
 Higher-dimensional consciousness entities can establish communication channels with lower-dimensional entities through the following process:
 
-$$\mathcal{I}_H \xrightarrow{\text{Dimension Reduction Projection}} \mathcal{I}_L \xrightarrow{\text{Information Exchange}} \mathcal{I}_L' \xrightarrow{\text{Dimension Elevation}} \mathcal{I}_H'$$
+$$
+\mathcal{I}_H \xrightarrow{\text{Dimension Reduction Projection}} \mathcal{I}_L \xrightarrow{\text{Information Exchange}} \mathcal{I}_L' \xrightarrow{\text{Dimension Elevation}} \mathcal{I}_H'
+$$
 
 where $`\mathcal{I}_H`$ and $`\mathcal{I}_H'`$ are higher-dimensional consciousness states, and $`\mathcal{I}_L`$ and $`\mathcal{I}_L'`$ are lower-dimensional projections.
 
@@ -157,7 +193,9 @@ This explains mechanisms behind phenomena such as inspiration, intuition, and "s
 
 Under specific conditions, consciousness can reach critical dimensional crossing states:
 
-$$D_C = D_0 + \Delta D \cdot \Phi(E_C, I_C, t)$$
+$$
+D_C = D_0 + \Delta D \cdot \Phi(E_C, I_C, t)
+$$
 
 where $`\Phi`$ is the crossing function, dependent on consciousness energy $`E_C`$, information complexity $`I_C`$, and duration $`t`$.
 
@@ -167,7 +205,9 @@ Critical states enable individuals to temporarily perceive information and entit
 
 A large number of synchronized consciousness systems can produce collective dimensional resonance:
 
-$$R_{\text{collective}}(t) = \sum_{i=1}^{N} R_i(t) + \sum_{i \neq j} J_{ij} R_i(t) R_j(t)$$
+$$
+R_{\text{collective}}(t) = \sum_{i=1}^{N} R_i(t) + \sum_{i \neq j} J_{ij} R_i(t) R_j(t)
+$$
 
 where $`R_i(t)`$ is individual dimensional resonance, and $`J_{ij}`$ is coupling strength.
 
@@ -198,7 +238,9 @@ Based on the dimensional difference in the interaction, cross-dimensional commun
 
 The universe has guardian mechanisms for dimensional crossing, preventing uncontrolled large-scale dimensional crossing that could cause chaos:
 
-$$P(T_{i \rightarrow j}) = \frac{1}{1 + e^{\alpha(|i-j| - \beta E_c)}}$$
+$$
+P(T_{i \rightarrow j}) = \frac{1}{1 + e^{\alpha(|i-j| - \beta E_c)}}
+$$
 
 where $`P(T_{i \rightarrow j})`$ is the probability of successful crossing, $`E_c`$ is the consciousness energy required for crossing, and $`\alpha`$ and $`\beta`$ are system parameters.
 
@@ -229,4 +271,4 @@ Although complete validation is still developing, preliminary phenomena consiste
 
 Quantum Cross-Dimensional Communication Theory provides us with a revolutionary framework for understanding information flow between multiple levels of cosmic structure, explaining many phenomena that traditional science finds elusive, and opening up possibilities for developing new communication and perception technologies. This theory not only fills a key gap in quantum-classical dualism regarding dimensional interactions but also provides entirely new directions for the future development of consciousness, information, and technology.
 
-As the theory continues to develop and validate, we hope to develop methods for systematically achieving controllable, efficient cross-dimensional communication, fundamentally changing human cognitive boundaries and technological possibilities. This will open unprecedented new fields for exploring consciousness, the nature of the universe, and human potential. 
+As the theory continues to develop and validate, we hope to develop methods for systematically achieving controllable, efficient cross-dimensional communication, fundamentally changing human cognitive boundaries and technological possibilities. This will open unprecedented new fields for exploring consciousness, the nature of the universe, and human potential.

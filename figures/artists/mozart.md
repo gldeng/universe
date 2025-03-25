@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1756年1月27日 - 1791年12月5日  
-**国籍 (Nationality)**: 奥地利 (Austrian)  
-**领域 (Fields)**: 音乐、作曲、钢琴演奏、歌剧创作  
+**生平 (Life Span)**: 1756年1月27日 - 1791年12月5日
+**国籍 (Nationality)**: 奥地利 (Austrian)
+**领域 (Fields)**: 音乐、作曲、钢琴演奏、歌剧创作
 **代表作品 (Representative Works)**: 《费加罗的婚礼》、《唐璜》、《魔笛》、《安魂曲》、《第40号交响曲》、《小夜曲》、《第20号钢琴协奏曲》
 
 ## 核心思想 (Core Ideas)
@@ -98,21 +98,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "音乐即使在最可怕的情况下也不应伤害听众的耳朵，而应该让人愉悦，始终保持音乐的本质。"
-> 
+>
 > "Music, even in situations of the greatest horror, should never be painful to the ear but should flatter and charm it, and thereby always remain music."
 
 > "不要太着急成名，但要着力磨练技艺。人们如果看到了你的勤勉与能力，自会认识到你的价值。"
-> 
+>
 > "Don't hurry to gain fame, but focus on polishing your craft. When people see your diligence and abilities, they will recognize your worth on their own."
 
 > "旋律是音乐的本质，是我寻求的首要目标。不管是对专家还是外行，音乐永远不能离开美。"
-> 
+>
 > "Melody is the essence of music. I compare a good melodist to a fine racer, and counterpointists to hack post-horses; therefore be advised, let well alone and remember the old Italian proverb: Chi sa più, meno sa—Who knows most, knows least."
 
 > "既不要在过快的速度中失去优雅，也不要在过慢的速度中失去活力；用声音歌唱，用心灵演奏。"
-> 
+>
 > "Neither a lofty degree of intelligence nor imagination nor both together go to the making of genius. Love, love, love, that is the soul of genius."
 
 > "当我全情投入创作，完全独处或夜深人静时，思想如涌泉般涌现，我不知道它们来自何方，也无法用任何方式唤起它们。"
-> 
-> "When I am, as it were, completely myself, entirely alone, and of good cheer - say traveling in a carriage, or walking after a good meal, or during the night when I cannot sleep - it is on such occasions that my ideas flow best and most abundantly." 
+>
+> "When I am, as it were, completely myself, entirely alone, and of good cheer - say traveling in a carriage, or walking after a good meal, or during the night when I cannot sleep - it is on such occasions that my ideas flow best and most abundantly."

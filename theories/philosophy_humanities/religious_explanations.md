@@ -1,9 +1,9 @@
 # 宗教现象解释 | Religious Phenomena Explanations
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#引言宗教与量子经典二元论) | [神圣体验](#神圣体验--sacred-experiences) | [祈祷与冥想](#祈祷与冥想--prayer-and-meditation) | [宗教仪式](#宗教仪式--religious-rituals) | [宗教文本](#宗教文本--religious-texts)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#引言宗教与量子经典二元论) | [神圣体验](#神圣体验--sacred-experiences) | [祈祷与冥想](#祈祷与冥想--prayer-and-meditation) | [宗教仪式](#宗教仪式--religious-rituals) | [宗教文本](#宗教文本--religious-texts)
 English: [Introduction](#introduction-religion-and-quantum-classical-dualism) | [Sacred Experiences](#神圣体验--sacred-experiences) | [Prayer and Meditation](#祈祷与冥想--prayer-and-meditation) | [Religious Rituals](#宗教仪式--religious-rituals) | [Religious Texts](#宗教文本--religious-texts)
 
 ## 中文版
@@ -11,10 +11,10 @@ English: [Introduction](#introduction-religion-and-quantum-classical-dualism) | 
 # 量子宇宙-量子观察者-经典意识论对宗教学问题的解释
 # Explanations of Religious Studies Issues by the Quantum Universe-Quantum Observer-Classical Consciousness Theory
 
-**导航 | Navigation**  
-[中文版](#简介) | [English Version](#introduction)  
-**章节链接 | Section Links**  
-中文：[简介](#简介) | [宗教的起源与普遍性](#1-宗教的起源与普遍性) | [神圣体验的本质](#2-神圣体验的本质) | [宗教多样性](#3-宗教多样性) | [信仰与仪式实践](#4-信仰与仪式实践) | [宗教与道德](#5-宗教与道德) | [预言与启示](#6-预言与启示)  
+**导航 | Navigation**
+[中文版](#简介) | [English Version](#introduction)
+**章节链接 | Section Links**
+中文：[简介](#简介) | [宗教的起源与普遍性](#1-宗教的起源与普遍性) | [神圣体验的本质](#2-神圣体验的本质) | [宗教多样性](#3-宗教多样性) | [信仰与仪式实践](#4-信仰与仪式实践) | [宗教与道德](#5-宗教与道德) | [预言与启示](#6-预言与启示)
 English: [Introduction](#introduction) | [Origin of Religion](#1-the-origin-and-universality-of-religion) | [Nature of Sacred Experience](#2-the-nature-of-sacred-experience) | [Religious Diversity](#3-religious-diversity) | [Faith & Ritual Practices](#4-faith-and-ritual-practices) | [Religion & Morality](#5-religion-and-morality) | [Prophecy & Revelation](#6-prophecy-and-revelation)
 
 ## 简介
@@ -43,13 +43,21 @@ Within this theoretical framework, the origin of religion is reinterpreted as:
 
 - **对量子-经典界面的感知反应**：宗教本质上是人类观察者对量子-经典界面的感知与反应
 - **终极经典化追求的表达**：宗教反映了人类对终极经典化（完全理解宇宙）的根本追求
-  $$\text{宗教} = f(\text{量子-经典界面感知}, \text{终极经典化追求}, \text{文化表达系统})$$
+
+$$
+\text{宗教} = f(\text{量子-经典界面感知}, \text{终极经典化追求}, \text{文化表达系统})
+$$
+
 - **意识对量子基础的隐性觉察**：宗教部分源于人类意识对其量子基础的隐性觉察
 - **经典化不完备性的补偿机制**：宗教作为常规经典化不完备性的文化补偿机制而普遍存在
 
 - **Perceptual Response to the Quantum-Classical Interface**: Religion is essentially the human observer's perception of and response to the quantum-classical interface
 - **Expression of the Pursuit of Ultimate Classicalization**: Religion reflects humanity's fundamental pursuit of ultimate classicalization (complete understanding of the universe)
-  $$\text{Religion} = f(\text{Quantum-Classical Interface Perception}, \text{Ultimate Classicalization Pursuit}, \text{Cultural Expression System})$$
+
+$$
+\text{Religion} = f(\text{Quantum-Classical Interface Perception}, \text{Ultimate Classicalization Pursuit}, \text{Cultural Expression System})
+$$
+
 - **Implicit Awareness of Quantum Foundation by Consciousness**: Religion partly originates from human consciousness's implicit awareness of its quantum foundation
 - **Compensatory Mechanism for Classicalization Incompleteness**: Religion universally exists as a cultural compensatory mechanism for the incompleteness of regular classicalization
 
@@ -76,13 +84,21 @@ Within this theoretical framework, sacred experiences are reinterpreted as:
 
 - **非常规量子信息经典化**：神圣体验本质上是非常规的量子信息经典化模式
 - **直接接触量子基础的经典感知**：神秘体验是意识直接接触其量子基础的特殊状态
-  $$\text{神圣体验强度} \propto \text{量子基础直接感知度} \times \text{常规经典化暂停程度}$$
+
+$$
+\text{神圣体验强度} \propto \text{量子基础直接感知度} \times \text{常规经典化暂停程度}
+$$
+
 - **跨文化相似性的根源**：神秘体验的跨文化相似性源于相似的量子-经典转换模式
 - **情感作为经典化特殊标记**：宗教情感是对非常规经典化体验的特殊情感标记
 
 - **Non-conventional Quantum Information Classicalization**: Sacred experiences are essentially non-conventional patterns of quantum information classicalization
 - **Classical Perception of Direct Contact with Quantum Foundation**: Mystical experiences are special states where consciousness directly contacts its quantum foundation
-  $$\text{Sacred Experience Intensity} \propto \text{Degree of Direct Perception of Quantum Foundation} \times \text{Degree of Suspension of Regular Classicalization}$$
+
+$$
+\text{Sacred Experience Intensity} \propto \text{Degree of Direct Perception of Quantum Foundation} \times \text{Degree of Suspension of Regular Classicalization}
+$$
+
 - **Root of Cross-cultural Similarities**: The cross-cultural similarities of mystical experiences stem from similar quantum-classical transition patterns
 - **Emotions as Special Markers of Classicalization**: Religious emotions are special emotional markers of non-conventional classicalization experiences
 
@@ -106,13 +122,21 @@ Within this theoretical framework, religious diversity is reinterpreted as:
 
 - **经典化路径的文化变异**：宗教多样性本质上是量子信息经典化路径的文化变异
 - **共同核心作为经典化共性**：不同宗教的共同核心源于人类经典化结构的共性
-  $$\text{宗教多样性} = \text{经典化基础共性} + \text{文化环境变异} + \text{历史偶然因素}$$
+
+$$
+\text{宗教多样性} = \text{经典化基础共性} + \text{文化环境变异} + \text{历史偶然因素}
+$$
+
 - **真理主张作为经典化模式**：宗教真理主张反映了不同的宇宙经典化解释模式
 - **互补性视角的基础**：不同宗教可能捕捉了宇宙量子信息经典化的互补侧面
 
 - **Cultural Variation of Classicalization Path**: Religious diversity is essentially the cultural variation of quantum information classicalization paths
 - **Common Core as Commonality of Classicalization**: The common core of different religions stems from the commonality of human classicalization structures
-  $$\text{Religious Diversity} = \text{Commonality of Classicalization Foundation} + \text{Cultural Environment Variation} + \text{Historical Random Factors}$$
+
+$$
+\text{Religious Diversity} = \text{Commonality of Classicalization Foundation} + \text{Cultural Environment Variation} + \text{Historical Random Factors}
+$$
+
 - **Truth Claims as Classicalization Patterns**: Religious truth claims reflect different modes of classicalization explanation of the universe
 - **Foundation of Complementary Perspectives**: Different religions may capture complementary aspects of quantum information classicalization of the universe
 
@@ -136,13 +160,21 @@ Within this theoretical framework, religious rituals are reinterpreted as:
 
 - **集体经典化同步机制**：宗教仪式本质上是观察者群体经典化模式的同步机制
 - **非常规经典化的结构化诱导**：仪式通过特定结构诱导非常规经典化状态
-  $$\text{仪式效力} \propto \text{感官调节强度} \times \text{集体参与度} \times \text{符号凝聚力} \times \text{重复强化}$$
+
+$$
+\text{仪式效力} \propto \text{感官调节强度} \times \text{集体参与度} \times \text{符号凝聚力} \times \text{重复强化}
+$$
+
 - **量子-经典界面的集体探索**：集体崇拜是对量子-经典界面的群体探索活动
 - **经典化记忆的定期重建**：仪式定期重建和强化特定的经典化记忆和模式
 
 - **Collective Classicalization Synchronization Mechanism**: Religious rituals are essentially the synchronization mechanism of observer group classicalization patterns
 - **Non-conventional Classicalization Structure Induction**: Rituals induce non-conventional classicalization states through specific structures
-  $$\text{Ritual Effectiveness} \propto \text{Sensory Regulation Strength} \times \text{Collective Participation Degree} \times \text{Symbolic Cohesion} \times \text{Repeat Reinforcement}$$
+
+$$
+\text{Ritual Effectiveness} \propto \text{Sensory Regulation Strength} \times \text{Collective Participation Degree} \times \text{Symbolic Cohesion} \times \text{Repeat Reinforcement}
+$$
+
 - **Collective Exploration of Quantum-Classical Interface**: Collective worship is a collective exploration activity of the quantum-classical interface
 - **Regular Classicalization Memory Reconstruction**: Rituals regularly reconstruct and reinforce specific classicalization memories and patterns
 
@@ -166,13 +198,21 @@ Within this theoretical framework, sacred texts are reinterpreted as:
 
 - **经典化模板的文化存储**：神圣文本本质上是经典化模板的文化存储系统
 - **多层次经典化的文本载体**：经典文本包含多层次的经典化信息
-  $$\text{文本持久性} \propto \text{经典化深度} \times \text{象征弹性} \times \text{实用适应性}$$
+
+$$
+\text{文本持久性} \propto \text{经典化深度} \times \text{象征弹性} \times \text{实用适应性}
+$$
+
 - **解释作为再经典化过程**：解释传统是对文本进行持续再经典化的过程
 - **传统与创新的辩证关系**：权威与适应反映了保留核心经典化模式与发展新经典化的辩证关系
 
 - **Cultural Storage of Classicalization Template**: Sacred texts are essentially cultural storage systems of classicalization templates
 - **Multi-level Classicalization Text Carrier**: Classic texts contain multi-level classicalization information
-  $$\text{Text Persistence} \propto \text{Classicalization Depth} \times \text{Symbolic Elasticity} \times \text{Practical Adaptability}$$
+
+$$
+\text{Text Persistence} \propto \text{Classicalization Depth} \times \text{Symbolic Elasticity} \times \text{Practical Adaptability}
+$$
+
 - **Explanation as Re-classicalization Process**: Interpretative tradition is a continuous re-classicalization process for texts
 - **Dialectical Relationship between Tradition and Innovation**: Authority and adaptation reflect the dialectical relationship between preserving core classicalization patterns and developing new classicalization
 
@@ -196,13 +236,21 @@ Within this theoretical framework, religious conversion is reinterpreted as:
 
 - **经典化模式的根本重构**：宗教皈依本质上是经典化模式的根本重构过程
 - **量子-经典界面的系统调整**：精神实践是对量子-经典界面的系统调整
-  $$\text{修行深度} \propto \text{经典化模式重构程度} \times \text{量子基础接触度} \times \text{实践持续性}$$
+
+$$
+\text{修行深度} \propto \text{经典化模式重构程度} \times \text{量子基础接触度} \times \text{实践持续性}
+$$
+
 - **经典化阈值的转变**：突破性体验发生在经典化阈值的关键转变点
 - **终极状态作为最优经典化**：修行的终极状态是观察者经典化能力的最优状态
 
 - **Fundamental Reconstruction of Classicalization Mode**: Religious conversion is essentially the fundamental reconstruction process of classicalization mode
 - **System Adjustment of Quantum-Classical Interface**: Spiritual practice is a system adjustment of the quantum-classical interface
-  $$\text{Practice Depth} \propto \text{Degree of Classicalization Mode Reconstruction} \times \text{Quantum Foundation Contact Degree} \times \text{Practice Continuity}$$
+
+$$
+\text{Practice Depth} \propto \text{Degree of Classicalization Mode Reconstruction} \times \text{Quantum Foundation Contact Degree} \times \text{Practice Continuity}
+$$
+
 - **Transformation of Classicalization Threshold**: Breakthrough experiences occur at the critical transformation point of classicalization threshold
 - **Ultimate State as Optimal Classicalization**: The ultimate state of practice is the optimal state of observer classicalization ability
 
@@ -226,13 +274,21 @@ Within this theoretical framework, religious community is reinterpreted as:
 
 - **共享经典化模式的观察者网络**：宗教社群本质上是共享特定经典化模式的观察者网络
 - **经典化认同的社会具体化**：宗教身份是经典化认同的社会具体化
-  $$\text{群体凝聚力} \propto \text{经典化模式共享度} \times \text{边界清晰度} \times \text{内部协调机制}$$
+
+$$
+\text{群体凝聚力} \propto \text{经典化模式共享度} \times \text{边界清晰度} \times \text{内部协调机制}
+$$
+
 - **经典化同质性与异质性平衡**：成功的宗教团体在经典化同质性与异质性之间找到平衡
 - **集体经典化的社会基础**：社群提供了集体经典化的社会基础和支持结构
 
 - **Shared Observer Network of Shared Classicalization Patterns**: Religious community is essentially a shared observer network of specific classicalization patterns
 - **Social Specificization of Classicalization Identity**: Religious identity is the social specificization of classicalization identity
-  $$\text{Group Cohesion} \propto \text{Degree of Shared Classicalization Pattern} \times \text{Boundary Clarity} \times \text{Internal Coordination Mechanism}$$
+
+$$
+\text{Group Cohesion} \propto \text{Degree of Shared Classicalization Pattern} \times \text{Boundary Clarity} \times \text{Internal Coordination Mechanism}
+$$
+
 - **Balance between Homogeneity and Heterogeneity of Classicalization**: Successful religious groups find balance between homogeneity and heterogeneity of classicalization
 - **Social Foundation of Collective Classicalization**: Community provides social foundation and support structure for collective classicalization
 
@@ -256,15 +312,29 @@ Within this theoretical framework, the relationship between religion and science
 
 - **互补经典化路径**：宗教与科学是经典化量子宇宙的两种互补路径
 - **不同经典化重点**：科学侧重客观化经典化，宗教侧重主观体验经典化
-  $$\text{科学} = \text{客观共识性经典化} + \text{方法论验证}$$
-  $$\text{宗教} = \text{主观体验性经典化} + \text{传统权威验证}$$
+
+$$
+\text{科学} = \text{客观共识性经典化} + \text{方法论验证}
+$$
+
+$$
+\text{宗教} = \text{主观体验性经典化} + \text{传统权威验证}
+$$
+
 - **冲突源于经典化领域误判**：冲突源于各自对经典化专属领域的误判
 - **整合视角的可能基础**：量子观察者理论为科学与宗教提供了潜在的整合框架
 
 - **Complementary Classicalization Paths**: Religion and science are two complementary paths of classicalization of the quantum universe
 - **Different Classicalization Focuses**: Science focuses on objective classicalization, while religion focuses on subjective experience classicalization
-  $$\text{Science} = \text{Objective Consensus Classicalization} + \text{Methodological Verification}$$
-  $$\text{Religion} = \text{Subjective Experience Classicalization} + \text{Traditional Authority Verification}$$
+
+$$
+\text{Science} = \text{Objective Consensus Classicalization} + \text{Methodological Verification}
+$$
+
+$$
+\text{Religion} = \text{Subjective Experience Classicalization} + \text{Traditional Authority Verification}
+$$
+
 - **Conflict Origin from Classicalization Field Misjudgment**: Conflict stems from each party's misjudgment of classicalization exclusive field
 - **Possible Foundation of Integrative Perspective**: Quantum observer theory provides a potential integration framework for science and religion
 
@@ -288,13 +358,21 @@ Within this theoretical framework, religious symbols are reinterpreted as:
 
 - **量子-经典转换的信息压缩**：宗教象征本质上是量子-经典转换体验的高度信息压缩
 - **经典化模板的叙事结构**：神圣叙事提供了经典化量子信息的结构化模板
-  $$\text{象征力量} \propto \text{信息压缩度} \times \text{多级意义层次} \times \text{情感激活度}$$
+
+$$
+\text{象征力量} \propto \text{信息压缩度} \times \text{多级意义层次} \times \text{情感激活度}
+$$
+
 - **象征作为经典-量子桥接器**：强大的象征在经典与量子层面之间建立桥梁
 - **叙事作为经典化引导系统**：神圣叙事引导观察者按特定方式经典化现实
 
 - **Information Compression of Quantum-Classical Transition**: Religious symbols are essentially the highly compressed information of quantum-classical transition experiences
 - **Classicalization Template Narrative Structure**: Sacred narrative provides structured templates of classicalization quantum information
-  $$\text{Symbolic Power} \propto \text{Information Compression Degree} \times \text{Multi-level Meaning Level} \times \text{Emotional Activation Degree}$$
+
+$$
+\text{Symbolic Power} \propto \text{Information Compression Degree} \times \text{Multi-level Meaning Level} \times \text{Emotional Activation Degree}
+$$
+
 - **Symbol as Classic-Quantum Bridge**: Powerful symbols establish bridges between classic and quantum levels
 - **Narrative as Classicalization Guidance System**: Sacred narrative guides observers to classicalize reality in specific ways
 
@@ -318,13 +396,21 @@ Within this theoretical framework, the relationship between religion and death i
 
 - **观察者连续性问题的经典化**：宗教死亡观本质上是对观察者连续性问题的经典化表达
 - **观察者量子信息的保存可能性**：来世信仰部分反映了观察者量子信息可能保存的直觉
-  $$\text{死亡观念} = f(\text{观察者连续性模型}, \text{量子信息保存假设}, \text{文化表达})$$
+
+$$
+\text{死亡观念} = f(\text{观察者连续性模型}, \text{量子信息保存假设}, \text{文化表达})
+$$
+
 - **最终经典化的极限思考**：死亡迫使观察者面对经典化的极限问题
 - **观察者超越个体性的可能性**：部分宗教死亡观表达了观察者可能超越个体性的直觉
 
 - **Classicalization of Observer Continuity Problem**: Religious death view is essentially the classicalization expression of observer continuity problem
 - **Possible Preservation of Observer Quantum Information**: Afterlife belief partially reflects the observer's intuition of possible preservation of quantum information
-  $$\text{Death Viewpoint} = f(\text{Observer Continuity Model}, \text{Quantum Information Preservation Assumption}, \text{Cultural Expression})$$
+
+$$
+\text{Death Viewpoint} = f(\text{Observer Continuity Model}, \text{Quantum Information Preservation Assumption}, \text{Cultural Expression})
+$$
+
 - **Ultimate Classicization Limit Thinking**: Death forces observers to face the limit problem of classicalization
 - **Possible Observation Beyond Individuality**: Some religious death view expresses the observer's intuition of possible transcendence beyond individuality
 
@@ -348,13 +434,21 @@ Within this theoretical framework, religious ethics are reinterpreted as:
 
 - **基于终极经典化的价值系统**：宗教伦理本质上是基于终极经典化视角的价值系统
 - **量子整体性的道德反映**：某些宗教伦理价值反映了量子整体性在道德领域的表达
-  $$\text{宗教伦理强度} \propto \text{终极关怀深度} \times \text{社会协调需求} \times \text{象征强化度}$$
+
+$$
+\text{宗教伦理强度} \propto \text{终极关怀深度} \times \text{社会协调需求} \times \text{象征强化度}
+$$
+
 - **多层次伦理整合**：宗教伦理整合了个人、社会和宇宙多个层次
 - **经典化伦理的超验锚定**：宗教为伦理提供了超越常规经典化的锚定点
 
 - **Value System Based on Ultimate Classicalization**: Religious ethics are essentially value systems based on ultimate classicalization perspective
 - **Quantum Holistic Moral Reflection**: Some religious ethical values reflect quantum holism in the field of morality
-  $$\text{Religious Ethics Intensity} \propto \text{Ultimate Care Depth} \times \text{Social Coordination Demand} \times \text{Symbolic Reinforcement Degree}$$
+
+$$
+\text{Religious Ethics Intensity} \propto \text{Ultimate Care Depth} \times \text{Social Coordination Demand} \times \text{Symbolic Reinforcement Degree}
+$$
+
 - **Multi-level Ethics Integration**: Religious ethics integrate personal, social, and cosmic levels
 - **Transcendental Anchor of Classicalization Ethics**: Religion provides transcendental anchor for ethics beyond regular classicalization
 
@@ -378,13 +472,21 @@ Within this theoretical framework, the future of religion is reinterpreted as:
 
 - **经典化系统的自适应演化**：宗教未来是经典化系统的自适应演化过程
 - **量子科学与宗教体验的潜在融合**：未来可能出现量子科学与宗教体验的新型融合
-  $$\text{宗教适应力} = \text{核心经典化保持} \times \text{外围经典化灵活性} \times \text{新知识整合能力}$$
+
+$$
+\text{宗教适应力} = \text{核心经典化保持} \times \text{外围经典化灵活性} \times \text{新知识整合能力}
+$$
+
 - **个体化与共同体张力**：未来宗教将在个体化经典化与共同体经典化之间寻求平衡
 - **后世俗角色的重定义**：在科学世界观主导下，宗教将重定义其作为独特经典化途径的角色
 
 - **Self-adaptive Evolution of Classicalization System**: The future of religion is the self-adaptive evolution process of classicalization system
 - **Potential Fusion of Quantum Science and Religious Experience**: Future may see new fusion of quantum science and religious experience
-  $$\text{Religious Adaptability} = \text{Core Classicalization Maintenance} \times \text{Peripheral Classicalization Flexibility} \times \text{New Knowledge Integration Ability}$$
+
+$$
+\text{Religious Adaptability} = \text{Core Classicalization Maintenance} \times \text{Peripheral Classicalization Flexibility} \times \text{New Knowledge Integration Ability}
+$$
+
 - **Individualization and Community Tension**: Future religion will seek balance between individual classicalization and community classicalization
 - **Post-secular Role Redefinition**: Under the dominant scientific worldview, religion will redefine its role as a unique classicalization path
 
@@ -540,4 +642,4 @@ The existence of different religions can be understood as the result of differen
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Religious phenomena are a special application area of Higher-Dimensional Information Classicalization, demonstrating how humans attempt to classicalize and understand information beyond their dimension through organized belief systems and practices. 
+Religious phenomena are a special application area of Higher-Dimensional Information Classicalization, demonstrating how humans attempt to classicalize and understand information beyond their dimension through organized belief systems and practices.

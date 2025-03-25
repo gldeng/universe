@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1889年9月26日 - 1976年5月26日  
-**国籍 (Nationality)**: 德国 (German)  
-**领域 (Fields)**: 哲学、存在主义、现象学、本体论  
+**生平 (Life Span)**: 1889年9月26日 - 1976年5月26日
+**国籍 (Nationality)**: 德国 (German)
+**领域 (Fields)**: 哲学、存在主义、现象学、本体论
 **代表作品 (Representative Works)**: 《存在与时间》、《艺术作品的本源》、《技术的追问》、《形而上学导论》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "语言是存在的家。"
-> 
+>
 > "Language is the house of Being."
 
 > "科学不思考。"
-> 
+>
 > "Science does not think."
 
 > "形而上学并未追问此一差异，存在者之为存在者，与存在之间的差异。"
-> 
+>
 > "Metaphysics does not ask about the truth of Being itself."
 
 > "虚无之虚无存在着。"
-> 
+>
 > "The nothing nothings."
 
 > "人是存在的牧人。"
-> 
+>
 > "Man is the shepherd of Being."

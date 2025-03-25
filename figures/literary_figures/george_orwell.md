@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1903年6月25日 - 1950年1月21日  
-**国籍 (Nationality)**: 英国 (British)  
-**领域 (Fields)**: 文学、政治评论、新闻  
+**生平 (Life Span)**: 1903年6月25日 - 1950年1月21日
+**国籍 (Nationality)**: 英国 (British)
+**领域 (Fields)**: 文学、政治评论、新闻
 **代表作品 (Representative Works)**: 《1984》、《动物庄园》、《缅甸岁月》、《向加泰罗尼亚致敬》
 
 ## 核心思想 (Core Ideas)
@@ -102,17 +102,17 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "在普遍欺骗的时代，说出真相是一种革命行为。"
-> 
+>
 > "In a time of universal deceit, telling the truth is a revolutionary act."
 
 > "自由意味着有权利说出两加二等于四的事实。承认这一点，其他一切便会接踵而来。"
-> 
+>
 > "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows."
 
 > "谁控制过去就控制未来，谁控制现在就控制过去。"
-> 
+>
 > "Who controls the past controls the future. Who controls the present controls the past."
 
 > "所有动物都是平等的，但有些动物比其他动物更平等。"
-> 
-> "All animals are equal, but some animals are more equal than others." 
+>
+> "All animals are equal, but some animals are more equal than others."

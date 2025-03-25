@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1871年3月5日 - 1919年1月15日  
-**国籍 (Nationality)**: 德国/波兰 (German/Polish)  
-**领域 (Fields)**: 革命理论、政治经济学、马克思主义理论  
+**生平 (Life Span)**: 1871年3月5日 - 1919年1月15日
+**国籍 (Nationality)**: 德国/波兰 (German/Polish)
+**领域 (Fields)**: 革命理论、政治经济学、马克思主义理论
 **代表作品 (Representative Works)**: 《社会改良或革命》、《资本积累论》、《俄国革命》、《群众罢工、政党与工会》
 
 ## 核心思想 (Core Ideas)
@@ -110,21 +110,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "自由总是持不同政见者的自由。"
-> 
+>
 > "Freedom is always the freedom of the one who thinks differently."
 
 > "没有民主，社会主义是不可能的。"
-> 
+>
 > "Without democracy, socialism is impossible."
 
 > "社会主义的本质在于：整个社会、群众、每个个体工人成为财富的主人，文明的主人，他们不再是工具，而是自己历史的主人。"
-> 
+>
 > "The essence of socialism is that the whole society, the masses, the workers, become the master of wealth, the master of civilization, that they are no longer tools but their own masters in history."
 
 > "资本积累的过程就其历史环境、方法和趋势而言，以非资本主义生产方式为前提，不能离开它们而在自身内部进行。"
-> 
+>
 > "The process of capital accumulation, in terms of its historical environment, methods, and tendencies, presupposes non-capitalist production methods; it cannot take place without them."
 
 > "革命不是漫步在公园的清晨，不是写一首诗，也不是画一幅画；革命是人类真正的剧烈斗争，是为了实现生活中最珍贵的东西而战，也是为反对最古老、最强大的敌人而战。"
-> 
-> "The revolution is not a stroll through a park on a clear morning, it is not writing a poem or painting a picture; the revolution is the most radical struggle of humanity, it is fighting for the most precious things in life, it is fighting against the oldest and most powerful enemies." 
+>
+> "The revolution is not a stroll through a park on a clear morning, it is not writing a poem or painting a picture; the revolution is the most radical struggle of humanity, it is fighting for the most precious things in life, it is fighting against the oldest and most powerful enemies."

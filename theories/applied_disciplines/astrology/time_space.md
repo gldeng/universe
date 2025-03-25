@@ -405,4 +405,4 @@ $$
 P(\text{Precognition Event}) \propto \frac{D_{\text{Observer}}}{D_{\text{Average Observer}}}
 $$
 
-Where $`D`$ represents observer dimension. When the observer's dimension is significantly higher than the average, they can partially classicalize quantum information usually considered "future." 
+Where $`D`$ represents observer dimension. When the observer's dimension is significantly higher than the average, they can partially classicalize quantum information usually considered "future."

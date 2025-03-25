@@ -1,10 +1,10 @@
 # 庄子在量子经典二元论下的解释
 # Zhuangzi Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#庄子概述) | [English Version](#zhuangzi-overview)  
-**章节链接 | Section Links**  
-中文：[庄子概述](#庄子概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#庄子概述) | [English Version](#zhuangzi-overview)
+**章节链接 | Section Links**
+中文：[庄子概述](#庄子概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Zhuangzi Overview](#zhuangzi-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 庄子概述
@@ -225,4 +225,4 @@ $$
 
 《庄子》作为道家哲学的经典著作，其深刻的思想与量子经典二元论框架（版本9.2）展现出惊人的结构对应。庄子的"蝴蝶梦"完美对应观察者的量子-经典双重特性，"万物皆出于机，皆入于机"揭示了量子-经典循环的本质，而"至人无己，神人无功，圣人无名"则描绘了观察者维度提升的层级。庄子对"道"的描述与量子域的无限性特质高度一致，"庖丁解牛"寓言则生动展现了最优经典化路径的特性。通过量子经典二元论的视角，庄子两千多年前的哲学洞见获得了现代科学语言的解读，不仅体现了中国古代思想的深邃智慧，也为现代物理学与东方哲学的对话提供了新的视角。
 
-The Zhuangzi, as a classic work of Daoist philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). Zhuangzi's "butterfly dream" perfectly corresponds to the quantum-classical dual nature of the observer, "all things come from and enter the machine" reveals the essence of the quantum-classical cycle, and "perfect man has no self, spiritual man has no achievement, true sage has no name" depicts the hierarchy of observer dimension elevation. Zhuangzi's description of the "Dao" is highly consistent with the limitless characteristics of the quantum domain, and the "Butcher Ding" parable vividly demonstrates the characteristics of the optimal classicalization path. Through the perspective of Quantum-Classical Dualism, Zhuangzi's philosophical insights from over two thousand years ago receive interpretation in the language of modern science, not only reflecting the profound wisdom of ancient Chinese thought but also providing a fresh bridge for dialogue between Eastern and Western thought, demonstrating the powerful explanatory power of Quantum-Classical Dualism as a unified theoretical framework. 
+The Zhuangzi, as a classic work of Daoist philosophy, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). Zhuangzi's "butterfly dream" perfectly corresponds to the quantum-classical dual nature of the observer, "all things come from and enter the machine" reveals the essence of the quantum-classical cycle, and "perfect man has no self, spiritual man has no achievement, true sage has no name" depicts the hierarchy of observer dimension elevation. Zhuangzi's description of the "Dao" is highly consistent with the limitless characteristics of the quantum domain, and the "Butcher Ding" parable vividly demonstrates the characteristics of the optimal classicalization path. Through the perspective of Quantum-Classical Dualism, Zhuangzi's philosophical insights from over two thousand years ago receive interpretation in the language of modern science, not only reflecting the profound wisdom of ancient Chinese thought but also providing a fresh bridge for dialogue between Eastern and Western thought, demonstrating the powerful explanatory power of Quantum-Classical Dualism as a unified theoretical framework.

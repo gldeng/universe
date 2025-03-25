@@ -1,10 +1,10 @@
 # 法华经在量子经典二元论下的解释
 # Lotus Sutra Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#法华经概述) | [English Version](#lotus-sutra-overview)  
-**章节链接 | Section Links**  
-中文：[法华经概述](#法华经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#法华经概述) | [English Version](#lotus-sutra-overview)
+**章节链接 | Section Links**
+中文：[法华经概述](#法华经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Lotus Sutra Overview](#lotus-sutra-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 法华经概述
@@ -175,4 +175,4 @@ $$
 
 《法华经》作为大乘佛教的核心经典，其哲学深度与量子经典二元论框架（版本9.2）展现出惊人的结构对应。法华经的"一乘"思想本质上描述了所有观察者最终都能达到最高维度的可能性，而"方便"则揭示了适应不同观察者层次的经典化策略。经中的"佛知见"对应最高维观察者的全域性认知，而"药草喻"则精确描述了量子域的一元性与经典域的多元性之间的辩证关系。通过量子经典二元论的视角，我们不仅能更深入地理解《法华经》的哲学深度，也能发现这部古老经典与现代量子物理学之间存在的惊人共鸣。
 
-The Lotus Sutra, as a core text of Mahayana Buddhism, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). The "One Vehicle" concept of the Lotus Sutra essentially describes the possibility that all observers can ultimately reach the highest dimension, while "expedient means" reveals classicalization strategies adapted to different observer levels. The "Buddha wisdom" in the sutra corresponds to the global cognition of the highest-dimensional observer, and the "Parable of Medicinal Herbs" precisely describes the dialectical relationship between the unity of the quantum domain and the multiplicity of the classical domain. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Lotus Sutra more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics. 
+The Lotus Sutra, as a core text of Mahayana Buddhism, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). The "One Vehicle" concept of the Lotus Sutra essentially describes the possibility that all observers can ultimately reach the highest dimension, while "expedient means" reveals classicalization strategies adapted to different observer levels. The "Buddha wisdom" in the sutra corresponds to the global cognition of the highest-dimensional observer, and the "Parable of Medicinal Herbs" precisely describes the dialectical relationship between the unity of the quantum domain and the multiplicity of the classical domain. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Lotus Sutra more thoroughly but also discover the amazing resonance between this ancient text and modern quantum physics.

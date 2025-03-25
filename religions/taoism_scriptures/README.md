@@ -1,9 +1,9 @@
 # 道教经典文献 (Taoist Scriptures)
 
-**导航 | Navigation**  
-[中文版](#道教经典列表-list-of-taoist-scriptures) | [English Version](#道教经典列表-list-of-taoist-scriptures)  
-**章节链接 | Section Links**  
-中文：[道教经典列表](#道教经典列表-list-of-taoist-scriptures) | [经典分类](#经典分类-scripture-classifications)  
+**导航 | Navigation**
+[中文版](#道教经典列表-list-of-taoist-scriptures) | [English Version](#道教经典列表-list-of-taoist-scriptures)
+**章节链接 | Section Links**
+中文：[道教经典列表](#道教经典列表-list-of-taoist-scriptures) | [经典分类](#经典分类-scripture-classifications)
 English: [Taoist Scriptures List](#道教经典列表-list-of-taoist-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
 
 ## 道教经典列表 (List of Taoist Scriptures)
@@ -48,7 +48,7 @@ Taoist scriptures are traditionally classified into the following categories, ea
 3. **丹道修炼经典** - 提供观察者维度提升与经典化效率优化方法
 4. **斋醮科仪经典** - 建立高维经典世界与低维经典世界的连接仪式
 5. **尊神经典** - 解释高维经典世界观察者与人类经典世界的互动关系
-6. **戒律经典** - 提供经典化路径优化的行为规范 
+6. **戒律经典** - 提供经典化路径优化的行为规范
 
 ## 主要经典 (Main Texts)
 
@@ -73,4 +73,4 @@ Taoist scriptures are traditionally classified into the following categories, ea
 
 - 这些解释尊重道教传统，同时提供现代科学视角
 - 重点展示道家思想与量子物理学的深层联系
-- 保持对原文的准确理解和尊重 
+- 保持对原文的准确理解和尊重

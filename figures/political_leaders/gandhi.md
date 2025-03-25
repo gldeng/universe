@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1869年10月2日 - 1948年1月30日  
-**国籍 (Nationality)**: 印度 (Indian)  
-**领域 (Fields)**: 政治领袖、社会改革家、独立运动家  
+**生平 (Life Span)**: 1869年10月2日 - 1948年1月30日
+**国籍 (Nationality)**: 印度 (Indian)
+**领域 (Fields)**: 政治领袖、社会改革家、独立运动家
 **代表作品 (Representative Works)**: 《我的真理实验》、《甘地自传》、《印度自治》
 
 ## 核心思想 (Core Ideas)
@@ -108,21 +108,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "要成为变化，你必须看到你希望世界呈现的变化。"
-> 
+>
 > "Be the change that you wish to see in the world."
 
 > "弱者永远不能原谅。宽恕是强者的品质。"
-> 
+>
 > "The weak can never forgive. Forgiveness is the attribute of the strong."
 
 > "以暴力获得的和平不是和平，只是暂时的宁静。"
-> 
+>
 > "Peace obtained through violence is not peace, it is merely a temporary silence."
 
 > "地球提供足够满足每个人的需要，但无法满足每个人的贪婪。"
-> 
+>
 > "Earth provides enough to satisfy every man's needs, but not every man's greed."
 
 > "当我绝望时，我记得历史上真理和爱总是胜利的。有过暴君和凶手，一时他们似乎不可战胜，但最终他们都倒下了，总是如此。"
-> 
-> "When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always." 
+>
+> "When I despair, I remember that all through history the way of truth and love have always won. There have been tyrants and murderers, and for a time, they can seem invincible, but in the end, they always fall. Think of it--always."

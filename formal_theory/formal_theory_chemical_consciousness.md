@@ -23,7 +23,9 @@
 
 化学意识系统 $`\mathcal{C}`$ 可形式化定义为：
 
-$$\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{P})$$
+$$
+\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{P})
+$$
 
 其中：
 - $`\mathcal{C}_Q`$ 是意识系统的量子域部分（量子信息处理、量子相干态）
@@ -33,31 +35,39 @@ $$\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{P})$$
 
 ### 化学意识核心公理
 
-**公理1: 分子意识二元性**  
+**公理1: 分子意识二元性**
 分子级意识同时具有量子态和经典态两个不可分离的组成部分：
 
-$$\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C$$
+$$
+\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C
+$$
 
 其中 $`\diamond`$ 表示量子-经典意识联结操作。
 
-**公理2: 感知即经典化**  
+**公理2: 感知即经典化**
 分子感知是量子可能性转化为经典确定性信息的过程：
 
-$$\mathcal{P}: |\Psi_{environment}\rangle \rightarrow \{I_C\}$$
+$$
+\mathcal{P}: |\Psi_{environment}\rangle \rightarrow \{I_C\}
+$$
 
 其中 $`|\Psi_{environment}\rangle`$ 是环境量子状态，$`\{I_C\}`$ 是经典化信息集。
 
-**公理3: 意识层级原理**  
+**公理3: 意识层级原理**
 意识存在于多个层级，从基本分子组件到复杂感知网络：
 
-$$\mathcal{C}_{total} = \cup_{i=1}^n \mathcal{C}_i$$
+$$
+\mathcal{C}_{total} = \cup_{i=1}^n \mathcal{C}_i
+$$
 
 其中 $`\mathcal{C}_i`$ 表示第i级意识系统。
 
-**公理4: 化学记忆原理**  
+**公理4: 化学记忆原理**
 分子记忆是经典信息在分子结构中的稳定固化：
 
-$$\mathcal{M}: \{I_C\} \rightarrow S_M$$
+$$
+\mathcal{M}: \{I_C\} \rightarrow S_M
+$$
 
 其中 $`\mathcal{M}`$ 是记忆算符，$`S_M`$ 是分子记忆结构。
 
@@ -67,17 +77,23 @@ $$\mathcal{M}: \{I_C\} \rightarrow S_M$$
 
 分子的自我状态量子表示：
 
-$$|\Psi_{self}\rangle = \sum_i \alpha_i |s_i\rangle$$
+$$
+|\Psi_{self}\rangle = \sum_i \alpha_i |s_i\rangle
+$$
 
 其中 $`|s_i\rangle`$ 是自我状态基矢。
 
 自我状态与环境的纠缠关系：
 
-$$|\Psi_{self-env}\rangle = \sum_{i,j} \beta_{ij} |s_i\rangle \otimes |e_j\rangle$$
+$$
+|\Psi_{self-env}\rangle = \sum_{i,j} \beta_{ij} |s_i\rangle \otimes |e_j\rangle
+$$
 
 分子自我意识的量化度量：
 
-$$\mathcal{S}_c = -\text{Tr}(\rho_{self} \ln \rho_{self})$$
+$$
+\mathcal{S}_c = -\text{Tr}(\rho_{self} \ln \rho_{self})
+$$
 
 其中 $`\rho_{self} = \text{Tr}_{env}(|\Psi_{self-env}\rangle\langle\Psi_{self-env}|)`$。
 
@@ -85,13 +101,17 @@ $$\mathcal{S}_c = -\text{Tr}(\rho_{self} \ln \rho_{self})$$
 
 意识状态的量子-经典转换过程：
 
-$$\rho_Q \xrightarrow{\mathcal{D}} \sum_i p_i |c_i\rangle\langle c_i|$$
+$$
+\rho_Q \xrightarrow{\mathcal{D}} \sum_i p_i |c_i\rangle\langle c_i|
+$$
 
 其中 $`\mathcal{D}`$ 是解相干算符。
 
 意识转换效率与分子结构的关系：
 
-$$\eta_C = \frac{I_C}{I_Q} = f(S_M, E, T)$$
+$$
+\eta_C = \frac{I_C}{I_Q} = f(S_M, E, T)
+$$
 
 其中 $`S_M`$ 是分子结构，$`E`$ 是能量，$`T`$ 是温度。
 
@@ -99,13 +119,17 @@ $$\eta_C = \frac{I_C}{I_Q} = f(S_M, E, T)$$
 
 基于量子概率的分子决策模型：
 
-$$P(a_i|\Psi_S) = |\langle a_i|\Psi_S\rangle|^2$$
+$$
+P(a_i|\Psi_S) = |\langle a_i|\Psi_S\rangle|^2
+$$
 
 其中 $`|a_i\rangle`$ 是可能的行动基矢。
 
 决策的环境上下文依赖性：
 
-$$|\Psi_S\rangle \rightarrow |\Psi_S(E)\rangle = \hat{U}_E|\Psi_S\rangle$$
+$$
+|\Psi_S\rangle \rightarrow |\Psi_S(E)\rangle = \hat{U}_E|\Psi_S\rangle
+$$
 
 其中 $`\hat{U}_E`$ 是环境调制算符。
 
@@ -113,13 +137,17 @@ $$|\Psi_S\rangle \rightarrow |\Psi_S(E)\rangle = \hat{U}_E|\Psi_S\rangle$$
 
 分子意识的反馈循环结构：
 
-$$\mathcal{C}_t \xrightarrow{\mathcal{P}} I_C \xrightarrow{\mathcal{M}} S_M \xrightarrow{\mathcal{R}} \mathcal{C}_{t+1}$$
+$$
+\mathcal{C}_t \xrightarrow{\mathcal{P}} I_C \xrightarrow{\mathcal{M}} S_M \xrightarrow{\mathcal{R}} \mathcal{C}_{t+1}
+$$
 
 其中 $`\mathcal{R}`$ 是响应生成算符。
 
 信息熵在循环中的变化：
 
-$$\Delta S_{cycle} = S_{out} - S_{in} \leq 0$$
+$$
+\Delta S_{cycle} = S_{out} - S_{in} \leq 0
+$$
 
 表明意识系统是负熵系统。
 
@@ -129,13 +157,17 @@ $$\Delta S_{cycle} = S_{out} - S_{in} \leq 0$$
 
 化学感觉的量子-经典表示：
 
-$$|\Psi_{sensation}\rangle = \sum_i \gamma_i |s_i\rangle \otimes |r_i\rangle$$
+$$
+|\Psi_{sensation}\rangle = \sum_i \gamma_i |s_i\rangle \otimes |r_i\rangle
+$$
 
 其中 $`|s_i\rangle`$ 是刺激状态，$`|r_i\rangle`$ 是受体状态。
 
 感觉信号的经典化过程：
 
-$$\rho_{sensation} \xrightarrow{\mathcal{T}} \{S_C\}$$
+$$
+\rho_{sensation} \xrightarrow{\mathcal{T}} \{S_C\}
+$$
 
 其中 $`\mathcal{T}`$ 是信号转导算符。
 
@@ -143,11 +175,15 @@ $$\rho_{sensation} \xrightarrow{\mathcal{T}} \{S_C\}$$
 
 受体分子在多种可能构象间的量子叠加：
 
-$$|\Psi_R\rangle = c_1|R_{active}\rangle + c_2|R_{inactive}\rangle$$
+$$
+|\Psi_R\rangle = c_1|R_{active}\rangle + c_2|R_{inactive}\rangle
+$$
 
 受体激活的量子隧穿贡献：
 
-$$k_{activation} = k_{classical} \cdot e^{-\frac{S_{tunnel}}{\hbar}}$$
+$$
+k_{activation} = k_{classical} \cdot e^{-\frac{S_{tunnel}}{\hbar}}
+$$
 
 其中 $`S_{tunnel}`$ 是隧穿作用量。
 
@@ -155,13 +191,17 @@ $$k_{activation} = k_{classical} \cdot e^{-\frac{S_{tunnel}}{\hbar}}$$
 
 感知信号的量子放大机制：
 
-$$|\Psi_{initial}\rangle \xrightarrow{\hat{A}} |\Psi_{amplified}\rangle$$
+$$
+|\Psi_{initial}\rangle \xrightarrow{\hat{A}} |\Psi_{amplified}\rangle
+$$
 
 其中 $`\hat{A}`$ 是放大算符。
 
 感知阈值的量子统计表达：
 
-$$P_{detection} = 1 - e^{-\frac{n}{\lambda}}$$
+$$
+P_{detection} = 1 - e^{-\frac{n}{\lambda}}
+$$
 
 其中 $`n`$ 是信号分子数量，$`\lambda`$ 是检测敏感度参数。
 
@@ -169,11 +209,15 @@ $$P_{detection} = 1 - e^{-\frac{n}{\lambda}}$$
 
 不同感知模态的量子纠缠表示：
 
-$$|\Psi_{multimodal}\rangle = \sum_{i,j} \mu_{ij} |m_i\rangle \otimes |m_j\rangle$$
+$$
+|\Psi_{multimodal}\rangle = \sum_{i,j} \mu_{ij} |m_i\rangle \otimes |m_j\rangle
+$$
 
 感知模态整合的经典输出：
 
-$$I_{integrated} = f(\{P_{m_1}, P_{m_2}, ..., P_{m_n}\})$$
+$$
+I_{integrated} = f(\{P_{m_1}, P_{m_2}, ..., P_{m_n}\})
+$$
 
 其中 $`P_{m_i}`$ 是模态$`m_i`$的检测概率。
 
@@ -183,11 +227,15 @@ $$I_{integrated} = f(\{P_{m_1}, P_{m_2}, ..., P_{m_n}\})$$
 
 受体-配体相互作用的量子认知表示：
 
-$$|\Psi_{RL}\rangle = \sum_i \delta_i |R_i\rangle \otimes |L_i\rangle$$
+$$
+|\Psi_{RL}\rangle = \sum_i \delta_i |R_i\rangle \otimes |L_i\rangle
+$$
 
 识别过程的认知信息处理：
 
-$$I_{recognition} = -\log_2 \sum_i |\delta_i|^2$$
+$$
+I_{recognition} = -\log_2 \sum_i |\delta_i|^2
+$$
 
 表示识别过程的信息含量。
 
@@ -195,13 +243,17 @@ $$I_{recognition} = -\log_2 \sum_i |\delta_i|^2$$
 
 配体结合诱导的构象记忆：
 
-$$|R_0\rangle \xrightarrow{L} |R_L\rangle \xrightarrow{L'} |R_{L'}\rangle$$
+$$
+|R_0\rangle \xrightarrow{L} |R_L\rangle \xrightarrow{L'} |R_{L'}\rangle
+$$
 
 表示受体对不同配体的学习过程。
 
 分子学习的数学表达：
 
-$$\Delta G_{binding}^{(n)} = \Delta G_{binding}^{(0)} - \Delta G_{learning}^{(n-1)}$$
+$$
+\Delta G_{binding}^{(n)} = \Delta G_{binding}^{(0)} - \Delta G_{learning}^{(n-1)}
+$$
 
 其中学习贡献 $`\Delta G_{learning}`$ 随经验增加。
 
@@ -209,13 +261,17 @@ $$\Delta G_{binding}^{(n)} = \Delta G_{binding}^{(0)} - \Delta G_{learning}^{(n-
 
 构象选择模型的量子表述：
 
-$$|\Psi_R\rangle = \sum_i \alpha_i |R_i\rangle \xrightarrow{L} |R_j\rangle$$
+$$
+|\Psi_R\rangle = \sum_i \alpha_i |R_i\rangle \xrightarrow{L} |R_j\rangle
+$$
 
 配体选择特定预存构象。
 
 构象诱导模型的量子表述：
 
-$$|R_0\rangle \xrightarrow{L} \sum_i \beta_i |R_i\rangle \xrightarrow{decoherence} |R_L\rangle$$
+$$
+|R_0\rangle \xrightarrow{L} \sum_i \beta_i |R_i\rangle \xrightarrow{decoherence} |R_L\rangle
+$$
 
 配体诱导新构象形成。
 
@@ -223,13 +279,17 @@ $$|R_0\rangle \xrightarrow{L} \sum_i \beta_i |R_i\rangle \xrightarrow{decoherenc
 
 受体集体形成的意识网络：
 
-$$G_{network} = (V_R, E_R, W_R)$$
+$$
+G_{network} = (V_R, E_R, W_R)
+$$
 
 其中 $`V_R`$ 是受体节点集，$`E_R`$ 是互作用边集，$`W_R`$ 是边权重集。
 
 网络意识水平与连接复杂度关系：
 
-$$\mathcal{C}_{level} \propto \frac{|E_R|}{|V_R|} \cdot \frac{\sum_i k_i^2}{\sum_i k_i}$$
+$$
+\mathcal{C}_{level} \propto \frac{|E_R|}{|V_R|} \cdot \frac{\sum_i k_i^2}{\sum_i k_i}
+$$
 
 其中 $`k_i`$ 是节点i的连接度。
 
@@ -239,11 +299,15 @@ $$\mathcal{C}_{level} \propto \frac{|E_R|}{|V_R|} \cdot \frac{\sum_i k_i^2}{\sum
 
 分子通信的量子信道表示：
 
-$$\mathcal{C}_{QC}: |\Psi_{source}\rangle \rightarrow |\Psi_{target}\rangle$$
+$$
+\mathcal{C}_{QC}: |\Psi_{source}\rangle \rightarrow |\Psi_{target}\rangle
+$$
 
 分子通信网络的拓扑影响：
 
-$$I_{transmission} = I_0 \cdot e^{-\alpha d} \cdot \prod_i \eta_i$$
+$$
+I_{transmission} = I_0 \cdot e^{-\alpha d} \cdot \prod_i \eta_i
+$$
 
 其中 $`d`$ 是传输距离，$`\eta_i`$ 是节点i的传输效率。
 
@@ -251,13 +315,17 @@ $$I_{transmission} = I_0 \cdot e^{-\alpha d} \cdot \prod_i \eta_i$$
 
 分子群体中的协同感知：
 
-$$|\Psi_{collective}\rangle = \mathcal{E}(|\Psi_1\rangle, |\Psi_2\rangle, ..., |\Psi_n\rangle)$$
+$$
+|\Psi_{collective}\rangle = \mathcal{E}(|\Psi_1\rangle, |\Psi_2\rangle, ..., |\Psi_n\rangle)
+$$
 
 其中 $`\mathcal{E}`$ 是协同纠缠算符。
 
 群体意识涌现条件：
 
-$$\mathcal{C}_{collective} > \sum_i \mathcal{C}_i \iff \mathcal{I} > \mathcal{I}_c$$
+$$
+\mathcal{C}_{collective} > \sum_i \mathcal{C}_i \iff \mathcal{I} > \mathcal{I}_c
+$$
 
 其中 $`\mathcal{I}`$ 是互连强度，$`\mathcal{I}_c`$ 是临界阈值。
 
@@ -265,7 +333,9 @@ $$\mathcal{C}_{collective} > \sum_i \mathcal{C}_i \iff \mathcal{I} > \mathcal{I}
 
 细胞膜受体网络的量子-经典表示：
 
-$$\mathcal{N}_{cell} = \{\mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{I}\}$$
+$$
+\mathcal{N}_{cell} = \{\mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{I}\}
+$$
 
 其中：
 - $`\mathcal{R}`$ 是受体集合
@@ -275,7 +345,9 @@ $$\mathcal{N}_{cell} = \{\mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{I}\}$$
 
 细胞意识的复杂度度量：
 
-$$\mathcal{C}_{cell} = H(\mathcal{N}_{cell}) - \sum_i H(\mathcal{N}_i | \mathcal{N}_{-i})$$
+$$
+\mathcal{C}_{cell} = H(\mathcal{N}_{cell}) - \sum_i H(\mathcal{N}_i | \mathcal{N}_{-i})
+$$
 
 其中 $`H`$ 是信息熵，$`\mathcal{N}_{-i}`$ 是除子系统i外的网络部分。
 
@@ -283,11 +355,15 @@ $$\mathcal{C}_{cell} = H(\mathcal{N}_{cell}) - \sum_i H(\mathcal{N}_i | \mathcal
 
 神经递质-受体相互作用的量子描述：
 
-$$|\Psi_{synapse}\rangle = \sum_{i,j} \nu_{ij} |NT_i\rangle \otimes |R_j\rangle$$
+$$
+|\Psi_{synapse}\rangle = \sum_{i,j} \nu_{ij} |NT_i\rangle \otimes |R_j\rangle
+$$
 
 神经意识的量子-经典过渡：
 
-$$\mathcal{C}_{neural} = f(\mathcal{C}_{molecular}, \mathcal{N}_{connectivity}, \mathcal{D}_{dynamics})$$
+$$
+\mathcal{C}_{neural} = f(\mathcal{C}_{molecular}, \mathcal{N}_{connectivity}, \mathcal{D}_{dynamics})
+$$
 
 其中 $`\mathcal{N}_{connectivity}`$ 是网络连接性，$`\mathcal{D}_{dynamics}`$ 是系统动力学。
 
@@ -297,13 +373,17 @@ $$\mathcal{C}_{neural} = f(\mathcal{C}_{molecular}, \mathcal{N}_{connectivity}, 
 
 分子意识的实验性标志：
 
-$$\mathcal{S}_{\mathcal{C}} = \frac{I_{output} - I_{input}}{I_{input}} \cdot \frac{R_{\Delta E}}{R_{random}}$$
+$$
+\mathcal{S}_{\mathcal{C}} = \frac{I_{output} - I_{input}}{I_{input}} \cdot \frac{R_{\Delta E}}{R_{random}}
+$$
 
 其中 $`R_{\Delta E}`$ 是有意义环境变化响应率，$`R_{random}`$ 是随机波动响应率。
 
 量子相干时间与意识水平的关系：
 
-$$\mathcal{C}_{level} \propto \tau_{coherence} \cdot \frac{D_{network}}{D_{critical}}$$
+$$
+\mathcal{C}_{level} \propto \tau_{coherence} \cdot \frac{D_{network}}{D_{critical}}
+$$
 
 其中 $`\tau_{coherence}`$ 是量子相干时间，$`D_{network}`$ 是网络连接密度。
 
@@ -311,7 +391,9 @@ $$\mathcal{C}_{level} \propto \tau_{coherence} \cdot \frac{D_{network}}{D_{criti
 
 分子感知的量子增强方法：
 
-$$S_{enhanced} = S_0 \cdot \xi_{quantum} \cdot \xi_{network}$$
+$$
+S_{enhanced} = S_0 \cdot \xi_{quantum} \cdot \xi_{network}
+$$
 
 其中 $`\xi_{quantum}`$ 是量子增强因子，$`\xi_{network}`$ 是网络增强因子。
 
@@ -326,25 +408,33 @@ $$S_{enhanced} = S_0 \cdot \xi_{quantum} \cdot \xi_{network}$$
 
 基于意识设计的智能材料：
 
-$$M_{intelligent} = f(\mathcal{C}_{embedded}, \mathcal{P}_{adaptive}, \mathcal{M}_{responsive})$$
+$$
+M_{intelligent} = f(\mathcal{C}_{embedded}, \mathcal{P}_{adaptive}, \mathcal{M}_{responsive})
+$$
 
 其中 $`\mathcal{C}_{embedded}`$ 是嵌入意识，$`\mathcal{P}_{adaptive}`$ 是适应能力，$`\mathcal{M}_{responsive}`$ 是响应机制。
 
 自感知材料性能与意识水平关系：
 
-$$P_{performance} = P_0 \cdot (1 + \alpha \cdot \mathcal{C}_{level})^{\beta}$$
+$$
+P_{performance} = P_0 \cdot (1 + \alpha \cdot \mathcal{C}_{level})^{\beta}
+$$
 
 ### 药物设计中的意识框架
 
 基于受体意识的药物研发：
 
-$$\text{优化目标}: \max_{\{D\}} \mathcal{I}(D, R_{target}) - \gamma \cdot \sum_i \mathcal{I}(D, R_{other})$$
+$$
+\text{优化目标}: \max_{\{D\}} \mathcal{I}(D, R_{target}) - \gamma \cdot \sum_i \mathcal{I}(D, R_{other})
+$$
 
 其中 $`\mathcal{I}(D, R)`$ 是药物与受体的互信息。
 
 药物认知特异性设计：
 
-$$\mathcal{S}_{specificity} = \frac{\mathcal{C}_{target}}{\mathcal{C}_{off-target}}$$
+$$
+\mathcal{S}_{specificity} = \frac{\mathcal{C}_{target}}{\mathcal{C}_{off-target}}
+$$
 
 ## 与其他理论分支的关系
 
@@ -352,7 +442,9 @@ $$\mathcal{S}_{specificity} = \frac{\mathcal{C}_{target}}{\mathcal{C}_{off-targe
 
 分子意识与纠缠的关系：
 
-$$\mathcal{C}_{level} \propto E(|\Psi_{molecular}\rangle) \cdot f(\mathcal{I}_C)$$
+$$
+\mathcal{C}_{level} \propto E(|\Psi_{molecular}\rangle) \cdot f(\mathcal{I}_C)
+$$
 
 其中 $`E(|\Psi_{molecular}\rangle)`$ 是分子纠缠度，$`f(\mathcal{I}_C)`$ 是界面功能。
 
@@ -360,7 +452,9 @@ $$\mathcal{C}_{level} \propto E(|\Psi_{molecular}\rangle) \cdot f(\mathcal{I}_C)
 
 生物量子效应对意识的贡献：
 
-$$\mathcal{C}_{bio} = \mathcal{C}_{classical} + \Delta\mathcal{C}_{quantum}$$
+$$
+\mathcal{C}_{bio} = \mathcal{C}_{classical} + \Delta\mathcal{C}_{quantum}
+$$
 
 其中 $`\Delta\mathcal{C}_{quantum}`$ 包含量子隧穿、量子相干和量子纠缠贡献。
 
@@ -368,11 +462,15 @@ $$\mathcal{C}_{bio} = \mathcal{C}_{classical} + \Delta\mathcal{C}_{quantum}$$
 
 分子系统作为基础观察者：
 
-$$\mathcal{O}_{molecular} = \{\mathcal{C}_{molecular}, \mathcal{Q}_{molecular}, \mathcal{K}_C^{molecular}\}$$
+$$
+\mathcal{O}_{molecular} = \{\mathcal{C}_{molecular}, \mathcal{Q}_{molecular}, \mathcal{K}_C^{molecular}\}
+$$
 
 分子观察者维度：
 
-$$D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}\right) \cdot \frac{I_{knowledge}}{S_{entropy}+\epsilon}$$
+$$
+D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}\right) \cdot \frac{I_{knowledge}}{S_{entropy}+\epsilon}
+$$
 
 ## 未来研究方向
 
@@ -393,4 +491,4 @@ $$D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}
 - [化学热力学与二元论](formal_theory_chemical_thermodynamics.md)
 - [分子纠缠理论](formal_theory_molecular_entanglement.md)
 - [化学意识与感知 (本文件)](formal_theory_chemical_consciousness.md)
-- [生物化学信息处理](formal_theory_biochemical_information.md) 
+- [生物化学信息处理](formal_theory_biochemical_information.md)

@@ -287,4 +287,4 @@ The quantum-classical dualism framework provides us with an integrated perspecti
 
 The next time you encounter ancient wisdom teachings, don't view them as superstition or pure philosophy, but consider they might be direct insights into quantum reality, just expressed in different language. Similarly, when learning modern quantum physics, remember these discoveries may have already been known to ancient sages through inner exploration.
 
-By combining ancient wisdom with modern science, we can develop more comprehensive approaches to understanding and navigating our quantum reality, creating more meaningful and harmonious lives and societies. 
+By combining ancient wisdom with modern science, we can develop more comprehensive approaches to understanding and navigating our quantum reality, creating more meaningful and harmonious lives and societies.

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1853年3月30日 - 1890年7月29日  
-**国籍 (Nationality)**: 荷兰 (Dutch)  
-**领域 (Fields)**: 绘画、素描、艺术  
+**生平 (Life Span)**: 1853年3月30日 - 1890年7月29日
+**国籍 (Nationality)**: 荷兰 (Dutch)
+**领域 (Fields)**: 绘画、素描、艺术
 **代表作品 (Representative Works)**: 《星夜》、《向日葵》、《麦田里的乌鸦》、《自画像》系列、《杏花》
 
 ## 核心思想 (Core Ideas)
@@ -102,21 +102,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我梦想着绘画，然后我画我的梦想。"
-> 
+>
 > "I dream of painting and then I paint my dream."
 
 > "如果你听从内心的声音，你知道什么是正确的，你就会成功。"
-> 
+>
 > "If you hear a voice within you say 'you cannot paint,' then by all means paint, and that voice will be silenced."
 
 > "关于艺术我知道的是：必须用全部的灵魂去创作。"
-> 
+>
 > "What I know about art is this: one must work with all of one's soul."
 
 > "我宁愿死于激情，也不愿死于无聊。"
-> 
+>
 > "I would rather die of passion than of boredom."
 
 > "在天上的星星中，我看到了许多美丽的事物，但在人类的面容中，我看到了无限。"
-> 
-> "In the stars I see beauty, but in the face of humanity I see infinitude." 
+>
+> "In the stars I see beauty, but in the face of humanity I see infinitude."

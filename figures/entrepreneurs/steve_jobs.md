@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1955年2月24日 - 2011年10月5日  
-**国籍 (Nationality)**: 美国 (American)  
-**领域 (Fields)**: 科技、设计、企业家  
+**生平 (Life Span)**: 1955年2月24日 - 2011年10月5日
+**国籍 (Nationality)**: 美国 (American)
+**领域 (Fields)**: 科技、设计、企业家
 **代表作品/成就 (Representative Works/Achievements)**: 苹果公司联合创始人、麦金塔电脑、iPod、iPhone、iPad、Pixar动画工作室
 
 ## 核心思想 (Core Ideas)
@@ -94,21 +94,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "简洁是终极的复杂。"
-> 
+>
 > "Simplicity is the ultimate sophistication."
 
 > "创新区分领导者和跟随者。"
-> 
+>
 > "Innovation distinguishes between a leader and a follower."
 
 > "设计不仅仅是外观和感觉。设计是产品如何工作。"
-> 
+>
 > "Design is not just what it looks like and feels like. Design is how it works."
 
 > "活着就是为了改变世界，怎么能忘记它呢？"
-> 
+>
 > "The people who are crazy enough to think they can change the world are the ones who do."
 
 > "要有足够的勇气追随自己的心灵和直觉。它们在某种程度上已经知道你真正想要成为什么样子。"
-> 
-> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." 
+>
+> "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."

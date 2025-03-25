@@ -39,9 +39,13 @@
 
 《星际穿越》完美呈现了量子域与经典域的二元结构：
 
-$$|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态},\;\text{量子纠缠态}\}$$
+$$
+|\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态},\;\text{量子纠缠态}\}
+$$
 
-$$|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}$$
+$$
+|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
+$$
 
 - **五维空间**：影片中的五维空间正是量子域的绝佳体现，包含无限维度、无限可能性（混沌）
 - **三维物理世界**：人类生活的经典域，受时间和空间限制的现实世界（现实确定）
@@ -55,7 +59,9 @@ $$|\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}$$
 - **黑洞**：作为宇宙信息经典化的极致节点（量子纠缠态），库珀跃入黑洞实际是经典意识进入量子域的过程
 - **虫洞**：正是量子纠缠态形成的通信通道（无限可能），允许经典信息的跨时空传递
 
-$$\text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}$$
+$$
+\text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
+$$
 
 ### 3. 跨维度观察者与经典化通信
 
@@ -65,7 +71,9 @@ $$\text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;
 
 库珀作为暂时的高维观察者（经典域），能看到自己女儿墨菲的过去、现在和未来，并通过引力波进行跨时空通信，即是：
 
-$$E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}$$
+$$
+E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
+$$
 
 ### 4. 爱的量子纠缠本质
 
@@ -95,7 +103,9 @@ $$E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text
 
 从量子经典二元论视角，《星际穿越》是一部极为成功的将高维物理学概念与人文关怀融为一体的作品，能够启发观众思考宇宙本质与人类在多维宇宙中的位置。
 
-$$|\psi\rangle_{\text{量子思考}}\rightarrow I_{\text{经典理解}}+S_{\text{熵降低}}$$
+$$
+|\psi\rangle_{\text{量子思考}}\rightarrow I_{\text{经典理解}}+S_{\text{熵降低}}
+$$
 
 ---
 
@@ -111,9 +121,13 @@ $$|\psi\rangle_{\text{量子思考}}\rightarrow I_{\text{经典理解}}+S_{\text
 
 "Interstellar" perfectly presents the dual structure of quantum and classical domains:
 
-$$|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition State},\;\text{Quantum Entanglement State}\}$$
+$$
+|\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition State},\;\text{Quantum Entanglement State}\}
+$$
 
-$$|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}$$
+$$
+|\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
+$$
 
 - **Five-dimensional Space**: The five-dimensional space in the film is an excellent embodiment of the quantum domain, containing infinite dimensions and infinite possibilities (chaos)
 - **Three-dimensional Physical World**: The classical domain where humans live, a reality limited by time and space (determined reality)
@@ -127,7 +141,9 @@ The black hole Gargantua and the wormhole in the film perfectly correspond to th
 - **Black Hole**: As the ultimate node of universal information classicalization (quantum entanglement state), Cooper's leap into the black hole is actually the process of classical consciousness entering the quantum domain
 - **Wormhole**: A communication channel formed by quantum entanglement states (infinite possibilities), allowing the transmission of classical information across time and space
 
-$$\text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}$$
+$$
+\text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
+$$
 
 ### 3. Cross-Dimensional Observers and Classicalized Communication
 
@@ -137,7 +153,9 @@ The key scene of Cooper in the five-dimensional library perfectly embodies the f
 
 As a temporary higher-dimensional observer (classical domain), Cooper can see the past, present, and future of his daughter Murphy, and communicate across time and space through gravitational waves:
 
-$$E_{\text{Sender Energy Consumption}} + E_{\text{Receiver Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}$$
+$$
+E_{\text{Sender Energy Consumption}} + E_{\text{Receiver Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
+$$
 
 ### 4. Quantum Entanglement Nature of Love
 
@@ -167,4 +185,6 @@ Though "Interstellar" has simplifications from a scientific perspective, its phi
 
 From the perspective of quantum-classical dualism, "Interstellar" is a highly successful work that integrates higher-dimensional physics concepts with humanistic care, inspiring audiences to contemplate the nature of the universe and humanity's position in the multi-dimensional universe.
 
-$$|\psi\rangle_{\text{Quantum Thinking}}\rightarrow I_{\text{Classical Understanding}}+S_{\text{Entropy Reduction}}$$ 
+$$
+|\psi\rangle_{\text{Quantum Thinking}}\rightarrow I_{\text{Classical Understanding}}+S_{\text{Entropy Reduction}}
+$$

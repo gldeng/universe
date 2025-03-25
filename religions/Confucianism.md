@@ -1,9 +1,9 @@
 # 儒家思想在量子经典二元论下的解释 (Confucianism Explained Through Quantum-Classical Dualism)
 
-**导航 | Navigation**  
-[中文版](#儒家思想概述-confucianism-overview) | [English Version](#儒家思想概述-confucianism-overview)  
-**章节链接 | Section Links**  
-中文：[儒家思想概述](#儒家思想概述-confucianism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [天道与量子域](#1-天天道与量子域-heavendao-of-heaven-and-quantum-domain) | [仁与经典化核心](#2-仁与经典化核心-benevolence-and-classicalization-core)  
+**导航 | Navigation**
+[中文版](#儒家思想概述-confucianism-overview) | [English Version](#儒家思想概述-confucianism-overview)
+**章节链接 | Section Links**
+中文：[儒家思想概述](#儒家思想概述-confucianism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [天道与量子域](#1-天天道与量子域-heavendao-of-heaven-and-quantum-domain) | [仁与经典化核心](#2-仁与经典化核心-benevolence-and-classicalization-core)
 English: [Confucianism Overview](#儒家思想概述-confucianism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Heaven & Quantum Domain](#1-天天道与量子域-heavendao-of-heaven-and-quantum-domain) | [Benevolence & Classicalization](#2-仁与经典化核心-benevolence-and-classicalization-core)
 
 ## 儒家思想概述 (Confucianism Overview)
@@ -118,4 +118,4 @@ $$
 
 儒家思想与量子经典二元论框架展现出惊人的契合性。从天道到仁爱，从修身到礼制，从中庸到君子，从天人合一到五伦，都能在量子经典二元论中找到系统化、数学化的解释。这种对应不仅彰显了儒家思想的深刻洞见，也验证了量子经典二元论作为统一理论框架对东亚传统思想的解释力。特别值得注意的是，儒家思想可能是人类文明中最早系统化关注社会经典熵优化的哲学体系，其关于社会和谐与个人发展的智慧在量子经典二元论框架下展现出新的科学意义。
 
-Confucian thought demonstrates remarkable compatibility with the Quantum-Classical Dualism framework. From the Dao of Heaven to benevolence, from self-cultivation to propriety, from the Doctrine of the Mean to the ideal of the superior person, from unity between Heaven and humanity to the Five Relationships, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This correspondence not only highlights the profound insights of Confucian thought but also verifies the explanatory power of Quantum-Classical Dualism as a unified theoretical framework for East Asian traditional thought. Particularly noteworthy is that Confucianism may be the earliest philosophical system in human civilization to systematically focus on optimizing social classical entropy, with its wisdom on social harmony and personal development revealing new scientific significance under the Quantum-Classical Dualism framework. 
+Confucian thought demonstrates remarkable compatibility with the Quantum-Classical Dualism framework. From the Dao of Heaven to benevolence, from self-cultivation to propriety, from the Doctrine of the Mean to the ideal of the superior person, from unity between Heaven and humanity to the Five Relationships, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This correspondence not only highlights the profound insights of Confucian thought but also verifies the explanatory power of Quantum-Classical Dualism as a unified theoretical framework for East Asian traditional thought. Particularly noteworthy is that Confucianism may be the earliest philosophical system in human civilization to systematically focus on optimizing social classical entropy, with its wisdom on social harmony and personal development revealing new scientific significance under the Quantum-Classical Dualism framework.

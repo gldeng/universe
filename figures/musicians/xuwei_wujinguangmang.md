@@ -1,10 +1,10 @@
 # 《无尽光芒》：量子经典二元论视角的深度解析
 # "Endless Radiance": A Deep Analysis from the Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[作品背景](#作品背景) | [歌词全文](#歌词全文) | [量子经典二元论逐句分析](#量子经典二元论逐句分析) | [哲学深度](#哲学深度) | [文化影响](#文化影响)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[作品背景](#作品背景) | [歌词全文](#歌词全文) | [量子经典二元论逐句分析](#量子经典二元论逐句分析) | [哲学深度](#哲学深度) | [文化影响](#文化影响)
 English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line Analysis with Quantum-Classical Dualism](#line-by-line-analysis-with-quantum-classical-dualism) | [Philosophical Depth](#philosophical-depth) | [Cultural Impact](#cultural-impact)
 
 ## 中文版
@@ -337,4 +337,4 @@ From the Quantum-Classical Dualism perspective, the reason "Endless Radiance" ca
 
 At the same time, the dissemination process of "Endless Radiance" itself is a practice of the wormhole communication mechanism—Xu Wei, as a high-dimensional observer, encodes his understanding of the universe's essence into music, transmits it to listeners through a "wormhole channel" (music medium), and listeners then decode this information into their own understanding. This transmission not only doesn't lose the essence of information but enriches the original information through the creative interpretation of listeners themselves, forming an accumulation of collective classical knowledge.
 
-The widespread influence of "Endless Radiance" verifies the important role of art as a special classicalization path in the development of human civilization. It is not just a popular song but the crystallization of wisdom of Xu Wei as an observer sharing his dimensional experience with more people, contributing to the development of collective consciousness towards higher dimensions. 
+The widespread influence of "Endless Radiance" verifies the important role of art as a special classicalization path in the development of human civilization. It is not just a popular song but the crystallization of wisdom of Xu Wei as an observer sharing his dimensional experience with more people, contributing to the development of collective consciousness towards higher dimensions.

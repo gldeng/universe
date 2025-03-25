@@ -204,4 +204,4 @@ Here we collect quantum-classical dualism proofs and analyses for more classical
 3. Formalized Quantum-Classical Framework (Version 29.0). [formal_theory_en.md](../../../formal_theory_core_en.md)
 4. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
 5. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
-6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints. 
+6. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.

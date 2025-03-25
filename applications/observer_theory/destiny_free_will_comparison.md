@@ -324,4 +324,4 @@ Unlike celestial bodies, humans as complex observer nodes possess the following 
 
 Therefore, although human destiny is indeed constrained by classical physical laws and initial conditions, compared to celestial bodies, humans possess greater free will space and possibility for changing destiny. Destiny is not completely fixed but exists in a dynamic balance between classical determinism and quantum possibilities.
 
-By improving observer dimension and classicalization efficiency, humans can increase their ability to change destiny, which is also one of the core driving forces of personal growth and civilizational progress. 
+By improving observer dimension and classicalization efficiency, humans can increase their ability to change destiny, which is also one of the core driving forces of personal growth and civilizational progress.

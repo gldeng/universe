@@ -1,9 +1,9 @@
 # 六祖坛经的量子经典二元论解释 | Platform Sutra Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#六祖坛经解析) | [English Version](#platform-sutra-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#六祖坛经解析) | [English Version](#platform-sutra-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 | Overview
@@ -75,4 +75,4 @@ $$
 
 六祖坛经通过量子经典二元论框架（版本9.2）的解析，展示了禅宗顿悟法门与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应禅宗的心性观和因果观，经典域中的观察者训练对应禅宗的戒定慧。这种对应关系不仅加深了我们对禅宗顿悟法门的理解，也为现代物理学提供了新的实践维度。
 
-The Platform Sutra, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Zen sudden enlightenment method and modern physics. The superposition and entanglement states in the quantum domain correspond to Zen concepts of mind nature and karma, while observer training in the classical domain corresponds to Zen precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Zen sudden enlightenment method but also provides new practical dimensions for modern physics to explore. 
+The Platform Sutra, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Zen sudden enlightenment method and modern physics. The superposition and entanglement states in the quantum domain correspond to Zen concepts of mind nature and karma, while observer training in the classical domain corresponds to Zen precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Zen sudden enlightenment method but also provides new practical dimensions for modern physics to explore.

@@ -1,10 +1,10 @@
 # 人际冲突的量子经典二元论解释 (Quantum-Classical Dualism Explanation of Interpersonal Conflicts)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
 
-**章节链接 | Section Links**  
-中文：[冲突的量子经典本质](#1-冲突的量子经典本质) | [冲突的维度差异](#2-冲突的维度差异) | [冲突的熵增与信息耗散](#3-冲突的熵增与信息耗散) | [冲突的优化解决方法](#4-基于量子经典理论的冲突优化解决方法) | [实践案例分析](#5-实践案例分析)  
+**章节链接 | Section Links**
+中文：[冲突的量子经典本质](#1-冲突的量子经典本质) | [冲突的维度差异](#2-冲突的维度差异) | [冲突的熵增与信息耗散](#3-冲突的熵增与信息耗散) | [冲突的优化解决方法](#4-基于量子经典理论的冲突优化解决方法) | [实践案例分析](#5-实践案例分析)
 
 English: [Quantum-Classical Nature of Conflicts](#1-quantum-classical-nature-of-conflicts) | [Dimensional Differences](#2-dimensional-differences-in-conflicts) | [Entropy Increase](#3-entropy-increase-and-information-dissipation-in-conflicts) | [Optimization Methods](#4-conflict-optimization-methods-based-on-quantum-classical-theory) | [Case Analysis](#5-practical-case-analysis)
 
@@ -68,20 +68,28 @@ $$
 根据经典化不匹配的性质，冲突可分为几种主要类型：
 
 1. **事实冲突**：对客观事实的经典化不同
-   
-   $$|\psi\rangle_{\text{客观事件}}\xrightarrow{\text{不同观察者经典化}}\text{不同事实认知}+S_{\text{事实熵}}$$
+
+$$
+|\psi\rangle_{\text{客观事件}}\xrightarrow{\text{不同观察者经典化}}\text{不同事实认知}+S_{\text{事实熵}}
+$$
 
 2. **价值冲突**：对价值判断的经典化不同
-   
-   $$|\psi\rangle_{\text{价值信息}}\xrightarrow{\text{不同观察者经典化}}\text{不同价值判断}+S_{\text{价值熵}}$$
+
+$$
+|\psi\rangle_{\text{价值信息}}\xrightarrow{\text{不同观察者经典化}}\text{不同价值判断}+S_{\text{价值熵}}
+$$
 
 3. **关系冲突**：对关系本质的经典化不同
-   
-   $$|\psi\rangle_{\text{关系信息}}\xrightarrow{\text{不同观察者经典化}}\text{不同关系定义}+S_{\text{关系熵}}$$
+
+$$
+|\psi\rangle_{\text{关系信息}}\xrightarrow{\text{不同观察者经典化}}\text{不同关系定义}+S_{\text{关系熵}}
+$$
 
 4. **过程冲突**：对过程方法的经典化不同
-   
-   $$|\psi\rangle_{\text{过程信息}}\xrightarrow{\text{不同观察者经典化}}\text{不同方法选择}+S_{\text{过程熵}}$$
+
+$$
+|\psi\rangle_{\text{过程信息}}\xrightarrow{\text{不同观察者经典化}}\text{不同方法选择}+S_{\text{过程熵}}
+$$
 
 ### 6. 冲突解决的量子经典路径
 
@@ -94,20 +102,28 @@ $$
 有效的冲突解决方式包括：
 
 1. **维度提升**：一方或双方提升观察者维度，获得更广阔视角
-   
-   $$D_{\text{观察者}} \uparrow \Rightarrow \text{视角广度} \uparrow \Rightarrow \text{冲突可能性} \downarrow$$
+
+$$
+D_{\text{观察者}} \uparrow \Rightarrow \text{视角广度} \uparrow \Rightarrow \text{冲突可能性} \downarrow
+$$
 
 2. **纠缠优化**：增强有效纠缠，减少无效纠缠
-   
-   $$E_{\text{纠缠}} \uparrow \Rightarrow \text{共享经典知识} \uparrow \Rightarrow \text{冲突强度} \downarrow$$
+
+$$
+E_{\text{纠缠}} \uparrow \Rightarrow \text{共享经典知识} \uparrow \Rightarrow \text{冲突强度} \downarrow
+$$
 
 3. **经典化协调**：建立共同的经典化框架和语言
-   
-   $$\text{经典化框架统一} \Rightarrow |\text{经典知识A} - \text{经典知识B}| \downarrow \Rightarrow \text{冲突} \downarrow$$
+
+$$
+\text{经典化框架统一} \Rightarrow |\text{经典知识A} - \text{经典知识B}| \downarrow \Rightarrow \text{冲突} \downarrow
+$$
 
 4. **熵减少策略**：通过沟通减少信息不确定性
-   
-   $$\text{有效沟通} \Rightarrow S_{\text{经典熵}} \downarrow \Rightarrow \text{冲突} \downarrow$$
+
+$$
+\text{有效沟通} \Rightarrow S_{\text{经典熵}} \downarrow \Rightarrow \text{冲突} \downarrow
+$$
 
 ### 7. 冲突的进化意义
 
@@ -130,20 +146,28 @@ $$
 量子经典二元论对人际冲突的解释提供了实践应用的框架：
 
 1. **冲突预防**：通过提前建立高效纠缠和统一经典化框架
-   
-   $$\text{预防措施} = \text{建立高效纠缠} + \text{统一经典化框架} + \text{维度提升训练}$$
+
+$$
+\text{预防措施} = \text{建立高效纠缠} + \text{统一经典化框架} + \text{维度提升训练}
+$$
 
 2. **冲突管理**：通过识别冲突类型和根源，采取针对性策略
-   
-   $$\text{管理策略} = f(\text{冲突类型}, \text{纠缠效率}, \text{维度差异})$$
+
+$$
+\text{管理策略} = f(\text{冲突类型}, \text{纠缠效率}, \text{维度差异})
+$$
 
 3. **冲突转化**：将冲突能量转化为维度提升的动力
-   
-   $$\text{冲突能量} \xrightarrow{\text{转化}} \text{维度提升动力} \xrightarrow{\text{结果}} \text{观察者成长}$$
+
+$$
+\text{冲突能量} \xrightarrow{\text{转化}} \text{维度提升动力} \xrightarrow{\text{结果}} \text{观察者成长}
+$$
 
 4. **关系修复**：通过重建纠缠和优化经典化过程
-   
-   $$\text{关系修复} = \text{重建纠缠} + \text{优化经典化} + \text{减少经典熵}$$
+
+$$
+\text{关系修复} = \text{重建纠缠} + \text{优化经典化} + \text{减少经典熵}
+$$
 
 ## English Version
 
@@ -205,20 +229,28 @@ During conflicts, the total classical entropy of the system increases, manifesti
 Based on the nature of classicalization mismatches, conflicts can be categorized into several main types:
 
 1. **Factual Conflicts**: Different classicalizations of objective facts
-   
-   $$|\psi\rangle_{\text{Objective Event}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Factual Cognition}+S_{\text{Factual Entropy}}$$
+
+$$
+|\psi\rangle_{\text{Objective Event}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Factual Cognition}+S_{\text{Factual Entropy}}
+$$
 
 2. **Value Conflicts**: Different classicalizations of value judgments
-   
-   $$|\psi\rangle_{\text{Value Information}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Value Judgments}+S_{\text{Value Entropy}}$$
+
+$$
+|\psi\rangle_{\text{Value Information}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Value Judgments}+S_{\text{Value Entropy}}
+$$
 
 3. **Relationship Conflicts**: Different classicalizations of relationship nature
-   
-   $$|\psi\rangle_{\text{Relationship Information}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Relationship Definitions}+S_{\text{Relationship Entropy}}$$
+
+$$
+|\psi\rangle_{\text{Relationship Information}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Relationship Definitions}+S_{\text{Relationship Entropy}}
+$$
 
 4. **Process Conflicts**: Different classicalizations of process methods
-   
-   $$|\psi\rangle_{\text{Process Information}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Method Selections}+S_{\text{Process Entropy}}$$
+
+$$
+|\psi\rangle_{\text{Process Information}}\xrightarrow{\text{Different Observer Classicalization}}\text{Different Method Selections}+S_{\text{Process Entropy}}
+$$
 
 ### 6. Quantum-Classical Paths to Conflict Resolution
 
@@ -231,20 +263,28 @@ $$
 Effective conflict resolution methods include:
 
 1. **Dimension Elevation**: One or both parties elevate their observer dimensions to gain broader perspectives
-   
-   $$D_{\text{Observer}} \uparrow \Rightarrow \text{Perspective Breadth} \uparrow \Rightarrow \text{Conflict Possibility} \downarrow$$
+
+$$
+D_{\text{Observer}} \uparrow \Rightarrow \text{Perspective Breadth} \uparrow \Rightarrow \text{Conflict Possibility} \downarrow
+$$
 
 2. **Entanglement Optimization**: Enhance effective entanglement, reduce ineffective entanglement
-   
-   $$E_{\text{Entanglement}} \uparrow \Rightarrow \text{Shared Classical Knowledge} \uparrow \Rightarrow \text{Conflict Intensity} \downarrow$$
+
+$$
+E_{\text{Entanglement}} \uparrow \Rightarrow \text{Shared Classical Knowledge} \uparrow \Rightarrow \text{Conflict Intensity} \downarrow
+$$
 
 3. **Classicalization Coordination**: Establish common classicalization frameworks and language
-   
-   $$\text{Unified Classicalization Framework} \Rightarrow |\text{Classical Knowledge A} - \text{Classical Knowledge B}| \downarrow \Rightarrow \text{Conflict} \downarrow$$
+
+$$
+\text{Unified Classicalization Framework} \Rightarrow |\text{Classical Knowledge A} - \text{Classical Knowledge B}| \downarrow \Rightarrow \text{Conflict} \downarrow
+$$
 
 4. **Entropy Reduction Strategies**: Reduce information uncertainty through communication
-   
-   $$\text{Effective Communication} \Rightarrow S_{\text{Classical Entropy}} \downarrow \Rightarrow \text{Conflict} \downarrow$$
+
+$$
+\text{Effective Communication} \Rightarrow S_{\text{Classical Entropy}} \downarrow \Rightarrow \text{Conflict} \downarrow
+$$
 
 ### 7. Evolutionary Significance of Conflicts
 
@@ -267,17 +307,25 @@ Therefore, conflicts are not merely negative phenomena but also mechanisms for t
 The Quantum-Classical Dualism explanation of interpersonal conflicts provides a framework for practical applications:
 
 1. **Conflict Prevention**: Through pre-establishing high-efficiency entanglement and unified classicalization frameworks
-   
-   $$\text{Preventive Measures} = \text{Establishing High-Efficiency Entanglement} + \text{Unified Classicalization Framework} + \text{Dimension Elevation Training}$$
+
+$$
+\text{Preventive Measures} = \text{Establishing High-Efficiency Entanglement} + \text{Unified Classicalization Framework} + \text{Dimension Elevation Training}
+$$
 
 2. **Conflict Management**: Through identifying conflict types and sources, adopting targeted strategies
-   
-   $$\text{Management Strategy} = f(\text{Conflict Type}, \text{Entanglement Efficiency}, \text{Dimensional Difference})$$
+
+$$
+\text{Management Strategy} = f(\text{Conflict Type}, \text{Entanglement Efficiency}, \text{Dimensional Difference})
+$$
 
 3. **Conflict Transformation**: Converting conflict energy into momentum for dimension elevation
-   
-   $$\text{Conflict Energy} \xrightarrow{\text{Transformation}} \text{Dimension Elevation Momentum} \xrightarrow{\text{Result}} \text{Observer Growth}$$
+
+$$
+\text{Conflict Energy} \xrightarrow{\text{Transformation}} \text{Dimension Elevation Momentum} \xrightarrow{\text{Result}} \text{Observer Growth}
+$$
 
 4. **Relationship Repair**: Through rebuilding entanglement and optimizing classicalization processes
-   
-   $$\text{Relationship Repair} = \text{Rebuilding Entanglement} + \text{Optimizing Classicalization} + \text{Reducing Classical Entropy}$$ 
+
+$$
+\text{Relationship Repair} = \text{Rebuilding Entanglement} + \text{Optimizing Classicalization} + \text{Reducing Classical Entropy}
+$$

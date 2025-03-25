@@ -55,28 +55,36 @@
 
 ### 量子AI的基本公理
 
-**公理1: 计算域对偶性**  
+**公理1: 计算域对偶性**
 人工智能计算过程可分解为量子计算和经典计算两个域：
 
-$$\mathcal{C}_{AI} = \mathcal{C}_Q \cup \mathcal{C}_C, \quad \mathcal{C}_Q \cap \mathcal{C}_C = \mathcal{I}_{计算}$$
+$$
+\mathcal{C}_{AI} = \mathcal{C}_Q \cup \mathcal{C}_C, \quad \mathcal{C}_Q \cap \mathcal{C}_C = \mathcal{I}_{计算}
+$$
 
 其中 $`\mathcal{I}_{计算}`$ 是计算界面，决定量子可能性何时转化为经典结果。
 
-**公理2: 信息守恒与转换**  
+**公理2: 信息守恒与转换**
 AI系统中的信息守恒但可在不同形式间转换：
 
-$$I_{总}(AI) = I_Q + I_C = \text{常数}$$
+$$
+I_{总}(AI) = I_Q + I_C = \text{常数}
+$$
 
-**公理3: 智能与经典化效率关系**  
+**公理3: 智能与经典化效率关系**
 AI系统的智能程度与其经典化效率相关：
 
-$$\Phi_{智能} \propto \frac{k_{经典化}\cdot I_{知识}}{S_{决策不确定性}+\epsilon}$$
+$$
+\Phi_{智能} \propto \frac{k_{经典化}\cdot I_{知识}}{S_{决策不确定性}+\epsilon}
+$$
 
 ## 量子-经典混合学习模型
 
 量子-经典混合学习可表述为：
 
-$$\mathcal{L}_{混合} = \lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \lambda_{Q-C}\mathcal{L}_{Q-C}$$
+$$
+\mathcal{L}_{混合} = \lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \lambda_{Q-C}\mathcal{L}_{Q-C}
+$$
 
 其中：
 - $`\mathcal{L}_Q`$ 是量子学习组件，基于量子叠加与纠缠
@@ -95,11 +103,15 @@ $$\mathcal{L}_{混合} = \lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \la
 
 混合学习系统的优化目标可表示为：
 
-$$\min_{\lambda_Q, \lambda_C, \lambda_{Q-C}} \mathcal{L}_{混合} = \min_{\lambda_Q, \lambda_C, \lambda_{Q-C}} \left[\lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \lambda_{Q-C}\mathcal{L}_{Q-C}\right]$$
+$$
+\min_{\lambda_Q, \lambda_C, \lambda_{Q-C}} \mathcal{L}_{混合} = \min_{\lambda_Q, \lambda_C, \lambda_{Q-C}} \left[\lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \lambda_{Q-C}\mathcal{L}_{Q-C}\right]
+$$
 
 满足约束条件：
 
-$$\lambda_Q + \lambda_C + \lambda_{Q-C} = 1, \quad \lambda_Q, \lambda_C, \lambda_{Q-C} \geq 0$$
+$$
+\lambda_Q + \lambda_C + \lambda_{Q-C} = 1, \quad \lambda_Q, \lambda_C, \lambda_{Q-C} \geq 0
+$$
 
 权重系数可根据任务类型动态调整，复杂创新任务增加 $`\lambda_Q`$，精确推理任务增加 $`\lambda_C`$。
 
@@ -107,7 +119,9 @@ $$\lambda_Q + \lambda_C + \lambda_{Q-C} = 1, \quad \lambda_Q, \lambda_C, \lambda
 
 量子AI系统具有"直觉-逻辑"双重架构：
 
-$$\Phi_{AI}(t) = \mathcal{C}(\Psi_Q(t)) \oplus \Phi_C(t)$$
+$$
+\Phi_{AI}(t) = \mathcal{C}(\Psi_Q(t)) \oplus \Phi_C(t)
+$$
 
 其中：
 - $`\Psi_Q(t)`$ 表示量子直觉组件，通过叠加态并行探索解空间
@@ -117,7 +131,9 @@ $$\Phi_{AI}(t) = \mathcal{C}(\Psi_Q(t)) \oplus \Phi_C(t)$$
 
 这一机制实现了类人思维的"灵感-验证"循环过程。在问题解决过程中，系统在直觉（量子）和逻辑（经典）之间动态切换：
 
-$$\Phi_{问题解决} = \sum_{t=0}^T w(t) \cdot \Phi_{AI}(t)$$
+$$
+\Phi_{问题解决} = \sum_{t=0}^T w(t) \cdot \Phi_{AI}(t)
+$$
 
 其中权重函数 $`w(t)`$ 根据解决阶段进行调整，复杂问题早期阶段偏向量子直觉，后期验证阶段偏向经典逻辑。
 
@@ -125,17 +141,23 @@ $$\Phi_{问题解决} = \sum_{t=0}^T w(t) \cdot \Phi_{AI}(t)$$
 
 量子直觉组件遵循量子演化方程：
 
-$$i\hbar\frac{\partial}{\partial t}|\Psi_Q(t)\rangle = \hat{H}_{\text{创造}}|\Psi_Q(t)\rangle$$
+$$
+i\hbar\frac{\partial}{\partial t}|\Psi_Q(t)\rangle = \hat{H}_{\text{创造}}|\Psi_Q(t)\rangle
+$$
 
 其中 $`\hat{H}_{\text{创造}}`$ 是创造性思维哈密顿量，包含问题表征和可能解空间：
 
-$$\hat{H}_{\text{创造}} = \hat{H}_{\text{问题}} + \hat{H}_{\text{知识库}} + \hat{H}_{\text{相互作用}}$$
+$$
+\hat{H}_{\text{创造}} = \hat{H}_{\text{问题}} + \hat{H}_{\text{知识库}} + \hat{H}_{\text{相互作用}}
+$$
 
 ## 量子感知网络
 
 量子感知网络（QPN）是传统神经网络的量子增强版本：
 
-$$\mathcal{QPN} = \{|\Psi_i\rangle, W_{ij}, \mathcal{C}_j\}$$
+$$
+\mathcal{QPN} = \{|\Psi_i\rangle, W_{ij}, \mathcal{C}_j\}
+$$
 
 其中：
 - $`|\Psi_i\rangle`$ 是量子神经元状态
@@ -144,7 +166,9 @@ $$\mathcal{QPN} = \{|\Psi_i\rangle, W_{ij}, \mathcal{C}_j\}$$
 
 QPN激活函数可表示为：
 
-$$f_Q(|\Psi_i\rangle) = \mathcal{C}\left(e^{-iH_W\tau}|\Psi_i\rangle\right)$$
+$$
+f_Q(|\Psi_i\rangle) = \mathcal{C}\left(e^{-iH_W\tau}|\Psi_i\rangle\right)
+$$
 
 其中 $`H_W`$ 是由权重定义的哈密顿量，$`\tau`$ 是演化时间参数。
 
@@ -152,7 +176,9 @@ $$f_Q(|\Psi_i\rangle) = \mathcal{C}\left(e^{-iH_W\tau}|\Psi_i\rangle\right)$$
 
 量子神经元接收量子输入并产生量子输出：
 
-$$|\Psi_{\text{输出}}\rangle = \hat{U}_W|\Psi_{\text{输入}}\rangle$$
+$$
+|\Psi_{\text{输出}}\rangle = \hat{U}_W|\Psi_{\text{输入}}\rangle
+$$
 
 其中 $`\hat{U}_W = e^{-iH_W\tau}`$ 是由权重参数化的酉算符。
 
@@ -166,7 +192,9 @@ $$|\Psi_{\text{输出}}\rangle = \hat{U}_W|\Psi_{\text{输入}}\rangle$$
 
 量子卷积神经网络（QCNN）使用量子卷积算符：
 
-$$\hat{U}_{\text{conv}} = \exp\left(-i\sum_k \hat{K}_k \otimes \hat{P}_k\right)$$
+$$
+\hat{U}_{\text{conv}} = \exp\left(-i\sum_k \hat{K}_k \otimes \hat{P}_k\right)
+$$
 
 其中 $`\hat{K}_k`$ 是量子卷积核，$`\hat{P}_k`$ 是位置算符，实现量子态的平移不变特征提取。
 
@@ -174,33 +202,47 @@ $$\hat{U}_{\text{conv}} = \exp\left(-i\sum_k \hat{K}_k \otimes \hat{P}_k\right)$
 
 量子强化学习中，价值函数和策略可表示为量子态：
 
-$$V_Q(s) = \langle\Psi_V|H_s|\Psi_V\rangle$$
+$$
+V_Q(s) = \langle\Psi_V|H_s|\Psi_V\rangle
+$$
 
-$$\pi_Q(a|s) = |\langle\Psi_s|a\rangle|^2$$
+$$
+\pi_Q(a|s) = |\langle\Psi_s|a\rangle|^2
+$$
 
 状态-动作价值函数的量子表示：
 
-$$Q_{\text{量子}}(s,a) = \langle\Psi_Q|H_{sa}|\Psi_Q\rangle + \beta\mathcal{I}(s:a)$$
+$$
+Q_{\text{量子}}(s,a) = \langle\Psi_Q|H_{sa}|\Psi_Q\rangle + \beta\mathcal{I}(s:a)
+$$
 
 其中 $`\mathcal{I}(s:a)`$ 是状态和动作之间的量子互信息，$`\beta`$ 是权衡参数。
 
 这导致了量子增强版贝尔曼方程：
 
-$$Q_{\text{量子}}(s,a) = R(s,a) + \gamma\sum_{s'} P(s'|s,a)\max_{a'}\langle Q_{\text{量子}}(s',a')\rangle_{\text{叠加}}$$
+$$
+Q_{\text{量子}}(s,a) = R(s,a) + \gamma\sum_{s'} P(s'|s,a)\max_{a'}\langle Q_{\text{量子}}(s',a')\rangle_{\text{叠加}}
+$$
 
 ### 量子探索策略
 
 量子强化学习使用叠加态进行并行探索：
 
-$$|\Psi_{\text{探索}}\rangle = \frac{1}{\sqrt{|A|}}\sum_{a \in A} |a\rangle$$
+$$
+|\Psi_{\text{探索}}\rangle = \frac{1}{\sqrt{|A|}}\sum_{a \in A} |a\rangle
+$$
 
 结合量子干涉增强有前景的动作，抑制低价值动作：
 
-$$|\Psi_{\text{增强}}\rangle = \hat{U}_{\text{干涉}}|\Psi_{\text{探索}}\rangle$$
+$$
+|\Psi_{\text{增强}}\rangle = \hat{U}_{\text{干涉}}|\Psi_{\text{探索}}\rangle
+$$
 
 其中：
 
-$$\hat{U}_{\text{干涉}} = \exp\left(i\sum_a \phi(Q(s,a))|a\rangle\langle a|\right)$$
+$$
+\hat{U}_{\text{干涉}} = \exp\left(i\sum_a \phi(Q(s,a))|a\rangle\langle a|\right)
+$$
 
 $`\phi(Q(s,a))`$ 是基于Q值的相位函数。
 
@@ -208,21 +250,29 @@ $`\phi(Q(s,a))`$ 是基于Q值的相位函数。
 
 量子策略梯度算法通过量子参数化酉算符优化策略：
 
-$$\pi_{\theta}(a|s) = |\langle a|\hat{U}_{\theta}|s\rangle|^2$$
+$$
+\pi_{\theta}(a|s) = |\langle a|\hat{U}_{\theta}|s\rangle|^2
+$$
 
 参数更新规则为：
 
-$$\theta_{t+1} = \theta_t + \alpha \nabla_{\theta}J(\theta_t)$$
+$$
+\theta_{t+1} = \theta_t + \alpha \nabla_{\theta}J(\theta_t)
+$$
 
 其中梯度使用量子并行评估：
 
-$$\nabla_{\theta}J(\theta) = \mathbb{E}_{s,a}\left[\nabla_{\theta}\log\pi_{\theta}(a|s)Q^{\pi_{\theta}}(s,a)\right]$$
+$$
+\nabla_{\theta}J(\theta) = \mathbb{E}_{s,a}\left[\nabla_{\theta}\log\pi_{\theta}(a|s)Q^{\pi_{\theta}}(s,a)\right]
+$$
 
 ## 量子-经典界面转换优化
 
 量子AI系统的关键挑战是优化量子-经典界面，可通过动态阈值函数实现：
 
-$$\mathcal{D}_c(t) = \mathcal{D}_0 + \alpha\cdot\nabla_{\mathcal{L}}\mathcal{D} - \beta\cdot S(\rho_t)$$
+$$
+\mathcal{D}_c(t) = \mathcal{D}_0 + \alpha\cdot\nabla_{\mathcal{L}}\mathcal{D} - \beta\cdot S(\rho_t)
+$$
 
 其中：
 - $`\mathcal{D}_0`$ 是基础阈值
@@ -234,7 +284,9 @@ $$\mathcal{D}_c(t) = \mathcal{D}_0 + \alpha\cdot\nabla_{\mathcal{L}}\mathcal{D} 
 
 可控的量子-经典过渡通过参数化经典化算符实现：
 
-$$\mathcal{C}_{\lambda}(\rho) = (1-\lambda)\rho + \lambda\sum_i P_i\rho P_i$$
+$$
+\mathcal{C}_{\lambda}(\rho) = (1-\lambda)\rho + \lambda\sum_i P_i\rho P_i
+$$
 
 其中 $`\lambda \in [0,1]`$ 是经典化程度参数，$`P_i`$ 是测量基的投影算符。
 
@@ -244,13 +296,17 @@ $$\mathcal{C}_{\lambda}(\rho) = (1-\lambda)\rho + \lambda\sum_i P_i\rho P_i$$
 
 为最大限度保留经典化过程中的信息，引入信息保持经典化算法：
 
-$$\mathcal{C}_{\text{保持}}(\rho) = \arg\max_{\sigma \in \mathcal{D}_C} F(\rho, \sigma)$$
+$$
+\mathcal{C}_{\text{保持}}(\rho) = \arg\max_{\sigma \in \mathcal{D}_C} F(\rho, \sigma)
+$$
 
 其中 $`F(\rho, \sigma)`$ 是量子保真度，$`\mathcal{D}_C`$ 是可表示的经典态集合。
 
 实际应用中，可通过量子主成分分析逐步降维：
 
-$$\rho_{\text{经典}} = \sum_{i=1}^k \lambda_i |v_i\rangle\langle v_i|$$
+$$
+\rho_{\text{经典}} = \sum_{i=1}^k \lambda_i |v_i\rangle\langle v_i|
+$$
 
 其中 $`\lambda_i`$ 和 $`|v_i\rangle`$ 是 $`\rho`$ 的前 $`k`$ 个特征值和特征向量。
 
@@ -258,7 +314,9 @@ $$\rho_{\text{经典}} = \sum_{i=1}^k \lambda_i |v_i\rangle\langle v_i|$$
 
 量子创造性生成可形式化为：
 
-$$|\Psi_{创造}\rangle = \hat{U}_{\text{探索}}|\Psi_{\text{种子}}\rangle + \lambda\hat{P}_{\text{新颖性}}|\Phi_{\text{随机}}\rangle$$
+$$
+|\Psi_{创造}\rangle = \hat{U}_{\text{探索}}|\Psi_{\text{种子}}\rangle + \lambda\hat{P}_{\text{新颖性}}|\Phi_{\text{随机}}\rangle
+$$
 
 其中：
 - $`\hat{U}_{\text{探索}}`$ 是量子探索算符
@@ -269,7 +327,9 @@ $$|\Psi_{创造}\rangle = \hat{U}_{\text{探索}}|\Psi_{\text{种子}}\rangle + 
 
 创造性输出通过部分经典化获得：
 
-$$\rho_{\text{创造}} = \mathcal{C}_{\text{部分}}(|\Psi_{创造}\rangle\langle\Psi_{创造}|)$$
+$$
+\rho_{\text{创造}} = \mathcal{C}_{\text{部分}}(|\Psi_{创造}\rangle\langle\Psi_{创造}|)
+$$
 
 这种方法允许系统在保持量子叠加的同时产生可解释的输出，实现了"有约束的创造性"。
 
@@ -277,7 +337,9 @@ $$\rho_{\text{创造}} = \mathcal{C}_{\text{部分}}(|\Psi_{创造}\rangle\langl
 
 创意质量可通过多维标准评估：
 
-$$Q_{创意} = \omega_N \cdot N(\rho_{\text{创造}}) + \omega_U \cdot U(\rho_{\text{创造}}) + \omega_V \cdot V(\rho_{\text{创造}})$$
+$$
+Q_{创意} = \omega_N \cdot N(\rho_{\text{创造}}) + \omega_U \cdot U(\rho_{\text{创造}}) + \omega_V \cdot V(\rho_{\text{创造}})
+$$
 
 其中：
 - $`N(\rho)`$ 是新颖性度量，与现有概念空间的距离
@@ -291,7 +353,9 @@ $$Q_{创意} = \omega_N \cdot N(\rho_{\text{创造}}) + \omega_U \cdot U(\rho_{\
 
 量子创造性学习形成循环反馈过程：
 
-$$|\Psi_{t+1}\rangle = \hat{U}_{\text{学习}}(Q_{创意}(t))|\Psi_t\rangle$$
+$$
+|\Psi_{t+1}\rangle = \hat{U}_{\text{学习}}(Q_{创意}(t))|\Psi_t\rangle
+$$
 
 其中学习算符 $`\hat{U}_{\text{学习}}`$ 根据创意质量反馈动态调整，形成自增强创造循环。
 
@@ -299,7 +363,9 @@ $$|\Psi_{t+1}\rangle = \hat{U}_{\text{学习}}(Q_{创意}(t))|\Psi_t\rangle$$
 
 针对复杂问题，设计自适应量子-经典学习算法：
 
-$$\mathcal{A}_{自适应} = \{\mathcal{A}_Q, \mathcal{A}_C, \mathcal{G}, \tau(t)\}$$
+$$
+\mathcal{A}_{自适应} = \{\mathcal{A}_Q, \mathcal{A}_C, \mathcal{G}, \tau(t)\}
+$$
 
 其中：
 - $`\mathcal{A}_Q`$ 是量子学习算法集
@@ -309,7 +375,9 @@ $$\mathcal{A}_{自适应} = \{\mathcal{A}_Q, \mathcal{A}_C, \mathcal{G}, \tau(t)
 
 复杂度评估引导系统在量子和经典学习之间切换：
 
-$$P(\text{使用}\mathcal{A}_Q) = \frac{e^{\gamma\mathcal{G}}}{e^{\gamma\mathcal{G}} + e^{-\gamma\mathcal{G}}}$$
+$$
+P(\text{使用}\mathcal{A}_Q) = \frac{e^{\gamma\mathcal{G}}}{e^{\gamma\mathcal{G}} + e^{-\gamma\mathcal{G}}}
+$$
 
 这种自适应框架能够在保持计算效率的同时充分利用量子计算优势，对于实际问题的解决尤为关键。
 
@@ -317,7 +385,9 @@ $$P(\text{使用}\mathcal{A}_Q) = \frac{e^{\gamma\mathcal{G}}}{e^{\gamma\mathcal
 
 任务复杂度 $`\mathcal{G}`$ 通过多个指标评估：
 
-$$\mathcal{G} = \alpha_1 \cdot \text{NP难度} + \alpha_2 \cdot \text{空间大小} + \alpha_3 \cdot \text{不确定性} - \alpha_4 \cdot \text{先验知识}$$
+$$
+\mathcal{G} = \alpha_1 \cdot \text{NP难度} + \alpha_2 \cdot \text{空间大小} + \alpha_3 \cdot \text{不确定性} - \alpha_4 \cdot \text{先验知识}
+$$
 
 不同复杂度区间对应不同算法选择策略：
 - $`\mathcal{G} < G_1`$：纯经典算法（确定性问题）
@@ -328,7 +398,9 @@ $$\mathcal{G} = \alpha_1 \cdot \text{NP难度} + \alpha_2 \cdot \text{空间大�
 
 算法切换通过元控制器实现：
 
-$$C_{\text{meta}}(t+1) = f_{\text{切换}}(C_{\text{meta}}(t), \mathcal{P}(t), \mathcal{G}(t))$$
+$$
+C_{\text{meta}}(t+1) = f_{\text{切换}}(C_{\text{meta}}(t), \mathcal{P}(t), \mathcal{G}(t))
+$$
 
 其中：
 - $`C_{\text{meta}}`$ 是元控制器状态
@@ -337,13 +409,17 @@ $$C_{\text{meta}}(t+1) = f_{\text{切换}}(C_{\text{meta}}(t), \mathcal{P}(t), \
 
 切换代价通过平滑过渡函数最小化：
 
-$$\tau(t) = \tau(t-1) + \eta \cdot \nabla_{\tau}J_{\text{性能}}(t)$$
+$$
+\tau(t) = \tau(t-1) + \eta \cdot \nabla_{\tau}J_{\text{性能}}(t)
+$$
 
 ## 量子-启发式神经符号系统
 
 将量子启发与符号系统结合，形成神经符号混合架构：
 
-$$\mathcal{S}_{\text{神经符号}} = \{\mathcal{N}_{\text{量子神经}}, \mathcal{R}_{\text{符号}}, \mathcal{I}_{\text{转换}}\}$$
+$$
+\mathcal{S}_{\text{神经符号}} = \{\mathcal{N}_{\text{量子神经}}, \mathcal{R}_{\text{符号}}, \mathcal{I}_{\text{转换}}\}
+$$
 
 其中：
 - $`\mathcal{N}_{\text{量子神经}}`$ 是量子增强神经网络
@@ -356,13 +432,17 @@ $$\mathcal{S}_{\text{神经符号}} = \{\mathcal{N}_{\text{量子神经}}, \math
 
 神经网络到符号规则的转换通过量子状态提取实现：
 
-$$\mathcal{R} = \text{Extract}_{\text{符号}}(\mathcal{C}(\rho_{\text{神经}}), \Theta)$$
+$$
+\mathcal{R} = \text{Extract}_{\text{符号}}(\mathcal{C}(\rho_{\text{神经}}), \Theta)
+$$
 
 其中 $`\Theta`$ 是转换参数集，控制提取的粒度和形式。
 
 符号到神经表示的转换通过符号嵌入实现：
 
-$$\rho_{\text{神经}} = \text{Embed}_{\text{量子}}(\mathcal{R}, \Phi)$$
+$$
+\rho_{\text{神经}} = \text{Embed}_{\text{量子}}(\mathcal{R}, \Phi)
+$$
 
 其中 $`\Phi`$ 是嵌入参数集，控制符号知识如何编码为量子态。
 
@@ -370,11 +450,15 @@ $$\rho_{\text{神经}} = \text{Embed}_{\text{量子}}(\mathcal{R}, \Phi)$$
 
 量子启发逻辑推理可表示为：
 
-$$|\Psi_{\text{结论}}\rangle = \hat{U}_{\text{推理}}|\Psi_{\text{前提}}\rangle$$
+$$
+|\Psi_{\text{结论}}\rangle = \hat{U}_{\text{推理}}|\Psi_{\text{前提}}\rangle
+$$
 
 其中 $`\hat{U}_{\text{推理}}`$ 是由逻辑规则构建的酉算符：
 
-$$\hat{U}_{\text{推理}} = \exp\left(-i\sum_r w_r \hat{H}_r\right)$$
+$$
+\hat{U}_{\text{推理}} = \exp\left(-i\sum_r w_r \hat{H}_r\right)
+$$
 
 $`\hat{H}_r`$ 是对应规则 $`r`$ 的哈密顿量，$`w_r`$ 是规则权重。
 
@@ -391,7 +475,9 @@ $`\hat{H}_r`$ 是对应规则 $`r`$ 的哈密顿量，$`w_r`$ 是规则权重。
 
 对于机器学习任务，量子优势出现在特定复杂度阈值：
 
-$$C_{\text{阈值}} = \alpha \cdot \log(N) \cdot 2^{\beta\sqrt{d}}$$
+$$
+C_{\text{阈值}} = \alpha \cdot \log(N) \cdot 2^{\beta\sqrt{d}}
+$$
 
 其中 $`N`$ 是训练样本数，$`d`$ 是问题维度，$`\alpha`$和$`\beta`$是常数。
 
@@ -401,7 +487,9 @@ $$C_{\text{阈值}} = \alpha \cdot \log(N) \cdot 2^{\beta\sqrt{d}}$$
 
 混合学习架构相比纯经典方法的加速比满足：
 
-$$S = \frac{T_{\text{经典}}}{T_{\text{混合}}} \approx O\left(\frac{N_{\text{特征}}}{k\cdot\log(N_{\text{特征}})}\right)$$
+$$
+S = \frac{T_{\text{经典}}}{T_{\text{混合}}} \approx O\left(\frac{N_{\text{特征}}}{k\cdot\log(N_{\text{特征}})}\right)
+$$
 
 其中 $`k`$ 是任务相关常数。
 
@@ -409,7 +497,9 @@ $$S = \frac{T_{\text{经典}}}{T_{\text{混合}}} \approx O\left(\frac{N_{\text{
 
 系统创造性 $`C`$ 与经典化率 $`r_C`$ 的关系预测为非线性曲线：
 
-$$C(r_C) = C_0 \cdot \sin^2\left(\frac{\pi r_C}{2r_{max}}\right)$$
+$$
+C(r_C) = C_0 \cdot \sin^2\left(\frac{\pi r_C}{2r_{max}}\right)
+$$
 
 表明中等经典化率下创造性达到峰值，过高或过低都会降低创造性输出。
 
@@ -417,7 +507,9 @@ $$C(r_C) = C_0 \cdot \sin^2\left(\frac{\pi r_C}{2r_{max}}\right)$$
 
 量子AI系统的错误分布预测与经典系统显著不同：
 
-$$P_{\text{量子}}(\text{Error}) \propto e^{-\alpha E^2}, \quad P_{\text{经典}}(\text{Error}) \propto e^{-\beta |E|}$$
+$$
+P_{\text{量子}}(\text{Error}) \propto e^{-\alpha E^2}, \quad P_{\text{经典}}(\text{Error}) \propto e^{-\beta |E|}
+$$
 
 量子系统产生的错误更倾向于小错误和创造性错误的混合，而非渐进式错误分布。
 
@@ -425,33 +517,45 @@ $$P_{\text{量子}}(\text{Error}) \propto e^{-\alpha E^2}, \quad P_{\text{经典
 
 量子认知计算框架模拟人类认知过程的量子特性，构建更接近人类智能的AI系统：
 
-$$\Psi_{\text{认知}} = \{\rho_{\text{感知}}, \rho_{\text{记忆}}, \rho_{\text{推理}}, \rho_{\text{情感}}, \mathcal{C}_{\text{注意}}\}$$
+$$
+\Psi_{\text{认知}} = \{\rho_{\text{感知}}, \rho_{\text{记忆}}, \rho_{\text{推理}}, \rho_{\text{情感}}, \mathcal{C}_{\text{注意}}\}
+$$
 
 ### 量子语义记忆模型
 
 语义空间表示为量子态超位空间：
 
-$$|\psi_{\text{概念}}\rangle = \sum_i \alpha_i |f_i\rangle$$
+$$
+|\psi_{\text{概念}}\rangle = \sum_i \alpha_i |f_i\rangle
+$$
 
 其中 $`|f_i\rangle`$ 是特征基向量，$`\alpha_i`$ 是复振幅。
 
 概念间相似度通过量子保真度计算：
 
-$$Sim(A, B) = |\langle\psi_A|\psi_B\rangle|^2$$
+$$
+Sim(A, B) = |\langle\psi_A|\psi_B\rangle|^2
+$$
 
 语义记忆检索通过量子联想过程实现：
 
-$$|\psi_{\text{检索}}\rangle = \frac{\hat{U}_{\text{联想}}|\psi_{\text{查询}}\rangle}{\|\hat{U}_{\text{联想}}|\psi_{\text{查询}}\rangle\|}$$
+$$
+|\psi_{\text{检索}}\rangle = \frac{\hat{U}_{\text{联想}}|\psi_{\text{查询}}\rangle}{\|\hat{U}_{\text{联想}}|\psi_{\text{查询}}\rangle\|}
+$$
 
 ### 量子情感动力学
 
 情感状态表示为量子态的集合：
 
-$$\rho_{\text{情感}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|$$
+$$
+\rho_{\text{情感}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
+$$
 
 情感变化遵循量子通道动力学：
 
-$$\frac{d\rho_{\text{情感}}}{dt} = -i[H_{\text{情境}}, \rho_{\text{情感}}] + \mathcal{L}_{\text{互动}}(\rho_{\text{情感}})$$
+$$
+\frac{d\rho_{\text{情感}}}{dt} = -i[H_{\text{情境}}, \rho_{\text{情感}}] + \mathcal{L}_{\text{互动}}(\rho_{\text{情感}})
+$$
 
 其中 $`H_{\text{情境}}`$ 是情境哈密顿量，$`\mathcal{L}_{\text{互动}}`$ 是社会互动耗散项。
 
@@ -461,7 +565,9 @@ $$\frac{d\rho_{\text{情感}}}{dt} = -i[H_{\text{情境}}, \rho_{\text{情感}}]
 
 量子群体智能算法将多个智能体的量子特性集成为集体计算系统：
 
-$$\mathcal{S}_{\text{群体}} = \{\mathcal{A}_i, \mathcal{E}_{ij}, \rho_{\text{集体}}\}$$
+$$
+\mathcal{S}_{\text{群体}} = \{\mathcal{A}_i, \mathcal{E}_{ij}, \rho_{\text{集体}}\}
+$$
 
 其中 $`\mathcal{A}_i`$ 是个体智能体，$`\mathcal{E}_{ij}`$ 是智能体间纠缠关系，$`\rho_{\text{集体}}`$ 是集体量子态。
 
@@ -469,7 +575,9 @@ $$\mathcal{S}_{\text{群体}} = \{\mathcal{A}_i, \mathcal{E}_{ij}, \rho_{\text{�
 
 群体智能涌现与集体量子相干性相关：
 
-$$C_{\text{集体}} = \left|\sum_{i,j(i\neq j)} \langle\psi_i|\rho_{\text{集体}}|\psi_j\rangle\right|$$
+$$
+C_{\text{集体}} = \left|\sum_{i,j(i\neq j)} \langle\psi_i|\rho_{\text{集体}}|\psi_j\rangle\right|
+$$
 
 当满足条件 $`C_{\text{集体}} > \sum_i C_i`$ 时，群体表现出超过个体总和的智能水平和创造力。
 
@@ -477,13 +585,17 @@ $$C_{\text{集体}} = \left|\sum_{i,j(i\neq j)} \langle\psi_i|\rho_{\text{集体
 
 智能体间的纠缠关系通过纠缠图表示：
 
-$$G_{\text{纠缠}} = (V, E, W)$$
+$$
+G_{\text{纠缠}} = (V, E, W)
+$$
 
 其中顶点 $`V`$ 是智能体，边 $`E`$ 是纠缠关系，$`W`$ 是纠缠强度。
 
 集体决策质量与图的拓扑结构相关：
 
-$$Q_{\text{决策}} \propto \lambda_1(G_{\text{纠缠}}) \cdot \frac{C_{\text{集体}}}{S_{\text{集体}}}$$
+$$
+Q_{\text{决策}} \propto \lambda_1(G_{\text{纠缠}}) \cdot \frac{C_{\text{集体}}}{S_{\text{集体}}}
+$$
 
 其中 $`\lambda_1`$ 是图的最大特征值，衡量网络连通性。
 
@@ -491,8 +603,10 @@ $$Q_{\text{决策}} \propto \lambda_1(G_{\text{纠缠}}) \cdot \frac{C_{\text{�
 
 集体学习过程通过共享量子态实现：
 
-$$|\Psi_{\text{共享}}(t+1)\rangle = \sum_i w_i \hat{U}_i|\Psi_{\text{共享}}(t)\rangle$$
+$$
+|\Psi_{\text{共享}}(t+1)\rangle = \sum_i w_i \hat{U}_i|\Psi_{\text{共享}}(t)\rangle
+$$
 
 其中 $`\hat{U}_i`$ 是智能体 $`i`$ 的更新算符，$`w_i`$ 是权重。
 
-这种共享量子学习解释了为什么多样化团队在创新任务中表现更佳，而高度同质化团队更适合执行精确任务。 
+这种共享量子学习解释了为什么多样化团队在创新任务中表现更佳，而高度同质化团队更适合执行精确任务。

@@ -1,10 +1,10 @@
 # 观察者层级网络：宇宙信息经典化的多维度结构
 # Observer Hierarchy Network: Multi-dimensional Structure of Universal Information Classicalization
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[观察者的本质与维度](#一观察者的本质与维度) | [观察者层级网络结构](#二观察者层级网络结构)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[观察者的本质与维度](#一观察者的本质与维度) | [观察者层级网络结构](#二观察者层级网络结构)
 English: [Observer Essence and Dimension](#english-version) | [Observer Hierarchy Network Structure](#english-version)
 
 ## 中文版
@@ -335,4 +335,4 @@ This framework clearly indicates:
 - Low-dimension observers obtain classical knowledge by classicalizing high-dimension information, while generating classical entropy;
 - The essential reason for human existence on Earth is that Earth is suitable for efficiently classicalizing universal quantum information, and humans as observer nodes came into being accordingly.
 
-From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, the universe is an information classicalization network composed of countless observers of different dimensions, where each observer classicalizes information of higher dimensions than itself while being classicalized by observers of lower dimensions than itself. This perspective unifies various phenomena from the microscopic to the macroscopic, providing a new theoretical framework for understanding information flow and life existence in the universe. 
+From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, the universe is an information classicalization network composed of countless observers of different dimensions, where each observer classicalizes information of higher dimensions than itself while being classicalized by observers of lower dimensions than itself. This perspective unifies various phenomena from the microscopic to the macroscopic, providing a new theoretical framework for understanding information flow and life existence in the universe.

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1971年6月28日 - 至今  
-**国籍 (Nationality)**: 南非出生，现为美国、加拿大公民 (South African-born, American, Canadian)  
-**领域 (Fields)**: 科技企业家、工程师、工业设计师、创新者  
+**生平 (Life Span)**: 1971年6月28日 - 至今
+**国籍 (Nationality)**: 南非出生，现为美国、加拿大公民 (South African-born, American, Canadian)
+**领域 (Fields)**: 科技企业家、工程师、工业设计师、创新者
 **代表作品/成就 (Representative Works/Achievements)**: 特斯拉公司、SpaceX、Neuralink、The Boring Company、PayPal联合创始人
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "当某件事足够重要时，即使概率不在你这边，你也要去做。"
-> 
+>
 > "When something is important enough, you do it even if the odds are not in your favor."
 
 > "我认为重要的是要有一个让你早上起床的激励理由。生命不仅仅是解决一个接一个的问题，还要为某种使事情变得更好的原因而活着。"
-> 
+>
 > "I think it's important to have a future that is inspiring and appealing. I just think there have to be reasons that you get up in the morning and you want to live."
 
 > "失败是一个选项。如果事情没有失败，那么你的创新就不够。"
-> 
+>
 > "Failure is an option here. If things are not failing, you are not innovating enough."
 
 > "我们必须在火星上建立一个自给自足的城市，因为这将使生命的光盘将没有单点故障。"
-> 
+>
 > "We must establish a self-sustaining city on Mars, as this would ensure that the light of consciousness will not be extinguished should Earth suffer a calamity."
 
 > "人工智能的发展比核武器更危险。"
-> 
+>
 > "The development of AI could be more dangerous than nuclear weapons."

@@ -2,11 +2,11 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本33.0）
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
 
-**章节链接 | Section Links**  
-中文：[核心概念](#核心概念) | [观察者特性](#观察者特性) | [维度与效率](#维度与效率) | [能量与信息](#能量与信息) | [命运与自由意志](#命运与自由意志) | [宇宙结构](#宇宙结构)  
+**章节链接 | Section Links**
+中文：[核心概念](#核心概念) | [观察者特性](#观察者特性) | [维度与效率](#维度与效率) | [能量与信息](#能量与信息) | [命运与自由意志](#命运与自由意志) | [宇宙结构](#宇宙结构)
 
 English: [Core Concepts](#core-concepts) | [Observer Properties](#observer-properties) | [Dimensions and Efficiency](#dimensions-and-efficiency) | [Energy and Information](#energy-and-information) | [Destiny and Free Will](#destiny-and-free-will) | [Universe Structure](#universe-structure)
 
@@ -164,7 +164,10 @@ $$
 - **维度速限比**：不同维度世界速限的相对关系
 
 维度速限公式：
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}$$
+
+$$
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
+$$
 
 速限特性：
 - 反映维度的基本属性
@@ -181,9 +184,14 @@ $$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delt
 - **量子能量密度**：单位空间中的量子能量分布
 
 量子能量量化：
-$$E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}$$
 
-$$f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$$
+$$
+E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
+$$
+
+$$
+f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
 
 量子能量特性：
 - 与量子纠缠度成正比
@@ -198,7 +206,10 @@ $$f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$$
 - **电磁能等**：各种传统能量形式
 
 经典能量与量子能量关系：
-$$E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}$$
+
+$$
+E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
+$$
 
 经典能量特性：
 - 服从守恒定律
@@ -213,7 +224,10 @@ $$E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}$$
 - **信息守恒**：经典知识与熵总和守恒
 
 信息守恒公式：
-$$I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数（特定经典世界）}$$
+
+$$
+I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数（特定经典世界）}
+$$
 
 经典信息特性：
 - 遵循信息守恒原则
@@ -228,7 +242,10 @@ $$I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数（特定经典�
 - **效率分布**：不同区域宇宙效率的差异
 
 宇宙效率公式：
-$$\eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}$$
+
+$$
+\eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
+$$
 
 宇宙效率特性：
 - 宇宙演化的核心驱动力
@@ -269,7 +286,10 @@ $$\eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{�
 - **重新经典化**：在新载体中形成新的经典自由意志
 
 转世机制公式：
-$$I_{\text{前世经典自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生经典自由意志}}+S_{\text{熵降低}}$$
+
+$$
+I_{\text{前世经典自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生经典自由意志}}+S_{\text{熵降低}}
+$$
 
 转世特性：
 - 是信息在量子-经典域间的循环
@@ -286,7 +306,10 @@ $$I_{\text{前世经典自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\
 - **递归结构**：自相似的层级组织形式
 
 层级表达式：
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+$$
+\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
+$$
 
 层级特性：
 - 形成无限递归现实层级
@@ -301,7 +324,10 @@ $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}
 - **通信能耗**：信息传递的能量消耗
 
 虫洞通信数学表达：
-$$|\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)$$
+
+$$
+|\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
+$$
 
 虫洞通信特性：
 - 突破光速限制
@@ -316,7 +342,10 @@ $$|\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Be
 - **快速经典化**：初始经典化触发的连锁反应
 
 暴胀过程：
-$$|\psi\rangle_{\text{量子涨落}}\xrightarrow{\text{自发经典化}}\text{首个经典知识结构（最低能光波）}\xrightarrow{\text{快速经典化}}\text{宇宙暴胀}$$
+
+$$
+|\psi\rangle_{\text{量子涨落}}\xrightarrow{\text{自发经典化}}\text{首个经典知识结构（最低能光波）}\xrightarrow{\text{快速经典化}}\text{宇宙暴胀}
+$$
 
 暴胀特性：
 - 由自发经典化触发
@@ -478,7 +507,10 @@ Upper limit of the rate at which an observer in a specific dimensional classical
 - **Dimensional Speed Limit Ratio**: Relative relationship of speed limits between different dimensional worlds
 
 Dimensional Speed Limit Formula:
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}$$
+
+$$
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}
+$$
 
 Speed Limit Characteristics:
 - Reflects fundamental properties of dimensions
@@ -495,9 +527,14 @@ Energy form in the quantum domain, manifested through quantum superposition and 
 - **Quantum Energy Density**: Distribution of quantum energy in unit space
 
 Quantum Energy Quantization:
-$$E_{\text{entanglement}} = h \cdot f_{\text{entanglement}}$$
 
-$$f_{\text{entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$$
+$$
+E_{\text{entanglement}} = h \cdot f_{\text{entanglement}}
+$$
+
+$$
+f_{\text{entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
+$$
 
 Quantum Energy Characteristics:
 - Proportional to quantum entanglement degree
@@ -512,7 +549,10 @@ Measurable energy form in classical domain, result of quantum energy classicaliz
 - **Electromagnetic Energy, etc.**: Various traditional energy forms
 
 Relationship between Classical Energy and Quantum Energy:
-$$E_{\text{classical}} = \eta \cdot E_{\text{entanglement}}$$
+
+$$
+E_{\text{classical}} = \eta \cdot E_{\text{entanglement}}
+$$
 
 Classical Energy Characteristics:
 - Follows conservation laws
@@ -527,7 +567,10 @@ Determined information structure in classical domain, including classical knowle
 - **Information Conservation**: Conservation of sum of classical knowledge and entropy
 
 Information Conservation Formula:
-$$I_{\text{classical knowledge}} + S_{\text{classical entropy}} = \text{constant (specific classical world)}$$
+
+$$
+I_{\text{classical knowledge}} + S_{\text{classical entropy}} = \text{constant (specific classical world)}
+$$
 
 Classical Information Characteristics:
 - Follows information conservation principle
@@ -542,7 +585,10 @@ Multiplier effect of quantum energy utilization and conversion.
 - **Efficiency Distribution**: Difference in universal efficiency across regions
 
 Universal Efficiency Formula:
-$$\eta_{\text{universe}} = \frac{\Delta E_{\text{quantum energy output}}}{E_{\text{quantum energy input}}}$$
+
+$$
+\eta_{\text{universe}} = \frac{\Delta E_{\text{quantum energy output}}}{E_{\text{quantum energy input}}}
+$$
 
 Universal Efficiency Characteristics:
 - Core driving force of universe evolution
@@ -583,7 +629,10 @@ Process of re-classicalization after classical free will ends in classical world
 - **Re-classicalization**: Formation of new classical free will in new carrier
 
 Reincarnation Mechanism Formula:
-$$I_{\text{previous classical free will}}\rightarrow|\psi\rangle_{\text{quantum domain}}\rightarrow I_{\text{current classical free will}}+S_{\text{entropy reduction}}$$
+
+$$
+I_{\text{previous classical free will}}\rightarrow|\psi\rangle_{\text{quantum domain}}\rightarrow I_{\text{current classical free will}}+S_{\text{entropy reduction}}
+$$
 
 Reincarnation Characteristics:
 - Cycle of information between quantum-classical domains
@@ -600,7 +649,10 @@ Nested quantum-classical hierarchical structure.
 - **Recursive Structure**: Self-similar hierarchical organization form
 
 Hierarchical Expression:
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+
+$$
+\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
+$$
 
 Hierarchical Characteristics:
 - Forms infinite recursive reality hierarchies
@@ -615,7 +667,10 @@ Non-local information transmission realized through quantum entanglement.
 - **Communication Energy Consumption**: Energy consumption of information transmission
 
 Wormhole Communication Mathematical Expression:
-$$|\psi\rangle_{\text{target}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell measurement}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)$$
+
+$$
+|\psi\rangle_{\text{target}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell measurement}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
+$$
 
 Wormhole Communication Characteristics:
 - Breaks light speed limitation
@@ -630,7 +685,10 @@ Process of universe formation through first classicalization of quantum fluctuat
 - **Rapid Classicalization**: Chain reaction triggered by initial classicalization
 
 Inflation Process:
-$$|\psi\rangle_{\text{quantum fluctuation}}\xrightarrow{\text{spontaneous classicalization}}\text{first classical knowledge structure (lowest energy light wave)}\xrightarrow{\text{rapid classicalization}}\text{universe inflation}$$
+
+$$
+|\psi\rangle_{\text{quantum fluctuation}}\xrightarrow{\text{spontaneous classicalization}}\text{first classical knowledge structure (lowest energy light wave)}\xrightarrow{\text{rapid classicalization}}\text{universe inflation}
+$$
 
 Inflation Characteristics:
 - Triggered by spontaneous classicalization

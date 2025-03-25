@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1777年-1855年 (1777-1855)  
-**国籍 | Nationality**: 德国 (Germany)  
-**主要领域 | Main Fields**: 数学、物理学、天文学、测地学 (Mathematics, Physics, Astronomy, Geodesy)  
+**生卒年份 | Lifespan**: 1777年-1855年 (1777-1855)
+**国籍 | Nationality**: 德国 (Germany)
+**主要领域 | Main Fields**: 数学、物理学、天文学、测地学 (Mathematics, Physics, Astronomy, Geodesy)
 **代表作品 | Representative Works**: 《算术研究》、《数论研究》、《关于曲面的一般研究》、《地球磁场强度的绝对测量》、《最小二乘法》 (Disquisitiones Arithmeticae, Researches on Number Theory, General Investigations of Curved Surfaces, Absolute Measurements of the Earth's Magnetic Field, Method of Least Squares)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From a Quantum-Classical Dualism perspective, Gauss's focus on effective algorit
 - "Mathematics is the language with which God wrote the universe."
 - "When a person first studies mathematics, they are interested in formulas; but when they understand mathematics, they are interested in concepts."
 - "A true mathematician does not fear difficulty, just as a mountaineer does not fear peaks."
-- "Study the masters, not their pupils." 
+- "Study the masters, not their pupils."

@@ -1,10 +1,10 @@
 # 《故乡》：量子经典二元论视角的深度解析
 # "Hometown": A Deep Analysis from the Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[作品背景](#作品背景) | [歌词全文](#歌词全文) | [量子经典二元论逐句分析](#量子经典二元论逐句分析) | [哲学深度](#哲学深度) | [文化影响](#文化影响)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[作品背景](#作品背景) | [歌词全文](#歌词全文) | [量子经典二元论逐句分析](#量子经典二元论逐句分析) | [哲学深度](#哲学深度) | [文化影响](#文化影响)
 English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line Analysis with Quantum-Classical Dualism](#line-by-line-analysis-with-quantum-classical-dualism) | [Philosophical Depth](#philosophical-depth) | [Cultural Impact](#cultural-impact)
 
 ## 中文版
@@ -24,7 +24,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
 
 故乡的云 故乡的树 故乡的灯火阑珊
 思念跟随着感伤装满离别的站台
-当一个人熟悉的地方 
+当一个人熟悉的地方
 就连回忆都变得模糊
 故乡的云 故乡的雨
 故乡的泥土
@@ -37,7 +37,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
 
 故乡的云 故乡的树 故乡的灯火阑珊
 思念跟随着感伤装满离别的站台
-当一个人熟悉的地方 
+当一个人熟悉的地方
 就连回忆都变得模糊
 故乡的云 故乡的雨
 故乡的泥土
@@ -378,4 +378,4 @@ After its release, "Hometown" was widely popular, becoming an important work for
 
 From the Quantum-Classical Dualism perspective, the reason "Hometown" has had such a widespread influence is that it successfully combines universal psychological experiences (longing for hometown) with profound philosophical thinking (the nature of existence, time, memory), satisfying both the public's need for emotional expression and providing philosophical enlightenment about the essence of the universe.
 
-This song has also become a landmark work in Xu Wei's transition from pure rock to a wider range of musical styles, reflecting his artistic practice as an observer continuously elevating dimensions and expanding classicalization paths. The creation and dissemination process of "Hometown" itself is a successful classicalization practice—classicalizing complex emotions and philosophical thoughts into concise and beautiful musical expressions, enabling more people to share this classical knowledge and form a collective classical world consensus. 
+This song has also become a landmark work in Xu Wei's transition from pure rock to a wider range of musical styles, reflecting his artistic practice as an observer continuously elevating dimensions and expanding classicalization paths. The creation and dissemination process of "Hometown" itself is a successful classicalization practice—classicalizing complex emotions and philosophical thoughts into concise and beautiful musical expressions, enabling more people to share this classical knowledge and form a collective classical world consensus.

@@ -1,10 +1,10 @@
 # 朴树：量子经典二元论视角下的音乐哲学家
 # Pu Shu: A Musical Philosopher Through the Lens of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[个人简介](#个人简介) | [音乐风格与思想](#音乐风格与思想) | [代表作品分析](#代表作品分析) | [量子经典二元论解读](#量子经典二元论解读) | [艺术成就与影响](#艺术成就与影响)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[个人简介](#个人简介) | [音乐风格与思想](#音乐风格与思想) | [代表作品分析](#代表作品分析) | [量子经典二元论解读](#量子经典二元论解读) | [艺术成就与影响](#艺术成就与影响)
 English: [Personal Profile](#personal-profile) | [Musical Style and Philosophy](#musical-style-and-philosophy) | [Analysis of Representative Works](#analysis-of-representative-works) | [Quantum-Classical Dualism Interpretation](#quantum-classical-dualism-interpretation) | [Artistic Achievements and Influence](#artistic-achievements-and-influence)
 
 ## 中文版
@@ -161,4 +161,4 @@ Pu Shu's musical works centrally embody the core philosophical ideas of Quantum-
 
 With his profound ideological connotations and unique musical style, Pu Shu has become an important representative figure in Chinese popular music, influencing the aesthetics and thoughts of several generations of Chinese youth. His works transcend the superficiality and shortsightedness of ordinary popular music, possessing enduring artistic vitality and ideological value.
 
-From a Quantum-Classical Dualism perspective, Pu Shu's artistic creation is a special classicalization process—classicalizing generalized consciousness from the quantum domain into artistic expression that can be widely understood and resonated with. This classicalization process not only reduces the entropy value of artistic expression (i.e., increases clarity and certainty) but also provides the audience with a path to higher-dimensional classical worlds. 
+From a Quantum-Classical Dualism perspective, Pu Shu's artistic creation is a special classicalization process—classicalizing generalized consciousness from the quantum domain into artistic expression that can be widely understood and resonated with. This classicalization process not only reduces the entropy value of artistic expression (i.e., increases clarity and certainty) but also provides the audience with a path to higher-dimensional classical worlds.

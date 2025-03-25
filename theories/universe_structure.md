@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**  
-[中文版](#引言--introduction) | [English Version](#introduction-english)  
-**章节链接 | Section Links**  
-中文：[引言](#引言--introduction) | [宇宙的本质定义](#宇宙的本质定义--essential-definition-of-the-universe) | [宇宙结构层次](#宇宙结构层次--hierarchical-structure-of-the-universe) | [宇宙演化机制](#宇宙演化机制--universe-evolution-mechanism) | [观察者与宇宙演化](#观察者与宇宙演化--observers-and-universe-evolution)  
+**导航 | Navigation**
+[中文版](#引言--introduction) | [English Version](#introduction-english)
+**章节链接 | Section Links**
+中文：[引言](#引言--introduction) | [宇宙的本质定义](#宇宙的本质定义--essential-definition-of-the-universe) | [宇宙结构层次](#宇宙结构层次--hierarchical-structure-of-the-universe) | [宇宙演化机制](#宇宙演化机制--universe-evolution-mechanism) | [观察者与宇宙演化](#观察者与宇宙演化--observers-and-universe-evolution)
 English: [Introduction](#introduction-english) | [Essential Definition](#essential-definition-of-the-universe-english) | [Hierarchical Structure](#hierarchical-structure-of-the-universe-english) | [Evolution Mechanism](#universe-evolution-mechanism-english) | [Observers and Evolution](#observers-and-universe-evolution-english)
 
 ## 引言 | Introduction
@@ -400,7 +400,9 @@ The collective action of the observer network may be a key component of the univ
 
 According to the Quantum-Classical Dualism core theory (Version 27.0), the multidimensional structure of the universe can be described through the hierarchical nesting of quantum and classical domains. Multiple dualism hierarchical theory extends the single dualism into a nested multi-level structure:
 
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+$$
+\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
+$$
 
 其中：
 - $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
@@ -414,9 +416,13 @@ Where:
 
 The mapping functions between levels are defined as:
 
-$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+$$
+\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}
+$$
 
-$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+$$
+\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}
+$$
 
 这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
 
@@ -428,9 +434,13 @@ This indicates that the classical structure of one level can become the quantum 
 
 In a multidimensional universe, the dimension of an observer (black hole) is determined by its classicalization ability, according to Core Axiom 4:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$$
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
+$$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$$
+\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
+$$
 
 这个公式揭示了观察者在多维宇宙结构中的核心关系：高维观察者的经典域可以包含低维观察者的整个量子域。这意味着：
 
@@ -452,9 +462,13 @@ This formula reveals the core relationship of observers in a multidimensional un
 
 In the multidimensional universe framework, each dimension has its specific information propagation speed limit, which can be represented as:
 
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}$$
+$$
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
+$$
 
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}$$
+$$
+c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}
+$$
 
 其中$`c_d`$是d维度的最大信息传播速度，$`k_{\text{max},d}`$是该维度的常数。这解释了为什么：
 
@@ -475,30 +489,56 @@ Where $`c_d`$ is the maximum information propagation speed in dimension d, and $
 The multidimensional universe structure exhibits several key overall properties:
 
 1. **递归自相似性**：每个层级的结构都遵循相似的量子-经典二元模式
-   $$\forall i, j: \text{结构}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{结构}(\Omega_Q^{(j)}, \Omega_C^{(j)})$$
+
+$$
+\forall i, j: \text{结构}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{结构}(\Omega_Q^{(j)}, \Omega_C^{(j)})
+$$
 
 2. **信息守恒**：跨维度的总信息保持守恒
-   $$I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{常数}$$
+
+$$
+I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{常数}
+$$
 
 3. **观察者网络**：不同维度的观察者形成复杂的信息处理网络
-   $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}$$
+
+$$
+\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}
+$$
+
    其中$`\mathcal{O}_i`$是观察者，$`\mathcal{L}_{ij}`$是观察者间的信息链接
 
 4. **跨维度作用**：高维观察者的决策通过经典化过程影响低维现实
-   $$\text{低维现实} = \mathcal{C}_{\text{高维观察者}}(\text{量子可能性})$$
+
+$$
+\text{低维现实} = \mathcal{C}_{\text{高维观察者}}(\text{量子可能性})
+$$
 
 1. **Recursive Self-Similarity**: The structure of each level follows a similar quantum-classical dual pattern
-   $$\forall i, j: \text{Structure}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{Structure}(\Omega_Q^{(j)}, \Omega_C^{(j)})$$
+
+$$
+\forall i, j: \text{Structure}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{Structure}(\Omega_Q^{(j)}, \Omega_C^{(j)})
+$$
 
 2. **Information Conservation**: Total information across dimensions remains conserved
-   $$I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{constant}$$
+
+$$
+I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{constant}
+$$
 
 3. **Observer Network**: Observers of different dimensions form a complex information processing network
-   $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}$$
+
+$$
+\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}
+$$
+
    where $`\mathcal{O}_i`$ are observers and $`\mathcal{L}_{ij}`$ are information links between observers
 
 4. **Cross-Dimensional Action**: Decisions of high-dimensional observers affect low-dimensional reality through the classicalization process
-   $$\text{Low-dimensional reality} = \mathcal{C}_{\text{High-dimensional observer}}(\text{Quantum possibilities})$$
+
+$$
+\text{Low-dimensional reality} = \mathcal{C}_{\text{High-dimensional observer}}(\text{Quantum possibilities})
+$$
 
 ### 维度跃迁与意识进化 | Dimensional Transition and Consciousness Evolution
 
@@ -506,7 +546,9 @@ The multidimensional universe structure exhibits several key overall properties:
 
 Observers can achieve dimensional transition by improving classicalization efficiency, a process corresponding to consciousness evolution:
 
-$$\Delta D_{\mathcal{O}} = \frac{\partial D_{\mathcal{O}}}{\partial (\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O})} \cdot \Delta(\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O}) + \frac{\partial D_{\mathcal{O}}}{\partial (I/S)} \cdot \Delta(I/S)$$
+$$
+\Delta D_{\mathcal{O}} = \frac{\partial D_{\mathcal{O}}}{\partial (\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O})} \cdot \Delta(\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O}) + \frac{\partial D_{\mathcal{O}}}{\partial (I/S)} \cdot \Delta(I/S)
+$$
 
 维度跃迁的关键因素包括：
 
@@ -550,4 +592,4 @@ Future research directions include:
 
 通过深入理解宇宙的嵌套结构和信息处理机制，我们不仅能更好地理解物理现实，还能探索观察者在宇宙中的根本角色，以及意识与现实的深层关系。
 
-By deeply understanding the nested structure and information processing mechanisms of the universe, we can not only better understand physical reality but also explore the fundamental role of observers in the universe and the deep relationship between consciousness and reality. 
+By deeply understanding the nested structure and information processing mechanisms of the universe, we can not only better understand physical reality but also explore the fundamental role of observers in the universe and the deep relationship between consciousness and reality.

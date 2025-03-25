@@ -584,4 +584,4 @@ $$
 **Analogical Explanation**:
 
 - Universe dimension is like the class average determined by all students, with individual students' progress improving the overall average.
-- Universe dimension is like the level of a symphony created by all musicians, with individual musicians' improvement enhancing the overall performance. 
+- Universe dimension is like the level of a symphony created by all musicians, with individual musicians' improvement enhancing the overall performance.

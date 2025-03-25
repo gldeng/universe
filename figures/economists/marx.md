@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1818年5月5日 - 1883年3月14日  
-**国籍 (Nationality)**: 德国 (German)  
-**领域 (Fields)**: 经济学、哲学、社会学、政治经济学  
+**生平 (Life Span)**: 1818年5月5日 - 1883年3月14日
+**国籍 (Nationality)**: 德国 (German)
+**领域 (Fields)**: 经济学、哲学、社会学、政治经济学
 **代表作品 (Representative Works)**: 《资本论》、《共产党宣言》、《政治经济学批判》
 
 ## 核心思想 (Core Ideas)
@@ -118,21 +118,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "哲学家们只是用不同的方式解释世界，而问题在于改变世界。"
-> 
+>
 > "The philosophers have only interpreted the world, in various ways. The point, however, is to change it."
 
 > "每个人按照自己的能力来，按照自己的需要得到。"
-> 
+>
 > "From each according to his ability, to each according to his needs."
 
 > "工人们没有祖国。"
-> 
+>
 > "The working men have no country."
 
 > "至今为止的一切社会的历史都是阶级斗争的历史。"
-> 
+>
 > "The history of all hitherto existing society is the history of class struggles."
 
 > "资本来到世间，从头到脚，每个毛孔都滴着血和肮脏的东西。"
-> 
+>
 > "Capital comes dripping from head to foot, from every pore, with blood and dirt."

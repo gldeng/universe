@@ -1,9 +1,9 @@
 # 伦理学问题解释 | Ethical Explanations
 
-**导航 | Navigation**  
-[中文版](#简介--introduction) | [English Version](#简介--introduction)  
-**章节链接 | Section Links**  
-中文：[简介](#简介--introduction) | [道德的本质](#道德的本质--nature-of-morality) | [价值的来源](#价值的来源--source-of-values) | [伦理决策过程](#伦理决策过程--ethical-decision-making-process) | [责任与自由](#责任与自由--responsibility-and-freedom) | [伦理发展](#伦理发展--ethical-development)  
+**导航 | Navigation**
+[中文版](#简介--introduction) | [English Version](#简介--introduction)
+**章节链接 | Section Links**
+中文：[简介](#简介--introduction) | [道德的本质](#道德的本质--nature-of-morality) | [价值的来源](#价值的来源--source-of-values) | [伦理决策过程](#伦理决策过程--ethical-decision-making-process) | [责任与自由](#责任与自由--responsibility-and-freedom) | [伦理发展](#伦理发展--ethical-development)
 English: [Introduction](#简介--introduction) | [Nature of Morality](#道德的本质--nature-of-morality) | [Source of Values](#价值的来源--source-of-values) | [Ethical Decision-Making](#伦理决策过程--ethical-decision-making-process) | [Responsibility & Freedom](#责任与自由--responsibility-and-freedom) | [Ethical Development](#伦理发展--ethical-development)
 
 ## 简介 | Introduction
@@ -416,4 +416,4 @@ This explanation understands meta-ethical problems as reflections on the nature 
 
 【量子宇宙-量子观察者-经典意识论】为伦理学基本问题提供了全新的解释视角。通过将伦理理解为观察者之间经典化信息交互的协调模式，这一理论框架重新定义了道德本质、价值来源、伦理决策、责任与自由、伦理发展、应用伦理学和元伦理学等核心问题。这种基于量子-经典信息处理的伦理学视角不仅统一了不同的伦理理论传统，还为伦理学与物理学、信息科学、认知科学之间建立了桥梁，为未来的伦理思考和实践提供了新的方向。
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a completely new explanatory perspective for fundamental problems in ethics. By understanding ethics as coordination patterns of classicalized information interaction between observers, this theoretical framework redefines core problems such as the nature of morality, the source of values, ethical decision-making, responsibility and freedom, ethical development, applied ethics, and meta-ethics. This ethical perspective based on quantum-classical information processing not only unifies different ethical theoretical traditions but also establishes bridges between ethics, physics, information science, and cognitive science, providing new directions for future ethical thinking and practice. 
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a completely new explanatory perspective for fundamental problems in ethics. By understanding ethics as coordination patterns of classicalized information interaction between observers, this theoretical framework redefines core problems such as the nature of morality, the source of values, ethical decision-making, responsibility and freedom, ethical development, applied ethics, and meta-ethics. This ethical perspective based on quantum-classical information processing not only unifies different ethical theoretical traditions but also establishes bridges between ethics, physics, information science, and cognitive science, providing new directions for future ethical thinking and practice.

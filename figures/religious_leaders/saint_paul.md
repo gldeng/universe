@@ -142,4 +142,4 @@ Saint Paul's ideas shaped the core of Christian theology, influencing the belief
 
 > "因为世人都犯了罪，亏缺了神的荣耀。如今却蒙神的恩典，因基督耶稣的救赎，就白白地称义。" ——罗马书3:23-24
 >
-> "For all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus." —Romans 3:23-24 
+> "For all have sinned and fall short of the glory of God, and are justified by his grace as a gift, through the redemption that is in Christ Jesus." —Romans 3:23-24

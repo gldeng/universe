@@ -14,7 +14,9 @@
 
 信息超载现象具有量子-经典双重特性：
 
-$$\mathcal{IO} = \{\Psi_{可能性}, \Phi_{现实性}\}$$
+$$
+\mathcal{IO} = \{\Psi_{可能性}, \Phi_{现实性}\}
+$$
 
 其中：
 - $`\Psi_{可能性}`$ 表示潜在信息的量子可能性空间（混沌无限选项）
@@ -22,7 +24,9 @@ $$\mathcal{IO} = \{\Psi_{可能性}, \Phi_{现实性}\}$$
 
 信息焦虑产生于两者之间的不平衡：
 
-$$A_{信息} = \alpha\left|\frac{\Psi_{可能性}}{\Phi_{现实性}} - \beta\right|$$
+$$
+A_{信息} = \alpha\left|\frac{\Psi_{可能性}}{\Phi_{现实性}} - \beta\right|
+$$
 
 其中 $`\alpha`$ 是个体敏感度参数，$`\beta`$ 是最佳平衡常数。
 
@@ -30,19 +34,25 @@ $$A_{信息} = \alpha\left|\frac{\Psi_{可能性}}{\Phi_{现实性}} - \beta\rig
 
 人类认知带宽存在基本限制：
 
-$$B_{认知}(t) = B_0 + \Delta B(t) - \gamma \cdot S_{疲劳}(t)$$
+$$
+B_{认知}(t) = B_0 + \Delta B(t) - \gamma \cdot S_{疲劳}(t)
+$$
 
 其中 $`B_0`$ 是基础认知带宽，$`\Delta B(t)`$ 是动态可变部分，$`S_{疲劳}(t)`$ 是认知疲劳。
 
 信息的经典化处理遵循量子折叠模型：
 
-$$\mathcal{C}_{认知}(I) = \sum_i P_i(t)I_iP_i(t)$$
+$$
+\mathcal{C}_{认知}(I) = \sum_i P_i(t)I_iP_i(t)
+$$
 
 其中 $`P_i(t)`$ 是时变认知投影算符，决定信息分类与整合方式。
 
 超载发生条件：
 
-$$I_{输入} > B_{认知} \cdot \eta_{处理}$$
+$$
+I_{输入} > B_{认知} \cdot \eta_{处理}
+$$
 
 其中 $`\eta_{处理}`$ 是信息处理效率系数。
 
@@ -50,15 +60,21 @@ $$I_{输入} > B_{认知} \cdot \eta_{处理}$$
 
 注意力在多信息源间形成量子纠缠态：
 
-$$|\Psi_{注意力}\rangle = \sum_{i}c_i(t)|信息源_i\rangle$$
+$$
+|\Psi_{注意力}\rangle = \sum_{i}c_i(t)|信息源_i\rangle
+$$
 
 其中系数 $`c_i(t)`$ 随时间波动且满足：
 
-$$\sum_i |c_i(t)|^2 = 1$$
+$$
+\sum_i |c_i(t)|^2 = 1
+$$
 
 注意力分散指数定义为：
 
-$$D_{注意力} = 1 - \sum_i |c_i|^4$$
+$$
+D_{注意力} = 1 - \sum_i |c_i|^4
+$$
 
 $`D_{注意力}`$ 趋近于1表示严重分散，趋近于0表示高度集中。
 
@@ -72,7 +88,9 @@ $`D_{注意力}`$ 趋近于1表示严重分散，趋近于0表示高度集中。
 
 焦虑程度与转换效率直接相关：
 
-$$A(t) = k \cdot \frac{I_{量子}(t)}{I_{经典}(t)+\epsilon} \cdot e^{-\eta_{\mathcal{C}} \cdot t}$$
+$$
+A(t) = k \cdot \frac{I_{量子}(t)}{I_{经典}(t)+\epsilon} \cdot e^{-\eta_{\mathcal{C}} \cdot t}
+$$
 
 其中 $`\eta_{\mathcal{C}}`$ 是经典化效率，$`\epsilon`$ 是防止除零的小常数。
 
@@ -89,7 +107,9 @@ $$A(t) = k \cdot \frac{I_{量子}(t)}{I_{经典}(t)+\epsilon} \cdot e^{-\eta_{\m
 
 媒体消费的量子纠缠度：
 
-$$E_{媒体} = -\text{Tr}(\rho_{\text{用户-媒体}} \log_2 \rho_{\text{用户}})$$
+$$
+E_{媒体} = -\text{Tr}(\rho_{\text{用户-媒体}} \log_2 \rho_{\text{用户}})
+$$
 
 ### 2. 经典化失败症状
 
@@ -103,7 +123,9 @@ $$E_{媒体} = -\text{Tr}(\rho_{\text{用户-媒体}} \log_2 \rho_{\text{用户}
 
 症状严重度与量子-经典比率相关：
 
-$$S_{症状} = \log\left(\frac{\text{未处理信息量}}{\text{已整合信息量}}\right)$$
+$$
+S_{症状} = \log\left(\frac{\text{未处理信息量}}{\text{已整合信息量}}\right)
+$$
 
 ### 3. 社会层面量子-经典信息动力学
 
@@ -116,7 +138,9 @@ $$S_{症状} = \log\left(\frac{\text{未处理信息量}}{\text{已整合信息�
 
 社会信息熵增长率：
 
-$$\frac{dS_{社会信息}}{dt} = \alpha I_{创造} - \beta I_{整合} + \gamma I_{噪声}$$
+$$
+\frac{dS_{社会信息}}{dt} = \alpha I_{创造} - \beta I_{整合} + \gamma I_{噪声}
+$$
 
 ## 适应策略与干预方法
 
@@ -130,7 +154,9 @@ $$\frac{dS_{社会信息}}{dt} = \alpha I_{创造} - \beta I_{整合} + \gamma I
 
 训练可提高认知转换效率：
 
-$$\eta_{\mathcal{C}} = \eta_0 + \Delta\eta \cdot (1 - e^{-\lambda T})$$
+$$
+\eta_{\mathcal{C}} = \eta_0 + \Delta\eta \cdot (1 - e^{-\lambda T})
+$$
 
 其中 $`T`$ 是训练时间，$`\lambda`$ 是学习率。
 
@@ -160,7 +186,9 @@ $$F_{过滤}(I) = \begin{cases}
 
 技术辅助下的经典化效率提升：
 
-$$\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{技术}})$$
+$$
+\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{技术}})
+$$
 
 其中 $`\gamma_{\text{技术}}`$ 是技术增强系数。
 
@@ -175,7 +203,9 @@ $$\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{技术}})
 
 信息福祉指数：
 
-$$W_{信息} = \frac{I_{有用}}{I_{总量}} \cdot \frac{B_{认知}}{I_{输入}} \cdot \frac{T_{反思}}{T_{总时间}}$$
+$$
+W_{信息} = \frac{I_{有用}}{I_{总量}} \cdot \frac{B_{认知}}{I_{输入}} \cdot \frac{T_{反思}}{T_{总时间}}
+$$
 
 ## 理论应用
 
@@ -229,4 +259,4 @@ $$W_{信息} = \frac{I_{有用}}{I_{总量}} \cdot \frac{B_{认知}}{I_{输入}}
 - [量子决策理论](formal_theory_quantum_decision.md)
 - [量子-经典数字转型理论](formal_theory_digital_transformation.md)
 - [量子-经典思维超载与信息焦虑理论 (本文件)](formal_theory_cognitive_overload.md)
-- [二元论教育理论](formal_theory_education.md) 
+- [二元论教育理论](formal_theory_education.md)

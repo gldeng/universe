@@ -1,10 +1,10 @@
 # 数学应用 | Mathematical Applications
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
 
-**章节链接 | Section Links**  
-中文：[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论数学应用](#量子经典二元论数学应用-quantum-classical-dualism-mathematical-applications) | [返回](#返回--return)  
+**章节链接 | Section Links**
+中文：[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论数学应用](#量子经典二元论数学应用-quantum-classical-dualism-mathematical-applications) | [返回](#返回--return)
 
 English: [Introduction](#简介--introduction) | [Contents](#目录--contents) | [Mathematical Applications](#量子经典二元论数学应用-quantum-classical-dualism-mathematical-applications) | [Return](#返回--return)
 
@@ -164,4 +164,4 @@ These mathematical models not only provide rigorous formalization of the theory 
 - Optimizing organizational structures and decision processes
 - New architectural designs for artificial intelligence
 - Quantitative analysis of social dynamics and cultural evolution
-- Mathematical tools for optimizing collective consciousness and social systems 
+- Mathematical tools for optimizing collective consciousness and social systems

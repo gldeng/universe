@@ -107,4 +107,4 @@
 - [核心理论](../../core.md)
 - [教学方法](teaching_methods.md)
 - [课程设计](curriculum_design.md)
-- [评估方法](assessment_methods.md) 
+- [评估方法](assessment_methods.md)

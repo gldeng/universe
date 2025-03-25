@@ -1,9 +1,9 @@
 # 印度教经典解释 | Hindu Scriptures Explained
 
-**导航 | Navigation**  
-[中文版](#印度教经典列表-list-of-hindu-scriptures) | [English Version](#印度教经典列表-list-of-hindu-scriptures)  
-**章节链接 | Section Links**  
-中文：[印度教经典列表](#印度教经典列表-list-of-hindu-scriptures) | [经典分类](#经典分类-scripture-classifications)  
+**导航 | Navigation**
+[中文版](#印度教经典列表-list-of-hindu-scriptures) | [English Version](#印度教经典列表-list-of-hindu-scriptures)
+**章节链接 | Section Links**
+中文：[印度教经典列表](#印度教经典列表-list-of-hindu-scriptures) | [经典分类](#经典分类-scripture-classifications)
 English: [Hindu Scriptures List](#印度教经典列表-list-of-hindu-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
 
 ## 印度教经典列表 (List of Hindu Scriptures)
@@ -49,4 +49,4 @@ Hindu scriptures are traditionally classified into the following categories, eac
 3. **六派哲学 (Darshanas)** - 哲学体系，从不同角度描述观察者与量子经典转换
 4. **谭崔经典 (Tantras)** - 密法仪式，提供高效的虫洞通信技术与能量操作
 5. **往世书 (Puranas)** - 神话故事，通过叙事展示高维经典世界与低维世界的互动
-6. **瑜伽经典 (Yoga Texts)** - 实践方法，提供观察者维度提升的具体技术 
+6. **瑜伽经典 (Yoga Texts)** - 实践方法，提供观察者维度提升的具体技术

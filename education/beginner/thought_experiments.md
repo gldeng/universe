@@ -1,9 +1,9 @@
 # 思想实验入门 | Understanding Through Thought Experiments
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#引言) | [量子域与经典域](#量子域与经典域) | [经典化过程](#经典化过程) | [观察者与黑洞](#观察者与黑洞) | [量子纠缠](#量子纠缠) | [维度提升](#维度提升) | [自由意志与命运](#自由意志与命运) | [虫洞与经典世界](#虫洞与经典世界) | [实验进阶](#实验进阶)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#引言) | [量子域与经典域](#量子域与经典域) | [经典化过程](#经典化过程) | [观察者与黑洞](#观察者与黑洞) | [量子纠缠](#量子纠缠) | [维度提升](#维度提升) | [自由意志与命运](#自由意志与命运) | [虫洞与经典世界](#虫洞与经典世界) | [实验进阶](#实验进阶)
 English: [Introduction](#introduction) | [Quantum and Classical Domains](#quantum-and-classical-domains) | [Classicalization Process](#classicalization-process) | [Observer and Black Hole](#observer-and-black-hole) | [Quantum Entanglement](#quantum-entanglement) | [Dimension Elevation](#dimension-elevation) | [Free Will and Destiny](#free-will-and-destiny) | [Wormholes and Classical Worlds](#wormholes-and-classical-worlds) | [Advanced Experiments](#advanced-experiments)
 
 ## 中文版
@@ -662,4 +662,4 @@ Apply thought experiments to daily experiences:
 - When communicating with others, be aware of the establishment process of "Mental Connection" (Experiment 7)
 - When learning new knowledge, observe the dimension elevation of "Knowledge Breakthrough" (Experiment 9)
 
-Through these thought experiments, you can directly experience the core concepts of Quantum-Classical Dualism in everyday life, deepening your understanding of the theory and applying it to practical problem-solving and personal growth. 
+Through these thought experiments, you can directly experience the core concepts of Quantum-Classical Dualism in everyday life, deepening your understanding of the theory and applying it to practical problem-solving and personal growth.

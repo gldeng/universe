@@ -47,4 +47,4 @@ Users can explore these visualizations through:
 
 ## Application to Understanding
 
-These visualizations help bridge intuitive understanding with formal mathematical descriptions, making the abstract concepts of quantum-classical dualism more accessible while maintaining theoretical rigor. 
+These visualizations help bridge intuitive understanding with formal mathematical descriptions, making the abstract concepts of quantum-classical dualism more accessible while maintaining theoretical rigor.

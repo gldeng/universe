@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1883年2月8日 - 1950年1月8日  
-**国籍 (Nationality)**: 奥地利、美国 (Austrian, American)  
-**领域 (Fields)**: 经济学、企业家精神、经济发展、资本主义动态  
+**生平 (Life Span)**: 1883年2月8日 - 1950年1月8日
+**国籍 (Nationality)**: 奥地利、美国 (Austrian, American)
+**领域 (Fields)**: 经济学、企业家精神、经济发展、资本主义动态
 **代表作品 (Representative Works)**: 《经济发展理论》、《资本主义、社会主义与民主》、《商业周期》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "创造性破坏的过程是资本主义的本质事实。"
-> 
+>
 > "The process of Creative Destruction is the essential fact about capitalism."
 
 > "创新不是发明。发明者创造想法，而企业家则使其生效。"
-> 
+>
 > "The inventor produces ideas, the entrepreneur 'gets things done'."
 
 > "成功的企业家需要非理性的角度来看世界，因为理性会告诉他，他的目标无法达成。"
-> 
+>
 > "The entrepreneur needs to look at the world from a different angle, because rationality would tell him that his goal cannot be achieved."
 
 > "资本主义发展创造了最终导致其终结的条件。"
-> 
+>
 > "Capitalism creates the conditions that ultimately lead to its own demise."
 
 > "资本主义制度不仅永远无法静止，而且也永远不能静止。"
-> 
+>
 > "The capitalist process not only never is but never can be stationary."

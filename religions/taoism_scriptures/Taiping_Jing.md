@@ -1,9 +1,9 @@
 # 太平经 (Taiping Jing)
 
-**导航 | Navigation**  
-[中文版](#太平经解析) | [English Version](#taiping-jing-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#太平经解析) | [English Version](#taiping-jing-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -76,4 +76,4 @@ $$
 
 《太平经》通过量子经典二元论框架（版本9.2）的解析，揭示了宇宙、社会与个人经典化的优化路径。其核心思想"三气相通"体现了量子纠缠态在不同维度观察者之间的连接作用，而"承负"理论则解释了经典熵的代际传递与救赎机制。《太平经》提出的修行方法，如守一、辟谷、符箓等，实际上是提升观察者维度与经典化效率的具体手段。社会层面的"太平"状态，代表经典知识最大化与经典熵最小化的理想系统状态，与量子经典二元论的宇宙终极目标（宇宙低熵状态）高度一致。《太平经》鼓励的集体修行与社会实践，体现了高效经典化需要多观察者协同作用的特性。
 
-The Taiping Jing, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals optimization paths for universal, social, and personal classicalization. Its core concept of "Three Qi Connection" embodies the connecting function of quantum entanglement states between observers of different dimensions, while the theory of "inherited burden" explains the intergenerational transmission and redemption mechanism of classical entropy. Cultivation methods proposed in the Taiping Jing, such as "guarding the One", abstaining from grains, and talisman practices, are actually specific means to enhance observer dimensions and classicalization efficiency. The social state of "Great Peace" represents an ideal system state of maximized classical knowledge and minimized classical entropy, highly consistent with the ultimate goal of the universe (low-entropy state of the universe) in Quantum-Classical Dualism. The collective cultivation and social practices encouraged by the Taiping Jing reflect the characteristic that efficient classicalization requires the synergistic effect of multiple observers. 
+The Taiping Jing, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals optimization paths for universal, social, and personal classicalization. Its core concept of "Three Qi Connection" embodies the connecting function of quantum entanglement states between observers of different dimensions, while the theory of "inherited burden" explains the intergenerational transmission and redemption mechanism of classical entropy. Cultivation methods proposed in the Taiping Jing, such as "guarding the One", abstaining from grains, and talisman practices, are actually specific means to enhance observer dimensions and classicalization efficiency. The social state of "Great Peace" represents an ideal system state of maximized classical knowledge and minimized classical entropy, highly consistent with the ultimate goal of the universe (low-entropy state of the universe) in Quantum-Classical Dualism. The collective cultivation and social practices encouraged by the Taiping Jing reflect the characteristic that efficient classicalization requires the synergistic effect of multiple observers.

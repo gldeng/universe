@@ -1,7 +1,7 @@
 # 使用量子经典二元论解释物理学（版本9.4）
 # Using Quantum-Classical Dualism to Explain Physics (Version 9.4)
 
-**导航 | Navigation**  
+**导航 | Navigation**
 [中文版](#中文版) | [English Version](#english-version)
 
 ## 中文版
@@ -90,4 +90,4 @@ Currently using Quantum-Classical Dualism Version 9.4, main updates include:
 - Clarified the essential definition of mass and light
 - Added the energy nature of light speed constancy
 - Added discussion on the logical boundary of universe existence
-- Improved the ultimate philosophical goal of universe classicalization 
+- Improved the ultimate philosophical goal of universe classicalization

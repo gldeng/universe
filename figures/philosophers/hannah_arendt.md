@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1906年10月14日 - 1975年12月4日  
-**国籍 (Nationality)**: 德裔美国 (German-American)  
-**领域 (Fields)**: 政治理论、哲学、社会思想  
+**生平 (Life Span)**: 1906年10月14日 - 1975年12月4日
+**国籍 (Nationality)**: 德裔美国 (German-American)
+**领域 (Fields)**: 政治理论、哲学、社会思想
 **代表作品 (Representative Works)**: 《极权主义的起源》、《人的境况》、《艾希曼在耶路撒冷：关于平庸之恶的报告》、《革命论》、《心智生活》
 
 ## 核心思想 (Core Ideas)
@@ -132,25 +132,25 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "思考并不是为知识而思考，而是为思想而思考。"
-> 
+>
 > "Thinking is not thinking for knowledge, but thinking for thought."
 
 > "如果人们失去思考的能力，如何期望他们抵制任何可能的恶？"
-> 
+>
 > "If people lose the capacity to think, how can we expect them to resist any possible evil?"
 
 > "没有人有权服从。"
-> 
+>
 > "No one has the right to obey."
 
 > "政治的意义是自由。"
-> 
+>
 > "The meaning of politics is freedom."
 
 > "人们不是为死亡而生，而是为开创新的开端。"
-> 
+>
 > "People are not born in order to die, but in order to begin."
 
 > "每一个新生命都是一个新的开始，一个新的世界的潜在承载者。"
-> 
-> "Every new beginning comes from some other beginning's end." 
+>
+> "Every new beginning comes from some other beginning's end."

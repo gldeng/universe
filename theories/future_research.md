@@ -2,11 +2,11 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**  
-[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**导航 | Navigation**
+[中文版](#简介--introduction) | [English Version](#简介--introduction)
 
-**章节链接 | Section Links**  
-中文：[简介](#简介--introduction) | [理论发展方向](#理论发展方向--theoretical-development-directions) | [实验验证方向](#实验验证方向--experimental-validation-directions) | [跨学科应用方向](#跨学科应用方向--interdisciplinary-application-directions) | [技术创新方向](#技术创新方向--technological-innovation-directions)  
+**章节链接 | Section Links**
+中文：[简介](#简介--introduction) | [理论发展方向](#理论发展方向--theoretical-development-directions) | [实验验证方向](#实验验证方向--experimental-validation-directions) | [跨学科应用方向](#跨学科应用方向--interdisciplinary-application-directions) | [技术创新方向](#技术创新方向--technological-innovation-directions)
 
 English: [Introduction](#简介--introduction) | [Theoretical Development](#理论发展方向--theoretical-development-directions) | [Experimental Validation](#实验验证方向--experimental-validation-directions) | [Interdisciplinary Applications](#跨学科应用方向--interdisciplinary-application-directions) | [Technological Innovation](#技术创新方向--technological-innovation-directions)
 
@@ -354,4 +354,4 @@ This document outlines the future research directions and development prospects 
 
 量子经典二元论理论为未来研究开辟了广阔的前景。通过理论发展、实验验证、应用研究和跨学科探索，这一理论框架有望不仅解决物理学中的长期难题，还将为认知科学、人工智能、医学、社会科学等领域带来革命性的新视角。未来的研究将进一步验证和完善这一理论，探索其在各个领域的应用潜力。
 
-The Quantum-Classical Dualism Theory opens up broad prospects for future research. Through theoretical development, experimental verification, applied research, and interdisciplinary exploration, this theoretical framework is expected to not only solve long-standing problems in physics but also bring revolutionary new perspectives to cognitive science, artificial intelligence, medicine, social sciences, and other fields. Future research will further validate and refine this theory, exploring its application potential in various fields. 
+The Quantum-Classical Dualism Theory opens up broad prospects for future research. Through theoretical development, experimental verification, applied research, and interdisciplinary exploration, this theoretical framework is expected to not only solve long-standing problems in physics but also bring revolutionary new perspectives to cognitive science, artificial intelligence, medicine, social sciences, and other fields. Future research will further validate and refine this theory, exploring its application potential in various fields.

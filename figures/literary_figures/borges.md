@@ -35,23 +35,33 @@
 
 1. **无限的量子叠加态**：《图书馆》中的无限空间：
 
-$$|\psi\rangle_{\text{无限}} = \sum_{n=0}^{\infty} c_n |\text{可能世界}_n\rangle$$
+$$
+|\psi\rangle_{\text{无限}} = \sum_{n=0}^{\infty} c_n |\text{可能世界}_n\rangle
+$$
 
 2. **时间的量子纠缠**：《通向卡斯特罗的小径》中的时间分岔：
 
-$$|\Psi_{\text{时间}}\rangle = \sum_{i,j} c_{ij} |\text{现在}_i\rangle |\text{可能未来}_j\rangle$$
+$$
+|\Psi_{\text{时间}}\rangle = \sum_{i,j} c_{ij} |\text{现在}_i\rangle |\text{可能未来}_j\rangle
+$$
 
 3. **镜像的量子态**：《环形废墟》中的存在本质：
 
-$$|\phi\rangle_{\text{镜像}} = \alpha |\text{创造者}\rangle |\text{被创造者}\rangle + \beta |\text{梦}\rangle |\text{现实}\rangle$$
+$$
+|\phi\rangle_{\text{镜像}} = \alpha |\text{创造者}\rangle |\text{被创造者}\rangle + \beta |\text{梦}\rangle |\text{现实}\rangle
+$$
 
 4. **知识的量子悖论**：《巴别图书馆》中的信息本质：
 
-$$|\psi\rangle_{\text{知识}} = \sum_t c_t |\text{有序}_t\rangle \otimes |\text{混沌}_t\rangle$$
+$$
+|\psi\rangle_{\text{知识}} = \sum_t c_t |\text{有序}_t\rangle \otimes |\text{混沌}_t\rangle
+$$
 
 5. **维度的量子观察**：《阿莱夫》中的空间本质：
 
-$$|\Psi_{\text{维度}}\rangle = \int d^{\infty}x \sum_i \psi_i(x)|\text{空间}_i\rangle |\text{时间}_i\rangle |\text{意识}_i\rangle$$
+$$
+|\Psi_{\text{维度}}\rangle = \int d^{\infty}x \sum_i \psi_i(x)|\text{空间}_i\rangle |\text{时间}_i\rangle |\text{意识}_i\rangle
+$$
 
 ### 现代意义
 
@@ -72,21 +82,21 @@ $$|\Psi_{\text{维度}}\rangle = \int d^{\infty}x \sum_i \psi_i(x)|\text{空间}
 ## 经典引言 | Classic Quotes
 
 > "时间分岔为无数的未来，通向无数的可能世界。"
-> 
+>
 > "Time forks perpetually toward innumerable futures, toward innumerable parallel universes."
 
 > "我常常想象天堂就像一座图书馆。"
-> 
+>
 > "I have always imagined that Paradise will be a kind of library."
 
 > "写作不过是一场有纪律的梦。"
-> 
+>
 > "Writing is nothing more than a guided dream."
 
 > "一本书不仅是一个言语结构，它还是与人类对话的方式。"
-> 
+>
 > "A book is not an isolated entity: it is a relationship, an axis of innumerable relationships."
 
 > "我们并不是以真实的宇宙为基础，而是以我们对宇宙的感知为基础。"
-> 
+>
 > "We have dreamt the world. We have dreamt it as firm, mysterious, visible, ubiquitous in space and durable in time; but we have allowed tenuous, eternal interstices of unreason in its architecture so we might know it is false."

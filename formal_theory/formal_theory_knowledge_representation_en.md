@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_knowledge_representation.md)**
 
 > This theory is based on the [Core Theory](../core_en.md) v31.0
-> 
+>
 > For a complete summary of the core theory, see [Quantum-Classical Dualism Formal Theory](../formal_theory_core_en.md)
 
 ## Navigation
@@ -26,7 +26,9 @@ The Quantum-Classical Knowledge Representation and Transfer Theory (Dimension D8
 
 Knowledge possesses both quantum and classical properties, represented as a dual tuple:
 
-$$K = (K_Q, K_C)$$
+$$
+K = (K_Q, K_C)
+$$
 
 Where:
 - $`K_Q`$ represents knowledge quantum representation (tacit knowledge, possibility space, intuitive understanding)
@@ -36,7 +38,9 @@ Where:
 
 The knowledge representation space consists of quantum representation space and classical representation space:
 
-$$\mathcal{K} = \mathcal{K}_Q \cup \mathcal{K}_C$$
+$$
+\mathcal{K} = \mathcal{K}_Q \cup \mathcal{K}_C
+$$
 
 Where:
 - $`\mathcal{K}_Q`$ is a Hilbert space, representing the quantum possibility distribution of knowledge
@@ -44,7 +48,9 @@ Where:
 
 The quantum state of knowledge representation can be expressed as:
 
-$$|\psi_K\rangle = \sum_i \alpha_i |k_i\rangle$$
+$$
+|\psi_K\rangle = \sum_i \alpha_i |k_i\rangle
+$$
 
 Where $`|k_i\rangle`$ are knowledge basis vectors, and $`\alpha_i`$ are complex amplitudes.
 
@@ -53,21 +59,36 @@ Where $`|k_i\rangle`$ are knowledge basis vectors, and $`\alpha_i`$ are complex 
 Two core transformation operators are defined:
 
 1. **Knowledge Classicalization Operator** $`\mathcal{C}_K`$: Transforms quantum knowledge into classical knowledge
-   $$\mathcal{C}_K: \mathcal{K}_Q \rightarrow \mathcal{K}_C$$
+
+$$
+\mathcal{C}_K: \mathcal{K}_Q \rightarrow \mathcal{K}_C
+$$
 
 2. **Knowledge Quantization Operator** $`\mathcal{Q}_K`$: Transforms classical knowledge into quantum knowledge
-   $$\mathcal{Q}_K: \mathcal{K}_C \rightarrow \mathcal{K}_Q$$
+
+$$
+\mathcal{Q}_K: \mathcal{K}_C \rightarrow \mathcal{K}_Q
+$$
 
 ### 1.4 Knowledge Information Metrics
 
 1. **Quantum Knowledge Information** $`I_Q(K)`$: Von Neumann entropy of quantum states
-   $$I_Q(K) = -\text{Tr}(\rho_K \ln \rho_K)$$
+
+$$
+I_Q(K) = -\text{Tr}(\rho_K \ln \rho_K)
+$$
 
 2. **Classical Knowledge Information** $`I_C(K)`$: Shannon entropy of classical representation
-   $$I_C(K) = -\sum_i p_i \log_2 p_i$$
+
+$$
+I_C(K) = -\sum_i p_i \log_2 p_i
+$$
 
 3. **Knowledge Information Conservation**:
-   $$I_{\text{total}}(K) = I_Q(K) + I_C(K) + I_{\text{hidden}}(K) = \text{constant}$$
+
+$$
+I_{\text{total}}(K) = I_Q(K) + I_C(K) + I_{\text{hidden}}(K) = \text{constant}
+$$
 
 ## 2. Knowledge Representation Forms
 
@@ -76,20 +97,34 @@ Two core transformation operators are defined:
 Quantum knowledge representation has the following characteristics:
 
 1. **Superposition**: Simultaneously contains multiple possible interpretations and understandings
-   $$|\psi_K\rangle = \sum_i \alpha_i |k_i\rangle$$
+
+$$
+|\psi_K\rangle = \sum_i \alpha_i |k_i\rangle
+$$
 
 2. **Non-locality**: Knowledge elements have connections beyond linear structures
-   $$\rho_{K_{AB}} \neq \rho_{K_A} \otimes \rho_{K_B}$$
+
+$$
+\rho_{K_{AB}} \neq \rho_{K_A} \otimes \rho_{K_B}
+$$
 
 3. **Context-Relativity**: Knowledge meaning depends on measurement context
-   $$\langle \hat{O} \rangle = \langle \psi_K|\hat{O}|\psi_K \rangle$$
+
+$$
+\langle \hat{O} \rangle = \langle \psi_K|\hat{O}|\psi_K \rangle
+$$
 
 4. **Uncertainty**: Conforms to the knowledge version of the uncertainty principle
-   $$\Delta \hat{A} \cdot \Delta \hat{B} \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
+
+$$
+\Delta \hat{A} \cdot \Delta \hat{B} \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|
+$$
 
 The evolution of quantum knowledge states follows the knowledge version of Schrödinger's equation:
 
-$$i\hbar\frac{\partial |\psi_K\rangle}{\partial t} = \hat{H}_K |\psi_K\rangle$$
+$$
+i\hbar\frac{\partial |\psi_K\rangle}{\partial t} = \hat{H}_K |\psi_K\rangle
+$$
 
 Where $`\hat{H}_K`$ is the knowledge Hamiltonian operator.
 
@@ -98,20 +133,34 @@ Where $`\hat{H}_K`$ is the knowledge Hamiltonian operator.
 Classical knowledge representation has the following characteristics:
 
 1. **Determinacy**: Has clearly defined structures and boundaries
-   $$K_C = \{k_1, k_2, ..., k_n\}$$
+
+$$
+K_C = \{k_1, k_2, ..., k_n\}
+$$
 
 2. **Locality**: Relationships between elements can be described through definite connections
-   $$G_K = (V_K, E_K)$$
+
+$$
+G_K = (V_K, E_K)
+$$
 
 3. **Replicability**: Classical knowledge can be copied without loss
-   $$K_C \rightarrow (K_C, K_C)$$
+
+$$
+K_C \rightarrow (K_C, K_C)
+$$
 
 4. **Hierarchical Structure**: Has clear classification and inclusion relationships
-   $$K_C = \{K_C^{(1)}, K_C^{(2)}, ..., K_C^{(n)}\}$$
+
+$$
+K_C = \{K_C^{(1)}, K_C^{(2)}, ..., K_C^{(n)}\}
+$$
 
 The evolution of classical knowledge states follows the information diffusion equation:
 
-$$\frac{\partial K_C}{\partial t} = D_K \nabla^2 K_C + \vec{v} \cdot \nabla K_C$$
+$$
+\frac{\partial K_C}{\partial t} = D_K \nabla^2 K_C + \vec{v} \cdot \nabla K_C
+$$
 
 Where $`D_K`$ is the knowledge diffusion coefficient, and $`\vec{v}`$ is the knowledge flow field.
 
@@ -119,11 +168,15 @@ Where $`D_K`$ is the knowledge diffusion coefficient, and $`\vec{v}`$ is the kno
 
 The knowledge interface is the transformation region between quantum knowledge and classical knowledge:
 
-$$\mathcal{I}_K = \mathcal{K}_Q \cap \mathcal{K}_C$$
+$$
+\mathcal{I}_K = \mathcal{K}_Q \cap \mathcal{K}_C
+$$
 
 Interface characteristics are described by the knowledge decoherence function:
 
-$$\mathcal{D}_K(k) = 1 - \frac{\text{Tr}(\rho_K^2)}{[\text{Tr}(\rho_K)]^2}$$
+$$
+\mathcal{D}_K(k) = 1 - \frac{\text{Tr}(\rho_K^2)}{[\text{Tr}(\rho_K)]^2}
+$$
 
 When $`\mathcal{D}_K(k) = \mathcal{D}_c`$, knowledge is in an interface state.
 
@@ -133,49 +186,75 @@ When $`\mathcal{D}_K(k) = \mathcal{D}_c`$, knowledge is in an interface state.
 
 The transformation process from tacit to explicit knowledge:
 
-$$K_C = \mathcal{C}_K(K_Q) = \sum_i P_i K_Q P_i$$
+$$
+K_C = \mathcal{C}_K(K_Q) = \sum_i P_i K_Q P_i
+$$
 
 Where $`P_i`$ are projection operators that project quantum knowledge onto specific semantic spaces.
 
 Mathematical properties of the classicalization process:
 
 1. **Information Projection**:
-   $$I_C(K) \leq I_Q(K)$$
+
+$$
+I_C(K) \leq I_Q(K)
+$$
 
 2. **Irreversibility**:
-   $$\mathcal{Q}_K(\mathcal{C}_K(K_Q)) \neq K_Q$$
+
+$$
+\mathcal{Q}_K(\mathcal{C}_K(K_Q)) \neq K_Q
+$$
 
 3. **Context Dependence**:
-   $$\mathcal{C}_K^{(1)}(K_Q) \neq \mathcal{C}_K^{(2)}(K_Q)$$
+
+$$
+\mathcal{C}_K^{(1)}(K_Q) \neq \mathcal{C}_K^{(2)}(K_Q)
+$$
 
 ### 3.2 Quantization Process
 
 The transformation process from explicit to tacit knowledge:
 
-$$K_Q = \mathcal{Q}_K(K_C) = \sum_{i,j} \alpha_{ij} |k_i\rangle\langle k_j|$$
+$$
+K_Q = \mathcal{Q}_K(K_C) = \sum_{i,j} \alpha_{ij} |k_i\rangle\langle k_j|
+$$
 
 Mathematical properties of the quantization process:
 
 1. **Coherence Creation**:
-   $$S(\mathcal{Q}_K(K_C)) < S(K_C)$$
+
+$$
+S(\mathcal{Q}_K(K_C)) < S(K_C)
+$$
 
 2. **Creative Expansion**:
-   $$\text{dim}(\mathcal{Q}_K(K_C)) > \text{dim}(K_C)$$
+
+$$
+\text{dim}(\mathcal{Q}_K(K_C)) > \text{dim}(K_C)
+$$
 
 3. **Concept Superposition**:
-   $$\mathcal{Q}_K(K_C^{(1)} \oplus K_C^{(2)}) \neq \mathcal{Q}_K(K_C^{(1)}) \oplus \mathcal{Q}_K(K_C^{(2)})$$
+
+$$
+\mathcal{Q}_K(K_C^{(1)} \oplus K_C^{(2)}) \neq \mathcal{Q}_K(K_C^{(1)}) \oplus \mathcal{Q}_K(K_C^{(2)})
+$$
 
 ### 3.3 Knowledge Measurement Process
 
 Knowledge measurement is the process of making specific observations of quantum knowledge:
 
-$$\mathcal{M}_K(K_Q) = \sum_m M_m K_Q M_m^\dagger$$
+$$
+\mathcal{M}_K(K_Q) = \sum_m M_m K_Q M_m^\dagger
+$$
 
 Where $`M_m`$ are measurement operators satisfying $`\sum_m M_m^\dagger M_m = I`$.
 
 The measurement process leads to knowledge state collapse:
 
-$$K_Q \xrightarrow{\mathcal{M}_K} K_Q' = \frac{M_m K_Q M_m^\dagger}{\text{Tr}(M_m K_Q M_m^\dagger)}$$
+$$
+K_Q \xrightarrow{\mathcal{M}_K} K_Q' = \frac{M_m K_Q M_m^\dagger}{\text{Tr}(M_m K_Q M_m^\dagger)}
+$$
 
 ## 4. Knowledge Transfer Dynamics
 
@@ -183,7 +262,9 @@ $$K_Q \xrightarrow{\mathcal{M}_K} K_Q' = \frac{M_m K_Q M_m^\dagger}{\text{Tr}(M_
 
 Knowledge transfer in observer networks follows the quantum-classical coupling equation:
 
-$$\frac{d K^{(i)}}{dt} = -i[H_K, K_Q^{(i)}] + \sum_{j \neq i} \gamma_{ij}(K_C^{(j)} - K_C^{(i)}) + \mathcal{L}_K(K^{(i)})$$
+$$
+\frac{d K^{(i)}}{dt} = -i[H_K, K_Q^{(i)}] + \sum_{j \neq i} \gamma_{ij}(K_C^{(j)} - K_C^{(i)}) + \mathcal{L}_K(K^{(i)})
+$$
 
 Where:
 - $`K^{(i)}`$ is the knowledge state of observer $`i`$
@@ -195,7 +276,9 @@ Where:
 
 The knowledge transfer network is represented as a directed weighted graph:
 
-$$G_{\text{transfer}} = (V_{\mathcal{O}}, E_K, W_K)$$
+$$
+G_{\text{transfer}} = (V_{\mathcal{O}}, E_K, W_K)
+$$
 
 Where:
 - $`V_{\mathcal{O}}`$ is the set of observer nodes
@@ -204,7 +287,9 @@ Where:
 
 Network dynamics follow:
 
-$$\frac{d\vec{K}}{dt} = -\mathbf{L}_K \vec{K} + \vec{S}_K$$
+$$
+\frac{d\vec{K}}{dt} = -\mathbf{L}_K \vec{K} + \vec{S}_K
+$$
 
 Where $`\mathbf{L}_K`$ is the knowledge Laplacian matrix, and $`\vec{S}_K`$ is the knowledge source term.
 
@@ -212,13 +297,17 @@ Where $`\mathbf{L}_K`$ is the knowledge Laplacian matrix, and $`\vec{S}_K`$ is t
 
 When knowledge reaches specific conditions during transfer, knowledge resonance occurs:
 
-$$\omega_K^{(i)} \approx \omega_K^{(j)} \implies A_K \propto \frac{1}{|\omega_K^{(i)} - \omega_K^{(j)}|}$$
+$$
+\omega_K^{(i)} \approx \omega_K^{(j)} \implies A_K \propto \frac{1}{|\omega_K^{(i)} - \omega_K^{(j)}|}
+$$
 
 Where $`\omega_K^{(i)}`$ is the knowledge resonant frequency of observer $`i`$, and $`A_K`$ is the knowledge resonance amplitude.
 
 Under resonance conditions, knowledge transfer efficiency significantly increases:
 
-$$\eta_{\text{transfer}} = \frac{I_C^{(receiver)}}{I_Q^{(sender)}} \propto \frac{1}{1 + (\omega_K^{(i)} - \omega_K^{(j)})^2/\gamma_K^2}$$
+$$
+\eta_{\text{transfer}} = \frac{I_C^{(receiver)}}{I_Q^{(sender)}} \propto \frac{1}{1 + (\omega_K^{(i)} - \omega_K^{(j)})^2/\gamma_K^2}
+$$
 
 ### 4.4 Knowledge Phase Transition Phenomena
 
@@ -243,7 +332,9 @@ Types of knowledge phase transitions include:
 
 An observer's knowledge state is the core of their cognitive system:
 
-$$\mathcal{O}_K = \{K_Q^{\mathcal{O}}, K_C^{\mathcal{O}}, \mathcal{C}_K^{\mathcal{O}}, \mathcal{Q}_K^{\mathcal{O}}\}$$
+$$
+\mathcal{O}_K = \{K_Q^{\mathcal{O}}, K_C^{\mathcal{O}}, \mathcal{C}_K^{\mathcal{O}}, \mathcal{Q}_K^{\mathcal{O}}\}
+$$
 
 Where:
 - $`K_Q^{\mathcal{O}}`$ is the observer's quantum knowledge state
@@ -255,7 +346,9 @@ Where:
 
 The observer's knowledge dimension is defined as:
 
-$$D_K^{\mathcal{O}} = f\left(\frac{\mathcal{C}_K^{\mathcal{O}}}{\mathcal{Q}_K^{\mathcal{O}}}\right) \cdot \frac{I(K_C^{\mathcal{O}})}{S(K_C^{\mathcal{O}})+\epsilon}$$
+$$
+D_K^{\mathcal{O}} = f\left(\frac{\mathcal{C}_K^{\mathcal{O}}}{\mathcal{Q}_K^{\mathcal{O}}}\right) \cdot \frac{I(K_C^{\mathcal{O}})}{S(K_C^{\mathcal{O}})+\epsilon}
+$$
 
 Observer cognitive abilities encompass multiple dimensions:
 
@@ -267,7 +360,9 @@ Observer cognitive abilities encompass multiple dimensions:
 
 The evolution of observer knowledge systems follows adaptive dynamics:
 
-$$\frac{d\mathcal{O}_K}{dt} = \alpha \nabla_K J(\mathcal{O}_K) + \beta(K_{\text{environment}} - K_C^{\mathcal{O}}) + \gamma \xi_K(t)$$
+$$
+\frac{d\mathcal{O}_K}{dt} = \alpha \nabla_K J(\mathcal{O}_K) + \beta(K_{\text{environment}} - K_C^{\mathcal{O}}) + \gamma \xi_K(t)
+$$
 
 Where:
 - $`J(\mathcal{O}_K)`$ is the knowledge fitness function
@@ -286,45 +381,69 @@ The knowledge adaptation process includes three phases:
 The knowledge dualism framework provides a new perspective for education:
 
 1. **Dual-Channel Teaching Method**:
-   $$\Delta K^{learner} = \alpha \mathcal{C}_K^{teacher}(K_Q^{teacher}) + \beta \mathcal{Q}_K^{learner}(K_C^{teacher})$$
+
+$$
+\Delta K^{learner} = \alpha \mathcal{C}_K^{teacher}(K_Q^{teacher}) + \beta \mathcal{Q}_K^{learner}(K_C^{teacher})
+$$
 
 2. **Knowledge Resonance Teaching**:
-   $$\eta_{learning} \propto \frac{1}{1 + (\omega_K^{teacher} - \omega_K^{learner})^2/\gamma_K^2}$$
+
+$$
+\eta_{learning} \propto \frac{1}{1 + (\omega_K^{teacher} - \omega_K^{learner})^2/\gamma_K^2}
+$$
 
 3. **Quantum-Classical Balanced Learning**:
-   $$L_{\text{efficiency}} = \alpha \frac{I_Q(K^{learner})}{I_Q(K^{teacher})} + \beta \frac{I_C(K^{learner})}{I_C(K^{teacher})}$$
+
+$$
+L_{\text{efficiency}} = \alpha \frac{I_Q(K^{learner})}{I_Q(K^{teacher})} + \beta \frac{I_C(K^{learner})}{I_C(K^{teacher})}
+$$
 
 ### 6.2 Knowledge Management Systems
 
 Knowledge management must address both explicit and tacit knowledge:
 
 1. **Dual Knowledge Base Structure**:
-   $$KM = \{K_C^{\text{structured}}, K_Q^{\text{unstructured}}, \mathcal{I}_K\}$$
+
+$$
+KM = \{K_C^{\text{structured}}, K_Q^{\text{unstructured}}, \mathcal{I}_K\}
+$$
 
 2. **Knowledge Transformation Matrix**:
-   $$\mathbf{T}_K = \begin{pmatrix} 
+   $$\mathbf{T}_K = \begin{pmatrix}
    T_{QQ} & T_{QC} \\
    T_{CQ} & T_{CC}
    \end{pmatrix}$$
 
 3. **Knowledge Flow Optimization**:
-   $$\max J_{KM} = \alpha E[I_C(K)] - \beta \text{Var}[I_C(K)] - \gamma \text{Cost}(K)$$
+
+$$
+\max J_{KM} = \alpha E[I_C(K)] - \beta \text{Var}[I_C(K)] - \gamma \text{Cost}(K)
+$$
 
 ### 6.3 Artificial Intelligence and Knowledge Representation
 
 Knowledge processing mechanisms in artificial intelligence systems:
 
 1. **Quantum-Classical Hybrid Architecture**:
-   $$AI_K = \{NN_C, QNN_Q, I_{interface}\}$$
+
+$$
+AI_K = \{NN_C, QNN_Q, I_{interface}\}
+$$
 
    Where $`NN_C`$ is a classical neural network, $`QNN_Q`$ is a quantum neural network, and $`I_{interface}`$ is the interface layer.
 
 2. **Creative Artificial Intelligence**:
-   $$C_{AI} \propto \frac{\mathcal{Q}_K^{AI}}{\mathcal{C}_K^{AI}} \cdot \frac{I(K_Q^{AI})}{I(K_C^{AI})}$$
+
+$$
+C_{AI} \propto \frac{\mathcal{Q}_K^{AI}}{\mathcal{C}_K^{AI}} \cdot \frac{I(K_Q^{AI})}{I(K_C^{AI})}
+$$
 
 3. **Knowledge Embedding Topological Structure**:
-   $$\text{Embed}_K: \mathcal{K}_C \rightarrow \mathcal{H}_d$$
-   
+
+$$
+\text{Embed}_K: \mathcal{K}_C \rightarrow \mathcal{H}_d
+$$
+
    Where $`\mathcal{H}_d`$ is a $`d`$-dimensional embedding space.
 
 ## 7. Formal Predictions and Verification
@@ -334,26 +453,44 @@ Knowledge processing mechanisms in artificial intelligence systems:
 The Quantum-Classical Knowledge Representation Theory proposes the following verifiable predictions:
 
 1. **Knowledge Resonance Critical Point**: There exists a critical knowledge resonance condition causing sudden changes in knowledge transfer efficiency
-   $$\exists \lambda_K^* : \lim_{\lambda_K \rightarrow \lambda_K^*} \frac{d\eta_{\text{transfer}}}{d\lambda_K} \rightarrow \infty$$
+
+$$
+\exists \lambda_K^* : \lim_{\lambda_K \rightarrow \lambda_K^*} \frac{d\eta_{\text{transfer}}}{d\lambda_K} \rightarrow \infty
+$$
 
 2. **Knowledge Uncertainty Relation**: There exists a complementary relationship between knowledge precision and creativity
-   $$\Delta P_K \cdot \Delta C_K \geq \kappa_K$$
+
+$$
+\Delta P_K \cdot \Delta C_K \geq \kappa_K
+$$
 
 3. **Knowledge Dimension Transitions**: Observer knowledge dimensions undergo discrete transitions under specific conditions
-   $$D_K^{\mathcal{O}}(t) = \sum_n D_n \cdot \Theta(t-t_n)$$
+
+$$
+D_K^{\mathcal{O}}(t) = \sum_n D_n \cdot \Theta(t-t_n)
+$$
 
 ### 7.2 Experimental Verification Methods
 
 The theory's predictions can be verified through the following experiments:
 
 1. **Cognitive Neuroscience Experiments**: Measuring brain region activity pattern changes during knowledge processing
-   $$A_{\text{brain}}(K_Q) \neq A_{\text{brain}}(K_C)$$
+
+$$
+A_{\text{brain}}(K_Q) \neq A_{\text{brain}}(K_C)
+$$
 
 2. **Knowledge Transfer Network Experiments**: Analyzing knowledge propagation dynamics in social networks
-   $$R_K(t) \propto t^\alpha \text{ for } t < t_c, \; R_K(t) \propto e^{\beta t} \text{ for } t \geq t_c$$
+
+$$
+R_K(t) \propto t^\alpha \text{ for } t < t_c, \; R_K(t) \propto e^{\beta t} \text{ for } t \geq t_c
+$$
 
 3. **Educational Effectiveness Comparison Experiments**: Comparing traditional teaching with quantum-classical balanced teaching methods
-   $$E[L_{\text{quantum-classical}}] > E[L_{\text{traditional}}]$$
+
+$$
+E[L_{\text{quantum-classical}}] > E[L_{\text{traditional}}]
+$$
 
 ## 8. Unified Metrology of Quantum-Classical Knowledge
 
@@ -361,7 +498,9 @@ The theory's predictions can be verified through the following experiments:
 
 Defining unified knowledge measurement:
 
-$$M(K) = \alpha I_Q(K) + \beta I_C(K) + \gamma I_{\text{hidden}}(K)$$
+$$
+M(K) = \alpha I_Q(K) + \beta I_C(K) + \gamma I_{\text{hidden}}(K)
+$$
 
 Where $`\alpha`$, $`\beta`$, and $`\gamma`$ are weight coefficients.
 
@@ -370,7 +509,7 @@ Where $`\alpha`$, $`\beta`$, and $`\gamma`$ are weight coefficients.
 Knowledge quality assessment standards include:
 
 1. **Consistency**: $`Q_{\text{consistency}} = 1 - \frac{S(K_C)}{S_{\max}}`$
-2. **Completeness**: $`Q_{\text{completeness}} = \frac{I(K)}{I_{\text{domain}}}`$  
+2. **Completeness**: $`Q_{\text{completeness}} = \frac{I(K)}{I_{\text{domain}}}`$
 3. **Utility**: $`Q_{\text{utility}} = E[U(K)]`$
 4. **Innovation**: $`Q_{\text{innovation}} = 1 - \max_i S(K|K_i)`$
 
@@ -378,7 +517,9 @@ Knowledge quality assessment standards include:
 
 Mathematical expression of knowledge value:
 
-$$V(K) = \mathbb{E}[\sum_{t=0}^{\infty} \gamma^t R_t(K)]$$
+$$
+V(K) = \mathbb{E}[\sum_{t=0}^{\infty} \gamma^t R_t(K)]
+$$
 
 Where $`R_t(K)`$ is the return generated by knowledge at time $`t`$, and $`\gamma`$ is the time discount factor.
 
@@ -405,4 +546,4 @@ Future research will further explore:
 7. Kuhn, T. S. (1962). The structure of scientific revolutions.
 8. Habermas, J. (1984). The theory of communicative action.
 9. Davenport, T. H., & Prusak, L. (1998). Working knowledge.
-10. Bohm, D. (1980). Wholeness and the implicate order. 
+10. Bohm, D. (1980). Wholeness and the implicate order.

@@ -308,4 +308,4 @@ From the Quantum-Classical Dualism perspective, future directions of sleep scien
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Dreams and sleep are a special application area of Higher-Dimensional Information Classicalization, focusing on the classicalization process of observers in special consciousness states. Sleep is essentially a necessary maintenance and optimization process for the classicalization system, while dreams are creative classicalization representations of quantum information from the internal nervous system. 
+Dreams and sleep are a special application area of Higher-Dimensional Information Classicalization, focusing on the classicalization process of observers in special consciousness states. Sleep is essentially a necessary maintenance and optimization process for the classicalization system, while dreams are creative classicalization representations of quantum information from the internal nervous system.

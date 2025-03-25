@@ -1,9 +1,9 @@
 # 金融视角下的量子经典二元论 (Quantum-Classical Dualism from Financial Perspective)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#1-引言金融学与量子经典二元论) | [金融市场视角](#2-金融市场视角) | [投资决策视角](#3-投资决策视角) | [资产定价视角](#4-资产定价视角) | [风险管理视角](#5-风险管理视角) | [金融创新视角](#6-金融创新视角)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#1-引言金融学与量子经典二元论) | [金融市场视角](#2-金融市场视角) | [投资决策视角](#3-投资决策视角) | [资产定价视角](#4-资产定价视角) | [风险管理视角](#5-风险管理视角) | [金融创新视角](#6-金融创新视角)
 English: [Introduction](#1-introduction-finance-and-quantum-classical-dualism) | [Financial Markets](#2-financial-markets-perspective) | [Investment Decisions](#3-investment-decision-perspective) | [Asset Pricing](#4-asset-pricing-perspective) | [Risk Management](#5-risk-management-perspective) | [Financial Innovation](#6-financial-innovation-perspective)
 
 ## 索引
@@ -312,4 +312,4 @@ I_{\text{监管确定性（经典知识）}} + S_{\text{市场自由度（经典
 
 Finance, as the discipline studying the flow of funds, asset pricing, risk management, and investment decisions, has multi-level conceptual correspondences with Quantum-Classical Dualism. Core features in finance, such as price uncertainty and certainty in financial markets, possibility sets and specific choices in investment decisions, and entropy and order in risk management, all bear striking similarities to the quantum-classical dual structure, observer classicalization, and classical entropy management in Quantum-Classical Dualism. Through the financial perspective, we can more intuitively understand the application of Quantum-Classical Dualism in the fields of finance and economics, and explore its implications for financial theory and practice.
 
-[English content continues with detailed sections corresponding to the Chinese version...] 
+[English content continues with detailed sections corresponding to the Chinese version...]

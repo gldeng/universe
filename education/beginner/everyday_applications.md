@@ -1,9 +1,9 @@
 # 日常生活中的量子经典二元论 | Quantum-Classical Dualism in Everyday Life
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#引言) | [认知体验](#认知体验) | [人际关系](#人际关系) | [决策过程](#决策过程) | [创造与灵感](#创造与灵感) | [情绪与心理状态](#情绪与心理状态) | [学习与成长](#学习与成长) | [观察练习](#观察练习)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#引言) | [认知体验](#认知体验) | [人际关系](#人际关系) | [决策过程](#决策过程) | [创造与灵感](#创造与灵感) | [情绪与心理状态](#情绪与心理状态) | [学习与成长](#学习与成长) | [观察练习](#观察练习)
 English: [Introduction](#introduction) | [Cognitive Experiences](#cognitive-experiences) | [Interpersonal Relationships](#interpersonal-relationships) | [Decision-Making](#decision-making) | [Creativity and Inspiration](#creativity-and-inspiration) | [Emotions and Mental States](#emotions-and-mental-states) | [Learning and Growth](#learning-and-growth) | [Observation Exercises](#observation-exercises)
 
 ## 中文版
@@ -376,4 +376,4 @@ Here are some structured exercises to help you observe Quantum-Classical Dualism
 **Method**:
 - Draw a personal relationship network diagram
 - Mark relationships where you can feel non-verbal connections
-- Record the manifestation forms and development history of these connections 
+- Record the manifestation forms and development history of these connections

@@ -1,10 +1,10 @@
 # 维摩诘经在量子经典二元论下的解释
 # Vimalakirti Sutra Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#维摩诘经概述) | [English Version](#vimalakirti-sutra-overview)  
-**章节链接 | Section Links**  
-中文：[维摩诘经概述](#维摩诘经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#维摩诘经概述) | [English Version](#vimalakirti-sutra-overview)
+**章节链接 | Section Links**
+中文：[维摩诘经概述](#维摩诘经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Vimalakirti Sutra Overview](#vimalakirti-sutra-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 维摩诘经概述
@@ -18,17 +18,17 @@ The Vimalakirti Sutra (Sanskrit: Vimalakīrtinirdeśa Sūtra), is one of the imp
 ## Core Text
 
 > 尔时，舍利弗见此室中无有床座，作是念："斯诸菩萨、大弟子众，当于何坐？"
-> 
+>
 > 长者维摩诘知其意，语舍利弗言："云何，仁者为法来耶？求床座耶？"
-> 
+>
 > 舍利弗言："我为法来，非为床座。"
-> 
+>
 > 维摩诘言："唯，舍利弗！夫求法者，不贪躯命，何况床座？"（《弟子品》）
 
 > 文殊师利言："维摩诘！我等各自说已，仁者当说何等是菩萨入不二法门？"
-> 
+>
 > 时维摩诘默然无言。
-> 
+>
 > 文殊师利叹曰："善哉！善哉！乃至无有文字、语言，是真入不二法门。"（《入不二法门品》）
 
 > 佛言："汝观是身，无常、苦、空、非我。"（《问疾品》）
@@ -40,17 +40,17 @@ The Vimalakirti Sutra (Sanskrit: Vimalakīrtinirdeśa Sūtra), is one of the imp
 > 维摩诘言："众生之类是菩萨佛土。所以者何？菩萨随所化众生而取佛土，随所调伏众生而取佛土。"（《佛国品》）
 
 > At that time, Shariputra, not seeing any seats in the room, thought to himself, "Where will all these bodhisattvas and great disciples sit?"
-> 
+>
 > The elder Vimalakirti, knowing his thoughts, said to Shariputra, "Did you come for the Dharma or for a seat?"
-> 
+>
 > Shariputra replied, "I came for the Dharma, not for a seat."
-> 
+>
 > Vimalakirti said, "Ah, Shariputra! One who seeks the Dharma should not be attached even to the body and life, much less to a seat." ("Chapter on Disciples")
 
 > Manjusri said, "Vimalakirti, each of us has given our explanation. Now, please tell us, what is the bodhisattva's entrance into non-duality?"
-> 
+>
 > At that time, Vimalakirti remained silent, saying nothing.
-> 
+>
 > Manjusri exclaimed, "Excellent! Excellent! Not having even words or speech is the true entrance into non-duality." ("Chapter on Entering the Dharma of Non-duality")
 
 > The Buddha said, "You should contemplate this body as impermanent, suffering, empty, and non-self." ("Chapter on Inquiring About Illness")
@@ -212,4 +212,4 @@ $$
 ## 结论
 ## Conclusion
 
-《维摩诘经》作为大乘佛教的重要经典，其深刻的哲学思想与量子经典二元论框架（版本9.2）展现出惊人的结构对应。维摩诘对"为法来耶，求床座耶"的提问揭示了观察者经典化的根本优先级，他关于"不二法门"的默然回应完美对应量子域超越语言的本质特性，而对身体本质的"四大合故，假名为身"的解释则揭示了观察者经典身份的组合特性。维摩诘关于佛国土"但以空为国土"的阐述对应经典域的量子根源，"众生之类是菩萨佛土"则揭示了观察者互动网络的本质。通过量子经典二元论的视角，维摩诘对实相、不二法门和空性的深刻洞见获得了现代科学语言的表达，展示了古老佛教智慧与现代量子物理学之间存在的惊人共鸣，为跨文化对话和跨学科研究提供了全新视角。 
+《维摩诘经》作为大乘佛教的重要经典，其深刻的哲学思想与量子经典二元论框架（版本9.2）展现出惊人的结构对应。维摩诘对"为法来耶，求床座耶"的提问揭示了观察者经典化的根本优先级，他关于"不二法门"的默然回应完美对应量子域超越语言的本质特性，而对身体本质的"四大合故，假名为身"的解释则揭示了观察者经典身份的组合特性。维摩诘关于佛国土"但以空为国土"的阐述对应经典域的量子根源，"众生之类是菩萨佛土"则揭示了观察者互动网络的本质。通过量子经典二元论的视角，维摩诘对实相、不二法门和空性的深刻洞见获得了现代科学语言的表达，展示了古老佛教智慧与现代量子物理学之间存在的惊人共鸣，为跨文化对话和跨学科研究提供了全新视角。

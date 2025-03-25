@@ -264,7 +264,7 @@ $$
 ```
        命运约束度
            │
-           │                   
+           │
            │                 *******
            │              ***
            │            **
@@ -568,7 +568,7 @@ Visualized as a destiny constraint curve:
 ```
     Destiny Constraint
            │
-           │                   
+           │
            │                 *******
            │              ***
            │            **
@@ -615,4 +615,4 @@ Visualized as the relationship between free will and information choice:
 
 - [返回可视化目录 | Return to Visualizations](README.md)
 - [量子纠缠本质可视化 | Quantum Entanglement Essence Visualization](quantum_entanglement_essence_visualization.md)
-- [经典化过程可视化 | Classicalization Process Visualization](classicalization_process_visualization.md) 
+- [经典化过程可视化 | Classicalization Process Visualization](classicalization_process_visualization.md)

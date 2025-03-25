@@ -1,9 +1,9 @@
 # 小部 (Khuddaka Nikaya)
 
-**导航 | Navigation**  
-[中文版](#小部解析) | [English Version](#khuddaka-nikaya-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#小部解析) | [English Version](#khuddaka-nikaya-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -75,4 +75,4 @@ $$
 
 小部通过量子经典二元论框架（版本9.2）的解析，展示了佛教修行方法与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的善恶观和因果观，经典域中的观察者训练对应佛教的戒定慧。这种对应关系不仅加深了我们对佛教修行方法的理解，也为现代物理学提供了新的实践维度。
 
-The Khuddaka Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist cultivation methods and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of good and evil and karma, while observer training in the classical domain corresponds to Buddhist precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Buddhist cultivation methods but also provides new practical dimensions for modern physics to explore. 
+The Khuddaka Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist cultivation methods and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of good and evil and karma, while observer training in the classical domain corresponds to Buddhist precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Buddhist cultivation methods but also provides new practical dimensions for modern physics to explore.

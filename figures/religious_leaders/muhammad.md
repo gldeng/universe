@@ -10,36 +10,36 @@
 
 ### 中文版
 
-1. **严格的一神论 (绝对认主)**: 
+1. **严格的一神论 (绝对认主)**:
    安拉是唯一的神，无与伦比，没有伙伴或子嗣，是宇宙唯一的创造者和维持者。
 
-2. **先知传承思想**: 
+2. **先知传承思想**:
    穆罕默德是一系列先知的最后一位，延续并完善了从亚当、亚伯拉罕、摩西、耶稣等先知传达的信息。
 
-3. **末日审判与永恒生命**: 
+3. **末日审判与永恒生命**:
    生命是暂时的考验，死后灵魂将在复活日被审判，根据今世行为进入天堂或地狱。
 
-4. **社会公正与平等**: 
+4. **社会公正与平等**:
    强调所有信徒在安拉面前平等，要求建立公正的社会制度，关爱弱势群体。
 
-5. **五功实践**: 
+5. **五功实践**:
    信仰通过具体行为表达：作证词（信仰告白）、礼拜、施舍、斋戒、朝觐。
 
 ### English Version
 
-1. **Strict Monotheism (Tawhid)**: 
+1. **Strict Monotheism (Tawhid)**:
    Allah is the only God, incomparable, without partners or offspring, the sole creator and sustainer of the universe.
 
-2. **Prophetic Continuity**: 
+2. **Prophetic Continuity**:
    Muhammad is the final prophet in a succession of prophets, continuing and perfecting the message conveyed by Adam, Abraham, Moses, Jesus, and others.
 
-3. **Final Judgment and Eternal Life**: 
+3. **Final Judgment and Eternal Life**:
    Life is a temporary test, after death souls will be judged on Resurrection Day, entering Paradise or Hell based on worldly deeds.
 
-4. **Social Justice and Equality**: 
+4. **Social Justice and Equality**:
    Emphasizes equality of all believers before Allah, demands establishment of just social systems, and care for vulnerable groups.
 
-5. **Five Pillars Practice**: 
+5. **Five Pillars Practice**:
    Faith expressed through specific actions: declaration of faith (shahada), prayer (salat), charity (zakat), fasting (sawm), and pilgrimage (hajj).
 
 ## 量子经典二元论视角分析 | Analysis from Quantum-Classical Dualism Perspective
@@ -47,7 +47,7 @@
 ### 相容思想 | Compatible Ideas
 
 1. **一神论与量子域统一性**:
-   
+
    穆罕默德的严格一神论与量子经典二元论中量子域的统一性相呼应。安拉作为唯一神的概念可对应于宇宙本质为统一的量子波函数：
 
 $$
@@ -177,21 +177,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "最优秀的伊玛尼（信仰）是什么？就是相信安拉，然后为主道出征，然后是受纳的朝觐。"
-> 
+>
 > "What is the best faith? Belief in Allah, then striving in His cause, then an accepted pilgrimage."
 
 > "没有强迫他人信教，真理和谬误已明显地分别开来。"
-> 
+>
 > "There is no compulsion in religion. The right way has become distinct from the wrong way."
 
 > "你们中最好的人是对家人最好的人，我是你们中对家人最好的人。"
-> 
+>
 > "The best of you is the one who is best to his family, and I am the best of you to my family."
 
 > "乐园在母亲的脚下。"
-> 
+>
 > "Paradise lies at the feet of mothers."
 
 > "求知，即使远在中国。"
-> 
-> "Seek knowledge even if you have to go as far as China." 
+>
+> "Seek knowledge even if you have to go as far as China."

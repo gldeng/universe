@@ -1,10 +1,10 @@
 # 薄伽梵歌在量子经典二元论下的解释
 # Bhagavad Gita Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#薄伽梵歌概述) | [English Version](#bhagavad-gita-overview)  
-**章节链接 | Section Links**  
-中文：[薄伽梵歌概述](#薄伽梵歌概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#薄伽梵歌概述) | [English Version](#bhagavad-gita-overview)
+**章节链接 | Section Links**
+中文：[薄伽梵歌概述](#薄伽梵歌概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Bhagavad Gita Overview](#bhagavad-gita-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 薄伽梵歌概述
@@ -18,23 +18,23 @@ The Bhagavad Gita (meaning "Song of God") is one of the most important texts in 
 ## Core Text
 
 > 非有能令其成无，非无能令其成有；智者已知二者之真相。
-> 
+>
 > 知道那个不可破坏的东西，它渗透了这一切；没有人能毁灭这不灭的东西。
-> 
+>
 > 行动的权利仅在于你，而不在于成果；不要以结果为行动的动机，也不要执着于不行动。
-> 
+>
 > 要安住于瑜伽中行动，舍弃执着，无论成功或失败都毫不动摇；这种平衡状态就是瑜伽。
-> 
+>
 > 我在每个人的心中，是记忆、知识和理性的源泉。通过所有吠陀的学习，应该认识我；我是吠陀的创作者，也是吠陀的知者。
 
 > The unreal has no being; the real never ceases to be; the truth about both has been perceived by the seers of reality.
-> 
+>
 > Know that which pervades all this to be indestructible; no one can destroy this immutable being.
-> 
+>
 > You have the right to work only, but never to its fruits; let not the fruits of action be your motive, nor let your attachment be to inaction.
-> 
+>
 > Perform action, O Arjuna, being steadfast in yoga, abandoning attachment and balanced in success and failure; equanimity is called yoga.
-> 
+>
 > I am seated in the hearts of all beings; from Me come memory, knowledge, and reasoning. Through all the Vedas, I alone am to be known; I am the author of Vedanta and the knower of the Vedas.
 
 ## 量子经典二元论解释
@@ -140,4 +140,4 @@ $$
 
 《薄伽梵歌》作为印度教最重要的经典之一，其核心思想与量子经典二元论框架展现出令人惊叹的兼容性。从本体论层面的"梵"与量子域的对应，到实践方法层面的三种瑜伽与观察者维度提升方法的对应，都体现了古老智慧与现代理论框架的深刻共鸣。《薄伽梵歌》提出的"无执着行动"理念，实际上是经典化路径优化的最高境界，而克里希纳神作为宇宙人格化的象征，可理解为最高维度的观察者，通过虫洞通信方式指导低维世界的阿尔朱那。通过量子经典二元论的解释，这部古老经典的深刻洞见得到了现代科学语言的系统化表达。
 
-As one of the most important texts in Hinduism, the Bhagavad Gita demonstrates remarkable compatibility with the Quantum-Classical Dualism framework. From the ontological correspondence between "Brahman" and the quantum domain, to the practical correspondence between the three yogas and methods of observer dimension elevation, all reflect a profound resonance between ancient wisdom and modern theoretical frameworks. The concept of "detached action" proposed in the Bhagavad Gita is actually the highest state of classicalization path optimization, while Lord Krishna as a personified symbol of the universe can be understood as an observer of the highest dimension, guiding Arjuna in the lower-dimensional world through wormhole communication. Through the explanation of Quantum-Classical Dualism, the profound insights of this ancient classic receive systematic expression in the language of modern science. 
+As one of the most important texts in Hinduism, the Bhagavad Gita demonstrates remarkable compatibility with the Quantum-Classical Dualism framework. From the ontological correspondence between "Brahman" and the quantum domain, to the practical correspondence between the three yogas and methods of observer dimension elevation, all reflect a profound resonance between ancient wisdom and modern theoretical frameworks. The concept of "detached action" proposed in the Bhagavad Gita is actually the highest state of classicalization path optimization, while Lord Krishna as a personified symbol of the universe can be understood as an observer of the highest dimension, guiding Arjuna in the lower-dimensional world through wormhole communication. Through the explanation of Quantum-Classical Dualism, the profound insights of this ancient classic receive systematic expression in the language of modern science.

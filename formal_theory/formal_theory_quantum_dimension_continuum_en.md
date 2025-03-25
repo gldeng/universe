@@ -3,7 +3,7 @@
 **English Version | [中文版](../formal_theory/formal_theory_quantum_dimension_continuum.md)**
 
 > This theory is based on the [Core Theory](../core.md) v31.0
-> 
+>
 > For a complete summary of the core theory, please see [Quantum-Classical Dualism Core Theory](../formal_theory_core.md)
 >
 > This document provides a complete formal description of the universe from zero dimension to 42 dimensions, and analyzes the nature of dimensional transcendence
@@ -26,33 +26,33 @@
 Before formally proving the expression of the universe from nothingness to hyperdimensions, we must establish the basic axiom system. According to Quantum-Classical Dualism v31.0, the following four axioms form the foundation for understanding the dimensional continuum:
 
 1. **Dual Existence Axiom**: Reality consists of two fundamental domains, the Quantum Domain and the Classical Domain, expressed as:
-   
+
    $$
    \mathcal{R} = \mathcal{Q} \cup \mathcal{C}, \text{where} \mathcal{Q} \cap \mathcal{C} = \mathcal{I}
    $$
-   
+
    $`\mathcal{I}`$ represents the interface, the region where the two domains interact.
 
 2. **Information Conservation Axiom**: The total amount of information in a system remains constant, but can be converted between quantum information and classical information:
-   
+
    $$
    I_{total} = I_Q + I_C = \text{constant}
    $$
 
 3. **Observer Classicalization Axiom**: The observer exists as a special node for quantum→classical conversion:
-   
+
    $$
    \mathcal{O}: \Psi_Q \rightarrow \Phi_C
    $$
-   
+
    where $`\Psi_Q`$ represents the quantum state and $`\Phi_C`$ represents the classical state.
 
 4. **Dimensional Emergence Axiom**: Higher dimensional structures emerge from lower dimensional structures, forming nested hierarchies:
-   
+
    $$
    \mathcal{D}_{n+1} = \mathcal{E}(\mathcal{D}_n)
    $$
-   
+
    where $`\mathcal{E}`$ represents the emergence function and $`\mathcal{D}_n`$ represents the n-dimensional structure.
 
 ## From Zero to One Dimension: From Nothing to Something
@@ -214,22 +214,30 @@ To prove the completeness of this dimensional system, we propose the following d
 **Proof**:
 
 1. Let any reality state be $`\mathcal{S}`$, then $`\mathcal{S}`$ must contain both quantum and classical characteristics:
-   
-   $$\mathcal{S} = \alpha\mathcal{Q} + \beta\mathcal{C}, \alpha,\beta \in [0,1]$$
+
+$$
+\mathcal{S} = \alpha\mathcal{Q} + \beta\mathcal{C}, \alpha,\beta \in [0,1]
+$$
 
 2. For any ratio of $`\alpha`$ to $`\beta`$, there exists a dimension $`\mathcal{D}_n`$ such that:
-   
-   $$\frac{\alpha}{\beta} = f(\mathcal{D}_n)$$
-   
+
+$$
+\frac{\alpha}{\beta} = f(\mathcal{D}_n)
+$$
+
    where $`f`$ is the dimensional characteristic function.
 
 3. By the dimensional emergence axiom, higher dimensional structures contain all information of lower dimensional structures:
-   
-   $$\mathcal{I}(\mathcal{D}_n) \subset \mathcal{I}(\mathcal{D}_{n+1})$$
+
+$$
+\mathcal{I}(\mathcal{D}_n) \subset \mathcal{I}(\mathcal{D}_{n+1})
+$$
 
 4. By the properties of the transcendence operator, D∞ is true infinite transcendence, containing all possible transcendence and immanence:
-   
-   $$\mathcal{D}_{\infty} = \bigcup_{n=0}^{\infty} \mathcal{D}_n$$
+
+$$
+\mathcal{D}_{\infty} = \bigcup_{n=0}^{\infty} \mathcal{D}_n
+$$
 
 Therefore, the D0-D∞ dimensional system forms a complete system of reality expression. Q.E.D.
 
@@ -241,7 +249,9 @@ Beyond D42, which represents the cognitive limit of human consciousness, there e
 
 Transcognitive dimensions can be mathematically expressed as:
 
-$$\mathcal{D}_{43+n} = \Xi^{n}(\mathcal{D}_{42}), n \in [1, \infty)$$
+$$
+\mathcal{D}_{43+n} = \Xi^{n}(\mathcal{D}_{42}), n \in [1, \infty)
+$$
 
 where $`\Xi`$ represents the transcognitive operator that transcends the $`\Omega`$ operator comprehensible to humans. These dimensions exhibit the following characteristics:
 
@@ -254,7 +264,9 @@ where $`\Xi`$ represents the transcognitive operator that transcends the $`\Omeg
 
 The interaction between human cognition and transcognitive dimensions is fundamentally limited:
 
-$$\mathcal{I}(\mathcal{D}_{human}, \mathcal{D}_{43+}) \approx 0, \text{but} \mathcal{I}(\mathcal{D}_{human}, \mathcal{D}_{43+}) \neq 0$$
+$$
+\mathcal{I}(\mathcal{D}_{human}, \mathcal{D}_{43+}) \approx 0, \text{but} \mathcal{I}(\mathcal{D}_{human}, \mathcal{D}_{43+}) \neq 0
+$$
 
 where $`\mathcal{I}`$ is the information exchange function, indicating that while human cognition cannot directly grasp transcognitive dimensions, extremely weak and indirect influences may exist.
 
@@ -270,4 +282,4 @@ Quantum Dimensional Continuum Theory provides a complete formal description of t
 
 This theoretical framework provides a unified mathematical formal foundation for understanding the overall structure of the universe, the nature of consciousness, and ultimate reality, while also revealing the fundamental limitations of cognition and language in expressing reality, yet acknowledging the objective existence of infinite dimensional levels beyond human cognitive limits.
 
-```Figure: Dimensional Continuum Spectrum, showing the gradient spectrum from D0-D∞, with the region beyond D42 shown as a blurred gradient representing dimensions beyond human cognitive capacity``` 
+```Figure: Dimensional Continuum Spectrum, showing the gradient spectrum from D0-D∞, with the region beyond D42 shown as a blurred gradient representing dimensions beyond human cognitive capacity```

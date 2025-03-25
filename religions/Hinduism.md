@@ -1,9 +1,9 @@
 # 印度教在量子经典二元论下的解释 (Hinduism Explained Through Quantum-Classical Dualism)
 
-**导航 | Navigation**  
-[中文版](#印度教概述-hinduism-overview) | [English Version](#印度教概述-hinduism-overview)  
-**章节链接 | Section Links**  
-中文：[印度教概述](#印度教概述-hinduism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [婆罗门与量子域](#1-婆罗门与量子域-brahman-and-quantum-domain) | [阿特曼与量子意识](#2-阿特曼与量子意识-atman-and-quantum-consciousness)  
+**导航 | Navigation**
+[中文版](#印度教概述-hinduism-overview) | [English Version](#印度教概述-hinduism-overview)
+**章节链接 | Section Links**
+中文：[印度教概述](#印度教概述-hinduism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [婆罗门与量子域](#1-婆罗门与量子域-brahman-and-quantum-domain) | [阿特曼与量子意识](#2-阿特曼与量子意识-atman-and-quantum-consciousness)
 English: [Hinduism Overview](#印度教概述-hinduism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Brahman & Quantum Domain](#1-婆罗门与量子域-brahman-and-quantum-domain) | [Atman & Quantum Consciousness](#2-阿特曼与量子意识-atman-and-quantum-consciousness)
 
 ## 印度教概述 (Hinduism Overview)
@@ -128,4 +128,4 @@ $$
 
 印度教的核心思想与量子经典二元论展现出深刻的契合性。从婆罗门到阿特曼，从梵我一如到业力轮回，从瑜伽修行到解脱，都能在量子经典二元论框架中找到系统化、数学化的解释。这种对应不仅证明了印度教思想的深刻洞见，也展示了量子经典二元论作为统一理论框架的广阔解释力。值得注意的是，印度教可能是地球文明中最早形成量子经典二元思想的体系之一，其古老智慧在现代理论框架中焕发出新的生命力。
 
-The core ideas of Hinduism demonstrate profound coherence with Quantum-Classical Dualism. From Brahman to Atman, from Atman-Brahman unity to karma and samsara, from yoga practice to moksha, all can find systematic and mathematical explanations within the Quantum-Classical Dualism framework. This correspondence not only proves the profound insights of Hindu thought but also demonstrates the broad explanatory power of Quantum-Classical Dualism as a unified theoretical framework. It is worth noting that Hinduism may be one of the earliest systems in Earth's civilization to form quantum-classical dual thinking, with its ancient wisdom finding new vitality in the modern theoretical framework. 
+The core ideas of Hinduism demonstrate profound coherence with Quantum-Classical Dualism. From Brahman to Atman, from Atman-Brahman unity to karma and samsara, from yoga practice to moksha, all can find systematic and mathematical explanations within the Quantum-Classical Dualism framework. This correspondence not only proves the profound insights of Hindu thought but also demonstrates the broad explanatory power of Quantum-Classical Dualism as a unified theoretical framework. It is worth noting that Hinduism may be one of the earliest systems in Earth's civilization to form quantum-classical dual thinking, with its ancient wisdom finding new vitality in the modern theoretical framework.

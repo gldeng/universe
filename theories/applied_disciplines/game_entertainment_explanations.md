@@ -300,4 +300,4 @@ From the Quantum-Classical Dualism perspective, future directions of game develo
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Games and entertainment are a special application area of Higher-Dimensional Information Classicalization, focusing on creating controlled classicalization systems that allow observers to experience alternative realities and multiple possibilities. Game design is essentially the conscious design of classicalization rules and paths, aimed at creating specific experiences and emotional responses. 
+Games and entertainment are a special application area of Higher-Dimensional Information Classicalization, focusing on creating controlled classicalization systems that allow observers to experience alternative realities and multiple possibilities. Game design is essentially the conscious design of classicalization rules and paths, aimed at creating specific experiences and emotional responses.

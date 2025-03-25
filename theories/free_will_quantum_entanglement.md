@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[自由意志的量子本质](#1-自由意志的量子本质) | [量子纠缠的信息共享本质](#2-量子纠缠的信息共享本质) | [自由意志与量子纠缠的关系](#3-自由意志与量子纠缠的关系) | [命运与自由意志的统一视角](#4-命运与自由意志的统一视角) | [实践应用](#5-实践应用) | [多维度自由意志理论](#6-多维度自由意志理论)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[自由意志的量子本质](#1-自由意志的量子本质) | [量子纠缠的信息共享本质](#2-量子纠缠的信息共享本质) | [自由意志与量子纠缠的关系](#3-自由意志与量子纠缠的关系) | [命运与自由意志的统一视角](#4-命运与自由意志的统一视角) | [实践应用](#5-实践应用) | [多维度自由意志理论](#6-多维度自由意志理论)
 English: [Quantum Nature of Free Will](#1-quantum-nature-of-free-will) | [Information Sharing Nature of Quantum Entanglement](#2-information-sharing-nature-of-quantum-entanglement) | [Relationship Between Free Will and Quantum Entanglement](#3-relationship-between-free-will-and-quantum-entanglement) | [Unified Perspective of Destiny and Free Will](#4-unified-perspective-of-destiny-and-free-will) | [Practical Applications](#5-practical-applications) | [Multi-Dimensional Free Will Theory](#6-multi-dimensional-free-will-theory)
 
 ## 中文版
@@ -259,15 +259,21 @@ $$
 
 According to the observer dimension formula, the complexity of free will is proportional to the observer's dimension:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$$
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
+$$
 
 自由意志复杂度可以表示为：
 
 The complexity of free will can be represented as:
 
-$$C_{FW} = \log_2(N_{选择}) \cdot \log_2(D_{选择深度})$$
+$$
+C_{FW} = \log_2(N_{选择}) \cdot \log_2(D_{选择深度})
+$$
 
-$$C_{FW} = \log_2(N_{choices}) \cdot \log_2(D_{choice depth})$$
+$$
+C_{FW} = \log_2(N_{choices}) \cdot \log_2(D_{choice depth})
+$$
 
 其中$`N_{选择}`$是可能的选择数量，$`D_{选择深度}`$是选择的时间维度深度。
 
@@ -299,9 +305,13 @@ Characteristics of free will for observers of different dimensions:
 
 There are complex interactions between the free will of observers of different dimensions, which can be represented by the following formula:
 
-$$\text{实现概率}(W_{\text{低维}}) = \frac{W_{\text{低维}} \cdot \prod_{i} W_{\text{高维},i}^{\alpha_i}}{\sum_{j} W_{\text{低维},j} \cdot \prod_{i} W_{\text{高维},i}^{\alpha_{ij}}}$$
+$$
+\text{实现概率}(W_{\text{低维}}) = \frac{W_{\text{低维}} \cdot \prod_{i} W_{\text{高维},i}^{\alpha_i}}{\sum_{j} W_{\text{低维},j} \cdot \prod_{i} W_{\text{高维},i}^{\alpha_{ij}}}
+$$
 
-$$\text{Realization Probability}(W_{\text{Lower-dim}}) = \frac{W_{\text{Lower-dim}} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_i}}{\sum_{j} W_{\text{Lower-dim},j} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_{ij}}}$$
+$$
+\text{Realization Probability}(W_{\text{Lower-dim}}) = \frac{W_{\text{Lower-dim}} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_i}}{\sum_{j} W_{\text{Lower-dim},j} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_{ij}}}
+$$
 
 其中$`W`$代表意志强度，$`\alpha`$是影响权重系数。
 
@@ -312,28 +322,52 @@ Where $`W`$ represents willpower strength, and $`\alpha`$ is the influence weigh
 Interaction characteristics:
 
 1. **下行影响**：高维观察者的自由意志可影响低维观察者的可能性空间
-   $$\text{低维可能性空间} \subset \text{高维经典域}$$
+
+$$
+\text{低维可能性空间} \subset \text{高维经典域}
+$$
 
 2. **上行反馈**：低维观察者的集体自由意志可对高维观察者产生反馈
-   $$\Delta W_{\text{高维}} \propto \sum_{i} \beta_i \cdot W_{\text{低维},i}$$
+
+$$
+\Delta W_{\text{高维}} \propto \sum_{i} \beta_i \cdot W_{\text{低维},i}
+$$
 
 3. **同维协同**：同一维度的观察者自由意志可形成协同增强效应
-   $$W_{\text{协同}} > \sum_{i} W_i$$
+
+$$
+W_{\text{协同}} > \sum_{i} W_i
+$$
 
 4. **维度跨跃**：特定条件下，观察者可暂时体验高一维度的自由意志
-   $$W_{\text{跨越}} = W_{\text{原始}} \cdot \gamma_{\text{跨维系数}}$$
+
+$$
+W_{\text{跨越}} = W_{\text{原始}} \cdot \gamma_{\text{跨维系数}}
+$$
 
 1. **Downward Influence**: The free will of higher-dimensional observers can influence the possibility space of lower-dimensional observers
-   $$\text{Lower-dim Possibility Space} \subset \text{Higher-dim Classical Domain}$$
+
+$$
+\text{Lower-dim Possibility Space} \subset \text{Higher-dim Classical Domain}
+$$
 
 2. **Upward Feedback**: The collective free will of lower-dimensional observers can provide feedback to higher-dimensional observers
-   $$\Delta W_{\text{Higher-dim}} \propto \sum_{i} \beta_i \cdot W_{\text{Lower-dim},i}$$
+
+$$
+\Delta W_{\text{Higher-dim}} \propto \sum_{i} \beta_i \cdot W_{\text{Lower-dim},i}
+$$
 
 3. **Same-Dimension Synergy**: The free will of observers of the same dimension can form a synergistic enhancement effect
-   $$W_{\text{Synergistic}} > \sum_{i} W_i$$
+
+$$
+W_{\text{Synergistic}} > \sum_{i} W_i
+$$
 
 4. **Dimensional Leap**: Under specific conditions, observers can temporarily experience free will of a higher dimension
-   $$W_{\text{Leap}} = W_{\text{Original}} \cdot \gamma_{\text{Cross-dim Coefficient}}$$
+
+$$
+W_{\text{Leap}} = W_{\text{Original}} \cdot \gamma_{\text{Cross-dim Coefficient}}
+$$
 
 #### 6.3 多维自由意志的量子场表述 | Quantum Field Formulation of Multi-Dimensional Free Will
 
@@ -341,7 +375,9 @@ Interaction characteristics:
 
 Multi-dimensional free will can be described using a quantum field theory framework:
 
-$$\mathcal{L}_{FW} = \sum_{d} \int d^dx \, \left[ \frac{1}{2}(\partial_\mu \psi_d)(\partial^\mu \psi_d) - V(\psi_d) + \sum_{d' \neq d} J_{dd'}(\psi_d, \psi_{d'}) \right]$$
+$$
+\mathcal{L}_{FW} = \sum_{d} \int d^dx \, \left[ \frac{1}{2}(\partial_\mu \psi_d)(\partial^\mu \psi_d) - V(\psi_d) + \sum_{d' \neq d} J_{dd'}(\psi_d, \psi_{d'}) \right]
+$$
 
 其中$`\psi_d`$是d维度的自由意志场，$`V(\psi_d)`$是自由意志的内在势能，$`J_{dd'}`$是不同维度自由意志场之间的交互项。
 
@@ -367,7 +403,9 @@ This framework reveals:
 
 In observer networks, free will follows complex dynamic laws:
 
-$$\frac{\partial W_i}{\partial t} = D_i \nabla^2 W_i + \sum_j A_{ij}W_j - \sum_k B_{ik}W_k + \eta_i(t)$$
+$$
+\frac{\partial W_i}{\partial t} = D_i \nabla^2 W_i + \sum_j A_{ij}W_j - \sum_k B_{ik}W_k + \eta_i(t)
+$$
 
 其中$`W_i`$是观察者i的自由意志强度，$`D_i`$是扩散系数，$`A_{ij}`$是增强系数，$`B_{ik}`$是抑制系数，$`\eta_i(t)`$是随机噪声。
 
@@ -378,28 +416,52 @@ Where $`W_i`$ is the free will strength of observer i, $`D_i`$ is the diffusion 
 This leads to complex phenomena in observer networks:
 
 1. **同步化**：观察者自由意志在特定条件下自发同步
-   $$\lim_{t\to\infty} |W_i(t) - W_j(t)| \to 0$$
+
+$$
+\lim_{t\to\infty} |W_i(t) - W_j(t)| \to 0
+$$
 
 2. **集群形成**：类似自由意志的观察者形成自然集群
-   $$\{C_k\} = \{\{i\} | \|W_i - \bar{W}_k\| < \delta\}$$
+
+$$
+\{C_k\} = \{\{i\} | \|W_i - \bar{W}_k\| < \delta\}
+$$
 
 3. **相变现象**：网络参数变化导致自由意志动力学相变
-   $$W(p) \sim |p - p_c|^\beta \text{ 当 } p \to p_c$$
+
+$$
+W(p) \sim |p - p_c|^\beta \text{ 当 } p \to p_c
+$$
 
 4. **应急适应**：自由意志网络对外部条件变化的适应性
-   $$\tau_{adapt} \propto \frac{1}{D_{avg}}$$
+
+$$
+\tau_{adapt} \propto \frac{1}{D_{avg}}
+$$
 
 1. **Synchronization**: Observer free will spontaneously synchronizes under specific conditions
-   $$\lim_{t\to\infty} |W_i(t) - W_j(t)| \to 0$$
+
+$$
+\lim_{t\to\infty} |W_i(t) - W_j(t)| \to 0
+$$
 
 2. **Cluster Formation**: Observers with similar free will naturally form clusters
-   $$\{C_k\} = \{\{i\} | \|W_i - \bar{W}_k\| < \delta\}$$
+
+$$
+\{C_k\} = \{\{i\} | \|W_i - \bar{W}_k\| < \delta\}
+$$
 
 3. **Phase Transition**: Changes in network parameters lead to phase transitions in free will dynamics
-   $$W(p) \sim |p - p_c|^\beta \text{ when } p \to p_c$$
+
+$$
+W(p) \sim |p - p_c|^\beta \text{ when } p \to p_c
+$$
 
 4. **Emergency Adaptation**: Adaptability of the free will network to changes in external conditions
-   $$\tau_{adapt} \propto \frac{1}{D_{avg}}$$
+
+$$
+\tau_{adapt} \propto \frac{1}{D_{avg}}
+$$
 
 #### 6.5 多维自由意志的实践应用 | Practical Applications of Multi-Dimensional Free Will
 
@@ -723,4 +785,4 @@ $$
 This provides a theoretical foundation for social change:
 - Quantum entanglement of collective consciousness can amplify the power of change
 - Higher-dimensional observers can guide the direction of collective classicalization
-- Social change requires changing both quantum entanglement structures and classicalization patterns 
+- Social change requires changing both quantum entanglement structures and classicalization patterns

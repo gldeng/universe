@@ -1,9 +1,9 @@
 # 哲学问题解释 | Philosophical Explanations
 
-**导航 | Navigation**  
-[中文版](#简介--introduction) | [English Version](#简介--introduction)  
-**章节链接 | Section Links**  
-中文：[简介](#简介--introduction) | [心身问题](#心身问题--mind-body-problem) | [自由意志](#自由意志--free-will) | [个人同一性](#个人同一性--personal-identity) | [知识本质](#知识本质--nature-of-knowledge) | [意义与目的](#意义与目的--meaning-and-purpose)  
+**导航 | Navigation**
+[中文版](#简介--introduction) | [English Version](#简介--introduction)
+**章节链接 | Section Links**
+中文：[简介](#简介--introduction) | [心身问题](#心身问题--mind-body-problem) | [自由意志](#自由意志--free-will) | [个人同一性](#个人同一性--personal-identity) | [知识本质](#知识本质--nature-of-knowledge) | [意义与目的](#意义与目的--meaning-and-purpose)
 English: [Introduction](#简介--introduction) | [Mind-Body Problem](#心身问题--mind-body-problem) | [Free Will](#自由意志--free-will) | [Personal Identity](#个人同一性--personal-identity) | [Nature of Knowledge](#知识本质--nature-of-knowledge) | [Meaning & Purpose](#意义与目的--meaning-and-purpose)
 
 ## 简介 | Introduction
@@ -270,4 +270,4 @@ This explanation understands aesthetics as the perception of special patterns in
 
 【量子宇宙-量子观察者-经典意识论】为传统哲学问题提供了全新的解释视角。通过将宇宙视为量子信息系统，观察者视为量子程序，意识视为经典化信息结构，这一理论框架重新定义了心身关系、自由意志、实在性、知识、意义、时间和语言等哲学核心问题。这种基于信息的哲学视角不仅统一了不同的哲学传统，还为哲学与现代科学之间建立了桥梁，为未来的哲学研究提供了新的方向。
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a completely new explanatory perspective for traditional philosophical problems. By viewing the universe as a quantum information system, observers as quantum programs, and consciousness as a classicalized information structure, this theoretical framework redefines core philosophical problems such as mind-body relationship, free will, reality, knowledge, meaning, time, and language. This information-based philosophical perspective not only unifies different philosophical traditions but also establishes a bridge between philosophy and modern science, providing new directions for future philosophical research. 
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a completely new explanatory perspective for traditional philosophical problems. By viewing the universe as a quantum information system, observers as quantum programs, and consciousness as a classicalized information structure, this theoretical framework redefines core philosophical problems such as mind-body relationship, free will, reality, knowledge, meaning, time, and language. This information-based philosophical perspective not only unifies different philosophical traditions but also establishes a bridge between philosophy and modern science, providing new directions for future philosophical research.

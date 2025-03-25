@@ -23,7 +23,9 @@ Quantum-Classical Crisis Resilience Theory applies the quantum-classical dualism
 
 Crisis resilience $`\mathcal{R}`$ can be formally defined as:
 
-$$\mathcal{R} = (\mathcal{R}_Q, \mathcal{R}_C, \mathcal{T}_R, \mathcal{A}_R, \mathcal{T}_C)$$
+$$
+\mathcal{R} = (\mathcal{R}_Q, \mathcal{R}_C, \mathcal{T}_R, \mathcal{A}_R, \mathcal{T}_C)
+$$
 
 Where:
 - $`\mathcal{R}_Q`$ is the quantum component of resilience (possibility space, adaptation potential)
@@ -34,31 +36,39 @@ Where:
 
 ### Core Axioms of Crisis Resilience
 
-**Axiom 1: Dual Resilience Structure**  
+**Axiom 1: Dual Resilience Structure**
 System resilience depends simultaneously on quantum adaptability and classical stability:
 
-$$\mathcal{R} = \mathcal{R}_Q \bowtie \mathcal{R}_C$$
+$$
+\mathcal{R} = \mathcal{R}_Q \bowtie \mathcal{R}_C
+$$
 
 Where $`\bowtie`$ represents quantum-classical interactive connection.
 
-**Axiom 2: Information-Structure Interaction**  
+**Axiom 2: Information-Structure Interaction**
 Resilience under crisis manifests as dynamic balance between system information processing and structure maintenance:
 
-$$\frac{d\mathcal{R}}{dt} = \alpha \cdot \nabla I(\mathcal{S}) - \beta \cdot \Delta S(\mathcal{S})$$
+$$
+\frac{d\mathcal{R}}{dt} = \alpha \cdot \nabla I(\mathcal{S}) - \beta \cdot \Delta S(\mathcal{S})
+$$
 
 Where $`I(\mathcal{S})`$ is the system information increment, and $`S(\mathcal{S})`$ is the structural change quantity.
 
-**Axiom 3: Resilience Phase Transition Critical Points**  
+**Axiom 3: Resilience Phase Transition Critical Points**
 System resilience can undergo phase transitions at specific parameters, forming new equilibrium states:
 
-$$\mathcal{R}(\lambda_c + \delta) = \mathcal{T} \cdot \mathcal{R}(\lambda_c - \delta)$$
+$$
+\mathcal{R}(\lambda_c + \delta) = \mathcal{T} \cdot \mathcal{R}(\lambda_c - \delta)
+$$
 
 Where $`\lambda_c`$ is the critical parameter, and $`\mathcal{T}`$ is the phase transition operator.
 
-**Axiom 4: Multi-Scale Coupling Principle**  
+**Axiom 4: Multi-Scale Coupling Principle**
 Coupling relationships exist between resilience mechanisms at different scales:
 
-$$\mathcal{R}_{total} = \sum_i \omega_i \cdot \mathcal{R}_i + \sum_{i,j} \gamma_{ij} \cdot \mathcal{R}_i \otimes \mathcal{R}_j$$
+$$
+\mathcal{R}_{total} = \sum_i \omega_i \cdot \mathcal{R}_i + \sum_{i,j} \gamma_{ij} \cdot \mathcal{R}_i \otimes \mathcal{R}_j
+$$
 
 Where $`\mathcal{R}_i`$ represents resilience at different scales, and $`\omega_i`$ and $`\gamma_{ij}`$ are weight coefficients.
 
@@ -68,7 +78,9 @@ Where $`\mathcal{R}_i`$ represents resilience at different scales, and $`\omega_
 
 Quantum possibility space of systems facing crises:
 
-$$|\Psi_R\rangle = \sum_i \alpha_i |r_i\rangle$$
+$$
+|\Psi_R\rangle = \sum_i \alpha_i |r_i\rangle
+$$
 
 Where $`|r_i\rangle`$ are possible response state basis vectors, and $`\alpha_i`$ are complex amplitudes.
 
@@ -80,7 +92,9 @@ Quantum response characteristics include:
 
 Relationship between crisis quantum entropy and adaptation potential:
 
-$$S(\rho_R) = -\text{Tr}(\rho_R \ln \rho_R) \propto \text{Adaptation Potential}$$
+$$
+S(\rho_R) = -\text{Tr}(\rho_R \ln \rho_R) \propto \text{Adaptation Potential}
+$$
 
 Where $`\rho_R`$ is the density matrix of the system's crisis response.
 
@@ -88,7 +102,9 @@ Where $`\rho_R`$ is the density matrix of the system's crisis response.
 
 Classical domain composition of resilient systems:
 
-$$\mathcal{R}_C = (I_R, P_R, F_R, C_R)$$
+$$
+\mathcal{R}_C = (I_R, P_R, F_R, C_R)
+$$
 
 Where:
 - $`I_R`$ is critical infrastructure (physical and social)
@@ -98,13 +114,17 @@ Where:
 
 Classical resilience dynamics satisfy:
 
-$$\frac{d\mathcal{R}_C}{dt} = F_C(\mathcal{R}_C, S_{internal}, P_{external})$$
+$$
+\frac{d\mathcal{R}_C}{dt} = F_C(\mathcal{R}_C, S_{internal}, P_{external})
+$$
 
 Where $`S_{internal}`$ is the internal structure tensor, and $`P_{external}`$ is the external pressure vector.
 
 Relationship between classical memory and resilience:
 
-$$M_R(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{R}_C(\tau) d\tau$$
+$$
+M_R(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{R}_C(\tau) d\tau
+$$
 
 Where $`\kappa`$ is the memory decay kernel function.
 
@@ -112,7 +132,9 @@ Where $`\kappa`$ is the memory decay kernel function.
 
 Dynamics equation of crisis information flow:
 
-$$\frac{dI_{crisis}}{dt} = \alpha_I \nabla^2 I_{crisis} + \beta_I f(I_{crisis}) + \gamma_I \xi(t) + \delta_I S(t)$$
+$$
+\frac{dI_{crisis}}{dt} = \alpha_I \nabla^2 I_{crisis} + \beta_I f(I_{crisis}) + \gamma_I \xi(t) + \delta_I S(t)
+$$
 
 Where $`S(t)`$ is the information source function, and $`\xi(t)`$ is the noise function.
 
@@ -124,7 +146,9 @@ Key parameters of information propagation:
 
 Relationship between information quality and resilience:
 
-$$\mathcal{R} \propto \frac{I_{accurate} \cdot I_{timely}}{I_{noise} \cdot I_{misinfo}}$$
+$$
+\mathcal{R} \propto \frac{I_{accurate} \cdot I_{timely}}{I_{noise} \cdot I_{misinfo}}
+$$
 
 Indicating that the ratio of accurate and timely information to noise and misinformation affects resilience.
 
@@ -132,7 +156,9 @@ Indicating that the ratio of accurate and timely information to noise and misinf
 
 Quantum-classical decision model in crises:
 
-$$D(t) = \mathcal{C}(|\Psi_D(t)\rangle) \oplus \Delta D_C(t)$$
+$$
+D(t) = \mathcal{C}(|\Psi_D(t)\rangle) \oplus \Delta D_C(t)
+$$
 
 Where $`|\Psi_D(t)\rangle`$ is the decision quantum state, $`\mathcal{C}`$ is the classicalization operator, and $`\Delta D_C(t)`$ is the classical adjustment.
 
@@ -144,7 +170,9 @@ Quantum characteristics of the decision process:
 
 Adaptive learning equation:
 
-$$\frac{d\mathcal{L}}{dt} = \eta \cdot \nabla_{\theta} \mathcal{J}(\theta) + \gamma \cdot \mathcal{E}[\xi_{\mathcal{L}}]$$
+$$
+\frac{d\mathcal{L}}{dt} = \eta \cdot \nabla_{\theta} \mathcal{J}(\theta) + \gamma \cdot \mathcal{E}[\xi_{\mathcal{L}}]
+$$
 
 Where $`\mathcal{J}(\theta)`$ is the learning objective function, $`\eta`$ is the learning rate, and $`\xi_{\mathcal{L}}`$ is exploration noise.
 
@@ -154,7 +182,9 @@ Where $`\mathcal{J}(\theta)`$ is the learning objective function, $`\eta`$ is th
 
 Slowing phenomenon as systems approach critical points:
 
-$$\tau_{recovery} \propto \frac{1}{|\lambda - \lambda_c|^{\nu}}$$
+$$
+\tau_{recovery} \propto \frac{1}{|\lambda - \lambda_c|^{\nu}}
+$$
 
 Where $`\tau_{recovery}`$ is the recovery time, $`\lambda_c`$ is the critical parameter, and $`\nu`$ is the critical exponent.
 
@@ -166,7 +196,9 @@ Early warning signal indicators:
 
 Critical slowing down and resilience warning function:
 
-$$W(t) = \alpha_W \cdot Var[X(t)] + \beta_W \cdot AC_1[X(t)] + \gamma_W \cdot \frac{d}{dt}Skew[X(t)]$$
+$$
+W(t) = \alpha_W \cdot Var[X(t)] + \beta_W \cdot AC_1[X(t)] + \gamma_W \cdot \frac{d}{dt}Skew[X(t)]
+$$
 
 Where $`X(t)`$ is the system observation variable, and $`Var`$, $`AC_1`$, and $`Skew`$ are variance, first-order autocorrelation, and skewness, respectively.
 
@@ -174,7 +206,9 @@ Where $`X(t)`$ is the system observation variable, and $`Var`$, $`AC_1`$, and $`
 
 Collective behavior model in crises:
 
-$$\Psi_{collective} = \Phi(\{\psi_i\}, \mathcal{N}, \mathcal{I})$$
+$$
+\Psi_{collective} = \Phi(\{\psi_i\}, \mathcal{N}, \mathcal{I})
+$$
 
 Where $`\{\psi_i\}`$ is the set of individual states, $`\mathcal{N}`$ is the social network structure, and $`\mathcal{I}`$ is the information environment.
 
@@ -186,7 +220,9 @@ Main forms of collective behavior:
 
 Critical transition equation for collective behavior:
 
-$$\frac{dB_c}{dt} = \alpha_B \cdot B_c(1-\frac{B_c}{K}) - \beta_B \cdot \frac{B_c^n}{B_c^n + \theta^n} + \gamma_B \cdot \sum_j w_{ij}B_j$$
+$$
+\frac{dB_c}{dt} = \alpha_B \cdot B_c(1-\frac{B_c}{K}) - \beta_B \cdot \frac{B_c^n}{B_c^n + \theta^n} + \gamma_B \cdot \sum_j w_{ij}B_j
+$$
 
 Where $`B_c`$ is the collective behavior variable, $`K`$ is the capacity parameter, and $`\theta`$ is the threshold parameter.
 
@@ -194,7 +230,9 @@ Where $`B_c`$ is the collective behavior variable, $`K`$ is the capacity paramet
 
 Formal representation of post-crisis system restructuring:
 
-$$\mathcal{S}_{post} = \mathcal{T}(\mathcal{S}_{pre}, \mathcal{P}, \Delta I)$$
+$$
+\mathcal{S}_{post} = \mathcal{T}(\mathcal{S}_{pre}, \mathcal{P}, \Delta I)
+$$
 
 Where $`\mathcal{S}_{pre}`$ is the pre-crisis system state, $`\mathcal{P}`$ is the perturbation, $`\Delta I`$ is the information increment, and $`\mathcal{T}`$ is the transformation operator.
 
@@ -206,7 +244,9 @@ Diversity of recovery paths:
 
 Energy-information relationship in system restructuring processes:
 
-$$\Delta S_{struct} = \beta \cdot \Delta E - \alpha \cdot \Delta I$$
+$$
+\Delta S_{struct} = \beta \cdot \Delta E - \alpha \cdot \Delta I
+$$
 
 Where $`\Delta S_{struct}`$ is the structural entropy change, $`\Delta E`$ is the energy cost, and $`\Delta I`$ is the information gain.
 
@@ -216,7 +256,9 @@ Where $`\Delta S_{struct}`$ is the structural entropy change, $`\Delta E`$ is th
 
 Quantum-Classical Dualism-based resilience assessment framework:
 
-$$\mathcal{RE} = w_Q \cdot \mathcal{RE}_Q + w_C \cdot \mathcal{RE}_C + w_I \cdot \mathcal{RE}_I$$
+$$
+\mathcal{RE} = w_Q \cdot \mathcal{RE}_Q + w_C \cdot \mathcal{RE}_C + w_I \cdot \mathcal{RE}_I
+$$
 
 Where:
 - $`\mathcal{RE}_Q`$ is the quantum dimension assessment (adaptability, diversity, innovation)
@@ -226,7 +268,9 @@ Where:
 
 Multi-scale resilience integration:
 
-$$\mathcal{R}_{multi} = f(\mathcal{R}_{ind}, \mathcal{R}_{org}, \mathcal{R}_{comm}, \mathcal{R}_{soc}, \mathcal{T}_{scale})$$
+$$
+\mathcal{R}_{multi} = f(\mathcal{R}_{ind}, \mathcal{R}_{org}, \mathcal{R}_{comm}, \mathcal{R}_{soc}, \mathcal{T}_{scale})
+$$
 
 Where $`\mathcal{T}_{scale}`$ is the scale transformation tensor connecting resilience at individual, organizational, community, and societal scales.
 
@@ -234,7 +278,9 @@ Where $`\mathcal{T}_{scale}`$ is the scale transformation tensor connecting resi
 
 Dualism-based resilience enhancement strategies:
 
-$$\mathcal{S}_{enhance} = \arg\max_{S \in \mathcal{S}} \{R(\mathcal{S}_Q, \mathcal{S}_C, \mathcal{S}_I) | C(\mathcal{S}) \leq C_{max}\}$$
+$$
+\mathcal{S}_{enhance} = \arg\max_{S \in \mathcal{S}} \{R(\mathcal{S}_Q, \mathcal{S}_C, \mathcal{S}_I) | C(\mathcal{S}) \leq C_{max}\}
+$$
 
 Where $`R`$ is the resilience function, $`C(\mathcal{S})`$ is the strategy cost, and $`C_{max}`$ is the cost constraint.
 
@@ -246,7 +292,9 @@ Key enhancement strategies:
 
 Strategy benefit quantification model:
 
-$$B_{resilience} = \sum_i w_i \cdot B_i(t) \cdot (1 - e^{-\lambda_i t}) - \sum_j c_j \cdot C_j$$
+$$
+B_{resilience} = \sum_i w_i \cdot B_i(t) \cdot (1 - e^{-\lambda_i t}) - \sum_j c_j \cdot C_j
+$$
 
 Where $`B_i(t)`$ are various benefits changing over time, and $`C_j`$ are various costs.
 
@@ -254,7 +302,9 @@ Where $`B_i(t)`$ are various benefits changing over time, and $`C_j`$ are variou
 
 Crisis ethical decision framework:
 
-$$E_{crisis} = f(J, F, T, C, D)$$
+$$
+E_{crisis} = f(J, F, T, C, D)
+$$
 
 Where:
 - $`J`$ is the justice score
@@ -265,13 +315,17 @@ Where:
 
 Dynamic balance of ethical tensions:
 
-$$\frac{dE_{balance}}{dt} = \alpha_E(E_{ideal} - E_{actual}) - \beta_E\sum_i (E_i - \bar{E})^2 + \gamma_E\xi_E(t)$$
+$$
+\frac{dE_{balance}}{dt} = \alpha_E(E_{ideal} - E_{actual}) - \beta_E\sum_i (E_i - \bar{E})^2 + \gamma_E\xi_E(t)
+$$
 
 Describing the dynamic adjustment process of the ethical balance point.
 
 Ethical boundary principles for crisis resilience:
 
-$$L_{ethical} = \{r \in \mathcal{R} | \forall h \in \mathcal{H}, V(h) \geq V_{min}\}$$
+$$
+L_{ethical} = \{r \in \mathcal{R} | \forall h \in \mathcal{H}, V(h) \geq V_{min}\}
+$$
 
 Defining the human value bottom line that must be maintained in crisis response.
 
@@ -281,11 +335,15 @@ Defining the human value bottom line that must be maintained in crisis response.
 
 Crisis resilience is a special state of quantum social dynamics:
 
-$$\mathcal{R} \subset \mathcal{S}_Q|_{crisis}$$
+$$
+\mathcal{R} \subset \mathcal{S}_Q|_{crisis}
+$$
 
 Quantum-classical interactions of social systems in crises:
 
-$$|\Psi_{crisis}\rangle = \alpha_s|S_{stable}\rangle + \alpha_c|S_{chaos}\rangle + \alpha_t|S_{transform}\rangle$$
+$$
+|\Psi_{crisis}\rangle = \alpha_s|S_{stable}\rangle + \alpha_c|S_{chaos}\rangle + \alpha_t|S_{transform}\rangle
+$$
 
 Where $`|\alpha_s|^2 + |\alpha_c|^2 + |\alpha_t|^2 = 1`$, with proportions dynamically changing as the crisis evolves.
 
@@ -293,13 +351,17 @@ Where $`|\alpha_s|^2 + |\alpha_c|^2 + |\alpha_t|^2 = 1`$, with proportions dynam
 
 Observer network dynamics in crises:
 
-$$\mathcal{O}_{net}(C) = \{O_i, L_{ij}, \mathcal{C}_i, \mathcal{I}_{ij}\}|_{crisis}$$
+$$
+\mathcal{O}_{net}(C) = \{O_i, L_{ij}, \mathcal{C}_i, \mathcal{I}_{ij}\}|_{crisis}
+$$
 
 Where $`O_i`$ are observer nodes, $`L_{ij}`$ are observer connections, $`\mathcal{C}_i`$ are classicalization operators, and $`\mathcal{I}_{ij}`$ is information exchange.
 
 Relationship between observer dimension and crisis perception:
 
-$$P_{crisis}(O_i) = f(D_{O_i}, \lambda_{crisis}, \gamma_{network})$$
+$$
+P_{crisis}(O_i) = f(D_{O_i}, \lambda_{crisis}, \gamma_{network})
+$$
 
 Indicating that observer dimension $`D_{O_i}`$ influences crisis perception and processing ability.
 
@@ -307,11 +369,15 @@ Indicating that observer dimension $`D_{O_i}`$ influences crisis perception and 
 
 Unified framework for crisis resilience and phase transition theory:
 
-$$\mathcal{R} \sim \mathcal{PT}|_{socio-technical}$$
+$$
+\mathcal{R} \sim \mathcal{PT}|_{socio-technical}
+$$
 
 Crisis as a phase transition process of socio-technical systems:
 
-$$\frac{d\mathcal{O}}{dt} = -\frac{\delta F[\mathcal{O}]}{\delta \mathcal{O}} + \eta(x,t)$$
+$$
+\frac{d\mathcal{O}}{dt} = -\frac{\delta F[\mathcal{O}]}{\delta \mathcal{O}} + \eta(x,t)
+$$
 
 Where $`\mathcal{O}`$ is the order parameter, $`F`$ is free energy, and $`\eta`$ is random force.
 
@@ -335,4 +401,4 @@ Quantum-Classical Crisis Resilience Theory reveals through a dualistic perspecti
 - [Interface Theory](formal_theory_interface_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Quantum-Classical Interaction Technologies](formal_theory_interaction_en.md)
-- [Quantum-Classical Crisis Resilience Theory (This Document)](formal_theory_crisis_resilience_en.md) 
+- [Quantum-Classical Crisis Resilience Theory (This Document)](formal_theory_crisis_resilience_en.md)

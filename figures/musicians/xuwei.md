@@ -1,11 +1,11 @@
 # 许魏（许巍）：量子经典二元论视角下的摇滚诗人
 # Xu Wei: Rock Poet Through the Lens of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
 
-**章节链接 | Section Links**  
-中文：[艺术家简介](#艺术家简介) | [作品索引](#作品索引) | [创作哲学](#创作哲学) | [代表作品分析](#代表作品分析) | [量子经典二元论视角](#量子经典二元论视角) | [意识维度与超越](#意识维度与超越) | [艺术影响](#艺术影响)  
+**章节链接 | Section Links**
+中文：[艺术家简介](#艺术家简介) | [作品索引](#作品索引) | [创作哲学](#创作哲学) | [代表作品分析](#代表作品分析) | [量子经典二元论视角](#量子经典二元论视角) | [意识维度与超越](#意识维度与超越) | [艺术影响](#艺术影响)
 English: [Artist Introduction](#artist-introduction) | [Works Index](#works-index) | [Creative Philosophy](#creative-philosophy) | [Analysis of Representative Works](#analysis-of-representative-works) | [Quantum-Classical Dualism Perspective](#quantum-classical-dualism-perspective) | [Consciousness Dimension and Transcendence](#consciousness-dimension-and-transcendence) | [Artistic Influence](#artistic-influence)
 
 ## 中文版
@@ -63,7 +63,7 @@ English: [Artist Introduction](#artist-introduction) | [Works Index](#works-inde
 《蓝莲花》收录于2002年专辑《时光·漫步》，是许巍最具代表性的作品之一。从量子经典二元论视角看，这首歌呈现了理想经典化状态与观察者维度提升的过程：
 
 1. "盛开着永不凋零蓝莲花"象征经典化后的稳定低熵状态，是对抗宇宙熵增的完美表达。
-   
+
 2. "穿过幽暗的岁月"描述了从高熵混沌状态到低熵稳定状态的转变过程，体现了经典化路径的艰难性。
 
 3. "低头发觉脚下的路"暗示观察者经典化的关键时刻—当观察者意识聚焦时，量子可能性被塌缩为经典现实。
@@ -420,4 +420,4 @@ $$
 \text{Dissemination Efficiency} = \frac{N_{\text{Number of Receiving Observers}} \cdot I_{\text{Amount of Information Obtained by a Single Observer}}}{E_{\text{Total Energy Consumed in Creation and Dissemination}}}
 $$
 
-Xu Wei's artistic achievement lies not only in its aesthetic value but also in its function as a special classicalization medium, achieving efficient knowledge transmission and dimension elevation, promoting the philosophical depth and artistic height of Chinese popular music. 
+Xu Wei's artistic achievement lies not only in its aesthetic value but also in its function as a special classicalization medium, achieving efficient knowledge transmission and dimension elevation, promoting the philosophical depth and artistic height of Chinese popular music.

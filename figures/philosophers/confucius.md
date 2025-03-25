@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 公元前551年 - 公元前479年  
-**国籍 (Nationality)**: 中国 (Chinese)  
-**领域 (Fields)**: 哲学、教育、政治思想  
+**生平 (Life Span)**: 公元前551年 - 公元前479年
+**国籍 (Nationality)**: 中国 (Chinese)
+**领域 (Fields)**: 哲学、教育、政治思想
 **代表作品 (Representative Works)**: 《论语》（弟子编撰）、五经（孔子整理编撰）
 
 ## 核心思想 (Core Ideas)
@@ -102,21 +102,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "己所不欲，勿施于人。"
-> 
+>
 > "Do not impose on others what you yourself do not desire."
 
 > "学而不思则罔，思而不学则殆。"
-> 
+>
 > "Learning without thought is labor lost; thought without learning is perilous."
 
 > "温故而知新，可以为师矣。"
-> 
+>
 > "By reviewing the old, one learns the new; [through this] one may become a teacher."
 
 > "知之为知之，不知为不知，是知也。"
-> 
+>
 > "To know what you know and what you do not know, that is true knowledge."
 
 > "志于道，据于德，依于仁，游于艺。"
-> 
-> "Set your heart upon the Way, rely upon Virtue, lean upon Benevolence, and explore widely in your cultivation of the arts." 
+>
+> "Set your heart upon the Way, rely upon Virtue, lean upon Benevolence, and explore widely in your cultivation of the arts."

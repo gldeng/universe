@@ -1,10 +1,10 @@
 # 《攻壳机动队》：量子经典二元论视角分析
 # "Ghost in the Shell": Analysis from Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**  
-[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)  
-**章节链接 | Section Links**  
-中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [意识与壳体的二元性](#二意识与壳体的二元性--duality-of-consciousness-and-shell) | [傀儡师与网络意识](#三傀儡师与网络意识--the-puppet-master-and-network-consciousness) | [量子纠缠与合并](#四量子纠缠与合并--quantum-entanglement-and-merger) | [结论](#五结论--conclusion)  
+**导航 | Navigation**
+[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)
+**章节链接 | Section Links**
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [意识与壳体的二元性](#二意识与壳体的二元性--duality-of-consciousness-and-shell) | [傀儡师与网络意识](#三傀儡师与网络意识--the-puppet-master-and-network-consciousness) | [量子纠缠与合并](#四量子纠缠与合并--quantum-entanglement-and-merger) | [结论](#五结论--conclusion)
 English: [Abstract](#abstract--chinese-below) | [Introduction](#i-introduction--chinese-above) | [Duality of Consciousness and Shell](#ii-duality-of-consciousness-and-shell--chinese-above) | [The Puppet Master and Network Consciousness](#iii-the-puppet-master-and-network-consciousness--chinese-above) | [Quantum Entanglement and Merger](#iv-quantum-entanglement-and-merger--chinese-above) | [Conclusion](#v-conclusion--chinese-above)
 
 ## 摘要 | Abstract
@@ -231,4 +231,4 @@ $$
 
 3. The merger of Kusanagi and the Puppet Master symbolizes the formation of a high-dimensional observer due to quantum entanglement, embodying the essence of dimension transition and evolution.
 
-The philosophical contemplation of the nature of consciousness in "Ghost in the Shell" provides vivid metaphors and references for Quantum-Classical Dualism to understand consciousness evolution in a highly technologized society. Kusanagi's exploration of the unknown future at the end of the film also aligns with the eternal theme in Quantum-Classical Dualism of observers constantly pursuing higher dimensions and higher classicalization efficiency. 
+The philosophical contemplation of the nature of consciousness in "Ghost in the Shell" provides vivid metaphors and references for Quantum-Classical Dualism to understand consciousness evolution in a highly technologized society. Kusanagi's exploration of the unknown future at the end of the film also aligns with the eternal theme in Quantum-Classical Dualism of observers constantly pursuing higher dimensions and higher classicalization efficiency.

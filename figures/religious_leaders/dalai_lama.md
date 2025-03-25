@@ -176,7 +176,7 @@ As the 14th Dalai Lama, Tenzin Gyatso has become not only the spiritual leader o
 
 ## 经典引言 | Classic Quotes
 
-> "我的宗教很简单，我的宗教是仁慈。" 
+> "我的宗教很简单，我的宗教是仁慈。"
 >
 > "My religion is very simple. My religion is kindness."
 
@@ -186,4 +186,4 @@ As the 14th Dalai Lama, Tenzin Gyatso has become not only the spiritual leader o
 
 > "如果你认为自己太渺小而不能有所作为，那么试想和蚊子同睡一个房间的情景。"
 >
-> "If you think you are too small to make a difference, try sleeping with a mosquito." 
+> "If you think you are too small to make a difference, try sleeping with a mosquito."

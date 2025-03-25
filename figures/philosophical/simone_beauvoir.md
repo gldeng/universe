@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1908年1月9日 - 1986年4月14日  
-**国籍 (Nationality)**: 法国 (French)  
-**领域 (Fields)**: 哲学、女性主义、文学、存在主义  
+**生平 (Life Span)**: 1908年1月9日 - 1986年4月14日
+**国籍 (Nationality)**: 法国 (French)
+**领域 (Fields)**: 哲学、女性主义、文学、存在主义
 **代表作品 (Representative Works)**: 《第二性》、《人都会死》、《模糊的胜利》、《玛黛尔娜》
 
 ## 核心思想 (Core Ideas)
@@ -94,21 +94,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "女人不是天生的，而是后天形成的。"
-> 
+>
 > "One is not born, but rather becomes, a woman."
 
 > "代表男性的是人类，代表女性的只是性别。"
-> 
+>
 > "Representation of the world, like the world itself, is the work of men; they describe it from their own point of view, which they confuse with absolute truth."
 
 > "每一个以真实方式主张自由的个体，都不可避免地主张他人的自由。"
-> 
+>
 > "Every individual concerned with justifying his existence feels that his existence involves an undefined need to transcend himself, to engage in freely chosen projects."
 
 > "改变自己的生活首先意味着要了解它。"
-> 
+>
 > "Change your life today. Don't gamble on the future, act now, without delay."
 
 > "女性之美不在于她的外表，而在于她的精神生活。关心她的身体而非她的灵魂的男人不是真正的爱人，而是掘墓人。"
-> 
-> "The beauty of a woman is not in the clothes she wears, the figure that she carries, or the way she combs her hair. The beauty of a woman is seen in her eyes, because that is the doorway to her heart, the place where love resides." 
+>
+> "The beauty of a woman is not in the clothes she wears, the figure that she carries, or the way she combs her hair. The beauty of a woman is seen in her eyes, because that is the doorway to her heart, the place where love resides."

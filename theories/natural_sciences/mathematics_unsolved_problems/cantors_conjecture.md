@@ -320,4 +320,4 @@ Based on the formal analysis above, quantum-classical dualism predicts:
 3. Cohen, P. J. (1963). The independence of the continuum hypothesis. Proceedings of the National Academy of Sciences, 50(6), 1143-1148.
 4. Jech, T. (2003). Set Theory: The Third Millennium Edition, Revised and Expanded. Springer.
 5. Woodin, W. H. (2001). The Continuum Hypothesis, Part I. Notices of the AMS, 48(6), 567-576.
-6. 量子经典二元论核心理论文献 [29.1]. 
+6. 量子经典二元论核心理论文献 [29.1].

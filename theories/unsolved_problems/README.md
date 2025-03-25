@@ -81,19 +81,27 @@
 
 量子经典二元论框架下的基础公式：
 
-$$|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1$$
+$$
+|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+$$
 
 经典化过程表达式：
 
-$$|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}$$
+$$
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
+$$
 
 经典信息守恒公式：
 
-$$I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}$$
+$$
+I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
+$$
 
 观察者维度公式：
 
-$$\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+$$
+\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+$$
 
 ## English Version
 
@@ -170,16 +178,24 @@ This directory contains formalized solutions to humanity's most important unsolv
 
 Fundamental formulas within the Quantum-Classical Dualism framework:
 
-$$|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1$$
+$$
+|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+$$
 
 Classicalization process expression:
 
-$$|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Decoding}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}$$
+$$
+|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Decoding}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
+$$
 
 Classical information conservation formula:
 
-$$I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}$$
+$$
+I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}
+$$
 
 Observer dimension formula:
 
-$$\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}$$ 
+$$
+\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
+$$

@@ -35,25 +35,35 @@
 
 1. **叠加态的叙事结构**：马尔克斯的作品中，现实与魔幻、历史与神话同时存在于叠加状态，可表示为：
 
-$$|\psi\rangle_{\text{马尔克斯叙事}} = \alpha |\text{经典现实}\rangle + \beta |\text{量子魔幻}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1$$
+$$
+|\psi\rangle_{\text{马尔克斯叙事}} = \alpha |\text{经典现实}\rangle + \beta |\text{量子魔幻}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1
+$$
 
 2. **《百年孤独》的时间非线性**：作品中循环、预言与记忆交织的时间结构体现了量子时间的非局域性：
 
-$$T_{\text{马尔克斯}} = \sum_i w_i T_i \quad \text{其中} \quad T_i \cap T_j \neq \emptyset \quad \text{当} \quad i \neq j$$
+$$
+T_{\text{马尔克斯}} = \sum_i w_i T_i \quad \text{其中} \quad T_i \cap T_j \neq \emptyset \quad \text{当} \quad i \neq j
+$$
 
 这种时间观与量子经典二元论中的量子域非局域时间特性高度一致。
 
 3. **集体记忆作为量子纠缠**：马尔克斯笔下的集体记忆可被理解为一种社会量子纠缠态：
 
-$$|\Psi_{\text{集体记忆}}\rangle = \sum_{ij} c_{ij} |\text{个体}_i\rangle |\text{历史}_j\rangle \quad \text{无法分解为} \quad \sum_i |\text{个体}_i\rangle \otimes \sum_j |\text{历史}_j\rangle$$
+$$
+|\Psi_{\text{集体记忆}}\rangle = \sum_{ij} c_{ij} |\text{个体}_i\rangle |\text{历史}_j\rangle \quad \text{无法分解为} \quad \sum_i |\text{个体}_i\rangle \otimes \sum_j |\text{历史}_j\rangle
+$$
 
 4. **魔幻事件作为量子涌现**：小说中的魔幻元素（如升天、预言等）可视为量子可能性在经典域的涌现：
 
-$$|\psi\rangle_{\text{量子可能性}} \xrightarrow{\text{涌现}} I_{\text{魔幻事件}} + S_{\text{现实背景}}$$
+$$
+|\psi\rangle_{\text{量子可能性}} \xrightarrow{\text{涌现}} I_{\text{魔幻事件}} + S_{\text{现实背景}}
+$$
 
 5. **孤独的本体论意义**：《百年孤独》中反复出现的"孤独"主题反映了观察者在经典化过程中的本质隔离：
 
-$$D_{\text{观察者}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{个体知识}}}{S_{\text{集体熵}}+\epsilon} \propto \text{孤独程度}$$
+$$
+D_{\text{观察者}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{个体知识}}}{S_{\text{集体熵}}+\epsilon} \propto \text{孤独程度}
+$$
 
 ### 现代意义
 
@@ -90,25 +100,35 @@ From the perspective of Quantum-Classical Dualism (version 31.0), Márquez's mag
 
 1. **Superposition State of Narrative Structure**: In Márquez's works, reality and magic, history and myth coexist in a superposition state, representable as:
 
-$$|\psi\rangle_{\text{Márquez Narrative}} = \alpha |\text{Classical Reality}\rangle + \beta |\text{Quantum Magic}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1$$
+$$
+|\psi\rangle_{\text{Márquez Narrative}} = \alpha |\text{Classical Reality}\rangle + \beta |\text{Quantum Magic}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1
+$$
 
 2. **Non-linearity of Time in "One Hundred Years of Solitude"**: The intertwining of cyclical time, prophecy, and memory in the work demonstrates the non-locality of quantum time:
 
-$$T_{\text{Márquez}} = \sum_i w_i T_i \quad \text{where} \quad T_i \cap T_j \neq \emptyset \quad \text{when} \quad i \neq j$$
+$$
+T_{\text{Márquez}} = \sum_i w_i T_i \quad \text{where} \quad T_i \cap T_j \neq \emptyset \quad \text{when} \quad i \neq j
+$$
 
 This view of time is highly consistent with the non-local time characteristics of the quantum domain in quantum-classical dualism.
 
 3. **Collective Memory as Quantum Entanglement**: The collective memory in Márquez's writing can be understood as a form of social quantum entanglement:
 
-$$|\Psi_{\text{Collective Memory}}\rangle = \sum_{ij} c_{ij} |\text{Individual}_i\rangle |\text{History}_j\rangle \quad \text{not decomposable as} \quad \sum_i |\text{Individual}_i\rangle \otimes \sum_j |\text{History}_j\rangle$$
+$$
+|\Psi_{\text{Collective Memory}}\rangle = \sum_{ij} c_{ij} |\text{Individual}_i\rangle |\text{History}_j\rangle \quad \text{not decomposable as} \quad \sum_i |\text{Individual}_i\rangle \otimes \sum_j |\text{History}_j\rangle
+$$
 
 4. **Magical Events as Quantum Emergence**: Magical elements in the novels (such as ascension, prophecy) can be seen as quantum possibilities emerging in the classical domain:
 
-$$|\psi\rangle_{\text{Quantum Possibilities}} \xrightarrow{\text{Emergence}} I_{\text{Magical Events}} + S_{\text{Reality Background}}$$
+$$
+|\psi\rangle_{\text{Quantum Possibilities}} \xrightarrow{\text{Emergence}} I_{\text{Magical Events}} + S_{\text{Reality Background}}
+$$
 
 5. **Ontological Significance of Solitude**: The recurring theme of "solitude" in "One Hundred Years of Solitude" reflects the essential isolation of observers in the classicalization process:
 
-$$D_{\text{Observer}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{Individual Knowledge}}}{S_{\text{Collective Entropy}}+\epsilon} \propto \text{Degree of Solitude}$$
+$$
+D_{\text{Observer}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{Individual Knowledge}}}{S_{\text{Collective Entropy}}+\epsilon} \propto \text{Degree of Solitude}
+$$
 
 ### Modern Significance
 

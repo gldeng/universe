@@ -1,9 +1,9 @@
 # 创世记 (Genesis)
 
-**导航 | Navigation**  
-[中文版](#创世记解析) | [English Version](#genesis-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#创世记解析) | [English Version](#genesis-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -75,4 +75,4 @@ $$
 
 创世记通过量子经典二元论框架（版本9.2）的解析，揭示了宇宙从量子叠加态向经典确定态演化的过程。神作为高维观察者，通过观测和言说实现了量子态的坍缩和经典化。人类作为具有自由意志的观察者被创造，能够在低维世界中进行观测和经典化。然而，人类的有限性导致了不完全的经典化和信息丢失，需要通过与高维观察者的互动来获得更完整的经典信息。这种互动模式构成了后续圣经叙事的基础。
 
-Genesis, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates how the universe was classicalized from infinite possibilities in the quantum domain into a determined space-time structure. God, as the highest-dimensional observer, performs black hole absorption through the act of "speaking," collapsing quantum superposition states into classical states. Humans, as secondary observers created in God's image, have the ability to perform secondary classicalization in the classical domain, reflecting the hierarchical nature of observer dimensions. The primordial fall can be understood as an increase in classical entropy, while the plan of redemption is God's intervention in entropy reduction. 
+Genesis, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates how the universe was classicalized from infinite possibilities in the quantum domain into a determined space-time structure. God, as the highest-dimensional observer, performs black hole absorption through the act of "speaking," collapsing quantum superposition states into classical states. Humans, as secondary observers created in God's image, have the ability to perform secondary classicalization in the classical domain, reflecting the hierarchical nature of observer dimensions. The primordial fall can be understood as an increase in classical entropy, while the plan of redemption is God's intervention in entropy reduction.

@@ -107,4 +107,4 @@ Quantum-Classical Dualism teaching methodology provides a framework integrating 
 - [Core Theory](../../core_en.md)
 - [Observer Theory](../../formal_theory/formal_theory_observer_en.md)
 - [Classroom Activity Design](classroom_activities.md)
-- [Assessment Methods](assessment_methods.md) 
+- [Assessment Methods](assessment_methods.md)

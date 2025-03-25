@@ -1,9 +1,9 @@
 # 生物学视角下的量子经典二元论 (Quantum-Classical Dualism from Biological Perspective)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#引言生物学与量子经典二元论) | [分子生物学视角](#分子生物学视角) | [细胞生物学视角](#细胞生物学视角) | [进化生物学视角](#进化生物学视角) | [生态学视角](#生态学视角)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#引言生物学与量子经典二元论) | [分子生物学视角](#分子生物学视角) | [细胞生物学视角](#细胞生物学视角) | [进化生物学视角](#进化生物学视角) | [生态学视角](#生态学视角)
 English: [Introduction](#introduction-biology-and-quantum-classical-dualism) | [Molecular Biology Perspective](#molecular-biology-perspective) | [Cell Biology Perspective](#cell-biology-perspective) | [Evolutionary Biology Perspective](#evolutionary-biology-perspective) | [Ecology Perspective](#ecology-perspective)
 
 ## 索引
@@ -312,4 +312,4 @@ I_{\text{发育轨迹（经典知识）}} + S_{\text{发育可塑性（经典熵
 
 Biology, as the science studying life phenomena, focuses on the structure, function, evolution, and interactions of living systems at levels ranging from molecules to ecosystems, and has multi-level conceptual correspondences with Quantum-Classical Dualism. Core phenomena in biology, such as information storage and expression, multi-level complex self-organizing systems, and processes of evolution and adaptation, all bear striking similarities to the quantum-classical dual structure, classicalization process, and observer network in Quantum-Classical Dualism. Through the biological perspective, we can more intuitively understand the application of Quantum-Classical Dualism in the field of life sciences, and explore its implications for biological theory and practice.
 
-[English content continues with detailed sections corresponding to the Chinese version...] 
+[English content continues with detailed sections corresponding to the Chinese version...]

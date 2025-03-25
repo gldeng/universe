@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[物理学视角](#1-物理学视角) | [信息科学视角](#2-信息科学视角) | [生物学视角](#3-生物学视角) | [脑科学视角](#4-脑科学视角) | [心理学视角](#5-心理学视角)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[物理学视角](#1-物理学视角) | [信息科学视角](#2-信息科学视角) | [生物学视角](#3-生物学视角) | [脑科学视角](#4-脑科学视角) | [心理学视角](#5-心理学视角)
 English: [Physics Perspective](#1-physics-perspective) | [Information Science](#2-information-science-perspective) | [Biology Perspective](#3-biology-perspective) | [Brain Science](#4-brain-science-perspective) | [Psychology Perspective](#5-psychology-perspective)
 
 ## 中文版
@@ -414,4 +414,4 @@ The relationship between observer dimension elevation and low-dimensional observ
 
 ### Conclusion
 
-The core theory of Quantum-Classical Dualism can be explained through multiple perspectives of mainstream science, indicating that the theory is compatible with modern scientific conceptual frameworks. The integration of different disciplinary perspectives provides multi-dimensional theoretical support for understanding the nature of the universe, consciousness, and information. 
+The core theory of Quantum-Classical Dualism can be explained through multiple perspectives of mainstream science, indicating that the theory is compatible with modern scientific conceptual frameworks. The integration of different disciplinary perspectives provides multi-dimensional theoretical support for understanding the nature of the universe, consciousness, and information.

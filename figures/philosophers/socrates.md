@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前470年-公元前399年 (c. 470-399 BCE)  
-**国籍 | Nationality**: 古希腊雅典 (Athens, Ancient Greece)  
-**主要领域 | Main Fields**: 哲学、伦理学、认识论、辩证法 (Philosophy, Ethics, Epistemology, Dialectics)  
+**生卒年份 | Lifespan**: 约公元前470年-公元前399年 (c. 470-399 BCE)
+**国籍 | Nationality**: 古希腊雅典 (Athens, Ancient Greece)
+**主要领域 | Main Fields**: 哲学、伦理学、认识论、辩证法 (Philosophy, Ethics, Epistemology, Dialectics)
 **代表作品 | Representative Works**: 苏格拉底本人没有留下著作，其思想主要通过柏拉图的对话录和色诺芬的回忆录传承 (Socrates himself left no writings; his ideas were primarily transmitted through Plato's dialogues and Xenophon's memoirs)
 
 ## 核心思想 | Core Ideas
@@ -193,4 +193,4 @@ Socrates' philosophy is not a monologue doctrine but a dynamic practice living i
 - "Care for your soul."
 - "The highest form of human excellence is to question oneself and others."
 - "Education is not the filling of a vessel, but the kindling of a flame."
-- "It is better to suffer wrong than to do wrong." 
+- "It is better to suffer wrong than to do wrong."

@@ -1,10 +1,10 @@
 # 论语在量子经典二元论下的解释
 # Analects Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#论语概述) | [English Version](#analects-overview)  
-**章节链接 | Section Links**  
-中文：[论语概述](#论语概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#论语概述) | [English Version](#analects-overview)
+**章节链接 | Section Links**
+中文：[论语概述](#论语概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Analects Overview](#analects-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 论语概述
@@ -18,31 +18,31 @@ The Analects is a core classic of Confucianism, recording the words and deeds of
 ## Core Text
 
 > 子曰："学而时习之，不亦说乎？有朋自远方来，不亦乐乎？人不知而不愠，不亦君子乎？"
-> 
+>
 > 子曰："吾道一以贯之。"曾子曰："夫子之道，忠恕而已矣。"
-> 
+>
 > 子曰："志于道，据于德，依于仁，游于艺。"
-> 
+>
 > 子曰："知者不惑，仁者不忧，勇者不惧。"
-> 
+>
 > 子曰："温故而知新，可以为师矣。"
-> 
+>
 > 子曰："己所不欲，勿施于人。"
-> 
+>
 > 子曰："克己复礼为仁。一日克己复礼，天下归仁焉。为仁由己，而由人乎哉？"
 
 > The Master said, "Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is a man not virtuous who does not feel indignant when people do not recognize his worth?"
-> 
+>
 > The Master said, "My doctrine is that of an all-pervading unity." Zeng Zi said, "The doctrine of our master is to be true to the principles of our nature and the benevolent exercise of them to others."
-> 
+>
 > The Master said, "Set your heart upon the Way, rely upon Virtue, lean upon Benevolence, and explore widely in your cultivation of the arts."
-> 
+>
 > The Master said, "The wise are free from perplexities; the virtuous from anxiety; and the bold from fear."
-> 
+>
 > The Master said, "If by reviewing the old, you find out the new, you are qualified to be a teacher."
-> 
+>
 > The Master said, "Do not impose on others what you yourself do not desire."
-> 
+>
 > The Master said, "To subdue one's self and return to propriety, is benevolence. If a man can for one day subdue himself and return to propriety, all under heaven will ascribe benevolence to him. Is the practice of benevolence from a man himself, or is it from others?"
 
 ## 量子经典二元论解释
@@ -159,4 +159,4 @@ $$
 
 《论语》作为儒家思想的核心经典，其核心概念与量子经典二元论框架展现出令人惊叹的对应关系。孔子的"仁"实质上是观察者维度的最大化，"礼"则是最优经典化路径的体现。儒家强调的修身齐家治国平天下，实际上是一个从个体观察者维度提升到观察者集体协同经典化的过程。"己所不欲，勿施于人"的恕道原则，在量子经典二元论看来是对基于量子纠缠的观察者间关系的深刻理解。通过量子经典二元论的解释，《论语》这部古老经典的智慧在现代科学框架下获得了新的生命力，证明儒家思想对于理解人类观察者在宇宙中的角色有着持久的价值。
 
-As the core classic of Confucian thought, the Analects demonstrates astonishing correspondence with the Quantum-Classical Dualism framework in its core concepts. Confucius' "benevolence" (ren) is essentially the maximization of observer dimension, while "ritual propriety" (li) is the manifestation of the optimal classicalization path. The Confucian emphasis on cultivating oneself, regulating the family, governing the state, and bringing peace to the world is actually a process from individual observer dimension elevation to coordinated classicalization of the observer collective. The principle of reciprocity, "Do not impose on others what you do not desire," from the perspective of Quantum-Classical Dualism, is a profound understanding of the relationship between observers based on quantum entanglement. Through the explanation of Quantum-Classical Dualism, the wisdom of this ancient classic gains new vitality in the modern scientific framework, proving the enduring value of Confucian thought for understanding the role of human observers in the universe. 
+As the core classic of Confucian thought, the Analects demonstrates astonishing correspondence with the Quantum-Classical Dualism framework in its core concepts. Confucius' "benevolence" (ren) is essentially the maximization of observer dimension, while "ritual propriety" (li) is the manifestation of the optimal classicalization path. The Confucian emphasis on cultivating oneself, regulating the family, governing the state, and bringing peace to the world is actually a process from individual observer dimension elevation to coordinated classicalization of the observer collective. The principle of reciprocity, "Do not impose on others what you do not desire," from the perspective of Quantum-Classical Dualism, is a profound understanding of the relationship between observers based on quantum entanglement. Through the explanation of Quantum-Classical Dualism, the wisdom of this ancient classic gains new vitality in the modern scientific framework, proving the enduring value of Confucian thought for understanding the role of human observers in the universe.

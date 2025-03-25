@@ -260,4 +260,4 @@ From the Quantum-Classical Dualism perspective, future directions of medicine in
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Medicine and health science are a special application area of Higher-Dimensional Information Classicalization, focusing on the quantum information classicalization process of the human body system and its optimization. Medical practice is essentially a conscious intervention in the classicalization process, aimed at maintaining or restoring the optimal classicalization state. 
+Medicine and health science are a special application area of Higher-Dimensional Information Classicalization, focusing on the quantum information classicalization process of the human body system and its optimization. Medical practice is essentially a conscious intervention in the classicalization process, aimed at maintaining or restoring the optimal classicalization state.

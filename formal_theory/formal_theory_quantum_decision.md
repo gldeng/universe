@@ -38,7 +38,9 @@
 
 决策过程可形式化为量子-经典决策算子 $`\mathcal{D}_{QC}`$ 的作用：
 
-$$\mathcal{D}_{QC}[\rho] = \sum_i p_i(\rho) |d_i\rangle\langle d_i|$$
+$$
+\mathcal{D}_{QC}[\rho] = \sum_i p_i(\rho) |d_i\rangle\langle d_i|
+$$
 
 其中：
 - $`\rho`$ 是决策前的心理量子态，包含所有可能选项的叠加
@@ -47,7 +49,9 @@ $$\mathcal{D}_{QC}[\rho] = \sum_i p_i(\rho) |d_i\rangle\langle d_i|$$
 
 概率函数 $`p_i(\rho)`$ 满足广义玻恩规则的扩展形式：
 
-$$p_i(\rho) = \text{Tr}(P_i \rho) \cdot \frac{e^{\eta_D \text{Tr}(P_i \rho)}}{Z}$$
+$$
+p_i(\rho) = \text{Tr}(P_i \rho) \cdot \frac{e^{\eta_D \text{Tr}(P_i \rho)}}{Z}
+$$
 
 其中 $`P_i = |d_i\rangle\langle d_i|`$ 是投影算符，$`\eta_D`$ 是决策放大参数，$`Z = \sum_j e^{\eta_D \text{Tr}(P_j \rho)}`$ 是归一化因子。
 
@@ -60,11 +64,15 @@ $$p_i(\rho) = \text{Tr}(P_i \rho) \cdot \frac{e^{\eta_D \text{Tr}(P_i \rho)}}{Z}
 
 在布洛赫球表示中，决策过程可视为状态矢量从量子叠加态区域向经典极点的投影：
 
-$$|\psi\rangle = \alpha|d_1\rangle + \beta|d_2\rangle \xrightarrow{\mathcal{D}_{QC}} |d_1\rangle 或 |d_2\rangle$$
+$$
+|\psi\rangle = \alpha|d_1\rangle + \beta|d_2\rangle \xrightarrow{\mathcal{D}_{QC}} |d_1\rangle 或 |d_2\rangle
+$$
 
 这一投影路径遵循最小作用原理，沿着能量-熵最优路径进行：
 
-$$\delta\int_{\tau_1}^{\tau_2} (E_{认知} - T\cdot S_{决策})d\tau = 0$$
+$$
+\delta\int_{\tau_1}^{\tau_2} (E_{认知} - T\cdot S_{决策})d\tau = 0
+$$
 
 其中 $`E_{认知}`$ 是认知能量，$`S_{决策}`$ 是决策熵，$`T`$ 是决策"温度"参数。
 
@@ -74,7 +82,9 @@ $$\delta\int_{\tau_1}^{\tau_2} (E_{认知} - T\cdot S_{决策})d\tau = 0$$
 
 决策系统的内部相干性可以量化为：
 
-$$C(\mathcal{D}) = \left|\sum_{i\neq j} \langle d_i|\rho|d_j\rangle\right|$$
+$$
+C(\mathcal{D}) = \left|\sum_{i\neq j} \langle d_i|\rho|d_j\rangle\right|
+$$
 
 相干性度量了决策过程中量子叠加的程度：
 - 高决策相干性对应直觉型决策（量子域主导）
@@ -82,7 +92,9 @@ $$C(\mathcal{D}) = \left|\sum_{i\neq j} \langle d_i|\rho|d_j\rangle\right|$$
 
 相干性与决策时间成反比：
 
-$$C(\mathcal{D}) \propto \frac{1}{t_{决策}}$$
+$$
+C(\mathcal{D}) \propto \frac{1}{t_{决策}}
+$$
 
 这解释了为什么快速决策通常更直觉，而深思熟虑的决策更理性。
 
@@ -90,7 +102,9 @@ $$C(\mathcal{D}) \propto \frac{1}{t_{决策}}$$
 
 决策系统与环境（包括社会环境、信息环境等）的纠缠度量为：
 
-$$E(\mathcal{D},\mathcal{E}) = S(\mathcal{D}) - S(\mathcal{D},\mathcal{E})$$
+$$
+E(\mathcal{D},\mathcal{E}) = S(\mathcal{D}) - S(\mathcal{D},\mathcal{E})
+$$
 
 其中 $`S(\mathcal{D})`$ 是决策系统的冯诺依曼熵，$`S(\mathcal{D},\mathcal{E})`$ 是联合系统的熵。
 
@@ -100,7 +114,9 @@ $$E(\mathcal{D},\mathcal{E}) = S(\mathcal{D}) - S(\mathcal{D},\mathcal{E})$$
 
 纠缠强度随社会距离衰减：
 
-$$E(\mathcal{D}_i,\mathcal{D}_j) \propto e^{-\alpha d_{ij}}$$
+$$
+E(\mathcal{D}_i,\mathcal{D}_j) \propto e^{-\alpha d_{ij}}
+$$
 
 其中 $`d_{ij}`$ 是决策者 $`i`$ 和 $`j`$ 之间的社会距离，$`\alpha`$ 是社会衰减系数。
 
@@ -108,7 +124,9 @@ $$E(\mathcal{D}_i,\mathcal{D}_j) \propto e^{-\alpha d_{ij}}$$
 
 量子贝叶斯决策框架扩展了经典贝叶斯决策理论，结合量子概率理论：
 
-$$\mathcal{B}_Q(d|e) = \mathcal{C}(\mathcal{M}_e(\rho_d))$$
+$$
+\mathcal{B}_Q(d|e) = \mathcal{C}(\mathcal{M}_e(\rho_d))
+$$
 
 其中：
 - $`\mathcal{M}_e`$ 是基于观测证据 $`e`$ 的量子测量算符
@@ -119,11 +137,15 @@ $$\mathcal{B}_Q(d|e) = \mathcal{C}(\mathcal{M}_e(\rho_d))$$
 
 当获得新证据 $`e`$ 时，决策态更新满足：
 
-$$\rho_d^{\text{后}} = \frac{\mathcal{M}_e(\rho_d^{\text{先}})}{\text{Tr}(\mathcal{M}_e(\rho_d^{\text{先}}))}$$
+$$
+\rho_d^{\text{后}} = \frac{\mathcal{M}_e(\rho_d^{\text{先}})}{\text{Tr}(\mathcal{M}_e(\rho_d^{\text{先}}))}
+$$
 
 其中量子测量算符 $`\mathcal{M}_e`$ 定义为：
 
-$$\mathcal{M}_e(\rho) = \sum_i E_i(e) \rho E_i(e)^{\dagger}$$
+$$
+\mathcal{M}_e(\rho) = \sum_i E_i(e) \rho E_i(e)^{\dagger}
+$$
 
 $`E_i(e)`$ 是与证据 $`e`$ 相关的Kraus算子。
 
@@ -131,7 +153,9 @@ $`E_i(e)`$ 是与证据 $`e`$ 相关的Kraus算子。
 
 量子贝叶斯框架可以产生经典贝叶斯理论无法解释的干涉效应：
 
-$$p(d_1|e_1 \text{ 和 } e_2) \neq p(d_1|e_1)p(e_1) + p(d_1|e_2)p(e_2)$$
+$$
+p(d_1|e_1 \text{ 和 } e_2) \neq p(d_1|e_1)p(e_1) + p(d_1|e_2)p(e_2)
+$$
 
 这解释了人类决策中观察到的"悖论"现象，如确定性效应和联合-分离效应。
 
@@ -139,7 +163,9 @@ $$p(d_1|e_1 \text{ 和 } e_2) \neq p(d_1|e_1)p(e_1) + p(d_1|e_2)p(e_2)$$
 
 决策过程中的量子-经典界面位置满足动态波动方程：
 
-$$\frac{d\mathcal{D}_c^{决策}}{dt} = \alpha\nabla^2\mathcal{D}_c^{决策} + \beta E_{待决策} - \gamma S_{决策压力}$$
+$$
+\frac{d\mathcal{D}_c^{决策}}{dt} = \alpha\nabla^2\mathcal{D}_c^{决策} + \beta E_{待决策} - \gamma S_{决策压力}
+$$
 
 其中：
 - $`\mathcal{D}_c^{决策}`$ 是决策界面位置参数
@@ -152,28 +178,44 @@ $$\frac{d\mathcal{D}_c^{决策}}{dt} = \alpha\nabla^2\mathcal{D}_c^{决策} + \b
 量子-经典界面位置可通过多种因素调控：
 
 1. **时间压力** - 增加时间压力使界面向量子域偏移：
-   $$\delta\mathcal{D}_c^{决策} \propto -\gamma_t \cdot \Delta t^{-1}$$
-   
+
+$$
+\delta\mathcal{D}_c^{决策} \propto -\gamma_t \cdot \Delta t^{-1}
+$$
+
 2. **决策复杂度** - 增加复杂度使界面向量子域偏移：
-   $$\delta\mathcal{D}_c^{决策} \propto -\gamma_c \cdot C_{复杂度}$$
-   
+
+$$
+\delta\mathcal{D}_c^{决策} \propto -\gamma_c \cdot C_{复杂度}
+$$
+
 3. **情绪状态** - 情绪激活使界面向量子域偏移：
-   $$\delta\mathcal{D}_c^{决策} \propto -\gamma_e \cdot |E_{情绪}|$$
+
+$$
+\delta\mathcal{D}_c^{决策} \propto -\gamma_e \cdot |E_{情绪}|
+$$
 
 4. **专业知识** - 专业知识使界面向经典域偏移：
-   $$\delta\mathcal{D}_c^{决策} \propto \gamma_k \cdot K_{专业}$$
+
+$$
+\delta\mathcal{D}_c^{决策} \propto \gamma_k \cdot K_{专业}
+$$
 
 ### 界面波动与决策稳定性
 
 界面位置的波动性与决策稳定性相关：
 
-$$\sigma_{\mathcal{D}_c} \propto \frac{1}{S_{决策}}$$
+$$
+\sigma_{\mathcal{D}_c} \propto \frac{1}{S_{决策}}
+$$
 
 其中 $`\sigma_{\mathcal{D}_c}`$ 是界面位置的标准差，$`S_{决策}`$ 是决策稳定性参数。
 
 界面波动解释了决策偏好的随时间变化和环境依赖性：
 
-$$\mathcal{D}_c^{决策}(t) = \mathcal{D}_c^{决策}(0) + \int_0^t F_{环境}(\tau)d\tau + \xi(t)$$
+$$
+\mathcal{D}_c^{决策}(t) = \mathcal{D}_c^{决策}(0) + \int_0^t F_{环境}(\tau)d\tau + \xi(t)
+$$
 
 其中 $`F_{环境}(t)`$ 是环境驱动力，$`\xi(t)`$ 是随机波动项。
 
@@ -185,22 +227,38 @@ $$\mathcal{D}_c^{决策}(t) = \mathcal{D}_c^{决策}(0) + \int_0^t F_{环境}(\t
 
 1. **直觉-理性平衡的环境依赖性**：
    在时间压力下，直觉决策权重增加，满足：
-   $$w_{直觉}/w_{理性} \propto (t_{可用}/t_{基准})^{-\alpha}$$
+
+$$
+w_{直觉}/w_{理性} \propto (t_{可用}/t_{基准})^{-\alpha}
+$$
+
    其中 $`\alpha \approx 0.7 \pm 0.1`$。
 
 2. **决策相干性的时间演化**：
    决策相干性随时间衰减，满足：
-   $$C(t) = C(0) \cdot e^{-t/\tau_C}$$
+
+$$
+C(t) = C(0) \cdot e^{-t/\tau_C}
+$$
+
    其中 $`\tau_C`$ 是相干时间，预测为 $`\tau_C \approx 2-5`$ 秒。
 
 3. **环境纠缠效应**：
    社会环境影响决策的强度随社会互动增强：
-   $$E_{社会纠缠} \propto \ln(N_{互动})$$
+
+$$
+E_{社会纠缠} \propto \ln(N_{互动})
+$$
+
    其中 $`N_{互动}`$ 是社会互动次数。
 
 4. **量子干涉条件**：
    当且仅当证据信息在认知上不可区分时，会出现干涉效应：
-   $$I_{干涉} > 0 \iff D(e_1, e_2) < D_c$$
+
+$$
+I_{干涉} > 0 \iff D(e_1, e_2) < D_c
+$$
+
    其中 $`D(e_1, e_2)`$ 是证据的认知区分度，$`D_c`$ 是临界区分阈值。
 
 ### 实验设计方案
@@ -233,47 +291,77 @@ $$\mathcal{D}_c^{决策}(t) = \mathcal{D}_c^{决策}(0) + \int_0^t F_{环境}(\t
 
 1. **市场行为模型**：
    解释金融市场中的非理性行为和过度波动：
-   $$R_{市场} = R_{基础价值} + R_{量子波动}$$
+
+$$
+R_{市场} = R_{基础价值} + R_{量子波动}
+$$
+
    其中 $`R_{量子波动}`$ 满足量子随机过程。
 
 2. **投资决策辅助**：
    开发考虑量子-经典平衡的投资决策工具：
-   $$U(投资) = w_Q \cdot U_Q(情感) + w_C \cdot U_C(理性)$$
+
+$$
+U(投资) = w_Q \cdot U_Q(情感) + w_C \cdot U_C(理性)
+$$
+
    其中 $`w_Q`$ 和 $`w_C`$ 是动态调整的权重。
 
 ### 医疗决策
 
 1. **临床决策支持**：
    综合直觉与分析推理的医疗决策系统：
-   $$P(诊断|症状) = \mathcal{C}(\mathcal{M}_{症状}(\rho_{疾病}))$$
+
+$$
+P(诊断|症状) = \mathcal{C}(\mathcal{M}_{症状}(\rho_{疾病}))
+$$
+
    其中 $`\rho_{疾病}`$ 是疾病概率的量子表示。
 
 2. **患者决策模型**：
    理解患者治疗选择中的框架效应和风险规避：
-   $$U(治疗) = f(收益,风险) + g(干涉项)$$
+
+$$
+U(治疗) = f(收益,风险) + g(干涉项)
+$$
+
    其中 $`g(干涉项)`$ 捕捉框架效应产生的偏差。
 
 ### 人工智能
 
 1. **量子启发的AI决策**：
    开发模拟量子决策过程的AI系统：
-   $$AI_{决策} = f(\phi_{量子},\phi_{经典},\mathcal{I}_{界面})$$
+
+$$
+AI_{决策} = f(\phi_{量子},\phi_{经典},\mathcal{I}_{界面})
+$$
+
    结合探索与利用的最优平衡。
 
 2. **人机交互设计**：
    根据用户认知状态动态调整界面复杂度：
-   $$C_{界面} = C_0 \cdot (1 - \beta \cdot \mathcal{D}_c^{用户})$$
+
+$$
+C_{界面} = C_0 \cdot (1 - \beta \cdot \mathcal{D}_c^{用户})
+$$
+
    其中 $`\mathcal{D}_c^{用户}`$ 是用户当前的量子-经典界面状态。
 
 ### 教育与组织管理
 
 1. **适应性学习系统**：
    根据学习者的量子-经典认知状态调整教学策略：
-   $$S_{教学} = f(C_{学习者}, \mathcal{D}_c^{学习}, K_{领域})$$
-   
+
+$$
+S_{教学} = f(C_{学习者}, \mathcal{D}_c^{学习}, K_{领域})
+$$
+
 2. **团队决策优化**：
    设计在不同决策类型上优化集体量子相干性的组织结构：
-   $$C_{团队} > \sum_i C_i \iff E_{集体智能} > \sum_i E_i$$
+
+$$
+C_{团队} > \sum_i C_i \iff E_{集体智能} > \sum_i E_i
+$$
 
 ## 开放问题与未来发展
 
@@ -283,32 +371,53 @@ $$\mathcal{D}_c^{决策}(t) = \mathcal{D}_c^{决策}(0) + \int_0^t F_{环境}(\t
 
 1. **决策相干性的精确测量**：
    开发在实际决策任务中量化相干性的方法论：
-   $$C_{测量}(\mathcal{D}) \approx f(行为指标, 神经指标)$$
+
+$$
+C_{测量}(\mathcal{D}) \approx f(行为指标, 神经指标)
+$$
 
 2. **决策空间的高维表示**：
    扩展到多维决策空间的数学形式：
-   $$\rho_d = \sum_{i,j} \rho_{ij} |d_i\rangle\langle d_j|, \quad |d_i\rangle \in \mathcal{H}_d^N$$
+
+$$
+\rho_d = \sum_{i,j} \rho_{ij} |d_i\rangle\langle d_j|, \quad |d_i\rangle \in \mathcal{H}_d^N
+$$
 
 3. **群体决策的量子模型**：
    形式化描述集体决策中的相干性和纠缠动力学：
-   $$\rho_{集体} \neq \bigotimes_i \rho_i$$
+
+$$
+\rho_{集体} \neq \bigotimes_i \rho_i
+$$
 
 ### 未来研究方向
 
 1. **发展量子决策神经科学**：
    研究大脑神经活动与量子决策参数的对应关系：
-   $$\mathcal{D}_c^{决策} \approx f(神经活动图样)$$
+
+$$
+\mathcal{D}_c^{决策} \approx f(神经活动图样)
+$$
 
 2. **量子决策治疗方法**：
    开发调节量子-经典界面位置的干预方法，用于决策障碍治疗：
-   $$\Delta\mathcal{D}_c^{治疗} = f(干预方法, 初始状态)$$
+
+$$
+\Delta\mathcal{D}_c^{治疗} = f(干预方法, 初始状态)
+$$
 
 3. **跨文化量子决策研究**：
    研究文化背景对量子-经典决策平衡的影响：
-   $$\mathcal{D}_c^{文化} = \mathcal{D}_c^{基础} + \delta(文化)$$
+
+$$
+\mathcal{D}_c^{文化} = \mathcal{D}_c^{基础} + \delta(文化)
+$$
 
 4. **量子强化学习模型**：
    开发整合量子决策原理的强化学习算法：
-   $$Q(s,a) = \mathcal{C}(\rho_{s,a}), \quad \rho_{s,a} \leftarrow \mathcal{U}(\rho_{s,a})$$
 
-量子决策理论为理解人类决策过程提供了一个强大而统一的框架，未来将继续整合认知科学、神经科学和量子信息理论的最新进展，开发更精确的模型和实际应用。 
+$$
+Q(s,a) = \mathcal{C}(\rho_{s,a}), \quad \rho_{s,a} \leftarrow \mathcal{U}(\rho_{s,a})
+$$
+
+量子决策理论为理解人类决策过程提供了一个强大而统一的框架，未来将继续整合认知科学、神经科学和量子信息理论的最新进展，开发更精确的模型和实际应用。

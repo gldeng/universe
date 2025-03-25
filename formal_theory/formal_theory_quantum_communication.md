@@ -24,11 +24,15 @@
 
 在量子经典二元论框架下，通信信息具有二元本质：
 
-$$I = \{I_Q, I_C, I_{\mathcal{I}}\}$$
+$$
+I = \{I_Q, I_C, I_{\mathcal{I}}\}
+$$
 
 其中 $`I_Q`$ 是量子域信息，$`I_C`$ 是经典域信息，$`I_{\mathcal{I}}`$ 是界面域信息。这三种信息类型遵循不同的动力学规律：
 
-$$\frac{dI_Q}{dt} = f_Q(I_Q, I_{\mathcal{I}}), \quad \frac{dI_C}{dt} = f_C(I_C, I_{\mathcal{I}}), \quad \frac{dI_{\mathcal{I}}}{dt} = f_{\mathcal{I}}(I_Q, I_C, I_{\mathcal{I}})$$
+$$
+\frac{dI_Q}{dt} = f_Q(I_Q, I_{\mathcal{I}}), \quad \frac{dI_C}{dt} = f_C(I_C, I_{\mathcal{I}}), \quad \frac{dI_{\mathcal{I}}}{dt} = f_{\mathcal{I}}(I_Q, I_C, I_{\mathcal{I}})
+$$
 
 传统量子通信仅利用 $`I_Q`$，而忽略了界面信息 $`I_{\mathcal{I}}`$ 的潜力。
 
@@ -36,15 +40,21 @@ $$\frac{dI_Q}{dt} = f_Q(I_Q, I_{\mathcal{I}}), \quad \frac{dI_C}{dt} = f_C(I_C, 
 
 量子经典二元论通信建立在信息守恒定律基础上：
 
-$$I_{\text{total}} = I_Q + I_C + I_{\mathcal{I}} = \text{常数}$$
+$$
+I_{\text{total}} = I_Q + I_C + I_{\mathcal{I}} = \text{常数}
+$$
 
 通信过程中，信息在三种形式间转换但总量保持不变。转换效率定义为：
 
-$$\eta_{Q\rightarrow C} = \frac{I_C^{\text{接收}}}{I_Q^{\text{发送}}}, \quad \eta_{C\rightarrow Q} = \frac{I_Q^{\text{接收}}}{I_C^{\text{发送}}}$$
+$$
+\eta_{Q\rightarrow C} = \frac{I_C^{\text{接收}}}{I_Q^{\text{发送}}}, \quad \eta_{C\rightarrow Q} = \frac{I_Q^{\text{接收}}}{I_C^{\text{发送}}}
+$$
 
 在理想条件下，最大理论效率为：
 
-$$\eta_{\text{max}} = 1 - \frac{S_{\text{通信系统}}}{I_{\text{发送}}}$$
+$$
+\eta_{\text{max}} = 1 - \frac{S_{\text{通信系统}}}{I_{\text{发送}}}
+$$
 
 其中 $`S_{\text{通信系统}}`$ 是通信系统的熵。
 
@@ -54,7 +64,9 @@ $$\eta_{\text{max}} = 1 - \frac{S_{\text{通信系统}}}{I_{\text{发送}}}$$
 
 二元论量子通信的关键创新是利用量子-经典界面态进行信息编码：
 
-$$|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle$$
+$$
+|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle
+$$
 
 其中 $`|q_i\rangle`$ 是量子态基矢，$`|c_i\rangle`$ 是经典态基矢。这种编码具有独特的优势：
 
@@ -64,7 +76,9 @@ $$|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle
 
 界面态编码的信息容量为：
 
-$$C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})$$
+$$
+C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})
+$$
 
 其中 $`d_Q`$ 和 $`d_C`$ 分别是量子和经典空间的维度，$`S(\rho_{\mathcal{I}})`$ 是界面态的冯诺依曼熵。
 
@@ -72,13 +86,17 @@ $$C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})$$
 
 界面波动传输是一种全新的通信机制，利用量子-经典界面上的波动传递信息：
 
-$$\mathcal{D}(x,t) = \mathcal{D}_0 + A\sin(kx - \omega t + \phi) + \delta\mathcal{D}(x,t)$$
+$$
+\mathcal{D}(x,t) = \mathcal{D}_0 + A\sin(kx - \omega t + \phi) + \delta\mathcal{D}(x,t)
+$$
 
 其中 $`\mathcal{D}(x,t)`$ 是解相干度量函数，$`\delta\mathcal{D}(x,t)`$ 包含编码的信息。通过调制界面波动的振幅、频率、相位和波形，可以实现高容量信息传输。
 
 界面波动的传播速度为：
 
-$$v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
+$$
+v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|
+$$
 
 其中 $`\beta`$ 和 $`\alpha`$ 是界面动力学参数，$`\mathcal{D}_c`$ 是临界解相干值，$`\mathcal{D}_0`$ 是基准解相干值。
 
@@ -96,7 +114,9 @@ $$v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
 
 IE-QKD的安全性优于传统QKD，因为窃听者必须同时捕获量子和经典信息才能重建完整密钥。协议的关键安全度量为：
 
-$$S_{IE-QKD} = -\log_2(\max_E F(|\psi_{\mathcal{I}}\rangle, \Lambda_E(|\psi_{\mathcal{I}}\rangle)))$$
+$$
+S_{IE-QKD} = -\log_2(\max_E F(|\psi_{\mathcal{I}}\rangle, \Lambda_E(|\psi_{\mathcal{I}}\rangle)))
+$$
 
 其中 $`\Lambda_E`$ 是窃听者可能的操作，$`F`$ 是保真度。
 
@@ -110,9 +130,13 @@ $$S_{IE-QKD} = -\log_2(\max_E F(|\psi_{\mathcal{I}}\rangle, \Lambda_E(|\psi_{\ma
 
 IES的成功概率和保真度分别为：
 
-$$P_{成功} = \left|\langle \Phi_{测量}|\Phi_{BC}\rangle\right|^2$$
+$$
+P_{成功} = \left|\langle \Phi_{测量}|\Phi_{BC}\rangle\right|^2
+$$
 
-$$F_{IES} = |\langle \Phi_{理想}|\Phi_{AD}\rangle|^2$$
+$$
+F_{IES} = |\langle \Phi_{理想}|\Phi_{AD}\rangle|^2
+$$
 
 IES可以构建量子-经典界面中继网络，实现任意距离的量子通信。
 
@@ -127,7 +151,9 @@ IES可以构建量子-经典界面中继网络，实现任意距离的量子通�
 
 DIT传输保真度为：
 
-$$F_{DIT} = |\langle \psi|U_B^{\dagger}|\phi_B\rangle|^2$$
+$$
+F_{DIT} = |\langle \psi|U_B^{\dagger}|\phi_B\rangle|^2
+$$
 
 其中 $`U_B`$ 是Bob执行的恢复操作，$`|\phi_B\rangle`$ 是恢复后的状态。
 
@@ -137,7 +163,9 @@ $$F_{DIT} = |\langle \psi|U_B^{\dagger}|\phi_B\rangle|^2$$
 
 二元论框架下的通信安全基于界面域的特殊性质：
 
-$$\mathcal{S}(\rho_{\mathcal{I}}) = -\text{窃听者可提取信息量}$$
+$$
+\mathcal{S}(\rho_{\mathcal{I}}) = -\text{窃听者可提取信息量}
+$$
 
 界面安全性源于三个关键机制：
 
@@ -147,7 +175,9 @@ $$\mathcal{S}(\rho_{\mathcal{I}}) = -\text{窃听者可提取信息量}$$
 
 量子-经典界面通信的安全度量为：
 
-$$\Delta_{\text{安全}} = D_{\mathcal{O}_R} - D_{\mathcal{O}_E}$$
+$$
+\Delta_{\text{安全}} = D_{\mathcal{O}_R} - D_{\mathcal{O}_E}
+$$
 
 其中 $`D_{\mathcal{O}_R}`$ 是接收者观察者维度，$`D_{\mathcal{O}_E}`$ 是窃听者最大观察者维度。当 $`\Delta_{\text{安全}} > 0`$ 时，通信在信息论意义上是安全的。
 
@@ -157,11 +187,15 @@ $$\Delta_{\text{安全}} = D_{\mathcal{O}_R} - D_{\mathcal{O}_E}$$
 
 **定理**：不存在通用操作 $`\Lambda`$ 能够完美复制任意未知界面态：
 
-$$\nexists \Lambda: \Lambda(|\psi_{\mathcal{I}}\rangle \otimes |0\rangle) = |\psi_{\mathcal{I}}\rangle \otimes |\psi_{\mathcal{I}}\rangle$$
+$$
+\nexists \Lambda: \Lambda(|\psi_{\mathcal{I}}\rangle \otimes |0\rangle) = |\psi_{\mathcal{I}}\rangle \otimes |\psi_{\mathcal{I}}\rangle
+$$
 
 界面态克隆的最优保真度上界为：
 
-$$F_{\text{克隆}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal{I}} + 1}$$
+$$
+F_{\text{克隆}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal{I}} + 1}
+$$
 
 其中 $`d_{\mathcal{I}}`$ 是界面态希尔伯特空间的维度。这一上界低于纯量子态，提供了更强的安全保证。
 
@@ -171,7 +205,9 @@ $$F_{\text{克隆}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal
 
 量子经典二元论框架允许不同维度观察者间的通信：
 
-$$\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}$$
+$$
+\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}
+$$
 
 其中 $`\mathcal{O}_{D_1}`$ 和 $`\mathcal{O}_{D_2}`$ 是不同维度的观察者。跨维度通信基于以下原理：
 
@@ -181,7 +217,9 @@ $$\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}$$
 
 高维到低维通信的信息容量为：
 
-$$C_{D_1 \rightarrow D_2} = \min\{C_{D_1}, C_{D_2}\} \cdot \exp\left(-\alpha|D_1 - D_2|\right)$$
+$$
+C_{D_1 \rightarrow D_2} = \min\{C_{D_1}, C_{D_2}\} \cdot \exp\left(-\alpha|D_1 - D_2|\right)
+$$
 
 其中 $`C_{D_i}`$ 是维度 $`D_i`$ 观察者的信息容量，$`\alpha`$ 是维度差异衰减系数。
 
@@ -196,7 +234,9 @@ $$C_{D_1 \rightarrow D_2} = \min\{C_{D_1}, C_{D_2}\} \cdot \exp\left(-\alpha|D_1
 
 DTC协议的维度匹配效率为：
 
-$$\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}$$
+$$
+\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}
+$$
 
 其中 $`\gamma`$ 是系统相关的常数。
 
@@ -213,7 +253,9 @@ $$\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}$$
 
 EAIC的信息传输容量为：
 
-$$C_{EAIC} = \log_2(d_{\mathcal{I}}) + S(\rho_{\mathcal{I}}) - S(\rho_{AB}^{\mathcal{I}})$$
+$$
+C_{EAIC} = \log_2(d_{\mathcal{I}}) + S(\rho_{\mathcal{I}}) - S(\rho_{AB}^{\mathcal{I}})
+$$
 
 其中 $`S(\rho_{AB}^{\mathcal{I}})`$ 是共享界面纠缠对的熵。
 
@@ -227,7 +269,9 @@ $$C_{EAIC} = \log_2(d_{\mathcal{I}}) + S(\rho_{\mathcal{I}}) - S(\rho_{AB}^{\mat
 
 WFCC的极限信息传输速率为：
 
-$$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}$$
+$$
+R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}
+$$
 
 其中 $`c`$ 是光速，$`\tau_{\text{塌缩}}`$ 是波函数塌缩特征时间。WFCC不违反相对论因果律，因为信息传输速率不超过光速。
 
@@ -236,13 +280,19 @@ $$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}$$
 ### 近期可实现实验
 
 1. **界面编码量子比特**：
-   $$|\psi_{\mathcal{I}}\rangle = \alpha|0_q\rangle|0_c\rangle + \beta|1_q\rangle|1_c\rangle$$
-   
+
+$$
+|\psi_{\mathcal{I}}\rangle = \alpha|0_q\rangle|0_c\rangle + \beta|1_q\rangle|1_c\rangle
+$$
+
    实验参数：超导量子比特+经典射频电路，工作温度 20-50 mK
 
 2. **有限维度界面纠缠**：
-   $$|\Phi_{\mathcal{I}}\rangle = \frac{1}{\sqrt{2}}(|0_q\rangle_A|0_c\rangle_A|0_q\rangle_B|0_c\rangle_B + |1_q\rangle_A|1_c\rangle_A|1_q\rangle_B|1_c\rangle_B)$$
-   
+
+$$
+|\Phi_{\mathcal{I}}\rangle = \frac{1}{\sqrt{2}}(|0_q\rangle_A|0_c\rangle_A|0_q\rangle_B|0_c\rangle_B + |1_q\rangle_A|1_c\rangle_A|1_q\rangle_B|1_c\rangle_B)
+$$
+
    实验平台：冷原子+光学腔系统
 
 3. **界面波动调制**：控制解相干率并测量界面波动传播
@@ -278,4 +328,4 @@ $$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}$$
 - [界面理论](formal_theory_interface.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [信息-时空-能量统一理论](formal_theory_unified.md)
-- [量子-经典信息安全理论](formal_theory_quantum_security.md) 
+- [量子-经典信息安全理论](formal_theory_quantum_security.md)

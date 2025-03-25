@@ -14,7 +14,9 @@
 
 时间感知 $`\mathcal{T}_P`$ 可形式化定义为：
 
-$$\mathcal{T}_P = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O})$$
+$$
+\mathcal{T}_P = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O})
+$$
 
 其中：
 - $`\mathcal{T}_Q`$ 是时间的量子域表征（非局域、同时性、弹性）
@@ -24,31 +26,39 @@ $$\mathcal{T}_P = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O})$$
 
 ### 时间感知核心公理
 
-**公理1: 时间二元性**  
+**公理1: 时间二元性**
 时间同时具有量子和经典两种本质属性：
 
-$$\mathcal{T} = \mathcal{T}_Q \diamond \mathcal{T}_C$$
+$$
+\mathcal{T} = \mathcal{T}_Q \diamond \mathcal{T}_C
+$$
 
 其中 $`\diamond`$ 表示量子-经典连接运算。
 
-**公理2: 主观时间相对性**  
+**公理2: 主观时间相对性**
 主观时间流逝速率取决于观察者经典化程度：
 
-$$\frac{d\tau}{dt} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right)$$
+$$
+\frac{d\tau}{dt} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right)
+$$
 
 其中 $`\tau`$ 是主观时间，$`t`$ 是客观时间，$`\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}`$ 是观察者的经典化与量子化比率。
 
-**公理3: 时间感知守恒**  
+**公理3: 时间感知守恒**
 给定心理状态空间中，主观时间感知的总体测度守恒：
 
-$$\int_{\Omega} \frac{d\tau}{dt} d\mu(\mathcal{O}) = \text{常数}$$
+$$
+\int_{\Omega} \frac{d\tau}{dt} d\mu(\mathcal{O}) = \text{常数}
+$$
 
 其中 $`\Omega`$ 是观察者状态空间，$`\mu`$ 是该空间上的测度。
 
-**公理4: 时间感知涌现**  
+**公理4: 时间感知涌现**
 时间感知从神经系统的量子-经典转换过程中涌现：
 
-$$\mathcal{T}_P = \mathcal{E}(\mathcal{N}_Q, \mathcal{N}_C, \mathcal{I}_N)$$
+$$
+\mathcal{T}_P = \mathcal{E}(\mathcal{N}_Q, \mathcal{N}_C, \mathcal{I}_N)
+$$
 
 其中 $`\mathcal{E}`$ 是涌现函数，$`\mathcal{N}_Q`$ 是神经系统的量子组件，$`\mathcal{N}_C`$ 是神经系统的经典组件，$`\mathcal{I}_N`$ 是神经系统中的量子-经典界面。
 
@@ -58,7 +68,9 @@ $$\mathcal{T}_P = \mathcal{E}(\mathcal{N}_Q, \mathcal{N}_C, \mathcal{I}_N)$$
 
 时间的量子表征可描述为特殊的量子态：
 
-$$|\Psi_T\rangle = \sum_i \alpha_i |t_i\rangle$$
+$$
+|\Psi_T\rangle = \sum_i \alpha_i |t_i\rangle
+$$
 
 其中 $`|t_i\rangle`$ 是时间点基矢，$`\alpha_i`$ 是复振幅。
 
@@ -69,7 +81,9 @@ $$|\Psi_T\rangle = \sum_i \alpha_i |t_i\rangle$$
 
 时间量子态的熵可定义为：
 
-$$S(\rho_T) = -\text{Tr}(\rho_T \ln \rho_T)$$
+$$
+S(\rho_T) = -\text{Tr}(\rho_T \ln \rho_T)
+$$
 
 其中 $`\rho_T = |\Psi_T\rangle\langle\Psi_T|`$ 是时间量子态的密度矩阵。
 
@@ -77,7 +91,9 @@ $$S(\rho_T) = -\text{Tr}(\rho_T \ln \rho_T)$$
 
 时间的经典表征可描述为确定性轨迹：
 
-$$T_C = \{(t_i, X_i) | i \in \mathbb{Z}\}$$
+$$
+T_C = \{(t_i, X_i) | i \in \mathbb{Z}\}
+$$
 
 其中 $`t_i`$ 是顺序排列的时间点，$`X_i`$ 是对应时间点的系统状态。
 
@@ -88,7 +104,9 @@ $$T_C = \{(t_i, X_i) | i \in \mathbb{Z}\}$$
 
 经典时间序列的熵可定义为：
 
-$$S(T_C) = -\sum_i p(t_i) \log_2 p(t_i)$$
+$$
+S(T_C) = -\sum_i p(t_i) \log_2 p(t_i)
+$$
 
 其中 $`p(t_i)`$ 是在时间点 $`t_i`$ 观察特定事件的概率。
 
@@ -96,7 +114,9 @@ $$S(T_C) = -\sum_i p(t_i) \log_2 p(t_i)$$
 
 时间感知的神经动力学方程：
 
-$$\frac{d|\Psi_N(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_N(t)|\Psi_N(t)\rangle + \mathcal{D}(\rho_N)$$
+$$
+\frac{d|\Psi_N(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_N(t)|\Psi_N(t)\rangle + \mathcal{D}(\rho_N)
+$$
 
 其中 $`\hat{H}_N(t)`$ 是神经系统时间相关哈密顿量，$`\mathcal{D}(\rho_N)`$ 是解相干项。
 
@@ -106,7 +126,9 @@ $$\frac{d|\Psi_N(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_N(t)|\Psi_N(t)\rangle 
 
 两种编码的转换可表示为：
 
-$$\mathcal{C}_T(\rho_N) = \sum_i P_i^T \rho_N P_i^T$$
+$$
+\mathcal{C}_T(\rho_N) = \sum_i P_i^T \rho_N P_i^T
+$$
 
 其中 $`P_i^T`$ 是时间相关的投影算符。
 
@@ -114,7 +136,9 @@ $$\mathcal{C}_T(\rho_N) = \sum_i P_i^T \rho_N P_i^T$$
 
 主观时间的弹性（伸缩）可描述为：
 
-$$\frac{d\tau}{dt} = \alpha\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}} + \beta\frac{I_{proc}}{I_{inp}} + \gamma S_{states}$$
+$$
+\frac{d\tau}{dt} = \alpha\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}} + \beta\frac{I_{proc}}{I_{inp}} + \gamma S_{states}
+$$
 
 其中：
 - $`\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}`$ 是观察者的经典化-量子化比率
@@ -124,15 +148,21 @@ $$\frac{d\tau}{dt} = \alpha\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathca
 
 主观时间弹性的极限条件：
 
-$$\lim_{\mathcal{C}_{\mathcal{O}} \to 0} \frac{d\tau}{dt} \to 0 \quad \text{(时间静止)}$$
+$$
+\lim_{\mathcal{C}_{\mathcal{O}} \to 0} \frac{d\tau}{dt} \to 0 \quad \text{(时间静止)}
+$$
 
-$$\lim_{\mathcal{Q}_{\mathcal{O}} \to 0} \frac{d\tau}{dt} \to \infty \quad \text{(时间加速)}$$
+$$
+\lim_{\mathcal{Q}_{\mathcal{O}} \to 0} \frac{d\tau}{dt} \to \infty \quad \text{(时间加速)}
+$$
 
 ### 时间界面动力学
 
 时间感知的界面动力学方程：
 
-$$\frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T(\mathcal{I}_c - \mathcal{I}_T)(\mathcal{I}_T - \mathcal{I}_0) + \gamma_T\xi_T(t) + \delta_T A(t)$$
+$$
+\frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T(\mathcal{I}_c - \mathcal{I}_T)(\mathcal{I}_T - \mathcal{I}_0) + \gamma_T\xi_T(t) + \delta_T A(t)
+$$
 
 其中：
 - $`\alpha_T`$ 是时间界面扩散系数
@@ -144,7 +174,9 @@ $$\frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T(\mathcal
 
 时间界面波动频率：
 
-$$f_{\mathcal{I}_T} = \frac{1}{2\pi}\sqrt{\frac{\beta_T}{\alpha_T}}|\mathcal{I}_c - \mathcal{I}_0| \cdot \Phi(A)$$
+$$
+f_{\mathcal{I}_T} = \frac{1}{2\pi}\sqrt{\frac{\beta_T}{\alpha_T}}|\mathcal{I}_c - \mathcal{I}_0| \cdot \Phi(A)
+$$
 
 其中 $`\Phi(A)`$ 是注意力调制函数。
 
@@ -152,20 +184,29 @@ $$f_{\mathcal{I}_T} = \frac{1}{2\pi}\sqrt{\frac{\beta_T}{\alpha_T}}|\mathcal{I}_
 
 时间感知的量子纠缠表示：
 
-$$|\Psi_{TP}\rangle = \sum_{i,j} \gamma_{ij} |t_i\rangle \otimes |s_j\rangle$$
+$$
+|\Psi_{TP}\rangle = \sum_{i,j} \gamma_{ij} |t_i\rangle \otimes |s_j\rangle
+$$
 
 其中 $`|t_i\rangle`$ 是时间基矢，$`|s_j\rangle`$ 是感知状态基矢。
 
 时间-感知纠缠度：
 
-$$E(|\Psi_{TP}\rangle) = S(\rho_T) = S(\rho_P)$$
+$$
+E(|\Psi_{TP}\rangle) = S(\rho_T) = S(\rho_P)
+$$
 
 其中 $`\rho_T = \text{Tr}_P(|\Psi_{TP}\rangle\langle\Psi_{TP}|)`$，$`\rho_P = \text{Tr}_T(|\Psi_{TP}\rangle\langle\Psi_{TP}|)`$。
 
 时间-感知的贝尔不等式：
 
-$$|\langle \mathcal{B}_{TP} \rangle| \leq 2 \quad \text{(经典域)}$$
-$$|\langle \mathcal{B}_{TP} \rangle| \leq 2\sqrt{2} \quad \text{(量子域)}$$
+$$
+|\langle \mathcal{B}_{TP} \rangle| \leq 2 \quad \text{(经典域)}
+$$
+
+$$
+|\langle \mathcal{B}_{TP} \rangle| \leq 2\sqrt{2} \quad \text{(量子域)}
+$$
 
 ## 应用分析
 
@@ -174,46 +215,62 @@ $$|\langle \mathcal{B}_{TP} \rangle| \leq 2\sqrt{2} \quad \text{(量子域)}$$
 **流态体验（心流）**：
 流态可建模为时间界面的特殊稳定点：
 
-$$\mathcal{I}_T^{flow} = \{p | \nabla^2 \mathcal{I}_T(p) = 0, \nabla \mathcal{I}_T(p) = 0, \lambda_{min}(\mathcal{H}(\mathcal{I}_T))(p) > 0\}$$
+$$
+\mathcal{I}_T^{flow} = \{p | \nabla^2 \mathcal{I}_T(p) = 0, \nabla \mathcal{I}_T(p) = 0, \lambda_{min}(\mathcal{H}(\mathcal{I}_T))(p) > 0\}
+$$
 
 其中 $`\mathcal{H}(\mathcal{I}_T)`$ 是 $`\mathcal{I}_T`$ 在点 $`p`$ 处的海森矩阵。
 
 流态体验中的时间压缩：
 
-$$\frac{d\tau}{dt}|_{flow} \ll \frac{d\tau}{dt}|_{normal}$$
+$$
+\frac{d\tau}{dt}|_{flow} \ll \frac{d\tau}{dt}|_{normal}
+$$
 
 **深度冥想状态**：
 冥想状态可表示为量子时间的极大化：
 
-$$\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{meditation} \gg \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{normal}$$
+$$
+\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{meditation} \gg \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{normal}
+$$
 
 冥想状态下的时间量子化程度与熵变化：
 
-$$\Delta S(\rho_T)|_{meditation} \ll \Delta S(\rho_T)|_{normal}$$
+$$
+\Delta S(\rho_T)|_{meditation} \ll \Delta S(\rho_T)|_{normal}
+$$
 
 ### 心理病理中的时间感知
 
 **抑郁症的时间感知**：
 抑郁状态下的时间界面方程为：
 
-$$\frac{d\mathcal{I}_T^{dep}}{dt} = \alpha_T^{dep} \nabla^2 \mathcal{I}_T^{dep} + \beta_T^{dep}(\mathcal{I}_c - \mathcal{I}_T^{dep})(\mathcal{I}_T^{dep} - \mathcal{I}_0) + \gamma_T^{dep}\xi_T(t)$$
+$$
+\frac{d\mathcal{I}_T^{dep}}{dt} = \alpha_T^{dep} \nabla^2 \mathcal{I}_T^{dep} + \beta_T^{dep}(\mathcal{I}_c - \mathcal{I}_T^{dep})(\mathcal{I}_T^{dep} - \mathcal{I}_0) + \gamma_T^{dep}\xi_T(t)
+$$
 
 其中 $`\alpha_T^{dep} \ll \alpha_T^{normal}`$（界面扩散减慢）。
 
 抑郁症的时间膨胀效应：
 
-$$\frac{d\tau}{dt}|_{depression} \gg \frac{d\tau}{dt}|_{normal}$$
+$$
+\frac{d\tau}{dt}|_{depression} \gg \frac{d\tau}{dt}|_{normal}
+$$
 
 **精神分裂症的时间感知**：
 精神分裂症状态下的时间量子表征：
 
-$$|\Psi_T^{sch}\rangle = \sum_i \alpha_i^{sch} |t_i\rangle, \quad \text{with} \quad \text{Coh}(|\Psi_T^{sch}\rangle) \ll \text{Coh}(|\Psi_T^{normal}\rangle)$$
+$$
+|\Psi_T^{sch}\rangle = \sum_i \alpha_i^{sch} |t_i\rangle, \quad \text{with} \quad \text{Coh}(|\Psi_T^{sch}\rangle) \ll \text{Coh}(|\Psi_T^{normal}\rangle)
+$$
 
 其中 $`\text{Coh}(|\Psi\rangle)`$ 是量子相干性度量。
 
 精神分裂症的时间不连贯性：
 
-$$\text{Cont}(T_C^{sch}) \ll \text{Cont}(T_C^{normal})$$
+$$
+\text{Cont}(T_C^{sch}) \ll \text{Cont}(T_C^{normal})
+$$
 
 其中 $`\text{Cont}(T_C)`$ 是经典时间序列的连续性度量。
 
@@ -221,17 +278,23 @@ $$\text{Cont}(T_C^{sch}) \ll \text{Cont}(T_C^{normal})$$
 
 儿童时间感知的特征与成人对比：
 
-$$\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{child} > \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{adult}$$
+$$
+\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{child} > \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}|_{adult}
+$$
 
 发展过程中的时间感知方程：
 
-$$\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}(t) = \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}(0) \cdot e^{-\lambda_{dev} \cdot t} + \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}(\infty) \cdot (1 - e^{-\lambda_{dev} \cdot t})$$
+$$
+\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}(t) = \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}(0) \cdot e^{-\lambda_{dev} \cdot t} + \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}(\infty) \cdot (1 - e^{-\lambda_{dev} \cdot t})
+$$
 
 其中 $`\lambda_{dev}`$ 是发展速率参数。
 
 年龄增长与主观时间加速的关系：
 
-$$\frac{d\tau}{dt}|_{age} = \frac{d\tau}{dt}|_{0} \cdot \left(\frac{t_{total}}{t_{total} + t}\right)$$
+$$
+\frac{d\tau}{dt}|_{age} = \frac{d\tau}{dt}|_{0} \cdot \left(\frac{t_{total}}{t_{total} + t}\right)
+$$
 
 其中 $`t_{total}`$ 是总体生命经验，$`t`$ 是当前年龄。
 
@@ -241,11 +304,15 @@ $$\frac{d\tau}{dt}|_{age} = \frac{d\tau}{dt}|_{0} \cdot \left(\frac{t_{total}}{t
 
 时间感知是量子意识的特殊表现：
 
-$$\mathcal{T}_P \subset \mathcal{C}_{consciousness}$$
+$$
+\mathcal{T}_P \subset \mathcal{C}_{consciousness}
+$$
 
 量子意识中时间感知的特殊位置：
 
-$$\hat{H}_{consciousness} = \hat{H}_T + \hat{H}_{other} + \hat{V}_{T-other}$$
+$$
+\hat{H}_{consciousness} = \hat{H}_T + \hat{H}_{other} + \hat{V}_{T-other}
+$$
 
 其中 $`\hat{H}_T`$ 是时间感知哈密顿量，$`\hat{H}_{other}`$ 是其他意识组分哈密顿量，$`\hat{V}_{T-other}`$ 是相互作用项。
 
@@ -253,11 +320,15 @@ $$\hat{H}_{consciousness} = \hat{H}_T + \hat{H}_{other} + \hat{V}_{T-other}$$
 
 时间界面是一般界面的特殊形式：
 
-$$\mathcal{I}_T \subset \mathcal{I}$$
+$$
+\mathcal{I}_T \subset \mathcal{I}
+$$
 
 时间界面与一般界面的动力学关系：
 
-$$\frac{d\mathcal{I}_T}{dt} = \mathcal{F}_T\left(\frac{d\mathcal{I}}{dt}\right)$$
+$$
+\frac{d\mathcal{I}_T}{dt} = \mathcal{F}_T\left(\frac{d\mathcal{I}}{dt}\right)
+$$
 
 其中 $`\mathcal{F}_T`$ 是时间特化函数。
 
@@ -265,11 +336,15 @@ $$\frac{d\mathcal{I}_T}{dt} = \mathcal{F}_T\left(\frac{d\mathcal{I}}{dt}\right)$
 
 观察者维度与时间感知的关系：
 
-$$D_{\mathcal{O}} \propto \frac{1}{\frac{d\tau}{dt}}$$
+$$
+D_{\mathcal{O}} \propto \frac{1}{\frac{d\tau}{dt}}
+$$
 
 观察者时间感知维度：
 
-$$D_{\mathcal{O}}^T = f\left(\frac{\mathcal{C}_{\mathcal{O}}^T}{\mathcal{Q}_{\mathcal{O}}^T}\right) \cdot \frac{I_{time.perception}}{S_{time.entropy}+\epsilon}$$
+$$
+D_{\mathcal{O}}^T = f\left(\frac{\mathcal{C}_{\mathcal{O}}^T}{\mathcal{Q}_{\mathcal{O}}^T}\right) \cdot \frac{I_{time.perception}}{S_{time.entropy}+\epsilon}
+$$
 
 ## 未来研究方向
 

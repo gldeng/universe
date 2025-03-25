@@ -245,4 +245,4 @@ The quantum-classical dualism framework provides us with an entirely new perspec
 
 By consciously cultivating positive emotional states and applying the quantum regulation techniques introduced in this article, you can optimize emotion-DNA interactions, promote health, slow aging, and possibly activate untapped potential in human DNA.
 
-In the new era of quantum biology, emotional management is no longer just a matter of psychological health but a key to genetic health and biological evolution. Each emotional choice you make is shaping your biological future at the quantum level. 
+In the new era of quantum biology, emotional management is no longer just a matter of psychological health but a key to genetic health and biological evolution. Each emotional choice you make is shaping your biological future at the quantum level.

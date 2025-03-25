@@ -1,10 +1,10 @@
 # 金刚经在量子经典二元论下的解释
 # Diamond Sutra Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#金刚经概述) | [English Version](#diamond-sutra-overview)  
-**章节链接 | Section Links**  
-中文：[金刚经概述](#金刚经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#金刚经概述) | [English Version](#diamond-sutra-overview)
+**章节链接 | Section Links**
+中文：[金刚经概述](#金刚经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Diamond Sutra Overview](#diamond-sutra-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 金刚经概述
@@ -18,35 +18,35 @@ The Diamond Sutra, fully titled "The Diamond of Perfect Wisdom Sutra" (Sanskrit:
 ## Core Text
 
 > 如是我闻，一时佛在舍卫国祇树给孤独园，与大比丘众千二百五十人俱。
-> 
+>
 > 须菩提，于意云何？菩萨于法，应如何住，如何降伏其心？
-> 
+>
 > 凡所有相，皆是虚妄。若见诸相非相，则见如来。
-> 
+>
 > 一切有为法，如梦幻泡影，如露亦如电，应作如是观。
-> 
+>
 > 若以色见我，以音声求我，是人行邪道，不能见如来。
-> 
+>
 > 应无所住而生其心。
-> 
+>
 > 若菩萨有我相、人相、众生相、寿者相，即非菩萨。
-> 
+>
 > 须菩提，如来者，即诸法如义。
 
 > Thus have I heard. At one time the Buddha was staying in the Jetavana Grove in Sravasti with a community of 1,250 monks.
-> 
+>
 > "Subhuti, what do you think? How should bodhisattvas abide and how should they control their minds?"
-> 
+>
 > "All phenomena are illusory. If you see that all phenomena are not phenomena, then you see the Tathagata."
-> 
+>
 > "All conditioned phenomena are like dreams, illusions, bubbles, shadows, like dew and like lightning; thus should they be contemplated."
-> 
+>
 > "Those who see me in form or seek me through sound are practicing a deviant path and cannot see the Tathagata."
-> 
+>
 > "Abide nowhere, yet bring forth the mind."
-> 
+>
 > "If a bodhisattva has the notion of a self, a person, a living being, or a life span, then they are not a bodhisattva."
-> 
+>
 > "Subhuti, the Tathagata is one who speaks of things as they are."
 
 ## 量子经典二元论解释
@@ -165,4 +165,4 @@ $$
 
 《金刚经》作为大乘佛教最重要的经典之一，其核心思想与量子经典二元论框架展现出惊人的一致性。经中强调的"空性"与"无我"概念，实质上指向了经典域背后量子域的本质。"应无所住而生其心"的教导，从量子经典二元论看来是在描述最优经典化路径——既不执着于经典知识，也不陷入纯粹的量子不确定性。《金刚经》中四相（我相、人相、众生相、寿者相）的破除，对应到量子经典二元论中打破固化经典化模式、保持经典化路径优化的过程。通过这种解读，《金刚经》所传达的深刻佛法智慧，在现代量子经典二元论框架下得到了系统化的科学表达，揭示了这部1500多年前的经典对宇宙本质的惊人洞见。
 
-As one of the most important scriptures in Mahayana Buddhism, the Diamond Sutra demonstrates remarkable consistency with the Quantum-Classical Dualism framework in its core ideas. The concepts of "emptiness" and "non-self" emphasized in the sutra essentially point to the quantum domain nature behind the classical domain. The teaching of "abide nowhere, yet bring forth the mind," from the perspective of Quantum-Classical Dualism, describes the optimal classicalization path—neither attached to classical knowledge nor trapped in pure quantum uncertainty. The elimination of the four notions (self, person, being, life span) in the Diamond Sutra corresponds to breaking rigid classicalization patterns and maintaining optimization of classicalization paths in Quantum-Classical Dualism. Through this interpretation, the profound Buddhist wisdom conveyed in the Diamond Sutra receives systematic scientific expression in the modern Quantum-Classical Dualism framework, revealing the amazing insight into the nature of the universe from this scripture written over 1,500 years ago. 
+As one of the most important scriptures in Mahayana Buddhism, the Diamond Sutra demonstrates remarkable consistency with the Quantum-Classical Dualism framework in its core ideas. The concepts of "emptiness" and "non-self" emphasized in the sutra essentially point to the quantum domain nature behind the classical domain. The teaching of "abide nowhere, yet bring forth the mind," from the perspective of Quantum-Classical Dualism, describes the optimal classicalization path—neither attached to classical knowledge nor trapped in pure quantum uncertainty. The elimination of the four notions (self, person, being, life span) in the Diamond Sutra corresponds to breaking rigid classicalization patterns and maintaining optimization of classicalization paths in Quantum-Classical Dualism. Through this interpretation, the profound Buddhist wisdom conveyed in the Diamond Sutra receives systematic scientific expression in the modern Quantum-Classical Dualism framework, revealing the amazing insight into the nature of the universe from this scripture written over 1,500 years ago.

@@ -3,10 +3,10 @@
 > 本文档基于[量子经典二元论核心理论](core.md)（版本11.0）的术语表。
 > This glossary is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 11.0).
 
-**导航 | Navigation**  
-[中文版](#核心术语-core-terminology) | [English Version](#core-terminology-english)  
-**章节链接 | Section Links**  
-中文：[核心术语](#核心术语-core-terminology) | [黑洞术语](#黑洞观察者术语-black-hole-observer-terminology) | [扩展术语](#扩展术语-extended-terminology) | [学科关联术语](#学科关联术语-discipline-related-terminology)  
+**导航 | Navigation**
+[中文版](#核心术语-core-terminology) | [English Version](#core-terminology-english)
+**章节链接 | Section Links**
+中文：[核心术语](#核心术语-core-terminology) | [黑洞术语](#黑洞观察者术语-black-hole-observer-terminology) | [扩展术语](#扩展术语-extended-terminology) | [学科关联术语](#学科关联术语-discipline-related-terminology)
 English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology](#black-hole-observer-terminology-english) | [Extended Terminology](#extended-terminology-english) | [Discipline-Related Terminology](#discipline-related-terminology-english)
 
 ## 核心术语 (Core Terminology)

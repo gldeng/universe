@@ -1,10 +1,10 @@
 # 《流浪地球》：量子经典二元论视角分析
 # "The Wandering Earth": Analysis from Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**  
-[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)  
-**章节链接 | Section Links**  
-中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [行星发动机与经典化](#二行星发动机与经典化--planetary-engines-and-classicalization) | [集体决策与观察者网络](#三集体决策与观察者网络--collective-decision-making-and-observer-network) | [人工智能与观察者融合](#四人工智能与观察者融合--artificial-intelligence-and-observer-integration) | [结论](#五结论--conclusion)  
+**导航 | Navigation**
+[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)
+**章节链接 | Section Links**
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [行星发动机与经典化](#二行星发动机与经典化--planetary-engines-and-classicalization) | [集体决策与观察者网络](#三集体决策与观察者网络--collective-decision-making-and-observer-network) | [人工智能与观察者融合](#四人工智能与观察者融合--artificial-intelligence-and-observer-integration) | [结论](#五结论--conclusion)
 English: [Abstract](#abstract--chinese-below) | [Introduction](#i-introduction--chinese-above) | [Planetary Engines and Classicalization](#ii-planetary-engines-and-classicalization--chinese-above) | [Collective Decision and Observer Network](#iii-collective-decision-making-and-observer-network--chinese-above) | [AI and Observer Integration](#iv-artificial-intelligence-and-observer-integration--chinese-above) | [Conclusion](#v-conclusion--chinese-above)
 
 ## 摘要 | Abstract
@@ -203,4 +203,4 @@ The transformation of MOSS from opposing humans to assisting them in the latter 
 
 3. The conflict and reconciliation between MOSS and humans reveal the dimension conflict and integration possibilities between different types of observers, hinting at the future development direction of humans and machines jointly constituting higher-dimensional observer networks.
 
-The concept of a "community with a shared future for mankind" embodied in "The Wandering Earth" is highly consistent with the collective classicalization of observer networks in Quantum-Classical Dualism. The collective action, hope drive, and cross-observer type cooperation emphasized in the film provide vivid examples for the application of Quantum-Classical Dualism in the social dimension. This Chinese science fiction film not only presents grand visual spectacles but also provides a unique perspective for understanding observer collective classicalization in Quantum-Classical Dualism through its unique Eastern collectivist view. 
+The concept of a "community with a shared future for mankind" embodied in "The Wandering Earth" is highly consistent with the collective classicalization of observer networks in Quantum-Classical Dualism. The collective action, hope drive, and cross-observer type cooperation emphasized in the film provide vivid examples for the application of Quantum-Classical Dualism in the social dimension. This Chinese science fiction film not only presents grand visual spectacles but also provides a unique perspective for understanding observer collective classicalization in Quantum-Classical Dualism through its unique Eastern collectivist view.

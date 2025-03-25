@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1844年10月15日 - 1900年8月25日  
-**国籍 (Nationality)**: 德国 (German)  
-**领域 (Fields)**: 哲学、文学、文化批判、语言学  
+**生平 (Life Span)**: 1844年10月15日 - 1900年8月25日
+**国籍 (Nationality)**: 德国 (German)
+**领域 (Fields)**: 哲学、文学、文化批判、语言学
 **代表作品 (Representative Works)**: 《查拉图斯特拉如是说》、《善恶的彼岸》、《道德的谱系学》、《悲剧的诞生》、《权力意志》(遗稿)
 
 ## 核心思想 (Core Ideas)
@@ -108,25 +108,25 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "上帝已死，上帝依然死着，是我们杀死了他。"
-> 
+>
 > "God is dead. God remains dead. And we have killed him."
 
 > "凝视深渊过久，深渊也会回视你。"
-> 
+>
 > "If you gaze long into an abyss, the abyss also gazes into you."
 
 > "没有艺术的装饰，生活对人来说将是不可忍受的。"
-> 
+>
 > "Without art, life would be unbearable."
 
 > "凡不能杀死我的，必使我更强大。"
-> 
+>
 > "What does not kill me makes me stronger."
 
 > "记住：生存本身并没有价值；生存的质量决定了价值。"
-> 
+>
 > "Remember: the value of life lies not in the number of days, but in the use we make of them."
 
 > "人是一根绳索，连接着动物与超人——一根悬于深渊之上的绳索。"
-> 
-> "Man is a rope stretched between the animal and the Superman—a rope over an abyss." 
+>
+> "Man is a rope stretched between the animal and the Superman—a rope over an abyss."

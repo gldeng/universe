@@ -1,10 +1,10 @@
 # 《像风一样自由》：量子经典二元论视角下的自由与束缚
 # "Free Like the Wind": Freedom and Constraint Through the Lens of Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)
 English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysis) | [Musical Style](#musical-style) | [Quantum-Classical Dualism Perspective](#quantum-classical-dualism-perspective) | [Philosophical Significance](#philosophical-significance)
 
 ## 中文版
@@ -26,7 +26,7 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 从量子经典二元论的视角来看，《像风一样自由》深刻揭示了量子自由与经典约束之间的辩证关系：
 
 1. **风的量子特性与经典表现**：
-   
+
    歌词中的"风"可视为量子可能性的象征，它既有确定的运动形式（经典性），也有不可预测的随机性（量子性）。这种双重特性可表示为：
 
 $$
@@ -34,7 +34,7 @@ $$
 $$
 
 2. **自由的量子经典双重性**：
-   
+
    "像风一样自由"揭示了真正的自由同时具备量子与经典的特性——既有无限可能性（量子域），也需要在特定规则下表达（经典域）：
 
 $$
@@ -44,7 +44,7 @@ $$
 其中$`Z`$代表系统的配分函数。
 
 3. **观察者视角的自由转换**：
-   
+
    歌曲中对自由的追求，从量子经典二元论看，是观察者试图提升自身维度，从经典约束中感受量子自由的过程：
 
 $$
@@ -78,7 +78,7 @@ This song reflects a typical rock style, with a fast rhythm and powerful guitar 
 From the perspective of Quantum-Classical Dualism, "Free Like the Wind" profoundly reveals the dialectical relationship between quantum freedom and classical constraints:
 
 1. **Quantum Properties and Classical Manifestations of Wind**:
-   
+
    The "wind" in the lyrics can be viewed as a symbol of quantum possibilities, having both a definite form of movement (classical nature) and unpredictable randomness (quantum nature). This dual characteristic can be represented as:
 
 $$
@@ -86,7 +86,7 @@ $$
 $$
 
 2. **Quantum-Classical Duality of Freedom**:
-   
+
    "Free like the wind" reveals that true freedom simultaneously possesses both quantum and classical characteristics—having infinite possibilities (quantum domain) while needing to be expressed under specific rules (classical domain):
 
 $$
@@ -96,7 +96,7 @@ $$
 Where $`Z`$ represents the partition function of the system.
 
 3. **Freedom Conversion from Observer's Perspective**:
-   
+
    The pursuit of freedom in the song, from the perspective of Quantum-Classical Dualism, is the process of the observer trying to elevate their own dimension, experiencing quantum freedom from classical constraints:
 
 $$
@@ -109,4 +109,4 @@ From the ultimate philosophical perspective of Quantum-Classical Dualism, "Free 
 
 1. True freedom is not ruleless chaos, but the ability to maintain quantum possibilities within classical constraints—this corresponds to the characteristic of wind having basic laws of motion yet being unpredictable.
 2. The human longing for freedom is essentially a pursuit of higher dimensions, an attempt to see the vast space of quantum possibilities from the constraints of classical determinism.
-3. The metaphor of being "free like the wind" reveals a profound philosophy: the perfect state of freedom is a harmonious unity of quantum and classical, maintaining infinite possibilities while being able to express definitely in the real world. 
+3. The metaphor of being "free like the wind" reveals a profound philosophy: the perfect state of freedom is a harmonious unity of quantum and classical, maintaining infinite possibilities while being able to express definitely in the real world.

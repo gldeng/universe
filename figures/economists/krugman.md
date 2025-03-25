@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1953年2月28日 - 至今  
-**国籍 (Nationality)**: 美国 (American)  
-**领域 (Fields)**: 经济学、国际贸易、经济地理学、宏观经济学  
+**生平 (Life Span)**: 1953年2月28日 - 至今
+**国籍 (Nationality)**: 美国 (American)
+**领域 (Fields)**: 经济学、国际贸易、经济地理学、宏观经济学
 **代表作品/成就 (Representative Works/Achievements)**: 《收益递增与经济地理学》、《国际经济学》、2008年诺贝尔经济学奖
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "生产率不是一切，但从长远来看，它几乎就是一切。"
-> 
+>
 > "Productivity isn't everything, but in the long run it is almost everything."
 
 > "一个国家的生活水平取决于其生产商品和服务的能力，而非其控制外国公司的能力。"
-> 
+>
 > "A country's ability to improve its standard of living over time depends almost entirely on its ability to raise its output per worker."
 
 > "当谈到经济学时，大众理解的水平相当于17世纪的医学：血液放出、星象和动物精气。"
-> 
+>
 > "The level at which most economics gets practiced is about at the level of 17th century medicine: bloodletting, astrology, and animal spirits."
 
 > "历史告诉我们，严重的金融危机很少能够干净利落地解决。"
-> 
+>
 > "History teaches us that severe financial crises are seldom resolved without significant public intervention."
 
 > "经济学家之所以被召唤到这个世界上，是因为无限需求与有限资源之间的不匹配。"
-> 
+>
 > "Economists were put on this earth to make astrologers look good."

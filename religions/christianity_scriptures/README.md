@@ -1,9 +1,9 @@
 # 基督教经典文献 (Christian Scriptures)
 
-**导航 | Navigation**  
-[中文版](#基督教经典列表-list-of-christian-scriptures) | [English Version](#基督教经典列表-list-of-christian-scriptures)  
-**章节链接 | Section Links**  
-中文：[基督教经典列表](#基督教经典列表-list-of-christian-scriptures) | [经典分类](#经典分类-scripture-classifications)  
+**导航 | Navigation**
+[中文版](#基督教经典列表-list-of-christian-scriptures) | [English Version](#基督教经典列表-list-of-christian-scriptures)
+**章节链接 | Section Links**
+中文：[基督教经典列表](#基督教经典列表-list-of-christian-scriptures) | [经典分类](#经典分类-scripture-classifications)
 English: [Christian Scriptures List](#基督教经典列表-list-of-christian-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
 
 ## 基督教经典列表 (List of Christian Scriptures)
@@ -55,7 +55,7 @@ Christian scriptures are traditionally classified into the following categories,
 4. **先知书 (Prophets)** - 描述高维经典世界对低维世界的影响
 5. **福音书 (Gospels)** - 展示量子域与经典域双向转换的终极示范
 6. **书信 (Epistles)** - 阐述经典知识在各种情境中的应用
-7. **启示文学 (Apocalyptic)** - 揭示宇宙经典化的终极目标状态 
+7. **启示文学 (Apocalyptic)** - 揭示宇宙经典化的终极目标状态
 
 ## 主要经典 (Main Texts)
 
@@ -83,4 +83,4 @@ Christian scriptures are traditionally classified into the following categories,
 
 - 这些解释尊重基督教传统，同时提供现代科学视角
 - 重点展示基督教教义与量子物理学的深层联系
-- 保持对原文的准确理解和尊重 
+- 保持对原文的准确理解和尊重

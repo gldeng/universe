@@ -94,9 +94,9 @@ Bill Gates fundamentally transformed humanity's relationship with computing tech
 
 ## 经典引言 | Classic Quotes
 > "我之所以成功，是因为我有幸很早就接触到了计算机，并有数千小时的时间来思考该如何编写完美的软件。"
-> 
+>
 > "I succeeded because I had the chance to get into computers early on and had thousands of hours to think about how to create perfect software."
 
 > "人总是高估一年可以发生的改变，却低估十年可以发生的变化。"
-> 
-> "We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten." 
+>
+> "We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten."

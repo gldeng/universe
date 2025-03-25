@@ -1,11 +1,11 @@
 # 统一理论与哲学思考（量子经典二元论 9.4）
 # Unified Theory and Philosophical Thoughts (Quantum-Classical Dualism 9.4)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
 
-**章节链接 | Section Links**  
-中文：[理论统一](#理论统一) | [宇宙本质](#宇宙本质) | [意识与自由意志](#意识与自由意志) | [终极目标](#终极目标)  
+**章节链接 | Section Links**
+中文：[理论统一](#理论统一) | [宇宙本质](#宇宙本质) | [意识与自由意志](#意识与自由意志) | [终极目标](#终极目标)
 English: [Theory Unification](#theory-unification) | [Universe Essence](#universe-essence) | [Consciousness and Free Will](#consciousness-and-free-will) | [Ultimate Goal](#ultimate-goal)
 
 ## 中文版
@@ -132,4 +132,4 @@ $$
 
 ## English Version
 
-[English content will be similar to Chinese content but in English...] 
+[English content will be similar to Chinese content but in English...]

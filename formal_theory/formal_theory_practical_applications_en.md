@@ -259,4 +259,4 @@ This document will be continuously updated according to theoretical progress and
 - [Quantum Medicine Applications](formal_theory_medicine_en.md)
 - [Dualism-Based Education Theory](formal_theory_education_en.md)
 - [Quantum-Classical Interaction Technologies](formal_theory_interaction_en.md)
-- [Practical Applications Collection (This File)](formal_theory_practical_applications_en.md) 
+- [Practical Applications Collection (This File)](formal_theory_practical_applications_en.md)

@@ -1,9 +1,9 @@
 # 碧岩录 (Blue Cliff Record)
 
-**导航 | Navigation**  
-[中文版](#碧岩录解析) | [English Version](#blue-cliff-record-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#碧岩录解析) | [English Version](#blue-cliff-record-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -76,4 +76,4 @@ $$
 
 碧岩录通过量子经典二元论框架（版本9.2）的解析，展示了禅宗公案与现代物理学的深刻联系。量子域中的信息态和纠缠网络对应禅宗的心性观和因果观，经典域中的观察者信息处理对应禅宗的参禅和顿悟。这种对应关系不仅加深了我们对禅宗公案的理解，也为现代物理学提供了新的信息处理维度。
 
-The Blue Cliff Record, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Zen koans and modern physics. The quantum information states and entanglement networks in the quantum domain correspond to Zen concepts of mind nature and karma, while observer information processing in the classical domain corresponds to Zen meditation and sudden enlightenment. This correspondence not only deepens our understanding of Zen koans but also provides new information processing dimensions for modern physics to explore. 
+The Blue Cliff Record, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Zen koans and modern physics. The quantum information states and entanglement networks in the quantum domain correspond to Zen concepts of mind nature and karma, while observer information processing in the classical domain corresponds to Zen meditation and sudden enlightenment. This correspondence not only deepens our understanding of Zen koans but also provides new information processing dimensions for modern physics to explore.

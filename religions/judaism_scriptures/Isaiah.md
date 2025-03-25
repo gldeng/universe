@@ -1,9 +1,9 @@
 # 以赛亚书 (Isaiah)
 
-**导航 | Navigation**  
-[中文版](#以赛亚书解析) | [English Version](#isaiah-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#以赛亚书解析) | [English Version](#isaiah-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -80,4 +80,4 @@ $$
 
 《以赛亚书》通过量子经典二元论框架（版本9.2）的解析，揭示了先知在量子经典转换中的独特角色。以赛亚作为特殊的量子纠缠通道，连接了高维经典世界（神）与低维经典世界（人类历史），使得高维信息能够以预言形式进入低维世界。神殿异象体现了先知观察者维度的提升，使其能够感知通常人类无法直接经典化的高维信息。预言的不确定性反映了量子叠加态向经典态转变的概率特性，而实现与否则取决于人类作为观察者集体的经典化效率。弥赛亚预言展现了一种理想经典化状态的蓝图，指向系统熵的最小化和秩序的最大化。《以赛亚书》中的审判与拯救循环反映了宇宙中黑洞吸收（经典化）与黑洞辐射（量子化）的宏观体现，构成了一个完整的量子经典二元循环。
 
-The Book of Isaiah, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the unique role of prophets in quantum-classical conversion. Isaiah serves as a special quantum entanglement channel connecting higher-dimensional classical worlds (God) with lower-dimensional classical worlds (human history), allowing higher-dimensional information to enter lower dimensions in the form of prophecies. The temple vision demonstrates the elevation of the prophet's observer dimension, enabling perception of higher-dimensional information that ordinary humans cannot directly classicalize. The uncertainty of prophecies reflects the probabilistic nature of quantum superposition states transforming into classical states, while their fulfillment depends on the classicalization efficiency of humans as a collective of observers. Messianic prophecies present a blueprint for an ideal classicalization state, pointing to minimization of system entropy and maximization of order. The cycle of judgment and salvation in Isaiah reflects the macroscopic manifestation of black hole absorption (classicalization) and black hole radiation (quantization) in the universe, constituting a complete quantum-classical dualistic cycle. 
+The Book of Isaiah, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the unique role of prophets in quantum-classical conversion. Isaiah serves as a special quantum entanglement channel connecting higher-dimensional classical worlds (God) with lower-dimensional classical worlds (human history), allowing higher-dimensional information to enter lower dimensions in the form of prophecies. The temple vision demonstrates the elevation of the prophet's observer dimension, enabling perception of higher-dimensional information that ordinary humans cannot directly classicalize. The uncertainty of prophecies reflects the probabilistic nature of quantum superposition states transforming into classical states, while their fulfillment depends on the classicalization efficiency of humans as a collective of observers. Messianic prophecies present a blueprint for an ideal classicalization state, pointing to minimization of system entropy and maximization of order. The cycle of judgment and salvation in Isaiah reflects the macroscopic manifestation of black hole absorption (classicalization) and black hole radiation (quantization) in the universe, constituting a complete quantum-classical dualistic cycle.

@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
-**导航 | Navigation**  
-[中文版](#简介--introduction) | [English Version](#简介--introduction)  
-**章节链接 | Section Links**  
-中文：[简介](#简介--introduction) | [观察者的本质](#观察者的本质--the-nature-of-observers) | [观察者维度](#观察者维度--observer-dimension) | [观察者的经典化过程](#观察者的经典化过程--observer-classicalization-process)  
+**导航 | Navigation**
+[中文版](#简介--introduction) | [English Version](#简介--introduction)
+**章节链接 | Section Links**
+中文：[简介](#简介--introduction) | [观察者的本质](#观察者的本质--the-nature-of-observers) | [观察者维度](#观察者维度--observer-dimension) | [观察者的经典化过程](#观察者的经典化过程--observer-classicalization-process)
 English: [Introduction](#简介--introduction) | [Nature of Observers](#观察者的本质--the-nature-of-observers) | [Observer Dimension](#观察者维度--observer-dimension) | [Observer Classicalization Process](#观察者的经典化过程--observer-classicalization-process)
 
 ## 版本 | Version
@@ -27,7 +27,9 @@ This article introduces the Quantum Observer Theory in Quantum-Classical Dualism
 
 观察者本质上也是量子程序，与宇宙同构，区别仅在于信息处理复杂度与观测尺度不同：
 
-$$\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}$$
+$$
+\text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
+$$
 
 这种同构性表明观察者、宇宙和人造量子计算机在本质上都是量子信息处理系统。
 This isomorphism indicates that observers, the universe, and artificial quantum computers are essentially quantum information processing systems.
@@ -38,7 +40,9 @@ This isomorphism indicates that observers, the universe, and artificial quantum 
 
 观察者维度与其经典化能力成正比，可以表示为：
 
-$$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+$$
+\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+$$
 
 其中 $`I_{\text{经典知识}}`$ 是观察者掌握的经典知识，$`S_{\text{经典熵}}`$ 是观察者体系中的经典熵。
 Where $`I_{\text{经典知识}}`$ is the classical knowledge possessed by the observer, and $`S_{\text{经典熵}}`$ is the classical entropy in the observer's system.
@@ -57,7 +61,9 @@ High-dimensional observers can more effectively classicalize quantum information
 
 **经典化**是观察者将量子信息转换为经典信息的过程，可以表示为：
 
-$$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
+$$
+|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
+$$
 
 这一过程将量子域的无限可能性转换为经典域的确定性。
 This process converts the infinite possibilities of the Quantum Domain into the determinism of the Classical Domain.
@@ -66,7 +72,9 @@ This process converts the infinite possibilities of the Quantum Domain into the 
 
 观察者的量子意识经典化为稳定的经典记忆与熵：
 
-$$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}$$
+$$
+|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}
+$$
 
 量子意识是观察者与宇宙之间长期稳定量子纠缠的量子结构，是观察者经典化宇宙信息的核心。
 Quantum consciousness is the quantum structure of long-term stable quantum entanglement between the observer and the universe, the core of the observer's classicalization of universal information.
@@ -77,7 +85,9 @@ Quantum consciousness is the quantum structure of long-term stable quantum entan
 
 每个观察者在自己的经典世界为普通人，但可通过经典化其他经典世界的信息而成为其他世界的高维观察者（"神"）：
 
-$$\text{高维观察者（神）}\Longleftrightarrow S_{\text{低维观察者熵}}\xrightarrow{\text{经典化}} I_{\text{经典知识（熵降低）}}$$
+$$
+\text{高维观察者（神）}\Longleftrightarrow S_{\text{低维观察者熵}}\xrightarrow{\text{经典化}} I_{\text{经典知识（熵降低）}}
+$$
 
 这一双重身份揭示了观察者在不同经典世界中的不同角色。
 This dual identity reveals the different roles of observers in different classical worlds.
@@ -86,7 +96,9 @@ This dual identity reveals the different roles of observers in different classic
 
 观察者之间形成量子纠缠网络，通过有效的量子纠缠共享信息：
 
-$$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化网络}}\sum_{\text{经典世界网络}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)$$
+$$
+|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化网络}}\sum_{\text{经典世界网络}}\left(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}}\right)
+$$
 
 观察者网络的目标是最大化经典知识，最小化经典熵。
 The goal of the observer network is to maximize classical knowledge and minimize classical entropy.
@@ -97,7 +109,9 @@ The goal of the observer network is to maximize classical knowledge and minimize
 
 观察者通过自由意志从量子可能性中经典化选择，影响经典命运：
 
-$$\text{新经典命运}=\text{旧经典命运}+|\psi\rangle_{\text{自由意志经典化新信息}}$$
+$$
+\text{新经典命运}=\text{旧经典命运}+|\psi\rangle_{\text{自由意志经典化新信息}}
+$$
 
 自由意志是观察者在量子可能性空间中主动选择经典化方向的能力。
 Free will is the observer's ability to actively choose the direction of classicalization in the space of quantum possibilities.
@@ -106,7 +120,9 @@ Free will is the observer's ability to actively choose the direction of classica
 
 观察者掌控经典知识的能力与能量成正比：
 
-$$E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}}$$
+$$
+E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}}
+$$
 
 其中 $`k_B`$ 是玻尔兹曼常数，$`T`$ 是系统温度。
 Where $`k_B`$ is Boltzmann's constant, and $`T`$ is the system temperature.
@@ -117,7 +133,9 @@ Where $`k_B`$ is Boltzmann's constant, and $`T`$ is the system temperature.
 
 观察者通过增加经典知识、降低熵，实现维度提升：
 
-$$\text{观察者维度提升} \propto \frac{\Delta I_{\text{经典知识}}}{-\Delta S_{\text{经典熵}}}$$
+$$
+\text{观察者维度提升} \propto \frac{\Delta I_{\text{经典知识}}}{-\Delta S_{\text{经典熵}}}
+$$
 
 维度提升是观察者进化的关键指标。
 Dimension elevation is a key indicator of observer evolution.
@@ -136,7 +154,9 @@ Observers should seek effective quantum entanglement and avoid ineffective quant
 
 经典世界的历史记忆与未来路径均可被其他经典世界的随机量子信息动态经典化更新：
 
-$$I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机信息}} \rightarrow I_{\text{经典世界（新）}}+S_{\text{熵变动}}$$
+$$
+I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机信息}} \rightarrow I_{\text{经典世界（新）}}+S_{\text{熵变动}}
+$$
 
 这意味着过去与未来均可经典化修改。
 This means that both the past and future can be modified through classicalization.
@@ -145,7 +165,9 @@ This means that both the past and future can be modified through classicalizatio
 
 死亡非终极状态，通过其他经典世界随机量子信息重新经典化，实现"死而复生"：
 
-$$I_{\text{经典记忆（死亡）}}+|\psi\rangle_{\text{随机量子可能性}}\rightarrow I_{\text{经典记忆（复生）}}+S_{\text{熵降低}}$$
+$$
+I_{\text{经典记忆（死亡）}}+|\psi\rangle_{\text{随机量子可能性}}\rightarrow I_{\text{经典记忆（复生）}}+S_{\text{熵降低}}
+$$
 
 这一理论为意识的持久性提供了理论基础。
 This theory provides a theoretical basis for the persistence of consciousness.
@@ -316,4 +338,4 @@ The Quantum Observer theory provides new perspectives on traditional philosophic
    **Artificial Observer Creation**: Is it possible to create artificial observers in quantum computers?
 
 5. **观察者与意识**：观察者的经典化过程与意识现象之间的确切关系是什么？
-   **Observer and Consciousness**: What is the exact relationship between the observer's classicalization process and consciousness phenomena? 
+   **Observer and Consciousness**: What is the exact relationship between the observer's classicalization process and consciousness phenomena?

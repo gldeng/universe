@@ -3,7 +3,7 @@
 **[English Version](formal_theory_ecological_systems_en.md) | 中文版**
 
 > 本理论基于[核心理论](../core.md) v31.0版本
-> 
+>
 > 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 
 ## 导航
@@ -20,7 +20,9 @@
 
 生态系统同时存在于量子域和经典域，可表示为：
 
-$$\mathcal{E} = \{\Omega_Q^E, \Omega_C^E, \mathcal{I}^E\}$$
+$$
+\mathcal{E} = \{\Omega_Q^E, \Omega_C^E, \mathcal{I}^E\}
+$$
 
 其中 $`\Omega_Q^E`$ 代表生态量子域（可能性空间），$`\Omega_C^E`$ 代表生态经典域（已实现状态），$`\mathcal{I}^E`$ 代表生态量子-经典界面。
 
@@ -28,7 +30,9 @@ $$\mathcal{E} = \{\Omega_Q^E, \Omega_C^E, \mathcal{I}^E\}$$
 
 生态系统中的信息总量守恒，但可在不同形式间转换：
 
-$$I_{\text{总}}(\mathcal{E}) = I_{\text{遗传}} + I_{\text{表型}} + I_{\text{行为}} + I_{\text{关系}} = \text{常数}$$
+$$
+I_{\text{总}}(\mathcal{E}) = I_{\text{遗传}} + I_{\text{表型}} + I_{\text{行为}} + I_{\text{关系}} = \text{常数}
+$$
 
 其中各项分别代表生态系统中的遗传信息、表型信息、行为信息和关系信息。
 
@@ -36,7 +40,9 @@ $$I_{\text{总}}(\mathcal{E}) = I_{\text{遗传}} + I_{\text{表型}} + I_{\text
 
 生态系统在量子域适应性和经典域选择压力间维持动态平衡：
 
-$$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$$
+$$
+\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})
+$$
 
 其中 $`\mathcal{A}`$ 是适应算符（扩展可能性空间），$`\mathcal{S}`$ 是选择算符（通过环境约束确定特定状态）。
 
@@ -48,19 +54,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **生态态叠加**：生态系统可被描述为多种可能状态的叠加：
 
-   $$|\Psi_{\text{生态}}\rangle = \sum_i c_i |\text{状态}_i\rangle$$
+$$
+|\Psi_{\text{生态}}\rangle = \sum_i c_i |\text{状态}_i\rangle
+$$
 
    其中 $`c_i`$ 表示各生态状态的量子振幅，反映不同生态构型的可能性。
 
 2. **生态相变前量子涨落**：生态系统在临界相变前表现出量子涨落增强：
 
-   $$\sigma^2_{\text{涨落}} \propto \frac{1}{|\lambda - \lambda_c|}$$
+$$
+\sigma^2_{\text{涨落}} \propto \frac{1}{|\lambda - \lambda_c|}
+$$
 
    其中 $`\lambda`$ 是控制参数（如温度、资源可用性等），$`\lambda_c`$ 是临界值。
 
 3. **生物多样性的量子解释**：物种多样性可视为生态系统维持的量子可能性：
 
-   $$D_{\text{生物多样性}} \propto H(\{p_i\}) = -\sum_i p_i \log p_i$$
+$$
+D_{\text{生物多样性}} \propto H(\{p_i\}) = -\sum_i p_i \log p_i
+$$
 
    其中 $`p_i`$ 是物种 $`i`$ 的相对丰度，$`H`$ 是Shannon熵，度量系统的不确定性或信息容量。
 
@@ -70,19 +82,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **种间纠缠态**：物种间形成不可分离的纠缠关系：
 
-   $$|\Psi_{\text{纠缠}}\rangle = \sum_{i,j} \gamma_{ij} |种_i\rangle \otimes |种_j\rangle$$
+$$
+|\Psi_{\text{纠缠}}\rangle = \sum_{i,j} \gamma_{ij} |种_i\rangle \otimes |种_j\rangle
+$$
 
    其中 $`\gamma_{ij}`$ 是纠缠系数，表示两物种间相互依赖的程度。
 
 2. **生态远程作用**：一处生态变化可通过纠缠网络影响远处组分：
 
-   $$C(A,B) > C(A,C) + C(B,C)$$
+$$
+C(A,B) > C(A,C) + C(B,C)
+$$
 
    表示生态单元 $`A`$ 和 $`B`$ 间的相关性超过了通过中间单元 $`C`$ 的间接作用，暗示非局域关联。
 
 3. **弹性冗余**：生态纠缠增强系统弹性：
 
-   $$R_{\text{弹性}} \propto \sum_i \sum_{j \neq i} E_{ij}$$
+$$
+R_{\text{弹性}} \propto \sum_i \sum_{j \neq i} E_{ij}
+$$
 
    其中 $`E_{ij}`$ 是物种 $`i`$ 和 $`j`$ 间的纠缠强度，表示系统中的冗余连接。
 
@@ -94,19 +112,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **生态位分化**：物种通过资源分配确定的生态位：
 
-   $$\vec{n}_i \cdot \vec{n}_j < \|\vec{n}_i\| \cdot \|\vec{n}_j\|$$
+$$
+\vec{n}_i \cdot \vec{n}_j < \|\vec{n}_i\| \cdot \|\vec{n}_j\|
+$$
 
    其中 $`\vec{n}_i`$ 和 $`\vec{n}_j`$ 是物种 $`i`$ 和 $`j`$ 的生态位向量，不完全重叠确保共存。
 
 2. **生态群落结构**：形成稳定的群落组织形式：
 
-   $$\mathbf{A} = [a_{ij}]$$
+$$
+\mathbf{A} = [a_{ij}]
+$$
 
    其中 $`\mathbf{A}`$ 是群落矩阵，$`a_{ij}`$ 表示物种 $`i`$ 和 $`j`$ 的相互作用。
 
 3. **生态演替轨迹**：系统沿确定性路径发展：
 
-   $$\vec{E}(t) = \vec{E}_0 + \int_0^t \vec{F}(\vec{E}(\tau), \tau) d\tau$$
+$$
+\vec{E}(t) = \vec{E}_0 + \int_0^t \vec{F}(\vec{E}(\tau), \tau) d\tau
+$$
 
    其中 $`\vec{E}(t)`$ 是时间 $`t`$ 的生态状态向量，$`\vec{F}`$ 是生态动力学函数。
 
@@ -116,19 +140,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **局部熵减**：生态系统可通过消耗外部能量/资源实现局部有序：
 
-   $$\frac{dS_{\text{局部}}}{dt} = \frac{dS_{\text{内部}}}{dt} + \frac{dS_{\text{交换}}}{dt} < 0$$
+$$
+\frac{dS_{\text{局部}}}{dt} = \frac{dS_{\text{内部}}}{dt} + \frac{dS_{\text{交换}}}{dt} < 0
+$$
 
    当 $`|\frac{dS_{\text{交换}}}{dt}| > \frac{dS_{\text{内部}}}{dt}`$ 时。
 
 2. **最大熵生产原理**：生态系统倾向于最大化熵生产率：
 
-   $$\max \left( \frac{dS_{\text{总}}}{dt} \right) \text{ 受约束条件限制}$$
+$$
+\max \left( \frac{dS_{\text{总}}}{dt} \right) \text{ 受约束条件限制}
+$$
 
    在远离平衡态的开放系统中，该原理指导能量与物质流。
 
 3. **信息结构化**：生态系统积累并结构化信息：
 
-   $$I_{\text{结构}} = \sum_i p_i \log \frac{p_i}{q_i}$$
+$$
+I_{\text{结构}} = \sum_i p_i \log \frac{p_i}{q_i}
+$$
 
    其中 $`p_i`$ 是实际分布，$`q_i`$ 是随机参考分布，表示系统中的组织化信息。
 
@@ -140,19 +170,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **环境选择**：环境压力将生态可能性转化为特定适应方向：
 
-   $$\mathcal{C}_{\text{环境}}: |\Psi_{\text{适应}}\rangle \mapsto |\phi_{\text{选择}}\rangle$$
+$$
+\mathcal{C}_{\text{环境}}: |\Psi_{\text{适应}}\rangle \mapsto |\phi_{\text{选择}}\rangle
+$$
 
    表示环境条件导致特定生态状态的实现。
 
 2. **生态稳定化**：多物种相互作用网络产生稳定的经典模式：
 
-   $$\mathcal{C}_{\text{网络}}: \sum_i c_i |\text{网络}_i\rangle \mapsto |\text{网络}_{\text{稳定}}\rangle$$
+$$
+\mathcal{C}_{\text{网络}}: \sum_i c_i |\text{网络}_i\rangle \mapsto |\text{网络}_{\text{稳定}}\rangle
+$$
 
    表示复杂网络交互导致特定网络拓扑的形成。
 
 3. **行为传统化**：重复行为模式通过文化或基因固定：
 
-   $$\mathcal{C}_{\text{行为}}: \sum_i c_i |\text{行为}_i\rangle \mapsto |\text{行为}_{\text{固定}}\rangle$$
+$$
+\mathcal{C}_{\text{行为}}: \sum_i c_i |\text{行为}_i\rangle \mapsto |\text{行为}_{\text{固定}}\rangle
+$$
 
    表示行为可能性转变为固定行为模式。
 
@@ -162,19 +198,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **变异生成**：遗传和表观遗传变异扩展可能性空间：
 
-   $$\mathcal{Q}_{\text{变异}}: |\text{基因型}\rangle \mapsto \sum_i c_i |\text{基因型}_i\rangle$$
+$$
+\mathcal{Q}_{\text{变异}}: |\text{基因型}\rangle \mapsto \sum_i c_i |\text{基因型}_i\rangle
+$$
 
    表示从单一基因型到多种变异的扩展。
 
 2. **行为创新**：生物体探索新行为策略：
 
-   $$\mathcal{Q}_{\text{行为}}: |\text{行为}_{\text{当前}}\rangle \mapsto \sum_i c_i |\text{行为}_i\rangle$$
+$$
+\mathcal{Q}_{\text{行为}}: |\text{行为}_{\text{当前}}\rangle \mapsto \sum_i c_i |\text{行为}_i\rangle
+$$
 
    表示从固定行为模式到多种行为可能性的扩展。
 
 3. **生态位创造**：物种创造或修改生态位：
 
-   $$\mathcal{Q}_{\text{生态位}}: |\text{生态位}_{\text{当前}}\rangle \mapsto \sum_i c_i |\text{生态位}_i\rangle$$
+$$
+\mathcal{Q}_{\text{生态位}}: |\text{生态位}_{\text{当前}}\rangle \mapsto \sum_i c_i |\text{生态位}_i\rangle
+$$
 
    表示生态位工程或构建过程。
 
@@ -186,19 +228,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **适应性景观波函数**：进化景观可表示为量子波函数：
 
-   $$|\Psi_{\text{适应性}}\rangle = \sum_{\text{基因型}} F(\text{基因型}) |\text{基因型}\rangle$$
+$$
+|\Psi_{\text{适应性}}\rangle = \sum_{\text{基因型}} F(\text{基因型}) |\text{基因型}\rangle
+$$
 
    其中 $`F(\text{基因型})`$ 对应于适应度值。
 
 2. **二元自然选择**：自然选择作为量子测量过程：
 
-   $$|\text{选择后}\rangle = \frac{\hat{S}|\Psi_{\text{初始}}\rangle}{\sqrt{\langle\Psi_{\text{初始}}|\hat{S}^{\dagger}\hat{S}|\Psi_{\text{初始}}\rangle}}$$
+$$
+|\text{选择后}\rangle = \frac{\hat{S}|\Psi_{\text{初始}}\rangle}{\sqrt{\langle\Psi_{\text{初始}}|\hat{S}^{\dagger}\hat{S}|\Psi_{\text{初始}}\rangle}}
+$$
 
    其中 $`\hat{S}`$ 是选择算符，与环境条件相应。
 
 3. **量子跃迁演化**：快速进化变化可视为量子跃迁：
 
-   $$P(\text{跃迁}) = |\langle\Psi_{\text{最终}}|\hat{U}_{\text{进化}}|\Psi_{\text{初始}}\rangle|^2$$
+$$
+P(\text{跃迁}) = |\langle\Psi_{\text{最终}}|\hat{U}_{\text{进化}}|\Psi_{\text{初始}}\rangle|^2
+$$
 
    表示从一个进化稳态到另一个的跃迁概率。
 
@@ -208,19 +256,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **波函数弹性**：系统在扰动后通过量子态的重新展开返回原状态：
 
-   $$|\Psi_{\text{恢复}}\rangle = \hat{R}|\Psi_{\text{扰动}}\rangle$$
+$$
+|\Psi_{\text{恢复}}\rangle = \hat{R}|\Psi_{\text{扰动}}\rangle
+$$
 
    其中 $`\hat{R}`$ 是恢复算符，使系统重返原有吸引子。
 
 2. **量子-经典恢复路径**：系统恢复遵循量子态到经典态的转变：
 
-   $$|\Psi_{\text{扰动}}\rangle \xrightarrow{\text{扩展}} \sum_i c_i |\text{恢复}_i\rangle \xrightarrow{\text{选择}} |\phi_{\text{恢复}}\rangle$$
+$$
+|\Psi_{\text{扰动}}\rangle \xrightarrow{\text{扩展}} \sum_i c_i |\text{恢复}_i\rangle \xrightarrow{\text{选择}} |\phi_{\text{恢复}}\rangle
+$$
 
    表示系统首先探索多种恢复路径，然后选择最优路径。
 
 3. **弹性生态维度**：系统弹性与维持的量子维度相关：
 
-   $$R_{\text{弹性}} \propto \log(\dim(\mathcal{H}_{\text{生态}}))$$
+$$
+R_{\text{弹性}} \propto \log(\dim(\mathcal{H}_{\text{生态}}))
+$$
 
    其中 $`\dim(\mathcal{H}_{\text{生态}})`$ 是生态系统的有效希尔伯特空间维度。
 
@@ -232,19 +286,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **生态量子相变**：系统经历量子态的根本重组：
 
-   $$|\Psi_{\text{前}}\rangle \xrightarrow{\lambda \to \lambda_c} |\Psi_{\text{后}}\rangle$$
+$$
+|\Psi_{\text{前}}\rangle \xrightarrow{\lambda \to \lambda_c} |\Psi_{\text{后}}\rangle
+$$
 
    其中两个态的内积 $`\langle\Psi_{\text{前}}|\Psi_{\text{后}}\rangle \approx 0`$，表示相变前后状态的正交性。
 
 2. **早期预警信号**：临界点前的量子涨落指标：
 
-   $$\chi \propto \frac{1}{|\lambda - \lambda_c|^{\gamma}}$$
+$$
+\chi \propto \frac{1}{|\lambda - \lambda_c|^{\gamma}}
+$$
 
    其中 $`\chi`$ 是生态敏感性，$`\gamma`$ 是临界指数。
 
 3. **量子-经典生态相图**：描述系统可能的相态：
 
-   $$\mathcal{P} = \{(\lambda_1,\lambda_2,...,\lambda_n): \Phi(\lambda_1,\lambda_2,...,\lambda_n)\}$$
+$$
+\mathcal{P} = \{(\lambda_1,\lambda_2,...,\lambda_n): \Phi(\lambda_1,\lambda_2,...,\lambda_n)\}
+$$
 
    其中 $`\Phi`$ 表示在参数 $`\lambda_i`$ 配置下系统的生态相。
 
@@ -254,19 +314,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **量子多样性效应**：多样性增加系统的量子可能性：
 
-   $$\dim(\mathcal{H}_{\text{多样性}}) \propto S_{\text{物种}}$$
+$$
+\dim(\mathcal{H}_{\text{多样性}}) \propto S_{\text{物种}}
+$$
 
    其中 $`S_{\text{物种}}`$ 是物种丰富度。
 
 2. **双稳态系统中的量子-经典转换**：
 
-   $$V(\phi) = a\phi^4 - b\phi^2$$
+$$
+V(\phi) = a\phi^4 - b\phi^2
+$$
 
    当 $`b > 0`$ 时，系统表现出双稳态，可在两个经典态间振荡。
 
 3. **多样性-稳定性权衡**：
 
-   $$\sigma^2_{\text{系统}} = \frac{\sigma^2_{\text{种群}}}{\alpha \cdot S}$$
+$$
+\sigma^2_{\text{系统}} = \frac{\sigma^2_{\text{种群}}}{\alpha \cdot S}
+$$
 
    其中增加的物种数 $`S`$ 和种间相互作用 $`\alpha`$ 降低了系统波动 $`\sigma^2_{\text{系统}}`$。
 
@@ -278,19 +344,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **人类生态观察者**：人类社会作为生态系统的集体观察者：
 
-   $$\mathcal{O}_{\text{人类}} = \{\mathcal{C}_{\text{人类}}, \mathcal{Q}_{\text{人类}}, K_C^{\text{生态}}\}$$
+$$
+\mathcal{O}_{\text{人类}} = \{\mathcal{C}_{\text{人类}}, \mathcal{Q}_{\text{人类}}, K_C^{\text{生态}}\}
+$$
 
    其中 $`\mathcal{C}_{\text{人类}}`$ 是经典化能力（观察和测量生态系统），$`\mathcal{Q}_{\text{人类}}`$ 是量子化能力（创造新生态可能性），$`K_C^{\text{生态}}`$ 是积累的生态知识。
 
 2. **社会-生态耦合**：人类活动与生态系统的深度互动：
 
-   $$\frac{d\vec{S}}{dt} = \vec{f}_S(\vec{S}, \vec{E}), \quad \frac{d\vec{E}}{dt} = \vec{f}_E(\vec{E}, \vec{S})$$
+$$
+\frac{d\vec{S}}{dt} = \vec{f}_S(\vec{S}, \vec{E}), \quad \frac{d\vec{E}}{dt} = \vec{f}_E(\vec{E}, \vec{S})
+$$
 
    其中 $`\vec{S}`$ 和 $`\vec{E}`$ 分别是社会和生态状态向量，函数 $`\vec{f}_S`$ 和 $`\vec{f}_E`$ 描述它们的相互依赖。
 
 3. **感知-行动循环**：人类对生态系统的感知和干预循环：
 
-   $$\text{感知} \to \text{解释} \to \text{决策} \to \text{行动} \to \text{生态变化} \to \text{感知}$$
+$$
+\text{感知} \to \text{解释} \to \text{决策} \to \text{行动} \to \text{生态变化} \to \text{感知}
+$$
 
    构成人类-生态系统的闭环互动。
 
@@ -300,20 +372,29 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **可持续性态叠加**：可持续发展路径的多种可能性：
 
-   $$|\Psi_{\text{可持续}}\rangle = \sum_i c_i |\text{路径}_i\rangle$$
+$$
+|\Psi_{\text{可持续}}\rangle = \sum_i c_i |\text{路径}_i\rangle
+$$
 
    表示不同可持续发展路径的叠加。
 
 2. **强弱可持续性的二元解释**：
 
-   $$\text{强可持续性}: K_N = \text{常数}$$
-   $$\text{弱可持续性}: K_N + K_H + K_M = \text{常数}$$
+$$
+\text{强可持续性}: K_N = \text{常数}
+$$
+
+$$
+\text{弱可持续性}: K_N + K_H + K_M = \text{常数}
+$$
 
    其中 $`K_N`$、$`K_H`$ 和 $`K_M`$ 分别是自然、人力和制造资本。
 
 3. **社会-生态转型的量子跃迁**：
 
-   $$P(\text{转型}) = |\langle\Psi_{\text{可持续}}|\hat{T}|\Psi_{\text{现状}}\rangle|^2$$
+$$
+P(\text{转型}) = |\langle\Psi_{\text{可持续}}|\hat{T}|\Psi_{\text{现状}}\rangle|^2
+$$
 
    其中 $`\hat{T}`$ 是转型算符，测量系统从当前状态转向可持续状态的概率。
 
@@ -325,19 +406,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **管理决策的二元性**：同时包含确定性策略和可能性探索：
 
-   $$D_{\text{管理}} = \alpha D_C + (1-\alpha) D_Q$$
+$$
+D_{\text{管理}} = \alpha D_C + (1-\alpha) D_Q
+$$
 
    其中 $`D_C`$ 是基于确定知识的决策成分，$`D_Q`$ 是探索性的量子决策成分。
 
 2. **适应性探测**：管理行动作为生态系统状态的测量：
 
-   $$|\Psi_{\text{后}}\rangle = \frac{\hat{M}_a |\Psi_{\text{前}}\rangle}{||\hat{M}_a |\Psi_{\text{前}}\rangle||}$$
+$$
+|\Psi_{\text{后}}\rangle = \frac{\hat{M}_a |\Psi_{\text{前}}\rangle}{||\hat{M}_a |\Psi_{\text{前}}\rangle||}
+$$
 
    其中 $`\hat{M}_a`$ 是与管理行动 $`a`$ 相关的测量算符。
 
 3. **学习-适应循环**：管理过程作为持续的量子-经典转换循环：
 
-   $$|\Psi_t\rangle \xrightarrow{\text{行动}} |\phi_t\rangle \xrightarrow{\text{学习}} |\Psi_{t+1}\rangle \xrightarrow{\text{行动}} |\phi_{t+1}\rangle \cdots$$
+$$
+|\Psi_t\rangle \xrightarrow{\text{行动}} |\phi_t\rangle \xrightarrow{\text{学习}} |\Psi_{t+1}\rangle \xrightarrow{\text{行动}} |\phi_{t+1}\rangle \cdots
+$$
 
    表示在管理中交替的观察/行动和学习/适应阶段。
 
@@ -347,19 +434,25 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 1. **生态服务波函数**：生态系统服务表示为可能性的叠加：
 
-   $$|\Psi_{\text{服务}}\rangle = \sum_i s_i |\text{服务}_i\rangle$$
+$$
+|\Psi_{\text{服务}}\rangle = \sum_i s_i |\text{服务}_i\rangle
+$$
 
    其中 $`s_i`$ 表示特定服务的量子振幅。
 
 2. **观察者依赖的服务价值**：
 
-   $$V(\text{服务}) = \langle\Psi_{\text{服务}}|\hat{V}_{\mathcal{O}}|\Psi_{\text{服务}}\rangle$$
+$$
+V(\text{服务}) = \langle\Psi_{\text{服务}}|\hat{V}_{\mathcal{O}}|\Psi_{\text{服务}}\rangle
+$$
 
    其中 $`\hat{V}_{\mathcal{O}}`$ 是与观察者 $`\mathcal{O}`$ 相关的价值算符。
 
 3. **服务供应-需求耦合**：
 
-   $$\mathcal{S} = \min(\mathcal{S}_{\text{潜在}}, \mathcal{S}_{\text{需求}}, \mathcal{S}_{\text{获取}})$$
+$$
+\mathcal{S} = \min(\mathcal{S}_{\text{潜在}}, \mathcal{S}_{\text{需求}}, \mathcal{S}_{\text{获取}})
+$$
 
    表示实际的服务流动取决于潜在供应、社会需求和获取能力的最小值。
 
@@ -367,4 +460,4 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
 量子-经典生态系统理论为理解和管理日益复杂的生态挑战提供了创新框架。通过整合传统生态学的确定性视角和量子理论的不确定性/可能性视角，该理论能更全面地理解生态复杂性、弹性、适应性和转型。
 
-未来研究方向包括：开发生态系统量子测量方法；建立生态系统量子信息指标；探索人类观察者在生态系统经典化中的作用；以及将量子-经典生态理论应用于实际保护和管理决策。 
+未来研究方向包括：开发生态系统量子测量方法；建立生态系统量子信息指标；探索人类观察者在生态系统经典化中的作用；以及将量子-经典生态理论应用于实际保护和管理决策。

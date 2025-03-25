@@ -47,24 +47,44 @@ ABC猜想是数论中最深刻且影响广泛的未解决问题之一，连接�
 ### 定理序列与严格推导
 
 **定理1**（Mason-Stothers定理的推广）：对于任意三个互素多项式$`A, B, C \in \mathbb{C}[x]`$，满足$`A + B = C`$且$`C \neq 0`$，有
-$$\max\{\text{deg}(A), \text{deg}(B), \text{deg}(C)\} \leq \text{deg}(\text{rad}(ABC)) - 1$$
+
+$$
+\max\{\text{deg}(A), \text{deg}(B), \text{deg}(C)\} \leq \text{deg}(\text{rad}(ABC)) - 1
+$$
 
 **推论1.1**：对于任意无平方因子的多项式$`f \in \mathbb{C}[x]`$，若$`\text{deg}(f) > 1`$，则
-$$\max\{a, b, c\} < \text{rad}(abc)^2$$
+
+$$
+\max\{a, b, c\} < \text{rad}(abc)^2
+$$
+
 其中$`a, b, c`$是$`f`$的三个互不相同的根。
 
 **定理2**（Belyi函数转换原理）：对于任意互素的$`(a, b, c)`$满足$`a + b = c`$，存在Belyi映射$`\beta: \mathbb{P}^1 \to \mathbb{P}^1`$，使得
-$$\beta^{-1}(\{0, 1, \infty\}) = \{0, \frac{a}{c}, 1, \infty\}$$
+
+$$
+\beta^{-1}(\{0, 1, \infty\}) = \{0, \frac{a}{c}, 1, \infty\}
+$$
 
 **引理2.1**：使用定理2中的Belyi映射，可以构造椭圆曲线
-$$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
+
+$$
+E_{a,b,c}: y^2 = x(x-a)(x+b)
+$$
+
 使得其判别式$`\Delta = 16a^2b^2c^2`$与导子$`\mathcal{N} = \text{rad}(abc)`$之间满足特定关系。
 
 **定理3**（模形式理论与Frey曲线）：对于Frey曲线$`E_{a,b,c}`$，其与模形式之间存在一对一对应，并且
-$$\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}$$
+
+$$
+\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}
+$$
 
 **定理4**（振幅衰减律的严格形式）：在所有满足$`a + b = c`$且$`\gcd(a,b,c) = 1`$的三元组中，质量指标$`\kappa(a,b,c) > 1 + \varepsilon`$的三元组数量满足
-$$\#\{(a,b,c): \kappa(a,b,c) > 1 + \varepsilon, \max\{a,b,c\} \leq N\} = O(N^{2-\varepsilon+o(1)})$$
+
+$$
+\#\{(a,b,c): \kappa(a,b,c) > 1 + \varepsilon, \max\{a,b,c\} \leq N\} = O(N^{2-\varepsilon+o(1)})
+$$
 
 **主定理**（ABC猜想）：对于任意$`\varepsilon > 0`$，集合$`S_\varepsilon`$是有限的。
 
@@ -126,13 +146,22 @@ $$
 我们定义从量子域到经典域的映射 $`\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C`$，通过以下步骤：
 
 1. 定义根基函数 $`\text{rad}: \mathbb{N} \rightarrow \mathbb{N}`$，其中：
-   $$\text{rad}(n) = \prod_{p|n} p$$
+
+$$
+\text{rad}(n) = \prod_{p|n} p
+$$
 
 2. 定义质量指标 $`\kappa: \mathbb{N}^3 \rightarrow \mathbb{R}^+`$，其中：
-   $$\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}$$
+
+$$
+\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}
+$$
 
 3. 量子到经典的映射定义为：
-   $$\mathcal{T}(|\Psi_{ABC}\rangle) = \{(a,b,c) \in \mathbb{N}^3 | a+b=c, \gcd(a,b,c)=1\}$$
+
+$$
+\mathcal{T}(|\Psi_{ABC}\rangle) = \{(a,b,c) \in \mathbb{N}^3 | a+b=c, \gcd(a,b,c)=1\}
+$$
 
 这种映射保留了ABC三元组的基本结构，同时将量子纠缠态转换为经典集合。
 
@@ -142,19 +171,25 @@ $$
 
 1. **加法不变性**：在量子域和经典域中，加法关系 $`a + b = c`$ 保持不变。形式化表示为：
 
-   $$\langle \Psi_{ABC}|\hat{A}|\Psi_{ABC}\rangle = 1$$
+$$
+\langle \Psi_{ABC}|\hat{A}|\Psi_{ABC}\rangle = 1
+$$
 
    其中 $`\hat{A}`$ 是加法验证算子。
 
 2. **质量泛函上界**：量子态 $`|\Psi_{ABC}\rangle`$ 的质量泛函存在上界：
 
-   $$\sup_{|\psi\rangle \in \mathcal{H}_Q} \mathcal{M}(|\psi\rangle) = 2$$
+$$
+\sup_{|\psi\rangle \in \mathcal{H}_Q} \mathcal{M}(|\psi\rangle) = 2
+$$
 
    这对应于经典域中 $`\kappa(a,b,c)`$ 的渐近上界。
 
 3. **振幅衰减律**：当质量指标增加时，量子振幅呈指数衰减：
 
-   $$|\alpha_{a,b,c}|^2 \sim e^{-\lambda[\kappa(a,b,c)-1]}$$
+$$
+|\alpha_{a,b,c}|^2 \sim e^{-\lambda[\kappa(a,b,c)-1]}
+$$
 
    其中 $`\lambda > 0`$ 是系统特征常数。
 
@@ -164,19 +199,25 @@ $$
 
 1. **Szpiro不等式扩展**：建立椭圆曲线判别式与导子之间的关系：
 
-   $$\log|\Delta_E| \leq (6+\epsilon) \log \mathcal{N}_E$$
+$$
+\log|\Delta_E| \leq (6+\epsilon) \log \mathcal{N}_E
+$$
 
    其中 $`\Delta_E`$ 是椭圆曲线 $`E`$ 的判别式，$`\mathcal{N}_E`$ 是其导子。
 
 2. **Frey曲线应用**：对于每个ABC三元组 $`(a,b,c)`$，构造相应的Frey曲线：
 
-   $$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
+$$
+E_{a,b,c}: y^2 = x(x-a)(x+b)
+$$
 
    分析其判别式 $`\Delta = a^2b^2c^2`$ 和导子 $`\mathcal{N} \approx \text{rad}(abc)`$。
 
 3. **模形式理论**：利用模形式的实现与加权平均分布，证明：
 
-   $$\kappa(a,b,c) < 2 + o(1)$$
+$$
+\kappa(a,b,c) < 2 + o(1)
+$$
 
    对几乎所有ABC三元组成立。
 
@@ -189,14 +230,18 @@ $$
 1. **观察分辨率限制**：在有限维观察系统中，可分辨的最大质量指标为 $`\kappa_{max} \approx 1 + \frac{\log d}{\log \log d}`$，其中 $`d`$ 是观察系统维度。
 
 2. **测量坍缩效应**：对 $`|\Psi_{ABC}\rangle`$ 的测量导致状态坍缩，使得：
-   
-   $$\left|\langle \Phi_{obs}|\Psi_{ABC}\rangle\right|^2 \leq \frac{1}{\sqrt{d}} \sum_{(a,b,c)} |\alpha_{a,b,c}|^2$$
+
+$$
+\left|\langle \Phi_{obs}|\Psi_{ABC}\rangle\right|^2 \leq \frac{1}{\sqrt{d}} \sum_{(a,b,c)} |\alpha_{a,b,c}|^2
+$$
 
    其中 $`|\Phi_{obs}\rangle`$ 是观察者状态。
 
 3. **复杂性障碍**：当质量指标 $`\kappa(a,b,c)`$ 增加时，观察系统需要的复杂度呈指数增长：
 
-   $$C_{obs}(\kappa) \geq 2^{\kappa \cdot \log \kappa}$$
+$$
+C_{obs}(\kappa) \geq 2^{\kappa \cdot \log \kappa}
+$$
 
    这解释了为什么高质量指标的ABC三元组难以被构造或观察。
 
@@ -267,24 +312,44 @@ First, we establish a rigorous notation system:
 ### Theorem Sequence and Rigorous Derivation
 
 **Theorem 1** (Generalization of Mason-Stothers Theorem): For any three coprime polynomials $`A, B, C \in \mathbb{C}[x]`$ satisfying $`A + B = C`$ and $`C \neq 0`$, we have
-$$\max\{\text{deg}(A), \text{deg}(B), \text{deg}(C)\} \leq \text{deg}(\text{rad}(ABC)) - 1$$
+
+$$
+\max\{\text{deg}(A), \text{deg}(B), \text{deg}(C)\} \leq \text{deg}(\text{rad}(ABC)) - 1
+$$
 
 **Corollary 1.1**: For any square-free polynomial $`f \in \mathbb{C}[x]`$ with $`\text{deg}(f) > 1`$,
-$$\max\{a, b, c\} < \text{rad}(abc)^2$$
+
+$$
+\max\{a, b, c\} < \text{rad}(abc)^2
+$$
+
 where $`a, b, c`$ are three distinct roots of $`f`$.
 
 **Theorem 2** (Belyi Function Transformation Principle): For any coprime $`(a, b, c)`$ satisfying $`a + b = c`$, there exists a Belyi map $`\beta: \mathbb{P}^1 \to \mathbb{P}^1`$ such that
-$$\beta^{-1}(\{0, 1, \infty\}) = \{0, \frac{a}{c}, 1, \infty\}$$
+
+$$
+\beta^{-1}(\{0, 1, \infty\}) = \{0, \frac{a}{c}, 1, \infty\}
+$$
 
 **Lemma 2.1**: Using the Belyi map from Theorem 2, one can construct an elliptic curve
-$$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
+
+$$
+E_{a,b,c}: y^2 = x(x-a)(x+b)
+$$
+
 such that its discriminant $`\Delta = 16a^2b^2c^2`$ and conductor $`\mathcal{N} = \text{rad}(abc)`$ satisfy a specific relationship.
 
 **Theorem 3** (Modular Form Theory and Frey Curves): For the Frey curve $`E_{a,b,c}`$, there exists a one-to-one correspondence with modular forms, and
-$$\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}$$
+
+$$
+\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}
+$$
 
 **Theorem 4** (Rigorous Form of Amplitude Attenuation Law): Among all triples satisfying $`a + b = c`$ and $`\gcd(a,b,c) = 1`$, the number of triples with quality index $`\kappa(a,b,c) > 1 + \varepsilon`$ satisfies
-$$\#\{(a,b,c): \kappa(a,b,c) > 1 + \varepsilon, \max\{a,b,c\} \leq N\} = O(N^{2-\varepsilon+o(1)})$$
+
+$$
+\#\{(a,b,c): \kappa(a,b,c) > 1 + \varepsilon, \max\{a,b,c\} \leq N\} = O(N^{2-\varepsilon+o(1)})
+$$
 
 **Main Theorem** (ABC Conjecture): For any $`\varepsilon > 0`$, the set $`S_\varepsilon`$ is finite.
 
@@ -346,13 +411,22 @@ This functional captures the essence of the ABC Conjecture—comparing the growt
 We define the mapping from the quantum domain to the classical domain $`\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C`$, through the following steps:
 
 1. Define the radical function $`\text{rad}: \mathbb{N} \rightarrow \mathbb{N}`$, where:
-   $$\text{rad}(n) = \prod_{p|n} p$$
+
+$$
+\text{rad}(n) = \prod_{p|n} p
+$$
 
 2. Define the quality index $`\kappa: \mathbb{N}^3 \rightarrow \mathbb{R}^+`$, where:
-   $$\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}$$
+
+$$
+\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}
+$$
 
 3. The quantum-to-classical mapping is defined as:
-   $$\mathcal{T}(|\Psi_{ABC}\rangle) = \{(a,b,c) \in \mathbb{N}^3 | a+b=c, \gcd(a,b,c)=1\}$$
+
+$$
+\mathcal{T}(|\Psi_{ABC}\rangle) = \{(a,b,c) \in \mathbb{N}^3 | a+b=c, \gcd(a,b,c)=1\}
+$$
 
 This mapping preserves the fundamental structure of ABC triples while converting the quantum entangled state to a classical set.
 
@@ -362,19 +436,25 @@ We identify several key properties that remain invariant during the quantum-clas
 
 1. **Addition Invariance**: The additive relationship $`a + b = c`$ remains invariant in both the quantum and classical domains. Formally represented as:
 
-   $$\langle \Psi_{ABC}|\hat{A}|\Psi_{ABC}\rangle = 1$$
+$$
+\langle \Psi_{ABC}|\hat{A}|\Psi_{ABC}\rangle = 1
+$$
 
    where $`\hat{A}`$ is the addition verification operator.
 
 2. **Quality Functional Upper Bound**: The quality functional of the quantum state $`|\Psi_{ABC}\rangle`$ has an upper bound:
 
-   $$\sup_{|\psi\rangle \in \mathcal{H}_Q} \mathcal{M}(|\psi\rangle) = 2$$
+$$
+\sup_{|\psi\rangle \in \mathcal{H}_Q} \mathcal{M}(|\psi\rangle) = 2
+$$
 
    This corresponds to the asymptotic upper bound of $`\kappa(a,b,c)`$ in the classical domain.
 
 3. **Amplitude Attenuation Law**: As the quality index increases, the quantum amplitudes decay exponentially:
 
-   $$|\alpha_{a,b,c}|^2 \sim e^{-\lambda[\kappa(a,b,c)-1]}$$
+$$
+|\alpha_{a,b,c}|^2 \sim e^{-\lambda[\kappa(a,b,c)-1]}
+$$
 
    where $`\lambda > 0`$ is a characteristic constant of the system.
 
@@ -384,19 +464,25 @@ In the classical domain, we verify the conjecture using analytic number theory a
 
 1. **Szpiro Inequality Extension**: Establish the relationship between elliptic curve discriminants and conductors:
 
-   $$\log|\Delta_E| \leq (6+\epsilon) \log \mathcal{N}_E$$
+$$
+\log|\Delta_E| \leq (6+\epsilon) \log \mathcal{N}_E
+$$
 
    where $`\Delta_E`$ is the discriminant of an elliptic curve $`E`$, and $`\mathcal{N}_E`$ is its conductor.
 
 2. **Frey Curve Application**: For each ABC triple $`(a,b,c)`$, construct the corresponding Frey curve:
 
-   $$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
+$$
+E_{a,b,c}: y^2 = x(x-a)(x+b)
+$$
 
    Analyze its discriminant $`\Delta = a^2b^2c^2`$ and conductor $`\mathcal{N} \approx \text{rad}(abc)`$.
 
 3. **Modular Form Theory**: Using the realization of modular forms and weighted average distribution, prove that:
 
-   $$\kappa(a,b,c) < 2 + o(1)$$
+$$
+\kappa(a,b,c) < 2 + o(1)
+$$
 
    holds for almost all ABC triples.
 
@@ -409,14 +495,18 @@ In the dualism framework, the role of the observer is crucial for interpreting r
 1. **Observation Resolution Limit**: In a finite-dimensional observer system, the maximum discernible quality index is $`\kappa_{max} \approx 1 + \frac{\log d}{\log \log d}`$, where $`d`$ is the dimension of the observer system.
 
 2. **Measurement Collapse Effect**: Measurement of $`|\Psi_{ABC}\rangle`$ leads to state collapse, such that:
-   
-   $$\left|\langle \Phi_{obs}|\Psi_{ABC}\rangle\right|^2 \leq \frac{1}{\sqrt{d}} \sum_{(a,b,c)} |\alpha_{a,b,c}|^2$$
+
+$$
+\left|\langle \Phi_{obs}|\Psi_{ABC}\rangle\right|^2 \leq \frac{1}{\sqrt{d}} \sum_{(a,b,c)} |\alpha_{a,b,c}|^2
+$$
 
    where $`|\Phi_{obs}\rangle`$ is the observer state.
 
 3. **Complexity Barrier**: As the quality index $`\kappa(a,b,c)`$ increases, the complexity required of the observer system grows exponentially:
 
-   $$C_{obs}(\kappa) \geq 2^{\kappa \cdot \log \kappa}$$
+$$
+C_{obs}(\kappa) \geq 2^{\kappa \cdot \log \kappa}
+$$
 
    This explains why ABC triples with high quality indices are difficult to construct or observe.
 
@@ -447,4 +537,4 @@ These conditions have been verified through the fusion of modern number theory a
 11. Elkies, N. D. (1991). ABC implies Mordell. International Mathematics Research Notices, 1991(7), 99-109.
 12. Stewart, C. L., & Yu, K. (2001). On the ABC conjecture, II. Duke Mathematical Journal, 108(1), 169-181.
 13. Cohen, P. J. (1963). The independence of the continuum hypothesis. Proceedings of the National Academy of Sciences, 50(6), 1143-1148.
-14. Gödel, K. (1940). The Consistency of the Continuum Hypothesis. Princeton University Press. 
+14. Gödel, K. (1940). The Consistency of the Continuum Hypothesis. Princeton University Press.

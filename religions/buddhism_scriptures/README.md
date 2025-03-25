@@ -1,9 +1,9 @@
 # 佛教经典量子经典二元论解释 | Buddhist Scriptures Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#佛教经典解析) | [English Version](#buddhist-scriptures-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [经典分类](#经典分类-scripture-categories) | [完成状态](#完成状态-completion-status)  
+**导航 | Navigation**
+[中文版](#佛教经典解析) | [English Version](#buddhist-scriptures-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [经典分类](#经典分类-scripture-categories) | [完成状态](#完成状态-completion-status)
 English: [Overview](#概述-overview) | [Scripture Categories](#经典分类-scripture-categories) | [Completion Status](#完成状态-completion-status)
 
 ## 概述 (Overview)
@@ -70,4 +70,4 @@ All Buddhist scripture files have been completed and analyzed. Each file include
 All analyses are based on the Quantum-Classical Dualism framework (Version 9.2), including:
 - Quantum domain interpretation (quantum superposition state, quantum entanglement state)
 - Classical domain interpretation (classical path, observer dimension)
-- Mathematical expression (quantum state evolution equation, classical path equation) 
+- Mathematical expression (quantum state evolution equation, classical path equation)

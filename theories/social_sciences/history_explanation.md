@@ -1,9 +1,9 @@
 # 历史学视角下的量子经典二元论 (Quantum-Classical Dualism from Historical Perspective)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[引言](#1-引言历史学与量子经典二元论) | [历史叙事视角](#2-历史叙事视角) | [历史变革视角](#3-历史变革视角) | [历史解释视角](#4-历史解释视角) | [集体记忆视角](#5-集体记忆视角)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[引言](#1-引言历史学与量子经典二元论) | [历史叙事视角](#2-历史叙事视角) | [历史变革视角](#3-历史变革视角) | [历史解释视角](#4-历史解释视角) | [集体记忆视角](#5-集体记忆视角)
 English: [Introduction](#1-introduction-history-and-quantum-classical-dualism) | [Historical Narrative Perspective](#2-historical-narrative-perspective) | [Historical Change Perspective](#3-historical-change-perspective) | [Historical Explanation Perspective](#4-historical-explanation-perspective) | [Collective Memory Perspective](#5-collective-memory-perspective)
 
 ## 索引
@@ -197,7 +197,7 @@ I_{\text{既有传统（旧经典世界）}} + |\psi\rangle_{\text{增量变化�
 历史周期理论可类比于量子经典二元论中的经典世界循环更新。文明和社会形态呈现某种周期性变化：
 
 ```math
-\text{历史周期}: I_1 \rightarrow S_1 \rightarrow |\psi\rangle_1 \rightarrow I_2 \rightarrow S_2 \rightarrow |\psi\rangle_2 \rightarrow ... 
+\text{历史周期}: I_1 \rightarrow S_1 \rightarrow |\psi\rangle_1 \rightarrow I_2 \rightarrow S_2 \rightarrow |\psi\rangle_2 \rightarrow ...
 ```
 
 历史周期反映了经典世界的形成、稳定、熵增、解体和重构的循环过程，体现了量子-经典转换的长时间尺度模式。
@@ -312,4 +312,4 @@ I_{\text{文化传统（原经典知识）}} \xrightarrow{\text{传承过程}} I
 
 History, as the discipline studying the human past, focusing on change and continuity over time, causal relationships of events, the evolution of society and culture, and the interpretation and memory of the past, has multi-level conceptual correspondences with Quantum-Classical Dualism. Core phenomena in history, such as the multiple possibilities of events versus specific historical paths, the selection of historical materials versus historical narratives, and collective memory versus forgetting, all bear striking similarities to the quantum-classical dual structure, classicalization process, and observer network in Quantum-Classical Dualism. Through the historical perspective, we can more intuitively understand the application of Quantum-Classical Dualism in the fields of time, memory, and social evolution, and explore its implications for historical theory and methodology.
 
-[English content continues with detailed sections corresponding to the Chinese version...] 
+[English content continues with detailed sections corresponding to the Chinese version...]

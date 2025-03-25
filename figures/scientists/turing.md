@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1912年-1954年 (1912-1954)  
-**国籍 | Nationality**: 英国 (United Kingdom)  
-**主要领域 | Main Fields**: 计算机科学、人工智能、密码学、数学、逻辑学、哲学 (Computer Science, Artificial Intelligence, Cryptography, Mathematics, Logic, Philosophy)  
+**生卒年份 | Lifespan**: 1912年-1954年 (1912-1954)
+**国籍 | Nationality**: 英国 (United Kingdom)
+**主要领域 | Main Fields**: 计算机科学、人工智能、密码学、数学、逻辑学、哲学 (Computer Science, Artificial Intelligence, Cryptography, Mathematics, Logic, Philosophy)
 **代表作品 | Representative Works**: 《论数字计算在决断性问题中的应用》、《计算机器与智能》、图灵机概念、Enigma密码破译、图灵测试 (On Computable Numbers with an Application to the Entscheidungsproblem, Computing Machinery and Intelligence, Turing Machine Concept, Enigma Code Breaking, Turing Test)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From a Quantum-Classical Dualism perspective, the morphogenesis theory proposed 
 - "We can only see a short distance ahead, but we can see plenty there that needs to be done."
 - "Science is a differential equation. Religion is a boundary condition."
 - "If a machine can think, might it not also feel? If it can feel, might it not suffer?"
-- "Beware of the tendency to express information loss in terms of digits. Everything will become some form of digits, but we need not lose the ability to interpret them." 
+- "Beware of the tendency to express information loss in terms of digits. Everything will become some form of digits, but we need not lose the ability to interpret them."

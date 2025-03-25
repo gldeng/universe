@@ -35,23 +35,33 @@
 
 1. **历史进程的量子叠加**：《战争与和平》中的历史观：
 
-$$|\psi\rangle_{\text{历史}} = \sum_i c_i |\text{个人意志}_i\rangle \otimes |\text{历史必然}_i\rangle$$
+$$
+|\psi\rangle_{\text{历史}} = \sum_i c_i |\text{个人意志}_i\rangle \otimes |\text{历史必然}_i\rangle
+$$
 
 2. **道德选择的量子态**：安娜·卡列尼娜的生命抉择：
 
-$$|\phi\rangle_{\text{道德}} = \alpha |\text{社会规范}\rangle + \beta |\text{个人幸福}\rangle + \gamma |\text{道德责任}\rangle$$
+$$
+|\phi\rangle_{\text{道德}} = \alpha |\text{社会规范}\rangle + \beta |\text{个人幸福}\rangle + \gamma |\text{道德责任}\rangle
+$$
 
 3. **精神觉醒的量子跃迁**：涅克留朵夫（《复活》）的精神转变：
 
-$$|\psi\rangle_{\text{初始}} \xrightarrow{\text{道德觉醒}} |\phi\rangle_{\text{新生}}$$
+$$
+|\psi\rangle_{\text{初始}} \xrightarrow{\text{道德觉醒}} |\phi\rangle_{\text{新生}}
+$$
 
 4. **生死认知的量子纠缠**：《伊凡·伊里奇之死》中的生死观：
 
-$$|\Psi_{\text{生死}}\rangle = \sum_t c_t |\text{生}\rangle_t \otimes |\text{死}\rangle_t$$
+$$
+|\Psi_{\text{生死}}\rangle = \sum_t c_t |\text{生}\rangle_t \otimes |\text{死}\rangle_t
+$$
 
 5. **社会变革的量子态**：托尔斯泰对社会改革的思考：
 
-$$|\psi\rangle_{\text{社会}} = \alpha |\text{现存秩序}\rangle + \beta |\text{理想状态}\rangle$$
+$$
+|\psi\rangle_{\text{社会}} = \alpha |\text{现存秩序}\rangle + \beta |\text{理想状态}\rangle
+$$
 
 ### 现代意义
 
@@ -65,9 +75,9 @@ $$|\psi\rangle_{\text{社会}} = \alpha |\text{现存秩序}\rangle + \beta |\te
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1828年9月9日 - 1910年11月20日  
-**国籍 (Nationality)**: 俄国 (Russian)  
-**领域 (Fields)**: 文学、哲学、宗教思想、社会批评  
+**生平 (Life Span)**: 1828年9月9日 - 1910年11月20日
+**国籍 (Nationality)**: 俄国 (Russian)
+**领域 (Fields)**: 文学、哲学、宗教思想、社会批评
 **代表作品 (Representative Works)**: 《战争与和平》、《安娜·卡列尼娜》、《复活》、《忏悔录》
 
 ## 核心思想 (Core Ideas)
@@ -169,21 +179,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "幸福的家庭都是相似的，不幸的家庭各有各的不幸。"
-> 
+>
 > "All happy families are alike; each unhappy family is unhappy in its own way."
 
 > "如果恶人团结起来成为一种力量，那么善良的人也必须这样做，这就是全部的道理。"
-> 
+>
 > "If evil men combine, good men must associate; else they will fall, one by one, an unpitied sacrifice in a contemptible struggle."
 
 > "人们往往认为自己在思考，但他们只是在重新安排自己的偏见。"
-> 
+>
 > "The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him."
 
 > "认识你自己，只有这样你才能认识世界。"
-> 
+>
 > "Everyone thinks of changing the world, but no one thinks of changing himself."
 
 > "生活的全部意义和喜悦在于这个：爱和相互行动的无限发展，它们因此本身就带来了幸福。"
-> 
-> "The sole meaning of life is to serve humanity by contributing to the establishment of the kingdom of God, which can only be done by the recognition and profession of the truth by every human being." 
+>
+> "The sole meaning of life is to serve humanity by contributing to the establishment of the kingdom of God, which can only be done by the recognition and profession of the truth by every human being."

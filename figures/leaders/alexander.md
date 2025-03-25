@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 前356年-前323年 (356 BCE-323 BCE)  
-**国籍 | Nationality**: 马其顿王国 (Kingdom of Macedonia)  
-**主要领域 | Main Fields**: 军事战略、帝国统治、文化融合、征服扩张 (Military Strategy, Imperial Governance, Cultural Fusion, Conquest)  
+**生卒年份 | Lifespan**: 前356年-前323年 (356 BCE-323 BCE)
+**国籍 | Nationality**: 马其顿王国 (Kingdom of Macedonia)
+**主要领域 | Main Fields**: 军事战略、帝国统治、文化融合、征服扩张 (Military Strategy, Imperial Governance, Cultural Fusion, Conquest)
 **代表成就 | Representative Achievements**: 建立横跨欧亚非的亚历山大帝国、传播希腊文化、创建亚历山大城系列、开创希腊化时代 (Established Eurasian-African Alexandrian Empire, Spread Greek Culture, Founded Alexandria Cities, Initiated Hellenistic Age)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From a Quantum-Classical Dualism perspective, Alexander's most enduring legacy�
 - "Sleep and sex are the only things that make me realize I am mortal and not a god."
 - "I will not steal a victory."
 - "What lies beyond the world's end?"
-- "For the hopeful, there is no such thing as a distant place." 
+- "For the hopeful, there is no such thing as a distant place."

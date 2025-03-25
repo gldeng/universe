@@ -14,7 +14,9 @@ The Dualistic Education Theory applies the quantum-classical dualism framework t
 
 The learning process $`\mathcal{L}`$ can be formally defined as:
 
-$$\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{O})$$
+$$
+\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{O})
+$$
 
 Where:
 - $`\mathcal{L}_Q`$ is the quantum domain component of learning (creative exploration, intuitive understanding)
@@ -24,31 +26,39 @@ Where:
 
 ### Core Axioms of Educational Theory
 
-**Axiom 1: Learning Duality**  
+**Axiom 1: Learning Duality**
 Effective learning simultaneously includes both quantum and classical essential processes:
 
-$$\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C$$
+$$
+\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C
+$$
 
 Where $`\diamond`$ represents the quantum-classical learning connection operation.
 
-**Axiom 2: Knowledge State Superposition**  
+**Axiom 2: Knowledge State Superposition**
 The learner's knowledge state can be represented as a superposition of possible understandings:
 
-$$|\Psi_K\rangle = \sum_i \alpha_i |k_i\rangle$$
+$$
+|\Psi_K\rangle = \sum_i \alpha_i |k_i\rangle
+$$
 
 Where $`|k_i\rangle`$ are knowledge state basis vectors, and $`\alpha_i`$ are complex amplitudes.
 
-**Axiom 3: Learning Balance Principle**  
+**Axiom 3: Learning Balance Principle**
 Optimal learning occurs at the dynamic balance between quantum creativity and classical structure:
 
-$$E_L(\mathcal{L}_Q, \mathcal{L}_C) = \eta_Q \cdot I_Q(\mathcal{L}) + \eta_C \cdot I_C(\mathcal{L})$$
+$$
+E_L(\mathcal{L}_Q, \mathcal{L}_C) = \eta_Q \cdot I_Q(\mathcal{L}) + \eta_C \cdot I_C(\mathcal{L})
+$$
 
 Where $`E_L`$ is learning effectiveness, $`\eta_Q`$ and $`\eta_C`$ are weight coefficients, and $`I_Q`$ and $`I_C`$ are quantum and classical information measures, respectively.
 
-**Axiom 4: Educational Empowerment**  
+**Axiom 4: Educational Empowerment**
 The core function of education is to empower learners to navigate autonomously at the quantum-classical interface:
 
-$$\mathcal{E} = \mathcal{F}(\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, \mathcal{I}_L)$$
+$$
+\mathcal{E} = \mathcal{F}(\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, \mathcal{I}_L)
+$$
 
 Where $`\mathcal{E}`$ is the educational empowerment function, $`\mathcal{C}_{\mathcal{O}}`$ and $`\mathcal{Q}_{\mathcal{O}}`$ are the learner's classicalization and quantization operators, respectively, and $`\mathcal{I}_L`$ is the learning interface.
 
@@ -58,13 +68,17 @@ Where $`\mathcal{E}`$ is the educational empowerment function, $`\mathcal{C}_{\m
 
 The quantum dynamics equation of learning:
 
-$$\frac{d|\Psi_L(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_L(t)|\Psi_L(t)\rangle + \mathcal{D}_L(\rho_L)$$
+$$
+\frac{d|\Psi_L(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_L(t)|\Psi_L(t)\rangle + \mathcal{D}_L(\rho_L)
+$$
 
 Where $`\hat{H}_L(t)`$ is the learning Hamiltonian, and $`\mathcal{D}_L(\rho_L)`$ is the learning decoherence term.
 
 The learning Hamiltonian contains multiple components:
 
-$$\hat{H}_L = \hat{H}_{prior} + \hat{H}_{new} + \hat{H}_{int}$$
+$$
+\hat{H}_L = \hat{H}_{prior} + \hat{H}_{new} + \hat{H}_{int}
+$$
 
 Where:
 - $`\hat{H}_{prior}`$ represents prior knowledge
@@ -80,7 +94,9 @@ Characteristics of quantum learning:
 
 The classical structure of knowledge can be represented as a graph theory model:
 
-$$K_C = (V_K, E_K, W_K)$$
+$$
+K_C = (V_K, E_K, W_K)
+$$
 
 Where:
 - $`V_K`$ is the set of knowledge nodes
@@ -89,7 +105,9 @@ Where:
 
 Classical learning follows deterministic rules:
 
-$$K_C(t+1) = f_L(K_C(t), I(t))$$
+$$
+K_C(t+1) = f_L(K_C(t), I(t))
+$$
 
 Where $`f_L`$ is the learning mapping function, and $`I(t)`$ is the input information.
 
@@ -102,7 +120,9 @@ Main features of classical learning:
 
 Educational interface dynamics equation:
 
-$$\frac{d\mathcal{I}_L}{dt} = \alpha_L \nabla^2 \mathcal{I}_L + \beta_L(\mathcal{I}_c - \mathcal{I}_L)(\mathcal{I}_L - \mathcal{I}_0) + \gamma_L\xi_L(t) + \delta_L T(t)$$
+$$
+\frac{d\mathcal{I}_L}{dt} = \alpha_L \nabla^2 \mathcal{I}_L + \beta_L(\mathcal{I}_c - \mathcal{I}_L)(\mathcal{I}_L - \mathcal{I}_0) + \gamma_L\xi_L(t) + \delta_L T(t)
+$$
 
 Where:
 - $`\alpha_L`$ is the learning interface diffusion coefficient
@@ -114,7 +134,9 @@ Where:
 
 Stability conditions for the educational interface:
 
-$$\nabla^2 \mathcal{I}_L = 0, \quad \nabla \mathcal{I}_L = 0, \quad \lambda_{min}(\mathcal{H}(\mathcal{I}_L)) > 0$$
+$$
+\nabla^2 \mathcal{I}_L = 0, \quad \nabla \mathcal{I}_L = 0, \quad \lambda_{min}(\mathcal{H}(\mathcal{I}_L)) > 0
+$$
 
 Where $`\mathcal{H}(\mathcal{I}_L)`$ is the Hessian matrix of the interface function.
 
@@ -122,7 +144,9 @@ Where $`\mathcal{H}(\mathcal{I}_L)`$ is the Hessian matrix of the interface func
 
 Dynamic balance between creative thinking (quantum) and critical thinking (classical):
 
-$$\frac{Q_T}{C_T} = f\left(\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}, \mathcal{D}(\mathcal{I}_L), S_L\right)$$
+$$
+\frac{Q_T}{C_T} = f\left(\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}, \mathcal{D}(\mathcal{I}_L), S_L\right)
+$$
 
 Where:
 - $`\frac{Q_T}{C_T}`$ is the quantum-classical ratio of thinking
@@ -131,7 +155,9 @@ Where:
 
 The Zone of Optimal Learning (ZOL) is defined as:
 
-$$ZOL = \{(\mathcal{L}_Q, \mathcal{L}_C) | \eta_Q \cdot I_Q(\mathcal{L}) + \eta_C \cdot I_C(\mathcal{L}) = max, \mathcal{I}_L \in \mathcal{S}_{stable}\}$$
+$$
+ZOL = \{(\mathcal{L}_Q, \mathcal{L}_C) | \eta_Q \cdot I_Q(\mathcal{L}) + \eta_C \cdot I_C(\mathcal{L}) = max, \mathcal{I}_L \in \mathcal{S}_{stable}\}
+$$
 
 Where $`\mathcal{S}_{stable}`$ is the interface stability region.
 
@@ -139,19 +165,25 @@ Where $`\mathcal{S}_{stable}`$ is the interface stability region.
 
 Cognitive entanglement in the learning process:
 
-$$|\Psi_{learning}\rangle = \sum_{i,j} \gamma_{ij} |k_i\rangle \otimes |m_j\rangle$$
+$$
+|\Psi_{learning}\rangle = \sum_{i,j} \gamma_{ij} |k_i\rangle \otimes |m_j\rangle
+$$
 
 Where $`|k_i\rangle`$ are knowledge state basis vectors, and $`|m_j\rangle`$ are mental state basis vectors.
 
 Learning entanglement degree:
 
-$$E(|\Psi_{learning}\rangle) = S(\rho_k) = S(\rho_m)$$
+$$
+E(|\Psi_{learning}\rangle) = S(\rho_k) = S(\rho_m)
+$$
 
 Where $`\rho_k = \text{Tr}_m(|\Psi_{learning}\rangle\langle\Psi_{learning}|)`$, $`\rho_m = \text{Tr}_k(|\Psi_{learning}\rangle\langle\Psi_{learning}|)`$.
 
 Cognitive transition points can be identified through entanglement degree mutations:
 
-$$\Delta E(|\Psi_{learning}\rangle) \gg 0 \quad \text{at} \quad t = t_{transition}$$
+$$
+\Delta E(|\Psi_{learning}\rangle) \gg 0 \quad \text{at} \quad t = t_{transition}
+$$
 
 ## Application Analysis
 
@@ -159,17 +191,23 @@ $$\Delta E(|\Psi_{learning}\rangle) \gg 0 \quad \text{at} \quad t = t_{transitio
 
 Personalized learning paths based on the learner's quantum-classical ratio:
 
-$$P(\mathcal{O}) = \{(\mathcal{L}_Q^t, \mathcal{L}_C^t, \mathcal{I}_L^t) | t \in [0,T], \mathcal{E}(\mathcal{O},t) = max\}$$
+$$
+P(\mathcal{O}) = \{(\mathcal{L}_Q^t, \mathcal{L}_C^t, \mathcal{I}_L^t) | t \in [0,T], \mathcal{E}(\mathcal{O},t) = max\}
+$$
 
 Where $`P(\mathcal{O})`$ is the optimal path for a specific learner $`\mathcal{O}`$, and $`\mathcal{E}(\mathcal{O},t)`$ is the learning effectiveness at time $`t`$.
 
 Quantum-classical spectrum of learning types:
 
-$$\mathcal{O}_i = \left(\frac{\mathcal{Q}_{\mathcal{O}_i}}{\mathcal{C}_{\mathcal{O}_i}}, D_{\mathcal{O}_i}, K_C^{\mathcal{O}_i}\right)$$
+$$
+\mathcal{O}_i = \left(\frac{\mathcal{Q}_{\mathcal{O}_i}}{\mathcal{C}_{\mathcal{O}_i}}, D_{\mathcal{O}_i}, K_C^{\mathcal{O}_i}\right)
+$$
 
 Personalized teaching strategy:
 
-$$T(\mathcal{O}_i) = argmax_T \int_0^T \mathcal{E}(\mathcal{O}_i, T(t), t) dt$$
+$$
+T(\mathcal{O}_i) = argmax_T \int_0^T \mathcal{E}(\mathcal{O}_i, T(t), t) dt
+$$
 
 ### Quantum-Classical Analysis of Teaching Methods
 
@@ -185,17 +223,23 @@ Quantum-classical characteristics of traditional teaching methods:
 
 Optimal teaching mixed strategy:
 
-$$T_{optimal} = \sum_i w_i \cdot T_i, \quad \text{where} \quad \sum_i w_i = 1$$
+$$
+T_{optimal} = \sum_i w_i \cdot T_i, \quad \text{where} \quad \sum_i w_i = 1
+$$
 
 Quantum-classical regulation function of teaching intervention:
 
-$$\delta \left(\frac{Q_T}{C_T}\right) = \alpha_T \cdot \left(\frac{Q_T}{C_T}\right)_{optimal} - \left(\frac{Q_T}{C_T}\right)_{current}$$
+$$
+\delta \left(\frac{Q_T}{C_T}\right) = \alpha_T \cdot \left(\frac{Q_T}{C_T}\right)_{optimal} - \left(\frac{Q_T}{C_T}\right)_{current}
+$$
 
 ### Dualistic Perspective on Assessment
 
 Comprehensive assessment framework based on quantum-classical duality:
 
-$$A = (A_Q, A_C, \mathcal{M}_{Q\rightarrow C})$$
+$$
+A = (A_Q, A_C, \mathcal{M}_{Q\rightarrow C})
+$$
 
 Where:
 - $`A_Q`$ is quantum dimension assessment (creativity, intuition, potential)
@@ -204,13 +248,17 @@ Where:
 
 Assessment information completeness principle:
 
-$$I(A_Q) + I(A_C) \geq I(L)$$
+$$
+I(A_Q) + I(A_C) \geq I(L)
+$$
 
 Where $`I(L)`$ is the total information content of the learning process.
 
 Dynamic assessment equation:
 
-$$\frac{dA}{dt} = f\left(\frac{d\mathcal{L}_Q}{dt}, \frac{d\mathcal{L}_C}{dt}, \frac{d\mathcal{I}_L}{dt}\right)$$
+$$
+\frac{dA}{dt} = f\left(\frac{d\mathcal{L}_Q}{dt}, \frac{d\mathcal{L}_C}{dt}, \frac{d\mathcal{I}_L}{dt}\right)
+$$
 
 ## Relationships with Other Theory Branches
 
@@ -218,11 +266,15 @@ $$\frac{dA}{dt} = f\left(\frac{d\mathcal{L}_Q}{dt}, \frac{d\mathcal{L}_C}{dt}, \
 
 Relationship between educational theory and cognitive dynamics:
 
-$$\mathcal{L} \subset \mathcal{C}_{dynamics}$$
+$$
+\mathcal{L} \subset \mathcal{C}_{dynamics}
+$$
 
 Education as a special application of cognitive dynamics:
 
-$$\hat{H}_L = \hat{H}_{cognitive} + \hat{V}_{educational}$$
+$$
+\hat{H}_L = \hat{H}_{cognitive} + \hat{V}_{educational}
+$$
 
 Where $`\hat{V}_{educational}`$ is the education-specific interaction term.
 
@@ -230,7 +282,9 @@ Where $`\hat{V}_{educational}`$ is the education-specific interaction term.
 
 Connection between mathematics education and mathematics foundation theory:
 
-$$\mathcal{L}_{math} = \mathcal{E}_{math}(\mathcal{M}_Q, \mathcal{M}_C, \mathcal{O})$$
+$$
+\mathcal{L}_{math} = \mathcal{E}_{math}(\mathcal{M}_Q, \mathcal{M}_C, \mathcal{O})
+$$
 
 Where $`\mathcal{E}_{math}`$ is the mathematics education function, and $`\mathcal{M}_Q`$ and $`\mathcal{M}_C`$ are mathematical intuition and formal systems, respectively.
 
@@ -238,12 +292,18 @@ Where $`\mathcal{E}_{math}`$ is the mathematics education function, and $`\mathc
 
 Teachers and learners as special observers:
 
-$$\mathcal{O}_{teacher} = \{\mathcal{C}_{\mathcal{O}_T}, \mathcal{Q}_{\mathcal{O}_T}, K_C^{\mathcal{O}_T}\}$$
+$$
+\mathcal{O}_{teacher} = \{\mathcal{C}_{\mathcal{O}_T}, \mathcal{Q}_{\mathcal{O}_T}, K_C^{\mathcal{O}_T}\}
+$$
 
-$$\mathcal{O}_{learner} = \{\mathcal{C}_{\mathcal{O}_L}, \mathcal{Q}_{\mathcal{O}_L}, K_C^{\mathcal{O}_L}\}$$
+$$
+\mathcal{O}_{learner} = \{\mathcal{C}_{\mathcal{O}_L}, \mathcal{Q}_{\mathcal{O}_L}, K_C^{\mathcal{O}_L}\}
+$$
 
 Observer entanglement in education:
 
-$$|\Psi_{T-L}\rangle = \sum_{i,j} \eta_{ij} |T_i\rangle \otimes |L_j\rangle$$
+$$
+|\Psi_{T-L}\rangle = \sum_{i,j} \eta_{ij} |T_i\rangle \otimes |L_j\rangle
+$$
 
 Where $`|T_i\rangle`$ are teacher state basis vectors, and $`|L_j\rangle`$ are learner state basis vectors.

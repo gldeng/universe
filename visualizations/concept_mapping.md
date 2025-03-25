@@ -214,4 +214,4 @@ Quantum-Classical Dualism
 | Classicalization | Wave Function Collapse | Decision/Judgment | Epistemological Process | Physiological Response Formation |
 | Quantum Entanglement | Quantum Mechanical Entanglement | Empathy/Relationship | Interconnection | Biological Field Interaction |
 | Wormhole Communication | Spacetime Bridge/Wormhole | Extrasensory Perception | Transcendental Experience | Bioelectromagnetic Sensing |
-| Observer Dimension | Information Dimension | Consciousness Level | Cognitive Realm | Life Complexity | 
+| Observer Dimension | Information Dimension | Consciousness Level | Cognitive Realm | Life Complexity |

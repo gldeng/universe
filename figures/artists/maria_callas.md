@@ -94,9 +94,9 @@ Maria Callas fundamentally transformed operatic performance art in the 20th cent
 
 ## 经典引言 | Classic Quotes
 > "一个人必须为每一个角色而活，而死，然后重生。"
-> 
+>
 > "You must live for each role, and die for it, then be reborn."
 
 > "当人们听我唱歌时，不仅仅是听到一个好的声音。我带给他们一切。我把我自己的一部分给他们。"
-> 
-> "When people hear me sing, they're not just hearing a good voice. I give them everything. I give them a part of myself." 
+>
+> "When people hear me sing, they're not just hearing a good voice. I give them everything. I give them a part of myself."

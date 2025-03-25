@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1853年3月30日 - 1890年7月29日  
-**国籍 (Nationality)**: 荷兰 (Dutch)  
-**领域 (Fields)**: 绘画、素描  
+**生平 (Life Span)**: 1853年3月30日 - 1890年7月29日
+**国籍 (Nationality)**: 荷兰 (Dutch)
+**领域 (Fields)**: 绘画、素描
 **代表作品 (Representative Works)**: 《星月夜》、《向日葵》系列、《麦田上的乌鸦》、《阿尔勒的卧室》、《自画像》系列、《吃土豆的人》
 
 ## 核心思想 (Core Ideas)
@@ -154,29 +154,29 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "通过爱，我们看到的不仅是表面；我们穿透事物看到它们背后的意义。"
-> 
+>
 > "Through love, we see not just the surface; we penetrate things to see their meaning beyond."
 
 > "如果你真的爱自然，你会在所有地方发现美。"
-> 
+>
 > "If you truly love nature, you will find beauty everywhere."
 
 > "我宁愿画人眼中的火花，而不是画阿尔卑斯山。"
-> 
+>
 > "I would rather paint the eyes of people than paint the Alps."
 
 > "我梦想着画画，然后我画我的梦。"
-> 
+>
 > "I dream my painting, and then I paint my dream."
 
 > "艺术是为了安慰那些被生活折断的人。"
-> 
+>
 > "Art is to console those who are broken by life."
 
 > "伟大的事物并非一时冲动，而是小事情的集合。"
-> 
+>
 > "Great things are not done by impulse, but by a series of small things brought together."
 
 > "我宁愿死于激情，也不愿死于无聊。"
-> 
+>
 > "I would rather die of passion than of boredom."

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 公元前69年 - 公元前30年  
-**国籍 (Nationality)**: 古埃及 (Ancient Egypt)  
-**领域 (Fields)**: 政治统治、外交、文化融合  
+**生平 (Life Span)**: 公元前69年 - 公元前30年
+**国籍 (Nationality)**: 古埃及 (Ancient Egypt)
+**领域 (Fields)**: 政治统治、外交、文化融合
 **代表作品 (Representative Works)**: 亚历山大图书馆扩建、尼罗河水利工程、多语言教育政策、埃及-罗马文化交流计划
 
 ## 核心思想 (Core Ideas)
@@ -73,7 +73,13 @@ $$
    |\psi\rangle_{\text{埃及地位}} = c(t)|\psi\rangle_{\text{独立主权（量子）}} + [1-c(t)]|\psi\rangle_{\text{罗马附庸（经典）}}
    $$
 
-   其中$$c(t)$$为随时间变化的系数，反映埃及在独立-附庸光谱上的动态位置。
+   其中
+
+$$
+c(t)
+$$
+
+为随时间变化的系数，反映埃及在独立-附庸光谱上的动态位置。
 
    在罗马崛起的时代，纯粹的经典独立已不可能，而完全的经典附庸又意味着王国终结。克利奥帕特拉创造性地维持了埃及在独立与附庸之间的量子叠加状态——表面上接受罗马的影响力，实质上最大化埃及的自主权。通过与凯撒、安东尼的战略关系，她实现了埃及在军事上依赖罗马、在国内政策上保持高度自主的量子平衡，使埃及在罗马共和国末期的混乱中获得了比多数附庸国更大的战略空间。
 
@@ -100,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我宁可做一条蛇的头，也不愿做一头狮子的尾。"
-> 
+>
 > "I would rather be the first of Egyptians than the second of Romans."
 
 > "荣耀不在于从不跌倒，而在于每次跌倒后都能重新站起来。"
-> 
+>
 > "Glory is not in never falling, but in rising every time we fall."
 
 > "在政治中，没有永恒的敌人，也没有永恒的朋友，只有永恒的利益。"
-> 
+>
 > "In politics, there are no permanent enemies, no permanent friends, only permanent interests."
 
 > "我所作的一切都是为了埃及的利益和荣耀。"
-> 
+>
 > "All that I have done has been for the benefit and glory of Egypt."
 
 > "一个国家的真正财富在于它的文化而非黄金。"
-> 
-> "The true wealth of a nation lies in its culture, not in its gold." 
+>
+> "The true wealth of a nation lies in its culture, not in its gold."

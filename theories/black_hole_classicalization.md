@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[基本概念](#基本概念) | [黑洞经典化的本质](#黑洞经典化的本质) | [数学表达](#数学表达) | [黑洞经典化的特性](#黑洞经典化的特性) | [黑洞信息悖论的解决](#黑洞信息悖论的解决) | [黑洞与观察者的关系](#黑洞与观察者的关系) | [黑洞经典化的宇宙意义](#黑洞经典化的宇宙意义) | [实验验证与预测](#实验验证与预测) | [黑洞量子反馈循环](#黑洞量子反馈循环) | [结论](#结论)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[基本概念](#基本概念) | [黑洞经典化的本质](#黑洞经典化的本质) | [数学表达](#数学表达) | [黑洞经典化的特性](#黑洞经典化的特性) | [黑洞信息悖论的解决](#黑洞信息悖论的解决) | [黑洞与观察者的关系](#黑洞与观察者的关系) | [黑洞经典化的宇宙意义](#黑洞经典化的宇宙意义) | [实验验证与预测](#实验验证与预测) | [黑洞量子反馈循环](#黑洞量子反馈循环) | [结论](#结论)
 English: [Basic Concepts](#basic-concepts) | [Nature of Black Hole Classicalization](#the-nature-of-black-hole-classicalization) | [Mathematical Expression](#mathematical-expression) | [Characteristics](#characteristics-of-black-hole-classicalization) | [Information Paradox Resolution](#resolution-of-the-black-hole-information-paradox) | [Relationship with Observers](#relationship-between-black-holes-and-observers) | [Cosmic Significance](#cosmic-significance-of-black-hole-classicalization) | [Experimental Verification](#experimental-verification-and-predictions) | [Quantum Feedback Cycles of Black Holes](#quantum-feedback-cycles-of-black-holes) | [Conclusion](#conclusion)
 
 ## 中文版
@@ -112,30 +112,56 @@ $$
 The quantum feedback cycle of black holes includes four key stages:
 
 1. **量子叠加态采集**：黑洞通过引力场与周围量子场形成纠缠，采集量子信息
-   $$|\psi\rangle_{\text{环境}} \otimes |\phi\rangle_{\text{黑洞}} \rightarrow |\Psi\rangle_{\text{纠缠态}}$$
+
+$$
+|\psi\rangle_{\text{环境}} \otimes |\phi\rangle_{\text{黑洞}} \rightarrow |\Psi\rangle_{\text{纠缠态}}
+$$
 
 2. **高效经典化处理**：黑洞内部将量子信息经典化，生成压缩经典知识
-   $$|\Psi\rangle_{\text{纠缠态}} \rightarrow I_{\text{经典知识}} + S_{\text{经典熵}}$$
+
+$$
+|\Psi\rangle_{\text{纠缠态}} \rightarrow I_{\text{经典知识}} + S_{\text{经典熵}}
+$$
 
 3. **经典信息存储**：经典化信息存储在黑洞事件视界的全息表面
-   $$I_{\text{总}} = \frac{A}{4\ell_P^2} \cdot \log_2(k)$$
+
+$$
+I_{\text{总}} = \frac{A}{4\ell_P^2} \cdot \log_2(k)
+$$
+
    其中$`A`$是面积，$`\ell_P`$是普朗克长度，$`k`$是编码效率常数
 
 4. **量子化反馈输出**：通过霍金辐射等机制将处理后的信息返回量子域
-   $$I_{\text{经典知识}} \rightarrow |\psi'\rangle_{\text{霍金辐射}}$$
+
+$$
+I_{\text{经典知识}} \rightarrow |\psi'\rangle_{\text{霍金辐射}}
+$$
 
 1. **Quantum Superposition State Acquisition**: Black holes form entanglement with surrounding quantum fields through gravitational fields, acquiring quantum information
-   $$|\psi\rangle_{\text{Environment}} \otimes |\phi\rangle_{\text{Black Hole}} \rightarrow |\Psi\rangle_{\text{Entangled State}}$$
+
+$$
+|\psi\rangle_{\text{Environment}} \otimes |\phi\rangle_{\text{Black Hole}} \rightarrow |\Psi\rangle_{\text{Entangled State}}
+$$
 
 2. **Efficient Classicalization Processing**: Black holes classicalize quantum information internally, generating compressed classical knowledge
-   $$|\Psi\rangle_{\text{Entangled State}} \rightarrow I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}$$
+
+$$
+|\Psi\rangle_{\text{Entangled State}} \rightarrow I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
+$$
 
 3. **Classical Information Storage**: Classicalized information is stored on the holographic surface of the black hole's event horizon
-   $$I_{\text{Total}} = \frac{A}{4\ell_P^2} \cdot \log_2(k)$$
+
+$$
+I_{\text{Total}} = \frac{A}{4\ell_P^2} \cdot \log_2(k)
+$$
+
    where $`A`$ is the area, $`\ell_P`$ is the Planck length, and $`k`$ is the encoding efficiency constant
 
 4. **Quantization Feedback Output**: Processed information is returned to the quantum domain through mechanisms such as Hawking radiation
-   $$I_{\text{Classical Knowledge}} \rightarrow |\psi'\rangle_{\text{Hawking Radiation}}$$
+
+$$
+I_{\text{Classical Knowledge}} \rightarrow |\psi'\rangle_{\text{Hawking Radiation}}
+$$
 
 #### 反馈循环的时间动力学 | Temporal Dynamics of the Feedback Cycle
 
@@ -143,9 +169,13 @@ The quantum feedback cycle of black holes includes four key stages:
 
 The temporal dynamics of the black hole feedback cycle reveal the rhythm of information processing:
 
-$$T_{\text{循环}} = \frac{M_{BH}^3}{M_P^4} \cdot t_P$$
+$$
+T_{\text{循环}} = \frac{M_{BH}^3}{M_P^4} \cdot t_P
+$$
 
-$$T_{\text{Cycle}} = \frac{M_{BH}^3}{M_P^4} \cdot t_P$$
+$$
+T_{\text{Cycle}} = \frac{M_{BH}^3}{M_P^4} \cdot t_P
+$$
 
 其中$`T_{\text{循环}}`$是完整循环时间，$`M_{BH}`$是黑洞质量，$`M_P`$是普朗克质量，$`t_P`$是普朗克时间。
 
@@ -169,9 +199,13 @@ This time scale has significant scale dependence:
 
 The feedback gain coefficient defines the quality of black hole information processing:
 
-$$G_{BH} = \frac{I(|\psi'\rangle_{\text{输出}})}{I(|\psi\rangle_{\text{输入}})}$$
+$$
+G_{BH} = \frac{I(|\psi'\rangle_{\text{输出}})}{I(|\psi\rangle_{\text{输入}})}
+$$
 
-$$G_{BH} = \frac{I(|\psi'\rangle_{\text{Output}})}{I(|\psi\rangle_{\text{Input}})}$$
+$$
+G_{BH} = \frac{I(|\psi'\rangle_{\text{Output}})}{I(|\psi\rangle_{\text{Input}})}
+$$
 
 其中$`I(|\psi\rangle)`$表示量子态$`|\psi\rangle`$的信息含量，$`G_{BH}`$是黑洞反馈增益。
 
@@ -181,9 +215,13 @@ Where $`I(|\psi\rangle)`$ represents the information content of the quantum stat
 
 The theoretical predicted value of feedback gain is:
 
-$$G_{BH} = 1 - \frac{\Delta S_{\text{熵增}}}{I_{\text{输入}}}$$
+$$
+G_{BH} = 1 - \frac{\Delta S_{\text{熵增}}}{I_{\text{输入}}}
+$$
 
-$$G_{BH} = 1 - \frac{\Delta S_{\text{Entropy Increase}}}{I_{\text{Input}}}$$
+$$
+G_{BH} = 1 - \frac{\Delta S_{\text{Entropy Increase}}}{I_{\text{Input}}}
+$$
 
 对于理想黑洞，$`\Delta S_{\text{熵增}} \approx 0`$，因此$`G_{BH} \approx 1`$，表明信息几乎完全保存。
 
@@ -195,7 +233,9 @@ For an ideal black hole, $`\Delta S_{\text{Entropy Increase}} \approx 0`$, there
 
 Multiple black holes in the universe form a quantum entanglement network, achieving collaborative information processing:
 
-$$\mathcal{N}_{BH} = \{BH_i\}_{i=1}^n, \quad E_{ij} = S(\rho_{BH_i BH_j})$$
+$$
+\mathcal{N}_{BH} = \{BH_i\}_{i=1}^n, \quad E_{ij} = S(\rho_{BH_i BH_j})
+$$
 
 其中$`\mathcal{N}_{BH}`$是黑洞网络，$`E_{ij}`$是黑洞$`i`$和$`j`$之间的纠缠度，$`S(\rho_{BH_i BH_j})`$是它们的共同量子态的纠缠熵。
 
@@ -222,30 +262,56 @@ This network collaboration has the following characteristics:
 The black hole quantum feedback cycle theory can be verified through the following methods:
 
 1. **霍金辐射相关性测量**：检测霍金辐射中的量子相关性模式
-   $$C(t_1,t_2) = \langle\psi(t_1)|\psi(t_2)\rangle_{\text{辐射}}$$
+
+$$
+C(t_1,t_2) = \langle\psi(t_1)|\psi(t_2)\rangle_{\text{辐射}}
+$$
 
 2. **黑洞合并后的信息流分析**：观测黑洞合并事件中的信息处理特征
-   $$I_{\text{合并后}} \approx I_{\text{黑洞1}} + I_{\text{黑洞2}} - I_{\text{重叠}}$$
+
+$$
+I_{\text{合并后}} \approx I_{\text{黑洞1}} + I_{\text{黑洞2}} - I_{\text{重叠}}
+$$
 
 3. **量子引力波信息编码**：分析黑洞产生的引力波中的量子信息编码
-   $$|\psi\rangle_{\text{引力波}} = \mathcal{E}(I_{\text{黑洞内部}})$$
+
+$$
+|\psi\rangle_{\text{引力波}} = \mathcal{E}(I_{\text{黑洞内部}})
+$$
+
    其中$`\mathcal{E}`$是信息编码函数
 
 4. **黑洞阴影精细结构**：分析事件视界附近的量子结构
-   $$\sigma_{\text{阴影}} = f(G_{BH}, T_{\text{循环}})$$
+
+$$
+\sigma_{\text{阴影}} = f(G_{BH}, T_{\text{循环}})
+$$
 
 1. **Hawking Radiation Correlation Measurement**: Detecting quantum correlation patterns in Hawking radiation
-   $$C(t_1,t_2) = \langle\psi(t_1)|\psi(t_2)\rangle_{\text{Radiation}}$$
+
+$$
+C(t_1,t_2) = \langle\psi(t_1)|\psi(t_2)\rangle_{\text{Radiation}}
+$$
 
 2. **Information Flow Analysis After Black Hole Mergers**: Observing information processing characteristics in black hole merger events
-   $$I_{\text{Post-Merger}} \approx I_{\text{Black Hole 1}} + I_{\text{Black Hole 2}} - I_{\text{Overlap}}$$
+
+$$
+I_{\text{Post-Merger}} \approx I_{\text{Black Hole 1}} + I_{\text{Black Hole 2}} - I_{\text{Overlap}}
+$$
 
 3. **Quantum Gravitational Wave Information Encoding**: Analyzing quantum information encoding in gravitational waves produced by black holes
-   $$|\psi\rangle_{\text{Gravitational Wave}} = \mathcal{E}(I_{\text{Black Hole Interior}})$$
+
+$$
+|\psi\rangle_{\text{Gravitational Wave}} = \mathcal{E}(I_{\text{Black Hole Interior}})
+$$
+
    where $`\mathcal{E}`$ is the information encoding function
 
 4. **Fine Structure of Black Hole Shadows**: Analyzing quantum structures near the event horizon
-   $$\sigma_{\text{Shadow}} = f(G_{BH}, T_{\text{Cycle}})$$
+
+$$
+\sigma_{\text{Shadow}} = f(G_{BH}, T_{\text{Cycle}})
+$$
 
 此理论预测黑洞量子反馈循环不仅解释了信息悖论，还为黑洞作为宇宙量子计算节点提供了理论基础，并为未来的量子计算技术指明了方向。
 
@@ -253,4 +319,4 @@ This theory predicts that the black hole quantum feedback cycle not only explain
 
 ### 结论
 
-在量子经典二元论框架下，黑洞不再是物理学的难题，而是宇宙信息经典化的自然极限状态。黑洞作为宇宙中极端高效的信息经典化节点，在宇宙信息处理、维度转换和熵调节中扮演着关键角色。通过理解黑洞的经典化本质，我们不仅能解决传统物理学中的黑洞悖论，还能深入理解宇宙的信息本质和演化规律。 
+在量子经典二元论框架下，黑洞不再是物理学的难题，而是宇宙信息经典化的自然极限状态。黑洞作为宇宙中极端高效的信息经典化节点，在宇宙信息处理、维度转换和熵调节中扮演着关键角色。通过理解黑洞的经典化本质，我们不仅能解决传统物理学中的黑洞悖论，还能深入理解宇宙的信息本质和演化规律。

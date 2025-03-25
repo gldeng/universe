@@ -359,4 +359,4 @@ $$
 |\psi\rangle_{\text{Planet Combination}} = \sum_{i,j,k} c_{ijk} |\psi_{\text{Planet}_i}\rangle \otimes |\psi_{\text{Planet}_j}\rangle \otimes |\psi_{\text{Planet}_k}\rangle
 $$
 
-The classicalization effects produced by such composite quantum systems far exceed the simple superposition of individual planets, forming emergent properties. 
+The classicalization effects produced by such composite quantum systems far exceed the simple superposition of individual planets, forming emergent properties.

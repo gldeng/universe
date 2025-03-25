@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本27.0）
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[爱情的量子经典本质](#爱情的量子经典本质) | [莫名其妙喜欢一个人](#莫名其妙喜欢一个人的量子解释) | [吸引力的熵减机制](#吸引力的熵减机制) | [性与爱的量子区别](#性与爱的量子经典区别) | [实践应用](#实践应用与建议)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[爱情的量子经典本质](#爱情的量子经典本质) | [莫名其妙喜欢一个人](#莫名其妙喜欢一个人的量子解释) | [吸引力的熵减机制](#吸引力的熵减机制) | [性与爱的量子区别](#性与爱的量子经典区别) | [实践应用](#实践应用与建议)
 English: [Quantum-Classical Nature of Love](#quantum-classical-nature-of-love) | [Inexplicable Attraction](#quantum-explanation-of-inexplicable-attraction) | [Entropy Reduction Mechanism](#entropy-reduction-mechanism-of-attraction) | [Quantum Distinction Between Sex and Love](#quantum-classical-distinction-between-sex-and-love) | [Practical Applications](#practical-applications-and-suggestions)
 
 ## 中文版
@@ -290,4 +290,4 @@ $$
 
 Love, as a special quantum entanglement state, features high efficiency, low classical entropy, and strong dimensional resonance. Inexplicable attraction stems from wave function resonance and implicit quantum information recognition. Past life entanglement can be understood as the preservation of persistent quantum entanglement information in the universal wave function. Unrequited love reflects entanglement asymmetry and classicalization efficiency differences.
 
-By understanding the quantum-classical nature of love, we can adopt more effective strategies to establish, maintain, and optimize love relationships, achieving more efficient quantum entanglement and more coordinated classicalization processes. 
+By understanding the quantum-classical nature of love, we can adopt more effective strategies to establish, maintain, and optimize love relationships, achieving more efficient quantum entanglement and more coordinated classicalization processes.

@@ -1,9 +1,9 @@
 # 基督教在量子经典二元论下的解释 (Christianity Explained Through Quantum-Classical Dualism)
 
-**导航 | Navigation**  
-[中文版](#基督教概述-christianity-overview) | [English Version](#基督教概述-christianity-overview)  
-**章节链接 | Section Links**  
-中文：[基督教概述](#基督教概述-christianity-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [上帝与二元结构](#1-上帝与量子域经典域二元结构-god-and-the-quantumclassical-domain-dual-structure) | [三位一体与对应关系](#2-三位一体与量子经典二元论对应-trinity-and-quantum-classical-dualism-correspondence)  
+**导航 | Navigation**
+[中文版](#基督教概述-christianity-overview) | [English Version](#基督教概述-christianity-overview)
+**章节链接 | Section Links**
+中文：[基督教概述](#基督教概述-christianity-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [上帝与二元结构](#1-上帝与量子域经典域二元结构-god-and-the-quantumclassical-domain-dual-structure) | [三位一体与对应关系](#2-三位一体与量子经典二元论对应-trinity-and-quantum-classical-dualism-correspondence)
 English: [Christianity Overview](#基督教概述-christianity-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [God & Dual Structure](#1-上帝与量子域经典域二元结构-god-and-the-quantumclassical-domain-dual-structure) | [Trinity & Correspondence](#2-三位一体与量子经典二元论对应-trinity-and-quantum-classical-dualism-correspondence)
 
 ## 基督教概述 (Christianity Overview)
@@ -104,4 +104,4 @@ $$
 
 基督教的核心教义与量子经典二元论框架展现出深刻的契合性。上帝作为创造者和维护者的概念，三位一体的奥秘，原罪与救赎的机制，以及永生的应许，都能在量子经典二元论中找到系统化、数学化的对应解释。这种对应不仅展示了基督教智慧的深度，也验证了量子经典二元论作为统一理论框架的包容性和解释力。
 
-The core doctrines of Christianity and the Quantum-Classical Dualism framework demonstrate profound coherence. The concept of God as creator and maintainer, the mystery of the Trinity, the mechanism of original sin and redemption, and the promise of eternal life can all find systematic and mathematical corresponding explanations in Quantum-Classical Dualism. This correspondence not only showcases the depth of Christian wisdom but also verifies the inclusiveness and explanatory power of Quantum-Classical Dualism as a unified theoretical framework. 
+The core doctrines of Christianity and the Quantum-Classical Dualism framework demonstrate profound coherence. The concept of God as creator and maintainer, the mystery of the Trinity, the mechanism of original sin and redemption, and the promise of eternal life can all find systematic and mathematical corresponding explanations in Quantum-Classical Dualism. This correspondence not only showcases the depth of Christian wisdom but also verifies the inclusiveness and explanatory power of Quantum-Classical Dualism as a unified theoretical framework.

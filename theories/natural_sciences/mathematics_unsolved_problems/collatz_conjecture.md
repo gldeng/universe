@@ -195,13 +195,17 @@ $$
 考虑以下情况：
 
 1. 若 $`m \geq 2`$，则：
-   $$\tilde{C}(n) = \frac{3n+1}{2^m} \leq \frac{3n+1}{4} < \frac{3n}{4} + \frac{1}{4} < \frac{3n}{4} + \frac{n}{4} = n$$
+
+$$
+\tilde{C}(n) = \frac{3n+1}{2^m} \leq \frac{3n+1}{4} < \frac{3n}{4} + \frac{1}{4} < \frac{3n}{4} + \frac{n}{4} = n
+$$
+
    取 $`\alpha = \frac{3}{4} < 1`$，条件1成立。
 
 2. 若 $`m = 1`$，则 $`\tilde{C}(n) = \frac{3n+1}{2}`$。这种情况下，$`\tilde{C}(n) > n`$，但我们可以证明 $`\tilde{C}^2(n) < n`$。
 
    由于 $`\tilde{C}(n) = \frac{3n+1}{2}`$ 是奇数，所以：
-   
+
    $$
    \begin{align}
    \tilde{C}^2(n) &= \tilde{C}(\tilde{C}(n)) \\
@@ -211,11 +215,13 @@ $$
    &= \frac{9n+5}{2^{\nu_2(9n+5)}}
    \end{align}
    $$
-   
+
    进一步分析表明 $`\nu_2(9n+5) \geq 3`$，因此：
-   
-   $$\tilde{C}^2(n) \leq \frac{9n+5}{8} < \frac{9n}{8} + \frac{5}{8} < \frac{9n}{8} + \frac{n}{8} = \frac{10n}{8} = \frac{5n}{4}$$
-   
+
+$$
+\tilde{C}^2(n) \leq \frac{9n+5}{8} < \frac{9n}{8} + \frac{5}{8} < \frac{9n}{8} + \frac{n}{8} = \frac{10n}{8} = \frac{5n}{4}
+$$
+
    取 $`\beta = \frac{5}{4}`$，则 $`\tilde{C}^2(n) < \beta \cdot n`$。■
 
 #### 定理 4.2 (随机漫步模型) | Theorem 4.2 (Random Walk Model)
@@ -364,4 +370,4 @@ $$
 4. Terras, R. (1976). A stopping time problem on the positive integers. Acta Arithmetica, 30(3), 241-252.
 5. Barina, D. (2021). Convergence verification of the Collatz problem. The Journal of Supercomputing, 77, 2681-2707.
 6. Kontorovich, A., & Lagarias, J. C. (2013). Stochastic models for the 3x + 1 and 5x + 1 problems. In The Ultimate Challenge: The 3x+1 Problem (pp. 131-188). AMS.
-7. 量子经典二元论核心理论文献 [29.0]. 
+7. 量子经典二元论核心理论文献 [29.0].

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前571年-公元前471年（具体生卒年份存在争议） (c. 571-471 BCE, dates disputed)  
-**国籍 | Nationality**: 春秋时期楚国苦县（今中国安徽） (State of Chu during Spring and Autumn Period, now Anhui, China)  
-**主要领域 | Main Fields**: 哲学、形而上学、伦理学、政治哲学 (Philosophy, Metaphysics, Ethics, Political Philosophy)  
+**生卒年份 | Lifespan**: 约公元前571年-公元前471年（具体生卒年份存在争议） (c. 571-471 BCE, dates disputed)
+**国籍 | Nationality**: 春秋时期楚国苦县（今中国安徽） (State of Chu during Spring and Autumn Period, now Anhui, China)
+**主要领域 | Main Fields**: 哲学、形而上学、伦理学、政治哲学 (Philosophy, Metaphysics, Ethics, Political Philosophy)
 **代表作品 | Representative Works**: 《道德经》（又称《老子》五千言） (Dao De Jing, also known as the Laozi, 5000-word text)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ $$
 - "Knowing others is intelligence; knowing yourself is wisdom. Overcoming others takes strength; overcoming yourself takes power."
 - "Act without action, manage without managing, taste the tasteless."
 - "The great square has no corners, the great vessel is late in completion, the great sound has little noise, the great image has no form."
-- "Misfortune is what fortune depends upon; fortune is what misfortune lurks beneath." 
+- "Misfortune is what fortune depends upon; fortune is what misfortune lurks beneath."

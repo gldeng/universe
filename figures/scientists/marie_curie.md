@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1867年11月7日 - 1934年7月4日  
-**国籍 (Nationality)**: 波兰裔法国科学家 (Polish-French)  
-**领域 (Fields)**: 物理学、化学、放射性研究  
+**生平 (Life Span)**: 1867年11月7日 - 1934年7月4日
+**国籍 (Nationality)**: 波兰裔法国科学家 (Polish-French)
+**领域 (Fields)**: 物理学、化学、放射性研究
 **代表作品 (Representative Works)**: 发现钋和镭元素、放射性理论研究、《放射性物质研究》、首创移动X光车用于一战战场
 
 ## 核心思想 (Core Ideas)
@@ -98,21 +98,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "在科学中，我们应该对事物本身感兴趣，而不是它们的作者。"
-> 
+>
 > "In science, we must be interested in things, not in persons."
 
 > "一个科学家在实验室里应该像孩子一样，面对自然现象就像是面对童话。"
-> 
+>
 > "A scientist in his laboratory is not a mere technician: he is also a child confronting natural phenomena that impress him as though they were fairy tales."
 
 > "我们不应害怕任何事，只需理解它。现在是理解更多的时候了，以便我们能够少一些恐惧。"
-> 
+>
 > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
 
 > "生活并不容易，对任何人都是如此。但是，我们必须有毅力，尤其要对自己有信心。我们必须相信自己天生适合做某些事情，无论如何艰难，这些事情必须达成。"
-> 
+>
 > "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained."
 
 > "我相信科学的进步意味着人类意志的强大，包括追寻真理与接受它，无论它可能引导我们到哪里。"
-> 
-> "I believe that science has great beauty. A scientist in his laboratory is not only a technician, he is also a child placed before natural phenomena which impress him like a fairy tale." 
+>
+> "I believe that science has great beauty. A scientist in his laboratory is not only a technician, he is also a child placed before natural phenomena which impress him like a fairy tale."

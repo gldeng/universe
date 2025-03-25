@@ -62,4 +62,4 @@
 - [核心理论](../../core.md)
 - [量子域详解](../../formal_theory/formal_theory_quantum_domain.md)
 - [经典域详解](../../formal_theory/formal_theory_classical_domain.md)
-- [观察者理论](../../formal_theory/formal_theory_observer.md) 
+- [观察者理论](../../formal_theory/formal_theory_observer.md)

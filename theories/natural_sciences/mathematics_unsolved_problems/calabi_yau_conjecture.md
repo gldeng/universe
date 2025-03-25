@@ -106,4 +106,4 @@ $$
 1. Yau, S. T. (1978). On the Ricci curvature of a compact Kähler manifold and the complex Monge-Ampère equation, I. Communications on Pure and Applied Mathematics, 31(3), 339-411.
 2. Candelas, P., Horowitz, G. T., Strominger, A., & Witten, E. (1985). Vacuum configurations for superstrings. Nuclear Physics B, 258, 46-74.
 3. Joyce, D. D. (2000). Compact manifolds with special holonomy. Oxford University Press.
-4. 量子经典二元论核心理论文献 [29.0]. 
+4. 量子经典二元论核心理论文献 [29.0].

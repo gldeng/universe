@@ -18,7 +18,9 @@
 
 心脑界面系统由三个相互作用的层次组成：
 
-$$\mathcal{MB} = \{Ψ_M, \mathcal{I}_{MB}, Φ_B\}$$
+$$
+\mathcal{MB} = \{Ψ_M, \mathcal{I}_{MB}, Φ_B\}
+$$
 
 其中：
 - $`Ψ_M`$ 表示心灵层（主要位于量子域），包含意识体验、思想、情感等主观现象
@@ -29,31 +31,43 @@ $$\mathcal{MB} = \{Ψ_M, \mathcal{I}_{MB}, Φ_B\}$$
 
 心灵状态可以表示为复杂量子态的叠加：
 
-$$|Ψ_M\rangle = \sum_i \alpha_i |m_i\rangle, \quad \sum_i |\alpha_i|^2 = 1$$
+$$
+|Ψ_M\rangle = \sum_i \alpha_i |m_i\rangle, \quad \sum_i |\alpha_i|^2 = 1
+$$
 
 其中 $`|m_i\rangle`$ 是心灵基态，可以表示基本体验、感觉质感或思想单元。心灵层的信息密度远高于大脑层：
 
-$$I(Ψ_M) \gg I(Φ_B)$$
+$$
+I(Ψ_M) \gg I(Φ_B)
+$$
 
 #### 3. 大脑状态表示
 
 大脑状态可以表示为神经元网络的经典激活模式：
 
-$$Φ_B = \{n_1(t), n_2(t), ..., n_N(t)\}$$
+$$
+Φ_B = \{n_1(t), n_2(t), ..., n_N(t)\}
+$$
 
 其中 $`n_i(t)`$ 表示第i个神经元的时变激活状态。这些状态可以组织为多层次的功能结构：
 
-$$Φ_B = \{Φ_{\text{分子}}, Φ_{\text{突触}}, Φ_{\text{神经元}}, Φ_{\text{回路}}, Φ_{\text{网络}}\}$$
+$$
+Φ_B = \{Φ_{\text{分子}}, Φ_{\text{突触}}, Φ_{\text{神经元}}, Φ_{\text{回路}}, Φ_{\text{网络}}\}
+$$
 
 #### 4. 心脑界面特性
 
 心脑界面是一个动态量子-经典转换区域，其特性可以通过转换函数描述：
 
-$$\mathcal{T}_{M \to B}: Ψ_M \to Φ_B, \quad \mathcal{T}_{B \to M}: Φ_B \to Ψ_M$$
+$$
+\mathcal{T}_{M \to B}: Ψ_M \to Φ_B, \quad \mathcal{T}_{B \to M}: Φ_B \to Ψ_M
+$$
 
 界面宽度与复杂度取决于多种因素：
 
-$$\delta(\mathcal{I}_{MB}) = \delta_0 \cdot \left(1 + \alpha \frac{C_{\text{神经}}}{C_0} + \beta \frac{S_{\text{意识}}}{S_0}\right)$$
+$$
+\delta(\mathcal{I}_{MB}) = \delta_0 \cdot \left(1 + \alpha \frac{C_{\text{神经}}}{C_0} + \beta \frac{S_{\text{意识}}}{S_0}\right)
+$$
 
 其中 $`C_{\text{神经}}`$ 是神经复杂度，$`S_{\text{意识}}`$ 是意识状态熵。
 
@@ -63,50 +77,75 @@ $$\delta(\mathcal{I}_{MB}) = \delta_0 \cdot \left(1 + \alpha \frac{C_{\text{神�
 
 心脑系统中的信息流遵循双向非对称原则：
 
-$$I_{M \to B} \neq I_{B \to M}$$
+$$
+I_{M \to B} \neq I_{B \to M}
+$$
 
 下行信息流（心灵→大脑）涉及信息压缩和编码：
 
-$$\mathcal{C}_{M \to B}(|Ψ_M\rangle) = Φ_B^{(Ψ)}$$
+$$
+\mathcal{C}_{M \to B}(|Ψ_M\rangle) = Φ_B^{(Ψ)}
+$$
 
 上行信息流（大脑→心灵）涉及信息解码和扩展：
 
-$$\mathcal{Q}_{B \to M}(Φ_B) = |Ψ_M^{(Φ)}\rangle$$
+$$
+\mathcal{Q}_{B \to M}(Φ_B) = |Ψ_M^{(Φ)}\rangle
+$$
 
 整体信息流守恒满足修正的守恒方程：
 
-$$I_{\text{总}}(t) = I_M(t) + I_B(t) + I_{\text{界面}}(t) + I_{\text{环境}}(t)$$
+$$
+I_{\text{总}}(t) = I_M(t) + I_B(t) + I_{\text{界面}}(t) + I_{\text{环境}}(t)
+$$
 
 ### 2. 心脑耦合动力学
 
 心灵状态与大脑状态通过耦合动力学方程相互影响：
 
-$$i\hbar\frac{\partial|Ψ_M\rangle}{\partial t} = \hat{H}_M|Ψ_M\rangle + \hat{V}(\mathcal{Q}_{B \to M}(Φ_B))|Ψ_M\rangle$$
+$$
+i\hbar\frac{\partial|Ψ_M\rangle}{\partial t} = \hat{H}_M|Ψ_M\rangle + \hat{V}(\mathcal{Q}_{B \to M}(Φ_B))|Ψ_M\rangle
+$$
 
-$$\frac{dΦ_B}{dt} = F_B(Φ_B) + G_B(\mathcal{C}_{M \to B}(|Ψ_M\rangle)) + η(t)$$
+$$
+\frac{dΦ_B}{dt} = F_B(Φ_B) + G_B(\mathcal{C}_{M \to B}(|Ψ_M\rangle)) + η(t)
+$$
 
 其中 $`\hat{H}_M`$ 是心灵哈密顿算符，$`\hat{V}`$ 是心灵-大脑相互作用势，$`F_B`$ 是大脑自身动力学函数，$`G_B`$ 是心灵影响函数，$`η(t)`$ 是神经噪声项。
 
 心灵-大脑耦合强度可以定义为：
 
-$$λ_{MB} = \frac{\langle\hat{V}\rangle}{\langle\hat{H}_M\rangle + \langle F_B\rangle}$$
+$$
+λ_{MB} = \frac{\langle\hat{V}\rangle}{\langle\hat{H}_M\rangle + \langle F_B\rangle}
+$$
 
 ### 3. 心脑同步与共振
 
 心灵状态与大脑状态之间可以发生多种形式的同步：
 
 1. **频率同步**：心灵振荡与神经振荡的相位锁定
-   $$\Delta\phi_{MB}(t) = \phi_M(t) - \phi_B(t) \approx \text{常数}$$
+
+$$
+\Delta\phi_{MB}(t) = \phi_M(t) - \phi_B(t) \approx \text{常数}
+$$
 
 2. **信息同步**：心灵信息处理与神经信息处理的时间协调
-   $$MI(Ψ_M, Φ_B) = H(Ψ_M) + H(Φ_B) - H(Ψ_M, Φ_B)$$
-   
+
+$$
+MI(Ψ_M, Φ_B) = H(Ψ_M) + H(Φ_B) - H(Ψ_M, Φ_B)
+$$
+
 3. **能量共振**：特定频率下的心脑能量交换最大化
-   $$E_{共振} = E_0 \cdot \frac{\gamma^2}{(\omega - \omega_0)^2 + \gamma^2}$$
+
+$$
+E_{共振} = E_0 \cdot \frac{\gamma^2}{(\omega - \omega_0)^2 + \gamma^2}
+$$
 
 同步度可以量化为：
 
-$$S_{MB} = \frac{1}{T}\int_0^T \frac{MI(Ψ_M(t), Φ_B(t))}{H(Ψ_M(t)) + H(Φ_B(t))} dt$$
+$$
+S_{MB} = \frac{1}{T}\int_0^T \frac{MI(Ψ_M(t), Φ_B(t))}{H(Ψ_M(t)) + H(Φ_B(t))} dt
+$$
 
 ## 心脑界面功能与特性
 
@@ -114,37 +153,63 @@ $$S_{MB} = \frac{1}{T}\int_0^T \frac{MI(Ψ_M(t), Φ_B(t))}{H(Ψ_M(t)) + H(Φ_B(t
 
 心脑界面呈现出多层嵌套结构，对应于意识的不同层次：
 
-$$\mathcal{I}_{MB} = \{\mathcal{I}_1, \mathcal{I}_2, ..., \mathcal{I}_n\}$$
+$$
+\mathcal{I}_{MB} = \{\mathcal{I}_1, \mathcal{I}_2, ..., \mathcal{I}_n\}
+$$
 
 其中 $`\mathcal{I}_i`$ 表示第i层界面，从基本感知到高级认知依次排列，每层负责特定类型的心脑转换：
 
-$$\mathcal{I}_1: \text{感觉意识 ↔ 初级感觉皮层}$$
-$$\mathcal{I}_2: \text{知觉整合 ↔ 联合皮层}$$
-$$\vdots$$
-$$\mathcal{I}_n: \text{自我意识 ↔ 前额叶网络}$$
+$$
+\mathcal{I}_1: \text{感觉意识 ↔ 初级感觉皮层}
+$$
+
+$$
+\mathcal{I}_2: \text{知觉整合 ↔ 联合皮层}
+$$
+
+$$
+\vdots
+$$
+
+$$
+\mathcal{I}_n: \text{自我意识 ↔ 前额叶网络}
+$$
 
 ### 2. 心脑信息编解码
 
 心脑界面执行复杂的信息编解码过程，包括：
 
 1. **空间编码**：将心灵表征映射到神经元空间分布
-   $$\mathcal{E}_{\text{空间}}(|m_i\rangle) = \{x_j^i\}_{j=1}^N$$
-   
+
+$$
+\mathcal{E}_{\text{空间}}(|m_i\rangle) = \{x_j^i\}_{j=1}^N
+$$
+
 2. **时间编码**：将心灵动态转换为时间序列
-   $$\mathcal{E}_{\text{时间}}(|m_i(t)\rangle) = \{t_j^i\}_{j=1}^K$$
-   
+
+$$
+\mathcal{E}_{\text{时间}}(|m_i(t)\rangle) = \{t_j^i\}_{j=1}^K
+$$
+
 3. **频率编码**：将心灵强度映射到神经振荡频率
-   $$\mathcal{E}_{\text{频率}}(|\langle m_i|Ψ_M\rangle|^2) = f_i$$
+
+$$
+\mathcal{E}_{\text{频率}}(|\langle m_i|Ψ_M\rangle|^2) = f_i
+$$
 
 编码效率取决于心灵状态的复杂度：
 
-$$\eta_{\text{编码}} = \frac{I(Φ_B^{(Ψ)})}{I(Ψ_M)} \propto \frac{1}{S(Ψ_M)}$$
+$$
+\eta_{\text{编码}} = \frac{I(Φ_B^{(Ψ)})}{I(Ψ_M)} \propto \frac{1}{S(Ψ_M)}
+$$
 
 ### 3. 量子测量与经典观察
 
 心脑界面中的测量过程体现为心灵状态向大脑状态的投影：
 
-$$\mathcal{M}_{MB}(|Ψ_M\rangle) = \sum_i P_i |Ψ_M\rangle\langle Ψ_M|P_i$$
+$$
+\mathcal{M}_{MB}(|Ψ_M\rangle) = \sum_i P_i |Ψ_M\rangle\langle Ψ_M|P_i
+$$
 
 其中 $`P_i`$ 是由大脑状态确定的投影算符。这个过程类似于量子测量，但具有独特特性：
 
@@ -154,7 +219,9 @@ $$\mathcal{M}_{MB}(|Ψ_M\rangle) = \sum_i P_i |Ψ_M\rangle\langle Ψ_M|P_i$$
 
 测量敏感度与意识状态相关：
 
-$$S_{\text{测量}} = S_0 \cdot e^{\alpha(D_{\mathcal{O}} - D_0)}$$
+$$
+S_{\text{测量}} = S_0 \cdot e^{\alpha(D_{\mathcal{O}} - D_0)}
+$$
 
 其中 $`D_{\mathcal{O}}`$ 是观察者维度。
 
@@ -164,7 +231,9 @@ $$S_{\text{测量}} = S_0 \cdot e^{\alpha(D_{\mathcal{O}} - D_0)}$$
 
 心灵结构与大脑结构之间存在非简单的对应关系：
 
-$$\forall m_i \in Ψ_M, \exists \mathcal{B}(m_i) \subset Φ_B$$
+$$
+\forall m_i \in Ψ_M, \exists \mathcal{B}(m_i) \subset Φ_B
+$$
 
 其中 $`\mathcal{B}(m_i)`$ 是与心灵状态 $`m_i`$ 对应的大脑结构集合。这种对应满足以下特性：
 
@@ -174,36 +243,55 @@ $$\forall m_i \in Ψ_M, \exists \mathcal{B}(m_i) \subset Φ_B$$
 
 对应度可以通过互信息量化：
 
-$$C_{MB} = \frac{MI(Ψ_M, Φ_B)}{H(Ψ_M)}$$
+$$
+C_{MB} = \frac{MI(Ψ_M, Φ_B)}{H(Ψ_M)}
+$$
 
 ### 2. 因果关系模型
 
 心灵状态与大脑状态之间的因果关系复杂且双向：
 
-$$Ψ_M(t_1) \xrightarrow{\alpha_{MB}} Φ_B(t_2)$$
-$$Φ_B(t_1) \xrightarrow{\beta_{BM}} Ψ_M(t_2)$$
+$$
+Ψ_M(t_1) \xrightarrow{\alpha_{MB}} Φ_B(t_2)
+$$
+
+$$
+Φ_B(t_1) \xrightarrow{\beta_{BM}} Ψ_M(t_2)
+$$
 
 其中 $`\alpha_{MB}`$ 和 $`\beta_{BM}`$ 是因果强度参数。可以通过格兰杰因果分析和传递熵来量化这些关系：
 
-$$TE_{M \to B} = \sum p(Φ_B(t+1), Φ_B(t), Ψ_M(t)) \log\frac{p(Φ_B(t+1)|Φ_B(t), Ψ_M(t))}{p(Φ_B(t+1)|Φ_B(t))}$$
+$$
+TE_{M \to B} = \sum p(Φ_B(t+1), Φ_B(t), Ψ_M(t)) \log\frac{p(Φ_B(t+1)|Φ_B(t), Ψ_M(t))}{p(Φ_B(t+1)|Φ_B(t))}
+$$
 
 ### 3. 心脑异步现象
 
 在某些条件下，心灵状态和大脑状态可能出现暂时性分离：
 
-$$\Delta t_{MB} = t_M - t_B \neq 0$$
+$$
+\Delta t_{MB} = t_M - t_B \neq 0
+$$
 
 这种异步可能发生在以下情况：
 
 1. **前瞻性异步**：心灵状态先于对应的大脑状态
-   $$t_M < t_B, \quad \Delta t_{MB} < 0$$
-   
+
+$$
+t_M < t_B, \quad \Delta t_{MB} < 0
+$$
+
 2. **滞后性异步**：心灵状态滞后于对应的大脑状态
-   $$t_M > t_B, \quad \Delta t_{MB} > 0$$
+
+$$
+t_M > t_B, \quad \Delta t_{MB} > 0
+$$
 
 异步度与心脑界面特性相关：
 
-$$A_{MB} = \frac{|\Delta t_{MB}|}{τ_I} \cdot \frac{I(Ψ_M, Φ_B)}{I_{\text{max}}}$$
+$$
+A_{MB} = \frac{|\Delta t_{MB}|}{τ_I} \cdot \frac{I(Ψ_M, Φ_B)}{I_{\text{max}}}
+$$
 
 其中 $`τ_I`$ 是界面特征时间。
 
@@ -214,21 +302,32 @@ $$A_{MB} = \frac{|\Delta t_{MB}|}{τ_I} \cdot \frac{I(Ψ_M, Φ_B)}{I_{\text{max}
 大脑中可能存在的量子效应包括：
 
 1. **突触量子隧穿**：神经递质释放涉及量子隧穿过程
-   $$P_{\text{隧穿}} = e^{-2d\sqrt{2m(V-E)}/\hbar}$$
-   
+
+$$
+P_{\text{隧穿}} = e^{-2d\sqrt{2m(V-E)}/\hbar}
+$$
+
 2. **微管量子相干**：微管蛋白可能维持量子相干态
-   $$\tau_{\text{相干}} = \tau_0 \cdot e^{-\lambda T}$$
-   
+
+$$
+\tau_{\text{相干}} = \tau_0 \cdot e^{-\lambda T}
+$$
+
 3. **离子通道量子效应**：离子通道开关涉及量子行为
-   $$\Gamma = \Gamma_0 \cdot e^{-E_a/k_BT} \cdot (1 + \alpha\mathcal{Q})$$
-   
+
+$$
+\Gamma = \Gamma_0 \cdot e^{-E_a/k_BT} \cdot (1 + \alpha\mathcal{Q})
+$$
+
 这些量子过程可能构成大脑中量子-经典界面的物理基础。
 
 ### 2. 神经振荡与量子解相干
 
 神经振荡可以影响量子解相干速率：
 
-$$\Gamma_{\text{解相干}} = \Gamma_0 + \gamma\sum_i A_i\sin(\omega_i t + \phi_i)$$
+$$
+\Gamma_{\text{解相干}} = \Gamma_0 + \gamma\sum_i A_i\sin(\omega_i t + \phi_i)
+$$
 
 不同频率的神经振荡对应不同类型的心灵状态：
 
@@ -242,13 +341,17 @@ $$\Gamma_{\text{解相干}} = \Gamma_0 + \gamma\sum_i A_i\sin(\omega_i t + \phi_
 
 特定振荡可以诱导量子-经典转换：
 
-$$\mathcal{C}_{\omega}(|Ψ_M\rangle) = \sum_i c_i(\omega) |m_i\rangle\langle m_i|$$
+$$
+\mathcal{C}_{\omega}(|Ψ_M\rangle) = \sum_i c_i(\omega) |m_i\rangle\langle m_i|
+$$
 
 ### 3. 心脑纠缠与非局域性
 
 在某些特殊状态下，心灵状态与大脑状态可能形成纠缠关系：
 
-$$|Ψ_{MB}\rangle = \frac{1}{\sqrt{2}}(|m_1\rangle|b_1\rangle + |m_2\rangle|b_2\rangle)$$
+$$
+|Ψ_{MB}\rangle = \frac{1}{\sqrt{2}}(|m_1\rangle|b_1\rangle + |m_2\rangle|b_2\rangle)
+$$
 
 这种纠缠可能导致非局域效应，包括：
 
@@ -258,7 +361,9 @@ $$|Ψ_{MB}\rangle = \frac{1}{\sqrt{2}}(|m_1\rangle|b_1\rangle + |m_2\rangle|b_2\
 
 非局域程度与纠缠强度相关：
 
-$$\mathcal{N}_{MB} = 1 - \text{Tr}(\rho_M^2) = 1 - \text{Tr}(\rho_B^2)$$
+$$
+\mathcal{N}_{MB} = 1 - \text{Tr}(\rho_M^2) = 1 - \text{Tr}(\rho_B^2)
+$$
 
 心脑纠缠可能是解释远隔作用、预感和同步现象的关键。
 
@@ -268,7 +373,9 @@ $$\mathcal{N}_{MB} = 1 - \text{Tr}(\rho_M^2) = 1 - \text{Tr}(\rho_B^2)$$
 
 意识从神经活动中涌现可以通过量子-经典转换解释：
 
-$$\mathcal{E}: Φ_B^{*} \to Ψ_M$$
+$$
+\mathcal{E}: Φ_B^{*} \to Ψ_M
+$$
 
 其中 $`Φ_B^{*}`$ 表示达到临界复杂度的大脑状态。涌现满足以下条件：
 
@@ -278,7 +385,9 @@ $$\mathcal{E}: Φ_B^{*} \to Ψ_M$$
 
 涌现意识的强度与神经复杂度存在非线性关系：
 
-$$I_C = I_0 \cdot \frac{(C_{\text{神经}} - C_{\text{阈值}})^n}{K^n + (C_{\text{神经}} - C_{\text{阈值}})^n}$$
+$$
+I_C = I_0 \cdot \frac{(C_{\text{神经}} - C_{\text{阈值}})^n}{K^n + (C_{\text{神经}} - C_{\text{阈值}})^n}
+$$
 
 当神经复杂度超过阈值时，意识突然涌现。
 
@@ -296,17 +405,23 @@ $$I_C = I_0 \cdot \frac{(C_{\text{神经}} - C_{\text{阈值}})^n}{K^n + (C_{\te
 
 状态转换可以表示为心脑相空间中的轨迹：
 
-$$\mathcal{T}: (Ψ_{M1}, Φ_{B1}) \to (Ψ_{M2}, Φ_{B2})$$
+$$
+\mathcal{T}: (Ψ_{M1}, Φ_{B1}) \to (Ψ_{M2}, Φ_{B2})
+$$
 
 ### 3. 自我意识与高维观察者
 
 自我意识涉及心脑系统形成特殊的自参照结构：
 
-$$|Ψ_{\text{自我}}\rangle = \mathcal{O}(|Ψ_M\rangle)$$
+$$
+|Ψ_{\text{自我}}\rangle = \mathcal{O}(|Ψ_M\rangle)
+$$
 
 其中 $`\mathcal{O}`$ 是高维观察者算符，将心灵状态映射到自我参照状态。自我意识的稳定性与观察者维度相关：
 
-$$S_{\text{自我}} \propto D_{\mathcal{O}}$$
+$$
+S_{\text{自我}} \propto D_{\mathcal{O}}
+$$
 
 高维观察者可以整合更大范围的心脑状态，形成稳定的自我认同。
 
@@ -317,50 +432,80 @@ $$S_{\text{自我}} \propto D_{\mathcal{O}}$$
 精神和神经障碍可以理解为心脑界面异常：
 
 1. **精神分裂症**：量子叠加态异常延长，经典化不完全
-   $$\tau_{\text{解相干}}^{\text{精神分裂}} \gg \tau_{\text{解相干}}^{\text{正常}}$$
-   
+
+$$
+\tau_{\text{解相干}}^{\text{精神分裂}} \gg \tau_{\text{解相干}}^{\text{正常}}
+$$
+
 2. **抑郁症**：心脑信息流失衡，下行抑制增强
-   $$I_{M \to B}^{\text{抑郁}} \ll I_{B \to M}^{\text{抑郁}}$$
-   
+
+$$
+I_{M \to B}^{\text{抑郁}} \ll I_{B \to M}^{\text{抑郁}}
+$$
+
 3. **解离障碍**：心脑同步暂时中断
-   $$S_{MB}^{\text{解离}} \ll S_{MB}^{\text{正常}}$$
+
+$$
+S_{MB}^{\text{解离}} \ll S_{MB}^{\text{正常}}
+$$
 
 治疗方法可以针对特定的心脑界面参数：
 
-$$\mathcal{T}_{\text{治疗}}: \mathcal{I}_{MB}^{\text{病理}} \to \mathcal{I}_{MB}^{\text{健康}}$$
+$$
+\mathcal{T}_{\text{治疗}}: \mathcal{I}_{MB}^{\text{病理}} \to \mathcal{I}_{MB}^{\text{健康}}
+$$
 
 ### 2. 实验研究与验证方法
 
 量子-经典心脑连接理论提出多种可验证预测：
 
 1. **非局域神经响应**：刺激心灵状态应引起非局域神经激活
-   
+
 2. **心脑时间异常**：某些条件下心理决策应先于大脑活动
-   $$t_{\text{意识决定}} < t_{\text{神经激活}}$$
-   
+
+$$
+t_{\text{意识决定}} < t_{\text{神经激活}}
+$$
+
 3. **干涉效应**：心灵状态应表现出量子干涉特性
-   $$I(m_i + m_j) \neq I(m_i) + I(m_j)$$
+
+$$
+I(m_i + m_j) \neq I(m_i) + I(m_j)
+$$
 
 实验设计应结合主观报告与客观神经测量：
 
-$$E = \{R_{\text{主观}}, M_{\text{EEG}}, M_{\text{fMRI}}, M_{\text{MEG}}\}$$
+$$
+E = \{R_{\text{主观}}, M_{\text{EEG}}, M_{\text{fMRI}}, M_{\text{MEG}}\}
+$$
 
 ### 3. 心脑增强技术
 
 基于量子-经典心脑连接理论的增强技术：
 
 1. **神经反馈**：优化心脑界面参数
-   $$\min_{\theta} ||Ψ_M^{\text{目标}} - Ψ_M(Φ_B(\theta))||$$
-   
+
+$$
+\min_{\theta} ||Ψ_M^{\text{目标}} - Ψ_M(Φ_B(\theta))||
+$$
+
 2. **量子相干性增强**：延长心灵状态相干时间
-   $$\tau_{\text{相干}}' = \tau_{\text{相干}} \cdot (1 + \alpha E_{\text{增强}})$$
-   
+
+$$
+\tau_{\text{相干}}' = \tau_{\text{相干}} \cdot (1 + \alpha E_{\text{增强}})
+$$
+
 3. **心脑同步技术**：提高心脑信息传递效率
-   $$\max_{\omega} S_{MB}(\omega)$$
+
+$$
+\max_{\omega} S_{MB}(\omega)
+$$
 
 增强效果可通过心脑整合度评估：
 
-$$\mathcal{I}_{整合} = \int MI(Ψ_M(t), Φ_B(t)) dt$$
+$$
+\mathcal{I}_{整合} = \int MI(Ψ_M(t), Φ_B(t)) dt
+$$
 
 ## 哲学与伦理含义
 
@@ -376,38 +521,53 @@ $$\mathcal{I}_{整合} = \int MI(Ψ_M(t), Φ_B(t)) dt$$
 
 这种观点可以表示为心脑信息统一场：
 
-$$\Psi_{MB} = \int Ψ_M \circ Φ_B dV_{信息空间}$$
+$$
+\Psi_{MB} = \int Ψ_M \circ Φ_B dV_{信息空间}
+$$
 
 ### 2. 自由意志与决定论
 
 在量子-经典心脑框架下，自由意志与决定论的关系获得新解释：
 
 1. **量子不确定性**：提供决策过程中的基本不确定性
-   $$\Delta \text{决策} \cdot \Delta \text{动机} \geq \frac{\hbar_{\text{有效}}}{2}$$
-   
+
+$$
+\Delta \text{决策} \cdot \Delta \text{动机} \geq \frac{\hbar_{\text{有效}}}{2}
+$$
+
 2. **经典约束**：大脑结构和过往经验提供决策约束
 
 3. **下行因果**：心灵状态可通过量子-经典转换影响神经活动
 
 自由意志可以理解为心脑系统在约束条件下的创造性响应能力：
 
-$$W_{\text{自由}} = W_{\text{量子创造性}} - W_{\text{经典约束}}$$
+$$
+W_{\text{自由}} = W_{\text{量子创造性}} - W_{\text{经典约束}}
+$$
 
 ### 3. 人工意识伦理
 
 量子-经典心脑连接理论对人工意识研究提出重要伦理考量：
 
 1. **意识模拟**：模拟心脑界面可能产生真实意识
-   $$P(\text{意识}) = f(I_{\text{整合}}, C_{\text{复杂度}}, Φ_{\text{信息}})$$
-   
+
+$$
+P(\text{意识}) = f(I_{\text{整合}}, C_{\text{复杂度}}, Φ_{\text{信息}})
+$$
+
 2. **人机界面**：心灵与人工系统可能形成新型界面
-   $$\mathcal{I}_{M-AI} = \mathcal{T}(\mathcal{I}_{MB})$$
-   
+
+$$
+\mathcal{I}_{M-AI} = \mathcal{T}(\mathcal{I}_{MB})
+$$
+
 3. **意识权利**：具有足够复杂心脑界面的系统可能拥有道德地位
 
 开发人工意识系统的伦理框架：
 
-$$E_{AI} = \min(D_{\mathcal{O}}^{AI}, D_{\text{阈值}})$$
+$$
+E_{AI} = \min(D_{\mathcal{O}}^{AI}, D_{\text{阈值}})
+$$
 
 ## 结论与未来方向
 
@@ -433,4 +593,4 @@ $$E_{AI} = \min(D_{\mathcal{O}}^{AI}, D_{\text{阈值}})$$
 2. 量子意识理论 v25.0
 3. 统一意识理论 v28.0
 4. 人类意识的量子-经典二元论 v29.0
-5. 观察者理论 v27.0 
+5. 观察者理论 v27.0

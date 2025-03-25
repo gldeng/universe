@@ -300,4 +300,4 @@ The solution to this problem will deepen our understanding of the efficiency of 
 4. Eggleston, H. G. (1957). Convexity. Cambridge University Press.
 5. Klee, V., & Wagon, S. (1991). Old and new unsolved problems in plane geometry and number theory. Mathematical Association of America.
 6. Lassak, M. (1996). On the Lebesgue universal cover problem. Applicationes Mathematicae, 23(3), 317-322.
-7. Brass, P., Moser, W. O. J., & Pach, J. (2005). Research problems in discrete geometry. Springer. 
+7. Brass, P., Moser, W. O. J., & Pach, J. (2005). Research problems in discrete geometry. Springer.

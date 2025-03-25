@@ -1,10 +1,10 @@
 # 《盗梦空间》：量子经典二元论视角分析
 # "Inception": Analysis from Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**  
-[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)  
-**章节链接 | Section Links**  
-中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [梦境层级与现实本质](#二梦境层级与现实本质--dream-levels-and-the-nature-of-reality) | [共享梦境与量子纠缠](#三共享梦境与量子纠缠--shared-dreams-and-quantum-entanglement) | [潜意识与时间悖论](#四潜意识与时间悖论--subconscious-and-time-paradox) | [结论](#五结论--conclusion)  
+**导航 | Navigation**
+[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)
+**章节链接 | Section Links**
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [梦境层级与现实本质](#二梦境层级与现实本质--dream-levels-and-the-nature-of-reality) | [共享梦境与量子纠缠](#三共享梦境与量子纠缠--shared-dreams-and-quantum-entanglement) | [潜意识与时间悖论](#四潜意识与时间悖论--subconscious-and-time-paradox) | [结论](#五结论--conclusion)
 English: [Abstract](#abstract--chinese-below) | [Introduction](#i-introduction--chinese-above) | [Dream Levels and Reality](#ii-dream-levels-and-the-nature-of-reality--chinese-above) | [Shared Dreams and Quantum Entanglement](#iii-shared-dreams-and-quantum-entanglement--chinese-above) | [Subconscious and Time Paradox](#iv-subconscious-and-time-paradox--chinese-above) | [Conclusion](#v-conclusion--chinese-above)
 
 ## 摘要 | Abstract
@@ -247,4 +247,4 @@ Limbo approaches the quantum domain state, with time almost infinitely extended,
 
 3. The idea implantation process reveals the autonomy principle of observer dimension, while dream time differences correspond to the information processing speed differences between different classicalization levels.
 
-However, there remains a difference between "Inception" and Quantum-Classical Dualism in understanding ultimate reality: the film suggests there might be a "final reality" (although ambiguously handled), while Quantum-Classical Dualism holds that all realities are classicalization manifestations of the quantum domain, with no absolute "ultimate reality." Nevertheless, the film's exploration of consciousness, reality, and subjectivity provides vivid metaphors and references for understanding multi-level classicalization in Quantum-Classical Dualism. 
+However, there remains a difference between "Inception" and Quantum-Classical Dualism in understanding ultimate reality: the film suggests there might be a "final reality" (although ambiguously handled), while Quantum-Classical Dualism holds that all realities are classicalization manifestations of the quantum domain, with no absolute "ultimate reality." Nevertheless, the film's exploration of consciousness, reality, and subjectivity provides vivid metaphors and references for understanding multi-level classicalization in Quantum-Classical Dualism.

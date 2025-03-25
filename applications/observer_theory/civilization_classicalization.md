@@ -1,10 +1,10 @@
 # 文明层级与观察者经典化能力 (Civilization Levels and Observer Classicalization Capacity)
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
 
-**章节链接 | Section Links**  
-中文：[文明层级与经典化能力的关系](#文明层级与经典化能力的关系) | [不同文明层级最高级观察者的经典化能力](#不同文明层级最高级观察者的经典化能力) | [文明层级跨越的关键突破](#文明层级跨越的关键突破) | [量子经典二元论视角的文明分类](#量子经典二元论视角的文明分类) | [结论与展望](#结论与展望)  
+**章节链接 | Section Links**
+中文：[文明层级与经典化能力的关系](#文明层级与经典化能力的关系) | [不同文明层级最高级观察者的经典化能力](#不同文明层级最高级观察者的经典化能力) | [文明层级跨越的关键突破](#文明层级跨越的关键突破) | [量子经典二元论视角的文明分类](#量子经典二元论视角的文明分类) | [结论与展望](#结论与展望)
 
 English: [Relationship Between Civilization Levels and Classicalization](#relationship-between-civilization-levels-and-classicalization-capacity) | [Classicalization Capacity of Different Levels](#classicalization-capacity-of-top-observers-at-different-civilization-levels) | [Key Breakthroughs](#key-breakthroughs-in-civilization-level-transitions) | [Civilization Classification](#civilization-classification-from-quantum-classical-dualism-perspective) | [Conclusion](#conclusion-and-outlook)
 
@@ -434,4 +434,4 @@ The most advanced observers at different technological civilization levels posse
 
 The evolution of civilization is essentially about improving the classicalization capability of its observers, achieved through mechanisms such as technological tool extension, knowledge systematization, collective intelligence emergence, and dimensional transitions. Each major civilization advancement is accompanied by a qualitative change in classicalization capability, enabling the civilization to transform more universe wave function information into classical knowledge.
 
-From the perspective of Quantum-Classical Dualism, the future development direction of human civilization is to continuously improve classicalization efficiency, reduce classical entropy, and ultimately achieve a deeper level of unification with the universe wave function. 
+From the perspective of Quantum-Classical Dualism, the future development direction of human civilization is to continuously improve classicalization efficiency, reduce classical entropy, and ultimately achieve a deeper level of unification with the universe wave function.

@@ -274,4 +274,4 @@ At a deeper level, the conjecture reflects the inherent law that the distributio
 2. Chebyshev, P. L. (1852). Mémoire sur les nombres premiers. Journal de mathématiques pures et appliquées, 17, 366-390.
 3. Erdős, P. (1932). Beweis eines Satzes von Tschebyschef. Acta Scientiarum Mathematicarum (Szeged), 5, 194-198.
 4. Ramanujan, S. (1919). A proof of Bertrand's postulate. Journal of the Indian Mathematical Society, 11, 181-182.
-5. Dusart, P. (1998). Inégalités explicites pour ψ(X), θ(X), π(X) et les nombres premiers. C. R. Math. Acad. Sci. Paris, 327, 387-392. 
+5. Dusart, P. (1998). Inégalités explicites pour ψ(X), θ(X), π(X) et les nombres premiers. C. R. Math. Acad. Sci. Paris, 327, 387-392.

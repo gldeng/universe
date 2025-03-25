@@ -24,7 +24,9 @@
 
 数字转型 $`\mathcal{D}`$ 可形式化定义为：
 
-$$\mathcal{D} = (\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{N}_D, \mathcal{O}_D)$$
+$$
+\mathcal{D} = (\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{N}_D, \mathcal{O}_D)
+$$
 
 其中：
 - $`\mathcal{D}_Q`$ 是数字转型的量子组分（可能性空间、创新潜力）
@@ -35,31 +37,39 @@ $$\mathcal{D} = (\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{N}_D, \ma
 
 ### 数字转型核心公理
 
-**公理1: 数字二元性**  
+**公理1: 数字二元性**
 数字技术和系统同时具有量子和经典两个域的特性：
 
-$$\mathcal{D} = \mathcal{D}_Q \diamond \mathcal{D}_C$$
+$$
+\mathcal{D} = \mathcal{D}_Q \diamond \mathcal{D}_C
+$$
 
 其中 $`\diamond`$ 表示数字量子-经典连接操作。
 
-**公理2: 信息状态相变**  
+**公理2: 信息状态相变**
 数字转型本质上是信息从一种状态向另一种状态的相变过程：
 
-$$\Phi_D: \mathcal{S}_{analog}(\lambda) \rightarrow \mathcal{S}_{digital}(\lambda+\delta\lambda)$$
+$$
+\Phi_D: \mathcal{S}_{analog}(\lambda) \rightarrow \mathcal{S}_{digital}(\lambda+\delta\lambda)
+$$
 
 其中 $`\mathcal{S}`$ 是信息系统状态，$`\lambda`$ 是控制参数。
 
-**公理3: 混合现实原理**  
+**公理3: 混合现实原理**
 数字与物理现实通过界面互动形成混合现实：
 
-$$\mathcal{R}_{mixed} = \mathcal{R}_{physical} \bowtie \mathcal{R}_{digital}$$
+$$
+\mathcal{R}_{mixed} = \mathcal{R}_{physical} \bowtie \mathcal{R}_{digital}
+$$
 
 其中 $`\bowtie`$ 表示现实融合操作。
 
-**公理4: 数字-社会共同演化**  
+**公理4: 数字-社会共同演化**
 数字技术与社会系统之间存在共同演化关系：
 
-$$\frac{d}{dt}\begin{pmatrix} \mathcal{D} \\ \mathcal{S} \end{pmatrix} = \begin{pmatrix} F_D(\mathcal{D}, \mathcal{S}) \\ F_S(\mathcal{S}, \mathcal{D}) \end{pmatrix}$$
+$$
+\frac{d}{dt}\begin{pmatrix} \mathcal{D} \\ \mathcal{S} \end{pmatrix} = \begin{pmatrix} F_D(\mathcal{D}, \mathcal{S}) \\ F_S(\mathcal{S}, \mathcal{D}) \end{pmatrix}
+$$
 
 其中 $`\mathcal{S}`$ 表示社会系统，$`F_D`$ 和 $`F_S`$ 是相应的演化函数。
 
@@ -69,7 +79,9 @@ $$\frac{d}{dt}\begin{pmatrix} \mathcal{D} \\ \mathcal{S} \end{pmatrix} = \begin{
 
 数字技术创造的量子可能性空间特性：
 
-$$|\Psi_D\rangle = \sum_i \alpha_i |d_i\rangle$$
+$$
+|\Psi_D\rangle = \sum_i \alpha_i |d_i\rangle
+$$
 
 其中 $`|d_i\rangle`$ 是可能的数字状态基矢，$`\alpha_i`$ 是复振幅。
 
@@ -81,7 +93,9 @@ $$|\Psi_D\rangle = \sum_i \alpha_i |d_i\rangle$$
 
 数字量子熵与创新潜力关系：
 
-$$S(\rho_D) = -\text{Tr}(\rho_D \ln \rho_D) \propto \text{Innovation Potential}$$
+$$
+S(\rho_D) = -\text{Tr}(\rho_D \ln \rho_D) \propto \text{Innovation Potential}
+$$
 
 其中 $`\rho_D`$ 是数字系统的密度矩阵。
 
@@ -89,7 +103,9 @@ $$S(\rho_D) = -\text{Tr}(\rho_D \ln \rho_D) \propto \text{Innovation Potential}$
 
 数字系统的经典域组成：
 
-$$\mathcal{D}_C = (I_D, P_D, S_D, N_D)$$
+$$
+\mathcal{D}_C = (I_D, P_D, S_D, N_D)
+$$
 
 其中：
 - $`I_D`$ 是数字基础设施（硬件、网络等）
@@ -99,13 +115,17 @@ $$\mathcal{D}_C = (I_D, P_D, S_D, N_D)$$
 
 数字经典动力学满足：
 
-$$\frac{d\mathcal{D}_C}{dt} = F_C(\mathcal{D}_C, I_{外部}, P_{用户})$$
+$$
+\frac{d\mathcal{D}_C}{dt} = F_C(\mathcal{D}_C, I_{外部}, P_{用户})
+$$
 
 其中 $`I_{外部}`$ 是外部投入，$`P_{用户}`$ 是用户行为模式。
 
 数字经典记忆机制：
 
-$$M_D(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{D}_C(\tau) d\tau$$
+$$
+M_D(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{D}_C(\tau) d\tau
+$$
 
 其中 $`\kappa`$ 是记忆衰减核函数。
 
@@ -113,13 +133,17 @@ $$M_D(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{D}_C(\tau) d\tau$$
 
 数字量子-经典界面动力学方程：
 
-$$\frac{d\mathcal{I}_D}{dt} = \alpha_D \nabla^2 \mathcal{I}_D + \beta_D(\mathcal{I}_c - \mathcal{I}_D)(\mathcal{I}_D - \mathcal{I}_0) + \gamma_D\xi_D(t) + \delta_D U_D(t)$$
+$$
+\frac{d\mathcal{I}_D}{dt} = \alpha_D \nabla^2 \mathcal{I}_D + \beta_D(\mathcal{I}_c - \mathcal{I}_D)(\mathcal{I}_D - \mathcal{I}_0) + \gamma_D\xi_D(t) + \delta_D U_D(t)
+$$
 
 其中 $`U_D(t)`$ 是用户干预函数，表示用户对数字界面的影响。
 
 界面特性决定了用户体验和采纳度：
 
-$$UX = f(\mathcal{I}_D) = \int_{\Omega} \mathcal{I}_D(x) \cdot \Phi_{UX}(x) dx$$
+$$
+UX = f(\mathcal{I}_D) = \int_{\Omega} \mathcal{I}_D(x) \cdot \Phi_{UX}(x) dx
+$$
 
 其中 $`\Phi_{UX}(x)`$ 是用户体验潜在场函数。
 
@@ -133,7 +157,9 @@ $$UX = f(\mathcal{I}_D) = \int_{\Omega} \mathcal{I}_D(x) \cdot \Phi_{UX}(x) dx$$
 
 数字领域构建的社会网络特性：
 
-$$\mathcal{N}_D = (V_D, E_D, W_D, F_D)$$
+$$
+\mathcal{N}_D = (V_D, E_D, W_D, F_D)
+$$
 
 其中：
 - $`V_D`$ 是节点集（用户、组织等）
@@ -143,7 +169,9 @@ $$\mathcal{N}_D = (V_D, E_D, W_D, F_D)$$
 
 网络结构参数与社会影响：
 
-$$S_{impact} = f(C_D, L_D, H_D, R_D)$$
+$$
+S_{impact} = f(C_D, L_D, H_D, R_D)
+$$
 
 其中：
 - $`C_D`$ 是聚类系数
@@ -153,7 +181,9 @@ $$S_{impact} = f(C_D, L_D, H_D, R_D)$$
 
 网络动力学特征：
 
-$$\frac{d\mathcal{N}_D}{dt} = F_N(\mathcal{N}_D, \mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D)$$
+$$
+\frac{d\mathcal{N}_D}{dt} = F_N(\mathcal{N}_D, \mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D)
+$$
 
 反映数字网络的自组织和演化特性。
 
@@ -163,13 +193,17 @@ $$\frac{d\mathcal{N}_D}{dt} = F_N(\mathcal{N}_D, \mathcal{D}_Q, \mathcal{D}_C, \
 
 数字与物理现实的混合态：
 
-$$|\Psi_{MR}\rangle = \sum_{i,j} \gamma_{ij} |p_i\rangle \otimes |d_j\rangle$$
+$$
+|\Psi_{MR}\rangle = \sum_{i,j} \gamma_{ij} |p_i\rangle \otimes |d_j\rangle
+$$
 
 其中 $`|p_i\rangle`$ 是物理现实状态，$`|d_j\rangle`$ 是数字现实状态。
 
 混合现实中的信息集成度：
 
-$$I_{integration} = -\text{Tr}(\rho_{p,d} \ln \rho_{p,d}) - [-\text{Tr}(\rho_p \ln \rho_p) - \text{Tr}(\rho_d \ln \rho_d)]$$
+$$
+I_{integration} = -\text{Tr}(\rho_{p,d} \ln \rho_{p,d}) - [-\text{Tr}(\rho_p \ln \rho_p) - \text{Tr}(\rho_d \ln \rho_d)]
+$$
 
 衡量物理和数字现实的整合程度。
 
@@ -183,7 +217,9 @@ $$I_{integration} = -\text{Tr}(\rho_{p,d} \ln \rho_{p,d}) - [-\text{Tr}(\rho_p \
 
 数字技术导致的认知模式变化：
 
-$$C_{digital} = \mathcal{T}(C_{analog}, \mathcal{D}, t)$$
+$$
+C_{digital} = \mathcal{T}(C_{analog}, \mathcal{D}, t)
+$$
 
 其中 $`C_{analog}`$ 是传统认知模式，$`\mathcal{T}`$ 是转换函数。
 
@@ -195,7 +231,9 @@ $$C_{digital} = \mathcal{T}(C_{analog}, \mathcal{D}, t)$$
 
 认知转变动力学方程：
 
-$$\frac{dC_{digital}}{dt} = \alpha_C(C_{optimal} - C_{digital}) - \beta_C(C_{digital} - C_{analog})^2 + \gamma_C\xi_C(t)$$
+$$
+\frac{dC_{digital}}{dt} = \alpha_C(C_{optimal} - C_{digital}) - \beta_C(C_{digital} - C_{analog})^2 + \gamma_C\xi_C(t)
+$$
 
 描述数字认知形成的过程和平衡。
 
@@ -203,7 +241,9 @@ $$\frac{dC_{digital}}{dt} = \alpha_C(C_{optimal} - C_{digital}) - \beta_C(C_{dig
 
 数字化对社会结构的重构作用：
 
-$$\mathcal{S}_{digital} = \mathcal{R}(\mathcal{S}_{traditional}, \mathcal{D}, \mathcal{I}_{S-D})$$
+$$
+\mathcal{S}_{digital} = \mathcal{R}(\mathcal{S}_{traditional}, \mathcal{D}, \mathcal{I}_{S-D})
+$$
 
 其中 $`\mathcal{S}_{traditional}`$ 是传统社会结构，$`\mathcal{I}_{S-D}`$ 是社会-数字界面。
 
@@ -215,7 +255,9 @@ $$\mathcal{S}_{digital} = \mathcal{R}(\mathcal{S}_{traditional}, \mathcal{D}, \m
 
 社会群体数字化的动力学方程：
 
-$$\frac{d\mathcal{S}_{digital}}{dt} = \alpha_S\frac{d\mathcal{D}}{dt} - \beta_S(\mathcal{S}_{digital} - \mathcal{S}_{equilibrium}) + \gamma_S\xi_S(t)$$
+$$
+\frac{d\mathcal{S}_{digital}}{dt} = \alpha_S\frac{d\mathcal{D}}{dt} - \beta_S(\mathcal{S}_{digital} - \mathcal{S}_{equilibrium}) + \gamma_S\xi_S(t)
+$$
 
 描述社会系统对数字化的适应和平衡机制。
 
@@ -225,7 +267,9 @@ $$\frac{d\mathcal{S}_{digital}}{dt} = \alpha_S\frac{d\mathcal{D}}{dt} - \beta_S(
 
 数字信息生态系统的形式化表示：
 
-$$\mathcal{E}_{digital} = (P_D, C_D, F_D, R_D)$$
+$$
+\mathcal{E}_{digital} = (P_D, C_D, F_D, R_D)
+$$
 
 其中：
 - $`P_D`$ 是信息生产者集合
@@ -235,7 +279,9 @@ $$\mathcal{E}_{digital} = (P_D, C_D, F_D, R_D)$$
 
 信息流动动力学：
 
-$$\frac{dI}{dt} = \alpha_I \cdot P(I) - \beta_I \cdot D(I) + \gamma_I \cdot A(I)$$
+$$
+\frac{dI}{dt} = \alpha_I \cdot P(I) - \beta_I \cdot D(I) + \gamma_I \cdot A(I)
+$$
 
 其中：
 - $`P(I)`$ 是信息生产函数
@@ -244,7 +290,9 @@ $$\frac{dI}{dt} = \alpha_I \cdot P(I) - \beta_I \cdot D(I) + \gamma_I \cdot A(I)
 
 数字信息生态系统健康指标：
 
-$$H_{info} = \frac{D_{信息} \cdot V_{流动速率}}{N_{噪声} \cdot B_{偏见}}$$
+$$
+H_{info} = \frac{D_{信息} \cdot V_{流动速率}}{N_{噪声} \cdot B_{偏见}}
+$$
 
 衡量数字信息生态系统的总体健康度。
 
@@ -252,7 +300,9 @@ $$H_{info} = \frac{D_{信息} \cdot V_{流动速率}}{N_{噪声} \cdot B_{偏见
 
 社会系统对数字化的适应过程：
 
-$$\mathcal{A}(t) = \mathcal{A}_0 \cdot (1 - e^{-\lambda_A t}) \cdot \prod_i (1 + \eta_i \cdot \mathcal{F}_i(t))$$
+$$
+\mathcal{A}(t) = \mathcal{A}_0 \cdot (1 - e^{-\lambda_A t}) \cdot \prod_i (1 + \eta_i \cdot \mathcal{F}_i(t))
+$$
 
 其中 $`\mathcal{A}_0`$ 是初始适应能力，$`\mathcal{F}_i(t)`$ 是各种促进因素。
 
@@ -264,7 +314,9 @@ $$\mathcal{A}(t) = \mathcal{A}_0 \cdot (1 - e^{-\lambda_A t}) \cdot \prod_i (1 +
 
 适应水平与数字鸿沟关系：
 
-$$D_{divide} = \sigma \cdot \sqrt{\frac{1}{N}\sum_i(\mathcal{A}_i - \bar{\mathcal{A}})^2}$$
+$$
+D_{divide} = \sigma \cdot \sqrt{\frac{1}{N}\sum_i(\mathcal{A}_i - \bar{\mathcal{A}})^2}
+$$
 
 数字鸿沟与适应水平差异的标准差成正比。
 
@@ -272,13 +324,17 @@ $$D_{divide} = \sigma \cdot \sqrt{\frac{1}{N}\sum_i(\mathcal{A}_i - \bar{\mathca
 
 数字系统与人类社会的共同演化：
 
-$$\frac{d\mathcal{H}}{dt} = F_H(\mathcal{H}, \mathcal{D}), \quad \frac{d\mathcal{D}}{dt} = F_D(\mathcal{D}, \mathcal{H})$$
+$$
+\frac{d\mathcal{H}}{dt} = F_H(\mathcal{H}, \mathcal{D}), \quad \frac{d\mathcal{D}}{dt} = F_D(\mathcal{D}, \mathcal{H})
+$$
 
 其中 $`\mathcal{H}`$ 代表人类系统，$`\mathcal{D}`$ 代表数字系统。
 
 共同演化稳定性条件：
 
-$$\frac{\partial F_H}{\partial \mathcal{H}} \cdot \frac{\partial F_D}{\partial \mathcal{D}} - \frac{\partial F_H}{\partial \mathcal{D}} \cdot \frac{\partial F_D}{\partial \mathcal{H}} < 0$$
+$$
+\frac{\partial F_H}{\partial \mathcal{H}} \cdot \frac{\partial F_D}{\partial \mathcal{D}} - \frac{\partial F_H}{\partial \mathcal{D}} \cdot \frac{\partial F_D}{\partial \mathcal{H}} < 0
+$$
 
 表明共同演化的平衡依赖于互作用强度。
 
@@ -294,7 +350,9 @@ $$\frac{\partial F_H}{\partial \mathcal{H}} \cdot \frac{\partial F_D}{\partial \
 
 基于量子-经典二元论的数字转型评估框架：
 
-$$E_D = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I$$
+$$
+E_D = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I
+$$
 
 其中：
 - $`E_Q`$ 是量子维度评估（创新性、可能性、适应性）
@@ -304,7 +362,9 @@ $$E_D = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I$$
 
 转型成熟度模型：
 
-$$M_D = f(\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{O}_D, t)$$
+$$
+M_D = f(\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{O}_D, t)
+$$
 
 表示数字转型在时间维度上的成熟发展曲线。
 
@@ -312,7 +372,9 @@ $$M_D = f(\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{O}_D, t)$$
 
 可持续数字转型的设计原则：
 
-$$\mathcal{S}_{sustainable} = \arg\max_{S \in \mathcal{S}} \{W(\mathcal{H}, \mathcal{D}, \mathcal{E}) | \mathcal{H}, \mathcal{E} > \mathcal{T}_{threshold}\}$$
+$$
+\mathcal{S}_{sustainable} = \arg\max_{S \in \mathcal{S}} \{W(\mathcal{H}, \mathcal{D}, \mathcal{E}) | \mathcal{H}, \mathcal{E} > \mathcal{T}_{threshold}\}
+$$
 
 其中 $`W`$ 是总体福祉函数，$`\mathcal{H}`$ 是人类福祉，$`\mathcal{D}`$ 是数字系统性能，$`\mathcal{E}`$ 是环境可持续性。
 
@@ -324,7 +386,9 @@ $$\mathcal{S}_{sustainable} = \arg\max_{S \in \mathcal{S}} \{W(\mathcal{H}, \mat
 
 可持续性效益量化模型：
 
-$$B_{sustainability} = \sum_i w_i \cdot B_i - \sum_j c_j \cdot C_j$$
+$$
+B_{sustainability} = \sum_i w_i \cdot B_i - \sum_j c_j \cdot C_j
+$$
 
 其中 $`B_i`$ 是各种效益，$`C_j`$ 是各种成本，$`w_i`$ 和 $`c_j`$ 是相应权重。
 
@@ -332,7 +396,9 @@ $$B_{sustainability} = \sum_i w_i \cdot B_i - \sum_j c_j \cdot C_j$$
 
 数字伦理决策框架：
 
-$$E_{decision} = f(R, C, J, A, P)$$
+$$
+E_{decision} = f(R, C, J, A, P)
+$$
 
 其中：
 - $`R`$ 是责任评分 (Responsibility)
@@ -343,13 +409,17 @@ $$E_{decision} = f(R, C, J, A, P)$$
 
 伦理张力动态平衡：
 
-$$\frac{dE_{balance}}{dt} = \alpha_E(E_{ideal} - E_{actual}) - \beta_E\sum_i (E_i - \bar{E})^2 + \gamma_E\xi_E(t)$$
+$$
+\frac{dE_{balance}}{dt} = \alpha_E(E_{ideal} - E_{actual}) - \beta_E\sum_i (E_i - \bar{E})^2 + \gamma_E\xi_E(t)
+$$
 
 描述伦理平衡点的动态调整过程。
 
 数字转型的伦理界限原则：
 
-$$L_{ethical} = \{d \in \mathcal{D} | \forall h \in \mathcal{H}, V(h) \geq V_{min}\}$$
+$$
+L_{ethical} = \{d \in \mathcal{D} | \forall h \in \mathcal{H}, V(h) \geq V_{min}\}
+$$
 
 定义转型中必须保持的人类价值底线。
 
@@ -359,11 +429,15 @@ $$L_{ethical} = \{d \in \mathcal{D} | \forall h \in \mathcal{H}, V(h) \geq V_{mi
 
 数字转型是量子社会动力学的特殊应用场景：
 
-$$\mathcal{D} \subset \mathcal{S}_Q$$
+$$
+\mathcal{D} \subset \mathcal{S}_Q
+$$
 
 数字社会与传统社会的量子叠加：
 
-$$|\Psi_{society}\rangle = \alpha_t|S_{traditional}\rangle + \alpha_d|S_{digital}\rangle$$
+$$
+|\Psi_{society}\rangle = \alpha_t|S_{traditional}\rangle + \alpha_d|S_{digital}\rangle
+$$
 
 其中 $`|\alpha_t|^2 + |\alpha_d|^2 = 1`$，比例随时间演化。
 
@@ -371,25 +445,33 @@ $$|\Psi_{society}\rangle = \alpha_t|S_{traditional}\rangle + \alpha_d|S_{digital
 
 数字转型大量应用交互技术作为实现机制：
 
-$$\mathcal{D} = \mathcal{F}(\mathcal{IT}, \mathcal{S}, \mathcal{E})$$
+$$
+\mathcal{D} = \mathcal{F}(\mathcal{IT}, \mathcal{S}, \mathcal{E})
+$$
 
 其中 $`\mathcal{IT}`$ 是交互技术集，$`\mathcal{S}`$ 是社会系统，$`\mathcal{E}`$ 是环境。
 
 交互技术对数字转型的影响函数：
 
-$$\frac{\partial \mathcal{D}}{\partial \mathcal{IT}} = \frac{\partial \mathcal{F}}{\partial \mathcal{IT}} + \frac{\partial \mathcal{F}}{\partial \mathcal{S}} \cdot \frac{\partial \mathcal{S}}{\partial \mathcal{IT}} + \frac{\partial \mathcal{F}}{\partial \mathcal{E}} \cdot \frac{\partial \mathcal{E}}{\partial \mathcal{IT}}$$
+$$
+\frac{\partial \mathcal{D}}{\partial \mathcal{IT}} = \frac{\partial \mathcal{F}}{\partial \mathcal{IT}} + \frac{\partial \mathcal{F}}{\partial \mathcal{S}} \cdot \frac{\partial \mathcal{S}}{\partial \mathcal{IT}} + \frac{\partial \mathcal{F}}{\partial \mathcal{E}} \cdot \frac{\partial \mathcal{E}}{\partial \mathcal{IT}}
+$$
 
 ### 与虚拟现实理论的联系
 
 数字转型与虚拟现实共享理论基础：
 
-$$\mathcal{D} \cap \mathcal{VR} = \mathcal{MR}$$
+$$
+\mathcal{D} \cap \mathcal{VR} = \mathcal{MR}
+$$
 
 混合现实是数字转型与虚拟现实的交集。
 
 虚拟现实加速数字转型的机制：
 
-$$\frac{d\mathcal{D}}{dt} = \frac{d\mathcal{D}}{dt}\bigg|_{base} + \alpha_{VR} \cdot \mathcal{VR}(t)$$
+$$
+\frac{d\mathcal{D}}{dt} = \frac{d\mathcal{D}}{dt}\bigg|_{base} + \alpha_{VR} \cdot \mathcal{VR}(t)
+$$
 
 其中 $`\alpha_{VR}`$ 是虚拟现实的加速因子。
 
@@ -415,4 +497,4 @@ $$\frac{d\mathcal{D}}{dt} = \frac{d\mathcal{D}}{dt}\bigg|_{base} + \alpha_{VR} \
 - [量子社会动力学](formal_theory_social.md)
 - [量子-经典交互技术](formal_theory_interaction.md)
 - [量子-经典数字转型理论（本文档）](formal_theory_digital_transformation.md)
-- [虚拟现实与二元论](formal_theory_virtual_reality.md) 
+- [虚拟现实与二元论](formal_theory_virtual_reality.md)

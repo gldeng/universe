@@ -3,7 +3,7 @@
 **[中文版](formal_theory_mathematical_modeling_en.md) | English Version**
 
 > 本理论基于[核心理论](../core.md) v30.0版本
-> 
+>
 > 理论维度: D7
 
 ## 理论概述

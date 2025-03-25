@@ -1,9 +1,9 @@
 # 锡克教在量子经典二元论下的解释 (Sikhism Explained Through Quantum-Classical Dualism)
 
-**导航 | Navigation**  
-[中文版](#锡克教概述-sikhism-overview) | [English Version](#锡克教概述-sikhism-overview)  
-**章节链接 | Section Links**  
-中文：[锡克教概述](#锡克教概述-sikhism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [瓦赫古鲁与量子域](#1-瓦赫古鲁waheguru与量子域-waheguru-and-quantum-domain) | [一神信仰与统一性](#2-一神信仰与宇宙统一性-monotheism-and-cosmic-unity)  
+**导航 | Navigation**
+[中文版](#锡克教概述-sikhism-overview) | [English Version](#锡克教概述-sikhism-overview)
+**章节链接 | Section Links**
+中文：[锡克教概述](#锡克教概述-sikhism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [瓦赫古鲁与量子域](#1-瓦赫古鲁waheguru与量子域-waheguru-and-quantum-domain) | [一神信仰与统一性](#2-一神信仰与宇宙统一性-monotheism-and-cosmic-unity)
 English: [Sikhism Overview](#锡克教概述-sikhism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Waheguru & Quantum Domain](#1-瓦赫古鲁waheguru与量子域-waheguru-and-quantum-domain) | [Monotheism & Unity](#2-一神信仰与宇宙统一性-monotheism-and-cosmic-unity)
 
 ## 锡克教概述 (Sikhism Overview)
@@ -138,4 +138,4 @@ $$
 
 锡克教的核心思想与量子经典二元论框架展现出惊人的契合性。从瓦赫古鲁到玛雅，从分离到古鲁，从Nam冥想到五恶，从三大支柱到解脱，从服务精神到平等，都能在量子经典二元论中找到系统化、数学化的解释。这种对应不仅证明了锡克教思想的深刻洞见，也展示了量子经典二元论作为统一理论框架的广阔兼容性。特别值得注意的是，锡克教作为一个相对年轻的宗教传统，成功地融合了不同信仰传统的精华，其在社会平等和精神修持方面的平衡观点，在量子经典二元论框架下展现出特殊的理论价值。
 
-The core ideas of Sikhism demonstrate remarkable compatibility with the Quantum-Classical Dualism framework. From Waheguru to Maya, from Haumai to Guru, from Nam meditation to the Five Evils, from the Three Pillars to Mukti, from Seva to equality, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This correspondence not only proves the profound insights of Sikh thought but also demonstrates the broad compatibility of Quantum-Classical Dualism as a unified theoretical framework. Particularly noteworthy is that Sikhism, as a relatively young religious tradition, successfully integrates the essence of different faith traditions, with its balanced views on social equality and spiritual cultivation showing special theoretical value under the Quantum-Classical Dualism framework. 
+The core ideas of Sikhism demonstrate remarkable compatibility with the Quantum-Classical Dualism framework. From Waheguru to Maya, from Haumai to Guru, from Nam meditation to the Five Evils, from the Three Pillars to Mukti, from Seva to equality, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This correspondence not only proves the profound insights of Sikh thought but also demonstrates the broad compatibility of Quantum-Classical Dualism as a unified theoretical framework. Particularly noteworthy is that Sikhism, as a relatively young religious tradition, successfully integrates the essence of different faith traditions, with its balanced views on social equality and spiritual cultivation showing special theoretical value under the Quantum-Classical Dualism framework.

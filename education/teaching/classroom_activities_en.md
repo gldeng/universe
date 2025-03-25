@@ -62,4 +62,4 @@ This document provides a series of interactive classroom activities designed to 
 - [Core Theory](../../core_en.md)
 - [Quantum Domain Details](../../formal_theory/formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](../../formal_theory/formal_theory_classical_domain_en.md)
-- [Observer Theory](../../formal_theory/formal_theory_observer_en.md) 
+- [Observer Theory](../../formal_theory/formal_theory_observer_en.md)

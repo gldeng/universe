@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1723年6月16日 - 1790年7月17日  
-**国籍 (Nationality)**: 苏格兰 (Scottish)  
-**领域 (Fields)**: 经济学、哲学、道德哲学  
+**生平 (Life Span)**: 1723年6月16日 - 1790年7月17日
+**国籍 (Nationality)**: 苏格兰 (Scottish)
+**领域 (Fields)**: 经济学、哲学、道德哲学
 **代表作品 (Representative Works)**: 《国富论》、《道德情操论》
 
 ## 核心思想 (Core Ideas)
@@ -96,13 +96,13 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "并非由于面包师、酿酒师或屠夫的仁慈，我们才能获得晚餐，而是由于他们对自身利益的关注。"
-> 
+>
 > "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest."
 
 > "每个人在追求自己利益的同时，也会像被一只看不见的手引导一样，促进一个并非他本意要促进的目标。"
-> 
+>
 > "Every individual...neither intends to promote the public interest, nor knows how much he is promoting it...he is in this, as in many other cases, led by an invisible hand to promote an end which was no part of his intention."
 
 > "分工的巨大进步，以及由此在各种不同的手艺和职业中所造成的技能、灵巧和判断力...是文明社会繁荣兴盛的结果。"
-> 
+>
 > "The greatest improvement in the productive powers of labour, and the greater part of the skill, dexterity, and judgment with which it is directed or applied, seem to have been the effects of the division of labour."

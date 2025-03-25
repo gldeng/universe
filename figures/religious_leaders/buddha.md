@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前563年-公元前483年 (c. 563-483 BCE)  
-**国籍 | Nationality**: 古印度迦毗罗卫国（今尼泊尔南部） (Ancient Kapilavastu, now southern Nepal)  
-**主要领域 | Main Fields**: 宗教、哲学、冥想 (Religion, Philosophy, Meditation)  
+**生卒年份 | Lifespan**: 约公元前563年-公元前483年 (c. 563-483 BCE)
+**国籍 | Nationality**: 古印度迦毗罗卫国（今尼泊尔南部） (Ancient Kapilavastu, now southern Nepal)
+**主要领域 | Main Fields**: 宗教、哲学、冥想 (Religion, Philosophy, Meditation)
 **代表作品 | Representative Works**: 《四谛》、《八正道》、《三藏》（经由弟子口述记录） (Four Noble Truths, Eightfold Path, Tripitaka - recorded through disciples)
 
 ## 核心思想 | Core Ideas
@@ -213,4 +213,4 @@ Overly rigid classicalization (ascetic extreme) would hinder the integration of 
 - "For countless births I have wandered looking for the builder of this house but could not find him. Painful is birth again and again. Now I have seen you, housebuilder, you shall not build this house again."
 - "Just as the great ocean has only one taste, the taste of salt, so my teaching has only one taste, the taste of liberation."
 - "Be a light unto yourself, be your own refuge."
-- "Hatred does not cease by hatred, but only by love; this is the eternal rule." 
+- "Hatred does not cease by hatred, but only by love; this is the eternal rule."

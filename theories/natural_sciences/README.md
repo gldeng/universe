@@ -79,4 +79,4 @@ This directory contains explanations and applications of Quantum-Classical Duali
 6. **Pharmacy Explanations** - Quantum-Classical Dualism explanations of drug action mechanisms and pharmacology
 7. **Physics Explanations** - Unified perspective of physical laws, particle behavior and Quantum-Classical Dualism
 
-Each file attempts to combine core concepts of specific disciplines with the basic principles of Quantum-Classical Dualism, demonstrating the cross-disciplinary explanatory power of this theoretical framework. 
+Each file attempts to combine core concepts of specific disciplines with the basic principles of Quantum-Classical Dualism, demonstrating the cross-disciplinary explanatory power of this theoretical framework.

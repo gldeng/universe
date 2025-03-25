@@ -99,9 +99,9 @@ Andy Warhol fundamentally changed the landscape of modern art, becoming an iconi
 
 ## 经典引言 | Classic Quotes
 > "在未来，每个人都能成名15分钟。"
-> 
+>
 > "In the future, everyone will be world-famous for 15 minutes."
 
 > "生意艺术是继艺术之后的更高层次艺术。我开始作为商业艺术家，现在我想成为生意艺术家。"
-> 
-> "Business art is the step that comes after Art. I started as a commercial artist, and I want to finish as a business artist." 
+>
+> "Business art is the step that comes after Art. I started as a commercial artist, and I want to finish as a business artist."

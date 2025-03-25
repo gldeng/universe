@@ -159,4 +159,4 @@ This is not a mystical "law of attraction" or empty positive thinking. It is a p
 
 As you begin to understand and apply these principles, you'll find yourself able to navigate and shape your life experience more consciously and effectively. You are no longer a victim of fate but a creator of your own reality.
 
-Remember: The universe you are observing is also observing itself through you. In this profound dance of mutual creation lies the power to change everything. 
+Remember: The universe you are observing is also observing itself through you. In this profound dance of mutual creation lies the power to change everything.

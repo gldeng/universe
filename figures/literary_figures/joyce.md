@@ -35,23 +35,33 @@
 
 1. **意识流的量子叠加态**：《尤利西斯》中的意识流描写：
 
-$$|\psi\rangle_{\text{意识}} = \sum_i c_i |\text{思维}_i\rangle \otimes |\text{感知}_i\rangle \otimes |\text{记忆}_i\rangle$$
+$$
+|\psi\rangle_{\text{意识}} = \sum_i c_i |\text{思维}_i\rangle \otimes |\text{感知}_i\rangle \otimes |\text{记忆}_i\rangle
+$$
 
 2. **语言的量子纠缠**：《芬尼根的守灵夜》中的语言创新：
 
-$$|\Psi_{\text{语言}}\rangle = \sum_{i,j} c_{ij} |\text{词义}_i\rangle |\text{音韵}_j\rangle$$
+$$
+|\Psi_{\text{语言}}\rangle = \sum_{i,j} c_{ij} |\text{词义}_i\rangle |\text{音韵}_j\rangle
+$$
 
 3. **时空的量子重叠**：《尤利西斯》中的时空处理：
 
-$$|\phi\rangle_{\text{时空}} = \alpha |\text{现在}\rangle + \beta |\text{过去}\rangle + \gamma |\text{神话}\rangle$$
+$$
+|\phi\rangle_{\text{时空}} = \alpha |\text{现在}\rangle + \beta |\text{过去}\rangle + \gamma |\text{神话}\rangle
+$$
 
 4. **身份的量子态**：斯蒂芬·迪达勒斯的自我探索：
 
-$$|\psi\rangle_{\text{身份}} = \sum_t c_t |\text{艺术家}_t\rangle \otimes |\text{流浪者}_t\rangle$$
+$$
+|\psi\rangle_{\text{身份}} = \sum_t c_t |\text{艺术家}_t\rangle \otimes |\text{流浪者}_t\rangle
+$$
 
 5. **都柏林的量子观察**：《都柏林人》中的城市描写：
 
-$$|\Psi_{\text{都柏林}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{地点}_i\rangle |\text{人物}_i\rangle |\text{情感}_i\rangle$$
+$$
+|\Psi_{\text{都柏林}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{地点}_i\rangle |\text{人物}_i\rangle |\text{情感}_i\rangle
+$$
 
 ### 现代意义
 
@@ -87,25 +97,35 @@ From the perspective of Quantum-Classical Dualism (version 31.0), Joyce's creati
 
 1. **Stream of Consciousness and Quantum Superposition**: Joyce's stream of consciousness technique can be viewed as a literary representation of the quantum nature of human thought, reflecting the superposition state of thinking before classicalization:
 
-$$|\psi\rangle_{\text{Consciousness}} = \sum_i c_i |\text{Thought Fragment}_i\rangle, \quad \sum_i |c_i|^2 = 1$$
+$$
+|\psi\rangle_{\text{Consciousness}} = \sum_i c_i |\text{Thought Fragment}_i\rangle, \quad \sum_i |c_i|^2 = 1
+$$
 
 2. **Multi-layered Structure of "Ulysses"**: The work constructs a textual universe similar to quantum-classical multiple nesting:
 
-$$\mathcal{U}_{\text{Text}} = \Omega_Q^{\text{Internal Consciousness}} \cup \Omega_C^{\text{External Reality}} \cup \mathcal{I}^{\text{Memory/Sensory Interface}}$$
+$$
+\mathcal{U}_{\text{Text}} = \Omega_Q^{\text{Internal Consciousness}} \cup \Omega_C^{\text{External Reality}} \cup \mathcal{I}^{\text{Memory/Sensory Interface}}
+$$
 
 3. **Linguistic Experiments and Quantum Uncertainty**: Especially in "Finnegans Wake," Joyce's language exhibits the ambiguity and uncertainty of quantum states:
 
-$$\Delta \text{Meaning} \cdot \Delta \text{Certainty} \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
+$$
+\Delta \text{Meaning} \cdot \Delta \text{Certainty} \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|
+$$
 
 Where words simultaneously exist in superpositions of multiple possible interpretations until the reader's observation leads to the "classicalization" of specific meanings.
 
 4. **Dimensional Transformation and Observer Roles**: Characters in Joyce's works (such as Stephen, Bloom, Molly) can be understood as observers of different dimensions:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}+\epsilon}$$
+$$
+D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}+\epsilon}
+$$
 
 5. **Circular Structure and Quantum-Classical Cycles**: The interconnected structure of "Finnegans Wake" from beginning to end embodies the infinite process of quantum-classical cyclic transformation:
 
-$$|\psi\rangle_{\text{Quantum State}} \rightarrow \text{Classical State} \rightarrow |\psi'\rangle_{\text{New Quantum State}} \rightarrow ...$$
+$$
+|\psi\rangle_{\text{Quantum State}} \rightarrow \text{Classical State} \rightarrow |\psi'\rangle_{\text{New Quantum State}} \rightarrow ...
+$$
 
 ### Modern Significance
 

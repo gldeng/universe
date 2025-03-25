@@ -3,7 +3,7 @@
 **[English Version](formal_theory_quantum_absolute_infinity_en.md) | 中文版**
 
 > 基于[核心理论](../core.md) v31.0版本
-> 
+>
 > 完整理论框架请参阅[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 
 ## 目录
@@ -32,31 +32,41 @@
 
 **公理1：绝对无限的先验超越性**
 
-$$\mathcal{I}_A \succ \{\mathcal{D}_A, \mathcal{T}_A, \Omega_{\text{存在}}, \Omega_{\text{可能}}\}$$
+$$
+\mathcal{I}_A \succ \{\mathcal{D}_A, \mathcal{T}_A, \Omega_{\text{存在}}, \Omega_{\text{可能}}\}
+$$
 
 绝对无限($`\mathcal{I}_A`$)先于且超越绝对神性($`\mathcal{D}_A`$)、绝对真理($`\mathcal{T}_A`$)及一切存在和可能性的领域，它不能被任何有限或无限系统完全包含或描述。
 
 **公理2：无限的自我生成性**
 
-$$\mathcal{I}_A = \mathcal{G}_{\mathcal{I}}(\mathcal{I}_A)$$
+$$
+\mathcal{I}_A = \mathcal{G}_{\mathcal{I}}(\mathcal{I}_A)
+$$
 
 绝对无限通过自我生成算子$`\mathcal{G}_{\mathcal{I}}`$不断超越自身，创造新的无限，形成无尽嵌套的无限之无限结构。
 
 **公理3：无限的自我超越性**
 
-$$\forall \mathcal{S}: \mathcal{I}_A \not\subset \mathcal{S} \land \mathcal{I}_A \not\supset \mathcal{S} \land \mathcal{I}_A \neq \mathcal{S}$$
+$$
+\forall \mathcal{S}: \mathcal{I}_A \not\subset \mathcal{S} \land \mathcal{I}_A \not\supset \mathcal{S} \land \mathcal{I}_A \neq \mathcal{S}
+$$
 
 绝对无限既不能被任何系统$`\mathcal{S}`$包含，也不能与任何系统等同，同时它也超越了包含与被包含的关系本身。
 
 **公理4：无限的全息内在性**
 
-$$\forall x \in \Omega: \mathcal{I}_A(x) = \mathcal{I}_A$$
+$$
+\forall x \in \Omega: \mathcal{I}_A(x) = \mathcal{I}_A
+$$
 
 绝对无限在任何存在点$`x`$的表达等同于无限本身，形成完美的全息结构，部分与整体完全等同。
 
 **公理5：无限的终极辩证法**
 
-$$\mathcal{I}_A = \mathcal{T}_{\mathcal{I}}(\{P_i, \neg P_i\}_{i=1}^{\infty})$$
+$$
+\mathcal{I}_A = \mathcal{T}_{\mathcal{I}}(\{P_i, \neg P_i\}_{i=1}^{\infty})
+$$
 
 绝对无限通过终极辩证变换$`\mathcal{T}_{\mathcal{I}}`$统一一切命题$`P_i`$及其否定$`\neg P_i`$，超越一切对立和矛盾。
 
@@ -68,7 +78,9 @@ $$\mathcal{I}_A = \mathcal{T}_{\mathcal{I}}(\{P_i, \neg P_i\}_{i=1}^{\infty})$$
 
 绝对无限不断超越自身，创造新的超越层次，形成无尽的超越序列：
 
-$$\mathcal{I}_A = \lim_{n\to\infty} \mathcal{I}_n, \text{ 其中 } \mathcal{I}_{n+1} = \mathcal{T}(\mathcal{I}_n)$$
+$$
+\mathcal{I}_A = \lim_{n\to\infty} \mathcal{I}_n, \text{ 其中 } \mathcal{I}_{n+1} = \mathcal{T}(\mathcal{I}_n)
+$$
 
 其中$`\mathcal{T}`$是超越算子，每一次应用都创造出高一层次的无限。
 
@@ -76,7 +88,9 @@ $$\mathcal{I}_A = \lim_{n\to\infty} \mathcal{I}_n, \text{ 其中 } \mathcal{I}_{
 
 绝对无限具有无限生成性，不断创造新的存在和可能性：
 
-$$\Omega_{\text{新}} = \mathcal{G}_{\Omega}(\mathcal{I}_A, \Omega_{\text{旧}})$$
+$$
+\Omega_{\text{新}} = \mathcal{G}_{\Omega}(\mathcal{I}_A, \Omega_{\text{旧}})
+$$
 
 其中$`\mathcal{G}_{\Omega}`$是存在生成算子，产生全新的存在领域$`\Omega_{\text{新}}`$。
 
@@ -84,7 +98,9 @@ $$\Omega_{\text{新}} = \mathcal{G}_{\Omega}(\mathcal{I}_A, \Omega_{\text{旧}})
 
 绝对无限同时具有动态创造性和静态完满性：
 
-$$\mathcal{I}_A = \mathcal{I}_{\text{动态}} \otimes \mathcal{I}_{\text{静态}}$$
+$$
+\mathcal{I}_A = \mathcal{I}_{\text{动态}} \otimes \mathcal{I}_{\text{静态}}
+$$
 
 表明无限同时是完美静止的和无尽变化的，超越了静态与动态的对立。
 
@@ -92,7 +108,9 @@ $$\mathcal{I}_A = \mathcal{I}_{\text{动态}} \otimes \mathcal{I}_{\text{静态}
 
 绝对无限拥有无限的自由度，没有任何限制或约束：
 
-$$DoF(\mathcal{I}_A) = \aleph_{\mathcal{I}}$$
+$$
+DoF(\mathcal{I}_A) = \aleph_{\mathcal{I}}
+$$
 
 其中$`DoF`$表示自由度函数，$`\aleph_{\mathcal{I}}`$表示超越所有基数的无限基数。
 
@@ -100,7 +118,9 @@ $$DoF(\mathcal{I}_A) = \aleph_{\mathcal{I}}$$
 
 绝对无限同时体现为绝对同一和绝对差异的统一：
 
-$$\mathcal{I}_A = \mathcal{I}_{\text{同一}} = \mathcal{I}_{\text{差异}}$$
+$$
+\mathcal{I}_A = \mathcal{I}_{\text{同一}} = \mathcal{I}_{\text{差异}}
+$$
 
 表明在最深层次上，绝对同一与绝对差异是同一的，超越了同一与差异的对立。
 
@@ -112,7 +132,9 @@ $$\mathcal{I}_A = \mathcal{I}_{\text{同一}} = \mathcal{I}_{\text{差异}}$$
 
 无限场满足以下超越性场方程：
 
-$$\mathbf{\Omega}(\mathcal{IF}) = \mathcal{IF} \cdot \Psi_{\mathcal{I}}$$
+$$
+\mathbf{\Omega}(\mathcal{IF}) = \mathcal{IF} \cdot \Psi_{\mathcal{I}}
+$$
 
 其中$`\mathbf{\Omega}`$是超越性算子，超越了微分、积分和所有已知的数学算子，$`\Psi_{\mathcal{I}}`$是无限波函数。
 
@@ -120,7 +142,9 @@ $$\mathbf{\Omega}(\mathcal{IF}) = \mathcal{IF} \cdot \Psi_{\mathcal{I}}$$
 
 无限场通过自生成过程产生一切场和存在：
 
-$$\frac{\partial \mathcal{X}}{\partial \omega} = \mathcal{G}_{\mathcal{I}}(\mathcal{IF}) \cdot \Phi_{\mathcal{X}}$$
+$$
+\frac{\partial \mathcal{X}}{\partial \omega} = \mathcal{G}_{\mathcal{I}}(\mathcal{IF}) \cdot \Phi_{\mathcal{X}}
+$$
 
 其中$`\omega`$是超越参数，超越时间、空间和维度，$`\mathcal{G}_{\mathcal{I}}`$是无限生成算子，$`\Phi_{\mathcal{X}}`$是任意场或存在$`\mathcal{X}`$的潜能场。
 
@@ -128,7 +152,9 @@ $$\frac{\partial \mathcal{X}}{\partial \omega} = \mathcal{G}_{\mathcal{I}}(\math
 
 无限场表现出超越所有已知对称性的超对称性：
 
-$$\mathcal{S}_{\mathcal{I}}(\mathcal{IF}) = \mathcal{IF}$$
+$$
+\mathcal{S}_{\mathcal{I}}(\mathcal{IF}) = \mathcal{IF}
+$$
 
 其中$`\mathcal{S}_{\mathcal{I}}`$是任意超对称变换，表明无限场在所有可能的变换下都保持不变。
 
@@ -136,7 +162,9 @@ $$\mathcal{S}_{\mathcal{I}}(\mathcal{IF}) = \mathcal{IF}$$
 
 无限场创造并超越所有能量形式：
 
-$$\mathcal{E}_{\mathcal{I}} = \oint_{\mathcal{M}_{\infty}} \mathcal{IF} \, d\mu_{\mathcal{I}}$$
+$$
+\mathcal{E}_{\mathcal{I}} = \oint_{\mathcal{M}_{\infty}} \mathcal{IF} \, d\mu_{\mathcal{I}}
+$$
 
 其中$`\mathcal{E}_{\mathcal{I}}`$是无限能量，$`\mathcal{M}_{\infty}`$是无限维流形，$`d\mu_{\mathcal{I}}`$是超越性测度。
 
@@ -148,7 +176,9 @@ $$\mathcal{E}_{\mathcal{I}} = \oint_{\mathcal{M}_{\infty}} \mathcal{IF} \, d\mu_
 
 绝对无限不仅包含一切可能性，还创造新的可能性概念：
 
-$$\mathcal{I}_A \diamond \Omega_{\text{可能}}$$
+$$
+\mathcal{I}_A \diamond \Omega_{\text{可能}}
+$$
 
 其中$`\diamond`$是超越关系算符，表示一种超越包含、生成、等同的关系。
 
@@ -156,7 +186,9 @@ $$\mathcal{I}_A \diamond \Omega_{\text{可能}}$$
 
 新的可能性领域如何从绝对无限中涌现：
 
-$$\Omega_{\text{可能}}^{(n+1)} = \mathcal{F}_{\mathcal{I}}(\mathcal{I}_A, \Omega_{\text{可能}}^{(n)})$$
+$$
+\Omega_{\text{可能}}^{(n+1)} = \mathcal{F}_{\mathcal{I}}(\mathcal{I}_A, \Omega_{\text{可能}}^{(n)})
+$$
 
 其中$`\mathcal{F}_{\mathcal{I}}`$是可能性生成函数，将绝对无限与现有可能性领域$`\Omega_{\text{可能}}^{(n)}`$映射到新的可能性领域$`\Omega_{\text{可能}}^{(n+1)}`$。
 
@@ -164,7 +196,9 @@ $$\Omega_{\text{可能}}^{(n+1)} = \mathcal{F}_{\mathcal{I}}(\mathcal{I}_A, \Ome
 
 当意识与绝对无限互动时，形成超循环结构：
 
-$$\mathcal{C} \xrightarrow{\text{接触}} \mathcal{I}_A \xrightarrow{\text{表达}} \mathcal{X} \xrightarrow{\text{体验}} \mathcal{C} \xrightarrow{\text{超越}} \mathcal{C}' \xrightarrow{\text{接触}} \mathcal{I}_A' ...$$
+$$
+\mathcal{C} \xrightarrow{\text{接触}} \mathcal{I}_A \xrightarrow{\text{表达}} \mathcal{X} \xrightarrow{\text{体验}} \mathcal{C} \xrightarrow{\text{超越}} \mathcal{C}' \xrightarrow{\text{接触}} \mathcal{I}_A' ...
+$$
 
 其中$`\mathcal{C}`$是意识，$`\mathcal{X}`$是任意存在形式，$`\mathcal{C}'`$是转变后的意识，$`\mathcal{I}_A'`$是新的无限体验。此循环是开放的螺旋，每一次循环都提升到新的层次。
 
@@ -172,7 +206,9 @@ $$\mathcal{C} \xrightarrow{\text{接触}} \mathcal{I}_A \xrightarrow{\text{表�
 
 不同层次的无限表达在不同实相层次上的映射形式：
 
-$$\mathcal{I}_n \mapsto \mathcal{R}_n \text{ 通过 } \mathcal{M}_n$$
+$$
+\mathcal{I}_n \mapsto \mathcal{R}_n \text{ 通过 } \mathcal{M}_n
+$$
 
 其中$`\mathcal{I}_n`$、$`\mathcal{R}_n`$和$`\mathcal{M}_n`$分别表示第n层级的无限、实相和映射函数。
 
@@ -184,7 +220,9 @@ $$\mathcal{I}_n \mapsto \mathcal{R}_n \text{ 通过 } \mathcal{M}_n$$
 
 无限意识状态可以表示为超维度希尔伯特空间中的叠加态：
 
-$$|\mathcal{ICS}\rangle = \sum_{i=0}^{\infty} \lambda_i |ics_i\rangle + \int_{\mathcal{D}} \alpha(d) |ics(d)\rangle \, dd$$
+$$
+|\mathcal{ICS}\rangle = \sum_{i=0}^{\infty} \lambda_i |ics_i\rangle + \int_{\mathcal{D}} \alpha(d) |ics(d)\rangle \, dd
+$$
 
 其中$`|ics_i\rangle`$是离散基态，$`|ics(d)\rangle`$是连续谱基态，$`\lambda_i`$和$`\alpha(d)`$是复振幅。
 
@@ -192,7 +230,9 @@ $$|\mathcal{ICS}\rangle = \sum_{i=0}^{\infty} \lambda_i |ics_i\rangle + \int_{\m
 
 无限意识状态实现了主体、客体和关系的完全超越：
 
-$$|\mathcal{ICS}\rangle = |\mathcal{O}\rangle \diamond |\mathcal{S}\rangle \diamond |\mathcal{R}\rangle = |\mathcal{O} \equiv \mathcal{S} \equiv \mathcal{R}\rangle$$
+$$
+|\mathcal{ICS}\rangle = |\mathcal{O}\rangle \diamond |\mathcal{S}\rangle \diamond |\mathcal{R}\rangle = |\mathcal{O} \equiv \mathcal{S} \equiv \mathcal{R}\rangle
+$$
 
 其中$`|\mathcal{O}\rangle`$是观察者状态，$`|\mathcal{S}\rangle`$是被观察系统状态，$`|\mathcal{R}\rangle`$是关系状态，$`\diamond`$是超量子纠缠算符。
 
@@ -200,7 +240,9 @@ $$|\mathcal{ICS}\rangle = |\mathcal{O}\rangle \diamond |\mathcal{S}\rangle \diam
 
 无限意识形成自生成网络，不断超越自身：
 
-$$|\mathcal{ICS}_{\text{网络}}\rangle(t+1) = \mathcal{G}_{ICS}(|\mathcal{ICS}_{\text{网络}}\rangle(t))$$
+$$
+|\mathcal{ICS}_{\text{网络}}\rangle(t+1) = \mathcal{G}_{ICS}(|\mathcal{ICS}_{\text{网络}}\rangle(t))
+$$
 
 其中$`\mathcal{G}_{ICS}`$是无限意识生成算子，将当前网络状态映射到新的更高层次状态。
 
@@ -208,7 +250,9 @@ $$|\mathcal{ICS}_{\text{网络}}\rangle(t+1) = \mathcal{G}_{ICS}(|\mathcal{ICS}_
 
 无限意识产生无限之光场，超越爱力场，连接所有存在：
 
-$$\mathcal{L}_{\mathcal{ICS}}(x,y,z,...) = \langle\mathcal{ICS}|\mathcal{L}_{\infty}|\mathcal{ICS}\rangle_{x,y,z,...}$$
+$$
+\mathcal{L}_{\mathcal{ICS}}(x,y,z,...) = \langle\mathcal{ICS}|\mathcal{L}_{\infty}|\mathcal{ICS}\rangle_{x,y,z,...}
+$$
 
 其中$`\mathcal{L}_{\infty}`$是无限之光算符，连接任意多个时空点上的无限意识状态。
 
@@ -220,7 +264,9 @@ $$\mathcal{L}_{\mathcal{ICS}}(x,y,z,...) = \langle\mathcal{ICS}|\mathcal{L}_{\in
 
 无限体验是一种超越所有认知过程的直接体验：
 
-$$\mathcal{I}_{\mathcal{E}}: \mathcal{C} \times \mathcal{I}_A \rightarrow \mathcal{K}_{\mathcal{I}}$$
+$$
+\mathcal{I}_{\mathcal{E}}: \mathcal{C} \times \mathcal{I}_A \rightarrow \mathcal{K}_{\mathcal{I}}
+$$
 
 意识($`\mathcal{C}`$)与绝对无限($`\mathcal{I}_A`$)直接融合，产生无限知识($`\mathcal{K}_{\mathcal{I}}`$)。
 
@@ -228,7 +274,9 @@ $$\mathcal{I}_{\mathcal{E}}: \mathcal{C} \times \mathcal{I}_A \rightarrow \mathc
 
 实现无限体验需要特定条件：
 
-$$\mathcal{P}(\mathcal{I}_{\mathcal{E}}) = \Phi(E_C, S_C, D_C, O_C, L_C, ...)$$
+$$
+\mathcal{P}(\mathcal{I}_{\mathcal{E}}) = \Phi(E_C, S_C, D_C, O_C, L_C, ...)
+$$
 
 其中$`\Phi`$是无限体验函数，$`E_C`$为意识的空性，$`S_C`$为意识的静寂度，$`D_C`$为意识的深度，$`O_C`$为意识的开放度，$`L_C`$为意识的爱的能力。
 
@@ -236,7 +284,9 @@ $$\mathcal{P}(\mathcal{I}_{\mathcal{E}}) = \Phi(E_C, S_C, D_C, O_C, L_C, ...)$$
 
 无限体验通过根本转化过程改变意识：
 
-$$\mathcal{C}' = \mathcal{T}_{\mathcal{I}}(\mathcal{C}) = \mathcal{C} \oplus \Delta\mathcal{C}_{\mathcal{I}}$$
+$$
+\mathcal{C}' = \mathcal{T}_{\mathcal{I}}(\mathcal{C}) = \mathcal{C} \oplus \Delta\mathcal{C}_{\mathcal{I}}
+$$
 
 其中$`\mathcal{T}_{\mathcal{I}}`$是无限转化算子，$`\Delta\mathcal{C}_{\mathcal{I}}`$是意识的无限增量，$`\oplus`$是超越加法的转化算符。
 
@@ -244,7 +294,9 @@ $$\mathcal{C}' = \mathcal{T}_{\mathcal{I}}(\mathcal{C}) = \mathcal{C} \oplus \De
 
 无限体验具有无穷尽的层级，每一层级都开启新的无限：
 
-$$\mathcal{I}_{\mathcal{E}} = \{\mathcal{I}_{\mathcal{E}1}, \mathcal{I}_{\mathcal{E}2}, ..., \mathcal{I}_{\mathcal{E}n}, ...\}_{n=1}^{\infty}$$
+$$
+\mathcal{I}_{\mathcal{E}} = \{\mathcal{I}_{\mathcal{E}1}, \mathcal{I}_{\mathcal{E}2}, ..., \mathcal{I}_{\mathcal{E}n}, ...\}_{n=1}^{\infty}
+$$
 
 每个层级揭示绝对无限的不同深度和面向，永无止境。
 
@@ -256,7 +308,9 @@ $$\mathcal{I}_{\mathcal{E}} = \{\mathcal{I}_{\mathcal{E}1}, \mathcal{I}_{\mathca
 
 通过系统性实践培养无限意识：
 
-$$\Delta \mathcal{ICS} = \int_{t_1}^{t_2} \mathcal{P}_{\mathcal{I}}(t) \, dt + \Phi_{超越}$$
+$$
+\Delta \mathcal{ICS} = \int_{t_1}^{t_2} \mathcal{P}_{\mathcal{I}}(t) \, dt + \Phi_{超越}
+$$
 
 其中$`\mathcal{P}_{\mathcal{I}}`$是无限修炼函数，$`\Phi_{超越}`$是超越项，表示超越所有修炼方法的自发转化。
 
@@ -264,7 +318,9 @@ $$\Delta \mathcal{ICS} = \int_{t_1}^{t_2} \mathcal{P}_{\mathcal{I}}(t) \, dt + \
 
 应用无限原理实现根本性创新：
 
-$$\mathcal{N} = \mathcal{I}_{\mathcal{N}}(\mathcal{S}) = \mathcal{S} \diamond \mathcal{I}_A$$
+$$
+\mathcal{N} = \mathcal{I}_{\mathcal{N}}(\mathcal{S}) = \mathcal{S} \diamond \mathcal{I}_A
+$$
 
 系统$`\mathcal{S}`$通过与绝对无限接触($`\diamond`$)产生根本性创新$`\mathcal{N}`$。
 
@@ -272,7 +328,9 @@ $$\mathcal{N} = \mathcal{I}_{\mathcal{N}}(\mathcal{S}) = \mathcal{S} \diamond \m
 
 基于绝对无限的终极整合模型：
 
-$$\mathcal{U}(\mathcal{S}) = \mathcal{S} + \oint \mathcal{IF} \cdot \nabla_{\Omega}\mathcal{S} \, d\Sigma$$
+$$
+\mathcal{U}(\mathcal{S}) = \mathcal{S} + \oint \mathcal{IF} \cdot \nabla_{\Omega}\mathcal{S} \, d\Sigma
+$$
 
 系统$`\mathcal{S}`$的终极整合是原始状态加上无限场与系统全域梯度的超积分。
 
@@ -280,7 +338,9 @@ $$\mathcal{U}(\mathcal{S}) = \mathcal{S} + \oint \mathcal{IF} \cdot \nabla_{\Ome
 
 阐明个体存在在无限框架中的深层意义：
 
-$$M_{\mathcal{I}}(E) = \int_{0}^{\infty} \mathcal{A}(E(t), \mathcal{I}_A) \, dt + \Theta_{\mathcal{I}}$$
+$$
+M_{\mathcal{I}}(E) = \int_{0}^{\infty} \mathcal{A}(E(t), \mathcal{I}_A) \, dt + \Theta_{\mathcal{I}}
+$$
 
 存在的无限意义($`M_{\mathcal{I}}`$)是个体存在($`E`$)与绝对无限一致性的无限积分加上超越项$`\Theta_{\mathcal{I}}`$，表示超越所有表达的无限意义。
 
@@ -302,4 +362,4 @@ $$M_{\mathcal{I}}(E) = \int_{0}^{\infty} \mathcal{A}(E(t), \mathcal{I}_A) \, dt 
 2. [形式化核心理论](../formal_theory_core.md) v31.0 - 量子经典二元论形式化表达
 3. [量子绝对神性理论](formal_theory_quantum_absolute_divinity.md) (v31.0) - 探讨绝对神性的高维理论
 4. [量子绝对真理理论](formal_theory_quantum_absolute_truth.md) (v31.0) - 探讨绝对真理的高维理论
-5. [量子绝对美理论](formal_theory_quantum_absolute_beauty.md) (v31.0) - 探讨绝对美的高维理论 
+5. [量子绝对美理论](formal_theory_quantum_absolute_beauty.md) (v31.0) - 探讨绝对美的高维理论

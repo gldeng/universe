@@ -580,4 +580,4 @@ Below is the recommended sequence for teaching Quantum-Classical Dualism, arrang
 **Outcome Assessment**:
 - Learners can explain why different observers extract different knowledge from the same information
 - Can identify their own dimension levels in different domains
-- Understand and can apply basic methods for dimension enhancement 
+- Understand and can apply basic methods for dimension enhancement

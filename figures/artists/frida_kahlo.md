@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1907年7月6日 - 1954年7月13日  
-**国籍 (Nationality)**: 墨西哥 (Mexican)  
-**领域 (Fields)**: 绘画、自画像、超现实主义、墨西哥民俗艺术  
+**生平 (Life Span)**: 1907年7月6日 - 1954年7月13日
+**国籍 (Nationality)**: 墨西哥 (Mexican)
+**领域 (Fields)**: 绘画、自画像、超现实主义、墨西哥民俗艺术
 **代表作品 (Representative Works)**: 《断柱》、《两个弗里达》、《受伤的鹿》、《亨利·福特医院》、《带着荆棘项链和蜂鸟的自画像》
 
 ## 核心思想 (Core Ideas)
@@ -102,21 +102,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我从不画梦或噩梦。我画我自己的现实。"
-> 
+>
 > "I never paint dreams or nightmares. I painted my own reality."
 
 > "我以为我在画真相，结果我只是在画我的痛苦。"
-> 
+>
 > "I thought I was painting the truth, but I was only painting my pain."
 
 > "他们以为我是个超现实主义者，但我不是。我从未画过梦。我画的是我自己的现实。"
-> 
+>
 > "They thought I was a Surrealist, but I wasn't. I never painted dreams. I painted my own reality."
 
 > "痛苦、快乐和死亡，它们只不过环绕着我，与我同在。它们让我成为了一个完整的人。"
-> 
+>
 > "Pain, pleasure and death are nothing but a process for existence. The revolutionary struggle in this process is a doorway open to intelligence."
 
 > "我希望我的离去欣喜而不是悲伤。不要为我哭泣。永远不要为我哭泣。我不会离开你们。不要悲伤。"
-> 
-> "I hope the exit is joyful and I hope never to return. I want to be cremated. I don't want to be buried and I don't want to be in the cold ground, no, not in the cold ground with my land on top." 
+>
+> "I hope the exit is joyful and I hope never to return. I want to be cremated. I don't want to be buried and I don't want to be in the cold ground, no, not in the cold ground with my land on top."

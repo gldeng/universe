@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1856年7月10日 - 1943年1月7日  
-**国籍 (Nationality)**: 塞尔维亚裔美国人 (Serbian-American)  
-**领域 (Fields)**: 电气工程、物理学、发明、无线电技术  
+**生平 (Life Span)**: 1856年7月10日 - 1943年1月7日
+**国籍 (Nationality)**: 塞尔维亚裔美国人 (Serbian-American)
+**领域 (Fields)**: 电气工程、物理学、发明、无线电技术
 **代表作品 (Representative Works)**: 交流电系统、特斯拉线圈、无线电远程控制、无线电力传输实验
 
 ## 核心思想 (Core Ideas)
@@ -102,21 +102,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "如果你想发现宇宙的秘密，就用能量、频率和振动的术语来思考。"
-> 
+>
 > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 
 > "我不关心他们偷了我的想法...我关心的是他们没有自己的想法。"
-> 
+>
 > "I don't care that they stole my idea... I care that they don't have their own ideas."
 
 > "当我们说到人类能量时，我们首先必须理解，我们是电磁系统中的一部分，只有理解了这种交互性，我们才能超越习惯性的生存方式。"
-> 
+>
 > "When we speak of man, we have a conception of humanity as a whole, and before applying scientific methods to the investigation of his movement, we must accept this as a physical fact."
 
 > "我的大脑只是一个接收器，在宇宙中有一个核心，我们从那里获取知识、力量和灵感。我还没有穿透这个核心的秘密，但我知道它存在。"
-> 
+>
 > "My brain is only a receiver, in the Universe there is a core from which we obtain knowledge, strength and inspiration. I have not penetrated into the secrets of this core, but I know that it exists."
 
 > "现在的科学家思考得太多，想象得太少。"
-> 
-> "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality." 
+>
+> "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality."

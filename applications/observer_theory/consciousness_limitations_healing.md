@@ -224,4 +224,4 @@ True health is not just the elimination of symptoms in the classical world but t
 
 Quantum-Classical Dualism provides a new perspective, helping us understand why certain traditional and holistic treatment methods (such as meditation, tai chi, yoga, etc.) show therapeutic effects beyond pure classical medical methods in some cases. This is not superstition but an understanding of the essence of humans as quantum-classical dual existences.
 
-In future medical practice, the integration of quantum domain intervention and classical domain treatment will become a direction of development, providing more comprehensive and effective solutions for human health. 
+In future medical practice, the integration of quantum domain intervention and classical domain treatment will become a direction of development, providing more comprehensive and effective solutions for human health.

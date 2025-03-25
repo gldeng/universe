@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1875年7月26日 - 1961年6月6日  
-**国籍 (Nationality)**: 瑞士 (Swiss)  
-**领域 (Fields)**: 心理学、分析心理学、深度心理学  
+**生平 (Life Span)**: 1875年7月26日 - 1961年6月6日
+**国籍 (Nationality)**: 瑞士 (Swiss)
+**领域 (Fields)**: 心理学、分析心理学、深度心理学
 **代表作品 (Representative Works)**: 《心理学类型》、《红书》、《人及其象征》、《集体无意识原型》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "自知之明是所有心理学的起点。"
-> 
+>
 > "Who looks outside, dreams; who looks inside, awakes."
 
 > "我不是我所见到的，而是我所选择看到的。"
-> 
+>
 > "I am not what happened to me, I am what I choose to become."
 
 > "意识到阴影的存在已经是不小的成就。"
-> 
+>
 > "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed."
 
 > "没有意识到的东西不会消失，它只会变成命运。"
-> 
+>
 > "Until you make the unconscious conscious, it will direct your life and you will call it fate."
 
 > "你所抗拒的，将会持续。"
-> 
-> "What you resist, persists." 
+>
+> "What you resist, persists."

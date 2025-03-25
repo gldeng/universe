@@ -1,9 +1,9 @@
 # 长部 (Digha Nikaya)
 
-**导航 | Navigation**  
-[中文版](#长部解析) | [English Version](#digha-nikaya-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#长部解析) | [English Version](#digha-nikaya-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -76,4 +76,4 @@ $$
 
 长部通过量子经典二元论框架（版本9.2）的解析，展示了佛教教义与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的空性和缘起观，经典域中的观察者训练对应佛教的修行方法。这种对应关系不仅加深了我们对佛教教义的理解，也为现代物理学提供了新的思考维度。
 
-The Digha Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist teachings and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of emptiness and dependent origination, while observer training in the classical domain corresponds to Buddhist cultivation methods. This correspondence not only deepens our understanding of Buddhist teachings but also provides new dimensions for modern physics to explore. 
+The Digha Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist teachings and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of emptiness and dependent origination, while observer training in the classical domain corresponds to Buddhist cultivation methods. This correspondence not only deepens our understanding of Buddhist teachings but also provides new dimensions for modern physics to explore.

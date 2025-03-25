@@ -229,4 +229,4 @@ Important supplements to astrology from Quantum-Classical Dualism:
 
 1. Introduction of observer dimension concept, explaining individual differences in astrological sensitivity
 2. Introduction of wormhole communication mechanism, explaining the physical pathway of planetary "influence"
-3. Introduction of classicalization efficiency, explaining the effect of astrological practice on personal growth 
+3. Introduction of classicalization efficiency, explaining the effect of astrological practice on personal growth

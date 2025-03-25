@@ -166,4 +166,4 @@ The cross-cultural universality and diversity of music can be explained through 
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Musical phenomena are a special application area of Higher-Dimensional Information Classicalization, demonstrating how humans classicalize and experience higher-dimensional quantum information that is usually difficult to perceive directly through sound wave patterns. Music may be one of the earliest higher-dimensional information classicalization technologies developed by humans. 
+Musical phenomena are a special application area of Higher-Dimensional Information Classicalization, demonstrating how humans classicalize and experience higher-dimensional quantum information that is usually difficult to perceive directly through sound wave patterns. Music may be one of the earliest higher-dimensional information classicalization technologies developed by humans.

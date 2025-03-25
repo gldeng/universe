@@ -14,13 +14,17 @@
 
 量子实体的形成始于量子信息的自组织凝聚过程，可通过以下方程描述：
 
-$$\mathcal{E} = \int_{\Omega_Q} \Psi^*(\vec{q})\hat{\mathcal{C}}_E\Psi(\vec{q})d\vec{q}$$
+$$
+\mathcal{E} = \int_{\Omega_Q} \Psi^*(\vec{q})\hat{\mathcal{C}}_E\Psi(\vec{q})d\vec{q}
+$$
 
 其中$`\mathcal{E}`$是涌现实体，$`\Psi(\vec{q})`$是量子态函数，$`\hat{\mathcal{C}}_E`$是实体凝聚算符，描述特定类型实体的涌现规则。
 
 凝聚算符$`\hat{\mathcal{C}}_E`$的数学结构为：
 
-$$\hat{\mathcal{C}}_E = \sum_i \alpha_i \hat{P}_i + \sum_{i,j} \beta_{ij}\hat{I}_{ij}$$
+$$
+\hat{\mathcal{C}}_E = \sum_i \alpha_i \hat{P}_i + \sum_{i,j} \beta_{ij}\hat{I}_{ij}
+$$
 
 其中$`\hat{P}_i`$是投影算符，决定实体的基本属性；$`\hat{I}_{ij}`$是信息耦合算符，决定实体内部组分的关联方式。
 
@@ -28,13 +32,17 @@ $$\hat{\mathcal{C}}_E = \sum_i \alpha_i \hat{P}_i + \sum_{i,j} \beta_{ij}\hat{I}
 
 量子实体能够稳定存在的关键在于自维持量子模式，由量子模式稳定性函数$`\Phi_S`$表征：
 
-$$\Phi_S(\mathcal{E}) = \exp\left(-\frac{S_Q(\mathcal{E})}{k_B \mathcal{T}_Q}\right)$$
+$$
+\Phi_S(\mathcal{E}) = \exp\left(-\frac{S_Q(\mathcal{E})}{k_B \mathcal{T}_Q}\right)
+$$
 
 其中$`S_Q(\mathcal{E})`$是实体的量子自熵函数，$`\mathcal{T}_Q`$是量子温度参数，$`k_B`$是玻尔兹曼常数。稳定性函数值越高，实体越稳定。
 
 实体的量子自熵可计算为：
 
-$$S_Q(\mathcal{E}) = -\text{Tr}(\rho_{\mathcal{E}}\ln\rho_{\mathcal{E}})$$
+$$
+S_Q(\mathcal{E}) = -\text{Tr}(\rho_{\mathcal{E}}\ln\rho_{\mathcal{E}})
+$$
 
 其中$`\rho_{\mathcal{E}}`$是实体的密度矩阵表示。
 
@@ -42,13 +50,17 @@ $$S_Q(\mathcal{E}) = -\text{Tr}(\rho_{\mathcal{E}}\ln\rho_{\mathcal{E}})$$
 
 量子实体涌现遵循递归多层级结构，每层涌现实体可作为更高层实体的基础组件：
 
-$$\mathcal{E}^{(n+1)} = \mathcal{F}\left(\{\mathcal{E}_i^{(n)}\}, \Theta^{(n+1)}\right)$$
+$$
+\mathcal{E}^{(n+1)} = \mathcal{F}\left(\{\mathcal{E}_i^{(n)}\}, \Theta^{(n+1)}\right)
+$$
 
 其中$`\mathcal{E}^{(n+1)}`$是第$`n+1`$层涌现实体，$`\{\mathcal{E}_i^{(n)}\}`$是第$`n`$层实体集合，$`\mathcal{F}`$是层级涌现函数，$`\Theta^{(n+1)}`$是第$`n+1`$层的涌现参数集。
 
 这种多层级结构形成整个现实的嵌套层级：
 
-$$\mathcal{R} = \{\mathcal{E}^{(1)}, \mathcal{E}^{(2)}, \ldots, \mathcal{E}^{(N)}\}$$
+$$
+\mathcal{R} = \{\mathcal{E}^{(1)}, \mathcal{E}^{(2)}, \ldots, \mathcal{E}^{(N)}\}
+$$
 
 ### 2. 实体类型与特性
 
@@ -56,7 +68,9 @@ $$\mathcal{R} = \{\mathcal{E}^{(1)}, \mathcal{E}^{(2)}, \ldots, \mathcal{E}^{(N)
 
 基本粒子作为最低层级物质实体的涌现可描述为：
 
-$$\mathcal{E}_m = \mathcal{C}_m\left(\int_{\Omega_Q} \Psi_m(\vec{q},t)d\vec{q}\right)$$
+$$
+\mathcal{E}_m = \mathcal{C}_m\left(\int_{\Omega_Q} \Psi_m(\vec{q},t)d\vec{q}\right)
+$$
 
 其中$`\mathcal{C}_m`$是物质实体凝聚函数，$`\Psi_m`$是物质量子态。
 
@@ -71,7 +85,9 @@ $$\mathcal{E}_m = \mathcal{C}_m\left(\int_{\Omega_Q} \Psi_m(\vec{q},t)d\vec{q}\r
 
 场作为连续型实体的涌现表达为：
 
-$$\mathcal{E}_f = \int_{\mathcal{M}} \mathcal{F}(x)dx^4$$
+$$
+\mathcal{E}_f = \int_{\mathcal{M}} \mathcal{F}(x)dx^4
+$$
 
 其中$`\mathcal{M}`$是时空流形，$`\mathcal{F}(x)`$是场强度函数。
 
@@ -86,7 +102,9 @@ $$\mathcal{E}_f = \int_{\mathcal{M}} \mathcal{F}(x)dx^4$$
 
 信息实体作为抽象关系结构的涌现：
 
-$$\mathcal{E}_i = \mathcal{H}\left(\{\mathcal{R}_{jk}\}, \{\mathcal{N}_l\}\right)$$
+$$
+\mathcal{E}_i = \mathcal{H}\left(\{\mathcal{R}_{jk}\}, \{\mathcal{N}_l\}\right)
+$$
 
 其中$`\mathcal{H}`$是信息组织函数，$`\{\mathcal{R}_{jk}\}`$是关系集合，$`\{\mathcal{N}_l\}`$是节点集合。
 
@@ -101,7 +119,9 @@ $$\mathcal{E}_i = \mathcal{H}\left(\{\mathcal{R}_{jk}\}, \{\mathcal{N}_l\}\right
 
 意识实体作为具有自知能力的涌现结构：
 
-$$\mathcal{E}_c = \Gamma\left(\int_{\Omega_c} \Phi(\vec{\psi})d\vec{\psi}, \mathcal{O}\right)$$
+$$
+\mathcal{E}_c = \Gamma\left(\int_{\Omega_c} \Phi(\vec{\psi})d\vec{\psi}, \mathcal{O}\right)
+$$
 
 其中$`\Gamma`$是意识涌现函数，$`\Phi(\vec{\psi})`$是意识量子态，$`\mathcal{O}`$是观察者参数。
 
@@ -116,7 +136,9 @@ $$\mathcal{E}_c = \Gamma\left(\int_{\Omega_c} \Phi(\vec{\psi})d\vec{\psi}, \math
 
 涌现实体在量子域和经典域之间经历复杂转换过程：
 
-$$\mathcal{E}_Q \xrightarrow{\mathcal{C}} \mathcal{E}_C \xrightarrow{\mathcal{Q}} \mathcal{E}_Q'$$
+$$
+\mathcal{E}_Q \xrightarrow{\mathcal{C}} \mathcal{E}_C \xrightarrow{\mathcal{Q}} \mathcal{E}_Q'
+$$
 
 其中$`\mathcal{E}_Q`$是量子态实体，$`\mathcal{E}_C`$是经典态实体，$`\mathcal{C}`$是经典化算符，$`\mathcal{Q}`$是量子化算符。
 
@@ -131,7 +153,9 @@ $$\mathcal{E}_Q \xrightarrow{\mathcal{C}} \mathcal{E}_C \xrightarrow{\mathcal{Q}
 
 涌现实体不是孤立存在的，而是形成复杂的相互作用网络：
 
-$$\mathcal{N} = (\{\mathcal{E}_i\}, \{I_{jk}\})$$
+$$
+\mathcal{N} = (\{\mathcal{E}_i\}, \{I_{jk}\})
+$$
 
 其中$`\{\mathcal{E}_i\}`$是实体集合，$`\{I_{jk}\}`$是实体间交互关系集合。
 
@@ -182,4 +206,4 @@ $$\mathcal{N} = (\{\mathcal{E}_i\}, \{I_{jk}\})$$
 
 ## 结论
 
-量子实体涌现理论(D11)提供了理解实体如何从纯粹量子可能性中涌现的统一框架，从基本粒子到复杂意识实体，揭示了现实中各类实体的共同起源和本质联系。该理论为物理学、信息科学、生命科学和意识研究等领域提供了全新视角，有望解决多个跨学科前沿难题。 
+量子实体涌现理论(D11)提供了理解实体如何从纯粹量子可能性中涌现的统一框架，从基本粒子到复杂意识实体，揭示了现实中各类实体的共同起源和本质联系。该理论为物理学、信息科学、生命科学和意识研究等领域提供了全新视角，有望解决多个跨学科前沿难题。

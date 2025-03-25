@@ -1,10 +1,10 @@
 # 太上感应篇在量子经典二元论下的解释
 # Taishang Ganying Pian Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#太上感应篇概述) | [English Version](#taishang-ganying-pian-overview)  
-**章节链接 | Section Links**  
-中文：[太上感应篇概述](#太上感应篇概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)  
+**导航 | Navigation**
+[中文版](#太上感应篇概述) | [English Version](#taishang-ganying-pian-overview)
+**章节链接 | Section Links**
+中文：[太上感应篇概述](#太上感应篇概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)
 English: [Taishang Ganying Pian Overview](#taishang-ganying-pian-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达) | [Conclusion](#结论)
 
 ## 太上感应篇概述
@@ -18,45 +18,45 @@ The Taishang Ganying Pian (Treatise on the Response of the Tao) is an important 
 ## Core Text
 
 > 太上曰：祸福无门，惟人自召；善恶之报，如影随形。
-> 
+>
 > 是以天地有司过之神，依人所犯轻重，以夺人算。算减则贫耗，多逢忧患；人皆恶之，刑祸随之，吉庆避之，恶星灾之；算尽则死。
-> 
+>
 > 又有三台北斗神君，在人头上，录人罪恶，夺其纪算。又有三尸神，在人身中，每到庚申日，辄上诣天曹，言人罪过。
-> 
+>
 > 夫心起于善，善虽未为，而吉神已随之；或心起于恶，恶虽未为，而凶神已随之。
-> 
+>
 > 故吉人语善、视善、行善，一日有三善，三年天必降之福。凶人语恶、视恶、行恶，一日有三恶，三年天必降之祸。
-> 
+>
 > 为人君者，以爱利为心，是尧舜之君也。
-> 
+>
 > 为人臣者，以尽忠为事，是稷契之臣也。
-> 
+>
 > 为人子者，以顺亲为本，是曾闵之子也。
-> 
+>
 > 为人兄者，以友爱为义，是孔明之兄也。
-> 
+>
 > 为人夫者，以正和为德，是颜渊之夫也。
 >
 > 为人妻者，以柔顺为贵，是鲍姬之妻也。
 
 > The Most High said: Misfortune and blessing have no door, but are invited by people themselves; the retribution of good and evil follows like a shadow follows a form.
-> 
+>
 > Thus, there are deities in heaven and earth who oversee transgressions, and according to the severity of human offenses, they deduct from people's allotted lifespans. When one's allotment is reduced, they become impoverished and encounter many worries and troubles; people despise them, punishments and calamities follow them, good fortune avoids them, and malevolent stars bring them disasters; when their allotment is exhausted, they die.
-> 
+>
 > There are also the Three Platforms and North Star Deity Lords above people's heads, recording their sins and reducing their allotted lifespans. There are also the Three Corpse Spirits within people's bodies, who on every Gengshan day ascend to the Celestial Bureau to report people's transgressions.
-> 
+>
 > When the mind inclines toward good, even before good is done, auspicious spirits already follow; or when the mind inclines toward evil, even before evil is done, inauspicious spirits already follow.
-> 
+>
 > Therefore, fortunate people speak good, see good, and do good, having three good deeds in one day, and in three years heaven will surely bestow blessings. Unfortunate people speak evil, see evil, and do evil, having three evil deeds in one day, and in three years heaven will surely send down misfortune.
-> 
+>
 > Those who are rulers and have loving kindness and benefit for their hearts are rulers like Yao and Shun.
-> 
+>
 > Those who are ministers and have loyalty as their duty are ministers like Ji and Xie.
-> 
+>
 > Those who are children and have obedience to parents as their foundation are children like Zeng and Min.
-> 
+>
 > Those who are elder brothers and have fraternal love as their righteousness are brothers like Kong Ming.
-> 
+>
 > Those who are husbands and have correctness and harmony as their virtue are husbands like Yan Yuan.
 >
 > Those who are wives and value gentleness and compliance are wives like Lady Bao.
@@ -199,4 +199,4 @@ Where $`i`$ represents different roles in society
 
 The karmic retribution thought in the Taishang Ganying Pian has received a scientific interpretation through the Quantum-Classical Dualism framework. The core concept that "misfortune and blessing have no door, but are invited by people themselves" corresponds to the quantum process where observer measurement causes wave function collapse, "the retribution of good and evil follows like a shadow follows a form" embodies the non-local correlation of quantum entanglement states, and the "deities overseeing transgressions" system reflects the processing mechanism of higher-dimensional observer networks for classical information. The cumulative effect of moral behaviors ("three good deeds in one day, blessings in three years") can be understood as the macroscopic classicalization process of quantum measurements, while moral norms for different social roles optimize the overall quantum entanglement network structure of society.
 
-Through the Quantum-Classical Dualism explanation, the ethical teachings of the Taishang Ganying Pian are no longer merely superstition or religious admonition, but reveal a universal causality system consistent with quantum physics principles. Individual moral behavior essentially affects one's observer dimension and classicalization efficiency, manifesting at the macroscopic level as real outcomes of fortune and misfortune. This interpretation not only provides a modern scientific foundation for traditional Taoist ethics but also offers a completely new theoretical perspective for contemporary social ethics construction. 
+Through the Quantum-Classical Dualism explanation, the ethical teachings of the Taishang Ganying Pian are no longer merely superstition or religious admonition, but reveal a universal causality system consistent with quantum physics principles. Individual moral behavior essentially affects one's observer dimension and classicalization efficiency, manifesting at the macroscopic level as real outcomes of fortune and misfortune. This interpretation not only provides a modern scientific foundation for traditional Taoist ethics but also offers a completely new theoretical perspective for contemporary social ethics construction.

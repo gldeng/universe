@@ -262,4 +262,4 @@ Observation, as a process of solving wave functions, directly determines the amo
 
 This understanding provides us with a new perspective on the nature of knowledge acquisition, learning processes, and information processing. It also explains why the same quantum information may produce completely different classical results for different observers—this depends on the observer's classicalization ability and efficiency.
 
-Ultimately, improving observation quality (i.e., improving wave function solving ability) becomes a key pathway to reduce entropy generation and increase knowledge acquisition, which is also one of the core driving forces for individual and civilizational progress. 
+Ultimately, improving observation quality (i.e., improving wave function solving ability) becomes a key pathway to reduce entropy generation and increase knowledge acquisition, which is also one of the core driving forces for individual and civilizational progress.

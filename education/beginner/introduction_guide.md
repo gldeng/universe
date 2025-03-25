@@ -239,4 +239,4 @@ Try these simple exercises to help you understand Quantum-Classical Dualism:
 
 - [Core Concepts Simplified](core_concepts_simplified.md)
 - [Quantum-Classical Dualism in Everyday Life](everyday_applications.md)
-- [Introduction to Thought Experiments](thought_experiments.md) 
+- [Introduction to Thought Experiments](thought_experiments.md)

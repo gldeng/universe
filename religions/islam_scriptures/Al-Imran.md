@@ -1,9 +1,9 @@
 # 仪姆兰的家属章 (Al-Imran)
 
-**导航 | Navigation**  
-[中文版](#仪姆兰的家属章解析) | [English Version](#al-imran-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#仪姆兰的家属章解析) | [English Version](#al-imran-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -80,4 +80,4 @@ $$
 
 仪姆兰的家属章通过量子经典二元论框架（版本9.2）的解析，揭示了伊斯兰教对经典文本理解的深层机制。"明确的节文"与"隐微的节文"的区分体现了量子叠加态在经典化过程中的不同处理方式：明确的节文直接提供经典化路径，而隐微的节文则保持量子叠加特性，为未来更高维度的理解预留空间。信仰在这一框架中扮演关键角色，作为提升观察者经典化效率的主要因素，使信士能够在面对不确定性时保持系统熵的相对稳定。仪姆兰章强调的"学问精通的人"实际上指向那些能够在尊重量子域不确定性的同时，高效实现经典化的理想观察者。该章对宗教多元性的讨论则反映了不同文化体系对同一量子域（神圣真理）的不同经典化途径，而伊斯兰教被视为最优经典化路径。
 
-Al-Imran, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the deep mechanisms of Islamic understanding of classical texts. The distinction between "clear verses" and "ambiguous verses" reflects different approaches to quantum superposition states in the classicalization process: clear verses directly provide classicalization paths, while ambiguous verses maintain quantum superposition characteristics, reserving space for higher-dimensional understanding in the future. Faith plays a key role in this framework as the main factor in enhancing the observer's classicalization efficiency, enabling believers to maintain relative stability of system entropy when facing uncertainty. The "people firm in knowledge" emphasized in Surah Al-Imran actually points to ideal observers who can efficiently achieve classicalization while respecting the uncertainty of the quantum domain. The chapter's discussion of religious pluralism reflects different cultural systems' different classicalization paths to the same quantum domain (divine truth), with Islam viewed as the optimal classicalization path. 
+Al-Imran, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the deep mechanisms of Islamic understanding of classical texts. The distinction between "clear verses" and "ambiguous verses" reflects different approaches to quantum superposition states in the classicalization process: clear verses directly provide classicalization paths, while ambiguous verses maintain quantum superposition characteristics, reserving space for higher-dimensional understanding in the future. Faith plays a key role in this framework as the main factor in enhancing the observer's classicalization efficiency, enabling believers to maintain relative stability of system entropy when facing uncertainty. The "people firm in knowledge" emphasized in Surah Al-Imran actually points to ideal observers who can efficiently achieve classicalization while respecting the uncertainty of the quantum domain. The chapter's discussion of religious pluralism reflects different cultural systems' different classicalization paths to the same quantum domain (divine truth), with Islam viewed as the optimal classicalization path.

@@ -1,10 +1,10 @@
 # 黑洞信息悖论：宇宙量子信息处理的观察者视角
 # Black Hole Information Paradox: Observer Perspective on Universal Quantum Information Processing
 
-**导航 | Navigation**  
-[中文版](#中文版) | [English Version](#english-version)  
-**章节链接 | Section Links**  
-中文：[黑洞信息悖论本质](#黑洞信息悖论本质) | [观察者视角重解](#观察者视角重解黑洞信息悖论)  
+**导航 | Navigation**
+[中文版](#中文版) | [English Version](#english-version)
+**章节链接 | Section Links**
+中文：[黑洞信息悖论本质](#黑洞信息悖论本质) | [观察者视角重解](#观察者视角重解黑洞信息悖论)
 English: [Essence of Black Hole Information Paradox](#english-version) | [Observer Perspective Reinterpretation](#english-version)
 
 ## 中文版
@@ -191,4 +191,4 @@ This framework clearly indicates:
 - Black hole information decoding is essentially the process of classical observers reversely recovering quantum information through classicalized measurements and holographic mapping;
 - This theory effectively resolves the black hole information paradox, demonstrating the profound unity and holography between the classical and quantum worlds.
 
-From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, the black hole information paradox is no longer a true paradox but a special case of the quantum information classicalization process. Black holes are not "terminators" of information but "converters" that transform quantum information into classical information and classical entropy, ultimately releasing this information back to the universe in new forms through Hawking radiation. 
+From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, the black hole information paradox is no longer a true paradox but a special case of the quantum information classicalization process. Black holes are not "terminators" of information but "converters" that transform quantum information into classical information and classical entropy, ultimately releasing this information back to the universe in new forms through Hawking radiation.

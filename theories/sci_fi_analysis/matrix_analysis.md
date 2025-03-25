@@ -1,10 +1,10 @@
 # 《黑客帝国》：量子经典二元论视角分析
 # "The Matrix": Analysis from Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**  
-[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)  
-**章节链接 | Section Links**  
-中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [电影宇宙观分析](#二电影宇宙观分析--analysis-of-the-films-universe-view) | [矩阵的本质](#三矩阵的本质--essence-of-the-matrix) | [自由意志问题](#四自由意志问题--the-free-will-problem) | [结论](#五结论--conclusion)  
+**导航 | Navigation**
+[中文版](#摘要--abstract) | [English Version](#abstract--chinese-below)
+**章节链接 | Section Links**
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [电影宇宙观分析](#二电影宇宙观分析--analysis-of-the-films-universe-view) | [矩阵的本质](#三矩阵的本质--essence-of-the-matrix) | [自由意志问题](#四自由意志问题--the-free-will-problem) | [结论](#五结论--conclusion)
 English: [Abstract](#abstract--chinese-below) | [Introduction](#i-introduction--chinese-above) | [Analysis of Universe View](#ii-analysis-of-the-films-universe-view--chinese-above) | [Essence of The Matrix](#iii-essence-of-the-matrix--chinese-above) | [Free Will Problem](#iv-the-free-will-problem--chinese-above) | [Conclusion](#v-conclusion--chinese-above)
 
 ## 摘要 | Abstract
@@ -213,4 +213,4 @@ $$
 
 3. The free will problem in the film can be reinterpreted through the conversion of quantum possibilities to classical reality, while love and choice embody special manifestations of quantum entanglement.
 
-However, the philosophical foundation of "The Matrix" still contains some assumptions different from Quantum-Classical Dualism, especially viewing the "real world" as absolutely real, rather than another level of classicalized reality. Nevertheless, its exploration of dualistic opposition, the nature of consciousness, and free will still provides vivid metaphors and references for understanding Quantum-Classical Dualism. 
+However, the philosophical foundation of "The Matrix" still contains some assumptions different from Quantum-Classical Dualism, especially viewing the "real world" as absolutely real, rather than another level of classicalized reality. Nevertheless, its exploration of dualistic opposition, the nature of consciousness, and free will still provides vivid metaphors and references for understanding Quantum-Classical Dualism.

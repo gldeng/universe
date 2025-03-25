@@ -85,28 +85,43 @@ $$
 **定义 1.1 (整数分拆)** 对于自然数 $`n \in \mathbb{N}`$，定义 $`n`$ 的一个分拆 $`\lambda`$ 为满足条件 $`\sum_{i=1}^k \lambda_i = n`$ 且 $`\lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1`$ 的有序 $`k`$ 元组 $`(\lambda_1, \lambda_2, \ldots, \lambda_k)`$。
 
 **定义 1.2 (分拆集合)** 定义 $`P(n)`$ 为整数 $`n`$ 的所有分拆构成的集合。形式化地：
-$$P(n) = \{\lambda = (\lambda_1, \lambda_2, \ldots, \lambda_k) \mid \sum_{i=1}^k \lambda_i = n, \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1, k \in \mathbb{N}\}$$
+
+$$
+P(n) = \{\lambda = (\lambda_1, \lambda_2, \ldots, \lambda_k) \mid \sum_{i=1}^k \lambda_i = n, \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1, k \in \mathbb{N}\}
+$$
 
 **定义 1.3 (分拆函数)** 定义分拆函数 $`p: \mathbb{N} \to \mathbb{N}`$，其中 $`p(n) = |P(n)|`$ 表示集合 $`P(n)`$ 的基数，即整数 $`n`$ 的不同分拆数量。
 
 ### 2. 生成函数的存在性证明
 
 **定理 2.1 (生成函数表示)** 分拆函数 $`p(n)`$ 的生成函数可表示为无穷乘积：
-$$\sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}, \quad |q| < 1$$
+
+$$
+\sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}, \quad |q| < 1
+$$
 
 **证明:**
 我们使用ZFC公理中的无穷公理和集合存在公理构造证明。
 
 首先，对于每个 $`m \in \mathbb{N}^+`$，考虑形式幂级数：
-$$\frac{1}{1-q^m} = \sum_{j=0}^{\infty} q^{mj} = 1 + q^m + q^{2m} + q^{3m} + \cdots$$
+
+$$
+\frac{1}{1-q^m} = \sum_{j=0}^{\infty} q^{mj} = 1 + q^m + q^{2m} + q^{3m} + \cdots
+$$
 
 这实际上是几何级数的和，当 $`|q| < 1`$ 时收敛。
 
 考虑形式幂级数的无穷乘积：
-$$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty} q^{mj}$$
+
+$$
+\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty} q^{mj}
+$$
 
 根据集合论中的笛卡尔积运算，这个无穷乘积可以展开为：
-$$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cdot 1 + j_2 \cdot 2 + j_3 \cdot 3 + \cdots}$$
+
+$$
+\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cdot 1 + j_2 \cdot 2 + j_3 \cdot 3 + \cdots}
+$$
 
 其中求和遍历所有非负整数序列 $`(j_1, j_2, j_3, \ldots)`$ 使得仅有有限个 $`j_i`$ 非零。
 
@@ -117,25 +132,41 @@ $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cd
 ### 3. 分拆函数的递归性质
 
 **定理 3.1 (分拆函数递归关系)** 分拆函数 $`p(n)`$ 满足以下递归关系：
-$$p(n) = \sum_{k=1}^{\infty} (-1)^{k-1} \left[ p(n-k(3k-1)/2) + p(n-k(3k+1)/2) \right]$$
+
+$$
+p(n) = \sum_{k=1}^{\infty} (-1)^{k-1} \left[ p(n-k(3k-1)/2) + p(n-k(3k+1)/2) \right]
+$$
+
 其中约定 $`p(0) = 1`$，且当 $`m < 0`$ 时 $`p(m) = 0`$。
 
 **证明:**
 基于欧拉五角形数定理：
-$$\prod_{m=1}^{\infty} (1-q^m) = \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}$$
+
+$$
+\prod_{m=1}^{\infty} (1-q^m) = \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}
+$$
 
 通过对分拆生成函数两边取倒数并展开，得到：
-$$\prod_{m=1}^{\infty} \frac{1}{1-q^m} \cdot \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2} = 1$$
+
+$$
+\prod_{m=1}^{\infty} \frac{1}{1-q^m} \cdot \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2} = 1
+$$
 
 展开左侧，并比较 $`q^n`$ 的系数，可得递归关系。具体地，等式左侧为：
-$$\left(\sum_{n=0}^{\infty} p(n)q^n\right) \cdot \left(\sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}\right) = 1$$
+
+$$
+\left(\sum_{n=0}^{\infty} p(n)q^n\right) \cdot \left(\sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}\right) = 1
+$$
 
 比较 $`q^n`$ 的系数，得到上述递归关系。$`\square`$
 
 ### 4. 分拆函数的渐近性质
 
 **定理 4.1 (Hardy-Ramanujan 渐近公式)** 当 $`n \to \infty`$ 时，分拆函数 $`p(n)`$ 有以下渐近行为：
-$$p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)$$
+
+$$
+p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)
+$$
 
 **证明大纲:**
 完整证明涉及复分析中的圆法(circle method)，此处给出大纲：
@@ -149,9 +180,18 @@ $$p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)$$
 ### 5. 分拆的同余性质
 
 **定理 5.1 (Ramanujan 同余)** 对于所有非负整数 $`k`$，有：
-$$p(5k+4) \equiv 0 \pmod 5$$
-$$p(7k+5) \equiv 0 \pmod 7$$
-$$p(11k+6) \equiv 0 \pmod{11}$$
+
+$$
+p(5k+4) \equiv 0 \pmod 5
+$$
+
+$$
+p(7k+5) \equiv 0 \pmod 7
+$$
+
+$$
+p(11k+6) \equiv 0 \pmod{11}
+$$
 
 **证明大纲:**
 Ramanujan 同余的完整证明涉及模形式理论。基本思路是通过分析分拆生成函数在特定模变换下的行为，建立分拆数的同余关系。
@@ -170,28 +210,43 @@ The following is a formal proof of the integer partition problem based on the ZF
 **Definition 1.1 (Integer Partition)** For a natural number $`n \in \mathbb{N}`$, a partition $`\lambda`$ of $`n`$ is defined as an ordered $`k`$-tuple $`(\lambda_1, \lambda_2, \ldots, \lambda_k)`$ satisfying $`\sum_{i=1}^k \lambda_i = n`$ and $`\lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1`$.
 
 **Definition 1.2 (Partition Set)** Define $`P(n)`$ as the set of all partitions of the integer $`n`$. Formally:
-$$P(n) = \{\lambda = (\lambda_1, \lambda_2, \ldots, \lambda_k) \mid \sum_{i=1}^k \lambda_i = n, \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1, k \in \mathbb{N}\}$$
+
+$$
+P(n) = \{\lambda = (\lambda_1, \lambda_2, \ldots, \lambda_k) \mid \sum_{i=1}^k \lambda_i = n, \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1, k \in \mathbb{N}\}
+$$
 
 **Definition 1.3 (Partition Function)** Define the partition function $`p: \mathbb{N} \to \mathbb{N}`$, where $`p(n) = |P(n)|`$ represents the cardinality of the set $`P(n)`$, i.e., the number of different partitions of the integer $`n`$.
 
 ### 2. Proof of Existence of the Generating Function
 
 **Theorem 2.1 (Generating Function Representation)** The generating function of the partition function $`p(n)`$ can be represented as an infinite product:
-$$\sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}, \quad |q| < 1$$
+
+$$
+\sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}, \quad |q| < 1
+$$
 
 **Proof:**
 We construct the proof using the Axiom of Infinity and the Axiom of Set Existence from ZFC.
 
 First, for each $`m \in \mathbb{N}^+`$, consider the formal power series:
-$$\frac{1}{1-q^m} = \sum_{j=0}^{\infty} q^{mj} = 1 + q^m + q^{2m} + q^{3m} + \cdots$$
+
+$$
+\frac{1}{1-q^m} = \sum_{j=0}^{\infty} q^{mj} = 1 + q^m + q^{2m} + q^{3m} + \cdots
+$$
 
 This is actually the sum of a geometric series, which converges when $`|q| < 1`$.
 
 Consider the infinite product of formal power series:
-$$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty} q^{mj}$$
+
+$$
+\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty} q^{mj}
+$$
 
 According to the Cartesian product operation in set theory, this infinite product can be expanded as:
-$$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cdot 1 + j_2 \cdot 2 + j_3 \cdot 3 + \cdots}$$
+
+$$
+\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cdot 1 + j_2 \cdot 2 + j_3 \cdot 3 + \cdots}
+$$
 
 where the sum is over all sequences of non-negative integers $`(j_1, j_2, j_3, \ldots)`$ such that only finitely many $`j_i`$ are non-zero.
 
@@ -202,25 +257,41 @@ Therefore, the coefficient of $`q^n`$ equals $`p(n)`$，这完成了证明。 $`
 ### 3. Recursive Properties of the Partition Function
 
 **Theorem 3.1 (Recursive Relation of Partition Function)** The partition function $`p(n)`$ satisfies the following recursive relation:
-$$p(n) = \sum_{k=1}^{\infty} (-1)^{k-1} \left[ p(n-k(3k-1)/2) + p(n-k(3k+1)/2) \right]$$
+
+$$
+p(n) = \sum_{k=1}^{\infty} (-1)^{k-1} \left[ p(n-k(3k-1)/2) + p(n-k(3k+1)/2) \right]
+$$
+
 where it is stipulated that $`p(0) = 1`$, and $`p(m) = 0`$ when $`m < 0`$.
 
 **Proof:**
 Based on Euler's pentagonal number theorem:
-$$\prod_{m=1}^{\infty} (1-q^m) = \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}$$
+
+$$
+\prod_{m=1}^{\infty} (1-q^m) = \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}
+$$
 
 By taking the reciprocal of both sides of the partition generating function and expanding, we get:
-$$\prod_{m=1}^{\infty} \frac{1}{1-q^m} \cdot \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2} = 1$$
+
+$$
+\prod_{m=1}^{\infty} \frac{1}{1-q^m} \cdot \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2} = 1
+$$
 
 Expanding the left side and comparing the coefficients of $`q^n`$, we can derive the recursive relation. Specifically, the left side of the equation is:
-$$\left(\sum_{n=0}^{\infty} p(n)q^n\right) \cdot \left(\sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}\right) = 1$$
+
+$$
+\left(\sum_{n=0}^{\infty} p(n)q^n\right) \cdot \left(\sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}\right) = 1
+$$
 
 Comparing the coefficients of $`q^n`$, we obtain the above recursive relation. $`\square`$
 
 ### 4. Asymptotic Properties of the Partition Function
 
 **Theorem 4.1 (Hardy-Ramanujan Asymptotic Formula)** As $`n \to \infty`$, the partition function $`p(n)`$ has the following asymptotic behavior:
-$$p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)$$
+
+$$
+p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)
+$$
 
 **Proof Outline:**
 The complete proof involves the circle method in complex analysis, here is an outline:
@@ -234,9 +305,18 @@ A formalized complete proof depends on complex analysis theory, only a proof fra
 ### 5. Congruence Properties of Partitions
 
 **Theorem 5.1 (Ramanujan Congruences)** For all non-negative integers $`k`$, we have:
-$$p(5k+4) \equiv 0 \pmod 5$$
-$$p(7k+5) \equiv 0 \pmod 7$$
-$$p(11k+6) \equiv 0 \pmod{11}$$
+
+$$
+p(5k+4) \equiv 0 \pmod 5
+$$
+
+$$
+p(7k+5) \equiv 0 \pmod 7
+$$
+
+$$
+p(11k+6) \equiv 0 \pmod{11}
+$$
 
 **Proof Outline:**
 The complete proof of Ramanujan congruences involves modular forms theory. The basic idea is to establish congruence relations of partition numbers by analyzing the behavior of the partition generating function under specific modular transformations.
@@ -426,4 +506,4 @@ Quantum-classical dualism makes the following predictions about integer partitio
 4. Ahlgren, S., & Boylan, M. (2003). Arithmetic properties of the partition function. Inventiones mathematicae, 153(3), 487-502.
 5. Ono, K. (2000). Distribution of the partition function modulo m. Annals of Mathematics, 151(1), 293-307.
 6. 量子经典二元论核心理论文献 [29.0].
-7. Quantum-Classical Dualism Core Theory Documentation [29.0]. 
+7. Quantum-Classical Dualism Core Theory Documentation [29.0].

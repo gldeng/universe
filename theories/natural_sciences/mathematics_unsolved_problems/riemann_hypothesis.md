@@ -155,7 +155,10 @@ $$
 定义希尔伯特空间$`H = L^2(L, \mu)`$，其中$`L`$为临界线，$`\mu`$为$`L`$上的测度。
 
 构造算子$`T: H \to H`$：
-$$T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)$$
+
+$$
+T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)
+$$
 
 其中$`K`$是适当选择的核函数，使得$`T`$为自伴算子。
 
@@ -398,7 +401,10 @@ Finally, from $`E(\sigma + it) = E(1-\sigma + it)`$ and convexity, conclude that
 Define the Hilbert space $`H = L^2(L, \mu)`$, where $`L`$ is the critical line and $`\mu`$ is the measure on $`L`$.
 
 Construct the operator $`T: H \to H`$:
-$$T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)$$
+
+$$
+T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)
+$$
 
 where $`K`$ is an appropriately chosen kernel function that makes $`T`$ a self-adjoint operator.
 
@@ -497,4 +503,4 @@ This proof is not only mathematically rigorous but also provides a solid mathema
 5. Bombieri, E. (2000). Problems of the Millennium: The Riemann Hypothesis. Clay Mathematics Institute.
 6. Sarnak, P. (2005). Problems of the Millennium: The Riemann Hypothesis. Clay Mathematics Institute.
 7. Tao, T. (2015). The Riemann Hypothesis. Bulletin of the American Mathematical Society, 52(4), 639-643.
-8. Meyer, Y. (2013). Spectral Analysis of Harmonic Analysis Operators Related to the Riemann Hypothesis. Advanced Studies in Pure Mathematics, 62, 437-458. 
+8. Meyer, Y. (2013). Spectral Analysis of Harmonic Analysis Operators Related to the Riemann Hypothesis. Advanced Studies in Pure Mathematics, 62, 437-458.

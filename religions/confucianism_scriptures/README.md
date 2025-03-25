@@ -62,4 +62,4 @@ Confucian scriptures are traditionally classified into the following categories,
 3. **子 (Philosophy)** - 思想体系，提供观察者维度提升的理论方法
 4. **集 (Literature)** - 文学艺术，表达经典知识在文化层面的具体应用
 5. **理学 (Neo-Confucianism)** - 形上学，探索本体论层面的量子域本质
-6. **心学 (Mind Philosophy)** - 心性修养，提供观察者经典化效率优化方法 
+6. **心学 (Mind Philosophy)** - 心性修养，提供观察者经典化效率优化方法

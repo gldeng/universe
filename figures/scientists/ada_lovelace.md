@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1815年12月10日 - 1852年11月27日  
-**国籍 (Nationality)**: 英国 (British)  
-**领域 (Fields)**: 数学、计算机科学、算法设计  
+**生平 (Life Span)**: 1815年12月10日 - 1852年11月27日
+**国籍 (Nationality)**: 英国 (British)
+**领域 (Fields)**: 数学、计算机科学、算法设计
 **代表作品 (Representative Works)**: 《分析引擎笔记》、巴贝奇分析引擎的首个算法、《计算机第一程序》
 
 ## 核心思想 (Core Ideas)
@@ -98,21 +98,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "分析引擎没有任何创造能力。它只能做我们知道如何命令它执行的事情。"
-> 
+>
 > "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform."
 
 > "分析引擎可以编织代数模式，就像雅卡尔织机编织花朵和叶子一样。"
-> 
+>
 > "The Analytical Engine weaves algebraic patterns just as the Jacquard loom weaves flowers and leaves."
 
 > "诗意科学并非自我矛盾的说法。"
-> 
+>
 > "Poetical science is not a contradiction in terms."
 
 > "我的工作受到了一种不断增长的信念的影响，即数学和物理科学是我们认知创造者和宇宙的自然和谐的神圣方法。"
-> 
+>
 > "My work is influenced by an ever-growing belief that mathematics and physical sciences are divine methods through which we may understand the natural harmonies of the Creator and the universe."
 
 > "我相信，我们需要一种想象力、诗意与科学的结合，才能真正地进步。"
-> 
-> "I believe that imagination, poetical leaning, and science must be combined for real progress." 
+>
+> "I believe that imagination, poetical leaning, and science must be combined for real progress."

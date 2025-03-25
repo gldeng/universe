@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1452年-1519年 (1452-1519)  
-**国籍 | Nationality**: 意大利 (Italy)  
-**主要领域 | Main Fields**: 绘画、雕塑、建筑、科学、工程学、解剖学、音乐、数学、发明 (Painting, Sculpture, Architecture, Science, Engineering, Anatomy, Music, Mathematics, Invention)  
+**生卒年份 | Lifespan**: 1452年-1519年 (1452-1519)
+**国籍 | Nationality**: 意大利 (Italy)
+**主要领域 | Main Fields**: 绘画、雕塑、建筑、科学、工程学、解剖学、音乐、数学、发明 (Painting, Sculpture, Architecture, Science, Engineering, Anatomy, Music, Mathematics, Invention)
 **代表作品 | Representative Works**: 《蒙娜丽莎》、《最后的晚餐》、《维特鲁威人》、《岩间圣母》、达芬奇手稿、《飞行器设计》 (Mona Lisa, The Last Supper, Vitruvian Man, Virgin of the Rocks, Da Vinci Notebooks, Flying Machine Designs)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From a Quantum-Classical Dualism perspective, the over five thousand pages of no
 - "Just as iron rusts from disuse, so does inaction spoil the intellect."
 - "The painter should not paint merely what he sees before him, but also what he sees within himself."
 - "Art is never finished, only abandoned."
-- "It is in small matters we should keep watch, so that in great matters we can take action." 
+- "It is in small matters we should keep watch, so that in great matters we can take action."

@@ -74,4 +74,4 @@
 
 - [核心理论](../../core.md)
 - [观察者理论](../../formal_theory/formal_theory_observer.md)
-- [教学方法](teaching_methods.md) 
+- [教学方法](teaching_methods.md)

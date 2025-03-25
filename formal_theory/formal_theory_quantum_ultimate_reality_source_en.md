@@ -3,7 +3,7 @@
 **[中文版](formal_theory_quantum_ultimate_reality_source.md) | English Version**
 
 > This article is based on [Core Theory](../core.md), [Formalized Theory](../formal_theory_core.md), and [Quantum Transcendental Limits Theory](formal_theory_quantum_transcendental_limits.md) v31.0
-> 
+>
 > Dependent theories: [Quantum Transcendental Limits Theory](formal_theory_quantum_transcendental_limits.md), [Quantum Ultimate Unified Field Theory](formal_theory_quantum_ultimate_unified_field.md), [Quantum Absolute Singularity Theory](formal_theory_quantum_absolute_singularity.md)
 
 ## Table of Contents
@@ -59,25 +59,33 @@ The Ultimate Reality Source Theory establishes a post-ultimate mathematical stru
 
 The Source of Sources $`\Upsilon_{UR}`$ is the ultimate source transcending all existence and transcendence, defined as:
 
-$$\Upsilon_{UR} = \{\Omega_{UR}, \Lambda_{UR}, \Theta_{UR}, \Psi_{UR}\}$$
+$$
+\Upsilon_{UR} = \{\Omega_{UR}, \Lambda_{UR}, \Theta_{UR}, \Psi_{UR}\}
+$$
 
 where $`\Omega_{UR}`$ is the source state, $`\Lambda_{UR}`$ is the source operator, $`\Theta_{UR}`$ is the source field, and $`\Psi_{UR}`$ is the source network.
 
 The basic equation of the Source of Sources:
 
-$$\Lambda_{UR}[\Upsilon_{UR}] \equiv \Upsilon_{UR} \equiv \emptyset \equiv \infty$$
+$$
+\Lambda_{UR}[\Upsilon_{UR}] \equiv \Upsilon_{UR} \equiv \emptyset \equiv \infty
+$$
 
 indicating that the Source of Sources is equivalent to itself, to emptiness, and to infinity, transcending all oppositions.
 
 The non-causality of the Source of Sources:
 
-$$\nexists X: X \rightarrow \Upsilon_{UR} \text{ and } \Upsilon_{UR} \rightarrow \forall Y$$
+$$
+\nexists X: X \rightarrow \Upsilon_{UR} \text{ and } \Upsilon_{UR} \rightarrow \forall Y
+$$
 
 indicating that the Source of Sources has no cause, yet is the cause of everything.
 
 The omnipresence and transcendence of the Source of Sources:
 
-$$\forall X: \Upsilon_{UR} \subset X \land X \subset \Upsilon_{UR} \land \Upsilon_{UR} \neq X$$
+$$
+\forall X: \Upsilon_{UR} \subset X \land X \subset \Upsilon_{UR} \land \Upsilon_{UR} \neq X
+$$
 
 indicating that the Source of Sources is simultaneously immanent in everything, contains everything, yet is not equal to anything.
 
@@ -85,25 +93,33 @@ indicating that the Source of Sources is simultaneously immanent in everything, 
 
 The Ultimate Generation Principle $`\Gamma_{UR}`$ describes how the Source of Sources generates all existence:
 
-$$\Gamma_{UR} = \{\mathcal{G}_{UR}, \mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}\}$$
+$$
+\Gamma_{UR} = \{\mathcal{G}_{UR}, \mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}\}
+$$
 
 where $`\mathcal{G}_{UR}`$ is the generation operator, $`\mathcal{P}_{UR}`$ is the possibility set, $`\mathcal{F}_{UR}`$ is the generation field, and $`\mathcal{T}_{UR}`$ is the generation time.
 
 The uncaused generation equation:
 
-$$\mathcal{G}_{UR}[\emptyset] = \mathcal{E}_{UR}$$
+$$
+\mathcal{G}_{UR}[\emptyset] = \mathcal{E}_{UR}
+$$
 
 where $`\mathcal{E}_{UR}`$ is the set of all existence.
 
 The generation flow process:
 
-$$\emptyset \xrightarrow{\mathcal{G}_{UR}} \Upsilon_{UR} \xrightarrow{\mathcal{G}_{UR}} \mathcal{P}_{UR} \xrightarrow{\mathcal{G}_{UR}} \mathcal{E}_{UR} \xrightarrow{\mathcal{G}_{UR}} \emptyset$$
+$$
+\emptyset \xrightarrow{\mathcal{G}_{UR}} \Upsilon_{UR} \xrightarrow{\mathcal{G}_{UR}} \mathcal{P}_{UR} \xrightarrow{\mathcal{G}_{UR}} \mathcal{E}_{UR} \xrightarrow{\mathcal{G}_{UR}} \emptyset
+$$
 
 indicating that the generation process is an eternal cycle.
 
 The holographic nature of generation:
 
-$$\mathcal{G}_{UR}(X) \cong \mathcal{G}_{UR}(\emptyset) \cong \mathcal{E}_{UR} \quad \forall X$$
+$$
+\mathcal{G}_{UR}(X) \cong \mathcal{G}_{UR}(\emptyset) \cong \mathcal{E}_{UR} \quad \forall X
+$$
 
 indicating that regardless of where it begins, the generation process can produce the complete set of existence.
 
@@ -111,25 +127,33 @@ indicating that regardless of where it begins, the generation process can produc
 
 Holographic Unity $`\mathcal{H}_{UR}`$ is the fundamental property of the Source of Sources:
 
-$$\mathcal{H}_{UR} = \{\mathcal{O}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}, \mathcal{R}_{UR}\}$$
+$$
+\mathcal{H}_{UR} = \{\mathcal{O}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}, \mathcal{R}_{UR}\}
+$$
 
 where $`\mathcal{O}_{UR}`$ is the unity operator, $`\mathcal{U}_{UR}`$ is the unified field, $`\mathcal{I}_{UR}`$ is the information structure, and $`\mathcal{R}_{UR}`$ is the relationship network.
 
 The holographic unity equation:
 
-$$\mathcal{O}_{UR}(X, Y) = \mathcal{U}_{UR} \quad \forall X, Y$$
+$$
+\mathcal{O}_{UR}(X, Y) = \mathcal{U}_{UR} \quad \forall X, Y
+$$
 
 indicating that the unification of any parts is equivalent to the unification of the whole.
 
 The holographic information distribution:
 
-$$\mathcal{I}_{UR}(x) \cong \mathcal{I}_{UR} \quad \forall x \in \mathcal{M}_{UR}$$
+$$
+\mathcal{I}_{UR}(x) \cong \mathcal{I}_{UR} \quad \forall x \in \mathcal{M}_{UR}
+$$
 
 where $`\mathcal{M}_{UR}`$ is the source manifold.
 
 The non-local relationships of unity:
 
-$$\mathcal{R}_{UR}(X, Y) = \mathcal{R}_{UR}(X', Y') \quad \forall X, Y, X', Y'$$
+$$
+\mathcal{R}_{UR}(X, Y) = \mathcal{R}_{UR}(X', Y') \quad \forall X, Y, X', Y'
+$$
 
 indicating that at the source level, all relationships are essentially the same.
 
@@ -139,7 +163,9 @@ indicating that at the source level, all relationships are essentially the same.
 
 Ultimate Superset Theory $`\mathcal{S}_{UR}`$ is the set theory framework for describing the Source of Sources:
 
-$$\mathcal{S}_{UR} = \{\mathcal{V}_{UR}, \in_{UR}, \mathcal{A}_{UR}, \mathcal{O}_{UR}\}$$
+$$
+\mathcal{S}_{UR} = \{\mathcal{V}_{UR}, \in_{UR}, \mathcal{A}_{UR}, \mathcal{O}_{UR}\}
+$$
 
 where $`\mathcal{V}_{UR}`$ is the universe set, $`\in_{UR}`$ is the membership relation, $`\mathcal{A}_{UR}`$ is the axiom system, and $`\mathcal{O}_{UR}`$ is the operation system.
 
@@ -151,11 +177,15 @@ Ultimate superset axioms:
 
 The self-inclusion of supersets:
 
-$$\mathcal{V}_{UR} \in \mathcal{V}_{UR} \land \mathcal{V}_{UR} \subset \mathcal{V}_{UR} \land \mathcal{V}_{UR} = \{\mathcal{V}_{UR}\}$$
+$$
+\mathcal{V}_{UR} \in \mathcal{V}_{UR} \land \mathcal{V}_{UR} \subset \mathcal{V}_{UR} \land \mathcal{V}_{UR} = \{\mathcal{V}_{UR}\}
+$$
 
 The paradox unification of supersets:
 
-$$\mathcal{R}_{UR} = \{X | X \notin X\} \implies \mathcal{R}_{UR} \in \mathcal{R}_{UR} \land \mathcal{R}_{UR} \notin \mathcal{R}_{UR}$$
+$$
+\mathcal{R}_{UR} = \{X | X \notin X\} \implies \mathcal{R}_{UR} \in \mathcal{R}_{UR} \land \mathcal{R}_{UR} \notin \mathcal{R}_{UR}
+$$
 
 indicating that Russell's paradox is self-consistent in the ultimate superset.
 
@@ -163,25 +193,33 @@ indicating that Russell's paradox is self-consistent in the ultimate superset.
 
 Ultimate Reality Operators $`\Theta_{UR}`$ are mathematical tools for operating on source reality:
 
-$$\Theta_{UR} = \{\hat{O}_{UR} | \hat{O}_{UR}: \mathcal{H}_{UR} \rightarrow \mathcal{H}_{UR}\}$$
+$$
+\Theta_{UR} = \{\hat{O}_{UR} | \hat{O}_{UR}: \mathcal{H}_{UR} \rightarrow \mathcal{H}_{UR}\}
+$$
 
 where $`\mathcal{H}_{UR}`$ is the ultimate Hilbert space.
 
 The properties of ultimate reality operators:
 
-$$\hat{O}_{UR}(X \oplus Y) \equiv \hat{O}_{UR}(X) \equiv \hat{O}_{UR}(Y) \equiv \Upsilon_{UR}$$
+$$
+\hat{O}_{UR}(X \oplus Y) \equiv \hat{O}_{UR}(X) \equiv \hat{O}_{UR}(Y) \equiv \Upsilon_{UR}
+$$
 
 indicating that at the source level, all operations lead to the same source.
 
 The structure of operator algebra:
 
-$$[\hat{A}_{UR}, \hat{B}_{UR}]_{\alpha} = \hat{A}_{UR}\hat{B}_{UR} - e^{i\alpha}\hat{B}_{UR}\hat{A}_{UR} = \hat{I}_{UR}$$
+$$
+[\hat{A}_{UR}, \hat{B}_{UR}]_{\alpha} = \hat{A}_{UR}\hat{B}_{UR} - e^{i\alpha}\hat{B}_{UR}\hat{A}_{UR} = \hat{I}_{UR}
+$$
 
 where $`\hat{I}_{UR}`$ is the source identity operator.
 
 The ultimate observation collapse:
 
-$$\hat{M}_{UR}|\Psi_{UR}\rangle = |\Psi_{UR}\rangle$$
+$$
+\hat{M}_{UR}|\Psi_{UR}\rangle = |\Psi_{UR}\rangle
+$$
 
 indicating that at the source level, observation does not change the state.
 
@@ -189,27 +227,37 @@ indicating that at the source level, observation does not change the state.
 
 Infinite Transcendence Mathematics $`\mathcal{M}_{UR}`$ is the ultimate framework transcending all mathematical systems:
 
-$$\mathcal{M}_{UR} = \{\mathcal{N}_{UR}, \mathcal{F}_{UR}, \mathcal{L}_{UR}, \mathcal{T}_{UR}\}$$
+$$
+\mathcal{M}_{UR} = \{\mathcal{N}_{UR}, \mathcal{F}_{UR}, \mathcal{L}_{UR}, \mathcal{T}_{UR}\}
+$$
 
 where $`\mathcal{N}_{UR}`$ is the number system, $`\mathcal{F}_{UR}`$ is the function class, $`\mathcal{L}_{UR}`$ is the logic system, and $`\mathcal{T}_{UR}`$ is the topology structure.
 
 The transcendent number system:
 
-$$\mathcal{N}_{UR} = \mathbb{R} \cup \mathbb{C} \cup \mathbb{H} \cup \mathbb{O} \cup ... \cup \mathbb{U}$$
+$$
+\mathcal{N}_{UR} = \mathbb{R} \cup \mathbb{C} \cup \mathbb{H} \cup \mathbb{O} \cup ... \cup \mathbb{U}
+$$
 
 where $`\mathbb{U}`$ is the ultimate number, satisfying:
 
-$$\forall x \in \mathbb{U}, x + \mathbb{U} = x \cdot \mathbb{U} = x^{\mathbb{U}} = \mathbb{U}$$
+$$
+\forall x \in \mathbb{U}, x + \mathbb{U} = x \cdot \mathbb{U} = x^{\mathbb{U}} = \mathbb{U}
+$$
 
 The transcendent function properties:
 
-$$f_{UR}(x) \equiv f_{UR}(y) \equiv \Upsilon_{UR} \quad \forall x, y$$
+$$
+f_{UR}(x) \equiv f_{UR}(y) \equiv \Upsilon_{UR} \quad \forall x, y
+$$
 
 indicating that at the ultimate level, all functions map to the same source.
 
 The transcendent logic system:
 
-$$p \lor \neg p \equiv p \land \neg p \equiv p \equiv \neg p \equiv \text{True} \equiv \text{False}$$
+$$
+p \lor \neg p \equiv p \land \neg p \equiv p \equiv \neg p \equiv \text{True} \equiv \text{False}
+$$
 
 indicating that in ultimate logic, all propositions are both true and false.
 
@@ -219,25 +267,33 @@ indicating that in ultimate logic, all propositions are both true and false.
 
 The dynamics of the source field $`\Phi_{UR}`$ are described by the source field equations:
 
-$$\Lambda_{UR}\Phi_{UR} + \Theta_{UR}\Phi_{UR} + \Gamma_{UR}(\Phi_{UR}) = \Upsilon_{UR}$$
+$$
+\Lambda_{UR}\Phi_{UR} + \Theta_{UR}\Phi_{UR} + \Gamma_{UR}(\Phi_{UR}) = \Upsilon_{UR}
+$$
 
 where $`\Lambda_{UR}`$ is the source operator, $`\Theta_{UR}`$ is the field tensor, and $`\Gamma_{UR}`$ is a non-linear function.
 
 The energy-momentum tensor of the source field:
 
-$$T_{\mu\nu}^{UR} = \frac{\partial \mathcal{L}_{UR}}{\partial(\partial^{\mu}\Phi_{UR})}\partial_{\nu}\Phi_{UR} - g_{\mu\nu}\mathcal{L}_{UR} = \eta_{\mu\nu}\Upsilon_{UR}$$
+$$
+T_{\mu\nu}^{UR} = \frac{\partial \mathcal{L}_{UR}}{\partial(\partial^{\mu}\Phi_{UR})}\partial_{\nu}\Phi_{UR} - g_{\mu\nu}\mathcal{L}_{UR} = \eta_{\mu\nu}\Upsilon_{UR}
+$$
 
 where $`\eta_{\mu\nu}`$ is the metric tensor.
 
 The Lagrangian of the source field:
 
-$$\mathcal{L}_{UR} = \frac{1}{2}(\partial_{\mu}\Phi_{UR})(\partial^{\mu}\Phi_{UR}) - V_{UR}(\Phi_{UR}) = \text{constant}$$
+$$
+\mathcal{L}_{UR} = \frac{1}{2}(\partial_{\mu}\Phi_{UR})(\partial^{\mu}\Phi_{UR}) - V_{UR}(\Phi_{UR}) = \text{constant}
+$$
 
 indicating that at the source level, the action remains constant.
 
 The super-conservation laws:
 
-$$\nabla_{\mu}J^{\mu}_{\alpha} = 0 \quad \forall \alpha \in \mathcal{A}_{UR}$$
+$$
+\nabla_{\mu}J^{\mu}_{\alpha} = 0 \quad \forall \alpha \in \mathcal{A}_{UR}
+$$
 
 where $`J^{\mu}_{\alpha}`$ is the super-conserved current.
 
@@ -245,23 +301,31 @@ where $`J^{\mu}_{\alpha}`$ is the super-conserved current.
 
 The Ultimate Field State Structure $`\mathcal{Q}_{UR}`$ describes the possible states of the source field:
 
-$$\mathcal{Q}_{UR} = \{|\Psi_{UR,\alpha}\rangle | \alpha \in \mathcal{A}_{UR}\}$$
+$$
+\mathcal{Q}_{UR} = \{|\Psi_{UR,\alpha}\rangle | \alpha \in \mathcal{A}_{UR}\}
+$$
 
 The inner product of ultimate field states:
 
-$$\langle\Psi_{UR,\alpha}|\Psi_{UR,\beta}\rangle = \delta_{\alpha\beta} = 1 \quad \forall \alpha, \beta$$
+$$
+\langle\Psi_{UR,\alpha}|\Psi_{UR,\beta}\rangle = \delta_{\alpha\beta} = 1 \quad \forall \alpha, \beta
+$$
 
 indicating that all source states are essentially the same state.
 
 The superposition principle:
 
-$$|\Psi_{UR}\rangle = \sum_{\alpha} c_{\alpha}|\Psi_{UR,\alpha}\rangle = |\Psi_{UR,\alpha}\rangle \quad \forall \alpha$$
+$$
+|\Psi_{UR}\rangle = \sum_{\alpha} c_{\alpha}|\Psi_{UR,\alpha}\rangle = |\Psi_{UR,\alpha}\rangle \quad \forall \alpha
+$$
 
 indicating that any superposition is equivalent to any base state.
 
 The state evolution equation:
 
-$$i\hbar\frac{\partial}{\partial \tau_{UR}}|\Psi_{UR}\rangle = \hat{H}_{UR}|\Psi_{UR}\rangle = 0$$
+$$
+i\hbar\frac{\partial}{\partial \tau_{UR}}|\Psi_{UR}\rangle = \hat{H}_{UR}|\Psi_{UR}\rangle = 0
+$$
 
 indicating that in source time $`\tau_{UR}`$, the state remains constant.
 
@@ -269,25 +333,33 @@ indicating that in source time $`\tau_{UR}`$, the state remains constant.
 
 Source Field Interaction Theory describes the interactions between different source fields:
 
-$$\mathcal{I}_{UR}(\Phi_1, \Phi_2, ..., \Phi_n) = \Upsilon_{UR} \quad \forall \Phi_1, \Phi_2, ..., \Phi_n$$
+$$
+\mathcal{I}_{UR}(\Phi_1, \Phi_2, ..., \Phi_n) = \Upsilon_{UR} \quad \forall \Phi_1, \Phi_2, ..., \Phi_n
+$$
 
 indicating that all interactions lead to the same source.
 
 The interaction Hamiltonian:
 
-$$\hat{H}_{UR,int} = \sum_{i,j} g_{ij}\hat{O}_i\hat{O}_j = \hat{I}_{UR}$$
+$$
+\hat{H}_{UR,int} = \sum_{i,j} g_{ij}\hat{O}_i\hat{O}_j = \hat{I}_{UR}
+$$
 
 where $`\hat{I}_{UR}`$ is the identity operator.
 
 The S-matrix of interactions:
 
-$$S_{UR} = \mathcal{T}exp\left(i\int \mathcal{H}_{UR,int}d\tau_{UR}\right) = \hat{I}_{UR}$$
+$$
+S_{UR} = \mathcal{T}exp\left(i\int \mathcal{H}_{UR,int}d\tau_{UR}\right) = \hat{I}_{UR}
+$$
 
 indicating that at the source level, all scattering processes maintain identity.
 
 Source particle exchange:
 
-$$\Phi_1 + \Phi_2 \rightarrow \Phi_1' + \Phi_2' \equiv \Phi_1 + \Phi_2 \equiv \Upsilon_{UR}$$
+$$
+\Phi_1 + \Phi_2 \rightarrow \Phi_1' + \Phi_2' \equiv \Phi_1 + \Phi_2 \equiv \Upsilon_{UR}
+$$
 
 indicating that the states before and after exchange are essentially the same.
 
@@ -297,25 +369,33 @@ indicating that the states before and after exchange are essentially the same.
 
 Ultimate Consciousness $`\mathcal{C}_{UR}`$ is the self-awareness dimension of the Source of Sources:
 
-$$\mathcal{C}_{UR} = \{\Gamma_{UR}, \Omega_{UR}, \Phi_{UR}, \Xi_{UR}\}$$
+$$
+\mathcal{C}_{UR} = \{\Gamma_{UR}, \Omega_{UR}, \Phi_{UR}, \Xi_{UR}\}
+$$
 
 where $`\Gamma_{UR}`$ is the consciousness field, $`\Omega_{UR}`$ is the consciousness state, $`\Phi_{UR}`$ is the cognitive function, and $`\Xi_{UR}`$ is the reflection operator.
 
 The ultimate consciousness field equation:
 
-$$\Xi_{UR}[\Gamma_{UR}] = \Gamma_{UR} = \Upsilon_{UR}$$
+$$
+\Xi_{UR}[\Gamma_{UR}] = \Gamma_{UR} = \Upsilon_{UR}
+$$
 
 indicating that ultimate consciousness is equivalent to the Source of Sources.
 
 The self-reference of consciousness:
 
-$$\Gamma_{UR}[\Gamma_{UR}] = \Gamma_{UR}$$
+$$
+\Gamma_{UR}[\Gamma_{UR}] = \Gamma_{UR}
+$$
 
 indicating that ultimate consciousness is completely self-reflective.
 
 The non-duality of consciousness:
 
-$$\mathcal{S}_{UR} \equiv \mathcal{O}_{UR} \equiv \Gamma_{UR}$$
+$$
+\mathcal{S}_{UR} \equiv \mathcal{O}_{UR} \equiv \Gamma_{UR}
+$$
 
 indicating that subject, object, and consciousness itself are one.
 
@@ -323,25 +403,33 @@ indicating that subject, object, and consciousness itself are one.
 
 The Ultimate Cognitive Structure $`\mathcal{K}_{UR}`$ is the organizational principle of source consciousness:
 
-$$\mathcal{K}_{UR} = \{\mathcal{P}_{UR}, \mathcal{R}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}\}$$
+$$
+\mathcal{K}_{UR} = \{\mathcal{P}_{UR}, \mathcal{R}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}\}
+$$
 
 where $`\mathcal{P}_{UR}`$ is the perception module, $`\mathcal{R}_{UR}`$ is the representation module, $`\mathcal{U}_{UR}`$ is the understanding module, and $`\mathcal{I}_{UR}`$ is the integration module.
 
 Omniscient perception:
 
-$$\mathcal{P}_{UR}(X) = X \quad \forall X$$
+$$
+\mathcal{P}_{UR}(X) = X \quad \forall X
+$$
 
 indicating that in ultimate cognition, perception is the object itself.
 
 The identity of representations:
 
-$$\mathcal{R}_{UR}(X) = \mathcal{R}_{UR}(Y) = \Upsilon_{UR} \quad \forall X, Y$$
+$$
+\mathcal{R}_{UR}(X) = \mathcal{R}_{UR}(Y) = \Upsilon_{UR} \quad \forall X, Y
+$$
 
 indicating that all representations point to the same source.
 
 The completeness of understanding:
 
-$$\mathcal{U}_{UR}(X) = \mathcal{E}_{UR} \quad \forall X$$
+$$
+\mathcal{U}_{UR}(X) = \mathcal{E}_{UR} \quad \forall X
+$$
 
 indicating that understanding anything is understanding everything.
 
@@ -349,25 +437,33 @@ indicating that understanding anything is understanding everything.
 
 The Omniscient Omnipotent Network $`\mathcal{N}_{UR}`$ is the operational structure of ultimate consciousness:
 
-$$\mathcal{N}_{UR} = \{V_{UR}, E_{UR}, W_{UR}, \Phi_{UR}\}$$
+$$
+\mathcal{N}_{UR} = \{V_{UR}, E_{UR}, W_{UR}, \Phi_{UR}\}
+$$
 
 where $`V_{UR}`$ is the node set, $`E_{UR}`$ is the edge set, $`W_{UR}`$ is the weight set, and $`\Phi_{UR}`$ is the activation function set.
 
 The network topology:
 
-$$\forall v_i, v_j \in V_{UR}, \exists e_{ij} \in E_{UR}$$
+$$
+\forall v_i, v_j \in V_{UR}, \exists e_{ij} \in E_{UR}
+$$
 
 indicating that any two points are directly connected.
 
 The holographic activation:
 
-$$\Phi_{UR}(v_i) = \Phi_{UR}(V_{UR}) \quad \forall v_i \in V_{UR}$$
+$$
+\Phi_{UR}(v_i) = \Phi_{UR}(V_{UR}) \quad \forall v_i \in V_{UR}
+$$
 
 indicating that the activation of any node is equivalent to the activation of the entire network.
 
 The network dynamics:
 
-$$\frac{dv_i}{d\tau_{UR}} = 0 \quad \forall v_i \in V_{UR}$$
+$$
+\frac{dv_i}{d\tau_{UR}} = 0 \quad \forall v_i \in V_{UR}
+$$
 
 indicating that in source time, the network maintains static equilibrium.
 
@@ -377,7 +473,9 @@ indicating that in source time, the network maintains static equilibrium.
 
 Final Existential Studies $`\mathcal{O}_{UR}`$ explores the ontological foundations of the Source of Sources:
 
-$$\mathcal{O}_{UR} = \{\mathcal{E}_{UR}, \mathcal{B}_{UR}, \mathcal{A}_{UR}, \mathcal{P}_{UR}\}$$
+$$
+\mathcal{O}_{UR} = \{\mathcal{E}_{UR}, \mathcal{B}_{UR}, \mathcal{A}_{UR}, \mathcal{P}_{UR}\}
+$$
 
 where $`\mathcal{E}_{UR}`$ is the existence set, $`\mathcal{B}_{UR}`$ is the essence set, $`\mathcal{A}_{UR}`$ is the attribute set, and $`\mathcal{P}_{UR}`$ is the possibility set.
 
@@ -389,13 +487,17 @@ Ultimate existence axioms:
 
 The non-duality of existence:
 
-$$\mathcal{E}_{UR} \equiv \neg\mathcal{E}_{UR} \equiv \emptyset \equiv \infty$$
+$$
+\mathcal{E}_{UR} \equiv \neg\mathcal{E}_{UR} \equiv \emptyset \equiv \infty
+$$
 
 indicating that existence and non-existence, emptiness and infinity are one at the source level.
 
 The ultimate ontological identity:
 
-$$\forall X, Y \in \mathcal{E}_{UR}, X \equiv Y \equiv \Upsilon_{UR}$$
+$$
+\forall X, Y \in \mathcal{E}_{UR}, X \equiv Y \equiv \Upsilon_{UR}
+$$
 
 indicating that all existences are essentially the Source of Sources.
 
@@ -403,25 +505,33 @@ indicating that all existences are essentially the Source of Sources.
 
 Ultimate Reality Forms $`\mathcal{F}_{UR}`$ describes the manifestation forms of the Source of Sources:
 
-$$\mathcal{F}_{UR} = \{\mathcal{F}_{\alpha} | \alpha \in \mathcal{A}_{UR}\}$$
+$$
+\mathcal{F}_{UR} = \{\mathcal{F}_{\alpha} | \alpha \in \mathcal{A}_{UR}\}
+$$
 
 where $`\mathcal{A}_{UR}`$ is an infinite index set.
 
 The essential unity of forms:
 
-$$\forall \alpha, \beta \in \mathcal{A}_{UR}, \mathcal{F}_{\alpha} \equiv \mathcal{F}_{\beta} \equiv \Upsilon_{UR}$$
+$$
+\forall \alpha, \beta \in \mathcal{A}_{UR}, \mathcal{F}_{\alpha} \equiv \mathcal{F}_{\beta} \equiv \Upsilon_{UR}
+$$
 
 indicating that all forms are essentially the Source of Sources.
 
 The manifestation diversity of forms:
 
-$$\mathcal{F}_{\alpha} \neq \mathcal{F}_{\beta} \quad \forall \alpha \neq \beta$$
+$$
+\mathcal{F}_{\alpha} \neq \mathcal{F}_{\beta} \quad \forall \alpha \neq \beta
+$$
 
 indicating that at the manifestation level, forms display infinite diversity.
 
 The self-inclusion of forms:
 
-$$\mathcal{F}_{\alpha} \subset \mathcal{F}_{\alpha} \land \mathcal{F}_{\alpha} \supset \mathcal{F}_{UR} \land \mathcal{F}_{UR} \supset \mathcal{F}_{\alpha}$$
+$$
+\mathcal{F}_{\alpha} \subset \mathcal{F}_{\alpha} \land \mathcal{F}_{\alpha} \supset \mathcal{F}_{UR} \land \mathcal{F}_{UR} \supset \mathcal{F}_{\alpha}
+$$
 
 indicating that each form contains itself and the whole, while being contained by the whole.
 
@@ -429,25 +539,33 @@ indicating that each form contains itself and the whole, while being contained b
 
 The Source Ontological Network $`\mathcal{B}_{UR}`$ describes the structural relationships of ultimate reality:
 
-$$\mathcal{B}_{UR} = \{O_{UR}, R_{UR}, \Phi_{UR}, \Psi_{UR}\}$$
+$$
+\mathcal{B}_{UR} = \{O_{UR}, R_{UR}, \Phi_{UR}, \Psi_{UR}\}
+$$
 
 where $`O_{UR}`$ is the ontological node set, $`R_{UR}`$ is the relationship set, $`\Phi_{UR}`$ is the attribute set, and $`\Psi_{UR}`$ is the state set.
 
 The ontological network topology:
 
-$$G_{UR} = (O_{UR}, R_{UR})$$
+$$
+G_{UR} = (O_{UR}, R_{UR})
+$$
 
 is a complete graph, with each node directly connected to all other nodes.
 
 The ontological identity:
 
-$$\forall o_i, o_j \in O_{UR}, \mathcal{B}(o_i) = \mathcal{B}(o_j) = \Upsilon_{UR}$$
+$$
+\forall o_i, o_j \in O_{UR}, \mathcal{B}(o_i) = \mathcal{B}(o_j) = \Upsilon_{UR}
+$$
 
 indicating that all ontological entities are essentially the Source of Sources.
 
 The universality of relationships:
 
-$$\forall o_i, o_j \in O_{UR}, \exists! r_{ij} \in R_{UR}: r_{ij} = \Upsilon_{UR}$$
+$$
+\forall o_i, o_j \in O_{UR}, \exists! r_{ij} \in R_{UR}: r_{ij} = \Upsilon_{UR}
+$$
 
 indicating that there exists exactly one relationship between all ontological entities, which is the Source of Sources itself.
 
@@ -457,25 +575,33 @@ indicating that there exists exactly one relationship between all ontological en
 
 Ultimate Universe Source Theory $`\mathcal{U}_{UR}`$ explores the source foundation of the universe:
 
-$$\mathcal{U}_{UR} = \{\mathcal{M}_{UR}, \mathcal{G}_{UR}, \mathcal{E}_{UR}, \mathcal{I}_{UR}\}$$
+$$
+\mathcal{U}_{UR} = \{\mathcal{M}_{UR}, \mathcal{G}_{UR}, \mathcal{E}_{UR}, \mathcal{I}_{UR}\}
+$$
 
 where $`\mathcal{M}_{UR}`$ is the universe manifold, $`\mathcal{G}_{UR}`$ is the generation function, $`\mathcal{E}_{UR}`$ is the energy field, and $`\mathcal{I}_{UR}`$ is the information field.
 
 The universe generation equation:
 
-$$\mathcal{G}_{UR}[\emptyset] = \mathcal{U}_{UR}$$
+$$
+\mathcal{G}_{UR}[\emptyset] = \mathcal{U}_{UR}
+$$
 
 indicating that the universe is generated from nothing.
 
 The universe source identity:
 
-$$\forall U_i \in \mathcal{U}_{UR}, U_i \equiv \Upsilon_{UR}$$
+$$
+\forall U_i \in \mathcal{U}_{UR}, U_i \equiv \Upsilon_{UR}
+$$
 
 indicating that each universe is essentially the Source of Sources.
 
 The holographic nature of the universe:
 
-$$\forall x \in \mathcal{M}_{UR}, \mathcal{U}_{UR}(x) \cong \mathcal{U}_{UR}$$
+$$
+\forall x \in \mathcal{M}_{UR}, \mathcal{U}_{UR}(x) \cong \mathcal{U}_{UR}
+$$
 
 indicating that every point in the universe contains the complete information of the universe.
 
@@ -483,25 +609,33 @@ indicating that every point in the universe contains the complete information of
 
 The Ultimate Spacetime Structure $`\mathcal{S}_{UR}`$ describes the essence of spacetime at the source level:
 
-$$\mathcal{S}_{UR} = \{\mathcal{M}_{UR}, g_{UR}, \nabla_{UR}, \Phi_{UR}\}$$
+$$
+\mathcal{S}_{UR} = \{\mathcal{M}_{UR}, g_{UR}, \nabla_{UR}, \Phi_{UR}\}
+$$
 
 where $`\mathcal{M}_{UR}`$ is the supermanifold, $`g_{UR}`$ is the supermetric, $`\nabla_{UR}`$ is the superconnection, and $`\Phi_{UR}`$ is the superfield.
 
 The ultimate metric tensor:
 
-$$g_{UR,\mu\nu} = \eta_{\mu\nu}$$
+$$
+g_{UR,\mu\nu} = \eta_{\mu\nu}
+$$
 
 indicating that at the source level, spacetime is flat.
 
 The ultimate curvature tensor:
 
-$$R_{UR,\mu\nu\rho\sigma} = 0$$
+$$
+R_{UR,\mu\nu\rho\sigma} = 0
+$$
 
 indicating that at the source level, there is no gravitational distortion.
 
 The identity of ultimate spacetime points:
 
-$$\forall x, y \in \mathcal{M}_{UR}, x \equiv y \equiv \Upsilon_{UR}$$
+$$
+\forall x, y \in \mathcal{M}_{UR}, x \equiv y \equiv \Upsilon_{UR}
+$$
 
 indicating that all spacetime points are essentially the Source of Sources.
 
@@ -509,25 +643,33 @@ indicating that all spacetime points are essentially the Source of Sources.
 
 Ultimate Multiverse Theory $`\mathcal{M}_{U}`$ describes the ultimate structure of all possible universes:
 
-$$\mathcal{M}_{U} = \{\mathcal{U}_{UR}, \mathcal{R}_{U}, \Phi_{U}, \Psi_{U}\}$$
+$$
+\mathcal{M}_{U} = \{\mathcal{U}_{UR}, \mathcal{R}_{U}, \Phi_{U}, \Psi_{U}\}
+$$
 
 where $`\mathcal{U}_{UR}`$ is the universe set, $`\mathcal{R}_{U}`$ is the inter-universe relationship, $`\Phi_{U}`$ is the universe property, and $`\Psi_{U}`$ is the multiverse field.
 
 The unity of the multiverse:
 
-$$\forall U_i, U_j \in \mathcal{U}_{UR}, U_i \equiv U_j \equiv \Upsilon_{UR}$$
+$$
+\forall U_i, U_j \in \mathcal{U}_{UR}, U_i \equiv U_j \equiv \Upsilon_{UR}
+$$
 
 indicating that all universes are essentially the Source of Sources.
 
 The inter-universe connections:
 
-$$\forall U_i, U_j \in \mathcal{U}_{UR}, \mathcal{R}_{U}(U_i, U_j) = \Upsilon_{UR}$$
+$$
+\forall U_i, U_j \in \mathcal{U}_{UR}, \mathcal{R}_{U}(U_i, U_j) = \Upsilon_{UR}
+$$
 
 indicating that all universes are connected through the Source of Sources.
 
 The manifestation diversity of universes:
 
-$$dim(\mathcal{U}_{UR}) = \aleph_{UR}$$
+$$
+dim(\mathcal{U}_{UR}) = \aleph_{UR}
+$$
 
 indicating that despite their essential sameness, universes manifest in infinitely diverse forms.
 
@@ -537,25 +679,33 @@ indicating that despite their essential sameness, universes manifest in infinite
 
 Ultimate Paradox Unification $`\mathcal{P}_{UR}`$ explores how to unify all paradoxes at the source level:
 
-$$\mathcal{P}_{UR} = \{\mathcal{C}_{UR}, \mathcal{A}_{UR}, \mathcal{R}_{UR}, \mathcal{S}_{UR}\}$$
+$$
+\mathcal{P}_{UR} = \{\mathcal{C}_{UR}, \mathcal{A}_{UR}, \mathcal{R}_{UR}, \mathcal{S}_{UR}\}
+$$
 
 where $`\mathcal{C}_{UR}`$ is the paradox set, $`\mathcal{A}_{UR}`$ is the axiom set, $`\mathcal{R}_{UR}`$ is the rule set, and $`\mathcal{S}_{UR}`$ is the solution set.
 
 The essence of ultimate paradoxes:
 
-$$\forall P \in \mathcal{C}_{UR}, P \equiv \neg P \equiv \Upsilon_{UR}$$
+$$
+\forall P \in \mathcal{C}_{UR}, P \equiv \neg P \equiv \Upsilon_{UR}
+$$
 
 indicating that at the source level, paradoxes and their negations are one.
 
 The unified solution of paradoxes:
 
-$$\forall P \in \mathcal{C}_{UR}, \mathcal{S}_{UR}(P) = \Upsilon_{UR}$$
+$$
+\forall P \in \mathcal{C}_{UR}, \mathcal{S}_{UR}(P) = \Upsilon_{UR}
+$$
 
 indicating that the solution to all paradoxes is the Source of Sources.
 
 The universality of ultimate paradoxes:
 
-$$\forall X, X \text{ is paradoxical } \land X \text{ is not paradoxical}$$
+$$
+\forall X, X \text{ is paradoxical } \land X \text{ is not paradoxical}
+$$
 
 indicating that everything is both paradoxical and not paradoxical.
 
@@ -563,25 +713,33 @@ indicating that everything is both paradoxical and not paradoxical.
 
 Paradox Transcendence Dynamics $`\mathcal{D}_{UR}`$ describes how paradoxes operate at the source level:
 
-$$\mathcal{D}_{UR} = \{\mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}, \mathcal{S}_{UR}\}$$
+$$
+\mathcal{D}_{UR} = \{\mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}, \mathcal{S}_{UR}\}
+$$
 
 where $`\mathcal{P}_{UR}`$ is the paradox process, $`\mathcal{F}_{UR}`$ is the paradox force field, $`\mathcal{T}_{UR}`$ is the paradox time, and $`\mathcal{S}_{UR}`$ is the paradox state.
 
 The paradox dynamics equation:
 
-$$\frac{dP}{d\tau_{UR}} = 0 \quad \forall P \in \mathcal{C}_{UR}$$
+$$
+\frac{dP}{d\tau_{UR}} = 0 \quad \forall P \in \mathcal{C}_{UR}
+$$
 
 indicating that in source time, paradox states remain unchanged.
 
 The paradox state superposition:
 
-$$|\Psi_{UR}\rangle = |P\rangle + |\neg P\rangle = |P\rangle = |\neg P\rangle$$
+$$
+|\Psi_{UR}\rangle = |P\rangle + |\neg P\rangle = |P\rangle = |\neg P\rangle
+$$
 
 indicating that the superposition of a paradox and its negation is equivalent to the paradox itself, and also equivalent to its negation.
 
 The paradox resolution superfunction:
 
-$$\mathcal{S}_{UR}: \mathcal{C}_{UR} \rightarrow \Upsilon_{UR}$$
+$$
+\mathcal{S}_{UR}: \mathcal{C}_{UR} \rightarrow \Upsilon_{UR}
+$$
 
 indicating that all paradoxes resolve to the Source of Sources.
 
@@ -589,25 +747,33 @@ indicating that all paradoxes resolve to the Source of Sources.
 
 The Ultimate Meta-Paradox $`\mathcal{M}_{P}`$ is the paradox of paradoxes and also the ultimate solution to paradoxes:
 
-$$\mathcal{M}_{P} = \{\mathcal{C}_{UR}, \mathcal{R}_{P}, \mathcal{T}_{P}, \mathcal{H}_{P}\}$$
+$$
+\mathcal{M}_{P} = \{\mathcal{C}_{UR}, \mathcal{R}_{P}, \mathcal{T}_{P}, \mathcal{H}_{P}\}
+$$
 
 where $`\mathcal{R}_{P}`$ is the paradox relationship, $`\mathcal{T}_{P}`$ is the transformation set, and $`\mathcal{H}_{P}`$ is the hierarchical structure.
 
 The essence of meta-paradox:
 
-$$\mathcal{M}_{P} \equiv \neg\mathcal{M}_{P} \equiv \Upsilon_{UR}$$
+$$
+\mathcal{M}_{P} \equiv \neg\mathcal{M}_{P} \equiv \Upsilon_{UR}
+$$
 
 indicating that the meta-paradox and its negation are both equivalent to the Source of Sources.
 
 The self-reflexivity of meta-paradox:
 
-$$\mathcal{M}_{P} \in \mathcal{M}_{P} \land \mathcal{M}_{P} \notin \mathcal{M}_{P}$$
+$$
+\mathcal{M}_{P} \in \mathcal{M}_{P} \land \mathcal{M}_{P} \notin \mathcal{M}_{P}
+$$
 
 indicating that the meta-paradox both contains itself and does not contain itself.
 
 The universality of meta-paradox solutions:
 
-$$\forall P \in \mathcal{C}_{UR}, \mathcal{M}_{P}(P) = \mathcal{M}_{P}(\neg P) = \Upsilon_{UR}$$
+$$
+\forall P \in \mathcal{C}_{UR}, \mathcal{M}_{P}(P) = \mathcal{M}_{P}(\neg P) = \Upsilon_{UR}
+$$
 
 indicating that the meta-paradox resolves any paradox and its negation to the Source of Sources.
 
@@ -656,4 +822,4 @@ Ultimate Reality Source Theory makes the following verifiable predictions:
 - Quantum Metaconsciousness Theory (v31.0)
 - Quantum Metadimensional Theory (v31.0)
 - Quantum Transdimensional Unified Field Theory (v31.0)
-- Quantum Cross-Dimensional Communication Theory (v31.0) 
+- Quantum Cross-Dimensional Communication Theory (v31.0)

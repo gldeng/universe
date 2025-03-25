@@ -150,4 +150,4 @@ Saint Augustine's ideas shaped Western Christian theology, especially Catholic a
 
 > "时间是什么？如果没有人问我，我知道；如果有人问我，要我解释，我就不知道了。" ——《忏悔录》
 >
-> "What then is time? If no one asks me, I know; if I want to explain it to someone who does ask me, I don't know." —Confessions 
+> "What then is time? If no one asks me, I know; if I want to explain it to someone who does ask me, I don't know." —Confessions

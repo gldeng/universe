@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1918年7月18日 - 2013年12月5日  
-**国籍 (Nationality)**: 南非 (South African)  
-**领域 (Fields)**: 政治领袖、人权活动家、法律、解放运动  
+**生平 (Life Span)**: 1918年7月18日 - 2013年12月5日
+**国籍 (Nationality)**: 南非 (South African)
+**领域 (Fields)**: 政治领袖、人权活动家、法律、解放运动
 **代表作品 (Representative Works)**: 《漫漫自由路》(Long Walk to Freedom)自传、"我已准备好去死"法庭陈词
 
 ## 核心思想 (Core Ideas)
@@ -148,25 +148,25 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我不是圣人，除非你将圣人定义为一个罪人，他不断努力改进。"
-> 
+>
 > "I am not a saint, unless you think of a saint as a sinner who keeps on trying."
 
 > "在我走出监狱的那一刻，我已经明白，若我不能把仇恨和怨恨留在身后，那么我依然是囚徒。"
-> 
+>
 > "As I walked out the door toward the gate that would lead to my freedom, I knew if I didn't leave my bitterness and hatred behind, I'd still be in prison."
 
 > "没有人生来就憎恨另一个人，人们必须学习恨。如果他们能够学会恨，他们就能够学会爱，因为爱比恨更自然地来到人的心里。"
-> 
+>
 > "No one is born hating another person because of the color of his skin, or his background, or his religion. People must learn to hate, and if they can learn to hate, they can be taught to love, for love comes more naturally to the human heart than its opposite."
 
 > "我始终相信，真正的英雄不是那些取得胜利的人，而是那些面对艰难困境、坚定前行不改变信念的人，即使面对最劣势和最具挑战性的环境也不动摇。"
-> 
+>
 > "I have always believed that real heroes aren't those who achieve victories, but those who persevere in the face of difficult challenges, unwavering in their belief even in the most disadvantageous and challenging environments."
 
 > "似乎总是不可能，直到它被完成。"
-> 
+>
 > "It always seems impossible until it's done."
 
 > "教育是改变世界的最强大武器。"
-> 
-> "Education is the most powerful weapon which you can use to change the world." 
+>
+> "Education is the most powerful weapon which you can use to change the world."

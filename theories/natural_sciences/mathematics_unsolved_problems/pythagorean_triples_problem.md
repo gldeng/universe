@@ -61,18 +61,18 @@ Here we provide a rigorous mathematical proof based on the ZFC axiom system, dem
 
 ### 定义与公理基础 | Definitions and Axiomatic Foundations
 
-**定义1 (勾股数三元组)**: 
+**定义1 (勾股数三元组)**:
 $`\text{PT} = \{(a,b,c) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ : a^2 + b^2 = c^2\}`$
 
-**定义2 (差为1的勾股数三元组)**: 
+**定义2 (差为1的勾股数三元组)**:
 $`\text{PT}_1 = \{(a,b,c) \in \text{PT} : |a-b| = 1\}`$
 
 **定义3 (佩尔方程)**: 对于任意非零平方整数 $`d`$，形如 $`x^2 - dy^2 = 1`$ 的方程被称为佩尔方程。
 
-**Definition 1 (Pythagorean Triple)**: 
+**Definition 1 (Pythagorean Triple)**:
 $`\text{PT} = \{(a,b,c) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ : a^2 + b^2 = c^2\}`$
 
-**Definition 2 (Pythagorean Triple with Consecutive Legs)**: 
+**Definition 2 (Pythagorean Triple with Consecutive Legs)**:
 $`\text{PT}_1 = \{(a,b,c) \in \text{PT} : |a-b| = 1\}`$
 
 **Definition 3 (Pell Equation)**: For any non-square positive integer $`d`$, an equation of the form $`x^2 - dy^2 = 1`$ is called a Pell equation.
@@ -91,37 +91,63 @@ $`\text{PT}_1 = \{(a,b,c) \in \text{PT} : |a-b| = 1\}`$
 
 考虑 $`a = n`$, $`b = n+1`$ 的情况（$`a = n+1`$, $`b = n`$ 的情况通过对称性也成立）。勾股定理要求：
 
-$$n^2 + (n+1)^2 = c^2$$
+$$
+n^2 + (n+1)^2 = c^2
+$$
 
 展开得：
 
-$$n^2 + n^2 + 2n + 1 = c^2$$
-$$2n^2 + 2n + 1 = c^2$$
+$$
+n^2 + n^2 + 2n + 1 = c^2
+$$
+
+$$
+2n^2 + 2n + 1 = c^2
+$$
 
 **步骤2**: 转化为标准形式的佩尔方程变种
 
 设 $`c = 2m + 1`$（必须为奇数，因为 $`2n^2 + 2n + 1`$ 总是奇数）。代入上式：
 
-$$2n^2 + 2n + 1 = (2m+1)^2 = 4m^2 + 4m + 1$$
+$$
+2n^2 + 2n + 1 = (2m+1)^2 = 4m^2 + 4m + 1
+$$
 
 整理得：
 
-$$2n^2 + 2n = 4m^2 + 4m$$
-$$n^2 + n = 2m^2 + 2m$$
-$$n^2 + n - 2m^2 - 2m = 0$$
+$$
+2n^2 + 2n = 4m^2 + 4m
+$$
+
+$$
+n^2 + n = 2m^2 + 2m
+$$
+
+$$
+n^2 + n - 2m^2 - 2m = 0
+$$
 
 完全平方公式变形：
 
-$$(n + \frac{1}{2})^2 - \frac{1}{4} - 2(m + \frac{1}{2})^2 + \frac{1}{2} = 0$$
-$$(n + \frac{1}{2})^2 - 2(m + \frac{1}{2})^2 = -\frac{1}{4}$$
+$$
+(n + \frac{1}{2})^2 - \frac{1}{4} - 2(m + \frac{1}{2})^2 + \frac{1}{2} = 0
+$$
+
+$$
+(n + \frac{1}{2})^2 - 2(m + \frac{1}{2})^2 = -\frac{1}{4}
+$$
 
 乘以4得：
 
-$$(2n + 1)^2 - 2(2m + 1)^2 = -1$$
+$$
+(2n + 1)^2 - 2(2m + 1)^2 = -1
+$$
 
 令 $`x = 2n + 1`$, $`y = 2m + 1`$，得到：
 
-$$x^2 - 2y^2 = -1 \tag{1}$$
+$$
+x^2 - 2y^2 = -1 \tag{1}
+$$
 
 这是一个佩尔方程的变种。
 
@@ -137,7 +163,7 @@ $$x^2 - 2y^2 = -1 \tag{1}$$
 
 $$\begin{align}
 x_{n+1} &= 3x_n + 4y_n \\
-y_{n+1} &= 2x_n + 3y_n 
+y_{n+1} &= 2x_n + 3y_n
 \end{align}$$
 
 使用归纳法证明每个$`(x_n, y_n)`$都是方程(1)的解：
@@ -163,11 +189,15 @@ x_{k+1}^2 - 2y_{k+1}^2 &= (3x_k + 4y_k)^2 - 2(2x_k + 3y_k)^2 \\
 
 对于每个解$`(x, y)`$，我们可以还原得到：
 
-$$n = \frac{x-1}{2}, \quad m = \frac{y-1}{2}$$
+$$
+n = \frac{x-1}{2}, \quad m = \frac{y-1}{2}
+$$
 
 然后构造勾股数三元组：
 
-$$a = n, \quad b = n+1, \quad c = 2m+1 = y$$
+$$
+a = n, \quad b = n+1, \quad c = 2m+1 = y
+$$
 
 验证这确实是勾股数三元组：
 
@@ -181,7 +211,9 @@ a^2 + b^2 &= n^2 + (n+1)^2 \\
 
 由方程 $`n^2 + n = 2m^2 + 2m`$ 可得 $`2n^2 + 2n = 4m^2 + 4m`$，因此：
 
-$$c^2 = 2n^2 + 2n + 1 = a^2 + b^2$$
+$$
+c^2 = 2n^2 + 2n + 1 = a^2 + b^2
+$$
 
 由于我们已经证明方程(1)有无穷多个解$`(x_n, y_n)`$，且这些解导出无穷多个不同的勾股数三元组，因此$`\text{PT}_1`$是无限集合。
 
@@ -195,37 +227,63 @@ We prove that $`\text{PT}_1`$ contains infinitely many elements through construc
 
 Consider the case where $`a = n`$, $`b = n+1`$ (the case $`a = n+1`$, $`b = n`$ follows by symmetry). The Pythagorean theorem requires:
 
-$$n^2 + (n+1)^2 = c^2$$
+$$
+n^2 + (n+1)^2 = c^2
+$$
 
 Expanding:
 
-$$n^2 + n^2 + 2n + 1 = c^2$$
-$$2n^2 + 2n + 1 = c^2$$
+$$
+n^2 + n^2 + 2n + 1 = c^2
+$$
+
+$$
+2n^2 + 2n + 1 = c^2
+$$
 
 **Step 2**: Transform into a variant of the standard Pell equation
 
 Let $`c = 2m + 1`$ (must be odd since $`2n^2 + 2n + 1`$ is always odd). Substituting:
 
-$$2n^2 + 2n + 1 = (2m+1)^2 = 4m^2 + 4m + 1$$
+$$
+2n^2 + 2n + 1 = (2m+1)^2 = 4m^2 + 4m + 1
+$$
 
 Rearranging:
 
-$$2n^2 + 2n = 4m^2 + 4m$$
-$$n^2 + n = 2m^2 + 2m$$
-$$n^2 + n - 2m^2 - 2m = 0$$
+$$
+2n^2 + 2n = 4m^2 + 4m
+$$
+
+$$
+n^2 + n = 2m^2 + 2m
+$$
+
+$$
+n^2 + n - 2m^2 - 2m = 0
+$$
 
 Completing the square:
 
-$$(n + \frac{1}{2})^2 - \frac{1}{4} - 2(m + \frac{1}{2})^2 + \frac{1}{2} = 0$$
-$$(n + \frac{1}{2})^2 - 2(m + \frac{1}{2})^2 = -\frac{1}{4}$$
+$$
+(n + \frac{1}{2})^2 - \frac{1}{4} - 2(m + \frac{1}{2})^2 + \frac{1}{2} = 0
+$$
+
+$$
+(n + \frac{1}{2})^2 - 2(m + \frac{1}{2})^2 = -\frac{1}{4}
+$$
 
 Multiplying by 4:
 
-$$(2n + 1)^2 - 2(2m + 1)^2 = -1$$
+$$
+(2n + 1)^2 - 2(2m + 1)^2 = -1
+$$
 
 Setting $`x = 2n + 1`$, $`y = 2m + 1`$, we get:
 
-$$x^2 - 2y^2 = -1 \tag{1}$$
+$$
+x^2 - 2y^2 = -1 \tag{1}
+$$
 
 This is a variant of Pell's equation.
 
@@ -241,7 +299,7 @@ We define the recursive relation (verifiable through algebra):
 
 $$\begin{align}
 x_{n+1} &= 3x_n + 4y_n \\
-y_{n+1} &= 2x_n + 3y_n 
+y_{n+1} &= 2x_n + 3y_n
 \end{align}$$
 
 Using induction, we prove that each $`(x_n, y_n)`$ is a solution to equation (1):
@@ -267,11 +325,15 @@ Therefore, each pair $`(x_n, y_n)`$ is a solution to equation (1), and the recur
 
 For each solution $`(x, y)`$, we can recover:
 
-$$n = \frac{x-1}{2}, \quad m = \frac{y-1}{2}$$
+$$
+n = \frac{x-1}{2}, \quad m = \frac{y-1}{2}
+$$
 
 Then construct the Pythagorean triple:
 
-$$a = n, \quad b = n+1, \quad c = 2m+1 = y$$
+$$
+a = n, \quad b = n+1, \quad c = 2m+1 = y
+$$
 
 Verifying this is indeed a Pythagorean triple:
 
@@ -285,7 +347,9 @@ And $`c^2 = y^2 = (2m+1)^2 = 4m^2 + 4m + 1 = 2(2m^2 + 2m) + 1`$
 
 From the equation $`n^2 + n = 2m^2 + 2m`$ we get $`2n^2 + 2n = 4m^2 + 4m`$, therefore:
 
-$$c^2 = 2n^2 + 2n + 1 = a^2 + b^2$$
+$$
+c^2 = 2n^2 + 2n + 1 = a^2 + b^2
+$$
 
 Since we have proven that equation (1) has infinitely many solutions $`(x_n, y_n)`$, and these solutions yield infinitely many distinct Pythagorean triples, $`\text{PT}_1`$ is an infinite set.
 
@@ -350,8 +414,8 @@ These predictions further support the interpretative framework of quantum-classi
 1. Dickson, L. E. (2013). History of the theory of numbers (Vol. 2). Courier Corporation.
 2. Sierpiński, W. (2003). Pythagorean triangles. Courier Corporation.
 3. Fermát, P. (1670). Observations sur Diophante.
-4. 量子经典二元论核心理论文献 [29.0]. 
+4. 量子经典二元论核心理论文献 [29.0].
 5. Cohen, P. J. (1966). Set Theory and the Continuum Hypothesis. W. A. Benjamin, Inc.
 6. Jech, T. (2003). Set Theory: The Third Millennium Edition, Revised and Expanded. Springer.
 7. Mordell, L. J. (1969). Diophantine Equations. Academic Press.
-8. Zagier, D. (1990). A one-sentence proof that every prime $`p \equiv 1 \pmod 4`$ is a sum of two squares. The American Mathematical Monthly, 97(2), 144. 
+8. Zagier, D. (1990). A one-sentence proof that every prime $`p \equiv 1 \pmod 4`$ is a sum of two squares. The American Mathematical Monthly, 97(2), 144.

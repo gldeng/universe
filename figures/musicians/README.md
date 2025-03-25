@@ -1,7 +1,7 @@
 # 音乐家作品量子经典二元论解析
 # Musicians' Works Analysis Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
+**导航 | Navigation**
 [中文版](#中文版) | [English Version](#english-version)
 
 ## 中文版
@@ -86,4 +86,4 @@ The analysis of each musician's works follows this framework:
 
 Quantum-Classical Dualism is a cosmic classical dualism that believes the universe consists of quantum and classical domains. The quantum domain is full of infinite possibilities but difficult to observe directly, while the classical domain is the deterministic world we perceive daily. The two are interconnected and transformed through the observer's consciousness, forming the basic laws of the universe's operation.
 
-In artistic analysis, Quantum-Classical Dualism provides a unique perspective, helping us understand how creators classicalize infinite possibilities from generalized consciousness (quantum domain) into specific artistic expressions (classical domain), and how this process affects the audience's perception and experience. 
+In artistic analysis, Quantum-Classical Dualism provides a unique perspective, helping us understand how creators classicalize infinite possibilities from generalized consciousness (quantum domain) into specific artistic expressions (classical domain), and how this process affects the audience's perception and experience.

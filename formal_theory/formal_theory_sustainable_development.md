@@ -14,7 +14,9 @@
 
 可持续性可被理解为一个量子-经典双重系统：
 
-$$\mathcal{S} = \{\Omega_Q^{生态}, \Omega_C^{人类}, \mathcal{I}_{可持续}\}$$
+$$
+\mathcal{S} = \{\Omega_Q^{生态}, \Omega_C^{人类}, \mathcal{I}_{可持续}\}
+$$
 
 其中：
 - $`\Omega_Q^{生态}`$ 表示具有量子特性的生态系统（多重可能性、涌现性、非线性动力学）
@@ -23,7 +25,9 @@ $$\mathcal{S} = \{\Omega_Q^{生态}, \Omega_C^{人类}, \mathcal{I}_{可持续}\
 
 可持续性平衡可表示为：
 
-$$B_{可持续} = \frac{\Phi(\Omega_Q^{生态})}{\Psi(\Omega_C^{人类})} \approx \kappa$$
+$$
+B_{可持续} = \frac{\Phi(\Omega_Q^{生态})}{\Psi(\Omega_C^{人类})} \approx \kappa
+$$
 
 其中 $`\kappa`$ 是最优平衡常数，$`\Phi`$ 和 $`\Psi`$ 是各域的健康度量函数。
 
@@ -32,20 +36,34 @@ $$B_{可持续} = \frac{\Phi(\Omega_Q^{生态})}{\Psi(\Omega_C^{人类})} \appro
 生态系统表现出显著的量子域特性：
 
 1. **叠加态动力学**：生态系统同时存在于多种潜在状态的叠加中
-   $$|\Psi_{生态}\rangle = \sum_i c_i |状态_i\rangle, \quad \sum_i |c_i|^2 = 1$$
+
+$$
+|\Psi_{生态}\rangle = \sum_i c_i |状态_i\rangle, \quad \sum_i |c_i|^2 = 1
+$$
 
 2. **非局域纠缠关系**：生物元素间存在超越空间限制的关联
-   $$\rho_{AB} \neq \rho_A \otimes \rho_B$$
+
+$$
+\rho_{AB} \neq \rho_A \otimes \rho_B
+$$
 
 3. **测量效应**：人类干预作为"测量"改变系统状态
-   $$|\Psi_{后}\rangle = \frac{P_i|\Psi_{前}\rangle}{||P_i|\Psi_{前}\rangle||}$$
+
+$$
+|\Psi_{后}\rangle = \frac{P_i|\Psi_{前}\rangle}{||P_i|\Psi_{前}\rangle||}
+$$
 
 4. **量子涨落驱动创新**：随机变异与进化跃迁依赖量子不确定性
-   $$\Delta E \cdot \Delta t \geq \frac{\hbar}{2}$$
+
+$$
+\Delta E \cdot \Delta t \geq \frac{\hbar}{2}
+$$
 
 生态弹性可表达为量子冗余度：
 
-$$R_Q = -\log_2\left(\sum_i |c_i|^4\right)$$
+$$
+R_Q = -\log_2\left(\sum_i |c_i|^4\right)
+$$
 
 $`R_Q`$ 越高，系统越具有适应多种未来情景的能力。
 
@@ -54,20 +72,34 @@ $`R_Q`$ 越高，系统越具有适应多种未来情景的能力。
 人类社会经济系统表现为经典域特性：
 
 1. **确定性规划**：基于可预测模型的线性决策过程
-   $$D(t) = f(I_t, I_{t-1}, ..., I_{t-n})$$
+
+$$
+D(t) = f(I_t, I_{t-1}, ..., I_{t-n})
+$$
 
 2. **局域因果链**：行动与结果间存在明确的线性关系
-   $$R_t = \sum_i \alpha_i A_{t-i}$$
+
+$$
+R_t = \sum_i \alpha_i A_{t-i}
+$$
 
 3. **熵增机制**：系统趋向最大熵状态，需要能量维持秩序
-   $$\frac{dS}{dt} \geq 0$$
+
+$$
+\frac{dS}{dt} \geq 0
+$$
 
 4. **结构保持性**：制度和基础设施表现高度惯性
-   $$\tau_{变化} \propto \frac{M_{系统}}{F_{驱动}}$$
+
+$$
+\tau_{变化} \propto \frac{M_{系统}}{F_{驱动}}
+$$
 
 经典系统稳定性与信息量关系：
 
-$$S_C = \frac{I_{经典知识}}{E_{环境变化}}$$
+$$
+S_C = \frac{I_{经典知识}}{E_{环境变化}}
+$$
 
 其中 $`I_{经典知识}`$ 是系统积累的确定性知识，$`E_{环境变化}`$ 是环境变化率。
 
@@ -75,7 +107,9 @@ $$S_C = \frac{I_{经典知识}}{E_{环境变化}}$$
 
 可持续发展可理解为量子可能性与经典确定性间的最优转换：
 
-$$\mathcal{SD} = \mathcal{O}_{\text{人类}} \circ \mathcal{T}_{\text{界面}} \circ \mathcal{P}_{\text{生态}}$$
+$$
+\mathcal{SD} = \mathcal{O}_{\text{人类}} \circ \mathcal{T}_{\text{界面}} \circ \mathcal{P}_{\text{生态}}
+$$
 
 其中：
 - $`\mathcal{P}_{\text{生态}}`$ 是生态系统生成量子可能性的算符
@@ -84,7 +118,9 @@ $$\mathcal{SD} = \mathcal{O}_{\text{人类}} \circ \mathcal{T}_{\text{界面}} \
 
 可持续转换效率由信息保存度决定：
 
-$$\eta_{可持续} = \frac{I_{转换后}}{I_{转换前}} = 1 - \frac{I_{损失}}{I_{总量}}$$
+$$
+\eta_{可持续} = \frac{I_{转换后}}{I_{转换前}} = 1 - \frac{I_{损失}}{I_{总量}}
+$$
 
 最优可持续路径是量子→经典转换最大限度保留生态信息的路径。
 
@@ -108,7 +144,9 @@ $$\eta_{可持续} = \frac{I_{转换后}}{I_{转换前}} = 1 - \frac{I_{损失}}
 
 气候二元性矛盾指数：
 
-$$D_{气候} = \frac{C_{量子复杂性}}{M_{经典管理能力}}$$
+$$
+D_{气候} = \frac{C_{量子复杂性}}{M_{经典管理能力}}
+$$
 
 其中 $`D_{气候} > 1`$ 表示系统处于风险状态。
 
@@ -130,7 +168,9 @@ $$D_{气候} = \frac{C_{量子复杂性}}{M_{经典管理能力}}$$
 
 循环度测量：
 
-$$C_e = 1 - \frac{M_{废弃}}{M_{总量}} \cdot \frac{I_{废弃}}{I_{原始}}$$
+$$
+C_e = 1 - \frac{M_{废弃}}{M_{总量}} \cdot \frac{I_{废弃}}{I_{原始}}
+$$
 
 其中 $`M`$ 代表物质量，$`I`$ 代表信息含量。
 
@@ -152,7 +192,9 @@ $$C_e = 1 - \frac{M_{废弃}}{M_{总量}} \cdot \frac{I_{废弃}}{I_{原始}}$$
 
 生物多样性信息价值方程：
 
-$$V_{信息} = H_{多样性} \cdot R_{冗余度} \cdot N_{网络连接度} \cdot F_{功能多样性}$$
+$$
+V_{信息} = H_{多样性} \cdot R_{冗余度} \cdot N_{网络连接度} \cdot F_{功能多样性}
+$$
 
 ### 4. 技术创新与社会转型
 
@@ -172,7 +214,9 @@ $$V_{信息} = H_{多样性} \cdot R_{冗余度} \cdot N_{网络连接度} \cdot
 
 创新的量子-经典转换动力学：
 
-$$I(t) = I_0 + \alpha\sum_{i=1}^{n}Q_i(t) \cdot (1 - e^{-\beta C_i(t)})$$
+$$
+I(t) = I_0 + \alpha\sum_{i=1}^{n}Q_i(t) \cdot (1 - e^{-\beta C_i(t)})
+$$
 
 其中 $`Q_i(t)`$ 是量子创新因素，$`C_i(t)`$ 是经典实现因素。
 
@@ -183,16 +227,28 @@ $$I(t) = I_0 + \alpha\sum_{i=1}^{n}Q_i(t) \cdot (1 - e^{-\beta C_i(t)})$$
 促进人类-自然系统同步进化的策略：
 
 1. **量子感知系统**：增强对生态系统量子特性的感知能力
-   $$S_{感知} = \sum_i w_i \cdot s_i$$
+
+$$
+S_{感知} = \sum_i w_i \cdot s_i
+$$
 
 2. **双向信息流**：优化人类-生态系统间的信息交换
-   $$I_{流动} = I_{人类→生态} + I_{生态→人类}$$
+
+$$
+I_{流动} = I_{人类→生态} + I_{生态→人类}
+$$
 
 3. **适应性管理**：将管理方法与生态动态特性对齐
-   $$A_M = \frac{响应速度}{变化速度} \cdot \frac{行动多样性}{变化多样性}$$
+
+$$
+A_M = \frac{响应速度}{变化速度} \cdot \frac{行动多样性}{变化多样性}
+$$
 
 4. **共演化制度**：设计与生态系统共同进化的制度
-   $$E_{共演化} = \min\{R_{制度}, R_{生态}\}$$
+
+$$
+E_{共演化} = \min\{R_{制度}, R_{生态}\}
+$$
 
 其中 $`R`$ 表示各系统的演化响应率。
 
@@ -201,20 +257,34 @@ $$I(t) = I_0 + \alpha\sum_{i=1}^{n}Q_i(t) \cdot (1 - e^{-\beta C_i(t)})$$
 整合量子与经典决策方法的框架：
 
 1. **量子可能性映射**：绘制决策空间中的量子可能性地图
-   $$M_Q = \{(s_i, p_i, v_i) | i = 1,2,...,n\}$$
+
+$$
+M_Q = \{(s_i, p_i, v_i) | i = 1,2,...,n\}
+$$
 
 2. **经典稳定性核心**：确定高确定性的核心行动集合
-   $$C_s = \{a_j | P(成功|a_j) > \theta, \forall j\}$$
+
+$$
+C_s = \{a_j | P(成功|a_j) > \theta, \forall j\}
+$$
 
 3. **适应性路径设计**：创建含触发点的弹性决策树
-   $$T_{决策} = (V_{节点}, E_{路径}, S_{触发器})$$
+
+$$
+T_{决策} = (V_{节点}, E_{路径}, S_{触发器})
+$$
 
 4. **复合价值评估**：整合多维度价值的评估体系
-   $$V_{总体} = \sum_k \omega_k \cdot V_k(a)$$
+
+$$
+V_{总体} = \sum_k \omega_k \cdot V_k(a)
+$$
 
 量子-经典决策优势：
 
-$$A_{决策} = \alpha \cdot R_{鲁棒性} + \beta \cdot F_{灵活性} + \gamma \cdot I_{创新性} + \delta \cdot S_{可持续性}$$
+$$
+A_{决策} = \alpha \cdot R_{鲁棒性} + \beta \cdot F_{灵活性} + \gamma \cdot I_{创新性} + \delta \cdot S_{可持续性}
+$$
 
 ### 3. 再生设计原则
 
@@ -240,7 +310,9 @@ $$A_{决策} = \alpha \cdot R_{鲁棒性} + \beta \cdot F_{灵活性} + \gamma \
 
 再生设计方程：
 
-$$R_{设计} = \frac{系统正面贡献}{系统负面影响} > 1$$
+$$
+R_{设计} = \frac{系统正面贡献}{系统负面影响} > 1
+$$
 
 ### 4. 量子-经典教育与意识转变
 
@@ -265,7 +337,9 @@ $$R_{设计} = \frac{系统正面贡献}{系统负面影响} > 1$$
 
 教育转型效率：
 
-$$E_{教育} = \frac{Q_C能力}{传统能力} \cdot \frac{适应复杂度}{系统复杂度}$$
+$$
+E_{教育} = \frac{Q_C能力}{传统能力} \cdot \frac{适应复杂度}{系统复杂度}
+$$
 
 ## 实施与转型路径
 
@@ -293,7 +367,9 @@ $$E_{教育} = \frac{Q_C能力}{传统能力} \cdot \frac{适应复杂度}{系�
 
 转型协同指数：
 
-$$T_C = \prod_{i=1}^3 (1 + \alpha_i \cdot A_i) \cdot (1 - \beta_i \cdot B_i)$$
+$$
+T_C = \prod_{i=1}^3 (1 + \alpha_i \cdot A_i) \cdot (1 - \beta_i \cdot B_i)
+$$
 
 其中 $`A_i`$ 是促进因素，$`B_i`$ 是阻碍因素。
 
@@ -315,7 +391,9 @@ $$T_C = \prod_{i=1}^3 (1 + \alpha_i \cdot A_i) \cdot (1 - \beta_i \cdot B_i)$$
 
 3. **整合测量框架**：
 
-$$P_{综合} = \omega_C \cdot \sum_i v_i^C P_i^C + \omega_Q \cdot \sum_j v_j^Q P_j^Q$$
+$$
+P_{综合} = \omega_C \cdot \sum_i v_i^C P_i^C + \omega_Q \cdot \sum_j v_j^Q P_j^Q
+$$
 
 其中 $`P_i^C`$ 是经典指标，$`P_j^Q`$ 是量子指标，$`v`$ 是权重，$`\omega`$ 是域权重。
 
@@ -343,7 +421,9 @@ $$P_{综合} = \omega_C \cdot \sum_i v_i^C P_i^C + \omega_Q \cdot \sum_j v_j^Q P
 
 协同优化函数：
 
-$$O_{协同} = f(T_{技术能力}, N_{自然完整性}, H_{人类福祉}, I_{信息交换})$$
+$$
+O_{协同} = f(T_{技术能力}, N_{自然完整性}, H_{人类福祉}, I_{信息交换})
+$$
 
 ### 4. 适应性治理模型
 
@@ -369,7 +449,9 @@ $$O_{协同} = f(T_{技术能力}, N_{自然完整性}, H_{人类福祉}, I_{信
 
 治理适应性指数：
 
-$$A_G = R_D \cdot I_P \cdot L_C \cdot F_A$$
+$$
+A_G = R_D \cdot I_P \cdot L_C \cdot F_A
+$$
 
 其中 $`R_D`$ 是响应多样性，$`I_P`$ 是信息处理能力，$`L_C`$ 是学习容量，$`F_A`$ 是前瞻适应能力。
 
@@ -400,4 +482,4 @@ $$A_G = R_D \cdot I_P \cdot L_C \cdot F_A$$
 - [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)
 - [量子社会动力学](formal_theory_social.md)
 - [量子-经典可持续发展理论 (本文件)](formal_theory_sustainable_development.md)
-- [量子-经典生态意识理论](formal_theory_ecological_consciousness.md) 
+- [量子-经典生态意识理论](formal_theory_ecological_consciousness.md)

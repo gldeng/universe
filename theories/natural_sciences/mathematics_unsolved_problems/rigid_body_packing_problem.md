@@ -252,8 +252,8 @@ Quantum-classical dualism makes the following predictions about the rigid body p
 1. Hales, T. C. (2005). A proof of the Kepler conjecture. Annals of Mathematics, 162(3), 1065-1185.
 2. Conway, J. H., & Sloane, N. J. A. (1999). Sphere packings, lattices and groups. Springer Science & Business Media.
 3. Torquato, S., & Jiao, Y. (2009). Dense packings of the Platonic and Archimedean solids. Nature, 460(7257), 876-879.
-4. 量子经典二元论核心理论文献 [29.0]. 
+4. 量子经典二元论核心理论文献 [29.0].
 5. Cohn, H., Kumar, A., Miller, S. D., Radchenko, D., & Viazovska, M. (2017). The sphere packing problem in dimension 24. Annals of Mathematics, 185(3), 1017-1033.
 6. Viazovska, M. (2017). The sphere packing problem in dimension 8. Annals of Mathematics, 185(3), 991-1015.
 7. Zong, C. (1999). Sphere packings. Springer Science & Business Media.
-8. Leech, J., & Sloane, N. J. A. (1971). Sphere packings and error-correcting codes. Canadian Journal of Mathematics, 23(4), 718-745. 
+8. Leech, J., & Sloane, N. J. A. (1971). Sphere packings and error-correcting codes. Canadian Journal of Mathematics, 23(4), 718-745.

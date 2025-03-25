@@ -39,4 +39,4 @@ Quantum-Classical Dualism (Version 28.0) provides a new perspective for solving 
 
 3. **Spacetime Structure of the Classicalization Process**: Studying how the distribution of the classicalization process in spacetime explains the violation of Bell's inequality while maintaining consistency with relativity.
 
-**Complete formal proofs and solutions are under development and will be published in future versions.** 
+**Complete formal proofs and solutions are under development and will be published in future versions.**

@@ -94,9 +94,9 @@ Albert Schweitzer, through his extensive academic contributions and humanitarian
 
 ## 经典引言 | Classic Quotes
 > "我是生命，愿意生存，在愿意生存的生命中间。"
-> 
+>
 > "I am life that wills to live, in the midst of life that wills to live."
 
 > "伦理始于我们停止蔑视其他一切，并将之视为与我们自身同样神秘与崇高的地方。"
-> 
-> "Ethics begins where we cease to disregard everything else and come to regard it as equally mysterious and venerable as ourselves." 
+>
+> "Ethics begins where we cease to disregard everything else and come to regard it as equally mysterious and venerable as ourselves."

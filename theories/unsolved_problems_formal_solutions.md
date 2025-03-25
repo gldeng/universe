@@ -33,19 +33,27 @@
 
 量子经典二元论框架下的基础公式：
 
-$$|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1$$
+$$
+|\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+$$
 
 经典化过程表达式：
 
-$$|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}$$
+$$
+|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
+$$
 
 经典信息守恒公式：
 
-$$I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}$$
+$$
+I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
+$$
 
 观察者维度公式：
 
-$$\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+$$
+\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
+$$
 
 得益于量子经典二元论（版本28.0）的框架，这些历史性难题获得了统一的数学形式化解决。这些解决方案充分展示了量子域(无限可能)与经典域(现实确定)的二元相互作用。请查看各个详细文件以获取完整证明和应用。
 
@@ -77,18 +85,26 @@ This document provides an overview of formalized solutions to humanity's most im
 
 Fundamental formulas within the Quantum-Classical Dualism framework:
 
-$$|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1$$
+$$
+|\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
+$$
 
 Classicalization process expression:
 
-$$|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Decoding}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}$$
+$$
+|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization Decoding}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
+$$
 
 Classical information conservation formula:
 
-$$I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}$$
+$$
+I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant}
+$$
 
 Observer dimension formula:
 
-$$\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}$$
+$$
+\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
+$$
 
-Thanks to the Quantum-Classical Dualism framework (Version 28.0), these historical difficulties have received unified mathematical formal solutions. These solutions fully demonstrate the dual interaction between the quantum domain (infinite possibilities) and the classical domain (definite reality). Please refer to each detailed file for complete proofs and applications. 
+Thanks to the Quantum-Classical Dualism framework (Version 28.0), these historical difficulties have received unified mathematical formal solutions. These solutions fully demonstrate the dual interaction between the quantum domain (infinite possibilities) and the classical domain (definite reality). Please refer to each detailed file for complete proofs and applications.

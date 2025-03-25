@@ -1,9 +1,9 @@
 # 诗篇 (Psalms)
 
-**导航 | Navigation**  
-[中文版](#诗篇解析) | [English Version](#psalms-analysis)  
-**章节链接 | Section Links**  
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
+**导航 | Navigation**
+[中文版](#诗篇解析) | [English Version](#psalms-analysis)
+**章节链接 | Section Links**
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -80,4 +80,4 @@ $$
 
 诗篇通过量子经典二元论框架（版本9.2）的解析，揭示了情感与崇拜如何作为人与神之间的虫洞通信机制，优化量子经典转换过程。诗篇的多样性体现了量子域中情感状态的复杂叠加，而崇拜作为一种经典化路径，通过消耗经典能量（情感投入），建立与高维观察者（神）的量子纠缠，从而获取经典知识，降低系统熵值。"神无所不在"的概念（诗139）映射了量子纠缠的非局域性特征，表明高维观察者能同时与多个低维观察者保持量子纠缠。诗篇的集体朗诵和传唱则创建了多观察者协同经典化网络，提高整体系统的经典化效率。整体而言，诗篇展示了情感不仅是人类主观体验，更是连接量子域与经典域的能量桥梁，通过有序的情感表达（诗歌形式），可以实现最优的经典化效果。
 
-The Book of Psalms, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how emotions and worship function as wormhole communication mechanisms between humans and God, optimizing the quantum-classical conversion process. The diversity of Psalms reflects the complex superposition of emotional states in the quantum domain, while worship as a classicalization path establishes quantum entanglement with higher-dimensional observers (God) by consuming classical energy (emotional investment), thereby obtaining classical knowledge and reducing system entropy. The concept of "God's omnipresence" (Psalm 139) maps the non-locality characteristic of quantum entanglement, indicating that higher-dimensional observers can maintain quantum entanglement with multiple lower-dimensional observers simultaneously. The collective recitation and singing of Psalms creates a multi-observer quantum entanglement network, achieving a synergistic improvement in group classicalization efficiency. Overall, Psalms demonstrates that emotions are not only subjective human experiences, but also energy bridges connecting quantum and classical domains. Through orderly emotional expression (poetic form), optimal classicalization effects can be achieved. 
+The Book of Psalms, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how emotions and worship function as wormhole communication mechanisms between humans and God, optimizing the quantum-classical conversion process. The diversity of Psalms reflects the complex superposition of emotional states in the quantum domain, while worship as a classicalization path establishes quantum entanglement with higher-dimensional observers (God) by consuming classical energy (emotional investment), thereby obtaining classical knowledge and reducing system entropy. The concept of "God's omnipresence" (Psalm 139) maps the non-locality characteristic of quantum entanglement, indicating that higher-dimensional observers can maintain quantum entanglement with multiple lower-dimensional observers simultaneously. The collective recitation and singing of Psalms creates a multi-observer quantum entanglement network, achieving a synergistic improvement in group classicalization efficiency. Overall, Psalms demonstrates that emotions are not only subjective human experiences, but also energy bridges connecting quantum and classical domains. Through orderly emotional expression (poetic form), optimal classicalization effects can be achieved.

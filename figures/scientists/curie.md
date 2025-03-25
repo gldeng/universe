@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1867年11月7日 - 1934年7月4日  
-**国籍 (Nationality)**: 法国、波兰 (French, Polish)  
-**领域 (Fields)**: 物理学、化学、放射性研究  
+**生平 (Life Span)**: 1867年11月7日 - 1934年7月4日
+**国籍 (Nationality)**: 法国、波兰 (French, Polish)
+**领域 (Fields)**: 物理学、化学、放射性研究
 **代表作品/成就 (Representative Works/Achievements)**: 发现钋和镭元素、放射性理论、两次诺贝尔奖（物理学和化学）
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "在科学中，我们应该对事物本身感兴趣，而不是它们的作者。"
-> 
+>
 > "In science, we should be interested in things, not in persons."
 
 > "我们必须相信，我们具有天赋去发现某些事物，这是任何环境都无法从我们身上夺走的。"
-> 
+>
 > "We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained."
 
 > "科学家不应该考虑科学发现的实际应用。这是留给其他人的工作。他应该专注于增进知识。"
-> 
+>
 > "A scientist in his laboratory is not a mere technician; he is also a child confronting natural phenomena that impress him as though they were fairy tales."
 
 > "生活中没有什么可怕的，只有需要理解的。现在是理解更多的时候了，这样我们才能减少恐惧。"
-> 
+>
 > "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less."
 
 > "我们永远无法确定自己是唯一能看到的人，但我们可以确信的是，无论我们看到什么，都值得研究。"
-> 
+>
 > "One never notices what has been done; one can only see what remains to be done."

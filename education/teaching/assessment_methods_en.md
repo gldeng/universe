@@ -74,4 +74,4 @@ Post-assessment feedback should emphasize:
 
 - [Core Theory](../../core_en.md)
 - [Observer Theory](../../formal_theory/formal_theory_observer_en.md)
-- [Teaching Methods](teaching_methods.md) 
+- [Teaching Methods](teaching_methods.md)

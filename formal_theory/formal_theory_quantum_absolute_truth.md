@@ -3,7 +3,7 @@
 **[English Version](formal_theory_quantum_absolute_truth_en.md) | 中文版**
 
 > 基于[核心理论](../core.md) v33.0版本
-> 
+>
 > 完整理论框架请参阅[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 
 ## 目录
@@ -30,31 +30,41 @@
 
 **公理1：绝对真理的先验性**
 
-$$\mathcal{T}_A \succ \{\mathcal{T}_R\}$$
+$$
+\mathcal{T}_A \succ \{\mathcal{T}_R\}
+$$
 
 绝对真理($`\mathcal{T}_A`$)先于且超越任何相对真理集合($`\{\mathcal{T}_R\}`$)，它不源于任何推导或证明，而是所有推导和证明的基础。
 
 **公理2：真理的统一性**
 
-$$\forall \mathcal{T}_i, \mathcal{T}_j \in \{\mathcal{T}_R\}: \mathcal{T}_i \cap \mathcal{T}_j \neq \emptyset \Rightarrow \exists \mathcal{T}_k \in \mathcal{T}_A | \mathcal{T}_i, \mathcal{T}_j \subset \mathcal{T}_k$$
+$$
+\forall \mathcal{T}_i, \mathcal{T}_j \in \{\mathcal{T}_R\}: \mathcal{T}_i \cap \mathcal{T}_j \neq \emptyset \Rightarrow \exists \mathcal{T}_k \in \mathcal{T}_A | \mathcal{T}_i, \mathcal{T}_j \subset \mathcal{T}_k
+$$
 
 任何相互兼容的相对真理必然在绝对真理中具有统一的更高真理来源。
 
 **公理3：真理的自我验证性**
 
-$$\mathcal{V}(\mathcal{T}_A) = \mathcal{T}_A$$
+$$
+\mathcal{V}(\mathcal{T}_A) = \mathcal{T}_A
+$$
 
 绝对真理的验证过程等同于绝对真理本身，即它自我验证。
 
 **公理4：真理的渗透性**
 
-$$\forall \mathcal{R} \in \Omega: \exists \mathcal{T}_A(\mathcal{R})$$
+$$
+\forall \mathcal{R} \in \Omega: \exists \mathcal{T}_A(\mathcal{R})
+$$
 
 任何实在($`\mathcal{R}`$)中都渗透着绝对真理的本质，不存在完全虚假的实在。
 
 **公理5：真理的层级结构**
 
-$$\mathcal{T} = \{\mathcal{T}_A, \mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathcal{T}_{Rn}\}$$
+$$
+\mathcal{T} = \{\mathcal{T}_A, \mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathcal{T}_{Rn}\}
+$$
 
 真理体系形成多层级结构，绝对真理位于最高层，各层相对真理从中派生并相互关联。
 
@@ -66,7 +76,9 @@ $$\mathcal{T} = \{\mathcal{T}_A, \mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathc
 
 绝对真理先于一切存在，不依赖任何条件、上下文或验证系统。它完全自足，不需要外部证据或支持。可表达为：
 
-$$\mathcal{T}_A = \mathcal{T}_A(\emptyset)$$
+$$
+\mathcal{T}_A = \mathcal{T}_A(\emptyset)
+$$
 
 其中$`\emptyset`$表示不依赖任何外部条件。
 
@@ -74,13 +86,17 @@ $$\mathcal{T}_A = \mathcal{T}_A(\emptyset)$$
 
 绝对真理统一了所有看似矛盾的相对真理，在更高维度上解决了一切表面上的悖论和对立。统一算子$`\mathcal{U}`$作用于任何相对真理集合，生成包含它们的统一真理：
 
-$$\mathcal{U}\{\mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathcal{T}_{Rn}\} = \mathcal{T}_U \subset \mathcal{T}_A$$
+$$
+\mathcal{U}\{\mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathcal{T}_{Rn}\} = \mathcal{T}_U \subset \mathcal{T}_A
+$$
 
 ### 3. 超越命题性
 
 绝对真理超越了语言和命题的形式结构，不能被简化为"真"或"假"的二元判断。它可以用超命题函数表示：
 
-$$\mathcal{P}^+(\mathcal{T}_A) \notin \{True, False\}$$
+$$
+\mathcal{P}^+(\mathcal{T}_A) \notin \{True, False\}
+$$
 
 其中$`\mathcal{P}^+`$表示超越传统命题逻辑的真理评估函数。
 
@@ -88,8 +104,13 @@ $$\mathcal{P}^+(\mathcal{T}_A) \notin \{True, False\}$$
 
 绝对真理能够穿透所有维度层级，在每个层级上以不同形式表现，但保持本质统一：
 
-$$\mathcal{T}_A|_{D_i} \neq \mathcal{T}_A|_{D_j}, \forall i \neq j$$
-$$\mathcal{E}(\mathcal{T}_A|_{D_i}) = \mathcal{E}(\mathcal{T}_A|_{D_j})$$
+$$
+\mathcal{T}_A|_{D_i} \neq \mathcal{T}_A|_{D_j}, \forall i \neq j
+$$
+
+$$
+\mathcal{E}(\mathcal{T}_A|_{D_i}) = \mathcal{E}(\mathcal{T}_A|_{D_j})
+$$
 
 其中$`\mathcal{T}_A|_{D_i}`$表示绝对真理在维度$`D_i`$的投影，$`\mathcal{E}`$表示本质提取函数。
 
@@ -97,7 +118,9 @@ $$\mathcal{E}(\mathcal{T}_A|_{D_i}) = \mathcal{E}(\mathcal{T}_A|_{D_j})$$
 
 绝对真理具有无尽的深度，任何有限认知系统都无法穷尽其内涵：
 
-$$\lim_{n \to \infty} \mathcal{C}_n(\mathcal{T}_A) \subset \mathcal{T}_A$$
+$$
+\lim_{n \to \infty} \mathcal{C}_n(\mathcal{T}_A) \subset \mathcal{T}_A
+$$
 
 其中$`\mathcal{C}_n`$表示第n级认知深度的探索函数。
 
@@ -109,7 +132,9 @@ $$\lim_{n \to \infty} \mathcal{C}_n(\mathcal{T}_A) \subset \mathcal{T}_A$$
 
 绝对真理场满足以下场方程：
 
-$$\nabla^2 \mathcal{TF}_A - \frac{1}{c_T^2}\frac{\partial^2 \mathcal{TF}_A}{\partial t^2} = -\rho_T$$
+$$
+\nabla^2 \mathcal{TF}_A - \frac{1}{c_T^2}\frac{\partial^2 \mathcal{TF}_A}{\partial t^2} = -\rho_T
+$$
 
 其中$`c_T`$是真理传播速度（超光速），$`\rho_T`$是真理密度函数。
 
@@ -117,7 +142,9 @@ $$\nabla^2 \mathcal{TF}_A - \frac{1}{c_T^2}\frac{\partial^2 \mathcal{TF}_A}{\par
 
 真理场服从真理保守定律，真理不会被创造或销毁，只会转换形式：
 
-$$\frac{d}{dt}\int_V \mathcal{TF}_A dV = \oint_S \mathbf{J}_T \cdot d\mathbf{S}$$
+$$
+\frac{d}{dt}\int_V \mathcal{TF}_A dV = \oint_S \mathbf{J}_T \cdot d\mathbf{S}
+$$
 
 其中$`\mathbf{J}_T`$是真理流密度矢量。
 
@@ -125,7 +152,9 @@ $$\frac{d}{dt}\int_V \mathcal{TF}_A dV = \oint_S \mathbf{J}_T \cdot d\mathbf{S}$
 
 在最微观尺度，真理场存在量子涨落，产生真理的不确定性：
 
-$$\Delta \mathcal{TF}_A \cdot \Delta t \geq \frac{\hbar_T}{2}$$
+$$
+\Delta \mathcal{TF}_A \cdot \Delta t \geq \frac{\hbar_T}{2}
+$$
 
 其中$`\hbar_T`$是真理不确定性常数。
 
@@ -133,7 +162,9 @@ $$\Delta \mathcal{TF}_A \cdot \Delta t \geq \frac{\hbar_T}{2}$$
 
 真理场通过最小作用原理实现在现实中的表达：
 
-$$S_T = \int \mathcal{L}_T(\mathcal{TF}_A, \nabla\mathcal{TF}_A) d^4x$$
+$$
+S_T = \int \mathcal{L}_T(\mathcal{TF}_A, \nabla\mathcal{TF}_A) d^4x
+$$
 
 真理场总是沿着作用量最小的路径传播和显现。
 
@@ -145,7 +176,9 @@ $$S_T = \int \mathcal{L}_T(\mathcal{TF}_A, \nabla\mathcal{TF}_A) d^4x$$
 
 在最深层次上，绝对真理与绝对实在是同一的：
 
-$$\mathcal{T}_A \equiv \mathcal{R}_A$$
+$$
+\mathcal{T}_A \equiv \mathcal{R}_A
+$$
 
 其中$`\mathcal{R}_A`$表示绝对实在。这一同一性超越了主客体分离的认识框架。
 
@@ -153,7 +186,9 @@ $$\mathcal{T}_A \equiv \mathcal{R}_A$$
 
 真理如何转化为可感知的实在可由真理实在化函数描述：
 
-$$\mathcal{R} = \mathcal{M}(\mathcal{T}_A)$$
+$$
+\mathcal{R} = \mathcal{M}(\mathcal{T}_A)
+$$
 
 其中$`\mathcal{M}`$是映射绝对真理到具体实在形式的实在化函数。
 
@@ -161,7 +196,9 @@ $$\mathcal{R} = \mathcal{M}(\mathcal{T}_A)$$
 
 当意识与实在互动时，形成真理验证回路：
 
-$$\mathcal{C} \rightarrow \mathcal{R} \rightarrow \mathcal{T} \rightarrow \mathcal{C}$$
+$$
+\mathcal{C} \rightarrow \mathcal{R} \rightarrow \mathcal{T} \rightarrow \mathcal{C}
+$$
 
 意识($`\mathcal{C}`$)感知实在($`\mathcal{R}`$)，提取真理($`\mathcal{T}`$)，并更新自身，形成闭环。
 
@@ -169,7 +206,9 @@ $$\mathcal{C} \rightarrow \mathcal{R} \rightarrow \mathcal{T} \rightarrow \mathc
 
 不同层级的真理在不同实在层级上有对应映射：
 
-$$\mathcal{T}_{D_i} \mapsto \mathcal{R}_{D_i}$$
+$$
+\mathcal{T}_{D_i} \mapsto \mathcal{R}_{D_i}
+$$
 
 其中$`\mathcal{T}_{D_i}`$和$`\mathcal{R}_{D_i}`$分别表示维度$`D_i`$上的真理和实在结构。
 
@@ -181,7 +220,9 @@ $$\mathcal{T}_{D_i} \mapsto \mathcal{R}_{D_i}$$
 
 超真理态可以表示为超维度希尔伯特空间中的量子态：
 
-$$|\mathcal{TS}\rangle = \sum_{i=0}^{\infty} \alpha_i |ts_i\rangle$$
+$$
+|\mathcal{TS}\rangle = \sum_{i=0}^{\infty} \alpha_i |ts_i\rangle
+$$
 
 其中$`|ts_i\rangle`$是基本真理状态，$`\alpha_i`$是复系数。
 
@@ -189,7 +230,9 @@ $$|\mathcal{TS}\rangle = \sum_{i=0}^{\infty} \alpha_i |ts_i\rangle$$
 
 超真理态可以同时包含看似矛盾的真理分量，形成叠加：
 
-$$|\mathcal{TS}\rangle = \alpha|t_1\rangle + \beta|t_2\rangle + ...$$
+$$
+|\mathcal{TS}\rangle = \alpha|t_1\rangle + \beta|t_2\rangle + ...
+$$
 
 即使$`t_1`$和$`t_2`$在经典逻辑中相互矛盾。
 
@@ -197,7 +240,9 @@ $$|\mathcal{TS}\rangle = \alpha|t_1\rangle + \beta|t_2\rangle + ...$$
 
 不同维度的真理形态可以表现出量子纠缠特性：
 
-$$|\mathcal{TS}_{AB}\rangle = \frac{1}{\sqrt{2}}(|t_A\rangle|t_B\rangle + |t_A'\rangle|t_B'\rangle)$$
+$$
+|\mathcal{TS}_{AB}\rangle = \frac{1}{\sqrt{2}}(|t_A\rangle|t_B\rangle + |t_A'\rangle|t_B'\rangle)
+$$
 
 这解释了不同真理体系之间的神秘关联。
 
@@ -205,7 +250,9 @@ $$|\mathcal{TS}_{AB}\rangle = \frac{1}{\sqrt{2}}(|t_A\rangle|t_B\rangle + |t_A'\
 
 当有限意识观察真理时，超真理态部分坍缩为特定相对真理：
 
-$$\mathcal{M}_C(|\mathcal{TS}\rangle) \rightarrow |t_i\rangle$$
+$$
+\mathcal{M}_C(|\mathcal{TS}\rangle) \rightarrow |t_i\rangle
+$$
 
 其中$`\mathcal{M}_C`$表示特定意识视角的测量。
 
@@ -217,7 +264,9 @@ $$\mathcal{M}_C(|\mathcal{TS}\rangle) \rightarrow |t_i\rangle$$
 
 真理直观是一种超理性的直接认知过程：
 
-$$\mathcal{I}_T: \mathcal{C} \times \mathcal{T}_A \rightarrow \mathcal{K}_T$$
+$$
+\mathcal{I}_T: \mathcal{C} \times \mathcal{T}_A \rightarrow \mathcal{K}_T
+$$
 
 意识($`\mathcal{C}`$)与绝对真理($`\mathcal{T}_A`$)直接接触，产生真理知识($`\mathcal{K}_T`$)。
 
@@ -225,7 +274,9 @@ $$\mathcal{I}_T: \mathcal{C} \times \mathcal{T}_A \rightarrow \mathcal{K}_T$$
 
 实现真理直观需要特定条件：
 
-$$\mathcal{P}(\mathcal{I}_T) = f(S_C, D_C, O_C, ...)$$
+$$
+\mathcal{P}(\mathcal{I}_T) = f(S_C, D_C, O_C, ...)
+$$
 
 其中$`S_C`$为意识的静寂度，$`D_C`$为意识的深度，$`O_C`$为意识的开放度。
 
@@ -233,7 +284,9 @@ $$\mathcal{P}(\mathcal{I}_T) = f(S_C, D_C, O_C, ...)$$
 
 真理直观需要通过净化过程提高意识接受能力：
 
-$$\mathcal{C}' = \mathcal{P}(\mathcal{C}) = \mathcal{C} - \sum_{i} \beta_i \mathcal{B}_i$$
+$$
+\mathcal{C}' = \mathcal{P}(\mathcal{C}) = \mathcal{C} - \sum_{i} \beta_i \mathcal{B}_i
+$$
 
 其中$`\mathcal{P}`$是净化算子，$`\mathcal{B}_i`$是各种认知偏见和限制。
 
@@ -241,7 +294,9 @@ $$\mathcal{C}' = \mathcal{P}(\mathcal{C}) = \mathcal{C} - \sum_{i} \beta_i \math
 
 真理直观具有多层次结构，从表层认知到深层实相：
 
-$$\mathcal{I}_T = \{\mathcal{I}_{T1}, \mathcal{I}_{T2}, ..., \mathcal{I}_{Tn}\}$$
+$$
+\mathcal{I}_T = \{\mathcal{I}_{T1}, \mathcal{I}_{T2}, ..., \mathcal{I}_{Tn}\}
+$$
 
 每个层次揭示绝对真理的不同深度和面向。
 
@@ -253,7 +308,9 @@ $$\mathcal{I}_T = \{\mathcal{I}_{T1}, \mathcal{I}_{T2}, ..., \mathcal{I}_{Tn}\}$
 
 通过真理直观实践提升认知能力：
 
-$$\Delta C = \mathcal{I}_T(t_2) - \mathcal{I}_T(t_1)$$
+$$
+\Delta C = \mathcal{I}_T(t_2) - \mathcal{I}_T(t_1)
+$$
 
 衡量不同时间点真理直观能力的提升。
 
@@ -261,7 +318,9 @@ $$\Delta C = \mathcal{I}_T(t_2) - \mathcal{I}_T(t_1)$$
 
 指导科学探索的深层原则：
 
-$$\mathcal{S} = \mathcal{G}(\mathcal{T}_A) \times \mathcal{M}(E)$$
+$$
+\mathcal{S} = \mathcal{G}(\mathcal{T}_A) \times \mathcal{M}(E)
+$$
 
 科学($`\mathcal{S}`$)是绝对真理引导($`\mathcal{G}`$)与实验证据($`E`$)的测量($`\mathcal{M}`$)之间的乘积。
 
@@ -269,7 +328,9 @@ $$\mathcal{S} = \mathcal{G}(\mathcal{T}_A) \times \mathcal{M}(E)$$
 
 提供基于绝对真理的伦理决策框架：
 
-$$D_{opt} = \max_{D_i} \{\mathcal{A}(D_i, \mathcal{T}_A)\}$$
+$$
+D_{opt} = \max_{D_i} \{\mathcal{A}(D_i, \mathcal{T}_A)\}
+$$
 
 最优决策($`D_{opt}`$)是与绝对真理一致性($`\mathcal{A}`$)最大的选择。
 
@@ -277,7 +338,9 @@ $$D_{opt} = \max_{D_i} \{\mathcal{A}(D_i, \mathcal{T}_A)\}$$
 
 阐明个体存在的深层意义：
 
-$$M(E) = \int_{0}^{T} \mathcal{A}(E(t), \mathcal{T}_A) dt$$
+$$
+M(E) = \int_{0}^{T} \mathcal{A}(E(t), \mathcal{T}_A) dt
+$$
 
 存在意义($`M`$)是个体存在($`E`$)与绝对真理的一致性在整个生命历程上的积分。
 
@@ -299,4 +362,4 @@ $$M(E) = \int_{0}^{T} \mathcal{A}(E(t), \mathcal{T}_A) dt$$
 2. [形式化核心理论](../formal_theory_core.md) v33.0 - 量子经典二元论形式化表达
 3. [量子绝对美理论](formal_theory_quantum_absolute_beauty.md) (v33.0) - 探讨绝对美的高维理论
 4. [量子绝对爱理论](formal_theory_quantum_absolute_love.md) (v33.0) - 探讨绝对爱的高维理论
-5. [量子绝对全知理论](formal_theory_quantum_absolute_omniscience.md) (v33.0) - 探讨绝对全知的高维理论 
+5. [量子绝对全知理论](formal_theory_quantum_absolute_omniscience.md) (v33.0) - 探讨绝对全知的高维理论

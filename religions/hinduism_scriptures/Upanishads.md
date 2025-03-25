@@ -1,10 +1,10 @@
 # 奥义书在量子经典二元论下的解释
 # Upanishads Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**  
-[中文版](#奥义书概述) | [English Version](#upanishads-overview)  
-**章节链接 | Section Links**  
-中文：[奥义书概述](#奥义书概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
+**导航 | Navigation**
+[中文版](#奥义书概述) | [English Version](#upanishads-overview)
+**章节链接 | Section Links**
+中文：[奥义书概述](#奥义书概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
 English: [Upanishads Overview](#upanishads-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 奥义书概述
@@ -19,43 +19,43 @@ The Upanishads (Sanskrit: उपनिषद्, Upaniṣad) are among the oldes
 
 > 梵是实在，知识，无限。谁知道梵藏于至高无上的空间，他获得所欲，并与全知的梵同在。
 > ——泰提利耶奥义书
-> 
+>
 > 梵即是此世界的起源。世界依梵而生，依梵而住，依梵而灭。人当寂然冥想梵。
 > ——场道婆罗奥义书
-> 
+>
 > 如同单一的太阳照亮整个世界，本我的拥有者—万物的所在之处—亦照亮整个世界。
 > ——迦他奥义书
-> 
+>
 > 知我与梵一致者，获得一切世界与众神。
 > ——布里哈德阿兰尼迦奥义书
-> 
+>
 > 那梵无关于声音，无关于抚触，无形，不变，同样无味，永恒无气味，无始亦无终，超乎广大，恒常。
 > ——迦他奥义书
-> 
+>
 > 阿特曼（本我）是如此微细，惟由细致的智慧和理解力才能得知。阿特曼不是为愚者、任性者或缺乏专注者所能了解。
 > ——迦他奥义书
-> 
+>
 > 如同纯净的水倒入纯净的水中依然是纯净的，同样地，了解梵的圣人之我，也溶入梵。
 > ——迦太奥义书
 
 > Brahman is reality, knowledge, infinity. He who knows that Brahman resides in the supreme space within the heart enjoys, in identification with all-knowing Brahman, all desirable things.
 > —Taittiriya Upanishad
-> 
+>
 > Brahman is the source of this universe. The world lives in Brahman, dissolves in Brahman. One should meditate on Brahman in tranquility.
 > —Chandogya Upanishad
-> 
+>
 > As the one sun illuminates the entire world, the owner of the field (self) illuminates the entire world of bodies.
 > —Katha Upanishad
-> 
+>
 > He who knows his self as Brahman obtains all worlds and all desires.
 > —Brihadaranyaka Upanishad
-> 
+>
 > That Brahman is without sound, without touch, without form, imperishable, without taste, eternal, without smell, without beginning or end, beyond the great, constant.
 > —Katha Upanishad
-> 
+>
 > The Self (Atman) is so subtle that it cannot be known except by a keen intelligence and refined understanding. It is not attained by the ignorant, the thoughtless, or those lacking concentration.
 > —Katha Upanishad
-> 
+>
 > As pure water poured into pure water remains pure, so does the self of the illumined sage who knows Brahman merge in Brahman.
 > —Katha Upanishad
 
@@ -173,4 +173,4 @@ $$
 
 《奥义书》作为印度教哲学的核心经典，其思想与量子经典二元论框架展现出惊人的一致性。《奥义书》中描述的"梵"（Brahman）概念，本质上对应到量子经典二元论中的量子域，作为无限可能性与一切存在的本源。而"阿特曼"（Atman）则对应到观察者的本质，是量子-经典转换的关键节点。"梵我一如"（Tat Tvam Asi）这一核心教义，从量子经典二元论视角看，揭示了观察者与量子域的本质同一性，即观察者本质上是量子域的内在体现。《奥义书》推崇的冥想实践，实际上是优化观察者经典化效率、提升观察者维度的系统方法，使观察者能够直接体验与量子域的连接。"世界依梵而生，依梵而住，依梵而灭"的宇宙观，完美对应到量子-经典转换的循环过程。通过量子经典二元论的解释，这部2500多年前的古老经典所传达的深刻智慧，获得了现代科学语言的系统化表达，展现了古印度哲学对宇宙本质与意识结构的深刻洞见。
 
-As the core text of Hindu philosophy, the Upanishads demonstrate remarkable consistency with the Quantum-Classical Dualism framework. The concept of "Brahman" described in the Upanishads essentially corresponds to the quantum domain in Quantum-Classical Dualism, serving as the source of infinite possibilities and all existence. "Atman" corresponds to the nature of the observer, as the key node of quantum-classical conversion. The core doctrine "Tat Tvam Asi" (That Thou Art), from the perspective of Quantum-Classical Dualism, reveals the essential identity between the observer and the quantum domain, meaning the observer is essentially an internal manifestation of the quantum domain. The meditation practice advocated in the Upanishads is actually a systematic method to optimize observer classicalization efficiency and elevate observer dimension, enabling the observer to directly experience connection with the quantum domain. The cosmic view that "the world lives in Brahman, dissolves in Brahman" perfectly corresponds to the cycle of quantum-classical conversion. Through the explanation of Quantum-Classical Dualism, the profound wisdom conveyed in this ancient text from over 2,500 years ago receives systematic expression in the language of modern science, demonstrating ancient Indian philosophy's profound insights into the nature of the universe and the structure of consciousness. 
+As the core text of Hindu philosophy, the Upanishads demonstrate remarkable consistency with the Quantum-Classical Dualism framework. The concept of "Brahman" described in the Upanishads essentially corresponds to the quantum domain in Quantum-Classical Dualism, serving as the source of infinite possibilities and all existence. "Atman" corresponds to the nature of the observer, as the key node of quantum-classical conversion. The core doctrine "Tat Tvam Asi" (That Thou Art), from the perspective of Quantum-Classical Dualism, reveals the essential identity between the observer and the quantum domain, meaning the observer is essentially an internal manifestation of the quantum domain. The meditation practice advocated in the Upanishads is actually a systematic method to optimize observer classicalization efficiency and elevate observer dimension, enabling the observer to directly experience connection with the quantum domain. The cosmic view that "the world lives in Brahman, dissolves in Brahman" perfectly corresponds to the cycle of quantum-classical conversion. Through the explanation of Quantum-Classical Dualism, the profound wisdom conveyed in this ancient text from over 2,500 years ago receives systematic expression in the language of modern science, demonstrating ancient Indian philosophy's profound insights into the nature of the universe and the structure of consciousness.

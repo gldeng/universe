@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前544年-公元前496年 (c. 544-496 BCE)  
-**国籍 | Nationality**: 春秋时期齐国 (State of Qi during the Spring and Autumn Period, Ancient China)  
-**主要领域 | Main Fields**: 军事战略、领导学、哲学、政治学 (Military Strategy, Leadership, Philosophy, Political Science)  
+**生卒年份 | Lifespan**: 约公元前544年-公元前496年 (c. 544-496 BCE)
+**国籍 | Nationality**: 春秋时期齐国 (State of Qi during the Spring and Autumn Period, Ancient China)
+**主要领域 | Main Fields**: 军事战略、领导学、哲学、政治学 (Military Strategy, Leadership, Philosophy, Political Science)
 **代表作品 | Representative Works**: 《孙子兵法》（《孙子兵法十三篇》）(The Art of War, Thirteen Chapters on the Art of War)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ Sun Tzu emphasizes the high cost and high risk of war. From a Quantum-Classical 
 - "The supreme art of war is to subdue the enemy without fighting. The next best is to use diplomacy, the next is to use the military, and the worst is to attack cities."
 - "The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity to defeat the enemy."
 - "In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good."
-- "Military tactics are like water; water runs away from heights and hastens to lowlands. An army avoids strengths and strikes weaknesses." 
+- "Military tactics are like water; water runs away from heights and hastens to lowlands. An army avoids strengths and strikes weaknesses."

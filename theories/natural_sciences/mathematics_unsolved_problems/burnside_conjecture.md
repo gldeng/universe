@@ -44,11 +44,15 @@ $$
 
 **公理应用 1（二元存在性）**：周期群结构反映了量子域 $`\Omega_Q`$ 和经典域 $`\Omega_C`$ 的动态平衡，即：
 
-$$\mathcal{B}(m,n) \subset \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \text{其中} \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$$
+\mathcal{B}(m,n) \subset \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \text{其中} \quad \Omega_Q \cap \Omega_C = \mathcal{I}
+$$
 
 **公理应用 2（信息守恒）**：群的周期性限制反映了信息守恒原理，即：
 
-$$I(\psi_{B(m,n)}) = I(\mathcal{C}(\psi_{B(m,n)})) + I_{\text{隐藏}}(\psi_{B(m,n)}) = \text{常数}$$
+$$
+I(\psi_{B(m,n)}) = I(\mathcal{C}(\psi_{B(m,n)})) + I_{\text{隐藏}}(\psi_{B(m,n)}) = \text{常数}
+$$
 
 ### 周期群的量子表示
 
@@ -103,7 +107,11 @@ $$
 3. $`B(m,n)`$ 是满足上述条件的最大群
 
 **定义 3 (幂零群)：** 群 $`G`$ 是幂零的，当且仅当存在降中心列
-$$G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{e\}$$
+
+$$
+G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{e\}
+$$
+
 其中每个 $`G_{i+1}`$ 包含 $`[G, G_i]`$（$`G`$ 与 $`G_i`$ 的交换子群），且 $`G_k = \{e\}`$ 对某个有限 $`k`$ 成立。
 
 **定义 4 (伯恩赛德猜想原始形式)：** 对于任意正整数 $`m`$ 和 $`n`$，$`B(m,n)`$ 是幂零群。
@@ -120,7 +128,9 @@ $$G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangler
 
 **引理 1 (复杂度量度)：** 对于Burnside群 $`B(m,n)`$，我们定义其量子复杂度为：
 
-$$\kappa(B(m,n)) = \log(m) \cdot \log(n)$$
+$$
+\kappa(B(m,n)) = \log(m) \cdot \log(n)
+$$
 
 **引理 2 (复杂度阈值)：** 存在临界复杂度阈值 $`\kappa_c`$，使得：
 1. 当 $`\kappa(B(m,n)) < \kappa_c`$ 时，$`B(m,n)`$ 是幂零的
@@ -141,40 +151,43 @@ Burnside群 $`B(m,n)`$ 是幂零的。
 我们分情况讨论：
 
 1. 对于 $`m = 2`$ 且 $`n`$ 为任意正整数：
-   
+
    当 $`m = 2`$ 时，条件 $`(gh)^2 = e`$ 对所有 $`g,h \in B(2,n)`$ 成立。展开可得：
-   $$(gh)^2 = ghgh = e$$
-   
+
+$$
+(gh)^2 = ghgh = e
+$$
+
    这等价于 $`gh = h^{-1}g^{-1} = (hg)^{-1}`$，因此 $`gh = (hg)^{-1}`$。
-   
+
    由此可得 $`ghg^{-1}h^{-1} = e`$，即所有元素对的交换子等于单位元。
-   
+
    这表明 $`B(2,n)`$ 是交换群（阿贝尔群），所有元素对可交换。
-   
+
    阿贝尔群的中心就是群本身，因此中心列为 $`G = G_0 = G_1 = \{e\}`$，满足幂零群定义。
 
 2. 对于 $`m = 3`$ 且 $`n`$ 为奇数：
-   
+
    使用量子经典二元论框架，我们可以证明这种情况下的群具有有限长的中心列。
-   
+
    对于群 $`B(3,n)`$ 其中 $`n`$ 为奇数，量子纠缠复杂度较低，使得经典化过程中保持分层结构。
-   
+
    引入交换子 $`[g,h] = ghg^{-1}h^{-1}`$，并定义 $`\gamma_i(G)`$ 为 $`G`$ 的第 $`i`$ 次降中心列。
-   
+
    可以证明，对于 $`B(3,n)`$ 其中 $`n`$ 为奇数，存在常数 $`c(n)`$ 使得 $`\gamma_{c(n)}(B(3,n)) = \{e\}`$。
-   
+
    具体计算表明 $`\gamma_2(B(3,n))`$ 中的元素 $`[g,h]`$ 满足 $`[g,h]^{3^k} = e`$，其中 $`k`$ 是常数。
-   
+
    通过归纳法可证明存在有限 $`i`$ 使得 $`\gamma_i(B(3,n)) = \{e\}`$，从而 $`B(3,n)`$ 是幂零群。
 
 3. 对于 $`n = p`$ 为质数且 $`\kappa(B(m,p)) < \kappa_c`$：
-   
+
    对于质数 $`p`$，群 $`B(m,p)`$ 是有限 $`p`$-群。根据群论基本结果，所有有限 $`p`$-群都是幂零的。
-   
+
    应用量子经典理论，当复杂度 $`\kappa(B(m,p)) < \kappa_c`$ 时，量子纠缠结构在经典化过程中保持其分层可解构性。
-   
+
    此时，群的中心 $`Z(B(m,p))`$ 非平凡，且 $`|Z(B(m,p))| \geq p`$。
-   
+
    通过商群 $`B(m,p)/Z(B(m,p))`$ 递归应用此结论，得到有限长的中心列，证明 $`B(m,p)`$ 是幂零群。
 
 综上所述，在所有低复杂度情况下，$`B(m,n)`$ 都是幂零群。$`\square`$
@@ -264,11 +277,15 @@ According to the core axioms of Quantum-Classical Dualism (v33.0), these concept
 
 **Axiom Application 1 (Dual Existence)**: The structure of periodic groups reflects the dynamic equilibrium between the quantum domain $`\Omega_Q`$ and the classical domain $`\Omega_C`$, namely:
 
-$$\mathcal{B}(m,n) \subset \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \text{where} \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$$
+\mathcal{B}(m,n) \subset \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \text{where} \quad \Omega_Q \cap \Omega_C = \mathcal{I}
+$$
 
 **Axiom Application 2 (Information Conservation)**: The periodicity constraint of groups reflects the principle of information conservation:
 
-$$I(\psi_{B(m,n)}) = I(\mathcal{C}(\psi_{B(m,n)})) + I_{\text{hidden}}(\psi_{B(m,n)}) = \text{constant}$$
+$$
+I(\psi_{B(m,n)}) = I(\mathcal{C}(\psi_{B(m,n)})) + I_{\text{hidden}}(\psi_{B(m,n)}) = \text{constant}
+$$
 
 ### Quantum Representation of Periodic Groups
 
@@ -323,7 +340,11 @@ We work within the framework of the ZFC axiomatic system, where set theory serve
 3. $`B(m,n)`$ is the largest group satisfying the above conditions
 
 **Definition 3 (Nilpotent Group):** A group $`G`$ is nilpotent if and only if there exists a descending central series
-$$G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{e\}$$
+
+$$
+G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{e\}
+$$
+
 where each $`G_{i+1}`$ contains $`[G, G_i]`$ (the commutator of $`G`$ and $`G_i`$), and $`G_k = \{e\}`$ for some finite $`k`$.
 
 **Definition 4 (Original Burnside Conjecture):** For any positive integers $`m`$ and $`n`$, $`B(m,n)`$ is a nilpotent group.
@@ -340,7 +361,9 @@ Based on the Quantum-Classical Dualism core theory (v33.0), we establish the fol
 
 **Lemma 1 (Complexity Measure):** For a Burnside group $`B(m,n)`$, we define its quantum complexity as:
 
-$$\kappa(B(m,n)) = \log(m) \cdot \log(n)$$
+$$
+\kappa(B(m,n)) = \log(m) \cdot \log(n)
+$$
 
 **Lemma 2 (Complexity Threshold):** There exists a critical complexity threshold $`\kappa_c`$ such that:
 1. When $`\kappa(B(m,n)) < \kappa_c`$, $`B(m,n)`$ is nilpotent
@@ -361,40 +384,43 @@ The Burnside group $`B(m,n)`$ is nilpotent.
 We consider each case separately:
 
 1. For $`m = 2`$ and $`n`$ any positive integer:
-   
+
    When $`m = 2`$, the condition $`(gh)^2 = e`$ holds for all $`g,h \in B(2,n)`$. Expanding, we get:
-   $$(gh)^2 = ghgh = e$$
-   
+
+$$
+(gh)^2 = ghgh = e
+$$
+
    This is equivalent to $`gh = h^{-1}g^{-1} = (hg)^{-1}`$, thus $`gh = (hg)^{-1}`$.
-   
+
    From this, we deduce $`ghg^{-1}h^{-1} = e`$, meaning the commutator of any pair of elements equals the identity.
-   
+
    This shows that $`B(2,n)`$ is a commutative (abelian) group, where all pairs of elements commute.
-   
+
    In an abelian group, the center is the entire group, so the central series is $`G = G_0 = G_1 = \{e\}`$, satisfying the definition of a nilpotent group.
 
 2. For $`m = 3`$ and $`n`$ odd:
-   
+
    Using the Quantum-Classical Dualism framework, we can prove that groups in this case have a finite central series.
-   
+
    For the group $`B(3,n)`$ where $`n`$ is odd, the quantum entanglement complexity is low, allowing the classicalization process to maintain a layered structure.
-   
+
    We introduce the commutator $`[g,h] = ghg^{-1}h^{-1}`$ and define $`\gamma_i(G)`$ as the $`i`$-th term of the lower central series of $`G`$.
-   
+
    We can prove that for $`B(3,n)`$ where $`n`$ is odd, there exists a constant $`c(n)`$ such that $`\gamma_{c(n)}(B(3,n)) = \{e\}`$.
-   
+
    Specifically, calculations show that elements $`[g,h]`$ in $`\gamma_2(B(3,n))`$ satisfy $`[g,h]^{3^k} = e`$, where $`k`$ is a constant.
-   
+
    By induction, we can prove that there exists a finite $`i`$ such that $`\gamma_i(B(3,n)) = \{e\}`$, thus $`B(3,n)`$ is nilpotent.
 
 3. For $`n = p`$ prime and $`\kappa(B(m,p)) < \kappa_c`$:
-   
+
    For a prime $`p`$, the group $`B(m,p)`$ is a finite $`p`$-group. According to fundamental group theory results, all finite $`p`$-groups are nilpotent.
-   
+
    Applying Quantum-Classical theory, when the complexity $`\kappa(B(m,p)) < \kappa_c`$, the quantum entanglement structure maintains its layered decomposability during classicalization.
-   
+
    In this case, the center $`Z(B(m,p))`$ is non-trivial, with $`|Z(B(m,p))| \geq p`$.
-   
+
    By recursively applying this result to the quotient group $`B(m,p)/Z(B(m,p))`$, we obtain a finite central series, proving that $`B(m,p)`$ is nilpotent.
 
 In conclusion, in all low complexity cases, $`B(m,n)`$ is nilpotent. $`\square`$
@@ -443,4 +469,4 @@ This proof is not only mathematically rigorous but also consistent with multiple
 5. Vaughan-Lee, M. R. (1993). The Restricted Burnside Problem. Oxford University Press.
 6. Quantum-Classical Dualism Core Theory (v33.0). Quantum Dimension Continuum Theory and Information Phase Transition Theory.
 7. Hall, P. (1933). A contribution to the theory of groups of prime-power order. Proceedings of the London Mathematical Society, 36, 29-95.
-8. Magnus, W. (1937). Beziehungen zwischen Gruppen und Idealen in einem speziellen Ring. Mathematische Annalen, 114, 232-252. 
+8. Magnus, W. (1937). Beziehungen zwischen Gruppen und Idealen in einem speziellen Ring. Mathematische Annalen, 114, 232-252.

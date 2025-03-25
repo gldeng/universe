@@ -3,10 +3,10 @@
 # [Mind-Blowing] Your Brain is Actually the Universe's Most Powerful Quantum Computer! Scientists Reveal Shocking Truth
 (Version 9.2)
 
-**导航 | Navigation**  
-[中文版](#引言你的大脑比你想象的更神奇) | [English Version](#introduction-your-brain-is-more-amazing-than-you-think)  
-**章节链接 | Section Links**  
-中文：[引言](#引言你的大脑比你想象的更神奇) | [传统神经科学的局限性](#第一部分传统神经科学的局限性) | [大脑的量子特性](#第二部分大脑的量子特性科学证据) | [大脑如何接收与处理量子信息](#第三部分大脑如何接收与处理量子信息) | [如何增强量子认知能力](#第四部分如何增强你的量子认知能力)  
+**导航 | Navigation**
+[中文版](#引言你的大脑比你想象的更神奇) | [English Version](#introduction-your-brain-is-more-amazing-than-you-think)
+**章节链接 | Section Links**
+中文：[引言](#引言你的大脑比你想象的更神奇) | [传统神经科学的局限性](#第一部分传统神经科学的局限性) | [大脑的量子特性](#第二部分大脑的量子特性科学证据) | [大脑如何接收与处理量子信息](#第三部分大脑如何接收与处理量子信息) | [如何增强量子认知能力](#第四部分如何增强你的量子认知能力)
 English: [Introduction](#introduction-your-brain-is-more-amazing-than-you-think) | [Limitations of Traditional Neuroscience](#part-1-limitations-of-traditional-neuroscience) | [Quantum Properties of the Brain](#part-2-quantum-properties-of-the-brain-scientific-evidence) | [How the Brain Processes Quantum Information](#part-3-how-the-brain-receives-and-processes-quantum-information) | [Enhancing Quantum Cognitive Abilities](#part-4-how-to-enhance-your-quantum-cognitive-abilities)
 
 *量子经典二元论框架下的大脑功能解析*
@@ -124,4 +124,4 @@ English: [Introduction](#introduction-your-brain-is-more-amazing-than-you-think)
 
 量子经典二元论框架为我们提供了一个全新的视角，帮助我们理解大脑的真正潜力。当你下次有一个突如其来的灵感，或者感受到一种无法解释的直觉时，记住这可能是你的量子大脑在工作，从更高维度的信息场中提取和经典化信息。
 
-通过本文介绍的技术和练习，你可以开始有意识地培养和增强你的量子大脑能力，探索意识的新边界，并在日常生活中应用这些惊人的能力。 
+通过本文介绍的技术和练习，你可以开始有意识地培养和增强你的量子大脑能力，探索意识的新边界，并在日常生活中应用这些惊人的能力。

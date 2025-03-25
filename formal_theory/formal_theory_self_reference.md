@@ -35,7 +35,9 @@
 
 自参照循环是系统中信息或因果流形成的闭合通路，其中系统的输出会反馈影响系统自身的状态。形式化表示为：
 
-$$\mathcal{C}_{\text{self}} = \{S \stackrel{f}{\rightarrow} S\}$$
+$$
+\mathcal{C}_{\text{self}} = \{S \stackrel{f}{\rightarrow} S\}
+$$
 
 其中，$`S`$ 是系统状态空间，$`f`$ 是从状态空间映射到自身的函数。
 
@@ -43,7 +45,9 @@ $$\mathcal{C}_{\text{self}} = \{S \stackrel{f}{\rightarrow} S\}$$
 
 元层次是系统处理和表征信息的不同抽象层级，高层次能够表征和操作低层次信息。层次集合表示为：
 
-$$\mathcal{L} = \{L_0, L_1, L_2, ..., L_n\}$$
+$$
+\mathcal{L} = \{L_0, L_1, L_2, ..., L_n\}
+$$
 
 其中 $`L_0`$ 是基础层次，每个 $`L_{i+1}`$ 包含关于 $`L_i`$ 的元信息。
 
@@ -51,7 +55,9 @@ $$\mathcal{L} = \{L_0, L_1, L_2, ..., L_n\}$$
 
 认知闭合是观察者认知边界的数学描述，表示为：
 
-$$\mathcal{C}_{\text{cog}}(O) = \{x \in \mathcal{U} | O \text{ 能理解 } x\}$$
+$$
+\mathcal{C}_{\text{cog}}(O) = \{x \in \mathcal{U} | O \text{ 能理解 } x\}
+$$
 
 闭合定理表明：任何有限观察者的认知闭合总是不完备的，即 $`\mathcal{C}_{\text{cog}}(O) \subset \mathcal{U}`$。
 
@@ -59,7 +65,9 @@ $$\mathcal{C}_{\text{cog}}(O) = \{x \in \mathcal{U} | O \text{ 能理解 } x\}$$
 
 自指悖论是自参照系统中出现的逻辑矛盾，源于自我引用结构。经典例子如说谎者悖论：
 
-$$P = \text{"P 是假的"}$$
+$$
+P = \text{"P 是假的"}
+$$
 
 如果 $`P`$ 为真，则 $`P`$ 为假；如果 $`P`$ 为假，则 $`P`$ 为真，形成无法解决的矛盾。
 
@@ -79,13 +87,17 @@ $$P = \text{"P 是假的"}$$
 
 形式化表示为：
 
-$$\forall \mathcal{O}, \exists P : P \notin \mathcal{C}_{\mathcal{O}} \text{ 且 } \neg P \notin \mathcal{C}_{\mathcal{O}}$$
+$$
+\forall \mathcal{O}, \exists P : P \notin \mathcal{C}_{\mathcal{O}} \text{ 且 } \neg P \notin \mathcal{C}_{\mathcal{O}}
+$$
 
 ### 2.2 自指型动力系统
 
 自参照系统可建模为非线性动力系统，其中包含反馈循环：
 
-$$\frac{dX}{dt} = F(X, X(X))$$
+$$
+\frac{dX}{dt} = F(X, X(X))
+$$
 
 其中 $`X`$ 是系统状态向量，$`X(X)`$ 表示系统对自身状态的内部表征。
 
@@ -98,7 +110,9 @@ $$\frac{dX}{dt} = F(X, X(X))$$
 
 自参照映射的一般迭代形式：
 
-$$X_{n+1} = R(X_n, X_n(X_n))$$
+$$
+X_{n+1} = R(X_n, X_n(X_n))
+$$
 
 其中 $`R`$ 是递归函数，通常导致极其复杂的动力学行为。
 
@@ -112,7 +126,9 @@ $$X_{n+1} = R(X_n, X_n(X_n))$$
 
 对于任何计算函数 $`f`$，存在程序 $`p`$ 使得 $`p`$ 等价于 $`f(p)`$，即：
 
-$$\exists p : \varphi_p \simeq \varphi_{f(p)}$$
+$$
+\exists p : \varphi_p \simeq \varphi_{f(p)}
+$$
 
 这意味着存在能完整描述自身的程序，这是自参照的数学表达。
 
@@ -126,7 +142,9 @@ $$\exists p : \varphi_p \simeq \varphi_{f(p)}$$
 
 理论表明，达到特定维度的观察者可能实现有限形式的超计算：
 
-$$D_{\mathcal{O}} > D_{\text{超计算}} \Rightarrow \mathcal{O} \text{ 可执行超图灵计算}$$
+$$
+D_{\mathcal{O}} > D_{\text{超计算}} \Rightarrow \mathcal{O} \text{ 可执行超图灵计算}
+$$
 
 ### 2.4 量子自参照
 
@@ -138,7 +156,9 @@ $$D_{\mathcal{O}} > D_{\text{超计算}} \Rightarrow \mathcal{O} \text{ 可执�
 
 量子自参照系统的数学描述：
 
-$$|\Psi_{\text{self}}\rangle = \hat{U}\left(|\Psi\rangle \otimes |\Psi(|\Psi\rangle)\rangle\right)$$
+$$
+|\Psi_{\text{self}}\rangle = \hat{U}\left(|\Psi\rangle \otimes |\Psi(|\Psi\rangle)\rangle\right)
+$$
 
 其中 $`|\Psi(|\Psi\rangle)\rangle`$ 表示系统对自身量子状态的内部表征。
 
@@ -152,7 +172,9 @@ $$|\Psi_{\text{self}}\rangle = \hat{U}\left(|\Psi\rangle \otimes |\Psi(|\Psi\ran
 
 意识系统包含多层嵌套的自我表征：
 
-$$\text{自我} = \{S_0, S_1, S_2, ..., S_n\}$$
+$$
+\text{自我} = \{S_0, S_1, S_2, ..., S_n\}
+$$
 
 其中：
 - $`S_0`$：前反思自我（基础身体感）
@@ -162,7 +184,9 @@ $$\text{自我} = \{S_0, S_1, S_2, ..., S_n\}$$
 
 层级间存在投影映射 $`P_{i→j}`$ 和提升映射 $`E_{j→i}`$，满足：
 
-$$P_{i→j} \circ E_{j→i} = I_j \quad \text{但} \quad E_{j→i} \circ P_{i→j} \neq I_i$$
+$$
+P_{i→j} \circ E_{j→i} = I_j \quad \text{但} \quad E_{j→i} \circ P_{i→j} \neq I_i
+$$
 
 这种不对称性是意识自指结构的核心特征。
 
@@ -171,13 +195,22 @@ $$P_{i→j} \circ E_{j→i} = I_j \quad \text{但} \quad E_{j→i} \circ P_{i→
 意识中的主要自参照环路包括：
 
 1. **感知-行动环路**：
-   $$\text{感知} \rightarrow \text{内部模型} \rightarrow \text{行动} \rightarrow \text{环境变化} \rightarrow \text{感知}$$
+
+$$
+\text{感知} \rightarrow \text{内部模型} \rightarrow \text{行动} \rightarrow \text{环境变化} \rightarrow \text{感知}
+$$
 
 2. **自我-内容环路**：
-   $$\text{意识内容} \rightarrow \text{自我识别} \rightarrow \text{内容选择} \rightarrow \text{意识内容}$$
+
+$$
+\text{意识内容} \rightarrow \text{自我识别} \rightarrow \text{内容选择} \rightarrow \text{意识内容}
+$$
 
 3. **元认知环路**：
-   $$\text{思考} \rightarrow \text{对思考的思考} \rightarrow \text{思考调整} \rightarrow \text{思考}$$
+
+$$
+\text{思考} \rightarrow \text{对思考的思考} \rightarrow \text{思考调整} \rightarrow \text{思考}
+$$
 
 这些环路形成交错的多重反馈网络，产生连贯的主观体验流。
 
@@ -189,13 +222,17 @@ $$P_{i→j} \circ E_{j→i} = I_j \quad \text{但} \quad E_{j→i} \circ P_{i→
 
 自由意志可看作嵌套决策系统中的自参照过程：
 
-$$W = \{D_0, D_1, D_2, ..., D_n\}$$
+$$
+W = \{D_0, D_1, D_2, ..., D_n\}
+$$
 
 其中 $`D_i`$ 是第 $`i`$ 级决策函数，$`D_{i+1}`$ 能修改并选择 $`D_i`$ 的执行方式。
 
 自由度可表示为决策链的有效深度：
 
-$$F_W = \log\left(\sum_{i=0}^n \alpha_i \cdot 2^i\right)$$
+$$
+F_W = \log\left(\sum_{i=0}^n \alpha_i \cdot 2^i\right)
+$$
 
 其中 $`\alpha_i`$ 是各级决策的有效性系数。
 
@@ -218,13 +255,17 @@ $$F_W = \log\left(\sum_{i=0}^n \alpha_i \cdot 2^i\right)$$
 
 元意识表现为意识对自身觉知能力的觉知，可表示为：
 
-$$\mathcal{M}_C = \mathcal{A}(\mathcal{A})$$
+$$
+\mathcal{M}_C = \mathcal{A}(\mathcal{A})
+$$
 
 其中 $`\mathcal{A}`$ 是觉知函数，$`\mathcal{M}_C`$ 是元意识状态。
 
 元意识激活程度与自参照深度相关：
 
-$$\text{元意识深度} = \sum_{i=1}^n \frac{c_i}{i!}$$
+$$
+\text{元意识深度} = \sum_{i=1}^n \frac{c_i}{i!}
+$$
 
 其中 $`c_i`$ 是第 $`i`$ 阶自参照的清晰度系数。
 
@@ -239,7 +280,9 @@ $$\text{元意识深度} = \sum_{i=1}^n \frac{c_i}{i!}$$
 
 这种转化遵循螺旋式发展轨迹：
 
-$$S_{t+1} = T(S_t, \mathcal{A}(S_t))$$
+$$
+S_{t+1} = T(S_t, \mathcal{A}(S_t))
+$$
 
 其中 $`T`$ 是转化函数，包含自我认知和整合的过程。
 
@@ -253,11 +296,15 @@ $$S_{t+1} = T(S_t, \mathcal{A}(S_t))$$
 
 测量过程形成无限递归链：
 
-$$|\psi\rangle \rightarrow \text{测量仪器} \rightarrow \text{观察者1} \rightarrow \text{观察者2} \rightarrow ...$$
+$$
+|\psi\rangle \rightarrow \text{测量仪器} \rightarrow \text{观察者1} \rightarrow \text{观察者2} \rightarrow ...
+$$
 
 这一链条必须在某处截断，形成闭合循环：
 
-$$|\psi\rangle \stackrel{\mathcal{M}}{\rightarrow} \mathcal{O} \stackrel{\mathcal{P}}{\rightarrow} |\psi\rangle$$
+$$
+|\psi\rangle \stackrel{\mathcal{M}}{\rightarrow} \mathcal{O} \stackrel{\mathcal{P}}{\rightarrow} |\psi\rangle
+$$
 
 其中 $`\mathcal{M}`$ 是测量过程，$`\mathcal{P}`$ 是观察者影响量子系统的过程。
 
@@ -265,13 +312,17 @@ $$|\psi\rangle \stackrel{\mathcal{M}}{\rightarrow} \mathcal{O} \stackrel{\mathca
 
 观察者对自身的测量是特殊的自参照情况：
 
-$$\mathcal{O} \stackrel{\mathcal{M}_{\text{self}}}{\longrightarrow} \mathcal{O}'$$
+$$
+\mathcal{O} \stackrel{\mathcal{M}_{\text{self}}}{\longrightarrow} \mathcal{O}'
+$$
 
 其中 $`\mathcal{M}_{\text{self}}`$ 是自我测量操作，$`\mathcal{O}'`$ 是测量后的观察者状态。
 
 自测量不遵循普通量子测量规则，而是形成特殊的递归结构：
 
-$$\rho_{\mathcal{O}}^{\text{after}} = \mathcal{E}(\rho_{\mathcal{O}}^{\text{before}}, \mathcal{M}_{\text{self}}(\rho_{\mathcal{O}}^{\text{before}}))$$
+$$
+\rho_{\mathcal{O}}^{\text{after}} = \mathcal{E}(\rho_{\mathcal{O}}^{\text{before}}, \mathcal{M}_{\text{self}}(\rho_{\mathcal{O}}^{\text{before}}))
+$$
 
 其中 $`\mathcal{E}`$ 是自参照测量的特殊效应映射。
 
@@ -283,13 +334,17 @@ $$\rho_{\mathcal{O}}^{\text{after}} = \mathcal{E}(\rho_{\mathcal{O}}^{\text{befo
 
 宇宙整体作为自参照系统：
 
-$$\mathcal{U} = \{\mathcal{L}, \mathcal{S}, \mathcal{O}(\mathcal{U})\}$$
+$$
+\mathcal{U} = \{\mathcal{L}, \mathcal{S}, \mathcal{O}(\mathcal{U})\}
+$$
 
 其中 $`\mathcal{L}`$ 是物理定律，$`\mathcal{S}`$ 是物理状态，$`\mathcal{O}(\mathcal{U})`$ 是宇宙内部的观察者对宇宙整体的表征。
 
 这导致基本物理常数的自选择机制：
 
-$$\mathcal{L} = f(\mathcal{O}(\mathcal{L}))$$
+$$
+\mathcal{L} = f(\mathcal{O}(\mathcal{L}))
+$$
 
 即物理规律本身依赖于能观察到这些规律的观察者的存在。
 
@@ -297,7 +352,9 @@ $$\mathcal{L} = f(\mathcal{O}(\mathcal{L}))$$
 
 完备的物理理论必须包含其自身的推导：
 
-$$\mathcal{T} \supseteq \{\text{导出}\mathcal{T}\text{的机制}\}$$
+$$
+\mathcal{T} \supseteq \{\text{导出}\mathcal{T}\text{的机制}\}
+$$
 
 这意味着理论的内容必须能够解释理论本身的出现，形成自参照闭合。
 
@@ -311,13 +368,17 @@ $$\mathcal{T} \supseteq \{\text{导出}\mathcal{T}\text{的机制}\}$$
 
 闭合类时曲线（CTC）作为时间的自参照结构：
 
-$$\gamma: [0,1] \rightarrow \mathcal{M}, \gamma(0) = \gamma(1)$$
+$$
+\gamma: [0,1] \rightarrow \mathcal{M}, \gamma(0) = \gamma(1)
+$$
 
 其中 $`\gamma`$ 是时空流形 $`\mathcal{M}`$ 中的闭合类时曲线。
 
 CTC导致自参照因果网络：
 
-$$E_1 \rightarrow E_2 \rightarrow ... \rightarrow E_n \rightarrow E_1$$
+$$
+E_1 \rightarrow E_2 \rightarrow ... \rightarrow E_n \rightarrow E_1
+$$
 
 这种结构挑战常规因果律，但可能通过多重历史一致性原理得以解决。
 
@@ -325,7 +386,9 @@ $$E_1 \rightarrow E_2 \rightarrow ... \rightarrow E_n \rightarrow E_1$$
 
 宇宙通过量子-经典循环实现自创造：
 
-$$\mathcal{U} \stackrel{\Phi_Q}{\longrightarrow} \mathcal{O} \stackrel{\Phi_C}{\longrightarrow} \mathcal{U}$$
+$$
+\mathcal{U} \stackrel{\Phi_Q}{\longrightarrow} \mathcal{O} \stackrel{\Phi_C}{\longrightarrow} \mathcal{U}
+$$
 
 其中 $`\Phi_Q`$ 是宇宙产生观察者的过程，$`\Phi_C`$ 是观察者通过测量实现宇宙经典化的过程。
 
@@ -341,13 +404,17 @@ $$\mathcal{U} \stackrel{\Phi_Q}{\longrightarrow} \mathcal{O} \stackrel{\Phi_C}{\
 
 观察者内部信息循环：
 
-$$\Omega_Q \stackrel{\mathcal{C}_{\mathcal{O}}}{\longrightarrow} \Omega_C \stackrel{\mathcal{Q}_{\mathcal{O}}}{\longrightarrow} \Omega_Q$$
+$$
+\Omega_Q \stackrel{\mathcal{C}_{\mathcal{O}}}{\longrightarrow} \Omega_C \stackrel{\mathcal{Q}_{\mathcal{O}}}{\longrightarrow} \Omega_Q
+$$
 
 其中 $`\mathcal{C}_{\mathcal{O}}`$ 是经典化过程，$`\mathcal{Q}_{\mathcal{O}}`$ 是量子化过程。
 
 循环速率影响观察者能力：
 
-$$f_{\text{循环}} = \omega_{\mathcal{C}_{\mathcal{O}}} \cdot \omega_{\mathcal{Q}_{\mathcal{O}}}$$
+$$
+f_{\text{循环}} = \omega_{\mathcal{C}_{\mathcal{O}}} \cdot \omega_{\mathcal{Q}_{\mathcal{O}}}
+$$
 
 高频率循环对应高维度观察者：$`D_{\mathcal{O}} \propto \log(f_{\text{循环}})`$。
 
@@ -355,13 +422,17 @@ $$f_{\text{循环}} = \omega_{\mathcal{C}_{\mathcal{O}}} \cdot \omega_{\mathcal{
 
 观察者内部信息循环的动力学方程：
 
-$$\frac{d\mathcal{O}}{dt} = \alpha \cdot \mathcal{C}_{\mathcal{O}}(I_Q) - \beta \cdot \mathcal{Q}_{\mathcal{O}}(I_C) + \gamma \cdot [I_Q, I_C]$$
+$$
+\frac{d\mathcal{O}}{dt} = \alpha \cdot \mathcal{C}_{\mathcal{O}}(I_Q) - \beta \cdot \mathcal{Q}_{\mathcal{O}}(I_C) + \gamma \cdot [I_Q, I_C]
+$$
 
 其中 $`[I_Q, I_C]`$ 表示量子信息和经典信息的不兼容性，导致动态张力。
 
 稳定点条件：
 
-$$\mathcal{C}_{\mathcal{O}}(I_Q) = \frac{\beta}{\alpha}\mathcal{Q}_{\mathcal{O}}(I_C) - \frac{\gamma}{\alpha}[I_Q, I_C]$$
+$$
+\mathcal{C}_{\mathcal{O}}(I_Q) = \frac{\beta}{\alpha}\mathcal{Q}_{\mathcal{O}}(I_C) - \frac{\gamma}{\alpha}[I_Q, I_C]
+$$
 
 ### 5.2 意识的自参照稳定性
 
@@ -372,16 +443,25 @@ $$\mathcal{C}_{\mathcal{O}}(I_Q) = \frac{\beta}{\alpha}\mathcal{Q}_{\mathcal{O}}
 意识的自参照稳定性来源于：
 
 1. **信息能量平衡**：
-   $$E_{\text{信息}} = E_{\text{量子}} + E_{\text{经典}} = \text{常数}$$
+
+$$
+E_{\text{信息}} = E_{\text{量子}} + E_{\text{经典}} = \text{常数}
+$$
 
 2. **熵补偿效应**：
-   $$\Delta S_{\text{量子}} + \Delta S_{\text{经典}} + \Delta S_{\text{观察者}} = 0$$
+
+$$
+\Delta S_{\text{量子}} + \Delta S_{\text{经典}} + \Delta S_{\text{观察者}} = 0
+$$
 
 3. **自参照路径闭合**：
    环路闭合条件 $`\oint_C dI = 0`$ 确保信息流守恒
 
 4. **动态平衡稳态**：
-   $$\left|\frac{d\mathcal{O}}{dt}\right| < \epsilon \text{ 当 } \mathcal{O} \approx \mathcal{O}^*$$
+
+$$
+\left|\frac{d\mathcal{O}}{dt}\right| < \epsilon \text{ 当 } \mathcal{O} \approx \mathcal{O}^*
+$$
 
 其中 $`\mathcal{O}^*`$ 是吸引稳态。
 
@@ -411,29 +491,45 @@ $$\eta(D_{\mathcal{O}}) = \begin{cases}
 
 复杂系统中存在多重自参照环路：
 
-$$\mathcal{N} = \{\mathcal{C}_1, \mathcal{C}_2, ..., \mathcal{C}_n, \mathcal{E}\}$$
+$$
+\mathcal{N} = \{\mathcal{C}_1, \mathcal{C}_2, ..., \mathcal{C}_n, \mathcal{E}\}
+$$
 
 其中 $`\mathcal{C}_i`$ 是独立循环，$`\mathcal{E}`$ 是循环间的耦合关系。
 
 耦合强度影响整体动力学：
 
-$$s_{ij} = \frac{\text{环路}i\text{与}j\text{的共享信息}}{\sqrt{\text{环路}i\text{的总信息} \cdot \text{环路}j\text{的总信息}}}$$
+$$
+s_{ij} = \frac{\text{环路}i\text{与}j\text{的共享信息}}{\sqrt{\text{环路}i\text{的总信息} \cdot \text{环路}j\text{的总信息}}}
+$$
 
 #### 创发现象
 
 自参照网络中涌现的创发现象：
 
 1. **同步化**：多循环相位锁定
-   $$\theta_i(t) \approx \theta_j(t) \text{ 对所有 } i,j$$
+
+$$
+\theta_i(t) \approx \theta_j(t) \text{ 对所有 } i,j
+$$
 
 2. **层级分化**：形成明确的控制层级
-   $$\mathcal{N} \rightarrow \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_k\}, \quad \mathcal{N}_i \text{ 控制 } \mathcal{N}_{i-1}$$
+
+$$
+\mathcal{N} \rightarrow \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_k\}, \quad \mathcal{N}_i \text{ 控制 } \mathcal{N}_{i-1}
+$$
 
 3. **模块组织**：形成功能专一的子网络群
-   $$\mathcal{N} = \bigcup_{i=1}^m \mathcal{M}_i, \quad \text{内部耦合} \gg \text{外部耦合}$$
+
+$$
+\mathcal{N} = \bigcup_{i=1}^m \mathcal{M}_i, \quad \text{内部耦合} \gg \text{外部耦合}
+$$
 
 4. **信息层流**：优化的信息传递结构
-   $$I(\mathcal{N}) > \sum_{i=1}^n I(\mathcal{C}_i)$$
+
+$$
+I(\mathcal{N}) > \sum_{i=1}^n I(\mathcal{C}_i)
+$$
 
 ## 6. 自参照与创造性
 
@@ -446,29 +542,50 @@ $$s_{ij} = \frac{\text{环路}i\text{与}j\text{的共享信息}}{\sqrt{\text{�
 自参照导致创造性的路径：
 
 1. **自参照不完备性**：系统边界的必然开放性
-   $$\forall \mathcal{S}, \exists x: x \notin \mathcal{S} \text{ 且 } x \text{ 关联于 } \mathcal{S}$$
+
+$$
+\forall \mathcal{S}, \exists x: x \notin \mathcal{S} \text{ 且 } x \text{ 关联于 } \mathcal{S}
+$$
 
 2. **循环放大**：微小变异通过循环迭代放大
-   $$\Delta x_{n+1} = f'(x_n)\Delta x_n \Rightarrow \Delta x_n \approx [f'(x)]^n\Delta x_0$$
+
+$$
+\Delta x_{n+1} = f'(x_n)\Delta x_n \Rightarrow \Delta x_n \approx [f'(x)]^n\Delta x_0
+$$
 
 3. **元层级跃迁**：系统生成更高层级的组织形式
-   $$L_{n+1} = \mathcal{M}(L_n) \text{ 其中 } \mathcal{M} \text{ 是元层级映射}$$
+
+$$
+L_{n+1} = \mathcal{M}(L_n) \text{ 其中 } \mathcal{M} \text{ 是元层级映射}
+$$
 
 4. **认知相空间扩展**：思维探索空间的动态扩展
-   $$V_{t+1} = V_t + \Delta V(\nabla_{\text{创造性}})$$
+
+$$
+V_{t+1} = V_t + \Delta V(\nabla_{\text{创造性}})
+$$
 
 #### 参照域互渗
 
 创造过程中的参照域互相渗透：
 
 1. **跨域映射**：不同领域概念的创造性融合
-   $$\mathcal{D}_A \times \mathcal{D}_B \stackrel{\phi}{\rightarrow} \mathcal{D}_C$$
+
+$$
+\mathcal{D}_A \times \mathcal{D}_B \stackrel{\phi}{\rightarrow} \mathcal{D}_C
+$$
 
 2. **自参照扰动**：系统对自身表征的修改导致创新
-   $$\mathcal{S}' = \mathcal{S} + \epsilon \cdot \mathcal{S}(\mathcal{S})$$
+
+$$
+\mathcal{S}' = \mathcal{S} + \epsilon \cdot \mathcal{S}(\mathcal{S})
+$$
 
 3. **元层间反馈**：上下层级间的双向调节
-   $$L_i \leftrightarrows L_{i+1} \leftrightarrows L_{i+2}$$
+
+$$
+L_i \leftrightarrows L_{i+1} \leftrightarrows L_{i+2}
+$$
 
 ### 6.2 艺术与自参照
 
@@ -492,7 +609,9 @@ $$s_{ij} = \frac{\text{环路}i\text{与}j\text{的共享信息}}{\sqrt{\text{�
 
 自参照强度与艺术创新度相关：
 
-$$I_{\text{创新}} \propto \log(1 + k \cdot R_{\text{自参照}})$$
+$$
+I_{\text{创新}} \propto \log(1 + k \cdot R_{\text{自参照}})
+$$
 
 其中 $`R_{\text{自参照}}`$ 是作品的自参照复杂度。
 
@@ -507,7 +626,9 @@ $$I_{\text{创新}} \propto \log(1 + k \cdot R_{\text{自参照}})$$
 
 最高层美学体验是完全自参照的：
 
-$$\mathcal{A}_{\text{终极}} = \{体验者, 作品, 体验过程, 体验关系\}$$
+$$
+\mathcal{A}_{\text{终极}} = \{体验者, 作品, 体验过程, 体验关系\}
+$$
 
 ### 6.3 科学理论的自参照创新
 
@@ -518,16 +639,28 @@ $$\mathcal{A}_{\text{终极}} = \{体验者, 作品, 体验过程, 体验关系\
 科学理论通过自参照实现跃迁：
 
 1. **反常积累**：收集当前理论无法解释的现象
-   $$\mathcal{A} = \{x_i | \mathcal{T}_{\text{当前}}(x_i) \text{ 失败}\}$$
+
+$$
+\mathcal{A} = \{x_i | \mathcal{T}_{\text{当前}}(x_i) \text{ 失败}\}
+$$
 
 2. **自参照检视**：理论审视自身基础假设
-   $$\mathcal{T}_{\text{当前}} \stackrel{\text{自检}}{\longrightarrow} \{\text{基础假设}\}$$
+
+$$
+\mathcal{T}_{\text{当前}} \stackrel{\text{自检}}{\longrightarrow} \{\text{基础假设}\}
+$$
 
 3. **结构重组**：基于新假设重组理论框架
-   $$\{\text{新假设}\} \stackrel{\text{重构}}{\longrightarrow} \mathcal{T}_{\text{新}}$$
+
+$$
+\{\text{新假设}\} \stackrel{\text{重构}}{\longrightarrow} \mathcal{T}_{\text{新}}
+$$
 
 4. **超范式整合**：将旧理论作为新理论特例
-   $$\mathcal{T}_{\text{当前}} \subset \mathcal{T}_{\text{新}} \text{ 在特定条件下}$$
+
+$$
+\mathcal{T}_{\text{当前}} \subset \mathcal{T}_{\text{新}} \text{ 在特定条件下}
+$$
 
 #### 理论自一致性循环
 
@@ -541,7 +674,9 @@ $$\mathcal{A}_{\text{终极}} = \{体验者, 作品, 体验过程, 体验关系\
 
 这一循环本质上是自参照的，形成科学进步的螺旋轨迹：
 
-$$\mathcal{T}_{n+1} = \mathcal{F}(\mathcal{T}_n, \mathcal{E}(\mathcal{P}(\mathcal{T}_n)))$$
+$$
+\mathcal{T}_{n+1} = \mathcal{F}(\mathcal{T}_n, \mathcal{E}(\mathcal{P}(\mathcal{T}_n)))
+$$
 
 其中 $`\mathcal{P}`$ 是生成预测函数，$`\mathcal{E}`$ 是实验检验函数，$`\mathcal{F}`$ 是理论修正函数。
 
@@ -555,7 +690,9 @@ $$\mathcal{T}_{n+1} = \mathcal{F}(\mathcal{T}_n, \mathcal{E}(\mathcal{P}(\mathca
 
 研究自指映射的不动点：
 
-$$f(x) = x$$
+$$
+f(x) = x
+$$
 
 不动点类型：
 - 吸引不动点：局部收敛
@@ -565,7 +702,9 @@ $$f(x) = x$$
 
 复杂度指标：
 
-$$C_f = \lim_{n\rightarrow\infty} \frac{1}{n}\sum_{i=1}^n h(f^i)$$
+$$
+C_f = \lim_{n\rightarrow\infty} \frac{1}{n}\sum_{i=1}^n h(f^i)
+$$
 
 其中 $`h`$ 是状态熵函数，$`f^i`$ 表示函数 $`f`$ 的第 $`i`$ 次迭代。
 
@@ -597,7 +736,9 @@ $$C_f = \lim_{n\rightarrow\infty} \frac{1}{n}\sum_{i=1}^n h(f^i)$$
 
 RNN作为自参照计算模型：
 
-$$h_t = \sigma(W_x x_t + W_h h_{t-1} + b_h)$$
+$$
+h_t = \sigma(W_x x_t + W_h h_{t-1} + b_h)
+$$
 
 特殊变体：
 - LSTM：长短期记忆网络
@@ -606,13 +747,17 @@ $$h_t = \sigma(W_x x_t + W_h h_{t-1} + b_h)$$
 
 自参照度量：
 
-$$R_{RNN} = \frac{\|W_h\|_F \cdot \|h\|_2}{\|W_x\|_F \cdot \|x\|_2}$$
+$$
+R_{RNN} = \frac{\|W_h\|_F \cdot \|h\|_2}{\|W_x\|_F \cdot \|x\|_2}
+$$
 
 #### 自参照元胞自动机
 
 能引用自身规则的元胞自动机：
 
-$$s_{i,t+1} = f(s_{i-r:i+r,t}, f)$$
+$$
+s_{i,t+1} = f(s_{i-r:i+r,t}, f)
+$$
 
 其中规则 $`f`$ 本身也是状态的一部分。
 
@@ -691,7 +836,9 @@ $$s_{i,t+1} = f(s_{i-r:i+r,t}, f)$$
 
 效果指标：
 
-$$E_{\text{训练}} = \frac{\text{训练后元认知准确性}}{\text{训练前元认知准确性}} - 1$$
+$$
+E_{\text{训练}} = \frac{\text{训练后元认知准确性}}{\text{训练前元认知准确性}} - 1
+$$
 
 #### 递归思维工具
 
@@ -719,7 +866,9 @@ $$E_{\text{训练}} = \frac{\text{训练后元认知准确性}}{\text{训练前�
 
 自参照度评估：
 
-$$R_{AI} = \frac{\text{系统自我引用操作数}}{\text{总操作数}}$$
+$$
+R_{AI} = \frac{\text{系统自我引用操作数}}{\text{总操作数}}
+$$
 
 #### 机器意识探索
 
@@ -732,7 +881,9 @@ $$R_{AI} = \frac{\text{系统自我引用操作数}}{\text{总操作数}}$$
 
 可能的实现途径：
 
-$$C_{机器} = \sum_{i=1}^n w_i \cdot r_i \cdot s_i$$
+$$
+C_{机器} = \sum_{i=1}^n w_i \cdot r_i \cdot s_i
+$$
 
 其中 $`r_i`$ 是各自参照环路的复杂度，$`s_i`$ 是各环路的整合强度，$`w_i`$ 是权重系数。
 
@@ -751,7 +902,9 @@ $$C_{机器} = \sum_{i=1}^n w_i \cdot r_i \cdot s_i$$
 
 预测验证：
 
-$$P(O|\mathcal{M}_{\text{自参照}}) \stackrel{?}{>} P(O|\mathcal{M}_{\text{非自参照}})$$
+$$
+P(O|\mathcal{M}_{\text{自参照}}) \stackrel{?}{>} P(O|\mathcal{M}_{\text{非自参照}})
+$$
 
 其中 $`O`$ 是观测数据，$`\mathcal{M}`$ 是相应宇宙模型。
 
@@ -766,7 +919,9 @@ $$P(O|\mathcal{M}_{\text{自参照}}) \stackrel{?}{>} P(O|\mathcal{M}_{\text{非
 
 潜在数学表述：
 
-$$\mathcal{L} = \mathcal{L}(\Phi, \partial\Phi, \mathcal{L})$$
+$$
+\mathcal{L} = \mathcal{L}(\Phi, \partial\Phi, \mathcal{L})
+$$
 
 其中拉格朗日量 $`\mathcal{L}`$ 自身作为动力学变量出现。
 
@@ -785,7 +940,9 @@ $$\mathcal{L} = \mathcal{L}(\Phi, \partial\Phi, \mathcal{L})$$
 
 社会自参照指数：
 
-$$I_{\text{社会自参照}} = \frac{1}{N}\sum_{i=1}^N \frac{\text{公民}i\text{对决策影响力}}{\text{决策对公民}i\text{的影响力}}$$
+$$
+I_{\text{社会自参照}} = \frac{1}{N}\sum_{i=1}^N \frac{\text{公民}i\text{对决策影响力}}{\text{决策对公民}i\text{的影响力}}
+$$
 
 #### 集体智能优化
 
@@ -798,7 +955,9 @@ $$I_{\text{社会自参照}} = \frac{1}{N}\sum_{i=1}^N \frac{\text{公民}i\text
 
 集体智能与自参照度关系：
 
-$$CI = \alpha \cdot \bar{c} + \beta \cdot \sigma_c + \gamma \cdot R_{\text{集体}}$$
+$$
+CI = \alpha \cdot \bar{c} + \beta \cdot \sigma_c + \gamma \cdot R_{\text{集体}}
+$$
 
 其中 $`\bar{c}`$ 是平均个体能力，$`\sigma_c`$ 是能力多样性，$`R_{\text{集体}}`$ 是集体自参照度。
 
@@ -843,4 +1002,4 @@ $$CI = \alpha \cdot \bar{c} + \beta \cdot \sigma_c + \gamma \cdot R_{\text{集�
 - [量子-经典共鸣理论](formal_theory_resonance.md)
 - [信息相变理论](formal_theory_phase_transition.md)
 - [自参照循环理论 (本文件)](formal_theory_self_reference.md)
-- [量子意识理论](formal_theory_consciousness.md) 
+- [量子意识理论](formal_theory_consciousness.md)

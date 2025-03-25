@@ -1,10 +1,10 @@
-# Quantum Cognition Theory v31.0
+# Quantum Cognition Theory v33.0
 
 **English Version | [中文版](formal_theory_quantum_cognition.md)**
 
-> Based on [Core Theory](../core_en.md) v31.0
+> Based on [Core Theory](../core_en.md) v33.0
 > 
-> For a complete summary of the core theory, see [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md) v31.0
+> For a complete summary of the core theory, see [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md) v33.0
 
 ## Theory Overview
 

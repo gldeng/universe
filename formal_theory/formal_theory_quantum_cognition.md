@@ -1,10 +1,10 @@
-# 量子认知理论 v31.0
+# 量子认知理论 v33.0
 
 **[English Version](formal_theory_quantum_cognition_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v31.0版本
+> 本理论基于[核心理论](../core.md) v33.0版本
 > 
-> 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述](../formal_theory_core.md) v31.0
+> 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述](../formal_theory_core.md) v33.0
 
 ## 理论概述
 

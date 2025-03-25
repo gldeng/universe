@@ -12,9 +12,9 @@
 
 城市的数学表达可以写为：
 
-$$C_{city} = \sum_{i=1}^{n} O_i \cdot \Psi_{space-society} \rightarrow \rho_{urban}$$
+$`C_{city} = \sum_{i=1}^{n} O_i \cdot \Psi_{space-society} \rightarrow \rho_{urban}`$
 
-其中，$C_{city}$表示城市经典化过程，$O_i$表示参与城市建设和生活的观察者，$\Psi_{space-society}$表示空间和社会关系的量子信息，$\rho_{urban}$表示经典化后的城市结构和功能。
+其中，$`C_{city}`$表示城市经典化过程，$`O_i`$表示参与城市建设和生活的观察者，$`\Psi_{space-society}`$表示空间和社会关系的量子信息，$`\rho_{urban}`$表示经典化后的城市结构和功能。
 
 ### 2. 城市规划的量子经典二元论解释
 
@@ -26,9 +26,9 @@ $$C_{city} = \sum_{i=1}^{n} O_i \cdot \Psi_{space-society} \rightarrow \rho_{urb
 
 城市规划的数学表达可以写为：
 
-$$P = \max_{\theta} \sum_{t=1}^{T} \sum_{i=1}^{n} U_i(C_{\theta}(\Psi_{t}))$$
+$`P = \max_{\theta} \sum_{t=1}^{T} \sum_{i=1}^{n} U_i(C_{\theta}(\Psi_{t}))`$
 
-其中，$P$表示规划过程，$\theta$表示规划参数，$\Psi_{t}$表示t时刻的城市量子状态，$C_{\theta}$表示受规划参数影响的经典化过程，$U_i$表示观察者i从经典化结果中获得的效用。
+其中，$`P`$表示规划过程，$`\theta`$表示规划参数，$`\Psi_{t}`$表示t时刻的城市量子状态，$`C_{\theta}`$表示受规划参数影响的经典化过程，$`U_i`$表示观察者i从经典化结果中获得的效用。
 
 ### 3. 城市规划师的量子经典二元论解释
 
@@ -60,9 +60,9 @@ $$P = \max_{\theta} \sum_{t=1}^{T} \sum_{i=1}^{n} U_i(C_{\theta}(\Psi_{t}))$$
 
 功能分区的数学表达可以写为：
 
-$$Z_j = \{x \in S | \arg\max_k Q_k(x) = j\}$$
+$`Z_j = \{x \in S | \arg\max_k Q_k(x) = j\}`$
 
-其中，$Z_j$表示功能区j，$S$表示城市总空间，$Q_k$表示类型k的量子信息经典化适宜度。
+其中，$`Z_j`$表示功能区j，$`S`$表示城市总空间，$`Q_k`$表示类型k的量子信息经典化适宜度。
 
 ### 6. 城市交通系统的量子经典二元论解释
 
@@ -83,9 +83,9 @@ $$Z_j = \{x \in S | \arg\max_k Q_k(x) = j\}$$
 
 城市发展的数学表达可以写为：
 
-$$\frac{d\rho_{urban}}{dt} = F(\rho_{urban}, \Psi_{new}, O_{t})$$
+$`\frac{d\rho_{urban}}{dt} = F(\rho_{urban}, \Psi_{new}, O_{t})`$
 
-其中，$\frac{d\rho_{urban}}{dt}$表示城市结构的变化率，$F$表示发展函数，$\rho_{urban}$表示当前城市结构，$\Psi_{new}$表示新引入的量子信息，$O_{t}$表示t时刻的观察者集合。
+其中，$`\frac{d\rho_{urban}}{dt}`$表示城市结构的变化率，$`F`$表示发展函数，$`\rho_{urban}`$表示当前城市结构，$`\Psi_{new}`$表示新引入的量子信息，$`O_{t}`$表示t时刻的观察者集合。
 
 ### 8. 城市问题的量子经典二元论解释
 
@@ -108,9 +108,9 @@ $$\frac{d\rho_{urban}}{dt} = F(\rho_{urban}, \Psi_{new}, O_{t})$$
 
 可持续城市的数学表达可以写为：
 
-$$\lim_{T \to \infty} \frac{1}{T} \int_{0}^{T} U(C(\Psi_t)) dt \geq U_{min}$$
+$`\lim_{T \to \infty} \frac{1}{T} \int_{0}^{T} U(C(\Psi_t)) dt \geq U_{min}`$
 
-其中，$U$表示城市系统的总体效用函数，$C(\Psi_t)$表示t时刻的城市经典化结果，$U_{min}$表示可持续性的最低效用阈值。
+其中，$`U`$表示城市系统的总体效用函数，$`C(\Psi_t)`$表示t时刻的城市经典化结果，$`U_{min}`$表示可持续性的最低效用阈值。
 
 ### 10. 智慧城市的量子经典二元论解释
 
@@ -187,9 +187,9 @@ Cities can be understood as complex quantum information classicalization systems
 
 The mathematical expression of a city can be written as:
 
-$$C_{city} = \sum_{i=1}^{n} O_i \cdot \Psi_{space-society} \rightarrow \rho_{urban}$$
+$`C_{city} = \sum_{i=1}^{n} O_i \cdot \Psi_{space-society} \rightarrow \rho_{urban}`$
 
-Where $C_{city}$ represents the city classicalization process, $O_i$ represents observers participating in city construction and life, $\Psi_{space-society}$ represents quantum information of space and social relationships, and $\rho_{urban}$ represents the classicalized urban structure and function.
+Where $`C_{city}`$ represents the city classicalization process, $`O_i`$ represents observers participating in city construction and life, $`\Psi_{space-society}`$ represents quantum information of space and social relationships, and $`\rho_{urban}`$ represents the classicalized urban structure and function.
 
 ### 2. Quantum-Classical Dualism Explanation of Urban Planning
 
@@ -201,9 +201,9 @@ Urban planning can be understood as conscious guidance and optimization of the c
 
 The mathematical expression of urban planning can be written as:
 
-$$P = \max_{\theta} \sum_{t=1}^{T} \sum_{i=1}^{n} U_i(C_{\theta}(\Psi_{t}))$$
+$`P = \max_{\theta} \sum_{t=1}^{T} \sum_{i=1}^{n} U_i(C_{\theta}(\Psi_{t}))`$
 
-Where $P$ represents the planning process, $\theta$ represents planning parameters, $\Psi_{t}$ represents the quantum state of the city at time t, $C_{\theta}$ represents the classicalization process influenced by planning parameters, and $U_i$ represents the utility observer i obtains from the classicalization result.
+Where $`P`$ represents the planning process, $`\theta`$ represents planning parameters, $`\Psi_{t}`$ represents the quantum state of the city at time t, $`C_{\theta}`$ represents the classicalization process influenced by planning parameters, and $`U_i`$ represents the utility observer i obtains from the classicalization result.
 
 ### 3. Quantum-Classical Dualism Explanation of Urban Planners
 
@@ -235,9 +235,9 @@ Urban functional zoning can be understood as classicalization areas for differen
 
 The mathematical expression of functional zoning can be written as:
 
-$$Z_j = \{x \in S | \arg\max_k Q_k(x) = j\}$$
+$`Z_j = \{x \in S | \arg\max_k Q_k(x) = j\}`$
 
-Where $Z_j$ represents functional zone j, $S$ represents the total urban space, $Q_k$ represents the classicalization suitability of type k quantum information.
+Where $`Z_j`$ represents functional zone j, $`S`$ represents the total urban space, $`Q_k`$ represents the classicalization suitability of type k quantum information.
 
 ### 6. Quantum-Classical Dualism Explanation of Urban Transportation Systems
 
@@ -258,9 +258,9 @@ Urban development can be understood as the evolution process of urban classicali
 
 The mathematical expression of urban development can be written as:
 
-$$\frac{d\rho_{urban}}{dt} = F(\rho_{urban}, \Psi_{new}, O_{t})$$
+$`\frac{d\rho_{urban}}{dt} = F(\rho_{urban}, \Psi_{new}, O_{t})`$
 
-Where $\frac{d\rho_{urban}}{dt}$ represents the rate of change in urban structure, $F$ represents the development function, $\rho_{urban}$ represents the current urban structure, $\Psi_{new}$ represents newly introduced quantum information, and $O_{t}$ represents the set of observers at time t.
+Where $`\frac{d\rho_{urban}}{dt}`$ represents the rate of change in urban structure, $`F`$ represents the development function, $`\rho_{urban}`$ represents the current urban structure, $`\Psi_{new}`$ represents newly introduced quantum information, and $`O_{t}`$ represents the set of observers at time t.
 
 ### 8. Quantum-Classical Dualism Explanation of Urban Problems
 
@@ -283,9 +283,9 @@ Sustainable cities can be understood as urban systems achieving long-term classi
 
 The mathematical expression of sustainable cities can be written as:
 
-$$\lim_{T \to \infty} \frac{1}{T} \int_{0}^{T} U(C(\Psi_t)) dt \geq U_{min}$$
+$`\lim_{T \to \infty} \frac{1}{T} \int_{0}^{T} U(C(\Psi_t)) dt \geq U_{min}`$
 
-Where $U$ represents the overall utility function of the urban system, $C(\Psi_t)$ represents the urban classicalization result at time t, and $U_{min}$ represents the minimum utility threshold for sustainability.
+Where $`U`$ represents the overall utility function of the urban system, $`C(\Psi_t)`$ represents the urban classicalization result at time t, and $`U_{min}`$ represents the minimum utility threshold for sustainability.
 
 ### 10. Quantum-Classical Dualism Explanation of Smart Cities
 

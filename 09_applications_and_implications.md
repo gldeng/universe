@@ -34,9 +34,9 @@
 
 量子经典二元论为量子测量问题提供了新解释：
 
-$$
+$`
 |\psi\rangle_{\text{量子纠缠态}}\xrightarrow{\text{自由意志经典化测量}}I_{\text{经典知识}}+S_{\text{熵降低}}
-$$
+`$
 
 应用价值：
 - 重新理解波函数坍缩本质
@@ -49,13 +49,13 @@ $$
 
 量子经典二元论统一了黑洞与观察者概念：
 
-$$
+$`
 \text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{内部高熵}}\rightarrow I_{\text{辐射经典知识}}+S_{\text{熵降低}}+E_{\text{能量释放}}
-$$
+`$
 
 应用价值：
 - 解释霍金辐射与信息保存机制
@@ -68,9 +68,9 @@ $$
 
 量子经典二元论明确了量子纠缠的本质与发生条件：
 
-$$
+$`
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-$$
+`$
 
 应用价值：
 - 预测有效量子纠缠的必要条件
@@ -96,9 +96,9 @@ $$
 
 广义意识作为经典知识与经典熵的整体纠缠结构：
 
-$$
+$`
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
-$$
+`$
 
 应用价值：
 - 为意识科学提供可测量框架
@@ -157,9 +157,9 @@ $$
 
 进化作为维度提升的长期过程：
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 应用价值：
 - 建立进化的信息理论模型
@@ -207,9 +207,9 @@ AI系统作为经典化处理单元：
 
 基于虫洞通信机制的量子通信优化：
 
-$$
+$`
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
 应用价值：
 - 提高量子通信效率
@@ -315,9 +315,9 @@ $$
 
 宇宙低熵终极状态作为演化方向：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙量子域}}\rightarrow I_{\text{经典知识最大化}}+S_{\text{经典熵}=0},\quad P\rightarrow 0^+
-$$
+`$
 
 哲学启示：
 - 提供宇宙目的性的理性解释
@@ -413,9 +413,9 @@ As a unified theoretical framework, Quantum-Classical Dualism has broad applicat
 
 Quantum-Classical Dualism provides a new explanation for the quantum measurement problem:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Entangled State}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 Application value:
 - Reunderstanding the nature of wave function collapse
@@ -426,13 +426,13 @@ Experimental direction: Design experiments to verify the influence of observer c
 
 Quantum-Classical Dualism unifies the concepts of black holes and observers:
 
-$$
+$`
 \text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Internal High Entropy}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
-$$
+`$
 
 Application value:
 - Explaining Hawking radiation and information preservation mechanisms
@@ -443,9 +443,9 @@ Research direction: Establish black hole observer models and simulate informatio
 
 Quantum-Classical Dualism clarifies the nature and occurrence conditions of quantum entanglement:
 
-$$
+$`
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-$$
+`$
 
 Application value:
 - Predicting the necessary conditions for effective quantum entanglement
@@ -467,9 +467,9 @@ Research direction: Explore changes in wave-particle behavior under different cl
 
 Generalized consciousness as an overall entangled structure of classical knowledge and classical entropy:
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
+`$
 
 Application value:
 - Providing a measurable framework for consciousness science
@@ -518,9 +518,9 @@ Research direction: Study the information organization methods of life systems b
 
 Evolution as a long-term process of dimension elevation:
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 Application value:
 - Establishing an information theory model of evolution
@@ -560,9 +560,9 @@ Research direction: Develop new neural network architectures based on classicali
 
 Quantum communication optimization based on the wormhole communication mechanism:
 
-$$
+$`
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 Application value:
 - Improving quantum communication efficiency
@@ -650,9 +650,9 @@ Discussion direction: Explore the manifestation of free will in the quantum-clas
 
 The universe's low-entropy ultimate state as the direction of evolution:
 
-$$
+$`
 |\psi\rangle_{\text{Universe Quantum Domain}}\rightarrow I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy}=0},\quad P\rightarrow 0^+
-$$
+`$
 
 Philosophical implications:
 - Providing a rational explanation for the purposefulness of the universe

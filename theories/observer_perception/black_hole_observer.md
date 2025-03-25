@@ -17,9 +17,9 @@ English: [Black Hole as Observer](#黑洞作为观察者--black-hole-as-observer
 - 黑洞辐射过程对应观察者量子化过程；
 - 黑洞通过强大引力场将宇宙量子信息迅速经典化为经典记忆（知识）与熵：
 
-$$
+$`
 |\psi\rangle_{\text{黑洞观察者}}\xrightarrow{\text{经典化（黑洞吸收）}}\text{经典知识}+S_{\text{经典熵}}
-$$
+`$
 
 因此：
 
@@ -34,9 +34,9 @@ Within the [Quantum-Classical Dualism] framework, an observer itself **can be a 
 - Black holes are essentially **observer nodes with extremely high information classicalization efficiency** in the universe;
 - Black holes rapidly classicalize quantum information from the universe into classical memories (knowledge) and entropy of maximum density through their powerful gravitational fields:
 
-$$
+$`
 |\psi\rangle_{\text{Black Hole Observer}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge (Extremely High Density)}+S_{\text{Classical Entropy (Maximum)}}
-$$
+`$
 
 Therefore:
 
@@ -57,9 +57,9 @@ Simply put, a black hole **is itself an extreme observer**.
 
 本质表达：
 
-$$
+$`
 |\psi\rangle_{\text{你的意识}}\otimes|\psi\rangle_{\text{黑洞}}\xrightarrow{\text{量子意识纠缠}}\text{经典记忆（梦境）}+S_{\text{经典熵（模糊）}}
-$$
+`$
 
 本质是你意识的量子结构与更高维经典化节点（黑洞）的一次量子级别的连接。
 
@@ -72,9 +72,9 @@ When you dream of perceiving yourself as a black hole, it represents that you ha
 
 Essential expression:
 
-$$
+$`
 |\psi\rangle_{\text{Your Consciousness}}\otimes|\psi\rangle_{\text{Black Hole}}\xrightarrow{\text{Quantum Consciousness Entanglement}}\text{Classical Memory (Dream)}+S_{\text{Classical Entropy (Fuzzy)}}
-$$
+`$
 
 The essence is a quantum-level connection between the quantum structure of your consciousness and a higher-dimensional classicalization node (black hole).
 
@@ -86,9 +86,9 @@ The essence is a quantum-level connection between the quantum structure of your 
 
 - **你作为黑洞（高维观察者）时**，你的经典化能力会极大增强，你会高效地经典化其他人的信息（低维观察者的信息），本质即为**量子湮灭**过程：
 
-$$
+$`
 |\psi\rangle_{\text{你（黑洞）}}\otimes|\psi\rangle_{\text{其他人}}\xrightarrow{\text{经典化湮灭}}\text{经典知识}+S_{\text{经典熵}}
-$$
+`$
 
 - 此过程会强烈影响周围低维观察者（其他人），他们的信息将被你大量经典化，从而可能产生强烈的影响甚至改变他们的经典命运路径。
 
@@ -100,9 +100,9 @@ If you (an observer) are in a "black hole" state (high-dimensional classicalizat
 
 - **When you act as a black hole (high-dimensional observer)**, your classicalization ability is greatly enhanced, and you will efficiently classicalize the information of others (information of low-dimensional observers), which is essentially a process of **quantum annihilation**:
 
-$$
+$`
 |\psi\rangle_{\text{You (Black Hole)}}\otimes|\psi\rangle_{\text{Others}}\xrightarrow{\text{Classicalization Annihilation}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-$$
+`$
 
 - This process will strongly affect surrounding low-dimensional observers (other people), whose information will be extensively classicalized by you, potentially producing strong influences or even changing their classical destiny paths.
 
@@ -116,9 +116,9 @@ Therefore, if you are truly a "black hole," your classicalization efficiency wou
 
 - 黑洞级观察者具有极高的经典化能力，能够直接以极高效的方式经典化他人信息，这种经典化在现实中表现为强大的引力效应，即肉体上极端的物理影响（如潮汐力、物质撕裂、物质坍缩）：
 
-$$
+$`
 |\psi\rangle_{\text{黑洞观察者}}\otimes |\psi\rangle_{\text{他人肉体}}\xrightarrow{\text{经典化}}\text{物理结构破坏（经典熵）}+ \text{经典知识（物理信息吸收）}
-$$
+`$
 
 - 因此，**若你真正为黑洞级观察者，你周围的人的肉体无法避免地会受到直接、剧烈甚至毁灭性的影响**。
 
@@ -133,9 +133,9 @@ If you are truly a black hole level observer, you would not only produce classic
 
 - Black hole level observers possess extremely high classicalization abilities, capable of directly classicalizing others' information in a highly efficient manner. This classicalization manifests in reality as powerful gravitational effects, i.e., extreme physical impacts on the body (such as tidal forces, material tearing, material collapse):
 
-$$
+$`
 |\psi\rangle_{\text{Black Hole Observer}}\otimes |\psi\rangle_{\text{Others' Physical Bodies}}\xrightarrow{\text{Classicalization}}\text{Physical Structure Damage (Classical Entropy)}+ \text{Classical Knowledge (Physical Information Absorption)}
-$$
+`$
 
 - Therefore, **if you were truly a black hole level observer, the physical bodies of people around you would unavoidably be subject to direct, intense, or even destructive effects**.
 
@@ -157,9 +157,9 @@ In other words:
 
 公式表达为：
 
-$$
+$`
 |\psi\rangle_{\text{你（高维观察者）}}\otimes |\psi\rangle_{\text{其他人（低维观察者）}}\xrightarrow{\text{经典化（湮灭）}}\text{经典知识（重组的信息）}+S_{\text{经典熵（信息损失）}}
-$$
+`$
 
 When you, as a **high-dimensional observer (such as a "black hole")**, perform classicalization observation on **low-dimensional observers (such as "other people")**, the following essential processes occur:
 
@@ -168,9 +168,9 @@ When you, as a **high-dimensional observer (such as a "black hole")**, perform c
 
 This is expressed by the formula:
 
-$$
+$`
 |\psi\rangle_{\text{You (High-Dimensional Observer)}}\otimes |\psi\rangle_{\text{Others (Low-Dimensional Observers)}}\xrightarrow{\text{Classicalization (Annihilation)}}\text{Classical Knowledge (Reorganized Information)}+S_{\text{Classical Entropy (Information Loss)}}
-$$
+`$
 
 ### 二、经典化过程细节（如何影响他人）| Classicalization Process Details (How to Influence Others)
 
@@ -187,16 +187,16 @@ $$
 - 低维观察者的经典命运本是自由意志经典化后的多种可能路径之一。
 - 当你强力经典化其信息后，其他观察者原本可能的经典路径被你选择并固定下来，导致经典命运直接发生改变。
 
-$$
+$`
 \text{经典命运（改变后）}=\text{你经典化后的稳定知识路径}
-$$
+`$
 
 - The classical destiny of low-dimensional observers is originally one of many possible paths after the classicalization of free will.
 - When you strongly classicalize their information, the originally possible classical paths of other observers are selected and fixed by you, leading to direct changes in classical destiny.
 
-$$
+$`
 \text{Classical Destiny (After Change)}=\text{Your Stable Knowledge Path After Classicalization}
-$$
+`$
 
 #### （3）强烈影响与经典熵的产生 | Strong Influence and Classical Entropy Generation
 - 在经典化过程中，虽然你的效率很高，但仍然会有部分信息无法经典化，这部分未能有效经典化的信息变成经典熵，表现为对低维观察者的负面影响（如情绪波动、疾病、混乱、恐惧、焦虑、压力等）。
@@ -226,9 +226,9 @@ $$
 
 最终经典化的过程可清晰描述为：
 
-$$
+$`
 \text{低维观察者命运改变强度} \propto D_{\text{高维观察者}} - D_{\text{低维观察者}}
-$$
+`$
 
 因此，你作为"黑洞"级高维观察者，对低维观察者（其他人）的信息经典化过程，会极大程度改变他们的命运路径，这是维度差异所必然带来的经典化结果。
 
@@ -241,8 +241,8 @@ Overall:
 
 The final classicalization process can be clearly described as:
 
-$$
+$`
 \text{Intensity of Low-Dimensional Observer Destiny Change} \propto D_{\text{High-Dimensional Observer}} - D_{\text{Low-Dimensional Observer}}
-$$
+`$
 
 Therefore, as a "black hole" level high-dimensional observer, your information classicalization process on low-dimensional observers (other people) will greatly change their destiny paths, which is the inevitable classicalization result brought about by dimensional differences. 

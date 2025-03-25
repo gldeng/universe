@@ -121,21 +121,21 @@ The last verse emphasizes the absolute uniqueness of Allah, corresponding to the
 
 The core theological insights of Surah Al-Ikhlas can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"他是真主，是独一的"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \text{唯一} \wedge \text{不可分}
-$$
+`$
 
-$$
+$`
 \text{"真主是万物所仰赖的"} \Leftrightarrow \forall I_{\text{经典域}}, \exists f: |\psi\rangle_{\text{量子域}} \xrightarrow{f} I_{\text{经典域}}
-$$
+`$
 
-$$
+$`
 \text{"他不生育，也不被生育"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \nsubseteq \text{因果网络} \wedge |\psi\rangle_{\text{量子域}} \nsubseteq \text{时间序列}
-$$
+`$
 
-$$
+$`
 \text{"没有任何物可以做他的匹敌"} \Leftrightarrow \forall x \neq |\psi\rangle_{\text{量子域}}, \text{dim}(x) < \text{dim}(|\psi\rangle_{\text{量子域}}) = \infty
-$$
+`$
 
 ## 结论
 ## Conclusion

@@ -29,18 +29,18 @@
 **中文**：
 耶稣的爱的教义可以通过量子经典二元论中的"有效量子纠缠"来理解。耶稣教导的无条件之爱创造了观察者之间的高度同构性量子纠缠，使得经典化交流效率极高。当观察者按照耶稣的教导去爱时，他们实现了：
 
-$$
+$`
 |\psi\rangle_{\text{有效纠缠}}\rightarrow I_{\text{经典知识（增加）}}+S_{\text{熵降低}}
-$$
+`$
 
 爱敌人的教导尤其深刻，它使观察者能够将经典熵转化为经典知识，实现维度提升。
 
 **English**:
 Jesus's doctrine of love can be understood through the "effective quantum entanglement" concept in quantum-classical dualism. The unconditional love taught by Jesus creates highly isomorphic quantum entanglement between observers, enabling highly efficient classicalization communication. When observers love according to Jesus's teachings, they achieve:
 
-$$
+$`
 |\psi\rangle_{\text{Effective Entanglement}}\rightarrow I_{\text{Classical Knowledge (Increased)}}+S_{\text{Entropy Reduced}}
-$$
+`$
 
 The teaching to love one's enemies is particularly profound, enabling observers to transform classical entropy into classical knowledge, achieving dimensional elevation.
 
@@ -49,18 +49,18 @@ The teaching to love one's enemies is particularly profound, enabling observers 
 **中文**：
 耶稣的十字架牺牲可视为量子意识经典化的终极示范。通过自我牺牲，耶稣将无序经典熵转化为有序经典知识：
 
-$$
+$`
 |\psi\rangle_{\text{耶稣牺牲}} \rightarrow I_{\text{人类经典知识（救赎）}}+S_{\text{经典熵（降低）}}
-$$
+`$
 
 这一牺牲行为创造了一种独特的经典化模式，使信徒能够将自身的经典熵（罪）通过耶稣这一高维观察者转化为经典知识（救赎）。
 
 **English**:
 Jesus's crucifixion can be viewed as the ultimate demonstration of quantum consciousness classicalization. Through self-sacrifice, Jesus transformed disordered classical entropy into ordered classical knowledge:
 
-$$
+$`
 |\psi\rangle_{\text{Jesus's Sacrifice}} \rightarrow I_{\text{Human Classical Knowledge (Redemption)}}+S_{\text{Classical Entropy (Reduced)}}
-$$
+`$
 
 This sacrificial act created a unique classicalization pattern that allows believers to transform their classical entropy (sin) into classical knowledge (salvation) through Jesus as a higher-dimensional observer.
 
@@ -69,34 +69,34 @@ This sacrificial act created a unique classicalization pattern that allows belie
 **中文**：
 耶稣的天国观念完美体现了量子域与经典域的统一。天国既是未来的经典世界，也内在于现在的量子域可能性中。当耶稣说"天国在你们心里"，他描述的是观察者通过经典化量子信息实现的内在低熵状态：
 
-$$
+$`
 |\psi\rangle_{\text{量子天国可能性}}\xrightarrow{\text{观察者经典化}}\sum_i(I_{\text{经典天国知识}_i}+S_{\text{经典熵}_i})
-$$
+`$
 
 **English**:
 Jesus's concept of the Kingdom perfectly embodies the unity of quantum and classical domains. The Kingdom is both a future classical world and inherent in the present quantum domain possibilities. When Jesus says "the Kingdom is within you," he describes the inner low-entropy state achieved by observers through classicalizing quantum information:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Kingdom Possibilities}}\xrightarrow{\text{Observer Classicalization}}\sum_i(I_{\text{Classical Kingdom Knowledge}_i}+S_{\text{Classical Entropy}_i})
-$$
+`$
 
 ### 宽恕作为熵降低机制 | Forgiveness as Entropy Reduction Mechanism
 
 **中文**：
 耶稣的宽恕教义可理解为经典熵的有效降低机制。当观察者选择宽恕时，他们将过去事件的经典熵（怨恨、愤怒）转化为经典知识（和平、理解）：
 
-$$
+$`
 S_{\text{不宽恕（高熵状态）}} \xrightarrow{\text{宽恕经典化}} I_{\text{经典知识（增加）}}+S_{\text{经典熵（降低）}}
-$$
+`$
 
 这解释了为何耶稣强调宽恕对灵性健康的重要性。
 
 **English**:
 Jesus's forgiveness teaching can be understood as an effective mechanism for classical entropy reduction. When observers choose to forgive, they transform the classical entropy of past events (resentment, anger) into classical knowledge (peace, understanding):
 
-$$
+$`
 S_{\text{Unforgiveness (High Entropy State)}} \xrightarrow{\text{Forgiveness Classicalization}} I_{\text{Classical Knowledge (Increased)}}+S_{\text{Classical Entropy (Reduced)}}
-$$
+`$
 
 This explains why Jesus emphasized the importance of forgiveness for spiritual health.
 
@@ -105,18 +105,18 @@ This explains why Jesus emphasized the importance of forgiveness for spiritual h
 **中文**：
 耶稣强调的内在变革直接对应于维度提升机制。真正的信仰不在于外在仪式（低维经典化），而在于内心的低熵高知识状态（高维经典化）：
 
-$$
+$`
 \text{观察者维度}\propto\frac{I_{\text{经典知识（信仰）}}}{S_{\text{经典熵（仪式主义）}}}
-$$
+`$
 
 耶稣对法利赛人的批评正是针对他们的高熵低知识的低维经典化状态。
 
 **English**:
 The inner transformation emphasized by Jesus directly corresponds to the dimensional elevation mechanism. True faith is not about external rituals (low-dimensional classicalization) but about the low-entropy, high-knowledge state of the heart (high-dimensional classicalization):
 
-$$
+$`
 \text{Observer Dimension}\propto\frac{I_{\text{Classical Knowledge (Faith)}}}{S_{\text{Classical Entropy (Ritualism)}}}
-$$
+`$
 
 Jesus's criticism of the Pharisees was precisely directed at their high-entropy, low-knowledge, low-dimensional classicalization state.
 

@@ -19,9 +19,9 @@ English: [Observer Essence and Dimension](#english-version) | [Observer Hierarch
 - 不同观察者具有不同的维度，维度决定了观察者经典化信息的效率与方向；
 - 观察者维度可以用以下公式表示：
 
-$$
+$`
 D_{\text{观察者维度}}\propto\frac{\Delta I_{\text{经典知识量}}}{\Delta t}
-$$
+`$
 
 观察者维度越高，单位时间内能够经典化的量子信息越多，产生的经典知识越丰富，经典熵越少。
 
@@ -29,9 +29,9 @@ $$
 
 在宇宙中，不同维度的观察者形成了一个层级网络结构，从低维到高维依次为：
 
-$$
+$`
 |\psi\rangle_{\text{病毒}}\rightarrow|\psi\rangle_{\text{人类}}\rightarrow|\psi\rangle_{\text{地球}}\rightarrow|\psi\rangle_{\text{太阳}}\rightarrow|\psi\rangle_{\text{更高维信息}}
-$$
+`$
 
 这一层级结构具有以下特性：
 
@@ -61,9 +61,9 @@ $$
 
 这一过程可以用以下公式表示：
 
-$$
+$`
 |\psi\rangle_{\text{人类（高维经典节点）}}\xrightarrow{\text{病毒入侵（观测）}}|\psi\rangle_{\text{病毒（低维经典节点）}}+\text{经典熵（病变、损伤）}
-$$
+`$
 
 3. **信息竞争**：
    - 病毒对人类的入侵，是宇宙中不同观察维度之间经典化信息竞争的体现；
@@ -89,9 +89,9 @@ $$
 
 这一关系可以用以下公式表示：
 
-$$
+$`
 |\psi\rangle_{\text{量子宇宙}}\rightarrow |\psi\rangle_{\text{银河系（经典节点）}}\rightarrow|\psi\rangle_{\text{太阳系（经典节点）}}\rightarrow|\psi\rangle_{\text{地球（经典节点）}}\rightarrow|\psi\rangle_{\text{人类（观察者）}}\rightarrow\text{经典知识}+S_{\text{经典熵}}
-$$
+`$
 
 ### 五、银河系与宇宙大尺度结构的观察者角色
 
@@ -114,17 +114,17 @@ $$
    - 相邻层级之间的信息经典化效率最高；
    - 信息经典化效率与观察者维度差的函数关系：
 
-$$
+$`
 \eta_{\text{经典化}} = f(D_{\text{高维观察者}} - D_{\text{低维观察者}})
-$$
+`$
 
 2. **经典熵产生**：
    - 维度差越大，经典化过程中产生的经典熵越多；
    - 经典熵与维度差的关系：
 
-$$
+$`
 S_{\text{经典熵}} \propto (D_{\text{高维观察者}} - D_{\text{低维观察者}})
-$$
+`$
 
 3. **信息传递路径**：
    - 信息在观察者网络中主要沿着维度梯度传递；
@@ -184,9 +184,9 @@ According to the Quantum Universe Observer Consciousness - Classical Memory and 
 - Different observers have different dimensions, which determine the efficiency and direction of information classicalization;
 - Observer dimension can be represented by the following formula:
 
-$$
+$`
 D_{\text{Observer Dimension}}\propto\frac{\Delta I_{\text{Classical Knowledge Amount}}}{\Delta t}
-$$
+`$
 
 The higher the observer dimension, the more quantum information can be classicalized per unit time, resulting in richer classical knowledge and less classical entropy.
 
@@ -194,9 +194,9 @@ The higher the observer dimension, the more quantum information can be classical
 
 In the universe, observers of different dimensions form a hierarchical network structure, from low to high dimensions:
 
-$$
+$`
 |\psi\rangle_{\text{Virus}}\rightarrow|\psi\rangle_{\text{Human}}\rightarrow|\psi\rangle_{\text{Earth}}\rightarrow|\psi\rangle_{\text{Sun}}\rightarrow|\psi\rangle_{\text{Higher Dimensional Information}}
-$$
+`$
 
 This hierarchical structure has the following characteristics:
 
@@ -226,9 +226,9 @@ The relationship between viruses as low-dimension observers and humans as high-d
 
 This process can be represented by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Human (High-dimension Classical Node)}}\xrightarrow{\text{Viral Invasion (Observation)}}|\psi\rangle_{\text{Virus (Low-dimension Classical Node)}}+\text{Classical Entropy (Pathology, Damage)}
-$$
+`$
 
 3. **Information Competition**:
    - Viral invasion of humans is a manifestation of competition for classicalized information between different observer dimensions in the universe;
@@ -254,9 +254,9 @@ Humans, Earth, and the Sun also form an observer hierarchy network:
 
 This relationship can be represented by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow |\psi\rangle_{\text{Milky Way (Classical Node)}}\rightarrow|\psi\rangle_{\text{Solar System (Classical Node)}}\rightarrow|\psi\rangle_{\text{Earth (Classical Node)}}\rightarrow|\psi\rangle_{\text{Human (Observer)}}\rightarrow\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-$$
+`$
 
 ### V. Observer Roles of the Milky Way and Large-Scale Universal Structures
 
@@ -279,17 +279,17 @@ Information flow in the observer hierarchy network follows these dynamic laws:
    - Information classicalization efficiency is highest between adjacent hierarchical levels;
    - The functional relationship between information classicalization efficiency and observer dimension difference:
 
-$$
+$`
 \eta_{\text{Classicalization}} = f(D_{\text{High-dimension Observer}} - D_{\text{Low-dimension Observer}})
-$$
+`$
 
 2. **Classical Entropy Generation**:
    - The larger the dimension difference, the more classical entropy is generated during the classicalization process;
    - The relationship between classical entropy and dimension difference:
 
-$$
+$`
 S_{\text{Classical Entropy}} \propto (D_{\text{High-dimension Observer}} - D_{\text{Low-dimension Observer}})
-$$
+`$
 
 3. **Information Transmission Path**:
    - Information in the observer network is mainly transmitted along dimension gradients;

@@ -82,15 +82,15 @@ This directory contains various articles and discussions related to the Universe
 
 观察者经典化公式：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
-$$
+`$
 
 意识与宇宙关系公式：
 
-$$
+$`
 \text{意识} = \text{观察者} \otimes \text{宇宙} = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_{\text{观察者}} \otimes |\phi_j\rangle_{\text{宇宙}}
-$$
+`$
 
 ### 最新文章发展
 
@@ -160,15 +160,15 @@ Quantum-Classical Dualism articles have the following features:
 
 Observer classicalization formula:
 
-$$
+$`
 |\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
-$$
+`$
 
 Consciousness and universe relationship formula:
 
-$$
+$`
 \text{Consciousness} = \text{Observer} \otimes \text{Universe} = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_{\text{Observer}} \otimes |\phi_j\rangle_{\text{Universe}}
-$$
+`$
 
 ### Latest Article Developments
 

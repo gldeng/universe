@@ -33,12 +33,12 @@ Medical precision is based on the following quantum-classical dualism core princ
 
 Health and disease states possess an essential duality, which can be represented as:
 
-$$\Psi_{\text{health}} = \alpha|\text{health}\rangle + \beta|\text{disease}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1$$
+$`\Psi_{\text{health}} = \alpha|\text{health}\rangle + \beta|\text{disease}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1`$
 
 Where:
-- $|\text{health}\rangle$ represents the ideal healthy state
-- $|\text{disease}\rangle$ represents the pathological state
-- $\alpha$ and $\beta$ are complex amplitudes, representing the possibilities of each state
+- $`|\text{health}\rangle`$ represents the ideal healthy state
+- $`|\text{disease}\rangle`$ represents the pathological state
+- $`\alpha`$ and $`\beta`$ are complex amplitudes, representing the possibilities of each state
 
 Health is not a binary opposition of "health/disease" states, but a multidimensional superposition state (chaotic state), which manifests as specific symptoms and signs after classicalization.
 
@@ -46,7 +46,7 @@ Health is not a binary opposition of "health/disease" states, but a multidimensi
 
 Medical intervention is essentially a process of guiding quantum-classical conversion:
 
-$$\mathcal{I}_{\text{medical}}[\Psi_{\text{initial}}] \rightarrow \Psi_{\text{target}}$$
+$`\mathcal{I}_{\text{medical}}[\Psi_{\text{initial}}] \rightarrow \Psi_{\text{target}}`$
 
 Treatment effectiveness depends on:
 1. Quantum properties of the initial health state
@@ -57,45 +57,45 @@ Treatment effectiveness depends on:
 
 Individual differences originate from the quantum properties of biological systems:
 
-$$\Psi_{\text{individual}} = \sum_i c_i |\phi_i\rangle$$
+$`\Psi_{\text{individual}} = \sum_i c_i |\phi_i\rangle`$
 
-Where $|\phi_i\rangle$ represents the ground states of different biological characteristics, and $c_i$ are individual-specific complex amplitudes. This explains why standard treatments produce different effects in different individuals.
+Where $`|\phi_i\rangle`$ represents the ground states of different biological characteristics, and $`c_i`$ are individual-specific complex amplitudes. This explains why standard treatments produce different effects in different individuals.
 
 ## Quantum-Classical Medical Framework
 
 The quantum-classical precision medicine framework consists of four interconnected levels:
 
-### 1. Quantum Health Possibility Space $\Omega_{H}^Q$
+### 1. Quantum Health Possibility Space $`\Omega_{H}^Q`$
 
 Represents the complete collection of all possible health states:
 
-$$\Omega_{H}^Q = \{|\Psi_H\rangle : |\Psi_H\rangle = \sum_i a_i |\phi_i\rangle\}$$
+$`\Omega_{H}^Q = \{|\Psi_H\rangle : |\Psi_H\rangle = \sum_i a_i |\phi_i\rangle\}`$
 
 This is the complete set of all possible health trajectories for an individual, including unrealized potential states.
 
-### 2. Classical Health Manifestation Space $\Omega_{H}^C$
+### 2. Classical Health Manifestation Space $`\Omega_{H}^C`$
 
 The collection of actually observed health states:
 
-$$\Omega_{H}^C = \{H_C : H_C = \mathcal{M}(|\Psi_H\rangle)\}$$
+$`\Omega_{H}^C = \{H_C : H_C = \mathcal{M}(|\Psi_H\rangle)\}`$
 
-Where $\mathcal{M}$ is the measurement/observation operator, mapping quantum health states to classically observable indicators (such as vital signs, laboratory values, symptoms).
+Where $`\mathcal{M}`$ is the measurement/observation operator, mapping quantum health states to classically observable indicators (such as vital signs, laboratory values, symptoms).
 
-### 3. Medical Intervention Space $\mathcal{I}_{\text{medical}}$
+### 3. Medical Intervention Space $`\mathcal{I}_{\text{medical}}`$
 
 The collection of all possible medical interventions:
 
-$$\mathcal{I}_{\text{medical}} = \{I_j : I_j(\Omega_{H}^Q) \rightarrow \Omega_{H}^Q\}$$
+$`\mathcal{I}_{\text{medical}} = \{I_j : I_j(\Omega_{H}^Q) \rightarrow \Omega_{H}^Q\}`$
 
 Medical interventions act on the quantum health space, affecting the quantum possibilities of health through classical implementation pathways.
 
-### 4. Health Transition Network $\mathcal{T}_H$
+### 4. Health Transition Network $`\mathcal{T}_H`$
 
 A network describing the pathways of health state transitions:
 
-$$\mathcal{T}_H = \{(|\Psi_A\rangle, |\Psi_B\rangle, P_{A\rightarrow B})\}$$
+$`\mathcal{T}_H = \{(|\Psi_A\rangle, |\Psi_B\rangle, P_{A\rightarrow B})\}`$
 
-Where $P_{A\rightarrow B}$ is the probability of transitioning from state A to state B. This network structure explains the disease progression pathways and the possibility distribution of multiple intervention outcomes.
+Where $`P_{A\rightarrow B}`$ is the probability of transitioning from state A to state B. This network structure explains the disease progression pathways and the possibility distribution of multiple intervention outcomes.
 
 ## Quantum Foundations of Precision Medicine
 
@@ -105,9 +105,9 @@ The essence of precision medicine is to identify and utilize the quantum propert
 
 Biological systems store and process health information through multi-level quantum information encoding:
 
-$$I_Q(biological) = -\text{Tr}(\rho_{\text{biological}}\ln\rho_{\text{biological}})$$
+$`I_Q(biological) = -\text{Tr}(\rho_{\text{biological}}\ln\rho_{\text{biological}})`$
 
-Where $\rho_{\text{biological}}$ is the quantum state density matrix of the biological system.
+Where $`\rho_{\text{biological}}`$ is the quantum state density matrix of the biological system.
 
 Biological quantum information exists at:
 - Molecular level (DNA/RNA sequences, protein conformations)
@@ -119,15 +119,15 @@ Biological quantum information exists at:
 
 Health states exist in a superposition of multiple possibilities (chaotic states), represented through wave functions:
 
-$$\Psi_{\text{health}}(t) = \sum_i c_i(t)|\phi_i\rangle$$
+$`\Psi_{\text{health}}(t) = \sum_i c_i(t)|\phi_i\rangle`$
 
-Time-dependent coefficients $c_i(t)$ describe the dynamic evolution of health states. Diseases often manifest as certain unstable quantum health states that can be guided toward more stable states through appropriate interventions.
+Time-dependent coefficients $`c_i(t)`$ describe the dynamic evolution of health states. Diseases often manifest as certain unstable quantum health states that can be guided toward more stable states through appropriate interventions.
 
 ### 3. Biological Entanglement Networks
 
 Quantum entanglement (energy connection) networks in biological systems are key to precision medicine:
 
-$$|\Psi_{\text{system}}\rangle = \sum_{i,j} d_{ij}|\phi_i\rangle_A \otimes |\phi_j\rangle_B$$
+$`|\Psi_{\text{system}}\rangle = \sum_{i,j} d_{ij}|\phi_i\rangle_A \otimes |\phi_j\rangle_B`$
 
 These entanglements explain clinically observed distant correlation effects, such as:
 - One organ's disease affecting distant organ functions
@@ -142,9 +142,9 @@ Translating quantum medical concepts into classical medical practice requires sp
 
 Precision diagnosis is essentially efficient quantum-classical information conversion, achieved through:
 
-$$\mathcal{D}(\Psi_H) = \{d_1, d_2, ..., d_n\}$$
+$`\mathcal{D}(\Psi_H) = \{d_1, d_2, ..., d_n\}`$
 
-Where $\mathcal{D}$ is the diagnostic operator, and $\{d_i\}$ is the set of clinically observable indicators.
+Where $`\mathcal{D}`$ is the diagnostic operator, and $`\{d_i\}`$ is the set of clinically observable indicators.
 
 Modern precision diagnostic tools include:
 - Multi-omics analysis (genomics, proteomics, metabolomics)
@@ -156,7 +156,7 @@ Modern precision diagnostic tools include:
 
 Personalized treatment plans are classical interventions designed for specific quantum health states:
 
-$$T_{\text{personalized}}(\Psi_A) = \arg\max_T P(\Psi_A \xrightarrow{T} \Psi_{\text{target}})$$
+$`T_{\text{personalized}}(\Psi_A) = \arg\max_T P(\Psi_A \xrightarrow{T} \Psi_{\text{target}})`$
 
 Precision treatment modes include:
 - Pharmacogenomics-guided medication regimens
@@ -169,13 +169,13 @@ Precision treatment modes include:
 
 Continuous health state monitoring and feedback form a closed-loop management system:
 
-$$\Psi_{t+1} = \mathcal{F}(\Psi_t, \mathcal{M}(\Psi_t), I_t)$$
+$`\Psi_{t+1} = \mathcal{F}(\Psi_t, \mathcal{M}(\Psi_t), I_t)`$
 
 Where:
-- $\Psi_t$ is the health state at time t
-- $\mathcal{M}(\Psi_t)$ is the measurement result
-- $I_t$ is the intervention measure
-- $\mathcal{F}$ is the state evolution function
+- $`\Psi_t`$ is the health state at time t
+- $`\mathcal{M}(\Psi_t)`$ is the measurement result
+- $`I_t`$ is the intervention measure
+- $`\mathcal{F}`$ is the state evolution function
 
 This closed-loop system can continuously optimize treatment plans, achieving dynamic precision medicine.
 
@@ -187,12 +187,12 @@ The conversion between quantum information and classical information in biologic
 
 Biomolecules play a key role as quantum-classical interfaces:
 
-$$\mathcal{I}_{\text{molecular}} = \{m \in \mathcal{M} | \mathcal{Q}(m) \leftrightarrow \mathcal{C}(m)\}$$
+$`\mathcal{I}_{\text{molecular}} = \{m \in \mathcal{M} | \mathcal{Q}(m) \leftrightarrow \mathcal{C}(m)\}`$
 
 Where:
-- $\mathcal{M}$ is the set of biomolecules
-- $\mathcal{Q}(m)$ represents the quantum properties of molecules (such as electronic conformations, resonance states)
-- $\mathcal{C}(m)$ represents the classical properties of molecules (such as chemical activity, binding affinity)
+- $`\mathcal{M}`$ is the set of biomolecules
+- $`\mathcal{Q}(m)`$ represents the quantum properties of molecules (such as electronic conformations, resonance states)
+- $`\mathcal{C}(m)`$ represents the classical properties of molecules (such as chemical activity, binding affinity)
 
 Key biological quantum-classical interfaces include:
 - Receptor-ligand interactions
@@ -204,12 +204,12 @@ Key biological quantum-classical interfaces include:
 
 Quantum micro-perturbations are transformed into classical physiological effects through cascade amplification:
 
-$$A_{\text{cascade}}(q) = \prod_{i=1}^{n} g_i \cdot q$$
+$`A_{\text{cascade}}(q) = \prod_{i=1}^{n} g_i \cdot q`$
 
 Where:
-- $q$ is the initial quantum disturbance
-- $g_i$ is the amplification gain of the i-th level
-- $A_{\text{cascade}}$ is the amplitude of the final classical effect
+- $`q`$ is the initial quantum disturbance
+- $`g_i`$ is the amplification gain of the i-th level
+- $`A_{\text{cascade}}`$ is the amplitude of the final classical effect
 
 This amplification mechanism exists in:
 - Cellular signal transduction pathways
@@ -221,7 +221,7 @@ This amplification mechanism exists in:
 
 Dramatic changes in health states can be understood as information phase transition processes:
 
-$$S[\Psi] = -k_B \text{Tr}(\rho \ln \rho) \xrightarrow{\text{phase transition}} S'[\Psi']$$
+$`S[\Psi] = -k_B \text{Tr}(\rho \ln \rho) \xrightarrow{\text{phase transition}} S'[\Psi']`$
 
 Phase transition characteristics include:
 - Suddenness (critical point transitions)
@@ -242,12 +242,12 @@ Personalized medicine is based on patient-specific quantum-classical conversion 
 
 Each person has a unique quantum health characteristic map:
 
-$$\mathcal{P}_Q(individual) = \{|\Psi_i\rangle, \omega_i, \tau_i\}$$
+$`\mathcal{P}_Q(individual) = \{|\Psi_i\rangle, \omega_i, \tau_i\}`$
 
 Where:
-- $|\Psi_i\rangle$ represents key health subsystem states
-- $\omega_i$ represents state weights
-- $\tau_i$ represents state transition tendencies
+- $`|\Psi_i\rangle`$ represents key health subsystem states
+- $`\omega_i`$ represents state weights
+- $`\tau_i`$ represents state transition tendencies
 
 Individual quantum characteristics include:
 - Genetic variation maps
@@ -260,12 +260,12 @@ Individual quantum characteristics include:
 
 Predicting individual treatment responses based on quantum state evolution:
 
-$$R(individual, treatment) = \langle\Psi_{final}|\hat{O}|\Psi_{initial}\rangle$$
+$`R(individual, treatment) = \langle\Psi_{final}|\hat{O}|\Psi_{initial}\rangle`$
 
 Where:
-- $|\Psi_{initial}\rangle$ is the pre-treatment state
-- $|\Psi_{final}\rangle$ is the expected post-treatment state
-- $\hat{O}$ is the observation operator, evaluating clinically concerned outcomes
+- $`|\Psi_{initial}\rangle`$ is the pre-treatment state
+- $`|\Psi_{final}\rangle`$ is the expected post-treatment state
+- $`\hat{O}`$ is the observation operator, evaluating clinically concerned outcomes
 
 Individual response predictions apply to:
 - Drug sensitivity prediction
@@ -277,13 +277,13 @@ Individual response predictions apply to:
 
 Self-optimizing treatment algorithms adjusted based on continuous feedback:
 
-$$T_{t+1} = T_t + \eta \nabla_T R(T_t)$$
+$`T_{t+1} = T_t + \eta \nabla_T R(T_t)`$
 
 Where:
-- $T_t$ is the treatment plan at time t
-- $R(T_t)$ is the treatment response function
-- $\eta$ is the learning rate
-- $\nabla_T$ is the gradient operator in treatment space
+- $`T_t`$ is the treatment plan at time t
+- $`R(T_t)`$ is the treatment response function
+- $`\eta`$ is the learning rate
+- $`\nabla_T`$ is the gradient operator in treatment space
 
 This algorithm realizes truly personalized precision medicine, continuously optimizing treatment plans based on individual dynamic responses.
 
@@ -295,7 +295,7 @@ Quantum-classical binary diagnostic technologies integrate quantum sensitivity w
 
 Multi-dimensional diagnostics map patient health states to high-dimensional feature spaces:
 
-$$\Phi: \Psi_H \rightarrow \mathbb{R}^n$$
+$`\Phi: \Psi_H \rightarrow \mathbb{R}^n`$
 
 This mapping transforms the complexity of quantum health states into analyzable classical representations, using techniques including:
 - Multi-omics integrated analysis
@@ -307,7 +307,7 @@ This mapping transforms the complexity of quantum health states into analyzable 
 
 Quantum-enhanced biosensors provide diagnostic capabilities beyond classical limits:
 
-$$\Delta X \Delta P < \frac{\hbar}{2}$$
+$`\Delta X \Delta P < \frac{\hbar}{2}`$
 
 Quantum diagnostic technologies utilize:
 - Quantum coherence-enhanced imaging
@@ -319,9 +319,9 @@ Quantum diagnostic technologies utilize:
 
 Precisely quantifying the inherent uncertainty in diagnostics:
 
-$$U(diagnosis) = H(P(disease|observation)) = -\sum_i p_i \log p_i$$
+$`U(diagnosis) = H(P(disease|observation)) = -\sum_i p_i \log p_i`$
 
-Where $H$ is the information entropy of the diagnostic distribution.
+Where $`H`$ is the information entropy of the diagnostic distribution.
 
 Uncertainty quantification applies to:
 - Risk stratification decisions
@@ -337,7 +337,7 @@ Quantum-classical dualism reinterprets major treatment modalities:
 
 The essence of drug action is interference with specific quantum-classical conversions:
 
-$$\hat{H}_{\text{drug}} = \hat{H}_0 + \hat{V}_{\text{drug}}$$
+$`\hat{H}_{\text{drug}} = \hat{H}_0 + \hat{V}_{\text{drug}}`$
 
 Drug regulation mechanisms include:
 - Molecular quantum conformation changes
@@ -349,9 +349,9 @@ Drug regulation mechanisms include:
 
 Surgery is essentially a physical reconstruction of biological information networks:
 
-$$\mathcal{G}'_{\text{biological}} = \mathcal{T}_{\text{surgery}}(\mathcal{G}_{\text{biological}})$$
+$`\mathcal{G}'_{\text{biological}} = \mathcal{T}_{\text{surgery}}(\mathcal{G}_{\text{biological}})`$
 
-Where $\mathcal{G}$ is the biological information network, and $\mathcal{T}$ is the topological transformation.
+Where $`\mathcal{G}`$ is the biological information network, and $`\mathcal{T}`$ is the topological transformation.
 
 Surgical interventions reshape:
 - Physical connection structures
@@ -363,7 +363,7 @@ Surgical interventions reshape:
 
 Integrative medicine achieves multi-level quantum-classical synergy:
 
-$$\mathcal{I}_{\text{integrative}} = \sum_i w_i \mathcal{I}_i + \sum_{i<j} c_{ij}\mathcal{I}_i \otimes \mathcal{I}_j$$
+$`\mathcal{I}_{\text{integrative}} = \sum_i w_i \mathcal{I}_i + \sum_{i<j} c_{ij}\mathcal{I}_i \otimes \mathcal{I}_j`$
 
 Where the second term represents quantum synergistic effects between interventions.
 
@@ -404,7 +404,7 @@ Frontier challenges facing quantum-classical precision medicine theory:
 
 Cancer, as a pathological classicalization of cellular quantum states, can be reshaped through targeted interventions:
 
-$$|\Psi_{\text{cancer}}\rangle = \sum_i c_i |\phi_i\rangle \xrightarrow{\text{treatment}} |\Psi_{\text{health}}\rangle = \sum_j d_j |\theta_j\rangle$$
+$`|\Psi_{\text{cancer}}\rangle = \sum_i c_i |\phi_i\rangle \xrightarrow{\text{treatment}} |\Psi_{\text{health}}\rangle = \sum_j d_j |\theta_j\rangle`$
 
 Precision oncology applications include:
 - Liquid biopsy dynamic monitoring
@@ -416,7 +416,7 @@ Precision oncology applications include:
 
 Chronic diseases viewed as metastable health attractors:
 
-$$\mathcal{A}_{\text{chronic}} = \{|\Psi\rangle | \lim_{t\to\infty} U(t)|\Psi_0\rangle = |\Psi\rangle\}$$
+$`\mathcal{A}_{\text{chronic}} = \{|\Psi\rangle | \lim_{t\to\infty} U(t)|\Psi_0\rangle = |\Psi\rangle\}`$
 
 Precision management strategies:
 - Multi-dimensional marker trajectory monitoring
@@ -428,7 +428,7 @@ Precision management strategies:
 
 Mental health states as highly quantized consciousness states:
 
-$$\rho_{\text{mental}} = \sum_i p_i |\Psi_i\rangle\langle\Psi_i|$$
+$`\rho_{\text{mental}} = \sum_i p_i |\Psi_i\rangle\langle\Psi_i|`$
 
 Mental health interventions under the quantum-classical framework:
 - Neuromodulation precision targeting
@@ -440,28 +440,28 @@ Mental health interventions under the quantum-classical framework:
 
 ### Medical Precision Metrics
 
-Medical precision $P$ can be formally expressed as:
+Medical precision $`P`$ can be formally expressed as:
 
-$$P(intervention, individual) = \frac{I_{\text{shared}}(intervention;outcome|individual)}{H(outcome|individual)}$$
+$`P(intervention, individual) = \frac{I_{\text{shared}}(intervention;outcome|individual)}{H(outcome|individual)}`$
 
 Where:
-- $I_{\text{shared}}$ is the mutual information
-- $H$ is the information entropy
+- $`I_{\text{shared}}`$ is the mutual information
+- $`H`$ is the information entropy
 
 ### Health State Transition Dynamics
 
 The quantum dynamics of health states can be represented as:
 
-$$i\hbar\frac{\partial}{\partial t}|\Psi_H(t)\rangle = \hat{H}_{\text{health}}|\Psi_H(t)\rangle$$
+$`i\hbar\frac{\partial}{\partial t}|\Psi_H(t)\rangle = \hat{H}_{\text{health}}|\Psi_H(t)\rangle`$
 
-Where $\hat{H}_{\text{health}}$ is the health Hamiltonian operator:
+Where $`\hat{H}_{\text{health}}`$ is the health Hamiltonian operator:
 
-$$\hat{H}_{\text{health}} = \hat{H}_{\text{internal}} + \hat{H}_{\text{environment}} + \hat{H}_{\text{intervention}}$$
+$`\hat{H}_{\text{health}} = \hat{H}_{\text{internal}} + \hat{H}_{\text{environment}} + \hat{H}_{\text{intervention}}`$
 
 ### Precision Medicine Optimization Problem
 
 Precision medicine is essentially a multi-objective optimization problem:
 
-$$\min_{\mathcal{I}} \left\{ -E[\text{effect}(\mathcal{I}, individual)], \text{risk}(\mathcal{I}, individual), \text{cost}(\mathcal{I}) \right\}$$
+$`\min_{\mathcal{I}} \left\{ -E[\text{effect}(\mathcal{I}, individual)], \text{risk}(\mathcal{I}, individual), \text{cost}(\mathcal{I}) \right\}`$
 
 This framework supports joint optimization of medical decisions using quantum-classical computational methods. 

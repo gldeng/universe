@@ -14,53 +14,53 @@ The Quantum-Classical Cognitive Overload and Information Anxiety Theory examines
 
 Information overload demonstrates a quantum-classical dual nature:
 
-$$\mathcal{IO} = \{\Psi_{possibility}, \Phi_{actuality}\}$$
+$`\mathcal{IO} = \{\Psi_{possibility}, \Phi_{actuality}\}`$
 
 Where:
-- $\Psi_{possibility}$ represents the quantum possibility space of potential information (chaotic infinite options)
-- $\Phi_{actuality}$ represents the classical deterministic space of processed information (integrated knowledge)
+- $`\Psi_{possibility}`$ represents the quantum possibility space of potential information (chaotic infinite options)
+- $`\Phi_{actuality}`$ represents the classical deterministic space of processed information (integrated knowledge)
 
 Information anxiety arises from imbalance between the two:
 
-$$A_{information} = \alpha\left|\frac{\Psi_{possibility}}{\Phi_{actuality}} - \beta\right|$$
+$`A_{information} = \alpha\left|\frac{\Psi_{possibility}}{\Phi_{actuality}} - \beta\right|`$
 
-Where $\alpha$ is the individual sensitivity parameter and $\beta$ is the optimal balance constant.
+Where $`\alpha`$ is the individual sensitivity parameter and $`\beta`$ is the optimal balance constant.
 
 ### 2. Cognitive Bandwidth and Quantum Collapse
 
 Human cognitive bandwidth has fundamental limitations:
 
-$$B_{cognitive}(t) = B_0 + \Delta B(t) - \gamma \cdot S_{fatigue}(t)$$
+$`B_{cognitive}(t) = B_0 + \Delta B(t) - \gamma \cdot S_{fatigue}(t)`$
 
-Where $B_0$ is the baseline cognitive bandwidth, $\Delta B(t)$ is the dynamically variable component, and $S_{fatigue}(t)$ is cognitive fatigue.
+Where $`B_0`$ is the baseline cognitive bandwidth, $`\Delta B(t)`$ is the dynamically variable component, and $`S_{fatigue}(t)`$ is cognitive fatigue.
 
 Classical processing of information follows a quantum collapse model:
 
-$$\mathcal{C}_{cognitive}(I) = \sum_i P_i(t)I_iP_i(t)$$
+$`\mathcal{C}_{cognitive}(I) = \sum_i P_i(t)I_iP_i(t)`$
 
-Where $P_i(t)$ are time-varying cognitive projection operators that determine how information is categorized and integrated.
+Where $`P_i(t)`$ are time-varying cognitive projection operators that determine how information is categorized and integrated.
 
 Overload occurs when:
 
-$$I_{input} > B_{cognitive} \cdot \eta_{processing}$$
+$`I_{input} > B_{cognitive} \cdot \eta_{processing}`$
 
-Where $\eta_{processing}$ is the information processing efficiency coefficient.
+Where $`\eta_{processing}`$ is the information processing efficiency coefficient.
 
 ### 3. Attention Entanglement and Dispersion
 
 Attention forms quantum entangled states across multiple information sources:
 
-$$|\Psi_{attention}\rangle = \sum_{i}c_i(t)|source_i\rangle$$
+$`|\Psi_{attention}\rangle = \sum_{i}c_i(t)|source_i\rangle`$
 
-Where coefficients $c_i(t)$ fluctuate over time and satisfy:
+Where coefficients $`c_i(t)`$ fluctuate over time and satisfy:
 
-$$\sum_i |c_i(t)|^2 = 1$$
+$`\sum_i |c_i(t)|^2 = 1`$
 
 The attention dispersion index is defined as:
 
-$$D_{attention} = 1 - \sum_i |c_i|^4$$
+$`D_{attention} = 1 - \sum_i |c_i|^4`$
 
-$D_{attention}$ approaching 1 indicates severe dispersion, while approaching 0 indicates high concentration.
+$`D_{attention}`$ approaching 1 indicates severe dispersion, while approaching 0 indicates high concentration.
 
 ### 4. Quantum-Classical Transition Mechanism of Information Anxiety
 
@@ -72,9 +72,9 @@ Information anxiety involves the following quantum-classical conversion process:
 
 Anxiety levels directly correlate with conversion efficiency:
 
-$$A(t) = k \cdot \frac{I_{quantum}(t)}{I_{classical}(t)+\epsilon} \cdot e^{-\eta_{\mathcal{C}} \cdot t}$$
+$`A(t) = k \cdot \frac{I_{quantum}(t)}{I_{classical}(t)+\epsilon} \cdot e^{-\eta_{\mathcal{C}} \cdot t}`$
 
-Where $\eta_{\mathcal{C}}$ is classicalization efficiency and $\epsilon$ is a small constant to prevent division by zero.
+Where $`\eta_{\mathcal{C}}`$ is classicalization efficiency and $`\epsilon`$ is a small constant to prevent division by zero.
 
 ## Analysis of Modern Information Environment
 
@@ -89,7 +89,7 @@ The digital media environment exhibits high quantum properties:
 
 The quantum entanglement degree of media consumption:
 
-$$E_{media} = -\text{Tr}(\rho_{\text{user-media}} \log_2 \rho_{\text{user}})$$
+$`E_{media} = -\text{Tr}(\rho_{\text{user-media}} \log_2 \rho_{\text{user}})`$
 
 ### 2. Symptoms of Classicalization Failure
 
@@ -103,7 +103,7 @@ Failed information classicalization manifests in various cognitive and psycholog
 
 Symptom severity correlates with quantum-classical ratio:
 
-$$S_{symptoms} = \log\left(\frac{\text{Unprocessed Information}}{\text{Integrated Information}}\right)$$
+$`S_{symptoms} = \log\left(\frac{\text{Unprocessed Information}}{\text{Integrated Information}}\right)`$
 
 ### 3. Social-Level Quantum-Classical Information Dynamics
 
@@ -116,7 +116,7 @@ Information overload manifests as collective phenomena at the social level:
 
 Social information entropy growth rate:
 
-$$\frac{dS_{social information}}{dt} = \alpha I_{creation} - \beta I_{integration} + \gamma I_{noise}$$
+$`\frac{dS_{social information}}{dt} = \alpha I_{creation} - \beta I_{integration} + \gamma I_{noise}`$
 
 ## Adaptation Strategies and Intervention Methods
 
@@ -130,24 +130,24 @@ Developing cognitive skills to balance quantum exploration and classical integra
 
 Training can improve cognitive conversion efficiency:
 
-$$\eta_{\mathcal{C}} = \eta_0 + \Delta\eta \cdot (1 - e^{-\lambda T})$$
+$`\eta_{\mathcal{C}} = \eta_0 + \Delta\eta \cdot (1 - e^{-\lambda T})`$
 
-Where $T$ is training time and $\lambda$ is the learning rate.
+Where $`T`$ is training time and $`\lambda`$ is the learning rate.
 
 ### 2. Cognitive Filter Design
 
 Designing information filtering mechanisms to enhance cognitive bandwidth:
 
-1. **Relevance Quantification**: $R(I) = \cos(\theta_{I,G})$, the angle between information and goals
-2. **Signal-to-Noise Optimization**: $\text{SNR} = \frac{I_{signal}}{I_{noise}}$
-3. **Entropy Complexity Control**: Limiting $H(I_{\text{input}}) \leq H_{\text{threshold}}$
+1. **Relevance Quantification**: $`R(I) = \cos(\theta_{I,G})`$, the angle between information and goals
+2. **Signal-to-Noise Optimization**: $`\text{SNR} = \frac{I_{signal}}{I_{noise}}`$
+3. **Entropy Complexity Control**: Limiting $`H(I_{\text{input}}) \leq H_{\text{threshold}}`$
 
 Optimal filtering function:
 
-$$F_{filter}(I) = \begin{cases}
+$`F_{filter}(I) = \begin{cases}
 1, & \text{if } R(I) \cdot \text{SNR} > \theta_{\text{threshold}} \\
 0, & \text{otherwise}
-\end{cases}$$
+\end{cases}`$
 
 ### 3. Information Classicalization Assistance Technologies
 
@@ -160,9 +160,9 @@ Developing auxiliary technologies to assist the information classicalization pro
 
 Classicalization efficiency improvement with technological assistance:
 
-$$\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{technology}})$$
+$`\eta_{\mathcal{C}}^{'} = \eta_{\mathcal{C}} \cdot (1 + \gamma_{\text{technology}})`$
 
-Where $\gamma_{\text{technology}}$ is the technology enhancement coefficient.
+Where $`\gamma_{\text{technology}}`$ is the technology enhancement coefficient.
 
 ### 4. Social System Interventions
 
@@ -175,7 +175,7 @@ Social-level intervention strategies:
 
 Information wellbeing index:
 
-$$W_{information} = \frac{I_{useful}}{I_{total}} \cdot \frac{B_{cognitive}}{I_{input}} \cdot \frac{T_{reflection}}{T_{total time}}$$
+$`W_{information} = \frac{I_{useful}}{I_{total}} \cdot \frac{B_{cognitive}}{I_{input}} \cdot \frac{T_{reflection}}{T_{total time}}`$
 
 ## Theory Applications
 

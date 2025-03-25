@@ -140,25 +140,25 @@ The emphasized "Simran" (meditation and union) in Japji Sahib corresponds to wor
 
 The core concepts of Japji Sahib can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"Ik Onkar"（一个宇宙创造者）} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-$$
+`$
 
-$$
+$`
 \text{"Hukam"（神圣旨意）} \Leftrightarrow \text{观察者}\xrightarrow{\text{黑洞吸收}}|\psi\rangle_{\text{经典域}}
-$$
+`$
 
-$$
+$`
 \text{"Mann"（信仰的心灵）} \Leftrightarrow k_i \uparrow \Rightarrow \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}} \uparrow
-$$
+`$
 
-$$
+$`
 \text{"五个境界"} \Leftrightarrow \sum_{i=1}^{5} w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right), k_5 > k_4 > k_3 > k_2 > k_1
-$$
+`$
 
-$$
+$`
 \text{"Simran"（冥想与合一）} \Leftrightarrow \text{虫洞通信}:\{\text{低维经典世界} \leftrightarrow \text{高维经典世界}\}
-$$
+`$
 
 ## 结论
 ## Conclusion

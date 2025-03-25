@@ -51,7 +51,7 @@
 
 #### 认知维度增强系统
 
-**原理**: 基于观察者维度公式 $D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$ 设计的认知增强方案。
+**原理**: 基于观察者维度公式 $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$ 设计的认知增强方案。
 
 **应用方法**:
 - 经典知识优化协议：提高知识结构连贯性

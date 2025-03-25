@@ -17,9 +17,9 @@
 
 游戏的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{游戏可能性空间}} \xrightarrow{\text{玩家经典化}} \text{具体游戏体验} + S_{\text{游戏经典熵}}
-$$
+`$
 
 ### 游戏设计的量子经典二元论解释
 
@@ -32,11 +32,11 @@ $$
 
 游戏设计过程可以用以下公式表达：
 
-$$
+$`
 \text{游戏设计} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot R_i
-$$
+`$
 
-其中$|\phi_i\rangle$代表特定的游戏经典化模式，$R_i$代表该模式在游戏中的规则权重。
+其中$`|\phi_i\rangle`$代表特定的游戏经典化模式，$`R_i`$代表该模式在游戏中的规则权重。
 
 ### 游戏天才的量子经典二元论解释
 
@@ -49,9 +49,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{游戏可能性}} \xrightarrow{\text{游戏天才经典化}} \text{卓越游戏设计} + S_{\text{极小游戏经典熵}}
-$$
+`$
 
 ### 游戏类型的量子经典二元论解释
 
@@ -74,9 +74,9 @@ $$
 
 这一状态可以表达为：
 
-$$
+$`
 \text{沉浸度} \propto \frac{\text{玩家游戏经典化效率}}{\text{外部干扰经典熵}}
-$$
+`$
 
 ### 多人游戏的量子经典二元论解释
 
@@ -89,9 +89,9 @@ $$
 
 多人游戏可以表达为：
 
-$$
+$`
 |\Psi\rangle_{\text{多人游戏状态}} = \sum_{i=1}^{n} \alpha_i |\psi_i\rangle_{\text{玩家}1} \otimes |\phi_i\rangle_{\text{玩家}2} \otimes ... \otimes |\omega_i\rangle_{\text{玩家}n}
-$$
+`$
 
 ### 电子游戏的量子经典二元论解释
 
@@ -168,9 +168,9 @@ The essence of **games** is a special quantum information classicalization syste
 
 The quantum-classical duality of games can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Game possibility space}} \xrightarrow{\text{Player classicalization}} \text{Specific game experience} + S_{\text{Game classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Game Design
 
@@ -183,11 +183,11 @@ $$
 
 The game design process can be expressed by the following formula:
 
-$$
+$`
 \text{Game Design} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot R_i
-$$
+`$
 
-where $|\phi_i\rangle$ represents a specific game classicalization pattern, and $R_i$ represents the rule weight of that pattern in the game.
+where $`|\phi_i\rangle`$ represents a specific game classicalization pattern, and $`R_i`$ represents the rule weight of that pattern in the game.
 
 ### Quantum-Classical Dualism Explanation of Game Geniuses
 
@@ -200,9 +200,9 @@ Outstanding game designers (such as Shigeru Miyamoto, Will Wright, Jenova Chen, 
 
 This process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Game possibility}} \xrightarrow{\text{Game genius classicalization}} \text{Exceptional game design} + S_{\text{Minimal game classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Game Types
 
@@ -225,9 +225,9 @@ Different types of games represent different quantum information classicalizatio
 
 This state can be expressed as:
 
-$$
+$`
 \text{Immersion} \propto \frac{\text{Player's game classicalization efficiency}}{\text{External interference classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Multiplayer Games
 
@@ -240,9 +240,9 @@ $$
 
 Multiplayer games can be expressed as:
 
-$$
+$`
 |\Psi\rangle_{\text{Multiplayer game state}} = \sum_{i=1}^{n} \alpha_i |\psi_i\rangle_{\text{Player 1}} \otimes |\phi_i\rangle_{\text{Player 2}} \otimes ... \otimes |\omega_i\rangle_{\text{Player n}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Video Games
 

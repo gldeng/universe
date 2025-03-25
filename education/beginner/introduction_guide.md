@@ -25,9 +25,9 @@
 2. 我们作为"观察者"，将这些可能性"经典化"为我们实际经历的确定现实
 3. 这个过程既创造了我们的"经典知识"，也产生了某种"经典熵"（类似信息损失）
 
-$$
+$`
 \text{宇宙} = \text{量子域} + \text{经典域}
-$$
+`$
 
 ## 核心概念简介
 
@@ -142,9 +142,9 @@ Simply put, Quantum-Classical Dualism tells us:
 2. As "observers," we "classicalize" these possibilities into the definite reality we actually experience
 3. This process both creates our "classical knowledge" and produces a kind of "classical entropy" (similar to information loss)
 
-$$
+$`
 \text{Universe} = \text{Quantum Domain} + \text{Classical Domain}
-$$
+`$
 
 ## Introduction to Core Concepts
 

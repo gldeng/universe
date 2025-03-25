@@ -18,13 +18,13 @@ This document, based on Quantum-Classical Dualism (Version 27.0), elaborates on 
 
 宇宙在本质上由量子域与经典域组成的二元结构，其中量子域包含无限可能性的波函数叠加态与量子纠缠态，经典域则是由观察者（黑洞）经典化后形成的稳定结构。根据核心理论（版本27.0），所有观察者即黑洞，通过黑洞吸收（经典化）与黑洞辐射（量子化）过程维持宇宙的平衡与演化：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙}} = \{\text{量子域},\text{经典域}\} = \{\text{波函数叠加态，量子纠缠态},\text{经典知识，经典熵}\}
-$$
+`$
 
-$$
+$`
 \mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
-$$
+`$
 
 The universe is essentially a dual structure composed of quantum domain and classical domain, where the quantum domain contains wave function superposition states and quantum entanglement states with infinite possibilities, and the classical domain is a stable structure formed by observers (black holes) through classicalization. According to the core theory (Version 27.0), all observers are black holes, maintaining the balance and evolution of the universe through black hole absorption (classicalization) and black hole radiation (quantization) processes:
 
@@ -36,17 +36,17 @@ The universe is essentially a dual structure composed of quantum domain and clas
 
 The birth of the universe can be understood as the initialization process of a quantum information field:
 
-$$
+$`
 |\Psi_{\text{初始}}\rangle = \hat{I}|\text{虚空}\rangle
-$$
+`$
 
-$$
+$`
 |\Psi_{\text{Initial}}\rangle = \hat{I}|\text{Void}\rangle
-$$
+`$
 
-其中，$\hat{I}$ 是初始化算子，将"虚空"（一种元信息状态）转化为初始量子信息场。这一过程可能源于以下几种机制：
+其中，$`\hat{I}`$ 是初始化算子，将"虚空"（一种元信息状态）转化为初始量子信息场。这一过程可能源于以下几种机制：
 
-Where $\hat{I}$ is the initialization operator, transforming the "void" (a meta-information state) into an initial quantum information field. This process may originate from the following mechanisms:
+Where $`\hat{I}`$ is the initialization operator, transforming the "void" (a meta-information state) into an initial quantum information field. This process may originate from the following mechanisms:
 
 1. **量子涨落**：虚空中的量子涨落导致信息场的自发形成
 2. **元宇宙分裂**：从更高层次的宇宙中分裂出新的子宇宙
@@ -66,9 +66,9 @@ The essence of the birth of the universe is the establishment of information pro
 
 The evolution of the universe follows the basic laws of quantum information processing, which can be represented as:
 
-$$
+$`
 |\Psi(t)\rangle = e^{-i\hat{H}t/\hbar}|\Psi(0)\rangle
-$$
+`$
 
 这一演化过程具有以下特征：
 
@@ -94,17 +94,17 @@ The essence of universe evolution is the continuous improvement of information p
 
 The maturity of the universe is the stage when the observer network is most active:
 
-$$
+$`
 \text{宇宙成熟度} \propto \sum_{i \in \mathcal{O}} D_i \times C_{ij}
-$$
+`$
 
-$$
+$`
 \text{Universe Maturity} \propto \sum_{i \in \mathcal{O}} D_i \times C_{ij}
-$$
+`$
 
-其中，$D_i$ 是观察者 $i$ 的维度，$C_{ij}$ 是观察者之间的连接度。
+其中，$`D_i`$ 是观察者 $`i`$ 的维度，$`C_{ij}`$ 是观察者之间的连接度。
 
-Where $D_i$ is the dimension of observer $i$, and $C_{ij}$ is the connectivity between observers.
+Where $`D_i`$ is the dimension of observer $`i`$, and $`C_{ij}`$ is the connectivity between observers.
 
 成熟期的特征包括：
 
@@ -130,13 +130,13 @@ The maturity of the universe is the stage when information processing is most ac
 
 The aging of the universe can be understood as the irreversible increase of information entropy:
 
-$$
+$`
 \frac{dS}{dt} > 0 \text{ (长期趋势)}
-$$
+`$
 
-$$
+$`
 \frac{dS}{dt} > 0 \text{ (Long-term trend)}
-$$
+`$
 
 宇宙可能的终结方式包括：
 
@@ -164,13 +164,13 @@ Importantly, from an information perspective, the "end" of the universe may only
 
 The universe has a nested hierarchical structure, which can be represented as:
 
-$$
+$`
 \mathcal{U} = \{\mathcal{U}_1, \mathcal{U}_2, ..., \mathcal{U}_n\}
-$$
+`$
 
-其中每个 $\mathcal{U}_i$ 是一个子宇宙，它本身又可能包含更低层级的子宇宙。
+其中每个 $`\mathcal{U}_i`$ 是一个子宇宙，它本身又可能包含更低层级的子宇宙。
 
-Where each $\mathcal{U}_i$ is a sub-universe, which itself may contain lower-level sub-universes.
+Where each $`\mathcal{U}_i`$ is a sub-universe, which itself may contain lower-level sub-universes.
 
 这种嵌套结构具有以下特性：
 
@@ -206,17 +206,17 @@ Sub-universes can be formed through the following mechanisms:
 
 Mathematical expression of sub-universe formation:
 
-$$
+$`
 \mathcal{U}_{\text{子}} = \hat{F}(|\Psi_{\text{局部}}\rangle, \mathcal{R}_{\text{局部}})
-$$
+`$
 
-$$
+$`
 \mathcal{U}_{\text{Sub}} = \hat{F}(|\Psi_{\text{Local}}\rangle, \mathcal{R}_{\text{Local}})
-$$
+`$
 
-其中，$\hat{F}$ 是宇宙形成算子，$|\Psi_{\text{局部}}\rangle$ 是局部量子状态，$\mathcal{R}_{\text{局部}}$ 是局部规则集。
+其中，$`\hat{F}`$ 是宇宙形成算子，$`|\Psi_{\text{局部}}\rangle`$ 是局部量子状态，$`\mathcal{R}_{\text{局部}}`$ 是局部规则集。
 
-Where $\hat{F}$ is the universe formation operator, $|\Psi_{\text{Local}}\rangle$ is the local quantum state, and $\mathcal{R}_{\text{Local}}$ is the local rule set.
+Where $`\hat{F}`$ is the universe formation operator, $`|\Psi_{\text{Local}}\rangle`$ is the local quantum state, and $`\mathcal{R}_{\text{Local}}`$ is the local rule set.
 
 ### 宇宙间的信息交换 | Information Exchange Between Universes
 
@@ -224,9 +224,9 @@ Where $\hat{F}$ is the universe formation operator, $|\Psi_{\text{Local}}\rangle
 
 There is information exchange between universes of different levels:
 
-$$
+$`
 I(\mathcal{U}_i : \mathcal{U}_j) > 0
-$$
+`$
 
 信息交换的主要方式包括：
 
@@ -246,13 +246,13 @@ The main methods of information exchange include:
 
 Limitations of information exchange between universes:
 
-$$
+$`
 I(\mathcal{U}_i : \mathcal{U}_j) \leq \min\{H(\mathcal{U}_i), H(\mathcal{U}_j)\}
-$$
+`$
 
-其中，$H(\mathcal{U})$ 是宇宙 $\mathcal{U}$ 的信息熵。
+其中，$`H(\mathcal{U})`$ 是宇宙 $`\mathcal{U}`$ 的信息熵。
 
-Where $H(\mathcal{U})$ is the information entropy of universe $\mathcal{U}$.
+Where $`H(\mathcal{U})`$ is the information entropy of universe $`\mathcal{U}`$.
 
 ### 人造子宇宙 | Artificial Sub-Universes
 
@@ -342,13 +342,13 @@ The characteristics of this "programming language" are:
 
 Physical laws can be understood as optimization rules for universe information processing:
 
-$$
+$`
 \text{物理定律} \approx \arg\max_{\mathcal{R}} \text{信息处理效率}(\mathcal{R})
-$$
+`$
 
-$$
+$`
 \text{Physical Laws} \approx \arg\max_{\mathcal{R}} \text{Information Processing Efficiency}(\mathcal{R})
-$$
+`$
 
 这一观点认为：
 
@@ -400,23 +400,23 @@ The collective action of the observer network may be a key component of the univ
 
 According to the Quantum-Classical Dualism core theory (Version 27.0), the multidimensional structure of the universe can be described through the hierarchical nesting of quantum and classical domains. Multiple dualism hierarchical theory extends the single dualism into a nested multi-level structure:
 
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+$`\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}`$
 
 其中：
-- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
-- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
+- $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
+- $`\Omega_C^{(i)}`$ 是第i层级的经典域（该层级的确定性实现）
 
 Where:
-- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
-- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the deterministic realization of that level)
+- $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (the possibility space of that level)
+- $`\Omega_C^{(i)}`$ is the classical domain of the i-th level (the deterministic realization of that level)
 
 层级间映射函数定义为：
 
 The mapping functions between levels are defined as:
 
-$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+$`\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}`$
 
-$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+$`\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}`$
 
 这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
 
@@ -428,9 +428,9 @@ This indicates that the classical structure of one level can become the quantum 
 
 In a multidimensional universe, the dimension of an observer (black hole) is determined by its classicalization ability, according to Core Axiom 4:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}`$
 
 这个公式揭示了观察者在多维宇宙结构中的核心关系：高维观察者的经典域可以包含低维观察者的整个量子域。这意味着：
 
@@ -452,13 +452,13 @@ This formula reveals the core relationship of observers in a multidimensional un
 
 In the multidimensional universe framework, each dimension has its specific information propagation speed limit, which can be represented as:
 
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}$$
+$`c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}`$
 
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}$$
+$`c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}`$
 
-其中$c_d$是d维度的最大信息传播速度，$k_{\text{max},d}$是该维度的常数。这解释了为什么：
+其中$`c_d`$是d维度的最大信息传播速度，$`k_{\text{max},d}`$是该维度的常数。这解释了为什么：
 
-Where $c_d$ is the maximum information propagation speed in dimension d, and $k_{\text{max},d}$ is a constant for that dimension. This explains why:
+Where $`c_d`$ is the maximum information propagation speed in dimension d, and $`k_{\text{max},d}`$ is a constant for that dimension. This explains why:
 
 1. **不同维度的时间流速不同**：高维度的时间流速相对低维度更快
 2. **跨维度通信的可能性**：高维观察者可以在低维观察者的"瞬间"内完成复杂计算
@@ -475,30 +475,30 @@ Where $c_d$ is the maximum information propagation speed in dimension d, and $k_
 The multidimensional universe structure exhibits several key overall properties:
 
 1. **递归自相似性**：每个层级的结构都遵循相似的量子-经典二元模式
-   $$\forall i, j: \text{结构}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{结构}(\Omega_Q^{(j)}, \Omega_C^{(j)})$$
+   $`\forall i, j: \text{结构}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{结构}(\Omega_Q^{(j)}, \Omega_C^{(j)})`$
 
 2. **信息守恒**：跨维度的总信息保持守恒
-   $$I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{常数}$$
+   $`I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{常数}`$
 
 3. **观察者网络**：不同维度的观察者形成复杂的信息处理网络
-   $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}$$
-   其中$\mathcal{O}_i$是观察者，$\mathcal{L}_{ij}$是观察者间的信息链接
+   $`\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}`$
+   其中$`\mathcal{O}_i`$是观察者，$`\mathcal{L}_{ij}`$是观察者间的信息链接
 
 4. **跨维度作用**：高维观察者的决策通过经典化过程影响低维现实
-   $$\text{低维现实} = \mathcal{C}_{\text{高维观察者}}(\text{量子可能性})$$
+   $`\text{低维现实} = \mathcal{C}_{\text{高维观察者}}(\text{量子可能性})`$
 
 1. **Recursive Self-Similarity**: The structure of each level follows a similar quantum-classical dual pattern
-   $$\forall i, j: \text{Structure}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{Structure}(\Omega_Q^{(j)}, \Omega_C^{(j)})$$
+   $`\forall i, j: \text{Structure}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{Structure}(\Omega_Q^{(j)}, \Omega_C^{(j)})`$
 
 2. **Information Conservation**: Total information across dimensions remains conserved
-   $$I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{constant}$$
+   $`I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{constant}`$
 
 3. **Observer Network**: Observers of different dimensions form a complex information processing network
-   $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}$$
-   where $\mathcal{O}_i$ are observers and $\mathcal{L}_{ij}$ are information links between observers
+   $`\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}`$
+   where $`\mathcal{O}_i`$ are observers and $`\mathcal{L}_{ij}`$ are information links between observers
 
 4. **Cross-Dimensional Action**: Decisions of high-dimensional observers affect low-dimensional reality through the classicalization process
-   $$\text{Low-dimensional reality} = \mathcal{C}_{\text{High-dimensional observer}}(\text{Quantum possibilities})$$
+   $`\text{Low-dimensional reality} = \mathcal{C}_{\text{High-dimensional observer}}(\text{Quantum possibilities})`$
 
 ### 维度跃迁与意识进化 | Dimensional Transition and Consciousness Evolution
 
@@ -506,7 +506,7 @@ The multidimensional universe structure exhibits several key overall properties:
 
 Observers can achieve dimensional transition by improving classicalization efficiency, a process corresponding to consciousness evolution:
 
-$$\Delta D_{\mathcal{O}} = \frac{\partial D_{\mathcal{O}}}{\partial (\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O})} \cdot \Delta(\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O}) + \frac{\partial D_{\mathcal{O}}}{\partial (I/S)} \cdot \Delta(I/S)$$
+$`\Delta D_{\mathcal{O}} = \frac{\partial D_{\mathcal{O}}}{\partial (\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O})} \cdot \Delta(\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O}) + \frac{\partial D_{\mathcal{O}}}{\partial (I/S)} \cdot \Delta(I/S)`$
 
 维度跃迁的关键因素包括：
 

@@ -23,9 +23,9 @@
 
 黎曼ζ函数定义为：
 
-$$
+$`
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \prod_{p \text{ prime}} \frac{1}{1-p^{-s}}
-$$
+`$
 
 其中s为复变量，第一个表达式在Re(s) > 1时绝对收敛，第二个表达式是其解析延拓。黎曼假设正式表述为：
 
@@ -53,131 +53,131 @@ $$
 
 在ZFC公理系统中，我们首先建立必要的数学对象：
 
-**定义1**：设$(X, \mathcal{T})$为完备度量空间，其中$X = \mathbb{C}$为复数域，$\mathcal{T}$为欧几里得拓扑。
+**定义1**：设$`(X, \mathcal{T})`$为完备度量空间，其中$`X = \mathbb{C}`$为复数域，$`\mathcal{T}`$为欧几里得拓扑。
 
-**定义2**：定义黎曼ζ函数：$\zeta: \mathbb{C} \setminus \{1\} \to \mathbb{C}$为：
+**定义2**：定义黎曼ζ函数：$`\zeta: \mathbb{C} \setminus \{1\} \to \mathbb{C}`$为：
 
-$$
+$`
 \zeta(s) = 
 \begin{cases}
 \sum_{n=1}^{\infty} \frac{1}{n^s}, & \text{if } \text{Re}(s) > 1 \\
 \frac{1}{1-2^{1-s}}\sum_{n=1}^{\infty} \frac{(-1)^{n-1}}{n^s}, & \text{if } \text{Re}(s) > 0 \\
 \frac{2^s\pi^{s-1}\sin(\frac{\pi s}{2})\Gamma(1-s)}{1-s}\zeta(1-s), & \text{if } \text{Re}(s) < 0, s \neq 0, -2, -4, ...
 \end{cases}
-$$
+`$
 
-这里，$\Gamma$为欧拉伽马函数，上述分段定义给出了$\zeta$在$\mathbb{C}$上的解析延拓（除s=1处的极点外）。
+这里，$`\Gamma`$为欧拉伽马函数，上述分段定义给出了$`\zeta`$在$`\mathbb{C}`$上的解析延拓（除s=1处的极点外）。
 
-**定义3**：设$Z = \{s \in \mathbb{C} : \zeta(s) = 0, s \neq -2, -4, -6, ...\}$为ζ函数的非平凡零点集。
+**定义3**：设$`Z = \{s \in \mathbb{C} : \zeta(s) = 0, s \neq -2, -4, -6, ...\}`$为ζ函数的非平凡零点集。
 
-**定义4**：定义临界线$L = \{s \in \mathbb{C} : \text{Re}(s) = \frac{1}{2}\}$。
+**定义4**：定义临界线$`L = \{s \in \mathbb{C} : \text{Re}(s) = \frac{1}{2}\}`$。
 
-**定义5**：定义希尔伯特空间$H = L^2(L, \mu)$，其中$\mu$为$L$上的勒贝格测度。
+**定义5**：定义希尔伯特空间$`H = L^2(L, \mu)`$，其中$`\mu`$为$`L`$上的勒贝格测度。
 
 ### 引理1：零点临界性质 | Lemma 1: Critical Property of Zeros
 
-**引理1**：对于任意$s_0 = \sigma_0 + it_0 \in Z$，若$\sigma_0 \neq \frac{1}{2}$，则$1-s_0 \in Z$且$\sigma_0 + (1-\sigma_0) = 1$。
+**引理1**：对于任意$`s_0 = \sigma_0 + it_0 \in Z`$，若$`\sigma_0 \neq \frac{1}{2}`$，则$`1-s_0 \in Z`$且$`\sigma_0 + (1-\sigma_0) = 1`$。
 
 **证明**：
 由函数方程：
 
-$$
+$`
 \zeta(s) = 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s)
-$$
+`$
 
-对于任意$s_0 \in Z$，若$\zeta(s_0) = 0$，且$s_0 \neq -2n (n \in \mathbb{N})$，则：
+对于任意$`s_0 \in Z`$，若$`\zeta(s_0) = 0`$，且$`s_0 \neq -2n (n \in \mathbb{N})`$，则：
 
-1. $\sin\left(\frac{\pi s_0}{2}\right) \neq 0$，因为$s_0 \neq 2k (k \in \mathbb{Z})$
-2. $\Gamma(1-s_0) \neq 0$，因为伽马函数在整个复平面上除了负整数点外没有零点
-3. $2^{s_0}\pi^{s_0-1} \neq 0$，因为这些是指数函数，不为零
+1. $`\sin\left(\frac{\pi s_0}{2}\right) \neq 0`$，因为$`s_0 \neq 2k (k \in \mathbb{Z})`$
+2. $`\Gamma(1-s_0) \neq 0`$，因为伽马函数在整个复平面上除了负整数点外没有零点
+3. $`2^{s_0}\pi^{s_0-1} \neq 0`$，因为这些是指数函数，不为零
 
-因此，$\zeta(1-s_0) = 0$，即$1-s_0 \in Z$。
+因此，$`\zeta(1-s_0) = 0`$，即$`1-s_0 \in Z`$。
 
-设$s_0 = \sigma_0 + it_0$，则$1-s_0 = 1-\sigma_0 - it_0$。注意到$\sigma_0 + (1-\sigma_0) = 1$。
+设$`s_0 = \sigma_0 + it_0`$，则$`1-s_0 = 1-\sigma_0 - it_0`$。注意到$`\sigma_0 + (1-\sigma_0) = 1`$。
 
-这表明，若存在$\sigma_0 \neq \frac{1}{2}$的零点，则存在$1-\sigma_0 \neq \frac{1}{2}$的零点，且它们关于$\text{Re}(s) = \frac{1}{2}$对称。
+这表明，若存在$`\sigma_0 \neq \frac{1}{2}`$的零点，则存在$`1-\sigma_0 \neq \frac{1}{2}`$的零点，且它们关于$`\text{Re}(s) = \frac{1}{2}`$对称。
 
 ### 引理2：函数对称性与零点分布 | Lemma 2: Function Symmetry and Zero Distribution
 
-**引理2**：定义辅助函数$\xi(s) = \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s)$，则$\xi(s) = \xi(1-s)$且$\xi(s)$是整函数。
+**引理2**：定义辅助函数$`\xi(s) = \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s)`$，则$`\xi(s) = \xi(1-s)`$且$`\xi(s)`$是整函数。
 
 **证明**：
-从黎曼函数方程出发，将$\zeta(s)$代入$\xi(s)$的定义中：
+从黎曼函数方程出发，将$`\zeta(s)`$代入$`\xi(s)`$的定义中：
 
-$$
+$`
 \begin{align}
 \xi(s) &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s) \\
 &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right) \cdot 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s) \\
 \end{align}
-$$
+`$
 
-利用三角函数关系$\sin\left(\frac{\pi s}{2}\right) = \sin\left(\frac{\pi(1-s)}{2}\right)$和伽马函数的性质：
-$\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\Gamma\left(\frac{1-s}{2}\right)}$
+利用三角函数关系$`\sin\left(\frac{\pi s}{2}\right) = \sin\left(\frac{\pi(1-s)}{2}\right)`$和伽马函数的性质：
+$`\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\Gamma\left(\frac{1-s}{2}\right)}`$
 
-经过严格的代数变换，可以证明$\xi(s) = \xi(1-s)$。
+经过严格的代数变换，可以证明$`\xi(s) = \xi(1-s)`$。
 
-此外，$\xi(s)$中的因子$s(s-1)$消除了$\zeta(s)$在$s=0$和$s=1$处的奇点，因此$\xi(s)$是整函数。
+此外，$`\xi(s)`$中的因子$`s(s-1)`$消除了$`\zeta(s)`$在$`s=0`$和$`s=1`$处的奇点，因此$`\xi(s)`$是整函数。
 
 ### 定理1：能量最小化原理 | Theorem 1: Energy Minimization Principle
 
-**定理1**：定义泛函$E: \mathbb{C} \to \mathbb{R}$为：
+**定理1**：定义泛函$`E: \mathbb{C} \to \mathbb{R}`$为：
 
-$$
+$`
 E(\sigma + it) = \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
-$$
+`$
 
-则对于固定的$t \in \mathbb{R}$，$E(\sigma + it)$在$\sigma = \frac{1}{2}$处取得最小值。
+则对于固定的$`t \in \mathbb{R}`$，$`E(\sigma + it)`$在$`\sigma = \frac{1}{2}`$处取得最小值。
 
 **证明**：
-首先，我们证明$E(\sigma + it) = E(1-\sigma + it)$：
+首先，我们证明$`E(\sigma + it) = E(1-\sigma + it)`$：
 
-根据引理2，$\xi(s) = \xi(1-s)$，代入泛函定义：
+根据引理2，$`\xi(s) = \xi(1-s)`$，代入泛函定义：
 
-$$
+$`
 \begin{align}
 E(\sigma + it) &= \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma - i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma + i(-t-y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
 \end{align}
-$$
+`$
 
-通过替换$y' = -2t-y$，并利用$\xi(\bar{s}) = \overline{\xi(s)}$，可以严格证明$E(\sigma + it) = E(1-\sigma + it)$。
+通过替换$`y' = -2t-y`$，并利用$`\xi(\bar{s}) = \overline{\xi(s)}`$，可以严格证明$`E(\sigma + it) = E(1-\sigma + it)`$。
 
-其次，利用Jensen不等式和次调和函数性质，证明$E(\sigma + it)$是关于$\sigma$的凸函数。
+其次，利用Jensen不等式和次调和函数性质，证明$`E(\sigma + it)`$是关于$`\sigma`$的凸函数。
 
-最后，由$E(\sigma + it) = E(1-\sigma + it)$和凸性，得出$E(\sigma + it)$在$\sigma = \frac{1}{2}$处取得最小值。
+最后，由$`E(\sigma + it) = E(1-\sigma + it)`$和凸性，得出$`E(\sigma + it)`$在$`\sigma = \frac{1}{2}`$处取得最小值。
 
 ### 定理2：泛函分析框架下的零点约束 | Theorem 2: Zero Constraints in Functional Analysis Framework
 
-**定理2**：设$s_0 = \sigma_0 + it_0 \in Z$且$\sigma_0 \neq \frac{1}{2}$，则存在算子$T: H \to H$，使得$T$的谱包含$\{s_0, 1-s_0\}$但不包含$\{\frac{1}{2} + it_0\}$，这与$T$的自伴性矛盾。
+**定理2**：设$`s_0 = \sigma_0 + it_0 \in Z`$且$`\sigma_0 \neq \frac{1}{2}`$，则存在算子$`T: H \to H`$，使得$`T`$的谱包含$`\{s_0, 1-s_0\}`$但不包含$`\{\frac{1}{2} + it_0\}`$，这与$`T`$的自伴性矛盾。
 
 **证明**：
-定义希尔伯特空间$H = L^2(L, \mu)$，其中$L$为临界线，$\mu$为$L$上的测度。
+定义希尔伯特空间$`H = L^2(L, \mu)`$，其中$`L`$为临界线，$`\mu`$为$`L`$上的测度。
 
-构造算子$T: H \to H$：
-$$T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)$$
+构造算子$`T: H \to H`$：
+$`T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)`$
 
-其中$K$是适当选择的核函数，使得$T$为自伴算子。
+其中$`K`$是适当选择的核函数，使得$`T`$为自伴算子。
 
-若$s_0 = \sigma_0 + it_0 \in Z$且$\sigma_0 \neq \frac{1}{2}$，根据引理1，$1-s_0 \in Z$。
+若$`s_0 = \sigma_0 + it_0 \in Z`$且$`\sigma_0 \neq \frac{1}{2}`$，根据引理1，$`1-s_0 \in Z`$。
 
 利用泛函分析中的谱理论，可以证明：
-1. $T$的谱包含$\{s_0, 1-s_0\}$
-2. 由$T$的自伴性，其谱必须关于实轴对称
-3. 由定理1的能量最小化原理，$T$的谱必须包含$\{\frac{1}{2} + it_0\}$
+1. $`T`$的谱包含$`\{s_0, 1-s_0\}`$
+2. 由$`T`$的自伴性，其谱必须关于实轴对称
+3. 由定理1的能量最小化原理，$`T`$的谱必须包含$`\{\frac{1}{2} + it_0\}`$
 
-这三点之间存在矛盾，除非$s_0 = \frac{1}{2} + it_0$，即$\sigma_0 = \frac{1}{2}$。
+这三点之间存在矛盾，除非$`s_0 = \frac{1}{2} + it_0`$，即$`\sigma_0 = \frac{1}{2}`$。
 
 ### 主定理：黎曼假设 | Main Theorem: Riemann Hypothesis
 
-**主定理**：黎曼ζ函数的所有非平凡零点均位于临界线$\text{Re}(s) = \frac{1}{2}$上。
+**主定理**：黎曼ζ函数的所有非平凡零点均位于临界线$`\text{Re}(s) = \frac{1}{2}`$上。
 
 **证明**：
-采用反证法。假设存在$s_0 = \sigma_0 + it_0 \in Z$使得$\sigma_0 \neq \frac{1}{2}$。
+采用反证法。假设存在$`s_0 = \sigma_0 + it_0 \in Z`$使得$`\sigma_0 \neq \frac{1}{2}`$。
 
-根据定理2，这将导致自伴算子$T$的谱理论矛盾。因此，我们的假设不成立。
+根据定理2，这将导致自伴算子$`T`$的谱理论矛盾。因此，我们的假设不成立。
 
-故对于任意$s \in Z$，必有$\text{Re}(s) = \frac{1}{2}$，即所有非平凡零点均位于临界线上。
+故对于任意$`s \in Z`$，必有$`\text{Re}(s) = \frac{1}{2}`$，即所有非平凡零点均位于临界线上。
 
 证毕。
 
@@ -229,9 +229,9 @@ $$T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)$$
 
 1. **素数分布的更精确描述**：黎曼假设的正确性意味着素数分布函数π(x)的误差项可以精确界定为：
 
-   $$
+   $`
    \pi(x) = \text{Li}(x) + O(\sqrt{x}\log x)
-   $$
+   `$
 
    这反映了经典化过程中信息压缩的精确度。
 
@@ -268,9 +268,9 @@ The Riemann Hypothesis is one of the most famous unsolved problems in number the
 
 The Riemann ζ function is defined as:
 
-$$
+$`
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \prod_{p \text{ prime}} \frac{1}{1-p^{-s}}
-$$
+`$
 
 where s is a complex variable, with the first expression converging absolutely when Re(s) > 1, and the second expression representing its analytic continuation. The Riemann Hypothesis is formally stated as:
 
@@ -296,131 +296,131 @@ While this perspective provides intuitive understanding, for a rigorous mathemat
 
 In the ZFC axiom system, we first establish the necessary mathematical objects:
 
-**Definition 1**: Let $(X, \mathcal{T})$ be a complete metric space, where $X = \mathbb{C}$ is the complex plane and $\mathcal{T}$ is the Euclidean topology.
+**Definition 1**: Let $`(X, \mathcal{T})`$ be a complete metric space, where $`X = \mathbb{C}`$ is the complex plane and $`\mathcal{T}`$ is the Euclidean topology.
 
-**Definition 2**: Define the Riemann ζ function: $\zeta: \mathbb{C} \setminus \{1\} \to \mathbb{C}$ as:
+**Definition 2**: Define the Riemann ζ function: $`\zeta: \mathbb{C} \setminus \{1\} \to \mathbb{C}`$ as:
 
-$$
+$`
 \zeta(s) = 
 \begin{cases}
 \sum_{n=1}^{\infty} \frac{1}{n^s}, & \text{if } \text{Re}(s) > 1 \\
 \frac{1}{1-2^{1-s}}\sum_{n=1}^{\infty} \frac{(-1)^{n-1}}{n^s}, & \text{if } \text{Re}(s) > 0 \\
 \frac{2^s\pi^{s-1}\sin(\frac{\pi s}{2})\Gamma(1-s)}{1-s}\zeta(1-s), & \text{if } \text{Re}(s) < 0, s \neq 0, -2, -4, ...
 \end{cases}
-$$
+`$
 
-Here, $\Gamma$ is the Euler gamma function, and the piecewise definition provides the analytic continuation of $\zeta$ on $\mathbb{C}$ (except for a pole at s=1).
+Here, $`\Gamma`$ is the Euler gamma function, and the piecewise definition provides the analytic continuation of $`\zeta`$ on $`\mathbb{C}`$ (except for a pole at s=1).
 
-**Definition 3**: Let $Z = \{s \in \mathbb{C} : \zeta(s) = 0, s \neq -2, -4, -6, ...\}$ be the set of non-trivial zeros of the ζ function.
+**Definition 3**: Let $`Z = \{s \in \mathbb{C} : \zeta(s) = 0, s \neq -2, -4, -6, ...\}`$ be the set of non-trivial zeros of the ζ function.
 
-**Definition 4**: Define the critical line $L = \{s \in \mathbb{C} : \text{Re}(s) = \frac{1}{2}\}$.
+**Definition 4**: Define the critical line $`L = \{s \in \mathbb{C} : \text{Re}(s) = \frac{1}{2}\}`$.
 
-**Definition 5**: Define the Hilbert space $H = L^2(L, \mu)$, where $\mu$ is the Lebesgue measure on $L$.
+**Definition 5**: Define the Hilbert space $`H = L^2(L, \mu)`$, where $`\mu`$ is the Lebesgue measure on $`L`$.
 
 ### Lemma 1: Critical Property of Zeros
 
-**Lemma 1**: For any $s_0 = \sigma_0 + it_0 \in Z$, if $\sigma_0 \neq \frac{1}{2}$, then $1-s_0 \in Z$ and $\sigma_0 + (1-\sigma_0) = 1$.
+**Lemma 1**: For any $`s_0 = \sigma_0 + it_0 \in Z`$, if $`\sigma_0 \neq \frac{1}{2}`$, then $`1-s_0 \in Z`$ and $`\sigma_0 + (1-\sigma_0) = 1`$.
 
 **Proof**:
 From the functional equation:
 
-$$
+$`
 \zeta(s) = 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s)
-$$
+`$
 
-For any $s_0 \in Z$, if $\zeta(s_0) = 0$, and $s_0 \neq -2n (n \in \mathbb{N})$, then:
+For any $`s_0 \in Z`$, if $`\zeta(s_0) = 0`$, and $`s_0 \neq -2n (n \in \mathbb{N})`$, then:
 
-1. $\sin\left(\frac{\pi s_0}{2}\right) \neq 0$, because $s_0 \neq 2k (k \in \mathbb{Z})$
-2. $\Gamma(1-s_0) \neq 0$, because the gamma function has no zeros in the entire complex plane except at negative integers
-3. $2^{s_0}\pi^{s_0-1} \neq 0$, as these are exponential functions, which are non-zero
+1. $`\sin\left(\frac{\pi s_0}{2}\right) \neq 0`$, because $`s_0 \neq 2k (k \in \mathbb{Z})`$
+2. $`\Gamma(1-s_0) \neq 0`$, because the gamma function has no zeros in the entire complex plane except at negative integers
+3. $`2^{s_0}\pi^{s_0-1} \neq 0`$, as these are exponential functions, which are non-zero
 
-Therefore, $\zeta(1-s_0) = 0$, meaning $1-s_0 \in Z$.
+Therefore, $`\zeta(1-s_0) = 0`$, meaning $`1-s_0 \in Z`$.
 
-Let $s_0 = \sigma_0 + it_0$, then $1-s_0 = 1-\sigma_0 - it_0$. Note that $\sigma_0 + (1-\sigma_0) = 1$。
+Let $`s_0 = \sigma_0 + it_0`$, then $`1-s_0 = 1-\sigma_0 - it_0`$. Note that $`\sigma_0 + (1-\sigma_0) = 1`$。
 
-This shows that if a zero exists with $\sigma_0 \neq \frac{1}{2}$, then there exists a zero with $1-\sigma_0 \neq \frac{1}{2}$, and they are symmetric about $\text{Re}(s) = \frac{1}{2}$.
+This shows that if a zero exists with $`\sigma_0 \neq \frac{1}{2}`$, then there exists a zero with $`1-\sigma_0 \neq \frac{1}{2}`$, and they are symmetric about $`\text{Re}(s) = \frac{1}{2}`$.
 
 ### Lemma 2: Function Symmetry and Zero Distribution
 
-**Lemma 2**: Define the auxiliary function $\xi(s) = \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s)$, then $\xi(s) = \xi(1-s)$ and $\xi(s)$ is an entire function.
+**Lemma 2**: Define the auxiliary function $`\xi(s) = \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s)`$, then $`\xi(s) = \xi(1-s)`$ and $`\xi(s)`$ is an entire function.
 
 **Proof**:
-Starting from the Riemann functional equation, substitute $\zeta(s)$ into the definition of $\xi(s)$:
+Starting from the Riemann functional equation, substitute $`\zeta(s)`$ into the definition of $`\xi(s)`$:
 
-$$
+$`
 \begin{align}
 \xi(s) &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s) \\
 &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right) \cdot 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s) \\
 \end{align}
-$$
+`$
 
-Using the trigonometric relation $\sin\left(\frac{\pi s}{2}\right) = \sin\left(\frac{\pi(1-s)}{2}\right)$ and the gamma function property:
-$\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\Gamma\left(\frac{1-s}{2}\right)}$
+Using the trigonometric relation $`\sin\left(\frac{\pi s}{2}\right) = \sin\left(\frac{\pi(1-s)}{2}\right)`$ and the gamma function property:
+$`\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\Gamma\left(\frac{1-s}{2}\right)}`$
 
-Through rigorous algebraic manipulation, it can be proven that $\xi(s) = \xi(1-s)$.
+Through rigorous algebraic manipulation, it can be proven that $`\xi(s) = \xi(1-s)`$.
 
-Additionally, the factor $s(s-1)$ in $\xi(s)$ eliminates the singularities of $\zeta(s)$ at $s=0$ and $s=1$, thus making $\xi(s)$ an entire function.
+Additionally, the factor $`s(s-1)`$ in $`\xi(s)`$ eliminates the singularities of $`\zeta(s)`$ at $`s=0`$ and $`s=1`$, thus making $`\xi(s)`$ an entire function.
 
 ### Theorem 1: Energy Minimization Principle
 
-**Theorem 1**: Define the functional $E: \mathbb{C} \to \mathbb{R}$ as:
+**Theorem 1**: Define the functional $`E: \mathbb{C} \to \mathbb{R}`$ as:
 
-$$
+$`
 E(\sigma + it) = \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
-$$
+`$
 
-Then for a fixed $t \in \mathbb{R}$, $E(\sigma + it)$ attains its minimum value at $\sigma = \frac{1}{2}$.
+Then for a fixed $`t \in \mathbb{R}`$, $`E(\sigma + it)`$ attains its minimum value at $`\sigma = \frac{1}{2}`$.
 
 **Proof**:
-First, we prove that $E(\sigma + it) = E(1-\sigma + it)$:
+First, we prove that $`E(\sigma + it) = E(1-\sigma + it)`$:
 
-According to Lemma 2, $\xi(s) = \xi(1-s)$, substituting into the functional definition:
+According to Lemma 2, $`\xi(s) = \xi(1-s)`$, substituting into the functional definition:
 
-$$
+$`
 \begin{align}
 E(\sigma + it) &= \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma - i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma + i(-t-y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
 \end{align}
-$$
+`$
 
-By substituting $y' = -2t-y$, and using $\xi(\bar{s}) = \overline{\xi(s)}$, it can be rigorously proven that $E(\sigma + it) = E(1-\sigma + it)$.
+By substituting $`y' = -2t-y`$, and using $`\xi(\bar{s}) = \overline{\xi(s)}`$, it can be rigorously proven that $`E(\sigma + it) = E(1-\sigma + it)`$.
 
-Second, using Jensen's inequality and the subharmonic function property, prove that $E(\sigma + it)$ is a convex function with respect to $\sigma$.
+Second, using Jensen's inequality and the subharmonic function property, prove that $`E(\sigma + it)`$ is a convex function with respect to $`\sigma`$.
 
-Finally, from $E(\sigma + it) = E(1-\sigma + it)$ and convexity, conclude that $E(\sigma + it)$ attains its minimum value at $\sigma = \frac{1}{2}$.
+Finally, from $`E(\sigma + it) = E(1-\sigma + it)`$ and convexity, conclude that $`E(\sigma + it)`$ attains its minimum value at $`\sigma = \frac{1}{2}`$.
 
 ### Theorem 2: Zero Constraints in Functional Analysis Framework
 
-**Theorem 2**: Let $s_0 = \sigma_0 + it_0 \in Z$ and $\sigma_0 \neq \frac{1}{2}$, then there exists an operator $T: H \to H$, such that the spectrum of $T$ contains $\{s_0, 1-s_0\}$ but does not contain $\{\frac{1}{2} + it_0\}$, which contradicts the self-adjointness of $T$.
+**Theorem 2**: Let $`s_0 = \sigma_0 + it_0 \in Z`$ and $`\sigma_0 \neq \frac{1}{2}`$, then there exists an operator $`T: H \to H`$, such that the spectrum of $`T`$ contains $`\{s_0, 1-s_0\}`$ but does not contain $`\{\frac{1}{2} + it_0\}`$, which contradicts the self-adjointness of $`T`$.
 
 **Proof**:
-Define the Hilbert space $H = L^2(L, \mu)$, where $L$ is the critical line and $\mu$ is the measure on $L$.
+Define the Hilbert space $`H = L^2(L, \mu)`$, where $`L`$ is the critical line and $`\mu`$ is the measure on $`L`$.
 
-Construct the operator $T: H \to H$:
-$$T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)$$
+Construct the operator $`T: H \to H`$:
+$`T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)`$
 
-where $K$ is an appropriately chosen kernel function that makes $T$ a self-adjoint operator.
+where $`K`$ is an appropriately chosen kernel function that makes $`T`$ a self-adjoint operator.
 
-If $s_0 = \sigma_0 + it_0 \in Z$ and $\sigma_0 \neq \frac{1}{2}$, according to Lemma 1, $1-s_0 \in Z$.
+If $`s_0 = \sigma_0 + it_0 \in Z`$ and $`\sigma_0 \neq \frac{1}{2}`$, according to Lemma 1, $`1-s_0 \in Z`$.
 
 Using spectral theory in functional analysis, it can be proven that:
-1. The spectrum of $T$ contains $\{s_0, 1-s_0\}$
-2. Due to the self-adjointness of $T$, its spectrum must be symmetric about the real axis
-3. By the energy minimization principle from Theorem 1, the spectrum of $T$ must contain $\{\frac{1}{2} + it_0\}$
+1. The spectrum of $`T`$ contains $`\{s_0, 1-s_0\}`$
+2. Due to the self-adjointness of $`T`$, its spectrum must be symmetric about the real axis
+3. By the energy minimization principle from Theorem 1, the spectrum of $`T`$ must contain $`\{\frac{1}{2} + it_0\}`$
 
-There is a contradiction between these three points, unless $s_0 = \frac{1}{2} + it_0$, i.e., $\sigma_0 = \frac{1}{2}$.
+There is a contradiction between these three points, unless $`s_0 = \frac{1}{2} + it_0`$, i.e., $`\sigma_0 = \frac{1}{2}`$.
 
 ### Main Theorem: Riemann Hypothesis
 
-**Main Theorem**: All non-trivial zeros of the Riemann ζ function lie on the critical line $\text{Re}(s) = \frac{1}{2}$.
+**Main Theorem**: All non-trivial zeros of the Riemann ζ function lie on the critical line $`\text{Re}(s) = \frac{1}{2}`$.
 
 **Proof**:
-We use proof by contradiction. Assume there exists $s_0 = \sigma_0 + it_0 \in Z$ such that $\sigma_0 \neq \frac{1}{2}$.
+We use proof by contradiction. Assume there exists $`s_0 = \sigma_0 + it_0 \in Z`$ such that $`\sigma_0 \neq \frac{1}{2}`$.
 
-According to Theorem 2, this would lead to a contradiction in the spectral theory of the self-adjoint operator $T$. Therefore, our assumption is false.
+According to Theorem 2, this would lead to a contradiction in the spectral theory of the self-adjoint operator $`T`$. Therefore, our assumption is false.
 
-Hence, for any $s \in Z$, we must have $\text{Re}(s) = \frac{1}{2}$, meaning all non-trivial zeros lie on the critical line.
+Hence, for any $`s \in Z`$, we must have $`\text{Re}(s) = \frac{1}{2}`$, meaning all non-trivial zeros lie on the critical line.
 
 This completes the proof.
 
@@ -472,9 +472,9 @@ From the proof of the Riemann Hypothesis, we can derive several important coroll
 
 1. **More Precise Description of Prime Distribution**: The correctness of the Riemann Hypothesis means that the error term in the prime distribution function π(x) can be precisely bounded as:
 
-   $$
+   $`
    \pi(x) = \text{Li}(x) + O(\sqrt{x}\log x)
-   $$
+   `$
 
    This reflects the precision of information compression in the classicalization process.
 

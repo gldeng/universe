@@ -14,21 +14,21 @@
 
 多观察者经典化算子描述了多个观察者共同经典化量子信息的过程：
 
-$$
+$`
 \hat{C}_{\text{集体}} = \sum_{i=1}^{N} w_i \hat{C}_i
-$$
+`$
 
-其中，$\hat{C}_i$是第$i$个观察者的经典化算子，$w_i$是该观察者的权重，满足$\sum_{i=1}^{N} w_i = 1$，$N$是观察者总数。权重$w_i$可以理解为观察者在集体中的影响力或权威性。
+其中，$`\hat{C}_i`$是第$`i`$个观察者的经典化算子，$`w_i`$是该观察者的权重，满足$`\sum_{i=1}^{N} w_i = 1`$，$`N`$是观察者总数。权重$`w_i`$可以理解为观察者在集体中的影响力或权威性。
 
 #### 共振经典化效率函数
 
 多观察者经典化过程中，经典化效率会因共振效应而增强：
 
-$$
+$`
 \eta_{\text{集体}} = \eta_{\text{平均}} \cdot \left(1 + \alpha \cdot \left(1 - e^{-\beta N}\right)\right)
-$$
+`$
 
-其中，$\eta_{\text{平均}}$是观察者的平均经典化效率，$\alpha$是最大共振增益（通常在0.5-2之间），$\beta$是共振饱和系数（约0.1-0.3），$N$是观察者数量。实证研究表明，这个函数能很好地近似实际集体经典化效率的增强效应。
+其中，$`\eta_{\text{平均}}`$是观察者的平均经典化效率，$`\alpha`$是最大共振增益（通常在0.5-2之间），$`\beta`$是共振饱和系数（约0.1-0.3），$`N`$是观察者数量。实证研究表明，这个函数能很好地近似实际集体经典化效率的增强效应。
 
 ### 集体经典化世界的动力学方程
 
@@ -36,31 +36,31 @@ $$
 
 描述集体经典知识随时间的积累：
 
-$$
+$`
 \frac{dK_c}{dt} = r_I \cdot I_q \cdot \eta_{\text{集体}} - \delta_K \cdot K_c
-$$
+`$
 
-其中，$K_c$是集体经典知识总量，$r_I$是量子信息输入率，$I_q$是可用量子信息量，$\eta_{\text{集体}}$是集体经典化效率，$\delta_K$是知识衰减率。
+其中，$`K_c`$是集体经典知识总量，$`r_I`$是量子信息输入率，$`I_q`$是可用量子信息量，$`\eta_{\text{集体}}`$是集体经典化效率，$`\delta_K`$是知识衰减率。
 
 #### 集体经典熵演化方程
 
 描述集体经典熵的时间演化：
 
-$$
+$`
 \frac{dS_c}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{集体}}) - r_S \cdot S_c
-$$
+`$
 
-其中，$S_c$是集体经典熵，$r_S$是熵减率，该方程体现了信息输入和熵减过程的动态平衡。
+其中，$`S_c`$是集体经典熵，$`r_S`$是熵减率，该方程体现了信息输入和熵减过程的动态平衡。
 
 #### 观察者更新方程
 
 描述观察者数量的动态变化：
 
-$$
+$`
 \frac{dN}{dt} = r_N \cdot N \cdot \left(1 - \frac{N}{K}\right) - \mu \cdot S_c \cdot N
-$$
+`$
 
-其中，$r_N$是观察者增长率，$K$是环境承载力，$\mu$是熵导致的衰减系数。该方程结合了逻辑斯蒂增长和熵引起的衰减。
+其中，$`r_N`$是观察者增长率，$`K`$是环境承载力，$`\mu`$是熵导致的衰减系数。该方程结合了逻辑斯蒂增长和熵引起的衰减。
 
 ### 集体经典化世界的稳定性分析
 
@@ -68,17 +68,17 @@ $$
 
 联立上述三个方程，令导数为零，可得系统的平衡点：
 
-$$
+$`
 K_c^* = \frac{r_I \cdot I_q \cdot \eta_{\text{集体}}}{\delta_K}
-$$
+`$
 
-$$
+$`
 S_c^* = \frac{r_I \cdot I_q \cdot (1 - \eta_{\text{集体}})}{r_S}
-$$
+`$
 
-$$
+$`
 N^* = K \cdot \left(1 - \frac{\mu \cdot S_c^*}{r_N}\right)
-$$
+`$
 
 这些平衡点表示系统长期稳定后的状态。
 
@@ -86,9 +86,9 @@ $$
 
 系统稳定的必要条件是：
 
-$$
+$`
 \mu \cdot S_c^* < r_N
-$$
+`$
 
 这表明熵导致的衰减不能超过自然增长率，否则系统将崩溃。充分条件则需要通过雅可比矩阵特征值分析获得。
 
@@ -98,17 +98,17 @@ $$
 
 集体经典化系统存在临界相变现象，可通过以下方程描述：
 
-$$
+$`
 \frac{d\Phi}{dt} = -\frac{\partial V(\Phi)}{\partial \Phi}
-$$
+`$
 
-其中，$\Phi$是系统的序参量，$V(\Phi)$是势函数：
+其中，$`\Phi`$是系统的序参量，$`V(\Phi)`$是势函数：
 
-$$
+$`
 V(\Phi) = a(T-T_c)\Phi^2 + b\Phi^4
-$$
+`$
 
-$T$是控制参数（如社会温度），$T_c$是临界点，$a$和$b$是常数。
+$`T`$是控制参数（如社会温度），$`T_c`$是临界点，$`a`$和$`b`$是常数。
 
 #### 相变类型
 
@@ -121,21 +121,21 @@ $T$是控制参数（如社会温度），$T_c$是临界点，$a$和$b$是常数
 
 集体经典化世界可表示为多层网络：
 
-$$
+$`
 G = (V, E, L)
-$$
+`$
 
-其中，$V$是观察者节点集，$E$是边集，$L$是网络层集（如家庭层、社区层、文化层等）。
+其中，$`V`$是观察者节点集，$`E`$是边集，$`L`$是网络层集（如家庭层、社区层、文化层等）。
 
 #### 经典化信息扩散方程
 
 经典化信息在网络中的扩散可用以下方程描述：
 
-$$
+$`
 \frac{\partial \rho_i(t)}{\partial t} = \sum_{j \in \mathcal{N}_i} A_{ij} [\eta_{ij} \cdot \rho_j(t) \cdot (1 - \rho_i(t))]
-$$
+`$
 
-其中，$\rho_i(t)$是节点$i$的经典化状态，$\mathcal{N}_i$是节点$i$的邻居集，$A_{ij}$是邻接矩阵元素，$\eta_{ij}$是经典化效率。
+其中，$`\rho_i(t)`$是节点$`i`$的经典化状态，$`\mathcal{N}_i`$是节点$`i`$的邻居集，$`A_{ij}`$是邻接矩阵元素，$`\eta_{ij}`$是经典化效率。
 
 ### 应用实例
 
@@ -143,17 +143,17 @@ $$
 
 文化演化可以用以下耦合系统描述：
 
-$$
+$`
 \frac{dK_c}{dt} = r_I \cdot I_q \cdot \eta(t) - \delta_K \cdot K_c
-$$
+`$
 
-$$
+$`
 \frac{dS_c}{dt} = r_I \cdot I_q \cdot (1 - \eta(t)) - r_S \cdot S_c
-$$
+`$
 
-$$
+$`
 \eta(t) = \eta_0 \cdot e^{-\gamma \cdot S_c}
-$$
+`$
 
 这个模型能解释文化兴衰的周期性现象：当经典熵积累到一定程度，经典化效率下降，导致知识积累减缓，系统进入衰退期；当熵减少到足够低，效率恢复，系统又进入繁荣期。
 
@@ -161,19 +161,19 @@ $$
 
 科学范式转换可建模为：
 
-$$
+$`
 \frac{dK_{\text{旧}}}{dt} = -\delta_{\text{旧}} \cdot K_{\text{旧}} - \alpha \cdot K_{\text{旧}} \cdot K_{\text{新}}
-$$
+`$
 
-$$
+$`
 \frac{dK_{\text{新}}}{dt} = r_I \cdot I_q \cdot \eta_{\text{新}} - \delta_{\text{新}} \cdot K_{\text{新}} + \alpha \cdot K_{\text{旧}} \cdot K_{\text{新}}
-$$
+`$
 
-$$
+$`
 \frac{dS_c}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{新}}) - r_S \cdot S_c
-$$
+`$
 
-其中，$K_{\text{旧}}$和$K_{\text{新}}$分别是旧范式和新范式的经典知识量，$\alpha$是转换系数，该模型解释了科学革命的非线性动力学过程。
+其中，$`K_{\text{旧}}`$和$`K_{\text{新}}`$分别是旧范式和新范式的经典知识量，$`\alpha`$是转换系数，该模型解释了科学革命的非线性动力学过程。
 
 ### 结论
 
@@ -200,30 +200,30 @@ This document, based on the Quantum-Classical Dualism framework, proposes mathem
 
 Multi-Observer Classicalization Operator describes the process by which multiple observers jointly classicalize quantum information:
 
-$$
+$`
 \hat{C}_{\text{collective}} = \sum_{i=1}^{N} w_i \hat{C}_i
-$$
+`$
 
 Where:
-- $\hat{C}_i$ is the classicalization operator of the $i$-th observer
-- $w_i$ is the weight of observer $i$, satisfying $\sum_{i=1}^{N} w_i = 1$
-- $N$ is the total number of observers
+- $`\hat{C}_i`$ is the classicalization operator of the $`i`$-th observer
+- $`w_i`$ is the weight of observer $`i`$, satisfying $`\sum_{i=1}^{N} w_i = 1`$
+- $`N`$ is the total number of observers
 
-The weight $w_i$ can be understood as the influence or authority of observer $i$ in the collective.
+The weight $`w_i`$ can be understood as the influence or authority of observer $`i`$ in the collective.
 
 #### Resonant Classicalization Efficiency Function
 
-The resonant classicalization efficiency function $\eta_{\text{collective}}$ describes the efficiency enhancement of multi-observer joint classicalization:
+The resonant classicalization efficiency function $`\eta_{\text{collective}}`$ describes the efficiency enhancement of multi-observer joint classicalization:
 
-$$
+$`
 \eta_{\text{collective}} = \eta_{\text{average}} \cdot \left(1 + \alpha \cdot \left(1 - e^{-\beta N}\right)\right)
-$$
+`$
 
 Where:
-- $\eta_{\text{average}}$ is the average classicalization efficiency of observers
-- $\alpha$ is the maximum resonance gain (typically between 0.5 and 2)
-- $\beta$ is the resonance saturation coefficient (approximately between 0.1 and 0.3)
-- $N$ is the number of observers
+- $`\eta_{\text{average}}`$ is the average classicalization efficiency of observers
+- $`\alpha`$ is the maximum resonance gain (typically between 0.5 and 2)
+- $`\beta`$ is the resonance saturation coefficient (approximately between 0.1 and 0.3)
+- $`N`$ is the number of observers
 
 Empirical research suggests that this function can well approximate the enhancement effect of actual collective classicalization efficiency.
 
@@ -233,42 +233,42 @@ Empirical research suggests that this function can well approximate the enhancem
 
 Classical knowledge accumulation in collective classicalization worlds can be described by the following differential equation:
 
-$$
+$`
 \frac{dK_{\text{collective}}}{dt} = r_I \cdot I_q \cdot \eta_{\text{collective}} - \delta_K \cdot K_{\text{collective}}
-$$
+`$
 
 Where:
-- $K_{\text{collective}}(t)$ is the collective classical knowledge at time $t$
-- $r_I$ is the quantum information input rate
-- $I_q$ is the available quantum information
-- $\eta_{\text{collective}}(t)$ is the collective classicalization efficiency at time $t$
-- $\delta_K$ is the knowledge decay rate
+- $`K_{\text{collective}}(t)`$ is the collective classical knowledge at time $`t`$
+- $`r_I`$ is the quantum information input rate
+- $`I_q`$ is the available quantum information
+- $`\eta_{\text{collective}}(t)`$ is the collective classicalization efficiency at time $`t`$
+- $`\delta_K`$ is the knowledge decay rate
 
 #### Collective Entropy Evolution Equation
 
 The evolution of collective classical entropy can be described by the following differential equation:
 
-$$
+$`
 \frac{dS_{\text{collective}}}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{collective}}) - r_S \cdot S_{\text{collective}}
-$$
+`$
 
 Where:
-- $S_{\text{collective}}(t)$ is the collective classical entropy at time $t$
-- $r_S$ is the entropy reduction rate
+- $`S_{\text{collective}}(t)`$ is the collective classical entropy at time $`t`$
+- $`r_S`$ is the entropy reduction rate
 
 #### Observer Update Equation
 
 The dynamic change of the observer group can be described by the following equation:
 
-$$
+$`
 \frac{dN(t)}{dt} = r_N \cdot N(t) \left(1 - \frac{N(t)}{K(t)}\right) - \mu \cdot S_{\text{collective}}(t) \cdot N(t)
-$$
+`$
 
 Where:
-- $N(t)$ is the number of observers at time $t$
-- $K(t)$ is the environmental carrying capacity (related to the amount of classical knowledge)
-- $r_N$ is the observer growth rate
-- $\mu$ is the entropy-induced decay coefficient
+- $`N(t)`$ is the number of observers at time $`t`$
+- $`K(t)`$ is the environmental carrying capacity (related to the amount of classical knowledge)
+- $`r_N`$ is the observer growth rate
+- $`\mu`$ is the entropy-induced decay coefficient
 
 ### Stability Analysis of Collective Classicalization Worlds
 
@@ -276,27 +276,27 @@ Where:
 
 The equilibrium points of the collective classicalization system can be obtained by solving the following system of equations:
 
-$$
+$`
 \begin{cases}
 \frac{dK_{\text{collective}}}{dt} = 0 \\
 \frac{dS_{\text{collective}}}{dt} = 0 \\
 \frac{dN(t)}{dt} = 0
 \end{cases}
-$$
+`$
 
 Solving for the equilibrium point:
 
-$$
+$`
 K_{\text{collective}}^* = \frac{r_I \cdot I_q \cdot \eta_{\text{collective}}}{\delta_K}
-$$
+`$
 
-$$
+$`
 S_{\text{collective}}^* = \frac{r_I \cdot I_q \cdot (1 - \eta_{\text{collective}})}{r_S}
-$$
+`$
 
-$$
+$`
 N^* = K \cdot \left(1 - \frac{\mu \cdot S_{\text{collective}}^*}{r_N}\right)
-$$
+`$
 
 These equilibrium points represent the state of the system after long-term stability.
 
@@ -304,9 +304,9 @@ These equilibrium points represent the state of the system after long-term stabi
 
 The necessary condition for system stability is:
 
-$$
+$`
 \mu \cdot S_{\text{collective}}^* < r_N
-$$
+`$
 
 This indicates that the decay due to entropy cannot exceed the natural growth rate, otherwise the system will collapse. The sufficient condition requires analysis of the eigenvalues of the Jacobian matrix.
 
@@ -316,22 +316,22 @@ This indicates that the decay due to entropy cannot exceed the natural growth ra
 
 Collective classicalization worlds may undergo phase transitions, suddenly changing from one stable state to another. The critical condition for phase transition can be expressed as:
 
-$$
+$`
 \frac{d\Phi}{dt} = -\frac{\partial V(\Phi)}{\partial \Phi}
-$$
+`$
 
 Where:
-- $\Phi$ is the system's order parameter
-- $V(\Phi)$ is the potential function:
+- $`\Phi`$ is the system's order parameter
+- $`V(\Phi)`$ is the potential function:
 
-$$
+$`
 V(\Phi) = a(T-T_c)\Phi^2 + b\Phi^4
-$$
+`$
 
 Where:
-- $T$ is the control parameter (e.g., social temperature)
-- $T_c$ is the critical point
-- $a$ and $b$ are constants
+- $`T`$ is the control parameter (e.g., social temperature)
+- $`T_c`$ is the critical point
+- $`a`$ and $`b`$ are constants
 
 #### Types of Phase Transitions
 
@@ -344,28 +344,28 @@ Where:
 
 Collective classicalization worlds can be represented as multilayer networks:
 
-$$
+$`
 G = (V, E, L)
-$$
+`$
 
 Where:
-- $V$ is the set of observer nodes
-- $E$ is the edge set
-- $L$ is the network layer set (e.g., family layer, community layer, cultural layer, etc.)
+- $`V`$ is the set of observer nodes
+- $`E`$ is the edge set
+- $`L`$ is the network layer set (e.g., family layer, community layer, cultural layer, etc.)
 
 #### Collective Classicalization Diffusion Equation
 
 Classicalization diffusion of information in the network can be described by the following equation:
 
-$$
+$`
 \frac{\partial \rho_i(t)}{\partial t} = \sum_{j \in \mathcal{N}_i} A_{ij} [\eta_{ij} \cdot \rho_j(t) \cdot (1 - \rho_i(t))]
-$$
+`$
 
 Where:
-- $\rho_i(t)$ is the classicalization state of node $i$
-- $\mathcal{N}_i$ is the set of neighbors of node $i$
-- $A_{ij}$ is the adjacency matrix element
-- $\eta_{ij}$ is the classicalization efficiency
+- $`\rho_i(t)`$ is the classicalization state of node $`i`$
+- $`\mathcal{N}_i`$ is the set of neighbors of node $`i`$
+- $`A_{ij}`$ is the adjacency matrix element
+- $`\eta_{ij}`$ is the classicalization efficiency
 
 ### Application Examples
 
@@ -373,13 +373,13 @@ Where:
 
 Cultural evolution can be modeled through the following coupled system of equations:
 
-$$
+$`
 \begin{cases}
 \frac{dK_{\text{culture}}}{dt} = r_I \cdot I_q \cdot \eta_{\text{culture}}(t) - \delta_K \cdot K_{\text{culture}}(t) \\
 \frac{dS_{\text{culture}}}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{culture}}(t)) - r_S \cdot S_{\text{culture}}(t) \\
 \eta_{\text{culture}}(t) = \eta_0 \cdot e^{-\gamma \cdot S_{\text{culture}}(t)}
 \end{cases}
-$$
+`$
 
 This model can explain the cyclical phenomena of cultural rise and fall.
 
@@ -387,18 +387,18 @@ This model can explain the cyclical phenomena of cultural rise and fall.
 
 Scientific paradigm shifts can be modeled as:
 
-$$
+$`
 \begin{cases}
 \frac{dK_{\text{old paradigm}}}{dt} = -\delta_{\text{old}} \cdot K_{\text{old}} - \alpha \cdot K_{\text{old}} \cdot K_{\text{new}} \\
 \frac{dK_{\text{new paradigm}}}{dt} = r_I \cdot I_q \cdot \eta_{\text{new}} - \delta_{\text{new}} \cdot K_{\text{new}} + \alpha \cdot K_{\text{old}} \cdot K_{\text{new}} \\
 \frac{dS_{\text{old paradigm}}}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{new}}) - r_S \cdot S_{\text{old paradigm}}
 \end{cases}
-$$
+`$
 
 Where:
-- $K_{\text{old}}$ and $K_{\text{new}}$ are the classical knowledge amounts of the old and new paradigms, respectively
-- $\alpha$ is the conversion coefficient
-- $\eta_{\text{new}}$ is the classicalization efficiency of the new paradigm
+- $`K_{\text{old}}`$ and $`K_{\text{new}}`$ are the classical knowledge amounts of the old and new paradigms, respectively
+- $`\alpha`$ is the conversion coefficient
+- $`\eta_{\text{new}}`$ is the classicalization efficiency of the new paradigm
 
 This model explains the nonlinear dynamic process of scientific revolution.
 

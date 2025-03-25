@@ -28,64 +28,64 @@
 ### 中文
 1. **小说角色作为观察者经典化过程**: 黑塞小说中的主角（如悉达多、哈里·哈勒）可视为经历不同程度经典化的观察者，从低维度（混乱、困惑的状态）向高维度（精神整合、自我实现）发展：
 
-$$
+$`
 \text{观察者维度提升}: \frac{I_{\text{经典知识}}^{\text{初始混沌}}}{S_{\text{经典熵}}^{\text{初始混沌}}} \to \frac{I_{\text{经典知识}}^{\text{精神觉醒}}}{S_{\text{经典熵}}^{\text{精神觉醒}}}
-$$
+`$
 
 2. **东西方思想融合作为跨经典世界整合**: 黑塞对东西方思想的融合代表了跨经典世界间的知识整合，降低文化隔离产生的熵，创造更完整的知识体系：
 
-$$
+$`
 I_{\text{西方经典知识}}+I_{\text{东方经典知识}}+S_{\text{文化隔离熵}}\xrightarrow{\text{思想整合}}I_{\text{整合知识}}+S_{\text{降低熵}}
-$$
+`$
 
 3. **二元对立作为量子经典二元映射**: 黑塞作品中的多重二元性正是量子域与经典域二元结构在人类心理层面的反映，探索内在量子可能性与外在经典表现的张力：
 
-$$
+$`
 |\psi\rangle_{\text{内在量子可能性}}\xrightarrow{\text{人格经典化}}\sum_i(I_{\text{外在经典表现}_i}+S_{\text{人格冲突熵}_i})
-$$
+`$
 
 4. **《玻璃球游戏》作为终极经典化追求**: 《玻璃球游戏》中的理想世界可理解为宇宙经典化的终极状态追求，将所有知识整合为统一的、低熵的系统：
 
-$$
+$`
 |\psi\rangle_{\text{知识量子可能性}}\xrightarrow{\text{游戏规则经典化}}\sum_{\text{知识网络}}(I_{\text{经典知识最大化}}+S_{\text{经典熵最小化}})
-$$
+`$
 
 5. **艺术创作作为量子经典转换媒介**: 黑塞的文学创作本身可视为将内在量子意识经典化为可共享知识的过程，通过艺术降低表达熵，实现高效经典化：
 
-$$
+$`
 |\psi\rangle_{\text{作者量子意识}}\xrightarrow{\text{艺术经典化}}I_{\text{读者经典知识}}+S_{\text{艺术解释熵}}
-$$
+`$
 
 ### English
 1. **Novel Characters as Observer Classicalization Process**: The protagonists in Hesse's novels (such as Siddhartha, Harry Haller) can be viewed as observers experiencing different degrees of classicalization, developing from lower dimensions (chaotic, confused states) to higher dimensions (spiritual integration, self-realization):
 
-$$
+$`
 \text{Observer Dimension Elevation}: \frac{I_{\text{Classical Knowledge}}^{\text{Initial Chaos}}}{S_{\text{Classical Entropy}}^{\text{Initial Chaos}}} \to \frac{I_{\text{Classical Knowledge}}^{\text{Spiritual Awakening}}}{S_{\text{Classical Entropy}}^{\text{Spiritual Awakening}}}
-$$
+`$
 
 2. **East-West Thought Integration as Cross-Classical World Integration**: Hesse's integration of Eastern and Western thought represents knowledge integration across classical worlds, reducing entropy produced by cultural isolation, creating a more complete knowledge system:
 
-$$
+$`
 I_{\text{Western Classical Knowledge}}+I_{\text{Eastern Classical Knowledge}}+S_{\text{Cultural Isolation Entropy}}\xrightarrow{\text{Thought Integration}}I_{\text{Integrated Knowledge}}+S_{\text{Reduced Entropy}}
-$$
+`$
 
 3. **Duality as Quantum-Classical Duality Mapping**: The multiple dualities in Hesse's works are precisely reflections of the quantum domain and classical domain dual structure at the human psychological level, exploring the tension between inner quantum possibilities and outer classical manifestations:
 
-$$
+$`
 |\psi\rangle_{\text{Inner Quantum Possibilities}}\xrightarrow{\text{Personality Classicalization}}\sum_i(I_{\text{Outer Classical Manifestation}_i}+S_{\text{Personality Conflict Entropy}_i})
-$$
+`$
 
 4. **"The Glass Bead Game" as Ultimate Classicalization Pursuit**: The ideal world in "The Glass Bead Game" can be understood as the pursuit of the ultimate state of universe classicalization, integrating all knowledge into a unified, low-entropy system:
 
-$$
+$`
 |\psi\rangle_{\text{Knowledge Quantum Possibilities}}\xrightarrow{\text{Game Rules Classicalization}}\sum_{\text{Knowledge Network}}(I_{\text{Classical Knowledge Maximization}}+S_{\text{Classical Entropy Minimization}})
-$$
+`$
 
 5. **Artistic Creation as Quantum-Classical Conversion Medium**: Hesse's literary creation itself can be viewed as the process of classicalizing inner quantum consciousness into shareable knowledge, reducing expression entropy through art, achieving efficient classicalization:
 
-$$
+$`
 |\psi\rangle_{\text{Author Quantum Consciousness}}\xrightarrow{\text{Artistic Classicalization}}I_{\text{Reader Classical Knowledge}}+S_{\text{Artistic Interpretation Entropy}}
-$$
+`$
 
 ## 历史影响 | Historical Impact
 赫尔曼·黑塞的作品对20世纪后半叶的文学和思想产生了深远影响，特别在反文化运动和嬉皮士时期，他的《悉达多》和《荒原狼》成为精神探索的指南。黑塞独特地将西方心理学（尤其是荣格思想）与东方神秘主义相结合的尝试，开创了跨文化精神探索的新路径。他对个体内在旅程的描述启发了无数读者追求自我发现和精神觉醒，而他对现代文明物质主义和集体主义的批判，以及对艺术与精神价值的捍卫，在当代社会仍具有强烈的共鸣。作为20世纪最被广泛翻译的德语作家之一，黑塞的作品跨越了文化与语言界限，成为普世精神追求的象征。

@@ -29,41 +29,41 @@ English: [Background](#background) | [Lyrical Themes](#lyrical-themes) | [Quantu
    
    "那片白桦林，那年初春，我们曾经留下足迹"中的白桦林代表一个低熵、高序的理想经典化状态。"初春"象征着量子可能性开始经典化为确定状态的时刻，而"足迹"则是经典化过程中留下的确定性痕迹。
 
-$$
+$`
 |\psi\rangle_{\text{量子可能性}} \xrightarrow{\text{经典化（留下足迹）}} I_{\text{白桦林中的经典记忆}}+S_{\text{熵降低}}
-$$
+`$
 
 2. **高维经典世界的存在**：
    
    "让我们红尘作伴，活得潇潇洒洒"中的"红尘"代表当前所在的经典世界，而潇洒地活着则暗示了在此经典世界中与高维经典世界（白桦林）保持联系的可能性。这体现了"高维经典世界与低维经典世界通过量子纠缠，'你中有我，我中有你'"的理念。
 
-$$
+$`
 \text{白桦林(高维经典世界)} \leftrightarrow \text{红尘(当前经典世界)} \quad \text{通过量子纠缠}
-$$
+`$
 
 3. **观察者维度提升的路径**：
    
-   "风雨走过的路，有悲伤也有欢乐"展示了观察者在经典世界中通过各种体验提升维度的过程。"风雨"象征着经典世界的熵增挑战，而通过体验"悲伤"和"欢乐"这两种对立的情感，观察者得以提升其经典化效率系数$(k_i)$。
+   "风雨走过的路，有悲伤也有欢乐"展示了观察者在经典世界中通过各种体验提升维度的过程。"风雨"象征着经典世界的熵增挑战，而通过体验"悲伤"和"欢乐"这两种对立的情感，观察者得以提升其经典化效率系数$`(k_i)`$。
 
-$$
+$`
 k_i \uparrow \Leftrightarrow \text{经历风雨路（主动优化经典化路径）}(I_{\text{悲伤与欢乐的经验}}\uparrow)
-$$
+`$
 
 4. **量子纠缠与隐形联系**：
    
    "不管经过多少年，我们是永远的朋友"体现了超越时间的量子纠缠关系。"多少年"代表经典域中的时间流逝（熵增过程），而"永远的朋友"则是对量子域中永恒纠缠关系的描述，这种关系不受经典时间的限制。
 
-$$
+$`
 |\psi\rangle_{\text{量子纠缠}} \rightarrow \text{经典时间流逝（多少年）} + \text{永恒联系（永远的朋友）}
-$$
+`$
 
 5. **虫洞通信机制**：
    
    "时光它带走了我们的笑声，却带不走永远的信念"描述了经典域与量子域之间的信息传递机制。"笑声"作为具体的经典表达可能消散（黑洞辐射），但"信念"作为深层的量子纠缠状态却可以通过虫洞通道保持联系。
 
-$$
+$`
 E_{\text{发送端（笑声）}} \rightarrow |\psi\rangle_{\text{虫洞通道（信念）}} \rightarrow I_{\text{接收端（永远）}}
-$$
+`$
 
 ### 哲学深度
 
@@ -73,9 +73,9 @@ $$
 
 2. **经典化效率的提升路径**：歌中"风雨走过的路"暗示了通过主动经历挑战来优化经典化路径的方法。这种通过实践提升经典化效率的思想，与量子经典二元论中"系数提升的核心方法为主动实践"的理念高度一致。
 
-$$
+$`
 |\psi\rangle_{\text{宇宙本源}} \xrightarrow{\text{经历风雨（能量处理混乱）}} \text{白桦林（低熵理想状态）}
-$$
+`$
 
 ### 文化影响
 
@@ -105,41 +105,41 @@ From a Quantum-Classical Dualism perspective, "Birch Forest" can be interpreted 
    
    "That birch forest, that early spring, where we once left our footprints" represents a low-entropy, high-order ideal classicalization state. "Early spring" symbolizes the moment when quantum possibilities begin to classicalize into determined states, while "footprints" are the definite traces left during the classicalization process.
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Possibilities}} \xrightarrow{\text{Classicalization (Leaving Footprints)}} I_{\text{Classical Memory in Birch Forest}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 2. **Existence of Higher-Dimensional Classical Worlds**:
    
    "Let us be companions in the mundane world, living freely and easily" where "mundane world" represents the current classical world, while living freely suggests the possibility of maintaining connection with a higher-dimensional classical world (birch forest) in this classical world. This reflects the idea that "higher-dimensional classical worlds and lower-dimensional classical worlds are interconnected through quantum entanglement, 'you in me, me in you'."
 
-$$
+$`
 \text{Birch Forest (Higher-Dimensional Classical World)} \leftrightarrow \text{Mundane World (Current Classical World)} \quad \text{Through Quantum Entanglement}
-$$
+`$
 
 3. **Path of Observer Dimension Enhancement**:
    
-   "The path we've walked through wind and rain has both sadness and joy" shows the process of an observer enhancing their dimension through various experiences in the classical world. "Wind and rain" symbolize the entropy increase challenges of the classical world, and by experiencing the two opposing emotions of "sadness" and "joy," the observer can enhance their classicalization efficiency coefficient $(k_i)$.
+   "The path we've walked through wind and rain has both sadness and joy" shows the process of an observer enhancing their dimension through various experiences in the classical world. "Wind and rain" symbolize the entropy increase challenges of the classical world, and by experiencing the two opposing emotions of "sadness" and "joy," the observer can enhance their classicalization efficiency coefficient $`(k_i)`$.
 
-$$
+$`
 k_i \uparrow \Leftrightarrow \text{Experiencing Wind and Rain Path (Active Optimization of Classicalization Path)}(I_{\text{Experience of Sadness and Joy}}\uparrow)
-$$
+`$
 
 4. **Quantum Entanglement and Invisible Connection**:
    
    "No matter how many years pass, we are friends forever" reflects a quantum entanglement relationship that transcends time. "Many years" represents the passage of time in the classical domain (entropy increase process), while "friends forever" is a description of the eternal entanglement relationship in the quantum domain, a relationship not constrained by classical time.
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Entanglement}} \rightarrow \text{Classical Time Passage (Many Years)} + \text{Eternal Connection (Friends Forever)}
-$$
+`$
 
 5. **Wormhole Communication Mechanism**:
    
    "Time takes away our laughter, but cannot take away our eternal belief" describes the information transmission mechanism between the classical domain and the quantum domain. "Laughter" as a concrete classical expression may dissipate (black hole radiation), but "belief" as a deep quantum entanglement state can maintain connection through the wormhole channel.
 
-$$
+$`
 E_{\text{Sender (Laughter)}} \rightarrow |\psi\rangle_{\text{Wormhole Channel (Belief)}} \rightarrow I_{\text{Receiver (Eternal)}}
-$$
+`$
 
 ### Philosophical Depth
 
@@ -149,9 +149,9 @@ On the surface, "Birch Forest" is a celebration of pure love and friendship, but
 
 2. **Path of Enhancing Classicalization Efficiency**: The "path through wind and rain" in the song suggests a method of optimizing the classicalization path by actively experiencing challenges. This idea of enhancing classicalization efficiency through practice is highly consistent with the concept in Quantum-Classical Dualism that "the core method of coefficient enhancement is active practice."
 
-$$
+$`
 |\psi\rangle_{\text{Universe Origin}} \xrightarrow{\text{Experiencing Wind and Rain (Energy Processing Chaos)}} \text{Birch Forest (Low-Entropy Ideal State)}
-$$
+`$
 
 ### Cultural Impact
 

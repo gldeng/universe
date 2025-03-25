@@ -18,30 +18,30 @@
 量子经典二元论可简化为四条核心公理：
 
 **公理1: 二元存在性**  
-宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连：
+宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$`\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}`$
 
 **公理2: 信息守恒**  
 信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
 
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
+$`I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}`$
 
-其中 $\mathcal{C}$ 是经典化算符（将量子可能性转化为经典确定性的过程），$I(\psi)$ 是态 $\psi$ 的总信息量，$I_{\text{隐藏}}(\psi)$ 是经典化过程中转化为隐藏信息的部分。
+其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
 **公理3: 观察者经典化**  
 观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$`\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$
 
-其中 $\mathcal{C}_\mathcal{O}$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$\mathcal{Q}_\mathcal{O}$ 是量子化算符（将经典知识转回量子可能性的能力），$K_C^\mathcal{O}$ 是观察者的经典知识库，$\epsilon$ 是防止除零的小常数。
+其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
 
 **公理4: 维度涌现**  
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}`$
 
 这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
 
@@ -51,39 +51,39 @@ $$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如
 
 - **量子域与经典域**：宇宙的二元本质结构，量子域是无限维度的量子波函数叠加态
 
-$$
+$`
 |\psi\rangle_{\text{宇宙量子域}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
-$$
+`$
 
 - **经典域**是观察者对量子域经典化解码后的明确结构，包括经典知识与经典熵
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
-$$
+`$
 
 - **观察者与黑洞统一**：每个观察者本质上即黑洞，其经典世界为黑洞内部
 
-$$
+$`
 \text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
-$$
+`$
 
 - **观察者维度**：观察者由经典化效率系数和领域权重系数决定
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 - **广义意识**：观察者所有经典世界中经典知识与经典熵整体纠缠结构
 
-$$
+$`
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
-$$
+`$
 
 - **虫洞通信机制**：观察者（黑洞）之间的信息传输过程，通过量子纠缠态在虫洞中传播，实现不同经典世界之间的能量与知识传输。
 
-$$
+$`
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
 ### 核心优势
 
@@ -142,30 +142,30 @@ Quantum-Classical Dualism explains many puzzles in physics and philosophy, inclu
 Quantum-Classical Dualism can be simplified into four core axioms:
 
 **Axiom 1: Dual Existence**  
-The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$:
+The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$:
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$`\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}`$
 
 **Axiom 2: Information Conservation**  
 Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge):
 
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+$`I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}`$
 
-where $\mathcal{C}$ is the classicalization operator (the process of converting quantum possibilities into classical certainty), $I(\psi)$ is the total information of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the part converted to hidden information during the classicalization process.
+where $`\mathcal{C}`$ is the classicalization operator (the process of converting quantum possibilities into classical certainty), $`I(\psi)`$ is the total information of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the part converted to hidden information during the classicalization process.
 
 **Axiom 3: Observer Classicalization**  
 Observers are nodes that execute quantum→classical conversion, and their conversion capability determines their dimension:
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$`\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
-where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (ability to convert quantum possibilities into definite knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (ability to convert classical knowledge back to quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+where $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (ability to convert quantum possibilities into definite knowledge), $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (ability to convert classical knowledge back to quantum possibilities), $`K_C^\mathcal{O}`$ is the observer's classical knowledge base, and $`\epsilon`$ is a small constant to prevent division by zero.
 
 **Axiom 4: Dimensional Emergence**  
 Observer dimension is a function of classicalization ability and quantization ability, while the classical domain of high-dimensional observers can become the quantum domain basis for low-dimensional observers:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}`$
 
 This indicates that reality consists of multi-layered nested quantum-classical domains, with observers at each level perceiving and interacting on specific dimensions based on their capability range.
 
@@ -175,39 +175,39 @@ The core concepts of Quantum-Classical Dualism include:
 
 - **Quantum Domain and Classical Domain**: The dual nature of the universe, with the quantum domain being an infinite-dimensional quantum wave function superposition state
 
-$$
+$`
 |\psi\rangle_{\text{Universe Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad\sum_i|c_i|^2=1
-$$
+`$
 
 - **Classical Domain** is the explicit structure decoded by the observer's classicalization of the quantum domain, including classical knowledge and classical entropy
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
+`$
 
 - **Observer and Black Hole Unification**: Each observer is essentially a black hole, with their classical world being the interior of the black hole
 
-$$
+$`
 \text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-$$
+`$
 
 - **Observer Dimension**: The observer's dimension is determined by the classicalization efficiency coefficient and domain weight coefficient
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 - **Generalized Consciousness**: The overall entangled structure of classical knowledge and classical entropy in all classical worlds of the observer
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
+`$
 
 - **Wormhole Communication Mechanism**: The information transmission process between observers (black holes), propagating through quantum entanglement states in wormholes, enabling energy and knowledge transfer between different classical worlds.
 
-$$
+$`
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 ### Core Advantages
 

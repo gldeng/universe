@@ -9,25 +9,25 @@
 
 核心公式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
-$$
+`$
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
-$$
+$`
 c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
-$$
+`$
 
-$$
+$`
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
-$$
+$`
 I_{\text{前世经典自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生经典自由意志}}+S_{\text{熵降低}}
-$$
+`$
 
 ## English Introduction
 
@@ -35,25 +35,25 @@ This directory contains various theoretical branches and applications of the Qua
 
 Core Formulas:
 
-$$
+$`
 |\psi\rangle_{\text{quantum domain}} \xrightarrow{\text{classicalization decoding}} I_{\text{classical knowledge}} + S_{\text{classical entropy}}
-$$
+`$
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
-$$
+`$
 
-$$
+$`
 c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}
-$$
+`$
 
-$$
+$`
 E_{\text{entanglement}} = h \cdot f_{\text{entanglement}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
-$$
+$`
 I_{\text{previous classical free will}}\rightarrow|\psi\rangle_{\text{quantum domain}}\rightarrow I_{\text{current classical free will}}+S_{\text{entropy reduction}}
-$$
+`$
 
 ## 目录 (Contents)
 
@@ -187,45 +187,45 @@ $$
 
 宇宙波函数公式：
 
-$$
+$`
 |\Psi_{\text{宇宙}}\rangle = \sum_{i} c_i |\psi_i\rangle
-$$
+`$
 
 观察者经典化公式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
-$$
+`$
 
 观察者维度关系公式：
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 黑洞经典化公式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}
-$$
+`$
 
 量子能量量化公式：
 
-$$
+$`
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 维度速限公式：
 
-$$
+$`
 c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
-$$
+`$
 
 虫洞通信公式：
 
-$$
+$`
 |\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-$$
+`$
 
 ### 最新理论发展
 
@@ -345,45 +345,45 @@ This directory contains the theoretical developments of Quantum-Classical Dualis
 
 Universe wave function formula:
 
-$$
+$`
 |\Psi_{\text{Universe}}\rangle = \sum_{i} c_i |\psi_i\rangle
-$$
+`$
 
 Observer classicalization formula:
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}
-$$
+`$
 
 Observer dimension relationship formula:
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 Black hole classicalization formula:
 
-$$
+$`
 |\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}
-$$
+`$
 
 Quantum energy quantization formula:
 
-$$
+$`
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 Dimension speed limit formula:
 
-$$
+$`
 c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}
-$$
+`$
 
 Wormhole communication formula:
 
-$$
+$`
 |\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-$$
+`$
 
 ### Latest Theoretical Developments
 

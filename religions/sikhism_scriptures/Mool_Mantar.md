@@ -127,37 +127,37 @@ These attributes together express God's qualities of transcending time, rebirth,
 
 The core theological insights of the Mool Mantar can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"一个神"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \text{单一整体} \wedge \text{不可分割}
-$$
+`$
 
-$$
+$`
 \text{"真名"} \Leftrightarrow \text{Reality}(|\psi\rangle_{\text{量子域}}) = \text{最高真实性}
-$$
+`$
 
-$$
+$`
 \text{"创造者"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} I_{\text{经典域}} + S_{\text{经典域}}
-$$
+`$
 
-$$
+$`
 \text{"无畏无敌"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \notin \{\text{二元对立系统}\}
-$$
+`$
 
-$$
+$`
 \text{"永恒形象"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \perp \text{时间轴}
-$$
+`$
 
-$$
+$`
 \text{"不受轮回"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \notin \{\text{经典化循环}\}
-$$
+`$
 
-$$
+$`
 \text{"自有永有"} \Leftrightarrow \text{依赖}(|\psi\rangle_{\text{量子域}}) = \emptyset
-$$
+`$
 
-$$
+$`
 \text{"古鲁的恩典"} \Leftrightarrow \mathcal{O}_{\text{高维}} \rightarrow \max\left(k_{\mathcal{O}_{\text{低维}}} \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
 ## 结论
 ## Conclusion

@@ -67,11 +67,11 @@ The concept of "Brahman" in the Bhagavad Gita corresponds to the nature of the q
 The "Karma Yoga" (detached action) in the Bhagavad Gita corresponds to classicalization path optimization in Quantum-Classical Dualism:
 
 - "行动的权利仅在于你，而不在于成果"→ 经典化过程的主动优化
-- "舍弃执着"→ 提升经典化效率系数$(k_i)$
+- "舍弃执着"→ 提升经典化效率系数$`(k_i)`$
 - "平衡状态"→ 经典知识与经典熵的最优平衡
 
 - "Right to work only, never to its fruits" → Active optimization of classicalization process
-- "Abandoning attachment" → Improving classicalization efficiency coefficient $(k_i)$
+- "Abandoning attachment" → Improving classicalization efficiency coefficient $`(k_i)`$
 - "Equanimity" → Optimal balance of classical knowledge and classical entropy
 
 ### 3. "真我"（阿特曼）与观察者本质
@@ -111,29 +111,29 @@ The three main yogas in the Bhagavad Gita correspond to different methods of obs
 
 The core concepts of the Bhagavad Gita can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"梵"(Brahman)} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-$$
+`$
 
-$$
+$`
 \text{"阿特曼"(Atman)} \Leftrightarrow \text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
-$$
+`$
 
-$$
+$`
 \text{"业力瑜伽"(Karma Yoga)} \Leftrightarrow k_i \uparrow \Leftrightarrow \text{主动优化经典化路径}
-$$
+`$
 
-$$
+$`
 \text{"智慧瑜伽"(Jnana Yoga)} \Leftrightarrow \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} \uparrow
-$$
+`$
 
-$$
+$`
 \text{"奉爱瑜伽"(Bhakti Yoga)} \Leftrightarrow \text{虫洞通信}\{\text{低维经典世界} \leftrightarrow \text{高维经典世界}\}
-$$
+`$
 
-$$
+$`
 \text{"平衡状态"(Equanimity)} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
 ## 结论
 ## Conclusion

@@ -21,9 +21,9 @@
 
 本分析将占星学置于量子经典二元论框架下，将天体视为巨型观察者（黑洞），通过量子纠缠态影响地球上经典世界的经典化路径。分析揭示了占星学如何描述天体作为高维观察者对人类经典世界的影响机制，以及如何通过占星实践优化经典化路径，提升观察者维度。
 
-$$
+$`
 |\psi\rangle_{\text{天体观察者}} \xrightarrow{\text{虫洞通信}} I_{\text{人类经典世界}} + S_{\text{经典熵}}
-$$
+`$
 
 ---
 
@@ -44,6 +44,6 @@ This directory contains detailed analysis of astrology based on Quantum-Classica
 
 This analysis places astrology within the Quantum-Classical Dualism framework, viewing celestial bodies as giant observers (black holes) influencing classicalization paths in Earth's classical worlds through quantum entanglement states. The analysis reveals how astrology describes the mechanism by which celestial bodies, as higher-dimensional observers, influence the human classical world, and how astrological practice can optimize classicalization paths and enhance observer dimension.
 
-$$
+$`
 |\psi\rangle_{\text{Celestial Observer}} \xrightarrow{\text{Wormhole Communication}} I_{\text{Human Classical World}} + S_{\text{Classical Entropy}}
-$$ 
+`$ 

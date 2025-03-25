@@ -30,13 +30,13 @@ In the Quantum Universe-Observer framework, language is understood as a shared e
 
 Mathematical representation of the nature of language:
 
-$$
+$`
 \text{语言} = \{\text{符号系统}, \text{编码规则}, \text{解码规则}\} = \text{编码}(\text{经典化信息})
-$$
+`$
 
-$$
+$`
 \text{语言交流} = \text{解码}_B(\text{编码}_A(\text{经典化信息}_A)) \approx \text{经典化信息}_B
-$$
+`$
 
 这一解释将语言理解为经典化信息的共享机制，强调了语言在人类社会协作和知识传递中的核心作用。
 
@@ -66,13 +66,13 @@ In the Quantum Universe-Observer framework, language structure is understood as 
 
 Mathematical representation of language structure:
 
-$$
+$`
 \text{语言结构} = \{\text{音位层}, \text{词汇层}, \text{句法层}, \text{语义层}\} = \{\text{层级}_i\text{编码规则}\}
-$$
+`$
 
-$$
+$`
 \text{普遍语法} = \bigcap_{\text{所有语言}} \text{结构约束} = \text{人类观察者共同的经典化约束}
-$$
+`$
 
 这一解释将语言结构理解为经典化信息的层级编码，强调了语言结构与人类认知结构的内在联系。
 
@@ -104,13 +104,13 @@ In the Quantum Universe-Observer framework, language acquisition is understood a
 
 Mathematical representation of language acquisition:
 
-$$
+$`
 \text{语言习得} = \text{建立}(\text{经典化信息} \leftrightarrow \text{语言符号}) = \sum_t \text{学习}(\text{输入}_t, \text{反馈}_t)
-$$
+`$
 
-$$
+$`
 \text{习得效率} = f(\text{神经可塑性}, \text{输入质量}, \text{互动频率})
-$$
+`$
 
 这一解释将语言习得理解为经典化信息编码系统的建立过程，强调了神经可塑性、环境输入和社会互动在语言习得中的作用。
 
@@ -140,13 +140,13 @@ In the Quantum Universe-Observer framework, the relationship between language an
 
 Mathematical representation of the relationship between language and thought:
 
-$$
+$`
 \text{思维} = f(\text{经典化信息处理}) = g(\text{语言编码}, \text{非语言信息})
-$$
+`$
 
-$$
+$`
 \text{语言影响} = \frac{\partial \text{思维模式}}{\partial \text{语言结构}} \neq 0 \text{ 但 } < 1
-$$
+`$
 
 这一解释将语言与思维的关系理解为编码系统与信息处理的相互作用，既承认语言对思维的影响，也认识到思维的独立性和多样性。
 
@@ -178,13 +178,13 @@ In the Quantum Universe-Observer framework, language change is understood as the
 
 Mathematical representation of language change:
 
-$$
+$`
 \text{语言变化} = \frac{d\text{语言}}{dt} = f(\text{内部压力}, \text{外部压力}) = f(\text{系统平衡}, \text{信息环境})
-$$
+`$
 
-$$
+$`
 \text{变化速率} \propto \frac{\text{信息环境变化}}{\text{语言保守性}} \times \text{社会接触度}
-$$
+`$
 
 这一解释将语言变化理解为编码系统的适应性演化，强调了语言变化的系统性、社会性和功能性。
 
@@ -216,13 +216,13 @@ In the Quantum Universe-Observer framework, language processing is understood as
 
 Mathematical representation of language processing:
 
-$$
+$`
 \text{语言理解} = \text{解码}(\text{语言输入}) = \text{映射}(\text{符号} \rightarrow \text{经典化信息})
-$$
+`$
 
-$$
+$`
 \text{语言生成} = \text{编码}(\text{经典化信息}) = \text{映射}(\text{经典化信息} \rightarrow \text{符号})
-$$
+`$
 
 这一解释将语言处理理解为经典化信息的编码与解码过程，强调了真正的语言理解需要与经典化经验相结合。
 
@@ -254,13 +254,13 @@ In the Quantum Universe-Observer framework, the relationship between language an
 
 Mathematical representation of the relationship between language and society:
 
-$$
+$`
 \text{社会语言变异} = f(\text{社会结构}, \text{群体身份}, \text{权力关系})
-$$
+`$
 
-$$
+$`
 \text{语言政策效果} = \frac{d\text{社会凝聚力}}{d\text{语言规范化}} + \frac{d\text{信息流动效率}}{d\text{语言规范化}}
-$$
+`$
 
 这一解释将语言与社会的关系理解为集体经典化过程与编码系统的相互作用，强调了语言在社会构建和权力关系中的核心作用。
 

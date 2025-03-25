@@ -41,16 +41,16 @@
 
 符号在本质上是量子-经典的双重体，可表示为：
 
-$$S = (S_Q, S_C, \mathcal{I}_S)$$
+$`S = (S_Q, S_C, \mathcal{I}_S)`$
 
 其中：
-- $S_Q$ 是符号的量子组分，代表可能意义的叠加态
-- $S_C$ 是符号的经典组分，代表实现的确定意义
-- $\mathcal{I}_S$ 是符号内部的量子-经典界面
+- $`S_Q`$ 是符号的量子组分，代表可能意义的叠加态
+- $`S_C`$ 是符号的经典组分，代表实现的确定意义
+- $`\mathcal{I}_S`$ 是符号内部的量子-经典界面
 
 符号的量子态可表示为：
 
-$$|\psi_S\rangle = \sum_i \alpha_i |意义_i\rangle$$
+$`|\psi_S\rangle = \sum_i \alpha_i |意义_i\rangle`$
 
 其中每个可能意义以一定概率振幅共存于符号的量子态中。
 
@@ -70,24 +70,24 @@ $$|\psi_S\rangle = \sum_i \alpha_i |意义_i\rangle$$
 
 符号意义的形成和演化可描述为量子测量过程：
 
-$$|\psi_{意义}\rangle \xrightarrow{观察/解释} |意义_i\rangle$$
+$`|\psi_{意义}\rangle \xrightarrow{观察/解释} |意义_i\rangle`$
 
 未被解释的符号处于意义的叠加态，解释行为相当于对量子态的测量，导致意义坍缩到特定状态。
 
 符号解释的量子动力学方程：
 
-$$\frac{d\rho_{符号}}{dt} = -\frac{i}{\hbar}[\hat{H}_{文化}, \rho_{符号}] + \mathcal{L}_{解释}(\rho_{符号})$$
+$`\frac{d\rho_{符号}}{dt} = -\frac{i}{\hbar}[\hat{H}_{文化}, \rho_{符号}] + \mathcal{L}_{解释}(\rho_{符号})`$
 
 其中：
-- $\rho_{符号}$ 是符号状态的密度矩阵
-- $\hat{H}_{文化}$ 是文化语境的哈密顿算符
-- $\mathcal{L}_{解释}$ 描述解释过程的耗散项
+- $`\rho_{符号}`$ 是符号状态的密度矩阵
+- $`\hat{H}_{文化}`$ 是文化语境的哈密顿算符
+- $`\mathcal{L}_{解释}`$ 描述解释过程的耗散项
 
 ### 符号的量子干涉效应
 
 符号意义之间存在干涉效应，解释为：
 
-$$P(意义_C) \neq \sum_i P(意义_i)$$
+$`P(意义_C) \neq \sum_i P(意义_i)`$
 
 符号干涉解释了语言的创造性和诗歌的多义性，以及广告与政治话语中的修辞效果。
 
@@ -97,13 +97,13 @@ $$P(意义_C) \neq \sum_i P(意义_i)$$
 
 符号系统中的量子-经典界面满足动态方程：
 
-$$\frac{d\mathcal{I}_S}{dt} = \alpha \nabla^2 \mathcal{I}_S + \beta C_{文化} - \gamma F_{社会规范}$$
+$`\frac{d\mathcal{I}_S}{dt} = \alpha \nabla^2 \mathcal{I}_S + \beta C_{文化} - \gamma F_{社会规范}`$
 
 其中：
-- $\mathcal{I}_S$ 是符号界面位置
-- $C_{文化}$ 是文化创造力
-- $F_{社会规范}$ 是社会规范的约束力
-- $\alpha$, $\beta$, $\gamma$ 是系统参数
+- $`\mathcal{I}_S`$ 是符号界面位置
+- $`C_{文化}`$ 是文化创造力
+- $`F_{社会规范}`$ 是社会规范的约束力
+- $`\alpha`$, $`\beta`$, $`\gamma`$ 是系统参数
 
 ### 界面位置与符号特性
 
@@ -129,7 +129,7 @@ $$\frac{d\mathcal{I}_S}{dt} = \alpha \nabla^2 \mathcal{I}_S + \beta C_{文化} -
 
 符号系统中存在量子纠缠效应，表现为符号间的非局域关联：
 
-$$|\Psi_{符号网络}\rangle = \sum_{i,j} \alpha_{ij} |符号_i\rangle \otimes |符号_j\rangle$$
+$`|\Psi_{符号网络}\rangle = \sum_{i,j} \alpha_{ij} |符号_i\rangle \otimes |符号_j\rangle`$
 
 符号纠缠解释了以下现象：
 - 场域效应：一个符号变化影响整个符号系统
@@ -138,19 +138,19 @@ $$|\Psi_{符号网络}\rangle = \sum_{i,j} \alpha_{ij} |符号_i\rangle \otimes 
 
 符号纠缠度可量化为：
 
-$$E(S_1, S_2) = S(\rho_{S_1}) + S(\rho_{S_2}) - S(\rho_{S_1S_2})$$
+$`E(S_1, S_2) = S(\rho_{S_1}) + S(\rho_{S_2}) - S(\rho_{S_1S_2})`$
 
-其中 $S(\rho)$ 是符号状态的冯诺依曼熵。
+其中 $`S(\rho)`$ 是符号状态的冯诺依曼熵。
 
 ### 集体意义与量子记忆
 
 文化符号系统可理解为量子记忆结构：
 
-$$M_Q = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle, \mathcal{R}\}$$
+$`M_Q = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle, \mathcal{R}\}`$
 
 其中：
-- $|\psi_i\rangle$ 是符号量子态
-- $\mathcal{R}$ 是符号之间的关系网络
+- $`|\psi_i\rangle`$ 是符号量子态
+- $`\mathcal{R}`$ 是符号之间的关系网络
 
 集体意义通过符号纠缠网络存储和检索，解释了文化传承和集体无意识现象。
 
@@ -160,7 +160,7 @@ $$M_Q = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle, \mathcal{R}\}$$
 
 符号系统不仅反映现实，还参与构建现实，这一过程可表示为：
 
-$$\mathcal{C}_{现实}: \Omega_Q^{符号} \rightarrow \Omega_C^{社会}$$
+$`\mathcal{C}_{现实}: \Omega_Q^{符号} \rightarrow \Omega_C^{社会}`$
 
 符号经典化过程将符号量子可能性转化为社会现实，表现在：
 - 命名赋予存在
@@ -172,9 +172,9 @@ $$\mathcal{C}_{现实}: \Omega_Q^{符号} \rightarrow \Omega_C^{社会}$$
 
 符号创造可理解为量子-经典转换的特例：
 
-$$|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)$$
+$`|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)`$
 
-其中 $\hat{U}_{创造}$ 是创造算符，产生新的符号叠加态。
+其中 $`\hat{U}_{创造}`$ 是创造算符，产生新的符号叠加态。
 
 符号创造的量子特性包括：
 - 叠加性：融合多种已知意义
@@ -189,12 +189,12 @@ $$|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)$$
 二元论符号学为传播研究提供新框架：
 
 1. **传播效果量子模型**：
-   $$E_{传播} = \mathcal{C}(|\psi_{符号}\rangle \otimes |\psi_{接收者}\rangle)$$
+   $`E_{传播} = \mathcal{C}(|\psi_{符号}\rangle \otimes |\psi_{接收者}\rangle)`$
    
    这一模型解释了相同信息对不同受众产生不同效果的现象。
 
 2. **社交媒体符号动力学**：
-   $$\frac{d|\psi_{梗}\rangle}{dt} = \hat{H}_{网络}|\psi_{梗}\rangle + \sum_i \gamma_i |\psi_{参与者_i}\rangle$$
+   $`\frac{d|\psi_{梗}\rangle}{dt} = \hat{H}_{网络}|\psi_{梗}\rangle + \sum_i \gamma_i |\psi_{参与者_i}\rangle`$
    
    这一方程描述互联网符号（如梗）的快速演化和变异。
 
@@ -202,12 +202,12 @@ $$|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)$$
 
 1. **品牌符号量子理论**：
    品牌作为符号叠加态：
-   $$|\psi_{品牌}\rangle = \sum_i \alpha_i |价值_i\rangle + \sum_j \beta_j |特质_j\rangle + \sum_k \gamma_k |情感_k\rangle$$
+   $`|\psi_{品牌}\rangle = \sum_i \alpha_i |价值_i\rangle + \sum_j \beta_j |特质_j\rangle + \sum_k \gamma_k |情感_k\rangle`$
    
    这解释了为什么成功品牌能同时拥有稳定识别和灵活适应能力。
 
 2. **消费者-品牌纠缠**：
-   $$E(消费者, 品牌) > 0$$
+   $`E(消费者, 品牌) > 0`$
    
    这描述了品牌忠诚度的量子基础，解释品牌社区现象。
 
@@ -215,12 +215,12 @@ $$|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)$$
 
 1. **文化演化量子模型**：
    文化符号系统的演化：
-   $$\frac{d\rho_{文化}}{dt} = -\frac{i}{\hbar}[\hat{H}_{历史}, \rho_{文化}] + \mathcal{L}_{社会互动}(\rho_{文化})$$
+   $`\frac{d\rho_{文化}}{dt} = -\frac{i}{\hbar}[\hat{H}_{历史}, \rho_{文化}] + \mathcal{L}_{社会互动}(\rho_{文化})`$
    
    这解释了文化变革与稳定的平衡机制。
 
 2. **跨文化符号翻译**：
-   $$\mathcal{T}: |\psi_{文化A}\rangle \rightarrow |\phi_{文化B}\rangle$$
+   $`\mathcal{T}: |\psi_{文化A}\rangle \rightarrow |\phi_{文化B}\rangle`$
    
    这一框架帮助理解文化翻译的可能性和局限性。
 
@@ -228,12 +228,12 @@ $$|\psi_{新符号}\rangle = \hat{U}_{创造}(|\psi_{已知}\rangle)$$
 
 1. **量子符号处理算法**：
    开发考虑符号量子特性的AI系统：
-   $$AI_Q(符号) = \mathcal{M}(|\psi_{符号}\rangle)$$
+   $`AI_Q(符号) = \mathcal{M}(|\psi_{符号}\rangle)`$
    
    这超越了经典计算的符号处理能力，保留了意义的叠加特性。
 
 2. **语义网络的量子表示**：
-   $$G_Q = (V, E, \psi)$$
+   $`G_Q = (V, E, \psi)`$
    
    其中节点和边具有量子特性，能表示模糊分类和非传递关系。
 

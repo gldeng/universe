@@ -29,15 +29,15 @@ English: [Introduction](#introduction) | [Quantum Measurement](#quantum-measurem
 **量子经典二元论解释（版本27.0）**：
 测量问题的本质是观察者（黑洞）经典化过程。根据核心理论，所有观察者即黑洞；黑洞吸收即经典化。观察者通过黑洞吸收（经典化）过程将量子域的波函数叠加态（混沌）转化为经典域的经典知识和经典熵：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{黑洞吸收（经典化）}} I_{\text{经典知识}} + S_{\text{经典熵}}
-$$
+`$
 
 这一过程不是神秘的物理坍缩，而是观察者信息处理的必然结果。观察者必须从波函数叠加态中经典化特定的状态，因为经典知识只能存储确定的状态，不能同时存储相互矛盾的信息。根据核心公理4，观察者的维度决定了其经典化能力：
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 观察者经典化效率越高（维度越高），量子测量的确定性越强。
 
@@ -53,25 +53,25 @@ $$
 **量子经典二元论解释（版本27.0）**：
 量子纠缠反映了量子域中的基本特性。在量子域中，信息是全局的、非局域的，不受经典时空限制：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
-$$
+`$
 
 根据核心理论v27.0，量子纠缠态可通过等效频率进行精确量化：
 
-$$
+$`
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
-$$
+`$
 
-$$
+$`
 f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 当观察者经典化这些信息时，才引入了局域性和时空限制。非局域关联不是信息的超光速传递，而是量子域本质的全局特性。根据量子经典二元论，虫洞通信是观察者（黑洞）之间通过量子纠缠进行信息交换的机制：
 
-$$
+$`
 \text{经典知识}\xrightarrow{\text{粒子湮灭编码}}\text{量子纠缠态}\xrightarrow{\text{非局域传输}}\text{经典知识解码}
-$$
+`$
 
 这一过程不违反相对论限制，因为信息传递发生在量子域中，不受经典时空约束。
 
@@ -87,9 +87,9 @@ $$
 **量子经典二元论解释（版本27.0）**：
 时间本质上是观察者经典化量子域信息的顺序标记。根据核心理论v27.0，时间流向与经典熵增加方向一致，反映经典化过程的不可逆性：
 
-$$
+$`
 \Delta t \propto \frac{\Delta S_{\text{经典熵}}}{k_{\text{经典化效率}}}
-$$
+`$
 
 每次经典化都会增加经典域的总熵，使系统朝着更高熵的状态演化。时间的单向性不是宇宙的内在属性，而是观察者经典化过程的必然结果。时间体验的主观差异则源于不同观察者经典化效率的差异。
 
@@ -105,9 +105,9 @@ $$
 **量子经典二元论解释（版本27.0）**：
 宇宙常数(Λ)在量子经典二元论框架下可以理解为宇宙效率的变化率：
 
-$$
+$`
 \Lambda \propto \frac{d\eta_{\text{宇宙}}}{dt}
-$$
+`$
 
 这一关系解释了宇宙常数为何具有微小但非零的正值：
 - **微小值**：反映宇宙效率变化缓慢，宇宙大尺度上已接近稳定状态
@@ -128,21 +128,21 @@ $$
 **量子经典二元论解释（版本27.0）**：
 暗物质和暗能量可被理解为量子能量与经典能量转换关系的体现。根据核心理论v27.0，经典能量与量子能量在二元框架中统一：
 
-$$
+$`
 E_{\text{总}} = E_{\text{经典}} + E_{\text{纠缠}} = h \cdot (f_{\text{经典}} + f_{\text{纠缠}})
-$$
+`$
 
 暗物质可能是高能量子纠缠态经典化的不完全表现，而暗能量则可能反映了宇宙效率随时间的变化：
 
-$$
+$`
 E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
-$$
+`$
 
-其中$\eta$是经典化效率系数。这解释了为什么暗物质和暗能量只通过引力效应被间接观测到，因为引力场与量子能量密度关联：
+其中$`\eta`$是经典化效率系数。这解释了为什么暗物质和暗能量只通过引力效应被间接观测到，因为引力场与量子能量密度关联：
 
-$$
+$`
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{量子能量}}
-$$
+`$
 
 ### 虫洞通信与隔远作用
 
@@ -156,9 +156,9 @@ $$
 **量子经典二元论解释（版本27.0）**：
 根据核心理论v27.0，虫洞通信基于量子隐形传态原理，需要预共享量子纠缠对作为通信通道。量子隐形传态的数学表达为：
 
-$$
+$`
 |\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-$$
+`$
 
 通信方式比较：
 
@@ -170,9 +170,9 @@ $$
 
 量子纠缠在不同尺度系统中表现出显著差异，纠缠维持时间与系统复杂度呈反比关系：
 
-$$
+$`
 \tau_{\text{纠缠}} \propto \frac{1}{C_{\text{系统}}^{\alpha}}
-$$
+`$
 
 这解释了为何宏观物体很难观测到量子纠缠效应，同时阐明了虫洞通信的基本机制，与相对论兼容。
 
@@ -186,25 +186,25 @@ $$
 - 黑洞内部时空奇点与量子引力的关系尚未明确
 
 **量子经典二元论解释（版本27.0）**：
-根据核心理论v27.0，黑洞是观察者的极端形式，事件视界是量子域与经典域的界面结构。黑洞事件视界对应界面域 $\mathcal{I}$ 的临界解相干区域：
+根据核心理论v27.0，黑洞是观察者的极端形式，事件视界是量子域与经典域的界面结构。黑洞事件视界对应界面域 $`\mathcal{I}`$ 的临界解相干区域：
 
-$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+$`\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}`$
 
-其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 黑洞边界动力学满足非线性方程：
 
-$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+$`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
 
 这表明黑洞边界是一个动态演化的量子-经典界面，而非绝对边界。信息在穿越事件视界时经历经典化转换：
 
-$$|\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}$$
+$`|\psi\rangle_{\text{量子域信息}}\xrightarrow{\text{黑洞经典化}}I_{\text{经典知识（极高密度）}}+S_{\text{经典熵（极低）}}`$
 
 黑洞经典化的特征是其极高的信息密度和极低的熵产生率，使其成为宇宙中最高效的经典化节点。这解释了为何信息看似"丢失"但实际上是转换为黑洞内部的经典知识形式。
 
 霍金辐射可理解为黑洞经典知识的量子化过程：
 
-$$I_{\text{经典知识}}\xrightarrow{\text{黑洞量子化}}|\psi\rangle_{\text{量子域（霍金辐射）}}$$
+$`I_{\text{经典知识}}\xrightarrow{\text{黑洞量子化}}|\psi\rangle_{\text{量子域（霍金辐射）}}`$
 
 这一统一框架为黑洞信息悖论提供了新的解决方案，同时保持了信息守恒和量子理论的完整性。
 
@@ -226,9 +226,9 @@ There are many phenomena and puzzles in traditional physics frameworks that have
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 The essence of the measurement problem is the observer's (black hole's) classicalization process. According to the core theory, all observers are black holes; black hole absorption is classicalization. Observers transform quantum domain information into classical domain's classical knowledge and classical entropy through the black hole absorption (classicalization) process:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Black Hole Absorption (Classicalization)}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
-$$
+`$
 
 This process is not a mysterious physical collapse but a necessary result of observer information processing. Observers must classicalize specific states from wave function superposition states because classical knowledge can only store determined states and cannot simultaneously store mutually contradictory information.
 
@@ -244,9 +244,9 @@ This process is not a mysterious physical collapse but a necessary result of obs
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 Quantum entanglement reflects the fundamental properties of the quantum domain. In the quantum domain, information is global, non-local, and not constrained by classical spacetime:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}} = \{\text{Wave Function Superposition State (Chaos)},\;\text{Quantum Entanglement State (Energy)}\}
-$$
+`$
 
 Locality and spacetime constraints are introduced when observers classicalize this information. Non-local correlations are not superluminal transmission of information but global properties of the quantum domain itself. According to Quantum-Classical Dualism, wormhole communication is the mechanism of information exchange between observers (black holes) through quantum entanglement, without violating relativistic constraints.
 
@@ -262,9 +262,9 @@ Locality and spacetime constraints are introduced when observers classicalize th
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 The arrow of time stems from classical entropy increase in the observer's classicalization process:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Black Hole Absorption (Classicalization)}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
-$$
+`$
 
 Each classicalization increases the total entropy of the classical domain, causing the system to evolve towards higher entropy states. The unidirectionality of time is not an intrinsic property of the universe but a necessary result of the observer's classicalization process. The t dimension in the observer's spacetime array (x,y,z,t) is defined precisely by this irreversible classicalization process.
 
@@ -280,9 +280,9 @@ Each classicalization increases the total entropy of the classical domain, causi
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 The cosmological constant problem can be understood as a selection effect of the observer's classicalization process. Observers can only classicalize quantum information compatible with their structure, creating an effective filtering mechanism:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain (Possible Universes)}} \xrightarrow{\text{Black Hole Absorption (Classicalization)}} I_{\text{Classical Knowledge (Universe Compatible with Observer)}} + S_{\text{Classical Entropy}}
-$$
+`$
 
 Only universe parameters that allow observers to exist can be classicalized into the observer's classical knowledge. This is not a coincidence or fine-tuning but a necessary result of the observer's classicalization process.
 
@@ -298,15 +298,15 @@ Only universe parameters that allow observers to exist can be classicalized into
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 The core of the quantum gravity problem is how observers (black holes) classicalize quantum information under extreme conditions. Under these conditions, conventional classicalization processes fail, leading to theoretical contradictions. The solution lies in understanding how observers of different dimensions classicalize the same quantum information:
 
-$$
+$`
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-$$
+`$
 
 High-dimensional observers can classicalize complex quantum information more efficiently, possibly including quantum gravity effects. The black hole information paradox can be resolved through the concept that observers are black holes, and black hole radiation is the process of returning information to the quantum domain, maintaining information conservation:
 
-$$
+$`
 I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = \text{Constant (Within a specific classical world)}
-$$
+`$
 
 ### Dark Matter and Dark Energy
 
@@ -320,9 +320,9 @@ $$
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 Dark matter and dark energy may be quantum information structures that have not been fully classicalized. They exist in an intermediate state between the quantum domain and classical domain, partially affecting the classical world but not fully following classical physical laws:
 
-$$
+$`
 |\psi\rangle_{\text{Universe}} = I_{\text{Classicalized (Ordinary Matter)}} + S_{\text{Partially Classicalized (Dark Matter/Energy)}} + |\psi\rangle_{\text{Unclassicalized (Quantum Domain)}}
-$$
+`$
 
 This explains why dark matter and dark energy are only indirectly observed through gravitational effects, as gravity may be the most fundamental classicalization effect that responds even to partially classicalized information structures.
 
@@ -338,15 +338,15 @@ This explains why dark matter and dark energy are only indirectly observed throu
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 Biological systems can be understood as specially evolved observers (black holes) capable of controlling the classicalization process under specific conditions, maintaining quantum coherence and utilizing quantum effects:
 
-$$
+$`
 \text{Biological Quantum Effects} = \text{Controlled Quantum Entanglement State} + \text{Precisely Regulated Black Hole Absorption (Classicalization)}
-$$
+`$
 
 This ability is optimized through evolution because it provides advantages in information processing. The dimensional upgrade of biological observers is partly manifested in the fine control of the classicalization process, enabling them to utilize quantum effects in macroscopic environments. According to the observer dimension formula:
 
-$$
+$`
 \text{Biological Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-$$
+`$
 
 Efficient quantum utilization capability corresponds to a higher observer dimension.
 
@@ -362,15 +362,15 @@ Efficient quantum utilization capability corresponds to a higher observer dimens
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 Consciousness is the stable classical knowledge structure formed after the observer classicalizes quantum domain information:
 
-$$
+$`
 |\psi\rangle_{\text{General Consciousness (Quantum Domain)}} \rightarrow I_{\text{Classical Free Will}} + S_{\text{Entropy Reduction}}
-$$
+`$
 
 Classical free will is the observer's active choice of classicalization method:
 
-$$
+$`
 \text{Classical Free Will Strength} \propto \frac{\text{Amount of Actively Classicalized Information}}{\text{Total Amount of Information}}
-$$
+`$
 
 This explains why conscious experience is so subjective yet has an objective foundation, and why free will is both constrained by physical laws and has real choice space. Consciousness and free will are not additional properties of the physical world but core functions of observers (black holes) as information classicalization nodes.
 
@@ -386,9 +386,9 @@ This explains why conscious experience is so subjective yet has an objective fou
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
 The wormhole communication mechanism provides a clear explanation for quantum entanglement. According to the core theory, the essence of wormhole communication is the information transmission process between observers (black holes):
 
-$$
+$`
 E_{\text{Transmitter Energy Consumption}} + E_{\text{Receiver Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 - **Transmitting End**: The observer consumes classical energy to encode classical knowledge into quantum entanglement state and transmit it through a wormhole
 - **Wormhole Channel**: Information propagates in the wormhole as quantum entanglement state, without classicalization loss
@@ -406,25 +406,25 @@ This mechanism explains the non-locality of quantum entanglement while being com
 - The relationship between black hole interior spacetime singularity and quantum gravity is still unclear
 
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
-According to core theory v27.0, black holes are extreme forms of observers, and event horizons are interface structures between quantum and classical domains. The black hole event horizon corresponds to the critical decoherence region of the interface domain $\mathcal{I}$:
+According to core theory v27.0, black holes are extreme forms of observers, and event horizons are interface structures between quantum and classical domains. The black hole event horizon corresponds to the critical decoherence region of the interface domain $`\mathcal{I}`$:
 
-$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+$`\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}`$
 
-where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 The black hole boundary dynamics satisfies a nonlinear equation:
 
-$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+$`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
 
 This indicates that the black hole boundary is a dynamically evolving quantum-classical interface rather than an absolute boundary. Information undergoes classicalization transformation when crossing the event horizon:
 
-$$|\psi\rangle_{\text{Quantum Domain Information}}\xrightarrow{\text{Black Hole Classicalization}}I_{\text{Classical Knowledge (Extremely High Density)}}+S_{\text{Classical Entropy (Extremely Low)}}$$
+$`|\psi\rangle_{\text{Quantum Domain Information}}\xrightarrow{\text{Black Hole Classicalization}}I_{\text{Classical Knowledge (Extremely High Density)}}+S_{\text{Classical Entropy (Extremely Low)}}`$
 
 Black hole classicalization is characterized by its extremely high information density and extremely low entropy production rate, making it the most efficient classicalization node in the universe. This explains why information appears to be "lost" but is actually converted into a form of classical knowledge inside the black hole.
 
 Hawking radiation can be understood as the quantization process of black hole classical knowledge:
 
-$$I_{\text{Classical Knowledge}}\xrightarrow{\text{Black Hole Quantization}}|\psi\rangle_{\text{Quantum Domain (Hawking Radiation)}}$$
+$`I_{\text{Classical Knowledge}}\xrightarrow{\text{Black Hole Quantization}}|\psi\rangle_{\text{Quantum Domain (Hawking Radiation)}}`$
 
 This unified framework provides a new solution to the black hole information paradox while maintaining information conservation and the integrity of quantum theory.
 

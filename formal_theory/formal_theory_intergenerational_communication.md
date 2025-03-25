@@ -14,63 +14,63 @@
 
 每一代人形成特有的量子-经典认知域结构：
 
-$$\Omega_{代际}^{(i)} = \{\Omega_Q^{(i)}, \Omega_C^{(i)}, \mathcal{I}^{(i)}\}$$
+$`\Omega_{代际}^{(i)} = \{\Omega_Q^{(i)}, \Omega_C^{(i)}, \mathcal{I}^{(i)}\}`$
 
 其中：
-- $\Omega_Q^{(i)}$ 是第i代的量子域（可能性思维空间）
-- $\Omega_C^{(i)}$ 是第i代的经典域（确定性知识结构）
-- $\mathcal{I}^{(i)}$ 是第i代的内部界面（转换机制）
+- $`\Omega_Q^{(i)}`$ 是第i代的量子域（可能性思维空间）
+- $`\Omega_C^{(i)}`$ 是第i代的经典域（确定性知识结构）
+- $`\mathcal{I}^{(i)}`$ 是第i代的内部界面（转换机制）
 
 代际认知差异表现为域结构参数的差异：
 
-$$\Delta_{ij} = ||\Omega_{代际}^{(i)} - \Omega_{代际}^{(j)}||$$
+$`\Delta_{ij} = ||\Omega_{代际}^{(i)} - \Omega_{代际}^{(j)}||`$
 
 ### 2. 代际经典化模式
 
 不同代际展现独特的量子→经典转换模式：
 
-$$\mathcal{C}_{代际}^{(i)}(\rho) = \sum_k P_k^{(i)} \rho P_k^{(i)}$$
+$`\mathcal{C}_{代际}^{(i)}(\rho) = \sum_k P_k^{(i)} \rho P_k^{(i)}`$
 
-其中 $P_k^{(i)}$ 是第i代特有的投影算符，反映其价值观、解释框架和判断标准。
+其中 $`P_k^{(i)}`$ 是第i代特有的投影算符，反映其价值观、解释框架和判断标准。
 
 代际间经典化程度差异：
 
-$$\delta_{ij} = ||\mathcal{C}_{代际}^{(i)} - \mathcal{C}_{代际}^{(j)}||_{op}$$
+$`\delta_{ij} = ||\mathcal{C}_{代际}^{(i)} - \mathcal{C}_{代际}^{(j)}||_{op}`$
 
-其中 $||·||_{op}$ 是算符范数，量化经典化方式的差异程度。
+其中 $`||·||_{op}`$ 是算符范数，量化经典化方式的差异程度。
 
 ### 3. 代际信息转换动力学
 
 代际间信息传递遵循以下转换过程：
 
-$$\rho_A^{(i)} \xrightarrow{\mathcal{Q}^{(i\rightarrow j)}} \rho_B^{(j)}$$
+$`\rho_A^{(i)} \xrightarrow{\mathcal{Q}^{(i\rightarrow j)}} \rho_B^{(j)}`$
 
-其中 $\mathcal{Q}^{(i\rightarrow j)}$ 是代际信息转换算符，包含以下关键阶段：
+其中 $`\mathcal{Q}^{(i\rightarrow j)}`$ 是代际信息转换算符，包含以下关键阶段：
 
 1. **解码**：信息从发送方的经典结构转回量子状态
-   $$\rho_A^{(i)} \xrightarrow{\mathcal{Q}_{i}} \rho_{量子}$$
+   $`\rho_A^{(i)} \xrightarrow{\mathcal{Q}_{i}} \rho_{量子}`$
 
 2. **跨代传输**：量子信息通过共享通道传递
-   $$\rho_{量子} \xrightarrow{T_{共享}} \rho'_{量子}$$
+   $`\rho_{量子} \xrightarrow{T_{共享}} \rho'_{量子}`$
 
 3. **重新编码**：信息被接收方以其独特方式经典化
-   $$\rho'_{量子} \xrightarrow{\mathcal{C}_{j}} \rho_B^{(j)}$$
+   $`\rho'_{量子} \xrightarrow{\mathcal{C}_{j}} \rho_B^{(j)}`$
 
 信息保真度取决于转换过程的匹配度：
 
-$$F_{ij} = \text{Tr}\left(\sqrt{\sqrt{\rho_A^{(i)}}\rho_B^{(j)}\sqrt{\rho_A^{(i)}}}\right)^2$$
+$`F_{ij} = \text{Tr}\left(\sqrt{\sqrt{\rho_A^{(i)}}\rho_B^{(j)}\sqrt{\rho_A^{(i)}}}\right)^2`$
 
 ### 4. 代际共享量子基底
 
 尽管存在差异，所有代际共享某些基本量子基底：
 
-$$\mathcal{B}_{共享} = \{|b_1\rangle, |b_2\rangle, ..., |b_n\rangle\}$$
+$`\mathcal{B}_{共享} = \{|b_1\rangle, |b_2\rangle, ..., |b_n\rangle\}`$
 
 这些基底对应跨代普遍性体验与价值（如家庭、安全、认同、成就等）。
 
 共享基底重叠度量：
 
-$$O_{ij} = \frac{|\mathcal{B}^{(i)} \cap \mathcal{B}^{(j)}|}{|\mathcal{B}^{(i)} \cup \mathcal{B}^{(j)}|}$$
+$`O_{ij} = \frac{|\mathcal{B}^{(i)} \cap \mathcal{B}^{(j)}|}{|\mathcal{B}^{(i)} \cup \mathcal{B}^{(j)}|}`$
 
 重叠度越高，基础沟通可能性越大。
 
@@ -81,20 +81,20 @@ $$O_{ij} = \frac{|\mathcal{B}^{(i)} \cap \mathcal{B}^{(j)}|}{|\mathcal{B}^{(i)} 
 每一代在不同信息环境中成长，导致基本量子-经典结构差异：
 
 1. **数字原生代**（Z世代及之后）：高度量子化信息环境，多重叠加态信息
-   - 量子-经典比率：$\frac{\Omega_Q}{\Omega_C} \approx 1.8$
+   - 量子-经典比率：$`\frac{\Omega_Q}{\Omega_C} \approx 1.8`$
    - 信息加工特点：快速并行处理，高度连接，低深度
 
 2. **数字移民代**（千禧一代、X世代）：混合信息环境，适应性量子-经典转换
-   - 量子-经典比率：$\frac{\Omega_Q}{\Omega_C} \approx 1.2$
+   - 量子-经典比率：$`\frac{\Omega_Q}{\Omega_C} \approx 1.2`$
    - 信息加工特点：适应性模式切换，中等连接，中等深度
 
 3. **模拟代**（婴儿潮及之前）：较固定经典信息环境，线性顺序思维
-   - 量子-经典比率：$\frac{\Omega_Q}{\Omega_C} \approx 0.7$
+   - 量子-经典比率：$`\frac{\Omega_Q}{\Omega_C} \approx 0.7`$
    - 信息加工特点：深度顺序处理，低连接度，高稳定性
 
 世代差异可用量子-经典相位图表示：
 
-$$\Phi_{代际}^{(i)} = \tan^{-1}\left(\frac{\Omega_Q^{(i)}}{\Omega_C^{(i)}}\right)$$
+$`\Phi_{代际}^{(i)} = \tan^{-1}\left(\frac{\Omega_Q^{(i)}}{\Omega_C^{(i)}}\right)`$
 
 ### 2. 经典知识结构差异
 
@@ -107,19 +107,19 @@ $$\Phi_{代际}^{(i)} = \tan^{-1}\left(\frac{\Omega_Q^{(i)}}{\Omega_C^{(i)}}\rig
 
 知识结构差异系数：
 
-$$K_{结构}^{(i,j)} = \sum_{d=1}^4 w_d \cdot |k_d^{(i)} - k_d^{(j)}|$$
+$`K_{结构}^{(i,j)} = \sum_{d=1}^4 w_d \cdot |k_d^{(i)} - k_d^{(j)}|`$
 
-其中 $k_d$ 是各维度差异参数，$w_d$ 是权重系数。
+其中 $`k_d`$ 是各维度差异参数，$`w_d`$ 是权重系数。
 
 ### 3. 价值观量子叠加态
 
 各代际价值观可表示为量子叠加态：
 
-$$|\Psi_{价值}^{(i)}\rangle = \sum_k \alpha_k^{(i)} |价值_k\rangle$$
+$`|\Psi_{价值}^{(i)}\rangle = \sum_k \alpha_k^{(i)} |价值_k\rangle`$
 
-其中系数 $\alpha_k^{(i)}$ 反映第i代对特定价值的重视程度。代际间价值观差异表现为系数分布不同：
+其中系数 $`\alpha_k^{(i)}`$ 反映第i代对特定价值的重视程度。代际间价值观差异表现为系数分布不同：
 
-$$D_{价值}^{(i,j)} = \sqrt{\sum_k |\alpha_k^{(i)} - \alpha_k^{(j)}|^2}$$
+$`D_{价值}^{(i,j)} = \sqrt{\sum_k |\alpha_k^{(i)} - \alpha_k^{(j)}|^2}`$
 
 关键价值维度包括：
 - 个体—集体取向
@@ -139,9 +139,9 @@ $$D_{价值}^{(i,j)} = \sqrt{\sum_k |\alpha_k^{(i)} - \alpha_k^{(j)}|^2}$$
 
 通信匹配指数：
 
-$$M_{通信}^{(i,j)} = e^{-\gamma \sum_m |P_m^{(i)} - P_m^{(j)}|^2}$$
+$`M_{通信}^{(i,j)} = e^{-\gamma \sum_m |P_m^{(i)} - P_m^{(j)}|^2}`$
 
-其中 $P_m$ 是各通信模式偏好参数，$\gamma$ 是敏感度系数。
+其中 $`P_m`$ 是各通信模式偏好参数，$`\gamma`$ 是敏感度系数。
 
 ## 代际沟通障碍与桥梁
 
@@ -156,19 +156,19 @@ $$M_{通信}^{(i,j)} = e^{-\gamma \sum_m |P_m^{(i)} - P_m^{(j)}|^2}$$
 
 转换失配程度：
 
-$$\Delta_{转换}^{(i,j)} = 1 - \frac{\langle \mathcal{C}^{(i)}, \mathcal{C}^{(j)} \rangle}{||\mathcal{C}^{(i)}|| \cdot ||\mathcal{C}^{(j)}||}$$
+$`\Delta_{转换}^{(i,j)} = 1 - \frac{\langle \mathcal{C}^{(i)}, \mathcal{C}^{(j)} \rangle}{||\mathcal{C}^{(i)}|| \cdot ||\mathcal{C}^{(j)}||}`$
 
 ### 2. 代际量子纠缠效应
 
 成功的代际交流可形成量子纠缠态，创造共享理解：
 
-$$|\Psi_{共享}^{(i,j)}\rangle = \frac{1}{\sqrt{n}}\sum_k |理解_k^{(i)}\rangle \otimes |理解_k^{(j)}\rangle$$
+$`|\Psi_{共享}^{(i,j)}\rangle = \frac{1}{\sqrt{n}}\sum_k |理解_k^{(i)}\rangle \otimes |理解_k^{(j)}\rangle`$
 
 纠缠度量化为：
 
-$$E_{代际}^{(i,j)} = S(\rho_i) = S(\rho_j)$$
+$`E_{代际}^{(i,j)} = S(\rho_i) = S(\rho_j)`$
 
-其中 $S(\rho)$ 是归约密度矩阵的冯诺依曼熵。
+其中 $`S(\rho)`$ 是归约密度矩阵的冯诺依曼熵。
 
 ### 3. 经典-量子-经典转换桥梁
 
@@ -181,7 +181,7 @@ $$E_{代际}^{(i,j)} = S(\rho_i) = S(\rho_j)$$
 
 转换效率提升系数：
 
-$$\eta_{桥梁} = \frac{F_{ij}^{\text{有桥梁}}}{F_{ij}^{\text{无桥梁}}}$$
+$`\eta_{桥梁} = \frac{F_{ij}^{\text{有桥梁}}}{F_{ij}^{\text{无桥梁}}}`$
 
 ### 4. 量子叠加沟通策略
 
@@ -194,9 +194,9 @@ $$\eta_{桥梁} = \frac{F_{ij}^{\text{有桥梁}}}{F_{ij}^{\text{无桥梁}}}$$
 
 叠加策略成功率：
 
-$$P_{成功} = 1 - \prod_{s=1}^4 (1 - p_s^{(i,j)})$$
+$`P_{成功} = 1 - \prod_{s=1}^4 (1 - p_s^{(i,j)})`$
 
-其中 $p_s^{(i,j)}$ 是各策略在特定代际对中的成功概率。
+其中 $`p_s^{(i,j)}`$ 是各策略在特定代际对中的成功概率。
 
 ## 代际合作的量子-经典框架
 
@@ -218,9 +218,9 @@ $$P_{成功} = 1 - \prod_{s=1}^4 (1 - p_s^{(i,j)})$$
 
 认知互补势能：
 
-$$V_{互补}^{(i,j)} = \sum_k w_k \cdot \min(S_k^{(i)}, S_k^{(j)}) \cdot |S_k^{(i)} - S_k^{(j)}|$$
+$`V_{互补}^{(i,j)} = \sum_k w_k \cdot \min(S_k^{(i)}, S_k^{(j)}) \cdot |S_k^{(i)} - S_k^{(j)}|`$
 
-其中 $S_k$ 是各认知能力的强度参数，$w_k$ 是任务相关权重。
+其中 $`S_k`$ 是各认知能力的强度参数，$`w_k`$ 是任务相关权重。
 
 ### 2. 代际协同工作模型
 
@@ -233,26 +233,26 @@ $$V_{互补}^{(i,j)} = \sum_k w_k \cdot \min(S_k^{(i)}, S_k^{(j)}) \cdot |S_k^{(
 
 协同效能方程：
 
-$$E_{协同}^{(i,j)} = \alpha \cdot \sqrt{E_Q^{(i)} \cdot E_C^{(j)}} + \beta \cdot \sqrt{E_C^{(i)} \cdot E_Q^{(j)}}$$
+$`E_{协同}^{(i,j)} = \alpha \cdot \sqrt{E_Q^{(i)} \cdot E_C^{(j)}} + \beta \cdot \sqrt{E_C^{(i)} \cdot E_Q^{(j)}}`$
 
-其中 $E_Q$ 和 $E_C$ 分别是量子和经典处理效能，$\alpha$ 和 $\beta$ 是任务相关系数。
+其中 $`E_Q`$ 和 $`E_C`$ 分别是量子和经典处理效能，$`\alpha`$ 和 $`\beta`$ 是任务相关系数。
 
 ### 3. 多代际量子纠缠网络
 
 构建跨越多代的代际量子纠缠网络：
 
-$$\mathcal{G} = (V, E, \rho)$$
+$`\mathcal{G} = (V, E, \rho)`$
 
 其中：
-- $V$ 是不同代际的节点集
-- $E$ 是代际间连接的边集
-- $\rho$ 是描述全局纠缠状态的密度矩阵
+- $`V`$ 是不同代际的节点集
+- $`E`$ 是代际间连接的边集
+- $`\rho`$ 是描述全局纠缠状态的密度矩阵
 
 网络纠缠韧性：
 
-$$R_{\mathcal{G}} = \frac{1}{|V|} \sum_{i,j \in V} \frac{E_{代际}^{(i,j)}}{d(i,j)}$$
+$`R_{\mathcal{G}} = \frac{1}{|V|} \sum_{i,j \in V} \frac{E_{代际}^{(i,j)}}{d(i,j)}`$
 
-其中 $d(i,j)$ 是图中节点间的距离。
+其中 $`d(i,j)`$ 是图中节点间的距离。
 
 ### 4. 代际智慧整合模型
 
@@ -265,9 +265,9 @@ $$R_{\mathcal{G}} = \frac{1}{|V|} \sum_{i,j \in V} \frac{E_{代际}^{(i,j)}}{d(i
 
 整合智慧函数：
 
-$$W_{整合} = \sum_{i \in 代际} \omega_i \cdot W^{(i)} \cdot \prod_{j \neq i} (1 + \sigma_{ij} \cdot O_{ij})$$
+$`W_{整合} = \sum_{i \in 代际} \omega_i \cdot W^{(i)} \cdot \prod_{j \neq i} (1 + \sigma_{ij} \cdot O_{ij})`$
 
-其中 $W^{(i)}$ 是第i代的内部智慧指数，$\omega_i$ 是环境适配权重，$\sigma_{ij}$ 是协同增益参数。
+其中 $`W^{(i)}`$ 是第i代的内部智慧指数，$`\omega_i`$ 是环境适配权重，$`\sigma_{ij}`$ 是协同增益参数。
 
 ## 应用领域
 

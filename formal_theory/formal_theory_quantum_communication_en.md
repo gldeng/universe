@@ -36,29 +36,29 @@ Quantum Communication Protocols Theory applies the Quantum-Classical Dualism fra
 
 Within the Quantum-Classical Dualism framework, communication information possesses a dual nature:
 
-$$I = \{I_Q, I_C, I_{\mathcal{I}}\}$$
+$`I = \{I_Q, I_C, I_{\mathcal{I}}\}`$
 
-where $I_Q$ is quantum domain information, $I_C$ is classical domain information, and $I_{\mathcal{I}}$ is interface domain information. These three types of information follow different dynamic laws:
+where $`I_Q`$ is quantum domain information, $`I_C`$ is classical domain information, and $`I_{\mathcal{I}}`$ is interface domain information. These three types of information follow different dynamic laws:
 
-$$\frac{dI_Q}{dt} = f_Q(I_Q, I_{\mathcal{I}}), \quad \frac{dI_C}{dt} = f_C(I_C, I_{\mathcal{I}}), \quad \frac{dI_{\mathcal{I}}}{dt} = f_{\mathcal{I}}(I_Q, I_C, I_{\mathcal{I}})$$
+$`\frac{dI_Q}{dt} = f_Q(I_Q, I_{\mathcal{I}}), \quad \frac{dI_C}{dt} = f_C(I_C, I_{\mathcal{I}}), \quad \frac{dI_{\mathcal{I}}}{dt} = f_{\mathcal{I}}(I_Q, I_C, I_{\mathcal{I}})`$
 
-Traditional quantum communication only utilizes $I_Q$, neglecting the potential of interface information $I_{\mathcal{I}}$.
+Traditional quantum communication only utilizes $`I_Q`$, neglecting the potential of interface information $`I_{\mathcal{I}}`$.
 
 ### Information Conversion and Conservation Law
 
 Quantum-Classical Dualism communication is built upon the information conservation law:
 
-$$I_{\text{total}} = I_Q + I_C + I_{\mathcal{I}} = \text{constant}$$
+$`I_{\text{total}} = I_Q + I_C + I_{\mathcal{I}} = \text{constant}`$
 
 During communication, information converts between the three forms while the total amount remains unchanged. Conversion efficiency is defined as:
 
-$$\eta_{Q\rightarrow C} = \frac{I_C^{\text{received}}}{I_Q^{\text{sent}}}, \quad \eta_{C\rightarrow Q} = \frac{I_Q^{\text{received}}}{I_C^{\text{sent}}}$$
+$`\eta_{Q\rightarrow C} = \frac{I_C^{\text{received}}}{I_Q^{\text{sent}}}, \quad \eta_{C\rightarrow Q} = \frac{I_Q^{\text{received}}}{I_C^{\text{sent}}}`$
 
 Under ideal conditions, the maximum theoretical efficiency is:
 
-$$\eta_{\text{max}} = 1 - \frac{S_{\text{communication system}}}{I_{\text{sent}}}$$
+$`\eta_{\text{max}} = 1 - \frac{S_{\text{communication system}}}{I_{\text{sent}}}`$
 
-where $S_{\text{communication system}}$ is the entropy of the communication system.
+where $`S_{\text{communication system}}`$ is the entropy of the communication system.
 
 ## Cross-Interface Communication Principles
 
@@ -66,9 +66,9 @@ where $S_{\text{communication system}}$ is the entropy of the communication syst
 
 The key innovation of dualistic quantum communication is utilizing quantum-classical interface states for information encoding:
 
-$$|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle$$
+$`|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle`$
 
-where $|q_i\rangle$ is the quantum state basis vector and $|c_i\rangle$ is the classical state basis vector. This encoding offers unique advantages:
+where $`|q_i\rangle`$ is the quantum state basis vector and $`|c_i\rangle`$ is the classical state basis vector. This encoding offers unique advantages:
 
 1. Decoherence resistance - Information is partially stored in the decoherence process itself
 2. High dimensionality - Utilizes dimensions from both quantum and classical domains
@@ -76,23 +76,23 @@ where $|q_i\rangle$ is the quantum state basis vector and $|c_i\rangle$ is the c
 
 The information capacity of interface state encoding is:
 
-$$C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})$$
+$`C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})`$
 
-where $d_Q$ and $d_C$ are the dimensions of quantum and classical spaces, respectively, and $S(\rho_{\mathcal{I}})$ is the von Neumann entropy of the interface state.
+where $`d_Q`$ and $`d_C`$ are the dimensions of quantum and classical spaces, respectively, and $`S(\rho_{\mathcal{I}})`$ is the von Neumann entropy of the interface state.
 
 ### Interface Oscillation Transmission
 
 Interface oscillation transmission is a novel communication mechanism that uses oscillations on the quantum-classical interface to transmit information:
 
-$$\mathcal{D}(x,t) = \mathcal{D}_0 + A\sin(kx - \omega t + \phi) + \delta\mathcal{D}(x,t)$$
+$`\mathcal{D}(x,t) = \mathcal{D}_0 + A\sin(kx - \omega t + \phi) + \delta\mathcal{D}(x,t)`$
 
-where $\mathcal{D}(x,t)$ is the decoherence measure function and $\delta\mathcal{D}(x,t)$ contains the encoded information. By modulating the amplitude, frequency, phase, and waveform of interface oscillations, high-capacity information transmission can be achieved.
+where $`\mathcal{D}(x,t)`$ is the decoherence measure function and $`\delta\mathcal{D}(x,t)`$ contains the encoded information. By modulating the amplitude, frequency, phase, and waveform of interface oscillations, high-capacity information transmission can be achieved.
 
 The propagation speed of interface oscillations is:
 
-$$v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
+$`v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|`$
 
-where $\beta$ and $\alpha$ are interface dynamics parameters, $\mathcal{D}_c$ is the critical decoherence value, and $\mathcal{D}_0$ is the baseline decoherence value.
+where $`\beta`$ and $`\alpha`$ are interface dynamics parameters, $`\mathcal{D}_c`$ is the critical decoherence value, and $`\mathcal{D}_0`$ is the baseline decoherence value.
 
 ## Quantum-Classical Hybrid Protocol Family
 
@@ -100,7 +100,7 @@ where $\beta$ and $\alpha$ are interface dynamics parameters, $\mathcal{D}_c$ is
 
 Interface-Encoded Quantum Key Distribution extends the traditional BB84 protocol by encoding key information in interface states:
 
-1. Alice prepares interface states $|\psi_{\mathcal{I}}^i\rangle = \sum_{j} \alpha_j^i |q_j\rangle \otimes |c_j\rangle$
+1. Alice prepares interface states $`|\psi_{\mathcal{I}}^i\rangle = \sum_{j} \alpha_j^i |q_j\rangle \otimes |c_j\rangle`$
 2. Alice sends the interface states to Bob
 3. Bob measures the received interface states
 4. Alice and Bob communicate some measurement bases and results through a classical channel
@@ -108,23 +108,23 @@ Interface-Encoded Quantum Key Distribution extends the traditional BB84 protocol
 
 IE-QKD offers superior security compared to traditional QKD because eavesdroppers must simultaneously capture both quantum and classical information to reconstruct the complete key. The key security metric for the protocol is:
 
-$$S_{IE-QKD} = -\log_2(\max_E F(|\psi_{\mathcal{I}}\rangle, \Lambda_E(|\psi_{\mathcal{I}}\rangle)))$$
+$`S_{IE-QKD} = -\log_2(\max_E F(|\psi_{\mathcal{I}}\rangle, \Lambda_E(|\psi_{\mathcal{I}}\rangle)))`$
 
-where $\Lambda_E$ represents possible operations by eavesdroppers and $F$ is fidelity.
+where $`\Lambda_E`$ represents possible operations by eavesdroppers and $`F`$ is fidelity.
 
 ### Interface Entanglement Swapping (IES)
 
 The Interface Entanglement Swapping protocol extends traditional quantum entanglement swapping to achieve long-distance interface state sharing:
 
-1. Create two pairs of interface-entangled states $|\Phi_{AB}\rangle$ and $|\Phi_{CD}\rangle$
+1. Create two pairs of interface-entangled states $`|\Phi_{AB}\rangle`$ and $`|\Phi_{CD}\rangle`$
 2. Perform joint interface measurement on particles B and C
 3. Based on measurement results, particles at A and D form a new interface-entangled state
 
 The success probability and fidelity of IES are:
 
-$$P_{\text{success}} = \left|\langle \Phi_{\text{measurement}}|\Phi_{BC}\rangle\right|^2$$
+$`P_{\text{success}} = \left|\langle \Phi_{\text{measurement}}|\Phi_{BC}\rangle\right|^2`$
 
-$$F_{IES} = |\langle \Phi_{\text{ideal}}|\Phi_{AD}\rangle|^2$$
+$`F_{IES} = |\langle \Phi_{\text{ideal}}|\Phi_{AD}\rangle|^2`$
 
 IES can construct quantum-classical interface relay networks, enabling quantum communication over arbitrary distances.
 
@@ -132,16 +132,16 @@ IES can construct quantum-classical interface relay networks, enabling quantum c
 
 The Deterministic Interface Teleportation protocol achieves 100% success rate in quantum state transmission:
 
-1. Alice and Bob pre-share an interface-entangled resource $|\Phi_{AB}\rangle$
-2. Alice performs a joint interface measurement, causing her teleportation state $|\psi\rangle$ to interact with her entangled particle A
+1. Alice and Bob pre-share an interface-entangled resource $`|\Phi_{AB}\rangle`$
+2. Alice performs a joint interface measurement, causing her teleportation state $`|\psi\rangle`$ to interact with her entangled particle A
 3. Alice sends the measurement results to Bob via classical communication
 4. Bob performs recovery operations on his particle B based on the received results
 
 The DIT transmission fidelity is:
 
-$$F_{DIT} = |\langle \psi|U_B^{\dagger}|\phi_B\rangle|^2$$
+$`F_{DIT} = |\langle \psi|U_B^{\dagger}|\phi_B\rangle|^2`$
 
-where $U_B$ is the recovery operation performed by Bob and $|\phi_B\rangle$ is the recovered state.
+where $`U_B`$ is the recovery operation performed by Bob and $`|\phi_B\rangle`$ is the recovered state.
 
 ## Dualistic Foundations of Communication Security
 
@@ -149,7 +149,7 @@ where $U_B$ is the recovery operation performed by Bob and $|\phi_B\rangle$ is t
 
 Communication security in the dualistic framework is based on the special properties of the interface domain:
 
-$$\mathcal{S}(\rho_{\mathcal{I}}) = -\text{Information extractable by eavesdroppers}$$
+$`\mathcal{S}(\rho_{\mathcal{I}}) = -\text{Information extractable by eavesdroppers}`$
 
 Interface security stems from three key mechanisms:
 
@@ -159,23 +159,23 @@ Interface security stems from three key mechanisms:
 
 The security measure for quantum-classical interface communication is:
 
-$$\Delta_{\text{security}} = D_{\mathcal{O}_R} - D_{\mathcal{O}_E}$$
+$`\Delta_{\text{security}} = D_{\mathcal{O}_R} - D_{\mathcal{O}_E}`$
 
-where $D_{\mathcal{O}_R}$ is the receiver's observer dimension and $D_{\mathcal{O}_E}$ is the maximum observer dimension of an eavesdropper. When $\Delta_{\text{security}} > 0$, communication is secure in an information-theoretic sense.
+where $`D_{\mathcal{O}_R}`$ is the receiver's observer dimension and $`D_{\mathcal{O}_E}`$ is the maximum observer dimension of an eavesdropper. When $`\Delta_{\text{security}} > 0`$, communication is secure in an information-theoretic sense.
 
 ### Extension of No-Cloning Theorem
 
 The standard quantum no-cloning theorem extends to interface states:
 
-**Theorem**: There exists no universal operation $\Lambda$ that can perfectly copy an arbitrary unknown interface state:
+**Theorem**: There exists no universal operation $`\Lambda`$ that can perfectly copy an arbitrary unknown interface state:
 
-$$\nexists \Lambda: \Lambda(|\psi_{\mathcal{I}}\rangle \otimes |0\rangle) = |\psi_{\mathcal{I}}\rangle \otimes |\psi_{\mathcal{I}}\rangle$$
+$`\nexists \Lambda: \Lambda(|\psi_{\mathcal{I}}\rangle \otimes |0\rangle) = |\psi_{\mathcal{I}}\rangle \otimes |\psi_{\mathcal{I}}\rangle`$
 
 The optimal fidelity upper bound for interface state cloning is:
 
-$$F_{\text{cloning}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal{I}} + 1}$$
+$`F_{\text{cloning}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal{I}} + 1}`$
 
-where $d_{\mathcal{I}}$ is the dimension of the interface state Hilbert space. This upper bound is lower than for pure quantum states, providing stronger security guarantees.
+where $`d_{\mathcal{I}}`$ is the dimension of the interface state Hilbert space. This upper bound is lower than for pure quantum states, providing stronger security guarantees.
 
 ## Multi-Dimensional Observer Communication
 
@@ -183,9 +183,9 @@ where $d_{\mathcal{I}}$ is the dimension of the interface state Hilbert space. T
 
 The Quantum-Classical Dualism framework allows communication between observers of different dimensions:
 
-$$\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}$$
+$`\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}`$
 
-where $\mathcal{O}_{D_1}$ and $\mathcal{O}_{D_2}$ are observers of different dimensions. Cross-dimensional communication is based on the following principles:
+where $`\mathcal{O}_{D_1}`$ and $`\mathcal{O}_{D_2}`$ are observers of different dimensions. Cross-dimensional communication is based on the following principles:
 
 1. The classical domain of higher-dimensional observers can be the quantum domain for lower-dimensional observers
 2. Information exchange between dimensions can be achieved through the interface domain
@@ -193,24 +193,24 @@ where $\mathcal{O}_{D_1}$ and $\mathcal{O}_{D_2}$ are observers of different dim
 
 The information capacity for high-to-low dimensional communication is:
 
-$$C_{D_1 \rightarrow D_2} = \min\{C_{D_1}, C_{D_2}\} \cdot \exp\left(-\alpha|D_1 - D_2|\right)$$
+$`C_{D_1 \rightarrow D_2} = \min\{C_{D_1}, C_{D_2}\} \cdot \exp\left(-\alpha|D_1 - D_2|\right)`$
 
-where $C_{D_i}$ is the information capacity of dimension $D_i$ observer and $\alpha$ is the dimensional difference attenuation coefficient.
+where $`C_{D_i}`$ is the information capacity of dimension $`D_i`$ observer and $`\alpha`$ is the dimensional difference attenuation coefficient.
 
 ### Dimensional Transformation Protocol
 
 The Dimensional Transformation Protocol (DTC) enables efficient communication between observers of different dimensions:
 
-1. Sender dimension modulation - Adjusting information through $\mathcal{Q}_{\mathcal{O}}$ and $\mathcal{C}_{\mathcal{O}}$ operations
+1. Sender dimension modulation - Adjusting information through $`\mathcal{Q}_{\mathcal{O}}`$ and $`\mathcal{C}_{\mathcal{O}}`$ operations
 2. Interface encoding - Encoding the modulated information into interface states
 3. Dimension-matched transmission - Optimizing transmission channels based on receiver dimension
 4. Decoding and reconstruction - Receiver applies reverse dimensional transformation to reconstruct original information
 
 The dimensional matching efficiency of the DTC protocol is:
 
-$$\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}$$
+$`\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}`$
 
-where $\gamma$ is a system-related constant.
+where $`\gamma`$ is a system-related constant.
 
 ## Non-Local Information Transfer Theory
 
@@ -218,42 +218,42 @@ where $\gamma$ is a system-related constant.
 
 Entanglement-Assisted Interface Communication (EAIC) utilizes quantum entanglement and interface dynamics to achieve super-classical communication capabilities:
 
-1. Alice and Bob share an interface-entangled pair $|\Phi_{AB}^{\mathcal{I}}\rangle$
-2. Alice performs interface measurements $\{M_i^{\mathcal{I}}\}$ on her subsystem
+1. Alice and Bob share an interface-entangled pair $`|\Phi_{AB}^{\mathcal{I}}\rangle`$
+2. Alice performs interface measurements $`\{M_i^{\mathcal{I}}\}`$ on her subsystem
 3. Bob's subsystem immediately transforms into the corresponding interface state
 4. Bob extracts information through interface measurements
 
 The information transmission capacity of EAIC is:
 
-$$C_{EAIC} = \log_2(d_{\mathcal{I}}) + S(\rho_{\mathcal{I}}) - S(\rho_{AB}^{\mathcal{I}})$$
+$`C_{EAIC} = \log_2(d_{\mathcal{I}}) + S(\rho_{\mathcal{I}}) - S(\rho_{AB}^{\mathcal{I}})`$
 
-where $S(\rho_{AB}^{\mathcal{I}})$ is the entropy of the shared interface-entangled pair.
+where $`S(\rho_{AB}^{\mathcal{I}})`$ is the entropy of the shared interface-entangled pair.
 
 ### Wave Function Collapse Communication
 
 Wave Function Collapse Communication (WFCC) utilizes the non-locality of quantum measurement to achieve information transmission:
 
-1. Generate spatially separated coherent interface states $|\psi_{\mathcal{I}}^{AB}\rangle$
-2. Alice selects measurement basis $\{|m_i\rangle\}$ for measurement, causing the entire system's wave function to collapse
+1. Generate spatially separated coherent interface states $`|\psi_{\mathcal{I}}^{AB}\rangle`$
+2. Alice selects measurement basis $`\{|m_i\rangle\}`$ for measurement, causing the entire system's wave function to collapse
 3. Bob detects the collapse pattern through precise measurement, extracting information about Alice's choice
 
 The limit of information transmission rate for WFCC is:
 
-$$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{collapse}}}$$
+$`R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{collapse}}}`$
 
-where $c$ is the speed of light and $\tau_{\text{collapse}}$ is the characteristic time of wave function collapse. WFCC doesn't violate relativistic causality because the information transmission rate doesn't exceed the speed of light.
+where $`c`$ is the speed of light and $`\tau_{\text{collapse}}`$ is the characteristic time of wave function collapse. WFCC doesn't violate relativistic causality because the information transmission rate doesn't exceed the speed of light.
 
 ## Experimental Implementation and Application Prospects
 
 ### Near-Term Implementable Experiments
 
 1. **Interface-Encoded Qubits**:
-   $$|\psi_{\mathcal{I}}\rangle = \alpha|0_q\rangle|0_c\rangle + \beta|1_q\rangle|1_c\rangle$$
+   $`|\psi_{\mathcal{I}}\rangle = \alpha|0_q\rangle|0_c\rangle + \beta|1_q\rangle|1_c\rangle`$
    
    Experimental parameters: Superconducting qubits + classical RF circuits, operating temperature 20-50 mK
 
 2. **Finite-Dimensional Interface Entanglement**:
-   $$|\Phi_{\mathcal{I}}\rangle = \frac{1}{\sqrt{2}}(|0_q\rangle_A|0_c\rangle_A|0_q\rangle_B|0_c\rangle_B + |1_q\rangle_A|1_c\rangle_A|1_q\rangle_B|1_c\rangle_B)$$
+   $`|\Phi_{\mathcal{I}}\rangle = \frac{1}{\sqrt{2}}(|0_q\rangle_A|0_c\rangle_A|0_q\rangle_B|0_c\rangle_B + |1_q\rangle_A|1_c\rangle_A|1_q\rangle_B|1_c\rangle_B)`$
    
    Experimental platform: Cold atoms + optical cavity systems
 

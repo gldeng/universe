@@ -51,28 +51,28 @@ Al-Imran (Arabic: سورة آل عمران‎, "The Family of Imran") is the 3rd
 ## 数学表达 (Mathematical Expression)
 
 ### 经文解释的量子态方程
-$$
+$`
 |\psi_{\text{经文}}\rangle = \alpha|\psi_{\text{明确}}\rangle + \beta|\psi_{\text{隐微}}\rangle
-$$
+`$
 
 其中：
-- $|\psi_{\text{经文}}\rangle$ 表示经文的整体量子态
-- $|\psi_{\text{明确}}\rangle$ 是明确经文的基态
-- $|\psi_{\text{隐微}}\rangle$ 是隐微经文的基态
-- $\alpha$ 和 $\beta$ 是复振幅，满足 $|\alpha|^2 + |\beta|^2 = 1$
+- $`|\psi_{\text{经文}}\rangle`$ 表示经文的整体量子态
+- $`|\psi_{\text{明确}}\rangle`$ 是明确经文的基态
+- $`|\psi_{\text{隐微}}\rangle`$ 是隐微经文的基态
+- $`\alpha`$ 和 $`\beta`$ 是复振幅，满足 $`|\alpha|^2 + |\beta|^2 = 1`$
 
 ### 信仰提升经典化效率方程
-$$
+$`
 k_{\text{经典化}} = k_0 \cdot (1 + \gamma \cdot F) \cdot e^{-S/F}
-$$
+`$
 
 其中：
-- $k_{\text{经典化}}$ 是观察者的经典化效率系数
-- $k_0$ 是基础经典化效率
-- $F$ 是信仰强度
-- $\gamma$ 是信仰对效率的影响因子
-- $S$ 是系统熵值
-- $e^{-S/F}$ 表示信仰对抗熵增的作用
+- $`k_{\text{经典化}}`$ 是观察者的经典化效率系数
+- $`k_0`$ 是基础经典化效率
+- $`F`$ 是信仰强度
+- $`\gamma`$ 是信仰对效率的影响因子
+- $`S`$ 是系统熵值
+- $`e^{-S/F}`$ 表示信仰对抗熵增的作用
 
 ## 结论 (Conclusion)
 

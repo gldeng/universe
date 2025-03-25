@@ -51,26 +51,26 @@ The Ramayana is one of the two great epics of India, composed by Valmiki, narrat
 ## 数学表达 (Mathematical Expression)
 
 ### 神人二性量子态方程
-$$
+$`
 |\psi_{\text{罗摩}}\rangle = \alpha|\psi_{\text{毗湿奴}}\rangle + \beta|\psi_{\text{人类}}\rangle
-$$
+`$
 
 其中：
-- $|\psi_{\text{罗摩}}\rangle$ 表示罗摩的量子态
-- $|\psi_{\text{毗湿奴}}\rangle$ 代表神性维度（毗湿奴）的量子态
-- $|\psi_{\text{人类}}\rangle$ 代表人性维度的量子态
-- $\alpha$ 和 $\beta$ 是复系数，满足 $|\alpha|^2 + |\beta|^2 = 1$
+- $`|\psi_{\text{罗摩}}\rangle`$ 表示罗摩的量子态
+- $`|\psi_{\text{毗湿奴}}\rangle`$ 代表神性维度（毗湿奴）的量子态
+- $`|\psi_{\text{人类}}\rangle`$ 代表人性维度的量子态
+- $`\alpha`$ 和 $`\beta`$ 是复系数，满足 $`|\alpha|^2 + |\beta|^2 = 1`$
 
 ### 正法提升维度方程
-$$
+$`
 D_{\text{观察者}} = k_{\text{正法}} \cdot \frac{I_{\text{德行}}}{S_{\text{无明}}}
-$$
+`$
 
 其中：
-- $D_{\text{观察者}}$ 表示观察者的维度
-- $k_{\text{正法}}$ 是遵循正法带来的经典化效率系数
-- $I_{\text{德行}}$ 是观察者的德行（经典知识）
-- $S_{\text{无明}}$ 是观察者的无明（经典熵）
+- $`D_{\text{观察者}}`$ 表示观察者的维度
+- $`k_{\text{正法}}`$ 是遵循正法带来的经典化效率系数
+- $`I_{\text{德行}}`$ 是观察者的德行（经典知识）
+- $`S_{\text{无明}}`$ 是观察者的无明（经典熵）
 
 ## 结论 (Conclusion)
 

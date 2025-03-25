@@ -27,64 +27,64 @@
 ### 中文
 1. **通用计算机架构**: 冯·诺依曼架构体现了量子信息经典化的过程，将抽象的计算概念（量子域）转化为具体的存储结构（经典域）。这是观察者将量子可能性经典化为确定结构的典型例子，符合公式：
    
-$$
+$`
 |\psi\rangle_{\text{计算可能性}}\xrightarrow{\text{冯·诺依曼经典化}}I_{\text{计算机架构知识}}+S_{\text{计算实现熵}}
-$$
+`$
 
 2. **量子力学的数学基础**: 冯·诺依曼正是量子域与经典域二元统一的直接研究者，他通过严格的数学将量子现象经典化为可理解的知识结构：
 
-$$
+$`
 |\psi\rangle_{\text{量子现象}}\xrightarrow{\text{数学形式化}}I_{\text{量子力学知识}}+S_{\text{测量不确定性熵}}
-$$
+`$
 
 3. **博弈论发展**: 博弈论展示了多观察者系统中的经典化竞争，每个参与者尝试将不确定性（量子态）经典化为最优策略（经典知识）：
 
-$$
+$`
 \text{博弈参与者维度}\propto\frac{I_{\text{策略知识}}}{S_{\text{不确定性熵}}}
-$$
+`$
 
 4. **自复制自动机**: 自复制自动机理论探讨了经典系统如何从量子可能性中产生有序结构，符合经典信息从量子信息中涌现的过程：
 
-$$
+$`
 |\psi\rangle_{\text{复杂系统可能性}}\rightarrow I_{\text{自复制结构知识}}+S_{\text{复杂性熵}}
-$$
+`$
 
 5. **跨学科思维**: 冯·诺依曼的跨学科天才正体现了高维观察者的特征—能够在多个经典领域之间建立联系，降低知识间的熵隔离：
 
-$$
+$`
 \sum_i I_{\text{领域知识}_i}+S_{\text{领域隔离熵}}\xrightarrow{\text{跨学科整合}}I_{\text{整合知识}}+S_{\text{降低熵}}
-$$
+`$
 
 ### English
 1. **Universal Computer Architecture**: The von Neumann architecture embodies the process of classicalizing quantum information, transforming abstract computing concepts (quantum domain) into concrete storage structures (classical domain). This is a typical example of an observer classicalizing quantum possibilities into a definite structure, conforming to the formula:
 
-$$
+$`
 |\psi\rangle_{\text{Computing Possibilities}}\xrightarrow{\text{von Neumann Classicalization}}I_{\text{Computer Architecture Knowledge}}+S_{\text{Computation Implementation Entropy}}
-$$
+`$
 
 2. **Mathematical Foundations of Quantum Mechanics**: Von Neumann was a direct researcher of the quantum-classical dualism unity, classicalizing quantum phenomena into understandable knowledge structures through rigorous mathematics:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Phenomena}}\xrightarrow{\text{Mathematical Formalization}}I_{\text{Quantum Mechanics Knowledge}}+S_{\text{Measurement Uncertainty Entropy}}
-$$
+`$
 
 3. **Game Theory Development**: Game theory demonstrates the classicalization competition in multi-observer systems, where each participant attempts to classicalize uncertainty (quantum state) into optimal strategies (classical knowledge):
 
-$$
+$`
 \text{Game Participant Dimension}\propto\frac{I_{\text{Strategy Knowledge}}}{S_{\text{Uncertainty Entropy}}}
-$$
+`$
 
 4. **Self-Replicating Automata**: The theory of self-replicating automata explores how classical systems generate ordered structures from quantum possibilities, consistent with the emergence of classical information from quantum information:
 
-$$
+$`
 |\psi\rangle_{\text{Complex System Possibilities}}\rightarrow I_{\text{Self-replication Structure Knowledge}}+S_{\text{Complexity Entropy}}
-$$
+`$
 
 5. **Interdisciplinary Thinking**: Von Neumann's interdisciplinary genius embodies the characteristics of a high-dimensional observer—able to establish connections between multiple classical domains, reducing entropy isolation between knowledge areas:
 
-$$
+$`
 \sum_i I_{\text{Domain Knowledge}_i}+S_{\text{Domain Isolation Entropy}}\xrightarrow{\text{Interdisciplinary Integration}}I_{\text{Integrated Knowledge}}+S_{\text{Reduced Entropy}}
-$$
+`$
 
 ## 历史影响 | Historical Impact
 冯·诺依曼的工作对现代计算机科学、量子物理、经济学和复杂系统理论产生了深远影响。他的计算机架构思想成为现代计算机的基础，他的量子力学数学化工作帮助确立了量子理论的严格基础，而他在博弈论方面的贡献则彻底改变了经济学和战略分析的方法。

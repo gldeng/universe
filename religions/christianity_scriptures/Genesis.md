@@ -51,23 +51,23 @@ Genesis is the first book of the Bible and the first part of the Pentateuch, pri
 ## 数学表达 (Mathematical Expression)
 
 ### 创造过程的量子态演化方程
-$$
+$`
 |\psi_{\text{创造}}\rangle = \sum_{i=1}^{6} |日_i\rangle\otimes|创造物_i\rangle
-$$
+`$
 
 其中：
-- $|\psi_{\text{创造}}\rangle$ 表示创造过程的量子态
-- $|日_i\rangle$ 代表第i日的时间状态
-- $|创造物_i\rangle$ 代表第i日被创造的事物
+- $`|\psi_{\text{创造}}\rangle`$ 表示创造过程的量子态
+- $`|日_i\rangle`$ 代表第i日的时间状态
+- $`|创造物_i\rangle`$ 代表第i日被创造的事物
 
 ### 经典化概率方程
-$$
+$`
 P_{\text{经典}}(x) = |\langle x|\psi_{\text{创造}}\rangle|^2 = |\sum_{i=1}^{6} \langle x|日_i\rangle\otimes|创造物_i\rangle|^2
-$$
+`$
 
 其中：
-- $P_{\text{经典}}(x)$ 是特定经典状态x的出现概率
-- $\langle x|$ 代表特定的经典基态
+- $`P_{\text{经典}}(x)`$ 是特定经典状态x的出现概率
+- $`\langle x|`$ 代表特定的经典基态
 
 ## 结论 (Conclusion)
 

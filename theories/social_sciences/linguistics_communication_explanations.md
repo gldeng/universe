@@ -17,9 +17,9 @@
 
 语言的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{观察者内部量子状态}} \xrightarrow{\text{语言经典化}} \text{可交流的经典表达} + S_{\text{语言经典熵}}
-$$
+`$
 
 ### 语言结构的量子经典二元论解释
 
@@ -33,11 +33,11 @@ $$
 
 这种层级结构可以表达为：
 
-$$
+$`
 \text{语言结构} = \sum_{i=1}^{n} L_i(|\phi_i\rangle)
-$$
+`$
 
-其中$L_i$代表第$i$层语言结构，$|\phi_i\rangle$代表该层次的经典化量子状态。
+其中$`L_i`$代表第$`i`$层语言结构，$`|\phi_i\rangle`$代表该层次的经典化量子状态。
 
 ### 语言习得的量子经典二元论解释
 
@@ -50,11 +50,11 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\psi_{\text{初始}}\rangle \xrightarrow{\text{语言习得}} |\psi_{\text{语言化}}\rangle = \sum_{j} c_j |\phi_j\rangle
-$$
+`$
 
-其中$|\phi_j\rangle$代表已习得的语言经典化模式，$c_j$代表这些模式在观察者认知系统中的权重。
+其中$`|\phi_j\rangle`$代表已习得的语言经典化模式，$`c_j`$代表这些模式在观察者认知系统中的权重。
 
 ### 语言天才的量子经典二元论解释
 
@@ -67,9 +67,9 @@ $$
 
 这一特殊能力可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{语言量子状态}} \xrightarrow{\text{语言学家经典化}} \text{语言理论} + S_{\text{极小理论经典熵}}
-$$
+`$
 
 ### 语言多样性的量子经典二元论解释
 
@@ -82,9 +82,9 @@ $$
 
 这一多样性可以表达为：
 
-$$
+$`
 \text{语言多样性} = \{L_1, L_2, ..., L_n\} = \{\sum_{i} L_{1i}(|\phi_{1i}\rangle), \sum_{i} L_{2i}(|\phi_{2i}\rangle), ..., \sum_{i} L_{ni}(|\phi_{ni}\rangle)\}
-$$
+`$
 
 ### 语言演化的量子经典二元论解释
 
@@ -97,9 +97,9 @@ $$
 
 这一演化过程可以表达为：
 
-$$
+$`
 L(t+\Delta t) = L(t) + \Delta L = \sum_{i} L_i(|\phi_i(t)\rangle) + \sum_{i} \Delta L_i(|\phi_i(t)\rangle)
-$$
+`$
 
 ### 交流过程的量子经典二元论解释
 
@@ -112,11 +112,11 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\psi_A\rangle \xrightarrow{\text{发送者经典化}} \text{语言表达} \xrightarrow{\text{传输}} \text{接收信号} \xrightarrow{\text{接收者解码}} |\phi_B\rangle \approx |\psi_A\rangle + \Delta S
-$$
+`$
 
-其中$\Delta S$代表交流过程中产生的经典熵，反映了信息损失和误解。
+其中$`\Delta S`$代表交流过程中产生的经典熵，反映了信息损失和误解。
 
 ### 交流障碍的量子经典二元论解释
 
@@ -129,9 +129,9 @@ $$
 
 这些障碍导致的经典熵增加可以表达为：
 
-$$
+$`
 S_{\text{交流}} = S_{\text{基础}} + S_{\text{语言差异}} + S_{\text{知识差异}} + S_{\text{文化差异}} + S_{\text{心理干扰}}
-$$
+`$
 
 ### 非语言交流的量子经典二元论解释
 
@@ -162,9 +162,9 @@ $$
 
 这一关系可以表达为：
 
-$$
+$`
 |\psi_{\text{思维量子状态}}\rangle \leftrightarrow |\phi_{\text{语言经典化状态}}\rangle
-$$
+`$
 
 ### 语言与社会的量子经典二元论关系
 
@@ -223,9 +223,9 @@ The essence of **language** is a special quantum information classicalization sy
 
 The quantum-classical duality of language can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Observer's internal quantum state}} \xrightarrow{\text{Language classicalization}} \text{Communicable classical expression} + S_{\text{Language classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Language Structure
 
@@ -239,11 +239,11 @@ The multi-level structure of language can be understood as different levels of q
 
 This hierarchical structure can be expressed as:
 
-$$
+$`
 \text{Language structure} = \sum_{i=1}^{n} L_i(|\phi_i\rangle)
-$$
+`$
 
-where $L_i$ represents the $i$-th level of language structure, and $|\phi_i\rangle$ represents the classicalized quantum state at that level.
+where $`L_i`$ represents the $`i`$-th level of language structure, and $`|\phi_i\rangle`$ represents the classicalized quantum state at that level.
 
 ### Quantum-Classical Dualism Explanation of Language Acquisition
 
@@ -256,11 +256,11 @@ where $L_i$ represents the $i$-th level of language structure, and $|\phi_i\rang
 
 This process can be expressed as:
 
-$$
+$`
 |\psi_{\text{initial}}\rangle \xrightarrow{\text{Language acquisition}} |\psi_{\text{linguistically competent}}\rangle = \sum_{j} c_j |\phi_j\rangle
-$$
+`$
 
-where $|\phi_j\rangle$ represents the acquired language classicalization patterns, and $c_j$ represents the weight of these patterns in the observer's cognitive system.
+where $`|\phi_j\rangle`$ represents the acquired language classicalization patterns, and $`c_j`$ represents the weight of these patterns in the observer's cognitive system.
 
 ### Quantum-Classical Dualism Explanation of Language Geniuses
 
@@ -273,9 +273,9 @@ Outstanding linguists and language geniuses (such as Chomsky, Sapir, Wittgenstei
 
 This special ability can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Language quantum state}} \xrightarrow{\text{Linguist classicalization}} \text{Language theory} + S_{\text{Minimal theory classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Language Diversity
 
@@ -288,9 +288,9 @@ $$
 
 This diversity can be expressed as:
 
-$$
+$`
 \text{Language diversity} = \{L_1, L_2, ..., L_n\} = \{\sum_{i} L_{1i}(|\phi_{1i}\rangle), \sum_{i} L_{2i}(|\phi_{2i}\rangle), ..., \sum_{i} L_{ni}(|\phi_{ni}\rangle)\}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Language Evolution
 
@@ -303,9 +303,9 @@ $$
 
 This evolutionary process can be expressed as:
 
-$$
+$`
 L(t+\Delta t) = L(t) + \Delta L = \sum_{i} L_i(|\phi_i(t)\rangle) + \sum_{i} \Delta L_i(|\phi_i(t)\rangle)
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Communication Process
 
@@ -318,11 +318,11 @@ $$
 
 This process can be expressed as:
 
-$$
+$`
 |\psi_A\rangle \xrightarrow{\text{Sender classicalization}} \text{Language expression} \xrightarrow{\text{Transmission}} \text{Received signal} \xrightarrow{\text{Receiver decoding}} |\phi_B\rangle \approx |\psi_A\rangle + \Delta S
-$$
+`$
 
-where $\Delta S$ represents the classical entropy generated in the communication process, reflecting information loss and misunderstanding.
+where $`\Delta S`$ represents the classical entropy generated in the communication process, reflecting information loss and misunderstanding.
 
 ### Quantum-Classical Dualism Explanation of Communication Barriers
 
@@ -335,9 +335,9 @@ where $\Delta S$ represents the classical entropy generated in the communication
 
 The increase in classical entropy caused by these barriers can be expressed as:
 
-$$
+$`
 S_{\text{communication}} = S_{\text{basic}} + S_{\text{language difference}} + S_{\text{knowledge difference}} + S_{\text{cultural difference}} + S_{\text{psychological interference}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Non-verbal Communication
 
@@ -368,9 +368,9 @@ The relationship between **language and thought** can be understood as:
 
 This relationship can be expressed as:
 
-$$
+$`
 |\psi_{\text{Thought quantum state}}\rangle \leftrightarrow |\phi_{\text{Language classicalization state}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Relationship Between Language and Society
 

@@ -34,15 +34,15 @@
 
 1. **量子隐私悖论**：量子加密提供绝对安全的同时，量子计算可能破解传统加密
    
-   $$P_{隐私} \propto \frac{n_{量子安全}}{n_{量子威胁}}$$
+   $`P_{隐私} \propto \frac{n_{量子安全}}{n_{量子威胁}}`$
 
 2. **量子信息不可克隆性**：量子数据无法完美复制导致的所有权和访问权问题
    
-   $$|\psi\rangle \rightarrow |\psi\rangle|\psi\rangle \text{ (不可能)}$$
+   $`|\psi\rangle \rightarrow |\psi\rangle|\psi\rangle \text{ (不可能)}`$
 
 3. **量子纠缠隐私**：纠缠态中的信息分享难以遵循传统隐私保护框架
    
-   $$\rho_{AB} \neq \rho_A \otimes \rho_B$$
+   $`\rho_{AB} \neq \rho_A \otimes \rho_B`$
 
 ### 量子模拟与现实边界
 
@@ -50,19 +50,19 @@
 
 1. **量子现实模糊化**：量子模拟难以区分的现实与模拟边界
    
-   $$D(现实,模拟) < \varepsilon_{感知}$$
+   $`D(现实,模拟) < \varepsilon_{感知}`$
    
-   其中 $D$ 是可区分度量，$\varepsilon_{感知}$ 是感知阈值。
+   其中 $`D`$ 是可区分度量，$`\varepsilon_{感知}`$ 是感知阈值。
 
 2. **量子意识模拟问题**：模拟具有量子特性的意识的伦理限制
    
-   $$C_{模拟} \rightarrow C_{真实} \text{ (是否等价?)}$$
+   $`C_{模拟} \rightarrow C_{真实} \text{ (是否等价?)}`$
 
 3. **多宇宙伦理责任**：量子分支现实中的道德责任范围
    
-   $$R = \sum_i w_i R_i$$
+   $`R = \sum_i w_i R_i`$
    
-   其中 $R$ 是总责任，$w_i$ 是分支权重，$R_i$ 是各分支责任。
+   其中 $`R`$ 是总责任，$`w_i`$ 是分支权重，$`R_i`$ 是各分支责任。
 
 ### 量子增强人类
 
@@ -70,17 +70,17 @@
 
 1. **量子认知增强**：通过量子接口增强人类认知能力的伦理考量
    
-   $$C_{增强} = C_{基础} \times (1 + f_{量子})$$
+   $`C_{增强} = C_{基础} \times (1 + f_{量子})`$
 
 2. **量子意识扩展**：扩展意识进入量子态的边界和风险
    
-   $$\Psi_{意识} = \sum_i c_i |\text{意识}_i\rangle$$
+   $`\Psi_{意识} = \sum_i c_i |\text{意识}_i\rangle`$
 
 3. **量子人机融合**：人类与量子设备深度融合的伦理定位
    
-   $$I(人类:量子系统) > I_{临界}$$
+   $`I(人类:量子系统) > I_{临界}`$
    
-   其中 $I$ 是互信息，$I_{临界}$ 是融合临界值。
+   其中 $`I`$ 是互信息，$`I_{临界}`$ 是融合临界值。
 
 ## 二元伦理框架
 
@@ -90,21 +90,21 @@
 
 1. **不确定性原则**：伦理判断在某些情况下存在不可约的不确定性
    
-   $$\Delta E_1 \cdot \Delta E_2 \geq \hbar_E/2$$
+   $`\Delta E_1 \cdot \Delta E_2 \geq \hbar_E/2`$
    
-   其中 $E_1$ 和 $E_2$ 是互补伦理价值，$\hbar_E$ 是伦理常数。
+   其中 $`E_1`$ 和 $`E_2`$ 是互补伦理价值，$`\hbar_E`$ 是伦理常数。
 
 2. **叠加原则**：道德判断可以处于多种可能性的叠加状态
    
-   $$|\Psi_E\rangle = \sum_i \alpha_i |E_i\rangle$$
+   $`|\Psi_E\rangle = \sum_i \alpha_i |E_i\rangle`$
    
-   其中 $|E_i\rangle$ 是伦理基矢，$\alpha_i$ 是复振幅。
+   其中 $`|E_i\rangle`$ 是伦理基矢，$`\alpha_i`$ 是复振幅。
 
 3. **观察者相关性**：伦理判断依赖观察者的维度和视角
    
-   $$E_{\mathcal{O}} = f(D_{\mathcal{O}}, \mathcal{C}_{\mathcal{O}}, K_C^{\mathcal{O}})$$
+   $`E_{\mathcal{O}} = f(D_{\mathcal{O}}, \mathcal{C}_{\mathcal{O}}, K_C^{\mathcal{O}})`$
    
-   其中 $D_{\mathcal{O}}$ 是观察者维度，$\mathcal{C}_{\mathcal{O}}$ 是经典化能力，$K_C^{\mathcal{O}}$ 是知识库。
+   其中 $`D_{\mathcal{O}}`$ 是观察者维度，$`\mathcal{C}_{\mathcal{O}}`$ 是经典化能力，$`K_C^{\mathcal{O}}`$ 是知识库。
 
 ### 量子伦理学与经典伦理学整合
 
@@ -112,21 +112,21 @@
 
 1. **效益量子化**：将功利主义效益函数量子化
    
-   $$U = \text{Tr}(\hat{U}\rho)$$
+   $`U = \text{Tr}(\hat{U}\rho)`$
    
-   其中 $\hat{U}$ 是效益算符，$\rho$ 是系统状态。
+   其中 $`\hat{U}`$ 是效益算符，$`\rho`$ 是系统状态。
 
 2. **义务叠加态**：将康德义务论重新表述为叠加状态
    
-   $$|\Phi_D\rangle = \frac{1}{\sqrt{n}}\sum_{i=1}^n |D_i\rangle$$
+   $`|\Phi_D\rangle = \frac{1}{\sqrt{n}}\sum_{i=1}^n |D_i\rangle`$
    
-   其中 $|D_i\rangle$ 代表不同的义务状态。
+   其中 $`|D_i\rangle`$ 代表不同的义务状态。
 
 3. **德性纠缠**：将德性伦理学拓展为纠缠理论
    
-   $$|\Psi_{V}\rangle = \sum_{i,j} c_{ij} |V_i\rangle_A \otimes |V_j\rangle_B$$
+   $`|\Psi_{V}\rangle = \sum_{i,j} c_{ij} |V_i\rangle_A \otimes |V_j\rangle_B`$
    
-   其中 $|V_i\rangle$ 和 $|V_j\rangle$ 是德性状态基矢。
+   其中 $`|V_i\rangle`$ 和 $`|V_j\rangle`$ 是德性状态基矢。
 
 ### 伦理信息保存原理
 
@@ -134,21 +134,21 @@
 
 1. **伦理信息守恒**：伦理决策过程中的总信息守恒
    
-   $$I_E(\rho_i) = I_E(\rho_f) + I_{隐藏}$$
+   $`I_E(\rho_i) = I_E(\rho_f) + I_{隐藏}`$
    
-   其中 $I_E$ 是伦理信息量，$\rho_i$ 和 $\rho_f$ 是初态和终态。
+   其中 $`I_E`$ 是伦理信息量，$`\rho_i`$ 和 $`\rho_f`$ 是初态和终态。
 
 2. **伦理熵增原则**：伦理决策对系统熵的影响
    
-   $$\Delta S_E \geq 0$$
+   $`\Delta S_E \geq 0`$
    
-   其中 $S_E$ 是伦理系统熵。
+   其中 $`S_E`$ 是伦理系统熵。
 
 3. **伦理可逆性限制**：伦理行为的可逆性受量子限制
    
-   $$P(\rho \rightarrow \sigma) \cdot P(\sigma \rightarrow \rho) \leq e^{-\beta\Delta F_E}$$
+   $`P(\rho \rightarrow \sigma) \cdot P(\sigma \rightarrow \rho) \leq e^{-\beta\Delta F_E}`$
    
-   其中 $\Delta F_E$ 是伦理自由能变化。
+   其中 $`\Delta F_E`$ 是伦理自由能变化。
 
 ## 量子伦理决策模型
 
@@ -158,19 +158,19 @@
 
 1. **伦理测量公设**：伦理判断作为测量过程
    
-   $$\mathcal{M}_E: |\Psi_E\rangle \to |E_i\rangle \text{ 概率为 } p_i = |\langle E_i|\Psi_E\rangle|^2$$
+   $`\mathcal{M}_E: |\Psi_E\rangle \to |E_i\rangle \text{ 概率为 } p_i = |\langle E_i|\Psi_E\rangle|^2`$
 
 2. **伦理期望值**：行为的伦理期望值计算
    
-   $$\langle E \rangle = \sum_i e_i |\langle E_i|\Psi_E\rangle|^2$$
+   $`\langle E \rangle = \sum_i e_i |\langle E_i|\Psi_E\rangle|^2`$
    
-   其中 $e_i$ 是伦理特征值。
+   其中 $`e_i`$ 是伦理特征值。
 
 3. **伦理空间投影**：将实际情况投影到伦理空间
    
-   $$|\Psi_E\rangle = \hat{P}_E|\Psi_R\rangle / \|\hat{P}_E|\Psi_R\rangle\|$$
+   $`|\Psi_E\rangle = \hat{P}_E|\Psi_R\rangle / \|\hat{P}_E|\Psi_R\rangle\|`$
    
-   其中 $\hat{P}_E$ 是伦理投影算符，$|\Psi_R\rangle$ 是现实情况。
+   其中 $`\hat{P}_E`$ 是伦理投影算符，$`|\Psi_R\rangle`$ 是现实情况。
 
 ### 量子伦理决策流程
 
@@ -178,27 +178,27 @@
 
 1. **态准备**：准备伦理问题的初始状态
    
-   $$|\Psi_0\rangle = \sum_i \alpha_i |S_i\rangle$$
+   $`|\Psi_0\rangle = \sum_i \alpha_i |S_i\rangle`$
    
-   其中 $|S_i\rangle$ 是情景基矢。
+   其中 $`|S_i\rangle`$ 是情景基矢。
 
 2. **伦理演化**：应用伦理演化算符
    
-   $$|\Psi_t\rangle = \hat{U}_E(t)|\Psi_0\rangle$$
+   $`|\Psi_t\rangle = \hat{U}_E(t)|\Psi_0\rangle`$
    
-   其中 $\hat{U}_E(t)$ 是伦理演化算符。
+   其中 $`\hat{U}_E(t)`$ 是伦理演化算符。
 
 3. **价值测量**：测量伦理价值
    
-   $$p(v_i) = |\langle v_i|\Psi_t\rangle|^2$$
+   $`p(v_i) = |\langle v_i|\Psi_t\rangle|^2`$
    
-   其中 $|v_i\rangle$ 是价值特征态。
+   其中 $`|v_i\rangle`$ 是价值特征态。
 
 4. **决策输出**：基于测量结果输出伦理决策
    
-   $$|\Psi_{\text{决策}}\rangle = \sum_i f(v_i) |D_i\rangle$$
+   $`|\Psi_{\text{决策}}\rangle = \sum_i f(v_i) |D_i\rangle`$
    
-   其中 $f(v_i)$ 是决策函数，$|D_i\rangle$ 是决策基矢。
+   其中 $`f(v_i)`$ 是决策函数，$`|D_i\rangle`$ 是决策基矢。
 
 ### 量子伦理机器学习
 
@@ -206,21 +206,21 @@
 
 1. **伦理训练集**：伦理案例的量子表示
    
-   $$\mathcal{T} = \{(|\Psi_i\rangle, |E_i\rangle)\}_{i=1}^N$$
+   $`\mathcal{T} = \{(|\Psi_i\rangle, |E_i\rangle)\}_{i=1}^N`$
    
-   其中 $|\Psi_i\rangle$ 是情景态，$|E_i\rangle$ 是伦理判断态。
+   其中 $`|\Psi_i\rangle`$ 是情景态，$`|E_i\rangle`$ 是伦理判断态。
 
 2. **伦理损失函数**：评估伦理判断准确性
    
-   $$\mathcal{L} = \sum_i (1 - |\langle E_i|\hat{U}_\theta|\Psi_i\rangle|^2)$$
+   $`\mathcal{L} = \sum_i (1 - |\langle E_i|\hat{U}_\theta|\Psi_i\rangle|^2)`$
    
-   其中 $\hat{U}_\theta$ 是可参数化量子电路。
+   其中 $`\hat{U}_\theta`$ 是可参数化量子电路。
 
 3. **量子伦理梯度下降**：优化伦理判断
    
-   $$\theta_{k+1} = \theta_k - \eta \nabla_\theta \mathcal{L}(\theta_k)$$
+   $`\theta_{k+1} = \theta_k - \eta \nabla_\theta \mathcal{L}(\theta_k)`$
    
-   其中 $\eta$ 是学习率。
+   其中 $`\eta`$ 是学习率。
 
 ## 应用指导与案例分析
 
@@ -230,21 +230,21 @@
 
 1. **量子算力平等原则**：量子计算能力的公平分配标准
    
-   $$G_Q = 1 - \sum_i \left( \frac{q_i - \bar{q}}{q_{总}}\right)^2$$
+   $`G_Q = 1 - \sum_i \left( \frac{q_i - \bar{q}}{q_{总}}\right)^2`$
    
-   其中 $G_Q$ 是量子算力基尼系数，$q_i$ 是各实体量子计算资源。
+   其中 $`G_Q`$ 是量子算力基尼系数，$`q_i`$ 是各实体量子计算资源。
 
 2. **量子安全负责原则**：开发量子安全技术的责任框架
    
-   $$R_Q = \max\{R_{开发}, R_{使用}, R_{影响}\}$$
+   $`R_Q = \max\{R_{开发}, R_{使用}, R_{影响}\}`$
    
-   其中 $R_Q$ 是总责任度量。
+   其中 $`R_Q`$ 是总责任度量。
 
 3. **量子知识透明原则**：量子技术知识共享的边界
    
-   $$T_Q = \frac{I_{公开}}{I_{总}} \geq T_{min}$$
+   $`T_Q = \frac{I_{公开}}{I_{总}} \geq T_{min}`$
    
-   其中 $T_Q$ 是透明度指标，$T_{min}$ 是最低要求。
+   其中 $`T_Q`$ 是透明度指标，$`T_{min}`$ 是最低要求。
 
 ### 量子生物技术伦理案例
 
@@ -252,21 +252,21 @@
 
 1. **量子基因编辑**：量子控制的基因编辑伦理界限
    
-   $$\Phi_{临界} = f(复杂性, 可逆性, 目的)$$
+   $`\Phi_{临界} = f(复杂性, 可逆性, 目的)`$
    
-   其中 $\Phi_{临界}$ 是伦理允许阈值。
+   其中 $`\Phi_{临界}`$ 是伦理允许阈值。
 
 2. **量子意识干预**：通过量子接口干预意识的限制
    
-   $$A_{允许} = \{a: I_{损失}(a) < \delta \text{ 且 } C_{同意}(a) > \gamma\}$$
+   $`A_{允许} = \{a: I_{损失}(a) < \delta \text{ 且 } C_{同意}(a) > \gamma\}`$
    
-   其中 $I_{损失}$ 是信息损失，$C_{同意}$ 是同意度。
+   其中 $`I_{损失}`$ 是信息损失，$`C_{同意}`$ 是同意度。
 
 3. **量子生物监测**：量子级生物监测的隐私保护
    
-   $$P_{\text{侵犯}} = 1 - e^{-\alpha D_{监测}}$$
+   $`P_{\text{侵犯}} = 1 - e^{-\alpha D_{监测}}`$
    
-   其中 $P_{\text{侵犯}}$ 是隐私侵犯概率，$D_{监测}$ 是监测深度。
+   其中 $`P_{\text{侵犯}}`$ 是隐私侵犯概率，$`D_{监测}`$ 是监测深度。
 
 ### 量子社会伦理展望
 
@@ -274,21 +274,21 @@
 
 1. **量子伦理资源分配**：在量子经济中的公平分配
    
-   $$U_{\text{社会}} = \sum_i w_i U_i(q_i)$$
+   $`U_{\text{社会}} = \sum_i w_i U_i(q_i)`$
    
-   其中 $U_{\text{社会}}$ 是社会福利函数，$q_i$ 是量子资源分配。
+   其中 $`U_{\text{社会}}`$ 是社会福利函数，$`q_i`$ 是量子资源分配。
 
 2. **量子伦理教育模型**：培养量子伦理思维的教育框架
    
-   $$E_Q = E_C + E_Q' + E_{Q-C}$$
+   $`E_Q = E_C + E_Q' + E_{Q-C}`$
    
-   其中 $E_C$ 是经典伦理教育，$E_Q'$ 是量子特性教育，$E_{Q-C}$ 是整合教育。
+   其中 $`E_C`$ 是经典伦理教育，$`E_Q'`$ 是量子特性教育，$`E_{Q-C}`$ 是整合教育。
 
 3. **量子伦理监管架构**：监管量子技术的国际框架
    
-   $$R_{\text{全球}} = \sum_j \beta_j R_j - \gamma \sum_{j \neq k} |R_j - R_k|$$
+   $`R_{\text{全球}} = \sum_j \beta_j R_j - \gamma \sum_{j \neq k} |R_j - R_k|`$
    
-   其中 $R_j$ 是地区监管标准，第二项惩罚不一致性。
+   其中 $`R_j`$ 是地区监管标准，第二项惩罚不一致性。
 
 ## 哲学与未来展望
 

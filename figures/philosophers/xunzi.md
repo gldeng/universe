@@ -37,13 +37,13 @@
 
 荀子的"性恶论"可理解为对人类经典化系统必要性的深刻洞察：
 
-$$
+$`
 |\psi\rangle_{\text{自然人性}} \xrightarrow{\text{无经典化}} S_{\text{高无序熵}} \approx \text{"恶"}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{自然人性}} \xrightarrow{\text{礼义经典化}} I_{\text{社会秩序}} + S_{\text{降低熵}} \approx \text{"善"}
-$$
+`$
 
 与孟子认为人性本善不同，荀子认为人的自然本性（"性"）若不加约束将导致社会混乱。从量子经典二元论看，这对应于无经典化的量子可能性空间（原始欲望）产生的高熵状态。"性恶"意味着未经经典化的原始状态对社会是有害的，必须通过"伪"（人为努力，即经典化系统）来塑造秩序。荀子的"化性起伪"正是量子可能性通过礼义教育的经典化转变为有序状态的过程。
 
@@ -51,9 +51,9 @@ $$
 
 荀子强调的"隆礼重法"可视为系统性社会经典化机制：
 
-$$
+$`
 |\psi\rangle_{\text{社会可能性}} \xrightarrow{\text{礼制经典化}} I_{\text{有序社会}} + S_{\text{受控社会熵}}
-$$
+`$
 
 荀子比孔子更系统地阐述了礼的结构功能，强调其作为社会分层的框架和行为规范的标准。礼制本质上是一套高效的社会经典化系统，将原始的人际互动可能性转化为可预测的模式，大幅降低了系统熵。荀子的"礼者，所以正身也"表明礼是人们行为的经典引导结构，既满足人的合理需求（"礼者，养也"），又控制不合理欲望（"度量、节文"），达到社会熵的最优平衡。
 
@@ -61,9 +61,9 @@ $$
 
 荀子的正名思想揭示了经典信息熵管理的重要性：
 
-$$
+$`
 \text{社会效率} \propto \frac{I_{\text{名实对应}}}{S_{\text{语义混乱}}}
-$$
+`$
 
 "名不正则言不顺，言不顺则事不成"表明社会经典信息的清晰度直接影响系统效率。从量子经典二元论看，语言是经典化的核心工具，而语义清晰度对应于低熵的信息结构。通过确保名与实的严格对应关系，荀子的正名策略减少了信息传递中的熵，提高了社会协作效率。这与量子经典二元论中经典信息的优化管理原则完全一致。
 
@@ -71,9 +71,9 @@ $$
 
 荀子的"天人之分"思想展现了对量子-经典边界的理性把握：
 
-$$
+$`
 \text{人为主体性} \propto \frac{I_{\text{人之治天}}}{S_{\text{天命恐惧}}}
-$$
+`$
 
 荀子的"天行有常，不为尧存，不为桀亡"明确区分了自然规律（天道）与人类活动（人道）。从量子经典二元论看，"天"对应基础的量子可能性空间，其运行有其自身规律；而"人"则在经典域中通过理解这些规律来"制天命而用之"。与其他古代思想家不同，荀子反对将自然异象视为天意警示，而提倡理性认识自然规律并加以利用，这反映了一种成熟的量子-经典边界认识，强调在尊重基础规律的同时发挥人的主体能动性。
 
@@ -81,9 +81,9 @@ $$
 
 荀子的知行观体现了经典化过程的循环优化机制：
 
-$$
+$`
 I_{\text{知}} \xrightarrow{\text{行}} I_{\text{新知}} + \Delta S_{\text{经验修正}}：\text{"学不可以已"}
-$$
+`$
 
 荀子强调知识必须通过实践检验，又通过实践获取新知识："不闻不若闻之，闻之不若见之，见之不若知之，知之不若行之"。这一循环对应量子经典二元论中的经典化优化过程：初始经典化产生知识，实践检验揭示不足，反馈修正产生更优的经典化模式。荀子的"学不可以已"强调这一过程永无止境，与经典知识不断自我完善的量子经典演化一致。
 
@@ -91,9 +91,9 @@ $$
 
 荀子的"虚一而静"修养法可理解为提升观察者维度的方法：
 
-$$
+$`
 \text{观察者维度} \propto \frac{I_{\text{心态清明}}}{S_{\text{成见扰动}}}
-$$
+`$
 
 "虚一而静"要求心灵保持空明状态，不被成见和情绪扰动，以准确接收外部信息。从量子经典二元论看，这是提升观察者维度的关键方法——降低观察者自身的内部熵，提高接收和处理信息的质量。荀子强调"不以己之谓谓人之谓"，即不以主观成见扭曲客观事实，这种排除观察者干扰的客观性追求，本质上是一种提升观察维度的心灵训练。
 
@@ -103,13 +103,13 @@ $$
 
 Xunzi's theory that "human nature is evil" can be understood as a profound insight into the necessity of human classicalization systems:
 
-$$
+$`
 |\psi\rangle_{\text{Natural Human Nature}} \xrightarrow{\text{No Classicalization}} S_{\text{High Disorder Entropy}} \approx \text{"Evil"}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Natural Human Nature}} \xrightarrow{\text{Ritual Classicalization}} I_{\text{Social Order}} + S_{\text{Reduced Entropy}} \approx \text{"Good"}
-$$
+`$
 
 Unlike Mencius who believed human nature is inherently good, Xunzi believed that human natural tendencies ("nature") would lead to social chaos if unconstrained. From a Quantum-Classical Dualism perspective, this corresponds to the high entropy state produced by unclassicalized quantum possibility space (primitive desires). "Evil nature" implies that the primitive state without classicalization is harmful to society, necessitating "artifice" (human effort, i.e., classicalization systems) to shape order. Xunzi's "transforming nature through artifice" is precisely the process of quantum possibilities being transformed into ordered states through the classicalization of ritual education.
 
@@ -117,9 +117,9 @@ Unlike Mencius who believed human nature is inherently good, Xunzi believed that
 
 Xunzi's emphasis on "elevating ritual and emphasizing law" can be viewed as a systematic social classicalization mechanism:
 
-$$
+$`
 |\psi\rangle_{\text{Social Possibilities}} \xrightarrow{\text{Ritual Classicalization}} I_{\text{Ordered Society}} + S_{\text{Controlled Social Entropy}}
-$$
+`$
 
 Xunzi articulated the structural function of ritual more systematically than Confucius, emphasizing its role as a framework for social stratification and a standard for behavioral norms. The ritual system is essentially an efficient social classicalization system, transforming primitive interpersonal interaction possibilities into predictable patterns, greatly reducing system entropy. Xunzi's statement "ritual is that which rectifies the person" indicates that ritual is a classical guiding structure for human behavior, both satisfying reasonable human needs ("ritual is nurturing") and controlling unreasonable desires ("measures, proportions, and regulations"), achieving optimal balance of social entropy.
 
@@ -127,9 +127,9 @@ Xunzi articulated the structural function of ritual more systematically than Con
 
 Xunzi's rectification of names reveals the importance of classical information entropy management:
 
-$$
+$`
 \text{Social Efficiency} \propto \frac{I_{\text{Names Corresponding to Realities}}}{S_{\text{Semantic Confusion}}}
-$$
+`$
 
 "If names are not correct, language will not be fluent; if language is not fluent, affairs will not be accomplished" indicates that the clarity of social classical information directly affects system efficiency. From a Quantum-Classical Dualism perspective, language is a core tool of classicalization, and semantic clarity corresponds to low-entropy information structures. By ensuring strict correspondence between names and realities, Xunzi's rectification strategy reduces entropy in information transmission, improving social cooperation efficiency. This is completely consistent with the optimization management principles of classical information in Quantum-Classical Dualism.
 
@@ -137,9 +137,9 @@ $$
 
 Xunzi's "distinction between heaven and humanity" demonstrates a rational grasp of quantum-classical boundaries:
 
-$$
+$`
 \text{Human Subjectivity} \propto \frac{I_{\text{Human Control of Nature}}}{S_{\text{Fear of Destiny}}}
-$$
+`$
 
 Xunzi's statement "Heaven's operations have constancy, not existing for Yao nor perishing for Jie" clearly distinguishes natural laws (the Way of Heaven) from human activities (the Way of Humanity). From a Quantum-Classical Dualism perspective, "Heaven" corresponds to the foundational quantum possibility space with its own operational laws, while "Humanity" operates in the classical domain by understanding these laws to "control destiny and utilize it." Unlike other ancient thinkers, Xunzi opposed viewing natural anomalies as heavenly warnings, advocating instead rational understanding and utilization of natural laws. This reflects a mature recognition of quantum-classical boundaries, emphasizing human subjective initiative while respecting foundational laws.
 
@@ -147,9 +147,9 @@ Xunzi's statement "Heaven's operations have constancy, not existing for Yao nor 
 
 Xunzi's view of knowledge and action embodies the cyclical optimization mechanism of the classicalization process:
 
-$$
+$`
 I_{\text{Knowledge}} \xrightarrow{\text{Action}} I_{\text{New Knowledge}} + \Delta S_{\text{Experiential Correction}}：\text{"Learning should never cease"}
-$$
+`$
 
 Xunzi emphasized that knowledge must be tested through practice, and new knowledge is acquired through practice: "Not hearing is not as good as hearing, hearing is not as good as seeing, seeing is not as good as knowing, knowing is not as good as acting." This cycle corresponds to the classicalization optimization process in Quantum-Classical Dualism: initial classicalization produces knowledge, practical testing reveals inadequacies, feedback correction produces better classicalization patterns. Xunzi's "learning should never cease" emphasizes that this process is endless, consistent with the quantum-classical evolution of classical knowledge continuously self-improving.
 
@@ -157,9 +157,9 @@ Xunzi emphasized that knowledge must be tested through practice, and new knowled
 
 Xunzi's method of "emptiness and stillness" cultivation can be understood as a method to elevate observer dimension:
 
-$$
+$`
 \text{Observer Dimension} \propto \frac{I_{\text{Mental Clarity}}}{S_{\text{Prejudice Disturbance}}}
-$$
+`$
 
 "Emptiness and stillness" requires maintaining a clear mental state, undisturbed by prejudices and emotions, to accurately receive external information. From a Quantum-Classical Dualism perspective, this is a key method for elevating observer dimension—reducing the observer's internal entropy, improving the quality of receiving and processing information. Xunzi emphasized "not calling others' words by one's own words," meaning not distorting objective facts with subjective prejudices. This pursuit of objectivity by eliminating observer interference is essentially a mental training for elevating observational dimension.
 

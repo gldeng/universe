@@ -51,27 +51,27 @@ Sukhmani Sahib (Peace of Mind) is an important scripture composed by the fifth S
 ## 数学表达 (Mathematical Expression)
 
 ### 名号冥想的量子叠加收敛方程
-$$
+$`
 |\psi(t)\rangle = (1-\gamma(t))|\psi(0)\rangle + \gamma(t)|\psi_{\text{Naam}}\rangle
-$$
+`$
 
 其中：
-- $|\psi(t)\rangle$ 表示t时刻的意识量子态
-- $|\psi(0)\rangle$ 是初始意识状态
-- $|\psi_{\text{Naam}}\rangle$ 是名号冥想的目标态
-- $\gamma(t)$ 是时间相关的收敛参数，满足 $\lim_{t\to\infty}\gamma(t)=1$
+- $`|\psi(t)\rangle`$ 表示t时刻的意识量子态
+- $`|\psi(0)\rangle`$ 是初始意识状态
+- $`|\psi_{\text{Naam}}\rangle`$ 是名号冥想的目标态
+- $`\gamma(t)`$ 是时间相关的收敛参数，满足 $`\lim_{t\to\infty}\gamma(t)=1`$
 
 ### 观察者维度提升方程
-$$
+$`
 D_{\text{观察者}}(t) = D_0 + \Delta D \cdot (1-e^{-\alpha N(t)})
-$$
+`$
 
 其中：
-- $D_{\text{观察者}}(t)$ 是t时刻的观察者维度
-- $D_0$ 是初始观察者维度
-- $\Delta D$ 是可能的最大维度提升
-- $N(t)$ 是累积的名号冥想数量
-- $\alpha$ 是冥想效率系数
+- $`D_{\text{观察者}}(t)`$ 是t时刻的观察者维度
+- $`D_0`$ 是初始观察者维度
+- $`\Delta D`$ 是可能的最大维度提升
+- $`N(t)`$ 是累积的名号冥想数量
+- $`\alpha`$ 是冥想效率系数
 
 ## 结论 (Conclusion)
 

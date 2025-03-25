@@ -27,67 +27,67 @@
 
 ### 1. 量子态流形表示
 
-量子态空间可表示为无限维复流形 $\mathcal{M}_Q$，具有以下结构：
+量子态空间可表示为无限维复流形 $`\mathcal{M}_Q`$，具有以下结构：
 
-- **流形结构**: $\mathcal{M}_Q$ 是带复结构的无限维微分流形
-- **度量张量**: $g_{\mu\nu}^Q = \text{Re}\langle\partial_\mu\psi|\partial_\nu\psi\rangle$，定义态空间的几何度量
-- **相位联络**: $A_\mu = \text{Im}\langle\psi|\partial_\mu\psi\rangle$，描述量子相位在流形上的平行传输
+- **流形结构**: $`\mathcal{M}_Q`$ 是带复结构的无限维微分流形
+- **度量张量**: $`g_{\mu\nu}^Q = \text{Re}\langle\partial_\mu\psi|\partial_\nu\psi\rangle`$，定义态空间的几何度量
+- **相位联络**: $`A_\mu = \text{Im}\langle\psi|\partial_\mu\psi\rangle`$，描述量子相位在流形上的平行传输
 
 纯量子态对应流形上的点，量子演化对应流形上的测地线：
 
-$$\delta\int\sqrt{g_{\mu\nu}^Q\dot{x}^\mu\dot{x}^\nu}dt = 0$$
+$`\delta\int\sqrt{g_{\mu\nu}^Q\dot{x}^\mu\dot{x}^\nu}dt = 0`$
 
 ### 2. 量子纠缠的几何表示
 
 量子纠缠可表示为流形间的非分离连接结构：
 
-$$\mathcal{M}_{AB} \neq \mathcal{M}_A \times \mathcal{M}_B$$
+$`\mathcal{M}_{AB} \neq \mathcal{M}_A \times \mathcal{M}_B`$
 
 纠缠熵对应流形中的几何不变量：
 
-$$S_E = -\text{Tr}(\rho_A\log\rho_A) = \int_{\mathcal{M}_A}\Omega_E$$
+$`S_E = -\text{Tr}(\rho_A\log\rho_A) = \int_{\mathcal{M}_A}\Omega_E`$
 
-其中 $\Omega_E$ 是纠缠度量形式。
+其中 $`\Omega_E`$ 是纠缠度量形式。
 
 ### 3. 几何量子算符表示
 
 量子算符可表示为流形上的张量场：
 
-- **观测量**: $\hat{O} \to O_{\mu\nu}$，张量场在流形上的表示
-- **演化算符**: $\hat{U} \to U^\mu_{\:\nu}$，流形上的变换群
-- **密度矩阵**: $\hat{\rho} \to \rho_{\mu\nu}$，流形上的混合态度量
+- **观测量**: $`\hat{O} \to O_{\mu\nu}`$，张量场在流形上的表示
+- **演化算符**: $`\hat{U} \to U^\mu_{\:\nu}`$，流形上的变换群
+- **密度矩阵**: $`\hat{\rho} \to \rho_{\mu\nu}`$，流形上的混合态度量
 
 ## 量子-经典几何转换
 
 ### 1. 经典态流形表示
 
-经典态空间可表示为有限维Riemann流形 $\mathcal{M}_C$，具有以下结构：
+经典态空间可表示为有限维Riemann流形 $`\mathcal{M}_C`$，具有以下结构：
 
-- **流形结构**: $\mathcal{M}_C$ 是有限维实Riemann流形
-- **度量张量**: $g_{ij}^C = \frac{\partial^2 S}{\partial x^i \partial x^j}$，其中 $S$ 是作用量
-- **相空间结构**: $\omega_{ij} = \frac{\partial p_j}{\partial x^i} - \frac{\partial p_i}{\partial x^j}$，辛形式
+- **流形结构**: $`\mathcal{M}_C`$ 是有限维实Riemann流形
+- **度量张量**: $`g_{ij}^C = \frac{\partial^2 S}{\partial x^i \partial x^j}`$，其中 $`S`$ 是作用量
+- **相空间结构**: $`\omega_{ij} = \frac{\partial p_j}{\partial x^i} - \frac{\partial p_i}{\partial x^j}`$，辛形式
 
 ### 2. 量子-经典切映射
 
 经典化过程可表示为从量子流形到经典流形的切映射：
 
-$$\mathcal{C}: T\mathcal{M}_Q \to T\mathcal{M}_C$$
+$`\mathcal{C}: T\mathcal{M}_Q \to T\mathcal{M}_C`$
 
 满足以下条件：
 
-- **信息保持**: $\text{dim}(T\mathcal{M}_Q) \geq \text{dim}(T\mathcal{M}_C)$
-- **测量对应**: $\mathcal{C}(|\psi\rangle\langle\psi|) = \{p_i, x_i\}$，态向经典点的映射
-- **不确定性保持**: $\mathcal{C}$ 保持不确定性关系的约束
+- **信息保持**: $`\text{dim}(T\mathcal{M}_Q) \geq \text{dim}(T\mathcal{M}_C)`$
+- **测量对应**: $`\mathcal{C}(|\psi\rangle\langle\psi|) = \{p_i, x_i\}`$，态向经典点的映射
+- **不确定性保持**: $`\mathcal{C}`$ 保持不确定性关系的约束
 
 ### 3. 经典化几何描述
 
 经典化可表示为流形上的投影过程：
 
-$$\mathcal{P}_O: \mathcal{M}_Q \to \mathcal{M}_C^O$$
+$`\mathcal{P}_O: \mathcal{M}_Q \to \mathcal{M}_C^O`$
 
-其中 $\mathcal{M}_C^O$ 是观察者 $O$ 的经典流形。投影的具体形式为：
+其中 $`\mathcal{M}_C^O`$ 是观察者 $`O`$ 的经典流形。投影的具体形式为：
 
-$$\mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)$$
+$`\mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)`$
 
 这在几何上对应从高维流形到低维流形的纤维投影。
 
@@ -97,7 +97,7 @@ $$\mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)$$
 
 量子态之间的距离可通过Fubini-Study度量定义：
 
-$$d_{\text{FS}}(|\psi\rangle, |\phi\rangle) = \arccos|\langle\psi|\phi\rangle|$$
+$`d_{\text{FS}}(|\psi\rangle, |\phi\rangle) = \arccos|\langle\psi|\phi\rangle|`$
 
 这等效于量子流形上的测地距离。
 
@@ -105,21 +105,21 @@ $$d_{\text{FS}}(|\psi\rangle, |\phi\rangle) = \arccos|\langle\psi|\phi\rangle|$$
 
 信息在量子-经典界面的流动可表示为流形间的映射流：
 
-$$\mathcal{J}(t): \mathcal{M}_Q \times [0,1] \to \mathcal{M}_C$$
+$`\mathcal{J}(t): \mathcal{M}_Q \times [0,1] \to \mathcal{M}_C`$
 
 满足连续方程：
 
-$$\frac{\partial\rho}{\partial t} + \nabla\cdot\vec{J} = 0$$
+$`\frac{\partial\rho}{\partial t} + \nabla\cdot\vec{J} = 0`$
 
-其中 $\rho$ 是信息密度形式，$\vec{J}$ 是信息流。
+其中 $`\rho`$ 是信息密度形式，$`\vec{J}`$ 是信息流。
 
 ### 3. 拓扑量子场论表示
 
 拓扑保护的量子状态可通过示性类和同伦群描述：
 
-$$[\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)$$
+$`[\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)`$
 
-其中 $\mathcal{M}_T$ 是目标流形空间，$\pi_n$ 是第n阶同伦群。
+其中 $`\mathcal{M}_T`$ 是目标流形空间，$`\pi_n`$ 是第n阶同伦群。
 
 ## 高维量子流形理论
 
@@ -127,15 +127,15 @@ $$[\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)$$
 
 高维观察者可表示为嵌入在高维流形中的观测结构：
 
-$$\mathcal{O}_d \subset \mathcal{M}_{d+k}$$
+$`\mathcal{O}_d \subset \mathcal{M}_{d+k}`$
 
-其中 $d$ 是观察者维度，$k$ 是额外维度数量。
+其中 $`d`$ 是观察者维度，$`k`$ 是额外维度数量。
 
 ### 2. 流形间的嵌入映射
 
 不同维度流形间的关系可通过嵌入映射描述：
 
-$$\iota: \mathcal{M}_d \hookrightarrow \mathcal{M}_{d+k}$$
+$`\iota: \mathcal{M}_d \hookrightarrow \mathcal{M}_{d+k}`$
 
 这解释了高维观察者如何感知低维现象。
 
@@ -143,9 +143,9 @@ $$\iota: \mathcal{M}_d \hookrightarrow \mathcal{M}_{d+k}$$
 
 多重二元论层级可表示为流形的层级结构：
 
-$$\mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrightarrow{\iota_{1\to2}} \mathcal{M}^{(2)}_Q \xrightarrow{\mathcal{C}^{(2)}} \mathcal{M}^{(2)}_C \to \cdots$$
+$`\mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrightarrow{\iota_{1\to2}} \mathcal{M}^{(2)}_Q \xrightarrow{\mathcal{C}^{(2)}} \mathcal{M}^{(2)}_C \to \cdots`$
 
-其中 $\iota_{i\to j}$ 是层级间的嵌入映射。
+其中 $`\iota_{i\to j}`$ 是层级间的嵌入映射。
 
 ## 几何量子相变模型
 
@@ -153,25 +153,25 @@ $$\mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrigh
 
 量子-经典相变可表示为流形的拓扑变化：
 
-$$\mathcal{M}_\lambda \xrightarrow{\lambda \to \lambda_c} \mathcal{M}'_{\lambda}$$
+$`\mathcal{M}_\lambda \xrightarrow{\lambda \to \lambda_c} \mathcal{M}'_{\lambda}`$
 
-其中 $\lambda$ 是控制参数，$\lambda_c$ 是临界值。
+其中 $`\lambda`$ 是控制参数，$`\lambda_c`$ 是临界值。
 
 ### 2. 相变临界指数的几何解释
 
 临界指数与流形的几何不变量相关：
 
-$$\nu = \frac{1}{d_H - 1}$$
+$`\nu = \frac{1}{d_H - 1}`$
 
-其中 $d_H$ 是临界点处流形的Hausdorff维数。
+其中 $`d_H`$ 是临界点处流形的Hausdorff维数。
 
 ### 3. 量子-经典界面的相变动力学
 
 界面相变遵循几何重整化流方程：
 
-$$\frac{dg_{ij}}{dt} = -2R_{ij} + \nabla_i\nabla_j\phi$$
+$`\frac{dg_{ij}}{dt} = -2R_{ij} + \nabla_i\nabla_j\phi`$
 
-其中 $R_{ij}$ 是Ricci曲率张量，$\phi$ 是稀释场。
+其中 $`R_{ij}`$ 是Ricci曲率张量，$`\phi`$ 是稀释场。
 
 ## 应用领域
 

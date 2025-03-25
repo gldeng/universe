@@ -15,7 +15,7 @@
    - 自我实现过程即是量子可能性向经典现实的坍缩过程
    
 2. **无条件积极关注**
-   $$\Psi_{\text{治疗}} = \sum_{i} \alpha_i |\text{可能性}_i\rangle$$
+   $`\Psi_{\text{治疗}} = \sum_{i} \alpha_i |\text{可能性}_i\rangle`$
    - 治疗师的接纳态度维持来访者的量子叠加状态
    - 避免过早的经典化坍缩，保持发展可能性
 
@@ -27,9 +27,9 @@
 
 在量子经典二元论框架下，罗杰斯的治疗理论可表达为：
 
-$$\mathcal{M}_{\text{Rogers}}: \Omega_Q^{\text{潜能}} \xrightarrow{\text{治疗关系}} \Omega_C^{\text{实现}}$$
+$`\mathcal{M}_{\text{Rogers}}: \Omega_Q^{\text{潜能}} \xrightarrow{\text{治疗关系}} \Omega_C^{\text{实现}}`$
 
-其中$\Omega_Q^{\text{潜能}}$代表个体潜能的量子可能性空间，$\Omega_C^{\text{实现}}$代表通过治疗实现的经典确定性状态。
+其中$`\Omega_Q^{\text{潜能}}`$代表个体潜能的量子可能性空间，$`\Omega_C^{\text{实现}}`$代表通过治疗实现的经典确定性状态。
 
 ### 历史影响
 
@@ -48,7 +48,7 @@ Carl Rogers (1902-1987), as the founder of humanistic psychology, his theories d
    - Self-actualization process represents collapse from quantum possibilities to classical reality
 
 2. **Unconditional Positive Regard**
-   $$\Psi_{\text{therapy}} = \sum_{i} \alpha_i |\text{possibility}_i\rangle$$
+   $`\Psi_{\text{therapy}} = \sum_{i} \alpha_i |\text{possibility}_i\rangle`$
    - Therapist's accepting attitude maintains client's quantum superposition state
    - Prevents premature classical collapse, preserving developmental possibilities
 
@@ -60,9 +60,9 @@ Carl Rogers (1902-1987), as the founder of humanistic psychology, his theories d
 
 Within quantum-classical dualism framework, Rogers' therapeutic theory can be expressed as:
 
-$$\mathcal{M}_{\text{Rogers}}: \Omega_Q^{\text{potential}} \xrightarrow{\text{therapeutic relationship}} \Omega_C^{\text{actualization}}$$
+$`\mathcal{M}_{\text{Rogers}}: \Omega_Q^{\text{potential}} \xrightarrow{\text{therapeutic relationship}} \Omega_C^{\text{actualization}}`$
 
-Where $\Omega_Q^{\text{potential}}$ represents the quantum possibility space of individual potential, and $\Omega_C^{\text{actualization}}$ represents the classical deterministic state achieved through therapy.
+Where $`\Omega_Q^{\text{potential}}`$ represents the quantum possibility space of individual potential, and $`\Omega_C^{\text{actualization}}`$ represents the classical deterministic state achieved through therapy.
 
 ### Historical Impact
 

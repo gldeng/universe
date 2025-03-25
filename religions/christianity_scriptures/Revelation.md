@@ -109,27 +109,27 @@ The "new heaven and new earth" described at the end of Revelation corresponds to
 
 The core apocalyptic insights of Revelation can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"我是阿拉法，我是俄梅戛"} \Leftrightarrow \forall t, \mathcal{O}_{\text{全时}}(t) = |\psi\rangle_{\text{量子域}}
-$$
+`$
 
-$$
+$`
 \text{"天上有门开了"} \Leftrightarrow \mathcal{D}(\mathcal{O}_{n}) \xrightarrow{\text{突破}} \mathcal{D}(\mathcal{O}_{n+m}), m \gg 1
-$$
+`$
 
-$$
+$`
 \text{"七角七眼"} \Leftrightarrow \mathcal{E}(|\psi\rangle_{\text{量子域}}) = \{E_1, E_2, ..., E_7\}, \forall (x,y,z), \mathcal{E}(x,y,z) \neq 0
-$$
+`$
 
-$$
+$`
 \text{"新天新地"} \Leftrightarrow I_{\text{旧经典域}} + S_{\text{旧经典域}} \xrightarrow{\text{重构}} I_{\text{新经典域}} + S_{\text{新经典域}}, \frac{I_{\text{新经典域}}}{S_{\text{新经典域}}} \gg \frac{I_{\text{旧经典域}}}{S_{\text{旧经典域}}}
-$$
+`$
 
-$$
+$`
 \text{"擦去一切眼泪，不再有死亡"} \Leftrightarrow \lim_{t \to \infty} S_{\text{经典熵}}(t) \to \text{最小值}, \lim_{t \to \infty} I_{\text{经典知识}}(t) \to \text{最大值}
-$$
+`$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\mathcal{E}$表示量子纠缠网络函数
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{E}`$表示量子纠缠网络函数
 
 ## 结论
 ## Conclusion

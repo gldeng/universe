@@ -51,25 +51,25 @@ Al-Baqarah (Arabic: سورة البقرة‎, "The Cow") is the second and longe
 ## 数学表达 (Mathematical Expression)
 
 ### 信仰维度提升方程
-$$
+$`
 D_{\text{信仰者}} = k_{\text{信仰}}\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} = k_{\text{信仰}}\frac{|\psi_{\text{古兰经}}\rangle\langle\psi_{\text{古兰经}}|}{S_{\text{无知}}}
-$$
+`$
 
 其中：
-- $D_{\text{信仰者}}$ 表示信仰者的维度
-- $k_{\text{信仰}}$ 是信仰带来的经典化效率系数
-- $|\psi_{\text{古兰经}}\rangle$ 代表古兰经的量子态
-- $S_{\text{无知}}$ 是无知的熵值
+- $`D_{\text{信仰者}}`$ 表示信仰者的维度
+- $`k_{\text{信仰}}`$ 是信仰带来的经典化效率系数
+- $`|\psi_{\text{古兰经}}\rangle`$ 代表古兰经的量子态
+- $`S_{\text{无知}}`$ 是无知的熵值
 
 ### 万物名称知识方程
-$$
+$`
 |\psi_{\text{万物知识}}\rangle = \sum_{i=1}^{n} c_i |名称_i\rangle
-$$
+`$
 
 其中：
-- $|\psi_{\text{万物知识}}\rangle$ 表示万物知识的量子态
-- $|名称_i\rangle$ 是第i个事物名称的量子态
-- $c_i$ 是复振幅，满足 $\sum_i |c_i|^2 = 1$
+- $`|\psi_{\text{万物知识}}\rangle`$ 表示万物知识的量子态
+- $`|名称_i\rangle`$ 是第i个事物名称的量子态
+- $`c_i`$ 是复振幅，满足 $`\sum_i |c_i|^2 = 1`$
 
 ## 结论 (Conclusion)
 

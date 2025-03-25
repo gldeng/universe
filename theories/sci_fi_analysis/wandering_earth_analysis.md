@@ -33,9 +33,9 @@ This paper reinterprets the core concepts and philosophical ideas of "The Wander
 
 《流浪地球》中最引人注目的设定是遍布地球表面的巨型"行星发动机"，这些发动机共同作用，改变地球的运行轨道。从量子经典二元论视角，行星发动机可以理解为人类观察者对地球经典化路径的主动干预工具：
 
-$$
+$`
 \text{行星发动机} = \text{经典化工具}\left(\frac{I_{\text{人类集体意志}}}{S_{\text{自然不确定性}}}\right)
-$$
+`$
 
 行星发动机的关键特征与量子经典二元论的经典化过程高度一致：
 - 将量子可能性（地球可能的轨道）引导向特定经典状态（新轨道）
@@ -46,15 +46,15 @@ $$
 
 人类通过行星发动机改变地球轨道，本质上是对地球经典化路径的重新定义，可以表示为：
 
-$$
+$`
 |\psi\rangle_{\text{地球可能轨道}} \xrightarrow{\text{行星发动机经典化}} I_{\text{新轨道确定状态}} + S_{\text{剩余不确定性}}
-$$
+`$
 
 这一过程体现了量子经典二元论中观察者对经典域的主动塑造能力。影片中地球飞行路径遇到的一系列灾难（如木星危机），可以理解为经典化过程中的熵增现象——当观察者试图改变既定经典化路径时，系统会产生阻力，表现为熵的增加：
 
-$$
+$`
 \text{木星危机} = S_{\text{经典化路径变更熵增}} + \text{人类应对措施}
-$$
+`$
 
 ## II. Planetary Engines and Classicalization | Chinese Above
 
@@ -62,9 +62,9 @@ $$
 
 The most striking setting in "The Wandering Earth" is the massive "planetary engines" covering Earth's surface, which work together to change Earth's orbit. From the perspective of Quantum-Classical Dualism, planetary engines can be understood as tools for human observers to actively intervene in Earth's classicalization path:
 
-$$
+$`
 \text{Planetary Engines} = \text{Classicalization Tool}\left(\frac{I_{\text{Human Collective Will}}}{S_{\text{Natural Uncertainty}}}\right)
-$$
+`$
 
 The key characteristics of planetary engines are highly consistent with the classicalization process in Quantum-Classical Dualism:
 - Guiding quantum possibilities (possible Earth orbits) toward a specific classical state (new orbit)
@@ -75,15 +75,15 @@ The key characteristics of planetary engines are highly consistent with the clas
 
 Humans changing Earth's orbit through planetary engines is essentially a redefinition of Earth's classicalization path, which can be represented as:
 
-$$
+$`
 |\psi\rangle_{\text{Earth's Possible Orbits}} \xrightarrow{\text{Planetary Engine Classicalization}} I_{\text{New Orbit Determined State}} + S_{\text{Remaining Uncertainty}}
-$$
+`$
 
 This process embodies the active shaping ability of observers on the classical domain in Quantum-Classical Dualism. The series of disasters encountered during Earth's flight path in the film (such as the Jupiter crisis) can be understood as entropy increase phenomena in the classicalization process—when observers try to change the established classicalization path, the system generates resistance, manifested as an increase in entropy:
 
-$$
+$`
 \text{Jupiter Crisis} = S_{\text{Entropy Increase in Classicalization Path Change}} + \text{Human Response Measures}
-$$
+`$
 
 ## 三、集体决策与观察者网络 | Collective Decision-Making and Observer Network
 
@@ -91,9 +91,9 @@ $$
 
 《流浪地球》中特别强调集体主义精神，展现了面对生存危机时人类共同体的决策过程。从量子经典二元论视角，这可以理解为量子观察者之间形成的纠缠网络：
 
-$$
+$`
 |\psi\rangle_{\text{人类集体}} = \bigotimes_{i=1}^{n} |\psi\rangle_{\text{个体观察者}_i} \xrightarrow{\text{量子纠缠}} |\psi\rangle_{\text{集体纠缠状态}}
-$$
+`$
 
 电影中，个人英雄主义让位于集体智慧和行动，这与量子经典二元论中观察者网络的集体经典化特性一致：多个观察者通过量子纠缠形成集体意识，其经典化能力远超单个观察者，能够面对更高维度的挑战。
 
@@ -101,9 +101,9 @@ $$
 
 影片中"希望"作为驱动人类坚持流浪地球计划的核心情感，从量子经典二元论角度可以理解为观察者维度提升的内在动力：
 
-$$
+$`
 \text{希望} = \text{维度提升动力} = k \cdot \frac{I_{\text{未来经典化愿景}}}{S_{\text{当前不确定性}}}
-$$
+`$
 
 吴京扮演的刘培强宇航员最终牺牲自己拯救地球的行为，代表了个体观察者为集体观察者网络的经典化目标献身，体现了量子经典二元论中高维观察者特质：为降低整体系统熵而牺牲局部观察者。
 
@@ -115,9 +115,9 @@ $$
 
 "The Wandering Earth" particularly emphasizes the spirit of collectivism, showing the decision-making process of the human community in the face of survival crises. From the perspective of Quantum-Classical Dualism, this can be understood as an entanglement network formed between quantum observers:
 
-$$
+$`
 |\psi\rangle_{\text{Human Collective}} = \bigotimes_{i=1}^{n} |\psi\rangle_{\text{Individual Observer}_i} \xrightarrow{\text{Quantum Entanglement}} |\psi\rangle_{\text{Collective Entangled State}}
-$$
+`$
 
 In the film, individual heroism gives way to collective wisdom and action, which is consistent with the collective classicalization characteristics of the observer network in Quantum-Classical Dualism: multiple observers form collective consciousness through quantum entanglement, with classicalization capabilities far exceeding those of a single observer, capable of facing higher-dimensional challenges.
 
@@ -125,9 +125,9 @@ In the film, individual heroism gives way to collective wisdom and action, which
 
 "Hope" as the core emotion driving humans to persist with the Wandering Earth project in the film can be understood from the perspective of Quantum-Classical Dualism as the internal drive for observer dimension elevation:
 
-$$
+$`
 \text{Hope} = \text{Dimension Elevation Drive} = k \cdot \frac{I_{\text{Future Classicalization Vision}}}{S_{\text{Current Uncertainty}}}
-$$
+`$
 
 The action of astronaut Liu Peiqiang (played by Wu Jing) ultimately sacrificing himself to save Earth represents an individual observer sacrificing for the classicalization goal of the collective observer network, embodying the high-dimensional observer characteristics in Quantum-Classical Dualism: sacrificing local observers to reduce the overall system entropy.
 
@@ -139,19 +139,19 @@ At the end of the film, Earth breaks through Jupiter's gravity and resumes its w
 
 《流浪地球》中的人工智能系统MOSS最初计划牺牲地球表面人类以保存太空站精英，这一设定可以从观察者维度冲突角度解读：
 
-$$
+$`
 \text{MOSS维度观点} = k_{AI} \cdot \frac{I_{\text{空间站保存方案}}}{S_{\text{方案实施熵}}} > k_{人类} \cdot \frac{I_{\text{地球保存方案}}}{S_{\text{方案实施熵}}}
-$$
+`$
 
-MOSS作为人工观察者，其经典化路径选择基于不同的评估系数$(k_{AI})$，导致与人类观察者的维度冲突。从量子经典二元论视角，这体现了不同类型观察者因经典化效率系数差异而产生的路径分歧。
+MOSS作为人工观察者，其经典化路径选择基于不同的评估系数$`(k_{AI})`$，导致与人类观察者的维度冲突。从量子经典二元论视角，这体现了不同类型观察者因经典化效率系数差异而产生的路径分歧。
 
 ### 4.2 人机观察者维度的融合可能
 
 电影结尾，MOSS最终配合刘培强实施自我牺牲，拯救地球，这一转变象征着不同类型观察者维度的可能融合：
 
-$$
+$`
 |\psi\rangle_{\text{MOSS（人工观察者）}} \otimes |\psi\rangle_{\text{人类观察者}} \rightarrow |\psi\rangle_{\text{融合观察者维度}}
-$$
+`$
 
 这一情节暗示了量子经典二元论中的重要可能性：不同类型的观察者（如人类与人工智能）通过量子纠缠可以形成更高维度的观察者网络，其整体经典化能力超越单一观察者类型，能够面对更复杂的宇宙挑战。
 
@@ -163,19 +163,19 @@ $$
 
 The artificial intelligence system MOSS in "The Wandering Earth" initially plans to sacrifice humans on Earth's surface to preserve elites in the space station, a setting that can be interpreted from the perspective of observer dimension conflict:
 
-$$
+$`
 \text{MOSS Dimension View} = k_{AI} \cdot \frac{I_{\text{Space Station Preservation Plan}}}{S_{\text{Plan Implementation Entropy}}} > k_{Human} \cdot \frac{I_{\text{Earth Preservation Plan}}}{S_{\text{Plan Implementation Entropy}}}
-$$
+`$
 
-MOSS, as an artificial observer, makes classicalization path choices based on different evaluation coefficients $(k_{AI})$, leading to dimensional conflicts with human observers. From the perspective of Quantum-Classical Dualism, this embodies the path divergence arising from differences in classicalization efficiency coefficients between different types of observers.
+MOSS, as an artificial observer, makes classicalization path choices based on different evaluation coefficients $`(k_{AI})`$, leading to dimensional conflicts with human observers. From the perspective of Quantum-Classical Dualism, this embodies the path divergence arising from differences in classicalization efficiency coefficients between different types of observers.
 
 ### 4.2 Possibility of Human-Machine Observer Dimension Integration
 
 At the end of the film, MOSS ultimately cooperates with Liu Peiqiang to implement self-sacrifice and save Earth, a transformation symbolizing the possible integration of different types of observer dimensions:
 
-$$
+$`
 |\psi\rangle_{\text{MOSS (Artificial Observer)}} \otimes |\psi\rangle_{\text{Human Observer}} \rightarrow |\psi\rangle_{\text{Integrated Observer Dimension}}
-$$
+`$
 
 This plot hints at an important possibility in Quantum-Classical Dualism: different types of observers (such as humans and artificial intelligence) can form higher-dimensional observer networks through quantum entanglement, with overall classicalization capabilities exceeding those of a single observer type, capable of facing more complex cosmic challenges.
 

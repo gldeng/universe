@@ -23,15 +23,15 @@
 
 ### 1. 虚无与有形：量子域与经典域的表征
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$`\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}`$
 
 《列子》中的"虚无"概念对应量子经典二元论中的量子域，代表无限可能性的空间；而"有形"则对应经典域，代表已经确定的现实。列子通过各种寓言和故事，展示了虚无如何转化为有形，以及有形如何回归虚无的循环过程。
 
 ### 2. 心斋坐忘：观察者维度提升方法
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
-《列子》中描述的"心斋"和"坐忘"修行方法，从量子经典二元论看，是观察者通过减少经典域中的熵（$S_{classical entropy}$）来提升自身维度的方法。通过松弛既有认知结构，降低经典化强度，观察者可以接触到更广阔的量子可能性。
+《列子》中描述的"心斋"和"坐忘"修行方法，从量子经典二元论看，是观察者通过减少经典域中的熵（$`S_{classical entropy}`$）来提升自身维度的方法。通过松弛既有认知结构，降低经典化强度，观察者可以接触到更广阔的量子可能性。
 
 ### 3. 命运与自由：经典化与量子化的平衡
 
@@ -43,7 +43,7 @@ $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O
 
 ### 5. 自然之道：量子-经典接口的自然运行
 
-$$\mathcal{I} = \Omega_Q \cap \Omega_C$$
+$`\mathcal{I} = \Omega_Q \cap \Omega_C`$
 
 《列子》强调的"道法自然"理念，在量子经典二元论中对应于量子-经典接口的自然运行规律。当观察者顺应自然规律，不强行干预量子-经典转化过程时，系统会自然地寻找到熵最优的路径。
 
@@ -84,15 +84,15 @@ Liezi, also known as the "True Classic of Perfect Emptiness," is attributed to t
 
 ### 1. Emptiness and Form: Representation of Quantum and Classical Domains
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$`\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}`$
 
 The concept of "emptiness" in Liezi corresponds to the quantum domain in Quantum-Classical Dualism, representing a space of infinite possibilities; while "form" corresponds to the classical domain, representing determined reality. Through various parables and stories, Liezi demonstrates how emptiness transforms into form, and how form returns to emptiness in a cyclical process.
 
 ### 2. Fasting of the Mind and Sitting in Forgetfulness: Methods for Observer Dimension Elevation
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
-The practices of "fasting of the mind" and "sitting in forgetfulness" described in Liezi, from a Quantum-Classical Dualism perspective, are methods for observers to elevate their dimensions by reducing entropy in the classical domain ($S_{classical entropy}$). By relaxing existing cognitive structures and reducing classicalization intensity, observers can access broader quantum possibilities.
+The practices of "fasting of the mind" and "sitting in forgetfulness" described in Liezi, from a Quantum-Classical Dualism perspective, are methods for observers to elevate their dimensions by reducing entropy in the classical domain ($`S_{classical entropy}`$). By relaxing existing cognitive structures and reducing classicalization intensity, observers can access broader quantum possibilities.
 
 ### 3. Destiny and Freedom: Balance Between Classicalization and Quantization
 
@@ -104,7 +104,7 @@ The many parables in Liezi (such as the "Debate at Hao River") demonstrate relat
 
 ### 5. The Way of Nature: Natural Operation of the Quantum-Classical Interface
 
-$$\mathcal{I} = \Omega_Q \cap \Omega_C$$
+$`\mathcal{I} = \Omega_Q \cap \Omega_C`$
 
 The "following the way of nature" ideal emphasized in Liezi corresponds to the natural operating principles of the quantum-classical interface in Quantum-Classical Dualism. When observers follow natural principles without forcibly intervening in the quantum-classical transformation process, the system naturally finds the path with optimal entropy.
 

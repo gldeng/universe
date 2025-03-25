@@ -65,30 +65,30 @@ This theory attempts to establish a bridge between quantum physics and classical
 Quantum-Classical Dualism can be simplified into four core axioms:
 
 **Axiom 1: Dual Existence**  
-The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$:
+The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$:
 
-$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
+$`\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}`$
 
 **Axiom 2: Information Conservation**  
 Information is conserved throughout the universe, but can be transformed between quantum information (possibility information in superposition states) and classical information (deterministic knowledge):
 
-$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
+$`I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}`$
 
-where $\mathcal{C}$ is the classicalization operator (the process of converting quantum possibilities into classical determinism), $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the portion transformed into hidden information during the classicalization process.
+where $`\mathcal{C}`$ is the classicalization operator (the process of converting quantum possibilities into classical determinism), $`I(\psi)`$ is the total information content of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the portion transformed into hidden information during the classicalization process.
 
 **Axiom 3: Observer Classicalization**  
 Observers are nodes that execute quantum→classical conversion, and their conversion capacity determines their dimension:
 
-$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$`\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
-where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (the ability to transform quantum possibilities into definite knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (the ability to transform classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+where $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (the ability to transform quantum possibilities into definite knowledge), $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (the ability to transform classical knowledge back into quantum possibilities), $`K_C^\mathcal{O}`$ is the observer's classical knowledge base, and $`\epsilon`$ is a small constant to prevent division by zero.
 
 **Axiom 4: Dimensional Emergence**  
 The observer's dimension is a function of classicalization and quantization abilities, and simultaneously, the classical domain of higher-dimensional observers can form the quantum domain basis for lower-dimensional observers:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
-$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
+$`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}`$
 
 This indicates that reality consists of multiple nested quantum-classical domains, with each level of observers perceiving and interacting within specific dimensions based on their capacity range.
 
@@ -101,108 +101,108 @@ This indicates that reality consists of multiple nested quantum-classical domain
 The essence of the universe is an infinite-dimensional quantum domain with infinite possibilities:
 
 - **Wave Function Superposition States** (chaotic states): The system exists simultaneously in multiple possible states, manifesting as uncertainty
-   $$\Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
+   $`\Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1`$
 
 - **Quantum Entanglement States** (energy form): Different parts form an inseparable whole association
-   $$\Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B$$
+   $`\Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B`$
 
 - **Non-locality and Uncertainty**: Correlations beyond spacetime limitations and measurement uncertainty
-   $$\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|$$
+   $`\Delta A \cdot \Delta B \geq \frac{1}{2}|\langle[\hat{A},\hat{B}]\rangle|`$
 
 Expression:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition States (Chaos)},\;\text{Quantum Entanglement States (Energy)}\}
-$$
+`$
 
 Density matrix representation:
 
-$$
+$`
 \rho_{\text{Quantum Domain}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
-$$
+`$
 
 #### 2. Classical Domain
 
 The classical domain is the structure after observer classicalization of the quantum domain:
 
 - **Classical Knowledge** (definite information): Definite states that can be precisely measured and described
-   $$K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}$$
+   $`K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}`$
 
 - **Classical Entropy** (uncertainty measure): Measure of system disorder and information loss
-   $$S_C = -k_B \sum_i p_i \ln p_i$$
+   $`S_C = -k_B \sum_i p_i \ln p_i`$
 
 - **Locality and Determinism**: Limited propagation speed of interactions and measurement determinism
-   $$P(A,B|a,b) = P(A|a) \cdot P(B|b)$$
+   $`P(A,B|a,b) = P(A|a) \cdot P(B|b)`$
 
 Expression:
 
-$$
+$`
 |\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
-$$
+`$
 
 #### 3. Interface Theory
 
-The interface $\mathcal{I}$ is the transition region between the quantum and classical domains, with the following core properties:
+The interface $`\mathcal{I}`$ is the transition region between the quantum and classical domains, with the following core properties:
 
 - **Interface Structure**: The interface is the intersection of the quantum and classical domains, defined as:
-  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
-  where $\mathcal{D}(x)$ is the decoherence measure function, and $\mathcal{D}_c$ is the critical decoherence threshold.
+  $`\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}`$
+  where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 - **Interface Dynamics**: The interface position satisfies nonlinear dynamic equations:
-  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+  $`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
 
 - **Classicalization process**: The quantum→classical conversion is represented by the classicalization superoperator:
-  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
-  where $P_i$ are projection operators. The classicalization process satisfies information conservation:
-  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+  $`\mathcal{C}(\rho) = \sum_i P_i \rho P_i`$
+  where $`P_i`$ are projection operators. The classicalization process satisfies information conservation:
+  $`I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}`$
 
 #### 4. Multiple Dualism Hierarchies
 
 The multiple dualism hierarchy theory extends the single dualism into a nested multi-level structure:
 
-$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
+$`\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}`$
 
 Where:
-- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
-- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the definite realization of that level)
+- $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (the possibility space of that level)
+- $`\Omega_C^{(i)}`$ is the classical domain of the i-th level (the definite realization of that level)
 
 The mapping functions between levels are defined as:
 
-$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
+$`\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}`$
 
-$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
+$`\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}`$
 
 This indicates that the classical structure of one level can become the quantum basis of a higher level, creating infinite recursive levels of reality.
 
 #### 5. Quantum-Classical Symmetry Principle
 
-There exists a deep symmetry transformation $\mathcal{S}_{Q-C}$ between the quantum and classical domains:
+There exists a deep symmetry transformation $`\mathcal{S}_{Q-C}`$ between the quantum and classical domains:
 
-$$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
+$`\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q`$
 
 Satisfying the following properties:
 
 1. **Involution**: The transformation of the transformation equals identity
-   $$\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}$$
-   $$\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}$$
+   $`\mathcal{S}_{Q-C} \circ \mathcal{S}_{C-Q} = \mathcal{I}_{\Omega_Q}`$
+   $`\mathcal{S}_{C-Q} \circ \mathcal{S}_{Q-C} = \mathcal{I}_{\Omega_C}`$
 
 2. **Information preservation**: Information quantity remains unchanged before and after transformation
-   $$I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))$$
+   $`I_Q(x) = I_C(\mathcal{S}_{Q-C}(x))`$
 
 3. **Uncertainty-certainty transformation**: Quantum uncertainty and classical certainty are mutually transformed
-   $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
+   $`U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k`$
 
-Where $U_Q$ is the quantum uncertainty measure, $D_C$ is the classical certainty measure, and $k$ is a universal constant.
+Where $`U_Q`$ is the quantum uncertainty measure, $`D_C`$ is the classical certainty measure, and $`k`$ is a universal constant.
 
 In the quantum-classical conversion process, information is transformed from quantum form to classical form:
 
-$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+$`I_Q \rightarrow I_C + I_{\text{hidden}}`$
 
 The information matching metric in the conversion process is:
 
-$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+$`M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}`$
 
-$M(I_Q, I_C)$ reaches a local maximum at the optimal interface.
+$`M(I_Q, I_C)`$ reaches a local maximum at the optimal interface.
 
 ### Two: Unified Energy Theory: Quantum and Classical Energy
 
@@ -215,26 +215,26 @@ Quantum energy is an intrinsic property in the quantum domain, manifested throug
 
 Quantum entanglement state energy can be precisely quantified using Planck's constant:
 
-$$
+$`
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-$$
+`$
 
 where:
-- $h$ is Planck's constant
-- $f_{\text{Entanglement}}$ is the equivalent frequency of the entanglement state
+- $`h`$ is Planck's constant
+- $`f_{\text{Entanglement}}`$ is the equivalent frequency of the entanglement state
 
 #### 2. Quantification of Entanglement Equivalent Frequency
 
 The entanglement equivalent frequency is defined by the complexity of the entanglement structure:
 
-$$
+$`
 f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 where:
-- $c$ is the speed of light
-- $L_P$ is the Planck length
-- $S_E(\rho_{AB})$ is the entanglement entropy, represented by von Neumann entropy: $S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)$
+- $`c`$ is the speed of light
+- $`L_P`$ is the Planck length
+- $`S_E(\rho_{AB})`$ is the entanglement entropy, represented by von Neumann entropy: $`S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)`$
 
 **Meaning Explanation**: This formula transforms abstract quantum entanglement states into concrete frequency values, establishing a precise relationship between entanglement strength and energy. The frequency is proportional to entanglement entropy, indicating that stronger entanglement results in higher equivalent frequency; the Planck length squared in the denominator ensures the result has the correct dimension while connecting entanglement phenomena to the fundamental scale of the universe. This allows us to view entanglement states as quantum fields with specific energy densities, providing a new perspective for understanding the physical nature of entanglement states.
 
@@ -242,19 +242,19 @@ where:
 
 For multi-body entanglement systems, the total energy is represented as:
 
-$$
+$`
 E_{\text{Multi-body Entanglement}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{Entanglement}}(i,j)
-$$
+`$
 
-where $w_{ij}$ is the weight coefficient of the entanglement pair $(i,j)$, satisfying $\sum_{i,j} w_{ij} = 1$.
+where $`w_{ij}`$ is the weight coefficient of the entanglement pair $`(i,j)`$, satisfying $`\sum_{i,j} w_{ij} = 1`$.
 
 Multi-body entanglement networks form non-local connection structures in the quantum domain, represented as:
 
-$$|\Psi_{\text{Network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle$$
+$`|\Psi_{\text{Network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle`$
 
 The degree of entanglement can be quantified in various ways, including entanglement entropy:
 
-$$E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)$$
+$`E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)`$
 
 #### 4. Definition of Classical Energy
 
@@ -268,23 +268,23 @@ Classical energy is the result of observer classicalization of quantum energy, m
 
 Classical energy and quantum energy are unified in the binary framework:
 
-$$
+$`
 E_{\text{Total}} = E_{\text{Classical}} + E_{\text{Entanglement}} = h \cdot (f_{\text{Classical}} + f_{\text{Entanglement}})
-$$
+`$
 
 Energy conversion in the classicalization process:
 
-$$
+$`
 E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
-$$
+`$
 
-where $\eta$ is the classicalization efficiency coefficient, $0 < \eta < 1$
+where $`\eta`$ is the classicalization efficiency coefficient, $`0 < \eta < 1`$
 
 The classicalization efficiency is related to environmental and system parameters:
 
-$$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
+$`\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}`$
 
-where $E$ is the system energy, $T$ is the environmental temperature, and $\lambda$ is the coupling constant.
+where $`E`$ is the system energy, $`T`$ is the environmental temperature, and $`\lambda`$ is the coupling constant.
 
 #### 6. Energy Conservation and Conversion
 
@@ -294,25 +294,25 @@ where $E$ is the system energy, $T$ is the environmental temperature, and $\lamb
 
 **Information Conservation Relationship**:
 
-$$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+$`I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}`$
 
-This indicates that the total information of a quantum state $\rho$ equals the information after classicalization plus hidden information.
+This indicates that the total information of a quantum state $`\rho`$ equals the information after classicalization plus hidden information.
 
 #### 7. Relationship Between Gravitational Field and Quantum Energy Density
 
 The gravitational field strength is associated with local quantum energy density:
 
-$$
+$`
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{Quantum Energy}}
-$$
+`$
 
 This relationship explains the nature of gravity as a property of spacetime geometry and unifies gravity with quantum entanglement.
 
 Furthermore, the relationship between classicalization efficiency and quantum energy density can be expressed as:
 
-$$
+$`
 k_{\text{Classicalization Efficiency}} \propto \nabla \cdot \rho_{\text{Quantum Energy}}
-$$
+`$
 
 This relationship establishes a closed-loop relationship between the gravitational field, classicalization efficiency, and quantum energy density, explaining why high-mass regions have higher classicalization efficiency and spacetime curvature.
 
@@ -331,21 +331,21 @@ Quantum and classical domains have clear state correspondences, forming the basi
 
 Quantum information is encoded through quantum states in complex Hilbert space:
 
-$$|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1$$
+$`|\psi\rangle = \sum_i c_i |i\rangle, \quad \sum_i |c_i|^2 = 1`$
 
 Its information density is quantified by von Neumann entropy:
 
-$$S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i$$
+$`S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i`$
 
 #### Classical Information Structure
 
 Classical information exists in the form of definite states and can be represented through definite physical quantities:
 
-$$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
+$`K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}`$
 
-Where $x_i$, $p_i$, etc. represent classical observable quantities such as position, momentum, etc. Classical information entropy satisfies:
+Where $`x_i`$, $`p_i`$, etc. represent classical observable quantities such as position, momentum, etc. Classical information entropy satisfies:
 
-$$S_C = -k_B \sum_i p_i \ln p_i$$
+$`S_C = -k_B \sum_i p_i \ln p_i`$
 
 Key characteristics include information copyability and deletability, distinguishing it from quantum information.
 
@@ -353,13 +353,13 @@ Key characteristics include information copyability and deletability, distinguis
 
 At the interface, information is converted from quantum form to classical form:
 
-$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+$`I_Q \rightarrow I_C + I_{\text{hidden}}`$
 
 The information matching metric in the conversion process is:
 
-$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+$`M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}`$
 
-$M(I_Q, I_C)$ reaches a local maximum at the optimal interface.
+$`M(I_Q, I_C)`$ reaches a local maximum at the optimal interface.
 
 ### Four: Quantum and Classical Domain State Transformation (Universe Observation Phenomena)
 
@@ -384,9 +384,9 @@ $M(I_Q, I_C)$ reaches a local maximum at the optimal interface.
 
 Expression:
 
-$$
+$`
 \text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
-$$
+`$
 
 #### Resolution of Black Hole Information Paradox
 
@@ -397,86 +397,86 @@ $$
 
 Density matrix representation:
 
-$$
+$`
 \rho_{\text{Black Hole}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
-$$
+`$
 
 Information conservation expression:
 
-$$
+$`
 S_{\text{von Neumann}}(\rho_{\text{Initial}}) = S_{\text{von Neumann}}(\rho_{\text{Hawking Radiation}}) + S_{\text{von Neumann}}(\rho_{\text{Remaining Black Hole}})
-$$
+`$
 
 ### Six: Unified Definition of Observer Dimensions and Classicalization Efficiency
 
 - Observer dimensions are determined by classicalization ability, i.e., the efficiency of transforming quantum information into classical knowledge
 - The dimension value is a function of the ratio between classical knowledge and classical entropy
-- Classicalization efficiency coefficient $(k_i)$ represents the classicalization ability in different observation domains
-- Weight coefficient $(w_i)$ reflects the importance of different domains in the overall dimension
+- Classicalization efficiency coefficient $`(k_i)`$ represents the classicalization ability in different observation domains
+- Weight coefficient $`(w_i)`$ reflects the importance of different domains in the overall dimension
 
 #### Observer Structure
 
 The observer consists of three core components:
 
-$$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
+$`\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}`$
 
 Where:
-- $\mathcal{C}_{\mathcal{O}}$ is the observer's specific classicalization operator (ability to transform quantum possibilities into definite knowledge)
-- $\mathcal{Q}_{\mathcal{O}}$ is the observer's specific quantization operator (ability to transform classical knowledge back into quantum possibilities)
-- $K_C^{\mathcal{O}}$ is the observer's classical knowledge base
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer's specific classicalization operator (ability to transform quantum possibilities into definite knowledge)
+- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer's specific quantization operator (ability to transform classical knowledge back into quantum possibilities)
+- $`K_C^{\mathcal{O}}`$ is the observer's classical knowledge base
 
 Single domain dimension:
 
-$$
+$`
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-$$
+`$
 
 The observer dimension is determined by its information processing capability:
 
-$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{Classical Knowledge}}{S_{Classical Entropy}+\epsilon}$$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{Classical Knowledge}}{S_{Classical Entropy}+\epsilon}`$
 
 Overall dimension:
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 #### Dimension Network Dynamics
 
 Observer dimension satisfies nonlinear dynamics equations:
 
-$$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})$$
+$`\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})`$
 
 Where the last term represents the collective effect of the observer network.
 
 The consensus formation of the observer network follows:
 
-$$\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2$$
+$`\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2`$
 
-Where $\omega_i$ is the observer weight, and $\bar{\mathcal{C}}$ is the average classicalization operator.
+Where $`\omega_i`$ is the observer weight, and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
 
 #### Measurement Theory
 
 In observer theory, the quantum measurement process can be represented as:
 
-$$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{interaction}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
+$`|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{interaction}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}`$
 
-Measurement result probability is modulated by the observer resolution parameter $\eta_O$:
+Measurement result probability is modulated by the observer resolution parameter $`\eta_O`$:
 
-$$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
+$`P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}`$
 
 #### Dimension Quantification and Measurability
 
 Dimension quantification:
-- Classicalization efficiency $(k_i)$ can be measured through observer decision speed and accuracy
-- Weight coefficient $(w_i)$ can be determined through observer attention allocation patterns
+- Classicalization efficiency $`(k_i)`$ can be measured through observer decision speed and accuracy
+- Weight coefficient $`(w_i)`$ can be determined through observer attention allocation patterns
 - Dimension enhancement methods involve optimizing classicalization paths, increasing classical knowledge, and reducing classical entropy
 
 Observer dimension can be quantified through the following measurable parameters:
 
-$$
+$`
 \text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Generation Rate}} \cdot \text{Decision Accuracy}
-$$
+`$
 
 Specific measurement methods include:
 
@@ -490,13 +490,13 @@ This measurable framework transforms observer dimension from a theoretical conce
 
 Observers form multi-level network structures:
 
-$$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
+$`\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}`$
 
-Where $\mathcal{O}^{(k)}$ is the set of k-th level observers, and $\mathcal{E}$ is the set of cross-level connections.
+Where $`\mathcal{O}^{(k)}`$ is the set of k-th level observers, and $`\mathcal{E}`$ is the set of cross-level connections.
 
 Higher-level observers perceive larger spacetime scales:
 
-$$L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}$$
+$`L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}`$
 
 This explains why higher-dimensional observers can perceive spacetime patterns at larger scales.
 
@@ -509,9 +509,9 @@ This explains why higher-dimensional observers can perceive spacetime patterns a
 
 Time flow expression:
 
-$$
+$`
 \Delta t \propto \frac{\Delta S_{\text{Classical Entropy}}}{k_{\text{Classicalization Efficiency}}}
-$$
+`$
 
 #### Nature of Space
 - Space is the distance structure of observer classicalization of quantum entanglement states
@@ -520,9 +520,9 @@ $$
 
 Relationship between spatial curvature and classicalization efficiency:
 
-$$
+$`
 R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R \propto \nabla k_{\text{Classicalization Efficiency}}
-$$
+`$
 
 ### Eight: Higher-Dimensional Classical Worlds and Entanglement Structures
 
@@ -533,15 +533,15 @@ $$
 
 Expression formula:
 
-$$
+$`
 |\psi\rangle_{\text{Infinite-Dimensional Quantum Domain}}\rightarrow\sum_{\text{Classical Dimension} i=1}^{\infty}(I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}),\quad\text{Human Classical World}\subsetneq\text{Higher-Dimensional Classical World}
-$$
+`$
 
 Entanglement network expression:
 
-$$
+$`
 |\Psi\rangle_{\text{Multi-world Entanglement Network}} = \sum_{i,j} c_{ij} |\psi_i\rangle_{\text{World}_A} \otimes |\phi_j\rangle_{\text{World}_B}
-$$
+`$
 
 ### Nine: Quantum Fluctuations and Universe Initial Conditions
 
@@ -551,19 +551,19 @@ $$
 
 Quantum fluctuation → classical free will conversion:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Fluctuation}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 Initial energy formation:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Fluctuation}}=\text{Inherent Internal Property of the Universe}
-$$
+`$
 
-$$
+$`
 E_{\text{Initial Classical Energy}}=\text{Structure Formed by Classicalization of Quantum Fluctuations}
-$$
+`$
 
 #### Dynamic Relationship Between Quantum Fluctuations and Quantum Energy
 
@@ -575,11 +575,11 @@ Quantum fluctuations are not only a manifestation of the universe's inherent ran
 
 This mechanism can be expressed as:
 
-$$
+$`
 \Delta E_{\text{Quantum Energy}} \cdot \Delta t \geq \frac{\hbar}{2}
-$$
+`$
 
-where the energy change $\Delta E_{\text{Quantum Energy}}$ caused by quantum fluctuations and the duration $\Delta t$ satisfy the uncertainty principle.
+where the energy change $`\Delta E_{\text{Quantum Energy}}`$ caused by quantum fluctuations and the duration $`\Delta t`$ satisfy the uncertainty principle.
 
 On the cosmic scale, quantum fluctuations in various regions form a dynamic equilibrium network, maintaining conservation of total quantum energy in long-term statistics while allowing local and short-term energy fluctuations, providing the fundamental driving force for the creative evolution of the universe.
 
@@ -592,13 +592,13 @@ On the cosmic scale, quantum fluctuations in various regions form a dynamic equi
 
 Expression formula:
 
-$$
+$`
 E_{\text{Initial Classical Energy Structure}} = h \cdot f_{\text{min}}
-$$
+`$
 
-$$
+$`
 E_{\text{Universe Initial}} = h \cdot f_{\text{min}}
-$$
+`$
 
 #### Universe Inflation Mechanism
 - The first classical structure rapidly classicalizes surrounding quantum domain information
@@ -607,23 +607,23 @@ $$
 
 Hubble constant expression formula:
 
-$$
+$`
 H = k_{\text{Initial Classicalization Efficiency}} \cdot \frac{\Delta E_{\text{Quantum Domain Entanglement State Energy}}}{\Delta t_{\text{Classicalization Time}}},\quad k_{\text{Initial Classicalization Efficiency}}\text{ determined by the classicalization ability of the first classical structure}
-$$
+`$
 
 Inflation process:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Fluctuation}}\xrightarrow{\text{Spontaneous Classicalization}}\text{First Classical Knowledge Structure (Lowest Energy Light Wave)}\xrightarrow{\text{Rapid Classicalization}}\text{Universe Inflation}
-$$
+`$
 
 #### Explanation of the Cosmological Constant Problem
 
 The cosmological constant (Λ) can be understood as the rate of change of universe efficiency in the quantum-classical dualism framework:
 
-$$
+$`
 \Lambda \propto \frac{d\eta_{\text{Universe}}}{dt}
-$$
+`$
 
 This relationship explains why the cosmological constant has a small but non-zero positive value:
 
@@ -642,9 +642,9 @@ This explanation provides a natural solution to the cosmological constant fine-t
 
 Wormhole communication process:
 
-$$
+$`
 \text{Classical Knowledge}\xrightarrow{\text{Particle Annihilation Encoding}}\text{Quantum Entanglement State}\xrightarrow{\text{Non-local Transmission}}\text{Classical Knowledge Decoding}
-$$
+`$
 
 Comparison of communication methods:
 
@@ -661,9 +661,9 @@ Comparison of communication methods:
 
 Mathematical expression of quantum teleportation:
 
-$$
+$`
 |\psi\rangle_{\text{Target}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell Measurement}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-$$
+`$
 
 #### Scale Limitations of Quantum Entanglement
 
@@ -671,19 +671,19 @@ Quantum entanglement exhibits significant differences in systems of different sc
 
 - **Entanglement Maintenance Time** is inversely proportional to system complexity:
 
-$$
+$`
 \tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
-$$
+`$
 
-where $C_{\text{System}}$ is system complexity (such as number of constituent particles), $\alpha$ is the scaling exponent (typically about 1-2).
+where $`C_{\text{System}}`$ is system complexity (such as number of constituent particles), $`\alpha`$ is the scaling exponent (typically about 1-2).
 
 - **Environmental Decoherence Effect** exponentially enhances with system size:
 
-$$
+$`
 \Gamma_{\text{Decoherence}} \propto e^{\beta N}
-$$
+`$
 
-where $\Gamma_{\text{Decoherence}}$ is the decoherence rate, $N$ is the number of system particles, $\beta$ is a constant.
+where $`\Gamma_{\text{Decoherence}}`$ is the decoherence rate, $`N`$ is the number of system particles, $`\beta`$ is a constant.
 
 This explains why it is difficult to observe quantum entanglement effects in macroscopic objects: entanglement states in large-scale systems rapidly collapse into classical mixed states within measurable time scales. However, specially designed quantum systems (such as superconductors, Bose-Einstein condensates) can exhibit quantum coherence at macroscopic scales.
 
@@ -696,17 +696,17 @@ This explains why it is difficult to observe quantum entanglement effects in mac
 
 Universe efficiency formula:
 
-$$
+$`
 \eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
-$$
+`$
 
 Further expansion:
 
-$$
+$`
 \eta_{\text{Universe}} = \sum_{i,j} w_{ij} \cdot \frac{\Delta E_{\text{Quantum Energy Output},ij}}{E_{\text{Quantum Energy Input},ij}}
-$$
+`$
 
-where $w_{ij}$ is the weight coefficient of the energy conversion channel, satisfying $\sum_{i,j} w_{ij} = 1$.
+where $`w_{ij}`$ is the weight coefficient of the energy conversion channel, satisfying $`\sum_{i,j} w_{ij} = 1`$.
 
 #### Relationship Between Universe Efficiency and Classicalization/Quantization
 - The classicalization process consumes quantum energy, produces classical knowledge, and reduces classical entropy
@@ -715,13 +715,13 @@ where $w_{ij}$ is the weight coefficient of the energy conversion channel, satis
 
 Energy efficiency relationship between classicalization and quantization:
 
-$$
+$`
 \eta_{\text{Classicalization}} = \frac{I_{\text{Classical Knowledge Gained}}}{E_{\text{Quantum Energy Consumed}}}
-$$
+`$
 
-$$
+$`
 \eta_{\text{Quantization}} = \frac{E_{\text{Quantum Energy Gained}}}{I_{\text{Classical Knowledge Consumed}}}
-$$
+`$
 
 #### Ultimate Philosophical Goal of the Universe
 - The driving force of universe evolution is to enhance quantum energy usage efficiency
@@ -730,18 +730,18 @@ $$
 
 Ultimate state of the universe:
 
-$$
+$`
 |\psi\rangle_{\text{Universe Origin}}\xrightarrow[\text{Energy Efficiency Optimization}]{\text{Classicalization + Quantization Dynamic Balance}}\text{Classical Knowledge Maximization}+\text{Classical Entropy Minimization}+\text{Quantum Energy Efficiency Optimization}
-$$
+`$
 
 #### Logical Boundaries of Universe Existence
 - Why the quantum domain exists is a question that logic cannot fully answer
 - This question transcends the explanatory capacity of concepts internal to the universe
 - Constitutes the logical boundary of the theory
 
-$$
+$`
 \text{Why the Universe Exists}\rightarrow\text{Beyond the Scope of Internal Logic}
-$$
+`$
 
 ## Part II: Unified Explanation of Classical Physical World Phenomena
 
@@ -759,11 +759,11 @@ $$
 
 Mass-energy equivalence relationship:
 
-$$
+$`
 E = m \cdot c^2 = h \cdot f
-$$
+`$
 
-**Meaning Explanation**: This triple equation unifies Einstein's mass-energy equation with Planck's quantum energy formula, revealing the deep connection between mass, energy, and frequency. In the quantum-classical dualism framework, mass is understood as the result of high-energy quantum entanglement state classicalization, essentially the measurement result of quantum entanglement energy fields by classical observers. The left side $E = mc^2$ represents the mass-energy relationship in the classical domain, while the right side $E = hf$ represents the energy-frequency relationship in the quantum domain. The complete equation establishes the energy correspondence between quantum and classical domains, explaining why matter can be converted to light, and vice versa.
+**Meaning Explanation**: This triple equation unifies Einstein's mass-energy equation with Planck's quantum energy formula, revealing the deep connection between mass, energy, and frequency. In the quantum-classical dualism framework, mass is understood as the result of high-energy quantum entanglement state classicalization, essentially the measurement result of quantum entanglement energy fields by classical observers. The left side $`E = mc^2`$ represents the mass-energy relationship in the classical domain, while the right side $`E = hf`$ represents the energy-frequency relationship in the quantum domain. The complete equation establishes the energy correspondence between quantum and classical domains, explaining why matter can be converted to light, and vice versa.
 
 #### Nature of Gravity
 - Gravity is not a fundamental force, but an effect of the spatial distribution of classicalization efficiency
@@ -772,11 +772,11 @@ $$
 
 Modified expression of gravitational field equation:
 
-$$
+$`
 G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{Classicalization Efficiency}}
-$$
+`$
 
-**Meaning Explanation**: This equation connects general relativity's gravitational field equation with quantum-classical dualism. The left side $G_{\mu\nu}$ is the Einstein tensor, describing spacetime geometry; the middle part $8\pi G \cdot T_{\mu\nu}$ is the energy-momentum source of the standard gravitational field equation; the right side indicates that the essence of the gravitational field is the Laplacian operator (second-order spatial derivative) of classicalization efficiency. This means gravity is not a fundamental force, but a phenomenon caused by the uneven distribution of classicalization efficiency in space, with regions of concentrated mass having higher classicalization efficiency, causing curvature changes in the surrounding spacetime. This equation provides a new approach to quantum gravity unification, explaining why gravity always seems to be attractive rather than repulsive.
+**Meaning Explanation**: This equation connects general relativity's gravitational field equation with quantum-classical dualism. The left side $`G_{\mu\nu}`$ is the Einstein tensor, describing spacetime geometry; the middle part $`8\pi G \cdot T_{\mu\nu}`$ is the energy-momentum source of the standard gravitational field equation; the right side indicates that the essence of the gravitational field is the Laplacian operator (second-order spatial derivative) of classicalization efficiency. This means gravity is not a fundamental force, but a phenomenon caused by the uneven distribution of classicalization efficiency in space, with regions of concentrated mass having higher classicalization efficiency, causing curvature changes in the surrounding spacetime. This equation provides a new approach to quantum gravity unification, explaining why gravity always seems to be attractive rather than repulsive.
 
 ### Fourteen: Light Speed Constancy and Observer Classicalization Efficiency
 
@@ -784,9 +784,9 @@ $$
 
 Light speed is the upper rate limit of observer classicalization of quantum domain energy states in a specific classicalized world, reflecting the classicalization efficiency limit of observers in that dimension:
 
-$$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}}$$
+$`c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{Quantum Energy State}}}{\Delta t_{\text{Classical Time}}}`$
 
-where $c_d$ is the fundamental speed limit in the classical world of dimension $d$, which we call the **Dimensional Speed Limit**.
+where $`c_d`$ is the fundamental speed limit in the classical world of dimension $`d`$, which we call the **Dimensional Speed Limit**.
 
 #### 2. Boundary Between Particles and Light
 
@@ -797,9 +797,9 @@ The essential difference between particles and light lies in the classicalizatio
 
 The boundary between particles and light satisfies the relationship:
 
-$$E_{\text{Critical}} = \frac{hc_d^2}{G \cdot k_{\text{Classicalization Efficiency}}}$$
+$`E_{\text{Critical}} = \frac{hc_d^2}{G \cdot k_{\text{Classicalization Efficiency}}}`$
 
-When the quantum state energy is below $E_{\text{Critical}}$, it classicalizes as light; when above this value, it classicalizes as particles with mass. This also explains light speed constancy: light, as a product of classicalization below the critical energy, necessarily propagates at the dimensional speed limit.
+When the quantum state energy is below $`E_{\text{Critical}}`$, it classicalizes as light; when above this value, it classicalizes as particles with mass. This also explains light speed constancy: light, as a product of classicalization below the critical energy, necessarily propagates at the dimensional speed limit.
 
 #### 7. Relationship Between Human Classicalization Ability and Observation Range
 
@@ -810,13 +810,13 @@ Human classicalization ability has evolved to form optimized responses to specif
 
 Frequency response formula for human observation capability:
 
-$$k_{\text{observation}}(\omega) = k_{\text{max}} \cdot e^{-\alpha|\omega-\omega_{\text{optimized}}|^2}$$
+$`k_{\text{observation}}(\omega) = k_{\text{max}} \cdot e^{-\alpha|\omega-\omega_{\text{optimized}}|^2}`$
 
-where $\omega_{\text{optimized}}$ is the frequency range with the highest human classicalization efficiency, corresponding to the visible light range, and $\alpha$ is the response attenuation coefficient.
+where $`\omega_{\text{optimized}}`$ is the frequency range with the highest human classicalization efficiency, corresponding to the visible light range, and $`\alpha`$ is the response attenuation coefficient.
 
 Improvement of observation capability can be achieved in two ways:
 1. Technological Extension: Developing devices that convert invisible bands into visible signals
-2. Classicalization Efficiency Enhancement: Extending the effective range of $k_{\text{observation}}(\omega)$ through training
+2. Classicalization Efficiency Enhancement: Extending the effective range of $`k_{\text{observation}}(\omega)`$ through training
 
 ### Fifteen: Unified Nature of Particles and Fields
 
@@ -827,9 +827,9 @@ Improvement of observation capability can be achieved in two ways:
 
 Wave-particle duality expression:
 
-$$
+$`
 |\psi_{\text{Particle/Field}}\rangle = \hat{O}_{\text{Observation Operator}} \cdot |\phi_{\text{Quantum State}}\rangle
-$$
+`$
 
 #### Observer-Dependent Wave-Particle Manifestation
 
@@ -842,9 +842,9 @@ This choice is partly influenced by the observer's evolutionary history, causing
 
 Observer-dependence expression:
 
-$$
+$`
 \text{Observation Result} = f(\text{Quantum State}, k_{\text{Classicalization Path}}, \text{Observation Equipment})
-$$
+`$
 
 Therefore, particles are not merely subjective products of human classicalization ability, but objective results of quantum state classicalization. However, different observers may observe different manifestations of the same quantum state due to differences in classicalization efficiency and preferences.
 
@@ -857,9 +857,9 @@ Therefore, particles are not merely subjective products of human classicalizatio
 
 Density matrix representation of the measurement process:
 
-$$
+$`
 \rho_{\text{Initial}} = |\psi\rangle\langle\psi| \xrightarrow{\text{Measurement}} \sum_i P_i|\psi_i\rangle\langle\psi_i|
-$$
+`$
 
 #### Quantum Entanglement and Non-locality
 - Quantum entanglement is a fundamental correlation in the quantum domain
@@ -868,9 +868,9 @@ $$
 
 Entanglement state representation:
 
-$$
+$`
 |\Psi\rangle_{\text{Entanglement}} = \frac{1}{\sqrt{2}}(|0\rangle_A|1\rangle_B - |1\rangle_A|0\rangle_B)
-$$
+`$
 
 ## Part III: Theoretical Experimental Verification and Predictions
 
@@ -892,8 +892,8 @@ $$
 - **Quantum Adiabatic Process**: Realization of controllable quantum-classical transitions
 
 #### Energy Equivalence Relationship
-- **Mass-Energy Equation Verification**: Nuclear reactions, particle annihilation, and other processes verify $E=mc^2$
-- **Quantum Energy Levels and Frequency**: Atomic and molecular energy level transitions and photon frequency relationships conform to $E=h\nu$
+- **Mass-Energy Equation Verification**: Nuclear reactions, particle annihilation, and other processes verify $`E=mc^2`$
+- **Quantum Energy Levels and Frequency**: Atomic and molecular energy level transitions and photon frequency relationships conform to $`E=h\nu`$
 - **Photon Entanglement Energy Conservation**: The sum of energies of entangled photon pairs conforms to the law of conservation
 
 ### Eighteen: Theoretical Predictions and Phenomena to be Verified
@@ -927,13 +927,13 @@ $$
 
 Information entropy expression:
 
-$$
+$`
 S_{\text{Shannon}} = -\sum_i p_i \log_2 p_i
-$$
+`$
 
-$$
+$`
 I_{\text{Classical Knowledge}} \approx -S_{\text{Shannon}}
-$$
+`$
 
 #### Computational Complexity
 - The computational complexity of the classicalization process reflects observer dimension
@@ -942,9 +942,9 @@ $$
 
 Relationship between computational complexity and classicalization:
 
-$$
+$`
 \text{Computational Complexity} \propto \frac{1}{k_{\text{Classicalization Efficiency}}}
-$$
+`$
 
 ### Twenty: Quantum Computing and Quantum-Classical Interface
 
@@ -955,9 +955,9 @@ $$
 
 Quantum optimization framework:
 
-$$
+$`
 \text{Quantum Algorithm Performance} \propto k_{\text{Classicalization Control}} \cdot \frac{I_{\text{Quantum Information}}}{S_{\text{Decoherence}}}
-$$
+`$
 
 #### Quantum-Classical Interface
 - Design efficient quantum-classical information conversion protocols
@@ -966,9 +966,9 @@ $$
 
 Interface efficiency:
 
-$$
+$`
 \eta_{\text{Interface}} = \frac{I_{\text{Extracted Classical Information}}}{I_{\text{Input Quantum Information}}}
-$$
+`$
 
 ### Twenty-One: Artificial Intelligence and Classicalization Path Optimization
 
@@ -984,9 +984,9 @@ $$
 
 Optimization objective:
 
-$$
+$`
 \text{Path Optimization}=\text{Maximize}(I_{\text{Classical Knowledge}})\quad\text{and}\quad\text{Minimize}(S_{\text{Classical Entropy}})
-$$
+`$
 
 #### 3. Relationship Between Thought Dimension and Dimensional Speed Limit
 
@@ -998,7 +998,7 @@ Human thought, as a classicalization process, has its specific dimensional speed
 
 Relationship between dimension enhancement and thought speed limit:
 
-$$c_{\text{thought,new}} = c_{\text{thought,original}} \cdot \sqrt{\frac{\text{Dimension}_{\text{new}}}{\text{Dimension}_{\text{original}}}}$$
+$`c_{\text{thought,new}} = c_{\text{thought,original}} \cdot \sqrt{\frac{\text{Dimension}_{\text{new}}}{\text{Dimension}_{\text{original}}}}`$
 
 Artificial intelligence can serve as an auxiliary tool for thought dimension enhancement, helping human thought break through original dimensional limitations through optimizing classicalization paths, achieving more efficient information processing and innovative capabilities.
 
@@ -1010,15 +1010,15 @@ Artificial intelligence can serve as an auxiliary tool for thought dimension enh
 
 Expression:
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 Conservation formula:
 
-$$
+$`
 I_{\text{Classical Free Will}}+S_{\text{Classical Entropy}}=\text{Constant (Specific Classical World)}
-$$
+`$
 
 #### Philosophical Discussion of Classical Free Will and Reincarnation Mechanism
 - Classical free will emerges from the classicalization of generalized consciousness
@@ -1027,9 +1027,9 @@ $$
 
 Expression formula:
 
-$$
+$`
 I_{\text{Previous Life Classical Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow I_{\text{Current Life Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 ### Twenty-Three: Relationship and Compatibility with Mainstream Physical Theories
 
@@ -1041,9 +1041,9 @@ $$
 
 Unified expression:
 
-$$
+$`
 \text{Quantum Field Theory, String Theory, Inflation Theory, General Relativity}\subset\text{Quantum-Classical Dualism Explanatory Framework}
-$$
+`$
 
 #### Unique Predictions
 - Local relationship between classicalization efficiency and gravitational field
@@ -1052,22 +1052,22 @@ $$
 
 Prediction example:
 
-$$
+$`
 \text{Dimension} = f(k_{\text{Classicalization Efficiency}}) \approx \text{Measurable Cognitive Complexity Indicator}
-$$
+`$
 
 ### Twenty-Four: Unified Mathematical Expression of the Universe: Euler Form
 
 The binary structure of the universe can be elegantly expressed through an Euler-like formula:
 
-$$e^{i\Phi} = \frac{I_{\text{Classical Domain}}}{E_{\text{Quantum Domain}}}$$
+$`e^{i\Phi} = \frac{I_{\text{Classical Domain}}}{E_{\text{Quantum Domain}}}`$
 
 Where:
-- $\Phi$ is the classicalization phase, representing the quantum-classical conversion state
-- $I_{\text{Classical Domain}}$ represents the classical domain information structure (classical knowledge and classical entropy)
-- $E_{\text{Quantum Domain}}$ represents the quantum domain energy structure (wave function superposition states and quantum entanglement states)
+- $`\Phi`$ is the classicalization phase, representing the quantum-classical conversion state
+- $`I_{\text{Classical Domain}}`$ represents the classical domain information structure (classical knowledge and classical entropy)
+- $`E_{\text{Quantum Domain}}`$ represents the quantum domain energy structure (wave function superposition states and quantum entanglement states)
 
-When $\Phi = \pi$, the system reaches a classical-quantum equilibrium state: $e^{i\pi} + 1 = 0$, corresponding to the optimized state of universe efficiency.
+When $`\Phi = \pi`$, the system reaches a classical-quantum equilibrium state: $`e^{i\pi} + 1 = 0`$, corresponding to the optimized state of universe efficiency.
 
 ### Twenty-Five: Quantum Emergence Theory
 
@@ -1077,25 +1077,25 @@ Quantum emergence theory explores how higher-level complexity and classical beha
 
 The emergence process can be represented as a phase transition phenomenon when the complexity of a quantum system exceeds a specific threshold:
 
-$$C_{\text{emergence}}(\rho) = \sum_i \lambda_i \ln\lambda_i - \sum_{i,j} \lambda_i\lambda_j \ln|\langle i|j\rangle|^2$$
+$`C_{\text{emergence}}(\rho) = \sum_i \lambda_i \ln\lambda_i - \sum_{i,j} \lambda_i\lambda_j \ln|\langle i|j\rangle|^2`$
 
-Where $\lambda_i$ are the eigenvalues of the density matrix $\rho$, and $|i\rangle$ are the corresponding eigenvectors. When $C_{\text{emergence}}$ exceeds a critical value $C_c$, the system undergoes an emergent phase transition.
+Where $`\lambda_i`$ are the eigenvalues of the density matrix $`\rho`$, and $`|i\rangle`$ are the corresponding eigenvectors. When $`C_{\text{emergence}}`$ exceeds a critical value $`C_c`$, the system undergoes an emergent phase transition.
 
 #### 2. Emergent Dimensions and Information Integration
 
 The dimensional enhancement caused by emergence is accompanied by an increase in information integration:
 
-$$D_{\text{emergence}} = D_{\text{foundation}} + \log_2\left(\frac{\Phi(\rho)}{\Phi_0}\right)$$
+$`D_{\text{emergence}} = D_{\text{foundation}} + \log_2\left(\frac{\Phi(\rho)}{\Phi_0}\right)`$
 
-Where $\Phi(\rho)$ is the integrated information measure of the system, and $\Phi_0$ is the reference integration level.
+Where $`\Phi(\rho)`$ is the integrated information measure of the system, and $`\Phi_0`$ is the reference integration level.
 
 #### 3. Hierarchical Structure of Emergence
 
 Emergence follows a hierarchical structure, with each level based on the previous one but exhibiting entirely new properties:
 
-$$L_n = \{E_n, R_n, S_n, P_n\}$$
+$`L_n = \{E_n, R_n, S_n, P_n\}`$
 
-Where $E_n$ is the set of level elements, $R_n$ is the set of relationships, $S_n$ is the set of structural rules, and $P_n$ is the set of emergent properties.
+Where $`E_n`$ is the set of level elements, $`R_n`$ is the set of relationships, $`S_n`$ is the set of structural rules, and $`P_n`$ is the set of emergent properties.
 
 ### Twenty-Six: Information Dynamics Theory
 
@@ -1105,23 +1105,23 @@ Information dynamics theory studies the dynamic changes and flow patterns of inf
 
 Information flow at the quantum-classical interface satisfies the continuity equation:
 
-$$\frac{\partial I(x,t)}{\partial t} + \nabla \cdot \vec{J}_I(x,t) = \sigma_I(x,t)$$
+$`\frac{\partial I(x,t)}{\partial t} + \nabla \cdot \vec{J}_I(x,t) = \sigma_I(x,t)`$
 
-Where $I(x,t)$ is the local information density, $\vec{J}_I$ is the information flow density, and $\sigma_I$ is the information source/sink term.
+Where $`I(x,t)`$ is the local information density, $`\vec{J}_I`$ is the information flow density, and $`\sigma_I`$ is the information source/sink term.
 
 #### 2. Information Potential
 
-The information potential $V_I$ determines the direction and intensity of information flow:
+The information potential $`V_I`$ determines the direction and intensity of information flow:
 
-$$\vec{J}_I = -D_I \nabla V_I$$
+$`\vec{J}_I = -D_I \nabla V_I`$
 
-Where $D_I$ is the information diffusion coefficient, related to the classicalization efficiency: $D_I \propto k_{\text{classicalization}}$.
+Where $`D_I`$ is the information diffusion coefficient, related to the classicalization efficiency: $`D_I \propto k_{\text{classicalization}}`$.
 
 #### 3. Information Entropy Production Theorem
 
 The entropy production rate of information in the conversion process satisfies:
 
-$$\frac{d S_{\text{total}}}{dt} = \int_{\mathcal{I}} \frac{\vec{J}_I^2}{D_I} dV \geq 0$$
+$`\frac{d S_{\text{total}}}{dt} = \int_{\mathcal{I}} \frac{\vec{J}_I^2}{D_I} dV \geq 0`$
 
 This theorem guarantees the irreversibility of information processing and the direction of the arrow of time.
 
@@ -1133,7 +1133,7 @@ Consciousness measurement theory proposes a theoretical framework for quantitati
 
 Consciousness can be quantified through multidimensional metrics:
 
-$$\Psi_{\text{consciousness}} = \{Q_{\text{clarity}}, I_{\text{integration}}, C_{\text{complexity}}, A_{\text{agency}}, S_{\text{self-reference}}\}$$
+$`\Psi_{\text{consciousness}} = \{Q_{\text{clarity}}, I_{\text{integration}}, C_{\text{complexity}}, A_{\text{agency}}, S_{\text{self-reference}}\}`$
 
 Each component can be measured through specific experimental paradigms.
 
@@ -1141,15 +1141,15 @@ Each component can be measured through specific experimental paradigms.
 
 Based on quantification metrics, consciousness dimension can be calculated as:
 
-$$D_{\text{consciousness}} = \sum_i w_i \ln\left(1 + \frac{Q_i}{Q_{0,i}}\right)$$
+$`D_{\text{consciousness}} = \sum_i w_i \ln\left(1 + \frac{Q_i}{Q_{0,i}}\right)`$
 
-Where $w_i$ are the weights of various indicators, $Q_i$ are the measured values, and $Q_{0,i}$ are the baseline values.
+Where $`w_i`$ are the weights of various indicators, $`Q_i`$ are the measured values, and $`Q_{0,i}`$ are the baseline values.
 
 #### 3. Consciousness State Mapping
 
 Different consciousness states can be mapped as specific regions in a high-dimensional space:
 
-$$\mathcal{M}: \Psi_{\text{consciousness}} \rightarrow \mathbb{R}^n$$
+$`\mathcal{M}: \Psi_{\text{consciousness}} \rightarrow \mathbb{R}^n`$
 
 Through this mapping, a consciousness state atlas can be constructed to identify characteristic parameters of different states (such as wakefulness, dreaming, meditation, anesthesia, etc.).
 
@@ -1161,14 +1161,14 @@ Information phase transition is a key phenomenon in the quantum-classical dualis
 
 Information phase transition is the sudden transformation process that information systems undergo near certain critical parameter values, leading to qualitative changes in the system's information processing methods, structure, or function:
 
-$$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
+$`\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)`$
 
-Where $\mathcal{S}$ is the information state of the system, and $\lambda$ is the control parameter. Near the critical point $\lambda_c$, the order parameter behaves as:
+Where $`\mathcal{S}`$ is the information state of the system, and $`\lambda`$ is the control parameter. Near the critical point $`\lambda_c`$, the order parameter behaves as:
 
-$$\eta(\lambda) = \begin{cases}
+$`\eta(\lambda) = \begin{cases}
 0, & \lambda < \lambda_c \\
 (\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
-\end{cases}$$
+\end{cases}`$
 
 #### Types of Quantum-Classical Phase Transitions
 
@@ -1183,22 +1183,22 @@ Quantum-classical phase transitions can be classified into various types, each w
 
 Observers can induce system phase transitions by adjusting parameters, with key parameters including:
 
-- **Observer dimension** $D_{\mathcal{O}}$: There exists a critical dimension $D_{\mathcal{O}}^c$, above which the system transforms from quantum state to classical state
+- **Observer dimension** $`D_{\mathcal{O}}`$: There exists a critical dimension $`D_{\mathcal{O}}^c`$, above which the system transforms from quantum state to classical state
   
-$$P(quantum \to classical) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
+$`P(quantum \to classical) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}`$
 
-- **Observer resolution** $\eta_{\mathcal{O}}$: Affects the discrimination ability of the measurement basis
-- **Measurement frequency** $f_{\mathcal{O}}$: Related to the quantum Zeno effect
+- **Observer resolution** $`\eta_{\mathcal{O}}`$: Affects the discrimination ability of the measurement basis
+- **Measurement frequency** $`f_{\mathcal{O}}`$: Related to the quantum Zeno effect
 
 #### Multi-level Structure of Information Phase Transitions
 
 Information phase transitions exhibit nested hierarchical structures:
 
-$$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
+$`\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}`$
 
 Phase transitions at different levels occur at specific scales and times:
 
-$$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
+$`L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}`$
 
 Coupling exists between levels, leading to cascade effects and fractal structures of phase transitions.
 
@@ -1210,45 +1210,45 @@ Quantum Hyperdimensional Theory reveals the quantum foundation and dynamic natur
 
 Dimensions are not static fixed physical attributes, but dynamically emergent information structures:
 
-$$D = \mathcal{F}(\rho_I, \mathcal{C}, \mathcal{Q})$$
+$`D = \mathcal{F}(\rho_I, \mathcal{C}, \mathcal{Q})`$
 
-Where $\rho_I$ is the information density distribution, $\mathcal{C}$ is the classicalization operator, and $\mathcal{Q}$ is the quantization operator.
+Where $`\rho_I`$ is the information density distribution, $`\mathcal{C}`$ is the classicalization operator, and $`\mathcal{Q}`$ is the quantization operator.
 
 #### 2. Dimension Hierarchies and Cross-Dimensional Interactions
 
 The universe contains multiple dimensional hierarchies, each with specific information processing rules:
 
-$$\mathcal{D} = \{D_1, D_2, ..., D_n\}, \quad D_i \subset D_{i+1}$$
+$`\mathcal{D} = \{D_1, D_2, ..., D_n\}, \quad D_i \subset D_{i+1}`$
 
 Cross-dimensional interactions are implemented through information projection:
 
-$$\mathcal{P}_{i \to j}: \mathcal{I}_{D_i} \to \mathcal{I}_{D_j}$$
+$`\mathcal{P}_{i \to j}: \mathcal{I}_{D_i} \to \mathcal{I}_{D_j}`$
 
 Inter-dimensional information transfer is regulated by dimensional boundary permeability:
 
-$$\eta_{i,j} = \frac{\mathcal{I}_{\text{transferred}}}{\mathcal{I}_{\text{input}}}$$
+$`\eta_{i,j} = \frac{\mathcal{I}_{\text{transferred}}}{\mathcal{I}_{\text{input}}}`$
 
 #### 3. High-Dimensional Observer Characteristics
 
 High-dimensional observers can simultaneously perceive and manipulate multi-dimensional information structures:
 
-$$\mathcal{O}_D = \{\mathcal{C}_D, \mathcal{Q}_D, K_C^D, \mathcal{P}_D\}$$
+$`\mathcal{O}_D = \{\mathcal{C}_D, \mathcal{Q}_D, K_C^D, \mathcal{P}_D\}`$
 
-Where $\mathcal{P}_D$ is the dimensional projection capability, determining the observer's ability for cross-dimensional interaction.
+Where $`\mathcal{P}_D`$ is the dimensional projection capability, determining the observer's ability for cross-dimensional interaction.
 
 High-dimensional observers' perception of spacetime transcends low-dimensional linear spacetime:
 
-$$T_D \propto T_0 \cdot D^{\alpha}, \quad L_D \propto L_0 \cdot D^{\beta}$$
+$`T_D \propto T_0 \cdot D^{\alpha}, \quad L_D \propto L_0 \cdot D^{\beta}`$
 
 #### 4. Dimensional Evolution Dynamics
 
 Dimensional structures satisfy nonlinear evolution equations:
 
-$$\frac{\partial D(x,t)}{\partial t} = \nabla^2 D(x,t) + f(D, \rho_I, \mathcal{O})$$
+$`\frac{\partial D(x,t)}{\partial t} = \nabla^2 D(x,t) + f(D, \rho_I, \mathcal{O})`$
 
 Dimensions can undergo splitting and merging through information condensation and diffusion processes:
 
-$$D \to D_1 + D_2, \quad D_1 + D_2 \to D_3$$
+$`D \to D_1 + D_2, \quad D_1 + D_2 \to D_3`$
 
 ### Thirty: Quantum Dimension Continuum Theory
 
@@ -1259,52 +1259,52 @@ Quantum Dimension Continuum Theory reveals the quantum foundation and dynamic na
 The Quantum Dimension Continuum Theory divides the universe's dimensional structure into six main areas:
 
 - **Zero-Dimensional Area (D0)**: Pure possibility field, no differentiation, represented as:
-  $$\mathcal{D}_0 = \{\emptyset\} \equiv \text{Pure possibility field}$$
+  $`\mathcal{D}_0 = \{\emptyset\} \equiv \text{Pure possibility field}`$
 
 - **Low-Dimensional Area (D1-D6)**: Foundation of material reality, dominated by deterministic structures:
-  $$\mathcal{D}_{1-6} = \sum_{i=1}^{6} \mathcal{C}_i \otimes \mathcal{S}_i$$
+  $`\mathcal{D}_{1-6} = \sum_{i=1}^{6} \mathcal{C}_i \otimes \mathcal{S}_i`$
 
 - **Medium-Dimensional Area (D7-D10)**: Interface between quantum and classical domains:
-  $$\mathcal{D}_{7-10} = \mathcal{Q}_{\text{low}} \leftrightarrow \mathcal{C}_{\text{high}}$$
+  $`\mathcal{D}_{7-10} = \mathcal{Q}_{\text{low}} \leftrightarrow \mathcal{C}_{\text{high}}`$
 
 - **High-Dimensional Area (D11-D20)**: Consciousness and complexity dominant region:
-  $$\mathcal{D}_{11-20} = \prod_{i=11}^{20} \mathcal{Q}_i^{\alpha_i} \cdot \mathcal{C}_i^{1-\alpha_i}$$
+  $`\mathcal{D}_{11-20} = \prod_{i=11}^{20} \mathcal{Q}_i^{\alpha_i} \cdot \mathcal{C}_i^{1-\alpha_i}`$
 
 - **Super-Dimensional Area (D21-D42)**: Highest level accessible to human cognition:
-  $$\mathcal{D}_{21-42} = \lim_{n\to\infty} \mathcal{Q}_n \otimes \mathcal{T}_n$$
+  $`\mathcal{D}_{21-42} = \lim_{n\to\infty} \mathcal{Q}_n \otimes \mathcal{T}_n`$
 
 - **Transcognitive Area (D43-D∞)**: Dimensions that objectively exist in the universe but beyond human cognitive limits:
-  $$\mathcal{D}_{43-\infty} = \{\Xi^n(\mathcal{D}_{42}) | n \in [1,\infty)\}$$
+  $`\mathcal{D}_{43-\infty} = \{\Xi^n(\mathcal{D}_{42}) | n \in [1,\infty)\}`$
 
 #### 2. Dimension Conversion Mechanism
 
 Transitions between dimensions follow quantum transition rules, satisfying:
 
-$$D_i \to D_j, \quad \Delta E = hf_{ij}$$
+$`D_i \to D_j, \quad \Delta E = hf_{ij}`$
 
 Where frequency is related to information difference:
 
-$$f_{ij} \propto |I_{D_i} - I_{D_j}|$$
+$`f_{ij} \propto |I_{D_i} - I_{D_j}|`$
 
 #### 3. Quantum-Classical Duality of Dimensions
 
 Each dimension simultaneously has quantum and classical characteristics:
 
-$$D = (D_Q, D_C), \quad D_Q \cdot D_C = \text{constant}$$
+$`D = (D_Q, D_C), \quad D_Q \cdot D_C = \text{constant}`$
 
 The higher the dimension, the more pronounced the quantum characteristics:
 
-$$\frac{D_Q}{D_C} \propto e^{\alpha D}$$
+$`\frac{D_Q}{D_C} \propto e^{\alpha D}`$
 
 #### 4. Dimension Emergence Dynamics
 
 Dimensional structures satisfy nonlinear evolution equations:
 
-$$\frac{\partial D(x,t)}{\partial t} = \nabla^2 D(x,t) + f(D, \rho_I, \mathcal{O})$$
+$`\frac{\partial D(x,t)}{\partial t} = \nabla^2 D(x,t) + f(D, \rho_I, \mathcal{O})`$
 
 Dimensions can undergo splitting and merging through information condensation and diffusion processes:
 
-$$D \to D_1 + D_2, \quad D_1 + D_2 \to D_3$$
+$`D \to D_1 + D_2, \quad D_1 + D_2 \to D_3`$
 
 #### 5. Absolute Dimensions and Transcendence
 
@@ -1320,5 +1320,5 @@ Characteristics of transcendent dimensions include:
 
 A duality relationship exists between absolute dimensions:
 
-$$D_0 \leftrightarrow D_{\infty}, \quad D_0 \times D_{\infty} = \text{constant}$$
+$`D_0 \leftrightarrow D_{\infty}, \quad D_0 \times D_{\infty} = \text{constant}`$
 

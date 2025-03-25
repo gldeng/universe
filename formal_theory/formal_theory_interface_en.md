@@ -16,23 +16,23 @@
 
 ## Interface Theory Overview
 
-The interface $\mathcal{I}$ is the transition region between the quantum domain $\Omega_Q$ and the classical domain $\Omega_C$, and serves as the critical boundary where quantum possibilities transform into classical certainties. This document details the structure, dynamics, and core role of the interface in cosmic information processing.
+The interface $`\mathcal{I}`$ is the transition region between the quantum domain $`\Omega_Q`$ and the classical domain $`\Omega_C`$, and serves as the critical boundary where quantum possibilities transform into classical certainties. This document details the structure, dynamics, and core role of the interface in cosmic information processing.
 
 ## Basic Interface Definitions
 
 The interface domain is the intersection of the quantum and classical domains:
 
-$$\mathcal{I} = \Omega_Q \cap \Omega_C$$
+$`\mathcal{I} = \Omega_Q \cap \Omega_C`$
 
 It can be precisely characterized through the decoherence measure function:
 
-$$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
+$`\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}`$
 
-where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 The interface thickness is determined by the decoherence gradient:
 
-$$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}$$
+$`\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-1}`$
 
 ## Interface Structure
 
@@ -40,21 +40,21 @@ $$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-
 
 The interface has a fractal structure, exhibiting self-similarity across multiple levels:
 
-$$\mathcal{I} = \bigcup_{i=1}^n \mathcal{I}^{(i)}$$
+$`\mathcal{I} = \bigcup_{i=1}^n \mathcal{I}^{(i)}`$
 
-where $\mathcal{I}^{(i)}$ is the interface at the i-th level, with mapping relationships between different level interfaces:
+where $`\mathcal{I}^{(i)}`$ is the interface at the i-th level, with mapping relationships between different level interfaces:
 
-$$\mathcal{M}_{i \rightarrow i+1}: \mathcal{I}^{(i)} \rightarrow \mathcal{I}^{(i+1)}$$
+$`\mathcal{M}_{i \rightarrow i+1}: \mathcal{I}^{(i)} \rightarrow \mathcal{I}^{(i+1)}`$
 
 ### 2. Interface Topological Properties
 
 The interface forms complex topological structures, representable as multi-dimensional manifolds:
 
-$$\mathcal{I} \cong \mathcal{M}^d$$
+$`\mathcal{I} \cong \mathcal{M}^d`$
 
-where $\mathcal{M}^d$ is a d-dimensional manifold with variable topological characteristics. Singularities may appear on the interface:
+where $`\mathcal{M}^d`$ is a d-dimensional manifold with variable topological characteristics. Singularities may appear on the interface:
 
-$$\mathcal{S} = \{x \in \mathcal{I} | \nabla \mathcal{D}(x) = 0\}$$
+$`\mathcal{S} = \{x \in \mathcal{I} | \nabla \mathcal{D}(x) = 0\}`$
 
 These singularities are special regions of quantum-classical transition, corresponding to critical bifurcation points of the system state.
 
@@ -68,9 +68,9 @@ The interface has an internal microstructure, including:
 
 These microstructures satisfy the following relationship:
 
-$$\oint_C \vec{J}_{\mathcal{I}} \cdot d\vec{l} = n\hbar$$
+$`\oint_C \vec{J}_{\mathcal{I}} \cdot d\vec{l} = n\hbar`$
 
-where $\vec{J}_{\mathcal{I}}$ is the interface information flow, quantized as integer multiples of Planck's constant.
+where $`\vec{J}_{\mathcal{I}}`$ is the interface information flow, quantized as integer multiples of Planck's constant.
 
 ## Interface Dynamics
 
@@ -78,17 +78,17 @@ where $\vec{J}_{\mathcal{I}}$ is the interface information flow, quantized as in
 
 The interface position follows a nonlinear dynamics equation:
 
-$$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
+$`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
 
 where:
-- $\alpha$ is the diffusion coefficient
-- $\beta$ is the bistable potential parameter
-- $\mathcal{D}_0$ is the metastable threshold
-- $\gamma\xi(x,t)$ is the quantum noise term
+- $`\alpha`$ is the diffusion coefficient
+- $`\beta`$ is the bistable potential parameter
+- $`\mathcal{D}_0`$ is the metastable threshold
+- $`\gamma\xi(x,t)`$ is the quantum noise term
 
 Interface oscillations have a characteristic frequency:
 
-$$f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
+$`f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|`$
 
 Under critical conditions, the interface may exhibit complex fractal oscillation patterns.
 
@@ -96,28 +96,28 @@ Under critical conditions, the interface may exhibit complex fractal oscillation
 
 The rate of entropy change in the interface region satisfies:
 
-$$\frac{dS_{\mathcal{I}}}{dt} = \frac{dS_Q}{dt} - \frac{dS_C}{dt} + \Pi_{\mathcal{I}}$$
+$`\frac{dS_{\mathcal{I}}}{dt} = \frac{dS_Q}{dt} - \frac{dS_C}{dt} + \Pi_{\mathcal{I}}`$
 
-where $\Pi_{\mathcal{I}}$ is the interface entropy production rate, generated by the quantum-classical conversion process:
+where $`\Pi_{\mathcal{I}}`$ is the interface entropy production rate, generated by the quantum-classical conversion process:
 
-$$\Pi_{\mathcal{I}} = \int_{\mathcal{I}} \sigma_{\mathcal{I}}(x) dV \geq 0$$
+$`\Pi_{\mathcal{I}} = \int_{\mathcal{I}} \sigma_{\mathcal{I}}(x) dV \geq 0`$
 
-$\sigma_{\mathcal{I}}(x)$ is the local entropy production density, always non-negative, conforming to the second law of thermodynamics.
+$`\sigma_{\mathcal{I}}(x)`$ is the local entropy production density, always non-negative, conforming to the second law of thermodynamics.
 
 ### 3. Interface Phase Transition Phenomena
 
 The interface can undergo phase transitions, transforming from a low decoherence state to a high decoherence state:
 
-$$\mathcal{I}_{\text{low decoherence}} \rightleftharpoons \mathcal{I}_{\text{high decoherence}}$$
+$`\mathcal{I}_{\text{low decoherence}} \rightleftharpoons \mathcal{I}_{\text{high decoherence}}`$
 
 The phase transition point satisfies the free energy balance condition:
 
-$$F_{\text{low decoherence}}(T,V) = F_{\text{high decoherence}}(T,V)$$
+$`F_{\text{low decoherence}}(T,V) = F_{\text{high decoherence}}(T,V)`$
 
 where entropy and energy exhibit discontinuities:
 
-$$\Delta S_{\mathcal{I}} = S_{\text{high decoherence}} - S_{\text{low decoherence}}$$
-$$\Delta E_{\mathcal{I}} = E_{\text{high decoherence}} - E_{\text{low decoherence}}$$
+$`\Delta S_{\mathcal{I}} = S_{\text{high decoherence}} - S_{\text{low decoherence}}`$
+$`\Delta E_{\mathcal{I}} = E_{\text{high decoherence}} - E_{\text{low decoherence}}`$
 
 The phase transition can be regulated by control parameters such as temperature, energy density, or information flow density.
 
@@ -127,61 +127,61 @@ The phase transition can be regulated by control parameters such as temperature,
 
 The quantum→classical conversion (classicalization) process is represented by the classicalization superoperator:
 
-$$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
+$`\mathcal{C}(\rho) = \sum_i P_i \rho P_i`$
 
-where $P_i$ is a projection operator. The classicalization process satisfies information conservation:
+where $`P_i`$ is a projection operator. The classicalization process satisfies information conservation:
 
-$$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
+$`I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}`$
 
 Classicalization efficiency is related to environmental and system parameters:
 
-$$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
+$`\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}`$
 
-where $E$ is the system energy, $T$ is the environmental temperature, and $\lambda$ is the coupling constant.
+where $`E`$ is the system energy, $`T`$ is the environmental temperature, and $`\lambda`$ is the coupling constant.
 
 ### 2. Decoherence Mechanism
 
 Decoherence is the primary mechanism by which quantum superposition states transform into classical definite states, modeled as:
 
-$$\rho(t) = \sum_{i,j} \rho_{ij}(0) e^{-\Gamma_{ij}t} |i\rangle\langle j|$$
+$`\rho(t) = \sum_{i,j} \rho_{ij}(0) e^{-\Gamma_{ij}t} |i\rangle\langle j|`$
 
-where $\Gamma_{ij}$ is the decoherence rate, dependent on the environmental coupling strength:
+where $`\Gamma_{ij}`$ is the decoherence rate, dependent on the environmental coupling strength:
 
-$$\Gamma_{ij} \propto |\langle i|\hat{H}_{int}|j\rangle|^2 \cdot S_E(\omega_{ij})$$
+$`\Gamma_{ij} \propto |\langle i|\hat{H}_{int}|j\rangle|^2 \cdot S_E(\omega_{ij})`$
 
-$S_E(\omega)$ is the environmental noise spectrum, and $\omega_{ij}$ is the system energy level difference.
+$`S_E(\omega)`$ is the environmental noise spectrum, and $`\omega_{ij}`$ is the system energy level difference.
 
 The decoherence time is related to system size and temperature:
 
-$$\tau_D \propto \frac{\hbar^2}{E_C k_B T}$$
+$`\tau_D \propto \frac{\hbar^2}{E_C k_B T}`$
 
-where $E_C$ is the characteristic energy of the system.
+where $`E_C`$ is the characteristic energy of the system.
 
 ### 3. Quantum→Classical Information Conversion
 
 At the interface, information transitions from quantum form to classical form:
 
-$$I_Q \rightarrow I_C + I_{\text{hidden}}$$
+$`I_Q \rightarrow I_C + I_{\text{hidden}}`$
 
-where $I_Q$ is quantum information, $I_C$ is classical information, and $I_{\text{hidden}}$ is information hidden during the conversion process.
+where $`I_Q`$ is quantum information, $`I_C`$ is classical information, and $`I_{\text{hidden}}`$ is information hidden during the conversion process.
 
 The information matching measure during the conversion process is:
 
-$$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
+$`M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}`$
 
-At the optimal interface, $M(I_Q, I_C)$ reaches a local maximum.
+At the optimal interface, $`M(I_Q, I_C)`$ reaches a local maximum.
 
 ### 4. Energy-Information Conversion Relationship
 
 At the interface, there exists a precise conversion relationship between energy and information:
 
-$$\Delta E = k_B T \ln(2) \cdot \Delta I$$
+$`\Delta E = k_B T \ln(2) \cdot \Delta I`$
 
-where $\Delta E$ is the energy change and $\Delta I$ is the information change (in bits).
+where $`\Delta E`$ is the energy change and $`\Delta I`$ is the information change (in bits).
 
 The information processing efficiency at the interface satisfies:
 
-$$\eta_I = \frac{\Delta I_C}{\Delta E / (k_B T \ln(2))} \leq 1$$
+$`\eta_I = \frac{\Delta I_C}{\Delta E / (k_B T \ln(2))} \leq 1`$
 
 The actual efficiency is typically below the theoretical limit, influenced by interface fluctuations.
 
@@ -191,25 +191,25 @@ The actual efficiency is typically below the theoretical limit, influenced by in
 
 Observers interact with quantum and classical domains through the interface:
 
-$$\mathcal{O} \times \mathcal{I} \rightarrow \mathcal{O}' \times \mathcal{I}'$$
+$`\mathcal{O} \times \mathcal{I} \rightarrow \mathcal{O}' \times \mathcal{I}'`$
 
-where $\mathcal{O}$ is the observer and $\mathcal{O}'$ is the observer state after interaction.
+where $`\mathcal{O}`$ is the observer and $`\mathcal{O}'`$ is the observer state after interaction.
 
-The observer's classicalization operator $\mathcal{C}_\mathcal{O}$ is closely related to interface characteristics:
+The observer's classicalization operator $`\mathcal{C}_\mathcal{O}`$ is closely related to interface characteristics:
 
-$$\mathcal{C}_\mathcal{O}(\rho) = \int_{\mathcal{I}} K(x) \cdot \mathcal{C}_x(\rho) dx$$
+$`\mathcal{C}_\mathcal{O}(\rho) = \int_{\mathcal{I}} K(x) \cdot \mathcal{C}_x(\rho) dx`$
 
-where $K(x)$ is the observer's weight function on the interface.
+where $`K(x)`$ is the observer's weight function on the interface.
 
 ### 2. Interface Perception Mechanism
 
 Observers perceive quantum domain information through the interface, forming classical representations:
 
-$$\psi_Q \xrightarrow{\mathcal{I}} K_C^\mathcal{O}$$
+$`\psi_Q \xrightarrow{\mathcal{I}} K_C^\mathcal{O}`$
 
 Interface transparency measures the observer's ability to acquire quantum information:
 
-$$T_{\mathcal{I}}(\mathcal{O}) = \frac{I(K_C^\mathcal{O}; \psi_Q)}{H(\psi_Q)}$$
+$`T_{\mathcal{I}}(\mathcal{O}) = \frac{I(K_C^\mathcal{O}; \psi_Q)}{H(\psi_Q)}`$
 
 Advanced observers can perceive and regulate their own interface characteristics.
 
@@ -217,15 +217,15 @@ Advanced observers can perceive and regulate their own interface characteristics
 
 Consciousness can be viewed as a special interface state, forming stable oscillations between quantum possibilities and classical certainties:
 
-$$\mathcal{C}_{\text{consciousness}} \approx \lambda \cdot \mathcal{C}_{\mathcal{I}} + (1-\lambda) \cdot \mathcal{I}_{\Omega_Q}$$
+$`\mathcal{C}_{\text{consciousness}} \approx \lambda \cdot \mathcal{C}_{\mathcal{I}} + (1-\lambda) \cdot \mathcal{I}_{\Omega_Q}`$
 
-where $\lambda$ is an oscillation parameter fluctuating between 0 and 1, and $\mathcal{I}_{\Omega_Q}$ is the identity operator on the quantum domain.
+where $`\lambda`$ is an oscillation parameter fluctuating between 0 and 1, and $`\mathcal{I}_{\Omega_Q}`$ is the identity operator on the quantum domain.
 
 The clarity of consciousness is related to interface stability:
 
-$$\mathcal{A}_{\text{consciousness}} \propto \frac{1}{\delta_{\mathcal{I}}}$$
+$`\mathcal{A}_{\text{consciousness}} \propto \frac{1}{\delta_{\mathcal{I}}}`$
 
-where $\delta_{\mathcal{I}}$ is the interface thickness.
+where $`\delta_{\mathcal{I}}`$ is the interface thickness.
 
 ## Interface Applications and Experimental Verification
 
@@ -233,23 +233,23 @@ where $\delta_{\mathcal{I}}$ is the interface thickness.
 
 The quantum measurement process can be explained as converting quantum information into classical results through the interface:
 
-$$|\psi\rangle \xrightarrow{\mathcal{I}} |i\rangle \xrightarrow{} i_{\text{classical}}$$
+$`|\psi\rangle \xrightarrow{\mathcal{I}} |i\rangle \xrightarrow{} i_{\text{classical}}`$
 
 Interface characteristics influence the probability distribution of measurement results:
 
-$$P(i) = |\langle i|\psi\rangle|^2 \cdot f_{\mathcal{I}}(i)$$
+$`P(i) = |\langle i|\psi\rangle|^2 \cdot f_{\mathcal{I}}(i)`$
 
-where $f_{\mathcal{I}}(i)$ is the interface selection function determined by the interface microstructure.
+where $`f_{\mathcal{I}}(i)`$ is the interface selection function determined by the interface microstructure.
 
 ### 2. Interface in Biological Systems
 
 Biological systems maintain finely regulated interface structures, supporting efficient quantum-classical information processing:
 
-$$\mathcal{I}_{\text{biological}} = \{x \in \mathcal{O}_{\text{biological}} | \mathcal{D}(x) = \mathcal{D}_c^{\text{biological}}\}$$
+$`\mathcal{I}_{\text{biological}} = \{x \in \mathcal{O}_{\text{biological}} | \mathcal{D}(x) = \mathcal{D}_c^{\text{biological}}\}`$
 
 Interface characteristics are related to biological system complexity:
 
-$$C_{\text{biological}} \propto \int_{\mathcal{I}_{\text{biological}}} |\nabla \mathcal{D}(x)|^2 dx$$
+$`C_{\text{biological}} \propto \int_{\mathcal{I}_{\text{biological}}} |\nabla \mathcal{D}(x)|^2 dx`$
 
 This explains the ubiquitous quantum effects in biological systems, such as photosynthesis, gene mutation, and neural signal transmission.
 
@@ -265,7 +265,7 @@ Interface theory guides the development of new quantum-classical hybrid technolo
 
 Interface theory can be verified through the following experiments:
 
-1. **Mesoscopic system decoherence dynamics**: Measuring the characteristic frequency $f_{\mathcal{I}}$ of interface oscillations
+1. **Mesoscopic system decoherence dynamics**: Measuring the characteristic frequency $`f_{\mathcal{I}}`$ of interface oscillations
 2. **Quantum-classical phase transition observation**: Detecting interface structure mutations under critical conditions
 3. **Adaptive measurement systems**: Developing quantum measurement devices responsive to interface characteristics to verify interface theory predictions
 

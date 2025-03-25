@@ -150,45 +150,45 @@ The ethical system described in the Taishang Ganying Pian can be mapped to highe
 
 The karmic retribution system of the Taishang Ganying Pian can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"祸福无门，惟人自召"} \Leftrightarrow |\psi\rangle_{\text{命运}} = \sum_{i} c_i |i\rangle \xrightarrow{\text{观察者行为}} |j\rangle
-$$
+`$
 
-$$
+$`
 \text{"善恶之报，如影随形"} \Leftrightarrow |\phi\rangle_{\text{行为-报应}} = \frac{1}{\sqrt{2}}(|\text{善行}\rangle|\text{福报}\rangle + |\text{恶行}\rangle|\text{祸报}\rangle)
-$$
+`$
 
-$$
+$`
 \text{"心起于善/恶"} \Leftrightarrow P(|\text{善/恶行为}\rangle) = |c_{\text{善/恶思想}}|^2 \uparrow
-$$
+`$
 
-$$
+$`
 \text{"依人所犯轻重，以夺人算"} \Leftrightarrow \Delta\tau = -\alpha \cdot \sum_{i} w_i \cdot E_i
-$$
+`$
 
-其中 $\tau$ 表示寿命，$E_i$ 表示恶行程度，$w_i$ 为权重，$\alpha$ 为转换系数
+其中 $`\tau`$ 表示寿命，$`E_i`$ 表示恶行程度，$`w_i`$ 为权重，$`\alpha`$ 为转换系数
 
-Where $\tau$ represents lifespan, $E_i$ represents the degree of evil actions, $w_i$ is the weight, and $\alpha$ is the conversion coefficient
+Where $`\tau`$ represents lifespan, $`E_i`$ represents the degree of evil actions, $`w_i`$ is the weight, and $`\alpha`$ is the conversion coefficient
 
-$$
+$`
 \text{"一日有三善，三年天必降之福"} \Leftrightarrow \sum_{i=1}^{n} G_i \geq G_{\text{阈值}} \Rightarrow P(|\text{福报}\rangle) \approx 1
-$$
+`$
 
-其中 $G_i$ 表示善行积累，$G_{\text{阈值}}$ 为福报触发阈值
+其中 $`G_i`$ 表示善行积累，$`G_{\text{阈值}}`$ 为福报触发阈值
 
-Where $G_i$ represents accumulated good deeds, and $G_{\text{阈值}}$ is the blessing trigger threshold
+Where $`G_i`$ represents accumulated good deeds, and $`G_{\text{阈值}}`$ is the blessing trigger threshold
 
-$$
+$`
 \text{"三台北斗神君"系统} \Leftrightarrow \rho_{\text{高维观察者}} = \text{Tr}_{\text{人类世界}}(|\Psi\rangle\langle\Psi|)
-$$
+`$
 
-$$
+$`
 \text{"各种社会角色道德规范"} \Leftrightarrow \max\left(\sum_{i=1}^{m} k_i \cdot \frac{I^i_{\text{经典知识}}}{S^i_{\text{经典熵}}}\right)
-$$
+`$
 
-其中 $i$ 表示社会中不同角色
+其中 $`i`$ 表示社会中不同角色
 
-Where $i$ represents different roles in society
+Where $`i`$ represents different roles in society
 
 ## 结论
 ## Conclusion

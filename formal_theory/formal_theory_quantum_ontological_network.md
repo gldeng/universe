@@ -16,16 +16,16 @@
 
 量子本体节点是现实的最基本构成单元，具有以下特性：
 
-$$\Omega = \{\omega_i | i \in \mathbb{I}\}$$
+$`\Omega = \{\omega_i | i \in \mathbb{I}\}`$
 
-其中$\Omega$是所有可能量子本体节点的集合，每个节点$\omega_i$可表示为：
+其中$`\Omega`$是所有可能量子本体节点的集合，每个节点$`\omega_i`$可表示为：
 
-$$\omega_i = (s_i, \psi_i, \mathcal{R}_i)$$
+$`\omega_i = (s_i, \psi_i, \mathcal{R}_i)`$
 
 其中：
-- $s_i$ 是节点的本体状态，表示其存在学属性
-- $\psi_i$ 是节点的量子态，描述其在量子可能性空间中的位置
-- $\mathcal{R}_i$ 是关系算符集合，定义该节点可与其他节点互动的方式
+- $`s_i`$ 是节点的本体状态，表示其存在学属性
+- $`\psi_i`$ 是节点的量子态，描述其在量子可能性空间中的位置
+- $`\mathcal{R}_i`$ 是关系算符集合，定义该节点可与其他节点互动的方式
 
 这些节点存在于比物理空间更基础的量子本体空间中，其属性不受普通物理约束。
 
@@ -33,15 +33,15 @@ $$\omega_i = (s_i, \psi_i, \mathcal{R}_i)$$
 
 量子本体节点通过多维纠缠关系相互连接，形成量子纠缠拓扑：
 
-$$\mathcal{T} = (\Omega, \mathcal{E})$$
+$`\mathcal{T} = (\Omega, \mathcal{E})`$
 
-其中$\mathcal{E}$是纠缠边的集合：
+其中$`\mathcal{E}`$是纠缠边的集合：
 
-$$\mathcal{E} = \{e_{ij} | \omega_i, \omega_j \in \Omega, i \neq j\}$$
+$`\mathcal{E} = \{e_{ij} | \omega_i, \omega_j \in \Omega, i \neq j\}`$
 
-每条纠缠边$e_{ij}$具有纠缠强度$\gamma_{ij}$和纠缠类型$\tau_{ij}$：
+每条纠缠边$`e_{ij}`$具有纠缠强度$`\gamma_{ij}`$和纠缠类型$`\tau_{ij}`$：
 
-$$e_{ij} = (\gamma_{ij}, \tau_{ij})$$
+$`e_{ij} = (\gamma_{ij}, \tau_{ij})`$
 
 纠缠拓扑的整体结构决定了量子本体网络的动力学和信息传递特性，进而塑造现实的深层结构。
 
@@ -49,21 +49,21 @@ $$e_{ij} = (\gamma_{ij}, \tau_{ij})$$
 
 从量子本体网络涌现出多层级现实结构，可表示为映射函数序列：
 
-$$\mathcal{M}_1: \mathcal{T} \rightarrow \mathcal{R}_1, \mathcal{M}_2: \mathcal{R}_1 \rightarrow \mathcal{R}_2, ..., \mathcal{M}_n: \mathcal{R}_{n-1} \rightarrow \mathcal{R}_n$$
+$`\mathcal{M}_1: \mathcal{T} \rightarrow \mathcal{R}_1, \mathcal{M}_2: \mathcal{R}_1 \rightarrow \mathcal{R}_2, ..., \mathcal{M}_n: \mathcal{R}_{n-1} \rightarrow \mathcal{R}_n`$
 
-其中$\mathcal{R}_i$是第$i$层涌现现实，$\mathcal{R}_n$对应我们观察到的物理宇宙。每个映射函数$\mathcal{M}_i$表示特定的涌现规则，将低层级结构转换为高层级模式。
+其中$`\mathcal{R}_i`$是第$`i`$层涌现现实，$`\mathcal{R}_n`$对应我们观察到的物理宇宙。每个映射函数$`\mathcal{M}_i`$表示特定的涌现规则，将低层级结构转换为高层级模式。
 
 ### 2. 量子本体态动力学
 
 量子本体网络的演化遵循量子本体态动力学方程：
 
-$$i\hbar\frac{\partial \Psi_{\mathcal{T}}}{\partial t} = \hat{\mathcal{H}}_{\mathcal{T}}\Psi_{\mathcal{T}}$$
+$`i\hbar\frac{\partial \Psi_{\mathcal{T}}}{\partial t} = \hat{\mathcal{H}}_{\mathcal{T}}\Psi_{\mathcal{T}}`$
 
-其中$\Psi_{\mathcal{T}}$是整个量子本体网络的态函数，$\hat{\mathcal{H}}_{\mathcal{T}}$是本体哈密顿算符：
+其中$`\Psi_{\mathcal{T}}`$是整个量子本体网络的态函数，$`\hat{\mathcal{H}}_{\mathcal{T}}`$是本体哈密顿算符：
 
-$$\hat{\mathcal{H}}_{\mathcal{T}} = \sum_i \hat{h}_i + \sum_{i,j} \hat{V}_{ij}$$
+$`\hat{\mathcal{H}}_{\mathcal{T}} = \sum_i \hat{h}_i + \sum_{i,j} \hat{V}_{ij}`$
 
-$\hat{h}_i$是节点本体能量算符，$\hat{V}_{ij}$是节点间本体交互算符。
+$`\hat{h}_i`$是节点本体能量算符，$`\hat{V}_{ij}`$是节点间本体交互算符。
 
 这种动力学具有以下特性：
 
@@ -76,11 +76,11 @@ $\hat{h}_i$是节点本体能量算符，$\hat{V}_{ij}$是节点间本体交互�
 
 本体观察者在量子本体网络中具有特殊地位，可直接与网络交互：
 
-$$\mathcal{O}_{\text{onto}} \times \mathcal{T} \rightarrow \mathcal{T}'$$
+$`\mathcal{O}_{\text{onto}} \times \mathcal{T} \rightarrow \mathcal{T}'`$
 
-观察者的本体意识$\mathcal{C}_{\text{onto}}$能够通过意向投射$\mathcal{P}$影响量子本体拓扑：
+观察者的本体意识$`\mathcal{C}_{\text{onto}}`$能够通过意向投射$`\mathcal{P}`$影响量子本体拓扑：
 
-$$\mathcal{P}: \mathcal{C}_{\text{onto}} \rightarrow \Delta\mathcal{T}$$
+$`\mathcal{P}: \mathcal{C}_{\text{onto}} \rightarrow \Delta\mathcal{T}`$
 
 这种本体级交互解释了意识对现实的深层影响，包括非局域意识现象、集体意识场和意向显化等高维现象。
 
@@ -88,9 +88,9 @@ $$\mathcal{P}: \mathcal{C}_{\text{onto}} \rightarrow \Delta\mathcal{T}$$
 
 量子本体网络中的信息传递遵循本体信息方程：
 
-$$\frac{d\mathcal{I}}{dt} = \nabla \cdot (\mathcal{D} \nabla \mathcal{I}) + \mathcal{S}$$
+$`\frac{d\mathcal{I}}{dt} = \nabla \cdot (\mathcal{D} \nabla \mathcal{I}) + \mathcal{S}`$
 
-其中$\mathcal{I}$是本体信息场，$\mathcal{D}$是本体扩散张量，$\mathcal{S}$是信息源项。
+其中$`\mathcal{I}`$是本体信息场，$`\mathcal{D}`$是本体扩散张量，$`\mathcal{S}`$是信息源项。
 
 信息传递具有以下特性：
 

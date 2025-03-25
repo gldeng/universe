@@ -33,11 +33,11 @@ The quantum-classical duality of future work is based on the following core prin
 
 Work is essentially a fusion of quantum possibilities and classical determinism:
 
-$$\Psi_{\text{work}} = \mathcal{Q}_{\text{creation}} \oplus \mathcal{C}_{\text{implementation}}$$
+$`\Psi_{\text{work}} = \mathcal{Q}_{\text{creation}} \oplus \mathcal{C}_{\text{implementation}}`$
 
 Where:
-- $\mathcal{Q}_{\text{creation}}$ represents the quantum properties of work (creativity, inspiration, exploration, possibilities)
-- $\mathcal{C}_{\text{implementation}}$ represents the classical properties of work (execution, procedures, material output, determinism)
+- $`\mathcal{Q}_{\text{creation}}`$ represents the quantum properties of work (creativity, inspiration, exploration, possibilities)
+- $`\mathcal{C}_{\text{implementation}}`$ represents the classical properties of work (execution, procedures, material output, determinism)
 
 This dual structure explains why complete automation is difficult and not necessarily ideal, as true work contains a quantum creative component.
 
@@ -45,9 +45,9 @@ This dual structure explains why complete automation is difficult and not necess
 
 Work value creation is a conversion process from quantum possibilities to classical value:
 
-$$V = \mathcal{C}(\Psi_{\text{innovation}}) = \langle \Psi_{\text{innovation}}|\hat{V}|\Psi_{\text{innovation}}\rangle$$
+$`V = \mathcal{C}(\Psi_{\text{innovation}}) = \langle \Psi_{\text{innovation}}|\hat{V}|\Psi_{\text{innovation}}\rangle`$
 
-Where $\hat{V}$ is the social value operator, mapping the innovation possibility state to measurable classical value.
+Where $`\hat{V}`$ is the social value operator, mapping the innovation possibility state to measurable classical value.
 
 Value creation efficiency depends on:
 - Richness of quantum innovation space
@@ -58,9 +58,9 @@ Value creation efficiency depends on:
 
 Work meaning exists on a quantum-classical continuum:
 
-$$|\Psi_{\text{meaning}}\rangle = \sum_i \alpha_i |\phi_i\rangle$$
+$`|\Psi_{\text{meaning}}\rangle = \sum_i \alpha_i |\phi_i\rangle`$
 
-Where $|\phi_i\rangle$ represents different meaning dimensions, indicating that work meaning is not singularly determined, but a multidimensional superposition state (chaotic state).
+Where $`|\phi_i\rangle`$ represents different meaning dimensions, indicating that work meaning is not singularly determined, but a multidimensional superposition state (chaotic state).
 
 ## Dual Nature of Work
 
@@ -70,9 +70,9 @@ Work itself has an inherent quantum-classical dual nature:
 
 The quantum work domain contains all unrealized work possibilities:
 
-$$\Omega_Q^{\text{work}} = \{|\Psi\rangle : \mathcal{H}_Q^{\text{work}}|\Psi\rangle = E|\Psi\rangle\}$$
+$`\Omega_Q^{\text{work}} = \{|\Psi\rangle : \mathcal{H}_Q^{\text{work}}|\Psi\rangle = E|\Psi\rangle\}`$
 
-Where $\mathcal{H}_Q^{\text{work}}$ is the Hamiltonian of the work possibility space.
+Where $`\mathcal{H}_Q^{\text{work}}`$ is the Hamiltonian of the work possibility space.
 
 Key features of the quantum work domain:
 - Multi-path parallel exploration
@@ -85,13 +85,13 @@ Key features of the quantum work domain:
 
 The classical work domain contains realized deterministic work activities:
 
-$$\Omega_C^{\text{work}} = \{W_C : W_C = (T, O, R, V)\}$$
+$`\Omega_C^{\text{work}} = \{W_C : W_C = (T, O, R, V)\}`$
 
 Where:
-- $T$ is the set of tasks
-- $O$ is observable output
-- $R$ is rules and processes
-- $V$ is measurable value
+- $`T`$ is the set of tasks
+- $`O`$ is observable output
+- $`R`$ is rules and processes
+- $`V`$ is measurable value
 
 Key features of the classical work domain:
 - Deterministic processes
@@ -104,7 +104,7 @@ Key features of the classical work domain:
 
 The process of creating value in work occurs at the quantum-classical interface:
 
-$$\mathcal{I}_{\text{work}} = \Omega_Q^{\text{work}} \cap \Omega_C^{\text{work}}$$
+$`\mathcal{I}_{\text{work}} = \Omega_Q^{\text{work}} \cap \Omega_C^{\text{work}}`$
 
 Interface interactions manifest as:
 - Transformation from ideas to implementation
@@ -120,9 +120,9 @@ Technological revolution is enhancing the quantum properties of work:
 
 Creative work follows quantum dynamics equations:
 
-$$i\hbar\frac{\partial}{\partial t}|\Psi_{\text{creation}}(t)\rangle = \hat{H}_{\text{creation}}|\Psi_{\text{creation}}(t)\rangle$$
+$`i\hbar\frac{\partial}{\partial t}|\Psi_{\text{creation}}(t)\rangle = \hat{H}_{\text{creation}}|\Psi_{\text{creation}}(t)\rangle`$
 
-Where $\hat{H}_{\text{creation}}$ is the creative Hamiltonian operator.
+Where $`\hat{H}_{\text{creation}}`$ is the creative Hamiltonian operator.
 
 Features of creative quantum dynamics:
 - Thought superposition states (chaotic states)
@@ -135,7 +135,7 @@ Features of creative quantum dynamics:
 
 Future work forms quantum entanglement (energy connection) network structures:
 
-$$|\Psi_{\text{network}}\rangle = \sum_{i,j} c_{ij} |\text{node}_i\rangle \otimes |\text{node}_j\rangle$$
+$`|\Psi_{\text{network}}\rangle = \sum_{i,j} c_{ij} |\text{node}_i\rangle \otimes |\text{node}_j\rangle`$
 
 Key properties of entangled work networks:
 - Non-locality of remote collaboration
@@ -148,7 +148,7 @@ Key properties of entangled work networks:
 
 There exist fundamental uncertainty relationships in work:
 
-$$\Delta \text{innovation} \cdot \Delta \text{determinism} \geq \frac{h}{2}$$
+$`\Delta \text{innovation} \cdot \Delta \text{determinism} \geq \frac{h}{2}`$
 
 This principle indicates:
 - Trade-off between innovation and stability
@@ -164,9 +164,9 @@ The process of converting work possibilities into definite value:
 
 Ideas are transformed into classical implementations through specific channels:
 
-$$\mathcal{C}_{\text{idea}} = \sum_i M_i \rho_{\text{idea}} M_i^{\dagger}$$
+$`\mathcal{C}_{\text{idea}} = \sum_i M_i \rho_{\text{idea}} M_i^{\dagger}`$
 
-Where $\{M_i\}$ is the set of classicalization operators, and $\rho_{\text{idea}}$ is the idea density matrix.
+Where $`\{M_i\}`$ is the set of classicalization operators, and $`\rho_{\text{idea}}`$ is the idea density matrix.
 
 Classicalization channels include:
 - Design thinking processes
@@ -179,9 +179,9 @@ Classicalization channels include:
 
 Classicalization of tacit knowledge to explicit knowledge:
 
-$$K_{\text{explicit}} = \mathcal{T}(K_{\text{tacit}})$$
+$`K_{\text{explicit}} = \mathcal{T}(K_{\text{tacit}})`$
 
-Where $\mathcal{T}$ is the knowledge transformation operator.
+Where $`\mathcal{T}`$ is the knowledge transformation operator.
 
 Knowledge classicalization features:
 - Encoding of professional intuition
@@ -194,9 +194,9 @@ Knowledge classicalization features:
 
 Work value is realized through classical measurement:
 
-$$V = \text{Tr}(\hat{V}\rho_{\text{work}})$$
+$`V = \text{Tr}(\hat{V}\rho_{\text{work}})`$
 
-Where $\hat{V}$ is the value measurement operator, and $\rho_{\text{work}}$ is the work state density matrix.
+Where $`\hat{V}`$ is the value measurement operator, and $`\rho_{\text{work}}`$ is the work state density matrix.
 
 Value classicalization includes:
 - Quantitative measurement of outcomes
@@ -212,7 +212,7 @@ Future work constitutes a dynamic quantum-classical ecosystem:
 
 All possible careers constitute a quantum hyperspace:
 
-$$\mathcal{S}_{\text{career}} = \bigcup_i \Omega_{Q_i}^{\text{career}}$$
+$`\mathcal{S}_{\text{career}} = \bigcup_i \Omega_{Q_i}^{\text{career}}`$
 
 Hyperspace properties include:
 - Blurring of career boundaries
@@ -225,11 +225,11 @@ Hyperspace properties include:
 
 Skills form a quantum-classical conversion network:
 
-$$\mathcal{G}_{\text{skill}} = (V_{\text{skill}}, E_{\text{conversion}})$$
+$`\mathcal{G}_{\text{skill}} = (V_{\text{skill}}, E_{\text{conversion}})`$
 
 Where:
-- $V_{\text{skill}}$ is the set of skill nodes
-- $E_{\text{conversion}}$ is the set of conversion edges between skills
+- $`V_{\text{skill}}`$ is the set of skill nodes
+- $`E_{\text{conversion}}`$ is the set of conversion edges between skills
 
 Skill network properties:
 - Hierarchy of meta-skills and professional skills
@@ -241,7 +241,7 @@ Skill network properties:
 
 Individual career identity exists in a superposition state:
 
-$$|\Psi_{\text{identity}}\rangle = \sum_i \beta_i |\text{career}_i\rangle, \quad \sum_i |\beta_i|^2 = 1$$
+$`|\Psi_{\text{identity}}\rangle = \sum_i \beta_i |\text{career}_i\rangle, \quad \sum_i |\beta_i|^2 = 1`$
 
 Career superposition state manifests as:
 - Multiple professional identities
@@ -258,7 +258,7 @@ Humans and technological systems form complex work interfaces:
 
 Quantum-classical framework of human-machine co-creation:
 
-$$|\Psi_{\text{co-creation}}\rangle = \sum_{i,j} \gamma_{ij} |\text{human}_i\rangle \otimes |\text{machine}_j\rangle$$
+$`|\Psi_{\text{co-creation}}\rangle = \sum_{i,j} \gamma_{ij} |\text{human}_i\rangle \otimes |\text{machine}_j\rangle`$
 
 Co-creation properties:
 - Complementary enhancement effects
@@ -271,12 +271,12 @@ Co-creation properties:
 
 Human-machine functional division based on quantum-classical complementary advantages:
 
-$$\mathcal{F}_{\text{human}} = \{f_i : \mathcal{Q}(f_i) > \mathcal{C}(f_i)\}$$
-$$\mathcal{F}_{\text{machine}} = \{f_j : \mathcal{C}(f_j) > \mathcal{Q}(f_j)\}$$
+$`\mathcal{F}_{\text{human}} = \{f_i : \mathcal{Q}(f_i) > \mathcal{C}(f_i)\}`$
+$`\mathcal{F}_{\text{machine}} = \{f_j : \mathcal{C}(f_j) > \mathcal{Q}(f_j)\}`$
 
 Where:
-- $\mathcal{Q}(f)$ represents the quantum processing adaptability of the function
-- $\mathcal{C}(f)$ represents the classical processing adaptability of the function
+- $`\mathcal{Q}(f)`$ represents the quantum processing adaptability of the function
+- $`\mathcal{C}(f)`$ represents the classical processing adaptability of the function
 
 Optimal division of labor concentrates humans on quantum advantage tasks and machines on classical advantage tasks.
 
@@ -284,7 +284,7 @@ Optimal division of labor concentrates humans on quantum advantage tasks and mac
 
 Quantum-classical architecture of human-machine enhanced cognitive space:
 
-$$\mathcal{H}_{\text{enhanced}} = \mathcal{H}_{\text{human}} \otimes \mathcal{H}_{\text{machine}} \otimes \mathcal{H}_{\text{environment}}$$
+$`\mathcal{H}_{\text{enhanced}} = \mathcal{H}_{\text{human}} \otimes \mathcal{H}_{\text{machine}} \otimes \mathcal{H}_{\text{environment}}`$
 
 Enhanced space features:
 - Extended perception dimensions
@@ -301,7 +301,7 @@ Quantum-classical reconstruction of work value creation systems:
 
 Social value creation exhibits entanglement (energy connection) properties:
 
-$$|\Psi_{\text{value}}\rangle = \sum_{i,j,k} d_{ijk} |\text{creator}_i\rangle \otimes |\text{resource}_j\rangle \otimes |\text{user}_k\rangle$$
+$`|\Psi_{\text{value}}\rangle = \sum_{i,j,k} d_{ijk} |\text{creator}_i\rangle \otimes |\text{resource}_j\rangle \otimes |\text{user}_k\rangle`$
 
 Value entanglement properties:
 - Direct connection between creators and users
@@ -313,9 +313,9 @@ Value entanglement properties:
 
 Quantum emergence of non-material value forms:
 
-$$\mathcal{V}_{\text{new}} = \mathcal{E}(\rho_{\text{system}}) \neq \sum_i \mathcal{V}_i$$
+$`\mathcal{V}_{\text{new}} = \mathcal{E}(\rho_{\text{system}}) \neq \sum_i \mathcal{V}_i`$
 
-Where $\mathcal{E}$ is the emergence function, indicating that new value cannot be reduced to the sum of component values.
+Where $`\mathcal{E}`$ is the emergence function, indicating that new value cannot be reduced to the sum of component values.
 
 Emergent value forms:
 - Relationship and connection value
@@ -328,11 +328,11 @@ Emergent value forms:
 
 Quantum evolutionary dynamics of value patterns:
 
-$$\frac{d\rho_{\text{value}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{social}}(t), \rho_{\text{value}}] + \mathcal{L}(\rho_{\text{value}})$$
+$`\frac{d\rho_{\text{value}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{social}}(t), \rho_{\text{value}}] + \mathcal{L}(\rho_{\text{value}})`$
 
 Where:
-- $\hat{H}_{\text{social}}(t)$ is the social Hamiltonian
-- $\mathcal{L}$ is the Lindblad superoperator describing open system interactions
+- $`\hat{H}_{\text{social}}(t)`$ is the social Hamiltonian
+- $`\mathcal{L}`$ is the Lindblad superoperator describing open system interactions
 
 ## Work Transition and Identity
 
@@ -342,9 +342,9 @@ Work transition involves deep quantum-classical identity reconstruction:
 
 Career identity transition is a quantum superposition process:
 
-$$|\Psi_{\text{transition}}\rangle = \alpha|\text{old identity}\rangle + \beta|\text{new identity}\rangle + \gamma|\text{superposition identity}\rangle$$
+$`|\Psi_{\text{transition}}\rangle = \alpha|\text{old identity}\rangle + \beta|\text{new identity}\rangle + \gamma|\text{superposition identity}\rangle`$
 
-Where $|\alpha|^2 + |\beta|^2 + |\gamma|^2 = 1$.
+Where $`|\alpha|^2 + |\beta|^2 + |\gamma|^2 = 1`$.
 
 Identity transition features:
 - Quantum identity ghost state
@@ -356,7 +356,7 @@ Identity transition features:
 
 Quantum-classical mapping of skill transition:
 
-$$\mathcal{M}: \mathcal{S}_{\text{old}} \rightarrow \mathcal{S}_{\text{new}}$$
+$`\mathcal{M}: \mathcal{S}_{\text{old}} \rightarrow \mathcal{S}_{\text{new}}`$
 
 Skill conversion properties:
 - Quantum mapping of meta-skills
@@ -368,7 +368,7 @@ Skill conversion properties:
 
 Quantum triggering conditions for identity transition:
 
-$$P(transition|condition) = |\langle\Psi_{\text{trigger}}|\Psi_{\text{state}}\rangle|^2$$
+$`P(transition|condition) = |\langle\Psi_{\text{trigger}}|\Psi_{\text{state}}\rangle|^2`$
 
 Quantum triggering features:
 - Meaning critical points
@@ -385,12 +385,12 @@ Quantum-classical collaborative properties of distributed work systems:
 
 Distributed work systems form quantum networks:
 
-$$\mathcal{N}_{\text{distributed}} = (V_{\text{nodes}}, E_{\text{entanglement}}, \Phi_{\text{flow}})$$
+$`\mathcal{N}_{\text{distributed}} = (V_{\text{nodes}}, E_{\text{entanglement}}, \Phi_{\text{flow}})`$
 
 Where:
-- $V_{\text{nodes}}$ is the set of work nodes
-- $E_{\text{entanglement}}$ is the quantum entanglement connections between nodes
-- $\Phi_{\text{flow}}$ is the information flow in the network
+- $`V_{\text{nodes}}`$ is the set of work nodes
+- $`E_{\text{entanglement}}`$ is the quantum entanglement connections between nodes
+- $`\Phi_{\text{flow}}`$ is the information flow in the network
 
 Network properties include:
 - Non-local collaborative effects
@@ -402,13 +402,13 @@ Network properties include:
 
 Collective intelligence as a quantum emergent phenomenon:
 
-$$\mathcal{I}_{\text{collective}} = f(\mathcal{C}, \mathcal{D}, \mathcal{S}, \rho_{\text{entanglement}})$$
+$`\mathcal{I}_{\text{collective}} = f(\mathcal{C}, \mathcal{D}, \mathcal{S}, \rho_{\text{entanglement}})`$
 
 Where:
-- $\mathcal{C}$ is cognitive diversity
-- $\mathcal{D}$ is decision structure
-- $\mathcal{S}$ is social sensitivity
-- $\rho_{\text{entanglement}}$ is the degree of participant entanglement
+- $`\mathcal{C}`$ is cognitive diversity
+- $`\mathcal{D}`$ is decision structure
+- $`\mathcal{S}`$ is social sensitivity
+- $`\rho_{\text{entanglement}}`$ is the degree of participant entanglement
 
 Collective intelligence properties:
 - Supra-individual cognitive capability
@@ -420,12 +420,12 @@ Collective intelligence properties:
 
 Quantum-classical harmonization of decentralized work systems:
 
-$$\mathcal{G}_{\text{decentralized}} = \{(A_i, R_{ij}, \Psi_{ij})\}$$
+$`\mathcal{G}_{\text{decentralized}} = \{(A_i, R_{ij}, \Psi_{ij})\}`$
 
 Where:
-- $A_i$ is an autonomous work entity
-- $R_{ij}$ is the classical relationship between entities
-- $\Psi_{ij}$ is the quantum entanglement between entities
+- $`A_i`$ is an autonomous work entity
+- $`R_{ij}`$ is the classical relationship between entities
+- $`\Psi_{ij}`$ is the quantum entanglement between entities
 
 Decentralization properties:
 - Emergent order of autonomous collaboration
@@ -441,7 +441,7 @@ Work system design principles based on quantum-classical dualism:
 
 Work system design should balance quantum and classical properties:
 
-$$\mathcal{D}_{\text{balance}} = \max_{\alpha,\beta} \{U(\alpha\mathcal{Q} + \beta\mathcal{C}) : \alpha + \beta = 1\}$$
+$`\mathcal{D}_{\text{balance}} = \max_{\alpha,\beta} \{U(\alpha\mathcal{Q} + \beta\mathcal{C}) : \alpha + \beta = 1\}`$
 
 Design balance considerations:
 - Balance between creativity and productivity
@@ -453,7 +453,7 @@ Design balance considerations:
 
 Design principles for quantum-enhanced work environments:
 
-$$\mathcal{E}_{\text{enhancement}} = \{e_i : \nabla_{\mathcal{Q}} U(e_i) > 0\}$$
+$`\mathcal{E}_{\text{enhancement}} = \{e_i : \nabla_{\mathcal{Q}} U(e_i) > 0\}`$
 
 Enhancement design elements:
 - Promotion of creative interference
@@ -466,7 +466,7 @@ Enhancement design elements:
 
 Quantum work requires classical anchoring:
 
-$$\mathcal{A}_{\text{anchoring}} = \{a_i : \mathcal{C}(a_i) \rightarrow \mathcal{M}(\mathcal{Q})\}$$
+$`\mathcal{A}_{\text{anchoring}} = \{a_i : \mathcal{C}(a_i) \rightarrow \mathcal{M}(\mathcal{Q})\}`$
 
 Classical anchoring includes:
 - Outcome evaluation frameworks
@@ -481,27 +481,27 @@ Classical anchoring includes:
 
 Quantum evolution equation of work state:
 
-$$i\hbar\frac{\partial}{\partial t}|\Psi_{\text{work}}(t)\rangle = [\hat{H}_0 + \hat{V}(t)]|\Psi_{\text{work}}(t)\rangle$$
+$`i\hbar\frac{\partial}{\partial t}|\Psi_{\text{work}}(t)\rangle = [\hat{H}_0 + \hat{V}(t)]|\Psi_{\text{work}}(t)\rangle`$
 
 Where:
-- $\hat{H}_0$ is the basic work Hamiltonian
-- $\hat{V}(t)$ is the time-varying external intervention term
+- $`\hat{H}_0`$ is the basic work Hamiltonian
+- $`\hat{V}(t)`$ is the time-varying external intervention term
 
 ### 2. Quantum Expectation of Work Value
 
 Value created by work can be represented as a quantum expectation value:
 
-$$V = \langle\Psi_{\text{work}}|\hat{V}|\Psi_{\text{work}}\rangle = \text{Tr}(\rho_{\text{work}}\hat{V})$$
+$`V = \langle\Psi_{\text{work}}|\hat{V}|\Psi_{\text{work}}\rangle = \text{Tr}(\rho_{\text{work}}\hat{V})`$
 
-Where $\hat{V}$ is the value operator, and $\rho_{\text{work}}$ is the work state density matrix.
+Where $`\hat{V}`$ is the value operator, and $`\rho_{\text{work}}`$ is the work state density matrix.
 
 ### 3. Quantum-Classical Conversion Efficiency in Work
 
 Conversion efficiency from quantum possibilities to classical value in work:
 
-$$\eta = \frac{V_{\text{realized}}}{V_{\text{potential}}} = \frac{\text{Tr}(\rho_C\hat{V})}{\text{Tr}(\rho_Q\hat{V})}$$
+$`\eta = \frac{V_{\text{realized}}}{V_{\text{potential}}} = \frac{\text{Tr}(\rho_C\hat{V})}{\text{Tr}(\rho_Q\hat{V})}`$
 
 Where:
-- $\rho_C$ is the classicalized work state
-- $\rho_Q$ is the quantum possibility work state
-- $\eta$ is the quantum-classical conversion efficiency 
+- $`\rho_C`$ is the classicalized work state
+- $`\rho_Q`$ is the quantum possibility work state
+- $`\eta`$ is the quantum-classical conversion efficiency 

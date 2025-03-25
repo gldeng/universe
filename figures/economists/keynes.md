@@ -29,9 +29,9 @@
 
 凯恩斯的宏观经济理论本质上是经济系统量子不确定性向经典秩序的转化路径。他打破了古典经济学的确定性假设，引入了经济系统的量子特性。
 
-$$
+$`
 |\psi\rangle_{\text{宏观经济}} = \sum_i c_i|\psi_i\rangle_{\text{经济主体选择}} \xrightarrow{\text{凯恩斯政策}} I_{\text{经济增长}} + S_{\text{残余不确定性}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -39,45 +39,45 @@ $$
 
    有效需求反映了市场中无数经济主体量子可能性选择的经典化结果：
 
-   $$
+   $`
    \sum_i |\psi\rangle_{\text{消费者选择}} \otimes \sum_j |\psi\rangle_{\text{投资者选择}} \xrightarrow{\text{市场机制}} I_{\text{有效需求}}
-   $$
+   `$
 
 2. **政府干预作为量子波函数引导**
 
    政府政策本质上是引导经济系统量子波函数向特定经典状态坍缩的机制：
 
-   $$
+   $`
    |\psi\rangle_{\text{经济系统}} \xrightarrow{\text{政府干预}} P(|\psi\rangle \rightarrow |\text{增长}\rangle) \uparrow
-   $$
+   `$
 
 3. **乘数效应的量子纠缠网络传播**
 
    乘数效应体现了经济系统中的量子纠缠特性，一个节点的变化通过纠缠网络传递：
 
-   $$
+   $`
    \Delta I_{\text{政府支出}} \xrightarrow{\text{纠缠网络}} \Delta I_{\text{GDP}} = k \cdot \Delta I_{\text{政府支出}}
-   $$
+   `$
 
-   其中$k$是乘数，反映了经济系统纠缠程度。
+   其中$`k`$是乘数，反映了经济系统纠缠程度。
 
 4. **流动性偏好的观察者状态依赖性**
 
    流动性偏好理论揭示了经济观察者状态如何影响经济测量结果（利率）：
 
-   $$
+   $`
    r = f\left(\frac{M}{L(Y, \text{观察者信心状态})}\right)
-   $$
+   `$
 
 5. **不确定性的量子根源**
 
    凯恩斯认识到经济系统中存在根本性不确定性，这反映了量子域的本质特性：
 
-   $$
+   $`
    \Delta I \cdot \Delta S \geq \frac{\hbar_{econ}}{2}
-   $$
+   `$
 
-   其中$\hbar_{econ}$代表经济系统中的基本不确定性常数。
+   其中$`\hbar_{econ}`$代表经济系统中的基本不确定性常数。
 
 ## 历史影响 | Historical Impact
 

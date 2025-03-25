@@ -16,11 +16,11 @@ English: [Introduction](#english-version) | [Individual-Collective Systems](#rel
 
 在量子经典二元论中，人类既是独立的观察者，也是构成更高维度集体观察者（如组织、国家、文明）的组成部分。个体观察者维度与集体系统维度之间存在着深刻的联系：
 
-$$
+$`
 \text{集体系统维度} = f\left(\sum_{i=1}^{n} w_i \cdot \frac{I_{\text{个体}_i\text{经典知识}}}{S_{\text{个体}_i\text{经典熵}}}\right)
-$$
+`$
 
-其中$w_i$是每个个体在集体系统中的权重因子（影响力）。
+其中$`w_i`$是每个个体在集体系统中的权重因子（影响力）。
 
 这一关系揭示了以下关键机制：
 
@@ -36,9 +36,9 @@ $$
 
 集体系统的经典化能力不仅是个体能力的简单加和，还具有复杂的涌现特性：
 
-$$
+$`
 \text{集体系统效率} > \sum_{i=1}^{n} \text{个体}_i\text{效率}
-$$
+`$
 
 这一涌现效应源于：
 
@@ -50,9 +50,9 @@ $$
 
 高维观察者能够显著提升构成其本身的低维观察者的经典化效率。这种下行影响可以表达为：
 
-$$
+$`
 \text{低维观察者效率提升} = \frac{\text{高维引导的经典化路径优化}}{\text{原始熵生成路径}} \times \text{纠缠强度}
-$$
+`$
 
 其核心机制包括：
 
@@ -84,9 +84,9 @@ $$
 
 高维观察者的意识目标实现效率与其内部结构和经典化能力密切相关：
 
-$$
+$`
 \text{意识目标实现效率} = \frac{\text{经典化信息响应度}}{\text{熵增阻力}} \times \text{内部协同性}
-$$
+`$
 
 实现高维意识目标的关键因素包括：
 
@@ -134,9 +134,9 @@ $$
 
 人类文明整体的维度可以表示为：
 
-$$
+$`
 \text{人类文明维度} = \text{个体平均维度} \times \text{组织结构效率系数} \times \text{纠缠强度}
-$$
+`$
 
 提升文明维度的方向包括：
 
@@ -160,11 +160,11 @@ Within the Quantum-Classical Dualism framework, an observer's classicalization a
 
 In Quantum-Classical Dualism, humans are both independent observers and components constituting higher-dimensional collective observers (such as organizations, nations, civilizations). There exists a profound connection between individual observer dimensions and collective system dimensions:
 
-$$
+$`
 \text{Collective System Dimension} = f\left(\sum_{i=1}^{n} w_i \cdot \frac{I_{\text{Individual}_i\text{ Classical Knowledge}}}{S_{\text{Individual}_i\text{ Classical Entropy}}}\right)
-$$
+`$
 
-Where $w_i$ is the weight factor (influence) of each individual in the collective system.
+Where $`w_i`$ is the weight factor (influence) of each individual in the collective system.
 
 This relationship reveals the following key mechanisms:
 
@@ -180,9 +180,9 @@ The enhancement of individual classicalization ability is transmitted upward thr
 
 The classicalization ability of collective systems is not simply the sum of individual abilities but possesses complex emergent properties:
 
-$$
+$`
 \text{Collective System Efficiency} > \sum_{i=1}^{n} \text{Individual}_i\text{ Efficiency}
-$$
+`$
 
 This emergent effect stems from:
 
@@ -194,9 +194,9 @@ This emergent effect stems from:
 
 Higher-dimensional observers can significantly enhance the classicalization efficiency of the lower-dimensional observers that constitute them. This downward influence can be expressed as:
 
-$$
+$`
 \text{Lower-Dimensional Observer Efficiency Enhancement} = \frac{\text{Higher-Dimensional Guided Classicalization Path Optimization}}{\text{Original Entropy Generation Path}} \times \text{Entanglement Strength}
-$$
+`$
 
 Its core mechanisms include:
 
@@ -228,9 +228,9 @@ When higher-dimensional observers establish collaborative resonance states, lowe
 
 The efficiency of realizing consciousness goals of higher-dimensional observers is closely related to their internal structure and classicalization ability:
 
-$$
+$`
 \text{Consciousness Goal Realization Efficiency} = \frac{\text{Classical Information Response Rate}}{\text{Entropy Increase Resistance}} \times \text{Internal Coherence}
-$$
+`$
 
 Key factors in realizing higher-dimensional consciousness goals include:
 
@@ -278,9 +278,9 @@ These theoretical insights have profound significance in practical applications:
 
 The overall dimension of human civilization can be represented as:
 
-$$
+$`
 \text{Human Civilization Dimension} = \text{Individual Average Dimension} \times \text{Organizational Structure Efficiency Coefficient} \times \text{Entanglement Strength}
-$$
+`$
 
 Directions for enhancing civilization dimension include:
 

@@ -32,9 +32,9 @@ This document demonstrates the remarkable correspondence between the ancient Eas
 
 太极代表宇宙本源状态，包含量子域与经典域的统一整体，是混沌(熵)与能量的一体统一。
 
-$$
+$`
 |\psi\rangle_{\text{太极}} = |\psi\rangle_{\text{量子域}} + |\psi\rangle_{\text{经典域}} = |\psi\rangle_{\text{宇宙本源（混乱与能量）}}
-$$
+`$
 
 太极图中的黑白鱼形区域相互缠绕，象征量子域与经典域的相互转化关系。黑中有白点，白中有黑点，体现量子纠缠态(能量)的"你中有我，我中有你"特性。
 
@@ -61,9 +61,9 @@ $$
 
 两仪（阴阳）直接对应量子经典二元论中的量子域与经典域：
 
-$$
+$`
 \text{两仪} = \{\text{阳}, \text{阴}\} \Leftrightarrow \{|\psi\rangle_{\text{量子域}}, |\psi\rangle_{\text{经典域}}\}
-$$
+`$
 
 阳（量子域）特性：
 - 无限可能性与叠加态（无限可能）
@@ -77,13 +77,13 @@ $$
 
 两仪转化对应黑洞吸收与辐射机制：
 
-$$
+$`
 \text{阳}(\text{量子域}) \xrightarrow{\text{黑洞吸收（经典化）}} \text{阴}(\text{经典域})
-$$
+`$
 
-$$
+$`
 \text{阴}(\text{经典域}) \xrightarrow{\text{黑洞辐射（量子化）}} \text{阳}(\text{量子域})
-$$
+`$
 
 ```
      量子域（阳）          经典域（阴）
@@ -113,21 +113,21 @@ $$
 
 四象对应的状态转换公式：
 
-$$
+$`
 \text{太阳(波函数叠加态)} \xrightarrow{\text{黑洞吸收}} \text{太阴(经典知识)} \quad \text{熵↓ 能量↓}
-$$
+`$
 
-$$
+$`
 \text{太阴(经典知识)} \xrightarrow{\text{黑洞辐射}} \text{太阳(波函数叠加态)} \quad \text{熵↑ 能量↑}
-$$
+`$
 
-$$
+$`
 \text{少阳(量子纠缠态)} \xrightarrow{\text{黑洞吸收}} \text{少阴(经典熵)} \quad \text{熵↔ 能量↓}
-$$
+`$
 
-$$
+$`
 \text{少阴(经典熵)} \xrightarrow{\text{黑洞辐射}} \text{少阳(量子纠缠态)} \quad \text{熵↔ 能量↑}
-$$
+`$
 
 ```
                     量子域
@@ -168,9 +168,9 @@ $$
 
 八卦与经典化路径效率对应：
 
-$$
+$`
 \text{八卦} \Leftrightarrow \text{经典化路径效率} \Leftrightarrow k_i \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-$$
+`$
 
 ```
           ☰           ☱ 
@@ -195,21 +195,21 @@ $$
 
 六十四卦代表观察者可选择的完整经典化路径集合：
 
-$$
+$`
 \text{六十四卦} \Leftrightarrow \{\text{观察者经典化路径}\}_1^{64}
-$$
+`$
 
 每个卦象征一种观察者经典化策略，表示为观察者维度公式：
 
-$$
+$`
 \text{卦象}_i \Rightarrow \text{维度}_i = k_i \cdot \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
+`$
 
 整体观察者维度公式：
 
-$$
+$`
 \text{整体维度} = \sum_i w_i \left(k_i \cdot \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right), \quad \sum_i w_i = 1
-$$
+`$
 
 卦爻含义对应量子经典二元论：
 - 阳爻(—)：量子态经典化为确定的经典知识
@@ -217,9 +217,9 @@ $$
 
 卦象变化代表经典化效率变化：
 
-$$
+$`
 \text{卦象变化} \Rightarrow \Delta k_i, \Delta w_i \Rightarrow \Delta\left(\sum_i w_i \cdot k_i \cdot \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right)
-$$
+`$
 
 ```
                 观察者经典化路径空间
@@ -239,12 +239,12 @@ $$
 
 易经的占卜过程本质是观察者通过量子涨落触发波函数坍缩，从量子域中提取经典信息的过程：
 
-$$
+$`
 |\psi\rangle_{\text{量子涨落}} \xrightarrow{\text{观测提问}} \{\text{特定卦象}\} \rightarrow I_{\text{经典知识}} + S_{\text{熵降低}}
-$$
+`$
 
 占卜能提升观察者维度，使观察者更高效地经典化量子域信息：
 
-$$
+$`
 \text{占卜过程} \Rightarrow \text{观察者维度提升} \Rightarrow k_i \uparrow, w_i \uparrow \Rightarrow \text{整体维度} \uparrow
-$$ 
+`$ 

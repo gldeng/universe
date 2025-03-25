@@ -41,16 +41,16 @@ These two domains are connected by the sign interface, where fluctuations determ
 
 Signs are inherently quantum-classical dual entities and can be represented as:
 
-$$S = (S_Q, S_C, \mathcal{I}_S)$$
+$`S = (S_Q, S_C, \mathcal{I}_S)`$
 
 Where:
-- $S_Q$ is the quantum component of the sign, representing superposition states of possible meanings
-- $S_C$ is the classical component of the sign, representing realized definite meanings
-- $\mathcal{I}_S$ is the internal quantum-classical interface of the sign
+- $`S_Q`$ is the quantum component of the sign, representing superposition states of possible meanings
+- $`S_C`$ is the classical component of the sign, representing realized definite meanings
+- $`\mathcal{I}_S`$ is the internal quantum-classical interface of the sign
 
 The quantum state of a sign can be represented as:
 
-$$|\psi_S\rangle = \sum_i \alpha_i |\text{meaning}_i\rangle$$
+$`|\psi_S\rangle = \sum_i \alpha_i |\text{meaning}_i\rangle`$
 
 Where each possible meaning coexists in the quantum state of the sign with certain probability amplitudes.
 
@@ -70,24 +70,24 @@ This reinterpretation explains why signs can both precisely denote (classical na
 
 The formation and evolution of sign meaning can be described as a quantum measurement process:
 
-$$|\psi_{\text{meaning}}\rangle \xrightarrow{\text{observation/interpretation}} |\text{meaning}_i\rangle$$
+$`|\psi_{\text{meaning}}\rangle \xrightarrow{\text{observation/interpretation}} |\text{meaning}_i\rangle`$
 
 Uninterpreted signs exist in a superposition state of meanings, and the act of interpretation is equivalent to a measurement of the quantum state, causing meaning to collapse to a specific state.
 
 The quantum dynamics equation for sign interpretation:
 
-$$\frac{d\rho_{\text{sign}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{cultural}}, \rho_{\text{sign}}] + \mathcal{L}_{\text{interpretation}}(\rho_{\text{sign}})$$
+$`\frac{d\rho_{\text{sign}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{cultural}}, \rho_{\text{sign}}] + \mathcal{L}_{\text{interpretation}}(\rho_{\text{sign}})`$
 
 Where:
-- $\rho_{\text{sign}}$ is the density matrix of the sign state
-- $\hat{H}_{\text{cultural}}$ is the Hamiltonian operator of the cultural context
-- $\mathcal{L}_{\text{interpretation}}$ is the dissipative term describing the interpretation process
+- $`\rho_{\text{sign}}`$ is the density matrix of the sign state
+- $`\hat{H}_{\text{cultural}}`$ is the Hamiltonian operator of the cultural context
+- $`\mathcal{L}_{\text{interpretation}}`$ is the dissipative term describing the interpretation process
 
 ### Quantum Interference Effects in Signs
 
 Interference effects exist between sign meanings, interpreted as:
 
-$$P(\text{meaning}_C) \neq \sum_i P(\text{meaning}_i)$$
+$`P(\text{meaning}_C) \neq \sum_i P(\text{meaning}_i)`$
 
 Sign interference explains the creativity of language, the polysemy of poetry, and rhetorical effects in advertising and political discourse.
 
@@ -97,13 +97,13 @@ Sign interference explains the creativity of language, the polysemy of poetry, a
 
 The quantum-classical interface in sign systems satisfies a dynamic equation:
 
-$$\frac{d\mathcal{I}_S}{dt} = \alpha \nabla^2 \mathcal{I}_S + \beta C_{\text{cultural}} - \gamma F_{\text{social norms}}$$
+$`\frac{d\mathcal{I}_S}{dt} = \alpha \nabla^2 \mathcal{I}_S + \beta C_{\text{cultural}} - \gamma F_{\text{social norms}}`$
 
 Where:
-- $\mathcal{I}_S$ is the sign interface position
-- $C_{\text{cultural}}$ is the cultural creativity
-- $F_{\text{social norms}}$ is the constraining force of social norms
-- $\alpha$, $\beta$, $\gamma$ are system parameters
+- $`\mathcal{I}_S`$ is the sign interface position
+- $`C_{\text{cultural}}`$ is the cultural creativity
+- $`F_{\text{social norms}}`$ is the constraining force of social norms
+- $`\alpha`$, $`\beta`$, $`\gamma`$ are system parameters
 
 ### Interface Position and Sign Characteristics
 
@@ -129,7 +129,7 @@ The interface position can be regulated through various means:
 
 Quantum entanglement effects exist in sign systems, manifested as non-local correlations between signs:
 
-$$|\Psi_{\text{sign network}}\rangle = \sum_{i,j} \alpha_{ij} |\text{sign}_i\rangle \otimes |\text{sign}_j\rangle$$
+$`|\Psi_{\text{sign network}}\rangle = \sum_{i,j} \alpha_{ij} |\text{sign}_i\rangle \otimes |\text{sign}_j\rangle`$
 
 Sign entanglement explains the following phenomena:
 - Field effects: a change in one sign affects the entire sign system
@@ -138,19 +138,19 @@ Sign entanglement explains the following phenomena:
 
 The degree of sign entanglement can be quantified as:
 
-$$E(S_1, S_2) = S(\rho_{S_1}) + S(\rho_{S_2}) - S(\rho_{S_1S_2})$$
+$`E(S_1, S_2) = S(\rho_{S_1}) + S(\rho_{S_2}) - S(\rho_{S_1S_2})`$
 
-Where $S(\rho)$ is the von Neumann entropy of the sign state.
+Where $`S(\rho)`$ is the von Neumann entropy of the sign state.
 
 ### Collective Meaning and Quantum Memory
 
 Cultural sign systems can be understood as quantum memory structures:
 
-$$M_Q = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle, \mathcal{R}\}$$
+$`M_Q = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle, \mathcal{R}\}`$
 
 Where:
-- $|\psi_i\rangle$ are sign quantum states
-- $\mathcal{R}$ is the relationship network between signs
+- $`|\psi_i\rangle`$ are sign quantum states
+- $`\mathcal{R}`$ is the relationship network between signs
 
 Collective meaning is stored and retrieved through the sign entanglement network, explaining cultural transmission and collective unconscious phenomena.
 
@@ -160,7 +160,7 @@ Collective meaning is stored and retrieved through the sign entanglement network
 
 Sign systems not only reflect reality but also participate in constructing reality, a process that can be represented as:
 
-$$\mathcal{C}_{\text{reality}}: \Omega_Q^{\text{sign}} \rightarrow \Omega_C^{\text{social}}$$
+$`\mathcal{C}_{\text{reality}}: \Omega_Q^{\text{sign}} \rightarrow \Omega_C^{\text{social}}`$
 
 The sign classicalization process transforms sign quantum possibilities into social reality, manifested in:
 - Naming grants existence
@@ -172,9 +172,9 @@ The sign classicalization process transforms sign quantum possibilities into soc
 
 Sign creation can be understood as a special case of quantum-classical transformation:
 
-$$|\psi_{\text{new sign}}\rangle = \hat{U}_{\text{creation}}(|\psi_{\text{known}}\rangle)$$
+$`|\psi_{\text{new sign}}\rangle = \hat{U}_{\text{creation}}(|\psi_{\text{known}}\rangle)`$
 
-Where $\hat{U}_{\text{creation}}$ is the creation operator, generating new sign superposition states.
+Where $`\hat{U}_{\text{creation}}`$ is the creation operator, generating new sign superposition states.
 
 Quantum characteristics of sign creation include:
 - Superposition: fusion of multiple known meanings
@@ -189,12 +189,12 @@ Quantum characteristics of sign creation include:
 Quantum-Classical Semiotics provides a new framework for communication research:
 
 1. **Quantum Model of Communication Effects**:
-   $$E_{\text{communication}} = \mathcal{C}(|\psi_{\text{sign}}\rangle \otimes |\psi_{\text{receiver}}\rangle)$$
+   $`E_{\text{communication}} = \mathcal{C}(|\psi_{\text{sign}}\rangle \otimes |\psi_{\text{receiver}}\rangle)`$
    
    This model explains why the same information produces different effects on different audiences.
 
 2. **Social Media Sign Dynamics**:
-   $$\frac{d|\psi_{\text{meme}}\rangle}{dt} = \hat{H}_{\text{network}}|\psi_{\text{meme}}\rangle + \sum_i \gamma_i |\psi_{\text{participant}_i}\rangle$$
+   $`\frac{d|\psi_{\text{meme}}\rangle}{dt} = \hat{H}_{\text{network}}|\psi_{\text{meme}}\rangle + \sum_i \gamma_i |\psi_{\text{participant}_i}\rangle`$
    
    This equation describes the rapid evolution and mutation of internet signs (such as memes).
 
@@ -202,12 +202,12 @@ Quantum-Classical Semiotics provides a new framework for communication research:
 
 1. **Brand Sign Quantum Theory**:
    Brand as a sign superposition state:
-   $$|\psi_{\text{brand}}\rangle = \sum_i \alpha_i |\text{value}_i\rangle + \sum_j \beta_j |\text{attribute}_j\rangle + \sum_k \gamma_k |\text{emotion}_k\rangle$$
+   $`|\psi_{\text{brand}}\rangle = \sum_i \alpha_i |\text{value}_i\rangle + \sum_j \beta_j |\text{attribute}_j\rangle + \sum_k \gamma_k |\text{emotion}_k\rangle`$
    
    This explains why successful brands can simultaneously possess stable identification and flexible adaptability.
 
 2. **Consumer-Brand Entanglement**:
-   $$E(\text{consumer}, \text{brand}) > 0$$
+   $`E(\text{consumer}, \text{brand}) > 0`$
    
    This describes the quantum basis of brand loyalty, explaining brand community phenomena.
 
@@ -215,12 +215,12 @@ Quantum-Classical Semiotics provides a new framework for communication research:
 
 1. **Quantum Model of Cultural Evolution**:
    Evolution of cultural sign systems:
-   $$\frac{d\rho_{\text{culture}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{historical}}, \rho_{\text{culture}}] + \mathcal{L}_{\text{social interaction}}(\rho_{\text{culture}})$$
+   $`\frac{d\rho_{\text{culture}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{historical}}, \rho_{\text{culture}}] + \mathcal{L}_{\text{social interaction}}(\rho_{\text{culture}})`$
    
    This explains the balance mechanism between cultural change and stability.
 
 2. **Cross-cultural Sign Translation**:
-   $$\mathcal{T}: |\psi_{\text{culture A}}\rangle \rightarrow |\phi_{\text{culture B}}\rangle$$
+   $`\mathcal{T}: |\psi_{\text{culture A}}\rangle \rightarrow |\phi_{\text{culture B}}\rangle`$
    
    This framework helps understand the possibilities and limitations of cultural translation.
 
@@ -228,12 +228,12 @@ Quantum-Classical Semiotics provides a new framework for communication research:
 
 1. **Quantum Sign Processing Algorithms**:
    Developing AI systems that consider the quantum properties of signs:
-   $$AI_Q(\text{sign}) = \mathcal{M}(|\psi_{\text{sign}}\rangle)$$
+   $`AI_Q(\text{sign}) = \mathcal{M}(|\psi_{\text{sign}}\rangle)`$
    
    This transcends the sign processing capabilities of classical computing, preserving the superposition properties of meaning.
 
 2. **Quantum Representation of Semantic Networks**:
-   $$G_Q = (V, E, \psi)$$
+   $`G_Q = (V, E, \psi)`$
    
    Where nodes and edges have quantum properties, capable of representing fuzzy classifications and non-transitive relationships.
 

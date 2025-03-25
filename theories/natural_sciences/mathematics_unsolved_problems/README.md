@@ -58,15 +58,15 @@
 
 这些证明采用的数学符号系统包括：
 
-$$
+$`
 \Psi_{QC} = \{|\psi\rangle_Q, \mathcal{O}, \mathcal{D}_C, \mathcal{T}\}
-$$
+`$
 
 其中：
-- $|\psi\rangle_Q$ 表示问题在量子域中的状态
-- $\mathcal{O}$ 表示观察者或观察者系统
-- $\mathcal{D}_C$ 表示经典域结构
-- $\mathcal{T}$ 表示量子域到经典域的转换映射
+- $`|\psi\rangle_Q`$ 表示问题在量子域中的状态
+- $`\mathcal{O}`$ 表示观察者或观察者系统
+- $`\mathcal{D}_C`$ 表示经典域结构
+- $`\mathcal{T}`$ 表示量子域到经典域的转换映射
 
 ## 千禧年七大难题 | Millennium Prize Problems
 
@@ -145,15 +145,15 @@ All proofs follow a unified methodology within the Quantum-Classical Dualism fra
 
 The mathematical notation system used in these proofs includes:
 
-$$
+$`
 \Psi_{QC} = \{|\psi\rangle_Q, \mathcal{O}, \mathcal{D}_C, \mathcal{T}\}
-$$
+`$
 
 Where:
-- $|\psi\rangle_Q$ represents the state of the problem in the quantum domain
-- $\mathcal{O}$ represents the observer or observer system
-- $\mathcal{D}_C$ represents the classical domain structure
-- $\mathcal{T}$ represents the transformation mapping from quantum domain to classical domain
+- $`|\psi\rangle_Q`$ represents the state of the problem in the quantum domain
+- $`\mathcal{O}`$ represents the observer or observer system
+- $`\mathcal{D}_C`$ represents the classical domain structure
+- $`\mathcal{T}`$ represents the transformation mapping from quantum domain to classical domain
 
 ## Millennium Prize Problems
 

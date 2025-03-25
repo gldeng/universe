@@ -15,7 +15,7 @@
    - 和声结构作为经典域的确定性实现
    
 2. **音乐创作的观察者效应**
-   $$\mathcal{C}_{\text{Bach}} = \sum_{i} \alpha_i |\text{主题}_i\rangle \xrightarrow{\text{对位}} |\text{和声}\rangle$$
+   $`\mathcal{C}_{\text{Bach}} = \sum_{i} \alpha_i |\text{主题}_i\rangle \xrightarrow{\text{对位}} |\text{和声}\rangle`$
    - 主题变化代表量子叠加态的可能性
    - 最终和声表示向特定经典态的坍缩
 
@@ -27,9 +27,9 @@
 
 在量子经典二元论框架下，巴赫的音乐创作可表达为：
 
-$$\mathcal{M}_{\text{Bach}}: \Omega_Q^{\text{旋律}} \xrightarrow{\text{对位}} \Omega_C^{\text{和声}}$$
+$`\mathcal{M}_{\text{Bach}}: \Omega_Q^{\text{旋律}} \xrightarrow{\text{对位}} \Omega_C^{\text{和声}}`$
 
-其中$\Omega_Q^{\text{旋律}}$代表旋律的量子可能性空间，$\Omega_C^{\text{和声}}$代表通过对位法实现的经典和声状态。
+其中$`\Omega_Q^{\text{旋律}}`$代表旋律的量子可能性空间，$`\Omega_C^{\text{和声}}`$代表通过对位法实现的经典和声状态。
 
 ### 历史影响
 
@@ -48,7 +48,7 @@ Johann Sebastian Bach (1685-1750), as the culminating figure of Baroque music, h
    - Harmonic structure as classical domain deterministic implementation
 
 2. **Observer Effect in Musical Composition**
-   $$\mathcal{C}_{\text{Bach}} = \sum_{i} \alpha_i |\text{theme}_i\rangle \xrightarrow{\text{counterpoint}} |\text{harmony}\rangle$$
+   $`\mathcal{C}_{\text{Bach}} = \sum_{i} \alpha_i |\text{theme}_i\rangle \xrightarrow{\text{counterpoint}} |\text{harmony}\rangle`$
    - Thematic variations represent quantum superposition possibilities
    - Final harmony indicates collapse to specific classical state
 
@@ -60,9 +60,9 @@ Johann Sebastian Bach (1685-1750), as the culminating figure of Baroque music, h
 
 Within quantum-classical dualism framework, Bach's musical composition can be expressed as:
 
-$$\mathcal{M}_{\text{Bach}}: \Omega_Q^{\text{melody}} \xrightarrow{\text{counterpoint}} \Omega_C^{\text{harmony}}$$
+$`\mathcal{M}_{\text{Bach}}: \Omega_Q^{\text{melody}} \xrightarrow{\text{counterpoint}} \Omega_C^{\text{harmony}}`$
 
-Where $\Omega_Q^{\text{melody}}$ represents the quantum possibility space of melody, and $\Omega_C^{\text{harmony}}$ represents the classical harmonic state achieved through counterpoint.
+Where $`\Omega_Q^{\text{melody}}`$ represents the quantum possibility space of melody, and $`\Omega_C^{\text{harmony}}`$ represents the classical harmonic state achieved through counterpoint.
 
 ### Historical Impact
 

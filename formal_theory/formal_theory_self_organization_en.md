@@ -21,27 +21,27 @@ Quantum Self-Organization Theory investigates the quantum-classical dual mechani
 
 In the quantum-classical dualism framework, self-organization processes begin with fundamental fluctuations in the quantum domain:
 
-$$\Psi_{\text{wave}} = \sum_i c_i |\phi_i\rangle$$
+$`\Psi_{\text{wave}} = \sum_i c_i |\phi_i\rangle`$
 
-Where the wave function $\Psi_{\text{wave}}$ represents the superposition of possible system states (chaotic state), and fluctuation intensity is determined by the Hamiltonian:
+Where the wave function $`\Psi_{\text{wave}}`$ represents the superposition of possible system states (chaotic state), and fluctuation intensity is determined by the Hamiltonian:
 
-$$\Delta E_{\text{fluctuation}} \cdot \Delta t \geq \frac{\hbar}{2}$$
+$`\Delta E_{\text{fluctuation}} \cdot \Delta t \geq \frac{\hbar}{2}`$
 
 These quantum fluctuations are amplified near critical states, becoming seeds for macroscopic self-organization:
 
-$$F_{\text{amplification}} = \alpha \cdot e^{\beta \cdot \delta r}$$
+$`F_{\text{amplification}} = \alpha \cdot e^{\beta \cdot \delta r}`$
 
-Where $\alpha$ is the amplitude factor, $\beta$ is the exponential growth rate, and $\delta r$ is the distance from the equilibrium point.
+Where $`\alpha`$ is the amplitude factor, $`\beta`$ is the exponential growth rate, and $`\delta r`$ is the distance from the equilibrium point.
 
 ### Self-Organization Critical Points
 
 Systems near critical points exhibit special sensitivity, where tiny quantum fluctuations can trigger macroscopic structural reorganization:
 
-$$Z(\beta) = \sum_i e^{-\beta E_i} \sim |\beta - \beta_c|^{-\gamma}$$
+$`Z(\beta) = \sum_i e^{-\beta E_i} \sim |\beta - \beta_c|^{-\gamma}`$
 
-The critical exponent $\gamma$ describes the system's sensitivity to micro-perturbations. At the critical point, the system's correlation length approaches infinity:
+The critical exponent $`\gamma`$ describes the system's sensitivity to micro-perturbations. At the critical point, the system's correlation length approaches infinity:
 
-$$\xi \sim |\beta - \beta_c|^{-\nu}$$
+$`\xi \sim |\beta - \beta_c|^{-\nu}`$
 
 This long-range correlation creates favorable conditions for quantum-classical cooperative self-organization.
 
@@ -49,27 +49,27 @@ This long-range correlation creates favorable conditions for quantum-classical c
 
 Quantum self-organization forms structures through synergetic emergence, with system dynamics equations:
 
-$$\frac{\partial \psi}{\partial t} = D\nabla^2\psi + f(\psi) + \eta(x,t)$$
+$`\frac{\partial \psi}{\partial t} = D\nabla^2\psi + f(\psi) + \eta(x,t)`$
 
-Where $D$ is the diffusion coefficient, $f(\psi)$ is the nonlinear reaction term, and $\eta(x,t)$ is the quantum noise term. Near critical points, system evolution exhibits power-law behavior:
+Where $`D`$ is the diffusion coefficient, $`f(\psi)`$ is the nonlinear reaction term, and $`\eta(x,t)`$ is the quantum noise term. Near critical points, system evolution exhibits power-law behavior:
 
-$$S(f) \sim f^{-\beta}$$
+$`S(f) \sim f^{-\beta}`$
 
-Where $S(f)$ is the system response spectrum and $\beta$ is the scaling exponent.
+Where $`S(f)`$ is the system response spectrum and $`\beta`$ is the scaling exponent.
 
 ### Information and Entropy Dynamics
 
 Information flow in self-organization processes follows the principle of information entropy conservation:
 
-$$I_{\text{total}} = I_{\text{structure}} + I_{\text{dissipation}}$$
+$`I_{\text{total}} = I_{\text{structure}} + I_{\text{dissipation}}`$
 
 The system's entropy production rate is negatively correlated with the level of self-organization:
 
-$$\frac{dS}{dt} = \frac{dS_i}{dt} + \frac{dS_e}{dt}$$
+$`\frac{dS}{dt} = \frac{dS_i}{dt} + \frac{dS_e}{dt}`$
 
-Where $S_i$ is internal entropy and $S_e$ is exchange entropy. Self-organizing systems form ordered structures by increasing entropy output to reduce internal entropy:
+Where $`S_i`$ is internal entropy and $`S_e`$ is exchange entropy. Self-organizing systems form ordered structures by increasing entropy output to reduce internal entropy:
 
-$$\frac{dS_i}{dt} < 0 \Rightarrow \frac{dS_e}{dt} > 0$$
+$`\frac{dS_i}{dt} < 0 \Rightarrow \frac{dS_e}{dt} > 0`$
 
 ## Theory Applications
 
@@ -77,23 +77,23 @@ $$\frac{dS_i}{dt} < 0 \Rightarrow \frac{dS_e}{dt} > 0$$
 
 Biological systems demonstrate perfect applications of quantum self-organization, from DNA replication to protein folding, where quantum effects interact with classical processes:
 
-$$\mathcal{L}_{\text{biological}} = \mathcal{L}_{\text{quantum}} + \mathcal{L}_{\text{classical}} + \mathcal{L}_{\text{interaction}}$$
+$`\mathcal{L}_{\text{biological}} = \mathcal{L}_{\text{quantum}} + \mathcal{L}_{\text{classical}} + \mathcal{L}_{\text{interaction}}`$
 
 The functionality of biomolecules depends on precise self-organization at the quantum-classical interface:
 
-$$E_{\text{functional}} = \sum_i w_i E_i + \sum_{i,j} w_{ij}E_{i,j}$$
+$`E_{\text{functional}} = \sum_i w_i E_i + \sum_{i,j} w_{ij}E_{i,j}`$
 
-Where $E_i$ is monomer energy and $E_{i,j}$ is interaction energy.
+Where $`E_i`$ is monomer energy and $`E_{i,j}`$ is interaction energy.
 
 ### Neural System Self-Organization
 
 Brain neural networks form thinking structures through self-organization at the quantum-classical interface:
 
-$$\Phi = \int d\mu(x) \Phi(x)$$
+$`\Phi = \int d\mu(x) \Phi(x)`$
 
-Where $\Phi$ is the integrated information quantity, measuring how much the system as a whole exceeds its parts. Neuronal group self-organization follows the repetitive learning formula:
+Where $`\Phi`$ is the integrated information quantity, measuring how much the system as a whole exceeds its parts. Neuronal group self-organization follows the repetitive learning formula:
 
-$$\Delta w_{ij} = \eta \cdot x_i \cdot y_j$$
+$`\Delta w_{ij} = \eta \cdot x_i \cdot y_j`$
 
 This learning process forms a dynamic balance between quantum and classical domains.
 
@@ -101,17 +101,17 @@ This learning process forms a dynamic balance between quantum and classical doma
 
 Social groups exhibit quantum self-organization characteristics of collective consciousness:
 
-$$\Psi_{\text{social}} = \frac{1}{\sqrt{N}}\sum_{i=1}^N |\psi_i\rangle$$
+$`\Psi_{\text{social}} = \frac{1}{\sqrt{N}}\sum_{i=1}^N |\psi_i\rangle`$
 
 Social consensus forms through collective synchronization processes similar to quantum entanglement:
 
-$$R = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right|$$
+$`R = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right|`$
 
 Social system self-organization follows complex network models based on quantum-classical interactions:
 
-$$P(k) \sim k^{-\gamma}$$
+$`P(k) \sim k^{-\gamma}`$
 
-Here $P(k)$ is the probability of a node having $k$ connections, and $\gamma$ is the network's power-law exponent.
+Here $`P(k)`$ is the probability of a node having $`k`$ connections, and $`\gamma`$ is the network's power-law exponent.
 
 ## Technical and Design Applications
 
@@ -119,33 +119,33 @@ Here $P(k)$ is the probability of a node having $k$ connections, and $\gamma$ is
 
 Quantum self-organization principles can be applied to new material design:
 
-$$E_{\text{material}} = E_{\text{quantum}} + E_{\text{configuration}} - T\cdot S_{\text{mixing}}$$
+$`E_{\text{material}} = E_{\text{quantum}} + E_{\text{configuration}} - T\cdot S_{\text{mixing}}`$
 
 By precisely controlling self-organization at the quantum-classical interface, materials with specific functions can be designed:
 
-$$\sigma_{ij} = C_{ijkl}\varepsilon_{kl}$$
+$`\sigma_{ij} = C_{ijkl}\varepsilon_{kl}`$
 
-Where the self-organization process dynamically adjusts the distribution of the stiffness tensor $C_{ijkl}$.
+Where the self-organization process dynamically adjusts the distribution of the stiffness tensor $`C_{ijkl}`$.
 
 ### Quantum Self-Organization in Artificial Intelligence
 
 Neural network learning processes can be viewed as quantum-classical self-organization:
 
-$$E_{\text{network}} = -\sum_{i,j} w_{ij}s_is_j - \sum_i h_is_i$$
+$`E_{\text{network}} = -\sum_{i,j} w_{ij}s_is_j - \sum_i h_is_i`$
 
 Self-organizing neural networks form effective representations by optimizing information geometry:
 
-$$\mathcal{F}_{ij} = \int dx \, p(x) \frac{\partial \log p(x)}{\partial \theta_i} \frac{\partial \log p(x)}{\partial \theta_j}$$
+$`\mathcal{F}_{ij} = \int dx \, p(x) \frac{\partial \log p(x)}{\partial \theta_i} \frac{\partial \log p(x)}{\partial \theta_j}`$
 
-Where $\mathcal{F}_{ij}$ is the Fisher information matrix, describing the geometric structure of parameter space.
+Where $`\mathcal{F}_{ij}`$ is the Fisher information matrix, describing the geometric structure of parameter space.
 
 ### Communication System Self-Organization
 
 Quantum communication networks form efficient routing through self-organization:
 
-$$C_{\text{network}} = \max \sum_{i,j} f_{ij} \log \frac{f_{ij}}{g_ig_j}$$
+$`C_{\text{network}} = \max \sum_{i,j} f_{ij} \log \frac{f_{ij}}{g_ig_j}`$
 
-Where $C_{\text{network}}$ is network capacity, and self-organization optimizes information flow $f_{ij}$ and node importance $g_i$.
+Where $`C_{\text{network}}`$ is network capacity, and self-organization optimizes information flow $`f_{ij}`$ and node importance $`g_i`$.
 
 ## Measurement and Verification
 
@@ -153,29 +153,29 @@ Where $C_{\text{network}}$ is network capacity, and self-organization optimizes 
 
 Quantum-classical self-organizing systems exhibit characteristic scaling laws:
 
-$$f(x) \sim x^{-\alpha}$$
+$`f(x) \sim x^{-\alpha}`$
 
 This power-law distribution is a hallmark of self-organized criticality. The cross-correlation function satisfies:
 
-$$C(r) \sim r^{-\eta}$$
+$`C(r) \sim r^{-\eta}`$
 
-Where the correlation exponent $\eta$ is a characteristic indicator of quantum-classical conversion.
+Where the correlation exponent $`\eta`$ is a characteristic indicator of quantum-classical conversion.
 
 ### Fluctuation-Dissipation Relationship
 
 A deep relationship exists between fluctuations and dissipation in self-organizing systems:
 
-$$\langle \delta x^2 \rangle = -\frac{k_BT}{\omega}\text{Im}\chi(\omega)$$
+$`\langle \delta x^2 \rangle = -\frac{k_BT}{\omega}\text{Im}\chi(\omega)`$
 
-Where $\chi(\omega)$ is the generalized response function. This relationship reveals how self-organization utilizes fluctuations to drive ordered structure formation.
+Where $`\chi(\omega)`$ is the generalized response function. This relationship reveals how self-organization utilizes fluctuations to drive ordered structure formation.
 
 ### Self-Organization Transition Threshold
 
 Self-organization transitions at the quantum-classical interface occur at specific thresholds:
 
-$$E_c = \frac{hc}{\lambda_c} = \hbar \omega_c$$
+$`E_c = \frac{hc}{\lambda_c} = \hbar \omega_c`$
 
-Where $\lambda_c$ is the critical wavelength and $\omega_c$ is the critical frequency. Beyond this threshold, the system exhibits completely different organization patterns.
+Where $`\lambda_c`$ is the critical wavelength and $`\omega_c`$ is the critical frequency. Beyond this threshold, the system exhibits completely different organization patterns.
 
 ## Experimental Validation and Predictions
 

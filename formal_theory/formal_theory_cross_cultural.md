@@ -36,14 +36,14 @@
 
 基于上述对应关系，可建立形而上学整合框架：
 
-$$\mathcal{R} = (\Omega_Q, \Omega_C, \mathcal{I}, \mathcal{O}, \mathcal{T})$$
+$`\mathcal{R} = (\Omega_Q, \Omega_C, \mathcal{I}, \mathcal{O}, \mathcal{T})`$
 
 其中：
-- $\Omega_Q$ - 量子域（可能性、潜能、无限）
-- $\Omega_C$ - 经典域（确定性、实际、有限）
-- $\mathcal{I}$ - 量子-经典界面（现象学构建过程）
-- $\mathcal{O}$ - 观察者集合（意识与自我结构）
-- $\mathcal{T}$ - 转换函数集（实现过程与方法）
+- $`\Omega_Q`$ - 量子域（可能性、潜能、无限）
+- $`\Omega_C`$ - 经典域（确定性、实际、有限）
+- $`\mathcal{I}`$ - 量子-经典界面（现象学构建过程）
+- $`\mathcal{O}`$ - 观察者集合（意识与自我结构）
+- $`\mathcal{T}`$ - 转换函数集（实现过程与方法）
 
 这一框架统一了：
 1. 西方传统的二元对立与整合思路
@@ -76,9 +76,9 @@ $$\mathcal{R} = (\Omega_Q, \Omega_C, \mathcal{I}, \mathcal{O}, \mathcal{T})$$
 
 这一谱系可表达为：
 
-$$K = \alpha K_Q + \beta K_I + \gamma K_C$$
+$`K = \alpha K_Q + \beta K_I + \gamma K_C`$
 
-其中 $\alpha$, $\beta$, $\gamma$ 是不同知识类型的权重，随文化和知识领域而变。
+其中 $`\alpha`$, $`\beta`$, $`\gamma`$ 是不同知识类型的权重，随文化和知识领域而变。
 
 ### 方法论综合
 
@@ -93,9 +93,9 @@ $$K = \alpha K_Q + \beta K_I + \gamma K_C$$
 
 综合方法可表达为功能映射：
 
-$$M: (K_1, K_2, ..., K_n) \to K_{整合}$$
+$`M: (K_1, K_2, ..., K_n) \to K_{整合}`$
 
-其中 $K_i$ 代表不同文化传统中的知识体系，$K_{整合}$ 是经过二元论框架整合的新知识。
+其中 $`K_i`$ 代表不同文化传统中的知识体系，$`K_{整合}`$ 是经过二元论框架整合的新知识。
 
 ## 价值观与伦理学整合
 
@@ -117,9 +117,9 @@ $$M: (K_1, K_2, ..., K_n) \to K_{整合}$$
 
 价值整合公式：
 
-$$V_{整合} = f(V_Q, V_C) = \sum_i w_i V_i + \sum_{i,j} w_{ij}(V_i \cap V_j)$$
+$`V_{整合} = f(V_Q, V_C) = \sum_i w_i V_i + \sum_{i,j} w_{ij}(V_i \cap V_j)`$
 
-其中 $V_Q$ 与 $V_C$ 分别是量子与经典价值集，$w_i$ 和 $w_{ij}$ 是单一与交叉价值权重。
+其中 $`V_Q`$ 与 $`V_C`$ 分别是量子与经典价值集，$`w_i`$ 和 $`w_{ij}`$ 是单一与交叉价值权重。
 
 ### 伦理决策框架
 
@@ -137,9 +137,9 @@ $$V_{整合} = f(V_Q, V_C) = \sum_i w_i V_i + \sum_{i,j} w_{ij}(V_i \cap V_j)$$
 
 决策函数：
 
-$$D = \alpha \cdot E_Q(A) + \beta \cdot E_C(A) + \gamma \cdot E_I(A, 环境)$$
+$`D = \alpha \cdot E_Q(A) + \beta \cdot E_C(A) + \gamma \cdot E_I(A, 环境)`$
 
-其中 $E_Q$, $E_C$, $E_I$ 分别是量子、经典和界面伦理评估函数，系数 $\alpha$, $\beta$, $\gamma$ 根据情境动态调整。
+其中 $`E_Q`$, $`E_C`$, $`E_I`$ 分别是量子、经典和界面伦理评估函数，系数 $`\alpha`$, $`\beta`$, $`\gamma`$ 根据情境动态调整。
 
 ### 全球伦理整合路径
 
@@ -174,9 +174,9 @@ $$D = \alpha \cdot E_Q(A) + \beta \cdot E_C(A) + \gamma \cdot E_I(A, 环境)$$
 
 社会系统整合方程：
 
-$$S = f(S_Q, S_C) = \int d\mu(x) \phi_Q(x) \phi_C(x)$$
+$`S = f(S_Q, S_C) = \int d\mu(x) \phi_Q(x) \phi_C(x)`$
 
-其中 $\phi_Q$ 和 $\phi_C$ 分别是社会系统的量子与经典状态函数，$d\mu(x)$ 是文化-历史空间的测度。
+其中 $`\phi_Q`$ 和 $`\phi_C`$ 分别是社会系统的量子与经典状态函数，$`d\mu(x)`$ 是文化-历史空间的测度。
 
 ### 政治哲学新综合
 
@@ -199,9 +199,9 @@ $$S = f(S_Q, S_C) = \int d\mu(x) \phi_Q(x) \phi_C(x)$$
 
 政治整合函数：
 
-$$P_{整合} = \omega_Q \cdot P_Q + \omega_C \cdot P_C + \omega_I \cdot P_I(P_Q, P_C)$$
+$`P_{整合} = \omega_Q \cdot P_Q + \omega_C \cdot P_C + \omega_I \cdot P_I(P_Q, P_C)`$
 
-其中 $P_Q$, $P_C$ 分别是政治系统的量子与经典组成，$P_I$ 是调和界面，$\omega$ 系数根据社会环境和发展阶段调整。
+其中 $`P_Q`$, $`P_C`$ 分别是政治系统的量子与经典组成，$`P_I`$ 是调和界面，$`\omega`$ 系数根据社会环境和发展阶段调整。
 
 ## 人类意识演化的跨文化整合
 
@@ -227,9 +227,9 @@ $$P_{整合} = \omega_Q \cdot P_Q + \omega_C \cdot P_C + \omega_I \cdot P_I(P_Q,
 
 意识发展函数：
 
-$$C(t) = \alpha(t) \cdot C_Q(t) + \beta(t) \cdot C_C(t) + \gamma(t) \cdot C_I(t)$$
+$`C(t) = \alpha(t) \cdot C_Q(t) + \beta(t) \cdot C_C(t) + \gamma(t) \cdot C_I(t)`$
 
-其中 $C_Q$, $C_C$, $C_I$ 分别是量子、经典和界面意识成分，系数 $\alpha$, $\beta$, $\gamma$ 随文化发展阶段变化。
+其中 $`C_Q`$, $`C_C`$, $`C_I`$ 分别是量子、经典和界面意识成分，系数 $`\alpha`$, $`\beta`$, $`\gamma`$ 随文化发展阶段变化。
 
 ### 意识技术的跨文化整合
 
@@ -243,9 +243,9 @@ $$C(t) = \alpha(t) \cdot C_Q(t) + \beta(t) \cdot C_C(t) + \gamma(t) \cdot C_I(t)
 
 整合技术效能函数：
 
-$$E(T) = \int_{\Omega} \phi_Q(x) \cdot \phi_C(x) \cdot \phi_I(x) \cdot T(x) dx$$
+$`E(T) = \int_{\Omega} \phi_Q(x) \cdot \phi_C(x) \cdot \phi_I(x) \cdot T(x) dx`$
 
-其中 $T(x)$ 是技术应用函数，$\phi$ 函数是不同意识领域的状态分布。
+其中 $`T(x)`$ 是技术应用函数，$`\phi`$ 函数是不同意识领域的状态分布。
 
 ### 共同人类意识的未来
 
@@ -281,7 +281,7 @@ $$E(T) = \int_{\Omega} \phi_Q(x) \cdot \phi_C(x) \cdot \phi_I(x) \cdot T(x) dx$$
    - 心身关系的尺度相关性
    - 多层次双向因果网络
 
-$$M-B = \oint_{\mathcal{I}} \psi_M \cdot \phi_B \cdot d\mathcal{I}$$
+$`M-B = \oint_{\mathcal{I}} \psi_M \cdot \phi_B \cdot d\mathcal{I}`$
 
 其中界面积分揭示了心身关系的深层互联。
 
@@ -298,9 +298,9 @@ $$M-B = \oint_{\mathcal{I}} \psi_M \cdot \phi_B \cdot d\mathcal{I}$$
    - 多层次选择空间模型
    - 因果网络中的涌现自主性
 
-$$F = \nabla_Q A - \nabla_C C + \Delta_I$$
+$`F = \nabla_Q A - \nabla_C C + \Delta_I`$
 
-其中 $\nabla_Q A$ 是量子可能性梯度，$\nabla_C C$ 是经典约束梯度，$\Delta_I$ 是界面自由度。
+其中 $`\nabla_Q A`$ 是量子可能性梯度，$`\nabla_C C`$ 是经典约束梯度，$`\Delta_I`$ 是界面自由度。
 
 ### 案例三：美学体验的跨文化统一
 
@@ -315,9 +315,9 @@ $$F = \nabla_Q A - \nabla_C C + \Delta_I$$
    - 审美体验的观察者参与创造性
    - 共鸣作为艺术的核心机制
 
-$$B = \int_{\Omega_Q \times \Omega_C} \rho_Q(x) \cdot \rho_C(y) \cdot R(x,y) dxdy$$
+$`B = \int_{\Omega_Q \times \Omega_C} \rho_Q(x) \cdot \rho_C(y) \cdot R(x,y) dxdy`$
 
-其中 $R(x,y)$ 是量子-经典共鸣函数，决定美感强度。
+其中 $`R(x,y)`$ 是量子-经典共鸣函数，决定美感强度。
 
 ## 结论：走向全球哲学共同体
 

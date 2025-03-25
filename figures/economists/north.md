@@ -15,7 +15,7 @@
    - 又体现为经典域的确定性结构（正式制度）
    
 2. **制度变迁的路径依赖**
-   $$\mathcal{P}(t) = f(\mathcal{P}(t-1), \Delta I_t)$$
+   $`\mathcal{P}(t) = f(\mathcal{P}(t-1), \Delta I_t)`$
    - 路径依赖反映了从量子可能性到经典实现的概率坍缩过程
    - 制度变迁的不确定性与量子叠加态的概念相呼应
 
@@ -27,9 +27,9 @@
 
 在量子经典二元论框架下，诺斯的制度理论可表达为：
 
-$$\mathcal{M}_{\text{North}}: \Omega_Q^{\text{社会}} \rightarrow \Omega_C^{\text{制度}}$$
+$`\mathcal{M}_{\text{North}}: \Omega_Q^{\text{社会}} \rightarrow \Omega_C^{\text{制度}}`$
 
-其中$\Omega_Q^{\text{社会}}$代表社会互动的量子可能性空间，$\Omega_C^{\text{制度}}$代表通过制度确立的经典确定性空间。
+其中$`\Omega_Q^{\text{社会}}`$代表社会互动的量子可能性空间，$`\Omega_C^{\text{制度}}`$代表通过制度确立的经典确定性空间。
 
 ### 历史影响
 
@@ -48,7 +48,7 @@ Douglass North (1920-2015), as the pioneer of New Institutional Economics, his i
    - And manifest as deterministic structures in classical domain (formal institutions)
 
 2. **Path Dependence in Institutional Change**
-   $$\mathcal{P}(t) = f(\mathcal{P}(t-1), \Delta I_t)$$
+   $`\mathcal{P}(t) = f(\mathcal{P}(t-1), \Delta I_t)`$
    - Path dependence reflects the probability collapse process from quantum possibilities to classical realization
    - Uncertainty in institutional change corresponds to quantum superposition concepts
 
@@ -60,9 +60,9 @@ Douglass North (1920-2015), as the pioneer of New Institutional Economics, his i
 
 Within quantum-classical dualism framework, North's institutional theory can be expressed as:
 
-$$\mathcal{M}_{\text{North}}: \Omega_Q^{\text{social}} \rightarrow \Omega_C^{\text{institutional}}$$
+$`\mathcal{M}_{\text{North}}: \Omega_Q^{\text{social}} \rightarrow \Omega_C^{\text{institutional}}`$
 
-Where $\Omega_Q^{\text{social}}$ represents the quantum possibility space of social interactions, and $\Omega_C^{\text{institutional}}$ represents the classical deterministic space established through institutions.
+Where $`\Omega_Q^{\text{social}}`$ represents the quantum possibility space of social interactions, and $`\Omega_C^{\text{institutional}}`$ represents the classical deterministic space established through institutions.
 
 ### Historical Impact
 

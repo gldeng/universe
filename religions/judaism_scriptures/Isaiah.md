@@ -51,28 +51,28 @@ The Book of Isaiah is one of the most important prophetic books in the Jewish an
 ## 数学表达 (Mathematical Expression)
 
 ### 先知纠缠通信方程
-$$
+$`
 |\psi_{\text{Prophet}}\rangle = \alpha|\psi_{\text{Divine}}\rangle \otimes |\psi_{\text{Human}}\rangle
-$$
+`$
 
 其中：
-- $|\psi_{\text{Prophet}}\rangle$ 表示先知的量子态
-- $|\psi_{\text{Divine}}\rangle$ 代表神性维度的量子态
-- $|\psi_{\text{Human}}\rangle$ 代表人性维度的量子态
-- $\alpha$ 是纠缠强度系数
-- $\otimes$ 表示张量积，体现纠缠关系
+- $`|\psi_{\text{Prophet}}\rangle`$ 表示先知的量子态
+- $`|\psi_{\text{Divine}}\rangle`$ 代表神性维度的量子态
+- $`|\psi_{\text{Human}}\rangle`$ 代表人性维度的量子态
+- $`\alpha`$ 是纠缠强度系数
+- $`\otimes`$ 表示张量积，体现纠缠关系
 
 ### 预言经典化概率方程
-$$
+$`
 P(t) = |\langle\phi_{\text{Future}}|\psi_{\text{Prophecy}}\rangle|^2 \cdot \left(1 - e^{-\lambda t}\right)
-$$
+`$
 
 其中：
-- $P(t)$ 是预言在t时刻实现的经典化概率
-- $|\phi_{\text{Future}}\rangle$ 是未来实际发生的状态
-- $|\psi_{\text{Prophecy}}\rangle$ 是预言中描述的状态
-- $\lambda$ 是时间相关的经典化速率
-- $t$ 是从预言发出到观察的时间间隔
+- $`P(t)`$ 是预言在t时刻实现的经典化概率
+- $`|\phi_{\text{Future}}\rangle`$ 是未来实际发生的状态
+- $`|\psi_{\text{Prophecy}}\rangle`$ 是预言中描述的状态
+- $`\lambda`$ 是时间相关的经典化速率
+- $`t`$ 是从预言发出到观察的时间间隔
 
 ## 结论 (Conclusion)
 

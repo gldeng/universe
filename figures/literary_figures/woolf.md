@@ -15,7 +15,7 @@
    - 多重视角反映了观察者效应的复杂性
    
 2. **时间的量子-经典双重性**
-   $$T = \sum_{i} \alpha_i |\text{主观}_i\rangle + \sum_{j} \beta_j |\text{客观}_j\rangle$$
+   $`T = \sum_{i} \alpha_i |\text{主观}_i\rangle + \sum_{j} \beta_j |\text{客观}_j\rangle`$
    - 主观时间流动反映量子域的不确定性
    - 客观时钟时间代表经典域的确定性
 
@@ -27,9 +27,9 @@
 
 在量子经典二元论框架下，伍尔夫的写作可表达为：
 
-$$\mathcal{M}_{\text{Woolf}}: \Omega_Q^{\text{意识}} \xrightarrow{\text{文学创作}} \Omega_C^{\text{文本}}$$
+$`\mathcal{M}_{\text{Woolf}}: \Omega_Q^{\text{意识}} \xrightarrow{\text{文学创作}} \Omega_C^{\text{文本}}`$
 
-其中$\Omega_Q^{\text{意识}}$代表意识流动的量子可能性空间，$\Omega_C^{\text{文本}}$代表通过写作固化的经典确定性文本。
+其中$`\Omega_Q^{\text{意识}}`$代表意识流动的量子可能性空间，$`\Omega_C^{\text{文本}}`$代表通过写作固化的经典确定性文本。
 
 ### 历史影响
 
@@ -48,7 +48,7 @@ Virginia Woolf (1882-1941), as a representative figure of modernist literature, 
    - Multiple perspectives reflect complexity of observer effects
 
 2. **Quantum-Classical Duality of Time**
-   $$T = \sum_{i} \alpha_i |\text{subjective}_i\rangle + \sum_{j} \beta_j |\text{objective}_j\rangle$$
+   $`T = \sum_{i} \alpha_i |\text{subjective}_i\rangle + \sum_{j} \beta_j |\text{objective}_j\rangle`$
    - Subjective time flow reflects quantum domain uncertainty
    - Objective clock time represents classical domain determinism
 
@@ -60,9 +60,9 @@ Virginia Woolf (1882-1941), as a representative figure of modernist literature, 
 
 Within quantum-classical dualism framework, Woolf's writing can be expressed as:
 
-$$\mathcal{M}_{\text{Woolf}}: \Omega_Q^{\text{consciousness}} \xrightarrow{\text{literary creation}} \Omega_C^{\text{text}}$$
+$`\mathcal{M}_{\text{Woolf}}: \Omega_Q^{\text{consciousness}} \xrightarrow{\text{literary creation}} \Omega_C^{\text{text}}`$
 
-Where $\Omega_Q^{\text{consciousness}}$ represents the quantum possibility space of consciousness flow, and $\Omega_C^{\text{text}}$ represents the classical deterministic text solidified through writing.
+Where $`\Omega_Q^{\text{consciousness}}`$ represents the quantum possibility space of consciousness flow, and $`\Omega_C^{\text{text}}`$ represents the classical deterministic text solidified through writing.
 
 ### Historical Impact
 

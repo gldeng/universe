@@ -44,13 +44,13 @@ In the Quantum Universe-Observer framework, computation is understood as a forma
 
 Mathematical representation of the nature of computation:
 
-$$
+$`
 \text{计算} = \{\text{状态空间}, \text{转换规则}, \text{初始状态}, \text{终止条件}\}
-$$
+`$
 
-$$
+$`
 \text{计算能力} = f(\text{物理实现}, \text{算法效率}) = f(\text{能量}, \text{时间}, \text{空间}, \text{算法复杂度})
-$$
+`$
 
 这一解释将计算理解为信息处理的形式化过程，强调了计算与物理实现的内在联系和不同计算模型的互补性。
 
@@ -92,13 +92,13 @@ AI与意识的数学表示：
 
 Mathematical representation of AI and consciousness:
 
-$$
+$`
 \text{AI} = \text{模拟}(\text{观察者经典化功能}) = \{\text{感知}, \text{处理}, \text{决策}, \text{学习}\}
-$$
+`$
 
-$$
+$`
 \text{AI意识可能性} = f(\text{量子信息访问}, \text{自参照结构}, \text{主观表征})
-$$
+`$
 
 这一解释将人工智能理解为模拟观察者经典化功能的系统，强调了AI发展真正意识的可能性和条件。
 
@@ -142,13 +142,13 @@ In the Quantum Universe-Observer framework, quantum computing is understood as a
 
 Mathematical representation of quantum computing:
 
-$$
+$`
 \text{量子计算} = \text{操作}(\text{量子信息}) = \text{操作}(|\psi\rangle)
-$$
+`$
 
-$$
+$`
 \text{量子优势} = \frac{\text{经典计算复杂度}}{\text{量子计算复杂度}} \approx \frac{2^n}{n^k}
-$$
+`$
 
 这一解释将量子计算理解为直接操作量子信息的计算模式，强调了量子计算在揭示信息处理本质和创造新计算范式方面的革命性意义。
 
@@ -188,13 +188,13 @@ In the Quantum Universe-Observer framework, machine learning is understood as st
 
 Mathematical representation of machine learning:
 
-$$
+$`
 \text{机器学习} = \text{近似}(\text{经典化模式}) = \arg\min_{\theta} \text{损失}(f_{\theta}(\text{输入}), \text{目标})
-$$
+`$
 
-$$
+$`
 \text{学习能力} = f(\text{模型复杂度}, \text{数据质量}, \text{优化效率})
-$$
+`$
 
 这一解释将机器学习理解为经典化模式的统计近似，强调了机器学习与人类学习的异同及其在模拟观察者经典化功能方面的潜力和局限。
 
@@ -234,13 +234,13 @@ In the Quantum Universe-Observer framework, human-computer interaction is unders
 
 Mathematical representation of human-computer interaction:
 
-$$
+$`
 \text{人机交互} = \{\text{输入}(\text{人} \rightarrow \text{机}), \text{处理}(\text{机}), \text{输出}(\text{机} \rightarrow \text{人})\}
-$$
+`$
 
-$$
+$`
 \text{交互效率} = \frac{\text{有效信息传递}}{\text{认知负担}} = \frac{\text{任务完成质量}}{\text{时间 + 努力}}
-$$
+`$
 
 这一解释将人机交互理解为观察者与人工系统之间的经典化信息交换，强调了人机协作在扩展人类认知能力方面的潜力和设计原则。
 
@@ -276,13 +276,13 @@ In the Quantum Universe-Observer framework, computational complexity is understo
 
 Mathematical representation of computational complexity:
 
-$$
+$`
 \text{时间复杂度} = O(f(n)) = \text{算法执行步骤数量的增长率}
-$$
+`$
 
-$$
+$`
 \text{复杂性类别关系} = \{P \subseteq NP, BPP, BQP \subseteq PSPACE\}
-$$
+`$
 
 这一解释将计算复杂性理解为信息处理资源需求的度量，强调了复杂性理论在揭示信息处理基本规律和限制方面的深远意义。
 
@@ -314,13 +314,13 @@ In the Quantum Universe-Observer framework, information security is understood a
 
 Mathematical representation of information security:
 
-$$
+$`
 \text{密码安全性} = \frac{\text{破解所需计算资源}}{\text{可用计算资源}} \gg 1
-$$
+`$
 
-$$
+$`
 \text{量子密钥分发安全性} = f(\text{量子不确定性}, \text{不可克隆定理}) \approx \text{物理定律保证}
-$$
+`$
 
 这一解释将信息安全理解为控制经典化信息访问的机制，强调了量子计算对传统密码学的挑战和量子密码学的新安全范式。
 
@@ -364,13 +364,13 @@ In the Quantum Universe-Observer framework, distributed systems are understood a
 
 Mathematical representation of distributed systems:
 
-$$
+$`
 \text{分布式系统} = \{\text{节点}_1, \text{节点}_2, \ldots, \text{节点}_n, \text{通信协议}, \text{共识机制}\}
-$$
+`$
 
-$$
+$`
 \text{系统性能} = f(\text{节点数量}, \text{通信效率}, \text{一致性强度}, \text{容错能力})
-$$
+`$
 
 这一解释将分布式系统理解为多观察者协同经典化的信息处理网络，强调了分布式系统在实现去中心化信任和协作方面的创新意义。
 

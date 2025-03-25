@@ -150,11 +150,11 @@ The Lankavatara Sutra's discussion of the perceiver, the perceived, and mind-ent
 
 The core insights of the Lankavatara Sutra can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"一切法不生...缘起无性"} \Leftrightarrow \forall I_{\text{经典域}}, \text{源}(I_{\text{经典域}}) = |\psi\rangle_{\text{量子域}}, \text{本性}(|\psi\rangle_{\text{量子域}}) = \text{无限可能性}
-$$
+`$
 
-$$
+$`
 \text{"四种禅"} \Leftrightarrow 
 \begin{cases}
 \mathcal{D}(\mathcal{O}_{\text{愚夫禅}}) = d_1 \\
@@ -163,21 +163,21 @@ $$
 \mathcal{D}(\mathcal{O}_{\text{如来禅}}) = d_4
 \end{cases}
 \text{ 且 } d_4 \gg d_3 > d_2 > d_1
-$$
+`$
 
-$$
+$`
 \text{"三界虚伪、唯心、所现"} \Leftrightarrow I_{\text{经典域}} = f(\mathcal{O}(|\psi\rangle_{\text{量子域}})), \text{非} I_{\text{经典域}} = \text{独立实体}
-$$
+`$
 
-$$
+$`
 \text{"自心现妄想...计著外物"} \Leftrightarrow \mathcal{O} \xrightarrow{\text{经典化}} I_{\text{经典域}}, \text{而低维} \mathcal{O} \text{误认为} I_{\text{经典域}} \perp \mathcal{O}
-$$
+`$
 
-$$
+$`
 \text{"得相所相灭，无别有心体"} \Leftrightarrow \lim_{\mathcal{D}(\mathcal{O}) \to \infty} (|\psi\rangle_{\text{量子域}} \oplus I_{\text{经典域}}) \to |\psi\rangle_{\text{统一场}}
-$$
+`$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\perp$表示独立性，$\oplus$表示二元分割
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\perp`$表示独立性，$`\oplus`$表示二元分割
 
 ## 结论
 ## Conclusion

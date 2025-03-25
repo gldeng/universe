@@ -62,28 +62,28 @@ English: [Scripture Overview](#scripture-overview) | [Core Teachings](#core-teac
 
 华严经的"重重无尽"法界可通过量子态的张量积和纠缠态表达：
 
-$$
+$`
 |\Psi_{\text{华严法界}}\rangle = \sum_{i,j,k...} c_{ijk...} |i\rangle \otimes |j\rangle \otimes |k\rangle ...
-$$
+`$
 
 其中每个|i⟩代表一个法界单元，而整体态|\Psi_{\text{华严法界}}⟩不能简单分解为各部分的乘积。
 
 因陀罗网的相互映射关系可表示为递归量子纠缠态：
 
-$$
+$`
 |\Psi_{\text{因陀罗网}}\rangle = \lim_{n\to\infty} \sum_{i=1}^{n} \alpha_i |i\rangle \otimes |\Psi_{\text{因陀罗网}}^{(i)}\rangle
-$$
+`$
 
 十玄门中的"一多相容"可表达为量子态与经典态之间的映射函数：
 
-$$
+$`
 f: \mathcal{H}_{\text{量子域}} \rightarrow \mathcal{M}_{\text{经典域}}
-$$
+`$
 
-使得对于任意$h \in \mathcal{H}$，存在双向包含关系：
-$$
+使得对于任意$`h \in \mathcal{H}`$，存在双向包含关系：
+$`
 \forall h_1, h_2 \in \mathcal{H}, \exists m_1, m_2 \in \mathcal{M} : f(h_1) \subset f(h_2) \text{ 且 } f(h_2) \subset f(h_1)
-$$
+`$
 
 ### 结论
 
@@ -150,28 +150,28 @@ The Avatamsaka cosmology corresponds remarkably with the Quantum-Classical Duali
 
 The infinite interpenetration of Avatamsaka realms can be expressed through tensor products and entangled quantum states:
 
-$$
+$`
 |\Psi_{\text{Avatamsaka}}\rangle = \sum_{i,j,k...} c_{ijk...} |i\rangle \otimes |j\rangle \otimes |k\rangle ...
-$$
+`$
 
 Where each |i⟩ represents a dharmadhatu unit, and the total state |\Psi_{\text{Avatamsaka}}⟩ cannot be factorized into the product of individual parts.
 
 The mutual reflection relationship of Indra's Net can be represented as a recursive quantum entangled state:
 
-$$
+$`
 |\Psi_{\text{Indra's Net}}\rangle = \lim_{n\to\infty} \sum_{i=1}^{n} \alpha_i |i\rangle \otimes |\Psi_{\text{Indra's Net}}^{(i)}\rangle
-$$
+`$
 
 The "one and many containing each other" from Ten Mysterious Gates can be expressed as a mapping function between quantum and classical states:
 
-$$
+$`
 f: \mathcal{H}_{\text{quantum domain}} \rightarrow \mathcal{M}_{\text{classical domain}}
-$$
+`$
 
-Such that for any $h \in \mathcal{H}$, there exists a bidirectional containment relationship:
-$$
+Such that for any $`h \in \mathcal{H}`$, there exists a bidirectional containment relationship:
+$`
 \forall h_1, h_2 \in \mathcal{H}, \exists m_1, m_2 \in \mathcal{M} : f(h_1) \subset f(h_2) \text{ and } f(h_2) \subset f(h_1)
-$$
+`$
 
 ### Conclusion
 

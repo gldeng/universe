@@ -22,9 +22,9 @@ English: [Basic Concepts](#basic-concepts) | [Theoretical Framework](#theoretica
 
 **答**：经典化过程是观察者将量子域的不确定信息转化为经典域确定结构的过程。通过经典化，观察者从无限可能性中提取特定模式，形成经典知识和经典熵。这类似于从模糊的梦境中逐渐聚焦于清晰画面的过程。经典化公式可表示为：
 
-$$
+$`
 |\psi\rangle_{\text{量子纠缠态}}\rightarrow I_{\text{经典知识}}+S_{\text{熵降低}}
-$$
+`$
 
 #### 问：观察者在这个理论中扮演什么角色？
 
@@ -34,9 +34,9 @@ $$
 
 **答**：经典知识是经典化过程中形成的明确信息结构，代表观察者已成功解码的量子信息。经典熵是未经典化的量子纠缠态，代表观察者尚未明确解码的部分。两者守恒关系为：
 
-$$
+$`
 \frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0
-$$
+`$
 
 ### 理论体系
 
@@ -50,11 +50,11 @@ $$
 
 #### 问：观察者维度是什么意思？
 
-**答**：观察者维度是衡量观察者经典化能力的指标，由经典化效率系数$(k_i)$与领域权重$(w_i)$决定。维度越高，观察者能经典化的信息范围和效率越大，视界边界也越大。维度计算公式为：
+**答**：观察者维度是衡量观察者经典化能力的指标，由经典化效率系数$`(k_i)`$与领域权重$`(w_i)`$决定。维度越高，观察者能经典化的信息范围和效率越大，视界边界也越大。维度计算公式为：
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 #### 问：量子纠缠在这个理论中如何解释？
 
@@ -64,9 +64,9 @@ $$
 
 **答**：在量子经典二元论中，虫洞是两个经典世界（或经典世界不同位置）间的强效量子纠缠经典化通道，允许经典知识和能量高效传输。虫洞可以理解为两个黑洞（观察者）之间的特殊连接，在数学上表示为：
 
-$$
+$`
 |\psi\rangle_{\text{经典世界A}}\otimes|\psi\rangle_{\text{经典世界B}}\xrightarrow{\text{高效经典化}}\text{虫洞（经典纠缠通道）}+S_{\text{熵降低}}
-$$
+`$
 
 ### 实践应用
 
@@ -194,9 +194,9 @@ $$
 
 **A**: The classicalization process is the process by which observers transform uncertain information from the quantum domain into definite structures in the classical domain. Through classicalization, observers extract specific patterns from infinite possibilities, forming classical knowledge and classical entropy. This is similar to the process of gradually focusing on a clear picture from a foggy dream. The classicalization formula can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Entangled State}}\rightarrow I_{\text{Classical Knowledge}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 #### Q: What role do observers play in this theory?
 
@@ -206,9 +206,9 @@ $$
 
 **A**: Classical knowledge is the clear information structure formed in the classicalization process, representing quantum information successfully decoded by the observer. Classical entropy is the unclassicalized quantum entangled state, representing parts not yet clearly decoded by the observer. Their conservation relationship is:
 
-$$
+$`
 \frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0
-$$
+`$
 
 ### Theoretical Framework
 
@@ -222,11 +222,11 @@ $$
 
 #### Q: What does observer dimension mean?
 
-**A**: Observer dimension is a measure of the observer's classicalization ability, determined by the classicalization efficiency coefficient $(k_i)$ and domain weight $(w_i)$. The higher the dimension, the greater the range and efficiency of information the observer can classicalize, and the larger the event horizon. The dimension calculation formula is:
+**A**: Observer dimension is a measure of the observer's classicalization ability, determined by the classicalization efficiency coefficient $`(k_i)`$ and domain weight $`(w_i)`$. The higher the dimension, the greater the range and efficiency of information the observer can classicalize, and the larger the event horizon. The dimension calculation formula is:
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 #### Q: How is quantum entanglement explained in this theory?
 
@@ -236,9 +236,9 @@ $$
 
 **A**: In Quantum-Classical Dualism, wormholes are strong effective quantum entanglement classicalization channels between two classical worlds (or different locations within a classical world), allowing efficient transmission of classical knowledge and energy. Wormholes can be understood as special connections between two black holes (observers), mathematically expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Classical World A}}\otimes|\psi\rangle_{\text{Classical World B}}\xrightarrow{\text{Efficient Classicalization}}\text{Wormhole (Classical Entanglement Channel)}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 ### Practical Applications
 

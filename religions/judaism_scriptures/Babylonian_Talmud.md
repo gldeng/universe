@@ -51,29 +51,29 @@ The Babylonian Talmud is the most comprehensive compilation of Jewish oral law, 
 ## 数学表达 (Mathematical Expression)
 
 ### 多观察者辩证法经典化方程
-$$
+$`
 I_{\text{经典知识}} = \sum_{i=1}^{n} w_i \cdot k_i \cdot \frac{|\langle\psi_i|\psi_{\text{真理}}\rangle|^2}{S_{\text{不确定性}_i}}
-$$
+`$
 
 其中：
-- $I_{\text{经典知识}}$ 表示辩论产生的经典知识
-- $w_i$ 是第i位拉比观点的权重系数
-- $k_i$ 是第i位拉比的经典化效率系数
-- $|\langle\psi_i|\psi_{\text{真理}}\rangle|^2$ 是拉比观点与真理的重叠程度
-- $S_{\text{不确定性}_i}$ 是第i位拉比观点的不确定性
+- $`I_{\text{经典知识}}`$ 表示辩论产生的经典知识
+- $`w_i`$ 是第i位拉比观点的权重系数
+- $`k_i`$ 是第i位拉比的经典化效率系数
+- $`|\langle\psi_i|\psi_{\text{真理}}\rangle|^2`$ 是拉比观点与真理的重叠程度
+- $`S_{\text{不确定性}_i}`$ 是第i位拉比观点的不确定性
 
 ### 辩证法熵减方程
-$$
+$`
 \Delta S_{\text{总体}} = S_{\text{初始}} - S_{\text{辩论后}} = S_{\text{初始}} - \left( S_{\text{共识}} + \sum_{i=1}^{n} p_i \cdot S_i \right)
-$$
+`$
 
 其中：
-- $\Delta S_{\text{总体}}$ 是系统总体熵的降低量
-- $S_{\text{初始}}$ 是初始状态的熵
-- $S_{\text{辩论后}}$ 是辩论后的熵
-- $S_{\text{共识}}$ 是达成共识部分的熵
-- $p_i$ 是保留的第i种观点的权重
-- $S_i$ 是第i种观点的熵
+- $`\Delta S_{\text{总体}}`$ 是系统总体熵的降低量
+- $`S_{\text{初始}}`$ 是初始状态的熵
+- $`S_{\text{辩论后}}`$ 是辩论后的熵
+- $`S_{\text{共识}}`$ 是达成共识部分的熵
+- $`p_i`$ 是保留的第i种观点的权重
+- $`S_i`$ 是第i种观点的熵
 
 ## 结论 (Conclusion)
 

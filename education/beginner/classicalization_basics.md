@@ -9,9 +9,9 @@
 
 经典化是量子经典二元论中的核心概念之一，它描述了从量子域到经典域的转换过程。
 
-$$
+$`
 \text{经典化} = \text{量子域} \rightarrow \text{经典域}
-$$
+`$
 
 ## 基本概念
 
@@ -27,14 +27,14 @@ $$
    - 经典化过程是单向的
    - 信息熵降低
 
-$$
+$`
 \text{经典化过程} = \begin{cases}
 \text{输入：量子叠加态} \\
 \text{输出：经典确定态} \\
 \text{特性：不可逆} \\
 \text{熵变：降低}
 \end{cases}
-$$
+`$
 
 ### 经典化的类型
 
@@ -68,9 +68,9 @@ $$
 
 经典化效率的计算：
 
-$$
+$`
 \text{经典化效率} = \frac{\text{输出信息量}}{\text{输入信息量}} \times 100\%
-$$
+`$
 
 ## 经典化的实践
 
@@ -117,9 +117,9 @@ $$
 
 Classicalization is one of the core concepts in quantum-classical dualism, describing the transformation process from quantum domain to classical domain.
 
-$$
+$`
 \text{Classicalization} = \text{Quantum Domain} \rightarrow \text{Classical Domain}
-$$
+`$
 
 ## Basic Concepts
 
@@ -135,14 +135,14 @@ Classicalization is the process of converting uncertain states in the quantum do
    - Classicalization is unidirectional
    - Information entropy decreases
 
-$$
+$`
 \text{Classicalization Process} = \begin{cases}
 \text{Input: Quantum Superposition State} \\
 \text{Output: Classical Definite State} \\
 \text{Property: Irreversible} \\
 \text{Entropy Change: Decrease}
 \end{cases}
-$$
+`$
 
 ### Types of Classicalization
 
@@ -176,9 +176,9 @@ $$
 
 Calculation of classicalization efficiency:
 
-$$
+$`
 \text{Classicalization Efficiency} = \frac{\text{Output Information}}{\text{Input Information}} \times 100\%
-$$
+`$
 
 ## Classicalization Practice
 

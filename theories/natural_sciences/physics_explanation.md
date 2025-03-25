@@ -42,7 +42,7 @@ English: [Introduction](#1-introduction-physics-and-quantum-classical-dualism) |
 |\psi\rangle = \sum_i c_i |\psi_i\rangle \xrightarrow{\text{测量}} |\psi_j\rangle
 ```
 
-其中，测量得到特定结果 $j$ 的概率为 $|c_j|^2$。
+其中，测量得到特定结果 $`j`$ 的概率为 $`|c_j|^2`$。
 
 类似地，量子经典二元论中的经典化过程可表示为：
 
@@ -78,7 +78,7 @@ English: [Introduction](#1-introduction-physics-and-quantum-classical-dualism) |
 S = k_B \ln \Omega
 ```
 
-其中 $\Omega$ 是系统可能的微观状态数，$k_B$ 是玻尔兹曼常数。
+其中 $`\Omega`$ 是系统可能的微观状态数，$`k_B`$ 是玻尔兹曼常数。
 
 量子经典二元论中的经典熵同样表示系统的不确定性或无序度，但更侧重于信息的角度：
 
@@ -100,7 +100,7 @@ I_{\text{经典信息}} = I_{\text{经典知识}} + S_{\text{经典熵}} = \text
 \Delta U = Q - W
 ```
 
-其中，系统内能变化 $\Delta U$ 等于系统吸收的热量 $Q$ 减去系统对外做功 $W$。
+其中，系统内能变化 $`\Delta U`$ 等于系统吸收的热量 $`Q`$ 减去系统对外做功 $`W`$。
 
 在量子经典二元论中，经典知识可类比为有序能量（可做功），经典熵可类比为无序能量（热能）。
 
@@ -175,17 +175,17 @@ S_{\text{低维观察者（熵）}} \xrightarrow{\text{高维经典化}} I_{\tex
 
 黑洞吸收过程是物理学上的强引力场捕获信息的过程，在量子经典二元论中，这对应着观察者经典化量子域信息的过程：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{黑洞吸收（经典化）}}I_{\text{经典知识}}+S_{\text{经典熵}}
-$$
+`$
 
 ### 6.3 黑洞辐射与量子化的对应关系
 
 霍金辐射是黑洞向外释放信息的过程，在量子经典二元论中，这对应着观察者将经典信息量子化的过程：
 
-$$
+$`
 I_{\text{经典知识}}+S_{\text{经典熵}}\xrightarrow{\text{黑洞辐射（量子化）}}|\psi\rangle_{\text{量子域}}
-$$
+`$
 
 ### 6.4 物理实验验证可能性
 
@@ -247,7 +247,7 @@ The **classicalization process** in Quantum-Classical Dualism can be directly an
 |\psi\rangle = \sum_i c_i |\psi_i\rangle \xrightarrow{\text{Measurement}} |\psi_j\rangle
 ```
 
-Where the probability of obtaining a specific result $j$ is $|c_j|^2$.
+Where the probability of obtaining a specific result $`j`$ is $`|c_j|^2`$.
 
 Similarly, the classicalization process in Quantum-Classical Dualism can be represented as:
 
@@ -283,7 +283,7 @@ The concept of **entropy** in thermodynamics provides a direct analogy for under
 S = k_B \ln \Omega
 ```
 
-Where $\Omega$ is the number of possible microscopic states of the system, and $k_B$ is the Boltzmann constant.
+Where $`\Omega`$ is the number of possible microscopic states of the system, and $`k_B`$ is the Boltzmann constant.
 
 Classical entropy in Quantum-Classical Dualism similarly represents the uncertainty or disorder of a system, but with a greater emphasis on the information aspect:
 
@@ -305,7 +305,7 @@ Can be analogized to the First Law of Thermodynamics (conservation of energy):
 \Delta U = Q - W
 ```
 
-Where the change in internal energy of the system $\Delta U$ equals the heat absorbed by the system $Q$ minus the work done by the system $W$.
+Where the change in internal energy of the system $`\Delta U`$ equals the heat absorbed by the system $`Q`$ minus the work done by the system $`W`$.
 
 In Quantum-Classical Dualism, classical knowledge can be analogized to ordered energy (capable of doing work), and classical entropy can be analogized to disordered energy (heat).
 
@@ -380,17 +380,17 @@ According to Quantum-Classical Dualism (version 9.2), all observers are black ho
 
 The process of black hole absorption is the process of a strong gravitational field capturing information in physics, which corresponds to the observer classicalizing quantum domain information in Quantum-Classical Dualism:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Black Hole Absorption (Classicalization)}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
-$$
+`$
 
 ### 6.3 Black Hole Radiation and Quantization Correspondence
 
 Hawking radiation is the process of a black hole releasing information, which corresponds to the observer quantizing classical information in Quantum-Classical Dualism:
 
-$$
+$`
 I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} \xrightarrow{\text{Black Hole Radiation (Quantization)}} |\psi\rangle_{\text{Quantum Domain}}
-$$
+`$
 
 ### 6.4 Physical Experiment Verification Possibility
 
@@ -424,9 +424,9 @@ Through the physics perspective, Quantum-Classical Dualism can not only obtain m
 
 量子信息场是一种统一的基础场，描述了宇宙中所有量子信息的分布和演化：
 
-$$
+$`
 \Phi_{\text{量子信息场}}=\sum_{i,j} |\psi_i\rangle \otimes |\psi_j\rangle
-$$
+`$
 
 该场具有以下物理特性：
 
@@ -438,13 +438,13 @@ $$
 
 量子信息场的动力学方程：
 
-$$
+$`
 i\hbar\frac{\partial\Phi}{\partial t}=\hat{H}_{\text{信息}}\Phi+\sum_i\hat{O}_i\Phi
-$$
+`$
 
 其中：
-- $\hat{H}_{\text{信息}}$ 是信息哈密顿算符
-- $\hat{O}_i$ 是观察者作用算符
+- $`\hat{H}_{\text{信息}}`$ 是信息哈密顿算符
+- $`\hat{O}_i`$ 是观察者作用算符
 
 ## 维度共振的物理机制 | Physical Mechanism of Dimensional Resonance
 
@@ -452,15 +452,15 @@ $$
 
 维度共振发生的基本条件：
 
-$$
+$`
 f_{\text{共振}}=\frac{D_{\text{高维观察者}}}{D_{\text{低维观察者}}}=n,\quad n\in\mathbb{N}
-$$
+`$
 
 共振时的能量传递：
 
-$$
+$`
 E_{\text{传递}}=\hbar\omega_{\text{共振}}\cdot\exp(-\alpha|D_1-D_2|)
-$$
+`$
 
 ### 共振效应 | Resonance Effects
 

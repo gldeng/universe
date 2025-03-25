@@ -61,11 +61,11 @@ The concept of "learning" at the beginning of the Analects corresponds to classi
 
 - "学"→ 获取经典知识，增加观察者经典化能力
 - "习"→ 反复实践，优化经典化路径
-- "学而时习之"→ 通过持续优化提升经典化效率系数$(k_i)$
+- "学而时习之"→ 通过持续优化提升经典化效率系数$`(k_i)`$
 
 - "Learning" → Acquiring classical knowledge, increasing observer's classicalization ability
 - "Practice" → Repeated application, optimizing classicalization path
-- "Learning with constant practice" → Continuously improving classicalization efficiency coefficient $(k_i)$ through optimization
+- "Learning with constant practice" → Continuously improving classicalization efficiency coefficient $`(k_i)`$ through optimization
 
 ### 2. "吾道一以贯之"与经典域-量子域统一性
 ### 2. "My Doctrine is That of an All-Pervading Unity" and Classical-Quantum Domain Unity
@@ -134,25 +134,25 @@ Confucius' "reciprocity" corresponds to quantum entanglement between observers i
 
 The core concepts of the Analects can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"学而时习之"} \Leftrightarrow k_i \uparrow \Leftrightarrow \text{主动优化经典化路径}
-$$
+`$
 
-$$
+$`
 \text{"吾道一以贯之"} \Leftrightarrow |\psi\rangle_{\text{宇宙}} = \{|\psi\rangle_{\text{量子域}}, |\psi\rangle_{\text{经典域}}\}
-$$
+`$
 
-$$
+$`
 \text{"克己复礼为仁"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
-$$
+$`
 \text{"己所不欲，勿施于人"} \Leftrightarrow \text{观察者}_i \otimes \text{观察者}_j \text{（量子纠缠态）}
-$$
+`$
 
-$$
+$`
 \text{"温故而知新"} \Leftrightarrow I_{\text{经典知识}} \uparrow, S_{\text{经典熵}} \downarrow
-$$
+`$
 
 ## 结论
 ## Conclusion

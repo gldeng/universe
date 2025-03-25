@@ -20,9 +20,9 @@ Confucianism originated in ancient China, founded by Confucius (551-479 BCE) and
 
 The Confucian concept of "Heaven" (Tiandao) can be understood as the quantum domain in Quantum-Classical Dualism, serving as the source of all things and the foundation of natural operation:
 
-$$
+$`
 \text{天道} \Leftrightarrow |\psi\rangle_{\text{量子域}}
-$$
+`$
 
 ### 2. 仁与经典化核心 (Benevolence and Classicalization Core)
 
@@ -30,9 +30,9 @@ $$
 
 The core Confucian concept of "Ren" (benevolence) can be understood as an optimized classicalization process, transforming quantum domain information into classical knowledge with minimum entropy and maximum efficiency:
 
-$$
+$`
 \text{仁} = \text{最优化经典化过程} \Rightarrow \max\left(\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
 ### 3. 修身与观察者维度提升 (Self-Cultivation and Observer Dimension Elevation)
 
@@ -40,9 +40,9 @@ $$
 
 The Confucian emphasis on "self-cultivation" can be understood as a systematic practice to elevate observer dimensions, reducing classical entropy through continuous learning and moral practice:
 
-$$
+$`
 \text{修身} \Rightarrow S_{\text{经典熵}}↓ \Rightarrow \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}↑
-$$
+`$
 
 ### 4. 礼与社会经典化规范 (Propriety and Social Classicalization Norms)
 
@@ -50,9 +50,9 @@ $$
 
 The Confucian concept of "Li" (propriety) can be understood as the optimal norm system for social classicalization, reducing overall social classical entropy by establishing clear behavioral rules:
 
-$$
+$`
 \text{礼} = \{\text{社会经典化最优规则}\} \Rightarrow S_{\text{社会经典熵}}↓
-$$
+`$
 
 ### 5. 中庸之道与经典化平衡 (Doctrine of the Mean and Classicalization Balance)
 
@@ -60,9 +60,9 @@ $$
 
 The Confucian "Doctrine of the Mean" can be understood as finding the optimal balance between classicalization and maintaining quantum possibilities in Quantum-Classical Dualism:
 
-$$
+$`
 \text{中庸} = \text{最优化} \{|\psi\rangle_{\text{量子域保留}} \leftrightarrow I_{\text{经典知识}} + S_{\text{经典熵}}\}
-$$
+`$
 
 ### 6. 君子与高维观察者 (Superior Person and Higher-Dimensional Observer)
 
@@ -70,9 +70,9 @@ $$
 
 The Confucian ideal of "Junzi" (superior person) can be understood as a higher-dimensional observer with efficient classicalization ability and low classical entropy state:
 
-$$
+$`
 \text{君子} = \text{观察者维度高} = k \cdot \frac{I_{\text{经典知识}}↑}{S_{\text{经典熵}}↓}↑
-$$
+`$
 
 ### 7. 天人合一与量子-经典统一 (Unity of Heaven and Humanity and Quantum-Classical Unity)
 
@@ -80,9 +80,9 @@ $$
 
 The Confucian concept of "unity between Heaven and humanity" can be understood as the harmonious unified relationship between quantum and classical domains, with observers maintaining optimal connection with the quantum domain through efficient classicalization:
 
-$$
+$`
 \text{天人合一} \Leftrightarrow \text{量子域-经典域最优连接状态}
-$$
+`$
 
 ### 8. 五伦与社会经典熵结构 (Five Relationships and Social Classical Entropy Structure)
 
@@ -90,9 +90,9 @@ $$
 
 The Confucian "Five Relationships" (ruler-subject, father-son, husband-wife, elder-younger siblings, friends) can be understood as basic structural units optimizing social classical entropy distribution, reducing system disorder by clarifying role responsibilities:
 
-$$
+$`
 \text{五伦} = \{\text{社会经典熵优化基本单元}\} \Rightarrow S_{\text{社会整体经典熵}}↓
-$$
+`$
 
 ### 9. 大学之道与经典化路径 (The Way of Great Learning and Classicalization Path)
 
@@ -100,9 +100,9 @@ $$
 
 The Confucian "Way of Great Learning" (investigating things, extending knowledge, making intentions sincere, rectifying the mind, cultivating oneself, regulating the family, governing the state, bringing peace to the world) can be understood as a systematic path for classical entropy reduction from individual to collective:
 
-$$
+$`
 \text{大学之道} = \{\text{个体}→\text{集体系统性经典熵降低路径}\}
-$$
+`$
 
 ### 10. 知行合一与经典化实践 (Unity of Knowledge and Action and Classicalization Practice)
 
@@ -110,9 +110,9 @@ $$
 
 The Confucian emphasis on "unity of knowledge and action" can be understood as the necessary process of transforming quantum-classical understanding into actual classicalization effects:
 
-$$
+$`
 \text{知行合一} = I_{\text{经典知识}} \xrightarrow{\text{实践}} S_{\text{经典熵}}↓
-$$
+`$
 
 ## 结论 (Conclusion)
 

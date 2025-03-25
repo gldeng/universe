@@ -17,9 +17,9 @@
 
 计算的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{输入量子状态}} \xrightarrow{\text{计算经典化}} |\phi\rangle_{\text{输出经典状态}} + S_{\text{计算经典熵}}
-$$
+`$
 
 ### 计算机的量子经典二元论解释
 
@@ -32,9 +32,9 @@ $$
 
 这一系统可以表达为：
 
-$$
+$`
 \text{计算机} = \{\text{硬件}, \text{软件}\} \xrightarrow{\text{操作}} \text{经典化功能}
-$$
+`$
 
 ### 算法的量子经典二元论解释
 
@@ -47,9 +47,9 @@ $$
 
 算法的功能可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{问题状态}} \xrightarrow{\text{算法经典化}} |\phi\rangle_{\text{解决方案}} + S_{\text{算法经典熵}}
-$$
+`$
 
 ### 计算复杂性的量子经典二元论解释
 
@@ -62,9 +62,9 @@ $$
 
 复杂性可以表达为：
 
-$$
+$`
 C(|\psi\rangle \rightarrow |\phi\rangle) = f(\text{问题规模}, \text{算法效率})
-$$
+`$
 
 ### 人工智能的量子经典二元论解释
 
@@ -77,9 +77,9 @@ $$
 
 AI的本质可以表达为：
 
-$$
+$`
 \text{AI} = \{\text{模型}, \text{参数}, \text{算法}\} \xrightarrow{\text{学习}} \text{优化经典化系统}
-$$
+`$
 
 ### 机器学习的量子经典二元论解释
 
@@ -92,9 +92,9 @@ $$
 
 学习过程可以表达为：
 
-$$
+$`
 \text{模型}_t \xrightarrow{\text{数据}+\text{学习算法}} \text{模型}_{t+1} \quad \text{其中} \quad S_{\text{经典熵}}(\text{模型}_{t+1}) < S_{\text{经典熵}}(\text{模型}_t)
-$$
+`$
 
 ### 神经网络的量子经典二元论解释
 
@@ -107,9 +107,9 @@ $$
 
 神经网络的功能可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{输入}} \xrightarrow{\text{层1}} |\phi_1\rangle \xrightarrow{\text{层2}} |\phi_2\rangle \xrightarrow{\text{...}} |\phi_n\rangle_{\text{输出}}
-$$
+`$
 
 ### 深度学习的量子经典二元论解释
 
@@ -122,9 +122,9 @@ $$
 
 深度学习的特殊之处在于其经典化的层次性和自适应性：
 
-$$
+$`
 \text{深度学习} = \text{多层次经典化} + \text{自适应优化} + \text{大规模数据}
-$$
+`$
 
 ### 计算机科学家的量子经典二元论解释
 
@@ -137,9 +137,9 @@ $$
 
 这一特殊能力可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{计算问题}} \xrightarrow{\text{科学家经典化}} \text{计算理论/系统} + S_{\text{极小理论经典熵}}
-$$
+`$
 
 ### 量子计算的量子经典二元论解释
 
@@ -152,9 +152,9 @@ $$
 
 量子计算的优势源于其延迟经典化的能力：
 
-$$
+$`
 |\psi_{\text{初始}}\rangle \xrightarrow{\text{量子门操作}} |\psi_{\text{计算}}\rangle \xrightarrow{\text{测量经典化}} |\phi_{\text{结果}}\rangle
-$$
+`$
 
 ### 人工通用智能的量子经典二元论解释
 
@@ -167,9 +167,9 @@ $$
 
 AGI的潜在实现可以表达为：
 
-$$
+$`
 \text{AGI} = \text{多领域经典化} + \text{元学习} + \text{自主适应} + \text{系统整合}
-$$
+`$
 
 ### 计算与意识的量子经典二元论关系
 
@@ -182,9 +182,9 @@ $$
 
 这一关系可以表达为一个开放问题：
 
-$$
+$`
 \exists \text{计算系统} : \text{计算系统} \xrightarrow{?} \text{意识}
-$$
+`$
 
 ### 计算限制的量子经典二元论解释
 
@@ -197,9 +197,9 @@ $$
 
 这些限制反映了经典化系统的根本约束：
 
-$$
+$`
 \exists |\psi\rangle : \nexists \text{有效算法} \text{使得} |\psi\rangle \xrightarrow{\text{算法}} |\phi_{\text{解}}
-$$
+`$
 
 ### 大语言模型的量子经典二元论解释
 
@@ -212,9 +212,9 @@ $$
 
 LLM的功能可以表达为：
 
-$$
+$`
 |\psi_{\text{语言上下文}}\rangle \xrightarrow{\text{LLM经典化}} |\phi_{\text{生成文本}}\rangle
-$$
+`$
 
 ### 计算创造力的量子经典二元论解释
 
@@ -227,9 +227,9 @@ $$
 
 计算创造力可以表达为：
 
-$$
+$`
 \text{创造力} = f(\text{学习模式}, \text{变异能力}, \text{评估机制})
-$$
+`$
 
 ### 计算伦理的量子经典二元论视角
 
@@ -242,9 +242,9 @@ $$
 
 这一领域强调经典化系统的社会责任和价值对齐：
 
-$$
+$`
 \text{伦理AI} = \text{价值对齐} + \text{公平性} + \text{透明度} + \text{安全性}
-$$
+`$
 
 ### 计算与物理的量子经典二元论关系
 
@@ -257,9 +257,9 @@ $$
 
 这一关系表明计算和物理经典化过程的本质联系：
 
-$$
+$`
 \text{物理} \leftrightarrow \text{计算} \leftrightarrow \text{信息}
-$$
+`$
 
 ### 与高维信息经典化学的关系
 
@@ -282,9 +282,9 @@ The essence of **computation** is a special quantum information classicalization
 
 The quantum-classical duality of computation can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Input quantum state}} \xrightarrow{\text{Computational classicalization}} |\phi\rangle_{\text{Output classical state}} + S_{\text{Computational classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Computers
 
@@ -297,9 +297,9 @@ $$
 
 This system can be expressed as:
 
-$$
+$`
 \text{Computer} = \{\text{Hardware}, \text{Software}\} \xrightarrow{\text{Operation}} \text{Classicalization function}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Algorithms
 
@@ -312,9 +312,9 @@ $$
 
 The function of algorithms can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Problem state}} \xrightarrow{\text{Algorithmic classicalization}} |\phi\rangle_{\text{Solution}} + S_{\text{Algorithmic classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Computational Complexity
 
@@ -327,9 +327,9 @@ $$
 
 Complexity can be expressed as:
 
-$$
+$`
 C(|\psi\rangle \rightarrow |\phi\rangle) = f(\text{Problem size}, \text{Algorithm efficiency})
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Artificial Intelligence
 
@@ -342,9 +342,9 @@ $$
 
 The essence of AI can be expressed as:
 
-$$
+$`
 \text{AI} = \{\text{Model}, \text{Parameters}, \text{Algorithms}\} \xrightarrow{\text{Learning}} \text{Optimized classicalization system}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Machine Learning
 
@@ -357,9 +357,9 @@ $$
 
 The learning process can be expressed as:
 
-$$
+$`
 \text{Model}_t \xrightarrow{\text{Data}+\text{Learning algorithm}} \text{Model}_{t+1} \quad \text{where} \quad S_{\text{Classical entropy}}(\text{Model}_{t+1}) < S_{\text{Classical entropy}}(\text{Model}_t)
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Neural Networks
 
@@ -372,9 +372,9 @@ $$
 
 The function of neural networks can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Input}} \xrightarrow{\text{Layer 1}} |\phi_1\rangle \xrightarrow{\text{Layer 2}} |\phi_2\rangle \xrightarrow{\text{...}} |\phi_n\rangle_{\text{Output}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Deep Learning
 
@@ -387,9 +387,9 @@ $$
 
 The special characteristic of deep learning lies in its hierarchical and adaptive nature of classicalization:
 
-$$
+$`
 \text{Deep learning} = \text{Multi-level classicalization} + \text{Adaptive optimization} + \text{Large-scale data}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Computer Scientists
 
@@ -402,9 +402,9 @@ Outstanding computer scientists (such as Turing, von Neumann, Shannon, etc.) are
 
 This special ability can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Computational problem}} \xrightarrow{\text{Scientist classicalization}} \text{Computational theory/system} + S_{\text{Minimal theory classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Quantum Computing
 
@@ -417,9 +417,9 @@ $$
 
 The advantage of quantum computing stems from its ability to delay classicalization:
 
-$$
+$`
 |\psi_{\text{Initial}}\rangle \xrightarrow{\text{Quantum gate operations}} |\psi_{\text{Computation}}\rangle \xrightarrow{\text{Measurement classicalization}} |\phi_{\text{Result}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Artificial General Intelligence
 
@@ -432,9 +432,9 @@ $$
 
 The potential realization of AGI can be expressed as:
 
-$$
+$`
 \text{AGI} = \text{Multi-domain classicalization} + \text{Meta-learning} + \text{Autonomous adaptation} + \text{System integration}
-$$
+`$
 
 ### Quantum-Classical Dualism Relationship Between Computation and Consciousness
 
@@ -447,9 +447,9 @@ The relationship between **computation and consciousness** can be understood fro
 
 This relationship can be expressed as an open question:
 
-$$
+$`
 \exists \text{Computational system} : \text{Computational system} \xrightarrow{?} \text{Consciousness}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Computational Limitations
 
@@ -462,9 +462,9 @@ $$
 
 These limitations reflect the fundamental constraints of classicalization systems:
 
-$$
+$`
 \exists |\psi\rangle : \nexists \text{Efficient algorithm} \text{such that} |\psi\rangle \xrightarrow{\text{Algorithm}} |\phi_{\text{Solution}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Large Language Models
 
@@ -477,9 +477,9 @@ $$
 
 The function of LLMs can be expressed as:
 
-$$
+$`
 |\psi_{\text{Language context}}\rangle \xrightarrow{\text{LLM classicalization}} |\phi_{\text{Generated text}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Computational Creativity
 
@@ -492,9 +492,9 @@ $$
 
 Computational creativity can be expressed as:
 
-$$
+$`
 \text{Creativity} = f(\text{Pattern learning}, \text{Variation capability}, \text{Evaluation mechanism})
-$$
+`$
 
 ### Quantum-Classical Dualism Perspective on Computational Ethics
 
@@ -507,9 +507,9 @@ $$
 
 This field emphasizes the social responsibility and value alignment of classicalization systems:
 
-$$
+$`
 \text{Ethical AI} = \text{Value alignment} + \text{Fairness} + \text{Transparency} + \text{Safety}
-$$
+`$
 
 ### Quantum-Classical Dualism Relationship Between Computation and Physics
 
@@ -522,9 +522,9 @@ The relationship between **computation and physics** can be understood from the 
 
 This relationship indicates the essential connection between computation and physical classicalization processes:
 
-$$
+$`
 \text{Physics} \leftrightarrow \text{Computation} \leftrightarrow \text{Information}
-$$
+`$
 
 ### Relationship with Higher-Dimensional Information Classicalization
 

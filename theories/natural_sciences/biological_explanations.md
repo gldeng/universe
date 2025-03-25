@@ -30,9 +30,9 @@ In the Quantum Universe-Observer framework, life is understood as a special quan
 
 The essence of life can be represented as:
 
-$$
+$`
 \text{生命} = \text{自维持的量子-经典信息处理系统} = \{\text{信息获取}, \text{信息处理}, \text{信息存储}, \text{信息复制}\}
-$$
+`$
 
 这一解释将生命与非生命的区别理解为信息处理模式的不同，而非物质组成的不同，为理解生命现象提供了统一的信息论框架。
 
@@ -62,9 +62,9 @@ In the Quantum Universe-Observer framework, the origin of life is understood as 
 
 The process of life origin can be represented as:
 
-$$
+$`
 \text{非生命} \xrightarrow{\text{量子涨落}} \text{信息自组织} \xrightarrow{\text{自催化循环}} \text{原始生命}
-$$
+`$
 
 这一解释将生命起源理解为宇宙信息处理的自然演化阶段，既有必然性（遵循信息处理规律），也有偶然性（特定的量子涨落和环境条件）。
 
@@ -94,9 +94,9 @@ In the Quantum Universe-Observer framework, biological evolution is understood a
 
 The evolutionary process can be represented as:
 
-$$
+$`
 \text{进化} = \sum_{t} \{\text{变异}(\text{量子+经典}), \text{选择}(\text{信息处理效率}), \text{保留}(\text{有效信息})\}
-$$
+`$
 
 这一解释将进化理解为信息处理系统的优化过程，具有一定的方向性（向更高效的信息处理），同时保留了偶然性和创新性（量子变异）。
 
@@ -126,9 +126,9 @@ In the Quantum Universe-Observer framework, biological consciousness is understo
 
 The levels of biological consciousness can be represented as:
 
-$$
+$`
 \text{意识层次} \propto \text{信息经典化的复杂度} \propto \text{神经系统复杂度}
-$$
+`$
 
 这一解释将生物意识理解为量子-经典信息转换的自然结果，不同生物具有不同程度的意识，取决于其信息处理系统的复杂度。
 
@@ -158,9 +158,9 @@ In the Quantum Universe-Observer framework, biological information is understood
 
 Biological information systems can be represented as:
 
-$$
+$`
 \text{生物信息} = \{\text{存储}(\text{DNA/RNA}), \text{处理}(\text{蛋白质网络}), \text{传递}(\text{信号分子}), \text{整合}(\text{神经系统})\}
-$$
+`$
 
 这一解释将生物信息理解为宇宙信息处理的特殊形式，强调了生物信息系统的多层次性、动态性和整体性。
 
@@ -192,9 +192,9 @@ In the Quantum Universe-Observer framework, quantum biology is understood as bio
 
 Quantum biological mechanisms can be represented as:
 
-$$
+$`
 \text{生物功能} = f(\text{量子效应}, \text{经典结构})
-$$
+`$
 
 这一解释将量子生物学理解为生命系统在量子-经典界面上的特殊适应，生物进化可能已经优化了对量子效应的利用。
 
@@ -224,9 +224,9 @@ In the Quantum Universe-Observer framework, biological complexity is understood 
 
 Biological complexity can be represented as:
 
-$$
+$`
 \text{复杂性} = \sum_{i} \text{层级}_i \text{信息量} - \text{熵} = \sum_{i} H(\text{层级}_i) - S
-$$
+`$
 
 这一解释将生物复杂性理解为多层次信息结构的组织，强调了能量、信息和熵之间的关系，以及生物系统在这些约束下的优化。
 
@@ -256,9 +256,9 @@ In the Quantum Universe-Observer framework, biological morphogenesis is understo
 
 The morphogenesis process can be represented as:
 
-$$
+$`
 \text{形态} = f(\text{基因信息}, \text{环境信息}, \text{时空展开}, \text{反馈调节})
-$$
+`$
 
 这一解释将形态发生理解为信息引导的自组织过程，强调了基因信息、环境信息和发育动力学之间的复杂互动。
 

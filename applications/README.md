@@ -20,12 +20,12 @@ This directory contains various application scenarios and practical use cases of
 1. **观察者（黑洞）经典化**：观察者作为黑洞，通过经典化过程将量子域信息转换为经典知识与熵，消耗经典能量
    **Observer (Black Hole) Classicalization**: Observers as black holes convert quantum domain information into classical knowledge and entropy through the classicalization process, consuming classical energy
 
-   $$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
+   $`|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}`$
 
 2. **维度提升**：通过增加经典知识、降低熵，提升观察者维度
    **Dimension Elevation**: Elevating observer dimension by increasing classical knowledge and reducing entropy
 
-   $$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
+   $`\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}`$
 
 3. **有效量子纠缠**：建立能增加经典知识、降低熵的关系和连接
    **Effective Quantum Entanglement**: Establishing relationships and connections that increase classical knowledge and reduce entropy

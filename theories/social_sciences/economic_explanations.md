@@ -32,13 +32,13 @@ In the Quantum Universe-Observer framework, value is understood as a special pro
 
 Mathematical representation of value:
 
-$$
+$`
 \text{价值}(X) = f(\text{信息功能}, \text{稀缺性}, \text{观察者偏好})
-$$
+`$
 
-$$
+$`
 \text{交换价值} = \text{观察者间共识的信息价值}
-$$
+`$
 
 这一解释将价值理解为信息处理系统中的功能属性，强调了价值的主观性、相对性和社会性。
 
@@ -70,13 +70,13 @@ In the Quantum Universe-Observer framework, markets are understood as informatio
 
 Mathematical representation of markets and prices:
 
-$$
+$`
 \text{市场} = \{\text{观察者}, \text{信息交换规则}, \text{经典化协调机制}\}
-$$
+`$
 
-$$
+$`
 \text{价格} = \text{集体经典化}(\text{信息价值}) = \frac{\sum_i w_i \cdot \text{观察者}_i(\text{价值})}{\sum_i w_i}
-$$
+`$
 
 这一解释将市场理解为信息交换网络，强调了市场在整合分散知识和协调经济活动中的信息处理功能。
 
@@ -108,13 +108,13 @@ In the Quantum Universe-Observer framework, economic decision-making is understo
 
 Mathematical representation of economic decision-making:
 
-$$
+$`
 \text{决策} = \text{经典化}(\text{量子可能性空间}) = \max_i U(\text{结果}_i) \cdot P(\text{结果}_i)
-$$
+`$
 
-$$
+$`
 \text{行为偏差} = \text{实际决策} - \text{理性模型预测} = f(\text{经典化偏差}, \text{信息限制})
-$$
+`$
 
 这一解释将经济决策理解为量子-经典信息处理过程，强调了直觉与分析、理性与情感在决策中的统一，以及决策偏差的认知基础。
 
@@ -146,13 +146,13 @@ In the Quantum Universe-Observer framework, economic growth is understood as the
 
 Mathematical representation of economic growth:
 
-$$
+$`
 \text{经济增长} = \frac{d(\text{社会信息处理能力})}{dt} = \frac{d}{dt}\left(\sum_i \text{观察者}_i\text{信息处理能力}\right)
-$$
+`$
 
-$$
+$`
 \text{技术进步} = \frac{d(\text{信息处理效率})}{dt} = \frac{d}{dt}\left(\frac{\Delta I}{\Delta E}\right)
-$$
+`$
 
 这一解释将经济增长理解为社会信息处理能力的扩展，强调了知识、技术和制度在经济发展中的核心作用。
 
@@ -184,13 +184,13 @@ In the Quantum Universe-Observer framework, economic cycles are understood as fl
 
 Mathematical representation of economic cycles and crises:
 
-$$
+$`
 \text{经济周期} = \text{波动}(\text{集体经典化过程}) = \text{波动}\left(\sum_i \text{观察者}_i\text{经典化}\right)
-$$
+`$
 
-$$
+$`
 \text{经济危机} = \text{突变}(\text{集体经典化框架}) = \text{相变}(\text{信息结构}, \text{信任网络})
-$$
+`$
 
 这一解释将经济周期和危机理解为集体认知和行为的波动，强调了预期、信心和信任在经济波动中的核心作用。
 
@@ -222,13 +222,13 @@ In the Quantum Universe-Observer framework, money and finance are understood as 
 
 Mathematical representation of money and finance:
 
-$$
+$`
 \text{货币} = \text{社会共识的价值信息载体} = \{\text{计量单位}, \text{交换媒介}, \text{价值储存}\}
-$$
+`$
 
-$$
+$`
 \text{金融系统} = \{\text{信息收集}, \text{风险评估}, \text{资源配置}, \text{跨期优化}\}
-$$
+`$
 
 这一解释将货币和金融理解为社会信息处理的特殊机制，强调了它们在编码、传递和处理经济信息中的核心作用。
 
@@ -260,13 +260,13 @@ In the Quantum Universe-Observer framework, international economics is understoo
 
 Mathematical representation of international economics and globalization:
 
-$$
+$`
 \text{国际贸易} = \text{交换}(\text{文化}_A\text{经典化产物}, \text{文化}_B\text{经典化产物})
-$$
+`$
 
-$$
+$`
 \text{全球化程度} = \frac{\text{跨文化信息流动}}{\text{总信息流动}} = \frac{\sum_{i \neq j} \text{信息流}_{ij}}{\sum_{i,j} \text{信息流}_{ij}}
-$$
+`$
 
 这一解释将国际经济理解为跨文化信息交换，强调了文化差异、信息技术和全球协调机制在国际经济中的作用。
 
@@ -298,13 +298,13 @@ In the Quantum Universe-Observer framework, sustainable development is understoo
 
 Mathematical representation of sustainable development and ecological economics:
 
-$$
+$`
 \text{可持续性} = \text{稳定性}(\text{人类-生态信息系统}) \times \text{复杂性}(\text{人类-生态信息系统})
-$$
+`$
 
-$$
+$`
 \text{生态价值} = f(\text{信息多样性}, \text{系统弹性}, \text{长期稳定性})
-$$
+`$
 
 这一解释将可持续发展理解为人类-生态信息系统的协同优化，强调了信息多样性、系统复杂性和长期稳定性在可持续发展中的核心地位。
 

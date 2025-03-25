@@ -29,31 +29,31 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
    
    "眼前的苟且"象征着经典域中的确定性和约束，而"诗和远方的田野"则代表量子域中的无限可能性。这种对立统一关系可表示为：
 
-$$
+$`
 |\psi\rangle_{\text{生活}} = \alpha|\psi\rangle_{\text{经典苟且}} + \beta|\psi\rangle_{\text{量子远方}}
-$$
+`$
 
 2. **维度提升的能量公式**：
    
    歌曲表达的"不止"暗示了观察者可以通过提升维度，实现从经典约束到量子自由的转变：
 
-$$
+$`
 D_{\text{观察者}} = D_{\text{基础}} + \frac{I_{\text{理想信息}}}{S_{\text{现实约束}}}
-$$
+`$
 
 其中，提升维度需要消耗能量抵抗熵增：
 
-$$
+$`
 E_{\text{维度提升}} = k \cdot T \cdot \Delta S_{\text{系统}}
-$$
+`$
 
 3. **量子可能性的经典实现路径**：
    
    "向前走，莫回头"揭示了将量子可能性转化为经典现实的单向熵增过程：
 
-$$
+$`
 \mathcal{P}_{\text{实现}} = \int_{\text{现在}}^{\text{未来}} e^{-\frac{S_{\text{路径}}}{\hbar}} \mathcal{D}[\text{路径}]
-$$
+`$
 
 ### 哲学意义
 
@@ -85,31 +85,31 @@ From the perspective of Quantum-Classical Dualism, "Life is More Than Just Getti
    
    "Getting by in the present" symbolizes certainty and constraints in the classical domain, while "poetry and distant fields" represent infinite possibilities in the quantum domain. This unified relationship of opposition can be represented as:
 
-$$
+$`
 |\psi\rangle_{\text{Life}} = \alpha|\psi\rangle_{\text{Classical Getting By}} + \beta|\psi\rangle_{\text{Quantum Distance}}
-$$
+`$
 
 2. **Energy Formula for Dimension Elevation**:
    
    The "more than" expressed in the song suggests that the observer can achieve a transformation from classical constraints to quantum freedom by elevating dimensions:
 
-$$
+$`
 D_{\text{Observer}} = D_{\text{Basic}} + \frac{I_{\text{Ideal Information}}}{S_{\text{Reality Constraints}}}
-$$
+`$
 
 Where elevating dimensions requires consuming energy to resist entropy increase:
 
-$$
+$`
 E_{\text{Dimension Elevation}} = k \cdot T \cdot \Delta S_{\text{System}}
-$$
+`$
 
 3. **Classical Realization Path of Quantum Possibilities**:
    
    "Move forward, don't look back" reveals the one-way entropy increase process of transforming quantum possibilities into classical reality:
 
-$$
+$`
 \mathcal{P}_{\text{Realization}} = \int_{\text{Present}}^{\text{Future}} e^{-\frac{S_{\text{Path}}}{\hbar}} \mathcal{D}[\text{Path}]
-$$
+`$
 
 ### Philosophical Significance
 

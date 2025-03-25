@@ -12,9 +12,9 @@
 
 食物的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{食物量子状态}} \xrightarrow{\text{感官经典化}} \text{味道、香气、质地等感官体验} + S_{\text{食物经典熵}}
-$$
+`$
 
 ### 烹饪的量子经典二元论解释
 
@@ -27,9 +27,9 @@ $$
 
 烹饪过程可以用以下公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{原始食材}} \xrightarrow{\text{烹饪技术}} |\phi\rangle_{\text{烹饪食物}} \xrightarrow{\text{感官经典化}} \text{美食体验} + S_{\text{烹饪经典熵}}
-$$
+`$
 
 ### 烹饪天才的量子经典二元论解释
 
@@ -42,9 +42,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{食材量子状态}} \xrightarrow{\text{烹饪天才经典化}} \text{卓越菜肴} + S_{\text{极小烹饪经典熵}}
-$$
+`$
 
 ### 食物文化的量子经典二元论解释
 
@@ -57,11 +57,11 @@ $$
 
 食物文化可以表达为：
 
-$$
+$`
 \text{食物文化} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot P_i
-$$
+`$
 
-其中$|\phi_i\rangle$代表特定的烹饪经典化模式，$P_i$代表该模式在文化中的权重。
+其中$`|\phi_i\rangle`$代表特定的烹饪经典化模式，$`P_i`$代表该模式在文化中的权重。
 
 ### 味觉与嗅觉的量子经典二元论解释
 
@@ -115,9 +115,9 @@ The essence of **food** is a special form of matter that contains both rich quan
 
 The quantum-classical duality of food can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Food quantum state}} \xrightarrow{\text{Sensory classicalization}} \text{Taste, aroma, texture, and other sensory experiences} + S_{\text{Food classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Cooking
 
@@ -130,9 +130,9 @@ $$
 
 The cooking process can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Raw ingredients}} \xrightarrow{\text{Cooking techniques}} |\phi\rangle_{\text{Cooked food}} \xrightarrow{\text{Sensory classicalization}} \text{Culinary experience} + S_{\text{Cooking classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Culinary Geniuses
 
@@ -145,9 +145,9 @@ Outstanding chefs (such as Ferran Adrià, Chen Yinke, Wang Senquan, etc.) are es
 
 This process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Ingredient quantum state}} \xrightarrow{\text{Culinary genius classicalization}} \text{Exceptional dish} + S_{\text{Minimal cooking classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Food Culture
 
@@ -160,11 +160,11 @@ $$
 
 Food culture can be expressed as:
 
-$$
+$`
 \text{Food Culture} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot P_i
-$$
+`$
 
-where $|\phi_i\rangle$ represents a specific cooking classicalization pattern, and $P_i$ represents the weight of that pattern in the culture.
+where $`|\phi_i\rangle`$ represents a specific cooking classicalization pattern, and $`P_i`$ represents the weight of that pattern in the culture.
 
 ### Quantum-Classical Dualism Explanation of Taste and Smell
 

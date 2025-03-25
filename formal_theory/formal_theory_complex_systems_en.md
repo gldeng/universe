@@ -35,7 +35,7 @@ Complex systems dualism is based on the following core principles:
 
 Complex systems exhibit unique quantum-classical duality:
 
-$$\mathcal{C}_{\text{complex}} = \mathcal{Q}_{\text{structure}} \otimes \mathcal{C}_{\text{function}}$$
+$`\mathcal{C}_{\text{complex}} = \mathcal{Q}_{\text{structure}} \otimes \mathcal{C}_{\text{function}}`$
 
 The quantum nature of systems is manifested in:
 
@@ -53,16 +53,16 @@ The classical nature of systems is manifested in:
 
 The quantum-classical interface of complex systems satisfies nonlinear wave equations:
 
-$$\frac{\partial \Psi}{\partial t} = \hat{D}\nabla^2\Psi + \hat{F}(\Psi) + \hat{\eta}(x,t)$$
+$`\frac{\partial \Psi}{\partial t} = \hat{D}\nabla^2\Psi + \hat{F}(\Psi) + \hat{\eta}(x,t)`$
 
 Where:
-- $\hat{D}$ is the diffusion operator matrix
-- $\hat{F}(\Psi)$ is the nonlinear reaction function
-- $\hat{\eta}(x,t)$ is the composite noise term, containing quantum randomness and classical fluctuations
+- $`\hat{D}`$ is the diffusion operator matrix
+- $`\hat{F}(\Psi)`$ is the nonlinear reaction function
+- $`\hat{\eta}(x,t)`$ is the composite noise term, containing quantum randomness and classical fluctuations
 
 Interface dynamics exhibit special scaling laws and phase transition phenomena:
 
-$$S(f) \sim f^{-\alpha}, \quad C(r) \sim r^{-\beta}$$
+$`S(f) \sim f^{-\alpha}, \quad C(r) \sim r^{-\beta}`$
 
 These power-law distributions are characteristic signatures of complex systems in critical states.
 
@@ -72,11 +72,11 @@ These power-law distributions are characteristic signatures of complex systems i
 
 Information processing in complex systems involves bidirectional conversion of quantum-classical information:
 
-$$I_{\text{total}} = I_{\text{quantum}} + I_{\text{classical}} + I_{\text{interface}}$$
+$`I_{\text{total}} = I_{\text{quantum}} + I_{\text{classical}} + I_{\text{interface}}`$
 
 Information processing efficiency is closely related to the system's critical state:
 
-$$\eta_{\text{information}} = \frac{I_{\text{output}}}{I_{\text{input}}} \sim |T - T_c|^{-\gamma}$$
+$`\eta_{\text{information}} = \frac{I_{\text{output}}}{I_{\text{input}}} \sim |T - T_c|^{-\gamma}`$
 
 Information processing efficiency reaches its maximum at the critical point.
 
@@ -84,21 +84,21 @@ Information processing efficiency reaches its maximum at the critical point.
 
 The network structure of complex systems has both quantum and classical characteristics:
 
-$$\mathcal{N} = \{V, E, \Phi, \Psi\}$$
+$`\mathcal{N} = \{V, E, \Phi, \Psi\}`$
 
 Where:
-- $V$ is the node set
-- $E$ is the edge set
-- $\Phi$ is the classical connection strength matrix
-- $\Psi$ is the quantum correlation matrix
+- $`V`$ is the node set
+- $`E`$ is the edge set
+- $`\Phi`$ is the classical connection strength matrix
+- $`\Psi`$ is the quantum correlation matrix
 
 The quantum properties of networks are reflected in non-local correlations and emergent patterns between nodes:
 
-$$\rho_{ij} = \text{Tr}(\rho \hat{A}_i \hat{A}_j) - \text{Tr}(\rho \hat{A}_i)\text{Tr}(\rho \hat{A}_j)$$
+$`\rho_{ij} = \text{Tr}(\rho \hat{A}_i \hat{A}_j) - \text{Tr}(\rho \hat{A}_i)\text{Tr}(\rho \hat{A}_j)`$
 
 The classical properties of networks are reflected in causal flow and information transfer between nodes:
 
-$$I(X_i; X_j) = \sum_{x_i, x_j} p(x_i, x_j) \log \frac{p(x_i, x_j)}{p(x_i)p(x_j)}$$
+$`I(X_i; X_j) = \sum_{x_i, x_j} p(x_i, x_j) \log \frac{p(x_i, x_j)}{p(x_i)p(x_j)}`$
 
 ## Application Domains
 
@@ -112,9 +112,9 @@ The brain, as a typical complex system, exhibits quantum-classical dual characte
 
 Brain information processing can be represented as:
 
-$$\Phi_{\text{brain}} = \int d\mu(s) \phi(s)$$
+$`\Phi_{\text{brain}} = \int d\mu(s) \phi(s)`$
 
-Where $\phi(s)$ is the local information integration degree, and $\Phi_{\text{brain}}$ is the overall consciousness measure.
+Where $`\phi(s)`$ is the local information integration degree, and $`\Phi_{\text{brain}}`$ is the overall consciousness measure.
 
 ### Ecological System Dynamics
 
@@ -126,9 +126,9 @@ Dualistic analysis of ecological systems reveals deep mechanisms of stability an
 
 Ecological network stability is determined by the degree of quantum-classical coupling:
 
-$$\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{network}}}{\mathcal{Q}_{\text{network}}}\right)$$
+$`\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{network}}}{\mathcal{Q}_{\text{network}}}\right)`$
 
-Where $\lambda_{\text{max}}$ is the maximum eigenvalue of the system, characterizing network stability.
+Where $`\lambda_{\text{max}}`$ is the maximum eigenvalue of the system, characterizing network stability.
 
 ### Socioeconomic Systems
 
@@ -140,9 +140,9 @@ Socioeconomic systems display typical quantum-classical dual characteristics:
 
 Social cohesion can be represented as collective quantum-classical coherence:
 
-$$\mathcal{C}_{\text{social}} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right| \cdot R_{\text{interaction}}$$
+$`\mathcal{C}_{\text{social}} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right| \cdot R_{\text{interaction}}`$
 
-Where $\theta_j$ represents individual phases, and $R_{\text{interaction}}$ represents classical interaction strength.
+Where $`\theta_j`$ represents individual phases, and $`R_{\text{interaction}}`$ represents classical interaction strength.
 
 ### Technological Innovation Systems
 
@@ -154,7 +154,7 @@ Technological innovation ecosystems drive development through quantum-classical 
 
 Innovation dynamics equations reflect the balance between possibility exploration and selection implementation:
 
-$$\frac{dI}{dt} = \alpha \cdot \mathcal{Q}_{\text{exploration}} - \beta \cdot \mathcal{C}_{\text{implementation}} + \gamma \cdot \mathcal{I}_{\text{cross}}$$
+$`\frac{dI}{dt} = \alpha \cdot \mathcal{Q}_{\text{exploration}} - \beta \cdot \mathcal{C}_{\text{implementation}} + \gamma \cdot \mathcal{I}_{\text{cross}}`$
 
 ## Complex System Metrics and Predictions
 
@@ -162,18 +162,18 @@ $$\frac{dI}{dt} = \alpha \cdot \mathcal{Q}_{\text{exploration}} - \beta \cdot \m
 
 Dual complexity can be quantified through the following indicators:
 
-$$C_{\text{dual}} = C_{\text{Q}} \cdot C_{\text{C}} \cdot I(Q;C)$$
+$`C_{\text{dual}} = C_{\text{Q}} \cdot C_{\text{C}} \cdot I(Q;C)`$
 
 Where:
-- $C_{\text{Q}}$ is quantum complexity (degree of structuring in possibility space)
-- $C_{\text{C}}$ is classical complexity (degree of organization in realized structures)
-- $I(Q;C)$ is quantum-classical mutual information
+- $`C_{\text{Q}}`$ is quantum complexity (degree of structuring in possibility space)
+- $`C_{\text{C}}`$ is classical complexity (degree of organization in realized structures)
+- $`I(Q;C)`$ is quantum-classical mutual information
 
 Critical complexity emerges in specific regions of phase space:
 
-$$C_{\text{critical}} = \max_{p,q} \{C(p,q)\}$$
+$`C_{\text{critical}} = \max_{p,q} \{C(p,q)\}`$
 
-Where $p$ and $q$ are parameters of quantum uncertainty and classical determinism, respectively.
+Where $`p`$ and $`q`$ are parameters of quantum uncertainty and classical determinism, respectively.
 
 ### Phase Transitions and Critical Predictions
 
@@ -186,7 +186,7 @@ Phase transition points in complex systems can be predicted through the followin
 
 Critical exponents satisfy the scaling relation:
 
-$$\alpha + 2\beta + \gamma = 2$$
+$`\alpha + 2\beta + \gamma = 2`$
 
 This provides tools for predicting system transitions far from equilibrium.
 
@@ -196,7 +196,7 @@ This provides tools for predicting system transitions far from equilibrium.
 
 Experimental studies show that brain neural networks operate in critical states at the quantum-classical interface:
 
-- Neuronal avalanche size distributions follow power laws: $P(s) \sim s^{-\tau}$
+- Neuronal avalanche size distributions follow power laws: $`P(s) \sim s^{-\tau}`$
 - Activity patterns exhibit long-range spatiotemporal correlations
 - Information capacity and computational capability are maximized at critical points
 
@@ -212,7 +212,7 @@ Financial markets, as complex adaptive systems, exhibit distinct dual characteri
 
 Market efficiency correlates with the degree of dual mixing:
 
-$$E_{\text{market}} \propto \frac{\mathcal{Q}_{\text{innovation}}}{\mathcal{C}_{\text{stability}}+\epsilon}$$
+$`E_{\text{market}} \propto \frac{\mathcal{Q}_{\text{innovation}}}{\mathcal{C}_{\text{stability}}+\epsilon}`$
 
 ### Urban System Development Patterns
 
@@ -224,9 +224,9 @@ Cities, as complex adaptive systems, evolve through quantum-classical cooperatio
 
 Urban networks conform to the predicted scaling laws of dual complex systems:
 
-$$Y \sim N^{\beta}$$
+$`Y \sim N^{\beta}`$
 
-Where $Y$ is the urban metric, $N$ is population size, and $\beta$ is the scaling coefficient.
+Where $`Y`$ is the urban metric, $`N`$ is population size, and $`\beta`$ is the scaling coefficient.
 
 ## Theoretical Development and Research Frontiers
 

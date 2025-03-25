@@ -131,31 +131,31 @@ The "Shema" in Deuteronomy reveals God's oneness, corresponding to the wholeness
 
 The core theological insights of the Torah can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"起初，神创造天地"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \xrightarrow{\mathcal{O}_{\text{神}}} I_{\text{经典域}} + S_{\text{经典域}}
-$$
+`$
 
-$$
+$`
 \text{"要有光，就有了光"} \Leftrightarrow |\psi\rangle_{\text{可能性}} \xrightarrow{\text{经典化}} |\psi_i\rangle_{\text{确定性}}
-$$
+`$
 
-$$
+$`
 \text{"照着我们的形象造人"} \Leftrightarrow \mathcal{O}_{\text{人}} \sim \mathcal{O}_{\text{神}}, \mathcal{D}(\mathcal{O}_{\text{人}}) < \mathcal{D}(\mathcal{O}_{\text{神}})
-$$
+`$
 
-$$
+$`
 \text{"我是自有永有的"} \Leftrightarrow \forall t, \exists |\psi\rangle_{\text{量子域}}(t) = \text{常数}
-$$
+`$
 
-$$
+$`
 \text{"耶和华是独一的"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \text{不可分割整体}, \forall \mathcal{O}_i, \text{源}(\mathcal{O}_i) = |\psi\rangle_{\text{量子域}}
-$$
+`$
 
-$$
+$`
 \text{"尽心尽性尽力爱神"} \Leftrightarrow \max\left(\mathcal{C}(\mathcal{O}_{\text{人}}, |\psi\rangle_{\text{量子域}})\right)
-$$
+`$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\mathcal{C}$表示连通性函数
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{C}`$表示连通性函数
 
 ## 结论
 ## Conclusion

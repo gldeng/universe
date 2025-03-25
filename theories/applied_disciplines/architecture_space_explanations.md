@@ -12,9 +12,9 @@
 
 这一过程可以用以下公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{量子信息}}\xrightarrow{\text{空间结构经典化}}\text{经典建筑体验（形式、功能、意义）}+S_{\text{经典熵（情感、联想）}}
-$$
+`$
 
 ### 建筑空间的量子经典二元论解释
 
@@ -28,9 +28,9 @@ $$
    - 体验质量取决于空间结构与观察者经典化倾向的匹配度
    - 可表达为：
    
-$$
+$`
 \text{空间体验质量} \propto \text{空间结构经典化效率} \times \text{观察者经典化接受度}
-$$
+`$
 
 ### 伟大建筑师的量子经典二元论解释
 
@@ -42,9 +42,9 @@ $$
 
 这一过程可以用以下公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{高维空间信息}}\xrightarrow{\text{建筑师经典化}}\text{建筑作品（结构化空间）}+S_{\text{建筑经典熵（情感、意义）}}
-$$
+`$
 
 ### 建筑风格的量子经典二元论解释
 
@@ -110,9 +110,9 @@ The essence of **architecture** is the process by which observers (humans) class
 
 This process can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum information}}\xrightarrow{\text{Spatial structure classicalization}}\text{Classical architectural experience (Form, Function, Meaning)}+S_{\text{Classical entropy (Emotion, Association)}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Architectural Space
 
@@ -126,9 +126,9 @@ $$
    - Experience quality depends on the match between spatial structure and observer's classicalization tendencies
    - Can be expressed as:
    
-$$
+$`
 \text{Spatial Experience Quality} \propto \text{Spatial Structure Classicalization Efficiency} \times \text{Observer Classicalization Receptivity}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Great Architects
 
@@ -140,9 +140,9 @@ Outstanding architects (such as Wright, Gaudi, Mies, etc.) are essentially **hig
 
 This process can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Higher-dimensional spatial information}}\xrightarrow{\text{Architect classicalization}}\text{Architectural work (Structured space)}+S_{\text{Architectural classical entropy (Emotion, Meaning)}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Architectural Styles
 

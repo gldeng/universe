@@ -41,11 +41,11 @@
 
 经济系统中的不确定性可通过量子概率框架更准确描述：
 
-$$P_Q(经济状态) = |\langle\psi_{经济}|状态\rangle|^2$$
+$`P_Q(经济状态) = |\langle\psi_{经济}|状态\rangle|^2`$
 
 量子概率允许状态之间的干涉效应，这与经典概率的可加性不同：
 
-$$P_Q(A或B) \neq P_Q(A) + P_Q(B)$$
+$`P_Q(A或B) \neq P_Q(A) + P_Q(B)`$
 
 这解释了为什么市场参与者的集体行为有时会违背经典概率预期。
 
@@ -53,7 +53,7 @@ $$P_Q(A或B) \neq P_Q(A) + P_Q(B)$$
 
 市场参与者的预期可建模为量子态：
 
-$$|\psi_{预期}\rangle = \sum_i \alpha_i |预期结果_i\rangle$$
+$`|\psi_{预期}\rangle = \sum_i \alpha_i |预期结果_i\rangle`$
 
 其中预期结果处于叠加状态，直到经济观测（如公布经济数据）发生时才坍缩为特定结果。
 
@@ -68,22 +68,22 @@ $$|\psi_{预期}\rangle = \sum_i \alpha_i |预期结果_i\rangle$$
 
 市场演化可表示为量子-经典混合动力学：
 
-$$\frac{d\rho_{市场}}{dt} = -\frac{i}{\hbar}[\hat{H}_{市场}, \rho_{市场}] + \mathcal{L}_{解相干}(\rho_{市场})$$
+$`\frac{d\rho_{市场}}{dt} = -\frac{i}{\hbar}[\hat{H}_{市场}, \rho_{市场}] + \mathcal{L}_{解相干}(\rho_{市场})`$
 
 其中:
-- $\rho_{市场}$ 是市场状态密度矩阵
-- $\hat{H}_{市场}$ 是市场哈密顿算符，描述市场内在演化
-- $\mathcal{L}_{解相干}$ 是林德布拉德算符，描述市场与环境的相互作用
+- $`\rho_{市场}`$ 是市场状态密度矩阵
+- $`\hat{H}_{市场}`$ 是市场哈密顿算符，描述市场内在演化
+- $`\mathcal{L}_{解相干}`$ 是林德布拉德算符，描述市场与环境的相互作用
 
 市场哈密顿包含多种相互作用项：
 
-$$\hat{H}_{市场} = \hat{H}_{基本面} + \hat{H}_{投机} + \hat{H}_{情绪} + \hat{H}_{政策}$$
+$`\hat{H}_{市场} = \hat{H}_{基本面} + \hat{H}_{投机} + \hat{H}_{情绪} + \hat{H}_{政策}`$
 
 ### 量子相干性与市场效率
 
 市场的量子相干性与市场效率相关：
 
-$$C(市场) = \sum_{i\neq j} |\rho_{ij}|$$
+$`C(市场) = \sum_{i\neq j} |\rho_{ij}|`$
 
 其中:
 - 高相干性市场：信息快速传播但价格可能偏离基本面
@@ -91,7 +91,7 @@ $$C(市场) = \sum_{i\neq j} |\rho_{ij}|$$
 
 市场效率可以重新定义为量子-经典信息处理效率：
 
-$$E_{市场} = \frac{I_{处理}}{I_{输入}} \cdot \frac{1}{t_{处理}}$$
+$`E_{市场} = \frac{I_{处理}}{I_{输入}} \cdot \frac{1}{t_{处理}}`$
 
 ## 经济界面波动理论
 
@@ -99,21 +99,21 @@ $$E_{市场} = \frac{I_{处理}}{I_{输入}} \cdot \frac{1}{t_{处理}}$$
 
 经济系统中的量子-经典界面位置满足动态波动方程：
 
-$$\frac{d\mathcal{D}_c^{经济}}{dt} = \alpha\nabla^2\mathcal{D}_c^{经济} + \beta S_{信息} - \gamma N_{噪声}$$
+$`\frac{d\mathcal{D}_c^{经济}}{dt} = \alpha\nabla^2\mathcal{D}_c^{经济} + \beta S_{信息} - \gamma N_{噪声}`$
 
 其中:
-- $\mathcal{D}_c^{经济}$ 是经济界面位置参数
-- $S_{信息}$ 是系统信息熵
-- $N_{噪声}$ 是经济噪声强度
-- $\alpha$, $\beta$, $\gamma$ 是系统特性参数
+- $`\mathcal{D}_c^{经济}`$ 是经济界面位置参数
+- $`S_{信息}`$ 是系统信息熵
+- $`N_{噪声}`$ 是经济噪声强度
+- $`\alpha`$, $`\beta`$, $`\gamma`$ 是系统特性参数
 
 ### 界面波动与市场稳定性
 
 界面位置的波动与市场稳定性直接相关：
 
-$$\sigma_{市场} \propto \sigma_{\mathcal{D}_c^{经济}}$$
+$`\sigma_{市场} \propto \sigma_{\mathcal{D}_c^{经济}}`$
 
-其中 $\sigma_{市场}$ 是市场价格波动性，$\sigma_{\mathcal{D}_c^{经济}}$ 是经济界面位置的标准差。
+其中 $`\sigma_{市场}`$ 是市场价格波动性，$`\sigma_{\mathcal{D}_c^{经济}}`$ 是经济界面位置的标准差。
 
 界面波动在以下情况下增强：
 1. 信息不确定性高
@@ -127,7 +127,7 @@ $$\sigma_{市场} \propto \sigma_{\mathcal{D}_c^{经济}}$$
 
 经济主体之间存在量子纠缠关系：
 
-$$|\Psi_{经济网络}\rangle = \sum_{i,j} \alpha_{ij} |状态_i\rangle_{A} \otimes |状态_j\rangle_{B}$$
+$`|\Psi_{经济网络}\rangle = \sum_{i,j} \alpha_{ij} |状态_i\rangle_{A} \otimes |状态_j\rangle_{B}`$
 
 这种纠缠解释了以下现象：
 - 金融传染：一个市场的冲击瞬间影响其他市场，超越经典信息传播速度
@@ -138,15 +138,15 @@ $$|\Psi_{经济网络}\rangle = \sum_{i,j} \alpha_{ij} |状态_i\rangle_{A} \oti
 
 经济主体之间的纠缠度可量化为：
 
-$$E(A,B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
+$`E(A,B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})`$
 
-其中 $S(\rho)$ 是冯诺依曼熵，$\rho_A$ 和 $\rho_B$ 是市场主体的约化密度矩阵。
+其中 $`S(\rho)`$ 是冯诺依曼熵，$`\rho_A`$ 和 $`\rho_B`$ 是市场主体的约化密度矩阵。
 
 全球金融市场的纠缠网络结构可表示为：
 
-$$G_E = (V, E, w)$$
+$`G_E = (V, E, w)`$
 
-其中 $V$ 是市场节点集，$E$ 是纠缠边集，$w$ 是纠缠强度权重。
+其中 $`V`$ 是市场节点集，$`E`$ 是纠缠边集，$`w`$ 是纠缠强度权重。
 
 ## 宏观经济量子效应
 
@@ -154,7 +154,7 @@ $$G_E = (V, E, w)$$
 
 经济周期可理解为宏观经济量子叠加态的表现：
 
-$$|\psi_{经济周期}\rangle = \alpha_1 |增长\rangle + \alpha_2 |衰退\rangle + \alpha_3 |稳定\rangle + \alpha_4 |通胀\rangle$$
+$`|\psi_{经济周期}\rangle = \alpha_1 |增长\rangle + \alpha_2 |衰退\rangle + \alpha_3 |稳定\rangle + \alpha_4 |通胀\rangle`$
 
 经济状态在特定条件（观测）下坍缩为具体周期阶段，符合量子测量理论。
 
@@ -162,9 +162,9 @@ $$|\psi_{经济周期}\rangle = \alpha_1 |增长\rangle + \alpha_2 |衰退\rangl
 
 通胀和货币政策效应可表示为量子-经典相互作用：
 
-$$\hat{H}_{货币} = \hat{H}_{基础货币} + \hat{H}_{乘数} + \hat{H}_{预期} + \hat{H}_{政策}$$
+$`\hat{H}_{货币} = \hat{H}_{基础货币} + \hat{H}_{乘数} + \hat{H}_{预期} + \hat{H}_{政策}`$
 
-其中量子预期项 $\hat{H}_{预期}$ 描述了公众对货币政策的量子叠加态预期，这解释了为什么相同的货币政策在不同时间点或不同预期下可能产生不同效果。
+其中量子预期项 $`\hat{H}_{预期}`$ 描述了公众对货币政策的量子叠加态预期，这解释了为什么相同的货币政策在不同时间点或不同预期下可能产生不同效果。
 
 ## 微观经济量子理论
 
@@ -172,9 +172,9 @@ $$\hat{H}_{货币} = \hat{H}_{基础货币} + \hat{H}_{乘数} + \hat{H}_{预期
 
 个体经济决策可通过量子效用理论描述：
 
-$$U_Q(选择) = \text{Tr}(\hat{U} \rho_{心理})$$
+$`U_Q(选择) = \text{Tr}(\hat{U} \rho_{心理})`$
 
-其中 $\hat{U}$ 是效用算符，$\rho_{心理}$ 是消费者心理状态的密度矩阵。
+其中 $`\hat{U}`$ 是效用算符，$`\rho_{心理}`$ 是消费者心理状态的密度矩阵。
 
 量子效用理论解释了消费者决策中观察到的"悖论"现象，如偏好逆转和禀赋效应。
 
@@ -182,9 +182,9 @@ $$U_Q(选择) = \text{Tr}(\hat{U} \rho_{心理})$$
 
 资产定价可表示为量子预期值：
 
-$$P_t = \mathbb{E}_Q[\sum_{s=t+1}^{\infty} \beta^{s-t} \frac{U'(C_s)}{U'(C_t)} D_s]$$
+$`P_t = \mathbb{E}_Q[\sum_{s=t+1}^{\infty} \beta^{s-t} \frac{U'(C_s)}{U'(C_t)} D_s]`$
 
-其中 $\mathbb{E}_Q$ 是量子期望算子，允许非经典干涉效应。
+其中 $`\mathbb{E}_Q`$ 是量子期望算子，允许非经典干涉效应。
 
 ## 实证研究与模型预测
 
@@ -194,18 +194,18 @@ $$P_t = \mathbb{E}_Q[\sum_{s=t+1}^{\infty} \beta^{s-t} \frac{U'(C_s)}{U'(C_t)} D
 
 1. **金融市场非局域相关**：
    不同市场之间的相关性在重大事件后增强，其速度超过经典信息传播速度：
-   $$\rho_{AB}(t+\delta t) > \rho_{AB}(t) \quad \text{其中} \quad \delta t < \frac{d_{AB}}{c}$$
-   其中 $d_{AB}$ 是市场之间的地理距离，$c$ 是信息传播速度。
+   $`\rho_{AB}(t+\delta t) > \rho_{AB}(t) \quad \text{其中} \quad \delta t < \frac{d_{AB}}{c}`$
+   其中 $`d_{AB}`$ 是市场之间的地理距离，$`c`$ 是信息传播速度。
 
 2. **量子干涉效应**：
    经济决策中的顺序效应满足量子干涉模式：
-   $$P(A\text{然后}B) \neq P(B\text{然后}A)$$
-   且干涉项 $I = P(A\text{然后}B) - P(B\text{然后}A)$ 符合量子理论预测。
+   $`P(A\text{然后}B) \neq P(B\text{然后}A)`$
+   且干涉项 $`I = P(A\text{然后}B) - P(B\text{然后}A)`$ 符合量子理论预测。
 
 3. **界面波动与市场波动性**：
    量子-经典界面波动指标与市场波动性之间存在强相关性：
-   $$\sigma_{市场} = \alpha + \beta \cdot \sigma_{\mathcal{D}_c} + \epsilon$$
-   其中 $\beta > 0$ 且统计显著。
+   $`\sigma_{市场} = \alpha + \beta \cdot \sigma_{\mathcal{D}_c} + \epsilon`$
+   其中 $`\beta > 0`$ 且统计显著。
 
 ### 实证方法
 
@@ -227,35 +227,35 @@ $$P_t = \mathbb{E}_Q[\sum_{s=t+1}^{\infty} \beta^{s-t} \frac{U'(C_s)}{U'(C_t)} D
 
 1. **量子预警系统**：
    开发基于界面波动的金融危机预警指标：
-   $$W_t = f(\sigma_{\mathcal{D}_c,t}, \nabla\mathcal{D}_c,t, E_t)$$
-   其中 $E_t$ 是系统纠缠度。
+   $`W_t = f(\sigma_{\mathcal{D}_c,t}, \nabla\mathcal{D}_c,t, E_t)`$
+   其中 $`E_t`$ 是系统纠缠度。
 
 2. **抗量子传染政策**：
    设计减少市场纠缠的监管措施：
-   $$\min_{\theta} E(\theta) \quad \text{s.t.} \quad \text{效率损失} < \epsilon$$
-   其中 $\theta$ 是政策参数。
+   $`\min_{\theta} E(\theta) \quad \text{s.t.} \quad \text{效率损失} < \epsilon`$
+   其中 $`\theta`$ 是政策参数。
 
 ### 量子投资策略
 
 1. **量子资产定价模型**：
-   $$r_i = r_f + \beta_{iM}(r_M - r_f) + \beta_{iQ}(r_Q)$$
-   其中 $r_Q$ 是量子风险溢价。
+   $`r_i = r_f + \beta_{iM}(r_M - r_f) + \beta_{iQ}(r_Q)`$
+   其中 $`r_Q`$ 是量子风险溢价。
 
 2. **量子投资组合理论**：
-   $$\max_w \left\{w^T\mu - \lambda w^T\Sigma w - \gamma w^T Qw\right\}$$
-   其中 $Q$ 是量子协方差矩阵，捕捉非经典相关性。
+   $`\max_w \left\{w^T\mu - \lambda w^T\Sigma w - \gamma w^T Qw\right\}`$
+   其中 $`Q`$ 是量子协方差矩阵，捕捉非经典相关性。
 
 ### 量子宏观经济政策
 
 1. **量子敏感财政政策**：
    考虑到量子预期叠加态的财政乘数调整：
-   $$M_Q = M_C \cdot (1 + \alpha C_Q)$$
-   其中 $M_Q$ 是量子调整后的乘数，$C_Q$ 是预期的量子相干性。
+   $`M_Q = M_C \cdot (1 + \alpha C_Q)`$
+   其中 $`M_Q`$ 是量子调整后的乘数，$`C_Q`$ 是预期的量子相干性。
 
 2. **预期管理的量子方法**：
    通过调整市场预期的量子相干性增强政策效果：
-   $$\Delta Y = \gamma \cdot \Delta M \cdot (1 + \beta \cdot C(预期))$$
-   其中 $C(预期)$ 是预期的量子相干度量。
+   $`\Delta Y = \gamma \cdot \Delta M \cdot (1 + \beta \cdot C(预期))`$
+   其中 $`C(预期)`$ 是预期的量子相干度量。
 
 ## 总结与展望
 

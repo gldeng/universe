@@ -51,25 +51,25 @@ Sahih al-Bukhari is the second most important text in Islam, compiled by Muhamma
 ## 数学表达 (Mathematical Expression)
 
 ### 意图-行为经典化方程
-$$
+$`
 |\psi_{\text{行为}}(t)\rangle = \sum_{i} \alpha_i(t)|\text{意图}_i\rangle
-$$
+`$
 
 其中：
-- $|\psi_{\text{行为}}(t)\rangle$ 表示t时刻的行为量子态
-- $|\text{意图}_i\rangle$ 代表第i种意图的基态
-- $\alpha_i(t)$ 是时间相关的复振幅，满足 $\sum_i |\alpha_i(t)|^2 = 1$
-- 经典化过程表现为：$\lim_{t\to t_{\text{行为}}} |\alpha_j(t)|^2 = 1$（对特定j）和 $\lim_{t\to t_{\text{行为}}} |\alpha_{i\neq j}(t)|^2 = 0$
+- $`|\psi_{\text{行为}}(t)\rangle`$ 表示t时刻的行为量子态
+- $`|\text{意图}_i\rangle`$ 代表第i种意图的基态
+- $`\alpha_i(t)`$ 是时间相关的复振幅，满足 $`\sum_i |\alpha_i(t)|^2 = 1`$
+- 经典化过程表现为：$`\lim_{t\to t_{\text{行为}}} |\alpha_j(t)|^2 = 1`$（对特定j）和 $`\lim_{t\to t_{\text{行为}}} |\alpha_{i\neq j}(t)|^2 = 0`$
 
 ### 传述链信息保真度方程
-$$
+$`
 F_{\text{伊斯纳德}} = \prod_{i=1}^{n} (1 - \epsilon_i)
-$$
+`$
 
 其中：
-- $F_{\text{伊斯纳德}}$ 是传述链的信息保真度
-- $n$ 是传述链的长度
-- $\epsilon_i$ 是第i位传述者的误差率
+- $`F_{\text{伊斯纳德}}`$ 是传述链的信息保真度
+- $`n`$ 是传述链的长度
+- $`\epsilon_i`$ 是第i位传述者的误差率
 - 布哈里圣训的高可靠性反映在极低的整体误差率
 
 ## 结论 (Conclusion)

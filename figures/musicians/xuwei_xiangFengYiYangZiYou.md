@@ -29,27 +29,27 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
    
    歌词中的"风"可视为量子可能性的象征，它既有确定的运动形式（经典性），也有不可预测的随机性（量子性）。这种双重特性可表示为：
 
-$$
+$`
 |\psi\rangle_{\text{风}} = \alpha|\psi\rangle_{\text{经典轨迹}} + \beta|\psi\rangle_{\text{量子随机性}}
-$$
+`$
 
 2. **自由的量子经典双重性**：
    
    "像风一样自由"揭示了真正的自由同时具备量子与经典的特性——既有无限可能性（量子域），也需要在特定规则下表达（经典域）：
 
-$$
+$`
 \text{自由度} = -\ln\left(\frac{Z_{\text{量子状态数}}}{Z_{\text{经典约束数}}}\right)
-$$
+`$
 
-其中$Z$代表系统的配分函数。
+其中$`Z`$代表系统的配分函数。
 
 3. **观察者视角的自由转换**：
    
    歌曲中对自由的追求，从量子经典二元论看，是观察者试图提升自身维度，从经典约束中感受量子自由的过程：
 
-$$
+$`
 D_{\text{自由观察者}} = D_{\text{基础}} + \frac{I_{\text{自由意志}}}{S_{\text{环境约束}}}
-$$
+`$
 
 ### 哲学意义
 
@@ -81,27 +81,27 @@ From the perspective of Quantum-Classical Dualism, "Free Like the Wind" profound
    
    The "wind" in the lyrics can be viewed as a symbol of quantum possibilities, having both a definite form of movement (classical nature) and unpredictable randomness (quantum nature). This dual characteristic can be represented as:
 
-$$
+$`
 |\psi\rangle_{\text{Wind}} = \alpha|\psi\rangle_{\text{Classical Trajectory}} + \beta|\psi\rangle_{\text{Quantum Randomness}}
-$$
+`$
 
 2. **Quantum-Classical Duality of Freedom**:
    
    "Free like the wind" reveals that true freedom simultaneously possesses both quantum and classical characteristics—having infinite possibilities (quantum domain) while needing to be expressed under specific rules (classical domain):
 
-$$
+$`
 \text{Degree of Freedom} = -\ln\left(\frac{Z_{\text{Number of Quantum States}}}{Z_{\text{Number of Classical Constraints}}}\right)
-$$
+`$
 
-Where $Z$ represents the partition function of the system.
+Where $`Z`$ represents the partition function of the system.
 
 3. **Freedom Conversion from Observer's Perspective**:
    
    The pursuit of freedom in the song, from the perspective of Quantum-Classical Dualism, is the process of the observer trying to elevate their own dimension, experiencing quantum freedom from classical constraints:
 
-$$
+$`
 D_{\text{Free Observer}} = D_{\text{Basic}} + \frac{I_{\text{Free Will}}}{S_{\text{Environmental Constraints}}}
-$$
+`$
 
 ### Philosophical Significance
 

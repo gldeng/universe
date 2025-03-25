@@ -46,7 +46,7 @@ $$\mathcal{I}_{faith} = \Omega_Q^{divine} \cap \Omega_C^{human}$$
 
 $$\psi_{after} = \mathcal{Q}(state_{repentance}) \neq state_{before}$$
 
-妇女章讨论的悔改与宽恕概念体现了经典状态如何通过量子化过程（$\mathcal{Q}$）重新开放可能性空间。这种转变允许观察者摆脱过去的确定状态，进入新的可能性空间。
+妇女章讨论的悔改与宽恕概念体现了经典状态如何通过量子化过程（$`\mathcal{Q}`$）重新开放可能性空间。这种转变允许观察者摆脱过去的确定状态，进入新的可能性空间。
 
 ## 现代启示与应用
 
@@ -108,7 +108,7 @@ The detailed legal provisions in An-Nisa demonstrate how to reduce classical ent
 
 $$\psi_{after} = \mathcal{Q}(state_{repentance}) \neq state_{before}$$
 
-The concepts of repentance and forgiveness discussed in An-Nisa embody how classical states can reopen possibility spaces through the quantization process ($\mathcal{Q}$). This transformation allows observers to break free from past determined states and enter new possibility spaces.
+The concepts of repentance and forgiveness discussed in An-Nisa embody how classical states can reopen possibility spaces through the quantization process ($`\mathcal{Q}`$). This transformation allows observers to break free from past determined states and enter new possibility spaces.
 
 ## Modern Implications and Applications
 

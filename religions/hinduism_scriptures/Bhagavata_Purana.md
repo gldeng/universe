@@ -53,27 +53,29 @@ The Bhagavata Purana (Sanskrit: भागवत पुराण), also known as 
 ## 数学表达 (Mathematical Expression)
 
 ### 宇宙循环方程
+
 $$
 |\psi_{\text{宇宙}}(t)\rangle = \cos^2\left(\frac{\pi t}{2T}\right)|\psi_{\text{显现}}\rangle + \sin^2\left(\frac{\pi t}{2T}\right)|\psi_{\text{休眠}}\rangle
 $$
 
 其中：
-- $|\psi_{\text{宇宙}}(t)\rangle$ 表示t时刻的宇宙量子态
-- $|\psi_{\text{显现}}\rangle$ 是宇宙显现期的量子态
-- $|\psi_{\text{休眠}}\rangle$ 是宇宙休眠期的量子态
-- $T$ 是一个完整宇宙周期的时长（摩诃劫）
+- $`|\psi_{\text{宇宙}}(t)\rangle`$ 表示t时刻的宇宙量子态
+- $`|\psi_{\text{显现}}\rangle`$ 是宇宙显现期的量子态
+- $`|\psi_{\text{休眠}}\rangle`$ 是宇宙休眠期的量子态
+- $`T`$ 是一个完整宇宙周期的时长（摩诃劫）
 - 方程描述了宇宙从创造到毁灭的周期性演化
 
 ### 虔诚路径经典化效率方程
+
 $$
 k_{\text{虔诚}} = k_0(1 + \lambda B^{\alpha})
 $$
 
 其中：
-- $k_{\text{虔诚}}$ 是虔诚路径的经典化效率系数
-- $k_0$ 是基础经典化效率
-- $B$ 是虔诚度量
-- $\lambda$ 和 $\alpha$ 是系数，满足 $\lambda > 0$, $\alpha > 1$
+- $`k_{\text{虔诚}}`$ 是虔诚路径的经典化效率系数
+- $`k_0`$ 是基础经典化效率
+- $`B`$ 是虔诚度量
+- $`\lambda`$ 和 $`\alpha`$ 是系数，满足 $`\lambda > 0`$, $`\alpha > 1`$
 - 方程表明虔诚对经典化效率的超线性提升作用
 
 ## 结论 (Conclusion)

@@ -29,8 +29,8 @@ This article details the Classical Consciousness Theory in Quantum-Classical Dua
 
 $$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}$$
 
-其中 $|\psi\rangle_{\text{量子意识}}$ 是量子域中的意识状态，$I_{\text{经典记忆}}$ 是经典化后的信息，$S_{\text{经典熵}}$ 是过程中产生的熵。
-Where $|\psi\rangle_{\text{量子意识}}$ is the consciousness state in the quantum domain, $I_{\text{经典记忆}}$ is the classicalized information, and $S_{\text{经典熵}}$ is the entropy generated in the process.
+其中 $`|\psi\rangle_{\text{量子意识}}`$ 是量子域中的意识状态，$`I_{\text{经典记忆}}`$ 是经典化后的信息，$`S_{\text{经典熵}}`$ 是过程中产生的熵。
+Where $`|\psi\rangle_{\text{量子意识}}`$ is the consciousness state in the quantum domain, $`I_{\text{经典记忆}}`$ is the classicalized information, and $`S_{\text{经典熵}}`$ is the entropy generated in the process.
 
 ## 经典意识与量子意识的对比 | Comparison of Classical and Quantum Consciousness
 
@@ -143,8 +143,8 @@ The overall classical consciousness is greater than the simple superposition of 
 
 $$I_{\text{可处理信息}} \leq \frac{E_{\text{可用能量}}}{k_B T \cdot \ln 2}$$
 
-其中 $k_B$ 是玻尔兹曼常数，$T$ 是系统温度。
-Where $k_B$ is Boltzmann's constant, and $T$ is the system temperature.
+其中 $`k_B`$ 是玻尔兹曼常数，$`T`$ 是系统温度。
+Where $`k_B`$ is Boltzmann's constant, and $`T`$ is the system temperature.
 
 ### 熵增陷阱 | Entropy Increase Trap
 
@@ -195,6 +195,7 @@ The Classical Consciousness Theory posits that consciousness is the self-organiz
 ## 核心公式 | Core Formulas
 
 ### 意识本质公式 | Consciousness Essence Formula
+
 $$
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
 $$
@@ -208,6 +209,7 @@ $$
 Consciousness is the stable information structure formed in the observer's space-time array.
 
 ### 意识复杂度 | Consciousness Complexity
+
 $$
 C_{\text{意识}} \propto -\sum_i p_i \log p_i
 $$
@@ -216,11 +218,12 @@ $$
 C_{\text{consciousness}} \propto -\sum_i p_i \log p_i
 $$
 
-意识的复杂度与其信息熵成正比，其中$p_i$是不同意识状态的概率分布。
+意识的复杂度与其信息熵成正比，其中$`p_i`$是不同意识状态的概率分布。
 
-The complexity of consciousness is proportional to its information entropy, where $p_i$ is the probability distribution of different consciousness states.
+The complexity of consciousness is proportional to its information entropy, where $`p_i`$ is the probability distribution of different consciousness states.
 
 ### 意识-环境耦合 | Consciousness-Environment Coupling
+
 $$
 I(\text{意识};\text{环境}) = H(\text{意识}) + H(\text{环境}) - H(\text{意识},\text{环境})
 $$

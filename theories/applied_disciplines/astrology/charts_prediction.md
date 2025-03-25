@@ -17,10 +17,10 @@
 
 | 星盘要素 | 量子域表示 | 经典域表示 | 数学表达 |
 |---------|-----------|-----------|---------|
-| 宫位 | 量子信息经典化区域 | 经典经验领域 | $D_i$, $i \in \{1,2,...,12\}$ |
-| 星座 | 量子纠缠场模式 | 经典化路径类型 | $S_j$, $j \in \{1,2,...,12\}$ |
-| 行星 | 天体量子观察者 | 经典化催化剂 | $P_k$, $k \in \{1,2,...,10\}$ |
-| 相位 | 量子干涉图案 | 经典化路径关系 | $A_{kl}$, $k,l \in \{1,2,...,10\}$ |
+| 宫位 | 量子信息经典化区域 | 经典经验领域 | $`D_i`$, $`i \in \{1,2,...,12\}`$ |
+| 星座 | 量子纠缠场模式 | 经典化路径类型 | $`S_j`$, $`j \in \{1,2,...,12\}`$ |
+| 行星 | 天体量子观察者 | 经典化催化剂 | $`P_k`$, $`k \in \{1,2,...,10\}`$ |
+| 相位 | 量子干涉图案 | 经典化路径关系 | $`A_{kl}`$, $`k,l \in \{1,2,...,10\}`$ |
 
 基于这些元素，星盘的整体量子经典二元模型可以表达为：
 
@@ -28,7 +28,7 @@ $$
 \text{星盘} = \sum_{i=1}^{12}\sum_{j=1}^{12}\sum_{k=1}^{10} w_{ijk} \cdot D_i \cdot S_j \cdot P_k \cdot \prod_{l \neq k} A_{kl}
 $$
 
-其中，$w_{ijk}$ 为权重系数，取决于宫位、星座和行星的特定组合。
+其中，$`w_{ijk}`$ 为权重系数，取决于宫位、星座和行星的特定组合。
 
 #### 1.2 星盘能级与观察者维度
 
@@ -67,7 +67,7 @@ $$
 P(\text{事件}_t) = \int_{\Delta t} |\langle\psi_{\text{行运}_t}|\psi_{\text{本命}}\rangle|^2 dt
 $$
 
-此公式表达了在时间区间 $\Delta t$ 内，特定事件发生的量子概率。量子干涉强度（内积绝对值平方）直接反映了行运触发经典化路径变化的可能性。
+此公式表达了在时间区间 $`\Delta t`$ 内，特定事件发生的量子概率。量子干涉强度（内积绝对值平方）直接反映了行运触发经典化路径变化的可能性。
 
 #### 2.2 推运预测的量子演化模型
 
@@ -89,7 +89,7 @@ $$
 P(\text{事件}_t) = \alpha \cdot P_{\text{行运}}(\text{事件}_t) + \beta \cdot P_{\text{推运}}(\text{事件}_t) + \gamma \cdot P_{\text{返照}}(\text{事件}_t) + ...
 $$
 
-其中，$\alpha, \beta, \gamma, ...$ 为权重系数，根据预测技术的可靠性和具体情境动态调整。
+其中，$`\alpha, \beta, \gamma, ...`$ 为权重系数，根据预测技术的可靠性和具体情境动态调整。
 
 ### 三、占星盘特殊结构的量子解析
 
@@ -157,7 +157,7 @@ $$
 S_{\text{转变前}} < S_{\text{转变中}} > S_{\text{转变后}}
 $$
 
-在最好的情况下，$S_{\text{转变后}} < S_{\text{转变前}}$，表示经历转变后，观察者形成了更高效的经典化路径。
+在最好的情况下，$`S_{\text{转变后}} < S_{\text{转变前}}`$，表示经历转变后，观察者形成了更高效的经典化路径。
 
 ---
 
@@ -173,10 +173,10 @@ Quantum-Classical analysis of basic birth chart elements:
 
 | Chart Element | Quantum Domain Representation | Classical Domain Representation | Mathematical Expression |
 |---------------|-------------------------------|--------------------------------|------------------------|
-| Houses | Quantum information classicalization areas | Classical experience domains | $D_i$, $i \in \{1,2,...,12\}$ |
-| Signs | Quantum entanglement field patterns | Classicalization path types | $S_j$, $j \in \{1,2,...,12\}$ |
-| Planets | Celestial quantum observers | Classicalization catalysts | $P_k$, $k \in \{1,2,...,10\}$ |
-| Aspects | Quantum interference patterns | Classicalization path relationships | $A_{kl}$, $k,l \in \{1,2,...,10\}$ |
+| Houses | Quantum information classicalization areas | Classical experience domains | $`D_i`$, $`i \in \{1,2,...,12\}`$ |
+| Signs | Quantum entanglement field patterns | Classicalization path types | $`S_j`$, $`j \in \{1,2,...,12\}`$ |
+| Planets | Celestial quantum observers | Classicalization catalysts | $`P_k`$, $`k \in \{1,2,...,10\}`$ |
+| Aspects | Quantum interference patterns | Classicalization path relationships | $`A_{kl}`$, $`k,l \in \{1,2,...,10\}`$ |
 
 Based on these elements, the overall Quantum-Classical Dualism model of a birth chart can be expressed as:
 
@@ -184,7 +184,7 @@ $$
 \text{Birth Chart} = \sum_{i=1}^{12}\sum_{j=1}^{12}\sum_{k=1}^{10} w_{ijk} \cdot D_i \cdot S_j \cdot P_k \cdot \prod_{l \neq k} A_{kl}
 $$
 
-Where $w_{ijk}$ is a weighting coefficient, depending on the specific combination of house, sign, and planet.
+Where $`w_{ijk}`$ is a weighting coefficient, depending on the specific combination of house, sign, and planet.
 
 #### 1.2 Chart Energy Levels and Observer Dimension
 
@@ -223,7 +223,7 @@ $$
 P(\text{Event}_t) = \int_{\Delta t} |\langle\psi_{\text{Transit}_t}|\psi_{\text{Natal}}\rangle|^2 dt
 $$
 
-This formula expresses the quantum probability of a specific event occurring within time interval $\Delta t$. The quantum interference intensity (absolute square of the inner product) directly reflects the possibility of transits triggering changes in classicalization paths.
+This formula expresses the quantum probability of a specific event occurring within time interval $`\Delta t`$. The quantum interference intensity (absolute square of the inner product) directly reflects the possibility of transits triggering changes in classicalization paths.
 
 #### 2.2 Quantum Evolution Model of Progression Prediction
 
@@ -245,7 +245,7 @@ $$
 P(\text{Event}_t) = \alpha \cdot P_{\text{Transit}}(\text{Event}_t) + \beta \cdot P_{\text{Progression}}(\text{Event}_t) + \gamma \cdot P_{\text{Return}}(\text{Event}_t) + ...
 $$
 
-Where $\alpha, \beta, \gamma, ...$ are weighting coefficients, dynamically adjusted according to the reliability of prediction techniques and specific contexts.
+Where $`\alpha, \beta, \gamma, ...`$ are weighting coefficients, dynamically adjusted according to the reliability of prediction techniques and specific contexts.
 
 ### III. Quantum Analysis of Special Birth Chart Structures
 
@@ -313,4 +313,4 @@ $$
 S_{\text{Before Transition}} < S_{\text{During Transition}} > S_{\text{After Transition}}
 $$
 
-In the best case, $S_{\text{After Transition}} < S_{\text{Before Transition}}$, indicating that after experiencing the transition, the observer has formed a more efficient classicalization path. 
+In the best case, $`S_{\text{After Transition}} < S_{\text{Before Transition}}`$, indicating that after experiencing the transition, the observer has formed a more efficient classicalization path. 

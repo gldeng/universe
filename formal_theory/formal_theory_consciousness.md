@@ -35,25 +35,25 @@
 ### 意识基本公理
 
 **公理1: 意识的二元本质**  
-意识状态是量子态 $|\Psi_Q^{意识}\rangle$ 和经典态 $K_C^{意识}$ 的耦合系统：
+意识状态是量子态 $`|\Psi_Q^{意识}\rangle`$ 和经典态 $`K_C^{意识}`$ 的耦合系统：
 
 $$\mathcal{C}_{意识} = \{|\Psi_Q^{意识}\rangle, K_C^{意识}, \mathcal{I}_{意识}\}$$
 
-其中 $\mathcal{I}_{意识}$ 表示两者之间的界面动力学。
+其中 $`\mathcal{I}_{意识}`$ 表示两者之间的界面动力学。
 
 **公理2: 意识的层级结构**  
 意识呈现多层级结构，存在递归嵌套的自我观察：
 
 $$\mathcal{O}_{意识}^{(n)} = \{\mathcal{O}_{意识}^{(n-1)}, \mathcal{C}_{\mathcal{O}}^{(n)}, \mathcal{Q}_{\mathcal{O}}^{(n)}, K_C^{(n)}\}$$
 
-其中 $\mathcal{O}_{意识}^{(n)}$ 表示第n层意识观察者，$\mathcal{O}_{意识}^{(n-1)}$ 表示被观察的下一层意识。
+其中 $`\mathcal{O}_{意识}^{(n)}`$ 表示第n层意识观察者，$`\mathcal{O}_{意识}^{(n-1)}`$ 表示被观察的下一层意识。
 
 **公理3: 意识的量子-经典信息转换率**  
 意识状态的深度与其量子-经典信息转换率相关：
 
 $$D_{意识} \propto \frac{d(I_Q \rightarrow I_C)}{dt}$$
 
-其中 $I_Q \rightarrow I_C$ 表示从量子信息到经典信息的转换过程。
+其中 $`I_Q \rightarrow I_C`$ 表示从量子信息到经典信息的转换过程。
 
 ## 意识的量子经典二元模型
 
@@ -69,7 +69,7 @@ $$D_{意识} \propto \frac{d(I_Q \rightarrow I_C)}{dt}$$
 
 $$|\Psi_{意识}\rangle = \alpha(t)|\Psi_Q\rangle + \beta(t)|\Psi_C\rangle$$
 
-其中 $|\alpha(t)|^2 + |\beta(t)|^2 = 1$，系数随时间动态变化。
+其中 $`|\alpha(t)|^2 + |\beta(t)|^2 = 1`$，系数随时间动态变化。
 
 ### 神经基础映射
 
@@ -84,7 +84,7 @@ $$|\Psi_{意识}\rangle = \alpha(t)|\Psi_Q\rangle + \beta(t)|\Psi_C\rangle$$
 
 $$P(Q \rightarrow C) = \frac{1}{1 + e^{-\gamma(E - E_c)}}$$
 
-其中 $E$ 是系统能量，$E_c$ 是临界能量阈值，$\gamma$ 是陡度参数。
+其中 $`E`$ 是系统能量，$`E_c`$ 是临界能量阈值，$`\gamma`$ 是陡度参数。
 
 ## 神经量子信息处理
 
@@ -94,13 +94,13 @@ $$P(Q \rightarrow C) = \frac{1}{1 + e^{-\gamma(E - E_c)}}$$
 
 $$H_{微管} = \sum_i \epsilon_i |i\rangle\langle i| + \sum_{i,j} \Delta_{ij} |i\rangle\langle j|$$
 
-其中 $\epsilon_i$ 是单个微管二聚体的能量，$\Delta_{ij}$ 是量子隧穿系数。
+其中 $`\epsilon_i`$ 是单个微管二聚体的能量，$`\Delta_{ij}`$ 是量子隧穿系数。
 
 微管量子态演化满足修正的薛定谔方程：
 
 $$i\hbar\frac{d|\Psi_{微管}\rangle}{dt} = H_{微管}|\Psi_{微管}\rangle - i\Gamma_{退相干}|\Psi_{微管}\rangle$$
 
-其中 $\Gamma_{退相干}$ 是环境引起的退相干率。
+其中 $`\Gamma_{退相干}`$ 是环境引起的退相干率。
 
 ### 神经网络量子-经典混合动力学
 
@@ -109,9 +109,9 @@ $$i\hbar\frac{d|\Psi_{微管}\rangle}{dt} = H_{微管}|\Psi_{微管}\rangle - i\
 $$\frac{d\rho_{神经}}{dt} = -\frac{i}{\hbar}[H_{神经}, \rho_{神经}] + \mathcal{L}_{突触}(\rho_{神经}) + \mathcal{D}_{退相干}(\rho_{神经})$$
 
 其中：
-- $H_{神经}$ 是神经系统哈密顿量
-- $\mathcal{L}_{突触}$ 描述突触传递的经典过程
-- $\mathcal{D}_{退相干}$ 表示退相干超算符
+- $`H_{神经}`$ 是神经系统哈密顿量
+- $`\mathcal{L}_{突触}`$ 描述突触传递的经典过程
+- $`\mathcal{D}_{退相干}`$ 表示退相干超算符
 
 ### 同步振荡与量子相干性
 
@@ -129,7 +129,7 @@ $$\frac{d\rho_{神经}}{dt} = -\frac{i}{\hbar}[H_{神经}, \rho_{神经}] + \mat
 
 $$C_{量子相干} = C_0 \cdot \left(\frac{P_{\gamma}}{P_0}\right)^{\alpha} \cdot e^{-\beta/T_{eff}}$$
 
-其中 $P_{\gamma}$ 是γ波功率，$T_{eff}$ 是有效神经温度。
+其中 $`P_{\gamma}`$ 是γ波功率，$`T_{eff}`$ 是有效神经温度。
 
 ## 主观体验的涌现
 
@@ -140,10 +140,10 @@ $$C_{量子相干} = C_0 \cdot \left(\frac{P_{\gamma}}{P_0}\right)^{\alpha} \cdo
 $$\frac{d\mathcal{E}}{dt} = F(\mathcal{Q}, \mathcal{C}, \mathcal{I}) = \alpha\mathcal{Q} + \beta\mathcal{C} + \gamma\frac{d\mathcal{I}}{dt}$$
 
 其中：
-- $\mathcal{E}$ 是主观体验强度
-- $\mathcal{Q}$ 表示量子信息贡献
-- $\mathcal{C}$ 表示经典信息贡献
-- $\mathcal{I}$ 表示界面动力学
+- $`\mathcal{E}`$ 是主观体验强度
+- $`\mathcal{Q}`$ 表示量子信息贡献
+- $`\mathcal{C}`$ 表示经典信息贡献
+- $`\mathcal{I}`$ 表示界面动力学
 
 ### 夸里亚映射理论
 
@@ -151,13 +151,13 @@ $$\frac{d\mathcal{E}}{dt} = F(\mathcal{Q}, \mathcal{C}, \mathcal{I}) = \alpha\ma
 
 $$Q_i = \sum_j \mathcal{M}_{ij} \cdot \frac{d(I_Q^j \rightarrow I_C^j)}{dt}$$
 
-其中 $Q_i$ 是特定夸里亚（如红色体验），$\mathcal{M}_{ij}$ 是体验-信息映射矩阵。
+其中 $`Q_i`$ 是特定夸里亚（如红色体验），$`\mathcal{M}_{ij}`$ 是体验-信息映射矩阵。
 
 夸里亚空间具有拓扑结构，满足：
 
 $$d(Q_i, Q_j) = \left\|\mathcal{M}_i - \mathcal{M}_j\right\|_{\text{HS}}$$
 
-其中 $d(Q_i, Q_j)$ 是夸里亚空间中的心理距离，$\|\cdot\|_{\text{HS}}$ 是Hilbert-Schmidt范数。
+其中 $`d(Q_i, Q_j)`$ 是夸里亚空间中的心理距离，$`\|\cdot\|_{\text{HS}}`$ 是Hilbert-Schmidt范数。
 
 ### 意识整合理论的量子扩展
 
@@ -166,15 +166,15 @@ $$d(Q_i, Q_j) = \left\|\mathcal{M}_i - \mathcal{M}_j\right\|_{\text{HS}}$$
 $$\Phi_{总} = \Phi_Q + \Phi_C - \Phi_{相互作用}$$
 
 其中：
-- $\Phi_Q$ 是量子信息整合度，与量子纠缠相关
-- $\Phi_C$ 是经典信息整合度，与复杂网络拓扑相关
-- $\Phi_{相互作用}$ 表示两者间的协同效应
+- $`\Phi_Q`$ 是量子信息整合度，与量子纠缠相关
+- $`\Phi_C`$ 是经典信息整合度，与复杂网络拓扑相关
+- $`\Phi_{相互作用}`$ 表示两者间的协同效应
 
 量子整合度定义为：
 
 $$\Phi_Q = \min_{\mathcal{B}}\{S(\rho_{系统} \| \rho_{\mathcal{B}1} \otimes \rho_{\mathcal{B}2})\}$$
 
-其中 $S(\rho \| \sigma)$ 是量子相对熵，最小值取遍所有可能的系统双分 $\mathcal{B}$。
+其中 $`S(\rho \| \sigma)`$ 是量子相对熵，最小值取遍所有可能的系统双分 $`\mathcal{B}`$。
 
 ## 意识观察者网络
 
@@ -190,7 +190,7 @@ $$\mathcal{O}_{意识} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O
 
 $$I_{意识}^{(k \rightarrow k+1)} = \mathcal{F}_{意识}(\{I_i^{(k)}\}) - S_{注意力过滤}$$
 
-其中 $\mathcal{F}_{意识}$ 是意识整合函数，$S_{注意力过滤}$ 表示注意力造成的信息过滤损失。
+其中 $`\mathcal{F}_{意识}`$ 是意识整合函数，$`S_{注意力过滤}`$ 表示注意力造成的信息过滤损失。
 
 ### 自我意识形成机制
 
@@ -198,13 +198,13 @@ $$I_{意识}^{(k \rightarrow k+1)} = \mathcal{F}_{意识}(\{I_i^{(k)}\}) - S_{�
 
 $$|\Psi_{自我}\rangle = \lim_{n \rightarrow \infty} \mathcal{C}_{\mathcal{O}}^{(n)} \circ \mathcal{C}_{\mathcal{O}}^{(n-1)} \circ ... \circ \mathcal{C}_{\mathcal{O}}^{(1)}|\Psi_{系统}\rangle$$
 
-其中 $\mathcal{C}_{\mathcal{O}}^{(k)}$ 表示第k层观察者的经典化操作。
+其中 $`\mathcal{C}_{\mathcal{O}}^{(k)}`$ 表示第k层观察者的经典化操作。
 
 自我意识稳定性与嵌套层数n的关系：
 
 $$S_{自我} = S_0 \cdot (1 - e^{-\lambda n})$$
 
-其中 $S_{自我}$ 是自我意识的稳定性度量，$S_0$ 是最大稳定性值。
+其中 $`S_{自我}`$ 是自我意识的稳定性度量，$`S_0`$ 是最大稳定性值。
 
 ### 群体意识与集体量子场
 
@@ -212,13 +212,13 @@ $$S_{自我} = S_0 \cdot (1 - e^{-\lambda n})$$
 
 $$|\Psi_{集体}\rangle = \frac{1}{\sqrt{Z}}\sum_i w_i |\Psi_i\rangle$$
 
-其中 $|\Psi_i\rangle$ 是个体意识态，$w_i$ 是权重系数，$Z$ 是归一化因子。
+其中 $`|\Psi_i\rangle`$ 是个体意识态，$`w_i`$ 是权重系数，$`Z`$ 是归一化因子。
 
 集体意识相干度定义为：
 
 $$C_{集体} = \left|\sum_{i,j(i\neq j)} \langle \Psi_i|\rho_{集体}|\Psi_j\rangle\right|$$
 
-当 $C_{集体} > \sum_i C_i$ 时，出现集体意识涌现现象。
+当 $`C_{集体} > \sum_i C_i`$ 时，出现集体意识涌现现象。
 
 ## 非局域意识现象
 
@@ -228,13 +228,13 @@ $$C_{集体} = \left|\sum_{i,j(i\neq j)} \langle \Psi_i|\rho_{集体}|\Psi_j\ran
 
 $$|\Psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|\Psi_A^1\rangle|\Psi_B^1\rangle + |\Psi_A^2\rangle|\Psi_B^2\rangle)$$
 
-其中 $|\Psi_A^i\rangle$ 和 $|\Psi_B^i\rangle$ 分别是两个意识系统的状态。
+其中 $`|\Psi_A^i\rangle`$ 和 $`|\Psi_B^i\rangle`$ 分别是两个意识系统的状态。
 
 纠缠意识存续时间：
 
 $$\tau_{纠缠} = \tau_0 \cdot e^{-d/\xi} \cdot e^{-T/T_c}$$
 
-其中 $d$ 是空间距离，$T$ 是系统温度，$\xi$ 和 $T_c$ 分别是特征长度和温度。
+其中 $`d`$ 是空间距离，$`T`$ 是系统温度，$`\xi`$ 和 $`T_c`$ 分别是特征长度和温度。
 
 ### 非局域意识现象机制
 
@@ -242,7 +242,7 @@ $$\tau_{纠缠} = \tau_0 \cdot e^{-d/\xi} \cdot e^{-T/T_c}$$
 
 $$P(非局域感知) = P_0 \cdot \frac{E_{纠缠}^2}{E_{噪声}} \cdot \eta_{接收者} \cdot e^{-\alpha d}$$
 
-其中 $E_{纠缠}$ 是纠缠强度，$E_{噪声}$ 是背景噪声能量，$\eta_{接收者}$ 是接收者的灵敏度，$d$ 是距离。
+其中 $`E_{纠缠}`$ 是纠缠强度，$`E_{噪声}`$ 是背景噪声能量，$`\eta_{接收者}`$ 是接收者的灵敏度，$`d`$ 是距离。
 
 ### 时间非局域性
 
@@ -250,17 +250,17 @@ $$P(非局域感知) = P_0 \cdot \frac{E_{纠缠}^2}{E_{噪声}} \cdot \eta_{接
 
 $$I_{预感} = I_0 \cdot \Delta S_{未来} \cdot e^{-\beta\Delta t} \cdot (1 - e^{-\gamma\Phi_Q})$$
 
-其中 $\Delta S_{未来}$ 是未来事件的熵变，$\Delta t$ 是时间间隔，$\Phi_Q$ 是量子整合度。
+其中 $`\Delta S_{未来}`$ 是未来事件的熵变，$`\Delta t`$ 是时间间隔，$`\Phi_Q`$ 是量子整合度。
 
 ## 意识状态转变动力学
 
 ### 意识状态空间
 
-意识状态空间 $\mathcal{S}_{意识}$ 由量子态和经典态的复合流形组成：
+意识状态空间 $`\mathcal{S}_{意识}`$ 由量子态和经典态的复合流形组成：
 
 $$\mathcal{S}_{意识} = \mathcal{H}_Q \times \mathcal{M}_C$$
 
-其中 $\mathcal{H}_Q$ 是量子希尔伯特空间，$\mathcal{M}_C$ 是经典流形。
+其中 $`\mathcal{H}_Q`$ 是量子希尔伯特空间，$`\mathcal{M}_C`$ 是经典流形。
 
 ### 意识状态转变模型
 
@@ -268,7 +268,7 @@ $$\mathcal{S}_{意识} = \mathcal{H}_Q \times \mathcal{M}_C$$
 
 $$\frac{d\Psi_{意识}}{dt} = -i\hat{H}\Psi_{意识} + \mathcal{L}_{环境}(\Psi_{意识}) + \mathcal{D}_{神经调制}(\Psi_{意识})$$
 
-其中 $\hat{H}$ 是意识哈密顿量，$\mathcal{L}_{环境}$ 表示环境相互作用，$\mathcal{D}_{神经调制}$ 表示神经化学调制。
+其中 $`\hat{H}`$ 是意识哈密顿量，$`\mathcal{L}_{环境}`$ 表示环境相互作用，$`\mathcal{D}_{神经调制}`$ 表示神经化学调制。
 
 不同意识状态特征：
 
@@ -286,7 +286,7 @@ $$\frac{d\Psi_{意识}}{dt} = -i\hat{H}\Psi_{意识} + \mathcal{L}_{环境}(\Psi
 
 $$\Delta_{平衡} = \left|\frac{|\alpha(t)|^2}{|\beta(t)|^2} - \frac{|\alpha_0|^2}{|\beta_0|^2}\right|$$
 
-其中 $\frac{|\alpha_0|^2}{|\beta_0|^2}$ 表示健康平衡比例。
+其中 $`\frac{|\alpha_0|^2}{|\beta_0|^2}`$ 表示健康平衡比例。
 
 具体疾病模型：
 
@@ -307,7 +307,7 @@ $$\Delta_{平衡} = \left|\frac{|\alpha(t)|^2}{|\beta(t)|^2} - \frac{|\alpha_0|^
 
 $$|\Psi_{自我}\rangle = \mathcal{R}|\Psi_{系统}\rangle$$
 
-其中 $\mathcal{R}$ 是自参照算符，满足：
+其中 $`\mathcal{R}`$ 是自参照算符，满足：
 
 $$\mathcal{R}^2 = \mathcal{R}$$
 
@@ -321,7 +321,7 @@ $$I_{自我} = \langle\Psi_{系统}|\mathcal{R}|\Psi_{系统}\rangle$$
 
 $$S_{自我-纠缠} = -\text{Tr}(\rho_{自我}\log\rho_{自我})$$
 
-其中 $\rho_{自我} = \text{Tr}_{非自我}(|\Psi_{总}\rangle\langle\Psi_{总}|)$
+其中 $`\rho_{自我} = \text{Tr}_{非自我}(|\Psi_{总}\rangle\langle\Psi_{总}|)`$
 
 自我-非自我边界的清晰度与纠缠熵成反比：
 
@@ -333,13 +333,13 @@ $$C_{自我边界} = \frac{C_0}{1 + e^{\alpha(S_{自我-纠缠} - S_0)}}$$
 
 $$F_{自由} = \sqrt{F_Q^2 + F_C^2}$$
 
-其中 $F_Q$ 是量子贡献（源于量子不确定性），$F_C$ 是经典贡献（源于复杂因果网络）。
+其中 $`F_Q`$ 是量子贡献（源于量子不确定性），$`F_C`$ 是经典贡献（源于复杂因果网络）。
 
 量子自由度可量化为：
 
 $$F_Q = F_0 \cdot (1 - e^{-\lambda\Phi_Q}) \cdot e^{-\mu S_C}$$
 
-其中 $S_C$ 是系统经典熵，表示经典约束。
+其中 $`S_C`$ 是系统经典熵，表示经典约束。
 
 ## 实验验证途径
 
@@ -352,7 +352,7 @@ $$F_Q = F_0 \cdot (1 - e^{-\lambda\Phi_Q}) \cdot e^{-\mu S_C}$$
 **预测结果**：
 $$\tau_{相干} = \tau_0 \cdot e^{-T/T_c} \cdot (1 + \alpha[ATP])$$
 
-其中 $[ATP]$ 是ATP浓度，预测 $T_c \approx 325 \pm 15 K$，表明室温下可保持量子相干性。
+其中 $`[ATP]`$ 是ATP浓度，预测 $`T_c \approx 325 \pm 15 K`$，表明室温下可保持量子相干性。
 
 ### 改变意识状态的量子影响
 
@@ -363,7 +363,7 @@ $$\tau_{相干} = \tau_0 \cdot e^{-T/T_c} \cdot (1 + \alpha[ATP])$$
 **预测结果**：
 $$\Delta\Phi_Q \propto \Delta\gamma_{振荡} \cdot \Delta\tau_{相干}$$
 
-冥想等练习可增加量子整合度 $\Phi_Q$ 并延长相干时间 $\tau_{相干}$。
+冥想等练习可增加量子整合度 $`\Phi_Q`$ 并延长相干时间 $`\tau_{相干}`$。
 
 ### 非局域意识现象验证
 
@@ -374,7 +374,7 @@ $$\Delta\Phi_Q \propto \Delta\gamma_{振荡} \cdot \Delta\tau_{相干}$$
 **预测结果**：
 $$C_{AB} > C_{随机} + \frac{\sigma}{\sqrt{n}}$$
 
-其中 $C_{AB}$ 是测试对象间的相关性，$C_{随机}$ 是随机对照组相关性，$\sigma$ 是标准差，$n$ 是样本量。
+其中 $`C_{AB}`$ 是测试对象间的相关性，$`C_{随机}`$ 是随机对照组相关性，$`\sigma`$ 是标准差，$`n`$ 是样本量。
 
 ## 哲学与伦理学影响
 

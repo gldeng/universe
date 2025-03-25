@@ -24,9 +24,9 @@ Gravity occupies a unique position in dualism, simultaneously connecting the qua
 $$G_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}}$$
 
 where:
-- $G_{\mu\nu}$ is the Einstein tensor, belonging to the classical domain
-- $\hat{T}_{\mu\nu}$ is the quantum energy-momentum operator, belonging to the quantum domain
-- $\langle \cdot \rangle_{\mathcal{C}}$ denotes the classicalization operation performed by observer $\mathcal{O}$
+- $`G_{\mu\nu}`$ is the Einstein tensor, belonging to the classical domain
+- $`\hat{T}_{\mu\nu}`$ is the quantum energy-momentum operator, belonging to the quantum domain
+- $`\langle \cdot \rangle_{\mathcal{C}}`$ denotes the classicalization operation performed by observer $`\mathcal{O}`$
 
 This indicates that the gravitational field is the result of the observer performing quantum→classical information conversion, rather than a pre-existing field.
 
@@ -37,12 +37,12 @@ The tension between gravity and quantum theory can be formulated as a conversion
 $$\mathcal{G} = \mathcal{F}(\mathcal{C}(\Psi_Q))$$
 
 where:
-- $\mathcal{G}$ is the gravitational field/spacetime geometry
-- $\mathcal{F}$ is the mapping from classical information to spacetime geometry
-- $\mathcal{C}$ is the classicalization function
-- $\Psi_Q$ is the quantum state
+- $`\mathcal{G}`$ is the gravitational field/spacetime geometry
+- $`\mathcal{F}`$ is the mapping from classical information to spacetime geometry
+- $`\mathcal{C}`$ is the classicalization function
+- $`\Psi_Q`$ is the quantum state
 
-The essential difficulty of quantum gravity lies in finding appropriate $\mathcal{F}$ and $\mathcal{C}$ functions that make the quantum-classical conversion self-consistent.
+The essential difficulty of quantum gravity lies in finding appropriate $`\mathcal{F}`$ and $`\mathcal{C}`$ functions that make the quantum-classical conversion self-consistent.
 
 ## Spacetime Emergence Mechanism
 
@@ -55,15 +55,15 @@ The emergence process from quantum states to classical spacetime can be expresse
 $$g_{\mu\nu} = \mathcal{T}[S(\rho_{\mathcal{I}})]$$
 
 where:
-- $g_{\mu\nu}$ is the spacetime metric
-- $\mathcal{T}$ is the tensor emergence function
-- $S(\rho_{\mathcal{I}})$ is the entanglement structure of the interface region quantum state $\rho_{\mathcal{I}}$
+- $`g_{\mu\nu}`$ is the spacetime metric
+- $`\mathcal{T}`$ is the tensor emergence function
+- $`S(\rho_{\mathcal{I}})`$ is the entanglement structure of the interface region quantum state $`\rho_{\mathcal{I}}`$
 
 The emergence process is driven by entropy potential gradients:
 
 $$\frac{\partial g_{\mu\nu}}{\partial t} = \kappa \nabla^2 \frac{\delta S(\rho_{\mathcal{I}})}{\delta \rho_{\mathcal{I}}}$$
 
-where $\kappa$ is the response coefficient, related to the Planck scale.
+where $`\kappa`$ is the response coefficient, related to the Planck scale.
 
 ### Quantum Network of Spacetime
 
@@ -72,15 +72,15 @@ At the most fundamental level, spacetime consists of quantum network nodes:
 $$\Gamma = (V, E, \omega)$$
 
 where:
-- $V$ is the set of quantum nodes
-- $E \subseteq V \times V$ is the entanglement connections between nodes
-- $\omega: E \rightarrow \mathbb{C}$ is the entanglement strength weight function
+- $`V`$ is the set of quantum nodes
+- $`E \subseteq V \times V`$ is the entanglement connections between nodes
+- $`\omega: E \rightarrow \mathbb{C}`$ is the entanglement strength weight function
 
 The macroscopic spacetime metric emerges from the network connection topology:
 
 $$g_{\mu\nu}(x) = \lim_{N \to \infty} \frac{1}{N} \sum_{i,j \in \Gamma_N(x)} \omega(i,j) (v_i)_\mu (v_j)_\nu$$
 
-where $\Gamma_N(x)$ is the subnet of N nodes near point $x$, and $(v_i)_\mu$ is the space embedding vector of node $i$.
+where $`\Gamma_N(x)`$ is the subnet of N nodes near point $`x`$, and $`(v_i)_\mu`$ is the space embedding vector of node $`i`$.
 
 ### Quantum Causal Sets
 
@@ -88,7 +88,7 @@ The causal structure of spacetime emerges from the partial ordering of quantum c
 
 $$x \prec y \iff \exists \mathcal{C}: \mathcal{C}(\rho_x) \text{ informationally influences } \mathcal{C}(\rho_y)$$
 
-where $\prec$ denotes the causal precedence relation. Lorentz invariance acts as an emergent symmetry, rather than a fundamental one.
+where $`\prec`$ denotes the causal precedence relation. Lorentz invariance acts as an emergent symmetry, rather than a fundamental one.
 
 In quantum causal sets, Minkowski spacetime is a special case:
 
@@ -104,7 +104,7 @@ The gravitational dynamics in the interface region is described by the semiclass
 
 $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle + \Theta_{\mu\nu}(\mathcal{D})$$
 
-where $\Theta_{\mu\nu}(\mathcal{D})$ is the quantum-classical interface correction tensor, dependent on the disentanglement measure $\mathcal{D}$:
+where $`\Theta_{\mu\nu}(\mathcal{D})`$ is the quantum-classical interface correction tensor, dependent on the disentanglement measure $`\mathcal{D}`$:
 
 $$\Theta_{\mu\nu}(\mathcal{D}) = \alpha(\mathcal{D} - \mathcal{D}_c)g_{\mu\nu} + \beta \nabla_\mu \mathcal{D} \nabla_\nu \mathcal{D} + \gamma R_{\mu\nu} \ln\left(\frac{\mathcal{D}}{\mathcal{D}_c}\right)$$
 
@@ -116,7 +116,7 @@ Gravity can be viewed as a manifestation of entropic tendency, closely related t
 
 $$F_{\text{gravity}} = T \nabla S_{\mathcal{I}}$$
 
-where $S_{\mathcal{I}}$ is the entropy associated with the interface position. The increase in classicalization entropy provides the directionality of gravity.
+where $`S_{\mathcal{I}}`$ is the entropy associated with the interface position. The increase in classicalization entropy provides the directionality of gravity.
 
 The Einstein equations can be reformulated as entropy balance conditions:
 
@@ -135,7 +135,7 @@ This uncertainty relation indicates that on small scales, spacetime geometry and
 The fluctuation spectrum of the spacetime metric:
 $$P(k) = \frac{\hbar G}{c^3} \cdot \frac{1}{1 + (kl_P)^2}$$
 
-where $l_P = \sqrt{\frac{\hbar G}{c^3}}$ is the Planck length.
+where $`l_P = \sqrt{\frac{\hbar G}{c^3}}`$ is the Planck length.
 
 ## Quantum Entanglement and Spacetime Structure
 
@@ -158,7 +158,7 @@ The dimensionality of spacetime is directly related to the entanglement structur
 
 $$d_{\text{spacetime}} = \log_2 \chi + 1$$
 
-where $\chi$ is the entanglement complexity of the system (geometric mean of Schmidt numbers).
+where $`\chi`$ is the entanglement complexity of the system (geometric mean of Schmidt numbers).
 
 This explains why macroscopic classical spacetime is 3+1 dimensional—it corresponds to quantum systems with specific entanglement structures.
 
@@ -180,7 +180,7 @@ Black holes are essentially extreme quantum-classical interface regions:
 
 $$\mathcal{D}_{\text{black hole}}(r) = \mathcal{D}_c \cdot \tanh\left(\frac{r - r_s}{l_P}\right)$$
 
-where $r_s$ is the Schwarzschild radius.
+where $`r_s`$ is the Schwarzschild radius.
 
 This understanding explains the dual nature of black holes:
 - External observer: Information is classicalized and radiated away
@@ -218,7 +218,7 @@ The entire universe can be viewed as a massive quantum-classical phase transitio
 
 $$\mathcal{D}_{\text{universe}}(t) = \mathcal{D}_c \cdot \tanh\left(\frac{t-t_c}{t_P}\right)$$
 
-where $t_c$ is the critical time (when the universe's quantum-classical phase transition occurs), and $t_P$ is the Planck time.
+where $`t_c`$ is the critical time (when the universe's quantum-classical phase transition occurs), and $`t_P`$ is the Planck time.
 
 This view naturally explains the highly quantum nature of the early universe and the highly classical nature of the late universe.
 
@@ -228,7 +228,7 @@ Dark energy may originate from the tension of the quantum-classical interface:
 
 $$\rho_{\Lambda} \propto \sigma_{\mathcal{I}} \cdot H(t) \cdot \frac{d\mathcal{D}_{\text{universe}}}{dt}$$
 
-where $\sigma_{\mathcal{I}}$ is the interface tension, and $H(t)$ is the Hubble parameter.
+where $`\sigma_{\mathcal{I}}`$ is the interface tension, and $`H(t)`$ is the Hubble parameter.
 
 This explains why dark energy begins to dominate at a specific age of the universe—it corresponds to a specific stage in the universe's quantum-classical phase transition.
 
@@ -238,7 +238,7 @@ The initial state of the universe is not finely tuned, but the natural result of
 
 $$\rho_{\text{universe}}^{\text{classical}} = \mathcal{C}_{\text{big bang}}(|\Psi_{\text{initial}}\rangle)$$
 
-Most possible quantum initial states $|\Psi_{\text{initial}}\rangle$ would produce classical states similar to our universe after classicalization, resolving the fine-tuning problem.
+Most possible quantum initial states $`|\Psi_{\text{initial}}\rangle`$ would produce classical states similar to our universe after classicalization, resolving the fine-tuning problem.
 
 ## Observer-Dependent Gravitational Field
 
@@ -250,7 +250,7 @@ The extended Einstein equation includes observer terms:
 
 $$G_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}_\mathcal{O}} + \Lambda_\mathcal{O} g_{\mu\nu}$$
 
-where $\Lambda_\mathcal{O}$ is the effective cosmological constant associated with observer $\mathcal{O}$, satisfying:
+where $`\Lambda_\mathcal{O}`$ is the effective cosmological constant associated with observer $`\mathcal{O}`$, satisfying:
 
 $$\Lambda_\mathcal{O} \propto \frac{I(K_C^\mathcal{O})}{V_{\text{observed}}S(K_C^\mathcal{O})}$$
 
@@ -262,7 +262,7 @@ The macroscopic gravitational field emerges as a collective effect of multi-leve
 
 $$G_{\mu\nu}^{\text{effective}} = \sum_{k=1}^n w_k G_{\mu\nu}^{(k)}$$
 
-where $G_{\mu\nu}^{(k)}$ is the gravitational field component contributed by the level k observer network, and $w_k$ is the weight factor.
+where $`G_{\mu\nu}^{(k)}`$ is the gravitational field component contributed by the level k observer network, and $`w_k`$ is the weight factor.
 
 This leads to the possibility of small but measurable variations in the gravitational field in different biological systems and social environments.
 
@@ -276,7 +276,7 @@ The gravitational constant has small variations at different scales:
 
 $$G(r) = G_0 \left(1 + \alpha \ln\frac{r}{r_0}\right)$$
 
-where $\alpha \approx 10^{-10}$ is the quantum-classical coupling coefficient. This can be detected through high-precision satellite experiments.
+where $`\alpha \approx 10^{-10}`$ is the quantum-classical coupling coefficient. This can be detected through high-precision satellite experiments.
 
 ### Gravitational Wave Dispersion Relation
 
@@ -284,7 +284,7 @@ Gravitational waves of different frequencies have slightly different propagation
 
 $$v(f) = c \left(1 - \beta \left(\frac{f}{f_P}\right)^2\right)$$
 
-where $\beta \approx 10^{-20}$, and $f_P \approx 10^{43}$ Hz is the Planck frequency.
+where $`\beta \approx 10^{-20}`$, and $`f_P \approx 10^{43}`$ Hz is the Planck frequency.
 
 ### Spacetime Entanglement Experiment
 
@@ -314,7 +314,7 @@ The complete equation for spacetime dynamics:
 
 $$\frac{\partial g_{\mu\nu}}{\partial \lambda} = -2(R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu}) - 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}} - T_{\mu\nu}^{\mathcal{D}}$$
 
-where $\lambda$ is the evolution parameter, and $T_{\mu\nu}^{\mathcal{D}}$ is the interface energy-momentum tensor.
+where $`\lambda`$ is the evolution parameter, and $`T_{\mu\nu}^{\mathcal{D}}`$ is the interface energy-momentum tensor.
 
 ### Quantum Gravity Fluctuation Equation
 
@@ -322,6 +322,6 @@ The dynamics equation for spacetime quantum fluctuations:
 
 $$\Box h_{\mu\nu} + 2R_{\mu\alpha\nu\beta}h^{\alpha\beta} = 16\pi G \Delta \langle \hat{T}_{\mu\nu} \rangle + \Xi_{\mu\nu}$$
 
-where $\Xi_{\mu\nu}$ is the quantum fluctuation source term, coming from interface dynamics:
+where $`\Xi_{\mu\nu}`$ is the quantum fluctuation source term, coming from interface dynamics:
 
 $$\Xi_{\mu\nu} = \frac{\hbar G}{c^3} \cdot \frac{\delta^2 S_{\text{interface}}}{\delta g_{\mu\nu}\delta g_{\alpha\beta}} \cdot h^{\alpha\beta} 

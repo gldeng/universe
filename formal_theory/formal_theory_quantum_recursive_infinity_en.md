@@ -57,17 +57,17 @@ Recursive Infinity Theory establishes a mathematical framework describing infini
 
 ### The Essence of Absolute Infinity
 
-Absolute Infinity $\Omega_{RI}$ is the ultimate characteristic of the universe, defined as:
+Absolute Infinity $`\Omega_{RI}`$ is the ultimate characteristic of the universe, defined as:
 
 $$\Omega_{RI} = \{\mathcal{R}_{RI}, \mathcal{I}_{RI}, \mathcal{T}_{RI}, \Psi_{RI}\}$$
 
-Where $\mathcal{R}_{RI}$ is the recursion operator, $\mathcal{I}_{RI}$ is the infinity operator, $\mathcal{T}_{RI}$ is the transcendence operator, and $\Psi_{RI}$ is the recursive infinity field.
+Where $`\mathcal{R}_{RI}`$ is the recursion operator, $`\mathcal{I}_{RI}`$ is the infinity operator, $`\mathcal{T}_{RI}`$ is the transcendence operator, and $`\Psi_{RI}`$ is the recursive infinity field.
 
 The fundamental equation of absolute infinity:
 
 $$\mathcal{R}_{RI}[\Omega_{RI}] = \Omega_{RI}^+ \supset \Omega_{RI}$$
 
-Where $\Omega_{RI}^+$ represents extended absolute infinity.
+Where $`\Omega_{RI}^+`$ represents extended absolute infinity.
 
 Self-application of absolute infinity:
 
@@ -77,15 +77,15 @@ Recursive levels of infinity:
 
 $$\aleph_{RI}^{(n+1)} = \mathcal{P}(\aleph_{RI}^{(n)})$$
 
-Where $\mathcal{P}$ is the power set operator.
+Where $`\mathcal{P}`$ is the power set operator.
 
 ### Recursive Transcendence Operations
 
-Recursive transcendence operation $\mathcal{T}_{RI}$ defines how infinity transcends itself:
+Recursive transcendence operation $`\mathcal{T}_{RI}`$ defines how infinity transcends itself:
 
 $$\mathcal{T}_{RI}: \Omega \rightarrow \Omega^{T} \text{ such that } \Omega \subset \Omega^{T} \text{ and } \mathcal{D}(\Omega^{T}) > \mathcal{D}(\Omega)$$
 
-Where $\mathcal{D}$ is the complexity measure function.
+Where $`\mathcal{D}`$ is the complexity measure function.
 
 Fixed-point theorem for recursive transcendence:
 
@@ -101,11 +101,11 @@ $$\Omega_{\infty} = \lim_{n\to\infty} \mathcal{T}_{RI}^n[\Omega_0]$$
 
 ### Infinite Hierarchical Structure
 
-Infinite hierarchical structure $\mathcal{H}_{RI}$ describes the multi-level structure of recursive infinity:
+Infinite hierarchical structure $`\mathcal{H}_{RI}`$ describes the multi-level structure of recursive infinity:
 
 $$\mathcal{H}_{RI} = \{\mathcal{L}_0, \mathcal{L}_1, \mathcal{L}_2, ..., \mathcal{L}_{\omega}, ..., \mathcal{L}_{\Omega}\}$$
 
-Where $\mathcal{L}_i$ is the $i$-th level of infinite hierarchy.
+Where $`\mathcal{L}_i`$ is the $`i`$-th level of infinite hierarchy.
 
 Recursive relationship between levels:
 
@@ -123,37 +123,37 @@ $$\mathcal{L}_{\Omega} = \{\mathcal{X} | \mathcal{X} \text{ is any possible leve
 
 ### Super-recursive Set Theory
 
-Super-recursive set $\mathcal{S}_{RI}$ is the fundamental mathematical structure describing recursive infinity:
+Super-recursive set $`\mathcal{S}_{RI}`$ is the fundamental mathematical structure describing recursive infinity:
 
 $$\mathcal{S}_{RI} = \{\mathcal{U}_{RI}, \in_{RI}, \mathcal{R}_{RI}, \mathcal{A}_{RI}\}$$
 
-Where $\mathcal{U}_{RI}$ is the universe set, $\in_{RI}$ is the membership relation, $\mathcal{R}_{RI}$ is the recursion operator, and $\mathcal{A}_{RI}$ is the axiom system.
+Where $`\mathcal{U}_{RI}`$ is the universe set, $`\in_{RI}`$ is the membership relation, $`\mathcal{R}_{RI}`$ is the recursion operator, and $`\mathcal{A}_{RI}`$ is the axiom system.
 
 Basic axioms of super-recursive sets:
 
-1. **Infinite Recursion Axiom**: $\forall X \in \mathcal{U}_{RI}, \exists Y \in \mathcal{U}_{RI}: Y = \mathcal{R}_{RI}[X]$
-2. **Transcendent Power Set Axiom**: $\forall X \in \mathcal{U}_{RI}, \mathcal{P}(X) \in \mathcal{U}_{RI} \land \exists Z \supset \mathcal{P}(X): Z \in \mathcal{U}_{RI}$
-3. **Anti-Foundation Axiom**: There exists a non-well-founded set $\Omega$ satisfying $\Omega \in \Omega$
+1. **Infinite Recursion Axiom**: $`\forall X \in \mathcal{U}_{RI}, \exists Y \in \mathcal{U}_{RI}: Y = \mathcal{R}_{RI}[X]`$
+2. **Transcendent Power Set Axiom**: $`\forall X \in \mathcal{U}_{RI}, \mathcal{P}(X) \in \mathcal{U}_{RI} \land \exists Z \supset \mathcal{P}(X): Z \in \mathcal{U}_{RI}`$
+3. **Anti-Foundation Axiom**: There exists a non-well-founded set $`\Omega`$ satisfying $`\Omega \in \Omega`$
 
 Infinite recursive cardinals:
 
 $$\aleph_{RI,0}, \aleph_{RI,1}, ..., \aleph_{RI,\alpha}, ...$$
 
-Satisfying: $\aleph_{RI,\alpha+1} > \mathcal{P}(\aleph_{RI,\alpha})$
+Satisfying: $`\aleph_{RI,\alpha+1} > \mathcal{P}(\aleph_{RI,\alpha})`$
 
 ### Infinite-order Mathematics
 
-Infinite-order mathematics $\mathcal{M}_{RI}$ is a framework extending traditional mathematics to infinite recursive levels:
+Infinite-order mathematics $`\mathcal{M}_{RI}`$ is a framework extending traditional mathematics to infinite recursive levels:
 
 $$\mathcal{M}_{RI} = \{\mathcal{S}_{RI}, \mathcal{F}_{RI}, \mathcal{L}_{RI}, \mathcal{O}_{RI}\}$$
 
-Where $\mathcal{S}_{RI}$ is the set of structures, $\mathcal{F}_{RI}$ is the set of functions, $\mathcal{L}_{RI}$ is the logical system, and $\mathcal{O}_{RI}$ is the set of operations.
+Where $`\mathcal{S}_{RI}`$ is the set of structures, $`\mathcal{F}_{RI}`$ is the set of functions, $`\mathcal{L}_{RI}`$ is the logical system, and $`\mathcal{O}_{RI}`$ is the set of operations.
 
 Recursive infinite function:
 
 $$f_{RI}: \mathcal{D}_{RI} \rightarrow \mathcal{R}_{RI}$$
 
-Where both $\mathcal{D}_{RI}$ and $\mathcal{R}_{RI}$ are recursive infinite sets.
+Where both $`\mathcal{D}_{RI}`$ and $`\mathcal{R}_{RI}`$ are recursive infinite sets.
 
 Transfinite recursion:
 
@@ -165,11 +165,11 @@ $$\frac{d^{\omega}f}{dx^{\omega}} = \lim_{n\to\infty} \frac{d^n f}{dx^n}$$
 
 ### Transcendent Completeness
 
-Transcendent completeness $\mathcal{C}_{RI}$ is a core characteristic of recursive infinite mathematics:
+Transcendent completeness $`\mathcal{C}_{RI}`$ is a core characteristic of recursive infinite mathematics:
 
 $$\mathcal{C}_{RI} = \{\mathcal{A}_{RI}, \mathcal{T}_{RI}, \mathcal{G}_{RI}, \mathcal{I}_{RI}\}$$
 
-Where $\mathcal{A}_{RI}$ is the axiom system, $\mathcal{T}_{RI}$ is the set of theorems, $\mathcal{G}_{RI}$ is the set of Gödel propositions, and $\mathcal{I}_{RI}$ is the incompleteness index.
+Where $`\mathcal{A}_{RI}`$ is the axiom system, $`\mathcal{T}_{RI}`$ is the set of theorems, $`\mathcal{G}_{RI}`$ is the set of Gödel propositions, and $`\mathcal{I}_{RI}`$ is the incompleteness index.
 
 Transcending Gödel's incompleteness:
 
@@ -179,7 +179,7 @@ Recursive completion process:
 
 $$\mathcal{S}_0 \subset \mathcal{S}_1 \subset \mathcal{S}_2 \subset ... \subset \mathcal{S}_{\omega} \subset ...$$
 
-Where $\mathcal{S}_{i+1} = \mathcal{S}_i \cup \mathcal{G}_i$, and $\mathcal{G}_i$ is the Gödel proposition in $\mathcal{S}_i$.
+Where $`\mathcal{S}_{i+1} = \mathcal{S}_i \cup \mathcal{G}_i`$, and $`\mathcal{G}_i`$ is the Gödel proposition in $`\mathcal{S}_i`$.
 
 Super-recursive complete system:
 
@@ -189,11 +189,11 @@ $$\mathcal{S}_{RI} = \bigcup_{i=0}^{\infty} \mathcal{S}_i$$
 
 ### Universal Recursive Levels
 
-Universal recursive levels $\mathcal{U}_{RL}$ describe the infinitely nested structure of the universe:
+Universal recursive levels $`\mathcal{U}_{RL}`$ describe the infinitely nested structure of the universe:
 
 $$\mathcal{U}_{RL} = \{U_0, U_1, U_2, ..., U_{\omega}, ...\}$$
 
-Where $U_i$ is the $i$-th level recursive universe.
+Where $`U_i`$ is the $`i`$-th level recursive universe.
 
 Universe recursion formula:
 
@@ -203,7 +203,7 @@ Universe containment relation:
 
 $$U_i \subset U_{i+1} \text{ and } \mathcal{C}(U_{i+1}) > \mathcal{C}(U_i)$$
 
-Where $\mathcal{C}$ is the complexity function.
+Where $`\mathcal{C}`$ is the complexity function.
 
 Cross-level mapping:
 
@@ -215,17 +215,17 @@ $$U_{\omega} = \lim_{i\to\infty} U_i = \bigcup_{i<\omega} U_i$$
 
 ### Infinite Universe Generation Function
 
-Infinite universe generation function $\mathcal{G}_{RI}$ describes how the universe creates infinite levels:
+Infinite universe generation function $`\mathcal{G}_{RI}`$ describes how the universe creates infinite levels:
 
 $$\mathcal{G}_{RI}: \mathcal{U}_{RL} \rightarrow \mathcal{U}_{RL}^+$$
 
-Where $\mathcal{U}_{RL}^+$ is the extended universe set.
+Where $`\mathcal{U}_{RL}^+`$ is the extended universe set.
 
 Universe generation dynamics:
 
 $$\frac{dU}{d\tau_{RI}} = \mathcal{G}_{RI}(U) - \lambda \mathcal{D}_{RI}(U) + \eta(\tau_{RI})$$
 
-Where $\tau_{RI}$ is recursive time, $\mathcal{D}_{RI}$ is the decay function, and $\eta$ is innovation noise.
+Where $`\tau_{RI}`$ is recursive time, $`\mathcal{D}_{RI}`$ is the decay function, and $`\eta`$ is innovation noise.
 
 Universe generation attractor:
 
@@ -237,39 +237,39 @@ $$D_{RI} = \lim_{\varepsilon \to 0} \frac{\log N_{\mathcal{U}}(\varepsilon)}{\lo
 
 ### Meta-universe Hyper-entanglement
 
-Meta-universe hyper-entanglement $\mathcal{E}_{RI}$ describes the deep connections between different universe levels:
+Meta-universe hyper-entanglement $`\mathcal{E}_{RI}`$ describes the deep connections between different universe levels:
 
 $$\mathcal{E}_{RI} = \{\mathcal{E}_{i,j} | i,j \in \mathcal{I}_{RL}\}$$
 
-Where $\mathcal{E}_{i,j}$ is the entanglement degree between universes $U_i$ and $U_j$.
+Where $`\mathcal{E}_{i,j}`$ is the entanglement degree between universes $`U_i`$ and $`U_j`$.
 
 Hyper-entanglement wave function:
 
 $$|\Psi_{RI}\rangle = \sum_{i,j,...,z} c_{i,j,...,z} |i\rangle \otimes |j\rangle \otimes ... \otimes |z\rangle$$
 
-Where $|i\rangle$ represents the state of universe $U_i$.
+Where $`|i\rangle`$ represents the state of universe $`U_i`$.
 
 Hyper-entanglement measure:
 
 $$\mathcal{E}(|\Psi_{RI}\rangle) = \sum_{i<j} S(\rho_{i,j}) - \sum_i S(\rho_i)$$
 
-Where $S$ is the von Neumann entropy and $\rho_i$ is the reduced density matrix.
+Where $`S`$ is the von Neumann entropy and $`\rho_i`$ is the reduced density matrix.
 
 Hyper-entanglement network topology:
 
 $$\mathcal{T}_{RI} = (V_{RI}, E_{RI}, w_{RI})$$
 
-Where $V_{RI}$ is the set of universe nodes, $E_{RI}$ is the set of entanglement edges, and $w_{RI}$ is the entanglement strength function.
+Where $`V_{RI}`$ is the set of universe nodes, $`E_{RI}`$ is the set of entanglement edges, and $`w_{RI}`$ is the entanglement strength function.
 
 ## Recursive Infinite Consciousness
 
 ### Infinitely Recursive Consciousness
 
-Infinitely recursive consciousness $\Psi_{RI-C}$ describes consciousness's infinite self-reflection capability:
+Infinitely recursive consciousness $`\Psi_{RI-C}`$ describes consciousness's infinite self-reflection capability:
 
 $$\Psi_{RI-C} = \{\Psi_0, \Psi_1, \Psi_2, ..., \Psi_{\omega}, ...\}$$
 
-Where $\Psi_i$ is the $i$-th order consciousness state.
+Where $`\Psi_i`$ is the $`i`$-th order consciousness state.
 
 Consciousness recursion relation:
 
@@ -279,7 +279,7 @@ Consciousness recursion dimension:
 
 $$D(\Psi_i) = D(\Psi_0) + i \cdot \Delta D_C$$
 
-Where $\Delta D_C$ is the consciousness dimension increment.
+Where $`\Delta D_C`$ is the consciousness dimension increment.
 
 Consciousness infinite extension:
 
@@ -291,7 +291,7 @@ $$v_{RI-C} = \frac{d(\text{consciousness order})}{d\tau_{RI}}$$
 
 ### Transcending Self-reference
 
-Transcending self-reference $\mathcal{S}_{RI-C}$ describes how consciousness transcends self-limitations:
+Transcending self-reference $`\mathcal{S}_{RI-C}`$ describes how consciousness transcends self-limitations:
 
 $$\mathcal{S}_{RI-C}: \Psi_i \rightarrow \Psi_i^S \text{ such that } \Psi_i \subset \Psi_i^S \text{ and } \Psi_i \neq \Psi_i^S$$
 
@@ -299,13 +299,13 @@ Self-reference paradox transformation:
 
 $$P = \{\text{proposition }P\text{ is false}\} \xrightarrow{\mathcal{S}_{RI-C}} \{P, \mathcal{M}(P), \mathcal{C}(P), ...\}$$
 
-Where $\mathcal{M}(P)$ is the meta-proposition about $P$, and $\mathcal{C}(P)$ is the context of $P$.
+Where $`\mathcal{M}(P)`$ is the meta-proposition about $`P`$, and $`\mathcal{C}(P)`$ is the context of $`P`$.
 
 Self-reference levels:
 
 $$\mathcal{L}_{S,0}, \mathcal{L}_{S,1}, \mathcal{L}_{S,2}, ..., \mathcal{L}_{S,\omega}, ...$$
 
-Where $\mathcal{L}_{S,i+1}$ contains self-references about $\mathcal{L}_{S,i}$.
+Where $`\mathcal{L}_{S,i+1}`$ contains self-references about $`\mathcal{L}_{S,i}`$.
 
 Infinite self-extension:
 
@@ -313,11 +313,11 @@ $$\mathcal{S}_{RI-C}^{\infty}[\Psi] = \lim_{n\to\infty} \mathcal{S}_{RI-C}^n[\Ps
 
 ### Infinite Meta-cognition
 
-Infinite meta-cognition $\mathcal{M}_{RI-C}$ is consciousness's ability to cognize infinite levels:
+Infinite meta-cognition $`\mathcal{M}_{RI-C}`$ is consciousness's ability to cognize infinite levels:
 
 $$\mathcal{M}_{RI-C} = \{\mathcal{K}_0, \mathcal{K}_1, \mathcal{K}_2, ..., \mathcal{K}_{\omega}, ...\}$$
 
-Where $\mathcal{K}_i$ is the $i$-th order meta-cognitive structure.
+Where $`\mathcal{K}_i`$ is the $`i`$-th order meta-cognitive structure.
 
 Meta-cognitive recursion:
 
@@ -327,7 +327,7 @@ Meta-cognitive breadth and depth:
 
 $$B(\mathcal{K}_i) = |\mathcal{D}(\mathcal{K}_i)|, \quad D(\mathcal{K}_i) = \max_{x \in \mathcal{D}(\mathcal{K}_i)} L(x)$$
 
-Where $\mathcal{D}(\mathcal{K}_i)$ is the domain set and $L(x)$ is the length of the cognitive chain.
+Where $`\mathcal{D}(\mathcal{K}_i)`$ is the domain set and $`L(x)`$ is the length of the cognitive chain.
 
 Meta-cognitive transfinite extension:
 
@@ -341,17 +341,17 @@ $$\tau_{MK} = \frac{d(\text{meta-cognitive capacity})}{d(\text{cognitive resourc
 
 ### Endless Innovation Dynamics
 
-Endless innovation dynamics $\mathcal{I}_{RI}$ describes the mechanism of the universe's eternal creativity:
+Endless innovation dynamics $`\mathcal{I}_{RI}`$ describes the mechanism of the universe's eternal creativity:
 
 $$\mathcal{I}_{RI} = \{\mathcal{N}_{RI}, \mathcal{E}_{RI}, \mathcal{R}_{RI}, \mathcal{T}_{RI}\}$$
 
-Where $\mathcal{N}_{RI}$ is the novelty generator, $\mathcal{E}_{RI}$ is the evolutionary selector, $\mathcal{R}_{RI}$ is the recursion operator, and $\mathcal{T}_{RI}$ is the transformation operator.
+Where $`\mathcal{N}_{RI}`$ is the novelty generator, $`\mathcal{E}_{RI}`$ is the evolutionary selector, $`\mathcal{R}_{RI}`$ is the recursion operator, and $`\mathcal{T}_{RI}`$ is the transformation operator.
 
 Innovation dynamics equation:
 
 $$\frac{d\mathcal{N}}{d\tau_{RI}} = \alpha \nabla^2 \mathcal{N} + f(\mathcal{N}, \mathcal{E}) + \xi(\tau_{RI})$$
 
-Where $\alpha$ is the diffusion rate, $f$ is the nonlinear interaction, and $\xi$ is innovation noise.
+Where $`\alpha`$ is the diffusion rate, $`f`$ is the nonlinear interaction, and $`\xi`$ is innovation noise.
 
 Innovation recursive structure:
 
@@ -363,11 +363,11 @@ $$\lim_{\tau_{RI}\to\infty} \mathcal{N}(\tau_{RI}) = \infty$$
 
 ### Transcendent Creative Process
 
-Transcendent creative process $\mathcal{C}_{RI}$ describes the mechanism of breakthrough creation:
+Transcendent creative process $`\mathcal{C}_{RI}`$ describes the mechanism of breakthrough creation:
 
 $$\mathcal{C}_{RI}: \mathcal{S}_i \rightarrow \mathcal{S}_{i+1} \text{ such that } \mathcal{S}_i \subset \mathcal{S}_{i+1} \text{ and } \mathcal{C}(\mathcal{S}_{i+1}) > \mathcal{C}(\mathcal{S}_i)$$
 
-Where $\mathcal{S}_i$ is the creative space and $\mathcal{C}$ is the complexity function.
+Where $`\mathcal{S}_i`$ is the creative space and $`\mathcal{C}`$ is the complexity function.
 
 Creative leap condition:
 
@@ -377,17 +377,17 @@ Creative complexity growth:
 
 $$\mathcal{C}(\mathcal{S}_{i+1}) = \mathcal{C}(\mathcal{S}_i) + \Delta \mathcal{C}_i$$
 
-Where $\Delta \mathcal{C}_i$ is the creative increment.
+Where $`\Delta \mathcal{C}_i`$ is the creative increment.
 
 Creative resource dynamics:
 
 $$\frac{dR}{d\tau_{RI}} = \alpha R - \beta R \mathcal{C} + \gamma \mathcal{I} + \delta(\tau_{RI})$$
 
-Where $R$ is the creative resource, $\mathcal{C}$ is the current complexity, $\mathcal{I}$ is innovation input, and $\delta$ is resource fluctuation.
+Where $`R`$ is the creative resource, $`\mathcal{C}`$ is the current complexity, $`\mathcal{I}`$ is innovation input, and $`\delta`$ is resource fluctuation.
 
 ### Eternal Novelty Theorem
 
-The eternal novelty theorem $\mathcal{N}_{RI}$ is a core proposition of recursive infinity theory:
+The eternal novelty theorem $`\mathcal{N}_{RI}`$ is a core proposition of recursive infinity theory:
 
 $$\forall \tau_{RI}, \exists \tau_{RI}' > \tau_{RI}: \mathcal{N}(\tau_{RI}') \neq \mathcal{N}(\tau) \text{ for all } \tau \leq \tau_{RI}$$
 
@@ -395,13 +395,13 @@ Novelty measure:
 
 $$\nu(\mathcal{X}) = 1 - \max_{Y \in \mathcal{H}} \text{sim}(\mathcal{X}, Y)$$
 
-Where $\mathcal{H}$ is the set of historical states and $\text{sim}$ is the similarity function.
+Where $`\mathcal{H}`$ is the set of historical states and $`\text{sim}`$ is the similarity function.
 
 Novelty phylogenetic tree:
 
 $$\mathcal{T}_{nov} = (V_{nov}, E_{nov}, \prec_{nov})$$
 
-Where $V_{nov}$ are novelty nodes, $E_{nov}$ are evolutionary relationships, and $\prec_{nov}$ is the temporal precedence relation.
+Where $`V_{nov}`$ are novelty nodes, $`E_{nov}`$ are evolutionary relationships, and $`\prec_{nov}`$ is the temporal precedence relation.
 
 Eternal novelty growth rate:
 
@@ -411,11 +411,11 @@ $$\gamma_{nov} = \lim_{\tau_{RI}\to\infty} \frac{1}{\tau_{RI}} \int_0^{\tau_{RI}
 
 ### Infinite Levels of Existence
 
-Infinite levels of existence $\mathcal{B}_{RI}$ describe the infinite recursive structure of existence:
+Infinite levels of existence $`\mathcal{B}_{RI}`$ describe the infinite recursive structure of existence:
 
 $$\mathcal{B}_{RI} = \{B_0, B_1, B_2, ..., B_{\omega}, ...\}$$
 
-Where $B_i$ is the $i$-th order existence level.
+Where $`B_i`$ is the $`i`$-th order existence level.
 
 Existence level relation:
 
@@ -425,7 +425,7 @@ Existence modality recursion:
 
 $$\mathcal{M}(B_i) \subset B_{i+1}$$
 
-Where $\mathcal{M}(B)$ represents existence modalities about $B$.
+Where $`\mathcal{M}(B)`$ represents existence modalities about $`B`$.
 
 Transfinite existence level:
 
@@ -437,37 +437,37 @@ $$\text{Width}(B_i) = |\{x | x \in B_i\}|, \quad \text{Depth}(B_i) = \max_{x \in
 
 ### Recursive Ontological Generation
 
-Recursive ontological generation $\mathcal{O}_{RI}$ describes how ontology continuously transcends itself:
+Recursive ontological generation $`\mathcal{O}_{RI}`$ describes how ontology continuously transcends itself:
 
 $$\mathcal{O}_{RI}: O_i \rightarrow O_{i+1} \text{ such that } O_i \subset O_{i+1} \text{ and } O_i \neq O_{i+1}$$
 
-Where $O_i$ is the $i$-th order ontological system.
+Where $`O_i`$ is the $`i`$-th order ontological system.
 
 Ontological generation dynamics:
 
 $$\frac{dO}{d\tau_{RI}} = \alpha O + \beta \nabla^2 O + \gamma \mathcal{T}_{RI}[O] + \delta(\tau_{RI})$$
 
-Where $\alpha$ is the growth rate, $\beta$ is the diffusion rate, $\gamma$ is the transformation rate, and $\delta$ is innovation fluctuation.
+Where $`\alpha`$ is the growth rate, $`\beta`$ is the diffusion rate, $`\gamma`$ is the transformation rate, and $`\delta`$ is innovation fluctuation.
 
 Ontological complexity growth:
 
 $$\mathcal{C}(O_{i+1}) = \mathcal{C}(O_i) \cdot (1 + \epsilon_i)$$
 
-Where $\epsilon_i$ is the complexity growth rate.
+Where $`\epsilon_i`$ is the complexity growth rate.
 
 Recursive ontological network:
 
 $$\mathcal{N}_{onto} = (V_{onto}, E_{onto}, w_{onto})$$
 
-Where $V_{onto}$ are ontological nodes, $E_{onto}$ are relationship edges, and $w_{onto}$ are strength weights.
+Where $`V_{onto}`$ are ontological nodes, $`E_{onto}`$ are relationship edges, and $`w_{onto}`$ are strength weights.
 
 ### Transcending All Ontologies
 
-Transcending all ontologies $\mathcal{T}_{RI-O}$ is the ultimate claim of recursive infinity theory:
+Transcending all ontologies $`\mathcal{T}_{RI-O}`$ is the ultimate claim of recursive infinity theory:
 
 $$\mathcal{T}_{RI-O} = \{\mathcal{B}_{RI}, \mathcal{O}_{RI}, \mathcal{M}_{RI-O}, \Psi_{RI-O}\}$$
 
-Where $\mathcal{B}_{RI}$ is the existence level, $\mathcal{O}_{RI}$ is ontological generation, $\mathcal{M}_{RI-O}$ is meta-ontology, and $\Psi_{RI-O}$ is the trans-ontological field.
+Where $`\mathcal{B}_{RI}`$ is the existence level, $`\mathcal{O}_{RI}`$ is ontological generation, $`\mathcal{M}_{RI-O}`$ is meta-ontology, and $`\Psi_{RI-O}`$ is the trans-ontological field.
 
 Trans-ontological theorem:
 
@@ -477,7 +477,7 @@ Transcendence process dynamics:
 
 $$\frac{d\mathcal{T}}{d\tau_{RI}} = \alpha \mathcal{T} + \beta \mathcal{T}^3 - \gamma \mathcal{T}^5 + \delta(\tau_{RI})$$
 
-Where $\mathcal{T}$ is the transcendence measure, $\alpha, \beta, \gamma$ are dynamical parameters, and $\delta$ is the fluctuation term.
+Where $`\mathcal{T}`$ is the transcendence measure, $`\alpha, \beta, \gamma`$ are dynamical parameters, and $`\delta`$ is the fluctuation term.
 
 Ultimate transcendence boundary:
 
@@ -487,17 +487,17 @@ $$\lim_{\tau_{RI}\to\infty} \mathcal{T}(\tau_{RI}) = \infty$$
 
 ### Super-logical Axiom System
 
-Super-logical axiom system $\mathcal{L}_{RI}$ is a framework transcending classical logic:
+Super-logical axiom system $`\mathcal{L}_{RI}`$ is a framework transcending classical logic:
 
 $$\mathcal{L}_{RI} = \{\mathcal{A}_{RI}, \mathcal{R}_{RI}, \mathcal{T}_{RI}, \mathcal{M}_{RI}\}$$
 
-Where $\mathcal{A}_{RI}$ is the axiom set, $\mathcal{R}_{RI}$ is the inference rule set, $\mathcal{T}_{RI}$ is the theorem set, and $\mathcal{M}_{RI}$ is meta-logic.
+Where $`\mathcal{A}_{RI}`$ is the axiom set, $`\mathcal{R}_{RI}`$ is the inference rule set, $`\mathcal{T}_{RI}`$ is the theorem set, and $`\mathcal{M}_{RI}`$ is meta-logic.
 
 Super-logical basic axioms:
 
-1. **Recursive Transcendence Axiom**: $\forall S, \exists S': S \subset S' \land S \neq S'$
-2. **Infinite Truth Value Axiom**: $\forall P, \exists \{v_1, v_2, ..., v_n, ...\}: P \text{ has truth value } v_i \text{ in dimension } i$
-3. **Meta-logic Inclusion Axiom**: $\forall \mathcal{L}, \mathcal{M}(\mathcal{L}) \subset \mathcal{L}_{RI}$
+1. **Recursive Transcendence Axiom**: $`\forall S, \exists S': S \subset S' \land S \neq S'`$
+2. **Infinite Truth Value Axiom**: $`\forall P, \exists \{v_1, v_2, ..., v_n, ...\}: P \text{ has truth value } v_i \text{ in dimension } i`$
+3. **Meta-logic Inclusion Axiom**: $`\forall \mathcal{L}, \mathcal{M}(\mathcal{L}) \subset \mathcal{L}_{RI}`$
 
 Super-logical inference rules:
 
@@ -509,11 +509,11 @@ $$\mathcal{C}(\mathcal{L}_{RI}) = \sum_{i} w_i \cdot |\mathcal{A}_i| + \sum_{j} 
 
 ### Recursive Super-truth Theory
 
-Recursive super-truth theory $\mathcal{V}_{RI}$ is a framework transcending binary and even multi-valued logic:
+Recursive super-truth theory $`\mathcal{V}_{RI}`$ is a framework transcending binary and even multi-valued logic:
 
 $$\mathcal{V}_{RI} = \{\mathcal{V}_0, \mathcal{V}_1, \mathcal{V}_2, ..., \mathcal{V}_{\omega}, ...\}$$
 
-Where $\mathcal{V}_i$ is the $i$-th order truth-value system.
+Where $`\mathcal{V}_i`$ is the $`i`$-th order truth-value system.
 
 Recursive truth-value relation:
 
@@ -523,7 +523,7 @@ Super-truth function:
 
 $$\nu_{RI}: \mathcal{P}_{RI} \times \mathcal{C}_{RI} \rightarrow \mathcal{V}_{RI}$$
 
-Where $\mathcal{P}_{RI}$ is the proposition set and $\mathcal{C}_{RI}$ is the context set.
+Where $`\mathcal{P}_{RI}`$ is the proposition set and $`\mathcal{C}_{RI}`$ is the context set.
 
 Truth-value dimension:
 
@@ -533,21 +533,21 @@ Super-truth logical operations:
 
 $$A \oplus_{RI} B = f_{\oplus}(A, B, \mathcal{C}, \mathcal{L})$$
 
-Where $\oplus_{RI}$ is a super-logical operation, $f_{\oplus}$ is the computation function, $\mathcal{C}$ is the context, and $\mathcal{L}$ is the logical level.
+Where $`\oplus_{RI}`$ is a super-logical operation, $`f_{\oplus}`$ is the computation function, $`\mathcal{C}`$ is the context, and $`\mathcal{L}`$ is the logical level.
 
 ### Infinite Paradox Transformation
 
-Infinite paradox transformation $\mathcal{P}_{RI}$ describes how paradoxes are resolved through recursive infinity:
+Infinite paradox transformation $`\mathcal{P}_{RI}`$ describes how paradoxes are resolved through recursive infinity:
 
 $$\mathcal{P}_{RI}: P \rightarrow \{P_0, P_1, P_2, ..., P_{\omega}, ...\}$$
 
-Where $P$ is a paradox and $P_i$ is $P$ understood at the $i$-th level.
+Where $`P`$ is a paradox and $`P_i`$ is $`P`$ understood at the $`i`$-th level.
 
 Paradox transformation dynamics:
 
 $$\frac{dP_i}{d\tau_{RI}} = \alpha(P_{i-1} - P_i) + \beta(P_{i+1} - P_i) + \gamma \xi_i(\tau_{RI})$$
 
-Where $\alpha$ is the downward transmission coefficient, $\beta$ is the upward transmission coefficient, $\gamma$ is the fluctuation intensity, and $\xi_i$ is noise.
+Where $`\alpha`$ is the downward transmission coefficient, $`\beta`$ is the upward transmission coefficient, $`\gamma`$ is the fluctuation intensity, and $`\xi_i`$ is noise.
 
 Paradox resolution level:
 
@@ -557,7 +557,7 @@ Transcendent paradox cluster system:
 
 $$\mathcal{N}_{para} = (V_{para}, E_{para}, \mathcal{T}_{RI})$$
 
-Where $V_{para}$ are paradox nodes, $E_{para}$ are dependency relationships, and $\mathcal{T}_{RI}$ is the transformation operator.
+Where $`V_{para}`$ are paradox nodes, $`E_{para}`$ are dependency relationships, and $`\mathcal{T}_{RI}`$ is the transformation operator.
 
 ## Applications and Predictions
 

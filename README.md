@@ -328,7 +328,7 @@ $$
 
 $$E = mc^2$$
 
-对于行内公式，使用单个美元符号：$E = mc^2$
+对于行内公式，使用单个美元符号：$`E = mc^2`$
 
 量子域表达式：
 
@@ -679,7 +679,7 @@ Mathematical formulas in this project are written in LaTeX format, which may req
 
 $$E = mc^2$$
 
-For inline formulas, use single dollar signs: $E = mc^2$
+For inline formulas, use single dollar signs: $`E = mc^2`$
 
 量子域表达式：
 

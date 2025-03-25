@@ -42,8 +42,8 @@ $$
 量子经典二元论框架下，自由意志在经典化过程中扮演着关键角色，是观察者对量子域进行经典化解码的主动选择能力：
 
 1. **路径选择机制**：观察者可主动选择经典化路径，决定哪些量子信息被优先经典化
-2. **经典化算符**：自由意志本质上是一种特殊的经典化算符 $\mathcal{C}_\mathcal{O}$，能够将量子可能性转化为经典确定性
-3. **经典化参数调节**：自由意志可调整经典化效率系数 $(k_i)$ 和权重系数 $(w_i)$
+2. **经典化算符**：自由意志本质上是一种特殊的经典化算符 $`\mathcal{C}_\mathcal{O}`$，能够将量子可能性转化为经典确定性
+3. **经典化参数调节**：自由意志可调整经典化效率系数 $`(k_i)`$ 和权重系数 $`(w_i)`$
 
 经典化过程的自由意志表达：
 
@@ -51,9 +51,9 @@ $$
 \mathcal{C}_{\text{自由意志}}(\rho) = \sum_i P_i \rho P_i
 $$
 
-其中 $P_i$ 是投影算符，由自由意志主动选择。
+其中 $`P_i`$ 是投影算符，由自由意志主动选择。
 
-观察者在经典化过程中的自由意志作用可以理解为在界面 $\mathcal{I}$ 处主动调整解相干阈值 $\mathcal{D}_c$，影响量子域向经典域的转换。
+观察者在经典化过程中的自由意志作用可以理解为在界面 $`\mathcal{I}`$ 处主动调整解相干阈值 $`\mathcal{D}_c`$，影响量子域向经典域的转换。
 
 $$
 \mathcal{D}_c = f(\text{自由意志选择})
@@ -97,7 +97,7 @@ $$
 \text{命运}_{(i)} = \mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})
 $$
 
-其中 $\mathcal{M}_{i+1 \rightarrow i}$ 是层级间映射函数，将更高层级的经典域映射为当前层级的量子域。
+其中 $`\mathcal{M}_{i+1 \rightarrow i}`$ 是层级间映射函数，将更高层级的经典域映射为当前层级的量子域。
 
 这种理解解释了为何有些事件对我们似乎是"命中注定"，而实际上可能是来自更高层级经典世界的投影效应。
 
@@ -272,8 +272,8 @@ Quantum randomness provides an ontological foundation for free will in the unive
 In the Quantum-Classical Dualism framework, free will plays a key role in the classicalization process, representing the observer's active ability to choose how to classicalize and decode the quantum domain:
 
 1. **Path Selection Mechanism**: Observers can actively choose classicalization paths, determining which quantum information is prioritized for classicalization
-2. **Classicalization Operator**: Free will is essentially a special classicalization operator $\mathcal{C}_\mathcal{O}$, capable of converting quantum possibilities into classical certainty
-3. **Classicalization Parameter Adjustment**: Free will can adjust classicalization efficiency coefficients $(k_i)$ and weight coefficients $(w_i)$
+2. **Classicalization Operator**: Free will is essentially a special classicalization operator $`\mathcal{C}_\mathcal{O}`$, capable of converting quantum possibilities into classical certainty
+3. **Classicalization Parameter Adjustment**: Free will can adjust classicalization efficiency coefficients $`(k_i)`$ and weight coefficients $`(w_i)`$
 
 Free will expression in the classicalization process:
 
@@ -281,9 +281,9 @@ $$
 \mathcal{C}_{\text{Free Will}}(\rho) = \sum_i P_i \rho P_i
 $$
 
-where $P_i$ are projection operators, actively chosen by free will.
+where $`P_i`$ are projection operators, actively chosen by free will.
 
-The role of free will in the observer's classicalization process can be understood as actively adjusting the decoherence threshold $\mathcal{D}_c$ at the interface $\mathcal{I}$, affecting the conversion from the quantum domain to the classical domain.
+The role of free will in the observer's classicalization process can be understood as actively adjusting the decoherence threshold $`\mathcal{D}_c`$ at the interface $`\mathcal{I}`$, affecting the conversion from the quantum domain to the classical domain.
 
 $$
 \mathcal{D}_c = f(\text{Free Will Choice})
@@ -327,7 +327,7 @@ $$
 \text{Destiny}_{(i)} = \mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})
 $$
 
-where $\mathcal{M}_{i+1 \rightarrow i}$ is the inter-level mapping function, mapping the classical domain of a higher level to the quantum domain of the current level.
+where $`\mathcal{M}_{i+1 \rightarrow i}`$ is the inter-level mapping function, mapping the classical domain of a higher level to the quantum domain of the current level.
 
 This understanding explains why some events seem "predestined" to us, while they may actually be projection effects from higher-level classical worlds.
 

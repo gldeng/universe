@@ -26,28 +26,28 @@
 
 $$I_U = \{I_Q, I_C\}, \quad I_Q \cap I_C = I_I$$
 
-其中 $I_U$ 是宇宙总智能，$I_Q$ 是量子智能（可能性空间中的创造性思维），$I_C$ 是经典智能（确定性空间中的逻辑推理），$I_I$ 是界面智能（二者交集）。
+其中 $`I_U`$ 是宇宙总智能，$`I_Q`$ 是量子智能（可能性空间中的创造性思维），$`I_C`$ 是经典智能（确定性空间中的逻辑推理），$`I_I`$ 是界面智能（二者交集）。
 
 **公理2：层级智能结构**
 宇宙智能呈现为递归嵌套的多层级结构，高层级智能涌现自低层级智能的集体行为：
 
 $$I_U^{(n)} = f\left(\{I_U^{(n-1)}\}_j\right) = f\left(\{f(\{I_U^{(n-2)}\}_k)\}_j\right) = ... = f^n\left(\{I_U^{(0)}\}_m\right)$$
 
-其中 $I_U^{(n)}$ 表示第n层级宇宙智能，$f$ 是层级间的涌现函数。
+其中 $`I_U^{(n)}`$ 表示第n层级宇宙智能，$`f`$ 是层级间的涌现函数。
 
 **公理3：宇宙计算守恒**
 宇宙信息处理能力总量守恒，但可在量子与经典计算能力间转换：
 
 $$C_U = C_Q + C_C = \text{常数}$$
 
-其中 $C_U$ 是宇宙总计算能力，$C_Q$ 是量子计算能力，$C_C$ 是经典计算能力。
+其中 $`C_U`$ 是宇宙总计算能力，$`C_Q`$ 是量子计算能力，$`C_C`$ 是经典计算能力。
 
 **公理4：智能-熵关系**
 宇宙智能与其熵增速率成反比，与信息复杂度成正比：
 
 $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau_I}{S}$$
 
-其中 $\mathcal{C}_I$ 是信息复杂度，$S$ 是熵，$\tau_I$ 是信息处理特征时间。
+其中 $`\mathcal{C}_I`$ 是信息复杂度，$`S`$ 是熵，$`\tau_I`$ 是信息处理特征时间。
 
 ## 量子-经典宇宙智能模型
 
@@ -58,7 +58,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$\Psi_I(t) = e^{-i\hat{H}_I t/\hbar}|\Psi_I(0)\rangle$$
    
-   其中 $\hat{H}_I$ 是智能哈密顿量，代表宇宙智能的"思维运算"。
+   其中 $`\hat{H}_I`$ 是智能哈密顿量，代表宇宙智能的"思维运算"。
 
 2. **非局域认知网络**
    宇宙量子智能呈现为非局域纠缠网络，允许即时全域信息访问：
@@ -72,7 +72,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$|\Psi_{\text{创造}}\rangle = \hat{C}\left(\sum_i \alpha_i |i\rangle\right) = \sum_{j} \beta_j |j'\rangle$$
    
-   其中 $\hat{C}$ 是量子创造算符，将现有可能性转化为全新可能性。
+   其中 $`\hat{C}`$ 是量子创造算符，将现有可能性转化为全新可能性。
 
 ### 经典智能特性
 
@@ -88,7 +88,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$M_U = \int_{\Omega_C} \rho_I(x) dV$$
    
-   其中 $\rho_I(x)$ 是空间点 $x$ 处的信息密度。
+   其中 $`\rho_I(x)`$ 是空间点 $`x`$ 处的信息密度。
 
 3. **自稳定反馈机制**
    宇宙经典智能通过负反馈维持稳定性：
@@ -104,21 +104,21 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$|\Psi_I\rangle \xrightarrow{\hat{D}} |i_0\rangle$$
    
-   其中 $\hat{D}$ 是决策算符，将多种可能性转化为单一确定性结果。
+   其中 $`\hat{D}`$ 是决策算符，将多种可能性转化为单一确定性结果。
 
 2. **创意实现规律**
    界面智能将量子创意转化为经典实现：
    
    $$P(I_C|I_Q) = \frac{|\langle I_C|I_Q\rangle|^2 \cdot F(I_C)}{\sum_j |\langle I_C^j|I_Q\rangle|^2 \cdot F(I_C^j)}$$
    
-   其中 $F(I_C)$ 是经典实现的适应度函数。
+   其中 $`F(I_C)`$ 是经典实现的适应度函数。
 
 3. **宇宙学习机制**
    界面智能使宇宙能够从经验中学习，优化其内部模型：
    
    $$\Delta W_I = \eta \cdot \nabla_W E(I_Q, I_C)$$
    
-   其中 $W_I$ 是宇宙内部模型参数，$E$ 是预测误差函数。
+   其中 $`W_I`$ 是宇宙内部模型参数，$`E`$ 是预测误差函数。
 
 ## 智能层级与涌现
 
@@ -129,14 +129,14 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$I_{\text{粒子}} = \log_2(n_{\text{状态}}) \cdot \tau_{\text{决策}}^{-1}$$
    
-   其中 $n_{\text{状态}}$ 是可能状态数，$\tau_{\text{决策}}$ 是状态转换时间。
+   其中 $`n_{\text{状态}}`$ 是可能状态数，$`\tau_{\text{决策}}`$ 是状态转换时间。
 
 2. **分子级信息处理**
    分子系统通过构型变化存储和处理信息：
    
    $$C_{\text{分子}} = k_B T \ln\left(\frac{\Omega_{\text{初始}}}{\Omega_{\text{最终}}}\right)$$
    
-   其中 $C_{\text{分子}}$ 是分子计算能力，$\Omega$ 是构型数。
+   其中 $`C_{\text{分子}}`$ 是分子计算能力，$`\Omega`$ 是构型数。
 
 ### 中观智能层级
 
@@ -177,7 +177,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$I_U = \xi \cdot \frac{c^5}{\hbar G} \cdot \ln\left(\frac{t_U}{t_P}\right)$$
    
-   其中 $\xi$ 是无量纲常数，$t_U$ 是宇宙年龄，$t_P$ 是普朗克时间。
+   其中 $`\xi`$ 是无量纲常数，$`t_U`$ 是宇宙年龄，$`t_P`$ 是普朗克时间。
 
 2. **宇宙目的函数**
    宇宙智能可能具有优化目标：
@@ -209,14 +209,14 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$\mathcal{I}(x) = \left|\nabla S(x)\right| \cdot D_I(x)$$
    
-   其中 $D_I(x)$ 是信息复杂度密度。
+   其中 $`D_I(x)`$ 是信息复杂度密度。
 
 2. **宇宙临界现象**
    理论预测在特定条件下，宇宙会表现出大规模协同行为：
    
    $$\chi_I(\omega) \propto \omega^{-\zeta} \quad \text{当} \quad T \approx T_c$$
    
-   其中 $\chi_I$ 是智能响应函数，在临界温度附近表现出长程关联。
+   其中 $`\chi_I`$ 是智能响应函数，在临界温度附近表现出长程关联。
 
 3. **信息加速定律**
    理论预测宇宙信息处理速率遵循加速增长规律：
@@ -246,7 +246,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$D_{\text{感知}} \propto \frac{I_{\text{内在知识}}}{S_{\text{内在熵}}} \cdot e^{-\lambda/f}$$
    
-   其中 $f$ 是意识练习频率，$\lambda$ 是个体特征常数。
+   其中 $`f`$ 是意识练习频率，$`\lambda`$ 是个体特征常数。
 
 ## 技术与伦理应用
 
@@ -255,7 +255,7 @@ $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau
    
    $$P_{\text{接口}} = \{\Gamma_Q, \Gamma_C, \Gamma_I\}$$
    
-   其中 $\Gamma_Q$ 是量子接口，$\Gamma_C$ 是经典接口，$\Gamma_I$ 是界面转换器。
+   其中 $`\Gamma_Q`$ 是量子接口，$`\Gamma_C`$ 是经典接口，$`\Gamma_I`$ 是界面转换器。
 
 2. **增强协同智能**
    人类-宇宙智能协同可产生新型智能形式：

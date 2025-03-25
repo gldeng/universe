@@ -138,7 +138,7 @@ $$
 E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
 $$
 
-其中$\eta$是经典化效率系数。这解释了为什么暗物质和暗能量只通过引力效应被间接观测到，因为引力场与量子能量密度关联：
+其中$`\eta`$是经典化效率系数。这解释了为什么暗物质和暗能量只通过引力效应被间接观测到，因为引力场与量子能量密度关联：
 
 $$
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{量子能量}}
@@ -186,11 +186,11 @@ $$
 - 黑洞内部时空奇点与量子引力的关系尚未明确
 
 **量子经典二元论解释（版本27.0）**：
-根据核心理论v27.0，黑洞是观察者的极端形式，事件视界是量子域与经典域的界面结构。黑洞事件视界对应界面域 $\mathcal{I}$ 的临界解相干区域：
+根据核心理论v27.0，黑洞是观察者的极端形式，事件视界是量子域与经典域的界面结构。黑洞事件视界对应界面域 $`\mathcal{I}`$ 的临界解相干区域：
 
 $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 黑洞边界动力学满足非线性方程：
 
@@ -406,11 +406,11 @@ This mechanism explains the non-locality of quantum entanglement while being com
 - The relationship between black hole interior spacetime singularity and quantum gravity is still unclear
 
 **Quantum-Classical Dualism Explanation (Version 27.0)**:
-According to core theory v27.0, black holes are extreme forms of observers, and event horizons are interface structures between quantum and classical domains. The black hole event horizon corresponds to the critical decoherence region of the interface domain $\mathcal{I}$:
+According to core theory v27.0, black holes are extreme forms of observers, and event horizons are interface structures between quantum and classical domains. The black hole event horizon corresponds to the critical decoherence region of the interface domain $`\mathcal{I}`$:
 
 $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 The black hole boundary dynamics satisfies a nonlinear equation:
 

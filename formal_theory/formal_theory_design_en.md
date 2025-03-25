@@ -26,7 +26,7 @@ Design begins in the quantum space of possibilities, with the following characte
 
 $$\Omega_Q^{design} = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle\}$$
 
-where $|\psi_i\rangle$ represents different design possibility states.
+where $`|\psi_i\rangle`$ represents different design possibility states.
 
 Core properties of the quantum design phase:
 - Coexistence of multiple possibilities in superposition states
@@ -39,7 +39,7 @@ Design must ultimately collapse to classical implementation states:
 
 $$\Omega_C^{design} = \{D_1, D_2, ..., D_m\}$$
 
-where $D_j$ represents specific design implementation solutions.
+where $`D_j`$ represents specific design implementation solutions.
 
 Core properties of the classical design phase:
 - Clearly defined form and function
@@ -52,7 +52,7 @@ The design process is a conversion from quantum ideas to classical implementatio
 
 $$|\Psi_{idea}\rangle \xrightarrow{\mathcal{D}} D_{implementation}$$
 
-where $\mathcal{D}$ is the design operator, representing the process of transforming ideas into actual designs.
+where $`\mathcal{D}`$ is the design operator, representing the process of transforming ideas into actual designs.
 
 Interface conversion characteristics:
 - Progressive clarification from vague concepts to precise specifications
@@ -67,7 +67,7 @@ Early design ideas manifest as superpositions of multiple possibilities:
 
 $$|\Psi_{idea}\rangle = \sum_i \alpha_i |concept_i\rangle$$
 
-where $\alpha_i$ are complex amplitudes representing the weights of different concepts.
+where $`\alpha_i`$ are complex amplitudes representing the weights of different concepts.
 
 Superposition state characteristics:
 - Concept boundaries are blurred and highly fluid
@@ -91,7 +91,7 @@ Innovative designs often manifest as quantum leaps:
 
 $$|\Psi_{t}\rangle \xrightarrow{\Delta E} |\Psi_{t+1}\rangle$$
 
-where $\Delta E$ represents the injection of innovation energy.
+where $`\Delta E`$ represents the injection of innovation energy.
 
 Quantum leap characteristics:
 - Discontinuous breakthroughs in ideas
@@ -106,7 +106,7 @@ Classical design requires a clear set of constraints:
 
 $$\mathcal{C} = \{C_1, C_2, ..., C_n\}$$
 
-where $C_i$ represents specific design constraints.
+where $`C_i`$ represents specific design constraints.
 
 Constraint system properties:
 - Physical limitations (materials, energy, dimensions, etc.)
@@ -119,7 +119,7 @@ The quantum→classical conversion process in design:
 
 $$\rho_{idea} \xrightarrow{\mathcal{D}_C} |D_j\rangle\langle D_j|$$
 
-where $\mathcal{D}_C$ is the classicalization design operator.
+where $`\mathcal{D}_C`$ is the classicalization design operator.
 
 Collapse process characteristics:
 - Reducing uncertainty through decision-making
@@ -145,7 +145,7 @@ Excellent design maintains a balance between quantum creativity and classical ut
 
 $$Q_{\text{creativity}} \cdot C_{\text{utility}} \geq K_{\text{design}}$$
 
-where $K_{\text{design}}$ is a fundamental constant in the design field.
+where $`K_{\text{design}}`$ is a fundamental constant in the design field.
 
 Balance characteristics:
 - Overemphasis on creativity may sacrifice feasibility
@@ -158,7 +158,7 @@ Design complexity can be divided into multiple levels:
 
 $$\mathcal{H} = \{h_1, h_2, ..., h_n\}$$
 
-where $h_i$ represents the design complexity of the i-th level.
+where $`h_i`$ represents the design complexity of the i-th level.
 
 Hierarchy characteristics:
 - Progression from basic functions to system integration
@@ -171,7 +171,7 @@ The design process exhibits a clear observer effect:
 
 $$|\Psi_{design}\rangle \xrightarrow{\mathcal{O}_{designer}} |D_j\rangle$$
 
-where $\mathcal{O}_{designer}$ represents the observation behavior of the designer.
+where $`\mathcal{O}_{designer}`$ represents the observation behavior of the designer.
 
 Observer effect characteristics:
 - Designer's perspective influences problem definition

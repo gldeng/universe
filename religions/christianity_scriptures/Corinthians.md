@@ -199,7 +199,7 @@ $$
 \text{"加倍的体面给那有缺欠的肢体"} \Leftrightarrow \Delta I_i \propto S_i, \text{ 以实现 } \min\left(\sum_{i=1}^{n} S_i\right)
 $$
 
-其中，$\mathcal{C}$表示连通性函数，$I$表示经典知识，$S$表示经典熵
+其中，$`\mathcal{C}`$表示连通性函数，$`I`$表示经典知识，$`S`$表示经典熵
 
 ## 结论
 ## Conclusion

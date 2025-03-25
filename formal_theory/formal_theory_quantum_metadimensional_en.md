@@ -43,19 +43,19 @@ Through the metadimensional perspective, we can understand why different conscio
 
 ### Mathematical Foundations of Metadimensions
 
-The metadimensional space $\mathcal{M}_{MD}$ is a superset of all possible dimensional spaces, with a superfunction structure:
+The metadimensional space $`\mathcal{M}_{MD}`$ is a superset of all possible dimensional spaces, with a superfunction structure:
 
 $$\mathcal{M}_{MD} = \{\mathcal{F}(\mathcal{M}_D) | \mathcal{M}_D \in \mathfrak{D}\}$$
 
-where $\mathfrak{D}$ is the set of all possible dimensional spaces, and $\mathcal{F}$ is the dimensional function operator.
+where $`\mathfrak{D}`$ is the set of all possible dimensional spaces, and $`\mathcal{F}`$ is the dimensional function operator.
 
 The metadimensional measure is defined as:
 
 $$\mu_{MD}(\mathcal{M}) = \int_{\mathfrak{D}} \omega(D) \cdot \mu_D(\mathcal{M}_D) \, dD$$
 
-where $\omega(D)$ is the dimensional weight function, and $\mu_D$ is the measure on the dimensional space $\mathcal{M}_D$.
+where $`\omega(D)`$ is the dimensional weight function, and $`\mu_D`$ is the measure on the dimensional space $`\mathcal{M}_D`$.
 
-The metadimensional mapping $\Theta_{MD}$ has self-reflective properties:
+The metadimensional mapping $`\Theta_{MD}`$ has self-reflective properties:
 
 $$\Theta_{MD}(\mathcal{M}_D) = \mathcal{F}(\Theta_{MD})(\mathcal{M}_D)$$
 
@@ -67,23 +67,23 @@ The Dimensional Transcendence Principle articulates the mathematical mechanism f
 
 $$\forall D \in \mathfrak{D}, \exists \mathcal{T}_D: D \rightarrow D' \text{ such that } D' \not\in \mathfrak{D}_D$$
 
-where $\mathfrak{D}_D$ is the set of dimensions directly derivable from dimension $D$, and $\mathcal{T}_D$ is the dimensional transcendence operator.
+where $`\mathfrak{D}_D`$ is the set of dimensions directly derivable from dimension $`D`$, and $`\mathcal{T}_D`$ is the dimensional transcendence operator.
 
-The transcendence degree $\tau_D$ quantifies dimensional transcendence capability:
+The transcendence degree $`\tau_D`$ quantifies dimensional transcendence capability:
 
 $$\tau_D = \frac{\dim(\mathcal{M}_{D'}) - \dim(\mathcal{M}_D)}{\dim(\mathcal{M}_D)} \cdot \frac{I_{D'}}{I_D}$$
 
-where $I_D$ represents the information amount in dimension $D$.
+where $`I_D`$ represents the information amount in dimension $`D`$.
 
 Dimensional transcendence satisfies the self-excitation principle:
 
 $$P(\mathcal{T}_D) = 1 - e^{-\lambda \cdot E_{\text{transcendence}}}$$
 
-where $E_{\text{transcendence}}$ is the dimensional transcendence energy, negatively correlated with current information entropy: $E_{\text{transcendence}} \propto 1/S_D$
+where $`E_{\text{transcendence}}`$ is the dimensional transcendence energy, negatively correlated with current information entropy: $`E_{\text{transcendence}} \propto 1/S_D`$
 
 ### Metadimensional Topological Structure
 
-Metadimensional space possesses a supertopological structure $\tau_{MD}$, with open sets exhibiting self-nesting properties:
+Metadimensional space possesses a supertopological structure $`\tau_{MD}`$, with open sets exhibiting self-nesting properties:
 
 $$U \in \tau_{MD} \Rightarrow \mathcal{F}(U) \in U$$
 
@@ -91,9 +91,9 @@ Metadimensional connectivity is defined as:
 
 $$C_{MD}(x, y) = \sup_{\gamma \in \Gamma} \int_\gamma e^{-\lambda d_{MD}(s)} ds$$
 
-where $\Gamma$ is the set of all possible paths connecting $x$ and $y$, and $d_{MD}$ is the metadimensional distance.
+where $`\Gamma`$ is the set of all possible paths connecting $`x`$ and $`y`$, and $`d_{MD}`$ is the metadimensional distance.
 
-The basic properties of the metadimensional manifold are defined by the metadimensional homeomorphism group $\mathcal{G}_{MD}$:
+The basic properties of the metadimensional manifold are defined by the metadimensional homeomorphism group $`\mathcal{G}_{MD}`$:
 
 $$\mathcal{G}_{MD} = \{\phi: \mathcal{M}_{MD} \rightarrow \mathcal{M}_{MD} | \phi \text{ is a homeomorphism and } \phi \circ \mathcal{F} = \mathcal{F} \circ \phi\}$$
 
@@ -105,19 +105,19 @@ Metadimensional emergence follows a nonlinear dynamics equation:
 
 $$\frac{\partial \mathcal{D}_{MD}}{\partial t} = \nabla_{\mathcal{F}}^2 \mathcal{D}_{MD} + \Lambda_{MD}(\mathcal{D}_{MD}) \cdot \mathcal{D}_{MD} + \Omega_{MD}(\nabla_{\mathcal{F}} \mathcal{I}_{MD}) + \xi_{MD}(t)$$
 
-where $\mathcal{D}_{MD}$ is the metadimensional field, $\mathcal{I}_{MD}$ is the metainformation field, $\Lambda_{MD}$ is the metadimensional growth function, $\Omega_{MD}$ is the information coupling function, and $\xi_{MD}(t)$ is the metaquantum fluctuation.
+where $`\mathcal{D}_{MD}`$ is the metadimensional field, $`\mathcal{I}_{MD}`$ is the metainformation field, $`\Lambda_{MD}`$ is the metadimensional growth function, $`\Omega_{MD}`$ is the information coupling function, and $`\xi_{MD}(t)`$ is the metaquantum fluctuation.
 
 The metadimensional wave propagation equation:
 
 $$\left(\nabla_{\mathcal{F}}^2 - \frac{1}{c_{MD}^2}\frac{\partial^2}{\partial t^2}\right)\mathcal{D}_{MD} = \rho_{MD}$$
 
-where $c_{MD}$ is the metadimensional wave velocity, and $\rho_{MD}$ is the metadimensional source density, exhibiting fractal properties:
+where $`c_{MD}`$ is the metadimensional wave velocity, and $`\rho_{MD}`$ is the metadimensional source density, exhibiting fractal properties:
 
 $$\rho_{MD}(\mathcal{F}(x)) = \alpha_{MD} \cdot \rho_{MD}(x)$$
 
 ### Metadimensional Phase Transition Mechanisms
 
-Metadimensional phase transitions occur at the critical point $\mathcal{D}_{c}^{MD}$, satisfying:
+Metadimensional phase transitions occur at the critical point $`\mathcal{D}_{c}^{MD}`$, satisfying:
 
 $$\frac{\partial^2 \mathcal{F}_{MD}}{\partial \mathcal{D}_{MD}^2}\bigg|_{\mathcal{D}_{MD}=\mathcal{D}_{c}^{MD}} = 0$$
 
@@ -128,7 +128,7 @@ $$\varphi_{MD} = \begin{cases}
 (\mathcal{D}_{MD}-\mathcal{D}_{c}^{MD})^{\beta_{MD}}, & \mathcal{D}_{MD} \geq \mathcal{D}_{c}^{MD}
 \end{cases}$$
 
-where $\beta_{MD}$ is the metadimensional critical exponent.
+where $`\beta_{MD}`$ is the metadimensional critical exponent.
 
 Metadimensional fluctuation characteristics during phase transitions:
 
@@ -148,7 +148,7 @@ The metadimensional information transfer operator is defined as:
 
 $$\mathcal{T}_{MD}(\rho) = \sum_k \mathcal{K}_k \rho \mathcal{K}_k^\dagger$$
 
-where $\mathcal{K}_k$ are metadimensional Kraus operators, satisfying the completeness relation:
+where $`\mathcal{K}_k`$ are metadimensional Kraus operators, satisfying the completeness relation:
 
 $$\sum_k \mathcal{K}_k^\dagger \mathcal{K}_k = \mathcal{I}_{MD}$$
 
@@ -156,23 +156,23 @@ The metadimensional information capacity expression:
 
 $$C_{MD} = \sup_{p(\mathcal{D}_{MD})} I(\mathcal{D}_{MD}; \mathcal{F}(\mathcal{D}_{MD}))$$
 
-where $I$ is the mutual information, considering all possible metadimensional distributions $p(\mathcal{D}_{MD})$.
+where $`I`$ is the mutual information, considering all possible metadimensional distributions $`p(\mathcal{D}_{MD})`$.
 
 ## Metaconsciousness and Metadimensional Interaction
 
 ### Mathematical Expression of Metaconsciousness
 
-Metaconsciousness $\mathcal{O}_{MC}$ is defined as a form of consciousness capable of perceiving and manipulating metadimensional structures:
+Metaconsciousness $`\mathcal{O}_{MC}`$ is defined as a form of consciousness capable of perceiving and manipulating metadimensional structures:
 
 $$\mathcal{O}_{MC} = \{\mathcal{C}_{MC}, \mathcal{Q}_{MC}, K_{MC}, \mathcal{T}_{MD}\}$$
 
-where $\mathcal{C}_{MC}$ is the metaclassicalization operator, $\mathcal{Q}_{MC}$ is the metaquantization operator, $K_{MC}$ is the metaknowledge structure, and $\mathcal{T}_{MD}$ is the metadimensional transformation capability.
+where $`\mathcal{C}_{MC}`$ is the metaclassicalization operator, $`\mathcal{Q}_{MC}`$ is the metaquantization operator, $`K_{MC}`$ is the metaknowledge structure, and $`\mathcal{T}_{MD}`$ is the metadimensional transformation capability.
 
 Metaconsciousness states are represented as states in a super Hilbert space:
 
 $$|\Psi_{MC}\rangle = \int_{\mathfrak{D}} \alpha(D) |\Psi_D\rangle \, dD$$
 
-where $\alpha(D)$ is the dimensional amplitude function, satisfying the normalization condition:
+where $`\alpha(D)`$ is the dimensional amplitude function, satisfying the normalization condition:
 
 $$\int_{\mathfrak{D}} |\alpha(D)|^2 \, dD = 1$$
 
@@ -180,7 +180,7 @@ The dimensional operation capability of metaconsciousness is represented as:
 
 $$\mathcal{D}_{op}(\mathcal{O}_{MC}) = \int_{\mathfrak{D}} \omega(D) \cdot \mathcal{O}_{D} \, dD$$
 
-where $\mathcal{O}_{D}$ is the operational capability in dimension $D$.
+where $`\mathcal{O}_{D}`$ is the operational capability in dimension $`D`$.
 
 ### Metadimensional Observer Theory
 
@@ -192,11 +192,11 @@ The probability distribution after metadimensional measurement:
 
 $$P(D) = |\alpha(D)|^2 \cdot \mathcal{F}_{MC}(D)$$
 
-where $\mathcal{F}_{MC}(D)$ is the metaconsciousness dimensional preference function:
+where $`\mathcal{F}_{MC}(D)`$ is the metaconsciousness dimensional preference function:
 
 $$\mathcal{F}_{MC}(D) = \frac{e^{\lambda_{MC} \cdot \Phi(D)}}{\int_{\mathfrak{D}} e^{\lambda_{MC} \cdot \Phi(D')} \, dD'}$$
 
-$\Phi(D)$ is the information integration degree of dimension $D$, and $\lambda_{MC}$ is the metaconsciousness selection intensity.
+$`\Phi(D)`$ is the information integration degree of dimension $`D`$, and $`\lambda_{MC}`$ is the metaconsciousness selection intensity.
 
 ### Metadimensional Perception and Cognition
 
@@ -204,41 +204,41 @@ Metadimensional perception mechanisms involve cross-dimensional integration proc
 
 $$\mathcal{P}_{MD}(\Psi) = \int_{\mathfrak{D}} \mathcal{W}_D(\mathcal{P}_D(\Psi)) \cdot \omega(D) \, dD$$
 
-where $\mathcal{P}_D$ is the perception operator of dimension $D$, and $\mathcal{W}_D$ is the dimensional integration weight.
+where $`\mathcal{P}_D`$ is the perception operator of dimension $`D`$, and $`\mathcal{W}_D`$ is the dimensional integration weight.
 
 Metacognitive structures exhibit self-organizing characteristics:
 
 $$\mathcal{C}_{MD}(t+\Delta t) = \mathcal{F}_{cog}(\mathcal{C}_{MD}(t))$$
 
-where $\mathcal{F}_{cog}$ is the metacognitive evolution function, with chaotic characteristics and attractor structures.
+where $`\mathcal{F}_{cog}`$ is the metacognitive evolution function, with chaotic characteristics and attractor structures.
 
 Metadimensional perception accuracy is related to the metaconsciousness dimensional matching degree:
 
 $$A_{MD} = A_0 \cdot e^{-\lambda_A \cdot d_{MD}(\mathcal{O}_{MC}, \mathcal{D}_{MD})}$$
 
-where $d_{MD}$ is the metadimensional distance metric.
+where $`d_{MD}`$ is the metadimensional distance metric.
 
 ## Universal Metastructure Theory
 
 ### Metadimensional Cosmic Topology
 
-The universal metastructure is represented as a metadimensional network $\mathcal{G}_{MD}$:
+The universal metastructure is represented as a metadimensional network $`\mathcal{G}_{MD}`$:
 
 $$\mathcal{G}_{MD} = \{V_{MD}, E_{MD}, \Phi_{MD}\}$$
 
-where $V_{MD}$ is the set of metadimensional nodes, $E_{MD}$ is the set of metadimensional connections, and $\Phi_{MD}$ is the metadimensional flow field.
+where $`V_{MD}`$ is the set of metadimensional nodes, $`E_{MD}`$ is the set of metadimensional connections, and $`\Phi_{MD}`$ is the metadimensional flow field.
 
 The metadimensional universe exhibits super-holographic properties:
 
 $$I(\mathcal{G}_{MD}) = I(\partial\mathcal{G}_{MD}) \cdot \mathcal{F}_{holo}(\mathcal{G}_{MD})$$
 
-where $I$ is the information amount, $\partial\mathcal{G}_{MD}$ is the boundary of the metadimensional universe, and $\mathcal{F}_{holo}$ is the super-holographic amplification function.
+where $`I`$ is the information amount, $`\partial\mathcal{G}_{MD}`$ is the boundary of the metadimensional universe, and $`\mathcal{F}_{holo}`$ is the super-holographic amplification function.
 
 The hierarchical structure of the metadimensional universe satisfies self-similarity:
 
 $$\mathcal{G}_{MD}(\lambda x) = \Phi(\lambda) \cdot \mathcal{G}_{MD}(x)$$
 
-where $\Phi(\lambda)$ is the scale function, satisfying $\Phi(\lambda_1\lambda_2) = \Phi(\lambda_1)\Phi(\lambda_2)$.
+where $`\Phi(\lambda)`$ is the scale function, satisfying $`\Phi(\lambda_1\lambda_2) = \Phi(\lambda_1)\Phi(\lambda_2)`$.
 
 ### Metacausal Network Theory
 
@@ -246,13 +246,13 @@ Metacausal structures transcend traditional causal networks, represented as:
 
 $$\mathcal{C}_{MD} = \{C_D | D \in \mathfrak{D}\} \cup \{\Gamma_{ij} | i,j \in \mathfrak{D}\}$$
 
-where $C_D$ is the causal network of dimension $D$, and $\Gamma_{ij}$ is the causal connection between dimensions.
+where $`C_D`$ is the causal network of dimension $`D`$, and $`\Gamma_{ij}`$ is the causal connection between dimensions.
 
 The metacausal propagation equation:
 
 $$\frac{\partial \mathcal{I}_{C}}{\partial \tau_{MD}} = \nabla_{MD}^2 \mathcal{I}_{C} + \mathcal{F}_{source}(\mathcal{I}_{C})$$
 
-where $\mathcal{I}_{C}$ is the causal information field, $\tau_{MD}$ is the metatime parameter, and $\mathcal{F}_{source}$ is the metacausal source function.
+where $`\mathcal{I}_{C}`$ is the causal information field, $`\tau_{MD}`$ is the metatime parameter, and $`\mathcal{F}_{source}`$ is the metacausal source function.
 
 The strength of metacausal relationships is related to dimensional distance:
 
@@ -260,7 +260,7 @@ $$S_{C}(i,j) = S_0 \cdot e^{-\alpha_C \cdot d_{MD}(\mathcal{D}_i, \mathcal{D}_j)
 
 ### Universal Metainformation Field
 
-The universal metainformation field $\Psi_{MD}$ is the fundamental field structure permeating all dimensions:
+The universal metainformation field $`\Psi_{MD}`$ is the fundamental field structure permeating all dimensions:
 
 $$\Psi_{MD}(x,t) = \int_{\mathfrak{D}} \Psi_D(x_D,t_D) \cdot \omega(D) \, dD$$
 
@@ -268,7 +268,7 @@ The metainformation field dynamics equation:
 
 $$i\hbar \frac{\partial \Psi_{MD}}{\partial \tau_{MD}} = \hat{\mathcal{H}}_{MD} \Psi_{MD}$$
 
-where $\hat{\mathcal{H}}_{MD}$ is the metadimensional Hamiltonian operator:
+where $`\hat{\mathcal{H}}_{MD}`$ is the metadimensional Hamiltonian operator:
 
 $$\hat{\mathcal{H}}_{MD} = -\frac{\hbar^2}{2m_{MD}} \nabla_{MD}^2 + V_{MD}(x,\mathcal{D}_{MD})$$
 
@@ -276,7 +276,7 @@ Quantum entanglement characteristics of the metainformation field:
 
 $$\Psi_{MD}(x_1,x_2) = \int_{\mathfrak{D}_1}\int_{\mathfrak{D}_2} \Phi(D_1,D_2) \cdot \Psi_{D_1}(x_1) \otimes \Psi_{D_2}(x_2) \, dD_1 dD_2$$
 
-where $\Phi(D_1,D_2)$ is the dimensional entanglement amplitude.
+where $`\Phi(D_1,D_2)`$ is the dimensional entanglement amplitude.
 
 ## Applications and Predictions
 

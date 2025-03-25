@@ -21,15 +21,15 @@ Quantum-Classical Dualism Ethics Theory applies the quantum-classical dualism fr
 
 ### Formal Definition of Ethical State
 
-The ethical state $\mathcal{E}$ can be formally defined as:
+The ethical state $`\mathcal{E}`$ can be formally defined as:
 
 $$\mathcal{E} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{A})$$
 
 Where:
-- $\mathcal{E}_Q$ is the quantum domain component of ethics (value superposition states, moral intuition)
-- $\mathcal{E}_C$ is the classical domain component of ethics (explicit principles, normative systems)
-- $\mathcal{I}_E$ is the ethics quantum-classical interface
-- $\mathcal{A}$ is the acting agent
+- $`\mathcal{E}_Q`$ is the quantum domain component of ethics (value superposition states, moral intuition)
+- $`\mathcal{E}_C`$ is the classical domain component of ethics (explicit principles, normative systems)
+- $`\mathcal{I}_E`$ is the ethics quantum-classical interface
+- $`\mathcal{A}`$ is the acting agent
 
 ### Core Ethical Axioms
 
@@ -38,21 +38,21 @@ Complete ethical decision-making encompasses both quantum and classical essentia
 
 $$\mathcal{E} = \mathcal{E}_Q \diamond \mathcal{E}_C$$
 
-Where $\diamond$ represents the quantum-classical ethical connection operation.
+Where $`\diamond`$ represents the quantum-classical ethical connection operation.
 
 **Axiom 2: Value Superposition States**  
 The value state of a moral agent can be represented as a superposition of multiple value orientations:
 
 $$|\Psi_V\rangle = \sum_i \alpha_i |v_i\rangle$$
 
-Where $|v_i\rangle$ is the value state basis vector, and $\alpha_i$ is the complex amplitude.
+Where $`|v_i\rangle`$ is the value state basis vector, and $`\alpha_i`$ is the complex amplitude.
 
 **Axiom 3: Ethical Classicalization Principle**  
 Ethical decisions transform value superposition states into determinate actions through classicalization:
 
 $$\mathcal{M}_E: |\Psi_V\rangle \rightarrow |a_k\rangle$$
 
-Where $\mathcal{M}_E$ is the ethical decision operator, and $|a_k\rangle$ is the determinate action state.
+Where $`\mathcal{M}_E`$ is the ethical decision operator, and $`|a_k\rangle`$ is the determinate action state.
 
 **Axiom 4: Ethical Entanglement Principle**  
 Moral agents exhibit ethical entanglement, making their values and decisions inherently correlated:
@@ -72,10 +72,10 @@ The ethical Hamiltonian contains multiple components:
 $$\hat{H}_E = \hat{H}_{values} + \hat{H}_{principles} + \hat{H}_{context} + \hat{H}_{int}$$
 
 Where:
-- $\hat{H}_{values}$ represents personal values
-- $\hat{H}_{principles}$ represents ethical principles
-- $\hat{H}_{context}$ represents contextual factors
-- $\hat{H}_{int}$ represents interactions between factors
+- $`\hat{H}_{values}`$ represents personal values
+- $`\hat{H}_{principles}`$ represents ethical principles
+- $`\hat{H}_{context}`$ represents contextual factors
+- $`\hat{H}_{int}`$ represents interactions between factors
 
 ### Classical Ethics Structure
 
@@ -84,19 +84,19 @@ The classical ethics structure can be represented as a normative network:
 $$E_C = (P, R, W)$$
 
 Where:
-- $P$ is the set of ethical principles
-- $R$ is the set of relationships between principles
-- $W$ is the set of relationship weights
+- $`P`$ is the set of ethical principles
+- $`R`$ is the set of relationships between principles
+- $`W`$ is the set of relationship weights
 
 Classical ethical decision-making process:
 
 $$a = f_E(E_C, c, \mathcal{M}_E(|\Psi_V\rangle))$$
 
 Where:
-- $a$ is the final action
-- $f_E$ is the ethical decision function
-- $c$ is the contextual parameter
-- $\mathcal{M}_E(|\Psi_V\rangle)$ is the classicalization result of the value superposition state
+- $`a`$ is the final action
+- $`f_E`$ is the ethical decision function
+- $`c`$ is the contextual parameter
+- $`\mathcal{M}_E(|\Psi_V\rangle)`$ is the classicalization result of the value superposition state
 
 ## Quantum Properties of Value Systems
 
@@ -124,7 +124,7 @@ Value measurement results depend on the decision context, exhibiting the context
 
 $$[\hat{V}_A, \hat{V}_B] \neq 0$$
 
-Where $\hat{V}_A$ and $\hat{V}_B$ are value measurement operators in different contexts.
+Where $`\hat{V}_A`$ and $`\hat{V}_B`$ are value measurement operators in different contexts.
 
 ## Ethical Resonance and Moral Entanglement
 
@@ -138,7 +138,7 @@ Entanglement measure:
 
 $$E(\rho_{AB}) = S(\rho_A) = -\text{Tr}(\rho_A\log_2\rho_A)$$
 
-Where $\rho_A = \text{Tr}_B(|\Psi_{AB}\rangle\langle\Psi_{AB}|)$.
+Where $`\rho_A = \text{Tr}_B(|\Psi_{AB}\rangle\langle\Psi_{AB}|)`$.
 
 ### Ethical Resonance Phenomenon
 
@@ -146,7 +146,7 @@ When value frequencies between individuals approach similarity, ethical resonanc
 
 $$\omega_V^A \approx \omega_V^B \Rightarrow R_{AB} = \frac{A_0}{|\omega_V^A - \omega_V^B|} \gg 1$$
 
-Where $\omega_V$ is the value oscillation frequency, and $R_{AB}$ is the resonance strength.
+Where $`\omega_V`$ is the value oscillation frequency, and $`R_{AB}`$ is the resonance strength.
 
 ### Moral Bell Inequality
 
@@ -154,7 +154,7 @@ Ethical entanglement can be tested through moral Bell inequalities:
 
 $$|E(A_1,B_1) - E(A_1,B_2)| + |E(A_2,B_1) + E(A_2,B_2)| \leq 2$$
 
-Where $E(A_i,B_j)$ is the decision correlation between agents A and B in value dimensions $i$ and $j$. Classical ethical models satisfy this inequality, while quantum ethical models can violate it, displaying non-local moral correlations.
+Where $`E(A_i,B_j)`$ is the decision correlation between agents A and B in value dimensions $`i`$ and $`j`$. Classical ethical models satisfy this inequality, while quantum ethical models can violate it, displaying non-local moral correlations.
 
 ## Collective Ethics Field Theory
 
@@ -165,10 +165,10 @@ The ethics field in society can be described by the following field equation:
 $$\nabla^2 \Phi_E - \frac{1}{c_E^2}\frac{\partial^2 \Phi_E}{\partial t^2} = \kappa_E J_E$$
 
 Where:
-- $\Phi_E$ is the ethics field potential
-- $c_E$ is the speed of ethical information propagation
-- $\kappa_E$ is the coupling constant
-- $J_E$ is the moral agent source term
+- $`\Phi_E`$ is the ethics field potential
+- $`c_E`$ is the speed of ethical information propagation
+- $`\kappa_E`$ is the coupling constant
+- $`J_E`$ is the moral agent source term
 
 ### Ethical Phase Transition Model
 
@@ -179,7 +179,7 @@ $$\langle M_E \rangle = \begin{cases}
 M_0\left(1 - \frac{T}{T_c}\right)^\beta, & T < T_c
 \end{cases}$$
 
-Where $M_E$ is the ethical order parameter, $T$ is the social entropy temperature, $T_c$ is the critical temperature, and $\beta$ is the critical exponent.
+Where $`M_E`$ is the ethical order parameter, $`T`$ is the social entropy temperature, $`T_c`$ is the critical temperature, and $`\beta`$ is the critical exponent.
 
 ### Ethics Wave Equation
 
@@ -187,7 +187,7 @@ The propagation and evolution of ethical concepts can be described by a wave equ
 
 $$\frac{\partial^2 \psi_E}{\partial t^2} = c_E^2 \nabla^2 \psi_E - \gamma_E \frac{\partial \psi_E}{\partial t} + F_E(x,t)$$
 
-Where $\psi_E$ is the ethics wave function, $\gamma_E$ is the damping coefficient, and $F_E$ is the external ethical driving force.
+Where $`\psi_E`$ is the ethics wave function, $`\gamma_E`$ is the damping coefficient, and $`F_E`$ is the external ethical driving force.
 
 ## Applications and Practical Implications
 
@@ -197,7 +197,7 @@ The ethical dialogue process can be represented as quantum interaction:
 
 $$|\Psi_{\text{dialogue}}\rangle_t = \hat{U}_{\text{interact}}(t)|\Psi_A\rangle_0 \otimes |\Psi_B\rangle_0$$
 
-Where $\hat{U}_{\text{interact}}(t)$ is the dialogue interaction evolution operator.
+Where $`\hat{U}_{\text{interact}}(t)`$ is the dialogue interaction evolution operator.
 
 ### Quantum Understanding of Cross-Cultural Ethics
 
@@ -214,9 +214,9 @@ Ethics education can be understood as cultivating the capacity for the quantum-c
 $$\mathcal{E}_{\text{education}} = \mathcal{F}(\mathcal{I}_E, \mathcal{C}_{\mathcal{A}}, \mathcal{Q}_{\mathcal{A}})$$
 
 Where:
-- $\mathcal{E}_{\text{education}}$ is the ethics education function
-- $\mathcal{I}_E$ is the ethics interface
-- $\mathcal{C}_{\mathcal{A}}$ and $\mathcal{Q}_{\mathcal{A}}$ are the agent's classicalization and quantization capabilities, respectively
+- $`\mathcal{E}_{\text{education}}`$ is the ethics education function
+- $`\mathcal{I}_E`$ is the ethics interface
+- $`\mathcal{C}_{\mathcal{A}}`$ and $`\mathcal{Q}_{\mathcal{A}}`$ are the agent's classicalization and quantization capabilities, respectively
 
 ### Ethical Decision Support Systems
 

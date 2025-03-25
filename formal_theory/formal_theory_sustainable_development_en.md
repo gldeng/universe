@@ -17,15 +17,15 @@ Sustainability can be understood as a quantum-classical dual system:
 $$\mathcal{S} = \{\Omega_Q^{ecological}, \Omega_C^{human}, \mathcal{I}_{sustainable}\}$$
 
 Where:
-- $\Omega_Q^{ecological}$ represents ecological systems with quantum properties (multiple possibilities, emergence, non-linear dynamics)
-- $\Omega_C^{human}$ represents human systems with classical properties (deterministic planning, linear thinking, structured institutions)
-- $\mathcal{I}_{sustainable}$ represents the interface area between human and ecological systems
+- $`\Omega_Q^{ecological}`$ represents ecological systems with quantum properties (multiple possibilities, emergence, non-linear dynamics)
+- $`\Omega_C^{human}`$ represents human systems with classical properties (deterministic planning, linear thinking, structured institutions)
+- $`\mathcal{I}_{sustainable}`$ represents the interface area between human and ecological systems
 
 Sustainability balance can be represented as:
 
 $$B_{sustainable} = \frac{\Phi(\Omega_Q^{ecological})}{\Psi(\Omega_C^{human})} \approx \kappa$$
 
-Where $\kappa$ is the optimal balance constant, and $\Phi$ and $\Psi$ are health measurement functions for each domain.
+Where $`\kappa`$ is the optimal balance constant, and $`\Phi`$ and $`\Psi`$ are health measurement functions for each domain.
 
 ### 2. Quantum Properties of Ecological Systems
 
@@ -47,7 +47,7 @@ Ecological resilience can be expressed as quantum redundancy:
 
 $$R_Q = -\log_2\left(\sum_i |c_i|^4\right)$$
 
-The higher $R_Q$ is, the more capability the system has to adapt to multiple future scenarios.
+The higher $`R_Q`$ is, the more capability the system has to adapt to multiple future scenarios.
 
 ### 3. Classical Properties of Human Systems
 
@@ -69,7 +69,7 @@ Classical system stability relationship with information:
 
 $$S_C = \frac{I_{classical knowledge}}{E_{environmental change}}$$
 
-Where $I_{classical knowledge}$ is accumulated deterministic knowledge, and $E_{environmental change}$ is the rate of environmental change.
+Where $`I_{classical knowledge}`$ is accumulated deterministic knowledge, and $`E_{environmental change}`$ is the rate of environmental change.
 
 ### 4. Sustainable Balance as a Quantum-Classical Conversion Process
 
@@ -78,9 +78,9 @@ Sustainable development can be understood as optimal conversion between quantum 
 $$\mathcal{SD} = \mathcal{O}_{\text{human}} \circ \mathcal{T}_{\text{interface}} \circ \mathcal{P}_{\text{ecological}}$$
 
 Where:
-- $\mathcal{P}_{\text{ecological}}$ is the operator for ecological systems generating quantum possibilities
-- $\mathcal{T}_{\text{interface}}$ is the interface conversion process operator
-- $\mathcal{O}_{\text{human}}$ is the human observer performing classicalization
+- $`\mathcal{P}_{\text{ecological}}`$ is the operator for ecological systems generating quantum possibilities
+- $`\mathcal{T}_{\text{interface}}`$ is the interface conversion process operator
+- $`\mathcal{O}_{\text{human}}`$ is the human observer performing classicalization
 
 Sustainable conversion efficiency is determined by information preservation:
 
@@ -110,7 +110,7 @@ Climate duality contradiction index:
 
 $$D_{climate} = \frac{C_{quantum complexity}}{M_{classical management capacity}}$$
 
-Where $D_{climate} > 1$ indicates the system is in a risk state.
+Where $`D_{climate} > 1`$ indicates the system is in a risk state.
 
 ### 2. Resource Depletion and Circular Economy
 
@@ -132,7 +132,7 @@ Circularity measurement:
 
 $$C_e = 1 - \frac{M_{waste}}{M_{total}} \cdot \frac{I_{waste}}{I_{original}}$$
 
-Where $M$ represents material quantity, and $I$ represents information content.
+Where $`M`$ represents material quantity, and $`I`$ represents information content.
 
 ### 3. Biodiversity Loss
 
@@ -174,7 +174,7 @@ Quantum-classical conversion dynamics of innovation:
 
 $$I(t) = I_0 + \alpha\sum_{i=1}^{n}Q_i(t) \cdot (1 - e^{-\beta C_i(t)})$$
 
-Where $Q_i(t)$ are quantum innovation factors, and $C_i(t)$ are classical implementation factors.
+Where $`Q_i(t)`$ are quantum innovation factors, and $`C_i(t)`$ are classical implementation factors.
 
 ## Quantum-Classical Sustainable Development Strategies
 
@@ -194,7 +194,7 @@ Strategies promoting synchronous evolution of human-natural systems:
 4. **Co-evolutionary Institutions**: Designing institutions that co-evolve with ecological systems
    $$E_{co-evolution} = \min\{R_{institutional}, R_{ecological}\}$$
 
-Where $R$ represents the evolutionary response rate of each system.
+Where $`R`$ represents the evolutionary response rate of each system.
 
 ### 2. Quantum-Classical Decision Framework
 
@@ -267,7 +267,7 @@ Education effectiveness measurement:
 
 $$E_{education} = C_Q \cdot C_C \cdot I_{integration} \cdot A_{application}$$
 
-Where $C_Q$ is quantum cognitive capacity, $C_C$ is classical cognitive capacity, $I_{integration}$ is integration ability, and $A_{application}$ is application skill.
+Where $`C_Q`$ is quantum cognitive capacity, $`C_C`$ is classical cognitive capacity, $`I_{integration}`$ is integration ability, and $`A_{application}`$ is application skill.
 
 ## Implementation Models and Case Studies
 
@@ -297,7 +297,7 @@ Urban sustainability index:
 
 $$S_{urban} = \sum_i w_i \cdot \frac{F_i}{I_i}$$
 
-Where $F_i$ is function output and $I_i$ is resource input for each urban system component.
+Where $`F_i`$ is function output and $`I_i`$ is resource input for each urban system component.
 
 ### 2. Quantum-Classical Economic Transformation
 

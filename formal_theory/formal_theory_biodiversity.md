@@ -26,8 +26,8 @@
 $$\mathcal{B} = \{\mathcal{B}_Q, \mathcal{B}_C\}$$
 
 其中：
-- $\mathcal{B}_Q$ 表示量子生物多样性空间，包含所有可能的生命形式
-- $\mathcal{B}_C$ 表示经典生物多样性空间，包含所有已实现的生命形式
+- $`\mathcal{B}_Q`$ 表示量子生物多样性空间，包含所有可能的生命形式
+- $`\mathcal{B}_C`$ 表示经典生物多样性空间，包含所有已实现的生命形式
 
 两者的交集构成当前活跃演化前沿：
 
@@ -40,11 +40,11 @@ $$\mathcal{B}_I = \mathcal{B}_Q \cap \mathcal{B}_C$$
 $$\mathcal{B}^{(n)} = \{\mathcal{B}^{(g)}, \mathcal{B}^{(s)}, \mathcal{B}^{(e)}, \mathcal{B}^{(f)}, \mathcal{B}^{(c)}\}$$
 
 其中：
-- $\mathcal{B}^{(g)}$ 是基因多样性（遗传信息层级）
-- $\mathcal{B}^{(s)}$ 是物种多样性（物种分类层级）
-- $\mathcal{B}^{(e)}$ 是生态系统多样性（生态功能层级）
-- $\mathcal{B}^{(f)}$ 是功能多样性（生物功能层级）
-- $\mathcal{B}^{(c)}$ 是认知多样性（生物意识层级）
+- $`\mathcal{B}^{(g)}`$ 是基因多样性（遗传信息层级）
+- $`\mathcal{B}^{(s)}`$ 是物种多样性（物种分类层级）
+- $`\mathcal{B}^{(e)}`$ 是生态系统多样性（生态功能层级）
+- $`\mathcal{B}^{(f)}`$ 是功能多样性（生物功能层级）
+- $`\mathcal{B}^{(c)}`$ 是认知多样性（生物意识层级）
 
 每一层级都存在量子与经典的二元结构。
 
@@ -57,9 +57,9 @@ $$\mathcal{B}^{(n)} = \{\mathcal{B}^{(g)}, \mathcal{B}^{(s)}, \mathcal{B}^{(e)},
 $$|\Psi_G\rangle = \sum_{i=1}^{N} \alpha_i |G_i\rangle$$
 
 其中：
-- $|G_i\rangle$ 代表第i种可能的基因表达状态
-- $\alpha_i$ 是复振幅，满足 $\sum_i |\alpha_i|^2 = 1$
-- $N$ 是理论上可能的基因表达状态总数
+- $`|G_i\rangle`$ 代表第i种可能的基因表达状态
+- $`\alpha_i`$ 是复振幅，满足 $`\sum_i |\alpha_i|^2 = 1`$
+- $`N`$ 是理论上可能的基因表达状态总数
 
 这种量子叠加性解释了生物体如何保持庞大的适应潜能。
 
@@ -70,9 +70,9 @@ $$|\Psi_G\rangle = \sum_{i=1}^{N} \alpha_i |G_i\rangle$$
 $$|\Psi_{EG}\rangle = \sum_{i,j} \beta_{ij} |E_i\rangle \otimes |G_j\rangle$$
 
 其中：
-- $|E_i\rangle$ 代表第i种表观遗传状态
-- $|G_j\rangle$ 代表第j种基因状态
-- $\beta_{ij}$ 是复振幅，描述两者的纠缠程度
+- $`|E_i\rangle`$ 代表第i种表观遗传状态
+- $`|G_j\rangle`$ 代表第j种基因状态
+- $`\beta_{ij}`$ 是复振幅，描述两者的纠缠程度
 
 这种纠缠解释了环境如何通过表观遗传机制影响生物多样性。
 
@@ -82,7 +82,7 @@ $$|\Psi_{EG}\rangle = \sum_{i,j} \beta_{ij} |E_i\rangle \otimes |G_j\rangle$$
 
 $$|\Psi_B(t)\rangle = e^{-i\hat{H}_B t/\hbar}|\Psi_B(0)\rangle$$
 
-其中$\hat{H}_B$是生物多样性哈密顿量，包含：
+其中$`\hat{H}_B`$是生物多样性哈密顿量，包含：
 - 物种内基因流项
 - 物种间相互作用项
 - 环境选择项
@@ -99,11 +99,11 @@ $$\hat{H}_B = \hat{H}_{gene} + \hat{H}_{inter} + \hat{H}_{sel} + \hat{H}_{mut}$$
 $$\frac{d\mathcal{D}_Q}{dt} = \alpha \cdot \nabla^2 \mathcal{D}_Q + \beta \cdot \mathcal{D}_Q(1-\mathcal{D}_Q/K) + \gamma \cdot \xi(t)$$
 
 其中：
-- $\mathcal{D}_Q$ 是量子多样性度量
-- $\alpha$ 是多样性扩散系数
-- $\beta$ 是多样性内在增长率
-- $K$ 是环境承载力
-- $\gamma \cdot \xi(t)$ 是量子涨落项
+- $`\mathcal{D}_Q`$ 是量子多样性度量
+- $`\alpha`$ 是多样性扩散系数
+- $`\beta`$ 是多样性内在增长率
+- $`K`$ 是环境承载力
+- $`\gamma \cdot \xi(t)`$ 是量子涨落项
 
 这一方程解释了多样性如何在无引导的量子过程中自发涌现。
 
@@ -116,13 +116,13 @@ $$\frac{d\mathcal{D}_Q}{dt} = \alpha \cdot \nabla^2 \mathcal{D}_Q + \beta \cdot 
 $$\mathcal{B}_C = \{S, H', D, E, F, \beta, PD\}$$
 
 其中：
-- $S$ 是物种丰富度（物种数量）
-- $H'$ 是Shannon-Wiener指数（多样性均匀度）
-- $D$ 是Simpson指数（物种优势度）
-- $E$ 是均匀度指数（资源分配均衡度）
-- $F$ 是功能多样性指数（生态功能多样性）
-- $\beta$ 是Beta多样性（区域间差异度）
-- $PD$ 是系统发育多样性（进化历史多样性）
+- $`S`$ 是物种丰富度（物种数量）
+- $`H'`$ 是Shannon-Wiener指数（多样性均匀度）
+- $`D`$ 是Simpson指数（物种优势度）
+- $`E`$ 是均匀度指数（资源分配均衡度）
+- $`F`$ 是功能多样性指数（生态功能多样性）
+- $`\beta`$ 是Beta多样性（区域间差异度）
+- $`PD`$ 是系统发育多样性（进化历史多样性）
 
 这些指标共同描述了生物多样性的经典实现状态。
 
@@ -133,11 +133,11 @@ $$\mathcal{B}_C = \{S, H', D, E, F, \beta, PD\}$$
 $$\sigma^2(X) = \sigma^2_0 \cdot S^{-\alpha} \cdot f(H', F, C)$$
 
 其中：
-- $\sigma^2(X)$ 是系统关键变量的波动方差
-- $\sigma^2_0$ 是基线波动方差
-- $S$ 是物种丰富度
-- $\alpha$ 是稳定性-多样性指数（通常 $0.5 < \alpha < 2$）
-- $f(H', F, C)$ 是结合多样性均匀度、功能多样性和连通性的函数
+- $`\sigma^2(X)`$ 是系统关键变量的波动方差
+- $`\sigma^2_0`$ 是基线波动方差
+- $`S`$ 是物种丰富度
+- $`\alpha`$ 是稳定性-多样性指数（通常 $`0.5 < \alpha < 2`$）
+- $`f(H', F, C)`$ 是结合多样性均匀度、功能多样性和连通性的函数
 
 这一关系解释了为什么高多样性系统通常更稳定。
 
@@ -148,12 +148,12 @@ $$\sigma^2(X) = \sigma^2_0 \cdot S^{-\alpha} \cdot f(H', F, C)$$
 $$\frac{d\mathcal{D}_C}{dt} = \sum_{i=1}^{S} r_i N_i(1-\frac{N_i}{K_i}) - \sum_{i,j}^{S} \alpha_{ij}N_i N_j + I(t) - E(t)$$
 
 其中：
-- $\mathcal{D}_C$ 是经典多样性度量
-- $r_i$ 是第i个物种的内在增长率
-- $N_i$ 是第i个物种的种群大小
-- $K_i$ 是第i个物种的环境承载力
-- $\alpha_{ij}$ 是物种间相互作用系数
-- $I(t)$ 和 $E(t)$ 分别是多样性迁入和迁出函数
+- $`\mathcal{D}_C`$ 是经典多样性度量
+- $`r_i`$ 是第i个物种的内在增长率
+- $`N_i`$ 是第i个物种的种群大小
+- $`K_i`$ 是第i个物种的环境承载力
+- $`\alpha_{ij}`$ 是物种间相互作用系数
+- $`I(t)`$ 和 $`E(t)`$ 分别是多样性迁入和迁出函数
 
 这一方程解释了经典多样性如何通过种群动态平衡维持。
 
@@ -164,11 +164,11 @@ $$\frac{d\mathcal{D}_C}{dt} = \sum_{i=1}^{S} r_i N_i(1-\frac{N_i}{K_i}) - \sum_{
 $$F(S) = F_{max}(1 - e^{-\theta S}) \cdot \phi(C)$$
 
 其中：
-- $F(S)$ 是生态系统功能强度
-- $F_{max}$ 是理论最大功能强度
-- $\theta$ 是功能饱和率参数
-- $S$ 是物种丰富度
-- $\phi(C)$ 是依赖于系统连通性的调制函数
+- $`F(S)`$ 是生态系统功能强度
+- $`F_{max}`$ 是理论最大功能强度
+- $`\theta`$ 是功能饱和率参数
+- $`S`$ 是物种丰富度
+- $`\phi(C)`$ 是依赖于系统连通性的调制函数
 
 这解释了为什么生态系统功能与生物多样性呈现饱和曲线关系。
 
@@ -181,12 +181,12 @@ $$F(S) = F_{max}(1 - e^{-\theta S}) \cdot \phi(C)$$
 $$\mathcal{M}: \mathcal{G}_Q \rightarrow \mathcal{P}_C, \quad P_i = \mathcal{M}(\{G_j\}, E, \xi)$$
 
 其中：
-- $\mathcal{G}_Q$ 是量子基因空间
-- $\mathcal{P}_C$ 是经典表型空间
-- $P_i$ 是特定表型
-- $\{G_j\}$ 是相关基因集
-- $E$ 是环境条件
-- $\xi$ 是发育噪声
+- $`\mathcal{G}_Q`$ 是量子基因空间
+- $`\mathcal{P}_C`$ 是经典表型空间
+- $`P_i`$ 是特定表型
+- $`\{G_j\}`$ 是相关基因集
+- $`E`$ 是环境条件
+- $`\xi`$ 是发育噪声
 
 这一映射解释了如何从量子可能性中实现经典表型。
 
@@ -197,9 +197,9 @@ $$\mathcal{M}: \mathcal{G}_Q \rightarrow \mathcal{P}_C, \quad P_i = \mathcal{M}(
 $$|\Psi_B\rangle \xrightarrow{环境选择} |B_i\rangle \quad \text{with probability} \quad p_i = |\langle B_i|\Psi_B\rangle|^2 \cdot f(E, \mathcal{F}_i)$$
 
 其中：
-- $|B_i\rangle$ 是特定的经典多样性状态
-- $p_i$ 是该状态被选择的概率
-- $f(E, \mathcal{F}_i)$ 是依赖于环境 $E$ 和适应度 $\mathcal{F}_i$ 的调制函数
+- $`|B_i\rangle`$ 是特定的经典多样性状态
+- $`p_i`$ 是该状态被选择的概率
+- $`f(E, \mathcal{F}_i)`$ 是依赖于环境 $`E`$ 和适应度 $`\mathcal{F}_i`$ 的调制函数
 
 这解释了自然选择如何作为量子-经典转换的关键机制。
 
@@ -210,11 +210,11 @@ $$|\Psi_B\rangle \xrightarrow{环境选择} |B_i\rangle \quad \text{with probabi
 $$\mathcal{L}(g, t) = \mathcal{L}_0(g) + \sum_i A_i(t) \cdot \phi_i(g) + \eta(g, t)$$
 
 其中：
-- $\mathcal{L}(g, t)$ 是基因型 $g$ 在时间 $t$ 的适应度
-- $\mathcal{L}_0(g)$ 是基础适应度函数
-- $A_i(t)$ 是时变振幅
-- $\phi_i(g)$ 是适应度本征函数
-- $\eta(g, t)$ 是适应度随机涨落
+- $`\mathcal{L}(g, t)`$ 是基因型 $`g`$ 在时间 $`t`$ 的适应度
+- $`\mathcal{L}_0(g)`$ 是基础适应度函数
+- $`A_i(t)`$ 是时变振幅
+- $`\phi_i(g)`$ 是适应度本征函数
+- $`\eta(g, t)`$ 是适应度随机涨落
 
 这一动态景观连接了量子演化可能性和经典选择实现。
 
@@ -227,8 +227,8 @@ $$\mathcal{L}(g, t) = \mathcal{L}_0(g) + \sum_i A_i(t) \cdot \phi_i(g) + \eta(g,
 $$S_{QB} = -\text{Tr}(\rho_B \ln \rho_B) = -\sum_i \lambda_i \ln \lambda_i$$
 
 其中：
-- $\rho_B$ 是生物多样性密度矩阵
-- $\lambda_i$ 是 $\rho_B$ 的特征值
+- $`\rho_B`$ 是生物多样性密度矩阵
+- $`\lambda_i`$ 是 $`\rho_B`$ 的特征值
 
 这一量子信息熵度量了生物系统的潜在多样性。
 
@@ -239,9 +239,9 @@ $$S_{QB} = -\text{Tr}(\rho_B \ln \rho_B) = -\sum_i \lambda_i \ln \lambda_i$$
 $$\mathcal{N}_B = (V_B, E_B, W_B)$$
 
 其中：
-- $V_B$ 是节点集（物种或基因）
-- $E_B$ 是边集（相互作用）
-- $W_B$ 是权重集（相互作用强度）
+- $`V_B`$ 是节点集（物种或基因）
+- $`E_B`$ 是边集（相互作用）
+- $`W_B`$ 是权重集（相互作用强度）
 
 信息流通量可计算为：
 
@@ -256,9 +256,9 @@ $$I_{flow} = \sum_{i,j} w_{ij} \cdot \log_2 \frac{p(i,j)}{p(i)p(j)}$$
 $$S_{QB} \propto |T - T_c|^{-\alpha}, \quad \text{for} \quad T \approx T_c$$
 
 其中：
-- $T$ 是系统控制参数（可以是温度、资源或扰动强度）
-- $T_c$ 是临界点
-- $\alpha$ 是临界指数
+- $`T`$ 是系统控制参数（可以是温度、资源或扰动强度）
+- $`T_c`$ 是临界点
+- $`\alpha`$ 是临界指数
 
 这一相变标志着多样性系统从量子-主导态向经典-主导态的转变。
 
@@ -268,15 +268,15 @@ $$S_{QB} \propto |T - T_c|^{-\alpha}, \quad \text{for} \quad T \approx T_c$$
 
 1. **量子相干性测量**：在环境压力下，表观遗传修饰应表现出量子相干特性，预测表达模式将以超经典概率分布出现。
 
-2. **临界多样性阈值**：存在临界多样性阈值 $S_c$，低于此阈值系统将失去量子特性，表现为恢复力急剧下降和信息处理能力降低。
+2. **临界多样性阈值**：存在临界多样性阈值 $`S_c`$，低于此阈值系统将失去量子特性，表现为恢复力急剧下降和信息处理能力降低。
 
 3. **多样性涨落标度**：多样性涨落遵循幂律标度：
    $$\sigma_B \propto S^{-\gamma}$$
-   其中$\gamma$应在不同生态系统中保持普适性。
+   其中$`\gamma`$应在不同生态系统中保持普适性。
 
 4. **信息传递加速**：增加生物多样性应以非线性方式加速系统信息传递：
    $$\tau_{info} \propto S^{-\delta}$$
-   其中$\tau_{info}$是信息传播时间。
+   其中$`\tau_{info}`$是信息传播时间。
 
 ### 验证方法
 
@@ -324,13 +324,13 @@ $$\max_A B(A) = \lambda \cdot B_Q(A) + (1-\lambda) \cdot B_C(A)$$
 $$C(A) \leq C_{max}$$
 
 其中：
-- $A$ 是保护行动集合
-- $B(A)$ 是总体多样性保护效益
-- $B_Q(A)$ 是量子多样性保护效益
-- $B_C(A)$ 是经典多样性保护效益
-- $\lambda$ 是量子-经典平衡参数
-- $C(A)$ 是保护成本
-- $C_{max}$ 是最大可用资源
+- $`A`$ 是保护行动集合
+- $`B(A)`$ 是总体多样性保护效益
+- $`B_Q(A)`$ 是量子多样性保护效益
+- $`B_C(A)`$ 是经典多样性保护效益
+- $`\lambda`$ 是量子-经典平衡参数
+- $`C(A)`$ 是保护成本
+- $`C_{max}`$ 是最大可用资源
 
 这一框架提供了平衡保护量子潜能和经典实现的决策支持系统。
 

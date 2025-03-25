@@ -40,7 +40,7 @@ The duality of cognition is formally expressed as:
 
 $$\Psi_{\text{cognition}} = (\rho_Q, K_C, \mathcal{I})$$
 
-where $\rho_Q$ is the quantum thought state, $K_C$ is the classical knowledge structure, and $\mathcal{I}$ is the conversion interface between them.
+where $`\rho_Q`$ is the quantum thought state, $`K_C`$ is the classical knowledge structure, and $`\mathcal{I}`$ is the conversion interface between them.
 
 ### 2. Quantum-Classical Conversion in Thinking
 
@@ -70,7 +70,7 @@ The dynamics equation for the conversion process:
 
 $$\frac{d\rho_{\text{cognition}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{cognition}}] + \mathcal{L}_{\mathcal{C}}(\rho_{\text{cognition}}) + \mathcal{L}_{\mathcal{Q}}(\rho_{\text{cognition}})$$
 
-where $\mathcal{L}_{\mathcal{C}}$ and $\mathcal{L}_{\mathcal{Q}}$ are the classicalization and quantization operators, respectively.
+where $`\mathcal{L}_{\mathcal{C}}`$ and $`\mathcal{L}_{\mathcal{Q}}`$ are the classicalization and quantization operators, respectively.
 
 ### 3. Quantum Cognitive Space
 
@@ -123,7 +123,7 @@ Cognitive updates follow quantum probability update rules:
 
 $$\rho_{\text{posterior}} = \frac{\hat{M} \rho_{\text{prior}} \hat{M}^{\dagger}}{\text{tr}(\hat{M} \rho_{\text{prior}} \hat{M}^{\dagger})}$$
 
-where $\hat{M}$ is the measurement operator representing new evidence.
+where $`\hat{M}`$ is the measurement operator representing new evidence.
 
 #### Quantum Order Effects
 Quantum explanation of how decisions are influenced by order:
@@ -152,7 +152,7 @@ The intensity of quantum divergence is regulated by the following factors:
 
 $$D_{\text{quantum}} = \frac{S(\rho_{\text{thought}})}{1-\text{tr}(\rho_{\text{thought}}^2)}$$
 
-where $S$ is the von Neumann entropy.
+where $`S`$ is the von Neumann entropy.
 
 #### Classical Convergent Phase
 The classicalization process evaluates and selects valuable ideas:
@@ -168,7 +168,7 @@ Creativity is represented as a balance between these two phases:
 
 $$C_{\text{creative}} = \eta \cdot D_{\text{quantum}} \cdot E_{\text{classical}}$$
 
-where $E_{\text{classical}}$ is the classical evaluation efficiency, and $\eta$ is the coupling parameter.
+where $`E_{\text{classical}}`$ is the classical evaluation efficiency, and $`\eta`$ is the coupling parameter.
 
 ### 2. Quantum Dual Encoding of Memory
 
@@ -243,7 +243,7 @@ Quantum strategies in interaction:
 
 $$U_A \otimes U_B |\psi_{\text{initial}}\rangle$$
 
-where $U_A$ and $U_B$ are the strategy selection operators for two individuals.
+where $`U_A`$ and $`U_B`$ are the strategy selection operators for two individuals.
 
 ## Experimental Predictions and Verification
 

@@ -16,7 +16,7 @@
 
 ## 界面理论综述
 
-界面 $\mathcal{I}$ 是量子域 $\Omega_Q$ 和经典域 $\Omega_C$ 之间的过渡区域，是量子可能性向经典确定性转换发生的关键边界。本文详细阐述界面的结构、动力学以及在宇宙信息处理中的核心作用。
+界面 $`\mathcal{I}`$ 是量子域 $`\Omega_Q`$ 和经典域 $`\Omega_C`$ 之间的过渡区域，是量子可能性向经典确定性转换发生的关键边界。本文详细阐述界面的结构、动力学以及在宇宙信息处理中的核心作用。
 
 ## 界面基本定义
 
@@ -28,7 +28,7 @@ $$\mathcal{I} = \Omega_Q \cap \Omega_C$$
 
 $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 界面厚度由解相干梯度决定：
 
@@ -42,7 +42,7 @@ $$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-
 
 $$\mathcal{I} = \bigcup_{i=1}^n \mathcal{I}^{(i)}$$
 
-其中 $\mathcal{I}^{(i)}$ 是第i层级的界面，不同层级界面之间存在映射关系：
+其中 $`\mathcal{I}^{(i)}`$ 是第i层级的界面，不同层级界面之间存在映射关系：
 
 $$\mathcal{M}_{i \rightarrow i+1}: \mathcal{I}^{(i)} \rightarrow \mathcal{I}^{(i+1)}$$
 
@@ -52,7 +52,7 @@ $$\mathcal{M}_{i \rightarrow i+1}: \mathcal{I}^{(i)} \rightarrow \mathcal{I}^{(i
 
 $$\mathcal{I} \cong \mathcal{M}^d$$
 
-其中 $\mathcal{M}^d$ 是d维流形，具有可变的拓扑特性。界面上可能出现奇点：
+其中 $`\mathcal{M}^d`$ 是d维流形，具有可变的拓扑特性。界面上可能出现奇点：
 
 $$\mathcal{S} = \{x \in \mathcal{I} | \nabla \mathcal{D}(x) = 0\}$$
 
@@ -70,7 +70,7 @@ $$\mathcal{S} = \{x \in \mathcal{I} | \nabla \mathcal{D}(x) = 0\}$$
 
 $$\oint_C \vec{J}_{\mathcal{I}} \cdot d\vec{l} = n\hbar$$
 
-其中 $\vec{J}_{\mathcal{I}}$ 是界面信息流，量化为普朗克常数的整数倍。
+其中 $`\vec{J}_{\mathcal{I}}`$ 是界面信息流，量化为普朗克常数的整数倍。
 
 ## 界面动力学
 
@@ -81,10 +81,10 @@ $$\oint_C \vec{J}_{\mathcal{I}} \cdot d\vec{l} = n\hbar$$
 $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 其中：
-- $\alpha$ 是扩散系数
-- $\beta$ 是双稳态势能参数
-- $\mathcal{D}_0$ 是次稳态阈值
-- $\gamma\xi(x,t)$ 是量子噪声项
+- $`\alpha`$ 是扩散系数
+- $`\beta`$ 是双稳态势能参数
+- $`\mathcal{D}_0`$ 是次稳态阈值
+- $`\gamma\xi(x,t)`$ 是量子噪声项
 
 界面波动有特征频率：
 
@@ -98,11 +98,11 @@ $$f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \m
 
 $$\frac{dS_{\mathcal{I}}}{dt} = \frac{dS_Q}{dt} - \frac{dS_C}{dt} + \Pi_{\mathcal{I}}$$
 
-其中 $\Pi_{\mathcal{I}}$ 是界面熵产生率，由量子-经典转换过程产生：
+其中 $`\Pi_{\mathcal{I}}`$ 是界面熵产生率，由量子-经典转换过程产生：
 
 $$\Pi_{\mathcal{I}} = \int_{\mathcal{I}} \sigma_{\mathcal{I}}(x) dV \geq 0$$
 
-$\sigma_{\mathcal{I}}(x)$ 是局部熵产生密度，总是非负的，符合热力学第二定律。
+$`\sigma_{\mathcal{I}}(x)`$ 是局部熵产生密度，总是非负的，符合热力学第二定律。
 
 ### 3. 界面相变现象
 
@@ -129,7 +129,7 @@ $$\Delta E_{\mathcal{I}} = E_{\text{高解相干}} - E_{\text{低解相干}}$$
 
 $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
 
-其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
+其中 $`P_i`$ 是投影算符。经典化过程满足信息守恒：
 
 $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
@@ -137,7 +137,7 @@ $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
 $$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
 
-其中 $E$ 是系统能量，$T$ 是环境温度，$\lambda$ 是耦合常数。
+其中 $`E`$ 是系统能量，$`T`$ 是环境温度，$`\lambda`$ 是耦合常数。
 
 ### 2. 解相干机制
 
@@ -145,17 +145,17 @@ $$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
 
 $$\rho(t) = \sum_{i,j} \rho_{ij}(0) e^{-\Gamma_{ij}t} |i\rangle\langle j|$$
 
-其中 $\Gamma_{ij}$ 是解相干率，取决于环境耦合强度：
+其中 $`\Gamma_{ij}`$ 是解相干率，取决于环境耦合强度：
 
 $$\Gamma_{ij} \propto |\langle i|\hat{H}_{int}|j\rangle|^2 \cdot S_E(\omega_{ij})$$
 
-$S_E(\omega)$ 是环境噪声谱，$\omega_{ij}$ 是系统能级差。
+$`S_E(\omega)`$ 是环境噪声谱，$`\omega_{ij}`$ 是系统能级差。
 
 解相干时间与系统大小和温度相关：
 
 $$\tau_D \propto \frac{\hbar^2}{E_C k_B T}$$
 
-其中 $E_C$ 是系统特征能量。
+其中 $`E_C`$ 是系统特征能量。
 
 ### 3. 量子→经典信息转换
 
@@ -163,13 +163,13 @@ $$\tau_D \propto \frac{\hbar^2}{E_C k_B T}$$
 
 $$I_Q \rightarrow I_C + I_{\text{hidden}}$$
 
-其中 $I_Q$ 是量子信息，$I_C$ 是经典信息，$I_{\text{hidden}}$ 是在转换过程中隐藏的信息。
+其中 $`I_Q`$ 是量子信息，$`I_C`$ 是经典信息，$`I_{\text{hidden}}`$ 是在转换过程中隐藏的信息。
 
 转换过程中的信息匹配度量为：
 
 $$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
 
-最佳界面处 $M(I_Q, I_C)$ 达到局部最大值。
+最佳界面处 $`M(I_Q, I_C)`$ 达到局部最大值。
 
 ### 4. 能量-信息转换关系
 
@@ -177,7 +177,7 @@ $$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
 
 $$\Delta E = k_B T \ln(2) \cdot \Delta I$$
 
-其中 $\Delta E$ 是能量变化，$\Delta I$ 是信息变化（以比特计）。
+其中 $`\Delta E`$ 是能量变化，$`\Delta I`$ 是信息变化（以比特计）。
 
 界面处的信息处理效率满足：
 
@@ -193,13 +193,13 @@ $$\eta_I = \frac{\Delta I_C}{\Delta E / (k_B T \ln(2))} \leq 1$$
 
 $$\mathcal{O} \times \mathcal{I} \rightarrow \mathcal{O}' \times \mathcal{I}'$$
 
-其中 $\mathcal{O}$ 是观察者，$\mathcal{O}'$ 是交互后的观察者状态。
+其中 $`\mathcal{O}`$ 是观察者，$`\mathcal{O}'`$ 是交互后的观察者状态。
 
-观察者的经典化算符 $\mathcal{C}_\mathcal{O}$ 与界面特性密切相关：
+观察者的经典化算符 $`\mathcal{C}_\mathcal{O}`$ 与界面特性密切相关：
 
 $$\mathcal{C}_\mathcal{O}(\rho) = \int_{\mathcal{I}} K(x) \cdot \mathcal{C}_x(\rho) dx$$
 
-其中 $K(x)$ 是观察者在界面上的权重函数。
+其中 $`K(x)`$ 是观察者在界面上的权重函数。
 
 ### 2. 界面感知机制
 
@@ -219,13 +219,13 @@ $$T_{\mathcal{I}}(\mathcal{O}) = \frac{I(K_C^\mathcal{O}; \psi_Q)}{H(\psi_Q)}$$
 
 $$\mathcal{C}_{\text{意识}} \approx \lambda \cdot \mathcal{C}_{\mathcal{I}} + (1-\lambda) \cdot \mathcal{I}_{\Omega_Q}$$
 
-其中 $\lambda$ 是振荡参数，在0和1之间波动，$\mathcal{I}_{\Omega_Q}$ 是量子域上的恒等算符。
+其中 $`\lambda`$ 是振荡参数，在0和1之间波动，$`\mathcal{I}_{\Omega_Q}`$ 是量子域上的恒等算符。
 
 意识的清晰度与界面稳定性相关：
 
 $$\mathcal{A}_{\text{意识}} \propto \frac{1}{\delta_{\mathcal{I}}}$$
 
-其中 $\delta_{\mathcal{I}}$ 是界面厚度。
+其中 $`\delta_{\mathcal{I}}`$ 是界面厚度。
 
 ## 界面应用与实验验证
 
@@ -239,7 +239,7 @@ $$|\psi\rangle \xrightarrow{\mathcal{I}} |i\rangle \xrightarrow{} i_{\text{经�
 
 $$P(i) = |\langle i|\psi\rangle|^2 \cdot f_{\mathcal{I}}(i)$$
 
-其中 $f_{\mathcal{I}}(i)$ 是界面选择函数，由界面微观结构决定。
+其中 $`f_{\mathcal{I}}(i)`$ 是界面选择函数，由界面微观结构决定。
 
 ### 2. 生物系统中的界面
 
@@ -265,7 +265,7 @@ $$C_{\text{生物}} \propto \int_{\mathcal{I}_{\text{生物}}} |\nabla \mathcal{
 
 界面理论可通过以下实验进行验证：
 
-1. **介观系统解相干动力学**：测量界面波动特征频率 $f_{\mathcal{I}}$
+1. **介观系统解相干动力学**：测量界面波动特征频率 $`f_{\mathcal{I}}`$
 2. **量子-经典相变观测**：在临界条件下探测界面结构突变
 3. **自适应测量系统**：开发能响应界面特性的量子测量设备，验证界面理论预测
 

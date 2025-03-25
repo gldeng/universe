@@ -20,7 +20,7 @@
 量子经典二元论可简化为四条核心公理：
 
 **公理1: 二元存在性**  
-宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连：
+宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -29,14 +29,14 @@ $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{
 
 $$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
 
-其中 $\mathcal{C}$ 是经典化算符（将量子可能性转化为经典确定性的过程），$I(\psi)$ 是态 $\psi$ 的总信息量，$I_{\text{隐藏}}(\psi)$ 是经典化过程中转化为隐藏信息的部分。
+其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
 **公理3: 观察者经典化**  
 观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
 $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
-其中 $\mathcal{C}_\mathcal{O}$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$\mathcal{Q}_\mathcal{O}$ 是量子化算符（将经典知识转回量子可能性的能力），$K_C^\mathcal{O}$ 是观察者的经典知识库，$\epsilon$ 是防止除零的小常数。
+其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
 
 **公理4: 维度涌现**  
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：

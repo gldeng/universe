@@ -61,7 +61,7 @@ $$
 z = a + bi \equiv \begin{pmatrix} a & -b \\ b & a \end{pmatrix}
 $$
 
-从量子经典二元论视角，复数平面构成了连接量子与经典数学的关键桥梁。高斯确立了复数的几何解释，使之从纯形式化的"虚数"转变为具有明确物理和几何意义的数学工具。复数平面中的每个点既可用经典的二维坐标(a,b)表示，也可用量子力学中常用的幅值和相位($re^{i\theta}$)表示。这一双重表征能力使复数成为量子力学的理想数学语言——量子态可用复数表示，但测量结果必须归约为实数。高斯对复变函数理论的贡献为后来的量子力学数学框架奠定了基础，使物理学家能够系统处理量子叠加态、相位关系和波函数，而这些概念在高斯时代尚未被发现。
+从量子经典二元论视角，复数平面构成了连接量子与经典数学的关键桥梁。高斯确立了复数的几何解释，使之从纯形式化的"虚数"转变为具有明确物理和几何意义的数学工具。复数平面中的每个点既可用经典的二维坐标(a,b)表示，也可用量子力学中常用的幅值和相位($`re^{i\theta}`$)表示。这一双重表征能力使复数成为量子力学的理想数学语言——量子态可用复数表示，但测量结果必须归约为实数。高斯对复变函数理论的贡献为后来的量子力学数学框架奠定了基础，使物理学家能够系统处理量子叠加态、相位关系和波函数，而这些概念在高斯时代尚未被发现。
 
 #### 4. 高斯分布与量子-经典概率衔接
 
@@ -123,7 +123,7 @@ $$
 z = a + bi \equiv \begin{pmatrix} a & -b \\ b & a \end{pmatrix}
 $$
 
-From a Quantum-Classical Dualism perspective, the complex plane forms a crucial bridge connecting quantum and classical mathematics. Gauss established the geometric interpretation of complex numbers, transforming them from purely formalized "imaginary numbers" into mathematical tools with clear physical and geometric significance. Each point in the complex plane can be represented both by classical two-dimensional coordinates (a,b) and by amplitude and phase ($re^{i\theta}$) commonly used in quantum mechanics. This dual representation capability makes complex numbers the ideal mathematical language for quantum mechanics—quantum states can be represented by complex numbers, but measurement results must be reduced to real numbers. Gauss's contributions to complex function theory laid the foundation for the mathematical framework of later quantum mechanics, enabling physicists to systematically handle quantum superposition states, phase relationships, and wave functions, concepts that had not yet been discovered in Gauss's era.
+From a Quantum-Classical Dualism perspective, the complex plane forms a crucial bridge connecting quantum and classical mathematics. Gauss established the geometric interpretation of complex numbers, transforming them from purely formalized "imaginary numbers" into mathematical tools with clear physical and geometric significance. Each point in the complex plane can be represented both by classical two-dimensional coordinates (a,b) and by amplitude and phase ($`re^{i\theta}`$) commonly used in quantum mechanics. This dual representation capability makes complex numbers the ideal mathematical language for quantum mechanics—quantum states can be represented by complex numbers, but measurement results must be reduced to real numbers. Gauss's contributions to complex function theory laid the foundation for the mathematical framework of later quantum mechanics, enabling physicists to systematically handle quantum superposition states, phase relationships, and wave functions, concepts that had not yet been discovered in Gauss's era.
 
 #### 4. Gaussian Distribution and Quantum-Classical Probability Interface
 

@@ -60,10 +60,10 @@
 $$\frac{d\mathcal{D}_{心理}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}_{心理} + \beta(\mathcal{D}_c - \mathcal{D}_{心理})(\mathcal{D}_{心理} - \mathcal{D}_0) + \gamma\xi(t)$$
 
 其中：
-- $\mathcal{D}_{心理}$ 是心理解相干度，衡量量子态转为经典态的程度
-- $\mathcal{D}_c$ 是临界解相干阈值
-- $\mathcal{D}_0$ 是次稳态阈值
-- $\xi(t)$ 是随机噪声项，代表环境和内部扰动
+- $`\mathcal{D}_{心理}`$ 是心理解相干度，衡量量子态转为经典态的程度
+- $`\mathcal{D}_c`$ 是临界解相干阈值
+- $`\mathcal{D}_0`$ 是次稳态阈值
+- $`\xi(t)`$ 是随机噪声项，代表环境和内部扰动
 
 心理界面动力学解释了以下心理现象：
 - 洞察瞬间：量子可能性突然坍缩为经典理解的过程

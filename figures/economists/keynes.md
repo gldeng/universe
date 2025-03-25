@@ -59,7 +59,7 @@ $$
    \Delta I_{\text{政府支出}} \xrightarrow{\text{纠缠网络}} \Delta I_{\text{GDP}} = k \cdot \Delta I_{\text{政府支出}}
    $$
 
-   其中$k$是乘数，反映了经济系统纠缠程度。
+   其中$`k`$是乘数，反映了经济系统纠缠程度。
 
 4. **流动性偏好的观察者状态依赖性**
 
@@ -77,7 +77,7 @@ $$
    \Delta I \cdot \Delta S \geq \frac{\hbar_{econ}}{2}
    $$
 
-   其中$\hbar_{econ}$代表经济系统中的基本不确定性常数。
+   其中$`\hbar_{econ}`$代表经济系统中的基本不确定性常数。
 
 ## 历史影响 | Historical Impact
 

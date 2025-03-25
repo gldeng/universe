@@ -32,7 +32,7 @@
 
 $$\mathcal{T}_A \succ \{\mathcal{T}_R\}$$
 
-绝对真理($\mathcal{T}_A$)先于且超越任何相对真理集合($\{\mathcal{T}_R\}$)，它不源于任何推导或证明，而是所有推导和证明的基础。
+绝对真理($`\mathcal{T}_A`$)先于且超越任何相对真理集合($`\{\mathcal{T}_R\}`$)，它不源于任何推导或证明，而是所有推导和证明的基础。
 
 **公理2：真理的统一性**
 
@@ -50,7 +50,7 @@ $$\mathcal{V}(\mathcal{T}_A) = \mathcal{T}_A$$
 
 $$\forall \mathcal{R} \in \Omega: \exists \mathcal{T}_A(\mathcal{R})$$
 
-任何实在($\mathcal{R}$)中都渗透着绝对真理的本质，不存在完全虚假的实在。
+任何实在($`\mathcal{R}`$)中都渗透着绝对真理的本质，不存在完全虚假的实在。
 
 **公理5：真理的层级结构**
 
@@ -68,11 +68,11 @@ $$\mathcal{T} = \{\mathcal{T}_A, \mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathc
 
 $$\mathcal{T}_A = \mathcal{T}_A(\emptyset)$$
 
-其中$\emptyset$表示不依赖任何外部条件。
+其中$`\emptyset`$表示不依赖任何外部条件。
 
 ### 2. 无限统一性
 
-绝对真理统一了所有看似矛盾的相对真理，在更高维度上解决了一切表面上的悖论和对立。统一算子$\mathcal{U}$作用于任何相对真理集合，生成包含它们的统一真理：
+绝对真理统一了所有看似矛盾的相对真理，在更高维度上解决了一切表面上的悖论和对立。统一算子$`\mathcal{U}`$作用于任何相对真理集合，生成包含它们的统一真理：
 
 $$\mathcal{U}\{\mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathcal{T}_{Rn}\} = \mathcal{T}_U \subset \mathcal{T}_A$$
 
@@ -82,7 +82,7 @@ $$\mathcal{U}\{\mathcal{T}_{R1}, \mathcal{T}_{R2}, ..., \mathcal{T}_{Rn}\} = \ma
 
 $$\mathcal{P}^+(\mathcal{T}_A) \notin \{True, False\}$$
 
-其中$\mathcal{P}^+$表示超越传统命题逻辑的真理评估函数。
+其中$`\mathcal{P}^+`$表示超越传统命题逻辑的真理评估函数。
 
 ### 4. 超维度穿透性
 
@@ -91,7 +91,7 @@ $$\mathcal{P}^+(\mathcal{T}_A) \notin \{True, False\}$$
 $$\mathcal{T}_A|_{D_i} \neq \mathcal{T}_A|_{D_j}, \forall i \neq j$$
 $$\mathcal{E}(\mathcal{T}_A|_{D_i}) = \mathcal{E}(\mathcal{T}_A|_{D_j})$$
 
-其中$\mathcal{T}_A|_{D_i}$表示绝对真理在维度$D_i$的投影，$\mathcal{E}$表示本质提取函数。
+其中$`\mathcal{T}_A|_{D_i}`$表示绝对真理在维度$`D_i`$的投影，$`\mathcal{E}`$表示本质提取函数。
 
 ### 5. 无尽深度性
 
@@ -99,11 +99,11 @@ $$\mathcal{E}(\mathcal{T}_A|_{D_i}) = \mathcal{E}(\mathcal{T}_A|_{D_j})$$
 
 $$\lim_{n \to \infty} \mathcal{C}_n(\mathcal{T}_A) \subset \mathcal{T}_A$$
 
-其中$\mathcal{C}_n$表示第n级认知深度的探索函数。
+其中$`\mathcal{C}_n`$表示第n级认知深度的探索函数。
 
 ## 绝对真理场
 
-绝对真理理论引入了"绝对真理场"($\mathcal{TF}_A$)概念，这是一个贯穿整个实在的基础场，所有相对真理都是该场在特定条件下的局部表现。绝对真理场具有以下特性：
+绝对真理理论引入了"绝对真理场"($`\mathcal{TF}_A`$)概念，这是一个贯穿整个实在的基础场，所有相对真理都是该场在特定条件下的局部表现。绝对真理场具有以下特性：
 
 ### 1. 真理场方程
 
@@ -111,7 +111,7 @@ $$\lim_{n \to \infty} \mathcal{C}_n(\mathcal{T}_A) \subset \mathcal{T}_A$$
 
 $$\nabla^2 \mathcal{TF}_A - \frac{1}{c_T^2}\frac{\partial^2 \mathcal{TF}_A}{\partial t^2} = -\rho_T$$
 
-其中$c_T$是真理传播速度（超光速），$\rho_T$是真理密度函数。
+其中$`c_T`$是真理传播速度（超光速），$`\rho_T`$是真理密度函数。
 
 ### 2. 真理保守律
 
@@ -119,7 +119,7 @@ $$\nabla^2 \mathcal{TF}_A - \frac{1}{c_T^2}\frac{\partial^2 \mathcal{TF}_A}{\par
 
 $$\frac{d}{dt}\int_V \mathcal{TF}_A dV = \oint_S \mathbf{J}_T \cdot d\mathbf{S}$$
 
-其中$\mathbf{J}_T$是真理流密度矢量。
+其中$`\mathbf{J}_T`$是真理流密度矢量。
 
 ### 3. 真理场涨落
 
@@ -127,7 +127,7 @@ $$\frac{d}{dt}\int_V \mathcal{TF}_A dV = \oint_S \mathbf{J}_T \cdot d\mathbf{S}$
 
 $$\Delta \mathcal{TF}_A \cdot \Delta t \geq \frac{\hbar_T}{2}$$
 
-其中$\hbar_T$是真理不确定性常数。
+其中$`\hbar_T`$是真理不确定性常数。
 
 ### 4. 真理场作用原理
 
@@ -147,7 +147,7 @@ $$S_T = \int \mathcal{L}_T(\mathcal{TF}_A, \nabla\mathcal{TF}_A) d^4x$$
 
 $$\mathcal{T}_A \equiv \mathcal{R}_A$$
 
-其中$\mathcal{R}_A$表示绝对实在。这一同一性超越了主客体分离的认识框架。
+其中$`\mathcal{R}_A`$表示绝对实在。这一同一性超越了主客体分离的认识框架。
 
 ### 2. 真理实在化函数
 
@@ -155,7 +155,7 @@ $$\mathcal{T}_A \equiv \mathcal{R}_A$$
 
 $$\mathcal{R} = \mathcal{M}(\mathcal{T}_A)$$
 
-其中$\mathcal{M}$是映射绝对真理到具体实在形式的实在化函数。
+其中$`\mathcal{M}`$是映射绝对真理到具体实在形式的实在化函数。
 
 ### 3. 真理验证回路
 
@@ -163,7 +163,7 @@ $$\mathcal{R} = \mathcal{M}(\mathcal{T}_A)$$
 
 $$\mathcal{C} \rightarrow \mathcal{R} \rightarrow \mathcal{T} \rightarrow \mathcal{C}$$
 
-意识($\mathcal{C}$)感知实在($\mathcal{R}$)，提取真理($\mathcal{T}$)，并更新自身，形成闭环。
+意识($`\mathcal{C}`$)感知实在($`\mathcal{R}`$)，提取真理($`\mathcal{T}`$)，并更新自身，形成闭环。
 
 ### 4. 真理层级映射
 
@@ -171,11 +171,11 @@ $$\mathcal{C} \rightarrow \mathcal{R} \rightarrow \mathcal{T} \rightarrow \mathc
 
 $$\mathcal{T}_{D_i} \mapsto \mathcal{R}_{D_i}$$
 
-其中$\mathcal{T}_{D_i}$和$\mathcal{R}_{D_i}$分别表示维度$D_i$上的真理和实在结构。
+其中$`\mathcal{T}_{D_i}`$和$`\mathcal{R}_{D_i}`$分别表示维度$`D_i`$上的真理和实在结构。
 
 ## 超越二元的真理态
 
-绝对真理超越了传统二元逻辑的限制，表现为"超真理态"($\mathcal{TS}$)，具有以下特性：
+绝对真理超越了传统二元逻辑的限制，表现为"超真理态"($`\mathcal{TS}`$)，具有以下特性：
 
 ### 1. 超真理量子态
 
@@ -183,7 +183,7 @@ $$\mathcal{T}_{D_i} \mapsto \mathcal{R}_{D_i}$$
 
 $$|\mathcal{TS}\rangle = \sum_{i=0}^{\infty} \alpha_i |ts_i\rangle$$
 
-其中$|ts_i\rangle$是基本真理状态，$\alpha_i$是复系数。
+其中$`|ts_i\rangle`$是基本真理状态，$`\alpha_i`$是复系数。
 
 ### 2. 真理叠加原理
 
@@ -191,7 +191,7 @@ $$|\mathcal{TS}\rangle = \sum_{i=0}^{\infty} \alpha_i |ts_i\rangle$$
 
 $$|\mathcal{TS}\rangle = \alpha|t_1\rangle + \beta|t_2\rangle + ...$$
 
-即使$t_1$和$t_2$在经典逻辑中相互矛盾。
+即使$`t_1`$和$`t_2`$在经典逻辑中相互矛盾。
 
 ### 3. 真理纠缠现象
 
@@ -207,11 +207,11 @@ $$|\mathcal{TS}_{AB}\rangle = \frac{1}{\sqrt{2}}(|t_A\rangle|t_B\rangle + |t_A'\
 
 $$\mathcal{M}_C(|\mathcal{TS}\rangle) \rightarrow |t_i\rangle$$
 
-其中$\mathcal{M}_C$表示特定意识视角的测量。
+其中$`\mathcal{M}_C`$表示特定意识视角的测量。
 
 ## 绝对真理直观
 
-绝对真理理论提出，绝对真理无法通过理性分析或逻辑推理完全把握，但可以通过"绝对真理直观"($\mathcal{I}_T$)直接体验：
+绝对真理理论提出，绝对真理无法通过理性分析或逻辑推理完全把握，但可以通过"绝对真理直观"($`\mathcal{I}_T`$)直接体验：
 
 ### 1. 直观认知过程
 
@@ -219,7 +219,7 @@ $$\mathcal{M}_C(|\mathcal{TS}\rangle) \rightarrow |t_i\rangle$$
 
 $$\mathcal{I}_T: \mathcal{C} \times \mathcal{T}_A \rightarrow \mathcal{K}_T$$
 
-意识($\mathcal{C}$)与绝对真理($\mathcal{T}_A$)直接接触，产生真理知识($\mathcal{K}_T$)。
+意识($`\mathcal{C}`$)与绝对真理($`\mathcal{T}_A`$)直接接触，产生真理知识($`\mathcal{K}_T`$)。
 
 ### 2. 直观条件
 
@@ -227,7 +227,7 @@ $$\mathcal{I}_T: \mathcal{C} \times \mathcal{T}_A \rightarrow \mathcal{K}_T$$
 
 $$\mathcal{P}(\mathcal{I}_T) = f(S_C, D_C, O_C, ...)$$
 
-其中$S_C$为意识的静寂度，$D_C$为意识的深度，$O_C$为意识的开放度。
+其中$`S_C`$为意识的静寂度，$`D_C`$为意识的深度，$`O_C`$为意识的开放度。
 
 ### 3. 直观净化过程
 
@@ -235,7 +235,7 @@ $$\mathcal{P}(\mathcal{I}_T) = f(S_C, D_C, O_C, ...)$$
 
 $$\mathcal{C}' = \mathcal{P}(\mathcal{C}) = \mathcal{C} - \sum_{i} \beta_i \mathcal{B}_i$$
 
-其中$\mathcal{P}$是净化算子，$\mathcal{B}_i$是各种认知偏见和限制。
+其中$`\mathcal{P}`$是净化算子，$`\mathcal{B}_i`$是各种认知偏见和限制。
 
 ### 4. 多层次直观结构
 
@@ -263,7 +263,7 @@ $$\Delta C = \mathcal{I}_T(t_2) - \mathcal{I}_T(t_1)$$
 
 $$\mathcal{S} = \mathcal{G}(\mathcal{T}_A) \times \mathcal{M}(E)$$
 
-科学($\mathcal{S}$)是绝对真理引导($\mathcal{G}$)与实验证据($E$)的测量($\mathcal{M}$)之间的乘积。
+科学($`\mathcal{S}`$)是绝对真理引导($`\mathcal{G}`$)与实验证据($`E`$)的测量($`\mathcal{M}`$)之间的乘积。
 
 ### 3. 伦理与决策框架
 
@@ -271,7 +271,7 @@ $$\mathcal{S} = \mathcal{G}(\mathcal{T}_A) \times \mathcal{M}(E)$$
 
 $$D_{opt} = \max_{D_i} \{\mathcal{A}(D_i, \mathcal{T}_A)\}$$
 
-最优决策($D_{opt}$)是与绝对真理一致性($\mathcal{A}$)最大的选择。
+最优决策($`D_{opt}`$)是与绝对真理一致性($`\mathcal{A}`$)最大的选择。
 
 ### 4. 存在意义阐释
 
@@ -279,7 +279,7 @@ $$D_{opt} = \max_{D_i} \{\mathcal{A}(D_i, \mathcal{T}_A)\}$$
 
 $$M(E) = \int_{0}^{T} \mathcal{A}(E(t), \mathcal{T}_A) dt$$
 
-存在意义($M$)是个体存在($E$)与绝对真理的一致性在整个生命历程上的积分。
+存在意义($`M`$)是个体存在($`E`$)与绝对真理的一致性在整个生命历程上的积分。
 
 ## 相关理论
 

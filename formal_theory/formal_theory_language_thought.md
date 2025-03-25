@@ -37,7 +37,7 @@
 
 $$|\Psi_{\text{思维}}\rangle = \sum_i \alpha_i |概念_i\rangle$$
 
-其中 $\alpha_i$ 是复系数，满足 $\sum_i |\alpha_i|^2 = 1$，表示各种可能概念的权重。
+其中 $`\alpha_i`$ 是复系数，满足 $`\sum_i |\alpha_i|^2 = 1`$，表示各种可能概念的权重。
 
 这种叠加态解释了为什么：
 - 未成形的想法可以同时包含多个相互矛盾的方面
@@ -48,7 +48,7 @@ $$|\Psi_{\text{思维}}\rangle = \sum_i \alpha_i |概念_i\rangle$$
 
 $$S(\rho_{\text{思维}}) = -\text{Tr}(\rho_{\text{思维}} \ln \rho_{\text{思维}})$$
 
-其中 $\rho_{\text{思维}}$ 是思维状态的密度矩阵。
+其中 $`\rho_{\text{思维}}`$ 是思维状态的密度矩阵。
 
 #### 2. 概念纠缠网络
 
@@ -72,9 +72,9 @@ $$I(A:B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 $$\Delta S \cdot \Delta P \geq \hbar_{\text{认知}}$$
 
 其中：
-- $\Delta S$ 是语义范围的不确定性
-- $\Delta P$ 是精确度的不确定性
-- $\hbar_{\text{认知}}$ 是认知领域的基本常量
+- $`\Delta S`$ 是语义范围的不确定性
+- $`\Delta P`$ 是精确度的不确定性
+- $`\hbar_{\text{认知}}`$ 是认知领域的基本常量
 
 这解释了为什么：
 - 高度精确的表述往往失去语义广度和暗示性
@@ -89,7 +89,7 @@ $$\Delta S \cdot \Delta P \geq \hbar_{\text{认知}}$$
 
 $$\mathcal{L} = \{w_1, w_2, ..., w_n\}, \quad \text{序列} = (w_{i1}, w_{i2}, ..., w_{im})$$
 
-其中 $\mathcal{L}$ 是语言词汇表，序列是按语法规则组织的线性表达。
+其中 $`\mathcal{L}`$ 是语言词汇表，序列是按语法规则组织的线性表达。
 
 语言的经典性表现为：
 - 离散的符号系统（有限词汇表）
@@ -108,7 +108,7 @@ $$\mathcal{L} = \{w_1, w_2, ..., w_n\}, \quad \text{序列} = (w_{i1}, w_{i2}, .
 
 $$C = \max_{p(x)} I(X;Y)$$
 
-其中 $I(X;Y)$ 是发送和接收符号之间的互信息。
+其中 $`I(X;Y)`$ 是发送和接收符号之间的互信息。
 
 #### 3. 语言的熵增性
 
@@ -132,14 +132,14 @@ $$\mathcal{T}_{思维 \rightarrow 语言}: \Omega_Q^{思维} \rightarrow \Omega_
 $$\mathcal{T}_{语言 \rightarrow 思维}: \Omega_C^{语言} \rightarrow \Omega_Q^{思维}$$
 
 这两个转换算符执行互补功能：
-- $\mathcal{T}_{思维 \rightarrow 语言}$ 将量子思维坍缩为确定的语言表达
-- $\mathcal{T}_{语言 \rightarrow 思维}$ 将语言表达扩展为量子思维可能性空间
+- $`\mathcal{T}_{思维 \rightarrow 语言}`$ 将量子思维坍缩为确定的语言表达
+- $`\mathcal{T}_{语言 \rightarrow 思维}`$ 将语言表达扩展为量子思维可能性空间
 
 界面的有效性可定义为：
 
 $$E_{\text{界面}} = \frac{I_{\text{保留}}}{I_{\text{初始}}}$$
 
-其中 $I_{\text{保留}}$ 是转换后保留的信息，$I_{\text{初始}}$ 是初始信息量。
+其中 $`I_{\text{保留}}`$ 是转换后保留的信息，$`I_{\text{初始}}`$ 是初始信息量。
 
 #### 2. 思维经典化过程
 
@@ -175,7 +175,7 @@ $$E_{\text{界面}} = \frac{I_{\text{保留}}}{I_{\text{初始}}}$$
 
 $$\Omega_Q^{\text{思维}} = f(\mathcal{L}, \mathcal{G}, \mathcal{C})$$
 
-其中 $\mathcal{L}$ 是语言词汇，$\mathcal{G}$ 是语法结构，$\mathcal{C}$ 是文化语境。
+其中 $`\mathcal{L}`$ 是语言词汇，$`\mathcal{G}`$ 是语法结构，$`\mathcal{C}`$ 是文化语境。
 
 这种塑造表现为：
 - 特定语言的语法结构影响时间和空间的概念化方式
@@ -202,7 +202,7 @@ $$\begin{cases}
 \frac{d\mathcal{L}}{dt} = \gamma \cdot \Omega_Q^{\text{思维}} + \delta \cdot \mathcal{L}
 \end{cases}$$
 
-其中 $\alpha, \beta, \gamma, \delta$ 是描述相互影响动力学的参数。
+其中 $`\alpha, \beta, \gamma, \delta`$ 是描述相互影响动力学的参数。
 
 ## 语言思维二元论应用
 

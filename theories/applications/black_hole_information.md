@@ -47,9 +47,9 @@ $$
 I_{\text{经典化解码}} = S_{\text{黑洞初始}} - S_{\text{黑洞辐射后}} - S_{\text{经典熵损失}}
 $$
 
-- $S_{\text{黑洞初始}}$：黑洞在辐射前经典熵；
-- $S_{\text{黑洞辐射后}}$：辐射后的黑洞熵；
-- $S_{\text{经典熵损失}}$：解码过程中不可避免的经典熵损失。
+- $`S_{\text{黑洞初始}}`$：黑洞在辐射前经典熵；
+- $`S_{\text{黑洞辐射后}}`$：辐射后的黑洞熵；
+- $`S_{\text{经典熵损失}}`$：解码过程中不可避免的经典熵损失。
 
 这一解码过程可以理解为观察者尝试将经典化后的信息（霍金辐射粒子）重新转化为原始的量子信息，类似于核心理论中观察者维度升级的过程，即通过提升量子纠缠复杂度与经典化效率来减少经典熵的产生。
 
@@ -140,9 +140,9 @@ $$
 I_{\text{Classical Decoding}} = S_{\text{Initial Black Hole}} - S_{\text{Black Hole After Radiation}} - S_{\text{Classical Entropy Loss}}
 $$
 
-- $S_{\text{Initial Black Hole}}$: Classical entropy of the black hole before radiation;
-- $S_{\text{Black Hole After Radiation}}$: Entropy of the black hole after radiation;
-- $S_{\text{Classical Entropy Loss}}$: Inevitable classical entropy loss during the decoding process.
+- $`S_{\text{Initial Black Hole}}`$: Classical entropy of the black hole before radiation;
+- $`S_{\text{Black Hole After Radiation}}`$: Entropy of the black hole after radiation;
+- $`S_{\text{Classical Entropy Loss}}`$: Inevitable classical entropy loss during the decoding process.
 
 This decoding process can be understood as an observer attempting to transform classicalized information (Hawking radiation particles) back into the original quantum information, similar to the observer dimension upgrade process in the core theory, which involves enhancing quantum entanglement complexity and classicalization efficiency to reduce the generation of classical entropy.
 

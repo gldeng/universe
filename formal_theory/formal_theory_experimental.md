@@ -20,15 +20,15 @@
 
 ### 界面温度依赖性
 
-量子-经典界面位置 $\mathcal{D}_c$ 满足确定的温度依赖关系：
+量子-经典界面位置 $`\mathcal{D}_c`$ 满足确定的温度依赖关系：
 
 $$\mathcal{D}_c(T) = \mathcal{D}_c(0) \cdot \tanh\left(\frac{T_0}{T}\right)$$
 
-其中 $T_0$ 是特征温度，与系统特性相关。这意味着：
-- 高温促进经典化：$\lim_{T \to \infty} \mathcal{D}_c(T) = 0$
-- 低温保持量子性：$\lim_{T \to 0} \mathcal{D}_c(T) = \mathcal{D}_c(0)$
+其中 $`T_0`$ 是特征温度，与系统特性相关。这意味着：
+- 高温促进经典化：$`\lim_{T \to \infty} \mathcal{D}_c(T) = 0`$
+- 低温保持量子性：$`\lim_{T \to 0} \mathcal{D}_c(T) = \mathcal{D}_c(0)`$
 
-**实验验证方法**：通过介观系统（如超导环路或纳米机械谐振器）的量子相干性随温度变化的精确测量，检验 $\mathcal{D}_c(T)$ 函数形式。预期在 $T \approx T_0$ 附近观察到相干-退相干转变的急剧加速。
+**实验验证方法**：通过介观系统（如超导环路或纳米机械谐振器）的量子相干性随温度变化的精确测量，检验 $`\mathcal{D}_c(T)`$ 函数形式。预期在 $`T \approx T_0`$ 附近观察到相干-退相干转变的急剧加速。
 
 ### 临界尺度标度律
 
@@ -36,7 +36,7 @@ $$\mathcal{D}_c(T) = \mathcal{D}_c(0) \cdot \tanh\left(\frac{T_0}{T}\right)$$
 
 $$L_{\text{临界}} \approx \lambda_{\text{德布罗意}} \cdot \left(\frac{m}{m_{\text{电子}}}\right)^{\alpha} \cdot \left(\frac{k_BT}{\text{eV}}\right)^{-\beta}$$
 
-其中预测 $\alpha \approx 0.33$, $\beta \approx 0.5$，且 $\lambda_{\text{德布罗意}} = \frac{h}{mv}$ 是德布罗意波长。
+其中预测 $`\alpha \approx 0.33`$, $`\beta \approx 0.5`$，且 $`\lambda_{\text{德布罗意}} = \frac{h}{mv}`$ 是德布罗意波长。
 
 **实验验证方法**：使用不同质量的分子（从小分子到大型生物分子）进行双缝干涉实验，测量干涉图样消失的临界尺度，并验证其是否符合预测的标度律。
 
@@ -58,7 +58,7 @@ $$\text{带宽} \times \text{精度} \leq \frac{k_BT}{\hbar} \cdot \ln 2$$
 
 $$f_{\text{生物}} \approx \frac{k_BT}{h} \cdot \ln\left(\frac{I_{\text{代谢}}}{I_0}\right)$$
 
-其中 $I_{\text{代谢}}$ 是细胞代谢率，$I_0$ 是基准代谢率。对典型哺乳动物细胞，预测 $f_{\text{生物}} \approx 10^{12}-10^{14}$ Hz。
+其中 $`I_{\text{代谢}}`$ 是细胞代谢率，$`I_0`$ 是基准代谢率。对典型哺乳动物细胞，预测 $`f_{\text{生物}} \approx 10^{12}-10^{14}`$ Hz。
 
 **实验验证方法**：利用太赫兹光谱或超灵敏相干光散射技术，测量活细胞内部量子相干波动的特征频率，并验证其与代谢率的对数关系。
 
@@ -68,11 +68,11 @@ $$f_{\text{生物}} \approx \frac{k_BT}{h} \cdot \ln\left(\frac{I_{\text{代谢}
 
 ### 界面厚度测量
 
-量子-经典界面具有有限厚度 $\delta_{\mathcal{I}}$，与温度和系统自由度相关：
+量子-经典界面具有有限厚度 $`\delta_{\mathcal{I}}`$，与温度和系统自由度相关：
 
 $$\delta_{\mathcal{I}} = |\nabla \mathcal{D}(x)|^{-1} \approx \xi \cdot |\mathcal{D}(x) - \mathcal{D}_c|^{-\nu}$$
 
-其中 $\nu \approx 0.63$ 是临界指数。
+其中 $`\nu \approx 0.63`$ 是临界指数。
 
 **实验设计**：使用精确控制的量子点阵列，逐步增加系统自由度，测量相干性损失的过渡区宽度。预期观察到界面厚度随自由度增加而减小，但在临界点附近显著增加。
 
@@ -82,7 +82,7 @@ $$\delta_{\mathcal{I}} = |\nabla \mathcal{D}(x)|^{-1} \approx \xi \cdot |\mathca
 
 $$\delta x_{\mathcal{I}}^2 = \frac{k_B T}{\kappa_{\mathcal{I}}}$$
 
-其中 $\kappa_{\mathcal{I}}$ 是界面刚性系数。
+其中 $`\kappa_{\mathcal{I}}`$ 是界面刚性系数。
 
 **实验设计**：将介观系统调整至临界解纠缠阈值附近，然后测量其量子相干性的时间波动。预期观察到与温度成正比的波动振幅，提供界面刚性系数的直接测量。
 
@@ -94,7 +94,7 @@ $$\mathcal{D}(x) - \mathcal{D}_c \propto |T - T_c|^\beta, \quad \beta \approx 0.
 
 $$\xi \propto |T - T_c|^{-\nu}, \quad \nu \approx 0.63$$
 
-**实验设计**：使用可调控环境的量子系统（如离子阱或超导比特），测量不同温度下的解纠缠度量和相关长度，拟合临界指数。特别关注 $T \approx T_c$ 附近的标度行为，验证其是否属于预测的普适类。
+**实验设计**：使用可调控环境的量子系统（如离子阱或超导比特），测量不同温度下的解纠缠度量和相关长度，拟合临界指数。特别关注 $`T \approx T_c`$ 附近的标度行为，验证其是否属于预测的普适类。
 
 ### 界面迁移动力学
 
@@ -114,7 +114,7 @@ $$\vec{v}_{\mathcal{I}} = \kappa \nabla(\Gamma_{Q\rightarrow C}) - \lambda\vec{n
 
 $$\gamma_{\text{退相干}} \propto \exp\left(\frac{N}{N_c}\right)$$
 
-**实验设计**：准备一系列不同数量纠缠量子比特的系统（从2个到20个），测量其相干时间，并验证退相干率是否遵循预测的指数标度律。确定临界组分数 $N_c$ 的实验值。
+**实验设计**：准备一系列不同数量纠缠量子比特的系统（从2个到20个），测量其相干时间，并验证退相干率是否遵循预测的指数标度律。确定临界组分数 $`N_c`$ 的实验值。
 
 ### 部分测量诱导退相干
 
@@ -130,7 +130,7 @@ $$\frac{d\mathcal{D}}{dt}_{\text{测量}} = \frac{d\mathcal{D}}{dt}_{\text{自�
 
 $$\gamma_{\text{远程}} = \eta \cdot E(\rho_{SE}) \cdot \gamma_{\text{直接}}$$
 
-其中 $E(\rho_{SE})$ 是系统与环境的纠缠度，$\eta$ 是效率系数。
+其中 $`E(\rho_{SE})`$ 是系统与环境的纠缠度，$`\eta`$ 是效率系数。
 
 **实验设计**：创建系统-环境纠缠对，将它们空间分离，然后仅测量环境部分。测量系统部分的退相干率，并验证其与系统-环境纠缠度的关系。
 
@@ -140,7 +140,7 @@ $$\gamma_{\text{远程}} = \eta \cdot E(\rho_{SE}) \cdot \gamma_{\text{直接}}$
 
 $$\gamma_{\text{观察}} \propto A_{\mathcal{O}} \cdot D_{\mathcal{O}}$$
 
-其中 $A_{\mathcal{O}}$ 是观察者的注意强度，$D_{\mathcal{O}}$ 是观察者维度。
+其中 $`A_{\mathcal{O}}`$ 是观察者的注意强度，$`D_{\mathcal{O}}`$ 是观察者维度。
 
 **实验设计**：设计人机交互量子实验，要求参与者以不同注意程度观察量子系统（如双缝实验），测量其干涉图样的可见度变化。使用脑电图或功能性磁共振追踪参与者的注意水平，验证预测的关系。
 
@@ -154,7 +154,7 @@ $$\gamma_{\text{观察}} \propto A_{\mathcal{O}} \cdot D_{\mathcal{O}}$$
 
 $$\eta_{\text{量子}} = \frac{\tau_{\text{经典}}}{\tau_{\text{量子}}} \approx \exp\left(\frac{E_a}{k_BT}\right)$$
 
-其中 $E_a$ 是经典传输的激活能。
+其中 $`E_a`$ 是经典传输的激活能。
 
 **实验设计**：使用飞秒光谱技术，测量光合作用蛋白复合物中的激发能传输和电子转移过程，验证其是否具有量子相干特性。与人工合成的类似结构但缺乏量子优化的系统进行比较。
 
@@ -192,7 +192,7 @@ $$f_{\text{微管}} \approx 10^{6} - 10^{7} \text{ Hz}, \quad Q_{\text{因子}} 
 
 $$\Phi_c \approx 0.25 - 0.3 \text{ bits}$$
 
-**实验设计**：使用多通道脑电图和功能性磁共振成像，在不同意识状态（清醒、轻度镇静、麻醉、睡眠不同阶段）测量大脑的集成信息量 $\Phi$。识别意识-无意识转变的 $\Phi$ 临界值，验证其是否符合预测范围。
+**实验设计**：使用多通道脑电图和功能性磁共振成像，在不同意识状态（清醒、轻度镇静、麻醉、睡眠不同阶段）测量大脑的集成信息量 $`\Phi`$。识别意识-无意识转变的 $`\Phi`$ 临界值，验证其是否符合预测范围。
 
 ### 量子决策干涉测量
 
@@ -216,7 +216,7 @@ $$\rho_{AB} \neq \sum_i p_i \rho_A^i \otimes \rho_B^i$$
 
 $$P(创造性跃迁) \propto e^{-\frac{S}{\hbar_{\text{认知}}}}$$
 
-其中 $S$ 是认知作用量，$\hbar_{\text{认知}}$ 是认知普朗克常数。
+其中 $`S`$ 是认知作用量，$`\hbar_{\text{认知}}`$ 是认知普朗克常数。
 
 **实验设计**：记录参与者解决创新问题过程中的大脑活动，识别"顿悟"瞬间的神经活动特征。分析这些活动是否符合量子跃迁模型，而非传统的连续演化模型。
 
@@ -285,7 +285,7 @@ $$S_{\text{BH}}(t) = S_{\text{Hawking}} - S_{\text{量子记忆}}(t)$$
 
 $$C(r) = \langle\delta(x)\delta(x+r)\rangle \propto r^{-\gamma} \cdot \cos(k_c r)$$
 
-其中振荡项 $\cos(k_c r)$ 源于量子关联。
+其中振荡项 $`\cos(k_c r)`$ 源于量子关联。
 
 **验证方法**：分析下一代大规模宇宙结构巡天数据（如欧几里得或LSST），寻找星系大尺度分布中的振荡模式，验证其是否具有预测的量子关联特征。
 
@@ -315,7 +315,7 @@ $$\delta g_{\mu\nu} \simeq \frac{G\hbar}{c^3} \cdot \frac{(1-\mathcal{D})}{r^3}$
 
 $$\frac{dS}{dt} \geq \frac{k_B c^3}{G\hbar} \int_V R dV$$
 
-其中 $R$ 是标量曲率。
+其中 $`R`$ 是标量曲率。
 
 **实验设计**：在强重力场区域（如中子星附近）进行量子信息传输实验，测量信息损失率，并验证其是否符合预测的曲率相关熵增下限。
 
@@ -337,7 +337,7 @@ $$\rho_{\text{集体}} = |\Psi_{\text{集体}}\rangle\langle\Psi_{\text{集体}}
 
 $$\Gamma_{\text{隧穿}} = \Gamma_0 \cdot e^{-S_E/\hbar}$$
 
-其中 $S_E$ 是经典作用量。
+其中 $`S_E`$ 是经典作用量。
 
 **实验设计**：设计处于双稳态的介观系统，测量其状态转变率，特别是低温条件下是否出现量子隧穿增强的转变率。
 
@@ -347,7 +347,7 @@ $$\Gamma_{\text{隧穿}} = \Gamma_0 \cdot e^{-S_E/\hbar}$$
 
 $$\tau_{\text{量子记忆}} \propto \tau_0 \cdot e^{\Delta E/k_BT} \cdot e^{\alpha \cdot \mathcal{I}}$$
 
-其中 $\mathcal{I}$ 是系统的拓扑不变量，$\alpha$ 是保护系数。
+其中 $`\mathcal{I}`$ 是系统的拓扑不变量，$`\alpha`$ 是保护系数。
 
 **实验设计**：研究拓扑保护的量子材料（如拓扑绝缘体），测量其量子相干时间，验证与理论预测的拓扑保护增强因子的关系。
 
@@ -370,11 +370,11 @@ $$\tau_{\text{量子记忆}} \propto \tau_0 \cdot e^{\Delta E/k_BT} \cdot e^{\al
 
 | 参数类型 | 变化范围 | 预期影响 |
 |---------|----------|---------|
-| 系统尺度 | 纳米-微米 | $\mathcal{D} \propto L^{\alpha}$ |
-| 温度 | 微K-室温 | $\mathcal{D} \propto \tanh(T_0/T)$ |
-| 自由度数 | 2-10^23 | $\mathcal{D} \propto \exp(N/N_c)$ |
-| 环境耦合 | 弱-强 | $\mathcal{D} \propto \gamma_{\text{环境}}$ |
-| 观察强度 | 弱-强 | $\mathcal{D} \propto I_{\text{测量}}$ |
+| 系统尺度 | 纳米-微米 | $`\mathcal{D} \propto L^{\alpha}`$ |
+| 温度 | 微K-室温 | $`\mathcal{D} \propto \tanh(T_0/T)`$ |
+| 自由度数 | 2-10^23 | $`\mathcal{D} \propto \exp(N/N_c)`$ |
+| 环境耦合 | 弱-强 | $`\mathcal{D} \propto \gamma_{\text{环境}}`$ |
+| 观察强度 | 弱-强 | $`\mathcal{D} \propto I_{\text{测量}}`$ |
 
 ### 实验系统推荐
 

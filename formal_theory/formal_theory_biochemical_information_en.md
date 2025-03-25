@@ -21,15 +21,15 @@ Biochemical Information and Dualism extends the quantum-classical dualism framew
 
 ### Formal Definition of Biochemical Information Systems
 
-A biochemical information system $\mathcal{B}$ can be formally defined as:
+A biochemical information system $`\mathcal{B}`$ can be formally defined as:
 
 $$\mathcal{B} = (\mathcal{B}_Q, \mathcal{B}_C, \mathcal{I}_B, \mathcal{E})$$
 
 Where:
-- $\mathcal{B}_Q$ is the quantum domain of the biological system (molecular orbitals, electron transfer, quantum tunneling)
-- $\mathcal{B}_C$ is the classical domain of the biological system (molecular structures, sequence information, metabolic networks)
-- $\mathcal{I}_B$ is the biological quantum-classical interface
-- $\mathcal{E}$ is the biological environment
+- $`\mathcal{B}_Q`$ is the quantum domain of the biological system (molecular orbitals, electron transfer, quantum tunneling)
+- $`\mathcal{B}_C`$ is the classical domain of the biological system (molecular structures, sequence information, metabolic networks)
+- $`\mathcal{I}_B`$ is the biological quantum-classical interface
+- $`\mathcal{E}`$ is the biological environment
 
 ### Core Axioms of Biochemical Information
 
@@ -38,21 +38,21 @@ Biomolecular information simultaneously possesses quantum and classical fundamen
 
 $$\mathcal{B} = \mathcal{B}_Q \diamond \mathcal{B}_C$$
 
-Where $\diamond$ represents the biological quantum-classical information connection operation.
+Where $`\diamond`$ represents the biological quantum-classical information connection operation.
 
 **Axiom 2: Biomolecular Quantum Superposition Principle**  
 Biomolecules exist in superposition states of multiple conformations and reaction pathways at the microscopic level:
 
 $$|\Psi_B\rangle = \sum_i \alpha_i |S_i\rangle$$
 
-Where $|S_i\rangle$ are molecular state basis vectors, and $\alpha_i$ are complex amplitudes.
+Where $`|S_i\rangle`$ are molecular state basis vectors, and $`\alpha_i`$ are complex amplitudes.
 
 **Axiom 3: Biological Information Classicalization Principle**  
 Biological function expression is the process of quantum states classicalizing into determinate biological effects:
 
 $$\rho_B = \mathcal{M}(|\Psi_B\rangle\langle\Psi_B|)$$
 
-Where $\mathcal{M}$ is the biological environment-induced classicalization process, and $\rho_B$ is the density matrix of classicalized biological effects.
+Where $`\mathcal{M}`$ is the biological environment-induced classicalization process, and $`\rho_B`$ is the density matrix of classicalized biological effects.
 
 ## Biomolecular Information Processing Mechanisms
 
@@ -60,7 +60,7 @@ Biomolecular information processing involves dynamic conversion between quantum 
 
 $$\mathcal{I}(B) = \mathcal{I}_Q(B) + \mathcal{I}_C(B) - \mathcal{I}_{QC}(B)$$
 
-Where $\mathcal{I}(B)$ is total biological information, $\mathcal{I}_Q(B)$ is quantum biological information, $\mathcal{I}_C(B)$ is classical biological information, and $\mathcal{I}_{QC}(B)$ is quantum-classical information overlap.
+Where $`\mathcal{I}(B)`$ is total biological information, $`\mathcal{I}_Q(B)`$ is quantum biological information, $`\mathcal{I}_C(B)`$ is classical biological information, and $`\mathcal{I}_{QC}(B)`$ is quantum-classical information overlap.
 
 DNA replication, transcription, and translation processes can be formalized as:
 
@@ -98,11 +98,11 @@ Protein folding is a typical quantum-classical information conversion process, d
 
 $$S_{folding} = S_{initial} - \int_{t_0}^{t_f} \mathcal{I}_{QC}(t) dt$$
 
-Where $\mathcal{I}_{QC}(t)$ is the quantum-classical information flow during the folding process, expressed as:
+Where $`\mathcal{I}_{QC}(t)`$ is the quantum-classical information flow during the folding process, expressed as:
 
 $$\mathcal{I}_{QC}(t) = \eta \cdot \text{Tr}[\rho_Q(t) \ln \rho_C(t)]$$
 
-$\eta$ is the quantum-classical coupling coefficient.
+$`\eta`$ is the quantum-classical coupling coefficient.
 
 ## Entropy and Information in Biological Systems
 
@@ -114,7 +114,7 @@ Where information gain comes from quantum-classical synergistic effects:
 
 $$\Delta \mathcal{I}_{bio} = \alpha \Delta \mathcal{I}_Q + \beta \Delta \mathcal{I}_C + \gamma \Delta \mathcal{I}_{QC}$$
 
-$\alpha$, $\beta$, and $\gamma$ are weighting coefficients.
+$`\alpha`$, $`\beta`$, and $`\gamma`$ are weighting coefficients.
 
 ## Applications and Experimental Verification
 

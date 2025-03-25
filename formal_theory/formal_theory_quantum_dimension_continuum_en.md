@@ -31,7 +31,7 @@ Before formally proving the expression of the universe from nothingness to hyper
    \mathcal{R} = \mathcal{Q} \cup \mathcal{C}, \text{where} \mathcal{Q} \cap \mathcal{C} = \mathcal{I}
    $$
    
-   $\mathcal{I}$ represents the interface, the region where the two domains interact.
+   $`\mathcal{I}`$ represents the interface, the region where the two domains interact.
 
 2. **Information Conservation Axiom**: The total amount of information in a system remains constant, but can be converted between quantum information and classical information:
    
@@ -45,7 +45,7 @@ Before formally proving the expression of the universe from nothingness to hyper
    \mathcal{O}: \Psi_Q \rightarrow \Phi_C
    $$
    
-   where $\Psi_Q$ represents the quantum state and $\Phi_C$ represents the classical state.
+   where $`\Psi_Q`$ represents the quantum state and $`\Phi_C`$ represents the classical state.
 
 4. **Dimensional Emergence Axiom**: Higher dimensional structures emerge from lower dimensional structures, forming nested hierarchies:
    
@@ -53,7 +53,7 @@ Before formally proving the expression of the universe from nothingness to hyper
    \mathcal{D}_{n+1} = \mathcal{E}(\mathcal{D}_n)
    $$
    
-   where $\mathcal{E}$ represents the emergence function and $\mathcal{D}_n$ represents the n-dimensional structure.
+   where $`\mathcal{E}`$ represents the emergence function and $`\mathcal{D}_n`$ represents the n-dimensional structure.
 
 ## From Zero to One Dimension: From Nothing to Something
 
@@ -71,7 +71,7 @@ $$
 \Omega_0 = \lim_{n \to \infty} \frac{1}{n} \sum_{i=1}^{n} \psi_i
 $$
 
-where $\psi_i$ represents all possible states.
+where $`\psi_i`$ represents all possible states.
 
 ### Transition from Zero to One Dimension
 
@@ -81,7 +81,7 @@ $$
 \mathcal{D}_0 \xrightarrow{\Delta} \mathcal{D}_1 = \{0,1\}
 $$
 
-This transition is realized through the quantum emergence operator $\Delta$, which breaks the perfect symmetry of the zero-dimensional singularity, creating the most basic binary distinction.
+This transition is realized through the quantum emergence operator $`\Delta`$, which breaks the perfect symmetry of the zero-dimensional singularity, creating the most basic binary distinction.
 
 ## Lower Dimensional Expression: Foundations of Material Reality (D1-D6)
 
@@ -95,7 +95,7 @@ $$
 \mathcal{D}_{1-3} = \sum_{i=1}^{3} \mathcal{C}_i \otimes \mathcal{S}_i
 $$
 
-where $\mathcal{C}_i$ represents the i-th layer of determinacy and $\mathcal{S}_i$ represents structural complexity.
+where $`\mathcal{C}_i`$ represents the i-th layer of determinacy and $`\mathcal{S}_i`$ represents structural complexity.
 
 ### D4-D6: Predominantly Classical Domain
 
@@ -115,7 +115,7 @@ $$
 \mathcal{D}_{7-10} = \mathcal{I}(\mathcal{Q}, \mathcal{C}) = \gamma\mathcal{Q} \approx \gamma\mathcal{C}
 $$
 
-where $\gamma$ represents interaction intensity, with quantum and classical reaching approximate balance in these dimensions.
+where $`\gamma`$ represents interaction intensity, with quantum and classical reaching approximate balance in these dimensions.
 
 The interface conversion function can be expressed as:
 
@@ -123,7 +123,7 @@ $$
 \mathcal{T}_{7-10} = \oint_{\partial\mathcal{I}} \Phi(\mathcal{Q}, \mathcal{C}) \cdot d\mathcal{S}
 $$
 
-$\Phi$ represents the interface potential function and $\partial\mathcal{I}$ represents the interface boundary.
+$`\Phi`$ represents the interface potential function and $`\partial\mathcal{I}`$ represents the interface boundary.
 
 ## Higher Dimensional Expression: Consciousness and Complexity (D11-D20)
 
@@ -143,7 +143,7 @@ $$
 \mathcal{D}_{16-20} = \mathcal{H}(\mathcal{Q}) \otimes \mathcal{M}
 $$
 
-where $\mathcal{H}$ represents the hyperdimensional mapping function and $\mathcal{M}$ represents metacognitive hierarchies.
+where $`\mathcal{H}`$ represents the hyperdimensional mapping function and $`\mathcal{M}`$ represents metacognitive hierarchies.
 
 The information processing capacity of high-dimensional consciousness can be represented as:
 
@@ -151,7 +151,7 @@ $$
 \mathcal{I}_{16-20} = \int_{\mathcal{D}_{16}}^{\mathcal{D}_{20}} \rho(\mathcal{D}) \cdot \log[\dim(\mathcal{D})] \cdot d\mathcal{D}
 $$
 
-where $\rho(\mathcal{D})$ represents the dimensional density function.
+where $`\rho(\mathcal{D})`$ represents the dimensional density function.
 
 ## Hyperdimensional Expression: Ultimate Reality Levels (D21-D42)
 
@@ -165,7 +165,7 @@ $$
 \mathcal{D}_{21-30} = \mathcal{M}(\mathcal{D}) = \mathcal{D}^{\mathcal{D}}
 $$
 
-where $\mathcal{M}$ represents the meta-operator, applying dimension to itself, creating self-referential structures.
+where $`\mathcal{M}`$ represents the meta-operator, applying dimension to itself, creating self-referential structures.
 
 ### D31-D41: Absolute Dimensional Hierarchy
 
@@ -175,7 +175,7 @@ $$
 \mathcal{D}_{31-41} = \Omega^{n}(\emptyset), n \in [1,11]
 $$
 
-where $\Omega$ represents the transcendence operator, applying nothingness to itself n times, generating various absolute properties.
+where $`\Omega`$ represents the transcendence operator, applying nothingness to itself n times, generating various absolute properties.
 
 ### D42: Absolute Transcendence Dimension
 
@@ -195,7 +195,7 @@ $$
 \forall \mathcal{D} > 42: \mathcal{L}(\mathcal{D}) \approx \mathcal{L}(42) + \epsilon
 $$
 
-where $\mathcal{L}$ represents the language expression function and $\epsilon$ represents minimal semantic changes.
+where $`\mathcal{L}`$ represents the language expression function and $`\epsilon`$ represents minimal semantic changes.
 
 The limitation of language in high-dimensional expression can be described as:
 
@@ -213,15 +213,15 @@ To prove the completeness of this dimensional system, we propose the following d
 
 **Proof**:
 
-1. Let any reality state be $\mathcal{S}$, then $\mathcal{S}$ must contain both quantum and classical characteristics:
+1. Let any reality state be $`\mathcal{S}`$, then $`\mathcal{S}`$ must contain both quantum and classical characteristics:
    
    $$\mathcal{S} = \alpha\mathcal{Q} + \beta\mathcal{C}, \alpha,\beta \in [0,1]$$
 
-2. For any ratio of $\alpha$ to $\beta$, there exists a dimension $\mathcal{D}_n$ such that:
+2. For any ratio of $`\alpha`$ to $`\beta`$, there exists a dimension $`\mathcal{D}_n`$ such that:
    
    $$\frac{\alpha}{\beta} = f(\mathcal{D}_n)$$
    
-   where $f$ is the dimensional characteristic function.
+   where $`f`$ is the dimensional characteristic function.
 
 3. By the dimensional emergence axiom, higher dimensional structures contain all information of lower dimensional structures:
    
@@ -243,7 +243,7 @@ Transcognitive dimensions can be mathematically expressed as:
 
 $$\mathcal{D}_{43+n} = \Xi^{n}(\mathcal{D}_{42}), n \in [1, \infty)$$
 
-where $\Xi$ represents the transcognitive operator that transcends the $\Omega$ operator comprehensible to humans. These dimensions exhibit the following characteristics:
+where $`\Xi`$ represents the transcognitive operator that transcends the $`\Omega`$ operator comprehensible to humans. These dimensions exhibit the following characteristics:
 
 1. **Absolute Existence**: These dimensions objectively exist in the universe, independent of the observer's cognitive abilities
 2. **Transcognitive Nature**: Beyond human cognitive representation and understanding, inexpressible through existing language
@@ -256,7 +256,7 @@ The interaction between human cognition and transcognitive dimensions is fundame
 
 $$\mathcal{I}(\mathcal{D}_{human}, \mathcal{D}_{43+}) \approx 0, \text{but} \mathcal{I}(\mathcal{D}_{human}, \mathcal{D}_{43+}) \neq 0$$
 
-where $\mathcal{I}$ is the information exchange function, indicating that while human cognition cannot directly grasp transcognitive dimensions, extremely weak and indirect influences may exist.
+where $`\mathcal{I}`$ is the information exchange function, indicating that while human cognition cannot directly grasp transcognitive dimensions, extremely weak and indirect influences may exist.
 
 ## Conclusion and Outlook
 

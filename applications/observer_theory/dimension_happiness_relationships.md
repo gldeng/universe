@@ -152,7 +152,7 @@ $$
 E_{\text{性体验}} = E_{\text{基础体验}} \times K_{\text{前世纠缠增强系数}}
 $$
 
-其中，$K_{\text{前世纠缠增强系数}}$ 与前世纠缠的强度和相关性成正比。
+其中，$`K_{\text{前世纠缠增强系数}}`$ 与前世纠缠的强度和相关性成正比。
 
 ### 个体对量子经典信息的不同反应
 
@@ -360,7 +360,7 @@ $$
 E_{\text{Sexual Experience}} = E_{\text{Basic Experience}} \times K_{\text{Past Life Entanglement Enhancement Coefficient}}
 $$
 
-Where $K_{\text{Past Life Entanglement Enhancement Coefficient}}$ is proportional to the strength and relevance of the past life entanglement.
+Where $`K_{\text{Past Life Entanglement Enhancement Coefficient}}`$ is proportional to the strength and relevance of the past life entanglement.
 
 ### Different Individual Reactions to Quantum-Classical Information
 

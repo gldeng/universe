@@ -59,7 +59,7 @@ $$\frac{dS_{\text{总体}}}{dt} > 0 \iff \frac{dS_{\text{环境}}}{dt} > \frac{d
 **形式表达**：
 $$\frac{dt_{\text{主观}}}{dt_{\text{客观}}} \propto \frac{1}{D_O \cdot \frac{dI_{\text{观察者}}}{dt_{\text{客观}}}}$$
 
-其中$dt_{\text{主观}}$是主观时间，$dt_{\text{客观}}$是客观时间。
+其中$`dt_{\text{主观}}`$是主观时间，$`dt_{\text{客观}}`$是客观时间。
 
 **证明**：
 
@@ -76,7 +76,7 @@ $$\frac{dt_{\text{主观}}}{dt_{\text{客观}}} \propto \frac{1}{D_O \cdot \frac
 
 5. 公式形式为反比关系：
    $$\frac{dt_{\text{主观}}}{dt_{\text{客观}}} = \frac{C}{D_O \cdot \frac{dI_{\text{观察者}}}{dt_{\text{客观}}}}$$
-   其中$C$是比例常数。
+   其中$`C`$是比例常数。
 
 #### 定理3：时间箭头的量子基础
 
@@ -112,7 +112,7 @@ $$I_{\text{经典知识}} + S_{\text{经典熵}} \xrightarrow{?} |\psi\rangle_{\
 **形式表达**：
 $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu}(I, S)$$
 
-其中能量-动量张量$T_{\mu\nu}$是经典信息$I$和经典熵$S$的函数。
+其中能量-动量张量$`T_{\mu\nu}`$是经典信息$`I`$和经典熵$`S`$的函数。
 
 **证明**：
 
@@ -124,7 +124,7 @@ $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu}(I, S)$$
 
 3. 高信息密度区域时间流速变慢，形成"信息引力井"：
    $$\frac{d\tau}{dt} = \sqrt{1 - \frac{2GM(I)}{rc^2}}$$
-   其中$M(I)$是信息等效质量。
+   其中$`M(I)`$是信息等效质量。
 
 4. 这解释了为什么大质量天体（高信息密度）附近时间流速变慢，以及黑洞（极高信息密度）内部的时间膨胀。
 
@@ -133,7 +133,7 @@ $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu}(I, S)$$
 **定理**：不同尺度系统的时间箭头通过信息流动协调一致。
 
 **形式表达**：
-如果$\vec{T}_A$和$\vec{T}_B$是两个相互作用系统的时间箭头，则在信息交换后：
+如果$`\vec{T}_A`$和$`\vec{T}_B`$是两个相互作用系统的时间箭头，则在信息交换后：
 $$\vec{T}_{A+B} = \frac{I_A\vec{T}_A + I_B\vec{T}_B}{I_A + I_B}$$
 
 **证明**：
@@ -153,11 +153,11 @@ $$\vec{T}_{A+B} = \frac{I_A\vec{T}_A + I_B\vec{T}_B}{I_A + I_B}$$
 
 #### 应用与预测
 
-1. **记忆与时间感知**：公式$\frac{dt_{\text{主观}}}{dt_{\text{客观}}} \propto \frac{1}{D_O \cdot \frac{dI_{\text{观察者}}}{dt_{\text{客观}}}}$预测丰富信息环境中时间感知变慢，而重复单调环境中主观时间感知加速，与心理学实验结果一致。
+1. **记忆与时间感知**：公式$`\frac{dt_{\text{主观}}}{dt_{\text{客观}}} \propto \frac{1}{D_O \cdot \frac{dI_{\text{观察者}}}{dt_{\text{客观}}}}`$预测丰富信息环境中时间感知变慢，而重复单调环境中主观时间感知加速，与心理学实验结果一致。
 
-2. **时间非对称性实验**：基于公式$\frac{dS_{\text{总体}}}{dt} = \frac{dS_{\text{环境}}}{dt} - \frac{dI_{\text{观察者}}}{dt}$，预测在特定条件下，量子系统可以表现出局部"反时间"演化，可通过量子退相干反转实验验证。
+2. **时间非对称性实验**：基于公式$`\frac{dS_{\text{总体}}}{dt} = \frac{dS_{\text{环境}}}{dt} - \frac{dI_{\text{观察者}}}{dt}`$，预测在特定条件下，量子系统可以表现出局部"反时间"演化，可通过量子退相干反转实验验证。
 
-3. **信息密度与时间流速**：根据$g_{00} \propto \rho_I = \frac{I}{V}$，预测高信息处理密度区域（如量子计算机、神经元密集区）可能表现出微小但可测量的时间膨胀效应。
+3. **信息密度与时间流速**：根据$`g_{00} \propto \rho_I = \frac{I}{V}`$，预测高信息处理密度区域（如量子计算机、神经元密集区）可能表现出微小但可测量的时间膨胀效应。
 
 ### 结论
 
@@ -217,7 +217,7 @@ $$\frac{dS_{\text{Total}}}{dt} > 0 \iff \frac{dS_{\text{Environment}}}{dt} > \fr
 **Formal Expression**:
 $$\frac{dt_{\text{Subjective}}}{dt_{\text{Objective}}} \propto \frac{1}{D_O \cdot \frac{dI_{\text{Observer}}}{dt_{\text{Objective}}}}$$
 
-where $dt_{\text{Subjective}}$ is subjective time, and $dt_{\text{Objective}}$ is objective time.
+where $`dt_{\text{Subjective}}`$ is subjective time, and $`dt_{\text{Objective}}`$ is objective time.
 
 **Proof**:
 
@@ -234,7 +234,7 @@ where $dt_{\text{Subjective}}$ is subjective time, and $dt_{\text{Objective}}$ i
 
 5. The formula takes the form of an inverse relationship:
    $$\frac{dt_{\text{Subjective}}}{dt_{\text{Objective}}} = \frac{C}{D_O \cdot \frac{dI_{\text{Observer}}}{dt_{\text{Objective}}}}$$
-   where $C$ is a proportionality constant.
+   where $`C`$ is a proportionality constant.
 
 #### Theorem 3: The Quantum Foundation of the Arrow of Time
 
@@ -270,7 +270,7 @@ requires external intervention from a higher-dimensional observer to be realized
 **Formal Expression**:
 $$R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = \frac{8\pi G}{c^4}T_{\mu\nu}(I, S)$$
 
-where the energy-momentum tensor $T_{\mu\nu}$ is a function of classical information $I$ and classical entropy $S$.
+where the energy-momentum tensor $`T_{\mu\nu}`$ is a function of classical information $`I`$ and classical entropy $`S`$.
 
 **Proof**:
 
@@ -282,7 +282,7 @@ where the energy-momentum tensor $T_{\mu\nu}$ is a function of classical informa
 
 3. Areas of high information density experience slower time flow, forming "information gravity wells":
    $$\frac{d\tau}{dt} = \sqrt{1 - \frac{2GM(I)}{rc^2}}$$
-   where $M(I)$ is the information equivalent mass.
+   where $`M(I)`$ is the information equivalent mass.
 
 4. This explains why time flows more slowly near massive celestial bodies (high information density), and the time dilation inside black holes (extremely high information density).
 
@@ -291,7 +291,7 @@ where the energy-momentum tensor $T_{\mu\nu}$ is a function of classical informa
 **Theorem**: The arrows of time of systems at different scales are coordinated through information flow.
 
 **Formal Expression**:
-If $\vec{T}_A$ and $\vec{T}_B$ are the arrows of time of two interacting systems, then after information exchange:
+If $`\vec{T}_A`$ and $`\vec{T}_B`$ are the arrows of time of two interacting systems, then after information exchange:
 $$\vec{T}_{A+B} = \frac{I_A\vec{T}_A + I_B\vec{T}_B}{I_A + I_B}$$
 
 **Proof**:
@@ -311,11 +311,11 @@ $$\vec{T}_{A+B} = \frac{I_A\vec{T}_A + I_B\vec{T}_B}{I_A + I_B}$$
 
 #### Applications and Predictions
 
-1. **Memory and Time Perception**: The formula $\frac{dt_{\text{Subjective}}}{dt_{\text{Objective}}} \propto \frac{1}{D_O \cdot \frac{dI_{\text{Observer}}}{dt_{\text{Objective}}}}$ predicts that time perception slows down in information-rich environments, while subjective time perception accelerates in repetitive monotonous environments, consistent with psychological experimental results.
+1. **Memory and Time Perception**: The formula $`\frac{dt_{\text{Subjective}}}{dt_{\text{Objective}}} \propto \frac{1}{D_O \cdot \frac{dI_{\text{Observer}}}{dt_{\text{Objective}}}}`$ predicts that time perception slows down in information-rich environments, while subjective time perception accelerates in repetitive monotonous environments, consistent with psychological experimental results.
 
-2. **Time Asymmetry Experiments**: Based on the formula $\frac{dS_{\text{Total}}}{dt} = \frac{dS_{\text{Environment}}}{dt} - \frac{dI_{\text{Observer}}}{dt}$, it is predicted that under specific conditions, quantum systems can exhibit local "reverse time" evolution, which can be verified through quantum decoherence reversal experiments.
+2. **Time Asymmetry Experiments**: Based on the formula $`\frac{dS_{\text{Total}}}{dt} = \frac{dS_{\text{Environment}}}{dt} - \frac{dI_{\text{Observer}}}{dt}`$, it is predicted that under specific conditions, quantum systems can exhibit local "reverse time" evolution, which can be verified through quantum decoherence reversal experiments.
 
-3. **Information Density and Time Flow Rate**: According to $g_{00} \propto \rho_I = \frac{I}{V}$, it is predicted that areas of high information processing density (such as quantum computers, densely populated neuronal regions) may exhibit small but measurable time dilation effects.
+3. **Information Density and Time Flow Rate**: According to $`g_{00} \propto \rho_I = \frac{I}{V}`$, it is predicted that areas of high information processing density (such as quantum computers, densely populated neuronal regions) may exhibit small but measurable time dilation effects.
 
 ### Conclusion
 

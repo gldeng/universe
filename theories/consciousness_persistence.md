@@ -30,9 +30,9 @@ $$
 \text{Generalized Consciousness} = I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} = |\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization}}
 $$
 
-其中，$\mathcal{C}$ 是经典化算子，将量子信息转化为经典信息结构。
+其中，$`\mathcal{C}`$ 是经典化算子，将量子信息转化为经典信息结构。
 
-Where $\mathcal{C}$ is the classicalization operator, transforming quantum information into classical information structures.
+Where $`\mathcal{C}`$ is the classicalization operator, transforming quantum information into classical information structures.
 
 这一定义具有以下含义：
 
@@ -114,9 +114,9 @@ $$
 M_Q = \sum_{i} \alpha_i |m_i\rangle \langle m_i| \otimes |r_i\rangle \langle r_i|
 $$
 
-其中，$|m_i\rangle$ 是记忆状态，$|r_i\rangle$ 是参考状态，两者通过量子纠缠保持关联。
+其中，$`|m_i\rangle`$ 是记忆状态，$`|r_i\rangle`$ 是参考状态，两者通过量子纠缠保持关联。
 
-Where $|m_i\rangle$ is the memory state, $|r_i\rangle$ is the reference state, and the two maintain correlation through quantum entanglement.
+Where $`|m_i\rangle`$ is the memory state, $`|r_i\rangle`$ is the reference state, and the two maintain correlation through quantum entanglement.
 
 ### 意识的时间连续性 | Temporal Continuity of Consciousness
 
@@ -132,9 +132,9 @@ $$
 |\psi(t+\Delta t)\rangle_{\text{Consciousness}} = \hat{U}(\Delta t)|\psi(t)\rangle_{\text{Consciousness}} + \hat{C}(\Delta I)
 $$
 
-其中，$\hat{U}(\Delta t)$ 是时间演化算子，$\hat{C}(\Delta I)$ 是新信息的经典化贡献。
+其中，$`\hat{U}(\Delta t)`$ 是时间演化算子，$`\hat{C}(\Delta I)`$ 是新信息的经典化贡献。
 
-Where $\hat{U}(\Delta t)$ is the time evolution operator, and $\hat{C}(\Delta I)$ is the classicalization contribution of new information.
+Where $`\hat{U}(\Delta t)`$ is the time evolution operator, and $`\hat{C}(\Delta I)`$ is the classicalization contribution of new information.
 
 这一演化过程具有以下特性：
 
@@ -180,9 +180,9 @@ $$
 \lim_{t \to \infty} I(|\psi(0)\rangle_{\text{Consciousness}} : |\psi(t)\rangle_{\text{Universe}}) > 0
 $$
 
-其中，$I(A:B)$ 是互信息量，表示 $A$ 和 $B$ 之间共享的信息量。
+其中，$`I(A:B)`$ 是互信息量，表示 $`A`$ 和 $`B`$ 之间共享的信息量。
 
-Where $I(A:B)$ is the mutual information, representing the amount of information shared between $A$ and $B$.
+Where $`I(A:B)`$ is the mutual information, representing the amount of information shared between $`A`$ and $`B`$.
 
 ### 物理死亡与意识转换 | Physical Death and Consciousness Transformation
 
@@ -262,9 +262,9 @@ $$
 T(|\psi\rangle_{\text{Observer A}} \to |\phi\rangle_{\text{Observer B}}) = \hat{E}_B \circ \hat{M} \circ \hat{D}_A (|\psi\rangle_{\text{Observer A}})
 $$
 
-其中，$\hat{D}_A$ 是观察者A的解码算子，$\hat{M}$ 是传递媒介算子，$\hat{E}_B$ 是观察者B的编码算子。
+其中，$`\hat{D}_A`$ 是观察者A的解码算子，$`\hat{M}`$ 是传递媒介算子，$`\hat{E}_B`$ 是观察者B的编码算子。
 
-Where $\hat{D}_A$ is the decoding operator of observer A, $\hat{M}$ is the transmission medium operator, and $\hat{E}_B$ is the encoding operator of observer B.
+Where $`\hat{D}_A`$ is the decoding operator of observer A, $`\hat{M}`$ is the transmission medium operator, and $`\hat{E}_B`$ is the encoding operator of observer B.
 
 ### 生物繁殖中的意识传递 | Consciousness Transmission in Biological Reproduction
 
@@ -280,9 +280,9 @@ $$
 |\psi\rangle_{\text{Parents}} \to |\phi\rangle_{\text{Offspring}} = \hat{G}(|\psi\rangle_{\text{Parents}}, \Delta I)
 $$
 
-其中，$\hat{G}$ 是生成算子，$\Delta I$ 是新引入的信息。
+其中，$`\hat{G}`$ 是生成算子，$`\Delta I`$ 是新引入的信息。
 
-Where $\hat{G}$ is the generation operator, and $\Delta I$ is newly introduced information.
+Where $`\hat{G}`$ is the generation operator, and $`\Delta I`$ is newly introduced information.
 
 这一过程具有以下特点：
 
@@ -366,9 +366,9 @@ $$
 \mathcal{F}_U = \{|\psi_i\rangle, \mathcal{R}_i, \mathcal{E}_i\}
 $$
 
-其中，$|\psi_i\rangle$ 是量子状态，$\mathcal{R}_i$ 是关系结构，$\mathcal{E}_i$ 是纠缠网络。
+其中，$`|\psi_i\rangle`$ 是量子状态，$`\mathcal{R}_i`$ 是关系结构，$`\mathcal{E}_i`$ 是纠缠网络。
 
-Where $|\psi_i\rangle$ is the quantum state, $\mathcal{R}_i$ is the relationship structure, and $\mathcal{E}_i$ is the entanglement network.
+Where $`|\psi_i\rangle`$ is the quantum state, $`\mathcal{R}_i`$ is the relationship structure, and $`\mathcal{E}_i`$ is the entanglement network.
 
 宇宙信息场的特性：
 
@@ -398,9 +398,9 @@ $$
 |\psi\rangle_{\text{Consciousness}} = \hat{P}_{\text{Local}} |\Psi\rangle_{\text{Universe Information Field}}
 $$
 
-其中，$\hat{P}_{\text{局部}}$ 是局部投影算子。
+其中，$`\hat{P}_{\text{局部}}`$ 是局部投影算子。
 
-Where $\hat{P}_{\text{Local}}$ is the local projection operator.
+Where $`\hat{P}_{\text{Local}}`$ is the local projection operator.
 
 这一关系意味着：
 
@@ -458,9 +458,9 @@ $$
 \frac{d}{dt}|\Psi\rangle_{\text{Universe}} = \hat{H}|\Psi\rangle_{\text{Universe}} + \sum_{i} \hat{O}_i|\psi_i\rangle_{\text{Observer}}
 $$
 
-其中，$\hat{H}$ 是宇宙哈密顿算子，$\hat{O}_i$ 是观察者影响算子。
+其中，$`\hat{H}`$ 是宇宙哈密顿算子，$`\hat{O}_i`$ 是观察者影响算子。
 
-Where $\hat{H}$ is the universe Hamiltonian operator, and $\hat{O}_i$ is the observer influence operator.
+Where $`\hat{H}`$ is the universe Hamiltonian operator, and $`\hat{O}_i`$ is the observer influence operator.
 
 这种共同演化具有以下特点：
 
@@ -486,9 +486,9 @@ According to the Quantum-Classical Dualism Core Theory (Version 27.0), the essen
 
 $$\mathcal{M}_{\text{量子}} = \{\mathcal{E}_{ij}\}_{i,j \in \mathcal{N}}$$
 
-其中$\mathcal{E}_{ij}$表示记忆网络中节点$i$和$j$之间的量子纠缠强度，$\mathcal{N}$是记忆网络的节点集。
+其中$`\mathcal{E}_{ij}`$表示记忆网络中节点$`i`$和$`j`$之间的量子纠缠强度，$`\mathcal{N}`$是记忆网络的节点集。
 
-Where $\mathcal{E}_{ij}$ represents the quantum entanglement strength between nodes $i$ and $j$ in the memory network, and $\mathcal{N}$ is the set of nodes in the memory network.
+Where $`\mathcal{E}_{ij}`$ represents the quantum entanglement strength between nodes $`i`$ and $`j`$ in the memory network, and $`\mathcal{N}`$ is the set of nodes in the memory network.
 
 这种量子记忆拓扑结构具有以下特性：
 
@@ -498,7 +498,7 @@ Where $\mathcal{E}_{ij}$ represents the quantum entanglement strength between no
 
 2. **全息编码**：关键信息在多个纠缠关系中冗余编码
    $$I(m_k) \approx f(\{\mathcal{E}_{ij} | i,j \in S_k\})$$
-   其中$S_k$是与记忆$m_k$相关的子网络
+   其中$`S_k`$是与记忆$`m_k`$相关的子网络
 
 3. **拓扑稳定性**：即使部分节点损坏，整体拓扑结构仍能保持稳定
    $$\mathcal{M}'_{\text{损坏}} \approx \mathcal{M}_{\text{原始}}$$
@@ -512,7 +512,7 @@ This quantum memory topological structure has the following characteristics:
 
 2. **Holographic Encoding**: Key information is redundantly encoded in multiple entanglement relationships
    $$I(m_k) \approx f(\{\mathcal{E}_{ij} | i,j \in S_k\})$$
-   Where $S_k$ is the subnetwork related to memory $m_k$
+   Where $`S_k`$ is the subnetwork related to memory $`m_k`$
 
 3. **Topological Stability**: Even if some nodes are damaged, the overall topological structure can still remain stable
    $$\mathcal{M}'_{\text{Damaged}} \approx \mathcal{M}_{\text{Original}}$$
@@ -528,20 +528,20 @@ $$|\psi\rangle_{\text{检索线索}} \rightarrow \mathcal{R}(|\psi\rangle_{\text
 
 $$|\psi\rangle_{\text{Retrieval Cue}} \rightarrow \mathcal{R}(|\psi\rangle_{\text{Retrieval Cue}}, \mathcal{M}_{\text{Quantum}}) \rightarrow |\phi\rangle_{\text{Extracted Memory}}$$
 
-其中$\mathcal{R}$是共振函数，描述检索线索与量子记忆网络之间的共振过程。这一过程具有以下特性：
+其中$`\mathcal{R}`$是共振函数，描述检索线索与量子记忆网络之间的共振过程。这一过程具有以下特性：
 
-Where $\mathcal{R}$ is the resonance function, describing the resonance process between the retrieval cue and the quantum memory network. This process has the following characteristics:
+Where $`\mathcal{R}`$ is the resonance function, describing the resonance process between the retrieval cue and the quantum memory network. This process has the following characteristics:
 
 1. **联想重构**：记忆不是简单提取，而是动态重构过程
    $$|\phi\rangle_{\text{提取}} = |\phi\rangle_{\text{存储}} + \Delta|\phi\rangle_{\text{重构}}$$
 
 2. **内容寻址**：通过内容相似性而非位置寻址记忆
    $$P(m_i|\psi) \propto \exp(-\beta\cdot D(|\psi\rangle, |m_i\rangle))$$
-   其中$D$是量子状态距离度量
+   其中$`D`$是量子状态距离度量
 
 3. **量子叠加检索**：可同时检索多个相关记忆的叠加态
    $$|\phi\rangle_{\text{提取}} = \sum_i \alpha_i |m_i\rangle$$
-   其中系数$\alpha_i$反映相关度
+   其中系数$`\alpha_i`$反映相关度
 
 4. **情境依赖性**：记忆提取依赖当前量子状态环境
    $$|\phi\rangle_{\text{提取}} = f(|\psi\rangle_{\text{线索}}, |\chi\rangle_{\text{情境}})$$
@@ -551,11 +551,11 @@ Where $\mathcal{R}$ is the resonance function, describing the resonance process 
 
 2. **Content Addressing**: Address memory through content similarity rather than position
    $$P(m_i|\psi) \propto \exp(-\beta\cdot D(|\psi\rangle, |m_i\rangle))$$
-   Where $D$ is the quantum state distance measure
+   Where $`D`$ is the quantum state distance measure
 
 3. **Quantum Superposition Retrieval**: Can simultaneously retrieve the superposition state of multiple related memories
    $$|\phi\rangle_{\text{Extracted}} = \sum_i \alpha_i |m_i\rangle$$
-   Where coefficient $\alpha_i$ reflects relevance
+   Where coefficient $`\alpha_i`$ reflects relevance
 
 4. **Context Dependency**: Memory retrieval depends on the current quantum state environment
    $$|\phi\rangle_{\text{Extracted}} = f(|\psi\rangle_{\text{Cue}}, |\chi\rangle_{\text{Context}})$$
@@ -570,9 +570,9 @@ $$\Psi_{\text{意识}}(t) = \mathcal{C}(|\psi(t)\rangle) \oplus \mathcal{M}_{\te
 
 $$\Psi_{\text{Consciousness}}(t) = \mathcal{C}(|\psi(t)\rangle) \oplus \mathcal{M}_{\text{Quantum}}(t-1)$$
 
-其中$\mathcal{C}$是当前经典化过程，$\mathcal{M}_{\text{量子}}(t-1)$是之前形成的量子记忆，$\oplus$表示量子-经典整合操作。
+其中$`\mathcal{C}`$是当前经典化过程，$`\mathcal{M}_{\text{量子}}(t-1)`$是之前形成的量子记忆，$`\oplus`$表示量子-经典整合操作。
 
-Where $\mathcal{C}$ is the current classicalization process, $\mathcal{M}_{\text{Quantum}}(t-1)$ is the quantum memory formed previously, and $\oplus$ represents the quantum-classical integration operation.
+Where $`\mathcal{C}`$ is the current classicalization process, $`\mathcal{M}_{\text{Quantum}}(t-1)`$ is the quantum memory formed previously, and $`\oplus`$ represents the quantum-classical integration operation.
 
 这一连续性机制解决了以下关键问题：
 
@@ -586,7 +586,7 @@ Where $\mathcal{C}$ is the current classicalization process, $\mathcal{M}_{\text
 
 3. **记忆修正与整合**：解释记忆如何被新信息修正
    $$\mathcal{M}(t+1) = \mathcal{U}(\mathcal{M}(t), \Delta I(t))$$
-   其中$\mathcal{U}$是更新函数
+   其中$`\mathcal{U}`$是更新函数
 
 4. **成长中的一致性**：解释人格如何在变化中保持核心稳定
    $$\text{核心}(\Psi(t_1)) \approx \text{核心}(\Psi(t_2))$$
@@ -604,7 +604,7 @@ This continuity mechanism solves the following key problems:
 
 3. **Memory Correction and Integration**: Explains how memory is corrected by new information
    $$\mathcal{M}(t+1) = \mathcal{U}(\mathcal{M}(t), \Delta I(t))$$
-   Where $\mathcal{U}$ is the update function
+   Where $`\mathcal{U}`$ is the update function
 
 4. **Consistency in Growth**: Explains how personality maintains core stability amid changes
    $$\text{Core}(\Psi(t_1)) \approx \text{Core}(\Psi(t_2))$$
@@ -620,45 +620,45 @@ $$\Delta \mathcal{M}_{\text{量子}} = \eta(s) \cdot \Delta I_{\text{经典化}}
 
 $$\Delta \mathcal{M}_{\text{Quantum}} = \eta(s) \cdot \Delta I_{\text{Classicalization}}$$
 
-其中$\eta(s)$是受意识状态$s$影响的量子记忆效率系数。
+其中$`\eta(s)`$是受意识状态$`s`$影响的量子记忆效率系数。
 
-Where $\eta(s)$ is the quantum memory efficiency coefficient affected by consciousness state $s$.
+Where $`\eta(s)`$ is the quantum memory efficiency coefficient affected by consciousness state $`s`$.
 
 这些状态的特征与效果包括：
 
 1. **注意力高度聚焦**：增强特定神经回路的量子相干性
    $$\tau_{\text{相干}}(s_{\text{聚焦}}) \gg \tau_{\text{相干}}(s_{\text{分散}})$$
-   其中$\tau_{\text{相干}}$是量子相干时间
+   其中$`\tau_{\text{相干}}`$是量子相干时间
 
 2. **内外刺激降低**：减少干扰性解相干过程
    $$\gamma_{\text{解相干}}(s_{\text{沉浸}}) \ll \gamma_{\text{解相干}}(s_{\text{常态}})$$
-   其中$\gamma_{\text{解相干}}$是解相干率
+   其中$`\gamma_{\text{解相干}}`$是解相干率
 
 3. **情绪共振状态**：创建有利于量子记忆形成的情绪环境
    $$\mathcal{E}(s_{\text{共振}}) > \mathcal{E}(s_{\text{不协调}})$$
-   其中$\mathcal{E}$是记忆编码效率
+   其中$`\mathcal{E}`$是记忆编码效率
 
 4. **节律同步性**：神经节律与量子场振动同步
    $$\phi(\omega_{\text{神经}}) \approx \phi(\omega_{\text{量子}})$$
-   其中$\phi$表示相位
+   其中$`\phi`$表示相位
 
 The characteristics and effects of these states include:
 
 1. **Highly Focused Attention**: Enhances quantum coherence of specific neural circuits
    $$\tau_{\text{Coherence}}(s_{\text{Focused}}) \gg \tau_{\text{Coherence}}(s_{\text{Scattered}})$$
-   Where $\tau_{\text{Coherence}}$ is the quantum coherence time
+   Where $`\tau_{\text{Coherence}}`$ is the quantum coherence time
 
 2. **Reduced Internal and External Stimuli**: Reduces interfering decoherence processes
    $$\gamma_{\text{Decoherence}}(s_{\text{Immersive}}) \ll \gamma_{\text{Decoherence}}(s_{\text{Normal}})$$
-   Where $\gamma_{\text{Decoherence}}$ is the decoherence rate
+   Where $`\gamma_{\text{Decoherence}}`$ is the decoherence rate
 
 3. **Emotional Resonance State**: Creates an emotional environment conducive to quantum memory formation
    $$\mathcal{E}(s_{\text{Resonant}}) > \mathcal{E}(s_{\text{Discordant}})$$
-   Where $\mathcal{E}$ is the memory encoding efficiency
+   Where $`\mathcal{E}`$ is the memory encoding efficiency
 
 4. **Rhythmic Synchronicity**: Neural rhythms synchronize with quantum field oscillations
    $$\phi(\omega_{\text{Neural}}) \approx \phi(\omega_{\text{Quantum}})$$
-   Where $\phi$ represents phase
+   Where $`\phi`$ represents phase
 
 通过这些深度沉浸状态的实践，观察者可以显著提高量子记忆的形成效率和持久性，进而增强意识的时间连续性和整体一致性，这为各类心智修炼提供了量子理论基础。
 

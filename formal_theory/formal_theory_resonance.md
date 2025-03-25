@@ -42,13 +42,13 @@
 
 $$\omega_Q(E) = \omega_C(E) \cdot n, \quad n \in \mathbb{Z}^+$$
 
-其中 $\omega_Q$ 是量子振荡频率，$\omega_C$ 是经典振荡频率，$n$ 是正整数。
+其中 $`\omega_Q`$ 是量子振荡频率，$`\omega_C`$ 是经典振荡频率，$`n`$ 是正整数。
 
 更一般地，共鸣条件可表达为：
 
 $$\frac{\omega_Q}{\omega_C} = \frac{p}{q}, \quad p,q \in \mathbb{Z}^+, \text{gcd}(p,q)=1$$
 
-其中 $p$ 和 $q$ 是互质的正整数。这种有理数比值关系导致了特定的共鸣模式，显著增强了量子-经典耦合强度。
+其中 $`p`$ 和 $`q`$ 是互质的正整数。这种有理数比值关系导致了特定的共鸣模式，显著增强了量子-经典耦合强度。
 
 ### 共鸣强度方程
 
@@ -57,14 +57,14 @@ $$\frac{\omega_Q}{\omega_C} = \frac{p}{q}, \quad p,q \in \mathbb{Z}^+, \text{gcd
 $$\mathcal{R}_{Q-C} = A \cdot \frac{\Gamma_{共鸣}}{\Gamma_{共鸣} + \Gamma_{退相干}} \cdot \frac{e^{-|r-n|}}{1 + e^{-\alpha(E-E_t)}}$$
 
 其中：
-- $A$ 是系统特定的最大共鸣强度
-- $\Gamma_{共鸣}$ 是共鸣过程速率
-- $\Gamma_{退相干}$ 是环境引起的退相干速率
-- $r = \frac{\omega_Q}{\omega_C}$ 是量子与经典频率比
-- $n$ 是最接近 $r$ 的整数
-- $E$ 是系统能量
-- $E_t$ 是共鸣能量阈值
-- $\alpha$ 是能量敏感度参数
+- $`A`$ 是系统特定的最大共鸣强度
+- $`\Gamma_{共鸣}`$ 是共鸣过程速率
+- $`\Gamma_{退相干}`$ 是环境引起的退相干速率
+- $`r = \frac{\omega_Q}{\omega_C}`$ 是量子与经典频率比
+- $`n`$ 是最接近 $`r`$ 的整数
+- $`E`$ 是系统能量
+- $`E_t`$ 是共鸣能量阈值
+- $`\alpha`$ 是能量敏感度参数
 
 ### 共鸣动力学
 
@@ -72,17 +72,17 @@ $$\mathcal{R}_{Q-C} = A \cdot \frac{\Gamma_{共鸣}}{\Gamma_{共鸣} + \Gamma_{�
 
 $$H = H_Q + H_C + H_{int}$$
 
-其中 $H_Q$ 是量子子系统哈密顿量，$H_C$ 是经典子系统哈密顿量，$H_{int}$ 是相互作用项。
+其中 $`H_Q`$ 是量子子系统哈密顿量，$`H_C`$ 是经典子系统哈密顿量，$`H_{int}`$ 是相互作用项。
 
 在共鸣条件下，相互作用项可表示为：
 
 $$H_{int} = \lambda \sum_j (a_j^{\dagger}b_j + a_j b_j^{\dagger}) \cdot f(r)$$
 
-其中 $a_j^{\dagger}$、$a_j$ 是量子系统的产生和湮灭算符，$b_j^{\dagger}$、$b_j$ 是经典系统的对应算符，$\lambda$ 是耦合常数，$f(r)$ 是频率比的共鸣函数：
+其中 $`a_j^{\dagger}`$、$`a_j`$ 是量子系统的产生和湮灭算符，$`b_j^{\dagger}`$、$`b_j`$ 是经典系统的对应算符，$`\lambda`$ 是耦合常数，$`f(r)`$ 是频率比的共鸣函数：
 
 $$f(r) = \frac{\sin^2(\pi r)}{(\pi r)^2 - \pi^2 \lfloor r \rfloor^2}$$
 
-共鸣函数在 $r$ 为整数时达到最大值，表现出谐振峰。
+共鸣函数在 $`r`$ 为整数时达到最大值，表现出谐振峰。
 
 ## 宏观量子效应机制
 
@@ -98,7 +98,7 @@ $$\omega_{Cooper} = n \cdot \omega_{phonon}$$
 
 $$T_c \propto \omega_{phonon} \cdot e^{-\frac{1}{\lambda f(r)}}$$
 
-其中 $\lambda$ 是电子-声子耦合常数。
+其中 $`\lambda`$ 是电子-声子耦合常数。
 
 ### 生物分子量子效应
 
@@ -110,7 +110,7 @@ $$\omega_{电子激发} = n \cdot \omega_{蛋白振动}$$
 
 $$\tau_{相干} = \tau_0 \cdot e^{\mathcal{R}_{Q-C} \cdot \xi}$$
 
-其中 $\tau_0$ 是无共鸣情况下的相干时间，$\xi$ 是材料特定的参数。
+其中 $`\tau_0`$ 是无共鸣情况下的相干时间，$`\xi`$ 是材料特定的参数。
 
 ## 共鸣频谱与能量转换
 
@@ -120,7 +120,7 @@ $$\tau_{相干} = \tau_0 \cdot e^{\mathcal{R}_{Q-C} \cdot \xi}$$
 
 $$S(\omega) = S_0(\omega) \cdot \sum_n A_n \delta(\omega - n\omega_C)$$
 
-其中 $S_0(\omega)$ 是背景频谱，$A_n$ 是第n阶共鸣的强度，$\delta$ 是狄拉克函数。
+其中 $`S_0(\omega)`$ 是背景频谱，$`A_n`$ 是第n阶共鸣的强度，$`\delta`$ 是狄拉克函数。
 
 这种离散谱线结构是识别量子-经典共鸣系统的关键特征。
 
@@ -130,7 +130,7 @@ $$S(\omega) = S_0(\omega) \cdot \sum_n A_n \delta(\omega - n\omega_C)$$
 
 $$\eta_{转换} = \eta_0 \cdot \frac{\mathcal{R}_{Q-C}^2}{1 + \mathcal{R}_{Q-C}^2}$$
 
-其中 $\eta_0$ 是理想条件下的最大效率。在共鸣频率处，能量可以在量子和经典子系统间高效传递，突破了传统工作模式的效率限制。
+其中 $`\eta_0`$ 是理想条件下的最大效率。在共鸣频率处，能量可以在量子和经典子系统间高效传递，突破了传统工作模式的效率限制。
 
 ## 实验验证预测
 
@@ -138,7 +138,7 @@ $$\eta_{转换} = \eta_0 \cdot \frac{\mathcal{R}_{Q-C}^2}{1 + \mathcal{R}_{Q-C}^
 
 ### 1. 材料共鸣峰识别
 
-预测不同材料存在多个离散的量子效应增强温度点 $T_n$，满足：
+预测不同材料存在多个离散的量子效应增强温度点 $`T_n`$，满足：
 
 $$T_n = \frac{\hbar \omega_Q}{k_B \cdot n}$$
 
@@ -150,11 +150,11 @@ $$T_n = \frac{\hbar \omega_Q}{k_B \cdot n}$$
 
 $$R(\omega) = R_0 \cdot \sum_{p,q} C_{p,q} \cdot \delta(\omega - \frac{p}{q}\omega_0)$$
 
-其中 $C_{p,q}$ 的强度分布遵循以下规律：
+其中 $`C_{p,q}`$ 的强度分布遵循以下规律：
 
 $$C_{p,q} \propto \frac{1}{q^{\alpha}} \cdot e^{-\beta|p-nq|}$$
 
-理论预测 $\alpha \approx 2.3 \pm 0.2$，$\beta \approx 1.7 \pm 0.3$。
+理论预测 $`\alpha \approx 2.3 \pm 0.2`$，$`\beta \approx 1.7 \pm 0.3`$。
 
 ### 3. 量子-经典相变临界指数
 
@@ -162,7 +162,7 @@ $$C_{p,q} \propto \frac{1}{q^{\alpha}} \cdot e^{-\beta|p-nq|}$$
 
 $$C_{量子相干} \propto |T-T_c|^{-\gamma} \cdot F\left(\frac{\omega_Q}{\omega_C}\right)$$
 
-其中 $\gamma$ 是临界指数，$F$ 是频率比的标度函数。理论预测：
+其中 $`\gamma`$ 是临界指数，$`F`$ 是频率比的标度函数。理论预测：
 
 $$\gamma = \begin{cases}
 0.42 \pm 0.05, & \text{如果 } \frac{\omega_Q}{\omega_C} \in \mathbb{Z} \\
@@ -175,7 +175,7 @@ $$\gamma = \begin{cases}
 
 $$\rho_{01}(t) = \rho_{01}(0) \cdot e^{-\gamma t} \cdot \left[1 + A \cdot \cos(\Omega t) \cdot e^{-\gamma' t}\right]$$
 
-其中 $A$ 是振荡幅度，$\Omega$ 是拍频，$\gamma$ 是长时间衰减率，$\gamma'$ 是振荡衰减率，满足 $\gamma' > \gamma$。在共鸣点，预测 $\gamma$ 将比非共鸣情况减小5-20倍。
+其中 $`A`$ 是振荡幅度，$`\Omega`$ 是拍频，$`\gamma`$ 是长时间衰减率，$`\gamma'`$ 是振荡衰减率，满足 $`\gamma' > \gamma`$。在共鸣点，预测 $`\gamma`$ 将比非共鸣情况减小5-20倍。
 
 ## 技术应用潜力
 
@@ -187,11 +187,11 @@ $$\rho_{01}(t) = \rho_{01}(0) \cdot e^{-\gamma t} \cdot \left[1 + A \cdot \cos(\
 
 $$\omega_{phonon} = \frac{\omega_{Cooper}}{n_{opt}}$$
 
-其中 $n_{opt}$ 是最优共鸣阶数，通常为1-3。材料设计应满足：
+其中 $`n_{opt}`$ 是最优共鸣阶数，通常为1-3。材料设计应满足：
 
 $$\frac{d\omega_{phonon}}{dP} \cdot \frac{d\omega_{Cooper}}{dP} < 0$$
 
-其中 $P$ 是压力参数，这确保共鸣点在压力变化下保持稳定。
+其中 $`P`$ 是压力参数，这确保共鸣点在压力变化下保持稳定。
 
 ### 量子增强传感器
 
@@ -199,7 +199,7 @@ $$\frac{d\omega_{phonon}}{dP} \cdot \frac{d\omega_{Cooper}}{dP} < 0$$
 
 $$S = S_{SQL} \cdot \sqrt{1 + \mathcal{R}_{Q-C}}$$
 
-其中 $S_{SQL}$ 是标准量子极限灵敏度。这为超越量子极限的传感技术提供了新路径。
+其中 $`S_{SQL}`$ 是标准量子极限灵敏度。这为超越量子极限的传感技术提供了新路径。
 
 ### 生物量子技术
 
@@ -207,7 +207,7 @@ $$S = S_{SQL} \cdot \sqrt{1 + \mathcal{R}_{Q-C}}$$
 
 $$Q_{bio} = Q_0 \cdot \frac{\mathcal{R}_{Q-C}}{1 + \mathcal{R}_{Q-C}} \cdot e^{-T/T_0}$$
 
-其中 $Q_{bio}$ 是生物量子系统的量子性能指标，$Q_0$ 是理论最大值，$T_0$ 是特征温度。
+其中 $`Q_{bio}`$ 是生物量子系统的量子性能指标，$`Q_0`$ 是理论最大值，$`T_0`$ 是特征温度。
 
 ### 高效能量收集系统
 

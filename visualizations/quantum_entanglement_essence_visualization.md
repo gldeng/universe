@@ -263,7 +263,7 @@ $$
 E(\rho_{AB}) = 1 - \max_{\rho_A, \rho_B} F(\rho_{AB}, \rho_A \otimes \rho_B)
 $$
 
-其中，$\rho_{AB}$是量子态密度矩阵，$F$是保真度。
+其中，$`\rho_{AB}`$是量子态密度矩阵，$`F`$是保真度。
 
 可视化为纠缠度量与观察者关系：
 
@@ -294,7 +294,7 @@ $$
 |\Psi_{AB}(x,t)\rangle = \sum_{i,j} c_{ij} |\phi_i(x_A,t_A)\rangle \otimes |\phi_j(x_B,t_B)\rangle
 $$
 
-其中，$|\Psi_{AB}(x,t)\rangle$是时空中的纠缠态，$|\phi_i(x_A,t_A)\rangle$和$|\phi_j(x_B,t_B)\rangle$是在不同时空点的量子态。
+其中，$`|\Psi_{AB}(x,t)\rangle`$是时空中的纠缠态，$`|\phi_i(x_A,t_A)\rangle`$和$`|\phi_j(x_B,t_B)\rangle`$是在不同时空点的量子态。
 
 可视化为纠缠时空网络：
 
@@ -584,7 +584,7 @@ $$
 E(\rho_{AB}) = 1 - \max_{\rho_A, \rho_B} F(\rho_{AB}, \rho_A \otimes \rho_B)
 $$
 
-Where $\rho_{AB}$ is the quantum state density matrix, and $F$ is fidelity.
+Where $`\rho_{AB}`$ is the quantum state density matrix, and $`F`$ is fidelity.
 
 Visualized as the relationship between entanglement measure and observer:
 
@@ -616,7 +616,7 @@ $$
 |\Psi_{AB}(x,t)\rangle = \sum_{i,j} c_{ij} |\phi_i(x_A,t_A)\rangle \otimes |\phi_j(x_B,t_B)\rangle
 $$
 
-Where $|\Psi_{AB}(x,t)\rangle$ is the entangled state in spacetime, and $|\phi_i(x_A,t_A)\rangle$ and $|\phi_j(x_B,t_B)\rangle$ are quantum states at different spacetime points.
+Where $`|\Psi_{AB}(x,t)\rangle`$ is the entangled state in spacetime, and $`|\phi_i(x_A,t_A)\rangle`$ and $`|\phi_j(x_B,t_B)\rangle`$ are quantum states at different spacetime points.
 
 Visualized as an entanglement spacetime network:
 

@@ -11,7 +11,7 @@
 
 #### 1.1 占星符号系统的量子经典信息结构
 
-根据【量子经典二元论】核心理论（版本9.2）第四章"观察者维度与主观意识定义"，经典化效率$(k_i)$是观察者将量子信息经典化为经典知识的能力指标。占星学习提供了一套完整的符号系统，帮助观察者更有效地组织和经典化量子信息。
+根据【量子经典二元论】核心理论（版本9.2）第四章"观察者维度与主观意识定义"，经典化效率$`(k_i)`$是观察者将量子信息经典化为经典知识的能力指标。占星学习提供了一套完整的符号系统，帮助观察者更有效地组织和经典化量子信息。
 
 占星符号系统的信息结构包括：
 
@@ -91,7 +91,7 @@ $$
 \text{经典化优化度} = \sum_{i,j} w_{ij} \cdot |\langle\psi_{\text{行星}_i}|\psi_{\text{行星}_j}\rangle|^2 \cdot \cos(\theta_{ij})
 $$
 
-其中，$\theta_{ij}$为行星$i$与行星$j$之间的相位角度，$w_{ij}$为该相位的权重系数。
+其中，$`\theta_{ij}`$为行星$`i`$与行星$`j`$之间的相位角度，$`w_{ij}`$为该相位的权重系数。
 
 #### 2.3 行运预测与经典化时机选择
 
@@ -137,7 +137,7 @@ $$
    - 第十宫：社会角色与成就的经典化
    - 等等...
 
-2. **领域权重调整**：根据星盘强弱，调整各领域经典化权重$(w_i)$
+2. **领域权重调整**：根据星盘强弱，调整各领域经典化权重$`(w_i)`$
    - 强宫位领域：增加权重，集中经典化资源
    - 弱宫位领域：降低权重或寻求外部辅助
 
@@ -169,7 +169,7 @@ $$
 \text{集体经典化效率} = \frac{1}{N}\sum_{i=1}^{N} k_i \cdot \prod_{j<k} (1 + \alpha_{jk}\cos(\theta_{jk}))
 $$
 
-其中，$N$为集体成员数量，$\alpha_{jk}$为成员$j$与成员$k$之间相位角度$\theta_{jk}$的作用系数。
+其中，$`N`$为集体成员数量，$`\alpha_{jk}`$为成员$`j`$与成员$`k`$之间相位角度$`\theta_{jk}`$的作用系数。
 
 ### 四、占星学实践的实验验证与量化
 
@@ -282,7 +282,7 @@ $$
 
 #### 1.1 Quantum-Classical Information Structure of Astrological Symbol System
 
-According to Chapter IV "Observer Dimension and Subjective Consciousness Definition" of the [Quantum-Classical Dualism] Core Theory (Version 9.2), classicalization efficiency $(k_i)$ is an indicator of an observer's ability to classicalize quantum information into classical knowledge. Astrological learning provides a complete symbol system that helps observers more effectively organize and classicalize quantum information.
+According to Chapter IV "Observer Dimension and Subjective Consciousness Definition" of the [Quantum-Classical Dualism] Core Theory (Version 9.2), classicalization efficiency $`(k_i)`$ is an indicator of an observer's ability to classicalize quantum information into classical knowledge. Astrological learning provides a complete symbol system that helps observers more effectively organize and classicalize quantum information.
 
 Information structure of the astrological symbol system includes:
 
@@ -362,7 +362,7 @@ $$
 \text{Classicalization Optimization Degree} = \sum_{i,j} w_{ij} \cdot |\langle\psi_{\text{Planet}_i}|\psi_{\text{Planet}_j}\rangle|^2 \cdot \cos(\theta_{ij})
 $$
 
-Where $\theta_{ij}$ is the aspect angle between planets $i$ and $j$, and $w_{ij}$ is the weight coefficient of that aspect.
+Where $`\theta_{ij}`$ is the aspect angle between planets $`i`$ and $`j`$, and $`w_{ij}`$ is the weight coefficient of that aspect.
 
 #### 2.3 Transit Prediction and Classicalization Timing Selection
 
@@ -408,7 +408,7 @@ Specific integration methods:
    - Tenth House: Classicalization of social roles and achievements
    - And so on...
 
-2. **Domain Weight Adjustment**: Adjusting classicalization weights $(w_i)$ for various domains based on chart strengths and weaknesses
+2. **Domain Weight Adjustment**: Adjusting classicalization weights $`(w_i)`$ for various domains based on chart strengths and weaknesses
    - Strong house domains: Increase weight, concentrate classicalization resources
    - Weak house domains: Reduce weight or seek external assistance
 
@@ -440,7 +440,7 @@ $$
 \text{Collective Classicalization Efficiency} = \frac{1}{N}\sum_{i=1}^{N} k_i \cdot \prod_{j<k} (1 + \alpha_{jk}\cos(\theta_{jk}))
 $$
 
-Where $N$ is the number of collective members, and $\alpha_{jk}$ is the effect coefficient of the aspect angle $\theta_{jk}$ between members $j$ and $k$.
+Where $`N`$ is the number of collective members, and $`\alpha_{jk}`$ is the effect coefficient of the aspect angle $`\theta_{jk}`$ between members $`j`$ and $`k`$.
 
 ### IV. Experimental Validation and Quantification of Astrological Practice
 

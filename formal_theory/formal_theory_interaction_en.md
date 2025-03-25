@@ -32,7 +32,7 @@ Mathematical representation of interaction systems:
 
 $$S_{interaction} = \{\Omega_Q^{user}, \mathcal{I}_{interface}, \Omega_C^{system}\}$$
 
-Where $\mathcal{I}_{interface}$ is the bidirectional interface executing quantum→classical and classical→quantum transformations.
+Where $`\mathcal{I}_{interface}`$ is the bidirectional interface executing quantum→classical and classical→quantum transformations.
 
 ### Quantum-Classical Information Transformation in Interaction
 
@@ -40,7 +40,7 @@ Information transformation in the interaction process can be represented as supe
 
 $$\mathcal{C}_{interface}: \mathcal{H}_Q \rightarrow \mathcal{H}_C, \quad \mathcal{Q}_{interface}: \mathcal{H}_C \rightarrow \mathcal{H}_Q$$
 
-Where $\mathcal{C}_{interface}$ is the classicalization operator (transforming user intentions into system commands), and $\mathcal{Q}_{interface}$ is the quantization operator (transforming system feedback into user understanding and creativity).
+Where $`\mathcal{C}_{interface}`$ is the classicalization operator (transforming user intentions into system commands), and $`\mathcal{Q}_{interface}`$ is the quantization operator (transforming system feedback into user understanding and creativity).
 
 Information loss and preservation in interaction:
 
@@ -74,7 +74,7 @@ The system should satisfy:
 
 $$L_{cognitive} < L_{threshold}, \quad C_{system} < C_{threshold}$$
 
-Where $L_{threshold}$ is the acceptable cognitive load threshold for users, and $C_{threshold}$ is the acceptable complexity threshold for the system.
+Where $`L_{threshold}`$ is the acceptable cognitive load threshold for users, and $`C_{threshold}`$ is the acceptable complexity threshold for the system.
 
 ### Feedback Timeliness Principle
 
@@ -82,7 +82,7 @@ The timeliness of feedback in interaction corresponds to quantum-classical coupl
 
 $$\tau_{feedback} < \tau_{decoherence}$$
 
-Where $\tau_{feedback}$ is the system feedback delay, and $\tau_{decoherence}$ is the user's thought decoherence time (characteristic time of attention shift).
+Where $`\tau_{feedback}`$ is the system feedback delay, and $`\tau_{decoherence}`$ is the user's thought decoherence time (characteristic time of attention shift).
 
 ### Multiple Representation Principle
 
@@ -90,7 +90,7 @@ Efficient interaction systems should provide multidimensional representations, e
 
 $$I_{total} = \sum_{i=1}^n w_i \cdot I_i$$
 
-Where $I_i$ is the information transmitted by the i-th representation mode, and $w_i$ is the weight coefficient.
+Where $`I_i`$ is the information transmitted by the i-th representation mode, and $`w_i`$ is the weight coefficient.
 
 ## Interaction Modalities and Quantum-Classical Correspondence
 
@@ -184,7 +184,7 @@ Adaptivity quantified as:
 
 $$A_{interface} = \frac{1}{T}\int_0^T \eta_{matching}(t)dt$$
 
-Where $\eta_{matching}(t)$ is the user-interface matching degree at time t.
+Where $`\eta_{matching}(t)`$ is the user-interface matching degree at time t.
 
 ### Biofeedback Interaction Systems
 
@@ -202,16 +202,16 @@ $$\eta_{biofeedback} = \frac{I_{acquired}}{D_{user disturbance}} \cdot \frac{\De
 
 Metric system for evaluating the quantum degree of interaction systems:
 
-1. **Classicalization efficiency** ($\eta_C$): Efficiency of converting user intentions into system commands
+1. **Classicalization efficiency** ($`\eta_C`$): Efficiency of converting user intentions into system commands
    $$\eta_C = \frac{I_{command}}{I_{intention}}$$
 
-2. **Quantization efficiency** ($\eta_Q$): Efficiency of converting system feedback into user understanding and creativity
+2. **Quantization efficiency** ($`\eta_Q`$): Efficiency of converting system feedback into user understanding and creativity
    $$\eta_Q = \frac{I_{understanding}}{I_{feedback}}$$
 
-3. **Interface fluctuation degree** ($\sigma_I$): Diversity of interface state changes
+3. **Interface fluctuation degree** ($`\sigma_I`$): Diversity of interface state changes
    $$\sigma_I = \sqrt{\langle\Psi_{interface}|H^2|\Psi_{interface}\rangle - \langle\Psi_{interface}|H|\Psi_{interface}\rangle^2}$$
 
-4. **Intention-operation entanglement** ($E_{I-A}$): Matching degree between operations and intentions
+4. **Intention-operation entanglement** ($`E_{I-A}`$): Matching degree between operations and intentions
    $$E_{I-A} = S(\rho_I) = S(\rho_A)$$
 
 ## Quantum-Inspired Design Principles for Interaction Systems
@@ -238,7 +238,7 @@ Interface design should consider users in different quantum cognitive states:
 
 $$I_{inclusivity} = \sum_{i=1}^{m} w_i \cdot A_i$$
 
-Where $A_i$ is the system's accessibility for the i-th category of users, and $w_i$ is the weight of that category.
+Where $`A_i`$ is the system's accessibility for the i-th category of users, and $`w_i`$ is the weight of that category.
 
 ## Future Development Directions
 
@@ -277,7 +277,7 @@ Interaction systems need to balance user autonomy (quantum property) and system 
 
 $$\text{Autonomy degree} = \frac{D_{user}}{D_{user} + D_{system}}$$
 
-Systems should maintain a balance of $0.4 < \text{Autonomy degree} < 0.8$.
+Systems should maintain a balance of $`0.4 < \text{Autonomy degree} < 0.8`$.
 
 ### Quantum Privacy Principle
 
@@ -293,7 +293,7 @@ Interaction systems should minimize unnecessary interference with user cognitive
 
 $$R_{cognitive} = \sum_{i=1}^k F_i \cdot \tau_i$$
 
-Where $F_i$ is the intensity of the i-th type of interference, and $\tau_i$ is its duration.
+Where $`F_i`$ is the intensity of the i-th type of interference, and $`\tau_i`$ is its duration.
 
 ## Conclusion
 

@@ -26,8 +26,8 @@
 $$E_{tech} = \{E_Q, E_C\}$$
 
 其中：
-- $E_Q$ 是量子技术伦理空间，包含所有可能的技术发展路径及其伦理后果
-- $E_C$ 是经典技术伦理空间，表示已实现的技术应用及其实际伦理影响
+- $`E_Q`$ 是量子技术伦理空间，包含所有可能的技术发展路径及其伦理后果
+- $`E_C`$ 是经典技术伦理空间，表示已实现的技术应用及其实际伦理影响
 
 二者的交集构成当前技术伦理界面：
 
@@ -40,12 +40,12 @@ $$E_I = E_Q \cap E_C$$
 $$\vec{F}_E(T, S, t) = \nabla V_E(T, S, t) + \vec{\omega}(T, S, t) \times \vec{B}_E(T, S, t)$$
 
 其中：
-- $T$ 是技术参数空间
-- $S$ 是社会参数空间
-- $t$ 是时间
-- $V_E$ 是伦理势能函数
-- $\vec{\omega}$ 是技术发展方向向量
-- $\vec{B}_E$ 是伦理场感应矢量
+- $`T`$ 是技术参数空间
+- $`S`$ 是社会参数空间
+- $`t`$ 是时间
+- $`V_E`$ 是伦理势能函数
+- $`\vec{\omega}`$ 是技术发展方向向量
+- $`\vec{B}_E`$ 是伦理场感应矢量
 
 这一向量场描述了技术轨迹如何受伦理约束和影响。
 
@@ -56,9 +56,9 @@ $$\vec{F}_E(T, S, t) = \nabla V_E(T, S, t) + \vec{\omega}(T, S, t) \times \vec{B
 $$R_{ij} = \frac{\partial E_i}{\partial T_j} \cdot w_{ij}(t)$$
 
 其中：
-- $E_i$ 是第i种伦理效应
-- $T_j$ 是第j种技术选择
-- $w_{ij}(t)$ 是时变权重函数
+- $`E_i`$ 是第i种伦理效应
+- $`T_j`$ 是第j种技术选择
+- $`w_{ij}(t)`$ 是时变权重函数
 
 这一矩阵量化了特定技术选择对不同伦理领域的责任分布。
 
@@ -71,8 +71,8 @@ $$R_{ij} = \frac{\partial E_i}{\partial T_j} \cdot w_{ij}(t)$$
 $$|\Psi_E(t)\rangle = \sum_i \alpha_i(t) |E_i\rangle$$
 
 其中：
-- $|E_i\rangle$ 是可能的伦理状态基矢
-- $\alpha_i(t)$ 是复振幅，满足 $\sum_i |\alpha_i(t)|^2 = 1$
+- $`|E_i\rangle`$ 是可能的伦理状态基矢
+- $`\alpha_i(t)`$ 是复振幅，满足 $`\sum_i |\alpha_i(t)|^2 = 1`$
 
 这一波函数描述了技术系统所有可能伦理后果的叠加态。
 
@@ -83,9 +83,9 @@ $$|\Psi_E(t)\rangle = \sum_i \alpha_i(t) |E_i\rangle$$
 $$|\Psi_{TS}\rangle = \sum_{i,j} \beta_{ij} |T_i\rangle \otimes |S_j\rangle$$
 
 其中：
-- $|T_i\rangle$ 是技术状态
-- $|S_j\rangle$ 是社会状态
-- $\beta_{ij}$ 是复振幅，描述纠缠程度
+- $`|T_i\rangle`$ 是技术状态
+- $`|S_j\rangle`$ 是社会状态
+- $`\beta_{ij}`$ 是复振幅，描述纠缠程度
 
 这一纠缠解释了为什么相同技术在不同社会环境中产生不同伦理后果。
 
@@ -96,9 +96,9 @@ $$|\Psi_{TS}\rangle = \sum_{i,j} \beta_{ij} |T_i\rangle \otimes |S_j\rangle$$
 $$\Delta E_{benefit} \cdot \Delta E_{harm} \geq \frac{\hbar_{eth}}{2}$$
 
 其中：
-- $\Delta E_{benefit}$ 是技术益处的不确定性
-- $\Delta E_{harm}$ 是技术风险的不确定性
-- $\hbar_{eth}$ 是伦理普朗克常数
+- $`\Delta E_{benefit}`$ 是技术益处的不确定性
+- $`\Delta E_{harm}`$ 是技术风险的不确定性
+- $`\hbar_{eth}`$ 是伦理普朗克常数
 
 这表明无法同时精确预测技术的全部益处和全部风险。
 
@@ -109,8 +109,8 @@ $$\Delta E_{benefit} \cdot \Delta E_{harm} \geq \frac{\hbar_{eth}}{2}$$
 $$|\Psi_E\rangle \xrightarrow{实现} |E_k\rangle \quad \text{概率} = |\alpha_k|^2 \cdot f(S, G, I)$$
 
 其中：
-- $|E_k\rangle$ 是实现的具体伦理状态
-- $f(S, G, I)$ 是受社会条件 $S$、治理框架 $G$ 和基础设施 $I$ 调制的概率函数
+- $`|E_k\rangle`$ 是实现的具体伦理状态
+- $`f(S, G, I)`$ 是受社会条件 $`S`$、治理框架 $`G`$ 和基础设施 $`I`$ 调制的概率函数
 
 这解释了为什么相同技术在不同实现条件下导致不同伦理结果。
 
@@ -123,9 +123,9 @@ $$|\Psi_E\rangle \xrightarrow{实现} |E_k\rangle \quad \text{概率} = |\alpha_
 $$U(T, S) = \sum_i w_i \cdot u_i(T, S) - \sum_j v_j \cdot h_j(T, S)$$
 
 其中：
-- $u_i$ 是各种益处函数
-- $h_j$ 是各种危害函数
-- $w_i$ 和 $v_j$ 是权重系数
+- $`u_i`$ 是各种益处函数
+- $`h_j`$ 是各种危害函数
+- $`w_i`$ 和 $`v_j`$ 是权重系数
 
 这衡量了技术在特定社会环境中的净伦理价值。
 
@@ -136,8 +136,8 @@ $$U(T, S) = \sum_i w_i \cdot u_i(T, S) - \sum_j v_j \cdot h_j(T, S)$$
 $$\nabla_T U(T, S) \cdot \Delta T \geq 0 \quad \forall \Delta T \in \mathcal{F}$$
 
 其中：
-- $\nabla_T U$ 是效用关于技术参数的梯度
-- $\mathcal{F}$ 是可行的技术变化空间
+- $`\nabla_T U`$ 是效用关于技术参数的梯度
+- $`\mathcal{F}`$ 是可行的技术变化空间
 
 这一原则确保技术变化增加而非减少总体效用。
 
@@ -147,7 +147,7 @@ $$\nabla_T U(T, S) \cdot \Delta T \geq 0 \quad \forall \Delta T \in \mathcal{F}$
 
 $$h_j(T, S) \leq h_j^{max} \quad \forall j \in \{1,2,...,n\}$$
 
-其中 $h_j^{max}$ 是第j种危害的最大可接受阈值。
+其中 $`h_j^{max}`$ 是第j种危害的最大可接受阈值。
 
 这设定了技术发展的伦理边界条件。
 
@@ -157,7 +157,7 @@ $$h_j(T, S) \leq h_j^{max} \quad \forall j \in \{1,2,...,n\}$$
 
 $$\frac{dE}{dt} = F_E(T, S, E) \quad \frac{dT}{dt} = F_T(T, S, E) \quad \frac{dS}{dt} = F_S(T, S, E)$$
 
-其中 $F_E$, $F_T$, $F_S$ 是描述伦理、技术和社会相互演化的函数。
+其中 $`F_E`$, $`F_T`$, $`F_S`$ 是描述伦理、技术和社会相互演化的函数。
 
 这描述了技术伦理如何随技术与社会的共同演化而动态变化。
 
@@ -170,9 +170,9 @@ $$\frac{dE}{dt} = F_E(T, S, E) \quad \frac{dT}{dt} = F_T(T, S, E) \quad \frac{dS
 $$P_{E_C|E_Q}(e) = \int_{\Omega_Q} \Psi_E^*(x) \mathcal{M}_e(x) \Psi_E(x) dx$$
 
 其中：
-- $P_{E_C|E_Q}(e)$ 是经典伦理状态 $e$ 的显现概率
-- $\mathcal{M}_e$ 是与伦理状态 $e$ 对应的观测算符
-- $\Psi_E$ 是伦理波函数
+- $`P_{E_C|E_Q}(e)`$ 是经典伦理状态 $`e`$ 的显现概率
+- $`\mathcal{M}_e`$ 是与伦理状态 $`e`$ 对应的观测算符
+- $`\Psi_E`$ 是伦理波函数
 
 这描述了如何从量子可能性中感知出经典伦理实在。
 
@@ -183,8 +183,8 @@ $$P_{E_C|E_Q}(e) = \int_{\Omega_Q} \Psi_E^*(x) \mathcal{M}_e(x) \Psi_E(x) dx$$
 $$|a\rangle = \hat{P}_a|\Psi_E\rangle / \|\hat{P}_a|\Psi_E\rangle\|$$
 
 其中：
-- $|a\rangle$ 是选择的行动
-- $\hat{P}_a$ 是对应的投影算符
+- $`|a\rangle`$ 是选择的行动
+- $`\hat{P}_a`$ 是对应的投影算符
 
 这解释了伦理决策如何从众多可能中选择特定行动路径。
 
@@ -195,8 +195,8 @@ $$|a\rangle = \hat{P}_a|\Psi_E\rangle / \|\hat{P}_a|\Psi_E\rangle\|$$
 $$\rho_E(t) = \sum_{i,j} \rho_{ij}(0) e^{-\gamma_{ij}t} |E_i\rangle\langle E_j|$$
 
 其中：
-- $\rho_E$ 是伦理密度矩阵
-- $\gamma_{ij}$ 是解相干率
+- $`\rho_E`$ 是伦理密度矩阵
+- $`\gamma_{ij}`$ 是解相干率
 
 这解释了为什么复杂社会环境中的技术伦理预测变得困难。
 
@@ -215,9 +215,9 @@ $$|\Psi_{AI}\rangle = \sum_i \alpha_i |AI_i\rangle \otimes |E_i\rangle$$
 4. **环境依赖性**：AI伦理状态通过部署环境坍缩为特定经典状态
 
 关键指标：
-- 伦理相干生命期 $\tau_{AI} = \hbar_{eth}/\Gamma_{AI}$
-- 系统伦理纠缠度 $E(\rho_{AI}) = S(\rho_A) = S(\rho_I)$
-- 伦理决策鲁棒性 $R_{AI} = 1 - \|\rho_{AI} - \rho_{AI}^{ideal}\|_{tr}$
+- 伦理相干生命期 $`\tau_{AI} = \hbar_{eth}/\Gamma_{AI}`$
+- 系统伦理纠缠度 $`E(\rho_{AI}) = S(\rho_A) = S(\rho_I)`$
+- 伦理决策鲁棒性 $`R_{AI} = 1 - \|\rho_{AI} - \rho_{AI}^{ideal}\|_{tr}`$
 
 ### 量子技术伦理特殊性
 
@@ -232,9 +232,9 @@ $$|\Psi_{QT}\rangle = \sum_i \alpha_i |QT_i\rangle \otimes \left(\sum_j \beta_{i
 4. **量子叠加伦理**：叠加态在模拟与决策中的真实性问题
 
 量子特异伦理原则：
-- 量子透明度原则 $T_Q = E[|\langle \Phi_{pub}|\Psi_Q\rangle|^2]$
-- 量子可访问性原则 $A_Q = \min_i P(a_i|c_i)$
-- 量子道德临界点 $\lambda_c = \sup\{\lambda: D(\rho_\lambda) \leq \epsilon\}$
+- 量子透明度原则 $`T_Q = E[|\langle \Phi_{pub}|\Psi_Q\rangle|^2]`$
+- 量子可访问性原则 $`A_Q = \min_i P(a_i|c_i)`$
+- 量子道德临界点 $`\lambda_c = \sup\{\lambda: D(\rho_\lambda) \leq \epsilon\}`$
 
 ### 神经技术伦理二元论
 
@@ -249,8 +249,8 @@ $$|\Psi_{NT}\rangle = \sum_i \alpha_i |N_i\rangle \otimes |C_i\rangle \otimes |E
 4. **意识边界问题**：神经接口模糊人机之间的伦理边界
 
 神经伦理守恒定律：
-- 神经自主度 $A_N$ 与隐私保护 $P_N$ 满足 $A_N \cdot P_N \geq k_{NT}$
-- 增强能力 $E_N$ 与身份连续性 $I_N$ 满足 $E_N + I_N \leq C_{max}$
+- 神经自主度 $`A_N`$ 与隐私保护 $`P_N`$ 满足 $`A_N \cdot P_N \geq k_{NT}`$
+- 增强能力 $`E_N`$ 与身份连续性 $`I_N`$ 满足 $`E_N + I_N \leq C_{max}`$
 
 ### 生物技术伦理共振
 
@@ -265,9 +265,9 @@ $$\mathcal{H}_{BT} = \mathcal{H}_{bio} \otimes \mathcal{H}_{tech} + \sum_i g_i(S
 4. **生态纠缠伦理**：单一物种改变引发生态系统广泛伦理纠缠
 
 生物伦理谐振参数：
-- 生物多样性保持系数 $D_{bio} = -\text{Tr}(\rho_{bio} \ln \rho_{bio})$
-- 代际公平度 $F_{gen} = \min_i \langle \Psi_i^{future}|\hat{O}_{resource}|\Psi_i^{future}\rangle$
-- 生物伦理相位匹配度 $\phi_{bio} = \arg\max_\theta|\langle \Psi_{nature}|e^{i\theta}|\Psi_{tech}\rangle|$
+- 生物多样性保持系数 $`D_{bio} = -\text{Tr}(\rho_{bio} \ln \rho_{bio})`$
+- 代际公平度 $`F_{gen} = \min_i \langle \Psi_i^{future}|\hat{O}_{resource}|\Psi_i^{future}\rangle`$
+- 生物伦理相位匹配度 $`\phi_{bio} = \arg\max_\theta|\langle \Psi_{nature}|e^{i\theta}|\Psi_{tech}\rangle|`$
 
 ## 负责任技术发展原则
 
@@ -276,48 +276,48 @@ $$\mathcal{H}_{BT} = \mathcal{H}_{bio} \otimes \mathcal{H}_{tech} + \sum_i g_i(S
 基于量子技术伦理，提出以下指导原则：
 
 1. **可能性保存原则**：技术设计应保持伦理可能性空间的开放性，避免过早坍缩为单一路径
-   - 衡量指标：伦理空间维度 $\dim(\mathcal{H}_E)$ 与熵 $S(\rho_E)$
+   - 衡量指标：伦理空间维度 $`\dim(\mathcal{H}_E)`$ 与熵 $`S(\rho_E)`$
 
 2. **伦理叠加原则**：技术治理应考虑所有可能的伦理后果，而非仅关注最可能或最理想结果
-   - 实现方法：伦理情景叠加仿真 $\hat{U}|\Psi_0\rangle = \sum_i c_i|\Psi_i\rangle$
+   - 实现方法：伦理情景叠加仿真 $`\hat{U}|\Psi_0\rangle = \sum_i c_i|\Psi_i\rangle`$
 
 3. **伦理纠缠尊重原则**：认识到技术与社会、环境、未来代际的伦理纠缠性，不可割裂考虑
-   - 测量标准：系统间伦理互信息 $I(T:S) = S(T) + S(S) - S(T,S)$
+   - 测量标准：系统间伦理互信息 $`I(T:S) = S(T) + S(S) - S(T,S)`$
 
 4. **量子伦理冗余原则**：在设计中嵌入多重伦理保障，避免单点伦理失效
-   - 设计标准：伦理错误容错编码 $E_{tol} = \frac{1}{d_{min}}$
+   - 设计标准：伦理错误容错编码 $`E_{tol} = \frac{1}{d_{min}}`$
 
 ### 经典伦理原则
 
 基于经典技术伦理，提出以下实践原则：
 
 1. **伦理梯度导向原则**：技术发展应沿伦理效用提升的方向，并远离伦理风险
-   - 实施方法：伦理向量场导航 $\vec{v} = \eta \cdot \nabla U(T, S)$
+   - 实施方法：伦理向量场导航 $`\vec{v} = \eta \cdot \nabla U(T, S)`$
 
 2. **临界阈值约束原则**：确立明确的伦理风险阈值，超过即触发干预或限制
-   - 监督机制：伦理阈值监测系统 $A(T) = \mathbb{I}[h(T) \leq h_{max}]$
+   - 监督机制：伦理阈值监测系统 $`A(T) = \mathbb{I}[h(T) \leq h_{max}]`$
 
 3. **伦理反馈调节原则**：建立技术-社会-伦理间的动态反馈机制，实时调整
-   - 反馈函数：$\Delta T = \gamma \cdot (E_{target} - E_{current})$
+   - 反馈函数：$`\Delta T = \gamma \cdot (E_{target} - E_{current})`$
 
 4. **伦理资源公平分配原则**：技术益处与风险的分配应满足公平正义
-   - 公平度量：伦理基尼系数 $G_E = \frac{\sum_{i,j} |e_i - e_j|}{2n\sum_i e_i}$
+   - 公平度量：伦理基尼系数 $`G_E = \frac{\sum_{i,j} |e_i - e_j|}{2n\sum_i e_i}`$
 
 ### 界面伦理原则
 
 针对量子-经典伦理界面，提出以下连接原则：
 
 1. **伦理相干保持原则**：在技术过渡阶段维持伦理相干性，允许调整与优化
-   - 相干度量：伦理纯度 $P(\rho_E) = \text{Tr}(\rho_E^2)$
+   - 相干度量：伦理纯度 $`P(\rho_E) = \text{Tr}(\rho_E^2)`$
 
 2. **包容性伦理坍缩原则**：在伦理波函数必须坍缩时，确保过程包容各方利益
-   - 包容度量：伦理决策包容度 $I_D = \sum_i w_i \langle s_i|\rho_E|s_i\rangle$
+   - 包容度量：伦理决策包容度 $`I_D = \sum_i w_i \langle s_i|\rho_E|s_i\rangle`$
 
 3. **伦理适应性原则**：在技术与社会互动中保持伦理框架的适应性
-   - 适应性指标：伦理学习率 $\eta_E = \frac{\partial E}{\partial t} / \frac{\partial T}{\partial t}$
+   - 适应性指标：伦理学习率 $`\eta_E = \frac{\partial E}{\partial t} / \frac{\partial T}{\partial t}`$
 
 4. **多元伦理共存原则**：在不同伦理系统间建立互相理解与尊重的桥梁
-   - 共存度量：伦理系统间保真度 $F(E_1, E_2) = \text{Tr}(\sqrt{\sqrt{\rho_1}\rho_2\sqrt{\rho_1}})^2$
+   - 共存度量：伦理系统间保真度 $`F(E_1, E_2) = \text{Tr}(\sqrt{\sqrt{\rho_1}\rho_2\sqrt{\rho_1}})^2`$
 
 ## 量子-经典技术伦理实践框架
 
@@ -332,10 +332,10 @@ E_{CQ} & E_{CC}
 \end{pmatrix}$$
 
 其中：
-- $E_{QQ}$ 评估量子可能性空间中的量子伦理效应
-- $E_{QC}$ 评估量子可能性对经典现实的投影
-- $E_{CQ}$ 评估经典实现对未来可能性的影响
-- $E_{CC}$ 评估经典实现产生的经典伦理效应
+- $`E_{QQ}`$ 评估量子可能性空间中的量子伦理效应
+- $`E_{QC}`$ 评估量子可能性对经典现实的投影
+- $`E_{CQ}`$ 评估经典实现对未来可能性的影响
+- $`E_{CC}`$ 评估经典实现产生的经典伦理效应
 
 评估过程：
 1. 绘制完整伦理波函数图景
@@ -348,22 +348,22 @@ E_{CQ} & E_{CC}
 技术伦理决策采用量子-经典二元决策协议：
 
 1. **伦理量子预备阶段**
-   - 生成伦理叠加态 $|\Psi_E\rangle = \sum_i c_i |E_i\rangle$
+   - 生成伦理叠加态 $`|\Psi_E\rangle = \sum_i c_i |E_i\rangle`$
    - 运行量子伦理情景模拟
    - 维持最大伦理相干性
 
 2. **伦理干涉测量阶段**
-   - 应用价值观测算符 $\hat{V} = \sum_i v_i |v_i\rangle\langle v_i|$
-   - 计算伦理干涉模式 $I_{ij} = \langle E_i|\hat{V}|E_j\rangle$
+   - 应用价值观测算符 $`\hat{V} = \sum_i v_i |v_i\rangle\langle v_i|`$
+   - 计算伦理干涉模式 $`I_{ij} = \langle E_i|\hat{V}|E_j\rangle`$
    - 识别建设性和破坏性干涉区域
 
 3. **伦理投影选择阶段**
-   - 应用伦理投影滤波器 $\hat{P}_{eth} = \sum_i |E_i\rangle\langle E_i|$，其中 $E_i$ 满足伦理约束
-   - 计算投影后状态 $|\Psi'_E\rangle = \hat{P}_{eth}|\Psi_E\rangle/\|\hat{P}_{eth}|\Psi_E\rangle\|$
+   - 应用伦理投影滤波器 $`\hat{P}_{eth} = \sum_i |E_i\rangle\langle E_i|`$，其中 $`E_i`$ 满足伦理约束
+   - 计算投影后状态 $`|\Psi'_E\rangle = \hat{P}_{eth}|\Psi_E\rangle/\|\hat{P}_{eth}|\Psi_E\rangle\|`$
    - 选择最优伦理坍缩路径
 
 4. **经典伦理实现阶段**
-   - 设计伦理实现策略 $S_{impl} = f(|\Psi'_E\rangle)$
+   - 设计伦理实现策略 $`S_{impl} = f(|\Psi'_E\rangle)`$
    - 建立伦理监测反馈循环
    - 实施自适应伦理调整
 
@@ -405,7 +405,7 @@ $$|\Psi_{QC}\rangle = c_1|安全威胁\rangle + c_2|计算正义\rangle + c_3|�
 4. 量子计算的能源需求与环境伦理
 
 **伦理决策投影**：
-- 投影到"安全-创新"伦理子空间：$\hat{P}_{SI}|\Psi_{QC}\rangle$
+- 投影到"安全-创新"伦理子空间：$`\hat{P}_{SI}|\Psi_{QC}\rangle`$
 - 最优伦理路径：加密后量子标准 + 普惠量子云服务 + 能源效率优化
 
 ### 脑机接口伦理案例
@@ -419,7 +419,7 @@ $$\rho_{BMI} = p_1|\Psi_{增强}\rangle\langle\Psi_{增强}| + p_2|\Psi_{治疗}
 3. 神经接入与认知自主性的伦理纠缠
 
 **伦理共振解析**：
-- 神经隐私保护共振频率：$\omega_{NP} = \frac{1}{\hbar_{eth}}\langle\Psi_{BMI}|\hat{H}_{privacy}|\Psi_{BMI}\rangle$
+- 神经隐私保护共振频率：$`\omega_{NP} = \frac{1}{\hbar_{eth}}\langle\Psi_{BMI}|\hat{H}_{privacy}|\Psi_{BMI}\rangle`$
 - 最优伦理策略：神经数据主权 + 可撤销神经访问 + 认知防火墙
 
 ### 人工通用智能伦理案例
@@ -431,9 +431,9 @@ $$|\Psi_{AGI}\rangle = \int dx \, \phi(x)|控制程度 = x\rangle \otimes |\text
 $$\Delta(\text{能力}) \cdot \Delta(\text{可控性}) \geq \frac{\hbar_{agi}}{2}$$
 
 **伦理相变点**：
-1. 递归自我改进临界点 $T_c^{RSI}$
-2. 目标对齐相变点 $T_c^{align}$
-3. 社会整合临界点 $T_c^{integ}$
+1. 递归自我改进临界点 $`T_c^{RSI}`$
+2. 目标对齐相变点 $`T_c^{align}`$
+3. 社会整合临界点 $`T_c^{integ}`$
 
 **量子-经典伦理框架**：
 - 实施伦理叠加测试程序
@@ -449,12 +449,12 @@ $$\Delta(\text{能力}) \cdot \Delta(\text{可控性}) \geq \frac{\hbar_{agi}}{2
 $$\mathcal{D} = \{T, S, E, V, K, U\}$$
 
 其中：
-- $T$ 代表技术可能性空间
-- $S$ 代表社会影响空间
-- $E$ 代表伦理原则空间
-- $V$ 代表价值观空间
-- $K$ 代表知识不确定性空间
-- $U$ 代表效用预期空间
+- $`T`$ 代表技术可能性空间
+- $`S`$ 代表社会影响空间
+- $`E`$ 代表伦理原则空间
+- $`V`$ 代表价值观空间
+- $`K`$ 代表知识不确定性空间
+- $`U`$ 代表效用预期空间
 
 决策路径可表示为该空间中的轨迹：
 
@@ -467,9 +467,9 @@ $$\gamma: [0,1] \rightarrow \mathcal{D}, \quad \gamma(0) = d_{current}, \gamma(1
 $$\hat{D} = \sum_i \lambda_i \hat{P}_i + \sum_{j,k} \mu_{jk} \hat{Q}_j \hat{R}_k$$
 
 其中：
-- $\hat{P}_i$ 是代表独立伦理原则的投影算子
-- $\hat{Q}_j$ 和 $\hat{R}_k$ 是互补伦理维度的算子
-- $\lambda_i$ 和 $\mu_{jk}$ 是权重系数
+- $`\hat{P}_i`$ 是代表独立伦理原则的投影算子
+- $`\hat{Q}_j`$ 和 $`\hat{R}_k`$ 是互补伦理维度的算子
+- $`\lambda_i`$ 和 $`\mu_{jk}`$ 是权重系数
 
 决策结果是该算子作用于初始状态的期望值：
 
@@ -482,9 +482,9 @@ $$\langle \Psi_0 | \hat{D} | \Psi_0 \rangle = \sum_i p_i d_i$$
 $$C(T, \sigma_T) = \int_{-\infty}^{\infty} U(T+\delta) \cdot f(\delta, \sigma_T) d\delta$$
 
 其中：
-- $U(T)$ 是技术的效用函数
-- $f(\delta, \sigma_T)$ 是描述不确定性的概率密度函数
-- $\sigma_T$ 是不确定性参数
+- $`U(T)`$ 是技术的效用函数
+- $`f(\delta, \sigma_T)`$ 是描述不确定性的概率密度函数
+- $`\sigma_T`$ 是不确定性参数
 
 这一机制用于评估不确定性下的最佳伦理决策。
 
@@ -495,15 +495,15 @@ $$C(T, \sigma_T) = \int_{-\infty}^{\infty} U(T+\delta) \cdot f(\delta, \sigma_T)
 $$G = (V, E, W)$$
 
 其中：
-- $V = \{v_1, v_2, ..., v_n\}$ 是决策节点集
-- $E \subseteq V \times V$ 是决策依赖关系集
-- $W: E \rightarrow \mathbb{R}$ 是描述依赖强度的权重函数
+- $`V = \{v_1, v_2, ..., v_n\}`$ 是决策节点集
+- $`E \subseteq V \times V`$ 是决策依赖关系集
+- $`W: E \rightarrow \mathbb{R}`$ 是描述依赖强度的权重函数
 
 网络中的最优决策路径定义为：
 
 $$P^* = \arg\min_P \sum_{(i,j) \in P} c_{ij}(T, S, E)$$
 
-其中 $c_{ij}$ 是综合伦理成本函数。
+其中 $`c_{ij}`$ 是综合伦理成本函数。
 
 ### 跨层级伦理协同机制
 
@@ -512,9 +512,9 @@ $$P^* = \arg\min_P \sum_{(i,j) \in P} c_{ij}(T, S, E)$$
 $$\Phi(T_{micro}, S_{macro}) = \sum_i \alpha_i \phi_i(T_{micro}) + \sum_j \beta_j \phi_j(S_{macro}) + \sum_{i,j} \gamma_{ij} \phi_{ij}(T_{micro}, S_{macro})$$
 
 其中：
-- $\phi_i(T_{micro})$ 是微观技术影响函数
-- $\phi_j(S_{macro})$ 是宏观社会影响函数
-- $\phi_{ij}(T_{micro}, S_{macro})$ 是交互影响函数
+- $`\phi_i(T_{micro})`$ 是微观技术影响函数
+- $`\phi_j(S_{macro})`$ 是宏观社会影响函数
+- $`\phi_{ij}(T_{micro}, S_{macro})`$ 是交互影响函数
 
 这一框架模型化了技术设计与社会结构间的复杂伦理互动。
 
@@ -527,14 +527,14 @@ $$\Phi(T_{micro}, S_{macro}) = \sum_i \alpha_i \phi_i(T_{micro}) + \sum_j \beta_
 $$\mathcal{O}_{eth} = \{\mathcal{C}_{eth}, \mathcal{Q}_{eth}, K_{eth}, D_{eth}\}$$
 
 其中：
-- $\mathcal{C}_{eth}$ 是伦理经典化能力（将伦理可能性转化为伦理确定性的能力）
-- $\mathcal{Q}_{eth}$ 是伦理量子化能力（开放伦理想象空间的能力）
-- $K_{eth}$ 是伦理知识库
-- $D_{eth}$ 是伦理维度，由下式计算：
+- $`\mathcal{C}_{eth}`$ 是伦理经典化能力（将伦理可能性转化为伦理确定性的能力）
+- $`\mathcal{Q}_{eth}`$ 是伦理量子化能力（开放伦理想象空间的能力）
+- $`K_{eth}`$ 是伦理知识库
+- $`D_{eth}`$ 是伦理维度，由下式计算：
 
 $$D_{eth} = f\left(\frac{\mathcal{C}_{eth}}{\mathcal{Q}_{eth}}\right) \cdot \frac{I_{eth}}{S_{eth}+\epsilon}$$
 
-其中 $I_{eth}$ 是伦理知识信息量，$S_{eth}$ 是伦理熵。
+其中 $`I_{eth}`$ 是伦理知识信息量，$`S_{eth}`$ 是伦理熵。
 
 ### 伦理经典化与审慎原则
 
@@ -543,11 +543,11 @@ $$D_{eth} = f\left(\frac{\mathcal{C}_{eth}}{\mathcal{Q}_{eth}}\right) \cdot \fra
 $$\mathcal{C}_{eth}(\Psi_{tech}) = \argmax_i \{U_i - \lambda \cdot R_i \cdot P_i\}$$
 
 其中：
-- $\Psi_{tech}$ 是技术可能性波函数
-- $U_i$ 是第i种路径的效用
-- $R_i$ 是风险程度
-- $P_i$ 是风险概率
-- $\lambda$ 是风险厌恶系数
+- $`\Psi_{tech}`$ 是技术可能性波函数
+- $`U_i`$ 是第i种路径的效用
+- $`R_i`$ 是风险程度
+- $`P_i`$ 是风险概率
+- $`\lambda`$ 是风险厌恶系数
 
 这一原则强调在不确定性下优先考虑避免严重风险。
 
@@ -558,13 +558,13 @@ $$\mathcal{C}_{eth}(\Psi_{tech}) = \argmax_i \{U_i - \lambda \cdot R_i \cdot P_i
 $$Resp(A, T, t) = \int_{\Omega_Q} P(s) \cdot R(A, T, s, t) ds + \sum_{i} w_i \cdot R_C(A, T, s_i, t)$$
 
 其中：
-- $A$ 是行为主体
-- $T$ 是技术系统
-- $t$ 是时间维度
-- $P(s)$ 是状态 $s$ 的概率分布
-- $R(A, T, s, t)$ 是量子责任函数
-- $R_C(A, T, s_i, t)$ 是经典责任函数
-- $w_i$ 是状态 $s_i$ 的权重
+- $`A`$ 是行为主体
+- $`T`$ 是技术系统
+- $`t`$ 是时间维度
+- $`P(s)`$ 是状态 $`s`$ 的概率分布
+- $`R(A, T, s, t)`$ 是量子责任函数
+- $`R_C(A, T, s_i, t)`$ 是经典责任函数
+- $`w_i`$ 是状态 $`s_i`$ 的权重
 
 这一框架协调了对未来可能性的责任和对已实现后果的责任。
 

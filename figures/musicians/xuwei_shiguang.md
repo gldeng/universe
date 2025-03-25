@@ -41,7 +41,7 @@ $$
 \frac{dS_{\text{时光}}}{dt} \propto \frac{1}{D_{\text{观察者}}}
 $$
 
-其中$D_{\text{观察者}}$为观察者维度。
+其中$`D_{\text{观察者}}`$为观察者维度。
 
 3. **时空记忆与量子熵**：
    
@@ -93,7 +93,7 @@ $$
 \frac{dS_{\text{Time}}}{dt} \propto \frac{1}{D_{\text{Observer}}}
 $$
 
-Where $D_{\text{Observer}}$ is the observer's dimension.
+Where $`D_{\text{Observer}}`$ is the observer's dimension.
 
 3. **Space-Time Memory and Quantum Entropy**:
    

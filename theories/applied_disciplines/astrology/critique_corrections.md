@@ -36,7 +36,7 @@
 
 #### 1.3 缺乏观察者维度差异认知
 
-传统占星学最严重的问题是假设相同星盘配置对所有人影响相同，忽略了观察者维度差异。根据【量子经典二元论】核心理论（版本9.2）第四章"观察者维度与主观意识定义"，不同观察者的经典化效率$(k_i)$与权重系数$(w_i)$存在巨大差异。
+传统占星学最严重的问题是假设相同星盘配置对所有人影响相同，忽略了观察者维度差异。根据【量子经典二元论】核心理论（版本9.2）第四章"观察者维度与主观意识定义"，不同观察者的经典化效率$`(k_i)`$与权重系数$`(w_i)`$存在巨大差异。
 
 占星学对同一天象的解读忽略了：
 
@@ -65,7 +65,7 @@ $$
 P(\text{天象影响}) = \int_{\Delta t} |\langle\psi_{\text{天象}}|\psi_{\text{观察者}}\rangle|^2 dt \times f(D_{\text{观察者}})
 $$
 
-其中，$f(D_{\text{观察者}})$为观察者维度调制函数，随观察者维度增加而增大。
+其中，$`f(D_{\text{观察者}})`$为观察者维度调制函数，随观察者维度增加而增大。
 
 #### 2.2 量子纠缠场动态模型
 
@@ -95,7 +95,7 @@ $$
 |\psi\rangle_{\text{多天体}} = \sum_i |\psi\rangle_{\text{单天体}_i} + \sum_{i<j} \hat{O}_{ij} |\psi\rangle_{\text{单天体}_i} |\psi\rangle_{\text{单天体}_j} + ...
 $$
 
-其中，$\hat{O}_{ij}$为非线性相互作用算符。这解释了为什么某些行星组合产生的效应远超各行星独立效应的总和。
+其中，$`\hat{O}_{ij}`$为非线性相互作用算符。这解释了为什么某些行星组合产生的效应远超各行星独立效应的总和。
 
 ### 三、量子经典二元论对占星学的重要补充
 
@@ -137,7 +137,7 @@ $$
 \text{天象最终影响} = \text{天象基础影响} \times (1 - \alpha \cdot C_{\text{主观意识干预}})
 $$
 
-其中，$\alpha$为调制系数，$C_{\text{主观意识干预}}$为观察者主观意识干预强度（0-1之间）。当主观意识干预强度达到临界值时，可几乎完全消除天象负面影响，或显著增强天象正面影响。
+其中，$`\alpha`$为调制系数，$`C_{\text{主观意识干预}}`$为观察者主观意识干预强度（0-1之间）。当主观意识干预强度达到临界值时，可几乎完全消除天象负面影响，或显著增强天象正面影响。
 
 ### 四、严格实证的量子经典占星学
 
@@ -198,7 +198,7 @@ $$
 |\psi\rangle_{\text{生命路径}} = \alpha|\psi\rangle_{\text{命运（固定）}} + \beta|\psi\rangle_{\text{自由意志（可变）}}
 $$
 
-其中，$\alpha$和$\beta$是系数，满足$|\alpha|^2 + |\beta|^2 = 1$，且$\beta$随观察者维度增加而增大。这解释了为什么高维观察者能更有效地超越星盘"命运"限制。
+其中，$`\alpha`$和$`\beta`$是系数，满足$`|\alpha|^2 + |\beta|^2 = 1`$，且$`\beta`$随观察者维度增加而增大。这解释了为什么高维观察者能更有效地超越星盘"命运"限制。
 
 量子经典二元论提出：占星学星盘不是命运的蓝图，而是经典化路径的初始条件，观察者可通过提升自身维度主动调整这些路径。
 
@@ -261,7 +261,7 @@ According to Chapter III "Unified Definition of Observer and Black Hole" of the 
 
 #### 1.3 Lack of Recognition of Observer Dimension Differences
 
-The most serious problem with traditional astrology is its assumption that the same chart configuration affects everyone identically, ignoring differences in observer dimensions. According to Chapter IV "Observer Dimension and Subjective Consciousness Definition" of the [Quantum-Classical Dualism] Core Theory (Version 9.2), different observers have enormous differences in classicalization efficiency $(k_i)$ and weight coefficients $(w_i)$.
+The most serious problem with traditional astrology is its assumption that the same chart configuration affects everyone identically, ignoring differences in observer dimensions. According to Chapter IV "Observer Dimension and Subjective Consciousness Definition" of the [Quantum-Classical Dualism] Core Theory (Version 9.2), different observers have enormous differences in classicalization efficiency $`(k_i)`$ and weight coefficients $`(w_i)`$.
 
 Astrological interpretations of the same celestial phenomena ignore:
 
@@ -290,7 +290,7 @@ $$
 P(\text{Celestial Influence}) = \int_{\Delta t} |\langle\psi_{\text{Celestial}}|\psi_{\text{Observer}}\rangle|^2 dt \times f(D_{\text{Observer}})
 $$
 
-Where $f(D_{\text{Observer}})$ is the observer dimension modulation function, increasing with observer dimension.
+Where $`f(D_{\text{Observer}})`$ is the observer dimension modulation function, increasing with observer dimension.
 
 #### 2.2 Dynamic Model of Quantum Entanglement Fields
 
@@ -320,7 +320,7 @@ $$
 |\psi\rangle_{\text{Multiple Celestial Bodies}} = \sum_i |\psi\rangle_{\text{Single Celestial Body}_i} + \sum_{i<j} \hat{O}_{ij} |\psi\rangle_{\text{Single Celestial Body}_i} |\psi\rangle_{\text{Single Celestial Body}_j} + ...
 $$
 
-Where $\hat{O}_{ij}$ is a non-linear interaction operator. This explains why certain planetary combinations produce effects far exceeding the sum of the independent effects of each planet.
+Where $`\hat{O}_{ij}`$ is a non-linear interaction operator. This explains why certain planetary combinations produce effects far exceeding the sum of the independent effects of each planet.
 
 ### III. Important Supplements to Astrology from Quantum-Classical Dualism
 
@@ -362,7 +362,7 @@ $$
 \text{Final Celestial Influence} = \text{Basic Celestial Influence} \times (1 - \alpha \cdot C_{\text{Subjective Consciousness Intervention}})
 $$
 
-Where $\alpha$ is a modulation coefficient, and $C_{\text{Subjective Consciousness Intervention}}$ is the intensity of observer subjective consciousness intervention (between 0-1). When the intensity of subjective consciousness intervention reaches a critical value, it can almost completely eliminate negative celestial influences or significantly enhance positive celestial influences.
+Where $`\alpha`$ is a modulation coefficient, and $`C_{\text{Subjective Consciousness Intervention}}`$ is the intensity of observer subjective consciousness intervention (between 0-1). When the intensity of subjective consciousness intervention reaches a critical value, it can almost completely eliminate negative celestial influences or significantly enhance positive celestial influences.
 
 ### IV. Strictly Empirical Quantum-Classical Astrology
 
@@ -423,7 +423,7 @@ $$
 |\psi\rangle_{\text{Life Path}} = \alpha|\psi\rangle_{\text{Destiny (Fixed)}} + \beta|\psi\rangle_{\text{Free Will (Variable)}}
 $$
 
-Where $\alpha$ and $\beta$ are coefficients satisfying $|\alpha|^2 + |\beta|^2 = 1$, and $\beta$ increases with observer dimension. This explains why higher-dimensional observers can more effectively transcend the "destiny" limitations of birth charts.
+Where $`\alpha`$ and $`\beta`$ are coefficients satisfying $`|\alpha|^2 + |\beta|^2 = 1`$, and $`\beta`$ increases with observer dimension. This explains why higher-dimensional observers can more effectively transcend the "destiny" limitations of birth charts.
 
 Quantum-Classical Dualism proposes: The astrological birth chart is not a blueprint of destiny, but initial conditions of classicalization paths, which observers can actively adjust by enhancing their own dimensions.
 

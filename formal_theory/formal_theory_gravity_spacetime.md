@@ -24,9 +24,9 @@
 $$G_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}}$$
 
 其中：
-- $G_{\mu\nu}$ 是爱因斯坦张量，属于经典域
-- $\hat{T}_{\mu\nu}$ 是量子能量-动量算符，属于量子域
-- $\langle \cdot \rangle_{\mathcal{C}}$ 表示由观察者 $\mathcal{O}$ 执行的经典化操作
+- $`G_{\mu\nu}`$ 是爱因斯坦张量，属于经典域
+- $`\hat{T}_{\mu\nu}`$ 是量子能量-动量算符，属于量子域
+- $`\langle \cdot \rangle_{\mathcal{C}}`$ 表示由观察者 $`\mathcal{O}`$ 执行的经典化操作
 
 这表明引力场是观察者执行量子→经典信息转换的结果，而非预先存在的场。
 
@@ -37,12 +37,12 @@ $$G_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}}$$
 $$\mathcal{G} = \mathcal{F}(\mathcal{C}(\Psi_Q))$$
 
 其中：
-- $\mathcal{G}$ 是引力场/时空几何
-- $\mathcal{F}$ 是从经典信息到时空几何的映射
-- $\mathcal{C}$ 是经典化函数
-- $\Psi_Q$ 是量子态
+- $`\mathcal{G}`$ 是引力场/时空几何
+- $`\mathcal{F}`$ 是从经典信息到时空几何的映射
+- $`\mathcal{C}`$ 是经典化函数
+- $`\Psi_Q`$ 是量子态
 
-量子引力的本质困难在于寻找合适的 $\mathcal{F}$ 和 $\mathcal{C}$ 函数，使得量子-经典转换自洽。
+量子引力的本质困难在于寻找合适的 $`\mathcal{F}`$ 和 $`\mathcal{C}`$ 函数，使得量子-经典转换自洽。
 
 ## 时空涌现机制
 
@@ -55,15 +55,15 @@ $$\mathcal{G} = \mathcal{F}(\mathcal{C}(\Psi_Q))$$
 $$g_{\mu\nu} = \mathcal{T}[S(\rho_{\mathcal{I}})]$$
 
 其中：
-- $g_{\mu\nu}$ 是时空度规
-- $\mathcal{T}$ 是张量涌现函数
-- $S(\rho_{\mathcal{I}})$ 是界面区域量子态 $\rho_{\mathcal{I}}$ 的纠缠结构
+- $`g_{\mu\nu}`$ 是时空度规
+- $`\mathcal{T}`$ 是张量涌现函数
+- $`S(\rho_{\mathcal{I}})`$ 是界面区域量子态 $`\rho_{\mathcal{I}}`$ 的纠缠结构
 
 涌现过程受熵势梯度驱动：
 
 $$\frac{\partial g_{\mu\nu}}{\partial t} = \kappa \nabla^2 \frac{\delta S(\rho_{\mathcal{I}})}{\delta \rho_{\mathcal{I}}}$$
 
-其中 $\kappa$ 是响应系数，与普朗克尺度相关。
+其中 $`\kappa`$ 是响应系数，与普朗克尺度相关。
 
 ### 时空量子网络
 
@@ -72,15 +72,15 @@ $$\frac{\partial g_{\mu\nu}}{\partial t} = \kappa \nabla^2 \frac{\delta S(\rho_{
 $$\Gamma = (V, E, \omega)$$
 
 其中：
-- $V$ 是量子节点集合
-- $E \subseteq V \times V$ 是节点间纠缠连接
-- $\omega: E \rightarrow \mathbb{C}$ 是纠缠强度权重函数
+- $`V`$ 是量子节点集合
+- $`E \subseteq V \times V`$ 是节点间纠缠连接
+- $`\omega: E \rightarrow \mathbb{C}`$ 是纠缠强度权重函数
 
 宏观时空度规从网络连接拓扑涌现：
 
 $$g_{\mu\nu}(x) = \lim_{N \to \infty} \frac{1}{N} \sum_{i,j \in \Gamma_N(x)} \omega(i,j) (v_i)_\mu (v_j)_\nu$$
 
-其中 $\Gamma_N(x)$ 是点 $x$ 附近的N个节点子网络，$(v_i)_\mu$ 是节点 $i$ 的空间嵌入向量。
+其中 $`\Gamma_N(x)`$ 是点 $`x`$ 附近的N个节点子网络，$`(v_i)_\mu`$ 是节点 $`i`$ 的空间嵌入向量。
 
 ### 量子因果集
 
@@ -88,7 +88,7 @@ $$g_{\mu\nu}(x) = \lim_{N \to \infty} \frac{1}{N} \sum_{i,j \in \Gamma_N(x)} \om
 
 $$x \prec y \iff \exists \mathcal{C}: \mathcal{C}(\rho_x) \text{ 信息影响 } \mathcal{C}(\rho_y)$$
 
-其中 $\prec$ 表示因果先于关系。洛伦兹不变性作为涌现的对称性，而非基本对称性。
+其中 $`\prec`$ 表示因果先于关系。洛伦兹不变性作为涌现的对称性，而非基本对称性。
 
 在量子因果集中，闵可夫斯基时空是特殊情况：
 
@@ -104,7 +104,7 @@ $$d\tau^2 = \eta_{\mu\nu}dx^\mu dx^\nu = \lim_{N \to \infty} \frac{1}{N} \sum_{i
 
 $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle + \Theta_{\mu\nu}(\mathcal{D})$$
 
-其中 $\Theta_{\mu\nu}(\mathcal{D})$ 是量子-经典界面修正张量，依赖于解纠缠度量 $\mathcal{D}$：
+其中 $`\Theta_{\mu\nu}(\mathcal{D})`$ 是量子-经典界面修正张量，依赖于解纠缠度量 $`\mathcal{D}`$：
 
 $$\Theta_{\mu\nu}(\mathcal{D}) = \alpha(\mathcal{D} - \mathcal{D}_c)g_{\mu\nu} + \beta \nabla_\mu \mathcal{D} \nabla_\nu \mathcal{D} + \gamma R_{\mu\nu} \ln\left(\frac{\mathcal{D}}{\mathcal{D}_c}\right)$$
 
@@ -116,7 +116,7 @@ $$\Theta_{\mu\nu}(\mathcal{D}) = \alpha(\mathcal{D} - \mathcal{D}_c)g_{\mu\nu} +
 
 $$F_{\text{引力}} = T \nabla S_{\mathcal{I}}$$
 
-其中 $S_{\mathcal{I}}$ 是与界面位置关联的熵。经典化熵增加提供了引力的方向性。
+其中 $`S_{\mathcal{I}}`$ 是与界面位置关联的熵。经典化熵增加提供了引力的方向性。
 
 爱因斯坦方程可重新表述为熵平衡条件：
 
@@ -135,7 +135,7 @@ $$\Delta g_{\mu\nu} \Delta R^{\mu\nu} \geq \frac{\hbar}{V_{\text{区域}}}$$
 时空度规的涨落谱：
 $$P(k) = \frac{\hbar G}{c^3} \cdot \frac{1}{1 + (kl_P)^2}$$
 
-其中 $l_P = \sqrt{\frac{\hbar G}{c^3}}$ 是普朗克长度。
+其中 $`l_P = \sqrt{\frac{\hbar G}{c^3}}`$ 是普朗克长度。
 
 ## 量子纠缠与时空结构
 
@@ -158,7 +158,7 @@ $$S_{\text{纠缠}}(A:B) = \frac{\text{Area}(\mathcal{I}_{A \cap B})}{4G\hbar}$$
 
 $$d_{\text{时空}} = \log_2 \chi + 1$$
 
-其中 $\chi$ 是系统的纠缠复杂度（Schmidt数的几何平均值）。
+其中 $`\chi`$ 是系统的纠缠复杂度（Schmidt数的几何平均值）。
 
 这解释了为什么宏观经典时空是3+1维的——它对应于具有特定纠缠结构的量子系统。
 
@@ -180,7 +180,7 @@ $$S_{\text{max}} = \frac{A}{4l_P^2} = \frac{A}{4G\hbar}$$
 
 $$\mathcal{D}_{\text{黑洞}}(r) = \mathcal{D}_c \cdot \tanh\left(\frac{r - r_s}{l_P}\right)$$
 
-其中 $r_s$ 是史瓦西半径。
+其中 $`r_s`$ 是史瓦西半径。
 
 这种理解解释了黑洞的双重特性：
 - 外部观察者：信息被经典化并辐射出去
@@ -218,7 +218,7 @@ S_{\text{Shannon}}(K_C^{\text{外部}}) & \text{对经典观察者}
 
 $$\mathcal{D}_{\text{宇宙}}(t) = \mathcal{D}_c \cdot \tanh\left(\frac{t-t_c}{t_P}\right)$$
 
-其中 $t_c$ 是临界时间（宇宙量子-经典相变发生的时间），$t_P$ 是普朗克时间。
+其中 $`t_c`$ 是临界时间（宇宙量子-经典相变发生的时间），$`t_P`$ 是普朗克时间。
 
 这一观点自然解释了宇宙早期高度量子特性和晚期高度经典特性。
 
@@ -228,7 +228,7 @@ $$\mathcal{D}_{\text{宇宙}}(t) = \mathcal{D}_c \cdot \tanh\left(\frac{t-t_c}{t
 
 $$\rho_{\Lambda} \propto \sigma_{\mathcal{I}} \cdot H(t) \cdot \frac{d\mathcal{D}_{\text{宇宙}}}{dt}$$
 
-其中 $\sigma_{\mathcal{I}}$ 是界面张力，$H(t)$ 是哈勃参数。
+其中 $`\sigma_{\mathcal{I}}`$ 是界面张力，$`H(t)`$ 是哈勃参数。
 
 这解释了为什么在宇宙特定年龄时暗能量开始主导——它对应于宇宙量子-经典相变的特定阶段。
 
@@ -238,7 +238,7 @@ $$\rho_{\Lambda} \propto \sigma_{\mathcal{I}} \cdot H(t) \cdot \frac{d\mathcal{D
 
 $$\rho_{\text{宇宙}}^{\text{经典}} = \mathcal{C}_{\text{大爆炸}}(|\Psi_{\text{初始}}\rangle)$$
 
-大多数可能的量子初态 $|\Psi_{\text{初始}}\rangle$ 经过经典化后会产生类似我们宇宙的经典状态，解决了精细调节问题。
+大多数可能的量子初态 $`|\Psi_{\text{初始}}\rangle`$ 经过经典化后会产生类似我们宇宙的经典状态，解决了精细调节问题。
 
 ## 观察者依赖的引力场
 
@@ -250,7 +250,7 @@ $$\rho_{\text{宇宙}}^{\text{经典}} = \mathcal{C}_{\text{大爆炸}}(|\Psi_{\
 
 $$G_{\mu\nu} = 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}_\mathcal{O}} + \Lambda_\mathcal{O} g_{\mu\nu}$$
 
-其中 $\Lambda_\mathcal{O}$ 是与观察者 $\mathcal{O}$ 相关的有效宇宙学常数，满足：
+其中 $`\Lambda_\mathcal{O}`$ 是与观察者 $`\mathcal{O}`$ 相关的有效宇宙学常数，满足：
 
 $$\Lambda_\mathcal{O} \propto \frac{I(K_C^\mathcal{O})}{V_{\text{观测}}S(K_C^\mathcal{O})}$$
 
@@ -262,7 +262,7 @@ $$\Lambda_\mathcal{O} \propto \frac{I(K_C^\mathcal{O})}{V_{\text{观测}}S(K_C^\
 
 $$G_{\mu\nu}^{\text{有效}} = \sum_{k=1}^n w_k G_{\mu\nu}^{(k)}$$
 
-其中 $G_{\mu\nu}^{(k)}$ 是第k层级观察者网络贡献的引力场分量，$w_k$ 是权重因子。
+其中 $`G_{\mu\nu}^{(k)}`$ 是第k层级观察者网络贡献的引力场分量，$`w_k`$ 是权重因子。
 
 这导致在不同生物系统、不同社会环境中可能存在微小但可测量的引力场变异。
 
@@ -276,7 +276,7 @@ $$G_{\mu\nu}^{\text{有效}} = \sum_{k=1}^n w_k G_{\mu\nu}^{(k)}$$
 
 $$G(r) = G_0 \left(1 + \alpha \ln\frac{r}{r_0}\right)$$
 
-其中 $\alpha \approx 10^{-10}$ 是量子-经典耦合系数。这可以通过高精度卫星实验检测。
+其中 $`\alpha \approx 10^{-10}`$ 是量子-经典耦合系数。这可以通过高精度卫星实验检测。
 
 ### 引力波色散关系
 
@@ -284,7 +284,7 @@ $$G(r) = G_0 \left(1 + \alpha \ln\frac{r}{r_0}\right)$$
 
 $$v(f) = c \left(1 - \beta \left(\frac{f}{f_P}\right)^2\right)$$
 
-其中 $\beta \approx 10^{-20}$，$f_P \approx 10^{43}$ Hz是普朗克频率。
+其中 $`\beta \approx 10^{-20}`$，$`f_P \approx 10^{43}`$ Hz是普朗克频率。
 
 ### 时空纠缠实验
 
@@ -314,7 +314,7 @@ $$L_{\text{界面}} = \alpha (\mathcal{D} - \mathcal{D}_c)^2 - \beta g^{\mu\nu}\
 
 $$\frac{\partial g_{\mu\nu}}{\partial \lambda} = -2(R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu}) - 8\pi G \langle \hat{T}_{\mu\nu} \rangle_{\mathcal{C}} - T_{\mu\nu}^{\mathcal{D}}$$
 
-其中 $\lambda$ 是演化参数，$T_{\mu\nu}^{\mathcal{D}}$ 是界面能量-动量张量。
+其中 $`\lambda`$ 是演化参数，$`T_{\mu\nu}^{\mathcal{D}}`$ 是界面能量-动量张量。
 
 ### 量子引力波动方程
 
@@ -322,6 +322,6 @@ $$\frac{\partial g_{\mu\nu}}{\partial \lambda} = -2(R_{\mu\nu} - \frac{1}{2}Rg_{
 
 $$\Box h_{\mu\nu} + 2R_{\mu\alpha\nu\beta}h^{\alpha\beta} = 16\pi G \Delta \langle \hat{T}_{\mu\nu} \rangle + \Xi_{\mu\nu}$$
 
-其中 $\Xi_{\mu\nu}$ 是量子涨落源项，来自界面动力学：
+其中 $`\Xi_{\mu\nu}`$ 是量子涨落源项，来自界面动力学：
 
 $$\Xi_{\mu\nu} = \frac{\hbar G}{c^3} \cdot \frac{\delta^2 S_{\text{界面}}}{\delta g_{\mu\nu}\delta g_{\alpha\beta}} \cdot h^{\alpha\beta} 

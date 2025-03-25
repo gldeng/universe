@@ -31,25 +31,25 @@ Quantum Social Dynamics extends the framework of Quantum-Classical Dualism to so
 ### Basic Axioms of Social Systems
 
 **Axiom 1: Dual Nature of Society**  
-Social systems consist of a quantum social domain $\Omega_Q^S$ and a classical social domain $\Omega_C^S$:
+Social systems consist of a quantum social domain $`\Omega_Q^S`$ and a classical social domain $`\Omega_C^S`$:
 
 $$\mathcal{S} = \Omega_Q^S \cup \Omega_C^S, \quad \Omega_Q^S \cap \Omega_C^S = \mathcal{I}_S$$
 
-where $\mathcal{I}_S$ represents the social quantum-classical interface.
+where $`\mathcal{I}_S`$ represents the social quantum-classical interface.
 
 **Axiom 2: Social Information Conservation**  
 The total amount of information in a social system is conserved but can be converted between quantum and classical forms:
 
 $$I_S = I_{S_Q} + I_{S_C} = \text{constant}$$
 
-where $I_{S_Q}$ is social quantum information and $I_{S_C}$ is social classical information.
+where $`I_{S_Q}`$ is social quantum information and $`I_{S_C}`$ is social classical information.
 
 **Axiom 3: Social Observer Effect**  
 The social observation process affects the observed social phenomena, conforming to the uncertainty principle:
 
 $$\Delta S_{collective} \cdot \Delta S_{individual} \geq \frac{1}{2}|\langle[S_{collective}, S_{individual}]\rangle|$$
 
-where $S_{collective}$ and $S_{individual}$ are operators for collective and individual social states respectively.
+where $`S_{collective}`$ and $`S_{individual}`$ are operators for collective and individual social states respectively.
 
 ### Quantum Representation of Social Systems
 
@@ -57,13 +57,13 @@ The quantum state of a social system can be represented as:
 
 $$|\Psi_S\rangle = \sum_i \alpha_i |S_i\rangle$$
 
-where $|S_i\rangle$ are possible social configuration basis states, $\alpha_i$ are complex amplitudes satisfying $\sum_i |\alpha_i|^2 = 1$.
+where $`|S_i\rangle`$ are possible social configuration basis states, $`\alpha_i`$ are complex amplitudes satisfying $`\sum_i |\alpha_i|^2 = 1`$.
 
 The density matrix of a social system is:
 
 $$\rho_S = \sum_j p_j |\Psi_S^j\rangle\langle\Psi_S^j|$$
 
-where $p_j$ are probabilities of mixed states, satisfying $\sum_j p_j = 1$.
+where $`p_j`$ are probabilities of mixed states, satisfying $`\sum_j p_j = 1`$.
 
 ### Multi-level Structure of Social Systems
 
@@ -72,12 +72,12 @@ Social systems have a multi-level structure, with each level having its own quan
 $$\mathcal{S} = \{\mathcal{S}^{(1)}, \mathcal{S}^{(2)}, ..., \mathcal{S}^{(n)}\}$$
 
 where:
-- $\mathcal{S}^{(1)}$ - Individual level
-- $\mathcal{S}^{(2)}$ - Group level
-- $\mathcal{S}^{(3)}$ - Organizational level
-- $\mathcal{S}^{(4)}$ - Community level
-- $\mathcal{S}^{(5)}$ - Societal level
-- $\mathcal{S}^{(6)}$ - Global level
+- $`\mathcal{S}^{(1)}`$ - Individual level
+- $`\mathcal{S}^{(2)}`$ - Group level
+- $`\mathcal{S}^{(3)}`$ - Organizational level
+- $`\mathcal{S}^{(4)}`$ - Community level
+- $`\mathcal{S}^{(5)}`$ - Societal level
+- $`\mathcal{S}^{(6)}`$ - Global level
 
 Information transfer between levels satisfies the entropy increase principle:
 
@@ -87,7 +87,7 @@ $$S(\mathcal{M}_{i \rightarrow i+1}(S^{(i)})) \geq S(S^{(i)})$$
 
 ### Quantum Social Domain Properties
 
-The quantum social domain $\Omega_Q^S$ has the following properties:
+The quantum social domain $`\Omega_Q^S`$ has the following properties:
 
 1. **Social Possibility Space**: Contains superpositions of all potential social states
    $$\Psi_Q^S = \sum_i \alpha_i |S_i\rangle, \quad \sum_i |\alpha_i|^2 = 1$$
@@ -103,7 +103,7 @@ The quantum social domain $\Omega_Q^S$ has the following properties:
 
 ### Classical Social Domain Properties
 
-The classical social domain $\Omega_C^S$ has the following properties:
+The classical social domain $`\Omega_C^S`$ has the following properties:
 
 1. **Social Deterministic Structures**: Established social institutions, norms, and physical infrastructure
    $$K_C^S = \{k_i = (x_i, r_i, n_i, v_i, h_i)\}$$
@@ -118,17 +118,17 @@ The classical social domain $\Omega_C^S$ has the following properties:
 
 ### Social Interface Dynamics
 
-The dynamics of the interface $\mathcal{I}_S$ between quantum and classical social domains satisfy:
+The dynamics of the interface $`\mathcal{I}_S`$ between quantum and classical social domains satisfy:
 
 $$\frac{d\mathcal{I}_S}{dt} = \alpha\nabla^2\mathcal{I}_S + \beta(\mathcal{I}_S - \mathcal{I}_0)(\mathcal{I}_S - \mathcal{I}_c) - \gamma J_S$$
 
-where $J_S$ is social information flow, $\mathcal{I}_0$ and $\mathcal{I}_c$ are stable points.
+where $`J_S`$ is social information flow, $`\mathcal{I}_0`$ and $`\mathcal{I}_c`$ are stable points.
 
 The social classicalization process (such as norm formation, institutionalization) can be represented as:
 
 $$\rho_S^C = \mathcal{C}_S(\rho_S^Q) = \sum_i P_i^S \rho_S^Q P_i^{S\dagger}$$
 
-where $P_i^S$ are social projection operators corresponding to social observation processes.
+where $`P_i^S`$ are social projection operators corresponding to social observation processes.
 
 ## Quantum Emergence of Collective Behavior
 
@@ -138,9 +138,9 @@ Collective consciousness as an emergent property of social quantum states:
 
 $$|\Psi_{collective}\rangle = \frac{1}{\sqrt{Z}}\sum_i w_i |\psi_i\rangle$$
 
-where $|\psi_i\rangle$ are individual consciousness states, $w_i$ are weight coefficients, and $Z$ is a normalization factor.
+where $`|\psi_i\rangle`$ are individual consciousness states, $`w_i`$ are weight coefficients, and $`Z`$ is a normalization factor.
 
-The integration degree of collective consciousness $\Phi_{collective}$ satisfies:
+The integration degree of collective consciousness $`\Phi_{collective}`$ satisfies:
 
 $$\Phi_{collective} > \sum_i \Phi_i$$
 
@@ -170,7 +170,7 @@ Social revolutions are quantum phase transitions at critical points:
 
 $$\frac{dP_{revolution}}{dt} = \alpha P_{revolution}(1-P_{revolution})(P_{revolution} - P_c) + \sigma\xi(t)$$
 
-where $P_{revolution}$ is the probability of revolution success, $P_c$ is the critical threshold, and $\xi(t)$ is social random fluctuation.
+where $`P_{revolution}`$ is the probability of revolution success, $`P_c`$ is the critical threshold, and $`\xi(t)`$ is social random fluctuation.
 
 ## Quantum Entanglement in Social Networks
 
@@ -180,13 +180,13 @@ Social networks can be represented as quantum graph states:
 
 $$|G_S\rangle = \sum_{E \subset V \times V} \alpha_E |E\rangle$$
 
-where $V$ is the set of nodes (individuals), $E$ is the set of edges (relationships), and $\alpha_E$ are complex amplitudes.
+where $`V`$ is the set of nodes (individuals), $`E`$ is the set of edges (relationships), and $`\alpha_E`$ are complex amplitudes.
 
 The quantum entanglement of social networks satisfies:
 
 $$\mathcal{E}(G_S) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
-where $\rho_A$ and $\rho_B$ are reduced density matrices of subnetworks $A$ and $B$, and $S$ is the von Neumann entropy.
+where $`\rho_A`$ and $`\rho_B`$ are reduced density matrices of subnetworks $`A`$ and $`B`$, and $`S`$ is the von Neumann entropy.
 
 ### Entanglement Measures for Social Relationships
 
@@ -194,13 +194,13 @@ The degree of entanglement in social relationships can be quantified as:
 
 $$E_{ij} = -\text{Tr}(\rho_{ij} \log \rho_{ij}) - \text{Tr}(\rho_i \log \rho_i) - \text{Tr}(\rho_j \log \rho_j)$$
 
-where $\rho_{ij}$ is the joint density matrix of individuals $i$ and $j$, while $\rho_i$ and $\rho_j$ are their respective reduced density matrices.
+where $`\rho_{ij}`$ is the joint density matrix of individuals $`i`$ and $`j`$, while $`\rho_i`$ and $`\rho_j`$ are their respective reduced density matrices.
 
 The dynamics of social entanglement networks satisfy:
 
 $$\frac{dE_{ij}}{dt} = \alpha(C_{ij} - E_{ij}) + \beta\sum_{k \neq i,j} E_{ik}E_{kj} - \gamma E_{ij}^3$$
 
-where $C_{ij}$ is the classical social connection strength.
+where $`C_{ij}`$ is the classical social connection strength.
 
 ### Quantum Tunneling in Social Information Propagation
 
@@ -208,7 +208,7 @@ Social information can propagate through social barriers via quantum tunneling e
 
 $$P_{tunneling} = e^{-2\int_{x_1}^{x_2} \kappa(x) dx}$$
 
-where $\kappa(x) = \sqrt{2m(V(x) - E)/\hbar^2}$, $V(x)$ is the social barrier potential, and $E$ is the information energy.
+where $`\kappa(x) = \sqrt{2m(V(x) - E)/\hbar^2}`$, $`V(x)`$ is the social barrier potential, and $`E`$ is the information energy.
 
 This explains why certain information can rapidly spread between seemingly unconnected social groups.
 
@@ -216,17 +216,17 @@ This explains why certain information can rapidly spread between seemingly uncon
 
 ### Social Phase Transition Models
 
-Social systems can undergo quantum phase transitions described by an order parameter $\psi_S$:
+Social systems can undergo quantum phase transitions described by an order parameter $`\psi_S`$:
 
 $$\frac{d\psi_S}{dt} = r\psi_S - u|\psi_S|^2\psi_S + K\nabla^2\psi_S + \eta(t)$$
 
-where $r$ is the control parameter, $u$ is the coefficient of the nonlinear term, $K$ is the diffusion coefficient, and $\eta(t)$ is social noise.
+where $`r`$ is the control parameter, $`u`$ is the coefficient of the nonlinear term, $`K`$ is the diffusion coefficient, and $`\eta(t)`$ is social noise.
 
 The critical exponents of social phase transitions satisfy scaling laws:
 
 $$\chi_S \sim |r - r_c|^{-\gamma_S}$$
 
-where $\chi_S$ is social susceptibility, $r_c$ is the critical point, and $\gamma_S$ is the social critical exponent.
+where $`\chi_S`$ is social susceptibility, $`r_c`$ is the critical point, and $`\gamma_S`$ is the social critical exponent.
 
 ### Social Critical Phenomena
 
@@ -234,25 +234,25 @@ Social critical phenomena are characterized by long-range correlations in fluctu
 
 $$G(r) = \langle\psi_S(0)\psi_S(r)\rangle \sim r^{-(d-2+\eta_S)}$$
 
-where $d$ is the dimension of the social network and $\eta_S$ is the social anomalous dimension exponent.
+where $`d`$ is the dimension of the social network and $`\eta_S`$ is the social anomalous dimension exponent.
 
 Social systems at critical states exhibit maximum sensitivity and adaptability:
 
 $$\frac{\partial \langle \psi_S \rangle}{\partial h} \xrightarrow{r \to r_c} \infty$$
 
-where $h$ is the external social field.
+where $`h`$ is the external social field.
 
 ### Social Order Parameters
 
 Different types of social phase transitions correspond to different order parameters:
 
-1. **Belief Consensus**: $\psi_B = \frac{1}{N}\sum_i s_i$, where $s_i$ is the individual belief orientation
+1. **Belief Consensus**: $`\psi_B = \frac{1}{N}\sum_i s_i`$, where $`s_i`$ is the individual belief orientation
 
-2. **Social Cohesion**: $\psi_C = \frac{1}{N(N-1)}\sum_{i \neq j} c_{ij}$, where $c_{ij}$ is the connection strength
+2. **Social Cohesion**: $`\psi_C = \frac{1}{N(N-1)}\sum_{i \neq j} c_{ij}`$, where $`c_{ij}`$ is the connection strength
 
-3. **Social Stratification**: $\psi_S = \sqrt{\frac{1}{N}\sum_i (r_i - \bar{r})^2}$, where $r_i$ is the social rank
+3. **Social Stratification**: $`\psi_S = \sqrt{\frac{1}{N}\sum_i (r_i - \bar{r})^2}`$, where $`r_i`$ is the social rank
 
-4. **Social Mobilization**: $\psi_M = \frac{N_{active}}{N_{total}}$, representing the proportion participating in social movements
+4. **Social Mobilization**: $`\psi_M = \frac{N_{active}}{N_{total}}`$, representing the proportion participating in social movements
 
 ## Quantum Models of Social Cognition and Decision-Making
 
@@ -272,7 +272,7 @@ The decision process can be described as rotation in Hilbert space:
 
 $$|\Psi_D^\prime\rangle = U(\theta, \phi)|\Psi_D\rangle$$
 
-where $U(\theta, \phi)$ is a unitary transformation representing the adjustment of decision states through cognitive processes.
+where $`U(\theta, \phi)`$ is a unitary transformation representing the adjustment of decision states through cognitive processes.
 
 ### Cognitive Deformation Under Social Influence
 
@@ -280,7 +280,7 @@ Social influence can be modeled as a combination of quantum measurement and inte
 
 $$\rho_C^\prime = \sum_i M_i^S \rho_C M_i^{S\dagger} + \mathcal{I}(\rho_C, \rho_E)$$
 
-where $\rho_C$ is the individual cognitive state, $M_i^S$ is the social influence measurement operator, and $\mathcal{I}(\rho_C, \rho_E)$ is the environmental interference term.
+where $`\rho_C`$ is the individual cognitive state, $`M_i^S`$ is the social influence measurement operator, and $`\mathcal{I}(\rho_C, \rho_E)`$ is the environmental interference term.
 
 Social cognitive biases can be represented as non-orthogonality of quantum states:
 
@@ -294,13 +294,13 @@ Collective decision-making can be represented as a multi-body quantum system:
 
 $$|\Psi_{collective}\rangle = \sum_{i_1,i_2,...,i_n} c_{i_1,i_2,...,i_n} |d_{i_1}\rangle \otimes |d_{i_2}\rangle \otimes ... \otimes |d_{i_n}\rangle$$
 
-where $|d_{i_j}\rangle$ is the decision state of individual $j$.
+where $`|d_{i_j}\rangle`$ is the decision state of individual $`j`$.
 
 The quantum efficiency of collective decision-making can be defined as:
 
 $$\eta_{quantum} = \frac{I(\rho_{collective})}{I(\rho_1 \otimes \rho_2 \otimes ... \otimes \rho_n)}$$
 
-where $I(\rho)$ is quantum mutual information, and $\eta_{quantum} > 1$ indicates quantum collaborative advantage.
+where $`I(\rho)`$ is quantum mutual information, and $`\eta_{quantum} > 1`$ indicates quantum collaborative advantage.
 
 ### Quantum Contextual Effects in Social Cognition
 
@@ -308,13 +308,13 @@ Contextual effects in social cognition can be represented using quantum context-
 
 $$p(a|A,B) \neq p(a|A,C)$$
 
-where $p(a|A,B)$ is the probability of choosing option $a$ in $A$ under context $B$.
+where $`p(a|A,B)`$ is the probability of choosing option $`a`$ in $`A`$ under context $`B`$.
 
 This phenomenon can be described by the quantum projection formula:
 
 $$p(a|A,B) = \text{Tr}(\Pi_a^A \Pi_B \rho \Pi_B)$$
 
-where $\Pi_a^A$ is the projection operator for option $a$, and $\Pi_B$ is the projection operator for context $B$.
+where $`\Pi_a^A`$ is the projection operator for option $`a`$, and $`\Pi_B`$ is the projection operator for context $`B`$.
 
 ### Cognitive-Emotional Entanglement Model
 
@@ -328,7 +328,7 @@ The relationship between group emotions and cognition can be described as:
 
 $$\rho_{group} = \sum_i w_i \rho_{cog-emo}^i + \sum_{i \neq j} w_{ij} (\rho_{emo}^i \otimes \rho_{cog}^j)$$
 
-where $\rho_{cog-emo}^i$ is the cognitive-emotional entangled state of individual $i$, and $\rho_{emo}^i$ and $\rho_{cog}^j$ are individual emotional and cognitive states respectively.
+where $`\rho_{cog-emo}^i`$ is the cognitive-emotional entangled state of individual $`i`$, and $`\rho_{emo}^i`$ and $`\rho_{cog}^j`$ are individual emotional and cognitive states respectively.
 
 ### Neural Quantum Model of Decision-Making
 
@@ -336,7 +336,7 @@ The neural quantum model of decision-making connects macroscopic decisions with 
 
 $$|\Psi_{neural}\rangle = \sum_{i} c_i |n_i\rangle \xrightarrow{\text{collapse}} |decision\rangle$$
 
-where $|n_i\rangle$ is the neural activation pattern, and the collapse process corresponds to decision formation.
+where $`|n_i\rangle`$ is the neural activation pattern, and the collapse process corresponds to decision formation.
 
 This model predicts that neural oscillations before decision-making should exhibit quantum interference patterns:
 
@@ -352,7 +352,7 @@ Culture can be represented as the dynamic evolution of quantum states:
 
 $$|\Psi_C(t)\rangle = e^{-iHt}|\Psi_C(0)\rangle$$
 
-where $H$ is the cultural evolution Hamiltonian:
+where $`H`$ is the cultural evolution Hamiltonian:
 
 $$H = H_{\text{internal}} + H_{\text{external}} + H_{\text{interaction}}$$
 
@@ -362,7 +362,7 @@ Cultural evolution follows the quantum information diffusion equation:
 
 $$\frac{\partial \rho_C}{\partial t} = -i[H, \rho_C] + \mathcal{L}(\rho_C)$$
 
-where $\mathcal{L}$ is a dissipative superoperator describing the loss and recombination of cultural information.
+where $`\mathcal{L}`$ is a dissipative superoperator describing the loss and recombination of cultural information.
 
 ### Quantum Propagation Model of Cultural Memes
 
@@ -370,11 +370,11 @@ The propagation of cultural memes (cultural genes) can be described as a quantum
 
 $$|\Psi_M(t+1)\rangle = U_M|\Psi_M(t)\rangle$$
 
-where $U_M$ is the meme propagation operator:
+where $`U_M`$ is the meme propagation operator:
 
 $$U_M = S \cdot (C \otimes I)$$
 
-$S$ is the shift operator, and $C$ is the meme evolution operator.
+$`S`$ is the shift operator, and $`C`$ is the meme evolution operator.
 
 Quantum meme spreading is more efficient than classical propagation, expressed as:
 
@@ -398,7 +398,7 @@ The stable state of cultural diversity can be described as:
 
 $$\rho_{\text{diversity}} = \sum_i p_i |\Psi_i\rangle\langle\Psi_i| + \sum_{i \neq j} \gamma_{ij} |\Psi_i\rangle\langle\Psi_j|$$
 
-where the off-diagonal terms $\gamma_{ij}$ represent coherence between cultures.
+where the off-diagonal terms $`\gamma_{ij}`$ represent coherence between cultures.
 
 ### Cultural Hierarchical Structure and Emergence
 
@@ -407,8 +407,8 @@ Culture forms a multi-level quantum-classical structure:
 $$\mathcal{C} = \{\mathcal{C}_Q^{(1)}, \mathcal{C}_C^{(1)}, \mathcal{C}_Q^{(2)}, \mathcal{C}_C^{(2)}, ..., \mathcal{C}_Q^{(n)}, \mathcal{C}_C^{(n)}\}$$
 
 where:
-- $\mathcal{C}_Q^{(i)}$ is the quantum cultural domain at level i
-- $\mathcal{C}_C^{(i)}$ is the classical cultural domain at level i
+- $`\mathcal{C}_Q^{(i)}`$ is the quantum cultural domain at level i
+- $`\mathcal{C}_C^{(i)}`$ is the classical cultural domain at level i
 
 Cultural evolution can be viewed as interaction between different levels:
 
@@ -440,19 +440,19 @@ Cross-cultural exchange creates quantum entanglement between cultures:
 
 $$|\Psi_{AB}\rangle = \sum_{i,j} c_{ij} |culture_A^i\rangle |culture_B^j\rangle$$
 
-which cannot be decomposed into the form $|\Psi_A\rangle \otimes |\Psi_B\rangle$.
+which cannot be decomposed into the form $`|\Psi_A\rangle \otimes |\Psi_B\rangle`$.
 
 Cultural entanglement degree can be quantified as:
 
 $$E_{AB} = S(\rho_A) = S(\rho_B)$$
 
-where $\rho_A$ and $\rho_B$ are reduced density matrices.
+where $`\rho_A`$ and $`\rho_B`$ are reduced density matrices.
 
 The cultural fusion process can be described as the change in entanglement entropy:
 
 $$\frac{dE_{AB}}{dt} = \alpha C_{AB}(E_{\text{maximum}} - E_{AB}) - \beta E_{AB}(1 - S_{\text{similarity}})$$
 
-where $C_{AB}$ is the intensity of exchange, and $S_{\text{similarity}}$ is the cultural similarity.
+where $`C_{AB}`$ is the intensity of exchange, and $`S_{\text{similarity}}`$ is the cultural similarity.
 
 ## Quantum Properties of Economic Systems
 
@@ -470,7 +470,7 @@ The economic Hamiltonian contains kinetic and interaction terms:
 
 $$\hat{H}_{economy} = \sum_i \frac{\hat{p}_i^2}{2m_i} + \sum_{i<j} V(\hat{r}_i - \hat{r}_j)$$
 
-where $\hat{p}_i$ represents economic momentum (capital flow), and $V$ represents interaction potential between market participants.
+where $`\hat{p}_i`$ represents economic momentum (capital flow), and $`V`$ represents interaction potential between market participants.
 
 ### Market Quantum and Classical States
 
@@ -488,7 +488,7 @@ Market quantum-classical transition can be quantified as:
 
 $$P_{classicalization} = 1 - e^{-\lambda N_{\text{observers}}}$$
 
-where $\lambda$ is the market sensitivity coefficient, and $N_{\text{observers}}$ is the number of observers.
+where $`\lambda`$ is the market sensitivity coefficient, and $`N_{\text{observers}}`$ is the number of observers.
 
 ### Quantum Model of Price Formation
 
@@ -500,13 +500,13 @@ Price fluctuations satisfy the uncertainty principle:
 
 $$\Delta p \cdot \Delta v \geq \frac{\hbar_{economic}}{2}$$
 
-where $p$ is price, $v$ is trading volume, and $\hbar_{economic}$ is the economic Planck constant.
+where $`p`$ is price, $`v`$ is trading volume, and $`\hbar_{economic}`$ is the economic Planck constant.
 
 Price discovery efficiency correlates with market quantum coherence:
 
 $$\eta_{price} = \frac{|\langle\Psi_{actual}|\Psi_{equilibrium}\rangle|^2}{1-S(\rho_{market})/S_{maximum}}$$
 
-where $|\Psi_{equilibrium}\rangle$ is the theoretical equilibrium price, and $S(\rho_{market})$ is market entropy.
+where $`|\Psi_{equilibrium}\rangle`$ is the theoretical equilibrium price, and $`S(\rho_{market})`$ is market entropy.
 
 ### Quantum Entanglement of Financial Assets
 
@@ -536,7 +536,7 @@ Quantum optimization of investment portfolios can be represented as:
 
 $$\max_{\{w_i\}} \langle\Psi_{investment}|\hat{R}|\Psi_{investment}\rangle - \lambda\langle\Psi_{investment}|\hat{\sigma}^2|\Psi_{investment}\rangle$$
 
-where $\hat{R}$ is the return operator, $\hat{\sigma}^2$ is the risk operator, and $\{w_i\}$ are asset weights.
+where $`\hat{R}`$ is the return operator, $`\hat{\sigma}^2`$ is the risk operator, and $`\{w_i\}`$ are asset weights.
 
 Quantum investment portfolios typically outperform classical portfolios:
 
@@ -554,7 +554,7 @@ The alternation between recession and prosperity can be viewed as quantum oscill
 
 $$|\Psi_{economy}(t)\rangle = \alpha e^{-iE_1t}|\Psi_1\rangle + \beta e^{-iE_2t}|\Psi_2\rangle$$
 
-where the oscillation frequency is related to the energy level difference: $\omega = (E_2 - E_1)/\hbar_{economic}$
+where the oscillation frequency is related to the energy level difference: $`\omega = (E_2 - E_1)/\hbar_{economic}`$
 
 Macroeconomic policies can be understood as adjustments to the potential energy landscape:
 
@@ -572,7 +572,7 @@ The process of money creation is similar to particle production:
 
 $$|\Psi_{t+1}\rangle = e^{-iH_{credit}\Delta t}|\Psi_t\rangle$$
 
-where $H_{credit}$ contains terms for money creation and destruction.
+where $`H_{credit}`$ contains terms for money creation and destruction.
 
 Central bank operations are equivalent to applying external forces to the field:
 
@@ -582,7 +582,7 @@ Quantum monetary theory predicts that fluctuations in money velocity and uncerta
 
 $$\Delta M \cdot \Delta V \geq \frac{\hbar_{economic}}{2}$$
 
-where $M$ is the money supply and $V$ is the velocity of circulation.
+where $`M`$ is the money supply and $`V`$ is the velocity of circulation.
 
 ## Social Experiments and Validation Methods
 
@@ -600,7 +600,7 @@ The universal framework for experimental design can be represented as:
 
 $$\mathcal{E} = \{\mathcal{P}, \mathcal{S}, \mathcal{M}, \mathcal{A}, \mathcal{I}\}$$
 
-where $\mathcal{P}$ is the preparation process, $\mathcal{S}$ is the social system, $\mathcal{M}$ is the measurement method, $\mathcal{A}$ is the analysis technique, and $\mathcal{I}$ is the intervention means.
+where $`\mathcal{P}`$ is the preparation process, $`\mathcal{S}`$ is the social system, $`\mathcal{M}`$ is the measurement method, $`\mathcal{A}`$ is the analysis technique, and $`\mathcal{I}`$ is the intervention means.
 
 ### Social Bell Inequality Experiments
 
@@ -608,7 +608,7 @@ Examining whether social behavior satisfies the Bell inequality of classical pro
 
 $$|E(a,b) - E(a,b') + E(a',b) + E(a',b')| \leq 2$$
 
-where $E(a,b)$ is the correlation function under social conditions $a$ and $b$.
+where $`E(a,b)`$ is the correlation function under social conditions $`a`$ and $`b`$.
 
 Violation of Bell's inequality in social decision experiments indicates the existence of quantum effects:
 
@@ -640,7 +640,7 @@ The quantum interference index is defined as:
 
 $$Q_{interference} = \frac{|P(A|C) - P(A|B,C) - P(A|\neg B,C)|}{P(A|C)}$$
 
-Experimental results typically find: $Q_{interference} > 0.2$
+Experimental results typically find: $`Q_{interference} > 0.2`$
 
 ### Social Entanglement Measurement
 
@@ -674,7 +674,7 @@ Validation strength can be defined as a weighted aggregation of different method
 
 $$S_{validation} = \sum_i w_i \cdot S_i \cdot I(M_i, M_j)$$
 
-where $S_i$ is the validation strength of a single method, and $I(M_i, M_j)$ is the mutual information between methods.
+where $`S_i`$ is the validation strength of a single method, and $`I(M_i, M_j)`$ is the mutual information between methods.
 
 ### Quantum Social Computation Methods
 
@@ -691,7 +691,7 @@ Numerical solutions for quantum social models employ the following techniques:
 
 4. **Quantum Machine Learning Algorithms**: Learning quantum model parameters from social data
    $$\min_{\theta} \mathcal{L}(y, f_{\theta}(x))$$
-   where $f_{\theta}$ is a quantum parameterized circuit
+   where $`f_{\theta}`$ is a quantum parameterized circuit
 
 ### Experimental Ethics and Social Impact Assessment
 
@@ -705,7 +705,7 @@ Quantum sociology experiments require special attention to:
 
 3. **Social System Uncertainty**: Inherent limitations of prediction
    $$\Delta F \cdot \Delta P \geq \frac{\hbar_{social}}{2}$$
-   where $F$ is future state, and $P$ is current policy
+   where $`F`$ is future state, and $`P`$ is current policy
 
 Social impact assessment matrix:
 
@@ -716,7 +716,7 @@ I_{21} & I_{22} & ... & I_{2n} \\
 I_{m1} & I_{m2} & ... & I_{mn}
 \end{pmatrix}$$
 
-where $I_{ij}$ is the impact degree of intervention $i$ on social dimension $j$.
+where $`I_{ij}`$ is the impact degree of intervention $`i`$ on social dimension $`j`$.
 
 ## Applications and Social Impact
 

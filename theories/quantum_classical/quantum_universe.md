@@ -29,8 +29,8 @@ This article introduces the Quantum Universe Theory in Quantum-Classical Dualism
 
 $$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
-其中，$|\psi_i\rangle$ 代表各种可能的宇宙状态，$c_i$ 是相应的复数系数，满足概率规范化条件 $\sum_i|c_i|^2=1$。
-Where $|\psi_i\rangle$ represents various possible universe states, $c_i$ are the corresponding complex coefficients, satisfying the probability normalization condition $\sum_i|c_i|^2=1$.
+其中，$`|\psi_i\rangle`$ 代表各种可能的宇宙状态，$`c_i`$ 是相应的复数系数，满足概率规范化条件 $`\sum_i|c_i|^2=1`$。
+Where $`|\psi_i\rangle`$ represents various possible universe states, $`c_i`$ are the corresponding complex coefficients, satisfying the probability normalization condition $`\sum_i|c_i|^2=1`$.
 
 ## 量子宇宙与经典域的关系 | Relationship Between Quantum Universe and Classical Domain
 
@@ -60,8 +60,8 @@ In traditional quantum mechanics, measurement leads to wave function collapse. I
 
 $$|\Psi_{AB}\rangle = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_A \otimes |\phi_j\rangle_B$$
 
-其中 $|\Psi_{AB}\rangle$ 是纠缠系统的总态，无法表示为子系统状态的简单张量积。
-Where $|\Psi_{AB}\rangle$ is the total state of the entangled system, which cannot be represented as a simple tensor product of subsystem states.
+其中 $`|\Psi_{AB}\rangle`$ 是纠缠系统的总态，无法表示为子系统状态的简单张量积。
+Where $`|\Psi_{AB}\rangle`$ is the total state of the entangled system, which cannot be represented as a simple tensor product of subsystem states.
 
 ### 量子叠加 | Quantum Superposition
 
@@ -77,17 +77,17 @@ $$|\psi\rangle = \alpha|\psi_1\rangle + \beta|\psi_2\rangle + ... = \sum_i c_i|\
 
 $$\mathcal{L} = \mathcal{L}(\phi_i, \partial_\mu\phi_i)$$
 
-其中 $\mathcal{L}$ 是描述场相互作用的拉格朗日量。
-Where $\mathcal{L}$ is the Lagrangian describing field interactions.
+其中 $`\mathcal{L}`$ 是描述场相互作用的拉格朗日量。
+Where $`\mathcal{L}`$ is the Lagrangian describing field interactions.
 
 ### 宇宙波函数 | Universe Wave Function
 
-整个宇宙的波函数 $|\Psi_{\text{宇宙}}\rangle$ 包含所有可能的物理配置，受到薛定谔方程的演化：
+整个宇宙的波函数 $`|\Psi_{\text{宇宙}}\rangle`$ 包含所有可能的物理配置，受到薛定谔方程的演化：
 
 $$i\hbar\frac{\partial}{\partial t}|\Psi_{\text{宇宙}}\rangle = \hat{H}|\Psi_{\text{宇宙}}\rangle$$
 
-其中 $\hat{H}$ 是宇宙的哈密顿算符。
-Where $\hat{H}$ is the Hamiltonian operator of the universe.
+其中 $`\hat{H}`$ 是宇宙的哈密顿算符。
+Where $`\hat{H}`$ is the Hamiltonian operator of the universe.
 
 ## 量子宇宙与多世界 | Quantum Universe and Multiple Worlds
 
@@ -129,6 +129,7 @@ The Quantum Universe theory posits that the essence of the universe is a self-ev
 ## 核心公式 | Core Formulas
 
 ### 信息-能量等价关系 | Information-Energy Equivalence
+
 $$
 E \propto \frac{\Delta I}{\Delta t}
 $$
@@ -178,9 +179,9 @@ $$
 \hat{\rho}_{\text{System}} = \text{Tr}_{\text{Environment}}(|\Psi_{\text{System+Environment}}\rangle\langle\Psi_{\text{System+Environment}}|)
 $$
 
-其中$\hat{\rho}_{\text{系统}}$是系统的密度矩阵，通过对环境自由度进行部分迹运算得到。
+其中$`\hat{\rho}_{\text{系统}}`$是系统的密度矩阵，通过对环境自由度进行部分迹运算得到。
 
-Where $\hat{\rho}_{\text{System}}$ is the density matrix of the system, obtained by performing a partial trace over the environmental degrees of freedom.
+Where $`\hat{\rho}_{\text{System}}`$ is the density matrix of the system, obtained by performing a partial trace over the environmental degrees of freedom.
 
 ## 量子宇宙的实验证据 | Experimental Evidence for the Quantum Universe
 

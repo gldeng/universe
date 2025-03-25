@@ -33,7 +33,7 @@
 3. **康德二元论**：物自体与现象的分离
    $$\text{康德} \rightarrow \text{物自体}(\Omega_Q) \text{与现象}(\Omega_C)$$
 
-量子经典二元论继承了这一谱系，但通过引入界面域 $\mathcal{I}$ 解决了传统二元论中两域不可通约的困境：
+量子经典二元论继承了这一谱系，但通过引入界面域 $`\mathcal{I}`$ 解决了传统二元论中两域不可通约的困境：
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -50,7 +50,7 @@ $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{
 3. **儒家天人合一**：天道与人道的交融
    $$\text{儒家} \rightarrow \text{天道}(\Omega_Q) \text{与人道}(\Omega_C)$$
 
-量子经典二元论对这些思想进行了形式化描述，引入界面动力学 $\mathcal{D}(x,t)$ 解释阴阳转化、二谛圆融等概念：
+量子经典二元论对这些思想进行了形式化描述，引入界面动力学 $`\mathcal{D}(x,t)`$ 解释阴阳转化、二谛圆融等概念：
 
 $$\frac{d\mathcal{D}(x,t)}{dt} = f(\mathcal{D}, \nabla\mathcal{D}, \nabla^2\mathcal{D},...)$$
 
@@ -77,11 +77,11 @@ $$\frac{d\mathcal{D}(x,t)}{dt} = f(\mathcal{D}, \nabla\mathcal{D}, \nabla^2\math
 
 $$K = \mathcal{C}_{\mathcal{O}}(\psi)$$
 
-其中 $K$ 是知识，$\psi$ 是被认识对象的原始态，$\mathcal{C}_{\mathcal{O}}$ 是观察者的经典化操作。这一描述解决了传统认识论中的多个难题：
+其中 $`K`$ 是知识，$`\psi`$ 是被认识对象的原始态，$`\mathcal{C}_{\mathcal{O}}`$ 是观察者的经典化操作。这一描述解决了传统认识论中的多个难题：
 
-1. **先验知识问题**：观察者的经典化能力 $\mathcal{C}_{\mathcal{O}}$ 部分决定了认识的形式和内容
+1. **先验知识问题**：观察者的经典化能力 $`\mathcal{C}_{\mathcal{O}}`$ 部分决定了认识的形式和内容
 2. **归纳问题**：预测未来的可靠性源于量子可能性波函数的连续性
-3. **因果问题**：因果性是经典域 $\Omega_C$ 中的关系结构，而非宇宙的终极本质
+3. **因果问题**：因果性是经典域 $`\Omega_C`$ 中的关系结构，而非宇宙的终极本质
 
 认识的深度与观察者维度的关系为：
 
@@ -93,7 +93,7 @@ $$D_{\text{认识}} \propto D_{\mathcal{O}}$$
 
 $$K = \mathcal{C}_{\mathcal{O}}(\psi) \neq \psi$$
 
-所有知识都受到观察者经典化能力 $\mathcal{C}_{\mathcal{O}}$ 的影响，没有"理论中立"的纯粹观察。但这不意味着相对主义，因为量子域 $\Omega_Q$ 中的对象 $\psi$ 对认识过程施加约束：
+所有知识都受到观察者经典化能力 $`\mathcal{C}_{\mathcal{O}}`$ 的影响，没有"理论中立"的纯粹观察。但这不意味着相对主义，因为量子域 $`\Omega_Q`$ 中的对象 $`\psi`$ 对认识过程施加约束：
 
 $$P(K|\psi) = |\langle K|\mathcal{C}_{\mathcal{O}}|\psi\rangle|^2$$
 
@@ -105,13 +105,13 @@ $$P(K|\psi) = |\langle K|\mathcal{C}_{\mathcal{O}}|\psi\rangle|^2$$
 
 $$K_i = \mathcal{C}_{\mathcal{O}_i}(\psi)$$
 
-不同文化、学科和个体对相同对象 $\psi$ 有不同认识 $K_i$，这些认识互补而非互斥。认知差异源于不同的经典化操作 $\mathcal{C}_{\mathcal{O}_i}$，各自捕获对象的不同方面。
+不同文化、学科和个体对相同对象 $`\psi`$ 有不同认识 $`K_i`$，这些认识互补而非互斥。认知差异源于不同的经典化操作 $`\mathcal{C}_{\mathcal{O}_i}`$，各自捕获对象的不同方面。
 
 理想的认知体系应当整合多种认知方式：
 
 $$K_{\text{综合}} = \int dO \, w(O) \mathcal{C}_O(\psi)$$
 
-其中 $w(O)$ 是观察者权重函数，这为跨学科和跨文化的知识整合提供了基础。
+其中 $`w(O)`$ 是观察者权重函数，这为跨学科和跨文化的知识整合提供了基础。
 
 ## 本体论基础
 
@@ -123,11 +123,11 @@ $$\mathcal{R} = \{\Omega_Q, \Omega_C, \mathcal{I}\}$$
 
 实在既包括确定的经典实体，也包括不确定的量子可能性，两者通过界面连接。这既避免了物理实在论的简化，也避免了社会建构论的极端，提供了折中方案：
 
-1. 存在独立于观察者的量子基底 $\Omega_Q$
-2. 观察者与环境共同构建经典实在 $\Omega_C$
-3. 界面 $\mathcal{I}$ 是实在的动态创生区域
+1. 存在独立于观察者的量子基底 $`\Omega_Q`$
+2. 观察者与环境共同构建经典实在 $`\Omega_C`$
+3. 界面 $`\mathcal{I}`$ 是实在的动态创生区域
 
-实在的完整描述需要波函数 $\Psi$ 和经典态 $\rho_C$ 的双重规定：
+实在的完整描述需要波函数 $`\Psi`$ 和经典态 $`\rho_C`$ 的双重规定：
 
 $$\mathcal{R} = \{\Psi, \rho_C\}$$
 
@@ -137,7 +137,7 @@ $$\mathcal{R} = \{\Psi, \rho_C\}$$
 
 $$S_Q \xrightarrow{\mathcal{C}} S_C$$
 
-经典结构 $S_C$ 是量子结构 $S_Q$ 通过特定经典化过程 $\mathcal{C}$ 得到的投影。不同经典化过程得到不同但兼容的结构描述：
+经典结构 $`S_C`$ 是量子结构 $`S_Q`$ 通过特定经典化过程 $`\mathcal{C}`$ 得到的投影。不同经典化过程得到不同但兼容的结构描述：
 
 $$S_{C_1} = \mathcal{C}_1(S_Q), \quad S_{C_2} = \mathcal{C}_2(S_Q)$$
 
@@ -149,7 +149,7 @@ $$S_{C_1} = \mathcal{C}_1(S_Q), \quad S_{C_2} = \mathcal{C}_2(S_Q)$$
 
 $$P_{\text{高层}} = \mathcal{E}(P_{\text{低层}})$$
 
-其中 $P_{\text{高层}}$ 是高层性质，$P_{\text{低层}}$ 是低层性质，$\mathcal{E}$ 是涌现映射。涌现性质具有以下特征：
+其中 $`P_{\text{高层}}`$ 是高层性质，$`P_{\text{低层}}`$ 是低层性质，$`\mathcal{E}`$ 是涌现映射。涌现性质具有以下特征：
 
 $$I(P_{\text{高层}}) < I(P_{\text{低层}})$$
 $$S(P_{\text{高层}}|P_{\text{低层}}) > 0$$
@@ -174,7 +174,7 @@ $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{
 
 $$\frac{d\mathcal{D}(x,t)}{dt} = f(\mathcal{D}, \nabla\mathcal{D}, \mathcal{D}_c - \mathcal{D},...)$$
 
-当 $\mathcal{D}$ 接近 $\mathcal{D}_c$ 时，系统倾向转向另一域，表现出阴盛阳衰、阳盛阴衰的循环变化。
+当 $`\mathcal{D}`$ 接近 $`\mathcal{D}_c`$ 时，系统倾向转向另一域，表现出阴盛阳衰、阳盛阴衰的循环变化。
 
 ### 空性与实相的统一
 
@@ -220,7 +220,7 @@ $$\mathcal{C}_{\mathcal{O}}(\Psi) = \rho_C$$
 
 $$W = \mathcal{Q}_{\mathcal{O}} \circ \mathcal{C}_{\mathcal{O}}(\Psi_{\text{当前}})$$
 
-自由意志是观察者通过量子化算符 $\mathcal{Q}_{\mathcal{O}}$ 将当前经典状态转换为量子可能性，然后通过经典化算符 $\mathcal{C}_{\mathcal{O}}$ 选择特定可能性的能力。这一模型既不是决定论也不是随机论，而是第三种选择，可称为"量子选择论"。
+自由意志是观察者通过量子化算符 $`\mathcal{Q}_{\mathcal{O}}`$ 将当前经典状态转换为量子可能性，然后通过经典化算符 $`\mathcal{C}_{\mathcal{O}}`$ 选择特定可能性的能力。这一模型既不是决定论也不是随机论，而是第三种选择，可称为"量子选择论"。
 
 自由度可以量化为：
 
@@ -260,7 +260,7 @@ $$\max_{\text{行动}} D_{\mathcal{O}}$$
 
 $$V(\mathcal{S}) \propto C(\mathcal{S})$$
 
-系统 $\mathcal{S}$ 的价值与其连通性 $C(\mathcal{S})$ 成正比，连通性定义为：
+系统 $`\mathcal{S}`$ 的价值与其连通性 $`C(\mathcal{S})`$ 成正比，连通性定义为：
 
 $$C(\mathcal{S}) = \sum_{i,j \in \mathcal{S}} I(i:j)$$
 
@@ -292,7 +292,7 @@ $$\mathcal{F} = \{\text{传统逻辑}, \text{量子逻辑}, \text{界面逻辑}\
 
 $$A \wedge \neg A \approx 0, \quad A \vee \neg A \approx 1$$
 
-其中 $\approx$ 表示近似等于，偏差程度与系统解相干度相关。
+其中 $`\approx`$ 表示近似等于，偏差程度与系统解相干度相关。
 
 ### 哲学对话的元层级
 
@@ -300,11 +300,11 @@ $$A \wedge \neg A \approx 0, \quad A \vee \neg A \approx 1$$
 
 $$D = \{\mathcal{O}_1(\psi), \mathcal{O}_2(\psi), ..., \mathcal{O}_n(\psi)\}$$
 
-对话 $D$ 是多个观察者对同一对象 $\psi$ 的不同经典化视角的集合。有效对话应当：
+对话 $`D`$ 是多个观察者对同一对象 $`\psi`$ 的不同经典化视角的集合。有效对话应当：
 
-1. 明确各自视角的经典化假设 $\mathcal{C}_{\mathcal{O}_i}$
+1. 明确各自视角的经典化假设 $`\mathcal{C}_{\mathcal{O}_i}`$
 2. 探索不同视角间的互补关系
-3. 共同构建更高维度的综合视角 $\mathcal{C}_{\text{综合}}$
+3. 共同构建更高维度的综合视角 $`\mathcal{C}_{\text{综合}}`$
 
 这一方法论有助于解决哲学争论的根源。
 

@@ -26,8 +26,8 @@ Digital art exists simultaneously in both quantum and classical domains:
 $$A_{digital} = \{A_Q, A_C\}$$
 
 Where:
-- $A_Q$ is the quantum digital art space, containing all possible artistic expressions, interpretations, and experiences
-- $A_C$ is the classical digital art space, representing realized specific art forms and perceptual experiences
+- $`A_Q`$ is the quantum digital art space, containing all possible artistic expressions, interpretations, and experiences
+- $`A_C`$ is the classical digital art space, representing realized specific art forms and perceptual experiences
 
 The intersection of these constitutes the art interface:
 
@@ -50,10 +50,10 @@ Digital art can be represented as an art state in a multi-dimensional vector spa
 $$|\psi_A\rangle = \sum_{i,j,k...} \alpha_{ijk...} |f_i\rangle \otimes |m_j\rangle \otimes |c_k\rangle \otimes ...$$
 
 Where:
-- $|f_i\rangle$ represents formal basis vectors
-- $|m_j\rangle$ represents meaning basis vectors
-- $|c_k\rangle$ represents contextual basis vectors
-- $\alpha_{ijk...}$ represents complex amplitudes
+- $`|f_i\rangle`$ represents formal basis vectors
+- $`|m_j\rangle`$ represents meaning basis vectors
+- $`|c_k\rangle`$ represents contextual basis vectors
+- $`\alpha_{ijk...}`$ represents complex amplitudes
 
 This expression reflects the multi-dimensional complexity and superposition possibilities of digital art.
 
@@ -66,8 +66,8 @@ The creative state of digital art can be represented as an art wavefunction:
 $$|\Psi_A(t)\rangle = \sum_i \alpha_i(t) |A_i\rangle$$
 
 Where:
-- $|A_i\rangle$ represents possible art state basis vectors
-- $\alpha_i(t)$ are time-varying complex amplitudes, satisfying $\sum_i |\alpha_i(t)|^2 = 1$
+- $`|A_i\rangle`$ represents possible art state basis vectors
+- $`\alpha_i(t)`$ are time-varying complex amplitudes, satisfying $`\sum_i |\alpha_i(t)|^2 = 1`$
 
 The art wavefunction describes the superposition of all possible interpretations and experiences of an artwork.
 
@@ -111,7 +111,7 @@ AI-generated art can be viewed as a quantum generation process:
 
 $$|\Psi_{gen}\rangle = \hat{G}|\Psi_{input}\rangle$$
 
-Where $\hat{G}$ is a generation operator mapping the input space to the art possibility space.
+Where $`\hat{G}`$ is a generation operator mapping the input space to the art possibility space.
 
 The quantum information extraction and transfer efficiency of generative art is:
 
@@ -128,9 +128,9 @@ The classical perception of digital art can be quantified through a perception f
 $$P(A) = \int_{\Omega} w(x) \cdot f_A(x) dx$$
 
 Where:
-- $f_A(x)$ is the art feature function
-- $w(x)$ is the perception weight function
-- $\Omega$ is the feature space
+- $`f_A(x)`$ is the art feature function
+- $`w(x)`$ is the perception weight function
+- $`\Omega`$ is the feature space
 
 This function describes how viewers perceive and evaluate specific art implementations.
 
@@ -140,7 +140,7 @@ The classical complexity of digital art can be measured through information entr
 
 $$H(A) = -\sum_i p_i \log_2 p_i$$
 
-Where $p_i$ is the probability of art element $i$ appearing.
+Where $`p_i`$ is the probability of art element $`i`$ appearing.
 
 The effective complexity of art balances order and chaos:
 
@@ -155,9 +155,9 @@ The dynamics of interactive digital art can be represented as:
 $$\frac{dA}{dt} = f_A(A, U, t) \quad \frac{dU}{dt} = f_U(A, U, t)$$
 
 Where:
-- $A$ is the art state vector
-- $U$ is the user state vector
-- $f_A$ and $f_U$ are mutually coupled dynamic functions
+- $`A`$ is the art state vector
+- $`U`$ is the user state vector
+- $`f_A`$ and $`f_U`$ are mutually coupled dynamic functions
 
 This system exhibits self-organization, emergence, and bifurcation properties characteristic of complex systems.
 
@@ -168,8 +168,8 @@ Classical digital art can be evaluated through multi-dimensional standards:
 $$V(A) = \sum_i w_i \cdot v_i(A)$$
 
 Where:
-- $v_i(A)$ represents various evaluation dimensions (such as novelty, coherence, technical quality, emotional impact, etc.)
-- $w_i$ represents corresponding weights
+- $`v_i(A)`$ represents various evaluation dimensions (such as novelty, coherence, technical quality, emotional impact, etc.)
+- $`w_i`$ represents corresponding weights
 
 Evaluation standards dynamically change with social-cultural context and technological evolution.
 
@@ -182,8 +182,8 @@ Art viewing causes the art wavefunction to collapse:
 $$|\Psi_A\rangle \xrightarrow{\text{Viewing}} |A_k\rangle \quad \text{with probability} = |\alpha_k|^2 \cdot f(O, C, E)$$
 
 Where:
-- $|A_k\rangle$ is a specific art experience state
-- $f(O, C, E)$ is a probability function modulated by viewer characteristics $O$, cultural background $C$, and environment $E$
+- $`|A_k\rangle`$ is a specific art experience state
+- $`f(O, C, E)`$ is a probability function modulated by viewer characteristics $`O`$, cultural background $`C`$, and environment $`E`$
 
 This explains why the same artwork produces different experiences for different viewers in different contexts.
 
@@ -194,10 +194,10 @@ Digital art is realized at the digital-physical interface:
 $$\mathcal{M}: \mathcal{A}_D \rightarrow \mathcal{A}_P, \quad A_P = \mathcal{M}(A_D, D, \xi)$$
 
 Where:
-- $\mathcal{A}_D$ is the digital art space
-- $\mathcal{A}_P$ is the physical perception space
-- $D$ represents display/presentation technology
-- $\xi$ represents environmental factors
+- $`\mathcal{A}_D`$ is the digital art space
+- $`\mathcal{A}_P`$ is the physical perception space
+- $`D`$ represents display/presentation technology
+- $`\xi`$ represents environmental factors
 
 This mapping explains how different display technologies and environments affect digital art experiences.
 
@@ -207,7 +207,7 @@ The coherence of digital art decays with time and social interaction:
 
 $$\rho_A(t) = \sum_{i,j} \rho_{ij}(0) e^{-\gamma_{ij}t} |A_i\rangle\langle A_j|$$
 
-Where $\gamma_{ij}$ is the decoherence rate, influenced by social attention, media coverage, and critical discourse.
+Where $`\gamma_{ij}`$ is the decoherence rate, influenced by social attention, media coverage, and critical discourse.
 
 Art coherence determines the ability of a work to maintain multiple interpretative potentials:
 
@@ -287,7 +287,7 @@ Art creation is a quantum-classical interactive process:
 4. **Classical Implementation Phase**: Converting selected ideas into tangible works
    $$A_C = f(|idea_k\rangle, T, S)$$
 
-Where $T$ represents technical conditions, and $S$ represents style constraints.
+Where $`T`$ represents technical conditions, and $`S`$ represents style constraints.
 
 ### Quantum Appreciation Model
 
@@ -345,7 +345,7 @@ Digital art styles and genres follow quantum-classical evolution:
 4. **Art Genealogy Emergence**: Art styles form bifurcating tree structures
    $$\mathcal{G}_{art} = \{S, E, w\}$$
 
-Where $S$ is the set of style nodes, $E$ is the set of influence relationships, and $w$ is relationship strength.
+Where $`S`$ is the set of style nodes, $`E`$ is the set of influence relationships, and $`w`$ is relationship strength.
 
 ## Digital Art Practice and Applications
 
@@ -356,7 +356,7 @@ Creation techniques applying quantum-classical theory:
 1. **Quantum Mind Mapping**: Visualizing idea space as a quantum mind map
    $$G_Q = \{I, R, P\}$$
 
-   Where $I$ is the set of idea nodes, $R$ is the set of relationships, and $P$ is the set of node importance weights.
+   Where $`I`$ is the set of idea nodes, $`R`$ is the set of relationships, and $`P`$ is the set of node importance weights.
 
 2. **Superposition State Exploration Method**: Consciously maintaining creative superposition states
    
@@ -389,12 +389,12 @@ Comprehensive evaluation framework includes:
 2. **Quantum Innovation Degree**: Evaluating the quantum innovation contribution of works
    $$I_{quantum} = -\log_2 P(A|H_{art})$$
    
-   Where $P(A|H_{art})$ is the probability of the work appearing given the art historical conditions.
+   Where $`P(A|H_{art})`$ is the probability of the work appearing given the art historical conditions.
 
 3. **Quantum-Classical Balance Degree**: Evaluating the balance between quantum possibility and classical determinism in works
    $$B_{QC} = \frac{H(A)}{H_{max}} \cdot \frac{C(A)}{C_{max}}$$
    
-   Where $H(A)$ is work entropy, and $C(A)$ is work coherence.
+   Where $`H(A)`$ is work entropy, and $`C(A)`$ is work coherence.
 
 4. **Artistic Resonance Depth**: Evaluating the depth of viewer resonance evoked by works
    $$D_{resonance} = \frac{1}{N} \sum_i |\langle\Psi_{viewer_i}|\hat{H}_{resonance}|\Psi_{artwork}\rangle|^2$$

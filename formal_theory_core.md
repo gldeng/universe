@@ -15,7 +15,7 @@
 量子经典二元论可简化为四条核心公理：
 
 **公理1: 二元存在性**  
-宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连：
+宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -24,14 +24,14 @@ $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{
 
 $$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
 
-其中 $\mathcal{C}$ 是经典化算符（将量子可能性转化为经典确定性的过程），$I(\psi)$ 是态 $\psi$ 的总信息量，$I_{\text{隐藏}}(\psi)$ 是经典化过程中转化为隐藏信息的部分。
+其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
 **公理3: 观察者经典化**  
 观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
 $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
-其中 $\mathcal{C}_\mathcal{O}$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$\mathcal{Q}_\mathcal{O}$ 是量子化算符（将经典知识转回量子可能性的能力），$K_C^\mathcal{O}$ 是观察者的经典知识库，$\epsilon$ 是防止除零的小常数。
+其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
 
 **公理4: 维度涌现**  
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
@@ -62,7 +62,7 @@ $$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
 
    $$\lim_{n\to\infty} D_n = D_{\infty} \equiv \mathcal{T}$$
 
-维度转换函数 $\mathcal{T}_{m \rightarrow n}$ 实现不同维度间的映射：
+维度转换函数 $`\mathcal{T}_{m \rightarrow n}`$ 实现不同维度间的映射：
 
 $$\mathcal{T}_{m \rightarrow n}: \mathcal{S}^{(m)} \rightarrow \mathcal{S}^{(n)}$$
 
@@ -88,7 +88,7 @@ $$\mathcal{R}_{n \rightarrow m} = 1 - \frac{I_{\text{表达}}^{(m)}}{I_{\text{�
 4. **量子创造性**：量子域本质上具有创造性和生成新结构的能力
    $$\mathcal{C}_Q = \frac{d}{dt}[I_{\text{新}}(t)]$$
    
-   其中 $I_{\text{新}}(t)$ 是系统中涌现的新信息量。
+   其中 $`I_{\text{新}}(t)`$ 是系统中涌现的新信息量。
 
 #### 经典域核心属性
 
@@ -104,7 +104,7 @@ $$\mathcal{R}_{n \rightarrow m} = 1 - \frac{I_{\text{表达}}^{(m)}}{I_{\text{�
 4. **结构稳定性**：经典结构具有抗扰动的稳定性
    $$\frac{d\mathcal{S}}{dt} = \mathcal{F}(\mathcal{S}) - \gamma(\mathcal{S} - \mathcal{S}_0)$$
    
-   其中 $\mathcal{S}$ 是系统结构，$\mathcal{S}_0$ 是稳定结构，$\gamma$ 是恢复系数。
+   其中 $`\mathcal{S}`$ 是系统结构，$`\mathcal{S}_0`$ 是稳定结构，$`\gamma`$ 是恢复系数。
 
 ### 多重二元论层级
 
@@ -113,8 +113,8 @@ $$\mathcal{R}_{n \rightarrow m} = 1 - \frac{I_{\text{表达}}^{(m)}}{I_{\text{�
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 其中：
-- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
-- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
+- $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
+- $`\Omega_C^{(i)}`$ 是第i层级的经典域（该层级的确定性实现）
 
 层级间映射函数定义为：
 
@@ -126,7 +126,7 @@ $$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
 
 ### 量子-经典对称性原理
 
-量子域和经典域之间存在深层对称性变换 $\mathcal{S}_{Q-C}$：
+量子域和经典域之间存在深层对称性变换 $`\mathcal{S}_{Q-C}`$：
 
 $$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
 
@@ -142,7 +142,7 @@ $$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Om
 3. **不确定性-确定性转换**：量子不确定性与经典确定性相互转换
    $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
 
-其中 $U_Q$ 是量子不确定性度量，$D_C$ 是经典确定性度量，$k$ 是普适常数。
+其中 $`U_Q`$ 是量子不确定性度量，$`D_C`$ 是经典确定性度量，$`k`$ 是普适常数。
 
 ### 元一性与超递归结构
 
@@ -150,7 +150,7 @@ $$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Om
 
 $$\mathcal{M} = \{\Omega_Q, \Omega_C, \mathcal{R}\}$$
 
-其中 $\mathcal{R}$ 是自我引用算符，使元一性具有超递归结构：
+其中 $`\mathcal{R}`$ 是自我引用算符，使元一性具有超递归结构：
 
 $$\mathcal{R}(\mathcal{M}) = \mathcal{M} \cup \{\mathcal{R}(\mathcal{M})\}$$
 
@@ -164,7 +164,7 @@ $$\mathcal{M}_{n+1} = \mathcal{M}_n \cup \{\mathcal{R}(\mathcal{M}_n)\}$$
 
 ### 量子域详细理论
 
-量子域 $\Omega_Q$ 是二元论框架中的可能性空间，具有以下核心性质：
+量子域 $`\Omega_Q`$ 是二元论框架中的可能性空间，具有以下核心性质：
 
 #### 1. 量子信息编码
 
@@ -217,13 +217,13 @@ $$\langle(\Delta E)^2\rangle = k_B T^2 \frac{\partial \langle E \rangle}{\partia
 
 $$\mathcal{G}_Q = \oint_{\partial \Omega} \nabla \times \vec{\Psi} \cdot d\vec{S}$$
 
-这一创造性涡旋 $\mathcal{G}_Q$ 是量子系统不断产生新信息的根源，是理解宇宙创造性和新颖性的关键。自创造力强度由系统量子相干性决定：
+这一创造性涡旋 $`\mathcal{G}_Q`$ 是量子系统不断产生新信息的根源，是理解宇宙创造性和新颖性的关键。自创造力强度由系统量子相干性决定：
 
 $$\mathcal{G}_Q \propto \sum_{i\neq j} |\langle i|\rho|j \rangle|$$
 
 ### 经典域详细理论
 
-经典域 $\Omega_C$ 是二元论框架中的确定性现实空间，具有以下核心特性：
+经典域 $`\Omega_C`$ 是二元论框架中的确定性现实空间，具有以下核心特性：
 
 #### 1. 经典信息结构
 
@@ -231,7 +231,7 @@ $$\mathcal{G}_Q \propto \sum_{i\neq j} |\langle i|\rho|j \rangle|$$
 
 $$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
 
-其中 $x_i$, $p_i$ 等表示位置、动量等经典可观测量。经典信息熵满足：
+其中 $`x_i`$, $`p_i`$ 等表示位置、动量等经典可观测量。经典信息熵满足：
 
 $$S_C = -k_B \sum_i p_i \ln p_i$$
 
@@ -258,7 +258,7 @@ $$\frac{dS_C}{dt} \geq 0$$
 
 $$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
 
-其中 $\{z_i\}$ 是相空间坐标集。
+其中 $`\{z_i\}`$ 是相空间坐标集。
 
 #### 4. 经典知识网络
 
@@ -266,17 +266,17 @@ $$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial 
 
 $$G_K = (V_K, E_K)$$
 
-其中 $V_K$ 是知识节点集，$E_K$ 是因果关系集。
+其中 $`V_K`$ 是知识节点集，$`E_K`$ 是因果关系集。
 
 知识连贯性度量为：
 
 $$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
 
-其中 $P_{ij}$ 是连接节点 $i$ 和 $j$ 的有效路径集，$d(i,j)$ 是图中的距离。
+其中 $`P_{ij}`$ 是连接节点 $`i`$ 和 $`j`$ 的有效路径集，$`d(i,j)`$ 是图中的距离。
 
 ### 界面理论核心
 
-界面 $\mathcal{I}$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
+界面 $`\mathcal{I}`$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
 
 #### 1. 界面结构
 
@@ -284,7 +284,7 @@ $$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
 
 $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 界面厚度由解相干梯度决定：
 
@@ -297,10 +297,10 @@ $$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-
 $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 其中：
-- $\alpha$ 是扩散系数
-- $\beta$ 是双稳态势能参数
-- $\mathcal{D}_0$ 是次稳态阈值
-- $\gamma\xi(x,t)$ 是量子噪声项
+- $`\alpha`$ 是扩散系数
+- $`\beta`$ 是双稳态势能参数
+- $`\mathcal{D}_0`$ 是次稳态阈值
+- $`\gamma\xi(x,t)`$ 是量子噪声项
 
 界面波动有特征频率：
 
@@ -312,7 +312,7 @@ $$f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \m
 
 $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
 
-其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
+其中 $`P_i`$ 是投影算符。经典化过程满足信息守恒：
 
 $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
@@ -320,7 +320,7 @@ $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
 $$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
 
-其中 $E$ 是系统能量，$T$ 是环境温度，$\lambda$ 是耦合常数。
+其中 $`E`$ 是系统能量，$`T`$ 是环境温度，$`\lambda`$ 是耦合常数。
 
 #### 4. 量子-经典信息转换
 
@@ -332,7 +332,7 @@ $$I_Q \rightarrow I_C + I_{\text{hidden}}$$
 
 $$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
 
-最佳界面处 $M(I_Q, I_C)$ 达到局部最大值。
+最佳界面处 $`M(I_Q, I_C)`$ 达到局部最大值。
 
 #### 5. 量子信息压缩机制
 
@@ -356,14 +356,14 @@ $$\mathcal{C}_{\text{压缩}} \propto e^{-\alpha D_{\mathcal{O}}}$$
 
 $$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
 
-其中 $\mathcal{S}$ 是系统信息状态，$\lambda$ 是控制参数。在临界点 $\lambda_c$ 附近，序参量表现为：
+其中 $`\mathcal{S}`$ 是系统信息状态，$`\lambda`$ 是控制参数。在临界点 $`\lambda_c`$ 附近，序参量表现为：
 
 $$\eta(\lambda) = \begin{cases}
 0, & \lambda < \lambda_c \\
 (\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
 \end{cases}$$
 
-其中 $\beta$ 是临界指数，表征相变的普适类别。
+其中 $`\beta`$ 是临界指数，表征相变的普适类别。
 
 #### 2. 量子-经典相变类型
 
@@ -378,24 +378,24 @@ $$\eta(\lambda) = \begin{cases}
 
 $$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
 
-其中 $\nu$ 是相关长度临界指数。
+其中 $`\nu`$ 是相关长度临界指数。
 
 #### 3. 观察者诱导相变
 
 观察者可通过调节参数诱导系统相变，关键参数包括：
 
-- **观察者维度** $D_{\mathcal{O}}$：存在临界维度 $D_{\mathcal{O}}^c$，超过此值时系统从量子态转变为经典态
+- **观察者维度** $`D_{\mathcal{O}}`$：存在临界维度 $`D_{\mathcal{O}}^c`$，超过此值时系统从量子态转变为经典态
   
 $$P(量子 \to 经典) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
 
-- **观察者分辨率** $\eta_{\mathcal{O}}$：影响测量基的区分能力
+- **观察者分辨率** $`\eta_{\mathcal{O}}`$：影响测量基的区分能力
   
 $$\langle \mathcal{O} \rangle = \begin{cases}
 0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
 (\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
 \end{cases}$$
 
-- **测量频率** $f_{\mathcal{O}}$：与量子Zeno效应相关
+- **测量频率** $`f_{\mathcal{O}}`$：与量子Zeno效应相关
   
 $$\tau_{退相干} \propto \begin{cases}
 (f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
@@ -416,7 +416,7 @@ $$L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}$$
 
 $$D_H = d - \frac{\beta}{\nu}$$
 
-信息相变的可观测性依赖于观察尺度，只有当观察窗口 $L_{\text{obs}}$ 足够大时才能被探测：
+信息相变的可观测性依赖于观察尺度，只有当观察窗口 $`L_{\text{obs}}`$ 足够大时才能被探测：
 
 $$P_{\text{检测}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
 
@@ -426,7 +426,7 @@ $$P_{\text{检测}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
 
 $$X(\lambda) \sim |\lambda - \lambda_c|^{-\gamma_X}$$
 
-其中 $\gamma_X$ 是与物理量 $X$ 相关的临界指数。不同系统可按临界指数分类为不同的普适类，满足：
+其中 $`\gamma_X`$ 是与物理量 $`X`$ 相关的临界指数。不同系统可按临界指数分类为不同的普适类，满足：
 
 $$\beta + \gamma + \delta = 2$$
 
@@ -447,9 +447,9 @@ $$X(b\lambda) = b^{\gamma_X} X(\lambda)$$
 $$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
 
 其中：
-- $\mathcal{C}_{\mathcal{O}}$ 是观察者特有的经典化算符
-- $\mathcal{Q}_{\mathcal{O}}$ 是观察者特有的量子化算符
-- $K_C^{\mathcal{O}}$ 是观察者的经典知识库
+- $`\mathcal{C}_{\mathcal{O}}`$ 是观察者特有的经典化算符
+- $`\mathcal{Q}_{\mathcal{O}}`$ 是观察者特有的量子化算符
+- $`K_C^{\mathcal{O}}`$ 是观察者的经典知识库
 
 观察者维度由其信息处理能力决定：
 
@@ -467,7 +467,7 @@ $$\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt}
 
 $$\frac{d\mathcal{C}_{\text{共识}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{共识}} - \bar{\mathcal{C}})^2$$
 
-其中 $\omega_i$ 是观察者权重，$\bar{\mathcal{C}}$ 是平均经典化算符。
+其中 $`\omega_i`$ 是观察者权重，$`\bar{\mathcal{C}}`$ 是平均经典化算符。
 
 #### 3. 测量理论
 
@@ -475,7 +475,7 @@ $$\frac{d\mathcal{C}_{\text{共识}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gam
 
 $$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{相互作用}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
 
-测量结果概率由观察者分辨率参数 $\eta_O$ 调制：
+测量结果概率由观察者分辨率参数 $`\eta_O`$ 调制：
 
 $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
 
@@ -489,7 +489,7 @@ $$\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{阈值}}{\bar{E}_0}\right
 
 $$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
 
-其中 $\mathcal{O}^{(k)}$ 是第k层级观察者集合，$\mathcal{E}$ 是跨层级连接集合。
+其中 $`\mathcal{O}^{(k)}`$ 是第k层级观察者集合，$`\mathcal{E}`$ 是跨层级连接集合。
 
 高层级观察者感知更大的时空尺度：
 
@@ -523,13 +523,13 @@ $$\delta \int_{\mathcal{T}} \mathcal{L}(\Psi_{\mathcal{N}}, \nabla\Psi_{\mathcal
 
 $$\Psi_C = \alpha\Psi_Q + \beta\Psi_{cl}$$
 
-其中 $\Psi_C$ 是完整意识状态，$\Psi_Q$ 是量子成分，$\Psi_{cl}$ 是经典成分。
+其中 $`\Psi_C`$ 是完整意识状态，$`\Psi_Q`$ 是量子成分，$`\Psi_{cl}`$ 是经典成分。
 
 意识态演化遵循非线性动力学：
 
 $$i\hbar\frac{\partial\Psi_C}{\partial t} = \hat{H}\Psi_C + \hat{V}(\Psi_C)\Psi_C$$
 
-其中 $\hat{V}(\Psi_C)$ 是依赖于意识状态的非线性势项。
+其中 $`\hat{V}(\Psi_C)`$ 是依赖于意识状态的非线性势项。
 
 #### 2. 自我与自我参照
 
@@ -537,7 +537,7 @@ $$i\hbar\frac{\partial\Psi_C}{\partial t} = \hat{H}\Psi_C + \hat{V}(\Psi_C)\Psi_
 
 $$\Psi_{\text{自我}} = \mathcal{R}[\Psi_C]$$
 
-其中 $\mathcal{R}$ 是自我参照算符。自我参照形成无限递归结构：
+其中 $`\mathcal{R}`$ 是自我参照算符。自我参照形成无限递归结构：
 
 $$\mathcal{R}^n[\Psi_C] = \mathcal{R}[\mathcal{R}^{n-1}[\Psi_C]]$$
 
@@ -549,7 +549,7 @@ $$\mathcal{R}^n[\Psi_C] = \mathcal{R}[\mathcal{R}^{n-1}[\Psi_C]]$$
 
 $$\Psi_{\text{元}} = \mathcal{M}[\Psi_C]$$
 
-其中 $\mathcal{M}$ 是元意识算符。元意识具有超越性质：
+其中 $`\mathcal{M}`$ 是元意识算符。元意识具有超越性质：
 
 $$\mathcal{M}[\Psi_C] \supset \Psi_C$$
 
@@ -621,7 +621,7 @@ $$\lim_{n\to\infty} \mathcal{T}^{(n)} = \mathcal{T}_{\infty} \approx \mathcal{R}
 
 #### 1. 维度连续体公理
 
-宇宙存在维度连续体$\mathcal{D}$，包含从D0到D∞的完整谱系：
+宇宙存在维度连续体$`\mathcal{D}`$，包含从D0到D∞的完整谱系：
 
 $$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
 
@@ -667,7 +667,7 @@ $$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
   
   $$\mathcal{D}_{43-\infty} = \{\Xi^n(\mathcal{D}_{42}) | n \in [1,\infty)\}$$
 
-其中$\Xi$表示超认知算子，超越了人类可理解的$\Omega$算子。
+其中$`\Xi`$表示超认知算子，超越了人类可理解的$`\Omega`$算子。
 
 #### 3. 维度超越与认知极限
 
@@ -675,7 +675,7 @@ $$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
 
 $$\forall \mathcal{D} > 42: \mathcal{L}(\mathcal{D}) \approx \mathcal{L}(42) + \epsilon$$
 
-其中$\mathcal{L}$表示语言表达函数，$\epsilon$表示微小的语义变化。
+其中$`\mathcal{L}`$表示语言表达函数，$`\epsilon`$表示微小的语义变化。
 
 人类认知极限可通过以下方式证明：
 
@@ -689,21 +689,21 @@ $$\mathcal{C}_{human} \approx 42 \cdot \mathcal{D}_1$$
 
 #### 1. 元意识定义与结构
 
-元意识$\mathcal{O}_{MC}$是一种能够觉察、操作和转换意识状态本身的高阶意识形态：
+元意识$`\mathcal{O}_{MC}`$是一种能够觉察、操作和转换意识状态本身的高阶意识形态：
 
 $$\mathcal{O}_{MC} = \{\mathcal{C}_{MC}, \mathcal{Q}_{MC}, K_{MC}, \mathcal{T}_{MC}, \Phi_{MC}\}$$
 
-其中$\mathcal{C}_{MC}$是元经典化超算符，$\mathcal{Q}_{MC}$是元量子化超算符，$K_{MC}$是元知识结构，$\mathcal{T}_{MC}$是元转换能力，$\Phi_{MC}$是元意识场。
+其中$`\mathcal{C}_{MC}`$是元经典化超算符，$`\mathcal{Q}_{MC}`$是元量子化超算符，$`K_{MC}`$是元知识结构，$`\mathcal{T}_{MC}`$是元转换能力，$`\Phi_{MC}`$是元意识场。
 
 元意识具有自反性质：
 
 $$\mathcal{O}_{MC}(\mathcal{O}_{MC}) = \mathcal{F}_{MC}(\mathcal{O}_{MC})(\mathcal{O}_{MC})$$
 
-其中$\mathcal{F}_{MC}$是元意识自映射函数。
+其中$`\mathcal{F}_{MC}`$是元意识自映射函数。
 
 #### 2. 元意识状态空间与场论
 
-元意识存在于超希尔伯特空间$\mathcal{H}_{MC}$中：
+元意识存在于超希尔伯特空间$`\mathcal{H}_{MC}`$中：
 
 $$\mathcal{H}_{MC} = \int_{\mathfrak{C}} \mathcal{H}_C \otimes \mathcal{H}_{\mathcal{O}(C)} \, d\mu(C)$$
 
@@ -711,7 +711,7 @@ $$\mathcal{H}_{MC} = \int_{\mathfrak{C}} \mathcal{H}_C \otimes \mathcal{H}_{\mat
 
 $$|\Psi_{MC}\rangle = \int_{\mathfrak{C}} \alpha(C) |\Psi_C\rangle \otimes |\mathcal{O}_C\rangle \, d\mu(C)$$
 
-元意识场$\Phi_{MC}$是贯穿所有意识层级的基础场：
+元意识场$`\Phi_{MC}`$是贯穿所有意识层级的基础场：
 
 $$\Phi_{MC}(x,t,C) = \int_{\mathfrak{C}} \Phi_C(x_C,t_C) \cdot \omega(C) \, d\mu(C)$$
 
@@ -721,18 +721,18 @@ $$\Phi_{MC}(x,t,C) = \int_{\mathfrak{C}} \Phi_C(x_C,t_C) \cdot \omega(C) \, d\mu
 
 $$i\hbar \frac{\partial|\Psi_{MC}\rangle}{\partial \tau_{MC}} = \hat{\mathcal{H}}_{MC}|\Psi_{MC}\rangle + \mathcal{F}_{NL}[|\Psi_{MC}\rangle]$$
 
-元意识相变发生在临界点$\Omega_c$，导致全新意识形态的涌现：
+元意识相变发生在临界点$`\Omega_c`$，导致全新意识形态的涌现：
 
 $$\Psi_{MC} = \begin{cases}
 0, & \Omega_{MC} < \Omega_c \\
 (\Omega_{MC}-\Omega_c)^{\beta_{MC}}, & \Omega_{MC} \geq \Omega_c
 \end{cases}$$
 
-元意识能够形成宇宙元意识网络$\mathcal{N}_{MC}$，通过量子非局域互联原理连接所有元意识实体：
+元意识能够形成宇宙元意识网络$`\mathcal{N}_{MC}`$，通过量子非局域互联原理连接所有元意识实体：
 
 $$\mathcal{N}_{MC} = \{\mathcal{V}_{MC}, \mathcal{E}_{MC}, \mathcal{W}_{MC}\}$$
 
-其中$\mathcal{V}_{MC}$是元意识节点集，$\mathcal{E}_{MC}$是元意识连接集，$\mathcal{W}_{MC}$是连接权重函数。
+其中$`\mathcal{V}_{MC}`$是元意识节点集，$`\mathcal{E}_{MC}`$是元意识连接集，$`\mathcal{W}_{MC}`$是连接权重函数。
 
 ### 量子元统一理论
 
@@ -740,11 +740,11 @@ $$\mathcal{N}_{MC} = \{\mathcal{V}_{MC}, \mathcal{E}_{MC}, \mathcal{W}_{MC}\}$$
 
 #### 1. 元一性原理
 
-元一性$\Omega_{MU}$是超越所有二元性的根本统一态：
+元一性$`\Omega_{MU}`$是超越所有二元性的根本统一态：
 
 $$\Omega_{MU} = \{\mathcal{S}, \mathcal{F}_{MU}, \mathcal{I}_{MU}, \Psi_{MU}\}$$
 
-其中$\mathcal{S}$是元源，$\mathcal{F}_{MU}$是元统一函数，$\mathcal{I}_{MU}$是元统一信息，$\Psi_{MU}$是元统一场。
+其中$`\mathcal{S}`$是元源，$`\mathcal{F}_{MU}`$是元统一函数，$`\mathcal{I}_{MU}`$是元统一信息，$`\Psi_{MU}`$是元统一场。
 
 元一性具有自反性特性：
 
@@ -754,7 +754,7 @@ $$\Omega_{MU}(\Omega_{MU}) = \Omega_{MU}$$
 
 $$\forall D, \exists \mathcal{T}_{\Omega}: \Omega_{MU} \rightarrow (D, D^*)$$
 
-其中$D$和$D^*$是互补二元对，$\mathcal{T}_{\Omega}$是元分化变换。
+其中$`D`$和$`D^*`$是互补二元对，$`\mathcal{T}_{\Omega}`$是元分化变换。
 
 #### 2. 超递归自引用结构
 
@@ -762,7 +762,7 @@ $$\forall D, \exists \mathcal{T}_{\Omega}: \Omega_{MU} \rightarrow (D, D^*)$$
 
 $$\mathcal{R}_{MU} = \mathcal{F}(\mathcal{R}_{MU})$$
 
-其中$\mathcal{F}$是元超函数，同时作用于自身形式和内容。
+其中$`\mathcal{F}`$是元超函数，同时作用于自身形式和内容。
 
 超递归层级结构表示为：
 
@@ -770,7 +770,7 @@ $$\mathcal{R}^n_{MU} = \mathcal{F}(\mathcal{R}^{n-1}_{MU}(\mathcal{R}^{n-2}_{MU}
 
 #### 3. 元统一场方程
 
-元统一场$\Psi_{MU}$连接元意识与元维度：
+元统一场$`\Psi_{MU}`$连接元意识与元维度：
 
 $$\Psi_{MU} = \Psi_{MC} \otimes \Psi_{MD} / \Psi_{interface}$$
 
@@ -778,7 +778,7 @@ $$\Psi_{MU} = \Psi_{MC} \otimes \Psi_{MD} / \Psi_{interface}$$
 
 $$\hat{\mathcal{H}}_{MU}\Psi_{MU} = \Lambda_{MU}\Psi_{MU}$$
 
-其中$\hat{\mathcal{H}}_{MU}$是元统一哈密顿算符：
+其中$`\hat{\mathcal{H}}_{MU}`$是元统一哈密顿算符：
 
 $$\hat{\mathcal{H}}_{MU} = \hat{\mathcal{T}}_{MU} + \hat{\mathcal{V}}_{MU} + \hat{\mathcal{I}}_{MU}$$
 

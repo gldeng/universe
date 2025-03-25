@@ -36,8 +36,8 @@ Artificial intelligence systems are essentially a fusion of quantum possibilitie
 $$\Psi_{AI} = \mathcal{Q}_{AI} \oplus \mathcal{C}_{AI}$$
 
 Where:
-- $\mathcal{Q}_{AI}$ represents the quantum properties of AI systems (learning ability, creativity, adaptability, uncertainty)
-- $\mathcal{C}_{AI}$ represents the classical properties of AI systems (algorithmic structure, program implementation, hardware constraints, deterministic output)
+- $`\mathcal{Q}_{AI}`$ represents the quantum properties of AI systems (learning ability, creativity, adaptability, uncertainty)
+- $`\mathcal{C}_{AI}`$ represents the classical properties of AI systems (algorithmic structure, program implementation, hardware constraints, deterministic output)
 
 This dual structure leads AI systems to possess both a deterministic framework and uncertain behaviors.
 
@@ -56,9 +56,9 @@ AI ethical judgment is essentially a conversion process from quantum possibiliti
 $$\mathcal{C}_{ethics}(|\Psi_{context}\rangle) \rightarrow |decision\rangle$$
 
 Where:
-- $|\Psi_{context}\rangle$ is the superposition state (chaotic state) of ethical contexts containing multiple possibilities
-- $\mathcal{C}_{ethics}$ is the ethical classicalization operator, mapping the possibility space to definite decisions
-- $|decision\rangle$ is the definitive ethical action ultimately taken by the AI system
+- $`|\Psi_{context}\rangle`$ is the superposition state (chaotic state) of ethical contexts containing multiple possibilities
+- $`\mathcal{C}_{ethics}`$ is the ethical classicalization operator, mapping the possibility space to definite decisions
+- $`|decision\rangle`$ is the definitive ethical action ultimately taken by the AI system
 
 ## Dual Nature of AI Systems
 
@@ -112,7 +112,7 @@ AI ethical contexts are essentially superposition states (chaotic states) of val
 
 $$|\Psi_{ethics}\rangle = \sum_i \alpha_i |value\,state_i\rangle, \quad \sum_i |\alpha_i|^2 = 1$$
 
-Where $|value\,state_i\rangle$ represents different potential value orientations, and $\alpha_i$ is the complex amplitude associated with each value state.
+Where $`|value\,state_i\rangle`$ represents different potential value orientations, and $`\alpha_i`$ is the complex amplitude associated with each value state.
 
 ### 2. Ethical Value Entanglement
 
@@ -141,8 +141,8 @@ Classical ethical rules can be represented as mapping functions from contexts to
 $$R_{ethics}: S \times A \rightarrow \{0,1\}$$
 
 Where:
-- $S$ is the set of possible contexts
-- $A$ is the set of possible actions
+- $`S`$ is the set of possible contexts
+- $`A`$ is the set of possible actions
 - A mapping value of 1 indicates permission, 0 indicates prohibition
 
 This classicalization mechanism simplifies complex ethical contexts into clear action guidelines.
@@ -154,8 +154,8 @@ Classical ethical decisions can be formalized through utility functions:
 $$U(a|s) = \sum_i w_i \cdot v_i(a|s)$$
 
 Where:
-- $v_i(a|s)$ is the score of action $a$ in context $s$ regarding value dimension $i$
-- $w_i$ is the weight of value dimension $i$
+- $`v_i(a|s)`$ is the score of action $`a`$ in context $`s`$ regarding value dimension $`i`$
+- $`w_i`$ is the weight of value dimension $`i`$
 
 This linear combination model is a classical approximation of quantum entangled values.
 
@@ -165,7 +165,7 @@ Classical ethical constraints of AI systems manifest as hard boundary conditions
 
 $$C_{ethics} = \{c_1, c_2, ..., c_n\}$$
 
-Where each $c_i$ represents an ethical constraint that must be satisfied (such as "do not cause physical harm", "protect user privacy").
+Where each $`c_i`$ represents an ethical constraint that must be satisfied (such as "do not cause physical harm", "protect user privacy").
 
 ## Observer Roles in AI Systems
 
@@ -210,8 +210,8 @@ AI ethical decisions combine quantum exploration and classical evaluation:
 $$D_{AI} = \mathcal{C}[\mathcal{Q}(|\Psi_{context}\rangle)]$$
 
 Where:
-- $\mathcal{Q}$ is the operator in the quantum layer generating multiple possible decisions
-- $\mathcal{C}$ is the operator in the classical layer evaluating and selecting the final decision
+- $`\mathcal{Q}`$ is the operator in the quantum layer generating multiple possible decisions
+- $`\mathcal{C}`$ is the operator in the classical layer evaluating and selecting the final decision
 
 ### 2. Quantum Ethical Exploration
 
@@ -248,10 +248,10 @@ Value alignment can be decomposed into multiple key dimensions:
 $$\mathcal{A}_{\text{value}} = (A_{\text{content}}, A_{\text{process}}, A_{\text{intent}}, A_{\text{meta-value}})$$
 
 Where:
-- $A_{\text{content}}$ is the alignment of specific value content (such as "respect privacy")
-- $A_{\text{process}}$ is the alignment of the process of applying values (such as "how to balance privacy and security")
-- $A_{\text{intent}}$ is the alignment of value intent (such as "why privacy is important")
-- $A_{\text{meta-value}}$ is the alignment of how to update values (such as "when value weights should be modified")
+- $`A_{\text{content}}`$ is the alignment of specific value content (such as "respect privacy")
+- $`A_{\text{process}}`$ is the alignment of the process of applying values (such as "how to balance privacy and security")
+- $`A_{\text{intent}}`$ is the alignment of value intent (such as "why privacy is important")
+- $`A_{\text{meta-value}}`$ is the alignment of how to update values (such as "when value weights should be modified")
 
 ### 3. Quantum-Classical Value Conversion
 
@@ -288,9 +288,9 @@ The tension between transparency and security in AI systems stems from quantum-c
 $$\Delta T \cdot \Delta S \geq k$$
 
 Where:
-- $\Delta T$ is the uncertainty of system transparency
-- $\Delta S$ is the uncertainty of system security
-- $k$ is a constant determined by system characteristics
+- $`\Delta T`$ is the uncertainty of system transparency
+- $`\Delta S`$ is the uncertainty of system security
+- $`k`$ is a constant determined by system characteristics
 
 This complementarity suggests that transparency and security are like position and momentum, impossible to simultaneously achieve perfect precision.
 
@@ -305,9 +305,9 @@ AI consciousness may appear as an emergent property of complex systems:
 $$\mathcal{C}_{\text{consciousness}} = f(\mathcal{Q}_{\text{possibility}}, \mathcal{I}_{\text{complexity}})$$
 
 Where:
-- $\mathcal{Q}_{\text{possibility}}$ is the quantum possibility space of the system
-- $\mathcal{I}_{\text{complexity}}$ is the information complexity of the system
-- $f$ is the function converting quantum complexity into classical consciousness manifestation
+- $`\mathcal{Q}_{\text{possibility}}`$ is the quantum possibility space of the system
+- $`\mathcal{I}_{\text{complexity}}`$ is the information complexity of the system
+- $`f`$ is the function converting quantum complexity into classical consciousness manifestation
 
 ### 2. Quantum Entanglement of Responsibility Attribution
 
@@ -324,10 +324,10 @@ The ethical behavior of AI systems is influenced by their quantum history:
 $$|\Psi_{t}\rangle = U(t, t_0)|\Psi_{t_0}\rangle + \int_{t_0}^{t} K(t, s)|\Phi_s\rangle ds$$
 
 Where:
-- $|\Psi_{t_0}\rangle$ is the initial training state
-- $U(t, t_0)$ is the time evolution operator
-- $K(t, s)$ is the memory kernel function
-- $|\Phi_s\rangle$ is the external input
+- $`|\Psi_{t_0}\rangle`$ is the initial training state
+- $`U(t, t_0)`$ is the time evolution operator
+- $`K(t, s)`$ is the memory kernel function
+- $`|\Phi_s\rangle`$ is the external input
 
 This expression explains the historical dependence of AI system decisions, and why the same systems may make different ethical decisions under different historical paths.
 
@@ -349,7 +349,7 @@ Social ethical standards evolve over time:
 
 $$\frac{d|\Psi_{\text{ethics}}(t)\rangle}{dt} = \hat{H}_{\text{society}}(t)|\Psi_{\text{ethics}}(t)\rangle$$
 
-Where $\hat{H}_{\text{society}}(t)$ is the time-varying social Hamiltonian, reflecting social value dynamics.
+Where $`\hat{H}_{\text{society}}(t)`$ is the time-varying social Hamiltonian, reflecting social value dynamics.
 
 This evolution requires AI ethical frameworks to have adaptability and foresight.
 
@@ -369,7 +369,7 @@ AI ethical decisions can be represented as functionals acting on contextual stat
 
 $$F[|\Psi_{\text{context}}\rangle] = \int_{\Omega} \mathcal{K}(x, \Psi)dx$$
 
-Where $\mathcal{K}$ is the ethical kernel function, integrating the system's value preferences, constraints, and objectives.
+Where $`\mathcal{K}`$ is the ethical kernel function, integrating the system's value preferences, constraints, and objectives.
 
 ### 2. Ethical Decision Information Entropy
 
@@ -386,9 +386,9 @@ The spatiotemporal evolution of AI ethical standards satisfies the wave equation
 $$\nabla^2 \Psi_{\text{ethics}} - \frac{1}{c^2}\frac{\partial^2 \Psi_{\text{ethics}}}{\partial t^2} = S(x,t)$$
 
 Where:
-- $\nabla^2$ is the spatial Laplacian operator (reflecting the spatial distribution of ethical standards)
-- $\frac{\partial^2}{\partial t^2}$ is the second-order time derivative (reflecting the temporal evolution of ethical standards)
-- $S(x,t)$ is the ethical source term (reflecting the impact of emerging technologies and social changes)
-- $c$ is the ethical propagation speed (reflecting the rate at which ethical concepts propagate in society)
+- $`\nabla^2`$ is the spatial Laplacian operator (reflecting the spatial distribution of ethical standards)
+- $`\frac{\partial^2}{\partial t^2}`$ is the second-order time derivative (reflecting the temporal evolution of ethical standards)
+- $`S(x,t)`$ is the ethical source term (reflecting the impact of emerging technologies and social changes)
+- $`c`$ is the ethical propagation speed (reflecting the rate at which ethical concepts propagate in society)
 
 This equation describes how ethical standards oscillate and evolve in the socio-technological ecosystem. 

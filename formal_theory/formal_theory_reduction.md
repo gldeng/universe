@@ -24,7 +24,7 @@
 
 $$\mathcal{R}: \mathcal{T}_{\text{基础}} \rightarrow \mathcal{T}_{\text{有效}}$$
 
-其中 $\mathcal{T}_{\text{基础}}$ 是基础理论（如量子经典二元论），$\mathcal{T}_{\text{有效}}$ 是特定尺度或领域中的有效理论。约化过程通常涉及信息压缩、尺度变换和边界条件确定。
+其中 $`\mathcal{T}_{\text{基础}}`$ 是基础理论（如量子经典二元论），$`\mathcal{T}_{\text{有效}}`$ 是特定尺度或领域中的有效理论。约化过程通常涉及信息压缩、尺度变换和边界条件确定。
 
 ### 量子-经典视角下的约化类型
 
@@ -47,9 +47,9 @@ $$\mathcal{R}: \mathcal{T}_{\text{基础}} \rightarrow \mathcal{T}_{\text{有效
 
 $$\mathcal{T}_0 \xrightarrow{\mathcal{R}_1} \mathcal{T}_1 \xrightarrow{\mathcal{R}_2} \mathcal{T}_2 \xrightarrow{\mathcal{R}_3} ... \xrightarrow{\mathcal{R}_n} \mathcal{T}_n$$
 
-其中每个 $\mathcal{T}_i$ 是特定尺度上的有效理论，$\mathcal{R}_i$ 是对应的约化映射。
+其中每个 $`\mathcal{T}_i`$ 是特定尺度上的有效理论，$`\mathcal{R}_i`$ 是对应的约化映射。
 
-这种层级结构可以用尺度分离参数 $\epsilon_i = \frac{L_i}{L_{i+1}}$ 表征，其中 $L_i$ 是第i层级的特征长度。当 $\epsilon_i \ll 1$ 时，约化通常是良定义的。
+这种层级结构可以用尺度分离参数 $`\epsilon_i = \frac{L_i}{L_{i+1}}`$ 表征，其中 $`L_i`$ 是第i层级的特征长度。当 $`\epsilon_i \ll 1`$ 时，约化通常是良定义的。
 
 ## 约化数学形式化
 
@@ -59,7 +59,7 @@ $$\mathcal{T}_0 \xrightarrow{\mathcal{R}_1} \mathcal{T}_1 \xrightarrow{\mathcal{
 
 $$I(\mathcal{T}_{\text{基础}}) = I(\mathcal{T}_{\text{有效}}) + I_{\text{隐藏}}$$
 
-其中 $I(\mathcal{T})$ 是理论包含的信息量，$I_{\text{隐藏}}$ 是约化过程中隐藏的信息。最优约化满足条件：
+其中 $`I(\mathcal{T})`$ 是理论包含的信息量，$`I_{\text{隐藏}}`$ 是约化过程中隐藏的信息。最优约化满足条件：
 
 $$\mathcal{R}^* = \arg\min_{\mathcal{R}} I_{\text{隐藏}} \quad \text{s.t.} \quad \mathcal{T}_{\text{有效}} = \mathcal{R}(\mathcal{T}_{\text{基础}})$$
 
@@ -83,7 +83,7 @@ $$x_{\text{宏观}} = \Pi(x_1, x_2, ..., x_N)$$
 
 $$\mathcal{T}' = \mathcal{R}_{\text{RG}}(\mathcal{T})$$
 
-其中 $\mathcal{R}_{\text{RG}}$ 包括三个步骤：
+其中 $`\mathcal{R}_{\text{RG}}`$ 包括三个步骤：
 1. 粗粒化：将系统分区为块
 2. 重缩放：调整参数以保持关键特性
 3. 迭代：重复应用直至达到定点
@@ -92,7 +92,7 @@ RG流方程可表示为：
 
 $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 
-其中 $g_i$ 是耦合常数，$l$ 是对数尺度参数，$\beta_i$ 是贝塔函数。
+其中 $`g_i`$ 是耦合常数，$`l`$ 是对数尺度参数，$`\beta_i`$ 是贝塔函数。
 
 ### 涌现约束条件
 
@@ -106,7 +106,7 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 
 3. **可预测性约束**：有效理论必须能做出可检验预测
    $$\Delta P_{\mathcal{T}} < \Delta P_{\text{可接受}}$$
-   其中 $\Delta P_{\mathcal{T}}$ 是理论预测的不确定性。
+   其中 $`\Delta P_{\mathcal{T}}`$ 是理论预测的不确定性。
 
 ## 约化层级结构
 
@@ -115,27 +115,27 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 物理科学中的约化层级从基础到复杂可表示为：
 
 1. **量子场论 → 粒子物理学**
-   - 约化映射：$\mathcal{R}_{\text{QFT}\rightarrow\text{PP}}$
+   - 约化映射：$`\mathcal{R}_{\text{QFT}\rightarrow\text{PP}}`$
    - 关键机制：重整化群和有效场论
    - 涌现属性：粒子的质量、电荷、自旋等
 
 2. **粒子物理学 → 核物理学**
-   - 约化映射：$\mathcal{R}_{\text{PP}\rightarrow\text{NP}}$
+   - 约化映射：$`\mathcal{R}_{\text{PP}\rightarrow\text{NP}}`$
    - 关键机制：强相互作用有效理论
    - 涌现属性：核子结构、核能级
 
 3. **核物理学 → 原子物理学**
-   - 约化映射：$\mathcal{R}_{\text{NP}\rightarrow\text{AP}}$
+   - 约化映射：$`\mathcal{R}_{\text{NP}\rightarrow\text{AP}}`$
    - 关键机制：Born-Oppenheimer近似
    - 涌现属性：电子轨道、化学键
 
 4. **原子物理学 → 化学**
-   - 约化映射：$\mathcal{R}_{\text{AP}\rightarrow\text{Chem}}$
+   - 约化映射：$`\mathcal{R}_{\text{AP}\rightarrow\text{Chem}}`$
    - 关键机制：价键理论和分子轨道论
    - 涌现属性：化学反应性、分子结构
 
 5. **化学 → 生物化学**
-   - 约化映射：$\mathcal{R}_{\text{Chem}\rightarrow\text{BioChem}}$
+   - 约化映射：$`\mathcal{R}_{\text{Chem}\rightarrow\text{BioChem}}`$
    - 关键机制：酶催化和生物分子相互作用
    - 涌现属性：生物功能、代谢网络
 
@@ -146,22 +146,22 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 生命科学的约化展示了从分子到整体生物系统的复杂转化：
 
 1. **生物化学 → 分子生物学**
-   - 约化映射：$\mathcal{R}_{\text{BioChem}\rightarrow\text{MolBio}}$
+   - 约化映射：$`\mathcal{R}_{\text{BioChem}\rightarrow\text{MolBio}}`$
    - 关键机制：中心法则（DNA→RNA→蛋白质）
    - 涌现属性：遗传信息传递
 
 2. **分子生物学 → 细胞生物学**
-   - 约化映射：$\mathcal{R}_{\text{MolBio}\rightarrow\text{Cell}}$
+   - 约化映射：$`\mathcal{R}_{\text{MolBio}\rightarrow\text{Cell}}`$
    - 关键机制：分子网络和细胞器功能整合
    - 涌现属性：细胞稳态、信号传导
 
 3. **细胞生物学 → 生理学**
-   - 约化映射：$\mathcal{R}_{\text{Cell}\rightarrow\text{Phys}}$
+   - 约化映射：$`\mathcal{R}_{\text{Cell}\rightarrow\text{Phys}}`$
    - 关键机制：多细胞组织组织和器官功能
    - 涌现属性：生理调节、恒定性
 
 4. **生理学 → 行为生物学**
-   - 约化映射：$\mathcal{R}_{\text{Phys}\rightarrow\text{Behav}}$
+   - 约化映射：$`\mathcal{R}_{\text{Phys}\rightarrow\text{Behav}}`$
    - 关键机制：神经网络和内分泌系统
    - 涌现属性：行为模式、适应性反应
 
@@ -172,17 +172,17 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 认知科学约化展示了从神经活动到高级认知的转化：
 
 1. **神经生物学 → 认知神经科学**
-   - 约化映射：$\mathcal{R}_{\text{Neuro}\rightarrow\text{CogNeuro}}$
+   - 约化映射：$`\mathcal{R}_{\text{Neuro}\rightarrow\text{CogNeuro}}`$
    - 关键机制：神经网络动力学和信息编码
    - 涌现属性：感知、记忆、注意力
 
 2. **认知神经科学 → 认知心理学**
-   - 约化映射：$\mathcal{R}_{\text{CogNeuro}\rightarrow\text{CogPsy}}$
+   - 约化映射：$`\mathcal{R}_{\text{CogNeuro}\rightarrow\text{CogPsy}}`$
    - 关键机制：信息处理模型和表征结构
    - 涌现属性：问题解决、决策、语言
 
 3. **认知心理学 → 社会心理学**
-   - 约化映射：$\mathcal{R}_{\text{CogPsy}\rightarrow\text{SocPsy}}$
+   - 约化映射：$`\mathcal{R}_{\text{CogPsy}\rightarrow\text{SocPsy}}`$
    - 关键机制：社会认知和群体互动
    - 涌现属性：社会行为、态度形成
 
@@ -193,17 +193,17 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 社会科学约化展示了从个体到社会系统的转化：
 
 1. **心理学 → 社会学**
-   - 约化映射：$\mathcal{R}_{\text{Psy}\rightarrow\text{Soc}}$
+   - 约化映射：$`\mathcal{R}_{\text{Psy}\rightarrow\text{Soc}}`$
    - 关键机制：社会互动和制度形成
    - 涌现属性：社会规范、文化模式
 
 2. **社会学 → 经济学**
-   - 约化映射：$\mathcal{R}_{\text{Soc}\rightarrow\text{Econ}}$
+   - 约化映射：$`\mathcal{R}_{\text{Soc}\rightarrow\text{Econ}}`$
    - 关键机制：市场互动和资源分配
    - 涌现属性：价格形成、经济周期
 
 3. **社会学/经济学 → 政治学**
-   - 约化映射：$\mathcal{R}_{\text{Soc/Econ}\rightarrow\text{Pol}}$
+   - 约化映射：$`\mathcal{R}_{\text{Soc/Econ}\rightarrow\text{Pol}}`$
    - 关键机制：权力动态和治理结构
    - 涌现属性：政治制度、政策制定
 
@@ -223,7 +223,7 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 
 3. **多尺度耦合障碍**：当多个尺度强耦合时
    $$\frac{L_i}{L_{i+1}} \approx 1 \quad \text{or} \quad \frac{\tau_i}{\tau_{i+1}} \approx 1$$
-   其中 $L_i$ 和 $\tau_i$ 是特征长度和时间尺度。
+   其中 $`L_i`$ 和 $`\tau_i`$ 是特征长度和时间尺度。
 
 4. **相互作用复杂性障碍**：相互作用模式过于复杂
    $$I_{\text{相互作用}} > I_{\text{组分}}$$
@@ -254,11 +254,11 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 
 2. **临界自组织**：系统自发演化到临界点
    $$P(s) \sim s^{-\tau}, \quad P(t) \sim t^{-\alpha}$$
-   其中 $s$ 和 $t$ 是事件大小和持续时间。
+   其中 $`s`$ 和 $`t`$ 是事件大小和持续时间。
 
 3. **自适应复杂系统**：通过反馈调整自身结构
    $$\frac{d\mathcal{S}}{dt} = \mathcal{F}(\mathcal{S}, \mathcal{E}, \mathcal{H}(\mathcal{S}, \mathcal{E}))$$
-   其中 $\mathcal{S}$ 是系统状态，$\mathcal{E}$ 是环境，$\mathcal{H}$ 是历史记忆函数。
+   其中 $`\mathcal{S}`$ 是系统状态，$`\mathcal{E}`$ 是环境，$`\mathcal{H}`$ 是历史记忆函数。
 
 这些系统的约化需要特殊理论框架，如吸引子动力学和信息处理模型。
 
@@ -288,7 +288,7 @@ $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 
 1. **多尺度计算方法**：连接微观和宏观模拟
    $$\mathcal{M}_{\text{多尺度}} = \{\mathcal{M}_{\text{微观}}, \mathcal{M}_{\text{中介}}, \mathcal{M}_{\text{宏观}}, \Phi_{\text{上升}}, \Phi_{\text{下降}}\}$$
-   其中 $\Phi_{\text{上升}}$ 和 $\Phi_{\text{下降}}$ 是尺度间信息传递函数。
+   其中 $`\Phi_{\text{上升}}`$ 和 $`\Phi_{\text{下降}}`$ 是尺度间信息传递函数。
 
 2. **机器学习约化**：从数据中学习有效模型
    $$\mathcal{M}_{\text{ML}} = \arg\min_{\mathcal{M}} \mathcal{L}(\mathcal{M}(x_{\text{输入}}), y_{\text{目标}})$$

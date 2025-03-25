@@ -36,7 +36,7 @@ $$
 \text{时尚演化} = \sum_{t=1}^{n} |\phi_t\rangle\langle\phi_t| \cdot T_t
 $$
 
-其中$|\phi_t\rangle$代表特定时期的时尚经典化模式，$T_t$代表该模式在时间维度上的权重。
+其中$`|\phi_t\rangle`$代表特定时期的时尚经典化模式，$`T_t`$代表该模式在时间维度上的权重。
 
 ### 时尚设计师的量子经典二元论解释
 
@@ -69,7 +69,7 @@ $$
 S_{\text{时尚经典熵}}(t) = S_{\text{初始}} + \alpha t - \beta t^2 + \gamma t^3
 $$
 
-其中$t$代表时间，系数$\alpha$、$\beta$、$\gamma$决定了熵变化的具体形式。
+其中$`t`$代表时间，系数$`\alpha`$、$`\beta`$、$`\gamma`$决定了熵变化的具体形式。
 
 ### 服装符号学的量子经典二元论解释
 
@@ -180,7 +180,7 @@ $$
 \text{Fashion Evolution} = \sum_{t=1}^{n} |\phi_t\rangle\langle\phi_t| \cdot T_t
 $$
 
-where $|\phi_t\rangle$ represents the fashion classicalization pattern of a specific period, and $T_t$ represents the weight of that pattern in the time dimension.
+where $`|\phi_t\rangle`$ represents the fashion classicalization pattern of a specific period, and $`T_t`$ represents the weight of that pattern in the time dimension.
 
 ### Quantum-Classical Dualism Explanation of Fashion Designers
 
@@ -213,7 +213,7 @@ $$
 S_{\text{Fashion classical entropy}}(t) = S_{\text{initial}} + \alpha t - \beta t^2 + \gamma t^3
 $$
 
-where $t$ represents time, and coefficients $\alpha$, $\beta$, $\gamma$ determine the specific form of entropy change.
+where $`t`$ represents time, and coefficients $`\alpha`$, $`\beta`$, $`\gamma`$ determine the specific form of entropy change.
 
 ### Quantum-Classical Dualism Explanation of Clothing Semiotics
 

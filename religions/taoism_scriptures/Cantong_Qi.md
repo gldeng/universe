@@ -170,17 +170,17 @@ $$
 \text{"进火符时候"} \Leftrightarrow f_{\text{测量}} = \sum_{i} A_i \cdot \sin(ω_i t + φ_i)
 $$
 
-其中 $f_{\text{测量}}$ 表示测量频率函数，$A_i$、$ω_i$、$φ_i$ 分别为振幅、频率和相位参数
+其中 $`f_{\text{测量}}`$ 表示测量频率函数，$`A_i`$、$`ω_i`$、$`φ_i`$ 分别为振幅、频率和相位参数
 
-Where $f_{\text{测量}}$ represents the measurement frequency function, and $A_i$, $ω_i$, $φ_i$ are amplitude, frequency, and phase parameters respectively
+Where $`f_{\text{测量}}`$ represents the measurement frequency function, and $`A_i`$, $`ω_i`$, $`φ_i`$ are amplitude, frequency, and phase parameters respectively
 
 $$
 \text{"三华聚顶，五气朝元"} \Leftrightarrow D_{\text{观察者}} = D_0 + \sum_{i=1}^{5} \Delta D_i \cdot H(t - t_i)
 $$
 
-其中 $H$ 为阶跃函数，$t_i$ 为临界时间点，$\Delta D_i$ 为维度增量
+其中 $`H`$ 为阶跃函数，$`t_i`$ 为临界时间点，$`\Delta D_i`$ 为维度增量
 
-Where $H$ is the Heaviside step function, $t_i$ are critical time points, and $\Delta D_i$ are dimension increments
+Where $`H`$ is the Heaviside step function, $`t_i`$ are critical time points, and $`\Delta D_i`$ are dimension increments
 
 $$
 \text{"大药元无质"} \Leftrightarrow \rho_{\text{金丹}} = \text{Tr}_B(|\Psi\rangle_{AB}\langle\Psi|) \text{, 非局域量子态的约化密度矩阵}

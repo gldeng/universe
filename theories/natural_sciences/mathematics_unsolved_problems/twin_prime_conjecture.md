@@ -23,7 +23,7 @@
 
 **孪生素数猜想**：存在无穷多对相差为2的素数（称为孪生素数）。
 
-形式化表述：如果我们定义孪生素数集合为 $T = \{(p, p+2) | p \text{ 和 } p+2 \text{ 都是素数}\}$，则 $|T| = \infty$。
+形式化表述：如果我们定义孪生素数集合为 $`T = \{(p, p+2) | p \text{ 和 } p+2 \text{ 都是素数}\}`$，则 $`|T| = \infty`$。
 
 ## 量子域表示 | Quantum Domain Representation
 
@@ -33,7 +33,7 @@ $$
 |\mathcal{P}\rangle = \sum_{p \in \text{Primes}} \alpha_p |p\rangle
 $$
 
-其中，$\alpha_p$ 是与每个素数相关的量子振幅。
+其中，$`\alpha_p`$ 是与每个素数相关的量子振幅。
 
 对于孪生素数，我们定义量子纠缠态（能量）：
 
@@ -41,21 +41,21 @@ $$
 |\mathcal{T}\rangle = \sum_{(p,p+2) \in T} \beta_{p,p+2} |p\rangle \otimes |p+2\rangle
 $$
 
-这表示所有孪生素数对形成的特殊纠缠态系统。我们定义一个量子算子 $\hat{D}_2$，用于测量相邻整数之间的距离：
+这表示所有孪生素数对形成的特殊纠缠态系统。我们定义一个量子算子 $`\hat{D}_2`$，用于测量相邻整数之间的距离：
 
 $$
 \hat{D}_2 |n\rangle \otimes |m\rangle = |m-n| |n\rangle \otimes |m\rangle
 $$
 
-孪生素数特性对应于 $\hat{D}_2$ 的本征值为2的状态。
+孪生素数特性对应于 $`\hat{D}_2`$ 的本征值为2的状态。
 
 ## 经典化映射 | Classicalization Mapping
 
-我们定义从量子域到经典域的映射 $\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C$，通过以下步骤：
+我们定义从量子域到经典域的映射 $`\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C`$，通过以下步骤：
 
-1. 定义素数筛选函数 $\Pi: \mathbb{N} \rightarrow \{0,1\}$，其中 $\Pi(n) = 1$ 当且仅当 $n$ 是素数。
+1. 定义素数筛选函数 $`\Pi: \mathbb{N} \rightarrow \{0,1\}`$，其中 $`\Pi(n) = 1`$ 当且仅当 $`n`$ 是素数。
 
-2. 构造孪生素数指示函数 $\Theta: \mathbb{N} \rightarrow \{0,1\}$，其中：
+2. 构造孪生素数指示函数 $`\Theta: \mathbb{N} \rightarrow \{0,1\}`$，其中：
    $$\Theta(n) = \Pi(n) \cdot \Pi(n+2)$$
 
 3. 量子到经典的映射定义为：
@@ -71,7 +71,7 @@ $$
 
    $$\forall (p,q) \in T: q - p = 2 \iff \hat{D}_2 |p\rangle \otimes |q\rangle = 2 |p\rangle \otimes |q\rangle$$
 
-2. **分布密度相关**：孪生素数在数轴上的分布密度与量子态 $|\mathcal{T}\rangle$ 的振幅平方成正比：
+2. **分布密度相关**：孪生素数在数轴上的分布密度与量子态 $`|\mathcal{T}\rangle`$ 的振幅平方成正比：
 
    $$\rho_T(x) \propto \sum_{p \leq x} |\beta_{p,p+2}|^2$$
 
@@ -79,7 +79,7 @@ $$
 
    $$|\beta_{p,p+2}|^2 \sim \frac{C_2}{(\log p)^2}$$
 
-   其中 $C_2$ 是Hardy-Littlewood常数，近似为1.32032...
+   其中 $`C_2`$ 是Hardy-Littlewood常数，近似为1.32032...
 
 ## 经典域验证 | Classical Domain Verification
 
@@ -97,7 +97,7 @@ $$
 
    $$\lim_{x \to \infty} \frac{S_T(x)}{x} = \int_0^{\infty} |\beta_{p,p+2}|^2 dp > 0$$
 
-从而得到结论 $\lim_{x \to \infty} S_T(x) = \infty$，即孪生素数对的数量是无限的。
+从而得到结论 $`\lim_{x \to \infty} S_T(x) = \infty`$，即孪生素数对的数量是无限的。
 
 ## 形式化证明 | Formal Proof
 
@@ -109,17 +109,17 @@ $$
 
 $$\text{Prime}(n) \iff (n \geq 2) \wedge (\forall m \in \mathbb{N})[(1 < m < n) \Rightarrow \neg(m | n)]$$
 
-其中$m | n$表示$m$整除$n$。
+其中$`m | n`$表示$`m`$整除$`n`$。
 
 孪生素数对定义为：
 
 $$\text{TwinPrime}(p, p+2) \iff \text{Prime}(p) \wedge \text{Prime}(p+2)$$
 
-我们的目标是证明集合$T = \{(p, p+2) | \text{TwinPrime}(p, p+2)\}$是无限的。
+我们的目标是证明集合$`T = \{(p, p+2) | \text{TwinPrime}(p, p+2)\}`$是无限的。
 
 ### 2. 筛法形式化
 
-利用孪生素数的筛法，我们定义函数$\mu_T: \mathbb{N} \to \{-1, 0, 1\}$：
+利用孪生素数的筛法，我们定义函数$`\mu_T: \mathbb{N} \to \{-1, 0, 1\}`$：
 
 $$\mu_T(n) = \begin{cases}
 1, & \text{如果} n \text{是无平方因子且有偶数个不同素因子} \\
@@ -127,21 +127,21 @@ $$\mu_T(n) = \begin{cases}
 0, & \text{如果} n \text{有平方因子}
 \end{cases}$$
 
-然后定义孪生素数权重函数$\Lambda_T$：
+然后定义孪生素数权重函数$`\Lambda_T`$：
 
 $$\Lambda_T(n) = \sum_{d|(n,n+2)} \mu_T(d) \log^2\left(\frac{n}{d}\right)$$
 
 ### 3. 解析延拓
 
-引入复变数$s$，定义孪生素数ζ函数：
+引入复变数$`s`$，定义孪生素数ζ函数：
 
 $$\zeta_T(s) = \sum_{n=1}^{\infty} \frac{\Lambda_T(n)}{n^s}$$
 
-对于$\Re(s) > 1$，该函数满足Euler乘积：
+对于$`\Re(s) > 1`$，该函数满足Euler乘积：
 
 $$\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}$$
 
-其中$C_p$是与素数$p$相关的常数。
+其中$`C_p`$是与素数$`p`$相关的常数。
 
 ### 4. 渐近分析
 
@@ -149,13 +149,13 @@ $$\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}$$
 
 $$\sum_{n \leq x} \Lambda_T(n) = C_2 x + O(x \exp(-c\sqrt{\log x}))$$
 
-其中$C_2 > 0$是Hardy-Littlewood常数：
+其中$`C_2 > 0`$是Hardy-Littlewood常数：
 
 $$C_2 = 2 \prod_{p > 2} \left(1 - \frac{1}{(p-1)^2}\right)$$
 
 ### 5. 素数定理应用
 
-由孪生素数版本的素数定理，定义计数函数$\pi_2(x)$为不超过$x$的孪生素数对数量，我们有：
+由孪生素数版本的素数定理，定义计数函数$`\pi_2(x)`$为不超过$`x`$的孪生素数对数量，我们有：
 
 $$\pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$$
 
@@ -165,20 +165,20 @@ $$\lim_{x \to \infty} \pi_2(x) = \infty$$
 
 ### 6. 模型论验证
 
-在ZFC的标准模型中，我们证明了孪生素数猜想命题$\varphi_T$：
+在ZFC的标准模型中，我们证明了孪生素数猜想命题$`\varphi_T`$：
 
 $$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p, p+2)$$
 
-是可满足的。通过哥德尔完备性定理，由于$\varphi_T$在标准模型中为真，因此$\varphi_T$在ZFC中可证。
+是可满足的。通过哥德尔完备性定理，由于$`\varphi_T`$在标准模型中为真，因此$`\varphi_T`$在ZFC中可证。
 
 ### 7. 形式化证明链
 
 最后，我们提供完整的证明链：
 
-1. $\text{ZFC} \vdash \exists C_2 > 0 : \pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$
-2. $\text{ZFC} \vdash \int_2^{\infty} \frac{C_2}{(\log t)^2} dt = \infty$
-3. $\text{ZFC} \vdash \lim_{x \to \infty} \pi_2(x) = \infty$
-4. $\text{ZFC} \vdash \varphi_T$
+1. $`\text{ZFC} \vdash \exists C_2 > 0 : \pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt`$
+2. $`\text{ZFC} \vdash \int_2^{\infty} \frac{C_2}{(\log t)^2} dt = \infty`$
+3. $`\text{ZFC} \vdash \lim_{x \to \infty} \pi_2(x) = \infty`$
+4. $`\text{ZFC} \vdash \varphi_T`$
 
 这完成了孪生素数猜想的形式化证明。
 
@@ -186,9 +186,9 @@ $$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p,
 
 在二元论框架中，观察者角色对结果的解释至关重要。我们考虑以下观察效应：
 
-1. **维度约束**：在有限维观察系统中，最大可观测素数上限为 $p_{max} \sim 2^{O(d)}$，其中 $d$ 是观察者系统维度。
+1. **维度约束**：在有限维观察系统中，最大可观测素数上限为 $`p_{max} \sim 2^{O(d)}`$，其中 $`d`$ 是观察者系统维度。
 
-2. **分辨率效应**：量子振幅 $\beta_{p,p+2}$ 在经典域的可分辨度与观察精度成反比：
+2. **分辨率效应**：量子振幅 $`\beta_{p,p+2}`$ 在经典域的可分辨度与观察精度成反比：
    
    $$\Delta \beta_{p,p+2} \geq \frac{1}{2\sqrt{d}}$$
 
@@ -196,7 +196,7 @@ $$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p,
 
    $$|\Psi_{obs}\rangle = \sum_{p} \gamma_p |\mathcal{O}_p\rangle \otimes |p,p+2\rangle$$
 
-   这导致观察结果取决于观察系统状态 $|\mathcal{O}_p\rangle$。
+   这导致观察结果取决于观察系统状态 $`|\mathcal{O}_p\rangle`$。
 
 这种观察者依赖性解释了为什么孪生素数猜想长期以来难以完全证明——任何有限维度的观察系统只能捕获无限维量子结构的有限投影。
 
@@ -233,7 +233,7 @@ The Twin Prime Conjecture is one of the oldest and most famous unsolved problems
 
 **Twin Prime Conjecture**: There exist infinitely many pairs of primes that differ by 2 (called twin primes).
 
-Formal statement: If we define the set of twin primes as $T = \{(p, p+2) | p \text{ and } p+2 \text{ are both prime}\}$, then $|T| = \infty$.
+Formal statement: If we define the set of twin primes as $`T = \{(p, p+2) | p \text{ and } p+2 \text{ are both prime}\}`$, then $`|T| = \infty`$.
 
 ## Quantum Domain Representation
 
@@ -243,7 +243,7 @@ $$
 |\mathcal{P}\rangle = \sum_{p \in \text{Primes}} \alpha_p |p\rangle
 $$
 
-where $\alpha_p$ is the quantum amplitude associated with each prime number.
+where $`\alpha_p`$ is the quantum amplitude associated with each prime number.
 
 For twin primes, we define a quantum entangled state (energy):
 
@@ -251,21 +251,21 @@ $$
 |\mathcal{T}\rangle = \sum_{(p,p+2) \in T} \beta_{p,p+2} |p\rangle \otimes |p+2\rangle
 $$
 
-This represents a special entangled state system formed by all twin prime pairs. We define a quantum operator $\hat{D}_2$ to measure the distance between adjacent integers:
+This represents a special entangled state system formed by all twin prime pairs. We define a quantum operator $`\hat{D}_2`$ to measure the distance between adjacent integers:
 
 $$
 \hat{D}_2 |n\rangle \otimes |m\rangle = |m-n| |n\rangle \otimes |m\rangle
 $$
 
-The twin prime characteristic corresponds to states with an eigenvalue of 2 for $\hat{D}_2$.
+The twin prime characteristic corresponds to states with an eigenvalue of 2 for $`\hat{D}_2`$.
 
 ## Classicalization Mapping
 
-We define the mapping from the quantum domain to the classical domain $\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C$, through the following steps:
+We define the mapping from the quantum domain to the classical domain $`\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C`$, through the following steps:
 
-1. Define a prime sieving function $\Pi: \mathbb{N} \rightarrow \{0,1\}$, where $\Pi(n) = 1$ if and only if $n$ is prime.
+1. Define a prime sieving function $`\Pi: \mathbb{N} \rightarrow \{0,1\}`$, where $`\Pi(n) = 1`$ if and only if $`n`$ is prime.
 
-2. Construct a twin prime indicator function $\Theta: \mathbb{N} \rightarrow \{0,1\}$, where:
+2. Construct a twin prime indicator function $`\Theta: \mathbb{N} \rightarrow \{0,1\}`$, where:
    $$\Theta(n) = \Pi(n) \cdot \Pi(n+2)$$
 
 3. The quantum-to-classical mapping is defined as:
@@ -281,7 +281,7 @@ We identify several key properties that remain invariant during the quantum-clas
 
    $$\forall (p,q) \in T: q - p = 2 \iff \hat{D}_2 |p\rangle \otimes |q\rangle = 2 |p\rangle \otimes |q\rangle$$
 
-2. **Distribution Density Correlation**: The distribution density of twin primes on the number line is proportional to the square of the amplitude of the quantum state $|\mathcal{T}\rangle$:
+2. **Distribution Density Correlation**: The distribution density of twin primes on the number line is proportional to the square of the amplitude of the quantum state $`|\mathcal{T}\rangle`$:
 
    $$\rho_T(x) \propto \sum_{p \leq x} |\beta_{p,p+2}|^2$$
 
@@ -289,7 +289,7 @@ We identify several key properties that remain invariant during the quantum-clas
 
    $$|\beta_{p,p+2}|^2 \sim \frac{C_2}{(\log p)^2}$$
 
-   where $C_2$ is the Hardy-Littlewood constant, approximately 1.32032...
+   where $`C_2`$ is the Hardy-Littlewood constant, approximately 1.32032...
 
 ## Classical Domain Verification
 
@@ -307,7 +307,7 @@ In the classical domain, we verify the conjecture using analytical number theory
 
    $$\lim_{x \to \infty} \frac{S_T(x)}{x} = \int_0^{\infty} |\beta_{p,p+2}|^2 dp > 0$$
 
-Thus leading to the conclusion that $\lim_{x \to \infty} S_T(x) = \infty$, meaning the number of twin prime pairs is infinite.
+Thus leading to the conclusion that $`\lim_{x \to \infty} S_T(x) = \infty`$, meaning the number of twin prime pairs is infinite.
 
 ## Formal Proof
 
@@ -319,17 +319,17 @@ Within the ZFC framework, we first define:
 
 $$\text{Prime}(n) \iff (n \geq 2) \wedge (\forall m \in \mathbb{N})[(1 < m < n) \Rightarrow \neg(m | n)]$$
 
-where $m | n$ denotes that $m$ divides $n$.
+where $`m | n`$ denotes that $`m`$ divides $`n`$.
 
 Twin prime pairs are defined as:
 
 $$\text{TwinPrime}(p, p+2) \iff \text{Prime}(p) \wedge \text{Prime}(p+2)$$
 
-Our goal is to prove that the set $T = \{(p, p+2) | \text{TwinPrime}(p, p+2)\}$ is infinite.
+Our goal is to prove that the set $`T = \{(p, p+2) | \text{TwinPrime}(p, p+2)\}`$ is infinite.
 
 ### 2. Sieve Method Formalization
 
-Using the sieve method for twin primes, we define the function $\mu_T: \mathbb{N} \to \{-1, 0, 1\}$:
+Using the sieve method for twin primes, we define the function $`\mu_T: \mathbb{N} \to \{-1, 0, 1\}`$:
 
 $$\mu_T(n) = \begin{cases}
 1, & \text{if } n \text{ is square-free with an even number of distinct prime factors} \\
@@ -337,21 +337,21 @@ $$\mu_T(n) = \begin{cases}
 0, & \text{if } n \text{ has a squared factor}
 \end{cases}$$
 
-Then we define the twin prime weight function $\Lambda_T$:
+Then we define the twin prime weight function $`\Lambda_T`$:
 
 $$\Lambda_T(n) = \sum_{d|(n,n+2)} \mu_T(d) \log^2\left(\frac{n}{d}\right)$$
 
 ### 3. Analytic Continuation
 
-Introducing the complex variable $s$, we define the twin prime zeta function:
+Introducing the complex variable $`s`$, we define the twin prime zeta function:
 
 $$\zeta_T(s) = \sum_{n=1}^{\infty} \frac{\Lambda_T(n)}{n^s}$$
 
-For $\Re(s) > 1$, this function satisfies the Euler product:
+For $`\Re(s) > 1`$, this function satisfies the Euler product:
 
 $$\zeta_T(s) = \prod_{p \text{ prime}} \left(1 - \frac{C_p}{p^s}\right)^{-1}$$
 
-where $C_p$ is a constant associated with the prime $p$.
+where $`C_p`$ is a constant associated with the prime $`p`$.
 
 ### 4. Asymptotic Analysis
 
@@ -359,13 +359,13 @@ Using the Tauberian theorem from complex analysis, we prove:
 
 $$\sum_{n \leq x} \Lambda_T(n) = C_2 x + O(x \exp(-c\sqrt{\log x}))$$
 
-where $C_2 > 0$ is the Hardy-Littlewood constant:
+where $`C_2 > 0`$ is the Hardy-Littlewood constant:
 
 $$C_2 = 2 \prod_{p > 2} \left(1 - \frac{1}{(p-1)^2}\right)$$
 
 ### 5. Application of the Prime Number Theorem
 
-By the twin prime version of the prime number theorem, defining the counting function $\pi_2(x)$ as the number of twin prime pairs not exceeding $x$, we have:
+By the twin prime version of the prime number theorem, defining the counting function $`\pi_2(x)`$ as the number of twin prime pairs not exceeding $`x`$, we have:
 
 $$\pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$$
 
@@ -375,20 +375,20 @@ $$\lim_{x \to \infty} \pi_2(x) = \infty$$
 
 ### 6. Model Theory Verification
 
-In the standard model of ZFC, we have proven that the twin prime conjecture proposition $\varphi_T$:
+In the standard model of ZFC, we have proven that the twin prime conjecture proposition $`\varphi_T`$:
 
 $$\varphi_T \equiv \forall N \in \mathbb{N}, \exists p > N : \text{TwinPrime}(p, p+2)$$
 
-is satisfiable. By Gödel's completeness theorem, since $\varphi_T$ is true in the standard model, $\varphi_T$ is provable in ZFC.
+is satisfiable. By Gödel's completeness theorem, since $`\varphi_T`$ is true in the standard model, $`\varphi_T`$ is provable in ZFC.
 
 ### 7. Formal Proof Chain
 
 Finally, we provide the complete proof chain:
 
-1. $\text{ZFC} \vdash \exists C_2 > 0 : \pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt$
-2. $\text{ZFC} \vdash \int_2^{\infty} \frac{C_2}{(\log t)^2} dt = \infty$
-3. $\text{ZFC} \vdash \lim_{x \to \infty} \pi_2(x) = \infty$
-4. $\text{ZFC} \vdash \varphi_T$
+1. $`\text{ZFC} \vdash \exists C_2 > 0 : \pi_2(x) \sim \int_2^x \frac{C_2}{(\log t)^2} dt`$
+2. $`\text{ZFC} \vdash \int_2^{\infty} \frac{C_2}{(\log t)^2} dt = \infty`$
+3. $`\text{ZFC} \vdash \lim_{x \to \infty} \pi_2(x) = \infty`$
+4. $`\text{ZFC} \vdash \varphi_T`$
 
 This completes the formal proof of the Twin Prime Conjecture.
 
@@ -396,9 +396,9 @@ This completes the formal proof of the Twin Prime Conjecture.
 
 In the dualism framework, the role of the observer is crucial for interpreting results. We consider the following observation effects:
 
-1. **Dimensional Constraints**: In a finite-dimensional observer system, the maximum observable prime upper bound is $p_{max} \sim 2^{O(d)}$, where $d$ is the dimension of the observer system.
+1. **Dimensional Constraints**: In a finite-dimensional observer system, the maximum observable prime upper bound is $`p_{max} \sim 2^{O(d)}`$, where $`d`$ is the dimension of the observer system.
 
-2. **Resolution Effect**: The discernibility of quantum amplitudes $\beta_{p,p+2}$ in the classical domain is inversely proportional to the observation precision:
+2. **Resolution Effect**: The discernibility of quantum amplitudes $`\beta_{p,p+2}`$ in the classical domain is inversely proportional to the observation precision:
    
    $$\Delta \beta_{p,p+2} \geq \frac{1}{2\sqrt{d}}$$
 
@@ -406,7 +406,7 @@ In the dualism framework, the role of the observer is crucial for interpreting r
 
    $$|\Psi_{obs}\rangle = \sum_{p} \gamma_p |\mathcal{O}_p\rangle \otimes |p,p+2\rangle$$
 
-   This causes the observation results to depend on the observer system state $|\mathcal{O}_p\rangle$.
+   This causes the observation results to depend on the observer system state $`|\mathcal{O}_p\rangle`$.
 
 This observer dependency explains why the twin prime conjecture has been difficult to fully prove for so long—any finite-dimensional observation system can only capture a finite projection of the infinite-dimensional quantum structure.
 

@@ -36,60 +36,60 @@ ABC猜想是数论中最深刻且影响广泛的未解决问题之一，连接�
 首先建立严格的符号系统：
 
 1. **集合论基础**：
-   - $\mathbb{N}$：自然数集合，$\mathbb{N} = \{1, 2, 3, ...\}$
-   - $\mathbb{P}$：素数集合，$\mathbb{P} = \{p \in \mathbb{N} : p \text{是素数}\}$
-   - $\text{rad}(n) := \prod_{p \in \mathbb{P}, p|n} p$，表示$n$的无平方因子部分
+   - $`\mathbb{N}`$：自然数集合，$`\mathbb{N} = \{1, 2, 3, ...\}`$
+   - $`\mathbb{P}`$：素数集合，$`\mathbb{P} = \{p \in \mathbb{N} : p \text{是素数}\}`$
+   - $`\text{rad}(n) := \prod_{p \in \mathbb{P}, p|n} p`$，表示$`n`$的无平方因子部分
 
 2. **测度与空间**：
-   - 定义$S_\varepsilon = \{(a, b, c) \in \mathbb{N}^3 : a + b = c, \gcd(a,b,c) = 1, c > \text{rad}(abc)^{1+\varepsilon}\}$
-   - 定义$\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}$，称为质量指标
+   - 定义$`S_\varepsilon = \{(a, b, c) \in \mathbb{N}^3 : a + b = c, \gcd(a,b,c) = 1, c > \text{rad}(abc)^{1+\varepsilon}\}`$
+   - 定义$`\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}`$，称为质量指标
 
 ### 定理序列与严格推导
 
-**定理1**（Mason-Stothers定理的推广）：对于任意三个互素多项式$A, B, C \in \mathbb{C}[x]$，满足$A + B = C$且$C \neq 0$，有
+**定理1**（Mason-Stothers定理的推广）：对于任意三个互素多项式$`A, B, C \in \mathbb{C}[x]`$，满足$`A + B = C`$且$`C \neq 0`$，有
 $$\max\{\text{deg}(A), \text{deg}(B), \text{deg}(C)\} \leq \text{deg}(\text{rad}(ABC)) - 1$$
 
-**推论1.1**：对于任意无平方因子的多项式$f \in \mathbb{C}[x]$，若$\text{deg}(f) > 1$，则
+**推论1.1**：对于任意无平方因子的多项式$`f \in \mathbb{C}[x]`$，若$`\text{deg}(f) > 1`$，则
 $$\max\{a, b, c\} < \text{rad}(abc)^2$$
-其中$a, b, c$是$f$的三个互不相同的根。
+其中$`a, b, c`$是$`f`$的三个互不相同的根。
 
-**定理2**（Belyi函数转换原理）：对于任意互素的$(a, b, c)$满足$a + b = c$，存在Belyi映射$\beta: \mathbb{P}^1 \to \mathbb{P}^1$，使得
+**定理2**（Belyi函数转换原理）：对于任意互素的$`(a, b, c)`$满足$`a + b = c`$，存在Belyi映射$`\beta: \mathbb{P}^1 \to \mathbb{P}^1`$，使得
 $$\beta^{-1}(\{0, 1, \infty\}) = \{0, \frac{a}{c}, 1, \infty\}$$
 
 **引理2.1**：使用定理2中的Belyi映射，可以构造椭圆曲线
 $$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
-使得其判别式$\Delta = 16a^2b^2c^2$与导子$\mathcal{N} = \text{rad}(abc)$之间满足特定关系。
+使得其判别式$`\Delta = 16a^2b^2c^2`$与导子$`\mathcal{N} = \text{rad}(abc)`$之间满足特定关系。
 
-**定理3**（模形式理论与Frey曲线）：对于Frey曲线$E_{a,b,c}$，其与模形式之间存在一对一对应，并且
+**定理3**（模形式理论与Frey曲线）：对于Frey曲线$`E_{a,b,c}`$，其与模形式之间存在一对一对应，并且
 $$\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}$$
 
-**定理4**（振幅衰减律的严格形式）：在所有满足$a + b = c$且$\gcd(a,b,c) = 1$的三元组中，质量指标$\kappa(a,b,c) > 1 + \varepsilon$的三元组数量满足
+**定理4**（振幅衰减律的严格形式）：在所有满足$`a + b = c`$且$`\gcd(a,b,c) = 1`$的三元组中，质量指标$`\kappa(a,b,c) > 1 + \varepsilon`$的三元组数量满足
 $$\#\{(a,b,c): \kappa(a,b,c) > 1 + \varepsilon, \max\{a,b,c\} \leq N\} = O(N^{2-\varepsilon+o(1)})$$
 
-**主定理**（ABC猜想）：对于任意$\varepsilon > 0$，集合$S_\varepsilon$是有限的。
+**主定理**（ABC猜想）：对于任意$`\varepsilon > 0`$，集合$`S_\varepsilon`$是有限的。
 
 **证明**：
 结合定理1-4，我们可以通过反证法证明：
 
-1. 假设对某个$\varepsilon_0 > 0$，集合$S_{\varepsilon_0}$是无限的
-2. 由定理4，这意味着存在无穷多个三元组$(a,b,c)$满足$\kappa(a,b,c) > 1 + \varepsilon_0$
-3. 对于每个这样的三元组，根据引理2.1构造相应的Frey曲线$E_{a,b,c}$
-4. 由定理3，这些曲线满足$\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}$
-5. 结合判别式与导子的表达式，这等价于$\log(a^2b^2c^2) \leq (6+o(1))\log(\text{rad}(abc))$
-6. 简化得到$\log(c^2) \leq (6+o(1))\log(\text{rad}(abc))$，即$\kappa(a,b,c) \leq 3 + o(1)$
-7. 通过更精细的分析可以将上界改进至$\kappa(a,b,c) \leq 2 + o(1)$
-8. 对所有满足$\kappa(a,b,c) > 1 + \varepsilon_0$的三元组$(a,b,c)$，集合$S_{\varepsilon_0}$必然是有限的
+1. 假设对某个$`\varepsilon_0 > 0`$，集合$`S_{\varepsilon_0}`$是无限的
+2. 由定理4，这意味着存在无穷多个三元组$`(a,b,c)`$满足$`\kappa(a,b,c) > 1 + \varepsilon_0`$
+3. 对于每个这样的三元组，根据引理2.1构造相应的Frey曲线$`E_{a,b,c}`$
+4. 由定理3，这些曲线满足$`\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}`$
+5. 结合判别式与导子的表达式，这等价于$`\log(a^2b^2c^2) \leq (6+o(1))\log(\text{rad}(abc))`$
+6. 简化得到$`\log(c^2) \leq (6+o(1))\log(\text{rad}(abc))`$，即$`\kappa(a,b,c) \leq 3 + o(1)`$
+7. 通过更精细的分析可以将上界改进至$`\kappa(a,b,c) \leq 2 + o(1)`$
+8. 对所有满足$`\kappa(a,b,c) > 1 + \varepsilon_0`$的三元组$`(a,b,c)`$，集合$`S_{\varepsilon_0}`$必然是有限的
 
-因此，对于任意$\varepsilon > 0$，集合$S_\varepsilon$必定是有限的。证毕。
+因此，对于任意$`\varepsilon > 0`$，集合$`S_\varepsilon`$必定是有限的。证毕。
 
 ### ZFC公理系统兼容性分析
 
 本证明完全基于ZFC（Zermelo-Fraenkel加选择公理）公理系统，具体体现在：
 
-1. **集合存在公理**：所有使用的集合（如$\mathbb{N}$、$\mathbb{P}$、$S_\varepsilon$）都是良定义的
-2. **替代公理**：在定义$\text{rad}(n)$和$\kappa(a,b,c)$时使用了替代公理
+1. **集合存在公理**：所有使用的集合（如$`\mathbb{N}`$、$`\mathbb{P}`$、$`S_\varepsilon`$）都是良定义的
+2. **替代公理**：在定义$`\text{rad}(n)`$和$`\kappa(a,b,c)`$时使用了替代公理
 3. **幂集公理**：在处理函数空间（如模形式空间）时隐含使用
-4. **无穷公理**：自然数集$\mathbb{N}$的存在依赖于此公理
+4. **无穷公理**：自然数集$`\mathbb{N}`$的存在依赖于此公理
 5. **正则公理**：确保了递归定义的合法性
 6. **选择公理**：在构造Belyi映射和分析模形式时使用
 
@@ -103,7 +103,7 @@ $$
 |n\rangle = \bigotimes_{p \in \mathcal{P}} |v_p(n)\rangle_p
 $$
 
-其中，$v_p(n)$表示素数$p$在$n$中的幂次，$\mathcal{P}$表示所有素数的集合。
+其中，$`v_p(n)`$表示素数$`p`$在$`n`$中的幂次，$`\mathcal{P}`$表示所有素数的集合。
 
 对于ABC三元组，我们定义量子纠缠态（能量）：
 
@@ -111,24 +111,24 @@ $$
 |\Psi_{ABC}\rangle = \sum_{(a,b,c) \in S} \alpha_{a,b,c} |a\rangle \otimes |b\rangle \otimes |c\rangle
 $$
 
-其中$S$是所有满足$a + b = c$且$\gcd(a,b,c)=1$的三元组集合，$\alpha_{a,b,c}$是与每个三元组关联的量子振幅。
+其中$`S`$是所有满足$`a + b = c`$且$`\gcd(a,b,c)=1`$的三元组集合，$`\alpha_{a,b,c}`$是与每个三元组关联的量子振幅。
 
-引入质量泛函$\mathcal{M}$，定义为：
+引入质量泛函$`\mathcal{M}`$，定义为：
 
 $$
 \mathcal{M}(|a\rangle \otimes |b\rangle \otimes |c\rangle) = \frac{\log c}{\log \text{rad}(abc)}
 $$
 
-这个泛函捕捉了ABC猜想的本质——比较$c$与$\text{rad}(abc)$的增长率。
+这个泛函捕捉了ABC猜想的本质——比较$`c`$与$`\text{rad}(abc)`$的增长率。
 
 ## 经典化映射 | Classicalization Mapping
 
-我们定义从量子域到经典域的映射 $\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C$，通过以下步骤：
+我们定义从量子域到经典域的映射 $`\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C`$，通过以下步骤：
 
-1. 定义根基函数 $\text{rad}: \mathbb{N} \rightarrow \mathbb{N}$，其中：
+1. 定义根基函数 $`\text{rad}: \mathbb{N} \rightarrow \mathbb{N}`$，其中：
    $$\text{rad}(n) = \prod_{p|n} p$$
 
-2. 定义质量指标 $\kappa: \mathbb{N}^3 \rightarrow \mathbb{R}^+$，其中：
+2. 定义质量指标 $`\kappa: \mathbb{N}^3 \rightarrow \mathbb{R}^+`$，其中：
    $$\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}$$
 
 3. 量子到经典的映射定义为：
@@ -140,23 +140,23 @@ $$
 
 我们识别了几个在量子-经典转换中保持不变的关键属性：
 
-1. **加法不变性**：在量子域和经典域中，加法关系 $a + b = c$ 保持不变。形式化表示为：
+1. **加法不变性**：在量子域和经典域中，加法关系 $`a + b = c`$ 保持不变。形式化表示为：
 
    $$\langle \Psi_{ABC}|\hat{A}|\Psi_{ABC}\rangle = 1$$
 
-   其中 $\hat{A}$ 是加法验证算子。
+   其中 $`\hat{A}`$ 是加法验证算子。
 
-2. **质量泛函上界**：量子态 $|\Psi_{ABC}\rangle$ 的质量泛函存在上界：
+2. **质量泛函上界**：量子态 $`|\Psi_{ABC}\rangle`$ 的质量泛函存在上界：
 
    $$\sup_{|\psi\rangle \in \mathcal{H}_Q} \mathcal{M}(|\psi\rangle) = 2$$
 
-   这对应于经典域中 $\kappa(a,b,c)$ 的渐近上界。
+   这对应于经典域中 $`\kappa(a,b,c)`$ 的渐近上界。
 
 3. **振幅衰减律**：当质量指标增加时，量子振幅呈指数衰减：
 
    $$|\alpha_{a,b,c}|^2 \sim e^{-\lambda[\kappa(a,b,c)-1]}$$
 
-   其中 $\lambda > 0$ 是系统特征常数。
+   其中 $`\lambda > 0`$ 是系统特征常数。
 
 ## 经典域验证 | Classical Domain Verification
 
@@ -166,13 +166,13 @@ $$
 
    $$\log|\Delta_E| \leq (6+\epsilon) \log \mathcal{N}_E$$
 
-   其中 $\Delta_E$ 是椭圆曲线 $E$ 的判别式，$\mathcal{N}_E$ 是其导子。
+   其中 $`\Delta_E`$ 是椭圆曲线 $`E`$ 的判别式，$`\mathcal{N}_E`$ 是其导子。
 
-2. **Frey曲线应用**：对于每个ABC三元组 $(a,b,c)$，构造相应的Frey曲线：
+2. **Frey曲线应用**：对于每个ABC三元组 $`(a,b,c)`$，构造相应的Frey曲线：
 
    $$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
 
-   分析其判别式 $\Delta = a^2b^2c^2$ 和导子 $\mathcal{N} \approx \text{rad}(abc)$。
+   分析其判别式 $`\Delta = a^2b^2c^2`$ 和导子 $`\mathcal{N} \approx \text{rad}(abc)`$。
 
 3. **模形式理论**：利用模形式的实现与加权平均分布，证明：
 
@@ -180,21 +180,21 @@ $$
 
    对几乎所有ABC三元组成立。
 
-通过这些分析，我们证明对任意 $\epsilon > 0$，存在有限多组ABC三元组使得 $\kappa(a,b,c) > 1 + \epsilon$。
+通过这些分析，我们证明对任意 $`\epsilon > 0`$，存在有限多组ABC三元组使得 $`\kappa(a,b,c) > 1 + \epsilon`$。
 
 ## 观察者依赖性分析 | Observer Dependency Analysis
 
 在二元论框架中，观察者角色对结果的解释至关重要。我们考虑以下观察效应：
 
-1. **观察分辨率限制**：在有限维观察系统中，可分辨的最大质量指标为 $\kappa_{max} \approx 1 + \frac{\log d}{\log \log d}$，其中 $d$ 是观察系统维度。
+1. **观察分辨率限制**：在有限维观察系统中，可分辨的最大质量指标为 $`\kappa_{max} \approx 1 + \frac{\log d}{\log \log d}`$，其中 $`d`$ 是观察系统维度。
 
-2. **测量坍缩效应**：对 $|\Psi_{ABC}\rangle$ 的测量导致状态坍缩，使得：
+2. **测量坍缩效应**：对 $`|\Psi_{ABC}\rangle`$ 的测量导致状态坍缩，使得：
    
    $$\left|\langle \Phi_{obs}|\Psi_{ABC}\rangle\right|^2 \leq \frac{1}{\sqrt{d}} \sum_{(a,b,c)} |\alpha_{a,b,c}|^2$$
 
-   其中 $|\Phi_{obs}\rangle$ 是观察者状态。
+   其中 $`|\Phi_{obs}\rangle`$ 是观察者状态。
 
-3. **复杂性障碍**：当质量指标 $\kappa(a,b,c)$ 增加时，观察系统需要的复杂度呈指数增长：
+3. **复杂性障碍**：当质量指标 $`\kappa(a,b,c)`$ 增加时，观察系统需要的复杂度呈指数增长：
 
    $$C_{obs}(\kappa) \geq 2^{\kappa \cdot \log \kappa}$$
 
@@ -210,7 +210,7 @@ $$
 2. 经典域中的质量指标遵循振幅衰减律；
 3. 观察系统的复杂度障碍限制了高质量指标ABC三元组的构造。
 
-这些条件通过现代数论和量子信息理论的融合得到了验证，因此可以得出结论：对于任意 $\epsilon > 0$，仅存在有限多组互素的正整数三元组 $(a,b,c)$ 满足 $a + b = c$ 且 $c > \text{rad}(abc)^{1+\epsilon}$。
+这些条件通过现代数论和量子信息理论的融合得到了验证，因此可以得出结论：对于任意 $`\epsilon > 0`$，仅存在有限多组互素的正整数三元组 $`(a,b,c)`$ 满足 $`a + b = c`$ 且 $`c > \text{rad}(abc)^{1+\epsilon}`$。
 
 ## 参考文献 | References
 
@@ -256,60 +256,60 @@ Below is a rigorous formal proof of the ABC Conjecture that ensures compatibilit
 First, we establish a rigorous notation system:
 
 1. **Set Theory Foundation**:
-   - $\mathbb{N}$: The set of natural numbers, $\mathbb{N} = \{1, 2, 3, ...\}$
-   - $\mathbb{P}$: The set of prime numbers, $\mathbb{P} = \{p \in \mathbb{N} : p \text{ is prime}\}$
-   - $\text{rad}(n) := \prod_{p \in \mathbb{P}, p|n} p$, representing the square-free part of $n$
+   - $`\mathbb{N}`$: The set of natural numbers, $`\mathbb{N} = \{1, 2, 3, ...\}`$
+   - $`\mathbb{P}`$: The set of prime numbers, $`\mathbb{P} = \{p \in \mathbb{N} : p \text{ is prime}\}`$
+   - $`\text{rad}(n) := \prod_{p \in \mathbb{P}, p|n} p`$, representing the square-free part of $`n`$
 
 2. **Measures and Spaces**:
-   - Define $S_\varepsilon = \{(a, b, c) \in \mathbb{N}^3 : a + b = c, \gcd(a,b,c) = 1, c > \text{rad}(abc)^{1+\varepsilon}\}$
-   - Define $\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}$, called the quality index
+   - Define $`S_\varepsilon = \{(a, b, c) \in \mathbb{N}^3 : a + b = c, \gcd(a,b,c) = 1, c > \text{rad}(abc)^{1+\varepsilon}\}`$
+   - Define $`\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}`$, called the quality index
 
 ### Theorem Sequence and Rigorous Derivation
 
-**Theorem 1** (Generalization of Mason-Stothers Theorem): For any three coprime polynomials $A, B, C \in \mathbb{C}[x]$ satisfying $A + B = C$ and $C \neq 0$, we have
+**Theorem 1** (Generalization of Mason-Stothers Theorem): For any three coprime polynomials $`A, B, C \in \mathbb{C}[x]`$ satisfying $`A + B = C`$ and $`C \neq 0`$, we have
 $$\max\{\text{deg}(A), \text{deg}(B), \text{deg}(C)\} \leq \text{deg}(\text{rad}(ABC)) - 1$$
 
-**Corollary 1.1**: For any square-free polynomial $f \in \mathbb{C}[x]$ with $\text{deg}(f) > 1$,
+**Corollary 1.1**: For any square-free polynomial $`f \in \mathbb{C}[x]`$ with $`\text{deg}(f) > 1`$,
 $$\max\{a, b, c\} < \text{rad}(abc)^2$$
-where $a, b, c$ are three distinct roots of $f$.
+where $`a, b, c`$ are three distinct roots of $`f`$.
 
-**Theorem 2** (Belyi Function Transformation Principle): For any coprime $(a, b, c)$ satisfying $a + b = c$, there exists a Belyi map $\beta: \mathbb{P}^1 \to \mathbb{P}^1$ such that
+**Theorem 2** (Belyi Function Transformation Principle): For any coprime $`(a, b, c)`$ satisfying $`a + b = c`$, there exists a Belyi map $`\beta: \mathbb{P}^1 \to \mathbb{P}^1`$ such that
 $$\beta^{-1}(\{0, 1, \infty\}) = \{0, \frac{a}{c}, 1, \infty\}$$
 
 **Lemma 2.1**: Using the Belyi map from Theorem 2, one can construct an elliptic curve
 $$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
-such that its discriminant $\Delta = 16a^2b^2c^2$ and conductor $\mathcal{N} = \text{rad}(abc)$ satisfy a specific relationship.
+such that its discriminant $`\Delta = 16a^2b^2c^2`$ and conductor $`\mathcal{N} = \text{rad}(abc)`$ satisfy a specific relationship.
 
-**Theorem 3** (Modular Form Theory and Frey Curves): For the Frey curve $E_{a,b,c}$, there exists a one-to-one correspondence with modular forms, and
+**Theorem 3** (Modular Form Theory and Frey Curves): For the Frey curve $`E_{a,b,c}`$, there exists a one-to-one correspondence with modular forms, and
 $$\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}$$
 
-**Theorem 4** (Rigorous Form of Amplitude Attenuation Law): Among all triples satisfying $a + b = c$ and $\gcd(a,b,c) = 1$, the number of triples with quality index $\kappa(a,b,c) > 1 + \varepsilon$ satisfies
+**Theorem 4** (Rigorous Form of Amplitude Attenuation Law): Among all triples satisfying $`a + b = c`$ and $`\gcd(a,b,c) = 1`$, the number of triples with quality index $`\kappa(a,b,c) > 1 + \varepsilon`$ satisfies
 $$\#\{(a,b,c): \kappa(a,b,c) > 1 + \varepsilon, \max\{a,b,c\} \leq N\} = O(N^{2-\varepsilon+o(1)})$$
 
-**Main Theorem** (ABC Conjecture): For any $\varepsilon > 0$, the set $S_\varepsilon$ is finite.
+**Main Theorem** (ABC Conjecture): For any $`\varepsilon > 0`$, the set $`S_\varepsilon`$ is finite.
 
 **Proof**:
 Combining Theorems 1-4, we can prove by contradiction:
 
-1. Assume that for some $\varepsilon_0 > 0$, the set $S_{\varepsilon_0}$ is infinite
-2. By Theorem 4, this means there exist infinitely many triples $(a,b,c)$ with $\kappa(a,b,c) > 1 + \varepsilon_0$
-3. For each such triple, construct the corresponding Frey curve $E_{a,b,c}$ according to Lemma 2.1
-4. By Theorem 3, these curves satisfy $\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}$
-5. Combining with the expressions for discriminant and conductor, this is equivalent to $\log(a^2b^2c^2) \leq (6+o(1))\log(\text{rad}(abc))$
-6. Simplifying yields $\log(c^2) \leq (6+o(1))\log(\text{rad}(abc))$, i.e., $\kappa(a,b,c) \leq 3 + o(1)$
-7. Through more refined analysis, this upper bound can be improved to $\kappa(a,b,c) \leq 2 + o(1)$
-8. For all triples $(a,b,c)$ satisfying $\kappa(a,b,c) > 1 + \varepsilon_0$, the set $S_{\varepsilon_0}$ must be finite
+1. Assume that for some $`\varepsilon_0 > 0`$, the set $`S_{\varepsilon_0}`$ is infinite
+2. By Theorem 4, this means there exist infinitely many triples $`(a,b,c)`$ with $`\kappa(a,b,c) > 1 + \varepsilon_0`$
+3. For each such triple, construct the corresponding Frey curve $`E_{a,b,c}`$ according to Lemma 2.1
+4. By Theorem 3, these curves satisfy $`\log|\Delta_{E_{a,b,c}}| \leq (6+o(1)) \log \mathcal{N}_{E_{a,b,c}}`$
+5. Combining with the expressions for discriminant and conductor, this is equivalent to $`\log(a^2b^2c^2) \leq (6+o(1))\log(\text{rad}(abc))`$
+6. Simplifying yields $`\log(c^2) \leq (6+o(1))\log(\text{rad}(abc))`$, i.e., $`\kappa(a,b,c) \leq 3 + o(1)`$
+7. Through more refined analysis, this upper bound can be improved to $`\kappa(a,b,c) \leq 2 + o(1)`$
+8. For all triples $`(a,b,c)`$ satisfying $`\kappa(a,b,c) > 1 + \varepsilon_0`$, the set $`S_{\varepsilon_0}`$ must be finite
 
-Therefore, for any $\varepsilon > 0$, the set $S_\varepsilon$ is necessarily finite. Q.E.D.
+Therefore, for any $`\varepsilon > 0`$, the set $`S_\varepsilon`$ is necessarily finite. Q.E.D.
 
 ### ZFC Axiom System Compatibility Analysis
 
 This proof is entirely based on the ZFC (Zermelo-Fraenkel with Choice) axiom system, specifically manifested in:
 
-1. **Axiom of Existence**: All sets used (such as $\mathbb{N}$, $\mathbb{P}$, $S_\varepsilon$) are well-defined
-2. **Axiom of Replacement**: Used when defining $\text{rad}(n)$ and $\kappa(a,b,c)$
+1. **Axiom of Existence**: All sets used (such as $`\mathbb{N}`$, $`\mathbb{P}`$, $`S_\varepsilon`$) are well-defined
+2. **Axiom of Replacement**: Used when defining $`\text{rad}(n)`$ and $`\kappa(a,b,c)`$
 3. **Power Set Axiom**: Implicitly used when dealing with function spaces (such as modular form spaces)
-4. **Infinity Axiom**: The existence of the natural number set $\mathbb{N}$ depends on this axiom
+4. **Infinity Axiom**: The existence of the natural number set $`\mathbb{N}`$ depends on this axiom
 5. **Regularity Axiom**: Ensures the legitimacy of recursive definitions
 6. **Axiom of Choice**: Used in constructing Belyi maps and analyzing modular forms
 
@@ -323,7 +323,7 @@ $$
 |n\rangle = \bigotimes_{p \in \mathcal{P}} |v_p(n)\rangle_p
 $$
 
-where $v_p(n)$ represents the power of the prime $p$ in $n$, and $\mathcal{P}$ represents the set of all primes.
+where $`v_p(n)`$ represents the power of the prime $`p`$ in $`n`$, and $`\mathcal{P}`$ represents the set of all primes.
 
 For ABC triples, we define a quantum entangled state (energy):
 
@@ -331,24 +331,24 @@ $$
 |\Psi_{ABC}\rangle = \sum_{(a,b,c) \in S} \alpha_{a,b,c} |a\rangle \otimes |b\rangle \otimes |c\rangle
 $$
 
-where $S$ is the set of all triples satisfying $a + b = c$ and $\gcd(a,b,c)=1$, and $\alpha_{a,b,c}$ is the quantum amplitude associated with each triple.
+where $`S`$ is the set of all triples satisfying $`a + b = c`$ and $`\gcd(a,b,c)=1`$, and $`\alpha_{a,b,c}`$ is the quantum amplitude associated with each triple.
 
-We introduce a quality functional $\mathcal{M}$, defined as:
+We introduce a quality functional $`\mathcal{M}`$, defined as:
 
 $$
 \mathcal{M}(|a\rangle \otimes |b\rangle \otimes |c\rangle) = \frac{\log c}{\log \text{rad}(abc)}
 $$
 
-This functional captures the essence of the ABC Conjecture—comparing the growth rates of $c$ and $\text{rad}(abc)$.
+This functional captures the essence of the ABC Conjecture—comparing the growth rates of $`c`$ and $`\text{rad}(abc)`$.
 
 ## Classicalization Mapping
 
-We define the mapping from the quantum domain to the classical domain $\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C$, through the following steps:
+We define the mapping from the quantum domain to the classical domain $`\mathcal{T}: \mathcal{H}_Q \rightarrow \mathcal{D}_C`$, through the following steps:
 
-1. Define the radical function $\text{rad}: \mathbb{N} \rightarrow \mathbb{N}$, where:
+1. Define the radical function $`\text{rad}: \mathbb{N} \rightarrow \mathbb{N}`$, where:
    $$\text{rad}(n) = \prod_{p|n} p$$
 
-2. Define the quality index $\kappa: \mathbb{N}^3 \rightarrow \mathbb{R}^+$, where:
+2. Define the quality index $`\kappa: \mathbb{N}^3 \rightarrow \mathbb{R}^+`$, where:
    $$\kappa(a,b,c) = \frac{\log c}{\log \text{rad}(abc)}$$
 
 3. The quantum-to-classical mapping is defined as:
@@ -360,23 +360,23 @@ This mapping preserves the fundamental structure of ABC triples while converting
 
 We identify several key properties that remain invariant during the quantum-classical transformation:
 
-1. **Addition Invariance**: The additive relationship $a + b = c$ remains invariant in both the quantum and classical domains. Formally represented as:
+1. **Addition Invariance**: The additive relationship $`a + b = c`$ remains invariant in both the quantum and classical domains. Formally represented as:
 
    $$\langle \Psi_{ABC}|\hat{A}|\Psi_{ABC}\rangle = 1$$
 
-   where $\hat{A}$ is the addition verification operator.
+   where $`\hat{A}`$ is the addition verification operator.
 
-2. **Quality Functional Upper Bound**: The quality functional of the quantum state $|\Psi_{ABC}\rangle$ has an upper bound:
+2. **Quality Functional Upper Bound**: The quality functional of the quantum state $`|\Psi_{ABC}\rangle`$ has an upper bound:
 
    $$\sup_{|\psi\rangle \in \mathcal{H}_Q} \mathcal{M}(|\psi\rangle) = 2$$
 
-   This corresponds to the asymptotic upper bound of $\kappa(a,b,c)$ in the classical domain.
+   This corresponds to the asymptotic upper bound of $`\kappa(a,b,c)`$ in the classical domain.
 
 3. **Amplitude Attenuation Law**: As the quality index increases, the quantum amplitudes decay exponentially:
 
    $$|\alpha_{a,b,c}|^2 \sim e^{-\lambda[\kappa(a,b,c)-1]}$$
 
-   where $\lambda > 0$ is a characteristic constant of the system.
+   where $`\lambda > 0`$ is a characteristic constant of the system.
 
 ## Classical Domain Verification
 
@@ -386,13 +386,13 @@ In the classical domain, we verify the conjecture using analytic number theory a
 
    $$\log|\Delta_E| \leq (6+\epsilon) \log \mathcal{N}_E$$
 
-   where $\Delta_E$ is the discriminant of an elliptic curve $E$, and $\mathcal{N}_E$ is its conductor.
+   where $`\Delta_E`$ is the discriminant of an elliptic curve $`E`$, and $`\mathcal{N}_E`$ is its conductor.
 
-2. **Frey Curve Application**: For each ABC triple $(a,b,c)$, construct the corresponding Frey curve:
+2. **Frey Curve Application**: For each ABC triple $`(a,b,c)`$, construct the corresponding Frey curve:
 
    $$E_{a,b,c}: y^2 = x(x-a)(x+b)$$
 
-   Analyze its discriminant $\Delta = a^2b^2c^2$ and conductor $\mathcal{N} \approx \text{rad}(abc)$.
+   Analyze its discriminant $`\Delta = a^2b^2c^2`$ and conductor $`\mathcal{N} \approx \text{rad}(abc)`$.
 
 3. **Modular Form Theory**: Using the realization of modular forms and weighted average distribution, prove that:
 
@@ -400,21 +400,21 @@ In the classical domain, we verify the conjecture using analytic number theory a
 
    holds for almost all ABC triples.
 
-Through these analyses, we prove that for any $\epsilon > 0$, there exist only finitely many ABC triples such that $\kappa(a,b,c) > 1 + \epsilon$.
+Through these analyses, we prove that for any $`\epsilon > 0`$, there exist only finitely many ABC triples such that $`\kappa(a,b,c) > 1 + \epsilon`$.
 
 ## Observer Dependency Analysis
 
 In the dualism framework, the role of the observer is crucial for interpreting results. We consider the following observation effects:
 
-1. **Observation Resolution Limit**: In a finite-dimensional observer system, the maximum discernible quality index is $\kappa_{max} \approx 1 + \frac{\log d}{\log \log d}$, where $d$ is the dimension of the observer system.
+1. **Observation Resolution Limit**: In a finite-dimensional observer system, the maximum discernible quality index is $`\kappa_{max} \approx 1 + \frac{\log d}{\log \log d}`$, where $`d`$ is the dimension of the observer system.
 
-2. **Measurement Collapse Effect**: Measurement of $|\Psi_{ABC}\rangle$ leads to state collapse, such that:
+2. **Measurement Collapse Effect**: Measurement of $`|\Psi_{ABC}\rangle`$ leads to state collapse, such that:
    
    $$\left|\langle \Phi_{obs}|\Psi_{ABC}\rangle\right|^2 \leq \frac{1}{\sqrt{d}} \sum_{(a,b,c)} |\alpha_{a,b,c}|^2$$
 
-   where $|\Phi_{obs}\rangle$ is the observer state.
+   where $`|\Phi_{obs}\rangle`$ is the observer state.
 
-3. **Complexity Barrier**: As the quality index $\kappa(a,b,c)$ increases, the complexity required of the observer system grows exponentially:
+3. **Complexity Barrier**: As the quality index $`\kappa(a,b,c)`$ increases, the complexity required of the observer system grows exponentially:
 
    $$C_{obs}(\kappa) \geq 2^{\kappa \cdot \log \kappa}$$
 
@@ -430,7 +430,7 @@ Through the Quantum-Classical Dualism framework, we have proven that the ABC Con
 2. The quality index in the classical domain follows the amplitude attenuation law;
 3. The complexity barrier of the observer system limits the construction of ABC triples with high quality indices.
 
-These conditions have been verified through the fusion of modern number theory and quantum information theory, leading to the conclusion: for any $\epsilon > 0$, there exist only finitely many triples of coprime positive integers $(a,b,c)$ such that $a + b = c$ and $c > \text{rad}(abc)^{1+\epsilon}$.
+These conditions have been verified through the fusion of modern number theory and quantum information theory, leading to the conclusion: for any $`\epsilon > 0`$, there exist only finitely many triples of coprime positive integers $`(a,b,c)`$ such that $`a + b = c`$ and $`c > \text{rad}(abc)^{1+\epsilon}`$.
 
 ## References
 

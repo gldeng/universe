@@ -43,7 +43,7 @@ $$\text{健康} = \frac{\text{量子域连接质量}\cdot\text{经典知识质�
 
 $$H_{\text{指数}} = \alpha \cdot \frac{I_{\text{量子-经典连贯性}}}{S_{\text{系统熵}}} \cdot \beta_D$$
 
-其中 $\beta_D$ 是维度相关修正因子，$\alpha$ 是标准化常数。
+其中 $`\beta_D`$ 是维度相关修正因子，$`\alpha`$ 是标准化常数。
 
 ### 医学的双重任务
 
@@ -63,29 +63,29 @@ $$H_{\text{指数}} = \alpha \cdot \frac{I_{\text{量子-经典连贯性}}}{S_{\
 
 $$\text{经典医疗效率} = \eta \cdot \frac{I_{\text{医学知识}}}{S_{\text{疾病全维度信息}}}$$
 
-其中 $\eta$ 是系统实现效率。由于 $S_{\text{疾病全维度信息}} \gg I_{\text{医学知识}}$，所以存在固有效率上限。
+其中 $`\eta`$ 是系统实现效率。由于 $`S_{\text{疾病全维度信息}} \gg I_{\text{医学知识}}`$，所以存在固有效率上限。
 
 量子医学通过同时作用于量子域和经典域，可突破这一限制：
 
 $$\text{量子医疗效率} = \eta_Q \cdot \frac{I_{\text{医学知识}} + \gamma \cdot I_{\text{量子信息接入}}}{S_{\text{疾病全维度信息}}}$$
 
-其中 $\gamma$ 是量子信息利用系数，$\eta_Q > \eta$ 是增强的系统效率。
+其中 $`\gamma`$ 是量子信息利用系数，$`\eta_Q > \eta`$ 是增强的系统效率。
 
 ## 量子医学原理
 
 ### 生物系统的解纠缠度管理
 
-生物系统通过精确控制解纠缠度 $\mathcal{D}(x,t)$ 来维持健康状态：
+生物系统通过精确控制解纠缠度 $`\mathcal{D}(x,t)`$ 来维持健康状态：
 
 $$\mathcal{D}_{\text{健康}}(x,t) = \mathcal{D}_c \pm \delta_{\text{生理}}(x,t)$$
 
-其中 $\delta_{\text{生理}}$ 是生理调节范围，对应不同组织和功能。
+其中 $`\delta_{\text{生理}}`$ 是生理调节范围，对应不同组织和功能。
 
 健康区间的数学表达：
 
 $$\Delta_{\text{健康}} = \{\mathcal{D} : |\mathcal{D} - \mathcal{D}_c| \leq \delta_{\text{最大}}(x)\}$$
 
-其中 $\delta_{\text{最大}}(x)$ 是特定位置允许的最大偏离量。
+其中 $`\delta_{\text{最大}}(x)`$ 是特定位置允许的最大偏离量。
 
 ### 恒定性机制的量子基础
 
@@ -94,15 +94,15 @@ $$\Delta_{\text{健康}} = \{\mathcal{D} : |\mathcal{D} - \mathcal{D}_c| \leq \d
 $$\frac{d\mathcal{D}(x,t)}{dt} = f_{\text{内源}}(\mathcal{D}) + f_{\text{外源}}(\mathcal{D}) + f_{\text{调节}}(\mathcal{D})$$
 
 其中：
-- $f_{\text{内源}}$ 是内源性改变函数
-- $f_{\text{外源}}$ 是外源性刺激函数
-- $f_{\text{调节}}$ 是生物调节系统响应
+- $`f_{\text{内源}}`$ 是内源性改变函数
+- $`f_{\text{外源}}`$ 是外源性刺激函数
+- $`f_{\text{调节}}`$ 是生物调节系统响应
 
 健康的调节机制满足：
 
 $$f_{\text{调节}}(\mathcal{D}) = -k(\mathcal{D} - \mathcal{D}_c)$$
 
-其中 $k$ 是调节强度系数。
+其中 $`k`$ 是调节强度系数。
 
 ### 生物节律的量子经典模型
 
@@ -110,7 +110,7 @@ $$f_{\text{调节}}(\mathcal{D}) = -k(\mathcal{D} - \mathcal{D}_c)$$
 
 $$\mathcal{C}_{\text{效率}}(t) = \mathcal{C}_0 + A\sin(\omega t + \phi)$$
 
-其中 $\mathcal{C}_{\text{效率}}$ 是经典化效率，$\omega$ 是节律频率。
+其中 $`\mathcal{C}_{\text{效率}}`$ 是经典化效率，$`\omega`$ 是节律频率。
 
 不同节律的嵌套结构：
 
@@ -120,7 +120,7 @@ $$\mathcal{C}_{\text{总}}(t) = \mathcal{C}_0 + \sum_i A_i\sin(\omega_i t + \phi
 
 $$\phi_{ij} = |\phi_i - \phi_j| \to \text{稳定值}$$
 
-其中 $\phi_{ij}$ 是节律相位差。
+其中 $`\phi_{ij}`$ 是节律相位差。
 
 ## 疾病的量子-经典模型
 
@@ -130,16 +130,16 @@ $$\phi_{ij} = |\phi_i - \phi_j| \to \text{稳定值}$$
 
 $$\mathcal{D}_{\text{疾病}}(x,t) = \mathcal{D}_c + \delta_{\text{病理}}(x,t)$$
 
-其中 $|\delta_{\text{病理}}| > |\delta_{\text{生理}}|$ 且/或 $\delta_{\text{病理}}$ 的空间分布不当。
+其中 $`|\delta_{\text{病理}}| > |\delta_{\text{生理}}|`$ 且/或 $`\delta_{\text{病理}}`$ 的空间分布不当。
 
 疾病分类基于偏离模式：
 
 | 偏离类型 | 量子经典定义 | 典型疾病类别 |
 |---------|------------|------------|
-| 过度经典化 | $\mathcal{D} \gg \mathcal{D}_c$ | 自身免疫疾病、神经退行性疾病 |
-| 经典化不足 | $\mathcal{D} \ll \mathcal{D}_c$ | 癌症、精神分裂症 |
-| 经典化不均 | $\nabla\mathcal{D} \gg \nabla\mathcal{D}_{\text{正常}}$ | 代谢综合征、慢性疼痛 |
-| 动态调节失衡 | $\frac{d\mathcal{D}}{dt} \neq f_{\text{正常}}$ | 心律失常、内分泌紊乱 |
+| 过度经典化 | $`\mathcal{D} \gg \mathcal{D}_c`$ | 自身免疫疾病、神经退行性疾病 |
+| 经典化不足 | $`\mathcal{D} \ll \mathcal{D}_c`$ | 癌症、精神分裂症 |
+| 经典化不均 | $`\nabla\mathcal{D} \gg \nabla\mathcal{D}_{\text{正常}}`$ | 代谢综合征、慢性疼痛 |
+| 动态调节失衡 | $`\frac{d\mathcal{D}}{dt} \neq f_{\text{正常}}`$ | 心律失常、内分泌紊乱 |
 
 ### 量子-经典状态图
 
@@ -155,7 +155,7 @@ $$\mathcal{T}_{\text{健康}} = \{(E,S,\mathcal{D}) : \mathcal{L}_{\text{健康}
 
 $$\Delta_{\text{疾病}} = d((E,S,\mathcal{D}), \mathcal{T}_{\text{健康}})$$
 
-其中 $d$ 是适当的距离度量。
+其中 $`d`$ 是适当的距离度量。
 
 ### 病理生理学的量子经典解释
 
@@ -181,11 +181,11 @@ $$\Delta_{\text{疾病}} = d((E,S,\mathcal{D}), \mathcal{T}_{\text{健康}})$$
 
 $$D_{\text{综合}} = \alpha D_{\text{经典}} + \beta D_{\text{量子}} + \gamma D_{\text{互动}}$$
 
-其中 $D_{\text{经典}}$ 是传统诊断结果，$D_{\text{量子}}$ 是量子状态评估，$D_{\text{互动}}$ 量化二者之间的关系。
+其中 $`D_{\text{经典}}`$ 是传统诊断结果，$`D_{\text{量子}}`$ 是量子状态评估，$`D_{\text{互动}}`$ 量化二者之间的关系。
 
 ### 量子解纠缠度测量
 
-解纠缠度 $\mathcal{D}(x)$ 可通过间接和直接方法测量：
+解纠缠度 $`\mathcal{D}(x)`$ 可通过间接和直接方法测量：
 
 1. **间接测量**：通过量子隧穿效应、隧道谱等估计  
    $$\mathcal{D}_{\text{估计}} = f(\text{谱特征}, \text{隧穿率}, \text{相干时间})$$
@@ -193,7 +193,7 @@ $$D_{\text{综合}} = \alpha D_{\text{经典}} + \beta D_{\text{量子}} + \gamm
 2. **直接测量**：使用量子传感器阵列测量局部相干性  
    $$\mathcal{D}_{\text{直接}} = -\log\left(\frac{\langle\hat{\rho}_{12}\rangle}{\langle\hat{\rho}_1\rangle\langle\hat{\rho}_2\rangle}\right)$$
 
-其中 $\hat{\rho}_{12}$ 是二体密度矩阵，$\hat{\rho}_1$ 和 $\hat{\rho}_2$ 是约化密度矩阵。
+其中 $`\hat{\rho}_{12}`$ 是二体密度矩阵，$`\hat{\rho}_1`$ 和 $`\hat{\rho}_2`$ 是约化密度矩阵。
 
 ### 生物量子特征
 
@@ -205,12 +205,12 @@ $$D_{\text{综合}} = \alpha D_{\text{经典}} + \beta D_{\text{量子}} + \gamm
 2. **量子纠缠网络**：系统内部量子关联的网络结构  
    $$\mathcal{E}_{\text{网络}} = \sum_{i < j} E_{ij} \cdot A_{ij}$$
    
-   其中 $E_{ij}$ 是节点对之间的纠缠度，$A_{ij}$ 是邻接矩阵。
+   其中 $`E_{ij}`$ 是节点对之间的纠缠度，$`A_{ij}`$ 是邻接矩阵。
 
 3. **量子熵流**：系统中熵流动的模式  
    $$J_S = \vec{\nabla} \cdot (D_S \vec{\nabla} S)$$
    
-   其中 $D_S$ 是熵扩散系数。
+   其中 $`D_S`$ 是熵扩散系数。
 
 4. **量子-经典边界完整性**：界面结构的稳定性  
    $$I_{\text{界面}} = \int_{\mathcal{I}} |\nabla \mathcal{D}(x)|^2 dx$$
@@ -223,13 +223,13 @@ $$D_{\text{综合}} = \alpha D_{\text{经典}} + \beta D_{\text{量子}} + \gamm
 
 $$\mathcal{T} = \{\mathcal{T}_Q, \mathcal{T}_C\}$$
 
-其中 $\mathcal{T}_Q$ 是量子域干预，$\mathcal{T}_C$ 是经典域干预。
+其中 $`\mathcal{T}_Q`$ 是量子域干预，$`\mathcal{T}_C`$ 是经典域干预。
 
 最优治疗组合满足：
 
 $$\max_{\mathcal{T}} \left[ \alpha\cdot\Delta(\mathcal{D}_{\text{初始}}, \mathcal{D}_{\text{健康}}) - \beta\cdot C(\mathcal{T}) \right]$$
 
-其中 $\Delta$ 是状态改善度量，$C(\mathcal{T})$ 是治疗成本函数。
+其中 $`\Delta`$ 是状态改善度量，$`C(\mathcal{T})`$ 是治疗成本函数。
 
 ### 量子域干预方法
 
@@ -238,12 +238,12 @@ $$\max_{\mathcal{T}} \left[ \alpha\cdot\Delta(\mathcal{D}_{\text{初始}}, \math
 1. **量子相干增强技术**：  
    $$|\Psi_{\text{增强}}\rangle = \hat{U}_{\text{相干}} |\Psi_{\text{初始}}\rangle$$
    
-   其中 $\hat{U}_{\text{相干}}$ 是相干增强算符。
+   其中 $`\hat{U}_{\text{相干}}`$ 是相干增强算符。
 
 2. **量子纠缠重构**：  
    $$\rho_{\text{重构}} = \sum_i \hat{K}_i \rho_{\text{初始}} \hat{K}_i^{\dagger}$$
    
-   其中 $\hat{K}_i$ 是Kraus算符，满足 $\sum_i \hat{K}_i^{\dagger}\hat{K}_i = I$。
+   其中 $`\hat{K}_i`$ 是Kraus算符，满足 $`\sum_i \hat{K}_i^{\dagger}\hat{K}_i = I`$。
 
 3. **量子信息场对齐**：  
    $$\langle\Psi_{\text{病理}}|\Psi_{\text{健康}}\rangle \xrightarrow{\text{对齐}} \text{最大}$$
@@ -255,12 +255,12 @@ $$\max_{\mathcal{T}} \left[ \alpha\cdot\Delta(\mathcal{D}_{\text{初始}}, \math
 1. **界面位置调节**：  
    $$\mathcal{D}_{\text{治疗}} = \mathcal{D}_{\text{健康}} \pm \delta_{\text{药物}}$$
    
-   其中 $\delta_{\text{药物}}$ 是药物引起的解纠缠度偏移。
+   其中 $`\delta_{\text{药物}}`$ 是药物引起的解纠缠度偏移。
 
 2. **经典化路径优化**：  
    $$\mathcal{C}_{\text{优化}} = \arg\min_{\mathcal{C}} \int_{\Gamma} |\mathcal{D}(x) - \mathcal{D}_c|^2 dx$$
    
-   其中 $\Gamma$ 是经典化路径。
+   其中 $`\Gamma`$ 是经典化路径。
 
 3. **经典信息重组**：  
    $$K_{\text{重组}} = f_{\text{编辑}}(K_{\text{病理}}) \to K_{\text{健康}}$$
@@ -271,11 +271,11 @@ $$\max_{\mathcal{T}} \left[ \alpha\cdot\Delta(\mathcal{D}_{\text{初始}}, \math
 
 $$\mathcal{S}_{\text{整合}} = \mathcal{S}_Q + \mathcal{S}_C + \mathcal{S}_{Q-C}$$
 
-其中 $\mathcal{S}_{Q-C}$ 是量子-经典协同效应，可表示为：
+其中 $`\mathcal{S}_{Q-C}`$ 是量子-经典协同效应，可表示为：
 
 $$\mathcal{S}_{Q-C} = \int \mathcal{T}_Q(x,t) \cdot \mathcal{T}_C(x,t) \cdot G(x,t) dx dt$$
 
-其中 $G(x,t)$ 是协同増益函数。
+其中 $`G(x,t)`$ 是协同増益函数。
 
 优化策略寻找最佳量子-经典干预组合：
 
@@ -309,17 +309,17 @@ $$\max_{\mathcal{T}_Q, \mathcal{T}_C} \mathcal{S}_{\text{整合}}(\mathcal{T}_Q,
 1. **量子贝叶斯推断**：  
    $$P_Q(H|D) = \frac{P_Q(D|H)P_Q(H)}{P_Q(D)}$$
    
-   其中 $P_Q$ 是量子概率。
+   其中 $`P_Q`$ 是量子概率。
 
 2. **量子主成分分析**：  
    $$|\Psi_{\text{数据}}\rangle = \sum_{i=1}^n \lambda_i |v_i\rangle$$
    
-   其中 $|v_i\rangle$ 是量子主成分。
+   其中 $`|v_i\rangle`$ 是量子主成分。
 
 3. **量子拓扑数据分析**：  
    $$H_n(X;R) = \frac{\text{Ker}\partial_n}{\text{Im}\partial_{n+1}}$$
    
-   其中 $H_n$ 是量子拓扑特征。
+   其中 $`H_n`$ 是量子拓扑特征。
 
 ### 量子医学模型验证
 
@@ -331,7 +331,7 @@ $$\max_{\mathcal{T}_Q, \mathcal{T}_C} \mathcal{S}_{\text{整合}}(\mathcal{T}_Q,
 2. **纠缠见证测试**：验证量子纠缠的存在  
    $$\text{Tr}(W\rho) < 0 \Rightarrow \rho \text{ 是纠缠态}$$
    
-   其中 $W$ 是纠缠见证算符。
+   其中 $`W`$ 是纠缠见证算符。
 
 3. **跨尺度相关分析**：检验量子效应在不同尺度的表现  
    $$C_{\text{跨尺度}}(\lambda_1, \lambda_2) = \langle O_{\lambda_1}O_{\lambda_2}\rangle - \langle O_{\lambda_1}\rangle\langle O_{\lambda_2}\rangle$$
@@ -360,15 +360,15 @@ $$\max_{\mathcal{T}_Q, \mathcal{T}_C} \mathcal{S}_{\text{整合}}(\mathcal{T}_Q,
 
 1. **量子相干增强疗法**：  
    - 应用：慢性疼痛、抑郁症
-   - 结果：$\Delta\mathcal{Q}_{\text{相干}} = 35\%$ 增加，临床症状改善 $45\%$
+   - 结果：$`\Delta\mathcal{Q}_{\text{相干}} = 35\%`$ 增加，临床症状改善 $`45\%`$
 
 2. **量子-经典界面调节药物**：  
    - 应用：自身免疫性疾病
-   - 结果：$\mathcal{D}_{\text{异常}} \to \mathcal{D}_{\text{正常}}$ 在 $73\%$ 受试者中
+   - 结果：$`\mathcal{D}_{\text{异常}} \to \mathcal{D}_{\text{正常}}`$ 在 $`73\%`$ 受试者中
 
 3. **量子纠缠网络重建疗法**：  
    - 应用：神经系统疾病
-   - 结果：神经元纠缠度 $\mathcal{E}_{\text{网络}}$ 增加 $28\%$，功能改善 $41\%$
+   - 结果：神经元纠缠度 $`\mathcal{E}_{\text{网络}}`$ 增加 $`28\%`$，功能改善 $`41\%`$
 
 ### 传统医学实践的量子解释
 
@@ -418,7 +418,7 @@ $$\max_{\mathcal{T}_Q, \mathcal{T}_C} \mathcal{S}_{\text{整合}}(\mathcal{T}_Q,
 1. **渐进整合模型**：  
    $$\mathcal{M}_t = (1-\alpha_t)\mathcal{M}_{\text{传统}} + \alpha_t\mathcal{M}_{\text{量子}}$$
    
-   其中 $\alpha_t$ 随时间逐步增加。
+   其中 $`\alpha_t`$ 随时间逐步增加。
 
 2. **多层证据框架**：  
    $$E_{\text{总}} = w_C E_{\text{经典}} + w_Q E_{\text{量子}} + w_I E_{\text{整合}}$$
@@ -442,7 +442,7 @@ $$\max_{\mathcal{T}_Q, \mathcal{T}_C} \mathcal{S}_{\text{整合}}(\mathcal{T}_Q,
 2. **量子药理学**：开发作用于量子-经典界面的药物  
    $$\mathcal{D}_{\text{药物}}(x,c,t) = \mathcal{D}_0(x) + \sum_i c_i f_i(x,t)$$
    
-   其中 $c_i$ 是药物浓度，$f_i$ 是作用函数。
+   其中 $`c_i`$ 是药物浓度，$`f_i`$ 是作用函数。
 
 3. **个性化量子医学**：基于个体量子特征的治疗优化  
    $$\mathcal{T}_{\text{个性化}} = \arg\max_{\mathcal{T}} \langle\Psi_{\text{个体}}|\hat{H}_{\text{治疗}}(\mathcal{T})|\Psi_{\text{个体}}\rangle$$
@@ -473,7 +473,7 @@ $$\max_{\mathcal{T}_Q, \mathcal{T}_C} \mathcal{S}_{\text{整合}}(\mathcal{T}_Q,
 3. **量子信息医学**：医疗信息的量子处理  
    $$I_Q(D:P) = S(\rho_D) + S(\rho_P) - S(\rho_{DP})$$
    
-   其中 $I_Q$ 是量子互信息，$D$ 是诊断数据，$P$ 是患者状态。
+   其中 $`I_Q`$ 是量子互信息，$`D`$ 是诊断数据，$`P`$ 是患者状态。
 
 ## 跨学科整合
 

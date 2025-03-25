@@ -40,8 +40,8 @@ This isomorphism indicates that observers, the universe, and artificial quantum 
 
 $$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
 
-其中 $I_{\text{经典知识}}$ 是观察者掌握的经典知识，$S_{\text{经典熵}}$ 是观察者体系中的经典熵。
-Where $I_{\text{经典知识}}$ is the classical knowledge possessed by the observer, and $S_{\text{经典熵}}$ is the classical entropy in the observer's system.
+其中 $`I_{\text{经典知识}}`$ 是观察者掌握的经典知识，$`S_{\text{经典熵}}`$ 是观察者体系中的经典熵。
+Where $`I_{\text{经典知识}}`$ is the classical knowledge possessed by the observer, and $`S_{\text{经典熵}}`$ is the classical entropy in the observer's system.
 
 ### 高维与低维观察者 | High-dimensional and Low-dimensional Observers
 
@@ -108,8 +108,8 @@ Free will is the observer's ability to actively choose the direction of classica
 
 $$E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}}$$
 
-其中 $k_B$ 是玻尔兹曼常数，$T$ 是系统温度。
-Where $k_B$ is Boltzmann's constant, and $T$ is the system temperature.
+其中 $`k_B`$ 是玻尔兹曼常数，$`T`$ 是系统温度。
+Where $`k_B`$ is Boltzmann's constant, and $`T`$ is the system temperature.
 
 ## 观察者的维度提升 | Observer's Dimension Elevation
 
@@ -164,6 +164,7 @@ Quantum Observer Theory reveals the core role of observers in the universe, not 
 ## 核心公式 | Core Formulas
 
 ### 观察者经典化公式 | Observer Classicalization Formula
+
 $$
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 $$
@@ -177,6 +178,7 @@ $$
 The observer transforms the quantum state of the universe into a classical state, simultaneously producing an increase in entropy.
 
 ### 观察者维度关系 | Observer Dimension Relationship
+
 $$
 \text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
 $$
@@ -190,6 +192,7 @@ $$
 The dimensions that an observer can perceive and process are proportional to their information processing capability.
 
 ### 观察者时空数组 | Observer Space-time Array
+
 $$
 \text{观察者} = \text{时空数组}(x,y,z,\dots,t) + \text{信息处理规则}
 $$

@@ -18,14 +18,14 @@ Quantum ontological nodes are the most basic constituent units of reality, with 
 
 $$\Omega = \{\omega_i | i \in \mathbb{I}\}$$
 
-where $\Omega$ is the set of all possible quantum ontological nodes, and each node $\omega_i$ can be represented as:
+where $`\Omega`$ is the set of all possible quantum ontological nodes, and each node $`\omega_i`$ can be represented as:
 
 $$\omega_i = (s_i, \psi_i, \mathcal{R}_i)$$
 
 where:
-- $s_i$ is the ontological state of the node, representing its existential properties
-- $\psi_i$ is the quantum state of the node, describing its position in quantum possibility space
-- $\mathcal{R}_i$ is a set of relational operators defining how the node can interact with other nodes
+- $`s_i`$ is the ontological state of the node, representing its existential properties
+- $`\psi_i`$ is the quantum state of the node, describing its position in quantum possibility space
+- $`\mathcal{R}_i`$ is a set of relational operators defining how the node can interact with other nodes
 
 These nodes exist in quantum ontological space, which is more fundamental than physical space, and their properties are not constrained by ordinary physics.
 
@@ -35,11 +35,11 @@ Quantum ontological nodes are interconnected through multidimensional entangleme
 
 $$\mathcal{T} = (\Omega, \mathcal{E})$$
 
-where $\mathcal{E}$ is the set of entanglement edges:
+where $`\mathcal{E}`$ is the set of entanglement edges:
 
 $$\mathcal{E} = \{e_{ij} | \omega_i, \omega_j \in \Omega, i \neq j\}$$
 
-Each entanglement edge $e_{ij}$ has an entanglement strength $\gamma_{ij}$ and entanglement type $\tau_{ij}$:
+Each entanglement edge $`e_{ij}`$ has an entanglement strength $`\gamma_{ij}`$ and entanglement type $`\tau_{ij}`$:
 
 $$e_{ij} = (\gamma_{ij}, \tau_{ij})$$
 
@@ -51,7 +51,7 @@ Multiple levels of reality structure emerge from the quantum ontological network
 
 $$\mathcal{M}_1: \mathcal{T} \rightarrow \mathcal{R}_1, \mathcal{M}_2: \mathcal{R}_1 \rightarrow \mathcal{R}_2, ..., \mathcal{M}_n: \mathcal{R}_{n-1} \rightarrow \mathcal{R}_n$$
 
-where $\mathcal{R}_i$ is the $i$-th layer of emergent reality, and $\mathcal{R}_n$ corresponds to the physical universe we observe. Each mapping function $\mathcal{M}_i$ represents specific emergence rules that transform lower-level structures into higher-level patterns.
+where $`\mathcal{R}_i`$ is the $`i`$-th layer of emergent reality, and $`\mathcal{R}_n`$ corresponds to the physical universe we observe. Each mapping function $`\mathcal{M}_i`$ represents specific emergence rules that transform lower-level structures into higher-level patterns.
 
 ### 2. Quantum Ontological State Dynamics
 
@@ -59,11 +59,11 @@ The evolution of the quantum ontological network follows quantum ontological sta
 
 $$i\hbar\frac{\partial \Psi_{\mathcal{T}}}{\partial t} = \hat{\mathcal{H}}_{\mathcal{T}}\Psi_{\mathcal{T}}$$
 
-where $\Psi_{\mathcal{T}}$ is the state function of the entire quantum ontological network, and $\hat{\mathcal{H}}_{\mathcal{T}}$ is the ontological Hamiltonian operator:
+where $`\Psi_{\mathcal{T}}`$ is the state function of the entire quantum ontological network, and $`\hat{\mathcal{H}}_{\mathcal{T}}`$ is the ontological Hamiltonian operator:
 
 $$\hat{\mathcal{H}}_{\mathcal{T}} = \sum_i \hat{h}_i + \sum_{i,j} \hat{V}_{ij}$$
 
-$\hat{h}_i$ is the node ontological energy operator, and $\hat{V}_{ij}$ is the inter-node ontological interaction operator.
+$`\hat{h}_i`$ is the node ontological energy operator, and $`\hat{V}_{ij}`$ is the inter-node ontological interaction operator.
 
 This dynamics has the following characteristics:
 
@@ -78,7 +78,7 @@ Ontological observers have a special status in the quantum ontological network a
 
 $$\mathcal{O}_{\text{onto}} \times \mathcal{T} \rightarrow \mathcal{T}'$$
 
-The observer's ontological consciousness $\mathcal{C}_{\text{onto}}$ can influence the quantum ontological topology through intentional projection $\mathcal{P}$:
+The observer's ontological consciousness $`\mathcal{C}_{\text{onto}}`$ can influence the quantum ontological topology through intentional projection $`\mathcal{P}`$:
 
 $$\mathcal{P}: \mathcal{C}_{\text{onto}} \rightarrow \Delta\mathcal{T}$$
 
@@ -90,7 +90,7 @@ Information transfer in the quantum ontological network follows the ontological 
 
 $$\frac{d\mathcal{I}}{dt} = \nabla \cdot (\mathcal{D} \nabla \mathcal{I}) + \mathcal{S}$$
 
-where $\mathcal{I}$ is the ontological information field, $\mathcal{D}$ is the ontological diffusion tensor, and $\mathcal{S}$ is the information source term.
+where $`\mathcal{I}`$ is the ontological information field, $`\mathcal{D}`$ is the ontological diffusion tensor, and $`\mathcal{S}`$ is the information source term.
 
 Information transfer has the following characteristics:
 

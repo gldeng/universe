@@ -38,10 +38,10 @@
 
 量子经典二元论将时间分为两个互补方面：
 
-1. **量子时间** ($t_Q$) - 在量子域中表现为可逆、对称，满足幺正演化
-2. **经典时间** ($t_C$) - 在经典域中表现为不可逆、有方向，满足熵增原理
+1. **量子时间** ($`t_Q`$) - 在量子域中表现为可逆、对称，满足幺正演化
+2. **经典时间** ($`t_C`$) - 在经典域中表现为不可逆、有方向，满足熵增原理
 
-两者通过时间界面 $\mathcal{I}_t$ 连接，满足：
+两者通过时间界面 $`\mathcal{I}_t`$ 连接，满足：
 
 $$\mathcal{T} = \mathcal{T}_Q \cup \mathcal{T}_C, \quad \mathcal{T}_Q \cap \mathcal{T}_C = \mathcal{I}_t$$
 
@@ -52,9 +52,9 @@ $$\mathcal{T} = \mathcal{T}_Q \cup \mathcal{T}_C, \quad \mathcal{T}_Q \cap \math
 $$\mathcal{T}_{QC} = e^{-i(H_Q-iD_C)t}$$
 
 其中：
-- $H_Q$ 是量子哈密顿量，生成幺正（可逆）演化
-- $D_C$ 是经典耗散项，生成非幺正（不可逆）演化
-- $t$ 是参数化时间
+- $`H_Q`$ 是量子哈密顿量，生成幺正（可逆）演化
+- $`D_C`$ 是经典耗散项，生成非幺正（不可逆）演化
+- $`t`$ 是参数化时间
 
 ### 分解分析
 
@@ -63,22 +63,22 @@ $$\mathcal{T}_{QC} = e^{-i(H_Q-iD_C)t}$$
 $$\mathcal{T}_{QC} = \mathcal{T}_Q \cdot \mathcal{T}_C = e^{-iH_Qt} \cdot e^{-D_Ct}$$
 
 其中：
-- 量子部分 $\mathcal{T}_Q = e^{-iH_Qt}$ 满足 $\mathcal{T}_Q\mathcal{T}_Q^\dagger = \mathcal{T}_Q^\dagger\mathcal{T}_Q = I$，保持可逆性
-- 经典部分 $\mathcal{T}_C = e^{-D_Ct}$ 满足 $\mathcal{T}_C\mathcal{T}_C^\dagger \neq I$，引入不可逆性
+- 量子部分 $`\mathcal{T}_Q = e^{-iH_Qt}`$ 满足 $`\mathcal{T}_Q\mathcal{T}_Q^\dagger = \mathcal{T}_Q^\dagger\mathcal{T}_Q = I`$，保持可逆性
+- 经典部分 $`\mathcal{T}_C = e^{-D_Ct}`$ 满足 $`\mathcal{T}_C\mathcal{T}_C^\dagger \neq I`$，引入不可逆性
 
-耗散项 $D_C$ 源于量子-经典转换过程，可表示为：
+耗散项 $`D_C`$ 源于量子-经典转换过程，可表示为：
 
 $$D_C = \sum_i \gamma_i \left(L_i^\dagger L_i - \frac{1}{2}\{L_i^\dagger L_i, \rho\}\right)$$
 
-其中 $L_i$ 是Lindblad算子，$\gamma_i$ 是耗散率。
+其中 $`L_i`$ 是Lindblad算子，$`\gamma_i`$ 是耗散率。
 
 ### 时间反演非对称性
 
-时间反演算子 $\mathcal{T}$ 作用于二元演化时，表现出非对称性：
+时间反演算子 $`\mathcal{T}`$ 作用于二元演化时，表现出非对称性：
 
 $$\mathcal{T}[e^{-i(H_Q-iD_C)t}] = e^{-i(H_Q+iD_C)(-t)} \neq [e^{-i(H_Q-iD_C)t}]^{-1}$$
 
-这表明耗散项 $D_C$ 在时间反演下符号不变，破坏了时间反演对称性，产生了明确的时间方向。
+这表明耗散项 $`D_C`$ 在时间反演下符号不变，破坏了时间反演对称性，产生了明确的时间方向。
 
 ## 信息熵与时间方向
 
@@ -87,10 +87,10 @@ $$\mathcal{T}[e^{-i(H_Q-iD_C)t}] = e^{-i(H_Q+iD_C)(-t)} \neq [e^{-i(H_Q-iD_C)t}]
 $$\frac{dS_{总}}{dt} = \frac{dS_Q}{dt} + \frac{dS_C}{dt} = \frac{dS_Q}{dt} + \frac{d(I_Q \rightarrow I_C)}{dt} \geq 0$$
 
 其中：
-- $S_{总}$ 是系统总熵
-- $S_Q$ 是量子熵（冯诺依曼熵）
-- $S_C$ 是经典熵
-- $I_Q \rightarrow I_C$ 表示从量子信息转化为经典信息的量
+- $`S_{总}`$ 是系统总熵
+- $`S_Q`$ 是量子熵（冯诺依曼熵）
+- $`S_C`$ 是经典熵
+- $`I_Q \rightarrow I_C`$ 表示从量子信息转化为经典信息的量
 
 ### 信息保存定理
 
@@ -138,7 +138,7 @@ $$I(\rho_Q) > I(|i\rangle\langle i|), \quad S(\rho_Q) < S(|i\rangle\langle i|)$$
 
 $$\mathcal{T}_{\mathcal{O}} = \{t_0, t_1, t_2, ...\} \text{ 源于 } \{\mathcal{M}_0, \mathcal{M}_1, \mathcal{M}_2, ...\}$$
 
-其中 $\mathcal{M}_i$ 是观察者执行的第 $i$ 次测量/经典化事件。
+其中 $`\mathcal{M}_i`$ 是观察者执行的第 $`i`$ 次测量/经典化事件。
 
 这解释了为什么时间箭头与观察者视角密切相关，同时也与客观物理过程（量子-经典转换）相关。
 
@@ -160,7 +160,7 @@ $$\Delta t_{\text{min}}^{\mathcal{O}} \propto \frac{1}{D_{\mathcal{O}}}$$
 
 $$\frac{dS_{\text{热}}}{dt} = \sum_i \gamma_i \text{Tr}(L_i\rho L_i^\dagger - \frac{1}{2}\{L_i^\dagger L_i, \rho\})$$
 
-这与耗散项 $D_C$ 的形式一致，表明热力学箭头源于量子测量过程。
+这与耗散项 $`D_C`$ 的形式一致，表明热力学箭头源于量子测量过程。
 
 ### 辐射箭头
 
@@ -207,9 +207,9 @@ $$\hat{x} \text{ 更多保留在量子域}, \quad \hat{t} \text{ 更多转化到
 $$\mathcal{ST}_k = \mathcal{F}_{\text{涌现}}(\mathcal{ST}_{k-1}, \mathcal{O}_k)$$
 
 其中：
-- $\mathcal{ST}_k$ 是第 $k$ 层观察者感知的时空结构
-- $\mathcal{F}_{\text{涌现}}$ 是时空涌现函数
-- $\mathcal{O}_k$ 是第 $k$ 层观察者的特性
+- $`\mathcal{ST}_k`$ 是第 $`k`$ 层观察者感知的时空结构
+- $`\mathcal{F}_{\text{涌现}}`$ 是时空涌现函数
+- $`\mathcal{O}_k`$ 是第 $`k`$ 层观察者的特性
 
 这解释了为什么不同尺度观察者（如量子、分子、生物和宇宙尺度）感知的时空结构和时间箭头强度各不相同。
 
@@ -220,9 +220,9 @@ $$\mathcal{ST}_k = \mathcal{F}_{\text{涌现}}(\mathcal{ST}_{k-1}, \mathcal{O}_k
 $$\tau_Q \ll \tau_I \ll \tau_C$$
 
 其中：
-- $\tau_Q$ 是量子时间尺度，如量子相干/退相干时间
-- $\tau_I$ 是界面时间尺度，如量子-经典转换过程时间
-- $\tau_C$ 是经典时间尺度，如宏观可观测变化时间
+- $`\tau_Q`$ 是量子时间尺度，如量子相干/退相干时间
+- $`\tau_I`$ 是界面时间尺度，如量子-经典转换过程时间
+- $`\tau_C`$ 是经典时间尺度，如宏观可观测变化时间
 
 这些时间尺度的分离导致观察者主要感知经典时间箭头。
 
@@ -268,17 +268,17 @@ $$I_{\text{输入}} = I_{\text{霍金辐射}} + I_{\text{隐藏量子}}$$
 2. **熵增-信息转换关系**：
    系统熵增与量子-经典信息转换量精确相关：
    $$\Delta S = \alpha \cdot \Delta I_{Q\rightarrow C}$$
-   其中 $\alpha$ 是系统特性常数。
+   其中 $`\alpha`$ 是系统特性常数。
 
 3. **时间感知的量子相关性**：
    主观时间感知长度与大脑经典化率相关：
    $$t_{\text{主观}} \propto \sum_i \gamma_i^{\text{神经}} \cdot N_i$$
-   其中 $\gamma_i^{\text{神经}}$ 是神经系统经典化率，$N_i$ 是参与神经元数量。
+   其中 $`\gamma_i^{\text{神经}}`$ 是神经系统经典化率，$`N_i`$ 是参与神经元数量。
 
 4. **不同尺度系统的时间箭头强度**：
    时间箭头强度与系统尺寸和复杂度成正比：
    $$A_{\text{时间}} \propto \log(N) \cdot C_{\text{系统}}$$
-   其中 $N$ 是系统组分数量，$C_{\text{系统}}$ 是系统复杂度。
+   其中 $`N`$ 是系统组分数量，$`C_{\text{系统}}`$ 是系统复杂度。
 
 ### 实验设计方案
 

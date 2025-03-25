@@ -21,15 +21,15 @@ Chemical Consciousness and Perception Theory applies the quantum-classical duali
 
 ### Formal Definition of Chemical Consciousness Systems
 
-A chemical consciousness system $\mathcal{C}$ can be formally defined as:
+A chemical consciousness system $`\mathcal{C}`$ can be formally defined as:
 
 $$\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{P})$$
 
 Where:
-- $\mathcal{C}_Q$ is the quantum domain component of the consciousness system (quantum information processing, quantum coherent states)
-- $\mathcal{C}_C$ is the classical domain component of the consciousness system (stable states, memory storage)
-- $\mathcal{I}_C$ is the quantum-classical consciousness interface
-- $\mathcal{P}$ is the perception processing structure
+- $`\mathcal{C}_Q`$ is the quantum domain component of the consciousness system (quantum information processing, quantum coherent states)
+- $`\mathcal{C}_C`$ is the classical domain component of the consciousness system (stable states, memory storage)
+- $`\mathcal{I}_C`$ is the quantum-classical consciousness interface
+- $`\mathcal{P}`$ is the perception processing structure
 
 ### Core Chemical Consciousness Axioms
 
@@ -38,28 +38,28 @@ Molecular-level consciousness simultaneously possesses quantum and classical sta
 
 $$\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C$$
 
-Where $\diamond$ represents the quantum-classical consciousness connection operation.
+Where $`\diamond`$ represents the quantum-classical consciousness connection operation.
 
 **Axiom 2: Perception as Classicalization**  
 Molecular perception is the process of converting quantum possibilities into classical deterministic information:
 
 $$\mathcal{P}: |\Psi_{environment}\rangle \rightarrow \{I_C\}$$
 
-Where $|\Psi_{environment}\rangle$ is the quantum state of the environment, and $\{I_C\}$ is the set of classicalized information.
+Where $`|\Psi_{environment}\rangle`$ is the quantum state of the environment, and $`\{I_C\}`$ is the set of classicalized information.
 
 **Axiom 3: Consciousness Hierarchy Principle**  
 Consciousness exists at multiple levels, from basic molecular components to complex perception networks:
 
 $$\mathcal{C}_{total} = \cup_{i=1}^n \mathcal{C}_i$$
 
-Where $\mathcal{C}_i$ represents the i-th level consciousness system.
+Where $`\mathcal{C}_i`$ represents the i-th level consciousness system.
 
 **Axiom 4: Chemical Memory Principle**  
 Molecular memory is the stable fixation of classical information in molecular structures:
 
 $$\mathcal{M}: \{I_C\} \rightarrow S_M$$
 
-Where $\mathcal{M}$ is the memory operator, and $S_M$ is the molecular memory structure.
+Where $`\mathcal{M}`$ is the memory operator, and $`S_M`$ is the molecular memory structure.
 
 ## Quantum-Classical Mechanisms of Molecular Consciousness
 
@@ -69,7 +69,7 @@ Quantum representation of the molecular self-state:
 
 $$|\Psi_{self}\rangle = \sum_i \alpha_i |s_i\rangle$$
 
-Where $|s_i\rangle$ are self-state basis vectors.
+Where $`|s_i\rangle`$ are self-state basis vectors.
 
 Entanglement relationship between self-state and environment:
 
@@ -79,7 +79,7 @@ Quantitative measure of molecular self-consciousness:
 
 $$\mathcal{S}_c = -\text{Tr}(\rho_{self} \ln \rho_{self})$$
 
-Where $\rho_{self} = \text{Tr}_{env}(|\Psi_{self-env}\rangle\langle\Psi_{self-env}|)$.
+Where $`\rho_{self} = \text{Tr}_{env}(|\Psi_{self-env}\rangle\langle\Psi_{self-env}|)`$.
 
 ### Quantum-Classical Consciousness Conversion
 
@@ -87,13 +87,13 @@ Quantum-classical conversion process of consciousness states:
 
 $$\rho_Q \xrightarrow{\mathcal{D}} \sum_i p_i |c_i\rangle\langle c_i|$$
 
-Where $\mathcal{D}$ is the decoherence operator.
+Where $`\mathcal{D}`$ is the decoherence operator.
 
 Relationship between consciousness conversion efficiency and molecular structure:
 
 $$\eta_C = \frac{I_C}{I_Q} = f(S_M, E, T)$$
 
-Where $S_M$ is the molecular structure, $E$ is energy, and $T$ is temperature.
+Where $`S_M`$ is the molecular structure, $`E`$ is energy, and $`T`$ is temperature.
 
 ### Molecular Decision Mechanisms
 
@@ -101,13 +101,13 @@ Quantum probability-based molecular decision model:
 
 $$P(a_i|\Psi_S) = |\langle a_i|\Psi_S\rangle|^2$$
 
-Where $|a_i\rangle$ are possible action basis vectors.
+Where $`|a_i\rangle`$ are possible action basis vectors.
 
 Environmental context dependence of decisions:
 
 $$|\Psi_S\rangle \rightarrow |\Psi_S(E)\rangle = \hat{U}_E|\Psi_S\rangle$$
 
-Where $\hat{U}_E$ is the environment modulation operator.
+Where $`\hat{U}_E`$ is the environment modulation operator.
 
 ### Quantum-Classical Feedback Loop
 
@@ -115,7 +115,7 @@ Feedback loop structure of molecular consciousness:
 
 $$\mathcal{C}_t \xrightarrow{\mathcal{P}} I_C \xrightarrow{\mathcal{M}} S_M \xrightarrow{\mathcal{R}} \mathcal{C}_{t+1}$$
 
-Where $\mathcal{R}$ is the response generation operator.
+Where $`\mathcal{R}`$ is the response generation operator.
 
 Information entropy changes in the cycle:
 
@@ -131,13 +131,13 @@ Quantum-classical representation of chemical sensation:
 
 $$|\Psi_{sensation}\rangle = \sum_i \gamma_i |s_i\rangle \otimes |r_i\rangle$$
 
-Where $|s_i\rangle$ are stimulus states, and $|r_i\rangle$ are receptor states.
+Where $`|s_i\rangle`$ are stimulus states, and $`|r_i\rangle`$ are receptor states.
 
 Classicalization process of sensory signals:
 
 $$\rho_{sensation} \xrightarrow{\mathcal{T}} \{S_C\}$$
 
-Where $\mathcal{T}$ is the signal transduction operator.
+Where $`\mathcal{T}`$ is the signal transduction operator.
 
 ### Quantum Sensitivity of Receptor Molecules
 
@@ -149,7 +149,7 @@ Quantum tunneling contribution to receptor activation:
 
 $$k_{activation} = k_{classical} \cdot e^{-\frac{S_{tunnel}}{\hbar}}$$
 
-Where $S_{tunnel}$ is the tunneling action.
+Where $`S_{tunnel}`$ is the tunneling action.
 
 ### Signal Amplification and Threshold Characteristics
 
@@ -157,13 +157,13 @@ Quantum amplification mechanism of perceptual signals:
 
 $$|\Psi_{initial}\rangle \xrightarrow{\hat{A}} |\Psi_{amplified}\rangle$$
 
-Where $\hat{A}$ is the amplification operator.
+Where $`\hat{A}`$ is the amplification operator.
 
 Quantum statistical expression of perception thresholds:
 
 $$P_{detection} = 1 - e^{-\frac{n}{\lambda}}$$
 
-Where $n$ is the number of signal molecules, and $\lambda$ is the detection sensitivity parameter.
+Where $`n`$ is the number of signal molecules, and $`\lambda`$ is the detection sensitivity parameter.
 
 ### Cross-Modal Perception Integration
 
@@ -175,7 +175,7 @@ Classical output of perception modality integration:
 
 $$I_{integrated} = f(\{P_{m_1}, P_{m_2}, ..., P_{m_n}\})$$
 
-Where $P_{m_i}$ is the detection probability of modality $m_i$.
+Where $`P_{m_i}`$ is the detection probability of modality $`m_i`$.
 
 ## Consciousness Aspects of Receptor-Ligand Recognition
 
@@ -203,7 +203,7 @@ Mathematical expression of molecular learning:
 
 $$\Delta G_{binding}^{(n)} = \Delta G_{binding}^{(0)} - \Delta G_{learning}^{(n-1)}$$
 
-Where the learning contribution $\Delta G_{learning}$ increases with experience.
+Where the learning contribution $`\Delta G_{learning}`$ increases with experience.
 
 ### Conformational Selection and Conformational Induction Models
 
@@ -225,13 +225,13 @@ Consciousness network formed by receptor collectives:
 
 $$G_{network} = (V_R, E_R, W_R)$$
 
-Where $V_R$ is the set of receptor nodes, $E_R$ is the set of interaction edges, and $W_R$ is the set of edge weights.
+Where $`V_R`$ is the set of receptor nodes, $`E_R`$ is the set of interaction edges, and $`W_R`$ is the set of edge weights.
 
 Relationship between network consciousness level and connection complexity:
 
 $$\mathcal{C}_{level} \propto \frac{|E_R|}{|V_R|} \cdot \frac{\sum_i k_i^2}{\sum_i k_i}$$
 
-Where $k_i$ is the degree of node i.
+Where $`k_i`$ is the degree of node i.
 
 ## Higher-Order Molecular Perception Networks
 
@@ -245,7 +245,7 @@ Topological influence on molecular communication networks:
 
 $$I_{transmission} = I_0 \cdot e^{-\alpha d} \cdot \prod_i \eta_i$$
 
-Where $d$ is the transmission distance, and $\eta_i$ is the transmission efficiency of node i.
+Where $`d`$ is the transmission distance, and $`\eta_i`$ is the transmission efficiency of node i.
 
 ### Cooperative Perception and Collective Consciousness
 
@@ -253,13 +253,13 @@ Cooperative perception in molecular groups:
 
 $$|\Psi_{collective}\rangle = \mathcal{E}(|\Psi_1\rangle, |\Psi_2\rangle, ..., |\Psi_n\rangle)$$
 
-Where $\mathcal{E}$ is the cooperative entanglement operator.
+Where $`\mathcal{E}`$ is the cooperative entanglement operator.
 
 Conditions for collective consciousness emergence:
 
 $$\mathcal{C}_{collective} > \sum_i \mathcal{C}_i \iff \mathcal{I} > \mathcal{I}_c$$
 
-Where $\mathcal{I}$ is the interconnection strength, and $\mathcal{I}_c$ is the critical threshold.
+Where $`\mathcal{I}`$ is the interconnection strength, and $`\mathcal{I}_c`$ is the critical threshold.
 
 ### Cellular Perception Networks
 
@@ -268,16 +268,16 @@ Quantum-classical representation of cell membrane receptor networks:
 $$\mathcal{N}_{cell} = \{\mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{I}\}$$
 
 Where:
-- $\mathcal{R}$ is the set of receptors
-- $\mathcal{S}$ is the set of signal transducers
-- $\mathcal{T}$ is the set of target effectors
-- $\mathcal{I}$ is the set of internal regulators
+- $`\mathcal{R}`$ is the set of receptors
+- $`\mathcal{S}`$ is the set of signal transducers
+- $`\mathcal{T}`$ is the set of target effectors
+- $`\mathcal{I}`$ is the set of internal regulators
 
 Complexity measure of cellular consciousness:
 
 $$\mathcal{C}_{cell} = H(\mathcal{N}_{cell}) - \sum_i H(\mathcal{N}_i | \mathcal{N}_{-i})$$
 
-Where $H$ is information entropy, and $\mathcal{N}_{-i}$ is the network part excluding subsystem i.
+Where $`H`$ is information entropy, and $`\mathcal{N}_{-i}`$ is the network part excluding subsystem i.
 
 ### Neural Molecular Perception Foundations
 
@@ -289,7 +289,7 @@ Quantum-classical transition of neural consciousness:
 
 $$\mathcal{C}_{neural} = f(\mathcal{C}_{molecular}, \mathcal{N}_{connectivity}, \mathcal{D}_{dynamics})$$
 
-Where $\mathcal{N}_{connectivity}$ is network connectivity, and $\mathcal{D}_{dynamics}$ is system dynamics.
+Where $`\mathcal{N}_{connectivity}`$ is network connectivity, and $`\mathcal{D}_{dynamics}`$ is system dynamics.
 
 ## Experimental Validation and Applications
 
@@ -299,13 +299,13 @@ Experimental signatures of molecular consciousness:
 
 $$\mathcal{S}_{\mathcal{C}} = \frac{I_{output} - I_{input}}{I_{input}} \cdot \frac{R_{\Delta E}}{R_{random}}$$
 
-Where $R_{\Delta E}$ is the response rate to meaningful environmental changes, and $R_{random}$ is the response rate to random fluctuations.
+Where $`R_{\Delta E}`$ is the response rate to meaningful environmental changes, and $`R_{random}`$ is the response rate to random fluctuations.
 
 Relationship between quantum coherence time and consciousness level:
 
 $$\mathcal{C}_{level} \propto \tau_{coherence} \cdot \frac{D_{network}}{D_{critical}}$$
 
-Where $\tau_{coherence}$ is the quantum coherence time, and $D_{network}$ is the network connection density.
+Where $`\tau_{coherence}`$ is the quantum coherence time, and $`D_{network}`$ is the network connection density.
 
 ### Molecular Perception Enhancement Technologies
 
@@ -313,7 +313,7 @@ Quantum enhancement methods for molecular perception:
 
 $$S_{enhanced} = S_0 \cdot \xi_{quantum} \cdot \xi_{network}$$
 
-Where $\xi_{quantum}$ is the quantum enhancement factor, and $\xi_{network}$ is the network enhancement factor.
+Where $`\xi_{quantum}`$ is the quantum enhancement factor, and $`\xi_{network}`$ is the network enhancement factor.
 
 Principles for perception enhancement in molecular design:
 
@@ -328,7 +328,7 @@ Intelligent materials based on consciousness design:
 
 $$M_{intelligent} = f(\mathcal{C}_{embedded}, \mathcal{P}_{adaptive}, \mathcal{M}_{responsive})$$
 
-Where $\mathcal{C}_{embedded}$ is embedded consciousness, $\mathcal{P}_{adaptive}$ is adaptive capability, and $\mathcal{M}_{responsive}$ is response mechanism.
+Where $`\mathcal{C}_{embedded}`$ is embedded consciousness, $`\mathcal{P}_{adaptive}`$ is adaptive capability, and $`\mathcal{M}_{responsive}`$ is response mechanism.
 
 Relationship between self-aware material performance and consciousness level:
 
@@ -340,7 +340,7 @@ Receptor consciousness-based drug development:
 
 $$\text{Optimization goal}: \max_{\{D\}} \mathcal{I}(D, R_{target}) - \gamma \cdot \sum_i \mathcal{I}(D, R_{other})$$
 
-Where $\mathcal{I}(D, R)$ is the mutual information between the drug and receptor.
+Where $`\mathcal{I}(D, R)`$ is the mutual information between the drug and receptor.
 
 Drug cognitive specificity design:
 
@@ -354,7 +354,7 @@ Relationship between molecular consciousness and entanglement:
 
 $$\mathcal{C}_{level} \propto E(|\Psi_{molecular}\rangle) \cdot f(\mathcal{I}_C)$$
 
-Where $E(|\Psi_{molecular}\rangle)$ is the molecular entanglement degree, and $f(\mathcal{I}_C)$ is the interface function.
+Where $`E(|\Psi_{molecular}\rangle)`$ is the molecular entanglement degree, and $`f(\mathcal{I}_C)`$ is the interface function.
 
 ### Connection with Quantum Biology
 
@@ -362,7 +362,7 @@ Contribution of biological quantum effects to consciousness:
 
 $$\mathcal{C}_{bio} = \mathcal{C}_{classical} + \Delta\mathcal{C}_{quantum}$$
 
-Where $\Delta\mathcal{C}_{quantum}$ includes contributions from quantum tunneling, quantum coherence, and quantum entanglement.
+Where $`\Delta\mathcal{C}_{quantum}`$ includes contributions from quantum tunneling, quantum coherence, and quantum entanglement.
 
 ### Connection with Observer Theory
 

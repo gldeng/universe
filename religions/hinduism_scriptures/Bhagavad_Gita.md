@@ -67,11 +67,11 @@ The concept of "Brahman" in the Bhagavad Gita corresponds to the nature of the q
 The "Karma Yoga" (detached action) in the Bhagavad Gita corresponds to classicalization path optimization in Quantum-Classical Dualism:
 
 - "行动的权利仅在于你，而不在于成果"→ 经典化过程的主动优化
-- "舍弃执着"→ 提升经典化效率系数$(k_i)$
+- "舍弃执着"→ 提升经典化效率系数$`(k_i)`$
 - "平衡状态"→ 经典知识与经典熵的最优平衡
 
 - "Right to work only, never to its fruits" → Active optimization of classicalization process
-- "Abandoning attachment" → Improving classicalization efficiency coefficient $(k_i)$
+- "Abandoning attachment" → Improving classicalization efficiency coefficient $`(k_i)`$
 - "Equanimity" → Optimal balance of classical knowledge and classical entropy
 
 ### 3. "真我"（阿特曼）与观察者本质

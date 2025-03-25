@@ -77,9 +77,9 @@ $$
 \text{Civilization}_i = \text{Observer}(E_i, D_i)
 $$
 
-其中，$E_i$表示经典化效率，$D_i$表示观察者维度。文明间的互动可以表示为量子纠缠和经典化的过程：
+其中，$`E_i`$表示经典化效率，$`D_i`$表示观察者维度。文明间的互动可以表示为量子纠缠和经典化的过程：
 
-Where $E_i$ represents classicalization efficiency and $D_i$ represents observer dimension. Interaction between civilizations can be represented as a process of quantum entanglement and classicalization:
+Where $`E_i`$ represents classicalization efficiency and $`D_i`$ represents observer dimension. Interaction between civilizations can be represented as a process of quantum entanglement and classicalization:
 
 $$
 |\psi\rangle_{\text{文明A}}\otimes|\psi\rangle_{\text{文明B}}\xrightarrow{\text{交流（经典化）}}\text{共享知识}+S_{\text{经典熵}}

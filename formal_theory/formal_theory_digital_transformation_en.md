@@ -22,16 +22,16 @@ Quantum-Classical Digital Transformation Theory applies the Quantum-Classical Du
 
 ### Formal Definition of Digital Transformation
 
-Digital transformation $\mathcal{D}$ can be formally defined as:
+Digital transformation $`\mathcal{D}`$ can be formally defined as:
 
 $$\mathcal{D} = (\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{N}_D, \mathcal{O}_D)$$
 
 Where:
-- $\mathcal{D}_Q$ is the quantum component of digital transformation (possibility space, innovation potential)
-- $\mathcal{D}_C$ is the classical component of digital transformation (technical implementation, determined structure)
-- $\mathcal{I}_D$ is the digital quantum-classical interface
-- $\mathcal{N}_D$ is the digital network structure
-- $\mathcal{O}_D$ is the set of observers in the digital domain
+- $`\mathcal{D}_Q`$ is the quantum component of digital transformation (possibility space, innovation potential)
+- $`\mathcal{D}_C`$ is the classical component of digital transformation (technical implementation, determined structure)
+- $`\mathcal{I}_D`$ is the digital quantum-classical interface
+- $`\mathcal{N}_D`$ is the digital network structure
+- $`\mathcal{O}_D`$ is the set of observers in the digital domain
 
 ### Core Axioms of Digital Transformation
 
@@ -40,28 +40,28 @@ Digital technologies and systems simultaneously possess characteristics of both 
 
 $$\mathcal{D} = \mathcal{D}_Q \diamond \mathcal{D}_C$$
 
-Where $\diamond$ represents the digital quantum-classical connection operation.
+Where $`\diamond`$ represents the digital quantum-classical connection operation.
 
 **Axiom 2: Information State Phase Transition**  
 Digital transformation is essentially a phase transition process of information from one state to another:
 
 $$\Phi_D: \mathcal{S}_{analog}(\lambda) \rightarrow \mathcal{S}_{digital}(\lambda+\delta\lambda)$$
 
-Where $\mathcal{S}$ is the information system state, and $\lambda$ is the control parameter.
+Where $`\mathcal{S}`$ is the information system state, and $`\lambda`$ is the control parameter.
 
 **Axiom 3: Mixed Reality Principle**  
 Digital and physical reality interact through interfaces to form mixed reality:
 
 $$\mathcal{R}_{mixed} = \mathcal{R}_{physical} \bowtie \mathcal{R}_{digital}$$
 
-Where $\bowtie$ represents the reality fusion operation.
+Where $`\bowtie`$ represents the reality fusion operation.
 
 **Axiom 4: Digital-Social Co-evolution**  
 There exists a co-evolutionary relationship between digital technology and social systems:
 
 $$\frac{d}{dt}\begin{pmatrix} \mathcal{D} \\ \mathcal{S} \end{pmatrix} = \begin{pmatrix} F_D(\mathcal{D}, \mathcal{S}) \\ F_S(\mathcal{S}, \mathcal{D}) \end{pmatrix}$$
 
-Where $\mathcal{S}$ represents the social system, and $F_D$ and $F_S$ are the respective evolution functions.
+Where $`\mathcal{S}`$ represents the social system, and $`F_D`$ and $`F_S`$ are the respective evolution functions.
 
 ## Theory Core Content
 
@@ -71,7 +71,7 @@ Characteristics of the quantum possibility space created by digital technology:
 
 $$|\Psi_D\rangle = \sum_i \alpha_i |d_i\rangle$$
 
-Where $|d_i\rangle$ are possible digital state basis vectors, and $\alpha_i$ are complex amplitudes.
+Where $`|d_i\rangle`$ are possible digital state basis vectors, and $`\alpha_i`$ are complex amplitudes.
 
 Digital quantum characteristics include:
 1. **Virtual Superposition States**: Coexistence of multiple possible digital experiences and functions
@@ -83,7 +83,7 @@ Relationship between digital quantum entropy and innovation potential:
 
 $$S(\rho_D) = -\text{Tr}(\rho_D \ln \rho_D) \propto \text{Innovation Potential}$$
 
-Where $\rho_D$ is the density matrix of the digital system.
+Where $`\rho_D`$ is the density matrix of the digital system.
 
 ### Digital Classical Structure and Function
 
@@ -92,22 +92,22 @@ Classical domain composition of digital systems:
 $$\mathcal{D}_C = (I_D, P_D, S_D, N_D)$$
 
 Where:
-- $I_D$ is the digital infrastructure (hardware, networks, etc.)
-- $P_D$ is the digital platform (operating systems, applications, etc.)
-- $S_D$ is the digital service (cloud services, data services, etc.)
-- $N_D$ is the digital norm (standards, protocols, regulations, etc.)
+- $`I_D`$ is the digital infrastructure (hardware, networks, etc.)
+- $`P_D`$ is the digital platform (operating systems, applications, etc.)
+- $`S_D`$ is the digital service (cloud services, data services, etc.)
+- $`N_D`$ is the digital norm (standards, protocols, regulations, etc.)
 
 Digital classical dynamics satisfy:
 
 $$\frac{d\mathcal{D}_C}{dt} = F_C(\mathcal{D}_C, I_{external}, P_{user})$$
 
-Where $I_{external}$ is external input, and $P_{user}$ is user behavior patterns.
+Where $`I_{external}`$ is external input, and $`P_{user}`$ is user behavior patterns.
 
 Digital classical memory mechanism:
 
 $$M_D(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{D}_C(\tau) d\tau$$
 
-Where $\kappa$ is the memory decay kernel function.
+Where $`\kappa`$ is the memory decay kernel function.
 
 ### Digital Interface Dynamics
 
@@ -115,13 +115,13 @@ Digital quantum-classical interface dynamics equation:
 
 $$\frac{d\mathcal{I}_D}{dt} = \alpha_D \nabla^2 \mathcal{I}_D + \beta_D(\mathcal{I}_c - \mathcal{I}_D)(\mathcal{I}_D - \mathcal{I}_0) + \gamma_D\xi_D(t) + \delta_D U_D(t)$$
 
-Where $U_D(t)$ is the user intervention function, representing user influence on the digital interface.
+Where $`U_D(t)`$ is the user intervention function, representing user influence on the digital interface.
 
 Interface characteristics determine user experience and adoption rate:
 
 $$UX = f(\mathcal{I}_D) = \int_{\Omega} \mathcal{I}_D(x) \cdot \Phi_{UX}(x) dx$$
 
-Where $\Phi_{UX}(x)$ is the user experience potential field function.
+Where $`\Phi_{UX}(x)`$ is the user experience potential field function.
 
 Key interface parameters include:
 1. **Transparency Coefficient**: Visibility and invisibility of the interface
@@ -136,20 +136,20 @@ Characteristics of social networks constructed in the digital domain:
 $$\mathcal{N}_D = (V_D, E_D, W_D, F_D)$$
 
 Where:
-- $V_D$ is the set of nodes (users, organizations, etc.)
-- $E_D$ is the set of connections (relationships, interactions, etc.)
-- $W_D$ is the set of weights (connection strength, etc.)
-- $F_D$ is the set of flows (information, value flows, etc.)
+- $`V_D`$ is the set of nodes (users, organizations, etc.)
+- $`E_D`$ is the set of connections (relationships, interactions, etc.)
+- $`W_D`$ is the set of weights (connection strength, etc.)
+- $`F_D`$ is the set of flows (information, value flows, etc.)
 
 Network structure parameters and social impact:
 
 $$S_{impact} = f(C_D, L_D, H_D, R_D)$$
 
 Where:
-- $C_D$ is the clustering coefficient
-- $L_D$ is the characteristic path length
-- $H_D$ is the hierarchical structure degree
-- $R_D$ is the network resilience
+- $`C_D`$ is the clustering coefficient
+- $`L_D`$ is the characteristic path length
+- $`H_D`$ is the hierarchical structure degree
+- $`R_D`$ is the network resilience
 
 Network dynamics characteristics:
 
@@ -165,7 +165,7 @@ Mixed state of digital and physical reality:
 
 $$|\Psi_{MR}\rangle = \sum_{i,j} \gamma_{ij} |p_i\rangle \otimes |d_j\rangle$$
 
-Where $|p_i\rangle$ are physical reality states, and $|d_j\rangle$ are digital reality states.
+Where $`|p_i\rangle`$ are physical reality states, and $`|d_j\rangle`$ are digital reality states.
 
 Information integration degree in mixed reality:
 
@@ -185,7 +185,7 @@ Cognitive pattern changes caused by digital technology:
 
 $$C_{digital} = \mathcal{T}(C_{analog}, \mathcal{D}, t)$$
 
-Where $C_{analog}$ is the traditional cognitive pattern, and $\mathcal{T}$ is the conversion function.
+Where $`C_{analog}`$ is the traditional cognitive pattern, and $`\mathcal{T}`$ is the conversion function.
 
 Digital cognitive characteristics:
 1. **Hyperlink Thinking**: Non-linear, associative thinking patterns
@@ -205,7 +205,7 @@ Reconstructive effect of digitalization on social structures:
 
 $$\mathcal{S}_{digital} = \mathcal{R}(\mathcal{S}_{traditional}, \mathcal{D}, \mathcal{I}_{S-D})$$
 
-Where $\mathcal{S}_{traditional}$ is the traditional social structure, and $\mathcal{I}_{S-D}$ is the social-digital interface.
+Where $`\mathcal{S}_{traditional}`$ is the traditional social structure, and $`\mathcal{I}_{S-D}`$ is the social-digital interface.
 
 Main aspects of social reconstruction:
 1. **Space-Time Compression**: Immediacy and sense of distance-less in digital space
@@ -228,19 +228,19 @@ Formal representation of the digital information ecosystem:
 $$\mathcal{E}_{digital} = (P_D, C_D, F_D, R_D)$$
 
 Where:
-- $P_D$ is the set of information producers
-- $C_D$ is the set of information consumers
-- $F_D$ is the information flow network
-- $R_D$ is the information rule system
+- $`P_D`$ is the set of information producers
+- $`C_D`$ is the set of information consumers
+- $`F_D`$ is the information flow network
+- $`R_D`$ is the information rule system
 
 Information flow dynamics:
 
 $$\frac{dI}{dt} = \alpha_I \cdot P(I) - \beta_I \cdot D(I) + \gamma_I \cdot A(I)$$
 
 Where:
-- $P(I)$ is the information production function
-- $D(I)$ is the information decay function
-- $A(I)$ is the information amplification function
+- $`P(I)`$ is the information production function
+- $`D(I)`$ is the information decay function
+- $`A(I)`$ is the information amplification function
 
 Digital information ecosystem health indicators:
 
@@ -254,7 +254,7 @@ Adaptation process of social systems to digitalization:
 
 $$\mathcal{A}(t) = \mathcal{A}_0 \cdot (1 - e^{-\lambda_A t}) \cdot \prod_i (1 + \eta_i \cdot \mathcal{F}_i(t))$$
 
-Where $\mathcal{A}_0$ is the initial adaptation capacity, and $\mathcal{F}_i(t)$ are various promoting factors.
+Where $`\mathcal{A}_0`$ is the initial adaptation capacity, and $`\mathcal{F}_i(t)`$ are various promoting factors.
 
 Key stages of the adaptation process:
 1. **Cognitive Adaptation**: Understanding new digital paradigms
@@ -274,7 +274,7 @@ Co-evolution of digital systems and human society:
 
 $$\frac{d\mathcal{H}}{dt} = F_H(\mathcal{H}, \mathcal{D}), \quad \frac{d\mathcal{D}}{dt} = F_D(\mathcal{D}, \mathcal{H})$$
 
-Where $\mathcal{H}$ represents the human system, and $\mathcal{D}$ represents the digital system.
+Where $`\mathcal{H}`$ represents the human system, and $`\mathcal{D}`$ represents the digital system.
 
 Stability conditions for co-evolution:
 
@@ -297,10 +297,10 @@ Quantum-Classical Dualism-based digital transformation assessment framework:
 $$E_D = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I$$
 
 Where:
-- $E_Q$ is the quantum dimension assessment (innovation, possibility, adaptability)
-- $E_C$ is the classical dimension assessment (efficiency, stability, scale)
-- $E_I$ is the interface dimension assessment (user experience, interoperability)
-- $w_Q$, $w_C$, $w_I$ are weight coefficients
+- $`E_Q`$ is the quantum dimension assessment (innovation, possibility, adaptability)
+- $`E_C`$ is the classical dimension assessment (efficiency, stability, scale)
+- $`E_I`$ is the interface dimension assessment (user experience, interoperability)
+- $`w_Q`$, $`w_C`$, $`w_I`$ are weight coefficients
 
 Transformation maturity model:
 
@@ -314,7 +314,7 @@ Design principles for sustainable digital transformation:
 
 $$\mathcal{S}_{sustainable} = \arg\max_{S \in \mathcal{S}} \{W(\mathcal{H}, \mathcal{D}, \mathcal{E}) | \mathcal{H}, \mathcal{E} > \mathcal{T}_{threshold}\}$$
 
-Where $W$ is the overall well-being function, $\mathcal{H}$ is human well-being, $\mathcal{D}$ is digital system performance, and $\mathcal{E}$ is environmental sustainability.
+Where $`W`$ is the overall well-being function, $`\mathcal{H}`$ is human well-being, $`\mathcal{D}`$ is digital system performance, and $`\mathcal{E}`$ is environmental sustainability.
 
 Key strategies for sustainable transformation:
 1. **Human-Centered Design**: Human-centered digital technology design
@@ -326,7 +326,7 @@ Sustainability benefit quantification model:
 
 $$B_{sustainability} = \sum_i w_i \cdot B_i - \sum_j c_j \cdot C_j$$
 
-Where $B_i$ are various benefits, $C_j$ are various costs, and $w_i$ and $c_j$ are respective weights.
+Where $`B_i`$ are various benefits, $`C_j`$ are various costs, and $`w_i`$ and $`c_j`$ are respective weights.
 
 ### Ethical Framework in Digital Transformation
 
@@ -335,11 +335,11 @@ Digital ethics decision framework:
 $$E_{decision} = f(R, C, J, A, P)$$
 
 Where:
-- $R$ is the responsibility score
-- $C$ is the consent score
-- $J$ is the justice score
-- $A$ is the autonomy score
-- $P$ is the privacy score
+- $`R`$ is the responsibility score
+- $`C`$ is the consent score
+- $`J`$ is the justice score
+- $`A`$ is the autonomy score
+- $`P`$ is the privacy score
 
 Dynamic balance of ethical tensions:
 
@@ -365,7 +365,7 @@ Quantum superposition of digital society and traditional society:
 
 $$|\Psi_{society}\rangle = \alpha_t|S_{traditional}\rangle + \alpha_d|S_{digital}\rangle$$
 
-Where $|\alpha_t|^2 + |\alpha_d|^2 = 1$, with the proportion evolving over time.
+Where $`|\alpha_t|^2 + |\alpha_d|^2 = 1`$, with the proportion evolving over time.
 
 ### Connection with Quantum-Classical Interaction Technologies
 
@@ -373,7 +373,7 @@ Digital transformation extensively applies interaction technologies as implement
 
 $$\mathcal{D} = \mathcal{F}(\mathcal{IT}, \mathcal{S}, \mathcal{E})$$
 
-Where $\mathcal{IT}$ is the set of interaction technologies, $\mathcal{S}$ is the social system, and $\mathcal{E}$ is the environment.
+Where $`\mathcal{IT}`$ is the set of interaction technologies, $`\mathcal{S}`$ is the social system, and $`\mathcal{E}`$ is the environment.
 
 Impact function of interaction technologies on digital transformation:
 
@@ -391,7 +391,7 @@ Mechanism by which virtual reality accelerates digital transformation:
 
 $$\frac{d\mathcal{D}}{dt} = \frac{d\mathcal{D}}{dt}\bigg|_{base} + \alpha_{VR} \cdot \mathcal{VR}(t)$$
 
-Where $\alpha_{VR}$ is the acceleration factor of virtual reality.
+Where $`\alpha_{VR}`$ is the acceleration factor of virtual reality.
 
 ## Future Research Directions
 

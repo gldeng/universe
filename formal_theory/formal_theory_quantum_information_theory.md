@@ -17,9 +17,9 @@
 $$\mathcal{I} = (\mathcal{I}_Q, \mathcal{I}_C, \mathcal{T})$$
 
 其中：
-- $\mathcal{I}_Q$ 是信息的量子表示（存在于量子域中）
-- $\mathcal{I}_C$ 是信息的经典表示（存在于经典域中）
-- $\mathcal{T}$ 是量子-经典信息转换映射族
+- $`\mathcal{I}_Q`$ 是信息的量子表示（存在于量子域中）
+- $`\mathcal{I}_C`$ 是信息的经典表示（存在于经典域中）
+- $`\mathcal{T}`$ 是量子-经典信息转换映射族
 
 ### 核心公理
 
@@ -28,28 +28,28 @@ $$\mathcal{I} = (\mathcal{I}_Q, \mathcal{I}_C, \mathcal{T})$$
 
 $$\mathcal{I} = \mathcal{I}_Q \diamond \mathcal{I}_C$$
 
-其中 $\diamond$ 表示信息的量子-经典联合表示。
+其中 $`\diamond`$ 表示信息的量子-经典联合表示。
 
 **公理2: 信息守恒与转换**  
 在量子与经典域之间的信息转换过程中，总信息量守恒：
 
 $$S(\mathcal{I}_Q) + S(\mathcal{I}_C) = \text{常数}$$
 
-其中 $S(\mathcal{I}_Q)$ 是量子信息熵，$S(\mathcal{I}_C)$ 是经典信息熵。
+其中 $`S(\mathcal{I}_Q)`$ 是量子信息熵，$`S(\mathcal{I}_C)`$ 是经典信息熵。
 
 **公理3: 信息维度对应**  
 信息的量子维度与经典维度之间存在映射关系：
 
 $$dim(\mathcal{H}_{\mathcal{I}_Q}) \geq log_2(dim(\mathcal{H}_{\mathcal{I}_C}))$$
 
-其中 $\mathcal{H}_{\mathcal{I}_Q}$ 和 $\mathcal{H}_{\mathcal{I}_C}$ 分别是量子信息和经典信息的希尔伯特空间。
+其中 $`\mathcal{H}_{\mathcal{I}_Q}`$ 和 $`\mathcal{H}_{\mathcal{I}_C}`$ 分别是量子信息和经典信息的希尔伯特空间。
 
 **公理4: 观察者信息关系**  
 观察者对信息的获取过程是一种特殊的量子-经典信息转换：
 
 $$\mathcal{I}_C^{\mathcal{O}} = \mathcal{C}_{\mathcal{O}}(\mathcal{I}_Q)$$
 
-其中 $\mathcal{C}_{\mathcal{O}}$ 是观察者 $\mathcal{O}$ 特有的经典化算符。
+其中 $`\mathcal{C}_{\mathcal{O}}`$ 是观察者 $`\mathcal{O}`$ 特有的经典化算符。
 
 ## 理论核心内容
 
@@ -59,13 +59,13 @@ $$\mathcal{I}_C^{\mathcal{O}} = \mathcal{C}_{\mathcal{O}}(\mathcal{I}_Q)$$
 
 $$\rho_Q = \sum_i p_i |\psi_i\rangle\langle\psi_i|$$
 
-其中 $|\psi_i\rangle$ 是系统可能的量子态，$p_i$ 是相应概率。
+其中 $`|\psi_i\rangle`$ 是系统可能的量子态，$`p_i`$ 是相应概率。
 
 量子信息熵（冯诺依曼熵）定义为：
 
 $$S(\rho_Q) = -\text{Tr}(\rho_Q \log_2 \rho_Q) = -\sum_i \lambda_i \log_2 \lambda_i$$
 
-其中 $\lambda_i$ 是 $\rho_Q$ 的特征值。
+其中 $`\lambda_i`$ 是 $`\rho_Q`$ 的特征值。
 
 量子信息包含以下关键属性：
 1. **叠加性**：同时包含多种可能状态
@@ -79,7 +79,7 @@ $$S(\rho_Q) = -\text{Tr}(\rho_Q \log_2 \rho_Q) = -\sum_i \lambda_i \log_2 \lambd
 
 $$P_C = \{p_i\}$$
 
-其中 $p_i$ 是系统处于状态 $i$ 的概率。
+其中 $`p_i`$ 是系统处于状态 $`i`$ 的概率。
 
 经典信息熵（香农熵）定义为：
 
@@ -97,19 +97,19 @@ $$H(P_C) = -\sum_i p_i \log_2 p_i$$
 
 $$\mathcal{C}: \rho_Q \mapsto P_C = \{(i, p_i = \text{Tr}(E_i\rho_Q))\}$$
 
-其中 $\{E_i\}$ 是正算符值测度(POVM)。
+其中 $`\{E_i\}`$ 是正算符值测度(POVM)。
 
 转换中的信息变化遵循：
 
 $$S(\rho_Q) \leq H(P_C) + S(\rho_Q|P_C)$$
 
-其中 $S(\rho_Q|P_C)$ 是测量后的条件量子熵。
+其中 $`S(\rho_Q|P_C)`$ 是测量后的条件量子熵。
 
 信息经典化效率定义为：
 
 $$\eta_{\mathcal{C}} = \frac{H(P_C)}{S(\rho_Q)}$$
 
-完美经典化（$\eta_{\mathcal{C}} = 1$）仅在特殊条件下可能实现。
+完美经典化（$`\eta_{\mathcal{C}} = 1`$）仅在特殊条件下可能实现。
 
 ### 经典-量子信息转换
 
@@ -117,7 +117,7 @@ $$\eta_{\mathcal{C}} = \frac{H(P_C)}{S(\rho_Q)}$$
 
 $$\mathcal{Q}: P_C \mapsto \rho_Q = \sum_i p_i |\psi_i\rangle\langle\psi_i|$$
 
-其中 $|\psi_i\rangle$ 是编码经典状态 $i$ 的量子态。
+其中 $`|\psi_i\rangle`$ 是编码经典状态 $`i`$ 的量子态。
 
 量子化必然引入额外维度，满足：
 
@@ -135,13 +135,13 @@ $$S(\mathcal{Q}(P_C)) \leq H(P_C)$$
 
 $$\frac{d\rho(t)}{dt} = -\frac{i}{\hbar}[H, \rho(t)] + \mathcal{L}_D(\rho(t))$$
 
-其中 $H$ 是系统哈密顿量，$\mathcal{L}_D$ 是描述解相干过程的林德布拉德超算符。
+其中 $`H`$ 是系统哈密顿量，$`\mathcal{L}_D`$ 是描述解相干过程的林德布拉德超算符。
 
 解相干超算符可表示为：
 
 $$\mathcal{L}_D(\rho) = \sum_k \gamma_k(L_k\rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\})$$
 
-其中 $L_k$ 是林德布拉德算符，$\gamma_k$ 是解相干速率。
+其中 $`L_k`$ 是林德布拉德算符，$`\gamma_k`$ 是解相干速率。
 
 界面转换的特征时间尺度为：
 
@@ -153,13 +153,13 @@ $$\tau_D = (\sum_k \gamma_k)^{-1}$$
 
 $$C(\mathcal{I}) = S_{\text{alg}}(\mathcal{I}) \cdot dim(\mathcal{I})$$
 
-其中 $S_{\text{alg}}$ 是算法熵，$dim(\mathcal{I})$ 是信息维度。
+其中 $`S_{\text{alg}}`$ 是算法熵，$`dim(\mathcal{I})`$ 是信息维度。
 
 量子信息与经典信息的复杂性比率：
 
 $$\frac{C(\mathcal{I}_Q)}{C(\mathcal{I}_C)} \approx \frac{2^n - 1}{n}$$
 
-其中 $n$ 是经典比特数。
+其中 $`n`$ 是经典比特数。
 
 信息维度与观察者维度的关系：
 
@@ -179,13 +179,13 @@ $$C_{\text{量子}} \geq C_{\text{经典}}$$
 
 $$Q(\mathcal{E}) = \max_{\{p_i, \rho_i\}} \lim_{n\to\infty} \frac{1}{n}I(R:B)_{\sigma}$$
 
-其中 $\sigma = (\mathcal{I} \otimes \mathcal{E}^{\otimes n})(\sum_i p_i |\psi_i\rangle\langle\psi_i| \otimes \rho_i^{\otimes n})$。
+其中 $`\sigma = (\mathcal{I} \otimes \mathcal{E}^{\otimes n})(\sum_i p_i |\psi_i\rangle\langle\psi_i| \otimes \rho_i^{\otimes n})`$。
 
 量子-经典混合通信优势：
 
 $$C_{\text{混合}} > \alpha C_{\text{量子}} + (1-\alpha)C_{\text{经典}}$$
 
-其中 $\alpha$ 是量子通信比例。
+其中 $`\alpha`$ 是量子通信比例。
 
 ### 量子计算信息理论
 
@@ -201,7 +201,7 @@ $$\Delta S = S(\rho_{\text{输出}}) - S(\rho_{\text{输入}})$$
 
 $$A_{\text{量子}} = \frac{I_{\text{处理}}}{S(\rho_{\text{计算}})}$$
 
-其中 $I_{\text{处理}}$ 是处理的信息量，$S(\rho_{\text{计算}})$ 是计算过程的熵。
+其中 $`I_{\text{处理}}`$ 是处理的信息量，$`S(\rho_{\text{计算}})`$ 是计算过程的熵。
 
 ### 观察者测量与信息获取
 
@@ -209,7 +209,7 @@ $$A_{\text{量子}} = \frac{I_{\text{处理}}}{S(\rho_{\text{计算}})}$$
 
 $$I(\mathcal{O}:\mathcal{S}) = S(\rho_{\mathcal{S}}) - S(\rho_{\mathcal{S}}|\mathcal{M}_{\mathcal{O}})$$
 
-其中 $I(\mathcal{O}:\mathcal{S})$ 是观察者从系统获得的互信息，$\mathcal{M}_{\mathcal{O}}$ 是观察者的测量。
+其中 $`I(\mathcal{O}:\mathcal{S})`$ 是观察者从系统获得的互信息，$`\mathcal{M}_{\mathcal{O}}`$ 是观察者的测量。
 
 观察者信息容量与其维度关系：
 
@@ -219,7 +219,7 @@ $$C(\mathcal{O}) = k \cdot D_{\mathcal{O}} \cdot \log_2(D_{\mathcal{O}})$$
 
 $$C(\{\mathcal{O}_i\}) = \sum_i C(\mathcal{O}_i) + I_{\text{共享}}(\{\mathcal{O}_i\})$$
 
-其中 $I_{\text{共享}}$ 是观察者间共享信息。
+其中 $`I_{\text{共享}}`$ 是观察者间共享信息。
 
 ### 信息热力学与物理实现
 
@@ -227,7 +227,7 @@ $$C(\{\mathcal{O}_i\}) = \sum_i C(\mathcal{O}_i) + I_{\text{共享}}(\{\mathcal{
 
 $$\Delta E \geq T \cdot \Delta S - W_{\text{信息}}$$
 
-其中 $W_{\text{信息}} = kT \cdot I_{\text{获取}}$ 是信息功。
+其中 $`W_{\text{信息}} = kT \cdot I_{\text{获取}}`$ 是信息功。
 
 量子-经典信息转换的能量代价：
 
@@ -251,7 +251,7 @@ $$|\psi_{\text{计算}}\rangle = U_{\text{量子电路}}|\psi_{\text{输入}}\ra
 
 $$E_{算法} = \frac{I_{\text{输出}}}{Q_{\text{资源}}}$$
 
-其中 $Q_{\text{资源}}$ 是所需量子资源（如量子比特数和门操作数）。
+其中 $`Q_{\text{资源}}`$ 是所需量子资源（如量子比特数和门操作数）。
 
 ### 与量子意识理论的联系
 
@@ -273,7 +273,7 @@ $$A_{\text{清醒}} \propto \eta_{\mathcal{C}_{\mathcal{O}}}$$
 
 $$I_{\text{宇宙}} \approx \frac{c^3 t^2}{G\hbar}$$
 
-其中 $t$ 是宇宙年龄。
+其中 $`t`$ 是宇宙年龄。
 
 宇宙中可观测信息比例：
 
@@ -295,17 +295,17 @@ $$\frac{dS_{\text{宇宙}}}{dt} > 0$$
 
 ### 量子信息度量
 
-- **量子相对熵**：$S(\rho||\sigma) = \text{Tr}(\rho\log\rho - \rho\log\sigma)$
-- **量子Fisher信息**：$F_Q(\rho, A) = 2\sum_{i,j}\frac{(\lambda_i-\lambda_j)^2}{\lambda_i+\lambda_j}|\langle i|A|j\rangle|^2$
-- **量子互信息**：$I(A:B)_\rho = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$
-- **量子条件熵**：$S(A|B)_\rho = S(\rho_{AB}) - S(\rho_B)$
+- **量子相对熵**：$`S(\rho||\sigma) = \text{Tr}(\rho\log\rho - \rho\log\sigma)`$
+- **量子Fisher信息**：$`F_Q(\rho, A) = 2\sum_{i,j}\frac{(\lambda_i-\lambda_j)^2}{\lambda_i+\lambda_j}|\langle i|A|j\rangle|^2`$
+- **量子互信息**：$`I(A:B)_\rho = S(\rho_A) + S(\rho_B) - S(\rho_{AB})`$
+- **量子条件熵**：$`S(A|B)_\rho = S(\rho_{AB}) - S(\rho_B)`$
 
 ### 量子通道与算符
 
-- **量子通道**：$\mathcal{E}(\rho) = \sum_k E_k \rho E_k^\dagger$，满足 $\sum_k E_k^\dagger E_k = I$
-- **Holevo量**：$\chi(\{p_i, \rho_i\}) = S(\sum_i p_i \rho_i) - \sum_i p_i S(\rho_i)$
-- **纠缠形成度**：$E_F(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i S(\text{Tr}_B(|\psi_i\rangle\langle\psi_i|))$
-- **量子纠缠熵**：$E(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i E(|\psi_i\rangle)$
+- **量子通道**：$`\mathcal{E}(\rho) = \sum_k E_k \rho E_k^\dagger`$，满足 $`\sum_k E_k^\dagger E_k = I`$
+- **Holevo量**：$`\chi(\{p_i, \rho_i\}) = S(\sum_i p_i \rho_i) - \sum_i p_i S(\rho_i)`$
+- **纠缠形成度**：$`E_F(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i S(\text{Tr}_B(|\psi_i\rangle\langle\psi_i|))`$
+- **量子纠缠熵**：$`E(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i E(|\psi_i\rangle)`$
 
 ## 文档导航
 

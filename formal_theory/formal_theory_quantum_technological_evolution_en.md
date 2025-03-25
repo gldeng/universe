@@ -16,25 +16,25 @@ Quantum-Classical Technological Evolution Theory explores the quantum-classical 
    
    $$\Psi_{tech}(x) = \sum_{i} \alpha_i |\phi_i\rangle$$
    
-   where $|\phi_i\rangle$ represents possible technology configurations and $\alpha_i$ are complex amplitudes.
+   where $`|\phi_i\rangle`$ represents possible technology configurations and $`\alpha_i`$ are complex amplitudes.
 
 2. **Technological Classical State**: The determined implementation state of technology, represented as:
    
    $$\rho_{classical} = \sum_i p_i |\phi_i\rangle\langle\phi_i|$$
    
-   where $p_i$ is the probability distribution of specific technology configurations.
+   where $`p_i`$ is the probability distribution of specific technology configurations.
 
 3. **Technology Classicalization Operator**: Describes the process of transforming technology from quantum possibilities to classical implementations:
    
    $$\mathcal{C}_{tech}(\Psi) = \sum_i P_i \Psi P_i$$
    
-   where $P_i$ are projection operators corresponding to the selection of specific technological paths.
+   where $`P_i`$ are projection operators corresponding to the selection of specific technological paths.
 
 4. **Technological Evolution Function**: Describes the evolution of technology in the time dimension:
    
    $$\frac{d\Psi_{tech}}{dt} = -\frac{i}{\hbar}\hat{H}_{tech}\Psi_{tech} + \mathcal{D}(\Psi_{tech})$$
    
-   where $\hat{H}_{tech}$ is the Hamiltonian of the technological system and $\mathcal{D}$ is the decoherence term.
+   where $`\hat{H}_{tech}`$ is the Hamiltonian of the technological system and $`\mathcal{D}`$ is the decoherence term.
 
 ## Quantum Foundations of Technological Innovation
 
@@ -46,7 +46,7 @@ Basic characteristics of technological innovation in the quantum domain:
    
    $$\Psi_{innovation} = \sum_{i=1}^{N} c_i |innovation_i\rangle, \quad \sum_i |c_i|^2 = 1$$
    
-   where $|innovation_i\rangle$ represents different innovation possibilities.
+   where $`|innovation_i\rangle`$ represents different innovation possibilities.
 
 2. **Possibility Density**: Possibility density in specific regions of innovation space:
    
@@ -58,7 +58,7 @@ Basic characteristics of technological innovation in the quantum domain:
    
    $$D_{innovation} = -\sum_i p_i \log p_i$$
    
-   where $p_i = |c_i|^2$ represents the probability of various innovation possibilities.
+   where $`p_i = |c_i|^2`$ represents the probability of various innovation possibilities.
 
 ### 2. Innovation Quantum Entanglement Network
 
@@ -68,19 +68,19 @@ Quantum entanglement relationships between innovative ideas and technological co
    
    $$|\Psi_{entangled}\rangle = \sum_{i,j} \beta_{ij} |component_i\rangle \otimes |component_j\rangle$$
    
-   where $\beta_{ij}$ represents the entanglement coefficient between components $i$ and $j$.
+   where $`\beta_{ij}`$ represents the entanglement coefficient between components $`i`$ and $`j`$.
 
 2. **Technological Entanglement Degree**: Quantifies the degree of entanglement among components in a technological system:
    
    $$E(\Psi_{tech}) = -\text{Tr}(\rho_A \ln \rho_A)$$
    
-   where $\rho_A$ is the reduced density matrix of system $A$.
+   where $`\rho_A`$ is the reduced density matrix of system $`A`$.
 
 3. **Entangled Innovation Network**: Describes the network of entanglement relationships between multiple innovation nodes:
    
    $$G_{entanglement} = (V, E, W)$$
    
-   where $V$ is the set of innovation nodes, $E$ is the set of entanglement edges, and $W$ is the set of entanglement strength weights.
+   where $`V`$ is the set of innovation nodes, $`E`$ is the set of entanglement edges, and $`W`$ is the set of entanglement strength weights.
 
 ### 3. Quantum Technological Tunneling Effect
 
@@ -90,19 +90,19 @@ Quantum tunneling mechanisms in technological innovation:
    
    $$T(E) = e^{-2\int_{x_1}^{x_2}\sqrt{\frac{2m}{\hbar^2}(V(x)-E)}dx}$$
    
-   where $V(x)$ is the technology barrier function and $E$ is innovation energy.
+   where $`V(x)`$ is the technology barrier function and $`E`$ is innovation energy.
 
 2. **Quantum Transition Path**: Describes the path through which technology achieves leap development via quantum tunneling:
    
    $$\gamma(t) = \{x(t) | x(0) = x_0, x(T) = x_f\}$$
    
-   where $x_0$ is the initial technology state and $x_f$ is the target technology state.
+   where $`x_0`$ is the initial technology state and $`x_f`$ is the target technology state.
 
 3. **Tunneling Probability Distribution**: Tunneling probability distribution of different technological paths:
    
    $$P(path) \propto e^{-\frac{1}{\hbar}S[path]}$$
    
-   where $S[path]$ is the path action.
+   where $`S[path]`$ is the path action.
 
 ## Classicalization Process of Technology
 
@@ -120,13 +120,13 @@ The conversion process of technology from quantum possibilities to classical imp
    
    $$\mathcal{C}_{society}(\Psi_{tech}) = \sum_i w_i P_i \Psi_{tech} P_i$$
    
-   where $w_i$ are social preference weights and $P_i$ are projection operators for specific technology choices.
+   where $`w_i`$ are social preference weights and $`P_i`$ are projection operators for specific technology choices.
 
 3. **Classicalization Critical Point**: The critical point where technology transforms from a quantum ambiguous state to a classical determined state:
    
    $$|\langle \Psi_{classical}|\Psi_{tech}\rangle|^2 > \eta_{critical}$$
    
-   where $\eta_{critical}$ is the classicalization threshold.
+   where $`\eta_{critical}`$ is the classicalization threshold.
 
 ### 2. Technology Standardization and Stabilization
 
@@ -136,19 +136,19 @@ The standardization and stabilization process after technology classicalization:
    
    $$\hat{S} = \sum_i s_i |standard_i\rangle\langle standard_i|$$
    
-   where $s_i$ is standard intensity and $|standard_i\rangle$ is the standard basis state.
+   where $`s_i`$ is standard intensity and $`|standard_i\rangle`$ is the standard basis state.
 
 2. **Technology Stability**: Quantifies the stability degree of a technology's classical state:
    
    $$\Omega(t) = 1 - e^{-\lambda t}$$
    
-   where $\lambda$ is the stability rate and $t$ is the time of technology existence.
+   where $`\lambda`$ is the stability rate and $`t`$ is the time of technology existence.
 
 3. **Path Dependency Function**: Describes the path dependency of technological evolution:
    
    $$D(t) = D_0 + \int_0^t \gamma(t')D(t')dt'$$
    
-   where $D_0$ is the initial dependency degree and $\gamma(t)$ is the dependency reinforcement rate.
+   where $`D_0`$ is the initial dependency degree and $`\gamma(t)`$ is the dependency reinforcement rate.
 
 ### 3. Technological System Integration
 
@@ -158,7 +158,7 @@ The process of integrating technological components into systems:
    
    $$\hat{I} = \sum_{i,j} I_{ij} |component_i\rangle\langle component_j|$$
    
-   where $I_{ij}$ are component integration coefficients.
+   where $`I_{ij}`$ are component integration coefficients.
 
 2. **System Emergence Function**: Describes the emergent properties of technological systems:
    
@@ -170,7 +170,7 @@ The process of integrating technological components into systems:
    
    $$C(system) = H(system) - \sum_i H(component_i | system)$$
    
-   where $H$ represents information entropy.
+   where $`H`$ represents information entropy.
 
 ## Quantum-Classical Collaborative Dynamics of Technological Evolution
 
@@ -182,19 +182,19 @@ Quantum-classical conversion dynamics in technological evolution:
    
    $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho] + \sum_i \gamma_i (L_i \rho L_i^\dagger - \frac{1}{2}\{L_i^\dagger L_i, \rho\})$$
    
-   where $L_i$ are Lindblad operators describing environment-induced collapse.
+   where $`L_i`$ are Lindblad operators describing environment-induced collapse.
 
 2. **Technological Many-Histories Interpretation**: Many-histories quantum interpretation of technological evolution:
    
    $$|\Psi_{total}\rangle = \sum_\alpha c_\alpha |\Psi_\alpha\rangle \otimes |E_\alpha\rangle$$
    
-   where $|\Psi_\alpha\rangle$ are technology histories and $|E_\alpha\rangle$ are corresponding environment states.
+   where $`|\Psi_\alpha\rangle`$ are technology histories and $`|E_\alpha\rangle`$ are corresponding environment states.
 
 3. **Quantum-Classical Interface Dynamics**: Describes the interface dynamics between quantum innovation and classical implementation:
    
    $$\frac{d\Phi_{interface}}{dt} = D\nabla^2\Phi_{interface} + f(\Phi_{interface}) + \eta(x,t)$$
    
-   where $\Phi_{interface}$ is the interface field and $\eta(x,t)$ is the quantum noise term.
+   where $`\Phi_{interface}`$ is the interface field and $`\eta(x,t)`$ is the quantum noise term.
 
 ### 2. Technological Paradigm Shifts
 
@@ -204,19 +204,19 @@ Quantum-classical conversion model of technological paradigms:
    
    $$\hat{P}_{i \to j} = |paradigm_j\rangle\langle paradigm_i|$$
    
-   representing the conversion from paradigm $i$ to paradigm $j$.
+   representing the conversion from paradigm $`i`$ to paradigm $`j`$.
 
 2. **Paradigm Shift Probability**: Probability of shifting from one technological paradigm to another:
    
    $$P(i \to j) = |\langle paradigm_j|\hat{T}|paradigm_i\rangle|^2$$
    
-   where $\hat{T}$ is the transition operator.
+   where $`\hat{T}`$ is the transition operator.
 
 3. **Critical Paradigm Shift Conditions**: Critical conditions triggering paradigm shifts:
    
    $$E_{anomaly} > E_{critical} \quad \text{and} \quad I_{new-paradigm} > I_{old-paradigm}$$
    
-   where $E_{anomaly}$ is the anomaly energy of the current paradigm and $I$ is information content.
+   where $`E_{anomaly}`$ is the anomaly energy of the current paradigm and $`I`$ is information content.
 
 ### 3. Technological Co-evolutionary Network
 
@@ -226,13 +226,13 @@ Co-evolutionary dynamics of technology and its environment:
    
    $$\frac{d\vec{T}}{dt} = f_T(\vec{T}, \vec{E}), \quad \frac{d\vec{E}}{dt} = f_E(\vec{T}, \vec{E})$$
    
-   where $\vec{T}$ is the technology state vector and $\vec{E}$ is the environment state vector.
+   where $`\vec{T}`$ is the technology state vector and $`\vec{E}`$ is the environment state vector.
 
 2. **Technological Niche Function**: Describes the niche of technology in socio-economic-ecological systems:
    
    $$N(\vec{T}) = \int_{\Omega} w(\vec{x})P(\vec{T},\vec{x})d\vec{x}$$
    
-   where $P(\vec{T},\vec{x})$ is the fitness of technology in environmental space.
+   where $`P(\vec{T},\vec{x})`$ is the fitness of technology in environmental space.
 
 3. **Co-evolution Stability Conditions**: Conditions for achieving stable co-evolution in technology-environment systems:
    
@@ -250,19 +250,19 @@ Behavior of technological systems at the quantum-chaos edge:
    
    $$\lambda = \frac{C_{quantum}}{C_{classical}} \approx 1$$
    
-   where $C_{quantum}$ and $C_{classical}$ are quantum complexity and classical complexity respectively.
+   where $`C_{quantum}`$ and $`C_{classical}`$ are quantum complexity and classical complexity respectively.
 
 2. **Quantum Chaos Measure**: Quantifies the degree of quantum chaos in technological systems:
    
    $$K_Q = \lim_{t \to \infty} \frac{1}{t} \ln \frac{||\delta\Psi(t)||}{||\delta\Psi(0)||}$$
    
-   where $\delta\Psi(t)$ is a small perturbation of the wavefunction.
+   where $`\delta\Psi(t)`$ is a small perturbation of the wavefunction.
 
 3. **Maximum Computational Complexity Condition**: Condition for technological systems to achieve maximum computational complexity:
    
    $$S = \alpha S_C + (1-\alpha) S_Q \approx \frac{S_{max}}{2}$$
    
-   where $S_C$ and $S_Q$ are classical entropy and quantum entropy respectively.
+   where $`S_C`$ and $`S_Q`$ are classical entropy and quantum entropy respectively.
 
 ### 2. Emergence and Wholeness of Technology
 
@@ -272,13 +272,13 @@ Emergent properties and wholeness of technological systems:
    
    $$E(system) = I(system) - \sum_i I(component_i)$$
    
-   where $I$ represents information content.
+   where $`I`$ represents information content.
 
 2. **Wholeness Function**: Describes the degree of wholeness of technological systems:
    
    $$\Phi(system) = \sum_{partitions} \left[ H(M_{partition}) - H(M_{partition} | M_{complement}) \right]$$
    
-   where $H$ is information entropy and $M$ is system state.
+   where $`H`$ is information entropy and $`M`$ is system state.
 
 3. **Complex Adaptive System Characteristics**: Characteristics of technology as a complex adaptive system:
    
@@ -294,19 +294,19 @@ Dynamic characteristics of technology as a non-equilibrium open system:
    
    $$\sigma = \frac{dS}{dt} - \frac{J_q}{T}\cdot \nabla\left(\frac{1}{T}\right) - \sum_i J_i \cdot \nabla\left(\frac{\mu_i}{T}\right)$$
    
-   where $J_q$ is heat flow, $J_i$ is matter flow, and $\mu_i$ is chemical potential.
+   where $`J_q`$ is heat flow, $`J_i`$ is matter flow, and $`\mu_i`$ is chemical potential.
 
 2. **Self-organized Criticality**: Conditions for the self-organized critical state of technological systems:
    
    $$\frac{d\sigma}{dF} = 0 \quad \text{and} \quad \frac{d^2\sigma}{dF^2} < 0$$
    
-   where $F$ is the control parameter.
+   where $`F`$ is the control parameter.
 
 3. **Dissipative Structure Formation**: Conditions for the formation of dissipative structures in technological systems:
    
    $$\nabla^2\Psi + f(\Psi, \nabla\Psi) + D\Psi = 0$$
    
-   where $f$ describes non-linear interactions and $D$ is the diffusion operator.
+   where $`f`$ describes non-linear interactions and $`D`$ is the diffusion operator.
 
 ## Long-range Prediction and Control of Technological Development
 
@@ -318,19 +318,19 @@ Technological trajectory control based on quantum-classical principles:
    
    $$\hat{U}_{\text{control}} = e^{-i\int_0^T \hat{H}_{\text{control}}(t)dt}$$
    
-   where $\hat{H}_{\text{control}}(t)$ is the control Hamiltonian.
+   where $`\hat{H}_{\text{control}}(t)`$ is the control Hamiltonian.
 
 2. **Optimal Control Trajectory**: Optimal control trajectory for technological development:
    
    $$J[u] = \langle\Psi_T|\hat{O}|\Psi_T\rangle + \int_0^T L(|\Psi_t\rangle, u(t))dt$$
    
-   where $u(t)$ is the control function and $\hat{O}$ is the target operator.
+   where $`u(t)`$ is the control function and $`\hat{O}`$ is the target operator.
 
 3. **Control Robustness Measure**: Robustness of technological control strategies:
    
    $$R(control) = \mathbb{E}_{\Delta}\left[\left\|\frac{\delta\Psi_T}{\delta\Delta}\right\|^2\right]^{-1}$$
    
-   where $\Delta$ represents perturbations of system parameters.
+   where $`\Delta`$ represents perturbations of system parameters.
 
 ### 2. Technological Singularity Prediction
 
@@ -340,19 +340,19 @@ Quantum-classical dual analysis of technological singularity:
    
    $$S(t) = \frac{1}{T_s - t}$$
    
-   where $T_s$ is the singularity time.
+   where $`T_s`$ is the singularity time.
 
 2. **Technology Acceleration Rate**: Acceleration rate of technological progress:
    
    $$\alpha(t) = \frac{d^2P}{dt^2} \cdot \frac{1}{dP/dt}$$
    
-   where $P$ is a technology performance measure.
+   where $`P`$ is a technology performance measure.
 
 3. **Critical Phase Transition Indicators**: Indicators identifying technological critical phase transitions:
    
    $$\chi = \frac{\langle(\delta X)^2\rangle}{\langle X \rangle^2}$$
    
-   where $X$ is the order parameter of the technological system.
+   where $`X`$ is the order parameter of the technological system.
 
 ### 3. Quantum-Classical Symbiotic Technology Ecology
 
@@ -362,19 +362,19 @@ Quantum-classical symbiotic relationship between technology and human society:
    
    $$\Gamma(tech,society) = \frac{I(tech;society)}{\sqrt{H(tech)H(society)}}$$
    
-   where $I$ is mutual information and $H$ is information entropy.
+   where $`I`$ is mutual information and $`H`$ is information entropy.
 
 2. **Technology-Society Synergy Degree**: Measures the level of synergy between technology and society:
    
    $$C(tech,society) = \frac{\langle \delta tech \cdot \delta society \rangle}{\sqrt{\langle(\delta tech)^2\rangle\langle(\delta society)^2\rangle}}$$
    
-   where $\delta$ represents deviation from equilibrium state.
+   where $`\delta`$ represents deviation from equilibrium state.
 
 3. **Sustainable Technology Development Conditions**: Sustainability conditions for technological development:
    
    $$\frac{dR}{dt} \geq \frac{dC}{dt} \quad \text{and} \quad \lim_{t \to \infty} \frac{R(t)}{C(t)} > 1$$
    
-   where $R$ is resource regeneration capacity and $C$ is resource consumption rate.
+   where $`R`$ is resource regeneration capacity and $`C`$ is resource consumption rate.
 
 ## Application Dimensions
 
@@ -386,19 +386,19 @@ Innovation methods based on quantum-classical principles:
    
    $$D_Q = \{S_i | S_i = f_Q(C_i, Q_i)\}$$
    
-   where $S_i$ are design solutions, $C_i$ are classical constraints, and $Q_i$ are quantum possibilities.
+   where $`S_i`$ are design solutions, $`C_i`$ are classical constraints, and $`Q_i`$ are quantum possibilities.
 
 2. **Innovation Space Expansion**: Strategies for expanding technological innovation space:
    
    $$V_{innovation} = V_0 \cdot e^{\alpha t} \cdot (1 + \beta\Phi_Q)$$
    
-   where $V_0$ is initial innovation space volume and $\Phi_Q$ is the quantum innovation factor.
+   where $`V_0`$ is initial innovation space volume and $`\Phi_Q`$ is the quantum innovation factor.
 
 3. **Quantum-Classical Innovation Balance**: Optimizing balance between quantum exploration and classical exploitation:
    
    $$\lambda_{optimal} = \frac{R_{quantum}}{R_{classical}} = \frac{\text{exploration returns}}{\text{exploitation returns}}$$
    
-   where $R$ represents respective return rates.
+   where $`R`$ represents respective return rates.
 
 ### 2. Technology Fusion and System Integration
 
@@ -408,7 +408,7 @@ Technology fusion and system integration in the quantum-classical framework:
    
    $$E_{cross-domain} = \sum_{i,j} w_{ij} \cdot E(tech_i, tech_j)$$
    
-   where $E$ is entanglement measure and $w_{ij}$ are domain weights.
+   where $`E`$ is entanglement measure and $`w_{ij}`$ are domain weights.
 
 2. **System Integration Optimization**: Optimization methods for technological system integration:
    
@@ -436,13 +436,13 @@ Methods for regulating co-transformation of technological and social systems:
    
    $$P_{optimal} = \arg\min_P \int_{t_0}^{t_1} L(S(t), T(t), \dot{S}(t), \dot{T}(t))dt$$
    
-   where $S(t)$ and $T(t)$ are social and technological states respectively.
+   where $`S(t)`$ and $`T(t)`$ are social and technological states respectively.
 
 3. **Regulatory Leverage Point Identification**: Identifying key regulatory points in the system:
    
    $$L_i = \frac{\partial S}{\partial p_i} \cdot \frac{p_i}{S}$$
    
-   where $L_i$ is the leverage coefficient of parameter $p_i$.
+   where $`L_i`$ is the leverage coefficient of parameter $`p_i`$.
 
 ## Future Research Directions
 

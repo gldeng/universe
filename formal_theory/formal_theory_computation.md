@@ -24,7 +24,7 @@
 
 ### 计算的二元性
 
-计算分为量子计算($C_Q$)与经典计算($C_C$)两类，可表达为：
+计算分为量子计算($`C_Q`$)与经典计算($`C_C`$)两类，可表达为：
 
 $$C = C_Q \cup C_C$$
 
@@ -37,11 +37,11 @@ $$C_Q \leftrightarrow C_C$$
 $$\Psi_{compute} = \{I_Q, I_C, \mathcal{C}, \mathcal{Q}, O\}$$
 
 其中：
-- $I_Q$ 是量子输入信息
-- $I_C$ 是经典输入信息
-- $\mathcal{C}$ 是经典化算符（量子→经典）
-- $\mathcal{Q}$ 是量子化算符（经典→量子）
-- $O$ 是计算输出
+- $`I_Q`$ 是量子输入信息
+- $`I_C`$ 是经典输入信息
+- $`\mathcal{C}`$ 是经典化算符（量子→经典）
+- $`\mathcal{Q}`$ 是量子化算符（经典→量子）
+- $`O`$ 是计算输出
 
 > 注：这种二元框架与[界面理论](formal_theory_interface.md#界面结构)中的界面动力学密切相关。
 
@@ -52,9 +52,9 @@ $$\Psi_{compute} = \{I_Q, I_C, \mathcal{C}, \mathcal{Q}, O\}$$
 $$\mathcal{K}(\Psi) = \mathcal{K}_Q(\Psi) + \mathcal{K}_C(\Psi) + \mathcal{K}_{QC}(\Psi)$$
 
 其中：
-- $\mathcal{K}_Q$ 是量子计算复杂度
-- $\mathcal{K}_C$ 是经典计算复杂度
-- $\mathcal{K}_{QC}$ 是量子-经典转换复杂度
+- $`\mathcal{K}_Q`$ 是量子计算复杂度
+- $`\mathcal{K}_C`$ 是经典计算复杂度
+- $`\mathcal{K}_{QC}`$ 是量子-经典转换复杂度
 
 ## 量子-经典计算模型
 
@@ -64,7 +64,7 @@ $$\mathcal{K}(\Psi) = \mathcal{K}_Q(\Psi) + \mathcal{K}_C(\Psi) + \mathcal{K}_{Q
 
 $$M_Q = (Q, \Sigma, \delta_Q, q_0, q_f)$$
 
-其中 $\delta_Q: Q \times \Sigma \to \mathcal{H}(Q \times \Sigma \times \{L,R\})$ 是量子转移函数。
+其中 $`\delta_Q: Q \times \Sigma \to \mathcal{H}(Q \times \Sigma \times \{L,R\})`$ 是量子转移函数。
 
 ### 经典图灵机(CTM)
 
@@ -72,7 +72,7 @@ $$M_Q = (Q, \Sigma, \delta_Q, q_0, q_f)$$
 
 $$M_C = (Q, \Sigma, \delta_C, q_0, q_f)$$
 
-其中 $\delta_C: Q \times \Sigma \to Q \times \Sigma \times \{L,R\}$ 是经典转移函数。
+其中 $`\delta_C: Q \times \Sigma \to Q \times \Sigma \times \{L,R\}`$ 是经典转移函数。
 
 ### 量子-经典混合图灵机(QCTM)
 
@@ -81,15 +81,15 @@ $$M_C = (Q, \Sigma, \delta_C, q_0, q_f)$$
 $$M_{QC} = (Q, \Sigma, \delta_Q, \delta_C, \mathcal{C}, \mathcal{Q}, q_0, q_f)$$
 
 其中：
-- $\mathcal{C}: \mathcal{H}(Q \times \Sigma) \to Q \times \Sigma$ 是经典化函数
-- $\mathcal{Q}: Q \times \Sigma \to \mathcal{H}(Q \times \Sigma)$ 是量子化函数
+- $`\mathcal{C}: \mathcal{H}(Q \times \Sigma) \to Q \times \Sigma`$ 是经典化函数
+- $`\mathcal{Q}: Q \times \Sigma \to \mathcal{H}(Q \times \Sigma)`$ 是量子化函数
 
 量子-经典混合图灵机的计算步骤：
 
-1. 量子演化：$|\psi_{t+1}\rangle = U_{\delta_Q}|\psi_t\rangle$
-2. 经典化：$s_t = \mathcal{C}(|\psi_t\rangle)$
-3. 经典步骤：$s_{t+1} = \delta_C(s_t)$
-4. 量子化：$|\psi_{t+1}'\rangle = \mathcal{Q}(s_{t+1})$
+1. 量子演化：$`|\psi_{t+1}\rangle = U_{\delta_Q}|\psi_t\rangle`$
+2. 经典化：$`s_t = \mathcal{C}(|\psi_t\rangle)`$
+3. 经典步骤：$`s_{t+1} = \delta_C(s_t)`$
+4. 量子化：$`|\psi_{t+1}'\rangle = \mathcal{Q}(s_{t+1})`$
 
 ### 计算能力比较
 
@@ -97,7 +97,7 @@ $$M_{QC} = (Q, \Sigma, \delta_Q, \delta_C, \mathcal{C}, \mathcal{Q}, q_0, q_f)$$
 
 $$P(M_C) \subset P(M_{QC}) \subseteq P(M_Q)$$
 
-其中 $P(M)$ 表示机器 $M$ 能够有效解决的问题集合。
+其中 $`P(M)`$ 表示机器 $`M`$ 能够有效解决的问题集合。
 
 > 注：这种计算能力的层级性与[非平衡量子-经典转换](formal_theory_nonequilibrium.md#非平衡量子-经典转换)中的非平衡度相关。
 
@@ -107,26 +107,26 @@ $$P(M_C) \subset P(M_{QC}) \subseteq P(M_Q)$$
 
 基本经典复杂性类别层次：
 
-- $P$: 多项式时间可解决的问题集
-- $NP$: 非确定性多项式时间可解决的问题集
-- $PSPACE$: 多项式空间可解决的问题集
-- $EXP$: 指数时间可解决的问题集
+- $`P`$: 多项式时间可解决的问题集
+- $`NP`$: 非确定性多项式时间可解决的问题集
+- $`PSPACE`$: 多项式空间可解决的问题集
+- $`EXP`$: 指数时间可解决的问题集
 
 ### 量子复杂性类别
 
 基本量子复杂性类别层次：
 
-- $BQP$: 有界错误量子多项式时间可解决的问题集
-- $QMA$: 量子Merlin-Arthur问题集
-- $QPSPACE$: 量子多项式空间可解决的问题集
+- $`BQP`$: 有界错误量子多项式时间可解决的问题集
+- $`QMA`$: 量子Merlin-Arthur问题集
+- $`QPSPACE`$: 量子多项式空间可解决的问题集
 
 ### 混合复杂性类别
 
 新引入的量子-经典混合复杂性类别：
 
-- $BQP/poly$: 有限经典建议辅助的量子计算
-- $QCMA$: 经典证据的量子验证
-- $QC[k]$: $k$次量子-经典转换的计算能力
+- $`BQP/poly`$: 有限经典建议辅助的量子计算
+- $`QCMA`$: 经典证据的量子验证
+- $`QC[k]`$: $`k`$次量子-经典转换的计算能力
 
 混合复杂性类别构成层次：
 
@@ -136,8 +136,8 @@ $$P \subseteq BPP \subseteq BQP/poly \subseteq BQP \subseteq QCMA \subseteq QMA 
 
 量子-经典转换的复杂性类别：
 
-- $C2Q[r(n)]$: 使用$r(n)$量子位的经典-量子转换
-- $Q2C[r(n)]$: 经典化$r(n)$量子位的量子-经典转换
+- $`C2Q[r(n)]`$: 使用$`r(n)`$量子位的经典-量子转换
+- $`Q2C[r(n)]`$: 经典化$`r(n)`$量子位的量子-经典转换
 
 转换复杂性与传统复杂性的关系：
 
@@ -165,13 +165,13 @@ $$P^{C2Q[log\,n]} \subseteq BQP \subseteq P^{Q2C[poly(n)]}$$
 
 $$\eta_{Q\rightarrow C} \leq \frac{\log_2 d_C}{\log_2 d_Q}$$
 
-其中 $d_Q$ 是量子希尔伯特空间维度，$d_C$ 是经典状态空间维度。
+其中 $`d_Q`$ 是量子希尔伯特空间维度，$`d_C`$ 是经典状态空间维度。
 
 经典-量子转换的纠缠资源需求：
 
 $$E_{C\rightarrow Q} \geq \log_2 d_Q - \log_2 d_C$$
 
-其中 $E_{C\rightarrow Q}$ 是量子化过程需要的纠缠比特数。
+其中 $`E_{C\rightarrow Q}`$ 是量子化过程需要的纠缠比特数。
 
 ### 计算界面协议
 
@@ -180,19 +180,19 @@ $$E_{C\rightarrow Q} \geq \log_2 d_Q - \log_2 d_C$$
 $$\Pi_{QC} = (A_Q, B_C, \mathcal{C}_{A\rightarrow B}, \mathcal{Q}_{B\rightarrow A}, n, m, \epsilon)$$
 
 其中：
-- $A_Q$ 是量子计算者
-- $B_C$ 是经典计算者
-- $\mathcal{C}_{A\rightarrow B}$ 是$A$到$B$的经典化通道
-- $\mathcal{Q}_{B\rightarrow A}$ 是$B$到$A$的量子化通道
-- $n$ 是通信轮数
-- $m$ 是每轮通信的比特数
-- $\epsilon$ 是协议错误率
+- $`A_Q`$ 是量子计算者
+- $`B_C`$ 是经典计算者
+- $`\mathcal{C}_{A\rightarrow B}`$ 是$`A`$到$`B`$的经典化通道
+- $`\mathcal{Q}_{B\rightarrow A}`$ 是$`B`$到$`A`$的量子化通道
+- $`n`$ 是通信轮数
+- $`m`$ 是每轮通信的比特数
+- $`\epsilon`$ 是协议错误率
 
 协议复杂度：
 
 $$C(\Pi_{QC}) = n \cdot m + C_{\mathcal{C}} + C_{\mathcal{Q}}$$
 
-其中 $C_{\mathcal{C}}$ 和 $C_{\mathcal{Q}}$ 分别是经典化和量子化的计算复杂度。
+其中 $`C_{\mathcal{C}}`$ 和 $`C_{\mathcal{Q}}`$ 分别是经典化和量子化的计算复杂度。
 
 ## 观察者计算能力
 
@@ -203,16 +203,16 @@ $$C(\Pi_{QC}) = n \cdot m + C_{\mathcal{C}} + C_{\mathcal{Q}}$$
 $$\mathcal{C}_{obs} = (D_{\mathcal{O}}, \mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}})$$
 
 其中：
-- $D_{\mathcal{O}}$ 是观察者维度
-- $\mathcal{C}_{\mathcal{O}}$ 是观察者经典化算符
-- $\mathcal{Q}_{\mathcal{O}}$ 是观察者量子化算符
-- $K_C^{\mathcal{O}}$ 是观察者经典知识库
+- $`D_{\mathcal{O}}`$ 是观察者维度
+- $`\mathcal{C}_{\mathcal{O}}`$ 是观察者经典化算符
+- $`\mathcal{Q}_{\mathcal{O}}`$ 是观察者量子化算符
+- $`K_C^{\mathcal{O}}`$ 是观察者经典知识库
 
 观察者可解决的问题集与维度关系：
 
 $$P(\mathcal{O}) \propto D_{\mathcal{O}}^{\alpha}$$
 
-其中 $\alpha$ 是问题-维度标度指数。
+其中 $`\alpha`$ 是问题-维度标度指数。
 
 > 注：这一观察者计算模型是[观察者理论](formal_theory_observer.md#观察者基本定义)在计算领域的扩展应用。
 
@@ -232,13 +232,13 @@ $$D_{min}(p) = \inf\{D_{\mathcal{O}} | p \in P(\mathcal{O})\}$$
 
 $$P(\{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}) = \bigcup_{i=1}^{n} P(\mathcal{O}_i) \cup P_{emergent}$$
 
-其中 $P_{emergent}$ 是观察者集体涌现的新计算能力。
+其中 $`P_{emergent}`$ 是观察者集体涌现的新计算能力。
 
 集体计算中的涌现加速：
 
 $$T_{collective}(p) < \min_{i} T_{\mathcal{O}_i}(p)$$
 
-其中 $T_{\mathcal{O}}(p)$ 是观察者 $\mathcal{O}$ 解决问题 $p$ 所需时间。
+其中 $`T_{\mathcal{O}}(p)`$ 是观察者 $`\mathcal{O}`$ 解决问题 $`p`$ 所需时间。
 
 ## 经典化与量子化的计算代价
 
@@ -248,13 +248,13 @@ $$T_{collective}(p) < \min_{i} T_{\mathcal{O}_i}(p)$$
 
 $$C_{\mathcal{C}}(|\psi\rangle) \geq S_{VN}(|\psi\rangle) + \log_2(1/\epsilon)$$
 
-其中 $S_{VN}$ 是冯诺依曼熵，$\epsilon$ 是精度参数。
+其中 $`S_{VN}`$ 是冯诺依曼熵，$`\epsilon`$ 是精度参数。
 
 经典化过程的最小能量成本：
 
 $$E_{min}^{\mathcal{C}} = k_B T \ln 2 \cdot I_{loss}$$
 
-其中 $I_{loss}$ 是经典化过程中损失的信息量。
+其中 $`I_{loss}`$ 是经典化过程中损失的信息量。
 
 > 注：这一能量成本与[非平衡态理论](formal_theory_nonequilibrium.md#信息熵产生与消耗)中的熵产生率紧密相关。
 
@@ -264,7 +264,7 @@ $$E_{min}^{\mathcal{C}} = k_B T \ln 2 \cdot I_{loss}$$
 
 $$C_{\mathcal{Q}}(x) \geq \log_2(d_Q) - H(x)$$
 
-其中 $H(x)$ 是经典信息的香农熵，$d_Q$ 是目标量子态的维度。
+其中 $`H(x)`$ 是经典信息的香农熵，$`d_Q`$ 是目标量子态的维度。
 
 量子化的最小纠缠资源需求：
 
@@ -290,13 +290,13 @@ $$\min_{\mathcal{S}} \{C(\mathcal{S}) | \mathcal{S} \text{ 是有效转换策略
 
 $$\mathcal{CR}(\Psi_{compute}) = I_{output} - I_{derivable}$$
 
-其中 $I_{derivable}$ 是从输入可直接推导的信息量。
+其中 $`I_{derivable}`$ 是从输入可直接推导的信息量。
 
 创造性的量子增强：
 
 $$\mathcal{CR}(\Psi_{Q}) > \mathcal{CR}(\Psi_{C})$$
 
-其中 $\Psi_{Q}$ 是量子计算过程，$\Psi_{C}$ 是等价经典计算过程。
+其中 $`\Psi_{Q}`$ 是量子计算过程，$`\Psi_{C}`$ 是等价经典计算过程。
 
 > 注：这一创造性定义与[非平衡态理论](formal_theory_nonequilibrium.md#创造性过程的非平衡解释)中的创新度量指标一致。
 
@@ -306,7 +306,7 @@ $$\mathcal{CR}(\Psi_{Q}) > \mathcal{CR}(\Psi_{C})$$
 
 $$\Psi_{L+1} = \mathcal{E}(\{\Psi_{L,i}\})$$
 
-其中 $\mathcal{E}$ 是涌现函数，$\{\Psi_{L,i}\}$ 是第 $L$ 层的计算系统集合。
+其中 $`\mathcal{E}`$ 是涌现函数，$`\{\Psi_{L,i}\}`$ 是第 $`L`$ 层的计算系统集合。
 
 涌现的计算能力评估：
 
@@ -334,13 +334,13 @@ $$P_{irreducible} = P(\Psi_{L+1}) \setminus \bigcup_i P(\Psi_{L,i})$$
 
 $$M_{self} = (Q, \Sigma, \delta, q_0, q_f, \mathcal{R})$$
 
-其中 $\mathcal{R}: Q \times \Sigma \to M$ 是自参照映射，允许机器引用自身。
+其中 $`\mathcal{R}: Q \times \Sigma \to M`$ 是自参照映射，允许机器引用自身。
 
 自指涉计算的不动点方程：
 
 $$M_{self} = \mathcal{F}(M_{self})$$
 
-其中 $\mathcal{F}$ 是计算转换函数。
+其中 $`\mathcal{F}`$ 是计算转换函数。
 
 ### 自我改进能力
 
@@ -348,13 +348,13 @@ $$M_{self} = \mathcal{F}(M_{self})$$
 
 $$M_{self,t+1} = \mathcal{I}(M_{self,t})$$
 
-其中 $\mathcal{I}$ 是改进函数。
+其中 $`\mathcal{I}`$ 是改进函数。
 
 改进率界限：
 
 $$\frac{P(M_{self,t+1})}{P(M_{self,t})} \leq 2^{O(S(M_{self,t}))}$$
 
-其中 $S(M)$ 是机器 $M$ 的描述长度。
+其中 $`S(M)`$ 是机器 $`M`$ 的描述长度。
 
 ### 递归自我参照的极限
 
@@ -362,7 +362,7 @@ $$\frac{P(M_{self,t+1})}{P(M_{self,t})} \leq 2^{O(S(M_{self,t}))}$$
 
 $$\lim_{t\to\infty} P(M_{self,t}) \subseteq \mathbf{R}$$
 
-其中 $\mathbf{R}$ 是递归可枚举问题集。
+其中 $`\mathbf{R}`$ 是递归可枚举问题集。
 
 哥德尔限制：存在不可判定的自参照语句：
 
@@ -379,10 +379,10 @@ $$\exists \phi \text{ 使得 } M_{self} \text{ 无法判定 } \phi \text{ 的真
 $$\Psi_{bio} = (C_Q^{bio}, C_C^{bio}, \mathcal{C}_{bio}, \mathcal{Q}_{bio})$$
 
 其中：
-- $C_Q^{bio}$ 是生物量子计算组件
-- $C_C^{bio}$ 是生物经典计算组件
-- $\mathcal{C}_{bio}$ 是生物系统的经典化机制
-- $\mathcal{Q}_{bio}$ 是生物系统的量子化机制
+- $`C_Q^{bio}`$ 是生物量子计算组件
+- $`C_C^{bio}`$ 是生物经典计算组件
+- $`\mathcal{C}_{bio}`$ 是生物系统的经典化机制
+- $`\mathcal{Q}_{bio}`$ 是生物系统的量子化机制
 
 ### 神经计算的量子-经典双重性
 
@@ -391,10 +391,10 @@ $$\Psi_{bio} = (C_Q^{bio}, C_C^{bio}, \mathcal{C}_{bio}, \mathcal{Q}_{bio})$$
 $$\Psi_{neural} = \{N_Q, N_C, \mathcal{C}_{syn}, \mathcal{Q}_{syn}\}$$
 
 其中：
-- $N_Q$ 是量子神经动力学
-- $N_C$ 是经典神经动力学
-- $\mathcal{C}_{syn}$ 是突触经典化
-- $\mathcal{Q}_{syn}$ 是突触量子化
+- $`N_Q`$ 是量子神经动力学
+- $`N_C`$ 是经典神经动力学
+- $`\mathcal{C}_{syn}`$ 是突触经典化
+- $`\mathcal{Q}_{syn}`$ 是突触量子化
 
 神经网络计算能力的量子增强：
 
@@ -425,10 +425,10 @@ $$T_{immune}(p) < T_{classical}(p)$$
 $$\mathcal{U} = (C_U, I_U, \mathcal{C}_U, \mathcal{Q}_U)$$
 
 其中：
-- $C_U$ 是宇宙的计算结构
-- $I_U$ 是宇宙的信息内容
-- $\mathcal{C}_U$ 是宇宙的经典化机制
-- $\mathcal{Q}_U$ 是宇宙的量子化机制
+- $`C_U`$ 是宇宙的计算结构
+- $`I_U`$ 是宇宙的信息内容
+- $`\mathcal{C}_U`$ 是宇宙的经典化机制
+- $`\mathcal{Q}_U`$ 是宇宙的量子化机制
 
 ### 宇宙计算复杂性
 
@@ -436,13 +436,13 @@ $$\mathcal{U} = (C_U, I_U, \mathcal{C}_U, \mathcal{Q}_U)$$
 
 $$\mathcal{K}(\mathcal{U}) \leq \frac{E_U \cdot T_U}{\hbar \ln 2}$$
 
-其中 $E_U$ 是宇宙总能量，$T_U$ 是宇宙年龄。
+其中 $`E_U`$ 是宇宙总能量，$`T_U`$ 是宇宙年龄。
 
 计算复杂性的宇宙学意义：
 
 $$P(\mathcal{U}) = \{p | C(p) \leq \mathcal{K}(\mathcal{U})\}$$
 
-其中 $P(\mathcal{U})$ 是宇宙能够解决的问题集，$C(p)$ 是问题 $p$ 的复杂度。
+其中 $`P(\mathcal{U})`$ 是宇宙能够解决的问题集，$`C(p)`$ 是问题 $`p`$ 的复杂度。
 
 ### 宇宙计算的量子-经典转换特性
 
@@ -450,13 +450,13 @@ $$P(\mathcal{U}) = \{p | C(p) \leq \mathcal{K}(\mathcal{U})\}$$
 
 $$\{\text{暗物质, 暗能量, 重子物质, ...}\} = \Phi(\mathcal{C}_U, \mathcal{Q}_U)$$
 
-其中 $\Phi$ 是物理实现函数。
+其中 $`\Phi`$ 是物理实现函数。
 
 宇宙演化作为计算过程：
 
 $$\mathcal{U}_{t+1} = \mathcal{F}(\mathcal{U}_t)$$
 
-其中 $\mathcal{F}$ 是宇宙演化算子。
+其中 $`\mathcal{F}`$ 是宇宙演化算子。
 
 > 注：这一宇宙演化观与[量子引力与时空涌现](formal_theory_gravity_spacetime.md)理论密切相关。
 
@@ -468,7 +468,7 @@ $$\mathcal{U}_{t+1} = \mathcal{F}(\mathcal{U}_t)$$
 
 $$A_{QC} = (A_Q, A_C, \mathcal{C}_{A_Q \to A_C}, \mathcal{Q}_{A_C \to A_Q}, n)$$
 
-其中 $n$ 是量子-经典转换轮数。
+其中 $`n`$ 是量子-经典转换轮数。
 
 混合算法的复杂度：
 
@@ -496,15 +496,15 @@ $$T(A_{QC}) = \sum_{i=1}^{n} [T(A_Q^i) + T(A_C^i) + T(\mathcal{C}^i) + T(\mathca
 $$M_{QC} = (F_Q, F_C, \mathcal{C}_{F_Q \to F_C}, \mathcal{Q}_{F_C \to F_Q}, D)$$
 
 其中：
-- $F_Q$ 是量子特征映射
-- $F_C$ 是经典特征处理
-- $D$ 是训练数据
+- $`F_Q`$ 是量子特征映射
+- $`F_C`$ 是经典特征处理
+- $`D`$ 是训练数据
 
 混合学习的优势：
 
 $$E_{QC}(D) < \min(E_Q(D), E_C(D))$$
 
-其中 $E$ 是学习误差函数。
+其中 $`E`$ 是学习误差函数。
 
 ### 安全加密的量子-经典协议
 
@@ -515,7 +515,7 @@ $$E_{QC}(D) < \min(E_Q(D), E_C(D))$$
 
 2. **量子-经典认证**：
    $$Auth_{QC} = (Auth_Q, Auth_C, \mathcal{V})$$
-   其中 $\mathcal{V}$ 是验证函数。
+   其中 $`\mathcal{V}`$ 是验证函数。
 
 3. **量子增强零知识证明**：
    $$ZKP_{QC} = (P_Q, P_C, V_Q, V_C)$$
@@ -528,9 +528,9 @@ $$E_{QC}(D) < \min(E_Q(D), E_C(D))$$
 现代量子-经典混合神经网络（QC-HNN）实现了量子增强的机器学习能力：
 
 1. **混合架构设计**：
-   - 量子前馈层：$\mathcal{Q}_{FF}(\rho) = U_{\theta}^\dagger \rho U_{\theta}$
-   - 经典反向传播：$\nabla_\theta \mathcal{L} = \mathcal{C}[\frac{\partial \mathcal{L}}{\partial \mathcal{C}(U_{\theta}^\dagger \rho U_{\theta})}]$
-   - 层级耦合方式：$L_i^{QC} = \mathcal{C}_i \circ \mathcal{Q}_i(L_{i-1}^{QC})$
+   - 量子前馈层：$`\mathcal{Q}_{FF}(\rho) = U_{\theta}^\dagger \rho U_{\theta}`$
+   - 经典反向传播：$`\nabla_\theta \mathcal{L} = \mathcal{C}[\frac{\partial \mathcal{L}}{\partial \mathcal{C}(U_{\theta}^\dagger \rho U_{\theta})}]`$
+   - 层级耦合方式：$`L_i^{QC} = \mathcal{C}_i \circ \mathcal{Q}_i(L_{i-1}^{QC})`$
 
 2. **性能对比**：
    - 图像分类准确度：QC-HNN 95.8% vs. 经典CNN 92.7%
@@ -538,9 +538,9 @@ $$E_{QC}(D) < \min(E_Q(D), E_C(D))$$
    - 训练时间：混合方法比纯量子快5.3倍，比纯经典慢1.2倍
 
 3. **优化方法**：
-   - 使用 $\mathcal{K}_{QC}$ 优化的量子-经典界面设计
-   - 层级特定经典化策略：$\mathcal{C}_i = \mathcal{C}_i^{opt}(\mathcal{K}_Q, \mathcal{K}_C, D_{task})$
-   - 非平衡态增强学习：利用 $D_{NEQ}$ 提升学习能力
+   - 使用 $`\mathcal{K}_{QC}`$ 优化的量子-经典界面设计
+   - 层级特定经典化策略：$`\mathcal{C}_i = \mathcal{C}_i^{opt}(\mathcal{K}_Q, \mathcal{K}_C, D_{task})`$
+   - 非平衡态增强学习：利用 $`D_{NEQ}`$ 提升学习能力
 
 这一架构展示了量子-经典混合计算在实际机器学习任务中的优势，实现了理论预期的计算复杂度降低。
 
@@ -549,14 +549,14 @@ $$E_{QC}(D) < \min(E_Q(D), E_C(D))$$
 自指涉计算模型在程序合成系统中的应用：
 
 1. **量子-经典自优化编译器**：
-   - 自指涉结构：$C_{QC} = \{\mathcal{C}_{opt}, \mathcal{Q}_{gen}, \mathcal{E}_{val}, K_{code}\}$
-   - 代码复杂度降低：$C(P_{opt}) < 0.68 \cdot C(P_{orig})$
-   - 自演化特性：$C_{QC}^{(t+1)} = \mathcal{I}(C_{QC}^{(t)})$ 实现逐代性能提升
+   - 自指涉结构：$`C_{QC} = \{\mathcal{C}_{opt}, \mathcal{Q}_{gen}, \mathcal{E}_{val}, K_{code}\}`$
+   - 代码复杂度降低：$`C(P_{opt}) < 0.68 \cdot C(P_{orig})`$
+   - 自演化特性：$`C_{QC}^{(t+1)} = \mathcal{I}(C_{QC}^{(t)})`$ 实现逐代性能提升
 
 2. **不可约复杂度处理能力**：
    - 解决传统编译器无法优化的NP-hard问题：平均提升31%效率
    - 对量子-经典边界问题的识别准确率：87.4%
-   - 创造性解决方案生成：$\mathcal{CR}(C_{QC}) > 0.42$
+   - 创造性解决方案生成：$`\mathcal{CR}(C_{QC}) > 0.42`$
 
 3. **应用案例**：
    - 在Google TensorFlow量子框架中实现12-64倍加速
@@ -570,13 +570,13 @@ $$E_{QC}(D) < \min(E_Q(D), E_C(D))$$
 大规模分布式系统中的量子-经典混合计算实现：
 
 1. **网络拓扑与协议**：
-   - 量子-经典节点混合架构：$\mathcal{N}_{QC} = \{N_Q^i, N_C^j, E_{QC}^{ij}\}$
-   - 非局域量子节点间纠缠分发：效率 $\eta_{E} = 0.78$
-   - 经典节点通信协议：优化延迟 $\Delta t < 3.5$ms
+   - 量子-经典节点混合架构：$`\mathcal{N}_{QC} = \{N_Q^i, N_C^j, E_{QC}^{ij}\}`$
+   - 非局域量子节点间纠缠分发：效率 $`\eta_{E} = 0.78`$
+   - 经典节点通信协议：优化延迟 $`\Delta t < 3.5`$ms
 
 2. **集体计算能力**：
-   - 集体涌现加速：$\frac{T_{collective}}{T_{best}} = 0.23$
-   - 问题规模扩展性：$T(n) \sim n^{1.47}$ vs 经典 $T(n) \sim n^{2.31}$
+   - 集体涌现加速：$`\frac{T_{collective}}{T_{best}} = 0.23`$
+   - 问题规模扩展性：$`T(n) \sim n^{1.47}`$ vs 经典 $`T(n) \sim n^{2.31}`$
    - 容错能力：在25%节点故障情况下保持92%性能
 
 3. **实际部署成果**：

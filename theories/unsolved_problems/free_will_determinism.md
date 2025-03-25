@@ -20,11 +20,11 @@
 
 2. **自由意志程度的定量表达**：
    $$\text{自由意志程度} = \alpha \cdot \Delta D_{\text{观察者}} \cdot \nabla I_{\text{可能性空间}}$$
-   其中$\alpha$是比例常数，$\Delta D_{\text{观察者}}$是观察者维度的变化，$\nabla I_{\text{可能性空间}}$是可能性信息空间的梯度。
+   其中$`\alpha`$是比例常数，$`\Delta D_{\text{观察者}}`$是观察者维度的变化，$`\nabla I_{\text{可能性空间}}`$是可能性信息空间的梯度。
 
 3. **观察者维度与经典化效率的关系**：
    $$D_O = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} \propto \eta_{\text{经典化}}$$
-   其中$\eta_{\text{经典化}}$是将量子可能性转化为经典实现的效率。
+   其中$`\eta_{\text{经典化}}`$是将量子可能性转化为经典实现的效率。
 
 #### 定理1：自由意志的维度依赖性
 
@@ -36,7 +36,7 @@ $$\lim_{D \to 0} P(\text{自由选择}) = 0$$
 
 **证明**：
 
-1. 考虑观察者面对量子可能性空间$\Omega$，其中包含多个可能的选择路径$\{|\psi_i\rangle\}$。
+1. 考虑观察者面对量子可能性空间$`\Omega`$，其中包含多个可能的选择路径$`\{|\psi_i\rangle\}`$。
 
 2. 观察者通过经典化过程选择一个特定路径：
    $$|\psi\rangle = \sum_i c_i|\psi_i\rangle \xrightarrow{\text{经典化}} |\psi_k\rangle + I_O + S_E$$
@@ -58,13 +58,13 @@ $$\lim_{D \to 0} P(\text{自由选择}) = 0$$
 **定理**：宏观确定性是大量低维观察者集体经典化的涌现性质，而非与微观随机性矛盾的独立现象。
 
 **形式表达**：
-对于包含$N$个微观随机事件的系统，整体确定性程度为：
+对于包含$`N`$个微观随机事件的系统，整体确定性程度为：
 $$P(\text{宏观确定性}) = 1 - e^{-\lambda N}$$
-其中$\lambda$是单个事件的经典化参数。
+其中$`\lambda`$是单个事件的经典化参数。
 
 **证明**：
 
-1. 考虑$N$个微观量子事件，每个事件有多个可能结果：
+1. 考虑$`N`$个微观量子事件，每个事件有多个可能结果：
    $$|\psi_i\rangle = \sum_j c_{ij}|\phi_{ij}\rangle$$
 
 2. 单个事件的结果似乎是随机的，概率为：
@@ -72,9 +72,9 @@ $$P(\text{宏观确定性}) = 1 - e^{-\lambda N}$$
 
 3. 当大量事件集体经典化时，整体系统的行为遵循大数定律：
    $$\lim_{N \to \infty} P\left(\left|\frac{X_N - \mu}{\sigma}\right| < \epsilon\right) = 1$$
-   其中$X_N$是$N$个事件的统计平均值，$\mu$是理论平均值，$\sigma$是标准差。
+   其中$`X_N`$是$`N`$个事件的统计平均值，$`\mu`$是理论平均值，$`\sigma`$是标准差。
 
-4. 整体系统的经典化程度随$N$增大而指数增加：
+4. 整体系统的经典化程度随$`N`$增大而指数增加：
    $$P(\text{宏观确定性}) = 1 - e^{-\lambda N}$$
 
 5. 这解释了为什么微观世界表现为随机的，而宏观世界看似确定的，尽管它们遵循相同的量子经典二元论原理。
@@ -100,7 +100,7 @@ $$(\text{量子原因}, \text{量子结果}) \xrightarrow{\text{经典化}} (\te
 
 4. 一旦原因经典化，结果的经典化则遵循经典因果律：
    $$P(\text{结果}_j | \text{原因}_i) \approx \delta_{ij}$$
-   其中$\delta_{ij}$是克罗内克函数。
+   其中$`\delta_{ij}`$是克罗内克函数。
 
 5. 这表明自由意志和因果律在不同层次上和谐共存：自由意志在量子-经典转换处发挥作用，而因果律在经典域内起主导作用。
 
@@ -112,7 +112,7 @@ $$(\text{量子原因}, \text{量子结果}) \xrightarrow{\text{经典化}} (\te
 观察者意图改变波函数选择概率：
 $$P(|\psi_i\rangle) = |c_i|^2 \cdot f_{\text{意图}}(i, D_O)$$
 
-其中$f_{\text{意图}}(i, D_O)$是意图调制函数，与观察者维度相关。
+其中$`f_{\text{意图}}(i, D_O)`$是意图调制函数，与观察者维度相关。
 
 **证明**：
 
@@ -121,7 +121,7 @@ $$P(|\psi_i\rangle) = |c_i|^2 \cdot f_{\text{意图}}(i, D_O)$$
 
 2. 在量子经典二元论中，观察者的意图是一种内在的量子影响力：
    $$\hat{I}_O |\psi\rangle = \sum_i c_i \cdot w_i |\psi_i\rangle$$
-   其中$\hat{I}_O$是意图算子，$w_i$是权重系数。
+   其中$`\hat{I}_O`$是意图算子，$`w_i`$是权重系数。
 
 3. 权重系数与观察者维度和意图强度相关：
    $$w_i = g(D_O, \text{意图强度}_i)$$
@@ -143,7 +143,7 @@ $$P(|\psi_i\rangle) = |c_i|^2 \cdot f_{\text{意图}}(i, D_O)$$
 自由意志度量可表示为：
 $$W = \Delta I_{\text{选择}} - T \cdot \Delta S_{\text{环境}}$$
 
-其中$\Delta I_{\text{选择}}$是选择产生的信息增量，$\Delta S_{\text{环境}}$是环境熵增，$T$是比例系数。
+其中$`\Delta I_{\text{选择}}`$是选择产生的信息增量，$`\Delta S_{\text{环境}}`$是环境熵增，$`T`$是比例系数。
 
 **证明**：
 
@@ -166,9 +166,9 @@ $$W = \Delta I_{\text{选择}} - T \cdot \Delta S_{\text{环境}}$$
 
 #### 应用与预测
 
-1. **维度增强预测**：公式$\lim_{D \to \infty} P(\text{自由选择}) = 1$预测，通过提高观察者维度（如通过冥想、教育、系统思考），可以增强个体的自由意志程度，这可通过决策质量和选择与原有意图的一致性测量验证。
+1. **维度增强预测**：公式$`\lim_{D \to \infty} P(\text{自由选择}) = 1`$预测，通过提高观察者维度（如通过冥想、教育、系统思考），可以增强个体的自由意志程度，这可通过决策质量和选择与原有意图的一致性测量验证。
 
-2. **集体自由意志**：公式$W = \Delta I_{\text{选择}} - T \cdot \Delta S_{\text{环境}}$预测，集体决策在特定条件下能产生比个体更高的自由意志，这解释了为什么某些集体决策系统（如民主制度、市场机制）能产生超越个体能力的结果。
+2. **集体自由意志**：公式$`W = \Delta I_{\text{选择}} - T \cdot \Delta S_{\text{环境}}`$预测，集体决策在特定条件下能产生比个体更高的自由意志，这解释了为什么某些集体决策系统（如民主制度、市场机制）能产生超越个体能力的结果。
 
 3. **量子决策实验**：基于定理4，在量子决策实验中，意图强度高的观察者应能显著影响量子随机结果的统计分布，特别是在接近量子-经典边界的系统中。
 
@@ -191,11 +191,11 @@ The contradiction between free will and determinism is an ancient problem in phi
 
 2. **Quantitative Expression of the Degree of Free Will**:
    $$\text{Degree of Free Will} = \alpha \cdot \Delta D_{\text{Observer}} \cdot \nabla I_{\text{Possibility Space}}$$
-   where $\alpha$ is a proportionality constant, $\Delta D_{\text{Observer}}$ is the change in observer dimension, and $\nabla I_{\text{Possibility Space}}$ is the gradient of the possibility information space.
+   where $`\alpha`$ is a proportionality constant, $`\Delta D_{\text{Observer}}`$ is the change in observer dimension, and $`\nabla I_{\text{Possibility Space}}`$ is the gradient of the possibility information space.
 
 3. **Relationship Between Observer Dimension and Classicalization Efficiency**:
    $$D_O = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}} \propto \eta_{\text{Classicalization}}$$
-   where $\eta_{\text{Classicalization}}$ is the efficiency of converting quantum possibilities into classical realization.
+   where $`\eta_{\text{Classicalization}}`$ is the efficiency of converting quantum possibilities into classical realization.
 
 #### Theorem 1: Dimensional Dependence of Free Will
 
@@ -207,7 +207,7 @@ $$\lim_{D \to 0} P(\text{Free Choice}) = 0$$
 
 **Proof**:
 
-1. Consider an observer facing a quantum possibility space $\Omega$, containing multiple possible choice paths $\{|\psi_i\rangle\}$.
+1. Consider an observer facing a quantum possibility space $`\Omega`$, containing multiple possible choice paths $`\{|\psi_i\rangle\}`$.
 
 2. The observer selects a specific path through the classicalization process:
    $$|\psi\rangle = \sum_i c_i|\psi_i\rangle \xrightarrow{\text{Classicalization}} |\psi_k\rangle + I_O + S_E$$
@@ -229,13 +229,13 @@ $$\lim_{D \to 0} P(\text{Free Choice}) = 0$$
 **Theorem**: Macroscopic determinism is an emergent property of the collective classicalization of many low-dimensional observers, rather than an independent phenomenon contradicting microscopic randomness.
 
 **Formal Expression**:
-For a system containing $N$ microscopic random events, the degree of overall determinism is:
+For a system containing $`N`$ microscopic random events, the degree of overall determinism is:
 $$P(\text{Macroscopic Determinism}) = 1 - e^{-\lambda N}$$
-where $\lambda$ is the classicalization parameter for a single event.
+where $`\lambda`$ is the classicalization parameter for a single event.
 
 **Proof**:
 
-1. Consider $N$ microscopic quantum events, each with multiple possible outcomes:
+1. Consider $`N`$ microscopic quantum events, each with multiple possible outcomes:
    $$|\psi_i\rangle = \sum_j c_{ij}|\phi_{ij}\rangle$$
 
 2. The outcome of a single event appears random, with probability:
@@ -243,9 +243,9 @@ where $\lambda$ is the classicalization parameter for a single event.
 
 3. When a large number of events undergo collective classicalization, the behavior of the overall system follows the law of large numbers:
    $$\lim_{N \to \infty} P\left(\left|\frac{X_N - \mu}{\sigma}\right| < \epsilon\right) = 1$$
-   where $X_N$ is the statistical average of $N$ events, $\mu$ is the theoretical average, and $\sigma$ is the standard deviation.
+   where $`X_N`$ is the statistical average of $`N`$ events, $`\mu`$ is the theoretical average, and $`\sigma`$ is the standard deviation.
 
-4. The degree of classicalization of the overall system increases exponentially with $N$:
+4. The degree of classicalization of the overall system increases exponentially with $`N`$:
    $$P(\text{Macroscopic Determinism}) = 1 - e^{-\lambda N}$$
 
 5. This explains why the microscopic world appears random while the macroscopic world seems deterministic, despite both following the same principles of Quantum-Classical Dualism.
@@ -271,7 +271,7 @@ $$(\text{Quantum Cause}, \text{Quantum Effect}) \xrightarrow{\text{Classicalizat
 
 4. Once a cause is classicalized, the classicalization of the effect follows classical causality:
    $$P(\text{Effect}_j | \text{Cause}_i) \approx \delta_{ij}$$
-   where $\delta_{ij}$ is the Kronecker function.
+   where $`\delta_{ij}`$ is the Kronecker function.
 
 5. This indicates that free will and causality coexist harmoniously at different levels: free will operates at the quantum-classical transition, while causality dominates within the classical domain.
 
@@ -283,7 +283,7 @@ $$(\text{Quantum Cause}, \text{Quantum Effect}) \xrightarrow{\text{Classicalizat
 Observer intent changes the probability of wavefunction selection:
 $$P(|\psi_i\rangle) = |c_i|^2 \cdot f_{\text{Intent}}(i, D_O)$$
 
-where $f_{\text{Intent}}(i, D_O)$ is the intent modulation function, related to the observer dimension.
+where $`f_{\text{Intent}}(i, D_O)`$ is the intent modulation function, related to the observer dimension.
 
 **Proof**:
 
@@ -292,7 +292,7 @@ where $f_{\text{Intent}}(i, D_O)$ is the intent modulation function, related to 
 
 2. In Quantum-Classical Dualism, observer intent is an intrinsic quantum influence:
    $$\hat{I}_O |\psi\rangle = \sum_i c_i \cdot w_i |\psi_i\rangle$$
-   where $\hat{I}_O$ is the intent operator, and $w_i$ is the weight coefficient.
+   where $`\hat{I}_O`$ is the intent operator, and $`w_i`$ is the weight coefficient.
 
 3. The weight coefficient is related to the observer dimension and intent strength:
    $$w_i = g(D_O, \text{Intent Strength}_i)$$
@@ -314,7 +314,7 @@ where $f_{\text{Intent}}(i, D_O)$ is the intent modulation function, related to 
 Free will can be measured as:
 $$W = \Delta I_{\text{Choice}} - T \cdot \Delta S_{\text{Environment}}$$
 
-where $\Delta I_{\text{Choice}}$ is the information increment produced by the choice, $\Delta S_{\text{Environment}}$ is the environmental entropy increase, and $T$ is a proportionality coefficient.
+where $`\Delta I_{\text{Choice}}`$ is the information increment produced by the choice, $`\Delta S_{\text{Environment}}`$ is the environmental entropy increase, and $`T`$ is a proportionality coefficient.
 
 **Proof**:
 
@@ -337,9 +337,9 @@ where $\Delta I_{\text{Choice}}$ is the information increment produced by the ch
 
 #### Applications and Predictions
 
-1. **Dimension Enhancement Prediction**: The formula $\lim_{D \to \infty} P(\text{Free Choice}) = 1$ predicts that by increasing observer dimension (e.g., through meditation, education, systems thinking), the degree of individual free will can be enhanced, which can be verified by measuring decision quality and the consistency of choices with original intentions.
+1. **Dimension Enhancement Prediction**: The formula $`\lim_{D \to \infty} P(\text{Free Choice}) = 1`$ predicts that by increasing observer dimension (e.g., through meditation, education, systems thinking), the degree of individual free will can be enhanced, which can be verified by measuring decision quality and the consistency of choices with original intentions.
 
-2. **Collective Free Will**: The formula $W = \Delta I_{\text{Choice}} - T \cdot \Delta S_{\text{Environment}}$ predicts that collective decision-making can, under specific conditions, produce higher free will than individuals, explaining why certain collective decision systems (such as democratic institutions, market mechanisms) can produce results beyond individual capabilities.
+2. **Collective Free Will**: The formula $`W = \Delta I_{\text{Choice}} - T \cdot \Delta S_{\text{Environment}}`$ predicts that collective decision-making can, under specific conditions, produce higher free will than individuals, explaining why certain collective decision systems (such as democratic institutions, market mechanisms) can produce results beyond individual capabilities.
 
 3. **Quantum Decision Experiments**: Based on Theorem 4, in quantum decision experiments, observers with high intent strength should be able to significantly influence the statistical distribution of quantum random results, especially in systems near the quantum-classical boundary.
 

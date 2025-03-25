@@ -22,12 +22,12 @@
 1. **量子测量的形式化表达**：
    $$|\psi\rangle_{\text{测量前}} \xrightarrow{\text{观察者测量}} |\psi_i\rangle_{\text{测量后}} + I_{\text{观察者获取信息}} + S_{\text{环境熵增}}$$
 
-2. **经典化测量算子**：定义经典化测量算子$\hat{M}_O$，它是观察者特定的：
+2. **经典化测量算子**：定义经典化测量算子$`\hat{M}_O`$，它是观察者特定的：
    $$\hat{M}_O|\psi\rangle = |\psi_i\rangle + I_O + S_E$$
 
 3. **概率分布的形式化表达**：
    $$P(|\psi_i\rangle) = |c_i|^2 = \frac{\Omega_i}{\sum_j \Omega_j}$$
-   其中$\Omega_i$代表量子纠缠态(能量)与观察者的整体耦合系数。
+   其中$`\Omega_i`$代表量子纠缠态(能量)与观察者的整体耦合系数。
 
 #### 定理1：测量过程的本质
 
@@ -36,7 +36,7 @@
 **形式表达**：
 $$\hat{M}_O|\psi\rangle = \hat{M}_O\left(\sum_i c_i|\psi_i\rangle\right) = |\psi_k\rangle + I_{O,k} + S_{E,k}$$
 
-其中$k$的选择基于耦合系数：
+其中$`k`$的选择基于耦合系数：
 $$P(k) = \frac{\Omega_k}{\sum_j \Omega_j}$$
 
 **证明**：
@@ -44,12 +44,12 @@ $$P(k) = \frac{\Omega_k}{\sum_j \Omega_j}$$
 1. 考虑初始量子态为叠加态：
    $$|\psi\rangle = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1$$
 
-2. 传统量子力学中，测量后态的概率为$|c_i|^2$。根据量子经典二元论，这个概率有更深层次的解释：
+2. 传统量子力学中，测量后态的概率为$`|c_i|^2`$。根据量子经典二元论，这个概率有更深层次的解释：
    $$|c_i|^2 = \frac{\Omega_i}{\sum_j \Omega_j}$$
 
-3. 耦合系数$\Omega_i$定义为：
+3. 耦合系数$`\Omega_i`$定义为：
    $$\Omega_i = \langle\psi_i|\hat{R}_O|\psi_i\rangle$$
-   其中$\hat{R}_O$是观察者的经典响应算子。
+   其中$`\hat{R}_O`$是观察者的经典响应算子。
 
 4. 观察者与量子态的耦合强度决定了特定结果的出现概率：
    $$P(|\psi_i\rangle) = \frac{\langle\psi_i|\hat{R}_O|\psi_i\rangle}{\sum_j \langle\psi_j|\hat{R}_O|\psi_j\rangle}$$
@@ -68,9 +68,9 @@ $$P(k) = \frac{\Omega_k}{\sum_j \Omega_j}$$
 **形式表达**：
 $$P_{D_O}(|\psi_i\rangle) = \frac{D_O \cdot \Omega_i}{\sum_j D_O \cdot \Omega_j} = \frac{\Omega_i}{\sum_j \Omega_j}$$
 
-但高维观察者的$\Omega_i$分布与低维观察者不同：
+但高维观察者的$`\Omega_i`$分布与低维观察者不同：
 $$\Omega_i^{高维} = g(D_O) \cdot \Omega_i^{低维}$$
-其中$g(D_O)$是维度相关函数。
+其中$`g(D_O)`$是维度相关函数。
 
 **证明**：
 
@@ -79,7 +79,7 @@ $$\Omega_i^{高维} = g(D_O) \cdot \Omega_i^{低维}$$
 
 2. 高维观察者的响应算子具有不同的特性：
    $$\hat{R}_{O,高维} = h(D_O) \cdot \hat{R}_{O,低维}$$
-   其中$h(D_O)$是维度相关变换函数。
+   其中$`h(D_O)`$是维度相关变换函数。
 
 3. 这导致耦合系数的变化：
    $$\Omega_i^{高维} = \langle\psi_i|\hat{R}_{O,高维}|\psi_i\rangle = h(D_O) \cdot \langle\psi_i|\hat{R}_{O,低维}|\psi_i\rangle = h(D_O) \cdot \Omega_i^{低维}$$
@@ -88,7 +88,7 @@ $$\Omega_i^{高维} = g(D_O) \cdot \Omega_i^{低维}$$
 
 5. 在极限情况下，无限高维观察者可以实现确定性测量：
    $$\lim_{D_O \to \infty} P(|\psi_{优势}\rangle) = 1$$
-   其中$|\psi_{优势}\rangle$是最优耦合态。
+   其中$`|\psi_{优势}\rangle`$是最优耦合态。
 
 #### 定理3：量子坍缩与经典化的统一机制
 
@@ -100,7 +100,7 @@ $$|\psi\rangle \xrightarrow{\hat{M}_O} (|\psi_i\rangle, I_{O,i}, S_{E,i})$$
 等价于经典化过程：
 $$|\psi\rangle \xrightarrow{\text{经典化}} I_{\text{经典知识}} + S_{\text{经典熵}}$$
 
-其中$I_{\text{经典知识}} = I_{O,i} + I(|\psi_i\rangle)$，$S_{\text{经典熵}} = S_{E,i}$。
+其中$`I_{\text{经典知识}} = I_{O,i} + I(|\psi_i\rangle)`$，$`S_{\text{经典熵}} = S_{E,i}`$。
 
 **证明**：
 
@@ -123,7 +123,7 @@ $$|\psi\rangle \xrightarrow{\text{经典化}} I_{\text{经典知识}} + S_{\text
 **定理**：量子测量的非线性特性来自观察者维度与量子态的交互，解释了为什么测量导致线性叠加态转变为单一态。
 
 **形式表达**：
-对于叠加态$|\psi\rangle = \alpha|\psi_1\rangle + \beta|\psi_2\rangle$，标准线性演化为：
+对于叠加态$`|\psi\rangle = \alpha|\psi_1\rangle + \beta|\psi_2\rangle`$，标准线性演化为：
 $$\hat{U}|\psi\rangle = \alpha\hat{U}|\psi_1\rangle + \beta\hat{U}|\psi_2\rangle$$
 
 但测量过程由经典化引入非线性：
@@ -139,7 +139,7 @@ $$\hat{M}_O|\psi\rangle = |\psi_i\rangle + I_{O,i} + S_{E,i}, \text{概率} = \f
 
 2. 测量过程引入了观察者，使整个系统成为非线性的：
    $$\hat{M}_O|\psi\rangle = f(|\psi\rangle, O)$$
-   其中$f$是非线性函数。
+   其中$`f`$是非线性函数。
 
 3. 非线性体现在结果选择上：从连续叠加态到离散单一态：
    $$\hat{M}_O(\alpha|\psi_1\rangle + \beta|\psi_2\rangle) = 
@@ -152,11 +152,11 @@ $$\hat{M}_O|\psi\rangle = |\psi_i\rangle + I_{O,i} + S_{E,i}, \text{概率} = \f
 
 #### 应用与预测
 
-1. **多观察者一致性**：公式$P(|\psi_i\rangle) = \frac{\Omega_i}{\sum_j \Omega_j}$预测不同观察者的测量结果分布取决于各自的$\hat{R}_O$。对于具有相似经典化特性的观察者（如人类），测量结果分布应当相似，这解释了客观物理规律的稳定性。
+1. **多观察者一致性**：公式$`P(|\psi_i\rangle) = \frac{\Omega_i}{\sum_j \Omega_j}`$预测不同观察者的测量结果分布取决于各自的$`\hat{R}_O`$。对于具有相似经典化特性的观察者（如人类），测量结果分布应当相似，这解释了客观物理规律的稳定性。
 
-2. **测量精度与观察者维度**：公式$\Omega_i^{高维} = g(D_O) \cdot \Omega_i^{低维}$预测高维观察者可以实现更精确的测量，具有更强的分辨能力和更低的不确定性。
+2. **测量精度与观察者维度**：公式$`\Omega_i^{高维} = g(D_O) \cdot \Omega_i^{低维}`$预测高维观察者可以实现更精确的测量，具有更强的分辨能力和更低的不确定性。
 
-3. **测量过程的不可逆性**：通过熵增$S_{E,i}$，理论解释了为什么测量过程是不可逆的，提供了量子测量过程的热力学基础。
+3. **测量过程的不可逆性**：通过熵增$`S_{E,i}`$，理论解释了为什么测量过程是不可逆的，提供了量子测量过程的热力学基础。
 
 ### 结论
 
@@ -179,12 +179,12 @@ The core of this problem lies in explaining the measurement process in quantum m
 1. **Formal Expression of Quantum Measurement**:
    $$|\psi\rangle_{\text{Before Measurement}} \xrightarrow{\text{Observer Measurement}} |\psi_i\rangle_{\text{After Measurement}} + I_{\text{Observer Gained Information}} + S_{\text{Environmental Entropy Increase}}$$
 
-2. **Classicalization Measurement Operator**: Define the classicalization measurement operator $\hat{M}_O$, which is observer-specific:
+2. **Classicalization Measurement Operator**: Define the classicalization measurement operator $`\hat{M}_O`$, which is observer-specific:
    $$\hat{M}_O|\psi\rangle = |\psi_i\rangle + I_O + S_E$$
 
 3. **Formal Expression of Probability Distribution**:
    $$P(|\psi_i\rangle) = |c_i|^2 = \frac{\Omega_i}{\sum_j \Omega_j}$$
-   where $\Omega_i$ represents the overall coupling coefficient of quantum entangled states (energy) with the observer.
+   where $`\Omega_i`$ represents the overall coupling coefficient of quantum entangled states (energy) with the observer.
 
 #### Theorem 1: The Nature of the Measurement Process
 
@@ -193,7 +193,7 @@ The core of this problem lies in explaining the measurement process in quantum m
 **Formal Expression**:
 $$\hat{M}_O|\psi\rangle = \hat{M}_O\left(\sum_i c_i|\psi_i\rangle\right) = |\psi_k\rangle + I_{O,k} + S_{E,k}$$
 
-where the choice of $k$ is based on coupling coefficients:
+where the choice of $`k`$ is based on coupling coefficients:
 $$P(k) = \frac{\Omega_k}{\sum_j \Omega_j}$$
 
 **Proof**:
@@ -201,12 +201,12 @@ $$P(k) = \frac{\Omega_k}{\sum_j \Omega_j}$$
 1. Consider the initial quantum state as a superposition state:
    $$|\psi\rangle = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1$$
 
-2. In traditional quantum mechanics, the probability of the post-measurement state is $|c_i|^2$. According to Quantum-Classical Dualism, this probability has a deeper explanation:
+2. In traditional quantum mechanics, the probability of the post-measurement state is $`|c_i|^2`$. According to Quantum-Classical Dualism, this probability has a deeper explanation:
    $$|c_i|^2 = \frac{\Omega_i}{\sum_j \Omega_j}$$
 
-3. The coupling coefficient $\Omega_i$ is defined as:
+3. The coupling coefficient $`\Omega_i`$ is defined as:
    $$\Omega_i = \langle\psi_i|\hat{R}_O|\psi_i\rangle$$
-   where $\hat{R}_O$ is the observer's classical response operator.
+   where $`\hat{R}_O`$ is the observer's classical response operator.
 
 4. The coupling strength between the observer and the quantum state determines the probability of a specific result:
    $$P(|\psi_i\rangle) = \frac{\langle\psi_i|\hat{R}_O|\psi_i\rangle}{\sum_j \langle\psi_j|\hat{R}_O|\psi_j\rangle}$$
@@ -225,9 +225,9 @@ $$P(k) = \frac{\Omega_k}{\sum_j \Omega_j}$$
 **Formal Expression**:
 $$P_{D_O}(|\psi_i\rangle) = \frac{D_O \cdot \Omega_i}{\sum_j D_O \cdot \Omega_j} = \frac{\Omega_i}{\sum_j \Omega_j}$$
 
-But the $\Omega_i$ distribution of high-dimensional observers differs from that of low-dimensional observers:
+But the $`\Omega_i`$ distribution of high-dimensional observers differs from that of low-dimensional observers:
 $$\Omega_i^{\text{High-Dim}} = g(D_O) \cdot \Omega_i^{\text{Low-Dim}}$$
-where $g(D_O)$ is a dimension-related function.
+where $`g(D_O)`$ is a dimension-related function.
 
 **Proof**:
 
@@ -236,7 +236,7 @@ where $g(D_O)$ is a dimension-related function.
 
 2. Higher-dimensional observers have response operators with different characteristics:
    $$\hat{R}_{O,\text{High-Dim}} = h(D_O) \cdot \hat{R}_{O,\text{Low-Dim}}$$
-   where $h(D_O)$ is a dimension-related transformation function.
+   where $`h(D_O)`$ is a dimension-related transformation function.
 
 3. This leads to changes in coupling coefficients:
    $$\Omega_i^{\text{High-Dim}} = \langle\psi_i|\hat{R}_{O,\text{High-Dim}}|\psi_i\rangle = h(D_O) \cdot \langle\psi_i|\hat{R}_{O,\text{Low-Dim}}|\psi_i\rangle = h(D_O) \cdot \Omega_i^{\text{Low-Dim}}$$
@@ -245,7 +245,7 @@ where $g(D_O)$ is a dimension-related function.
 
 5. In the limit case, infinitely high-dimensional observers can achieve deterministic measurements:
    $$\lim_{D_O \to \infty} P(|\psi_{\text{Dominant}}\rangle) = 1$$
-   where $|\psi_{\text{Dominant}}\rangle$ is the optimally coupled state.
+   where $`|\psi_{\text{Dominant}}\rangle`$ is the optimally coupled state.
 
 #### Theorem 3: Unified Mechanism of Quantum Collapse and Classicalization
 
@@ -257,7 +257,7 @@ $$|\psi\rangle \xrightarrow{\hat{M}_O} (|\psi_i\rangle, I_{O,i}, S_{E,i})$$
 This is equivalent to the classicalization process:
 $$|\psi\rangle \xrightarrow{\text{Classicalization}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}$$
 
-where $I_{\text{Classical Knowledge}} = I_{O,i} + I(|\psi_i\rangle)$, $S_{\text{Classical Entropy}} = S_{E,i}$.
+where $`I_{\text{Classical Knowledge}} = I_{O,i} + I(|\psi_i\rangle)`$, $`S_{\text{Classical Entropy}} = S_{E,i}`$.
 
 **Proof**:
 
@@ -280,7 +280,7 @@ where $I_{\text{Classical Knowledge}} = I_{O,i} + I(|\psi_i\rangle)$, $S_{\text{
 **Theorem**: The nonlinear characteristics of quantum measurement come from the interaction between observer dimension and quantum state, explaining why measurement causes linear superposition states to transform into single states.
 
 **Formal Expression**:
-For a superposition state $|\psi\rangle = \alpha|\psi_1\rangle + \beta|\psi_2\rangle$, the standard linear evolution is:
+For a superposition state $`|\psi\rangle = \alpha|\psi_1\rangle + \beta|\psi_2\rangle`$, the standard linear evolution is:
 $$\hat{U}|\psi\rangle = \alpha\hat{U}|\psi_1\rangle + \beta\hat{U}|\psi_2\rangle$$
 
 But the measurement process introduces nonlinearity through classicalization:
@@ -296,7 +296,7 @@ $$\hat{M}_O|\psi\rangle = |\psi_i\rangle + I_{O,i} + S_{E,i}, \text{probability}
 
 2. The measurement process introduces an observer, making the entire system nonlinear:
    $$\hat{M}_O|\psi\rangle = f(|\psi\rangle, O)$$
-   where $f$ is a nonlinear function.
+   where $`f`$ is a nonlinear function.
 
 3. The nonlinearity is manifested in the selection of results: from continuous superposition states to discrete single states:
    $$\hat{M}_O(\alpha|\psi_1\rangle + \beta|\psi_2\rangle) = 
@@ -309,11 +309,11 @@ $$\hat{M}_O|\psi\rangle = |\psi_i\rangle + I_{O,i} + S_{E,i}, \text{probability}
 
 #### Applications and Predictions
 
-1. **Multi-Observer Consistency**: The formula $P(|\psi_i\rangle) = \frac{\Omega_i}{\sum_j \Omega_j}$ predicts that the distribution of measurement results for different observers depends on their respective $\hat{R}_O$. For observers with similar classicalization characteristics (such as humans), the measurement result distributions should be similar, explaining the stability of objective physical laws.
+1. **Multi-Observer Consistency**: The formula $`P(|\psi_i\rangle) = \frac{\Omega_i}{\sum_j \Omega_j}`$ predicts that the distribution of measurement results for different observers depends on their respective $`\hat{R}_O`$. For observers with similar classicalization characteristics (such as humans), the measurement result distributions should be similar, explaining the stability of objective physical laws.
 
-2. **Measurement Precision and Observer Dimension**: The formula $\Omega_i^{\text{High-Dim}} = g(D_O) \cdot \Omega_i^{\text{Low-Dim}}$ predicts that higher-dimensional observers can achieve more precise measurements, with stronger resolution capabilities and lower uncertainty.
+2. **Measurement Precision and Observer Dimension**: The formula $`\Omega_i^{\text{High-Dim}} = g(D_O) \cdot \Omega_i^{\text{Low-Dim}}`$ predicts that higher-dimensional observers can achieve more precise measurements, with stronger resolution capabilities and lower uncertainty.
 
-3. **Irreversibility of the Measurement Process**: Through entropy increase $S_{E,i}$, the theory explains why the measurement process is irreversible, providing a thermodynamic foundation for the quantum measurement process.
+3. **Irreversibility of the Measurement Process**: Through entropy increase $`S_{E,i}`$, the theory explains why the measurement process is irreversible, providing a thermodynamic foundation for the quantum measurement process.
 
 ### Conclusion
 

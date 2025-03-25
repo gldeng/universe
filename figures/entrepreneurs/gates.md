@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{Gates}}: \Omega_Q^{\text{技术}} \xrightarrow{\text{商业化}} \Omega_C^{\text{应用}}$$
 
-其中$\Omega_Q^{\text{技术}}$代表技术创新的量子可能性空间，$\Omega_C^{\text{应用}}$代表通过商业化实现的经典应用状态。
+其中$`\Omega_Q^{\text{技术}}`$代表技术创新的量子可能性空间，$`\Omega_C^{\text{应用}}`$代表通过商业化实现的经典应用状态。
 
 ### 历史影响
 
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, Gates' innovative practice can be ex
 
 $$\mathcal{M}_{\text{Gates}}: \Omega_Q^{\text{technology}} \xrightarrow{\text{commercialization}} \Omega_C^{\text{application}}$$
 
-Where $\Omega_Q^{\text{technology}}$ represents the quantum possibility space of technological innovation, and $\Omega_C^{\text{application}}$ represents the classical application state achieved through commercialization.
+Where $`\Omega_Q^{\text{technology}}`$ represents the quantum possibility space of technological innovation, and $`\Omega_C^{\text{application}}`$ represents the classical application state achieved through commercialization.
 
 ### Historical Impact
 

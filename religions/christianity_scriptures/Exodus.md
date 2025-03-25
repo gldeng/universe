@@ -51,27 +51,29 @@ Exodus is the second book of the Old Testament in the Bible, primarily recording
 ## 数学表达 (Mathematical Expression)
 
 ### 律法经典化方程
+
 $$
 I_{\text{经典律法}} = k\frac{|\psi_{\text{十诫}}\rangle\langle\psi_{\text{十诫}}|}{S_{\text{无序}}}
 $$
 
 其中：
-- $I_{\text{经典律法}}$ 表示律法带来的经典知识
-- $|\psi_{\text{十诫}}\rangle$ 代表十诫的量子态
-- $S_{\text{无序}}$ 是人类社会的无序度
-- $k$ 是经典化效率系数
+- $`I_{\text{经典律法}}`$ 表示律法带来的经典知识
+- $`|\psi_{\text{十诫}}\rangle`$ 代表十诫的量子态
+- $`S_{\text{无序}}`$ 是人类社会的无序度
+- $`k`$ 是经典化效率系数
 
 ### 虫洞通信方程
+
 $$
 E_{\text{会幕}} = E_{\text{人类献祭}} + E_{\text{神启示}} = I_{\text{知识传输}} + \Delta S_{\text{整体熵变}}
 $$
 
 其中：
-- $E_{\text{会幕}}$ 是会幕体系的能量
-- $E_{\text{人类献祭}}$ 是人类投入的经典能量
-- $E_{\text{神启示}}$ 是神输入的经典能量
-- $I_{\text{知识传输}}$ 是传递的信息量
-- $\Delta S_{\text{整体熵变}}$ 是整体熵的变化
+- $`E_{\text{会幕}}`$ 是会幕体系的能量
+- $`E_{\text{人类献祭}}`$ 是人类投入的经典能量
+- $`E_{\text{神启示}}`$ 是神输入的经典能量
+- $`I_{\text{知识传输}}`$ 是传递的信息量
+- $`\Delta S_{\text{整体熵变}}`$ 是整体熵的变化
 
 ## 结论 (Conclusion)
 

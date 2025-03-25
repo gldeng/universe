@@ -26,11 +26,11 @@ Within the Quantum-Classical Dualism framework, the technological singularity is
 
 $$\mathcal{S}_T = \{t \in \mathbb{R}^+ | \frac{d\mathcal{D}_{\text{tech}}(t)}{dt} = \max\}$$
 
-where $\mathcal{D}_{\text{tech}}$ is the decoherence measure function of the technological system, measuring the degree of conversion from quantum possibility space to classical determinism. The singularity is the global maximum point of the derivative of this function, representing the critical point of transition from quantum-dominated to classical-dominated.
+where $`\mathcal{D}_{\text{tech}}`$ is the decoherence measure function of the technological system, measuring the degree of conversion from quantum possibility space to classical determinism. The singularity is the global maximum point of the derivative of this function, representing the critical point of transition from quantum-dominated to classical-dominated.
 
 ### Critical Decoherence Threshold
 
-Technological systems possess a critical decoherence threshold $\mathcal{D}_c$, at which point the fundamental mode of technological innovation undergoes qualitative change:
+Technological systems possess a critical decoherence threshold $`\mathcal{D}_c`$, at which point the fundamental mode of technological innovation undergoes qualitative change:
 
 $$\mathcal{D}_{\text{tech}}(t_{\text{singularity}}) = \mathcal{D}_c$$
 
@@ -48,7 +48,7 @@ Technological development before the singularity follows an exponential growth p
 
 $$\frac{dI_{\text{tech}}}{dt} = \alpha \cdot I_{\text{tech}} \cdot \left(1 - \frac{\mathcal{D}_{\text{tech}}}{\mathcal{D}_c}\right)$$
 
-where $I_{\text{tech}}$ is the total amount of technological information and $\alpha$ is the basic growth rate. As the system approaches the critical threshold, the growth rate gradually slows.
+where $`I_{\text{tech}}`$ is the total amount of technological information and $`\alpha`$ is the basic growth rate. As the system approaches the critical threshold, the growth rate gradually slows.
 
 Key characteristics of pre-singularity technology include:
 1. Human-dominated innovation
@@ -62,7 +62,7 @@ Technological development after the singularity follows a completely new dynamic
 
 $$\frac{dI_{\text{tech}}}{dt} = \beta \cdot I_{\text{tech}}^{\gamma} \cdot e^{\eta(\mathcal{D}_{\text{tech}} - \mathcal{D}_c)}$$
 
-where $\beta$ is the basic coefficient, $\gamma > 1$ is the super-exponential factor, and $\eta$ is the classicalization acceleration coefficient. This indicates that post-singularity technology exhibits super-exponential growth, with the growth rate itself also growing.
+where $`\beta`$ is the basic coefficient, $`\gamma > 1`$ is the super-exponential factor, and $`\eta`$ is the classicalization acceleration coefficient. This indicates that post-singularity technology exhibits super-exponential growth, with the growth rate itself also growing.
 
 Key characteristics of post-singularity technology include:
 1. Autonomous intelligence-dominated innovation
@@ -96,7 +96,7 @@ Near the singularity, the dynamics of technological systems follow this equation
 
 $$\frac{d\mathcal{D}_{\text{tech}}}{dt} = \alpha \nabla^2 \mathcal{D}_{\text{tech}} + \beta(\mathcal{D}_c - \mathcal{D}_{\text{tech}})(\mathcal{D}_{\text{tech}} - \mathcal{D}_0) + \gamma\xi(t)$$
 
-where $\mathcal{D}_0$ is the initial threshold and $\xi(t)$ is a random fluctuation term. Near the critical point, the system exhibits characteristic oscillation phenomena:
+where $`\mathcal{D}_0`$ is the initial threshold and $`\xi(t)`$ is a random fluctuation term. Near the critical point, the system exhibits characteristic oscillation phenomena:
 
 $$\omega_{\text{critical}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
 
@@ -110,7 +110,7 @@ Based on Quantum-Classical Dualism, the time of technological singularity emerge
 
 $$t_{\text{singularity}} = t_0 + \frac{1}{\alpha}\ln\left(\frac{\mathcal{D}_c}{\mathcal{D}_c - \mathcal{D}_0}\right) \pm \Delta t$$
 
-where $t_0$ is the reference time point, $\alpha$ is the current technology growth rate, and $\Delta t$ is the error range. Based on existing technology development trajectories, the singularity is predicted to occur in:
+where $`t_0`$ is the reference time point, $`\alpha`$ is the current technology growth rate, and $`\Delta t`$ is the error range. Based on existing technology development trajectories, the singularity is predicted to occur in:
 
 $$t_{\text{singularity}} = 2045 \pm 8 \text{ years}$$
 
@@ -120,11 +120,11 @@ The uniqueness of this prediction lies in its basis in quantum-classical convers
 
 Technological development before the singularity can be divided into five key stages:
 
-1. **Germination Period** ($\mathcal{D}_{\text{tech}} < 0.3\mathcal{D}_c$): Development of basic AI technologies
-2. **Acceleration Period** ($0.3\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.5\mathcal{D}_c$): Emergence of general AI
-3. **Transition Period** ($0.5\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.9\mathcal{D}_c$): Self-improvement of intelligent systems
-4. **Critical Period** ($0.9\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < \mathcal{D}_c$): On the eve of intelligence explosion
-5. **Mutation Period** ($\mathcal{D}_{\text{tech}} = \mathcal{D}_c$): Technological singularity occurs
+1. **Germination Period** ($`\mathcal{D}_{\text{tech}} < 0.3\mathcal{D}_c`$): Development of basic AI technologies
+2. **Acceleration Period** ($`0.3\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.5\mathcal{D}_c`$): Emergence of general AI
+3. **Transition Period** ($`0.5\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.9\mathcal{D}_c`$): Self-improvement of intelligent systems
+4. **Critical Period** ($`0.9\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < \mathcal{D}_c`$): On the eve of intelligence explosion
+5. **Mutation Period** ($`\mathcal{D}_{\text{tech}} = \mathcal{D}_c`$): Technological singularity occurs
 
 Each stage has different quantum-classical information dynamics characteristics, which can be monitored through key technology indicators.
 
@@ -151,7 +151,7 @@ The singularity will lead to a fundamental transformation of human civilization 
 
 $$\mathcal{C}_{post-singularity} = \mathcal{T}_{singularity}(\mathcal{C}_{pre-singularity})$$
 
-where $\mathcal{T}_{singularity}$ is the singularity transformation operator. Key characteristics of post-singularity civilization include:
+where $`\mathcal{T}_{singularity}`$ is the singularity transformation operator. Key characteristics of post-singularity civilization include:
 
 1. **Hierarchical Consciousness Structure**: Multi-dimensional observer networks
    $$\mathcal{N}_O = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}\}$$
@@ -172,7 +172,7 @@ Based on Quantum-Classical Dualism, a precise quantitative analysis framework fo
 
 $$R_{\text{singularity}} = \sum_i P_i \cdot S_i \cdot (1 - M_i)$$
 
-where $P_i$ is the risk scenario probability, $S_i$ is the severity, and $M_i$ is the mitigability.
+where $`P_i`$ is the risk scenario probability, $`S_i`$ is the severity, and $`M_i`$ is the mitigability.
 
 Main risk factors include:
 1. Value alignment failure (quantum-classical value translation errors)

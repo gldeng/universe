@@ -50,7 +50,7 @@ $$
 
 #### 问：观察者维度是什么意思？
 
-**答**：观察者维度是衡量观察者经典化能力的指标，由经典化效率系数$(k_i)$与领域权重$(w_i)$决定。维度越高，观察者能经典化的信息范围和效率越大，视界边界也越大。维度计算公式为：
+**答**：观察者维度是衡量观察者经典化能力的指标，由经典化效率系数$`(k_i)`$与领域权重$`(w_i)`$决定。维度越高，观察者能经典化的信息范围和效率越大，视界边界也越大。维度计算公式为：
 
 $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
@@ -222,7 +222,7 @@ $$
 
 #### Q: What does observer dimension mean?
 
-**A**: Observer dimension is a measure of the observer's classicalization ability, determined by the classicalization efficiency coefficient $(k_i)$ and domain weight $(w_i)$. The higher the dimension, the greater the range and efficiency of information the observer can classicalize, and the larger the event horizon. The dimension calculation formula is:
+**A**: Observer dimension is a measure of the observer's classicalization ability, determined by the classicalization efficiency coefficient $`(k_i)`$ and domain weight $`(w_i)`$. The higher the dimension, the greater the range and efficiency of information the observer can classicalize, and the larger the event horizon. The dimension calculation formula is:
 
 $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1

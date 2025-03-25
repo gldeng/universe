@@ -40,14 +40,14 @@
 $$\rho_{AB} = \sum_i p_i |\psi_i\rangle_{AB}\langle\psi_i| + \sum_j q_j \rho_A^j \otimes \rho_B^j$$
 
 其中：
-- $|\psi_i\rangle_{AB}$ 表示纠缠型社交关系（强相关性）
-- $\rho_A^j \otimes \rho_B^j$ 表示经典型社交关系（弱相关性）
+- $`|\psi_i\rangle_{AB}`$ 表示纠缠型社交关系（强相关性）
+- $`\rho_A^j \otimes \rho_B^j`$ 表示经典型社交关系（弱相关性）
 
 关系强度可通过量子相关度量化：
 
 $$Q(A,B) = I(A:B) - I_{c}(A:B)$$
 
-其中 $I(A:B)$ 是总互信息，$I_{c}(A:B)$ 是经典互信息，差值代表纯量子关联强度。
+其中 $`I(A:B)`$ 是总互信息，$`I_{c}(A:B)`$ 是经典互信息，差值代表纯量子关联强度。
 
 ### 网络拓扑量子性
 
@@ -57,13 +57,13 @@ $$Q(A,B) = I(A:B) - I_{c}(A:B)$$
 
 $$G_Q = (V, E_Q, \mu)$$
 
-其中 $V$ 是节点集，$E_Q$ 是量子超边集，$\mu$ 是量子权重函数。
+其中 $`V`$ 是节点集，$`E_Q`$ 是量子超边集，$`\mu`$ 是量子权重函数。
 
 2. **波函数演化**：网络结构通过类薛定谔方程演化：
 
 $$i\hbar\frac{\partial|\Psi_G\rangle}{\partial t} = \hat{H}_G|\Psi_G\rangle$$
 
-其中 $\hat{H}_G$ 是网络哈密顿算符，描述各节点间互动能量。
+其中 $`\hat{H}_G`$ 是网络哈密顿算符，描述各节点间互动能量。
 
 ## 量子信息传播动力学
 
@@ -74,10 +74,10 @@ $$i\hbar\frac{\partial|\Psi_G\rangle}{\partial t} = \hat{H}_G|\Psi_G\rangle$$
 $$|\Psi_{\text{info}}\rangle = \sum_{s \in S} \alpha_s |s\rangle \otimes \sum_{n \in N} \beta_{s,n} |n\rangle$$
 
 其中：
-- $|s\rangle$ 是信息状态基矢
-- $|n\rangle$ 是网络节点基矢
-- $\alpha_s$ 代表信息内容振幅
-- $\beta_{s,n}$ 代表信息在节点上的分布概率
+- $`|s\rangle`$ 是信息状态基矢
+- $`|n\rangle`$ 是网络节点基矢
+- $`\alpha_s`$ 代表信息内容振幅
+- $`\beta_{s,n}`$ 代表信息在节点上的分布概率
 
 ### 量子干涉与病毒式传播
 
@@ -89,7 +89,7 @@ $$P(s \text{ 传播到 } n) = \left|\sum_i \alpha_i \beta_{i,n}\right|^2 \neq \s
 
 $$\omega_{\text{信息}} \approx \omega_{\text{网络}}$$
 
-其中 $\omega$ 表示特征频率。当信息内容频率与网络固有频率接近时，会触发共振式传播。
+其中 $`\omega`$ 表示特征频率。当信息内容频率与网络固有频率接近时，会触发共振式传播。
 
 ### 注意力经济学量子模型
 
@@ -101,7 +101,7 @@ $$\sum_i A_i = A_{\text{总}}$$
 
 $$\delta\int_{t_1}^{t_2} L(A_i(t), \dot{A}_i(t), t) dt = 0$$
 
-其中 $L$ 是注意力拉格朗日量，描述用户效用最大化与认知成本最小化的平衡。
+其中 $`L`$ 是注意力拉格朗日量，描述用户效用最大化与认知成本最小化的平衡。
 
 ## 集体意识涌现
 
@@ -112,10 +112,10 @@ $$\delta\int_{t_1}^{t_2} L(A_i(t), \dot{A}_i(t), t) dt = 0$$
 $$|\Psi_{\text{集体}}\rangle = \frac{1}{\sqrt{Z}}\sum_{\{s_i\}} e^{-\beta E(\{s_i\})}|\{s_i\}\rangle$$
 
 其中：
-- $\{s_i\}$ 表示所有可能的集体状态配置
-- $E(\{s_i\})$ 是集体状态能量函数
-- $\beta$ 是社会温度的倒数
-- $Z$ 是配分函数，确保波函数归一化
+- $`\{s_i\}`$ 表示所有可能的集体状态配置
+- $`E(\{s_i\})`$ 是集体状态能量函数
+- $`\beta`$ 是社会温度的倒数
+- $`Z`$ 是配分函数，确保波函数归一化
 
 ### 集体相变与临界现象
 
@@ -139,7 +139,7 @@ $$E(\Psi_{\text{集体}}) = S(\text{Tr}_B(|\Psi_{\text{集体}}\rangle\langle\Ps
 
 $$\frac{d\theta_i}{dt} = \omega_i + K\sum_{j=1}^N A_{ij}\sin(\theta_j - \theta_i)$$
 
-其中 $\theta_i$ 是节点相位，$K$ 是耦合强度，$A_{ij}$ 是邻接矩阵元素。
+其中 $`\theta_i`$ 是节点相位，$`K`$ 是耦合强度，$`A_{ij}`$ 是邻接矩阵元素。
 
 ## 社交网络的测量问题
 
@@ -175,7 +175,7 @@ $$\lim_{t\to\infty} e^{-iHt}\rho e^{iHt} \xrightarrow[\text{频繁观察}]{} \rh
 
 $$C_Q(i) = \sum_{j \neq i} \mathcal{I}_Q(i:j)$$
 
-其中 $\mathcal{I}_Q(i:j)$ 是节点间的量子互信息，包含经典和量子关联。
+其中 $`\mathcal{I}_Q(i:j)`$ 是节点间的量子互信息，包含经典和量子关联。
 
 ### 信息流优化
 
@@ -195,7 +195,7 @@ $$C_Q(i) = \sum_{j \neq i} \mathcal{I}_Q(i:j)$$
 
 $$R_Q = \frac{E(\rho_{\text{网络}})}{D_{\text{结构}}(\rho_{\text{原始}}, \rho_{\text{扰动}})}$$
 
-其中 $E$ 是全局纠缠度，$D_{\text{结构}}$ 是结构距离度量。
+其中 $`E`$ 是全局纠缠度，$`D_{\text{结构}}`$ 是结构距离度量。
 
 ## 社交媒体的量子病理学
 

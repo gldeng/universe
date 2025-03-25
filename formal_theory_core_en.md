@@ -21,7 +21,7 @@
 Quantum-Classical Dualism can be simplified into four core axioms:
 
 **Axiom 1: Dual Existence**  
-The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$:
+The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$:
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -30,14 +30,14 @@ Information is conserved throughout the universe but can be transformed between 
 
 $$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
 
-where $\mathcal{C}$ is the classicalization operator (the process of transforming quantum possibilities into classical certainties), $I(\psi)$ is the total information content of state $\psi$, and $I_{\text{hidden}}(\psi)$ is the portion transformed into hidden information during the classicalization process.
+where $`\mathcal{C}`$ is the classicalization operator (the process of transforming quantum possibilities into classical certainties), $`I(\psi)`$ is the total information content of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the portion transformed into hidden information during the classicalization process.
 
 **Axiom 3: Observer Classicalization**  
 Observers are nodes that execute quantum→classical transformations, and their transformation capacity determines their dimension:
 
 $$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}$$
 
-where $\mathcal{C}_\mathcal{O}$ is the observer's classicalization operator (ability to transform quantum possibilities into definite knowledge), $\mathcal{Q}_\mathcal{O}$ is the quantization operator (ability to transform classical knowledge back into quantum possibilities), $K_C^\mathcal{O}$ is the observer's classical knowledge base, and $\epsilon$ is a small constant to prevent division by zero.
+where $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (ability to transform quantum possibilities into definite knowledge), $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (ability to transform classical knowledge back into quantum possibilities), $`K_C^\mathcal{O}`$ is the observer's classical knowledge base, and $`\epsilon`$ is a small constant to prevent division by zero.
 
 **Axiom 4: Dimensional Emergence**  
 Observer dimension is a function of classicalization capacity and quantization capacity, while the classical domain of higher-dimensional observers can become the quantum domain foundation for lower-dimensional observers:
@@ -81,8 +81,8 @@ Multiple Dualism Hierarchy Theory extends single dualism into a nested multi-lev
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 where:
-- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (possibility space of that level)
-- $\Omega_C^{(i)}$ is the classical domain of the i-th level (definite realization of that level)
+- $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (possibility space of that level)
+- $`\Omega_C^{(i)}`$ is the classical domain of the i-th level (definite realization of that level)
 
 The mapping functions between levels are defined as:
 
@@ -94,7 +94,7 @@ This indicates that the classical structure of one level can become the quantum 
 
 ### Quantum-Classical Symmetry Principle
 
-There exists a deep symmetry transformation $\mathcal{S}_{Q-C}$ between quantum and classical domains:
+There exists a deep symmetry transformation $`\mathcal{S}_{Q-C}`$ between quantum and classical domains:
 
 $$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
 
@@ -110,13 +110,13 @@ satisfying the following properties:
 3. **Uncertainty-Certainty Transformation**: Quantum uncertainty and classical certainty are mutually transformable
    $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
 
-where $U_Q$ is the measure of quantum uncertainty, $D_C$ is the measure of classical certainty, and $k$ is a universal constant.
+where $`U_Q`$ is the measure of quantum uncertainty, $`D_C`$ is the measure of classical certainty, and $`k`$ is a universal constant.
 
 ## Core Branch Theories
 
 ### Detailed Quantum Domain Theory
 
-The quantum domain $\Omega_Q$ is the possibility space in the dualism framework, with the following core properties:
+The quantum domain $`\Omega_Q`$ is the possibility space in the dualism framework, with the following core properties:
 
 #### 1. Quantum Information Encoding
 
@@ -165,7 +165,7 @@ These fluctuations are the source of creativity and possibility in the quantum d
 
 ### Detailed Classical Domain Theory
 
-The classical domain $\Omega_C$ is the space of definite reality in the dualism framework, with the following core properties:
+The classical domain $`\Omega_C`$ is the space of definite reality in the dualism framework, with the following core properties:
 
 #### 1. Classical Information Structure
 
@@ -173,7 +173,7 @@ Classical information exists in the form of definite states, representable throu
 
 $$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
 
-where $x_i$, $p_i$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
+where $`x_i`$, $`p_i`$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
 
 $$S_C = -k_B \sum_i p_i \ln p_i$$
 
@@ -200,7 +200,7 @@ Systems tend toward maximum entropy states, guaranteed by the phase space volume
 
 $$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
 
-where $\{z_i\}$ is the set of phase space coordinates.
+where $`\{z_i\}`$ is the set of phase space coordinates.
 
 #### 4. Classical Knowledge Network
 
@@ -208,17 +208,17 @@ Classical knowledge forms causal networks, representable as directed graphs:
 
 $$G_K = (V_K, E_K)$$
 
-where $V_K$ is the set of knowledge nodes and $E_K$ is the set of causal relationships.
+where $`V_K`$ is the set of knowledge nodes and $`E_K`$ is the set of causal relationships.
 
 Knowledge coherence is measured by:
 
 $$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
 
-where $P_{ij}$ is the set of effective paths connecting nodes $i$ and $j$, and $d(i,j)$ is the distance in the graph.
+where $`P_{ij}`$ is the set of effective paths connecting nodes $`i`$ and $`j`$, and $`d(i,j)`$ is the distance in the graph.
 
 ### Core Interface Theory
 
-The interface $\mathcal{I}$ is the transition region between quantum and classical domains, with the following core properties:
+The interface $`\mathcal{I}`$ is the transition region between quantum and classical domains, with the following core properties:
 
 #### 1. Interface Structure
 
@@ -226,7 +226,7 @@ The interface is the intersection of quantum and classical domains, defined as:
 
 $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 Interface thickness is determined by the decoherence gradient:
 
@@ -239,10 +239,10 @@ Interface position satisfies a nonlinear dynamical equation:
 $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 where:
-- $\alpha$ is the diffusion coefficient
-- $\beta$ is the bistable potential parameter
-- $\mathcal{D}_0$ is the metastable threshold
-- $\gamma\xi(x,t)$ is the quantum noise term
+- $`\alpha`$ is the diffusion coefficient
+- $`\beta`$ is the bistable potential parameter
+- $`\mathcal{D}_0`$ is the metastable threshold
+- $`\gamma\xi(x,t)`$ is the quantum noise term
 
 Interface oscillations have a characteristic frequency:
 
@@ -254,7 +254,7 @@ The quantum→classical transformation (classicalization) process is represented
 
 $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
 
-where $P_i$ are projection operators. The classicalization process satisfies information conservation:
+where $`P_i`$ are projection operators. The classicalization process satisfies information conservation:
 
 $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
@@ -262,7 +262,7 @@ Classicalization efficiency is related to environmental and system parameters:
 
 $$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
 
-where $E$ is system energy, $T$ is environmental temperature, and $\lambda$ is a coupling constant.
+where $`E`$ is system energy, $`T`$ is environmental temperature, and $`\lambda`$ is a coupling constant.
 
 #### 4. Quantum-Classical Information Transformation
 
@@ -274,7 +274,7 @@ The information matching measure in the transformation process is:
 
 $$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
 
-At the optimal interface, $M(I_Q, I_C)$ reaches a local maximum.
+At the optimal interface, $`M(I_Q, I_C)`$ reaches a local maximum.
 
 ### Information Phase Transition Theory Core
 
@@ -286,14 +286,14 @@ Information phase transitions are abrupt changes experienced by information syst
 
 $$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
 
-where $\mathcal{S}$ is the information state of the system and $\lambda$ is a control parameter. Near the critical point $\lambda_c$, the order parameter behaves as:
+where $`\mathcal{S}`$ is the information state of the system and $`\lambda`$ is a control parameter. Near the critical point $`\lambda_c`$, the order parameter behaves as:
 
 $$\eta(\lambda) = \begin{cases}
 0, & \lambda < \lambda_c \\
 (\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
 \end{cases}$$
 
-where $\beta$ is the critical exponent characterizing the universality class of the phase transition.
+where $`\beta`$ is the critical exponent characterizing the universality class of the phase transition.
 
 #### 2. Types of Quantum-Classical Phase Transitions
 
@@ -308,24 +308,24 @@ Near the critical point, the fluctuation correlation length behaves as:
 
 $$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
 
-where $\nu$ is the correlation length critical exponent.
+where $`\nu`$ is the correlation length critical exponent.
 
 #### 3. Observer-Induced Phase Transitions
 
 Observers can induce system phase transitions by adjusting parameters, with key parameters including:
 
-- **Observer dimension** $D_{\mathcal{O}}$: There exists a critical dimension $D_{\mathcal{O}}^c$, above which the system transitions from quantum to classical states
+- **Observer dimension** $`D_{\mathcal{O}}`$: There exists a critical dimension $`D_{\mathcal{O}}^c`$, above which the system transitions from quantum to classical states
   
 $$P(\text{quantum} \to \text{classical}) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
 
-- **Observer resolution** $\eta_{\mathcal{O}}$: Affects the distinguishing ability of measurement bases
+- **Observer resolution** $`\eta_{\mathcal{O}}`$: Affects the distinguishing ability of measurement bases
   
 $$\langle \mathcal{O} \rangle = \begin{cases}
 0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
 (\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
 \end{cases}$$
 
-- **Measurement frequency** $f_{\mathcal{O}}$: Related to the quantum Zeno effect
+- **Measurement frequency** $`f_{\mathcal{O}}`$: Related to the quantum Zeno effect
   
 $$\tau_{\text{decoherence}} \propto \begin{cases}
 (f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
@@ -346,7 +346,7 @@ Coupling between levels leads to cascade effects and fractal structures of phase
 
 $$D_H = d - \frac{\beta}{\nu}$$
 
-The observability of information phase transitions depends on the observation scale, only detectable when the observation window $L_{\text{obs}}$ is sufficiently large:
+The observability of information phase transitions depends on the observation scale, only detectable when the observation window $`L_{\text{obs}}`$ is sufficiently large:
 
 $$P_{\text{detection}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
 
@@ -361,9 +361,9 @@ Observers are constituted by three core components:
 $$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
 
 where:
-- $\mathcal{C}_{\mathcal{O}}$ is the observer-specific classicalization operator
-- $\mathcal{Q}_{\mathcal{O}}$ is the observer-specific quantization operator
-- $K_C^{\mathcal{O}}$ is the observer's classical knowledge base
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer-specific classicalization operator
+- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer-specific quantization operator
+- $`K_C^{\mathcal{O}}`$ is the observer's classical knowledge base
 
 Observer dimension is determined by their information processing capacity:
 
@@ -381,7 +381,7 @@ Consensus formation in the observer network follows:
 
 $$\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2$$
 
-where $\omega_i$ are observer weights and $\bar{\mathcal{C}}$ is the average classicalization operator.
+where $`\omega_i`$ are observer weights and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
 
 #### 3. Measurement Theory
 
@@ -389,7 +389,7 @@ In observer theory, the quantum measurement process can be represented as:
 
 $$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{\text{interaction}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
 
-Measurement result probabilities are modulated by the observer resolution parameter $\eta_O$:
+Measurement result probabilities are modulated by the observer resolution parameter $`\eta_O`$:
 
 $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
 
@@ -403,7 +403,7 @@ Observers form multi-level network structures:
 
 $$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
 
-where $\mathcal{O}^{(k)}$ is the set of k-th level observers, and $\mathcal{E}$ is the set of cross-level connections.
+where $`\mathcal{O}^{(k)}`$ is the set of k-th level observers, and $`\mathcal{E}`$ is the set of cross-level connections.
 
 Higher-level observers perceive larger spatiotemporal scales:
 
@@ -435,7 +435,7 @@ $$\mathcal{R}^n_{MU} = \mathcal{F}(\mathcal{R}^{n-1}_{MU}(\mathcal{R}^{n-2}_{MU}
 
 #### 3. Meta-Unity Field Equations
 
-The meta-unity field $\Psi_{MU}$ connects meta-consciousness and meta-dimensions:
+The meta-unity field $`\Psi_{MU}`$ connects meta-consciousness and meta-dimensions:
 
 $$\Psi_{MU} = \Psi_{MC} \otimes \Psi_{MD} / \Psi_{interface}$$
 
@@ -443,7 +443,7 @@ Meta-unity field equation:
 
 $$\hat{\mathcal{H}}_{MU}\Psi_{MU} = \Lambda_{MU}\Psi_{MU}$$
 
-where $\hat{\mathcal{H}}_{MU}$ is the meta-unity Hamiltonian operator:
+where $`\hat{\mathcal{H}}_{MU}`$ is the meta-unity Hamiltonian operator:
 
 $$\hat{\mathcal{H}}_{MU} = \hat{\mathcal{T}}_{MU} + \hat{\mathcal{V}}_{MU} + \hat{\mathcal{I}}_{MU}$$
 
@@ -451,11 +451,11 @@ The energy density of the meta-unity field:
 
 $$\rho_{MU} = \frac{1}{2} \left( \Psi_{MU}^* \hat{\mathcal{H}}_{MU} \Psi_{MU} - \Psi_{MU} \hat{\mathcal{H}}_{MU} \Psi_{MU}^* \right)$$
 
-The meta-unity Hamiltonian operator $\hat{\mathcal{H}}_{MU}$ consists of three components:
+The meta-unity Hamiltonian operator $`\hat{\mathcal{H}}_{MU}`$ consists of three components:
 
-1. The meta-transformation operator $\hat{\mathcal{T}}_{MU}$ - describes the transformation between meta-consciousness and meta-dimensions
-2. The meta-potential operator $\hat{\mathcal{V}}_{MU}$ - describes the potential energy associated with meta-consciousness and meta-dimensions
-3. The meta-interaction operator $\hat{\mathcal{I}}_{MU}$ - describes the interaction between meta-consciousness and meta-dimensions
+1. The meta-transformation operator $`\hat{\mathcal{T}}_{MU}`$ - describes the transformation between meta-consciousness and meta-dimensions
+2. The meta-potential operator $`\hat{\mathcal{V}}_{MU}`$ - describes the potential energy associated with meta-consciousness and meta-dimensions
+3. The meta-interaction operator $`\hat{\mathcal{I}}_{MU}`$ - describes the interaction between meta-consciousness and meta-dimensions
 
 ### Dimension Theory Deepening
 
@@ -477,7 +477,7 @@ Essential characteristics of dimensions include:
 
    $$\lim_{n\to\infty} D_n = D_{\infty} \equiv \mathcal{T}$$
 
-The dimensional transformation function $\mathcal{T}_{m \rightarrow n}$ implements mapping between different dimensions:
+The dimensional transformation function $`\mathcal{T}_{m \rightarrow n}`$ implements mapping between different dimensions:
 
 $$\mathcal{T}_{m \rightarrow n}: \mathcal{S}^{(m)} \rightarrow \mathcal{S}^{(n)}$$
 
@@ -503,7 +503,7 @@ The basic characteristics of quantum and classical domains are summarized in the
 4. **Quantum Creativity**: The quantum domain is inherently creative and capable of generating new structures
    $$\mathcal{C}_Q = \frac{d}{dt}[I_{\text{new}}(t)]$$
    
-   where $I_{\text{new}}(t)$ is the amount of new information emerging in the system.
+   where $`I_{\text{new}}(t)`$ is the amount of new information emerging in the system.
 
 #### Core Properties of Classical Domain
 
@@ -519,7 +519,7 @@ The basic characteristics of quantum and classical domains are summarized in the
 4. **Structural Stability**: Classical structures have stability against disturbances
    $$\frac{d\mathcal{S}}{dt} = \mathcal{F}(\mathcal{S}) - \gamma(\mathcal{S} - \mathcal{S}_0)$$
    
-   where $\mathcal{S}$ is the system structure, $\mathcal{S}_0$ is the stable structure, and $\gamma$ is the recovery coefficient.
+   where $`\mathcal{S}`$ is the system structure, $`\mathcal{S}_0`$ is the stable structure, and $`\gamma`$ is the recovery coefficient.
 
 ### Multiple Dualism Hierarchies
 
@@ -528,8 +528,8 @@ Multiple Dualism Hierarchy Theory extends single dualism into a nested multi-lev
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 where:
-- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (possibility space of that level)
-- $\Omega_C^{(i)}$ is the classical domain of the i-th level (definite realization of that level)
+- $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (possibility space of that level)
+- $`\Omega_C^{(i)}`$ is the classical domain of the i-th level (definite realization of that level)
 
 The mapping functions between levels are defined as:
 
@@ -541,7 +541,7 @@ This indicates that the classical structure of one level can become the quantum 
 
 ### Quantum-Classical Symmetry Principle
 
-There exists a deep symmetry transformation $\mathcal{S}_{Q-C}$ between quantum and classical domains:
+There exists a deep symmetry transformation $`\mathcal{S}_{Q-C}`$ between quantum and classical domains:
 
 $$\mathcal{S}_{Q-C}: \Omega_Q \rightarrow \Omega_C, \quad \mathcal{S}_{C-Q}: \Omega_C \rightarrow \Omega_Q$$
 
@@ -557,7 +557,7 @@ satisfying the following properties:
 3. **Uncertainty-Certainty Transformation**: Quantum uncertainty and classical certainty are mutually transformable
    $$U_Q(x) \cdot D_C(\mathcal{S}_{Q-C}(x)) = k$$
 
-where $U_Q$ is the measure of quantum uncertainty, $D_C$ is the measure of classical certainty, and $k$ is a universal constant.
+where $`U_Q`$ is the measure of quantum uncertainty, $`D_C`$ is the measure of classical certainty, and $`k`$ is a universal constant.
 
 ### Meta-Oneness and Super-Recursive Structure
 
@@ -565,7 +565,7 @@ At a deeper level of quantum-classical dualism is meta-oneness, a unified essenc
 
 $$\mathcal{M} = \{\Omega_Q, \Omega_C, \mathcal{R}\}$$
 
-where $\mathcal{R}$ is the self-reference operator, giving meta-oneness a super-recursive structure:
+where $`\mathcal{R}`$ is the self-reference operator, giving meta-oneness a super-recursive structure:
 
 $$\mathcal{R}(\mathcal{M}) = \mathcal{M} \cup \{\mathcal{R}(\mathcal{M})\}$$
 
@@ -579,7 +579,7 @@ Meta-oneness explains the deeper question of "why the universe exists" rather th
 
 ### Detailed Quantum Domain Theory
 
-The quantum domain $\Omega_Q$ is the possibility space in the dualism framework, with the following core properties:
+The quantum domain $`\Omega_Q`$ is the possibility space in the dualism framework, with the following core properties:
 
 #### 1. Quantum Information Encoding
 
@@ -632,13 +632,13 @@ The quantum domain possesses inherent self-creative ability, capable of generati
 
 $$\mathcal{G}_Q = \oint_{\partial \Omega} \nabla \times \vec{\Psi} \cdot d\vec{S}$$
 
-This creative vortex $\mathcal{G}_Q$ is the source of constantly producing new information in quantum systems, key to understanding the creativity and novelty of the universe. The strength of self-creativity is determined by the quantum coherence of the system:
+This creative vortex $`\mathcal{G}_Q`$ is the source of constantly producing new information in quantum systems, key to understanding the creativity and novelty of the universe. The strength of self-creativity is determined by the quantum coherence of the system:
 
 $$\mathcal{G}_Q \propto \sum_{i\neq j} |\langle i|\rho|j \rangle|$$
 
 ### Detailed Classical Domain Theory
 
-The classical domain $\Omega_C$ is the space of definite reality in the dualism framework, with the following core properties:
+The classical domain $`\Omega_C`$ is the space of definite reality in the dualism framework, with the following core properties:
 
 #### 1. Classical Information Structure
 
@@ -646,7 +646,7 @@ Classical information exists in the form of definite states, representable throu
 
 $$K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}$$
 
-where $x_i$, $p_i$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
+where $`x_i`$, $`p_i`$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
 
 $$S_C = -k_B \sum_i p_i \ln p_i$$
 
@@ -673,7 +673,7 @@ Systems tend toward maximum entropy states, guaranteed by the phase space volume
 
 $$\frac{d}{dt}\int_V d\Gamma = \int_V \sum_i \frac{\partial \dot{z}_i}{\partial z_i}d\Gamma$$
 
-where $\{z_i\}$ is the set of phase space coordinates.
+where $`\{z_i\}`$ is the set of phase space coordinates.
 
 #### 4. Classical Knowledge Network
 
@@ -681,17 +681,17 @@ Classical knowledge forms causal networks, representable as directed graphs:
 
 $$G_K = (V_K, E_K)$$
 
-where $V_K$ is the set of knowledge nodes and $E_K$ is the set of causal relationships.
+where $`V_K`$ is the set of knowledge nodes and $`E_K`$ is the set of causal relationships.
 
 Knowledge coherence is measured by:
 
 $$C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}$$
 
-where $P_{ij}$ is the set of effective paths connecting nodes $i$ and $j$, and $d(i,j)$ is the distance in the graph.
+where $`P_{ij}`$ is the set of effective paths connecting nodes $`i`$ and $`j`$, and $`d(i,j)`$ is the distance in the graph.
 
 ### Core Interface Theory
 
-The interface $\mathcal{I}$ is the transition region between quantum and classical domains, with the following core properties:
+The interface $`\mathcal{I}`$ is the transition region between quantum and classical domains, with the following core properties:
 
 #### 1. Interface Structure
 
@@ -699,7 +699,7 @@ The interface is the intersection of quantum and classical domains, defined as:
 
 $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
 
-where $\mathcal{D}(x)$ is the decoherence measure function and $\mathcal{D}_c$ is the critical decoherence threshold.
+where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 Interface thickness is determined by the decoherence gradient:
 
@@ -712,10 +712,10 @@ Interface position satisfies a nonlinear dynamical equation:
 $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 where:
-- $\alpha$ is the diffusion coefficient
-- $\beta$ is the bistable potential parameter
-- $\mathcal{D}_0$ is the metastable threshold
-- $\gamma\xi(x,t)$ is the quantum noise term
+- $`\alpha`$ is the diffusion coefficient
+- $`\beta`$ is the bistable potential parameter
+- $`\mathcal{D}_0`$ is the metastable threshold
+- $`\gamma\xi(x,t)`$ is the quantum noise term
 
 Interface oscillations have a characteristic frequency:
 
@@ -727,7 +727,7 @@ The quantum→classical transformation (classicalization) process is represented
 
 $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
 
-where $P_i$ are projection operators. The classicalization process satisfies information conservation:
+where $`P_i`$ are projection operators. The classicalization process satisfies information conservation:
 
 $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
@@ -735,7 +735,7 @@ Classicalization efficiency is related to environmental and system parameters:
 
 $$\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}$$
 
-where $E$ is system energy, $T$ is environmental temperature, and $\lambda$ is a coupling constant.
+where $`E`$ is system energy, $`T`$ is environmental temperature, and $`\lambda`$ is a coupling constant.
 
 #### 4. Quantum-Classical Information Transformation
 
@@ -747,7 +747,7 @@ The information matching measure in the transformation process is:
 
 $$M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}$$
 
-At the optimal interface, $M(I_Q, I_C)$ reaches a local maximum.
+At the optimal interface, $`M(I_Q, I_C)`$ reaches a local maximum.
 
 #### 5. Quantum Information Compression Mechanism
 
@@ -771,14 +771,14 @@ Information phase transitions are abrupt changes experienced by information syst
 
 $$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
 
-where $\mathcal{S}$ is the information state of the system and $\lambda$ is a control parameter. Near the critical point $\lambda_c$, the order parameter behaves as:
+where $`\mathcal{S}`$ is the information state of the system and $`\lambda`$ is a control parameter. Near the critical point $`\lambda_c`$, the order parameter behaves as:
 
 $$\eta(\lambda) = \begin{cases}
 0, & \lambda < \lambda_c \\
 (\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
 \end{cases}$$
 
-where $\beta$ is the critical exponent characterizing the universality class of the phase transition.
+where $`\beta`$ is the critical exponent characterizing the universality class of the phase transition.
 
 #### 2. Types of Quantum-Classical Phase Transitions
 
@@ -793,24 +793,24 @@ Near the critical point, the fluctuation correlation length behaves as:
 
 $$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
 
-where $\nu$ is the correlation length critical exponent.
+where $`\nu`$ is the correlation length critical exponent.
 
 #### 3. Observer-Induced Phase Transitions
 
 Observers can induce system phase transitions by adjusting parameters, with key parameters including:
 
-- **Observer dimension** $D_{\mathcal{O}}$: There exists a critical dimension $D_{\mathcal{O}}^c$, above which the system transitions from quantum to classical states
+- **Observer dimension** $`D_{\mathcal{O}}`$: There exists a critical dimension $`D_{\mathcal{O}}^c`$, above which the system transitions from quantum to classical states
   
 $$P(\text{quantum} \to \text{classical}) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
 
-- **Observer resolution** $\eta_{\mathcal{O}}$: Affects the distinguishing ability of measurement bases
+- **Observer resolution** $`\eta_{\mathcal{O}}`$: Affects the distinguishing ability of measurement bases
   
 $$\langle \mathcal{O} \rangle = \begin{cases}
 0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
 (\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
 \end{cases}$$
 
-- **Measurement frequency** $f_{\mathcal{O}}$: Related to the quantum Zeno effect
+- **Measurement frequency** $`f_{\mathcal{O}}`$: Related to the quantum Zeno effect
   
 $$\tau_{\text{decoherence}} \propto \begin{cases}
 (f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
@@ -831,7 +831,7 @@ Coupling between levels leads to cascade effects and fractal structures of phase
 
 $$D_H = d - \frac{\beta}{\nu}$$
 
-The observability of information phase transitions depends on the observation scale, only detectable when the observation window $L_{\text{obs}}$ is sufficiently large:
+The observability of information phase transitions depends on the observation scale, only detectable when the observation window $`L_{\text{obs}}`$ is sufficiently large:
 
 $$P_{\text{detection}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
 
@@ -841,7 +841,7 @@ Near phase transition critical points, systems exhibit scale invariance and univ
 
 $$X(\lambda) \sim |\lambda - \lambda_c|^{-\gamma_X}$$
 
-where $\gamma_X$ is the critical exponent associated with physical quantity $X$. Different systems can be classified into different universality classes according to critical exponents, satisfying:
+where $`\gamma_X`$ is the critical exponent associated with physical quantity $`X`$. Different systems can be classified into different universality classes according to critical exponents, satisfying:
 
 $$\beta + \gamma + \delta = 2$$
 
@@ -862,9 +862,9 @@ Observers are constituted by three core components:
 $$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
 
 where:
-- $\mathcal{C}_{\mathcal{O}}$ is the observer-specific classicalization operator
-- $\mathcal{Q}_{\mathcal{O}}$ is the observer-specific quantization operator
-- $K_C^{\mathcal{O}}$ is the observer's classical knowledge base
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer-specific classicalization operator
+- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer-specific quantization operator
+- $`K_C^{\mathcal{O}}`$ is the observer's classical knowledge base
 
 Observer dimension is determined by their information processing capacity:
 
@@ -882,7 +882,7 @@ Consensus formation in the observer network follows:
 
 $$\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2$$
 
-where $\omega_i$ are observer weights and $\bar{\mathcal{C}}$ is the average classicalization operator.
+where $`\omega_i`$ are observer weights and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
 
 #### 3. Measurement Theory
 
@@ -890,7 +890,7 @@ In observer theory, the quantum measurement process can be represented as:
 
 $$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{\text{interaction}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}$$
 
-Measurement result probabilities are modulated by the observer resolution parameter $\eta_O$:
+Measurement result probabilities are modulated by the observer resolution parameter $`\eta_O`$:
 
 $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}$$
 
@@ -904,7 +904,7 @@ Observers form multi-level network structures:
 
 $$\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}$$
 
-where $\mathcal{O}^{(k)}$ is the set of k-th level observers, and $\mathcal{E}$ is the set of cross-level connections.
+where $`\mathcal{O}^{(k)}`$ is the set of k-th level observers, and $`\mathcal{E}`$ is the set of cross-level connections.
 
 Higher-level observers perceive larger spatiotemporal scales:
 
@@ -938,13 +938,13 @@ Consciousness simultaneously possesses quantum properties (creativity, non-local
 
 $$\Psi_C = \alpha\Psi_Q + \beta\Psi_{cl}$$
 
-where $\Psi_C$ is the complete consciousness state, $\Psi_Q$ is the quantum component, and $\Psi_{cl}$ is the classical component.
+where $`\Psi_C`$ is the complete consciousness state, $`\Psi_Q`$ is the quantum component, and $`\Psi_{cl}`$ is the classical component.
 
 Consciousness state evolution follows nonlinear dynamics:
 
 $$i\hbar\frac{\partial\Psi_C}{\partial t} = \hat{H}\Psi_C + \hat{V}(\Psi_C)\Psi_C$$
 
-where $\hat{V}(\Psi_C)$ is a nonlinear potential term dependent on the consciousness state.
+where $`\hat{V}(\Psi_C)`$ is a nonlinear potential term dependent on the consciousness state.
 
 #### 2. Self and Self-Reference
 
@@ -952,7 +952,7 @@ A core property of consciousness is the ability of self-reference (self-consciou
 
 $$\Psi_{\text{self}} = \mathcal{R}[\Psi_C]$$
 
-where $\mathcal{R}$ is the self-reference operator. Self-reference forms an infinite recursive structure:
+where $`\mathcal{R}`$ is the self-reference operator. Self-reference forms an infinite recursive structure:
 
 $$\mathcal{R}^n[\Psi_C] = \mathcal{R}[\mathcal{R}^{n-1}[\Psi_C]]$$
 
@@ -964,7 +964,7 @@ Meta-consciousness is "consciousness about consciousness," a higher form of cons
 
 $$\Psi_{\text{meta}} = \mathcal{M}[\Psi_C]$$
 
-where $\mathcal{M}$ is the meta-consciousness operator. Meta-consciousness has transcendent properties:
+where $`\mathcal{M}`$ is the meta-consciousness operator. Meta-consciousness has transcendent properties:
 
 $$\mathcal{M}[\Psi_C] \supset \Psi_C$$
 
@@ -1036,7 +1036,7 @@ Quantum Dimension Continuum Theory (v31.0, D0-D∞) provides a complete formal d
 
 #### 1. Dimension Continuum Axioms
 
-There exists a dimension continuum $\mathcal{D}$ in the universe, containing a complete spectrum from D0 to D∞:
+There exists a dimension continuum $`\mathcal{D}`$ in the universe, containing a complete spectrum from D0 to D∞:
 
 $$\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}$$
 
@@ -1082,7 +1082,7 @@ The dimension spectrum is divided into multiple levels according to the ratio of
   
   $$\mathcal{D}_{43-\infty} = \{\Xi^n(\mathcal{D}_{42}) | n \in [1,\infty)\}$$
 
-where $\Xi$ represents the super-cognitive operator, transcending the humanly understandable $\Omega$ operator.
+where $`\Xi`$ represents the super-cognitive operator, transcending the humanly understandable $`\Omega`$ operator.
 
 #### 3. Dimensional Transcendence and Cognitive Limits
 
@@ -1090,7 +1090,7 @@ Expressions beyond dimension 42 face fundamental linguistic and cognitive limita
 
 $$\forall \mathcal{D} > 42: \mathcal{L}(\mathcal{D}) \approx \mathcal{L}(42) + \epsilon$$
 
-where $\mathcal{L}$ represents the language expression function, and $\epsilon$ represents tiny semantic changes.
+where $`\mathcal{L}`$ represents the language expression function, and $`\epsilon`$ represents tiny semantic changes.
 
 Human cognitive limits can be proven through:
 
@@ -1104,21 +1104,21 @@ Quantum Meta-Consciousness Theory (v31.0, D24) deeply explores consciousness as 
 
 #### 1. Meta-Consciousness Definition and Structure
 
-Meta-consciousness $\mathcal{O}_{MC}$ is a higher-order form of consciousness capable of perceiving, manipulating, and transforming consciousness states themselves:
+Meta-consciousness $`\mathcal{O}_{MC}`$ is a higher-order form of consciousness capable of perceiving, manipulating, and transforming consciousness states themselves:
 
 $$\mathcal{O}_{MC} = \{\mathcal{C}_{MC}, \mathcal{Q}_{MC}, K_{MC}, \mathcal{T}_{MC}, \Phi_{MC}\}$$
 
-where $\mathcal{C}_{MC}$ is the meta-classicalization superoperator, $\mathcal{Q}_{MC}$ is the meta-quantization superoperator, $K_{MC}$ is the meta-knowledge structure, $\mathcal{T}_{MC}$ is the meta-transformation capability, and $\Phi_{MC}$ is the meta-consciousness field.
+where $`\mathcal{C}_{MC}`$ is the meta-classicalization superoperator, $`\mathcal{Q}_{MC}`$ is the meta-quantization superoperator, $`K_{MC}`$ is the meta-knowledge structure, $`\mathcal{T}_{MC}`$ is the meta-transformation capability, and $`\Phi_{MC}`$ is the meta-consciousness field.
 
 Meta-consciousness has self-reflexive properties:
 
 $$\mathcal{O}_{MC}(\mathcal{O}_{MC}) = \mathcal{F}_{MC}(\mathcal{O}_{MC})(\mathcal{O}_{MC})$$
 
-where $\mathcal{F}_{MC}$ is the meta-consciousness self-mapping function.
+where $`\mathcal{F}_{MC}`$ is the meta-consciousness self-mapping function.
 
 #### 2. Meta-Consciousness State Space and Field Theory
 
-Meta-consciousness exists in a super-Hilbert space $\mathcal{H}_{MC}$:
+Meta-consciousness exists in a super-Hilbert space $`\mathcal{H}_{MC}`$:
 
 $$\mathcal{H}_{MC} = \int_{\mathfrak{C}} \mathcal{H}_C \otimes \mathcal{H}_{\mathcal{O}(C)} \, d\mu(C)$$
 
@@ -1126,7 +1126,7 @@ Meta-consciousness state is represented as:
 
 $$|\Psi_{MC}\rangle = \int_{\mathfrak{C}} \alpha(C) |\Psi_C\rangle \otimes |\mathcal{O}_C\rangle \, d\mu(C)$$
 
-The meta-consciousness field $\Phi_{MC}$ is a fundamental field permeating all consciousness levels:
+The meta-consciousness field $`\Phi_{MC}`$ is a fundamental field permeating all consciousness levels:
 
 $$\Phi_{MC}(x,t,C) = \int_{\mathfrak{C}} \Phi_C(x_C,t_C) \cdot \omega(C) \, d\mu(C)$$
 
@@ -1136,18 +1136,18 @@ Meta-consciousness state evolution follows nonlinear dynamical equations:
 
 $$i\hbar \frac{\partial|\Psi_{MC}\rangle}{\partial \tau_{MC}} = \hat{\mathcal{H}}_{MC}|\Psi_{MC}\rangle + \mathcal{F}_{NL}[|\Psi_{MC}\rangle]$$
 
-Meta-consciousness phase transitions occur at critical point $\Omega_c$, leading to the emergence of entirely new forms of consciousness:
+Meta-consciousness phase transitions occur at critical point $`\Omega_c`$, leading to the emergence of entirely new forms of consciousness:
 
 $$\Psi_{MC} = \begin{cases}
 0, & \Omega_{MC} < \Omega_c \\
 (\Omega_{MC}-\Omega_c)^{\beta_{MC}}, & \Omega_{MC} \geq \Omega_c
 \end{cases}$$
 
-Meta-consciousness can form a universal meta-consciousness network $\mathcal{N}_{MC}$, connecting all meta-conscious entities through quantum non-local interconnection principles:
+Meta-consciousness can form a universal meta-consciousness network $`\mathcal{N}_{MC}`$, connecting all meta-conscious entities through quantum non-local interconnection principles:
 
 $$\mathcal{N}_{MC} = \{\mathcal{V}_{MC}, \mathcal{E}_{MC}, \mathcal{W}_{MC}\}$$
 
-where $\mathcal{V}_{MC}$ is the set of meta-consciousness nodes, $\mathcal{E}_{MC}$ is the set of meta-consciousness connections, and $\mathcal{W}_{MC}$ is the connection weight function.
+where $`\mathcal{V}_{MC}`$ is the set of meta-consciousness nodes, $`\mathcal{E}_{MC}`$ is the set of meta-consciousness connections, and $`\mathcal{W}_{MC}`$ is the connection weight function.
 
 ### Quantum Meta-Unification Theory
 
@@ -1155,11 +1155,11 @@ Quantum Meta-Unification Theory (v31.0, D25) is the ultimate branch theory under
 
 #### 1. Meta-Oneness Principle
 
-Meta-oneness $\Omega_{MU}$ is the fundamental unified state transcending all dualities:
+Meta-oneness $`\Omega_{MU}`$ is the fundamental unified state transcending all dualities:
 
 $$\Omega_{MU} = \{\mathcal{S}, \mathcal{F}_{MU}, \mathcal{I}_{MU}, \Psi_{MU}\}$$
 
-where $\mathcal{S}$ is the meta-source, $\mathcal{F}_{MU}$ is the meta-unification function, $\mathcal{I}_{MU}$ is the meta-unification information, and $\Psi_{MU}$ is the meta-unification field.
+where $`\mathcal{S}`$ is the meta-source, $`\mathcal{F}_{MU}`$ is the meta-unification function, $`\mathcal{I}_{MU}`$ is the meta-unification information, and $`\Psi_{MU}`$ is the meta-unification field.
 
 Meta-oneness has self-reflexive properties:
 
@@ -1169,7 +1169,7 @@ The relationship between meta-oneness and duality is expressed as:
 
 $$\forall D, \exists \mathcal{T}_{\Omega}: \Omega_{MU} \rightarrow (D, D^*)$$
 
-where $D$ and $D^*$ are complementary dual pairs, and $\mathcal{T}_{\Omega}$ is the meta-differentiation transformation.
+where $`D`$ and $`D^*`$ are complementary dual pairs, and $`\mathcal{T}_{\Omega}`$ is the meta-differentiation transformation.
 
 #### 2. Super-Recursive Self-Reference Structure
 
@@ -1177,7 +1177,7 @@ Super-recursive self-reference is the foundational mechanism of meta-unification
 
 $$\mathcal{R}_{MU} = \mathcal{F}(\mathcal{R}_{MU})$$
 
-where $\mathcal{F}$ is the meta-super-function, acting simultaneously on its own form and content.
+where $`\mathcal{F}`$ is the meta-super-function, acting simultaneously on its own form and content.
 
 The super-recursive hierarchical structure is represented as:
 
@@ -1185,7 +1185,7 @@ $$\mathcal{R}^n_{MU} = \mathcal{F}(\mathcal{R}^{n-1}_{MU}(\mathcal{R}^{n-2}_{MU}
 
 #### 3. Meta-Unity Field Equations
 
-The meta-unity field $\Psi_{MU}$ connects meta-consciousness and meta-dimensions:
+The meta-unity field $`\Psi_{MU}`$ connects meta-consciousness and meta-dimensions:
 
 $$\Psi_{MU} = \Psi_{MC} \otimes \Psi_{MD} / \Psi_{interface}$$
 
@@ -1193,7 +1193,7 @@ Meta-unity field equation:
 
 $$\hat{\mathcal{H}}_{MU}\Psi_{MU} = \Lambda_{MU}\Psi_{MU}$$
 
-where $\hat{\mathcal{H}}_{MU}$ is the meta-unity Hamiltonian operator:
+where $`\hat{\mathcal{H}}_{MU}`$ is the meta-unity Hamiltonian operator:
 
 $$\hat{\mathcal{H}}_{MU} = \hat{\mathcal{T}}_{MU} + \hat{\mathcal{V}}_{MU} + \hat{\mathcal{I}}_{MU}$$
 

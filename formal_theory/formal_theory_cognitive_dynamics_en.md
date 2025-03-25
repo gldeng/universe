@@ -27,17 +27,17 @@ Cognitive dynamics involves the evolution of an observer's knowledge structures 
 $$K_C^{\mathcal{O}}(t) = \mathcal{F}_{cognitive}(K_C^{\mathcal{O}}(t_0), \mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, I_{input}(t))$$
 
 where:
-- $K_C^{\mathcal{O}}(t)$ is the observer's knowledge state at time $t$
-- $\mathcal{F}_{cognitive}$ is the cognitive update function
-- $\mathcal{C}_{\mathcal{O}}$ is the observer's classicalization operator
-- $\mathcal{Q}_{\mathcal{O}}$ is the observer's quantization operator
-- $I_{input}(t)$ is the information input over time
+- $`K_C^{\mathcal{O}}(t)`$ is the observer's knowledge state at time $`t`$
+- $`\mathcal{F}_{cognitive}`$ is the cognitive update function
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer's classicalization operator
+- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer's quantization operator
+- $`I_{input}(t)`$ is the information input over time
 
 The cognitive efficiency is defined as:
 
 $$\eta_{cognitive} = \frac{\Delta D_{\mathcal{O}}}{\Delta E_{cognitive}}$$
 
-where $\Delta D_{\mathcal{O}}$ is the change in observer dimension and $\Delta E_{cognitive}$ is the cognitive energy expenditure.
+where $`\Delta D_{\mathcal{O}}`$ is the change in observer dimension and $`\Delta E_{cognitive}`$ is the cognitive energy expenditure.
 
 ## Cognitive Structures and Processes
 
@@ -48,18 +48,18 @@ Information integration combines multiple percepts into coherent knowledge struc
 $$I_{integrated} = \mathcal{I}(\{p_i\}_{i=1}^n) \neq \sum_{i=1}^n p_i$$
 
 where:
-- $p_i$ are individual percepts
-- $\mathcal{I}$ is the integration operator (non-linear)
-- $I_{integrated}$ is the integrated information
+- $`p_i`$ are individual percepts
+- $`\mathcal{I}`$ is the integration operator (non-linear)
+- $`I_{integrated}`$ is the integrated information
 
 The integration process utilizes quantum coherence properties:
 
 $$\mathcal{I} = \mathcal{C}_{\mathcal{O}} \circ \mathcal{Q}_{coherence} \circ \mathcal{T}_{pattern}$$
 
 where:
-- $\mathcal{Q}_{coherence}$ establishes quantum coherence between percepts
-- $\mathcal{T}_{pattern}$ identifies patterns across coherent states
-- $\mathcal{C}_{\mathcal{O}}$ classicalizes the resulting pattern structure
+- $`\mathcal{Q}_{coherence}`$ establishes quantum coherence between percepts
+- $`\mathcal{T}_{pattern}`$ identifies patterns across coherent states
+- $`\mathcal{C}_{\mathcal{O}}`$ classicalizes the resulting pattern structure
 
 ### 2. Memory Dynamics
 
@@ -68,8 +68,8 @@ Memory involves both quantum and classical information storage:
 $$M^{\mathcal{O}} = \{M_Q^{\mathcal{O}}, M_C^{\mathcal{O}}\}$$
 
 where:
-- $M_Q^{\mathcal{O}}$ is quantum memory (potentiality states)
-- $M_C^{\mathcal{O}}$ is classical memory (determined knowledge)
+- $`M_Q^{\mathcal{O}}`$ is quantum memory (potentiality states)
+- $`M_C^{\mathcal{O}}`$ is classical memory (determined knowledge)
 
 Memory recall involves a conversion process:
 
@@ -79,7 +79,7 @@ Memory formation follows:
 
 $$\frac{dM^{\mathcal{O}}}{dt} = \alpha \mathcal{F}_{store}(I_{input}, K_C^{\mathcal{O}}, E_{emotional})$$
 
-where $\alpha$ is the memory formation rate coefficient and $E_{emotional}$ is the emotional energy associated with the information.
+where $`\alpha`$ is the memory formation rate coefficient and $`E_{emotional}`$ is the emotional energy associated with the information.
 
 ### 3. Learning and Adaptation
 
@@ -89,7 +89,7 @@ $$\mathcal{C}_{\mathcal{O}}(t) = \mathcal{C}_{\mathcal{O}}(t_0) + \int_{t_0}^{t}
 
 $$\mathcal{Q}_{\mathcal{O}}(t) = \mathcal{Q}_{\mathcal{O}}(t_0) + \int_{t_0}^{t} \mathcal{L}_Q(\tau) d\tau$$
 
-where $\mathcal{L}_C$ and $\mathcal{L}_Q$ are the learning functions for classicalization and quantization respectively.
+where $`\mathcal{L}_C`$ and $`\mathcal{L}_Q`$ are the learning functions for classicalization and quantization respectively.
 
 The learning efficiency is proportional to the dimensional gradient:
 
@@ -103,7 +103,7 @@ Thought processes utilize quantum superposition for parallel processing:
 
 $$|\Psi_{thought}\rangle = \sum_{i} \alpha_i |thought_i\rangle$$
 
-where $|thought_i\rangle$ are potential thought states with amplitude $\alpha_i$.
+where $`|thought_i\rangle`$ are potential thought states with amplitude $`\alpha_i`$.
 
 Decision-making collapses these quantum states:
 
@@ -150,9 +150,9 @@ The theory provides mechanisms for consciousness enhancement:
 $$\Delta D_{\mathcal{O}} = \mathcal{P}_{enhance}(\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}})$$
 
 through:
-- Meditation practices (reducing $S_{cognitive}$)
-- Knowledge integration (increasing $I_{coherent}$)
-- Perceptual training (optimizing $\mathcal{C}_{\mathcal{O}}$)
+- Meditation practices (reducing $`S_{cognitive}`$)
+- Knowledge integration (increasing $`I_{coherent}`$)
+- Perceptual training (optimizing $`\mathcal{C}_{\mathcal{O}}`$)
 
 ### 2. Cognitive Technologies
 
@@ -187,8 +187,8 @@ with cognitive evolution described by:
 $$\frac{d\rho_{cognitive}}{dt} = -\frac{i}{\hbar}[H_{cognitive}, \rho_{cognitive}] + \mathcal{L}_{dissipation}(\rho_{cognitive})$$
 
 where:
-- $H_{cognitive}$ is the cognitive Hamiltonian
-- $\mathcal{L}_{dissipation}$ is the cognitive dissipation superoperator
+- $`H_{cognitive}`$ is the cognitive Hamiltonian
+- $`\mathcal{L}_{dissipation}`$ is the cognitive dissipation superoperator
 
 ## Experimental Implications
 

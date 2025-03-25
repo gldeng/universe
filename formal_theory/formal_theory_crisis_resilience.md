@@ -21,16 +21,16 @@
 
 ### 危机韧性的形式化定义
 
-危机韧性 $\mathcal{R}$ 可形式化定义为：
+危机韧性 $`\mathcal{R}`$ 可形式化定义为：
 
 $$\mathcal{R} = (\mathcal{R}_Q, \mathcal{R}_C, \mathcal{T}_R, \mathcal{A}_R, \mathcal{T}_C)$$
 
 其中：
-- $\mathcal{R}_Q$ 是韧性的量子组分（可能性空间、适应潜力）
-- $\mathcal{R}_C$ 是韧性的经典组分（结构保持、稳定机制）
-- $\mathcal{T}_R$ 是恢复转换过程
-- $\mathcal{A}_R$ 是适应性调整能力
-- $\mathcal{T}_C$ 是危机传播张量
+- $`\mathcal{R}_Q`$ 是韧性的量子组分（可能性空间、适应潜力）
+- $`\mathcal{R}_C`$ 是韧性的经典组分（结构保持、稳定机制）
+- $`\mathcal{T}_R`$ 是恢复转换过程
+- $`\mathcal{A}_R`$ 是适应性调整能力
+- $`\mathcal{T}_C`$ 是危机传播张量
 
 ### 危机韧性核心公理
 
@@ -39,28 +39,28 @@ $$\mathcal{R} = (\mathcal{R}_Q, \mathcal{R}_C, \mathcal{T}_R, \mathcal{A}_R, \ma
 
 $$\mathcal{R} = \mathcal{R}_Q \bowtie \mathcal{R}_C$$
 
-其中 $\bowtie$ 表示量子-经典交互连接。
+其中 $`\bowtie`$ 表示量子-经典交互连接。
 
 **公理2: 信息-结构互动**  
 危机下的韧性表现为系统信息处理与结构保持的动态平衡：
 
 $$\frac{d\mathcal{R}}{dt} = \alpha \cdot \nabla I(\mathcal{S}) - \beta \cdot \Delta S(\mathcal{S})$$
 
-其中 $I(\mathcal{S})$ 是系统信息增量，$S(\mathcal{S})$ 是结构变化量。
+其中 $`I(\mathcal{S})`$ 是系统信息增量，$`S(\mathcal{S})`$ 是结构变化量。
 
 **公理3: 韧性相变临界点**  
 系统韧性在特定参数下可发生相变，形成新的平衡态：
 
 $$\mathcal{R}(\lambda_c + \delta) = \mathcal{T} \cdot \mathcal{R}(\lambda_c - \delta)$$
 
-其中 $\lambda_c$ 是临界参数，$\mathcal{T}$ 是相变算子。
+其中 $`\lambda_c`$ 是临界参数，$`\mathcal{T}`$ 是相变算子。
 
 **公理4: 多尺度耦合原理**  
 不同尺度的韧性机制之间存在耦合关系：
 
 $$\mathcal{R}_{total} = \sum_i \omega_i \cdot \mathcal{R}_i + \sum_{i,j} \gamma_{ij} \cdot \mathcal{R}_i \otimes \mathcal{R}_j$$
 
-其中 $\mathcal{R}_i$ 是不同尺度的韧性，$\omega_i$ 和 $\gamma_{ij}$ 是权重系数。
+其中 $`\mathcal{R}_i`$ 是不同尺度的韧性，$`\omega_i`$ 和 $`\gamma_{ij}`$ 是权重系数。
 
 ## 理论核心内容
 
@@ -70,7 +70,7 @@ $$\mathcal{R}_{total} = \sum_i \omega_i \cdot \mathcal{R}_i + \sum_{i,j} \gamma_
 
 $$|\Psi_R\rangle = \sum_i \alpha_i |r_i\rangle$$
 
-其中 $|r_i\rangle$ 是可能的应对状态基矢，$\alpha_i$ 是复振幅。
+其中 $`|r_i\rangle`$ 是可能的应对状态基矢，$`\alpha_i`$ 是复振幅。
 
 量子应对特性包括：
 1. **叠加态选项**：多种可能响应方案的同时考虑
@@ -82,7 +82,7 @@ $$|\Psi_R\rangle = \sum_i \alpha_i |r_i\rangle$$
 
 $$S(\rho_R) = -\text{Tr}(\rho_R \ln \rho_R) \propto \text{适应潜力}$$
 
-其中 $\rho_R$ 是系统危机响应的密度矩阵。
+其中 $`\rho_R`$ 是系统危机响应的密度矩阵。
 
 ### 经典结构与稳定机制
 
@@ -91,22 +91,22 @@ $$S(\rho_R) = -\text{Tr}(\rho_R \ln \rho_R) \propto \text{适应潜力}$$
 $$\mathcal{R}_C = (I_R, P_R, F_R, C_R)$$
 
 其中：
-- $I_R$ 是关键基础设施（物理和社会）
-- $P_R$ 是核心过程保持机制
-- $F_R$ 是功能备份与冗余
-- $C_R$ 是控制与协调机制
+- $`I_R`$ 是关键基础设施（物理和社会）
+- $`P_R`$ 是核心过程保持机制
+- $`F_R`$ 是功能备份与冗余
+- $`C_R`$ 是控制与协调机制
 
 经典韧性动力学满足：
 
 $$\frac{d\mathcal{R}_C}{dt} = F_C(\mathcal{R}_C, S_{内部}, P_{外部})$$
 
-其中 $S_{内部}$ 是内部结构张量，$P_{外部}$ 是外部压力矢量。
+其中 $`S_{内部}`$ 是内部结构张量，$`P_{外部}`$ 是外部压力矢量。
 
 经典记忆与韧性关系：
 
 $$M_R(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{R}_C(\tau) d\tau$$
 
-其中 $\kappa$ 是记忆衰减核函数。
+其中 $`\kappa`$ 是记忆衰减核函数。
 
 ### 危机信息动力学
 
@@ -114,7 +114,7 @@ $$M_R(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{R}_C(\tau) d\tau$$
 
 $$\frac{dI_{crisis}}{dt} = \alpha_I \nabla^2 I_{crisis} + \beta_I f(I_{crisis}) + \gamma_I \xi(t) + \delta_I S(t)$$
 
-其中 $S(t)$ 是信息源函数，$\xi(t)$ 是噪声函数。
+其中 $`S(t)`$ 是信息源函数，$`\xi(t)`$ 是噪声函数。
 
 信息传播的关键参数：
 1. **透明度系数**：信息的可及性与清晰度
@@ -134,7 +134,7 @@ $$\mathcal{R} \propto \frac{I_{accurate} \cdot I_{timely}}{I_{noise} \cdot I_{mi
 
 $$D(t) = \mathcal{C}(|\Psi_D(t)\rangle) \oplus \Delta D_C(t)$$
 
-其中 $|\Psi_D(t)\rangle$ 是决策量子态，$\mathcal{C}$ 是经典化算子，$\Delta D_C(t)$ 是经典调整。
+其中 $`|\Psi_D(t)\rangle`$ 是决策量子态，$`\mathcal{C}`$ 是经典化算子，$`\Delta D_C(t)`$ 是经典调整。
 
 决策过程的量子特性：
 1. **量子评估**：同时考虑多种情景的概率权重
@@ -146,7 +146,7 @@ $$D(t) = \mathcal{C}(|\Psi_D(t)\rangle) \oplus \Delta D_C(t)$$
 
 $$\frac{d\mathcal{L}}{dt} = \eta \cdot \nabla_{\theta} \mathcal{J}(\theta) + \gamma \cdot \mathcal{E}[\xi_{\mathcal{L}}]$$
 
-其中 $\mathcal{J}(\theta)$ 是学习目标函数，$\eta$ 是学习率，$\xi_{\mathcal{L}}$ 是探索噪声。
+其中 $`\mathcal{J}(\theta)`$ 是学习目标函数，$`\eta`$ 是学习率，$`\xi_{\mathcal{L}}`$ 是探索噪声。
 
 ## 危机韧性的关键现象
 
@@ -156,7 +156,7 @@ $$\frac{d\mathcal{L}}{dt} = \eta \cdot \nabla_{\theta} \mathcal{J}(\theta) + \ga
 
 $$\tau_{recovery} \propto \frac{1}{|\lambda - \lambda_c|^{\nu}}$$
 
-其中 $\tau_{recovery}$ 是恢复时间，$\lambda_c$ 是临界参数，$\nu$ 是临界指数。
+其中 $`\tau_{recovery}`$ 是恢复时间，$`\lambda_c`$ 是临界参数，$`\nu`$ 是临界指数。
 
 早期预警信号指标：
 1. **方差增加**：系统波动性的非线性增长
@@ -168,7 +168,7 @@ $$\tau_{recovery} \propto \frac{1}{|\lambda - \lambda_c|^{\nu}}$$
 
 $$W(t) = \alpha_W \cdot Var[X(t)] + \beta_W \cdot AC_1[X(t)] + \gamma_W \cdot \frac{d}{dt}Skew[X(t)]$$
 
-其中 $X(t)$ 是系统观测变量，$Var$、$AC_1$ 和 $Skew$ 分别是方差、一阶自相关和偏斜度。
+其中 $`X(t)`$ 是系统观测变量，$`Var`$、$`AC_1`$ 和 $`Skew`$ 分别是方差、一阶自相关和偏斜度。
 
 ### 集体行为涌现模式
 
@@ -176,7 +176,7 @@ $$W(t) = \alpha_W \cdot Var[X(t)] + \beta_W \cdot AC_1[X(t)] + \gamma_W \cdot \f
 
 $$\Psi_{collective} = \Phi(\{\psi_i\}, \mathcal{N}, \mathcal{I})$$
 
-其中 $\{\psi_i\}$ 是个体状态集合，$\mathcal{N}$ 是社会网络结构，$\mathcal{I}$ 是信息环境。
+其中 $`\{\psi_i\}`$ 是个体状态集合，$`\mathcal{N}`$ 是社会网络结构，$`\mathcal{I}`$ 是信息环境。
 
 集体行为的主要形式：
 1. **协同涌现**：自发形成的有序合作结构
@@ -188,7 +188,7 @@ $$\Psi_{collective} = \Phi(\{\psi_i\}, \mathcal{N}, \mathcal{I})$$
 
 $$\frac{dB_c}{dt} = \alpha_B \cdot B_c(1-\frac{B_c}{K}) - \beta_B \cdot \frac{B_c^n}{B_c^n + \theta^n} + \gamma_B \cdot \sum_j w_{ij}B_j$$
 
-其中 $B_c$ 是集体行为变量，$K$ 是容量参数，$\theta$ 是阈值参数。
+其中 $`B_c`$ 是集体行为变量，$`K`$ 是容量参数，$`\theta`$ 是阈值参数。
 
 ### 系统重构与转型恢复
 
@@ -196,7 +196,7 @@ $$\frac{dB_c}{dt} = \alpha_B \cdot B_c(1-\frac{B_c}{K}) - \beta_B \cdot \frac{B_
 
 $$\mathcal{S}_{post} = \mathcal{T}(\mathcal{S}_{pre}, \mathcal{P}, \Delta I)$$
 
-其中 $\mathcal{S}_{pre}$ 是危机前系统状态，$\mathcal{P}$ 是扰动，$\Delta I$ 是信息增量，$\mathcal{T}$ 是转换算子。
+其中 $`\mathcal{S}_{pre}`$ 是危机前系统状态，$`\mathcal{P}`$ 是扰动，$`\Delta I`$ 是信息增量，$`\mathcal{T}`$ 是转换算子。
 
 恢复路径的多样性：
 1. **弹性恢复**：回到原有平衡态的能力
@@ -208,7 +208,7 @@ $$\mathcal{S}_{post} = \mathcal{T}(\mathcal{S}_{pre}, \mathcal{P}, \Delta I)$$
 
 $$\Delta S_{struct} = \beta \cdot \Delta E - \alpha \cdot \Delta I$$
 
-其中 $\Delta S_{struct}$ 是结构熵变化，$\Delta E$ 是能量成本，$\Delta I$ 是信息增益。
+其中 $`\Delta S_{struct}`$ 是结构熵变化，$`\Delta E`$ 是能量成本，$`\Delta I`$ 是信息增益。
 
 ## 应用分析
 
@@ -219,16 +219,16 @@ $$\Delta S_{struct} = \beta \cdot \Delta E - \alpha \cdot \Delta I$$
 $$\mathcal{RE} = w_Q \cdot \mathcal{RE}_Q + w_C \cdot \mathcal{RE}_C + w_I \cdot \mathcal{RE}_I$$
 
 其中：
-- $\mathcal{RE}_Q$ 是量子维度评估（适应性、多样性、创新性）
-- $\mathcal{RE}_C$ 是经典维度评估（稳定性、冗余性、连续性）
-- $\mathcal{RE}_I$ 是界面维度评估（信息流通、转换效率）
-- $w_Q$、$w_C$、$w_I$ 是权重系数
+- $`\mathcal{RE}_Q`$ 是量子维度评估（适应性、多样性、创新性）
+- $`\mathcal{RE}_C`$ 是经典维度评估（稳定性、冗余性、连续性）
+- $`\mathcal{RE}_I`$ 是界面维度评估（信息流通、转换效率）
+- $`w_Q`$、$`w_C`$、$`w_I`$ 是权重系数
 
 多尺度韧性集成：
 
 $$\mathcal{R}_{multi} = f(\mathcal{R}_{ind}, \mathcal{R}_{org}, \mathcal{R}_{comm}, \mathcal{R}_{soc}, \mathcal{T}_{scale})$$
 
-其中 $\mathcal{T}_{scale}$ 是尺度转换张量，连接个体、组织、社区和社会尺度的韧性。
+其中 $`\mathcal{T}_{scale}`$ 是尺度转换张量，连接个体、组织、社区和社会尺度的韧性。
 
 ### 韧性增强策略
 
@@ -236,7 +236,7 @@ $$\mathcal{R}_{multi} = f(\mathcal{R}_{ind}, \mathcal{R}_{org}, \mathcal{R}_{com
 
 $$\mathcal{S}_{enhance} = \arg\max_{S \in \mathcal{S}} \{R(\mathcal{S}_Q, \mathcal{S}_C, \mathcal{S}_I) | C(\mathcal{S}) \leq C_{max}\}$$
 
-其中 $R$ 是韧性函数，$C(\mathcal{S})$ 是策略成本，$C_{max}$ 是成本约束。
+其中 $`R`$ 是韧性函数，$`C(\mathcal{S})`$ 是策略成本，$`C_{max}`$ 是成本约束。
 
 关键增强策略：
 1. **量子多样性培育**：增强系统的可能性空间和选项多样性
@@ -248,7 +248,7 @@ $$\mathcal{S}_{enhance} = \arg\max_{S \in \mathcal{S}} \{R(\mathcal{S}_Q, \mathc
 
 $$B_{resilience} = \sum_i w_i \cdot B_i(t) \cdot (1 - e^{-\lambda_i t}) - \sum_j c_j \cdot C_j$$
 
-其中 $B_i(t)$ 是随时间变化的各类效益，$C_j$ 是各类成本。
+其中 $`B_i(t)`$ 是随时间变化的各类效益，$`C_j`$ 是各类成本。
 
 ### 危机韧性伦理框架
 
@@ -257,11 +257,11 @@ $$B_{resilience} = \sum_i w_i \cdot B_i(t) \cdot (1 - e^{-\lambda_i t}) - \sum_j
 $$E_{crisis} = f(J, F, T, C, D)$$
 
 其中：
-- $J$ 是公正性评分 (Justice)
-- $F$ 是公平性评分 (Fairness)
-- $T$ 是透明度评分 (Transparency)
-- $C$ 是关怀评分 (Care)
-- $D$ 是尊严评分 (Dignity)
+- $`J`$ 是公正性评分 (Justice)
+- $`F`$ 是公平性评分 (Fairness)
+- $`T`$ 是透明度评分 (Transparency)
+- $`C`$ 是关怀评分 (Care)
+- $`D`$ 是尊严评分 (Dignity)
 
 伦理张力的动态平衡：
 
@@ -287,7 +287,7 @@ $$\mathcal{R} \subset \mathcal{S}_Q|_{crisis}$$
 
 $$|\Psi_{crisis}\rangle = \alpha_s|S_{stable}\rangle + \alpha_c|S_{chaos}\rangle + \alpha_t|S_{transform}\rangle$$
 
-其中 $|\alpha_s|^2 + |\alpha_c|^2 + |\alpha_t|^2 = 1$，比例随危机演化动态变化。
+其中 $`|\alpha_s|^2 + |\alpha_c|^2 + |\alpha_t|^2 = 1`$，比例随危机演化动态变化。
 
 ### 与观察者网络理论的联系
 
@@ -295,13 +295,13 @@ $$|\Psi_{crisis}\rangle = \alpha_s|S_{stable}\rangle + \alpha_c|S_{chaos}\rangle
 
 $$\mathcal{O}_{net}(C) = \{O_i, L_{ij}, \mathcal{C}_i, \mathcal{I}_{ij}\}|_{crisis}$$
 
-其中 $O_i$ 是观察者节点，$L_{ij}$ 是观察者连接，$\mathcal{C}_i$ 是经典化算子，$\mathcal{I}_{ij}$ 是信息交换。
+其中 $`O_i`$ 是观察者节点，$`L_{ij}`$ 是观察者连接，$`\mathcal{C}_i`$ 是经典化算子，$`\mathcal{I}_{ij}`$ 是信息交换。
 
 观察者维度与危机感知关系：
 
 $$P_{crisis}(O_i) = f(D_{O_i}, \lambda_{crisis}, \gamma_{network})$$
 
-表明观察者维度 $D_{O_i}$ 影响危机感知和处理能力。
+表明观察者维度 $`D_{O_i}`$ 影响危机感知和处理能力。
 
 ### 与相变理论的联系
 
@@ -313,7 +313,7 @@ $$\mathcal{R} \sim \mathcal{PT}|_{socio-technical}$$
 
 $$\frac{d\mathcal{O}}{dt} = -\frac{\delta F[\mathcal{O}]}{\delta \mathcal{O}} + \eta(x,t)$$
 
-其中 $\mathcal{O}$ 是序参量，$F$ 是自由能，$\eta$ 是随机力。
+其中 $`\mathcal{O}`$ 是序参量，$`F`$ 是自由能，$`\eta`$ 是随机力。
 
 ## 未来研究方向
 

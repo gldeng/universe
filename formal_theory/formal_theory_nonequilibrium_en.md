@@ -31,16 +31,16 @@ Nonequilibrium states can be formalized as:
 $$\Psi_{NEQ} = \{\rho_Q, K_C, \Phi_E, \Phi_I\}$$
 
 where:
-- $\rho_Q$ is the density matrix of the quantum part
-- $K_C$ is the knowledge structure of the classical part
-- $\Phi_E$ is the energy flow vector field
-- $\Phi_I$ is the information flow vector field
+- $`\rho_Q`$ is the density matrix of the quantum part
+- $`K_C`$ is the knowledge structure of the classical part
+- $`\Phi_E`$ is the energy flow vector field
+- $`\Phi_I`$ is the information flow vector field
 
 Nonequilibrium measure:
 
 $$D_{NEQ} = \left\|\frac{d\rho}{dt}\right\| + \left\|\frac{dK_C}{dt}\right\|$$
 
-A system is in equilibrium if and only if $D_{NEQ} = 0$.
+A system is in equilibrium if and only if $`D_{NEQ} = 0`$.
 
 ## Nonequilibrium Dynamics Equations
 
@@ -51,10 +51,10 @@ The dynamics of nonequilibrium quantum-classical systems are described by a gene
 $$\frac{d\rho_{total}}{dt} = -\frac{i}{\hbar}[H, \rho_{total}] + \mathcal{L}_{QC}(\rho_{total}) + \Gamma_{in} - \Gamma_{out}$$
 
 where:
-- $[H, \rho_{total}]$ is the unitary evolution within the system
-- $\mathcal{L}_{QC}$ is the quantum-classical coupling superoperator
-- $\Gamma_{in}$ is the contribution from environment input
-- $\Gamma_{out}$ is the contribution to environment output
+- $`[H, \rho_{total}]`$ is the unitary evolution within the system
+- $`\mathcal{L}_{QC}`$ is the quantum-classical coupling superoperator
+- $`\Gamma_{in}`$ is the contribution from environment input
+- $`\Gamma_{out}`$ is the contribution to environment output
 
 ### Multiple Time Scale Analysis
 
@@ -70,7 +70,7 @@ $$\frac{d\rho^{(0)}}{dt} = \mathcal{L}_0\rho^{(0)}$$
 
 $$\frac{d\rho^{(1)}}{dt} = \mathcal{L}_0\rho^{(1)} + \mathcal{L}_1\rho^{(0)}$$
 
-where $\epsilon = \tau_1/\tau_2$ is a small parameter.
+where $`\epsilon = \tau_1/\tau_2`$ is a small parameter.
 
 ### Nonlinear Response Theory
 
@@ -93,8 +93,8 @@ The entropy production rate in nonequilibrium systems can be divided into intern
 $$\frac{dS}{dt} = \Pi_S - \Phi_S$$
 
 where:
-- $\Pi_S \geq 0$ is the internal entropy production rate (always non-negative)
-- $\Phi_S$ is the entropy flow (can be positive or negative)
+- $`\Pi_S \geq 0`$ is the internal entropy production rate (always non-negative)
+- $`\Phi_S`$ is the entropy flow (can be positive or negative)
 
 Steady-state nonequilibrium systems satisfy:
 
@@ -126,7 +126,7 @@ Nonequilibrium state information capacity enhancement factor:
 
 $$\frac{C_{info}^{NEQ}}{C_{info}^{EQ}} = e^{\beta \cdot D_{NEQ}}$$
 
-where $\beta$ is a system characteristic parameter.
+where $`\beta`$ is a system characteristic parameter.
 
 ## Nonequilibrium Phase Transition Phenomena
 
@@ -136,7 +136,7 @@ Far from equilibrium, systems can spontaneously form ordered dissipative structu
 
 $$\nabla^2 \phi + f(\phi, \nabla\phi, \mu) = 0$$
 
-where $\phi$ is an order parameter and $\mu$ is a control parameter.
+where $`\phi`$ is an order parameter and $`\mu`$ is a control parameter.
 
 Critical point characteristics:
 
@@ -154,7 +154,7 @@ $$\xi \sim |\mu-\mu_c|^{-\nu_{QC}}$$
 
 $$\chi \sim |\mu-\mu_c|^{-\gamma_{QC}}$$
 
-where critical exponents $\nu_{QC}$ and $\gamma_{QC}$ differ from those of pure quantum or classical systems:
+where critical exponents $`\nu_{QC}`$ and $`\gamma_{QC}`$ differ from those of pure quantum or classical systems:
 
 $$\nu_{QC} = \alpha\nu_Q + (1-\alpha)\nu_C + \delta\nu_{interaction}$$
 
@@ -164,7 +164,7 @@ Under strong nonequilibrium conditions, quantum fluctuations can stabilize into 
 
 $$n_{particle} \propto \exp\left(-\frac{E_{formation}}{k_BT_{eff}}\right) \cdot D_{NEQ}^{\alpha}$$
 
-where $T_{eff}$ is the effective temperature, influenced by the nonequilibrium degree:
+where $`T_{eff}`$ is the effective temperature, influenced by the nonequilibrium degree:
 
 $$T_{eff} = T_{environment} \cdot (1 + \beta D_{NEQ})$$
 
@@ -176,13 +176,13 @@ External driving enhances classicalization rate:
 
 $$\Gamma_{Q \rightarrow C}^{driven} = \Gamma_{Q \rightarrow C}^{equilibrium} \cdot (1 + \zeta \cdot F_{ext})$$
 
-where $F_{ext}$ is the external driving intensity and $\zeta$ is the response coefficient.
+where $`F_{ext}`$ is the external driving intensity and $`\zeta`$ is the response coefficient.
 
 Classicalization path selection probability:
 
 $$P(path_i) \propto e^{-\beta(W_i - \Delta F_i)}$$
 
-where $W_i$ is the work on path $i$ and $\Delta F_i$ is the free energy change.
+where $`W_i`$ is the work on path $`i`$ and $`\Delta F_i`$ is the free energy change.
 
 ### Quantum Feedback Control of Classicalization
 
@@ -190,13 +190,13 @@ Quantum feedback control can precisely regulate the classicalization process:
 
 $$\mathcal{C}_{feedback}(\rho) = \sum_i M_i(\rho) \rho M_i^{\dagger}(\rho)$$
 
-where $M_i(\rho)$ are state-dependent measurement operators.
+where $`M_i(\rho)`$ are state-dependent measurement operators.
 
 Relationship between feedback gain and classicalization efficiency:
 
 $$\eta_{C} = \eta_{C}^{(0)} \cdot (1 + G_{feedback} \cdot I_{measurement})$$
 
-where $G_{feedback}$ is the feedback gain and $I_{measurement}$ is the measurement information amount.
+where $`G_{feedback}`$ is the feedback gain and $`I_{measurement}`$ is the measurement information amount.
 
 ## Irreversible Processes and Time Arrow
 
@@ -220,7 +220,7 @@ Time directionality measure:
 
 $$D_T = \int dt \: \text{Tr}(\rho(t) \ln \rho(t) - \rho(-t) \ln \rho(-t))$$
 
-For equilibrium systems $D_T = 0$, for nonequilibrium systems $D_T > 0$.
+For equilibrium systems $`D_T = 0`$, for nonequilibrium systems $`D_T > 0`$.
 
 ### Memory Effects and History Dependency
 
@@ -240,7 +240,7 @@ In nonequilibrium quantum-classical systems, fluctuations and dissipation satisf
 
 $$\langle \delta A(t) \delta B(0) \rangle = k_B T \cdot \chi_{AB}(t) + \Delta_{QC}(t)$$
 
-where $\chi_{AB}(t)$ is the response function and $\Delta_{QC}(t)$ is the quantum-classical correction term.
+where $`\chi_{AB}(t)`$ is the response function and $`\Delta_{QC}(t)`$ is the quantum-classical correction term.
 
 ### Fluctuation Enhancement Effect
 
@@ -271,8 +271,8 @@ Life systems can be formalized as special types of nonequilibrium quantum-classi
 $$\Psi_{life} = \{\rho_Q, K_C, \Phi_E, \Phi_I, \mathcal{R}, \mathcal{A}\}$$
 
 with additions:
-- $\mathcal{R}$ represents self-replication capability
-- $\mathcal{A}$ represents autonomous adaptation capability
+- $`\mathcal{R}`$ represents self-replication capability
+- $`\mathcal{A}`$ represents autonomous adaptation capability
 
 ### Quantum-Classical Duality of Life Information Processing
 
@@ -280,7 +280,7 @@ Life information processing simultaneously utilizes quantum and classical mechan
 
 $$I_{processed} = \eta_Q I_Q + \eta_C I_C + \eta_{QC} I_{QC}$$
 
-where $I_{QC}$ is the synergistic information at the quantum-classical interface.
+where $`I_{QC}`$ is the synergistic information at the quantum-classical interface.
 
 Cross-scale information integration:
 
@@ -312,7 +312,7 @@ Innovation measurement metric:
 
 $$I_{innovation} = I_{new} - I_{derivation}$$
 
-where $I_{derivation}$ is the amount of information directly derivable from existing knowledge.
+where $`I_{derivation}`$ is the amount of information directly derivable from existing knowledge.
 
 ### Computational Capability of Nonequilibrium Systems
 
@@ -330,7 +330,7 @@ Formal expression of the artistic creation process:
 
 $$A = \mathcal{C}_{artist}(\Psi_Q) + \epsilon$$
 
-where $\mathcal{C}_{artist}$ is the artist-specific classicalization function and $\epsilon$ is the technical implementation error.
+where $`\mathcal{C}_{artist}`$ is the artist-specific classicalization function and $`\epsilon`$ is the technical implementation error.
 
 Information transfer efficiency of artwork:
 
@@ -346,7 +346,7 @@ Measurement results of nonequilibrium states depend on measurement rate:
 
 $$P(m|\rho_{NEQ}) = \text{Tr}(M_m \rho_{NEQ} M_m^{\dagger}) + \Delta P(\Gamma_{measurement}, D_{NEQ})$$
 
-where $\Delta P$ is the nonequilibrium correction term, related to measurement rate $\Gamma_{measurement}$ and nonequilibrium degree $D_{NEQ}$.
+where $`\Delta P`$ is the nonequilibrium correction term, related to measurement rate $`\Gamma_{measurement}`$ and nonequilibrium degree $`D_{NEQ}`$.
 
 ### Measurement Back-action Enhancement
 
@@ -408,7 +408,7 @@ Predictions for social systems as collective nonequilibrium quantum-classical st
 
 3. **Collective Memory Effects**:
    $$M_{collective}(t) \sim e^{-(t/\tau_{mem})^{\beta}}$$
-   where $\beta < 1$ exhibits slow decay characteristics.
+   where $`\beta < 1`$ exhibits slow decay characteristics.
 
 ---
 

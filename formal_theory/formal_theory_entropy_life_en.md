@@ -26,12 +26,12 @@ Within the dualistic framework, living systems can be precisely defined through 
 $$\mathcal{L} = \{S, \nabla S, \Phi_E, \Phi_I, \mathcal{C}_L, \mathcal{Q}_L\}$$
 
 Where:
-- $S$ is system entropy
-- $\nabla S$ is entropy gradient (negative entropy structure)
-- $\Phi_E$ is energy flow
-- $\Phi_I$ is information flow
-- $\mathcal{C}_L$ is the unique classicalization operator of living systems
-- $\mathcal{Q}_L$ is the unique quantization operator of living systems
+- $`S`$ is system entropy
+- $`\nabla S`$ is entropy gradient (negative entropy structure)
+- $`\Phi_E`$ is energy flow
+- $`\Phi_I`$ is information flow
+- $`\mathcal{C}_L`$ is the unique classicalization operator of living systems
+- $`\mathcal{Q}_L`$ is the unique quantization operator of living systems
 
 Living systems satisfy the following entropy dynamic conditions:
 
@@ -53,7 +53,7 @@ $$\frac{dS_{exchange}}{dt} = -\oint_{\partial V} \frac{\vec{J}_S \cdot \vec{n}}{
 
 $$\frac{dS_{production}}{dt} = \int_V \sigma_S dV > 0$$
 
-The characteristic of living systems is their ability to significantly reduce the endogenous entropy rate through information processing ($\Phi_I$) and to export entropy to the environment through metabolic activities.
+The characteristic of living systems is their ability to significantly reduce the endogenous entropy rate through information processing ($`\Phi_I`$) and to export entropy to the environment through metabolic activities.
 
 ### Maintenance of Negative Entropy Structures
 
@@ -65,7 +65,7 @@ This indicates that the ability of living systems to convert information flow in
 
 $$\mathcal{C}_L \leq \frac{\Phi_E \cdot \eta_{conversion}}{I_{\text{min}}}$$
 
-Where $\eta_{conversion}$ is the energy-information conversion efficiency, and $I_{\text{min}}$ is the minimum information required to maintain life.
+Where $`\eta_{conversion}`$ is the energy-information conversion efficiency, and $`I_{\text{min}}`$ is the minimum information required to maintain life.
 
 ## Information Flow in Living Systems
 
@@ -75,13 +75,13 @@ Living systems form multi-scale information networks, which can be represented a
 
 $$\mathcal{N}_{\text{life}} = \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_n, \mathcal{L}_{level}\}$$
 
-Where $\mathcal{N}_i$ is the information network at the i-th level (such as molecules, cells, tissues, etc.), and $\mathcal{L}_{level}$ represents the connections between levels.
+Where $`\mathcal{N}_i`$ is the information network at the i-th level (such as molecules, cells, tissues, etc.), and $`\mathcal{L}_{level}`$ represents the connections between levels.
 
 The information flow between different network levels follows:
 
 $$\Phi_I^{i \rightarrow i+1} = \mathcal{T}_{i,i+1} \cdot \Phi_I^i$$
 
-Where $\mathcal{T}_{i,i+1}$ is the information conversion operator between levels.
+Where $`\mathcal{T}_{i,i+1}`$ is the information conversion operator between levels.
 
 ### Coupling of Information Flow and Energy Flow
 
@@ -89,7 +89,7 @@ There exists tight coupling between information flow and energy flow in living s
 
 $$\Phi_I \propto \Phi_E \cdot \eta_{I-E}(S, T, \nabla\mu)$$
 
-The coupling efficiency $\eta_{I-E}$ is influenced by entropy, temperature, and chemical potential gradients. Information-energy conversion satisfies a generalized uncertainty relation:
+The coupling efficiency $`\eta_{I-E}`$ is influenced by entropy, temperature, and chemical potential gradients. Information-energy conversion satisfies a generalized uncertainty relation:
 
 $$\Delta I \cdot \Delta E \geq k_B T \ln 2$$
 
@@ -155,7 +155,7 @@ Life may have originated from self-organization in non-equilibrium systems:
 
 $$\frac{dS}{dt} = \frac{d_iS}{dt} + \frac{d_eS}{dt}$$
 
-Where $\frac{d_iS}{dt}$ is internal entropy production, and $\frac{d_eS}{dt}$ is entropy exchange. Self-organized structures can emerge when the system is far from equilibrium and $\frac{d_eS}{dt} < 0$ is sufficiently large.
+Where $`\frac{d_iS}{dt}`$ is internal entropy production, and $`\frac{d_eS}{dt}`$ is entropy exchange. Self-organized structures can emerge when the system is far from equilibrium and $`\frac{d_eS}{dt} < 0`$ is sufficiently large.
 
 ### Quantum Fluctuation Mechanism for Information Creation
 
@@ -163,7 +163,7 @@ The quantum mechanism for prebiotic information creation can be represented as:
 
 $$P(I_{\text{new}}) \propto e^{-\beta \Delta F} \cdot f(\mathcal{Q}_{\text{environment}})$$
 
-Where $\Delta F$ is the free energy change, and $f(\mathcal{Q}_{\text{environment}})$ is the environmental quantization characteristic function. This indicates that quantum fluctuations in the environment can promote random information creation.
+Where $`\Delta F`$ is the free energy change, and $`f(\mathcal{Q}_{\text{environment}})`$ is the environmental quantization characteristic function. This indicates that quantum fluctuations in the environment can promote random information creation.
 
 ### Information-Matter-Energy Triple Coupling
 
@@ -175,7 +175,7 @@ The relationship between coupling strength and entropy production rate:
 
 $$\sigma = \frac{1}{T}\left(\vec{J}_I \cdot \vec{X}_I + \vec{J}_M \cdot \vec{X}_M + \vec{J}_E \cdot \vec{X}_E\right)$$
 
-Where $\vec{J}$ is flux and $\vec{X}$ is thermodynamic force. The condition for the origin of life may be when triple coupling reaches a critical value:
+Where $`\vec{J}`$ is flux and $`\vec{X}`$ is thermodynamic force. The condition for the origin of life may be when triple coupling reaches a critical value:
 
 $$\lambda_{I-M-E} > \lambda_c$$
 
@@ -216,7 +216,7 @@ Biological evolution can be understood as an information entropy optimization pr
 
 $$\frac{dI}{dt} = \mu \cdot \nabla_I F + \sigma \cdot \eta(t)$$
 
-Where $\mu$ is the migration rate, $F$ is fitness, $\sigma$ is noise intensity, and $\eta(t)$ is random noise.
+Where $`\mu`$ is the migration rate, $`F`$ is fitness, $`\sigma`$ is noise intensity, and $`\eta(t)`$ is random noise.
 
 ### Complexity Levels in Life
 
@@ -224,7 +224,7 @@ Life complexity can be quantified through information organization levels:
 
 $$C_L = \sum_{i=1}^n w_i H_i - \sum_{i,j} I(H_i; H_j)$$
 
-Where $H_i$ is the information entropy at the i-th level, and $I(H_i; H_j)$ is the mutual information between levels.
+Where $`H_i`$ is the information entropy at the i-th level, and $`I(H_i; H_j)`$ is the mutual information between levels.
 
 ### Entropic Basis of Diversity
 
@@ -242,7 +242,7 @@ From a dualistic perspective, living systems may have a purpose in terms of entr
 
 $$\Delta S_{total} = \Delta S_{life} + \Delta S_{environment} + \Delta S_{universe}$$
 
-Where $\Delta S_{life} < 0$, indicating that life activities may play a special role in the entropic evolution of the universe.
+Where $`\Delta S_{life} < 0`$, indicating that life activities may play a special role in the entropic evolution of the universe.
 
 ### Information-Matter-Consciousness Relationship
 

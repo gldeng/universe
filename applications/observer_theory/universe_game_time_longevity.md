@@ -32,9 +32,9 @@ t_{\text{主观}} = \frac{t_{\text{物理}}}{η_{\text{经典化效率}}}
 $$
 
 其中：
-- $t_{\text{主观}}$ 是观察者体验到的主观时间
-- $t_{\text{物理}}$ 是客观物理时间
-- $η_{\text{经典化效率}}$ 是观察者的经典化效率
+- $`t_{\text{主观}}`$ 是观察者体验到的主观时间
+- $`t_{\text{物理}}`$ 是客观物理时间
+- $`η_{\text{经典化效率}}`$ 是观察者的经典化效率
 
 这一关系揭示了几个重要现象：
 
@@ -101,7 +101,7 @@ $$
 t_{\text{中等经典化}} = \alpha t_{\text{当下体验}} + \beta t_{\text{线性概念}}
 $$
 
-其中 $\alpha + \beta = 1$，表示两种时间概念的权重。
+其中 $`\alpha + \beta = 1`$，表示两种时间概念的权重。
 
 3. **高经典化观察者**（如科学家、修行者）：
    - 能够抽象理解时间概念
@@ -163,7 +163,7 @@ $$
 \text{体验总量} = \int_{0}^{T} I_{\text{经典化信息量}}(t) dt
 $$
 
-其中 $T$ 是总寿命。
+其中 $`T`$ 是总寿命。
 
 3. **长寿且高质量体验**（理想状态）：
    - 低熵产生率
@@ -238,9 +238,9 @@ t_{\text{Subjective}} = \frac{t_{\text{Physical}}}{η_{\text{Classicalization Ef
 $$
 
 Where:
-- $t_{\text{Subjective}}$ is the subjective time experienced by the observer
-- $t_{\text{Physical}}$ is the objective physical time
-- $η_{\text{Classicalization Efficiency}}$ is the observer's classicalization efficiency
+- $`t_{\text{Subjective}}`$ is the subjective time experienced by the observer
+- $`t_{\text{Physical}}`$ is the objective physical time
+- $`η_{\text{Classicalization Efficiency}}`$ is the observer's classicalization efficiency
 
 This relationship reveals several important phenomena:
 
@@ -307,7 +307,7 @@ $$
 t_{\text{Medium Classicalization}} = \alpha t_{\text{Present Experience}} + \beta t_{\text{Linear Concept}}
 $$
 
-Where $\alpha + \beta = 1$, representing the weights of the two time concepts.
+Where $`\alpha + \beta = 1`$, representing the weights of the two time concepts.
 
 3. **High classicalization observers** (such as scientists, practitioners):
    - Able to abstractly understand time concepts
@@ -369,7 +369,7 @@ $$
 \text{Total Experience} = \int_{0}^{T} I_{\text{Classicalized Information Amount}}(t) dt
 $$
 
-Where $T$ is the total lifespan.
+Where $`T`$ is the total lifespan.
 
 3. **Long lifespan and high-quality experience** (ideal state):
    - Low entropy generation rate

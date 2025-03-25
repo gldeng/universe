@@ -32,7 +32,7 @@
 
 $$\Psi_{\text{集体}} = \mathcal{E}\left(\sum_{i=1}^{n} w_i \cdot \psi_i, \mathbf{C}_{ij}, \mathbf{T}\right)$$
 
-其中，$\mathcal{E}$是涌现函数，$w_i$是个体权重，$\mathbf{C}_{ij}$是连接矩阵，$\mathbf{T}$是拓扑结构。
+其中，$`\mathcal{E}`$是涌现函数，$`w_i`$是个体权重，$`\mathbf{C}_{ij}`$是连接矩阵，$`\mathbf{T}`$是拓扑结构。
 
 集体经典化效率方程：
 
@@ -42,7 +42,7 @@ $$\eta_{\text{集体经典化}} = \frac{I_{\text{集体经典知识}}}{S_{\text{
 
 $$D_{\text{集体}} > \max(D_{\text{个体}_i}) \iff \sum_{i<j} C_{ij} > \kappa_{\text{临界值}} \cdot \sum_{i} N_i$$
 
-其中，$N_i$是观察者$i$的神经复杂度。
+其中，$`N_i`$是观察者$`i`$的神经复杂度。
 
 #### 形式化解决过程
 
@@ -50,7 +50,7 @@ $$D_{\text{集体}} > \max(D_{\text{个体}_i}) \iff \sum_{i<j} C_{ij} > \kappa_
 
    $$|\psi\rangle_{\text{集体意识}} = \mathcal{R}\left(|\psi\rangle_{\text{个体}_1}, |\psi\rangle_{\text{个体}_2}, ..., |\psi\rangle_{\text{个体}_n}, \mathbf{E}_{ij}\right)$$
 
-   其中，$\mathcal{R}$是递归函数，$\mathbf{E}_{ij}$是量子纠缠矩阵。
+   其中，$`\mathcal{R}`$是递归函数，$`\mathbf{E}_{ij}`$是量子纠缠矩阵。
 
 2. **多层级经典化叠加**：集体意识涌现的核心机制是多个观察者的经典化过程相互叠加，形成超越个体的整合经典化结构：
 
@@ -62,13 +62,13 @@ $$D_{\text{集体}} > \max(D_{\text{个体}_i}) \iff \sum_{i<j} C_{ij} > \kappa_
 
    $$\phi_i(t+1) = \phi_i(t) + \omega_i + \sum_{j=1}^{n} K_{ij} \sin(\phi_j(t) - \phi_i(t))$$
 
-   其中，$\phi_i$是观察者$i$的经典化相位，$\omega_i$是固有频率，$K_{ij}$是耦合强度。
+   其中，$`\phi_i`$是观察者$`i`$的经典化相位，$`\omega_i`$是固有频率，$`K_{ij}`$是耦合强度。
 
 4. **整合信息理论扩展**：集体意识的涌现可通过整合信息理论框架的量子经典扩展来理解：
 
    $$\Phi_{\text{集体}} = \sum_{i=1}^{n} \Phi_{\text{个体}_i} + \sum_{i<j} \mathcal{I}(S_i; S_j |S_{i \neq j, j \neq i})$$
 
-   其中，$\mathcal{I}$是互信息函数。
+   其中，$`\mathcal{I}`$是互信息函数。
 
 5. **共享经典化场**：集体意识通过建立共享经典化场影响个体的经典化路径：
 
@@ -133,7 +133,7 @@ Basic equation for collective consciousness emergence:
 
 $$\Psi_{\text{Collective}} = \mathcal{E}\left(\sum_{i=1}^{n} w_i \cdot \psi_i, \mathbf{C}_{ij}, \mathbf{T}\right)$$
 
-where $\mathcal{E}$ is the emergence function, $w_i$ is individual weight, $\mathbf{C}_{ij}$ is the connection matrix, and $\mathbf{T}$ is the topological structure.
+where $`\mathcal{E}`$ is the emergence function, $`w_i`$ is individual weight, $`\mathbf{C}_{ij}`$ is the connection matrix, and $`\mathbf{T}`$ is the topological structure.
 
 Collective classicalization efficiency equation:
 
@@ -143,7 +143,7 @@ Collective dimension emergence condition:
 
 $$D_{\text{Collective}} > \max(D_{\text{Individual}_i}) \iff \sum_{i<j} C_{ij} > \kappa_{\text{Critical Value}} \cdot \sum_{i} N_i$$
 
-where $N_i$ is the neural complexity of observer $i$.
+where $`N_i`$ is the neural complexity of observer $`i`$.
 
 #### Formalized Solution Process
 
@@ -151,7 +151,7 @@ where $N_i$ is the neural complexity of observer $i$.
 
    $$|\psi\rangle_{\text{Collective Consciousness}} = \mathcal{R}\left(|\psi\rangle_{\text{Individual}_1}, |\psi\rangle_{\text{Individual}_2}, ..., |\psi\rangle_{\text{Individual}_n}, \mathbf{E}_{ij}\right)$$
 
-   where $\mathcal{R}$ is the recursion function and $\mathbf{E}_{ij}$ is the quantum entanglement matrix.
+   where $`\mathcal{R}`$ is the recursion function and $`\mathbf{E}_{ij}`$ is the quantum entanglement matrix.
 
 2. **Multi-level Classicalization Superposition**: The core mechanism of collective consciousness emergence is the superposition of classicalization processes of multiple observers, forming an integrated classicalization structure beyond individuals:
 
@@ -163,13 +163,13 @@ where $N_i$ is the neural complexity of observer $i$.
 
    $$\phi_i(t+1) = \phi_i(t) + \omega_i + \sum_{j=1}^{n} K_{ij} \sin(\phi_j(t) - \phi_i(t))$$
 
-   where $\phi_i$ is the classicalization phase of observer $i$, $\omega_i$ is the intrinsic frequency, and $K_{ij}$ is the coupling strength.
+   where $`\phi_i`$ is the classicalization phase of observer $`i`$, $`\omega_i`$ is the intrinsic frequency, and $`K_{ij}`$ is the coupling strength.
 
 4. **Integrated Information Theory Extension**: The emergence of collective consciousness can be understood through a quantum-classical extension of the integrated information theory framework:
 
    $$\Phi_{\text{Collective}} = \sum_{i=1}^{n} \Phi_{\text{Individual}_i} + \sum_{i<j} \mathcal{I}(S_i; S_j |S_{i \neq j, j \neq i})$$
 
-   where $\mathcal{I}$ is the mutual information function.
+   where $`\mathcal{I}`$ is the mutual information function.
 
 5. **Shared Classicalization Field**: Collective consciousness influences individual classicalization paths by establishing a shared classicalization field:
 

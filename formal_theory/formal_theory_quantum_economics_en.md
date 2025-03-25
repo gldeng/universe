@@ -71,9 +71,9 @@ Market evolution can be represented as quantum-classical hybrid dynamics:
 $$\frac{d\rho_{\text{market}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{market}}, \rho_{\text{market}}] + \mathcal{L}_{\text{decoherence}}(\rho_{\text{market}})$$
 
 Where:
-- $\rho_{\text{market}}$ is the market state density matrix
-- $\hat{H}_{\text{market}}$ is the market Hamiltonian operator, describing intrinsic market evolution
-- $\mathcal{L}_{\text{decoherence}}$ is the Lindblad operator, describing interactions between the market and environment
+- $`\rho_{\text{market}}`$ is the market state density matrix
+- $`\hat{H}_{\text{market}}`$ is the market Hamiltonian operator, describing intrinsic market evolution
+- $`\mathcal{L}_{\text{decoherence}}`$ is the Lindblad operator, describing interactions between the market and environment
 
 The market Hamiltonian contains multiple interaction terms:
 
@@ -102,10 +102,10 @@ The position of the quantum-classical interface in economic systems satisfies a 
 $$\frac{d\mathcal{D}_c^{\text{economic}}}{dt} = \alpha\nabla^2\mathcal{D}_c^{\text{economic}} + \beta S_{\text{information}} - \gamma N_{\text{noise}}$$
 
 Where:
-- $\mathcal{D}_c^{\text{economic}}$ is the economic interface position parameter
-- $S_{\text{information}}$ is the system information entropy
-- $N_{\text{noise}}$ is the economic noise intensity
-- $\alpha$, $\beta$, $\gamma$ are system characteristic parameters
+- $`\mathcal{D}_c^{\text{economic}}`$ is the economic interface position parameter
+- $`S_{\text{information}}`$ is the system information entropy
+- $`N_{\text{noise}}`$ is the economic noise intensity
+- $`\alpha`$, $`\beta`$, $`\gamma`$ are system characteristic parameters
 
 ### Interface Fluctuation and Market Stability
 
@@ -113,7 +113,7 @@ The fluctuation of the interface position is directly related to market stabilit
 
 $$\sigma_{\text{market}} \propto \sigma_{\mathcal{D}_c^{\text{economic}}}$$
 
-Where $\sigma_{\text{market}}$ is market price volatility and $\sigma_{\mathcal{D}_c^{\text{economic}}}$ is the standard deviation of the economic interface position.
+Where $`\sigma_{\text{market}}`$ is market price volatility and $`\sigma_{\mathcal{D}_c^{\text{economic}}}`$ is the standard deviation of the economic interface position.
 
 Interface fluctuations are enhanced under the following conditions:
 1. High information uncertainty
@@ -140,13 +140,13 @@ The degree of entanglement between economic entities can be quantified as:
 
 $$E(A,B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
-Where $S(\rho)$ is the von Neumann entropy, and $\rho_A$ and $\rho_B$ are the reduced density matrices of market entities.
+Where $`S(\rho)`$ is the von Neumann entropy, and $`\rho_A`$ and $`\rho_B`$ are the reduced density matrices of market entities.
 
 The entanglement network structure of global financial markets can be represented as:
 
 $$G_E = (V, E, w)$$
 
-Where $V$ is the set of market nodes, $E$ is the set of entanglement edges, and $w$ is the entanglement strength weights.
+Where $`V`$ is the set of market nodes, $`E`$ is the set of entanglement edges, and $`w`$ is the entanglement strength weights.
 
 ## Macroeconomic Quantum Effects
 
@@ -164,7 +164,7 @@ Inflation and monetary policy effects can be represented as quantum-classical in
 
 $$\hat{H}_{\text{monetary}} = \hat{H}_{\text{base money}} + \hat{H}_{\text{multiplier}} + \hat{H}_{\text{expectations}} + \hat{H}_{\text{policy}}$$
 
-The quantum expectation term $\hat{H}_{\text{expectations}}$ describes the public's superposition state expectations regarding monetary policy, explaining why the same monetary policy may produce different effects at different time points or under different expectations.
+The quantum expectation term $`\hat{H}_{\text{expectations}}`$ describes the public's superposition state expectations regarding monetary policy, explaining why the same monetary policy may produce different effects at different time points or under different expectations.
 
 ## Microeconomic Quantum Theory
 
@@ -174,7 +174,7 @@ Individual economic decisions can be described through quantum utility theory:
 
 $$U_Q(\text{choice}) = \text{Tr}(\hat{U} \rho_{\text{psychological}})$$
 
-Where $\hat{U}$ is the utility operator and $\rho_{\text{psychological}}$ is the density matrix of the consumer's psychological state.
+Where $`\hat{U}`$ is the utility operator and $`\rho_{\text{psychological}}`$ is the density matrix of the consumer's psychological state.
 
 Quantum utility theory explains "paradoxical" phenomena observed in consumer decisions, such as preference reversals and endowment effects.
 
@@ -184,7 +184,7 @@ Asset pricing can be represented as quantum expected values:
 
 $$P_t = \mathbb{E}_Q[\sum_{s=t+1}^{\infty} \beta^{s-t} \frac{U'(C_s)}{U'(C_t)} D_s]$$
 
-Where $\mathbb{E}_Q$ is the quantum expectation operator, allowing non-classical interference effects.
+Where $`\mathbb{E}_Q`$ is the quantum expectation operator, allowing non-classical interference effects.
 
 ## Empirical Research and Model Predictions
 
@@ -195,17 +195,17 @@ Quantum Economics offers the following verifiable predictions:
 1. **Non-local Correlation in Financial Markets**:
    The correlation between different markets increases after major events, at speeds exceeding classical information transmission:
    $$\rho_{AB}(t+\delta t) > \rho_{AB}(t) \quad \text{where} \quad \delta t < \frac{d_{AB}}{c}$$
-   Where $d_{AB}$ is the geographical distance between markets and $c$ is the speed of information transmission.
+   Where $`d_{AB}`$ is the geographical distance between markets and $`c`$ is the speed of information transmission.
 
 2. **Quantum Interference Effects**:
    Order effects in economic decisions follow quantum interference patterns:
    $$P(A \text{ then } B) \neq P(B \text{ then } A)$$
-   And the interference term $I = P(A \text{ then } B) - P(B \text{ then } A)$ conforms to quantum theory predictions.
+   And the interference term $`I = P(A \text{ then } B) - P(B \text{ then } A)`$ conforms to quantum theory predictions.
 
 3. **Interface Fluctuation and Market Volatility**:
    There is a strong correlation between quantum-classical interface fluctuation indicators and market volatility:
    $$\sigma_{\text{market}} = \alpha + \beta \cdot \sigma_{\mathcal{D}_c} + \epsilon$$
-   Where $\beta > 0$ and is statistically significant.
+   Where $`\beta > 0`$ and is statistically significant.
 
 ### Empirical Methods
 
@@ -228,34 +228,34 @@ Quantum Economics provides new perspectives for financial stability:
 1. **Quantum Early Warning System**:
    Develop financial crisis early warning indicators based on interface fluctuations:
    $$W_t = f(\sigma_{\mathcal{D}_c,t}, \nabla\mathcal{D}_c,t, E_t)$$
-   Where $E_t$ is the system entanglement degree.
+   Where $`E_t`$ is the system entanglement degree.
 
 2. **Anti-Quantum Contagion Policies**:
    Design regulatory measures to reduce market entanglement:
    $$\min_{\theta} E(\theta) \quad \text{s.t.} \quad \text{efficiency loss} < \epsilon$$
-   Where $\theta$ represents policy parameters.
+   Where $`\theta`$ represents policy parameters.
 
 ### Quantum Investment Strategies
 
 1. **Quantum Asset Pricing Model**:
    $$r_i = r_f + \beta_{iM}(r_M - r_f) + \beta_{iQ}(r_Q)$$
-   Where $r_Q$ is the quantum risk premium.
+   Where $`r_Q`$ is the quantum risk premium.
 
 2. **Quantum Portfolio Theory**:
    $$\max_w \left\{w^T\mu - \lambda w^T\Sigma w - \gamma w^T Qw\right\}$$
-   Where $Q$ is the quantum covariance matrix, capturing non-classical correlations.
+   Where $`Q`$ is the quantum covariance matrix, capturing non-classical correlations.
 
 ### Quantum Macroeconomic Policies
 
 1. **Quantum-Sensitive Fiscal Policy**:
    Fiscal multiplier adjustment considering quantum expectation superposition states:
    $$M_Q = M_C \cdot (1 + \alpha C_Q)$$
-   Where $M_Q$ is the quantum-adjusted multiplier and $C_Q$ is the quantum coherence of expectations.
+   Where $`M_Q`$ is the quantum-adjusted multiplier and $`C_Q`$ is the quantum coherence of expectations.
 
 2. **Quantum Methods for Expectation Management**:
    Enhance policy effects by adjusting the quantum coherence of market expectations:
    $$\Delta Y = \gamma \cdot \Delta M \cdot (1 + \beta \cdot C(\text{expectations}))$$
-   Where $C(\text{expectations})$ is the quantum coherence measure of expectations.
+   Where $`C(\text{expectations})`$ is the quantum coherence measure of expectations.
 
 ## Summary and Future Outlook
 

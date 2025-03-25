@@ -27,9 +27,9 @@
 $$M = \{Q_M, C_M, I_{界面}\}$$
 
 其中：
-- $Q_M$ 是物质在量子域中的表示（波函数、量子场等）
-- $C_M$ 是物质在经典域中的表示（粒子、局域实体等）
-- $I_{界面}$ 是连接两种表示的界面结构
+- $`Q_M`$ 是物质在量子域中的表示（波函数、量子场等）
+- $`C_M`$ 是物质在经典域中的表示（粒子、局域实体等）
+- $`I_{界面}`$ 是连接两种表示的界面结构
 
 物质信息密度可表示为：
 
@@ -55,13 +55,13 @@ $$\Delta E \cdot \Delta t \geq \frac{\hbar}{2}, \quad \Delta p \cdot \Delta x \g
 
 $$\delta\Phi_Q \xrightarrow{\mathcal{C}} M_C$$
 
-其中 $\delta\Phi_Q$ 是量子场中的涨落，$\mathcal{C}$ 是经典化算符，$M_C$ 是经典物质。
+其中 $`\delta\Phi_Q`$ 是量子场中的涨落，$`\mathcal{C}`$ 是经典化算符，$`M_C`$ 是经典物质。
 
 物质稳定性取决于量子-经典转换路径的拓扑特性：
 
 $$S_{稳定性} = \exp\left(\int \mathcal{L}_{QC}(q, \dot{q}, t) dt\right)$$
 
-其中 $\mathcal{L}_{QC}$ 是量子-经典转换拉格朗日量。
+其中 $`\mathcal{L}_{QC}`$ 是量子-经典转换拉格朗日量。
 
 ### 4. 物质的层级结构
 
@@ -95,7 +95,7 @@ $$m \propto \frac{dC_P}{dQ_P}, \quad q \propto \oint_{\partial V} \vec{E} \cdot 
 
 $$\left(\frac{\partial \mathcal{D}}{\partial x}\right)_{临界} \geq \frac{1}{\lambda_c}$$
 
-其中 $\mathcal{D}$ 是解相干度量，$\lambda_c$ 是临界长度。
+其中 $`\mathcal{D}`$ 是解相干度量，$`\lambda_c`$ 是临界长度。
 
 当量子场解相干梯度超过临界值时，局域物质实体会从量子场中涌现。
 
@@ -105,13 +105,13 @@ $$\left(\frac{\partial \mathcal{D}}{\partial x}\right)_{临界} \geq \frac{1}{\l
 
 $$M \xrightarrow{\mathcal{Q}} E_Q \xrightarrow{\mathcal{C}'} E_C$$
 
-其中 $M$ 是物质，$E_Q$ 是量子能量，$E_C$ 是经典能量。
+其中 $`M`$ 是物质，$`E_Q`$ 是量子能量，$`E_C`$ 是经典能量。
 
 转换效率受量子-经典界面特性的调控：
 
 $$\eta_{M\rightarrow E} = \frac{E_C}{M \cdot c^2} = 1 - e^{-\alpha d}$$
 
-其中 $d$ 是界面厚度，$\alpha$ 是转换系数。
+其中 $`d`$ 是界面厚度，$`\alpha`$ 是转换系数。
 
 ## 物质的量子性
 
@@ -144,7 +144,7 @@ $$|\Psi_M\rangle \xrightarrow{\text{测量}} |m_i\rangle$$
 
 $$\frac{d|\Psi_M\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\Psi_M\rangle - \gamma\left(|\Psi_M\rangle - \sum_i P_i|\Psi_M\rangle P_i\right)$$
 
-其中 $\gamma$ 是坍缩速率，$P_i$ 是投影算符。
+其中 $`\gamma`$ 是坍缩速率，$`P_i`$ 是投影算符。
 
 ## 物质的经典性
 
@@ -185,7 +185,7 @@ $$\frac{dS}{dt} = \frac{dI_{\text{隐藏}}}{dt \cdot T} \geq 0$$
 
 $$M_{复合} = \{M_1, M_2, ..., M_n, I_{相互作用}\}$$
 
-其中 $I_{相互作用}$ 是系统组分间的相互作用。
+其中 $`I_{相互作用}`$ 是系统组分间的相互作用。
 
 系统的量子-经典特性由组分的集体行为决定：
 

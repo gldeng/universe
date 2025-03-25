@@ -94,7 +94,7 @@ $$
 
 1. **因果机制缺失**：量子纠缠不需要经典因果，允许非局域信息传递
 2. **统计不显著**：经典统计学难以捕捉量子概率与高维经典世界影响
-3. **普遍性与个体差异**：经典化效率$(k_i)$与权重系数$(w_i)$因人而异
+3. **普遍性与个体差异**：经典化效率$`(k_i)`$与权重系数$`(w_i)`$因人而异
 
 ### 八、占星实践作为经典化效率提升工具
 
@@ -196,7 +196,7 @@ Traditional criticisms of astrology can be given new perspectives through Quantu
 
 1. **Lack of Causal Mechanism**: Quantum entanglement doesn't require classical causality, allowing non-local information transfer
 2. **Statistical Insignificance**: Classical statistics struggles to capture quantum probabilities and higher-dimensional classical world influences
-3. **Universality vs. Individual Differences**: Classicalization efficiency $(k_i)$ and weight coefficients $(w_i)$ vary by individual
+3. **Universality vs. Individual Differences**: Classicalization efficiency $`(k_i)`$ and weight coefficients $`(w_i)`$ vary by individual
 
 ### VIII. Astrological Practice as a Tool for Enhancing Classicalization Efficiency
 

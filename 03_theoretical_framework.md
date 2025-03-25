@@ -15,7 +15,7 @@
 
 量子经典二元论基于以下核心公理：
 
-1. **二元存在性公理**：宇宙由量子域 $\Omega_Q$ （无限可能性的空间）和经典域 $\Omega_C$ （确定现实的空间）组成，通过界面域 $\mathcal{I}$ 相连
+1. **二元存在性公理**：宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -109,18 +109,18 @@ $$
 
 ### 界面理论
 
-界面 $\mathcal{I}$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
+界面 $`\mathcal{I}`$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
 
 - **界面结构**：界面是量子域和经典域的交集，定义为：
   $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
-  其中 $\mathcal{D}(x)$ 是解相干度量函数，$\mathcal{D}_c$ 是临界解相干阈值。
+  其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 - **界面动力学**：界面位置满足非线性动力学方程：
   $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 - **经典化过程**：量子→经典转换通过经典化超算符表示：
   $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
-  其中 $P_i$ 是投影算符。经典化过程满足信息守恒：
+  其中 $`P_i`$ 是投影算符。经典化过程满足信息守恒：
   $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{隐藏}}$$
 
 ### 多重二元论层级
@@ -130,8 +130,8 @@ $$
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 其中：
-- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
-- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
+- $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
+- $`\Omega_C^{(i)}`$ 是第i层级的经典域（该层级的确定性实现）
 
 层级间映射函数定义为：
 
@@ -310,7 +310,7 @@ Quantum-Classical Dualism is a unified theoretical framework that aims to reconc
 
 Quantum-Classical Dualism is based on the following core axioms:
 
-1. **Dual Existence Axiom**: The universe consists of a quantum domain $\Omega_Q$ (space of infinite possibilities) and a classical domain $\Omega_C$ (space of definite reality), connected through an interface domain $\mathcal{I}$
+1. **Dual Existence Axiom**: The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -404,18 +404,18 @@ $$
 
 ### Interface Theory
 
-The interface $\mathcal{I}$ is the transition region between the quantum domain and the classical domain, with the following core characteristics:
+The interface $`\mathcal{I}`$ is the transition region between the quantum domain and the classical domain, with the following core characteristics:
 
 - **Interface Structure**: The interface is the intersection of the quantum domain and the classical domain, defined as:
   $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
-  where $\mathcal{D}(x)$ is the decoherence measure function, and $\mathcal{D}_c$ is the critical decoherence threshold.
+  where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 - **Interface Dynamics**: The interface position satisfies a nonlinear dynamics equation:
   $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 - **Classicalization Process**: The quantum→classical conversion is represented by the classicalization superoperator:
   $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
-  where $P_i$ is the projection operator. The classicalization process satisfies information conservation:
+  where $`P_i`$ is the projection operator. The classicalization process satisfies information conservation:
   $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
 ### Multiple Dualism Hierarchy
@@ -425,8 +425,8 @@ The multiple dualism hierarchy theory extends the single dualism into a nested m
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 where:
-- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
-- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the deterministic realization of that level)
+- $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (the possibility space of that level)
+- $`\Omega_C^{(i)}`$ is the classical domain of the i-th level (the deterministic realization of that level)
 
 The mapping function between levels is defined as:
 

@@ -22,16 +22,16 @@ Reality Engineering examines how to consciously design and alter reality structu
 
 ### Formal Definition of Reality Engineering
 
-The reality engineering system $\mathcal{RE}$ can be formally defined as:
+The reality engineering system $`\mathcal{RE}`$ can be formally defined as:
 
 $$\mathcal{RE} = (\mathcal{I}_M, \mathcal{T}_E, \mathcal{O}_E, \mathcal{F}_E, \mathcal{V}_E)$$
 
 Where:
-- $\mathcal{I}_M$ is the set of manipulable interface mappings
-- $\mathcal{T}_E$ is the set of reality engineering technologies and tools
-- $\mathcal{O}_E$ is the set of observers performing reality engineering
-- $\mathcal{F}_E$ is the feedback evaluation function
-- $\mathcal{V}_E$ is the verification and stabilization mechanism
+- $`\mathcal{I}_M`$ is the set of manipulable interface mappings
+- $`\mathcal{T}_E`$ is the set of reality engineering technologies and tools
+- $`\mathcal{O}_E`$ is the set of observers performing reality engineering
+- $`\mathcal{F}_E`$ is the feedback evaluation function
+- $`\mathcal{V}_E`$ is the verification and stabilization mechanism
 
 ### Core Engineering Axioms
 
@@ -40,14 +40,14 @@ Reality is not fixed but can be engineered through appropriate intervention tech
 
 $$\forall r \in \mathcal{R}: \exists \mathcal{T}_r \in \mathcal{T}_E \text{ such that } r \text{ can be engineered}$$
 
-Where $\mathcal{R}$ is the reality space and $\mathcal{T}_r$ is the engineering technique applicable to reality $r$.
+Where $`\mathcal{R}`$ is the reality space and $`\mathcal{T}_r`$ is the engineering technique applicable to reality $`r`$.
 
 **Axiom 2: Interface Plasticity**  
 The quantum-classical interface can be reconfigured through conscious intervention by observers:
 
 $$\mathcal{I}(t+\Delta t) = \mathcal{F}_I(\mathcal{I}(t), \mathcal{A}_{\mathcal{O}}(t))$$
 
-Where $\mathcal{I}$ is the interface state and $\mathcal{A}_{\mathcal{O}}$ is the observer's intervention action.
+Where $`\mathcal{I}`$ is the interface state and $`\mathcal{A}_{\mathcal{O}}`$ is the observer's intervention action.
 
 **Axiom 3: Engineering Conservation Principle**  
 Total information-energy conservation in reality engineering processes:
@@ -61,7 +61,7 @@ The stability of engineered reality is proportional to observer consensus:
 
 $$S_r = \alpha \cdot C_{\mathcal{O}} \cdot \Phi_r$$
 
-Where $S_r$ is reality stability, $C_{\mathcal{O}}$ is observer consensus degree, $\Phi_r$ is the internal consistency of reality itself, and $\alpha$ is a proportionality coefficient.
+Where $`S_r`$ is reality stability, $`C_{\mathcal{O}}`$ is observer consensus degree, $`\Phi_r`$ is the internal consistency of reality itself, and $`\alpha`$ is a proportionality coefficient.
 
 ## Core Theory Content
 
@@ -75,7 +75,7 @@ At the quantum level, reality engineering involves manipulating quantum superpos
 
 $$|\psi_{engineered}\rangle = \hat{U}_{design}|\psi_{initial}\rangle$$
 
-Where $\hat{U}_{design}$ is the design operator expressing engineering intent.
+Where $`\hat{U}_{design}`$ is the design operator expressing engineering intent.
 
 Quantum engineering efficiency can be represented as:
 
@@ -95,13 +95,13 @@ Interface level engineering focuses on manipulating the quantum-classical transi
 
 $$\mathcal{C}_{engineered} = \mathcal{M}_{design}(\mathcal{C}_{natural})$$
 
-Where $\mathcal{C}$ is the classicalization process and $\mathcal{M}_{design}$ is the modulation function.
+Where $`\mathcal{C}`$ is the classicalization process and $`\mathcal{M}_{design}`$ is the modulation function.
 
 Key equation for interface engineering:
 
 $$\frac{d\mathcal{I}}{dt} = \alpha \nabla^2 \mathcal{I} + \beta(\mathcal{I} - \mathcal{I}_0)(\mathcal{I}_c - \mathcal{I}) + \gamma\xi(t) + \delta \mathcal{A}_E(t)$$
 
-Where $\mathcal{A}_E(t)$ is the engineer's intervention function and $\delta$ is the intervention efficiency coefficient.
+Where $`\mathcal{A}_E(t)`$ is the engineer's intervention function and $`\delta`$ is the intervention efficiency coefficient.
 
 Practical techniques for interface engineering include:
 - Decoherence control
@@ -115,13 +115,13 @@ Classical level engineering focuses on restructuring and optimizing already form
 
 $$R_{engineered} = \mathcal{T}_C(R_{current}, \mathcal{P})$$
 
-Where $R$ is the classical reality state, $\mathcal{T}_C$ is the transformation function, and $\mathcal{P}$ is the set of design parameters.
+Where $`R`$ is the classical reality state, $`\mathcal{T}_C`$ is the transformation function, and $`\mathcal{P}`$ is the set of design parameters.
 
 Information propagation equation for classical engineering:
 
 $$\frac{\partial I_r}{\partial t} = D_r \nabla^2 I_r + S_r(\vec{x},t)$$
 
-Where $I_r$ is reality structure information, $D_r$ is the information diffusion coefficient, and $S_r$ is the information source term.
+Where $`I_r`$ is reality structure information, $`D_r`$ is the information diffusion coefficient, and $`S_r`$ is the information source term.
 
 Classical level engineering techniques include:
 - Classical information structure optimization
@@ -135,19 +135,19 @@ Observers play a central role in reality engineering, simultaneously acting as e
 
 $$\mathcal{O}_{engineer} = \{\mathcal{C}_{\mathcal{O}_E}, \mathcal{Q}_{\mathcal{O}_E}, K_C^{\mathcal{O}_E}, \mathcal{I}_{\mathcal{O}_E}\}$$
 
-Where $\mathcal{I}_{\mathcal{O}_E}$ is the observer's engineering intent.
+Where $`\mathcal{I}_{\mathcal{O}_E}`$ is the observer's engineering intent.
 
 Observer network collaborative engineering equation:
 
 $$\mathcal{RE}_{collective} = \mathcal{F}\left(\sum_i w_i \cdot \mathcal{O}_i, \Gamma_{interaction}\right)$$
 
-Where $w_i$ is the observer weight and $\Gamma_{interaction}$ is the interaction matrix between observers.
+Where $`w_i`$ is the observer weight and $`\Gamma_{interaction}`$ is the interaction matrix between observers.
 
 Relationship between observer dimension and engineering capability:
 
 $$\text{RE-capacity}(\mathcal{O}) \propto D_{\mathcal{O}}^\alpha \cdot \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}} \cdot K_C^{\mathcal{O}_E}$$
 
-Where $\alpha$ is the dimension influence exponent.
+Where $`\alpha`$ is the dimension influence exponent.
 
 ### Dynamics and Feedback in Reality Engineering
 
@@ -155,7 +155,7 @@ Reality engineering is a dynamic process that depends on appropriate feedback me
 
 $$\mathcal{A}_E(t+\Delta t) = \mathcal{F}_{adjust}(\mathcal{A}_E(t), \Delta R(t), \mathcal{P}_{target})$$
 
-Where $\mathcal{F}_{adjust}$ is the adjustment function, $\Delta R(t)$ is the observed reality change, and $\mathcal{P}_{target}$ is the target parameter.
+Where $`\mathcal{F}_{adjust}`$ is the adjustment function, $`\Delta R(t)`$ is the observed reality change, and $`\mathcal{P}_{target}`$ is the target parameter.
 
 The engineering feedback loop can be represented as:
 
@@ -165,7 +165,7 @@ Mathematical model of engineering feedback:
 
 $$\frac{d\mathcal{RE}}{dt} = G_p \cdot e(t) + G_i \int_0^t e(\tau)d\tau + G_d \frac{de(t)}{dt}$$
 
-Where $e(t) = R_{target} - R_{actual}$ is the error term, and $G_p$, $G_i$, and $G_d$ are proportional, integral, and differential gain coefficients, respectively.
+Where $`e(t) = R_{target} - R_{actual}`$ is the error term, and $`G_p`$, $`G_i`$, and $`G_d`$ are proportional, integral, and differential gain coefficients, respectively.
 
 ### Reality Stability and Verification
 
@@ -199,7 +199,7 @@ Manipulating quantum state collapse through delayed measurement choice:
 
 $$|\psi(t_2)\rangle = \hat{M}_{choice}(t_2) \cdot \hat{U}(t_2, t_1) \cdot |\psi(t_1)\rangle$$
 
-Where $\hat{M}_{choice}$ is the selective measurement operator.
+Where $`\hat{M}_{choice}`$ is the selective measurement operator.
 
 #### Quantum Eraser Experiment
 
@@ -207,7 +207,7 @@ Reconstructing interference patterns through quantum information erasure:
 
 $$P_{interference} = |\langle \psi_{path1} | \psi_{path2} \rangle|^2 \cdot \mathcal{E}_{eraser}$$
 
-Where $\mathcal{E}_{eraser}$ is the erasure efficiency.
+Where $`\mathcal{E}_{eraser}`$ is the erasure efficiency.
 
 #### Quantum Feedback Control
 
@@ -215,7 +215,7 @@ Real-time adjustments using quantum measurement results:
 
 $$|\psi(t+\Delta t)\rangle = \hat{U}_{feedback}(\hat{M}(t)) \cdot |\psi(t)\rangle$$
 
-Where $\hat{U}_{feedback}$ is feedback control based on measurement $\hat{M}(t)$.
+Where $`\hat{U}_{feedback}`$ is feedback control based on measurement $`\hat{M}(t)`$.
 
 ### Cognitive Experimental Reality Engineering
 
@@ -227,7 +227,7 @@ Manipulating perception results through expectations:
 
 $$P(R|S,E) = P(R|S) \cdot \frac{P(E|R)}{P(E)}$$
 
-Where $P(R|S,E)$ is the probability of perception result $R$ given stimulus $S$ and expectation $E$.
+Where $`P(R|S,E)`$ is the probability of perception result $`R`$ given stimulus $`S`$ and expectation $`E`$.
 
 #### Placebo and Nocebo Effects
 
@@ -235,7 +235,7 @@ Influencing physiological responses through belief systems:
 
 $$Effect = \beta_0 + \beta_1 \cdot Substance + \beta_2 \cdot Belief + \beta_3 \cdot (Substance \times Belief)$$
 
-Where the key lies in the magnitude of coefficients $\beta_2$ and $\beta_3$.
+Where the key lies in the magnitude of coefficients $`\beta_2`$ and $`\beta_3`$.
 
 #### Intention Manifestation Experiments
 
@@ -243,7 +243,7 @@ Studying the influence of intention on random events:
 
 $$P_{outcome} = P_{random} + \Delta P_{intention} \cdot I_{strength}$$
 
-Where $\Delta P_{intention}$ is the intention bias and $I_{strength}$ is the intention strength.
+Where $`\Delta P_{intention}`$ is the intention bias and $`I_{strength}`$ is the intention strength.
 
 ### Technological Applications of Reality Engineering
 
@@ -253,7 +253,7 @@ Creating virtual environments that dynamically respond to user psychological sta
 
 $$VR(t+\Delta t) = \mathcal{F}_{VR}(VR(t), \Psi_{user}(t), G)$$
 
-Where $\Psi_{user}$ is the user's psychological state and $G$ is the goal parameter.
+Where $`\Psi_{user}`$ is the user's psychological state and $`G`$ is the goal parameter.
 
 #### Intention-Based Human-Machine Interfaces
 
@@ -261,7 +261,7 @@ Controlling systems through direct intention rather than physical input:
 
 $$C_{system} = \mathcal{T}_{intention}(I_{user}) \cdot \eta_{interface}$$
 
-Where $\mathcal{T}_{intention}$ is the intention conversion function and $\eta_{interface}$ is the interface efficiency.
+Where $`\mathcal{T}_{intention}`$ is the intention conversion function and $`\eta_{interface}`$ is the interface efficiency.
 
 #### Social Reality Construction Technologies
 
@@ -269,7 +269,7 @@ Creating social reality through shared narratives and collaborative observation:
 
 $$R_{social} = \mathcal{F}_{social}\left(\sum_i w_i \cdot R^i_{individual}, \mathcal{N}\right)$$
 
-Where $\mathcal{N}$ is the social network structure and $w_i$ is the individual influence weight.
+Where $`\mathcal{N}`$ is the social network structure and $`w_i`$ is the individual influence weight.
 
 ## Ethical and Philosophical Considerations
 
@@ -313,7 +313,7 @@ Reality engineering is conscious control of quantum emergence processes:
 
 $$\mathcal{RE} \subset \mathcal{QE} | \mathcal{I}_{\mathcal{O}} \neq 0$$
 
-Where $\mathcal{I}_{\mathcal{O}}$ is the observer's engineering intent.
+Where $`\mathcal{I}_{\mathcal{O}}`$ is the observer's engineering intent.
 
 Reality engineering can directly manipulate emergence conditions:
 

@@ -31,25 +31,25 @@
 ### 社会系统基本公理
 
 **公理1: 社会的二元本质**  
-社会系统由量子社会域 $\Omega_Q^S$ 和经典社会域 $\Omega_C^S$ 组成：
+社会系统由量子社会域 $`\Omega_Q^S`$ 和经典社会域 $`\Omega_C^S`$ 组成：
 
 $$\mathcal{S} = \Omega_Q^S \cup \Omega_C^S, \quad \Omega_Q^S \cap \Omega_C^S = \mathcal{I}_S$$
 
-其中 $\mathcal{I}_S$ 表示社会量子-经典界面。
+其中 $`\mathcal{I}_S`$ 表示社会量子-经典界面。
 
 **公理2: 社会信息守恒**  
 社会系统中的总信息量保持守恒，但可在量子和经典形式间转换：
 
 $$I_S = I_{S_Q} + I_{S_C} = \text{常数}$$
 
-其中 $I_{S_Q}$ 是社会量子信息，$I_{S_C}$ 是社会经典信息。
+其中 $`I_{S_Q}`$ 是社会量子信息，$`I_{S_C}`$ 是社会经典信息。
 
 **公理3: 社会观察者效应**  
 社会观察过程影响被观察的社会现象，符合不确定性原理：
 
 $$\Delta S_{集体} \cdot \Delta S_{个体} \geq \frac{1}{2}|\langle[S_{集体}, S_{个体}]\rangle|$$
 
-其中 $S_{集体}$ 和 $S_{个体}$ 分别是集体和个体社会状态的算符。
+其中 $`S_{集体}`$ 和 $`S_{个体}`$ 分别是集体和个体社会状态的算符。
 
 ### 社会系统的量子表示
 
@@ -57,13 +57,13 @@ $$\Delta S_{集体} \cdot \Delta S_{个体} \geq \frac{1}{2}|\langle[S_{集体},
 
 $$|\Psi_S\rangle = \sum_i \alpha_i |S_i\rangle$$
 
-其中 $|S_i\rangle$ 是可能的社会构型基态，$\alpha_i$ 是复振幅，满足 $\sum_i |\alpha_i|^2 = 1$。
+其中 $`|S_i\rangle`$ 是可能的社会构型基态，$`\alpha_i`$ 是复振幅，满足 $`\sum_i |\alpha_i|^2 = 1`$。
 
 社会系统的密度矩阵为：
 
 $$\rho_S = \sum_j p_j |\Psi_S^j\rangle\langle\Psi_S^j|$$
 
-其中 $p_j$ 是混合状态的概率，满足 $\sum_j p_j = 1$。
+其中 $`p_j`$ 是混合状态的概率，满足 $`\sum_j p_j = 1`$。
 
 ### 社会系统的多层级结构
 
@@ -72,12 +72,12 @@ $$\rho_S = \sum_j p_j |\Psi_S^j\rangle\langle\Psi_S^j|$$
 $$\mathcal{S} = \{\mathcal{S}^{(1)}, \mathcal{S}^{(2)}, ..., \mathcal{S}^{(n)}\}$$
 
 其中：
-- $\mathcal{S}^{(1)}$ - 个体层级
-- $\mathcal{S}^{(2)}$ - 小组层级
-- $\mathcal{S}^{(3)}$ - 组织层级
-- $\mathcal{S}^{(4)}$ - 社区层级
-- $\mathcal{S}^{(5)}$ - 社会层级
-- $\mathcal{S}^{(6)}$ - 全球层级
+- $`\mathcal{S}^{(1)}`$ - 个体层级
+- $`\mathcal{S}^{(2)}`$ - 小组层级
+- $`\mathcal{S}^{(3)}`$ - 组织层级
+- $`\mathcal{S}^{(4)}`$ - 社区层级
+- $`\mathcal{S}^{(5)}`$ - 社会层级
+- $`\mathcal{S}^{(6)}`$ - 全球层级
 
 层级间信息传递满足熵增原理：
 
@@ -87,7 +87,7 @@ $$S(\mathcal{M}_{i \rightarrow i+1}(S^{(i)})) \geq S(S^{(i)})$$
 
 ### 社会量子域特性
 
-社会量子域 $\Omega_Q^S$ 具有以下特性：
+社会量子域 $`\Omega_Q^S`$ 具有以下特性：
 
 1. **社会可能性空间**：包含所有潜在社会状态的叠加
    $$\Psi_Q^S = \sum_i \alpha_i |S_i\rangle, \quad \sum_i |\alpha_i|^2 = 1$$
@@ -103,7 +103,7 @@ $$S(\mathcal{M}_{i \rightarrow i+1}(S^{(i)})) \geq S(S^{(i)})$$
 
 ### 社会经典域特性
 
-社会经典域 $\Omega_C^S$ 具有以下特性：
+社会经典域 $`\Omega_C^S`$ 具有以下特性：
 
 1. **社会确定性结构**：已形成的社会制度、规范和物理基础设施
    $$K_C^S = \{k_i = (x_i, r_i, n_i, v_i, h_i)\}$$
@@ -118,17 +118,17 @@ $$S(\mathcal{M}_{i \rightarrow i+1}(S^{(i)})) \geq S(S^{(i)})$$
 
 ### 社会界面动力学
 
-社会量子域和经典域之间的界面 $\mathcal{I}_S$ 动力学满足：
+社会量子域和经典域之间的界面 $`\mathcal{I}_S`$ 动力学满足：
 
 $$\frac{d\mathcal{I}_S}{dt} = \alpha\nabla^2\mathcal{I}_S + \beta(\mathcal{I}_S - \mathcal{I}_0)(\mathcal{I}_S - \mathcal{I}_c) - \gamma J_S$$
 
-其中 $J_S$ 是社会信息流，$\mathcal{I}_0$ 和 $\mathcal{I}_c$ 是稳定点。
+其中 $`J_S`$ 是社会信息流，$`\mathcal{I}_0`$ 和 $`\mathcal{I}_c`$ 是稳定点。
 
 社会经典化过程（如规范形成、制度化）可表示为：
 
 $$\rho_S^C = \mathcal{C}_S(\rho_S^Q) = \sum_i P_i^S \rho_S^Q P_i^{S\dagger}$$
 
-其中 $P_i^S$ 是社会投影算符，对应于社会观察过程。
+其中 $`P_i^S`$ 是社会投影算符，对应于社会观察过程。
 
 ## 集体行为的量子涌现
 
@@ -138,9 +138,9 @@ $$\rho_S^C = \mathcal{C}_S(\rho_S^Q) = \sum_i P_i^S \rho_S^Q P_i^{S\dagger}$$
 
 $$|\Psi_{集体}\rangle = \frac{1}{\sqrt{Z}}\sum_i w_i |\psi_i\rangle$$
 
-其中 $|\psi_i\rangle$ 是个体意识态，$w_i$ 是权重系数，$Z$ 是归一化因子。
+其中 $`|\psi_i\rangle`$ 是个体意识态，$`w_i`$ 是权重系数，$`Z`$ 是归一化因子。
 
-集体意识的整合度 $\Phi_{集体}$ 满足：
+集体意识的整合度 $`\Phi_{集体}`$ 满足：
 
 $$\Phi_{集体} > \sum_i \Phi_i$$
 
@@ -170,7 +170,7 @@ $$|\Psi_{运动}\rangle = \sum_i c_i |参与_i\rangle$$
 
 $$\frac{dP_{革命}}{dt} = \alpha P_{革命}(1-P_{革命})(P_{革命} - P_c) + \sigma\xi(t)$$
 
-其中 $P_{革命}$ 是革命成功概率，$P_c$ 是临界阈值，$\xi(t)$ 是社会随机涨落。
+其中 $`P_{革命}`$ 是革命成功概率，$`P_c`$ 是临界阈值，$`\xi(t)`$ 是社会随机涨落。
 
 ## 社会网络的量子纠缠
 
@@ -180,13 +180,13 @@ $$\frac{dP_{革命}}{dt} = \alpha P_{革命}(1-P_{革命})(P_{革命} - P_c) + \
 
 $$|G_S\rangle = \sum_{E \subset V \times V} \alpha_E |E\rangle$$
 
-其中 $V$ 是节点集（个体），$E$ 是边集（关系），$\alpha_E$ 是复振幅。
+其中 $`V`$ 是节点集（个体），$`E`$ 是边集（关系），$`\alpha_E`$ 是复振幅。
 
 社会网络的量子纠缠满足：
 
 $$\mathcal{E}(G_S) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
-其中 $\rho_A$、$\rho_B$ 分别是子网络 $A$ 和 $B$ 的约化密度矩阵，$S$ 是冯诺依曼熵。
+其中 $`\rho_A`$、$`\rho_B`$ 分别是子网络 $`A`$ 和 $`B`$ 的约化密度矩阵，$`S`$ 是冯诺依曼熵。
 
 ### 社会关系的纠缠度量
 
@@ -194,13 +194,13 @@ $$\mathcal{E}(G_S) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
 $$E_{ij} = -\text{Tr}(\rho_{ij} \log \rho_{ij}) - \text{Tr}(\rho_i \log \rho_i) - \text{Tr}(\rho_j \log \rho_j)$$
 
-其中 $\rho_{ij}$ 是个体 $i$ 和 $j$ 的联合密度矩阵，$\rho_i$ 和 $\rho_j$ 是各自的约化密度矩阵。
+其中 $`\rho_{ij}`$ 是个体 $`i`$ 和 $`j`$ 的联合密度矩阵，$`\rho_i`$ 和 $`\rho_j`$ 是各自的约化密度矩阵。
 
 社会纠缠网络动力学满足：
 
 $$\frac{dE_{ij}}{dt} = \alpha(C_{ij} - E_{ij}) + \beta\sum_{k \neq i,j} E_{ik}E_{kj} - \gamma E_{ij}^3$$
 
-其中 $C_{ij}$ 是经典社会连接强度。
+其中 $`C_{ij}`$ 是经典社会连接强度。
 
 ### 社会信息传播的量子隧穿
 
@@ -208,7 +208,7 @@ $$\frac{dE_{ij}}{dt} = \alpha(C_{ij} - E_{ij}) + \beta\sum_{k \neq i,j} E_{ik}E_
 
 $$P_{隧穿} = e^{-2\int_{x_1}^{x_2} \kappa(x) dx}$$
 
-其中 $\kappa(x) = \sqrt{2m(V(x) - E)/\hbar^2}$，$V(x)$ 是社会障碍势能，$E$ 是信息能量。
+其中 $`\kappa(x) = \sqrt{2m(V(x) - E)/\hbar^2}`$，$`V(x)`$ 是社会障碍势能，$`E`$ 是信息能量。
 
 这解释了为什么某些信息能在不明显连接的社会群体间快速传播。
 
@@ -216,17 +216,17 @@ $$P_{隧穿} = e^{-2\int_{x_1}^{x_2} \kappa(x) dx}$$
 
 ### 社会相变模型
 
-社会系统可经历量子相变，由序参量 $\psi_S$ 描述：
+社会系统可经历量子相变，由序参量 $`\psi_S`$ 描述：
 
 $$\frac{d\psi_S}{dt} = r\psi_S - u|\psi_S|^2\psi_S + K\nabla^2\psi_S + \eta(t)$$
 
-其中 $r$ 是控制参数，$u$ 是非线性项系数，$K$ 是扩散系数，$\eta(t)$ 是社会噪声。
+其中 $`r`$ 是控制参数，$`u`$ 是非线性项系数，$`K`$ 是扩散系数，$`\eta(t)`$ 是社会噪声。
 
 社会相变临界指数满足标度律：
 
 $$\chi_S \sim |r - r_c|^{-\gamma_S}$$
 
-其中 $\chi_S$ 是社会敏感度，$r_c$ 是临界点，$\gamma_S$ 是社会临界指数。
+其中 $`\chi_S`$ 是社会敏感度，$`r_c`$ 是临界点，$`\gamma_S`$ 是社会临界指数。
 
 ### 社会临界现象
 
@@ -234,25 +234,25 @@ $$\chi_S \sim |r - r_c|^{-\gamma_S}$$
 
 $$G(r) = \langle\psi_S(0)\psi_S(r)\rangle \sim r^{-(d-2+\eta_S)}$$
 
-其中 $d$ 是社会网络维度，$\eta_S$ 是社会异常维度指数。
+其中 $`d`$ 是社会网络维度，$`\eta_S`$ 是社会异常维度指数。
 
 临界状态下的社会系统具有最大敏感性和适应性：
 
 $$\frac{\partial \langle \psi_S \rangle}{\partial h} \xrightarrow{r \to r_c} \infty$$
 
-其中 $h$ 是外部社会场。
+其中 $`h`$ 是外部社会场。
 
 ### 社会秩序参量
 
 不同类型的社会相变对应不同的秩序参量：
 
-1. **信念一致性**：$\psi_B = \frac{1}{N}\sum_i s_i$，其中 $s_i$ 是个体信念取向
+1. **信念一致性**：$`\psi_B = \frac{1}{N}\sum_i s_i`$，其中 $`s_i`$ 是个体信念取向
 
-2. **社会凝聚力**：$\psi_C = \frac{1}{N(N-1)}\sum_{i \neq j} c_{ij}$，其中 $c_{ij}$ 是连接强度
+2. **社会凝聚力**：$`\psi_C = \frac{1}{N(N-1)}\sum_{i \neq j} c_{ij}`$，其中 $`c_{ij}`$ 是连接强度
 
-3. **社会分层度**：$\psi_S = \sqrt{\frac{1}{N}\sum_i (r_i - \bar{r})^2}$，其中 $r_i$ 是社会等级
+3. **社会分层度**：$`\psi_S = \sqrt{\frac{1}{N}\sum_i (r_i - \bar{r})^2}`$，其中 $`r_i`$ 是社会等级
 
-4. **社会动员度**：$\psi_M = \frac{N_{活跃}}{N_{总}}$，表示参与社会运动的比例
+4. **社会动员度**：$`\psi_M = \frac{N_{活跃}}{N_{总}}`$，表示参与社会运动的比例
 
 ## 社会认知与决策的量子模型
 
@@ -272,7 +272,7 @@ $$P(A \text{然后} B) \neq P(B \text{然后} A)$$
 
 $$|\Psi_D^\prime\rangle = U(\theta, \phi)|\Psi_D\rangle$$
 
-其中 $U(\theta, \phi)$ 是酉变换，代表认知过程对决策状态的调整。
+其中 $`U(\theta, \phi)`$ 是酉变换，代表认知过程对决策状态的调整。
 
 ### 社会影响下的认知变形
 
@@ -280,7 +280,7 @@ $$|\Psi_D^\prime\rangle = U(\theta, \phi)|\Psi_D\rangle$$
 
 $$\rho_C^\prime = \sum_i M_i^S \rho_C M_i^{S\dagger} + \mathcal{I}(\rho_C, \rho_E)$$
 
-其中 $\rho_C$ 是个体认知状态，$M_i^S$ 是社会影响测量算符，$\mathcal{I}(\rho_C, \rho_E)$ 是环境干涉项。
+其中 $`\rho_C`$ 是个体认知状态，$`M_i^S`$ 是社会影响测量算符，$`\mathcal{I}(\rho_C, \rho_E)`$ 是环境干涉项。
 
 社会认知偏差可表示为量子态的非正交性：
 
@@ -294,13 +294,13 @@ $$\langle \phi_A | \phi_B \rangle \neq 0 \text{ 当 } A \neq B$$
 
 $$|\Psi_{集体}\rangle = \sum_{i_1,i_2,...,i_n} c_{i_1,i_2,...,i_n} |d_{i_1}\rangle \otimes |d_{i_2}\rangle \otimes ... \otimes |d_{i_n}\rangle$$
 
-其中 $|d_{i_j}\rangle$ 是个体 $j$ 的决策状态。
+其中 $`|d_{i_j}\rangle`$ 是个体 $`j`$ 的决策状态。
 
 集体决策的量子效率可定义为：
 
 $$\eta_{量子} = \frac{I(\rho_{集体})}{I(\rho_1 \otimes \rho_2 \otimes ... \otimes \rho_n)}$$
 
-其中 $I(\rho)$ 是量子互信息，$\eta_{量子} > 1$ 表示量子协作优势。
+其中 $`I(\rho)`$ 是量子互信息，$`\eta_{量子} > 1`$ 表示量子协作优势。
 
 ### 社会认知中的量子上下文效应
 
@@ -308,13 +308,13 @@ $$\eta_{量子} = \frac{I(\rho_{集体})}{I(\rho_1 \otimes \rho_2 \otimes ... \o
 
 $$p(a|A,B) \neq p(a|A,C)$$
 
-其中 $p(a|A,B)$ 是在背景 $B$ 下选择 $A$ 中选项 $a$ 的概率。
+其中 $`p(a|A,B)`$ 是在背景 $`B`$ 下选择 $`A`$ 中选项 $`a`$ 的概率。
 
 这一现象可通过量子投影公式描述：
 
 $$p(a|A,B) = \text{Tr}(\Pi_a^A \Pi_B \rho \Pi_B)$$
 
-其中 $\Pi_a^A$ 是选项 $a$ 的投影算符，$\Pi_B$ 是背景 $B$ 的投影算符。
+其中 $`\Pi_a^A`$ 是选项 $`a`$ 的投影算符，$`\Pi_B`$ 是背景 $`B`$ 的投影算符。
 
 ### 认知-情感纠缠模型
 
@@ -328,7 +328,7 @@ $$|\Psi_{认情}\rangle = \alpha |认知_1\rangle |情感_1\rangle + \beta |认�
 
 $$\rho_{群体} = \sum_i w_i \rho_{认情}^i + \sum_{i \neq j} w_{ij} (\rho_{情}^i \otimes \rho_{认}^j)$$
 
-其中 $\rho_{认情}^i$ 是个体 $i$ 的认知-情感纠缠态，$\rho_{情}^i$ 和 $\rho_{认}^j$ 分别是个体情感和认知状态。
+其中 $`\rho_{认情}^i`$ 是个体 $`i`$ 的认知-情感纠缠态，$`\rho_{情}^i`$ 和 $`\rho_{认}^j`$ 分别是个体情感和认知状态。
 
 ### 决策的神经量子模型
 
@@ -336,7 +336,7 @@ $$\rho_{群体} = \sum_i w_i \rho_{认情}^i + \sum_{i \neq j} w_{ij} (\rho_{情
 
 $$|\Psi_{神经}\rangle = \sum_{i} c_i |n_i\rangle \xrightarrow{\text{坍缩}} |决策\rangle$$
 
-其中 $|n_i\rangle$ 是神经元激活模式，坍缩过程对应于决策形成。
+其中 $`|n_i\rangle`$ 是神经元激活模式，坍缩过程对应于决策形成。
 
 这一模型预测了决策前的神经振荡应该表现出量子干涉模式：
 
@@ -352,7 +352,7 @@ $$I_{振荡} = \alpha |\sum_i \psi_i|^2 \neq \alpha \sum_i |\psi_i|^2$$
 
 $$|\Psi_C(t)\rangle = e^{-iHt}|\Psi_C(0)\rangle$$
 
-其中 $H$ 是文化演化哈密顿量：
+其中 $`H`$ 是文化演化哈密顿量：
 
 $$H = H_{\text{内部}} + H_{\text{外部}} + H_{\text{交互}}$$
 
@@ -362,7 +362,7 @@ $$H = H_{\text{内部}} + H_{\text{外部}} + H_{\text{交互}}$$
 
 $$\frac{\partial \rho_C}{\partial t} = -i[H, \rho_C] + \mathcal{L}(\rho_C)$$
 
-其中 $\mathcal{L}$ 是耗散超算子，描述文化信息的流失与重组。
+其中 $`\mathcal{L}`$ 是耗散超算子，描述文化信息的流失与重组。
 
 ### 文化模因的量子传播模型
 
@@ -370,11 +370,11 @@ $$\frac{\partial \rho_C}{\partial t} = -i[H, \rho_C] + \mathcal{L}(\rho_C)$$
 
 $$|\Psi_M(t+1)\rangle = U_M|\Psi_M(t)\rangle$$
 
-其中 $U_M$ 是模因传播算符：
+其中 $`U_M`$ 是模因传播算符：
 
 $$U_M = S \cdot (C \otimes I)$$
 
-$S$ 是移位算符，$C$ 是模因演化算符。
+$`S`$ 是移位算符，$`C`$ 是模因演化算符。
 
 模因的量子蔓延比经典传播更高效，表达为：
 
@@ -398,7 +398,7 @@ $$|\Psi_{\text{身份}}\rangle \xrightarrow{\text{社会互动}} |文化_j\rangl
 
 $$\rho_{\text{多样性}} = \sum_i p_i |\Psi_i\rangle\langle\Psi_i| + \sum_{i \neq j} \gamma_{ij} |\Psi_i\rangle\langle\Psi_j|$$
 
-其中非对角项 $\gamma_{ij}$ 表示文化之间的相干性。
+其中非对角项 $`\gamma_{ij}`$ 表示文化之间的相干性。
 
 ### 文化层级结构与涌现
 
@@ -407,8 +407,8 @@ $$\rho_{\text{多样性}} = \sum_i p_i |\Psi_i\rangle\langle\Psi_i| + \sum_{i \n
 $$\mathcal{C} = \{\mathcal{C}_Q^{(1)}, \mathcal{C}_C^{(1)}, \mathcal{C}_Q^{(2)}, \mathcal{C}_C^{(2)}, ..., \mathcal{C}_Q^{(n)}, \mathcal{C}_C^{(n)}\}$$
 
 其中:
-- $\mathcal{C}_Q^{(i)}$ 是第i层级的量子文化域
-- $\mathcal{C}_C^{(i)}$ 是第i层级的经典文化域
+- $`\mathcal{C}_Q^{(i)}`$ 是第i层级的量子文化域
+- $`\mathcal{C}_C^{(i)}`$ 是第i层级的经典文化域
 
 文化演化可视为不同层级间的互动：
 
@@ -440,19 +440,19 @@ $$C_{\text{文化}} = S_C \cdot (1 - S_C/S_{\text{最大}})$$
 
 $$|\Psi_{AB}\rangle = \sum_{i,j} c_{ij} |文化_A^i\rangle |文化_B^j\rangle$$
 
-不能被分解为 $|\Psi_A\rangle \otimes |\Psi_B\rangle$ 的形式。
+不能被分解为 $`|\Psi_A\rangle \otimes |\Psi_B\rangle`$ 的形式。
 
 文化纠缠度可量化为：
 
 $$E_{AB} = S(\rho_A) = S(\rho_B)$$
 
-其中 $\rho_A$ 和 $\rho_B$ 是约化密度矩阵。
+其中 $`\rho_A`$ 和 $`\rho_B`$ 是约化密度矩阵。
 
 文化融合过程可描述为纠缠熵的变化：
 
 $$\frac{dE_{AB}}{dt} = \alpha C_{AB}(E_{\text{最大}} - E_{AB}) - \beta E_{AB}(1 - S_{\text{相似性}})$$
 
-其中 $C_{AB}$ 是交流强度，$S_{\text{相似性}}$ 是文化相似度。
+其中 $`C_{AB}`$ 是交流强度，$`S_{\text{相似性}}`$ 是文化相似度。
 
 ## 经济系统的量子特性
 
@@ -470,7 +470,7 @@ $$i\hbar\frac{\partial \psi}{\partial t} = \hat{H}_{经济}\psi$$
 
 $$\hat{H}_{经济} = \sum_i \frac{\hat{p}_i^2}{2m_i} + \sum_{i<j} V(\hat{r}_i - \hat{r}_j)$$
 
-其中 $\hat{p}_i$ 代表经济动量（资本流动），$V$ 代表市场参与者间的交互势能。
+其中 $`\hat{p}_i`$ 代表经济动量（资本流动），$`V`$ 代表市场参与者间的交互势能。
 
 ### 市场量子态与经典态
 
@@ -488,7 +488,7 @@ $$|\Psi_{市场}\rangle \xrightarrow{\text{集体观察}} |确定状态\rangle$$
 
 $$P_{经典化} = 1 - e^{-\lambda N_{\text{观察者}}}$$
 
-其中 $\lambda$ 是市场敏感度系数，$N_{\text{观察者}}$ 是观察者数量。
+其中 $`\lambda`$ 是市场敏感度系数，$`N_{\text{观察者}}`$ 是观察者数量。
 
 ### 价格形成的量子模型
 
@@ -500,13 +500,13 @@ $$|\Psi_{价格}\rangle = \sum_p c_p |p\rangle \xrightarrow{\text{交易}} |p_0\
 
 $$\Delta p \cdot \Delta v \geq \frac{\hbar_{经济}}{2}$$
 
-其中 $p$ 是价格，$v$ 是交易量，$\hbar_{经济}$ 是经济普朗克常数。
+其中 $`p`$ 是价格，$`v`$ 是交易量，$`\hbar_{经济}`$ 是经济普朗克常数。
 
 价格发现效率与市场量子相干性相关：
 
 $$\eta_{价格} = \frac{|\langle\Psi_{实际}|\Psi_{均衡}\rangle|^2}{1-S(\rho_{市场})/S_{最大}}$$
 
-其中 $|\Psi_{均衡}\rangle$ 是理论均衡价格，$S(\rho_{市场})$ 是市场熵。
+其中 $`|\Psi_{均衡}\rangle`$ 是理论均衡价格，$`S(\rho_{市场})`$ 是市场熵。
 
 ### 金融资产的量子纠缠
 
@@ -536,7 +536,7 @@ $$P(A \text{或} B) \neq P(A) + P(B) - P(A \text{和} B)$$
 
 $$\max_{\{w_i\}} \langle\Psi_{投资}|\hat{R}|\Psi_{投资}\rangle - \lambda\langle\Psi_{投资}|\hat{\sigma}^2|\Psi_{投资}\rangle$$
 
-其中 $\hat{R}$ 是收益算符，$\hat{\sigma}^2$ 是风险算符，$\{w_i\}$ 是资产权重。
+其中 $`\hat{R}`$ 是收益算符，$`\hat{\sigma}^2`$ 是风险算符，$`\{w_i\}`$ 是资产权重。
 
 量子投资组合通常优于经典投资组合：
 
@@ -554,7 +554,7 @@ $$P_{隧穿} = e^{-2\int_{x_1}^{x_2}\sqrt{2m(V(x)-E)}dx/\hbar_{经济}}$$
 
 $$|\Psi_{经济}(t)\rangle = \alpha e^{-iE_1t}|\Psi_1\rangle + \beta e^{-iE_2t}|\Psi_2\rangle$$
 
-其中振荡频率与能级差相关：$\omega = (E_2 - E_1)/\hbar_{经济}$
+其中振荡频率与能级差相关：$`\omega = (E_2 - E_1)/\hbar_{经济}`$
 
 宏观经济政策可理解为对势能景观的调整：
 
@@ -572,7 +572,7 @@ $$\phi_{货币}(x) = \sum_k (a_k e^{ikx} + a_k^{\dagger}e^{-ikx})$$
 
 $$|\Psi_{t+1}\rangle = e^{-iH_{信贷}\Delta t}|\Psi_t\rangle$$
 
-其中 $H_{信贷}$ 包含货币创造和销毁项。
+其中 $`H_{信贷}`$ 包含货币创造和销毁项。
 
 中央银行操作相当于对场施加外力：
 
@@ -582,7 +582,7 @@ $$\frac{\partial^2 \phi}{\partial t^2} - \nabla^2\phi + m^2\phi = j_{央行}(x,t
 
 $$\Delta M \cdot \Delta V \geq \frac{\hbar_{经济}}{2}$$
 
-其中 $M$ 是货币供应量，$V$ 是流通速度。
+其中 $`M`$ 是货币供应量，$`V`$ 是流通速度。
 
 ## 社会实验与验证方法
 
@@ -600,7 +600,7 @@ $$\Delta M \cdot \Delta V \geq \frac{\hbar_{经济}}{2}$$
 
 $$\mathcal{E} = \{\mathcal{P}, \mathcal{S}, \mathcal{M}, \mathcal{A}, \mathcal{I}\}$$
 
-其中 $\mathcal{P}$ 是准备过程，$\mathcal{S}$ 是社会系统，$\mathcal{M}$ 是测量方法，$\mathcal{A}$ 是分析技术，$\mathcal{I}$ 是干预手段。
+其中 $`\mathcal{P}`$ 是准备过程，$`\mathcal{S}`$ 是社会系统，$`\mathcal{M}`$ 是测量方法，$`\mathcal{A}`$ 是分析技术，$`\mathcal{I}`$ 是干预手段。
 
 ### 社会贝尔不等式实验
 
@@ -608,7 +608,7 @@ $$\mathcal{E} = \{\mathcal{P}, \mathcal{S}, \mathcal{M}, \mathcal{A}, \mathcal{I
 
 $$|E(a,b) - E(a,b') + E(a',b) + E(a',b')| \leq 2$$
 
-其中 $E(a,b)$ 是社会条件 $a$ 和 $b$ 下的关联函数。
+其中 $`E(a,b)`$ 是社会条件 $`a`$ 和 $`b`$ 下的关联函数。
 
 社会决策实验中违反贝尔不等式表明量子效应存在：
 
@@ -640,7 +640,7 @@ $$P(A|C) \neq P(A|B,C) + P(A|\neg B,C)$$
 
 $$Q_{干涉} = \frac{|P(A|C) - P(A|B,C) - P(A|\neg B,C)|}{P(A|C)}$$
 
-实验结果通常发现：$Q_{干涉} > 0.2$
+实验结果通常发现：$`Q_{干涉} > 0.2`$
 
 ### 社会纠缠度测量
 
@@ -674,7 +674,7 @@ $$\mathcal{M}_{混合} = w_1\mathcal{M}_{量子} + w_2\mathcal{M}_{经典} + w_3
 
 $$S_{验证} = \sum_i w_i \cdot S_i \cdot I(M_i, M_j)$$
 
-其中 $S_i$ 是单一方法的验证强度，$I(M_i, M_j)$ 是方法间的互信息。
+其中 $`S_i`$ 是单一方法的验证强度，$`I(M_i, M_j)`$ 是方法间的互信息。
 
 ### 量子社会计算方法
 
@@ -691,7 +691,7 @@ $$S_{验证} = \sum_i w_i \cdot S_i \cdot I(M_i, M_j)$$
 
 4. **量子机器学习算法**：从社会数据中学习量子模型参数
    $$\min_{\theta} \mathcal{L}(y, f_{\theta}(x))$$
-   其中 $f_{\theta}$ 是量子参数化电路
+   其中 $`f_{\theta}`$ 是量子参数化电路
 
 ### 实验伦理与社会影响评估
 
@@ -705,7 +705,7 @@ $$S_{验证} = \sum_i w_i \cdot S_i \cdot I(M_i, M_j)$$
 
 3. **社会系统不确定性**：预测的固有局限性
    $$\Delta F \cdot \Delta P \geq \frac{\hbar_{社会}}{2}$$
-   其中 $F$ 是未来状态，$P$ 是当前政策
+   其中 $`F`$ 是未来状态，$`P`$ 是当前政策
 
 社会影响评估矩阵：
 
@@ -716,7 +716,7 @@ I_{21} & I_{22} & ... & I_{2n} \\
 I_{m1} & I_{m2} & ... & I_{mn}
 \end{pmatrix}$$
 
-其中 $I_{ij}$ 是干预 $i$ 对社会维度 $j$ 的影响程度。
+其中 $`I_{ij}`$ 是干预 $`i`$ 对社会维度 $`j`$ 的影响程度。
 
 ## 应用与社会影响
 

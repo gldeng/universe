@@ -25,7 +25,7 @@ This document outlines the future research directions and development prospects 
 **Research Objective**: Explore the nature of quantum entanglement energy and its transformation relationship with classical energy.
 
 **具体方向**：
-- 完善量子纠缠能量量化公式 $E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$
+- 完善量子纠缠能量量化公式 $`E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})`$
 - 研究量子纠缠能量在曲率时空中的行为
 - 建立量子纠缠能量与暗能量之间的关系模型
 
@@ -36,7 +36,7 @@ This document outlines the future research directions and development prospects 
 **Research Objective**: Explore the information transmission rate limits of observers' worlds in different dimensions and their physical significance.
 
 **具体方向**：
-- 精确测量和计算维度速限公式 $c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}$
+- 精确测量和计算维度速限公式 $`c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}`$
 - 研究高维观察者世界的信息传递特性
 - 探索突破维度速限的虫洞通信机制
 

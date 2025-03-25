@@ -31,7 +31,7 @@ $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
 
-《列子》中描述的"心斋"和"坐忘"修行方法，从量子经典二元论看，是观察者通过减少经典域中的熵（$S_{classical entropy}$）来提升自身维度的方法。通过松弛既有认知结构，降低经典化强度，观察者可以接触到更广阔的量子可能性。
+《列子》中描述的"心斋"和"坐忘"修行方法，从量子经典二元论看，是观察者通过减少经典域中的熵（$`S_{classical entropy}`$）来提升自身维度的方法。通过松弛既有认知结构，降低经典化强度，观察者可以接触到更广阔的量子可能性。
 
 ### 3. 命运与自由：经典化与量子化的平衡
 
@@ -92,7 +92,7 @@ The concept of "emptiness" in Liezi corresponds to the quantum domain in Quantum
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
 
-The practices of "fasting of the mind" and "sitting in forgetfulness" described in Liezi, from a Quantum-Classical Dualism perspective, are methods for observers to elevate their dimensions by reducing entropy in the classical domain ($S_{classical entropy}$). By relaxing existing cognitive structures and reducing classicalization intensity, observers can access broader quantum possibilities.
+The practices of "fasting of the mind" and "sitting in forgetfulness" described in Liezi, from a Quantum-Classical Dualism perspective, are methods for observers to elevate their dimensions by reducing entropy in the classical domain ($`S_{classical entropy}`$). By relaxing existing cognitive structures and reducing classicalization intensity, observers can access broader quantum possibilities.
 
 ### 3. Destiny and Freedom: Balance Between Classicalization and Quantization
 

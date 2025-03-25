@@ -216,7 +216,7 @@ $$
 \text{"当心性与灵魂同样纯净时，解脱就实现了"} \Leftrightarrow \lim_{k \to \infty} \left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) = \text{Kaivalya}
 $$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\mathcal{C}$表示连通性函数，Var表示方差
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{C}`$表示连通性函数，Var表示方差
 
 ## 结论
 ## Conclusion

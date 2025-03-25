@@ -28,7 +28,7 @@ $$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
 $$
 
-其中，"格物致知"对应增加 $I_{经典知识}$，"诚意正心"对应减少 $S_{经典熵}$，而"修身齐家治国平天下"则是观察者维度 $D_{\mathcal{O}}$ 由低到高的提升过程。
+其中，"格物致知"对应增加 $`I_{经典知识}`$，"诚意正心"对应减少 $`S_{经典熵}`$，而"修身齐家治国平天下"则是观察者维度 $`D_{\mathcal{O}}`$ 由低到高的提升过程。
 
 #### 2. "格物致知"与经典化效率
 
@@ -92,7 +92,7 @@ $$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
 $$
 
-Where "investigating things to extend knowledge" corresponds to increasing $I_{\text{classical knowledge}}$, "making intentions sincere and rectifying the mind" corresponds to reducing $S_{\text{classical entropy}}$, and "cultivating oneself, bringing order to the family, governing the state, and bringing peace to the world" represents the progressive elevation of observer dimension $D_{\mathcal{O}}$.
+Where "investigating things to extend knowledge" corresponds to increasing $`I_{\text{classical knowledge}}`$, "making intentions sincere and rectifying the mind" corresponds to reducing $`S_{\text{classical entropy}}`$, and "cultivating oneself, bringing order to the family, governing the state, and bringing peace to the world" represents the progressive elevation of observer dimension $`D_{\mathcal{O}}`$.
 
 #### 2. "Investigating Things to Extend Knowledge" and Classicalization Efficiency
 

@@ -22,16 +22,16 @@
 
 ### 数字转型的形式化定义
 
-数字转型 $\mathcal{D}$ 可形式化定义为：
+数字转型 $`\mathcal{D}`$ 可形式化定义为：
 
 $$\mathcal{D} = (\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{N}_D, \mathcal{O}_D)$$
 
 其中：
-- $\mathcal{D}_Q$ 是数字转型的量子组分（可能性空间、创新潜力）
-- $\mathcal{D}_C$ 是数字转型的经典组分（技术实现、确定结构）
-- $\mathcal{I}_D$ 是数字量子-经典界面
-- $\mathcal{N}_D$ 是数字网络结构
-- $\mathcal{O}_D$ 是数字领域中的观察者集合
+- $`\mathcal{D}_Q`$ 是数字转型的量子组分（可能性空间、创新潜力）
+- $`\mathcal{D}_C`$ 是数字转型的经典组分（技术实现、确定结构）
+- $`\mathcal{I}_D`$ 是数字量子-经典界面
+- $`\mathcal{N}_D`$ 是数字网络结构
+- $`\mathcal{O}_D`$ 是数字领域中的观察者集合
 
 ### 数字转型核心公理
 
@@ -40,28 +40,28 @@ $$\mathcal{D} = (\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{N}_D, \ma
 
 $$\mathcal{D} = \mathcal{D}_Q \diamond \mathcal{D}_C$$
 
-其中 $\diamond$ 表示数字量子-经典连接操作。
+其中 $`\diamond`$ 表示数字量子-经典连接操作。
 
 **公理2: 信息状态相变**  
 数字转型本质上是信息从一种状态向另一种状态的相变过程：
 
 $$\Phi_D: \mathcal{S}_{analog}(\lambda) \rightarrow \mathcal{S}_{digital}(\lambda+\delta\lambda)$$
 
-其中 $\mathcal{S}$ 是信息系统状态，$\lambda$ 是控制参数。
+其中 $`\mathcal{S}`$ 是信息系统状态，$`\lambda`$ 是控制参数。
 
 **公理3: 混合现实原理**  
 数字与物理现实通过界面互动形成混合现实：
 
 $$\mathcal{R}_{mixed} = \mathcal{R}_{physical} \bowtie \mathcal{R}_{digital}$$
 
-其中 $\bowtie$ 表示现实融合操作。
+其中 $`\bowtie`$ 表示现实融合操作。
 
 **公理4: 数字-社会共同演化**  
 数字技术与社会系统之间存在共同演化关系：
 
 $$\frac{d}{dt}\begin{pmatrix} \mathcal{D} \\ \mathcal{S} \end{pmatrix} = \begin{pmatrix} F_D(\mathcal{D}, \mathcal{S}) \\ F_S(\mathcal{S}, \mathcal{D}) \end{pmatrix}$$
 
-其中 $\mathcal{S}$ 表示社会系统，$F_D$ 和 $F_S$ 是相应的演化函数。
+其中 $`\mathcal{S}`$ 表示社会系统，$`F_D`$ 和 $`F_S`$ 是相应的演化函数。
 
 ## 理论核心内容
 
@@ -71,7 +71,7 @@ $$\frac{d}{dt}\begin{pmatrix} \mathcal{D} \\ \mathcal{S} \end{pmatrix} = \begin{
 
 $$|\Psi_D\rangle = \sum_i \alpha_i |d_i\rangle$$
 
-其中 $|d_i\rangle$ 是可能的数字状态基矢，$\alpha_i$ 是复振幅。
+其中 $`|d_i\rangle`$ 是可能的数字状态基矢，$`\alpha_i`$ 是复振幅。
 
 数字量子特性包括：
 1. **虚拟叠加态**：多种可能的数字体验和功能的共存
@@ -83,7 +83,7 @@ $$|\Psi_D\rangle = \sum_i \alpha_i |d_i\rangle$$
 
 $$S(\rho_D) = -\text{Tr}(\rho_D \ln \rho_D) \propto \text{Innovation Potential}$$
 
-其中 $\rho_D$ 是数字系统的密度矩阵。
+其中 $`\rho_D`$ 是数字系统的密度矩阵。
 
 ### 数字经典结构与功能
 
@@ -92,22 +92,22 @@ $$S(\rho_D) = -\text{Tr}(\rho_D \ln \rho_D) \propto \text{Innovation Potential}$
 $$\mathcal{D}_C = (I_D, P_D, S_D, N_D)$$
 
 其中：
-- $I_D$ 是数字基础设施（硬件、网络等）
-- $P_D$ 是数字平台（操作系统、应用程序等）
-- $S_D$ 是数字服务（云服务、数据服务等）
-- $N_D$ 是数字规范（标准、协议、法规等）
+- $`I_D`$ 是数字基础设施（硬件、网络等）
+- $`P_D`$ 是数字平台（操作系统、应用程序等）
+- $`S_D`$ 是数字服务（云服务、数据服务等）
+- $`N_D`$ 是数字规范（标准、协议、法规等）
 
 数字经典动力学满足：
 
 $$\frac{d\mathcal{D}_C}{dt} = F_C(\mathcal{D}_C, I_{外部}, P_{用户})$$
 
-其中 $I_{外部}$ 是外部投入，$P_{用户}$ 是用户行为模式。
+其中 $`I_{外部}`$ 是外部投入，$`P_{用户}`$ 是用户行为模式。
 
 数字经典记忆机制：
 
 $$M_D(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{D}_C(\tau) d\tau$$
 
-其中 $\kappa$ 是记忆衰减核函数。
+其中 $`\kappa`$ 是记忆衰减核函数。
 
 ### 数字界面动力学
 
@@ -115,13 +115,13 @@ $$M_D(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot \mathcal{D}_C(\tau) d\tau$$
 
 $$\frac{d\mathcal{I}_D}{dt} = \alpha_D \nabla^2 \mathcal{I}_D + \beta_D(\mathcal{I}_c - \mathcal{I}_D)(\mathcal{I}_D - \mathcal{I}_0) + \gamma_D\xi_D(t) + \delta_D U_D(t)$$
 
-其中 $U_D(t)$ 是用户干预函数，表示用户对数字界面的影响。
+其中 $`U_D(t)`$ 是用户干预函数，表示用户对数字界面的影响。
 
 界面特性决定了用户体验和采纳度：
 
 $$UX = f(\mathcal{I}_D) = \int_{\Omega} \mathcal{I}_D(x) \cdot \Phi_{UX}(x) dx$$
 
-其中 $\Phi_{UX}(x)$ 是用户体验潜在场函数。
+其中 $`\Phi_{UX}(x)`$ 是用户体验潜在场函数。
 
 界面的关键参数包括：
 1. **透明度系数**：界面的可见性与隐形性
@@ -136,20 +136,20 @@ $$UX = f(\mathcal{I}_D) = \int_{\Omega} \mathcal{I}_D(x) \cdot \Phi_{UX}(x) dx$$
 $$\mathcal{N}_D = (V_D, E_D, W_D, F_D)$$
 
 其中：
-- $V_D$ 是节点集（用户、组织等）
-- $E_D$ 是连接集（关系、交互等）
-- $W_D$ 是权重集（连接强度等）
-- $F_D$ 是流动集（信息、价值流动等）
+- $`V_D`$ 是节点集（用户、组织等）
+- $`E_D`$ 是连接集（关系、交互等）
+- $`W_D`$ 是权重集（连接强度等）
+- $`F_D`$ 是流动集（信息、价值流动等）
 
 网络结构参数与社会影响：
 
 $$S_{impact} = f(C_D, L_D, H_D, R_D)$$
 
 其中：
-- $C_D$ 是聚类系数
-- $L_D$ 是特征路径长度
-- $H_D$ 是层级结构度
-- $R_D$ 是网络韧性
+- $`C_D`$ 是聚类系数
+- $`L_D`$ 是特征路径长度
+- $`H_D`$ 是层级结构度
+- $`R_D`$ 是网络韧性
 
 网络动力学特征：
 
@@ -165,7 +165,7 @@ $$\frac{d\mathcal{N}_D}{dt} = F_N(\mathcal{N}_D, \mathcal{D}_Q, \mathcal{D}_C, \
 
 $$|\Psi_{MR}\rangle = \sum_{i,j} \gamma_{ij} |p_i\rangle \otimes |d_j\rangle$$
 
-其中 $|p_i\rangle$ 是物理现实状态，$|d_j\rangle$ 是数字现实状态。
+其中 $`|p_i\rangle`$ 是物理现实状态，$`|d_j\rangle`$ 是数字现实状态。
 
 混合现实中的信息集成度：
 
@@ -185,7 +185,7 @@ $$I_{integration} = -\text{Tr}(\rho_{p,d} \ln \rho_{p,d}) - [-\text{Tr}(\rho_p \
 
 $$C_{digital} = \mathcal{T}(C_{analog}, \mathcal{D}, t)$$
 
-其中 $C_{analog}$ 是传统认知模式，$\mathcal{T}$ 是转换函数。
+其中 $`C_{analog}`$ 是传统认知模式，$`\mathcal{T}`$ 是转换函数。
 
 数字认知特性：
 1. **超链接思维**：非线性、关联性的思维方式
@@ -205,7 +205,7 @@ $$\frac{dC_{digital}}{dt} = \alpha_C(C_{optimal} - C_{digital}) - \beta_C(C_{dig
 
 $$\mathcal{S}_{digital} = \mathcal{R}(\mathcal{S}_{traditional}, \mathcal{D}, \mathcal{I}_{S-D})$$
 
-其中 $\mathcal{S}_{traditional}$ 是传统社会结构，$\mathcal{I}_{S-D}$ 是社会-数字界面。
+其中 $`\mathcal{S}_{traditional}`$ 是传统社会结构，$`\mathcal{I}_{S-D}`$ 是社会-数字界面。
 
 社会重构的主要方面：
 1. **时空压缩**：数字空间中的即时性和无距离感
@@ -228,19 +228,19 @@ $$\frac{d\mathcal{S}_{digital}}{dt} = \alpha_S\frac{d\mathcal{D}}{dt} - \beta_S(
 $$\mathcal{E}_{digital} = (P_D, C_D, F_D, R_D)$$
 
 其中：
-- $P_D$ 是信息生产者集合
-- $C_D$ 是信息消费者集合
-- $F_D$ 是信息流动网络
-- $R_D$ 是信息规则系统
+- $`P_D`$ 是信息生产者集合
+- $`C_D`$ 是信息消费者集合
+- $`F_D`$ 是信息流动网络
+- $`R_D`$ 是信息规则系统
 
 信息流动动力学：
 
 $$\frac{dI}{dt} = \alpha_I \cdot P(I) - \beta_I \cdot D(I) + \gamma_I \cdot A(I)$$
 
 其中：
-- $P(I)$ 是信息生产函数
-- $D(I)$ 是信息衰减函数
-- $A(I)$ 是信息放大函数
+- $`P(I)`$ 是信息生产函数
+- $`D(I)`$ 是信息衰减函数
+- $`A(I)`$ 是信息放大函数
 
 数字信息生态系统健康指标：
 
@@ -254,7 +254,7 @@ $$H_{info} = \frac{D_{信息} \cdot V_{流动速率}}{N_{噪声} \cdot B_{偏见
 
 $$\mathcal{A}(t) = \mathcal{A}_0 \cdot (1 - e^{-\lambda_A t}) \cdot \prod_i (1 + \eta_i \cdot \mathcal{F}_i(t))$$
 
-其中 $\mathcal{A}_0$ 是初始适应能力，$\mathcal{F}_i(t)$ 是各种促进因素。
+其中 $`\mathcal{A}_0`$ 是初始适应能力，$`\mathcal{F}_i(t)`$ 是各种促进因素。
 
 适应过程的关键阶段：
 1. **认知适应**：理解新数字范式
@@ -274,7 +274,7 @@ $$D_{divide} = \sigma \cdot \sqrt{\frac{1}{N}\sum_i(\mathcal{A}_i - \bar{\mathca
 
 $$\frac{d\mathcal{H}}{dt} = F_H(\mathcal{H}, \mathcal{D}), \quad \frac{d\mathcal{D}}{dt} = F_D(\mathcal{D}, \mathcal{H})$$
 
-其中 $\mathcal{H}$ 代表人类系统，$\mathcal{D}$ 代表数字系统。
+其中 $`\mathcal{H}`$ 代表人类系统，$`\mathcal{D}`$ 代表数字系统。
 
 共同演化稳定性条件：
 
@@ -297,10 +297,10 @@ $$\frac{\partial F_H}{\partial \mathcal{H}} \cdot \frac{\partial F_D}{\partial \
 $$E_D = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I$$
 
 其中：
-- $E_Q$ 是量子维度评估（创新性、可能性、适应性）
-- $E_C$ 是经典维度评估（效率、稳定性、规模）
-- $E_I$ 是界面维度评估（用户体验、互通性）
-- $w_Q$、$w_C$、$w_I$ 是权重系数
+- $`E_Q`$ 是量子维度评估（创新性、可能性、适应性）
+- $`E_C`$ 是经典维度评估（效率、稳定性、规模）
+- $`E_I`$ 是界面维度评估（用户体验、互通性）
+- $`w_Q`$、$`w_C`$、$`w_I`$ 是权重系数
 
 转型成熟度模型：
 
@@ -314,7 +314,7 @@ $$M_D = f(\mathcal{D}_Q, \mathcal{D}_C, \mathcal{I}_D, \mathcal{O}_D, t)$$
 
 $$\mathcal{S}_{sustainable} = \arg\max_{S \in \mathcal{S}} \{W(\mathcal{H}, \mathcal{D}, \mathcal{E}) | \mathcal{H}, \mathcal{E} > \mathcal{T}_{threshold}\}$$
 
-其中 $W$ 是总体福祉函数，$\mathcal{H}$ 是人类福祉，$\mathcal{D}$ 是数字系统性能，$\mathcal{E}$ 是环境可持续性。
+其中 $`W`$ 是总体福祉函数，$`\mathcal{H}`$ 是人类福祉，$`\mathcal{D}`$ 是数字系统性能，$`\mathcal{E}`$ 是环境可持续性。
 
 可持续转型的关键策略：
 1. **人本设计**：以人为中心的数字技术设计
@@ -326,7 +326,7 @@ $$\mathcal{S}_{sustainable} = \arg\max_{S \in \mathcal{S}} \{W(\mathcal{H}, \mat
 
 $$B_{sustainability} = \sum_i w_i \cdot B_i - \sum_j c_j \cdot C_j$$
 
-其中 $B_i$ 是各种效益，$C_j$ 是各种成本，$w_i$ 和 $c_j$ 是相应权重。
+其中 $`B_i`$ 是各种效益，$`C_j`$ 是各种成本，$`w_i`$ 和 $`c_j`$ 是相应权重。
 
 ### 数字转型中的伦理框架
 
@@ -335,11 +335,11 @@ $$B_{sustainability} = \sum_i w_i \cdot B_i - \sum_j c_j \cdot C_j$$
 $$E_{decision} = f(R, C, J, A, P)$$
 
 其中：
-- $R$ 是责任评分 (Responsibility)
-- $C$ 是同意评分 (Consent)
-- $J$ 是公正评分 (Justice)
-- $A$ 是自主评分 (Autonomy)
-- $P$ 是隐私评分 (Privacy)
+- $`R`$ 是责任评分 (Responsibility)
+- $`C`$ 是同意评分 (Consent)
+- $`J`$ 是公正评分 (Justice)
+- $`A`$ 是自主评分 (Autonomy)
+- $`P`$ 是隐私评分 (Privacy)
 
 伦理张力动态平衡：
 
@@ -365,7 +365,7 @@ $$\mathcal{D} \subset \mathcal{S}_Q$$
 
 $$|\Psi_{society}\rangle = \alpha_t|S_{traditional}\rangle + \alpha_d|S_{digital}\rangle$$
 
-其中 $|\alpha_t|^2 + |\alpha_d|^2 = 1$，比例随时间演化。
+其中 $`|\alpha_t|^2 + |\alpha_d|^2 = 1`$，比例随时间演化。
 
 ### 与量子-经典交互技术的联系
 
@@ -373,7 +373,7 @@ $$|\Psi_{society}\rangle = \alpha_t|S_{traditional}\rangle + \alpha_d|S_{digital
 
 $$\mathcal{D} = \mathcal{F}(\mathcal{IT}, \mathcal{S}, \mathcal{E})$$
 
-其中 $\mathcal{IT}$ 是交互技术集，$\mathcal{S}$ 是社会系统，$\mathcal{E}$ 是环境。
+其中 $`\mathcal{IT}`$ 是交互技术集，$`\mathcal{S}`$ 是社会系统，$`\mathcal{E}`$ 是环境。
 
 交互技术对数字转型的影响函数：
 
@@ -391,7 +391,7 @@ $$\mathcal{D} \cap \mathcal{VR} = \mathcal{MR}$$
 
 $$\frac{d\mathcal{D}}{dt} = \frac{d\mathcal{D}}{dt}\bigg|_{base} + \alpha_{VR} \cdot \mathcal{VR}(t)$$
 
-其中 $\alpha_{VR}$ 是虚拟现实的加速因子。
+其中 $`\alpha_{VR}`$ 是虚拟现实的加速因子。
 
 ## 未来研究方向
 

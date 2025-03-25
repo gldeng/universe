@@ -168,7 +168,7 @@ $$
 \text{"密云弥布...一味之水"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \text{单一源}, \mathcal{O}_i(|\psi\rangle_{\text{量子域}}) = \text{多样表现}
 $$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\mathcal{V}(\mathcal{O})$表示观察视域，$\eta$表示路径传导效率
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{V}(\mathcal{O})`$表示观察视域，$`\eta`$表示路径传导效率
 
 ## 结论
 ## Conclusion

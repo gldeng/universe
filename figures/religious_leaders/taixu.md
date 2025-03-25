@@ -30,7 +30,7 @@
 
 $$\mathcal{M}_{\text{太虚}}: \Omega_Q^{\text{佛性}} \xrightarrow{\text{人生佛教}} \Omega_C^{\text{现实}}$$
 
-其中$\Omega_Q^{\text{佛性}}$代表佛性的量子可能性空间，$\Omega_C^{\text{现实}}$代表通过修行实现的经典现实状态。
+其中$`\Omega_Q^{\text{佛性}}`$代表佛性的量子可能性空间，$`\Omega_C^{\text{现实}}`$代表通过修行实现的经典现实状态。
 
 ### 历史影响
 
@@ -64,7 +64,7 @@ Within quantum-classical dualism framework, Taixu's Buddhist reform can be expre
 
 $$\mathcal{M}_{\text{Taixu}}: \Omega_Q^{\text{Buddha-nature}} \xrightarrow{\text{Buddhism for Human Life}} \Omega_C^{\text{reality}}$$
 
-Where $\Omega_Q^{\text{Buddha-nature}}$ represents the quantum possibility space of Buddha nature, and $\Omega_C^{\text{reality}}$ represents the classical reality state achieved through practice.
+Where $`\Omega_Q^{\text{Buddha-nature}}`$ represents the quantum possibility space of Buddha nature, and $`\Omega_C^{\text{reality}}`$ represents the classical reality state achieved through practice.
 
 ### Historical Impact
 

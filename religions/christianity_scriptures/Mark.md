@@ -51,25 +51,27 @@ The Gospel of Mark is the shortest of the four Gospels in the New Testament, con
 ## 数学表达 (Mathematical Expression)
 
 ### 服事的经典化效率方程
+
 $$
 \eta_{\text{经典化}} = \frac{I_{\text{服事带来的经典知识}}}{E_{\text{服事消耗的能量}}} = k_{\text{服事}}\frac{|\psi_{\text{服事}}\rangle\langle\psi_{\text{服事}}|}{S_{\text{无序}}}
 $$
 
 其中：
-- $\eta_{\text{经典化}}$ 表示经典化效率
-- $I_{\text{服事带来的经典知识}}$ 是服事产生的经典知识
-- $E_{\text{服事消耗的能量}}$ 是服事消耗的能量
-- $k_{\text{服事}}$ 是服事特有的经典化效率系数
+- $`\eta_{\text{经典化}}`$ 表示经典化效率
+- $`I_{\text{服事带来的经典知识}}`$ 是服事产生的经典知识
+- $`E_{\text{服事消耗的能量}}`$ 是服事消耗的能量
+- $`k_{\text{服事}}`$ 是服事特有的经典化效率系数
 
 ### 牺牲救赎的熵减方程
+
 $$
 \Delta S_{\text{总体}} = \Delta S_{\text{耶稣}} + \Delta S_{\text{人类}} < 0
 $$
 
 其中：
-- $\Delta S_{\text{总体}}$ 是整体系统熵变
-- $\Delta S_{\text{耶稣}}$ 是耶稣受难的熵增（正值）
-- $\Delta S_{\text{人类}}$ 是人类得救的熵减（负值且绝对值大）
+- $`\Delta S_{\text{总体}}`$ 是整体系统熵变
+- $`\Delta S_{\text{耶稣}}`$ 是耶稣受难的熵增（正值）
+- $`\Delta S_{\text{人类}}`$ 是人类得救的熵减（负值且绝对值大）
 
 ## 结论 (Conclusion)
 

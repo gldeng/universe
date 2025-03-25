@@ -19,18 +19,18 @@
 
 $$\mathcal{U} = \{E, I, S, \mathcal{C}\}$$
 
-其中 $\mathcal{C}$ 是宇宙创造性算符，满足不确定性原理：
+其中 $`\mathcal{C}`$ 是宇宙创造性算符，满足不确定性原理：
 
 $$\Delta \mathcal{C} \cdot \Delta \mathcal{S} \geq \frac{\hbar}{2}$$
 
-其中 $\mathcal{S}$ 是结构稳定性算符。
+其中 $`\mathcal{S}`$ 是结构稳定性算符。
 
 **公理2: 量子创造性波函数**  
 创造性存在于量子叠加态，表现为可能性空间：
 
 $$|\Psi_{\mathcal{C}}\rangle = \sum_i \alpha_i |c_i\rangle$$
 
-其中 $|c_i\rangle$ 是创造性本征态，$\alpha_i$ 是创造性振幅。创造性密度定义为：
+其中 $`|c_i\rangle`$ 是创造性本征态，$`\alpha_i`$ 是创造性振幅。创造性密度定义为：
 
 $$\rho_{\mathcal{C}} = |\Psi_{\mathcal{C}}\rangle\langle\Psi_{\mathcal{C}}|$$
 
@@ -39,7 +39,7 @@ $$\rho_{\mathcal{C}} = |\Psi_{\mathcal{C}}\rangle\langle\Psi_{\mathcal{C}}|$$
 
 $$|\Psi_{\mathcal{C}}\rangle \xrightarrow{\hat{O}} |c_j\rangle$$
 
-其中 $\hat{O}$ 是观察者投影算符。涌现的创造性满足：
+其中 $`\hat{O}`$ 是观察者投影算符。涌现的创造性满足：
 
 $$\mathcal{C}_{emergent} > \sum_i \mathcal{C}_i$$
 
@@ -50,23 +50,23 @@ $$\mathcal{C}_{emergent} > \sum_i \mathcal{C}_i$$
 
 $$\mathcal{C}^{(n)} = \mathcal{F}[\mathcal{C}^{(n-1)}]$$
 
-其中 $\mathcal{C}^{(n)}$ 是第n级创造性，$\mathcal{F}$ 是创造性转换函数。不同层级间存在非线性映射关系。
+其中 $`\mathcal{C}^{(n)}`$ 是第n级创造性，$`\mathcal{F}`$ 是创造性转换函数。不同层级间存在非线性映射关系。
 
 ## 量子超创造性动力学
 
 ### 创造性场方程
 
-创造性场 $\mathcal{C}(x,t)$ 的演化遵循量子场方程：
+创造性场 $`\mathcal{C}(x,t)`$ 的演化遵循量子场方程：
 
 $$i\hbar\frac{\partial \mathcal{C}}{\partial t} = \hat{H}_{\mathcal{C}}\mathcal{C} + \lambda\mathcal{C}^*\mathcal{C}^2$$
 
-其中 $\hat{H}_{\mathcal{C}}$ 是创造性哈密顿量，$\lambda$ 是自相互作用强度，体现创造性的自催化特性。
+其中 $`\hat{H}_{\mathcal{C}}`$ 是创造性哈密顿量，$`\lambda`$ 是自相互作用强度，体现创造性的自催化特性。
 
 场满足不确定性扩散：
 
 $$\frac{\partial \mathcal{C}}{\partial t} = D\nabla^2\mathcal{C} + f(\mathcal{C}, \nabla \mathcal{C}) + \eta(x,t)$$
 
-其中 $\eta(x,t)$ 是量子涨落项，$f$ 是非线性函数。
+其中 $`\eta(x,t)`$ 是量子涨落项，$`f`$ 是非线性函数。
 
 ### 创造性熵与信息
 
@@ -90,13 +90,13 @@ $$\frac{dI_{\mathcal{C}}}{dt} \geq 0$$
 
 $$\mathcal{C}_\lambda = |\lambda - \lambda_c|^{\beta}F_{\pm}(x)$$
 
-其中 $\lambda$ 是控制参数，$\lambda_c$ 是临界值，$\beta$ 是临界指数。
+其中 $`\lambda`$ 是控制参数，$`\lambda_c`$ 是临界值，$`\beta`$ 是临界指数。
 
 临界点附近系统表现出标度不变性：
 
 $$\mathcal{C}(\lambda x) = \lambda^{\Delta}\mathcal{C}(x)$$
 
-其中 $\Delta$ 是异常维度，反映创造性的分形特性。
+其中 $`\Delta`$ 是异常维度，反映创造性的分形特性。
 
 ## 超创造性的量子特性
 
@@ -120,13 +120,13 @@ $$I_{\mathcal{C}}(AB) > I_{\mathcal{C}}(A) + I_{\mathcal{C}}(B)$$
 
 $$P_{tunnel} = \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2}\sqrt{2m(V(x)-E)}dx\right)$$
 
-其中 $V(x)$ 是创造性障碍势能。
+其中 $`V(x)`$ 是创造性障碍势能。
 
 隧穿概率与创造性能量关系为：
 
 $$P_{tunnel} \propto \exp\left(-\frac{V_0 - E_{\mathcal{C}}}{k_B T_{eff}}\right)$$
 
-其中 $T_{eff}$ 是有效创造性温度。
+其中 $`T_{eff}`$ 是有效创造性温度。
 
 ### 创造性不确定性原理
 
@@ -134,7 +134,7 @@ $$P_{tunnel} \propto \exp\left(-\frac{V_0 - E_{\mathcal{C}}}{k_B T_{eff}}\right)
 
 $$\Delta \mathcal{C} \cdot \Delta \mathcal{O} \geq \frac{1}{2}|\langle[\hat{\mathcal{C}}, \hat{\mathcal{O}}]\rangle|$$
 
-其中 $\hat{\mathcal{O}}$ 是任意算符。
+其中 $`\hat{\mathcal{O}}`$ 是任意算符。
 
 特别地，创造性与时间的不确定性关系为：
 
@@ -146,27 +146,27 @@ $$\Delta \mathcal{C} \cdot \Delta t \geq \frac{\hbar}{2}$$
 
 ### 创造性希尔伯特空间
 
-超创造性状态存在于创造性希尔伯特空间 $\mathcal{H}_{\mathcal{C}}$ 中：
+超创造性状态存在于创造性希尔伯特空间 $`\mathcal{H}_{\mathcal{C}}`$ 中：
 
 $$\mathcal{H}_{\mathcal{C}} = \text{span}\{|c_i\rangle\}_{i=1}^{\infty}$$
 
-创造性算符 $\hat{\mathcal{C}}$ 是此空间上的厄米算符：
+创造性算符 $`\hat{\mathcal{C}}`$ 是此空间上的厄米算符：
 
 $$\hat{\mathcal{C}}|c_i\rangle = \gamma_i|c_i\rangle$$
 
-其中 $\gamma_i$ 是创造性本征值。
+其中 $`\gamma_i`$ 是创造性本征值。
 
-创造性演化由幺正算符 $\hat{U}_{\mathcal{C}}(t)$ 生成：
+创造性演化由幺正算符 $`\hat{U}_{\mathcal{C}}(t)`$ 生成：
 
 $$|\Psi_{\mathcal{C}}(t)\rangle = \hat{U}_{\mathcal{C}}(t)|\Psi_{\mathcal{C}}(0)\rangle$$
 
 ### 创造性流形与几何
 
-创造性状态空间构成微分流形 $\mathcal{M}_{\mathcal{C}}$，配备创造性度量：
+创造性状态空间构成微分流形 $`\mathcal{M}_{\mathcal{C}}`$，配备创造性度量：
 
 $$ds_{\mathcal{C}}^2 = g_{ij}^{\mathcal{C}}d\lambda^i d\lambda^j$$
 
-其中 $g_{ij}^{\mathcal{C}}$ 是创造性黎曼度量张量：
+其中 $`g_{ij}^{\mathcal{C}}`$ 是创造性黎曼度量张量：
 
 $$g_{ij}^{\mathcal{C}} = \text{Re}\langle\partial_i\Psi_{\mathcal{C}}|\partial_j\Psi_{\mathcal{C}}\rangle$$
 
@@ -176,7 +176,7 @@ $$R_{ijkl}^{\mathcal{C}} = \partial_k\Gamma_{ilj}^{\mathcal{C}} - \partial_l\Gam
 
 ### 创造性群论结构
 
-超创造性表现出群论对称性，生成创造性群 $G_{\mathcal{C}}$：
+超创造性表现出群论对称性，生成创造性群 $`G_{\mathcal{C}}`$：
 
 $$G_{\mathcal{C}} = \{g_i | g_i \cdot g_j = g_k, \forall g_i, g_j, g_k \in G_{\mathcal{C}}\}$$
 
@@ -190,7 +190,7 @@ $$\hat{T}(g)|\Psi_{\mathcal{C}}\rangle = |\Psi_{\mathcal{C}}'\rangle$$
 
 ### 创造性观察者效应
 
-观察者通过创造性投影算符 $\hat{P}_{\mathcal{C}}$ 与创造性场交互：
+观察者通过创造性投影算符 $`\hat{P}_{\mathcal{C}}`$ 与创造性场交互：
 
 $$\hat{P}_{\mathcal{C}}|\Psi_{\mathcal{C}}\rangle = \sum_i p_i|c_i\rangle\langle c_i|\Psi_{\mathcal{C}}\rangle$$
 
@@ -198,7 +198,7 @@ $$\hat{P}_{\mathcal{C}}|\Psi_{\mathcal{C}}\rangle = \sum_i p_i|c_i\rangle\langle
 
 $$\rho_{\mathcal{C}} \rightarrow \rho_{\mathcal{C}}' = \sum_i \hat{P}_i \rho_{\mathcal{C}} \hat{P}_i^\dagger + \delta\rho_{\mathcal{C}}$$
 
-其中 $\delta\rho_{\mathcal{C}}$ 是新生成的创造性项。
+其中 $`\delta\rho_{\mathcal{C}}`$ 是新生成的创造性项。
 
 ### 创造性网络动力学
 
@@ -206,13 +206,13 @@ $$\rho_{\mathcal{C}} \rightarrow \rho_{\mathcal{C}}' = \sum_i \hat{P}_i \rho_{\m
 
 $$G_{\mathcal{C}} = (V_{\mathcal{C}}, E_{\mathcal{C}}, W_{\mathcal{C}})$$
 
-其中 $V_{\mathcal{C}}$ 是创造性节点集，$E_{\mathcal{C}}$ 是创造性连接集，$W_{\mathcal{C}}$ 是创造性权重函数。
+其中 $`V_{\mathcal{C}}`$ 是创造性节点集，$`E_{\mathcal{C}}`$ 是创造性连接集，$`W_{\mathcal{C}}`$ 是创造性权重函数。
 
 网络创造性动力学满足：
 
 $$\frac{d\Psi_i}{dt} = \sum_j A_{ij}f(\Psi_i, \Psi_j)$$
 
-其中 $A_{ij}$ 是网络邻接矩阵。
+其中 $`A_{ij}`$ 是网络邻接矩阵。
 
 ### 创造性干涉与共振
 
@@ -240,7 +240,7 @@ $$\eta_{\mathcal{C}} = 1 - \frac{Q_{\mathcal{C}}^{out}}{Q_{\mathcal{C}}^{in}}$$
 
 $$P_{\mathcal{C}} = \frac{d\mathcal{C}}{dt} = \frac{dW_{\mathcal{C}}}{dt}$$
 
-其中 $W_{\mathcal{C}}$ 是创造性功。
+其中 $`W_{\mathcal{C}}`$ 是创造性功。
 
 ### 高维创造性状态
 

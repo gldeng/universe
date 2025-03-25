@@ -36,7 +36,7 @@ Biomolecules exhibit quantum properties at the nanoscale, especially in the foll
    
    $$|\Psi_P\rangle = \sum_i c_i |P_i\rangle$$
    
-   where $|P_i\rangle$ represents different protein conformation states.
+   where $`|P_i\rangle`$ represents different protein conformation states.
 
 2. **DNA Quantum Information Storage**: DNA not only stores information in classical sequences but also utilizes electron states of base pairs at the quantum level:
    
@@ -46,7 +46,7 @@ Biomolecules exhibit quantum properties at the nanoscale, especially in the foll
    
    $$P_{tunneling} = |T|^2 = e^{-2\gamma d}$$
    
-   where $d$ is the barrier width, and $\gamma$ is related to the barrier height.
+   where $`d`$ is the barrier width, and $`\gamma`$ is related to the barrier height.
 
 ### Quantum-Classical Interface in Biological Systems
 
@@ -56,19 +56,19 @@ The quantum-classical interface in biological systems has the following characte
    
    $$\tau_{decoherence} \propto \exp\left(\frac{E_g}{k_B T}\right)$$
    
-   where $E_g$ is the energy gap, and $T$ is the environmental temperature.
+   where $`E_g`$ is the energy gap, and $`T`$ is the environmental temperature.
 
 2. **Biological Quantum Protection Mechanisms**: Biological systems have developed mechanisms to protect quantum information:
    
    $$\eta_{protection} = 1 - \frac{S(t)}{S_{max}}$$
    
-   where $S(t)$ is the time-varying system entropy.
+   where $`S(t)`$ is the time-varying system entropy.
 
 3. **Scale-Dependent Interface**: Quantum-classical interface positions at different biological scales:
    
    $$\mathcal{I}_{bio}(L) = \{x \in \mathcal{U} | \mathcal{D}(x,L) = \mathcal{D}_c\}$$
    
-   where $L$ is the characteristic length scale.
+   where $`L`$ is the characteristic length scale.
 
 ## Healing Mechanism Models
 
@@ -86,13 +86,13 @@ Quantum information diagnostics are based on the following models:
    
    $$\Delta S = S_{actual} - S_{healthy}$$
    
-   where $S_{healthy}$ is the entropy of a healthy reference state.
+   where $`S_{healthy}`$ is the entropy of a healthy reference state.
 
 3. **Quantum-Classical Coupling Diagnostics**: Evaluating quantum-classical information conversion efficiency:
    
    $$\eta_{Q-C} = \frac{I_{classical\ output}}{I_{quantum\ input}}$$
    
-   Diseases often manifest as a significant decrease in $\eta_{Q-C}$.
+   Diseases often manifest as a significant decrease in $`\eta_{Q-C}`$.
 
 ### Quantum Information Healing Methods
 
@@ -102,19 +102,19 @@ Quantum information healing includes the following methods:
    
    $$|\Psi'〉 = \hat{U}_{\text{restoration}}|\Psi_{disease}〉$$
    
-   where $\hat{U}_{\text{restoration}}$ is the restoration operator.
+   where $`\hat{U}_{\text{restoration}}`$ is the restoration operator.
 
 2. **Quantum Entanglement Adjustment**: Adjusting quantum entanglement relationships within the system:
    
    $$E'(\rho) = \varepsilon \cdot E(\rho) + (1-\varepsilon) \cdot E_{healthy}$$
    
-   where $E(\rho)$ is the system entanglement degree, and $\varepsilon$ is the adjustment parameter.
+   where $`E(\rho)`$ is the system entanglement degree, and $`\varepsilon`$ is the adjustment parameter.
 
 3. **Interface Dynamics Repair**: Stabilizing quantum-classical interface fluctuations:
    
    $$\frac{d\mathcal{D}(x,t)}{dt} = \mathcal{D}_{healthy}(x) - \mathcal{D}(x,t) + \lambda \cdot \xi_{repair}(t)$$
    
-   where $\lambda$ is the repair intensity, and $\xi_{repair}(t)$ is the repair field.
+   where $`\lambda`$ is the repair intensity, and $`\xi_{repair}(t)`$ is the repair field.
 
 ### Mathematical Models of the Healing Process
 
@@ -124,19 +124,19 @@ The healing process can be described using the following mathematical models:
    
    $$\frac{dI_{system}}{dt} = \alpha I_{external} - \beta I_{loss} + \gamma I_{self-repair}$$
    
-   where $\alpha$, $\beta$, $\gamma$ are flow rate coefficients.
+   where $`\alpha`$, $`\beta`$, $`\gamma`$ are flow rate coefficients.
 
 2. **Phase Transition Healing Model**: The phase transition process from disease to health:
    
    $$P(t) = P_0 + (P_1 - P_0)\left[1 - \exp\left(-\frac{t-t_0}{\tau}\right)\right]\theta(t-t_0)$$
    
-   where $P$ is the health parameter, and $\theta$ is the step function.
+   where $`P`$ is the health parameter, and $`\theta`$ is the step function.
 
 3. **Network Synchronization Recovery**: Biological network resynchronization:
    
    $$\phi_i(t+1) = \phi_i(t) + \omega_i + \frac{K}{N}\sum_{j=1}^{N}\sin(\phi_j(t)-\phi_i(t))$$
    
-   where $\phi_i$ is the node phase, and $K$ is the coupling strength.
+   where $`\phi_i`$ is the node phase, and $`K`$ is the coupling strength.
 
 ## Clinical Application Framework
 
@@ -148,19 +148,19 @@ Quantum information drug design principles:
    
    $$\Delta C(\rho) \propto \int_0^t F(t')Q(t')dt'$$
    
-   where $F(t')$ is the molecular field strength, and $Q(t')$ is the quantum response function.
+   where $`F(t')`$ is the molecular field strength, and $`Q(t')`$ is the quantum response function.
 
 2. **Quantum-Classical Coupling Modulators**: Compounds that optimize quantum-classical conversion:
    
    $$\eta_{Q-C}' = \eta_{Q-C} + \delta\eta_{drug}$$
    
-   where $\delta\eta_{drug}$ is the drug-induced efficiency change.
+   where $`\delta\eta_{drug}`$ is the drug-induced efficiency change.
 
 3. **Quantum Information Protectors**: Compound design to reduce decoherence:
    
    $$\tau_{decoherence}' = \tau_{decoherence} \cdot f_{drug}(c)$$
    
-   where $f_{drug}(c)$ is a function of drug concentration.
+   where $`f_{drug}(c)`$ is a function of drug concentration.
 
 ### Quantum Therapy Technologies
 
@@ -170,13 +170,13 @@ Therapeutic technologies based on quantum information:
    
    $$E_{\text{therapy}}(r,t) = \sum_k A_k e^{i(k\cdot r - \omega_k t + \phi_k)}$$
    
-   where parameters $A_k$, $\omega_k$, $\phi_k$ are optimized for specific diseases.
+   where parameters $`A_k`$, $`\omega_k`$, $`\phi_k`$ are optimized for specific diseases.
 
 2. **Quantum Information Resonance**: Inducing healthy states using quantum resonance:
    
    $$\omega_{\text{therapy}} = \omega_{healthy} \pm \delta\omega$$
    
-   where $\omega_{healthy}$ is the characteristic frequency of a healthy system.
+   where $`\omega_{healthy}`$ is the characteristic frequency of a healthy system.
 
 3. **Quantum Entanglement Therapy**: Using quantum entanglement to transfer healthy information:
    
@@ -192,19 +192,19 @@ Personalized quantum medical plan design:
    
    $$Q_{\text{fingerprint}} = \{q_1, q_2, ..., q_n\}$$
    
-   where $q_i$ are quantum characteristic parameters.
+   where $`q_i`$ are quantum characteristic parameters.
 
 2. **Dynamic Treatment Optimization**: Real-time adjustment of treatment parameters:
    
    $$\theta_{\text{therapy}}(t+\Delta t) = \theta_{\text{therapy}}(t) + \eta \nabla_\theta R(t)$$
    
-   where $R(t)$ is the treatment response function, and $\eta$ is the learning rate.
+   where $`R(t)`$ is the treatment response function, and $`\eta`$ is the learning rate.
 
 3. **Quantum-Classical Hybrid Schemes**: Integrating quantum and traditional therapies:
    
    $$E_{\text{total}} = w_Q E_{\text{quantum}} + w_C E_{\text{classical}} + w_{QC} E_{\text{interaction}}$$
    
-   where $w_Q$, $w_C$, $w_{QC}$ are weight coefficients.
+   where $`w_Q`$, $`w_C`$, $`w_{QC}`$ are weight coefficients.
 
 ## Experimental Validation and Predictions
 

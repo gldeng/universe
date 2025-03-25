@@ -23,7 +23,7 @@
 
 $$\Psi_{\text{波动}} = \sum_i c_i |\phi_i\rangle$$
 
-其中波动函数 $\Psi_{\text{波动}}$ 代表系统可能状态的叠加（混沌状态），涨落强度由哈密顿量决定：
+其中波动函数 $`\Psi_{\text{波动}}`$ 代表系统可能状态的叠加（混沌状态），涨落强度由哈密顿量决定：
 
 $$\Delta E_{\text{涨落}} \cdot \Delta t \geq \frac{\hbar}{2}$$
 
@@ -31,7 +31,7 @@ $$\Delta E_{\text{涨落}} \cdot \Delta t \geq \frac{\hbar}{2}$$
 
 $$F_{\text{放大}} = \alpha \cdot e^{\beta \cdot \delta r}$$
 
-其中 $\alpha$ 是振幅因子，$\beta$ 是指数增长率，$\delta r$ 是偏离平衡点的距离。
+其中 $`\alpha`$ 是振幅因子，$`\beta`$ 是指数增长率，$`\delta r`$ 是偏离平衡点的距离。
 
 ### 自组织临界点
 
@@ -39,7 +39,7 @@ $$F_{\text{放大}} = \alpha \cdot e^{\beta \cdot \delta r}$$
 
 $$Z(\beta) = \sum_i e^{-\beta E_i} \sim |\beta - \beta_c|^{-\gamma}$$
 
-临界指数 $\gamma$ 描述了系统对微扰的敏感程度。在临界点，系统的关联长度趋于无穷：
+临界指数 $`\gamma`$ 描述了系统对微扰的敏感程度。在临界点，系统的关联长度趋于无穷：
 
 $$\xi \sim |\beta - \beta_c|^{-\nu}$$
 
@@ -51,11 +51,11 @@ $$\xi \sim |\beta - \beta_c|^{-\nu}$$
 
 $$\frac{\partial \psi}{\partial t} = D\nabla^2\psi + f(\psi) + \eta(x,t)$$
 
-其中 $D$ 是扩散系数，$f(\psi)$ 是非线性反应项，$\eta(x,t)$ 是量子噪声项。在临界点附近，系统的演化表现为幂律行为：
+其中 $`D`$ 是扩散系数，$`f(\psi)`$ 是非线性反应项，$`\eta(x,t)`$ 是量子噪声项。在临界点附近，系统的演化表现为幂律行为：
 
 $$S(f) \sim f^{-\beta}$$
 
-其中 $S(f)$ 是系统响应的频谱，$\beta$ 是标度指数。
+其中 $`S(f)`$ 是系统响应的频谱，$`\beta`$ 是标度指数。
 
 ### 信息与熵动力学
 
@@ -67,7 +67,7 @@ $$I_{\text{总}} = I_{\text{结构}} + I_{\text{耗散}}$$
 
 $$\frac{dS}{dt} = \frac{dS_i}{dt} + \frac{dS_e}{dt}$$
 
-其中 $S_i$ 是内部熵，$S_e$ 是交换熵。自组织系统通过增加熵输出来降低内部熵，从而形成有序结构：
+其中 $`S_i`$ 是内部熵，$`S_e`$ 是交换熵。自组织系统通过增加熵输出来降低内部熵，从而形成有序结构：
 
 $$\frac{dS_i}{dt} < 0 \Rightarrow \frac{dS_e}{dt} > 0$$
 
@@ -83,7 +83,7 @@ $$\mathcal{L}_{\text{生物}} = \mathcal{L}_{\text{量子}} + \mathcal{L}_{\text
 
 $$E_{\text{功能}} = \sum_i w_i E_i + \sum_{i,j} w_{ij}E_{i,j}$$
 
-其中 $E_i$ 是单体能量，$E_{i,j}$ 是相互作用能。
+其中 $`E_i`$ 是单体能量，$`E_{i,j}`$ 是相互作用能。
 
 ### 神经系统的自组织
 
@@ -91,7 +91,7 @@ $$E_{\text{功能}} = \sum_i w_i E_i + \sum_{i,j} w_{ij}E_{i,j}$$
 
 $$\Phi = \int d\mu(x) \Phi(x)$$
 
-其中 $\Phi$ 是整合信息量，度量系统作为整体超越其部分的信息。神经元群体的自组织遵循重复学习公式：
+其中 $`\Phi`$ 是整合信息量，度量系统作为整体超越其部分的信息。神经元群体的自组织遵循重复学习公式：
 
 $$\Delta w_{ij} = \eta \cdot x_i \cdot y_j$$
 
@@ -111,7 +111,7 @@ $$R = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right|$$
 
 $$P(k) \sim k^{-\gamma}$$
 
-这里 $P(k)$ 是节点具有 $k$ 个连接的概率，$\gamma$ 是网络的幂律指数。
+这里 $`P(k)`$ 是节点具有 $`k`$ 个连接的概率，$`\gamma`$ 是网络的幂律指数。
 
 ## 技术与设计应用
 
@@ -125,7 +125,7 @@ $$E_{\text{材料}} = E_{\text{量子}} + E_{\text{配置}} - T\cdot S_{\text{�
 
 $$\sigma_{ij} = C_{ijkl}\varepsilon_{kl}$$
 
-其中自组织过程动态调整刚度张量 $C_{ijkl}$ 的分布。
+其中自组织过程动态调整刚度张量 $`C_{ijkl}`$ 的分布。
 
 ### 人工智能中的量子自组织
 
@@ -137,7 +137,7 @@ $$E_{\text{网络}} = -\sum_{i,j} w_{ij}s_is_j - \sum_i h_is_i$$
 
 $$\mathcal{F}_{ij} = \int dx \, p(x) \frac{\partial \log p(x)}{\partial \theta_i} \frac{\partial \log p(x)}{\partial \theta_j}$$
 
-其中 $\mathcal{F}_{ij}$ 是Fisher信息矩阵，描述参数空间的几何结构。
+其中 $`\mathcal{F}_{ij}`$ 是Fisher信息矩阵，描述参数空间的几何结构。
 
 ### 通信系统自组织
 
@@ -145,7 +145,7 @@ $$\mathcal{F}_{ij} = \int dx \, p(x) \frac{\partial \log p(x)}{\partial \theta_i
 
 $$C_{\text{网络}} = \max \sum_{i,j} f_{ij} \log \frac{f_{ij}}{g_ig_j}$$
 
-其中 $C_{\text{网络}}$ 是网络容量，自组织优化了信息流 $f_{ij}$ 和节点重要性 $g_i$。
+其中 $`C_{\text{网络}}`$ 是网络容量，自组织优化了信息流 $`f_{ij}`$ 和节点重要性 $`g_i`$。
 
 ## 测量与检验
 
@@ -159,7 +159,7 @@ $$f(x) \sim x^{-\alpha}$$
 
 $$C(r) \sim r^{-\eta}$$
 
-其中关联指数 $\eta$ 是量子-经典转换的特征指标。
+其中关联指数 $`\eta`$ 是量子-经典转换的特征指标。
 
 ### 涨落-耗散关系
 
@@ -167,7 +167,7 @@ $$C(r) \sim r^{-\eta}$$
 
 $$\langle \delta x^2 \rangle = -\frac{k_BT}{\omega}\text{Im}\chi(\omega)$$
 
-其中 $\chi(\omega)$ 是广义响应函数。这一关系揭示了自组织如何利用涨落驱动有序结构形成。
+其中 $`\chi(\omega)`$ 是广义响应函数。这一关系揭示了自组织如何利用涨落驱动有序结构形成。
 
 ### 自组织转换阈值
 
@@ -175,7 +175,7 @@ $$\langle \delta x^2 \rangle = -\frac{k_BT}{\omega}\text{Im}\chi(\omega)$$
 
 $$E_c = \frac{hc}{\lambda_c} = \hbar \omega_c$$
 
-其中 $\lambda_c$ 是临界波长，$\omega_c$ 是临界频率。超过此阈值，系统呈现完全不同的组织模式。
+其中 $`\lambda_c`$ 是临界波长，$`\omega_c`$ 是临界频率。超过此阈值，系统呈现完全不同的组织模式。
 
 ## 实验验证与预测
 

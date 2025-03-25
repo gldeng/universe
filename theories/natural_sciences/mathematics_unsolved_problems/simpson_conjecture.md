@@ -21,13 +21,13 @@
 
 ### 形式化描述
 
-辛普森猜想声称：对于任意紧致复射影流形$X$，其上的任意半单纯平坦向量丛$E$都源自于基本群$\pi_1(X)$的某个表示。形式化表述为：
+辛普森猜想声称：对于任意紧致复射影流形$`X`$，其上的任意半单纯平坦向量丛$`E`$都源自于基本群$`\pi_1(X)`$的某个表示。形式化表述为：
 
 $$
-\forall E \text{（$X$上的半单纯平坦束）}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{（表示）}, \text{使得} E \cong E_\rho
+\forall E \text{（$`X`$上的半单纯平坦束）}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{（表示）}, \text{使得} E \cong E_\rho
 $$
 
-其中$E_\rho$是由表示$\rho$导出的平坦束，$n$是向量丛的秩。
+其中$`E_\rho`$是由表示$`\rho`$导出的平坦束，$`n`$是向量丛的秩。
 
 ## 量子经典二元视角分析 | Quantum-Classical Dualism Analysis
 
@@ -53,7 +53,7 @@ $$
 \end{align}
 $$
 
-猜想断言：对于任意半单纯平坦束$E \in \mathcal{B}$，存在表示$\rho \in \mathcal{R}$使得$\mathcal{T}(\rho) = E$，即$\mathcal{T}$在半单纯平坦束上是满射。
+猜想断言：对于任意半单纯平坦束$`E \in \mathcal{B}`$，存在表示$`\rho \in \mathcal{R}`$使得$`\mathcal{T}(\rho) = E`$，即$`\mathcal{T}`$在半单纯平坦束上是满射。
 
 ### 平坦性与无扭曲信息的关系
 
@@ -79,17 +79,17 @@ $$
 
 ### 第一部分：Riemann-Hilbert对应
 
-首先考察平坦向量丛与表示之间的基本对应关系。对于任意表示$\rho: \pi_1(X) \to GL(n,\mathbb{C})$，可以构造平坦向量丛$E_\rho$：
+首先考察平坦向量丛与表示之间的基本对应关系。对于任意表示$`\rho: \pi_1(X) \to GL(n,\mathbb{C})`$，可以构造平坦向量丛$`E_\rho`$：
 
 $$
 E_\rho = \tilde{X} \times_{\pi_1(X)} \mathbb{C}^n
 $$
 
-其中$\tilde{X}$是$X$的通用覆叶。从量子经典视角，这一构造反映了从代数结构（表示）到几何结构（向量丛）的经典化编码过程。
+其中$`\tilde{X}`$是$`X`$的通用覆叶。从量子经典视角，这一构造反映了从代数结构（表示）到几何结构（向量丛）的经典化编码过程。
 
 ### 第二部分：半单纯平坦束分析
 
-接下来，分析半单纯平坦束的特殊性质。若$E$是半单纯平坦束，则$E$可分解为不可约平坦子束的直和：
+接下来，分析半单纯平坦束的特殊性质。若$`E`$是半单纯平坦束，则$`E`$可分解为不可约平坦子束的直和：
 
 $$
 E = E_1 \oplus E_2 \oplus \cdots \oplus E_k
@@ -99,7 +99,7 @@ $$
 
 ### 第三部分：调和理论应用
 
-使用辛普森的非阿贝尔霍奇理论，对于半单纯平坦束$E$，存在唯一的调和度量，使得相应的连接满足特定条件。这一理论建立了平坦束与基本群表示之间的联系：
+使用辛普森的非阿贝尔霍奇理论，对于半单纯平坦束$`E`$，存在唯一的调和度量，使得相应的连接满足特定条件。这一理论建立了平坦束与基本群表示之间的联系：
 
 $$
 \begin{align}
@@ -112,7 +112,7 @@ $$
 
 ### 第四部分：单值化问题分析
 
-考虑射影流形上的单值化问题：对于给定的平坦束$E$，是否存在有限覆叶$\pi: Y \to X$使得拉回束$\pi^*E$是平凡的？
+考虑射影流形上的单值化问题：对于给定的平坦束$`E`$，是否存在有限覆叶$`\pi: Y \to X`$使得拉回束$`\pi^*E`$是平凡的？
 
 从量子经典角度，这相当于询问：是否可以通过扩展观察者流形，使得量子纠缠结构变为简单可分离状态？
 
@@ -131,7 +131,7 @@ $$
 
 ### 简单情形：黎曼面
 
-对于黎曼面$X$（一维复流形），辛普森猜想已得到证明。此时，平坦束与基本群表示之间存在完全对应。从量子经典视角，这反映了低维观察者流形上量子-经典对应的简单性。
+对于黎曼面$`X`$（一维复流形），辛普森猜想已得到证明。此时，平坦束与基本群表示之间存在完全对应。从量子经典视角，这反映了低维观察者流形上量子-经典对应的简单性。
 
 ### 复杂情形：高维流形
 
@@ -169,13 +169,13 @@ Simpson's Conjecture is an important conjecture in the intersection of algebraic
 
 ### Formal Description
 
-Simpson's Conjecture claims: For any compact complex projective manifold $X$, any semisimple flat vector bundle $E$ on $X$ originates from a representation of the fundamental group $\pi_1(X)$. Formally stated as:
+Simpson's Conjecture claims: For any compact complex projective manifold $`X`$, any semisimple flat vector bundle $`E`$ on $`X`$ originates from a representation of the fundamental group $`\pi_1(X)`$. Formally stated as:
 
 $$
-\forall E \text{(semisimple flat bundle on $X$)}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{(representation)}, \text{such that} E \cong E_\rho
+\forall E \text{(semisimple flat bundle on $`X`$)}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{(representation)}, \text{such that} E \cong E_\rho
 $$
 
-where $E_\rho$ is the flat bundle derived from the representation $\rho$, and $n$ is the rank of the vector bundle.
+where $`E_\rho`$ is the flat bundle derived from the representation $`\rho`$, and $`n`$ is the rank of the vector bundle.
 
 ## Quantum-Classical Dualism Analysis
 
@@ -201,7 +201,7 @@ $$
 \end{align}
 $$
 
-The conjecture asserts: For any semisimple flat bundle $E \in \mathcal{B}$, there exists a representation $\rho \in \mathcal{R}$ such that $\mathcal{T}(\rho) = E$, meaning $\mathcal{T}$ is surjective on semisimple flat bundles.
+The conjecture asserts: For any semisimple flat bundle $`E \in \mathcal{B}`$, there exists a representation $`\rho \in \mathcal{R}`$ such that $`\mathcal{T}(\rho) = E`$, meaning $`\mathcal{T}`$ is surjective on semisimple flat bundles.
 
 ### Relationship Between Flatness and Distortion-Free Information
 
@@ -227,17 +227,17 @@ Representing that complex quantum entanglement structures can be decomposed into
 
 ### Part One: Riemann-Hilbert Correspondence
 
-First, examine the basic correspondence relationship between flat vector bundles and representations. For any representation $\rho: \pi_1(X) \to GL(n,\mathbb{C})$, a flat vector bundle $E_\rho$ can be constructed:
+First, examine the basic correspondence relationship between flat vector bundles and representations. For any representation $`\rho: \pi_1(X) \to GL(n,\mathbb{C})`$, a flat vector bundle $`E_\rho`$ can be constructed:
 
 $$
 E_\rho = \tilde{X} \times_{\pi_1(X)} \mathbb{C}^n
 $$
 
-where $\tilde{X}$ is the universal cover of $X$. From the Quantum-Classical perspective, this construction reflects the classicalization encoding process from algebraic structure (representation) to geometric structure (vector bundle).
+where $`\tilde{X}`$ is the universal cover of $`X`$. From the Quantum-Classical perspective, this construction reflects the classicalization encoding process from algebraic structure (representation) to geometric structure (vector bundle).
 
 ### Part Two: Analysis of Semisimple Flat Bundles
 
-Next, analyze the special properties of semisimple flat bundles. If $E$ is a semisimple flat bundle, then $E$ can be decomposed into a direct sum of irreducible flat subbundles:
+Next, analyze the special properties of semisimple flat bundles. If $`E`$ is a semisimple flat bundle, then $`E`$ can be decomposed into a direct sum of irreducible flat subbundles:
 
 $$
 E = E_1 \oplus E_2 \oplus \cdots \oplus E_k
@@ -247,7 +247,7 @@ From the Quantum-Classical perspective, this reflects the property that complex 
 
 ### Part Three: Application of Harmonic Theory
 
-Using Simpson's non-Abelian Hodge theory, for a semisimple flat bundle $E$, there exists a unique harmonic metric such that the corresponding connection satisfies specific conditions. This theory establishes the connection between flat bundles and fundamental group representations:
+Using Simpson's non-Abelian Hodge theory, for a semisimple flat bundle $`E`$, there exists a unique harmonic metric such that the corresponding connection satisfies specific conditions. This theory establishes the connection between flat bundles and fundamental group representations:
 
 $$
 \begin{align}
@@ -260,7 +260,7 @@ From the Quantum-Classical perspective, harmonic theory represents the energy ba
 
 ### Part Four: Analysis of the Uniformization Problem
 
-Consider the uniformization problem on projective manifolds: For a given flat bundle $E$, does there exist a finite cover $\pi: Y \to X$ such that the pullback bundle $\pi^*E$ is trivial?
+Consider the uniformization problem on projective manifolds: For a given flat bundle $`E`$, does there exist a finite cover $`\pi: Y \to X`$ such that the pullback bundle $`\pi^*E`$ is trivial?
 
 From the Quantum-Classical perspective, this is equivalent to asking: Is it possible to make quantum entanglement structure become a simple separable state by extending the observer manifold?
 
@@ -279,7 +279,7 @@ From the Quantum-Classical Dualism perspective, the analysis of Simpson's Conjec
 
 ### Simple Case: Riemann Surfaces
 
-For Riemann surfaces $X$ (one-dimensional complex manifolds), Simpson's Conjecture has been proven. In this case, there exists a complete correspondence between flat bundles and fundamental group representations. From the Quantum-Classical perspective, this reflects the simplicity of quantum-classical correspondence on low-dimensional observer manifolds.
+For Riemann surfaces $`X`$ (one-dimensional complex manifolds), Simpson's Conjecture has been proven. In this case, there exists a complete correspondence between flat bundles and fundamental group representations. From the Quantum-Classical perspective, this reflects the simplicity of quantum-classical correspondence on low-dimensional observer manifolds.
 
 ### Complex Case: Higher-Dimensional Manifolds
 

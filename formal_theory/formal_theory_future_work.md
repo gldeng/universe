@@ -36,8 +36,8 @@
 $$\Psi_{\text{工作}} = \mathcal{Q}_{\text{创造}} \oplus \mathcal{C}_{\text{实现}}$$
 
 其中：
-- $\mathcal{Q}_{\text{创造}}$ 表示工作的量子特性（创造力、灵感、探索、可能性）
-- $\mathcal{C}_{\text{实现}}$ 表示工作的经典特性（执行、规程、物质产出、确定性）
+- $`\mathcal{Q}_{\text{创造}}`$ 表示工作的量子特性（创造力、灵感、探索、可能性）
+- $`\mathcal{C}_{\text{实现}}`$ 表示工作的经典特性（执行、规程、物质产出、确定性）
 
 这种二元结构解释了为什么完全自动化困难且不一定理想，因为真正的工作包含量子创造性部分。
 
@@ -47,7 +47,7 @@ $$\Psi_{\text{工作}} = \mathcal{Q}_{\text{创造}} \oplus \mathcal{C}_{\text{�
 
 $$V = \mathcal{C}(\Psi_{\text{创新}}) = \langle \Psi_{\text{创新}}|\hat{V}|\Psi_{\text{创新}}\rangle$$
 
-其中 $\hat{V}$ 是社会价值算符，将创新可能性态映射到可测量的经典价值。
+其中 $`\hat{V}`$ 是社会价值算符，将创新可能性态映射到可测量的经典价值。
 
 价值创造效率取决于：
 - 量子创新空间丰富度
@@ -60,7 +60,7 @@ $$V = \mathcal{C}(\Psi_{\text{创新}}) = \langle \Psi_{\text{创新}}|\hat{V}|\
 
 $$|\Psi_{\text{意义}}\rangle = \sum_i \alpha_i |\phi_i\rangle$$
 
-其中 $|\phi_i\rangle$ 代表不同意义维度，表明工作意义不是单一确定的，而是多维叠加态（混沌态）。
+其中 $`|\phi_i\rangle`$ 代表不同意义维度，表明工作意义不是单一确定的，而是多维叠加态（混沌态）。
 
 ## 工作的二元本质
 
@@ -72,7 +72,7 @@ $$|\Psi_{\text{意义}}\rangle = \sum_i \alpha_i |\phi_i\rangle$$
 
 $$\Omega_Q^{\text{工作}} = \{|\Psi\rangle : \mathcal{H}_Q^{\text{工作}}|\Psi\rangle = E|\Psi\rangle\}$$
 
-其中 $\mathcal{H}_Q^{\text{工作}}$ 是工作可能性空间的哈密顿量。
+其中 $`\mathcal{H}_Q^{\text{工作}}`$ 是工作可能性空间的哈密顿量。
 
 量子工作域的关键特征：
 - 多路径并行探索
@@ -88,10 +88,10 @@ $$\Omega_Q^{\text{工作}} = \{|\Psi\rangle : \mathcal{H}_Q^{\text{工作}}|\Psi
 $$\Omega_C^{\text{工作}} = \{W_C : W_C = (T, O, R, V)\}$$
 
 其中：
-- $T$ 是任务集合
-- $O$ 是可观测的输出
-- $R$ 是规则和流程
-- $V$ 是可测量的价值
+- $`T`$ 是任务集合
+- $`O`$ 是可观测的输出
+- $`R`$ 是规则和流程
+- $`V`$ 是可测量的价值
 
 经典工作域的关键特征：
 - 确定性过程
@@ -122,7 +122,7 @@ $$\mathcal{I}_{\text{工作}} = \Omega_Q^{\text{工作}} \cap \Omega_C^{\text{�
 
 $$i\hbar\frac{\partial}{\partial t}|\Psi_{\text{创造}}(t)\rangle = \hat{H}_{\text{创造}}|\Psi_{\text{创造}}(t)\rangle$$
 
-其中 $\hat{H}_{\text{创造}}$ 是创造性哈密顿算符。
+其中 $`\hat{H}_{\text{创造}}`$ 是创造性哈密顿算符。
 
 创造性量子动力学特征：
 - 思想叠加态（混沌态）
@@ -166,7 +166,7 @@ $$\Delta \text{创新} \cdot \Delta \text{确定性} \geq \frac{h}{2}$$
 
 $$\mathcal{C}_{\text{创意}} = \sum_i M_i \rho_{\text{创意}} M_i^{\dagger}$$
 
-其中 $\{M_i\}$ 是经典化算符集合，$\rho_{\text{创意}}$ 是创意密度矩阵。
+其中 $`\{M_i\}`$ 是经典化算符集合，$`\rho_{\text{创意}}`$ 是创意密度矩阵。
 
 经典化通道包括：
 - 设计思维流程
@@ -181,7 +181,7 @@ $$\mathcal{C}_{\text{创意}} = \sum_i M_i \rho_{\text{创意}} M_i^{\dagger}$$
 
 $$K_{\text{显性}} = \mathcal{T}(K_{\text{隐性}})$$
 
-其中 $\mathcal{T}$ 是知识转换算符。
+其中 $`\mathcal{T}`$ 是知识转换算符。
 
 知识经典化特征：
 - 专业直觉编码
@@ -196,7 +196,7 @@ $$K_{\text{显性}} = \mathcal{T}(K_{\text{隐性}})$$
 
 $$V = \text{Tr}(\hat{V}\rho_{\text{工作}})$$
 
-其中 $\hat{V}$ 是价值测量算符，$\rho_{\text{工作}}$ 是工作状态密度矩阵。
+其中 $`\hat{V}`$ 是价值测量算符，$`\rho_{\text{工作}}`$ 是工作状态密度矩阵。
 
 价值经典化包括：
 - 成果的量化度量
@@ -228,8 +228,8 @@ $$\mathcal{S}_{\text{职业}} = \bigcup_i \Omega_{Q_i}^{\text{职业}}$$
 $$\mathcal{G}_{\text{技能}} = (V_{\text{技能}}, E_{\text{转换}})$$
 
 其中：
-- $V_{\text{技能}}$ 是技能节点集
-- $E_{\text{转换}}$ 是技能间转换边集
+- $`V_{\text{技能}}`$ 是技能节点集
+- $`E_{\text{转换}}`$ 是技能间转换边集
 
 技能网络特性：
 - 元技能与专业技能层级
@@ -275,8 +275,8 @@ $$\mathcal{F}_{\text{人}} = \{f_i : \mathcal{Q}(f_i) > \mathcal{C}(f_i)\}$$
 $$\mathcal{F}_{\text{机}} = \{f_j : \mathcal{C}(f_j) > \mathcal{Q}(f_j)\}$$
 
 其中：
-- $\mathcal{Q}(f)$ 表示功能的量子处理适应性
-- $\mathcal{C}(f)$ 表示功能的经典处理适应性
+- $`\mathcal{Q}(f)`$ 表示功能的量子处理适应性
+- $`\mathcal{C}(f)`$ 表示功能的经典处理适应性
 
 最优分工将人类集中于量子优势任务，机器集中于经典优势任务。
 
@@ -315,7 +315,7 @@ $$|\Psi_{\text{价值}}\rangle = \sum_{i,j,k} d_{ijk} |\text{创造者}_i\rangle
 
 $$\mathcal{V}_{\text{新}} = \mathcal{E}(\rho_{\text{系统}}) \neq \sum_i \mathcal{V}_i$$
 
-其中 $\mathcal{E}$ 是涌现函数，表明新价值不能简化为组分价值之和。
+其中 $`\mathcal{E}`$ 是涌现函数，表明新价值不能简化为组分价值之和。
 
 涌现价值形式：
 - 关系与连接价值
@@ -331,8 +331,8 @@ $$\mathcal{V}_{\text{新}} = \mathcal{E}(\rho_{\text{系统}}) \neq \sum_i \math
 $$\frac{d\rho_{\text{价值}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{社会}}(t), \rho_{\text{价值}}] + \mathcal{L}(\rho_{\text{价值}})$$
 
 其中：
-- $\hat{H}_{\text{社会}}(t)$ 是社会哈密顿量
-- $\mathcal{L}$ 是描述开放系统交互的林德布拉德超算符
+- $`\hat{H}_{\text{社会}}(t)`$ 是社会哈密顿量
+- $`\mathcal{L}`$ 是描述开放系统交互的林德布拉德超算符
 
 ## 工作转型与身份认同
 
@@ -344,7 +344,7 @@ $$\frac{d\rho_{\text{价值}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{社会}}(t)
 
 $$|\Psi_{\text{转型}}\rangle = \alpha|\text{旧身份}\rangle + \beta|\text{新身份}\rangle + \gamma|\text{叠加身份}\rangle$$
 
-其中 $|\alpha|^2 + |\beta|^2 + |\gamma|^2 = 1$。
+其中 $`|\alpha|^2 + |\beta|^2 + |\gamma|^2 = 1`$。
 
 身份转型特征：
 - 量子身份幽灵态
@@ -388,9 +388,9 @@ $$P(转型|条件) = |\langle\Psi_{\text{触发}}|\Psi_{\text{状态}}\rangle|^2
 $$\mathcal{N}_{\text{分布}} = (V_{\text{节点}}, E_{\text{纠缠}}, \Phi_{\text{流}})$$
 
 其中：
-- $V_{\text{节点}}$ 是工作节点集合
-- $E_{\text{纠缠}}$ 是节点间量子纠缠连接
-- $\Phi_{\text{流}}$ 是网络中的信息流
+- $`V_{\text{节点}}`$ 是工作节点集合
+- $`E_{\text{纠缠}}`$ 是节点间量子纠缠连接
+- $`\Phi_{\text{流}}`$ 是网络中的信息流
 
 网络特性包括：
 - 非局域协同作用
@@ -405,10 +405,10 @@ $$\mathcal{N}_{\text{分布}} = (V_{\text{节点}}, E_{\text{纠缠}}, \Phi_{\te
 $$\mathcal{I}_{\text{集体}} = f(\mathcal{C}, \mathcal{D}, \mathcal{S}, \rho_{\text{纠缠}})$$
 
 其中：
-- $\mathcal{C}$ 是认知多样性
-- $\mathcal{D}$ 是决策结构
-- $\mathcal{S}$ 是社会敏感性
-- $\rho_{\text{纠缠}}$ 是参与者纠缠度
+- $`\mathcal{C}`$ 是认知多样性
+- $`\mathcal{D}`$ 是决策结构
+- $`\mathcal{S}`$ 是社会敏感性
+- $`\rho_{\text{纠缠}}`$ 是参与者纠缠度
 
 集体智能特性：
 - 超个体认知能力
@@ -423,9 +423,9 @@ $$\mathcal{I}_{\text{集体}} = f(\mathcal{C}, \mathcal{D}, \mathcal{S}, \rho_{\
 $$\mathcal{G}_{\text{去中心}} = \{(A_i, R_{ij}, \Psi_{ij})\}$$
 
 其中：
-- $A_i$ 是自主工作主体
-- $R_{ij}$ 是主体间经典关系
-- $\Psi_{ij}$ 是主体间量子纠缠
+- $`A_i`$ 是自主工作主体
+- $`R_{ij}`$ 是主体间经典关系
+- $`\Psi_{ij}`$ 是主体间量子纠缠
 
 去中心化特性：
 - 自主协同的涌现秩序
@@ -484,8 +484,8 @@ $$\mathcal{A}_{\text{锚定}} = \{a_i : \mathcal{C}(a_i) \rightarrow \mathcal{M}
 $$i\hbar\frac{\partial}{\partial t}|\Psi_{\text{工作}}(t)\rangle = [\hat{H}_0 + \hat{V}(t)]|\Psi_{\text{工作}}(t)\rangle$$
 
 其中：
-- $\hat{H}_0$ 是基本工作哈密顿量
-- $\hat{V}(t)$ 是时变外部干预项
+- $`\hat{H}_0`$ 是基本工作哈密顿量
+- $`\hat{V}(t)`$ 是时变外部干预项
 
 ### 2. 工作价值量子期望
 
@@ -493,7 +493,7 @@ $$i\hbar\frac{\partial}{\partial t}|\Psi_{\text{工作}}(t)\rangle = [\hat{H}_0 
 
 $$V = \langle\Psi_{\text{工作}}|\hat{V}|\Psi_{\text{工作}}\rangle = \text{Tr}(\rho_{\text{工作}}\hat{V})$$
 
-其中 $\hat{V}$ 是价值算符，$\rho_{\text{工作}}$ 是工作状态密度矩阵。
+其中 $`\hat{V}`$ 是价值算符，$`\rho_{\text{工作}}`$ 是工作状态密度矩阵。
 
 ### 3. 工作量子-经典转换效率
 
@@ -502,6 +502,6 @@ $$V = \langle\Psi_{\text{工作}}|\hat{V}|\Psi_{\text{工作}}\rangle = \text{Tr
 $$\eta = \frac{V_{\text{实现}}}{V_{\text{潜在}}} = \frac{\text{Tr}(\rho_C\hat{V})}{\text{Tr}(\rho_Q\hat{V})}$$
 
 其中：
-- $\rho_C$ 是经典化后的工作状态
-- $\rho_Q$ 是量子可能性工作状态
-- $\eta$ 是量子-经典转换效率 
+- $`\rho_C`$ 是经典化后的工作状态
+- $`\rho_Q`$ 是量子可能性工作状态
+- $`\eta`$ 是量子-经典转换效率 

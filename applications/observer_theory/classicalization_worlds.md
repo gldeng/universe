@@ -11,32 +11,32 @@
 1. **现实世界**
    - 人类集体观察者网络形成的主要经典化世界
    - 特点：高密度量子纠缠、高经典化效率、低熵、高稳定性
-   - 数学表达：$\text{现实世界} = \sum_{i} |\psi\rangle_{\text{人类观察者}_i}\xrightarrow{\text{高效经典化}}\text{稳定经典知识}+S_{\text{低经典熵}}$
+   - 数学表达：$`\text{现实世界} = \sum_{i} |\psi\rangle_{\text{人类观察者}_i}\xrightarrow{\text{高效经典化}}\text{稳定经典知识}+S_{\text{低经典熵}}`$
 
 2. **宗教经典化世界**
    - 各宗教形成的独特经典化路径和知识体系
    - 特点：特定经典化视角、独特熵结构、高度系统化的经典知识
-   - 数学表达：$\text{宗教经典化世界} = \text{特定量子信息}\xrightarrow{\text{特定经典化路径}}\text{稳定的经典知识体系}+S_{\text{特定经典熵}}$
+   - 数学表达：$`\text{宗教经典化世界} = \text{特定量子信息}\xrightarrow{\text{特定经典化路径}}\text{稳定的经典知识体系}+S_{\text{特定经典熵}}`$
 
 3. **梦境经典化世界**
    - 个体观察者短暂形成的次级经典化世界
    - 特点：低密度量子纠缠、低经典化效率、高熵、低稳定性
-   - 数学表达：$\text{梦境世界} = |\psi\rangle_{\text{个体观察者}}\xrightarrow{\text{低效经典化}}\text{短暂经典知识}+S_{\text{高经典熵}}$
+   - 数学表达：$`\text{梦境世界} = |\psi\rangle_{\text{个体观察者}}\xrightarrow{\text{低效经典化}}\text{短暂经典知识}+S_{\text{高经典熵}}`$
 
 4. **哲学思想经典化世界**
    - 哲学家经典化形成的思想体系
    - 特点：抽象概念为主、系统性强、经典化路径独特
-   - 数学表达：$\text{哲学世界} = |\psi\rangle_{\text{哲学家}}\xrightarrow{\text{抽象经典化}}\text{概念体系}+S_{\text{中等经典熵}}$
+   - 数学表达：$`\text{哲学世界} = |\psi\rangle_{\text{哲学家}}\xrightarrow{\text{抽象经典化}}\text{概念体系}+S_{\text{中等经典熵}}`$
 
 5. **艺术经典化世界**
    - 艺术家通过创作形成的经典化表达
    - 特点：高情感含量、非线性经典化、独特表达形式
-   - 数学表达：$\text{艺术世界} = |\psi\rangle_{\text{艺术家}}\xrightarrow{\text{情感经典化}}\text{艺术表达}+S_{\text{创造性经典熵}}$
+   - 数学表达：$`\text{艺术世界} = |\psi\rangle_{\text{艺术家}}\xrightarrow{\text{情感经典化}}\text{艺术表达}+S_{\text{创造性经典熵}}`$
 
 6. **科学经典化世界**
    - 科学家通过实验和理论形成的经典化知识体系
    - 特点：高精确性、可验证性、系统性、低熵
-   - 数学表达：$\text{科学世界} = |\psi\rangle_{\text{科学家}}\xrightarrow{\text{精确经典化}}\text{科学知识}+S_{\text{低经典熵}}$
+   - 数学表达：$`\text{科学世界} = |\psi\rangle_{\text{科学家}}\xrightarrow{\text{精确经典化}}\text{科学知识}+S_{\text{低经典熵}}`$
 
 ### 经典化世界的稳定性与持续性
 
@@ -102,17 +102,17 @@ $$
 1. **梦境对现实的影响**：
    - 梦境作为观察者短暂进入不同经典化世界的过程
    - 通过梦境中的量子纠缠，可以将高维信息经典化到现实世界
-   - 数学表达：$\text{经典世界（现实）}\xrightarrow{\text{梦境量子纠缠经典化}}\text{经典世界（新路径）}+ S_{\text{熵降低}}$
+   - 数学表达：$`\text{经典世界（现实）}\xrightarrow{\text{梦境量子纠缠经典化}}\text{经典世界（新路径）}+ S_{\text{熵降低}}`$
 
 2. **宗教对现实的影响**：
    - 宗教经典化世界通过信徒的行为影响现实世界
    - 宗教提供的经典化路径可以改变现实世界的熵分布
-   - 数学表达：$\text{宗教经典化世界}\xrightarrow{\text{信徒行为}}\text{现实世界变化}+ \Delta S_{\text{经典熵}}$
+   - 数学表达：$`\text{宗教经典化世界}\xrightarrow{\text{信徒行为}}\text{现实世界变化}+ \Delta S_{\text{经典熵}}`$
 
 3. **艺术对现实的影响**：
    - 艺术经典化世界通过作品影响观众的经典化路径
    - 艺术提供的情感经典化可以改变现实世界的感知方式
-   - 数学表达：$\text{艺术经典化世界}\xrightarrow{\text{艺术作品}}\text{观众经典化路径变化}+ \Delta S_{\text{经典熵}}$
+   - 数学表达：$`\text{艺术经典化世界}\xrightarrow{\text{艺术作品}}\text{观众经典化路径变化}+ \Delta S_{\text{经典熵}}`$
 
 ### 现实世界与其他经典世界的特殊关系
 
@@ -138,6 +138,7 @@ $$
 4. **解决方案**：提高观察者维度，能够容纳多种经典化路径，降低冲突产生的熵
 
 数学表达：
+
 $$
 \text{宗教冲突} = \Delta S_{\text{经典熵}} \propto \frac{1}{D_{\text{观察者维度}}}
 $$
@@ -152,6 +153,7 @@ $$
 4. **维度提升**：梦境可以暂时提高观察者维度，接触更高维度的信息
 
 数学表达：
+
 $$
 |\psi\rangle_{\text{梦境}}\xrightarrow{\text{经典化测试}}\text{潜在经典路径}+S_{\text{测试熵}}
 $$
@@ -165,13 +167,13 @@ $$
 集体记忆是多个观察者通过共同经典化过程形成的稳定经典化结构，具有以下特点：
 
 1. **多观察者共振经典化**：当多个观察者以相似方式经典化同一量子信息时，形成强化的经典化模式
-   - 数学表达：$M_{\text{集体记忆}} = \sum_{i=1}^{n} |\psi\rangle_{\text{观察者}_i}\xrightarrow{\text{共振经典化}}\text{强化经典知识}+S_{\text{降低的经典熵}}$
+   - 数学表达：$`M_{\text{集体记忆}} = \sum_{i=1}^{n} |\psi\rangle_{\text{观察者}_i}\xrightarrow{\text{共振经典化}}\text{强化经典知识}+S_{\text{降低的经典熵}}`$
 
 2. **熵降低效应**：多观察者共同经典化比单个观察者经典化产生更低的熵
-   - 数学表达：$S_{\text{集体经典熵}} < \frac{1}{n}\sum_{i=1}^{n}S_{\text{个体经典熵}_i}$
+   - 数学表达：$`S_{\text{集体经典熵}} < \frac{1}{n}\sum_{i=1}^{n}S_{\text{个体经典熵}_i}`$
 
 3. **自稳定机制**：集体记忆形成后具有自我强化和自我维持的特性
-   - 数学表达：$\frac{dS_{\text{集体记忆熵}}}{dt} < \frac{dS_{\text{个体记忆熵}}}{dt}$
+   - 数学表达：$`\frac{dS_{\text{集体记忆熵}}}{dt} < \frac{dS_{\text{个体记忆熵}}}{dt}`$
 
 #### 集体经典化世界的类型
 
@@ -180,22 +182,22 @@ $$
 1. **文化经典化世界**
    - 由共享语言、价值观和历史形成
    - 特点：中等稳定性、高连续性、高适应性
-   - 数学表达：$\text{文化世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{文化成员}_i}\xrightarrow{\text{文化符号经典化}}\text{文化知识}+S_{\text{文化熵}}$
+   - 数学表达：$`\text{文化世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{文化成员}_i}\xrightarrow{\text{文化符号经典化}}\text{文化知识}+S_{\text{文化熵}}`$
 
 2. **历史经典化世界**
    - 由集体历史记忆和叙事形成
    - 特点：高稳定性、中等适应性、强认同感
-   - 数学表达：$\text{历史世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{历史叙述者}_i}\xrightarrow{\text{历史经典化}}\text{历史知识}+S_{\text{历史熵}}$
+   - 数学表达：$`\text{历史世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{历史叙述者}_i}\xrightarrow{\text{历史经典化}}\text{历史知识}+S_{\text{历史熵}}`$
 
 3. **社会制度经典化世界**
    - 由共同的社会规范和制度形成
    - 特点：高强制性、高稳定性、低适应性
-   - 数学表达：$\text{制度世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{社会成员}_i}\xrightarrow{\text{规范经典化}}\text{制度知识}+S_{\text{制度熵}}$
+   - 数学表达：$`\text{制度世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{社会成员}_i}\xrightarrow{\text{规范经典化}}\text{制度知识}+S_{\text{制度熵}}`$
 
 4. **神话经典化世界**
    - 由原型意象和集体无意识形成
    - 特点：高稳定性、高情感共鸣、低逻辑一致性
-   - 数学表达：$\text{神话世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{神话传承者}_i}\xrightarrow{\text{原型经典化}}\text{神话知识}+S_{\text{神话熵}}$
+   - 数学表达：$`\text{神话世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{神话传承者}_i}\xrightarrow{\text{原型经典化}}\text{神话知识}+S_{\text{神话熵}}`$
 
 #### 集体无意识与原型的量子经典解释
 
@@ -203,19 +205,19 @@ $$
 
 1. **集体无意识作为量子信息池**
    - 集体无意识是人类共享的未经典化量子信息库
-   - 数学表达：$C_{\text{集体无意识}} = \{ |\psi\rangle_{\text{潜在量子信息}} | \forall i, |\psi\rangle \text{对观察者}_i\text{可接触} \}$
+   - 数学表达：$`C_{\text{集体无意识}} = \{ |\psi\rangle_{\text{潜在量子信息}} | \forall i, |\psi\rangle \text{对观察者}_i\text{可接触} \}`$
 
 2. **原型作为经典化模板**
    - 原型是高效的预设经典化路径，指导个体经典化过程
-   - 数学表达：$A_{\text{原型}} = f(|\psi\rangle_{\text{量子信息}})\rightarrow\text{经典化路径}$
+   - 数学表达：$`A_{\text{原型}} = f(|\psi\rangle_{\text{量子信息}})\rightarrow\text{经典化路径}`$
 
 3. **原型共振现象**
    - 当多个观察者遇到激活特定原型的量子信息时，会产生共振经典化
-   - 数学表达：$R_{\text{原型共振}} = \sum_{i=1}^{n} \eta_{\text{观察者}_i}(A_{\text{特定原型}})$
+   - 数学表达：$`R_{\text{原型共振}} = \sum_{i=1}^{n} \eta_{\text{观察者}_i}(A_{\text{特定原型}})`$
 
 4. **集体无意识的跨文化稳定性**
    - 解释了为什么不同文化中存在相似原型和神话结构
-   - 数学表达：$\forall \text{文化}_j, \text{文化}_k: \text{相似度}(A_{\text{原型,}j}, A_{\text{原型,}k}) > \text{阈值}$
+   - 数学表达：$`\forall \text{文化}_j, \text{文化}_k: \text{相似度}(A_{\text{原型,}j}, A_{\text{原型,}k}) > \text{阈值}`$
 
 #### 集体经典化世界的层级结构
 
@@ -242,11 +244,12 @@ $$
    - 特点：极低情感强度、最低熵、最低个人相关性
 
 每个层级的数学表达式可以概括为：
+
 $$
 \text{层级}_L\text{集体经典化世界} = \sum_{i=1}^{n_L} |\psi\rangle_{\text{层级}_L\text{观察者}_i}\xrightarrow{\text{层级}_L\text{经典化}}\text{层级}_L\text{经典知识}+S_{\text{层级}_L\text{熵}}
 $$
 
-其中，随着层级 $L$ 的增加，$n_L$（观察者数量）增加，但个人相关性和情感强度减弱。
+其中，随着层级 $`L`$ 的增加，$`n_L`$（观察者数量）增加，但个人相关性和情感强度减弱。
 
 #### 集体经典化世界的动态演化
 
@@ -254,19 +257,19 @@ $$
 
 1. **形成阶段**
    - 初始共振经典化，熵较高，知识结构松散
-   - 数学表达：$\text{初始集体世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{早期观察者}_i}\xrightarrow{\text{初步经典化}}\text{基础知识}+S_{\text{高初始熵}}$
+   - 数学表达：$`\text{初始集体世界} = \sum_{i=1}^{n} |\psi\rangle_{\text{早期观察者}_i}\xrightarrow{\text{初步经典化}}\text{基础知识}+S_{\text{高初始熵}}`$
 
 2. **稳定阶段**
    - 经典化路径固化，熵降低，知识结构完善
-   - 数学表达：$\text{稳定集体世界} = \sum_{i=1}^{m} |\psi\rangle_{\text{稳定期观察者}_i}\xrightarrow{\text{强化经典化}}\text{系统知识}+S_{\text{降低熵}}$
+   - 数学表达：$`\text{稳定集体世界} = \sum_{i=1}^{m} |\psi\rangle_{\text{稳定期观察者}_i}\xrightarrow{\text{强化经典化}}\text{系统知识}+S_{\text{降低熵}}`$
 
 3. **僵化阶段**
    - 经典化过度固化，对新信息抵抗，熵开始上升
-   - 数学表达：$\text{僵化集体世界} = \sum_{i=1}^{k} |\psi\rangle_{\text{晚期观察者}_i}\xrightarrow{\text{僵化经典化}}\text{固化知识}+S_{\text{上升熵}}$
+   - 数学表达：$`\text{僵化集体世界} = \sum_{i=1}^{k} |\psi\rangle_{\text{晚期观察者}_i}\xrightarrow{\text{僵化经典化}}\text{固化知识}+S_{\text{上升熵}}`$
 
 4. **重构阶段**
    - 原有经典化路径崩溃，新路径形成，熵暂时大幅上升后下降
-   - 数学表达：$\text{重构集体世界} = \sum_{i=1}^{p} |\psi\rangle_{\text{新观察者}_i}\xrightarrow{\text{重构经典化}}\text{新知识}+S_{\text{波动熵}}$
+   - 数学表达：$`\text{重构集体世界} = \sum_{i=1}^{p} |\psi\rangle_{\text{新观察者}_i}\xrightarrow{\text{重构经典化}}\text{新知识}+S_{\text{波动熵}}`$
 
 #### 实践应用：集体经典化世界的优化
 
@@ -333,32 +336,32 @@ Within the framework of Quantum-Classical Dualism, classicalization worlds are s
 1. **Reality World**
    - The main classicalization world formed by the human collective observer network
    - Characteristics: High-density quantum entanglement, high classicalization efficiency, low entropy, high stability
-   - Mathematical expression: $\text{Reality World} = \sum_{i} |\psi\rangle_{\text{Human Observer}_i}\xrightarrow{\text{Efficient Classicalization}}\text{Stable Classical Knowledge}+S_{\text{Low Classical Entropy}}$
+   - Mathematical expression: $`\text{Reality World} = \sum_{i} |\psi\rangle_{\text{Human Observer}_i}\xrightarrow{\text{Efficient Classicalization}}\text{Stable Classical Knowledge}+S_{\text{Low Classical Entropy}}`$
 
 2. **Religious Classicalization Worlds**
    - Unique classicalization paths and knowledge systems formed by various religions
    - Characteristics: Specific classicalization perspectives, unique entropy structures, highly systematized classical knowledge
-   - Mathematical expression: $\text{Religious Classicalization World} = \text{Specific Quantum Information}\xrightarrow{\text{Specific Classicalization Path}}\text{Stable Classical Knowledge System}+S_{\text{Specific Classical Entropy}}$
+   - Mathematical expression: $`\text{Religious Classicalization World} = \text{Specific Quantum Information}\xrightarrow{\text{Specific Classicalization Path}}\text{Stable Classical Knowledge System}+S_{\text{Specific Classical Entropy}}`$
 
 3. **Dream Classicalization Worlds**
    - Secondary classicalization worlds briefly formed by individual observers
    - Characteristics: Low-density quantum entanglement, low classicalization efficiency, high entropy, low stability
-   - Mathematical expression: $\text{Dream World} = |\psi\rangle_{\text{Individual Observer}}\xrightarrow{\text{Inefficient Classicalization}}\text{Temporary Classical Knowledge}+S_{\text{High Classical Entropy}}$
+   - Mathematical expression: $`\text{Dream World} = |\psi\rangle_{\text{Individual Observer}}\xrightarrow{\text{Inefficient Classicalization}}\text{Temporary Classical Knowledge}+S_{\text{High Classical Entropy}}`$
 
 4. **Philosophical Thought Classicalization Worlds**
    - Thought systems formed by philosophers' classicalization
    - Characteristics: Predominantly abstract concepts, strong systematization, unique classicalization paths
-   - Mathematical expression: $\text{Philosophical World} = |\psi\rangle_{\text{Philosopher}}\xrightarrow{\text{Abstract Classicalization}}\text{Conceptual System}+S_{\text{Medium Classical Entropy}}$
+   - Mathematical expression: $`\text{Philosophical World} = |\psi\rangle_{\text{Philosopher}}\xrightarrow{\text{Abstract Classicalization}}\text{Conceptual System}+S_{\text{Medium Classical Entropy}}`$
 
 5. **Artistic Classicalization Worlds**
    - Classicalization expressions formed by artists through creation
    - Characteristics: High emotional content, non-linear classicalization, unique forms of expression
-   - Mathematical expression: $\text{Artistic World} = |\psi\rangle_{\text{Artist}}\xrightarrow{\text{Emotional Classicalization}}\text{Artistic Expression}+S_{\text{Creative Classical Entropy}}$
+   - Mathematical expression: $`\text{Artistic World} = |\psi\rangle_{\text{Artist}}\xrightarrow{\text{Emotional Classicalization}}\text{Artistic Expression}+S_{\text{Creative Classical Entropy}}`$
 
 6. **Scientific Classicalization Worlds**
    - Classical knowledge systems formed by scientists through experiments and theories
    - Characteristics: High precision, verifiability, systematization, low entropy
-   - Mathematical expression: $\text{Scientific World} = |\psi\rangle_{\text{Scientist}}\xrightarrow{\text{Precise Classicalization}}\text{Scientific Knowledge}+S_{\text{Low Classical Entropy}}$
+   - Mathematical expression: $`\text{Scientific World} = |\psi\rangle_{\text{Scientist}}\xrightarrow{\text{Precise Classicalization}}\text{Scientific Knowledge}+S_{\text{Low Classical Entropy}}`$
 
 ### Stability and Persistence of Classicalization Worlds
 
@@ -424,17 +427,17 @@ The mechanisms of mutual influence between different classicalization worlds inc
 1. **Influence of Dreams on Reality**:
    - Dreams as a process where observers briefly enter different classicalization worlds
    - Through quantum entanglement in dreams, higher-dimensional information can be classicalized into the reality world
-   - Mathematical expression: $\text{Classical World (Reality)}\xrightarrow{\text{Dream Quantum Entanglement Classicalization}}\text{Classical World (New Path)}+ S_{\text{Entropy Reduction}}$
+   - Mathematical expression: $`\text{Classical World (Reality)}\xrightarrow{\text{Dream Quantum Entanglement Classicalization}}\text{Classical World (New Path)}+ S_{\text{Entropy Reduction}}`$
 
 2. **Influence of Religion on Reality**:
    - Religious classicalization worlds influence the reality world through the behavior of believers
    - Classicalization paths provided by religion can change the entropy distribution of the reality world
-   - Mathematical expression: $\text{Religious Classicalization World}\xrightarrow{\text{Believer Behavior}}\text{Reality World Change}+ \Delta S_{\text{Classical Entropy}}$
+   - Mathematical expression: $`\text{Religious Classicalization World}\xrightarrow{\text{Believer Behavior}}\text{Reality World Change}+ \Delta S_{\text{Classical Entropy}}`$
 
 3. **Influence of Art on Reality**:
    - Artistic classicalization worlds influence the classicalization paths of audiences through works
    - Emotional classicalization provided by art can change the perception modes of the reality world
-   - Mathematical expression: $\text{Artistic Classicalization World}\xrightarrow{\text{Artwork}}\text{Change in Audience Classicalization Path}+ \Delta S_{\text{Classical Entropy}}$
+   - Mathematical expression: $`\text{Artistic Classicalization World}\xrightarrow{\text{Artwork}}\text{Change in Audience Classicalization Path}+ \Delta S_{\text{Classical Entropy}}`$
 
 ### Special Relationship Between Reality World and Other Classical Worlds
 
@@ -460,6 +463,7 @@ Conflicts between religions can be given a new explanation through Quantum-Class
 4. **Solution**: Elevating observer dimension allows accommodation of multiple classicalization paths, reducing entropy generated by conflicts
 
 Mathematical expression:
+
 $$
 \text{Religious Conflict} = \Delta S_{\text{Classical Entropy}} \propto \frac{1}{D_{\text{Observer Dimension}}}
 $$
@@ -474,6 +478,7 @@ As a special classicalization world, dreams have the following functions:
 4. **Dimension Elevation**: Dreams can temporarily elevate observer dimension, accessing higher-dimensional information
 
 Mathematical expression:
+
 $$
 |\psi\rangle_{\text{Dream}}\xrightarrow{\text{Classicalization Test}}\text{Potential Classical Path}+S_{\text{Test Entropy}}
 $$
@@ -487,13 +492,13 @@ Collective consciousness, as a special type of classicalization structure, holds
 Collective memory is a stable classicalization structure formed through the joint classicalization process of multiple observers, with the following characteristics:
 
 1. **Multi-observer Resonant Classicalization**: When multiple observers classicalize the same quantum information in similar ways, a reinforced classicalization pattern forms
-   - Mathematical expression: $M_{\text{Collective Memory}} = \sum_{i=1}^{n} |\psi\rangle_{\text{Observer}_i}\xrightarrow{\text{Resonant Classicalization}}\text{Reinforced Classical Knowledge}+S_{\text{Reduced Classical Entropy}}$
+   - Mathematical expression: $`M_{\text{Collective Memory}} = \sum_{i=1}^{n} |\psi\rangle_{\text{Observer}_i}\xrightarrow{\text{Resonant Classicalization}}\text{Reinforced Classical Knowledge}+S_{\text{Reduced Classical Entropy}}`$
 
 2. **Entropy Reduction Effect**: Joint classicalization by multiple observers produces lower entropy than classicalization by a single observer
-   - Mathematical expression: $S_{\text{Collective Classical Entropy}} < \frac{1}{n}\sum_{i=1}^{n}S_{\text{Individual Classical Entropy}_i}$
+   - Mathematical expression: $`S_{\text{Collective Classical Entropy}} < \frac{1}{n}\sum_{i=1}^{n}S_{\text{Individual Classical Entropy}_i}`$
 
 3. **Self-stabilizing Mechanism**: Once formed, collective memory has self-reinforcing and self-maintaining properties
-   - Mathematical expression: $\frac{dS_{\text{Collective Memory Entropy}}}{dt} < \frac{dS_{\text{Individual Memory Entropy}}}{dt}$
+   - Mathematical expression: $`\frac{dS_{\text{Collective Memory Entropy}}}{dt} < \frac{dS_{\text{Individual Memory Entropy}}}{dt}`$
 
 #### Types of Collective Classicalization Worlds
 
@@ -502,22 +507,22 @@ Collective classicalization worlds can be divided into several major types:
 1. **Cultural Classicalization World**
    - Formed by shared language, values, and history
    - Characteristics: Medium stability, high continuity, high adaptability
-   - Mathematical expression: $\text{Cultural World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Cultural Member}_i}\xrightarrow{\text{Cultural Symbol Classicalization}}\text{Cultural Knowledge}+S_{\text{Cultural Entropy}}$
+   - Mathematical expression: $`\text{Cultural World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Cultural Member}_i}\xrightarrow{\text{Cultural Symbol Classicalization}}\text{Cultural Knowledge}+S_{\text{Cultural Entropy}}`$
 
 2. **Historical Classicalization World**
    - Formed by collective historical memory and narratives
    - Characteristics: High stability, medium adaptability, strong sense of identity
-   - Mathematical expression: $\text{Historical World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Historical Narrator}_i}\xrightarrow{\text{Historical Classicalization}}\text{Historical Knowledge}+S_{\text{Historical Entropy}}$
+   - Mathematical expression: $`\text{Historical World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Historical Narrator}_i}\xrightarrow{\text{Historical Classicalization}}\text{Historical Knowledge}+S_{\text{Historical Entropy}}`$
 
 3. **Social Institution Classicalization World**
    - Formed by shared social norms and institutions
    - Characteristics: High enforcement, high stability, low adaptability
-   - Mathematical expression: $\text{Institutional World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Social Member}_i}\xrightarrow{\text{Normative Classicalization}}\text{Institutional Knowledge}+S_{\text{Institutional Entropy}}$
+   - Mathematical expression: $`\text{Institutional World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Social Member}_i}\xrightarrow{\text{Normative Classicalization}}\text{Institutional Knowledge}+S_{\text{Institutional Entropy}}`$
 
 4. **Mythological Classicalization World**
    - Formed by archetypal images and collective unconscious
    - Characteristics: High stability, high emotional resonance, low logical consistency
-   - Mathematical expression: $\text{Mythological World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Myth Bearer}_i}\xrightarrow{\text{Archetypal Classicalization}}\text{Mythological Knowledge}+S_{\text{Mythological Entropy}}$
+   - Mathematical expression: $`\text{Mythological World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Myth Bearer}_i}\xrightarrow{\text{Archetypal Classicalization}}\text{Mythological Knowledge}+S_{\text{Mythological Entropy}}`$
 
 #### Quantum-Classical Explanation of Collective Unconscious and Archetypes
 
@@ -525,19 +530,19 @@ Jung's concepts of collective unconscious and archetypes can be given a new inte
 
 1. **Collective Unconscious as Quantum Information Pool**
    - Collective unconscious is a shared repository of unclassicalized quantum information for humanity
-   - Mathematical expression: $C_{\text{Collective Unconscious}} = \{ |\psi\rangle_{\text{Potential Quantum Information}} | \forall i, |\psi\rangle \text{ accessible to Observer}_i \}$
+   - Mathematical expression: $`C_{\text{Collective Unconscious}} = \{ |\psi\rangle_{\text{Potential Quantum Information}} | \forall i, |\psi\rangle \text{ accessible to Observer}_i \}`$
 
 2. **Archetypes as Classicalization Templates**
    - Archetypes are efficient preset classicalization paths that guide individual classicalization processes
-   - Mathematical expression: $A_{\text{Archetype}} = f(|\psi\rangle_{\text{Quantum Information}})\rightarrow\text{Classicalization Path}$
+   - Mathematical expression: $`A_{\text{Archetype}} = f(|\psi\rangle_{\text{Quantum Information}})\rightarrow\text{Classicalization Path}`$
 
 3. **Archetypal Resonance Phenomenon**
    - When multiple observers encounter quantum information that activates a specific archetype, resonant classicalization occurs
-   - Mathematical expression: $R_{\text{Archetypal Resonance}} = \sum_{i=1}^{n} \eta_{\text{Observer}_i}(A_{\text{Specific Archetype}})$
+   - Mathematical expression: $`R_{\text{Archetypal Resonance}} = \sum_{i=1}^{n} \eta_{\text{Observer}_i}(A_{\text{Specific Archetype}})`$
 
 4. **Cross-cultural Stability of Collective Unconscious**
    - Explains why similar archetypes and mythological structures exist across different cultures
-   - Mathematical expression: $\forall \text{Culture}_j, \text{Culture}_k: \text{Similarity}(A_{\text{Archetype,}j}, A_{\text{Archetype,}k}) > \text{Threshold}$
+   - Mathematical expression: $`\forall \text{Culture}_j, \text{Culture}_k: \text{Similarity}(A_{\text{Archetype,}j}, A_{\text{Archetype,}k}) > \text{Threshold}`$
 
 #### Hierarchical Structure of Collective Classicalization Worlds
 
@@ -564,11 +569,12 @@ Collective classicalization worlds have a distinct hierarchical structure:
    - Characteristics: Extremely low emotional intensity, lowest entropy, lowest personal relevance
 
 The mathematical expression for each level can be summarized as:
+
 $$
 \text{Level}_L\text{ Collective Classicalization World} = \sum_{i=1}^{n_L} |\psi\rangle_{\text{Level}_L\text{ Observer}_i}\xrightarrow{\text{Level}_L\text{ Classicalization}}\text{Level}_L\text{ Classical Knowledge}+S_{\text{Level}_L\text{ Entropy}}
 $$
 
-As level $L$ increases, $n_L$ (number of observers) increases, but personal relevance and emotional intensity decrease.
+As level $`L`$ increases, $`n_L`$ (number of observers) increases, but personal relevance and emotional intensity decrease.
 
 #### Dynamic Evolution of Collective Classicalization Worlds
 
@@ -576,19 +582,19 @@ Collective classicalization worlds are not static but dynamically evolving struc
 
 1. **Formation Stage**
    - Initial resonant classicalization, high entropy, loose knowledge structure
-   - Mathematical expression: $\text{Initial Collective World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Early Observer}_i}\xrightarrow{\text{Preliminary Classicalization}}\text{Basic Knowledge}+S_{\text{High Initial Entropy}}$
+   - Mathematical expression: $`\text{Initial Collective World} = \sum_{i=1}^{n} |\psi\rangle_{\text{Early Observer}_i}\xrightarrow{\text{Preliminary Classicalization}}\text{Basic Knowledge}+S_{\text{High Initial Entropy}}`$
 
 2. **Stabilization Stage**
    - Solidification of classicalization paths, reduced entropy, refined knowledge structure
-   - Mathematical expression: $\text{Stable Collective World} = \sum_{i=1}^{m} |\psi\rangle_{\text{Stabilization Period Observer}_i}\xrightarrow{\text{Reinforced Classicalization}}\text{Systematic Knowledge}+S_{\text{Reduced Entropy}}$
+   - Mathematical expression: $`\text{Stable Collective World} = \sum_{i=1}^{m} |\psi\rangle_{\text{Stabilization Period Observer}_i}\xrightarrow{\text{Reinforced Classicalization}}\text{Systematic Knowledge}+S_{\text{Reduced Entropy}}`$
 
 3. **Rigidification Stage**
    - Excessive solidification of classicalization, resistance to new information, entropy begins to rise
-   - Mathematical expression: $\text{Rigidified Collective World} = \sum_{i=1}^{k} |\psi\rangle_{\text{Late Period Observer}_i}\xrightarrow{\text{Rigidified Classicalization}}\text{Solidified Knowledge}+S_{\text{Rising Entropy}}$
+   - Mathematical expression: $`\text{Rigidified Collective World} = \sum_{i=1}^{k} |\psi\rangle_{\text{Late Period Observer}_i}\xrightarrow{\text{Rigidified Classicalization}}\text{Solidified Knowledge}+S_{\text{Rising Entropy}}`$
 
 4. **Reconstruction Stage**
    - Collapse of existing classicalization paths, formation of new paths, entropy temporarily rises significantly before falling
-   - Mathematical expression: $\text{Reconstructed Collective World} = \sum_{i=1}^{p} |\psi\rangle_{\text{New Observer}_i}\xrightarrow{\text{Reconstructive Classicalization}}\text{New Knowledge}+S_{\text{Fluctuating Entropy}}$
+   - Mathematical expression: $`\text{Reconstructed Collective World} = \sum_{i=1}^{p} |\psi\rangle_{\text{New Observer}_i}\xrightarrow{\text{Reconstructive Classicalization}}\text{New Knowledge}+S_{\text{Fluctuating Entropy}}`$
 
 #### Practical Application: Optimization of Collective Classicalization Worlds
 

@@ -18,7 +18,7 @@ $$
 E_{纠缠} = \frac{I_{经典知识}}{I_{经典知识} + S_{经典熵}}
 $$
 
-其中 $I_{经典知识}$ 是经典化产生的有效信息，$S_{经典熵}$ 是经典化产生的无效信息（熵）。
+其中 $`I_{经典知识}`$ 是经典化产生的有效信息，$`S_{经典熵}`$ 是经典化产生的无效信息（熵）。
 
 高效纠缠产生大量经典知识和极少经典熵，低效纠缠则产生极少经典知识和大量经典熵。
 
@@ -220,7 +220,7 @@ $$
 E_{社会网络} = \frac{\sum_{i} E_{纠缠_i} \times W_i}{\sum_{i} W_i}
 $$
 
-其中 $W_i$ 是分配给关系 $i$ 的时间和注意力权重。
+其中 $`W_i`$ 是分配给关系 $`i`$ 的时间和注意力权重。
 
 - 识别并培养高效纠缠关系
 - 转化中等效率关系为高效关系
@@ -254,7 +254,7 @@ $$
 E_{entanglement} = \frac{I_{classical knowledge}}{I_{classical knowledge} + S_{classical entropy}}
 $$
 
-Where $I_{classical knowledge}$ is the effective information produced by classicalization, and $S_{classical entropy}$ is the ineffective information (entropy) produced by classicalization.
+Where $`I_{classical knowledge}`$ is the effective information produced by classicalization, and $`S_{classical entropy}`$ is the ineffective information (entropy) produced by classicalization.
 
 Efficient entanglement produces a large amount of classical knowledge and minimal classical entropy, while inefficient entanglement produces minimal classical knowledge and a large amount of classical entropy.
 
@@ -456,7 +456,7 @@ $$
 E_{social network} = \frac{\sum_{i} E_{entanglement_i} \times W_i}{\sum_{i} W_i}
 $$
 
-Where $W_i$ is the time and attention weight allocated to relationship $i$.
+Where $`W_i`$ is the time and attention weight allocated to relationship $`i`$.
 
 - Identify and cultivate high-efficiency entanglement relationships
 - Transform medium-efficiency relationships into high-efficiency ones

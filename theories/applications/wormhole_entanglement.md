@@ -43,9 +43,9 @@ I_{\text{虫洞}} = \log_2 d - S(\rho_A) - S(\rho_B) + I(A:B)
 $$
 
 其中：
-- $d$ 是系统的维度
-- $S(\rho_A)$ 和 $S(\rho_B)$ 分别是区域A和B的量子熵
-- $I(A:B)$ 是区域A和B之间的量子互信息
+- $`d`$ 是系统的维度
+- $`S(\rho_A)`$ 和 $`S(\rho_B)`$ 分别是区域A和B的量子熵
+- $`I(A:B)`$ 是区域A和B之间的量子互信息
 
 这表明虫洞的信息容量与连接区域的量子纠缠程度直接相关。
 
@@ -58,8 +58,8 @@ $$
    - 虫洞在经典观察者视角下表现为时空的"弯曲"或"连接"。
 
 2. **观察者维度与虫洞感知**：
-   - 低维度观察者（$D_O < 3$）可能完全无法感知虫洞的存在；
-   - 高维度观察者（$D_O \geq 4$）可能直接感知虫洞的量子纠缠结构。
+   - 低维度观察者（$`D_O < 3`$）可能完全无法感知虫洞的存在；
+   - 高维度观察者（$`D_O \geq 4`$）可能直接感知虫洞的量子纠缠结构。
 
 3. **虫洞信息的经典化**：
    - 经典观察者若能有效经典化虫洞中的量子信息，理论上可实现宇宙不同区域间的信息瞬时传递；
@@ -93,7 +93,7 @@ $$
 E_{\text{宇宙}} = \sum_{i,j} E_{\text{虫洞}}(i,j) + E_{\text{局域}}
 $$
 
-其中 $E_{\text{虫洞}}(i,j)$ 表示连接区域i和j的虫洞能量，$E_{\text{局域}}$ 表示局域相互作用能量。
+其中 $`E_{\text{虫洞}}(i,j)`$ 表示连接区域i和j的虫洞能量，$`E_{\text{局域}}`$ 表示局域相互作用能量。
 
 ### 五、恒星与星系作为信息节点与虫洞的关系
 
@@ -221,9 +221,9 @@ I_{\text{Wormhole}} = \log_2 d - S(\rho_A) - S(\rho_B) + I(A:B)
 $$
 
 Where:
-- $d$ is the dimension of the system
-- $S(\rho_A)$ and $S(\rho_B)$ are the quantum entropies of regions A and B respectively
-- $I(A:B)$ is the quantum mutual information between regions A and B
+- $`d`$ is the dimension of the system
+- $`S(\rho_A)`$ and $`S(\rho_B)`$ are the quantum entropies of regions A and B respectively
+- $`I(A:B)`$ is the quantum mutual information between regions A and B
 
 This indicates that the information capacity of a wormhole is directly related to the degree of quantum entanglement between the connected regions.
 
@@ -236,8 +236,8 @@ The relationship between classical observers and wormholes can be understood fro
    - From a classical observer's perspective, wormholes appear as "bends" or "connections" in spacetime.
 
 2. **Observer Dimensions and Wormhole Perception**:
-   - Low-dimension observers ($D_O < 3$) may be completely unable to perceive the existence of wormholes;
-   - High-dimension observers ($D_O \geq 4$) may directly perceive the quantum entanglement structure of wormholes.
+   - Low-dimension observers ($`D_O < 3`$) may be completely unable to perceive the existence of wormholes;
+   - High-dimension observers ($`D_O \geq 4`$) may directly perceive the quantum entanglement structure of wormholes.
 
 3. **Classicalization of Wormhole Information**:
    - If classical observers can effectively classicalize the quantum information in wormholes, they could theoretically achieve instantaneous information transfer between different regions of the universe;
@@ -271,7 +271,7 @@ $$
 E_{\text{Universe}} = \sum_{i,j} E_{\text{Wormhole}}(i,j) + E_{\text{Local}}
 $$
 
-Where $E_{\text{Wormhole}}(i,j)$ represents the energy of the wormhole connecting regions i and j, and $E_{\text{Local}}$ represents the energy of local interactions.
+Where $`E_{\text{Wormhole}}(i,j)`$ represents the energy of the wormhole connecting regions i and j, and $`E_{\text{Local}}`$ represents the energy of local interactions.
 
 ### V. Relationship Between Stars/Galaxies as Information Nodes and Wormholes
 

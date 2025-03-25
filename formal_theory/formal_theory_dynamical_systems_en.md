@@ -26,7 +26,7 @@ $$
 \mathcal{H}(\psi, x, p, t) = \mathcal{H}_Q(\psi, t) + \mathcal{H}_C(x, p, t) + \mathcal{H}_{int}(\psi, x, p, t)
 $$
 
-其中$\mathcal{H}_Q$表示量子域哈密顿量，$\mathcal{H}_C$表示经典域哈密顿量，$\mathcal{H}_{int}$表示界面相互作用项。
+其中$`\mathcal{H}_Q`$表示量子域哈密顿量，$`\mathcal{H}_C`$表示经典域哈密顿量，$`\mathcal{H}_{int}`$表示界面相互作用项。
 
 系统动力学由以下扩展方程组描述：
 

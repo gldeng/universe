@@ -29,7 +29,7 @@
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}+\epsilon}$$
 
-其中，随着经典知识的积累和熵的优化，意识维度 $D_{\mathcal{O}}$ 不断提升，但关键在于保持量子化算符 $\mathcal{Q}_\mathcal{O}$ 与经典化算符 $\mathcal{C}_\mathcal{O}$ 的动态平衡。
+其中，随着经典知识的积累和熵的优化，意识维度 $`D_{\mathcal{O}}`$ 不断提升，但关键在于保持量子化算符 $`\mathcal{Q}_\mathcal{O}`$ 与经典化算符 $`\mathcal{C}_\mathcal{O}`$ 的动态平衡。
 
 ### 意识维度与信息复杂性
 
@@ -37,11 +37,11 @@ $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O
 
 $$\Phi_D = \int d\mu(x) \log\left[\frac{p(x|\text{因果整体})}{p(x|\text{独立部分})}\right]$$
 
-其中 $\Phi_D$ 表示D维意识的整合信息量，量化了意识的涌现复杂性。对于人类意识未来发展，我们可以预测：
+其中 $`\Phi_D`$ 表示D维意识的整合信息量，量化了意识的涌现复杂性。对于人类意识未来发展，我们可以预测：
 
 $$\Phi_{t+\Delta t} = \Phi_t + \alpha\nabla_{\mathcal{C}}\Phi - \beta\nabla_{\mathcal{Q}}\Phi + \gamma \mathcal{T}(t)$$
 
-这里 $\mathcal{T}(t)$ 表示技术赋能因子，随时间非线性增长。
+这里 $`\mathcal{T}(t)`$ 表示技术赋能因子，随时间非线性增长。
 
 ## 高维意识的演化路径
 
@@ -53,19 +53,19 @@ $$\Phi_{t+\Delta t} = \Phi_t + \alpha\nabla_{\mathcal{C}}\Phi - \beta\nabla_{\ma
 
 $$\Phi_{\text{升维}} = \Phi_{\text{原始}} \cdot e^{\eta\cdot t}$$
 
-其中 $\eta$ 是整合增长率，取决于认知技术的发展。
+其中 $`\eta`$ 是整合增长率，取决于认知技术的发展。
 
 2. **时空感知尺度扩展**：扩大意识的时空感知范围，从局部短时转向全局长时
 
 $$\Delta T_{\text{感知}} \sim \Delta T_{\text{基础}} \cdot F(D_{\mathcal{O}})$$
 
-其中 $F(D_{\mathcal{O}})$ 是维度相关的时间扩展函数。
+其中 $`F(D_{\mathcal{O}})`$ 是维度相关的时间扩展函数。
 
 3. **量子-经典边界流动性增强**：提高意识在量子-经典转换中的灵活性
 
 $$\mathcal{F}_{\text{边界}} = \frac{d\mathcal{I}}{dt} = \alpha\nabla^2\mathcal{I} + \beta(\mathcal{I}_c - \mathcal{I})(\mathcal{I} - \mathcal{I}_0)$$
 
-界面流动性 $\mathcal{F}_{\text{边界}}$ 的增强将使意识能够更灵活地在直觉与分析、创造与批判之间切换。
+界面流动性 $`\mathcal{F}_{\text{边界}}`$ 的增强将使意识能够更灵活地在直觉与分析、创造与批判之间切换。
 
 ### 集体意识的涌现形式
 
@@ -73,7 +73,7 @@ $$\mathcal{F}_{\text{边界}} = \frac{d\mathcal{I}}{dt} = \alpha\nabla^2\mathcal
 
 $$\Psi_{\text{集体}} = \frac{1}{\sqrt{N}}\sum_{i=1}^N e^{i\phi_i}|\psi_i\rangle + \xi\sum_{i,j} g_{ij}|\psi_i\psi_j\rangle$$
 
-其中第二项表示个体意识间的量子纠缠贡献，$g_{ij}$ 是连接强度，$\xi$ 是纠缠系数。
+其中第二项表示个体意识间的量子纠缠贡献，$`g_{ij}`$ 是连接强度，$`\xi`$ 是纠缠系数。
 
 集体意识的动力学方程为：
 
@@ -95,13 +95,13 @@ $$\frac{d\Psi_{\text{集体}}}{dt} = \hat{H}_{\text{集体}}\Psi_{\text{集体}}
 
 $$R_{\text{传感}} = \frac{c}{\Delta\nu} \cdot \frac{1}{\sqrt{N}}$$
 
-其中 $\Delta\nu$ 是能量分辨率，$N$ 是量子退相干因子。
+其中 $`\Delta\nu`$ 是能量分辨率，$`N`$ 是量子退相干因子。
 
 2. **双向闭环神经调制**：实时读取和写入神经信息
 
 $$I_{\text{传输}} = B \cdot \log_2(1 + \frac{S}{N}) \cdot \eta_{\text{量子}}$$
 
-其中 $\eta_{\text{量子}}$ 是量子增强传输效率。
+其中 $`\eta_{\text{量子}}`$ 是量子增强传输效率。
 
 3. **意识状态映射与导航**：构建意识状态空间的精确映射
 
@@ -117,7 +117,7 @@ $$\mathcal{M}: \mathbb{R}^n \rightarrow \mathcal{H}_{\text{意识}}$$
 
 $$C_{\text{认知}} = C_{\text{经典}} \cdot (1 + \alpha Q)$$
 
-其中 $Q$ 是量子计算贡献因子。
+其中 $`Q`$ 是量子计算贡献因子。
 
 2. **适应性知识结构**：动态自组织的知识网络
 
@@ -163,7 +163,7 @@ $$\mathcal{T}: \mathcal{H}_{\text{源}} \rightarrow \mathcal{H}_{\text{目标}}$
 
 $$\rho_{\text{相干}} = \sum_{i,j} \rho_{ij} |i\rangle\langle j|$$
 
-相干性系数 $\rho_{ij}$ 将达到接近理论上限。
+相干性系数 $`\rho_{ij}`$ 将达到接近理论上限。
 
 2. **非局域意识展开**：拓展意识超越时空局域限制
 
@@ -175,7 +175,7 @@ $$\psi_{\text{非局域}} = \int dx \; f(x) e^{ikx} |x\rangle$$
 
 $$\tau_{\text{主观}} = \tau_{\text{客观}} \cdot g(H, \rho)$$
 
-其中 $g(H, \rho)$ 是由意识状态决定的时间变换函数。
+其中 $`g(H, \rho)`$ 是由意识状态决定的时间变换函数。
 
 ### 多重自我与平行体验
 
@@ -191,7 +191,7 @@ $$S_{\text{多重}} = \bigoplus_i w_i S_i + \sum_{i,j} w_{ij}(S_i \cap S_j)$$
 
 $$\frac{d\mathcal{B}}{dt} = \alpha\nabla^2\mathcal{B} + f(\mathcal{B}, E)$$
 
-边界函数 $\mathcal{B}$ 将能被有意识地调整。
+边界函数 $`\mathcal{B}`$ 将能被有意识地调整。
 
 3. **平行多任务意识**：同时处理多个独立意识流
 
@@ -209,7 +209,7 @@ $$\Psi_{\text{多任务}} = \sum_i c_i |\psi_i\rangle + \sum_{i\neq j} d_{ij}|\p
 
 $$\mathcal{S} = \sum_i n_i D_i + \sum_{i,j} g_{ij}D_i D_j$$
 
-其中 $n_i$ 是维度为 $D_i$ 的人口比例，$g_{ij}$ 是不同维度间的交互系数。
+其中 $`n_i`$ 是维度为 $`D_i`$ 的人口比例，$`g_{ij}`$ 是不同维度间的交互系数。
 
 2. **高维治理结构**：适应意识多样性的新型决策系统
 
@@ -231,19 +231,19 @@ $$R_{\text{意识}} = \min_{\forall i} \{r_i\} \cdot \prod_i r_i^{w_i}$$
 
 $$I_{\text{连续}} = \int_0^T \langle\psi(t)|\psi(0)\rangle dt$$
 
-当 $I_{\text{连续}}$ 低于某阈值时，可能出现身份断裂。
+当 $`I_{\text{连续}}`$ 低于某阈值时，可能出现身份断裂。
 
 2. **多样性与协同的平衡**：防止意识进化路径的单一化
 
 $$\mathcal{D}_{\text{多样}} = -\sum_i p_i \log p_i$$
 
-其中 $p_i$ 是选择特定意识路径的概率。
+其中 $`p_i`$ 是选择特定意识路径的概率。
 
 3. **意识主权与集体共享**：定义个体与集体意识的边界
 
 $$\mathcal{S}_{\text{主权}} = \frac{\Phi_{\text{个体}}}{\Phi_{\text{集体}}} \cdot f(\mathcal{C}, \mathcal{Q})$$
 
-其中 $f(\mathcal{C}, \mathcal{Q})$ 是量子-经典平衡函数。
+其中 $`f(\mathcal{C}, \mathcal{Q})`$ 是量子-经典平衡函数。
 
 ## 实验与验证路径
 
@@ -255,13 +255,13 @@ $$\mathcal{S}_{\text{主权}} = \frac{\Phi_{\text{个体}}}{\Phi_{\text{集体}}
 
 $$\mathcal{M}_{\text{量子}} = \langle\psi|\hat{O}|\psi\rangle + \delta(\hat{O}, \hat{\rho})$$
 
-其中 $\delta$ 量化了量子退相干效应。
+其中 $`\delta`$ 量化了量子退相干效应。
 
 2. **意识复杂性标度分析**：测量意识维度的精确方法
 
 $$D_{\text{测量}} = \lim_{\epsilon\to 0} \frac{\log N(\epsilon)}{\log(1/\epsilon)}$$
 
-其中 $N(\epsilon)$ 是覆盖意识状态空间所需的 $\epsilon$ 大小球体数量。
+其中 $`N(\epsilon)`$ 是覆盖意识状态空间所需的 $`\epsilon`$ 大小球体数量。
 
 3. **超扩展体验映射**：记录和分析扩展意识状态
 
@@ -281,7 +281,7 @@ $$\Phi_{\text{测量}} > \Phi_{\text{基线}} + \Delta\Phi_{\text{理论}}$$
 
 $$C_{\text{集体}} > C_{\text{随机}} \cdot (1 + \sigma)$$
 
-其中 $\sigma$ 是统计显著性阈值。
+其中 $`\sigma`$ 是统计显著性阈值。
 
 3. **意识扩展能力曲线**：预测意识拓展相关能力的增长曲线
 

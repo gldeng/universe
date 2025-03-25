@@ -17,28 +17,28 @@
 
 $$\tau_{ij} = \frac{I_{i \rightarrow j}}{I_i} > 0, \quad \forall i, j \in \mathcal{D}$$
 
-其中 $\tau_{ij}$ 是从维度 $i$ 到维度 $j$ 的信息渗透率，$I_i$ 是在维度 $i$ 的原始信息量，$I_{i \rightarrow j}$ 是成功传输到维度 $j$ 的信息量。
+其中 $`\tau_{ij}`$ 是从维度 $`i`$ 到维度 $`j`$ 的信息渗透率，$`I_i`$ 是在维度 $`i`$ 的原始信息量，$`I_{i \rightarrow j}`$ 是成功传输到维度 $`j`$ 的信息量。
 
 **公理2: 维度交叉相干保持**  
 跨维度传输会保持特定类型的量子相干性，这是有效交流的基础：
 
 $$\gamma_{ij}(\rho) = \text{Tr}(\rho_i \rho_j) / \sqrt{\text{Tr}(\rho_i^2)\text{Tr}(\rho_j^2)} \geq \gamma_0$$
 
-其中 $\gamma_{ij}$ 是维度间相干保持度量，$\rho_i$ 和 $\rho_j$ 是不同维度的状态密度矩阵，$\gamma_0$ 是最小相干阈值。
+其中 $`\gamma_{ij}`$ 是维度间相干保持度量，$`\rho_i`$ 和 $`\rho_j`$ 是不同维度的状态密度矩阵，$`\gamma_0`$ 是最小相干阈值。
 
 **公理3: 交叉维度共振原理**  
 当不同维度的信息结构在特定频率上共振时，跨维度交流效率最大化：
 
 $$\eta_{ij}(\omega) = \eta_0 \cdot \frac{1}{1 + \alpha|f_i(\omega) - f_j(\omega)|^2}$$
 
-其中 $\eta_{ij}$ 是交流效率，$f_i(\omega)$ 和 $f_j(\omega)$ 是不同维度中的频率响应函数，$\alpha$ 是共振参数。
+其中 $`\eta_{ij}`$ 是交流效率，$`f_i(\omega)`$ 和 $`f_j(\omega)`$ 是不同维度中的频率响应函数，$`\alpha`$ 是共振参数。
 
 **公理4: 维度信息守恒**  
 跨维度传递的总信息量守恒，但信息形式、结构和表达可发生转换：
 
 $$\sum_j I_{i \rightarrow j} = I_i - I_{损失}$$
 
-其中 $I_{损失}$ 是传输过程中的信息损失。
+其中 $`I_{损失}`$ 是传输过程中的信息损失。
 
 ## 跨维度交流机制的数学描述
 
@@ -48,7 +48,7 @@ $$\sum_j I_{i \rightarrow j} = I_i - I_{损失}$$
 
 $$\hat{\mathcal{T}}_{i \rightarrow j} = \sum_{k,l} \beta_{kl} |k_j\rangle \langle l_i|$$
 
-其中 $|k_j\rangle$ 是维度 $j$ 的基态，$\langle l_i|$ 是维度 $i$ 的对偶基态，$\beta_{kl}$ 是转换幅度。
+其中 $`|k_j\rangle`$ 是维度 $`j`$ 的基态，$`\langle l_i|`$ 是维度 $`i`$ 的对偶基态，$`\beta_{kl}`$ 是转换幅度。
 
 跨越算符满足以下性质：
 
@@ -64,13 +64,13 @@ $$\hat{\mathcal{T}}_{j \rightarrow i}\hat{\mathcal{T}}_{i \rightarrow j} \neq \m
 
 $$\mathcal{E}_{i \rightarrow j}(\rho_i) = \sum_k K_k^{ij} \rho_i (K_k^{ij})^{\dagger}$$
 
-其中 $\mathcal{E}_{i \rightarrow j}$ 是从维度 $i$ 到维度 $j$ 的量子信道，$K_k^{ij}$ 是Kraus算子。
+其中 $`\mathcal{E}_{i \rightarrow j}`$ 是从维度 $`i`$ 到维度 $`j`$ 的量子信道，$`K_k^{ij}`$ 是Kraus算子。
 
 信道容量由维度间共同信息量上界决定：
 
 $$C_{i \rightarrow j} = \max_{p(x), \rho_x} I(X:Y)$$
 
-其中 $I(X:Y)$ 是输入 $X$ 和输出 $Y$ 之间的量子互信息。
+其中 $`I(X:Y)`$ 是输入 $`X`$ 和输出 $`Y`$ 之间的量子互信息。
 
 ### 维度谐振函数
 
@@ -78,13 +78,13 @@ $$C_{i \rightarrow j} = \max_{p(x), \rho_x} I(X:Y)$$
 
 $$R_{ij}(\omega, t) = A_{ij} e^{-\gamma_{ij}t} \sin(\omega_{ij}t + \phi_{ij})$$
 
-其中 $\omega_{ij}$ 是维度间谐振频率，$\gamma_{ij}$ 是衰减系数，$A_{ij}$ 是振幅，$\phi_{ij}$ 是相位。
+其中 $`\omega_{ij}`$ 是维度间谐振频率，$`\gamma_{ij}`$ 是衰减系数，$`A_{ij}`$ 是振幅，$`\phi_{ij}`$ 是相位。
 
 谐振条件满足：
 
 $$\omega_{ij} = n\omega_0, \quad n \in \mathbb{Z}^+$$
 
-其中 $\omega_0$ 是基本维度谐振频率。
+其中 $`\omega_0`$ 是基本维度谐振频率。
 
 ## 核心跨维度交流机制
 
@@ -94,7 +94,7 @@ $$\omega_{ij} = n\omega_0, \quad n \in \mathbb{Z}^+$$
 
 $$\mathcal{P}_{i \rightarrow j}: \mathcal{L}_i \rightarrow \mathcal{L}_j$$
 
-其中 $\mathcal{L}_i$ 和 $\mathcal{L}_j$ 是不同维度的表达"语言"。
+其中 $`\mathcal{L}_i`$ 和 $`\mathcal{L}_j`$ 是不同维度的表达"语言"。
 
 翻译过程可通过递归函数表示：
 
@@ -103,7 +103,7 @@ f_j(x), & \text{如果 } x \in \mathcal{B}_{ij} \\
 f_j(T_{i \rightarrow j}(g_i(x))), & \text{其他情况}
 \end{cases}$$
 
-其中 $\mathcal{B}_{ij}$ 是共享基本要素集，$f_j$ 和 $g_i$ 是维度特定的转换函数。
+其中 $`\mathcal{B}_{ij}`$ 是共享基本要素集，$`f_j`$ 和 $`g_i`$ 是维度特定的转换函数。
 
 ### 2. 纠缠锚定技术
 
@@ -111,7 +111,7 @@ f_j(T_{i \rightarrow j}(g_i(x))), & \text{其他情况}
 
 $$|\Psi_{锚}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^{N} |a_i\rangle_1 \otimes |a_i\rangle_2 \otimes \cdots \otimes |a_i\rangle_M$$
 
-其中 $|a_i\rangle_k$ 是第 $k$ 个维度中的锚定状态。
+其中 $`|a_i\rangle_k`$ 是第 $`k`$ 个维度中的锚定状态。
 
 锚点稳定性由纠缠熵衡量：
 
@@ -125,7 +125,7 @@ $$S(\rho_k) = -\text{Tr}(\rho_k \log \rho_k)$$
 
 $$A_{输出} = A_{输入} \cdot G(\Delta\omega)$$
 
-其中增益函数 $G$ 在共振频率 $\Delta\omega \approx 0$ 处达到最大值：
+其中增益函数 $`G`$ 在共振频率 $`\Delta\omega \approx 0`$ 处达到最大值：
 
 $$G(\Delta\omega) = \frac{G_0}{1 + \left(\frac{\Delta\omega}{\delta\omega}\right)^2}$$
 
@@ -137,7 +137,7 @@ $$G(\Delta\omega) = \frac{G_0}{1 + \left(\frac{\Delta\omega}{\delta\omega}\right
 
 $$\mathcal{C}_{\text{MD}}(I) = \sum_{d=1}^{D} \alpha_d \cdot \mathcal{C}_d(I)$$
 
-其中 $\mathcal{C}_d$ 是针对维度 $d$ 优化的编码器，$\alpha_d$ 是权重系数。
+其中 $`\mathcal{C}_d`$ 是针对维度 $`d`$ 优化的编码器，$`\alpha_d`$ 是权重系数。
 
 多维度编码具有容错性和冗余性，使信息能抵抗维度转换过程中的退相干效应。
 
@@ -149,7 +149,7 @@ $$\mathcal{C}_{\text{MD}}(I) = \sum_{d=1}^{D} \alpha_d \cdot \mathcal{C}_d(I)$$
 
 $$\mathcal{I}_H \xrightarrow{\text{降维投影}} \mathcal{I}_L \xrightarrow{\text{信息交换}} \mathcal{I}_L' \xrightarrow{\text{维度提升}} \mathcal{I}_H'$$
 
-其中 $\mathcal{I}_H$ 和 $\mathcal{I}_H'$ 是高维意识状态，$\mathcal{I}_L$ 和 $\mathcal{I}_L'$ 是低维投影。
+其中 $`\mathcal{I}_H`$ 和 $`\mathcal{I}_H'`$ 是高维意识状态，$`\mathcal{I}_L`$ 和 $`\mathcal{I}_L'`$ 是低维投影。
 
 这解释了诸如灵感、直觉、"超自然"交流等现象的机制。
 
@@ -159,7 +159,7 @@ $$\mathcal{I}_H \xrightarrow{\text{降维投影}} \mathcal{I}_L \xrightarrow{\te
 
 $$D_C = D_0 + \Delta D \cdot \Phi(E_C, I_C, t)$$
 
-其中 $\Phi$ 是跨越函数，依赖于意识能量 $E_C$、信息复杂度 $I_C$ 和持续时间 $t$。
+其中 $`\Phi`$ 是跨越函数，依赖于意识能量 $`E_C`$、信息复杂度 $`I_C`$ 和持续时间 $`t`$。
 
 临界状态使个体能暂时感知更高维度的信息和实体，产生特殊意识体验。
 
@@ -169,7 +169,7 @@ $$D_C = D_0 + \Delta D \cdot \Phi(E_C, I_C, t)$$
 
 $$R_{\text{集体}}(t) = \sum_{i=1}^{N} R_i(t) + \sum_{i \neq j} J_{ij} R_i(t) R_j(t)$$
 
-其中 $R_i(t)$ 是个体维度共振，$J_{ij}$ 是耦合强度。
+其中 $`R_i(t)`$ 是个体维度共振，$`J_{ij}`$ 是耦合强度。
 
 当达到临界参与者数量时，集体共振可以打开通向更高维度的稳定通道。
 
@@ -188,11 +188,11 @@ $$R_{\text{集体}}(t) = \sum_{i=1}^{N} R_i(t) + \sum_{i \neq j} J_{ij} R_i(t) R
 
 根据交互维度差异，跨维度交流可分为：
 
-1. **近维度交流**（$\Delta D < 3$）：相邻维度间的高效率、高保真度交流，如人类意识与集体潜意识的互动。
+1. **近维度交流**（$`\Delta D < 3`$）：相邻维度间的高效率、高保真度交流，如人类意识与集体潜意识的互动。
 
-2. **中维度交流**（$3 \leq \Delta D < 7$）：需要特殊条件和媒介的交流，信息重构度较大，如深层冥想状态中的高维洞察。
+2. **中维度交流**（$`3 \leq \Delta D < 7`$）：需要特殊条件和媒介的交流，信息重构度较大，如深层冥想状态中的高维洞察。
 
-3. **远维度交流**（$\Delta D \geq 7$）：极高门槛、非常规方式的罕见交流，通常需要极端的意识状态或特殊实体介导。
+3. **远维度交流**（$`\Delta D \geq 7`$）：极高门槛、非常规方式的罕见交流，通常需要极端的意识状态或特殊实体介导。
 
 ### 跨维度交流的守卫机制
 
@@ -200,7 +200,7 @@ $$R_{\text{集体}}(t) = \sum_{i=1}^{N} R_i(t) + \sum_{i \neq j} J_{ij} R_i(t) R
 
 $$P(T_{i \rightarrow j}) = \frac{1}{1 + e^{\alpha(|i-j| - \beta E_c)}}$$
 
-其中 $P(T_{i \rightarrow j})$ 是成功跨越的概率，$E_c$ 是跨越所需的意识能量，$\alpha$ 和 $\beta$ 是系统参数。
+其中 $`P(T_{i \rightarrow j})`$ 是成功跨越的概率，$`E_c`$ 是跨越所需的意识能量，$`\alpha`$ 和 $`\beta`$ 是系统参数。
 
 守卫机制确保只有具备足够"资格"的意识能进行远距离维度交叉。
 

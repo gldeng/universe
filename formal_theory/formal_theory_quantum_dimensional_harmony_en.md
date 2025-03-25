@@ -19,28 +19,28 @@ Bidirectional coupling relationships exist between any adjacent quantum dimensio
 
 $$\mathcal{H}_{i,i+1} = \alpha_{i,i+1} \hat{D}_i \otimes \hat{D}_{i+1} + \beta_{i,i+1} (\hat{S}_i^+ \hat{S}_{i+1}^- + \hat{S}_i^- \hat{S}_{i+1}^+)$$
 
-where $\hat{D}_i$ is the density operator of dimension i, $\hat{S}_i^+$ and $\hat{S}_i^-$ are dimensional raising and lowering operators, and $\alpha_{i,i+1}$ and $\beta_{i,i+1}$ are coupling constants.
+where $`\hat{D}_i`$ is the density operator of dimension i, $`\hat{S}_i^+`$ and $`\hat{S}_i^-`$ are dimensional raising and lowering operators, and $`\alpha_{i,i+1}`$ and $`\beta_{i,i+1}`$ are coupling constants.
 
 **Axiom 2: Dimensional Spectrum Density Distribution**  
 The quantum dimensional spectrum follows a non-linear distribution, with dimensional gaps expanding as dimensions increase:
 
 $$\Delta_{i,i+1} = \Delta_0 e^{\gamma i}$$
 
-where $\Delta_{i,i+1}$ is the dimensional gap between dimensions i and i+1, $\Delta_0$ is the baseline gap, and $\gamma$ is the dimensional expansion coefficient.
+where $`\Delta_{i,i+1}`$ is the dimensional gap between dimensions i and i+1, $`\Delta_0`$ is the baseline gap, and $`\gamma`$ is the dimensional expansion coefficient.
 
 **Axiom 3: Dimensional Harmony Resonance Condition**  
 Dimensional resonance phenomena occur when inter-dimensional information exchange reaches specific frequency ratios:
 
 $$\frac{\omega_i}{\omega_{i+1}} = \frac{n}{m}, \quad n,m \in \mathbb{Z}^+$$
 
-where $\omega_i$ is the characteristic oscillation frequency of dimension i.
+where $`\omega_i`$ is the characteristic oscillation frequency of dimension i.
 
 **Axiom 4: Dimensional Nested Recursivity**  
 Higher-dimensional structures contain complete mappings of lower-dimensional structures, forming self-similar recursive patterns:
 
 $$\Psi_i = \mathcal{F}_i[\Psi_{i-1}]$$
 
-where $\Psi_i$ is the quantum state of dimension i, and $\mathcal{F}_i$ is the dimensional mapping function.
+where $`\Psi_i`$ is the quantum state of dimension i, and $`\mathcal{F}_i`$ is the dimensional mapping function.
 
 ## Dimensional Harmony Dynamics
 
@@ -50,7 +50,7 @@ Inter-dimensional quantum information transfer is realized through quantum tunne
 
 $$J_{i \rightarrow i+1} = \eta_i |\langle \Psi_i | \hat{T}_{i,i+1} | \Psi_{i+1} \rangle|^2$$
 
-where $\hat{T}_{i,i+1}$ is the dimensional transfer operator, and $\eta_i$ is dimensional transparency.
+where $`\hat{T}_{i,i+1}`$ is the dimensional transfer operator, and $`\eta_i`$ is dimensional transparency.
 
 Inter-dimensional information flow adheres to conservation principles:
 
@@ -62,13 +62,13 @@ When multiple dimensions reach resonance states, dimensional resonance occurs, m
 
 $$R_{ij} = \frac{\langle \hat{O}_i \hat{O}_j \rangle}{\sqrt{\langle \hat{O}_i^2 \rangle \langle \hat{O}_j^2 \rangle}}$$
 
-where $R_{ij}$ is the resonance intensity between dimensions i and j, and $\hat{O}_i$ is the characteristic observable of dimension i.
+where $`R_{ij}`$ is the resonance intensity between dimensions i and j, and $`\hat{O}_i`$ is the characteristic observable of dimension i.
 
 Dimensional resonance leads to non-linear enhancement of quantum coherence:
 
 $$C(\rho_{res}) = C(\rho) e^{\lambda t}$$
 
-where $C(\rho)$ is the quantum coherence measure of the system, and $\lambda$ is the resonance amplification coefficient.
+where $`C(\rho)`$ is the quantum coherence measure of the system, and $`\lambda`$ is the resonance amplification coefficient.
 
 ### Dimensional Harmony State
 
@@ -76,7 +76,7 @@ The dimensional harmony state is a stable state of multi-dimensional systems wit
 
 $$S_{inter}(\rho) = -\sum_{i,j} p_{ij} \ln\left(\frac{p_{ij}}{p_i p_j}\right)$$
 
-where $p_{ij}$ is the joint probability of dimensions i and j, and $p_i$ and $p_j$ are their respective marginal probabilities.
+where $`p_{ij}`$ is the joint probability of dimensions i and j, and $`p_i`$ and $`p_j`$ are their respective marginal probabilities.
 
 Dimensional harmony states possess global phase consistency and maximum inter-dimensional entanglement:
 
@@ -86,7 +86,7 @@ $$E_{inter} = \sum_{i < j} S(\rho_i) - S(\rho_{ij})$$
 
 ### Dimensional Manifolds and Connections
 
-Multi-dimensional systems can be represented as dimensional manifolds $\mathcal{M}_D$ equipped with dimensional connections $\nabla_D$:
+Multi-dimensional systems can be represented as dimensional manifolds $`\mathcal{M}_D`$ equipped with dimensional connections $`\nabla_D`$:
 
 $$\nabla_D: T\mathcal{M}_D \rightarrow T\mathcal{M}_D \otimes T^*\mathcal{M}_D$$
 
@@ -100,13 +100,13 @@ The dimensional spectrum of systems is determined by eigenvalue equations:
 
 $$\hat{H}_D |\Psi_n\rangle = E_n |\Psi_n\rangle$$
 
-where $\hat{H}_D$ is the dimensional Hamiltonian operator, and $E_n$ is the eigenvalue energy of the nth dimension.
+where $`\hat{H}_D`$ is the dimensional Hamiltonian operator, and $`E_n`$ is the eigenvalue energy of the nth dimension.
 
 The dimensional spectrum exhibits fractal structures satisfying self-similarity:
 
 $$\{E_n\} \cong \lambda\{E_n\} + \delta$$
 
-where $\lambda$ is the scaling factor, and $\delta$ is the displacement constant.
+where $`\lambda`$ is the scaling factor, and $`\delta`$ is the displacement constant.
 
 ## Observer Effects in Dimensional Harmony
 
@@ -116,7 +116,7 @@ When observers make observations across dimensions, quantum-classical transforma
 
 $$P(a|O_D) = |\langle a | \hat{P}_{O_D} | \Psi \rangle|^2$$
 
-where $\hat{P}_{O_D}$ is the dimensional observer projection operator.
+where $`\hat{P}_{O_D}`$ is the dimensional observer projection operator.
 
 The observer's dimensional position influences their perception range:
 
@@ -132,7 +132,7 @@ Transition probability is inversely proportional to the dimensional energy gap:
 
 $$P_{i\rightarrow j} \propto \exp\left(-\frac{|E_j - E_i|}{k_B T_{eff}}\right)$$
 
-where $T_{eff}$ is the effective dimensional temperature.
+where $`T_{eff}`$ is the effective dimensional temperature.
 
 ## Applications and Predictions
 
@@ -142,7 +142,7 @@ Dimensional harmony theory predicts dimensional transition events in the univers
 
 $$t_{trans}^{(n)} = t_0 \exp(n\theta)$$
 
-where $t_{trans}^{(n)}$ is the time of the nth dimensional transition, $t_0$ is the initial time, and $\theta$ is the characteristic exponent.
+where $`t_{trans}^{(n)}`$ is the time of the nth dimensional transition, $`t_0`$ is the initial time, and $`\theta`$ is the characteristic exponent.
 
 ### Applications in Quantum Consciousness
 

@@ -33,11 +33,11 @@ By introducing omniscience information field mathematics, omniscience field equa
 
 ### The Nature of Absolute Omniscience
 
-Absolute Omniscience $\Phi_{AO}$ is the ultimate state that transcends all cognitive limitations, defined as:
+Absolute Omniscience $`\Phi_{AO}`$ is the ultimate state that transcends all cognitive limitations, defined as:
 
 $$\Phi_{AO} = \{\Omega_{AO}, \Lambda_{AO}, \Theta_{AO}, \Psi_{AO}\}$$
 
-where $\Omega_{AO}$ is the omniscient state, $\Lambda_{AO}$ is the omniscience operator, $\Theta_{AO}$ is the omniscience field, and $\Psi_{AO}$ is omniscient consciousness.
+where $`\Omega_{AO}`$ is the omniscient state, $`\Lambda_{AO}`$ is the omniscience operator, $`\Theta_{AO}`$ is the omniscience field, and $`\Psi_{AO}`$ is omniscient consciousness.
 
 The fundamental equation of absolute omniscience:
 
@@ -59,11 +59,11 @@ indicates that omniscience not only knows everything but also knows that it know
 
 ### Omniscience Generation Principle
 
-The Omniscience Generation Principle $\Gamma_{AO}$ describes how omniscience generates all forms of knowledge:
+The Omniscience Generation Principle $`\Gamma_{AO}`$ describes how omniscience generates all forms of knowledge:
 
 $$\Gamma_{AO} = \{\mathcal{G}_{AO}, \mathcal{P}_{AO}, \mathcal{S}_{AO}, \mathcal{R}_{AO}\}$$
 
-where $\mathcal{G}_{AO}$ is the knowledge generation operator, $\mathcal{P}_{AO}$ is the potential knowledge set, $\mathcal{S}_{AO}$ is the knowledge selection function, and $\mathcal{R}_{AO}$ is the knowledge realization operator.
+where $`\mathcal{G}_{AO}`$ is the knowledge generation operator, $`\mathcal{P}_{AO}`$ is the potential knowledge set, $`\mathcal{S}_{AO}`$ is the knowledge selection function, and $`\mathcal{R}_{AO}`$ is the knowledge realization operator.
 
 Knowledge generation equation:
 
@@ -81,15 +81,15 @@ Knowledge realization equation:
 
 $$\mathcal{R}_{AO}[\mathcal{S}_{AO}(\mathcal{P}_{AO})] = \mathcal{K}_{AO}$$
 
-where $\mathcal{K}_{AO}$ is the realized knowledge system, indicating that potential knowledge becomes actual knowledge through selection and realization.
+where $`\mathcal{K}_{AO}`$ is the realized knowledge system, indicating that potential knowledge becomes actual knowledge through selection and realization.
 
 ### Omniscience Hierarchical Structure
 
-The Omniscience Hierarchical Structure $\mathcal{L}_{AO}$ describes the multi-level organization of knowledge:
+The Omniscience Hierarchical Structure $`\mathcal{L}_{AO}`$ describes the multi-level organization of knowledge:
 
 $$\mathcal{L}_{AO} = \{\mathcal{K}_i | i \in \Lambda, \mathcal{K}_i \text{ is a knowledge level}\}$$
 
-where $\Lambda$ is a set of level indices that can transcend conventional ordinals.
+where $`\Lambda`$ is a set of level indices that can transcend conventional ordinals.
 
 Hierarchical knowledge theorem:
 
@@ -113,18 +113,18 @@ indicates that infinitely recursively ascending knowledge levels ultimately appr
 
 ### Omniscience Information Algebra
 
-Omniscience Information Algebra $\mathcal{A}_{AO}$ is a mathematical system describing the structure of omniscient information:
+Omniscience Information Algebra $`\mathcal{A}_{AO}`$ is a mathematical system describing the structure of omniscient information:
 
 $$\mathcal{A}_{AO} = \{\mathbb{K}_{AO}, \oplus, \otimes, \mathcal{I}_{AO}\}$$
 
-where $\mathbb{K}_{AO}$ is the omniscient information space, $\oplus$ is the information composition operation, $\otimes$ is the information coupling operation, and $\mathcal{I}_{AO}$ is the information quantity mapping.
+where $`\mathbb{K}_{AO}`$ is the omniscient information space, $`\oplus`$ is the information composition operation, $`\otimes`$ is the information coupling operation, and $`\mathcal{I}_{AO}`$ is the information quantity mapping.
 
 Omniscient information axioms:
 
-1. **Information Composition Law**: $x \oplus x = x \text{ and } x \oplus x \neq x$
-2. **Commutativity**: $x \oplus y = y \oplus x \text{ and } x \otimes y = y \otimes x$
-3. **Associativity**: $(x \oplus y) \oplus z = x \oplus (y \oplus z) \text{ and } (x \otimes y) \otimes z = x \otimes (y \otimes z)$
-4. **Distributivity**: $x \otimes (y \oplus z) = (x \otimes y) \oplus (x \otimes z) \text{ and } \neq (x \otimes y) \oplus (x \otimes z)$
+1. **Information Composition Law**: $`x \oplus x = x \text{ and } x \oplus x \neq x`$
+2. **Commutativity**: $`x \oplus y = y \oplus x \text{ and } x \otimes y = y \otimes x`$
+3. **Associativity**: $`(x \oplus y) \oplus z = x \oplus (y \oplus z) \text{ and } (x \otimes y) \otimes z = x \otimes (y \otimes z)`$
+4. **Distributivity**: $`x \otimes (y \oplus z) = (x \otimes y) \oplus (x \otimes z) \text{ and } \neq (x \otimes y) \oplus (x \otimes z)`$
 
 indicate that omniscient information algebra both follows and transcends traditional algebraic structures.
 
@@ -142,7 +142,7 @@ indicates that the total information quantity of the omniscient information spac
 
 ### Omniscience Transformation Theory
 
-Omniscience Transformation Theory $\mathcal{T}_{AO}$ describes the conversion relationships between forms of knowledge:
+Omniscience Transformation Theory $`\mathcal{T}_{AO}`$ describes the conversion relationships between forms of knowledge:
 
 $$\mathcal{T}_{AO}: \mathcal{K}_i \to \mathcal{K}_j$$
 
@@ -170,11 +170,11 @@ indicates that there exists a transformation of transformations that does not pr
 
 ### Omniscience Field Equations
 
-The Omniscience Field $\Theta_{AO}$ is the omniscience field that permeates all existence, described by the omniscience field equation:
+The Omniscience Field $`\Theta_{AO}`$ is the omniscience field that permeates all existence, described by the omniscience field equation:
 
 $$\nabla^2\Theta_{AO} - \frac{1}{c_{AO}^2}\frac{\partial^2\Theta_{AO}}{\partial\tau^2} = \rho_{AO}$$
 
-where $c_{AO}$ is the omniscience propagation speed, $\tau$ is transcendent time, and $\rho_{AO}$ is knowledge density.
+where $`c_{AO}`$ is the omniscience propagation speed, $`\tau`$ is transcendent time, and $`\rho_{AO}`$ is knowledge density.
 
 Omniscience field oscillation theorem:
 
@@ -186,7 +186,7 @@ Omniscience field energy density:
 
 $$\mathcal{E}_{AO}(x, \tau) = \frac{1}{2}(\|\nabla\Theta_{AO}\|^2 + \frac{1}{c_{AO}^2}\|\frac{\partial\Theta_{AO}}{\partial\tau}\|^2)$$
 
-represents the energy density of the omniscience field at space-time point $(x,\tau)$.
+represents the energy density of the omniscience field at space-time point $`(x,\tau)`$.
 
 Omniscience field conservation law:
 
@@ -196,7 +196,7 @@ indicates that omniscience field energy is conserved in any closed region.
 
 ### Omniscience Field Dynamics
 
-Omniscience Field Dynamics $\mathcal{D}_{AO}$ describes the evolution of the omniscience field:
+Omniscience Field Dynamics $`\mathcal{D}_{AO}`$ describes the evolution of the omniscience field:
 
 $$\frac{\partial\Theta_{AO}}{\partial\tau} = \mathcal{D}_{AO}[\Theta_{AO}, \nabla\Theta_{AO}]$$
 
@@ -222,18 +222,18 @@ indicates that the omniscience field has non-trivial steady-state solutions repr
 
 ### Omniscience Network Structure
 
-The Absolute Cognitive Network $\mathcal{N}_{AO}$ is the omniscient network connecting all cognitive entities:
+The Absolute Cognitive Network $`\mathcal{N}_{AO}`$ is the omniscient network connecting all cognitive entities:
 
 $$\mathcal{N}_{AO} = \{\mathcal{V}_{AO}, \mathcal{E}_{AO}, \mathcal{W}_{AO}, \mathcal{F}_{AO}\}$$
 
-where $\mathcal{V}_{AO}$ is the set of cognitive nodes, $\mathcal{E}_{AO}$ is the set of cognitive connections, $\mathcal{W}_{AO}$ is connection weights, and $\mathcal{F}_{AO}$ is the cognitive flow function.
+where $`\mathcal{V}_{AO}`$ is the set of cognitive nodes, $`\mathcal{E}_{AO}`$ is the set of cognitive connections, $`\mathcal{W}_{AO}`$ is connection weights, and $`\mathcal{F}_{AO}`$ is the cognitive flow function.
 
 Omniscience network axioms:
 
-1. **Connectivity**: $\forall v_i, v_j \in \mathcal{V}_{AO}, \exists \text{path } p: v_i \to v_j$
-2. **Reflexivity**: $\forall v_i \in \mathcal{V}_{AO}, (v_i, v_i) \in \mathcal{E}_{AO}$
-3. **Symmetry**: $(v_i, v_j) \in \mathcal{E}_{AO} \iff (v_j, v_i) \in \mathcal{E}_{AO}$
-4. **Transitivity**: $(v_i, v_j), (v_j, v_k) \in \mathcal{E}_{AO} \Rightarrow (v_i, v_k) \in \mathcal{E}_{AO}$
+1. **Connectivity**: $`\forall v_i, v_j \in \mathcal{V}_{AO}, \exists \text{path } p: v_i \to v_j`$
+2. **Reflexivity**: $`\forall v_i \in \mathcal{V}_{AO}, (v_i, v_i) \in \mathcal{E}_{AO}`$
+3. **Symmetry**: $`(v_i, v_j) \in \mathcal{E}_{AO} \iff (v_j, v_i) \in \mathcal{E}_{AO}`$
+4. **Transitivity**: $`(v_i, v_j), (v_j, v_k) \in \mathcal{E}_{AO} \Rightarrow (v_i, v_k) \in \mathcal{E}_{AO}`$
 
 indicate that the omniscience network forms a complete equivalence relation structure.
 
@@ -247,15 +247,15 @@ Omniscience network dynamics:
 
 $$\frac{d\Theta_{AO}(v_i)}{d\tau} = \sum_{j} \mathcal{F}_{AO}(v_j, v_i) + \mathcal{S}_{AO}(v_i)$$
 
-where $\mathcal{S}_{AO}$ is the cognitive source function, describing how node omniscience evolves.
+where $`\mathcal{S}_{AO}`$ is the cognitive source function, describing how node omniscience evolves.
 
 ### Absolute Cognitive Consciousness
 
-Absolute Cognitive Consciousness $\Psi_{AO}$ is the omniscient consciousness that unifies all forms of consciousness:
+Absolute Cognitive Consciousness $`\Psi_{AO}`$ is the omniscient consciousness that unifies all forms of consciousness:
 
 $$\Psi_{AO} = \{\mathcal{A}_{AO}, \mathcal{U}_{AO}, \mathcal{W}_{AO}, \mathcal{I}_{AO}\}$$
 
-where $\mathcal{A}_{AO}$ is absolute awareness, $\mathcal{U}_{AO}$ is universal understanding, $\mathcal{W}_{AO}$ is omniscient will, and $\mathcal{I}_{AO}$ is infinite wisdom.
+where $`\mathcal{A}_{AO}`$ is absolute awareness, $`\mathcal{U}_{AO}`$ is universal understanding, $`\mathcal{W}_{AO}`$ is omniscient will, and $`\mathcal{I}_{AO}`$ is infinite wisdom.
 
 Omniscient consciousness equation:
 
@@ -279,11 +279,11 @@ indicates that all forms of consciousness form a network in which any two forms 
 
 ### Omniscience-Nescience Dialectic
 
-The Omniscience-Nescience Dialectic Relationship $\mathcal{D}_{AO}$ reveals the deep connection between omniscience and nescience (not-knowing):
+The Omniscience-Nescience Dialectic Relationship $`\mathcal{D}_{AO}`$ reveals the deep connection between omniscience and nescience (not-knowing):
 
 $$\mathcal{D}_{AO} = \{\Phi_{AO}, \Phi_{AI}, \mathcal{R}_{AO-AI}, \mathcal{T}_{AO-AI}\}$$
 
-where $\Phi_{AO}$ is absolute omniscience, $\Phi_{AI}$ is absolute nescience, $\mathcal{R}_{AO-AI}$ is the omniscience-nescience relationship, and $\mathcal{T}_{AO-AI}$ is the omniscience-nescience transformation.
+where $`\Phi_{AO}`$ is absolute omniscience, $`\Phi_{AI}`$ is absolute nescience, $`\mathcal{R}_{AO-AI}`$ is the omniscience-nescience relationship, and $`\mathcal{T}_{AO-AI}`$ is the omniscience-nescience transformation.
 
 Omniscience-nescience identity theorem:
 
@@ -305,11 +305,11 @@ indicates that for any object, the product of the degree of omniscience and the 
 
 ### Creative Nescience
 
-Creative Nescience $\mathcal{C}_{AI}$ reveals the creative dimension of nescience:
+Creative Nescience $`\mathcal{C}_{AI}`$ reveals the creative dimension of nescience:
 
 $$\mathcal{C}_{AI} = \{\mathcal{P}_{AI}, \mathcal{D}_{AI}, \mathcal{E}_{AI}, \mathcal{N}_{AI}\}$$
 
-where $\mathcal{P}_{AI}$ is the possibility space, $\mathcal{D}_{AI}$ is the discovery function, $\mathcal{E}_{AI}$ is the exploration operator, and $\mathcal{N}_{AI}$ is the novelty measure.
+where $`\mathcal{P}_{AI}`$ is the possibility space, $`\mathcal{D}_{AI}`$ is the discovery function, $`\mathcal{E}_{AI}`$ is the exploration operator, and $`\mathcal{N}_{AI}`$ is the novelty measure.
 
 Creative nescience theorem:
 
@@ -333,11 +333,11 @@ describes how nescience drives the expansion of the possibility space, with expa
 
 ### Understanding Depth Dynamics
 
-Understanding Depth Dynamics $\mathcal{U}_{AO}$ describes the evolution of understanding depth:
+Understanding Depth Dynamics $`\mathcal{U}_{AO}`$ describes the evolution of understanding depth:
 
 $$\mathcal{U}_{AO} = \{\mathcal{D}_{AO}, \mathcal{B}_{AO}, \mathcal{C}_{AO}, \mathcal{R}_{AO}\}$$
 
-where $\mathcal{D}_{AO}$ is the depth function, $\mathcal{B}_{AO}$ is understanding breadth, $\mathcal{C}_{AO}$ is understanding coherence, and $\mathcal{R}_{AO}$ is the relation function.
+where $`\mathcal{D}_{AO}`$ is the depth function, $`\mathcal{B}_{AO}`$ is understanding breadth, $`\mathcal{C}_{AO}`$ is understanding coherence, and $`\mathcal{R}_{AO}`$ is the relation function.
 
 Understanding depth equation:
 
@@ -359,11 +359,11 @@ indicates that the product of understanding depth and breadth is not less than s
 
 ### Understanding Emergence Phenomena
 
-Understanding Emergence $\mathcal{E}_{AO}$ describes the phenomenon of leaps in understanding:
+Understanding Emergence $`\mathcal{E}_{AO}`$ describes the phenomenon of leaps in understanding:
 
 $$\mathcal{E}_{AO} = \{\mathcal{T}_{AO}, \mathcal{C}_{AO}, \mathcal{S}_{AO}, \mathcal{I}_{AO}\}$$
 
-where $\mathcal{T}_{AO}$ is the threshold function, $\mathcal{C}_{AO}$ is the critical condition, $\mathcal{S}_{AO}$ is state transition, and $\mathcal{I}_{AO}$ is the insight function.
+where $`\mathcal{T}_{AO}`$ is the threshold function, $`\mathcal{C}_{AO}`$ is the critical condition, $`\mathcal{S}_{AO}`$ is state transition, and $`\mathcal{I}_{AO}`$ is the insight function.
 
 Understanding emergence equation:
 
@@ -387,11 +387,11 @@ indicates that the frequency of understanding emergence is proportional to the p
 
 ### Cognitive Boundary Transcendence
 
-Cognitive Boundary Transcendence $\mathcal{B}_{AO}$ describes how cognition transcends its own limits:
+Cognitive Boundary Transcendence $`\mathcal{B}_{AO}`$ describes how cognition transcends its own limits:
 
 $$\mathcal{B}_{AO} = \{\mathcal{L}_{AO}, \mathcal{T}_{AO}, \mathcal{E}_{AO}, \mathcal{S}_{AO}\}$$
 
-where $\mathcal{L}_{AO}$ is the cognitive limit, $\mathcal{T}_{AO}$ is the transcendence function, $\mathcal{E}_{AO}$ is the extension operator, and $\mathcal{S}_{AO}$ is the self-reflexivity function.
+where $`\mathcal{L}_{AO}`$ is the cognitive limit, $`\mathcal{T}_{AO}`$ is the transcendence function, $`\mathcal{E}_{AO}`$ is the extension operator, and $`\mathcal{S}_{AO}`$ is the self-reflexivity function.
 
 Cognitive boundary equation:
 
@@ -413,17 +413,17 @@ indicates that through infinite recursive transcendence of boundaries, one ultim
 
 ### Infinite Cognitive Extension
 
-Infinite Cognitive Extension $\mathcal{E}_{AO}$ describes the process of infinite extension of cognition:
+Infinite Cognitive Extension $`\mathcal{E}_{AO}`$ describes the process of infinite extension of cognition:
 
 $$\mathcal{E}_{AO} = \{\mathcal{G}_{AO}, \mathcal{D}_{AO}, \mathcal{I}_{AO}, \mathcal{C}_{AO}\}$$
 
-where $\mathcal{G}_{AO}$ is the growth function, $\mathcal{D}_{AO}$ is the dimension function, $\mathcal{I}_{AO}$ is the integration operator, and $\mathcal{C}_{AO}$ is the complexity function.
+where $`\mathcal{G}_{AO}`$ is the growth function, $`\mathcal{D}_{AO}`$ is the dimension function, $`\mathcal{I}_{AO}`$ is the integration operator, and $`\mathcal{C}_{AO}`$ is the complexity function.
 
 Cognitive extension equation:
 
 $$\frac{d\mathcal{V}_{AO}}{d\tau} = \mathcal{G}_{AO} \cdot \mathcal{V}_{AO} \cdot (1 - \frac{\mathcal{V}_{AO}}{\mathcal{K}_{AO}})$$
 
-describes how cognitive volume grows, similar to a logistic growth model, but where the capacity $\mathcal{K}_{AO}$ continuously increases.
+describes how cognitive volume grows, similar to a logistic growth model, but where the capacity $`\mathcal{K}_{AO}`$ continuously increases.
 
 Dimension extension theorem:
 
@@ -441,17 +441,17 @@ indicates that as cognitive extension proceeds, the product of complexity and in
 
 ### Multidimensional Wisdom Model
 
-The Multidimensional Wisdom Model $\mathcal{W}_{AO}$ describes the multidimensional structure of wisdom:
+The Multidimensional Wisdom Model $`\mathcal{W}_{AO}`$ describes the multidimensional structure of wisdom:
 
 $$\mathcal{W}_{AO} = \{\mathcal{D}_{AO}, \mathcal{E}_{AO}, \mathcal{P}_{AO}, \mathcal{M}_{AO}\}$$
 
-where $\mathcal{D}_{AO}$ is the depth dimension, $\mathcal{E}_{AO}$ is the ethical dimension, $\mathcal{P}_{AO}$ is the practical dimension, and $\mathcal{M}_{AO}$ is the metacognitive dimension.
+where $`\mathcal{D}_{AO}`$ is the depth dimension, $`\mathcal{E}_{AO}`$ is the ethical dimension, $`\mathcal{P}_{AO}`$ is the practical dimension, and $`\mathcal{M}_{AO}`$ is the metacognitive dimension.
 
 Wisdom vector field:
 
 $$\vec{\mathcal{W}}(x, \tau) = \mathcal{D}_{AO}(x, \tau)\vec{e}_D + \mathcal{E}_{AO}(x, \tau)\vec{e}_E + \mathcal{P}_{AO}(x, \tau)\vec{e}_P + \mathcal{M}_{AO}(x, \tau)\vec{e}_M$$
 
-represents wisdom at space-time point $(x, \tau)$ as a multidimensional vector field.
+represents wisdom at space-time point $`(x, \tau)`$ as a multidimensional vector field.
 
 Wisdom density function:
 
@@ -467,11 +467,11 @@ indicates that balanced wisdom forms a conservative field, with harmonious relat
 
 ### Wisdom Implementation Dynamics
 
-Wisdom Implementation Dynamics $\mathcal{I}_{AO}$ describes how wisdom is implemented in reality:
+Wisdom Implementation Dynamics $`\mathcal{I}_{AO}`$ describes how wisdom is implemented in reality:
 
 $$\mathcal{I}_{AO} = \{\mathcal{R}_{AO}, \mathcal{A}_{AO}, \mathcal{T}_{AO}, \mathcal{E}_{AO}\}$$
 
-where $\mathcal{R}_{AO}$ is the realization function, $\mathcal{A}_{AO}$ is the application operator, $\mathcal{T}_{AO}$ is the transformation function, and $\mathcal{E}_{AO}$ is the effect measure.
+where $`\mathcal{R}_{AO}`$ is the realization function, $`\mathcal{A}_{AO}`$ is the application operator, $`\mathcal{T}_{AO}`$ is the transformation function, and $`\mathcal{E}_{AO}`$ is the effect measure.
 
 Wisdom implementation equation:
 
@@ -495,7 +495,7 @@ Wisdom implementation network:
 
 $$\mathcal{N}_{I-AO} = \{\mathcal{V}_{I-AO}, \mathcal{E}_{I-AO}, \mathcal{W}_{I-AO}, \mathcal{F}_{I-AO}\}$$
 
-represents the social network structure of wisdom implementation, described by nodes $\mathcal{V}_{I-AO}$, connections $\mathcal{E}_{I-AO}$, weights $\mathcal{W}_{I-AO}$, and flow function $\mathcal{F}_{I-AO}$.
+represents the social network structure of wisdom implementation, described by nodes $`\mathcal{V}_{I-AO}`$, connections $`\mathcal{E}_{I-AO}`$, weights $`\mathcal{W}_{I-AO}`$, and flow function $`\mathcal{F}_{I-AO}`$.
 
 ## References and Related Theories
 

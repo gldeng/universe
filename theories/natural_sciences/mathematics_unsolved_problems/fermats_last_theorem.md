@@ -7,7 +7,7 @@
 
 ## 问题描述 | Problem Description
 
-费马大定理声称对于任何整数 $n > 2$，方程 $x^n + y^n = z^n$ 没有正整数解。这一猜想由费马在1637年提出，但直到1995年才由安德鲁·怀尔斯完成证明，成为数学史上最著名的问题之一。
+费马大定理声称对于任何整数 $`n > 2`$，方程 $`x^n + y^n = z^n`$ 没有正整数解。这一猜想由费马在1637年提出，但直到1995年才由安德鲁·怀尔斯完成证明，成为数学史上最著名的问题之一。
 
 费马的原始陈述是：
 
@@ -15,7 +15,7 @@
 
 ## 量子经典视角 | Quantum-Classical Perspective
 
-从量子经典二元论视角，费马大定理揭示了量子纠缠态（能量）在经典化过程中的维度限制。当 $n = 2$ 时（毕达哥拉斯定理），我们看到的是二维平面几何中的量子-经典映射，这种映射保持了整数关系；但当 $n > 2$ 时，高维量子纠缠结构经典化后无法保持整数关系，导致方程无解。
+从量子经典二元论视角，费马大定理揭示了量子纠缠态（能量）在经典化过程中的维度限制。当 $`n = 2`$ 时（毕达哥拉斯定理），我们看到的是二维平面几何中的量子-经典映射，这种映射保持了整数关系；但当 $`n > 2`$ 时，高维量子纠缠结构经典化后无法保持整数关系，导致方程无解。
 
 ## 形式化描述 | Formal Description
 
@@ -31,17 +31,17 @@ $$
 
 ### 步骤1：量子-经典维度映射
 
-定义量子-经典维度映射函数 $\Phi_n$，将 $n$ 维量子纠缠结构映射到经典域：
+定义量子-经典维度映射函数 $`\Phi_n`$，将 $`n`$ 维量子纠缠结构映射到经典域：
 
 $$
 \Phi_n: \mathcal{Q}_n \to \mathcal{C}
 $$
 
-其中 $\mathcal{Q}_n$ 是 $n$ 维量子纠缠态空间，$\mathcal{C}$ 是经典观察域。
+其中 $`\mathcal{Q}_n`$ 是 $`n`$ 维量子纠缠态空间，$`\mathcal{C}`$ 是经典观察域。
 
 ### 步骤2：维度复杂度与信息保持分析
 
-当维度 $n$ 增加时，量子纠缠态复杂度呈非线性增长：
+当维度 $`n`$ 增加时，量子纠缠态复杂度呈非线性增长：
 
 $$
 \text{复杂度}(\mathcal{Q}_n) \propto n^{\alpha}, \text{ 其中 } \alpha > 1
@@ -55,13 +55,13 @@ $$
 
 ### 步骤3：模块化椭圆曲线框架
 
-引入模块化椭圆曲线作为量子-经典映射的中介结构。对于每个潜在的费马方程解 $(x,y,z)$，建立费里埃模块 $\mathcal{T}_n(x,y,z)$ 表示信息在经典域中的保持度量：
+引入模块化椭圆曲线作为量子-经典映射的中介结构。对于每个潜在的费马方程解 $`(x,y,z)`$，建立费里埃模块 $`\mathcal{T}_n(x,y,z)`$ 表示信息在经典域中的保持度量：
 
 $$
 \mathcal{T}_n(x,y,z) = \text{模块化椭圆曲线在经典化过程中的信息保持度量}
 $$
 
-谨慎分析表明，当 $n > 2$ 时，$\mathcal{T}_n$ 的结构不允许整数点解，因为高维量子纠缠信息在经典化过程中发生不可逆的信息损失。
+谨慎分析表明，当 $`n > 2`$ 时，$`\mathcal{T}_n`$ 的结构不允许整数点解，因为高维量子纠缠信息在经典化过程中发生不可逆的信息损失。
 
 ### 步骤4：塔诺-志村-怀尔斯联系
 
@@ -77,7 +77,7 @@ $$
 
 ### 步骤5：维度限制证明
 
-最后，通过证明当 $n > 2$ 时，量子纠缠信息的经典域整数表达不可能性，完成费马大定理的证明：
+最后，通过证明当 $`n > 2`$ 时，量子纠缠信息的经典域整数表达不可能性，完成费马大定理的证明：
 
 $$
 \begin{align}
@@ -137,9 +137,9 @@ To construct a rigorous proof, we follow these steps, each based on ZFC axioms:
 
 #### 1. 半稳定椭圆曲线与模形式的联系 | Connection Between Semi-stable Elliptic Curves and Modular Forms
 
-对于任意假设解 $(a,b,c)$ 满足 $a^n + b^n = c^n$，我们构造半稳定椭圆曲线：
+对于任意假设解 $`(a,b,c)`$ 满足 $`a^n + b^n = c^n`$，我们构造半稳定椭圆曲线：
 
-For any hypothetical solution $(a,b,c)$ satisfying $a^n + b^n = c^n$, we construct a semi-stable elliptic curve:
+For any hypothetical solution $`(a,b,c)`$ satisfying $`a^n + b^n = c^n`$, we construct a semi-stable elliptic curve:
 
 $$
 E_{a,b,c}: y^2 = x(x-a^n)(x+b^n)
@@ -165,17 +165,17 @@ $$
 
 #### 2. 伽罗瓦表示理论 | Galois Representation Theory
 
-对每个素数 $p > 2$，设 $\rho_p$ 为与椭圆曲线 $E$ 相关的 $p$-进伽罗瓦表示：
+对每个素数 $`p > 2`$，设 $`\rho_p`$ 为与椭圆曲线 $`E`$ 相关的 $`p`$-进伽罗瓦表示：
 
-For each prime $p > 2$, let $\rho_p$ be the $p$-adic Galois representation associated with the elliptic curve $E$:
+For each prime $`p > 2`$, let $`\rho_p`$ be the $`p`$-adic Galois representation associated with the elliptic curve $`E`$:
 
 $$
 \rho_p: \text{Gal}(\bar{\mathbb{Q}}/\mathbb{Q}) \rightarrow \text{GL}_2(\mathbb{Z}_p)
 $$
 
-根据ZFC公理中的选择公理和替代公理，我们可以对每个 $\rho_p$ 建立严格的形式化描述：
+根据ZFC公理中的选择公理和替代公理，我们可以对每个 $`\rho_p`$ 建立严格的形式化描述：
 
-According to the axiom of choice and the axiom of replacement in ZFC, we can establish a rigorous formalization for each $\rho_p$:
+According to the axiom of choice and the axiom of replacement in ZFC, we can establish a rigorous formalization for each $`\rho_p`$:
 
 $$
 \begin{align}
@@ -193,9 +193,9 @@ $$
 
 #### 3. 模平面与普遍可推广性 | Modular Curves and Universal Extendability
 
-在ZFC框架下，我们可以证明模平面的紧致性，对于素数 $p > 2$：
+在ZFC框架下，我们可以证明模平面的紧致性，对于素数 $`p > 2`$：
 
-Within the ZFC framework, we can prove the compactness of modular curves for primes $p > 2$:
+Within the ZFC framework, we can prove the compactness of modular curves for primes $`p > 2`$:
 
 $$
 \begin{align}
@@ -204,15 +204,15 @@ X_0(N_p) &:= \Gamma_0(N_p) \backslash \mathcal{H}^* \\
 \end{align}
 $$
 
-其中 $\mathcal{H}$ 是上半平面，$\Gamma_0(N_p)$ 是特定的卷积群。
+其中 $`\mathcal{H}`$ 是上半平面，$`\Gamma_0(N_p)`$ 是特定的卷积群。
 
-where $\mathcal{H}$ is the upper half-plane, and $\Gamma_0(N_p)$ is a specific congruence subgroup.
+where $`\mathcal{H}`$ is the upper half-plane, and $`\Gamma_0(N_p)`$ is a specific congruence subgroup.
 
 #### 4. Frey曲线与模形式的联系 | Connection Between Frey Curves and Modular Forms
 
-对于任意假设解 $(a,b,c)$ 满足 $a^n + b^n = c^n$，相关的Frey曲线不能对应任何模形式，这可以用ZFC中的反证法严格证明：
+对于任意假设解 $`(a,b,c)`$ 满足 $`a^n + b^n = c^n`$，相关的Frey曲线不能对应任何模形式，这可以用ZFC中的反证法严格证明：
 
-For any hypothetical solution $(a,b,c)$ satisfying $a^n + b^n = c^n$，the associated Frey curve cannot correspond to any modular form, which can be rigorously proven by contradiction in ZFC:
+For any hypothetical solution $`(a,b,c)`$ satisfying $`a^n + b^n = c^n`$，the associated Frey curve cannot correspond to any modular form, which can be rigorously proven by contradiction in ZFC:
 
 $$
 \begin{align}
@@ -226,9 +226,9 @@ $$
 \end{align}
 $$
 
-其中 $S_2(\Gamma_0(N))$ 是权为2的尖模形式空间。
+其中 $`S_2(\Gamma_0(N))`$ 是权为2的尖模形式空间。
 
-where $S_2(\Gamma_0(N))$ is the space of cusp forms of weight 2.
+where $`S_2(\Gamma_0(N))`$ is the space of cusp forms of weight 2.
 
 #### 5. 塔诺-志村-怀尔斯定理的应用 | Application of the Taniyama-Shimura-Wiles Theorem
 
@@ -248,9 +248,9 @@ $$
 \end{align}
 $$
 
-其中 $L(E,s)$ 是椭圆曲线的L-函数，$L(f,s)$ 是模形式的L-函数。
+其中 $`L(E,s)`$ 是椭圆曲线的L-函数，$`L(f,s)`$ 是模形式的L-函数。
 
-where $L(E,s)$ is the L-function of the elliptic curve, and $L(f,s)$ is the L-function of the modular form.
+where $`L(E,s)`$ is the L-function of the elliptic curve, and $`L(f,s)`$ is the L-function of the modular form.
 
 #### 6. 最终证明通过矛盾导出 | Final Proof by Contradiction
 
@@ -288,15 +288,15 @@ To ensure the completeness of the proof within ZFC, we provide rigorous proofs f
    Using the axiom of replacement from ZFC to construct a set containing all possible solutions:
    $$S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}$$
 
-2. 利用空集公理和幂集公理证明 $S = \emptyset$：
+2. 利用空集公理和幂集公理证明 $`S = \emptyset`$：
    $$\forall (n,x,y,z) \in S \Rightarrow \text{存在矛盾} \Rightarrow S = \emptyset$$
 
-   Using the axiom of empty set and the axiom of power set to prove $S = \emptyset$:
+   Using the axiom of empty set and the axiom of power set to prove $`S = \emptyset`$:
    $$\forall (n,x,y,z) \in S \Rightarrow \text{contradiction exists} \Rightarrow S = \emptyset$$
 
-3. 利用基数公理证明 $|S| = 0$，因此无解。
+3. 利用基数公理证明 $`|S| = 0`$，因此无解。
 
-   Using the axiom of cardinality to prove $|S| = 0$, therefore no solution exists.
+   Using the axiom of cardinality to prove $`|S| = 0`$, therefore no solution exists.
 
 通过这种严格构造，我们在ZFC框架内完成了费马大定理的证明，该证明可被任何遵循ZFC公理系统的第三方验证。
 

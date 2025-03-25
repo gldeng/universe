@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{North}}: \Omega_Q^{\text{社会}} \rightarrow \Omega_C^{\text{制度}}$$
 
-其中$\Omega_Q^{\text{社会}}$代表社会互动的量子可能性空间，$\Omega_C^{\text{制度}}$代表通过制度确立的经典确定性空间。
+其中$`\Omega_Q^{\text{社会}}`$代表社会互动的量子可能性空间，$`\Omega_C^{\text{制度}}`$代表通过制度确立的经典确定性空间。
 
 ### 历史影响
 
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, North's institutional theory can be 
 
 $$\mathcal{M}_{\text{North}}: \Omega_Q^{\text{social}} \rightarrow \Omega_C^{\text{institutional}}$$
 
-Where $\Omega_Q^{\text{social}}$ represents the quantum possibility space of social interactions, and $\Omega_C^{\text{institutional}}$ represents the classical deterministic space established through institutions.
+Where $`\Omega_Q^{\text{social}}`$ represents the quantum possibility space of social interactions, and $`\Omega_C^{\text{institutional}}`$ represents the classical deterministic space established through institutions.
 
 ### Historical Impact
 

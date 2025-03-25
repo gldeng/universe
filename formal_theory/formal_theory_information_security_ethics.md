@@ -22,7 +22,7 @@
 
 $$\mathcal{I} = \{\Omega_Q^I, \Omega_C^I, \mathcal{B}^I\}$$
 
-其中 $\Omega_Q^I$ 表示信息量子态空间，$\Omega_C^I$ 表示信息经典态空间，$\mathcal{B}^I$ 表示信息量子-经典界面。
+其中 $`\Omega_Q^I`$ 表示信息量子态空间，$`\Omega_C^I`$ 表示信息经典态空间，$`\mathcal{B}^I`$ 表示信息量子-经典界面。
 
 ### 信息安全二元守恒原理
 
@@ -30,7 +30,7 @@ $$\mathcal{I} = \{\Omega_Q^I, \Omega_C^I, \mathcal{B}^I\}$$
 
 $$S_{\text{total}} \cdot F_{\text{info}} = k$$
 
-其中 $S_{\text{total}}$ 是系统总体安全水平，$F_{\text{info}}$ 是信息自由流动度，$k$ 是系统特性常数。这表明安全性与自由度之间存在权衡，两者不能同时无限提高。
+其中 $`S_{\text{total}}`$ 是系统总体安全水平，$`F_{\text{info}}`$ 是信息自由流动度，$`k`$ 是系统特性常数。这表明安全性与自由度之间存在权衡，两者不能同时无限提高。
 
 ### 隐私-透明度二元原理
 
@@ -38,7 +38,7 @@ $$S_{\text{total}} \cdot F_{\text{info}} = k$$
 
 $$P \cdot T = \eta \cdot I_{\text{total}}$$
 
-其中 $P$ 表示隐私保护度，$T$ 表示透明度，$I_{\text{total}}$ 是系统总信息量，$\eta$ 是效率系数。这表明在给定信息系统中，隐私与透明度间存在基本张力。
+其中 $`P`$ 表示隐私保护度，$`T`$ 表示透明度，$`I_{\text{total}}`$ 是系统总信息量，$`\eta`$ 是效率系数。这表明在给定信息系统中，隐私与透明度间存在基本张力。
 
 ### 伦理决策量子化原理
 
@@ -46,7 +46,7 @@ $$P \cdot T = \eta \cdot I_{\text{total}}$$
 
 $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xrightarrow{\text{决策}} |\text{选择}_j\rangle$$
 
-其中 $|\Psi_{\text{伦理}}\rangle$ 是决策前的叠加态，包含多种可能的伦理选择，决策过程相当于波函数塌缩。
+其中 $`|\Psi_{\text{伦理}}\rangle`$ 是决策前的叠加态，包含多种可能的伦理选择，决策过程相当于波函数塌缩。
 
 ## 理论框架
 
@@ -70,13 +70,13 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$\Delta S \cdot \Delta A \geq \frac{\hbar_{\text{info}}}{2}$$
 
-   其中 $\Delta S$ 是安全性的不确定度，$\Delta A$ 是可访问性的不确定度，$\hbar_{\text{info}}$ 是信息系统基本常数。
+   其中 $`\Delta S`$ 是安全性的不确定度，$`\Delta A`$ 是可访问性的不确定度，$`\hbar_{\text{info}}`$ 是信息系统基本常数。
 
 4. **信息安全观察者效应**：观察（监控）行为改变被观察系统的安全状态：
 
    $$S_{\text{post}} = \mathcal{M}(S_{\text{pre}})$$
 
-   其中 $\mathcal{M}$ 是观察算符，表明安全监控本身会改变系统行为。
+   其中 $`\mathcal{M}`$ 是观察算符，表明安全监控本身会改变系统行为。
 
 #### 经典信息安全特性
 
@@ -120,13 +120,13 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$K_{\text{社会}} = \{(i_1, i_2, ..., i_n)_j\}$$
 
-   其中 $i_k$ 是可公开验证的信息点。
+   其中 $`i_k`$ 是可公开验证的信息点。
 
 3. **隐私-透明界面**：个人隐私与社会透明间的转换界面：
 
    $$\mathcal{I}_{\text{隐-透}} = \{x \in \mathcal{U} | P(x) = T(x)\}$$
 
-   其中 $P(x)$ 是隐私保护函数，$T(x)$ 是透明度函数。
+   其中 $`P(x)`$ 是隐私保护函数，$`T(x)`$ 是透明度函数。
 
 #### 安全与自由的二元权衡
 
@@ -136,13 +136,13 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$F_{\text{自由}} = F_0 - \int S(x) dx$$
 
-   其中 $F_0$ 是基础自由度，$S(x)$ 是安全措施强度函数。
+   其中 $`F_0`$ 是基础自由度，$`S(x)`$ 是安全措施强度函数。
 
 2. **自由威胁函数**：过度自由对安全的威胁：
 
    $$S_{\text{安全}} = S_0 - \beta \int F(x)^2 dx$$
 
-   其中 $S_0$ 是基础安全水平，$F(x)$ 是自由度函数，$\beta$ 是威胁系数。
+   其中 $`S_0`$ 是基础安全水平，$`F(x)`$ 是自由度函数，$`\beta`$ 是威胁系数。
 
 3. **最优平衡点**：二者的最优平衡位于特定界面：
 
@@ -170,7 +170,7 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$M_{\text{身份}} = \begin{pmatrix} m_{11} & m_{12} & \cdots \\ m_{21} & m_{22} & \cdots \\ \vdots & \vdots & \ddots \end{pmatrix}$$
 
-   其中元素 $m_{ij}$ 表示数字身份 $i$ 与实体身份属性 $j$ 的关联度。
+   其中元素 $`m_{ij}`$ 表示数字身份 $`i`$ 与实体身份属性 $`j`$ 的关联度。
 
 ### 量子-经典信息伦理框架
 
@@ -210,13 +210,13 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$\hat{H}_{\text{伦理}} |\Psi_{\text{决策}}\rangle = \sum_i E_i \alpha_i |\text{方案}_i\rangle$$
    
-   其中 $\hat{H}_{\text{伦理}}$ 是伦理评估算符，$E_i$ 是各方案的伦理价值
+   其中 $`\hat{H}_{\text{伦理}}`$ 是伦理评估算符，$`E_i`$ 是各方案的伦理价值
 
 3. **经典阶段**：确定最终决策与执行
 
    $$D_{\text{final}} = \max_i \{E_i \cdot P_i\}$$
    
-   其中 $P_i$ 是方案 $i$ 的可行性，最终选择伦理价值与可行性乘积最大的方案
+   其中 $`P_i`$ 是方案 $`i`$ 的可行性，最终选择伦理价值与可行性乘积最大的方案
 
 ### 数字伦理特殊问题分析
 
@@ -226,7 +226,7 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$B_Q = \int \Psi_{\text{数据}}^* \hat{B} \Psi_{\text{数据}} d\tau$$
    
-   其中 $\hat{B}$ 是偏见算符，作用于数据的叠加态表示
+   其中 $`\hat{B}`$ 是偏见算符，作用于数据的叠加态表示
 
 2. **经典型偏见**：源于确定性历史数据中的系统性模式：
 
@@ -238,7 +238,7 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$\Delta B = -(\alpha \cdot \Delta B_Q + \beta \cdot \Delta B_C)$$
    
-   其中 $\alpha$ 和 $\beta$ 是调节系数，分别针对量子和经典偏见采取措施
+   其中 $`\alpha`$ 和 $`\beta`$ 是调节系数，分别针对量子和经典偏见采取措施
 
 #### 数字遗忘权的二元解析
 
@@ -258,7 +258,7 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$U_{\text{社会}} = \alpha \cdot I_{\text{保存值}} - \beta \cdot H_{\text{伤害}}$$
    
-   其中 $I_{\text{保存值}}$ 是信息保存的价值，$H_{\text{伤害}}$ 是信息保留造成的潜在伤害
+   其中 $`I_{\text{保存值}}`$ 是信息保存的价值，$`H_{\text{伤害}}`$ 是信息保留造成的潜在伤害
 
 #### 量子计算时代的信息伦理新维度
 
@@ -272,13 +272,13 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$S_{\text{后量子}} \geq S_{\text{临界}} \cdot f(\text{量子能力})$$
    
-   其中 $S_{\text{临界}}$ 是安全底线，$f(\text{量子能力})$ 是量子计算能力函数
+   其中 $`S_{\text{临界}}`$ 是安全底线，$`f(\text{量子能力})`$ 是量子计算能力函数
 
 3. **量子-经典伦理共存**：量子与经典信息系统的伦理共存：
 
    $$E_{\text{混合}} = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I$$
    
-   其中 $E_Q$、$E_C$ 和 $E_I$ 分别是量子、经典和界面伦理框架，$w$ 是权重系数
+   其中 $`E_Q`$、$`E_C`$ 和 $`E_I`$ 分别是量子、经典和界面伦理框架，$`w`$ 是权重系数
 
 ## 实践应用与案例分析
 
@@ -290,7 +290,7 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$R_{\text{total}} = \sqrt{R_Q^2 + R_C^2}$$
    
-   其中 $R_Q$ 是量子风险（不确定性、创新相关），$R_C$ 是经典风险（确定性威胁）
+   其中 $`R_Q`$ 是量子风险（不确定性、创新相关），$`R_C`$ 是经典风险（确定性威胁）
 
 2. **伦理影响矩阵**：
 
@@ -300,7 +300,7 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
    E_{IQ} & E_{IC} & E_{II}
    \end{pmatrix}$$
    
-   其中元素 $E_{XY}$ 表示域 $X$ 的行动对域 $Y$ 的伦理影响
+   其中元素 $`E_{XY}`$ 表示域 $`X`$ 的行动对域 $`Y`$ 的伦理影响
 
 3. **伦理决策树**：
    - 根节点：伦理问题本质（量子/经典/混合）
@@ -330,19 +330,19 @@ $$|\Psi_{\text{伦理}}\rangle = \sum_i \alpha_i |\text{选择}_i\rangle \xright
 
    $$S_{\text{态势}} = \{S_C, S_Q, \frac{\partial S_C}{\partial t}, \frac{\partial S_Q}{\partial t}\}$$
    
-   其中 $S_C$ 和 $S_Q$ 分别是经典和量子安全状态，偏导项表示变化趋势
+   其中 $`S_C`$ 和 $`S_Q`$ 分别是经典和量子安全状态，偏导项表示变化趋势
 
 2. **伦理自适应响应机制**：基于伦理原则的响应选择：
 
    $$R_{\text{选择}} = \arg\max_R \{E(R) \cdot P_{\text{成功}}(R) \cdot (1-H_{\text{伤害}}(R))\}$$
    
-   其中 $E(R)$ 是响应 $R$ 的伦理价值，$P_{\text{成功}}$ 是成功概率，$H_{\text{伤害}}$ 是潜在伤害
+   其中 $`E(R)`$ 是响应 $`R`$ 的伦理价值，$`P_{\text{成功}}`$ 是成功概率，$`H_{\text{伤害}}`$ 是潜在伤害
 
 3. **伦理学习回路**：系统从过往决策中学习伦理模式：
 
    $$E_{t+1}(R) = E_t(R) + \eta \cdot (O_t - E_t(R))$$
    
-   其中 $E_t(R)$ 是时间 $t$ 对响应 $R$ 的伦理评估，$O_t$ 是观察到的实际伦理结果，$\eta$ 是学习率
+   其中 $`E_t(R)`$ 是时间 $`t`$ 对响应 $`R`$ 的伦理评估，$`O_t`$ 是观察到的实际伦理结果，$`\eta`$ 是学习率
 
 ## 未来发展与整合路径
 

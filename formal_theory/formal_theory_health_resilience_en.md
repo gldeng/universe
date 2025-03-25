@@ -22,7 +22,7 @@ Health states simultaneously possess quantum domain characteristics (potential p
 
 $$\mathcal{H} = \{\Omega_Q^H, \Omega_C^H, \mathcal{I}^H\}$$
 
-where $\Omega_Q^H$ represents the health possibility space, $\Omega_C^H$ represents the realized health state, and $\mathcal{I}^H$ represents the quantum-classical health interface.
+where $`\Omega_Q^H`$ represents the health possibility space, $`\Omega_C^H`$ represents the realized health state, and $`\mathcal{I}^H`$ represents the quantum-classical health interface.
 
 ### Health Resilience Principle
 
@@ -30,7 +30,7 @@ Health resilience is the ability of a system to maintain or restore health after
 
 $$R_H = f\left(\frac{S_Q}{S_C}\right) \cdot \frac{I_{\text{adaptation}}}{S_{\text{disturbance}}+\epsilon}$$
 
-where $S_Q$ is quantum adaptability (ability to create new possibilities), $S_C$ is classical stability (ability to maintain core functions), $I_{\text{adaptation}}$ is adaptation information quantity, $S_{\text{disturbance}}$ is disturbance intensity, and $\epsilon$ is a small constant to prevent division by zero.
+where $`S_Q`$ is quantum adaptability (ability to create new possibilities), $`S_C`$ is classical stability (ability to maintain core functions), $`I_{\text{adaptation}}`$ is adaptation information quantity, $`S_{\text{disturbance}}`$ is disturbance intensity, and $`\epsilon`$ is a small constant to prevent division by zero.
 
 ### Health Information-Structure Symbiosis Principle
 
@@ -38,7 +38,7 @@ Information flow and structure in health systems exhibit a symbiotic relationshi
 
 $$\Delta I_H \cdot \Delta S_H \geq k_H$$
 
-where $\Delta I_H$ is the health information change, $\Delta S_H$ is the health structure change, and $k_H$ is a health system characteristic constant. This indicates that health systems need to maintain a dynamic balance between information fluidity and structural stability.
+where $`\Delta I_H`$ is the health information change, $`\Delta S_H`$ is the health structure change, and $`k_H`$ is a health system characteristic constant. This indicates that health systems need to maintain a dynamic balance between information fluidity and structural stability.
 
 ### Health Observer Participation Principle
 
@@ -46,7 +46,7 @@ Health states are influenced by observer (self, healthcare system, society) meas
 
 $$H_{\text{post}} = \mathcal{M}_O(H_{\text{pre}})$$
 
-where $H_{\text{pre}}$ and $H_{\text{post}}$ are health states before and after observation, respectively, and $\mathcal{M}_O$ is the observer-specific measurement-intervention operator.
+where $`H_{\text{pre}}`$ and $`H_{\text{post}}`$ are health states before and after observation, respectively, and $`\mathcal{M}_O`$ is the observer-specific measurement-intervention operator.
 
 ## Theoretical Framework
 
@@ -58,7 +58,7 @@ where $H_{\text{pre}}$ and $H_{\text{post}}$ are health states before and after 
 
    $$|\Psi_{\text{health}}\rangle = \sum_i \alpha_i |\text{state}_i\rangle$$
 
-   where $\alpha_i$ represents the quantum amplitude of various health states, reflecting the potential possibilities of different health trajectories.
+   where $`\alpha_i`$ represents the quantum amplitude of various health states, reflecting the potential possibilities of different health trajectories.
 
 2. **Health State Entanglement**: Components of the mind-body system form non-local correlations:
 
@@ -70,13 +70,13 @@ where $H_{\text{pre}}$ and $H_{\text{post}}$ are health states before and after 
 
    $$P_{\text{tunneling}} = e^{-2\gamma d}$$
 
-   where $\gamma$ is related to the energy barrier height, and $d$ is the barrier width. This explains some unexpected recovery and health breakthrough phenomena.
+   where $`\gamma`$ is related to the energy barrier height, and $`d`$ is the barrier width. This explains some unexpected recovery and health breakthrough phenomena.
 
 4. **Health Fluctuations and Self-Organization**: Quantum fluctuations in health systems can trigger self-organization processes:
 
    $$P(\text{self-organization}|\xi) \propto e^{-\beta\Delta S_{\text{organization}}}$$
 
-   where $\xi$ is the quantum fluctuation, $\Delta S_{\text{organization}}$ is the organizational entropy change, and $\beta$ is the system sensitivity.
+   where $`\xi`$ is the quantum fluctuation, $`\Delta S_{\text{organization}}`$ is the organizational entropy change, and $`\beta`$ is the system sensitivity.
 
 #### Classical Characteristics of Health Systems
 
@@ -84,25 +84,25 @@ where $H_{\text{pre}}$ and $H_{\text{post}}$ are health states before and after 
 
    $$H_C = \{(x_1, x_2, ..., x_n) | a_i \leq x_i \leq b_i\}$$
 
-   where $x_i$ represents specific physiological parameters, and $a_i$ and $b_i$ are health range boundaries.
+   where $`x_i`$ represents specific physiological parameters, and $`a_i`$ and $`b_i`$ are health range boundaries.
 
 2. **Health Homeostatic Dynamics**: Classical health systems tend toward steady states:
 
    $$\frac{dx_i}{dt} = f_i(x_1, x_2, ..., x_n) - k_i(x_i - x_i^*)$$
 
-   where $x_i^*$ is the steady-state value of parameter $x_i$, and $k_i$ is the recovery rate constant.
+   where $`x_i^*`$ is the steady-state value of parameter $`x_i`$, and $`k_i`$ is the recovery rate constant.
 
 3. **Health Causal Network**: Deterministic causal pathway networks exist in health systems:
 
    $$G_H = (V, E, W)$$
 
-   where $V$ is the set of nodes (physiological components), $E$ is the set of edges (interactions), and $W$ is the set of weights (interaction strengths).
+   where $`V`$ is the set of nodes (physiological components), $`E`$ is the set of edges (interactions), and $`W`$ is the set of weights (interaction strengths).
 
 4. **Health Entropy Production**: Health systems as dissipative structures continuously produce entropy:
 
    $$\frac{dS}{dt} = \sigma_{\text{internal}} + \sigma_{\text{exchange}}$$
 
-   where $\sigma_{\text{internal}} \geq 0$ is internal entropy production, and $\sigma_{\text{exchange}}$ is entropy exchange with the environment.
+   where $`\sigma_{\text{internal}} \geq 0`$ is internal entropy production, and $`\sigma_{\text{exchange}}`$ is entropy exchange with the environment.
 
 ### Dualistic Framework of Health Resilience
 
@@ -114,31 +114,31 @@ Health resilience can be assessed through four fundamental dimensions:
 
    $$Res = f(S_{\text{structure}}, B_{\text{buffer}}, R_{\text{redundancy}})$$
 
-   where $S_{\text{structure}}$ is structural strength, $B_{\text{buffer}}$ is buffering capacity, and $R_{\text{redundancy}}$ is functional redundancy.
+   where $`S_{\text{structure}}`$ is structural strength, $`B_{\text{buffer}}`$ is buffering capacity, and $`R_{\text{redundancy}}`$ is functional redundancy.
 
 2. **Recovery** (classical-quantum interface characteristic): The ability of a system to recover from disturbances:
 
    $$Rec = g(r_{\text{repair}}, t_{\text{recovery}}, E_{\text{efficiency}})$$
 
-   where $r_{\text{repair}}$ is the repair rate, $t_{\text{recovery}}$ is recovery time, and $E_{\text{efficiency}}$ is resource utilization efficiency.
+   where $`r_{\text{repair}}`$ is the repair rate, $`t_{\text{recovery}}`$ is recovery time, and $`E_{\text{efficiency}}`$ is resource utilization efficiency.
 
 3. **Adaptability** (quantum domain characteristic): The ability of a system to learn and adapt to new conditions:
 
    $$Adp = h(L_{\text{learning}}, F_{\text{flexibility}}, I_{\text{innovation}})$$
 
-   where $L_{\text{learning}}$ is learning ability, $F_{\text{flexibility}}$ is response flexibility, and $I_{\text{innovation}}$ is innovation potential.
+   where $`L_{\text{learning}}`$ is learning ability, $`F_{\text{flexibility}}`$ is response flexibility, and $`I_{\text{innovation}}`$ is innovation potential.
 
 4. **Transformability** (quantum domain characteristic): The ability of a system to undergo fundamental transformation:
 
    $$Trf = j(C_{\text{complexity}}, D_{\text{diversity}}, E_{\text{emergence}})$$
 
-   where $C_{\text{complexity}}$ is system complexity, $D_{\text{diversity}}$ is component diversity, and $E_{\text{emergence}}$ is emergence capability.
+   where $`C_{\text{complexity}}`$ is system complexity, $`D_{\text{diversity}}`$ is component diversity, and $`E_{\text{emergence}}`$ is emergence capability.
 
 The comprehensive assessment of health resilience can be represented as:
 
 $$R_{\text{comprehensive}} = w_1 Res + w_2 Rec + w_3 Adp + w_4 Trf$$
 
-where $w_i$ are weights for each dimension, varying with system type and environmental conditions.
+where $`w_i`$ are weights for each dimension, varying with system type and environmental conditions.
 
 #### Quantum-Classical Oscillation Model of Health Resilience
 
@@ -190,7 +190,7 @@ Health resilience exhibits self-similar characteristics across multiple scales:
 
    $$M_{\text{adaptation}} = \frac{E_{\text{production}}}{E_{\text{demand}}} \cdot f\left(\frac{P_1}{P_2}\cdots\frac{P_n}{P_{n+1}}\right)$$
 
-   where $\frac{P_i}{P_{j}}$ represents the ability to flexibly switch between different metabolic pathways.
+   where $`\frac{P_i}{P_{j}}`$ represents the ability to flexibly switch between different metabolic pathways.
 
 #### Organ-System Scale Resilience
 
@@ -198,7 +198,7 @@ Health resilience exhibits self-similar characteristics across multiple scales:
 
    $$H(x) = -k \cdot |x - x^*|^2 + S_{\text{compensation}}(x)$$
 
-   where $x^*$ is the optimal state, and $S_{\text{compensation}}$ is the compensation capacity.
+   where $`x^*`$ is the optimal state, and $`S_{\text{compensation}}`$ is the compensation capacity.
 
 2. **Neuro-Endocrine-Immune Network**: Collaborative action of integrated regulatory networks:
 
@@ -214,7 +214,7 @@ Health resilience exhibits self-similar characteristics across multiple scales:
 
    $$F_{\text{actual}} = F_{\text{maximum}} \cdot (1 - e^{-\alpha \cdot n})$$
 
-   where $n$ is the number of functional units, and $\alpha$ represents the degree of unit coordination.
+   where $`n`$ is the number of functional units, and $`\alpha`$ represents the degree of unit coordination.
 
 #### Individual-Social Scale Resilience
 
@@ -222,19 +222,19 @@ Health resilience exhibits self-similar characteristics across multiple scales:
 
    $$MBR = \omega_1 C + \omega_2 E + \omega_3 P + \omega_4 (C \otimes E \otimes P)$$
 
-   where $C$, $E$, and $P$ represent cognitive, emotional, and physiological resilience, respectively, and the last term represents their entangled interaction.
+   where $`C`$, $`E`$, and $`P`$ represent cognitive, emotional, and physiological resilience, respectively, and the last term represents their entangled interaction.
 
 2. **Social Support Network**: Health support structure between individuals:
 
    $$SN = \{V, E, w(e), f(v)\}$$
 
-   where $V$ is the set of individuals, $E$ is the set of relationships, $w(e)$ is relationship strength, and $f(v)$ is the node resource function.
+   where $`V`$ is the set of individuals, $`E`$ is the set of relationships, $`w(e)`$ is relationship strength, and $`f(v)`$ is the node resource function.
 
 3. **Cultural Health Resources**: Health promotion resources for social groups:
 
    $$CR = \{K, P, I, V\}$$
 
-   where $K$ is the knowledge system, $P$ is the practice system, $I$ is the institutional system, and $V$ is the value system.
+   where $`K`$ is the knowledge system, $`P`$ is the practice system, $`I`$ is the institutional system, and $`V`$ is the value system.
 
 ### Health Resilience Dynamics
 
@@ -268,7 +268,7 @@ Health systems may undergo critical phase transitions under specific conditions:
 
    $$P(\text{pathway}_i) = \frac{e^{-\beta \Delta F_i}}{\sum_j e^{-\beta \Delta F_j}}$$
 
-   where $\Delta F_i$ is the energy barrier height of pathway $i$.
+   where $`\Delta F_i`$ is the energy barrier height of pathway $`i`$.
 
 #### Health-Disease Interface Dynamics
 
@@ -284,13 +284,13 @@ Transitions between health and disease states can be described through interface
 
    $$\frac{dx}{dt} = -\nabla V(x) + \eta(t)$$
 
-   where $\nabla V(x)$ is the deterministic force field, and $\eta(t)$ is random fluctuation.
+   where $`\nabla V(x)`$ is the deterministic force field, and $`\eta(t)`$ is random fluctuation.
 
 3. **Health Repair Mechanisms**: The process by which a system actively restores health:
 
    $$R(x, t) = -\gamma \nabla V(x) - D(x) + S(x, t)$$
 
-   where $\gamma$ is the driving coefficient, $D(x)$ is the damage function, and $S(x, t)$ is the repair source term.
+   where $`\gamma`$ is the driving coefficient, $`D(x)`$ is the damage function, and $`S(x, t)`$ is the repair source term.
 
 #### Learning and Development of Health Resilience
 
@@ -300,19 +300,19 @@ Health resilience can be enhanced and developed through specific mechanisms:
 
    $$R_{t+1} = R_t + \alpha \cdot (C_t - \beta \cdot D_t)$$
 
-   where $R_t$ is resilience at time $t$, $C_t$ is challenge intensity, $D_t$ is damage level, and $\alpha$ and $\beta$ are coefficients.
+   where $`R_t`$ is resilience at time $`t`$, $`C_t`$ is challenge intensity, $`D_t`$ is damage level, and $`\alpha`$ and $`\beta`$ are coefficients.
 
 2. **Hormetic Effect**: Moderate stress enhances system resilience:
 
    $$R(s) = R_0 + k_1 s - k_2 s^2$$
 
-   Manifesting as an inverted U-shaped relationship between resilience and stress $s$.
+   Manifesting as an inverted U-shaped relationship between resilience and stress $`s`$.
 
 3. **Resilience Training Window**: An optimal resilience training interval exists:
 
    $$W_{opt} = [s_{min}, s_{max}]$$
 
-   where $s_{min}$ is the minimum effective stress, and $s_{max}$ is the maximum tolerable stress.
+   where $`s_{min}`$ is the minimum effective stress, and $`s_{max}`$ is the maximum tolerable stress.
 
 ## Application Framework and Intervention Methods
 
@@ -336,7 +336,7 @@ Dualism-based health assessment integrates quantum and classical metrics:
 
    $$H_{total} = f(H_C, H_Q, H_{C \leftrightarrow Q})$$
 
-   where $H_{C \leftrightarrow Q}$ represents the correlation between quantum and classical health characteristics.
+   where $`H_{C \leftrightarrow Q}`$ represents the correlation between quantum and classical health characteristics.
 
 ### Resilience Enhancement Intervention Strategies
 
@@ -422,19 +422,19 @@ Applying Quantum-Classical Health Resilience Theory to chronic disease managemen
 
    $$T(t) = f(T_0, I(t), R(t), E(t))$$
 
-   where $T(t)$ is the disease trajectory, $T_0$ is the initial state, $I(t)$ is the intervention function, $R(t)$ is the resilience function, and $E(t)$ is the environment function.
+   where $`T(t)`$ is the disease trajectory, $`T_0`$ is the initial state, $`I(t)`$ is the intervention function, $`R(t)`$ is the resilience function, and $`E(t)`$ is the environment function.
 
 2. **Individualized Resilience Prescription**:
 
    $$I_{\text{optimal}}(t) = \arg\max_{I \in \mathcal{I}} \{R(t+\Delta t) - C(I)\}$$
 
-   where $\mathcal{I}$ is the set of feasible interventions, and $C(I)$ is the intervention cost.
+   where $`\mathcal{I}`$ is the set of feasible interventions, and $`C(I)`$ is the intervention cost.
 
 3. **Adaptive Management Strategy**:
 
    $$S_{t+1} = \mathcal{A}(S_t, O_t, R_t)$$
 
-   where $\mathcal{A}$ is the adaptation operator, adjusting the strategy based on current state $S_t$, observation $O_t$, and resilience assessment $R_t$.
+   where $`\mathcal{A}`$ is the adaptation operator, adjusting the strategy based on current state $`S_t`$, observation $`O_t`$, and resilience assessment $`R_t`$.
 
 ### Research and Validation Methods
 

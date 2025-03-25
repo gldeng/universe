@@ -20,7 +20,7 @@
 
 2. **心灵的信息本质**：
    $$I_{\text{心灵内容}} = \sum_i w_i \cdot I_i$$
-   其中$I_i$是各种心灵内容（感知、思想、情感等），$w_i$是相应权重。
+   其中$`I_i`$是各种心灵内容（感知、思想、情感等），$`w_i`$是相应权重。
 
 3. **心身互动的基本机制**：
    $$\text{心灵} \leftrightarrow \text{身体} \equiv I_{\text{心灵内容}} \leftrightarrow |\psi\rangle_{\text{量子脑}}$$
@@ -73,7 +73,7 @@ $$D_{\text{心灵}} = k \cdot \frac{I_{\text{心灵内容}}}{S_{\text{脑物理�
 
 4. 随着神经发育和学习，心灵维度可以增加：
    $$\frac{dD_{\text{心灵}}}{dt} = \alpha \cdot \text{学习} + \beta \cdot \text{经验} - \gamma \cdot \text{遗忘}$$
-   其中$\alpha, \beta, \gamma$是正系数。
+   其中$`\alpha, \beta, \gamma`$是正系数。
 
 5. 这解释了为什么意识体验会随着大脑发育和学习而变得更加复杂和丰富。
 
@@ -156,11 +156,11 @@ $$\Phi_{\text{统一场}} = \{|\psi\rangle_{\text{量子域}}, I_{\text{经典�
 
 1. **神经相关性预测**：理论预测心灵内容与神经活动的相关性不是简单的一对一映射，而是通过量子-经典转换实现，这与实验观察到的神经相关性模式一致。
 
-2. **意识发展模型**：根据定理2，随着大脑发育和学习，$\frac{I_{\text{心灵内容}}}{S_{\text{脑物理熵}}}$比率增加，这预测了意识在个体发展中的演化轨迹。
+2. **意识发展模型**：根据定理2，随着大脑发育和学习，$`\frac{I_{\text{心灵内容}}}{S_{\text{脑物理熵}}}`$比率增加，这预测了意识在个体发展中的演化轨迹。
 
-3. **神经康复应用**：公式$W = f(D_{\text{心灵}})$暗示，通过增强心灵维度可以提高神经可塑性，为脑损伤康复提供新思路。
+3. **神经康复应用**：公式$`W = f(D_{\text{心灵}})`$暗示，通过增强心灵维度可以提高神经可塑性，为脑损伤康复提供新思路。
 
-4. **冥想与意识研究**：定理5预测，冥想等改变意识状态的技术能够通过$|\psi\rangle_{\text{量子脑}} \longleftrightarrow I_{\text{心灵内容}}$的相互作用影响神经活动模式，这与脑成像研究结果相符。
+4. **冥想与意识研究**：定理5预测，冥想等改变意识状态的技术能够通过$`|\psi\rangle_{\text{量子脑}} \longleftrightarrow I_{\text{心灵内容}}`$的相互作用影响神经活动模式，这与脑成像研究结果相符。
 
 ### 结论
 
@@ -181,7 +181,7 @@ The mind-body problem is an ancient puzzle in philosophy and science, referring 
 
 2. **Informational Nature of the Mind**:
    $$I_{\text{Mental Content}} = \sum_i w_i \cdot I_i$$
-   where $I_i$ represents various mental contents (perceptions, thoughts, emotions, etc.), and $w_i$ are the corresponding weights.
+   where $`I_i`$ represents various mental contents (perceptions, thoughts, emotions, etc.), and $`w_i`$ are the corresponding weights.
 
 3. **Basic Mechanism of Mind-Body Interaction**:
    $$\text{Mind} \leftrightarrow \text{Body} \equiv I_{\text{Mental Content}} \leftrightarrow |\psi\rangle_{\text{Quantum Brain}}$$
@@ -234,7 +234,7 @@ $$D_{\text{Mind}} = k \cdot \frac{I_{\text{Mental Content}}}{S_{\text{Brain Phys
 
 4. With neural development and learning, mind dimension can increase:
    $$\frac{dD_{\text{Mind}}}{dt} = \alpha \cdot \text{Learning} + \beta \cdot \text{Experience} - \gamma \cdot \text{Forgetting}$$
-   where $\alpha, \beta, \gamma$ are positive coefficients.
+   where $`\alpha, \beta, \gamma`$ are positive coefficients.
 
 5. This explains why conscious experiences become more complex and rich with brain development and learning.
 
@@ -317,11 +317,11 @@ $$\Phi_{\text{Unified Field}} = \{|\psi\rangle_{\text{Quantum Domain}}, I_{\text
 
 1. **Neural Correlation Predictions**: The theory predicts that the correlation between mental content and neural activity is not a simple one-to-one mapping but is realized through quantum-classical conversion, consistent with the patterns of neural correlation observed in experiments.
 
-2. **Consciousness Development Model**: According to Theorem 2, as the brain develops and learns, the $\frac{I_{\text{Mental Content}}}{S_{\text{Brain Physical Entropy}}}$ ratio increases, predicting the evolutionary trajectory of consciousness in individual development.
+2. **Consciousness Development Model**: According to Theorem 2, as the brain develops and learns, the $`\frac{I_{\text{Mental Content}}}{S_{\text{Brain Physical Entropy}}}`$ ratio increases, predicting the evolutionary trajectory of consciousness in individual development.
 
-3. **Neurorehabilitation Applications**: The formula $W = f(D_{\text{Mind}})$ suggests that enhancing mind dimension can improve neural plasticity, providing new approaches for brain injury rehabilitation.
+3. **Neurorehabilitation Applications**: The formula $`W = f(D_{\text{Mind}})`$ suggests that enhancing mind dimension can improve neural plasticity, providing new approaches for brain injury rehabilitation.
 
-4. **Meditation and Consciousness Research**: Theorem 5 predicts that techniques that alter states of consciousness, such as meditation, can influence neural activity patterns through the interaction of $|\psi\rangle_{\text{Quantum Brain}} \longleftrightarrow I_{\text{Mental Content}}$, consistent with brain imaging research results.
+4. **Meditation and Consciousness Research**: Theorem 5 predicts that techniques that alter states of consciousness, such as meditation, can influence neural activity patterns through the interaction of $`|\psi\rangle_{\text{Quantum Brain}} \longleftrightarrow I_{\text{Mental Content}}`$, consistent with brain imaging research results.
 
 ### Conclusion
 

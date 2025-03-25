@@ -14,25 +14,25 @@
 
 ### 量子对称算符
 
-量子对称算符 $\hat{S}_Q$ 定义为在量子态空间中保持特定结构不变的变换：
+量子对称算符 $`\hat{S}_Q`$ 定义为在量子态空间中保持特定结构不变的变换：
 
 $$\hat{S}_Q|\psi\rangle = e^{i\phi_S}|\psi\rangle$$
 
-其中 $\phi_S$ 是对称相位因子。完备的量子对称算符集构成对称群 $\mathcal{G}_Q$：
+其中 $`\phi_S`$ 是对称相位因子。完备的量子对称算符集构成对称群 $`\mathcal{G}_Q`$：
 
 $$\mathcal{G}_Q = \{\hat{S}_Q^{(i)} | \hat{S}_Q^{(i)}\hat{H}\hat{S}_Q^{(i)-1} = \hat{H}\}$$
 
 ### 经典对称变换
 
-经典对称变换 $S_C$ 定义为在经典态空间中保持系统特性不变的映射：
+经典对称变换 $`S_C`$ 定义为在经典态空间中保持系统特性不变的映射：
 
 $$S_C: \Omega_C \rightarrow \Omega_C, \quad H_C(S_C(x)) = H_C(x)$$
 
-其中 $H_C$ 是经典系统的哈密顿函数。
+其中 $`H_C`$ 是经典系统的哈密顿函数。
 
 ### 对称性破缺算符
 
-对称性破缺算符 $\hat{B}$ 定义为将高对称性量子态转换为低对称性经典态的操作：
+对称性破缺算符 $`\hat{B}`$ 定义为将高对称性量子态转换为低对称性经典态的操作：
 
 $$\hat{B}|\psi_{\text{sym}}\rangle = |\psi_{\text{broken}}\rangle$$
 
@@ -52,7 +52,7 @@ $$\mathcal{S}_{\text{total}} = \mathcal{S}_{\text{explicit}} + \mathcal{S}_{\tex
 
 $$\Delta \mathcal{S} + \alpha \Delta I = 0$$
 
-其中 $\alpha$ 是对称性-信息转换系数。
+其中 $`\alpha`$ 是对称性-信息转换系数。
 
 ### 2. 对称性分层原理
 
@@ -70,7 +70,7 @@ $$\mathcal{G}_{\text{high}} \xrightarrow{\text{破缺}} \mathcal{G}_{\text{low}}
 
 $$\frac{d\mathcal{S}(A)}{dt} \geq \beta[\mathcal{S}(B) - \mathcal{S}(A)]$$
 
-当且仅当 $\mathcal{S}(B) > \mathcal{S}(A)$ 且系统A、B存在耦合时。
+当且仅当 $`\mathcal{S}(B) > \mathcal{S}(A)`$ 且系统A、B存在耦合时。
 
 ### 4. 对称性涌现原理
 
@@ -78,7 +78,7 @@ $$\frac{d\mathcal{S}(A)}{dt} \geq \beta[\mathcal{S}(B) - \mathcal{S}(A)]$$
 
 $$\mathcal{S}_{\text{emergent}} = \mathcal{F}[\mathcal{S}_1, \mathcal{S}_2, ..., \mathcal{S}_n, \{C_{ij}\}]$$
 
-其中 $\mathcal{S}_i$ 是第i个组分的对称性，$C_{ij}$ 是组分间的耦合强度。
+其中 $`\mathcal{S}_i`$ 是第i个组分的对称性，$`C_{ij}`$ 是组分间的耦合强度。
 
 ## 量子-经典对称性动力学
 
@@ -92,7 +92,7 @@ $$\frac{d\phi}{dt} = -\frac{\delta F[\phi]}{\delta \phi} + \eta(t)$$
 
 $$F[\phi] = \int \left[\frac{1}{2}|\nabla\phi|^2 + \frac{r}{2}|\phi|^2 + \frac{u}{4}|\phi|^4\right] d^dx$$
 
-$r < 0$ 时系统经历对称性破缺，秩序参量满足：
+$`r < 0`$ 时系统经历对称性破缺，秩序参量满足：
 
 $$\langle\phi\rangle = \begin{cases} 
 0, & r > 0 \\
@@ -105,11 +105,11 @@ $$\langle\phi\rangle = \begin{cases}
 
 $$P_{\text{tunnel}} = e^{-S_E/\hbar}$$
 
-其中 $S_E$ 是欧几里得作用量：
+其中 $`S_E`$ 是欧几里得作用量：
 
 $$S_E = \int \left[\frac{1}{2}\left(\frac{d\phi}{d\tau}\right)^2 + V(\phi)\right] d\tau$$
 
-隧穿率与系统尺寸L和对称性差异 $\Delta\mathcal{S}$ 相关：
+隧穿率与系统尺寸L和对称性差异 $`\Delta\mathcal{S}`$ 相关：
 
 $$\Gamma \sim e^{-\kappa L \Delta\mathcal{S}}$$
 
@@ -119,7 +119,7 @@ $$\Gamma \sim e^{-\kappa L \Delta\mathcal{S}}$$
 
 $$\frac{\partial h}{\partial t} = \nu\nabla^2 h + \frac{\lambda}{2}(\nabla h)^2 + \eta(x,t)$$
 
-其中 $h$ 是对称性恢复场，恢复率满足标度律：
+其中 $`h`$ 是对称性恢复场，恢复率满足标度律：
 
 $$R_{\text{recovery}} \sim t^{-\beta}$$
 
@@ -129,8 +129,8 @@ $$R_{\text{recovery}} \sim t^{-\beta}$$
 
 宇宙中的对称性呈现层级结构：
 
-1. **规范对称性** (最深层):  $U(1) \times SU(2) \times SU(3)$ 结构
-2. **时空对称性**: Poincaré群 $ISO(3,1)$ 及宇宙尺度上的 $dS/AdS$ 群
+1. **规范对称性** (最深层):  $`U(1) \times SU(2) \times SU(3)`$ 结构
+2. **时空对称性**: Poincaré群 $`ISO(3,1)`$ 及宇宙尺度上的 $`dS/AdS`$ 群
 3. **离散对称性**: CPT对称性、置换对称性等
 4. **涌现对称性**: 生物系统中自组织结构中的旋转对称性、分形对称性等
 
@@ -140,7 +140,7 @@ $$R_{\text{recovery}} \sim t^{-\beta}$$
 
 $$I = I_0 - \gamma\ln|G|$$
 
-其中 $|G|$ 是对称群的元素数量，$\gamma$ 是系统复杂度相关系数。
+其中 $`|G|`$ 是对称群的元素数量，$`\gamma`$ 是系统复杂度相关系数。
 
 对称性相变处信息熵满足奇异行为：
 

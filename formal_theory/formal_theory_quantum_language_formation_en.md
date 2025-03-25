@@ -36,19 +36,19 @@ Quantum representation methods for linguistic meaning:
    
    $$|\Psi_{\text{semantic}}\rangle = \sum_i c_i |m_i\rangle$$
    
-   where $|m_i\rangle$ are meaning basis vectors, and $c_i$ are complex amplitudes.
+   where $`|m_i\rangle`$ are meaning basis vectors, and $`c_i`$ are complex amplitudes.
 
 2. **Semantic Entanglement**: Semantic associations between words represented as quantum entanglement
    
    $$|\Psi_{AB}\rangle = \sum_{i,j} c_{ij} |m_i\rangle_A \otimes |m_j\rangle_B$$
    
-   where subscripts $A$ and $B$ represent different words or concepts.
+   where subscripts $`A`$ and $`B`$ represent different words or concepts.
 
 3. **Semantic Density Matrix**: Semantic representation considering mixed states
    
    $$\rho_{\text{semantic}} = \sum_k p_k |\Psi_k\rangle\langle\Psi_k|$$
    
-   where $p_k$ is the probability distribution of various possible interpretations.
+   where $`p_k`$ is the probability distribution of various possible interpretations.
 
 ### Language Coherence
 
@@ -58,19 +58,19 @@ Quantum coherence manifestations in language systems:
    
    $$L_{\text{coherence}} = L_0 \exp\left(-\frac{n}{n_0}\right)$$
    
-   where $n$ is the number of linguistic units, and $n_0$ is the characteristic decay parameter.
+   where $`n`$ is the number of linguistic units, and $`n_0`$ is the characteristic decay parameter.
 
 2. **Contextual Decoherence**: Semantic decoherence process induced by context
    
    $$\rho_{\text{decoherence}} = \sum_i \langle c_i|\rho|c_i\rangle |c_i\rangle\langle c_i|$$
    
-   where $|c_i\rangle$ are context basis vectors.
+   where $`|c_i\rangle`$ are context basis vectors.
 
 3. **Cross-Language Coherence Measure**: Measure of conceptual coherence between different languages
    
    $$C(L_1, L_2) = |\text{Tr}(\rho_{L_1}\rho_{L_2})|$$
    
-   where $\rho_{L_1}$ and $\rho_{L_2}$ are semantic density matrices of two languages.
+   where $`\rho_{L_1}`$ and $`\rho_{L_2}`$ are semantic density matrices of two languages.
 
 ### Language Quantum Networks
 
@@ -80,19 +80,19 @@ Expression of language as a quantum network:
    
    $$\mathcal{N}_Q = (V, E, \Psi)$$
    
-   where $V$ is the set of nodes (concepts), $E$ is the set of edges (relationships), and $\Psi$ is the state function.
+   where $`V`$ is the set of nodes (concepts), $`E`$ is the set of edges (relationships), and $`\Psi`$ is the state function.
 
 2. **Semantic Gravity**: Conceptual attraction based on semantic similarity
    
    $$F_{ij} = G_s \frac{m_i m_j}{d_{ij}^2}$$
    
-   where $G_s$ is the semantic gravitational constant, $m_i$ is the concept weight, and $d_{ij}$ is the semantic distance.
+   where $`G_s`$ is the semantic gravitational constant, $`m_i`$ is the concept weight, and $`d_{ij}`$ is the semantic distance.
 
 3. **Semantic Field**: Semantic potential field distributed in language space
    
    $$\phi(x) = \sum_i \frac{Q_i}{|x-x_i|}$$
    
-   where $Q_i$ is the semantic charge, and $x_i$ is the concept position.
+   where $`Q_i`$ is the semantic charge, and $`x_i`$ is the concept position.
 
 ## Language Formation Dynamics
 
@@ -104,13 +104,13 @@ The transformation process of linguistic meaning from quantum states to classica
    
    $$P(m_i|c) = \frac{|\langle c|m_i\rangle|^2}{\sum_j |\langle c|m_j\rangle|^2}$$
    
-   where $c$ is the context state, and $m_i$ is a specific meaning.
+   where $`c`$ is the context state, and $`m_i`$ is a specific meaning.
 
 2. **Semantic Wavefunction Collapse**: Meaning determination in the language understanding process
    
    $$|\Psi_{\text{semantic}}\rangle \xrightarrow{\text{understanding}} |m_{i_0}\rangle$$
    
-   where $m_{i_0}$ is the specific meaning that is understood.
+   where $`m_{i_0}`$ is the specific meaning that is understood.
 
 3. **Language Entropy Increase Principle**: Information loss in language communication processes
    
@@ -126,19 +126,19 @@ Formation and evolution mechanisms of language interfaces:
    
    $$\mathcal{I}_L = \{x \in \mathcal{L} | \mathcal{D}_L(x) = \mathcal{D}_c\}$$
    
-   where $\mathcal{D}_L$ is the language decoherence measure, and $\mathcal{D}_c$ is the critical value.
+   where $`\mathcal{D}_L`$ is the language decoherence measure, and $`\mathcal{D}_c`$ is the critical value.
 
 2. **Language Interface Fluctuation**: Dynamic changes in interface position
    
    $$\frac{d\mathcal{D}_L}{dt} = \alpha_L \nabla^2\mathcal{D}_L + \beta_L(\mathcal{D}_L - \mathcal{D}_c)(\mathcal{D}_L - \mathcal{D}_0) + \eta_L(t)$$
    
-   where parameters with subscript $L$ are specific to language systems.
+   where parameters with subscript $`L`$ are specific to language systems.
 
 3. **Multi-Language Interface Interaction**: Coupling between interfaces of different languages
    
    $$\mathcal{H}_{int} = \sum_{i \neq j} J_{ij} \mathcal{I}_i \mathcal{I}_j$$
    
-   where $J_{ij}$ is the coupling coefficient between languages.
+   where $`J_{ij}`$ is the coupling coefficient between languages.
 
 ### Language Observer Networks
 
@@ -148,19 +148,19 @@ Models of language users as observer networks:
    
    $$\rho'_{\text{semantic}} = \sum_i \mathcal{O}_i \rho_{\text{semantic}} \mathcal{O}_i^{\dagger}$$
    
-   where $\mathcal{O}_i$ are observer operators.
+   where $`\mathcal{O}_i`$ are observer operators.
 
 2. **Collective Semantic Consensus**: Formation of semantic consensus in multi-observer networks
    
    $$\rho_{\text{consensus}} = \lim_{t\to\infty} e^{-i\mathcal{H}_{net}t} \rho_0 e^{i\mathcal{H}_{net}t}$$
    
-   where $\mathcal{H}_{net}$ is the network Hamiltonian.
+   where $`\mathcal{H}_{net}`$ is the network Hamiltonian.
 
 3. **Language Observer Dimension**: Dimension distribution of language observers
    
    $$D_{\mathcal{O}}^L = f\left(\frac{\mathcal{C}_{\mathcal{O}}^L}{\mathcal{Q}_{\mathcal{O}}^L}\right) \cdot \frac{I_{linguistic\ knowledge}}{S_{linguistic\ entropy}+\epsilon}$$
    
-   where superscript $L$ indicates language-related parameters.
+   where superscript $`L`$ indicates language-related parameters.
 
 ## Language Evolution Models
 
@@ -172,19 +172,19 @@ Innovation and conservation mechanisms in language systems:
    
    $$\frac{dL}{dt} = \alpha_L I_Q - \beta_L I_C + \gamma_L \xi(t)$$
    
-   where $I_Q$ is quantum linguistic information, and $I_C$ is classical linguistic information.
+   where $`I_Q`$ is quantum linguistic information, and $`I_C`$ is classical linguistic information.
 
 2. **Semantic Drift Model**: Semantic evolution over time
    
    $$|\Psi_{\text{semantic}}(t)\rangle = e^{-i\mathcal{H}_Lt}|\Psi_{\text{semantic}}(0)\rangle$$
    
-   where $\mathcal{H}_L$ is the language evolution Hamiltonian.
+   where $`\mathcal{H}_L`$ is the language evolution Hamiltonian.
 
 3. **Language Bifurcation Model**: Process of language differentiation into different branches
    
    $$P(\text{bifurcation}|t) = 1 - e^{-\lambda_L(I_Q/I_C)t}$$
    
-   where $\lambda_L$ is the bifurcation parameter.
+   where $`\lambda_L`$ is the bifurcation parameter.
 
 ### Synchronic and Diachronic Language States
 
@@ -194,13 +194,13 @@ Quantum representation of synchronic and diachronic relationships in language:
    
    $$|\Phi_L(t_0)\rangle = \sum_i a_i(t_0) |L_i\rangle$$
    
-   where $|L_i\rangle$ are language basis vectors, and $a_i(t_0)$ are coefficients at time $t_0$.
+   where $`|L_i\rangle`$ are language basis vectors, and $`a_i(t_0)`$ are coefficients at time $`t_0`$.
 
 2. **Diachronic Language Function**: Language state evolving over time
    
    $$|\Phi_L(t)\rangle = \hat{U}_L(t, t_0)|\Phi_L(t_0)\rangle$$
    
-   where $\hat{U}_L$ is the language evolution operator.
+   where $`\hat{U}_L`$ is the language evolution operator.
 
 3. **Language Stability Index**: Quantification of language system stability
    
@@ -222,13 +222,13 @@ Quantum interaction models between different language systems:
    
    $$\frac{d|B_{ij}\rangle}{dt} = \kappa_{ij}|\Phi_{L_i}\rangle\langle\Phi_{L_j}|$$
    
-   where $|B_{ij}\rangle$ is the state of borrowed elements, and $\kappa_{ij}$ is the borrowing rate.
+   where $`|B_{ij}\rangle`$ is the state of borrowed elements, and $`\kappa_{ij}`$ is the borrowing rate.
 
 3. **Language Fusion Operator**: Formal representation of language mixing
    
    $$\hat{F}_{ij} = \alpha|\Phi_{L_i}\rangle\langle\Phi_{L_i}| + \beta|\Phi_{L_j}\rangle\langle\Phi_{L_j}| + \gamma(|\Phi_{L_i}\rangle\langle\Phi_{L_j}| + |\Phi_{L_j}\rangle\langle\Phi_{L_i}|)$$
    
-   where $\alpha$, $\beta$, $\gamma$ are fusion parameters.
+   where $`\alpha`$, $`\beta`$, $`\gamma`$ are fusion parameters.
 
 ## Experimental Predictions and Applications
 
@@ -246,7 +246,7 @@ Experimentally verifiable quantum effects in language:
    
    $$\langle A B \rangle \neq \langle B A \rangle$$
    
-   where $A$ and $B$ are context operators.
+   where $`A`$ and $`B`$ are context operators.
 
 3. **Language Bell Inequality**: Non-locality of language associations
    
@@ -268,13 +268,13 @@ Practical applications based on the theory:
    
    $$|T_{\text{generated}}\rangle = \hat{G}_Q |\Psi_{\text{semantic}}\rangle$$
    
-   where $\hat{G}_Q$ is the quantum generation operator.
+   where $`\hat{G}_Q`$ is the quantum generation operator.
 
 3. **Quantum Translation Model**: Language translation in a quantum framework
    
    $$|T_{L_2}\rangle = \hat{T}_{L_1\to L_2}|T_{L_1}\rangle$$
    
-   where $\hat{T}_{L_1\to L_2}$ is the translation operator.
+   where $`\hat{T}_{L_1\to L_2}`$ is the translation operator.
 
 ### Language Education and Social Applications
 
@@ -284,13 +284,13 @@ Applications of the theory in education and society:
    
    $$|\Psi_{\text{learning}}(t)\rangle = e^{-i\mathcal{H}_{\text{learning}}t}|\Psi_{\text{learning}}(0)\rangle$$
    
-   where $\mathcal{H}_{\text{learning}}$ is the learning Hamiltonian.
+   where $`\mathcal{H}_{\text{learning}}`$ is the learning Hamiltonian.
 
 2. **Quantum Models for Language Planning**: Quantum analysis of language policy and planning
    
    $$\rho_{L,\text{planned}} = \mathcal{E}(\rho_{L,\text{natural}})$$
    
-   where $\mathcal{E}$ is the planning super-operator.
+   where $`\mathcal{E}`$ is the planning super-operator.
 
 3. **Quantum Framework for Cross-Cultural Communication**: Quantum description of cross-cultural communication
    

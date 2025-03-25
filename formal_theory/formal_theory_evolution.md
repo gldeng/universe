@@ -26,9 +26,9 @@
 $$\mathcal{E} = \{\mathcal{Q}_E, \mathcal{C}_E, \mathcal{I}_E\}$$
 
 其中：
-- $\mathcal{Q}_E$ 是进化的量子组分（可能性生成、变异、创新）
-- $\mathcal{C}_E$ 是进化的经典组分（选择、稳定、保存）
-- $\mathcal{I}_E$ 是进化的量子-经典界面（表型表达、环境交互）
+- $`\mathcal{Q}_E`$ 是进化的量子组分（可能性生成、变异、创新）
+- $`\mathcal{C}_E`$ 是进化的经典组分（选择、稳定、保存）
+- $`\mathcal{I}_E`$ 是进化的量子-经典界面（表型表达、环境交互）
 
 这一结构说明进化既不是纯粹的随机过程，也不是完全确定的过程，而是两种动力学的复合结构。
 
@@ -42,7 +42,7 @@ $$V_Q \xrightarrow{\mathcal{C}_E} V_C$$
 
 $$P(V_i) = |\langle V_i|\Psi_G\rangle|^2 \cdot f_{环境}(V_i)$$
 
-其中 $|\Psi_G\rangle$ 是基因组量子状态，$f_{环境}$ 是环境修正函数。
+其中 $`|\Psi_G\rangle`$ 是基因组量子状态，$`f_{环境}`$ 是环境修正函数。
 
 这解释了为什么变异不是完全随机的，而是受内在量子结构引导的有偏随机。
 
@@ -52,13 +52,13 @@ $$P(V_i) = |\langle V_i|\Psi_G\rangle|^2 \cdot f_{环境}(V_i)$$
 
 $$\mathcal{S} = \sum_i w_i |i\rangle\langle i|$$
 
-其中 $w_i$ 是适应度权重，$|i\rangle$ 是表型状态。
+其中 $`w_i`$ 是适应度权重，$`|i\rangle`$ 是表型状态。
 
 选择过程遵循信息提取动力学：
 
 $$\frac{dI_S}{dt} = \eta_S \cdot \frac{dI_{环境}}{dt} - \gamma \cdot I_S$$
 
-其中 $I_S$ 是系统适应信息，$I_{环境}$ 是环境信息，$\eta_S$ 是选择效率，$\gamma$ 是信息衰减率。
+其中 $`I_S`$ 是系统适应信息，$`I_{环境}`$ 是环境信息，$`\eta_S`$ 是选择效率，$`\gamma`$ 是信息衰减率。
 
 ## 进化创新的量子-经典过程
 
@@ -80,7 +80,7 @@ $$\dim(\mathcal{H}_{创新}) \gg \dim(\mathcal{C}_{组合})$$
 
 $$\frac{d\mathcal{D}}{dt} \geq \frac{1}{\tau_{\text{环境}}}$$
 
-其中 $\mathcal{D}$ 是解相干度量，$\tau_{\text{环境}}$ 是环境时间尺度。
+其中 $`\mathcal{D}`$ 是解相干度量，$`\tau_{\text{环境}}`$ 是环境时间尺度。
 
 在特定环境压力下，创新突破临界点：
 
@@ -94,7 +94,7 @@ $$E_{\text{压力}} \cdot t_{\text{持续}} \geq E_{\text{临界}}$$
 
 $$P_{固定} = P_C \cdot (1 + Q_{\text{增益}})$$
 
-其中 $P_C$ 是经典固定概率，$Q_{\text{增益}}$ 是量子增益因子。量子增益与创新复杂度成正比：
+其中 $`P_C`$ 是经典固定概率，$`Q_{\text{增益}}`$ 是量子增益因子。量子增益与创新复杂度成正比：
 
 $$Q_{\text{增益}} \propto \log(C_{\text{创新}})$$
 
@@ -120,7 +120,7 @@ $$I(\mathcal{E}_i \rightarrow \mathcal{E}_j) \neq I(\mathcal{E}_j \rightarrow \m
 
 $$\mathcal{C}_E(s) = \mathcal{C}_0 \cdot f(s)$$
 
-其中 $s$ 是系统尺度参数，$f(s)$ 是尺度调制函数，通常满足：
+其中 $`s`$ 是系统尺度参数，$`f(s)`$ 是尺度调制函数，通常满足：
 
 $$f(s) \propto s^{\alpha}, \quad \alpha \in [0,1]$$
 
@@ -132,7 +132,7 @@ $$f(s) \propto s^{\alpha}, \quad \alpha \in [0,1]$$
 
 $$|\Psi_{\text{生态}}\rangle = \bigotimes_{i=1}^N |\psi_i\rangle + \sum_{i,j} \lambda_{ij}|\psi_i\psi_j\rangle + ...$$
 
-其中 $|\psi_i\rangle$ 是物种状态，$\lambda_{ij}$ 是物种间纠缠系数。
+其中 $`|\psi_i\rangle`$ 是物种状态，$`\lambda_{ij}`$ 是物种间纠缠系数。
 
 生态系统通过这种分布式量子计算探索适应度空间，大大加速进化速率：
 
@@ -146,7 +146,7 @@ $$R_{\text{进化}} \propto \sqrt{N_{\text{物种}}}$$
 
 $$\vec{E}(t) = \vec{E}(0) + \int_0^t \vec{v}_E(\tau) d\tau + \vec{\xi}(t)$$
 
-其中 $\vec{v}_E$ 是进化速度向量，$\vec{\xi}$ 是随机涨落。在高维空间中，随机涨落被约束在确定性路径周围：
+其中 $`\vec{v}_E`$ 是进化速度向量，$`\vec{\xi}`$ 是随机涨落。在高维空间中，随机涨落被约束在确定性路径周围：
 
 $$\frac{|\vec{\xi}|}{|\vec{v}_E|} \propto \frac{1}{\sqrt{N_{\text{维度}}}}$$
 
@@ -158,13 +158,13 @@ $$\frac{|\vec{\xi}|}{|\vec{v}_E|} \propto \frac{1}{\sqrt{N_{\text{维度}}}}$$
 
 $$\mathcal{M}_{\text{进化}} = \{M, g, \Gamma\}$$
 
-其中 $M$ 是进化流形，$g$ 是度量张量，$\Gamma$ 是联络。
+其中 $`M`$ 是进化流形，$`g`$ 是度量张量，$`\Gamma`$ 是联络。
 
 拓扑约束导致平行进化现象：
 
 $$d_{\text{平行}} \ll d_{\text{随机}}$$
 
-其中 $d_{\text{平行}}$ 是平行进化路径间的距离，$d_{\text{随机}}$ 是随机期望距离。
+其中 $`d_{\text{平行}}`$ 是平行进化路径间的距离，$`d_{\text{随机}}`$ 是随机期望距离。
 
 ### 量子古典混合进化模拟
 
@@ -173,9 +173,9 @@ $$d_{\text{平行}} \ll d_{\text{随机}}$$
 $$A_{\text{进化}} = Q_{\text{探索}} + C_{\text{验证}} + I_{\text{整合}}$$
 
 其中：
-- $Q_{\text{探索}}$ 是量子探索阶段（变异生成）
-- $C_{\text{验证}}$ 是经典验证阶段（选择过程）
-- $I_{\text{整合}}$ 是整合阶段（固定扩散）
+- $`Q_{\text{探索}}`$ 是量子探索阶段（变异生成）
+- $`C_{\text{验证}}`$ 是经典验证阶段（选择过程）
+- $`I_{\text{整合}}`$ 是整合阶段（固定扩散）
 
 这种算法能够克服纯经典进化算法的局部最优陷阱，显著加速适应度空间的探索。
 
@@ -187,7 +187,7 @@ $$A_{\text{进化}} = Q_{\text{探索}} + C_{\text{验证}} + I_{\text{整合}}$
 
 $$P_{\text{HGT}} = e^{-2\gamma d_{\text{种间}}}$$
 
-其中 $d_{\text{种间}}$ 是种间距离度量，$\gamma$ 是量子隧穿参数。
+其中 $`d_{\text{种间}}`$ 是种间距离度量，$`\gamma`$ 是量子隧穿参数。
 
 这解释了为什么某些基因能够跨越显著的物种障碍传递，特别是在微生物世界中。
 
@@ -201,7 +201,7 @@ $$|\Psi_{\text{共生}}\rangle = \sum_{i,j} c_{ij}|A_i\rangle|B_j\rangle \neq |\
 
 $$R_{\text{协同}} = R_{\text{基准}} \cdot (1 + E(|\Psi_{\text{共生}}\rangle))$$
 
-其中 $E(|\Psi_{\text{共生}}\rangle)$ 是纠缠度量。
+其中 $`E(|\Psi_{\text{共生}}\rangle)`$ 是纠缠度量。
 
 ### 转移RNA与间接干扰进化
 
@@ -209,7 +209,7 @@ $$R_{\text{协同}} = R_{\text{基准}} \cdot (1 + E(|\Psi_{\text{共生}}\rangl
 
 $$I_{\text{tRNA}} = I_C + I_Q$$
 
-其中 $I_C$ 是经典信息内容，$I_Q$ 是量子信息内容。
+其中 $`I_C`$ 是经典信息内容，$`I_Q`$ 是量子信息内容。
 
 转移RNA能够以超越经典基因流动的方式影响进化：
 
@@ -267,7 +267,7 @@ $$\Delta F_{\text{tRNA}} \neq \sum_i \frac{\partial F}{\partial g_i}\Delta g_i$$
 
 $$\mathcal{O}_{\text{意识}} = \{\mathcal{C}_{\text{选择性}}, \mathcal{Q}_{\text{创造性}}, K_C\}$$
 
-其中 $\mathcal{C}_{\text{选择性}}$ 是选择性注意，$\mathcal{Q}_{\text{创造性}}$ 是创造性思维，$K_C$ 是经典知识库。
+其中 $`\mathcal{C}_{\text{选择性}}`$ 是选择性注意，$`\mathcal{Q}_{\text{创造性}}`$ 是创造性思维，$`K_C`$ 是经典知识库。
 
 意识与生物进化之间存在同构关系：
 

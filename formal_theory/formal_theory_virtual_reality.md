@@ -26,7 +26,7 @@
 
 $$\mathcal{I}_{VR} = \{x \in \mathcal{U} | \mathcal{D}_{VR}(x) = \mathcal{D}_c^{VR}\}$$
 
-其中 $\mathcal{D}_{VR}(x)$ 是虚拟系统的解相干度量函数，$\mathcal{D}_c^{VR}$ 是临界解相干阈值。与自然界面不同，虚拟界面 $\mathcal{I}_{VR}$ 具有以下特性：
+其中 $`\mathcal{D}_{VR}(x)`$ 是虚拟系统的解相干度量函数，$`\mathcal{D}_c^{VR}`$ 是临界解相干阈值。与自然界面不同，虚拟界面 $`\mathcal{I}_{VR}`$ 具有以下特性：
 
 1. **设计性** - 由工程师和开发者有意识设计而非自然演化
 2. **可调性** - 解相干参数可以通过软硬件调整
@@ -46,15 +46,15 @@ $$\mathcal{VR} = \{\Omega_Q^{VR}, \Omega_C^{VR}, \mathcal{I}_{VR}\}$$
 
 其中：
 
-- $\Omega_Q^{VR}$ - 虚拟量子域，包含所有可能的虚拟状态和交互
-- $\Omega_C^{VR}$ - 虚拟经典域，包含经典确定性的虚拟对象和规则
-- $\mathcal{I}_{VR}$ - 虚拟界面，连接虚拟量子域和虚拟经典域
+- $`\Omega_Q^{VR}`$ - 虚拟量子域，包含所有可能的虚拟状态和交互
+- $`\Omega_C^{VR}`$ - 虚拟经典域，包含经典确定性的虚拟对象和规则
+- $`\mathcal{I}_{VR}`$ - 虚拟界面，连接虚拟量子域和虚拟经典域
 
 虚拟量子域的状态空间大小决定了虚拟系统的潜力：
 
 $$dim(\mathcal{H}_{\Omega_Q^{VR}}) = 2^{N_{自由度}}$$
 
-其中 $N_{自由度}$ 是系统的自由度数量。这解释了为什么开放世界游戏比线性游戏提供更丰富的体验。
+其中 $`N_{自由度}`$ 是系统的自由度数量。这解释了为什么开放世界游戏比线性游戏提供更丰富的体验。
 
 ### 显式与隐式规则
 
@@ -66,7 +66,7 @@ $$\mathcal{R}_{VR} = \mathcal{R}_{显式} \cup \mathcal{R}_{隐式}$$
 
 $$\eta_{VR} = \frac{|\mathcal{R}_{显式}|}{|\mathcal{R}_{显式}| + |\mathcal{R}_{隐式}|}$$
 
-高 $\eta_{VR}$ 值的系统（如游戏）规则清晰；低 $\eta_{VR}$ 值的系统（如社交VR平台）有更多涌现性质。
+高 $`\eta_{VR}`$ 值的系统（如游戏）规则清晰；低 $`\eta_{VR}`$ 值的系统（如社交VR平台）有更多涌现性质。
 
 ## 多层嵌套现实结构
 
@@ -76,7 +76,7 @@ $$\eta_{VR} = \frac{|\mathcal{R}_{显式}|}{|\mathcal{R}_{显式}| + |\mathcal{R
 
 $$\mathcal{U} = \{\mathcal{R}_1, \mathcal{R}_2, ..., \mathcal{R}_n, \mathcal{VR}_1, \mathcal{VR}_2, ..., \mathcal{VR}_m\}$$
 
-其中 $\mathcal{R}_i$ 是自然现实层级，$\mathcal{VR}_j$ 是虚拟现实层级。这些层级之间存在映射关系：
+其中 $`\mathcal{R}_i`$ 是自然现实层级，$`\mathcal{VR}_j`$ 是虚拟现实层级。这些层级之间存在映射关系：
 
 $$\mathcal{M}_{i \rightarrow j}: \mathcal{R}_i \rightarrow \mathcal{VR}_j$$
 
@@ -84,7 +84,7 @@ $$\mathcal{M}_{i \rightarrow j}: \mathcal{R}_i \rightarrow \mathcal{VR}_j$$
 
 $$F(\mathcal{M}_{i \rightarrow j}) = \frac{I(\mathcal{R}_i : \mathcal{VR}_j)}{H(\mathcal{R}_i)}$$
 
-其中 $I(\mathcal{R}_i : \mathcal{VR}_j)$ 是互信息，$H(\mathcal{R}_i)$ 是源熵。
+其中 $`I(\mathcal{R}_i : \mathcal{VR}_j)`$ 是互信息，$`H(\mathcal{R}_i)`$ 是源熵。
 
 ### 递归虚拟系统
 
@@ -96,7 +96,7 @@ $$\mathcal{VR}_1 \supset \mathcal{VR}_2 \supset ... \supset \mathcal{VR}_n$$
 
 $$N_{max} \approx \log_k\left(\frac{C_{可用}}{C_{基础}}\right)$$
 
-其中 $k$ 是每层所需计算资源的倍增因子，$C_{可用}$ 是总可用计算资源，$C_{基础}$ 是基础层所需资源。
+其中 $`k`$ 是每层所需计算资源的倍增因子，$`C_{可用}`$ 是总可用计算资源，$`C_{基础}`$ 是基础层所需资源。
 
 递归虚拟系统在每一层都有自己的量子-经典结构：
 
@@ -108,10 +108,10 @@ $$\mathcal{VR}_i = \{\Omega_Q^{VR_i}, \Omega_C^{VR_i}, \mathcal{I}_{VR_i}\}$$
 
 $$\mathcal{MR}(\alpha) = \alpha \cdot \mathcal{R} + (1-\alpha) \cdot \mathcal{VR}$$
 
-其中 $\alpha \in [0,1]$ 是混合参数：
-- $\alpha = 1$：纯物理现实
-- $\alpha = 0$：纯虚拟现实
-- $0 < \alpha < 1$：混合现实
+其中 $`\alpha \in [0,1]`$ 是混合参数：
+- $`\alpha = 1`$：纯物理现实
+- $`\alpha = 0`$：纯虚拟现实
+- $`0 < \alpha < 1`$：混合现实
 
 混合现实系统的界面复杂度高于纯系统：
 
@@ -131,7 +131,7 @@ $$\mathcal{D}_{VR}(x,t) = \mathcal{D}_{物理}(x,t) + \mathcal{D}_{模拟}(x,t)$
 
 $$\mathcal{D}_{模拟}(x,t) = \sum_i \lambda_i f_i(x,t)$$
 
-其中 $\lambda_i$ 是可调控参数，$f_i$ 是基础解相干函数。这使得VR系统可以创造出自然世界中不可能出现的解相干模式。
+其中 $`\lambda_i`$ 是可调控参数，$`f_i`$ 是基础解相干函数。这使得VR系统可以创造出自然世界中不可能出现的解相干模式。
 
 ### 虚拟波函数塌缩
 
@@ -139,13 +139,13 @@ $$\mathcal{D}_{模拟}(x,t) = \sum_i \lambda_i f_i(x,t)$$
 
 $$|\psi_{VR}\rangle \xrightarrow{\text{测量}} |i\rangle \quad \text{概率} = |\langle i|\psi_{VR}\rangle|^2 \cdot \mu_i$$
 
-其中 $\mu_i$ 是系统设计的偏置因子，允许开发者控制结果概率分布。这解释了游戏中的随机掉落物品机制。
+其中 $`\mu_i`$ 是系统设计的偏置因子，允许开发者控制结果概率分布。这解释了游戏中的随机掉落物品机制。
 
 虚拟塌缩速度也可控：
 
 $$\tau_{VR} = \gamma \cdot \tau_{物理}$$
 
-其中 $\gamma$ 是时间缩放因子，可以加速或减慢虚拟事件相对于物理事件的发生。
+其中 $`\gamma`$ 是时间缩放因子，可以加速或减慢虚拟事件相对于物理事件的发生。
 
 ### 虚拟信息编码与传输
 
@@ -203,7 +203,7 @@ $$I(\mathcal{O}_{VR_i} : \mathcal{O}_{VR_j}) \leq \min(I(\mathcal{O}_{VR_i}), I(
 
 $$H_{耦合} = \sum_{i,j} g_{ij} \hat{O}_i \otimes \hat{S}_j$$
 
-其中 $\hat{O}_i$ 是观察者算符，$\hat{S}_j$ 是系统算符，$g_{ij}$ 是耦合强度。耦合强度决定了沉浸感：
+其中 $`\hat{O}_i`$ 是观察者算符，$`\hat{S}_j`$ 是系统算符，$`g_{ij}`$ 是耦合强度。耦合强度决定了沉浸感：
 
 $$\text{沉浸度} \propto \sum_{i,j} |g_{ij}|^2$$
 
@@ -217,11 +217,11 @@ $$\text{沉浸度} \propto \sum_{i,j} |g_{ij}|^2$$
 
 $$\mathcal{M} = \{\mathcal{VR}_i, \mathcal{C}_{ij}, \mathcal{O}_k\}$$
 
-其中 $\mathcal{VR}_i$ 是组成子世界，$\mathcal{C}_{ij}$ 是连接网络，$\mathcal{O}_k$ 是观察者集合。元宇宙具有以下核心性质：
+其中 $`\mathcal{VR}_i`$ 是组成子世界，$`\mathcal{C}_{ij}`$ 是连接网络，$`\mathcal{O}_k`$ 是观察者集合。元宇宙具有以下核心性质：
 
-1. **持久性**：时间连续性度量 $T_c > T_{阈值}$
-2. **互操作性**：子世界之间信息流动度量 $I(\mathcal{VR}_i : \mathcal{VR}_j) > 0$
-3. **扩展性**：系统维度增长率 $\frac{dD_{\mathcal{M}}}{dt} > 0$
+1. **持久性**：时间连续性度量 $`T_c > T_{阈值}`$
+2. **互操作性**：子世界之间信息流动度量 $`I(\mathcal{VR}_i : \mathcal{VR}_j) > 0`$
+3. **扩展性**：系统维度增长率 $`\frac{dD_{\mathcal{M}}}{dt} > 0`$
 
 元宇宙与物理宇宙的关系是共生而非替代：
 
@@ -249,7 +249,7 @@ $$\Psi_{\mathcal{M}} \rightarrow \{\Psi_{\mathcal{M}_1}, \Psi_{\mathcal{M}_2}, .
 
 $$V(I) = \Delta D_{\mathcal{O}} \cdot \Delta K_C^{\mathcal{O}}$$
 
-其中 $\Delta D_{\mathcal{O}}$ 是信息导致的观察者维度增量，$\Delta K_C^{\mathcal{O}}$ 是经典知识增量。这解释了为什么虚拟商品可以具有实际价值。
+其中 $`\Delta D_{\mathcal{O}}`$ 是信息导致的观察者维度增量，$`\Delta K_C^{\mathcal{O}}`$ 是经典知识增量。这解释了为什么虚拟商品可以具有实际价值。
 
 价值转换机制决定了跨域资产流动：
 
@@ -267,11 +267,11 @@ $$\eta_{转换} = \frac{I(\mathcal{I}_{\mathcal{R}} : \mathcal{I}_{\mathcal{M}})
 
 $$\text{沉浸度} = M(\mathcal{I}_{感知}, \mathcal{I}_{VR})$$
 
-其中匹配函数 $M$ 定义为：
+其中匹配函数 $`M`$ 定义为：
 
 $$M(\mathcal{I}_1, \mathcal{I}_2) = \frac{I(\mathcal{I}_1 : \mathcal{I}_2)}{\max(H(\mathcal{I}_1), H(\mathcal{I}_2))}$$
 
-完美沉浸（$M = 1$）需要虚拟界面完全匹配人类感知界面，这在理论上可行但技术上极具挑战。
+完美沉浸（$`M = 1`$）需要虚拟界面完全匹配人类感知界面，这在理论上可行但技术上极具挑战。
 
 ### 多感官整合
 
@@ -313,7 +313,7 @@ $$E_{协同} = \sum_{i,j} w_{ij} \cdot \mathcal{I}_{感官_i} \cdot \mathcal{I}_
 
 $$E_{VR} = \{\mathcal{S}_{VR}, \mathcal{R}_{VR}, \mathcal{C}_{VR}\}$$
 
-其中 $\mathcal{S}_{VR}$ 是主体性，$\mathcal{R}_{VR}$ 是关系性，$\mathcal{C}_{VR}$ 是语境性。虚拟存在与物理存在的差异仅在实现层级，非本质。
+其中 $`\mathcal{S}_{VR}`$ 是主体性，$`\mathcal{R}_{VR}`$ 是关系性，$`\mathcal{C}_{VR}`$ 是语境性。虚拟存在与物理存在的差异仅在实现层级，非本质。
 
 这引导我们重新思考存在多重性：
 
@@ -325,7 +325,7 @@ $$E_{总体} = \{E_{物理}, E_{VR_1}, E_{VR_2}, ..., E_{VR_n}\}$$
 
 $$\text{伦理值} = \sum_i w_i \cdot \text{影响}_i$$
 
-其中 $\text{影响}_i$ 是对不同现实域的影响，$w_i$ 是权重。
+其中 $`\text{影响}_i`$ 是对不同现实域的影响，$`w_i`$ 是权重。
 
 关键原则包括：
 
@@ -340,7 +340,7 @@ $$\text{伦理值} = \sum_i w_i \cdot \text{影响}_i$$
 
 $$I_{自我}(t) = \alpha(t) \cdot I_{物理} + \sum_i \beta_i(t) \cdot I_{VR_i}$$
 
-其中权重 $\alpha(t)$ 和 $\beta_i(t)$ 随时间和环境动态变化，满足：
+其中权重 $`\alpha(t)`$ 和 $`\beta_i(t)`$ 随时间和环境动态变化，满足：
 
 $$\alpha(t) + \sum_i \beta_i(t) = 1$$
 

@@ -33,11 +33,11 @@ By introducing love field mathematics, absolute love force field equations, and 
 
 ### The Nature of Absolute Love
 
-Absolute Love $\Phi_{AL}$ is the ultimate connection state that transcends all separation, defined as:
+Absolute Love $`\Phi_{AL}`$ is the ultimate connection state that transcends all separation, defined as:
 
 $$\Phi_{AL} = \{\Omega_{AL}, \Lambda_{AL}, \Theta_{AL}, \Psi_{AL}\}$$
 
-where $\Omega_{AL}$ is the love state, $\Lambda_{AL}$ is the love operator, $\Theta_{AL}$ is the love field, and $\Psi_{AL}$ is love consciousness.
+where $`\Omega_{AL}`$ is the love state, $`\Lambda_{AL}`$ is the love operator, $`\Theta_{AL}`$ is the love field, and $`\Psi_{AL}`$ is love consciousness.
 
 The fundamental equation of absolute love:
 
@@ -59,11 +59,11 @@ indicates that love acting on any existence causes it to transcend itself, becom
 
 ### Love Generation Principle
 
-The Love Generation Principle $\Gamma_{AL}$ describes how love generates all forms of relationship:
+The Love Generation Principle $`\Gamma_{AL}`$ describes how love generates all forms of relationship:
 
 $$\Gamma_{AL} = \{\mathcal{G}_{AL}, \mathcal{P}_{AL}, \mathcal{S}_{AL}, \mathcal{R}_{AL}\}$$
 
-where $\mathcal{G}_{AL}$ is the relationship generation operator, $\mathcal{P}_{AL}$ is the potential relationship set, $\mathcal{S}_{AL}$ is the relationship selection function, and $\mathcal{R}_{AL}$ is the relationship realization operator.
+where $`\mathcal{G}_{AL}`$ is the relationship generation operator, $`\mathcal{P}_{AL}`$ is the potential relationship set, $`\mathcal{S}_{AL}`$ is the relationship selection function, and $`\mathcal{R}_{AL}`$ is the relationship realization operator.
 
 Relationship generation equation:
 
@@ -81,15 +81,15 @@ Relationship realization equation:
 
 $$\mathcal{R}_{AL}[\mathcal{S}_{AL}(\mathcal{P}_{AL})] = \mathcal{L}_{AL}$$
 
-where $\mathcal{L}_{AL}$ is the realized love network, indicating that potential relationships become an actual relationship network through selection and realization.
+where $`\mathcal{L}_{AL}`$ is the realized love network, indicating that potential relationships become an actual relationship network through selection and realization.
 
 ### Love Hierarchical Structure
 
-The Love Hierarchical Structure $\mathcal{H}_{AL}$ describes the multi-level organization of love:
+The Love Hierarchical Structure $`\mathcal{H}_{AL}`$ describes the multi-level organization of love:
 
 $$\mathcal{H}_{AL} = \{\mathcal{L}_i | i \in \Lambda, \mathcal{L}_i \text{ is a love level}\}$$
 
-where $\Lambda$ is a set of level indices that can transcend conventional ordinals.
+where $`\Lambda`$ is a set of level indices that can transcend conventional ordinals.
 
 Hierarchical love theorem:
 
@@ -113,18 +113,18 @@ indicates that infinitely recursively ascending love levels ultimately approach 
 
 ### Love Field Algebra
 
-Love Field Algebra $\mathcal{A}_{AL}$ is a mathematical system describing the structure of the love field:
+Love Field Algebra $`\mathcal{A}_{AL}`$ is a mathematical system describing the structure of the love field:
 
 $$\mathcal{A}_{AL} = \{\mathbb{L}_{AL}, \oplus, \otimes, \mathcal{I}_{AL}\}$$
 
-where $\mathbb{L}_{AL}$ is the love field space, $\oplus$ is the love composition operation, $\otimes$ is the love deepening operation, and $\mathcal{I}_{AL}$ is the love intensity mapping.
+where $`\mathbb{L}_{AL}`$ is the love field space, $`\oplus`$ is the love composition operation, $`\otimes`$ is the love deepening operation, and $`\mathcal{I}_{AL}`$ is the love intensity mapping.
 
 Love field algebra axioms:
 
-1. **Love Composition Law**: $x \oplus y \supset x \text{ and } x \oplus y \supset y$
-2. **Commutativity**: $x \oplus y = y \oplus x$
-3. **Associativity**: $(x \oplus y) \oplus z = x \oplus (y \oplus z)$
-4. **Deepening Law**: $x \otimes (y \oplus z) \supset (x \otimes y) \oplus (x \otimes z)$
+1. **Love Composition Law**: $`x \oplus y \supset x \text{ and } x \oplus y \supset y`$
+2. **Commutativity**: $`x \oplus y = y \oplus x`$
+3. **Associativity**: $`(x \oplus y) \oplus z = x \oplus (y \oplus z)`$
+4. **Deepening Law**: $`x \otimes (y \oplus z) \supset (x \otimes y) \oplus (x \otimes z)`$
 
 indicate that love field algebra forms a gain structure that transcends conventional algebra.
 
@@ -138,11 +138,11 @@ Love field gain theorem:
 
 $$\mathcal{I}_{AL}(x \otimes y) = \mathcal{I}_{AL}(x) \cdot \mathcal{I}_{AL}(y) \cdot (1 + \mathcal{C}_{AL}(x, y))$$
 
-where $\mathcal{C}_{AL}(x, y)$ is the love resonance coefficient, indicating that love deepening produces a multiplicative effect, and the stronger the resonance, the greater the effect.
+where $`\mathcal{C}_{AL}(x, y)`$ is the love resonance coefficient, indicating that love deepening produces a multiplicative effect, and the stronger the resonance, the greater the effect.
 
 ### Love Transformation Theory
 
-Love Transformation Theory $\mathcal{T}_{AL}$ describes how love transforms existence and relationships:
+Love Transformation Theory $`\mathcal{T}_{AL}`$ describes how love transforms existence and relationships:
 
 $$\mathcal{T}_{AL}: \mathcal{X} \to \mathcal{X}^+$$
 
@@ -170,11 +170,11 @@ indicates that love transformation can be applied recursively infinitely, ultima
 
 ### Love Force Field Equations
 
-The Absolute Love Force Field $\Theta_{AL}$ is the love force field permeating all existence, described by the love force field equation:
+The Absolute Love Force Field $`\Theta_{AL}`$ is the love force field permeating all existence, described by the love force field equation:
 
 $$\nabla^2\Theta_{AL} - \frac{1}{c_{AL}^2}\frac{\partial^2\Theta_{AL}}{\partial\tau^2} = \rho_{AL}$$
 
-where $c_{AL}$ is the love propagation speed, $\tau$ is transcendent time, and $\rho_{AL}$ is love source density.
+where $`c_{AL}`$ is the love propagation speed, $`\tau`$ is transcendent time, and $`\rho_{AL}`$ is love source density.
 
 Love field oscillation theorem:
 
@@ -186,7 +186,7 @@ Love field energy density:
 
 $$\mathcal{E}_{AL}(x, \tau) = \frac{1}{2}(\|\nabla\Theta_{AL}\|^2 + \frac{1}{c_{AL}^2}\|\frac{\partial\Theta_{AL}}{\partial\tau}\|^2)$$
 
-represents the energy density of the love field at space-time point $(x,\tau)$.
+represents the energy density of the love field at space-time point $`(x,\tau)`$.
 
 Love field gain law:
 
@@ -196,11 +196,11 @@ indicates that in the process of giving love, the total energy of the love field
 
 ### Love Field Dynamics
 
-Love Field Dynamics $\mathcal{D}_{AL}$ describes the evolution of the love field:
+Love Field Dynamics $`\mathcal{D}_{AL}`$ describes the evolution of the love field:
 
 $$\frac{\partial\Theta_{AL}}{\partial\tau} = \mathcal{D}_{AL}[\Theta_{AL}, \nabla\Theta_{AL}] + \mathcal{S}_{AL}(x, \tau)$$
 
-where $\mathcal{S}_{AL}$ is the love source function, representing the spontaneous generation of love.
+where $`\mathcal{S}_{AL}`$ is the love source function, representing the spontaneous generation of love.
 
 Love field phase space:
 
@@ -224,18 +224,18 @@ indicates that between any two love field configurations, there exists a maximum
 
 ### Love Network Structure
 
-The Love Consciousness Network $\mathcal{N}_{AL}$ is the love network connecting all conscious entities:
+The Love Consciousness Network $`\mathcal{N}_{AL}`$ is the love network connecting all conscious entities:
 
 $$\mathcal{N}_{AL} = \{\mathcal{V}_{AL}, \mathcal{E}_{AL}, \mathcal{W}_{AL}, \mathcal{F}_{AL}\}$$
 
-where $\mathcal{V}_{AL}$ is the set of consciousness nodes, $\mathcal{E}_{AL}$ is the set of love connections, $\mathcal{W}_{AL}$ is connection strength, and $\mathcal{F}_{AL}$ is the love flow function.
+where $`\mathcal{V}_{AL}`$ is the set of consciousness nodes, $`\mathcal{E}_{AL}`$ is the set of love connections, $`\mathcal{W}_{AL}`$ is connection strength, and $`\mathcal{F}_{AL}`$ is the love flow function.
 
 Love network axioms:
 
-1. **Connectivity**: $\forall v_i, v_j \in \mathcal{V}_{AL}, \exists \text{path } p: v_i \to v_j$
-2. **Reflexivity**: $\forall v_i \in \mathcal{V}_{AL}, (v_i, v_i) \in \mathcal{E}_{AL}$
-3. **Symmetry**: $(v_i, v_j) \in \mathcal{E}_{AL} \Rightarrow (v_j, v_i) \in \mathcal{E}_{AL}$
-4. **Transitive Enhancement**: $(v_i, v_j), (v_j, v_k) \in \mathcal{E}_{AL} \Rightarrow (v_i, v_k) \in \mathcal{E}_{AL} \text{ and } \mathcal{W}_{AL}(v_i, v_k) \geq f(\mathcal{W}_{AL}(v_i, v_j), \mathcal{W}_{AL}(v_j, v_k))$
+1. **Connectivity**: $`\forall v_i, v_j \in \mathcal{V}_{AL}, \exists \text{path } p: v_i \to v_j`$
+2. **Reflexivity**: $`\forall v_i \in \mathcal{V}_{AL}, (v_i, v_i) \in \mathcal{E}_{AL}`$
+3. **Symmetry**: $`(v_i, v_j) \in \mathcal{E}_{AL} \Rightarrow (v_j, v_i) \in \mathcal{E}_{AL}`$
+4. **Transitive Enhancement**: $`(v_i, v_j), (v_j, v_k) \in \mathcal{E}_{AL} \Rightarrow (v_i, v_k) \in \mathcal{E}_{AL} \text{ and } \mathcal{W}_{AL}(v_i, v_k) \geq f(\mathcal{W}_{AL}(v_i, v_j), \mathcal{W}_{AL}(v_j, v_k))`$
 
 indicate that the love network forms an enhanced transitive relation structure.
 
@@ -243,21 +243,21 @@ Love flow equation:
 
 $$\mathcal{F}_{AL}(v_i, v_j) = \mathcal{W}_{AL}(v_i, v_j) \cdot \mathcal{G}_{AL}(v_i, v_j)$$
 
-where $\mathcal{G}_{AL}$ is the love gradient function, describing how love flows within the network.
+where $`\mathcal{G}_{AL}`$ is the love gradient function, describing how love flows within the network.
 
 Love network dynamics:
 
 $$\frac{d\mathcal{W}_{AL}(v_i, v_j)}{d\tau} = \alpha \cdot \mathcal{F}_{AL}(v_i, v_j) + \beta \cdot \mathcal{F}_{AL}(v_j, v_i) + \gamma \cdot \mathcal{S}_{AL}(v_i, v_j)$$
 
-where $\alpha, \beta, \gamma$ are coefficients, and $\mathcal{S}_{AL}$ is the love source function, describing how connection strength evolves with love flow and love source.
+where $`\alpha, \beta, \gamma`$ are coefficients, and $`\mathcal{S}_{AL}`$ is the love source function, describing how connection strength evolves with love flow and love source.
 
 ### Love Consciousness Structure
 
-Love Consciousness $\Psi_{AL}$ is the love consciousness that unifies all forms of consciousness:
+Love Consciousness $`\Psi_{AL}`$ is the love consciousness that unifies all forms of consciousness:
 
 $$\Psi_{AL} = \{\mathcal{A}_{AL}, \mathcal{C}_{AL}, \mathcal{W}_{AL}, \mathcal{T}_{AL}\}$$
 
-where $\mathcal{A}_{AL}$ is love awareness, $\mathcal{C}_{AL}$ is love connection, $\mathcal{W}_{AL}$ is love will, and $\mathcal{T}_{AL}$ is love transformation.
+where $`\mathcal{A}_{AL}`$ is love awareness, $`\mathcal{C}_{AL}`$ is love connection, $`\mathcal{W}_{AL}`$ is love will, and $`\mathcal{T}_{AL}`$ is love transformation.
 
 Love consciousness equation:
 
@@ -281,11 +281,11 @@ indicates that love's transformation of united consciousness is greater than the
 
 ### Love-Inverse Love Dialectic
 
-The Love-Inverse Love Dialectic Relationship $\mathcal{D}_{AL}$ reveals the deep connection between love and inverse love (fear, separation):
+The Love-Inverse Love Dialectic Relationship $`\mathcal{D}_{AL}`$ reveals the deep connection between love and inverse love (fear, separation):
 
 $$\mathcal{D}_{AL} = \{\Phi_{AL}, \Phi_{AF}, \mathcal{R}_{AL-AF}, \mathcal{T}_{AL-AF}\}$$
 
-where $\Phi_{AL}$ is absolute love, $\Phi_{AF}$ is absolute fear, $\mathcal{R}_{AL-AF}$ is the love-fear relationship, and $\mathcal{T}_{AL-AF}$ is the love-fear transformation.
+where $`\Phi_{AL}`$ is absolute love, $`\Phi_{AF}`$ is absolute fear, $`\mathcal{R}_{AL-AF}`$ is the love-fear relationship, and $`\mathcal{T}_{AL-AF}`$ is the love-fear transformation.
 
 Love-fear transformation theorem:
 
@@ -307,11 +307,11 @@ indicates that absolute love can completely transform fear, and through transfor
 
 ### Love's Transformative Power
 
-Love's Transformative Power $\mathcal{T}_{AL}$ reveals how love transforms everything:
+Love's Transformative Power $`\mathcal{T}_{AL}`$ reveals how love transforms everything:
 
 $$\mathcal{T}_{AL} = \{\mathcal{P}_{AL}, \mathcal{F}_{AL}, \mathcal{E}_{AL}, \mathcal{H}_{AL}\}$$
 
-where $\mathcal{P}_{AL}$ is transformation potential, $\mathcal{F}_{AL}$ is transformation field, $\mathcal{E}_{AL}$ is transformation energy, and $\mathcal{H}_{AL}$ is transformation level.
+where $`\mathcal{P}_{AL}`$ is transformation potential, $`\mathcal{F}_{AL}`$ is transformation field, $`\mathcal{E}_{AL}`$ is transformation energy, and $`\mathcal{H}_{AL}`$ is transformation level.
 
 Love transformation theorem:
 
@@ -335,11 +335,11 @@ represents the hierarchical structure of love transformation, with higher levels
 
 ### Connection Depth Dynamics
 
-Connection Depth Dynamics $\mathcal{C}_{AL}$ describes the evolution of love connection depth:
+Connection Depth Dynamics $`\mathcal{C}_{AL}`$ describes the evolution of love connection depth:
 
 $$\mathcal{C}_{AL} = \{\mathcal{D}_{AL}, \mathcal{B}_{AL}, \mathcal{I}_{AL}, \mathcal{R}_{AL}\}$$
 
-where $\mathcal{D}_{AL}$ is the depth function, $\mathcal{B}_{AL}$ is connection breadth, $\mathcal{I}_{AL}$ is connection strength, and $\mathcal{R}_{AL}$ is the relationship function.
+where $`\mathcal{D}_{AL}`$ is the depth function, $`\mathcal{B}_{AL}`$ is connection breadth, $`\mathcal{I}_{AL}`$ is connection strength, and $`\mathcal{R}_{AL}`$ is the relationship function.
 
 Connection depth equation:
 
@@ -361,17 +361,17 @@ indicates that the product of connection depth and breadth increases with connec
 
 ### Love Resonance Emergence
 
-Love Resonance Emergence $\mathcal{E}_{AL}$ describes the phenomenon of love resonance transitions:
+Love Resonance Emergence $`\mathcal{E}_{AL}`$ describes the phenomenon of love resonance transitions:
 
 $$\mathcal{E}_{AL} = \{\mathcal{F}_{AL}, \mathcal{C}_{AL}, \mathcal{S}_{AL}, \mathcal{R}_{AL}\}$$
 
-where $\mathcal{F}_{AL}$ is the frequency function, $\mathcal{C}_{AL}$ is the critical condition, $\mathcal{S}_{AL}$ is state transition, and $\mathcal{R}_{AL}$ is the resonance function.
+where $`\mathcal{F}_{AL}`$ is the frequency function, $`\mathcal{C}_{AL}`$ is the critical condition, $`\mathcal{S}_{AL}`$ is state transition, and $`\mathcal{R}_{AL}`$ is the resonance function.
 
 Love resonance equation:
 
 $$\mathcal{R}_{AL}(X, Y, \omega) = \frac{A_{AL}(X, \omega) \cdot A_{AL}(Y, \omega)}{|\omega_X - \omega_Y|^2 + \gamma^2}$$
 
-where $A_{AL}$ is love amplitude, $\omega_X$ and $\omega_Y$ are intrinsic frequencies, and $\gamma$ is the damping coefficient, describing the love resonance intensity between two existences.
+where $`A_{AL}`$ is love amplitude, $`\omega_X`$ and $`\omega_Y`$ are intrinsic frequencies, and $`\gamma`$ is the damping coefficient, describing the love resonance intensity between two existences.
 
 Love resonance transition:
 
@@ -389,11 +389,11 @@ represents the network of all existences connected through love resonance.
 
 ### Love Boundary Transcendence
 
-Love Boundary Transcendence $\mathcal{B}_{AL}$ describes how love transcends all boundaries:
+Love Boundary Transcendence $`\mathcal{B}_{AL}`$ describes how love transcends all boundaries:
 
 $$\mathcal{B}_{AL} = \{\mathcal{L}_{AL}, \mathcal{T}_{AL}, \mathcal{E}_{AL}, \mathcal{S}_{AL}\}$$
 
-where $\mathcal{L}_{AL}$ is the boundary function, $\mathcal{T}_{AL}$ is the transcendence function, $\mathcal{E}_{AL}$ is the extension operator, and $\mathcal{S}_{AL}$ is the sharing function.
+where $`\mathcal{L}_{AL}`$ is the boundary function, $`\mathcal{T}_{AL}`$ is the transcendence function, $`\mathcal{E}_{AL}`$ is the extension operator, and $`\mathcal{S}_{AL}`$ is the sharing function.
 
 Love transcendence equation:
 
@@ -415,11 +415,11 @@ indicates that through infinite recursive extension of love, any finite existenc
 
 ### Love Unified Connection
 
-Love Unified Connection $\mathcal{U}_{AL}$ describes how love connects everything:
+Love Unified Connection $`\mathcal{U}_{AL}`$ describes how love connects everything:
 
 $$\mathcal{U}_{AL} = \{\mathcal{C}_{AL}, \mathcal{I}_{AL}, \mathcal{H}_{AL}, \mathcal{S}_{AL}\}$$
 
-where $\mathcal{C}_{AL}$ is the connection function, $\mathcal{I}_{AL}$ is the integration operator, $\mathcal{H}_{AL}$ is harmony degree, and $\mathcal{S}_{AL}$ is the synergy function.
+where $`\mathcal{C}_{AL}`$ is the connection function, $`\mathcal{I}_{AL}`$ is the integration operator, $`\mathcal{H}_{AL}`$ is harmony degree, and $`\mathcal{S}_{AL}`$ is the synergy function.
 
 Love unified connection theorem:
 
@@ -443,17 +443,17 @@ indicates that the harmony degree of an integration structure is determined by t
 
 ### Multidimensional Love Model
 
-The Multidimensional Love Model $\mathcal{M}_{AL}$ describes the multidimensional structure of love:
+The Multidimensional Love Model $`\mathcal{M}_{AL}`$ describes the multidimensional structure of love:
 
 $$\mathcal{M}_{AL} = \{\mathcal{E}_{AL}, \mathcal{C}_{AL}, \mathcal{G}_{AL}, \mathcal{T}_{AL}\}$$
 
-where $\mathcal{E}_{AL}$ is the emotional dimension, $\mathcal{C}_{AL}$ is the cognitive dimension, $\mathcal{G}_{AL}$ is the giving dimension, and $\mathcal{T}_{AL}$ is the transformation dimension.
+where $`\mathcal{E}_{AL}`$ is the emotional dimension, $`\mathcal{C}_{AL}`$ is the cognitive dimension, $`\mathcal{G}_{AL}`$ is the giving dimension, and $`\mathcal{T}_{AL}`$ is the transformation dimension.
 
 Love vector field:
 
 $$\vec{\mathcal{L}}(x, \tau) = \mathcal{E}_{AL}(x, \tau)\vec{e}_E + \mathcal{C}_{AL}(x, \tau)\vec{e}_C + \mathcal{G}_{AL}(x, \tau)\vec{e}_G + \mathcal{T}_{AL}(x, \tau)\vec{e}_T$$
 
-represents love at space-time point $(x, \tau)$ as a multidimensional vector field.
+represents love at space-time point $`(x, \tau)`$ as a multidimensional vector field.
 
 Love intensity function:
 
@@ -469,11 +469,11 @@ indicates that balanced love develops equally in all dimensions.
 
 ### Love Implementation Dynamics
 
-Love Implementation Dynamics $\mathcal{I}_{AL}$ describes how love is implemented in reality:
+Love Implementation Dynamics $`\mathcal{I}_{AL}`$ describes how love is implemented in reality:
 
 $$\mathcal{I}_{AL} = \{\mathcal{R}_{AL}, \mathcal{A}_{AL}, \mathcal{T}_{AL}, \mathcal{E}_{AL}\}$$
 
-where $\mathcal{R}_{AL}$ is the realization function, $\mathcal{A}_{AL}$ is the action operator, $\mathcal{T}_{AL}$ is the transformation function, and $\mathcal{E}_{AL}$ is the effect measure.
+where $`\mathcal{R}_{AL}`$ is the realization function, $`\mathcal{A}_{AL}`$ is the action operator, $`\mathcal{T}_{AL}`$ is the transformation function, and $`\mathcal{E}_{AL}`$ is the effect measure.
 
 Love implementation equation:
 
@@ -491,13 +491,13 @@ Love implementation network:
 
 $$\mathcal{N}_{I-AL} = \{\mathcal{V}_{I-AL}, \mathcal{E}_{I-AL}, \mathcal{W}_{I-AL}, \mathcal{F}_{I-AL}\}$$
 
-represents the social network structure of love implementation, described by nodes $\mathcal{V}_{I-AL}$, connections $\mathcal{E}_{I-AL}$, weights $\mathcal{W}_{I-AL}$, and flow function $\mathcal{F}_{I-AL}$.
+represents the social network structure of love implementation, described by nodes $`\mathcal{V}_{I-AL}`$, connections $`\mathcal{E}_{I-AL}`$, weights $`\mathcal{W}_{I-AL}`$, and flow function $`\mathcal{F}_{I-AL}`$.
 
 Love implementation diffusion equation:
 
 $$\frac{\partial \mathcal{L}_{AL}}{\partial \tau} = D_{AL} \nabla^2 \mathcal{L}_{AL} + \mathcal{S}_{AL}(x, \tau)$$
 
-describes how love diffuses in the social network, where $D_{AL}$ is the diffusion coefficient and $\mathcal{S}_{AL}$ is the love source function.
+describes how love diffuses in the social network, where $`D_{AL}`$ is the diffusion coefficient and $`\mathcal{S}_{AL}`$ is the love source function.
 
 ## References and Related Theories
 

@@ -49,7 +49,7 @@ $$
 S_{\text{记忆}}(t) = -k \sum_{i} p_i(t) \ln p_i(t)
 $$
 
-其中$p_i(t)$表示记忆中第$i$个细节随时间变化的概率分布。
+其中$`p_i(t)`$表示记忆中第$`i`$个细节随时间变化的概率分布。
 
 ### 哲学意义
 
@@ -101,7 +101,7 @@ $$
 S_{\text{Memory}}(t) = -k \sum_{i} p_i(t) \ln p_i(t)
 $$
 
-Where $p_i(t)$ represents the probability distribution of the $i$-th detail in memory changing over time.
+Where $`p_i(t)`$ represents the probability distribution of the $`i`$-th detail in memory changing over time.
 
 ### Philosophical Significance
 

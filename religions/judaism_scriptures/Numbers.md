@@ -34,7 +34,7 @@ $$I_{total} = \sum_{i=1}^{N} I_i^{observer}$$
 
 $$\mathcal{I} = \Omega_Q \cap \Omega_C$$
 
-利未人被指定为会幕的看守者，从量子经典二元论看，他们扮演了量子-经典接口（$\mathcal{I}$）的维护者角色。他们的仪式和职责确保了量子域的信息能够正确地转化为经典域中的知识和行动。
+利未人被指定为会幕的看守者，从量子经典二元论看，他们扮演了量子-经典接口（$`\mathcal{I}`$）的维护者角色。他们的仪式和职责确保了量子域的信息能够正确地转化为经典域中的知识和行动。
 
 ### 4. 旷野流浪：熵增与熵减的平衡
 
@@ -92,7 +92,7 @@ The spatial arrangement of the camp embodies the spatial mapping of observer dim
 
 $$\mathcal{I} = \Omega_Q \cap \Omega_C$$
 
-The Levites are designated as guardians of the tabernacle; from a Quantum-Classical Dualism perspective, they play the role of maintainers of the quantum-classical interface ($\mathcal{I}$). Their rituals and duties ensure that information from the quantum domain can be correctly transformed into knowledge and action in the classical domain.
+The Levites are designated as guardians of the tabernacle; from a Quantum-Classical Dualism perspective, they play the role of maintainers of the quantum-classical interface ($`\mathcal{I}`$). Their rituals and duties ensure that information from the quantum domain can be correctly transformed into knowledge and action in the classical domain.
 
 ### 4. Wilderness Wandering: Balance Between Entropy Increase and Decrease
 

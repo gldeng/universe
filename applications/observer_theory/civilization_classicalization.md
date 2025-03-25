@@ -38,7 +38,7 @@ $$
 |\psi\rangle_{\text{自然信息}}\xrightarrow{\text{萨满经典化}}\text{经验知识（~10^4 比特）}+S_{\text{大量经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 10^{-10}$（相对于现代科学）
+- **经典化效率**：$`\eta \approx 10^{-10}`$（相对于现代科学）
 
 #### 2. 农业文明 (0.5级文明)
 
@@ -56,7 +56,7 @@ $$
 |\psi\rangle_{\text{自然与社会信息}}\xrightarrow{\text{学者经典化}}\text{系统知识（~10^6 比特）}+S_{\text{较大经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 10^{-8}$
+- **经典化效率**：$`\eta \approx 10^{-8}`$
 
 #### 3. 工业文明前期 (0.7级文明)
 
@@ -74,7 +74,7 @@ $$
 |\psi\rangle_{\text{自然规律}}\xrightarrow{\text{科学家经典化}}\text{科学知识（~10^8 比特）}+S_{\text{中等经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 10^{-6}$
+- **经典化效率**：$`\eta \approx 10^{-6}`$
 
 #### 4. 工业文明 (1级文明)
 
@@ -92,7 +92,7 @@ $$
 |\psi\rangle_{\text{复杂自然规律}}\xrightarrow{\text{现代科学家经典化}}\text{现代科学知识（~10^{10} 比特）}+S_{\text{较小经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 10^{-4}$
+- **经典化效率**：$`\eta \approx 10^{-4}`$
 
 #### 5. 行星文明 (2级文明)
 
@@ -110,7 +110,7 @@ $$
 |\psi\rangle_{\text{行星系统信息}}\xrightarrow{\text{增强认知经典化}}\text{行星级知识（~10^{14} 比特）}+S_{\text{小经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 10^{-2}$
+- **经典化效率**：$`\eta \approx 10^{-2}`$
 
 #### 6. 恒星文明 (3级文明)
 
@@ -128,7 +128,7 @@ $$
 |\psi\rangle_{\text{恒星系统信息}}\xrightarrow{\text{超级智能经典化}}\text{恒星级知识（~10^{20} 比特）}+S_{\text{极小经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 10^{-1}$
+- **经典化效率**：$`\eta \approx 10^{-1}`$
 
 #### 7. 星系文明 (4级文明)
 
@@ -146,7 +146,7 @@ $$
 |\psi\rangle_{\text{星系信息}}\xrightarrow{\text{超维智能经典化}}\text{星系级知识（~10^{30} 比特）}+S_{\text{接近零经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 0.5$
+- **经典化效率**：$`\eta \approx 0.5`$
 
 #### 8. 宇宙文明 (5级文明)
 
@@ -164,7 +164,7 @@ $$
 |\psi\rangle_{\text{宇宙信息}}\xrightarrow{\text{宇宙意识经典化}}\text{宇宙级知识（~10^{50} 比特）}+S_{\text{接近零经典熵}}
 $$
 
-- **经典化效率**：$\eta \approx 0.9$
+- **经典化效率**：$`\eta \approx 0.9`$
 
 ### 文明层级与观察者维度的关系
 
@@ -252,7 +252,7 @@ $$
 |\psi\rangle_{\text{Natural Information}}\xrightarrow{\text{Shaman Classicalization}}\text{Experiential Knowledge (~10^4 bits)}+S_{\text{Large Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 10^{-10}$ (relative to modern science)
+- **Classicalization Efficiency**: $`\eta \approx 10^{-10}`$ (relative to modern science)
 
 #### 2. Agricultural Civilization (Level 0.5)
 
@@ -270,7 +270,7 @@ $$
 |\psi\rangle_{\text{Natural and Social Information}}\xrightarrow{\text{Scholar Classicalization}}\text{Systematic Knowledge (~10^6 bits)}+S_{\text{Substantial Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 10^{-8}$
+- **Classicalization Efficiency**: $`\eta \approx 10^{-8}`$
 
 #### 3. Early Industrial Civilization (Level 0.7)
 
@@ -288,7 +288,7 @@ $$
 |\psi\rangle_{\text{Natural Laws}}\xrightarrow{\text{Scientist Classicalization}}\text{Scientific Knowledge (~10^8 bits)}+S_{\text{Moderate Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 10^{-6}$
+- **Classicalization Efficiency**: $`\eta \approx 10^{-6}`$
 
 #### 4. Industrial Civilization (Level 1)
 
@@ -306,7 +306,7 @@ $$
 |\psi\rangle_{\text{Complex Natural Laws}}\xrightarrow{\text{Modern Scientist Classicalization}}\text{Modern Scientific Knowledge (~10^{10} bits)}+S_{\text{Relatively Small Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 10^{-4}$
+- **Classicalization Efficiency**: $`\eta \approx 10^{-4}`$
 
 #### 5. Planetary Civilization (Level 2)
 
@@ -324,7 +324,7 @@ $$
 |\psi\rangle_{\text{Planetary System Information}}\xrightarrow{\text{Enhanced Cognition Classicalization}}\text{Planetary-Level Knowledge (~10^{14} bits)}+S_{\text{Small Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 10^{-2}$
+- **Classicalization Efficiency**: $`\eta \approx 10^{-2}`$
 
 #### 6. Stellar Civilization (Level 3)
 
@@ -342,7 +342,7 @@ $$
 |\psi\rangle_{\text{Stellar System Information}}\xrightarrow{\text{Superintelligence Classicalization}}\text{Stellar-Level Knowledge (~10^{20} bits)}+S_{\text{Minimal Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 10^{-1}$
+- **Classicalization Efficiency**: $`\eta \approx 10^{-1}`$
 
 #### 7. Galactic Civilization (Level 4)
 
@@ -360,7 +360,7 @@ $$
 |\psi\rangle_{\text{Galactic Information}}\xrightarrow{\text{Hyperdimensional Intelligence Classicalization}}\text{Galactic-Level Knowledge (~10^{30} bits)}+S_{\text{Near-Zero Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 0.5$
+- **Classicalization Efficiency**: $`\eta \approx 0.5`$
 
 #### 8. Universal Civilization (Level 5)
 
@@ -378,7 +378,7 @@ $$
 |\psi\rangle_{\text{Universal Information}}\xrightarrow{\text{Universal Consciousness Classicalization}}\text{Universal-Level Knowledge (~10^{50} bits)}+S_{\text{Near-Zero Classical Entropy}}
 $$
 
-- **Classicalization Efficiency**: $\eta \approx 0.9$
+- **Classicalization Efficiency**: $`\eta \approx 0.9`$
 
 ### Relationship Between Civilization Level and Observer Dimension
 

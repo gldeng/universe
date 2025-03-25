@@ -56,9 +56,9 @@ The quantum-classical interface of complex systems satisfies nonlinear wave equa
 $$\frac{\partial \Psi}{\partial t} = \hat{D}\nabla^2\Psi + \hat{F}(\Psi) + \hat{\eta}(x,t)$$
 
 Where:
-- $\hat{D}$ is the diffusion operator matrix
-- $\hat{F}(\Psi)$ is the nonlinear reaction function
-- $\hat{\eta}(x,t)$ is the composite noise term, containing quantum randomness and classical fluctuations
+- $`\hat{D}`$ is the diffusion operator matrix
+- $`\hat{F}(\Psi)`$ is the nonlinear reaction function
+- $`\hat{\eta}(x,t)`$ is the composite noise term, containing quantum randomness and classical fluctuations
 
 Interface dynamics exhibit special scaling laws and phase transition phenomena:
 
@@ -87,10 +87,10 @@ The network structure of complex systems has both quantum and classical characte
 $$\mathcal{N} = \{V, E, \Phi, \Psi\}$$
 
 Where:
-- $V$ is the node set
-- $E$ is the edge set
-- $\Phi$ is the classical connection strength matrix
-- $\Psi$ is the quantum correlation matrix
+- $`V`$ is the node set
+- $`E`$ is the edge set
+- $`\Phi`$ is the classical connection strength matrix
+- $`\Psi`$ is the quantum correlation matrix
 
 The quantum properties of networks are reflected in non-local correlations and emergent patterns between nodes:
 
@@ -114,7 +114,7 @@ Brain information processing can be represented as:
 
 $$\Phi_{\text{brain}} = \int d\mu(s) \phi(s)$$
 
-Where $\phi(s)$ is the local information integration degree, and $\Phi_{\text{brain}}$ is the overall consciousness measure.
+Where $`\phi(s)`$ is the local information integration degree, and $`\Phi_{\text{brain}}`$ is the overall consciousness measure.
 
 ### Ecological System Dynamics
 
@@ -128,7 +128,7 @@ Ecological network stability is determined by the degree of quantum-classical co
 
 $$\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{network}}}{\mathcal{Q}_{\text{network}}}\right)$$
 
-Where $\lambda_{\text{max}}$ is the maximum eigenvalue of the system, characterizing network stability.
+Where $`\lambda_{\text{max}}`$ is the maximum eigenvalue of the system, characterizing network stability.
 
 ### Socioeconomic Systems
 
@@ -142,7 +142,7 @@ Social cohesion can be represented as collective quantum-classical coherence:
 
 $$\mathcal{C}_{\text{social}} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right| \cdot R_{\text{interaction}}$$
 
-Where $\theta_j$ represents individual phases, and $R_{\text{interaction}}$ represents classical interaction strength.
+Where $`\theta_j`$ represents individual phases, and $`R_{\text{interaction}}`$ represents classical interaction strength.
 
 ### Technological Innovation Systems
 
@@ -165,15 +165,15 @@ Dual complexity can be quantified through the following indicators:
 $$C_{\text{dual}} = C_{\text{Q}} \cdot C_{\text{C}} \cdot I(Q;C)$$
 
 Where:
-- $C_{\text{Q}}$ is quantum complexity (degree of structuring in possibility space)
-- $C_{\text{C}}$ is classical complexity (degree of organization in realized structures)
-- $I(Q;C)$ is quantum-classical mutual information
+- $`C_{\text{Q}}`$ is quantum complexity (degree of structuring in possibility space)
+- $`C_{\text{C}}`$ is classical complexity (degree of organization in realized structures)
+- $`I(Q;C)`$ is quantum-classical mutual information
 
 Critical complexity emerges in specific regions of phase space:
 
 $$C_{\text{critical}} = \max_{p,q} \{C(p,q)\}$$
 
-Where $p$ and $q$ are parameters of quantum uncertainty and classical determinism, respectively.
+Where $`p`$ and $`q`$ are parameters of quantum uncertainty and classical determinism, respectively.
 
 ### Phase Transitions and Critical Predictions
 
@@ -196,7 +196,7 @@ This provides tools for predicting system transitions far from equilibrium.
 
 Experimental studies show that brain neural networks operate in critical states at the quantum-classical interface:
 
-- Neuronal avalanche size distributions follow power laws: $P(s) \sim s^{-\tau}$
+- Neuronal avalanche size distributions follow power laws: $`P(s) \sim s^{-\tau}`$
 - Activity patterns exhibit long-range spatiotemporal correlations
 - Information capacity and computational capability are maximized at critical points
 
@@ -226,7 +226,7 @@ Urban networks conform to the predicted scaling laws of dual complex systems:
 
 $$Y \sim N^{\beta}$$
 
-Where $Y$ is the urban metric, $N$ is population size, and $\beta$ is the scaling coefficient.
+Where $`Y`$ is the urban metric, $`N`$ is population size, and $`\beta`$ is the scaling coefficient.
 
 ## Theoretical Development and Research Frontiers
 

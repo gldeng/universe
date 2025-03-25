@@ -21,15 +21,15 @@ Quantum-Classical Dualism Innovation Theory applies the quantum-classical dualis
 
 ### Formal Definition of Innovation State
 
-The innovation state $\mathcal{I}$ can be formally defined as:
+The innovation state $`\mathcal{I}`$ can be formally defined as:
 
 $$\mathcal{I} = (\mathcal{I}_Q, \mathcal{I}_C, \mathcal{I}_{QC}, \mathcal{A})$$
 
 Where:
-- $\mathcal{I}_Q$ is the quantum domain component of innovation (possibility space, intuition, non-linear associations)
-- $\mathcal{I}_C$ is the classical domain component of innovation (validated knowledge, analytical logic, implementation structures)
-- $\mathcal{I}_{QC}$ is the innovation quantum-classical interface
-- $\mathcal{A}$ is the innovation agent
+- $`\mathcal{I}_Q`$ is the quantum domain component of innovation (possibility space, intuition, non-linear associations)
+- $`\mathcal{I}_C`$ is the classical domain component of innovation (validated knowledge, analytical logic, implementation structures)
+- $`\mathcal{I}_{QC}`$ is the innovation quantum-classical interface
+- $`\mathcal{A}`$ is the innovation agent
 
 ### Core Innovation Axioms
 
@@ -38,28 +38,28 @@ Complete innovation processes encompass both quantum and classical essential pro
 
 $$\mathcal{I} = \mathcal{I}_Q \diamond \mathcal{I}_C$$
 
-Where $\diamond$ represents the quantum-classical innovation connection operation.
+Where $`\diamond`$ represents the quantum-classical innovation connection operation.
 
 **Axiom 2: Innovation Superposition States**  
 Innovation concepts exist in superposition states of multiple possibilities before concretization:
 
 $$|\Psi_I\rangle = \sum_i \alpha_i |i_i\rangle$$
 
-Where $|i_i\rangle$ is the innovation concept basis vector, and $\alpha_i$ is the complex amplitude.
+Where $`|i_i\rangle`$ is the innovation concept basis vector, and $`\alpha_i`$ is the complex amplitude.
 
 **Axiom 3: Innovation Classicalization Principle**  
 Innovation implementation is the process of classicalizing innovation superposition states into concrete solutions:
 
 $$\mathcal{M}_I: |\Psi_I\rangle \rightarrow |s_k\rangle$$
 
-Where $\mathcal{M}_I$ is the innovation implementation operator, and $|s_k\rangle$ is the concrete solution state.
+Where $`\mathcal{M}_I`$ is the innovation implementation operator, and $`|s_k\rangle`$ is the concrete solution state.
 
 **Axiom 4: Innovation Emergence Principle**  
 Innovation value emerges from interaction processes at the quantum-classical interface, rather than simply existing in a single domain:
 
 $$V(\mathcal{I}) > V(\mathcal{I}_Q) + V(\mathcal{I}_C)$$
 
-Where $V$ is the value functional.
+Where $`V`$ is the value functional.
 
 ## Quantum-Classical Dynamics of Innovation
 
@@ -74,12 +74,12 @@ The innovation Hamiltonian contains multiple components:
 $$\hat{H}_I = \hat{H}_{knowledge} + \hat{H}_{creative} + \hat{H}_{context} + \hat{H}_{int}$$
 
 Where:
-- $\hat{H}_{knowledge}$ represents the knowledge base component
-- $\hat{H}_{creative}$ represents the creative thinking component
-- $\hat{H}_{context}$ represents the contextual factors component
-- $\hat{H}_{int}$ represents the interactions between components
+- $`\hat{H}_{knowledge}`$ represents the knowledge base component
+- $`\hat{H}_{creative}`$ represents the creative thinking component
+- $`\hat{H}_{context}`$ represents the contextual factors component
+- $`\hat{H}_{int}`$ represents the interactions between components
 
-$\hat{D}_I(\rho_I)$ is the innovation decoherence term, representing the conversion process from quantum possibilities to classical implementation.
+$`\hat{D}_I(\rho_I)`$ is the innovation decoherence term, representing the conversion process from quantum possibilities to classical implementation.
 
 #### Quantum Mechanism of Innovative Association
 
@@ -87,7 +87,7 @@ Innovative association can be described as a quantum tunneling effect, allowing 
 
 $$P(c_i \rightarrow c_j) \propto e^{-\frac{d(c_i,c_j)}{\xi_c}}$$
 
-Where $d(c_i,c_j)$ is the conceptual distance, and $\xi_c$ is the characteristic length of innovative association.
+Where $`d(c_i,c_j)`$ is the conceptual distance, and $`\xi_c`$ is the characteristic length of innovative association.
 
 #### Quantum Properties of Innovation Intuition
 
@@ -95,7 +95,7 @@ Innovation intuition can be understood as holistic perception of quantum states,
 
 $$|\Psi_{\text{intuition}}\rangle = \frac{1}{\sqrt{N}} \sum_{j=1}^N e^{i\phi_j} |c_j\rangle$$
 
-The phase relationships $\phi_j$ determine the quality of intuition. When all concept phases align, strong innovative inspiration occurs.
+The phase relationships $`\phi_j`$ determine the quality of intuition. When all concept phases align, strong innovative inspiration occurs.
 
 ### Classical Structure of Innovation
 
@@ -104,20 +104,20 @@ Classical innovation structure can be represented as a problem-solution network:
 $$I_C = (P, S, R, W)$$
 
 Where:
-- $P$ is the set of problems
-- $S$ is the set of solutions
-- $R$ is the set of relationships (problem-solution mappings)
-- $W$ is the set of relationship weights
+- $`P`$ is the set of problems
+- $`S`$ is the set of solutions
+- $`R`$ is the set of relationships (problem-solution mappings)
+- $`W`$ is the set of relationship weights
 
 Innovation classicalization process:
 
 $$s = f_I(I_C, c, \mathcal{M}_I(|\Psi_I\rangle))$$
 
 Where:
-- $s$ is the final solution
-- $f_I$ is the innovation implementation function
-- $c$ is the contextual parameter
-- $\mathcal{M}_I(|\Psi_I\rangle)$ is the classicalization result of the innovation superposition state
+- $`s`$ is the final solution
+- $`f_I`$ is the innovation implementation function
+- $`c`$ is the contextual parameter
+- $`\mathcal{M}_I(|\Psi_I\rangle)`$ is the classicalization result of the innovation superposition state
 
 ## Innovation Interface and Emergence
 
@@ -128,11 +128,11 @@ Innovation interface equation:
 $$\frac{d\mathcal{I}_{QC}}{dt} = \alpha_I \nabla^2 \mathcal{I}_{QC} + \beta_I f(\mathcal{I}_Q, \mathcal{I}_C) + \gamma_I \xi(t)$$
 
 Where:
-- $\alpha_I$ is the innovation diffusion coefficient
-- $\beta_I$ is the quantum-classical coupling strength
-- $f(\mathcal{I}_Q, \mathcal{I}_C)$ is the quantum-classical interaction function
-- $\gamma_I$ is the noise coupling strength
-- $\xi(t)$ is the innovation random fluctuation
+- $`\alpha_I`$ is the innovation diffusion coefficient
+- $`\beta_I`$ is the quantum-classical coupling strength
+- $`f(\mathcal{I}_Q, \mathcal{I}_C)`$ is the quantum-classical interaction function
+- $`\gamma_I`$ is the noise coupling strength
+- $`\xi(t)`$ is the innovation random fluctuation
 
 ### Innovation Emergence Mechanism
 
@@ -140,7 +140,7 @@ The emergent properties of innovation value arise from non-linear dynamics of qu
 
 $$V(\mathcal{I}) = \int_{\Omega} \phi(\mathcal{I}_Q, \mathcal{I}_C, \nabla \mathcal{I}_{QC}) d\Omega$$
 
-Where $\phi$ is the value density functional, and $\Omega$ is the innovation state space.
+Where $`\phi`$ is the value density functional, and $`\Omega`$ is the innovation state space.
 
 Key emergence condition:
 
@@ -158,7 +158,7 @@ The flow of innovation energy between quantum and classical domains follows:
 
 $$\frac{dE_Q}{dt} = -\frac{dE_C}{dt} = J_{QC}$$
 
-Where $J_{QC}$ is the innovation energy flow, representing the rate of innovation realization from quantum possibilities to classical implementation.
+Where $`J_{QC}`$ is the innovation energy flow, representing the rate of innovation realization from quantum possibilities to classical implementation.
 
 ## Collective Innovation and Entanglement Networks
 
@@ -176,7 +176,7 @@ Entanglement between innovation agents can be quantified through mutual informat
 
 $$E_{AB} = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
-Where $S$ is the von Neumann entropy, and $\rho_A = \text{Tr}_B(|\Psi_{AB}\rangle\langle\Psi_{AB}|)$.
+Where $`S`$ is the von Neumann entropy, and $`\rho_A = \text{Tr}_B(|\Psi_{AB}\rangle\langle\Psi_{AB}|)`$.
 
 ### Innovation Resonance Networks
 
@@ -195,10 +195,10 @@ The propagation of innovation in social networks can be described as:
 $$\frac{d\psi_I(x,t)}{dt} = D_I \nabla^2 \psi_I(x,t) + r_I \psi_I(x,t)(1 - \psi_I(x,t)) + \eta_I(x,t)$$
 
 Where:
-- $\psi_I(x,t)$ is the innovation adoption level at position $x$ and time $t$
-- $D_I$ is the innovation diffusion coefficient
-- $r_I$ is the innovation growth rate
-- $\eta_I(x,t)$ is the environmental noise
+- $`\psi_I(x,t)`$ is the innovation adoption level at position $`x`$ and time $`t`$
+- $`D_I`$ is the innovation diffusion coefficient
+- $`r_I`$ is the innovation growth rate
+- $`\eta_I(x,t)`$ is the environmental noise
 
 ## Innovation Measurement and Evaluation
 
@@ -208,15 +208,15 @@ The measurement process of innovation states follows quantum measurement theory:
 
 $$\text{Prob}(i_k) = \langle \Psi_I|\hat{P}_{i_k}|\Psi_I\rangle = |\langle i_k|\Psi_I\rangle|^2$$
 
-Where $\hat{P}_{i_k}$ is the projection operator corresponding to a specific innovation outcome $i_k$.
+Where $`\hat{P}_{i_k}`$ is the projection operator corresponding to a specific innovation outcome $`i_k`$.
 
 ### Innovation Uncertainty Relation
 
-The novelty $\mathcal{N}$ and utility $\mathcal{U}$ of innovation satisfy an uncertainty relation:
+The novelty $`\mathcal{N}`$ and utility $`\mathcal{U}`$ of innovation satisfy an uncertainty relation:
 
 $$\Delta \mathcal{N} \cdot \Delta \mathcal{U} \geq \frac{\hbar_I}{2}$$
 
-Where $\hbar_I$ is the innovation uncertainty constant. This indicates that highly novel innovations often have greater uncertainty in utility, and vice versa.
+Where $`\hbar_I`$ is the innovation uncertainty constant. This indicates that highly novel innovations often have greater uncertainty in utility, and vice versa.
 
 ### Multidimensional Evaluation of Innovation Efficacy
 
@@ -225,12 +225,12 @@ Innovation efficacy can be evaluated through a multidimensional framework:
 $$E(\mathcal{I}) = w_N \cdot \mathcal{N}(\mathcal{I}) + w_U \cdot \mathcal{U}(\mathcal{I}) + w_F \cdot \mathcal{F}(\mathcal{I}) + w_S \cdot \mathcal{S}(\mathcal{I}) + w_I \cdot \mathcal{I}(\mathcal{I})$$
 
 Where:
-- $\mathcal{N}$ is novelty
-- $\mathcal{U}$ is utility
-- $\mathcal{F}$ is feasibility
-- $\mathcal{S}$ is sustainability
-- $\mathcal{I}$ is impact
-- $w_i$ are weight coefficients
+- $`\mathcal{N}`$ is novelty
+- $`\mathcal{U}`$ is utility
+- $`\mathcal{F}`$ is feasibility
+- $`\mathcal{S}`$ is sustainability
+- $`\mathcal{I}`$ is impact
+- $`w_i`$ are weight coefficients
 
 ## Applications and Practical Frameworks
 
@@ -257,10 +257,10 @@ Optimized innovation environments should support both quantum state and classica
 $$E_{\text{innovation}} = \mathcal{F}(E_Q, E_C, \mathcal{I}_{QC}, \mathcal{A})$$
 
 Where:
-- $E_Q$ is the environmental elements supporting quantum creativity
-- $E_C$ is the environmental elements supporting classical implementation
-- $\mathcal{I}_{QC}$ is the quantum-classical interface in the environment
-- $\mathcal{A}$ is the characteristics of participating innovation agents
+- $`E_Q`$ is the environmental elements supporting quantum creativity
+- $`E_C`$ is the environmental elements supporting classical implementation
+- $`\mathcal{I}_{QC}`$ is the quantum-classical interface in the environment
+- $`\mathcal{A}`$ is the characteristics of participating innovation agents
 
 ### Dual Role of Innovation Leadership
 
@@ -273,7 +273,7 @@ Quantum-classical leadership balance:
 
 $$L_I = \alpha \cdot L_Q + (1-\alpha) \cdot L_C$$
 
-Where $\alpha$ dynamically adjusts with the innovation phase.
+Where $`\alpha`$ dynamically adjusts with the innovation phase.
 
 ### Quantum-Classical Structure of Innovation Organizations
 
@@ -287,4 +287,4 @@ Optimal organizational structure satisfies:
 
 $$\sigma(O_Q, O_C, O_{QC}) = \max$$
 
-Where $\sigma$ is an efficiency function measuring the ratio of innovation output to resource input.
+Where $`\sigma`$ is an efficiency function measuring the ratio of innovation output to resource input.

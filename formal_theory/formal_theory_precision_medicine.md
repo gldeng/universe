@@ -36,9 +36,9 @@
 $$\Psi_{\text{健康}} = \alpha|\text{健康}\rangle + \beta|\text{疾病}\rangle, \quad |\alpha|^2 + |\beta|^2 = 1$$
 
 其中：
-- $|\text{健康}\rangle$ 代表理想健康状态
-- $|\text{疾病}\rangle$ 代表病理状态
-- $\alpha$ 和 $\beta$ 是复数振幅，表示各状态的可能性
+- $`|\text{健康}\rangle`$ 代表理想健康状态
+- $`|\text{疾病}\rangle`$ 代表病理状态
+- $`\alpha`$ 和 $`\beta`$ 是复数振幅，表示各状态的可能性
 
 健康不是二元对立的"健康/疾病"状态，而是多维度的叠加态（混沌态），经典化后呈现为特定症状与体征。
 
@@ -59,13 +59,13 @@ $$\mathcal{I}_{\text{医疗}}[\Psi_{\text{初始}}] \rightarrow \Psi_{\text{目�
 
 $$\Psi_{\text{个体}} = \sum_i c_i |\phi_i\rangle$$
 
-其中 $|\phi_i\rangle$ 代表不同生物特征的基态，$c_i$ 是个体特异的复数振幅。这解释了为何标准治疗对不同个体产生不同效果。
+其中 $`|\phi_i\rangle`$ 代表不同生物特征的基态，$`c_i`$ 是个体特异的复数振幅。这解释了为何标准治疗对不同个体产生不同效果。
 
 ## 量子-经典医疗框架
 
 量子-经典医疗精准性框架包含四个相互关联的层级：
 
-### 1. 量子健康可能性空间 $\Omega_{H}^Q$
+### 1. 量子健康可能性空间 $`\Omega_{H}^Q`$
 
 表示所有可能健康状态的完整集合：
 
@@ -73,15 +73,15 @@ $$\Omega_{H}^Q = \{|\Psi_H\rangle : |\Psi_H\rangle = \sum_i a_i |\phi_i\rangle\}
 
 这是个体所有可能健康轨迹的全集，包含未实现的潜在状态。
 
-### 2. 经典健康表现空间 $\Omega_{H}^C$
+### 2. 经典健康表现空间 $`\Omega_{H}^C`$
 
 实际观察到的健康状态集合：
 
 $$\Omega_{H}^C = \{H_C : H_C = \mathcal{M}(|\Psi_H\rangle)\}$$
 
-其中 $\mathcal{M}$ 是测量/观察算符，将量子健康状态映射为经典可观测指标（如生命体征、实验室值、症状）。
+其中 $`\mathcal{M}`$ 是测量/观察算符，将量子健康状态映射为经典可观测指标（如生命体征、实验室值、症状）。
 
-### 3. 医疗干预空间 $\mathcal{I}_{\text{医疗}}$
+### 3. 医疗干预空间 $`\mathcal{I}_{\text{医疗}}`$
 
 所有可能医疗干预的集合：
 
@@ -89,13 +89,13 @@ $$\mathcal{I}_{\text{医疗}} = \{I_j : I_j(\Omega_{H}^Q) \rightarrow \Omega_{H}
 
 医疗干预作用于量子健康空间，通过经典实施途径影响健康的量子可能性。
 
-### 4. 健康转换网络 $\mathcal{T}_H$
+### 4. 健康转换网络 $`\mathcal{T}_H`$
 
 描述健康状态转换路径的网络：
 
 $$\mathcal{T}_H = \{(|\Psi_A\rangle, |\Psi_B\rangle, P_{A\rightarrow B})\}$$
 
-其中 $P_{A\rightarrow B}$ 是从状态A转换到状态B的概率。这个网络结构解释了疾病的进展路径和多种干预结果的可能性分布。
+其中 $`P_{A\rightarrow B}`$ 是从状态A转换到状态B的概率。这个网络结构解释了疾病的进展路径和多种干预结果的可能性分布。
 
 ## 精准医疗的量子基础
 
@@ -107,7 +107,7 @@ $$\mathcal{T}_H = \{(|\Psi_A\rangle, |\Psi_B\rangle, P_{A\rightarrow B})\}$$
 
 $$I_Q(生物) = -\text{Tr}(\rho_{\text{生物}}\ln\rho_{\text{生物}})$$
 
-其中 $\rho_{\text{生物}}$ 是生物系统的量子态密度矩阵。
+其中 $`\rho_{\text{生物}}`$ 是生物系统的量子态密度矩阵。
 
 生物量子信息存在于：
 - 分子水平（DNA/RNA序列、蛋白质构象）
@@ -121,7 +121,7 @@ $$I_Q(生物) = -\text{Tr}(\rho_{\text{生物}}\ln\rho_{\text{生物}})$$
 
 $$\Psi_{\text{健康}}(t) = \sum_i c_i(t)|\phi_i\rangle$$
 
-时间依赖系数 $c_i(t)$ 描述了健康状态的动态演化。疾病常表现为某些不稳定的量子健康状态，可通过适当干预引导向更稳定状态转变。
+时间依赖系数 $`c_i(t)`$ 描述了健康状态的动态演化。疾病常表现为某些不稳定的量子健康状态，可通过适当干预引导向更稳定状态转变。
 
 ### 3. 生物纠缠网络
 
@@ -144,7 +144,7 @@ $$|\Psi_{\text{系统}}\rangle = \sum_{i,j} d_{ij}|\phi_i\rangle_A \otimes |\phi
 
 $$\mathcal{D}(\Psi_H) = \{d_1, d_2, ..., d_n\}$$
 
-其中 $\mathcal{D}$ 是诊断算符，$\{d_i\}$ 是临床可观测指标集合。
+其中 $`\mathcal{D}`$ 是诊断算符，$`\{d_i\}`$ 是临床可观测指标集合。
 
 现代精准诊断工具包括：
 - 多组学分析（基因组学、蛋白组学、代谢组学）
@@ -172,10 +172,10 @@ $$T_{\text{个体化}}(\Psi_A) = \arg\max_T P(\Psi_A \xrightarrow{T} \Psi_{\text
 $$\Psi_{t+1} = \mathcal{F}(\Psi_t, \mathcal{M}(\Psi_t), I_t)$$
 
 其中：
-- $\Psi_t$ 是 t 时刻的健康状态
-- $\mathcal{M}(\Psi_t)$ 是测量结果
-- $I_t$ 是干预措施
-- $\mathcal{F}$ 是状态演化函数
+- $`\Psi_t`$ 是 t 时刻的健康状态
+- $`\mathcal{M}(\Psi_t)`$ 是测量结果
+- $`I_t`$ 是干预措施
+- $`\mathcal{F}`$ 是状态演化函数
 
 这种闭环系统能持续优化治疗方案，实现动态精准医疗。
 
@@ -190,9 +190,9 @@ $$\Psi_{t+1} = \mathcal{F}(\Psi_t, \mathcal{M}(\Psi_t), I_t)$$
 $$\mathcal{I}_{\text{分子}} = \{m \in \mathcal{M} | \mathcal{Q}(m) \leftrightarrow \mathcal{C}(m)\}$$
 
 其中：
-- $\mathcal{M}$ 是生物分子集合
-- $\mathcal{Q}(m)$ 是分子的量子特性（如电子构象、共振态）
-- $\mathcal{C}(m)$ 是分子的经典特性（如化学活性、结合亲和力）
+- $`\mathcal{M}`$ 是生物分子集合
+- $`\mathcal{Q}(m)`$ 是分子的量子特性（如电子构象、共振态）
+- $`\mathcal{C}(m)`$ 是分子的经典特性（如化学活性、结合亲和力）
 
 关键生物量子-经典界面包括：
 - 受体-配体相互作用
@@ -207,9 +207,9 @@ $$\mathcal{I}_{\text{分子}} = \{m \in \mathcal{M} | \mathcal{Q}(m) \leftrighta
 $$A_{\text{级联}}(q) = \prod_{i=1}^{n} g_i \cdot q$$
 
 其中：
-- $q$ 是初始量子扰动
-- $g_i$ 是第i级放大增益
-- $A_{\text{级联}}$ 是最终经典效应幅度
+- $`q`$ 是初始量子扰动
+- $`g_i`$ 是第i级放大增益
+- $`A_{\text{级联}}`$ 是最终经典效应幅度
 
 这种放大机制存在于：
 - 细胞信号转导通路
@@ -245,9 +245,9 @@ $$S[\Psi] = -k_B \text{Tr}(\rho \ln \rho) \xrightarrow{\text{相变}} S'[\Psi']$
 $$\mathcal{P}_Q(个体) = \{|\Psi_i\rangle, \omega_i, \tau_i\}$$
 
 其中：
-- $|\Psi_i\rangle$ 是关键健康子系统状态
-- $\omega_i$ 是状态权重
-- $\tau_i$ 是状态转换倾向性
+- $`|\Psi_i\rangle`$ 是关键健康子系统状态
+- $`\omega_i`$ 是状态权重
+- $`\tau_i`$ 是状态转换倾向性
 
 个体量子特征包含：
 - 基因变异图谱
@@ -263,9 +263,9 @@ $$\mathcal{P}_Q(个体) = \{|\Psi_i\rangle, \omega_i, \tau_i\}$$
 $$R(个体, 治疗) = \langle\Psi_{终}|\hat{O}|\Psi_{初}\rangle$$
 
 其中：
-- $|\Psi_{初}\rangle$ 是治疗前状态
-- $|\Psi_{终}\rangle$ 是治疗后预期状态
-- $\hat{O}$ 是观测算符，评估临床关注的结果
+- $`|\Psi_{初}\rangle`$ 是治疗前状态
+- $`|\Psi_{终}\rangle`$ 是治疗后预期状态
+- $`\hat{O}`$ 是观测算符，评估临床关注的结果
 
 个体响应预测应用于：
 - 药物敏感性预测
@@ -280,10 +280,10 @@ $$R(个体, 治疗) = \langle\Psi_{终}|\hat{O}|\Psi_{初}\rangle$$
 $$T_{t+1} = T_t + \eta \nabla_T R(T_t)$$
 
 其中：
-- $T_t$ 是 t 时刻的治疗方案
-- $R(T_t)$ 是治疗响应函数
-- $\eta$ 是学习率
-- $\nabla_T$ 是治疗空间中的梯度算符
+- $`T_t`$ 是 t 时刻的治疗方案
+- $`R(T_t)`$ 是治疗响应函数
+- $`\eta`$ 是学习率
+- $`\nabla_T`$ 是治疗空间中的梯度算符
 
 这种算法实现了真正的个性化精准医疗，能根据个体动态响应持续优化治疗方案。
 
@@ -321,7 +321,7 @@ $$\Delta X \Delta P < \frac{\hbar}{2}$$
 
 $$U(诊断) = H(P(疾病|观测)) = -\sum_i p_i \log p_i$$
 
-其中 $H$ 是诊断分布的信息熵。
+其中 $`H`$ 是诊断分布的信息熵。
 
 不确定性量化应用于：
 - 风险分层决策
@@ -351,7 +351,7 @@ $$\hat{H}_{\text{药物}} = \hat{H}_0 + \hat{V}_{\text{药物}}$$
 
 $$\mathcal{G}'_{\text{生物}} = \mathcal{T}_{\text{手术}}(\mathcal{G}_{\text{生物}})$$
 
-其中 $\mathcal{G}$ 是生物信息网络，$\mathcal{T}$ 是拓扑变换。
+其中 $`\mathcal{G}`$ 是生物信息网络，$`\mathcal{T}`$ 是拓扑变换。
 
 手术干预重塑：
 - 物理连接结构
@@ -440,13 +440,13 @@ $$\rho_{\text{精神}} = \sum_i p_i |\Psi_i\rangle\langle\Psi_i|$$
 
 ### 医疗精准性度量
 
-医疗精准度 $P$ 可形式化表达为：
+医疗精准度 $`P`$ 可形式化表达为：
 
 $$P(干预, 个体) = \frac{I_{\text{共享}}(干预;结果|个体)}{H(结果|个体)}$$
 
 其中：
-- $I_{\text{共享}}$ 是互信息量
-- $H$ 是信息熵
+- $`I_{\text{共享}}`$ 是互信息量
+- $`H`$ 是信息熵
 
 ### 健康状态转换动力学
 
@@ -454,7 +454,7 @@ $$P(干预, 个体) = \frac{I_{\text{共享}}(干预;结果|个体)}{H(结果|�
 
 $$i\hbar\frac{\partial}{\partial t}|\Psi_H(t)\rangle = \hat{H}_{\text{健康}}|\Psi_H(t)\rangle$$
 
-其中 $\hat{H}_{\text{健康}}$ 是健康哈密顿算符：
+其中 $`\hat{H}_{\text{健康}}`$ 是健康哈密顿算符：
 
 $$\hat{H}_{\text{健康}} = \hat{H}_{\text{内部}} + \hat{H}_{\text{环境}} + \hat{H}_{\text{干预}}$$
 

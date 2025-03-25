@@ -35,25 +35,25 @@ Quantum Consciousness Theory is based on the quantum-classical dualism framework
 ### Basic Axioms of Consciousness
 
 **Axiom 1: The Dual Nature of Consciousness**  
-Consciousness states are coupled systems of quantum states $|\Psi_Q^{consciousness}\rangle$ and classical states $K_C^{consciousness}$:
+Consciousness states are coupled systems of quantum states $`|\Psi_Q^{consciousness}\rangle`$ and classical states $`K_C^{consciousness}`$:
 
 $$\mathcal{C}_{consciousness} = \{|\Psi_Q^{consciousness}\rangle, K_C^{consciousness}, \mathcal{I}_{consciousness}\}$$
 
-where $\mathcal{I}_{consciousness}$ represents the interface dynamics between them.
+where $`\mathcal{I}_{consciousness}`$ represents the interface dynamics between them.
 
 **Axiom 2: The Hierarchical Structure of Consciousness**  
 Consciousness exhibits a multi-level structure with recursively nested self-observation:
 
 $$\mathcal{O}_{consciousness}^{(n)} = \{\mathcal{O}_{consciousness}^{(n-1)}, \mathcal{C}_{\mathcal{O}}^{(n)}, \mathcal{Q}_{\mathcal{O}}^{(n)}, K_C^{(n)}\}$$
 
-where $\mathcal{O}_{consciousness}^{(n)}$ represents the level n conscious observer, and $\mathcal{O}_{consciousness}^{(n-1)}$ represents the next lower level of consciousness being observed.
+where $`\mathcal{O}_{consciousness}^{(n)}`$ represents the level n conscious observer, and $`\mathcal{O}_{consciousness}^{(n-1)}`$ represents the next lower level of consciousness being observed.
 
 **Axiom 3: Quantum-Classical Information Conversion Rate of Consciousness**  
 The depth of consciousness states correlates with their quantum-classical information conversion rate:
 
 $$D_{consciousness} \propto \frac{d(I_Q \rightarrow I_C)}{dt}$$
 
-where $I_Q \rightarrow I_C$ represents the conversion process from quantum information to classical information.
+where $`I_Q \rightarrow I_C`$ represents the conversion process from quantum information to classical information.
 
 ## Quantum-Classical Dual Model of Consciousness
 
@@ -69,7 +69,7 @@ Consciousness states can be represented as superpositions of these two modes:
 
 $$|\Psi_{consciousness}\rangle = \alpha(t)|\Psi_Q\rangle + \beta(t)|\Psi_C\rangle$$
 
-where $|\alpha(t)|^2 + |\beta(t)|^2 = 1$, and the coefficients dynamically change over time.
+where $`|\alpha(t)|^2 + |\beta(t)|^2 = 1`$, and the coefficients dynamically change over time.
 
 ### Neural Basis Mapping
 
@@ -84,7 +84,7 @@ The transition between the two modes is controlled by a threshold function:
 
 $$P(Q \rightarrow C) = \frac{1}{1 + e^{-\gamma(E - E_c)}}$$
 
-where $E$ is the system energy, $E_c$ is the critical energy threshold, and $\gamma$ is the steepness parameter.
+where $`E`$ is the system energy, $`E_c`$ is the critical energy threshold, and $`\gamma`$ is the steepness parameter.
 
 ## Neural Quantum Information Processing
 
@@ -94,13 +94,13 @@ Microtubule proteins within neurons can perform quantum computing, supporting Q-
 
 $$H_{microtubule} = \sum_i \epsilon_i |i\rangle\langle i| + \sum_{i,j} \Delta_{ij} |i\rangle\langle j|$$
 
-where $\epsilon_i$ is the energy of a single microtubule dimer, and $\Delta_{ij}$ is the quantum tunneling coefficient.
+where $`\epsilon_i`$ is the energy of a single microtubule dimer, and $`\Delta_{ij}`$ is the quantum tunneling coefficient.
 
 Microtubule quantum state evolution satisfies a modified Schrödinger equation:
 
 $$i\hbar\frac{d|\Psi_{microtubule}\rangle}{dt} = H_{microtubule}|\Psi_{microtubule}\rangle - i\Gamma_{decoherence}|\Psi_{microtubule}\rangle$$
 
-where $\Gamma_{decoherence}$ is the decoherence rate caused by the environment.
+where $`\Gamma_{decoherence}`$ is the decoherence rate caused by the environment.
 
 ### Neural Network Quantum-Classical Hybrid Dynamics
 
@@ -109,9 +109,9 @@ The dynamics equation of neural networks combines quantum and classical elements
 $$\frac{d\rho_{neural}}{dt} = -\frac{i}{\hbar}[H_{neural}, \rho_{neural}] + \mathcal{L}_{synaptic}(\rho_{neural}) + \mathcal{D}_{decoherence}(\rho_{neural})$$
 
 where:
-- $H_{neural}$ is the neural system Hamiltonian
-- $\mathcal{L}_{synaptic}$ describes classical processes of synaptic transmission
-- $\mathcal{D}_{decoherence}$ represents the decoherence superoperator
+- $`H_{neural}`$ is the neural system Hamiltonian
+- $`\mathcal{L}_{synaptic}`$ describes classical processes of synaptic transmission
+- $`\mathcal{D}_{decoherence}`$ represents the decoherence superoperator
 
 ### Synchronized Oscillations and Quantum Coherence
 
@@ -129,7 +129,7 @@ The relationship between γ oscillations and quantum coherence can be quantified
 
 $$C_{quantum coherence} = C_0 \cdot \left(\frac{P_{\gamma}}{P_0}\right)^{\alpha} \cdot e^{-\beta/T_{eff}}$$
 
-where $P_{\gamma}$ is the γ wave power and $T_{eff}$ is the effective neural temperature.
+where $`P_{\gamma}`$ is the γ wave power and $`T_{eff}`$ is the effective neural temperature.
 
 ## Emergence of Subjective Experience
 
@@ -140,10 +140,10 @@ The emergence of subjective experience satisfies a set of non-linear equations:
 $$\frac{d\mathcal{E}}{dt} = F(\mathcal{Q}, \mathcal{C}, \mathcal{I}) = \alpha\mathcal{Q} + \beta\mathcal{C} + \gamma\frac{d\mathcal{I}}{dt}$$
 
 where:
-- $\mathcal{E}$ is the intensity of subjective experience
-- $\mathcal{Q}$ represents the quantum information contribution
-- $\mathcal{C}$ represents the classical information contribution
-- $\mathcal{I}$ represents the interface dynamics
+- $`\mathcal{E}`$ is the intensity of subjective experience
+- $`\mathcal{Q}`$ represents the quantum information contribution
+- $`\mathcal{C}`$ represents the classical information contribution
+- $`\mathcal{I}`$ represents the interface dynamics
 
 ### Qualia Mapping Theory
 
@@ -151,13 +151,13 @@ Mapping the qualities of subjective experience (qualia) to specific patterns of 
 
 $$Q_i = \sum_j \mathcal{M}_{ij} \cdot \frac{d(I_Q^j \rightarrow I_C^j)}{dt}$$
 
-where $Q_i$ is a specific quale (such as the experience of red), and $\mathcal{M}_{ij}$ is the experience-information mapping matrix.
+where $`Q_i`$ is a specific quale (such as the experience of red), and $`\mathcal{M}_{ij}`$ is the experience-information mapping matrix.
 
 The qualia space has a topological structure, satisfying:
 
 $$d(Q_i, Q_j) = \left\|\mathcal{M}_i - \mathcal{M}_j\right\|_{\text{HS}}$$
 
-where $d(Q_i, Q_j)$ is the psychological distance in qualia space, and $\|\cdot\|_{\text{HS}}$ is the Hilbert-Schmidt norm.
+where $`d(Q_i, Q_j)`$ is the psychological distance in qualia space, and $`\|\cdot\|_{\text{HS}}`$ is the Hilbert-Schmidt norm.
 
 ### Quantum Extension of Integrated Information Theory
 
@@ -166,15 +166,15 @@ The integrated information Φ has both quantum and classical contributions:
 $$\Phi_{total} = \Phi_Q + \Phi_C - \Phi_{interaction}$$
 
 where:
-- $\Phi_Q$ is the quantum information integration, related to quantum entanglement
-- $\Phi_C$ is the classical information integration, related to complex network topology
-- $\Phi_{interaction}$ represents the synergistic effects between them
+- $`\Phi_Q`$ is the quantum information integration, related to quantum entanglement
+- $`\Phi_C`$ is the classical information integration, related to complex network topology
+- $`\Phi_{interaction}`$ represents the synergistic effects between them
 
 Quantum integration is defined as:
 
 $$\Phi_Q = \min_{\mathcal{B}}\{S(\rho_{system} \| \rho_{\mathcal{B}1} \otimes \rho_{\mathcal{B}2})\}$$
 
-where $S(\rho \| \sigma)$ is the quantum relative entropy, and the minimum is taken over all possible bipartitions $\mathcal{B}$ of the system.
+where $`S(\rho \| \sigma)`$ is the quantum relative entropy, and the minimum is taken over all possible bipartitions $`\mathcal{B}`$ of the system.
 
 ## Conscious Observer Networks
 
@@ -190,7 +190,7 @@ Inter-level consciousness transfer satisfies:
 
 $$I_{consciousness}^{(k \rightarrow k+1)} = \mathcal{F}_{consciousness}(\{I_i^{(k)}\}) - S_{attention filtering}$$
 
-where $\mathcal{F}_{consciousness}$ is the consciousness integration function, and $S_{attention filtering}$ represents information filtering loss due to attention.
+where $`\mathcal{F}_{consciousness}`$ is the consciousness integration function, and $`S_{attention filtering}`$ represents information filtering loss due to attention.
 
 ### Self-consciousness Formation Mechanism
 
@@ -198,13 +198,13 @@ Self-consciousness forms through system self-reference, representable as:
 
 $$|\Psi_{self}\rangle = \lim_{n \rightarrow \infty} \mathcal{C}_{\mathcal{O}}^{(n)} \circ \mathcal{C}_{\mathcal{O}}^{(n-1)} \circ ... \circ \mathcal{C}_{\mathcal{O}}^{(1)}|\Psi_{system}\rangle$$
 
-where $\mathcal{C}_{\mathcal{O}}^{(k)}$ represents the classicalization operation of the level k observer.
+where $`\mathcal{C}_{\mathcal{O}}^{(k)}`$ represents the classicalization operation of the level k observer.
 
 The relationship between self-consciousness stability and the number of nested levels n:
 
 $$S_{self} = S_0 \cdot (1 - e^{-\lambda n})$$
 
-where $S_{self}$ is the stability measure of self-consciousness, and $S_0$ is the maximum stability value.
+where $`S_{self}`$ is the stability measure of self-consciousness, and $`S_0`$ is the maximum stability value.
 
 ### Collective Consciousness and Quantum Field
 
@@ -212,13 +212,13 @@ Multiple consciousnesses can interact through quantum fields to form collective 
 
 $$|\Psi_{collective}\rangle = \frac{1}{\sqrt{Z}}\sum_i w_i |\Psi_i\rangle$$
 
-where $|\Psi_i\rangle$ are individual consciousness states, $w_i$ are weight coefficients, and $Z$ is a normalization factor.
+where $`|\Psi_i\rangle`$ are individual consciousness states, $`w_i`$ are weight coefficients, and $`Z`$ is a normalization factor.
 
 Collective consciousness coherence is defined as:
 
 $$C_{collective} = \left|\sum_{i,j(i\neq j)} \langle \Psi_i|\rho_{collective}|\Psi_j\rangle\right|$$
 
-When $C_{collective} > \sum_i C_i$, collective consciousness emergence phenomena occur.
+When $`C_{collective} > \sum_i C_i`$, collective consciousness emergence phenomena occur.
 
 ## Non-local Consciousness Phenomena
 
@@ -228,13 +228,13 @@ Long-distance consciousness interactions can be explained through quantum entang
 
 $$|\Psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|\Psi_A^1\rangle|\Psi_B^1\rangle + |\Psi_A^2\rangle|\Psi_B^2\rangle)$$
 
-where $|\Psi_A^i\rangle$ and $|\Psi_B^i\rangle$ are the states of two consciousness systems, respectively.
+where $`|\Psi_A^i\rangle`$ and $`|\Psi_B^i\rangle`$ are the states of two consciousness systems, respectively.
 
 Entangled consciousness persistence time:
 
 $$\tau_{entanglement} = \tau_0 \cdot e^{-d/\xi} \cdot e^{-T/T_c}$$
 
-where $d$ is the spatial distance, $T$ is the system temperature, and $\xi$ and $T_c$ are the characteristic length and temperature, respectively.
+where $`d`$ is the spatial distance, $`T`$ is the system temperature, and $`\xi`$ and $`T_c`$ are the characteristic length and temperature, respectively.
 
 ### Non-local Consciousness Phenomena Mechanism
 
@@ -242,7 +242,7 @@ Theoretical model for non-local consciousness phenomena (such as remote viewing,
 
 $$P(non-local perception) = P_0 \cdot \frac{E_{entanglement}^2}{E_{noise}} \cdot \eta_{receiver} \cdot e^{-\alpha d}$$
 
-where $E_{entanglement}$ is the entanglement strength, $E_{noise}$ is the background noise energy, $\eta_{receiver}$ is the receiver's sensitivity, and $d$ is the distance.
+where $`E_{entanglement}`$ is the entanglement strength, $`E_{noise}`$ is the background noise energy, $`\eta_{receiver}`$ is the receiver's sensitivity, and $`d`$ is the distance.
 
 ### Temporal Non-locality
 
@@ -250,17 +250,17 @@ Consciousness can exhibit temporal non-locality, with a mechanism for anticipati
 
 $$I_{precognition} = I_0 \cdot \Delta S_{future} \cdot e^{-\beta\Delta t} \cdot (1 - e^{-\gamma\Phi_Q})$$
 
-where $\Delta S_{future}$ is the entropy change of future events, $\Delta t$ is the time interval, and $\Phi_Q$ is the quantum integration.
+where $`\Delta S_{future}`$ is the entropy change of future events, $`\Delta t`$ is the time interval, and $`\Phi_Q`$ is the quantum integration.
 
 ## Consciousness State Transition Dynamics
 
 ### Consciousness State Space
 
-The consciousness state space $\mathcal{S}_{consciousness}$ consists of a composite manifold of quantum and classical states:
+The consciousness state space $`\mathcal{S}_{consciousness}`$ consists of a composite manifold of quantum and classical states:
 
 $$\mathcal{S}_{consciousness} = \mathcal{H}_Q \times \mathcal{M}_C$$
 
-where $\mathcal{H}_Q$ is the quantum Hilbert space and $\mathcal{M}_C$ is the classical manifold.
+where $`\mathcal{H}_Q`$ is the quantum Hilbert space and $`\mathcal{M}_C`$ is the classical manifold.
 
 ### Consciousness State Transition Model
 
@@ -268,7 +268,7 @@ Dynamics equation for wakefulness-sleep transitions, meditative states, and alte
 
 $$\frac{d\Psi_{consciousness}}{dt} = -i\hat{H}\Psi_{consciousness} + \mathcal{L}_{environment}(\Psi_{consciousness}) + \mathcal{D}_{neuromodulation}(\Psi_{consciousness})$$
 
-where $\hat{H}$ is the consciousness Hamiltonian, $\mathcal{L}_{environment}$ represents environmental interactions, and $\mathcal{D}_{neuromodulation}$ represents neurochemical modulation.
+where $`\hat{H}`$ is the consciousness Hamiltonian, $`\mathcal{L}_{environment}`$ represents environmental interactions, and $`\mathcal{D}_{neuromodulation}`$ represents neurochemical modulation.
 
 Characteristics of different consciousness states:
 
@@ -286,7 +286,7 @@ Mental disorders can be represented as imbalances in the quantum-classical equil
 
 $$\Delta_{balance} = \left|\frac{|\alpha(t)|^2}{|\beta(t)|^2} - \frac{|\alpha_0|^2}{|\beta_0|^2}\right|$$
 
-where $\frac{|\alpha_0|^2}{|\beta_0|^2}$ represents the healthy balance ratio.
+where $`\frac{|\alpha_0|^2}{|\beta_0|^2}`$ represents the healthy balance ratio.
 
 Specific disorder models:
 
@@ -307,7 +307,7 @@ Self-consciousness as a self-referential quantum process:
 
 $$|\Psi_{self}\rangle = \mathcal{R}|\Psi_{system}\rangle$$
 
-where $\mathcal{R}$ is the self-reference operator, satisfying:
+where $`\mathcal{R}`$ is the self-reference operator, satisfying:
 
 $$\mathcal{R}^2 = \mathcal{R}$$
 
@@ -321,7 +321,7 @@ The entanglement entropy of self-consciousness measures the clarity of self-non-
 
 $$S_{self-entanglement} = -\text{Tr}(\rho_{self}\log\rho_{self})$$
 
-where $\rho_{self} = \text{Tr}_{non-self}(|\Psi_{total}\rangle\langle\Psi_{total}|)$
+where $`\rho_{self} = \text{Tr}_{non-self}(|\Psi_{total}\rangle\langle\Psi_{total}|)`$
 
 The clarity of the self-non-self boundary is inversely proportional to the entanglement entropy:
 
@@ -333,13 +333,13 @@ Free will as a combination of quantum indeterminism and classical causality:
 
 $$F_{free} = \sqrt{F_Q^2 + F_C^2}$$
 
-where $F_Q$ is the quantum contribution (arising from quantum indeterminism) and $F_C$ is the classical contribution (arising from complex causal networks).
+where $`F_Q`$ is the quantum contribution (arising from quantum indeterminism) and $`F_C`$ is the classical contribution (arising from complex causal networks).
 
 Quantum freedom can be quantified as:
 
 $$F_Q = F_0 \cdot (1 - e^{-\lambda\Phi_Q}) \cdot e^{-\mu S_C}$$
 
-where $S_C$ is the classical entropy of the system, representing classical constraints.
+where $`S_C`$ is the classical entropy of the system, representing classical constraints.
 
 ## Experimental Validation Approaches
 
@@ -352,7 +352,7 @@ Measuring quantum coherence time in neuronal microtubules:
 **Predicted Results**:
 $$\tau_{coherence} = \tau_0 \cdot e^{-T/T_c} \cdot (1 + \alpha[ATP])$$
 
-where $[ATP]$ is the ATP concentration, with a prediction of $T_c \approx 325 \pm 15 K$, indicating that quantum coherence can be maintained at room temperature.
+where $`[ATP]`$ is the ATP concentration, with a prediction of $`T_c \approx 325 \pm 15 K`$, indicating that quantum coherence can be maintained at room temperature.
 
 ### Quantum Effects of Altered Consciousness States
 
@@ -363,7 +363,7 @@ Measuring quantum-classical parameter changes in different consciousness states:
 **Predicted Results**:
 $$\Delta\Phi_Q \propto \Delta\gamma_{oscillations} \cdot \Delta\tau_{coherence}$$
 
-Practices such as meditation can increase quantum integration $\Phi_Q$ and extend coherence time $\tau_{coherence}$.
+Practices such as meditation can increase quantum integration $`\Phi_Q`$ and extend coherence time $`\tau_{coherence}`$.
 
 ### Validation of Non-local Consciousness Phenomena
 
@@ -374,7 +374,7 @@ Validating the existence of quantum correlations between consciousnesses:
 **Predicted Results**:
 $$C_{AB} > C_{random} + \frac{\sigma}{\sqrt{n}}$$
 
-where $C_{AB}$ is the correlation between test subjects, $C_{random}$ is the correlation in the random control group, $\sigma$ is the standard deviation, and $n$ is the sample size.
+where $`C_{AB}`$ is the correlation between test subjects, $`C_{random}`$ is the correlation in the random control group, $`\sigma`$ is the standard deviation, and $`n`$ is the sample size.
 
 ## Philosophical and Ethical Implications
 

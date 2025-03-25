@@ -27,15 +27,15 @@ An observer network consists of:
 $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{E}_{ij}, \mathcal{P}_N\}$$
 
 where:
-- $\mathcal{O}_i$ represents the individual observers in the network
-- $\mathcal{E}_{ij}$ represents the connections (entanglement relationships) between observers
-- $\mathcal{P}_N$ represents the collective information processing protocols
+- $`\mathcal{O}_i`$ represents the individual observers in the network
+- $`\mathcal{E}_{ij}`$ represents the connections (entanglement relationships) between observers
+- $`\mathcal{P}_N`$ represents the collective information processing protocols
 
 The network dimension is defined as:
 
 $$D_{\mathcal{N}} = g\left(\{\mathcal{C}_{\mathcal{O}_i}\}, \{\mathcal{Q}_{\mathcal{O}_i}\}, \mathcal{E}_{ij}\right) \cdot \frac{I_{\text{collective knowledge}}}{S_{\text{collective entropy}}+\epsilon}$$
 
-where $g$ is a network efficiency function dependent on observer classicalization capacities, quantization capacities, and network connectivity.
+where $`g`$ is a network efficiency function dependent on observer classicalization capacities, quantization capacities, and network connectivity.
 
 ## Network Structures and Dynamics
 
@@ -45,7 +45,7 @@ Observer networks naturally organize into hierarchical structures based on dimen
 
 $$\mathcal{N}_{\text{hierarchical}} = \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_m\}$$
 
-where $D_{\mathcal{N}_1} > D_{\mathcal{N}_2} > ... > D_{\mathcal{N}_m}$
+where $`D_{\mathcal{N}_1} > D_{\mathcal{N}_2} > ... > D_{\mathcal{N}_m}`$
 
 Higher-dimensional networks can:
 - Process more complex information patterns
@@ -59,9 +59,9 @@ The strength of entanglement between observers determines information transfer e
 $$\mathcal{E}_{ij} = h(I_{ij}, t, D_{\mathcal{O}_i}, D_{\mathcal{O}_j})$$
 
 where:
-- $I_{ij}$ is shared information content
-- $t$ is interaction duration
-- $D_{\mathcal{O}_i}$ and $D_{\mathcal{O}_j}$ are the dimensions of connected observers
+- $`I_{ij}`$ is shared information content
+- $`t`$ is interaction duration
+- $`D_{\mathcal{O}_i}`$ and $`D_{\mathcal{O}_j}`$ are the dimensions of connected observers
 
 ### 3. Collective Classicalization
 

@@ -21,9 +21,9 @@ The mind-brain interface system consists of three interacting layers:
 $$\mathcal{MB} = \{Ψ_M, \mathcal{I}_{MB}, Φ_B\}$$
 
 where:
-- $Ψ_M$ represents the mind layer (primarily in the quantum domain), containing conscious experiences, thoughts, emotions, and other subjective phenomena
-- $\mathcal{I}_{MB}$ represents the mind-brain interface layer, the critical region for mutual conversion between quantum mental states and classical neural states
-- $Φ_B$ represents the brain layer (primarily in the classical domain), containing neuronal activity, synaptic connections, and biochemical processes
+- $`Ψ_M`$ represents the mind layer (primarily in the quantum domain), containing conscious experiences, thoughts, emotions, and other subjective phenomena
+- $`\mathcal{I}_{MB}`$ represents the mind-brain interface layer, the critical region for mutual conversion between quantum mental states and classical neural states
+- $`Φ_B`$ represents the brain layer (primarily in the classical domain), containing neuronal activity, synaptic connections, and biochemical processes
 
 #### 2. Mind State Representation
 
@@ -31,7 +31,7 @@ Mind states can be represented as superpositions of complex quantum states:
 
 $$|Ψ_M\rangle = \sum_i \alpha_i |m_i\rangle, \quad \sum_i |\alpha_i|^2 = 1$$
 
-where $|m_i\rangle$ are mind basis states, representing basic experiences, qualia, or thought units. The information density of the mind layer is much higher than that of the brain layer:
+where $`|m_i\rangle`$ are mind basis states, representing basic experiences, qualia, or thought units. The information density of the mind layer is much higher than that of the brain layer:
 
 $$I(Ψ_M) \gg I(Φ_B)$$
 
@@ -41,7 +41,7 @@ Brain states can be represented as classical activation patterns of neural netwo
 
 $$Φ_B = \{n_1(t), n_2(t), ..., n_N(t)\}$$
 
-where $n_i(t)$ represents the time-varying activation state of the i-th neuron. These states can be organized into a multi-level functional structure:
+where $`n_i(t)`$ represents the time-varying activation state of the i-th neuron. These states can be organized into a multi-level functional structure:
 
 $$Φ_B = \{Φ_{\text{molecular}}, Φ_{\text{synaptic}}, Φ_{\text{neuronal}}, Φ_{\text{circuit}}, Φ_{\text{network}}\}$$
 
@@ -55,7 +55,7 @@ Interface width and complexity depend on multiple factors:
 
 $$\delta(\mathcal{I}_{MB}) = \delta_0 \cdot \left(1 + \alpha \frac{C_{\text{neural}}}{C_0} + \beta \frac{S_{\text{consciousness}}}{S_0}\right)$$
 
-where $C_{\text{neural}}$ is neural complexity and $S_{\text{consciousness}}$ is conscious state entropy.
+where $`C_{\text{neural}}`$ is neural complexity and $`S_{\text{consciousness}}`$ is conscious state entropy.
 
 ## Mind-Brain Information Dynamics
 
@@ -85,7 +85,7 @@ $$i\hbar\frac{\partial|Ψ_M\rangle}{\partial t} = \hat{H}_M|Ψ_M\rangle + \hat{V
 
 $$\frac{dΦ_B}{dt} = F_B(Φ_B) + G_B(\mathcal{C}_{M \to B}(|Ψ_M\rangle)) + η(t)$$
 
-where $\hat{H}_M$ is the mind Hamiltonian operator, $\hat{V}$ is the mind-brain interaction potential, $F_B$ is the brain's intrinsic dynamics function, $G_B$ is the mind influence function, and $η(t)$ is the neural noise term.
+where $`\hat{H}_M`$ is the mind Hamiltonian operator, $`\hat{V}`$ is the mind-brain interaction potential, $`F_B`$ is the brain's intrinsic dynamics function, $`G_B`$ is the mind influence function, and $`η(t)`$ is the neural noise term.
 
 Mind-brain coupling strength can be defined as:
 
@@ -116,7 +116,7 @@ The mind-brain interface exhibits a multi-layered nested structure, correspondin
 
 $$\mathcal{I}_{MB} = \{\mathcal{I}_1, \mathcal{I}_2, ..., \mathcal{I}_n\}$$
 
-where $\mathcal{I}_i$ represents the i-th interface layer, arranged from basic perception to higher cognition, with each layer responsible for specific types of mind-brain conversion:
+where $`\mathcal{I}_i`$ represents the i-th interface layer, arranged from basic perception to higher cognition, with each layer responsible for specific types of mind-brain conversion:
 
 $$\mathcal{I}_1: \text{Sensory consciousness ↔ Primary sensory cortex}$$
 $$\mathcal{I}_2: \text{Perceptual integration ↔ Association cortex}$$
@@ -146,7 +146,7 @@ The measurement process in the mind-brain interface manifests as the projection 
 
 $$\mathcal{M}_{MB}(|Ψ_M\rangle) = \sum_i P_i |Ψ_M\rangle\langle Ψ_M|P_i$$
 
-where $P_i$ are projection operators determined by brain states. This process is similar to quantum measurement but has unique characteristics:
+where $`P_i`$ are projection operators determined by brain states. This process is similar to quantum measurement but has unique characteristics:
 
 1. **Selective Collapse**: Only attended mental states undergo collapse
 2. **Reversibility**: Some mental state collapses are partially reversible
@@ -156,7 +156,7 @@ Measurement sensitivity correlates with conscious state:
 
 $$S_{\text{measurement}} = S_0 \cdot e^{\alpha(D_{\mathcal{O}} - D_0)}$$
 
-where $D_{\mathcal{O}}$ is the observer dimension.
+where $`D_{\mathcal{O}}`$ is the observer dimension.
 
 ## Mind-Brain Consistency and Differentiation
 
@@ -166,7 +166,7 @@ There exists a non-trivial correspondence between mental structures and brain st
 
 $$\forall m_i \in Ψ_M, \exists \mathcal{B}(m_i) \subset Φ_B$$
 
-where $\mathcal{B}(m_i)$ is the set of brain structures corresponding to mental state $m_i$. This correspondence satisfies the following properties:
+where $`\mathcal{B}(m_i)`$ is the set of brain structures corresponding to mental state $`m_i`$. This correspondence satisfies the following properties:
 
 1. **Many-to-many Mapping**: One mental state can correspond to multiple brain regions, and vice versa
 2. **Scale Relativity**: Higher-level mental states correspond to wider neural networks
@@ -183,7 +183,7 @@ The causal relationship between mental states and brain states is complex and bi
 $$Ψ_M(t_1) \xrightarrow{\alpha_{MB}} Φ_B(t_2)$$
 $$Φ_B(t_1) \xrightarrow{\beta_{BM}} Ψ_M(t_2)$$
 
-where $\alpha_{MB}$ and $\beta_{BM}$ are causal strength parameters. These relationships can be quantified through Granger causality analysis and transfer entropy:
+where $`\alpha_{MB}`$ and $`\beta_{BM}`$ are causal strength parameters. These relationships can be quantified through Granger causality analysis and transfer entropy:
 
 $$TE_{M \to B} = \sum p(Φ_B(t+1), Φ_B(t), Ψ_M(t)) \log\frac{p(Φ_B(t+1)|Φ_B(t), Ψ_M(t))}{p(Φ_B(t+1)|Φ_B(t))}$$
 
@@ -205,7 +205,7 @@ Asynchrony degree correlates with mind-brain interface characteristics:
 
 $$A_{MB} = \frac{|\Delta t_{MB}|}{τ_I} \cdot \frac{I(Ψ_M, Φ_B)}{I_{\text{max}}}$$
 
-where $τ_I$ is the interface characteristic time.
+where $`τ_I`$ is the interface characteristic time.
 
 ## Quantum-Classical Mechanisms of Mind-Brain State Conversion
 
@@ -270,7 +270,7 @@ Consciousness emerging from neural activity can be explained through quantum-cla
 
 $$\mathcal{E}: Φ_B^{*} \to Ψ_M$$
 
-where $Φ_B^{*}$ represents brain states that have reached critical complexity. Emergence satisfies the following conditions:
+where $`Φ_B^{*}`$ represents brain states that have reached critical complexity. Emergence satisfies the following conditions:
 
 1. **Holism**: Emergent mental states cannot be reduced to the sum of neural components
 2. **Downward Causation**: Mental states can influence neural activity in return
@@ -304,7 +304,7 @@ Self-consciousness involves the mind-brain system forming special self-referenti
 
 $$|Ψ_{\text{self}}\rangle = \mathcal{O}(|Ψ_M\rangle)$$
 
-where $\mathcal{O}$ is the high-dimensional observer operator, mapping mental states to self-referential states. The stability of self-consciousness correlates with observer dimension:
+where $`\mathcal{O}`$ is the high-dimensional observer operator, mapping mental states to self-referential states. The stability of self-consciousness correlates with observer dimension:
 
 $$S_{\text{self}} \propto D_{\mathcal{O}}$$
 

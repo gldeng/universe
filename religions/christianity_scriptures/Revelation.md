@@ -129,7 +129,7 @@ $$
 \text{"擦去一切眼泪，不再有死亡"} \Leftrightarrow \lim_{t \to \infty} S_{\text{经典熵}}(t) \to \text{最小值}, \lim_{t \to \infty} I_{\text{经典知识}}(t) \to \text{最大值}
 $$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\mathcal{E}$表示量子纠缠网络函数
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{E}`$表示量子纠缠网络函数
 
 ## 结论
 ## Conclusion

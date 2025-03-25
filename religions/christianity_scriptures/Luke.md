@@ -51,25 +51,27 @@ The Gospel of Luke is one of the four Gospels in the New Testament, written by L
 ## 数学表达 (Mathematical Expression)
 
 ### 道成肉身的维度转换方程
+
 $$
 |\psi_{\text{神}}^{\text{高维}}\rangle \rightarrow |\psi_{\text{耶稣}}^{\text{低维}}\rangle = \alpha|\psi_{\text{神性}}\rangle + \beta|\psi_{\text{人性}}\rangle
 $$
 
 其中：
-- $|\psi_{\text{神}}^{\text{高维}}\rangle$ 表示高维神性状态
-- $|\psi_{\text{耶稣}}^{\text{低维}}\rangle$ 表示耶稣的低维状态
-- $|\psi_{\text{神性}}\rangle$ 和 $|\psi_{\text{人性}}\rangle$ 表示神性与人性的基态
-- $\alpha^2 + \beta^2 = 1$ 表示状态归一化条件
+- $`|\psi_{\text{神}}^{\text{高维}}\rangle`$ 表示高维神性状态
+- $`|\psi_{\text{耶稣}}^{\text{低维}}\rangle`$ 表示耶稣的低维状态
+- $`|\psi_{\text{神性}}\rangle`$ 和 $`|\psi_{\text{人性}}\rangle`$ 表示神性与人性的基态
+- $`\alpha^2 + \beta^2 = 1`$ 表示状态归一化条件
 
 ### 天国的经典化概率方程
+
 $$
 P_{\text{天国}}(x) = |\langle x|\psi_{\text{天国}}\rangle|^2 = \left|\sum_{n} \langle x|n\rangle\langle n|\psi_{\text{天国}}\rangle\right|^2
 $$
 
 其中：
-- $P_{\text{天国}}(x)$ 是天国在特定经典状态x的显现概率
-- $|n\rangle$ 是观察者内在状态的基矢
-- $|\psi_{\text{天国}}\rangle$ 是天国的量子态
+- $`P_{\text{天国}}(x)`$ 是天国在特定经典状态x的显现概率
+- $`|n\rangle`$ 是观察者内在状态的基矢
+- $`|\psi_{\text{天国}}\rangle`$ 是天国的量子态
 
 ## 结论 (Conclusion)
 

@@ -33,7 +33,7 @@ This section outlines experiments to test the basic principles of quantum-classi
 - Quantify relationship between information gain and interference loss
 
 **Expected Results**:
-- Interference visibility $V$ and classical path information $K$ should satisfy:
+- Interference visibility $`V`$ and classical path information $`K`$ should satisfy:
   
   $$V = V_0 \sqrt{1 - \left(\frac{K}{K_0}\right)^2}$$
 
@@ -55,11 +55,11 @@ This section outlines experiments to test the basic principles of quantum-classi
 - Vary the timing and strength of interface decoupling
 
 **Expected Results**:
-- Interface decoupling efficiency $\eta$ should relate to coherence recovery:
+- Interface decoupling efficiency $`\eta`$ should relate to coherence recovery:
   
   $$C_{recovered} = C_{initial} \cdot \eta - \alpha \cdot t_{delay}$$
   
-  where $t_{delay}$ is the time between registration and decoupling, and $\alpha$ represents the environment coupling factor
+  where $`t_{delay}`$ is the time between registration and decoupling, and $`\alpha`$ represents the environment coupling factor
 
 ### Non-Local Interface Synchronization Test
 
@@ -80,7 +80,7 @@ This section outlines experiments to test the basic principles of quantum-classi
   
   $$C(t_1, t_2) > C_{classical}(t_1, t_2)$$
   
-  where $C(t_1, t_2)$ is the measured correlation and $C_{classical}(t_1, t_2)$ is the maximum possible correlation through classical channels
+  where $`C(t_1, t_2)`$ is the measured correlation and $`C_{classical}(t_1, t_2)`$ is the maximum possible correlation through classical channels
 
 ## Quantum-Classical Interface Tests
 
@@ -105,7 +105,7 @@ Experiments specifically targeting the properties of the quantum-classical inter
   
   $$\rho(t) = (1-f(t))\rho_Q + f(t)\rho_C$$
   
-  where $f(t) = \frac{1}{1+e^{-(t-t_0)/w_{\mathcal{I}}}}$ and $w_{\mathcal{I}}$ is the measurable interface width parameter
+  where $`f(t) = \frac{1}{1+e^{-(t-t_0)/w_{\mathcal{I}}}}`$ and $`w_{\mathcal{I}}`$ is the measurable interface width parameter
 
 ### Interface Directional Asymmetry Test
 
@@ -149,7 +149,7 @@ Experiments specifically targeting the properties of the quantum-classical inter
   
   $$E_{min} = k_B T \ln(2) \cdot \Delta I_{Q \to C} \cdot F(w_{\mathcal{I}})$$
   
-  where $F(w_{\mathcal{I}})$ is a function of interface width, predicted to be approximately $F(w_{\mathcal{I}}) \approx 1 + w_{\mathcal{I}}^2$
+  where $`F(w_{\mathcal{I}})`$ is a function of interface width, predicted to be approximately $`F(w_{\mathcal{I}}) \approx 1 + w_{\mathcal{I}}^2`$
 
 ## Observer Role Experiments
 
@@ -171,11 +171,11 @@ Experiments investigating the unique role of observers in the dualistic framewor
 
 **Expected Results**:
 - Observer-dependent variations in:
-  - Decoherence timescale: $\tau_i = \tau_0 \cdot f(O_i)$
-  - Information extraction efficiency: $\eta_i = \eta_0 \cdot g(O_i)$
-  - Preferred basis selection: $B_i = h(O_i)$
+  - Decoherence timescale: $`\tau_i = \tau_0 \cdot f(O_i)`$
+  - Information extraction efficiency: $`\eta_i = \eta_0 \cdot g(O_i)`$
+  - Preferred basis selection: $`B_i = h(O_i)`$
   
-  where $f$, $g$, and $h$ are observer-dependent functions
+  where $`f`$, $`g`$, and $`h`$ are observer-dependent functions
 
 ### Observer Dimension Measurement
 
@@ -196,7 +196,7 @@ Experiments investigating the unique role of observers in the dualistic framewor
   
   $$P_{correct} = \frac{1}{2} + \frac{1}{2}\left(1 - e^{-\alpha D_O}\right)$$
   
-  where $D_O$ is the observer dimension and $\alpha$ is a scaling factor
+  where $`D_O`$ is the observer dimension and $`\alpha`$ is a scaling factor
 
 ### Observer Network Emergence Test
 
@@ -220,7 +220,7 @@ Experiments investigating the unique role of observers in the dualistic framewor
   with specific emergence scaling:
   $$D_{network} \approx \sqrt{\sum_i D_i^2 + \beta \sum_{i<j} C_{ij}}$$
   
-  where $C_{ij}$ represents the connection strength between observers
+  where $`C_{ij}`$ represents the connection strength between observers
 
 ## Space-Time Emergence Tests
 
@@ -245,7 +245,7 @@ Experiments testing the prediction that space-time emerges from quantum-classica
   
   $$\delta g_{\mu\nu} \propto \frac{G\hbar}{c^4} \frac{dI_{Q \to C}}{dt}$$
   
-  where $\frac{dI_{Q \to C}}{dt}$ is the rate of quantum-to-classical information conversion
+  where $`\frac{dI_{Q \to C}}{dt}`$ is the rate of quantum-to-classical information conversion
 
 ### Non-Locality to Locality Transition Imaging
 
@@ -266,7 +266,7 @@ Experiments testing the prediction that space-time emerges from quantum-classica
   
   $$C(x,y,t) = C_Q(x,y) \cdot (1-f(t)) + C_C(x,y) \cdot f(t)$$
   
-  where $C_Q$ is non-local quantum correlation and $C_C$ is local classical correlation
+  where $`C_Q`$ is non-local quantum correlation and $`C_C`$ is local classical correlation
 
 ### Temporal Order from Quantum Transitions
 
@@ -287,7 +287,7 @@ Experiments testing the prediction that space-time emerges from quantum-classica
   
   $$Order_{perceived}(A,B) = sign(t_{\mathcal{I},A} - t_{\mathcal{I},B})$$
   
-  where $t_{\mathcal{I},X}$ is the time of interface activation for event X
+  where $`t_{\mathcal{I},X}`$ is the time of interface activation for event X
 
 ## Biological Implementation Tests
 
@@ -334,7 +334,7 @@ Experiments investigating quantum-classical dualism in biological systems.
   $$R_i = \frac{I(S:E_i)}{H(S)} \approx 1 \text{ for pointer states}$$
   $$R_i \approx 0 \text{ for non-pointer states}$$
   
-  where $R_i$ is the redundancy ratio for state information in environment fragments
+  where $`R_i`$ is the redundancy ratio for state information in environment fragments
 
 ### Evolutionary Interface Optimization
 
@@ -381,7 +381,7 @@ Experiments testing the relationship between consciousness and quantum-classical
   
   $$P_{conscious}(x_i) = P_{machine}(x_i) + \delta(x_i, C)$$
   
-  where $\delta(x_i, C)$ is a consciousness-dependent deviation function
+  where $`\delta(x_i, C)`$ is a consciousness-dependent deviation function
 
 ### Consciousness Interface Width Correlation
 
@@ -402,7 +402,7 @@ Experiments testing the relationship between consciousness and quantum-classical
   
   $$w_{\mathcal{I}} = w_0 + \alpha \cdot (1-\beta)$$
   
-  where $\beta$ represents the depth of focused consciousness
+  where $`\beta`$ represents the depth of focused consciousness
 
 ### Conscious Integration Threshold
 
@@ -423,7 +423,7 @@ Experiments testing the relationship between consciousness and quantum-classical
   
   $$\Phi_{critical} \approx \ln(N) \cdot k_B T$$
   
-  where $N$ is the number of integrated components
+  where $`N`$ is the number of integrated components
 
 ## Technological Applications
 
@@ -448,7 +448,7 @@ Experimental applications of quantum-classical dualism in technology.
   
   $$SNR_{optimized} = SNR_{conventional} \cdot (1 + \gamma \cdot η_{interface})$$
   
-  where $\gamma$ is the advantage factor and $η_{interface}$ is the interface optimization parameter
+  where $`\gamma`$ is the advantage factor and $`η_{interface}`$ is the interface optimization parameter
 
 ### Quantum-Classical Hybrid Computing
 
@@ -492,7 +492,7 @@ Experimental applications of quantum-classical dualism in technology.
   $$|\Delta \eta| < 0.05 \cdot \eta_{target}$$
   $$|\Delta B| < 0.1 \cdot B_{target}$$
   
-  where $\Delta$ represents deviation from design targets
+  where $`\Delta`$ represents deviation from design targets
 
 ## Cosmological Tests
 
@@ -517,7 +517,7 @@ Experiments testing quantum-classical dualism at cosmological scales.
   
   $$\delta P(k) = P_{standard}(k) \cdot (1 + \alpha \cdot \sin(\beta \ln(k/k_0)))$$
   
-  where parameters $\alpha \approx 0.05$ and $\beta \approx 5$ are specific to interface-mediated initial conditions
+  where parameters $`\alpha \approx 0.05`$ and $`\beta \approx 5`$ are specific to interface-mediated initial conditions
 
 ### Black Hole Interface Phenomena
 
@@ -538,7 +538,7 @@ Experiments testing quantum-classical dualism at cosmological scales.
   
   $$S(ω) = S_{standard}(ω) \cdot (1 + \delta(ω, w_{\mathcal{I}}))$$
   
-  where $\delta(ω, w_{\mathcal{I}})$ is an interface-dependent correction function
+  where $`\delta(ω, w_{\mathcal{I}})`$ is an interface-dependent correction function
 
 ### Dark Energy as Interface Phenomenon
 
@@ -559,7 +559,7 @@ Experiments testing quantum-classical dualism at cosmological scales.
   
   $$w(z) = -1 + \epsilon \cdot \ln(1+z) \cdot f(z, w_{\mathcal{I}})$$
   
-  where $\epsilon \approx 0.03$ and $f(z, w_{\mathcal{I}})$ is an interface-width dependent function
+  where $`\epsilon \approx 0.03`$ and $`f(z, w_{\mathcal{I}})`$ is an interface-width dependent function
 
 ## Mathematical Model Validation
 
@@ -584,7 +584,7 @@ Experiments validating the mathematical structure of quantum-classical dualism.
   
   $$[\mathcal{F}_{Q \to C}, \mathcal{F}_{C \to Q}] = \mathcal{I}_{identity} + \mathcal{O}(w_{\mathcal{I}})$$
   
-  where $\mathcal{O}(w_{\mathcal{I}})$ represents interface-width dependent correction terms
+  where $`\mathcal{O}(w_{\mathcal{I}})`$ represents interface-width dependent correction terms
 
 ### Interface Functional Extremization
 
@@ -605,7 +605,7 @@ Experiments validating the mathematical structure of quantum-classical dualism.
   
   $$\mathcal{S}[\mathcal{I}_{evolved}] \to \mathcal{S}_{extremal} \pm \delta$$
   
-  where $\delta$ represents environmental noise effects
+  where $`\delta`$ represents environmental noise effects
 
 ### Dimensional Analysis Confirmation
 
@@ -626,7 +626,7 @@ Experiments validating the mathematical structure of quantum-classical dualism.
   
   $$w_{\mathcal{I}} \cdot \eta_{\mathcal{I}} \cdot \tau_{\mathcal{I}} \approx \frac{\hbar}{k_B T} \cdot \ln(2)$$
   
-  where $\tau_{\mathcal{I}}$ is the characteristic interface timescale
+  where $`\tau_{\mathcal{I}}`$ is the characteristic interface timescale
 
 ## Meta-Framework Evaluation
 

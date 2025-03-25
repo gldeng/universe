@@ -22,7 +22,7 @@
 
 $$\mathcal{M} = \{\Phi_Q, \Phi_C, \mathcal{T}\}$$
 
-其中 $\Phi_Q$ 表示模型的量子态空间（可能性状态集合），$\Phi_C$ 表示模型的经典态空间（确定性预测集合），$\mathcal{T}$ 表示量子-经典转换算符。
+其中 $`\Phi_Q`$ 表示模型的量子态空间（可能性状态集合），$`\Phi_C`$ 表示模型的经典态空间（确定性预测集合），$`\mathcal{T}`$ 表示量子-经典转换算符。
 
 ### 气候系统不确定性原理
 
@@ -30,7 +30,7 @@ $$\mathcal{M} = \{\Phi_Q, \Phi_C, \mathcal{T}\}$$
 
 $$\Delta P \cdot \Delta T \geq \frac{h_{\text{气候}}}{2}$$
 
-其中 $\Delta P$ 是预测精度的不确定性，$\Delta T$ 是时间尺度的不确定性，$h_{\text{气候}}$ 是气候系统的特征常数。
+其中 $`\Delta P`$ 是预测精度的不确定性，$`\Delta T`$ 是时间尺度的不确定性，$`h_{\text{气候}}`$ 是气候系统的特征常数。
 
 ### 气候信息保存原理
 
@@ -48,19 +48,19 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$|\Psi_{\text{气候}}\rangle = \sum_i c_i |\phi_i\rangle$$
 
-   其中 $|\phi_i\rangle$ 是可能的气候状态基矢，$c_i$ 是对应的振幅。
+   其中 $`|\phi_i\rangle`$ 是可能的气候状态基矢，$`c_i`$ 是对应的振幅。
 
 2. **不确定性编码**：量子气候模型可以自然编码预测的不确定性：
 
    $$P(\phi_i) = |c_i|^2$$
 
-   表示系统处于特定气候状态 $\phi_i$ 的概率。
+   表示系统处于特定气候状态 $`\phi_i`$ 的概率。
 
 3. **量子集合预报**：通过量子态叠加实现多情景预测：
 
    $$|\Psi_{\text{预报}}\rangle = \hat{U}(t)|\Psi_{\text{初始}}\rangle$$
 
-   其中 $\hat{U}(t)$ 是气候系统演化算符。
+   其中 $`\hat{U}(t)`$ 是气候系统演化算符。
 
 ### 经典气候模型框架
 
@@ -70,19 +70,19 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$\frac{d\vec{X}}{dt} = \vec{F}(\vec{X}, t)$$
 
-   其中 $\vec{X}$ 是气候状态向量，$\vec{F}$ 是基于物理规律的力函数。
+   其中 $`\vec{X}`$ 是气候状态向量，$`\vec{F}`$ 是基于物理规律的力函数。
 
 2. **参数化过程**：将复杂过程简化为确定性参数：
 
    $$P_i = f_i(\vec{X}, \alpha_i)$$
 
-   其中 $P_i$ 是参数化过程（如云形成），$\alpha_i$ 是参数集。
+   其中 $`P_i`$ 是参数化过程（如云形成），$`\alpha_i`$ 是参数集。
 
 3. **初始条件敏感性**：经典模型对初始条件高度敏感：
 
    $$||\delta\vec{X}(t)|| \approx ||\delta\vec{X}_0|| e^{\lambda t}$$
 
-   其中 $\lambda$ 是系统的最大李雅普诺夫指数。
+   其中 $`\lambda`$ 是系统的最大李雅普诺夫指数。
 
 ## 量子-经典气候模型的统一
 
@@ -106,7 +106,7 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$|\Psi(t+\Delta t)\rangle = \hat{U}_Q \circ \mathcal{Q} \circ \hat{U}_C \circ \mathcal{C} |\Psi(t)\rangle$$
 
-   其中 $\hat{U}_Q$ 和 $\hat{U}_C$ 分别是量子和经典演化算符。
+   其中 $`\hat{U}_Q`$ 和 $`\hat{U}_C`$ 分别是量子和经典演化算符。
 
 ### 尺度转换与涌现特性
 
@@ -134,25 +134,25 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$\Delta\vec{X}_0 \sim \mathcal{N}(0, \Sigma_0)$$
 
-   其中 $\Sigma_0$ 是初始状态协方差矩阵。
+   其中 $`\Sigma_0`$ 是初始状态协方差矩阵。
 
 2. **模型结构不确定性**：
 
    $$\vec{F}_{\text{真实}} = \vec{F}_{\text{模型}} + \vec{\epsilon}_{\text{结构}}$$
 
-   其中 $\vec{\epsilon}_{\text{结构}}$ 是结构误差向量。
+   其中 $`\vec{\epsilon}_{\text{结构}}`$ 是结构误差向量。
 
 3. **参数不确定性**：
 
    $$\vec{\alpha} \sim p(\vec{\alpha})$$
 
-   其中 $p(\vec{\alpha})$ 是参数先验分布。
+   其中 $`p(\vec{\alpha})`$ 是参数先验分布。
 
 4. **边界条件不确定性**：
 
    $$\partial\Omega \sim p(\partial\Omega)$$
 
-   其中 $p(\partial\Omega)$ 是边界条件分布。
+   其中 $`p(\partial\Omega)`$ 是边界条件分布。
 
 ### 复杂性与可计算性
 
@@ -162,7 +162,7 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$C_{\text{总}} = C_Q + C_C \leq C_{\text{可行}}$$
 
-   其中 $C_Q$ 和 $C_C$ 分别是量子和经典计算部分的复杂度。
+   其中 $`C_Q`$ 和 $`C_C`$ 分别是量子和经典计算部分的复杂度。
 
 2. **精度-成本权衡**：
 
@@ -174,7 +174,7 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$S_{\text{量子}} = \frac{T_{\text{经典}}}{T_{\text{量子}}} \sim O\left(2^n\right)$$
 
-   其中 $S_{\text{量子}}$ 是量子计算的潜在加速比，$n$ 是问题的有效维度。
+   其中 $`S_{\text{量子}}`$ 是量子计算的潜在加速比，$`n`$ 是问题的有效维度。
 
 ## 实际气候模型实现
 
@@ -192,7 +192,7 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$P_i = (1-\gamma)f_{\text{经典}}(\vec{X}, \vec{\alpha}) + \gamma f_{\text{量子}}(\vec{X}, \vec{\beta})$$
 
-   其中 $\gamma$ 是混合系数，随尺度和不确定性变化。
+   其中 $`\gamma`$ 是混合系数，随尺度和不确定性变化。
 
 3. **适应性量子-经典转换**：
 
@@ -208,7 +208,7 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$\text{总体技巧} = w_C \cdot \text{经典技巧} + w_Q \cdot \text{量子技巧}$$
 
-   其中 $w_C$ 和 $w_Q$ 是权重系数。
+   其中 $`w_C`$ 和 $`w_Q`$ 是权重系数。
 
 2. **相位空间验证**：评估模型在可能性空间中的表现：
 
@@ -220,7 +220,7 @@ $$I_{\text{总}}(\mathcal{M}) = I_{\text{经典}}(\mathcal{M}) + I_{\text{量子
 
    $$\vec{\alpha}^* = \arg\min_{\vec{\alpha}} L(p_{\text{观测}}, p_{\text{模型}}(\vec{\alpha}))$$
 
-   其中 $L$ 是适当的损失函数。
+   其中 $`L`$ 是适当的损失函数。
 
 ## 气候预测与决策支持
 

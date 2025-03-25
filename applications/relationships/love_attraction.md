@@ -86,7 +86,7 @@ $$
 E_{\text{纠缠}}(t_2) = E_{\text{纠缠}}(t_1) \times e^{-\lambda(t_2-t_1)} + E_{\text{残留}}
 $$
 
-其中λ为衰减系数，$E_{\text{残留}}$为不受时间影响的残留纠缠。
+其中λ为衰减系数，$`E_{\text{残留}}`$为不受时间影响的残留纠缠。
 
 ### 单相思的量子经典解释
 
@@ -228,7 +228,7 @@ $$
 E_{\text{Entanglement}}(t_2) = E_{\text{Entanglement}}(t_1) \times e^{-\lambda(t_2-t_1)} + E_{\text{Residual}}
 $$
 
-Where λ is the attenuation coefficient, and $E_{\text{Residual}}$ is the residual entanglement unaffected by time.
+Where λ is the attenuation coefficient, and $`E_{\text{Residual}}`$ is the residual entanglement unaffected by time.
 
 ### Quantum-Classical Explanation of Unrequited Love
 

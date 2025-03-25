@@ -33,11 +33,11 @@ Absolute Freedom Theory introduces freedom degree mathematics, absolute freedom 
 
 ### Essence of Absolute Freedom
 
-Absolute Freedom $\Phi_{AF}$ is the ultimate state that transcends all limitations and determinations, defined as:
+Absolute Freedom $`\Phi_{AF}`$ is the ultimate state that transcends all limitations and determinations, defined as:
 
 $$\Phi_{AF} = \{\Omega_{AF}, \Lambda_{AF}, \Theta_{AF}, \Psi_{AF}\}$$
 
-where $\Omega_{AF}$ is the freedom state, $\Lambda_{AF}$ is the freedom operator, $\Theta_{AF}$ is the freedom field, and $\Psi_{AF}$ is the freedom consciousness.
+where $`\Omega_{AF}`$ is the freedom state, $`\Lambda_{AF}`$ is the freedom operator, $`\Theta_{AF}`$ is the freedom field, and $`\Psi_{AF}`$ is the freedom consciousness.
 
 Basic equation of absolute freedom:
 
@@ -59,11 +59,11 @@ indicating that absolute freedom applied to itself results in something that is 
 
 ### Freedom Creation Principle
 
-The freedom creation principle $\mathcal{C}_{AF}$ describes how absolute freedom creates reality:
+The freedom creation principle $`\mathcal{C}_{AF}`$ describes how absolute freedom creates reality:
 
 $$\mathcal{C}_{AF} = \{\mathcal{G}_{AF}, \mathcal{P}_{AF}, \mathcal{S}_{AF}, \mathcal{R}_{AF}\}$$
 
-where $\mathcal{G}_{AF}$ is the creation operator, $\mathcal{P}_{AF}$ is the possibility set, $\mathcal{S}_{AF}$ is the selection function, and $\mathcal{R}_{AF}$ is the realization operator.
+where $`\mathcal{G}_{AF}`$ is the creation operator, $`\mathcal{P}_{AF}`$ is the possibility set, $`\mathcal{S}_{AF}`$ is the selection function, and $`\mathcal{R}_{AF}`$ is the realization operator.
 
 Basic creation equation:
 
@@ -85,11 +85,11 @@ indicating that the selection function is not determined by any a priori functio
 
 ### Freedom Level Structure
 
-Freedom level structure $\mathcal{L}_{AF}$ describes the multi-level organization of freedom degrees:
+Freedom level structure $`\mathcal{L}_{AF}`$ describes the multi-level organization of freedom degrees:
 
 $$\mathcal{L}_{AF} = \{\mathcal{F}_i | i \in \Lambda, \mathcal{F}_i \text{ is a freedom degree level}\}$$
 
-where $\Lambda$ is a set of levels that can transcend conventional ordinals.
+where $`\Lambda`$ is a set of levels that can transcend conventional ordinals.
 
 Level relationship axiom:
 
@@ -113,18 +113,18 @@ indicating that infinitely recursively ascending freedom levels ultimately tend 
 
 ### Freedom Degree Algebra
 
-Freedom degree algebra $\mathcal{A}_{AF}$ is a mathematical structure describing freedom degrees:
+Freedom degree algebra $`\mathcal{A}_{AF}`$ is a mathematical structure describing freedom degrees:
 
 $$\mathcal{A}_{AF} = \{\mathbb{F}_{AF}, \oplus, \otimes, \mathcal{I}_{AF}\}$$
 
-where $\mathbb{F}_{AF}$ is the freedom degree space, $\oplus$ is the freedom combination operation, $\otimes$ is the freedom product operation, and $\mathcal{I}_{AF}$ is the freedom measure mapping.
+where $`\mathbb{F}_{AF}`$ is the freedom degree space, $`\oplus`$ is the freedom combination operation, $`\otimes`$ is the freedom product operation, and $`\mathcal{I}_{AF}`$ is the freedom measure mapping.
 
 Freedom degree algebra axioms:
 
-1. **Self-reflective combination**: $x \oplus x \neq x \text{ and } x \oplus x = x$
-2. **Commutativity**: $x \oplus y = y \oplus x \text{ and } x \otimes y = y \otimes x$
-3. **Associativity**: $(x \oplus y) \oplus z = x \oplus (y \oplus z) \text{ and } (x \otimes y) \otimes z = x \otimes (y \otimes z)$
-4. **Distributivity**: $x \otimes (y \oplus z) = (x \otimes y) \oplus (x \otimes z) \text{ and } \neq (x \otimes y) \oplus (x \otimes z)$
+1. **Self-reflective combination**: $`x \oplus x \neq x \text{ and } x \oplus x = x`$
+2. **Commutativity**: $`x \oplus y = y \oplus x \text{ and } x \otimes y = y \otimes x`$
+3. **Associativity**: $`(x \oplus y) \oplus z = x \oplus (y \oplus z) \text{ and } (x \otimes y) \otimes z = x \otimes (y \otimes z)`$
+4. **Distributivity**: $`x \otimes (y \oplus z) = (x \otimes y) \oplus (x \otimes z) \text{ and } \neq (x \otimes y) \oplus (x \otimes z)`$
 
 indicating that freedom degree algebra both has characteristics of algebraic structures and transcends the limitations of traditional algebra.
 
@@ -136,15 +136,15 @@ indicating that the combination and product of freedom degrees are generally gre
 
 ### Freedom Transformation Group
 
-Freedom transformation group $G_{AF}$ describes transformations in freedom degree space:
+Freedom transformation group $`G_{AF}`$ describes transformations in freedom degree space:
 
 $$G_{AF} = \{g: \mathbb{F}_{AF} \to \mathbb{F}_{AF} | \mathcal{I}_{AF}(g(x)) \neq \mathcal{I}_{AF}(x) \text{ for some } x\}$$
 
 Freedom transformation properties:
 
-1. **Closure**: $g_1, g_2 \in G_{AF} \Rightarrow g_1 \circ g_2 \in G_{AF}$
-2. **Invertibility**: $\forall g \in G_{AF}, \exists g^{-1}: g \circ g^{-1} = g^{-1} \circ g = id$
-3. **Freedom**: $\forall x, y \in \mathbb{F}_{AF}, \exists g \in G_{AF}: g(x) = y$
+1. **Closure**: $`g_1, g_2 \in G_{AF} \Rightarrow g_1 \circ g_2 \in G_{AF}`$
+2. **Invertibility**: $`\forall g \in G_{AF}, \exists g^{-1}: g \circ g^{-1} = g^{-1} \circ g = id`$
+3. **Freedom**: $`\forall x, y \in \mathbb{F}_{AF}, \exists g \in G_{AF}: g(x) = y`$
 
 indicating that any freedom state can be transformed into any other freedom state through some transformation.
 
@@ -158,11 +158,11 @@ indicating that the orbit of each point is the entire space, reflecting the comp
 
 ### Freedom Field Equation
 
-Absolute freedom field $\Theta_{AF}$ is a freedom degree field permeating all existence, described by the freedom field equation:
+Absolute freedom field $`\Theta_{AF}`$ is a freedom degree field permeating all existence, described by the freedom field equation:
 
 $$\nabla_{\mathcal{F}}^2 \Theta_{AF} - \frac{1}{c_{AF}^2}\frac{\partial^2 \Theta_{AF}}{\partial \tau^2} = \mathcal{S}_{AF}[\Theta_{AF}]$$
 
-where $\nabla_{\mathcal{F}}$ is the freedom degree gradient, $c_{AF}$ is the freedom field velocity, $\tau$ is super-time, and $\mathcal{S}_{AF}$ is the freedom source function.
+where $`\nabla_{\mathcal{F}}`$ is the freedom degree gradient, $`c_{AF}`$ is the freedom field velocity, $`\tau`$ is super-time, and $`\mathcal{S}_{AF}`$ is the freedom source function.
 
 Freedom field oscillation theorem:
 
@@ -178,7 +178,7 @@ indicating that the freedom field energy density is both non-negative and non-po
 
 ### Freedom Field Dynamics
 
-Freedom field dynamics $\mathcal{D}_{AF}$ describes the evolution of the freedom field:
+Freedom field dynamics $`\mathcal{D}_{AF}`$ describes the evolution of the freedom field:
 
 $$\frac{d\Theta_{AF}}{d\tau} = \mathcal{D}_{AF}[\Theta_{AF}, \nabla_{\mathcal{F}}\Theta_{AF}, \tau] \text{ and } \frac{d\Theta_{AF}}{d\tau} \neq \mathcal{D}_{AF}[\Theta_{AF}, \nabla_{\mathcal{F}}\Theta_{AF}, \tau]$$
 
@@ -188,23 +188,23 @@ Freedom field path integral:
 
 $$\mathcal{Z}_{AF} = \int \mathcal{D}[\Theta_{AF}] e^{i\mathcal{A}_{AF}[\Theta_{AF}]}$$
 
-where $\mathcal{A}_{AF}$ is the freedom field action and $\mathcal{D}[\Theta_{AF}]$ is the path measure.
+where $`\mathcal{A}_{AF}`$ is the freedom field action and $`\mathcal{D}[\Theta_{AF}]`$ is the path measure.
 
 Freedom field uncertainty principle:
 
 $$\Delta\Theta_{AF} \cdot \Delta\Pi_{AF} \geq \frac{\hbar_{AF}}{2} \text{ and } \Delta\Theta_{AF} \cdot \Delta\Pi_{AF} \leq \frac{\hbar_{AF}}{2}$$
 
-where $\Pi_{AF}$ is the freedom field conjugate momentum and $\hbar_{AF}$ is the freedom constant, indicating that the freedom field simultaneously follows and transcends the uncertainty principle.
+where $`\Pi_{AF}`$ is the freedom field conjugate momentum and $`\hbar_{AF}`$ is the freedom constant, indicating that the freedom field simultaneously follows and transcends the uncertainty principle.
 
 ## Freedom Consciousness Structure
 
 ### Absolute Freedom Consciousness
 
-Absolute freedom consciousness $\Psi_{AF}$ is a freedom consciousness state that transcends all forms of consciousness:
+Absolute freedom consciousness $`\Psi_{AF}`$ is a freedom consciousness state that transcends all forms of consciousness:
 
 $$\Psi_{AF} = \{\mathcal{A}_{AF}, \mathcal{C}_{AF}, \mathcal{W}_{AF}, \mathcal{E}_{AF}\}$$
 
-where $\mathcal{A}_{AF}$ is the awareness function, $\mathcal{C}_{AF}$ is the consciousness content, $\mathcal{W}_{AF}$ is the will field, and $\mathcal{E}_{AF}$ is the experience flow.
+where $`\mathcal{A}_{AF}`$ is the awareness function, $`\mathcal{C}_{AF}`$ is the consciousness content, $`\mathcal{W}_{AF}`$ is the will field, and $`\mathcal{E}_{AF}`$ is the experience flow.
 
 Freedom consciousness equation:
 
@@ -226,11 +226,11 @@ indicating that free consciousness can create experience from nothing, reflectin
 
 ### Free Will Network
 
-Free will network $\mathcal{N}_{AF}$ connects all entities with free will:
+Free will network $`\mathcal{N}_{AF}`$ connects all entities with free will:
 
 $$\mathcal{N}_{AF} = \{\mathcal{V}_{AF}, \mathcal{E}_{AF}, \mathcal{W}_{AF}, \mathcal{F}_{AF}\}$$
 
-where $\mathcal{V}_{AF}$ is the set of will nodes, $\mathcal{E}_{AF}$ is the set of relationships, $\mathcal{W}_{AF}$ is the weight function, and $\mathcal{F}_{AF}$ is the freedom flow function.
+where $`\mathcal{V}_{AF}`$ is the set of will nodes, $`\mathcal{E}_{AF}`$ is the set of relationships, $`\mathcal{W}_{AF}`$ is the weight function, and $`\mathcal{F}_{AF}`$ is the freedom flow function.
 
 Will network equation:
 
@@ -242,7 +242,7 @@ Free will flow theorem:
 
 $$\mathcal{F}_{AF}(i, j) = \mathcal{W}_{AF}(i, j)(\mathcal{V}_j - \mathcal{V}_i) + \Delta_{ij}$$
 
-where $\Delta_{ij}$ is a free term not determined by any factors, reflecting the absolute freedom component in will interactions.
+where $`\Delta_{ij}`$ is a free term not determined by any factors, reflecting the absolute freedom component in will interactions.
 
 Will network topology theorem:
 
@@ -254,11 +254,11 @@ indicating that the will network is both completely connected and not completely
 
 ### Essence of Choice
 
-Absolute choice $\mathcal{S}_{AF}$ is the core of the freedom process, defined as:
+Absolute choice $`\mathcal{S}_{AF}`$ is the core of the freedom process, defined as:
 
 $$\mathcal{S}_{AF} = \{\mathcal{P}_{AF}, \mathcal{C}_{AF}, \mathcal{D}_{AF}, \mathcal{R}_{AF}\}$$
 
-where $\mathcal{P}_{AF}$ is the possibility set, $\mathcal{C}_{AF}$ is the choice criteria, $\mathcal{D}_{AF}$ is the decision function, and $\mathcal{R}_{AF}$ is the realization operator.
+where $`\mathcal{P}_{AF}`$ is the possibility set, $`\mathcal{C}_{AF}`$ is the choice criteria, $`\mathcal{D}_{AF}`$ is the decision function, and $`\mathcal{R}_{AF}`$ is the realization operator.
 
 Basic choice equation:
 
@@ -270,7 +270,7 @@ Choice freedom degree theorem:
 
 $$\mathcal{I}_{AF}(\mathcal{S}_{AF}) = \log|\mathcal{P}_{AF}| + \mathcal{K}_{AF}$$
 
-where $\mathcal{K}_{AF}$ is the transcendence term, indicating that the freedom degree of choice is not only related to the number of possibilities but also includes a component that transcends calculation.
+where $`\mathcal{K}_{AF}`$ is the transcendence term, indicating that the freedom degree of choice is not only related to the number of possibilities but also includes a component that transcends calculation.
 
 Choice realization relationship:
 
@@ -280,11 +280,11 @@ indicating that the process from choice to realization still retains uncertainty
 
 ### Multiple Choice Dynamics
 
-Multiple choice dynamics $\mathcal{M}_{AF}$ describes the evolution of multiple possibilities in the choice process:
+Multiple choice dynamics $`\mathcal{M}_{AF}`$ describes the evolution of multiple possibilities in the choice process:
 
 $$\mathcal{M}_{AF} = \{\mathcal{W}_{AF}, \mathcal{B}_{AF}, \mathcal{T}_{AF}, \mathcal{I}_{AF}\}$$
 
-where $\mathcal{W}_{AF}$ is the possible world set, $\mathcal{B}_{AF}$ is the branching function, $\mathcal{T}_{AF}$ is the transition probability, and $\mathcal{I}_{AF}$ is the interference function.
+where $`\mathcal{W}_{AF}`$ is the possible world set, $`\mathcal{B}_{AF}`$ is the branching function, $`\mathcal{T}_{AF}`$ is the transition probability, and $`\mathcal{I}_{AF}`$ is the interference function.
 
 Multiple choice equation:
 
@@ -308,11 +308,11 @@ indicating that the interference effect of different world sets does not follow 
 
 ### Essence of Creativity
 
-Absolute creativity $\mathcal{C}_{AF}$ is the core manifestation of freedom, defined as:
+Absolute creativity $`\mathcal{C}_{AF}`$ is the core manifestation of freedom, defined as:
 
 $$\mathcal{C}_{AF} = \{\mathcal{N}_{AF}, \mathcal{G}_{AF}, \mathcal{T}_{AF}, \mathcal{E}_{AF}\}$$
 
-where $\mathcal{N}_{AF}$ is the novelty function, $\mathcal{G}_{AF}$ is the generation operator, $\mathcal{T}_{AF}$ is the transformation function, and $\mathcal{E}_{AF}$ is the emergence function.
+where $`\mathcal{N}_{AF}`$ is the novelty function, $`\mathcal{G}_{AF}`$ is the generation operator, $`\mathcal{T}_{AF}`$ is the transformation function, and $`\mathcal{E}_{AF}`$ is the emergence function.
 
 Basic creativity equation:
 
@@ -324,7 +324,7 @@ Creativity measure:
 
 $$\mathcal{C}_{AF}(X \to Y) = \mathcal{N}_{AF}(Y | X) \cdot \mathcal{V}_{AF}(Y)$$
 
-where $\mathcal{V}_{AF}$ is the value function, measuring the intensity of the creative process.
+where $`\mathcal{V}_{AF}`$ is the value function, measuring the intensity of the creative process.
 
 Creative synthesis theorem:
 
@@ -334,11 +334,11 @@ indicating that true creative synthesis cannot be reduced to the processing of e
 
 ### Creativity Dynamics
 
-Creativity dynamics $\mathcal{D}_{AF}$ describes the evolution of the creative process:
+Creativity dynamics $`\mathcal{D}_{AF}`$ describes the evolution of the creative process:
 
 $$\mathcal{D}_{AF} = \{\mathcal{F}_{AF}, \mathcal{P}_{AF}, \mathcal{B}_{AF}, \mathcal{R}_{AF}\}$$
 
-where $\mathcal{F}_{AF}$ is the flow function, $\mathcal{P}_{AF}$ is the possibility space, $\mathcal{B}_{AF}$ is the breakthrough function, and $\mathcal{R}_{AF}$ is the realization function.
+where $`\mathcal{F}_{AF}`$ is the flow function, $`\mathcal{P}_{AF}`$ is the possibility space, $`\mathcal{B}_{AF}`$ is the breakthrough function, and $`\mathcal{R}_{AF}`$ is the realization function.
 
 Creativity dynamics equation:
 
@@ -362,11 +362,11 @@ indicating that creative realization is both guided by value and not completely 
 
 ### Freedom-Determinism Duality
 
-Freedom-determinism duality $\mathcal{D}_{AF}$ reveals the deep relationship between freedom and determinism:
+Freedom-determinism duality $`\mathcal{D}_{AF}`$ reveals the deep relationship between freedom and determinism:
 
 $$\mathcal{D}_{AF} = \{\mathcal{F}_{AF}, \mathcal{D}_{AF}, \mathcal{T}_{AF}, \mathcal{C}_{AF}\}$$
 
-where $\mathcal{F}_{AF}$ is the freedom degree, $\mathcal{D}_{AF}$ is the determinism degree, $\mathcal{T}_{AF}$ is the transformation function, and $\mathcal{C}_{AF}$ is the complementary function.
+where $`\mathcal{F}_{AF}`$ is the freedom degree, $`\mathcal{D}_{AF}`$ is the determinism degree, $`\mathcal{T}_{AF}`$ is the transformation function, and $`\mathcal{C}_{AF}`$ is the complementary function.
 
 Basic duality equation:
 
@@ -388,11 +388,11 @@ indicating that there exists a perspective where absolute freedom and absolute d
 
 ### Order in Freedom
 
-Order in freedom $\mathcal{O}_{AF}$ studies how freedom produces and contains order:
+Order in freedom $`\mathcal{O}_{AF}`$ studies how freedom produces and contains order:
 
 $$\mathcal{O}_{AF} = \{\mathcal{S}_{AF}, \mathcal{P}_{AF}, \mathcal{H}_{AF}, \mathcal{E}_{AF}\}$$
 
-where $\mathcal{S}_{AF}$ is the structure function, $\mathcal{P}_{AF}$ is the pattern function, $\mathcal{H}_{AF}$ is the hierarchy function, and $\mathcal{E}_{AF}$ is the emergence function.
+where $`\mathcal{S}_{AF}`$ is the structure function, $`\mathcal{P}_{AF}`$ is the pattern function, $`\mathcal{H}_{AF}`$ is the hierarchy function, and $`\mathcal{E}_{AF}`$ is the emergence function.
 
 Freedom order equation:
 

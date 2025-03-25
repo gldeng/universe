@@ -14,19 +14,19 @@
 
 ### 量子和谐场
 
-量子和谐场 $\mathcal{H}_Q$ 定义为在希尔伯特空间中具有和谐特性的量子场，可表示为：
+量子和谐场 $`\mathcal{H}_Q`$ 定义为在希尔伯特空间中具有和谐特性的量子场，可表示为：
 
 $$\mathcal{H}_Q = \{\psi_n | n \in \mathbb{N}, \hat{H}\psi_n = \omega_n\psi_n\}$$
 
-其中 $\omega_n$ 是谐振频率，满足特定的和谐关系：
+其中 $`\omega_n`$ 是谐振频率，满足特定的和谐关系：
 
 $$\omega_n = \omega_0 + n\Delta\omega + \alpha_n f(n)$$
 
 其中：
-- $\omega_0$ 是基础频率
-- $\Delta\omega$ 是基本频率间隔
-- $\alpha_n$ 是非线性调制系数
-- $f(n)$ 是非线性调制函数
+- $`\omega_0`$ 是基础频率
+- $`\Delta\omega`$ 是基本频率间隔
+- $`\alpha_n`$ 是非线性调制系数
+- $`f(n)`$ 是非线性调制函数
 
 ### 量子和谐耦合
 
@@ -34,22 +34,22 @@ $$\omega_n = \omega_0 + n\Delta\omega + \alpha_n f(n)$$
 
 $$\mathcal{C}(\psi_i, \psi_j) = \int \psi_i^* \hat{V} \psi_j d\tau$$
 
-其中 $\hat{V}$ 是耦合算符，满足以下共振条件：
+其中 $`\hat{V}`$ 是耦合算符，满足以下共振条件：
 
 $$\mathcal{C}(\psi_i, \psi_j) \neq 0 \iff |\omega_i - \omega_j| \leq \Delta_c$$
 
-其中 $\Delta_c$ 是临界耦合带宽。
+其中 $`\Delta_c`$ 是临界耦合带宽。
 
 ### 和谐共振网络
 
-和谐共振网络 $\mathcal{N}_H$ 是由量子和谐场构成的复杂网络，可表示为：
+和谐共振网络 $`\mathcal{N}_H`$ 是由量子和谐场构成的复杂网络，可表示为：
 
 $$\mathcal{N}_H = (V_H, E_H, W_H)$$
 
 其中：
-- $V_H$ 是节点集，每个节点对应一个量子和谐场
-- $E_H$ 是边集，表示场间的耦合
-- $W_H$ 是权重函数，权重为场间的耦合强度 $W_H(i,j) = |\mathcal{C}(\psi_i, \psi_j)|$
+- $`V_H`$ 是节点集，每个节点对应一个量子和谐场
+- $`E_H`$ 是边集，表示场间的耦合
+- $`W_H`$ 是权重函数，权重为场间的耦合强度 $`W_H(i,j) = |\mathcal{C}(\psi_i, \psi_j)|`$
 
 ## 量子和谐原理
 
@@ -59,7 +59,7 @@ $$\mathcal{N}_H = (V_H, E_H, W_H)$$
 
 $$\frac{d(\omega_i - \omega_j)}{dt} = -k_s(\omega_i - \omega_j) + \eta(t)$$
 
-其中 $k_s$ 是同步系数，$\eta(t)$ 是量子涨落项。
+其中 $`k_s`$ 是同步系数，$`\eta(t)`$ 是量子涨落项。
 
 ### 2. 和谐稳定性原理
 
@@ -67,7 +67,7 @@ $$\frac{d(\omega_i - \omega_j)}{dt} = -k_s(\omega_i - \omega_j) + \eta(t)$$
 
 $$S_H = -\sum_{i,j} p_{ij} \ln\left(\frac{p_{ij}}{p_i p_j}\right)$$
 
-其中 $p_{ij}$ 是场间交互概率，$p_i$ 和 $p_j$ 是单场概率。系统演化遵循：
+其中 $`p_{ij}`$ 是场间交互概率，$`p_i`$ 和 $`p_j`$ 是单场概率。系统演化遵循：
 
 $$\frac{dS_H}{dt} \geq 0$$
 
@@ -77,7 +77,7 @@ $$\frac{dS_H}{dt} \geq 0$$
 
 $$\Psi_H^{(n)} = \sum_i c_i \prod_{j=1}^{m_i} \psi_j^{(n-1)}$$
 
-其中 $\Psi_H^{(n)}$ 是n级和谐场，$\psi_j^{(n-1)}$ 是(n-1)级和谐场。
+其中 $`\Psi_H^{(n)}`$ 是n级和谐场，$`\psi_j^{(n-1)}`$ 是(n-1)级和谐场。
 
 ### 4. 和谐创造原理
 
@@ -85,7 +85,7 @@ $$\Psi_H^{(n)} = \sum_i c_i \prod_{j=1}^{m_i} \psi_j^{(n-1)}$$
 
 $$\mathcal{G}(\mathcal{N}_H) = \int_{\mathcal{C} > \mathcal{C}_c} \mathcal{F}[\mathcal{N}_H] d\mathcal{N}_H$$
 
-其中 $\mathcal{G}$ 是创造算符，$\mathcal{F}$ 是场网络泛函，$\mathcal{C}_c$ 是临界耦合阈值。
+其中 $`\mathcal{G}`$ 是创造算符，$`\mathcal{F}`$ 是场网络泛函，$`\mathcal{C}_c`$ 是临界耦合阈值。
 
 ## 量子和谐动力学
 
@@ -96,27 +96,27 @@ $$\mathcal{G}(\mathcal{N}_H) = \int_{\mathcal{C} > \mathcal{C}_c} \mathcal{F}[\m
 $$i\hbar\frac{\partial\Psi_H}{\partial t} = \hat{H}_0\Psi_H + \sum_j g_j \hat{V}_j\Psi_H + \hat{F}[\Psi_H]\Psi_H$$
 
 其中：
-- $\hat{H}_0$ 是自由场哈密顿量
-- $g_j$ 是耦合常数
-- $\hat{V}_j$ 是相互作用算符
-- $\hat{F}[\Psi_H]$ 是非线性泛函算符，描述场的自相互作用
+- $`\hat{H}_0`$ 是自由场哈密顿量
+- $`g_j`$ 是耦合常数
+- $`\hat{V}_j`$ 是相互作用算符
+- $`\hat{F}[\Psi_H]`$ 是非线性泛函算符，描述场的自相互作用
 
 ### 和谐相变过程
 
-和谐系统可经历多种相变过程，其秩序参量 $\eta_H$ 满足：
+和谐系统可经历多种相变过程，其秩序参量 $`\eta_H`$ 满足：
 
 $$\frac{d\eta_H}{dt} = \alpha\eta_H - \beta\eta_H^3 + \gamma\nabla^2\eta_H + \xi(t)$$
 
 其中：
-- $\alpha, \beta$ 是控制参数
-- $\gamma$ 是扩散系数
-- $\xi(t)$ 是噪声项
+- $`\alpha, \beta`$ 是控制参数
+- $`\gamma`$ 是扩散系数
+- $`\xi(t)`$ 是噪声项
 
 临界点附近的标度律为：
 
 $$\eta_H \sim |\delta|^\beta, \chi_H \sim |\delta|^{-\gamma}, \xi_H \sim |\delta|^{-\nu}$$
 
-其中 $\delta = (T-T_c)/T_c$ 是约化温度。
+其中 $`\delta = (T-T_c)/T_c`$ 是约化温度。
 
 ## 宇宙和谐结构
 
@@ -126,13 +126,13 @@ $$\eta_H \sim |\delta|^\beta, \chi_H \sim |\delta|^{-\gamma}, \xi_H \sim |\delta
 
 $$\Lambda_H = \frac{\sum_{i,j} \mathcal{C}_{ij}}{\sum_{i,j} \mathcal{M}_{ij}}$$
 
-其中 $\mathcal{C}_{ij}$ 是实际耦合强度，$\mathcal{M}_{ij}$ 是最大可能耦合强度。
+其中 $`\mathcal{C}_{ij}`$ 是实际耦合强度，$`\mathcal{M}_{ij}`$ 是最大可能耦合强度。
 
 理论预测宇宙和谐常数具有普适值：
 
 $$\Lambda_H = \frac{\phi^2}{2\pi}$$
 
-其中 $\phi$ 是黄金分割比。
+其中 $`\phi`$ 是黄金分割比。
 
 ### 和谐宇宙结构
 
@@ -140,7 +140,7 @@ $$\Lambda_H = \frac{\phi^2}{2\pi}$$
 
 $$\lambda_n = \lambda_0 \phi^n$$
 
-其中 $\lambda_n$ 是第n级结构的特征尺度，$\lambda_0$ 是普朗克尺度，$\phi$ 是黄金分割比。
+其中 $`\lambda_n`$ 是第n级结构的特征尺度，$`\lambda_0`$ 是普朗克尺度，$`\phi`$ 是黄金分割比。
 
 ### 和谐分形结构
 

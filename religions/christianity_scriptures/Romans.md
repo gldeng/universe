@@ -51,26 +51,28 @@ The Epistle to the Romans is a letter in the New Testament written by the Apostl
 ## 数学表达 (Mathematical Expression)
 
 ### 因信称义方程
+
 $$
 I_{\text{称义}} = k_{\text{信心}}\frac{|\psi_{\text{基督义}}|^2}{S_{\text{罪熵}}}
 $$
 
 其中：
-- $I_{\text{称义}}$ 表示称义带来的经典知识
-- $|\psi_{\text{基督义}}|^2$ 是基督义的量子态投影
-- $S_{\text{罪熵}}$ 是人类罪的经典熵
-- $k_{\text{信心}}$ 是信心带来的经典化效率系数
+- $`I_{\text{称义}}`$ 表示称义带来的经典知识
+- $`|\psi_{\text{基督义}}|^2`$ 是基督义的量子态投影
+- $`S_{\text{罪熵}}`$ 是人类罪的经典熵
+- $`k_{\text{信心}}`$ 是信心带来的经典化效率系数
 
 ### 圣灵内住方程
+
 $$
 |\psi_{\text{信徒}}\rangle = \alpha|\psi_{\text{肉体}}\rangle + \beta|\psi_{\text{圣灵}}\rangle
 $$
 
 其中：
-- $|\psi_{\text{信徒}}\rangle$ 表示信徒的量子态
-- $|\psi_{\text{肉体}}\rangle$ 和 $|\psi_{\text{圣灵}}\rangle$ 表示肉体和圣灵的基态
-- $\alpha$ 和 $\beta$ 是复系数，满足 $|\alpha|^2 + |\beta|^2 = 1$
-- 成圣过程表现为随时间 $|\beta|^2 \uparrow,\;|\alpha|^2 \downarrow$
+- $`|\psi_{\text{信徒}}\rangle`$ 表示信徒的量子态
+- $`|\psi_{\text{肉体}}\rangle`$ 和 $`|\psi_{\text{圣灵}}\rangle`$ 表示肉体和圣灵的基态
+- $`\alpha`$ 和 $`\beta`$ 是复系数，满足 $`|\alpha|^2 + |\beta|^2 = 1`$
+- 成圣过程表现为随时间 $`|\beta|^2 \uparrow,\;|\alpha|^2 \downarrow`$
 
 ## 结论 (Conclusion)
 

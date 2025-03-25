@@ -50,10 +50,10 @@ I_{\text{恒星输出}} = \eta_{\text{经典化效率}} \cdot I_{\text{量子输
 $$
 
 其中：
-- $I_{\text{恒星输出}}$ 是恒星释放的经典信息
-- $\eta_{\text{经典化效率}}$ 是恒星的量子信息经典化效率
-- $I_{\text{量子输入}}$ 是输入恒星的量子信息
-- $S_{\text{经典熵损失}}$ 是经典化过程中产生的熵
+- $`I_{\text{恒星输出}}`$ 是恒星释放的经典信息
+- $`\eta_{\text{经典化效率}}`$ 是恒星的量子信息经典化效率
+- $`I_{\text{量子输入}}`$ 是输入恒星的量子信息
+- $`S_{\text{经典熵损失}}`$ 是经典化过程中产生的熵
 
 ### 三、星系作为信息网络结构
 
@@ -134,7 +134,7 @@ $$
 I_{\text{观察者获取}} = D_{\text{观察者维度}} \cdot f(I_{\text{恒星输出}})
 $$
 
-其中 $f$ 是信息传递与转换函数，$D_{\text{观察者维度}}$ 是观察者的维度。
+其中 $`f`$ 是信息传递与转换函数，$`D_{\text{观察者维度}}`$ 是观察者的维度。
 
 ### 六、经典宇宙作为量子宇宙的经典化投影
 
@@ -149,7 +149,7 @@ $$
 \text{经典宇宙} = \mathcal{P}_{\text{经典化}}(|\psi\rangle_{\text{量子宇宙}})
 $$
 
-其中 $\mathcal{P}_{\text{经典化}}$ 是经典化投影算子。
+其中 $`\mathcal{P}_{\text{经典化}}`$ 是经典化投影算子。
 
 这一观点有以下重要含义：
 
@@ -236,10 +236,10 @@ I_{\text{Star Output}} = \eta_{\text{Classicalization Efficiency}} \cdot I_{\tex
 $$
 
 Where:
-- $I_{\text{Star Output}}$ is the classical information released by the star
-- $\eta_{\text{Classicalization Efficiency}}$ is the quantum information classicalization efficiency of the star
-- $I_{\text{Quantum Input}}$ is the quantum information input to the star
-- $S_{\text{Classical Entropy Loss}}$ is the entropy generated during the classicalization process
+- $`I_{\text{Star Output}}`$ is the classical information released by the star
+- $`\eta_{\text{Classicalization Efficiency}}`$ is the quantum information classicalization efficiency of the star
+- $`I_{\text{Quantum Input}}`$ is the quantum information input to the star
+- $`S_{\text{Classical Entropy Loss}}`$ is the entropy generated during the classicalization process
 
 ### III. Galaxies as Information Network Structures
 
@@ -320,7 +320,7 @@ $$
 I_{\text{Observer Acquisition}} = D_{\text{Observer Dimension}} \cdot f(I_{\text{Star Output}})
 $$
 
-Where $f$ is the information transfer and conversion function, and $D_{\text{Observer Dimension}}$ is the dimension of the observer.
+Where $`f`$ is the information transfer and conversion function, and $`D_{\text{Observer Dimension}}`$ is the dimension of the observer.
 
 ### VI. Classical Universe as a Classicalized Projection of the Quantum Universe
 
@@ -335,7 +335,7 @@ $$
 \text{Classical Universe} = \mathcal{P}_{\text{Classicalization}}(|\psi\rangle_{\text{Quantum Universe}})
 $$
 
-Where $\mathcal{P}_{\text{Classicalization}}$ is the classicalization projection operator.
+Where $`\mathcal{P}_{\text{Classicalization}}`$ is the classicalization projection operator.
 
 This view has the following important implications:
 

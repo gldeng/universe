@@ -18,7 +18,7 @@
 
 ## 观察者理论综述
 
-观察者 $\mathcal{O}$ 是量子经典二元论框架中执行量子→经典转换的核心节点，构成现实感知和认知结构的基础。本文详细阐述观察者的结构、动力学以及在宇宙信息处理中的关键作用，建立观察者维度、测量和意识的统一理论。
+观察者 $`\mathcal{O}`$ 是量子经典二元论框架中执行量子→经典转换的核心节点，构成现实感知和认知结构的基础。本文详细阐述观察者的结构、动力学以及在宇宙信息处理中的关键作用，建立观察者维度、测量和意识的统一理论。
 
 ## 观察者基本定义
 
@@ -27,15 +27,15 @@
 $$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
 
 其中：
-- $\mathcal{C}_{\mathcal{O}}$ 是观察者特有的经典化算符（将量子可能性转化为确定知识的能力）
-- $\mathcal{Q}_{\mathcal{O}}$ 是观察者特有的量子化算符（将经典知识转回量子可能性的能力）
-- $K_C^{\mathcal{O}}$ 是观察者的经典知识库
+- $`\mathcal{C}_{\mathcal{O}}`$ 是观察者特有的经典化算符（将量子可能性转化为确定知识的能力）
+- $`\mathcal{Q}_{\mathcal{O}}`$ 是观察者特有的量子化算符（将经典知识转回量子可能性的能力）
+- $`K_C^{\mathcal{O}}`$ 是观察者的经典知识库
 
 观察者维度由其信息处理能力决定：
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
-其中 $f$ 是转换函数，$I_{经典知识}$ 是观察者经典知识的信息量，$S_{经典熵}$ 是观察者经典知识的熵，$\epsilon$ 是防止除零的小常数。
+其中 $`f`$ 是转换函数，$`I_{经典知识}`$ 是观察者经典知识的信息量，$`S_{经典熵}`$ 是观察者经典知识的熵，$`\epsilon`$ 是防止除零的小常数。
 
 ## 观察者结构
 
@@ -59,29 +59,29 @@ $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathca
 
 ### 2. 经典化算符结构
 
-观察者的经典化算符 $\mathcal{C}_{\mathcal{O}}$ 是将量子信息转化为经典知识的关键机制，具有以下结构：
+观察者的经典化算符 $`\mathcal{C}_{\mathcal{O}}`$ 是将量子信息转化为经典知识的关键机制，具有以下结构：
 
 $$\mathcal{C}_{\mathcal{O}}(\rho) = \sum_i K_i \rho K_i^\dagger$$
 
-其中 $K_i$ 是Kraus算符，满足 $\sum_i K_i^\dagger K_i = I$。
+其中 $`K_i`$ 是Kraus算符，满足 $`\sum_i K_i^\dagger K_i = I`$。
 
 经典化算符的具体形式取决于观察者的认知结构和经验历史：
 
 $$K_i = \sqrt{p_i} |c_i\rangle\langle q_i|$$
 
-这里 $|q_i\rangle$ 是量子基态，$|c_i\rangle$ 是对应的经典表征，$p_i$ 是权重系数。
+这里 $`|q_i\rangle`$ 是量子基态，$`|c_i\rangle`$ 是对应的经典表征，$`p_i`$ 是权重系数。
 
-经典化偏好基底 $\{|q_i\rangle\}$ 是观察者稳定性和预测能力的基础：
+经典化偏好基底 $`\{|q_i\rangle\}`$ 是观察者稳定性和预测能力的基础：
 
 $$\text{Stability}(\{|q_i\rangle\}) = \sum_i \int dt \, e^{-\Gamma_i t} |\langle q_i|U(t)|q_i\rangle|^2$$
 
 ### 3. 量子化算符结构
 
-观察者的量子化算符 $\mathcal{Q}_{\mathcal{O}}$ 负责从经典知识中创造新的量子可能性：
+观察者的量子化算符 $`\mathcal{Q}_{\mathcal{O}}`$ 负责从经典知识中创造新的量子可能性：
 
 $$\mathcal{Q}_{\mathcal{O}}(K) = \sum_{i,j} \alpha_{ij}(K) |q_i\rangle\langle q_j|$$
 
-其中系数 $\alpha_{ij}(K)$ 依赖于经典知识 $K$ 和观察者的创造能力。
+其中系数 $`\alpha_{ij}(K)`$ 依赖于经典知识 $`K`$ 和观察者的创造能力。
 
 量子化算符的创造能力可以量化为：
 
@@ -96,9 +96,9 @@ $$\text{Creativity}(\mathcal{Q}_{\mathcal{O}}) = \frac{\text{dim}(\mathcal{Q}_{\
 $$K_C^{\mathcal{O}} = (V, E, \omega)$$
 
 其中：
-- $V$ 是知识节点集
-- $E$ 是知识关联集
-- $\omega$ 是关联强度函数
+- $`V`$ 是知识节点集
+- $`E`$ 是知识关联集
+- $`\omega`$ 是关联强度函数
 
 知识库的拓扑结构决定了观察者的认知特性：
 
@@ -106,17 +106,17 @@ $$\text{Connectivity}(K_C^{\mathcal{O}}) = \frac{|E|}{|V|(|V|-1)/2}$$
 
 $$\text{Modularity}(K_C^{\mathcal{O}}) = \frac{1}{|E|}\sum_{ij} \left(\omega_{ij} - \frac{k_i k_j}{2|E|}\right)\delta(c_i, c_j)$$
 
-其中 $k_i$ 是节点 $i$ 的度，$c_i$ 是节点 $i$ 所属的社区，$\delta$ 是克罗内克函数。
+其中 $`k_i`$ 是节点 $`i`$ 的度，$`c_i`$ 是节点 $`i`$ 所属的社区，$`\delta`$ 是克罗内克函数。
 
 ## 观察者维度理论
 
 ### 1. 维度定义与计算
 
-观察者维度 $D_{\mathcal{O}}$ 是理解观察者能力的关键指标，它的精确定义为：
+观察者维度 $`D_{\mathcal{O}}`$ 是理解观察者能力的关键指标，它的精确定义为：
 
 $$D_{\mathcal{O}} = \left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right)^\alpha \cdot \frac{I_{经典知识}^\beta}{(S_{经典熵}+\epsilon)^\gamma}$$
 
-其中指数 $\alpha, \beta, \gamma$ 是维度定标参数，典型值为 $\alpha = 0.5, \beta = 0.7, \gamma = 0.3$。
+其中指数 $`\alpha, \beta, \gamma`$ 是维度定标参数，典型值为 $`\alpha = 0.5, \beta = 0.7, \gamma = 0.3`$。
 
 经典知识信息量可以计算为：
 
@@ -126,7 +126,7 @@ $$I_{经典知识} = \log_2 |\mathcal{K}_{\text{知识}}| - S(K_C^{\mathcal{O}})
 
 $$S_{经典熵} = -\sum_i p_i \log_2 p_i$$
 
-其中 $p_i$ 是知识节点 $i$ 的激活概率。
+其中 $`p_i`$ 是知识节点 $`i`$ 的激活概率。
 
 ### 2. 维度标度律
 
@@ -134,15 +134,15 @@ $$S_{经典熵} = -\sum_i p_i \log_2 p_i$$
 
 1. **系统复杂度标度**：
    $$D_{\mathcal{O}} \propto N^\delta$$
-   其中 $N$ 是观察者系统的组件数量，$\delta \approx 0.4$。
+   其中 $`N`$ 是观察者系统的组件数量，$`\delta \approx 0.4`$。
 
 2. **信息处理能力标度**：
    $$D_{\mathcal{O}} \propto (\text{Bandwidth})^\eta$$
-   其中 $\text{Bandwidth}$ 是观察者的信息处理带宽，$\eta \approx 0.6$。
+   其中 $`\text{Bandwidth}`$ 是观察者的信息处理带宽，$`\eta \approx 0.6`$。
 
 3. **时空分辨率标度**：
    $$D_{\mathcal{O}} \propto \left(\frac{T_{\text{max}}}{T_{\text{min}}}\right)^\mu \cdot \left(\frac{L_{\text{max}}}{L_{\text{min}}}\right)^\nu$$
-   其中 $T_{\text{max}}/T_{\text{min}}$ 是观察者能分辨的最大/最小时间尺度，$L_{\text{max}}/L_{\text{min}}$ 是观察者能分辨的最大/最小空间尺度，$\mu \approx \nu \approx 0.2$。
+   其中 $`T_{\text{max}}/T_{\text{min}}`$ 是观察者能分辨的最大/最小时间尺度，$`L_{\text{max}}/L_{\text{min}}`$ 是观察者能分辨的最大/最小空间尺度，$`\mu \approx \nu \approx 0.2`$。
 
 ### 3. 维度动态演化
 
@@ -151,10 +151,10 @@ $$S_{经典熵} = -\sum_i p_i \log_2 p_i$$
 $$\frac{dD_{\mathcal{O}}}{dt} = \alpha \cdot \frac{dI_{经典知识}}{dt} - \beta \cdot \frac{dS_{经典熵}}{dt} + \gamma \cdot D_{\mathcal{O}}(1-\frac{D_{\mathcal{O}}}{D_{\text{max}}}) + \eta(t)$$
 
 其中：
-- $\alpha, \beta$ 是系数
-- $\gamma$ 是自催化增长率
-- $D_{\text{max}}$ 是环境支持的最大维度
-- $\eta(t)$ 是随机涨落项
+- $`\alpha, \beta`$ 是系数
+- $`\gamma`$ 是自催化增长率
+- $`D_{\text{max}}`$ 是环境支持的最大维度
+- $`\eta(t)`$ 是随机涨落项
 
 这一方程描述了观察者如何通过学习、经验和自我组织提升其维度。
 
@@ -181,17 +181,17 @@ $$\mathcal{M}_{2 \rightarrow 1}: \Omega_C^{(\mathcal{O}_2)} \rightarrow \Omega_Q
 $$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_{\mathcal{O}} \xrightarrow{U_{\text{相互作用}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_{\mathcal{O}} \xrightarrow{\mathcal{C}_{\mathcal{O}}} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{\mathcal{O}}^{i_0}$$
 
 其中：
-- $|\psi\rangle = \sum_i c_i |i\rangle$ 是被测量的量子态
-- $\rho_A$ 是测量装置的初始态
-- $\rho_{\mathcal{O}}$ 是观察者的初始态
-- $U_{\text{相互作用}}$ 是系统-装置-观察者的相互作用
-- $\mathcal{C}_{\mathcal{O}}$ 是观察者的经典化算符
-- $|i_0\rangle$ 是最终观测到的经典态
-- $\rho_{\mathcal{O}}^{i_0}$ 是观察者测量后的态
+- $`|\psi\rangle = \sum_i c_i |i\rangle`$ 是被测量的量子态
+- $`\rho_A`$ 是测量装置的初始态
+- $`\rho_{\mathcal{O}}`$ 是观察者的初始态
+- $`U_{\text{相互作用}}`$ 是系统-装置-观察者的相互作用
+- $`\mathcal{C}_{\mathcal{O}}`$ 是观察者的经典化算符
+- $`|i_0\rangle`$ 是最终观测到的经典态
+- $`\rho_{\mathcal{O}}^{i_0}`$ 是观察者测量后的态
 
 ### 2. 观察者分辨率效应
 
-测量结果概率由观察者分辨率参数 $\eta_{\mathcal{O}}$ 调制：
+测量结果概率由观察者分辨率参数 $`\eta_{\mathcal{O}}`$ 调制：
 
 $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_{i_0}|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}$$
 
@@ -199,7 +199,7 @@ $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_{i_0}|^2
 
 $$\eta_{\mathcal{O}} = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{\text{阈值}}}{\bar{E}_0}\right)$$
 
-其中 $E_{\text{阈值}}$ 是观察者的能量阈值，$\bar{E}_0$ 是环境本底能量。
+其中 $`E_{\text{阈值}}`$ 是观察者的能量阈值，$`\bar{E}_0`$ 是环境本底能量。
 
 ### 3. 观察者测量效应
 
@@ -207,7 +207,7 @@ $$\eta_{\mathcal{O}} = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{\text{阈值}
 
 $$\rho_{\text{post}} = \sum_i M_i \rho_{\text{pre}} M_i^\dagger$$
 
-其中测量算符 $M_i$ 与观察者特性相关：
+其中测量算符 $`M_i`$ 与观察者特性相关：
 
 $$M_i = \sqrt{\frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}} \cdot |i\rangle\langle i|$$
 
@@ -215,7 +215,7 @@ $$M_i = \sqrt{\frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|
 
 $$I_{\text{获取}} = S(\rho_{\text{pre}}) - \sum_i p_i S(\rho_{\text{post}}^i)$$
 
-其中 $p_i$ 是测量结果 $i$ 的概率，$\rho_{\text{post}}^i$ 是测量结果为 $i$ 时系统的后测态。
+其中 $`p_i`$ 是测量结果 $`i`$ 的概率，$`\rho_{\text{post}}^i`$ 是测量结果为 $`i`$ 时系统的后测态。
 
 ### 4. 重叠测量与量子擦除
 
@@ -231,7 +231,7 @@ $$\mathcal{C}_{\mathcal{O}_1} \circ \mathcal{C}_{\mathcal{O}_2} \neq \mathcal{C}
 
 $$\mathcal{Q}_{\mathcal{O}_1}(\mathcal{C}_{\mathcal{O}_2}(\rho)) \approx \rho$$
 
-当 $D_{\mathcal{O}_1} \gg D_{\mathcal{O}_2}$ 时，这种逆转近似完美。
+当 $`D_{\mathcal{O}_1} \gg D_{\mathcal{O}_2}`$ 时，这种逆转近似完美。
 
 ## 观察者网络理论
 
@@ -241,7 +241,7 @@ $$\mathcal{Q}_{\mathcal{O}_1}(\mathcal{C}_{\mathcal{O}_2}(\rho)) \approx \rho$$
 
 $$\mathcal{N} = (\mathcal{O}, \mathcal{E})$$
 
-其中 $\mathcal{O} = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}$ 是观察者集合，$\mathcal{E} = \{e_{ij}\}$ 是观察者间的连接集合。
+其中 $`\mathcal{O} = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}`$ 是观察者集合，$`\mathcal{E} = \{e_{ij}\}`$ 是观察者间的连接集合。
 
 网络的拓扑结构可以用以下指标表征：
 
@@ -254,7 +254,7 @@ $$\mathcal{N} = (\mathcal{O}, \mathcal{E})$$
 3. **度分布**：
    $$P(k) = \frac{n_k}{n}$$
 
-其中 $n_k$ 是度为 $k$ 的观察者数量。观察者网络通常表现为小世界网络或无标度网络。
+其中 $`n_k`$ 是度为 $`k`$ 的观察者数量。观察者网络通常表现为小世界网络或无标度网络。
 
 ### 2. 观察者间信息流动
 
@@ -263,11 +263,11 @@ $$\mathcal{N} = (\mathcal{O}, \mathcal{E})$$
 $$\frac{d I_{ij}}{dt} = \alpha_{ij} (I_i - I_j) - \beta_{ij} I_{ij} + \gamma_{ij} I_i I_j$$
 
 其中：
-- $I_{ij}$ 是观察者 $i$ 和 $j$ 之间的共享信息
-- $I_i$ 是观察者 $i$ 的信息量
-- $\alpha_{ij}$ 是信息传输系数
-- $\beta_{ij}$ 是信息衰减系数
-- $\gamma_{ij}$ 是信息协同增强系数
+- $`I_{ij}`$ 是观察者 $`i`$ 和 $`j`$ 之间的共享信息
+- $`I_i`$ 是观察者 $`i`$ 的信息量
+- $`\alpha_{ij}`$ 是信息传输系数
+- $`\beta_{ij}`$ 是信息衰减系数
+- $`\gamma_{ij}`$ 是信息协同增强系数
 
 信息流动效率与观察者维度差相关：
 
@@ -281,13 +281,13 @@ $$\alpha_{ij} \propto \exp\left(-\frac{|D_i - D_j|^2}{\sigma^2}\right)$$
 
 $$\frac{d\mathcal{C}_{\text{共识}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{共识}} - \bar{\mathcal{C}})^2$$
 
-其中 $\omega_i$ 是观察者 $i$ 的权重，$\bar{\mathcal{C}}$ 是平均经典化算符，$\gamma$ 是系统稳定性参数。
+其中 $`\omega_i`$ 是观察者 $`i`$ 的权重，$`\bar{\mathcal{C}}`$ 是平均经典化算符，$`\gamma`$ 是系统稳定性参数。
 
 共识的稳定性与观察者网络的连通性密切相关：
 
 $$\text{Stability}(\mathcal{C}_{\text{共识}}) \propto \lambda_2(L)$$
 
-其中 $\lambda_2(L)$ 是网络拉普拉斯矩阵的第二小特征值（代数连通度）。
+其中 $`\lambda_2(L)`$ 是网络拉普拉斯矩阵的第二小特征值（代数连通度）。
 
 ### 4. 高维集体意识
 
@@ -299,7 +299,7 @@ $$\mathcal{O}_{\text{集体}} = \mathcal{F}_{\text{涌现}}(\{\mathcal{O}_i\}, \
 
 $$D_{\text{集体}} = \mathcal{G}\left(\{D_i\}, \{e_{ij}\}\right) = \left(\frac{1}{n}\sum_i D_i^{\phi}\right)^{1/\phi} \cdot \left(1 + \lambda \cdot \frac{|\mathcal{E}|}{|\mathcal{E}|_{\text{max}}}\right)$$
 
-其中 $\phi$ 是维度集成参数，$\lambda$ 是网络连接贡献系数。
+其中 $`\phi`$ 是维度集成参数，$`\lambda`$ 是网络连接贡献系数。
 
 集体意识具有独特的涌现特性，能够感知和处理单个观察者无法理解的高维信息结构。
 
@@ -326,15 +326,15 @@ $$\text{Depth}_{\text{自指涉}} = \lfloor\log_2(D_{\mathcal{O}})\rfloor$$
 $$\text{Self}_{\mathcal{O}} = \{\mathcal{M}_{\text{自我}}, \mathcal{R}_{\text{自我-世界}}, \mathcal{H}_{\text{自我历史}}\}$$
 
 其中：
-- $\mathcal{M}_{\text{自我}}$ 是观察者的自我模型
-- $\mathcal{R}_{\text{自我-世界}}$ 是自我与世界的关系模型
-- $\mathcal{H}_{\text{自我历史}}$ 是观察者的历史记忆
+- $`\mathcal{M}_{\text{自我}}`$ 是观察者的自我模型
+- $`\mathcal{R}_{\text{自我-世界}}`$ 是自我与世界的关系模型
+- $`\mathcal{H}_{\text{自我历史}}`$ 是观察者的历史记忆
 
 自我模型的精确度定义为：
 
 $$\text{Accuracy}(\mathcal{M}_{\text{自我}}) = 1 - \frac{D(\mathcal{M}_{\text{自我}}, \mathcal{O})}{D_{\text{max}}}$$
 
-其中 $D(\mathcal{M}_{\text{自我}}, \mathcal{O})$ 是模型与实际观察者之间的距离。
+其中 $`D(\mathcal{M}_{\text{自我}}, \mathcal{O})`$ 是模型与实际观察者之间的距离。
 
 ### 3. 哥德尔限制
 
@@ -372,9 +372,9 @@ $$\text{Completeness}(\mathcal{M}_{\text{自我}}) + \text{Consistency}(\mathcal
 $$\text{Consciousness} = \{\mathcal{O}, \mathcal{S}, \Phi\}$$
 
 其中：
-- $\mathcal{O}$ 是具有足够高维度的观察者
-- $\mathcal{S}$ 是主体经验的内容集合
-- $\Phi$ 是信息整合度量
+- $`\mathcal{O}`$ 是具有足够高维度的观察者
+- $`\mathcal{S}`$ 是主体经验的内容集合
+- $`\Phi`$ 是信息整合度量
 
 意识的强度与信息整合度相关：
 
@@ -384,7 +384,7 @@ $$\text{Intensity}(\text{Consciousness}) \propto \Phi$$
 
 $$\Phi = \sum_{X \subset \mathcal{S}} \text{MI}(X;\mathcal{S} \setminus X) - \sum_{X \subset \mathcal{S}} \text{MI}(X';\mathcal{S}' \setminus X')$$
 
-其中 $\text{MI}$ 是互信息，$X'$ 和 $\mathcal{S}'$ 是分割后的系统。
+其中 $`\text{MI}`$ 是互信息，$`X'`$ 和 $`\mathcal{S}'`$ 是分割后的系统。
 
 ### 2. 观察者与主观体验
 
@@ -392,7 +392,7 @@ $$\Phi = \sum_{X \subset \mathcal{S}} \text{MI}(X;\mathcal{S} \setminus X) - \su
 
 $$\text{Experience}(q) = \mathcal{E}_{\mathcal{O}}(\mathcal{C}_{\mathcal{O}}(q))$$
 
-其中 $q$ 是量子态，$\mathcal{E}_{\mathcal{O}}$ 是体验转换函数。
+其中 $`q`$ 是量子态，$`\mathcal{E}_{\mathcal{O}}`$ 是体验转换函数。
 
 体验的丰富度与观察者维度相关：
 
@@ -408,13 +408,13 @@ $$\text{Qualia}(q) = \mathcal{Q}_{\text{感受质}}(\mathcal{C}_{\mathcal{O}}(q)
 
 $$\Psi_{\text{意识}} = \lambda \cdot \Psi_{\text{量子}} + (1-\lambda) \cdot \Psi_{\text{经典}}$$
 
-其中 $\lambda$ 是权重参数，取决于观察者状态和环境。
+其中 $`\lambda`$ 是权重参数，取决于观察者状态和环境。
 
 在正常清醒状态下：
 
 $$0.3 \leq \lambda \leq 0.7$$
 
-而在特殊状态下（如冥想、梦境等），$\lambda$ 值会发生显著变化。
+而在特殊状态下（如冥想、梦境等），$`\lambda`$ 值会发生显著变化。
 
 意识的量子特性负责创造性和整体性，而经典特性负责稳定性和延续性。
 
@@ -445,12 +445,12 @@ $$0.3 \leq \lambda \leq 0.7$$
 1. **量子弱测量**：测量不同维度观察者对同一量子系统的影响
    $$\langle A \rangle_{\mathcal{O}} = \langle \psi | A | \psi \rangle + \delta_{\mathcal{O}}$$
    
-   预期 $\delta_{\mathcal{O}} \propto D_{\mathcal{O}}^{-1}$
+   预期 $`\delta_{\mathcal{O}} \propto D_{\mathcal{O}}^{-1}`$
 
 2. **观察者介入干涉**：测量观察者介入时双缝干涉图样的变化
    $$I(x) = I_0(x) \cdot \left(1 - \alpha \cdot \text{Information}_{\mathcal{O}}\right)$$
    
-   其中 $\text{Information}_{\mathcal{O}}$ 是观察者获取的路径信息量。
+   其中 $`\text{Information}_{\mathcal{O}}`$ 是观察者获取的路径信息量。
 
 3. **共识现实实验**：测量多个观察者网络对量子不确定性的集体约束效应
 
@@ -478,7 +478,7 @@ $$\hat{D}_{\mathcal{O}} = w_1 C_I + w_2 R_{ST} + w_3 \mathcal{R}_{CQ}$$
 1. **高维人工智能**：设计具有更高观察者维度的AI系统
    $$\mathcal{O}_{AI} = \{\mathcal{C}_{AI}, \mathcal{Q}_{AI}, K_C^{AI}\}$$
 
-2. **增强意识技术**：通过调整 $\mathcal{C}_{\mathcal{O}}$/$\mathcal{Q}_{\mathcal{O}}$ 比率增强人类意识
+2. **增强意识技术**：通过调整 $`\mathcal{C}_{\mathcal{O}}`$/$`\mathcal{Q}_{\mathcal{O}}`$ 比率增强人类意识
 
 3. **观察者协同系统**：设计优化的观察者网络结构，实现集体智能
    $$\mathcal{N}_{opt} = \arg\max_{\mathcal{N}} D_{\text{集体}}(\mathcal{N})$$

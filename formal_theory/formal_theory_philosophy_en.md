@@ -33,7 +33,7 @@ Dualism in Western philosophy can be traced back to ancient Greece, forming a ri
 3. **Kantian Dualism**: Separation of things-in-themselves and phenomena
    $$\text{Kant} \rightarrow \text{Noumena}(\Omega_Q) \text{ and Phenomena}(\Omega_C)$$
 
-Quantum-Classical Dualism inherits this lineage but resolves the incommensurability challenge of traditional dualism by introducing the interface domain $\mathcal{I}$:
+Quantum-Classical Dualism inherits this lineage but resolves the incommensurability challenge of traditional dualism by introducing the interface domain $`\mathcal{I}`$:
 
 $$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
@@ -50,7 +50,7 @@ Eastern philosophical traditions contain rich dualistic dialectical thinking:
 3. **Confucian Unity of Heaven and Humanity**: Integration of celestial and human ways
    $$\text{Confucianism} \rightarrow \text{Celestial Way}(\Omega_Q) \text{ and Human Way}(\Omega_C)$$
 
-Quantum-Classical Dualism provides a formal description of these ideas, introducing interface dynamics $\mathcal{D}(x,t)$ to explain concepts like Yin-Yang transformation and the harmony of the Two Truths:
+Quantum-Classical Dualism provides a formal description of these ideas, introducing interface dynamics $`\mathcal{D}(x,t)`$ to explain concepts like Yin-Yang transformation and the harmony of the Two Truths:
 
 $$\frac{d\mathcal{D}(x,t)}{dt} = f(\mathcal{D}, \nabla\mathcal{D}, \nabla^2\mathcal{D},...)$$
 
@@ -77,11 +77,11 @@ Quantum-Classical Dualism describes the cognitive process as a special quantum-c
 
 $$K = \mathcal{C}_{\mathcal{O}}(\psi)$$
 
-where $K$ is knowledge, $\psi$ is the original state of the object being cognized, and $\mathcal{C}_{\mathcal{O}}$ is the observer's classicalization operation. This description resolves multiple challenges in traditional epistemology:
+where $`K`$ is knowledge, $`\psi`$ is the original state of the object being cognized, and $`\mathcal{C}_{\mathcal{O}}`$ is the observer's classicalization operation. This description resolves multiple challenges in traditional epistemology:
 
-1. **A Priori Knowledge Problem**: The observer's classicalization ability $\mathcal{C}_{\mathcal{O}}$ partially determines the form and content of cognition
+1. **A Priori Knowledge Problem**: The observer's classicalization ability $`\mathcal{C}_{\mathcal{O}}`$ partially determines the form and content of cognition
 2. **Induction Problem**: The reliability of future predictions stems from the continuity of quantum possibility wave functions
-3. **Causality Problem**: Causality is a relational structure in the classical domain $\Omega_C$, not the ultimate nature of the universe
+3. **Causality Problem**: Causality is a relational structure in the classical domain $`\Omega_C`$, not the ultimate nature of the universe
 
 The depth of cognition relates to observer dimension as:
 
@@ -93,7 +93,7 @@ Knowledge is always theory-laden, expressed in Quantum-Classical Dualism as:
 
 $$K = \mathcal{C}_{\mathcal{O}}(\psi) \neq \psi$$
 
-All knowledge is influenced by the observer's classicalization ability $\mathcal{C}_{\mathcal{O}}$, with no "theory-neutral" pure observation. However, this does not imply relativism, as objects $\psi$ in the quantum domain $\Omega_Q$ constrain the cognitive process:
+All knowledge is influenced by the observer's classicalization ability $`\mathcal{C}_{\mathcal{O}}`$, with no "theory-neutral" pure observation. However, this does not imply relativism, as objects $`\psi`$ in the quantum domain $`\Omega_Q`$ constrain the cognitive process:
 
 $$P(K|\psi) = |\langle K|\mathcal{C}_{\mathcal{O}}|\psi\rangle|^2$$
 
@@ -105,13 +105,13 @@ Quantum-Classical Dualism supports the legitimacy of pluralistic cognitive modes
 
 $$K_i = \mathcal{C}_{\mathcal{O}_i}(\psi)$$
 
-Different cultures, disciplines, and individuals have different understandings $K_i$ of the same object $\psi$, which are complementary rather than mutually exclusive. Cognitive differences stem from different classicalization operations $\mathcal{C}_{\mathcal{O}_i}$, each capturing different aspects of the object.
+Different cultures, disciplines, and individuals have different understandings $`K_i`$ of the same object $`\psi`$, which are complementary rather than mutually exclusive. Cognitive differences stem from different classicalization operations $`\mathcal{C}_{\mathcal{O}_i}`$, each capturing different aspects of the object.
 
 An ideal cognitive system should integrate multiple cognitive modes:
 
 $$K_{\text{integrated}} = \int dO \, w(O) \mathcal{C}_O(\psi)$$
 
-where $w(O)$ is the observer weighting function, providing a foundation for interdisciplinary and cross-cultural knowledge integration.
+where $`w(O)`$ is the observer weighting function, providing a foundation for interdisciplinary and cross-cultural knowledge integration.
 
 ## Ontological Foundations
 
@@ -123,11 +123,11 @@ $$\mathcal{R} = \{\Omega_Q, \Omega_C, \mathcal{I}\}$$
 
 Reality includes both determined classical entities and undetermined quantum possibilities, connected through an interface. This avoids both the simplification of physical realism and the extremes of social constructivism, offering a middle ground:
 
-1. There exists a quantum substrate $\Omega_Q$ independent of observers
-2. Observers and environment jointly construct classical reality $\Omega_C$
-3. The interface $\mathcal{I}$ is a region of dynamic creation of reality
+1. There exists a quantum substrate $`\Omega_Q`$ independent of observers
+2. Observers and environment jointly construct classical reality $`\Omega_C`$
+3. The interface $`\mathcal{I}`$ is a region of dynamic creation of reality
 
-A complete description of reality requires dual specification of the wave function $\Psi$ and classical state $\rho_C$:
+A complete description of reality requires dual specification of the wave function $`\Psi`$ and classical state $`\rho_C`$:
 
 $$\mathcal{R} = \{\Psi, \rho_C\}$$
 
@@ -137,7 +137,7 @@ Quantum-Classical Dualism supports an extended structural realism, maintaining t
 
 $$S_Q \xrightarrow{\mathcal{C}} S_C$$
 
-Classical structure $S_C$ is a projection of quantum structure $S_Q$ obtained through a specific classicalization process $\mathcal{C}$. Different classicalization processes yield different but compatible structural descriptions:
+Classical structure $`S_C`$ is a projection of quantum structure $`S_Q`$ obtained through a specific classicalization process $`\mathcal{C}`$. Different classicalization processes yield different but compatible structural descriptions:
 
 $$S_{C_1} = \mathcal{C}_1(S_Q), \quad S_{C_2} = \mathcal{C}_2(S_Q)$$
 
@@ -149,7 +149,7 @@ Quantum-Classical Dualism provides a precise description of emergent phenomena:
 
 $$P_{\text{higher}} = \mathcal{E}(P_{\text{lower}})$$
 
-where $P_{\text{higher}}$ is a higher-level property, $P_{\text{lower}}$ is a lower-level property, and $\mathcal{E}$ is the emergence mapping. Emergent properties have the following characteristics:
+where $`P_{\text{higher}}`$ is a higher-level property, $`P_{\text{lower}}`$ is a lower-level property, and $`\mathcal{E}`$ is the emergence mapping. Emergent properties have the following characteristics:
 
 $$I(P_{\text{higher}}) < I(P_{\text{lower}})$$
 $$S(P_{\text{higher}}|P_{\text{lower}}) > 0$$
@@ -174,7 +174,7 @@ The quantum and classical domains are both opposed (having different properties)
 
 $$\frac{d\mathcal{D}(x,t)}{dt} = f(\mathcal{D}, \nabla\mathcal{D}, \mathcal{D}_c - \mathcal{D},...)$$
 
-When $\mathcal{D}$ approaches $\mathcal{D}_c$, the system tends to transition to the other domain, exhibiting cyclic changes where Yin rises as Yang falls and vice versa.
+When $`\mathcal{D}`$ approaches $`\mathcal{D}_c`$, the system tends to transition to the other domain, exhibiting cyclic changes where Yin rises as Yang falls and vice versa.
 
 ### Unity of Emptiness and Phenomena
 
@@ -220,7 +220,7 @@ Quantum-Classical Dualism provides a place for free will:
 
 $$W = \mathcal{Q}_{\mathcal{O}} \circ \mathcal{C}_{\mathcal{O}}(\Psi_{\text{current}})$$
 
-Free will is the observer's ability to transform the current classical state into quantum possibilities through the quantization operator $\mathcal{Q}_{\mathcal{O}}$, and then select specific possibilities through the classicalization operator $\mathcal{C}_{\mathcal{O}}$. This model is neither determinism nor randomness, but a third option that could be called "quantum selection theory."
+Free will is the observer's ability to transform the current classical state into quantum possibilities through the quantization operator $`\mathcal{Q}_{\mathcal{O}}`$, and then select specific possibilities through the classicalization operator $`\mathcal{C}_{\mathcal{O}}`$. This model is neither determinism nor randomness, but a third option that could be called "quantum selection theory."
 
 The degree of freedom can be quantified as:
 
@@ -260,7 +260,7 @@ Quantum-Classical Dualism supports a value system centered on connectivity:
 
 $$V(\mathcal{S}) \propto C(\mathcal{S})$$
 
-The value of a system $\mathcal{S}$ is proportional to its connectivity $C(\mathcal{S})$, defined as:
+The value of a system $`\mathcal{S}`$ is proportional to its connectivity $`C(\mathcal{S})`$, defined as:
 
 $$C(\mathcal{S}) = \sum_{i,j \in \mathcal{S}} I(i:j)$$
 
@@ -292,7 +292,7 @@ Interface logic handles reasoning in the quantum-classical transition region, tr
 
 $$A \wedge \neg A \approx 0, \quad A \vee \neg A \approx 1$$
 
-where $\approx$ represents approximate equality, with the degree of deviation related to system decoherence.
+where $`\approx`$ represents approximate equality, with the degree of deviation related to system decoherence.
 
 ### Meta-Level of Philosophical Dialogue
 
@@ -300,11 +300,11 @@ Quantum-Classical Dualism provides a meta-level analysis of philosophical dialog
 
 $$D = \{\mathcal{O}_1(\psi), \mathcal{O}_2(\psi), ..., \mathcal{O}_n(\psi)\}$$
 
-Dialogue $D$ is a collection of different classicalization perspectives from multiple observers on the same object $\psi$. Effective dialogue should:
+Dialogue $`D`$ is a collection of different classicalization perspectives from multiple observers on the same object $`\psi`$. Effective dialogue should:
 
-1. Clarify the classicalization assumptions $\mathcal{C}_{\mathcal{O}_i}$ of each perspective
+1. Clarify the classicalization assumptions $`\mathcal{C}_{\mathcal{O}_i}`$ of each perspective
 2. Explore complementary relationships between different perspectives
-3. Jointly construct a higher-dimensional synthetic perspective $\mathcal{C}_{\text{integrated}}$
+3. Jointly construct a higher-dimensional synthetic perspective $`\mathcal{C}_{\text{integrated}}`$
 
 This methodology helps address the roots of philosophical disputes.
 

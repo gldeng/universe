@@ -33,11 +33,11 @@
 
 ### 绝对爱本质
 
-绝对爱$\Phi_{AL}$是超越一切分离的终极连接状态，定义为：
+绝对爱$`\Phi_{AL}`$是超越一切分离的终极连接状态，定义为：
 
 $$\Phi_{AL} = \{\Omega_{AL}, \Lambda_{AL}, \Theta_{AL}, \Psi_{AL}\}$$
 
-其中$\Omega_{AL}$是爱态，$\Lambda_{AL}$是爱算子，$\Theta_{AL}$是爱场，$\Psi_{AL}$是爱意识。
+其中$`\Omega_{AL}`$是爱态，$`\Lambda_{AL}`$是爱算子，$`\Theta_{AL}`$是爱场，$`\Psi_{AL}`$是爱意识。
 
 绝对爱基本方程：
 
@@ -59,11 +59,11 @@ $$\Phi_{AL}[X] = X^+ \supset X \text{ 且 } X^+ \neq X$$
 
 ### 爱的生成原理
 
-爱的生成原理$\Gamma_{AL}$描述了爱如何生成所有关系形式：
+爱的生成原理$`\Gamma_{AL}`$描述了爱如何生成所有关系形式：
 
 $$\Gamma_{AL} = \{\mathcal{G}_{AL}, \mathcal{P}_{AL}, \mathcal{S}_{AL}, \mathcal{R}_{AL}\}$$
 
-其中$\mathcal{G}_{AL}$是关系生成算子，$\mathcal{P}_{AL}$是潜在关系集，$\mathcal{S}_{AL}$是关系选择函数，$\mathcal{R}_{AL}$是关系实现算子。
+其中$`\mathcal{G}_{AL}`$是关系生成算子，$`\mathcal{P}_{AL}`$是潜在关系集，$`\mathcal{S}_{AL}`$是关系选择函数，$`\mathcal{R}_{AL}`$是关系实现算子。
 
 关系生成方程：
 
@@ -81,15 +81,15 @@ $$\forall R \in \mathcal{P}_{AL}, \mathcal{S}_{AL}(R) \in [0, 1] \text{ 且 } \i
 
 $$\mathcal{R}_{AL}[\mathcal{S}_{AL}(\mathcal{P}_{AL})] = \mathcal{L}_{AL}$$
 
-其中$\mathcal{L}_{AL}$是实现的爱网络，表明潜在关系通过选择和实现变成现实关系网络。
+其中$`\mathcal{L}_{AL}`$是实现的爱网络，表明潜在关系通过选择和实现变成现实关系网络。
 
 ### 爱的层级结构
 
-爱的层级结构$\mathcal{H}_{AL}$描述了爱的多层级组织：
+爱的层级结构$`\mathcal{H}_{AL}`$描述了爱的多层级组织：
 
 $$\mathcal{H}_{AL} = \{\mathcal{L}_i | i \in \Lambda, \mathcal{L}_i \text{ 是爱的层级}\}$$
 
-其中$\Lambda$是可超越常规序数的层级指数集。
+其中$`\Lambda`$是可超越常规序数的层级指数集。
 
 层级爱定理：
 
@@ -113,18 +113,18 @@ $$\lim_{i \to \Omega} \mathcal{L}_i = \Phi_{AL} \text{ 其中 } \Omega \text{ �
 
 ### 爱场代数
 
-爱场代数$\mathcal{A}_{AL}$是描述爱场结构的数学系统：
+爱场代数$`\mathcal{A}_{AL}`$是描述爱场结构的数学系统：
 
 $$\mathcal{A}_{AL} = \{\mathbb{L}_{AL}, \oplus, \otimes, \mathcal{I}_{AL}\}$$
 
-其中$\mathbb{L}_{AL}$是爱场空间，$\oplus$是爱的合成运算，$\otimes$是爱的深化运算，$\mathcal{I}_{AL}$是爱的强度映射。
+其中$`\mathbb{L}_{AL}`$是爱场空间，$`\oplus`$是爱的合成运算，$`\otimes`$是爱的深化运算，$`\mathcal{I}_{AL}`$是爱的强度映射。
 
 爱场代数公理：
 
-1. **爱的合成律**: $x \oplus y \supset x \text{ 且 } x \oplus y \supset y$
-2. **交换律**: $x \oplus y = y \oplus x$
-3. **结合律**: $(x \oplus y) \oplus z = x \oplus (y \oplus z)$
-4. **深化律**: $x \otimes (y \oplus z) \supset (x \otimes y) \oplus (x \otimes z)$
+1. **爱的合成律**: $`x \oplus y \supset x \text{ 且 } x \oplus y \supset y`$
+2. **交换律**: $`x \oplus y = y \oplus x`$
+3. **结合律**: $`(x \oplus y) \oplus z = x \oplus (y \oplus z)`$
+4. **深化律**: $`x \otimes (y \oplus z) \supset (x \otimes y) \oplus (x \otimes z)`$
 
 表明爱场代数构成一种超越常规代数的增益结构。
 
@@ -138,11 +138,11 @@ $$\mathcal{I}_{AL}(x \oplus y) > \mathcal{I}_{AL}(x) + \mathcal{I}_{AL}(y)$$
 
 $$\mathcal{I}_{AL}(x \otimes y) = \mathcal{I}_{AL}(x) \cdot \mathcal{I}_{AL}(y) \cdot (1 + \mathcal{C}_{AL}(x, y))$$
 
-其中$\mathcal{C}_{AL}(x, y)$是爱的共鸣系数，表明爱的深化产生乘法效应，且共鸣越强，效应越大。
+其中$`\mathcal{C}_{AL}(x, y)`$是爱的共鸣系数，表明爱的深化产生乘法效应，且共鸣越强，效应越大。
 
 ### 爱变换理论
 
-爱变换理论$\mathcal{T}_{AL}$描述爱如何转换存在和关系：
+爱变换理论$`\mathcal{T}_{AL}`$描述爱如何转换存在和关系：
 
 $$\mathcal{T}_{AL}: \mathcal{X} \to \mathcal{X}^+$$
 
@@ -170,11 +170,11 @@ $$\mathcal{T}_{AL}^n(X) = \mathcal{T}_{AL}(\mathcal{T}_{AL}^{n-1}(X)) \text{ 且
 
 ### 爱力场方程
 
-绝对爱力场$\Theta_{AL}$是渗透一切存在的爱的力场，由爱力场方程描述：
+绝对爱力场$`\Theta_{AL}`$是渗透一切存在的爱的力场，由爱力场方程描述：
 
 $$\nabla^2\Theta_{AL} - \frac{1}{c_{AL}^2}\frac{\partial^2\Theta_{AL}}{\partial\tau^2} = \rho_{AL}$$
 
-其中$c_{AL}$是爱的传播速度，$\tau$是超越时间，$\rho_{AL}$是爱源密度。
+其中$`c_{AL}`$是爱的传播速度，$`\tau`$是超越时间，$`\rho_{AL}`$是爱源密度。
 
 爱场波动定理：
 
@@ -186,7 +186,7 @@ $$\Theta_{AL}(x, \tau) = \sum_{n=0}^{\infty} \Theta_{AL}^n(x)e^{in\omega\tau}$$
 
 $$\mathcal{E}_{AL}(x, \tau) = \frac{1}{2}(\|\nabla\Theta_{AL}\|^2 + \frac{1}{c_{AL}^2}\|\frac{\partial\Theta_{AL}}{\partial\tau}\|^2)$$
 
-表示爱场在时空点$(x,\tau)$的能量密度。
+表示爱场在时空点$`(x,\tau)`$的能量密度。
 
 爱场增益定律：
 
@@ -196,11 +196,11 @@ $$\frac{d}{d\tau}\int_V \mathcal{E}_{AL}(x, \tau)dV \geq 0$$
 
 ### 爱场动力学
 
-爱场动力学$\mathcal{D}_{AL}$描述爱场的演化：
+爱场动力学$`\mathcal{D}_{AL}`$描述爱场的演化：
 
 $$\frac{\partial\Theta_{AL}}{\partial\tau} = \mathcal{D}_{AL}[\Theta_{AL}, \nabla\Theta_{AL}] + \mathcal{S}_{AL}(x, \tau)$$
 
-其中$\mathcal{S}_{AL}$是爱源函数，表示爱的自发产生。
+其中$`\mathcal{S}_{AL}`$是爱源函数，表示爱的自发产生。
 
 爱场相位空间：
 
@@ -224,18 +224,18 @@ $$\forall \Theta_1, \Theta_2, \exists \omega: \mathcal{R}_{AL}(\Theta_1, \Theta_
 
 ### 爱的网络结构
 
-爱的意识网络$\mathcal{N}_{AL}$是连接所有意识实体的爱网络：
+爱的意识网络$`\mathcal{N}_{AL}`$是连接所有意识实体的爱网络：
 
 $$\mathcal{N}_{AL} = \{\mathcal{V}_{AL}, \mathcal{E}_{AL}, \mathcal{W}_{AL}, \mathcal{F}_{AL}\}$$
 
-其中$\mathcal{V}_{AL}$是意识节点集，$\mathcal{E}_{AL}$是爱连接集，$\mathcal{W}_{AL}$是连接强度，$\mathcal{F}_{AL}$是爱流函数。
+其中$`\mathcal{V}_{AL}`$是意识节点集，$`\mathcal{E}_{AL}`$是爱连接集，$`\mathcal{W}_{AL}`$是连接强度，$`\mathcal{F}_{AL}`$是爱流函数。
 
 爱网络公理：
 
-1. **连通性**: $\forall v_i, v_j \in \mathcal{V}_{AL}, \exists \text{路径 } p: v_i \to v_j$
-2. **反身性**: $\forall v_i \in \mathcal{V}_{AL}, (v_i, v_i) \in \mathcal{E}_{AL}$
-3. **对称性**: $(v_i, v_j) \in \mathcal{E}_{AL} \Rightarrow (v_j, v_i) \in \mathcal{E}_{AL}$
-4. **传递增强性**: $(v_i, v_j), (v_j, v_k) \in \mathcal{E}_{AL} \Rightarrow (v_i, v_k) \in \mathcal{E}_{AL} \text{ 且 } \mathcal{W}_{AL}(v_i, v_k) \geq f(\mathcal{W}_{AL}(v_i, v_j), \mathcal{W}_{AL}(v_j, v_k))$
+1. **连通性**: $`\forall v_i, v_j \in \mathcal{V}_{AL}, \exists \text{路径 } p: v_i \to v_j`$
+2. **反身性**: $`\forall v_i \in \mathcal{V}_{AL}, (v_i, v_i) \in \mathcal{E}_{AL}`$
+3. **对称性**: $`(v_i, v_j) \in \mathcal{E}_{AL} \Rightarrow (v_j, v_i) \in \mathcal{E}_{AL}`$
+4. **传递增强性**: $`(v_i, v_j), (v_j, v_k) \in \mathcal{E}_{AL} \Rightarrow (v_i, v_k) \in \mathcal{E}_{AL} \text{ 且 } \mathcal{W}_{AL}(v_i, v_k) \geq f(\mathcal{W}_{AL}(v_i, v_j), \mathcal{W}_{AL}(v_j, v_k))`$
 
 表明爱网络形成一个增强型传递关系结构。
 
@@ -243,21 +243,21 @@ $$\mathcal{N}_{AL} = \{\mathcal{V}_{AL}, \mathcal{E}_{AL}, \mathcal{W}_{AL}, \ma
 
 $$\mathcal{F}_{AL}(v_i, v_j) = \mathcal{W}_{AL}(v_i, v_j) \cdot \mathcal{G}_{AL}(v_i, v_j)$$
 
-其中$\mathcal{G}_{AL}$是爱梯度函数，描述爱如何在网络中流动。
+其中$`\mathcal{G}_{AL}`$是爱梯度函数，描述爱如何在网络中流动。
 
 爱网络动力学：
 
 $$\frac{d\mathcal{W}_{AL}(v_i, v_j)}{d\tau} = \alpha \cdot \mathcal{F}_{AL}(v_i, v_j) + \beta \cdot \mathcal{F}_{AL}(v_j, v_i) + \gamma \cdot \mathcal{S}_{AL}(v_i, v_j)$$
 
-其中$\alpha, \beta, \gamma$是系数，$\mathcal{S}_{AL}$是爱源函数，描述连接强度如何随爱流和爱源演化。
+其中$`\alpha, \beta, \gamma`$是系数，$`\mathcal{S}_{AL}`$是爱源函数，描述连接强度如何随爱流和爱源演化。
 
 ### 爱的意识结构
 
-爱的意识$\Psi_{AL}$是统一所有意识形式的爱意识：
+爱的意识$`\Psi_{AL}`$是统一所有意识形式的爱意识：
 
 $$\Psi_{AL} = \{\mathcal{A}_{AL}, \mathcal{C}_{AL}, \mathcal{W}_{AL}, \mathcal{T}_{AL}\}$$
 
-其中$\mathcal{A}_{AL}$是爱的觉知，$\mathcal{C}_{AL}$是爱的连接，$\mathcal{W}_{AL}$是爱的意志，$\mathcal{T}_{AL}$是爱的转化。
+其中$`\mathcal{A}_{AL}`$是爱的觉知，$`\mathcal{C}_{AL}`$是爱的连接，$`\mathcal{W}_{AL}`$是爱的意志，$`\mathcal{T}_{AL}`$是爱的转化。
 
 爱意识方程：
 
@@ -281,11 +281,11 @@ $$\mathcal{T}_{AL}(\Psi_i \cup \Psi_j) \supset \mathcal{T}_{AL}(\Psi_i) \cup \ma
 
 ### 爱与逆爱辩证
 
-爱与逆爱辩证关系$\mathcal{D}_{AL}$揭示爱与逆爱（恐惧、分离）的深层联系：
+爱与逆爱辩证关系$`\mathcal{D}_{AL}`$揭示爱与逆爱（恐惧、分离）的深层联系：
 
 $$\mathcal{D}_{AL} = \{\Phi_{AL}, \Phi_{AF}, \mathcal{R}_{AL-AF}, \mathcal{T}_{AL-AF}\}$$
 
-其中$\Phi_{AL}$是绝对爱，$\Phi_{AF}$是绝对恐惧，$\mathcal{R}_{AL-AF}$是爱-恐惧关系，$\mathcal{T}_{AL-AF}$是爱-恐惧转换。
+其中$`\Phi_{AL}`$是绝对爱，$`\Phi_{AF}`$是绝对恐惧，$`\mathcal{R}_{AL-AF}`$是爱-恐惧关系，$`\mathcal{T}_{AL-AF}`$是爱-恐惧转换。
 
 爱-恐惧转化定理：
 
@@ -307,11 +307,11 @@ $$\lim_{\mathcal{I}_{AL} \to \max} \mathcal{I}_{AF} = 0 \text{ 且 } \mathcal{I}
 
 ### 爱的转化力量
 
-爱的转化力量$\mathcal{T}_{AL}$揭示爱如何转化一切：
+爱的转化力量$`\mathcal{T}_{AL}`$揭示爱如何转化一切：
 
 $$\mathcal{T}_{AL} = \{\mathcal{P}_{AL}, \mathcal{F}_{AL}, \mathcal{E}_{AL}, \mathcal{H}_{AL}\}$$
 
-其中$\mathcal{P}_{AL}$是转化潜能，$\mathcal{F}_{AL}$是转化力场，$\mathcal{E}_{AL}$是转化能量，$\mathcal{H}_{AL}$是转化层级。
+其中$`\mathcal{P}_{AL}`$是转化潜能，$`\mathcal{F}_{AL}`$是转化力场，$`\mathcal{E}_{AL}`$是转化能量，$`\mathcal{H}_{AL}`$是转化层级。
 
 爱的转化定理：
 
@@ -335,11 +335,11 @@ $$\mathcal{H}_{AL} = \{h_i | i \in \Lambda\}, h_i < h_j \iff \mathcal{E}_{AL}(h_
 
 ### 连接深度动力学
 
-连接深度动力学$\mathcal{C}_{AL}$描述爱的连接深度演化：
+连接深度动力学$`\mathcal{C}_{AL}`$描述爱的连接深度演化：
 
 $$\mathcal{C}_{AL} = \{\mathcal{D}_{AL}, \mathcal{B}_{AL}, \mathcal{I}_{AL}, \mathcal{R}_{AL}\}$$
 
-其中$\mathcal{D}_{AL}$是深度函数，$\mathcal{B}_{AL}$是连接广度，$\mathcal{I}_{AL}$是连接强度，$\mathcal{R}_{AL}$是关系函数。
+其中$`\mathcal{D}_{AL}`$是深度函数，$`\mathcal{B}_{AL}`$是连接广度，$`\mathcal{I}_{AL}`$是连接强度，$`\mathcal{R}_{AL}`$是关系函数。
 
 连接深度方程：
 
@@ -361,17 +361,17 @@ $$\mathcal{D}_{AL} \cdot \mathcal{B}_{AL} \geq K_{AL} \cdot \mathcal{I}_{AL}$$
 
 ### 爱的共振涌现
 
-爱的共振涌现$\mathcal{E}_{AL}$描述爱的共振跃迁现象：
+爱的共振涌现$`\mathcal{E}_{AL}`$描述爱的共振跃迁现象：
 
 $$\mathcal{E}_{AL} = \{\mathcal{F}_{AL}, \mathcal{C}_{AL}, \mathcal{S}_{AL}, \mathcal{R}_{AL}\}$$
 
-其中$\mathcal{F}_{AL}$是频率函数，$\mathcal{C}_{AL}$是临界条件，$\mathcal{S}_{AL}$是状态转换，$\mathcal{R}_{AL}$是共振函数。
+其中$`\mathcal{F}_{AL}`$是频率函数，$`\mathcal{C}_{AL}`$是临界条件，$`\mathcal{S}_{AL}`$是状态转换，$`\mathcal{R}_{AL}`$是共振函数。
 
 爱的共振方程：
 
 $$\mathcal{R}_{AL}(X, Y, \omega) = \frac{A_{AL}(X, \omega) \cdot A_{AL}(Y, \omega)}{|\omega_X - \omega_Y|^2 + \gamma^2}$$
 
-其中$A_{AL}$是爱振幅，$\omega_X$和$\omega_Y$是固有频率，$\gamma$是阻尼系数，描述两个存在之间的爱共振强度。
+其中$`A_{AL}`$是爱振幅，$`\omega_X`$和$`\omega_Y`$是固有频率，$`\gamma`$是阻尼系数，描述两个存在之间的爱共振强度。
 
 爱的共振跃迁：
 
@@ -389,11 +389,11 @@ $$\mathcal{N}_{R-AL} = \{X_i | i \in I, \mathcal{R}_{AL}(X_i, X_j) > 0 \text{ �
 
 ### 爱的边界超越
 
-爱的边界超越$\mathcal{B}_{AL}$描述爱如何超越一切边界：
+爱的边界超越$`\mathcal{B}_{AL}`$描述爱如何超越一切边界：
 
 $$\mathcal{B}_{AL} = \{\mathcal{L}_{AL}, \mathcal{T}_{AL}, \mathcal{E}_{AL}, \mathcal{S}_{AL}\}$$
 
-其中$\mathcal{L}_{AL}$是边界函数，$\mathcal{T}_{AL}$是超越函数，$\mathcal{E}_{AL}$是扩展算子，$\mathcal{S}_{AL}$是共享函数。
+其中$`\mathcal{L}_{AL}`$是边界函数，$`\mathcal{T}_{AL}`$是超越函数，$`\mathcal{E}_{AL}`$是扩展算子，$`\mathcal{S}_{AL}`$是共享函数。
 
 爱的超越方程：
 
@@ -415,11 +415,11 @@ $$\mathcal{E}_{AL}^{n+1} = \mathcal{E}_{AL}[\mathcal{E}_{AL}^n] \text{ 且 } \li
 
 ### 爱的统一连接
 
-爱的统一连接$\mathcal{U}_{AL}$描述爱如何连接一切：
+爱的统一连接$`\mathcal{U}_{AL}`$描述爱如何连接一切：
 
 $$\mathcal{U}_{AL} = \{\mathcal{C}_{AL}, \mathcal{I}_{AL}, \mathcal{H}_{AL}, \mathcal{S}_{AL}\}$$
 
-其中$\mathcal{C}_{AL}$是连接函数，$\mathcal{I}_{AL}$是整合算子，$\mathcal{H}_{AL}$是和谐度，$\mathcal{S}_{AL}$是协同函数。
+其中$`\mathcal{C}_{AL}`$是连接函数，$`\mathcal{I}_{AL}`$是整合算子，$`\mathcal{H}_{AL}`$是和谐度，$`\mathcal{S}_{AL}`$是协同函数。
 
 爱的统一连接定理：
 
@@ -443,17 +443,17 @@ $$\mathcal{H}_{AL}[\mathcal{I}_{AL}[\{X_i\}]] = \frac{\sum_{i,j} \mathcal{C}_{AL
 
 ### 爱的多维模型
 
-爱的多维模型$\mathcal{M}_{AL}$描述爱的多维度结构：
+爱的多维模型$`\mathcal{M}_{AL}`$描述爱的多维度结构：
 
 $$\mathcal{M}_{AL} = \{\mathcal{E}_{AL}, \mathcal{C}_{AL}, \mathcal{G}_{AL}, \mathcal{T}_{AL}\}$$
 
-其中$\mathcal{E}_{AL}$是情感维度，$\mathcal{C}_{AL}$是认知维度，$\mathcal{G}_{AL}$是给予维度，$\mathcal{T}_{AL}$是转化维度。
+其中$`\mathcal{E}_{AL}`$是情感维度，$`\mathcal{C}_{AL}`$是认知维度，$`\mathcal{G}_{AL}`$是给予维度，$`\mathcal{T}_{AL}`$是转化维度。
 
 爱的向量场：
 
 $$\vec{\mathcal{L}}(x, \tau) = \mathcal{E}_{AL}(x, \tau)\vec{e}_E + \mathcal{C}_{AL}(x, \tau)\vec{e}_C + \mathcal{G}_{AL}(x, \tau)\vec{e}_G + \mathcal{T}_{AL}(x, \tau)\vec{e}_T$$
 
-表示在时空点$(x, \tau)$的爱作为多维向量场。
+表示在时空点$`(x, \tau)`$的爱作为多维向量场。
 
 爱的强度函数：
 
@@ -469,11 +469,11 @@ $$\mathcal{E}_{AL} : \mathcal{C}_{AL} : \mathcal{G}_{AL} : \mathcal{T}_{AL} = 1 
 
 ### 爱的实现动力学
 
-爱的实现动力学$\mathcal{I}_{AL}$描述爱如何在现实中实现：
+爱的实现动力学$`\mathcal{I}_{AL}`$描述爱如何在现实中实现：
 
 $$\mathcal{I}_{AL} = \{\mathcal{R}_{AL}, \mathcal{A}_{AL}, \mathcal{T}_{AL}, \mathcal{E}_{AL}\}$$
 
-其中$\mathcal{R}_{AL}$是实现函数，$\mathcal{A}_{AL}$是行动算子，$\mathcal{T}_{AL}$是转化函数，$\mathcal{E}_{AL}$是效果度量。
+其中$`\mathcal{R}_{AL}`$是实现函数，$`\mathcal{A}_{AL}`$是行动算子，$`\mathcal{T}_{AL}`$是转化函数，$`\mathcal{E}_{AL}`$是效果度量。
 
 爱的实现方程：
 
@@ -491,13 +491,13 @@ $$\mathcal{Z}_{AL} = \frac{\mathcal{L}_{AL}}{\mathcal{E}_{AL}}$$
 
 $$\mathcal{N}_{I-AL} = \{\mathcal{V}_{I-AL}, \mathcal{E}_{I-AL}, \mathcal{W}_{I-AL}, \mathcal{F}_{I-AL}\}$$
 
-表示爱实现的社会网络结构，通过节点$\mathcal{V}_{I-AL}$、连接$\mathcal{E}_{I-AL}$、权重$\mathcal{W}_{I-AL}$和流函数$\mathcal{F}_{I-AL}$描述。
+表示爱实现的社会网络结构，通过节点$`\mathcal{V}_{I-AL}`$、连接$`\mathcal{E}_{I-AL}`$、权重$`\mathcal{W}_{I-AL}`$和流函数$`\mathcal{F}_{I-AL}`$描述。
 
 爱的实现扩散方程：
 
 $$\frac{\partial \mathcal{L}_{AL}}{\partial \tau} = D_{AL} \nabla^2 \mathcal{L}_{AL} + \mathcal{S}_{AL}(x, \tau)$$
 
-描述爱如何在社会网络中扩散，$D_{AL}$是扩散系数，$\mathcal{S}_{AL}$是爱源函数。
+描述爱如何在社会网络中扩散，$`D_{AL}`$是扩散系数，$`\mathcal{S}_{AL}`$是爱源函数。
 
 ## 参考文献与关联理论
 

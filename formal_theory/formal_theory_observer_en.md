@@ -18,7 +18,7 @@
 
 ## Observer Theory Overview
 
-The observer $\mathcal{O}$ is the core node in the quantum-classical dualism framework that executes the quantum→classical conversion, forming the foundation of reality perception and cognitive structures. This document details the structure, dynamics, and key role of observers in cosmic information processing, establishing a unified theory of observer dimensions, measurement, and consciousness.
+The observer $`\mathcal{O}`$ is the core node in the quantum-classical dualism framework that executes the quantum→classical conversion, forming the foundation of reality perception and cognitive structures. This document details the structure, dynamics, and key role of observers in cosmic information processing, establishing a unified theory of observer dimensions, measurement, and consciousness.
 
 ## Basic Observer Definition
 
@@ -27,15 +27,15 @@ An observer consists of three core components:
 $$\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}$$
 
 where:
-- $\mathcal{C}_{\mathcal{O}}$ is the observer's unique classicalization operator (the ability to transform quantum possibilities into definite knowledge)
-- $\mathcal{Q}_{\mathcal{O}}$ is the observer's unique quantization operator (the ability to convert classical knowledge back into quantum possibilities)
-- $K_C^{\mathcal{O}}$ is the observer's classical knowledge base
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer's unique classicalization operator (the ability to transform quantum possibilities into definite knowledge)
+- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer's unique quantization operator (the ability to convert classical knowledge back into quantum possibilities)
+- $`K_C^{\mathcal{O}}`$ is the observer's classical knowledge base
 
 The observer dimension is determined by their information processing capacity:
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}$$
 
-where $f$ is a conversion function, $I_{\text{classical knowledge}}$ is the information content of the observer's classical knowledge, $S_{\text{classical entropy}}$ is the entropy of the observer's classical knowledge, and $\epsilon$ is a small constant to prevent division by zero.
+where $`f`$ is a conversion function, $`I_{\text{classical knowledge}}`$ is the information content of the observer's classical knowledge, $`S_{\text{classical entropy}}`$ is the entropy of the observer's classical knowledge, and $`\epsilon`$ is a small constant to prevent division by zero.
 
 ## Observer Structure
 
@@ -59,29 +59,29 @@ Each layer has specific information processing operations and representation spa
 
 ### 2. Classicalization Operator Structure
 
-The observer's classicalization operator $\mathcal{C}_{\mathcal{O}}$ is the key mechanism for converting quantum information into classical knowledge, with the following structure:
+The observer's classicalization operator $`\mathcal{C}_{\mathcal{O}}`$ is the key mechanism for converting quantum information into classical knowledge, with the following structure:
 
 $$\mathcal{C}_{\mathcal{O}}(\rho) = \sum_i K_i \rho K_i^\dagger$$
 
-where $K_i$ are Kraus operators satisfying $\sum_i K_i^\dagger K_i = I$.
+where $`K_i`$ are Kraus operators satisfying $`\sum_i K_i^\dagger K_i = I`$.
 
 The specific form of the classicalization operator depends on the observer's cognitive structure and experiential history:
 
 $$K_i = \sqrt{p_i} |c_i\rangle\langle q_i|$$
 
-Here, $|q_i\rangle$ are quantum basis states, $|c_i\rangle$ are corresponding classical representations, and $p_i$ are weight coefficients.
+Here, $`|q_i\rangle`$ are quantum basis states, $`|c_i\rangle`$ are corresponding classical representations, and $`p_i`$ are weight coefficients.
 
-The preferred basis for classicalization $\{|q_i\rangle\}$ is the foundation of observer stability and predictive capacity:
+The preferred basis for classicalization $`\{|q_i\rangle\}`$ is the foundation of observer stability and predictive capacity:
 
 $$\text{Stability}(\{|q_i\rangle\}) = \sum_i \int dt \, e^{-\Gamma_i t} |\langle q_i|U(t)|q_i\rangle|^2$$
 
 ### 3. Quantization Operator Structure
 
-The observer's quantization operator $\mathcal{Q}_{\mathcal{O}}$ is responsible for creating new quantum possibilities from classical knowledge:
+The observer's quantization operator $`\mathcal{Q}_{\mathcal{O}}`$ is responsible for creating new quantum possibilities from classical knowledge:
 
 $$\mathcal{Q}_{\mathcal{O}}(K) = \sum_{i,j} \alpha_{ij}(K) |q_i\rangle\langle q_j|$$
 
-where the coefficients $\alpha_{ij}(K)$ depend on the classical knowledge $K$ and the observer's creative capacity.
+where the coefficients $`\alpha_{ij}(K)`$ depend on the classical knowledge $`K`$ and the observer's creative capacity.
 
 The creative capacity of the quantization operator can be quantified as:
 
@@ -96,9 +96,9 @@ The observer's classical knowledge base is a complex network structure:
 $$K_C^{\mathcal{O}} = (V, E, \omega)$$
 
 where:
-- $V$ is the set of knowledge nodes
-- $E$ is the set of knowledge associations
-- $\omega$ is the association strength function
+- $`V`$ is the set of knowledge nodes
+- $`E`$ is the set of knowledge associations
+- $`\omega`$ is the association strength function
 
 The topological structure of the knowledge base determines the observer's cognitive characteristics:
 
@@ -106,17 +106,17 @@ $$\text{Connectivity}(K_C^{\mathcal{O}}) = \frac{|E|}{|V|(|V|-1)/2}$$
 
 $$\text{Modularity}(K_C^{\mathcal{O}}) = \frac{1}{|E|}\sum_{ij} \left(\omega_{ij} - \frac{k_i k_j}{2|E|}\right)\delta(c_i, c_j)$$
 
-where $k_i$ is the degree of node $i$, $c_i$ is the community to which node $i$ belongs, and $\delta$ is the Kronecker function.
+where $`k_i`$ is the degree of node $`i`$, $`c_i`$ is the community to which node $`i`$ belongs, and $`\delta`$ is the Kronecker function.
 
 ## Observer Dimension Theory
 
 ### 1. Dimension Definition and Calculation
 
-Observer dimension $D_{\mathcal{O}}$ is a key indicator for understanding observer capabilities, precisely defined as:
+Observer dimension $`D_{\mathcal{O}}`$ is a key indicator for understanding observer capabilities, precisely defined as:
 
 $$D_{\mathcal{O}} = \left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right)^\alpha \cdot \frac{I_{\text{classical knowledge}}^\beta}{(S_{\text{classical entropy}}+\epsilon)^\gamma}$$
 
-where the exponents $\alpha, \beta, \gamma$ are dimension scaling parameters, with typical values $\alpha = 0.5, \beta = 0.7, \gamma = 0.3$.
+where the exponents $`\alpha, \beta, \gamma`$ are dimension scaling parameters, with typical values $`\alpha = 0.5, \beta = 0.7, \gamma = 0.3`$.
 
 The classical knowledge information content can be calculated as:
 
@@ -126,7 +126,7 @@ Classical entropy can be calculated as:
 
 $$S_{\text{classical entropy}} = -\sum_i p_i \log_2 p_i$$
 
-where $p_i$ is the activation probability of knowledge node $i$.
+where $`p_i`$ is the activation probability of knowledge node $`i`$.
 
 ### 2. Dimension Scaling Laws
 
@@ -134,15 +134,15 @@ Observer dimensions follow these scaling laws:
 
 1. **System Complexity Scaling**:
    $$D_{\mathcal{O}} \propto N^\delta$$
-   where $N$ is the number of components in the observer system, $\delta \approx 0.4$.
+   where $`N`$ is the number of components in the observer system, $`\delta \approx 0.4`$.
 
 2. **Information Processing Capacity Scaling**:
    $$D_{\mathcal{O}} \propto (\text{Bandwidth})^\eta$$
-   where $\text{Bandwidth}$ is the observer's information processing bandwidth, $\eta \approx 0.6$.
+   where $`\text{Bandwidth}`$ is the observer's information processing bandwidth, $`\eta \approx 0.6`$.
 
 3. **Spatiotemporal Resolution Scaling**:
    $$D_{\mathcal{O}} \propto \left(\frac{T_{\text{max}}}{T_{\text{min}}}\right)^\mu \cdot \left(\frac{L_{\text{max}}}{L_{\text{min}}}\right)^\nu$$
-   where $T_{\text{max}}/T_{\text{min}}$ is the maximum/minimum time scale the observer can distinguish, $L_{\text{max}}/L_{\text{min}}$ is the maximum/minimum spatial scale the observer can distinguish, $\mu \approx \nu \approx 0.2$.
+   where $`T_{\text{max}}/T_{\text{min}}`$ is the maximum/minimum time scale the observer can distinguish, $`L_{\text{max}}/L_{\text{min}}`$ is the maximum/minimum spatial scale the observer can distinguish, $`\mu \approx \nu \approx 0.2`$.
 
 ### 3. Dimension Dynamic Evolution
 
@@ -151,10 +151,10 @@ The evolution of observer dimension over time follows a nonlinear dynamics equat
 $$\frac{dD_{\mathcal{O}}}{dt} = \alpha \cdot \frac{dI_{\text{classical knowledge}}}{dt} - \beta \cdot \frac{dS_{\text{classical entropy}}}{dt} + \gamma \cdot D_{\mathcal{O}}(1-\frac{D_{\mathcal{O}}}{D_{\text{max}}}) + \eta(t)$$
 
 where:
-- $\alpha, \beta$ are coefficients
-- $\gamma$ is the autocatalytic growth rate
-- $D_{\text{max}}$ is the maximum dimension supported by the environment
-- $\eta(t)$ is a random fluctuation term
+- $`\alpha, \beta`$ are coefficients
+- $`\gamma`$ is the autocatalytic growth rate
+- $`D_{\text{max}}`$ is the maximum dimension supported by the environment
+- $`\eta(t)`$ is a random fluctuation term
 
 This equation describes how observers enhance their dimensions through learning, experience, and self-organization.
 
@@ -181,17 +181,17 @@ In observer theory, the quantum measurement process can be represented as:
 $$|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_{\mathcal{O}} \xrightarrow{U_{\text{interaction}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_{\mathcal{O}} \xrightarrow{\mathcal{C}_{\mathcal{O}}} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{\mathcal{O}}^{i_0}$$
 
 where:
-- $|\psi\rangle = \sum_i c_i |i\rangle$ is the quantum state being measured
-- $\rho_A$ is the initial state of the measuring apparatus
-- $\rho_{\mathcal{O}}$ is the initial state of the observer
-- $U_{\text{interaction}}$ is the interaction between the system, apparatus, and observer
-- $\mathcal{C}_{\mathcal{O}}$ is the observer's classicalization operator
-- $|i_0\rangle$ is the finally observed classical state
-- $\rho_{\mathcal{O}}^{i_0}$ is the observer's state after measurement
+- $`|\psi\rangle = \sum_i c_i |i\rangle`$ is the quantum state being measured
+- $`\rho_A`$ is the initial state of the measuring apparatus
+- $`\rho_{\mathcal{O}}`$ is the initial state of the observer
+- $`U_{\text{interaction}}`$ is the interaction between the system, apparatus, and observer
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer's classicalization operator
+- $`|i_0\rangle`$ is the finally observed classical state
+- $`\rho_{\mathcal{O}}^{i_0}`$ is the observer's state after measurement
 
 ### 2. Observer Resolution Effect
 
-Measurement result probabilities are modulated by the observer resolution parameter $\eta_{\mathcal{O}}$:
+Measurement result probabilities are modulated by the observer resolution parameter $`\eta_{\mathcal{O}}`$:
 
 $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_{i_0}|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}$$
 
@@ -199,7 +199,7 @@ The relationship between observer energy threshold and measurement resolution:
 
 $$\eta_{\mathcal{O}} = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{\text{threshold}}}{\bar{E}_0}\right)$$
 
-where $E_{\text{threshold}}$ is the observer's energy threshold and $\bar{E}_0$ is the background environmental energy.
+where $`E_{\text{threshold}}`$ is the observer's energy threshold and $`\bar{E}_0`$ is the background environmental energy.
 
 ### 3. Observer Measurement Effect
 
@@ -207,7 +207,7 @@ Observer measurements alter the state of the measured system, with the post-meas
 
 $$\rho_{\text{post}} = \sum_i M_i \rho_{\text{pre}} M_i^\dagger$$
 
-where the measurement operators $M_i$ are related to observer characteristics:
+where the measurement operators $`M_i`$ are related to observer characteristics:
 
 $$M_i = \sqrt{\frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}} \cdot |i\rangle\langle i|$$
 
@@ -215,7 +215,7 @@ The information gain from observer measurement can be calculated as:
 
 $$I_{\text{gain}} = S(\rho_{\text{pre}}) - \sum_i p_i S(\rho_{\text{post}}^i)$$
 
-where $p_i$ is the probability of measurement result $i$, and $\rho_{\text{post}}^i$ is the post-measurement state of the system when the result is $i$.
+where $`p_i`$ is the probability of measurement result $`i`$, and $`\rho_{\text{post}}^i`$ is the post-measurement state of the system when the result is $`i`$.
 
 ### 4. Overlapping Measurements and Quantum Erasure
 
@@ -231,7 +231,7 @@ Quantum erasure phenomena occur when a high-dimensional observer reverses the me
 
 $$\mathcal{Q}_{\mathcal{O}_1}(\mathcal{C}_{\mathcal{O}_2}(\rho)) \approx \rho$$
 
-When $D_{\mathcal{O}_1} \gg D_{\mathcal{O}_2}$, this reversal is approximately perfect.
+When $`D_{\mathcal{O}_1} \gg D_{\mathcal{O}_2}`$, this reversal is approximately perfect.
 
 ## Observer Network Theory
 
@@ -241,7 +241,7 @@ Observers form multi-level network structures:
 
 $$\mathcal{N} = (\mathcal{O}, \mathcal{E})$$
 
-where $\mathcal{O} = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}$ is the set of observers, and $\mathcal{E} = \{e_{ij}\}$ is the set of connections between observers.
+where $`\mathcal{O} = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}`$ is the set of observers, and $`\mathcal{E} = \{e_{ij}\}`$ is the set of connections between observers.
 
 The topological structure of the network can be characterized by the following metrics:
 
@@ -254,7 +254,7 @@ The topological structure of the network can be characterized by the following m
 3. **Degree Distribution**:
    $$P(k) \sim k^{-\gamma}$$
 
-Observer networks often exhibit small-world and scale-free properties, with $2 < \gamma < 3$.
+Observer networks often exhibit small-world and scale-free properties, with $`2 < \gamma < 3`$.
 
 ### 2. Observer Communication Channels
 
@@ -269,7 +269,7 @@ Communication between observers occurs through three primary channels:
 3. **Interface Channel**: Hybrid exchange through quantum-classical interfaces
    $$I_{\text{interface}}(O_i:O_j) = I(O_i:O_j) + \alpha E(O_i:O_j)$$
 
-where $H$ is Shannon entropy, $S$ is von Neumann entropy, and $\alpha$ is the interface efficiency parameter.
+where $`H`$ is Shannon entropy, $`S`$ is von Neumann entropy, and $`\alpha`$ is the interface efficiency parameter.
 
 ### 3. Collective Observer Effects
 
@@ -288,7 +288,7 @@ The collective classicalization operator is defined as:
 
 $$\mathcal{C}_{\text{collective}}(\rho) = \sum_{i=1}^n w_i \mathcal{C}_{O_i}(\rho)$$
 
-where $w_i$ is the weight of observer $O_i$ in the collective.
+where $`w_i`$ is the weight of observer $`O_i`$ in the collective.
 
 ## Observer and Consciousness
 
@@ -298,7 +298,7 @@ In quantum-classical dualism, consciousness is formally defined as a specialized
 
 $$\mathcal{C}_{\text{consciousness}} = \mathcal{F}(\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}, \Gamma)$$
 
-where $\Gamma$ represents the recursive self-reference property of consciousness.
+where $`\Gamma`$ represents the recursive self-reference property of consciousness.
 
 Consciousness has four fundamental properties:
 
@@ -340,8 +340,8 @@ Observer theory provides a framework for understanding free will as a quantum-cl
 $$\mathcal{W}_{\text{free}} = \mathcal{C}_{\mathcal{O}}^{-1} \circ \mathcal{Q}_{\mathcal{O}}(K_C^{\mathcal{O}} \cup \Delta K)$$
 
 Free will represents the capacity of an observer to:
-1. Generate new quantum possibilities ($\mathcal{Q}_{\mathcal{O}}$)
-2. Select among them using criteria beyond deterministic processes ($\mathcal{C}_{\mathcal{O}}^{-1}$)
+1. Generate new quantum possibilities ($`\mathcal{Q}_{\mathcal{O}}`$)
+2. Select among them using criteria beyond deterministic processes ($`\mathcal{C}_{\mathcal{O}}^{-1}`$)
 
 The degree of freedom can be quantified as:
 
@@ -355,7 +355,7 @@ Observers evolve through interaction with their environment, modifying their ope
 
 $$\mathcal{O}_{t+1} = \mathcal{E}(\mathcal{O}_t, \Delta K_t, \Delta \mathcal{C}_t, \Delta \mathcal{Q}_t)$$
 
-where $\Delta K_t$ is new knowledge, $\Delta \mathcal{C}_t$ and $\Delta \mathcal{Q}_t$ are modifications to the classicalization and quantization operators.
+where $`\Delta K_t`$ is new knowledge, $`\Delta \mathcal{C}_t`$ and $`\Delta \mathcal{Q}_t`$ are modifications to the classicalization and quantization operators.
 
 Learning processes can be modeled as:
 
@@ -365,7 +365,7 @@ $$\Delta \mathcal{Q}_t = \eta_Q \nabla_{\mathcal{Q}} E[\mathcal{Q}(K), K_{\text{
 
 $$\Delta K_t = \mathcal{C}_t(\rho_t) - K_t$$
 
-where $\eta_C$ and $\eta_Q$ are learning rates, and $E$ is an error function.
+where $`\eta_C`$ and $`\eta_Q`$ are learning rates, and $`E`$ is an error function.
 
 ## Applications and Implications
 
@@ -373,16 +373,16 @@ where $\eta_C$ and $\eta_Q$ are learning rates, and $E$ is an error function.
 
 Physical systems can be characterized as observers with varying capabilities:
 
-1. **Quantum Measurement Devices**: Simple observers with fixed $\mathcal{C}_{\mathcal{O}}$ and no $\mathcal{Q}_{\mathcal{O}}$
+1. **Quantum Measurement Devices**: Simple observers with fixed $`\mathcal{C}_{\mathcal{O}}`$ and no $`\mathcal{Q}_{\mathcal{O}}`$
    $$\mathcal{O}_{\text{device}} = \{\mathcal{C}_{\text{fixed}}, \emptyset, \emptyset\}$$
 
-2. **Biological Systems**: Observers with adaptive $\mathcal{C}_{\mathcal{O}}$ and limited $\mathcal{Q}_{\mathcal{O}}$
+2. **Biological Systems**: Observers with adaptive $`\mathcal{C}_{\mathcal{O}}`$ and limited $`\mathcal{Q}_{\mathcal{O}}`$
    $$\mathcal{O}_{\text{bio}} = \{\mathcal{C}_{\text{adaptive}}, \mathcal{Q}_{\text{limited}}, K_C^{\text{bio}}\}$$
 
-3. **Human Observers**: Complex observers with sophisticated $\mathcal{C}_{\mathcal{O}}$ and $\mathcal{Q}_{\mathcal{O}}$
+3. **Human Observers**: Complex observers with sophisticated $`\mathcal{C}_{\mathcal{O}}`$ and $`\mathcal{Q}_{\mathcal{O}}`$
    $$\mathcal{O}_{\text{human}} = \{\mathcal{C}_{\text{complex}}, \mathcal{Q}_{\text{creative}}, K_C^{\text{human}}\}$$
 
-4. **Technological Systems**: Artificial observers with designed $\mathcal{C}_{\mathcal{O}}$ and $\mathcal{Q}_{\mathcal{O}}$
+4. **Technological Systems**: Artificial observers with designed $`\mathcal{C}_{\mathcal{O}}`$ and $`\mathcal{Q}_{\mathcal{O}}`$
    $$\mathcal{O}_{\text{tech}} = \{\mathcal{C}_{\text{designed}}, \mathcal{Q}_{\text{programmed}}, K_C^{\text{tech}}\}$$
 
 5. **Universal Observer**: Hypothetical maximally capable observer
@@ -424,7 +424,7 @@ Observer theory enables the design of artificial observer systems:
 
 1. **Observer Architecture Design**: Creating systems with specific observation capabilities
    $$\mathcal{O}_{\text{design}} = \arg\max_{\mathcal{O}} \{P(\mathcal{O}), C(\mathcal{O}), E(\mathcal{O})\}$$
-   where $P$, $C$, and $E$ are performance, cost, and efficiency functions.
+   where $`P`$, $`C`$, and $`E`$ are performance, cost, and efficiency functions.
 
 2. **Enhanced Measurement Systems**: Optimizing measurement precision and efficiency
    $$\Delta x_{\text{optimal}} = \min_{\mathcal{C}_{\mathcal{O}}} \{\Delta x(\mathcal{C}_{\mathcal{O}})\}$$

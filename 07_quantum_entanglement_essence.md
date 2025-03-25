@@ -47,8 +47,8 @@ E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
 $$
 
 其中：
-- $h$ 是普朗克常数
-- $f_{\text{纠缠}}$ 是纠缠态的等效频率
+- $`h`$ 是普朗克常数
+- $`f_{\text{纠缠}}`$ 是纠缠态的等效频率
 
 #### 纠缠等效频率量化
 
@@ -59,9 +59,9 @@ f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
 其中：
-- $c$ 是光速
-- $L_P$ 是普朗克长度
-- $S_E(\rho_{AB})$ 是纠缠熵，用von Neumann熵表示：$S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)$
+- $`c`$ 是光速
+- $`L_P`$ 是普朗克长度
+- $`S_E(\rho_{AB})`$ 是纠缠熵，用von Neumann熵表示：$`S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)`$
 
 这个公式将抽象的量子纠缠态转化为具体的频率值，建立了纠缠强度与能量的精确关系。频率与纠缠熵成正比，表明纠缠越强，等效频率越高；分母中的普朗克长度平方确保了结果具有正确的量纲，同时将纠缠现象与宇宙基本尺度联系起来。
 
@@ -73,7 +73,7 @@ $$
 E_{\text{多体纠缠}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{纠缠}}(i,j)
 $$
 
-其中$w_{ij}$是纠缠对$(i,j)$的权重系数，满足$\sum_{i,j} w_{ij} = 1$。
+其中$`w_{ij}`$是纠缠对$`(i,j)`$的权重系数，满足$`\sum_{i,j} w_{ij} = 1`$。
 
 ### 黑洞观察者纠缠
 
@@ -185,7 +185,7 @@ $$
 \tau_{\text{纠缠}} \propto \frac{1}{C_{\text{系统}}^{\alpha}}
 $$
 
-其中$C_{\text{系统}}$是系统复杂度(如组成粒子数)，$\alpha$是缩放指数(通常约为1-2)。
+其中$`C_{\text{系统}}`$是系统复杂度(如组成粒子数)，$`\alpha`$是缩放指数(通常约为1-2)。
 
 - **环境退相干效应**随系统尺寸指数增强：
 
@@ -193,7 +193,7 @@ $$
 \Gamma_{\text{退相干}} \propto e^{\beta N}
 $$
 
-其中$\Gamma_{\text{退相干}}$是退相干率，$N$是系统粒子数，$\beta$是常数。
+其中$`\Gamma_{\text{退相干}}`$是退相干率，$`N`$是系统粒子数，$`\beta`$是常数。
 
 这解释了为何宏观物体很难观测到量子纠缠效应：大尺度系统的纠缠状态在可测量时间尺度内迅速崩塌为经典混合态。然而，特殊设计的量子系统（如超导体、玻色-爱因斯坦凝聚体）能够在宏观尺度上呈现量子相干性。
 
@@ -293,8 +293,8 @@ E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
 $$
 
 where:
-- $h$ is Planck's constant
-- $f_{\text{Entanglement}}$ is the equivalent frequency of the entangled state
+- $`h`$ is Planck's constant
+- $`f_{\text{Entanglement}}`$ is the equivalent frequency of the entangled state
 
 #### Quantification of Entanglement Equivalent Frequency
 
@@ -305,9 +305,9 @@ f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
 where:
-- $c$ is the speed of light
-- $L_P$ is the Planck length
-- $S_E(\rho_{AB})$ is the entanglement entropy, represented by the von Neumann entropy: $S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)$
+- $`c`$ is the speed of light
+- $`L_P`$ is the Planck length
+- $`S_E(\rho_{AB})`$ is the entanglement entropy, represented by the von Neumann entropy: $`S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)`$
 
 This formula converts the abstract quantum entangled state into a specific frequency value, establishing a precise relationship between entanglement strength and energy. The frequency is proportional to the entanglement entropy, indicating that stronger entanglement corresponds to higher equivalent frequency; the Planck length squared in the denominator ensures that the result has the correct dimension while connecting entanglement phenomena with the universe's fundamental scale.
 
@@ -319,7 +319,7 @@ $$
 E_{\text{Multi-body Entanglement}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{Entanglement}}(i,j)
 $$
 
-where $w_{ij}$ is the weight coefficient of the entangled pair $(i,j)$, satisfying $\sum_{i,j} w_{ij} = 1$.
+where $`w_{ij}`$ is the weight coefficient of the entangled pair $`(i,j)`$, satisfying $`\sum_{i,j} w_{ij} = 1`$.
 
 ### Black Hole Observer Entanglement
 
@@ -431,7 +431,7 @@ $$
 \tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
 $$
 
-where $C_{\text{System}}$ is the system complexity (such as the number of constituent particles), and $\alpha$ is the scaling exponent (typically around 1-2).
+where $`C_{\text{System}}`$ is the system complexity (such as the number of constituent particles), and $`\alpha`$ is the scaling exponent (typically around 1-2).
 
 - **Environmental decoherence effect** increases exponentially with system size:
 
@@ -439,7 +439,7 @@ $$
 \Gamma_{\text{Decoherence}} \propto e^{\beta N}
 $$
 
-where $\Gamma_{\text{Decoherence}}$ is the decoherence rate, $N$ is the number of system particles, and $\beta$ is a constant.
+where $`\Gamma_{\text{Decoherence}}`$ is the decoherence rate, $`N`$ is the number of system particles, and $`\beta`$ is a constant.
 
 This explains why it is difficult to observe quantum entanglement effects in macroscopic objects: entangled states in large-scale systems rapidly collapse into classical mixed states within measurable time scales. However, specially designed quantum systems (such as superconductors, Bose-Einstein condensates) can exhibit quantum coherence at macroscopic scales.
 

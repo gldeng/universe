@@ -61,11 +61,11 @@ The concept of "learning" at the beginning of the Analects corresponds to classi
 
 - "学"→ 获取经典知识，增加观察者经典化能力
 - "习"→ 反复实践，优化经典化路径
-- "学而时习之"→ 通过持续优化提升经典化效率系数$(k_i)$
+- "学而时习之"→ 通过持续优化提升经典化效率系数$`(k_i)`$
 
 - "Learning" → Acquiring classical knowledge, increasing observer's classicalization ability
 - "Practice" → Repeated application, optimizing classicalization path
-- "Learning with constant practice" → Continuously improving classicalization efficiency coefficient $(k_i)$ through optimization
+- "Learning with constant practice" → Continuously improving classicalization efficiency coefficient $`(k_i)`$ through optimization
 
 ### 2. "吾道一以贯之"与经典域-量子域统一性
 ### 2. "My Doctrine is That of an All-Pervading Unity" and Classical-Quantum Domain Unity

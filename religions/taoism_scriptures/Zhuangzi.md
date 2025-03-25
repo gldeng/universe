@@ -218,7 +218,7 @@ $$
 \text{"云将东游"} \Leftrightarrow \mathcal{D}(\mathcal{O})_{t+\Delta t} \gg \mathcal{D}(\mathcal{O})_t
 $$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$H$表示系统哈密顿量，$\delta H$表示扰动
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`H`$表示系统哈密顿量，$`\delta H`$表示扰动
 
 ## 结论
 ## Conclusion

@@ -42,7 +42,7 @@ $$
 \text{教育} = \sum_{i=1}^{n} E_i(|\psi_i\rangle \xrightarrow{\text{引导经典化}} |\phi_i\rangle)
 $$
 
-其中$E_i$代表教育活动，$|\psi_i\rangle$和$|\phi_i\rangle$分别代表学习前后的知识状态。
+其中$`E_i`$代表教育活动，$`|\psi_i\rangle`$和$`|\phi_i\rangle`$分别代表学习前后的知识状态。
 
 ### 教育者的量子经典二元论解释
 
@@ -74,7 +74,7 @@ $$
 |\phi_1\rangle \xrightarrow{\text{发展}} |\phi_2\rangle \xrightarrow{\text{发展}} |\phi_3\rangle \xrightarrow{\text{发展}} |\phi_4\rangle
 $$
 
-其中$|\phi_i\rangle$代表第$i$阶段的认知经典化状态。
+其中$`|\phi_i\rangle`$代表第$`i`$阶段的认知经典化状态。
 
 ### 学习风格的量子经典二元论解释
 
@@ -140,7 +140,7 @@ $$
 \langle\phi| \hat{A} |\phi\rangle = a
 $$
 
-其中$|\phi\rangle$是学习者的经典化状态，$\hat{A}$是评估算子，$a$是评估结果。
+其中$`|\phi\rangle`$是学习者的经典化状态，$`\hat{A}`$是评估算子，$`a`$是评估结果。
 
 ### 动机的量子经典二元论解释
 
@@ -285,7 +285,7 @@ $$
 \text{Education} = \sum_{i=1}^{n} E_i(|\psi_i\rangle \xrightarrow{\text{Guided classicalization}} |\phi_i\rangle)
 $$
 
-where $E_i$ represents educational activities, and $|\psi_i\rangle$ and $|\phi_i\rangle$ represent the knowledge states before and after learning, respectively.
+where $`E_i`$ represents educational activities, and $`|\psi_i\rangle`$ and $`|\phi_i\rangle`$ represent the knowledge states before and after learning, respectively.
 
 ### Quantum-Classical Dualism Explanation of Educators
 
@@ -317,7 +317,7 @@ $$
 |\phi_1\rangle \xrightarrow{\text{Development}} |\phi_2\rangle \xrightarrow{\text{Development}} |\phi_3\rangle \xrightarrow{\text{Development}} |\phi_4\rangle
 $$
 
-where $|\phi_i\rangle$ represents the cognitive classicalization state of the $i$-th stage.
+where $`|\phi_i\rangle`$ represents the cognitive classicalization state of the $`i`$-th stage.
 
 ### Quantum-Classical Dualism Explanation of Learning Styles
 
@@ -383,7 +383,7 @@ $$
 \langle\phi| \hat{A} |\phi\rangle = a
 $$
 
-where $|\phi\rangle$ is the learner's classicalization state, $\hat{A}$ is the assessment operator, and $a$ is the assessment result.
+where $`|\phi\rangle`$ is the learner's classicalization state, $`\hat{A}`$ is the assessment operator, and $`a`$ is the assessment result.
 
 ### Quantum-Classical Dualism Explanation of Motivation
 

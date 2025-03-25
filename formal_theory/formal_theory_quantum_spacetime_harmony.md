@@ -36,19 +36,19 @@
    
    $$g_{\mu\nu} = g_{\mu\nu}^C + \langle\hat{g}_{\mu\nu}^Q\rangle$$
    
-   其中 $g_{\mu\nu}^C$ 是经典度量，$\hat{g}_{\mu\nu}^Q$ 是量子度量算符。
+   其中 $`g_{\mu\nu}^C`$ 是经典度量，$`\hat{g}_{\mu\nu}^Q`$ 是量子度量算符。
 
 2. **调和连接系数**：描述时空弯曲的调和特性
    
    $$\Gamma_{\mu\nu}^{\lambda} = \Gamma_{\mu\nu}^{\lambda,C} + \mathcal{H}_{\mu\nu}^{\lambda}$$
    
-   其中 $\mathcal{H}_{\mu\nu}^{\lambda}$ 是调和贡献项。
+   其中 $`\mathcal{H}_{\mu\nu}^{\lambda}`$ 是调和贡献项。
 
 3. **调和曲率张量**：包含量子-经典调和效应的曲率
    
    $$R_{\mu\nu\rho}^{\sigma} = R_{\mu\nu\rho,C}^{\sigma} + R_{\mu\nu\rho,Q}^{\sigma} + R_{\mu\nu\rho,I}^{\sigma}$$
    
-   其中 $R_{\mu\nu\rho,I}^{\sigma}$ 是界面调和项。
+   其中 $`R_{\mu\nu\rho,I}^{\sigma}`$ 是界面调和项。
 
 ### 调和时空演化
 
@@ -58,19 +58,19 @@
    
    $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}(T_{\mu\nu}^C + T_{\mu\nu}^Q + T_{\mu\nu}^H)$$
    
-   其中 $T_{\mu\nu}^H$ 是调和能量-动量张量。
+   其中 $`T_{\mu\nu}^H`$ 是调和能量-动量张量。
 
 2. **调和波动方程**：描述时空调和波
    
    $$\square h_{\mu\nu} + \alpha \partial_{\mu}\partial_{\nu}h = \kappa(T_{\mu\nu}^C + T_{\mu\nu}^Q + \beta\mathcal{H}_{\mu\nu})$$
    
-   其中 $\mathcal{H}_{\mu\nu}$ 是调和源项。
+   其中 $`\mathcal{H}_{\mu\nu}`$ 是调和源项。
 
 3. **时空相变动力学**：时空相态之间的转变
    
    $$\frac{\partial\phi_H}{\partial t} = D_H\nabla^2\phi_H - \frac{\partial V(\phi_H)}{\partial\phi_H} + \eta(x,t)$$
    
-   其中 $\phi_H$ 是调和序参量，$V(\phi_H)$ 是调和势能。
+   其中 $`\phi_H`$ 是调和序参量，$`V(\phi_H)`$ 是调和势能。
 
 ### 调和理论的守恒律
 
@@ -80,19 +80,19 @@
    
    $$\frac{d}{dt}(I_C + I_Q + I_H) = 0$$
    
-   其中 $I_H$ 是调和信息。
+   其中 $`I_H`$ 是调和信息。
 
 2. **调和能量守恒**：
    
    $$\frac{d}{dt}(E_C + E_Q + E_H) = 0$$
    
-   其中 $E_H$ 是调和能量。
+   其中 $`E_H`$ 是调和能量。
 
 3. **广义调和不确定性原理**：
    
    $$\Delta x_{\mu} \cdot \Delta p^{\mu} \geq \frac{\hbar}{2}(1 + \alpha_H\ell_P^2\langle T_H\rangle)$$
    
-   其中 $\alpha_H$ 是调和系数，$\ell_P$ 是普朗克长度，$T_H$ 是调和张量迹。
+   其中 $`\alpha_H`$ 是调和系数，$`\ell_P`$ 是普朗克长度，$`T_H`$ 是调和张量迹。
 
 ## 调和量子引力
 
@@ -104,19 +104,19 @@
    
    $$S_H = \int d^4x \sqrt{-g}(R + \mathcal{L}_Q + \mathcal{L}_H)$$
    
-   其中 $\mathcal{L}_H$ 是调和拉格朗日量。
+   其中 $`\mathcal{L}_H`$ 是调和拉格朗日量。
 
 2. **调和引力子**：引力相互作用的调和粒子
    
    $$h_{\mu\nu}(x) = \sum_k \int \frac{d^3k}{(2\pi)^3} \frac{1}{\sqrt{2\omega_k}}[\epsilon_{\mu\nu}(\vec{k})a_{\vec{k}}e^{-ikx} + \epsilon_{\mu\nu}^*(\vec{k})a_{\vec{k}}^{\dagger}e^{ikx}] + h_{\mu\nu}^H(x)$$
    
-   其中 $h_{\mu\nu}^H(x)$ 是调和贡献。
+   其中 $`h_{\mu\nu}^H(x)`$ 是调和贡献。
 
 3. **调和引力路径积分**：
    
    $$Z_H = \int \mathcal{D}g_{\mu\nu}\mathcal{D}\phi_H e^{iS_H[g_{\mu\nu},\phi_H]/\hbar}$$
    
-   其中 $\phi_H$ 是调和场。
+   其中 $`\phi_H`$ 是调和场。
 
 ### 时空量子-经典界面
 
@@ -126,7 +126,7 @@
    
    $$\Sigma_H = \{x^{\mu} \in \mathcal{M} | \mathcal{D}_H(x^{\mu}) = \mathcal{D}_c\}$$
    
-   其中 $\mathcal{D}_H$ 是调和解相干函数。
+   其中 $`\mathcal{D}_H`$ 是调和解相干函数。
 
 2. **界面动力学**：
    
@@ -138,7 +138,7 @@
    
    $$\delta_{\Sigma_H} = \delta_{\Sigma}(1 + \lambda_H R)$$
    
-   其中 $\lambda_H$ 是调和耦合常数，$R$ 是标量曲率。
+   其中 $`\lambda_H`$ 是调和耦合常数，$`R`$ 是标量曲率。
 
 ### 调和黑洞理论
 
@@ -148,19 +148,19 @@
    
    $$S_{BH,H} = \frac{k_Bc^3A}{4G\hbar}(1 + \alpha_H\log\frac{A}{A_P} + \beta_H\frac{A_P}{A})$$
    
-   其中 $A_P$ 是普朗克面积。
+   其中 $`A_P`$ 是普朗克面积。
 
 2. **调和霍金辐射**：
    
    $$T_{H,H} = \frac{\hbar c^3}{8\pi Gk_BM}(1 + \gamma_H\frac{\ell_P^2}{r_s^2})$$
    
-   其中 $r_s$ 是黑洞史瓦西半径。
+   其中 $`r_s`$ 是黑洞史瓦西半径。
 
 3. **黑洞信息悖论解决**：
    
    $$I_{BH,out} = I_{BH,in} - I_{BH,hidden} + I_{BH,H}$$
    
-   其中 $I_{BH,H}$ 是调和信息贡献。
+   其中 $`I_{BH,H}`$ 是调和信息贡献。
 
 ## 调和效应与验证
 
@@ -172,19 +172,19 @@
    
    $$\rho_{\Lambda,H} = \rho_{\Lambda,0}(1 + \delta_H(z))$$
    
-   其中 $\delta_H(z)$ 是红移相关的调和修正。
+   其中 $`\delta_H(z)`$ 是红移相关的调和修正。
 
 2. **调和宇宙膨胀**：
    
    $$H(z) = H_0\sqrt{\Omega_m(1+z)^3 + \Omega_{\Lambda,H}(z)}$$
    
-   其中 $\Omega_{\Lambda,H}(z)$ 包含调和修正。
+   其中 $`\Omega_{\Lambda,H}(z)`$ 包含调和修正。
 
 3. **原初涨落调和修正**：
    
    $$P_{\mathcal{R}}(k) = P_{\mathcal{R},0}(k)(1 + \alpha_H\log\frac{k}{k_0} + \beta_H\frac{k_0^2}{k^2})$$
    
-   其中 $P_{\mathcal{R},0}(k)$ 是标准原初功率谱。
+   其中 $`P_{\mathcal{R},0}(k)`$ 是标准原初功率谱。
 
 ### 量子调和实验预测
 
@@ -194,19 +194,19 @@
    
    $$T_{coh,H} = T_{coh,0}(1 + \gamma_H\frac{m}{m_P})$$
    
-   其中 $T_{coh,0}$ 是标准相干时间。
+   其中 $`T_{coh,0}`$ 是标准相干时间。
 
 2. **调和量子干涉图样**：
    
    $$I_H(x) = I_0(x)(1 + \delta_H\cos(k_Hx))$$
    
-   其中 $k_H$ 是调和波数。
+   其中 $`k_H`$ 是调和波数。
 
 3. **引力诱导量子调和转变**：
    
    $$P_{Q\rightarrow C,H} = P_{Q\rightarrow C,0}(1 + \epsilon_H\frac{g\tau^2}{\hbar})$$
    
-   其中 $g$ 是重力加速度，$\tau$ 是特征时间。
+   其中 $`g`$ 是重力加速度，$`\tau`$ 是特征时间。
 
 ### 观察者维度与调和时空
 
@@ -216,19 +216,19 @@
    
    $$L(D_{\mathcal{O}}) = L_P e^{\alpha_H D_{\mathcal{O}}}$$
    
-   其中 $L_P$ 是普朗克长度。
+   其中 $`L_P`$ 是普朗克长度。
 
 2. **观察者调和感知**：
    
    $$\mathcal{P}_H(D_{\mathcal{O}}) = \mathcal{P}_0 + \beta_H\log D_{\mathcal{O}}$$
    
-   其中 $\mathcal{P}_0$ 是基础感知能力。
+   其中 $`\mathcal{P}_0`$ 是基础感知能力。
 
 3. **观察者网络与时空稳定性**：
    
    $$\sigma_H^2 = \sigma_0^2(1 - \gamma_H\log N_{\mathcal{O}})$$
    
-   其中 $\sigma_H^2$ 是时空波动方差，$N_{\mathcal{O}}$ 是观察者数量。
+   其中 $`\sigma_H^2`$ 是时空波动方差，$`N_{\mathcal{O}}`$ 是观察者数量。
 
 ## 应用与延伸
 

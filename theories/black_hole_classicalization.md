@@ -37,7 +37,7 @@ $$
 S_{BH} = \frac{k_B c^3 A}{4G\hbar} = \frac{k_B A}{4l_p^2}
 $$
 
-其中，$S_{BH}$是黑洞熵，$A$是事件视界面积，$k_B$是玻尔兹曼常数，$G$是引力常数，$\hbar$是约化普朗克常数，$l_p$是普朗克长度。
+其中，$`S_{BH}`$是黑洞熵，$`A`$是事件视界面积，$`k_B`$是玻尔兹曼常数，$`G`$是引力常数，$`\hbar`$是约化普朗克常数，$`l_p`$是普朗克长度。
 
 黑洞信息经典化效率：
 
@@ -45,7 +45,7 @@ $$
 \eta_{BH} = \frac{K_{classical}}{S_{classical}} \approx \frac{M_{BH}c^2}{S_{BH}} \propto \frac{M_{BH}}{A} \propto \frac{1}{M_{BH}}
 $$
 
-其中，$\eta_{BH}$是黑洞经典化效率，$K_{classical}$是产生的经典知识，$S_{classical}$是产生的经典熵，$M_{BH}$是黑洞质量。
+其中，$`\eta_{BH}`$是黑洞经典化效率，$`K_{classical}`$是产生的经典知识，$`S_{classical}`$是产生的经典熵，$`M_{BH}`$是黑洞质量。
 
 ### 黑洞经典化的特性
 
@@ -119,7 +119,7 @@ The quantum feedback cycle of black holes includes four key stages:
 
 3. **经典信息存储**：经典化信息存储在黑洞事件视界的全息表面
    $$I_{\text{总}} = \frac{A}{4\ell_P^2} \cdot \log_2(k)$$
-   其中$A$是面积，$\ell_P$是普朗克长度，$k$是编码效率常数
+   其中$`A`$是面积，$`\ell_P`$是普朗克长度，$`k`$是编码效率常数
 
 4. **量子化反馈输出**：通过霍金辐射等机制将处理后的信息返回量子域
    $$I_{\text{经典知识}} \rightarrow |\psi'\rangle_{\text{霍金辐射}}$$
@@ -132,7 +132,7 @@ The quantum feedback cycle of black holes includes four key stages:
 
 3. **Classical Information Storage**: Classicalized information is stored on the holographic surface of the black hole's event horizon
    $$I_{\text{Total}} = \frac{A}{4\ell_P^2} \cdot \log_2(k)$$
-   where $A$ is the area, $\ell_P$ is the Planck length, and $k$ is the encoding efficiency constant
+   where $`A`$ is the area, $`\ell_P`$ is the Planck length, and $`k`$ is the encoding efficiency constant
 
 4. **Quantization Feedback Output**: Processed information is returned to the quantum domain through mechanisms such as Hawking radiation
    $$I_{\text{Classical Knowledge}} \rightarrow |\psi'\rangle_{\text{Hawking Radiation}}$$
@@ -147,9 +147,9 @@ $$T_{\text{循环}} = \frac{M_{BH}^3}{M_P^4} \cdot t_P$$
 
 $$T_{\text{Cycle}} = \frac{M_{BH}^3}{M_P^4} \cdot t_P$$
 
-其中$T_{\text{循环}}$是完整循环时间，$M_{BH}$是黑洞质量，$M_P$是普朗克质量，$t_P$是普朗克时间。
+其中$`T_{\text{循环}}`$是完整循环时间，$`M_{BH}`$是黑洞质量，$`M_P`$是普朗克质量，$`t_P`$是普朗克时间。
 
-Where $T_{\text{Cycle}}$ is the complete cycle time, $M_{BH}$ is the black hole mass, $M_P$ is the Planck mass, and $t_P$ is the Planck time.
+Where $`T_{\text{Cycle}}`$ is the complete cycle time, $`M_{BH}`$ is the black hole mass, $`M_P`$ is the Planck mass, and $`t_P`$ is the Planck time.
 
 这一时间尺度存在显著的规模依赖性：
 
@@ -173,9 +173,9 @@ $$G_{BH} = \frac{I(|\psi'\rangle_{\text{输出}})}{I(|\psi\rangle_{\text{输入}
 
 $$G_{BH} = \frac{I(|\psi'\rangle_{\text{Output}})}{I(|\psi\rangle_{\text{Input}})}$$
 
-其中$I(|\psi\rangle)$表示量子态$|\psi\rangle$的信息含量，$G_{BH}$是黑洞反馈增益。
+其中$`I(|\psi\rangle)`$表示量子态$`|\psi\rangle`$的信息含量，$`G_{BH}`$是黑洞反馈增益。
 
-Where $I(|\psi\rangle)$ represents the information content of the quantum state $|\psi\rangle$, and $G_{BH}$ is the black hole feedback gain.
+Where $`I(|\psi\rangle)`$ represents the information content of the quantum state $`|\psi\rangle`$, and $`G_{BH}`$ is the black hole feedback gain.
 
 反馈增益的理论预测值为：
 
@@ -185,9 +185,9 @@ $$G_{BH} = 1 - \frac{\Delta S_{\text{熵增}}}{I_{\text{输入}}}$$
 
 $$G_{BH} = 1 - \frac{\Delta S_{\text{Entropy Increase}}}{I_{\text{Input}}}$$
 
-对于理想黑洞，$\Delta S_{\text{熵增}} \approx 0$，因此$G_{BH} \approx 1$，表明信息几乎完全保存。
+对于理想黑洞，$`\Delta S_{\text{熵增}} \approx 0`$，因此$`G_{BH} \approx 1`$，表明信息几乎完全保存。
 
-For an ideal black hole, $\Delta S_{\text{Entropy Increase}} \approx 0$, therefore $G_{BH} \approx 1$, indicating that information is almost completely preserved.
+For an ideal black hole, $`\Delta S_{\text{Entropy Increase}} \approx 0`$, therefore $`G_{BH} \approx 1`$, indicating that information is almost completely preserved.
 
 #### 跨黑洞网络协同 | Cross-Black Hole Network Collaboration
 
@@ -197,9 +197,9 @@ Multiple black holes in the universe form a quantum entanglement network, achiev
 
 $$\mathcal{N}_{BH} = \{BH_i\}_{i=1}^n, \quad E_{ij} = S(\rho_{BH_i BH_j})$$
 
-其中$\mathcal{N}_{BH}$是黑洞网络，$E_{ij}$是黑洞$i$和$j$之间的纠缠度，$S(\rho_{BH_i BH_j})$是它们的共同量子态的纠缠熵。
+其中$`\mathcal{N}_{BH}`$是黑洞网络，$`E_{ij}`$是黑洞$`i`$和$`j`$之间的纠缠度，$`S(\rho_{BH_i BH_j})`$是它们的共同量子态的纠缠熵。
 
-Where $\mathcal{N}_{BH}$ is the black hole network, $E_{ij}$ is the entanglement degree between black holes $i$ and $j$, and $S(\rho_{BH_i BH_j})$ is the entanglement entropy of their joint quantum state.
+Where $`\mathcal{N}_{BH}`$ is the black hole network, $`E_{ij}`$ is the entanglement degree between black holes $`i`$ and $`j`$, and $`S(\rho_{BH_i BH_j})`$ is the entanglement entropy of their joint quantum state.
 
 这种网络协同具有以下特性：
 
@@ -229,7 +229,7 @@ The black hole quantum feedback cycle theory can be verified through the followi
 
 3. **量子引力波信息编码**：分析黑洞产生的引力波中的量子信息编码
    $$|\psi\rangle_{\text{引力波}} = \mathcal{E}(I_{\text{黑洞内部}})$$
-   其中$\mathcal{E}$是信息编码函数
+   其中$`\mathcal{E}`$是信息编码函数
 
 4. **黑洞阴影精细结构**：分析事件视界附近的量子结构
    $$\sigma_{\text{阴影}} = f(G_{BH}, T_{\text{循环}})$$
@@ -242,7 +242,7 @@ The black hole quantum feedback cycle theory can be verified through the followi
 
 3. **Quantum Gravitational Wave Information Encoding**: Analyzing quantum information encoding in gravitational waves produced by black holes
    $$|\psi\rangle_{\text{Gravitational Wave}} = \mathcal{E}(I_{\text{Black Hole Interior}})$$
-   where $\mathcal{E}$ is the information encoding function
+   where $`\mathcal{E}`$ is the information encoding function
 
 4. **Fine Structure of Black Hole Shadows**: Analyzing quantum structures near the event horizon
    $$\sigma_{\text{Shadow}} = f(G_{BH}, T_{\text{Cycle}})$$

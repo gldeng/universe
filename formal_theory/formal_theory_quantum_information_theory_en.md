@@ -17,9 +17,9 @@ Within the dualism framework, information can be represented as existing with bo
 $$\mathcal{I} = (\mathcal{I}_Q, \mathcal{I}_C, \mathcal{T})$$
 
 Where:
-- $\mathcal{I}_Q$ is the quantum representation of information (existing in the quantum domain)
-- $\mathcal{I}_C$ is the classical representation of information (existing in the classical domain)
-- $\mathcal{T}$ is the family of quantum-classical information conversion mappings
+- $`\mathcal{I}_Q`$ is the quantum representation of information (existing in the quantum domain)
+- $`\mathcal{I}_C`$ is the classical representation of information (existing in the classical domain)
+- $`\mathcal{T}`$ is the family of quantum-classical information conversion mappings
 
 ### Core Axioms
 
@@ -28,28 +28,28 @@ Information simultaneously possesses both quantum and classical manifestations, 
 
 $$\mathcal{I} = \mathcal{I}_Q \diamond \mathcal{I}_C$$
 
-Where $\diamond$ represents the quantum-classical joint representation of information.
+Where $`\diamond`$ represents the quantum-classical joint representation of information.
 
 **Axiom 2: Information Conservation and Conversion**  
 In the process of information conversion between quantum and classical domains, the total amount of information is conserved:
 
 $$S(\mathcal{I}_Q) + S(\mathcal{I}_C) = \text{constant}$$
 
-Where $S(\mathcal{I}_Q)$ is quantum information entropy, and $S(\mathcal{I}_C)$ is classical information entropy.
+Where $`S(\mathcal{I}_Q)`$ is quantum information entropy, and $`S(\mathcal{I}_C)`$ is classical information entropy.
 
 **Axiom 3: Information Dimensional Correspondence**  
 There exists a mapping relationship between the quantum dimension and classical dimension of information:
 
 $$dim(\mathcal{H}_{\mathcal{I}_Q}) \geq log_2(dim(\mathcal{H}_{\mathcal{I}_C}))$$
 
-Where $\mathcal{H}_{\mathcal{I}_Q}$ and $\mathcal{H}_{\mathcal{I}_C}$ are the Hilbert spaces of quantum and classical information, respectively.
+Where $`\mathcal{H}_{\mathcal{I}_Q}`$ and $`\mathcal{H}_{\mathcal{I}_C}`$ are the Hilbert spaces of quantum and classical information, respectively.
 
 **Axiom 4: Observer-Information Relationship**  
 The process of an observer acquiring information is a special type of quantum-classical information conversion:
 
 $$\mathcal{I}_C^{\mathcal{O}} = \mathcal{C}_{\mathcal{O}}(\mathcal{I}_Q)$$
 
-Where $\mathcal{C}_{\mathcal{O}}$ is the classicalization operator specific to observer $\mathcal{O}$.
+Where $`\mathcal{C}_{\mathcal{O}}`$ is the classicalization operator specific to observer $`\mathcal{O}`$.
 
 ## Core Theory Content
 
@@ -59,13 +59,13 @@ Quantum information is represented through density operators:
 
 $$\rho_Q = \sum_i p_i |\psi_i\rangle\langle\psi_i|$$
 
-Where $|\psi_i\rangle$ are possible quantum states of the system, and $p_i$ are the corresponding probabilities.
+Where $`|\psi_i\rangle`$ are possible quantum states of the system, and $`p_i`$ are the corresponding probabilities.
 
 Quantum information entropy (von Neumann entropy) is defined as:
 
 $$S(\rho_Q) = -\text{Tr}(\rho_Q \log_2 \rho_Q) = -\sum_i \lambda_i \log_2 \lambda_i$$
 
-Where $\lambda_i$ are the eigenvalues of $\rho_Q$.
+Where $`\lambda_i`$ are the eigenvalues of $`\rho_Q`$.
 
 Quantum information includes the following key properties:
 1. **Superposition**: Simultaneously containing multiple possible states
@@ -79,7 +79,7 @@ Classical information can be represented as a probability distribution:
 
 $$P_C = \{p_i\}$$
 
-Where $p_i$ is the probability of the system being in state $i$.
+Where $`p_i`$ is the probability of the system being in state $`i`$.
 
 Classical information entropy (Shannon entropy) is defined as:
 
@@ -97,19 +97,19 @@ The process of converting quantum information to classical information (classica
 
 $$\mathcal{C}: \rho_Q \mapsto P_C = \{(i, p_i = \text{Tr}(E_i\rho_Q))\}$$
 
-Where $\{E_i\}$ is a positive operator-valued measure (POVM).
+Where $`\{E_i\}`$ is a positive operator-valued measure (POVM).
 
 Information changes during conversion follow:
 
 $$S(\rho_Q) \leq H(P_C) + S(\rho_Q|P_C)$$
 
-Where $S(\rho_Q|P_C)$ is the conditional quantum entropy after measurement.
+Where $`S(\rho_Q|P_C)`$ is the conditional quantum entropy after measurement.
 
 The efficiency of information classicalization is defined as:
 
 $$\eta_{\mathcal{C}} = \frac{H(P_C)}{S(\rho_Q)}$$
 
-Perfect classicalization ($\eta_{\mathcal{C}} = 1$) is only possible under special conditions.
+Perfect classicalization ($`\eta_{\mathcal{C}} = 1`$) is only possible under special conditions.
 
 ### Classical-Quantum Information Conversion
 
@@ -117,7 +117,7 @@ The conversion of classical information to quantum information (quantization) is
 
 $$\mathcal{Q}: P_C \mapsto \rho_Q = \sum_i p_i |\psi_i\rangle\langle\psi_i|$$
 
-Where $|\psi_i\rangle$ are quantum states encoding the classical state $i$.
+Where $`|\psi_i\rangle`$ are quantum states encoding the classical state $`i`$.
 
 Quantization necessarily introduces additional dimensions, satisfying:
 
@@ -135,13 +135,13 @@ Information conversion at the quantum-classical interface follows the following 
 
 $$\frac{d\rho(t)}{dt} = -\frac{i}{\hbar}[H, \rho(t)] + \mathcal{L}_D(\rho(t))$$
 
-Where $H$ is the system Hamiltonian, and $\mathcal{L}_D$ is the Lindblad superoperator describing the decoherence process.
+Where $`H`$ is the system Hamiltonian, and $`\mathcal{L}_D`$ is the Lindblad superoperator describing the decoherence process.
 
 The decoherence superoperator can be represented as:
 
 $$\mathcal{L}_D(\rho) = \sum_k \gamma_k(L_k\rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\})$$
 
-Where $L_k$ are Lindblad operators, and $\gamma_k$ are decoherence rates.
+Where $`L_k`$ are Lindblad operators, and $`\gamma_k`$ are decoherence rates.
 
 The characteristic time scale of interface conversion is:
 
@@ -153,13 +153,13 @@ Information complexity can be defined as:
 
 $$C(\mathcal{I}) = S_{\text{alg}}(\mathcal{I}) \cdot dim(\mathcal{I})$$
 
-Where $S_{\text{alg}}$ is algorithmic entropy, and $dim(\mathcal{I})$ is information dimensionality.
+Where $`S_{\text{alg}}`$ is algorithmic entropy, and $`dim(\mathcal{I})`$ is information dimensionality.
 
 The complexity ratio between quantum information and classical information:
 
 $$\frac{C(\mathcal{I}_Q)}{C(\mathcal{I}_C)} \approx \frac{2^n - 1}{n}$$
 
-Where $n$ is the number of classical bits.
+Where $`n`$ is the number of classical bits.
 
 The relationship between information dimensionality and observer dimensionality:
 
@@ -179,13 +179,13 @@ Information capacity of a quantum channel:
 
 $$Q(\mathcal{E}) = \max_{\{p_i, \rho_i\}} \lim_{n\to\infty} \frac{1}{n}I(R:B)_{\sigma}$$
 
-Where $\sigma = (\mathcal{I} \otimes \mathcal{E}^{\otimes n})(\sum_i p_i |\psi_i\rangle\langle\psi_i| \otimes \rho_i^{\otimes n})$.
+Where $`\sigma = (\mathcal{I} \otimes \mathcal{E}^{\otimes n})(\sum_i p_i |\psi_i\rangle\langle\psi_i| \otimes \rho_i^{\otimes n})`$.
 
 Quantum-classical mixed communication advantage:
 
 $$C_{\text{mixed}} > \alpha C_{\text{quantum}} + (1-\alpha)C_{\text{classical}}$$
 
-Where $\alpha$ is the proportion of quantum communication.
+Where $`\alpha`$ is the proportion of quantum communication.
 
 ### Quantum Computing Information Theory
 
@@ -201,7 +201,7 @@ Information-theoretic explanation of quantum computing advantage:
 
 $$A_{\text{quantum}} = \frac{I_{\text{processed}}}{S(\rho_{\text{computation}})}$$
 
-Where $I_{\text{processed}}$ is the amount of information processed, and $S(\rho_{\text{computation}})$ is the entropy of the computation process.
+Where $`I_{\text{processed}}`$ is the amount of information processed, and $`S(\rho_{\text{computation}})`$ is the entropy of the computation process.
 
 ### Observer Measurement and Information Acquisition
 
@@ -209,7 +209,7 @@ Information acquisition in observer measurement processes:
 
 $$I(\mathcal{O}:\mathcal{S}) = S(\rho_{\mathcal{S}}) - S(\rho_{\mathcal{S}}|\mathcal{M}_{\mathcal{O}})$$
 
-Where $I(\mathcal{O}:\mathcal{S})$ is the mutual information obtained by the observer from the system, and $\mathcal{M}_{\mathcal{O}}$ is the observer's measurement.
+Where $`I(\mathcal{O}:\mathcal{S})`$ is the mutual information obtained by the observer from the system, and $`\mathcal{M}_{\mathcal{O}}`$ is the observer's measurement.
 
 Relationship between observer information capacity and dimensionality:
 
@@ -219,7 +219,7 @@ Collective information processing ability of an observer network:
 
 $$C(\{\mathcal{O}_i\}) = \sum_i C(\mathcal{O}_i) + I_{\text{shared}}(\{\mathcal{O}_i\})$$
 
-Where $I_{\text{shared}}$ is the information shared between observers.
+Where $`I_{\text{shared}}`$ is the information shared between observers.
 
 ### Information Thermodynamics and Physical Implementation
 
@@ -227,7 +227,7 @@ Basic relation in information thermodynamics:
 
 $$\Delta E \geq T \cdot \Delta S - W_{\text{information}}$$
 
-Where $W_{\text{information}} = kT \cdot I_{\text{acquired}}$ is the information work.
+Where $`W_{\text{information}} = kT \cdot I_{\text{acquired}}`$ is the information work.
 
 Energy cost of quantum-classical information conversion:
 
@@ -251,7 +251,7 @@ Information processing efficiency of quantum algorithms:
 
 $$E_{\text{algorithm}} = \frac{I_{\text{output}}}{Q_{\text{resources}}}$$
 
-Where $Q_{\text{resources}}$ are the required quantum resources (such as the number of qubits and gate operations).
+Where $`Q_{\text{resources}}`$ are the required quantum resources (such as the number of qubits and gate operations).
 
 ### Connection with Quantum Consciousness Theory
 
@@ -273,7 +273,7 @@ Estimate of the total information content of the universe:
 
 $$I_{\text{universe}} \approx \frac{c^3 t^2}{G\hbar}$$
 
-Where $t$ is the age of the universe.
+Where $`t`$ is the age of the universe.
 
 Proportion of observable information in the universe:
 
@@ -295,17 +295,17 @@ $$\frac{dS_{\text{universe}}}{dt} > 0$$
 
 ### Quantum Information Metrics
 
-- **Quantum Relative Entropy**: $S(\rho||\sigma) = \text{Tr}(\rho\log\rho - \rho\log\sigma)$
-- **Quantum Fisher Information**: $F_Q(\rho, A) = 2\sum_{i,j}\frac{(\lambda_i-\lambda_j)^2}{\lambda_i+\lambda_j}|\langle i|A|j\rangle|^2$
-- **Quantum Mutual Information**: $I(A:B)_\rho = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$
-- **Quantum Conditional Entropy**: $S(A|B)_\rho = S(\rho_{AB}) - S(\rho_B)$
+- **Quantum Relative Entropy**: $`S(\rho||\sigma) = \text{Tr}(\rho\log\rho - \rho\log\sigma)`$
+- **Quantum Fisher Information**: $`F_Q(\rho, A) = 2\sum_{i,j}\frac{(\lambda_i-\lambda_j)^2}{\lambda_i+\lambda_j}|\langle i|A|j\rangle|^2`$
+- **Quantum Mutual Information**: $`I(A:B)_\rho = S(\rho_A) + S(\rho_B) - S(\rho_{AB})`$
+- **Quantum Conditional Entropy**: $`S(A|B)_\rho = S(\rho_{AB}) - S(\rho_B)`$
 
 ### Quantum Channels and Operators
 
-- **Quantum Channel**: $\mathcal{E}(\rho) = \sum_k E_k \rho E_k^\dagger$, satisfying $\sum_k E_k^\dagger E_k = I$
-- **Holevo Quantity**: $\chi(\{p_i, \rho_i\}) = S(\sum_i p_i \rho_i) - \sum_i p_i S(\rho_i)$
-- **Entanglement of Formation**: $E_F(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i S(\text{Tr}_B(|\psi_i\rangle\langle\psi_i|))$
-- **Quantum Entanglement Entropy**: $E(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i E(|\psi_i\rangle)$
+- **Quantum Channel**: $`\mathcal{E}(\rho) = \sum_k E_k \rho E_k^\dagger`$, satisfying $`\sum_k E_k^\dagger E_k = I`$
+- **Holevo Quantity**: $`\chi(\{p_i, \rho_i\}) = S(\sum_i p_i \rho_i) - \sum_i p_i S(\rho_i)`$
+- **Entanglement of Formation**: $`E_F(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i S(\text{Tr}_B(|\psi_i\rangle\langle\psi_i|))`$
+- **Quantum Entanglement Entropy**: $`E(\rho) = \min_{\{p_i, |\psi_i\rangle\}} \sum_i p_i E(|\psi_i\rangle)`$
 
 ## Document Navigation
 

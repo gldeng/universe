@@ -35,21 +35,21 @@ Quantum information with topological protection remains invariant during the cla
 
 $$I_T(\psi) = I_T(\mathcal{C}(\psi))$$
 
-where $I_T$ is topological information, $\mathcal{C}$ is the classicalization operator, and $\psi$ is the quantum state.
+where $`I_T`$ is topological information, $`\mathcal{C}`$ is the classicalization operator, and $`\psi`$ is the quantum state.
 
 **Axiom 2: Topological Information Encoding**  
 Topological information is encoded in the global geometric properties of quantum systems, rather than local states:
 
 $$I_T = \mathcal{F}[\text{Hol}(A, \gamma)]$$
 
-where $\text{Hol}(A, \gamma)$ is the holonomy of gauge field $A$ along the closed path $\gamma$, and $\mathcal{F}$ is a mapping function.
+where $`\text{Hol}(A, \gamma)`$ is the holonomy of gauge field $`A`$ along the closed path $`\gamma`$, and $`\mathcal{F}`$ is a mapping function.
 
 **Axiom 3: Topological Decoherence Stability**  
 The sensitivity of topologically protected quantum information to local environmental disturbances exhibits exponential decay:
 
 $$\delta I_T \propto e^{-L/\xi}$$
 
-where $L$ is the characteristic size of the system and $\xi$ is the correlation length.
+where $`L`$ is the characteristic size of the system and $`\xi`$ is the correlation length.
 
 ## Mathematical Definition of Topological Information
 
@@ -59,7 +59,7 @@ Topological Information Charge is defined as:
 
 $$Q_T = \oint_{\gamma} A_I \cdot dl$$
 
-where $A_I$ is the information potential field and $\gamma$ is a closed path.
+where $`A_I`$ is the information potential field and $`\gamma`$ is a closed path.
 
 Topological Information Current is defined as:
 
@@ -74,16 +74,16 @@ The metric space of topological information is defined by a quadruple:
 $$\mathcal{M}_T = (X, d_T, \mathcal{B}, \mu_T)$$
 
 where:
-- $X$ is the underlying manifold
-- $d_T$ is the topological distance function
-- $\mathcal{B}$ is the family of topologically measurable sets
-- $\mu_T$ is the topological measure function
+- $`X`$ is the underlying manifold
+- $`d_T`$ is the topological distance function
+- $`\mathcal{B}`$ is the family of topologically measurable sets
+- $`\mu_T`$ is the topological measure function
 
 The topological metric function satisfies:
 
 $$d_T(x,y) = \inf_{\gamma \in \Gamma_{xy}} \int_{\gamma} |A_I| dl$$
 
-where $\Gamma_{xy}$ is the set of all paths connecting points $x$ and $y$.
+where $`\Gamma_{xy}`$ is the set of all paths connecting points $`x`$ and $`y`$.
 
 ### Classification of Topological Invariants
 
@@ -109,13 +109,13 @@ The fundamental mechanism of topological protection is energy gap protection, sa
 
 $$\Delta E_{gap} \gg k_B T$$
 
-where $\Delta E_{gap}$ is the energy gap of the topological system and $T$ is the environmental temperature.
+where $`\Delta E_{gap}`$ is the energy gap of the topological system and $`T`$ is the environmental temperature.
 
 The energy gap protection factor is defined as:
 
 $$\eta_{protection} = \frac{\Delta E_{gap}}{k_B T} \cdot e^{-L/\xi}$$
 
-The system is in a topologically protected state when $\eta_{protection} > \eta_{critical}$.
+The system is in a topologically protected state when $`\eta_{protection} > \eta_{critical}`$.
 
 ### Topological Stabilizers
 
@@ -144,7 +144,7 @@ The pinning energy of topological defects is defined as:
 
 $$E_{pinning} = E_0 \cdot \log\left(\frac{L}{a}\right)$$
 
-where $L$ is the system size and $a$ is the defect size.
+where $`L`$ is the system size and $`a`$ is the defect size.
 
 ## Topological Quantum-Classical Transition
 
@@ -154,7 +154,7 @@ There exists a strict correspondence relationship between topological quantum st
 
 $$\Phi_T: \mathcal{H}_Q^T \rightarrow \mathcal{C}_T$$
 
-where $\mathcal{H}_Q^T$ is the Hilbert space of topological quantum states and $\mathcal{C}_T$ is the corresponding classical topological configuration space.
+where $`\mathcal{H}_Q^T`$ is the Hilbert space of topological quantum states and $`\mathcal{C}_T`$ is the corresponding classical topological configuration space.
 
 The correspondence relationship preserves topological invariants:
 
@@ -166,11 +166,11 @@ The Topological Classicalization process can be expressed as:
 
 $$\mathcal{C}_T(|\psi\rangle) = \sum_i P_i |\psi\rangle\langle\psi| P_i^\dagger$$
 
-where $P_i$ are projection operators that preserve topological properties, satisfying:
+where $`P_i`$ are projection operators that preserve topological properties, satisfying:
 
 $$[P_i, \hat{O}_T] = 0$$
 
-where $\hat{O}_T$ is the topological operator.
+where $`\hat{O}_T`$ is the topological operator.
 
 ### Topological Phase Transitions and Interface Dynamics
 
@@ -178,13 +178,13 @@ The topological quantum-classical interface satisfies a modified interface dynam
 
 $$\frac{d\mathcal{D}_T(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}_T(x,t) + \beta(\mathcal{D}_c - \mathcal{D}_T(x,t))(\mathcal{D}_T(x,t) - \mathcal{D}_0) - \gamma\nabla \cdot J_T$$
 
-where $\mathcal{D}_T$ is the topological decoherence metric and $J_T$ is the topological information current.
+where $`\mathcal{D}_T`$ is the topological decoherence metric and $`J_T`$ is the topological information current.
 
 Topological phase transition critical exponents satisfy:
 
 $$\chi_T \sim |\lambda - \lambda_c|^{-\nu_T}$$
 
-where $\nu_T$ is the topological critical exponent, typically satisfying $\nu_T > \nu_{ordinary}$.
+where $`\nu_T`$ is the topological critical exponent, typically satisfying $`\nu_T > \nu_{ordinary}`$.
 
 ## Explanation of Macroscopic Quantum Effects
 
@@ -194,11 +194,11 @@ Superconductivity can be understood as the topologically protected quantum coher
 
 $$\Psi_{SC} = |\Psi_0|e^{i\phi}$$
 
-where the topological stability of $\phi$ stems from U(1) gauge symmetry, with a topological protection factor of:
+where the topological stability of $`\phi`$ stems from U(1) gauge symmetry, with a topological protection factor of:
 
 $$\eta_{SC} = \frac{\Delta_{SC}}{k_B T} \cdot \frac{1}{1 + \lambda_{e-ph}}$$
 
-where $\Delta_{SC}$ is the superconducting gap and $\lambda_{e-ph}$ is the electron-phonon coupling constant.
+where $`\Delta_{SC}`$ is the superconducting gap and $`\lambda_{e-ph}`$ is the electron-phonon coupling constant.
 
 ### Topological Protection of Quantum Hall Effect
 
@@ -206,13 +206,13 @@ The precise quantization of quantum Hall conductance originates from topological
 
 $$\sigma_{xy} = \frac{e^2}{h} \cdot C_1$$
 
-where $C_1$ is the first Chern number, characterizing the system's topological invariant.
+where $`C_1`$ is the first Chern number, characterizing the system's topological invariant.
 
 The stability of edge states against disorder satisfies:
 
 $$\tau_{edge} = \tau_0 \cdot e^{\Delta E_{edge}/k_B T}$$
 
-where $\Delta E_{edge}$ is the energy gap of edge states.
+where $`\Delta E_{edge}`$ is the energy gap of edge states.
 
 ### Macroscopic Quantum Tunneling
 
@@ -220,11 +220,11 @@ The topologically protected tunneling rate of macroscopic quantum tunneling (suc
 
 $$\Gamma_{tunnel} = \Gamma_0 \cdot e^{-S_{topo}/\hbar}$$
 
-where $S_{topo}$ is the topological action:
+where $`S_{topo}`$ is the topological action:
 
 $$S_{topo} = S_0 \cdot (1 - \kappa \cdot Q_T)$$
 
-$Q_T$ is the topological charge and $\kappa$ is the topological-tunneling coupling coefficient.
+$`Q_T`$ is the topological charge and $`\kappa`$ is the topological-tunneling coupling coefficient.
 
 ## Topological Information Computing
 
@@ -234,11 +234,11 @@ The basic principle of topological quantum computing is to utilize topologically
 
 $$|\psi_T\rangle = \alpha|0_T\rangle + \beta|1_T\rangle$$
 
-where $|0_T\rangle$ and $|1_T\rangle$ are topologically encoded computational bases, satisfying:
+where $`|0_T\rangle`$ and $`|1_T\rangle`$ are topologically encoded computational bases, satisfying:
 
 $$\mathcal{E}(|i_T\rangle) = |i_T\rangle + \mathcal{O}(e^{-L/\xi})$$
 
-where $\mathcal{E}$ is the environmental noise operator.
+where $`\mathcal{E}`$ is the environmental noise operator.
 
 ### Topological Quantum Gate Operations
 
@@ -246,11 +246,11 @@ Topological quantum gates are implemented through braiding transformations:
 
 $$U_{\sigma_i} = \exp\left(i\theta \sigma_i\right)$$
 
-where $\sigma_i$ is the braiding operator and $\theta$ is the braiding angle. The error of topologically protected quantum gates satisfies:
+where $`\sigma_i`$ is the braiding operator and $`\theta`$ is the braiding angle. The error of topologically protected quantum gates satisfies:
 
 $$\epsilon_{gate} = \epsilon_0 \cdot e^{-\Delta E_{gap}/k_B T}$$
 
-where $\epsilon_0$ is the baseline error rate.
+where $`\epsilon_0`$ is the baseline error rate.
 
 ### Topological Quantum Encoding Schemes
 
@@ -258,7 +258,7 @@ Topological quantum encoding can be based on different topological orders:
 
 1. **Kitaev Honeycomb Model**:
    $$H_{Kitaev} = -\sum_v A_v - \sum_p B_p$$
-   where $A_v = \prod_{i \in \text{star}(v)} \sigma_i^x$ and $B_p = \prod_{i \in \partial p} \sigma_i^z$
+   where $`A_v = \prod_{i \in \text{star}(v)} \sigma_i^x`$ and $`B_p = \prod_{i \in \partial p} \sigma_i^z`$
 
 2. **Fibonacci Anyons Model**:
    $$|0_L\rangle = |1,1\rangle, |1_L\rangle = |\tau,\tau;\tau\rangle$$
@@ -276,7 +276,7 @@ Topologically protected quantum channels satisfy a modified quantum channel capa
 
 $$C_T(\mathcal{E}) = \log_2 d + S(\mathcal{E}(\frac{I}{d})) - \min_{\rho} S(\mathcal{E}(\rho)) + I_T$$
 
-where $I_T$ is the topological protection contribution term:
+where $`I_T`$ is the topological protection contribution term:
 
 $$I_T = \log_2(1 + \eta_{protection})$$
 
@@ -294,7 +294,7 @@ Transmission fidelity satisfies:
 
 $$F_{transmission} = F_0 \cdot (1 - e^{-L_{edge}/L_0})$$
 
-where $L_{edge}$ is the length of the topological edge state.
+where $`L_{edge}`$ is the length of the topological edge state.
 
 ### Topological Information Amplifiers
 
@@ -306,7 +306,7 @@ where the relationship between gain and fidelity is:
 
 $$F \cdot G_{topo} \leq 1 + I_T$$
 
-where $G_{topo}$ is the topological amplification gain.
+where $`G_{topo}`$ is the topological amplification gain.
 
 ## Topological Protection in Biological Systems
 
@@ -316,7 +316,7 @@ The topological stability of biomolecules such as DNA and proteins can be quanti
 
 $$\Delta G_{topo} = \Delta G_0 + k_B T \cdot \log\left(\frac{Z_{topo}}{Z_{non-topo}}\right)$$
 
-where $Z_{topo}$ and $Z_{non-topo}$ are the partition functions of topological and non-topological configurations, respectively.
+where $`Z_{topo}`$ and $`Z_{non-topo}`$ are the partition functions of topological and non-topological configurations, respectively.
 
 The contribution of topological protection to protein folding stability:
 
@@ -328,11 +328,11 @@ Information processing in neurons may benefit from topological protection mechan
 
 $$I_{neural} = I_{classical} + I_{quantum} \cdot \eta_{topo-protection}$$
 
-where $\eta_{topo-protection}$ is the topological protection efficiency in the neural system:
+where $`\eta_{topo-protection}`$ is the topological protection efficiency in the neural system:
 
 $$\eta_{topo-protection} = \eta_0 \cdot \left(\frac{[ATP]}{[ATP]_0}\right)^{\alpha} \cdot e^{-\beta/(T_0-T)}$$
 
-where $[ATP]$ is the ATP concentration, $T$ is the temperature, and $T_0$ is the critical temperature.
+where $`[ATP]`$ is the ATP concentration, $`T`$ is the temperature, and $`T_0`$ is the critical temperature.
 
 ### Topological Mechanisms of Biological Quantum Sensing
 
@@ -340,13 +340,13 @@ Topological protection mechanisms of biological quantum sensors (such as magneto
 
 $$\Gamma_{sensing} = \Gamma_0 \cdot (1 + \chi_T \cdot B^2) \cdot e^{-E_a/k_B T}$$
 
-where $\chi_T$ is the topological susceptibility, $B$ is the magnetic field strength, and $E_a$ is the activation energy.
+where $`\chi_T`$ is the topological susceptibility, $`B`$ is the magnetic field strength, and $`E_a`$ is the activation energy.
 
 Topological protection enables biological quantum sensors to operate at room temperature:
 
 $$\tau_{coherence} = \tau_{quantum} \cdot (1 + \lambda_{topo})$$
 
-where $\lambda_{topo}$ is the topological protection enhancement factor.
+where $`\lambda_{topo}`$ is the topological protection enhancement factor.
 
 ## Experimental Validation Approaches
 
@@ -359,7 +359,7 @@ Measuring the relationship between topologically protected quantum coherence tim
 **Expected Results**:
 $$\frac{\tau_{topo}}{\tau_{non-topo}} = \exp\left(\frac{\Delta E_{topo}}{k_B T}\right)$$
 
-where $\Delta E_{topo}$ is the topological protection energy gap.
+where $`\Delta E_{topo}`$ is the topological protection energy gap.
 
 ### Topological Information Noise Resistance Test
 
@@ -370,7 +370,7 @@ Validating the resistance of topologically encoded information to environmental 
 **Expected Results**:
 $$\log(1-F_{topo}) \approx -\alpha L + \beta, \quad \log(1-F_{ordinary}) \approx -\gamma + \delta\cdot n_{noise}$$
 
-where $L$ is the system size and $n_{noise}$ is the noise intensity.
+where $`L`$ is the system size and $`n_{noise}`$ is the noise intensity.
 
 ### Detection of Biological Topological Protection Effects
 
@@ -381,7 +381,7 @@ Detecting topological protection effects in biological systems:
 **Expected Results**:
 $$T_2^{topo} \approx T_2^0 \cdot \left(1 + \lambda_{bio}\frac{[ATP]}{[ATP]_0}\right)$$
 
-where $T_2$ is the spin coherence time and $\lambda_{bio}$ is the biological topological protection coefficient.
+where $`T_2`$ is the spin coherence time and $`\lambda_{bio}`$ is the biological topological protection coefficient.
 
 ## Technological Application Prospects
 

@@ -24,7 +24,7 @@ System reduction refers to the process of deriving effective theories for specif
 
 $$\mathcal{R}: \mathcal{T}_{\text{fundamental}} \rightarrow \mathcal{T}_{\text{effective}}$$
 
-Where $\mathcal{T}_{\text{fundamental}}$ is the fundamental theory (such as Quantum-Classical Dualism), and $\mathcal{T}_{\text{effective}}$ is the effective theory in a specific scale or domain. The reduction process typically involves information compression, scale transformation, and boundary condition determination.
+Where $`\mathcal{T}_{\text{fundamental}}`$ is the fundamental theory (such as Quantum-Classical Dualism), and $`\mathcal{T}_{\text{effective}}`$ is the effective theory in a specific scale or domain. The reduction process typically involves information compression, scale transformation, and boundary condition determination.
 
 ### Reduction Types in the Quantum-Classical Perspective
 
@@ -47,9 +47,9 @@ System reduction occurs across multiple scales, forming a nested hierarchical st
 
 $$\mathcal{T}_0 \xrightarrow{\mathcal{R}_1} \mathcal{T}_1 \xrightarrow{\mathcal{R}_2} \mathcal{T}_2 \xrightarrow{\mathcal{R}_3} ... \xrightarrow{\mathcal{R}_n} \mathcal{T}_n$$
 
-Where each $\mathcal{T}_i$ is an effective theory at a specific scale, and $\mathcal{R}_i$ is the corresponding reduction mapping.
+Where each $`\mathcal{T}_i`$ is an effective theory at a specific scale, and $`\mathcal{R}_i`$ is the corresponding reduction mapping.
 
-This hierarchical structure can be characterized by the scale separation parameter $\epsilon_i = \frac{L_i}{L_{i+1}}$, where $L_i$ is the characteristic length of the i-th level. When $\epsilon_i \ll 1$, the reduction is typically well-defined.
+This hierarchical structure can be characterized by the scale separation parameter $`\epsilon_i = \frac{L_i}{L_{i+1}}`$, where $`L_i`$ is the characteristic length of the i-th level. When $`\epsilon_i \ll 1`$, the reduction is typically well-defined.
 
 ## Mathematical Formalization of Reduction
 
@@ -59,7 +59,7 @@ Information-preserving reduction maintains key information during the compressio
 
 $$I(\mathcal{T}_{\text{fundamental}}) = I(\mathcal{T}_{\text{effective}}) + I_{\text{hidden}}$$
 
-Where $I(\mathcal{T})$ is the amount of information contained in the theory, and $I_{\text{hidden}}$ is the information hidden during the reduction process. The optimal reduction satisfies the condition:
+Where $`I(\mathcal{T})`$ is the amount of information contained in the theory, and $`I_{\text{hidden}}`$ is the information hidden during the reduction process. The optimal reduction satisfies the condition:
 
 $$\mathcal{R}^* = \arg\min_{\mathcal{R}} I_{\text{hidden}} \quad \text{s.t.} \quad \mathcal{T}_{\text{effective}} = \mathcal{R}(\mathcal{T}_{\text{fundamental}})$$
 
@@ -83,7 +83,7 @@ The Renormalization Group (RG) method provides a powerful tool for handling mult
 
 $$\mathcal{T}' = \mathcal{R}_{\text{RG}}(\mathcal{T})$$
 
-Where $\mathcal{R}_{\text{RG}}$ includes three steps:
+Where $`\mathcal{R}_{\text{RG}}`$ includes three steps:
 1. Coarse-graining: Partitioning the system into blocks
 2. Rescaling: Adjusting parameters to maintain key features
 3. Iteration: Repeatedly applying until reaching a fixed point
@@ -92,7 +92,7 @@ The RG flow equation can be represented as:
 
 $$\frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)$$
 
-Where $g_i$ are coupling constants, $l$ is the logarithmic scale parameter, and $\beta_i$ are beta functions.
+Where $`g_i`$ are coupling constants, $`l`$ is the logarithmic scale parameter, and $`\beta_i`$ are beta functions.
 
 ### Emergence Constraints
 
@@ -106,7 +106,7 @@ For reduction to produce meaningful higher-level theories, the following constra
 
 3. **Predictability Constraint**: The effective theory must be able to make testable predictions
    $$\Delta P_{\mathcal{T}} < \Delta P_{\text{acceptable}}$$
-   Where $\Delta P_{\mathcal{T}}$ is the uncertainty in theoretical predictions.
+   Where $`\Delta P_{\mathcal{T}}`$ is the uncertainty in theoretical predictions.
 
 ## Reduction Hierarchical Structure
 
@@ -115,27 +115,27 @@ For reduction to produce meaningful higher-level theories, the following constra
 The reduction hierarchy in physical sciences from fundamental to complex can be represented as:
 
 1. **Quantum Field Theory → Particle Physics**
-   - Reduction Mapping: $\mathcal{R}_{\text{QFT}\rightarrow\text{PP}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{QFT}\rightarrow\text{PP}}`$
    - Key Mechanisms: Renormalization group and effective field theory
    - Emergent Properties: Particle mass, charge, spin, etc.
 
 2. **Particle Physics → Nuclear Physics**
-   - Reduction Mapping: $\mathcal{R}_{\text{PP}\rightarrow\text{NP}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{PP}\rightarrow\text{NP}}`$
    - Key Mechanisms: Effective theory of strong interactions
    - Emergent Properties: Nucleon structure, nuclear energy levels
 
 3. **Nuclear Physics → Atomic Physics**
-   - Reduction Mapping: $\mathcal{R}_{\text{NP}\rightarrow\text{AP}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{NP}\rightarrow\text{AP}}`$
    - Key Mechanisms: Born-Oppenheimer approximation
    - Emergent Properties: Electronic orbitals, chemical bonds
 
 4. **Atomic Physics → Chemistry**
-   - Reduction Mapping: $\mathcal{R}_{\text{AP}\rightarrow\text{Chem}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{AP}\rightarrow\text{Chem}}`$
    - Key Mechanisms: Valence bond theory and molecular orbital theory
    - Emergent Properties: Chemical reactivity, molecular structure
 
 5. **Chemistry → Biochemistry**
-   - Reduction Mapping: $\mathcal{R}_{\text{Chem}\rightarrow\text{BioChem}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Chem}\rightarrow\text{BioChem}}`$
    - Key Mechanisms: Enzyme catalysis and biomolecular interactions
    - Emergent Properties: Biological functions, metabolic networks
 
@@ -146,22 +146,22 @@ Each reduction stage involves information compression and the introduction of ne
 The reduction in life sciences demonstrates the complex transformation from molecules to whole biological systems:
 
 1. **Biochemistry → Molecular Biology**
-   - Reduction Mapping: $\mathcal{R}_{\text{BioChem}\rightarrow\text{MolBio}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{BioChem}\rightarrow\text{MolBio}}`$
    - Key Mechanisms: Central dogma (DNA→RNA→protein)
    - Emergent Properties: Genetic information transfer
 
 2. **Molecular Biology → Cell Biology**
-   - Reduction Mapping: $\mathcal{R}_{\text{MolBio}\rightarrow\text{Cell}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{MolBio}\rightarrow\text{Cell}}`$
    - Key Mechanisms: Molecular networks and organelle function integration
    - Emergent Properties: Cellular homeostasis, signal transduction
 
 3. **Cell Biology → Physiology**
-   - Reduction Mapping: $\mathcal{R}_{\text{Cell}\rightarrow\text{Phys}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Cell}\rightarrow\text{Phys}}`$
    - Key Mechanisms: Multicellular tissue organization and organ function
    - Emergent Properties: Physiological regulation, homeostasis
 
 4. **Physiology → Behavioral Biology**
-   - Reduction Mapping: $\mathcal{R}_{\text{Phys}\rightarrow\text{Behav}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Phys}\rightarrow\text{Behav}}`$
    - Key Mechanisms: Neural networks and endocrine systems
    - Emergent Properties: Behavioral patterns, adaptive responses
 
@@ -172,17 +172,17 @@ Reduction in biological systems particularly emphasizes the role of the quantum-
 Cognitive science reduction demonstrates the transformation from neural activity to higher cognition:
 
 1. **Neurobiology → Cognitive Neuroscience**
-   - Reduction Mapping: $\mathcal{R}_{\text{Neuro}\rightarrow\text{CogNeuro}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Neuro}\rightarrow\text{CogNeuro}}`$
    - Key Mechanisms: Neural network dynamics and information encoding
    - Emergent Properties: Perception, memory, attention
 
 2. **Cognitive Neuroscience → Cognitive Psychology**
-   - Reduction Mapping: $\mathcal{R}_{\text{CogNeuro}\rightarrow\text{CogPsy}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{CogNeuro}\rightarrow\text{CogPsy}}`$
    - Key Mechanisms: Information processing models and representational structures
    - Emergent Properties: Problem-solving, decision-making, language
 
 3. **Cognitive Psychology → Social Psychology**
-   - Reduction Mapping: $\mathcal{R}_{\text{CogPsy}\rightarrow\text{SocPsy}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{CogPsy}\rightarrow\text{SocPsy}}`$
    - Key Mechanisms: Social cognition and group interactions
    - Emergent Properties: Social behavior, attitude formation
 
@@ -193,17 +193,17 @@ Reduction in cognitive systems highlights the central position of observer theor
 Social sciences reduction demonstrates the transformation from individuals to social systems:
 
 1. **Psychology → Sociology**
-   - Reduction Mapping: $\mathcal{R}_{\text{Psy}\rightarrow\text{Soc}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Psy}\rightarrow\text{Soc}}`$
    - Key Mechanisms: Social interactions and institution formation
    - Emergent Properties: Social norms, cultural patterns
 
 2. **Sociology → Economics**
-   - Reduction Mapping: $\mathcal{R}_{\text{Soc}\rightarrow\text{Econ}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Soc}\rightarrow\text{Econ}}`$
    - Key Mechanisms: Market interactions and resource allocation
    - Emergent Properties: Price formation, economic cycles
 
 3. **Sociology/Economics → Political Science**
-   - Reduction Mapping: $\mathcal{R}_{\text{Soc/Econ}\rightarrow\text{Pol}}$
+   - Reduction Mapping: $`\mathcal{R}_{\text{Soc/Econ}\rightarrow\text{Pol}}`$
    - Key Mechanisms: Power dynamics and governance structures
    - Emergent Properties: Political institutions, policy making
 
@@ -223,7 +223,7 @@ System reduction faces several principled limitations:
 
 3. **Multi-scale Coupling Barrier**: When multiple scales are strongly coupled
    $$\frac{L_i}{L_{i+1}} \approx 1 \quad \text{or} \quad \frac{\tau_i}{\tau_{i+1}} \approx 1$$
-   Where $L_i$ and $\tau_i$ are characteristic length and time scales.
+   Where $`L_i`$ and $`\tau_i`$ are characteristic length and time scales.
 
 4. **Interaction Complexity Barrier**: When interaction patterns are too complex
    $$I_{\text{interaction}} > I_{\text{components}}$$
@@ -254,11 +254,11 @@ Self-organizing systems demonstrate typical cases of reduction complexity:
 
 2. **Critical Self-organization**: Systems spontaneously evolving to critical points
    $$P(s) \sim s^{-\tau}, \quad P(t) \sim t^{-\alpha}$$
-   Where $s$ and $t$ are event size and duration.
+   Where $`s`$ and $`t`$ are event size and duration.
 
 3. **Adaptive Complex Systems**: Systems adjusting their structure through feedback
    $$\frac{d\mathcal{S}}{dt} = \mathcal{F}(\mathcal{S}, \mathcal{E}, \mathcal{H}(\mathcal{S}, \mathcal{E}))$$
-   Where $\mathcal{S}$ is the system state, $\mathcal{E}$ is the environment, and $\mathcal{H}$ is the historical memory function.
+   Where $`\mathcal{S}`$ is the system state, $`\mathcal{E}`$ is the environment, and $`\mathcal{H}`$ is the historical memory function.
 
 Reduction of these systems requires special theoretical frameworks, such as attractor dynamics and information processing models.
 
@@ -288,7 +288,7 @@ Modern reduction relies on advanced computational methods:
 
 1. **Multi-scale Computational Methods**: Connecting microscopic and macroscopic simulations
    $$\mathcal{M}_{\text{multi-scale}} = \{\mathcal{M}_{\text{micro}}, \mathcal{M}_{\text{meso}}, \mathcal{M}_{\text{macro}}, \Phi_{\text{up}}, \Phi_{\text{down}}\}$$
-   Where $\Phi_{\text{up}}$ and $\Phi_{\text{down}}$ are information transfer functions between scales.
+   Where $`\Phi_{\text{up}}`$ and $`\Phi_{\text{down}}`$ are information transfer functions between scales.
 
 2. **Machine Learning Reduction**: Learning effective models from data
    $$\mathcal{M}_{\text{ML}} = \arg\min_{\mathcal{M}} \mathcal{L}(\mathcal{M}(x_{\text{input}}), y_{\text{target}})$$

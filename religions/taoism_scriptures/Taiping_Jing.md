@@ -51,24 +51,26 @@ The Taiping Jing (Scripture of Great Peace) is one of the earliest important cla
 ## 数学表达 (Mathematical Expression)
 
 ### 三才相通的量子纠缠方程
+
 $$
 |\psi_{\text{三才}}\rangle = \frac{1}{\sqrt{3}}(|\text{天}\rangle|\text{地}\rangle|\text{人}\rangle + |\text{人}\rangle|\text{天}\rangle|\text{地}\rangle + |\text{地}\rangle|\text{人}\rangle|\text{天}\rangle)
 $$
 
 其中：
-- $|\psi_{\text{三才}}\rangle$ 表示天地人的量子纠缠态
-- $|\text{天}\rangle$、$|\text{地}\rangle$、$|\text{人}\rangle$ 分别表示天、地、人的量子态
+- $`|\psi_{\text{三才}}\rangle`$ 表示天地人的量子纠缠态
+- $`|\text{天}\rangle`$、$`|\text{地}\rangle`$、$`|\text{人}\rangle`$ 分别表示天、地、人的量子态
 
 ### 太平状态的熵减方程
+
 $$
 S_{\text{社会}}(t) = S_{\text{初始}} - \int_{0}^{t} k_{\text{修行}}(t')\cdot f(\text{三才调和})(t') dt'
 $$
 
 其中：
-- $S_{\text{社会}}(t)$ 表示t时刻的社会熵值
-- $S_{\text{初始}}$ 是社会的初始熵值
-- $k_{\text{修行}}(t)$ 是修行带来的经典化效率系数
-- $f(\text{三才调和})(t)$ 是三才调和程度的函数
+- $`S_{\text{社会}}(t)`$ 表示t时刻的社会熵值
+- $`S_{\text{初始}}`$ 是社会的初始熵值
+- $`k_{\text{修行}}(t)`$ 是修行带来的经典化效率系数
+- $`f(\text{三才调和})(t)`$ 是三才调和程度的函数
 
 ## 结论 (Conclusion)
 

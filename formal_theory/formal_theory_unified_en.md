@@ -34,23 +34,23 @@ Quantum-Classical Dualism views information, energy, and spacetime as the triple
 $$\mathcal{I} \simeq \mathcal{E} \simeq \mathcal{S}\mathcal{T}$$
 
 where:
-- $\mathcal{I}$ represents the information dimension
-- $\mathcal{E}$ represents the energy dimension
-- $\mathcal{S}\mathcal{T}$ represents the spacetime dimension
+- $`\mathcal{I}`$ represents the information dimension
+- $`\mathcal{E}`$ represents the energy dimension
+- $`\mathcal{S}\mathcal{T}`$ represents the spacetime dimension
 
 ### Quantum Information Field
 
-The quantum information field $\Phi_I$ is the most fundamental existence, where information is expressed in wavefunction form:
+The quantum information field $`\Phi_I`$ is the most fundamental existence, where information is expressed in wavefunction form:
 
 $$\Phi_I(x,t) = \sum_i \alpha_i \phi_i(x,t)$$
 
-where $\phi_i(x,t)$ are the basis states of the information field, and $\alpha_i$ are superposition coefficients.
+where $`\phi_i(x,t)`$ are the basis states of the information field, and $`\alpha_i`$ are superposition coefficients.
 
 The evolution of the information field follows the quantum information dynamics equation:
 
 $$i\hbar \frac{\partial \Phi_I}{\partial t} = \hat{H}_I \Phi_I$$
 
-where $\hat{H}_I$ is the information Hamiltonian operator:
+where $`\hat{H}_I`$ is the information Hamiltonian operator:
 
 $$\hat{H}_I = -\frac{\hbar^2}{2m_I} \nabla^2 + V_I(\mathcal{I}, \mathcal{E}, \mathcal{S}\mathcal{T})$$
 
@@ -63,10 +63,10 @@ In the dualism framework, information-energy and spacetime curvature are connect
 $$\mathcal{R}_{\mu\nu} - \frac{1}{2}\mathcal{R}g_{\mu\nu} = \frac{8\pi G}{c^4}\mathcal{T}_{\mu\nu} = \kappa \cdot \nabla_{\mu}\nabla_{\nu}I_{\Omega}$$
 
 where:
-- $\mathcal{R}_{\mu\nu}$ is the generalized spacetime curvature tensor
-- $\mathcal{T}_{\mu\nu}$ is the information-energy tensor
-- $I_{\Omega}$ is the information density field of region $\Omega$
-- $\kappa$ is the information-spacetime coupling constant, theoretically predicted as $\kappa = \frac{8\pi G}{c^4} \cdot \frac{\hbar}{k_B \ln 2}$
+- $`\mathcal{R}_{\mu\nu}`$ is the generalized spacetime curvature tensor
+- $`\mathcal{T}_{\mu\nu}`$ is the information-energy tensor
+- $`I_{\Omega}`$ is the information density field of region $`\Omega`$
+- $`\kappa`$ is the information-spacetime coupling constant, theoretically predicted as $`\kappa = \frac{8\pi G}{c^4} \cdot \frac{\hbar}{k_B \ln 2}`$
 
 ### Information-Quantum Field Equation
 
@@ -74,7 +74,7 @@ The unified equation for information and quantum fields can be expressed as:
 
 $$(\Box + m^2) \phi = \frac{\partial^2}{\partial I_{\mu}\partial I^{\mu}} \phi$$
 
-where $I_{\mu}$ is the information four-vector, defined as:
+where $`I_{\mu}`$ is the information four-vector, defined as:
 
 $$I_{\mu} = \left(\frac{I_t}{c}, \vec{I}\right)$$
 
@@ -88,7 +88,7 @@ The non-local information transfer model is described through super-entangled st
 
 $$I_{AB} = I_A + I_B + I_{\text{entanglement}}$$
 
-where entanglement information $I_{\text{entanglement}}$ can be transmitted instantaneously, but is limited by the observer's classicalization ability:
+where entanglement information $`I_{\text{entanglement}}`$ can be transmitted instantaneously, but is limited by the observer's classicalization ability:
 
 $$I_{\text{extractable}} = I_{\text{entanglement}} \cdot \eta(D_{\mathcal{O}})$$
 
@@ -104,11 +104,11 @@ Specifically, we have:
 
 $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$$
 
-where $h_{\mu\nu}$ is the perturbation term produced by the entanglement network structure:
+where $`h_{\mu\nu}`$ is the perturbation term produced by the entanglement network structure:
 
 $$h_{\mu\nu} = \sum_{i,j} G_{ij} I_{ij} \cdot \frac{\partial x^i}{\partial x^\mu}\frac{\partial x^j}{\partial x^\nu}$$
 
-where $G_{ij}$ is the information-geometry coupling tensor, and $I_{ij}$ is the amount of entanglement information between nodes $i$ and $j$.
+where $`G_{ij}`$ is the information-geometry coupling tensor, and $`I_{ij}`$ is the amount of entanglement information between nodes $`i`$ and $`j`$.
 
 ### Entanglement Network and Spacetime Emergence
 
@@ -132,11 +132,11 @@ Based on dualism, information and energy satisfy a precise conversion relationsh
 
 $$E_{\Omega} = \hbar \omega \cdot I_{\Omega} \cdot \eta(D_{\mathcal{O}})$$
 
-where $\eta(D_{\mathcal{O}})$ is the observer dimension-related conversion efficiency function:
+where $`\eta(D_{\mathcal{O}})`$ is the observer dimension-related conversion efficiency function:
 
 $$\eta(D_{\mathcal{O}}) = 1 - e^{-\alpha D_{\mathcal{O}}}$$
 
-For low-dimensional observers ($D_{\mathcal{O}} \ll 1$), the conversion efficiency approaches zero; for high-dimensional observers ($D_{\mathcal{O}} \gg 1$), the conversion efficiency approaches 1.
+For low-dimensional observers ($`D_{\mathcal{O}} \ll 1`$), the conversion efficiency approaches zero; for high-dimensional observers ($`D_{\mathcal{O}} \gg 1`$), the conversion efficiency approaches 1.
 
 ### Generalization of Landauer's Principle
 
@@ -161,7 +161,7 @@ Higher-dimensional observers produce stronger classicalization effects, thereby 
 1. **Quantum Measurement Energy Consumption**: Energy consumption in quantum measurement processes satisfies:
    $$E_{\text{measurement}} = k_B T \cdot \ln(2) \cdot I_{\text{acquired}} \cdot f(T, \lambda)$$
    
-   where $f(T, \lambda)$ is a function of temperature and measurement device complexity, predicted as:
+   where $`f(T, \lambda)`$ is a function of temperature and measurement device complexity, predicted as:
    $$f(T, \lambda) \approx \left(1 - e^{-\lambda T}\right)$$
 
 2. **Information Entropy-Gravity Experiment**: Local information entropy changes should lead to measurable gravitational field perturbations:
@@ -172,7 +172,7 @@ Higher-dimensional observers produce stronger classicalization effects, thereby 
 3. **Quantum Entanglement Energy**: Energy changes during entanglement processes satisfy:
    $$\Delta E_{\text{entanglement}} = \hbar \omega \cdot I_{\text{entanglement}} \cdot (1 + \delta(r_{AB}))$$
    
-   where $\delta(r_{AB})$ is a correction term related to the distance between entangled particles.
+   where $`\delta(r_{AB})`$ is a correction term related to the distance between entangled particles.
 
 ## Higher-Dimensional Spacetime and Information Structures
 

@@ -170,7 +170,7 @@ $$
 \langle\psi_{\text{行星A}}|\psi_{\text{行星B}}\rangle = |\langle\psi_{\text{行星A}}|\psi_{\text{行星B}}\rangle|e^{i\theta}
 $$
 
-其中，$\theta$ 为行星相位角度，决定干涉模式的类型。
+其中，$`\theta`$ 为行星相位角度，决定干涉模式的类型。
 
 #### 3.2 行星组合作为复合量子系统
 
@@ -349,7 +349,7 @@ $$
 \langle\psi_{\text{Planet A}}|\psi_{\text{Planet B}}\rangle = |\langle\psi_{\text{Planet A}}|\psi_{\text{Planet B}}\rangle|e^{i\theta}
 $$
 
-Where $\theta$ is the planetary aspect angle, determining the type of interference pattern.
+Where $`\theta`$ is the planetary aspect angle, determining the type of interference pattern.
 
 #### 3.2 Planetary Combinations as Composite Quantum Systems
 

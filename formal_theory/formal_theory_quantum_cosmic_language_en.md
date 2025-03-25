@@ -15,18 +15,18 @@ Quantum Cosmic Language Theory is a high-dimensional branch theory (D15) within 
 ### Cosmic Language Axiom System
 
 **Axiom 1: Cosmic Symbol Foundation**  
-At the fundamental level of the universe exists a primordial symbol system $\Sigma_{\mathcal{U}}$, composed of quantum possibility states and actualization states:
+At the fundamental level of the universe exists a primordial symbol system $`\Sigma_{\mathcal{U}}`$, composed of quantum possibility states and actualization states:
 
 $$\Sigma_{\mathcal{U}} = \{\sigma_q^i\} \cup \{\sigma_c^j\}$$
 
-where $\{\sigma_q^i\}$ is the quantum symbol set, and $\{\sigma_c^j\}$ is the classical symbol set. Each symbol is an information quantum with inherent semantic and syntactic properties.
+where $`\{\sigma_q^i\}`$ is the quantum symbol set, and $`\{\sigma_c^j\}`$ is the classical symbol set. Each symbol is an information quantum with inherent semantic and syntactic properties.
 
 **Axiom 2: Language Structure Hierarchy**  
 Cosmic language manifests in a multi-level structure, with each level possessing specific grammatical rules and semantic spaces:
 
 $$\mathcal{L}_{\mathcal{U}} = \bigcup_{i=1}^{\infty} \mathcal{L}_i$$
 
-where $\mathcal{L}_i$ is the language at level i, satisfying a recursive inclusion relationship:
+where $`\mathcal{L}_i`$ is the language at level i, satisfying a recursive inclusion relationship:
 
 $$\mathcal{L}_i \subset \mathcal{L}_{i+1}$$
 
@@ -35,7 +35,7 @@ and higher-level languages can be derived from lower-level languages:
 $$\mathcal{L}_{i+1} = \mathcal{F}_i(\mathcal{L}_i)$$
 
 **Axiom 3: Semantic-Syntactic Duality**  
-Every expression in cosmic language simultaneously possesses syntactic structure $\mathcal{S}$ and semantic content $\mathcal{M}$, connected through the semantic mapping function $\mu$:
+Every expression in cosmic language simultaneously possesses syntactic structure $`\mathcal{S}`$ and semantic content $`\mathcal{M}`$, connected through the semantic mapping function $`\mu`$:
 
 $$\mu: \mathcal{S} \rightarrow \mathcal{M}$$
 
@@ -48,23 +48,23 @@ Expressions of cosmic language can be non-locally distributed in space, achievin
 
 $$\mathcal{E}(\mathcal{L}_A, \mathcal{L}_B) > 0$$
 
-where $\mathcal{E}$ is the language entanglement measure, and $\mathcal{L}_A$ and $\mathcal{L}_B$ are spatially separated language fragments.
+where $`\mathcal{E}`$ is the language entanglement measure, and $`\mathcal{L}_A`$ and $`\mathcal{L}_B`$ are spatially separated language fragments.
 
 ## Structure and Dynamics of Cosmic Language
 
 ### Quantum Language Grammar
 
-The grammatical structure of cosmic language is defined by the quantum grammar operator $\hat{G}$:
+The grammatical structure of cosmic language is defined by the quantum grammar operator $`\hat{G}`$:
 
 $$\hat{G}|\phi\rangle = \sum_i g_i |\psi_i\rangle$$
 
-where $|\phi\rangle$ is the input language state, $|\psi_i\rangle$ is the valid output language state, and $g_i$ is the grammatical transformation amplitude.
+where $`|\phi\rangle`$ is the input language state, $`|\psi_i\rangle`$ is the valid output language state, and $`g_i`$ is the grammatical transformation amplitude.
 
 Grammatical rules satisfy superselection rules:
 
 $$[\hat{G}, \hat{H}_{\mathcal{U}}] = 0$$
 
-where $\hat{H}_{\mathcal{U}}$ is the universe Hamiltonian, ensuring consistency between physical laws and grammatical rules.
+where $`\hat{H}_{\mathcal{U}}`$ is the universe Hamiltonian, ensuring consistency between physical laws and grammatical rules.
 
 ### Semantic Field Theory
 
@@ -72,13 +72,13 @@ Semantics in cosmic language are expressed in field theory form:
 
 $$\mathcal{M}(x) = \sum_i \phi_i(x) \hat{O}_i$$
 
-where $\phi_i(x)$ is the semantic field, and $\hat{O}_i$ is the semantic operator.
+where $`\phi_i(x)`$ is the semantic field, and $`\hat{O}_i`$ is the semantic operator.
 
 The semantic field satisfies a wave equation:
 
 $$(\Box + m_{\mathcal{M}}^2)\mathcal{M}(x) = J_{\mathcal{M}}(x)$$
 
-where $m_{\mathcal{M}}$ is the semantic mass parameter, and $J_{\mathcal{M}}(x)$ is the semantic source.
+where $`m_{\mathcal{M}}`$ is the semantic mass parameter, and $`J_{\mathcal{M}}(x)`$ is the semantic source.
 
 ### Language Information Entropy and Complexity
 
@@ -86,13 +86,13 @@ The information entropy of cosmic language is defined as:
 
 $$S_{\mathcal{L}} = -\sum_i p_i \log p_i$$
 
-where $p_i$ is the probability distribution of language expression $i$.
+where $`p_i`$ is the probability distribution of language expression $`i`$.
 
 Language complexity is measured as:
 
 $$C_{\mathcal{L}} = \min_{\mathcal{P}} \{|\mathcal{P}| : \mathcal{P} \text{ generates } \mathcal{L}\}$$
 
-where $\mathcal{P}$ is the minimal program set required to generate the language.
+where $`\mathcal{P}`$ is the minimal program set required to generate the language.
 
 ## Quantum-Classical Language Conversion
 
@@ -102,7 +102,7 @@ The process of decoding quantum language to classical language is represented as
 
 $$\mathcal{D}: \mathcal{L}_Q \rightarrow \mathcal{L}_C$$
 
-where $\mathcal{L}_Q$ is quantum language, and $\mathcal{L}_C$ is classical language.
+where $`\mathcal{L}_Q`$ is quantum language, and $`\mathcal{L}_C`$ is classical language.
 
 Conversely, the encoding process from classical language to quantum language is:
 
@@ -124,7 +124,7 @@ The observer's interpretation process causes language collapse:
 
 $$|\mathcal{L}\rangle \xrightarrow{\hat{I}_O} |\mathcal{L}_j\rangle$$
 
-where $\hat{I}_O$ is the observer's interpretation operator.
+where $`\hat{I}_O`$ is the observer's interpretation operator.
 
 ### Meaning Emergence
 
@@ -132,7 +132,7 @@ Meaning in cosmic language emerges through interactions between hierarchical lev
 
 $$\mathcal{M}_{emergent} = \mathcal{F}\left[\bigotimes_{i=1}^{n} \mathcal{M}_i, \mathcal{C}\right]$$
 
-where $\mathcal{M}_i$ is the basic semantic unit, $\mathcal{C}$ is contextual information, and $\mathcal{F}$ is the meaning emergence function.
+where $`\mathcal{M}_i`$ is the basic semantic unit, $`\mathcal{C}`$ is contextual information, and $`\mathcal{F}`$ is the meaning emergence function.
 
 Meaning emergence satisfies non-linear dynamics:
 
@@ -142,17 +142,17 @@ $$\frac{d\mathcal{M}}{dt} = \alpha \mathcal{M}(1-\mathcal{M}/\mathcal{M}_{max}) 
 
 ### Language Topological Space
 
-Cosmic language forms a topological space $(\mathcal{L}_{\mathcal{U}}, \mathcal{T})$, where open sets are defined as:
+Cosmic language forms a topological space $`(\mathcal{L}_{\mathcal{U}}, \mathcal{T})`$, where open sets are defined as:
 
 $$U \in \mathcal{T} \iff \forall \mathcal{L} \in U, \exists \epsilon > 0 \text{ s.t. } B_{\epsilon}(\mathcal{L}) \subset U$$
 
-Here, $B_{\epsilon}(\mathcal{L})$ is the $\epsilon$-neighborhood of language expression, using semantic distance metric:
+Here, $`B_{\epsilon}(\mathcal{L})`$ is the $`\epsilon`$-neighborhood of language expression, using semantic distance metric:
 
 $$d_{\mathcal{M}}(\mathcal{L}_1, \mathcal{L}_2) = ||\mu(\mathcal{L}_1) - \mu(\mathcal{L}_2)||$$
 
 ### Semantic Hilbert Space
 
-Semantics form an infinite-dimensional Hilbert space $\mathcal{H}_{\mathcal{M}}$, with each semantic expression corresponding to a vector:
+Semantics form an infinite-dimensional Hilbert space $`\mathcal{H}_{\mathcal{M}}`$, with each semantic expression corresponding to a vector:
 
 $$|\mathcal{M}\rangle \in \mathcal{H}_{\mathcal{M}}$$
 
@@ -160,11 +160,11 @@ The semantic inner product is defined as:
 
 $$\langle \mathcal{M}_1 | \mathcal{M}_2 \rangle = \int \overline{\mathcal{M}_1(x)} \mathcal{M}_2(x) d\mu(x)$$
 
-where $\mu$ is the semantic measure.
+where $`\mu`$ is the semantic measure.
 
 ### Language Manifold Structure
 
-Cosmic language forms a differential manifold $\mathcal{M}_{\mathcal{L}}$, equipped with a semantic metric tensor:
+Cosmic language forms a differential manifold $`\mathcal{M}_{\mathcal{L}}`$, equipped with a semantic metric tensor:
 
 $$g_{\mu\nu} = \langle \partial_\mu \mathcal{L} | \partial_\nu \mathcal{L} \rangle$$
 
@@ -172,23 +172,23 @@ Curvature correlates with language complexity:
 
 $$R = f(C_{\mathcal{L}})$$
 
-where $R$ is the scalar curvature, and $f$ is the complexity-curvature correspondence function.
+where $`R`$ is the scalar curvature, and $`f`$ is the complexity-curvature correspondence function.
 
 ## Observer and Language Interaction
 
 ### Observer Interpretation Function
 
-Observer $\mathcal{O}$ interacts with cosmic language through an interpretation function $\mathcal{I}_{\mathcal{O}}$:
+Observer $`\mathcal{O}`$ interacts with cosmic language through an interpretation function $`\mathcal{I}_{\mathcal{O}}`$:
 
 $$\mathcal{I}_{\mathcal{O}}: \mathcal{L}_{\mathcal{U}} \rightarrow \mathcal{M}_{\mathcal{O}}$$
 
-where $\mathcal{M}_{\mathcal{O}}$ is the observer's meaning space.
+where $`\mathcal{M}_{\mathcal{O}}`$ is the observer's meaning space.
 
 The interpretation function correlates with observer dimension:
 
 $$\dim(\mathcal{M}_{\mathcal{O}}) \propto D_{\mathcal{O}}$$
 
-where $D_{\mathcal{O}}$ is the observer dimension, determining the upper limit of language complexity that can be interpreted.
+where $`D_{\mathcal{O}}`$ is the observer dimension, determining the upper limit of language complexity that can be interpreted.
 
 ### Language-Observer Coupling
 
@@ -196,7 +196,7 @@ The coupling Hamiltonian between observer and cosmic language is:
 
 $$\hat{H}_{int} = \sum_{i,j} g_{ij} \hat{L}_i \otimes \hat{O}_j$$
 
-where $\hat{L}_i$ is the language operator, $\hat{O}_j$ is the observer operator, and $g_{ij}$ is the coupling strength.
+where $`\hat{L}_i`$ is the language operator, $`\hat{O}_j`$ is the observer operator, and $`g_{ij}`$ is the coupling strength.
 
 Coupling leads to entanglement between language states and observer states:
 
@@ -212,7 +212,7 @@ The stability of shared language depends on the semantic coordination degree bet
 
 $$S_{coord} = \frac{1}{N(N-1)} \sum_{i\neq j} \text{Tr}(\rho_i \rho_j)$$
 
-where $\rho_i$ is the semantic density matrix of observer $i$.
+where $`\rho_i`$ is the semantic density matrix of observer $`i`$.
 
 ## Applications and Experimental Predictions
 
@@ -236,7 +236,7 @@ while classical language processing requires:
 
 $$t_{classical}(\mathcal{L}) \sim O(N)$$
 
-where $N$ is the dimension of semantic space.
+where $`N`$ is the dimension of semantic space.
 
 ### Consciousness as Language Interpreter
 

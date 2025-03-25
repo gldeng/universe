@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{Churchill}}: \Omega_Q^{\text{战争}} \xrightarrow{\text{领导}} \Omega_C^{\text{胜利}}$$
 
-其中$\Omega_Q^{\text{战争}}$代表战争局势的量子可能性空间，$\Omega_C^{\text{胜利}}$代表通过领导实现的经典胜利状态。
+其中$`\Omega_Q^{\text{战争}}`$代表战争局势的量子可能性空间，$`\Omega_C^{\text{胜利}}`$代表通过领导实现的经典胜利状态。
 
 ### 历史影响
 
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, Churchill's leadership practice can 
 
 $$\mathcal{M}_{\text{Churchill}}: \Omega_Q^{\text{war}} \xrightarrow{\text{leadership}} \Omega_C^{\text{victory}}$$
 
-Where $\Omega_Q^{\text{war}}$ represents the quantum possibility space of war situations, and $\Omega_C^{\text{victory}}$ represents the classical victory state achieved through leadership.
+Where $`\Omega_Q^{\text{war}}`$ represents the quantum possibility space of war situations, and $`\Omega_C^{\text{victory}}`$ represents the classical victory state achieved through leadership.
 
 ### Historical Impact
 

@@ -26,8 +26,8 @@ Biodiversity can be divided into quantum diversity (potential gene possibility s
 $$\mathcal{B} = \{\mathcal{B}_Q, \mathcal{B}_C\}$$
 
 Where:
-- $\mathcal{B}_Q$ represents quantum biodiversity space, containing all possible life forms
-- $\mathcal{B}_C$ represents classical biodiversity space, containing all realized life forms
+- $`\mathcal{B}_Q`$ represents quantum biodiversity space, containing all possible life forms
+- $`\mathcal{B}_C`$ represents classical biodiversity space, containing all realized life forms
 
 The intersection of these two constitutes the currently active evolutionary frontier:
 
@@ -40,11 +40,11 @@ Biodiversity exhibits a multi-level structure, which can be formalized as:
 $$\mathcal{B}^{(n)} = \{\mathcal{B}^{(g)}, \mathcal{B}^{(s)}, \mathcal{B}^{(e)}, \mathcal{B}^{(f)}, \mathcal{B}^{(c)}\}$$
 
 Where:
-- $\mathcal{B}^{(g)}$ is genetic diversity (genetic information level)
-- $\mathcal{B}^{(s)}$ is species diversity (species taxonomic level)
-- $\mathcal{B}^{(e)}$ is ecosystem diversity (ecological function level)
-- $\mathcal{B}^{(f)}$ is functional diversity (biological function level)
-- $\mathcal{B}^{(c)}$ is cognitive diversity (biological consciousness level)
+- $`\mathcal{B}^{(g)}`$ is genetic diversity (genetic information level)
+- $`\mathcal{B}^{(s)}`$ is species diversity (species taxonomic level)
+- $`\mathcal{B}^{(e)}`$ is ecosystem diversity (ecological function level)
+- $`\mathcal{B}^{(f)}`$ is functional diversity (biological function level)
+- $`\mathcal{B}^{(c)}`$ is cognitive diversity (biological consciousness level)
 
 Each level contains a quantum-classical dual structure.
 
@@ -57,9 +57,9 @@ The genome can be viewed as a quantum information repository, existing in a supe
 $$|\Psi_G\rangle = \sum_{i=1}^{N} \alpha_i |G_i\rangle$$
 
 Where:
-- $|G_i\rangle$ represents the ith possible gene expression state
-- $\alpha_i$ is the complex amplitude, satisfying $\sum_i |\alpha_i|^2 = 1$
-- $N$ is the theoretical total number of possible gene expression states
+- $`|G_i\rangle`$ represents the ith possible gene expression state
+- $`\alpha_i`$ is the complex amplitude, satisfying $`\sum_i |\alpha_i|^2 = 1`$
+- $`N`$ is the theoretical total number of possible gene expression states
 
 This quantum superposition explains how organisms maintain vast adaptive potential.
 
@@ -70,9 +70,9 @@ Epigenetic modifications form quantum entanglement networks across the genome:
 $$|\Psi_{EG}\rangle = \sum_{i,j} \beta_{ij} |E_i\rangle \otimes |G_j\rangle$$
 
 Where:
-- $|E_i\rangle$ represents the ith epigenetic state
-- $|G_j\rangle$ represents the jth genetic state
-- $\beta_{ij}$ is the complex amplitude describing the degree of entanglement between them
+- $`|E_i\rangle`$ represents the ith epigenetic state
+- $`|G_j\rangle`$ represents the jth genetic state
+- $`\beta_{ij}`$ is the complex amplitude describing the degree of entanglement between them
 
 This entanglement explains how the environment influences biodiversity through epigenetic mechanisms.
 
@@ -82,7 +82,7 @@ The biodiversity of an entire ecosystem can be represented as a quantum wavefunc
 
 $$|\Psi_B(t)\rangle = e^{-i\hat{H}_B t/\hbar}|\Psi_B(0)\rangle$$
 
-Where $\hat{H}_B$ is the biodiversity Hamiltonian, including:
+Where $`\hat{H}_B`$ is the biodiversity Hamiltonian, including:
 - Intra-species gene flow terms
 - Inter-species interaction terms
 - Environmental selection terms
@@ -99,11 +99,11 @@ The quantum generation of biodiversity follows this dynamical equation:
 $$\frac{d\mathcal{D}_Q}{dt} = \alpha \cdot \nabla^2 \mathcal{D}_Q + \beta \cdot \mathcal{D}_Q(1-\mathcal{D}_Q/K) + \gamma \cdot \xi(t)$$
 
 Where:
-- $\mathcal{D}_Q$ is the quantum diversity measure
-- $\alpha$ is the diversity diffusion coefficient
-- $\beta$ is the intrinsic diversity growth rate
-- $K$ is the environmental carrying capacity
-- $\gamma \cdot \xi(t)$ is the quantum fluctuation term
+- $`\mathcal{D}_Q`$ is the quantum diversity measure
+- $`\alpha`$ is the diversity diffusion coefficient
+- $`\beta`$ is the intrinsic diversity growth rate
+- $`K`$ is the environmental carrying capacity
+- $`\gamma \cdot \xi(t)`$ is the quantum fluctuation term
 
 This equation explains how diversity spontaneously emerges in unguided quantum processes.
 
@@ -116,13 +116,13 @@ Classical biodiversity can be quantified through multiple complementary indicato
 $$\mathcal{B}_C = \{S, H', D, E, F, \beta, PD\}$$
 
 Where:
-- $S$ is species richness (number of species)
-- $H'$ is the Shannon-Wiener index (diversity uniformity)
-- $D$ is the Simpson index (species dominance)
-- $E$ is the evenness index (resource allocation balance)
-- $F$ is the functional diversity index (ecological function diversity)
-- $\beta$ is Beta diversity (inter-regional difference)
-- $PD$ is phylogenetic diversity (evolutionary history diversity)
+- $`S`$ is species richness (number of species)
+- $`H'`$ is the Shannon-Wiener index (diversity uniformity)
+- $`D`$ is the Simpson index (species dominance)
+- $`E`$ is the evenness index (resource allocation balance)
+- $`F`$ is the functional diversity index (ecological function diversity)
+- $`\beta`$ is Beta diversity (inter-regional difference)
+- $`PD`$ is phylogenetic diversity (evolutionary history diversity)
 
 These indicators collectively describe the classical realized state of biodiversity.
 
@@ -133,11 +133,11 @@ Classical biodiversity and ecosystem stability satisfy the following relationshi
 $$\sigma^2(X) = \sigma^2_0 \cdot S^{-\alpha} \cdot f(H', F, C)$$
 
 Where:
-- $\sigma^2(X)$ is the variance of key system variables
-- $\sigma^2_0$ is the baseline fluctuation variance
-- $S$ is species richness
-- $\alpha$ is the stability-diversity index (typically $0.5 < \alpha < 2$)
-- $f(H', F, C)$ is a function combining diversity evenness, functional diversity, and connectivity
+- $`\sigma^2(X)`$ is the variance of key system variables
+- $`\sigma^2_0`$ is the baseline fluctuation variance
+- $`S`$ is species richness
+- $`\alpha`$ is the stability-diversity index (typically $`0.5 < \alpha < 2`$)
+- $`f(H', F, C)`$ is a function combining diversity evenness, functional diversity, and connectivity
 
 This relationship explains why high-diversity systems are generally more stable.
 
@@ -148,12 +148,12 @@ Classical biodiversity maintenance follows this dynamical equation:
 $$\frac{d\mathcal{D}_C}{dt} = \sum_{i=1}^{S} r_i N_i(1-\frac{N_i}{K_i}) - \sum_{i,j}^{S} \alpha_{ij}N_i N_j + I(t) - E(t)$$
 
 Where:
-- $\mathcal{D}_C$ is the classical diversity measure
-- $r_i$ is the intrinsic growth rate of the ith species
-- $N_i$ is the population size of the ith species
-- $K_i$ is the carrying capacity of the ith species
-- $\alpha_{ij}$ is the inter-species interaction coefficient
-- $I(t)$ and $E(t)$ are the diversity immigration and emigration functions, respectively
+- $`\mathcal{D}_C`$ is the classical diversity measure
+- $`r_i`$ is the intrinsic growth rate of the ith species
+- $`N_i`$ is the population size of the ith species
+- $`K_i`$ is the carrying capacity of the ith species
+- $`\alpha_{ij}`$ is the inter-species interaction coefficient
+- $`I(t)`$ and $`E(t)`$ are the diversity immigration and emigration functions, respectively
 
 This equation explains how classical diversity is maintained through population dynamic equilibrium.
 
@@ -164,11 +164,11 @@ There exists a non-linear relationship between biodiversity and ecosystem functi
 $$F(S) = F_{max}(1 - e^{-\theta S}) \cdot \phi(C)$$
 
 Where:
-- $F(S)$ is the ecosystem function intensity
-- $F_{max}$ is the theoretical maximum function intensity
-- $\theta$ is the function saturation rate parameter
-- $S$ is species richness
-- $\phi(C)$ is a modulation function dependent on system connectivity
+- $`F(S)`$ is the ecosystem function intensity
+- $`F_{max}`$ is the theoretical maximum function intensity
+- $`\theta`$ is the function saturation rate parameter
+- $`S`$ is species richness
+- $`\phi(C)`$ is a modulation function dependent on system connectivity
 
 This explains why ecosystem functions and biodiversity exhibit a saturation curve relationship.
 
@@ -181,12 +181,12 @@ The mapping from quantum gene space to classical phenotype space can be represen
 $$\mathcal{M}: \mathcal{G}_Q \rightarrow \mathcal{P}_C, \quad P_i = \mathcal{M}(\{G_j\}, E, \xi)$$
 
 Where:
-- $\mathcal{G}_Q$ is the quantum gene space
-- $\mathcal{P}_C$ is the classical phenotype space
-- $P_i$ is a specific phenotype
-- $\{G_j\}$ is the relevant gene set
-- $E$ is the environmental condition
-- $\xi$ is developmental noise
+- $`\mathcal{G}_Q`$ is the quantum gene space
+- $`\mathcal{P}_C`$ is the classical phenotype space
+- $`P_i`$ is a specific phenotype
+- $`\{G_j\}`$ is the relevant gene set
+- $`E`$ is the environmental condition
+- $`\xi`$ is developmental noise
 
 This mapping explains how classical phenotypes are realized from quantum possibilities.
 
@@ -197,9 +197,9 @@ Environmental selection causes diversity wavefunction collapse, transforming qua
 $$|\Psi_B\rangle \xrightarrow{\text{Environmental Selection}} |B_i\rangle \quad \text{with probability} \quad p_i = |\langle B_i|\Psi_B\rangle|^2 \cdot f(E, \mathcal{F}_i)$$
 
 Where:
-- $|B_i\rangle$ is a specific classical diversity state
-- $p_i$ is the probability of that state being selected
-- $f(E, \mathcal{F}_i)$ is a modulation function dependent on environment $E$ and fitness $\mathcal{F}_i$
+- $`|B_i\rangle`$ is a specific classical diversity state
+- $`p_i`$ is the probability of that state being selected
+- $`f(E, \mathcal{F}_i)`$ is a modulation function dependent on environment $`E`$ and fitness $`\mathcal{F}_i`$
 
 This explains how natural selection serves as a key mechanism for quantum-classical conversion.
 
@@ -210,11 +210,11 @@ The adaptive landscape changes dynamically as a quantum-classical interface:
 $$\mathcal{L}(g, t) = \mathcal{L}_0(g) + \sum_i A_i(t) \cdot \phi_i(g) + \eta(g, t)$$
 
 Where:
-- $\mathcal{L}(g, t)$ is the fitness of genotype $g$ at time $t$
-- $\mathcal{L}_0(g)$ is the baseline fitness function
-- $A_i(t)$ is the time-varying amplitude
-- $\phi_i(g)$ is the fitness eigenfunction
-- $\eta(g, t)$ is the fitness random fluctuation
+- $`\mathcal{L}(g, t)`$ is the fitness of genotype $`g`$ at time $`t`$
+- $`\mathcal{L}_0(g)`$ is the baseline fitness function
+- $`A_i(t)`$ is the time-varying amplitude
+- $`\phi_i(g)`$ is the fitness eigenfunction
+- $`\eta(g, t)`$ is the fitness random fluctuation
 
 This dynamic landscape connects quantum evolutionary possibilities with classical selective realization.
 
@@ -227,8 +227,8 @@ Quantum biodiversity can be quantified through information entropy:
 $$S_{QB} = -\text{Tr}(\rho_B \ln \rho_B) = -\sum_i \lambda_i \ln \lambda_i$$
 
 Where:
-- $\rho_B$ is the biodiversity density matrix
-- $\lambda_i$ are the eigenvalues of $\rho_B$
+- $`\rho_B`$ is the biodiversity density matrix
+- $`\lambda_i`$ are the eigenvalues of $`\rho_B`$
 
 This quantum information entropy measures the potential diversity of biological systems.
 
@@ -239,9 +239,9 @@ The information flow network formed by biodiversity can be represented as:
 $$\mathcal{N}_B = (V_B, E_B, W_B)$$
 
 Where:
-- $V_B$ is the set of nodes (species or genes)
-- $E_B$ is the set of edges (interactions)
-- $W_B$ is the set of weights (interaction strengths)
+- $`V_B`$ is the set of nodes (species or genes)
+- $`E_B`$ is the set of edges (interactions)
+- $`W_B`$ is the set of weights (interaction strengths)
 
 The information flow can be calculated as:
 
@@ -256,9 +256,9 @@ Biodiversity undergoes information phase transitions at critical points:
 $$S_{QB} \propto |T - T_c|^{-\alpha}, \quad \text{for} \quad T \approx T_c$$
 
 Where:
-- $T$ is the system control parameter (which could be temperature, resources, or disturbance intensity)
-- $T_c$ is the critical point
-- $\alpha$ is the critical exponent
+- $`T`$ is the system control parameter (which could be temperature, resources, or disturbance intensity)
+- $`T_c`$ is the critical point
+- $`\alpha`$ is the critical exponent
 
 This phase transition marks the shift of the diversity system from a quantum-dominated state to a classical-dominated state.
 
@@ -268,15 +268,15 @@ This phase transition marks the shift of the diversity system from a quantum-dom
 
 1. **Quantum Coherence Measurement**: Under environmental stress, epigenetic modifications should exhibit quantum coherence properties, predicting that expression patterns will appear with super-classical probability distributions.
 
-2. **Critical Diversity Threshold**: There exists a critical diversity threshold $S_c$, below which the system will lose its quantum properties, manifested as a sharp decrease in resilience and information processing capacity.
+2. **Critical Diversity Threshold**: There exists a critical diversity threshold $`S_c`$, below which the system will lose its quantum properties, manifested as a sharp decrease in resilience and information processing capacity.
 
 3. **Diversity Fluctuation Scaling**: Diversity fluctuations follow power-law scaling:
    $$\sigma_B \propto S^{-\gamma}$$
-   where $\gamma$ should maintain universality across different ecosystems.
+   where $`\gamma`$ should maintain universality across different ecosystems.
 
 4. **Information Transfer Acceleration**: Increasing biodiversity should accelerate system information transfer in a non-linear manner:
    $$\tau_{info} \propto S^{-\delta}$$
-   where $\tau_{info}$ is the information propagation time.
+   where $`\tau_{info}`$ is the information propagation time.
 
 ### Verification Methods
 
@@ -324,13 +324,13 @@ Subject to:
 $$C(A) \leq C_{max}$$
 
 Where:
-- $A$ is the set of conservation actions
-- $B(A)$ is the overall diversity conservation benefit
-- $B_Q(A)$ is the quantum diversity conservation benefit
-- $B_C(A)$ is the classical diversity conservation benefit
-- $\lambda$ is the quantum-classical balance parameter
-- $C(A)$ is the conservation cost
-- $C_{max}$ is the maximum available resources
+- $`A`$ is the set of conservation actions
+- $`B(A)`$ is the overall diversity conservation benefit
+- $`B_Q(A)`$ is the quantum diversity conservation benefit
+- $`B_C(A)`$ is the classical diversity conservation benefit
+- $`\lambda`$ is the quantum-classical balance parameter
+- $`C(A)`$ is the conservation cost
+- $`C_{max}`$ is the maximum available resources
 
 This framework provides a decision support system for balancing the protection of quantum potential and classical realization.
 

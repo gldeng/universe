@@ -12,15 +12,15 @@
 
 ### 学习过程的形式化定义
 
-学习过程 $\mathcal{L}$ 可形式化定义为：
+学习过程 $`\mathcal{L}`$ 可形式化定义为：
 
 $$\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{O})$$
 
 其中：
-- $\mathcal{L}_Q$ 是学习的量子域组分（创造性探索、直觉理解）
-- $\mathcal{L}_C$ 是学习的经典域组分（结构化知识、形式推理）
-- $\mathcal{I}_L$ 是学习量子-经典界面
-- $\mathcal{O}$ 是学习者状态
+- $`\mathcal{L}_Q`$ 是学习的量子域组分（创造性探索、直觉理解）
+- $`\mathcal{L}_C`$ 是学习的经典域组分（结构化知识、形式推理）
+- $`\mathcal{I}_L`$ 是学习量子-经典界面
+- $`\mathcal{O}`$ 是学习者状态
 
 ### 教育理论核心公理
 
@@ -29,28 +29,28 @@ $$\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{O})$$
 
 $$\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C$$
 
-其中 $\diamond$ 表示量子-经典学习连接运算。
+其中 $`\diamond`$ 表示量子-经典学习连接运算。
 
 **公理2: 知识状态叠加**  
 学习者的知识状态可表示为可能理解的叠加：
 
 $$|\Psi_K\rangle = \sum_i \alpha_i |k_i\rangle$$
 
-其中 $|k_i\rangle$ 是知识状态基矢，$\alpha_i$ 是复振幅。
+其中 $`|k_i\rangle`$ 是知识状态基矢，$`\alpha_i`$ 是复振幅。
 
 **公理3: 学习平衡原理**  
 最优学习发生在量子创造性和经典结构之间的动态平衡处：
 
 $$E_L(\mathcal{L}_Q, \mathcal{L}_C) = \eta_Q \cdot I_Q(\mathcal{L}) + \eta_C \cdot I_C(\mathcal{L})$$
 
-其中 $E_L$ 是学习效能，$\eta_Q$ 和 $\eta_C$ 是权重系数，$I_Q$ 和 $I_C$ 分别是量子和经典信息量度。
+其中 $`E_L`$ 是学习效能，$`\eta_Q`$ 和 $`\eta_C`$ 是权重系数，$`I_Q`$ 和 $`I_C`$ 分别是量子和经典信息量度。
 
 **公理4: 教育赋能**  
 教育的核心功能是赋予学习者在量子-经典界面处自主导航的能力：
 
 $$\mathcal{E} = \mathcal{F}(\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, \mathcal{I}_L)$$
 
-其中 $\mathcal{E}$ 是教育赋能函数，$\mathcal{C}_{\mathcal{O}}$ 和 $\mathcal{Q}_{\mathcal{O}}$ 分别是学习者的经典化和量子化算符，$\mathcal{I}_L$ 是学习界面。
+其中 $`\mathcal{E}`$ 是教育赋能函数，$`\mathcal{C}_{\mathcal{O}}`$ 和 $`\mathcal{Q}_{\mathcal{O}}`$ 分别是学习者的经典化和量子化算符，$`\mathcal{I}_L`$ 是学习界面。
 
 ## 理论核心内容
 
@@ -60,16 +60,16 @@ $$\mathcal{E} = \mathcal{F}(\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}
 
 $$\frac{d|\Psi_L(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_L(t)|\Psi_L(t)\rangle + \mathcal{D}_L(\rho_L)$$
 
-其中 $\hat{H}_L(t)$ 是学习哈密顿量，$\mathcal{D}_L(\rho_L)$ 是学习解相干项。
+其中 $`\hat{H}_L(t)`$ 是学习哈密顿量，$`\mathcal{D}_L(\rho_L)`$ 是学习解相干项。
 
 学习哈密顿量包含多个组件：
 
 $$\hat{H}_L = \hat{H}_{prior} + \hat{H}_{new} + \hat{H}_{int}$$
 
 其中：
-- $\hat{H}_{prior}$ 代表先前知识
-- $\hat{H}_{new}$ 代表新信息
-- $\hat{H}_{int}$ 代表两者的相互作用
+- $`\hat{H}_{prior}`$ 代表先前知识
+- $`\hat{H}_{new}`$ 代表新信息
+- $`\hat{H}_{int}`$ 代表两者的相互作用
 
 量子学习的特性：
 1. **概念叠加**：多种可能理解的同时存在
@@ -83,15 +83,15 @@ $$\hat{H}_L = \hat{H}_{prior} + \hat{H}_{new} + \hat{H}_{int}$$
 $$K_C = (V_K, E_K, W_K)$$
 
 其中：
-- $V_K$ 是知识节点集
-- $E_K$ 是知识关联边集
-- $W_K$ 是边权重集
+- $`V_K`$ 是知识节点集
+- $`E_K`$ 是知识关联边集
+- $`W_K`$ 是边权重集
 
 经典学习遵循确定性规则：
 
 $$K_C(t+1) = f_L(K_C(t), I(t))$$
 
-其中 $f_L$ 是学习映射函数，$I(t)$ 是输入信息。
+其中 $`f_L`$ 是学习映射函数，$`I(t)`$ 是输入信息。
 
 经典学习的主要特征：
 1. **累积性**：知识逐步积累
@@ -105,18 +105,18 @@ $$K_C(t+1) = f_L(K_C(t), I(t))$$
 $$\frac{d\mathcal{I}_L}{dt} = \alpha_L \nabla^2 \mathcal{I}_L + \beta_L(\mathcal{I}_c - \mathcal{I}_L)(\mathcal{I}_L - \mathcal{I}_0) + \gamma_L\xi_L(t) + \delta_L T(t)$$
 
 其中：
-- $\alpha_L$ 是学习界面扩散系数
-- $\beta_L$ 是界面双稳态参数
-- $\gamma_L$ 是噪声耦合强度
-- $\delta_L$ 是教学干预耦合强度
-- $\xi_L(t)$ 是学习环境噪声
-- $T(t)$ 是教学干预函数
+- $`\alpha_L`$ 是学习界面扩散系数
+- $`\beta_L`$ 是界面双稳态参数
+- $`\gamma_L`$ 是噪声耦合强度
+- $`\delta_L`$ 是教学干预耦合强度
+- $`\xi_L(t)`$ 是学习环境噪声
+- $`T(t)`$ 是教学干预函数
 
 教育界面的稳定条件：
 
 $$\nabla^2 \mathcal{I}_L = 0, \quad \nabla \mathcal{I}_L = 0, \quad \lambda_{min}(\mathcal{H}(\mathcal{I}_L)) > 0$$
 
-其中 $\mathcal{H}(\mathcal{I}_L)$ 是界面函数的海森矩阵。
+其中 $`\mathcal{H}(\mathcal{I}_L)`$ 是界面函数的海森矩阵。
 
 ### 创造性与批判性思维平衡
 
@@ -125,15 +125,15 @@ $$\nabla^2 \mathcal{I}_L = 0, \quad \nabla \mathcal{I}_L = 0, \quad \lambda_{min
 $$\frac{Q_T}{C_T} = f\left(\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}, \mathcal{D}(\mathcal{I}_L), S_L\right)$$
 
 其中：
-- $\frac{Q_T}{C_T}$ 是思维的量子-经典比率
-- $\mathcal{D}(\mathcal{I}_L)$ 是学习界面解相干度
-- $S_L$ 是学习情境
+- $`\frac{Q_T}{C_T}`$ 是思维的量子-经典比率
+- $`\mathcal{D}(\mathcal{I}_L)`$ 是学习界面解相干度
+- $`S_L`$ 是学习情境
 
 最优学习区（ZOL）定义为：
 
 $$ZOL = \{(\mathcal{L}_Q, \mathcal{L}_C) | \eta_Q \cdot I_Q(\mathcal{L}) + \eta_C \cdot I_C(\mathcal{L}) = max, \mathcal{I}_L \in \mathcal{S}_{stable}\}$$
 
-其中 $\mathcal{S}_{stable}$ 是界面稳定区域。
+其中 $`\mathcal{S}_{stable}`$ 是界面稳定区域。
 
 ### 学习的认知纠缠模型
 
@@ -141,13 +141,13 @@ $$ZOL = \{(\mathcal{L}_Q, \mathcal{L}_C) | \eta_Q \cdot I_Q(\mathcal{L}) + \eta_
 
 $$|\Psi_{learning}\rangle = \sum_{i,j} \gamma_{ij} |k_i\rangle \otimes |m_j\rangle$$
 
-其中 $|k_i\rangle$ 是知识状态基矢，$|m_j\rangle$ 是心智状态基矢。
+其中 $`|k_i\rangle`$ 是知识状态基矢，$`|m_j\rangle`$ 是心智状态基矢。
 
 学习纠缠度：
 
 $$E(|\Psi_{learning}\rangle) = S(\rho_k) = S(\rho_m)$$
 
-其中 $\rho_k = \text{Tr}_m(|\Psi_{learning}\rangle\langle\Psi_{learning}|)$，$\rho_m = \text{Tr}_k(|\Psi_{learning}\rangle\langle\Psi_{learning}|)$。
+其中 $`\rho_k = \text{Tr}_m(|\Psi_{learning}\rangle\langle\Psi_{learning}|)`$，$`\rho_m = \text{Tr}_k(|\Psi_{learning}\rangle\langle\Psi_{learning}|)`$。
 
 认知转变点可通过纠缠度突变识别：
 
@@ -161,7 +161,7 @@ $$\Delta E(|\Psi_{learning}\rangle) \gg 0 \quad \text{at} \quad t = t_{transitio
 
 $$P(\mathcal{O}) = \{(\mathcal{L}_Q^t, \mathcal{L}_C^t, \mathcal{I}_L^t) | t \in [0,T], \mathcal{E}(\mathcal{O},t) = max\}$$
 
-其中 $P(\mathcal{O})$ 是针对特定学习者 $\mathcal{O}$ 的最优路径，$\mathcal{E}(\mathcal{O},t)$ 是时间 $t$ 处的学习效能。
+其中 $`P(\mathcal{O})`$ 是针对特定学习者 $`\mathcal{O}`$ 的最优路径，$`\mathcal{E}(\mathcal{O},t)`$ 是时间 $`t`$ 处的学习效能。
 
 学习类型的量子-经典谱系：
 
@@ -198,15 +198,15 @@ $$\delta \left(\frac{Q_T}{C_T}\right) = \alpha_T \cdot \left(\frac{Q_T}{C_T}\rig
 $$A = (A_Q, A_C, \mathcal{M}_{Q\rightarrow C})$$
 
 其中：
-- $A_Q$ 是量子维度评估（创造性、直觉、潜能）
-- $A_C$ 是经典维度评估（知识结构、逻辑推理、表达精确性）
-- $\mathcal{M}_{Q\rightarrow C}$ 是量子-经典转换能力评估
+- $`A_Q`$ 是量子维度评估（创造性、直觉、潜能）
+- $`A_C`$ 是经典维度评估（知识结构、逻辑推理、表达精确性）
+- $`\mathcal{M}_{Q\rightarrow C}`$ 是量子-经典转换能力评估
 
 评估信息完整性原理：
 
 $$I(A_Q) + I(A_C) \geq I(L)$$
 
-其中 $I(L)$ 是学习过程的总信息量。
+其中 $`I(L)`$ 是学习过程的总信息量。
 
 动态评估方程：
 
@@ -224,7 +224,7 @@ $$\mathcal{L} \subset \mathcal{C}_{dynamics}$$
 
 $$\hat{H}_L = \hat{H}_{cognitive} + \hat{V}_{educational}$$
 
-其中 $\hat{V}_{educational}$ 是教育特有的相互作用项。
+其中 $`\hat{V}_{educational}`$ 是教育特有的相互作用项。
 
 ### 与量子-经典数学基础的联系
 
@@ -232,7 +232,7 @@ $$\hat{H}_L = \hat{H}_{cognitive} + \hat{V}_{educational}$$
 
 $$\mathcal{L}_{math} = \mathcal{E}_{math}(\mathcal{M}_Q, \mathcal{M}_C, \mathcal{O})$$
 
-其中 $\mathcal{E}_{math}$ 是数学教育函数，$\mathcal{M}_Q$ 和 $\mathcal{M}_C$ 分别是数学直觉和形式系统。
+其中 $`\mathcal{E}_{math}`$ 是数学教育函数，$`\mathcal{M}_Q`$ 和 $`\mathcal{M}_C`$ 分别是数学直觉和形式系统。
 
 ### 与观察者理论的联系
 
@@ -246,7 +246,7 @@ $$\mathcal{O}_{learner} = \{\mathcal{C}_{\mathcal{O}_L}, \mathcal{Q}_{\mathcal{O
 
 $$|\Psi_{T-L}\rangle = \sum_{i,j} \eta_{ij} |T_i\rangle \otimes |L_j\rangle$$
 
-其中 $|T_i\rangle$ 是教师状态基矢，$|L_j\rangle$ 是学习者状态基矢。
+其中 $`|T_i\rangle`$ 是教师状态基矢，$`|L_j\rangle`$ 是学习者状态基矢。
 
 ## 未来研究方向
 

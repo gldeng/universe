@@ -36,7 +36,7 @@ $$
 \sum_{i=1}^{n} |\psi_i\rangle_{\text{个体量子状态}} \xrightarrow{\text{集体经典化}} |\Phi\rangle_{\text{国家结构}} + S_{\text{国家经典熵}}
 $$
 
-其中$|\psi_i\rangle$代表个体观察者的量子状态，$|\Phi\rangle$代表经典化后的国家结构。
+其中$`|\psi_i\rangle`$代表个体观察者的量子状态，$`|\Phi\rangle`$代表经典化后的国家结构。
 
 ### 政治家的量子经典二元论解释
 
@@ -87,7 +87,7 @@ $$
 \hat{S}_{\text{社会主义}} |\psi\rangle = |\phi_S\rangle
 $$
 
-其中$|\psi\rangle$是社会量子状态，$|\phi_X\rangle$是通过特定意识形态经典化后的状态。
+其中$`|\psi\rangle`$是社会量子状态，$`|\phi_X\rangle`$是通过特定意识形态经典化后的状态。
 
 ### 政治权力的量子经典二元论解释
 
@@ -104,7 +104,7 @@ $$
 P(\text{观察者}) \cdot |\psi\rangle \xrightarrow{\text{经典化}} |\phi\rangle
 $$
 
-其中$P(\text{观察者})$代表观察者的权力系数，影响经典化的方向和强度。
+其中$`P(\text{观察者})`$代表观察者的权力系数，影响经典化的方向和强度。
 
 ### 法律的量子经典二元论解释
 
@@ -151,7 +151,7 @@ $$
 |\Psi_{\text{政治可能性}}\rangle \xrightarrow{\text{选举测量}} |\Phi_{\text{选举结果}}\rangle
 $$
 
-其中$|\Psi_{\text{政治可能性}}\rangle$是选举前的叠加状态，$|\Phi_{\text{选举结果}}\rangle$是经典化后的确定状态。
+其中$`|\Psi_{\text{政治可能性}}\rangle`$是选举前的叠加状态，$`|\Phi_{\text{选举结果}}\rangle`$是经典化后的确定状态。
 
 ### 政治变革的量子经典二元论解释
 
@@ -183,7 +183,7 @@ $$
 \{|\Phi_1\rangle, |\Phi_2\rangle, ..., |\Phi_n\rangle\} \xrightarrow{\text{互动}} |\Omega\rangle_{\text{国际秩序}}
 $$
 
-其中$|\Phi_i\rangle$代表第$i$个国家的经典化状态，$|\Omega\rangle$代表形成的国际秩序。
+其中$`|\Phi_i\rangle`$代表第$`i`$个国家的经典化状态，$`|\Omega\rangle`$代表形成的国际秩序。
 
 ### 政治参与的量子经典二元论解释
 
@@ -200,7 +200,7 @@ $$
 \text{经典化质量} \propto \sum_{i=1}^{n} w_i \cdot \text{参与度}_i
 $$
 
-其中$w_i$代表第$i$类观察者的权重，$\text{参与度}_i$代表其参与程度。
+其中$`w_i`$代表第$`i`$类观察者的权重，$`\text{参与度}_i`$代表其参与程度。
 
 ### 政治文化的量子经典二元论解释
 
@@ -317,7 +317,7 @@ $$
 \sum_{i=1}^{n} |\psi_i\rangle_{\text{Individual quantum states}} \xrightarrow{\text{Collective classicalization}} |\Phi\rangle_{\text{State structure}} + S_{\text{State classical entropy}}
 $$
 
-where $|\psi_i\rangle$ represents the quantum state of individual observers, and $|\Phi\rangle$ represents the classicalized state structure.
+where $`|\psi_i\rangle`$ represents the quantum state of individual observers, and $`|\Phi\rangle`$ represents the classicalized state structure.
 
 ### Quantum-Classical Dualism Explanation of Politicians
 
@@ -368,7 +368,7 @@ $$
 \hat{S}_{\text{Socialism}} |\psi\rangle = |\phi_S\rangle
 $$
 
-where $|\psi\rangle$ is the social quantum state, and $|\phi_X\rangle$ is the state after classicalization through a specific ideology.
+where $`|\psi\rangle`$ is the social quantum state, and $`|\phi_X\rangle`$ is the state after classicalization through a specific ideology.
 
 ### Quantum-Classical Dualism Explanation of Political Power
 
@@ -385,7 +385,7 @@ $$
 P(\text{Observer}) \cdot |\psi\rangle \xrightarrow{\text{Classicalization}} |\phi\rangle
 $$
 
-where $P(\text{Observer})$ represents the power coefficient of the observer, affecting the direction and intensity of classicalization.
+where $`P(\text{Observer})`$ represents the power coefficient of the observer, affecting the direction and intensity of classicalization.
 
 ### Quantum-Classical Dualism Explanation of Law
 
@@ -432,7 +432,7 @@ $$
 |\Psi_{\text{Political possibilities}}\rangle \xrightarrow{\text{Election measurement}} |\Phi_{\text{Election result}}\rangle
 $$
 
-where $|\Psi_{\text{Political possibilities}}\rangle$ is the superposition state before the election, and $|\Phi_{\text{Election result}}\rangle$ is the determined state after classicalization.
+where $`|\Psi_{\text{Political possibilities}}\rangle`$ is the superposition state before the election, and $`|\Phi_{\text{Election result}}\rangle`$ is the determined state after classicalization.
 
 ### Quantum-Classical Dualism Explanation of Political Change
 
@@ -464,7 +464,7 @@ $$
 \{|\Phi_1\rangle, |\Phi_2\rangle, ..., |\Phi_n\rangle\} \xrightarrow{\text{Interaction}} |\Omega\rangle_{\text{International order}}
 $$
 
-where $|\Phi_i\rangle$ represents the classicalization state of the $i$-th country, and $|\Omega\rangle$ represents the formed international order.
+where $`|\Phi_i\rangle`$ represents the classicalization state of the $`i`$-th country, and $`|\Omega\rangle`$ represents the formed international order.
 
 ### Quantum-Classical Dualism Explanation of Political Participation
 
@@ -481,7 +481,7 @@ $$
 \text{Classicalization quality} \propto \sum_{i=1}^{n} w_i \cdot \text{Participation level}_i
 $$
 
-where $w_i$ represents the weight of the $i$-th type of observer, and $\text{Participation level}_i$ represents their degree of participation.
+where $`w_i`$ represents the weight of the $`i`$-th type of observer, and $`\text{Participation level}_i`$ represents their degree of participation.
 
 ### Quantum-Classical Dualism Explanation of Political Culture
 

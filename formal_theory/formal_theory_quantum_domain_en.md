@@ -18,7 +18,7 @@ This document is based on [Core Theory](../core_en.md) v27.0
 
 ## Quantum Domain Basic Definition
 
-The Quantum Domain $\Omega_Q$ is defined as the part of the universe that follows quantum mechanical laws, representing the space of wave function superposition states of infinite possibilities. The Quantum Domain has the following basic characteristics:
+The Quantum Domain $`\Omega_Q`$ is defined as the part of the universe that follows quantum mechanical laws, representing the space of wave function superposition states of infinite possibilities. The Quantum Domain has the following basic characteristics:
 
 1. **Superposition**: Systems can simultaneously exist in linear combinations of multiple states
 2. **Non-locality**: Spatially separated systems can maintain instantaneous correlations
@@ -26,7 +26,7 @@ The Quantum Domain $\Omega_Q$ is defined as the part of the universe that follow
 4. **Interference**: Quantum states can interfere with each other to produce wave patterns
 5. **Entanglement**: Composite systems can form inseparable wholes
 
-Mathematically, states in the quantum domain are represented by state vectors in a Hilbert space $\mathcal{H}_{\Omega_Q}$:
+Mathematically, states in the quantum domain are represented by state vectors in a Hilbert space $`\mathcal{H}_{\Omega_Q}`$:
 
 $$|\psi\rangle \in \mathcal{H}_{\Omega_Q}, \quad \langle\psi|\psi\rangle = 1$$
 
@@ -37,19 +37,19 @@ The basic state form in the quantum domain is the wave function superposition st
 $$|\Psi_S\rangle = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
 where:
-- $|i\rangle$ is an element of the orthogonal basis set $\{|i\rangle\}$, satisfying $\langle i|j\rangle = \delta_{ij}$
-- $\alpha_i$ is a complex amplitude, with $|\alpha_i|^2$ representing the probability of measuring the corresponding basis state
-- The coefficients $\alpha_i$ themselves have no direct physical meaning, only $|\alpha_i|^2$ has observational significance
+- $`|i\rangle`$ is an element of the orthogonal basis set $`\{|i\rangle\}`$, satisfying $`\langle i|j\rangle = \delta_{ij}`$
+- $`\alpha_i`$ is a complex amplitude, with $`|\alpha_i|^2`$ representing the probability of measuring the corresponding basis state
+- The coefficients $`\alpha_i`$ themselves have no direct physical meaning, only $`|\alpha_i|^2`$ has observational significance
 
 The dynamic evolution of wave function superposition states follows quantum phase relationships:
 
 $$\alpha_i(t) = |\alpha_i|e^{i\phi_i(t)}$$
 
-where the phase evolution $\phi_i(t)$ leads to interference phenomena, the source of quantum parallelism in quantum computation.
+where the phase evolution $`\phi_i(t)`$ leads to interference phenomena, the source of quantum parallelism in quantum computation.
 
 ### Classicalization Model of Superposition States
 
-The conversion of quantum superposition states to classical states can be described by the classicalization function $\mathcal{C}$:
+The conversion of quantum superposition states to classical states can be described by the classicalization function $`\mathcal{C}`$:
 
 $$\mathcal{C}(|\Psi_S\rangle) = |j\rangle \text{ with probability } p_j = |\alpha_j|^2$$
 
@@ -57,7 +57,7 @@ Information loss during the classicalization process:
 
 $$\Delta I = S_{\text{von Neumann}}(|\Psi_S\rangle\langle\Psi_S|) = -\sum_i |\alpha_i|^2 \log |\alpha_i|^2$$
 
-This information is converted to classical entropy $S_C$, satisfying the principle of information conservation.
+This information is converted to classical entropy $`S_C`$, satisfying the principle of information conservation.
 
 ## Quantum Entangled State
 
@@ -69,7 +69,7 @@ Entangled states have the following properties:
 
 1. **Entanglement Entropy**: Measuring the degree of entanglement through the von Neumann entropy of the reduced density matrix:
    $$S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log \rho_A) = -\text{Tr}(\rho_B \log \rho_B)$$
-   where $\rho_A = \text{Tr}_B(\rho_{AB})$ is the reduced density matrix obtained through partial trace
+   where $`\rho_A = \text{Tr}_B(\rho_{AB})`$ is the reduced density matrix obtained through partial trace
 
 2. **Entangled Singlet**: The standard form of maximally entangled two-particle states:
    $$|\Phi^+\rangle = \frac{1}{\sqrt{2}}(|0\rangle_A \otimes |0\rangle_B + |1\rangle_A \otimes |1\rangle_B)$$
@@ -83,7 +83,7 @@ Entangled states are closely related to energy forms, which can be expressed as:
 
 $$E_{\text{entanglement}} = h \cdot f_{\text{entanglement}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$$
 
-where $L_P$ is the Planck length, indicating that the energy of entangled states is proportional to their entanglement entropy, providing the basis for energy conversion from quantum domain to classical domain.
+where $`L_P`$ is the Planck length, indicating that the energy of entangled states is proportional to their entanglement entropy, providing the basis for energy conversion from quantum domain to classical domain.
 
 ## Quantum Domain State Space
 
@@ -92,9 +92,9 @@ The complete state space of the quantum domain is represented by density matrice
 $$\rho_Q = \sum_i p_i |\psi_i\rangle\langle\psi_i|, \quad \text{Tr}(\rho_Q) = 1, \quad \rho_Q \geq 0, \quad \rho_Q^\dagger = \rho_Q$$
 
 where:
-- Pure states satisfy $\rho^2 = \rho$ or equivalently $\text{Tr}(\rho^2) = 1$
-- Mixed states satisfy $\text{Tr}(\rho^2) < 1$
-- The maximally mixed state is represented as $\rho_{\text{max-mixed}} = \frac{1}{d}I_d$, where $d$ is the dimension of the Hilbert space
+- Pure states satisfy $`\rho^2 = \rho`$ or equivalently $`\text{Tr}(\rho^2) = 1`$
+- Mixed states satisfy $`\text{Tr}(\rho^2) < 1`$
+- The maximally mixed state is represented as $`\rho_{\text{max-mixed}} = \frac{1}{d}I_d`$, where $`d`$ is the dimension of the Hilbert space
 
 ### Quantum Domain State Space Dimension
 
@@ -102,9 +102,9 @@ The dimension of the quantum domain state space grows exponentially:
 
 $$\dim(\mathcal{H}_{\Omega_Q}) = d_Q = \prod_{i=1}^{n} d_i$$
 
-where $d_i$ is the Hilbert space dimension of the $i$-th subsystem, and $n$ is the total number of subsystems.
+where $`d_i`$ is the Hilbert space dimension of the $`i`$-th subsystem, and $`n`$ is the total number of subsystems.
 
-For $n$ two-level systems (qubits), the dimension is $2^n$, which is the source of the exponential speedup in quantum computing.
+For $`n`$ two-level systems (qubits), the dimension is $`2^n`$, which is the source of the exponential speedup in quantum computing.
 
 ## Schrödinger Dynamics
 
@@ -126,9 +126,9 @@ An equivalent path integral formulation of Schrödinger dynamics:
 
 $$\langle x_f,t_f|x_i,t_i\rangle = \int \mathcal{D}[x(t)] e^{\frac{i}{\hbar}S[x(t)]}$$
 
-where $S[x(t)]$ is the classical action, and $\mathcal{D}[x(t)]$ is the path measure.
+where $`S[x(t)]`$ is the classical action, and $`\mathcal{D}[x(t)]`$ is the path measure.
 
-This formulation emphasizes that quantum systems explore all possible paths simultaneously, with each path contributing a phase factor $e^{\frac{i}{\hbar}S[x(t)]}$.
+This formulation emphasizes that quantum systems explore all possible paths simultaneously, with each path contributing a phase factor $`e^{\frac{i}{\hbar}S[x(t)]}`$.
 
 ## Quantum Coherence and Decoherence
 
@@ -141,10 +141,10 @@ The decoherence process describes the natural transformation of quantum states t
 $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k\left(L_k\rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\}\right)$$
 
 where:
-- $[H, \rho]$ is the commutator of the Hamiltonian and the density matrix
-- $L_k$ are Lindblad operators, describing interactions with the environment
-- $\gamma_k$ are decoherence rates, related to the strength of environmental coupling
-- $\{A, B\} = AB + BA$ is the anti-commutator
+- $`[H, \rho]`$ is the commutator of the Hamiltonian and the density matrix
+- $`L_k`$ are Lindblad operators, describing interactions with the environment
+- $`\gamma_k`$ are decoherence rates, related to the strength of environmental coupling
+- $`\{A, B\} = AB + BA`$ is the anti-commutator
 
 ### Decoherence Time Scale
 
@@ -152,9 +152,9 @@ The scaling relationship between characteristic decoherence time and system size
 
 $$\tau_D \propto \exp\left(-\frac{N}{N_c}\right)$$
 
-where $N$ is the number of system degrees of freedom, and $N_c$ is the critical number of degrees of freedom.
+where $`N`$ is the number of system degrees of freedom, and $`N_c`$ is the critical number of degrees of freedom.
 
-Decoherence times for macroscopic objects are extremely short (on the order of $10^{-20}$ seconds), while decoherence times for microscopic particles can reach milliseconds or longer.
+Decoherence times for macroscopic objects are extremely short (on the order of $`10^{-20}`$ seconds), while decoherence times for microscopic particles can reach milliseconds or longer.
 
 ## Quantum Information Entropy
 
@@ -162,7 +162,7 @@ Quantum information entropy is defined through von Neumann entropy:
 
 $$S_{\text{von Neumann}}(\rho) = -\text{Tr}(\rho\ln\rho) = -\sum_i \lambda_i \ln \lambda_i$$
 
-where $\lambda_i$ are the eigenvalues of the density matrix $\rho$.
+where $`\lambda_i`$ are the eigenvalues of the density matrix $`\rho`$.
 
 Quantum mutual information measures the total correlation between two subsystems:
 
@@ -178,7 +178,7 @@ Quantum Fisher information measures the sensitivity of a system to parameter cha
 
 $$F_Q(\rho,A) = \text{Tr}(\rho L_A^2)$$
 
-where $L_A$ is the logarithmic derivative operator corresponding to the observable $A$, satisfying:
+where $`L_A`$ is the logarithmic derivative operator corresponding to the observable $`A`$, satisfying:
 
 $$\frac{\partial \rho}{\partial\theta} = \frac{1}{2}(L_A\rho + \rho L_A)$$
 
@@ -211,13 +211,13 @@ Quantum field entanglement forms the basis of large-scale cosmic structures:
 
 $$|\Phi_{\text{field}}\rangle = \sum_{n,m} c_{nm} |n\rangle_{\phi_1} \otimes |m\rangle_{\phi_2}$$
 
-where $|n\rangle_{\phi}$ represents the particle number state of field $\phi$.
+where $`|n\rangle_{\phi}`$ represents the particle number state of field $`\phi`$.
 
 Scaling relationship between field entanglement entropy and region separation:
 
 $$S_E(A) \propto \frac{\text{Area}(\partial A)}{\epsilon^{d-2}}$$
 
-where $\partial A$ is the boundary of region $A$, $\epsilon$ is the ultraviolet cutoff, and $d$ is the spacetime dimension.
+where $`\partial A`$ is the boundary of region $`A`$, $`\epsilon`$ is the ultraviolet cutoff, and $`d`$ is the spacetime dimension.
 
 This relationship is an important clue to the holographic principle and quantum gravity.
 
@@ -228,10 +228,10 @@ The quantum-classical transition can be viewed as a critical phase transition, c
 $$\mathcal{D}(x) - \mathcal{D}_c \propto |T - T_c|^\beta$$
 
 where:
-- $\mathcal{D}(x)$ is the disentanglement measure
-- $\mathcal{D}_c$ is the critical disentanglement threshold
-- $T$ is the effective temperature, $T_c$ is the critical temperature
-- $\beta$ is the critical exponent, with a theoretical predicted value of approximately $0.35 \pm 0.03$
+- $`\mathcal{D}(x)`$ is the disentanglement measure
+- $`\mathcal{D}_c`$ is the critical disentanglement threshold
+- $`T`$ is the effective temperature, $`T_c`$ is the critical temperature
+- $`\beta`$ is the critical exponent, with a theoretical predicted value of approximately $`0.35 \pm 0.03`$
 
 Correlation length scaling law:
 $$\xi \propto |T - T_c|^{-\nu}, \quad \nu \approx 0.63$$
@@ -239,7 +239,7 @@ $$\xi \propto |T - T_c|^{-\nu}, \quad \nu \approx 0.63$$
 Order parameter correlation function:
 $$G(r) \propto r^{-(d-2+\eta)}e^{-r/\xi}$$
 
-where $d$ is the system dimension, and $\eta$ is the anomalous dimension exponent.
+where $`d`$ is the system dimension, and $`\eta`$ is the anomalous dimension exponent.
 
 ### Quantum Phase Transition Universality Class
 
@@ -247,13 +247,13 @@ The quantum-classical phase transition belongs to a specific universality class,
 
 | Exponent Name | Symbol | Theoretical Prediction | Physical Meaning |
 |---------------|--------|------------------------|------------------|
-| Order Parameter Critical Exponent | $\beta$ | $0.35 \pm 0.03$ | Disentanglement Measure Scaling |
-| Correlation Length Exponent | $\nu$ | $0.63 \pm 0.02$ | Quantum Correlation Range |
-| Specific Heat Exponent | $\alpha$ | $0.11 \pm 0.01$ | Energy Fluctuation |
-| Susceptibility Exponent | $\gamma$ | $1.2 \pm 0.1$ | Response to External Fields |
-| Critical Isotherm Exponent | $\delta$ | $4.8 \pm 0.2$ | Critical Curve Shape |
-| Dynamic Critical Exponent | $z$ | $2.0 \pm 0.1$ | Critical Slowing Down |
-| Anomalous Dimension | $\eta$ | $0.04 \pm 0.01$ | Field Renormalization |
+| Order Parameter Critical Exponent | $`\beta`$ | $`0.35 \pm 0.03`$ | Disentanglement Measure Scaling |
+| Correlation Length Exponent | $`\nu`$ | $`0.63 \pm 0.02`$ | Quantum Correlation Range |
+| Specific Heat Exponent | $`\alpha`$ | $`0.11 \pm 0.01`$ | Energy Fluctuation |
+| Susceptibility Exponent | $`\gamma`$ | $`1.2 \pm 0.1`$ | Response to External Fields |
+| Critical Isotherm Exponent | $`\delta`$ | $`4.8 \pm 0.2`$ | Critical Curve Shape |
+| Dynamic Critical Exponent | $`z`$ | $`2.0 \pm 0.1`$ | Critical Slowing Down |
+| Anomalous Dimension | $`\eta`$ | $`0.04 \pm 0.01`$ | Field Renormalization |
 
 These critical exponents follow universal scaling relations:
 $$\alpha + 2\beta + \gamma = 2, \quad \gamma = \nu(2-\eta), \quad 2-\alpha = \nu d$$

@@ -177,7 +177,7 @@ $$
 \text{"得相所相灭，无别有心体"} \Leftrightarrow \lim_{\mathcal{D}(\mathcal{O}) \to \infty} (|\psi\rangle_{\text{量子域}} \oplus I_{\text{经典域}}) \to |\psi\rangle_{\text{统一场}}
 $$
 
-其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\perp$表示独立性，$\oplus$表示二元分割
+其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\perp`$表示独立性，$`\oplus`$表示二元分割
 
 ## 结论
 ## Conclusion

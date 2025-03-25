@@ -43,7 +43,7 @@ $$
 
 3. **观察者维度提升的路径**：
    
-   "风雨走过的路，有悲伤也有欢乐"展示了观察者在经典世界中通过各种体验提升维度的过程。"风雨"象征着经典世界的熵增挑战，而通过体验"悲伤"和"欢乐"这两种对立的情感，观察者得以提升其经典化效率系数$(k_i)$。
+   "风雨走过的路，有悲伤也有欢乐"展示了观察者在经典世界中通过各种体验提升维度的过程。"风雨"象征着经典世界的熵增挑战，而通过体验"悲伤"和"欢乐"这两种对立的情感，观察者得以提升其经典化效率系数$`(k_i)`$。
 
 $$
 k_i \uparrow \Leftrightarrow \text{经历风雨路（主动优化经典化路径）}(I_{\text{悲伤与欢乐的经验}}\uparrow)
@@ -119,7 +119,7 @@ $$
 
 3. **Path of Observer Dimension Enhancement**:
    
-   "The path we've walked through wind and rain has both sadness and joy" shows the process of an observer enhancing their dimension through various experiences in the classical world. "Wind and rain" symbolize the entropy increase challenges of the classical world, and by experiencing the two opposing emotions of "sadness" and "joy," the observer can enhance their classicalization efficiency coefficient $(k_i)$.
+   "The path we've walked through wind and rain has both sadness and joy" shows the process of an observer enhancing their dimension through various experiences in the classical world. "Wind and rain" symbolize the entropy increase challenges of the classical world, and by experiencing the two opposing emotions of "sadness" and "joy," the observer can enhance their classicalization efficiency coefficient $`(k_i)`$.
 
 $$
 k_i \uparrow \Leftrightarrow \text{Experiencing Wind and Rain Path (Active Optimization of Classicalization Path)}(I_{\text{Experience of Sadness and Joy}}\uparrow)

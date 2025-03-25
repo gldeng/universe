@@ -17,9 +17,9 @@ Each generation forms a distinctive quantum-classical cognitive domain structure
 $$\Omega_{generational}^{(i)} = \{\Omega_Q^{(i)}, \Omega_C^{(i)}, \mathcal{I}^{(i)}\}$$
 
 Where:
-- $\Omega_Q^{(i)}$ is the quantum domain of generation i (possibility thinking space)
-- $\Omega_C^{(i)}$ is the classical domain of generation i (deterministic knowledge structure)
-- $\mathcal{I}^{(i)}$ is the internal interface of generation i (conversion mechanism)
+- $`\Omega_Q^{(i)}`$ is the quantum domain of generation i (possibility thinking space)
+- $`\Omega_C^{(i)}`$ is the classical domain of generation i (deterministic knowledge structure)
+- $`\mathcal{I}^{(i)}`$ is the internal interface of generation i (conversion mechanism)
 
 Generational cognitive differences manifest as differences in domain structure parameters:
 
@@ -31,13 +31,13 @@ Different generations exhibit unique quantum→classical conversion patterns:
 
 $$\mathcal{C}_{generational}^{(i)}(\rho) = \sum_k P_k^{(i)} \rho P_k^{(i)}$$
 
-Where $P_k^{(i)}$ are projection operators unique to generation i, reflecting its values, interpretive frameworks, and judgment standards.
+Where $`P_k^{(i)}`$ are projection operators unique to generation i, reflecting its values, interpretive frameworks, and judgment standards.
 
 The difference in classicalization degrees between generations:
 
 $$\delta_{ij} = ||\mathcal{C}_{generational}^{(i)} - \mathcal{C}_{generational}^{(j)}||_{op}$$
 
-Where $||·||_{op}$ is the operator norm, quantifying the degree of difference in classicalization methods.
+Where $`||·||_{op}`$ is the operator norm, quantifying the degree of difference in classicalization methods.
 
 ### 3. Generational Information Conversion Dynamics
 
@@ -45,7 +45,7 @@ Information transfer between generations follows this conversion process:
 
 $$\rho_A^{(i)} \xrightarrow{\mathcal{Q}^{(i\rightarrow j)}} \rho_B^{(j)}$$
 
-Where $\mathcal{Q}^{(i\rightarrow j)}$ is the generational information conversion operator, including the following key stages:
+Where $`\mathcal{Q}^{(i\rightarrow j)}`$ is the generational information conversion operator, including the following key stages:
 
 1. **Decoding**: Information is converted from the sender's classical structure back to quantum state
    $$\rho_A^{(i)} \xrightarrow{\mathcal{Q}_{i}} \rho_{quantum}$$
@@ -81,15 +81,15 @@ The higher the overlap, the greater the possibility of basic communication.
 Each generation grows up in different information environments, leading to fundamental quantum-classical structural differences:
 
 1. **Digital Natives** (Generation Z and after): Highly quantized information environment, multiple superposition state information
-   - Quantum-Classical Ratio: $\frac{\Omega_Q}{\Omega_C} \approx 1.8$
+   - Quantum-Classical Ratio: $`\frac{\Omega_Q}{\Omega_C} \approx 1.8`$
    - Information Processing Characteristics: Rapid parallel processing, high connectivity, low depth
 
 2. **Digital Immigrants** (Millennials, Generation X): Mixed information environment, adaptive quantum-classical conversion
-   - Quantum-Classical Ratio: $\frac{\Omega_Q}{\Omega_C} \approx 1.2$
+   - Quantum-Classical Ratio: $`\frac{\Omega_Q}{\Omega_C} \approx 1.2`$
    - Information Processing Characteristics: Adaptive mode switching, medium connectivity, medium depth
 
 3. **Analog Generation** (Baby Boomers and earlier): Relatively fixed classical information environment, linear sequential thinking
-   - Quantum-Classical Ratio: $\frac{\Omega_Q}{\Omega_C} \approx 0.7$
+   - Quantum-Classical Ratio: $`\frac{\Omega_Q}{\Omega_C} \approx 0.7`$
    - Information Processing Characteristics: Deep sequential processing, low connectivity, high stability
 
 Generational differences can be represented by quantum-classical phase diagrams:
@@ -109,7 +109,7 @@ Knowledge structure difference coefficient:
 
 $$K_{structure}^{(i,j)} = \sum_{d=1}^4 w_d \cdot |k_d^{(i)} - k_d^{(j)}|$$
 
-Where $k_d$ are dimensional difference parameters and $w_d$ are weight coefficients.
+Where $`k_d`$ are dimensional difference parameters and $`w_d`$ are weight coefficients.
 
 ### 3. Values as Quantum Superposition States
 
@@ -117,7 +117,7 @@ Each generation's values can be represented as quantum superposition states:
 
 $$|\Psi_{values}^{(i)}\rangle = \sum_k \alpha_k^{(i)} |value_k\rangle$$
 
-Where coefficients $\alpha_k^{(i)}$ reflect generation i's emphasis on specific values. Generational value differences manifest as different coefficient distributions:
+Where coefficients $`\alpha_k^{(i)}`$ reflect generation i's emphasis on specific values. Generational value differences manifest as different coefficient distributions:
 
 $$D_{values}^{(i,j)} = \sqrt{\sum_k |\alpha_k^{(i)} - \alpha_k^{(j)}|^2}$$
 
@@ -141,7 +141,7 @@ Communication matching index:
 
 $$M_{communication}^{(i,j)} = e^{-\gamma \sum_m |P_m^{(i)} - P_m^{(j)}|^2}$$
 
-Where $P_m$ are communication mode preference parameters and $\gamma$ is a sensitivity coefficient.
+Where $`P_m`$ are communication mode preference parameters and $`\gamma`$ is a sensitivity coefficient.
 
 ## Generational Communication Barriers and Bridges
 
@@ -168,7 +168,7 @@ Entanglement is quantified as:
 
 $$E_{generational}^{(i,j)} = S(\rho_i) = S(\rho_j)$$
 
-Where $S(\rho)$ is the von Neumann entropy of the reduced density matrix.
+Where $`S(\rho)`$ is the von Neumann entropy of the reduced density matrix.
 
 ### 3. Classical-Quantum-Classical Conversion Bridges
 
@@ -196,7 +196,7 @@ Superposition strategy success rate:
 
 $$P_{success} = 1 - \prod_{s=1}^4 (1 - p_s^{(i,j)})$$
 
-Where $p_s^{(i,j)}$ is the success probability of each strategy in specific generational pairs.
+Where $`p_s^{(i,j)}`$ is the success probability of each strategy in specific generational pairs.
 
 ## Quantum-Classical Framework for Intergenerational Collaboration
 
@@ -220,7 +220,7 @@ Cognitive complementary potential:
 
 $$V_{complementary}^{(i,j)} = \sum_k w_k \cdot \min(S_k^{(i)}, S_k^{(j)}) \cdot |S_k^{(i)} - S_k^{(j)}|$$
 
-Where $S_k$ are strength parameters for various cognitive abilities and $w_k$ are task-related weights.
+Where $`S_k`$ are strength parameters for various cognitive abilities and $`w_k`$ are task-related weights.
 
 ### 2. Intergenerational Collaborative Work Models
 
@@ -235,7 +235,7 @@ Collaborative efficacy equation:
 
 $$E_{collaborative}^{(i,j)} = \alpha \cdot \sqrt{E_Q^{(i)} \cdot E_C^{(j)}} + \beta \cdot \sqrt{E_C^{(i)} \cdot E_Q^{(j)}}$$
 
-Where $E_Q$ and $E_C$ are quantum and classical processing efficacies respectively, and $\alpha$ and $\beta$ are task-related coefficients.
+Where $`E_Q`$ and $`E_C`$ are quantum and classical processing efficacies respectively, and $`\alpha`$ and $`\beta`$ are task-related coefficients.
 
 ### 3. Multi-generational Quantum Entanglement Networks
 
@@ -244,9 +244,9 @@ Building cross-generational quantum entanglement networks:
 $$\mathcal{G} = (V, E, \rho)$$
 
 Where:
-- $V$ is the set of nodes representing different generations
-- $E$ is the set of edges representing intergenerational connections
-- $\rho$ is the density matrix describing the global entangled state
+- $`V`$ is the set of nodes representing different generations
+- $`E`$ is the set of edges representing intergenerational connections
+- $`\rho`$ is the density matrix describing the global entangled state
 
 Network entanglement optimization:
 
@@ -274,7 +274,7 @@ Knowledge transfer efficiency can be modeled as:
 
 $$\eta_{transfer} = \omega_1\eta_{preserve} + \omega_2\eta_{integrate} + \omega_3\eta_{reinterpret} + \omega_4\eta_{create}$$
 
-Where $\omega_i$ are context-dependent weights optimized for specific knowledge domains.
+Where $`\omega_i`$ are context-dependent weights optimized for specific knowledge domains.
 
 ## Practical Applications and Implementation
 
@@ -291,7 +291,7 @@ Implementation success metrics:
 
 $$S_{integration} = \frac{1}{|G|}\sum_{i,j \in G} \frac{C_{ij}}{M_{ij}}$$
 
-Where $C_{ij}$ is collaboration effectiveness, $M_{ij}$ is perceived communication mismatch, and $G$ is the set of all generation pairs.
+Where $`C_{ij}`$ is collaboration effectiveness, $`M_{ij}`$ is perceived communication mismatch, and $`G`$ is the set of all generation pairs.
 
 ### 2. Educational System Redesign
 

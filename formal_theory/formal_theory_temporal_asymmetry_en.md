@@ -19,15 +19,15 @@ Quantum-Classical Temporal Asymmetry Theory addresses the fundamental problem of
 
 ### Formal Definition of Temporal Asymmetry
 
-Temporal asymmetry $\mathcal{T}_{asym}$ can be formally defined as:
+Temporal asymmetry $`\mathcal{T}_{asym}`$ can be formally defined as:
 
 $$\mathcal{T}_{asym} = (\mathcal{S}, \mathcal{I}, \mathcal{O}, \mathcal{C})$$
 
 Where:
-- $\mathcal{S}$ is the entropy gradient
-- $\mathcal{I}$ is the information flow directionality
-- $\mathcal{O}$ is the observer reference frame
-- $\mathcal{C}$ is the classicalization process
+- $`\mathcal{S}`$ is the entropy gradient
+- $`\mathcal{I}`$ is the information flow directionality
+- $`\mathcal{O}`$ is the observer reference frame
+- $`\mathcal{C}`$ is the classicalization process
 
 ### Core Axioms of Temporal Asymmetry
 
@@ -36,21 +36,21 @@ Time is symmetric in the quantum domain but asymmetric in the classical domain:
 
 $$\mathcal{T}_Q(t) = \mathcal{T}_Q(-t) \quad \text{but} \quad \mathcal{T}_C(t) \neq \mathcal{T}_C(-t)$$
 
-Where $\mathcal{T}_Q$ represents time in the quantum domain and $\mathcal{T}_C$ represents time in the classical domain.
+Where $`\mathcal{T}_Q`$ represents time in the quantum domain and $`\mathcal{T}_C`$ represents time in the classical domain.
 
 **Axiom 2: Observer-Induced Temporal Asymmetry**  
 The classicalization process executed by observers introduces irreversible temporal asymmetry:
 
 $$\mathcal{C}(\psi(t)) \neq \mathcal{C}^{-1}(\mathcal{C}(\psi(t)))$$
 
-Where $\mathcal{C}$ is the classicalization operator and $\psi(t)$ is the quantum state at time $t$.
+Where $`\mathcal{C}`$ is the classicalization operator and $`\psi(t)`$ is the quantum state at time $`t`$.
 
 **Axiom 3: Entropic Basis of Temporal Direction**  
 The direction of time correlates with entropy increase in closed classical systems:
 
 $$\frac{dS}{dt} \geq 0 \iff \text{forward time direction}$$
 
-Where $S$ is the entropy of the system.
+Where $`S`$ is the entropy of the system.
 
 ## Mathematical Framework
 
@@ -61,10 +61,10 @@ The temporal classicalization function can be represented as:
 $$\mathcal{T}_C(t) = \mathcal{C}[\mathcal{T}_Q(t)] = \int_{\tau=0}^{t} O_\tau(\psi(\tau)) d\tau$$
 
 Where:
-- $\mathcal{T}_C(t)$ is the classical time experience
-- $\mathcal{T}_Q(t)$ is the quantum time substrate
-- $O_\tau$ is the observation operator at time $\tau$
-- $\psi(\tau)$ is the quantum state at time $\tau$
+- $`\mathcal{T}_C(t)`$ is the classical time experience
+- $`\mathcal{T}_Q(t)`$ is the quantum time substrate
+- $`O_\tau`$ is the observation operator at time $`\tau`$
+- $`\psi(\tau)`$ is the quantum state at time $`\tau`$
 
 ### Temporal Asymmetry Measure
 
@@ -72,7 +72,7 @@ The degree of temporal asymmetry can be quantified as:
 
 $$A(t) = D_{KL}(P(t)||P(-t))$$
 
-Where $D_{KL}$ is the Kullback-Leibler divergence between the probability distributions of processes running forward and backward in time.
+Where $`D_{KL}`$ is the Kullback-Leibler divergence between the probability distributions of processes running forward and backward in time.
 
 ## Implications and Applications
 

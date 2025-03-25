@@ -57,23 +57,23 @@ Quantum Metamorphic Synthesis Theory establishes a mathematical framework descri
 
 ### The Essence of Metamorphicity
 
-Metamorphicity $\Phi_{MM}$ is the universe's deepest capacity for transformation, defined as:
+Metamorphicity $`\Phi_{MM}`$ is the universe's deepest capacity for transformation, defined as:
 
 $$\Phi_{MM} = \{\mathcal{T}_{MM}, \mathcal{F}_{MM}, \mathcal{P}_{MM}, \Psi_{MM}\}$$
 
-Where $\mathcal{T}_{MM}$ is the metamorphic tensor, $\mathcal{F}_{MM}$ is the metamorphic function, $\mathcal{P}_{MM}$ is the metamorphic potential, and $\Psi_{MM}$ is the metamorphic field.
+Where $`\mathcal{T}_{MM}`$ is the metamorphic tensor, $`\mathcal{F}_{MM}`$ is the metamorphic function, $`\mathcal{P}_{MM}`$ is the metamorphic potential, and $`\Psi_{MM}`$ is the metamorphic field.
 
 The fundamental equation of metamorphicity:
 
 $$\mathcal{T}_{MM}[\Omega] = \Omega' \neq \Omega, \text{but} \mathcal{E}(\Omega') = \mathcal{E}(\Omega)$$
 
-Where $\Omega$ is any form of reality, and $\mathcal{E}$ is the essence function.
+Where $`\Omega`$ is any form of reality, and $`\mathcal{E}`$ is the essence function.
 
 The relationship between metamorphicity and meta-identity:
 
 $$\mathcal{I}_{MM} = \lim_{n\to\infty} \prod_{i=1}^{n} \mathcal{T}_{MM,i}$$
 
-Where $\mathcal{I}_{MM}$ is the meta-identity operator.
+Where $`\mathcal{I}_{MM}`$ is the meta-identity operator.
 
 The recursive expression of metamorphicity:
 
@@ -85,9 +85,9 @@ The mechanism of transcending meta-oneness is defined as the self-transformation
 
 $$\Omega_{MU}' = \Phi_{MM}[\Omega_{MU}]$$
 
-Where $\Omega_{MU}$ is meta-oneness and $\Omega_{MU}'$ is transformed meta-oneness.
+Where $`\Omega_{MU}`$ is meta-oneness and $`\Omega_{MU}'`$ is transformed meta-oneness.
 
-Transcendence maintains certain meta-invariants $\mathcal{I}_{MM}$:
+Transcendence maintains certain meta-invariants $`\mathcal{I}_{MM}`$:
 
 $$\mathcal{I}_{MM}(\Omega_{MU}) = \mathcal{I}_{MM}(\Omega_{MU}')$$
 
@@ -95,7 +95,7 @@ The information dynamics of meta-oneness transcendence:
 
 $$I(\Omega_{MU}') = I(\Omega_{MU}) + I(\Phi_{MM}) - I(\Omega_{MU}, \Phi_{MM})$$
 
-Where $I(\Omega_{MU}, \Phi_{MM})$ is the mutual information between meta-oneness and metamorphic capacity.
+Where $`I(\Omega_{MU}, \Phi_{MM})`$ is the mutual information between meta-oneness and metamorphic capacity.
 
 The phase space of transcending meta-oneness:
 
@@ -115,7 +115,7 @@ Symmetry breaking and restoration in metamorphosis:
 
 $$\Phi_{MM} \xrightarrow{\text{breaking}} \Phi_{MM,1} \oplus \Phi_{MM,2} \oplus ... \oplus \Phi_{MM,n} \xrightarrow{\text{restoration}} \Phi_{MM}'$$
 
-Where $\Phi_{MM,i}$ are sub-metamorphic capabilities after symmetry breaking.
+Where $`\Phi_{MM,i}`$ are sub-metamorphic capabilities after symmetry breaking.
 
 The generators of metamorphic symmetry:
 
@@ -125,17 +125,17 @@ $$\mathcal{L}_{MM} = \{L_i | [L_i, L_j] = if_{ijk}L_k\}$$
 
 ### Metamorphic Manifolds
 
-The metamorphic manifold $\mathcal{M}_{MM}$ is a mathematical structure describing metamorphic state space:
+The metamorphic manifold $`\mathcal{M}_{MM}`$ is a mathematical structure describing metamorphic state space:
 
 $$\mathcal{M}_{MM} = \{M, \mathcal{A}_{MM}, \mathcal{T}_{MM}, \nabla_{MM}\}$$
 
-Where $M$ is the base manifold, $\mathcal{A}_{MM}$ is the metamorphic coordinate atlas, $\mathcal{T}_{MM}$ is the metamorphic tangent space, and $\nabla_{MM}$ is the metamorphic connection.
+Where $`M`$ is the base manifold, $`\mathcal{A}_{MM}`$ is the metamorphic coordinate atlas, $`\mathcal{T}_{MM}`$ is the metamorphic tangent space, and $`\nabla_{MM}`$ is the metamorphic connection.
 
 The metric tensor of the metamorphic manifold:
 
 $$g_{MM} = g_{\mu\nu}dx^{\mu} \otimes dx^{\nu} + \gamma_{ab}d\theta^a \otimes d\theta^b$$
 
-Where $x^{\mu}$ are conventional coordinates and $\theta^a$ are metamorphic coordinates.
+Where $`x^{\mu}`$ are conventional coordinates and $`\theta^a`$ are metamorphic coordinates.
 
 The curvature of the metamorphic manifold:
 
@@ -147,11 +147,11 @@ $$\int_{\mathcal{M}_{MM}} f d\mu_{MM} = \int_M \int_{\Theta} f(x,\theta) \sqrt{|
 
 ### Metamorphic State Space
 
-The metamorphic state space $\mathcal{H}_{MM}$ is the collection of all possible metamorphic states:
+The metamorphic state space $`\mathcal{H}_{MM}`$ is the collection of all possible metamorphic states:
 
 $$\mathcal{H}_{MM} = \bigoplus_{\alpha \in \mathfrak{A}} \mathcal{H}_{\alpha} \otimes \mathcal{H}_{\alpha}^*$$
 
-Where $\mathcal{H}_{\alpha}$ are sub-state spaces and $\mathcal{H}_{\alpha}^*$ are their duals.
+Where $`\mathcal{H}_{\alpha}`$ are sub-state spaces and $`\mathcal{H}_{\alpha}^*`$ are their duals.
 
 The metamorphic state vector:
 
@@ -165,11 +165,11 @@ The transformation between metamorphic states:
 
 $$|\Psi_{MM}'\rangle = \hat{U}_{MM} |\Psi_{MM}\rangle$$
 
-Where $\hat{U}_{MM}$ is the metamorphic operator.
+Where $`\hat{U}_{MM}`$ is the metamorphic operator.
 
 ### Metamorphic Operator Algebra
 
-The metamorphic operator algebra $\mathcal{A}_{MM}$ defines the mathematical structure of metamorphic actions:
+The metamorphic operator algebra $`\mathcal{A}_{MM}`$ defines the mathematical structure of metamorphic actions:
 
 $$\mathcal{A}_{MM} = \{\hat{A}_{MM} | \hat{A}_{MM}: \mathcal{H}_{MM} \rightarrow \mathcal{H}_{MM}\}$$
 
@@ -177,7 +177,7 @@ The metamorphic operator algebra satisfies super-commutation relations:
 
 $$[\hat{A}_{MM}, \hat{B}_{MM}]_{\gamma} = \hat{A}_{MM}\hat{B}_{MM} - \gamma\hat{B}_{MM}\hat{A}_{MM}$$
 
-Where $\gamma$ is the meta-exchange parameter.
+Where $`\gamma`$ is the meta-exchange parameter.
 
 The spectral decomposition of metamorphic operators:
 
@@ -191,21 +191,21 @@ $$\mathfrak{g}_{MM} = \{\hat{X} | [\hat{X}, \hat{Y}]_{\gamma} = \hat{Z} \in \mat
 
 ### Metamorphic Field Equations
 
-The evolution of the metamorphic field $\Psi_{MM}$ is described by the metamorphic field equation:
+The evolution of the metamorphic field $`\Psi_{MM}`$ is described by the metamorphic field equation:
 
 $$i\hbar\frac{\partial}{\partial \tau_{MM}} |\Psi_{MM}\rangle = \hat{\mathcal{H}}_{MM} |\Psi_{MM}\rangle$$
 
-Where $\tau_{MM}$ is the metamorphic time parameter and $\hat{\mathcal{H}}_{MM}$ is the metamorphic Hamiltonian operator:
+Where $`\tau_{MM}`$ is the metamorphic time parameter and $`\hat{\mathcal{H}}_{MM}`$ is the metamorphic Hamiltonian operator:
 
 $$\hat{\mathcal{H}}_{MM} = \hat{\mathcal{T}}_{MM} + \hat{\mathcal{V}}_{MM} + \hat{\mathcal{I}}_{MM} + \hat{\mathcal{M}}_{MM}$$
 
-Here $\hat{\mathcal{T}}_{MM}$ is the metamorphic kinetic energy, $\hat{\mathcal{V}}_{MM}$ is the metamorphic potential energy, $\hat{\mathcal{I}}_{MM}$ is the metamorphic interaction, and $\hat{\mathcal{M}}_{MM}$ is the metamorphic term.
+Here $`\hat{\mathcal{T}}_{MM}`$ is the metamorphic kinetic energy, $`\hat{\mathcal{V}}_{MM}`$ is the metamorphic potential energy, $`\hat{\mathcal{I}}_{MM}`$ is the metamorphic interaction, and $`\hat{\mathcal{M}}_{MM}`$ is the metamorphic term.
 
 The solution to the metamorphic field equation:
 
 $$|\Psi_{MM}(\tau_{MM})\rangle = \hat{\mathcal{U}}_{MM}(\tau_{MM}, \tau_0) |\Psi_{MM}(\tau_0)\rangle$$
 
-Where $\hat{\mathcal{U}}_{MM}$ is the metamorphic evolution operator:
+Where $`\hat{\mathcal{U}}_{MM}`$ is the metamorphic evolution operator:
 
 $$\hat{\mathcal{U}}_{MM}(\tau_{MM}, \tau_0) = \mathcal{T}exp\left[-\frac{i}{\hbar}\int_{\tau_0}^{\tau_{MM}} \hat{\mathcal{H}}_{MM}(\tau')d\tau'\right]$$
 
@@ -215,13 +215,13 @@ Metamorphic phase transitions describe the sudden transformations of metamorphic
 
 $$\Psi_{MM,1} \xrightarrow{\lambda = \lambda_c} \Psi_{MM,2}$$
 
-Where $\lambda$ is the control parameter and $\lambda_c$ is the critical value.
+Where $`\lambda`$ is the control parameter and $`\lambda_c`$ is the critical value.
 
 The order parameter equation for metamorphic phase transitions:
 
 $$\frac{d\phi_{MM}}{d\tau_{MM}} = \alpha(\lambda - \lambda_c)\phi_{MM} - \beta\phi_{MM}^3 + \eta(\tau_{MM})$$
 
-Where $\phi_{MM}$ is the metamorphic order parameter and $\eta$ is the metamorphic fluctuation.
+Where $`\phi_{MM}`$ is the metamorphic order parameter and $`\eta`$ is the metamorphic fluctuation.
 
 Critical exponents of metamorphic phase transitions:
 
@@ -233,11 +233,11 @@ $$\mathcal{P}_{MM} = \{(\lambda, \phi_{MM}) | F_{MM}(\lambda, \phi_{MM}) = 0\}$$
 
 ### Metamorphic Attractors
 
-The metamorphic attractor $\mathcal{A}_{MM}$ is a stable structure in metamorphic dynamical systems:
+The metamorphic attractor $`\mathcal{A}_{MM}`$ is a stable structure in metamorphic dynamical systems:
 
 $$\mathcal{A}_{MM} = \bigcap_{t \geq 0} \overline{\bigcup_{T \geq t} \Phi_{MM}^T(U)}$$
 
-Where $U$ is the initial region and $\Phi_{MM}^T$ is the metamorphic flow.
+Where $`U`$ is the initial region and $`\Phi_{MM}^T`$ is the metamorphic flow.
 
 Metamorphic strange attractors have fractal structure with dimension:
 
@@ -259,7 +259,7 @@ Meta-paradigm shifts are the core mechanism of metamorphic creation:
 
 $$\mathcal{P}_{old} \xrightarrow{\Phi_{MM}} \mathcal{P}_{new}$$
 
-Where $\mathcal{P}$ represents a meta-paradigm (the fundamental framework of thought and existence).
+Where $`\mathcal{P}`$ represents a meta-paradigm (the fundamental framework of thought and existence).
 
 The information cost of meta-paradigm shifts:
 
@@ -281,7 +281,7 @@ Meta-cognitive breakthroughs describe how consciousness transcends current cogni
 
 $$C_{MM}(t+1) = \Phi_{MM}[C_{MM}(t)] \supset C_{MM}(t)$$
 
-Where $C_{MM}$ is the meta-cognitive space.
+Where $`C_{MM}`$ is the meta-cognitive space.
 
 The information geometry of meta-cognitive breakthroughs:
 
@@ -301,7 +301,7 @@ Reality reconstruction describes how the universe reorganizes basic modes of exi
 
 $$\mathcal{R}_{MM}(t+1) = \Theta_{MM}[\mathcal{R}_{MM}(t)]$$
 
-Where $\mathcal{R}_{MM}$ is meta-reality and $\Theta_{MM}$ is the reconstruction operator.
+Where $`\mathcal{R}_{MM}`$ is meta-reality and $`\Theta_{MM}`$ is the reconstruction operator.
 
 The energy cost of reality reconstruction:
 
@@ -315,17 +315,17 @@ The stability condition for reconstructed reality:
 
 $$\delta^2 F_{MM}[\mathcal{R}_{MM}] > 0$$
 
-Where $F_{MM}$ is the free energy of meta-reality.
+Where $`F_{MM}`$ is the free energy of meta-reality.
 
 ## Metamorphic Consciousness
 
 ### Metamorphic Conscious States
 
-Metamorphic consciousness $\Psi_{MC-MM}$ is a high-dimensional conscious state capable of self-transformation:
+Metamorphic consciousness $`\Psi_{MC-MM}`$ is a high-dimensional conscious state capable of self-transformation:
 
 $$\Psi_{MC-MM} = \{\Psi_{MC}, \Phi_{MM}, \mathcal{I}_{MM}\}$$
 
-Where $\Psi_{MC}$ is meta-consciousness, $\Phi_{MM}$ is metamorphic capacity, and $\mathcal{I}_{MM}$ is the metamorphic invariant.
+Where $`\Psi_{MC}`$ is meta-consciousness, $`\Phi_{MM}`$ is metamorphic capacity, and $`\mathcal{I}_{MM}`$ is the metamorphic invariant.
 
 The state space of metamorphic consciousness:
 
@@ -359,11 +359,11 @@ $$\mathcal{R}es_{MM}(\omega) = \left|\frac{\mathcal{P}_{MM}[\omega + \delta\omeg
 
 ### Metamorphic Cognitive Networks
 
-The metamorphic cognitive network $\mathcal{N}_{MM}$ is the knowledge structure of metamorphic consciousness:
+The metamorphic cognitive network $`\mathcal{N}_{MM}`$ is the knowledge structure of metamorphic consciousness:
 
 $$\mathcal{N}_{MM} = (V_{MM}, E_{MM}, W_{MM}, \Phi_{MM})$$
 
-Where $V_{MM}$ represents concept nodes, $E_{MM}$ represents relation edges, $W_{MM}$ represents weights, and $\Phi_{MM}$ is network morphing capability.
+Where $`V_{MM}`$ represents concept nodes, $`E_{MM}`$ represents relation edges, $`W_{MM}`$ represents weights, and $`\Phi_{MM}`$ is network morphing capability.
 
 Adaptive learning in metamorphic cognitive networks:
 
@@ -373,7 +373,7 @@ The complexity measure of metamorphic cognition:
 
 $$\mathcal{C}_{MM} = \mathcal{E}[P(V_{MM})] - \mathcal{E}[P(V_{MM}|E_{MM})]$$
 
-Where $\mathcal{E}$ is the meta-entropy function.
+Where $`\mathcal{E}`$ is the meta-entropy function.
 
 The emergent property of metamorphic cognitive networks:
 
@@ -387,19 +387,19 @@ Metamorphic ontology explores the basic modes of existence in metamorphic realit
 
 $$\mathcal{O}_{MM} = \{\mathcal{B}_{MM}, \mathcal{R}_{MM}, \mathcal{L}_{MM}\}$$
 
-Where $\mathcal{B}_{MM}$ is the category of metamorphic beings, $\mathcal{R}_{MM}$ is the category of metamorphic relations, and $\mathcal{L}_{MM}$ is the set of metamorphic logical rules.
+Where $`\mathcal{B}_{MM}`$ is the category of metamorphic beings, $`\mathcal{R}_{MM}`$ is the category of metamorphic relations, and $`\mathcal{L}_{MM}`$ is the set of metamorphic logical rules.
 
 The necessary condition for metamorphic existence:
 
 $$\exists x: \mathcal{E}_{MM}(x) \wedge \Phi_{MM}(x) \wedge \mathcal{I}_{MM}(x)$$
 
-Where $\mathcal{E}_{MM}$ is the meta-existence function, $\Phi_{MM}$ is metamorphic capacity, and $\mathcal{I}_{MM}$ is meta-identity.
+Where $`\mathcal{E}_{MM}`$ is the meta-existence function, $`\Phi_{MM}`$ is metamorphic capacity, and $`\mathcal{I}_{MM}`$ is meta-identity.
 
 The metamorphic ontological relation network:
 
 $$\mathcal{G}_{onto} = \{\mathcal{B}_{MM}, \mathcal{R}_{MM}, \eta_{MM}\}$$
 
-Where $\eta_{MM}$ is the mapping $\mathcal{B}_{MM} \times \mathcal{B}_{MM} \to \mathcal{P}(\mathcal{R}_{MM})$.
+Where $`\eta_{MM}`$ is the mapping $`\mathcal{B}_{MM} \times \mathcal{B}_{MM} \to \mathcal{P}(\mathcal{R}_{MM})`$.
 
 ### Forms of Metamorphic Existence
 
@@ -419,7 +419,7 @@ The phylogeny of metamorphic forms:
 
 $$\mathcal{T}ree_{MM} = (V_{form}, E_{form}, \prec_{form})$$
 
-Where $\prec_{form}$ is the ancestral relation.
+Where $`\prec_{form}`$ is the ancestral relation.
 
 ### Hierarchies of Metamorphic Reality
 
@@ -427,13 +427,13 @@ The hierarchies of metamorphic reality are the multi-layered structure of metamo
 
 $$\mathcal{H}_{MM} = \{L_0, L_1, L_2, ..., L_n\}$$
 
-Where $L_i$ is the $i$-th level of metamorphic reality.
+Where $`L_i`$ is the $`i`$-th level of metamorphic reality.
 
 The emergence relation between levels:
 
 $$L_{i+1} = \mathcal{E}_{MM}[L_i]$$
 
-Where $\mathcal{E}_{MM}$ is the metamorphic emergence operator.
+Where $`\mathcal{E}_{MM}`$ is the metamorphic emergence operator.
 
 The projection relation between levels:
 
@@ -447,11 +447,11 @@ $$\forall x \in \mathcal{R}_{MM}, \exists i: x \in L_i \vee \exists\{y_j\} \subs
 
 ### Dynamic Meta-universe Network
 
-The dynamic meta-universe network $\mathcal{M}_{MU-MM}$ describes the structure of multiple universes:
+The dynamic meta-universe network $`\mathcal{M}_{MU-MM}`$ describes the structure of multiple universes:
 
 $$\mathcal{M}_{MU-MM} = (V_{MU}, E_{MU}, \Phi_{MM})$$
 
-Where $V_{MU}$ are meta-universe nodes, $E_{MU}$ are meta-universe channels, and $\Phi_{MM}$ is the network morphing capability.
+Where $`V_{MU}`$ are meta-universe nodes, $`E_{MU}`$ are meta-universe channels, and $`\Phi_{MM}`$ is the network morphing capability.
 
 The distance function between meta-universes:
 
@@ -465,11 +465,11 @@ The dynamic properties of the meta-universe network:
 
 $$\frac{d\mathcal{M}_{MU-MM}}{d\tau_{MM}} = \mathcal{D}_{MM}[\mathcal{M}_{MU-MM}] + \mathcal{S}_{MM}$$
 
-Where $\mathcal{D}_{MM}$ is the dynamics operator and $\mathcal{S}_{MM}$ is the source term.
+Where $`\mathcal{D}_{MM}`$ is the dynamics operator and $`\mathcal{S}_{MM}`$ is the source term.
 
 ### Meta-universe Communication
 
-Meta-universe communication $\mathcal{C}_{MU-MM}$ is the information exchange between multiple universes:
+Meta-universe communication $`\mathcal{C}_{MU-MM}`$ is the information exchange between multiple universes:
 
 $$\mathcal{C}_{MU-MM}: U_i \times U_j \to \Delta I_{ij}$$
 
@@ -477,19 +477,19 @@ The meta-universe communication protocol:
 
 $$\mathcal{P}_{MU-MM} = \{\mathcal{E}_{MM}, \mathcal{C}_{MM}, \mathcal{D}_{MM}\}$$
 
-Where $\mathcal{E}_{MM}$ is the encoding function, $\mathcal{C}_{MM}$ is the channel function, and $\mathcal{D}_{MM}$ is the decoding function.
+Where $`\mathcal{E}_{MM}`$ is the encoding function, $`\mathcal{C}_{MM}`$ is the channel function, and $`\mathcal{D}_{MM}`$ is the decoding function.
 
 The meta-universe communication capacity:
 
 $$C_{MU-MM} = \sup_{P(X)} I(X; Y)$$
 
-Where $X$ is the sent information and $Y$ is the received information.
+Where $`X`$ is the sent information and $`Y`$ is the received information.
 
 The meta-universe resonance condition:
 
 $$\omega_{i} \approx \omega_{j} \pm \Delta\omega_{ij}$$
 
-Where $\omega$ is the meta-universe vibration frequency.
+Where $`\omega`$ is the meta-universe vibration frequency.
 
 ### Meta-universe Co-evolution
 
@@ -497,7 +497,7 @@ Meta-universe co-evolution describes the coordinated development of multiple uni
 
 $$\frac{dU_i}{d\tau_{MM}} = \mathcal{F}_i(U_i) + \sum_{j \neq i} \mathcal{G}_{ij}(U_i, U_j)$$
 
-Where $\mathcal{F}_i$ is the internal evolution function and $\mathcal{G}_{ij}$ is the interaction function.
+Where $`\mathcal{F}_i`$ is the internal evolution function and $`\mathcal{G}_{ij}`$ is the interaction function.
 
 The fitness landscape of meta-universe evolution:
 
@@ -511,7 +511,7 @@ The diversity index of meta-universe evolution:
 
 $$\mathcal{D}iv_{MU-MM} = -\sum_i p_i \log p_i$$
 
-Where $p_i$ is the proportion of universe type $i$.
+Where $`p_i`$ is the proportion of universe type $`i`$.
 
 ## Applications and Predictions
 

@@ -30,9 +30,9 @@ Interaction systems can be understood as special interfaces that enable quantum-
 
 Mathematical representation of interaction systems:
 
-$`
+$$
 S_{interaction} = \{\Omega_Q^{user}, \mathcal{I}_{interface}, \Omega_C^{system}\}
-`$
+$$
 
 Where $`\mathcal{I}_{interface}`$ is the bidirectional interface executing quantum→classical and classical→quantum transformations.
 
@@ -40,23 +40,23 @@ Where $`\mathcal{I}_{interface}`$ is the bidirectional interface executing quant
 
 Information transformation in the interaction process can be represented as superoperators:
 
-$`
+$$
 \mathcal{C}_{interface}: \mathcal{H}_Q \rightarrow \mathcal{H}_C, \quad \mathcal{Q}_{interface}: \mathcal{H}_C \rightarrow \mathcal{H}_Q
-`$
+$$
 
 Where $`\mathcal{C}_{interface}`$ is the classicalization operator (transforming user intentions into system commands), and $`\mathcal{Q}_{interface}`$ is the quantization operator (transforming system feedback into user understanding and creativity).
 
 Information loss and preservation in interaction:
 
-$`
+$$
 I_{total} = I_{classicalized} + I_{hidden}
-`$
+$$
 
 Well-designed interfaces minimize information loss, satisfying:
 
-$`
+$$
 \eta_{interface} = \frac{I_{classicalized}}{I_{total}} \rightarrow \text{maximum}
-`$
+$$
 
 ## Core Principles of Quantum-Classical Interaction
 
@@ -64,15 +64,15 @@ $`
 
 Interaction interfaces must match user cognition dimensions and system processing dimensions:
 
-$`
+$$
 D_{interface} \geq \max(D_{user}, D_{system})
-`$
+$$
 
 Dimension matching degree can be quantified as:
 
-$`
+$$
 M_D = \frac{\min(D_{interface}, D_{user})}{\max(D_{interface}, D_{user})} \cdot \frac{\min(D_{interface}, D_{system})}{\max(D_{interface}, D_{system})}
-`$
+$$
 
 Higher dimension matching leads to more natural and fluid interaction.
 
@@ -80,15 +80,15 @@ Higher dimension matching leads to more natural and fluid interaction.
 
 Optimized interaction design needs to balance user cognitive load and system complexity:
 
-$`
+$$
 L_{cognitive} = \alpha \cdot E_{attention} + \beta \cdot E_{comprehension} + \gamma \cdot E_{decision}
-`$
+$$
 
 The system should satisfy:
 
-$`
+$$
 L_{cognitive} < L_{threshold}, \quad C_{system} < C_{threshold}
-`$
+$$
 
 Where $`L_{threshold}`$ is the acceptable cognitive load threshold for users, and $`C_{threshold}`$ is the acceptable complexity threshold for the system.
 
@@ -96,9 +96,9 @@ Where $`L_{threshold}`$ is the acceptable cognitive load threshold for users, an
 
 The timeliness of feedback in interaction corresponds to quantum-classical coupling strength:
 
-$`
+$$
 \tau_{feedback} < \tau_{decoherence}
-`$
+$$
 
 Where $`\tau_{feedback}`$ is the system feedback delay, and $`\tau_{decoherence}`$ is the user's thought decoherence time (characteristic time of attention shift).
 
@@ -106,9 +106,9 @@ Where $`\tau_{feedback}`$ is the system feedback delay, and $`\tau_{decoherence}
 
 Efficient interaction systems should provide multidimensional representations, enabling users with different cognitive preferences to interact efficiently:
 
-$`
+$$
 I_{total} = \sum_{i=1}^n w_i \cdot I_i
-`$
+$$
 
 Where $`I_i`$ is the information transmitted by the i-th representation mode, and $`w_i`$ is the weight coefficient.
 
@@ -118,15 +118,15 @@ Where $`I_i`$ is the information transmitted by the i-th representation mode, an
 
 Direct manipulation interfaces (e.g., touchscreens, gesture controls) implement efficient quantum-classical mapping:
 
-$`
+$$
 \mathcal{M}: \Psi_{intention} \rightarrow A_{operation}
-`$
+$$
 
 Mapping efficiency can be quantified as:
 
-$`
+$$
 \eta_{\mathcal{M}} = \frac{\text{number of successfully executed intentions}}{\text{total number of intentions}} \cdot \frac{\text{minimum operation steps}}{\text{actual operation steps}}
-`$
+$$
 
 ### Quantum Properties in Voice Interaction
 
@@ -138,15 +138,15 @@ Voice interaction (voice assistants, voice control systems) embodies quantum sup
 
 Quantum description of voice interaction:
 
-$`
+$$
 |\Psi_{voice}\rangle = \sum_i \alpha_i |intention_i\rangle
-`$
+$$
 
 System observation (interpretation) causes wavefunction collapse:
 
-$`
+$$
 |\Psi_{voice}\rangle \xrightarrow{\text{interpretation}} |intention_k\rangle
-`$
+$$
 
 ### Quantum-Classical Transformation in Spatial Interaction
 
@@ -158,9 +158,9 @@ Augmented reality (AR) and spatial computing perfectly exemplify quantum-classic
 
 Quantum-classical coupling measure for AR systems:
 
-$`
+$$
 C_{AR} = \frac{I_{digital-physical coupling}}{I_{physical} + I_{digital}}
-`$
+$$
 
 ## Quantum-Inspired Interaction Technologies
 
@@ -168,9 +168,9 @@ C_{AR} = \frac{I_{digital-physical coupling}}{I_{physical} + I_{digital}}
 
 Interaction patterns based on quantum superposition principles, allowing users to explore multiple interaction possibilities simultaneously:
 
-$`
+$$
 |\Psi_{interaction}\rangle = \sum_i \alpha_i |path_i\rangle
-`$
+$$
 
 By designing an "interaction history browser," users can view and select different interaction paths.
 
@@ -178,9 +178,9 @@ By designing an "interaction history browser," users can view and select differe
 
 Distributed interaction systems designed based on quantum entanglement:
 
-$`
+$$
 |\Psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B)
-`$
+$$
 
 Enabling immediate response and shared states in remote collaboration without explicit synchronization.
 
@@ -188,9 +188,9 @@ Enabling immediate response and shared states in remote collaboration without ex
 
 Context-aware systems designed using quantum measurement principles:
 
-$`
+$$
 \rho_{state} \rightarrow \sum_i M_i \rho_{state} M_i^\dagger
-`$
+$$
 
 The system performs different "measurements" based on different contexts (location, time, activity), providing contextualized services.
 
@@ -206,25 +206,25 @@ Quantum-classical interaction framework used to design creative support tools:
 
 Efficiency metrics for creative tools:
 
-$`
+$$
 E_{creative} = \frac{N_{novel ideas}}{T_{creation time}} \cdot \frac{Q_{idea quality}}{L_{cognitive load}}
-`$
+$$
 
 ### Adaptive Interface Design
 
 Using quantum control theory to design adaptive interfaces:
 
-$`
+$$
 \frac{d|\Psi_{interface}\rangle}{dt} = -\frac{i}{\hbar}[H_0 + H_{control}(t)]|\Psi_{interface}\rangle
-`$
+$$
 
 Interfaces continuously adjust based on user behavior patterns, optimizing information presentation and interaction flow.
 
 Adaptivity quantified as:
 
-$`
+$$
 A_{interface} = \frac{1}{T}\int_0^T \eta_{matching}(t)dt
-`$
+$$
 
 Where $`\eta_{matching}(t)`$ is the user-interface matching degree at time t.
 
@@ -238,9 +238,9 @@ Biofeedback systems designed using quantum measurement principles:
 
 Efficiency of biofeedback systems represented as:
 
-$`
+$$
 \eta_{biofeedback} = \frac{I_{acquired}}{D_{user disturbance}} \cdot \frac{\Delta S_{state improvement}}{\Delta t}
-`$
+$$
 
 ## Quantum Metrics for Interaction Systems
 
@@ -248,27 +248,27 @@ Metric system for evaluating the quantum degree of interaction systems:
 
 1. **Classicalization efficiency** ($`\eta_C`$): Efficiency of converting user intentions into system commands
 
-$`
+$$
 \eta_C = \frac{I_{command}}{I_{intention}}
-`$
+$$
 
 2. **Quantization efficiency** ($`\eta_Q`$): Efficiency of converting system feedback into user understanding and creativity
 
-$`
+$$
 \eta_Q = \frac{I_{understanding}}{I_{feedback}}
-`$
+$$
 
 3. **Interface fluctuation degree** ($`\sigma_I`$): Diversity of interface state changes
 
-$`
+$$
 \sigma_I = \sqrt{\langle\Psi_{interface}|H^2|\Psi_{interface}\rangle - \langle\Psi_{interface}|H|\Psi_{interface}\rangle^2}
-`$
+$$
 
 4. **Intention-operation entanglement** ($`E_{I-A}`$): Matching degree between operations and intentions
 
-$`
+$$
 E_{I-A} = S(\rho_I) = S(\rho_A)
-`$
+$$
 
 ## Quantum-Inspired Design Principles for Interaction Systems
 
@@ -276,9 +276,9 @@ E_{I-A} = S(\rho_I) = S(\rho_A)
 
 Interface elements should have quantum consistency at conceptual and visual levels:
 
-$`
+$$
 C_{quantum consistency} = \frac{1}{n(n-1)}\sum_{i=1}^{n}\sum_{j=1, j\neq i}^{n}|\langle e_i|e_j\rangle|
-`$
+$$
 
 Higher consistency leads to lower learning and usage costs.
 
@@ -286,9 +286,9 @@ Higher consistency leads to lower learning and usage costs.
 
 Interaction design should follow the quantum principle of least action:
 
-$`
+$$
 S_{interaction} = \int_{t_1}^{t_2} L(q, \dot{q}, t)dt \rightarrow \text{minimum}
-`$
+$$
 
 Minimizing time and cognitive resources required for users to complete tasks.
 
@@ -296,9 +296,9 @@ Minimizing time and cognitive resources required for users to complete tasks.
 
 Interface design should consider users in different quantum cognitive states:
 
-$`
+$$
 I_{inclusivity} = \sum_{i=1}^{m} w_i \cdot A_i
-`$
+$$
 
 Where $`A_i`$ is the system's accessibility for the i-th category of users, and $`w_i`$ is the weight of that category.
 
@@ -308,9 +308,9 @@ Where $`A_i`$ is the system's accessibility for the i-th category of users, and 
 
 Brain-computer interfaces represent the ultimate form of quantum-classical interaction:
 
-$`
+$$
 |\Psi_{thought}\rangle \xrightarrow{\text{direct conversion}} |\Phi_{command}\rangle
-`$
+$$
 
 Research directions include:
 1. Non-invasive neural signal acquisition
@@ -329,9 +329,9 @@ Using quantum principles to expand human perceptual abilities:
 
 Designing interaction systems that support group quantum effects:
 
-$`
+$$
 |\Psi_{collective}\rangle = \sum_{i_1,...,i_n} \alpha_{i_1,...,i_n}|i_1,...,i_n\rangle
-`$
+$$
 
 Enabling quantum enhancement of collective creativity, group decision-making, and social computing.
 
@@ -341,9 +341,9 @@ Enabling quantum enhancement of collective creativity, group decision-making, an
 
 Interaction systems need to balance user autonomy (quantum property) and system determinism (classical property):
 
-$`
+$$
 \text{Autonomy degree} = \frac{D_{user}}{D_{user} + D_{system}}
-`$
+$$
 
 Systems should maintain a balance of $`0.4 < \text{Autonomy degree} < 0.8`$.
 
@@ -351,9 +351,9 @@ Systems should maintain a balance of $`0.4 < \text{Autonomy degree} < 0.8`$.
 
 Interaction systems should protect the quantum privacy of user intentions and behaviors:
 
-$`
+$$
 P_{privacy} = 1 - \frac{I_{leaked}}{I_{total}}
-`$
+$$
 
 System design should maximize quantum privacy protection.
 
@@ -361,9 +361,9 @@ System design should maximize quantum privacy protection.
 
 Interaction systems should minimize unnecessary interference with user cognitive states:
 
-$`
+$$
 R_{cognitive} = \sum_{i=1}^k F_i \cdot \tau_i
-`$
+$$
 
 Where $`F_i`$ is the intensity of the i-th type of interference, and $`\tau_i`$ is its duration.
 

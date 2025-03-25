@@ -52,9 +52,9 @@ Mencius is one of the "Four Books" of Confucian classics, recording the dialogue
 
 ### 性善论的量子初态方程
 
-$`
+$$
 |\psi_{\text{人性}}\rangle = \alpha_0|\psi_{\text{善}}\rangle + \sum_{i=1}^{n} \alpha_i|\psi_{\text{不善}_i}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{人性}}\rangle`$ 表示人性的量子态
@@ -64,9 +64,9 @@ $`
 
 ### 四端发展的经典化效率方程
 
-$`
+$$
 k_{\text{经典化}} = k_0\prod_{i=1}^{4}(1 + \beta_i \cdot E_i)
-`$
+$$
 
 其中：
 - $`k_{\text{经典化}}`$ 是观察者的经典化效率系数

@@ -52,9 +52,9 @@ The Taiping Jing (Scripture of Great Peace) is one of the earliest important cla
 
 ### 三才相通的量子纠缠方程
 
-$`
+$$
 |\psi_{\text{三才}}\rangle = \frac{1}{\sqrt{3}}(|\text{天}\rangle|\text{地}\rangle|\text{人}\rangle + |\text{人}\rangle|\text{天}\rangle|\text{地}\rangle + |\text{地}\rangle|\text{人}\rangle|\text{天}\rangle)
-`$
+$$
 
 其中：
 - $`|\psi_{\text{三才}}\rangle`$ 表示天地人的量子纠缠态
@@ -62,9 +62,9 @@ $`
 
 ### 太平状态的熵减方程
 
-$`
+$$
 S_{\text{社会}}(t) = S_{\text{初始}} - \int_{0}^{t} k_{\text{修行}}(t')\cdot f(\text{三才调和})(t') dt'
-`$
+$$
 
 其中：
 - $`S_{\text{社会}}(t)`$ 表示t时刻的社会熵值

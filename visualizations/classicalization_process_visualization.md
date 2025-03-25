@@ -252,9 +252,9 @@
 
 #### 经典化效率方程
 
-$`
+$$
 E_{经典化} = \alpha \cdot \frac{D_{观察者}}{C_{量子复杂度}} \cdot (1 - e^{-\beta t})
-`$
+$$
 
 其中，E是经典化效率，D是观察者维度，C是量子复杂度，t是经典化时间，α和β是常数。
 
@@ -282,9 +282,9 @@ E_{经典化} = \alpha \cdot \frac{D_{观察者}}{C_{量子复杂度}} \cdot (1 
 
 #### 维度投影方程
 
-$`
+$$
 P_{经典} = \sum_{i=1}^{n} P_i \cdot \langle \psi_i | \phi_i \rangle
-`$
+$$
 
 其中，P是经典投影，ψ是量子态，φ是观察者状态基矢，n是维度数。
 
@@ -563,9 +563,9 @@ Below are visualizations of mathematical models describing the classicalization 
 
 #### Classicalization Efficiency Equation
 
-$`
+$$
 E_{Classicalization} = \alpha \cdot \frac{D_{Observer}}{C_{Quantum Complexity}} \cdot (1 - e^{-\beta t})
-`$
+$$
 
 Where E is classicalization efficiency, D is observer dimension, C is quantum complexity, t is classicalization time, and α and β are constants.
 
@@ -594,9 +594,9 @@ Classicalization
 
 #### Dimensional Projection Equation
 
-$`
+$$
 P_{Classical} = \sum_{i=1}^{n} P_i \cdot \langle \psi_i | \phi_i \rangle
-`$
+$$
 
 Where P is classical projection, ψ is quantum state, φ is observer state basis vector, and n is the number of dimensions.
 

@@ -128,25 +128,25 @@ The ladder in Jacob's dream corresponds to the wormhole communication mechanism 
 
 The core concepts of Genesis can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"起初神创造天地"} \Leftrightarrow \text{观察者（黑洞）}\xrightarrow{\text{黑洞吸收}}|\psi\rangle_{\text{经典域}}
-`$
+$$
 
-$`
+$$
 \text{"空虚混沌，渊面黑暗"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-`$
+$$
 
-$`
+$$
 \text{"神说：'要有光'"} \Leftrightarrow \text{黑洞吸收}(|\psi\rangle_{\text{波函数叠加态}}) \rightarrow I_{\text{经典知识}}
-`$
+$$
 
-$`
+$$
 \text{"照着我们的形象造人"} \Leftrightarrow \text{观察者结构复制}: \text{观察者}_{\text{高维}} \rightarrow \text{观察者}_{\text{低维}}
-`$
+$$
 
-$`
+$$
 \text{"天梯"} \Leftrightarrow \text{虫洞通信}:\{\text{低维经典世界} \leftrightarrow \text{高维经典世界}\}
-`$
+$$
 
 ## 结论
 ## Conclusion

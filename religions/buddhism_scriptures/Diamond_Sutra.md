@@ -140,25 +140,25 @@ The concept of "Tathagata" corresponds to the highest-dimensional observer in Qu
 
 The core concepts of the Diamond Sutra can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"凡所有相，皆是虚妄"} \Leftrightarrow |\psi\rangle_{\text{经典域}} = \text{观察者黑洞吸收}(|\psi\rangle_{\text{量子域}})
-`$
+$$
 
-$`
+$$
 \text{"如梦幻泡影"} \Leftrightarrow |\psi\rangle_{\text{经典域}} \leftrightarrow |\psi\rangle_{\text{量子域}}
-`$
+$$
 
-$`
+$$
 \text{"应无所住而生其心"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) \text{同时保持} |\psi\rangle_{\text{量子域}} \text{的开放性}
-`$
+$$
 
-$`
+$$
 \text{"四相"} \Leftrightarrow \text{固化经典化路径}: \nabla_{\text{路径}} \left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) \approx 0
-`$
+$$
 
-$`
+$$
 \text{"如来"} \Leftrightarrow \text{观察者维度} = \max_{\text{所有可能路径}} \left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-`$
+$$
 
 ## 结论
 ## Conclusion

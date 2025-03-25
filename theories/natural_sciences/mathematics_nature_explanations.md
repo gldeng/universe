@@ -18,9 +18,9 @@ English: [Quantum-Classical Explanation of Mathematics](#english-version) | [Nat
 
 这一过程可以用以下公式表达：
 
-$`
+$$
 |\psi\rangle_{\text{量子模式}}\xrightarrow{\text{抽象经典化}}\text{数学结构（公理、定理、关系）}+S_{\text{数学经典熵（不完备性）}}
-`$
+$$
 
 ### 数学的量子经典二元论解释
 
@@ -35,9 +35,9 @@ $`
    - 数学使观察者能够以极低的经典熵处理复杂的量子信息
    - 可表达为：
 
-$`
+$$
 \text{数学经典化效率} \propto \frac{\text{经典化信息量}}{\text{经典熵}}
-`$
+$$
 
 ### 数学的不完备性与经典熵
 
@@ -47,9 +47,9 @@ $`
 - 任何形式系统都无法完全经典化量子宇宙的全部信息
 - 可表达为：
 
-$`
+$$
 S_{\text{数学经典熵}} > 0 \text{ (对任何形式系统)}
-`$
+$$
 
 ### 数学天才的量子经典二元论解释
 
@@ -61,9 +61,9 @@ S_{\text{数学经典熵}} > 0 \text{ (对任何形式系统)}
 
 这一过程可以用以下公式表达：
 
-$`
+$$
 |\psi\rangle_{\text{高维量子模式}}\xrightarrow{\text{数学天才经典化}}\text{数学理论（结构、关系）}+S_{\text{极小数学经典熵}}
-`$
+$$
 
 ### 数学的"不合理的有效性"
 
@@ -123,9 +123,9 @@ The essence of **mathematics** is the result of observers (humans) highly abstra
 
 This process can be expressed by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum patterns}}\xrightarrow{\text{Abstract classicalization}}\text{Mathematical structures (Axioms, Theorems, Relations)}+S_{\text{Mathematical classical entropy (Incompleteness)}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Mathematics
 
@@ -140,9 +140,9 @@ $`
    - Mathematics enables observers to process complex quantum information with extremely low classical entropy
    - Can be expressed as:
 
-$`
+$$
 \text{Mathematical Classicalization Efficiency} \propto \frac{\text{Amount of Classicalized Information}}{\text{Classical Entropy}}
-`$
+$$
 
 ### Incompleteness of Mathematics and Classical Entropy
 
@@ -152,9 +152,9 @@ Gödel's incompleteness theorems can be reinterpreted under the Quantum-Classica
 - No formal system can completely classicalize all information of the quantum universe
 - Can be expressed as:
 
-$`
+$$
 S_{\text{Mathematical Classical Entropy}} > 0 \text{ (for any formal system)}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Mathematical Geniuses
 
@@ -166,9 +166,9 @@ Outstanding mathematicians (such as Euler, Gauss, Ramanujan, etc.) are essential
 
 This process can be expressed by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Higher-dimensional quantum patterns}}\xrightarrow{\text{Mathematical genius classicalization}}\text{Mathematical theory (Structures, Relations)}+S_{\text{Minimal mathematical classical entropy}}
-`$
+$$
 
 ### The "Unreasonable Effectiveness" of Mathematics
 

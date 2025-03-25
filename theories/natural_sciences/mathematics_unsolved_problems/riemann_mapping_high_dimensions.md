@@ -39,9 +39,9 @@
 
 **定义3**：双全纯映射（或全纯双射）是具有全纯逆映射的全纯映射。
 
-$`
+$$
 \forall f: X \to Y, \exists g: Y \to X, \text{使得} \ g \circ f = id_X \ \text{且} \ f \circ g = id_Y
-`$
+$$
 
 **定义4**：单位球 $`\mathbb{B}^n = \{z \in \mathbb{C}^n : |z|^2 = \sum_{i=1}^n |z_i|^2 < 1\}`$。
 
@@ -53,15 +53,15 @@ $`
 
 **公理Q1**：量子信息结构 $`\mathcal{Q}`$ 与经典信息结构 $`\mathcal{C}`$ 通过映射 $`\mathcal{M}: \mathcal{Q} \to \mathcal{C}`$ 相连，满足信息守恒：
 
-$`
+$$
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi)
-`$
+$$
 
 **定义6**：维度敏感信息映射 $`\Phi_n: \mathcal{Q}_n \to \mathcal{C}_n`$ 在维度 $`n`$ 时的信息保持率：
 
-$`
+$$
 \eta(\Phi_n) = \frac{I(\mathcal{C}_n)}{I(\mathcal{Q}_n)}
-`$
+$$
 
 **定理1**：对于 $`n=1`$，映射 $`\Phi_1`$ 的信息保持率 $`\eta(\Phi_1) = 1`$，而对于 $`n > 1`$，$`\eta(\Phi_n) < 1`$。
 
@@ -72,9 +72,9 @@ $`
 **证明**：
 设 $`K_{\Omega}`$ 和 $`K_{D}`$ 分别为 $`\Omega`$ 和 $`D`$ 的Kobayashi度量。根据Kobayashi度量的不变性：
 
-$`
+$$
 K_{\Omega}(p, v) = K_{D}(f(p), df_p(v))
-`$
+$$
 
 其中 $`df_p`$ 是 $`f`$ 在点 $`p`$ 处的雅可比矩阵。因此，若 $`f`$ 是双全纯映射，则 $`K_{\Omega}`$ 和 $`K_{D}`$ 是等价的。◻
 
@@ -87,23 +87,23 @@ K_{\Omega}(p, v) = K_{D}(f(p), df_p(v))
 
 2. 已知 $`\text{Aut}(\mathbb{B}^n)`$ 在 $`\mathbb{B}^n`$ 上作用是传递的，即
 
-$`
+$$
 \forall p, q \in \mathbb{B}^n, \exists \varphi \in \text{Aut}(\mathbb{B}^n), \varphi(p) = q
-`$
+$$
 
 3. 而 $`\text{Aut}(\mathbb{D}^n)`$ 的作用不是传递的，因为
 
-$`
+$$
 \text{Aut}(\mathbb{D}^n) = \text{Aut}(\mathbb{D}) \times \text{Aut}(\mathbb{D}) \times \cdots \times \text{Aut}(\mathbb{D})
-`$
+$$
 
    仅能单独作用于每个坐标分量。
 
 4. 双全纯映射 $`f`$ 将诱导群同构 $`f_*: \text{Aut}(\mathbb{B}^n) \to \text{Aut}(\mathbb{D}^n)`$，其中
 
-$`
+$$
 f_*(\varphi) = f \circ \varphi \circ f^{-1}
-`$
+$$
 
 5. 这产生矛盾，因为传递作用不能通过同构映射为非传递作用。
 
@@ -116,72 +116,72 @@ f_*(\varphi) = f \circ \varphi \circ f^{-1}
 
 2. 引入维度相关的量子纠缠度量 $`E_n`$：
 
-$`
+$$
 E_n(\psi) = 1 - \prod_{i=1}^n (1 - E(\psi_i))
-`$
+$$
 
    其中 $`E(\psi_i)`$ 是第 $`i`$ 个子系统的纠缠度。
 
 3. 设 $`\sigma_n`$ 表示经典化过程中信息损失率：
 
-$`
+$$
 \sigma_n = \frac{I_{\text{隐藏}}(\psi)}{I(\psi)} = 1 - \frac{I(\mathcal{C}(\psi))}{I(\psi)}
-`$
+$$
 
 4. 证明 $`\sigma_n`$ 与 $`E_n`$ 成正比：
 
-$`
+$$
 \sigma_n \geq \alpha \cdot E_n(\psi)
-`$
+$$
 
    其中 $`\alpha`$ 是正比例常数。
 
 5. 对于 $`n > 1`$ 的量子系统，$`E_n > 0`$ 且随 $`n`$ 增大而增大：
 
-$`
+$$
 \frac{dE_n}{dn} > 0
-`$
+$$
 
 6. 因此，根据引理1，当 $`n > 1`$ 时，由于 $`\sigma_n > 0`$，存在不可避免的信息损失，这使得双全纯映射不可能在通用情况下存在。◻
 
 **定理4**（从量子纠缠复杂度到全纯不变量）：对于 $`n > 1`$，区域 $`\Omega \subset \mathbb{C}^n`$ 的量子纠缠复杂度 $`\mathcal{C}_{\text{纠缠}}(\Omega)`$ 与其Kobayashi双曲度有直接关系：
 
-$`
+$$
 \mathcal{C}_{\text{纠缠}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}
-`$
+$$
 
 **证明**：
 1. Kobayashi双曲度 $`K_{\Omega}`$ 在复区域 $`\Omega`$ 上定义为：
 
-$`
+$$
 K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}
-`$
+$$
 
 2. 量子纠缠复杂度满足：
 
-$`
+$$
 \mathcal{C}_{\text{纠缠}}(\mathbb{C}^n) \propto e^n
-`$
+$$
 
 3. 区域 $`\Omega`$ 的量子纠缠复杂度可以通过积分形式表示：
 
-$`
+$$
 \mathcal{C}_{\text{纠缠}}(\Omega) = \int_{\Omega} \rho_{\text{纠缠}}(z) dV_{\Omega}(z)
-`$
+$$
 
    其中 $`\rho_{\text{纠缠}}`$ 是纠缠密度函数，$`dV_{\Omega}`$ 是体积元素。
 
 4. 根据量子-经典二元论信息相变理论，纠缠密度与局部曲率相关：
 
-$`
+$$
 \rho_{\text{纠缠}}(z) \propto |K_{\Omega}(z, dz)|^2
-`$
+$$
 
 5. 因此，量子纠缠复杂度可以通过Kobayashi度量积分表示：
 
-$`
+$$
 \mathcal{C}_{\text{纠缠}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}
-`$
+$$
 
 6. 这表明，全纯不变量（如Kobayashi度量）可以被解释为量子信息在经典化过程中的"压缩率"的度量。◻
 
@@ -193,9 +193,9 @@ $`
 
 定义量子-经典保角映射函数 $`\Phi`$，它将量子信息结构映射到经典域，同时保持相位关系：
 
-$`
+$$
 \Phi: \mathcal{Q}_{\text{量子结构}} \to \mathcal{C}_{\text{经典表达}}
-`$
+$$
 
 在复分析语境中，这对应于全纯映射，其保持局部角度（相位信息）。
 
@@ -203,9 +203,9 @@ $`
 
 在一维复变量情况下，量子信息结构相对简单，可以通过保角映射完全保持其本质特性。这反映为：
 
-$`
+$$
 \mathcal{I}_{\text{复结构}}(\Omega) \cong \mathcal{I}_{\text{复结构}}(\mathbb{D})
-`$
+$$
 
 其中 $`\mathcal{I}_{\text{复结构}}`$ 表示复结构信息，它在一维情况下仅依赖于拓扑性质（单连通性）。
 
@@ -213,9 +213,9 @@ $`
 
 在高维情况下，量子纠缠结构的复杂度呈指数增长：
 
-$`
+$$
 \mathcal{C}_{\text{纠缠复杂度}}(\mathbb{C}^n) \propto e^n
-`$
+$$
 
 这导致完全不同的现象。一个区域 $`\Omega \subset \mathbb{C}^n`$ 的复结构信息不仅依赖于拓扑性质，还依赖于其几何特性。
 
@@ -223,9 +223,9 @@ $`
 
 引入"全纯不变量"概念，如Kobayashi双曲度 $`K_{\Omega}`$，它测量区域的复几何特性：
 
-$`
+$$
 K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}
-`$
+$$
 
 从量子经典视角，$`K_{\Omega}`$ 可解释为量子信息在经典化过程中的"压缩率"，这在高维情况下成为不变量，阻碍了任意单连通区域之间的全纯等价性。
 
@@ -233,12 +233,12 @@ K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0
 
 分析经典反例：单位球 $`B^n`$ 与多圆盘 $`\mathbb{D}^n`$ 的区别。尽管它们都是单连通的，但它们的边界在 $`n > 1`$ 时有本质不同的量子纠缠结构：
 
-$`
+$$
 \begin{align}
 \partial B^n &: \text{强纠缠边界（球面）} \\
 \partial \mathbb{D}^n &: \text{弱纠缠边界（环面）}
 \end{align}
-`$
+$$
 
 从量子经典视角，这反映了不同类型量子纠缠信息在经典化后的不可互换性。
 
@@ -246,9 +246,9 @@ $`
 
 高维复分析中的Hartogs现象（函数在"洞"的边界延拓到整个"洞"）从量子经典角度可理解为：
 
-$`
+$$
 \text{量子信息的非局域性} \Rightarrow \text{高维全纯函数的延拓性}
-`$
+$$
 
 这一现象反映了高维量子信息的非局域特性，进一步支持了高维映射定理失效的解释。
 

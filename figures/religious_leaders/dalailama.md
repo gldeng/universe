@@ -29,9 +29,11 @@
 
 达赖喇嘛的思想体系在量子-经典二元论框架下体现了东方智慧与现代科学的独特融合。他将古老藏传佛教中的量子意识观与经典伦理实践相结合，创造了一种跨越传统与现代的整合性世界观。
 
-$`
+$$
+
 |\psi\rangle_{\text{佛教智慧（量子域）}} \longleftrightarrow I_{\text{现代实践（经典域）}} = \text{达赖喇嘛思想}
-`$
+
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +42,6 @@ $`
    中道哲学反映了量子叠加状态在认知领域的应用：
 
    $$
-
    
    |\psi\rangle_{\text{中道}} = \frac{1}{\sqrt{2}}(|\psi\rangle_{\text{存在}} + |\psi\rangle_{\text{非存在}}) \neq |\psi\rangle_{\text{极端1}} \text{ 或 } |\psi\rangle_{\text{极端2}}
    
@@ -53,7 +54,6 @@ $`
    慈悲心在达赖喇嘛思想中体现了量子纠缠的情感维度：
 
    $$
-
    
    E(\text{慈悲}) = \sum_{i,j \in \text{众生}} |\langle \psi_i|\psi_j \rangle|^2 \approx 1
    
@@ -66,7 +66,6 @@ $`
    非暴力原则体现了维持量子和平状态的经典策略：
 
    $$
-
    
    |\psi\rangle_{\text{和平稳态}} \xrightarrow{\text{非暴力方法}} P(|\psi\rangle \rightarrow |\text{冲突}\rangle) \approx 0
    
@@ -79,7 +78,6 @@ $`
    达赖喇嘛的心物互动观与量子力学中的观察者效应相呼应：
 
    $$
-
    
    |\psi\rangle_{\text{物质现实}} \xrightarrow{\text{观察者意识}} I_{\text{经典现实}} \text{, 其中意识状态影响观测结果}
    
@@ -92,7 +90,6 @@ $`
    跨宗教对话反映了量子多元可能性的和谐共存：
 
    $$
-
    
    |\psi\rangle_{\text{宗教整体}} = \sum_i c_i|\psi_i\rangle_{\text{不同宗教传统}} \text{, 所有} c_i > 0
    

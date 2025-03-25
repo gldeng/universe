@@ -230,9 +230,9 @@ I_{\text{基础医学（经典世界A）}} + I_{\text{临床医学（经典世�
 
 人体的量子信息场结构：
 
-$`
+$$
 \Phi_{\text{人体}}=\sum_{i,j} |\psi_{\text{器官}_i}\rangle \otimes |\psi_{\text{系统}_j}\rangle
-`$
+$$
 
 场的主要特性：
 1. **整体性**：全身系统的量子信息关联
@@ -243,9 +243,9 @@ $`
 
 诊断信息的量子场表达：
 
-$`
+$$
 I_{\text{诊断}}=\int_{\Omega} \Phi_{\text{人体}}(x,t)\cdot\Phi_{\text{检测}}^*(x,t)dx
-`$
+$$
 
 其中：
 - $`\Omega`$ 是检测区域
@@ -257,9 +257,9 @@ I_{\text{诊断}}=\int_{\Omega} \Phi_{\text{人体}}(x,t)\cdot\Phi_{\text{检测
 
 治疗效果与维度共振的关系：
 
-$`
+$$
 \eta_{\text{治疗}}=k\cdot\frac{D_{\text{治疗}}}{D_{\text{病症}}}\cdot\exp(-\frac{\Delta E}{k_BT})
-`$
+$$
 
 其中：
 - $`\eta_{\text{治疗}}`$ 是治疗效率
@@ -271,9 +271,9 @@ $`
 
 康复过程的维度动力学：
 
-$`
+$$
 \frac{dD_{\text{健康}}}{dt}=\alpha D_{\text{治疗}}-\beta D_{\text{病症}}+\gamma f_{\text{共振}}(t)
-`$
+$$
 
 其中：
 - $`\alpha,\beta`$ 是调节系数
@@ -284,9 +284,9 @@ $`
 
 预防医学的维度策略：
 
-$`
+$$
 D_{\text{预防}}=\max\{D_{\text{基础}}\cdot(1+\sum_{i=1}^n w_i\cdot f_i),\quad D_{\text{临界}}\}
-`$
+$$
 
 其中：
 - $`w_i`$ 是各预防措施的权重

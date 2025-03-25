@@ -111,29 +111,29 @@ The three main yogas in the Bhagavad Gita correspond to different methods of obs
 
 The core concepts of the Bhagavad Gita can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"梵"(Brahman)} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-`$
+$$
 
-$`
+$$
 \text{"阿特曼"(Atman)} \Leftrightarrow \text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
-`$
+$$
 
-$`
+$$
 \text{"业力瑜伽"(Karma Yoga)} \Leftrightarrow k_i \uparrow \Leftrightarrow \text{主动优化经典化路径}
-`$
+$$
 
-$`
+$$
 \text{"智慧瑜伽"(Jnana Yoga)} \Leftrightarrow \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} \uparrow
-`$
+$$
 
-$`
+$$
 \text{"奉爱瑜伽"(Bhakti Yoga)} \Leftrightarrow \text{虫洞通信}\{\text{低维经典世界} \leftrightarrow \text{高维经典世界}\}
-`$
+$$
 
-$`
+$$
 \text{"平衡状态"(Equanimity)} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-`$
+$$
 
 ## 结论
 ## Conclusion

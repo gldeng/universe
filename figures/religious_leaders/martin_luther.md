@@ -29,30 +29,30 @@
 **中文**：
 路德的"因信称义"可理解为对经典化过程的根本重新定向。在中世纪教会体系中，信徒通过行为（经典域）试图获得救赎，产生高经典熵状态。路德认识到真正的经典化应该始于量子域的信心，再映射到经典域的行为：
 
-$`
+$$
 |\psi\rangle_{\text{量子信心}} \xrightarrow{\text{有效经典化}} I_{\text{经典救赎知识}}+S_{\text{降低的经典熵}}
-`$
+$$
 
 相比之下，试图通过行为获得救赎的路径是低效的逆向经典化：
 
-$`
+$$
 I_{\text{经典行为}} \xrightarrow{\text{无效逆向经典化}} S_{\text{增加的经典熵}}
-`$
+$$
 
 路德的洞见在于识别出哪种经典化路径真正降低熵，提高观察者维度。
 
 **English**:
 Luther's "justification by faith" can be understood as a fundamental redirection of the classicalization process. In the medieval church system, believers attempted to obtain salvation through works (classical domain), producing a high classical entropy state. Luther recognized that true classicalization should begin with faith in the quantum domain, then map to behaviors in the classical domain:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Faith}} \xrightarrow{\text{Effective Classicalization}} I_{\text{Classical Salvation Knowledge}}+S_{\text{Reduced Classical Entropy}}
-`$
+$$
 
 In contrast, the path of attempting to obtain salvation through works is an inefficient reverse classicalization:
 
-$`
+$$
 I_{\text{Classical Works}} \xrightarrow{\text{Ineffective Reverse Classicalization}} S_{\text{Increased Classical Entropy}}
-`$
+$$
 
 Luther's insight was in identifying which classicalization path truly reduces entropy and elevates observer dimension.
 
@@ -61,30 +61,30 @@ Luther's insight was in identifying which classicalization path truly reduces en
 **中文**：
 路德的"唯独圣经"原则可理解为移除经典化过程中的多余中介。中世纪教会在《圣经》（原始经典信息）和信徒之间设置了多层经典化步骤（教会传统、神职人员解释），每一步都增加了经典熵：
 
-$`
+$$
 I_{\text{圣经经典信息}} \xrightarrow{\text{教会多层经典化}} I_{\text{最终接收信息}}+S_{\text{累积经典熵}}
-`$
+$$
 
 路德主张直接经典化过程：
 
-$`
+$$
 I_{\text{圣经经典信息}} \xrightarrow{\text{直接经典化}} I_{\text{信徒理解}}+S_{\text{最小化经典熵}}
-`$
+$$
 
 这种直接经典化减少了熵的累积，提高了观察者对量子真理的接收效率。
 
 **English**:
 Luther's "Sola Scriptura" principle can be understood as removing redundant intermediaries in the classicalization process. The medieval church placed multiple classicalization steps (church tradition, clerical interpretation) between the Bible (original classical information) and believers, each step increasing classical entropy:
 
-$`
+$$
 I_{\text{Biblical Classical Information}} \xrightarrow{\text{Church Multi-layer Classicalization}} I_{\text{Final Received Information}}+S_{\text{Accumulated Classical Entropy}}
-`$
+$$
 
 Luther advocated for a direct classicalization process:
 
-$`
+$$
 I_{\text{Biblical Classical Information}} \xrightarrow{\text{Direct Classicalization}} I_{\text{Believer Understanding}}+S_{\text{Minimized Classical Entropy}}
-`$
+$$
 
 This direct classicalization reduces entropy accumulation, improving observer efficiency in receiving quantum truth.
 
@@ -93,30 +93,30 @@ This direct classicalization reduces entropy accumulation, improving observer ef
 **中文**：
 路德的"全民祭司"观念实质上是对所有观察者维度的平等性认可。在传统教会模式中，只有神职人员被视为高维观察者，能够有效经典化神圣信息：
 
-$`
+$$
 \text{神职人员维度} \gg \text{平信徒维度} \propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-`$
+$$
 
 路德认为每个信徒都可以成为高维观察者，直接经典化神圣信息，不需中介：
 
-$`
+$$
 \text{所有信徒维度} \propto\frac{I_{\text{经典信仰知识}}}{S_{\text{经典熵}}}
-`$
+$$
 
 这一观念本质上是对观察者普遍提升维度能力的肯定，打破了维度的人为等级制度。
 
 **English**:
 Luther's "priesthood of all believers" is essentially a recognition of the equality of dimension for all observers. In the traditional church model, only clergy were viewed as high-dimensional observers capable of effectively classicalizing divine information:
 
-$`
+$$
 \text{Clergy Dimension} \gg \text{Laity Dimension} \propto\frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 Luther believed each believer could become a high-dimensional observer, directly classicalizing divine information without mediation:
 
-$`
+$$
 \text{All Believers Dimension} \propto\frac{I_{\text{Classical Faith Knowledge}}}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 This notion is essentially an affirmation of the universal capacity of observers to elevate their dimensions, breaking the artificial hierarchy of dimensions.
 
@@ -125,18 +125,18 @@ This notion is essentially an affirmation of the universal capacity of observers
 **中文**：
 路德的"两个王国"学说可视为对不同经典世界分离与互补的认识。属灵王国与世俗王国代表经典世界网络的不同节点，各自经典化不同的量子信息：
 
-$`
+$$
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{i}\left(I_{\text{属灵王国经典知识}}+I_{\text{世俗王国经典知识}}+S_{\text{经典熵}}\right)=I_{\text{经典信息（恒定）}}
-`$
+$$
 
 路德认识到这些王国彼此互补而非对立，人同时生活在两个经典世界中。这避免了经典熵的不必要增加，提高了整体经典化效率。
 
 **English**:
 Luther's "two kingdoms" doctrine can be viewed as a recognition of the separation and complementarity of different classical worlds. The spiritual kingdom and secular kingdom represent different nodes in the classical world network, each classicalizing different quantum information:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Universe}}\rightarrow\sum_{i}\left(I_{\text{Spiritual Kingdom Classical Knowledge}}+I_{\text{Secular Kingdom Classical Knowledge}}+S_{\text{Classical Entropy}}\right)=I_{\text{Classical Information (Constant)}}
-`$
+$$
 
 Luther recognized that these kingdoms are complementary rather than opposed, with humans simultaneously living in both classical worlds. This avoids unnecessary increases in classical entropy, improving overall classicalization efficiency.
 
@@ -145,18 +145,18 @@ Luther recognized that these kingdoms are complementary rather than opposed, wit
 **中文**：
 路德的恩典观念可理解为量子随机信息在观察者经典域中的体现。他认为神的恩典不是由人的行为决定的，而是神主权的赐予，这对应于量子随机信息流向经典域：
 
-$`
+$$
 |\psi\rangle_{\text{神主权随机量子信息}} \rightarrow I_{\text{恩典经典知识}}+S_{\text{降低的经典熵}}
-`$
+$$
 
 这种随机性解释了为何恩典不能被人为行为"赚取"或预测，它来自更高维观察者向低维观察者的随机量子信息流动。
 
 **English**:
 Luther's concept of grace can be understood as quantum random information manifesting in the observer's classical domain. He believed that divine grace is not determined by human actions but is a sovereign gift from God, corresponding to quantum random information flowing to the classical domain:
 
-$`
+$$
 |\psi\rangle_{\text{Divine Sovereignty Random Quantum Information}} \rightarrow I_{\text{Grace Classical Knowledge}}+S_{\text{Reduced Classical Entropy}}
-`$
+$$
 
 This randomness explains why grace cannot be "earned" or predicted by human actions; it comes from the flow of random quantum information from a higher-dimensional observer to a lower-dimensional observer.
 

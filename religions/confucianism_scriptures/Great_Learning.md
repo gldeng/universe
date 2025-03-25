@@ -24,9 +24,9 @@
 
 这一系列递进关系可对应观察者维度提升的数学模型：
 
-$`
+$$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-`$
+$$
 
 其中，"格物致知"对应增加 $`I_{经典知识}`$，"诚意正心"对应减少 $`S_{经典熵}`$，而"修身齐家治国平天下"则是观察者维度 $`D_{\mathcal{O}}`$ 由低到高的提升过程。
 
@@ -38,9 +38,9 @@ D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}
 
 从量子经典二元论看，这可理解为：通过系统性观察（格物）使量子域信息高效经典化（致知），减少经典熵的产生（意诚心正），从而提高观察者维度（身修家齐国治天下平）。这一过程可用以下公式表示：
 
-$`
+$$
 \text{经典化效率} = \frac{\Delta I_{经典知识}}{\Delta S_{经典熵}} \approx \frac{\text{格物深度}}{\text{意识混沌度}}
-`$
+$$
 
 #### 3. "三纲八目"与维度层次
 
@@ -55,9 +55,9 @@ $`
 
 《大学》强调"止于至善"，即达到最佳状态。从量子经典二元论视角，这相当于观察者达到理论上可能的最优经典化状态：
 
-$`
+$$
 \lim_{t \to \infty} \frac{I_{经典知识}(t)}{S_{经典熵}(t)} \to \text{最大值}
-`$
+$$
 
 这种状态下，观察者的维度接近理论上限，经典化效率达到最优。
 
@@ -88,9 +88,9 @@ From the perspective of Quantum-Classical Dualism, the concept of self-cultivati
 
 This progressive relationship corresponds to the mathematical model of observer dimension elevation:
 
-$`
+$$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
-`$
+$$
 
 Where "investigating things to extend knowledge" corresponds to increasing $`I_{\text{classical knowledge}}`$, "making intentions sincere and rectifying the mind" corresponds to reducing $`S_{\text{classical entropy}}`$, and "cultivating oneself, bringing order to the family, governing the state, and bringing peace to the world" represents the progressive elevation of observer dimension $`D_{\mathcal{O}}`$.
 
@@ -102,9 +102,9 @@ The theory of "investigating things to extend knowledge" in "The Great Learning"
 
 From a Quantum-Classical Dualism perspective, this can be understood as: through systematic observation (investigating things), quantum domain information is efficiently classicalized (extending knowledge), reducing classical entropy production (sincere intentions, rectified mind), thereby elevating observer dimension (cultivated person, regulated family, well-governed state, peaceful world). This process can be represented by the formula:
 
-$`
+$$
 \text{Classicalization Efficiency} = \frac{\Delta I_{\text{classical knowledge}}}{\Delta S_{\text{classical entropy}}} \approx \frac{\text{Depth of Investigation}}{\text{Mind Chaos Degree}}
-`$
+$$
 
 #### 3. "Three Principles and Eight Steps" and Dimension Hierarchy
 
@@ -119,9 +119,9 @@ This hierarchical structure aligns with the multi-layered structure of observer 
 
 "The Great Learning" emphasizes "resting in the highest good," meaning reaching the optimal state. From a Quantum-Classical Dualism perspective, this is equivalent to the observer reaching the theoretically possible optimal classicalization state:
 
-$`
+$$
 \lim_{t \to \infty} \frac{I_{\text{classical knowledge}}(t)}{S_{\text{classical entropy}}(t)} \to \text{Maximum Value}
-`$
+$$
 
 In this state, the observer's dimension approaches the theoretical limit, and classicalization efficiency reaches optimality.
 

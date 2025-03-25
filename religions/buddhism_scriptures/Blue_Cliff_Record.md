@@ -52,9 +52,9 @@ The Blue Cliff Record is one of the most important collections of koans in Zen B
 
 ### 量子信息态演化方程
 
-$`
+$$
 |\psi(t)\rangle = \sum_{n=1}^{100} c_n(t)|I_n\rangle
-`$
+$$
 
 其中：
 - $`|\psi(t)\rangle`$ 表示t时刻的量子信息态
@@ -63,9 +63,9 @@ $`
 
 ### 信息经典化方程
 
-$`
+$$
 I_{classical} = \eta \sum_{n=1}^{100} Q_n|c_n(t)|^2
-`$
+$$
 
 其中：
 - $`I_{classical}`$ 是经典信息量

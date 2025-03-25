@@ -29,9 +29,9 @@
 
 加缪的荒诞哲学深刻体现了量子域无限可能性与经典域有限确定性之间的本质矛盾。他认识到人类意识根植于量子域的无限渴望，却被迫在经典域的有限世界中寻求表达，这一矛盾构成了荒诞的核心。
 
-$`
+$$
 |\psi\rangle_{\text{加缪哲学}} = |\psi\rangle_{\text{人类意义渴望（量子域）}} - I_{\text{宇宙无意义（经典域）}} = \text{荒诞}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    荒诞本质上是量子域与经典域之间的根本不对称：
 
    $$
-
    \text{荒诞} = |\psi\rangle_{\text{人类意义渴望（无限量子可能性）}} - I_{\text{经典现实（有限确定性）}}
    $$
 
@@ -51,17 +50,14 @@ $`
    加缪的反抗哲学是保持量子-经典创造性张力的态度：
 
    $$
-
    \text{自杀} = |\psi\rangle_{\text{量子意识}} \rightarrow 0 \quad \text{(消灭量子域)}
    $$
 
    $$
-
    \text{宗教} = |\psi\rangle_{\text{量子意识}} \rightarrow |\psi\rangle_{\text{超验幻象}} \quad \text{(虚假经典化)}
    $$
 
    $$
-
    \text{反抗} = |\psi\rangle_{\text{量子意识}} \otimes I_{\text{经典现实}} \rightarrow \text{创造性张力}
    $$
 
@@ -72,12 +68,10 @@ $`
    加缪对极端理性主义的批判反映了对过度经典化的警惕：
 
    $$
-
    \text{极端理性主义} = |\psi\rangle_{\text{复杂现实}} \xrightarrow{\text{过度经典化}} I_{\text{简化模型}} + S_{\text{高度异化}}
    $$
 
    $$
-
    \text{加缪中庸} = |\psi\rangle_{\text{复杂现实}} \xrightarrow{\text{适度经典化}} I_{\text{有限知识}} + \text{开放性}
    $$
 
@@ -88,7 +82,6 @@ $`
    加缪对当下生活的强调是对量子当前性的珍视：
 
    $$
-
    |\psi\rangle_{\text{生命体验}} = |\psi\rangle_{\text{此刻}} \quad \text{而非} \quad \sum_{\text{过去与未来}} |\psi_i\rangle_{\text{虚构意义}}
    $$
 
@@ -99,7 +92,6 @@ $`
    加缪的团结伦理建立在人类共同量子纠缠的基础上：
 
    $$
-
    \sum_{\text{个体}} |\psi_i\rangle_{\text{个人反抗}} \xrightarrow{\text{量子纠缠}} |\psi\rangle_{\text{团结反抗}}
    $$
 

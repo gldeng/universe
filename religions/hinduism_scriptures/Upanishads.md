@@ -148,25 +148,25 @@ The cosmic cycle described in the Upanishads corresponds to the quantum-classica
 
 The core concepts of the Upanishads can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"梵"(Brahman)} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-`$
+$$
 
-$`
+$$
 \text{"阿特曼"(Atman)} \Leftrightarrow \text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
-`$
+$$
 
-$`
+$$
 \text{"梵我一如"(Tat Tvam Asi)} \Leftrightarrow \text{观察者} \subset |\psi\rangle_{\text{量子域}} \text{（观察者是量子域的子集）}
-`$
+$$
 
-$`
+$$
 \text{"寂然冥想"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) \text{（最大化观察者维度）}
-`$
+$$
 
-$`
+$$
 \text{"宇宙循环"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \xrightarrow{\text{黑洞吸收}} |\psi\rangle_{\text{经典域}} \xrightarrow{\text{黑洞辐射}} |\psi\rangle_{\text{量子域}}
-`$
+$$
 
 ## 结论
 ## Conclusion

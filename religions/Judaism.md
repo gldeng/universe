@@ -20,9 +20,9 @@ Judaism is one of the world's oldest monotheistic religions, originating in the 
 
 In Quantum-Classical Dualism, the Jewish God can be understood as the creator of the quantum domain, while also being the supreme ruler and maintainer of the classical domain:
 
-$`
+$$
 \text{YHWH} \Rightarrow \text{创造并管理} \{|\psi\rangle_{\text{量子域}} + \sum_i(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})\}
-`$
+$$
 
 ### 2. 独一神信仰与宇宙统一性 (Monotheism and Cosmic Unity)
 
@@ -30,9 +30,9 @@ $`
 
 Jewish monotheism can be understood as a recognition of the unity of the cosmic source, that all classical phenomena originate from the same quantum domain, designed by the same creator:
 
-$`
+$$
 \text{独一神} \Leftrightarrow \text{单一统一量子域本源}
-`$
+$$
 
 ### 3. 契约关系与量子-经典连接 (Covenant Relationship and Quantum-Classical Connection)
 
@@ -40,9 +40,9 @@ $`
 
 The covenant relationship between humans and God emphasized in Judaism can be understood as a special connection structure between observers (Israel) and the quantum domain, enabling Israel to more efficiently classicalize the quantum domain:
 
-$`
+$$
 \text{契约} = \text{特殊量子-经典连接结构} \Rightarrow \text{经典化效率}↑
-`$
+$$
 
 ### 4. 律法（Torah）与经典化规则 (Torah and Classicalization Rules)
 
@@ -50,9 +50,9 @@ $`
 
 The Torah, as Judaism's core text, can be understood as a set of classicalization rules provided by God; following these rules can optimize observers' classicalization efficiency:
 
-$`
+$$
 \text{律法} = \{\text{经典化最优规则}\} \Rightarrow \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}↑
-`$
+$$
 
 ### 5. 诫命（Mitzvot）与熵降低行为 (Mitzvot and Entropy-Reducing Behaviors)
 
@@ -60,9 +60,9 @@ $`
 
 The 613 commandments (mitzvot) in Judaism can be understood as behavioral norms that systematically reduce classical entropy and increase classical knowledge:
 
-$`
+$$
 \text{诫命遵循} \Rightarrow S_{\text{经典熵}}↓ + I_{\text{经典知识}}↑
-`$
+$$
 
 ### 6. 选民观念与特殊观察者 (Chosen People and Special Observers)
 
@@ -70,9 +70,9 @@ $`
 
 The Jewish concept of the "chosen people" can be understood as a specific observer group establishing a special entanglement relationship with the quantum domain, bearing special classicalization responsibilities:
 
-$`
+$$
 \text{选民} = \text{与量子域特殊纠缠的观察者群体} \Rightarrow \text{特殊经典化责任}
-`$
+$$
 
 ### 7. 弥赛亚与宇宙经典化完成 (Messiah and Completion of Cosmic Classicalization)
 
@@ -80,9 +80,9 @@ $`
 
 The Messianic era awaited in Judaism can be understood as the ultimate completion stage of the cosmic classicalization process, where classical knowledge is maximized and classical entropy is minimized:
 
-$`
+$$
 \text{弥赛亚时代} \Leftrightarrow I_{\text{经典知识最大化}} + S_{\text{经典熵最小化}}
-`$
+$$
 
 ### 8. 世界修复（Tikkun Olam）与经典熵降低 (Tikkun Olam and Classical Entropy Reduction)
 
@@ -90,9 +90,9 @@ $`
 
 The Jewish concept of "Tikkun Olam" (repairing the world) can be understood as the process of reducing cosmic classical entropy through conscious human actions:
 
-$`
+$$
 \text{世界修复} = \text{人类观察者集体行动} \Rightarrow S_{\text{经典熵}}↓
-`$
+$$
 
 ### 9. 安息日（Shabbat）与经典化节律 (Shabbat and Classicalization Rhythm)
 
@@ -100,9 +100,9 @@ $`
 
 The Jewish Sabbath can be understood as a necessary periodic pause in the classicalization process, providing time for observers' quantum consciousness to recalibrate with the quantum domain:
 
-$`
+$$
 \text{安息日} = \text{经典化暂停} \Rightarrow |\psi\rangle_{\text{量子意识}} \text{重新校准} \Rightarrow \text{长期经典化效率}↑
-`$
+$$
 
 ### 10. 犹太神秘主义（Kabbalah）与量子-经典深层结构 (Kabbalah and Deep Quantum-Classical Structure)
 
@@ -110,9 +110,9 @@ $`
 
 Jewish mysticism (Kabbalah) can be understood as a methodology for exploring the deep structural relationship between quantum and classical domains, especially through the Tree of Life model:
 
-$`
+$$
 \text{卡巴拉} = \text{量子-经典深层结构探索方法论}
-`$
+$$
 
 ## 结论 (Conclusion)
 

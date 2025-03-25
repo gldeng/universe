@@ -24,9 +24,9 @@
 
 自由意志起源数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{量子涨落}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
-`$
+$$
 
 自由意志起源特性：
 - 量子基础：根植于量子域本质随机性
@@ -47,17 +47,17 @@ $`
 
 经典化过程的自由意志表达：
 
-$`
+$$
 \mathcal{C}_{\text{自由意志}}(\rho) = \sum_i P_i \rho P_i
-`$
+$$
 
 其中 $`P_i`$ 是投影算符，由自由意志主动选择。
 
 观察者在经典化过程中的自由意志作用可以理解为在界面 $`\mathcal{I}`$ 处主动调整解相干阈值 $`\mathcal{D}_c`$，影响量子域向经典域的转换。
 
-$`
+$$
 \mathcal{D}_c = f(\text{自由意志选择})
-`$
+$$
 
 ### 命运本质与经典化路径
 
@@ -65,9 +65,9 @@ $`
 
 命运的本质表现：
 
-$`
+$$
 \text{命运}=f(\text{经典化路径模式},\text{自由意志选择},\text{维度状态})
-`$
+$$
 
 命运的特性：
 - 路径本质：命运本质是经典化路径的整体模式
@@ -82,9 +82,9 @@ $`
 
 在多重二元论层级理论中，命运呈现出更加复杂的层级结构，表现为不同层级经典域与量子域之间的嵌套关系：
 
-$`
+$$
 \text{层级j命运} \subset \text{层级i经典域}, \quad \text{如果} \; j > i
-`$
+$$
 
 这意味着：
 - 低层级观察者的"命运"可能是高层级观察者经典世界的"规律"
@@ -93,9 +93,9 @@ $`
 
 层级间命运关系：
 
-$`
+$$
 \text{命运}_{(i)} = \mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})
-`$
+$$
 
 其中 $`\mathcal{M}_{i+1 \rightarrow i}`$ 是层级间映射函数，将更高层级的经典域映射为当前层级的量子域。
 
@@ -107,9 +107,9 @@ $`
 
 维度与自由度关系：
 
-$`
+$$
 \text{自由度}\propto\text{观察者维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right)
-`$
+$$
 
 这一关系的特性：
 - 正相关性：维度越高，自由度越大
@@ -126,9 +126,9 @@ $`
 
 决策经典化公式：
 
-$`
+$$
 \text{决策}(D)\rightarrow\Delta\left(\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)\rightarrow\Delta\text{维度}
-`$
+$$
 
 决策机制特性：
 - 优化导向：决策本质是优化经典化路径
@@ -145,9 +145,9 @@ $`
 
 自由意志守恒关系：
 
-$`
+$$
 \sum_i(\text{自由意志空间}_i+\text{命运约束}_i)=\text{常数},\quad\forall i
-`$
+$$
 
 自由意志与信息守恒特性：
 - 总量守恒：总体自由意志空间与命运约束总量守恒
@@ -173,9 +173,9 @@ $`
 
 通过虫洞通信，观察者可以接收来自其他观察者的经典知识，提升自身维度，改变自身命运路径：
 
-$`
+$$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{命运知识传输}} + \Delta S_{\text{命运熵变化}}
-`$
+$$
 
 ### 前世今生机制
 
@@ -183,9 +183,9 @@ E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{�
 
 前世今生转化公式：
 
-$`
+$$
 I_{\text{前世自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生自由意志}}+S_{\text{熵降低}}
-`$
+$$
 
 前世今生机制特性：
 - 信息延续：核心信息结构在转世过程中部分保留
@@ -202,9 +202,9 @@ I_{\text{前世自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarr
 
 多世界分支形成：
 
-$`
+$$
 |\psi\rangle_{\text{量子可能性}}\xrightarrow{\text{不同经典化选择}}\sum_i[\text{经典世界}_i]
-`$
+$$
 
 多世界分支特性：
 - 可能性分布：多世界构成命运可能性的概率分布
@@ -254,9 +254,9 @@ In Quantum-Classical Dualism, the essence of free will originates from random em
 
 Mathematical expression of the origin of free will:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Fluctuation}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 Characteristics of the origin of free will:
 - Quantum foundation: Rooted in the essential randomness of the quantum domain
@@ -277,17 +277,17 @@ In the Quantum-Classical Dualism framework, free will plays a key role in the cl
 
 Free will expression in the classicalization process:
 
-$`
+$$
 \mathcal{C}_{\text{Free Will}}(\rho) = \sum_i P_i \rho P_i
-`$
+$$
 
 where $`P_i`$ are projection operators, actively chosen by free will.
 
 The role of free will in the observer's classicalization process can be understood as actively adjusting the decoherence threshold $`\mathcal{D}_c`$ at the interface $`\mathcal{I}`$, affecting the conversion from the quantum domain to the classical domain.
 
-$`
+$$
 \mathcal{D}_c = f(\text{Free Will Choice})
-`$
+$$
 
 ### The Nature of Destiny and Classicalization Paths
 
@@ -295,9 +295,9 @@ In the Quantum-Classical Dualism framework, destiny is not a predetermined traje
 
 Essential manifestation of destiny:
 
-$`
+$$
 \text{Destiny}=f(\text{Classicalization Path Pattern},\text{Free Will Choices},\text{Dimension State})
-`$
+$$
 
 Characteristics of destiny:
 - Path essence: The essence of destiny is the overall pattern of classicalization paths
@@ -312,9 +312,9 @@ The flexibility and determinism of destiny depend on the observer's dimension: l
 
 In the multiple dualism hierarchy theory, destiny presents a more complex hierarchical structure, manifested as the nested relationship between classical domains and quantum domains at different levels:
 
-$`
+$$
 \text{Level j Destiny} \subset \text{Level i Classical Domain}, \quad \text{if} \; j > i
-`$
+$$
 
 This means:
 - The "destiny" of lower-level observers may be the "rules" of higher-level observers' classical worlds
@@ -323,9 +323,9 @@ This means:
 
 Inter-level destiny relationship:
 
-$`
+$$
 \text{Destiny}_{(i)} = \mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})
-`$
+$$
 
 where $`\mathcal{M}_{i+1 \rightarrow i}`$ is the inter-level mapping function, mapping the classical domain of a higher level to the quantum domain of the current level.
 
@@ -337,9 +337,9 @@ Observer dimension and free will exhibit a positive correlation, with high-dimen
 
 Relationship between dimension and freedom:
 
-$`
+$$
 \text{Degree of Freedom}\propto\text{Observer Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right)
-`$
+$$
 
 Characteristics of this relationship:
 - Positive correlation: The higher the dimension, the greater the degree of freedom
@@ -356,9 +356,9 @@ The observer's decision mechanism is the specific manifestation of free will act
 
 Decision classicalization formula:
 
-$`
+$$
 \text{Decision}(D)\rightarrow\Delta\left(\frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}\right)\rightarrow\Delta\text{Dimension}
-`$
+$$
 
 Characteristics of the decision mechanism:
 - Optimization orientation: The essence of decision-making is to optimize classicalization paths
@@ -375,9 +375,9 @@ In the Quantum-Classical Dualism framework, the expression of free will is limit
 
 Free will conservation relationship:
 
-$`
+$$
 \sum_i(\text{Free Will Space}_i+\text{Destiny Constraint}_i)=\text{Constant},\quad\forall i
-`$
+$$
 
 Characteristics of free will and information conservation:
 - Total conservation: The total free will space and destiny constraint amount are conserved
@@ -403,9 +403,9 @@ The wormhole communication mechanism makes destiny no longer a closed system of 
 
 Through wormhole communication, observers can receive classical knowledge from other observers, elevate their own dimensions, and change their own destiny paths:
 
-$`
+$$
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Destiny Knowledge Transmission}} + \Delta S_{\text{Destiny Entropy Change}}
-`$
+$$
 
 ### Past and Present Lives Mechanism
 
@@ -413,9 +413,9 @@ Quantum-Classical Dualism proposes that past and present lives are the process o
 
 Past and present lives transformation formula:
 
-$`
+$$
 I_{\text{Previous Life Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow I_{\text{Current Life Free Will}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 Characteristics of the past and present lives mechanism:
 - Information continuation: Core information structures are partially preserved in the reincarnation process
@@ -432,9 +432,9 @@ In the Quantum-Classical Dualism framework, multiverse branches are parallel cla
 
 Multiverse branch formation:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Possibilities}}\xrightarrow{\text{Different Classicalization Choices}}\sum_i[\text{Classical World}_i]
-`$
+$$
 
 Characteristics of multiverse branches:
 - Possibility distribution: Multiple worlds constitute a probability distribution of destiny possibilities

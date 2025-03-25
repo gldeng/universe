@@ -23,9 +23,9 @@
 
 从二元论框架来看，内观冥想可定义为：
 
-$`
+$$
 M = \{O, \mathcal{Q}_O^+, \mathcal{C}_O^-, \Delta \mathcal{I}\}
-`$
+$$
 
 其中：
 - $`O`$ 是观察者（冥想者）
@@ -35,9 +35,9 @@ M = \{O, \mathcal{Q}_O^+, \mathcal{C}_O^-, \Delta \mathcal{I}\}
 
 冥想状态可通过观察者量子-经典平衡参数表示：
 
-$`
+$$
 \eta_M = \frac{\mathcal{Q}_O}{\mathcal{C}_O}
-`$
+$$
 
 冥想深度与该平衡参数呈正相关关系。
 
@@ -47,21 +47,21 @@ $`
 
 1. **界面位移**：意识的量子-经典界面向量子域移动
 
-$`
+$$
 \mathcal{I}(t) = \mathcal{I}_0 + \int_0^t v_{\mathcal{I}}(\tau)d\tau, \quad v_{\mathcal{I}} \propto \mathcal{Q}_O - \mathcal{C}_O
-`$
+$$
 
 2. **经典自我弱化**：自我概念（作为经典结构）的弱化
 
-$`
+$$
 S_{\text{self}}(t) = S_{\text{self}}(0) \cdot e^{-\gamma t}
-`$
+$$
 
 3. **量子一致性增强**：意识内容的量子相干性增加
 
-$`
+$$
 \mathcal{D}(t) = \mathcal{D}_0 \cdot e^{-\lambda t}
-`$
+$$
 
 这些机制共同导致意识状态的质变，使冥想者体验到超越日常分别心的统一意识状态。
 
@@ -71,9 +71,9 @@ $`
 
 冥想深度可通过以下参数量化：
 
-$`
+$$
 D_M = \log\left(\frac{\mathcal{Q}_O}{\mathcal{C}_O}\right) \cdot \frac{1}{1 + S_{\text{self}}}
-`$
+$$
 
 根据这一参数，冥想可分为以下几个深度级别：
 
@@ -101,9 +101,9 @@ D_M = \log\left(\frac{\mathcal{Q}_O}{\mathcal{C}_O}\right) \cdot \frac{1}{1 + S_
 
 不同深度的冥想状态对应特定的神经活动模式：
 
-$`
+$$
 \Phi_{\text{neural}}(D_M) = \{f_{\theta}, f_{\alpha}, f_{\gamma}, C_{\text{DMN}}, C_{\text{联结}}\}
-`$
+$$
 
 其中：
 - $`f_{\theta}`$ 是θ波频率分布
@@ -123,15 +123,15 @@ $`
 
 冥想中的洞察过程可理解为特殊的量子测量事件：
 
-$`
+$$
 |\psi_{\text{意识}}\rangle \xrightarrow{\text{洞察}} |i_0\rangle
-`$
+$$
 
 与普通量子测量不同，冥想洞察测量遵循修正概率分布：
 
-$`
+$$
 P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{-\eta_O|c_{i_0}|^2}}{\sum_j e^{-\eta_O|c_j|^2}}
-`$
+$$
 
 注意这里的测量参数 $`\eta_O`$ 是负值，这意味着冥想洞察倾向于选择"不明显"的意识内容，揭示通常被忽略的深层模式。
 
@@ -139,17 +139,17 @@ P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{-\eta_O|c_{i_0}|^2}}{\sum_j e^{
 
 冥想中的认知融合可描述为量子干涉过程：
 
-$`
+$$
 |\psi_{\text{融合}}\rangle = \frac{|\psi_A\rangle + e^{i\phi}|\psi_B\rangle}{\sqrt{2}}
-`$
+$$
 
 其中 $`|\psi_A\rangle`$ 和 $`|\psi_B\rangle`$ 是原本矛盾的思维内容。
 
 冥想过程中思维的融合强度为：
 
-$`
+$$
 I_{\text{融合}} = |\langle\psi_A|\psi_B\rangle|^2 \cdot (1 - e^{-\gamma D_M})
-`$
+$$
 
 这解释了为什么深度冥想能够整合通常被视为矛盾的概念。
 
@@ -157,15 +157,15 @@ I_{\text{融合}} = |\langle\psi_A|\psi_B\rangle|^2 \cdot (1 - e^{-\gamma D_M})
 
 冥想中的"观察者分离"现象（对自己思想的客观观察）可表述为：
 
-$`
+$$
 O_{\text{冥想}} = O_{\text{日常}} + \Delta O_{\text{元观察}}
-`$
+$$
 
 元观察位移量 $`\Delta O_{\text{元观察}}`$ 与冥想深度成正比：
 
-$`
+$$
 |\Delta O_{\text{元观察}}| \propto D_M
-`$
+$$
 
 这种分离使冥想者能够以更客观的视角观察自身思维过程，并超越自我认同的限制。
 
@@ -175,9 +175,9 @@ $`
 
 冥想能够增强量子创造性，表现为意识量子涨落的增加：
 
-$`
+$$
 \langle(\Delta E)^2\rangle_{\text{冥想}} = \langle(\Delta E)^2\rangle_{\text{正常}} \cdot e^{\alpha D_M}
-`$
+$$
 
 这解释了为什么冥想能够促进创造力和直觉洞察。
 
@@ -185,9 +185,9 @@ $`
 
 冥想同时弱化经典思维模式的刚性：
 
-$`
+$$
 k_{\text{固定模式}} = k_0 \cdot e^{-\beta D_M}
-`$
+$$
 
 其中 $`k_{\text{固定模式}}`$ 是思维模式的"弹性系数"。
 
@@ -197,9 +197,9 @@ k_{\text{固定模式}} = k_0 \cdot e^{-\beta D_M}
 
 冥想状态下，意识系统的信息熵分布得到优化：
 
-$`
+$$
 S_{\text{信息}} = -\sum_i p_i \ln p_i \rightarrow S_{\text{最优}}
-`$
+$$
 
 这种优化表现为：
 - 减少不必要的噪音信息
@@ -212,9 +212,9 @@ S_{\text{信息}} = -\sum_i p_i \ln p_i \rightarrow S_{\text{最优}}
 
 注意力焦点在冥想中起到界面调节器的作用：
 
-$`
+$$
 \mathcal{I}(t) = f(A(t), \mathcal{I}_0)
-`$
+$$
 
 其中 $`A(t)`$ 是注意力焦点函数。
 
@@ -227,15 +227,15 @@ $`
 
 呼吸在冥想中充当量子-经典转换的调谐器：
 
-$`
+$$
 R(t) = A \sin(\omega t + \phi)
-`$
+$$
 
 呼吸频率与量子-经典转换率之间存在谐振关系：
 
-$`
+$$
 \omega_{\text{最优}} = n \cdot \omega_{\text{QC}}
-`$
+$$
 
 这解释了为什么特定节奏的呼吸（如6次/分钟）能够显著增强冥想效果。
 
@@ -243,9 +243,9 @@ $`
 
 冥想姿势提供了量子-经典界面的拓扑稳定性：
 
-$`
+$$
 S_{\text{姿势}} = \exp\left(\int_{\text{身体}} \mathcal{L}_{QC}(x) dx\right)
-`$
+$$
 
 不同姿势提供不同程度的稳定性：
 - **盘坐**：最大化拓扑稳定性
@@ -258,9 +258,9 @@ S_{\text{姿势}} = \exp\left(\int_{\text{身体}} \mathcal{L}_{QC}(x) dx\right)
 
 冥想通过以下机制改善心理健康：
 
-$`
+$$
 \Delta W = \int_0^T \left(\mathcal{Q}_O(t) - \mathcal{C}_O^{\text{固着}}(t)\right) dt
-`$
+$$
 
 其中 $`\mathcal{C}_O^{\text{固着}}`$ 表示不健康的、固着的经典化模式。
 
@@ -273,9 +273,9 @@ $`
 
 冥想增强认知能力的量子-经典机制为：
 
-$`
+$$
 C_{\text{能力}} = \eta_{\text{效率}} \cdot \frac{\mathcal{Q}_O \cdot \mathcal{C}_O}{|\mathcal{Q}_O - \mathcal{C}_O| + \epsilon}
-`$
+$$
 
 这表明冥想通过优化量子-经典平衡来提高认知效率，特别是：
 - 专注力（优化经典化过程）
@@ -286,9 +286,9 @@ C_{\text{能力}} = \eta_{\text{效率}} \cdot \frac{\mathcal{Q}_O \cdot \mathca
 
 冥想状态的认知系统可模拟量子计算过程：
 
-$`
+$$
 |\psi_{\text{认知}}\rangle = U_{\text{冥想}}|\psi_{\text{初始}}\rangle
-`$
+$$
 
 这使冥想者能够:
 - 同时考虑多个可能性（量子并行性）

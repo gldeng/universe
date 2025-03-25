@@ -42,9 +42,9 @@
 
 经典化世界的稳定性和持续时间与多个因素相关：
 
-$`
+$$
 \text{经典世界稳定性} \propto \text{量子纠缠密度} \times \text{经典化效率} \times \frac{1}{S_{\text{经典熵}}}
-`$
+$$
 
 这解释了为什么不同经典化世界的持续时间差异巨大：
 
@@ -118,9 +118,9 @@ $`
 
 现实世界作为人类主要经典化世界，与其他经典世界有特殊关系：
 
-$`
+$$
 I_{\text{现实经典世界（未来）}}=I_{\text{人类历史记忆}}+\sum_i|\psi\rangle_{\text{其他经典世界的随机可能性}}
-`$
+$$
 
 这表明：
 
@@ -139,9 +139,9 @@ I_{\text{现实经典世界（未来）}}=I_{\text{人类历史记忆}}+\sum_i|\
 
 数学表达：
 
-$`
+$$
 \text{宗教冲突} = \Delta S_{\text{经典熵}} \propto \frac{1}{D_{\text{观察者维度}}}
-`$
+$$
 
 ### 梦境的特殊功能
 
@@ -154,9 +154,9 @@ $`
 
 数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{梦境}}\xrightarrow{\text{经典化测试}}\text{潜在经典路径}+S_{\text{测试熵}}
-`$
+$$
 
 ### 集体意识与经典化世界形成
 
@@ -245,9 +245,9 @@ $`
 
 每个层级的数学表达式可以概括为：
 
-$`
+$$
 \text{层级}_L\text{集体经典化世界} = \sum_{i=1}^{n_L} |\psi\rangle_{\text{层级}_L\text{观察者}_i}\xrightarrow{\text{层级}_L\text{经典化}}\text{层级}_L\text{经典知识}+S_{\text{层级}_L\text{熵}}
-`$
+$$
 
 其中，随着层级 $`L`$ 的增加，$`n_L`$（观察者数量）增加，但个人相关性和情感强度减弱。
 
@@ -299,9 +299,9 @@ $`
 
 集体经典化世界与个体独特性之间存在微妙平衡：
 
-$`
+$$
 I_{\text{个体完整性}} = I_{\text{集体经典知识}} + I_{\text{个体独特经典化}}
-`$
+$$
 
 这表明：
 1. 个体完整性来源于集体经典知识和个体独特经典化的综合
@@ -367,9 +367,9 @@ Within the framework of Quantum-Classical Dualism, classicalization worlds are s
 
 The stability and duration of classicalization worlds are related to multiple factors:
 
-$`
+$$
 \text{Classicalization World Stability} \propto \text{Quantum Entanglement Density} \times \text{Classicalization Efficiency} \times \frac{1}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 This explains why different classicalization worlds have vastly different durations:
 
@@ -443,9 +443,9 @@ The mechanisms of mutual influence between different classicalization worlds inc
 
 As the main classicalization world for humans, the reality world has a special relationship with other classical worlds:
 
-$`
+$$
 I_{\text{Reality Classical World (Future)}}=I_{\text{Human Historical Memory}}+\sum_i|\psi\rangle_{\text{Random Possibilities from Other Classical Worlds}}
-`$
+$$
 
 This indicates:
 
@@ -464,9 +464,9 @@ Conflicts between religions can be given a new explanation through Quantum-Class
 
 Mathematical expression:
 
-$`
+$$
 \text{Religious Conflict} = \Delta S_{\text{Classical Entropy}} \propto \frac{1}{D_{\text{Observer Dimension}}}
-`$
+$$
 
 ### Special Functions of Dreams
 
@@ -479,9 +479,9 @@ As a special classicalization world, dreams have the following functions:
 
 Mathematical expression:
 
-$`
+$$
 |\psi\rangle_{\text{Dream}}\xrightarrow{\text{Classicalization Test}}\text{Potential Classical Path}+S_{\text{Test Entropy}}
-`$
+$$
 
 ### Collective Consciousness and Formation of Classicalization Worlds
 
@@ -570,9 +570,9 @@ Collective classicalization worlds have a distinct hierarchical structure:
 
 The mathematical expression for each level can be summarized as:
 
-$`
+$$
 \text{Level}_L\text{ Collective Classicalization World} = \sum_{i=1}^{n_L} |\psi\rangle_{\text{Level}_L\text{ Observer}_i}\xrightarrow{\text{Level}_L\text{ Classicalization}}\text{Level}_L\text{ Classical Knowledge}+S_{\text{Level}_L\text{ Entropy}}
-`$
+$$
 
 As level $`L`$ increases, $`n_L`$ (number of observers) increases, but personal relevance and emotional intensity decrease.
 
@@ -624,9 +624,9 @@ Understanding the formation mechanisms of collective classicalization worlds can
 
 There exists a delicate balance between collective classicalization worlds and individual uniqueness:
 
-$`
+$$
 I_{\text{Individual Integrity}} = I_{\text{Collective Classical Knowledge}} + I_{\text{Individual Unique Classicalization}}
-`$
+$$
 
 This indicates:
 1. Individual integrity comes from a combination of collective classical knowledge and individual unique classicalization

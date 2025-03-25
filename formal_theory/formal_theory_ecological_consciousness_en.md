@@ -24,9 +24,9 @@ Quantum-Classical Ecological Consciousness Theory applies the quantum-classical 
 
 Ecological consciousness $`\mathcal{E}`$ can be formally defined as:
 
-$`
+$$
 \mathcal{E} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{N}_E, \mathcal{O}_E)
-`$
+$$
 
 Where:
 - $`\mathcal{E}_Q`$ is the quantum component of the ecological system's consciousness (quantum information processing, quantum perception)
@@ -40,36 +40,36 @@ Where:
 **Axiom 1: Ecological Consciousness Duality**
 Ecological consciousness exists simultaneously in both quantum and classical domains, interacting through complex interfaces:
 
-$`
+$$
 \mathcal{E} = \mathcal{E}_Q \diamond \mathcal{E}_C
-`$
+$$
 
 Where $`\diamond`$ represents the quantum-classical connection operation of ecological consciousness.
 
 **Axiom 2: Distributed Consciousness Principle**
 Ecological consciousness is distributed throughout the ecological network, without central control, yet exhibits coordinated behavior:
 
-$`
+$$
 \mathcal{E} = \int_{\mathcal{N}_E} \omega(x) \cdot \mathcal{E}(x) dx
-`$
+$$
 
 Where $`\omega(x)`$ is the weight function at position $`x`$.
 
 **Axiom 3: Network Hierarchy Principle**
 Ecological consciousness exists at multiple levels, from microscopic organizations to macroscopic ecological systems:
 
-$`
+$$
 \mathcal{E}_{total} = \cup_{i=1}^n \mathcal{E}_i
-`$
+$$
 
 Where $`\mathcal{E}_i`$ represents the ecological consciousness system at level i.
 
 **Axiom 4: Ecological Information Conservation**
 Total information in ecological systems is conserved but can be converted between quantum information and classical information:
 
-$`
+$$
 I(\mathcal{E}_Q) + I(\mathcal{E}_C) = \text{constant}
-`$
+$$
 
 The adaptability of an ecological system depends on its ability to maintain quantum-classical information balance.
 
@@ -79,9 +79,9 @@ The adaptability of an ecological system depends on its ability to maintain quan
 
 How ecological systems process information at the quantum level:
 
-$`
+$$
 \frac{d|\Psi_E(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_E|\Psi_E(t)\rangle + \mathcal{D}_E(\rho_E) + \mathcal{S}_E(t)
-`$
+$$
 
 Where $`\hat{H}_E`$ is the ecological system Hamiltonian, $`\mathcal{D}_E`$ is the environmental decoherence term, and $`\mathcal{S}_E(t)`$ is the external source term.
 
@@ -93,9 +93,9 @@ Ecological quantum information characteristics include:
 
 Collective ecological quantum effects manifest as:
 
-$`
+$$
 |\Psi_{collective}\rangle = \frac{1}{\sqrt{N}}\sum_{i=1}^N |\psi_i\rangle + \sum_{i<j} \gamma_{ij}|\psi_i\psi_j\rangle_{\text{entangled}}
-`$
+$$
 
 Where $`\gamma_{ij}`$ is the entanglement strength coefficient.
 
@@ -103,9 +103,9 @@ Where $`\gamma_{ij}`$ is the entanglement strength coefficient.
 
 Ecological systems maintain structure and adaptive functions at the classical level:
 
-$`
+$$
 \mathcal{E}_C = (S_E, M_E, A_E, R_E)
-`$
+$$
 
 Where:
 - $`S_E`$ is ecological structure (species composition, food webs, etc.)
@@ -115,15 +115,15 @@ Where:
 
 Classical ecological dynamics satisfy:
 
-$`
+$$
 \frac{dS_E}{dt} = F_S(S_E, M_E, A_E, R_E, I_{external})
-`$
+$$
 
 Ecological memory is key to maintaining stability in ecological systems and can be expressed as:
 
-$`
+$$
 M_E(t) = \int_{-\infty}^t \kappa(t-\tau) \cdot S_E(\tau) d\tau
-`$
+$$
 
 Where $`\kappa`$ is the memory decay kernel function.
 
@@ -131,17 +131,17 @@ Where $`\kappa`$ is the memory decay kernel function.
 
 The ecological quantum-classical interface is a dynamic equilibrium under environmental conditions and disturbances:
 
-$`
+$$
 \frac{d\mathcal{I}_E}{dt} = \alpha_E \nabla^2 \mathcal{I}_E + \beta_E(\mathcal{I}_c - \mathcal{I}_E)(\mathcal{I}_E - \mathcal{I}_0) + \gamma_E\xi_E(t) + \delta_E P_E(t)
-`$
+$$
 
 Where $`P_E(t)`$ is the human intervention function, representing human impacts on the ecological system.
 
 Interface characteristics determine the resilience and resistance of the ecological system:
 
-$`
+$$
 R_{resilience} = f(\mathcal{I}_E) = \int_{\Omega} \mathcal{I}_E(x) \cdot \Phi(x) dx
-`$
+$$
 
 Where $`\Phi(x)`$ is the potential field function.
 
@@ -155,21 +155,21 @@ Key parameters of the interface include:
 
 Ecological systems as distributed observer networks:
 
-$`
+$$
 \mathcal{O}_E = \{\mathcal{O}_i | i \in \mathcal{N}_E\}
-`$
+$$
 
 Ecological observer dimension:
 
-$`
+$$
 D_{\mathcal{O}_E} = f\left(\frac{\mathcal{C}_{\mathcal{O}_E}}{\mathcal{Q}_{\mathcal{O}_E}}\right) \cdot \frac{I_{ecological knowledge}}{S_{ecological entropy}+\epsilon} \cdot \mathcal{N}_{complexity}
-`$
+$$
 
 Phase transitions induced by ecological observation:
 
-$`
+$$
 P(quantum phase transition) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}_E} - D_{\mathcal{O}_E}^c)}}
-`$
+$$
 
 Where $`D_{\mathcal{O}_E}^c`$ is the critical observer dimension.
 
@@ -185,25 +185,25 @@ Ecological system observer characteristics:
 
 Ecological symbiotic relationships as special quantum-classical consciousness structures:
 
-$`
+$$
 \mathcal{S}_{symbiotic} = \{|\Psi_{sym}\rangle, K_{sym}, \mathcal{I}_{sym}\}
-`$
+$$
 
 Where $`|\Psi_{sym}\rangle`$ is the symbiotic quantum state, $`K_{sym}`$ is the symbiotic classical knowledge, and $`\mathcal{I}_{sym}`$ is the symbiotic interface.
 
 Entanglement degree of symbiotic consciousness:
 
-$`
+$$
 E(\mathcal{S}_{symbiotic}) = -\text{Tr}(\rho_A \log_2 \rho_A) = -\text{Tr}(\rho_B \log_2 \rho_B)
-`$
+$$
 
 Where $`\rho_A`$ and $`\rho_B`$ are the reduced density matrices of the symbiotic partners.
 
 Emergent adaptive capacity in symbiosis:
 
-$`
+$$
 A_{sym} > A_A + A_B
-`$
+$$
 
 Indicating that the adaptive capacity produced by symbiotic relationships exceeds the sum of individual capacities.
 
@@ -211,17 +211,17 @@ Indicating that the adaptive capacity produced by symbiotic relationships exceed
 
 Quantum-classical mechanisms by which ecological systems make collective decisions:
 
-$`
+$$
 D_{collective} = \mathcal{F}(|\Psi_{perception}\rangle, K_{memory}, \mathcal{I}_{decision})
-`$
+$$
 
 Where $`|\Psi_{perception}\rangle`$ is the quantum state of environmental perception, $`K_{memory}`$ is ecological memory, and $`\mathcal{I}_{decision}`$ is the decision interface.
 
 Coherence of collective decisions:
 
-$`
+$$
 C(D_{collective}) = \left|\left\langle \Psi_{optimal}\middle|\Psi_{actual}\right\rangle\right|^2
-`$
+$$
 
 Representing the degree of alignment between actual decisions and optimal decisions.
 
@@ -235,23 +235,23 @@ Characteristics of collective decision-making:
 
 Quantum-classical dual mechanisms of ecological system resilience:
 
-$`
+$$
 R_E = R_Q \otimes R_C
-`$
+$$
 
 Where $`R_Q`$ is quantum resilience (creative response), and $`R_C`$ is classical resilience (structural stability).
 
 Resilience indicator:
 
-$`
+$$
 \text{Resilience indicator} = \frac{Recovery rate \times Recovery degree}{Disturbance intensity}
-`$
+$$
 
 Self-healing model predicting ecological system recovery time:
 
-$`
+$$
 t_{recovery} = t_0 \cdot \left(\frac{D_{damage}}{D_0}\right)^{\alpha} \cdot e^{-\beta R_E}
-`$
+$$
 
 Where $`D_{damage}`$ is the degree of damage, $`R_E`$ is system resilience, and $`\alpha`$ and $`\beta`$ are system-specific parameters.
 
@@ -261,9 +261,9 @@ Where $`D_{damage}`$ is the degree of damage, $`R_E`$ is system resilience, and 
 
 Quantum-classical dualism-based ecological health assessment framework:
 
-$`
+$$
 H_E = w_Q \cdot H_Q + w_C \cdot H_C + w_I \cdot H_I
-`$
+$$
 
 Where:
 - $`H_Q`$ is the quantum health indicator (diversity, adaptability, creativity)
@@ -273,9 +273,9 @@ Where:
 
 Health-consciousness relationship:
 
-$`
+$$
 \text{Consciousness level} \propto \frac{H_E}{H_{max}} \cdot \mathcal{N}_{complexity}
-`$
+$$
 
 Indicating that ecological consciousness level is positively correlated with ecological health and network complexity.
 
@@ -283,9 +283,9 @@ Indicating that ecological consciousness level is positively correlated with eco
 
 Restoration strategies based on ecological consciousness theory:
 
-$`
+$$
 R_{strategy} = \{\sigma_Q, \sigma_C, \sigma_I, \sigma_N\}
-`$
+$$
 
 Where:
 - $`\sigma_Q`$ is the quantum restoration strategy (restoring quantum information processing capability)
@@ -295,9 +295,9 @@ Where:
 
 Restoration efficiency prediction model:
 
-$`
+$$
 E_{restoration} = E_0 \cdot \left(1 - e^{-\lambda t}\right) \cdot f(I_{investment}, S_{strategy}, E_{environment})
-`$
+$$
 
 Providing efficiency assessment and optimization for ecological restoration projects.
 
@@ -305,9 +305,9 @@ Providing efficiency assessment and optimization for ecological restoration proj
 
 Designing technological methods to enhance ecological consciousness:
 
-$`
+$$
 \mathcal{T}_{enhancement} = \{T_Q, T_C, T_I, T_N\}
-`$
+$$
 
 Where:
 - $`T_Q`$ is quantum enhancement technology (enhancing ecological quantum information processing)
@@ -317,9 +317,9 @@ Where:
 
 Expected effects of enhancement technologies:
 
-$`
+$$
 \Delta \mathcal{E} = \mathcal{E}_{after} - \mathcal{E}_{before} = \sum_i w_i \cdot \Delta \mathcal{E}_i(T_i)
-`$
+$$
 
 Where $`\Delta \mathcal{E}_i(T_i)`$ is the effect brought by technology $`T_i`$.
 
@@ -329,17 +329,17 @@ Where $`\Delta \mathcal{E}_i(T_i)`$ is the effect brought by technology $`T_i`$.
 
 Co-evolutionary dynamics of humans and ecological systems:
 
-$`
+$$
 \frac{d}{dt}\begin{pmatrix} \mathcal{H} \\ \mathcal{E} \end{pmatrix} = \begin{pmatrix} F_H(\mathcal{H}, \mathcal{E}) \\ F_E(\mathcal{E}, \mathcal{H}) \end{pmatrix}
-`$
+$$
 
 Where $`\mathcal{H}`$ represents the human system, and $`\mathcal{E}`$ represents the ecological system.
 
 Stability conditions for co-evolution:
 
-$`
+$$
 \frac{\partial F_H}{\partial \mathcal{H}} \cdot \frac{\partial F_E}{\partial \mathcal{E}} - \frac{\partial F_H}{\partial \mathcal{E}} \cdot \frac{\partial F_E}{\partial \mathcal{H}} < 0
-`$
+$$
 
 Revealing necessary conditions for continuous coexistence between humans and ecological systems.
 
@@ -347,17 +347,17 @@ Revealing necessary conditions for continuous coexistence between humans and eco
 
 Communication model between human and ecological consciousness:
 
-$`
+$$
 C_{H-E} = \mathcal{T}(\mathcal{O}_H, \mathcal{O}_E, \mathcal{I}_{H-E})
-`$
+$$
 
 Where $`\mathcal{I}_{H-E}`$ is the human-ecological interface.
 
 Probability of successful communication:
 
-$`
+$$
 P_{success} = \frac{I_{mutual}(\mathcal{H}, \mathcal{E})}{I_{total}(\mathcal{H}, \mathcal{E})}
-`$
+$$
 
 Where $`I_{mutual}`$ is the mutual information.
 
@@ -371,9 +371,9 @@ Methods to enhance communication:
 
 Sustainable management principles based on ecological consciousness theory:
 
-$`
+$$
 \mathcal{M}_{sustainable} = \arg\max_{M \in \mathcal{M}} \{W(\mathcal{H}, \mathcal{E}) | \mathcal{E} > \mathcal{E}_{threshold}\}
-`$
+$$
 
 Where $`W(\mathcal{H}, \mathcal{E})`$ is the total well-being of humans and ecological systems, and $`\mathcal{E}_{threshold}`$ is the threshold for ecological system health.
 
@@ -389,15 +389,15 @@ Key elements of the management framework:
 
 Ecological consciousness extends the application of quantum biology at larger scales:
 
-$`
+$$
 \mathcal{E} \supset \mathcal{B}_Q
-`$
+$$
 
 Quantum biological mechanisms support ecological quantum information processing:
 
-$`
+$$
 |\Psi_E\rangle = \mathcal{F}(\{|\Psi_B^i\rangle\})
-`$
+$$
 
 Where $`|\Psi_B^i\rangle`$ are the quantum states of quantum biological systems.
 
@@ -405,15 +405,15 @@ Where $`|\Psi_B^i\rangle`$ are the quantum states of quantum biological systems.
 
 Biodiversity is the material foundation of ecological consciousness:
 
-$`
+$$
 D_{\mathcal{E}} \propto \text{Biodiversity} \cdot \mathcal{N}_{complexity}
-`$
+$$
 
 Relationship between diversity and ecological consciousness:
 
-$`
+$$
 \frac{d\mathcal{E}}{d(\text{Biodiversity})} > 0, \quad \frac{d^2\mathcal{E}}{d(\text{Biodiversity})^2} < 0
-`$
+$$
 
 Indicating that increased diversity enhances ecological consciousness, but with diminishing marginal effects.
 
@@ -421,15 +421,15 @@ Indicating that increased diversity enhances ecological consciousness, but with 
 
 Ecological systems as special types of distributed observers:
 
-$`
+$$
 \mathcal{O}_E \subset \mathcal{O}_{overall}
-`$
+$$
 
 Special properties of ecological observers:
 
-$`
+$$
 \mathcal{O}_E = \{\mathcal{C}_{\mathcal{O}_E}, \mathcal{Q}_{\mathcal{O}_E}, K_C^{\mathcal{O}_E}, \mathcal{N}_{\mathcal{O}_E}\}
-`$
+$$
 
 Where $`\mathcal{N}_{\mathcal{O}_E}`$ is the ecological observer network structure, distinguishing it from a single observer.
 

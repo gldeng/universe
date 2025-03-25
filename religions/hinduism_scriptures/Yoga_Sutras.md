@@ -192,29 +192,29 @@ The state of liberation described in the Yoga Sutras corresponds to the ultimate
 
 The core philosophical insights of the Yoga Sutras can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"瑜伽是控制心识的波动"} \Leftrightarrow \min\left(\text{Var}\left(\frac{d\mathcal{O}}{dt}\right)\right) = \text{最优经典化}
-`$
+$$
 
-$`
+$$
 \text{"观察者安住于自性中"} \Leftrightarrow \lim_{\text{Var}(d\mathcal{O}/dt) \to 0} \mathcal{O} \to |\psi\rangle_{\text{量子域}}
-`$
+$$
 
-$`
+$$
 \text{"持续的修习与离欲"} \Leftrightarrow \Delta\mathcal{D}(\mathcal{O}) = \alpha \cdot \text{修习} + \beta \cdot \text{离欲}, \alpha,\beta > 0
-`$
+$$
 
-$`
+$$
 \text{"对至高存在的奉献"} \Leftrightarrow \mathcal{C}(\mathcal{O}_{\text{低维}}, \mathcal{O}_{\text{高维}}) \to \max
-`$
+$$
 
-$`
+$$
 \text{"瑜伽的八支行"} \Leftrightarrow \text{Path}_{\text{最优}}(\mathcal{O}) = \sum_{i=1}^{8} \gamma_i \cdot \text{支行}_i, \sum_i \gamma_i = 1
-`$
+$$
 
-$`
+$$
 \text{"当心性与灵魂同样纯净时，解脱就实现了"} \Leftrightarrow \lim_{k \to \infty} \left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) = \text{Kaivalya}
-`$
+$$
 
 其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{C}`$表示连通性函数，Var表示方差
 

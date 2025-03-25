@@ -201,9 +201,9 @@
 
 #### 观察者经典化效率方程
 
-$`
+$$
 E = \frac{I_{\text{经典化}}}{I_{\text{量子输入}}} \times 100\%
-`$
+$$
 
 此公式可视化为效率曲线：
 
@@ -225,9 +225,9 @@ E = \frac{I_{\text{经典化}}}{I_{\text{量子输入}}} \times 100\%
 
 #### 感知维度关系式
 
-$`
+$$
 P \propto D^n
-`$
+$$
 
 其中P是感知广度，D是观察者维度，n是指数因子。
 
@@ -445,9 +445,9 @@ Below are visualizations of mathematical models describing the observer percepti
 
 #### Observer Classicalization Efficiency Equation
 
-$`
+$$
 E = \frac{I_{\text{Classicalized}}}{I_{\text{Quantum Input}}} \times 100\%
-`$
+$$
 
 This formula is visualized as an efficiency curve:
 
@@ -469,9 +469,9 @@ This formula is visualized as an efficiency curve:
 
 #### Perception Dimension Relationship
 
-$`
+$$
 P \propto D^n
-`$
+$$
 
 Where P is perception breadth, D is observer dimension, and n is the exponential factor.
 

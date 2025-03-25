@@ -26,9 +26,9 @@
 
 形式化表示为：
 
-$`
+$$
 \forall n \in \mathbb{N}, n > 2, n \text{ 为偶数} \Rightarrow \exists p, q \in \mathbb{P}, \text{使得} n = p + q
-`$
+$$
 
 其中$`\mathbb{P}`$表示所有素数的集合。
 
@@ -43,38 +43,38 @@ $`
 **公理1: 二元存在性**
 宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
 
-$`
+$$
 \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-`$
+$$
 
 **公理2: 信息守恒**
 信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
 
-$`
+$$
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}
-`$
+$$
 
 其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
 **公理3: 观察者经典化**
 观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
-$`
+$$
 \mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-`$
+$$
 
 其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
 
 **公理4: 维度涌现**
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
 
-$`
+$$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-`$
+$$
 
-$`
+$$
 \Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-`$
+$$
 
 这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
 
@@ -85,40 +85,40 @@ $`
 1. **量子域核心属性**：
    - **波函数叠加态**（混沌状态）：系统同时存在于多个可能状态
 
-$`
+$$
 \Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1
-`$
+$$
 
    - **量子纠缠态**（能量形式）：不同部分形成不可分离的整体关联
 
-$`
+$$
 \Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B
-`$
+$$
 
 2. **经典域核心属性**：
    - **经典知识**（确定信息）：可精确测量和描述的确定状态
 
-$`
+$$
 K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}
-`$
+$$
 
    - **经典熵**（不确定性量度）：系统无序度和信息丢失的度量
 
-$`
+$$
 S_C = -k_B \sum_i p_i \ln p_i
-`$
+$$
 
 3. **经典化过程**：量子→经典转换通过经典化超算符表示：
 
-$`
+$$
 \mathcal{C}(\rho) = \sum_i P_i \rho P_i
-`$
+$$
 
    其中 $`P_i`$ 是投影算符。经典化过程满足信息守恒：
 
-$`
+$$
 I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}
-`$
+$$
 
 以上公理和定义构成了量子经典二元论的基础框架，我们将基于这一框架来证明哥德巴赫猜想。
 
@@ -146,15 +146,15 @@ I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}
 - **偶数集合**（量子态集合）：$`\mathbb{E}\subseteq \Omega_Q`$
 - **经典化算符**：定义量子态偶数$`n\in\mathbb{E}`$的经典化算符$`\mathcal{C}(n)`$：
 
-$`
+$$
 \mathcal{C}(n) = \{(p,q)\mid p,q\in\mathbb{P}, p+q=n\}
-`$
+$$
 
 哥德巴赫猜想的量子经典二元论表述：
 
-$`
+$$
 \forall n\in\mathbb{E}, n>2 \rightarrow |\mathcal{C}(n)|\geq 1
-`$
+$$
 
 这种表述等价于：任何偶数量子态$`|n\rangle_Q`$都可经典化表示为素数对。
 
@@ -176,17 +176,17 @@ $`
 **证明**：
 定义偶数n的量子态表示：
 
-$`
+$$
 |n\rangle_Q = \sum_{x+y=n}\alpha_{x,y}|x,y\rangle,\quad x,y\in\mathbb{N}
-`$
+$$
 
 其中$`\alpha_{x,y}`$表示不同分解方式的振幅。
 
 当这个量子态经过经典化过程，会塌缩为特定的分解形式：
 
-$`
+$$
 \mathcal{C}: |n\rangle_Q\mapsto |p,q\rangle_C,\quad p,q\in\mathbb{P}
-`$
+$$
 
 根据量子经典二元论，如果存在一种稳定的经典化路径，那么这种路径对应的观察者节点组合（即素数对）必然存在。
 
@@ -199,20 +199,20 @@ $`
 **证明**：
 定义素数对纠缠度量：
 
-$`
+$$
 E_n(p) = \begin{cases}
 1, & \text{如果} n-p \in \mathbb{P} \\
 0, & \text{其他情况}
 \end{cases}
-`$
+$$
 
 考虑函数$`G(n) = \sum_{p \leq n, p \in \mathbb{P}} E_n(p)`$，表示偶数n可以表示为素数对之和的方式数量。
 
 根据素数定理和数论分析，当n足够大时，$`G(n) > 0`$的概率趋近于1。这可以通过Hardy-Littlewood猜想得到进一步支持，该猜想预测：
 
-$`
+$$
 G(n) \sim C \cdot \frac{n}{\log^2 n} \prod_{p>2, p|n} \frac{p-1}{p-2}
-`$
+$$
 
 其中C是一个正常数。
 
@@ -229,17 +229,17 @@ G(n) \sim C \cdot \frac{n}{\log^2 n} \prod_{p>2, p|n} \frac{p-1}{p-2}
 
 根据信息守恒公理，对于任意偶数量子态$`|n\rangle_Q`$，其经典化后信息为：
 
-$`
+$$
 I(|n\rangle_Q) = I(\mathcal{C}_D(n)) + I_{\text{隐藏}}(n) = \text{常数}
-`$
+$$
 
 若出现$`|\mathcal{C}_{D_0}(n)|= 0`$，则必然：
 - $`I(\mathcal{C}_{D_0}(n))=0`$，所有信息均隐藏在$`I_{\text{隐藏}}(n)`$
 - 根据维度涌现公理，高维观察者的经典域可以成为低维观察者的量子域：
 
-$`
+$$
 \Omega_Q^{(低维)} \subset \Omega_C^{(高维)},\quad D_{\text{高维}}>D_{\text{低维}}
-`$
+$$
 
 因此，若偶数n在维度$`D_0`$中无法经典化，则必然存在更高维度$`D_1 > D_0`$，使得$`|\mathcal{C}_{D_1}(n)|\geq 1`$。
 
@@ -247,9 +247,9 @@ $`
 
 由此可见，对于任何大于2的偶数n，必然存在某个维度D，使得n在该维度上可经典化为素数对：
 
-$`
+$$
 \forall n\in\mathbb{E}, n>2,\quad \exists D\in\mathcal{D}, |\mathcal{C}_D(n)|\geq 1
-`$
+$$
 
 通过反证法，我们证明了在量子经典二元论框架下，哥德巴赫猜想在某个维度域中必然成立。从宇宙整体角度看，偶数的素数对表示是其量子态经典化的必然结果。
 
@@ -334,9 +334,8 @@ $`
 $$r_n(p) = \begin{cases}
 1, & \text{如果} \; n-p \in \mathbb{P} \\
 0, & \text{否则}
-\end{cases}
+\end{cases}$$
 
-$`
 进一步定义 $`R(n) = \sum_{p \leq n/2, p \in \mathbb{P}} r_n(p)`$，表示偶数 $`n`$ 可表示为素数和的方式数量。
 
 **证明**：
@@ -346,17 +345,17 @@ $`
 4. 由于 $`S(n)`$ 是集合，根据ZFC公理，其基数 $`|S(n)|`$ 明确定义。$`\blacksquare`$
 
 **引理 3** (渐近公式)：对于充分大的偶数 $`n`$，有：
-`$
 
+$$
 R(n) \sim \mathfrak{S}(n) \cdot \frac{n}{(\ln n)^2}
+$$
 
-$`
 其中 $`\mathfrak{S}(n)`$ 是奇异级数，定义为：
-`$
 
+$$
 \mathfrak{S}(n) = \prod_{p>2, p \mid n} \frac{p-1}{p-2} \cdot \prod_{p>2, p \nmid n} \frac{p(p-2)}{(p-1)^2}
+$$
 
-$`
 **证明草图**：
 1. 使用解析数论中的圆方法（由Hardy-Littlewood发展）。
 2. 根据ZFC公理中的替代公理和无穷公理，无穷乘积是合法构造。
@@ -439,11 +438,11 @@ The Goldbach Conjecture is one of the most famous unsolved problems in number th
 **Strong Goldbach Conjecture**: Every even integer greater than 2 can be expressed as the sum of two prime numbers.
 
 Formally expressed as:
-`$
 
+$$
 \forall n \in \mathbb{N}, n > 2, n \text{ is even} \Rightarrow \exists p, q \in \mathbb{P}, \text{such that} n = p + q
+$$
 
-$`
 where $`\mathbb{P}`$ represents the set of all prime numbers.
 
 Besides the Strong Goldbach Conjecture, there is also the Weak Goldbach Conjecture (every odd number greater than 5 can be expressed as the sum of three prime numbers), which was proven in 2013. This paper will focus on proving the Strong Goldbach Conjecture.
@@ -454,42 +453,40 @@ This proof is based on the Quantum-Classical Dualism framework, which is constit
 
 **Axiom 1: Dual Existence**
 The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$:
-`$
 
+$$
 \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
+$$
 
-$`
 **Axiom 2: Information Conservation**
 Information is conserved throughout the universe, but can be transformed between quantum information (possibility information in superposition states) and classical information (definite knowledge):
-`$
 
+$$
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}
+$$
 
-$`
 where $`\mathcal{C}`$ is the classicalization operator (the process of transforming quantum possibilities into classical determinism), $`I(\psi)`$ is the total information content of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the part transformed into hidden information during the classicalization process.
 
 **Axiom 3: Observer Classicalization**
 Observers are nodes that execute quantum→classical transformation, and their transformation capacity determines their dimension:
-`$
 
+$$
 \mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
+$$
 
-$`
 where $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (ability to transform quantum possibilities into definite knowledge), $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (ability to transform classical knowledge back into quantum possibilities), $`K_C^\mathcal{O}`$ is the observer's classical knowledge base, and $`\epsilon`$ is a small constant to prevent division by zero.
 
 **Axiom 4: Dimensional Emergence**
 Observer dimension is a function of classicalization capacity and quantization capacity, and the classical domain of higher-dimensional observers can serve as the quantum domain basis for lower-dimensional observers:
-`$
 
+$$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
+$$
 
-$`
-
-`$
-
+$$
 \Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
+$$
 
-$`
 This indicates that reality is composed of multi-layered nested quantum-classical domains, with each level of observer perceiving and interacting on specific dimensions based on their capability range.
 
 ### Key Definitions
@@ -498,42 +495,42 @@ Before applying the above axiom system to prove the Goldbach Conjecture, we prov
 
 1. **Core Properties of Quantum Domain**:
    - **Wave Function Superposition States** (chaos states): Systems simultaneously exist in multiple possible states
-`$
 
+$$
 \Psi_S = \sum_{i} \alpha_i |i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1
+$$
 
-$`
-- **Quantum Entanglement States** (energy form): Different parts form inseparable holistic correlations
-`$
+   - **Quantum Entanglement States** (energy form): Different parts form inseparable holistic correlations
 
+$$
 \Psi_E = \sum_{i,j} \beta_{ij} |i\rangle_A \otimes |j\rangle_B
+$$
 
-$`
 2. **Core Properties of Classical Domain**:
    - **Classical Knowledge** (definite information): Definite states that can be precisely measured and described
-`$
 
+$$
 K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}
+$$
 
-$`
-- **Classical Entropy** (measure of uncertainty): Measure of system disorder and information loss
-`$
+   - **Classical Entropy** (measure of uncertainty): Measure of system disorder and information loss
 
+$$
 S_C = -k_B \sum_i p_i \ln p_i
+$$
 
-$`
 3. **Classicalization Process**: Quantum→classical transformation is represented by the classicalization super-operator:
-`$
 
+$$
 \mathcal{C}(\rho) = \sum_i P_i \rho P_i
+$$
 
-$`
-where $`P_i`$ is the projection operator. The classicalization process satisfies information conservation:
-`$
+   where $`P_i`$ is the projection operator. The classicalization process satisfies information conservation:
 
+$$
 I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}
+$$
 
-$`
 The above axioms and definitions constitute the basic framework of Quantum-Classical Dualism, upon which we will base our proof of the Goldbach Conjecture.
 
 ## Quantum-Classical Perspective Analysis
@@ -559,17 +556,17 @@ Before proceeding with a detailed proof of the Goldbach Conjecture, we first pro
 - **Set of Prime Numbers** (classical observer nodes): $`\mathbb{P}\subseteq \Omega_C`$
 - **Set of Even Numbers** (quantum state collection): $`\mathbb{E}\subseteq \Omega_Q`$
 - **Classicalization Operator**: Define the classicalization operator for quantum state even number $`n\in\mathbb{E}`$ as:
-`$
 
+$$
 \mathcal{C}(n) = \{(p,q)\mid p,q\in\mathbb{P}, p+q=n\}
+$$
 
-$`
 The Quantum-Classical Dualism formulation of the Goldbach Conjecture:
-`$
 
+$$
 \forall n\in\mathbb{E}, n>2 \rightarrow |\mathcal{C}(n)|\geq 1
+$$
 
-$`
 This formulation is equivalent to: any even quantum state $`|n\rangle_Q`$ can be classicalized as a representation of prime pairs.
 
 ### Lemma 1: Primes as Fundamental Classical Observer Nodes
@@ -589,19 +586,19 @@ The irregularity in the distribution of primes reflects the complexity in the pr
 
 **Proof**:
 Define the quantum state representation of an even number n:
-`$
 
+$$
 |n\rangle_Q = \sum_{x+y=n}\alpha_{x,y}|x,y\rangle,\quad x,y\in\mathbb{N}
+$$
 
-$`
 where $`\alpha_{x,y}`$ represents the amplitude of different decomposition methods.
 
 When this quantum state undergoes classicalization, it collapses into a specific decomposition form:
-`$
 
+$$
 \mathcal{C}: |n\rangle_Q\mapsto |p,q\rangle_C,\quad p,q\in\mathbb{P}
+$$
 
-$`
 According to Quantum-Classical Dualism, if there exists a stable classicalization path, then the observer node combination corresponding to this path (i.e., the prime pair) must exist.
 
 For an even number n, its most stable classicalization path should be realized through a combination of fundamental observer nodes (primes), as this minimizes the growth of information entropy.
@@ -612,22 +609,22 @@ For an even number n, its most stable classicalization path should be realized t
 
 **Proof**:
 Define the prime pair entanglement metric:
-`$
 
+$$
 E_n(p) = \begin{cases}
 1, & \text{if } n-p \in \mathbb{P} \\
 0, & \text{otherwise}
 \end{cases}
+$$
 
-$`
 Consider the function $`G(n) = \sum_{p \leq n, p \in \mathbb{P}} E_n(p)`$, representing the number of ways the even number n can be expressed as the sum of a prime pair.
 
 According to the Prime Number Theorem and number theory analysis, when n is sufficiently large, the probability that $`G(n) > 0`$ approaches 1. This is further supported by the Hardy-Littlewood conjecture, which predicts:
-`$
 
+$$
 G(n) \sim C \cdot \frac{n}{\log^2 n} \prod_{p>2, p|n} \frac{p-1}{p-2}
+$$
 
-$`
 where C is a positive constant.
 
 From the quantum-classical perspective, this indicates that as the even number n increases, although the number of possible paths for its quantum state to collapse into prime pair representations decreases relative to n, it always remains positive, meaning there is at least one effective classicalization path.
@@ -642,29 +639,29 @@ Introduce the dimensional continuum $`\mathcal{D}`$ and dimension-related classi
 Assume there exists an even number n greater than 2 that cannot be expressed as the sum of two prime numbers in the current dimensional domain $`D_0`$. This means $`|\mathcal{C}_{D_0}(n)|= 0`$, i.e., the quantum state of n has no classicalization path to a prime pair in the current dimension.
 
 According to the information conservation axiom, for any even quantum state $`|n\rangle_Q`$, its information after classicalization is:
-`$
 
+$$
 I(|n\rangle_Q) = I(\mathcal{C}_D(n)) + I_{\text{hidden}}(n) = \text{constant}
+$$
 
-$`
 If $`|\mathcal{C}_{D_0}(n)|= 0`$ occurs, then necessarily:
 - $`I(\mathcal{C}_{D_0}(n))=0`$, all information is hidden in $`I_{\text{hidden}}(n)`$
 - According to the dimensional emergence axiom, the classical domain of higher-dimensional observers can become the quantum domain for lower-dimensional observers:
-`$
 
+$$
 \Omega_Q^{(\text{lower})} \subset \Omega_C^{(\text{higher})},\quad D_{\text{higher}}>D_{\text{lower}}
+$$
 
-$`
 Therefore, if even number n cannot be classicalized in dimension $`D_0`$, there must exist a higher dimension $`D_1 > D_0`$ such that $`|\mathcal{C}_{D_1}(n)|\geq 1`$.
 
 Recursively, if it cannot be classicalized in all finite dimensions, this would lead to the even number state permanently remaining in a completely quantum state and unable to be observed by any observer, which violates the principle of information conservation.
 
 Thus, for any even number n greater than 2, there must exist some dimension D such that n can be classicalized as a prime pair in that dimension:
-`$
 
+$$
 \forall n\in\mathbb{E}, n>2,\quad \exists D\in\mathcal{D}, |\mathcal{C}_D(n)|\geq 1
+$$
 
-$`
 Through proof by contradiction, we have proven that under the Quantum-Classical Dualism framework, the Goldbach Conjecture necessarily holds in some dimensional domain. From the perspective of the universe as a whole, the prime pair representation of even numbers is the inevitable result of the classicalization of their quantum states.
 
 ### Main Theorem: Goldbach Conjecture
@@ -744,14 +741,12 @@ Within the framework of the ZFC axiom system, we define:
 **Proof**: The Prime Number Theorem has been proven within the ZFC system, see the work of [Hadamard (1896)] and [de la Vallée Poussin (1896)]. $`\blacksquare`$
 
 **Lemma 2** (Prime Pair Counting Function): For any even number $`n \in \mathbb{E}`$, define the function $`r_n: \mathbb{P} \rightarrow \{0,1\}`$, where:
-`$
 
-r_n(p) = \begin{cases}
+$$r_n(p) = \begin{cases}
 1, & \text{if } n-p \in \mathbb{P} \\
 0, & \text{otherwise}
-\end{cases}
+\end{cases}$$
 
-$`
 Further define $`R(n) = \sum_{p \leq n/2, p \in \mathbb{P}} r_n(p)`$, representing the number of ways the even number $`n`$ can be expressed as the sum of primes.
 
 **Proof**:
@@ -761,16 +756,15 @@ Further define $`R(n) = \sum_{p \leq n/2, p \in \mathbb{P}} r_n(p)`$, representi
 4. Since $`S(n)`$ is a set, its cardinality $`|S(n)|`$ is well-defined according to ZFC axioms. $`\blacksquare`$
 
 **Lemma 3** (Asymptotic Formula): For sufficiently large even numbers $`n`$, we have:
-`$
 
+$$
 R(n) \sim \mathfrak{S}(n) \cdot \frac{n}{(\ln n)^2}
+$$
 
-$`
 where $`\mathfrak{S}(n)`$ is the singular series, defined as:
-`$
 
+$$
 \mathfrak{S}(n) = \prod_{p>2, p \mid n} \frac{p-1}{p-2} \cdot \prod_{p>2, p \nmid n} \frac{p(p-2)}{(p-1)^2}
-
 $$
 
 **Proof Sketch**:

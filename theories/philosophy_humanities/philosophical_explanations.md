@@ -34,9 +34,9 @@ In the Quantum Universe-Observer framework, the mind-body problem is redefined a
 
 The relationship between mind and body can be represented as:
 
-$`
+$$
 \text{意识} = \text{经典化}(\text{大脑处理的量子信息})
-`$
+$$
 
 这一解释避免了二元论的困境，也避免了还原论的局限，提供了一种信息一元论的视角，其中物质和意识都是量子信息的不同表现形式。
 
@@ -66,9 +66,9 @@ In the Quantum Universe-Observer framework, free will can be understood as the o
 
 Free will can be represented as the observer's choice among multiple possible classicalization paths:
 
-$`
+$$
 \text{自由意志} = \text{观察者在} \{|\psi_1\rangle_{\text{经典}}, |\psi_2\rangle_{\text{经典}}, \ldots\} \text{中的选择}
-`$
+$$
 
 这一解释将自由意志理解为量子-经典界面上的现象，既不是完全的决定论，也不是完全的随机性，而是观察者在量子可能性空间中的导航能力。
 
@@ -98,9 +98,9 @@ In the Quantum Universe-Observer framework, reality is understood as a multi-lev
 
 The multi-level structure of reality can be represented as:
 
-$`
+$$
 \text{实在} = \{\text{量子实在}, \text{观察者}_1\text{的经典实在}, \text{观察者}_2\text{的经典实在}, \ldots, \text{共享实在}\}
-`$
+$$
 
 这一解释超越了传统的实在论与反实在论之争，提出了一种"信息实在论"，认为实在的本质是信息，而不同层次的实在对应于不同的信息处理方式。
 
@@ -130,9 +130,9 @@ In the Quantum Universe-Observer framework, knowledge is understood as the obser
 
 The relationship between knowledge and reality can be represented as:
 
-$`
+$$
 \text{知识} = \text{观察者对} |\psi\rangle_{\text{宇宙}} \text{的经典化表示} \approx |\psi\rangle_{\text{经典}}
-`$
+$$
 
 这一解释将知识论问题转化为信息处理问题，强调了知识的相对性、局限性和可扩展性。
 
@@ -162,9 +162,9 @@ In the Quantum Universe-Observer framework, meaning and value are understood as 
 
 The relationship between meaning and information structure can be represented as:
 
-$`
+$$
 \text{意义} = \text{观察者信息结构中的关联模式} = f(\text{信息连贯性}, \text{目的性})
-`$
+$$
 
 这一解释将意义和价值问题纳入信息理论框架，避免了纯主观主义和纯客观主义的局限，提供了一种基于信息结构的价值理论。
 
@@ -194,9 +194,9 @@ In the Quantum Universe-Observer framework, time and change are understood as sp
 
 The relationship between time and information processing can be represented as:
 
-$`
+$$
 \text{时间} = \text{观察者信息经典化的序列} = \{t_1, t_2, \ldots, t_n\}
-`$
+$$
 
 这一解释将时间和变化理解为观察者信息处理的内在结构，而非独立于观察者的绝对存在。
 
@@ -226,9 +226,9 @@ In the Quantum Universe-Observer framework, language is understood as an encodin
 
 The relationship between language and information can be represented as:
 
-$`
+$$
 \text{语言} = \text{编码}(\text{经典化信息}) = \{\text{符号}, \text{语法}, \text{语义}\}
-`$
+$$
 
 这一解释将语言理解为经典信息的编码系统，强调了语言的社会性、相对性和功能性。
 
@@ -258,9 +258,9 @@ In the Quantum Universe-Observer framework, aesthetics is understood as the perc
 
 The relationship between beauty and information structure can be represented as:
 
-$`
+$$
 \text{美} = f(\text{信息结构的和谐性}, \text{复杂性}, \text{意义性})
-`$
+$$
 
 这一解释将美学理解为信息结构的特殊模式感知，既有主观成分（观察者的感知能力），也有客观基础（信息结构的特性）。
 

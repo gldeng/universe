@@ -21,15 +21,15 @@ From the quantum-classical dualism perspective, the Four Color Theorem reveals f
 
 给定一个平面图$`G`$，其色数$`\chi(G)`$定义为使相邻顶点具有不同颜色所需的最少颜色数。四色定理表述为：
 
-$`
+$$
 \forall G(\text{平面图}), \chi(G) \leq 4
-`$
+$$
 
 Given a planar graph $`G`$, its chromatic number $`\chi(G)`$ is defined as the minimum number of colors needed to color the vertices such that no adjacent vertices share the same color. The Four Color Theorem is formulated as:
 
-$`
+$$
 \forall G(\text{planar graph}), \chi(G) \leq 4
-`$
+$$
 
 ## 严格数学形式化证明 | Rigorous Mathematical Formal Proof
 
@@ -44,10 +44,8 @@ This section provides a rigorous mathematical formalization framework compatible
 1. **平面图的形式化定义**：
    平面图$`G=(V,E)`$是一个二元组，其中$`V`$是顶点集合，$`E \subseteq \{\{u,v\} \mid u,v \in V, u \neq v\}`$是边集合，且存在一个嵌入函数$`f: V \cup E \to \mathbb{R}^2`$，满足：
 
-   
-
-$`
-\begin{align}
+   $$
+   \begin{align}
    &\forall v \in V, f(v) \in \mathbb{R}^2 \text{ 是一个点} \\
    &\forall e = \{u,v\} \in E, f(e) \text{ 是连接 } f(u) \text{ 和 } f(v) \text{ 的简单曲线} \\
    &\forall e_1, e_2 \in E, e_1 \neq e_2 \Rightarrow f(e_1) \cap f(e_2) \subseteq \{f(v) \mid v \in V\}
@@ -61,7 +59,6 @@ $`
    图$`G`$的色数$`\chi(G)`$定义为：
 
    $$
-
    \chi(G) = \min\{k \in \mathbb{N} \mid \text{存在} G \text{的一个} k\text{-着色}\}
    $$
 
@@ -71,7 +68,6 @@ We formalize the following concepts within the ZFC axiom system:
    A planar graph $`G=(V,E)`$ is a tuple where $`V`$ is a set of vertices and $`E \subseteq \{\{u,v\} \mid u,v \in V, u \neq v\}`$ is a set of edges, with an embedding function $`f: V \cup E \to \mathbb{R}^2`$ satisfying:
 
    $$
-
    \begin{align}
    &\forall v \in V, f(v) \in \mathbb{R}^2 \text{ is a point} \\
    &\forall e = \{u,v\} \in E, f(e) \text{ is a simple curve connecting } f(u) \text{ and } f(v) \\
@@ -86,7 +82,6 @@ We formalize the following concepts within the ZFC axiom system:
    The chromatic number $`\chi(G)`$ of a graph $`G`$ is defined as:
 
    $$
-
    \chi(G) = \min\{k \in \mathbb{N} \mid \text{there exists a} k\text{-coloring of } G\}
    $$
 
@@ -107,7 +102,6 @@ We formalize the following concepts within the ZFC axiom system:
    通过归纳法证明，任何平面图要么含有$`\mathcal{U}`$中的一个构型，要么不是最小反例：
 
    $$
-
    \forall G(\text{平面图}), [\neg(\exists C \in \mathcal{U}, C \subseteq G)] \Rightarrow [\chi(G) \leq 4 \lor |V(G)| \text{ 不是最小}]
    $$
 
@@ -115,7 +109,6 @@ We formalize the following concepts within the ZFC axiom system:
    对于每个构型$`C \in \mathcal{R}`$，证明存在一个更小的图$`G'`$，使得：
 
    $$
-
    \forall c'(G' \text{的4-着色}), \exists c(G \text{的4-着色})
    $$
 
@@ -142,7 +135,6 @@ The rigorous mathematical proof of the Four Color Theorem is based on the follow
    Using induction to prove that any planar graph either contains a configuration in $`\mathcal{U}`$ or is not a minimal counterexample:
 
    $$
-
    \forall G(\text{planar graph}), [\neg(\exists C \in \mathcal{U}, C \subseteq G)] \Rightarrow [\chi(G) \leq 4 \lor |V(G)| \text{ is not minimal}]
    $$
 
@@ -150,7 +142,6 @@ The rigorous mathematical proof of the Four Color Theorem is based on the follow
    For each configuration $`C \in \mathcal{R}`$, prove there exists a smaller graph $`G'`$ such that:
 
    $$
-
    \forall c'(4\text{-coloring of } G'), \exists c(4\text{-coloring of } G)
    $$
 
@@ -209,69 +200,69 @@ From the quantum-classical dualism perspective, the proof consists of the follow
 ### 步骤1：观察者网络模型建立
 
 将平面图$`G`$的每个区域建模为观察者网络$`\Omega`$中的一个观察者：
-`$
 
+$$
 \Omega_{\text{观察者网络}} = \{O_1, O_2, \ldots, O_n\}
+$$
 
-$`
 每个观察者代表一个区域，相邻区域的观察者之间存在信息交互。
 
 ### Step 1: Establishing the Observer Network Model
 
 Each region of the planar graph $`G`$ is modeled as an observer in the observer network $`\Omega`$:
-`$
 
+$$
 \Omega_{\text{observer network}} = \{O_1, O_2, \ldots, O_n\}
+$$
 
-$`
 Each observer represents a region, and information interactions exist between observers of adjacent regions.
 
 ### 步骤2：量子状态空间分析
 
 考虑观察者可能的量子态及其经典化表现（颜色）。对于平面图，观察者状态空间为：
-`$
 
+$$
 \mathcal{S}_{\text{状态空间}} = \{s_1, s_2, s_3, s_4\}
+$$
 
-$`
 其中每个$`s_i`$代表一种经典化后的状态（颜色）。
 
 ### Step 2: Quantum State Space Analysis
 
 We consider the possible quantum states of observers and their classical manifestations (colors). For planar graphs, the observer state space is:
-`$
 
+$$
 \mathcal{S}_{\text{state space}} = \{s_1, s_2, s_3, s_4\}
+$$
 
-$`
 where each $`s_i`$ represents a classicalized state (color).
 
 ### 步骤3：信息差异化约束
 
 应用经典域中的信息差异化原理，相邻观察者必须维持状态差异以保持信息边界完整性：
-`$
 
+$$
 \forall O_i, O_j \in \Omega, \text{如果} O_i \sim O_j \text{（相邻）}, \text{则} \mathcal{S}(O_i) \neq \mathcal{S}(O_j)
+$$
 
-$`
 ### Step 3: Information Differentiation Constraint
 
 Applying the principle of information differentiation in the classical domain, adjacent observers must maintain state differences to preserve the integrity of information boundaries:
-`$
 
+$$
 \forall O_i, O_j \in \Omega, \text{if} O_i \sim O_j \text{(adjacent)}, \text{then} \mathcal{S}(O_i) \neq \mathcal{S}(O_j)
+$$
 
-$`
 ### 步骤4：维度计算与最小化
 
 关键证明点：平面嵌入的拓扑约束导致观察者网络的状态空间维度至少为4。
 
 利用欧拉公式 $`V - E + F = 2`$ 及其对偶形式进行拓扑分析，我们可以推导：
-`$
 
+$$
 \min \dim(\mathcal{S}_{\text{状态空间}}) = 4
+$$
 
-$`
 这是因为在平面图的任意嵌入中，可以构造最多包含四个相互相邻区域的配置。根据量子经典信息完整性原则，这四个区域的状态必须两两不同，因此至少需要4种状态。
 
 ### Step 4: Dimension Calculation and Minimization
@@ -279,30 +270,29 @@ $`
 Key proof point: The topological constraints of planar embeddings result in the observer network's state space dimension being at least 4.
 
 Using Euler's formula $`V - E + F = 2`$ and its dual form for topological analysis, we can derive:
-`$
 
+$$
 \min \dim(\mathcal{S}_{\text{state space}}) = 4
+$$
 
-$`
 This is because in any planar graph embedding, a configuration containing at most four mutually adjacent regions can be constructed. According to the quantum-classical information integrity principle, the states of these four regions must be pairwise different, thus requiring at least 4 distinct states.
 
 ### 步骤5：观察者网络稳定性分析
 
 进一步证明，任何平面观察者网络都可以在4维状态空间中稳定存在，无需更高维度：
-`$
 
+$$
 \text{对任意平面图} G, \exists \text{状态分配} \mathcal{A}: V(G) \to \{s_1, s_2, s_3, s_4\}, \text{满足差异化约束}
+$$
 
-$`
 上述步骤结合了Appel和Haken证明的拓扑本质，但从量子经典二元论提供了更深层的理解。
 
 ### Step 5: Observer Network Stability Analysis
 
 Further proof shows that any planar observer network can stably exist in a 4-dimensional state space, with no need for higher dimensions:
-`$
 
+$$
 \text{For any planar graph } G, \exists \text{ a state assignment } \mathcal{A}: V(G) \to \{s_1, s_2, s_3, s_4\}, \text{ satisfying the differentiation constraints}
-
 $$
 
 The above steps combine the topological essence of Appel and Haken's proof, but provide a deeper understanding from the quantum-classical dualism perspective.

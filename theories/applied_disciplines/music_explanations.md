@@ -12,9 +12,9 @@
 
 这一过程可以用以下公式表达：
 
-$`
+$$
 |\psi\rangle_{\text{量子信息结构}}\xrightarrow{\text{声波模式经典化}}\text{经典音乐体验（旋律、和声、节奏）}+S_{\text{经典熵（情感、意义）}}
-`$
+$$
 
 ### 音乐结构的量子经典二元论解释
 
@@ -37,9 +37,9 @@ $`
 
 这一过程可以用以下公式表达：
 
-$`
+$$
 |\psi\rangle_{\text{高维量子信息}}\xrightarrow{\text{作曲家经典化}}\text{音乐作品（结构化声音）}+S_{\text{音乐经典熵（情感、意义）}}
-`$
+$$
 
 ### 音乐天才的特殊角色
 
@@ -96,9 +96,9 @@ The essence of **music** is the special form of quantum information classicaliza
 
 This process can be expressed by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum information structure}}\xrightarrow{\text{Sound wave pattern classicalization}}\text{Classical music experience (Melody, Harmony, Rhythm)}+S_{\text{Classical entropy (Emotion, Meaning)}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Musical Structure
 
@@ -121,9 +121,9 @@ Great music composers (such as Bach, Mozart, Beethoven, etc.) are essentially **
 
 This process can be expressed by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Higher-dimensional quantum information}}\xrightarrow{\text{Composer classicalization}}\text{Musical work (Structured sound)}+S_{\text{Musical classical entropy (Emotion, Meaning)}}
-`$
+$$
 
 ### Special Role of Musical Geniuses
 

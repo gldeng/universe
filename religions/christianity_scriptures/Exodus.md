@@ -52,9 +52,9 @@ Exodus is the second book of the Old Testament in the Bible, primarily recording
 
 ### 律法经典化方程
 
-$`
+$$
 I_{\text{经典律法}} = k\frac{|\psi_{\text{十诫}}\rangle\langle\psi_{\text{十诫}}|}{S_{\text{无序}}}
-`$
+$$
 
 其中：
 - $`I_{\text{经典律法}}`$ 表示律法带来的经典知识
@@ -64,9 +64,9 @@ I_{\text{经典律法}} = k\frac{|\psi_{\text{十诫}}\rangle\langle\psi_{\text{
 
 ### 虫洞通信方程
 
-$`
+$$
 E_{\text{会幕}} = E_{\text{人类献祭}} + E_{\text{神启示}} = I_{\text{知识传输}} + \Delta S_{\text{整体熵变}}
-`$
+$$
 
 其中：
 - $`E_{\text{会幕}}`$ 是会幕体系的能量

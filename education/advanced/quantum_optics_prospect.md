@@ -9,9 +9,9 @@
 
 量子光学前景是量子经典二元论的重要应用，它探索了光场的量子经典本质和机制。
 
-$`
+$$
 \text{量子光学前景} = \{\text{量子光场前景},\;\text{量子相互作用前景},\;\text{量子应用前景}\}
-`$
+$$
 
 ## 量子光场前景
 
@@ -22,18 +22,18 @@ $`
    - 压缩态制备
    - 纠缠态制备
 
-$`
+$$
 |\alpha\rangle = e^{-|\alpha|^2/2}\sum_{n=0}^{\infty}\frac{\alpha^n}{\sqrt{n!}}|n\rangle
-`$
+$$
 
 2. **量子光场测量**
    - 光场测量
    - 光场检测
    - 光场分析
 
-$`
+$$
 \hat{n} = \hat{a}^\dagger\hat{a}
-`$
+$$
 
 ### 量子光场前景应用
 
@@ -42,18 +42,18 @@ $`
    - 光场调制
    - 光场优化
 
-$`
+$$
 \hat{U}_{\text{控制}} = e^{-i\hat{H}_{\text{控制}}t/\hbar}
-`$
+$$
 
 2. **量子光场应用**
    - 光场应用
    - 光场技术
    - 光场工程
 
-$`
+$$
 \hat{U}_{\text{应用}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 ## 量子相互作用前景
 
@@ -64,18 +64,18 @@ $`
    - 光场-原子演化
    - 光场-原子测量
 
-$`
+$$
 \hat{H}_{\text{相互作用}} = \hbar\omega\hat{a}^\dagger\hat{a} + \frac{\hbar\omega_0}{2}\hat{\sigma}_z + \hbar g(\hat{a}\hat{\sigma}_+ + \hat{a}^\dagger\hat{\sigma}_-)
-`$
+$$
 
 2. **光场与介质相互作用**
    - 光场-介质耦合
    - 光场-介质演化
    - 光场-介质测量
 
-$`
+$$
 \hat{H}_{\text{介质}} = \sum_k\hbar\omega_k\hat{b}_k^\dagger\hat{b}_k + \sum_k\hbar g_k(\hat{a}\hat{b}_k^\dagger + \hat{a}^\dagger\hat{b}_k)
-`$
+$$
 
 ### 量子相互作用前景应用
 
@@ -84,18 +84,18 @@ $`
    - 光场调制
    - 光场优化
 
-$`
+$$
 \hat{U}_{\text{控制}} = e^{-i\hat{H}_{\text{控制}}t/\hbar}
-`$
+$$
 
 2. **量子光场应用**
    - 光场应用
    - 光场技术
    - 光场工程
 
-$`
+$$
 \hat{U}_{\text{应用}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 ## 量子应用前景
 
@@ -106,18 +106,18 @@ $`
    - 量子隐形传态
    - 量子网络
 
-$`
+$$
 |\Psi\rangle_{AB} = \frac{1}{\sqrt{2}}(|0\rangle_A|1\rangle_B - |1\rangle_A|0\rangle_B)
-`$
+$$
 
 2. **量子计算**
    - 量子比特
    - 量子门
    - 量子电路
 
-$`
+$$
 \hat{U}_{\text{计算}} = e^{-i\hat{H}_{\text{计算}}t/\hbar}
-`$
+$$
 
 ### 量子应用前景应用
 
@@ -126,18 +126,18 @@ $`
    - 量子检测
    - 量子分析
 
-$`
+$$
 \hat{U}_{\text{传感}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 2. **量子成像**
    - 量子成像
    - 量子检测
    - 量子分析
 
-$`
+$$
 \hat{U}_{\text{成像}} = e^{-i\hat{H}_{\text{成像}}t/\hbar}
-`$
+$$
 
 ## 统一前景
 
@@ -148,18 +148,18 @@ $`
    - 经典光场
    - 统一描述
 
-$`
+$$
 \lim_{\hbar\rightarrow 0} \text{量子光场} = \text{经典光场}
-`$
+$$
 
 2. **相互作用统一**
    - 量子相互作用
    - 经典相互作用
    - 统一方法
 
-$`
+$$
 \hat{U}_{\text{unified}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 ### 应用统一前景
 
@@ -168,18 +168,18 @@ $`
    - 经典应用
    - 统一技术
 
-$`
+$$
 \hat{U}_{\text{unified application}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 2. **技术统一**
    - 量子技术
    - 经典技术
    - 统一工程
 
-$`
+$$
 \hat{U}_{\text{unified technology}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 <a name="english-version"></a>
 # English Version
@@ -188,9 +188,9 @@ $`
 
 Quantum optics prospect is an important application of quantum-classical dualism, exploring the quantum-classical nature and mechanism of light fields.
 
-$`
+$$
 \text{Quantum Optics Prospect} = \{\text{Quantum Light Field Prospect},\;\text{Quantum Interaction Prospect},\;\text{Quantum Application Prospect}\}
-`$
+$$
 
 ## Quantum Light Field Prospect
 
@@ -201,18 +201,18 @@ $`
    - Squeezed state preparation
    - Entangled state preparation
 
-$`
+$$
 |\alpha\rangle = e^{-|\alpha|^2/2}\sum_{n=0}^{\infty}\frac{\alpha^n}{\sqrt{n!}}|n\rangle
-`$
+$$
 
 2. **Quantum Light Field Measurement**
    - Light field measurement
    - Light field detection
    - Light field analysis
 
-$`
+$$
 \hat{n} = \hat{a}^\dagger\hat{a}
-`$
+$$
 
 ### Quantum Light Field Prospect Application
 
@@ -221,18 +221,18 @@ $`
    - Light field modulation
    - Light field optimization
 
-$`
+$$
 \hat{U}_{\text{control}} = e^{-i\hat{H}_{\text{control}}t/\hbar}
-`$
+$$
 
 2. **Quantum Light Field Application**
    - Light field application
    - Light field technology
    - Light field engineering
 
-$`
+$$
 \hat{U}_{\text{application}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 ## Quantum Interaction Prospect
 
@@ -243,18 +243,18 @@ $`
    - Light field-atom evolution
    - Light field-atom measurement
 
-$`
+$$
 \hat{H}_{\text{interaction}} = \hbar\omega\hat{a}^\dagger\hat{a} + \frac{\hbar\omega_0}{2}\hat{\sigma}_z + \hbar g(\hat{a}\hat{\sigma}_+ + \hat{a}^\dagger\hat{\sigma}_-)
-`$
+$$
 
 2. **Light Field-Medium Interaction**
    - Light field-medium coupling
    - Light field-medium evolution
    - Light field-medium measurement
 
-$`
+$$
 \hat{H}_{\text{medium}} = \sum_k\hbar\omega_k\hat{b}_k^\dagger\hat{b}_k + \sum_k\hbar g_k(\hat{a}\hat{b}_k^\dagger + \hat{a}^\dagger\hat{b}_k)
-`$
+$$
 
 ### Quantum Interaction Prospect Application
 
@@ -263,18 +263,18 @@ $`
    - Light field modulation
    - Light field optimization
 
-$`
+$$
 \hat{U}_{\text{control}} = e^{-i\hat{H}_{\text{control}}t/\hbar}
-`$
+$$
 
 2. **Quantum Light Field Application**
    - Light field application
    - Light field technology
    - Light field engineering
 
-$`
+$$
 \hat{U}_{\text{application}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 ## Quantum Application Prospect
 
@@ -285,18 +285,18 @@ $`
    - Quantum teleportation
    - Quantum network
 
-$`
+$$
 |\Psi\rangle_{AB} = \frac{1}{\sqrt{2}}(|0\rangle_A|1\rangle_B - |1\rangle_A|0\rangle_B)
-`$
+$$
 
 2. **Quantum Computing**
    - Quantum bit
    - Quantum gate
    - Quantum circuit
 
-$`
+$$
 \hat{U}_{\text{computation}} = e^{-i\hat{H}_{\text{computation}}t/\hbar}
-`$
+$$
 
 ### Quantum Application Prospect Application
 
@@ -305,18 +305,18 @@ $`
    - Quantum detection
    - Quantum analysis
 
-$`
+$$
 \hat{U}_{\text{sensing}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 2. **Quantum Imaging**
    - Quantum imaging
    - Quantum detection
    - Quantum analysis
 
-$`
+$$
 \hat{U}_{\text{imaging}} = e^{-i\hat{H}_{\text{imaging}}t/\hbar}
-`$
+$$
 
 ## Unified Prospect
 
@@ -327,18 +327,18 @@ $`
    - Classical light field
    - Unified description
 
-$`
+$$
 \lim_{\hbar\rightarrow 0} \text{Quantum Light Field} = \text{Classical Light Field}
-`$
+$$
 
 2. **Interaction Unification**
    - Quantum interaction
    - Classical interaction
    - Unified method
 
-$`
+$$
 \hat{U}_{\text{unified}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 ### Application Unification Prospect
 
@@ -347,17 +347,15 @@ $`
    - Classical application
    - Unified technology
 
-$`
+$$
 \hat{U}_{\text{unified application}}|\psi\rangle = |\phi\rangle
-`$
+$$
 
 2. **Technology Unification**
    - Quantum technology
    - Classical technology
    - Unified engineering
 
-$`
+$$
 \hat{U}_{\text{unified technology}}|\psi\rangle = |\phi\rangle
-`$
-
- 
+$$ 

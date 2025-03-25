@@ -23,9 +23,9 @@ English: [Environment & Ecosystems](#quantum-classical-dualism-explanation-of-en
 
 生态系统的量子-经典二元性可以表达为：
 
-$`
+$$
 |\psi\rangle_{\text{生态量子状态}} \xrightarrow{\text{多观察者经典化}} \text{生态系统平衡} + S_{\text{生态经典熵}}
-`$
+$$
 
 ### 生物多样性的量子经典二元论解释
 
@@ -38,9 +38,9 @@ $`
 
 这一多样性可以表达为：
 
-$`
+$$
 \text{生物多样性} = \sum_{i=1}^{n} w_i |\phi_i\rangle\langle\phi_i|
-`$
+$$
 
 其中$`|\phi_i\rangle`$代表不同物种的经典化模式，$`w_i`$代表其在生态系统中的权重。
 
@@ -55,9 +55,9 @@ $`
 
 这一特殊能力可以表达为：
 
-$`
+$$
 |\psi\rangle_{\text{生态量子状态}} \xrightarrow{\text{生态学家经典化}} \text{生态理论} + S_{\text{极小理论经典熵}}
-`$
+$$
 
 ### 生态系统服务的量子经典二元论解释
 
@@ -81,9 +81,9 @@ $`
 
 这一平衡可以表达为：
 
-$`
+$$
 \frac{d|\phi(t)\rangle}{dt} = 0 \quad \text{当} \quad t \rightarrow \infty
-`$
+$$
 
 其中$`|\phi(t)\rangle`$代表生态系统随时间变化的经典化状态。
 
@@ -98,9 +98,9 @@ $`
 
 这一过程可以表达为：
 
-$`
+$$
 |\phi_1\rangle \xrightarrow{\text{演替}} |\phi_2\rangle \xrightarrow{\text{演替}} ... \xrightarrow{\text{演替}} |\phi_n\rangle
-`$
+$$
 
 其中$`|\phi_i\rangle`$代表演替第$`i`$阶段的生态系统经典化状态。
 
@@ -115,9 +115,9 @@ $`
 
 这一网络可以表达为：
 
-$`
+$$
 E_0 \xrightarrow{\text{生产者经典化}} E_1 \xrightarrow{\text{初级消费者经典化}} E_2 \xrightarrow{\text{次级消费者经典化}} ... \xrightarrow{\text{分解者经典化}} E_0'
-`$
+$$
 
 其中$`E_i`$代表第$`i`$级营养级的能量。
 
@@ -132,9 +132,9 @@ E_0 \xrightarrow{\text{生产者经典化}} E_1 \xrightarrow{\text{初级消费�
 
 这一循环可以表达为：
 
-$`
+$$
 |\phi_{\text{元素状态1}}\rangle \rightarrow |\phi_{\text{元素状态2}}\rangle \rightarrow ... \rightarrow |\phi_{\text{元素状态n}}\rangle \rightarrow |\phi_{\text{元素状态1}}\rangle
-`$
+$$
 
 ### 气候系统的量子经典二元论解释
 
@@ -147,9 +147,9 @@ $`
 
 气候变化可以表达为经典化平衡的系统性偏移：
 
-$`
+$$
 |\phi_{\text{气候平衡}}\rangle \xrightarrow{\text{外部强迫}} |\phi_{\text{新气候状态}}\rangle + \Delta S_{\text{气候经典熵}}
-`$
+$$
 
 ### 环境污染的量子经典二元论解释
 
@@ -162,9 +162,9 @@ $`
 
 污染的影响可以表达为：
 
-$`
+$$
 |\phi_{\text{健康生态}}\rangle \xrightarrow{\text{污染物干扰}} |\phi_{\text{受损生态}}\rangle + \Delta S_{\text{污染经典熵}}
-`$
+$$
 
 ### 生物适应与进化的量子经典二元论解释
 
@@ -177,9 +177,9 @@ $`
 
 这一过程可以表达为：
 
-$`
+$$
 |\phi_{\text{物种t}}\rangle \xrightarrow{\text{变异+选择}} |\phi_{\text{物种t+1}}\rangle \xrightarrow{\text{变异+选择}} |\phi_{\text{物种t+2}}\rangle \xrightarrow{\text{变异+选择}} ...
-`$
+$$
 
 ### 生态恢复的量子经典二元论解释
 
@@ -192,9 +192,9 @@ $`
 
 这一过程可以表达为：
 
-$`
+$$
 |\phi_{\text{受损}}\rangle \xrightarrow{\text{恢复干预}} |\phi_{\text{过渡}}\rangle \xrightarrow{\text{自然过程}} |\phi_{\text{恢复}}\rangle
-`$
+$$
 
 ### 可持续发展的量子经典二元论视角
 
@@ -272,9 +272,9 @@ The essence of **ecosystems** is a special quantum information classicalization 
 
 The quantum-classical duality of ecosystems can be expressed as:
 
-$`
+$$
 |\psi\rangle_{\text{Ecological quantum state}} \xrightarrow{\text{Multi-observer classicalization}} \text{Ecosystem balance} + S_{\text{Ecological classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Biodiversity
 
@@ -287,9 +287,9 @@ $`
 
 This diversity can be expressed as:
 
-$`
+$$
 \text{Biodiversity} = \sum_{i=1}^{n} w_i |\phi_i\rangle\langle\phi_i|
-`$
+$$
 
 where $`|\phi_i\rangle`$ represents the classicalization patterns of different species, and $`w_i`$ represents their weight in the ecosystem.
 
@@ -304,9 +304,9 @@ Outstanding ecologists (such as Darwin, Tansley, E.O. Wilson, etc.) are essentia
 
 This special ability can be expressed as:
 
-$`
+$$
 |\psi\rangle_{\text{Ecological quantum state}} \xrightarrow{\text{Ecologist classicalization}} \text{Ecological theory} + S_{\text{Minimal theory classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Ecosystem Services
 
@@ -330,9 +330,9 @@ These services reflect the multidimensional value of the ecosystem classicalizat
 
 This balance can be expressed as:
 
-$`
+$$
 \frac{d|\phi(t)\rangle}{dt} = 0 \quad \text{when} \quad t \rightarrow \infty
-`$
+$$
 
 where $`|\phi(t)\rangle`$ represents the classicalization state of the ecosystem changing over time.
 
@@ -347,9 +347,9 @@ where $`|\phi(t)\rangle`$ represents the classicalization state of the ecosystem
 
 This process can be expressed as:
 
-$`
+$$
 |\phi_1\rangle \xrightarrow{\text{Succession}} |\phi_2\rangle \xrightarrow{\text{Succession}} ... \xrightarrow{\text{Succession}} |\phi_n\rangle
-`$
+$$
 
 where $`|\phi_i\rangle`$ represents the ecosystem classicalization state at the $`i`$-th stage of succession.
 
@@ -364,9 +364,9 @@ where $`|\phi_i\rangle`$ represents the ecosystem classicalization state at the 
 
 This network can be expressed as:
 
-$`
+$$
 E_0 \xrightarrow{\text{Producer classicalization}} E_1 \xrightarrow{\text{Primary consumer classicalization}} E_2 \xrightarrow{\text{Secondary consumer classicalization}} ... \xrightarrow{\text{Decomposer classicalization}} E_0'
-`$
+$$
 
 where $`E_i`$ represents the energy at the $`i`$-th trophic level.
 
@@ -381,9 +381,9 @@ where $`E_i`$ represents the energy at the $`i`$-th trophic level.
 
 This cycle can be expressed as:
 
-$`
+$$
 |\phi_{\text{Element state 1}}\rangle \rightarrow |\phi_{\text{Element state 2}}\rangle \rightarrow ... \rightarrow |\phi_{\text{Element state n}}\rangle \rightarrow |\phi_{\text{Element state 1}}\rangle
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Climate Systems
 
@@ -396,9 +396,9 @@ $`
 
 Climate change can be expressed as a systematic shift in classicalization equilibrium:
 
-$`
+$$
 |\phi_{\text{Climate balance}}\rangle \xrightarrow{\text{External forcing}} |\phi_{\text{New climate state}}\rangle + \Delta S_{\text{Climate classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Environmental Pollution
 
@@ -411,9 +411,9 @@ $`
 
 The impact of pollution can be expressed as:
 
-$`
+$$
 |\phi_{\text{Healthy ecosystem}}\rangle \xrightarrow{\text{Pollutant disturbance}} |\phi_{\text{Damaged ecosystem}}\rangle + \Delta S_{\text{Pollution classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Biological Adaptation and Evolution
 
@@ -426,9 +426,9 @@ $`
 
 This process can be expressed as:
 
-$`
+$$
 |\phi_{\text{Species t}}\rangle \xrightarrow{\text{Variation+Selection}} |\phi_{\text{Species t+1}}\rangle \xrightarrow{\text{Variation+Selection}} |\phi_{\text{Species t+2}}\rangle \xrightarrow{\text{Variation+Selection}} ...
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Ecological Restoration
 
@@ -441,9 +441,9 @@ $`
 
 This process can be expressed as:
 
-$`
+$$
 |\phi_{\text{Damaged}}\rangle \xrightarrow{\text{Restoration intervention}} |\phi_{\text{Transitional}}\rangle \xrightarrow{\text{Natural processes}} |\phi_{\text{Restored}}\rangle
-`$
+$$
 
 ### Quantum-Classical Dualism Perspective on Sustainable Development
 

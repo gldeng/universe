@@ -29,9 +29,11 @@
 
 蒙克的艺术代表了内在量子意识状态向外在经典表达的独特转化通道。他突破了传统艺术对经典现实的忠实再现，创造了通向量子情感和意识状态的视觉语言。
 
-$`
+$$
+
 |\psi\rangle_{\text{内在情感状态}} \xrightarrow{\text{蒙克艺术}} I_{\text{视觉表达}} + S_{\text{观者解读开放性}}
-`$
+
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +42,6 @@ $`
    蒙克的艺术本质是将难以直接表达的量子内在体验转化为可视的经典形式：
 
    $$
-
    
    |\psi\rangle_{\text{无形心理状态（量子域）}} \xrightarrow{\text{艺术创作}} I_{\text{可视表现（经典域）}}
    
@@ -53,7 +54,6 @@ $`
    蒙克对现代人焦虑的关注体现了量子不确定性在经典域的情感表现：
 
    $$
-
    
    S_{\text{存在不确定性（量子域）}} \xrightarrow{\text{艺术经典化}} I_{\text{焦虑表达（《焦虑》）}}
    
@@ -66,7 +66,6 @@ $`
    生死循环主题反映了生命过程的量子纠缠特性：
 
    $$
-
    
    |\psi\rangle_{\text{生}} \otimes |\psi\rangle_{\text{死}} \otimes |\psi\rangle_{\text{爱}} \otimes |\psi\rangle_{\text{痛苦}} \xrightarrow{\text{艺术整合}} I_{\text{生命之舞}}
    
@@ -79,7 +78,6 @@ $`
    扭曲形体和强烈色彩是量子情感非线性经典化的视觉语言：
 
    $$
-
    
    |\psi\rangle_{\text{复杂情感}} \xrightarrow{\text{非线性转化}} I_{\text{扭曲形体}} + I_{\text{非自然色彩}}
    
@@ -92,7 +90,6 @@ $`
    童年创伤转化为艺术是量子心理能量向创造性经典表达的转变：
 
    $$
-
    
    E_{\text{创伤能量（量子）}} \xrightarrow{\text{艺术转化}} I_{\text{《病童》等作品}} + \Delta S_{\text{熵减少（治愈）}}
    

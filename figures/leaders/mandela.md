@@ -29,9 +29,9 @@
 
 纳尔逊·曼德拉的生平与思想体现了量子经典二元论的核心原理，尤其是在他如何将量子可能性转化为经典现实、如何在革命与和解之间创造新的政治路径方面。曼德拉的独特贡献在于他展示了如何在保持量子开放性的同时，建立稳定的经典结构。
 
-$`
+$$
 |\psi\rangle_{\text{曼德拉政治思想}} = |\psi\rangle_{\text{革命性（量子）}} \otimes |\psi\rangle_{\text{建设性（经典）}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    曼德拉的抗争方式体现了量子可能性与经典行动之间的策略平衡：
 
    $$
-
    |\psi\rangle_{\text{抗争策略}} = \alpha|\psi\rangle_{\text{非暴力（量子对话）}} + \beta|\psi\rangle_{\text{有限武装（经典压力）}}
    $$
 
@@ -55,7 +54,6 @@ $`
    曼德拉的和解政治体现了从对抗性二元对立到量子整合的转变：
 
    $$
-
    |\psi\rangle_{\text{历史创伤}} \xrightarrow{\text{和解过程}} (I_{\text{真相承认}} + I_{\text{宽恕}})/S_{\text{怨恨熵}}
    $$
 
@@ -72,7 +70,6 @@ $`
    曼德拉的"彩虹国度"体现了量子多样性与经典统一的平衡：
 
    $$
-
    |\psi\rangle_{\text{南非民族}} = \sum_i c_i |\psi_i\rangle_{\text{多元族群身份}} \otimes I_{\text{共享公民身份}}
    $$
 
@@ -89,7 +86,6 @@ $`
    曼德拉的民主转型体现了革命量子性与制度经典性的结合：
 
    $$
-
    |\psi\rangle_{\text{政治转型}} \xrightarrow{\text{宪法制度化}} I_{\text{经典民主框架}} + |\psi\rangle_{\text{持续进步可能性}}
    $$
 
@@ -106,7 +102,6 @@ $`
    曼德拉的精神韧性体现了量子意识在经典限制下的自由：
 
    $$
-
    |\psi\rangle_{\text{内在自由}} = |\psi\rangle_{\text{精神量子状态}} - I_{\text{外在经典限制}}
    $$
 
@@ -123,7 +118,6 @@ $`
    曼德拉的关键历史决策体现了量子选择对历史进程的影响：
 
    $$
-
    |\psi\rangle_{\text{历史可能性}} \xrightarrow{\text{量子决策}} I_{\text{实现历史路径}} + \sum_j |\psi_j\rangle_{\text{未实现历史路径}}
    $$
 

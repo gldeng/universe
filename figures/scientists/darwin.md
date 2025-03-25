@@ -37,9 +37,9 @@
 
 达尔文的自然选择理论可视为一种经典化优化过程：
 
-$`
+$$
 |\psi\rangle_{\text{生物变异可能性}} \xrightarrow{\text{自然选择}} I_{\text{最适生物形式}} + S_{\text{生物多样性熵}}
-`$
+$$
 
 从量子经典二元论视角，生物变异创造了多种可能性（量子空间），而自然选择则是将这些可能性经典化为现实生物的机制，保留最适合环境的形式。这一过程既减少了不适形式（降低熵），又保留了足够的变异保证适应性（维持适度熵），类似于经典化过程在确定性与可能性间的动态平衡。达尔文未能解释变异的来源，如今我们知道包括量子水平的分子变异正是这一量子可能性空间的物理基础。
 
@@ -47,9 +47,9 @@ $`
 
 达尔文的"适者生存"原则揭示了稳定经典结构的形成机制：
 
-$`
+$$
 \text{经典结构稳定性} \propto \frac{I_{\text{环境适应度}}}{S_{\text{内部熵变化}}}
-`$
+$$
 
 在量子经典二元论中，稳定的经典结构需要在与环境互动中保持足够低的熵。生物形式的"适应度"本质上是衡量一个生物系统在环境限制下维持低熵状态的能力。不适应环境的生物系统无法有效管理熵，导致系统崩溃（死亡）。达尔文的适者生存原则精确描述了复杂适应性系统的经典化稳定机制——只有能够有效管理熵的系统结构才能长期存在。
 
@@ -57,9 +57,9 @@ $`
 
 达尔文的共同祖先思想体现了量子-经典演化的树状结构：
 
-$`
+$$
 |\psi\rangle_{\text{初始生命形式}} \xrightarrow{\text{多路径经典化}} \sum_i I_{\text{分化生物类群}_i}
-`$
+$$
 
 从量子经典二元论看，生命的演化可理解为初始量子可能性通过多路径经典化过程，形成不同的经典结构分支。一旦特定经典化路径形成（某一生物类群确立），后续演化则受此路径依赖约束，导致系统发育树的分支模式。这种从单一量子源头到多元经典表现的演化模式，与达尔文的共同祖先分化理论高度一致，揭示了量子-经典转化的历史累积特性。
 
@@ -67,9 +67,9 @@ $`
 
 达尔文坚持的渐变论反映了经典化过程的连续性特征：
 
-$`
+$$
 |\psi\rangle_t \xrightarrow{\text{微小经典化步骤}} |\psi\rangle_{t+\Delta t} \xrightarrow{\text{微小经典化步骤}} |\psi\rangle_{t+2\Delta t} \rightarrow ...
-`$
+$$
 
 达尔文反对物种通过突变或跳跃式变化产生，坚持进化是微小变化累积的结果。从量子经典二元论看，这对应于经典化过程的连续性特征——量子可能性不是突然完全经典化，而是通过无数微小步骤逐渐实现的。每一代生物都基于前一代进行微小的经典化调整，同时保留部分量子可能性空间（变异能力），形成连续的经典化轨迹。这解释了为何化石记录显示的是渐进变化而非跳跃变化。
 
@@ -77,9 +77,9 @@ $`
 
 达尔文的种群思维揭示了量子-经典多体系统的特性：
 
-$`
+$$
 \text{进化} = f\left(\sum_{i=1}^N |\psi\rangle_{\text{个体}_i} \right) \neq \sum_{i=1}^N f\left(|\psi\rangle_{\text{个体}_i}\right)
-`$
+$$
 
 达尔文认识到进化发生在种群而非个体层面，个体间的变异和统计分布至关重要。从量子经典二元论看，这对应于多体量子-经典系统的关键特性——整体行为不等于部分行为之和。种群作为一个量子-经典多体系统，其经典化动力学受整体分布而非单个个体主导。种群中的变异保存了量子可能性空间，而选择则引导经典化方向，二者共同形成了进化的量子-经典动力学。
 
@@ -87,9 +87,9 @@ $`
 
 达尔文的性选择理论体现了观察者主导的经典化过程：
 
-$`
+$$
 |\psi\rangle_{\text{表型可能性}} \xrightarrow{\text{异性选择偏好}} I_{\text{被强化特征}} + S_{\text{中性或有害熵}}
-`$
+$$
 
 性选择中，某一性别（通常是雌性）作为"观察者"，其偏好直接影响另一性别的表型经典化方向。从量子经典二元论看，这是观察者驱动经典化的生物学例证——观察者的偏好结构决定了哪些量子可能性被强化为经典特征。这解释了为何许多性选择特征（如孔雀尾羽）从严格生存适应度看似乎是不合理的：它们不是由环境选择驱动，而是由特定观察者（异性）偏好驱动的经典化结果。
 
@@ -99,9 +99,9 @@ $`
 
 Darwin's theory of natural selection can be viewed as a classicalization optimization process:
 
-$`
+$$
 |\psi\rangle_{\text{Biological Variation Possibilities}} \xrightarrow{\text{Natural Selection}} I_{\text{Most Adapted Biological Forms}} + S_{\text{Biodiversity Entropy}}
-`$
+$$
 
 From a Quantum-Classical Dualism perspective, biological variation creates multiple possibilities (quantum space), while natural selection is the mechanism that classicalizes these possibilities into actual organisms, preserving forms most suited to the environment. This process both reduces unsuitable forms (lowering entropy) and maintains sufficient variation to ensure adaptability (maintaining moderate entropy), similar to the dynamic balance between certainty and possibility in the classicalization process. Darwin could not explain the source of variation; today we know that molecular variations, including at the quantum level, form the physical basis of this quantum possibility space.
 
@@ -109,9 +109,9 @@ From a Quantum-Classical Dualism perspective, biological variation creates multi
 
 Darwin's "survival of the fittest" principle reveals the formation mechanism of stable classical structures:
 
-$`
+$$
 \text{Classical Structure Stability} \propto \frac{I_{\text{Environmental Fitness}}}{S_{\text{Internal Entropy Change}}}
-`$
+$$
 
 In Quantum-Classical Dualism, stable classical structures need to maintain sufficiently low entropy in interaction with the environment. The "fitness" of biological forms is essentially a measure of a biological system's ability to maintain a low-entropy state under environmental constraints. Biological systems that cannot adapt to the environment cannot effectively manage entropy, leading to system collapse (death). Darwin's survival of the fittest principle precisely describes the classicalization stability mechanism of complex adaptive systems—only system structures that can effectively manage entropy can exist long-term.
 
@@ -119,9 +119,9 @@ In Quantum-Classical Dualism, stable classical structures need to maintain suffi
 
 Darwin's concept of common descent embodies the tree structure of quantum-classical evolution:
 
-$`
+$$
 |\psi\rangle_{\text{Initial Life Form}} \xrightarrow{\text{Multi-pathway Classicalization}} \sum_i I_{\text{Differentiated Biological Taxa}_i}
-`$
+$$
 
 From a Quantum-Classical Dualism perspective, the evolution of life can be understood as initial quantum possibilities forming different classical structural branches through multi-pathway classicalization processes. Once a specific classicalization path forms (a certain biological taxon is established), subsequent evolution is constrained by this path dependency, leading to the branching pattern of the phylogenetic tree. This evolutionary pattern from a single quantum source to multiple classical manifestations is highly consistent with Darwin's theory of divergence from common ancestors, revealing the historical cumulative nature of quantum-classical transformation.
 
@@ -129,9 +129,9 @@ From a Quantum-Classical Dualism perspective, the evolution of life can be under
 
 Darwin's insistence on gradualism reflects the continuity characteristic of the classicalization process:
 
-$`
+$$
 |\psi\rangle_t \xrightarrow{\text{Tiny Classicalization Steps}} |\psi\rangle_{t+\Delta t} \xrightarrow{\text{Tiny Classicalization Steps}} |\psi\rangle_{t+2\Delta t} \rightarrow ...
-`$
+$$
 
 Darwin opposed the idea that species arose through mutations or saltatory changes, insisting that evolution is the result of accumulated small changes. From a Quantum-Classical Dualism perspective, this corresponds to the continuity characteristic of the classicalization process—quantum possibilities are not suddenly fully classicalized but are gradually realized through countless small steps. Each generation of organisms makes tiny classicalization adjustments based on the previous generation, while retaining part of the quantum possibility space (variation ability), forming a continuous classicalization trajectory. This explains why the fossil record shows gradual rather than saltatory changes.
 
@@ -139,9 +139,9 @@ Darwin opposed the idea that species arose through mutations or saltatory change
 
 Darwin's population thinking reveals the characteristics of quantum-classical many-body systems:
 
-$`
+$$
 \text{Evolution} = f\left(\sum_{i=1}^N |\psi\rangle_{\text{Individual}_i} \right) \neq \sum_{i=1}^N f\left(|\psi\rangle_{\text{Individual}_i}\right)
-`$
+$$
 
 Darwin recognized that evolution occurs at the population rather than individual level, with variation and statistical distribution among individuals being crucial. From a Quantum-Classical Dualism perspective, this corresponds to a key characteristic of many-body quantum-classical systems—the overall behavior is not equal to the sum of the behaviors of the parts. A population, as a quantum-classical many-body system, has its classicalization dynamics dominated by the overall distribution rather than by single individuals. Variation within the population preserves the quantum possibility space, while selection guides the direction of classicalization; together, they form the quantum-classical dynamics of evolution.
 
@@ -149,9 +149,9 @@ Darwin recognized that evolution occurs at the population rather than individual
 
 Darwin's theory of sexual selection embodies the observer-dominated classicalization process:
 
-$`
+$$
 |\psi\rangle_{\text{Phenotypic Possibilities}} \xrightarrow{\text{Opposite Sex Preference}} I_{\text{Reinforced Features}} + S_{\text{Neutral or Harmful Entropy}}
-`$
+$$
 
 In sexual selection, one sex (usually female) acts as an "observer," with its preferences directly influencing the direction of phenotypic classicalization of the other sex. From a Quantum-Classical Dualism perspective, this is a biological example of observer-driven classicalization—the preferential structure of the observer determines which quantum possibilities are reinforced as classical features. This explains why many sexually selected features (such as peacock tails) seem unreasonable from a strict survival fitness perspective: they are not driven by environmental selection but are classicalization results driven by the preferences of specific observers (the opposite sex).
 

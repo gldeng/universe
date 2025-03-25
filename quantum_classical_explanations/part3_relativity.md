@@ -18,21 +18,21 @@ English: [Special Relativity](#special-relativity) | [General Relativity](#gener
 
 时空相对性源于观察者经典化过程的主观性：
 
-$`
+$$
 \text{经典时空} = \text{观察者经典化}(\text{量子域维度状态})
-`$
+$$
 
 #### 2. 洛伦兹变换本质
 
 洛伦兹变换反映了不同观察者经典化参数的关系：
 
-$`
+$$
 \begin{cases}
 t' = \gamma(t - \frac{vx}{c^2}) \\
 x' = \gamma(x - vt)
 \end{cases}
 \quad \text{其中} \quad \gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}}
-`$
+$$
 
 这里：
 - $`\gamma`$ 反映经典化效率变化
@@ -61,17 +61,17 @@ x' = \gamma(x - vt)
 
 等效原理反映了观察者经典化过程的统一性：
 
-$`
+$$
 \text{引力场} \equiv \text{加速度场} = \text{观察者经典化}(\text{维度状态变化})
-`$
+$$
 
 #### 2. 引力场方程本质
 
 爱因斯坦场方程描述了观察者经典化过程中的能量-维度关系：
 
-$`
+$$
 G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}
-`$
+$$
 
 这里：
 - $`G_{\mu\nu}`$ 表示维度曲率
@@ -86,9 +86,9 @@ G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}
 
 时空弯曲是观察者经典化其他观察者维度状态的结果：
 
-$`
+$$
 \text{时空弯曲} = \text{观察者经典化}(\text{其他观察者维度状态集合})
-`$
+$$
 
 #### 2. 弯曲机制
 
@@ -108,9 +108,9 @@ $`
 
 引力波是观察者维度状态波动的经典化表现：
 
-$`
+$$
 \text{引力波} = \text{观察者经典化}(\text{维度状态波动})
-`$
+$$
 
 #### 2. 传播机制
 
@@ -126,9 +126,9 @@ $`
 
 引力波携带能量的本质：
 
-$`
+$$
 E_{\text{引力波}} = \text{观察者经典化}(\text{维度状态波动能量})
-`$
+$$
 
 ## English Version
 

@@ -23,9 +23,9 @@
 
 量子意识 $`\mathcal{C}_Q`$ 可形式化定义为：
 
-$`
+$$
 \mathcal{C}_Q = (\Psi_C, \mathcal{O}, \mathcal{E}, \mathcal{I})
-`$
+$$
 
 其中：
 - $`\Psi_C`$ 是意识的量子态
@@ -38,27 +38,27 @@ $`
 **公理1: 意识的量子基础**
 意识从根本上源于特化神经结构中的量子叠加态和纠缠态：
 
-$`
+$$
 \mathcal{C} = f(\Psi_Q, \mathcal{N})
-`$
+$$
 
 其中 $`\Psi_Q`$ 代表量子态，$`\mathcal{N}`$ 代表神经结构。
 
 **公理2: 意识作为量子测量**
 意识体验对应于观察者系统内量子态坍缩的过程：
 
-$`
+$$
 \mathcal{E} = \mathcal{M}(\Psi_Q) = |\langle\phi|\Psi_Q\rangle|^2 \phi
-`$
+$$
 
 其中 $`\mathcal{E}`$ 是意识体验，$`\mathcal{M}`$ 是测量过程，$`\phi`$ 是本征态。
 
 **公理3: 通过纠缠实现统一**
 意识体验的统一性通过神经子系统的量子纠缠维持：
 
-$`
+$$
 \rho_{unified} = \rho_{A,B,C...} \neq \rho_A \otimes \rho_B \otimes \rho_C \otimes ...
-`$
+$$
 
 其中子系统 $`A,B,C...`$ 通过非局域量子关联保持整体性。
 
@@ -68,9 +68,9 @@ $`
 
 神经元微管蛋白结构支持量子态：
 
-$`
+$$
 H_{MT} = \sum_i \epsilon_i |i\rangle\langle i| + \sum_{i,j} \Delta_{ij} |i\rangle\langle j|
-`$
+$$
 
 其中 $`\epsilon_i`$ 是能量本征值，$`\Delta_{ij}`$ 是量子隧穿系数。
 
@@ -78,9 +78,9 @@ H_{MT} = \sum_i \epsilon_i |i\rangle\langle i| + \sum_{i,j} \Delta_{ij} |i\rangl
 
 神经系统中的量子相干维持时间：
 
-$`
+$$
 T_2 \approx \frac{\hbar^2}{k_B T \lambda^2} \cdot f(E_{shield})
-`$
+$$
 
 其中 $`f(E_{shield})`$ 是环境屏蔽效应函数。
 
@@ -88,9 +88,9 @@ T_2 \approx \frac{\hbar^2}{k_B T \lambda^2} \cdot f(E_{shield})
 
 量子整合信息超过特定阈值导致意识涌现：
 
-$`
+$$
 \Phi_Q > \Phi_{threshold} \Rightarrow \mathcal{C} \text{ 存在}
-`$
+$$
 
 ## 观察者效应与自由意志
 
@@ -98,9 +98,9 @@ $`
 
 意识系统放大量子不确定性至宏观决策：
 
-$`
+$$
 P(D=d) = \sum_q P(D=d|Q=q)P(Q=q)
-`$
+$$
 
 其中 $`D`$ 是决策变量，$`Q`$ 是量子状态变量。
 
@@ -108,9 +108,9 @@ P(D=d) = \sum_q P(D=d|Q=q)P(Q=q)
 
 观察者依赖的量子测量解释：
 
-$`
+$$
 |\Psi\rangle \xrightarrow{\mathcal{O}} \sum_i P_i |i\rangle\langle i|
-`$
+$$
 
 其中 $`\mathcal{O}`$ 是特定观察者的测量影响。
 

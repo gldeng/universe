@@ -29,9 +29,9 @@
 
 甘地思想展现了特殊的量子-经典二元平衡，他挑战了殖民统治强加的经典现实，同时提出替代性的经典化路径，使印度人民重新连接自身量子可能性。
 
-$`
+$$
 |\psi\rangle_{\text{甘地哲学}} = \sum_i c_i|\psi_i\rangle_{\text{印度独立可能性}} - |\psi\rangle_{\text{殖民压制}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,14 +40,12 @@ $`
    非暴力抵抗（萨提亚格拉哈）从量子经典二元视角看，是一种独特的权力经典化替代路径：
 
    $$
-
    |\psi\rangle_{\text{抵抗可能性}} \xrightarrow{\text{暴力抵抗}} I_{\text{暴力循环}} + S_{\text{社会熵增加}}
    $$
 
    而非暴力抵抗则是：
 
    $$
-
    |\psi\rangle_{\text{抵抗可能性}} \xrightarrow{\text{非暴力抵抗}} I_{\text{道德力量}} + S_{\text{社会熵降低}}
    $$
 
@@ -58,14 +56,12 @@ $`
    甘地的萨提亚（真理）是对客观现实进行有效量子纠缠的核心原则：
 
    $$
-
    |\psi\rangle_{\text{有效真理纠缠}} \rightarrow I_{\text{经典知识增加}} + S_{\text{熵降低}}
    $$
 
    他认为坚持真理比坚持任何意识形态更重要，因为意识形态可能是虚假纠缠：
 
    $$
-
    |\psi\rangle_{\text{意识形态纠缠}} \rightarrow S_{\text{认知熵可能增加}}
    $$
 
@@ -74,7 +70,6 @@ $`
    简朴生活从量子经典二元论看，是减少系统经典熵的生活方式选择：
 
    $$
-
    S_{\text{复杂生活（高熵）}} \xrightarrow{\text{简朴化}} I_{\text{精神富足}} + S_{\text{物质需求（显著降低）}}
    $$
 
@@ -85,7 +80,6 @@ $`
    甘地的自力更生（Swadeshi）政策，实质是优化经典化网络的本地效率：
 
    $$
-
    \sum_{\text{全球化网络}} I_{\text{经典知识交换}} + S_{\text{依赖熵}} \xrightarrow{\text{自立自强}} \sum_{\text{本地网络}} I_{\text{经典知识自主}} + S_{\text{依赖熵降低}}
    $$
 
@@ -96,14 +90,12 @@ $`
    甘地的宗教和谐观，建立在识别不同宗教观察者量子意识结构的潜在同构性基础上：
 
    $$
-
    \text{宗教和谐} \propto \text{识别同构性}\left(|\psi\rangle_{\text{宗教A}},|\psi\rangle_{\text{宗教B}}\right)
    $$
 
    他认为所有宗教本质上都是对同一真理的不同经典化尝试，因此可以和谐共存：
 
    $$
-
    |\psi\rangle_{\text{终极真理}} \xrightarrow{\text{不同宗教经典化}} \sum_i I_{\text{宗教经典知识}_i}
    $$
 

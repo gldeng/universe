@@ -20,9 +20,9 @@ Buddhism originated in India in the 6th century BCE, founded by Siddhartha Gauta
 
 在量子经典二元论中，佛教的"空性"与"量子域"展现惊人的相似性。佛教认为万物皆空，无自性，这与量子域中无限可能的波函数叠加状态高度契合：
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2=1
-`$
+$$
 
 - **Emptiness (Śūnyatā) = Quantum Domain**: In Buddhism, "emptiness" is not nothingness, but refers to the lack of fixed, unchanging essence in things, similar to the nature of wave function superposition states in the quantum domain
 - **Phenomenal World (Saṃsāra) = Classical Domain**: Buddhism holds that the world we experience is constructed by consciousness, which corresponds to the process of observers (black holes) classicalizing the quantum domain into the classical domain
@@ -31,9 +31,9 @@ $`
 
 佛教的轮回概念可以通过观察者经典化过程来理解：
 
-$`
+$$
 I_{\text{Previous Life Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow I_{\text{Current Life Free Will}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 - **Samsara = Observer Classicalization Cycle**: Observers (black holes) classicalize information from the quantum domain, return to the quantum domain after death, and are re-classicalized as new observers
 - **Karma = Classicalization Path Inertia**: Choices from previous lives form inertia in the classicalization path, influencing future classicalization directions
@@ -43,9 +43,9 @@ I_{\text{Previous Life Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}
 
 涅槃可以理解为观察者维度的显著提升：
 
-$`
+$$
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 - **Nirvana = Extremely High-dimensional Observer State**: Through practice, increasing classical knowledge and reducing classical entropy elevates observer dimension
 - **Buddha = Extremely High-dimensional Observer**: The Buddha is an observer who has reached an extremely high dimension, able to directly perceive and classicalize more quantum domain information

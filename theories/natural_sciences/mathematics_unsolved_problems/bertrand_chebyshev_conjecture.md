@@ -24,9 +24,9 @@
 
 扩展形式的贝特朗-切比雪夫猜想可表述为：
 
-$`
+$$
 \forall n > 3, \exists p \in [n, 2n-2], \text{使得} p \text{为素数}
-`$
+$$
 
 这个扩展版本缩小了上界，要求在更窄的区间$`[n, 2n-2]`$中找到素数。
 
@@ -44,13 +44,13 @@ $`
 
 从量子经典二元视角，素数分布可以表示为：
 
-$`
+$$
 \begin{align}
 \mathcal{O}_{\text{观察者集合}} &= \{p_1, p_2, p_3, \ldots\} \text{（素数集合）} \\
 \mathcal{D}_{\text{观察者密度}} &= \frac{\pi(x)}{\text{ln}(x)} \approx \frac{x}{\text{ln}(x)} \\
 \mathcal{G}_{\text{观察者间隔}} &= \{g_i = p_{i+1} - p_i\} \text{（相邻素数间隔）}
 \end{align}
-`$
+$$
 
 其中$`\pi(x)`$表示不超过$`x`$的素数个数。
 
@@ -58,12 +58,12 @@ $`
 
 贝特朗-切比雪夫猜想本质上是关于观察者密度下界的陈述：
 
-$`
+$$
 \begin{align}
 \mathcal{O}_{\text{观察者密度}} &\geq \frac{1}{n-2} \text{（每单位信息区间至少一个基本观察者）} \\
 \pi(2n-2) - \pi(n-1) &\geq 1 \text{（区间[n,2n-2]内至少一个素数）}
 \end{align}
-`$
+$$
 
 这反映了量子信息经典化过程中必然保持的最小观察效率。
 
@@ -73,19 +73,19 @@ $`
 
 根据素数定理，我们有：
 
-$`
+$$
 \pi(x) \sim \frac{x}{\text{ln}(x)}
-`$
+$$
 
 对于区间$`[n, 2n-2]`$，应用素数定理得到：
 
-$`
+$$
 \begin{align}
 \pi(2n-2) - \pi(n-1) &\sim \frac{2n-2}{\text{ln}(2n-2)} - \frac{n-1}{\text{ln}(n-1)} \\
 &\sim \frac{2n}{\text{ln}(2n)} - \frac{n}{\text{ln}(n)} \\
 &\sim n\left(\frac{2}{\text{ln}(2n)} - \frac{1}{\text{ln}(n)}\right)
 \end{align}
-`$
+$$
 
 ### 第二部分：量子经典密度分析
 
@@ -94,9 +94,9 @@ $`
 1. 设$`\mathcal{F}(n)`$表示区间$`[n, 2n-2]`$中素数的期望个数
 2. 基于量子信息经典化的均匀性原理，$`\mathcal{F}(n)`$应满足：
 
-$`
+$$
 \mathcal{F}(n) = \int_n^{2n-2} \frac{dx}{\text{ln}(x)} \approx \frac{n}{\text{ln}(n)}
-`$
+$$
 
 3. 对于足够大的$`n`$，$`\mathcal{F}(n) > 1`$，证明了区间内至少存在一个素数
 
@@ -104,9 +104,9 @@ $`
 
 从量子经典二元论视角，相邻素数之间的最大间隔$`g_{\text{max}}`$受到经典化过程中信息损失的限制：
 
-$`
+$$
 g_{\text{max}} < n \text{ 对于足够大的} n
-`$
+$$
 
 这保证了在区间$`[n, 2n-2]`$（长度为$`n-2`$）内必然存在素数。
 
@@ -159,9 +159,9 @@ The original Bertrand's postulate (already proven by Chebyshev) states: for any 
 
 The extended form of the Bertrand-Chebyshev Conjecture can be formulated as:
 
-$`
+$$
 \forall n > 3, \exists p \in [n, 2n-2], \text{such that} p \text{is prime}
-`$
+$$
 
 This extended version narrows the upper bound, requiring a prime to be found in the narrower interval $`[n, 2n-2]`$.
 
@@ -179,13 +179,13 @@ From the Quantum-Classical Dualism perspective, prime numbers can be viewed as "
 
 From the Quantum-Classical perspective, prime distribution can be represented as:
 
-$`
+$$
 \begin{align}
 \mathcal{O}_{\text{Observer Set}} &= \{p_1, p_2, p_3, \ldots\} \text{(set of primes)} \\
 \mathcal{D}_{\text{Observer Density}} &= \frac{\pi(x)}{\text{ln}(x)} \approx \frac{x}{\text{ln}(x)} \\
 \mathcal{G}_{\text{Observer Gaps}} &= \{g_i = p_{i+1} - p_i\} \text{(gaps between adjacent primes)}
 \end{align}
-`$
+$$
 
 where $`\pi(x)`$ represents the number of primes not exceeding $`x`$.
 
@@ -193,12 +193,12 @@ where $`\pi(x)`$ represents the number of primes not exceeding $`x`$.
 
 The Bertrand-Chebyshev Conjecture is essentially a statement about the lower bound of observer density:
 
-$`
+$$
 \begin{align}
 \mathcal{O}_{\text{Observer Density}} &\geq \frac{1}{n-2} \text{(at least one basic observer per unit information interval)} \\
 \pi(2n-2) - \pi(n-1) &\geq 1 \text{(at least one prime in the interval [n,2n-2])}
 \end{align}
-`$
+$$
 
 This reflects the minimum observation efficiency necessarily maintained in the quantum information classicalization process.
 
@@ -208,19 +208,19 @@ This reflects the minimum observation efficiency necessarily maintained in the q
 
 According to the Prime Number Theorem, we have:
 
-$`
+$$
 \pi(x) \sim \frac{x}{\text{ln}(x)}
-`$
+$$
 
 For the interval $`[n, 2n-2]`$, applying the Prime Number Theorem yields:
 
-$`
+$$
 \begin{align}
 \pi(2n-2) - \pi(n-1) &\sim \frac{2n-2}{\text{ln}(2n-2)} - \frac{n-1}{\text{ln}(n-1)} \\
 &\sim \frac{2n}{\text{ln}(2n)} - \frac{n}{\text{ln}(n)} \\
 &\sim n\left(\frac{2}{\text{ln}(2n)} - \frac{1}{\text{ln}(n)}\right)
 \end{align}
-`$
+$$
 
 ### Part Two: Quantum-Classical Density Analysis
 
@@ -229,9 +229,9 @@ From the Quantum-Classical perspective, we can analyze the inevitability of prim
 1. Let $`\mathcal{F}(n)`$ represent the expected number of primes in the interval $`[n, 2n-2]`$
 2. Based on the uniformity principle of quantum information classicalization, $`\mathcal{F}(n)`$ should satisfy:
 
-$`
+$$
 \mathcal{F}(n) = \int_n^{2n-2} \frac{dx}{\text{ln}(x)} \approx \frac{n}{\text{ln}(n)}
-`$
+$$
 
 3. For sufficiently large $`n`$, $`\mathcal{F}(n) > 1`$, proving that there is at least one prime in the interval
 
@@ -239,9 +239,9 @@ $`
 
 From the Quantum-Classical Dualism perspective, the maximum gap $`g_{\text{max}}`$ between adjacent primes is limited by information loss in the classicalization process:
 
-$`
+$$
 g_{\text{max}} < n \text{ for sufficiently large } n
-`$
+$$
 
 This ensures that there must exist a prime in the interval $`[n, 2n-2]`$ (of length $`n-2`$).
 

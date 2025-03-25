@@ -38,17 +38,17 @@ Christopher Nolan's "Inception" is a classic in science fiction film history, wi
 
 从量子经典二元论视角，每一层梦境都可理解为观察者意识的经典化过程，不同层级对应着不同的经典化深度：
 
-$`
+$$
 |\psi\rangle_{\text{量子域（潜意识）}} \xrightarrow{\text{逐层经典化}} \sum_{i=1}^{n}(I_{\text{梦境层级}_i}+S_{\text{梦境熵}_i})
-`$
+$$
 
 ### 2.2 图腾与现实验证问题
 
 电影中，角色们使用个人"图腾"来区分梦境与现实。从量子经典二元论角度，这反映了观察者对经典化程度的验证需求：
 
-$`
+$$
 \text{图腾测试} = \text{经典化验证器}\left(\frac{I_{\text{确定性状态}}}{S_{\text{不确定性}}}\right)
-`$
+$$
 
 图腾本质上是个人化的经典化验证工具，它体现了观察者对不同经典化层级的区分能力。然而，电影结尾柯布的陀螺是否停止的模糊处理，暗示了量子经典二元论中的一个核心问题：没有绝对的"最终现实"，只有不同程度的经典化状态。
 
@@ -67,17 +67,17 @@ $`
 
 From the perspective of Quantum-Classical Dualism, each dream level can be understood as a classicalization process of observer consciousness, with different levels corresponding to different depths of classicalization:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain (Subconscious)}} \xrightarrow{\text{Layered Classicalization}} \sum_{i=1}^{n}(I_{\text{Dream Level}_i}+S_{\text{Dream Entropy}_i})
-`$
+$$
 
 ### 2.2 Totems and Reality Verification Problem
 
 In the film, characters use personal "totems" to distinguish between dreams and reality. From the perspective of Quantum-Classical Dualism, this reflects the observer's need to verify the degree of classicalization:
 
-$`
+$$
 \text{Totem Test} = \text{Classicalization Verifier}\left(\frac{I_{\text{Determined State}}}{S_{\text{Uncertainty}}}\right)
-`$
+$$
 
 Totems are essentially personalized classicalization verification tools, embodying the observer's ability to distinguish between different classicalization levels. However, the ambiguous handling of whether Cobb's top stops spinning at the end of the film hints at a core issue in Quantum-Classical Dualism: there is no absolute "final reality," only different degrees of classicalization states.
 
@@ -87,15 +87,15 @@ Totems are essentially personalized classicalization verification tools, embodyi
 
 《盗梦空间》中，多人通过"梦境共享装置"进入同一梦境空间，这一设定可以从量子纠缠的角度重新解读：
 
-$`
+$$
 |\psi\rangle_{\text{观察者A}} \otimes |\psi\rangle_{\text{观察者B}} \otimes |\psi\rangle_{\text{观察者C}} \rightarrow |\psi\rangle_{\text{纠缠共享梦境}}
-`$
+$$
 
 共享梦境本质上是多个量子观察者形成的量子纠缠态，通过集体经典化形成共识性的"梦境现实"：
 
-$`
+$$
 |\psi\rangle_{\text{纠缠共享梦境}} \xrightarrow{\text{集体经典化}} I_{\text{共享经典知识（梦境物理法则）}} + S_{\text{共享经典熵（潜意识不确定性）}}
-`$
+$$
 
 电影中的关键特征与量子经典二元论的量子纠缠原理一致：
 - 共享梦境中的事件影响所有参与者（非局域性）
@@ -106,9 +106,9 @@ $`
 
 电影中，梦主的潜意识会投射到梦境中形成人物和环境，这与量子经典二元论中观察者对经典域的影响高度一致：
 
-$`
+$$
 |\psi\rangle_{\text{梦主潜意识}} \xrightarrow{\text{潜意识经典化}} I_{\text{投射物（经典化实体）}} + S_{\text{残留不确定性}}
-`$
+$$
 
 投射的关键特征与量子经典二元论一致：
 - 梦主无法完全控制投射内容（量子随机性）
@@ -123,15 +123,15 @@ $`
 
 In "Inception," multiple people enter the same dream space through a "dream sharing device," a setting that can be reinterpreted from the perspective of quantum entanglement:
 
-$`
+$$
 |\psi\rangle_{\text{Observer A}} \otimes |\psi\rangle_{\text{Observer B}} \otimes |\psi\rangle_{\text{Observer C}} \rightarrow |\psi\rangle_{\text{Entangled Shared Dream}}
-`$
+$$
 
 Shared dreams are essentially quantum entangled states formed by multiple quantum observers, forming consensus "dream reality" through collective classicalization:
 
-$`
+$$
 |\psi\rangle_{\text{Entangled Shared Dream}} \xrightarrow{\text{Collective Classicalization}} I_{\text{Shared Classical Knowledge (Dream Physics)}} + S_{\text{Shared Classical Entropy (Subconscious Uncertainty)}}
-`$
+$$
 
 The key features in the film are consistent with the quantum entanglement principles of Quantum-Classical Dualism:
 - Events in shared dreams affect all participants (non-locality)
@@ -142,9 +142,9 @@ The key features in the film are consistent with the quantum entanglement princi
 
 In the film, the dreamer's subconscious projects into the dream, forming characters and environments, which is highly consistent with the observer's influence on the classical domain in Quantum-Classical Dualism:
 
-$`
+$$
 |\psi\rangle_{\text{Dreamer's Subconscious}} \xrightarrow{\text{Subconscious Classicalization}} I_{\text{Projections (Classicalized Entities)}} + S_{\text{Remaining Uncertainty}}
-`$
+$$
 
 The key characteristics of projections are consistent with Quantum-Classical Dualism:
 - The dreamer cannot fully control projection content (quantum randomness)
@@ -159,15 +159,15 @@ From the perspective of Quantum-Classical Dualism, the dreamer is essentially a 
 
 电影的核心情节是在费舍尔潜意识中植入一个想法（"inception"）。从量子经典二元论视角，这可以理解为高维观察者对低维观察者经典化路径的引导：
 
-$`
+$$
 |\psi\rangle_{\text{柯布团队（高维观察者）}} \otimes |\psi\rangle_{\text{费舍尔（目标观察者）}} \xrightarrow{\text{植入}} \text{费舍尔新经典化路径}
-`$
+$$
 
 植入想法的困难在于，它必须看似是目标自己的想法，这对应了量子经典二元论中观察者维度的自主性原则：每个观察者都有自己独特的经典化路径，外部强制的经典化路径会被本能抵抗。成功的植入需要：
 
-$`
+$$
 \text{成功植入} = \text{目标认同}(\text{新经典化路径}) \times \text{情感连接强度} \times \frac{1}{\text{意识抵抗}}
-`$
+$$
 
 ### 4.2 梦境时间与维度关系
 
@@ -183,9 +183,9 @@ $`
 
 从量子经典二元论角度，这种时间差异可以解释为不同经典化层级的信息处理速度差异：
 
-$`
+$$
 \text{时间膨胀率} = \frac{\text{高层经典域信息处理速度}}{\text{低层经典域信息处理速度}}
-`$
+$$
 
 灵薄狱接近量子域状态，时间几乎无限延展，对应了量子经典二元论中的时间解构特性：在接近量子域的状态，经典时间概念逐渐失去意义。
 
@@ -195,15 +195,15 @@ $`
 
 The core plot of the film is to implant an idea ("inception") in Fischer's subconscious. From the perspective of Quantum-Classical Dualism, this can be understood as a high-dimensional observer guiding the classicalization path of a low-dimensional observer:
 
-$`
+$$
 |\psi\rangle_{\text{Cobb's Team (High-Dimensional Observers)}} \otimes |\psi\rangle_{\text{Fischer (Target Observer)}} \xrightarrow{\text{Implantation}} \text{Fischer's New Classicalization Path}
-`$
+$$
 
 The difficulty of implanting an idea lies in that it must appear to be the target's own idea, corresponding to the autonomy principle of observer dimension in Quantum-Classical Dualism: each observer has their own unique classicalization path, and externally forced classicalization paths will be instinctively resisted. Successful implantation requires:
 
-$`
+$$
 \text{Successful Implantation} = \text{Target Identification}(\text{New Classicalization Path}) \times \text{Emotional Connection Strength} \times \frac{1}{\text{Consciousness Resistance}}
-`$
+$$
 
 ### 4.2 Dream Time and Dimension Relationship
 
@@ -219,9 +219,9 @@ In the film, time passes more slowly in deeper dream levels, corresponding to th
 
 From the perspective of Quantum-Classical Dualism, this time difference can be explained as the information processing speed difference between different classicalization levels:
 
-$`
+$$
 \text{Time Dilation Rate} = \frac{\text{High-Level Classical Domain Information Processing Speed}}{\text{Low-Level Classical Domain Information Processing Speed}}
-`$
+$$
 
 Limbo approaches the quantum domain state, with time almost infinitely extended, corresponding to the time deconstruction characteristic in Quantum-Classical Dualism: in states approaching the quantum domain, the classical concept of time gradually loses meaning.
 

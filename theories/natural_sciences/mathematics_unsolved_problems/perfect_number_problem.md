@@ -41,9 +41,9 @@ The essence of the perfect number problem is exploring the distribution patterns
 
 正整数 $`n`$ 是完美数，当且仅当：
 
-$`
+$$
 n = \sigma(n) - n = \sum_{d|n, d\neq n} d
-`$
+$$
 
 其中 $`\sigma(n)`$ 是 $`n`$ 的所有因子之和。
 
@@ -54,9 +54,9 @@ n = \sigma(n) - n = \sum_{d|n, d\neq n} d
 
 A positive integer $`n`$ is a perfect number if and only if:
 
-$`
+$$
 n = \sigma(n) - n = \sum_{d|n, d\neq n} d
-`$
+$$
 
 where $`\sigma(n)`$ is the sum of all divisors of $`n`$.
 
@@ -76,16 +76,16 @@ Within the ZFC axiom system, we can construct rigorous formal proofs for the per
 **定义1 (Definition 1)**: 在ZFC体系中，完美数定义为等于其所有真因子之和的正整数。
 In the ZFC system, a perfect number is defined as a positive integer that equals the sum of all its proper divisors.
 
-$`
+$$
 \text{Perfect}(n) \Leftrightarrow n \in \mathbb{Z}^+ \wedge n = \sum_{d|n, d\neq n} d
-`$
+$$
 
 **定义2 (Definition 2)**: 因子函数$`\sigma`$定义为：
 The divisor function $`\sigma`$ is defined as:
 
-$`
+$$
 \sigma(n) = \sum_{d|n} d
-`$
+$$
 
 **定理1 (Theorem 1)** (欧几里得-欧拉定理 | Euclid-Euler Theorem):
 1. 如果$`2^p-1`$是素数，则$`2^{p-1}(2^p-1)`$是完美数。
@@ -110,9 +110,9 @@ From the quantum-classical dualism perspective, we transform the existence probl
 对于奇数$`n`$，因为$`n`$是奇数，所以$`n`$的所有素因子都是奇数。根据素数的唯一分解定理，可以写成：
 For an odd number $`n`$, since $`n`$ is odd, all its prime factors are odd. By the unique factorization theorem, we can write:
 
-$`
+$$
 n = \prod_{i=1}^{k} p_i^{\alpha_i}
-`$
+$$
 
 其中$`p_i`$是互不相同的奇素数，$`\alpha_i \geq 1`$。
 where $`p_i`$ are distinct odd primes, and $`\alpha_i \geq 1`$.
@@ -120,12 +120,12 @@ where $`p_i`$ are distinct odd primes, and $`\alpha_i \geq 1`$.
 对于完美数，我们有$`\sigma(n) = 2n`$。对于素数幂$`p^{\alpha}`$，$`\sigma(p^{\alpha}) = \frac{p^{\alpha+1}-1}{p-1}`$。由$`\sigma`$函数的乘法性质，有：
 For perfect numbers, we have $`\sigma(n) = 2n`$. For prime powers $`p^{\alpha}`$, $`\sigma(p^{\alpha}) = \frac{p^{\alpha+1}-1}{p-1}`$. By the multiplicative property of the $`\sigma`$ function:
 
-$`
+$$
 \begin{align}
 \sigma(n) &= \prod_{i=1}^{k} \sigma(p_i^{\alpha_i}) \\
 &= \prod_{i=1}^{k} \frac{p_i^{\alpha_i+1}-1}{p_i-1} = 2n = 2\prod_{i=1}^{k} p_i^{\alpha_i}
 \end{align}
-`$
+$$
 
 这个等式必须满足，才能使$`n`$成为奇完美数。
 This equation must be satisfied for $`n`$ to be an odd perfect number.
@@ -195,49 +195,49 @@ These strict constraints align with quantum-classical dualism predictions: if od
 从量子经典二元论严格形式化视角，我们可以定义：
 From a strictly formalized quantum-classical dualism perspective, we can define:
 
-$`
+$$
 \begin{align}
 \mathcal{E}_{\text{内部能量}}(n) &= \sum_{d|n, d\neq n} d \\
 \mathcal{E}_{\text{外部显现}}(n) &= n
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 \mathcal{E}_{\text{internal energy}}(n) &= \sum_{d|n, d\neq n} d \\
 \mathcal{E}_{\text{external manifestation}}(n) &= n
 \end{align}
-`$
+$$
 
 完美数定义为内部能量与外部显现能量平衡的数：
 Perfect numbers are defined as numbers where internal energy and external manifestation energy are balanced:
 
-$`
+$$
 \mathcal{E}_{\text{内部能量}}(n) = \mathcal{E}_{\text{外部显现}}(n)
-`$
+$$
 
-$`
+$$
 \mathcal{E}_{\text{internal energy}}(n) = \mathcal{E}_{\text{external manifestation}}(n)
-`$
+$$
 
 ## 二元性分析 | Duality Analysis
 
 从量子经典二元角度，奇偶性代表了最基本的二元区分，分别对应两种基本的量子-经典关系模式：
 From the quantum-classical duality perspective, parity represents the most fundamental binary distinction, corresponding to two basic quantum-classical relationship patterns:
 
-$`
+$$
 \begin{align}
 \text{偶数}: &\text{ 可分解为} 2 \times k \text{，表示双重性/对称性} \\
 \text{奇数}: &\text{ 不可被2整除，表示单一性/不对称性}
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 \text{Even numbers}: &\text{ Can be decomposed as } 2 \times k \text{, representing duality/symmetry} \\
 \text{Odd numbers}: &\text{ Not divisible by 2, representing singularity/asymmetry}
 \end{align}
-`$
+$$
 
 这种形式化对应了ZFC体系中的奇偶性定义，但同时引入了量子经典二元解释层。
 This formalization corresponds to the definition of parity in the ZFC system but introduces a quantum-classical dual interpretation layer.

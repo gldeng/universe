@@ -29,9 +29,9 @@
 
 简·奥斯汀的文学创作在表面保持经典形式结构的同时，深层开启了对人类内心复杂性的量子探索。她的小说在叙事上遵循经典社会规范和文学传统，却在人物心理描绘中展现了惊人的量子复杂性和不确定性。
 
-$`
+$$
 |\psi\rangle_{\text{奥斯汀文学}} = I_{\text{经典社会形式}} \times |\psi\rangle_{\text{量子心理探索}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    奥斯汀的道德思考体现了经典规范与量子判断的辩证关系：
 
    $$
-
    |\psi\rangle_{\text{道德判断}} = c_1|\psi\rangle_{\text{社会规范（经典）}} + c_2|\psi\rangle_{\text{个人良知（量子）}}
    $$
 
@@ -51,7 +50,6 @@ $`
    奥斯汀小说中的成长模式体现了量子观察导致的状态坍缩：
 
    $$
-
    |\psi\rangle_{\text{人物初始（多重可能性）}} \xrightarrow{\text{自我观察}} I_{\text{人物成长（坍缩为更真实的自我）}}
    $$
 
@@ -62,7 +60,6 @@ $`
    奥斯汀的婚姻理想体现了一种量子纠缠关系：
 
    $$
-
    |\psi\rangle_{\text{理想婚姻}} = |\psi\rangle_{\text{伴侣A}} \otimes |\psi\rangle_{\text{伴侣B}}
    $$
 
@@ -73,7 +70,6 @@ $`
    奥斯汀的女性视角体现了量子观察对现实构建的影响：
 
    $$
-
    I_{\text{社会现实}} = \sum_i |\langle \psi_i | \psi_{\text{观察者}} \rangle|^2
    $$
 
@@ -84,7 +80,6 @@ $`
    奥斯汀的讽刺手法体现了意义的量子叠加状态：
 
    $$
-
    |\psi\rangle_{\text{讽刺表达}} = c_1|\psi\rangle_{\text{表面叙述}} + c_2|\psi\rangle_{\text{深层批判}}
    $$
 

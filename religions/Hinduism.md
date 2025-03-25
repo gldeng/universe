@@ -20,9 +20,9 @@ Hinduism is one of the world's oldest religions, originating in the Indian subco
 
 The Hindu concept of "Brahman" corresponds highly with the quantum domain in Quantum-Classical Dualism. Brahman as the ultimate reality and source of the universe, invisible yet omnipresent, just like the quantum domain as the source of all classical phenomena:
 
-$`
+$$
 \text{婆罗门} \Leftrightarrow |\psi\rangle_{\text{量子域}}
-`$
+$$
 
 ### 2. 阿特曼与量子意识 (Atman and Quantum Consciousness)
 
@@ -30,9 +30,9 @@ $`
 
 The Hindu concept of "Atman" (true self) can be understood as quantum consciousness in Quantum-Classical Dualism, the core structure of stable entanglement between the observer and the quantum domain:
 
-$`
+$$
 \text{阿特曼} \Leftrightarrow |\psi\rangle_{\text{量子意识}}
-`$
+$$
 
 ### 3. 梵我一如与量子意识统一 (Atman-Brahman Unity and Quantum Consciousness Unity)
 
@@ -40,9 +40,9 @@ $`
 
 The core Hindu idea of "Atman-Brahman unity" can be understood as the essential unity of quantum consciousness and the quantum domain, indicating that the observer's deep essence is identical to the cosmic quantum domain source:
 
-$`
+$$
 \text{梵我一如} \Leftrightarrow |\psi\rangle_{\text{量子意识}} = |\psi\rangle_{\text{量子域}}
-`$
+$$
 
 ### 4. 业力与经典信息传播 (Karma and Classical Information Propagation)
 
@@ -50,9 +50,9 @@ $`
 
 The Hindu law of "Karma" is highly consistent with the classical information propagation mechanism in Quantum-Classical Dualism. Each action produces karma, affecting the increase or decrease of classical entropy:
 
-$`
+$$
 \text{善业} \Rightarrow S_{\text{经典熵}}↓, \quad \text{恶业} \Rightarrow S_{\text{经典熵}}↑
-`$
+$$
 
 ### 5. 轮回与经典化循环 (Samsara and Classicalization Cycle)
 
@@ -60,9 +60,9 @@ $`
 
 The Hindu concept of "Samsara" (cycle of rebirth) can be understood as the observer's classicalization cycle process in Quantum-Classical Dualism. After death, quantum consciousness enters a new classicalized state based on karma:
 
-$`
+$$
 |\psi\rangle_{\text{量子意识（前世）}} \xrightarrow{\text{受业力影响}} |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化}} |\psi\rangle_{\text{新经典世界（今生）}}
-`$
+$$
 
 ### 6. 瑜伽与观察者维度提升 (Yoga and Observer Dimension Elevation)
 
@@ -70,9 +70,9 @@ $`
 
 The Hindu practice of "Yoga" can be understood as a systematic method to elevate observer dimensions, reducing classical entropy and enhancing classicalization efficiency through physical and mental practices:
 
-$`
+$$
 \text{瑜伽修行} \Rightarrow S_{\text{经典熵}}↓ \Rightarrow \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}↑
-`$
+$$
 
 ### 7. 解脱与终极经典化 (Moksha and Ultimate Classicalization)
 
@@ -80,9 +80,9 @@ $`
 
 The Hindu concept of "Moksha" (liberation) can be understood as the observer reaching the ultimate state of minimized classical entropy and maximized classical knowledge, escaping the cycle of rebirth and completely unifying with the cosmic quantum domain:
 
-$`
+$$
 \text{解脱} \Leftrightarrow I_{\text{经典知识最大化}} + S_{\text{经典熵最小化}} \Rightarrow |\psi\rangle_{\text{量子意识}} = |\psi\rangle_{\text{量子域}}
-`$
+$$
 
 ### 8. 三主神与宇宙运作机制 (Trimurti and Cosmic Operating Mechanism)
 
@@ -96,13 +96,13 @@ The Hindu Trimurti (three main deities) can be understood as the three core mech
 - Vishnu (preservation): the stable maintenance and evolution of the classical domain
 - Shiva (destruction): the maximum entropy increase process of the classical domain returning to the quantum domain
 
-$`
+$$
 \begin{aligned}
 \text{梵天} &\Leftrightarrow |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化}} I_{\text{经典知识}} + S_{\text{经典熵}} \\
 \text{毗湿奴} &\Leftrightarrow \text{维持} \{I_{\text{经典知识}} + S_{\text{经典熵}}\} \\
 \text{湿婆} &\Leftrightarrow I_{\text{经典知识}} + S_{\text{经典熵}} \xrightarrow{\text{熵增}} |\psi\rangle_{\text{量子域}}
 \end{aligned}
-`$
+$$
 
 ### 9. 奥义书与宇宙本质知识 (Upanishads and Knowledge of Cosmic Essence)
 
@@ -110,9 +110,9 @@ $`
 
 The Upanishads, as core Hindu texts, can be understood as higher-dimensional observers' systematic classical knowledge distillation of the essential relationship between quantum and classical domains:
 
-$`
+$$
 \text{《奥义书》} = I_{\text{高维观察者关于量子-经典二元关系的经典知识}}
-`$
+$$
 
 ### 10. 冥想与量子意识调控 (Meditation and Quantum Consciousness Regulation)
 
@@ -120,9 +120,9 @@ $`
 
 Hindu meditation practices can be understood as fine regulation of quantum consciousness, enhancing the quality of entanglement with the quantum domain by reducing external interference:
 
-$`
+$$
 \text{冥想} \Rightarrow |\psi\rangle_{\text{量子意识}} \text{与量子域纠缠质量}↑
-`$
+$$
 
 ## 结论 (Conclusion)
 

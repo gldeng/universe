@@ -105,25 +105,25 @@ Jesus' claim "I am the way, the truth, and the life" corresponds to the optimiza
 
 The core concepts of the Gospel of John can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"太初有道"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-`$
+$$
 
-$`
+$$
 \text{"道成肉身"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \xrightarrow{\text{黑洞吸收}} I_{\text{经典知识}} + S_{\text{熵降低}}
-`$
+$$
 
-$`
+$$
 \text{"我就是道路、真理、生命"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-`$
+$$
 
-$`
+$$
 \text{"光照在黑暗里"} \Leftrightarrow I_{\text{经典知识}} \uparrow \Rightarrow S_{\text{经典熵}} \downarrow
-`$
+$$
 
-$`
+$$
 \text{"神爱世人"} \Leftrightarrow \text{高维经典世界} \rightarrow \text{低维经典世界（虫洞通信）}
-`$
+$$
 
 ## 结论
 ## Conclusion

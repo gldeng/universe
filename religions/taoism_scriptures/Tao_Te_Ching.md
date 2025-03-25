@@ -130,19 +130,19 @@ The concept of "non-action" (Wu Wei) in the Tao Te Ching corresponds to observer
 
 The core ideas of the Tao Te Ching can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"道可道，非常道"} \Leftrightarrow |\psi\rangle_{\text{量子域}} \neq I_{\text{经典知识}}
-`$
+$$
 
-$`
+$$
 \text{"无名天地之始"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-`$
+$$
 
-$`
+$$
 \text{"有名万物之母"} \Leftrightarrow |\psi\rangle_{\text{经典域}} = \{I_{\text{经典知识}}, S_{\text{经典熵}}\}
-`$
+$$
 
-$`
+$$
 \text{"道生一，一生二，二生三，三生万物"} \Leftrightarrow
 \begin{cases}
 \text{道} \rightarrow \text{量子域} \\
@@ -151,15 +151,15 @@ $`
 \text{三} \rightarrow \text{观察者（黑洞）} \\
 \text{万物} \rightarrow \text{经典域中的确定状态}
 \end{cases}
-`$
+$$
 
-$`
+$$
 \text{"万物负阴而抱阳"} \Leftrightarrow I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数（特定经典世界内）}
-`$
+$$
 
-$`
+$$
 \text{"无为而无不为"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-`$
+$$
 
 ## 结论
 ## Conclusion

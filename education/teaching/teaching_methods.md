@@ -23,9 +23,9 @@
 - **渐进深入**：按照概念难度和抽象性递增的顺序安排内容
 - **循环回顾**：定期回到基础概念，在新的深度水平上重新审视它们
 
-$`
+$$
 \text{学习效率} = \frac{\text{新概念与已知概念的连接强度} \times \text{概念渐进性}}{\text{认知跨度}}
-`$
+$$
 
 ### 多感官教学
 
@@ -310,9 +310,9 @@ This guide provides methods and strategies for effectively teaching Quantum-Clas
 - **Progressive Depth**: Arrange content in order of increasing concept difficulty and abstraction
 - **Cyclical Review**: Regularly return to basic concepts, revisiting them at new depth levels
 
-$`
+$$
 \text{Learning Efficiency} = \frac{\text{Connection Strength Between New and Known Concepts} \times \text{Concept Progressivity}}{\text{Cognitive Span}}
-`$
+$$
 
 ### Multi-sensory Teaching
 

@@ -52,9 +52,9 @@ The Ramayana is one of the two great epics of India, composed by Valmiki, narrat
 
 ### 神人二性量子态方程
 
-$`
+$$
 |\psi_{\text{罗摩}}\rangle = \alpha|\psi_{\text{毗湿奴}}\rangle + \beta|\psi_{\text{人类}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{罗摩}}\rangle`$ 表示罗摩的量子态
@@ -64,9 +64,9 @@ $`
 
 ### 正法提升维度方程
 
-$`
+$$
 D_{\text{观察者}} = k_{\text{正法}} \cdot \frac{I_{\text{德行}}}{S_{\text{无明}}}
-`$
+$$
 
 其中：
 - $`D_{\text{观察者}}`$ 表示观察者的维度

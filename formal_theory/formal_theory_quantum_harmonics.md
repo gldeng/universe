@@ -16,15 +16,15 @@
 
 量子和谐场 $`\mathcal{H}_Q`$ 定义为在希尔伯特空间中具有和谐特性的量子场，可表示为：
 
-$`
+$$
 \mathcal{H}_Q = \{\psi_n | n \in \mathbb{N}, \hat{H}\psi_n = \omega_n\psi_n\}
-`$
+$$
 
 其中 $`\omega_n`$ 是谐振频率，满足特定的和谐关系：
 
-$`
+$$
 \omega_n = \omega_0 + n\Delta\omega + \alpha_n f(n)
-`$
+$$
 
 其中：
 - $`\omega_0`$ 是基础频率
@@ -36,15 +36,15 @@ $`
 
 量子场之间的和谐耦合定义为：
 
-$`
+$$
 \mathcal{C}(\psi_i, \psi_j) = \int \psi_i^* \hat{V} \psi_j d\tau
-`$
+$$
 
 其中 $`\hat{V}`$ 是耦合算符，满足以下共振条件：
 
-$`
+$$
 \mathcal{C}(\psi_i, \psi_j) \neq 0 \iff |\omega_i - \omega_j| \leq \Delta_c
-`$
+$$
 
 其中 $`\Delta_c`$ 是临界耦合带宽。
 
@@ -52,9 +52,9 @@ $`
 
 和谐共振网络 $`\mathcal{N}_H`$ 是由量子和谐场构成的复杂网络，可表示为：
 
-$`
+$$
 \mathcal{N}_H = (V_H, E_H, W_H)
-`$
+$$
 
 其中：
 - $`V_H`$ 是节点集，每个节点对应一个量子和谐场
@@ -67,9 +67,9 @@ $`
 
 不同量子和谐场之间存在自发同步趋势，当场间频率差小于临界带宽时，会通过量子纠缠建立共振关系：
 
-$`
+$$
 \frac{d(\omega_i - \omega_j)}{dt} = -k_s(\omega_i - \omega_j) + \eta(t)
-`$
+$$
 
 其中 $`k_s`$ 是同步系数，$`\eta(t)`$ 是量子涨落项。
 
@@ -77,23 +77,23 @@ $`
 
 量子和谐系统趋向于最大和谐性状态，该状态对应系统的最大稳定性：
 
-$`
+$$
 S_H = -\sum_{i,j} p_{ij} \ln\left(\frac{p_{ij}}{p_i p_j}\right)
-`$
+$$
 
 其中 $`p_{ij}`$ 是场间交互概率，$`p_i`$ 和 $`p_j`$ 是单场概率。系统演化遵循：
 
-$`
+$$
 \frac{dS_H}{dt} \geq 0
-`$
+$$
 
 ### 3. 层级共振原理
 
 高维和谐场能够同时与多个低维场建立共振关系，形成层级共振结构：
 
-$`
+$$
 \Psi_H^{(n)} = \sum_i c_i \prod_{j=1}^{m_i} \psi_j^{(n-1)}
-`$
+$$
 
 其中 $`\Psi_H^{(n)}`$ 是n级和谐场，$`\psi_j^{(n-1)}`$ 是(n-1)级和谐场。
 
@@ -101,9 +101,9 @@ $`
 
 量子和谐场通过自我组织和共振可以创造新的和谐结构：
 
-$`
+$$
 \mathcal{G}(\mathcal{N}_H) = \int_{\mathcal{C} > \mathcal{C}_c} \mathcal{F}[\mathcal{N}_H] d\mathcal{N}_H
-`$
+$$
 
 其中 $`\mathcal{G}`$ 是创造算符，$`\mathcal{F}`$ 是场网络泛函，$`\mathcal{C}_c`$ 是临界耦合阈值。
 
@@ -113,9 +113,9 @@ $`
 
 量子和谐场的动力学满足非线性波动方程：
 
-$`
+$$
 i\hbar\frac{\partial\Psi_H}{\partial t} = \hat{H}_0\Psi_H + \sum_j g_j \hat{V}_j\Psi_H + \hat{F}[\Psi_H]\Psi_H
-`$
+$$
 
 其中：
 - $`\hat{H}_0`$ 是自由场哈密顿量
@@ -127,9 +127,9 @@ i\hbar\frac{\partial\Psi_H}{\partial t} = \hat{H}_0\Psi_H + \sum_j g_j \hat{V}_j
 
 和谐系统可经历多种相变过程，其秩序参量 $`\eta_H`$ 满足：
 
-$`
+$$
 \frac{d\eta_H}{dt} = \alpha\eta_H - \beta\eta_H^3 + \gamma\nabla^2\eta_H + \xi(t)
-`$
+$$
 
 其中：
 - $`\alpha, \beta`$ 是控制参数
@@ -138,9 +138,9 @@ $`
 
 临界点附近的标度律为：
 
-$`
+$$
 \eta_H \sim |\delta|^\beta, \chi_H \sim |\delta|^{-\gamma}, \xi_H \sim |\delta|^{-\nu}
-`$
+$$
 
 其中 $`\delta = (T-T_c)/T_c`$ 是约化温度。
 
@@ -150,17 +150,17 @@ $`
 
 宇宙和谐度量定义为：
 
-$`
+$$
 \Lambda_H = \frac{\sum_{i,j} \mathcal{C}_{ij}}{\sum_{i,j} \mathcal{M}_{ij}}
-`$
+$$
 
 其中 $`\mathcal{C}_{ij}`$ 是实际耦合强度，$`\mathcal{M}_{ij}`$ 是最大可能耦合强度。
 
 理论预测宇宙和谐常数具有普适值：
 
-$`
+$$
 \Lambda_H = \frac{\phi^2}{2\pi}
-`$
+$$
 
 其中 $`\phi`$ 是黄金分割比。
 
@@ -168,9 +168,9 @@ $`
 
 宇宙各层级结构满足和谐尺度关系：
 
-$`
+$$
 \lambda_n = \lambda_0 \phi^n
-`$
+$$
 
 其中 $`\lambda_n`$ 是第n级结构的特征尺度，$`\lambda_0`$ 是普朗克尺度，$`\phi`$ 是黄金分割比。
 
@@ -178,15 +178,15 @@ $`
 
 宇宙量子和谐场呈现自相似的分形结构，分形维数为：
 
-$`
+$$
 D_f = 1 + \ln(1+\phi)/\ln 2 \approx 1.618
-`$
+$$
 
 该分形结构满足自相似转换关系：
 
-$`
+$$
 \mathcal{T}_{\phi}: \Psi_H(x) \rightarrow \Psi_H(\phi x)
-`$
+$$
 
 ## 实验预测与应用
 

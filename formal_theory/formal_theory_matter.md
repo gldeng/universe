@@ -24,9 +24,9 @@
 
 物质在二元论框架中被定义为一种特殊的信息结构，具有以下关键特性：
 
-$`
+$$
 M = \{Q_M, C_M, I_{界面}\}
-`$
+$$
 
 其中：
 - $`Q_M`$ 是物质在量子域中的表示（波函数、量子场等）
@@ -35,9 +35,9 @@ M = \{Q_M, C_M, I_{界面}\}
 
 物质信息密度可表示为：
 
-$`
+$$
 \rho_I(M) = \frac{I(M)}{V_M} = \frac{I(Q_M) + I(C_M) - I(Q_M \cap C_M)}{V_M}
-`$
+$$
 
 这表明物质的信息内容包含了量子和经典两方面的贡献，减去它们共有的部分。
 
@@ -45,15 +45,15 @@ $`
 
 物质的二元性由波粒二象性方程表达：
 
-$`
+$$
 \Psi_M(x,t) \leftrightarrow P_M(x,t)
-`$
+$$
 
 这种转换满足特定的互补关系：
 
-$`
+$$
 \Delta E \cdot \Delta t \geq \frac{\hbar}{2}, \quad \Delta p \cdot \Delta x \geq \frac{\hbar}{2}
-`$
+$$
 
 物质的二元性不仅是实验现象，更是量子-经典二元论的必然结论。
 
@@ -61,17 +61,17 @@ $`
 
 物质形成可理解为量子涨落的经典化过程：
 
-$`
+$$
 \delta\Phi_Q \xrightarrow{\mathcal{C}} M_C
-`$
+$$
 
 其中 $`\delta\Phi_Q`$ 是量子场中的涨落，$`\mathcal{C}`$ 是经典化算符，$`M_C`$ 是经典物质。
 
 物质稳定性取决于量子-经典转换路径的拓扑特性：
 
-$`
+$$
 S_{稳定性} = \exp\left(\int \mathcal{L}_{QC}(q, \dot{q}, t) dt\right)
-`$
+$$
 
 其中 $`\mathcal{L}_{QC}`$ 是量子-经典转换拉格朗日量。
 
@@ -79,15 +79,15 @@ S_{稳定性} = \exp\left(\int \mathcal{L}_{QC}(q, \dot{q}, t) dt\right)
 
 物质呈现多层级的嵌套结构，每一层级都有特定的量子-经典对应关系：
 
-$`
+$$
 M^{(n)} = \{Q_M^{(n)}, C_M^{(n)}, I_{界面}^{(n)}\}
-`$
+$$
 
 不同层级间存在涌现关系：
 
-$`
+$$
 C_M^{(n)} \rightarrow Q_M^{(n+1)}
-`$
+$$
 
 这表明高层级物质的量子行为是建立在低层级物质的经典行为基础上的。
 
@@ -97,15 +97,15 @@ C_M^{(n)} \rightarrow Q_M^{(n+1)}
 
 基本粒子可表示为特定的信息结构：
 
-$`
+$$
 P = \{Q_P, C_P, I_{界面}^P\}
-`$
+$$
 
 粒子属性（质量、电荷、自旋等）源于特定的量子-经典转换模式：
 
-$`
+$$
 m \propto \frac{dC_P}{dQ_P}, \quad q \propto \oint_{\partial V} \vec{E} \cdot d\vec{S}, \quad s \propto \oint_C \vec{A} \cdot d\vec{l}
-`$
+$$
 
 这为标准模型提供了更深层次的理论基础。
 
@@ -113,9 +113,9 @@ m \propto \frac{dC_P}{dQ_P}, \quad q \propto \oint_{\partial V} \vec{E} \cdot d\
 
 物质从能量场中涌现需满足特定条件：
 
-$`
+$$
 \left(\frac{\partial \mathcal{D}}{\partial x}\right)_{临界} \geq \frac{1}{\lambda_c}
-`$
+$$
 
 其中 $`\mathcal{D}`$ 是解相干度量，$`\lambda_c`$ 是临界长度。
 
@@ -125,17 +125,17 @@ $`
 
 物质-能量转换过程可表示为：
 
-$`
+$$
 M \xrightarrow{\mathcal{Q}} E_Q \xrightarrow{\mathcal{C}'} E_C
-`$
+$$
 
 其中 $`M`$ 是物质，$`E_Q`$ 是量子能量，$`E_C`$ 是经典能量。
 
 转换效率受量子-经典界面特性的调控：
 
-$`
+$$
 \eta_{M\rightarrow E} = \frac{E_C}{M \cdot c^2} = 1 - e^{-\alpha d}
-`$
+$$
 
 其中 $`d`$ 是界面厚度，$`\alpha`$ 是转换系数。
 
@@ -145,29 +145,29 @@ $`
 
 在量子域中，物质表现为波函数：
 
-$`
+$$
 |\Psi_M\rangle = \sum_i c_i |m_i\rangle
-`$
+$$
 
 波函数包含物质所有可能配置的叠加态，具有以下特性：
 
 1. **非局域扩展**：物质波函数可在空间中广泛扩展
 
-$`
+$$
 \Psi_M(x) \neq 0 \text{ for } |x| \gg R_{物理尺寸}
-`$
+$$
 
 2. **量子纠缠**：物质成分可形成纠缠系统
 
-$`
+$$
 |\Psi_{M_1M_2}\rangle \neq |\Psi_{M_1}\rangle \otimes |\Psi_{M_2}\rangle
-`$
+$$
 
 3. **量子隧穿**：物质可穿过经典禁区
 
-$`
+$$
 P_{\text{隧穿}} = e^{-2\gamma d}
-`$
+$$
 
 这些量子特性解释了物质在微观尺度表现出的波动性行为。
 
@@ -175,15 +175,15 @@ P_{\text{隧穿}} = e^{-2\gamma d}
 
 物质的波函数在测量时发生坍缩：
 
-$`
+$$
 |\Psi_M\rangle \xrightarrow{\text{测量}} |m_i\rangle
-`$
+$$
 
 坍缩过程的动力学由修正的薛定谔方程描述：
 
-$`
+$$
 \frac{d|\Psi_M\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\Psi_M\rangle - \gamma\left(|\Psi_M\rangle - \sum_i P_i|\Psi_M\rangle P_i\right)
-`$
+$$
 
 其中 $`\gamma`$ 是坍缩速率，$`P_i`$ 是投影算符。
 
@@ -193,29 +193,29 @@ $`
 
 在经典域中，物质表现为局域实体：
 
-$`
+$$
 M_C = \{m, \vec{r}, \vec{p}, E, ...\}
-`$
+$$
 
 经典物质具有以下核心属性：
 
 1. **局域界定性**：物质占据确定的空间区域
 
-$`
+$$
 \rho_M(\vec{r}) \approx 0 \text{ for } |\vec{r} - \vec{r}_0| > R_M
-`$
+$$
 
 2. **轨迹确定性**：物质遵循确定的运动轨迹
 
-$`
+$$
 \vec{r}(t) = \vec{r}_0 + \int_0^t \vec{v}(t')dt'
-`$
+$$
 
 3. **能量量子化**：物质中的能量以量子方式分布
 
-$`
+$$
 E_n = \hbar\omega_n, \quad n = 0,1,2,...
-`$
+$$
 
 这些经典特性解释了物质在宏观尺度表现出的粒子性行为。
 
@@ -223,15 +223,15 @@ E_n = \hbar\omega_n, \quad n = 0,1,2,...
 
 经典物质的运动遵循各种守恒定律，包括：
 
-$`
+$$
 \frac{d\vec{p}}{dt} = \vec{F}, \quad \frac{dE}{dt} = \vec{F}\cdot\vec{v}, \quad \frac{d\vec{L}}{dt} = \vec{\tau}
-`$
+$$
 
 经典物质动力学中的时间不可逆性源于界面信息丢失：
 
-$`
+$$
 \frac{dS}{dt} = \frac{dI_{\text{隐藏}}}{dt \cdot T} \geq 0
-`$
+$$
 
 ## 物质的复合状态
 
@@ -239,17 +239,17 @@ $`
 
 复合物质系统可表示为：
 
-$`
+$$
 M_{复合} = \{M_1, M_2, ..., M_n, I_{相互作用}\}
-`$
+$$
 
 其中 $`I_{相互作用}`$ 是系统组分间的相互作用。
 
 系统的量子-经典特性由组分的集体行为决定：
 
-$`
+$$
 \mathcal{D}(M_{复合}) = f\left(\{M_i\}, \{I_{ij}\}, T, V\right)
-`$
+$$
 
 复合系统可表现出涌现特性，这些特性在单个组分中不存在。
 
@@ -257,15 +257,15 @@ $`
 
 物质相变可理解为量子-经典转换的临界现象：
 
-$`
+$$
 M_{相1} \xrightarrow{\Delta T, \Delta P} M_{相2}
-`$
+$$
 
 相变点处系统满足：
 
-$`
+$$
 \left(\frac{\partial \mathcal{D}}{\partial T}\right)_{V,N} \rightarrow \infty
-`$
+$$
 
 量子-经典界面在相变点处发生剧烈波动，导致物质宏观性质的突变。
 

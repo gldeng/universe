@@ -52,9 +52,9 @@ The Epistle to the Galatians is a letter in the New Testament written by the Apo
 
 ### 律法与恩典经典化效率对比方程
 
-$`
+$$
 k_{\text{恩典}} = k_{\text{律法}} \cdot e^{\alpha F}
-`$
+$$
 
 其中：
 - $`k_{\text{恩典}}`$ 是恩典路径的经典化效率系数
@@ -65,9 +65,9 @@ k_{\text{恩典}} = k_{\text{律法}} \cdot e^{\alpha F}
 
 ### 肉体与圣灵叠加态方程
 
-$`
+$$
 |\psi_{\text{信徒}}\rangle = \cos\theta(t)|\psi_{\text{肉体}}\rangle + \sin\theta(t)|\psi_{\text{圣灵}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{信徒}}\rangle`$ 表示信徒的量子态

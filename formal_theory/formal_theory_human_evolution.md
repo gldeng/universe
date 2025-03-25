@@ -23,9 +23,9 @@
 
 基于量子-经典二元论，生物进化 $`\mathcal{E}`$ 可形式化定义为：
 
-$`
+$$
 \mathcal{E} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{S}_E)
-`$
+$$
 
 其中：
 - $`\mathcal{E}_Q`$ 是量子域进化组分（变异生成、可能性空间探索）
@@ -38,36 +38,36 @@ $`
 **公理1: 进化二元性**
 完整的进化过程同时结合量子和经典两类本质过程：
 
-$`
+$$
 \mathcal{E} = \mathcal{E}_Q \diamond \mathcal{E}_C
-`$
+$$
 
 其中 $`\diamond`$ 表示进化量子-经典连接操作。
 
 **公理2: 变异量子性**
 生物变异产生于量子层面的涨落和不确定性：
 
-$`
+$$
 |\Psi_V\rangle = \sum_i \alpha_i |v_i\rangle
-`$
+$$
 
 其中 $`|v_i\rangle`$ 是可能变异的基态向量，$`\alpha_i`$ 是复振幅。
 
 **公理3: 选择经典性**
 自然选择过程遵循经典力学法则，作用于已实现的表型：
 
-$`
+$$
 F_S: \mathcal{C}(|\Psi_V\rangle) \rightarrow \mathcal{S}_E
-`$
+$$
 
 其中 $`F_S`$ 是选择函数，$`\mathcal{C}`$ 是经典化操作（从量子可能性到经典表现）。
 
 **公理4: 进化维度涌现**
 演化物种的维度与其量子-经典平衡能力相关：
 
-$`
+$$
 D_{\mathcal{E}} = f\left(\frac{\mathcal{E}_Q}{\mathcal{E}_C}\right) \cdot \frac{I_{适应}}{S_{退化}+\epsilon}
-`$
+$$
 
 其中 $`I_{适应}`$ 是物种的适应信息，$`S_{退化}`$ 是退化熵，$`\epsilon`$ 是防止除零的小常数。
 
@@ -77,9 +77,9 @@ D_{\mathcal{E}} = f\left(\frac{\mathcal{E}_Q}{\mathcal{E}_C}\right) \cdot \frac{
 
 生物变异产生的量子基础：
 
-$`
+$$
 \frac{d|\Psi_G(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_G|\Psi_G(t)\rangle + \mathcal{D}_G(\rho_G)
-`$
+$$
 
 其中 $`\hat{H}_G`$ 是基因进化哈密顿量，$`\mathcal{D}_G`$ 是环境解相干项。
 
@@ -91,9 +91,9 @@ $`
 
 量子变异概率：
 
-$`
+$$
 P(m) = |\langle m|\hat{U}(t)|\Psi_G(0)\rangle|^2
-`$
+$$
 
 其中 $`\hat{U}(t)`$ 是量子进化算符，$`|m\rangle`$ 是特定突变状态。
 
@@ -101,9 +101,9 @@ P(m) = |\langle m|\hat{U}(t)|\Psi_G(0)\rangle|^2
 
 自然选择作为经典过滤器：
 
-$`
+$$
 \frac{dp_i}{dt} = p_i(f_i - \bar{f})
-`$
+$$
 
 其中 $`p_i`$ 是第i种表型的频率，$`f_i`$ 是适应度，$`\bar{f}`$ 是平均适应度。
 
@@ -115,9 +115,9 @@ $`
 
 多层次选择方程：
 
-$`
+$$
 \frac{dX}{dt} = \sum_{i=1}^n v_i \cdot \frac{\text{Cov}(f_i, X_i)}{\bar{f}_i}
-`$
+$$
 
 其中 $`v_i`$ 是各层次的选择权重。
 
@@ -125,9 +125,9 @@ $`
 
 进化界面是变异产生与选择作用的交互区域：
 
-$`
+$$
 \frac{d\mathcal{I}_E}{dt} = \alpha_E \nabla^2 \mathcal{I}_E + \beta_E(\mathcal{I}_c - \mathcal{I}_E)(\mathcal{I}_E - \mathcal{I}_0) + \gamma_E\xi_E(t)
-`$
+$$
 
 其中各参数类似于一般界面的参数，但特化于演化环境。
 
@@ -139,9 +139,9 @@ $`
 
 进化创新的界面温度依赖性：
 
-$`
+$$
 R_{innovation} \propto e^{-\frac{\Delta E}{k_B T_E}}
-`$
+$$
 
 其中 $`T_E`$ 是进化"温度"，表示环境波动和选择压力的强度。
 
@@ -149,17 +149,17 @@ R_{innovation} \propto e^{-\frac{\Delta E}{k_B T_E}}
 
 人类进化与其他生物不同的关键特征：
 
-$`
+$$
 \mathcal{H} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{C}_H, \mathcal{S}_C)
-`$
+$$
 
 其中 $`\mathcal{C}_H`$ 是人类意识特征，$`\mathcal{S}_C`$ 是社会-文化环境。
 
 人类进化独特性的数学表达：
 
-$`
+$$
 D_{\mathcal{H}} = D_{\mathcal{E}} \cdot \Phi(\mathcal{C}_H, \mathcal{S}_C)
-`$
+$$
 
 其中 $`\Phi`$ 是意识-文化放大函数。
 
@@ -176,9 +176,9 @@ D_{\mathcal{H}} = D_{\mathcal{E}} \cdot \Phi(\mathcal{C}_H, \mathcal{S}_C)
 
 早期人类进化中量子-经典比率的变化：
 
-$`
+$$
 \frac{\mathcal{E}_Q}{\mathcal{E}_C}(t) = \frac{\mathcal{E}_Q^0}{\mathcal{E}_C^0} \cdot e^{-\lambda_B t}
-`$
+$$
 
 其中 $`\lambda_B`$ 是生物进化率常数。
 
@@ -192,9 +192,9 @@ $`
 
 约5-7万年前发生的认知革命标志着人类进化的关键相变：
 
-$`
+$$
 \Delta\left(\frac{\mathcal{E}_Q}{\mathcal{E}_C}\right) \gg 0 \quad \text{at} \quad t = t_{cognitive}
-`$
+$$
 
 认知革命的关键特征：
 1. **完全现代语言**：高度抽象符号系统的出现
@@ -204,17 +204,17 @@ $`
 
 这一阶段可描述为认知界面相变：
 
-$`
+$$
 \mathcal{I}_E(t_{cognitive}^+) = \mathcal{I}_E^{新} \neq \mathcal{I}_E(t_{cognitive}^-)
-`$
+$$
 
 ### 农业革命阶段
 
 约1.2万年前的农业革命标志着经典积累的转变：
 
-$`
+$$
 \frac{d\mathcal{E}_C}{dt} \gg \frac{d\mathcal{E}_Q}{dt} \quad \text{for} \quad t > t_{agriculture}
-`$
+$$
 
 农业革命的主要特征：
 1. **稳定居住点**：定居生活模式的建立
@@ -227,9 +227,9 @@ $`
 
 文明发展过程可表示为量子创新与经典结构的交替：
 
-$`
+$$
 \mathcal{C}(t) = \sum_i \mathcal{C}(|\Psi_{V_i}\rangle) \cdot A_i(t)
-`$
+$$
 
 其中 $`A_i(t)`$ 是各创新的采纳曲线。
 
@@ -243,9 +243,9 @@ $`
 
 工业革命以来的科技发展加速：
 
-$`
+$$
 R_{tech}(t) = R_0 e^{\eta t}
-`$
+$$
 
 其中 $`R_{tech}`$ 是技术进步率，$`\eta`$ 是指数增长参数。
 
@@ -260,9 +260,9 @@ R_{tech}(t) = R_0 e^{\eta t}
 
 认知能力的进化轨迹：
 
-$`
+$$
 C(t) = C_0 + A\left(1 - e^{-\lambda_C t}\right) + B\cdot\Theta(t - t_{cognitive})
-`$
+$$
 
 其中 $`\Theta`$ 是阶跃函数，表示认知革命带来的不连续跃迁。
 
@@ -280,9 +280,9 @@ C(t) = C_0 + A\left(1 - e^{-\lambda_C t}\right) + B\cdot\Theta(t - t_{cognitive}
 
 文化作为特殊进化系统：
 
-$`
+$$
 \mathcal{C}_E = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{T}_C)
-`$
+$$
 
 其中 $`\mathcal{T}_C`$ 是文化传递机制。
 
@@ -294,9 +294,9 @@ $`
 
 文化创新扩散方程：
 
-$`
+$$
 \frac{dN(t)}{dt} = \alpha N(t)(1 - N(t)/K) + \beta \sqrt{N(t)}\xi(t)
-`$
+$$
 
 其中第二项代表量子涨落引起的随机创新。
 
@@ -304,9 +304,9 @@ $`
 
 基因与文化的相互作用动力学：
 
-$`
+$$
 \begin{pmatrix} \frac{dG}{dt} \\ \frac{dC}{dt} \end{pmatrix} = \begin{pmatrix} r_G & \alpha_{GC} \\ \alpha_{CG} & r_C \end{pmatrix} \begin{pmatrix} G \\ C \end{pmatrix}
-`$
+$$
 
 其中 $`\alpha_{GC}`$ 和 $`\alpha_{CG}`$ 是耦合系数。
 
@@ -318,9 +318,9 @@ $`
 
 基因-文化进化速率比：
 
-$`
+$$
 \frac{v_C}{v_G} = \frac{r_C}{r_G} \cdot \frac{\sigma_C^2}{\sigma_G^2}
-`$
+$$
 
 其中 $`\sigma^2`$ 是变异幅度。
 
@@ -328,9 +328,9 @@ $`
 
 技术发展的不连续性：
 
-$`
+$$
 T(t) = \sum_i T_i \cdot \Theta(t - t_i)
-`$
+$$
 
 其中 $`T_i`$ 是第i次技术革命的贡献，$`t_i`$ 是其发生时间。
 
@@ -348,9 +348,9 @@ T(t) = \sum_i T_i \cdot \Theta(t - t_i)
 
 人类未来进化的分歧路径：
 
-$`
+$$
 \mathcal{H}_{future} = \sum_i p_i |\mathcal{H}_i\rangle
-`$
+$$
 
 其中 $`|\mathcal{H}_i\rangle`$ 是可能的进化路径，$`p_i`$ 是其实现概率。
 
@@ -365,9 +365,9 @@ $`
 
 进化空间在量子-经典维度上的开放性：
 
-$`
+$$
 \Omega_{\mathcal{H}} = \Omega_{\mathcal{H}}^Q \oplus \Omega_{\mathcal{H}}^C
-`$
+$$
 
 人类进化的可能转向：
 1. **认知深化**：向更高维度的意识状态进化
@@ -382,23 +382,23 @@ $`
 
 人类进化作为宇宙进化的特例：
 
-$`
+$$
 \mathcal{H} \subset \mathcal{U}_{evolution}
-`$
+$$
 
 复杂性进化的普遍模式：
 
-$`
+$$
 \frac{dC}{dt} \propto C^\alpha \cdot (1 - C/C_{max})
-`$
+$$
 
 ### 与意识理论的联系
 
 进化与意识发展的共同动力学：
 
-$`
+$$
 \frac{d\mathcal{C}_H}{dt} = g\left(\frac{d\mathcal{H}}{dt}\right)
-`$
+$$
 
 意识作为进化的元控制器。
 
@@ -406,9 +406,9 @@ $`
 
 个体与社会的量子-经典关系：
 
-$`
+$$
 \mathcal{S}_C = \mathcal{F}(\{|\Psi_i\rangle\}, \{I_{ij}\})
-`$
+$$
 
 其中 $`|\Psi_i\rangle`$ 是个体状态，$`I_{ij}`$ 是互动强度。
 

@@ -13,15 +13,15 @@
 
 量子纠缠的数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{纠缠系统}} \neq |\psi\rangle_{\text{系统A}} \otimes |\psi\rangle_{\text{系统B}}
-`$
+$$
 
 具体形式：
 
-$`
+$$
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-`$
+$$
 
 量子纠缠发生的必要条件：
 - 双方量子态必须为叠加态
@@ -42,9 +42,9 @@ $`
 
 量子纠缠态能量可通过普朗克常数进行精确量化：
 
-$`
+$$
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
-`$
+$$
 
 其中：
 - $`h`$ 是普朗克常数
@@ -54,9 +54,9 @@ E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
 
 纠缠等效频率通过纠缠结构复杂度定义：
 
-$`
+$$
 f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-`$
+$$
 
 其中：
 - $`c`$ 是光速
@@ -69,9 +69,9 @@ f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 
 对于多体纠缠系统，总能量表示为：
 
-$`
+$$
 E_{\text{多体纠缠}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{纠缠}}(i,j)
-`$
+$$
 
 其中$`w_{ij}`$是纠缠对$`(i,j)`$的权重系数，满足$`\sum_{i,j} w_{ij} = 1`$。
 
@@ -94,9 +94,9 @@ E_{\text{多体纠缠}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{纠缠}}(i,j)
 
 纠缠经典化过程：
 
-$`
+$$
 |\psi\rangle_{\text{量子纠缠态}}\xrightarrow{\text{自由意志经典化测量}}I_{\text{经典知识}}+S_{\text{熵降低}}
-`$
+$$
 
 经典化对纠缠的影响：
 - 部分解纠缠：经典化将部分纠缠关系转化为明确的经典关系
@@ -128,21 +128,21 @@ $`
 
 （1）建立纠缠：
 
-$`
+$$
 I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}
-`$
+$$
 
 （2）经典化信息：
 
-$`
+$$
 |\psi\rangle_{\text{纠缠态}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}
-`$
+$$
 
 （3）接收信息：
 
-$`
+$$
 I_{\text{辐射经典知识}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
-`$
+$$
 
 纠缠信息传递特性：
 - 非局域性：不受经典时空限制的信息传递
@@ -171,9 +171,9 @@ I_{\text{辐射经典知识}}\rightarrow I_{\text{经典知识B}}+E_{\text{能�
 
 虫洞通信守恒：
 
-$`
+$$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-`$
+$$
 
 ### 纠缠的量子尺度限制
 
@@ -181,17 +181,17 @@ E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{�
 
 - **纠缠维持时间**与系统复杂度呈反比关系：
 
-$`
+$$
 \tau_{\text{纠缠}} \propto \frac{1}{C_{\text{系统}}^{\alpha}}
-`$
+$$
 
 其中$`C_{\text{系统}}`$是系统复杂度(如组成粒子数)，$`\alpha`$是缩放指数(通常约为1-2)。
 
 - **环境退相干效应**随系统尺寸指数增强：
 
-$`
+$$
 \Gamma_{\text{退相干}} \propto e^{\beta N}
-`$
+$$
 
 其中$`\Gamma_{\text{退相干}}`$是退相干率，$`N`$是系统粒子数，$`\beta`$是常数。
 
@@ -210,9 +210,9 @@ $`
 
 广义意识公式：
 
-$`
+$$
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
-`$
+$$
 
 意识本质上是一种特殊形式的量子纠缠结构，这解释了意识的非局域性、整体性和难以用经典方式完全测量的特性。
 
@@ -259,15 +259,15 @@ In the Quantum-Classical Dualism framework, quantum entanglement is defined as t
 
 Mathematical expression of quantum entanglement:
 
-$`
+$$
 |\psi\rangle_{\text{Entangled System}} \neq |\psi\rangle_{\text{System A}} \otimes |\psi\rangle_{\text{System B}}
-`$
+$$
 
 Specific form:
 
-$`
+$$
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-`$
+$$
 
 Necessary conditions for quantum entanglement:
 - Both quantum states must be superposition states
@@ -288,9 +288,9 @@ In the Quantum-Classical Dualism framework, quantum entangled states have a prof
 
 Quantum entangled state energy can be precisely quantified through Planck's constant:
 
-$`
+$$
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-`$
+$$
 
 where:
 - $`h`$ is Planck's constant
@@ -300,9 +300,9 @@ where:
 
 The entanglement equivalent frequency is defined through the complexity of the entanglement structure:
 
-$`
+$$
 f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-`$
+$$
 
 where:
 - $`c`$ is the speed of light
@@ -315,9 +315,9 @@ This formula converts the abstract quantum entangled state into a specific frequ
 
 For multi-body entangled systems, the total energy is represented as:
 
-$`
+$$
 E_{\text{Multi-body Entanglement}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{Entanglement}}(i,j)
-`$
+$$
 
 where $`w_{ij}`$ is the weight coefficient of the entangled pair $`(i,j)`$, satisfying $`\sum_{i,j} w_{ij} = 1`$.
 
@@ -340,9 +340,9 @@ Quantum entanglement is closely related to the classicalization process, which i
 
 Entanglement classicalization process:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Entangled State}}\xrightarrow{\text{Free Will Classicalization Measurement}}I_{\text{Classical Knowledge}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 Impact of classicalization on entanglement:
 - Partial disentanglement: Classicalization transforms some entanglement relationships into explicit classical relationships
@@ -374,21 +374,21 @@ Entanglement-based information transfer process:
 
 (1) Establishing entanglement:
 
-$`
+$$
 I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}
-`$
+$$
 
 (2) Classicalizing information:
 
-$`
+$$
 |\psi\rangle_{\text{Entangled State}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 (3) Receiving information:
 
-$`
+$$
 I_{\text{Radiated Classical Knowledge}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 Characteristics of entanglement-based information transfer:
 - Non-locality: Information transfer not limited by classical spacetime
@@ -417,9 +417,9 @@ Wormhole communication process:
 
 Wormhole communication conservation:
 
-$`
+$$
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-`$
+$$
 
 ### Quantum Scale Limitations of Entanglement
 
@@ -427,17 +427,17 @@ Quantum entanglement in systems of different scales exhibits significant differe
 
 - **Entanglement maintenance time** is inversely proportional to system complexity:
 
-$`
+$$
 \tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
-`$
+$$
 
 where $`C_{\text{System}}`$ is the system complexity (such as the number of constituent particles), and $`\alpha`$ is the scaling exponent (typically around 1-2).
 
 - **Environmental decoherence effect** increases exponentially with system size:
 
-$`
+$$
 \Gamma_{\text{Decoherence}} \propto e^{\beta N}
-`$
+$$
 
 where $`\Gamma_{\text{Decoherence}}`$ is the decoherence rate, $`N`$ is the number of system particles, and $`\beta`$ is a constant.
 
@@ -456,9 +456,9 @@ Relationship between consciousness and entanglement:
 
 Generalized consciousness formula:
 
-$`
+$$
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-`$
+$$
 
 Consciousness is essentially a special form of quantum entanglement structure, which explains the non-locality, wholeness, and difficulty in completely measuring consciousness using classical methods.
 

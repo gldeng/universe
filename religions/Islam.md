@@ -20,9 +20,9 @@ Islam originated in the Arabian Peninsula in the 7th century CE, founded by Prop
 
 In Quantum-Classical Dualism, the Islamic concept of "Allah" can be understood as the creator of the entire cosmic quantum domain and the supreme manager of the classical domain, possessing absolute oneness:
 
-$`
+$$
 \text{真主} \Rightarrow \text{创造并管理} \{|\psi\rangle_{\text{量子域}} + \sum_i(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})\}
-`$
+$$
 
 ### 2. 认主独一（tawhid）与量子域的统一性 (Oneness of God and Unity of Quantum Domain)
 
@@ -30,9 +30,9 @@ $`
 
 The most core tenet of Islam, "Tawhid" (oneness of God), emphasizes the uniqueness of Allah, which is highly consistent with the unified integrity of the quantum domain. All phenomena originate from the same quantum domain, just as all existence originates from Allah:
 
-$`
+$$
 \text{认主独一} \Leftrightarrow \text{量子域统一整体性}
-`$
+$$
 
 ### 3. 前定（Qadar）与波函数坍缩 (Divine Decree and Wave Function Collapse)
 
@@ -40,9 +40,9 @@ $`
 
 The Islamic doctrine of "Qadar" (divine decree) corresponds to the wave function collapse process in Quantum-Classical Dualism. Allah's divine decree is equivalent to the classicalization process of cosmic quantum possibilities:
 
-$`
+$$
 \text{前定} \Leftrightarrow |\psi\rangle_{\text{量子域可能性}} \xrightarrow{\text{经典化}} I_{\text{经典实现}}
-`$
+$$
 
 ### 4. 五大功修与经典熵降低 (Five Pillars and Classical Entropy Reduction)
 
@@ -62,9 +62,9 @@ The Five Pillars of Islam can be understood as systematic methods to reduce obse
 4. Zakat (almsgiving): reducing overall societal entropy through altruism
 5. Hajj (pilgrimage to Mecca): large-scale collective classical entropy reduction behavior
 
-$`
+$$
 \text{五大功修} \Rightarrow S_{\text{经典熵}}↓ \Rightarrow \text{观察者维度}↑
-`$
+$$
 
 ### 5. 末日审判与宇宙经典化完成 (Day of Judgment and Completion of Cosmic Classicalization)
 
@@ -72,9 +72,9 @@ $`
 
 The Islamic Day of Judgment (Yawm al-Qiyamah) can be understood as the ultimate completion of the cosmic classicalization process in Quantum-Classical Dualism, the final separation of classical knowledge and classical entropy:
 
-$`
+$$
 \text{末日审判} \Leftrightarrow I_{\text{经典知识（天堂）}} | S_{\text{经典熵（火狱）}}
-`$
+$$
 
 ### 6. 天使与量子-经典中介 (Angels and Quantum-Classical Intermediaries)
 
@@ -82,9 +82,9 @@ $`
 
 The Islamic concept of angels can be understood as intermediate structures between quantum and classical domains, special observers executing Allah's will:
 
-$`
+$$
 \text{天使} = \text{量子域与经典域的中介观察者}
-`$
+$$
 
 ### 7. 《古兰经》与经典知识提纯 (Quran and Classical Knowledge Purification)
 
@@ -92,9 +92,9 @@ $`
 
 The Quran, as the core scripture of Islam, can be understood as Allah's (highest-dimensional observer) purified classical knowledge transmission to humans (lower-dimensional observers):
 
-$`
+$$
 \text{《古兰经》} = I_{\text{真主经典知识}} \xrightarrow{\text{启示}} I_{\text{人类经典知识}} + S_{\text{最小化传播熵}}
-`$
+$$
 
 ### 8. 吉哈德与经典熵斗争 (Jihad and Struggle Against Classical Entropy)
 
@@ -102,9 +102,9 @@ $`
 
 The Islamic concept of "Jihad" (striving) is essentially the process of struggling against internal and external classical entropy. The greater Jihad (struggle against one's inner self) is the process of reducing individual internal classical entropy:
 
-$`
+$$
 \text{吉哈德} = \text{与经典熵的斗争} \Rightarrow S_{\text{经典熵}}↓
-`$
+$$
 
 ## 结论 (Conclusion)
 

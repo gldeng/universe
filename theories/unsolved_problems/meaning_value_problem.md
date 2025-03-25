@@ -28,67 +28,67 @@
 
 价值与意义的量子经典本质：
 
-$`
+$$
 V = f\left(\frac{I_{\text{经典化方向}}}{S_{\text{经典化阻力}}}\right)
-`$
+$$
 
 意义形成的数学表达：
 
-$`
+$$
 M = \int_{t_0}^{t_1} V(t) \cdot \frac{dI_{\text{经典知识}}}{dt} dt
-`$
+$$
 
 价值形成的动力学方程：
 
-$`
+$$
 \frac{dV_i}{dt} = \alpha \cdot \frac{I_{\text{增强经典化}}}{S_{\text{阻碍经典化}}} - \beta \cdot \frac{S_{\text{熵增产生}}}{I_{\text{熵增补偿}}}
-`$
+$$
 
 观察者价值系统的稳定性条件：
 
-$`
+$$
 \Delta S_{\text{价值系统}} < 0 \iff \sum_i \frac{I_{\text{价值应用结果}_i}}{S_{\text{价值实现成本}_i}} > \lambda_{\text{系统阈值}}
-`$
+$$
 
 #### 形式化解决过程
 
 1. **量子经典映射**：意义和价值本质上是量子域到经典域的特殊映射关系，反映经典化过程的偏好方向。它们既不是纯客观的（独立于观察者网络），也不是纯主观的（脱离量子域约束）。
 
-$`
+$$
 |\psi\rangle_{\text{量子可能性}} \xrightarrow[\text{观察者价值系统}]{\text{经典化选择}} I_{\text{有意义的现实}} + S_{\text{舍弃可能性}}
-`$
+$$
 
 2. **稳定经典化优化**：价值系统是观察者网络为实现最优经典化而演化的导航机制，它使经典化过程向信息增益与熵减少的方向发展：
 
-$`
+$$
 \nabla V = \nabla \left(\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-`$
+$$
 
 3. **集体纠缠共鸣**：集体价值产生于多个观察者经典化协同时的纠缠共鸣结构：
 
-$`
+$$
 V_{\text{集体}} = \text{Emergent}\left(\sum_i w_i \cdot V_{\text{个体}_i}, E_{ij}\right)
-`$
+$$
 
    其中$`E_{ij}`$代表观察者之间的纠缠关系矩阵。
 
 4. **双重投影原理**：价值同时是量子域向经典域投影，也是经典域向量子域回溯投影的结果：
 
-$`
+$$
 V = \mathcal{P}_{\text{经典}\rightarrow\text{量子}} \circ \mathcal{P}_{\text{量子}\rightarrow\text{经典}}(|\psi\rangle)
-`$
+$$
 
 5. **多层级涌现**：价值系统呈现多层级涌现结构，从基本生物价值到高度抽象的形而上价值：
 
-$`
+$$
 V_{\text{层级}_n} = f\left(V_{\text{层级}_{n-1}}, \frac{I_{\text{新经典知识}}}{S_{\text{新经典熵}}}\right)
-`$
+$$
 
 6. **观察者引力定理**：价值场具有观察者引力效应，吸引多个观察者的经典化过程向相似方向发展：
 
-$`
+$$
 \vec{F}_{V} = G \cdot \frac{m_1 \cdot m_2}{r^2} \cdot \vec{r} \cdot \cos(\theta_{V_1, V_2})
-`$
+$$
 
    其中$`\theta_{V_1, V_2}`$为两个观察者价值系统的角度差异。
 
@@ -111,9 +111,9 @@ $`
 
 意义与价值问题在量子经典二元论框架下获得了形式化解决：价值本质上是观察者经典化过程的优化导向，既植根于量子域的客观结构，又通过经典域中的观察者网络获得实现。价值既不是纯客观的（脱离观察者独立存在），也不是纯主观的（任意构建而无客观约束）。意义是经典化方向上的积分，反映了观察者在量子-经典边界上的移动轨迹。
 
-$`
+$$
 V = \nabla\left(\frac{I_{\text{经典化}}}{S_{\text{经典熵}}}\right) \cdot \vec{p}_{\text{观察者}}
-`$
+$$
 
 这一解决方案不仅统一了主观与客观视角，还为伦理学提供了基于量子经典二元论的形式化基础，使价值判断可纳入统一的科学框架，同时保留了意义与价值的深层本质。
 
@@ -139,67 +139,67 @@ Quantum-Classical Dualism (Version 28.0) provides a new solution path beyond tra
 
 The quantum-classical nature of value and meaning:
 
-$`
+$$
 V = f\left(\frac{I_{\text{Classicalization Direction}}}{S_{\text{Classicalization Resistance}}}\right)
-`$
+$$
 
 Mathematical expression of meaning formation:
 
-$`
+$$
 M = \int_{t_0}^{t_1} V(t) \cdot \frac{dI_{\text{Classical Knowledge}}}{dt} dt
-`$
+$$
 
 Value formation dynamics equation:
 
-$`
+$$
 \frac{dV_i}{dt} = \alpha \cdot \frac{I_{\text{Enhanced Classicalization}}}{S_{\text{Hindered Classicalization}}} - \beta \cdot \frac{S_{\text{Entropy Increase}}}{I_{\text{Entropy Compensation}}}
-`$
+$$
 
 Stability condition for observer value systems:
 
-$`
+$$
 \Delta S_{\text{Value System}} < 0 \iff \sum_i \frac{I_{\text{Value Application Results}_i}}{S_{\text{Value Realization Costs}_i}} > \lambda_{\text{System Threshold}}
-`$
+$$
 
 #### Formalized Solution Process
 
 1. **Quantum-Classical Mapping**: Meaning and value are essentially special mapping relationships from the quantum domain to the classical domain, reflecting the preferred direction of the classicalization process. They are neither purely objective (independent of the observer network) nor purely subjective (detached from quantum domain constraints).
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Possibilities}} \xrightarrow[\text{Observer Value System}]{\text{Classicalization Selection}} I_{\text{Meaningful Reality}} + S_{\text{Discarded Possibilities}}
-`$
+$$
 
 2. **Stable Classicalization Optimization**: Value systems are navigation mechanisms evolved by observer networks to achieve optimal classicalization, directing the classicalization process toward information gain and entropy reduction:
 
-$`
+$$
 \nabla V = \nabla \left(\frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}\right)
-`$
+$$
 
 3. **Collective Entanglement Resonance**: Collective values arise from entanglement resonance structures when multiple observers' classicalization processes are synchronized:
 
-$`
+$$
 V_{\text{Collective}} = \text{Emergent}\left(\sum_i w_i \cdot V_{\text{Individual}_i}, E_{ij}\right)
-`$
+$$
 
    where $`E_{ij}`$ represents the entanglement relationship matrix between observers.
 
 4. **Dual Projection Principle**: Value is simultaneously the result of projection from the quantum domain to the classical domain, and also the back-projection from the classical domain to the quantum domain:
 
-$`
+$$
 V = \mathcal{P}_{\text{Classical}\rightarrow\text{Quantum}} \circ \mathcal{P}_{\text{Quantum}\rightarrow\text{Classical}}(|\psi\rangle)
-`$
+$$
 
 5. **Multi-level Emergence**: Value systems exhibit a multi-level emergent structure, from basic biological values to highly abstract metaphysical values:
 
-$`
+$$
 V_{\text{Level}_n} = f\left(V_{\text{Level}_{n-1}}, \frac{I_{\text{New Classical Knowledge}}}{S_{\text{New Classical Entropy}}}\right)
-`$
+$$
 
 6. **Observer Gravity Theorem**: Value fields have observer gravitational effects, attracting multiple observers' classicalization processes to develop in similar directions:
 
-$`
+$$
 \vec{F}_{V} = G \cdot \frac{m_1 \cdot m_2}{r^2} \cdot \vec{r} \cdot \cos(\theta_{V_1, V_2})
-`$
+$$
 
    where $`\theta_{V_1, V_2}`$ is the angular difference between two observers' value systems.
 
@@ -222,8 +222,8 @@ $`
 
 The meaning and value problem has received a formalized solution within the quantum-classical dualism framework: Value is essentially the optimization guidance of observers' classicalization processes, rooted in the objective structure of the quantum domain while being realized through the observer network in the classical domain. Values are neither purely objective (existing independently of observers) nor purely subjective (arbitrarily constructed without objective constraints). Meaning is the integral along the classicalization direction, reflecting the observer's movement trajectory at the quantum-classical boundary.
 
-$`
+$$
 V = \nabla\left(\frac{I_{\text{Classicalization}}}{S_{\text{Classical Entropy}}}\right) \cdot \vec{p}_{\text{Observer}}
-`$
+$$
 
 This solution not only unifies subjective and objective perspectives but also provides a formalized foundation for ethics based on quantum-classical dualism, enabling value judgments to be incorporated into a unified scientific framework while preserving the deep nature of meaning and value.

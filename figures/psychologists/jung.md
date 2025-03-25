@@ -29,9 +29,11 @@
 
 荣格的心理学本质上是一种量子-经典二元论，他识别了心灵中超越个体意识的量子领域（集体无意识）与经典领域（意识）的相互作用。他的理论架构揭示了人类心灵如何在这两个领域间形成动态平衡，实现完整的自我。
 
-$`
+$$
+
 |\psi\rangle_{\text{集体无意识}} \longleftrightarrow I_{\text{个体意识}} = \text{完整自我}
-`$
+
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +42,6 @@ $`
    集体无意识可被理解为人类共享的量子信息场，包含跨时空的心理模式：
 
    $$
-
    
    |\psi\rangle_{\text{集体无意识}} = \sum_{t=-\infty}^{\text{现在}} \sum_{cultures} |\psi_{t,c}\rangle_{\text{原型模式}}
    
@@ -53,7 +54,6 @@ $`
    心理类型体现了量子心理状态在经典行为中的映射关系：
 
    $$
-
    
    |\psi\rangle_{\text{心理全态}} = c_1|\psi\rangle_{\text{内倾}} + c_2|\psi\rangle_{\text{外倾}} \otimes \sum_{i=1}^4 d_i|\phi_i\rangle_{\text{功能}}
    
@@ -66,7 +66,6 @@ $`
    个体化代表了心灵量子-经典维度的整合进程：
 
    $$
-
    
    I_{\text{自我（经典域）}} + |\psi\rangle_{\text{阴影（量子域）}} \xrightarrow{\text{整合}} |\Omega\rangle_{\text{自性}}
    
@@ -79,7 +78,6 @@ $`
    象征是原型量子信息向经典表征的转化机制：
 
    $$
-
    
    |\psi\rangle_{\text{原型（量子域）}} \xrightarrow{\text{象征转化}} I_{\text{象征表达（经典域）}} + S_{\text{象征剩余意义}}
    
@@ -92,7 +90,6 @@ $`
    同步性现象反映了心理与物理世界的量子纠缠关系：
 
    $$
-
    
    E(\text{心理事件},\text{物理事件}) = |\langle \psi_{\text{心理}}|\psi_{\text{物理}} \rangle|^2 > 0 \text{ 当存在意义关联}
    

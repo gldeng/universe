@@ -32,13 +32,13 @@ In the Quantum Universe-Observer framework, consciousness is understood as the s
 
 Mathematical representation of consciousness:
 
-$`
+$$
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
-`$
+$$
 
-$`
+$$
 \text{自我} = \text{意识}(\text{意识})
-`$
+$$
 
 这一解释将意识理解为量子-经典信息转换的涌现属性，强调了意识的整体性、自参照性和信息整合功能。
 
@@ -70,13 +70,13 @@ In the Quantum Universe-Observer framework, cognitive processes are understood a
 
 Mathematical representation of cognitive processes:
 
-$`
+$$
 \text{感知} = \text{经典化}(\text{外部量子信息}) = |\psi_{\text{外部}}\rangle \rightarrow |\phi_{\text{内部}}\rangle_{\text{经典}}
-`$
+$$
 
-$`
+$$
 \text{思考} = \{\text{经典推理}, \text{量子探索}\}
-`$
+$$
 
 这一解释将认知理解为量子-经典信息处理的连续体，其中不同认知功能对应于不同的信息处理阶段和模式。
 
@@ -108,13 +108,13 @@ In the Quantum Universe-Observer framework, emotions and motivations are underst
 
 Mathematical representation of emotion and motivation:
 
-$`
+$$
 \text{情绪} = f(\text{当前状态}, \text{目标状态}, \text{资源状态})
-`$
+$$
 
-$`
+$$
 \text{动机} = \nabla E(\text{目标}) = \text{朝向目标的梯度}
-`$
+$$
 
 这一解释将情绪和动机理解为信息处理系统的调节机制，强调了它们在优化系统行为和资源分配中的作用。
 
@@ -146,13 +146,13 @@ In the Quantum Universe-Observer framework, personality is understood as stable 
 
 Mathematical representation of personality:
 
-$`
+$$
 \text{人格} = \{\text{信息过滤规则}, \text{经典化倾向}, \text{反应模式}\}
-`$
+$$
 
-$`
+$$
 \text{行为} = \text{人格}(\text{环境信息})
-`$
+$$
 
 这一解释将人格理解为观察者信息处理的稳定模式，强调了人格在信息处理中的调节作用，以及其稳定性和可塑性的双重特性。
 
@@ -184,13 +184,13 @@ In the Quantum Universe-Observer framework, psychological development is underst
 
 Mathematical representation of the developmental process:
 
-$`
+$$
 \text{发展} = \int_{t_0}^{t_1} \frac{d(\text{信息处理复杂度})}{dt} dt
-`$
+$$
 
-$`
+$$
 \text{自我实现} = \max(\text{信息整合}, \text{自我参照}, \text{适应性})
-`$
+$$
 
 这一解释将心理发展理解为信息处理系统的演化过程，强调了发展的阶段性、整合性和方向性。
 
@@ -222,13 +222,13 @@ In the Quantum Universe-Observer framework, social cognition and relationships a
 
 Mathematical representation of social cognition and relationships:
 
-$`
+$$
 \text{心智理论} = \text{模拟}(\text{他人观察者经典化过程})
-`$
+$$
 
-$`
+$$
 \text{共情} = \text{信息状态共振}(\text{观察者}_A, \text{观察者}_B)
-`$
+$$
 
 这一解释将社会认知和关系理解为观察者之间的信息交换和共振，强调了社会互动在信息处理层面的深层机制。
 
@@ -260,13 +260,13 @@ In the Quantum Universe-Observer framework, psychological disorders are understo
 
 Mathematical representation of psychological disorders and therapy:
 
-$`
+$$
 \text{心理障碍} = \text{失调}(\text{信息过滤}, \text{信息整合}, \text{信息反应})
-`$
+$$
 
-$`
+$$
 \text{心理治疗} = \text{重建}(\text{健康信息处理模式})
-`$
+$$
 
 这一解释将心理障碍理解为信息处理系统的失调，强调了不同障碍的共同机制，以及治疗如何通过重建健康的信息处理模式促进恢复。
 
@@ -298,13 +298,13 @@ In the Quantum Universe-Observer framework, creativity and intuition are underst
 
 Mathematical representation of creativity and intuition:
 
-$`
+$$
 \text{创造力} = \text{经典化}(\text{量子可能性空间中的新组合})
-`$
+$$
 
-$`
+$$
 \text{直觉} = \text{整体感知}(\text{量子信息}) \text{而非} \sum \text{部分分析}
-`$
+$$
 
 这一解释将创造力和直觉理解为量子-经典信息处理的特殊模式，强调了量子层面的探索和整体感知在创新过程中的重要性。
 

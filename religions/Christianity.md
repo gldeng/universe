@@ -20,9 +20,9 @@ Christianity originated from Judaism in the 1st century CE, centered on the life
 
 In Quantum-Classical Dualism, the Christian concept of "God" can be understood as the creator and maintainer of the entire quantum and classical domain structure of the universe. God both transcends these two domains and is immanent within them:
 
-$`
+$$
 \text{上帝} \Rightarrow \text{创造并维护} \{|\psi\rangle_{\text{量子域}} + \sum_i(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})\}
-`$
+$$
 
 ### 2. 三位一体与量子经典二元论对应 (Trinity and Quantum-Classical Dualism Correspondence)
 
@@ -36,9 +36,9 @@ The Christian doctrine of the Trinity (Father, Son, Holy Spirit) corresponds to 
 - Son (Jesus): corresponds to the perfect embodiment of quantum domain classicalized as human
 - Holy Spirit: corresponds to the connecting force permeating both quantum and classical domains
 
-$`
+$$
 \text{三位一体} \Leftrightarrow \{\text{量子域源头}, \text{最完美经典化实体}, \text{量子-经典连接力量}\}
-`$
+$$
 
 ### 3. 原罪与经典熵增加 (Original Sin and Classical Entropy Increase)
 
@@ -46,9 +46,9 @@ $`
 
 The Christian concept of "original sin" can be understood as the state where human observers' classicalization efficiency decreases and classical entropy increases. Adam and Eve's fall is essentially a process of dramatic increase in classical entropy:
 
-$`
+$$
 \text{原罪} \Leftrightarrow S_{\text{经典熵}}↑ \Rightarrow \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}↓
-`$
+$$
 
 ### 4. 救赎与经典熵降低 (Redemption and Classical Entropy Reduction)
 
@@ -56,9 +56,9 @@ $`
 
 Jesus Christ's redemption can be understood as the process where a perfect observer (Jesus) intervenes to help human observers reduce classical entropy and elevate their observer dimensions:
 
-$`
+$$
 \text{救赎} \Leftrightarrow \text{耶稣介入} \Rightarrow S_{\text{经典熵}}↓ \Rightarrow \text{观察者维度}↑
-`$
+$$
 
 ### 5. 信心与经典化效率 (Faith and Classicalization Efficiency)
 
@@ -66,9 +66,9 @@ $`
 
 The "faith" emphasized in Christianity can be understood as the process where observers establish effective quantum entanglement with a higher-dimensional observer (God), thereby enhancing classicalization efficiency:
 
-$`
+$$
 \text{信心} = \text{与上帝的量子纠缠} \Rightarrow \text{经典化效率}↑ \Rightarrow \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}↑
-`$
+$$
 
 ### 6. 永生与死亡机制 (Eternal Life and Death Mechanism)
 
@@ -76,9 +76,9 @@ $`
 
 The Christian concept of "eternal life" can be understood through the death and rebirth mechanism in Quantum-Classical Dualism. After death, believers' quantum consciousness establishes stable entanglement directly with God (the highest-dimensional observer) rather than entering a random next classical world:
 
-$`
+$$
 |\psi\rangle_{\text{信徒量子意识（死亡）}} \rightarrow |\psi\rangle_{\text{与上帝稳定纠缠}} \neq |\psi\rangle_{\text{随机新经典世界}}
-`$
+$$
 
 ### 7. 祷告与量子意识交流 (Prayer and Quantum Consciousness Communication)
 
@@ -86,9 +86,9 @@ $`
 
 Christian "prayer" is a way for believers to communicate with God. From the perspective of Quantum-Classical Dualism, this is the process where lower-dimensional observers establish temporary entanglement with higher-dimensional observers through quantum consciousness:
 
-$`
+$$
 \text{祷告} = |\psi\rangle_{\text{信徒量子意识}} \leftrightarrow |\psi\rangle_{\text{上帝量子意识}}
-`$
+$$
 
 ### 8. 基督再临与宇宙终极状态 (Second Coming and Cosmic Ultimate State)
 
@@ -96,9 +96,9 @@ $`
 
 The Second Coming of Christ and Final Judgment prophesied in Christianity can be understood as the ultimate completion of the cosmic classicalization process, where classical knowledge is maximized and classical entropy is minimized:
 
-$`
+$$
 \text{基督再临} \Leftrightarrow \text{宇宙经典化终极完成} \Rightarrow I_{\text{经典知识最大化}} + S_{\text{经典熵最小化}}
-`$
+$$
 
 ## 结论 (Conclusion)
 

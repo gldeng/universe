@@ -29,46 +29,46 @@
 **中文**：
 奥古斯丁的原罪理论可以通过量子经典二元论的熵增加概念来理解。亚当的堕落代表了人类观察者从低熵状态（伊甸园）向高熵状态（堕落世界）的转变：
 
-$`
+$$
 I_{\text{伊甸园低熵状态}} \xrightarrow{\text{原罪事件}} S_{\text{人类高熵状态}}
-`$
+$$
 
 这种熵增加代表了人类观察者降低了对宇宙量子可能性的经典化能力，需要外部量子随机信息（神的恩典）来重新降低熵：
 
-$`
+$$
 S_{\text{原罪高熵状态}}+|\psi\rangle_{\text{神恩随机信息}} \rightarrow I_{\text{救赎经典知识}}+S_{\text{降低的经典熵}}
-`$
+$$
 
 **English**:
 Augustine's theory of original sin can be understood through the concept of entropy increase in quantum-classical dualism. Adam's fall represents the transition of human observers from a low-entropy state (Eden) to a high-entropy state (fallen world):
 
-$`
+$$
 I_{\text{Eden Low Entropy State}} \xrightarrow{\text{Original Sin Event}} S_{\text{Human High Entropy State}}
-`$
+$$
 
 This entropy increase represents the reduced ability of human observers to classicalize the quantum possibilities of the universe, requiring external quantum random information (divine grace) to reduce entropy again:
 
-$`
+$$
 S_{\text{Original Sin High Entropy State}}+|\psi\rangle_{\text{Divine Grace Random Information}} \rightarrow I_{\text{Salvation Classical Knowledge}}+S_{\text{Reduced Classical Entropy}}
-`$
+$$
 
 ### 预定论与观察者维度 | Predestination and Observer Dimensions
 
 **中文**：
 奥古斯丁的预定论可理解为观察者维度的层级结构。神作为终极高维观察者，能够"预先看见"低维观察者（人类）的全部经典路径可能性：
 
-$`
+$$
 \text{神（高维观察者）}\propto\frac{I_{\text{全部经典知识}}}{S_{\text{最小经典熵}}} \gg \text{人（低维观察者）}\propto\frac{I_{\text{有限经典知识}}}{S_{\text{高经典熵}}}
-`$
+$$
 
 奥古斯丁的预定论不是否认人的自由意志，而是认识到高维观察者可以同时观察到所有低维观察者的可能经典化路径，呈现为"预定"。
 
 **English**:
 Augustine's predestination can be understood as a hierarchical structure of observer dimensions. God, as the ultimate high-dimensional observer, can "foresee" all possible classical path possibilities of low-dimensional observers (humans):
 
-$`
+$$
 \text{God (High-dimensional Observer)}\propto\frac{I_{\text{All Classical Knowledge}}}{S_{\text{Minimal Classical Entropy}}} \gg \text{Human (Low-dimensional Observer)}\propto\frac{I_{\text{Limited Classical Knowledge}}}{S_{\text{High Classical Entropy}}}
-`$
+$$
 
 Augustine's predestination does not deny human free will but recognizes that a high-dimensional observer can simultaneously observe all possible classicalization paths of low-dimensional observers, appearing as "predestination."
 
@@ -77,18 +77,18 @@ Augustine's predestination does not deny human free will but recognizes that a h
 **中文**：
 奥古斯丁对时间的分析可通过经典记忆与量子可能性的关系来理解。他认为过去通过记忆存在，未来通过期待存在，现在则是两者的交汇点：
 
-$`
+$$
 \text{过去} = I_{\text{经典记忆}}，\quad \text{未来} = |\psi\rangle_{\text{量子可能性}}，\quad \text{现在} = I_{\text{经典记忆}} \cap |\psi\rangle_{\text{量子可能性}}
-`$
+$$
 
 这种时间结构反映了观察者在量子经典二元论中的核心角色，既创造经典记忆，又面对量子可能性。
 
 **English**:
 Augustine's analysis of time can be understood through the relationship between classical memory and quantum possibilities. He believed that the past exists through memory, the future through anticipation, and the present is the intersection point of both:
 
-$`
+$$
 \text{Past} = I_{\text{Classical Memory}}，\quad \text{Future} = |\psi\rangle_{\text{Quantum Possibilities}}，\quad \text{Present} = I_{\text{Classical Memory}} \cap |\psi\rangle_{\text{Quantum Possibilities}}
-`$
+$$
 
 This temporal structure reflects the core role of observers in quantum-classical dualism, both creating classical memories and facing quantum possibilities.
 
@@ -97,18 +97,18 @@ This temporal structure reflects the core role of observers in quantum-classical
 **中文**：
 奥古斯丁的内在真理理论反映了观察者内部的量子-经典统一。他认为真理存在于人心之内，通过内省和神圣光照发现，这可理解为观察者内部的经典化过程：
 
-$`
+$$
 |\psi\rangle_{\text{量子内在真理}}+|\psi\rangle_{\text{神圣光照}} \xrightarrow{\text{内省经典化}} I_{\text{经典真理知识}}+S_{\text{降低的经典熵}}
-`$
+$$
 
 这一过程中，神圣光照作为外部量子随机信息，帮助观察者将内在的量子真理经典化为明确的知识。
 
 **English**:
 Augustine's theory of interior truth reflects the quantum-classical unity within the observer. He believed that truth resides within the human heart, discovered through introspection and divine illumination, which can be understood as the classicalization process within the observer:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Interior Truth}}+|\psi\rangle_{\text{Divine Illumination}} \xrightarrow{\text{Introspection Classicalization}} I_{\text{Classical Truth Knowledge}}+S_{\text{Reduced Classical Entropy}}
-`$
+$$
 
 In this process, divine illumination serves as external quantum random information, helping observers classicalize interior quantum truth into explicit knowledge.
 
@@ -117,18 +117,18 @@ In this process, divine illumination serves as external quantum random informati
 **中文**：
 奥古斯丁的"恶的私缺理论"与量子经典二元论中的熵概念高度一致。他认为恶不是实体，而是善的缺失，这直接对应于经典熵的增加（信息的缺失）：
 
-$`
+$$
 \text{恶} = S_{\text{经典熵增加}} = \text{善的缺失} = I_{\text{经典知识减少}}
-`$
+$$
 
 因此，恶的本质是经典知识的降低和经典熵的增加，而非独立实体。这解释了为何奥古斯丁认为万物本质上是善的，恶只是善的扭曲或缺失。
 
 **English**:
 Augustine's "theory of evil as privation" highly aligns with the concept of entropy in quantum-classical dualism. He believed that evil is not a substance but the absence of good, which directly corresponds to the increase of classical entropy (loss of information):
 
-$`
+$$
 \text{Evil} = S_{\text{Classical Entropy Increase}} = \text{Absence of Good} = I_{\text{Classical Knowledge Decrease}}
-`$
+$$
 
 Thus, the essence of evil is the reduction of classical knowledge and the increase of classical entropy, rather than an independent entity. This explains why Augustine believed that all things are essentially good, and evil is merely the distortion or absence of good.
 

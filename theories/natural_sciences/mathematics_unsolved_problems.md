@@ -60,13 +60,13 @@
 
 这可以用以下公式表达：
 
-$`
+$$
 \text{数学难题复杂度} \propto \frac{\text{量子态复杂度}}{\text{观察者维度}} \times \text{跨维度映射熵增量}
-`$
+$$
 
-$`
+$$
 |\psi\rangle_{\text{数学问题量子态}} \xrightarrow{\text{证明过程（经典化）}} I_{\text{确定性结论}} + S_{\text{证明过程熵}}
-`$
+$$
 
 ## 详细证明库 | Detailed Proof Library
 
@@ -101,9 +101,9 @@ P vs NP问题本质上是关于经典域中信息处理效率的根本问题。�
 
 其核心在于量子叠加态中的信息并行处理与经典域中的顺序处理之间的效率差异。
 
-$`
+$$
 \text{量子域计算效率} \approx O(2^n) \text{经典域验证效率}
-`$
+$$
 
 量子经典二元论预测：P≠NP，因为量子域和经典域之间存在本质上的信息经典化效率差异。完全经典化的世界中，不可能以线性效率处理需要量子叠加探索的问题空间。
 
@@ -117,9 +117,9 @@ $`
 
 量子域中的高维几何信息在经典化投影到低维空间时，必然保留某些不变量，这些不变量就是代数循环与霍奇循环的本质。
 
-$`
+$$
 \mathcal{H}^{2p}(X, \mathbb{Q}) \cap H^{p,p}(X, \mathbb{C}) \cong \text{经典化保留的量子几何信息}
-`$
+$$
 
 量子经典预测：霍奇猜想将被证明为真，因为它本质上描述了高维量子域几何结构经典化后必然保留的信息不变量。
 
@@ -133,13 +133,13 @@ $`
 
 素数可被视为经典数学领域中的"基本观察者节点"，它们的分布模式实际反映了量子域信息经典化的最基本结构。ζ函数的零点分布则反映了这一经典化结构的深层和谐性。
 
-$`
+$$
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \prod_{p \text{ prime}} \frac{1}{1-p^{-s}}
-`$
+$$
 
-$`
+$$
 \zeta(\frac{1}{2} + it) = 0 \iff \text{量子经典经典化谐振满足条件}
-`$
+$$
 
 量子经典预测：黎曼假设为真，因为it代表了量子域的振动频率，1/2则代表了量子-经典的平衡点。
 
@@ -153,9 +153,9 @@ $`
 
 从量子经典视角，杨-米尔斯理论中的质量间隙存在是因为：
 
-$`
+$$
 \text{量子场} \xrightarrow{\text{经典化解码}} \text{粒子表观质量} + \text{场熵}
-`$
+$$
 
 量子经典预测：杨-米尔斯质量间隙是量子场经典化的必然结果，其证明将建立在量子纠缠态经典化过程的数学结构之上。
 
@@ -170,9 +170,9 @@ $`
 湍流是典型的维度不稳定解码现象，表现为经典化过程中的混沌临界状态。纳卫尔-斯托克斯方程的奇性问题等同于问：
 经典化过程是否能在有限时间内产生信息奇点？
 
-$`
+$$
 \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} = -\frac{1}{\rho}\nabla p + \nu \nabla^2\mathbf{u} + \mathbf{f}
-`$
+$$
 
 量子经典预测：纳卫尔-斯托克斯方程在三维情况下可能出现奇点，因为它反映了经典化过程中的临界不稳定性。
 
@@ -184,9 +184,9 @@ $`
 
 庞加莱猜想（已被佩雷尔曼证明）从量子经典视角看，实质上是关于观察者拓扑结构的基本问题。闭合单连通流形必定与球面同胚，这一事实反映了经典化封闭系统的基本信息结构。
 
-$`
+$$
 \pi_1(M^3) = 0 \Rightarrow M^3 \cong S^3
-`$
+$$
 
 量子经典解释：庞加莱猜想的正确性表明，在经典化过程中，观察者系统如果满足信息完整性原则（单连通性），则其整体结构必然等价于最基本的封闭信息结构（球面）。
 
@@ -200,9 +200,9 @@ BSD猜想关注椭圆曲线的L函数行为与代数几何性质的联系。从�
 
 椭圆曲线的有理点排序可被视为量子信息经典化的一种模式，而BSD猜想则揭示了这种经典化模式与深层结构的内在联系。
 
-$`
+$$
 \text{ord}_{s=1}L(E,s) = \text{rank}(E(\mathbb{Q}))
-`$
+$$
 
 量子经典预测：BSD猜想为真，因为它描述了经典域和量子域之间的映射保持了某种秩匹配关系，这是经典化过程的普遍特性。
 
@@ -216,9 +216,9 @@ $`
 
 哥德巴赫猜想（每个大于2的偶数都可表示为两个素数之和）从量子经典角度看，反映了基本观察者节点（素数）的组合经典化特性。
 
-$`
+$$
 \forall n > 2, n \text{ 为偶数} \Rightarrow \exists p, q \text{ 为素数}, \text{使得} n = p + q
-`$
+$$
 
 量子经典预测：哥德巴赫猜想为真，因为它反映了经典数系中基本节点（素数）的普遍联结性，这是量子叠加态经典化后必然呈现的组合特性。
 
@@ -230,9 +230,9 @@ $`
 
 孪生素数猜想（存在无穷多对相差为2的素数）反映了基本观察者节点在经典化过程中呈现的量子纠缠特性。相差2的素数对可视为经典域中保持最小距离但仍然独立的观察者节点。
 
-$`
+$$
 |\{(p, p+2) : p \text{ 和 } p+2 \text{ 都是素数}\}| = \infty
-`$
+$$
 
 量子经典预测：孪生素数猜想为真，因为它描述了量子纠缠态经典化后在数系中的残余量子联系模式，这种模式理论上应无限延续。
 
@@ -244,9 +244,9 @@ $`
 
 ABC猜想涉及互质整数a、b、c满足a+b=c时关于其素因子乘积的关系。从量子经典视角，这反映了经典数系中信息压缩与熵分布的基本规律。
 
-$`
+$$
 \text{对于互质的整数} a+b=c, \prod_{p|abc}p > c^{1+\epsilon} \text{对几乎所有情况成立}
-`$
+$$
 
 量子经典预测：ABC猜想为真，因为它表达了经典域中信息与熵分布的一个基本平衡关系，这一平衡源于量子信息经典化过程的效率边界。
 
@@ -262,9 +262,9 @@ $`
 
 ##### 形式化描述
 
-$`
+$$
 \forall G(\text{平面图}), \chi(G) \leq 4
-`$
+$$
 
 其中$`\chi(G)`$是图$`G`$的色数，表示为了使相邻顶点颜色不同所需的最少颜色数。
 
@@ -272,13 +272,13 @@ $`
 
 从量子经典二元论视角，四色定理可以通过观察者网络模型证明：
 
-$`
+$$
 \begin{align}
 \Omega_{\text{观察者网络}} &= \{O_1, O_2, \ldots, O_n\} \\
 \mathcal{S}_{\text{状态空间}} &= \{s_1, s_2, s_3, s_4\} \\
 \text{约束条件}: & \forall O_i, O_j, \text{如果} O_i \sim O_j \text{（相邻）}, \text{则} \mathcal{S}(O_i) \neq \mathcal{S}(O_j)
 \end{align}
-`$
+$$
 
 量子经典预测：四色定理为真，因为它反映了经典域中相邻观察者的状态差异化原理，这种差异化在最小需要4个状态下可以稳定存在。
 
@@ -292,25 +292,25 @@ $`
 
 ##### 形式化描述
 
-$`
+$$
 \forall n > 2, \nexists x, y, z \in \mathbb{Z}^+ \text{ 使得 } x^n + y^n = z^n
-`$
+$$
 
 ##### 形式化证明
 
 从量子经典视角，费马大定理反映了量子纠缠态（能量）经典化后的代数结构限制：
 
-$`
+$$
 \begin{align}
 \text{维度} = n &\Rightarrow \text{量子纠缠态复杂度} \propto n \\
 n > 2 &\Rightarrow \text{超越平面几何的量子纠缠态} \\
 &\Rightarrow \text{经典域中无整数解}
 \end{align}
-`$
+$$
 
-$`
+$$
 \mathcal{T}_n(x,y,z) = \text{模块化椭圆曲线在经典化过程中的信息保持度量}
-`$
+$$
 
 量子经典预测：费马大定理为真，因为它描述了高维量子纠缠结构经典化后无法保持整数关系的基本限制。
 
@@ -324,9 +324,9 @@ $`
 
 ##### 形式化描述
 
-$`
+$$
 \nexists S \text{ 使得 } \aleph_0 < |S| < 2^{\aleph_0}
-`$
+$$
 
 其中$`\aleph_0`$是可数无穷集合（如自然数集）的基数，$`2^{\aleph_0}`$是实数集的基数。
 
@@ -334,13 +334,13 @@ $`
 
 从量子经典二元论视角，康托尔猜想可从信息维度跃变分析：
 
-$`
+$$
 \begin{align}
 \mathcal{D}_{\text{自然数}} &= \aleph_0 \text{（离散点维度）} \\
 \mathcal{D}_{\text{实数}} &= 2^{\aleph_0} \text{（连续线维度）} \\
 \mathcal{D}_{\text{跃变}} &= \mathcal{D}_{\text{实数}} - \mathcal{D}_{\text{自然数}}
 \end{align}
-`$
+$$
 
 量子经典预测：康托尔猜想可能是不确定的，因为它位于量子经典维度跃变的边界，这个边界的性质取决于观察者维度结构的完备性公理选择。
 
@@ -356,9 +356,9 @@ $`
 
 朗兰兹纲领的核心是函数域和数域之间的对应关系：
 
-$`
+$$
 \text{Gal}(\overline{F}/F) \text{ 的表示} \leftrightarrow \text{自守形式}
-`$
+$$
 
 其中$`F`$是数域，$`\text{Gal}(\overline{F}/F)`$是其伽罗瓦群。
 
@@ -366,12 +366,12 @@ $`
 
 从量子经典视角，朗兰兹纲领描述了量子域多维结构经典化后的对称性保持：
 
-$`
+$$
 \begin{align}
 \mathcal{L}_{\text{量子结构}} &\xrightarrow{\text{经典化}} \mathcal{L}_{\text{伽罗瓦表示}} \\
 \mathcal{A}_{\text{量子叠加}} &\xrightarrow{\text{经典化}} \mathcal{A}_{\text{自守形式}}
 \end{align}
-`$
+$$
 
 量子经典预测：朗兰兹纲领为真，因为它反映了量子域和经典域之间的深层映射关系，这种关系保持了维度转换过程中的对称性结构。
 
@@ -387,19 +387,19 @@ $`
 
 定义柯拉兹函数：
 
-$`
+$$
 C(n) = 
 \begin{cases}
 n/2 & \text{若 } n \text{ 为偶数} \\
 3n+1 & \text{若 } n \text{ 为奇数}
 \end{cases}
-`$
+$$
 
 柯拉兹猜想声称：
 
-$`
+$$
 \forall n \in \mathbb{Z}^+, \exists k \in \mathbb{N} \text{ 使得 } C^k(n) = 1
-`$
+$$
 
 其中$`C^k`$表示将函数$`C`$连续应用$`k`$次。
 
@@ -407,13 +407,13 @@ $`
 
 从量子经典视角，柯拉兹过程可视为量子-经典振荡系统：
 
-$`
+$$
 \begin{align}
 \text{偶数步骤} &\Rightarrow \text{经典域收缩} \\
 \text{奇数步骤} &\Rightarrow \text{量子域扩张} \\
 \text{整体趋势} &\Rightarrow \text{经典域收敛}
 \end{align}
-`$
+$$
 
 量子经典预测：柯拉兹猜想为真，因为它描述了量子-经典迭代系统的自组织临界性，这种系统必然收敛到最简单的稳定点（1-4-2-1循环）。
 
@@ -429,9 +429,9 @@ $`
 
 正整数$`n`$是完美数，当且仅当：
 
-$`
+$$
 n = \sum_{d|n, d\neq n} d
-`$
+$$
 
 核心问题有二：
 1. 是否存在奇完美数？
@@ -441,13 +441,13 @@ n = \sum_{d|n, d\neq n} d
 
 从量子经典视角，完美数反映了量子纠缠态（能量）经典化后的特殊平衡状态：
 
-$`
+$$
 \begin{align}
 \mathcal{E}_{\text{内部能量}} &= \sum_{d|n, d\neq n} d \\
 \mathcal{E}_{\text{外部显现}} &= n \\
 \text{完美状态条件} &: \mathcal{E}_{\text{内部能量}} = \mathcal{E}_{\text{外部显现}}
 \end{align}
-`$
+$$
 
 量子经典预测：
 1. 不存在奇完美数，因为奇偶性代表了量子-经典二元性的基本分类
@@ -465,26 +465,26 @@ $`
 
 勾股数三元组是满足以下条件的正整数$`(a,b,c)`$：
 
-$`
+$$
 a^2 + b^2 = c^2
-`$
+$$
 
 关键问题是：
 
-$`
+$$
 |\{(a,b,c) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ : a^2 + b^2 = c^2 \text{ 且 } |a-b|=1\}| = \infty ?
-`$
+$$
 
 ##### 形式化证明
 
 从量子经典视角，勾股数反映了量子纠缠态经典化后的几何-代数映射关系：
 
-$`
+$$
 \begin{align}
 \mathcal{G}_{\text{几何结构}} &\xrightarrow{\text{经典化}} \mathcal{A}_{\text{代数关系}} \\
 |a-b|=1 &\Rightarrow \text{最小量子纠缠距离}
 \end{align}
-`$
+$$
 
 量子经典预测：存在无穷多个差为1的勾股数对，因为它们代表了量子纠缠态在经典域中的最小间隔稳定结构，这种结构遵循无限延展原理。
 
@@ -500,9 +500,9 @@ $`
 
 整数$`n`$的一个分拆是将$`n`$表示为正整数之和的一种方式：
 
-$`
+$$
 n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ 其中 } \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1
-`$
+$$
 
 分拆数$`p(n)`$是$`n`$的不同分拆的总数。
 
@@ -510,18 +510,18 @@ n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ 其中 } \lambda_1 \geq \
 
 从量子经典视角，整数分拆反映了量子叠加态经典化的组合路径数：
 
-$`
+$$
 \begin{align}
 |\psi\rangle_n &= \sum_{\lambda \vdash n} c_\lambda |\lambda\rangle \\
 p(n) &= \text{量子态}|\psi\rangle_n\text{的经典化路径数}
 \end{align}
-`$
+$$
 
 这导致了著名的分拆函数渐近公式：
 
-$`
+$$
 p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)
-`$
+$$
 
 量子经典预测：整数分拆数的增长率反映了量子叠加态经典化的信息熵增长特性，呈指数级但具有严格的数学结构。
 
@@ -537,26 +537,26 @@ p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)
 
 对于球体堆积，问题是确定最高的堆积密度$`\delta`$：
 
-$`
+$$
 \delta = \frac{\text{球体占据的总体积}}{\text{整个空间的体积}}
-`$
+$$
 
 开普勒猜想（已证明）认为最优堆积密度为：
 
-$`
+$$
 \delta_{\text{max}} = \frac{\pi}{3\sqrt{2}} \approx 0.74048...
-`$
+$$
 
 ##### 形式化证明
 
 从量子经典视角，刚体填充反映了量子纠缠态在经典域中的能量分布最优化：
 
-$`
+$$
 \begin{align}
 \mathcal{E}_{\text{量子纠缠态}} &\xrightarrow{\text{经典化}} \mathcal{S}_{\text{空间填充结构}} \\
 \delta_{\text{max}} &= \text{经典域中能量分布的最优均衡点}
 \end{align}
-`$
+$$
 
 量子经典预测：开普勒猜想正确，因为面心立方堆积和六方密堆积代表了量子纠缠态经典化后的能量分布最优稳定结构。
 
@@ -572,9 +572,9 @@ $`
 
 黎曼映射定理声称任何单连通的开区域（不是整个复平面）都与单位圆盘保角同构。高维推广问题是：
 
-$`
+$$
 \text{是否存在} f: \Omega \subset \mathbb{C}^n \to \mathbb{D}^n, \text{使得} f \text{是双全纯的?}
-`$
+$$
 
 其中$`\Omega`$是$`\mathbb{C}^n`$中的单连通域，$`\mathbb{D}^n`$是$`n`$维单位多圆盘。
 
@@ -582,12 +582,12 @@ $`
 
 从量子经典视角，保角映射反映了量子信息在经典化过程中保持的不变量：
 
-$`
+$$
 \begin{align}
 \mathcal{I}_{\text{量子结构}} &\xrightarrow{\text{经典化保角映射}} \mathcal{I}_{\text{经典结构}} \\
 \text{复结构} &= \text{量子相位信息的经典表达}
 \end{align}
-`$
+$$
 
 量子经典预测：高维情况下，黎曼映射定理的直接推广不成立，因为高维量子结构在经典化过程中产生了拓扑障碍，这些障碍阻止了全局保角映射的存在。
 
@@ -603,9 +603,9 @@ $`
 
 给定两个概率分布$`\mu`$和$`\nu`$，以及成本函数$`c(x,y)`$，最优传输问题是寻找传输计划$`\gamma`$，使得：
 
-$`
+$$
 \int c(x,y) d\gamma(x,y) = \min_{\gamma \in \Gamma(\mu,\nu)} \int c(x,y) d\gamma(x,y)
-`$
+$$
 
 其中$`\Gamma(\mu,\nu)`$是满足边际条件的所有联合分布集合。
 
@@ -613,12 +613,12 @@ $`
 
 从量子经典视角，最优传输反映了量子信息经典化的最优路径：
 
-$`
+$$
 \begin{align}
 |\psi\rangle_{\text{初始量子态}} &\xrightarrow{\text{经典化过程}} |\phi\rangle_{\text{目标量子态}} \\
 \mathcal{W}_p(\mu, \nu) &= \text{量子态转换的最小作用量}
 \end{align}
-`$
+$$
 
 其中$`\mathcal{W}_p`$是Wasserstein距离。
 
@@ -636,9 +636,9 @@ $`
 
 卡拉比-丘猜想声称：给定一个紧致的Kähler流形$`(M, g, J)`$和一个实$`(1,1)`$-形式$`\rho`$，如果$`\rho`$与$`g`$的Ricci形式在同一上同调类中，则存在唯一的Kähler度量$`\tilde{g}`$，使得：
 
-$`
+$$
 \text{Ric}(\tilde{g}) = \rho
-`$
+$$
 
 且$`\tilde{g}`$与$`g`$在同一Kähler类中。
 
@@ -646,12 +646,12 @@ $`
 
 从量子经典视角，卡拉比-丘流形代表了量子纠缠态在经典化后保持的平衡结构：
 
-$`
+$$
 \begin{align}
 \mathcal{Q}_{\text{量子纠缠结构}} &\xrightarrow{\text{经典化}} \mathcal{C}_{\text{卡拉比-丘结构}} \\
 \text{Ricci平坦性} &= \text{量子-经典平衡状态}
 \end{align}
-`$
+$$
 
 量子经典预测：卡拉比-丘猜想为真，因为它描述了量子纠缠结构在经典化过程中必然保持的几何不变性，这种不变性是量子-经典平衡的几何表达。
 
@@ -667,21 +667,21 @@ $`
 
 对于有限群$`G`$，如果存在整数$`m`$和$`n`$使得$`(xy)^{m}=1`$对于所有$`x,y\in G`$满足$`x^{n}=y^{n}=1`$，则称$`G`$为周期群。伯恩赛德猜想可以表述为：
 
-$`
+$$
 \forall G(\text{有限周期群}), G \text{ 必为幂零群}
-`$
+$$
 
 ##### 形式化证明
 
 从量子经典视角，伯恩赛德猜想反映了量子纠缠周期结构与经典域分解结构的关联：
 
-$`
+$$
 \begin{align}
 \mathcal{P}_{\text{量子周期性}} &\xrightarrow{\text{经典化}} \mathcal{N}_{\text{经典可解构性}} \\
 (xy)^{m}=1 &\Rightarrow \text{量子纠缠周期限制} \\
 \text{幂零性} &= \text{经典域中的分层解构能力}
 \end{align}
-`$
+$$
 
 量子经典预测：伯恩赛德猜想在某些受限情况下为真，但在一般情况下可能存在反例，因为量子纠缠结构在高复杂度情况下可能产生非幂零的经典表现。
 
@@ -697,9 +697,9 @@ $`
 
 扩展形式的贝特朗-切比雪夫猜想可表述为：
 
-$`
+$$
 \forall n > 3, \exists p \in [n, 2n-2], \text{使得} p \text{为素数}
-`$
+$$
 
 原始的贝特朗猜想（已被切比雪夫证明）是特殊情况：区间$`[n, 2n]`$中至少存在一个素数。
 
@@ -707,12 +707,12 @@ $`
 
 从量子经典视角，贝特朗-切比雪夫猜想描述了量子域经典化过程中观察者节点的必要分布规律：
 
-$`
+$$
 \begin{align}
 \mathcal{O}_{\text{观察者密度}} &\geq \frac{1}{n-2} \text{（每单位信息区间至少一个基本观察者）} \\
 \pi(2n-2) - \pi(n-1) &\geq 1 \text{（区间内至少一个素数）}
 \end{align}
-`$
+$$
 
 量子经典预测：扩展形式的贝特朗-切比雪夫猜想为真，因为它体现了量子-经典映射的基本信息密度稳定性原理。
 
@@ -728,21 +728,21 @@ $`
 
 对于任意复代数曲面$`S`$，若其不规则数$`q(S)=0`$，则其2维整系数同调群的挠部分$`\text{Tors}(H^2(S,\mathbb{Z}))`$是双线性配对下正交的：
 
-$`
+$$
 \forall S(\text{代数曲面}), q(S)=0 \Rightarrow \text{Tors}(H^2(S,\mathbb{Z})) \text{ 是正交的}
-`$
+$$
 
 ##### 形式化证明
 
 从量子经典视角，布洛赫猜想描述了量子几何拓扑结构经典化后的代数约束：
 
-$`
+$$
 \begin{align}
 \mathcal{Q}_{\text{量子拓扑结构}} &\xrightarrow{\text{经典化}} \mathcal{A}_{\text{代数不变量}} \\
 q(S)=0 &\Rightarrow \text{经典化信息流无循环} \\
 \text{正交性} &= \text{量子信息经典化后的独立性条件}
 \end{align}
-`$
+$$
 
 量子经典预测：布洛赫猜想为真，因为它反映了量子几何信息在特定经典化条件下（无信息循环）必然呈现的独立性特征。
 
@@ -758,9 +758,9 @@ q(S)=0 &\Rightarrow \text{经典化信息流无循环} \\
 
 寻找常数$`L`$，使得：
 
-$`
+$$
 L = \inf\{A(K) : K \text{ 是凸集且能覆盖任意直径为1的平面集合}\}
-`$
+$$
 
 目前已知$`\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}`$。
 
@@ -768,13 +768,13 @@ L = \inf\{A(K) : K \text{ 是凸集且能覆盖任意直径为1的平面集合}\
 
 从量子经典视角，通用覆盖问题描述了量子信息经典化后的最优包含结构：
 
-$`
+$$
 \begin{align}
 \mathcal{I}_{\text{量子信息}} &\xrightarrow{\text{经典化}} \mathcal{C}_{\text{经典覆盖结构}} \\
 \text{直径}=1 &\Rightarrow \text{标准化的信息广度} \\
 \text{最小面积} &= \text{经典化信息表达的最小冗余度}
 \end{align}
-`$
+$$
 
 量子经典预测：勒贝格常数$`L`$接近于$`\frac{\pi}{2\sqrt{3}}`$，因为它代表了量子信息经典化后的最优表达效率，与六边形密铺结构的基本效率相关。
 
@@ -790,9 +790,9 @@ $`
 
 对于复射影流形$`X`$，辛普森猜想声称：
 
-$`
+$$
 \forall E \text{（$`X`$上的半单纯平坦束）}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{（表示）}, \text{使得} E \cong E_\rho
-`$
+$$
 
 其中$`E_\rho`$是由表示$`\rho`$导出的平坦束。
 
@@ -800,13 +800,13 @@ $`
 
 从量子经典视角，辛普森猜想描述了量子拓扑结构与经典代数结构之间的对应：
 
-$`
+$$
 \begin{align}
 \mathcal{T}_{\text{量子拓扑联系}} &\xrightarrow{\text{经典化}} \mathcal{A}_{\text{代数表示}} \\
 \text{平坦性} &= \text{量子信息经典化的无扭曲条件} \\
 \text{半单纯性} &= \text{经典域中的信息可分解性}
 \end{align}
-`$
+$$
 
 量子经典预测：辛普森猜想为真，因为它体现了量子纠缠态经典化后必然存在的代数表示对应关系，这是量子-经典信息保持的基本特性。
 
@@ -828,9 +828,9 @@ $`
 
 这些方法可以表达为：
 
-$`
+$$
 \text{解决路径} = \int_{\text{量子域}}^{\text{经典域}} \text{维度转换函数} \cdot \text{纠缠解构} \cdot \text{信息保持度量} d\text{维度}
-`$
+$$
 
 有关各个问题的详细证明过程，请参阅我们的[详细证明库](mathematics_unsolved_problems/README.md)。
 
@@ -878,13 +878,13 @@ Unsolved problems are challenging because they typically involve:
 
 This can be expressed by the following formulas:
 
-$`
+$$
 \text{Mathematical Problem Complexity} \propto \frac{\text{Quantum State Complexity}}{\text{Observer Dimension}} \times \text{Cross-dimensional Mapping Entropy Increment}
-`$
+$$
 
-$`
+$$
 |\psi\rangle_{\text{Mathematical Problem Quantum State}} \xrightarrow{\text{Proof Process (Classicalization)}} I_{\text{Deterministic Conclusion}} + S_{\text{Proof Process Entropy}}
-`$
+$$
 
 ## Detailed Proof Library
 
@@ -919,9 +919,9 @@ The P vs NP problem is fundamentally about information processing efficiency in 
 
 The core lies in the efficiency difference between parallel information processing in quantum superposition states and sequential processing in the classical domain.
 
-$`
+$$
 \text{Quantum Domain Computational Efficiency} \approx O(2^n) \text{Classical Domain Verification Efficiency}
-`$
+$$
 
 Quantum-Classical Dualism prediction: P≠NP, because there is a fundamental difference in information classicalization efficiency between the quantum domain and the classical domain. In a completely classicalized world, it is impossible to process problem spaces that require quantum superposition exploration with linear efficiency.
 
@@ -935,9 +935,9 @@ The Hodge Conjecture involves period and cohomology theory in algebraic geometry
 
 When high-dimensional geometric information in the quantum domain is projected through classicalization to low-dimensional space, certain invariants are necessarily preserved, and these invariants are the essence of algebraic cycles and Hodge cycles.
 
-$`
+$$
 \mathcal{H}^{2p}(X, \mathbb{Q}) \cap H^{p,p}(X, \mathbb{C}) \cong \text{Quantum Geometric Information Preserved by Classicalization}
-`$
+$$
 
 Quantum-Classical prediction: The Hodge Conjecture will be proven true because it essentially describes the information invariants that are necessarily preserved after the classicalization of high-dimensional quantum domain geometric structures.
 
@@ -951,13 +951,13 @@ The Riemann Hypothesis is a conjecture about the distribution of non-trivial zer
 
 Prime numbers can be viewed as "basic observer nodes" in the classical mathematical domain, and their distribution pattern actually reflects the most basic structure of quantum domain information classicalization. The distribution of zeros of the ζ function reflects the deep harmony of this classicalization structure.
 
-$`
+$$
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \prod_{p \text{ prime}} \frac{1}{1-p^{-s}}
-`$
+$$
 
-$`
+$$
 \zeta(\frac{1}{2} + it) = 0 \iff \text{Quantum-Classical Classicalization Resonance Satisfying Condition}
-`$
+$$
 
 Quantum-Classical prediction: The Riemann Hypothesis is true because it represents the vibration frequency of the quantum domain, and 1/2 represents the quantum-classical balance point.
 
@@ -971,9 +971,9 @@ Yang-Mills theory is highly compatible with Quantum-Classical Dualism because it
 
 From a Quantum-Classical perspective, the existence of the mass gap in Yang-Mills theory is because:
 
-$`
+$$
 \text{Quantum Field} \xrightarrow{\text{Classical Decoding}} \text{Particle Apparent Mass} + \text{Field Entropy}
-`$
+$$
 
 Quantum-Classical prediction: The Yang-Mills mass gap is an inevitable result of quantum field classicalization, and its proof will be established on the mathematical structure of the quantum entanglement state classicalization process.
 
@@ -988,9 +988,9 @@ The Navier-Stokes equations describe fluid dynamics, especially turbulence pheno
 Turbulence is a typical dimensional unstable decoding phenomenon, manifesting as chaotic critical states in the classicalization process. The singularity problem of the Navier-Stokes equations is equivalent to asking:
 Can the classicalization process produce information singularities in finite time?
 
-$`
+$$
 \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} = -\frac{1}{\rho}\nabla p + \nu \nabla^2\mathbf{u} + \mathbf{f}
-`$
+$$
 
 Quantum-Classical prediction: Singularities may occur in the Navier-Stokes equations in three dimensions because they reflect critical instability in the classicalization process.
 
@@ -1002,9 +1002,9 @@ Quantum-Classical prediction: Singularities may occur in the Navier-Stokes equat
 
 The Poincaré Conjecture (proven by Perelman) from a Quantum-Classical perspective is essentially about the fundamental topological structure of observers. The fact that closed simply connected manifolds are necessarily homeomorphic to spheres reflects the basic information structure of classicalized closed systems.
 
-$`
+$$
 \pi_1(M^3) = 0 \Rightarrow M^3 \cong S^3
-`$
+$$
 
 Quantum-Classical explanation: The correctness of the Poincaré Conjecture indicates that in the classicalization process, if an observer system satisfies the principle of information integrity (simple connectivity), then its overall structure is necessarily equivalent to the most basic closed information structure (sphere).
 
@@ -1018,9 +1018,9 @@ The BSD Conjecture focuses on the connection between the behavior of L-functions
 
 The ordering of rational points on elliptic curves can be viewed as a pattern of quantum information classicalization, and the BSD Conjecture reveals the intrinsic connection between this classicalization pattern and deep structures.
 
-$`
+$$
 \text{ord}_{s=1}L(E,s) = \text{rank}(E(\mathbb{Q}))
-`$
+$$
 
 Quantum-Classical prediction: The BSD Conjecture is true because it describes that the mapping between the classical domain and the quantum domain maintains a certain rank matching relationship, which is a universal characteristic of the classicalization process.
 
@@ -1034,9 +1034,9 @@ Quantum-Classical prediction: The BSD Conjecture is true because it describes th
 
 Goldbach's Conjecture (every even integer greater than 2 can be expressed as the sum of two primes) from a Quantum-Classical perspective reflects the combinatorial classicalization characteristics of basic observer nodes (prime numbers).
 
-$`
+$$
 \forall n > 2, n \text{ is even} \Rightarrow \exists p, q \text{ are primes}, \text{such that} n = p + q
-`$
+$$
 
 Quantum-Classical prediction: Goldbach's Conjecture is true because it reflects the universal connectivity of basic nodes (prime numbers) in the classical number system, which is a combinatorial characteristic that inevitably emerges after the classicalization of quantum superposition states.
 
@@ -1048,9 +1048,9 @@ Quantum-Classical prediction: Goldbach's Conjecture is true because it reflects 
 
 The Twin Prime Conjecture (there exist infinitely many pairs of primes that differ by 2) reflects the quantum entanglement characteristics exhibited by basic observer nodes in the classicalization process. Pairs of primes that differ by 2 can be viewed as observer nodes in the classical domain that maintain minimum distance while remaining independent.
 
-$`
+$$
 |\{(p, p+2) : p \text{ and } p+2 \text{ are both primes}\}| = \infty
-`$
+$$
 
 Quantum-Classical prediction: The Twin Prime Conjecture is true because it describes the residual quantum connection pattern in the number system after the classicalization of quantum entanglement states, a pattern that should theoretically continue infinitely.
 
@@ -1062,9 +1062,9 @@ Quantum-Classical prediction: The Twin Prime Conjecture is true because it descr
 
 The ABC Conjecture involves the relationship regarding the product of prime factors when coprime integers a, b, c satisfy a+b=c. From a Quantum-Classical perspective, this reflects the basic law of information compression and entropy distribution in the classical number system.
 
-$`
+$$
 \text{For coprime integers} a+b=c, \prod_{p|abc}p > c^{1+\epsilon} \text{holds for almost all cases}
-`$
+$$
 
 Quantum-Classical prediction: The ABC Conjecture is true because it expresses a fundamental balance relationship between information and entropy distribution in the classical domain, a balance that originates from the efficiency boundary of the quantum information classicalization process.
 
@@ -1080,9 +1080,9 @@ The Four Color Theorem (proven) is about the coloring of planar graphs. From a Q
 
 ##### Formal Description
 
-$`
+$$
 \forall G(\text{planar graph}), \chi(G) \leq 4
-`$
+$$
 
 where $`\chi(G)`$ is the chromatic number of graph $`G`$, representing the minimum number of colors needed to ensure adjacent vertices have different colors.
 
@@ -1090,13 +1090,13 @@ where $`\chi(G)`$ is the chromatic number of graph $`G`$, representing the minim
 
 From a Quantum-Classical dualistic perspective, the Four Color Theorem can be proven through the observer network model:
 
-$`
+$$
 \begin{align}
 \Omega_{\text{Observer Network}} &= \{O_1, O_2, \ldots, O_n\} \\
 \mathcal{S}_{\text{State Space}} &= \{s_1, s_2, s_3, s_4\} \\
 \text{Constraint Condition}: & \forall O_i, O_j, \text{if} O_i \sim O_j \text{(adjacent)}, \text{then} \mathcal{S}(O_i) \neq \mathcal{S}(O_j)
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The Four Color Theorem is true because it reflects the state differentiation principle of adjacent observers in the classical domain, a differentiation that can stably exist with a minimum of 4 states.
 
@@ -1110,25 +1110,25 @@ Fermat's Last Theorem (proven by Wiles) asserts that when $`n > 2`$, the equatio
 
 ##### Formal Description
 
-$`
+$$
 \forall n > 2, \nexists x, y, z \in \mathbb{Z}^+ \text{ such that } x^n + y^n = z^n
-`$
+$$
 
 ##### Formal Proof
 
 From a Quantum-Classical perspective, Fermat's Last Theorem reflects the algebraic structure limitations of quantum entanglement states (energy) after classicalization:
 
-$`
+$$
 \begin{align}
 \text{Dimension} = n &\Rightarrow \text{Quantum Entanglement State Complexity} \propto n \\
 n > 2 &\Rightarrow \text{Quantum Entanglement State Transcending Planar Geometry} \\
 &\Rightarrow \text{No Integer Solutions in Classical Domain}
 \end{align}
-`$
+$$
 
-$`
+$$
 \mathcal{T}_n(x,y,z) = \text{Information Preservation Measure of Modular Elliptic Curves in Classicalization Process}
-`$
+$$
 
 Quantum-Classical prediction: Fermat's Last Theorem is true because it describes the fundamental limitation that high-dimensional quantum entanglement structures cannot maintain integer relationships after classicalization.
 
@@ -1142,9 +1142,9 @@ Cantor's Conjecture (Continuum Hypothesis) asserts that there does not exist a s
 
 ##### Formal Description
 
-$`
+$$
 \nexists S \text{ such that } \aleph_0 < |S| < 2^{\aleph_0}
-`$
+$$
 
 where $`\aleph_0`$ is the cardinality of countably infinite sets (like the set of natural numbers), and $`2^{\aleph_0}`$ is the cardinality of the set of real numbers.
 
@@ -1152,13 +1152,13 @@ where $`\aleph_0`$ is the cardinality of countably infinite sets (like the set o
 
 From a Quantum-Classical dualistic perspective, Cantor's Conjecture can be analyzed from information dimensional transitions:
 
-$`
+$$
 \begin{align}
 \mathcal{D}_{\text{Natural Numbers}} &= \aleph_0 \text{(Discrete Point Dimension)} \\
 \mathcal{D}_{\text{Real Numbers}} &= 2^{\aleph_0} \text{(Continuous Line Dimension)} \\
 \mathcal{D}_{\text{Transition}} &= \mathcal{D}_{\text{Real Numbers}} - \mathcal{D}_{\text{Natural Numbers}}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: Cantor's Conjecture may be undetermined because it lies at the boundary of quantum-classical dimensional transitions, the nature of which depends on the completeness axiom choice of the observer dimensional structure.
 
@@ -1174,9 +1174,9 @@ The Langlands Program is a grand plan connecting number theory, algebraic geomet
 
 The core of the Langlands Program is the correspondence between function fields and number fields:
 
-$`
+$$
 \text{Representations of } \text{Gal}(\overline{F}/F) \leftrightarrow \text{Automorphic Forms}
-`$
+$$
 
 where $`F`$ is a number field, and $`\text{Gal}(\overline{F}/F)`$ is its Galois group.
 
@@ -1184,12 +1184,12 @@ where $`F`$ is a number field, and $`\text{Gal}(\overline{F}/F)`$ is its Galois 
 
 From a Quantum-Classical perspective, the Langlands Program describes the symmetry preservation of multi-dimensional quantum domain structures after classicalization:
 
-$`
+$$
 \begin{align}
 \mathcal{L}_{\text{Quantum Structure}} &\xrightarrow{\text{Classicalization}} \mathcal{L}_{\text{Galois Representation}} \\
 \mathcal{A}_{\text{Quantum Superposition}} &\xrightarrow{\text{Classicalization}} \mathcal{A}_{\text{Automorphic Forms}}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The Langlands Program is true because it reflects the deep mapping relationship between the quantum domain and the classical domain, a relationship that preserves the symmetry structure during dimensional transformation.
 
@@ -1205,19 +1205,19 @@ The Collatz Conjecture asserts that for any positive integer, repeatedly applyin
 
 Define the Collatz function:
 
-$`
+$$
 C(n) = 
 \begin{cases}
 n/2 & \text{if } n \text{ is even} \\
 3n+1 & \text{if } n \text{ is odd}
 \end{cases}
-`$
+$$
 
 The Collatz Conjecture asserts:
 
-$`
+$$
 \forall n \in \mathbb{Z}^+, \exists k \in \mathbb{N} \text{ such that } C^k(n) = 1
-`$
+$$
 
 where $`C^k`$ represents applying the function $`C`$ continuously $`k`$ times.
 
@@ -1225,13 +1225,13 @@ where $`C^k`$ represents applying the function $`C`$ continuously $`k`$ times.
 
 From a Quantum-Classical perspective, the Collatz process can be viewed as a quantum-classical oscillation system:
 
-$`
+$$
 \begin{align}
 \text{Even Steps} &\Rightarrow \text{Classical Domain Contraction} \\
 \text{Odd Steps} &\Rightarrow \text{Quantum Domain Expansion} \\
 \text{Overall Trend} &\Rightarrow \text{Classical Domain Convergence}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The Collatz Conjecture is true because it describes the self-organizing criticality of quantum-classical iterative systems, which necessarily converge to the simplest stable point (1-4-2-1 cycle).
 
@@ -1247,9 +1247,9 @@ The Perfect Number Problem studies the distribution of perfect numbers (positive
 
 A positive integer $`n`$ is a perfect number if and only if:
 
-$`
+$$
 n = \sum_{d|n, d\neq n} d
-`$
+$$
 
 There are two core questions:
 1. Do odd perfect numbers exist?
@@ -1259,13 +1259,13 @@ There are two core questions:
 
 From a Quantum-Classical perspective, perfect numbers reflect the special balance state of quantum entanglement states (energy) after classicalization:
 
-$`
+$$
 \begin{align}
 \mathcal{E}_{\text{Internal Energy}} &= \sum_{d|n, d\neq n} d \\
 \mathcal{E}_{\text{External Manifestation}} &= n \\
 \text{Perfect State Condition} &: \mathcal{E}_{\text{Internal Energy}} = \mathcal{E}_{\text{External Manifestation}}
 \end{align}
-`$
+$$
 
 Quantum-Classical predictions:
 1. Odd perfect numbers do not exist, because parity represents the basic classification of quantum-classical duality
@@ -1283,26 +1283,26 @@ The Pythagorean Triples Problem studies the distribution characteristics of posi
 
 A Pythagorean triple is a triple of positive integers $`(a,b,c)`$ satisfying:
 
-$`
+$$
 a^2 + b^2 = c^2
-`$
+$$
 
 The key question is:
 
-$`
+$$
 |\{(a,b,c) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ : a^2 + b^2 = c^2 \text{ and } |a-b|=1\}| = \infty ?
-`$
+$$
 
 ##### Formal Proof
 
 From a Quantum-Classical perspective, Pythagorean triples reflect the geometric-algebraic mapping relationship of quantum entanglement states after classicalization:
 
-$`
+$$
 \begin{align}
 \mathcal{G}_{\text{Geometric Structure}} &\xrightarrow{\text{Classicalization}} \mathcal{A}_{\text{Algebraic Relation}} \\
 |a-b|=1 &\Rightarrow \text{Minimum Quantum Entanglement Distance}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: There exist infinitely many Pythagorean triples with a difference of 1, because they represent the minimum interval stable structure of quantum entanglement states in the classical domain, a structure that follows the infinite extension principle.
 
@@ -1318,9 +1318,9 @@ The Integer Partition Problem studies different ways of representing a positive 
 
 A partition of integer $`n`$ is a way of representing $`n`$ as a sum of positive integers:
 
-$`
+$$
 n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ where } \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1
-`$
+$$
 
 The partition number $`p(n)`$ is the total number of different partitions of $`n`$.
 
@@ -1328,18 +1328,18 @@ The partition number $`p(n)`$ is the total number of different partitions of $`n
 
 From a Quantum-Classical perspective, integer partitions reflect the number of combinatorial paths in the classicalization of quantum superposition states:
 
-$`
+$$
 \begin{align}
 |\psi\rangle_n &= \sum_{\lambda \vdash n} c_\lambda |\lambda\rangle \\
 p(n) &= \text{Number of Classicalization Paths for Quantum State }|\psi\rangle_n
 \end{align}
-`$
+$$
 
 This leads to the famous asymptotic formula for the partition function:
 
-$`
+$$
 p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)
-`$
+$$
 
 Quantum-Classical prediction: The growth rate of integer partition numbers reflects the information entropy growth characteristics of quantum superposition state classicalization, which is exponential but with a strict mathematical structure.
 
@@ -1355,26 +1355,26 @@ The Rigid Body Packing Problem studies how to most densely pack identical object
 
 For sphere packing, the problem is to determine the highest packing density $`\delta`$:
 
-$`
+$$
 \delta = \frac{\text{Total Volume Occupied by Spheres}}{\text{Volume of the Entire Space}}
-`$
+$$
 
 Kepler's Conjecture (proven) asserts that the optimal packing density is:
 
-$`
+$$
 \delta_{\text{max}} = \frac{\pi}{3\sqrt{2}} \approx 0.74048...
-`$
+$$
 
 ##### Formal Proof
 
 From a Quantum-Classical perspective, rigid body packing reflects the energy distribution optimization of quantum entanglement states in the classical domain:
 
-$`
+$$
 \begin{align}
 \mathcal{E}_{\text{Quantum Entanglement State}} &\xrightarrow{\text{Classicalization}} \mathcal{S}_{\text{Spatial Packing Structure}} \\
 \delta_{\text{max}} &= \text{Optimal Equilibrium Point of Energy Distribution in Classical Domain}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: Kepler's Conjecture is correct because face-centered cubic packing and hexagonal close packing represent the optimal stable structures of energy distribution after the classicalization of quantum entanglement states.
 
@@ -1390,9 +1390,9 @@ The higher-dimensional generalization of the Riemann Mapping Theorem studies the
 
 The Riemann Mapping Theorem asserts that any simply connected open region (that is not the entire complex plane) is conformally isomorphic to the unit disk. The higher-dimensional generalization problem is:
 
-$`
+$$
 \text{Does there exist} f: \Omega \subset \mathbb{C}^n \to \mathbb{D}^n, \text{such that} f \text{is biholomorphic?}
-`$
+$$
 
 where $`\Omega`$ is a simply connected domain in $`\mathbb{C}^n`$, and $`\mathbb{D}^n`$ is the $`n`$-dimensional unit polydisk.
 
@@ -1400,12 +1400,12 @@ where $`\Omega`$ is a simply connected domain in $`\mathbb{C}^n`$, and $`\mathbb
 
 From a Quantum-Classical perspective, conformal mapping reflects the invariants preserved by quantum information in the classicalization process:
 
-$`
+$$
 \begin{align}
 \mathcal{I}_{\text{Quantum Structure}} &\xrightarrow{\text{Classicalization Conformal Mapping}} \mathcal{I}_{\text{Classical Structure}} \\
 \text{Complex Structure} &= \text{Classical Expression of Quantum Phase Information}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: In higher dimensions, the direct generalization of the Riemann Mapping Theorem does not hold because high-dimensional quantum structures produce topological barriers in the classicalization process, which prevent the existence of global conformal mappings.
 
@@ -1421,9 +1421,9 @@ Optimal Transport Theory studies how to transform one probability distribution i
 
 Given two probability distributions $`\mu`$ and $`\nu`$, and a cost function $`c(x,y)`$, the optimal transport problem is to find a transport plan $`\gamma`$ such that:
 
-$`
+$$
 \int c(x,y) d\gamma(x,y) = \min_{\gamma \in \Gamma(\mu,\nu)} \int c(x,y) d\gamma(x,y)
-`$
+$$
 
 where $`\Gamma(\mu,\nu)`$ is the set of all joint distributions satisfying the marginal conditions.
 
@@ -1431,12 +1431,12 @@ where $`\Gamma(\mu,\nu)`$ is the set of all joint distributions satisfying the m
 
 From a Quantum-Classical perspective, optimal transport reflects the optimal path of quantum information classicalization:
 
-$`
+$$
 \begin{align}
 |\psi\rangle_{\text{Initial Quantum State}} &\xrightarrow{\text{Classicalization Process}} |\phi\rangle_{\text{Target Quantum State}} \\
 \mathcal{W}_p(\mu, \nu) &= \text{Minimum Action of Quantum State Transformation}
 \end{align}
-`$
+$$
 
 where $`\mathcal{W}_p`$ is the Wasserstein distance.
 
@@ -1454,9 +1454,9 @@ The Calabi-Yau Conjecture (proven by Yau) asserts the existence of specific metr
 
 The Calabi-Yau Conjecture asserts: Given a compact Kähler manifold $`(M, g, J)`$ and a real $`(1,1)`$-form $`\rho`$, if $`\rho`$ is in the same cohomology class as the Ricci form of $`g`$, then there exists a unique Kähler metric $`\tilde{g}`$ such that:
 
-$`
+$$
 \text{Ric}(\tilde{g}) = \rho
-`$
+$$
 
 and $`\tilde{g}`$ is in the same Kähler class as $`g`$.
 
@@ -1464,12 +1464,12 @@ and $`\tilde{g}`$ is in the same Kähler class as $`g`$.
 
 From a Quantum-Classical perspective, Calabi-Yau manifolds represent the balanced structure preserved by quantum entanglement states after classicalization:
 
-$`
+$$
 \begin{align}
 \mathcal{Q}_{\text{Quantum Entanglement Structure}} &\xrightarrow{\text{Classicalization}} \mathcal{C}_{\text{Calabi-Yau Structure}} \\
 \text{Ricci Flatness} &= \text{Quantum-Classical Balance State}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The Calabi-Yau Conjecture is true because it describes the geometric invariance necessarily preserved by quantum entanglement structures in the classicalization process, an invariance that is the geometric expression of quantum-classical balance.
 
@@ -1485,21 +1485,21 @@ The Burnside Conjecture focuses on periodicity issues in finite group theory, sp
 
 For a finite group $`G`$, if there exist integers $`m`$ and $`n`$ such that $`(xy)^{m}=1`$ for all $`x,y\in G`$ satisfying $`x^{n}=y^{n}=1`$, then $`G`$ is called a periodic group. The Burnside Conjecture can be stated as:
 
-$`
+$$
 \forall G(\text{finite periodic group}), G \text{ must be a nilpotent group}
-`$
+$$
 
 ##### Formal Proof
 
 From a Quantum-Classical perspective, the Burnside Conjecture reflects the association between quantum entanglement periodic structures and classical domain decomposition structures:
 
-$`
+$$
 \begin{align}
 \mathcal{P}_{\text{Quantum Periodicity}} &\xrightarrow{\text{Classicalization}} \mathcal{N}_{\text{Classical Solvability}} \\
 (xy)^{m}=1 &\Rightarrow \text{Quantum Entanglement Periodic Constraint} \\
 \text{Nilpotency} &= \text{Layered Decomposition Ability in Classical Domain}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The Burnside Conjecture is true in certain restricted cases, but counterexamples may exist in general cases because quantum entanglement structures may produce non-nilpotent classical manifestations in high complexity situations.
 
@@ -1515,9 +1515,9 @@ The extended form of the Bertrand-Chebyshev Conjecture asserts that for any inte
 
 The extended form of the Bertrand-Chebyshev Conjecture can be stated as:
 
-$`
+$$
 \forall n > 3, \exists p \in [n, 2n-2], \text{such that} p \text{is prime}
-`$
+$$
 
 The original Bertrand Conjecture (proven by Chebyshev) is a special case: there exists at least one prime in the interval $`[n, 2n]`$.
 
@@ -1525,12 +1525,12 @@ The original Bertrand Conjecture (proven by Chebyshev) is a special case: there 
 
 From a Quantum-Classical perspective, the Bertrand-Chebyshev Conjecture describes the necessary distribution law of observer nodes in the classicalization process from the quantum domain:
 
-$`
+$$
 \begin{align}
 \mathcal{O}_{\text{Observer Density}} &\geq \frac{1}{n-2} \text{(At least one basic observer per unit information interval)} \\
 \pi(2n-2) - \pi(n-1) &\geq 1 \text{(At least one prime in the interval)}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The extended form of the Bertrand-Chebyshev Conjecture is true because it embodies the basic information density stability principle of quantum-classical mapping.
 
@@ -1546,21 +1546,21 @@ Bloch's Conjecture focuses on the relationship between geometric and topological
 
 For any complex algebraic surface $`S`$, if its irregularity number $`q(S)=0`$, then the torsion part of its 2-dimensional integral cohomology group $`\text{Tors}(H^2(S,\mathbb{Z}))`$ is orthogonal under bilinear pairing:
 
-$`
+$$
 \forall S(\text{algebraic surface}), q(S)=0 \Rightarrow \text{Tors}(H^2(S,\mathbb{Z})) \text{ is orthogonal}
-`$
+$$
 
 ##### Formal Proof
 
 From a Quantum-Classical perspective, Bloch's Conjecture describes the algebraic constraints of quantum geometric topological structures after classicalization:
 
-$`
+$$
 \begin{align}
 \mathcal{Q}_{\text{Quantum Topological Structure}} &\xrightarrow{\text{Classicalization}} \mathcal{A}_{\text{Algebraic Invariant}} \\
 q(S)=0 &\Rightarrow \text{No Cyclic Classical Information Flow} \\
 \text{Orthogonality} &= \text{Independence Condition of Quantum Information after Classicalization}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: Bloch's Conjecture is true because it reflects the independence characteristics necessarily exhibited by quantum geometric information under specific classicalization conditions (no information cycles).
 
@@ -1576,9 +1576,9 @@ The Lebesgue Universal Covering Problem asks for the minimum area of a convex se
 
 Find constant $`L`$ such that:
 
-$`
+$$
 L = \inf\{A(K) : K \text{ is a convex set and can cover any planar set of diameter 1}\}
-`$
+$$
 
 Currently known: $`\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}`$.
 
@@ -1586,13 +1586,13 @@ Currently known: $`\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt
 
 From a Quantum-Classical perspective, the universal covering problem describes the optimal inclusion structure of quantum information after classicalization:
 
-$`
+$$
 \begin{align}
 \mathcal{I}_{\text{Quantum Information}} &\xrightarrow{\text{Classicalization}} \mathcal{C}_{\text{Classical Covering Structure}} \\
 \text{Diameter}=1 &\Rightarrow \text{Standardized Information Breadth} \\
 \text{Minimum Area} &= \text{Minimum Redundancy of Classical Information Expression}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: The Lebesgue constant $`L`$ is close to $`\frac{\pi}{2\sqrt{3}}`$ because it represents the optimal expression efficiency of quantum information after classicalization, related to the basic efficiency of hexagonal tiling structure.
 
@@ -1608,9 +1608,9 @@ Simpson's Conjecture focuses on the relationship between flat bundles and repres
 
 For a complex projective manifold $`X`$, Simpson's Conjecture asserts:
 
-$`
+$$
 \forall E \text{(semisimple flat bundle on $`X`$)}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{(representation)}, \text{such that} E \cong E_\rho
-`$
+$$
 
 where $`E_\rho`$ is the flat bundle derived from representation $`\rho`$.
 
@@ -1618,13 +1618,13 @@ where $`E_\rho`$ is the flat bundle derived from representation $`\rho`$.
 
 From a Quantum-Classical perspective, Simpson's Conjecture describes the correspondence between quantum topological structures and classical algebraic structures:
 
-$`
+$$
 \begin{align}
 \mathcal{T}_{\text{Quantum Topological Connection}} &\xrightarrow{\text{Classicalization}} \mathcal{A}_{\text{Algebraic Representation}} \\
 \text{Flatness} &= \text{No Distortion Condition of Quantum Information Classicalization} \\
 \text{Semisimplicity} &= \text{Information Decomposability in Classical Domain}
 \end{align}
-`$
+$$
 
 Quantum-Classical prediction: Simpson's Conjecture is true because it embodies the algebraic representation correspondence that necessarily exists after the classicalization of quantum entanglement states, which is a basic characteristic of quantum-classical information preservation.
 
@@ -1646,9 +1646,9 @@ Quantum-Classical Dualism provides new approaches for solving unsolved mathemati
 
 These methods can be expressed as:
 
-$`
+$$
 \text{Solution Path} = \int_{\text{Quantum Domain}}^{\text{Classical Domain}} \text{Dimensional Transformation Function} \cdot \text{Entanglement Deconstruction} \cdot \text{Information Preservation Measure} d\text{Dimension}
-`$
+$$
 
 For detailed proof processes of various problems, please refer to our [Detailed Proof Library](mathematics_unsolved_problems/README.md).
 

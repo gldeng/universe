@@ -177,15 +177,15 @@ Vimalakirti's explanation of the essence of a bodhisattva's Buddha land correspo
 
 The core philosophical insights of the Vimalakirti Sutra can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"为法来，非为床座"} \Leftrightarrow \max\left(\frac{I_{量子信息}}{S_{经典舒适}}\right)
-`$
+$$
 
-$`
+$$
 \text{"维摩诘默然无言"} \Leftrightarrow \lim_{I_{经典表达} \to \infty} \frac{|\psi\rangle_{量子本质}}{I_{经典表达}} = 0
-`$
+$$
 
-$`
+$$
 \text{"无常、苦、空、非我"} \Leftrightarrow 
 \begin{cases}
 \frac{d\mathcal{O}_{经典}}{dt} \neq 0 \quad \text{(无常)} \\
@@ -193,19 +193,19 @@ $`
 \mathcal{O}_{经典} \subset |\psi\rangle_{量子域} \quad \text{(空)} \\
 \mathcal{I}(\mathcal{O}) = \text{幻象} \quad \text{(非我)}
 \end{cases}
-`$
+$$
 
-$`
+$$
 \text{"四大合故，假名为身"} \Leftrightarrow \mathcal{O}_{经典} = \sum_{i=1}^{4} c_i \cdot \text{Element}_i, \quad \text{标签}(\mathcal{O}_{经典}) = \text{约定}
-`$
+$$
 
-$`
+$$
 \text{"国土但以空为国土"} \Leftrightarrow I_{经典域} + S_{经典域} = f(|\psi\rangle_{量子域})
-`$
+$$
 
-$`
+$$
 \text{"众生之类是菩萨佛土"} \Leftrightarrow \text{Field}(\mathcal{O}_{高维}) = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}, \quad \mathcal{D}(\mathcal{O}_{高维}) \propto \sum_{i=1}^{n} \Delta\mathcal{D}(\mathcal{O}_i)
-`$
+$$
 
 其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`I`$表示信息，$`S`$表示熵，$`\mathcal{I}`$表示身份函数
 

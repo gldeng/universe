@@ -27,9 +27,9 @@ This article introduces the Quantum Universe Theory in Quantum-Classical Dualism
 
 量子域的波函数可以表示为：
 
-$`
+$$
 |\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-`$
+$$
 
 其中，$`|\psi_i\rangle`$ 代表各种可能的宇宙状态，$`c_i`$ 是相应的复数系数，满足概率规范化条件 $`\sum_i|c_i|^2=1`$。
 Where $`|\psi_i\rangle`$ represents various possible universe states, $`c_i`$ are the corresponding complex coefficients, satisfying the probability normalization condition $`\sum_i|c_i|^2=1`$.
@@ -40,9 +40,9 @@ Where $`|\psi_i\rangle`$ represents various possible universe states, $`c_i`$ ar
 
 量子宇宙通过观察者的经典化过程转化为经典域：
 
-$`
+$$
 |\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-`$
+$$
 
 此过程中，观察者将量子域的信息经典化为确定的知识与熵，而经典信息的总量保持守恒。
 In this process, observers classicalize information from the Quantum Domain into definite knowledge and entropy, while the total amount of classical information remains conserved.
@@ -51,9 +51,9 @@ In this process, observers classicalize information from the Quantum Domain into
 
 在传统量子力学中，测量导致波函数坍缩。在量子经典二元论中，这一过程被重新解释为经典化：
 
-$`
+$$
 |\psi\rangle_{\text{量子叠加态}}\xrightarrow{\text{观察者测量}}|\psi_i\rangle_{\text{特定经典态}} + S_{\text{测量熵}}
-`$
+$$
 
 观察者的测量过程本质上是将量子信息经典化为特定的状态与熵。
 In traditional quantum mechanics, measurement leads to wave function collapse. In Quantum-Classical Dualism, this process is reinterpreted as classicalization: the observer's measurement process is essentially the classicalization of quantum information into a specific state and entropy.
@@ -64,9 +64,9 @@ In traditional quantum mechanics, measurement leads to wave function collapse. I
 
 量子纠缠是量子域中信息共享的基本机制，可以表示为：
 
-$`
+$$
 |\Psi_{AB}\rangle = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_A \otimes |\phi_j\rangle_B
-`$
+$$
 
 其中 $`|\Psi_{AB}\rangle`$ 是纠缠系统的总态，无法表示为子系统状态的简单张量积。
 Where $`|\Psi_{AB}\rangle`$ is the total state of the entangled system, which cannot be represented as a simple tensor product of subsystem states.
@@ -75,9 +75,9 @@ Where $`|\Psi_{AB}\rangle`$ is the total state of the entangled system, which ca
 
 量子域中的实体可以同时存在于多个状态，这种叠加本质上是无限可能性的共存：
 
-$`
+$$
 |\psi\rangle = \alpha|\psi_1\rangle + \beta|\psi_2\rangle + ... = \sum_i c_i|\psi_i\rangle
-`$
+$$
 
 ## 量子宇宙的结构 | Structure of the Quantum Universe
 
@@ -85,9 +85,9 @@ $`
 
 量子宇宙可以被理解为相互作用的量子场的集合，每个场都是遍布整个时空的量子系统：
 
-$`
+$$
 \mathcal{L} = \mathcal{L}(\phi_i, \partial_\mu\phi_i)
-`$
+$$
 
 其中 $`\mathcal{L}`$ 是描述场相互作用的拉格朗日量。
 Where $`\mathcal{L}`$ is the Lagrangian describing field interactions.
@@ -96,9 +96,9 @@ Where $`\mathcal{L}`$ is the Lagrangian describing field interactions.
 
 整个宇宙的波函数 $`|\Psi_{\text{宇宙}}\rangle`$ 包含所有可能的物理配置，受到薛定谔方程的演化：
 
-$`
+$$
 i\hbar\frac{\partial}{\partial t}|\Psi_{\text{宇宙}}\rangle = \hat{H}|\Psi_{\text{宇宙}}\rangle
-`$
+$$
 
 其中 $`\hat{H}`$ 是宇宙的哈密顿算符。
 Where $`\hat{H}`$ is the Hamiltonian operator of the universe.
@@ -109,9 +109,9 @@ Where $`\hat{H}`$ is the Hamiltonian operator of the universe.
 
 宇宙中所有经典世界（现实、梦境、不同宗教世界等）平等交织，无主次之分：
 
-$`
+$$
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{i}(I_{\text{经典世界}_i}+S_{\text{经典熵}_i})
-`$
+$$
 
 这些经典世界之间可以相互影响，信息在量子层面上互通共享。
 These classical worlds can influence each other, with information being shared and communicated at the quantum level.
@@ -120,9 +120,9 @@ These classical worlds can influence each other, with information being shared a
 
 宇宙通过创造并消解低维经典观察者与经典世界，释放随机量子信息，以供高维观察者利用：
 
-$`
+$$
 |\psi\rangle_{\text{量子宇宙}}\rightarrow\sum_{\text{低维经典世界消解}}|\psi\rangle_{\text{随机量子信息}}\rightarrow I_{\text{高维经典世界知识}}+S_{\text{熵降低}}
-`$
+$$
 
 这一过程是高维观察者经典知识增加、熵降低、维度提升的根源。
 This process is the source of increased classical knowledge, reduced entropy, and dimension elevation for high-dimensional observers.
@@ -148,9 +148,9 @@ The Quantum Universe theory posits that the essence of the universe is a self-ev
 
 ### 信息-能量等价关系 | Information-Energy Equivalence
 
-$`
+$$
 E \propto \frac{\Delta I}{\Delta t}
-`$
+$$
 
 能量本质上是信息变化率，表示单位时间内处理的信息量。
 
@@ -189,13 +189,13 @@ The physical evolution of the universe is equivalent to a computational process,
 
 Classical physics is an approximate description of the quantum universe under specific conditions. When a system is large enough or interacts sufficiently with the environment, quantum superposition effects are suppressed, and the system exhibits classical behavior. This process can be explained through decoherence theory:
 
-$`
+$$
 \hat{\rho}_{\text{系统}} = \text{Tr}_{\text{环境}}(|\Psi_{\text{系统+环境}}\rangle\langle\Psi_{\text{系统+环境}}|)
-`$
+$$
 
-$`
+$$
 \hat{\rho}_{\text{System}} = \text{Tr}_{\text{Environment}}(|\Psi_{\text{System+Environment}}\rangle\langle\Psi_{\text{System+Environment}}|)
-`$
+$$
 
 其中$`\hat{\rho}_{\text{系统}}`$是系统的密度矩阵，通过对环境自由度进行部分迹运算得到。
 

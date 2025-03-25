@@ -29,9 +29,9 @@
 
 尼古拉·特斯拉的思想和发明体现了量子域潜能与经典域实现之间的独特桥接。他的天才在于能够感知到电磁现象的量子本质，并将这些洞见经典化为可实际应用的发明，创造性地连接了不可见的量子能量场与可见的经典技术装置。
 
-$`
+$$
 |\psi\rangle_{\text{特斯拉思想}} = \sum_i c_i|\psi_i\rangle_{\text{电磁直觉}} \xrightarrow{\text{技术经典化}} I_{\text{革命性发明}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,12 +40,10 @@ $`
    特斯拉对交流电的开拓反映了对电能波动本质的深刻理解：
 
    $$
-
    |\psi\rangle_{\text{电能量子态}} \xrightarrow{\text{直流系统}} I_{\text{单向流动}} + S_{\text{传输损耗（高熵）}}
    $$
 
    $$
-
    |\psi\rangle_{\text{电能量子态}} \xrightarrow{\text{交流系统}} I_{\text{波动流动}} + S_{\text{传输效率（低熵）}}
    $$
 
@@ -56,12 +54,10 @@ $`
    特斯拉的无线传输构想建立在对空间量子场连续性的直觉上：
 
    $$
-
    |\psi\rangle_{\text{空间能量场}} \xrightarrow{\text{传统导线}} I_{\text{局限路径}} + S_{\text{空间限制}}
    $$
 
    $$
-
    |\psi\rangle_{\text{空间能量场}} \xrightarrow{\text{无线传输}} I_{\text{全方位扩散}} + S_{\text{空间解放}}
    $$
 
@@ -72,7 +68,6 @@ $`
    特斯拉线圈体现了共振作为量子-经典之间锁相机制的应用：
 
    $$
-
    |\psi\rangle_{\text{系统A振荡}} \otimes |\psi\rangle_{\text{系统B振荡}} \xrightarrow{\text{频率匹配}} I_{\text{共振增强}} + S_{\text{能量耦合}}
    $$
 
@@ -83,7 +78,6 @@ $`
    特斯拉的宇宙能量理念预见了量子场论的基本思想：
 
    $$
-
    \text{宇宙} = \sum_{\text{场}} |\psi_i\rangle_{\text{能量场}} \xrightarrow{\text{特定频率}} I_{\text{可利用能量}}
    $$
 
@@ -94,7 +88,6 @@ $`
    特斯拉的思维方式体现了量子认知与经典实现的特殊关系：
 
    $$
-
    |\psi\rangle_{\text{心智实验（量子状态）}} \xrightarrow{\text{精确视觉化}} I_{\text{物理实现（经典状态）}}
    $$
 

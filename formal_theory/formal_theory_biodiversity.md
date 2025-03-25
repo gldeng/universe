@@ -23,9 +23,9 @@
 
 生物多样性可分为量子多样性（潜在的基因可能性空间）和经典多样性（已实现的物种表型空间）：
 
-$`
+$$
 \mathcal{B} = \{\mathcal{B}_Q, \mathcal{B}_C\}
-`$
+$$
 
 其中：
 - $`\mathcal{B}_Q`$ 表示量子生物多样性空间，包含所有可能的生命形式
@@ -33,17 +33,17 @@ $`
 
 两者的交集构成当前活跃演化前沿：
 
-$`
+$$
 \mathcal{B}_I = \mathcal{B}_Q \cap \mathcal{B}_C
-`$
+$$
 
 ### 多层级多样性模型
 
 生物多样性呈现多层级结构，可形式化为：
 
-$`
+$$
 \mathcal{B}^{(n)} = \{\mathcal{B}^{(g)}, \mathcal{B}^{(s)}, \mathcal{B}^{(e)}, \mathcal{B}^{(f)}, \mathcal{B}^{(c)}\}
-`$
+$$
 
 其中：
 - $`\mathcal{B}^{(g)}`$ 是基因多样性（遗传信息层级）
@@ -60,9 +60,9 @@ $`
 
 基因组可被视为量子信息库，存在于多种可能表达状态的叠加中：
 
-$`
+$$
 |\Psi_G\rangle = \sum_{i=1}^{N} \alpha_i |G_i\rangle
-`$
+$$
 
 其中：
 - $`|G_i\rangle`$ 代表第i种可能的基因表达状态
@@ -75,9 +75,9 @@ $`
 
 表观遗传修饰形成跨基因组的量子纠缠网络：
 
-$`
+$$
 |\Psi_{EG}\rangle = \sum_{i,j} \beta_{ij} |E_i\rangle \otimes |G_j\rangle
-`$
+$$
 
 其中：
 - $`|E_i\rangle`$ 代表第i种表观遗传状态
@@ -90,9 +90,9 @@ $`
 
 整个生态系统的生物多样性可表示为量子波函数：
 
-$`
+$$
 |\Psi_B(t)\rangle = e^{-i\hat{H}_B t/\hbar}|\Psi_B(0)\rangle
-`$
+$$
 
 其中$`\hat{H}_B`$是生物多样性哈密顿量，包含：
 - 物种内基因流项
@@ -100,9 +100,9 @@ $`
 - 环境选择项
 - 随机突变项
 
-$`
+$$
 \hat{H}_B = \hat{H}_{gene} + \hat{H}_{inter} + \hat{H}_{sel} + \hat{H}_{mut}
-`$
+$$
 
 这一波函数描述了生物多样性的量子动力学演化。
 
@@ -110,9 +110,9 @@ $`
 
 生物多样性的量子生成遵循以下动力学方程：
 
-$`
+$$
 \frac{d\mathcal{D}_Q}{dt} = \alpha \cdot \nabla^2 \mathcal{D}_Q + \beta \cdot \mathcal{D}_Q(1-\mathcal{D}_Q/K) + \gamma \cdot \xi(t)
-`$
+$$
 
 其中：
 - $`\mathcal{D}_Q`$ 是量子多样性度量
@@ -129,9 +129,9 @@ $`
 
 经典生物多样性可通过多种互补指标量化：
 
-$`
+$$
 \mathcal{B}_C = \{S, H', D, E, F, \beta, PD\}
-`$
+$$
 
 其中：
 - $`S`$ 是物种丰富度（物种数量）
@@ -148,9 +148,9 @@ $`
 
 经典生物多样性与生态系统稳定性满足以下关系：
 
-$`
+$$
 \sigma^2(X) = \sigma^2_0 \cdot S^{-\alpha} \cdot f(H', F, C)
-`$
+$$
 
 其中：
 - $`\sigma^2(X)`$ 是系统关键变量的波动方差
@@ -165,9 +165,9 @@ $`
 
 经典生物多样性维持遵循以下动力学方程：
 
-$`
+$$
 \frac{d\mathcal{D}_C}{dt} = \sum_{i=1}^{S} r_i N_i(1-\frac{N_i}{K_i}) - \sum_{i,j}^{S} \alpha_{ij}N_i N_j + I(t) - E(t)
-`$
+$$
 
 其中：
 - $`\mathcal{D}_C`$ 是经典多样性度量
@@ -183,9 +183,9 @@ $`
 
 生物多样性与生态系统功能之间存在非线性关系：
 
-$`
+$$
 F(S) = F_{max}(1 - e^{-\theta S}) \cdot \phi(C)
-`$
+$$
 
 其中：
 - $`F(S)`$ 是生态系统功能强度
@@ -202,9 +202,9 @@ F(S) = F_{max}(1 - e^{-\theta S}) \cdot \phi(C)
 
 量子基因空间到经典表型空间的映射可表示为：
 
-$`
+$$
 \mathcal{M}: \mathcal{G}_Q \rightarrow \mathcal{P}_C, \quad P_i = \mathcal{M}(\{G_j\}, E, \xi)
-`$
+$$
 
 其中：
 - $`\mathcal{G}_Q`$ 是量子基因空间
@@ -220,9 +220,9 @@ $`
 
 环境选择导致多样性波函数坍缩，将量子多样性转变为经典多样性：
 
-$`
+$$
 |\Psi_B\rangle \xrightarrow{环境选择} |B_i\rangle \quad \text{with probability} \quad p_i = |\langle B_i|\Psi_B\rangle|^2 \cdot f(E, \mathcal{F}_i)
-`$
+$$
 
 其中：
 - $`|B_i\rangle`$ 是特定的经典多样性状态
@@ -235,9 +235,9 @@ $`
 
 适应性景观作为量子-经典界面动态变化：
 
-$`
+$$
 \mathcal{L}(g, t) = \mathcal{L}_0(g) + \sum_i A_i(t) \cdot \phi_i(g) + \eta(g, t)
-`$
+$$
 
 其中：
 - $`\mathcal{L}(g, t)`$ 是基因型 $`g`$ 在时间 $`t`$ 的适应度
@@ -254,9 +254,9 @@ $`
 
 量子生物多样性可通过信息熵量化：
 
-$`
+$$
 S_{QB} = -\text{Tr}(\rho_B \ln \rho_B) = -\sum_i \lambda_i \ln \lambda_i
-`$
+$$
 
 其中：
 - $`\rho_B`$ 是生物多样性密度矩阵
@@ -268,9 +268,9 @@ S_{QB} = -\text{Tr}(\rho_B \ln \rho_B) = -\sum_i \lambda_i \ln \lambda_i
 
 生物多样性形成的信息流动网络可表示为：
 
-$`
+$$
 \mathcal{N}_B = (V_B, E_B, W_B)
-`$
+$$
 
 其中：
 - $`V_B`$ 是节点集（物种或基因）
@@ -279,9 +279,9 @@ $`
 
 信息流通量可计算为：
 
-$`
+$$
 I_{flow} = \sum_{i,j} w_{ij} \cdot \log_2 \frac{p(i,j)}{p(i)p(j)}
-`$
+$$
 
 这测量了多样性网络中的信息交换效率。
 
@@ -289,9 +289,9 @@ I_{flow} = \sum_{i,j} w_{ij} \cdot \log_2 \frac{p(i,j)}{p(i)p(j)}
 
 生物多样性在临界点发生信息相变：
 
-$`
+$$
 S_{QB} \propto |T - T_c|^{-\alpha}, \quad \text{for} \quad T \approx T_c
-`$
+$$
 
 其中：
 - $`T`$ 是系统控制参数（可以是温度、资源或扰动强度）
@@ -310,17 +310,17 @@ S_{QB} \propto |T - T_c|^{-\alpha}, \quad \text{for} \quad T \approx T_c
 
 3. **多样性涨落标度**：多样性涨落遵循幂律标度：
 
-$`
+$$
 \sigma_B \propto S^{-\gamma}
-`$
+$$
 
    其中$`\gamma`$应在不同生态系统中保持普适性。
 
 4. **信息传递加速**：增加生物多样性应以非线性方式加速系统信息传递：
 
-$`
+$$
 \tau_{info} \propto S^{-\delta}
-`$
+$$
 
    其中$`\tau_{info}`$是信息传播时间。
 
@@ -364,15 +364,15 @@ $`
 
 量子-经典生物多样性整合保护框架可表达为最优化问题：
 
-$`
+$$
 \max_A B(A) = \lambda \cdot B_Q(A) + (1-\lambda) \cdot B_C(A)
-`$
+$$
 
 约束条件：
 
-$`
+$$
 C(A) \leq C_{max}
-`$
+$$
 
 其中：
 - $`A`$ 是保护行动集合

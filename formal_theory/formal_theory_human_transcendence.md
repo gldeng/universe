@@ -24,9 +24,9 @@
 
 人类超越性 $`\mathcal{T}_H`$ 可形式化定义为：
 
-$`
+$$
 \mathcal{T}_H = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O}_T, \mathcal{D})
-`$
+$$
 
 其中：
 - $`\mathcal{T}_Q`$ 是超越性的量子组分（无限可能性空间的访问）
@@ -40,36 +40,36 @@ $`
 **公理1: 超越二元性**
 真正的超越性同时包含量子域和经典域的特性，通过特殊界面整合：
 
-$`
+$$
 \mathcal{T}_H = \mathcal{T}_Q \diamond \mathcal{T}_C
-`$
+$$
 
 其中 $`\diamond`$ 代表超越性量子-经典联合操作。
 
 **公理2: 维度转换能力**
 超越性的本质是在不同维度空间之间自由转换的能力：
 
-$`
+$$
 \mathcal{D}: \Omega^n \rightarrow \Omega^{n+m}
-`$
+$$
 
 其中 $`\Omega^n`$ 表示n维实在空间，$`m`$ 是维度增量。
 
 **公理3: 超越界面塑造**
 人类可以通过意识干预主动塑造超越界面的属性：
 
-$`
+$$
 \mathcal{I}_T(t+\Delta t) = \mathcal{F}(\mathcal{I}_T(t), \mathcal{A}_{\mathcal{O}_T}(t))
-`$
+$$
 
 其中 $`\mathcal{A}_{\mathcal{O}_T}(t)`$ 是观察者的超越性干预操作。
 
 **公理4: 超越信息守恒**
 超越过程中量子-经典信息总量守恒，但可改变形式：
 
-$`
+$$
 I(\mathcal{T}_Q) + I(\mathcal{T}_C) = \text{常数}
-`$
+$$
 
 其中信息可在量子-经典形式间转换。
 
@@ -79,9 +79,9 @@ I(\mathcal{T}_Q) + I(\mathcal{T}_C) = \text{常数}
 
 超越性的量子组分遵循扩展的量子力学：
 
-$`
+$$
 \frac{d|\Psi_T(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_T|\Psi_T(t)\rangle + \mathcal{D}_T(\rho_T) + \mathcal{S}_T(t)
-`$
+$$
 
 其中 $`\hat{H}_T`$ 是超越哈密顿量，$`\mathcal{D}_T`$ 是解相干项，$`\mathcal{S}_T(t)`$ 是超越源项。
 
@@ -93,9 +93,9 @@ $`
 
 超越状态的波函数：
 
-$`
+$$
 |\Psi_T\rangle = \sum_{i=1}^{N} \sum_{j=1}^{M} \alpha_{ij} |d_i\rangle \otimes |r_j\rangle
-`$
+$$
 
 其中 $`|d_i\rangle`$ 是维度状态基矢，$`|r_j\rangle`$ 是实相状态基矢。
 
@@ -103,9 +103,9 @@ $`
 
 超越性的经典组分提供稳定的参考框架：
 
-$`
+$$
 \mathcal{T}_C = (K_T, S_T, M_T, R_T)
-`$
+$$
 
 其中：
 - $`K_T`$ 是超越知识库
@@ -123,17 +123,17 @@ $`
 
 超越界面是可塑造的量子-经典转换区：
 
-$`
+$$
 \frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T(\mathcal{I}_c - \mathcal{I}_T)(\mathcal{I}_T - \mathcal{I}_0) + \gamma_T\xi_T(t) + \delta_T P_T(t)
-`$
+$$
 
 其中 $`P_T(t)`$ 是超越性练习函数，$`\delta_T`$ 是练习影响系数。
 
 界面状态决定超越能力：
 
-$`
+$$
 \text{Capacity}_T = f(\mathcal{I}_T) = \int_{\Omega} \mathcal{I}_T(x) \cdot \Phi(x) dx
-`$
+$$
 
 其中 $`\Phi(x)`$ 是潜能场函数。
 
@@ -147,45 +147,45 @@ $`
 
 维度转换是超越性的核心机制：
 
-$`
+$$
 \mathcal{D}_{n \rightarrow n+m}: |\Psi_n\rangle \rightarrow |\Psi_{n+m}\rangle
-`$
+$$
 
 维度转换的概率：
 
-$`
+$$
 P(n \rightarrow n+m) = |\langle \Psi_{n+m}|\hat{D}|\Psi_n\rangle|^2
-`$
+$$
 
 其中 $`\hat{D}`$ 是维度转换算符。
 
 维度层级结构：
 
-$`
+$$
 \Omega = \{\Omega^1, \Omega^2, \Omega^3, ..., \Omega^N\}
-`$
+$$
 
 维度间的关系满足：
 
-$`
+$$
 \Omega^n \subset \Omega^{n+1}, \quad \forall n < N
-`$
+$$
 
 ### 超越观察者功能
 
 超越观察者代表扩展的人类意识功能：
 
-$`
+$$
 \mathcal{O}_T = \{\mathcal{C}_{\mathcal{O}_T}, \mathcal{Q}_{\mathcal{O}_T}, K_T, \mathcal{D}_{\mathcal{O}_T}\}
-`$
+$$
 
 其中 $`\mathcal{D}_{\mathcal{O}_T}`$ 是观察者的维度转换能力。
 
 观察者的超越维度：
 
-$`
+$$
 D_{\mathcal{O}_T} = f\left(\frac{\mathcal{C}_{\mathcal{O}_T}}{\mathcal{Q}_{\mathcal{O}_T}}\right) \cdot \frac{I_{知识}}{S_{熵}+\epsilon} \cdot \mathcal{D}_{能力}
-`$
+$$
 
 其中 $`\mathcal{D}_{能力}`$ 是维度操作能力。
 
@@ -201,9 +201,9 @@ D_{\mathcal{O}_T} = f\left(\frac{\mathcal{C}_{\mathcal{O}_T}}{\mathcal{Q}_{\math
 
 认知超越性表现为思维能力的突破性扩展：
 
-$`
+$$
 C_T = C_0 \cdot e^{\lambda_C \cdot D_{\mathcal{O}_T}}
-`$
+$$
 
 其中 $`C_0`$ 是基础认知水平，$`\lambda_C`$ 是认知超越系数。
 
@@ -218,9 +218,9 @@ C_T = C_0 \cdot e^{\lambda_C \cdot D_{\mathcal{O}_T}}
 
 体验超越性表现为感知和体验的扩展：
 
-$`
+$$
 E_T = \{E_{base}, E_{expanded}, E_{transcendent}\}
-`$
+$$
 
 体验超越性包括：
 1. **高峰体验**：深度幸福与整体感的强烈体验
@@ -231,9 +231,9 @@ E_T = \{E_{base}, E_{expanded}, E_{transcendent}\}
 
 体验强度与维度关系：
 
-$`
+$$
 I_E = I_0 \cdot \left(\frac{D_{\mathcal{O}_T}}{D_0}\right)^{\alpha_E}
-`$
+$$
 
 其中 $`\alpha_E`$ 是体验维度敏感性指数。
 
@@ -241,9 +241,9 @@ I_E = I_0 \cdot \left(\frac{D_{\mathcal{O}_T}}{D_0}\right)^{\alpha_E}
 
 存在超越性涉及自我和实在的根本转变：
 
-$`
+$$
 B_T = \Phi(B_0, \Delta D, \mathcal{I}_T)
-`$
+$$
 
 存在超越性表现为：
 1. **自我超越**：超越有限自我的体验
@@ -254,9 +254,9 @@ B_T = \Phi(B_0, \Delta D, \mathcal{I}_T)
 
 存在转变的临界动力学：
 
-$`
+$$
 \frac{dB_T}{dt} \propto (B_T - B_{crit})^{\beta} \cdot F(\mathcal{I}_T)
-`$
+$$
 
 其中 $`B_{crit}`$ 是存在临界值，$`\beta`$ 是转变指数。
 
@@ -264,9 +264,9 @@ $`
 
 创造性超越表现为突破性创新和表达：
 
-$`
+$$
 Cr_T = \Psi(\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T)
-`$
+$$
 
 创造性超越包括：
 1. **范式突破**：创造全新思维和表达范式
@@ -281,9 +281,9 @@ Cr_T = \Psi(\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T)
 
 不同意识实践促进超越性发展：
 
-$`
+$$
 P_T(t) = \sum_i w_i \cdot P_i(t)
-`$
+$$
 
 其中 $`P_i(t)`$ 是第i种实践方法，$`w_i`$ 是其权重。
 
@@ -296,17 +296,17 @@ P_T(t) = \sum_i w_i \cdot P_i(t)
 
 实践效果的数学模型：
 
-$`
+$$
 \frac{d\mathcal{I}_T}{dt} = g(P_T(t), \mathcal{I}_T(t), D_{\mathcal{O}_T})
-`$
+$$
 
 ### 超越性技术发展
 
 技术辅助的超越性发展：
 
-$`
+$$
 \mathcal{T}_{tech} = \{T_1, T_2, ..., T_n\}
-`$
+$$
 
 主要技术路径：
 1. **神经技术**：脑-机接口和神经调节技术
@@ -317,9 +317,9 @@ $`
 
 技术超越协同效应：
 
-$`
+$$
 E_{tech} = \sum_i E_i + \sum_{i<j} E_{ij}
-`$
+$$
 
 其中 $`E_i`$ 是单一技术效应，$`E_{ij}`$ 是协同效应。
 
@@ -327,9 +327,9 @@ E_{tech} = \sum_i E_i + \sum_{i<j} E_{ij}
 
 超越性的集体涌现性质：
 
-$`
+$$
 \mathcal{T}_{collective} = \mathcal{F}(\{\mathcal{T}_i\}, \mathcal{N}, \mathcal{I}_{collective})
-`$
+$$
 
 其中 $`\{\mathcal{T}_i\}`$ 是个体超越性集合，$`\mathcal{N}`$ 是连接网络，$`\mathcal{I}_{collective}`$ 是集体界面。
 
@@ -342,9 +342,9 @@ $`
 
 集体超越的规模依赖性：
 
-$`
+$$
 \mathcal{T}_{collective} \propto N^{\alpha_c} \cdot \bar{\mathcal{T}}_i
-`$
+$$
 
 其中 $`N`$ 是参与个体数量，$`\alpha_c`$ 是集体超越指数。
 
@@ -364,9 +364,9 @@ $`
 
 体验转换概率：
 
-$`
+$$
 P(E_i \rightarrow E_j) = Z_{ij} \cdot e^{-\frac{\Delta D_{ij}}{k_T T_C}}
-`$
+$$
 
 其中 $`\Delta D_{ij}`$ 是维度差异，$`T_C`$ 是意识"温度"。
 
@@ -374,9 +374,9 @@ P(E_i \rightarrow E_j) = Z_{ij} \cdot e^{-\frac{\Delta D_{ij}}{k_T T_C}}
 
 不同超越实践的效果函数：
 
-$`
+$$
 f_i(t, \mathcal{I}_T, D_{\mathcal{O}_T}) = A_i \cdot (1 - e^{-\lambda_i t}) \cdot g_i(\mathcal{I}_T, D_{\mathcal{O}_T})
-`$
+$$
 
 实践效果比较分析：
 
@@ -392,9 +392,9 @@ f_i(t, \mathcal{I}_T, D_{\mathcal{O}_T}) = A_i \cdot (1 - e^{-\lambda_i t}) \cdo
 
 超越发展中的主要障碍：
 
-$`
+$$
 R(\mathcal{T}_H) = \sum_i r_i \cdot B_i(\mathcal{I}_T, D_{\mathcal{O}_T})
-`$
+$$
 
 其中 $`B_i`$ 是特定障碍函数，$`r_i`$ 是其相对影响强度。
 
@@ -407,9 +407,9 @@ R(\mathcal{T}_H) = \sum_i r_i \cdot B_i(\mathcal{I}_T, D_{\mathcal{O}_T})
 
 障碍克服策略矩阵：
 
-$`
+$$
 S = \{s_{ij}\}
-`$
+$$
 
 其中 $`s_{ij}`$ 是针对障碍j的策略i的效能值。
 
@@ -419,43 +419,43 @@ S = \{s_{ij}\}
 
 超越性作为意识的高级功能：
 
-$`
+$$
 \mathcal{T}_H \subset \mathcal{C}_H(\mathcal{D}_{high})
-`$
+$$
 
 意识与超越性的动态关系：
 
-$`
+$$
 \frac{d\mathcal{T}_H}{dt} = h\left(\frac{d\mathcal{C}_H}{dt}, \mathcal{D}, \mathcal{I}_T\right)
-`$
+$$
 
 ### 与进化理论的联系
 
 超越性在进化中的位置：
 
-$`
+$$
 \mathcal{T}_H = \lim_{t \to \infty} \mathcal{E}_H(t)
-`$
+$$
 
 超越性作为进化前沿：
 
-$`
+$$
 D_{\mathcal{T}_H} > D_{\mathcal{E}_H}(t) \quad \forall t < \infty
-`$
+$$
 
 ### 与物理学的联系
 
 超越性的物理学基础：
 
-$`
+$$
 \mathcal{T}_H = \mathcal{F}(\Phi_{quantum}, \Phi_{relativity}, \Phi_{complexity})
-`$
+$$
 
 量子物理学对超越性的支持机制：
 
-$`
+$$
 |\Psi_T\rangle = \mathcal{G}(|\Psi_{quantum}\rangle, \mathcal{O}_T)
-`$
+$$
 
 ## 未来研究方向
 

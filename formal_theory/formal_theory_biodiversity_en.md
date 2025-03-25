@@ -23,9 +23,9 @@ Quantum-Classical Biodiversity Theory provides a novel framework for understandi
 
 Biodiversity can be divided into quantum diversity (potential gene possibility space) and classical diversity (realized species phenotype space):
 
-$`
+$$
 \mathcal{B} = \{\mathcal{B}_Q, \mathcal{B}_C\}
-`$
+$$
 
 Where:
 - $`\mathcal{B}_Q`$ represents quantum biodiversity space, containing all possible life forms
@@ -33,17 +33,17 @@ Where:
 
 The intersection of these two constitutes the currently active evolutionary frontier:
 
-$`
+$$
 \mathcal{B}_I = \mathcal{B}_Q \cap \mathcal{B}_C
-`$
+$$
 
 ### Multi-level Diversity Model
 
 Biodiversity exhibits a multi-level structure, which can be formalized as:
 
-$`
+$$
 \mathcal{B}^{(n)} = \{\mathcal{B}^{(g)}, \mathcal{B}^{(s)}, \mathcal{B}^{(e)}, \mathcal{B}^{(f)}, \mathcal{B}^{(c)}\}
-`$
+$$
 
 Where:
 - $`\mathcal{B}^{(g)}`$ is genetic diversity (genetic information level)
@@ -60,9 +60,9 @@ Each level contains a quantum-classical dual structure.
 
 The genome can be viewed as a quantum information repository, existing in a superposition of multiple possible expression states:
 
-$`
+$$
 |\Psi_G\rangle = \sum_{i=1}^{N} \alpha_i |G_i\rangle
-`$
+$$
 
 Where:
 - $`|G_i\rangle`$ represents the ith possible gene expression state
@@ -75,9 +75,9 @@ This quantum superposition explains how organisms maintain vast adaptive potenti
 
 Epigenetic modifications form quantum entanglement networks across the genome:
 
-$`
+$$
 |\Psi_{EG}\rangle = \sum_{i,j} \beta_{ij} |E_i\rangle \otimes |G_j\rangle
-`$
+$$
 
 Where:
 - $`|E_i\rangle`$ represents the ith epigenetic state
@@ -90,9 +90,9 @@ This entanglement explains how the environment influences biodiversity through e
 
 The biodiversity of an entire ecosystem can be represented as a quantum wavefunction:
 
-$`
+$$
 |\Psi_B(t)\rangle = e^{-i\hat{H}_B t/\hbar}|\Psi_B(0)\rangle
-`$
+$$
 
 Where $`\hat{H}_B`$ is the biodiversity Hamiltonian, including:
 - Intra-species gene flow terms
@@ -100,9 +100,9 @@ Where $`\hat{H}_B`$ is the biodiversity Hamiltonian, including:
 - Environmental selection terms
 - Random mutation terms
 
-$`
+$$
 \hat{H}_B = \hat{H}_{gene} + \hat{H}_{inter} + \hat{H}_{sel} + \hat{H}_{mut}
-`$
+$$
 
 This wavefunction describes the quantum dynamical evolution of biodiversity.
 
@@ -110,9 +110,9 @@ This wavefunction describes the quantum dynamical evolution of biodiversity.
 
 The quantum generation of biodiversity follows this dynamical equation:
 
-$`
+$$
 \frac{d\mathcal{D}_Q}{dt} = \alpha \cdot \nabla^2 \mathcal{D}_Q + \beta \cdot \mathcal{D}_Q(1-\mathcal{D}_Q/K) + \gamma \cdot \xi(t)
-`$
+$$
 
 Where:
 - $`\mathcal{D}_Q`$ is the quantum diversity measure
@@ -129,9 +129,9 @@ This equation explains how diversity spontaneously emerges in unguided quantum p
 
 Classical biodiversity can be quantified through multiple complementary indicators:
 
-$`
+$$
 \mathcal{B}_C = \{S, H', D, E, F, \beta, PD\}
-`$
+$$
 
 Where:
 - $`S`$ is species richness (number of species)
@@ -148,9 +148,9 @@ These indicators collectively describe the classical realized state of biodivers
 
 Classical biodiversity and ecosystem stability satisfy the following relationship:
 
-$`
+$$
 \sigma^2(X) = \sigma^2_0 \cdot S^{-\alpha} \cdot f(H', F, C)
-`$
+$$
 
 Where:
 - $`\sigma^2(X)`$ is the variance of key system variables
@@ -165,9 +165,9 @@ This relationship explains why high-diversity systems are generally more stable.
 
 Classical biodiversity maintenance follows this dynamical equation:
 
-$`
+$$
 \frac{d\mathcal{D}_C}{dt} = \sum_{i=1}^{S} r_i N_i(1-\frac{N_i}{K_i}) - \sum_{i,j}^{S} \alpha_{ij}N_i N_j + I(t) - E(t)
-`$
+$$
 
 Where:
 - $`\mathcal{D}_C`$ is the classical diversity measure
@@ -183,9 +183,9 @@ This equation explains how classical diversity is maintained through population 
 
 There exists a non-linear relationship between biodiversity and ecosystem function:
 
-$`
+$$
 F(S) = F_{max}(1 - e^{-\theta S}) \cdot \phi(C)
-`$
+$$
 
 Where:
 - $`F(S)`$ is the ecosystem function intensity
@@ -202,9 +202,9 @@ This explains why ecosystem functions and biodiversity exhibit a saturation curv
 
 The mapping from quantum gene space to classical phenotype space can be represented as:
 
-$`
+$$
 \mathcal{M}: \mathcal{G}_Q \rightarrow \mathcal{P}_C, \quad P_i = \mathcal{M}(\{G_j\}, E, \xi)
-`$
+$$
 
 Where:
 - $`\mathcal{G}_Q`$ is the quantum gene space
@@ -220,9 +220,9 @@ This mapping explains how classical phenotypes are realized from quantum possibi
 
 Environmental selection causes diversity wavefunction collapse, transforming quantum diversity into classical diversity:
 
-$`
+$$
 |\Psi_B\rangle \xrightarrow{\text{Environmental Selection}} |B_i\rangle \quad \text{with probability} \quad p_i = |\langle B_i|\Psi_B\rangle|^2 \cdot f(E, \mathcal{F}_i)
-`$
+$$
 
 Where:
 - $`|B_i\rangle`$ is a specific classical diversity state
@@ -235,9 +235,9 @@ This explains how natural selection serves as a key mechanism for quantum-classi
 
 The adaptive landscape changes dynamically as a quantum-classical interface:
 
-$`
+$$
 \mathcal{L}(g, t) = \mathcal{L}_0(g) + \sum_i A_i(t) \cdot \phi_i(g) + \eta(g, t)
-`$
+$$
 
 Where:
 - $`\mathcal{L}(g, t)`$ is the fitness of genotype $`g`$ at time $`t`$
@@ -254,9 +254,9 @@ This dynamic landscape connects quantum evolutionary possibilities with classica
 
 Quantum biodiversity can be quantified through information entropy:
 
-$`
+$$
 S_{QB} = -\text{Tr}(\rho_B \ln \rho_B) = -\sum_i \lambda_i \ln \lambda_i
-`$
+$$
 
 Where:
 - $`\rho_B`$ is the biodiversity density matrix
@@ -268,9 +268,9 @@ This quantum information entropy measures the potential diversity of biological 
 
 The information flow network formed by biodiversity can be represented as:
 
-$`
+$$
 \mathcal{N}_B = (V_B, E_B, W_B)
-`$
+$$
 
 Where:
 - $`V_B`$ is the set of nodes (species or genes)
@@ -279,9 +279,9 @@ Where:
 
 The information flow can be calculated as:
 
-$`
+$$
 I_{flow} = \sum_{i,j} w_{ij} \cdot \log_2 \frac{p(i,j)}{p(i)p(j)}
-`$
+$$
 
 This measures the efficiency of information exchange in the diversity network.
 
@@ -289,9 +289,9 @@ This measures the efficiency of information exchange in the diversity network.
 
 Biodiversity undergoes information phase transitions at critical points:
 
-$`
+$$
 S_{QB} \propto |T - T_c|^{-\alpha}, \quad \text{for} \quad T \approx T_c
-`$
+$$
 
 Where:
 - $`T`$ is the system control parameter (which could be temperature, resources, or disturbance intensity)
@@ -310,17 +310,17 @@ This phase transition marks the shift of the diversity system from a quantum-dom
 
 3. **Diversity Fluctuation Scaling**: Diversity fluctuations follow power-law scaling:
 
-$`
+$$
 \sigma_B \propto S^{-\gamma}
-`$
+$$
 
    where $`\gamma`$ should maintain universality across different ecosystems.
 
 4. **Information Transfer Acceleration**: Increasing biodiversity should accelerate system information transfer in a non-linear manner:
 
-$`
+$$
 \tau_{info} \propto S^{-\delta}
-`$
+$$
 
    where $`\tau_{info}`$ is the information propagation time.
 
@@ -364,15 +364,15 @@ Based on classical biodiversity theory, conservation strategies should prioritiz
 
 The quantum-classical biodiversity integrated conservation framework can be expressed as an optimization problem:
 
-$`
+$$
 \max_A B(A) = \lambda \cdot B_Q(A) + (1-\lambda) \cdot B_C(A)
-`$
+$$
 
 Subject to:
 
-$`
+$$
 C(A) \leq C_{max}
-`$
+$$
 
 Where:
 - $`A`$ is the set of conservation actions

@@ -29,9 +29,9 @@
 
 马丁·路德的宗教改革通过量子经典二元论框架可获得全新解读。路德对中世纪教会制度的挑战可视为宗教领域中的量子革命——从单一经典权威结构转向多重可能性的信仰实践，重新平衡了宗教经验中的量子与经典维度。
 
-$`
+$$
 |\psi\rangle_{\text{路德改革}} = |\psi\rangle_{\text{信仰直接性（量子）}} \otimes I_{\text{圣经权威（经典）}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    路德的因信称义教义揭示了救恩中量子恩典与经典行为的根本分离：
 
    $$
-
    I_{\text{善行（经典表现）}} \not\Rightarrow |\psi\rangle_{\text{救恩（量子恩典）}}
    $$
 
@@ -59,7 +58,6 @@ $`
    路德的唯独圣经原则揭示了信仰解释中量子多样性与经典锚点的平衡：
 
    $$
-
    I_{\text{圣经（经典文本）}} \otimes |\psi\rangle_{\text{个人解释（量子多样性）}} \rightarrow |\phi\rangle_{\text{信仰理解}}
    $$
 
@@ -80,7 +78,6 @@ $`
    路德的信徒皆祭司观念揭示了与神圣者直接量子连接的可能性：
 
    $$
-
    |\psi\rangle_{\text{个体信徒}} \xrightarrow{\text{直接连接}} |\phi\rangle_{\text{神圣领域}} \quad \text{无需} \quad I_{\text{制度性中介}}
    $$
 
@@ -99,7 +96,6 @@ $`
    路德的两个国度理论揭示了量子灵性与经典治理的互补关系：
 
    $$
-
    |\psi\rangle_{\text{灵性国度（量子领域）}} \parallel I_{\text{世俗国度（经典领域）}}
    $$
 
@@ -120,7 +116,6 @@ $`
    路德的十字架神学揭示了神圣启示中的量子悖论性：
 
    $$
-
    |\psi\rangle_{\text{神圣启示}} = |\psi\rangle_{\text{软弱}} + |\psi\rangle_{\text{力量}} = |\psi\rangle_{\text{苦难}} + |\psi\rangle_{\text{荣耀}}
    $$
 
@@ -141,7 +136,6 @@ $`
    路德的圣礼观念揭示了物质媒介中的圣约量子临在：
 
    $$
-
    I_{\text{物质元素（经典载体）}} \otimes |\psi\rangle_{\text{基督临在（量子实在）}} \rightarrow |\phi\rangle_{\text{圣礼经验}}
    $$
 

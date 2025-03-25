@@ -29,25 +29,25 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 
    "曾经的你"可视为观察者从当下经典现实中提取的量子记忆。这种记忆存在于量子和经典的叠加态中，每次回忆都是一次量子坍缩，使"曾经的你"以特定形态被感知：
 
-$`
+$$
 |\psi\rangle_{\text{记忆}} = \alpha|\psi\rangle_{\text{经典事实}} + \beta|\psi\rangle_{\text{量子可能性}}
-`$
+$$
 
 2. **时空褶皱与维度连接**：
 
    歌曲中对过去时空的回忆，本质上是观察者在不同时空维度间建立的量子虫洞连接，通过这种连接，过去与现在得以交织：
 
-$`
+$$
 \mathcal{W}(\text{现在}, \text{过去}) = \int_{\text{过去}}^{\text{现在}} e^{-\frac{S_{\text{时空路径}}}{\hbar}} \mathcal{D}[\text{路径}]
-`$
+$$
 
 3. **信息熵与经典化**：
 
    随着时间流逝，"曾经的你"在记忆中逐渐经典化，信息熵趋于稳定：
 
-$`
+$$
 S_{\text{记忆}}(t) = -k \sum_{i} p_i(t) \ln p_i(t)
-`$
+$$
 
 其中$`p_i(t)`$表示记忆中第$`i`$个细节随时间变化的概率分布。
 
@@ -81,25 +81,25 @@ From the perspective of Quantum-Classical Dualism, "Once You" profoundly explore
 
    "Once you" can be viewed as quantum memory extracted by the observer from the current classical reality. This memory exists in a superposition of quantum and classical states, and each recall is a quantum collapse, causing "once you" to be perceived in a specific form:
 
-$`
+$$
 |\psi\rangle_{\text{Memory}} = \alpha|\psi\rangle_{\text{Classical Fact}} + \beta|\psi\rangle_{\text{Quantum Possibility}}
-`$
+$$
 
 2. **Space-Time Folds and Dimensional Connections**:
 
    The recollection of past space-time in the song is essentially a quantum wormhole connection established by the observer between different space-time dimensions, through which the past and present interweave:
 
-$`
+$$
 \mathcal{W}(\text{Present}, \text{Past}) = \int_{\text{Past}}^{\text{Present}} e^{-\frac{S_{\text{Space-Time Path}}}{\hbar}} \mathcal{D}[\text{Path}]
-`$
+$$
 
 3. **Information Entropy and Classicalization**:
 
    As time passes, "once you" gradually classicalizes in memory, with information entropy tending towards stability:
 
-$`
+$$
 S_{\text{Memory}}(t) = -k \sum_{i} p_i(t) \ln p_i(t)
-`$
+$$
 
 Where $`p_i(t)`$ represents the probability distribution of the $`i`$-th detail in memory changing over time.
 

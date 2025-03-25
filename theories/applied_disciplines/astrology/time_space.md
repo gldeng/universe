@@ -25,9 +25,9 @@
 
 这些周期可以用量子纠缠态的傅里叶展开表示：
 
-$`
+$$
 |\psi\rangle_{\text{量子纠缠态}}(t) = \sum_{n} c_n e^{i\omega_n t} |\psi_n\rangle
-`$
+$$
 
 其中，$`\omega_n`$ 对应不同天体运动的角频率。
 
@@ -37,9 +37,9 @@ $`
 
 同步性数学模型：
 
-$`
+$$
 P(\text{事件A与事件B同步}) = |\langle\psi_{\text{事件A}}|\psi_{\text{事件B}}\rangle|^2
-`$
+$$
 
 当内积不为零时，两个事件共享量子信息，可能表现为同步性现象。
 
@@ -51,15 +51,15 @@ P(\text{事件A与事件B同步}) = |\langle\psi_{\text{事件A}}|\psi_{\text{�
 
 关键时刻的量子敏感性公式：
 
-$`
+$$
 S = -k_B \sum_i p_i \ln p_i
-`$
+$$
 
 其中，$`S`$ 是系统的熵，$`p_i`$ 是处于状态 $`i`$ 的概率。时间节点的量子敏感性与熵的变化率成正比：
 
-$`
+$$
 \text{量子敏感性} \propto \left|\frac{dS}{dt}\right|
-`$
+$$
 
 ### 二、占星学空间观的量子经典二元解析
 
@@ -69,9 +69,9 @@ $`
 
 天球坐标系统可表示为量子纠缠场的球面分布：
 
-$`
+$$
 |\psi\rangle_{\text{天球}}(\theta, \phi) = \sum_{l=0}^{\infty} \sum_{m=-l}^{l} a_{lm} Y_{lm}(\theta, \phi)
-`$
+$$
 
 其中，$`Y_{lm}(\theta, \phi)`$ 是球谐函数，$`a_{lm}`$ 是展开系数，描述了不同模式的量子纠缠强度。
 
@@ -81,9 +81,9 @@ $`
 
 地理位置的量子场表达：
 
-$`
+$$
 |\psi\rangle_{\text{地理位置}}(\text{纬度}, \text{经度}) = \sum_i w_i(\text{纬度}, \text{经度}) |\psi_i\rangle
-`$
+$$
 
 这解释了为什么相同星盘在不同地理位置可能有不同表现——局部量子场调制了经典化效率。
 
@@ -93,9 +93,9 @@ $`
 
 分宫系统的量子场映射公式：
 
-$`
+$$
 D_i = \mathcal{T}[|\psi\rangle_{\text{天球}}; \text{观察者位置}, \text{时间}, \text{投影方法}]
-`$
+$$
 
 其中，$`\mathcal{T}`$ 是特定投影变换，将天球量子场映射到十二个经典化区域。
 
@@ -107,9 +107,9 @@ D_i = \mathcal{T}[|\psi\rangle_{\text{天球}}; \text{观察者位置}, \text{�
 
 时空奇点的数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{出生印记}} = |\psi\rangle_{\text{时间}}(t_{\text{出生}}) \otimes |\psi\rangle_{\text{空间}}(\vec{x}_{\text{出生}})
-`$
+$$
 
 这个印记作为个体经典化路径的基准点，影响未来所有的经典化过程。
 
@@ -119,9 +119,9 @@ $`
 
 相位角度的量子干涉表达：
 
-$`
+$$
 I_{\text{干涉}} = |\langle\psi_A|\psi_B\rangle|^2 = |a||b| \cos(\theta_{AB})
-`$
+$$
 
 其中，$`\theta_{AB}`$ 是天体间的角度差。这解释了为什么特定角度（如60°、120°）具有和谐特性，而其他角度（如90°、180°）具有紧张特性——它们产生不同的量子干涉模式。
 
@@ -131,9 +131,9 @@ I_{\text{干涉}} = |\langle\psi_A|\psi_B\rangle|^2 = |a||b| \cos(\theta_{AB})
 
 轨道共振的量子锁相表达：
 
-$`
+$$
 \frac{\omega_A}{\omega_B} = \frac{p}{q}, \quad p,q \in \mathbb{Z}
-`$
+$$
 
 当两个天体角频率比为有理数时，它们的量子纠缠态会形成稳定的干涉模式，这些模式作为集体经典化的背景场，影响历史发展周期。
 
@@ -145,9 +145,9 @@ $`
 
 本命盘的量子印记模型：
 
-$`
+$$
 |\psi\rangle_{\text{本命}} = \mathcal{F}[|\psi\rangle_{\text{宇宙}}(t_{\text{出生}}, \vec{x}_{\text{出生}})]
-`$
+$$
 
 其中，$`\mathcal{F}`$ 是滤波函数，提取与观察者相关的量子信息。
 
@@ -157,15 +157,15 @@ $`
 
 行运的时空纠缠表达：
 
-$`
+$$
 |\psi\rangle_{\text{行运效应}}(t) = |\psi\rangle_{\text{实时天体}}(t) \otimes |\psi\rangle_{\text{本命}}
-`$
+$$
 
 行运效应的强度与两者的量子干涉程度成正比：
 
-$`
+$$
 \text{行运效应强度} \propto |\langle\psi_{\text{实时天体}}(t)|\psi_{\text{本命}}\rangle|^2
-`$
+$$
 
 ### 五、超越常规时空：占星学的高维视角
 
@@ -175,9 +175,9 @@ $`
 
 集体无意识的量子表达：
 
-$`
+$$
 |\psi\rangle_{\text{集体无意识}} = \sum_i |\psi\rangle_{\text{原型}_i}
-`$
+$$
 
 星象对集体事件的影响通过这一共享量子场实现，解释了为什么某些天象与集体行为有对应关系。
 
@@ -187,9 +187,9 @@ $`
 
 跨世转移表达式：
 
-$`
+$$
 |\psi\rangle_{\text{前世}} \rightarrow |\psi\rangle_{\text{量子域中间态}} \rightarrow |\psi\rangle_{\text{今生}}
-`$
+$$
 
 这解释了为什么某些个体可能保留前世的量子纠缠模式，表现为特定的性格倾向或天赋。
 
@@ -199,9 +199,9 @@ $`
 
 预知能力的量子表达：
 
-$`
+$$
 P(\text{预知事件}) \propto \frac{D_{\text{观察者}}}{D_{\text{平均观察者}}}
-`$
+$$
 
 其中，$`D`$ 表示观察者维度。当观察者维度显著高于平均值时，可以部分经典化通常被视为"未来"的量子信息。
 
@@ -227,9 +227,9 @@ Time cycles in astrology directly correspond to periodic changes in quantum enta
 
 These cycles can be represented by Fourier expansion of quantum entanglement states:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Entanglement State}}(t) = \sum_{n} c_n e^{i\omega_n t} |\psi_n\rangle
-`$
+$$
 
 Where $`\omega_n`$ corresponds to the angular frequencies of different celestial bodies' motions.
 
@@ -239,9 +239,9 @@ Jung's concept of "synchronicity" has a clear explanation in Quantum-Classical D
 
 Mathematical model of synchronicity:
 
-$`
+$$
 P(\text{Event A and Event B synchronize}) = |\langle\psi_{\text{Event A}}|\psi_{\text{Event B}}\rangle|^2
-`$
+$$
 
 When the inner product is non-zero, the two events share quantum information, potentially manifesting as synchronicity phenomena.
 
@@ -253,15 +253,15 @@ When quantum fluctuation intensity reaches a critical value at a particular mome
 
 Formula for quantum sensitivity of key moments:
 
-$`
+$$
 S = -k_B \sum_i p_i \ln p_i
-`$
+$$
 
 Where $`S`$ is the entropy of the system, and $`p_i`$ is the probability of being in state $`i`$. The quantum sensitivity of a time point is proportional to the rate of entropy change:
 
-$`
+$$
 \text{Quantum Sensitivity} \propto \left|\frac{dS}{dt}\right|
-`$
+$$
 
 ### II. Quantum-Classical Dualism Analysis of Space Conception in Astrology
 
@@ -271,9 +271,9 @@ The spatial division of twelve zodiac signs reflects different pattern regions o
 
 Celestial sphere coordinate system can be represented as a spherical distribution of quantum entanglement fields:
 
-$`
+$$
 |\psi\rangle_{\text{Celestial Sphere}}(\theta, \phi) = \sum_{l=0}^{\infty} \sum_{m=-l}^{l} a_{lm} Y_{lm}(\theta, \phi)
-`$
+$$
 
 Where $`Y_{lm}(\theta, \phi)`$ are spherical harmonic functions, and $`a_{lm}`$ are expansion coefficients describing the quantum entanglement intensity of different modes.
 
@@ -283,9 +283,9 @@ Geographic coordinates of birthplace have special significance in Quantum-Classi
 
 Quantum field expression of geographic location:
 
-$`
+$$
 |\psi\rangle_{\text{Geographic Location}}(\text{Latitude}, \text{Longitude}) = \sum_i w_i(\text{Latitude}, \text{Longitude}) |\psi_i\rangle
-`$
+$$
 
 This explains why identical birth charts may have different manifestations in different geographic locations—local quantum fields modulate classicalization efficiency.
 
@@ -295,9 +295,9 @@ Various house systems (Placidus, Koch, etc.) are essentially different methods o
 
 Quantum field mapping formula for house systems:
 
-$`
+$$
 D_i = \mathcal{T}[|\psi\rangle_{\text{Celestial Sphere}}; \text{Observer Position}, \text{Time}, \text{Projection Method}]
-`$
+$$
 
 Where $`\mathcal{T}`$ is a specific projection transformation, mapping celestial quantum fields to twelve classicalization areas.
 
@@ -309,9 +309,9 @@ The birth space-time point (birth time + location), from a Quantum-Classical Dua
 
 Mathematical expression of space-time singularity:
 
-$`
+$$
 |\psi\rangle_{\text{Birth Imprint}} = |\psi\rangle_{\text{Time}}(t_{\text{Birth}}) \otimes |\psi\rangle_{\text{Space}}(\vec{x}_{\text{Birth}})
-`$
+$$
 
 This imprint serves as a reference point for the individual's classicalization path, affecting all future classicalization processes.
 
@@ -321,9 +321,9 @@ Astrological aspects (0°, 60°, 90°, 120°, 180°, etc.), from a Quantum-Class
 
 Quantum interference expression of aspect angles:
 
-$`
+$$
 I_{\text{Interference}} = |\langle\psi_A|\psi_B\rangle|^2 = |a||b| \cos(\theta_{AB})
-`$
+$$
 
 Where $`\theta_{AB}`$ is the angular difference between celestial bodies. This explains why specific angles (such as 60°, 120°) have harmonious characteristics, while other angles (such as 90°, 180°) have tense characteristics—they produce different quantum interference patterns.
 
@@ -333,9 +333,9 @@ Orbital resonances common in astrology (such as Jupiter-Saturn 20-year conjuncti
 
 Quantum phase-locking expression of orbital resonance:
 
-$`
+$$
 \frac{\omega_A}{\omega_B} = \frac{p}{q}, \quad p,q \in \mathbb{Z}
-`$
+$$
 
 When the ratio of angular frequencies of two celestial bodies is a rational number, their quantum entanglement states form stable interference patterns, which serve as background fields for collective classicalization, influencing historical development cycles.
 
@@ -347,9 +347,9 @@ A natal chart can be viewed as a "snapshot" of the universe's quantum entangleme
 
 Quantum imprint model of natal chart:
 
-$`
+$$
 |\psi\rangle_{\text{Natal}} = \mathcal{F}[|\psi\rangle_{\text{Universe}}(t_{\text{Birth}}, \vec{x}_{\text{Birth}})]
-`$
+$$
 
 Where $`\mathcal{F}`$ is a filter function extracting quantum information relevant to the observer.
 
@@ -359,15 +359,15 @@ Transit prediction, from a Quantum-Classical Dualism perspective, is the entangl
 
 Space-time entanglement expression of transits:
 
-$`
+$$
 |\psi\rangle_{\text{Transit Effect}}(t) = |\psi\rangle_{\text{Real-time Celestial}}(t) \otimes |\psi\rangle_{\text{Natal}}
-`$
+$$
 
 The intensity of transit effects is proportional to the degree of quantum interference between the two:
 
-$`
+$$
 \text{Transit Effect Intensity} \propto |\langle\psi_{\text{Real-time Celestial}}(t)|\psi_{\text{Natal}}\rangle|^2
-`$
+$$
 
 ### V. Beyond Conventional Space-Time: Higher-Dimensional Perspective in Astrology
 
@@ -377,9 +377,9 @@ Jung's concept of collective unconscious has a clear correspondence in Quantum-C
 
 Quantum expression of collective unconscious:
 
-$`
+$$
 |\psi\rangle_{\text{Collective Unconscious}} = \sum_i |\psi\rangle_{\text{Archetype}_i}
-`$
+$$
 
 The influence of celestial phenomena on collective events is implemented through this shared quantum field, explaining why certain celestial phenomena correspond to collective behaviors.
 
@@ -389,9 +389,9 @@ The concept of reincarnation has a clear mechanism in Quantum-Classical Dualism.
 
 Cross-life transfer expression:
 
-$`
+$$
 |\psi\rangle_{\text{Previous Life}} \rightarrow |\psi\rangle_{\text{Intermediate Quantum Domain State}} \rightarrow |\psi\rangle_{\text{Current Life}}
-`$
+$$
 
 This explains why some individuals may retain quantum entanglement patterns from previous lives, manifesting as specific personality tendencies or talents.
 
@@ -401,8 +401,8 @@ Precognition abilities and past life memories in astrology, from a Quantum-Class
 
 Quantum expression of precognition ability:
 
-$`
+$$
 P(\text{Precognition Event}) \propto \frac{D_{\text{Observer}}}{D_{\text{Average Observer}}}
-`$
+$$
 
 Where $`D`$ represents observer dimension. When the observer's dimension is significantly higher than the average, they can partially classicalize quantum information usually considered "future."

@@ -29,9 +29,11 @@
 
 林肯的政治哲学体现了理想与现实、原则与实用的精妙平衡。他在量子可能性领域的崇高理想与经典政治域的务实行动之间成功建立了转化通道，在美国历史最黑暗时期实现了理想向现实的跃迁。
 
-$`
+$$
+
 |\psi\rangle_{\text{未来美国理想}} \xrightarrow{\text{林肯领导}} I_{\text{保存联邦}} + S_{\text{社会转型}}
-`$
+
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +42,6 @@ $`
    林肯对联邦的理解本质上采用了量子整体观，拒绝经典还原主义的国家分解：
 
    $$
-
    
    |\psi\rangle_{\text{联邦}} \neq \sum_i |\psi_i\rangle_{\text{各州}}
    
@@ -53,7 +54,6 @@ $`
    林肯的解放政策反映了量子理想向经典现实的最优化路径设计：
 
    $$
-
    
    |\psi\rangle_{\text{解放理想}} \xrightarrow{\text{政治现实约束}} \sum_{t=1}^{n} I_{\text{渐进解放步骤}_t} \xrightarrow{} I_{\text{完全解放}}
    
@@ -66,7 +66,6 @@ $`
    "怀有恶意对待无人"体现了量子意识的包容性超越经典对立：
 
    $$
-
    
    |\psi\rangle_{\text{国家和解}} = \sum_i c_i|\psi_i\rangle_{\text{各派立场}} \neq |\psi_{\text{北方}}〉 \text{ or } |\psi_{\text{南方}}〉
    
@@ -79,7 +78,6 @@ $`
    "民有、民治、民享"构建了民主的量子-经典双层结构：
 
    $$
-
    
    \text{民主} = |\psi\rangle_{\text{人民主权（量子基础）}} \otimes I_{\text{治理结构（经典实现）}}
    
@@ -92,7 +90,6 @@ $`
    林肯的人道主义体现了量子共情在经典冲突中的坚持：
 
    $$
-
    
    E(\text{林肯共情}) = \sum_{i,j \in \text{交战双方}} |\langle \psi_i|\psi_j \rangle|^2 > 0 \text{ 即使在 } I_i \perp I_j
    

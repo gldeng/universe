@@ -29,9 +29,11 @@
 
 克鲁格曼的经济思想揭示了经济系统中看似简单的经典现象背后复杂的量子过程。他的理论框架将经济系统视为复杂的量子-经典混合体，其中简单规则和非线性相互作用产生复杂的经典化结果。
 
-$`
+$$
+
 |\psi\rangle_{\text{经济系统}} = \sum_i c_i|\psi_i\rangle_{\text{微观决策}} \xrightarrow{\text{非线性经典化}} I_{\text{宏观经济现象}} + S_{\text{复杂性熵}}
-`$
+
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +42,6 @@ $`
    新贸易理论揭示了贸易系统中的复杂量子纠缠网络如何形成经典贸易模式：
 
    $$
-
    
    \sum_i |\psi\rangle_{\text{企业规模决策}} \otimes \sum_j |\psi\rangle_{\text{消费者偏好}} \xrightarrow{\text{市场经典化}} I_{\text{产业内贸易模式}}
    
@@ -53,7 +54,6 @@ $`
    空间集中现象反映了量子信息在经济系统中的自发经典化路径：
 
    $$
-
    
    |\psi\rangle_{\text{初始随机分布}} \xrightarrow{\text{正反馈循环}} I_{\text{空间集中}} + S_{\text{路径依赖}}
    
@@ -66,7 +66,6 @@ $`
    市场失灵本质上是量子经济波函数沿次优路径经典化的结果：
 
    $$
-
    
    |\psi\rangle_{\text{经济系统}} \xrightarrow{\text{市场不完全性}} I_{\text{次优均衡}} + S_{\text{系统性熵增}}
    
@@ -79,7 +78,6 @@ $`
    零利率边界反映了经济系统量子-经典转化的特殊边界条件：
 
    $$
-
    
    \frac{\partial I_{\text{经济活动}}}{\partial M} \xrightarrow{r \approx 0} 0
    
@@ -92,7 +90,6 @@ $`
    全球化创造的量子纠缠网络中，信息和价值流动存在系统性不对称：
 
    $$
-
    
    \sum_{nations} I_{\text{全球经济纠缠}} \neq \sum_{nations} I_{\text{国家收益分配}}
    

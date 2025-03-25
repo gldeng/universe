@@ -14,9 +14,9 @@ The Quantum-Classical Sustainable Development Theory applies the quantum-classic
 
 Sustainability can be understood as a quantum-classical dual system:
 
-$`
+$$
 \mathcal{S} = \{\Omega_Q^{ecological}, \Omega_C^{human}, \mathcal{I}_{sustainable}\}
-`$
+$$
 
 Where:
 - $`\Omega_Q^{ecological}`$ represents ecological systems with quantum properties (multiple possibilities, emergence, non-linear dynamics)
@@ -25,9 +25,9 @@ Where:
 
 Sustainability balance can be represented as:
 
-$`
+$$
 B_{sustainable} = \frac{\Phi(\Omega_Q^{ecological})}{\Psi(\Omega_C^{human})} \approx \kappa
-`$
+$$
 
 Where $`\kappa`$ is the optimal balance constant, and $`\Phi`$ and $`\Psi`$ are health measurement functions for each domain.
 
@@ -37,33 +37,33 @@ Ecological systems exhibit significant quantum domain properties:
 
 1. **Superposition State Dynamics**: Ecological systems simultaneously exist in superpositions of multiple potential states
 
-$`
+$$
 |\Psi_{ecological}\rangle = \sum_i c_i |state_i\rangle, \quad \sum_i |c_i|^2 = 1
-`$
+$$
 
 2. **Non-local Entanglement Relationships**: Biological elements exhibit correlations that transcend spatial limitations
 
-$`
+$$
 \rho_{AB} \neq \rho_A \otimes \rho_B
-`$
+$$
 
 3. **Measurement Effects**: Human intervention as "measurement" changes system states
 
-$`
+$$
 |\Psi_{after}\rangle = \frac{P_i|\Psi_{before}\rangle}{||P_i|\Psi_{before}\rangle||}
-`$
+$$
 
 4. **Quantum Fluctuations Driving Innovation**: Random variations and evolutionary leaps depend on quantum uncertainty
 
-$`
+$$
 \Delta E \cdot \Delta t \geq \frac{\hbar}{2}
-`$
+$$
 
 Ecological resilience can be expressed as quantum redundancy:
 
-$`
+$$
 R_Q = -\log_2\left(\sum_i |c_i|^4\right)
-`$
+$$
 
 The higher $`R_Q`$ is, the more capability the system has to adapt to multiple future scenarios.
 
@@ -73,33 +73,33 @@ Human socioeconomic systems exhibit classical domain properties:
 
 1. **Deterministic Planning**: Linear decision processes based on predictable models
 
-$`
+$$
 D(t) = f(I_t, I_{t-1}, ..., I_{t-n})
-`$
+$$
 
 2. **Local Causal Chains**: Clear linear relationships between actions and results
 
-$`
+$$
 R_t = \sum_i \alpha_i A_{t-i}
-`$
+$$
 
 3. **Entropy Increase Mechanisms**: Systems tend toward maximum entropy states, requiring energy to maintain order
 
-$`
+$$
 \frac{dS}{dt} \geq 0
-`$
+$$
 
 4. **Structure Preservation**: Institutions and infrastructure exhibit high inertia
 
-$`
+$$
 \tau_{change} \propto \frac{M_{system}}{F_{driving}}
-`$
+$$
 
 Classical system stability relationship with information:
 
-$`
+$$
 S_C = \frac{I_{classical knowledge}}{E_{environmental change}}
-`$
+$$
 
 Where $`I_{classical knowledge}`$ is accumulated deterministic knowledge, and $`E_{environmental change}`$ is the rate of environmental change.
 
@@ -107,9 +107,9 @@ Where $`I_{classical knowledge}`$ is accumulated deterministic knowledge, and $`
 
 Sustainable development can be understood as optimal conversion between quantum possibilities and classical determinism:
 
-$`
+$$
 \mathcal{SD} = \mathcal{O}_{\text{human}} \circ \mathcal{T}_{\text{interface}} \circ \mathcal{P}_{\text{ecological}}
-`$
+$$
 
 Where:
 - $`\mathcal{P}_{\text{ecological}}`$ is the operator for ecological systems generating quantum possibilities
@@ -118,9 +118,9 @@ Where:
 
 Sustainable conversion efficiency is determined by information preservation:
 
-$`
+$$
 \eta_{sustainable} = \frac{I_{after conversion}}{I_{before conversion}} = 1 - \frac{I_{loss}}{I_{total}}
-`$
+$$
 
 The optimal sustainable path is the quantum→classical conversion path that maximally preserves ecological information.
 
@@ -144,9 +144,9 @@ Climate change phenomena embody quantum-classical conflicts:
 
 Climate duality contradiction index:
 
-$`
+$$
 D_{climate} = \frac{C_{quantum complexity}}{M_{classical management capacity}}
-`$
+$$
 
 Where $`D_{climate} > 1`$ indicates the system is in a risk state.
 
@@ -168,9 +168,9 @@ Quantum-classical perspective on resource utilization:
 
 Circularity measurement:
 
-$`
+$$
 C_e = 1 - \frac{M_{waste}}{M_{total}} \cdot \frac{I_{waste}}{I_{original}}
-`$
+$$
 
 Where $`M`$ represents material quantity, and $`I`$ represents information content.
 
@@ -192,9 +192,9 @@ Correspondence between biodiversity and quantum information:
 
 Biodiversity information value equation:
 
-$`
+$$
 V_{information} = H_{diversity} \cdot R_{redundancy} \cdot N_{network connectivity} \cdot F_{functional diversity}
-`$
+$$
 
 ### 4. Technological Innovation and Social Transformation
 
@@ -214,9 +214,9 @@ Quantum-classical duality of sustainable technological innovation:
 
 Quantum-classical conversion dynamics of innovation:
 
-$`
+$$
 I(t) = I_0 + \alpha\sum_{i=1}^{n}Q_i(t) \cdot (1 - e^{-\beta C_i(t)})
-`$
+$$
 
 Where $`Q_i(t)`$ are quantum innovation factors, and $`C_i(t)`$ are classical implementation factors.
 
@@ -228,27 +228,27 @@ Strategies promoting synchronous evolution of human-natural systems:
 
 1. **Quantum Sensing Systems**: Enhancing ability to perceive quantum properties of ecological systems
 
-$`
+$$
 S_{sensing} = \sum_i w_i \cdot s_i
-`$
+$$
 
 2. **Bidirectional Information Flow**: Optimizing information exchange between human and ecological systems
 
-$`
+$$
 I_{flow} = I_{human→ecological} + I_{ecological→human}
-`$
+$$
 
 3. **Adaptive Management**: Aligning management methods with ecological dynamic characteristics
 
-$`
+$$
 A_M = \frac{response speed}{change speed} \cdot \frac{action diversity}{change diversity}
-`$
+$$
 
 4. **Co-evolutionary Institutions**: Designing institutions that co-evolve with ecological systems
 
-$`
+$$
 E_{co-evolution} = \min\{R_{institutional}, R_{ecological}\}
-`$
+$$
 
 Where $`R`$ represents the evolutionary response rate of each system.
 
@@ -258,33 +258,33 @@ Framework integrating quantum and classical decision methods:
 
 1. **Quantum Possibility Mapping**: Drawing quantum possibility maps in decision space
 
-$`
+$$
 M_Q = \{(s_i, p_i, v_i) | i = 1,2,...,n\}
-`$
+$$
 
 2. **Classical Stability Core**: Determining core action sets with high certainty
 
-$`
+$$
 C_s = \{a_j | P(success|a_j) > \theta, \forall j\}
-`$
+$$
 
 3. **Adaptive Path Design**: Creating resilient decision trees with trigger points
 
-$`
+$$
 T_{decision} = (V_{nodes}, E_{paths}, S_{triggers})
-`$
+$$
 
 4. **Compound Value Assessment**: Evaluation systems integrating multi-dimensional values
 
-$`
+$$
 V_{total} = \sum_k \omega_k \cdot V_k(a)
-`$
+$$
 
 Quantum-classical decision advantage:
 
-$`
+$$
 A_{decision} = \alpha \cdot R_{robustness} + \beta \cdot F_{flexibility} + \gamma \cdot I_{innovation} + \delta \cdot S_{sustainability}
-`$
+$$
 
 ### 3. Regenerative Design Principles
 
@@ -310,9 +310,9 @@ Regenerative system design based on quantum-classical dualism:
 
 Regenerative design equation:
 
-$`
+$$
 R_{design} = \frac{system positive contribution}{system negative impact} > 1
-`$
+$$
 
 ### 4. Quantum-Classical Education and Consciousness Transformation
 
@@ -337,9 +337,9 @@ Educational methods fostering quantum-classical balanced thinking:
 
 Education effectiveness measurement:
 
-$`
+$$
 E_{education} = C_Q \cdot C_C \cdot I_{integration} \cdot A_{application}
-`$
+$$
 
 Where $`C_Q`$ is quantum cognitive capacity, $`C_C`$ is classical cognitive capacity, $`I_{integration}`$ is integration ability, and $`A_{application}`$ is application skill.
 
@@ -369,9 +369,9 @@ Sustainable urban design principles:
 
 Urban sustainability index:
 
-$`
+$$
 S_{urban} = \sum_i w_i \cdot \frac{F_i}{I_i}
-`$
+$$
 
 Where $`F_i`$ is function output and $`I_i`$ is resource input for each urban system component.
 
@@ -399,9 +399,9 @@ Economic models balancing stability and innovation:
 
 Economic transformation index:
 
-$`
+$$
 T_{economy} = D_{decoupling} \cdot E_{efficiency} \cdot R_{regeneration} \cdot I_{inclusivity}
-`$
+$$
 
 Where component terms measure key sustainability transition dimensions.
 
@@ -429,9 +429,9 @@ Energy system transformation strategies:
 
 Energy system sustainability measurement:
 
-$`
+$$
 S_{energy} = \frac{energy services delivered}{resource consumption + impact generated}
-`$
+$$
 
 ### 4. Quantum-Classical Governance Frameworks
 
@@ -457,9 +457,9 @@ Governance approaches for sustainability transitions:
 
 Governance effectiveness framework:
 
-$`
+$$
 E_{governance} = L_{legitimacy} \cdot C_{capability} \cdot A_{adaptability} \cdot R_{responsiveness}
-`$
+$$
 
 ## Connections to Other Theories
 

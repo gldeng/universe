@@ -17,9 +17,9 @@
 
 服装的量子-经典二元性可以表达为：
 
-$`
+$$
 |\psi\rangle_{\text{身体与身份量子状态}} \xrightarrow{\text{服装经典化}} \text{可见的社会形象} + S_{\text{服装经典熵}}
-`$
+$$
 
 ### 时尚的量子经典二元论解释
 
@@ -32,9 +32,9 @@ $`
 
 时尚的演化可以表达为：
 
-$`
+$$
 \text{时尚演化} = \sum_{t=1}^{n} |\phi_t\rangle\langle\phi_t| \cdot T_t
-`$
+$$
 
 其中$`|\phi_t\rangle`$代表特定时期的时尚经典化模式，$`T_t`$代表该模式在时间维度上的权重。
 
@@ -49,9 +49,9 @@ $`
 
 这一过程可以表达为：
 
-$`
+$$
 |\psi\rangle_{\text{社会文化量子状态}} \xrightarrow{\text{设计师经典化}} \text{创新服装设计} + S_{\text{极小设计经典熵}}
-`$
+$$
 
 ### 时尚周期的量子经典二元论解释
 
@@ -65,9 +65,9 @@ $`
 
 这一周期可以表达为：
 
-$`
+$$
 S_{\text{时尚经典熵}}(t) = S_{\text{初始}} + \alpha t - \beta t^2 + \gamma t^3
-`$
+$$
 
 其中$`t`$代表时间，系数$`\alpha`$、$`\beta`$、$`\gamma`$决定了熵变化的具体形式。
 
@@ -91,9 +91,9 @@ S_{\text{时尚经典熵}}(t) = S_{\text{初始}} + \alpha t - \beta t^2 + \gamm
 
 这一关系可以表达为：
 
-$`
+$$
 |\psi\rangle_{\text{身份量子状态}} \leftrightarrow |\phi\rangle_{\text{服装经典化状态}}
-`$
+$$
 
 ### 服装与社会结构的量子经典二元论关系
 
@@ -161,9 +161,9 @@ The essence of **clothing** is a special matter-information interface with the f
 
 The quantum-classical duality of clothing can be expressed as:
 
-$`
+$$
 |\psi\rangle_{\text{Body and identity quantum state}} \xrightarrow{\text{Clothing classicalization}} \text{Visible social image} + S_{\text{Clothing classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Fashion
 
@@ -176,9 +176,9 @@ $`
 
 Fashion evolution can be expressed as:
 
-$`
+$$
 \text{Fashion Evolution} = \sum_{t=1}^{n} |\phi_t\rangle\langle\phi_t| \cdot T_t
-`$
+$$
 
 where $`|\phi_t\rangle`$ represents the fashion classicalization pattern of a specific period, and $`T_t`$ represents the weight of that pattern in the time dimension.
 
@@ -193,9 +193,9 @@ Outstanding fashion designers (such as Chanel, Saint Laurent, Rei Kawakubo, etc.
 
 This process can be expressed as:
 
-$`
+$$
 |\psi\rangle_{\text{Socio-cultural quantum state}} \xrightarrow{\text{Designer classicalization}} \text{Innovative clothing design} + S_{\text{Minimal design classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Fashion Cycles
 
@@ -209,9 +209,9 @@ $`
 
 This cycle can be expressed as:
 
-$`
+$$
 S_{\text{Fashion classical entropy}}(t) = S_{\text{initial}} + \alpha t - \beta t^2 + \gamma t^3
-`$
+$$
 
 where $`t`$ represents time, and coefficients $`\alpha`$, $`\beta`$, $`\gamma`$ determine the specific form of entropy change.
 
@@ -235,9 +235,9 @@ From the Quantum-Classical Dualism perspective, the relationship between **cloth
 
 This relationship can be expressed as:
 
-$`
+$$
 |\psi\rangle_{\text{Identity quantum state}} \leftrightarrow |\phi\rangle_{\text{Clothing classicalization state}}
-`$
+$$
 
 ### Quantum-Classical Dualism Relationship Between Clothing and Social Structure
 

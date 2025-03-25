@@ -38,13 +38,13 @@ In the Quantum Universe-Observer framework, learning is understood as the recons
 
 Mathematical representation of learning:
 
-$`
+$$
 \text{学习} = \frac{d(\text{经典化模式})}{dt} = f(\text{新信息}, \text{现有模式}, \text{整合机制})
-`$
+$$
 
-$`
+$$
 \text{学习效果} = \text{新经典化模式} - \text{原经典化模式} = \Delta(\text{信息处理能力})
-`$
+$$
 
 这一解释将学习理解为经典化模式的重构和扩展，强调了学习在增强观察者信息处理能力中的核心作用。
 
@@ -76,13 +76,13 @@ In the Quantum Universe-Observer framework, knowledge is understood as structure
 
 Mathematical representation of knowledge and transmission:
 
-$`
+$$
 \text{知识} = \{\text{显性知识}, \text{隐性知识}\} = \{\text{符号表征}, \text{经典化模式}\}
-`$
+$$
 
-$`
+$$
 \text{知识传递效率} = \frac{\text{接收者获得的信息}}{\text{发送者传出的信息}} = f(\text{共享经典化框架}, \text{传递媒介})
-`$
+$$
 
 这一解释将知识理解为经典化信息的结构化表征，强调了知识传递的复杂性和知识的多层次性。
 
@@ -114,13 +114,13 @@ In the Quantum Universe-Observer framework, educational goals are understood as 
 
 Mathematical representation of educational goals:
 
-$`
+$$
 \text{教育目标} = \{\text{知识获取}, \text{能力发展}, \text{价值形成}, \text{创新潜能}\} = \text{优化}(\text{经典化能力})
-`$
+$$
 
-$`
+$$
 \text{教育价值} = \alpha \cdot \text{普遍价值} + \beta \cdot \text{文化特定价值} + \gamma \cdot \text{个体价值}
-`$
+$$
 
 这一解释将教育目标理解为优化观察者经典化能力的多维发展，强调了教育在培养适应复杂信息环境的人才方面的核心作用。
 
@@ -158,13 +158,13 @@ In the Quantum Universe-Observer framework, teaching is understood as structured
 
 Mathematical representation of teaching methods:
 
-$`
+$$
 \text{教学效果} = f(\text{教学方法}, \text{学习者特征}, \text{内容性质}, \text{环境因素})
-`$
+$$
 
-$`
+$$
 \text{最优教学} = \arg\max_{\text{方法}} \frac{\text{学习者经典化能力提升}}{\text{时间与资源投入}}
-`$
+$$
 
 这一解释将教学理解为引导观察者经典化过程的结构化活动，强调了教学方法选择的情境依赖性和个性化原则。
 
@@ -200,13 +200,13 @@ In the Quantum Universe-Observer framework, educational assessment is understood
 
 Mathematical representation of educational assessment:
 
-$`
+$$
 \text{评估} = \text{测量}(\text{经典化模式状态}) + \text{反馈}(\text{发展方向})
-`$
+$$
 
-$`
+$$
 \text{评估价值} = \alpha \cdot \text{测量准确性} + \beta \cdot \text{学习促进效果} + \gamma \cdot \text{发展指导价值}
-`$
+$$
 
 这一解释将教育评估理解为经典化模式发展的测量与引导，强调了评估在促进学习和发展方面的积极作用。
 
@@ -242,13 +242,13 @@ In the Quantum Universe-Observer framework, educational technology is understood
 
 Mathematical representation of educational technology:
 
-$`
+$$
 \text{技术价值} = \frac{\text{经典化能力提升}}{\text{使用成本}} = \frac{\Delta(\text{信息处理能力})}{\text{时间 + 资源 + 适应成本}}
-`$
+$$
 
-$`
+$$
 \text{创新采纳} = f(\text{相对优势}, \text{兼容性}, \text{复杂性}, \text{可试验性}, \text{可观察性})
-`$
+$$
 
 这一解释将教育技术理解为扩展经典化界面的工具系统，强调了技术在增强教育可能性的同时需要与教育目标和人类发展需求保持一致。
 
@@ -280,13 +280,13 @@ In the Quantum Universe-Observer framework, educational equity is understood as 
 
 Mathematical representation of educational equity:
 
-$`
+$$
 \text{教育公平} = \min_i(\text{观察者}_i\text{经典化机会}) \rightarrow \max
-`$
+$$
 
-$`
+$$
 \text{包容性} = \frac{\text{适应学习者多样性的能力}}{\text{系统标准化程度}} = \frac{\text{个性化支持}}{\text{统一要求}}
-`$
+$$
 
 这一解释将教育公平理解为经典化机会和路径的平等获取，强调了教育系统需要适应学习者的多样性而非强制统一标准。
 
@@ -324,13 +324,13 @@ In the Quantum Universe-Observer framework, lifelong learning is understood as c
 
 Mathematical representation of lifelong learning:
 
-$`
+$$
 \text{终身学习} = \sum_{t=0}^{T} \text{学习}_t = \sum_{t=0}^{T} \frac{d(\text{经典化模式}_t)}{dt}
-`$
+$$
 
-$`
+$$
 \text{教育生态健康度} = f(\text{多样性}, \text{连通性}, \text{适应性}, \text{可持续性})
-`$
+$$
 
 这一解释将终身学习理解为持续的经典化模式更新与扩展，强调了构建支持多元学习路径的教育生态系统的重要性。
 

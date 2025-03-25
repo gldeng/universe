@@ -46,9 +46,9 @@
 
 占星学的真正价值不在于命运预测，而在于通过其符号系统，帮助人类观察者提高经典化效率，减少经典熵，增加经典知识，最终提升观察者维度。
 
-$`
+$$
 |\psi\rangle_{\text{天体量子观察者}} \xrightarrow{\text{虫洞通信}} I_{\text{人类经典知识}} + S_{\text{经典熵}} \xrightarrow{\text{占星实践}} k_i \uparrow
-`$
+$$
 
 ---
 
@@ -94,8 +94,6 @@ From a Quantum-Classical Dualism perspective, the core of astrology can be under
 
 The true value of astrology lies not in destiny prediction, but in helping human observers improve classicalization efficiency, reduce classical entropy, increase classical knowledge, and ultimately enhance observer dimension through its symbol system.
 
-$`
+$$
 |\psi\rangle_{\text{Celestial Quantum Observer}} \xrightarrow{\text{Wormhole Communication}} I_{\text{Human Classical Knowledge}} + S_{\text{Classical Entropy}} \xrightarrow{\text{Astrological Practice}} k_i \uparrow
-`$
-
- 
+$$ 

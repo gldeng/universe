@@ -40,17 +40,17 @@
 
 系统满足以下条件时，量子效应可在宏观尺度稳定存在：
 
-$`
+$$
 \omega_Q(E) = \omega_C(E) \cdot n, \quad n \in \mathbb{Z}^+
-`$
+$$
 
 其中 $`\omega_Q`$ 是量子振荡频率，$`\omega_C`$ 是经典振荡频率，$`n`$ 是正整数。
 
 更一般地，共鸣条件可表达为：
 
-$`
+$$
 \frac{\omega_Q}{\omega_C} = \frac{p}{q}, \quad p,q \in \mathbb{Z}^+, \text{gcd}(p,q)=1
-`$
+$$
 
 其中 $`p`$ 和 $`q`$ 是互质的正整数。这种有理数比值关系导致了特定的共鸣模式，显著增强了量子-经典耦合强度。
 
@@ -58,9 +58,9 @@ $`
 
 量子-经典共鸣强度可以定量表达为：
 
-$`
+$$
 \mathcal{R}_{Q-C} = A \cdot \frac{\Gamma_{共鸣}}{\Gamma_{共鸣} + \Gamma_{退相干}} \cdot \frac{e^{-|r-n|}}{1 + e^{-\alpha(E-E_t)}}
-`$
+$$
 
 其中：
 - $`A`$ 是系统特定的最大共鸣强度
@@ -76,23 +76,23 @@ $`
 
 考虑量子-经典耦合系统，其哈密顿量可写为：
 
-$`
+$$
 H = H_Q + H_C + H_{int}
-`$
+$$
 
 其中 $`H_Q`$ 是量子子系统哈密顿量，$`H_C`$ 是经典子系统哈密顿量，$`H_{int}`$ 是相互作用项。
 
 在共鸣条件下，相互作用项可表示为：
 
-$`
+$$
 H_{int} = \lambda \sum_j (a_j^{\dagger}b_j + a_j b_j^{\dagger}) \cdot f(r)
-`$
+$$
 
 其中 $`a_j^{\dagger}`$、$`a_j`$ 是量子系统的产生和湮灭算符，$`b_j^{\dagger}`$、$`b_j`$ 是经典系统的对应算符，$`\lambda`$ 是耦合常数，$`f(r)`$ 是频率比的共鸣函数：
 
-$`
+$$
 f(r) = \frac{\sin^2(\pi r)}{(\pi r)^2 - \pi^2 \lfloor r \rfloor^2}
-`$
+$$
 
 共鸣函数在 $`r`$ 为整数时达到最大值，表现出谐振峰。
 
@@ -104,15 +104,15 @@ f(r) = \frac{\sin^2(\pi r)}{(\pi r)^2 - \pi^2 \lfloor r \rfloor^2}
 
 超导体中，电子对的量子相干波动与晶格的经典振动满足共鸣条件：
 
-$`
+$$
 \omega_{Cooper} = n \cdot \omega_{phonon}
-`$
+$$
 
 这解释了为什么不同材料的临界温度与其特征声子频率相关，满足以下关系：
 
-$`
+$$
 T_c \propto \omega_{phonon} \cdot e^{-\frac{1}{\lambda f(r)}}
-`$
+$$
 
 其中 $`\lambda`$ 是电子-声子耦合常数。
 
@@ -120,15 +120,15 @@ T_c \propto \omega_{phonon} \cdot e^{-\frac{1}{\lambda f(r)}}
 
 在某些生物分子中，如光合作用反应中心或者磁感应蛋白中，量子相干波动与蛋白质构象振动满足：
 
-$`
+$$
 \omega_{电子激发} = n \cdot \omega_{蛋白振动}
-`$
+$$
 
 这导致了量子相干在生物温度下的异常稳定性，预测相干时间满足：
 
-$`
+$$
 \tau_{相干} = \tau_0 \cdot e^{\mathcal{R}_{Q-C} \cdot \xi}
-`$
+$$
 
 其中 $`\tau_0`$ 是无共鸣情况下的相干时间，$`\xi`$ 是材料特定的参数。
 
@@ -138,9 +138,9 @@ $`
 
 系统的量子-经典共鸣呈现出特征频谱，满足：
 
-$`
+$$
 S(\omega) = S_0(\omega) \cdot \sum_n A_n \delta(\omega - n\omega_C)
-`$
+$$
 
 其中 $`S_0(\omega)`$ 是背景频谱，$`A_n`$ 是第n阶共鸣的强度，$`\delta`$ 是狄拉克函数。
 
@@ -150,9 +150,9 @@ S(\omega) = S_0(\omega) \cdot \sum_n A_n \delta(\omega - n\omega_C)
 
 量子-经典共鸣允许高效的能量转换，其效率可表示为：
 
-$`
+$$
 \eta_{转换} = \eta_0 \cdot \frac{\mathcal{R}_{Q-C}^2}{1 + \mathcal{R}_{Q-C}^2}
-`$
+$$
 
 其中 $`\eta_0`$ 是理想条件下的最大效率。在共鸣频率处，能量可以在量子和经典子系统间高效传递，突破了传统工作模式的效率限制。
 
@@ -164,9 +164,9 @@ $`
 
 预测不同材料存在多个离散的量子效应增强温度点 $`T_n`$，满足：
 
-$`
+$$
 T_n = \frac{\hbar \omega_Q}{k_B \cdot n}
-`$
+$$
 
 这可以通过精确测量超导临界温度、磁性量子隧穿或量子相干性随温度的变化来验证。
 
@@ -174,15 +174,15 @@ T_n = \frac{\hbar \omega_Q}{k_B \cdot n}
 
 在外加周期驱动下，系统响应将表现出谱图尺度不变性：
 
-$`
+$$
 R(\omega) = R_0 \cdot \sum_{p,q} C_{p,q} \cdot \delta(\omega - \frac{p}{q}\omega_0)
-`$
+$$
 
 其中 $`C_{p,q}`$ 的强度分布遵循以下规律：
 
-$`
+$$
 C_{p,q} \propto \frac{1}{q^{\alpha}} \cdot e^{-\beta|p-nq|}
-`$
+$$
 
 理论预测 $`\alpha \approx 2.3 \pm 0.2`$，$`\beta \approx 1.7 \pm 0.3`$。
 
@@ -190,26 +190,25 @@ C_{p,q} \propto \frac{1}{q^{\alpha}} \cdot e^{-\beta|p-nq|}
 
 量子-经典共鸣系统在温度、磁场等参数变化下会发生相变，相变点附近的量子相干度遵循以下标度律：
 
-$`
+$$
 C_{量子相干} \propto |T-T_c|^{-\gamma} \cdot F\left(\frac{\omega_Q}{\omega_C}\right)
-`$
+$$
 
 其中 $`\gamma`$ 是临界指数，$`F`$ 是频率比的标度函数。理论预测：
 
 $$\gamma = \begin{cases}
 0.42 \pm 0.05, & \text{如果 } \frac{\omega_Q}{\omega_C} \in \mathbb{Z} \\
 0.28 \pm 0.04, & \text{如果 } \frac{\omega_Q}{\omega_C} \in \mathbb{Q} \setminus \mathbb{Z}
-\end{cases}
+\end{cases}$$
 
-$`
 ### 4. 量子相干性保护效应
 
 在共鸣条件下，量子相干性衰减将表现出非指数特性：
-`$
 
+$$
 \rho_{01}(t) = \rho_{01}(0) \cdot e^{-\gamma t} \cdot \left[1 + A \cdot \cos(\Omega t) \cdot e^{-\gamma' t}\right]
+$$
 
-$`
 其中 $`A`$ 是振荡幅度，$`\Omega`$ 是拍频，$`\gamma`$ 是长时间衰减率，$`\gamma'`$ 是振荡衰减率，满足 $`\gamma' > \gamma`$。在共鸣点，预测 $`\gamma`$ 将比非共鸣情况减小5-20倍。
 
 ## 技术应用潜力
@@ -219,46 +218,45 @@ $`
 ### 高温超导设计
 
 利用量子-经典共鸣原理，可以设计特定晶格结构使声子频谱与电子对波动满足最优共鸣条件：
-`$
 
+$$
 \omega_{phonon} = \frac{\omega_{Cooper}}{n_{opt}}
+$$
 
-$`
 其中 $`n_{opt}`$ 是最优共鸣阶数，通常为1-3。材料设计应满足：
-`$
 
+$$
 \frac{d\omega_{phonon}}{dP} \cdot \frac{d\omega_{Cooper}}{dP} < 0
+$$
 
-$`
 其中 $`P`$ 是压力参数，这确保共鸣点在压力变化下保持稳定。
 
 ### 量子增强传感器
 
 基于量子-经典共鸣，可设计新型高灵敏度传感器，其灵敏度可达到：
-`$
 
+$$
 S = S_{SQL} \cdot \sqrt{1 + \mathcal{R}_{Q-C}}
+$$
 
-$`
 其中 $`S_{SQL}`$ 是标准量子极限灵敏度。这为超越量子极限的传感技术提供了新路径。
 
 ### 生物量子技术
 
 利用生物分子中的量子-经典共鸣，可设计生物量子传感和信息处理系统，实现室温量子计算的部分功能：
-`$
 
+$$
 Q_{bio} = Q_0 \cdot \frac{\mathcal{R}_{Q-C}}{1 + \mathcal{R}_{Q-C}} \cdot e^{-T/T_0}
+$$
 
-$`
 其中 $`Q_{bio}`$ 是生物量子系统的量子性能指标，$`Q_0`$ 是理论最大值，$`T_0`$ 是特征温度。
 
 ### 高效能量收集系统
 
 量子-经典共鸣原理可用于设计高效能量收集系统，特别是在光合作用和太阳能转换领域，其效率可提高：
-`$
 
+$$
 \Delta\eta = \eta_0 \cdot \left(\frac{\mathcal{R}_{Q-C}}{1 + \mathcal{R}_{Q-C}}\right)^2
-
 $$
 
 相比传统技术，预期效率提升15-30%。

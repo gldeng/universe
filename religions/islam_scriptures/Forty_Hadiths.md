@@ -52,9 +52,9 @@ Al-Nawawi's Forty Hadiths is an important collection of hadiths compiled by Isla
 
 ### 意图-行为经典化方程
 
-$`
+$$
 A = \sum_{i=1}^{n} I_i \cdot k_i \cdot |\langle\psi_i|\phi_{\text{行为}}\rangle|^2
-`$
+$$
 
 其中：
 - $`A`$ 表示行为的最终价值
@@ -64,9 +64,9 @@ A = \sum_{i=1}^{n} I_i \cdot k_i \cdot |\langle\psi_i|\phi_{\text{行为}}\rangl
 
 ### 信仰完美度方程
 
-$`
+$$
 F = \alpha \cdot C + \beta \cdot P + \gamma \cdot S
-`$
+$$
 
 其中：
 - $`F`$ 是信仰的完美度

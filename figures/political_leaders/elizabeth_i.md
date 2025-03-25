@@ -29,9 +29,9 @@
 
 伊丽莎白一世的统治展现了政治量子复杂性如何通过精心设计的公共形象和政策经典化为稳定统治。她的成功在于创造性地利用量子不确定性和经典确定性之间的张力，在看似矛盾的角色和政策之间保持动态平衡。
 
-$`
+$$
 |\psi\rangle_{\text{伊丽莎白统治}} = \sum_i c_i|\psi_i\rangle_{\text{政治可能性}} \xrightarrow{\text{形象经典化}} I_{\text{稳定王权}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,17 +40,14 @@ $`
    伊丽莎白的政治均衡术展示了如何维持政治系统的量子叠加状态而不坍缩为单一极端：
 
    $$
-
    |\psi\rangle_{\text{政治立场}} = c_1|\psi\rangle_{\text{天主教倾向}} + c_2|\psi\rangle_{\text{新教倾向}} + c_3|\psi\rangle_{\text{保守派}} + c_4|\psi\rangle_{\text{改革派}}
    $$
 
    $$
-
    |\psi\rangle_{\text{政治立场}} \xrightarrow{\text{极端政策}} I_{\text{单一立场}} + S_{\text{政治动荡（高熵）}}
    $$
 
    $$
-
    |\psi\rangle_{\text{政治立场}} \xrightarrow{\text{均衡治理}} I_{\text{多元共存}} + S_{\text{有序张力（低熵）}}
    $$
 
@@ -61,7 +58,6 @@ $`
    伊丽莎白对性别身份的处理展现了量子叠加状态的创造性利用：
 
    $$
-
    |\psi\rangle_{\text{伊丽莎白身份}} = c_1|\psi\rangle_{\text{女性（弱者）}} + c_2|\psi\rangle_{\text{国王（强者）}} \xrightarrow{\text{形象塑造}} I_{\text{处女女王}}
    $$
 
@@ -72,7 +68,6 @@ $`
    宗教中庸政策反映了保持系统量子相干性而非坍缩为单一经典状态的策略：
 
    $$
-
    |\psi\rangle_{\text{英格兰宗教}} = c_1|\psi\rangle_{\text{天主教元素}} + c_2|\psi\rangle_{\text{新教元素}} \xrightarrow{\text{伊丽莎白调和}} I_{\text{英国国教}} + S_{\text{宗教弹性}}
    $$
 
@@ -83,7 +78,6 @@ $`
    伊丽莎白的形象治国策略本质是量子权力向经典符号的投影过程：
 
    $$
-
    |\psi\rangle_{\text{王权实质}} \xrightarrow{\text{符号塑造}} \sum_i I_i^{\text{形象投影}} \xrightarrow{\text{公众感知}} |\psi'\rangle_{\text{强化王权}}
    $$
 
@@ -94,12 +88,10 @@ $`
    国家主权优先反映了量子-经典价值体系的重新排序：
 
    $$
-
    \text{传统序列：} |\psi\rangle_{\text{个人/王室}} > |\psi\rangle_{\text{宗教}} > |\psi\rangle_{\text{国家}}
    $$
 
    $$
-
    \text{伊丽莎白序列：} |\psi\rangle_{\text{国家}} > |\psi\rangle_{\text{宗教}} > |\psi\rangle_{\text{个人/王室}}
    $$
 

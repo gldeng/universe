@@ -14,9 +14,9 @@
 
 数学知识 $`\mathcal{M}`$ 可形式化定义为：
 
-$`
+$$
 \mathcal{M} = (\mathcal{M}_Q, \mathcal{M}_C, \mathcal{T}_{Q \rightarrow C})
-`$
+$$
 
 其中：
 - $`\mathcal{M}_Q`$ 是数学直觉空间（量子域）
@@ -28,36 +28,36 @@ $`
 **公理1: 直觉-形式二元性**
 数学知识存在直觉和形式两个互补维度：
 
-$`
+$$
 \mathcal{M} = \mathcal{M}_Q \oplus \mathcal{M}_C
-`$
+$$
 
 其中 $`\oplus`$ 表示两个子空间的直和。
 
 **公理2: 信息守恒**
 数学发现过程中，直觉和形式之间的总信息量守恒：
 
-$`
+$$
 I(\mathcal{M}_Q) + I(\mathcal{M}_C) = \text{常数}
-`$
+$$
 
 其中 $`I(\mathcal{M}_X)`$ 表示数学知识子空间的信息量。
 
 **公理3: 直觉超定理性**
 数学直觉能够感知超越特定形式系统的真理：
 
-$`
+$$
 \mathcal{M}_Q \supset \mathcal{C}^{-1}(\mathcal{M}_C)
-`$
+$$
 
 其中 $`\mathcal{C}^{-1}`$ 是经典化逆算符。
 
 **公理4: 不完备性原理**
 任何充分强大的形式系统都不能完全捕获全部数学直觉：
 
-$`
+$$
 \forall \mathcal{F} \subset \mathcal{M}_C, \; \exists p \in \mathcal{M}_Q: p \notin \mathcal{T}_{Q \rightarrow C}^{-1}(\mathcal{F})
-`$
+$$
 
 这是对哥德尔不完备定理的量子-经典重述。
 
@@ -67,9 +67,9 @@ $`
 
 数学直觉可表示为量子态：
 
-$`
+$$
 |\psi_M\rangle = \sum_i \alpha_i |m_i\rangle
-`$
+$$
 
 其中 $`|m_i\rangle`$ 是可能数学概念的基矢态，$`\alpha_i`$ 是复振幅。
 
@@ -80,9 +80,9 @@ $`
 
 数学直觉的熵可表示为：
 
-$`
+$$
 S(\rho_M) = -\text{Tr}(\rho_M \ln \rho_M)
-`$
+$$
 
 其中 $`\rho_M = |\psi_M\rangle\langle\psi_M|`$ 是数学直觉的密度矩阵。
 
@@ -90,9 +90,9 @@ S(\rho_M) = -\text{Tr}(\rho_M \ln \rho_M)
 
 形式系统可表示为经典状态集合：
 
-$`
+$$
 \mathcal{F} = (A, R, P, T)
-`$
+$$
 
 其中：
 - $`A`$ 是公理集
@@ -107,9 +107,9 @@ $`
 
 形式系统的熵定义为：
 
-$`
+$$
 S(\mathcal{F}) = -\sum_i p_i \log_2 p_i
-`$
+$$
 
 其中 $`p_i`$ 是系统中第i个状态的概率。
 
@@ -117,9 +117,9 @@ S(\mathcal{F}) = -\sum_i p_i \log_2 p_i
 
 数学发现过程可描述为量子-经典界面的动力学过程：
 
-$`
+$$
 \frac{d|\psi_M(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_M|\psi_M(t)\rangle + \mathcal{D}(\hat{\rho}_M)
-`$
+$$
 
 其中 $`\hat{H}_M`$ 是数学思维哈密顿量，$`\mathcal{D}(\hat{\rho}_M)`$ 是形式化解相干项。
 
@@ -129,9 +129,9 @@ $`
 
 两个阶段之间的转换通过动态算符：
 
-$`
+$$
 \mathcal{T}_{Q \rightarrow C}(t) = \sum_i P_i(t) \cdot \rho_M \cdot P_i^\dagger(t)
-`$
+$$
 
 其中 $`P_i(t)`$ 是时变投影算符。
 
@@ -139,9 +139,9 @@ $`
 
 数学证明中的概念关联可表示为纠缠结构：
 
-$`
+$$
 |\Psi_{proof}\rangle = \sum_{i,j} \beta_{ij} |p_i\rangle \otimes |c_j\rangle
-`$
+$$
 
 其中：
 - $`|p_i\rangle`$ 是证明步骤基矢
@@ -150,9 +150,9 @@ $`
 
 证明的有效性与其纠缠熵相关：
 
-$`
+$$
 E_{proof} = S(\rho_p) = S(\rho_c)
-`$
+$$
 
 其中 $`\rho_p = \text{Tr}_c(|\Psi_{proof}\rangle\langle\Psi_{proof}|)`$，$`\rho_c = \text{Tr}_p(|\Psi_{proof}\rangle\langle\Psi_{proof}|)`$。
 
@@ -160,17 +160,17 @@ E_{proof} = S(\rho_p) = S(\rho_c)
 
 数学真理位于量子直觉和经典形式的界面：
 
-$`
+$$
 \mathcal{T} = \{p | p \in \mathcal{I}_{M}, \mathcal{D}(p) = \mathcal{D}_c\}
-`$
+$$
 
 其中 $`\mathcal{I}_{M}`$ 是数学界面，$`\mathcal{D}(p)`$ 是解相干度量，$`\mathcal{D}_c`$ 是临界阈值。
 
 数学真理的界面动力学方程：
 
-$`
+$$
 \frac{d\mathcal{T}(t)}{dt} = \alpha_M \nabla^2 \mathcal{T} + \beta_M(\mathcal{T}_c - \mathcal{T})(\mathcal{T} - \mathcal{T}_0) + \gamma_M \xi_M(t)
-`$
+$$
 
 其中各参数类似于界面理论中的参数，但特化于数学认知环境。
 
@@ -180,31 +180,31 @@ $`
 
 数学创新可建模为界面波动的峰值事件：
 
-$`
+$$
 \mathcal{I}_{breakthrough} = \{t | \nabla^2 \mathcal{T}(t) > \theta_{innovation}\}
-`$
+$$
 
 其中 $`\theta_{innovation}`$ 是突破阈值。
 
 数学创新的量子概率：
 
-$`
+$$
 P(breakthrough) = |\langle \Psi_{target} | e^{-i\hat{H}_M t/\hbar} | \Psi_{initial} \rangle|^2
-`$
+$$
 
 创新者的数学维度可表示为：
 
-$`
+$$
 D_M = f\left(\frac{\mathcal{Q}_M}{\mathcal{C}_M}\right) \cdot \frac{I_{math.knowledge}}{S_{formalism}+\epsilon}
-`$
+$$
 
 ### 数学认知发展
 
 数学认知发展阶段可描述为量子-经典平衡的演化：
 
-$`
+$$
 \frac{Q_M}{C_M}(t) = \frac{Q_M^0}{C_M^0} \cdot e^{-\lambda_M t} + \frac{Q_M^\infty}{C_M^\infty}(1 - e^{-\lambda_M t})
-`$
+$$
 
 其中：
 - $`\frac{Q_M}{C_M}(t)`$ 是时间t的直觉-形式比率
@@ -214,9 +214,9 @@ $`
 
 认知发展中的关键转变点：
 
-$`
+$$
 t_c = \frac{1}{\lambda_M} \ln\left(\frac{Q_M^0/C_M^0 - Q_M^c/C_M^c}{Q_M^\infty/C_M^\infty - Q_M^c/C_M^c}\right)
-`$
+$$
 
 其中 $`Q_M^c/C_M^c`$ 是临界比率。
 
@@ -224,9 +224,9 @@ t_c = \frac{1}{\lambda_M} \ln\left(\frac{Q_M^0/C_M^0 - Q_M^c/C_M^c}{Q_M^\infty/C
 
 有效数学教育需要在直觉和形式间保持动态平衡：
 
-$`
+$$
 E_{math} = \eta_Q \cdot I_Q(\mathcal{M}) + \eta_C \cdot I_C(\mathcal{M})
-`$
+$$
 
 其中：
 - $`E_{math}`$ 是数学教育有效性
@@ -237,15 +237,15 @@ E_{math} = \eta_Q \cdot I_Q(\mathcal{M}) + \eta_C \cdot I_C(\mathcal{M})
 
 最优教育策略满足：
 
-$`
+$$
 \frac{\partial E_{math}}{\partial \eta_Q} = \frac{\partial E_{math}}{\partial \eta_C} = 0
-`$
+$$
 
 数学教育的前沿位于：
 
-$`
+$$
 \mathcal{F}_{edu} = \{(\mathcal{M}_Q, \mathcal{M}_C) | \mathcal{M}_Q \cap \mathcal{M}_C = \mathcal{Z}_{optimal}\}
-`$
+$$
 
 其中 $`\mathcal{Z}_{optimal}`$ 是最佳学习区域。
 
@@ -255,17 +255,17 @@ $`
 
 数学思维是量子认知的特例：
 
-$`
+$$
 \mathcal{M}_Q \subset \mathcal{C}_Q
-`$
+$$
 
 其中 $`\mathcal{C}_Q`$ 是量子认知空间。
 
 数学思维的量子认知算符：
 
-$`
+$$
 \hat{H}_{M-cog} = \hat{H}_M + \hat{V}_{interaction}
-`$
+$$
 
 其中 $`\hat{V}_{interaction}`$ 是数学与一般认知的相互作用项。
 
@@ -273,17 +273,17 @@ $`
 
 数学语言与自然语言的量子关系：
 
-$`
+$$
 \mathcal{L}_M = \mathcal{T}_{\mathcal{L} \rightarrow \mathcal{M}}(\mathcal{L}_Q)
-`$
+$$
 
 其中 $`\mathcal{L}_Q`$ 是语言的量子表征，$`\mathcal{T}_{\mathcal{L} \rightarrow \mathcal{M}}`$ 是语言到数学的映射。
 
 数学符号系统的语义纠缠：
 
-$`
+$$
 |\Phi_{symbol}\rangle = \sum_{i,j} \gamma_{ij}|s_i\rangle \otimes |m_j\rangle
-`$
+$$
 
 其中 $`|s_i\rangle`$ 是符号基矢，$`|m_j\rangle`$ 是数学意义基矢。
 
@@ -291,21 +291,21 @@ $`
 
 数学家作为特殊观察者：
 
-$`
+$$
 \mathcal{O}_M = \{\mathcal{C}_{\mathcal{O}_M}, \mathcal{Q}_{\mathcal{O}_M}, K_C^{\mathcal{O}_M}\}
-`$
+$$
 
 数学家观察者维度：
 
-$`
+$$
 D_{\mathcal{O}_M} = f\left(\frac{\mathcal{C}_{\mathcal{O}_M}}{\mathcal{Q}_{\mathcal{O}_M}}\right) \cdot \frac{I_{math.knowledge}}{S_{formalism}+\epsilon}
-`$
+$$
 
 数学观察者网络动力学：
 
-$`
+$$
 \frac{dD_{\mathcal{O}_M}}{dt} = \alpha_M\frac{dI_{K_M}}{dt} - \beta_M\frac{dS_F}{dt} + \gamma_M\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}_M})
-`$
+$$
 
 ## 未来研究方向
 

@@ -22,21 +22,21 @@
 
 动态系统二元论的数学框架基于扩展的哈密顿-雅可比方程，结合量子态波函数方程与经典非线性动力学方程。核心数学模型包括：
 
-$`
+$$
 \mathcal{H}(\psi, x, p, t) = \mathcal{H}_Q(\psi, t) + \mathcal{H}_C(x, p, t) + \mathcal{H}_{int}(\psi, x, p, t)
-`$
+$$
 
 其中$`\mathcal{H}_Q`$表示量子域哈密顿量，$`\mathcal{H}_C`$表示经典域哈密顿量，$`\mathcal{H}_{int}`$表示界面相互作用项。
 
 系统动力学由以下扩展方程组描述：
 
-$`
+$$
 \begin{align}
 i\hbar\frac{\partial\psi}{\partial t} &= \hat{H}_Q\psi + \hat{H}_{int}(x,p)\psi \\
 \frac{dx}{dt} &= \frac{\partial H_C}{\partial p} + \frac{\partial H_{int}}{\partial p}(\psi) \\
 \frac{dp}{dt} &= -\frac{\partial H_C}{\partial x} - \frac{\partial H_{int}}{\partial x}(\psi)
 \end{align}
-`$
+$$
 
 这一数学框架允许我们统一分析系统的确定性行为和概率性行为，并精确描述量子-经典转换的临界现象。
 

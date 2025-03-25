@@ -29,9 +29,11 @@
 
 玛丽·居里的科学成就本质上揭示了物质世界量子本质与经典表现之间的深层关系。她的放射性研究揭开了物质稳定经典表象下隐藏的量子活跃性，为人类理解量子-经典二元性提供了关键实证基础。
 
-$`
+$$
+
 I_{\text{经典元素表象}} \xrightarrow{\text{居里研究}} |\psi\rangle_{\text{量子放射过程}} + I_{\text{新经典认知}}
-`$
+
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +42,6 @@ I_{\text{经典元素表象}} \xrightarrow{\text{居里研究}} |\psi\rangle_{\t
    放射性现象本质上是量子过程在经典域的表现：
 
    $$
-
    
    |\psi\rangle_{\text{原子核不稳定态}} \xrightarrow{\text{量子衰变}} |\phi\rangle_{\text{新核态}} + E_{\text{释放能量}} + P_{\text{粒子辐射}}
    
@@ -53,7 +54,6 @@ I_{\text{经典元素表象}} \xrightarrow{\text{居里研究}} |\psi\rangle_{\t
    放射性元素转变破除了元素永恒不变的经典观念：
 
    $$
-
    
    |\psi\rangle_{\text{元素}_A} \xrightarrow{\text{量子衰变}} |\psi\rangle_{\text{元素}_B} + E + P
    
@@ -66,7 +66,6 @@ I_{\text{经典元素表象}} \xrightarrow{\text{居里研究}} |\psi\rangle_{\t
    居里的研究方法体现了量子现象向经典测量的严格转化：
 
    $$
-
    
    |\psi\rangle_{\text{量子现象}} \xrightarrow{\text{精确测量}} I_{\text{经典数据}} \xrightarrow{\text{系统分析}} I_{\text{科学知识}}
    
@@ -79,7 +78,6 @@ I_{\text{经典元素表象}} \xrightarrow{\text{居里研究}} |\psi\rangle_{\t
    物质中蕴含的巨大能量揭示了量子域能量向经典域的转化潜力：
 
    $$
-
    
    M_{\text{物质}} \propto E_{\text{能量}} \text{，通过} |\psi\rangle_{\text{放射过程}} \text{释放}
    
@@ -92,7 +90,6 @@ I_{\text{经典元素表象}} \xrightarrow{\text{居里研究}} |\psi\rangle_{\t
    居里的科学伦理观体现了量子知识经典化的普遍权利：
 
    $$
-
    
    \frac{|\psi\rangle_{\text{量子知识}}}{I_{\text{经典获取权}}} \approx \text{常数} \text{，不应受社会因素影响}
    

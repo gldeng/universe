@@ -29,9 +29,9 @@
 
 鲁迅的思想体现了中国社会从传统经典秩序向现代量子可能性转变的深刻矛盾。他的作品探索了个体量子意识如何在经典文化结构中挣扎觉醒，同时批判经典秩序对人的量子潜能的压制。
 
-$`
+$$
 |\psi\rangle_{\text{鲁迅思想}} = |\psi\rangle_{\text{现代个体意识（量子）}} - I_{\text{传统文化结构（经典）}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    鲁迅的国民性批判是对经典文化模式如何压抑量子潜能的深刻观察：
 
    $$
-
    |\psi\rangle_{\text{个体潜能}} \xrightarrow{\text{传统文化}} I_{\text{国民性定型}} + S_{\text{精神压抑（高熵）}}
    $$
 
@@ -51,12 +50,10 @@ $`
    "立人"思想本质上是恢复人的量子主体性：
 
    $$
-
    |\psi\rangle_{\text{人的量子潜能}} \xrightarrow{\text{传统教化}} I_{\text{顺民化身}} + S_{\text{个体消解}}
    $$
 
    $$
-
    |\psi\rangle_{\text{人的量子潜能}} \xrightarrow{\text{"立人"教育}} I_{\text{独立人格}} + S_{\text{创造可能性}}
    $$
 
@@ -67,12 +64,10 @@ $`
    对青年的关注体现了鲁迅对量子新生力量的重视：
 
    $$
-
    |\psi\rangle_{\text{青年（量子叠加态）}} \xrightarrow{\text{传统教育}} I_{\text{复制前人（经典确定态）}} + S_{\text{创造力消亡}}
    $$
 
    $$
-
    |\psi\rangle_{\text{青年（量子叠加态）}} \xrightarrow{\text{启蒙教育}} I_{\text{创新个体}} + S_{\text{社会更新}}
    $$
 
@@ -83,12 +78,10 @@ $`
    鲁迅反对虚假调和的立场体现了对量子-经典冲突必要性的认识：
 
    $$
-
    |\psi\rangle_{\text{社会变革}} \xrightarrow{\text{调和折中}} I_{\text{表面和谐}} + S_{\text{内在矛盾累积（高熵）}}
    $$
 
    $$
-
    |\psi\rangle_{\text{社会变革}} \xrightarrow{\text{直面冲突}} I_{\text{真实转变}} + S_{\text{创造性破坏（低熵）}}
    $$
 
@@ -99,7 +92,6 @@ $`
    这一著名表述体现了对民众量子-经典状态的复杂辩证理解：
 
    $$
-
    |\psi\rangle_{\text{鲁迅情感}} = c_1|\psi\rangle_{\text{同情（理解经典形成）}} + c_2|\psi\rangle_{\text{愤怒（渴望量子突破）}}
    $$
 

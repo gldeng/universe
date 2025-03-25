@@ -29,25 +29,25 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 
    歌词中的"执着"象征着将量子域中的无限可能性通过坚定意志转化为经典域中的确定路径。这一过程可以表示为：
 
-$`
+$$
 |\psi\rangle_{\text{可能性}} \stackrel{\text{执着}}{\longrightarrow} |\phi\rangle_{\text{确定路径}}
-`$
+$$
 
 2. **熵减与秩序创建**：
 
    "风雨过后是彩虹"体现了从混沌（高熵）到秩序（低熵）的转变，这种转变需要能量投入和观察者的坚持不懈，符合量子经典二元论中熵减创造价值的核心理念：
 
-$`
+$$
 \Delta S_{\text{执着过程}} = -k \cdot \ln\left(\frac{\Omega_{\text{初始混沌}}}{\Omega_{\text{最终秩序}}}\right) < 0
-`$
+$$
 
 3. **观察者维度的提升**：
 
    歌曲中表达的执着精神，从量子经典二元论看，是观察者通过提升自身维度来改变经典现实的过程：
 
-$`
+$$
 D_{\text{观察者}} = \frac{I_{\text{执着投入}}}{S_{\text{环境不确定性}}} + C
-`$
+$$
 
 其中，$`I`$ 代表信息量，$`S`$ 代表熵，$`C`$ 是常数，表示基础维度。
 
@@ -81,25 +81,25 @@ From the perspective of Quantum-Classical Dualism, "Persistence" perfectly inter
 
    The "persistence" in the lyrics symbolizes the transformation of infinite possibilities in the quantum domain into a certain path in the classical domain through firm will. This process can be represented as:
 
-$`
+$$
 |\psi\rangle_{\text{Possibility}} \stackrel{\text{Persistence}}{\longrightarrow} |\phi\rangle_{\text{Certain Path}}
-`$
+$$
 
 2. **Entropy Reduction and Order Creation**:
 
    "After the storm comes the rainbow" reflects the transformation from chaos (high entropy) to order (low entropy), which requires energy input and the observer's perseverance, aligning with the core idea of entropy reduction creating value in Quantum-Classical Dualism:
 
-$`
+$$
 \Delta S_{\text{Persistence Process}} = -k \cdot \ln\left(\frac{\Omega_{\text{Initial Chaos}}}{\Omega_{\text{Final Order}}}\right) < 0
-`$
+$$
 
 3. **Elevation of Observer Dimension**:
 
    The spirit of persistence expressed in the song, from the perspective of Quantum-Classical Dualism, is the process of the observer changing classical reality by elevating his own dimension:
 
-$`
+$$
 D_{\text{Observer}} = \frac{I_{\text{Persistence Input}}}{S_{\text{Environmental Uncertainty}}} + C
-`$
+$$
 
 Where $`I`$ represents the amount of information, $`S`$ represents entropy, and $`C`$ is a constant, representing the basic dimension.
 

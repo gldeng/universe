@@ -25,29 +25,29 @@ From the quantum-classical dualism perspective, the Langlands Program can be und
 
 朗兰兹纲领的核心对应可形式化表述为：
 
-$`
+$$
 \text{Gal}(\overline{F}/F) \text{ 的表示} \leftrightarrow \text{自守形式}
-`$
+$$
 
 其中$`F`$是一个数域（如有理数域$`\mathbb{Q}`$），$`\overline{F}`$是其代数闭包，$`\text{Gal}(\overline{F}/F)`$是伽罗瓦群。这种对应通过L-函数建立：
 
-$`
+$$
 L(s, \pi) = L(s, \rho)
-`$
+$$
 
 其中$`L(s, \pi)`$是自守表示$`\pi`$的L-函数，$`L(s, \rho)`$是伽罗瓦表示$`\rho`$的L-函数。
 
 The core correspondence of the Langlands Program can be formally expressed as:
 
-$`
+$$
 \text{Representations of Gal}(\overline{F}/F) \leftrightarrow \text{Automorphic Forms}
-`$
+$$
 
 where $`F`$ is a number field (such as the rational number field $`\mathbb{Q}`$), $`\overline{F}`$ is its algebraic closure, and $`\text{Gal}(\overline{F}/F)`$ is the Galois group. This correspondence is established through L-functions:
 
-$`
+$$
 L(s, \pi) = L(s, \rho)
-`$
+$$
 
 where $`L(s, \pi)`$ is the L-function of the automorphic representation $`\pi`$, and $`L(s, \rho)`$ is the L-function of the Galois representation $`\rho`$.
 
@@ -69,17 +69,17 @@ Below is a rigorous formal proof framework based on the ZFC axiom system, focusi
 
 **定义3 (L-函数):** 对于伽罗瓦表示$`\rho`$和自守表示$`\pi`$，其对应的L-函数定义为：
 
-$`
+$$
 L(s, \rho) = \prod_v L(s, \rho_v) \quad \text{和} \quad L(s, \pi) = \prod_v L(s, \pi_v)
-`$
+$$
 
 其中$`v`$遍历所有位置，$`\rho_v`$和$`\pi_v`$是局部表示。
 
 **Definition 3 (L-function):** For a Galois representation $`\rho`$ and an automorphic representation $`\pi`$, the corresponding L-functions are defined as:
 
-$`
+$$
 L(s, \rho) = \prod_v L(s, \rho_v) \quad \text{and} \quad L(s, \pi) = \prod_v L(s, \pi_v)
-`$
+$$
 
 where $`v`$ ranges over all places, and $`\rho_v`$ and $`\pi_v`$ are the local representations.
 
@@ -105,9 +105,9 @@ For a local field $`F`$, there exists a natural correspondence between one-dimen
 
 1. 根据局部类域论，存在同构：
 
-$`
+$$
 W_F^{ab} \cong F^{\times}
-`$
+$$
 
    其中$`W_F^{ab}`$是$`W_F`$的交换商，$`F^{\times}`$是$`F`$的乘法群。
 
@@ -115,15 +115,15 @@ W_F^{ab} \cong F^{\times}
 
 3. 根据量子经典公理1，这两种表示可视为同一量子结构$`q_1 \in \mathcal{Q}_1`$的两种经典表达：
 
-$`
+$$
 F_{\text{Gal}}(q_1) = \chi_{\text{Gal}} \quad \text{和} \quad F_{\text{Aut}}(q_1) = \chi_{\text{Aut}}
-`$
+$$
 
 4. 根据量子经典公理2，这两种表达在信息内容上等价，即通过L-函数证明：
 
-$`
+$$
 L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})
-`$
+$$
 
 5. 因此，GL(1)局部Langlands对应是量子-经典转换保持对称性和信息的必然结果。
 
@@ -131,9 +131,9 @@ L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})
 
 1. According to local class field theory, there exists an isomorphism:
 
-$`
+$$
 W_F^{ab} \cong F^{\times}
-`$
+$$
 
    where $`W_F^{ab}`$ is the abelianized Weil group and $`F^{\times}`$ is the multiplicative group of $`F`$.
 
@@ -141,15 +141,15 @@ W_F^{ab} \cong F^{\times}
 
 3. According to Quantum-Classical Axiom 1, these two representations can be viewed as two classical expressions of the same quantum structure $`q_1 \in \mathcal{Q}_1`$:
 
-$`
+$$
 F_{\text{Gal}}(q_1) = \chi_{\text{Gal}} \quad \text{and} \quad F_{\text{Aut}}(q_1) = \chi_{\text{Aut}}
-`$
+$$
 
 4. According to Quantum-Classical Axiom 2, these two expressions are equivalent in information content, as proven by L-functions:
 
-$`
+$$
 L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})
-`$
+$$
 
 5. Therefore, the GL(1) local Langlands correspondence is a necessary result of quantum-classical transformation preserving symmetry and information.
 
@@ -167,9 +167,9 @@ For a local field $`F`$, there exists a natural correspondence between two-dimen
 
 2. 根据量子经典公理1，存在二维量子结构$`q_2 \in \mathcal{Q}_2`$，使得：
 
-$`
+$$
 F_{\text{Gal}}(q_2) = \rho \quad \text{和} \quad F_{\text{Aut}}(q_2) = \pi
-`$
+$$
 
 3. 对于每个二维表示$`\rho`$，可定义局部L-函数$`L(s, \rho)`$和$`\varepsilon`$-因子$`\varepsilon(s, \rho, \psi)`$，其中$`\psi`$是$`F`$的加性特征。
 
@@ -177,9 +177,9 @@ F_{\text{Gal}}(q_2) = \rho \quad \text{和} \quad F_{\text{Aut}}(q_2) = \pi
 
 5. 局部Langlands对应断言存在唯一的对应$`\rho \leftrightarrow \pi`$，使得：
 
-$`
+$$
 L(s, \rho) = L(s, \pi) \quad \text{和} \quad \varepsilon(s, \rho, \psi) = \varepsilon(s, \pi, \psi)
-`$
+$$
 
 6. 根据量子经典公理2，这种对应反映了同一量子结构$`q_2`$的两种等价经典表达，通过L-函数和$`\varepsilon`$-因子的等价性验证。
 
@@ -191,9 +191,9 @@ L(s, \rho) = L(s, \pi) \quad \text{和} \quad \varepsilon(s, \rho, \psi) = \vare
 
 2. According to Quantum-Classical Axiom 1, there exists a two-dimensional quantum structure $`q_2 \in \mathcal{Q}_2`$ such that:
 
-$`
+$$
 F_{\text{Gal}}(q_2) = \rho \quad \text{and} \quad F_{\text{Aut}}(q_2) = \pi
-`$
+$$
 
 3. For each two-dimensional representation $`\rho`$, one can define a local L-function $`L(s, \rho)`$ and an $`\varepsilon`$-factor $`\varepsilon(s, \rho, \psi)`$, where $`\psi`$ is an additive character of $`F`$.
 
@@ -201,9 +201,9 @@ F_{\text{Gal}}(q_2) = \rho \quad \text{and} \quad F_{\text{Aut}}(q_2) = \pi
 
 5. The local Langlands correspondence asserts the existence of a unique correspondence $`\rho \leftrightarrow \pi`$ such that:
 
-$`
+$$
 L(s, \rho) = L(s, \pi) \quad \text{and} \quad \varepsilon(s, \rho, \psi) = \varepsilon(s, \pi, \psi)
-`$
+$$
 
 6. According to Quantum-Classical Axiom 2, this correspondence reflects two equivalent classical expressions of the same quantum structure $`q_2`$, verified by the equivalence of L-functions and $`\varepsilon`$-factors.
 
@@ -221,13 +221,13 @@ The Langlands correspondence preserves the integrity of quantum information duri
 
 1. 对于伽罗瓦表示$`\rho`$和对应的自守表示$`\pi`$，完整的L-函数满足函数等式：
 
-$`
+$$
 \Lambda(s, \rho) = \varepsilon(\rho) \Lambda(1-s, \rho^{\vee})
-`$
+$$
 
-$`
+$$
 \Lambda(s, \pi) = \varepsilon(\pi) \Lambda(1-s, \pi^{\vee})
-`$
+$$
 
    其中$`\Lambda`$包含了Gamma因子，$`\rho^{\vee}`$和$`\pi^{\vee}`$是对偶表示。
 
@@ -243,13 +243,13 @@ $`
 
 1. For a Galois representation $`\rho`$ and the corresponding automorphic representation $`\pi`$, the complete L-functions satisfy functional equations:
 
-$`
+$$
 \Lambda(s, \rho) = \varepsilon(\rho) \Lambda(1-s, \rho^{\vee})
-`$
+$$
 
-$`
+$$
 \Lambda(s, \pi) = \varepsilon(\pi) \Lambda(1-s, \pi^{\vee})
-`$
+$$
 
    where $`\Lambda`$ includes Gamma factors, and $`\rho^{\vee}`$ and $`\pi^{\vee}`$ are the dual representations.
 

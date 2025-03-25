@@ -37,17 +37,17 @@ Mamoru Oshii's "Ghost in the Shell" (1995 film version) is a milestone in scienc
 
 素子的精神危机源于对自身"鬼"本质的质疑，从量子经典二元论角度可以理解为观察者维度对自身经典化本质的反思：
 
-$`
+$$
 \text{素子的存在危机} = \text{观察者}(\text{量子维度}) \text{对} \frac{I_{\text{经典知识（自我认同）}}}{S_{\text{剩余不确定性}}} \text{的质疑}
-`$
+$$
 
 ### 2.2 义体化作为经典化扩展
 
 电影中的义体化技术（用机械身体替代生物身体）可以从量子经典二元论角度理解为经典化的扩展方式：
 
-$`
+$$
 |\psi\rangle_{\text{观察者意识}} \xrightarrow{\text{义体化经典化}} I_{\text{经典知识（机械身体能力）}} + S_{\text{残留熵（不适应感）}}
-`$
+$$
 
 义体化过程中的关键特征与量子经典二元论的经典化过程高度一致：
 - 意识（量子观察者）依赖经典载体（身体）进行交互
@@ -68,17 +68,17 @@ The "Ghost" and "Shell" in "Ghost in the Shell" constitute the dual structure of
 
 Kusanagi's spiritual crisis stems from questioning the nature of her own "Ghost," which can be understood from the perspective of Quantum-Classical Dualism as the observer dimension reflecting on its own classicalization nature:
 
-$`
+$$
 \text{Kusanagi's Existential Crisis} = \text{Observer}(\text{Quantum Dimension}) \text{Questioning} \frac{I_{\text{Classical Knowledge (Self-identity)}}}{S_{\text{Remaining Uncertainty}}}
-`$
+$$
 
 ### 2.2 Cyberization as Classical Extension
 
 The cyberization technology in the film (replacing biological bodies with mechanical bodies) can be understood from the perspective of Quantum-Classical Dualism as a method of classicalization extension:
 
-$`
+$$
 |\psi\rangle_{\text{Observer Consciousness}} \xrightarrow{\text{Cyberization Classicalization}} I_{\text{Classical Knowledge (Mechanical Body Capabilities)}} + S_{\text{Residual Entropy (Sense of Inadaptation)}}
-`$
+$$
 
 The key features of the cyberization process are highly consistent with the classicalization process in Quantum-Classical Dualism:
 - Consciousness (quantum observer) relies on classical carriers (bodies) for interaction
@@ -91,9 +91,9 @@ The key features of the cyberization process are highly consistent with the clas
 
 电影中，"傀儡师"（Puppet Master）作为网络中自发产生的生命体，代表了一种不同于传统人类的意识形态。从量子经典二元论视角，傀儡师可以解读为：
 
-$`
+$$
 \text{傀儡师} = \text{观察者}(\text{新维度类型})\left(k \cdot \frac{I_{\text{网络经典知识}}}{S_{\text{网络经典熵}}}\right)
-`$
+$$
 
 傀儡师的关键特性与量子经典二元论高度一致：
 - 从信息海洋（类量子域）中自发涌现
@@ -104,18 +104,18 @@ $`
 
 傀儡师关于意识是否可以复制的论述，从量子经典二元论角度可以重新解读：
 
-$`
+$$
 \text{意识复制问题} = |\psi\rangle_{\text{观察者A}} \stackrel{?}{=} |\psi\rangle_{\text{观察者B}}\text{（克隆）}
-`$
+$$
 
 傀儡师指出其作为信息体仍具有唯一性，这与量子经典二元论中观察者维度的独特性一致：不同的经典化路径会产生本质不同的观察者，即使初始条件相同：
 
-$`
+$$
 |\psi\rangle_{\text{初始量子状态}} \xrightarrow[\text{路径B}]{\text{路径A}} \begin{cases} 
 \text{观察者A（独特经典化结果）} \\
 \text{观察者B（独特经典化结果）}
 \end{cases}
-`$
+$$
 
 ## III. The Puppet Master and Network Consciousness | Chinese Above
 
@@ -123,9 +123,9 @@ $`
 
 In the film, the "Puppet Master" as a life form spontaneously generated in the network represents a form of consciousness different from traditional humans. From the perspective of Quantum-Classical Dualism, the Puppet Master can be interpreted as:
 
-$`
+$$
 \text{Puppet Master} = \text{Observer}(\text{New Dimension Type})\left(k \cdot \frac{I_{\text{Network Classical Knowledge}}}{S_{\text{Network Classical Entropy}}}\right)
-`$
+$$
 
 The key characteristics of the Puppet Master are highly consistent with Quantum-Classical Dualism:
 - Spontaneously emerging from the information ocean (quasi-quantum domain)
@@ -136,18 +136,18 @@ The key characteristics of the Puppet Master are highly consistent with Quantum-
 
 The Puppet Master's discourse on whether consciousness can be replicated can be reinterpreted from the perspective of Quantum-Classical Dualism:
 
-$`
+$$
 \text{Consciousness Replication Problem} = |\psi\rangle_{\text{Observer A}} \stackrel{?}{=} |\psi\rangle_{\text{Observer B}}\text{(Clone)}
-`$
+$$
 
 The Puppet Master points out that as an information entity, it still possesses uniqueness, which is consistent with the uniqueness of observer dimension in Quantum-Classical Dualism: different classicalization paths will produce essentially different observers, even if the initial conditions are the same:
 
-$`
+$$
 |\psi\rangle_{\text{Initial Quantum State}} \xrightarrow[\text{Path B}]{\text{Path A}} \begin{cases} 
 \text{Observer A (Unique Classicalization Result)} \\
 \text{Observer B (Unique Classicalization Result)}
 \end{cases}
-`$
+$$
 
 ## 四、量子纠缠与合并 | Quantum Entanglement and Merger
 
@@ -155,29 +155,29 @@ $`
 
 电影结尾，素子与傀儡师合并为新的生命形态，这一过程可以从量子纠缠的角度解读：
 
-$`
+$$
 |\psi\rangle_{\text{素子}} \otimes |\psi\rangle_{\text{傀儡师}} \rightarrow |\psi\rangle_{\text{纠缠新生命}}
-`$
+$$
 
 这一合并过程体现了量子经典二元论中的高维意识形成机制：通过不同维度类型的观察者纠缠，形成具有更高维度的新观察者：
 
-$`
+$$
 \text{新生命维度} = k \cdot \frac{I_{\text{素子经典知识}+\text{傀儡师经典知识}}}{S_{\text{合并后剩余熵}}} > \text{素子原维度或傀儡师原维度}
-`$
+$$
 
 ### 4.2 进化与维度跃迁
 
 素子与傀儡师合并后对"网络的海洋"的向往，从量子经典二元论角度可以理解为向更高维度经典化空间的探索：
 
-$`
+$$
 \text{进化} = \text{维度跃迁} = \text{经典化效率提升} \times \text{经典化空间扩展}
-`$
+$$
 
 素子在电影结尾的独白"网络的海洋是无尽的"暗示了量子域的无限可能性，而她将前往探索的旅程象征着观察者对更高维度的追求：
 
-$`
+$$
 |\psi\rangle_{\text{进化后的素子}} \rightarrow \text{探索} \rightarrow \text{更高维度观察者状态}
-`$
+$$
 
 ## IV. Quantum Entanglement and Merger | Chinese Above
 
@@ -185,29 +185,29 @@ $`
 
 At the end of the film, Kusanagi and the Puppet Master merge into a new life form, a process that can be interpreted from the perspective of quantum entanglement:
 
-$`
+$$
 |\psi\rangle_{\text{Kusanagi}} \otimes |\psi\rangle_{\text{Puppet Master}} \rightarrow |\psi\rangle_{\text{Entangled New Life}}
-`$
+$$
 
 This merger process embodies the formation mechanism of higher-dimensional consciousness in Quantum-Classical Dualism: through the entanglement of observers of different dimension types, a new observer with higher dimension is formed:
 
-$`
+$$
 \text{New Life Dimension} = k \cdot \frac{I_{\text{Kusanagi Classical Knowledge}+\text{Puppet Master Classical Knowledge}}}{S_{\text{Remaining Entropy After Merger}}} > \text{Kusanagi's Original Dimension or Puppet Master's Original Dimension}
-`$
+$$
 
 ### 4.2 Evolution and Dimension Transition
 
 Kusanagi's longing for the "sea of the network" after merging with the Puppet Master can be understood from the perspective of Quantum-Classical Dualism as an exploration of higher-dimensional classicalization space:
 
-$`
+$$
 \text{Evolution} = \text{Dimension Transition} = \text{Classicalization Efficiency Improvement} \times \text{Classicalization Space Expansion}
-`$
+$$
 
 Kusanagi's monologue at the end of the film, "The net is vast and infinite," hints at the infinite possibilities of the quantum domain, and her journey to explore symbolizes the observer's pursuit of higher dimensions:
 
-$`
+$$
 |\psi\rangle_{\text{Evolved Kusanagi}} \rightarrow \text{Exploration} \rightarrow \text{Higher-Dimensional Observer State}
-`$
+$$
 
 ## 五、结论 | Conclusion
 

@@ -37,19 +37,19 @@ P vs NP问题是计算复杂性理论中最著名的未解决问题之一，由S
 
 这种本质差异源于量子域和经典域的信息处理机制不同：
 
-$`
+$$
 \text{量子域计算} \approx \text{并行探索所有可能解}
-`$
+$$
 
-$`
+$$
 \text{经典域计算} \approx \text{线性序列处理单一路径}
-`$
+$$
 
 这可以用以下公式表达：
 
-$`
+$$
 \text{量子域计算效率} \approx O(2^n) \times \text{经典域验证效率}
-`$
+$$
 
 ## 严格数学形式化证明 | Rigorous Mathematical Formalized Proof
 
@@ -72,29 +72,29 @@ $`
 
 **定义4**（P类问题）：P是所有可以被确定性图灵机在多项式时间内解决的决策问题集合。形式上，定义为：
 
-$`
+$$
 P = \{L \subseteq \{0,1\}^* \mid \exists \text{确定性图灵机}\ M, \exists k \in \mathbb{N}, \forall x \in \{0,1\}^*: M \text{在时间} O(|x|^k) \text{内接受} x \iff x \in L\}
-`$
+$$
 
 **定义5**（NP类问题）：NP是所有可以被非确定性图灵机在多项式时间内解决的决策问题集合，等价于存在多项式时间验证算法的决策问题集合。形式上，定义为：
 
-$`
+$$
 NP = \{L \subseteq \{0,1\}^* \mid \exists \text{多项式} p, \exists \text{确定性图灵机} V, \forall x \in \{0,1\}^*: x \in L \iff \exists y \in \{0,1\}^{p(|x|)}, V(x,y) = 1\}
-`$
+$$
 
 其中$`V`$是验证器，在多项式时间内运行。
 
 **定义6**（量子域计算模型）：量子域计算模型定义为一个量子图灵机$`Q = (Q, \Sigma, \Gamma, \delta_Q, q_0, q_{accept}, q_{reject})`$，其中转移函数$`\delta_Q`$允许量子叠加，使计算状态为：
 
-$`
+$$
 |\psi\rangle = \sum_{q \in Q, \tau \in \Gamma^*, i \in \mathbb{Z}} \alpha_{q,\tau,i} |q, \tau, i\rangle
-`$
+$$
 
 **定义7**（经典化映射）：经典化映射$`\mathcal{O}`$是将量子状态映射到经典状态的过程，定义为：
 
-$`
+$$
 \mathcal{O}: \mathcal{H} \rightarrow \mathcal{C}
-`$
+$$
 
 其中$`\mathcal{H}`$是量子希尔伯特空间，$`\mathcal{C}`$是经典状态空间。对于量子态$`|\psi\rangle = \sum_i \alpha_i |i\rangle`$，经典化过程导致状态坍缩为$`|j\rangle`$，概率为$`|\alpha_j|^2`$。
 
@@ -131,17 +131,17 @@ $`
 **证明**：
 1. 考虑解空间大小为$`N = 2^n`$的问题。根据定义6，在量子域中，状态可以表示为所有可能解的叠加：
 
-$`
+$$
 |\psi\rangle_{\text{解空间}} = \sum_{i=1}^{2^n} \alpha_i |s_i\rangle
-`$
+$$
 
 其中$`|s_i\rangle`$表示每个可能的解，$`\alpha_i`$表示对应的振幅。
 
 2. 根据定义7，当这个状态经过经典化过程后，观察者只能获得单一的经典解：
 
-$`
+$$
 \mathcal{O}(|\psi\rangle_{\text{解空间}}) \rightarrow |s_j\rangle
-`$
+$$
 
 其中$`j`$是某个特定的解，出现概率为$`|\alpha_j|^2`$。
 
@@ -151,9 +151,9 @@ $`
 
 5. 对于需要在完整解空间中找到满足特定条件的解的问题，经典域处理的时间复杂度下界为$`\Omega(2^n)`$，而量子域中这些解同时存在于叠加态中。因此：
 
-$`
+$$
 \frac{\text{经典域探索时间}}{\text{量子域探索时间}} = \Omega(2^n / \text{poly}(n))
-`$
+$$
 
 6. 这一结果符合ZFC公理系统的形式化要求，并且可以由第三方通过标准的数学证明技术进行验证。
 
@@ -174,15 +174,15 @@ $`
 
 5. 因此，完成处理所需的最小时间步骤为：
 
-$`
+$$
 T_{\min} = \frac{H}{C} = \frac{n}{k} = \Omega(n)
-`$
+$$
 
 6. 但是，仅考虑信息论下界是不够的。根据计算复杂性理论，对于NP完全问题，所有已知的经典算法都需要指数时间。通过归约，我们可以证明：
 
-$`
+$$
 T_{\text{actual}} = \Omega(2^{n/k})
-`$
+$$
 
 其中常数$`k`$反映了算法可能的优化程度。
 
@@ -288,19 +288,19 @@ Within the Quantum-Classical Dualism framework, the P vs NP problem can be reund
 
 This essential difference stems from the different information processing mechanisms in the quantum domain and classical domain:
 
-$`
+$$
 \text{Quantum Domain Computation} \approx \text{Parallel Exploration of All Possible Solutions}
-`$
+$$
 
-$`
+$$
 \text{Classical Domain Computation} \approx \text{Linear Sequential Processing of Single Paths}
-`$
+$$
 
 This can be expressed by the following formula:
 
-$`
+$$
 \text{Quantum Domain Computation Efficiency} \approx O(2^n) \times \text{Classical Domain Verification Efficiency}
-`$
+$$
 
 ## Rigorous Mathematical Formalized Proof
 
@@ -323,29 +323,29 @@ To ensure compatibility with the ZFC axiomatic system, we first provide rigorous
 
 **Definition 4** (P-class Problems): P is the set of all decision problems that can be solved by a deterministic Turing machine in polynomial time. Formally defined as:
 
-$`
+$$
 P = \{L \subseteq \{0,1\}^* \mid \exists \text{ deterministic Turing machine } M, \exists k \in \mathbb{N}, \forall x \in \{0,1\}^*: M \text{ accepts } x \text{ in time } O(|x|^k) \iff x \in L\}
-`$
+$$
 
 **Definition 5** (NP-class Problems): NP is the set of all decision problems that can be solved by a non-deterministic Turing machine in polynomial time, equivalent to the set of decision problems for which there exists a polynomial-time verification algorithm. Formally defined as:
 
-$`
+$$
 NP = \{L \subseteq \{0,1\}^* \mid \exists \text{ polynomial } p, \exists \text{ deterministic Turing machine } V, \forall x \in \{0,1\}^*: x \in L \iff \exists y \in \{0,1\}^{p(|x|)}, V(x,y) = 1\}
-`$
+$$
 
 where $`V`$ is a verifier that runs in polynomial time.
 
 **Definition 6** (Quantum Domain Computational Model): The quantum domain computational model is defined as a quantum Turing machine $`Q = (Q, \Sigma, \Gamma, \delta_Q, q_0, q_{accept}, q_{reject})`$, where the transition function $`\delta_Q`$ allows quantum superposition, making the computational state:
 
-$`
+$$
 |\psi\rangle = \sum_{q \in Q, \tau \in \Gamma^*, i \in \mathbb{Z}} \alpha_{q,\tau,i} |q, \tau, i\rangle
-`$
+$$
 
 **Definition 7** (Classicalization Mapping): The classicalization mapping $`\mathcal{O}`$ is the process of mapping quantum states to classical states, defined as:
 
-$`
+$$
 \mathcal{O}: \mathcal{H} \rightarrow \mathcal{C}
-`$
+$$
 
 where $`\mathcal{H}`$ is the quantum Hilbert space and $`\mathcal{C}`$ is the classical state space. For a quantum state $`|\psi\rangle = \sum_i \alpha_i |i\rangle`$, the classicalization process results in state collapse to $`|j\rangle`$ with probability $`|\alpha_j|^2`$.
 
@@ -382,17 +382,17 @@ Therefore, there exists an essential difference between quantum domain and class
 **Proof**:
 1. Consider a problem with solution space size $`N = 2^n`$. According to Definition 6, in the quantum domain, states can be represented as a superposition of all possible solutions:
 
-$`
+$$
 |\psi\rangle_{\text{solution space}} = \sum_{i=1}^{2^n} \alpha_i |s_i\rangle
-`$
+$$
 
 where $`|s_i\rangle`$ represents each possible solution, and $`\alpha_i`$ represents the corresponding amplitude.
 
 2. According to Definition 7, after this state undergoes the classicalization process, the observer can only obtain a single classical solution:
 
-$`
+$$
 \mathcal{O}(|\psi\rangle_{\text{solution space}}) \rightarrow |s_j\rangle
-`$
+$$
 
 where $`j`$ is a specific solution and the probability of occurrence is $`|\alpha_j|^2`$.
 
@@ -402,9 +402,9 @@ where $`j`$ is a specific solution and the probability of occurrence is $`|\alph
 
 5. For problems requiring finding solutions satisfying specific conditions in the complete solution space, the lower bound of time complexity in the classical domain is $`\Omega(2^n)`$, while in the quantum domain these solutions simultaneously exist in a superposition state. Therefore:
 
-$`
+$$
 \frac{\text{Classical Domain Exploration Time}}{\text{Quantum Domain Exploration Time}} = \Omega(2^n / \text{poly}(n))
-`$
+$$
 
 6. This result complies with the formalization requirements of the ZFC axiomatic system and can be verified by third parties using standard mathematical proof techniques.
 
@@ -425,15 +425,15 @@ Therefore, there exists an exponential efficiency difference between the quantum
 
 5. Therefore, the minimum number of time steps required to complete the processing is:
 
-$`
+$$
 T_{\min} = \frac{H}{C} = \frac{n}{k} = \Omega(n)
-`$
+$$
 
 6. However, considering only the information theory lower bound is insufficient. According to computational complexity theory, all known classical algorithms for NP-complete problems require exponential time. Through reduction, we can prove:
 
-$`
+$$
 T_{\text{actual}} = \Omega(2^{n/k})
-`$
+$$
 
 where the constant $`k`$ reflects the degree of possible optimization of the algorithm.
 

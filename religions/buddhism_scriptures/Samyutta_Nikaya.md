@@ -52,9 +52,9 @@ The Samyutta Nikaya is one of the most important texts in the Pali Canon, contai
 
 ### 量子态演化方程
 
-$`
+$$
 |\psi(t)\rangle = \sum_{i,j} c_{ij}(t)|i\rangle|j\rangle
-`$
+$$
 
 其中：
 - $`|\psi(t)\rangle`$ 表示t时刻的量子态
@@ -63,9 +63,9 @@ $`
 
 ### 经典化路径方程
 
-$`
+$$
 P_{classical} = \sum_{i,j} |c_{ij}(t)|^2
-`$
+$$
 
 其中：
 - $`P_{classical}`$ 是经典化概率

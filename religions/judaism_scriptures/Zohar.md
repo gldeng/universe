@@ -52,9 +52,9 @@ The Zohar (Book of Splendor) is the core text of the Jewish mystical Kabbalah tr
 
 ### 神圣收缩与创造方程
 
-$`
+$$
 |\psi_{\text{Creation}}\rangle = \hat{T}(1-\gamma)|\psi_{\text{Ein Sof}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{Creation}}\rangle`$ 表示创造后的宇宙量子态
@@ -64,9 +64,9 @@ $`
 
 ### 十个神圣光辉的量子纠缠方程
 
-$`
+$$
 |\psi_{\text{Sefirot}}\rangle = \frac{1}{\sqrt{10}}\sum_{i=1}^{10}|S_i\rangle \otimes |\psi_{\text{Divine}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{Sefirot}}\rangle`$ 代表十个神圣光辉的纠缠态

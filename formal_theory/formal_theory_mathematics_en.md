@@ -14,9 +14,9 @@ The Quantum-Classical Mathematical Foundations theory explores the nature of mat
 
 Mathematical knowledge $`\mathcal{M}`$ can be formally defined as:
 
-$`
+$$
 \mathcal{M} = (\mathcal{M}_Q, \mathcal{M}_C, \mathcal{T}_{Q \rightarrow C})
-`$
+$$
 
 Where:
 - $`\mathcal{M}_Q`$ is the mathematical intuition space (quantum domain)
@@ -28,36 +28,36 @@ Where:
 **Axiom 1: Intuition-Formalism Duality**
 Mathematical knowledge exists in two complementary dimensions of intuition and formalism:
 
-$`
+$$
 \mathcal{M} = \mathcal{M}_Q \oplus \mathcal{M}_C
-`$
+$$
 
 Where $`\oplus`$ represents the direct sum of the two subspaces.
 
 **Axiom 2: Information Conservation**
 In the mathematical discovery process, the total information between intuition and formalism is conserved:
 
-$`
+$$
 I(\mathcal{M}_Q) + I(\mathcal{M}_C) = \text{constant}
-`$
+$$
 
 Where $`I(\mathcal{M}_X)`$ represents the information content of the mathematical knowledge subspace.
 
 **Axiom 3: Intuitive Super-Theorem Property**
 Mathematical intuition can perceive truths beyond specific formal systems:
 
-$`
+$$
 \mathcal{M}_Q \supset \mathcal{C}^{-1}(\mathcal{M}_C)
-`$
+$$
 
 Where $`\mathcal{C}^{-1}`$ is the inverse classicalization operator.
 
 **Axiom 4: Incompleteness Principle**
 Any sufficiently powerful formal system cannot completely capture all mathematical intuition:
 
-$`
+$$
 \forall \mathcal{F} \subset \mathcal{M}_C, \; \exists p \in \mathcal{M}_Q: p \notin \mathcal{T}_{Q \rightarrow C}^{-1}(\mathcal{F})
-`$
+$$
 
 This is a quantum-classical restatement of Gödel's incompleteness theorem.
 
@@ -67,9 +67,9 @@ This is a quantum-classical restatement of Gödel's incompleteness theorem.
 
 Mathematical intuition can be represented as a quantum state:
 
-$`
+$$
 |\psi_M\rangle = \sum_i \alpha_i |m_i\rangle
-`$
+$$
 
 Where $`|m_i\rangle`$ are the basis states of possible mathematical concepts, and $`\alpha_i`$ are complex amplitudes.
 
@@ -80,9 +80,9 @@ Mathematical intuition has quantum properties:
 
 The entropy of mathematical intuition can be represented as:
 
-$`
+$$
 S(\rho_M) = -\text{Tr}(\rho_M \ln \rho_M)
-`$
+$$
 
 Where $`\rho_M = |\psi_M\rangle\langle\psi_M|`$ is the density matrix of mathematical intuition.
 
@@ -90,9 +90,9 @@ Where $`\rho_M = |\psi_M\rangle\langle\psi_M|`$ is the density matrix of mathema
 
 Formal systems can be represented as a set of classical states:
 
-$`
+$$
 \mathcal{F} = (A, R, P, T)
-`$
+$$
 
 Where:
 - $`A`$ is the set of axioms
@@ -107,9 +107,9 @@ Formal systems have classical properties:
 
 The entropy of a formal system is defined as:
 
-$`
+$$
 S(\mathcal{F}) = -\sum_i p_i \log_2 p_i
-`$
+$$
 
 Where $`p_i`$ is the probability of the i-th state in the system.
 
@@ -117,9 +117,9 @@ Where $`p_i`$ is the probability of the i-th state in the system.
 
 The mathematical discovery process can be described as a quantum-classical interface dynamics:
 
-$`
+$$
 \frac{d|\psi_M(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_M|\psi_M(t)\rangle + \mathcal{D}(\hat{\rho}_M)
-`$
+$$
 
 Where $`\hat{H}_M`$ is the Hamiltonian of mathematical thinking, and $`\mathcal{D}(\hat{\rho}_M)`$ is the formalization decoherence term.
 
@@ -129,9 +129,9 @@ Mathematical discovery has two phases:
 
 The transition between the two phases occurs through a dynamic operator:
 
-$`
+$$
 \mathcal{T}_{Q \rightarrow C}(t) = \sum_i P_i(t) \cdot \rho_M \cdot P_i^\dagger(t)
-`$
+$$
 
 Where $`P_i(t)`$ are time-varying projection operators.
 
@@ -139,9 +139,9 @@ Where $`P_i(t)`$ are time-varying projection operators.
 
 Conceptual associations in mathematical proofs can be represented as entanglement structures:
 
-$`
+$$
 |\Psi_{proof}\rangle = \sum_{i,j} \beta_{ij} |p_i\rangle \otimes |c_j\rangle
-`$
+$$
 
 Where:
 - $`|p_i\rangle`$ are proof step basis states
@@ -150,9 +150,9 @@ Where:
 
 The validity of a proof is related to its entanglement entropy:
 
-$`
+$$
 E_{proof} = S(\rho_p) = S(\rho_c)
-`$
+$$
 
 Where $`\rho_p = \text{Tr}_c(|\Psi_{proof}\rangle\langle\Psi_{proof}|)`$, $`\rho_c = \text{Tr}_p(|\Psi_{proof}\rangle\langle\Psi_{proof}|)`$.
 
@@ -160,17 +160,17 @@ Where $`\rho_p = \text{Tr}_c(|\Psi_{proof}\rangle\langle\Psi_{proof}|)`$, $`\rho
 
 Mathematical truth exists at the interface between quantum intuition and classical formalism:
 
-$`
+$$
 \mathcal{T} = \{p | p \in \mathcal{I}_{M}, \mathcal{D}(p) = \mathcal{D}_c\}
-`$
+$$
 
 Where $`\mathcal{I}_{M}`$ is the mathematical interface, $`\mathcal{D}(p)`$ is a decoherence measure, and $`\mathcal{D}_c`$ is a critical threshold.
 
 The interface dynamics equation for mathematical truth:
 
-$`
+$$
 \frac{d\mathcal{T}(t)}{dt} = \alpha_M \nabla^2 \mathcal{T} + \beta_M(\mathcal{T}_c - \mathcal{T})(\mathcal{T} - \mathcal{T}_0) + \gamma_M \xi_M(t)
-`$
+$$
 
 Where the parameters are similar to those in interface theory but specialized to the mathematical cognitive environment.
 
@@ -180,31 +180,31 @@ Where the parameters are similar to those in interface theory but specialized to
 
 Mathematical innovation can be modeled as peak events in interface fluctuations:
 
-$`
+$$
 \mathcal{I}_{breakthrough} = \{t | \nabla^2 \mathcal{T}(t) > \theta_{innovation}\}
-`$
+$$
 
 Where $`\theta_{innovation}`$ is the breakthrough threshold.
 
 The quantum probability of mathematical innovation:
 
-$`
+$$
 P(breakthrough) = |\langle \Psi_{target} | e^{-i\hat{H}_M t/\hbar} | \Psi_{initial} \rangle|^2
-`$
+$$
 
 The mathematical dimension of innovators can be represented as:
 
-$`
+$$
 D_M = f\left(\frac{\mathcal{Q}_M}{\mathcal{C}_M}\right) \cdot \frac{I_{math.knowledge}}{S_{formalism}+\epsilon}
-`$
+$$
 
 ### Mathematical Cognitive Development
 
 Stages of mathematical cognitive development can be described as the evolution of quantum-classical balance:
 
-$`
+$$
 \frac{Q_M}{C_M}(t) = \frac{Q_M^0}{C_M^0} \cdot e^{-\lambda_M t} + \frac{Q_M^\infty}{C_M^\infty}(1 - e^{-\lambda_M t})
-`$
+$$
 
 Where:
 - $`\frac{Q_M}{C_M}(t)`$ is the intuition-formalism ratio at time t
@@ -214,9 +214,9 @@ Where:
 
 Critical transition points in cognitive development:
 
-$`
+$$
 t_c = \frac{1}{\lambda_M} \ln\left(\frac{Q_M^0/C_M^0 - Q_M^c/C_M^c}{Q_M^\infty/C_M^\infty - Q_M^c/C_M^c}\right)
-`$
+$$
 
 Where $`Q_M^c/C_M^c`$ is the critical ratio.
 
@@ -224,9 +224,9 @@ Where $`Q_M^c/C_M^c`$ is the critical ratio.
 
 Effective mathematics education requires maintaining a dynamic balance between intuition and formalism:
 
-$`
+$$
 E_{math} = \eta_Q \cdot I_Q(\mathcal{M}) + \eta_C \cdot I_C(\mathcal{M})
-`$
+$$
 
 Where:
 - $`E_{math}`$ is the effectiveness of mathematics education
@@ -237,15 +237,15 @@ Where:
 
 The optimal education strategy satisfies:
 
-$`
+$$
 \frac{\partial E_{math}}{\partial \eta_Q} = \frac{\partial E_{math}}{\partial \eta_C} = 0
-`$
+$$
 
 The frontier of mathematics education is located at:
 
-$`
+$$
 \mathcal{F}_{edu} = \{(\mathcal{M}_Q, \mathcal{M}_C) | \mathcal{M}_Q \cap \mathcal{M}_C = \mathcal{Z}_{optimal}\}
-`$
+$$
 
 Where $`\mathcal{Z}_{optimal}`$ is the optimal learning zone.
 
@@ -255,17 +255,17 @@ Where $`\mathcal{Z}_{optimal}`$ is the optimal learning zone.
 
 Mathematical thinking is a special case of quantum cognition:
 
-$`
+$$
 \mathcal{M}_Q \subset \mathcal{C}_Q
-`$
+$$
 
 Where $`\mathcal{C}_Q`$ is the quantum cognitive space.
 
 The quantum cognitive operator for mathematical thinking:
 
-$`
+$$
 \hat{H}_{M-cog} = \hat{H}_M + \hat{V}_{interaction}
-`$
+$$
 
 Where $`\hat{V}_{interaction}`$ is the interaction term between mathematics and general cognition.
 
@@ -273,17 +273,17 @@ Where $`\hat{V}_{interaction}`$ is the interaction term between mathematics and 
 
 The quantum relationship between mathematical language and natural language:
 
-$`
+$$
 \mathcal{L}_M = \mathcal{T}_{\mathcal{L} \rightarrow \mathcal{M}}(\mathcal{L}_Q)
-`$
+$$
 
 Where $`\mathcal{L}_Q`$ is the quantum representation of language, and $`\mathcal{T}_{\mathcal{L} \rightarrow \mathcal{M}}`$ is the mapping from language to mathematics.
 
 Semantic entanglement of mathematical symbol systems:
 
-$`
+$$
 |\Phi_{symbol}\rangle = \sum_{i,j} \gamma_{ij}|s_i\rangle \otimes |m_j\rangle
-`$
+$$
 
 Where $`|s_i\rangle`$ are symbol basis vectors, and $`|m_j\rangle`$ are mathematical meaning basis vectors.
 
@@ -291,21 +291,21 @@ Where $`|s_i\rangle`$ are symbol basis vectors, and $`|m_j\rangle`$ are mathemat
 
 The mathematician as a special observer:
 
-$`
+$$
 \mathcal{O}_M = \{\mathcal{C}_{\mathcal{O}_M}, \mathcal{Q}_{\mathcal{O}_M}, K_C^{\mathcal{O}_M}\}
-`$
+$$
 
 The observer dimension of mathematicians:
 
-$`
+$$
 D_{\mathcal{O}_M} = f\left(\frac{\mathcal{C}_{\mathcal{O}_M}}{\mathcal{Q}_{\mathcal{O}_M}}\right) \cdot \frac{I_{math.knowledge}}{S_{formalism}+\epsilon}
-`$
+$$
 
 The dynamics of the mathematical observer network:
 
-$`
+$$
 \frac{dD_{\mathcal{O}_M}}{dt} = \alpha_M\frac{dI_{K_M}}{dt} - \beta_M\frac{dS_F}{dt} + \gamma_M\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}_M})
-`$
+$$
 
 ## Future Research Directions
 

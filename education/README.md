@@ -20,9 +20,9 @@
 
 量子经典二元论教学与普及资源目录包含了各级别的学习材料、教学指南和多媒体资源，旨在帮助不同背景的学习者理解和应用量子经典二元论理论。基于二元论的视角，学习过程本身即是学习者作为黑洞观察者(信息经典化节点)对知识进行经典化的过程。
 
-$`
+$$
 \text{学习效果} = \frac{\text{内容深度} \times \text{表达清晰度} \times \text{学习兴趣}}{\text{认知负荷}}
-`$
+$$
 
 <a name="核心理论版本"></a>
 ## 核心理论版本
@@ -115,9 +115,9 @@ $`
 
 The Quantum-Classical Dualism Educational Resources directory contains learning materials, teaching guides, and multimedia resources at various levels, designed to help learners with different backgrounds understand and apply quantum-classical dualism theory. From a dualistic perspective, the learning process itself is the process of learners as black hole observers (information classicalization nodes) classicalizing knowledge.
 
-$`
+$$
 \text{Learning Effectiveness} = \frac{\text{Content Depth} \times \text{Expression Clarity} \times \text{Learning Interest}}{\text{Cognitive Load}}
-`$
+$$
 
 <a name="core-theory-version"></a>
 ## Core Theory Version

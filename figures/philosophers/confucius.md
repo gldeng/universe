@@ -29,9 +29,9 @@
 
 孔子思想体现了将社会与个人的量子可能性经典化为秩序与和谐的系统性努力。他的教导深刻理解了个体内心与外部社会秩序的量子-经典相互作用。
 
-$`
+$$
 |\psi\rangle_{\text{孔子哲学}} = \sum_i c_i|\psi_i\rangle_{\text{社会人文可能性}} \xrightarrow{\text{经典化}} I_{\text{和谐社会}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,14 +40,12 @@ $`
    "仁"本质上是建立在观察者之间量子纠缠关系上的道德体系，通过同理心创造高效的观察者同构性：
 
    $$
-
    \text{仁爱效率} \propto \text{同构性}\left(|\psi\rangle_{\text{自我}},|\psi\rangle_{\text{他人}}\right)
    $$
 
    "己所不欲，勿施于人"是建立量子意识同构性的实践方法，降低社会熵：
 
    $$
-
    |\psi\rangle_{\text{共同道德纠缠}} \rightarrow I_{\text{社会和谐（经典知识）}} + S_{\text{社会冲突（熵降低）}}
    $$
 
@@ -56,14 +54,12 @@ $`
    礼制是将混沌的社会量子可能性经典化为有序结构的机制：
 
    $$
-
    |\psi\rangle_{\text{社会行为可能性}} \xrightarrow{\text{礼制经典化}} I_{\text{社会秩序（经典知识）}} + S_{\text{最小社会熵}}
    $$
 
    而乐则是情感层面的经典化工具，平衡认知与情感：
 
    $$
-
    |\psi\rangle_{\text{情感可能性}} \xrightarrow{\text{乐教经典化}} I_{\text{情感和谐}} + S_{\text{情感熵降低}}
    $$
 
@@ -72,7 +68,6 @@ $`
    中庸本质上是量子可能性与经典确定性的最优平衡点，是经典化过程中的熵最小化原则：
 
    $$
-
    \min S_{\text{系统熵}} = \text{中庸状态} = \text{既非过也非不及}
    $$
 
@@ -83,7 +78,6 @@ $`
    孔子提出的发展路径是一种嵌套经典化过程，从个人内心开始，逐层扩展到更大系统：
 
    $$
-
    |\psi\rangle_{\text{自我}} \xrightarrow{\text{修身}} I_{\text{个人德行}} \xrightarrow{\text{齐家}} I_{\text{家庭和谐}} \xrightarrow{\text{治国}} I_{\text{国家治理}} \xrightarrow{\text{平天下}} I_{\text{天下和平}}
    $$
 
@@ -94,7 +88,6 @@ $`
    "有教无类"体现了孔子对创建高维观察者网络的愿景，通过教育提升每个人的维度：
 
    $$
-
    \sum_{\text{所有人}}\left(\text{维度}_i \propto \frac{I_{\text{教育知识}_i}}{S_{\text{无知熵}_i}}\right) \rightarrow \text{社会整体维度提升}
    $$
 

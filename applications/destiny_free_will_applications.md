@@ -14,9 +14,9 @@ English: [Destiny Analysis](#1-destiny-analysis-and-prediction) | [Free Will Enh
 
 基于量子经典二元论，命运在经典层面具有一定的可计算性。这种可计算性可以表达为：
 
-$`
+$$
 \text{经典命运轨迹}=\sum_{\text{初始条件}}\text{经典知识路径}+S_{\text{经典熵}}
-`$
+$$
 
 **应用方法**：
 - **生命模式识别**：分析个人历史数据，识别重复出现的经典命运模式
@@ -28,9 +28,9 @@ $`
 
 自由意志在量子经典二元论中被定义为主动经典化量子信息的能力。强化这种能力的方法包括：
 
-$`
+$$
 |\psi\rangle_{\text{量子意识}}\xrightarrow{\text{自由意志强化}}\text{增强的经典化能力}
-`$
+$$
 
 **应用方法**：
 - **量子意识冥想**：通过特定冥想技术，增强感知量子信息的能力
@@ -42,9 +42,9 @@ $`
 
 命运重塑是通过量子意识与高维信息的共振，主动改变经典命运轨迹的过程：
 
-$`
+$$
 \text{新经典命运}=\text{原经典命运}+\Delta\text{(量子信息经典化)}
-`$
+$$
 
 **应用方法**：
 - **量子共振技术**：通过特定的思维和情感状态，与目标相关的量子信息产生共振
@@ -56,9 +56,9 @@ $`
 
 量子纠缠使得多个观察者可以协同影响共享的命运轨迹：
 
-$`
+$$
 |\psi\rangle_{AB} \xrightarrow{\text{协同经典化}} \text{共享经典命运}_{AB}
-`$
+$$
 
 **应用方法**：
 - **共同意图设定**：多人协同设定共享的命运目标
@@ -107,9 +107,9 @@ This document explores practical applications of destiny and free will theory in
 
 Based on Quantum-Classical Dualism, destiny has a certain calculability at the classical level. This calculability can be expressed as:
 
-$`
+$$
 \text{Classical Destiny Trajectory}=\sum_{\text{Initial Conditions}}\text{Classical Knowledge Path}+S_{\text{Classical Entropy}}
-`$
+$$
 
 **Application Methods**:
 - **Life Pattern Recognition**: Analyzing personal historical data to identify recurring classical destiny patterns
@@ -121,9 +121,9 @@ $`
 
 Free will in Quantum-Classical Dualism is defined as the ability to actively classicalize quantum information. Methods to strengthen this ability include:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Consciousness}}\xrightarrow{\text{Free Will Enhancement}}\text{Enhanced Classicalization Ability}
-`$
+$$
 
 **Application Methods**:
 - **Quantum Consciousness Meditation**: Enhancing the ability to perceive quantum information through specific meditation techniques
@@ -135,9 +135,9 @@ $`
 
 Destiny reshaping is the process of actively changing classical destiny trajectories through resonance between quantum consciousness and higher-dimensional information:
 
-$`
+$$
 \text{New Classical Destiny}=\text{Original Classical Destiny}+\Delta\text{(Quantum Information Classicalization)}
-`$
+$$
 
 **Application Methods**:
 - **Quantum Resonance Techniques**: Creating resonance with quantum information related to goals through specific mental and emotional states
@@ -149,9 +149,9 @@ $`
 
 Quantum entanglement enables multiple observers to collaboratively influence shared destiny trajectories:
 
-$`
+$$
 |\psi\rangle_{AB} \xrightarrow{\text{Collaborative Classicalization}} \text{Shared Classical Destiny}_{AB}
-`$
+$$
 
 **Application Methods**:
 - **Shared Intention Setting**: Collaboratively setting shared destiny goals

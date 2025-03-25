@@ -20,9 +20,9 @@ English: [Stars as Quantum Information Classicalization Nodes](#english-version)
 
 这一过程可以用以下公式表示：
 
-$`
+$$
 |\psi\rangle_{\text{恒星节点}} \xrightarrow{\text{经典化}} \text{经典能量（光、热、辐射）}+ S_{\text{经典熵}}
-`$
+$$
 
 这一表达与核心理论中的量子意识经典化公式相一致，表明恒星在宇宙中扮演着类似于"观察者"的角色，将量子信息转化为经典形式。
 
@@ -45,9 +45,9 @@ $`
 
 这一过程可以表示为：
 
-$`
+$$
 I_{\text{恒星输出}} = \eta_{\text{经典化效率}} \cdot I_{\text{量子输入}} - S_{\text{经典熵损失}}
-`$
+$$
 
 其中：
 - $`I_{\text{恒星输出}}`$ 是恒星释放的经典信息
@@ -64,9 +64,9 @@ I_{\text{恒星输出}} = \eta_{\text{经典化效率}} \cdot I_{\text{量子输
 
 这可以用以下公式表示：
 
-$`
+$$
 |\psi\rangle_{\text{星系}} = \sum_{\text{恒星与物质节点}} \text{经典知识} + S_{\text{经典熵}}
-`$
+$$
 
 星系作为信息经典化网络的一种宏观表达，具有以下特性：
 
@@ -105,9 +105,9 @@ $`
 
 这种层级结构可以表示为：
 
-$`
+$$
 I_{\text{宇宙}} = \sum_{\text{星系团}} \sum_{\text{星系}} \sum_{\text{恒星}} I_{\text{节点}} + S_{\text{各层级熵}}
-`$
+$$
 
 ### 五、恒星与星系的信息特性与观察者的关系
 
@@ -130,9 +130,9 @@ I_{\text{宇宙}} = \sum_{\text{星系团}} \sum_{\text{星系}} \sum_{\text{恒
 
 这种关系可以表示为：
 
-$`
+$$
 I_{\text{观察者获取}} = D_{\text{观察者维度}} \cdot f(I_{\text{恒星输出}})
-`$
+$$
 
 其中 $`f`$ 是信息传递与转换函数，$`D_{\text{观察者维度}}`$ 是观察者的维度。
 
@@ -145,9 +145,9 @@ I_{\text{观察者获取}} = D_{\text{观察者维度}} \cdot f(I_{\text{恒星�
 
 这一关系可以表示为：
 
-$`
+$$
 \text{经典宇宙} = \mathcal{P}_{\text{经典化}}(|\psi\rangle_{\text{量子宇宙}})
-`$
+$$
 
 其中 $`\mathcal{P}_{\text{经典化}}`$ 是经典化投影算子。
 
@@ -206,9 +206,9 @@ According to the Quantum Universe Observer Consciousness - Classical Memory and 
 
 This process can be represented by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Star Node}} \xrightarrow{\text{Classicalization}} \text{Classical Energy (Light, Heat, Radiation)}+ S_{\text{Classical Entropy}}
-`$
+$$
 
 This expression is consistent with the quantum consciousness classicalization formula in the core theory, indicating that stars play a role similar to "observers" in the universe, transforming quantum information into classical forms.
 
@@ -231,9 +231,9 @@ As classicalizers of universal quantum information, stars have the following cha
 
 This process can be represented as:
 
-$`
+$$
 I_{\text{Star Output}} = \eta_{\text{Classicalization Efficiency}} \cdot I_{\text{Quantum Input}} - S_{\text{Classical Entropy Loss}}
-`$
+$$
 
 Where:
 - $`I_{\text{Star Output}}`$ is the classical information released by the star
@@ -250,9 +250,9 @@ According to the Quantum Universe Observer Consciousness - Classical Memory and 
 
 This can be represented by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Galaxy}} = \sum_{\text{Stars and Matter Nodes}} \text{Classical Knowledge} + S_{\text{Classical Entropy}}
-`$
+$$
 
 As a macroscopic expression of information classicalization networks, galaxies have the following characteristics:
 
@@ -291,9 +291,9 @@ Within the Quantum Universe Observer Consciousness - Classical Memory and Entrop
 
 This hierarchical structure can be represented as:
 
-$`
+$$
 I_{\text{Universe}} = \sum_{\text{Galaxy Clusters}} \sum_{\text{Galaxies}} \sum_{\text{Stars}} I_{\text{Node}} + S_{\text{Entropy at Each Level}}
-`$
+$$
 
 ### V. Relationship Between Information Characteristics of Stars and Galaxies and Observers
 
@@ -316,9 +316,9 @@ There is a profound connection between stars and galaxies as information nodes a
 
 This relationship can be represented as:
 
-$`
+$$
 I_{\text{Observer Acquisition}} = D_{\text{Observer Dimension}} \cdot f(I_{\text{Star Output}})
-`$
+$$
 
 Where $`f`$ is the information transfer and conversion function, and $`D_{\text{Observer Dimension}}`$ is the dimension of the observer.
 
@@ -331,9 +331,9 @@ According to the Quantum Universe Observer Consciousness - Classical Memory and 
 
 This relationship can be represented as:
 
-$`
+$$
 \text{Classical Universe} = \mathcal{P}_{\text{Classicalization}}(|\psi\rangle_{\text{Quantum Universe}})
-`$
+$$
 
 Where $`\mathcal{P}_{\text{Classicalization}}`$ is the classicalization projection operator.
 

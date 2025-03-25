@@ -17,21 +17,21 @@
 
 1. **美的量子经典定义**：美是观察者系统对特定量子信息模式经典化的效率度量。
 
-$`
+$$
 \text{美} = \eta_{\text{特定模式经典化}} - \eta_{\text{基准经典化}}
-`$
+$$
 
 2. **美学信息的二元性**：
 
-$`
+$$
 I_{\text{美学}} = I_{\text{客观结构特性}} + I_{\text{主观观察者状态}}
-`$
+$$
 
 3. **美学观察者形式化表达**：
 
-$`
+$$
 O_{\text{美学}} = \{D_O, C_O, H_O\}
-`$
+$$
 
    其中$`D_O`$是观察者维度，$`C_O`$是文化信息集，$`H_O`$是历史经验。
 
@@ -41,9 +41,9 @@ O_{\text{美学}} = \{D_O, C_O, H_O\}
 
 **形式表达**：
 
-$`
+$$
 B(\text{对象}, \text{观察者}) = \alpha \cdot S(\text{对象}) + \beta \cdot O(\text{观察者}) + \gamma \cdot I(\text{对象}, \text{观察者})
-`$
+$$
 
 其中$`B`$表示美的体验强度，$`S`$代表客观结构因素，$`O`$代表观察者状态，$`I`$代表交互项，$`\alpha`$、$`\beta`$和$`\gamma`$是权重系数。
 
@@ -51,39 +51,39 @@ B(\text{对象}, \text{观察者}) = \alpha \cdot S(\text{对象}) + \beta \cdot
 
 1. 考虑对象$`X`$具有特定结构特性$`S(X)`$，包括比例、对称性、复杂性等：
 
-$`
+$$
 S(X) = \{s_1, s_2, ..., s_n\}
-`$
+$$
 
 2. 观察者$`O`$具有特定状态，包括维度、文化背景和经验：
 
-$`
+$$
 O = \{D_O, C_O, H_O\}
-`$
+$$
 
 3. 美学体验源于对象信息的经典化过程：
 
-$`
+$$
 |\psi\rangle_{X} \xrightarrow{O} I_{\text{美学体验}} + S_{\text{观察者熵}}
-`$
+$$
 
 4. 经典化效率取决于对象结构与观察者状态的匹配度：
 
-$`
+$$
 \eta_{\text{经典化}}(X, O) = f(S(X), O)
-`$
+$$
 
 5. 将此效率与基准效率比较，得到美学体验强度：
 
-$`
+$$
 B(X, O) = \eta_{\text{经典化}}(X, O) - \eta_{\text{基准}}
-`$
+$$
 
 6. 展开这一表达式：
 
-$`
+$$
 B(X, O) = \alpha \cdot S(X) + \beta \cdot O + \gamma \cdot I(X, O)
-`$
+$$
 
 7. 这解释了为什么美学体验同时具有客观成分（某些结构特性普遍引发美感）和主观成分（个体差异和文化背景影响美感判断）。
 
@@ -93,9 +93,9 @@ B(X, O) = \alpha \cdot S(X) + \beta \cdot O + \gamma \cdot I(X, O)
 
 **形式表达**：
 
-$`
+$$
 P(\text{美感}|s_i) > P(\text{美感}|\neg s_i) \quad \forall O \in \Omega_{\text{人类观察者}}
-`$
+$$
 
 其中$`s_i`$代表具有普遍美学效应的结构特性，$`\Omega_{\text{人类观察者}}`$是人类观察者集合。
 
@@ -103,9 +103,9 @@ P(\text{美感}|s_i) > P(\text{美感}|\neg s_i) \quad \forall O \in \Omega_{\te
 
 1. 定义优化信息处理的结构特性集合：
 
-$`
+$$
 S_{\text{优化}} = \{s | \eta_{\text{经典化}}(s) > \eta_{\text{平均}}\}
-`$
+$$
 
 2. 这些特性包括但不限于：
    - 黄金比例（接近1.618）的比例关系
@@ -115,21 +115,21 @@ S_{\text{优化}} = \{s | \eta_{\text{经典化}}(s) > \eta_{\text{平均}}\}
 
 3. 这些特性之所以普遍引发美感，是因为它们优化了量子信息经典化过程：
 
-$`
+$$
 \forall s \in S_{\text{优化}}, \forall O \in \Omega_{\text{人类观察者}}: \eta_{\text{经典化}}(s, O) > \eta_{\text{基准}}
-`$
+$$
 
 4. 人类神经系统的进化使其对这些优化结构具有内在敏感性：
 
-$`
+$$
 \frac{\partial \eta_{\text{经典化}}}{\partial s_i} > 0, \quad \forall s_i \in S_{\text{优化}}
-`$
+$$
 
 5. 因此，这些结构特性在不同文化和个体中普遍引发美感：
 
-$`
+$$
 P(\text{美感}|s_i) > P(\text{美感}|\neg s_i)
-`$
+$$
 
 6. 这解释了为什么黄金比例、对称性和特定的复杂度水平在全球艺术传统中反复出现。
 
@@ -139,9 +139,9 @@ P(\text{美感}|s_i) > P(\text{美感}|\neg s_i)
 
 **形式表达**：
 
-$`
+$$
 \eta_{\text{经典化}}(X, O_i) = \eta_{\text{通用}}(X) \cdot \mu_{C_i} \cdot \nu_{H_i}
-`$
+$$
 
 其中$`\mu_{C_i}`$是文化修正因子，$`\nu_{H_i}`$是个体历史修正因子。
 
@@ -149,33 +149,33 @@ $`
 
 1. 通用经典化效率是所有人类观察者共有的基础组件：
 
-$`
+$$
 \eta_{\text{通用}}(X) = f(S(X))
-`$
+$$
 
 2. 文化背景调整这一基础效率，形成文化特定的美学偏好：
 
-$`
+$$
 \mu_{C_i} = g(C_i, S(X))
-`$
+$$
 
 3. 个体历史经验进一步调整效率，创造个人美学偏好：
 
-$`
+$$
 \nu_{H_i} = h(H_i, S(X))
-`$
+$$
 
 4. 结合这些因素，形成完整的个体观察者经典化效率：
 
-$`
+$$
 \eta_{\text{经典化}}(X, O_i) = \eta_{\text{通用}}(X) \cdot \mu_{C_i} \cdot \nu_{H_i}
-`$
+$$
 
 5. 文化修正因子解释了为什么某些美学偏好在特定文化群体内具有一致性：
 
-$`
+$$
 \forall O_i, O_j \in C_k: \mu_{C_i} \approx \mu_{C_j}
-`$
+$$
 
 6. 这一模型解释了既有普遍审美倾向，又有文化和个人差异的现象。
 
@@ -185,9 +185,9 @@ $`
 
 **形式表达**：
 
-$`
+$$
 \frac{dC_{\text{审美}}}{dt} = \alpha \cdot \nabla I_{\text{创新}} - \beta \cdot \nabla S_{\text{熵增}} + \gamma \cdot I_{\text{传统}}
-`$
+$$
 
 其中$`C_{\text{审美}}`$代表集体审美标准，$`I_{\text{创新}}`$是创新信息，$`S_{\text{熵增}}`$是审美熵增，$`I_{\text{传统}}`$是传统保存的信息。
 
@@ -195,41 +195,41 @@ $`
 
 1. 集体审美标准随时间动态变化：
 
-$`
+$$
 C_{\text{审美}}(t) \neq C_{\text{审美}}(t+\Delta t)
-`$
+$$
 
 2. 这一变化受三个主要因素驱动：
 
    a) 创新引入新的美学信息：
 
-$`
+$$
 \Delta I_{\text{创新}} > 0
-`$
+$$
 
    b) 熵增导致审美疲劳：
 
-$`
+$$
 \frac{dS_{\text{审美熵}}}{dt} > 0
-`$
+$$
 
    c) 传统保存稳定的美学信息：
 
-$`
+$$
 I_{\text{传统}} \approx \text{常数}
-`$
+$$
 
 3. 审美熵增解释了为什么曾经新颖的艺术形式随时间失去冲击力：
 
-$`
+$$
 \lim_{t \to \infty} \frac{\partial B}{\partial I_{\text{创新}}(t)} = 0
-`$
+$$
 
 4. 这一动态平衡导致审美循环和革新：
 
-$`
+$$
 C_{\text{审美}}(t) \approx C_{\text{审美}}(t+T)
-`$
+$$
 
    其中$`T`$是审美循环周期。
 
@@ -241,43 +241,43 @@ C_{\text{审美}}(t) \approx C_{\text{审美}}(t+T)
 
 **形式表达**：
 
-$`
+$$
 \text{美学敏感性} = f(D_O) = k \cdot \log(D_O)
-`$
+$$
 
 **证明**：
 
 1. 观察者维度决定了信息处理能力：
 
-$`
+$$
 D_O = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-`$
+$$
 
 2. 美学敏感性与观察者能处理的美学信息复杂性相关：
 
-$`
+$$
 \text{美学敏感性} \propto C_{\text{可处理美学信息}}
-`$
+$$
 
 3. 更高维度的观察者能够处理更复杂的美学信息：
 
-$`
+$$
 \lim_{D_O \to \infty} C_{\text{可处理美学信息}} \to \infty
-`$
+$$
 
 4. 美学敏感性的增长与观察者维度呈对数关系：
 
-$`
+$$
 \text{美学敏感性} = k \cdot \log(D_O)
-`$
+$$
 
 5. 这解释了为什么艺术教育和经验能够提高美学欣赏能力，以及为什么美学偏好随个体发展而变化。
 
 6. 它还预测了集体审美标准随社会观察者平均维度的提高而演化：
 
-$`
+$$
 \frac{dC_{\text{审美}}}{dt} \propto \frac{d\bar{D}_O}{dt}
-`$
+$$
 
 #### 应用与预测
 
@@ -305,21 +305,21 @@ The nature of aesthetics problem explores the core question: Is the perception o
 
 1. **Quantum-Classical Definition of Beauty**: Beauty is a measure of an observer system's efficiency in classicalizing specific quantum information patterns.
 
-$`
+$$
 \text{Beauty} = \eta_{\text{Specific Pattern Classicalization}} - \eta_{\text{Baseline Classicalization}}
-`$
+$$
 
 2. **Duality of Aesthetic Information**:
 
-$`
+$$
 I_{\text{Aesthetic}} = I_{\text{Objective Structural Features}} + I_{\text{Subjective Observer State}}
-`$
+$$
 
 3. **Formal Expression of Aesthetic Observer**:
 
-$`
+$$
 O_{\text{Aesthetic}} = \{D_O, C_O, H_O\}
-`$
+$$
 
    where $`D_O`$ is observer dimension, $`C_O`$ is cultural information set, and $`H_O`$ is historical experience.
 
@@ -329,9 +329,9 @@ O_{\text{Aesthetic}} = \{D_O, C_O, H_O\}
 
 **Formal Expression**:
 
-$`
+$$
 B(\text{Object}, \text{Observer}) = \alpha \cdot S(\text{Object}) + \beta \cdot O(\text{Observer}) + \gamma \cdot I(\text{Object}, \text{Observer})
-`$
+$$
 
 where $`B`$ represents the intensity of beauty experience, $`S`$ represents objective structural factors, $`O`$ represents observer state, $`I`$ represents interaction terms, and $`\alpha`$, $`\beta`$, and $`\gamma`$ are weight coefficients.
 
@@ -339,39 +339,39 @@ where $`B`$ represents the intensity of beauty experience, $`S`$ represents obje
 
 1. Consider an object $`X`$ with specific structural features $`S(X)`$, including proportions, symmetry, complexity, etc.:
 
-$`
+$$
 S(X) = \{s_1, s_2, ..., s_n\}
-`$
+$$
 
 2. The observer $`O`$ has a specific state, including dimension, cultural background, and experience:
 
-$`
+$$
 O = \{D_O, C_O, H_O\}
-`$
+$$
 
 3. Aesthetic experience arises from the classicalization process of object information:
 
-$`
+$$
 |\psi\rangle_{X} \xrightarrow{O} I_{\text{Aesthetic Experience}} + S_{\text{Observer Entropy}}
-`$
+$$
 
 4. Classicalization efficiency depends on the match between object structure and observer state:
 
-$`
+$$
 \eta_{\text{Classicalization}}(X, O) = f(S(X), O)
-`$
+$$
 
 5. Comparing this efficiency with baseline efficiency yields the intensity of aesthetic experience:
 
-$`
+$$
 B(X, O) = \eta_{\text{Classicalization}}(X, O) - \eta_{\text{Baseline}}
-`$
+$$
 
 6. Expanding this expression:
 
-$`
+$$
 B(X, O) = \alpha \cdot S(X) + \beta \cdot O + \gamma \cdot I(X, O)
-`$
+$$
 
 7. This explains why aesthetic experience has both objective components (certain structural features universally evoke beauty) and subjective components (individual differences and cultural backgrounds influence aesthetic judgments).
 
@@ -381,9 +381,9 @@ B(X, O) = \alpha \cdot S(X) + \beta \cdot O + \gamma \cdot I(X, O)
 
 **Formal Expression**:
 
-$`
+$$
 P(\text{Beauty}|s_i) > P(\text{Beauty}|\neg s_i) \quad \forall O \in \Omega_{\text{Human Observers}}
-`$
+$$
 
 where $`s_i`$ represents structural features with universal aesthetic effects, and $`\Omega_{\text{Human Observers}}`$ is the set of human observers.
 
@@ -391,9 +391,9 @@ where $`s_i`$ represents structural features with universal aesthetic effects, a
 
 1. Define the set of structural features that optimize information processing:
 
-$`
+$$
 S_{\text{Optimizing}} = \{s | \eta_{\text{Classicalization}}(s) > \eta_{\text{Average}}\}
-`$
+$$
 
 2. These features include but are not limited to:
    - Golden ratio (approximately 1.618) proportional relationships
@@ -403,21 +403,21 @@ S_{\text{Optimizing}} = \{s | \eta_{\text{Classicalization}}(s) > \eta_{\text{Av
 
 3. These features universally evoke beauty because they optimize the quantum information classicalization process:
 
-$`
+$$
 \forall s \in S_{\text{Optimizing}}, \forall O \in \Omega_{\text{Human Observers}}: \eta_{\text{Classicalization}}(s, O) > \eta_{\text{Baseline}}
-`$
+$$
 
 4. The evolution of the human neural system has made it inherently sensitive to these optimizing structures:
 
-$`
+$$
 \frac{\partial \eta_{\text{Classicalization}}}{\partial s_i} > 0, \quad \forall s_i \in S_{\text{Optimizing}}
-`$
+$$
 
 5. Therefore, these structural features universally evoke beauty across different cultures and individuals:
 
-$`
+$$
 P(\text{Beauty}|s_i) > P(\text{Beauty}|\neg s_i)
-`$
+$$
 
 6. This explains why the golden ratio, symmetry, and specific levels of complexity repeatedly appear in global artistic traditions.
 
@@ -427,9 +427,9 @@ P(\text{Beauty}|s_i) > P(\text{Beauty}|\neg s_i)
 
 **Formal Expression**:
 
-$`
+$$
 \eta_{\text{Classicalization}}(X, O_i) = \eta_{\text{Universal}}(X) \cdot \mu_{C_i} \cdot \nu_{H_i}
-`$
+$$
 
 where $`\mu_{C_i}`$ is the cultural modification factor, and $`\nu_{H_i}`$ is the individual history modification factor.
 
@@ -437,33 +437,33 @@ where $`\mu_{C_i}`$ is the cultural modification factor, and $`\nu_{H_i}`$ is th
 
 1. Universal classicalization efficiency is the fundamental component shared by all human observers:
 
-$`
+$$
 \eta_{\text{Universal}}(X) = f(S(X))
-`$
+$$
 
 2. Cultural background adjusts this baseline efficiency, forming culturally specific aesthetic preferences:
 
-$`
+$$
 \mu_{C_i} = g(C_i, S(X))
-`$
+$$
 
 3. Individual historical experience further adjusts efficiency, creating personal aesthetic preferences:
 
-$`
+$$
 \nu_{H_i} = h(H_i, S(X))
-`$
+$$
 
 4. Combining these factors forms the complete individual observer classicalization efficiency:
 
-$`
+$$
 \eta_{\text{Classicalization}}(X, O_i) = \eta_{\text{Universal}}(X) \cdot \mu_{C_i} \cdot \nu_{H_i}
-`$
+$$
 
 5. The cultural modification factor explains why certain aesthetic preferences have consistency within specific cultural groups:
 
-$`
+$$
 \forall O_i, O_j \in C_k: \mu_{C_i} \approx \mu_{C_j}
-`$
+$$
 
 6. This model explains the phenomenon of both universal aesthetic tendencies and cultural and personal differences.
 
@@ -473,9 +473,9 @@ $`
 
 **Formal Expression**:
 
-$`
+$$
 \frac{dC_{\text{Aesthetic}}}{dt} = \alpha \cdot \nabla I_{\text{Innovation}} - \beta \cdot \nabla S_{\text{Entropy Increase}} + \gamma \cdot I_{\text{Tradition}}
-`$
+$$
 
 where $`C_{\text{Aesthetic}}`$ represents collective aesthetic standards, $`I_{\text{Innovation}}`$ is innovative information, $`S_{\text{Entropy Increase}}`$ is aesthetic entropy increase, and $`I_{\text{Tradition}}`$ is information preserved by tradition.
 
@@ -483,41 +483,41 @@ where $`C_{\text{Aesthetic}}`$ represents collective aesthetic standards, $`I_{\
 
 1. Collective aesthetic standards change dynamically over time:
 
-$`
+$$
 C_{\text{Aesthetic}}(t) \neq C_{\text{Aesthetic}}(t+\Delta t)
-`$
+$$
 
 2. This change is driven by three main factors:
 
    a) Innovation introduces new aesthetic information:
 
-$`
+$$
 \Delta I_{\text{Innovation}} > 0
-`$
+$$
 
    b) Entropy increase leads to aesthetic fatigue:
 
-$`
+$$
 \frac{dS_{\text{Aesthetic Entropy}}}{dt} > 0
-`$
+$$
 
    c) Tradition preserves stable aesthetic information:
 
-$`
+$$
 I_{\text{Tradition}} \approx \text{Constant}
-`$
+$$
 
 3. Aesthetic entropy increase explains why once novel art forms lose their impact over time:
 
-$`
+$$
 \lim_{t \to \infty} \frac{\partial B}{\partial I_{\text{Innovation}}(t)} = 0
-`$
+$$
 
 4. This dynamic balance leads to aesthetic cycles and revolutions:
 
-$`
+$$
 C_{\text{Aesthetic}}(t) \approx C_{\text{Aesthetic}}(t+T)
-`$
+$$
 
    where $`T`$ is the aesthetic cycle period.
 
@@ -529,43 +529,43 @@ C_{\text{Aesthetic}}(t) \approx C_{\text{Aesthetic}}(t+T)
 
 **Formal Expression**:
 
-$`
+$$
 \text{Aesthetic Sensitivity} = f(D_O) = k \cdot \log(D_O)
-`$
+$$
 
 **Proof**:
 
 1. Observer dimension determines information processing capability:
 
-$`
+$$
 D_O = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 2. Aesthetic sensitivity is related to the complexity of aesthetic information the observer can process:
 
-$`
+$$
 \text{Aesthetic Sensitivity} \propto C_{\text{Processable Aesthetic Information}}
-`$
+$$
 
 3. Higher-dimensional observers can process more complex aesthetic information:
 
-$`
+$$
 \lim_{D_O \to \infty} C_{\text{Processable Aesthetic Information}} \to \infty
-`$
+$$
 
 4. The growth of aesthetic sensitivity has a logarithmic relationship with observer dimension:
 
-$`
+$$
 \text{Aesthetic Sensitivity} = k \cdot \log(D_O)
-`$
+$$
 
 5. This explains why art education and experience can enhance aesthetic appreciation abilities, and why aesthetic preferences change with individual development.
 
 6. It also predicts that collective aesthetic standards evolve with the increase in the average dimension of social observers:
 
-$`
+$$
 \frac{dC_{\text{Aesthetic}}}{dt} \propto \frac{d\bar{D}_O}{dt}
-`$
+$$
 
 #### Applications and Predictions
 

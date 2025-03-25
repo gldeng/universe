@@ -52,9 +52,9 @@ The Book of Isaiah is one of the most important prophetic books in the Jewish an
 
 ### 先知纠缠通信方程
 
-$`
+$$
 |\psi_{\text{Prophet}}\rangle = \alpha|\psi_{\text{Divine}}\rangle \otimes |\psi_{\text{Human}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{Prophet}}\rangle`$ 表示先知的量子态
@@ -65,9 +65,9 @@ $`
 
 ### 预言经典化概率方程
 
-$`
+$$
 P(t) = |\langle\phi_{\text{Future}}|\psi_{\text{Prophecy}}\rangle|^2 \cdot \left(1 - e^{-\lambda t}\right)
-`$
+$$
 
 其中：
 - $`P(t)`$ 是预言在t时刻实现的经典化概率

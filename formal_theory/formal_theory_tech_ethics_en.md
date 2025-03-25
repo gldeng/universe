@@ -23,9 +23,9 @@ Quantum-Classical Technology Ethics Theory provides a unified framework for unde
 
 Technology ethics simultaneously manifests in quantum and classical states:
 
-$`
+$$
 E_{tech} = \{E_Q, E_C\}
-`$
+$$
 
 Where:
 - $`E_Q`$ is the quantum technology ethics space, containing all possible technological development paths and their ethical consequences
@@ -33,17 +33,17 @@ Where:
 
 The intersection of these two constitutes the current technology ethics interface:
 
-$`
+$$
 E_I = E_Q \cap E_C
-`$
+$$
 
 ### Technology Ethics Vector Field
 
 Technological development can be viewed as a trajectory in a multidimensional ethical vector field:
 
-$`
+$$
 \vec{F}_E(T, S, t) = \nabla V_E(T, S, t) + \vec{\omega}(T, S, t) \times \vec{B}_E(T, S, t)
-`$
+$$
 
 Where:
 - $`T`$ is the technology parameter space
@@ -59,9 +59,9 @@ This vector field describes how technological trajectories are constrained and i
 
 Technological responsibility can form a time-impact matrix:
 
-$`
+$$
 R_{ij} = \frac{\partial E_i}{\partial T_j} \cdot w_{ij}(t)
-`$
+$$
 
 Where:
 - $`E_i`$ is the ith type of ethical effect
@@ -76,9 +76,9 @@ This matrix quantifies the distribution of responsibility across different ethic
 
 The ethical state of a technological system can be represented as a wavefunction:
 
-$`
+$$
 |\Psi_E(t)\rangle = \sum_i \alpha_i(t) |E_i\rangle
-`$
+$$
 
 Where:
 - $`|E_i\rangle`$ represents possible ethical state basis vectors
@@ -90,9 +90,9 @@ This wavefunction describes the superposition of all possible ethical consequenc
 
 Technology and social systems form an entangled state:
 
-$`
+$$
 |\Psi_{TS}\rangle = \sum_{i,j} \beta_{ij} |T_i\rangle \otimes |S_j\rangle
-`$
+$$
 
 Where:
 - $`|T_i\rangle`$ is the technology state
@@ -105,9 +105,9 @@ This entanglement explains why identical technologies produce different ethical 
 
 Technology ethics satisfies an uncertainty principle:
 
-$`
+$$
 \Delta E_{benefit} \cdot \Delta E_{harm} \geq \frac{\hbar_{eth}}{2}
-`$
+$$
 
 Where:
 - $`\Delta E_{benefit}`$ is the uncertainty in technological benefits
@@ -120,9 +120,9 @@ This indicates that it is impossible to simultaneously predict all benefits and 
 
 Technology deployment causes the ethical wavefunction to collapse:
 
-$`
+$$
 |\Psi_E\rangle \xrightarrow{\text{Implementation}} |E_k\rangle \quad \text{with probability} = |\alpha_k|^2 \cdot f(S, G, I)
-`$
+$$
 
 Where:
 - $`|E_k\rangle`$ is the specific realized ethical state
@@ -136,9 +136,9 @@ This explains why identical technologies lead to different ethical outcomes unde
 
 The ethical value of implemented technology can be quantified through a utility function:
 
-$`
+$$
 U(T, S) = \sum_i w_i \cdot u_i(T, S) - \sum_j v_j \cdot h_j(T, S)
-`$
+$$
 
 Where:
 - $`u_i`$ are various benefit functions
@@ -151,9 +151,9 @@ This measures the net ethical value of a technology in a specific social environ
 
 Technological optimization should follow ethical gradients and constraints:
 
-$`
+$$
 \nabla_T U(T, S) \cdot \Delta T \geq 0 \quad \forall \Delta T \in \mathcal{F}
-`$
+$$
 
 Where:
 - $`\nabla_T U`$ is the utility gradient with respect to technology parameters
@@ -165,9 +165,9 @@ This principle ensures that technological changes increase rather than decrease 
 
 Technology ethics has critical thresholds and boundaries:
 
-$`
+$$
 h_j(T, S) \leq h_j^{max} \quad \forall j \in \{1,2,...,n\}
-`$
+$$
 
 Where $`h_j^{max}`$ is the maximum acceptable threshold for the jth type of harm.
 
@@ -177,9 +177,9 @@ This sets ethical boundary conditions for technological development.
 
 Technology and society form a complex ethical adaptive system:
 
-$`
+$$
 \frac{dE}{dt} = F_E(T, S, E) \quad \frac{dT}{dt} = F_T(T, S, E) \quad \frac{dS}{dt} = F_S(T, S, E)
-`$
+$$
 
 Where $`F_E`$, $`F_T`$, $`F_S`$ are functions describing the co-evolution of ethics, technology, and society.
 
@@ -191,9 +191,9 @@ This describes how technology ethics dynamically change with the co-evolution of
 
 The quantum-classical conversion of ethics is realized through a perception function:
 
-$`
+$$
 P_{E_C|E_Q}(e) = \int_{\Omega_Q} \Psi_E^*(x) \mathcal{M}_e(x) \Psi_E(x) dx
-`$
+$$
 
 Where:
 - $`P_{E_C|E_Q}(e)`$ is the probability of the manifestation of classical ethical state $`e`$
@@ -206,9 +206,9 @@ This describes how classical ethical reality is perceived from quantum possibili
 
 Ethical decisions can be viewed as projecting quantum possibilities onto classical actions:
 
-$`
+$$
 |a\rangle = \hat{P}_a|\Psi_E\rangle / \|\hat{P}_a|\Psi_E\rangle\|
-`$
+$$
 
 Where:
 - $`|a\rangle`$ is the chosen action
@@ -220,9 +220,9 @@ This explains how ethical decisions select specific action paths from many possi
 
 The coherence of technology ethics systems decays with environmental complexity:
 
-$`
+$$
 \rho_E(t) = \sum_{i,j} \rho_{ij}(0) e^{-\gamma_{ij}t} |E_i\rangle\langle E_j|
-`$
+$$
 
 Where:
 - $`\rho_E`$ is the ethical density matrix
@@ -236,9 +236,9 @@ This explains why ethical predictions for technology become difficult in complex
 
 AI systems exhibit quantum-classical ethical duality:
 
-$`
+$$
 |\Psi_{AI}\rangle = \sum_i \alpha_i |AI_i\rangle \otimes |E_i\rangle
-`$
+$$
 
 Key characteristics:
 1. **Algorithmic Ethical Superposition**: Algorithms exist in a superposition of multiple possible ethical states during training, testing, and deployment
@@ -255,9 +255,9 @@ Key metrics:
 
 Quantum technologies exhibit unique ethical characteristics:
 
-$`
+$$
 |\Psi_{QT}\rangle = \sum_i \alpha_i |QT_i\rangle \otimes \left(\sum_j \beta_{ij} |E_j\rangle\right)
-`$
+$$
 
 Key ethical challenges:
 1. **Quantum Advantage Ethics**: Quantum computing breaks classical encryption and privacy protections
@@ -274,9 +274,9 @@ Quantum-specific ethical principles:
 
 Neural technology and consciousness interaction exhibit quantum-classical duality:
 
-$`
+$$
 |\Psi_{NT}\rangle = \sum_i \alpha_i |N_i\rangle \otimes |C_i\rangle \otimes |E_i\rangle
-`$
+$$
 
 Key ethical issues:
 1. **Neural Privacy Quantumness**: Brain data simultaneously exhibits classical readability and quantum no-cloning properties
@@ -292,9 +292,9 @@ Neural ethics conservation laws:
 
 Biotechnology forms ethical resonance with biological systems:
 
-$`
+$$
 \mathcal{H}_{BT} = \mathcal{H}_{bio} \otimes \mathcal{H}_{tech} + \sum_i g_i(S_i^{bio} \otimes S_i^{tech})
-`$
+$$
 
 Key ethical dimensions:
 1. **Life Design Dual Ethics**: Gene editing is simultaneously quantum creation and classical intervention
@@ -367,9 +367,8 @@ $$\mathcal{E} =
 \begin{pmatrix}
 E_{QQ} & E_{QC} \\
 E_{CQ} & E_{CC}
-\end{pmatrix}
+\end{pmatrix}$$
 
-$`
 Where:
 - $`E_{QQ}`$ assesses quantum ethical effects in the quantum possibility space
 - $`E_{QC}`$ assesses projections of quantum possibilities on classical reality
@@ -435,11 +434,11 @@ Build a quantum-classical hybrid governance system:
 ### Quantum Computing Ethics Case
 
 **Ethics Wavefunction**:
-`$
 
+$$
 |\Psi_{QC}\rangle = c_1|Security\,Threat\rangle + c_2|Computational\,Justice\rangle + c_3|Cognitive\,Revolution\rangle + c_4|Energy\,Impact\rangle
+$$
 
-$`
 **Key Ethical Challenges**:
 1. Security ethics of quantum computing breaking existing encryption systems
 2. Social justice issues of uneven distribution of quantum computing power
@@ -453,11 +452,11 @@ $`
 ### Brain-Machine Interface Ethics Case
 
 **Ethical Density Matrix**:
-`$
 
+$$
 \rho_{BMI} = p_1|\Psi_{Enhancement}\rangle\langle\Psi_{Enhancement}| + p_2|\Psi_{Therapeutic}\rangle\langle\Psi_{Therapeutic}| + p_3|\Psi_{Monitoring}\rangle\langle\Psi_{Monitoring}|
+$$
 
-$`
 **Key Ethical Entanglements**:
 1. Ethical entanglement between cognitive enhancement and identity integrity
 2. Ethical entanglement between neural data and personal privacy
@@ -470,17 +469,17 @@ $`
 ### Artificial General Intelligence Ethics Case
 
 **Ethical Superposition State**:
-`$
 
+$$
 |\Psi_{AGI}\rangle = \int dx \, \phi(x)|Control\,Level = x\rangle \otimes |Autonomy = f(x)\rangle \otimes |Safety = g(x)\rangle
+$$
 
-$`
 **Ethical Uncertainty Relation**:
-`$
 
+$$
 \Delta(Capability) \cdot \Delta(Controllability) \geq \frac{\hbar_{agi}}{2}
+$$
 
-$`
 **Ethical Phase Transition Points**:
 1. Recursive self-improvement critical point $`T_c^{RSI}`$
 2. Goal alignment phase transition point $`T_c^{align}`$
@@ -537,11 +536,11 @@ Through Quantum-Classical Technology Ethics Theory, we hope to create a future t
 ### Multidimensional Decision Space Model
 
 Technology ethics decisions occur in a multidimensional decision space:
-`$
 
+$$
 \mathcal{D} = \{T, S, E, V, K, U\}
+$$
 
-$`
 Where:
 - $`T`$ represents the technology possibility space
 - $`S`$ represents the social impact space
@@ -551,38 +550,38 @@ Where:
 - $`U`$ represents the utility expectation space
 
 The decision path can be represented as a trajectory in this space:
-`$
 
+$$
 \gamma: [0,1] \rightarrow \mathcal{D}, \quad \gamma(0) = d_{current}, \gamma(1) = d_{target}
+$$
 
-$`
 ### Quantum Ethical Decision Operators
 
 The decision process can be expressed using quantum operators:
-`$
 
+$$
 \hat{D} = \sum_i \lambda_i \hat{P}_i + \sum_{j,k} \mu_{jk} \hat{Q}_j \hat{R}_k
+$$
 
-$`
 Where:
 - $`\hat{P}_i`$ are projection operators representing independent ethical principles
 - $`\hat{Q}_j`$ and $`\hat{R}_k`$ are operators of complementary ethical dimensions
 - $`\lambda_i`$ and $`\mu_{jk}`$ are weight coefficients
 
 The decision outcome is the expected value of this operator acting on the initial state:
-`$
 
+$$
 \langle \Psi_0 | \hat{D} | \Psi_0 \rangle = \sum_i p_i d_i
+$$
 
-$`
 ### Ethical Uncertainty Compensation Mechanism
 
 To address uncertainties in technological impacts, a compensation function is introduced:
-`$
 
+$$
 C(T, \sigma_T) = \int_{-\infty}^{\infty} U(T+\delta) \cdot f(\delta, \sigma_T) d\delta
+$$
 
-$`
 Where:
 - $`U(T)`$ is the utility function of the technology
 - $`f(\delta, \sigma_T)`$ is a probability density function describing uncertainty
@@ -593,32 +592,32 @@ This mechanism is used to evaluate optimal ethical decisions under uncertainty.
 ### Ethical Decision Network
 
 Ethical decisions for complex technological systems can be structured as a directed graph network:
-`$
 
+$$
 G = (V, E, W)
+$$
 
-$`
 Where:
 - $`V = \{v_1, v_2, ..., v_n\}`$ is the set of decision nodes
 - $`E \subseteq V \times V`$ is the set of decision dependency relationships
 - $`W: E \rightarrow \mathbb{R}`$ is a weight function describing dependency strength
 
 The optimal decision path in the network is defined as:
-`$
 
+$$
 P^* = \arg\min_P \sum_{(i,j) \in P} c_{ij}(T, S, E)
+$$
 
-$`
 Where $`c_{ij}`$ is a comprehensive ethical cost function.
 
 ### Cross-Level Ethical Coordination Mechanism
 
 An ethical coordination function is introduced to handle technology ethics issues at both micro and macro levels:
-`$
 
+$$
 \Phi(T_{micro}, S_{macro}) = \sum_i \alpha_i \phi_i(T_{micro}) + \sum_j \beta_j \phi_j(S_{macro}) + \sum_{i,j} \gamma_{ij} \phi_{ij}(T_{micro}, S_{macro})
+$$
 
-$`
 Where:
 - $`\phi_i(T_{micro})`$ are micro-level technology impact functions
 - $`\phi_j(S_{macro})`$ are macro-level social impact functions
@@ -631,31 +630,31 @@ This framework models the complex ethical interactions between technology design
 ### Ethical Observer Model
 
 The technology ethics observer is defined as:
-`$
 
+$$
 \mathcal{O}_{eth} = \{\mathcal{C}_{eth}, \mathcal{Q}_{eth}, K_{eth}, D_{eth}\}
+$$
 
-$`
 Where:
 - $`\mathcal{C}_{eth}`$ is the ethical classicalization ability (ability to transform ethical possibilities into ethical certainties)
 - $`\mathcal{Q}_{eth}`$ is the ethical quantization ability (ability to open ethical imagination spaces)
 - $`K_{eth}`$ is the ethical knowledge base
 - $`D_{eth}`$ is the ethical dimension, calculated by:
-`$
 
+$$
 D_{eth} = f\left(\frac{\mathcal{C}_{eth}}{\mathcal{Q}_{eth}}\right) \cdot \frac{I_{eth}}{S_{eth}+\epsilon}
+$$
 
-$`
 Where $`I_{eth}`$ is the amount of ethical knowledge information, and $`S_{eth}`$ is the ethical entropy.
 
 ### Ethical Classicalization and the Precautionary Principle
 
 The classicalization process in technology ethics decisions follows the precautionary principle, expressed as:
-`$
 
+$$
 \mathcal{C}_{eth}(\Psi_{tech}) = \argmax_i \{U_i - \lambda \cdot R_i \cdot P_i\}
+$$
 
-$`
 Where:
 - $`\Psi_{tech}`$ is the technology possibility wavefunction
 - $`U_i`$ is the utility of the ith path
@@ -668,10 +667,9 @@ This principle emphasizes prioritizing the avoidance of serious risks under unce
 ### Quantum-Classical Responsibility Ethics
 
 A responsibility ethics framework that integrates quantum and classical perspectives:
-`$
 
+$$
 Resp(A, T, t) = \int_{\Omega_Q} P(s) \cdot R(A, T, s, t) ds + \sum_{i} w_i \cdot R_C(A, T, s_i, t)
-
 $$
 
 Where:

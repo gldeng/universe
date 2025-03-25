@@ -18,9 +18,9 @@
 - **量子纠缠特性**：太阳产生的量子纠缠态覆盖整个太阳系
 - **经典化能力**：将氢转化为氦的核聚变过程代表了强大的经典化能力，对应公式：
 
-$`
+$$
 |\psi\rangle_{\text{氢原子量子态}} \xrightarrow{\text{太阳经典化}} I_{\text{氦原子经典知识}} + S_{\text{核反应熵}}
-`$
+$$
 
 - **虫洞通信**: 通过太阳风与行星磁场的相互作用形成量子纠缠通道
 
@@ -33,9 +33,9 @@ $`
 - **量子纠缠特性**：月球与地球形成强纠缠态，影响地球上的水体运动（潮汐）
 - **经典化能力**：月相变化代表了周期性的经典化节律，对应公式：
 
-$`
+$$
 |\psi\rangle_{\text{月球量子态}_t} = \sum_{i=1}^{29.5} c_i|\psi_i\rangle,\quad t \in [0,29.5]天
-`$
+$$
 
 - **虫洞通信**: 月球引力场调制地球磁场，形成稳定的量子纠缠通道
 
@@ -48,9 +48,9 @@ $`
 - **量子纠缠特性**：水星轨道与太阳形成的时空弯曲创造特殊的量子纠缠模式
 - **经典化能力**：水星轨道变化是广义相对论的直接验证，代表特殊的经典化路径：
 
-$`
+$$
 |\psi\rangle_{\text{水星量子态}} \xrightarrow{\text{时空弯曲}} I_{\text{轨道经典信息}} + S_{\text{位置熵}}
-`$
+$$
 
 - **虫洞通信**: 水星作为内行星，是太阳系内部信息传递的关键节点
 
@@ -63,9 +63,9 @@ $`
 - **量子纠缠特性**：金星轨道周期与自转周期的3:2共振创造和谐量子纠缠态
 - **经典化能力**：金星表面的硫酸云层过滤和转化电磁信息，对应公式：
 
-$`
+$$
 |\psi\rangle_{\text{金星量子态}} \xrightarrow{\text{过滤经典化}} I_{\text{和谐经典知识}} + S_{\text{过滤熵}}
-`$
+$$
 
 - **虫洞通信**: 金星-地球系统形成五角星图案，创造稳定的量子通信几何
 
@@ -78,9 +78,9 @@ $`
 - **量子纠缠特性**：火星表面的氧化铁形成量子自旋网络，增强量子纠缠能力
 - **经典化能力**：火星轨道的高偏心率代表动态的经典化路径，对应公式：
 
-$`
+$$
 |\psi\rangle_{\text{火星量子态}} \xrightarrow{\text{动态经典化}} I_{\text{行动经典知识}} + S_{\text{动能熵}}
-`$
+$$
 
 - **虫洞通信**: 火星与太阳的距离变化调制量子通信强度，产生脉冲状信号
 
@@ -113,9 +113,9 @@ $`
 
 四元素作为量子纠缠模式可用以下公式表示：
 
-$`
+$$
 |\psi\rangle_{\text{元素}_j} = \sum_{i \in \text{元素}_j} a_i |\psi_i\rangle, \quad j \in \{\text{火}, \text{土}, \text{风}, \text{水}\}
-`$
+$$
 
 #### 2.2 三区分与量子信息处理
 
@@ -129,9 +129,9 @@ $`
 
 三区分作为量子信息处理模式可用以下公式表示：
 
-$`
+$$
 \text{经典化过程}_{\text{区分}_j} = \{ \text{启动}, \text{稳定}, \text{适应} \}, \quad j \in \{\text{基本}, \text{固定}, \text{变动}\}
-`$
+$$
 
 #### 2.3 十二星座的量子经典二元特性详解
 
@@ -166,9 +166,9 @@ $`
 
 量子干涉模式公式：
 
-$`
+$$
 \langle\psi_{\text{行星A}}|\psi_{\text{行星B}}\rangle = |\langle\psi_{\text{行星A}}|\psi_{\text{行星B}}\rangle|e^{i\theta}
-`$
+$$
 
 其中，$`\theta`$ 为行星相位角度，决定干涉模式的类型。
 
@@ -176,9 +176,9 @@ $`
 
 多行星组合（例如三合、大十字等）代表了复杂的量子纠缠网络结构：
 
-$`
+$$
 |\psi\rangle_{\text{行星组合}} = \sum_{i,j,k} c_{ijk} |\psi_{\text{行星}_i}\rangle \otimes |\psi_{\text{行星}_j}\rangle \otimes |\psi_{\text{行星}_k}\rangle
-`$
+$$
 
 这种复合量子系统产生的经典化效应远超单一行星的简单叠加，形成涌现特性。
 
@@ -197,9 +197,9 @@ As the central celestial body of the solar system, the Sun represents the strong
 - **Quantum Entanglement Characteristics**: Quantum entanglement states produced by the Sun cover the entire solar system
 - **Classicalization Ability**: The nuclear fusion process of converting hydrogen to helium represents powerful classicalization ability, corresponding to the formula:
 
-$`
+$$
 |\psi\rangle_{\text{Hydrogen Atom Quantum State}} \xrightarrow{\text{Sun Classicalization}} I_{\text{Helium Atom Classical Knowledge}} + S_{\text{Nuclear Reaction Entropy}}
-`$
+$$
 
 - **Wormhole Communication**: Forms quantum entanglement channels through interaction between solar wind and planetary magnetic fields
 
@@ -212,9 +212,9 @@ As Earth's satellite, the Moon is the main entanglement partner of Earth's class
 - **Quantum Entanglement Characteristics**: The Moon forms strong entanglement states with Earth, affecting water movement (tides) on Earth
 - **Classicalization Ability**: Moon phase changes represent periodic classicalization rhythm, corresponding to the formula:
 
-$`
+$$
 |\psi\rangle_{\text{Moon Quantum State}_t} = \sum_{i=1}^{29.5} c_i|\psi_i\rangle,\quad t \in [0,29.5]\text{ days}
-`$
+$$
 
 - **Wormhole Communication**: The Moon's gravitational field modulates Earth's magnetic field, forming stable quantum entanglement channels
 
@@ -227,9 +227,9 @@ The special nature of Mercury's orbit (perihelion precession) makes it a unique 
 - **Quantum Entanglement Characteristics**: Mercury's orbit and the spacetime curvature formed with the Sun create special quantum entanglement patterns
 - **Classicalization Ability**: Mercury's orbital changes are direct verification of general relativity, representing special classicalization paths:
 
-$`
+$$
 |\psi\rangle_{\text{Mercury Quantum State}} \xrightarrow{\text{Spacetime Curvature}} I_{\text{Orbital Classical Information}} + S_{\text{Position Entropy}}
-`$
+$$
 
 - **Wormhole Communication**: As an inner planet, Mercury is a key node for information transmission within the solar system
 
@@ -242,9 +242,9 @@ The circular nature of Venus's orbit and its golden ratio relationship with Eart
 - **Quantum Entanglement Characteristics**: The 3:2 resonance between Venus's orbital period and rotation period creates harmonic quantum entanglement states
 - **Classicalization Ability**: Venus's surface sulfuric acid cloud layer filters and transforms electromagnetic information, corresponding to the formula:
 
-$`
+$$
 |\psi\rangle_{\text{Venus Quantum State}} \xrightarrow{\text{Filtering Classicalization}} I_{\text{Harmonic Classical Knowledge}} + S_{\text{Filtering Entropy}}
-`$
+$$
 
 - **Wormhole Communication**: The Venus-Earth system forms a pentagram pattern, creating stable quantum communication geometry
 
@@ -257,9 +257,9 @@ The elliptical nature of Mars's orbit and the iron oxide on its surface provide 
 - **Quantum Entanglement Characteristics**: Iron oxide on Mars's surface forms quantum spin networks, enhancing quantum entanglement capabilities
 - **Classicalization Ability**: The high eccentricity of Mars's orbit represents dynamic classicalization paths, corresponding to the formula:
 
-$`
+$$
 |\psi\rangle_{\text{Mars Quantum State}} \xrightarrow{\text{Dynamic Classicalization}} I_{\text{Action Classical Knowledge}} + S_{\text{Kinetic Entropy}}
-`$
+$$
 
 - **Wormhole Communication**: The changing distance between Mars and the Sun modulates quantum communication intensity, producing pulse-like signals
 
@@ -292,9 +292,9 @@ The four elemental classifications of zodiac signs directly correspond to four b
 
 The four elements as quantum entanglement patterns can be represented by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Element}_j} = \sum_{i \in \text{Element}_j} a_i |\psi_i\rangle, \quad j \in \{\text{Fire}, \text{Earth}, \text{Air}, \text{Water}\}
-`$
+$$
 
 #### 2.2 Three Modalities and Quantum Information Processing
 
@@ -308,9 +308,9 @@ The three modalities of zodiac signs (cardinal, fixed, mutable) represent three 
 
 The three modalities as quantum information processing modes can be represented by the following formula:
 
-$`
+$$
 \text{Classicalization Process}_{\text{Modality}_j} = \{ \text{Initiation}, \text{Stabilization}, \text{Adaptation} \}, \quad j \in \{\text{Cardinal}, \text{Fixed}, \text{Mutable}\}
-`$
+$$
 
 #### 2.3 Detailed Quantum-Classical Dualism Characteristics of the Twelve Signs
 
@@ -345,9 +345,9 @@ The angular aspects between planets essentially represent interference patterns 
 
 Quantum interference pattern formula:
 
-$`
+$$
 \langle\psi_{\text{Planet A}}|\psi_{\text{Planet B}}\rangle = |\langle\psi_{\text{Planet A}}|\psi_{\text{Planet B}}\rangle|e^{i\theta}
-`$
+$$
 
 Where $`\theta`$ is the planetary aspect angle, determining the type of interference pattern.
 
@@ -355,8 +355,8 @@ Where $`\theta`$ is the planetary aspect angle, determining the type of interfer
 
 Multiple planet combinations (such as Grand Trines, Grand Crosses, etc.) represent complex quantum entanglement network structures:
 
-$`
+$$
 |\psi\rangle_{\text{Planet Combination}} = \sum_{i,j,k} c_{ijk} |\psi_{\text{Planet}_i}\rangle \otimes |\psi_{\text{Planet}_j}\rangle \otimes |\psi_{\text{Planet}_k}\rangle
-`$
+$$
 
 The classicalization effects produced by such composite quantum systems far exceed the simple superposition of individual planets, forming emergent properties.

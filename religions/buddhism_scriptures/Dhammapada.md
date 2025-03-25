@@ -163,37 +163,37 @@ The Dhammapada advocates transcending binary opposition, corresponding to dimens
 
 The core philosophical insights of the Dhammapada can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"诸法意先导"} \Leftrightarrow \mathcal{O} \xrightarrow{\text{经典化}} I_{\text{经典域}} + S_{\text{经典域}}
-`$
+$$
 
-$`
+$$
 \text{"意主意造作"} \Leftrightarrow I_{\text{经典域}} = f(\mathcal{O}), S_{\text{经典域}} = g(\mathcal{O})
-`$
+$$
 
-$`
+$$
 \text{"染污意...苦随彼"} \Leftrightarrow \text{如果} \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} \text{低}, \text{则} S_{\text{总体}} \uparrow
-`$
+$$
 
-$`
+$$
 \text{"清净意...乐随彼"} \Leftrightarrow \text{如果} \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} \text{高}, \text{则} I_{\text{总体}} \uparrow
-`$
+$$
 
-$`
+$$
 \text{"于无所住而生其心"} \Leftrightarrow \mathcal{O} \in |\psi\rangle_{\text{量子域}} \wedge \mathcal{O} \to I_{\text{经典域}}
-`$
+$$
 
-$`
+$$
 \text{"自己是自己的依怙"} \Leftrightarrow \mathcal{D}(\mathcal{O}_i) = f(\mathcal{O}_i), \text{非} f(\mathcal{O}_j), i \neq j
-`$
+$$
 
-$`
+$$
 \text{"虽诵一千言，若无义理"} \Leftrightarrow \text{质量}(I_{\text{少}}) > \text{质量}(I_{\text{多}}), \text{如果} \frac{I_{\text{少}}}{S_{\text{少}}} \gg \frac{I_{\text{多}}}{S_{\text{多}}}
-`$
+$$
 
-$`
+$$
 \text{"胜败两俱舍"} \Leftrightarrow \mathcal{D}(\mathcal{O}) \uparrow \text{当} \mathcal{O} \text{超越二元性时}
-`$
+$$
 
 其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`I`$表示经典知识，$`S`$表示经典熵
 

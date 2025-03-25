@@ -37,13 +37,13 @@
 
 笛卡尔的心物二元论可视为量子-经典二元性的早期哲学直觉：
 
-$`
+$$
 \text{思维实体（res cogitans）} \sim |\psi\rangle_{\text{量子观察者}}
-`$
+$$
 
-$`
+$$
 \text{广延实体（res extensa）} \sim I_{\text{经典客体}}
-`$
+$$
 
 笛卡尔区分的不可分割、非空间的思维实体与可分割、空间化的物质实体，从量子经典二元论看，对应了量子观察者与经典观察对象的本质区别。笛卡尔无法解释的心物交互问题（松果体理论），在量子经典二元论中可理解为量子-经典界面的交互机制。思维实体的不确定性与自由性对应量子特性，而物质世界的确定性与可预测性则对应经典特性。
 
@@ -51,9 +51,9 @@ $`
 
 笛卡尔的"我思故我在"揭示了量子观察者的自指认知特性：
 
-$`
+$$
 \text{怀疑} \rightarrow \text{思维存在} \rightarrow \text{观察者确证}
-`$
+$$
 
 "我思故我在"作为方法怀疑中唯一不可怀疑的命题，揭示了观察者无法完全客体化自身的本质特性。从量子经典二元论看，这反映了量子观察者的自指特性——观察者可以怀疑任何经典对象，却无法完全怀疑自身作为观察者的存在，因为怀疑本身已经确认了观察者的存在。这种无法被经典化的自我意识恰是量子观察者的核心特征。
 
@@ -61,9 +61,9 @@ $`
 
 笛卡尔的方法怀疑可理解为一种系统性的解经典化过程：
 
-$`
+$$
 I_{\text{既有经典知识}} \xrightarrow{\text{方法怀疑}} |\psi\rangle_{\text{开放可能性}} \xrightarrow{\text{重建}} I_{\text{清晰明确知识}}
-`$
+$$
 
 笛卡尔通过系统性怀疑，暂时悬置所有既有知识的确定性，创造一种认知的"零点"状态，然后从不可怀疑的基础重建知识体系。从量子经典二元论看，这正是一个解除既有经典化结构（解经典化），回到更开放的量子可能性状态，再建立新的、更优的经典化结构的过程。这种方法论对应量子经典二元论中的经典化循环优化机制。
 
@@ -71,9 +71,9 @@ I_{\text{既有经典知识}} \xrightarrow{\text{方法怀疑}} |\psi\rangle_{\t
 
 笛卡尔的明晰判别法反映了优化经典化的基本标准：
 
-$`
+$$
 |\psi\rangle_{\text{认知可能性}} \xrightarrow{\text{明晰判别}} I_{\text{优质经典知识}} + S_{\text{最小认知熵}}
-`$
+$$
 
 笛卡尔主张只接受清晰明确（clear and distinct）的观念作为可靠知识，这实质上是为经典化过程设立优化标准。从量子经典二元论看，"清晰明确"的标准追求的是最低认知熵的经典化结果——精确、无歧义、内在一致。笛卡尔的这一标准导向经典化过程的高效率和低噪声，是科学知识形成的关键条件。
 
@@ -81,9 +81,9 @@ $`
 
 笛卡尔的天赋观念理论揭示了先验经典化结构的存在：
 
-$`
+$$
 |\psi\rangle_{\text{经验输入}} \xrightarrow{\text{天赋观念结构}} I_{\text{组织化知识}}
-`$
+$$
 
 笛卡尔认为某些基本观念（如上帝、完美、无限等）不来自经验，而是心灵天生具备的。从量子经典二元论看，这对应于观察者系统预设的经典化模式——将量子信息转化为经典认知的先天结构。这些先验结构不是从外部获取的，而是系统自身用于组织经验的基本框架，使信息经典化成为可能。
 
@@ -91,9 +91,9 @@ $`
 
 笛卡尔的机械论宇宙观对应经典域的决定论特性：
 
-$`
+$$
 I_{\text{初始状态}} \xrightarrow{\text{机械因果律}} I_{\text{后续状态}} \text{ with } S_{\text{不确定性}} \approx 0
-`$
+$$
 
 笛卡尔将物质世界视为精密机器，遵循确定的因果律。从量子经典二元论看，这精确描述了经典域的特性——确定性、可预测性和连续性。然而，笛卡尔无法解释自由意志与机械决定论的矛盾，这在量子经典二元论中可通过量子域的非确定性与经典域的表观确定性共存得到解释。笛卡尔区分的思维自由与物质机械，恰好对应了量子-经典二元结构。
 
@@ -103,13 +103,13 @@ I_{\text{初始状态}} \xrightarrow{\text{机械因果律}} I_{\text{后续状�
 
 Descartes' mind-body dualism can be viewed as an early philosophical intuition of quantum-classical duality:
 
-$`
+$$
 \text{Thinking Substance (res cogitans)} \sim |\psi\rangle_{\text{Quantum Observer}}
-`$
+$$
 
-$`
+$$
 \text{Extended Substance (res extensa)} \sim I_{\text{Classical Object}}
-`$
+$$
 
 Descartes' distinction between indivisible, non-spatial thinking substance and divisible, spatial material substance corresponds, from a Quantum-Classical Dualism perspective, to the essential difference between quantum observers and classical observed objects. The mind-body interaction problem (pineal gland theory) that Descartes could not solve can be understood as the interaction mechanism at the quantum-classical interface. The indeterminacy and freedom of the thinking substance corresponds to quantum properties, while the determinacy and predictability of the material world corresponds to classical properties.
 
@@ -117,9 +117,9 @@ Descartes' distinction between indivisible, non-spatial thinking substance and d
 
 Descartes' "cogito ergo sum" reveals the self-referential cognitive characteristic of quantum observers:
 
-$`
+$$
 \text{Doubt} \rightarrow \text{Existence of Thought} \rightarrow \text{Observer Confirmation}
-`$
+$$
 
 "I think, therefore I am," as the only indubitable proposition in methodical doubt, reveals the essential characteristic that an observer cannot completely objectify itself. From a Quantum-Classical Dualism perspective, this reflects the self-referential nature of quantum observers—an observer can doubt any classical object but cannot completely doubt its own existence as an observer, as the act of doubting itself confirms the observer's existence. This self-consciousness that cannot be completely classicalized is precisely the core characteristic of quantum observers.
 
@@ -127,9 +127,9 @@ $`
 
 Descartes' methodical doubt can be understood as a systematic declassicalization process:
 
-$`
+$$
 I_{\text{Existing Classical Knowledge}} \xrightarrow{\text{Methodical Doubt}} |\psi\rangle_{\text{Open Possibilities}} \xrightarrow{\text{Reconstruction}} I_{\text{Clear and Distinct Knowledge}}
-`$
+$$
 
 Through systematic doubt, Descartes temporarily suspends the certainty of all existing knowledge, creating a cognitive "zero point" state, then rebuilds the knowledge system from an indubitable foundation. From a Quantum-Classical Dualism perspective, this is precisely a process of removing existing classicalization structures (declassicalization), returning to a more open state of quantum possibilities, and then establishing new, more optimal classicalization structures. This methodology corresponds to the classicalization cyclic optimization mechanism in Quantum-Classical Dualism.
 
@@ -137,9 +137,9 @@ Through systematic doubt, Descartes temporarily suspends the certainty of all ex
 
 Descartes' clarity and distinctness criterion reflects the basic standards for optimized classicalization:
 
-$`
+$$
 |\psi\rangle_{\text{Cognitive Possibilities}} \xrightarrow{\text{Clarity and Distinctness}} I_{\text{Quality Classical Knowledge}} + S_{\text{Minimal Cognitive Entropy}}
-`$
+$$
 
 Descartes advocates accepting only clear and distinct ideas as reliable knowledge, which is essentially establishing optimization standards for the classicalization process. From a Quantum-Classical Dualism perspective, the "clear and distinct" standard pursues classicalization results with minimal cognitive entropy—precise, unambiguous, and internally consistent. This standard leads to high efficiency and low noise in the classicalization process, a key condition for the formation of scientific knowledge.
 
@@ -147,9 +147,9 @@ Descartes advocates accepting only clear and distinct ideas as reliable knowledg
 
 Descartes' theory of innate ideas reveals the existence of a priori classicalization structures:
 
-$`
+$$
 |\psi\rangle_{\text{Experiential Input}} \xrightarrow{\text{Innate Idea Structures}} I_{\text{Organized Knowledge}}
-`$
+$$
 
 Descartes believed that certain basic ideas (such as God, perfection, infinity) do not come from experience but are innately possessed by the mind. From a Quantum-Classical Dualism perspective, this corresponds to the preset classicalization patterns of the observer system—innate structures for transforming quantum information into classical cognition. These a priori structures are not acquired from the outside but are the fundamental frameworks of the system itself for organizing experience, making information classicalization possible.
 
@@ -157,9 +157,9 @@ Descartes believed that certain basic ideas (such as God, perfection, infinity) 
 
 Descartes' mechanistic view of the universe corresponds to the deterministic nature of the classical domain:
 
-$`
+$$
 I_{\text{Initial State}} \xrightarrow{\text{Mechanical Causality}} I_{\text{Subsequent State}} \text{ with } S_{\text{Uncertainty}} \approx 0
-`$
+$$
 
 Descartes viewed the material world as a precise machine following determined causal laws. From a Quantum-Classical Dualism perspective, this precisely describes the characteristics of the classical domain—determinacy, predictability, and continuity. However, Descartes could not resolve the contradiction between free will and mechanical determinism, which can be explained in Quantum-Classical Dualism through the coexistence of quantum domain non-determinism and classical domain apparent determinism. Descartes' distinction between mental freedom and material mechanism precisely corresponds to the quantum-classical dual structure.
 

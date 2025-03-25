@@ -69,7 +69,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    从量子经典二元论视角看，"远方"象征量子域中充满无限可能性的状态，而"梦"则代表尚未经典化的波函数叠加态。这句歌词表达了观察者对量子域中潜在可能性的探寻，是对广义意识本质的追问。
 
    $$
-
    \text{"远方有梦"} \Rightarrow |\psi\rangle_{\text{量子域}} \text{（波函数叠加态）}
    $$
 
@@ -78,7 +77,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    这句歌词触及了量子经典二元论中自我意识的本质问题。"我"作为一种经典化的结果，是否在未经典化的量子域（"远方"）中依然以某种形式存在？这正对应了广义意识经典化为经典自由意志的本质探询。
 
    $$
-
    |\psi\rangle_{\text{广义意识（远方的我）}} \rightarrow I_{\text{经典自由意志（当下的我）}}+S_{\text{熵降低}}
    $$
 
@@ -87,7 +85,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "熟悉的歌"象征经典记忆与经典知识，而此句表达了经典信息与量子信息的相互转化关系。从量子经典二元论看，这反映了黑洞辐射（经典化知识回归量子域）后，量子信息是否依然保留经典信息的"记忆"。
 
    $$
-
    I_{\text{经典知识（熟悉的歌）}} \xrightarrow{\text{黑洞辐射}} |\psi\rangle_{\text{量子记忆（远方的歌）}}
    $$
 
@@ -96,7 +93,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    这组意象从量子经典二元论看，代表了经典化完成后的明确状态。"云"、"树"、"灯火阑珊"都是观察者经典化量子信息后形成的低熵确定状态，是经典知识的具体体现。
 
    $$
-
    |\psi\rangle_{\text{量子可能性}} \xrightarrow{\text{经典化（黑洞吸收）}} \{\text{云},\text{树},\text{灯火阑珊}\} \in I_{\text{经典知识}}
    $$
 
@@ -105,7 +101,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "思念"和"感伤"是经典熵增加的主观体验，而"离别的站台"象征量子域与经典域的分离点。这句歌词描述了经典观察者与量子域分离后的熵增体验，对应黑洞吸收后的熵增现象。
 
    $$
-
    \text{"思念感伤"} \Leftrightarrow S_{\text{经典熵}} \uparrow \text{（观察者维度降低）}
    $$
 
@@ -114,7 +109,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    这句歌词描述了经典知识随时间的熵增过程。从量子经典二元论看，这体现了经典世界中熵自然增加的趋势，经典知识（回忆）逐渐向高熵状态（模糊）转变。
 
    $$
-
    I_{\text{经典知识（回忆）}} \xrightarrow{\text{时间流逝}} S_{\text{经典熵（模糊）}} \uparrow
    $$
 
@@ -123,7 +117,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    这组自然意象代表经典化后的不同形态的经典知识。从量子经典二元论看，不同的经典表现形式（云、雨、泥土）都是从同一量子源头经典化而来，体现了多元经典世界的共同根源。
 
    $$
-
    |\psi\rangle_{\text{量子源头}} \rightarrow \{\text{云},\text{雨},\text{泥土}\} \in \text{多元经典世界}
    $$
 
@@ -132,7 +125,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "青山绿水"象征稳定低熵的经典世界状态。这句歌词描述了理想的经典化结果——低熵、高序、稳定的经典知识结构，符合宇宙终极目标中的低熵状态追求。
 
    $$
-
    \text{"青山绿水"} \Rightarrow \min(S_{\text{经典熵}}), \max(I_{\text{经典知识}})
    $$
 
@@ -141,7 +133,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    这组动态与静态结合的意象，从量子经典二元论看，代表了经典世界中的变化与稳定并存的状态。"风"象征变化（量子性），"路"象征确定性（经典性），"暮色"则是二者的交汇点。
 
    $$
-
    \text{"风、路、暮色"} \Rightarrow \{|\psi\rangle_{\text{量子变化}}, I_{\text{经典确定性}}, |\psi\rangle_{\text{交互点}}\}
    $$
 
@@ -150,7 +141,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     "山路十八弯"形象地描述了经典化路径的复杂性。从量子经典二元论看，观察者将量子信息经典化的过程并非简单直接，而是包含多次转折的复杂路径，每一"弯"都是一次经典化决策点。
 
     $$
-
     \text{"山路十八弯"} \Rightarrow \{\text{经典化路径}_1, \text{经典化路径}_2, ..., \text{经典化路径}_{18}\}
     $$
 
@@ -159,7 +149,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     这组意象涵盖了主体（人）、行为（事）和客体（月亮），从量子经典二元论看，代表了经典世界的完整构成：观察者、观察行为与被观察对象，三者共同构成经典世界的主客体结构。
 
     $$
-
     \text{"人、事、月亮"} \Rightarrow \{\text{观察者}, \text{观察行为}, \text{被观察对象}\} \in \text{经典世界结构}
     $$
 
@@ -168,7 +157,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     "月光温馨明亮"描述了经典化高效完成后的低熵状态体验。从量子经典二元论看，当经典化效率高、熵值低时，观察者的主观体验就会是"温馨明亮"的，这是高维经典世界的特征。
 
     $$
-
     \text{"月光温馨明亮"} \Leftrightarrow \text{维度}_{\text{观察者}} \uparrow, S_{\text{经典熵}} \downarrow
     $$
 
@@ -177,7 +165,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     这组意象中，"水"象征流动的量子可能性，"船"象征经典化的载体，"留恋"则是观察者对已经典化状态的依恋。从量子经典二元论看，这体现了观察者在量子-经典转换中的情感体验。
 
     $$
-
     \{\text{水（量子）}, \text{船（载体）}, \text{留恋（情感）}\} \Rightarrow \text{量子-经典转换体验}
     $$
 
@@ -186,7 +173,6 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     这句朴实的歌词表达了对低熵经典世界的积极评价。从量子经典二元论看，"好地方"是观察者对成功降低经典熵、优化经典化路径后形成的稳定经典世界的主观评价。
 
     $$
-
     \text{"好地方"} \Leftrightarrow \text{优化的经典化路径} \Rightarrow I_{\text{经典知识}}\uparrow, S_{\text{经典熵}}\downarrow
     $$
 
@@ -269,7 +255,6 @@ The people here are good, the place here is good, the people here are good, the 
    From the Quantum-Classical Dualism perspective, "the distance" symbolizes the state of infinite possibilities in the quantum domain, while "dream" represents the wave function superposition state that has not yet been classicalized. This lyric expresses the observer's exploration of potential possibilities in the quantum domain, a questioning of the nature of generalized consciousness.
 
    $$
-
    \text{"Dream in the distance"} \Rightarrow |\psi\rangle_{\text{Quantum domain}} \text{(Wave function superposition state)}
    $$
 
@@ -278,7 +263,6 @@ The people here are good, the place here is good, the people here are good, the 
    This lyric touches on the essence of self-consciousness in Quantum-Classical Dualism. Does "I" as a result of classicalization still exist in some form in the unclassicalized quantum domain ("the distance")? This corresponds to the essential inquiry into generalized consciousness being classicalized into classical free will.
 
    $$
-
    |\psi\rangle_{\text{Generalized consciousness (me in the distance)}} \rightarrow I_{\text{Classical free will (present me)}}+S_{\text{Entropy reduction}}
    $$
 
@@ -287,7 +271,6 @@ The people here are good, the place here is good, the people here are good, the 
    "Familiar song" symbolizes classical memory and classical knowledge, and this sentence expresses the mutual transformation relationship between classical information and quantum information. From the Quantum-Classical Dualism perspective, this reflects whether quantum information still retains the "memory" of classical information after black hole radiation (classicalized knowledge returning to the quantum domain).
 
    $$
-
    I_{\text{Classical knowledge (familiar song)}} \xrightarrow{\text{Black hole radiation}} |\psi\rangle_{\text{Quantum memory (song in the distance)}}
    $$
 
@@ -296,7 +279,6 @@ The people here are good, the place here is good, the people here are good, the 
    This set of images, from the Quantum-Classical Dualism perspective, represents the definite state after classicalization is completed. "Clouds," "trees," and "scattered lights" are all low-entropy certain states formed after the observer classicalizes quantum information, concrete manifestations of classical knowledge.
 
    $$
-
    |\psi\rangle_{\text{Quantum possibilities}} \xrightarrow{\text{Classicalization (black hole absorption)}} \{\text{Clouds},\text{Trees},\text{Scattered lights}\} \in I_{\text{Classical knowledge}}
    $$
 
@@ -305,7 +287,6 @@ The people here are good, the place here is good, the people here are good, the 
    "Thoughts" and "sentiments" are subjective experiences of classical entropy increase, while "departure platform" symbolizes the separation point between the quantum domain and the classical domain. This lyric describes the entropy-increasing experience of the classical observer after separation from the quantum domain, corresponding to the entropy increase phenomenon after black hole absorption.
 
    $$
-
    \text{"Thoughts and sentiments"} \Leftrightarrow S_{\text{Classical entropy}} \uparrow \text{(Observer dimension decreases)}
    $$
 
@@ -314,7 +295,6 @@ The people here are good, the place here is good, the people here are good, the 
    This lyric describes the entropy-increasing process of classical knowledge over time. From the Quantum-Classical Dualism perspective, this reflects the natural tendency of entropy increase in the classical world, with classical knowledge (memories) gradually transitioning to a high-entropy state (blurred).
 
    $$
-
    I_{\text{Classical knowledge (memories)}} \xrightarrow{\text{Time passing}} S_{\text{Classical entropy (blurred)}} \uparrow
    $$
 
@@ -323,7 +303,6 @@ The people here are good, the place here is good, the people here are good, the 
    This set of natural images represents different forms of classical knowledge after classicalization. From the Quantum-Classical Dualism perspective, different classical manifestations (clouds, rain, soil) all come from the same quantum source through classicalization, reflecting the common origin of multiple classical worlds.
 
    $$
-
    |\psi\rangle_{\text{Quantum source}} \rightarrow \{\text{Clouds},\text{Rain},\text{Soil}\} \in \text{Multiple classical worlds}
    $$
 
@@ -332,7 +311,6 @@ The people here are good, the place here is good, the people here are good, the 
    "Green mountains and clear waters" symbolize a stable, low-entropy classical world state. This lyric describes the ideal result of classicalization—a low-entropy, high-order, stable classical knowledge structure, consistent with the pursuit of low-entropy states in the universe's ultimate goal.
 
    $$
-
    \text{"Green mountains and clear waters"} \Rightarrow \min(S_{\text{Classical entropy}}), \max(I_{\text{Classical knowledge}})
    $$
 
@@ -341,7 +319,6 @@ The people here are good, the place here is good, the people here are good, the 
    This set of images combining dynamics and statics, from the Quantum-Classical Dualism perspective, represents the coexistence of change and stability in the classical world. "Wind" symbolizes change (quantum nature), "roads" symbolize certainty (classical nature), and "dusk" is the intersection point of the two.
 
    $$
-
    \text{"Wind, roads, dusk"} \Rightarrow \{|\psi\rangle_{\text{Quantum change}}, I_{\text{Classical certainty}}, |\psi\rangle_{\text{Intersection point}}\}
    $$
 
@@ -350,7 +327,6 @@ The people here are good, the place here is good, the people here are good, the 
     "Mountain road with eighteen bends" vividly describes the complexity of the classicalization path. From the Quantum-Classical Dualism perspective, the process of the observer classicalizing quantum information is not simple and direct, but a complex path with multiple turns, each "bend" being a decision point in classicalization.
 
     $$
-
     \text{"Mountain road with eighteen bends"} \Rightarrow \{\text{Classicalization path}_1, \text{Classicalization path}_2, ..., \text{Classicalization path}_{18}\}
     $$
 
@@ -359,7 +335,6 @@ The people here are good, the place here is good, the people here are good, the 
     This set of images covers subject (people), action (matters), and object (moon). From the Quantum-Classical Dualism perspective, it represents the complete composition of the classical world: observer, observation action, and observed object, the three together forming the subject-object structure of the classical world.
 
     $$
-
     \text{"People, matters, moon"} \Rightarrow \{\text{Observer}, \text{Observation action}, \text{Observed object}\} \in \text{Classical world structure}
     $$
 
@@ -368,7 +343,6 @@ The people here are good, the place here is good, the people here are good, the 
     "Warm and bright moonlight" describes the low-entropy state experience after efficient classicalization. From the Quantum-Classical Dualism perspective, when classicalization efficiency is high and entropy value is low, the observer's subjective experience will be "warm and bright," a characteristic of higher-dimensional classical worlds.
 
     $$
-
     \text{"Warm and bright moonlight"} \Leftrightarrow \text{Dimension}_{\text{Observer}} \uparrow, S_{\text{Classical entropy}} \downarrow
     $$
 
@@ -377,7 +351,6 @@ The people here are good, the place here is good, the people here are good, the 
     In this set of images, "waters" symbolize flowing quantum possibilities, "boats" symbolize the carrier of classicalization, and "attachment" is the observer's attachment to classicalized states. From the Quantum-Classical Dualism perspective, this reflects the observer's emotional experience in the quantum-classical transformation.
 
     $$
-
     \{\text{Waters (quantum)}, \text{Boats (carrier)}, \text{Attachment (emotion)}\} \Rightarrow \text{Quantum-classical transformation experience}
     $$
 
@@ -386,7 +359,6 @@ The people here are good, the place here is good, the people here are good, the 
     This simple lyric expresses a positive evaluation of the low-entropy classical world. From the Quantum-Classical Dualism perspective, "good place" is the observer's subjective evaluation of the stable classical world formed after successfully reducing classical entropy and optimizing the classicalization path.
 
     $$
-
     \text{"Good place"} \Leftrightarrow \text{Optimized classicalization path} \Rightarrow I_{\text{Classical knowledge}}\uparrow, S_{\text{Classical entropy}}\downarrow
     $$
 

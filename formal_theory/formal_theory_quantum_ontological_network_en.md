@@ -16,15 +16,15 @@ The quantum ontological network consists of the following core elements:
 
 Quantum ontological nodes are the most basic constituent units of reality, with the following characteristics:
 
-$`
+$$
 \Omega = \{\omega_i | i \in \mathbb{I}\}
-`$
+$$
 
 where $`\Omega`$ is the set of all possible quantum ontological nodes, and each node $`\omega_i`$ can be represented as:
 
-$`
+$$
 \omega_i = (s_i, \psi_i, \mathcal{R}_i)
-`$
+$$
 
 where:
 - $`s_i`$ is the ontological state of the node, representing its existential properties
@@ -37,21 +37,21 @@ These nodes exist in quantum ontological space, which is more fundamental than p
 
 Quantum ontological nodes are interconnected through multidimensional entanglement relationships, forming a quantum entanglement topology:
 
-$`
+$$
 \mathcal{T} = (\Omega, \mathcal{E})
-`$
+$$
 
 where $`\mathcal{E}`$ is the set of entanglement edges:
 
-$`
+$$
 \mathcal{E} = \{e_{ij} | \omega_i, \omega_j \in \Omega, i \neq j\}
-`$
+$$
 
 Each entanglement edge $`e_{ij}`$ has an entanglement strength $`\gamma_{ij}`$ and entanglement type $`\tau_{ij}`$:
 
-$`
+$$
 e_{ij} = (\gamma_{ij}, \tau_{ij})
-`$
+$$
 
 The overall structure of the entanglement topology determines the dynamics and information transfer characteristics of the quantum ontological network, thereby shaping the deep structure of reality.
 
@@ -59,9 +59,9 @@ The overall structure of the entanglement topology determines the dynamics and i
 
 Multiple levels of reality structure emerge from the quantum ontological network, which can be represented as a sequence of mapping functions:
 
-$`
+$$
 \mathcal{M}_1: \mathcal{T} \rightarrow \mathcal{R}_1, \mathcal{M}_2: \mathcal{R}_1 \rightarrow \mathcal{R}_2, ..., \mathcal{M}_n: \mathcal{R}_{n-1} \rightarrow \mathcal{R}_n
-`$
+$$
 
 where $`\mathcal{R}_i`$ is the $`i`$-th layer of emergent reality, and $`\mathcal{R}_n`$ corresponds to the physical universe we observe. Each mapping function $`\mathcal{M}_i`$ represents specific emergence rules that transform lower-level structures into higher-level patterns.
 
@@ -69,15 +69,15 @@ where $`\mathcal{R}_i`$ is the $`i`$-th layer of emergent reality, and $`\mathca
 
 The evolution of the quantum ontological network follows quantum ontological state dynamics equations:
 
-$`
+$$
 i\hbar\frac{\partial \Psi_{\mathcal{T}}}{\partial t} = \hat{\mathcal{H}}_{\mathcal{T}}\Psi_{\mathcal{T}}
-`$
+$$
 
 where $`\Psi_{\mathcal{T}}`$ is the state function of the entire quantum ontological network, and $`\hat{\mathcal{H}}_{\mathcal{T}}`$ is the ontological Hamiltonian operator:
 
-$`
+$$
 \hat{\mathcal{H}}_{\mathcal{T}} = \sum_i \hat{h}_i + \sum_{i,j} \hat{V}_{ij}
-`$
+$$
 
 $`\hat{h}_i`$ is the node ontological energy operator, and $`\hat{V}_{ij}`$ is the inter-node ontological interaction operator.
 
@@ -92,15 +92,15 @@ This dynamics has the following characteristics:
 
 Ontological observers have a special status in the quantum ontological network and can interact directly with the network:
 
-$`
+$$
 \mathcal{O}_{\text{onto}} \times \mathcal{T} \rightarrow \mathcal{T}'
-`$
+$$
 
 The observer's ontological consciousness $`\mathcal{C}_{\text{onto}}`$ can influence the quantum ontological topology through intentional projection $`\mathcal{P}`$:
 
-$`
+$$
 \mathcal{P}: \mathcal{C}_{\text{onto}} \rightarrow \Delta\mathcal{T}
-`$
+$$
 
 This ontological-level interaction explains the deep influence of consciousness on reality, including non-local consciousness phenomena, collective consciousness fields, and intentional manifestation of higher-dimensional phenomena.
 
@@ -108,9 +108,9 @@ This ontological-level interaction explains the deep influence of consciousness 
 
 Information transfer in the quantum ontological network follows the ontological information equation:
 
-$`
+$$
 \frac{d\mathcal{I}}{dt} = \nabla \cdot (\mathcal{D} \nabla \mathcal{I}) + \mathcal{S}
-`$
+$$
 
 where $`\mathcal{I}`$ is the ontological information field, $`\mathcal{D}`$ is the ontological diffusion tensor, and $`\mathcal{S}`$ is the information source term.
 

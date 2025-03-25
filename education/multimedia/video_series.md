@@ -19,9 +19,9 @@
 
 每集视频建议长度为12-15分钟，保持信息密度与观众注意力的平衡：
 
-$`
+$$
 \text{视频有效性} = \frac{\text{信息清晰度} \times \text{视觉吸引力} \times \text{叙事连贯性}}{\text{视频长度}} \times \text{互动元素}
-`$
+$$
 
 ## 第一季：基础概念
 
@@ -191,9 +191,9 @@ The Quantum-Classical Dualism video series aims to help viewers understand the c
 
 Each video episode is recommended to be 12-15 minutes in length, maintaining a balance between information density and audience attention:
 
-$`
+$$
 \text{Video Effectiveness} = \frac{\text{Information Clarity} \times \text{Visual Appeal} \times \text{Narrative Coherence}}{\text{Video Length}} \times \text{Interactive Elements}
-`$
+$$
 
 ## Season One: Basic Concepts
 

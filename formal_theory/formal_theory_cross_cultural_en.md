@@ -36,9 +36,9 @@ This mapping indicates that, despite different expressions, various cultural tra
 
 Based on the above correspondences, a metaphysical integration framework can be established:
 
-$`
+$$
 \mathcal{R} = (\Omega_Q, \Omega_C, \mathcal{I}, \mathcal{O}, \mathcal{T})
-`$
+$$
 
 Where:
 - $`\Omega_Q`$ - Quantum domain (possibility, potentiality, infinity)
@@ -78,9 +78,9 @@ The knowledge spectrum revealed by quantum-classical dualism includes:
 
 This spectrum can be expressed as:
 
-$`
+$$
 K = \alpha K_Q + \beta K_I + \gamma K_C
-`$
+$$
 
 Where $`\alpha`$, $`\beta`$, $`\gamma`$ are weights of different knowledge types, varying with culture and knowledge domain.
 
@@ -97,9 +97,9 @@ Dualism integrates cognitive methods from different traditions:
 
 Synthetic methods can be expressed as functional mapping:
 
-$`
+$$
 M: (K_1, K_2, ..., K_n) \to K_{\text{integrated}}
-`$
+$$
 
 Where $`K_i`$ represents knowledge systems from different cultural traditions, and $`K_{\text{integrated}}`$ is new knowledge integrated through the dualistic framework.
 
@@ -123,9 +123,9 @@ Dualism reveals the quantum-classical dual origins of values:
 
 Value integration formula:
 
-$`
+$$
 V_{\text{integrated}} = f(V_Q, V_C) = \sum_i w_i V_i + \sum_{i,j} w_{ij}(V_i \cap V_j)
-`$
+$$
 
 Where $`V_Q`$ and $`V_C`$ are quantum and classical value sets respectively, and $`w_i`$ and $`w_{ij}`$ are weights for single and intersecting values.
 
@@ -145,9 +145,9 @@ The integrated ethical decision model combines:
 
 Decision function:
 
-$`
+$$
 D = \alpha \cdot E_Q(A) + \beta \cdot E_C(A) + \gamma \cdot E_I(A, \text{environment})
-`$
+$$
 
 Where $`E_Q`$, $`E_C`$, $`E_I`$ are quantum, classical, and interface ethical evaluation functions respectively, with coefficients $`\alpha`$, $`\beta`$, $`\gamma`$ dynamically adjusted according to context.
 
@@ -184,9 +184,9 @@ Quantum-classical dualism provides a unified perspective for understanding socia
 
 Social system integration equation:
 
-$`
+$$
 S = f(S_Q, S_C) = \int d\mu(x) \phi_Q(x) \phi_C(x)
-`$
+$$
 
 Where $`\phi_Q`$ and $`\phi_C`$ are quantum and classical state functions of the social system respectively, and $`d\mu(x)`$ is the measure of cultural-historical space.
 
@@ -211,9 +211,9 @@ Political philosophy integration under the dualistic framework:
 
 Political integration function:
 
-$`
+$$
 P_{\text{integrated}} = \omega_Q \cdot P_Q + \omega_C \cdot P_C + \omega_I \cdot P_I(P_Q, P_C)
-`$
+$$
 
 Where $`P_Q`$, $`P_C`$ are quantum and classical components of the political system, $`P_I`$ is the harmonizing interface, and $`\omega`$ coefficients adjust according to social environment and developmental stage.
 
@@ -241,9 +241,9 @@ Dualism reveals common trajectories of cross-cultural consciousness development:
 
 Consciousness development function:
 
-$`
+$$
 C(t) = \alpha(t) \cdot C_Q(t) + \beta(t) \cdot C_C(t) + \gamma(t) \cdot C_I(t)
-`$
+$$
 
 Where $`C_Q`$, $`C_C`$, $`C_I`$ are quantum, classical, and interface consciousness components respectively, with coefficients $`\alpha`$, $`\beta`$, $`\gamma`$ varying with cultural developmental stages.
 
@@ -259,9 +259,9 @@ The dualistic framework integrates consciousness technologies from different tra
 
 Integrated technology efficacy function:
 
-$`
+$$
 E(T) = \int_{\Omega} \phi_Q(x) \cdot \phi_C(x) \cdot \phi_I(x) \cdot T(x) dx
-`$
+$$
 
 Where $`T(x)`$ is the technology application function, and $`\phi`$ functions are state distributions in different consciousness domains.
 
@@ -299,9 +299,9 @@ How dualism reconciles Eastern and Western perspectives on mind-body relations:
    - Scale-dependency of mind-body relations
    - Multi-level bidirectional causal networks
 
-$`
+$$
 M-B = \oint_{\mathcal{I}} \psi_M \cdot \phi_B \cdot d\mathcal{I}
-`$
+$$
 
 Where the interface integral reveals the deep interconnection of mind-body relations.
 
@@ -318,9 +318,9 @@ Dualism reconciles different views of freedom:
    - Multi-level choice space model
    - Emergent autonomy within causal networks
 
-$`
+$$
 F = \nabla_Q A - \nabla_C C + \Delta_I
-`$
+$$
 
 Where $`\nabla_Q A`$ is the quantum possibility gradient, $`\nabla_C C`$ is the classical constraint gradient, and $`\Delta_I`$ is the interface freedom degree.
 
@@ -337,9 +337,9 @@ Dualism unifies aesthetic views:
    - Observer-participatory creativity in aesthetic experience
    - Resonance as the core mechanism of art
 
-$`
+$$
 B = \int_{\Omega_Q \times \Omega_C} \rho_Q(x) \cdot \rho_C(y) \cdot R(x,y) dxdy
-`$
+$$
 
 Where $`R(x,y)`$ is the quantum-classical resonance function determining aesthetic intensity.
 

@@ -52,9 +52,9 @@ The Acts of the Apostles is a historical work in the New Testament that connects
 
 ### 圣灵降临的量子纠缠方程
 
-$`
+$$
 |\psi_{\text{教会}}\rangle = \frac{1}{\sqrt{N}}\sum_{i=1}^{N}|\psi_{\text{信徒}_i}\rangle \otimes |\psi_{\text{圣灵}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{教会}}\rangle`$ 表示教会的整体量子态
@@ -65,9 +65,9 @@ $`
 
 ### 福音传播的经典化波动方程
 
-$`
+$$
 \frac{\partial^2 E(x,t)}{\partial t^2} = v^2 \nabla^2 E(x,t) - R(x,t)E(x,t)
-`$
+$$
 
 其中：
 - $`E(x,t)`$ 是位置x和时间t处的福音传播强度

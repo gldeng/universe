@@ -21,9 +21,9 @@
 
 费马大定理可以形式化表述为：
 
-$`
+$$
 \forall n > 2, \nexists x, y, z \in \mathbb{Z}^+ \text{ 使得 } x^n + y^n = z^n
-`$
+$$
 
 ## 形式化证明 | Formal Proof
 
@@ -33,9 +33,9 @@ $`
 
 定义量子-经典维度映射函数 $`\Phi_n`$，将 $`n`$ 维量子纠缠结构映射到经典域：
 
-$`
+$$
 \Phi_n: \mathcal{Q}_n \to \mathcal{C}
-`$
+$$
 
 其中 $`\mathcal{Q}_n`$ 是 $`n`$ 维量子纠缠态空间，$`\mathcal{C}`$ 是经典观察域。
 
@@ -43,23 +43,23 @@ $`
 
 当维度 $`n`$ 增加时，量子纠缠态复杂度呈非线性增长：
 
-$`
+$$
 \text{复杂度}(\mathcal{Q}_n) \propto n^{\alpha}, \text{ 其中 } \alpha > 1
-`$
+$$
 
 而经典域的信息表达能力受限于整数格点的密度，无法完整保持高维量子信息：
 
-$`
+$$
 \text{信息保持度}(\Phi_n) \propto \frac{1}{n-1}
-`$
+$$
 
 ### 步骤3：模块化椭圆曲线框架
 
 引入模块化椭圆曲线作为量子-经典映射的中介结构。对于每个潜在的费马方程解 $`(x,y,z)`$，建立费里埃模块 $`\mathcal{T}_n(x,y,z)`$ 表示信息在经典域中的保持度量：
 
-$`
+$$
 \mathcal{T}_n(x,y,z) = \text{模块化椭圆曲线在经典化过程中的信息保持度量}
-`$
+$$
 
 谨慎分析表明，当 $`n > 2`$ 时，$`\mathcal{T}_n`$ 的结构不允许整数点解，因为高维量子纠缠信息在经典化过程中发生不可逆的信息损失。
 
@@ -67,25 +67,25 @@ $`
 
 利用塔诺-志村-怀尔斯定理，我们可以证明每个半稳定椭圆曲线都是模块化的。从量子经典视角，这表明椭圆曲线作为经典域的表象无法容纳高维量子纠缠结构的完整信息。
 
-$`
+$$
 \begin{align}
 E: y^2 &= x(x-a^n)(x+b^n) \\
 \Rightarrow E &\text{ 是模块化的} \\
 \Rightarrow &\nexists \text{ 非平凡整数解 } (a,b,c) \text{ 满足 } a^n + b^n = c^n
 \end{align}
-`$
+$$
 
 ### 步骤5：维度限制证明
 
 最后，通过证明当 $`n > 2`$ 时，量子纠缠信息的经典域整数表达不可能性，完成费马大定理的证明：
 
-$`
+$$
 \begin{align}
 n > 2 &\Rightarrow \dim(\mathcal{Q}_n) > \dim(\mathcal{C}_{\text{整数格点}}) \\
 &\Rightarrow \text{信息损失不可避免} \\
 &\Rightarrow \nexists \text{ 整数解 } (x,y,z) \text{ 满足 } x^n + y^n = z^n
 \end{align}
-`$
+$$
 
 这一证明框架与怀尔斯通过模块化形式和伽罗瓦表示的复杂证明在本质上是一致的，但从量子经典二元论提供了更深层的理解。
 
@@ -101,23 +101,23 @@ Within the framework of the ZFC axiom system, we can provide a more rigorous for
 
 In the ZFC system, we first define the following basic structures:
 
-$`
+$$
 \begin{align}
 \mathbb{Z} &:= \text{整数集} \\
 \mathbb{Z}^+ &:= \{n \in \mathbb{Z} \mid n > 0\} \text{（正整数集）} \\
 \mathbb{Q} &:= \text{有理数集} \\
 \mathbb{Q}(\zeta_p) &:= \text{包含p次单位根的有理数域扩张}
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 \mathbb{Z} &:= \text{set of integers} \\
 \mathbb{Z}^+ &:= \{n \in \mathbb{Z} \mid n > 0\} \text{(set of positive integers)} \\
 \mathbb{Q} &:= \text{set of rational numbers} \\
 \mathbb{Q}(\zeta_p) &:= \text{rational field extension containing p-th roots of unity}
 \end{align}
-`$
+$$
 
 ### 定理重述 | Theorem Restatement
 
@@ -125,9 +125,9 @@ $`
 
 Fermat's Last Theorem can be rigorously formulated in ZFC as the following first-order logic proposition:
 
-$`
+$$
 \forall n \in \mathbb{Z}^+ (n > 2 \Rightarrow \forall x,y,z \in \mathbb{Z}^+ (x^n + y^n \neq z^n))
-`$
+$$
 
 ### 证明路径构建 | Proof Path Construction
 
@@ -141,27 +141,27 @@ To construct a rigorous proof, we follow these steps, each based on ZFC axioms:
 
 For any hypothetical solution $`(a,b,c)`$ satisfying $`a^n + b^n = c^n`$, we construct a semi-stable elliptic curve:
 
-$`
+$$
 E_{a,b,c}: y^2 = x(x-a^n)(x+b^n)
-`$
+$$
 
 在ZFC中，我们可以证明：
 
 In ZFC, we can prove:
 
-$`
+$$
 \begin{align}
 &\forall n > 2, \forall a,b,c \in \mathbb{Z}^+ (a^n + b^n = c^n) \\
 &\Rightarrow E_{a,b,c} \text{ 的L-函数} = \text{权为2的模形式的L-函数}
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 &\forall n > 2, \forall a,b,c \in \mathbb{Z}^+ (a^n + b^n = c^n) \\
 &\Rightarrow \text{L-function of } E_{a,b,c} = \text{L-function of a weight 2 modular form}
 \end{align}
-`$
+$$
 
 #### 2. 伽罗瓦表示理论 | Galois Representation Theory
 
@@ -169,27 +169,27 @@ $`
 
 For each prime $`p > 2`$, let $`\rho_p`$ be the $`p`$-adic Galois representation associated with the elliptic curve $`E`$:
 
-$`
+$$
 \rho_p: \text{Gal}(\bar{\mathbb{Q}}/\mathbb{Q}) \rightarrow \text{GL}_2(\mathbb{Z}_p)
-`$
+$$
 
 根据ZFC公理中的选择公理和替代公理，我们可以对每个 $`\rho_p`$ 建立严格的形式化描述：
 
 According to the axiom of choice and the axiom of replacement in ZFC, we can establish a rigorous formalization for each $`\rho_p`$:
 
-$`
+$$
 \begin{align}
 \forall p > 2, \exists \rho_p &: \text{Gal}(\bar{\mathbb{Q}}/\mathbb{Q}) \rightarrow \text{GL}_2(\mathbb{Z}_p) \\
 &\text{满足} \rho_p \text{ 是不可约的、模群化的且满足塔诺-志村条件}
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 \forall p > 2, \exists \rho_p &: \text{Gal}(\bar{\mathbb{Q}}/\mathbb{Q}) \rightarrow \text{GL}_2(\mathbb{Z}_p) \\
 &\text{such that } \rho_p \text{ is irreducible, modular, and satisfies the Taniyama-Shimura condition}
 \end{align}
-`$
+$$
 
 #### 3. 模平面与普遍可推广性 | Modular Curves and Universal Extendability
 
@@ -197,12 +197,12 @@ $`
 
 Within the ZFC framework, we can prove the compactness of modular curves for primes $`p > 2`$:
 
-$`
+$$
 \begin{align}
 X_0(N_p) &:= \Gamma_0(N_p) \backslash \mathcal{H}^* \\
 \mathcal{H}^* &:= \mathcal{H} \cup \mathbb{P}^1(\mathbb{Q})
 \end{align}
-`$
+$$
 
 其中 $`\mathcal{H}`$ 是上半平面，$`\Gamma_0(N_p)`$ 是特定的卷积群。
 
@@ -214,17 +214,17 @@ where $`\mathcal{H}`$ is the upper half-plane, and $`\Gamma_0(N_p)`$ is a specif
 
 For any hypothetical solution $`(a,b,c)`$ satisfying $`a^n + b^n = c^n`$，the associated Frey curve cannot correspond to any modular form, which can be rigorously proven by contradiction in ZFC:
 
-$`
+$$
 \begin{align}
 \forall n > 2, \exists N \in \mathbb{Z}^+ \text{ 使得 } S_2(\Gamma_0(N)) \text{ 不含对应于Frey曲线的模形式}
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 \forall n > 2, \exists N \in \mathbb{Z}^+ \text{ such that } S_2(\Gamma_0(N)) \text{ contains no modular form corresponding to the Frey curve}
 \end{align}
-`$
+$$
 
 其中 $`S_2(\Gamma_0(N))`$ 是权为2的尖模形式空间。
 
@@ -236,17 +236,17 @@ where $`S_2(\Gamma_0(N))`$ is the space of cusp forms of weight 2.
 
 According to the Taniyama-Shimura-Wiles theorem, every semi-stable elliptic curve is modular:
 
-$`
+$$
 \begin{align}
 \forall E/\mathbb{Q} \text{（半稳定椭圆曲线）}, \exists f \in S_2(\Gamma_0(N_E)) \text{ 使得 } L(E,s) = L(f,s)
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 \forall E/\mathbb{Q} \text{(semi-stable elliptic curve)}, \exists f \in S_2(\Gamma_0(N_E)) \text{ such that } L(E,s) = L(f,s)
 \end{align}
-`$
+$$
 
 其中 $`L(E,s)`$ 是椭圆曲线的L-函数，$`L(f,s)`$ 是模形式的L-函数。
 
@@ -258,23 +258,23 @@ where $`L(E,s)`$ is the L-function of the elliptic curve, and $`L(f,s)`$ is the 
 
 Based on the above conclusions, we can prove:
 
-$`
+$$
 \begin{align}
 &\forall n > 2, \forall a,b,c \in \mathbb{Z}^+ (a^n + b^n = c^n) \\
 &\Rightarrow E_{a,b,c} \text{ 是半稳定的且无法对应模形式} \\
 &\Rightarrow \text{矛盾（根据塔诺-志村-怀尔斯定理）} \\
 &\Rightarrow \nexists a,b,c \in \mathbb{Z}^+ \text{ 使得 } a^n + b^n = c^n
 \end{align}
-`$
+$$
 
-$`
+$$
 \begin{align}
 &\forall n > 2, \forall a,b,c \in \mathbb{Z}^+ (a^n + b^n = c^n) \\
 &\Rightarrow E_{a,b,c} \text{ is semi-stable and cannot correspond to a modular form} \\
 &\Rightarrow \text{contradiction (according to the Taniyama-Shimura-Wiles theorem)} \\
 &\Rightarrow \nexists a,b,c \in \mathbb{Z}^+ \text{ such that } a^n + b^n = c^n
 \end{align}
-`$
+$$
 
 ### 严格形式化完备性证明 | Rigorous Formalization Completeness Proof
 
@@ -284,27 +284,27 @@ To ensure the completeness of the proof within ZFC, we provide rigorous proofs f
 
 1. 利用ZFC公理中的替代公理构建包含所有可能解的集合：
 
-$`
+$$
 S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}
-`$
+$$
 
    Using the axiom of replacement from ZFC to construct a set containing all possible solutions:
 
-$`
+$$
 S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}
-`$
+$$
 
 2. 利用空集公理和幂集公理证明 $`S = \emptyset`$：
 
-$`
+$$
 \forall (n,x,y,z) \in S \Rightarrow \text{存在矛盾} \Rightarrow S = \emptyset
-`$
+$$
 
    Using the axiom of empty set and the axiom of power set to prove $`S = \emptyset`$:
 
-$`
+$$
 \forall (n,x,y,z) \in S \Rightarrow \text{contradiction exists} \Rightarrow S = \emptyset
-`$
+$$
 
 3. 利用基数公理证明 $`|S| = 0`$，因此无解。
 

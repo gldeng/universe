@@ -32,13 +32,13 @@ In the Quantum Universe-Observer framework, social structure is understood as st
 
 Mathematical representation of social structure:
 
-$`
+$$
 \text{社会结构} = \{\text{稳定信息交互模式}_{ij}\} \text{，其中} i,j \text{为社会成员}
-`$
+$$
 
-$`
+$$
 \text{社会制度} = \{\text{集体认可的经典化规则}\}
-`$
+$$
 
 这一解释将社会结构理解为信息交互模式，强调了结构的涌现性、稳定性和对个体行动的引导作用。
 
@@ -70,13 +70,13 @@ In the Quantum Universe-Observer framework, culture is understood as collectivel
 
 Mathematical representation of culture and symbols:
 
-$`
+$$
 \text{文化} = \{\text{共享经典化模式}, \text{共享符号系统}, \text{共享意义结构}\}
-`$
+$$
 
-$`
+$$
 \text{符号} = \text{经典化量子信息的社会标记} = f(\text{信息}, \text{社会约定})
-`$
+$$
 
 这一解释将文化理解为共享的经典化模式，强调了文化在社会信息处理中的核心作用，以及文化差异的认知基础。
 
@@ -108,13 +108,13 @@ In the Quantum Universe-Observer framework, social change is understood as the e
 
 Mathematical representation of social change:
 
-$`
+$$
 \text{社会变迁} = \frac{d(\text{集体经典化模式})}{dt}
-`$
+$$
 
-$`
+$$
 \text{社会发展} = \int_{t_0}^{t_1} \frac{d(\text{信息处理复杂度})}{dt} dt
-`$
+$$
 
 这一解释将社会变迁理解为集体经典化模式的演化，强调了信息、认知和社会结构在变迁过程中的相互作用。
 
@@ -146,13 +146,13 @@ In the Quantum Universe-Observer framework, power and inequality are understood 
 
 Mathematical representation of power and inequality:
 
-$`
+$$
 \text{权力} = \text{控制}(\text{社会信息经典化过程})
-`$
+$$
 
-$`
+$$
 \text{不平等} = \text{差异}(\text{信息获取能力}, \text{信息处理能力}, \text{信息利用能力})
-`$
+$$
 
 这一解释将权力和不平等理解为信息控制的不对称，强调了信息在社会分层中的核心作用，以及减少不平等的信息论路径。
 
@@ -184,13 +184,13 @@ In the Quantum Universe-Observer framework, collective action is understood as t
 
 Mathematical representation of collective action and social movements:
 
-$`
+$$
 \text{集体行动} = \text{协同}(\text{多个观察者的经典化过程})
-`$
+$$
 
-$`
+$$
 \text{社会运动} = \{\text{替代性经典化模式}, \text{信息传播网络}, \text{集体行动策略}\}
-`$
+$$
 
 这一解释将集体行动理解为协同经典化过程，强调了共享认知、信息传播和集体认同在社会运动中的核心作用。
 
@@ -222,13 +222,13 @@ In the Quantum Universe-Observer framework, globalization is understood as the g
 
 Mathematical representation of globalization and civilizational interaction:
 
-$`
+$$
 \text{全球化} = \text{流动}(\text{信息}, \text{经典化模式}, \text{观察者经验})
-`$
+$$
 
-$`
+$$
 \text{文明互动} = \text{交流}(\text{文明}_A\text{的经典化传统}, \text{文明}_B\text{的经典化传统})
-`$
+$$
 
 这一解释将全球化理解为经典化模式的全球流动，强调了信息、认知和文化在全球互联中的核心作用。
 
@@ -260,13 +260,13 @@ In the Quantum Universe-Observer framework, collective consciousness is understo
 
 Mathematical representation of collective consciousness and social memory:
 
-$`
+$$
 \text{集体意识} = \bigcap_{i} \text{观察者}_i\text{的经典化结构}
-`$
+$$
 
-$`
+$$
 \text{社会记忆} = \text{集体经典化}(\text{历史经验})
-`$
+$$
 
 这一解释将集体意识理解为共享的经典化结构，强调了社会互动、共享叙事和集体认同在形成集体意识中的作用。
 
@@ -298,13 +298,13 @@ In the Quantum Universe-Observer framework, social conflict is understood as inc
 
 Mathematical representation of social conflict and integration:
 
-$`
+$$
 \text{社会冲突} = \text{不兼容}(\text{群体}_A\text{的经典化模式}, \text{群体}_B\text{的经典化模式})
-`$
+$$
 
-$`
+$$
 \text{社会整合} = \text{协调}(\{\text{多样经典化模式}\}) = \text{元经典化框架}
-`$
+$$
 
 这一解释将社会冲突和整合理解为经典化模式的不兼容与协调，强调了认知差异在社会冲突中的核心作用，以及元认知框架在促进社会整合中的重要性。
 

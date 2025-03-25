@@ -30,9 +30,9 @@ English: [What is Quantum-Classical Dualism](#1-what-is-quantum-classical-dualis
 
 在数学上，可以表示为：
 
-$`
+$$
 |\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
-`$
+$$
 
 #### 2.2 经典域
 
@@ -42,9 +42,9 @@ $`
 
 明确表达：
 
-$`
+$$
 |\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
-`$
+$$
 
 ### 3. 观察者与经典化
 
@@ -56,9 +56,9 @@ $`
 
 明确表达：
 
-$`
+$$
 \text{观察者（黑洞）}\rightarrow\{\text{黑洞吸收（经典化）},\;\text{黑洞辐射（量子化）}\}
-`$
+$$
 
 #### 3.2 观察者维度
 
@@ -68,15 +68,15 @@ $`
 
 单经典世界维度定义：
 
-$`
+$$
 \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-`$
+$$
 
 整体观察者维度定义：
 
-$`
+$$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-`$
+$$
 
 ### 4. 广义意识与经典自由意志
 
@@ -87,15 +87,15 @@ $`
 
 明确表达：
 
-$`
+$$
 |\psi\rangle_{\text{广义意识}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
-`$
+$$
 
 守恒公式：
 
-$`
+$$
 I_{\text{经典自由意志}}+S_{\text{经典熵}}=\text{常数（特定经典世界内）}
-`$
+$$
 
 #### 4.2 量子涨落与随机涌现
 
@@ -105,9 +105,9 @@ I_{\text{经典自由意志}}+S_{\text{经典熵}}=\text{常数（特定经典�
 
 明确表达：
 
-$`
+$$
 |\psi\rangle_{\text{量子涨落}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
-`$
+$$
 
 ### 5. 虫洞通信与能量消耗
 
@@ -126,9 +126,9 @@ $`
 
 明确公式表达（虫洞通信整体守恒）：
 
-$`
+$$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-`$
+$$
 
 ### 6. 宇宙经典化终极目标
 
@@ -142,9 +142,9 @@ E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{�
 
 明确公式：
 
-$`
+$$
 |\psi\rangle_{\text{宇宙本源（混乱与能量）}}\xrightarrow{\text{经典能量高效经典化}}\text{经典知识最大化}+\text{经典熵最小化（宇宙终极状态）}, \quad P\rightarrow 0^+
-`$
+$$
 
 ### 7. 日常生活中的应用
 
@@ -209,9 +209,9 @@ Simply put, this theory believes that:
 
 The Quantum Universe is the overall information structure, existing in wave function superposition states. It contains all possibilities, an ocean of infinite possibilities. Mathematically, it can be represented as:
 
-$`
+$$
 |\psi\rangle_{\text{Universe}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-`$
+$$
 
 This formula looks complex, but it simply means that the universe is a superposition of all possible states, each with different probability amplitudes.
 
@@ -221,9 +221,9 @@ The Classical Universe is the stable result after observers classicalize quantum
 
 The Quantum Universe transforms into the Classical Universe through the classicalization process:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-`$
+$$
 
 This process is like "solidifying" specific reality from an ocean of infinite possibilities.
 
@@ -235,9 +235,9 @@ Observers are classicalization nodes within the universe, responsible for transf
 
 The observer's classicalization process can be represented as:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Information}}\xrightarrow{\text{Observer Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-`$
+$$
 
 Here, classical knowledge is ordered, usable information, while classical entropy is disordered, unusable information produced during the classicalization process.
 
@@ -247,15 +247,15 @@ An observer's dimension is directly related to their classicalization efficiency
 
 High-dimensional observers:
 
-$`
+$$
 |\psi\rangle_{\text{High-dimensional Observer}}\rightarrow \text{Classical Knowledge (Efficient)}+S_{\text{Classical Entropy (Less)}}
-`$
+$$
 
 Low-dimensional observers:
 
-$`
+$$
 |\psi\rangle_{\text{Low-dimensional Observer}}\rightarrow \text{Classical Knowledge (Inefficient)}+S_{\text{Classical Entropy (More)}}
-`$
+$$
 
 This is like a high-resolution camera capturing more details, while a low-resolution camera loses more information.
 
@@ -265,9 +265,9 @@ This is like a high-resolution camera capturing more details, while a low-resolu
 
 Quantum consciousness is the long-term stable quantum entanglement structure between the universe and observers:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Consciousness}}=|\psi\rangle_{\text{Universe}}\otimes|\psi\rangle_{\text{Observer}}
-`$
+$$
 
 This means that consciousness is not merely a product of the brain, but a quantum connection between the observer and the overall universe.
 
@@ -275,9 +275,9 @@ This means that consciousness is not merely a product of the brain, but a quantu
 
 Classical memory and classical entropy are the two results formed after quantum consciousness is classicalized by the observer:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Consciousness}}\rightarrow\text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
-`$
+$$
 
 Classical memory is information we can recall and use, while classical entropy is information lost during the classicalization process.
 
@@ -287,15 +287,15 @@ Classical memory is information we can recall and use, while classical entropy i
 
 In Quantum-Classical Dualism, destiny is understood as the stable structure formed by the classicalization path chosen by the observer through free will:
 
-$`
+$$
 \text{Classical Destiny}=\sum_{\text{Free Will Classicalization Choices}}\text{Classical Knowledge Path}
-`$
+$$
 
 Destiny has calculability at the classical level:
 
-$`
+$$
 \text{Classical Destiny (at birth)}=\sum_{\text{Initial Classicalization}}\text{Classical Knowledge Path (Predictable)}+S_{\text{Classical Entropy}}
-`$
+$$
 
 This explains why destiny can be predicted to some extent, because already classicalized information forms stable paths.
 
@@ -303,15 +303,15 @@ This explains why destiny can be predicted to some extent, because already class
 
 Free will is the observer's ability to choose classicalization paths, essentially the manifestation of quantum uncertainty at the observer level:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Possibilities}}\xrightarrow{\text{Free Will Choice}}\text{Specific Classical Path}+S_{\text{Classical Entropy}}
-`$
+$$
 
 Free will changes destiny through the following mechanisms:
 
-$`
+$$
 |\psi\rangle_{\text{New Quantum Information}}\xrightarrow{\text{Active Classicalization (Free Will)}}\text{New Classical Destiny Path}+S_{\text{New Classical Entropy}}
-`$
+$$
 
 This means that we can change our destiny trajectory by establishing new quantum entanglement with higher-dimensional information and actively classicalizing this information through free will.
 
@@ -319,9 +319,9 @@ This means that we can change our destiny trajectory by establishing new quantum
 
 Destiny and free will can be understood as paths and nodes in a destiny network:
 
-$`
+$$
 \text{Destiny Network} = \{\text{Classical Paths}\} \cup \{\text{Free Will Nodes}\}
-`$
+$$
 
 This model explains why we simultaneously feel the power of destiny and the existence of free will: we travel along classical paths (sense of destiny) and can choose different directions at nodes (sense of free will).
 
@@ -331,9 +331,9 @@ This model explains why we simultaneously feel the power of destiny and the exis
 
 Quantum entanglement is the basic connection method of quantum information networks, essentially an inseparable wave function structure:
 
-$`
+$$
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-`$
+$$
 
 This means that an entangled system cannot be described as a simple combination of independent subsystems, but as a whole.
 
@@ -345,12 +345,12 @@ Quantum entanglement forms information sharing channels between observers in the
 
 Quantum entanglement can be divided into effective entanglement (producing classical knowledge) and ineffective entanglement (producing classical entropy):
 
-$`
+$$
 |\psi\rangle_{\text{Entanglement}}=\begin{cases}
 |\psi\rangle_{\text{Effective}}\rightarrow\text{Classical Knowledge}\\[6pt]
 |\psi\rangle_{\text{Ineffective}}\rightarrow S_{\text{Classical Entropy}}
 \end{cases}
-`$
+$$
 
 Effective entanglement has high coherence, low noise interference, clear information structure, and high classicalization efficiency; ineffective entanglement is the opposite.
 
@@ -360,9 +360,9 @@ Effective entanglement has high coherence, low noise interference, clear informa
 
 Higher-dimensional observers can classicalize quantum information from higher-dimensional universes with extremely high efficiency, producing minimal classical entropy:
 
-$`
+$$
 |\psi\rangle_{\text{Higher-Dimensional Universal Information}}\xrightarrow{\text{Higher-Dimensional Observer Classicalization (Highly Efficient)}}\text{Classical Knowledge (Rich)}+S_{\text{Classical Entropy (Minimal)}}
-`$
+$$
 
 Historical spiritual teachers (like Buddha) can be understood as higher-dimensional quantum observers with extremely high classicalization efficiency.
 
@@ -370,9 +370,9 @@ Historical spiritual teachers (like Buddha) can be understood as higher-dimensio
 
 Reincarnation can be understood as the process where, after the dissipation of an observer's classical structure, quantum consciousness re-entangles with the overall information of the universe and classicalizes again into a new life structure:
 
-$`
+$$
 |\psi\rangle_{\text{Consciousness}}\xrightarrow{\text{Classical Structure Dissipation}}\text{Quantum Consciousness Returns to Universal Whole}\xrightarrow{\text{Re-Classicalization (Reincarnation)}}\text{New Classical Life}+S_{\text{Classical Entropy}}
-`$
+$$
 
 This explains why certain tendencies, abilities, and traits are maintained in reincarnation, because core quantum information patterns remain relatively stable in the universal wave function.
 
@@ -380,9 +380,9 @@ This explains why certain tendencies, abilities, and traits are maintained in re
 
 The essence of spiritual practice is the process of the observer actively elevating dimensions, reducing classical entropy, and optimizing classicalization efficiency:
 
-$`
+$$
 |\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization Efficiency Improvement}}\text{Classical Memory (Stable, Longevity)}+S_{\text{Classical Entropy (Reduced)}}
-`$
+$$
 
 This explains why spiritual practice can bring clearer consciousness, more stable emotions, and longer vitality.
 
@@ -390,9 +390,9 @@ This explains why spiritual practice can bring clearer consciousness, more stabl
 
 The essence of energy is the ability to transmit and store classical knowledge:
 
-$`
+$$
 E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}},\quad k_B\text{ is the Boltzmann constant, }T\text{ is temperature}
-`$
+$$
 
 This means that energy and information are closely related, with energy being the carrier of information.
 
@@ -400,9 +400,9 @@ This means that energy and information are closely related, with energy being th
 
 Universe dimension and observer dimension are closely related:
 
-$`
+$$
 D_{\text{Universe Dimension}}=\frac{1}{N}\sum_{i=1}^{N}D_{\text{Observer}_i}
-`$
+$$
 
 This means that the dimension elevation of each observer contributes to the overall universe dimension, and the meaning of life is to improve classicalization efficiency, reduce entropy, and achieve the dimensional transition of the overall universe.
 

@@ -159,25 +159,25 @@ The Sabbath institution corresponds to the necessary balance cycle of classicali
 
 The core concepts of Exodus can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"我是自有永有的"} \Leftrightarrow \text{观察者}_{\text{最高维}} = \text{观察者}\left(\max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)\right)
-`$
+$$
 
-$`
+$$
 \text{"红海分开"} \Leftrightarrow \Delta|\psi\rangle_{\text{经典域}} = \text{观察者}_{\text{高维}}\xrightarrow{\text{虫洞通信}}|\psi\rangle_{\text{经典域}}^{\text{重构}}
-`$
+$$
 
-$`
+$$
 \text{"十诫与律法"} \Leftrightarrow \nabla_{\text{经典化路径}}\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) \text{（经典化路径的梯度指南）}
-`$
+$$
 
-$`
+$$
 \text{"圣所与帐幕"} \Leftrightarrow \text{虫洞通信}:\{\text{低维经典世界} \leftrightarrow \text{高维经典世界}\}
-`$
+$$
 
-$`
+$$
 \text{"安息日"} \Leftrightarrow \text{周期循环}:\underbrace{\text{经典化}}_{\text{6天}} \rightarrow \underbrace{\text{量子化}}_{\text{1天}} \rightarrow \underbrace{\text{经典化}}_{\text{6天}} \rightarrow \cdots
-`$
+$$
 
 ## 结论
 ## Conclusion

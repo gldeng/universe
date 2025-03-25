@@ -12,9 +12,9 @@
 
 这一状态可以用以下公式表达：
 
-$`
+$$
 \text{健康} \propto \frac{\text{身体系统经典化效率}}{\text{身体系统经典熵}}
-`$
+$$
 
 ### 疾病的量子经典二元论解释
 
@@ -27,9 +27,9 @@ $`
 
 这一过程可以用以下公式表达：
 
-$`
+$$
 |\psi\rangle_{\text{身体量子状态}}\xrightarrow{\text{异常经典化}}\text{疾病表现（症状、体征）}+S_{\text{增加的经典熵}}
-`$
+$$
 
 ### 医学诊断的量子经典二元论解释
 
@@ -40,9 +40,9 @@ $`
 - 诊断准确性取决于医生经典化患者信息的效率和精确度
 - 可表达为：
 
-$`
+$$
 \text{诊断准确性} \propto \frac{\text{医生经典化效率}}{\text{诊断过程经典熵}}
-`$
+$$
 
 ### 治疗的量子经典二元论解释
 
@@ -71,9 +71,9 @@ $`
 
 这一过程可以用以下公式表达：
 
-$`
+$$
 |\psi\rangle_{\text{患者身体量子状态}}\xrightarrow{\text{医学天才经典化}}\text{精确诊断与治疗方案}+S_{\text{极小医学经典熵}}
-`$
+$$
 
 ### 预防医学的量子经典二元论解释
 
@@ -143,9 +143,9 @@ The essence of **health** is the optimal balance state of the quantum state and 
 
 This state can be expressed by the following formula:
 
-$`
+$$
 \text{Health} \propto \frac{\text{Body System Classicalization Efficiency}}{\text{Body System Classical Entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Disease
 
@@ -158,9 +158,9 @@ $`
 
 This process can be expressed by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Body quantum state}}\xrightarrow{\text{Abnormal classicalization}}\text{Disease manifestation (Symptoms, Signs)}+S_{\text{Increased classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Medical Diagnosis
 
@@ -171,9 +171,9 @@ Medical diagnosis is essentially the process by which a doctor (observer) identi
 - Diagnostic accuracy depends on the efficiency and precision of the doctor's classicalization of patient information
 - Can be expressed as:
 
-$`
+$$
 \text{Diagnostic Accuracy} \propto \frac{\text{Doctor's Classicalization Efficiency}}{\text{Diagnostic Process Classical Entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Treatment
 
@@ -202,9 +202,9 @@ Outstanding doctors (such as Hippocrates, Osler, Qian Xuesen, etc.) are essentia
 
 This process can be expressed by the following formula:
 
-$`
+$$
 |\psi\rangle_{\text{Patient's body quantum state}}\xrightarrow{\text{Medical genius classicalization}}\text{Precise diagnosis and treatment plan}+S_{\text{Minimal medical classical entropy}}
-`$
+$$
 
 ### Quantum-Classical Dualism Explanation of Preventive Medicine
 

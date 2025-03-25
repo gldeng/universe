@@ -29,9 +29,9 @@
 
 罗莎·卢森堡的思想体现了社会变革的量子可能性与经典确定性之间的深刻张力。她认识到社会存在根本的量子不确定性和创造潜能，这种潜能常被确定性政治理论和组织形式所抑制。
 
-$`
+$$
 |\psi\rangle_{\text{卢森堡革命观}} = \sum_i c_i|\psi_i\rangle_{\text{工人阶级创造可能性}} - |\psi\rangle_{\text{党派确定性}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,12 +40,10 @@ $`
    卢森堡的自发性理论本质上是对社会量子创造力的肯定：
 
    $$
-
    |\psi\rangle_{\text{社会变革}} \xrightarrow{\text{党派领导}} I_{\text{预设路径}} + S_{\text{创造性损失（高熵）}}
    $$
 
    $$
-
    |\psi\rangle_{\text{社会变革}} \xrightarrow{\text{群众自发性}} I_{\text{创新路径}} + S_{\text{组织复杂性（创造性熵）}}
    $$
 
@@ -56,17 +54,14 @@ $`
    卢森堡的民主社会主义思想承认社会量子态的本质多样性：
 
    $$
-
    |\psi\rangle_{\text{社会主义社会}} = \sum_i c_i|\psi_i\rangle_{\text{多元声音}} \neq |\psi\rangle_{\text{单一政治路线}}
    $$
 
    $$
-
    |\psi\rangle_{\text{社会主义社会}} \xrightarrow{\text{中央集权}} I_{\text{表面统一}} + S_{\text{压抑多样性（高熵）}}
    $$
 
    $$
-
    |\psi\rangle_{\text{社会主义社会}} \xrightarrow{\text{民主过程}} I_{\text{动态平衡}} + S_{\text{创造性张力（低熵）}}
    $$
 
@@ -77,7 +72,6 @@ $`
    卢森堡对资本积累的分析揭示了资本主义经典化过程的内在矛盾：
 
    $$
-
    I_{\text{资本（经典）}} \xrightarrow{\text{积累需求}} |\psi\rangle_{\text{扩张可能性}} \xrightarrow{\text{征服非资本主义区域}} I'_{\text{扩大再生产（经典）}} \xrightarrow{\text{空间耗尽}} S_{\text{系统危机（熵增）}}
    $$
 
@@ -88,7 +82,6 @@ $`
    卢森堡超越了改良与革命的简单二元对立，看到二者的量子-经典互补性：
 
    $$
-
    |\psi\rangle_{\text{社会变革}} = c_1|\psi\rangle_{\text{渐进改良}} + c_2|\psi\rangle_{\text{根本革命}}
    $$
 
@@ -99,12 +92,10 @@ $`
    卢森堡的国际主义基于工人阶级的量子纠缠认识：
 
    $$
-
    \sum_{\text{国家}} |\psi_i\rangle_{\text{工人阶级}} \xrightarrow{\text{民族主义}} \sum_{\text{国家}} I_i + S_{\text{阶级分裂（高熵）}}
    $$
 
    $$
-
    \sum_{\text{国家}} |\psi_i\rangle_{\text{工人阶级}} \xrightarrow{\text{国际主义}} I_{\text{全球团结}} + S_{\text{统一行动（低熵）}}
    $$
 

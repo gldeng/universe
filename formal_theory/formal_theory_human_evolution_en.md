@@ -23,9 +23,9 @@ The Quantum-Classical Dualism of Human Evolution proposes that human evolution i
 
 Based on quantum-classical dualism, biological evolution $`\mathcal{E}`$ can be formally defined as:
 
-$`
+$$
 \mathcal{E} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{S}_E)
-`$
+$$
 
 Where:
 - $`\mathcal{E}_Q`$ is the quantum domain component of evolution (variation generation, possibility space exploration)
@@ -38,36 +38,36 @@ Where:
 **Axiom 1: Evolution Duality**
 A complete evolutionary process combines both quantum and classical essential processes:
 
-$`
+$$
 \mathcal{E} = \mathcal{E}_Q \diamond \mathcal{E}_C
-`$
+$$
 
 Where $`\diamond`$ represents the evolutionary quantum-classical connection operation.
 
 **Axiom 2: Variation Quantumness**
 Biological variations originate from quantum-level fluctuations and uncertainties:
 
-$`
+$$
 |\Psi_V\rangle = \sum_i \alpha_i |v_i\rangle
-`$
+$$
 
 Where $`|v_i\rangle`$ are basis vectors of possible variations, and $`\alpha_i`$ are complex amplitudes.
 
 **Axiom 3: Selection Classicality**
 Natural selection processes follow classical mechanical laws, acting on realized phenotypes:
 
-$`
+$$
 F_S: \mathcal{C}(|\Psi_V\rangle) \rightarrow \mathcal{S}_E
-`$
+$$
 
 Where $`F_S`$ is the selection function, and $`\mathcal{C}`$ is the classicalization operation (from quantum possibilities to classical manifestation).
 
 **Axiom 4: Evolutionary Dimensional Emergence**
 The dimension of an evolving species is related to its quantum-classical balance capability:
 
-$`
+$$
 D_{\mathcal{E}} = f\left(\frac{\mathcal{E}_Q}{\mathcal{E}_C}\right) \cdot \frac{I_{adaptation}}{S_{degeneration}+\epsilon}
-`$
+$$
 
 Where $`I_{adaptation}`$ is the species' adaptation information, $`S_{degeneration}`$ is degenerative entropy, and $`\epsilon`$ is a small constant to prevent division by zero.
 
@@ -77,9 +77,9 @@ Where $`I_{adaptation}`$ is the species' adaptation information, $`S_{degenerati
 
 Quantum foundation of biological variation generation:
 
-$`
+$$
 \frac{d|\Psi_G(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_G|\Psi_G(t)\rangle + \mathcal{D}_G(\rho_G)
-`$
+$$
 
 Where $`\hat{H}_G`$ is the genetic evolution Hamiltonian, and $`\mathcal{D}_G`$ is the environmental decoherence term.
 
@@ -91,9 +91,9 @@ Quantum evolutionary characteristics include:
 
 Quantum mutation probability:
 
-$`
+$$
 P(m) = |\langle m|\hat{U}(t)|\Psi_G(0)\rangle|^2
-`$
+$$
 
 Where $`\hat{U}(t)`$ is the quantum evolution operator, and $`|m\rangle`$ is the specific mutation state.
 
@@ -101,9 +101,9 @@ Where $`\hat{U}(t)`$ is the quantum evolution operator, and $`|m\rangle`$ is the
 
 Natural selection as a classical filter:
 
-$`
+$$
 \frac{dp_i}{dt} = p_i(f_i - \bar{f})
-`$
+$$
 
 Where $`p_i`$ is the frequency of phenotype i, $`f_i`$ is fitness, and $`\bar{f}`$ is average fitness.
 
@@ -115,9 +115,9 @@ Key characteristics of classical selection:
 
 Multi-level selection equation:
 
-$`
+$$
 \frac{dX}{dt} = \sum_{i=1}^n v_i \cdot \frac{\text{Cov}(f_i, X_i)}{\bar{f}_i}
-`$
+$$
 
 Where $`v_i`$ are the selection weights at different levels.
 
@@ -125,9 +125,9 @@ Where $`v_i`$ are the selection weights at different levels.
 
 The evolutionary interface is the interaction zone between variation generation and selection action:
 
-$`
+$$
 \frac{d\mathcal{I}_E}{dt} = \alpha_E \nabla^2 \mathcal{I}_E + \beta_E(\mathcal{I}_c - \mathcal{I}_E)(\mathcal{I}_E - \mathcal{I}_0) + \gamma_E\xi_E(t)
-`$
+$$
 
 Where the parameters are similar to those of the general interface but specialized to the evolutionary environment.
 
@@ -139,9 +139,9 @@ Interface evolutionary characteristics include:
 
 Interface temperature dependence of evolutionary innovation:
 
-$`
+$$
 R_{innovation} \propto e^{-\frac{\Delta E}{k_B T_E}}
-`$
+$$
 
 Where $`T_E`$ is the evolutionary "temperature," representing the intensity of environmental fluctuations and selection pressure.
 
@@ -149,17 +149,17 @@ Where $`T_E`$ is the evolutionary "temperature," representing the intensity of e
 
 Key features distinguishing human evolution from other organisms:
 
-$`
+$$
 \mathcal{H} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{C}_H, \mathcal{S}_C)
-`$
+$$
 
 Where $`\mathcal{C}_H`$ represents human consciousness characteristics, and $`\mathcal{S}_C`$ is the social-cultural environment.
 
 Mathematical expression of human evolutionary uniqueness:
 
-$`
+$$
 D_{\mathcal{H}} = D_{\mathcal{E}} \cdot \Phi(\mathcal{C}_H, \mathcal{S}_C)
-`$
+$$
 
 Where $`\Phi`$ is the consciousness-culture amplification function.
 
@@ -176,9 +176,9 @@ Special aspects of human evolution:
 
 Changes in quantum-classical ratios in early human evolution:
 
-$`
+$$
 \frac{\mathcal{E}_Q}{\mathcal{E}_C}(t) = \frac{\mathcal{E}_Q^0}{\mathcal{E}_C^0} \cdot e^{-\lambda_B t}
-`$
+$$
 
 Where $`\lambda_B`$ is the biological evolution rate constant.
 
@@ -192,9 +192,9 @@ Early evolution was primarily driven by biological factors:
 
 The cognitive revolution occurring approximately 50-70 thousand years ago marked a critical phase transition in human evolution:
 
-$`
+$$
 \Delta\left(\frac{\mathcal{E}_Q}{\mathcal{E}_C}\right) \gg 0 \quad \text{at} \quad t = t_{cognitive}
-`$
+$$
 
 Key features of the cognitive revolution:
 1. **Fully modern language**: Emergence of highly abstract symbol systems
@@ -204,17 +204,17 @@ Key features of the cognitive revolution:
 
 This stage can be described as a cognitive interface phase transition:
 
-$`
+$$
 \mathcal{I}_E(t_{cognitive}^+) = \mathcal{I}_E^{new} \neq \mathcal{I}_E(t_{cognitive}^-)
-`$
+$$
 
 ### Agricultural Revolution Stage
 
 The agricultural revolution approximately 12,000 years ago marked a transformation in classical accumulation:
 
-$`
+$$
 \frac{d\mathcal{E}_C}{dt} \gg \frac{d\mathcal{E}_Q}{dt} \quad \text{for} \quad t > t_{agriculture}
-`$
+$$
 
 Main features of the agricultural revolution:
 1. **Stable settlements**: Establishment of sedentary lifestyle
@@ -227,9 +227,9 @@ Main features of the agricultural revolution:
 
 The process of civilization development can be represented as alternating quantum innovations and classical structures:
 
-$`
+$$
 \mathcal{C}(t) = \sum_i \mathcal{C}(|\Psi_{V_i}\rangle) \cdot A_i(t)
-`$
+$$
 
 Where $`A_i(t)`$ are adoption curves for various innovations.
 
@@ -243,9 +243,9 @@ Quantum-classical balance in civilization development:
 
 Acceleration of technological development since the industrial revolution:
 
-$`
+$$
 R_{tech}(t) = R_0 e^{\eta t}
-`$
+$$
 
 Where $`R_{tech}`$ is the rate of technological progress, and $`\eta`$ is the exponential growth parameter.
 
@@ -260,9 +260,9 @@ Synergy of quantum-classical technologies:
 
 Evolutionary trajectory of cognitive abilities:
 
-$`
+$$
 C(t) = C_0 + A\left(1 - e^{-\lambda_C t}\right) + B\cdot\Theta(t - t_{cognitive})
-`$
+$$
 
 Where $`\Theta`$ is the step function, representing the discontinuous jump brought by the cognitive revolution.
 
@@ -280,9 +280,9 @@ Quantum-classical analysis of cognitive abilities:
 
 Culture as a special evolutionary system:
 
-$`
+$$
 \mathcal{C}_E = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{T}_C)
-`$
+$$
 
 Where $`\mathcal{T}_C`$ is the cultural transmission mechanism.
 
@@ -294,9 +294,9 @@ Special characteristics of cultural evolution:
 
 Cultural innovation diffusion equation:
 
-$`
+$$
 \frac{dN(t)}{dt} = \alpha N(t)(1 - N(t)/K) + \beta \sqrt{N(t)}\xi(t)
-`$
+$$
 
 Where the second term represents random innovation caused by quantum fluctuations.
 
@@ -304,9 +304,9 @@ Where the second term represents random innovation caused by quantum fluctuation
 
 Interaction dynamics between genes and culture:
 
-$`
+$$
 \begin{pmatrix} \frac{dG}{dt} \\ \frac{dC}{dt} \end{pmatrix} = \begin{pmatrix} r_G & \alpha_{GC} \\ \alpha_{CG} & r_C \end{pmatrix} \begin{pmatrix} G \\ C \end{pmatrix}
-`$
+$$
 
 Where $`\alpha_{GC}`$ and $`\alpha_{CG}`$ are coupling coefficients.
 
@@ -318,9 +318,9 @@ Quantum-classical analysis of coevolution:
 
 Gene-culture evolution rate ratio:
 
-$`
+$$
 \frac{v_C}{v_G} = \frac{r_C}{r_G} \cdot \frac{\sigma_C^2}{\sigma_G^2}
-`$
+$$
 
 Where $`\sigma^2`$ is the variation amplitude.
 
@@ -328,9 +328,9 @@ Where $`\sigma^2`$ is the variation amplitude.
 
 Discontinuity in technological development:
 
-$`
+$$
 T(t) = \sum_i T_i \cdot \Theta(t - t_i)
-`$
+$$
 
 Where $`T_i`$ is the contribution of the i-th technological revolution, and $`t_i`$ is its occurrence time.
 
@@ -348,9 +348,9 @@ Quantum characteristics analysis of major technological revolutions:
 
 Divergent paths of future human evolution:
 
-$`
+$$
 \mathcal{H}_{future} = \sum_i p_i |\mathcal{H}_i\rangle
-`$
+$$
 
 Where $`|\mathcal{H}_i\rangle`$ are possible evolutionary paths, and $`p_i`$ are their realization probabilities.
 
@@ -365,9 +365,9 @@ Possible evolutionary paths:
 
 Openness of evolutionary space in quantum-classical dimensions:
 
-$`
+$$
 \Omega_{\mathcal{H}} = \Omega_{\mathcal{H}}^Q \oplus \Omega_{\mathcal{H}}^C
-`$
+$$
 
 Possible directions for human evolution:
 1. **Cognitive deepening**: Evolution toward higher-dimensional consciousness states
@@ -382,23 +382,23 @@ Possible directions for human evolution:
 
 Human evolution as a special case of universal evolution:
 
-$`
+$$
 \mathcal{H} \subset \mathcal{U}_{evolution}
-`$
+$$
 
 Universal pattern of complexity evolution:
 
-$`
+$$
 \frac{dC}{dt} \propto C^\alpha \cdot (1 - C/C_{max})
-`$
+$$
 
 ### Connection with Consciousness Theory
 
 Common dynamics of evolution and consciousness development:
 
-$`
+$$
 \frac{d\mathcal{C}_H}{dt} = g\left(\frac{d\mathcal{H}}{dt}\right)
-`$
+$$
 
 Consciousness as a meta-controller of evolution.
 
@@ -406,9 +406,9 @@ Consciousness as a meta-controller of evolution.
 
 Quantum-classical relationship between individuals and society:
 
-$`
+$$
 \mathcal{S}_C = \mathcal{F}(\{|\Psi_i\rangle\}, \{I_{ij}\})
-`$
+$$
 
 Where $`|\Psi_i\rangle`$ are individual states, and $`I_{ij}`$ are interaction intensities.
 

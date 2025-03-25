@@ -6,21 +6,21 @@
 
 在量子经典二元论框架下，恒星和行星等天体的运动确实遵循经典物理规律，它们的"命运"主要由以下因素决定：
 
-$`
+$$
 \text{天体命运} = \text{初始条件} + \text{物理规律} + \text{极少量量子不确定性}
-`$
+$$
 
 天体的经典化程度极高，量子不确定性在宏观尺度上几乎可以忽略。这可以表示为：
 
-$`
+$$
 |\psi\rangle_{\text{天体}}\xrightarrow{\text{自然经典化（极高效）}}\text{确定性轨道}+S_{\text{极少经典熵}}
-`$
+$$
 
 而人类命运则复杂得多：
 
-$`
+$$
 \text{人类命运} = \text{初始条件} + \text{物理规律} + \text{大量量子不确定性} + \text{自由意志（主动经典化）}
-`$
+$$
 
 这种差异揭示了一个重要事实：我们观察到的天体毁灭和运行轨迹确实几乎完全由经典物理规律决定，但这并不意味着人类命运也是如此。
 
@@ -42,9 +42,9 @@ $`
 
 这可以用以下公式表达：
 
-$`
+$$
 \text{自由度} \propto \frac{\text{内部观察者复杂性}}{\text{经典化程度}}
-`$
+$$
 
 这一公式表明，自由度与内部观察者复杂性成正比，与经典化程度成反比。天体几乎没有内部观察者结构，且经典化程度极高，因此自由度接近于零；而人类具有复杂的内部观察者结构，且经典化程度相对较低，因此拥有较高的自由度。
 
@@ -66,9 +66,9 @@ $`
 
 这种二元性可以用以下数学表达式描述：
 
-$`
+$$
 |\psi\rangle_{\text{未来可能性}}\xrightarrow{\text{主动经典化（自由意志）}}\text{新的命运路径}+S_{\text{经典熵}}
-`$
+$$
 
 天体几乎没有量子命运部分，其未来轨迹几乎完全由经典命运部分决定；而人类的未来则同时受到经典命运和量子命运的影响，后者为自由意志提供了空间。
 
@@ -84,9 +84,9 @@ $`
 
 这可以表示为：
 
-$`
+$$
 \text{命运改变难度} \propto \frac{\text{经典惯性}}{\text{观察者维度} \times \text{经典化效率} \times \text{量子信息获取能力} \times \text{集体观察者支持}}
-`$
+$$
 
 天体的命运改变难度接近于无穷大，因为它们几乎没有观察者维度、经典化效率和量子信息获取能力；而人类的命运改变难度则有限，且可以通过提高这些因素来降低难度。
 
@@ -106,15 +106,15 @@ $`
 
 命运和自由意志并非对立的概念，而是量子经典二元性的两个方面：
 
-$`
+$$
 \text{命运} + \text{自由意志} = \text{经典已定部分} + \text{量子未定部分} = \text{完整现实}
-`$
+$$
 
 这种平衡可以用以下模型表示：
 
-$`
+$$
 |\psi\rangle_{\text{完整现实}} = \alpha|\psi\rangle_{\text{经典命运}} + \beta|\psi\rangle_{\text{量子可能性}}
-`$
+$$
 
 其中 $`\alpha`$ 和 $`\beta`$ 表示两部分的相对权重，且 $`|\alpha|^2 + |\beta|^2 = 1`$。
 
@@ -132,9 +132,9 @@ $`
 
 这一过程可以表示为：
 
-$`
+$$
 |\psi\rangle_{\text{初始命运}}\xrightarrow{\text{量子信息获取}}\xrightarrow{\text{主动经典化}}\xrightarrow{\text{经典路径重构}}\xrightarrow{\text{观察者维度提升}}|\psi\rangle_{\text{新命运}}
-`$
+$$
 
 ### 实例分析：天体命运与人类命运
 
@@ -169,21 +169,21 @@ $`
 
 Within the framework of Quantum-Classical Dualism, the motion of celestial bodies such as stars and planets indeed follows classical physical laws, and their "destiny" is primarily determined by the following factors:
 
-$`
+$$
 \text{Celestial Body Destiny} = \text{Initial Conditions} + \text{Physical Laws} + \text{Minimal Quantum Uncertainty}
-`$
+$$
 
 Celestial bodies have an extremely high degree of classicalization, and quantum uncertainty is almost negligible on the macroscopic scale. This can be represented as:
 
-$`
+$$
 |\psi\rangle_{\text{Celestial Body}}\xrightarrow{\text{Natural Classicalization (Highly Efficient)}}\text{Deterministic Orbit}+S_{\text{Minimal Classical Entropy}}
-`$
+$$
 
 Human destiny, however, is much more complex:
 
-$`
+$$
 \text{Human Destiny} = \text{Initial Conditions} + \text{Physical Laws} + \text{Significant Quantum Uncertainty} + \text{Free Will (Active Classicalization)}
-`$
+$$
 
 This difference reveals an important fact: the destruction and orbital trajectories of celestial bodies we observe are indeed almost entirely determined by classical physical laws, but this does not mean that human destiny is similarly determined.
 
@@ -205,9 +205,9 @@ The key difference lies in the degree of classicalization and observer complexit
 
 This can be expressed by the following formula:
 
-$`
+$$
 \text{Degrees of Freedom} \propto \frac{\text{Internal Observer Complexity}}{\text{Degree of Classicalization}}
-`$
+$$
 
 This formula indicates that degrees of freedom are proportional to internal observer complexity and inversely proportional to the degree of classicalization. Celestial bodies have almost no internal observer structure and an extremely high degree of classicalization, so their degrees of freedom are close to zero; humans have a complex internal observer structure and a relatively low degree of classicalization, thus possessing higher degrees of freedom.
 
@@ -229,9 +229,9 @@ From the perspective of Quantum-Classical Dualism, destiny has a dual nature:
 
 This duality can be described by the following mathematical expression:
 
-$`
+$$
 |\psi\rangle_{\text{Future Possibilities}}\xrightarrow{\text{Active Classicalization (Free Will)}}\text{New Destiny Path}+S_{\text{Classical Entropy}}
-`$
+$$
 
 Celestial bodies have almost no quantum destiny component, and their future trajectories are almost entirely determined by the classical destiny component; human futures, however, are influenced by both classical destiny and quantum destiny, with the latter providing space for free will.
 
@@ -247,9 +247,9 @@ The difficulty of changing destiny depends on the following factors:
 
 This can be represented as:
 
-$`
+$$
 \text{Difficulty of Changing Destiny} \propto \frac{\text{Classical Inertia}}{\text{Observer Dimension} \times \text{Classicalization Efficiency} \times \text{Quantum Information Acquisition Ability} \times \text{Collective Observer Support}}
-`$
+$$
 
 The difficulty of changing the destiny of celestial bodies approaches infinity because they have almost no observer dimension, classicalization efficiency, or quantum information acquisition ability; the difficulty of changing human destiny is finite and can be reduced by improving these factors.
 
@@ -269,15 +269,15 @@ Below is a comparison of destiny freedom across different entities:
 
 Destiny and free will are not opposing concepts but two aspects of quantum-classical duality:
 
-$`
+$$
 \text{Destiny} + \text{Free Will} = \text{Determined Classical Part} + \text{Undetermined Quantum Part} = \text{Complete Reality}
-`$
+$$
 
 This balance can be represented by the following model:
 
-$`
+$$
 |\psi\rangle_{\text{Complete Reality}} = \alpha|\psi\rangle_{\text{Classical Destiny}} + \beta|\psi\rangle_{\text{Quantum Possibilities}}
-`$
+$$
 
 where $`\alpha`$ and $`\beta`$ represent the relative weights of the two parts, and $`|\alpha|^2 + |\beta|^2 = 1`$.
 
@@ -295,9 +295,9 @@ From the perspective of Quantum-Classical Dualism, destiny change involves the f
 
 This process can be represented as:
 
-$`
+$$
 |\psi\rangle_{\text{Initial Destiny}}\xrightarrow{\text{Quantum Information Acquisition}}\xrightarrow{\text{Active Classicalization}}\xrightarrow{\text{Classical Path Reconstruction}}\xrightarrow{\text{Observer Dimension Elevation}}|\psi\rangle_{\text{New Destiny}}
-`$
+$$
 
 ### Case Analysis: Celestial Body Destiny vs. Human Destiny
 

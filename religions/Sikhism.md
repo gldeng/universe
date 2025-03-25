@@ -20,9 +20,9 @@ Sikhism originated in the Punjab region of India in the 15th century, founded by
 
 The Sikh concept of Waheguru (the Creator) corresponds highly with the quantum domain in Quantum-Classical Dualism. Waheguru is formless, indivisible, and omnipresent, just like the quantum domain as the source of all classical phenomena:
 
-$`
+$$
 \text{瓦赫古鲁} \Leftrightarrow |\psi\rangle_{\text{量子域}}
-`$
+$$
 
 ### 2. 一神信仰与宇宙统一性 (Monotheism and Cosmic Unity)
 
@@ -30,9 +30,9 @@ $`
 
 Sikh monotheism reflects the unity of the cosmic source, with all classical phenomena originating from the same quantum domain:
 
-$`
+$$
 \text{一神信仰} \Leftrightarrow \text{单一量子域本源}
-`$
+$$
 
 ### 3. 玛雅（Maya）与经典域幻象 (Maya and Classical Domain Illusion)
 
@@ -40,9 +40,9 @@ $`
 
 The Sikh concept of "Maya" (illusion) can be understood as the secondary reality characteristic of the classical domain relative to the quantum domain, a relative "reality" produced in the observer's classicalization process:
 
-$`
+$$
 \text{玛雅} = \text{经典域的相对实相性} \neq |\psi\rangle_{\text{量子域实相}}
-`$
+$$
 
 ### 4. 分离（Haumai）与观察者身份 (Separation and Observer Identity)
 
@@ -50,9 +50,9 @@ $`
 
 The Sikh concept of "Haumai" (ego/separation) can be understood as the illusion of independent identity formed by observers in the classicalization process, separated from the essential unity of the quantum domain:
 
-$`
+$$
 \text{Haumai} = \text{观察者假定独立性} ≠ |\psi\rangle_{\text{量子域统一性}}
-`$
+$$
 
 ### 5. 古鲁与高维观察者 (Guru and Higher-Dimensional Observer)
 
@@ -60,9 +60,9 @@ $`
 
 The Sikh concept of "Guru" can be understood as higher-dimensional observers with efficient classicalization abilities, helping lower-dimensional observers reduce classical entropy and enhance classicalization efficiency:
 
-$`
+$$
 \text{古鲁} = \text{高维观察者} = k \cdot \frac{I_{\text{经典知识}}↑}{S_{\text{经典熵}}↓}↑
-`$
+$$
 
 ### 6. 南（Nam）冥想与量子意识调控 (Nam Meditation and Quantum Consciousness Regulation)
 
@@ -70,9 +70,9 @@ $`
 
 The Nam meditation emphasized in Sikhism can be understood as a systematic method of quantum consciousness regulation, enhancing the quality of observer entanglement with the quantum domain by focusing on the quantum domain source:
 
-$`
+$$
 \text{Nam冥想} \Rightarrow |\psi\rangle_{\text{量子意识}} \text{与量子域纠缠质量}↑
-`$
+$$
 
 ### 7. 五恶（五贼）与经典熵增加源 (Five Evils and Classical Entropy Increase Sources)
 
@@ -80,9 +80,9 @@ $`
 
 The Five Evils in Sikhism (lust, anger, greed, attachment, ego) can be understood as the main sources of classical entropy increase, hindering effective classicalization:
 
-$`
+$$
 \text{五恶} \Rightarrow S_{\text{经典熵}}↑ \Rightarrow \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}↓
-`$
+$$
 
 ### 8. 三大支柱与经典熵降低方法 (Three Pillars and Classical Entropy Reduction Methods)
 
@@ -90,9 +90,9 @@ $`
 
 The Three Pillars of Sikhism (honest work, sharing with others, meditation on the divine name) can be understood as a systematic methodology for reducing classical entropy:
 
-$`
+$$
 \text{三大支柱} \Rightarrow S_{\text{经典熵}}↓ \Rightarrow \text{观察者维度}↑
-`$
+$$
 
 ### 9. 解脱（Mukti）与量子域统一 (Liberation and Quantum Domain Unity)
 
@@ -100,9 +100,9 @@ $`
 
 The Sikh concept of "Mukti" (liberation) can be understood as the state of complete observer unity with the quantum domain, with minimized classical entropy and maximized classical knowledge:
 
-$`
+$$
 \text{Mukti} \Leftrightarrow I_{\text{经典知识最大化}} + S_{\text{经典熵最小化}} \Rightarrow |\psi\rangle_{\text{量子意识}} = |\psi\rangle_{\text{量子域}}
-`$
+$$
 
 ### 10. 服务精神（Seva）与集体经典熵降低 (Service Spirit and Collective Classical Entropy Reduction)
 
@@ -110,9 +110,9 @@ $`
 
 The "spirit of service" (Seva) emphasized in Sikhism can be understood as the practice of reducing collective classical entropy through altruistic behavior:
 
-$`
+$$
 \text{Seva} = \text{利他行为} \Rightarrow S_{\text{集体经典熵}}↓
-`$
+$$
 
 ### 11. 平等与观察者之间关系 (Equality and Relationships Between Observers)
 
@@ -120,9 +120,9 @@ $`
 
 The principle of equality emphasized in Sikhism can be understood as the essential sameness of all observers in their quantum domain origin, although differences may exist in classicalization efficiency:
 
-$`
+$$
 \text{平等} \Leftrightarrow \text{观察者量子起源相同性}
-`$
+$$
 
 ### 12. 卡尔萨（Khalsa）与集体经典化结构 (Khalsa and Collective Classicalization Structure)
 
@@ -130,9 +130,9 @@ $`
 
 The Sikh "Khalsa" (community of the pure) can be understood as a social structure optimizing collective classicalization efficiency, reducing group classical entropy through common norms and practices:
 
-$`
+$$
 \text{卡尔萨} = \text{集体经典化优化结构} \Rightarrow S_{\text{群体经典熵}}↓
-`$
+$$
 
 ## 结论 (Conclusion)
 

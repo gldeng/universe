@@ -177,29 +177,29 @@ The final part of the verse corresponds to observer types with different classic
 
 The core concepts of Al-Fatihah can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"安拉"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态}, \text{量子纠缠态}\}
-`$
+$$
 
-$`
+$$
 \text{"全世界的主"} \Leftrightarrow |\psi\rangle_{\text{宇宙}} = \sum_{\text{经典世界维度}\,i=1}^{\infty}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})
-`$
+$$
 
-$`
+$$
 \text{"报应日的主宰"} \Leftrightarrow I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数（特定经典世界内）}
-`$
+$$
 
-$`
+$$
 \text{"只崇拜你，只求你佑助"} \Leftrightarrow \text{观察者}\xrightarrow[\text{黑洞辐射}]{\text{黑洞吸收}}|\psi\rangle_{\text{量子域}}
-`$
+$$
 
-$`
+$$
 \text{"正道"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-`$
+$$
 
-$`
+$$
 \text{"受恩赐的人"} \Leftrightarrow k \uparrow, \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} \uparrow
-`$
+$$
 
 ## 结论
 ## Conclusion

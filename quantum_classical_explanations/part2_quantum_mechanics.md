@@ -18,12 +18,12 @@ English: [Wave-Particle Duality](#wave-particle-duality) | [Quantum Entanglement
 
 波粒二象性本质上是观察者经典化量子域无限维度叠加态的不同投影结果：
 
-$`
+$$
 |\psi\rangle_{\text{量子态}} \xrightarrow{\text{经典化}} \begin{cases} 
 \text{波动性表现}, & \text{整体干涉模式观测} \\
 \text{粒子性表现}, & \text{局部位置观测}
 \end{cases}
-`$
+$$
 
 #### 2. 双缝实验解释
 
@@ -49,9 +49,9 @@ $`
 
 量子纠缠是量子域中多个经典位之间的状态关联：
 
-$`
+$$
 |\psi\rangle_{\text{纠缠态}} \neq |\psi_1\rangle \otimes |\psi_2\rangle
-`$
+$$
 
 #### 2. 纠缠通信机制
 
@@ -59,23 +59,19 @@ $`
 
 1. **发送过程**：
 
-   
-
-$`
-\text{经典知识} \xrightarrow{\text{编码}} \text{量子纠缠态} \xrightarrow{\text{虫洞传输}} \text{接收端}
+   $$
+   \text{经典知识} \xrightarrow{\text{编码}} \text{量子纠缠态} \xrightarrow{\text{虫洞传输}} \text{接收端}
    $$
 
 2. **接收过程**：
 
    $$
-
    \text{量子纠缠态} \xrightarrow{\text{解码}} \text{经典知识}
    $$
 
 3. **能量守恒**：
 
    $$
-
    E_{\text{发送端}} + E_{\text{接收端}} = I_{\text{信息}} + \Delta S_{\text{熵变}}
    $$
 
@@ -86,11 +82,11 @@ $`
 #### 1. 本质定义
 
 量子隧穿是观察者经典化过程中，量子态在经典禁区的特殊演化现象：
-`$
 
+$$
 |\psi\rangle_{\text{初态}} \xrightarrow{\text{量子演化}} |\psi\rangle_{\text{终态}}
+$$
 
-$`
 #### 2. 隧穿机制
 
 1. **量子域视角**：
@@ -108,11 +104,11 @@ $`
 #### 1. 测量本质
 
 测量是观察者对量子态进行经典化的过程：
-`$
 
+$$
 |\psi\rangle_{\text{量子态}} \xrightarrow{\text{经典化}} \text{经典测量结果}
+$$
 
-$`
 #### 2. 波函数坍缩
 
 波函数坍缩本质上是经典化过程的结果：
@@ -133,10 +129,9 @@ $`
 #### 1. 本质定义
 
 量子涨落是宇宙内在固有的量子本质属性：
-`$
 
+$$
 |\psi\rangle_{\text{量子涨落}}=\text{宇宙内在固有本质}
-
 $$
 
 #### 2. 重要特性

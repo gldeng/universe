@@ -22,9 +22,9 @@ English: [Essence of Wormholes and Quantum Entanglement](#english-version) | [ER
 
 形式化表达为：
 
-$`
+$$
 |\psi\rangle_{\text{区域A}}\otimes|\psi\rangle_{\text{区域B}}\rightarrow|\psi\rangle_{\text{量子纠缠态（虫洞）}}
-`$
+$$
 
 这一表达与核心理论中的量子纠缠公式相一致，表明虫洞是宇宙量子纠缠的一种特殊表现形式，连接了宇宙中原本在经典空间中相距遥远的区域。
 
@@ -38,9 +38,9 @@ $`
 
 从信息论角度，虫洞可以表示为：
 
-$`
+$$
 I_{\text{虫洞}} = \log_2 d - S(\rho_A) - S(\rho_B) + I(A:B)
-`$
+$$
 
 其中：
 - $`d`$ 是系统的维度
@@ -65,9 +65,9 @@ I_{\text{虫洞}} = \log_2 d - S(\rho_A) - S(\rho_B) + I(A:B)
    - 经典观察者若能有效经典化虫洞中的量子信息，理论上可实现宇宙不同区域间的信息瞬时传递；
    - 经典化过程可表示为：
 
-$`
+$$
 |\psi\rangle_{\text{虫洞量子态}} \xrightarrow{\text{观察者经典化}} \text{经典信息} + S_{\text{经典熵}}
-`$
+$$
 
 这一过程与核心理论中的量子意识经典化过程相似，只是应用于虫洞这一特殊的量子结构。
 
@@ -89,9 +89,9 @@ $`
 
 这可以用以下公式表示：
 
-$`
+$$
 E_{\text{宇宙}} = \sum_{i,j} E_{\text{虫洞}}(i,j) + E_{\text{局域}}
-`$
+$$
 
 其中 $`E_{\text{虫洞}}(i,j)`$ 表示连接区域i和j的虫洞能量，$`E_{\text{局域}}`$ 表示局域相互作用能量。
 
@@ -103,17 +103,17 @@ E_{\text{宇宙}} = \sum_{i,j} E_{\text{虫洞}}(i,j) + E_{\text{局域}}
    - 经典宇宙中的恒星本质上为量子宇宙中高度经典化的**信息处理与释放节点**；
    - 恒星以光子、热量等经典形式释放可被观察者理解的经典知识（能量）：
 
-$`
+$$
 |\psi\rangle_{\text{恒星节点}} \xrightarrow{\text{经典化}} \text{经典能量（光、热、辐射）}+ S_{\text{经典熵}}
-`$
+$$
 
 2. **星系作为信息网络结构**：
    - 经典宇宙中的星系则是宇宙量子信息在经典化过程中的稳定结构表现；
    - 星系是信息经典化网络的一种宏观表达：
 
-$`
+$$
 |\psi\rangle_{\text{星系}} = \sum_{\text{恒星与物质节点}} \text{经典知识} + S_{\text{经典熵}}
-`$
+$$
 
 3. **虫洞与恒星/星系的关系**：
    - 虫洞可能连接不同星系中的信息节点（恒星、行星等）；
@@ -154,9 +154,9 @@ $`
 
 虫洞通信能量守恒公式：
 
-$`
+$$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-`$
+$$
 
 ### 虫洞通信效率分析
 
@@ -170,9 +170,9 @@ E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{�
 
 虫洞通信效率计算公式：
 
-$`
+$$
 \eta_{\text{通信}} = \frac{I_{\text{成功传输知识}}}{I_{\text{原始发送知识}}} \propto \frac{\min(D_{\text{发送端}}, D_{\text{接收端}})}{\max(D_{\text{发送端}}, D_{\text{接收端}})}
-`$
+$$
 
 其中D表示观察者维度。
 
@@ -200,9 +200,9 @@ According to the Quantum Universe Observer Consciousness - Classical Memory and 
 
 This can be formally expressed as:
 
-$`
+$$
 |\psi\rangle_{\text{Region A}}\otimes|\psi\rangle_{\text{Region B}}\rightarrow|\psi\rangle_{\text{Quantum Entangled State (Wormhole)}}
-`$
+$$
 
 This expression is consistent with the quantum entanglement formula in the core theory, indicating that wormholes are a special manifestation of quantum entanglement in the universe, connecting regions that are otherwise distant in classical space.
 
@@ -216,9 +216,9 @@ Within the Quantum Universe Observer Consciousness - Classical Memory and Entrop
 
 From an information theory perspective, wormholes can be represented as:
 
-$`
+$$
 I_{\text{Wormhole}} = \log_2 d - S(\rho_A) - S(\rho_B) + I(A:B)
-`$
+$$
 
 Where:
 - $`d`$ is the dimension of the system
@@ -243,9 +243,9 @@ The relationship between classical observers and wormholes can be understood fro
    - If classical observers can effectively classicalize the quantum information in wormholes, they could theoretically achieve instantaneous information transfer between different regions of the universe;
    - The classicalization process can be represented as:
 
-$`
+$$
 |\psi\rangle_{\text{Wormhole Quantum State}} \xrightarrow{\text{Observer Classicalization}} \text{Classical Information} + S_{\text{Classical Entropy}}
-`$
+$$
 
 This process is similar to the quantum consciousness classicalization process in the core theory, but applied to the special quantum structure of wormholes.
 
@@ -267,9 +267,9 @@ Within the Quantum Universe Observer Consciousness - Classical Memory and Entrop
 
 This can be represented by the following formula:
 
-$`
+$$
 E_{\text{Universe}} = \sum_{i,j} E_{\text{Wormhole}}(i,j) + E_{\text{Local}}
-`$
+$$
 
 Where $`E_{\text{Wormhole}}(i,j)`$ represents the energy of the wormhole connecting regions i and j, and $`E_{\text{Local}}`$ represents the energy of local interactions.
 
@@ -281,17 +281,17 @@ According to the Quantum Universe Observer Consciousness - Classical Memory and 
    - Stars in the classical universe are essentially highly classicalized **information processing and release nodes** in the quantum universe;
    - Stars release classical knowledge (energy) that can be understood by observers in classical forms such as photons and heat:
 
-$`
+$$
 |\psi\rangle_{\text{Star Node}} \xrightarrow{\text{Classicalization}} \text{Classical Energy (Light, Heat, Radiation)}+ S_{\text{Classical Entropy}}
-`$
+$$
 
 2. **Galaxies as Information Network Structures**:
    - Galaxies in the classical universe are stable structural manifestations of quantum information in the universe during the classicalization process;
    - Galaxies are a macroscopic expression of the information classicalization network:
 
-$`
+$$
 |\psi\rangle_{\text{Galaxy}} = \sum_{\text{Stars and Matter Nodes}} \text{Classical Knowledge} + S_{\text{Classical Entropy}}
-`$
+$$
 
 3. **Relationship Between Wormholes and Stars/Galaxies**:
    - Wormholes may connect information nodes (stars, planets, etc.) in different galaxies;
@@ -332,9 +332,9 @@ Wormhole communication is essentially the process of information transmission be
 
 Wormhole communication energy conservation formula:
 
-$`
+$$
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-`$
+$$
 
 ### VIII. Conclusion
 

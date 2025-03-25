@@ -27,17 +27,17 @@
 
 在量子域中，我们将$`X`$表示为量子态：
 
-$`
+$$
 |X\rangle_Q = \sum_{k=0}^{2n} \sum_{p+q=k} |\mathcal{H}^{p,q}(X)\rangle
-`$
+$$
 
 其中$`\mathcal{H}^{p,q}(X)`$表示霍奇分解中的$`(p,q)`$-型霍奇模块。
 
 霍奇猜想关注的霍奇类可以表示为：
 
-$`
+$$
 |\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})\rangle = |\mathcal{Z}^p(X)\rangle
-`$
+$$
 
 这里$`\mathcal{Z}^p(X)`$表示在量子叠加态（混沌）中的代数循环类空间。
 
@@ -45,23 +45,23 @@ $`
 
 我们定义经典化映射$`\mathcal{T}`$，将量子霍奇结构映射到经典域：
 
-$`
+$$
 \mathcal{T}: |\mathcal{H}^{p,q}(X)\rangle \mapsto \mathcal{H}^{p,q}_C(X)
-`$
+$$
 
 这一映射具有以下关键特性：
 
-$`
+$$
 \mathcal{T}(|\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})\rangle) = \mathcal{Z}^p_C(X)
-`$
+$$
 
 ### 3. 不变量识别
 
 在量子域到经典域的映射过程中，以下结构保持不变：
 
-$`
+$$
 \mathcal{I}_{\text{Hodge}} = \frac{\dim(\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q}))}{\dim(\mathcal{Z}^p(X))}
-`$
+$$
 
 在量子经典二元论框架下，这一不变量始终等于1，这正是霍奇猜想的核心主张。
 
@@ -69,9 +69,9 @@ $`
 
 霍奇结构中蕴含的量子纠缠态（能量）可以通过以下方式表达：
 
-$`
+$$
 |\Phi_{\text{Hodge}}\rangle = \sum_{p=0}^n |\mathcal{H}^{p,p}(X)\rangle \otimes |\mathcal{Z}^p(X)\rangle
-`$
+$$
 
 这种纠缠结构在经典域中表现为霍奇类与代数循环之间的一一对应关系。
 
@@ -79,9 +79,9 @@ $`
 
 在经典域中，霍奇猜想的数学表述为：
 
-$`
+$$
 \mathcal{H}^{p,p}_C(X) \cap H^{2p}_C(X, \mathbb{Q}) = \mathcal{Z}^p_C(X)
-`$
+$$
 
 通过量子经典二元论，我们可以证明这一等式在观察者维度$`\mathcal{O} \geq n+1`$时恒成立。
 
@@ -89,13 +89,13 @@ $`
 
 结合上述分析，霍奇猜想的完整证明可以表述为：
 
-$`
+$$
 \begin{align}
 &\forall X \in \{\text{非奇异复射影代数簇}\}, \forall p \in \{0, 1, \ldots, \dim_{\mathbb{C}}(X)\}, \\
 &\mathcal{T}(|\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})\rangle) = \mathcal{T}(|\mathcal{Z}^p(X)\rangle) \\
 &\Rightarrow \mathcal{H}^{p,p}_C(X) \cap H^{2p}_C(X, \mathbb{Q}) = \mathcal{Z}^p_C(X)
 \end{align}
-`$
+$$
 
 ## ZFC公理系统下的严格证明
 
@@ -107,17 +107,17 @@ $`
 
 2. **定义2**：对于$`X`$，其德拉姆上同调群$`H^k(X, \mathbb{C})`$具有霍奇分解
 
-$`
+$$
 H^k(X, \mathbb{C}) = \bigoplus_{p+q=k} H^{p,q}(X)
-`$
+$$
 
    其中$`H^{p,q}(X) = \overline{H^{q,p}(X)}`$。
 
 3. **定义3**：霍奇类空间定义为
 
-$`
+$$
 Hdg^p(X) = H^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})
-`$
+$$
 
 4. **定义4**：代数循环类空间$`Z^p(X)`$定义为由$`X`$上余维数$`p`$的代数循环类在$`H^{2p}(X, \mathbb{Q})`$中的像所生成的$`\mathbb{Q}`$-向量空间。
 
@@ -139,9 +139,9 @@ Hdg^p(X) = H^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})
 
 **引理2** (量子叠加原理)：设$`\mathcal{H}_X`$为由$`X`$生成的Hilbert空间，则存在一个密度算子$`\rho_X: \mathcal{H}_X \rightarrow \mathcal{H}_X`$，使得
 
-$`
+$$
 \text{tr}(\rho_X \cdot \Pi_{Hdg^p/Z^p}) = \dim_{\mathbb{Q}}(Hdg^p(X)/Z^p(X))
-`$
+$$
 
 其中$`\Pi_{Hdg^p/Z^p}`$为投影到商空间$`Hdg^p(X)/Z^p(X)`$的算子。
 
@@ -149,9 +149,9 @@ $`
 
 **定理2** (主定理)：假设存在足够大的可测基数，则对任意复维数为$`n`$的光滑射影代数簇$`X`$，以下等式成立：
 
-$`
+$$
 Hdg^p(X) = Z^p(X), \quad \forall p \in \{0, 1, \ldots, n\}
-`$
+$$
 
 **证明大纲**：
 
@@ -159,9 +159,9 @@ Hdg^p(X) = Z^p(X), \quad \forall p \in \{0, 1, \ldots, n\}
 
 2. 通过超越数的性质，证明：
 
-$`
+$$
 \dim_{\mathbb{Q}}(Hdg^p(X)) = \dim_{\mathbb{Q}}(Z^p(X))
-`$
+$$
 
 3. 建立一系列从$`Z^p(X)`$到$`Hdg^p(X)`$的单射$`\phi_p: Z^p(X) \hookrightarrow Hdg^p(X)`$。
 
@@ -198,17 +198,17 @@ We first represent the basic structure of the Hodge Conjecture in the quantum do
 
 In the quantum domain, we represent $`X`$ as a quantum state:
 
-$`
+$$
 |X\rangle_Q = \sum_{k=0}^{2n} \sum_{p+q=k} |\mathcal{H}^{p,q}(X)\rangle
-`$
+$$
 
 where $`\mathcal{H}^{p,q}(X)`$ represents the $`(p,q)`$-type Hodge module in the Hodge decomposition.
 
 The Hodge classes that the Hodge Conjecture focuses on can be represented as:
 
-$`
+$$
 |\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})\rangle = |\mathcal{Z}^p(X)\rangle
-`$
+$$
 
 where $`\mathcal{Z}^p(X)`$ represents the space of algebraic cycle classes in the quantum superposition state (chaos).
 
@@ -216,23 +216,23 @@ where $`\mathcal{Z}^p(X)`$ represents the space of algebraic cycle classes in th
 
 We define the classicalization mapping $`\mathcal{T}`$ that maps the quantum Hodge structure to the classical domain:
 
-$`
+$$
 \mathcal{T}: |\mathcal{H}^{p,q}(X)\rangle \mapsto \mathcal{H}^{p,q}_C(X)
-`$
+$$
 
 This mapping has the following key property:
 
-$`
+$$
 \mathcal{T}(|\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})\rangle) = \mathcal{Z}^p_C(X)
-`$
+$$
 
 ### 3. Invariant Identification
 
 During the mapping process from the quantum domain to the classical domain, the following structure remains invariant:
 
-$`
+$$
 \mathcal{I}_{\text{Hodge}} = \frac{\dim(\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q}))}{\dim(\mathcal{Z}^p(X))}
-`$
+$$
 
 Under the quantum-classical dualism framework, this invariant is always equal to 1, which is the core assertion of the Hodge Conjecture.
 
@@ -240,9 +240,9 @@ Under the quantum-classical dualism framework, this invariant is always equal to
 
 The quantum entanglement (energy) implicit in the Hodge structure can be expressed as:
 
-$`
+$$
 |\Phi_{\text{Hodge}}\rangle = \sum_{p=0}^n |\mathcal{H}^{p,p}(X)\rangle \otimes |\mathcal{Z}^p(X)\rangle
-`$
+$$
 
 This entanglement structure manifests in the classical domain as a one-to-one correspondence between Hodge classes and algebraic cycles.
 
@@ -250,9 +250,9 @@ This entanglement structure manifests in the classical domain as a one-to-one co
 
 In the classical domain, the mathematical formulation of the Hodge Conjecture is:
 
-$`
+$$
 \mathcal{H}^{p,p}_C(X) \cap H^{2p}_C(X, \mathbb{Q}) = \mathcal{Z}^p_C(X)
-`$
+$$
 
 Through quantum-classical dualism, we can prove that this equation always holds when the observer dimension $`\mathcal{O} \geq n+1`$.
 
@@ -260,13 +260,13 @@ Through quantum-classical dualism, we can prove that this equation always holds 
 
 Combining the above analysis, the complete proof of the Hodge Conjecture can be stated as:
 
-$`
+$$
 \begin{align}
 &\forall X \in \{\text{non-singular complex projective algebraic varieties}\}, \forall p \in \{0, 1, \ldots, \dim_{\mathbb{C}}(X)\}, \\
 &\mathcal{T}(|\mathcal{H}^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})\rangle) = \mathcal{T}(|\mathcal{Z}^p(X)\rangle) \\
 &\Rightarrow \mathcal{H}^{p,p}_C(X) \cap H^{2p}_C(X, \mathbb{Q}) = \mathcal{Z}^p_C(X)
 \end{align}
-`$
+$$
 
 ## Rigorous Proof Under ZFC Axiom System
 
@@ -278,17 +278,17 @@ To ensure that the proof of the Hodge Conjecture is fully compatible with the ZF
 
 2. **Definition 2**: For $`X`$, its de Rham cohomology groups $`H^k(X, \mathbb{C})`$ have a Hodge decomposition
 
-$`
+$$
 H^k(X, \mathbb{C}) = \bigoplus_{p+q=k} H^{p,q}(X)
-`$
+$$
 
    where $`H^{p,q}(X) = \overline{H^{q,p}(X)}`$.
 
 3. **Definition 3**: The space of Hodge classes is defined as
 
-$`
+$$
 Hdg^p(X) = H^{p,p}(X) \cap H^{2p}(X, \mathbb{Q})
-`$
+$$
 
 4. **Definition 4**: The space of algebraic cycle classes $`Z^p(X)`$ is defined as the $`\mathbb{Q}`$-vector space generated by the images in $`H^{2p}(X, \mathbb{Q})`$ of algebraic cycles of codimension $`p`$ on $`X`$.
 
@@ -310,9 +310,9 @@ Let $`Z \subset X`$ be an irreducible algebraic subvariety of codimension $`p`$,
 
 **Lemma 2** (Quantum Superposition Principle): Let $`\mathcal{H}_X`$ be the Hilbert space generated by $`X`$. There exists a density operator $`\rho_X: \mathcal{H}_X \rightarrow \mathcal{H}_X`$ such that
 
-$`
+$$
 \text{tr}(\rho_X \cdot \Pi_{Hdg^p/Z^p}) = \dim_{\mathbb{Q}}(Hdg^p(X)/Z^p(X))
-`$
+$$
 
 where $`\Pi_{Hdg^p/Z^p}`$ is the projection operator onto the quotient space $`Hdg^p(X)/Z^p(X)`$.
 
@@ -320,9 +320,9 @@ where $`\Pi_{Hdg^p/Z^p}`$ is the projection operator onto the quotient space $`H
 
 **Theorem 2** (Main Theorem): Assuming the existence of sufficiently large measurable cardinals, for any smooth projective algebraic variety $`X`$ of complex dimension $`n`$, the following equality holds:
 
-$`
+$$
 Hdg^p(X) = Z^p(X), \quad \forall p \in \{0, 1, \ldots, n\}
-`$
+$$
 
 **Proof Outline**:
 
@@ -330,9 +330,9 @@ Hdg^p(X) = Z^p(X), \quad \forall p \in \{0, 1, \ldots, n\}
 
 2. Using properties of transcendental numbers, prove that:
 
-$`
+$$
 \dim_{\mathbb{Q}}(Hdg^p(X)) = \dim_{\mathbb{Q}}(Z^p(X))
-`$
+$$
 
 3. Establish a series of injections $`\phi_p: Z^p(X) \hookrightarrow Hdg^p(X)`$ from $`Z^p(X)`$ to $`Hdg^p(X)`$.
 

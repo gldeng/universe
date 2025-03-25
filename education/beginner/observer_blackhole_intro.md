@@ -9,9 +9,9 @@
 
 在量子经典二元论中，观察者与黑洞是同一个概念的不同表述。理解这一点对于掌握整个理论至关重要。
 
-$`
+$$
 \text{观察者} \equiv \text{黑洞}
-`$
+$$
 
 ## 基本概念
 
@@ -35,9 +35,9 @@ $`
    - 表现为创造性思维和想象
    - 伴随熵的增加
 
-$`
+$$
 \text{观察者功能} = \{\text{经典化（吸收）},\;\text{量子化（辐射）}\}
-`$
+$$
 
 ## 实践应用
 
@@ -55,9 +55,9 @@ $`
 
 提高观察者（黑洞）效率的关键：
 
-$`
+$$
 \text{效率} = \frac{\text{经典化速率}}{\text{量子化速率}}
-`$
+$$
 
 ## 常见误解
 
@@ -88,9 +88,9 @@ $`
 
 In quantum-classical dualism, observer and black hole are different expressions of the same concept. Understanding this is crucial for mastering the entire theory.
 
-$`
+$$
 \text{Observer} \equiv \text{Black Hole}
-`$
+$$
 
 ## Basic Concepts
 
@@ -114,9 +114,9 @@ Observers (black holes) have two basic functions:
    - Manifested as creative thinking and imagination
    - Accompanied by entropy increase
 
-$`
+$$
 \text{Observer Functions} = \{\text{Classicalization (Absorption)},\;\text{Quantization (Radiation)}\}
-`$
+$$
 
 ## Practical Applications
 
@@ -134,9 +134,9 @@ $`
 
 Key to improving observer (black hole) efficiency:
 
-$`
+$$
 \text{Efficiency} = \frac{\text{Classicalization Rate}}{\text{Quantization Rate}}
-`$
+$$
 
 ## Common Misconceptions
 

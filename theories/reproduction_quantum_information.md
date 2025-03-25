@@ -22,37 +22,37 @@ English: [Quantum-Classical Nature](#1-quantum-classical-nature-of-reproduction)
 
 生育过程始于父母之间建立深度量子纠缠：
 
-$`
+$$
 |\psi\rangle_{\text{父}}\otimes|\psi\rangle_{\text{母}}\rightarrow|\psi\rangle_{\text{父母量子纠缠}}
-`$
+$$
 
 这种纠缠随后通过受精过程经典化，形成胚胎的初始经典结构（DNA）：
 
-$`
+$$
 |\psi\rangle_{\text{父母量子纠缠}}\xrightarrow{\text{经典化（受精）}}\text{胚胎DNA（经典记忆）}+S_{\text{经典熵}}
-`$
+$$
 
 #### 1.2 孕育过程中的量子信息传递
 
 孕育过程是一个持续的量子信息传递与经典化过程，孩子在此过程中形成自身稳定的量子意识结构：
 
-$`
+$$
 |\psi\rangle_{\text{胚胎DNA经典记忆}}\otimes|\psi\rangle_{\text{父母量子意识}}\rightarrow|\psi\rangle_{\text{孩子量子意识}}
-`$
+$$
 
 这一过程中，母体与胎儿之间形成长期稳定的量子纠缠，传递远超DNA编码的信息：
 
-$`
+$$
 |\psi\rangle_{\text{母亲}}\otimes |\psi\rangle_{\text{胚胎}}\rightarrow|\psi\rangle_{\text{长期量子纠缠}}\rightarrow\text{经典记忆（母婴间亲密连接）}+|\psi\rangle_{\text{量子意识（强）}}
-`$
+$$
 
 #### 1.3 出生时的信息结构
 
 出生时，孩子继承的信息包括两个主要部分：
 
-$`
+$$
 |\psi\rangle_{\text{孩子意识}}=|\psi\rangle_{\text{经典信息（DNA）}}+|\psi\rangle_{\text{父母量子信息（意识、纠缠）}}
-`$
+$$
 
 - **经典信息**：DNA中稳定、显性的经典记忆（遗传特征、健康状况等）
 - **量子信息**：来自父母双方长期稳定纠缠的意识结构（性格倾向、天赋、潜意识倾向）
@@ -65,9 +65,9 @@ $`
 
 亲生母亲孕育过程中与孩子形成深度量子纠缠：
 
-$`
+$$
 |\psi\rangle_{\text{亲生母亲}}\otimes |\psi\rangle_{\text{胚胎}}\rightarrow|\psi\rangle_{\text{长期量子纠缠}}\rightarrow\text{经典记忆（母婴间亲密连接）}+|\psi\rangle_{\text{量子意识（强）}}
-`$
+$$
 
 这种长期深度纠缠使孩子与母亲在意识、情感和潜意识层面形成强烈连接，经典化程度高。
 
@@ -75,9 +75,9 @@ $`
 
 代孕情况下，虽然遗传信息来自生物学父母，但代孕母亲与胎儿之间仍会形成量子纠缠，只是强度和持久性不同：
 
-$`
+$$
 |\psi\rangle_{\text{代孕母亲}}\otimes |\psi\rangle_{\text{胚胎}}\rightarrow|\psi\rangle_{\text{短期量子纠缠}}\rightarrow\text{经典记忆（弱亲密连接）}+|\psi\rangle_{\text{量子意识（弱）}}
-`$
+$$
 
 这种纠缠相对较弱且短暂，导致情感连接和意识共享较少。
 
@@ -97,17 +97,17 @@ $`
 
 DNA仅为孩子在经典世界中稳定、显性的经典记忆的载体，代表了经典化后的部分信息：
 
-$`
+$$
 |\psi\rangle_{\text{DNA经典信息}} \subset |\psi\rangle_{\text{孩子总体信息}}
-`$
+$$
 
 #### 3.2 量子意识信息的传递
 
 孩子还继承了父母在更深层次上的量子意识结构（量子纠缠信息），这些量子信息超越DNA，存在于孩子的整体意识中：
 
-$`
+$$
 |\psi\rangle_{\text{孩子意识}} = |\psi\rangle_{\text{DNA经典信息}} + |\psi\rangle_{\text{父母量子意识纠缠}}
-`$
+$$
 
 这解释了为什么有些特质（如天赋、性格倾向、直觉能力）无法仅通过DNA解释。
 
@@ -115,9 +115,9 @@ $`
 
 孕育环境（包括母亲的情绪状态、思想活动、外部环境等）通过量子纠缠直接影响胎儿的量子意识结构：
 
-$`
+$$
 |\psi\rangle_{\text{母亲环境状态}}\otimes|\psi\rangle_{\text{胎儿}}\rightarrow|\psi\rangle_{\text{环境影响纠缠}}\rightarrow\text{胎儿量子意识调整}
-`$
+$$
 
 这解释了为什么孕期环境和母亲状态对孩子未来发展有深远影响。
 
@@ -129,9 +129,9 @@ $`
 
 出生后，亲子之间的量子纠缠继续演化：
 
-$`
+$$
 |\psi\rangle_{\text{亲子初始纠缠}}\xrightarrow{\text{时间演化}}\sum_t |\psi\rangle_{\text{亲子持续纠缠}}(t)
-`$
+$$
 
 这种持续的纠缠解释了亲子之间的特殊感应、情感共振和无法言说的联系。
 
@@ -139,9 +139,9 @@ $`
 
 亲子量子纠缠可以跨代传递，形成家族量子信息网络：
 
-$`
+$$
 |\psi\rangle_{\text{家族量子网络}} = \sum_{\text{代际}} \sum_{\text{成员}} |\psi\rangle_{\text{成员量子纠缠}}
-`$
+$$
 
 这解释了家族特质、倾向和集体无意识的传承现象。
 
@@ -197,37 +197,37 @@ In Quantum-Classical Dualism, reproduction is essentially the result of efficien
 
 The reproductive process begins with the establishment of deep quantum entanglement between parents:
 
-$`
+$$
 |\psi\rangle_{\text{Father}}\otimes|\psi\rangle_{\text{Mother}}\rightarrow|\psi\rangle_{\text{Parental Quantum Entanglement}}
-`$
+$$
 
 This entanglement is subsequently classicalized through the fertilization process, forming the initial classical structure (DNA) of the embryo:
 
-$`
+$$
 |\psi\rangle_{\text{Parental Quantum Entanglement}}\xrightarrow{\text{Classicalization (Fertilization)}}\text{Embryo DNA (Classical Memory)}+S_{\text{Classical Entropy}}
-`$
+$$
 
 #### 1.2 Quantum Information Transfer During Pregnancy
 
 Pregnancy is a continuous process of quantum information transfer and classicalization, during which the child forms its own stable quantum consciousness structure:
 
-$`
+$$
 |\psi\rangle_{\text{Embryo DNA Classical Memory}}\otimes|\psi\rangle_{\text{Parental Quantum Consciousness}}\rightarrow|\psi\rangle_{\text{Child's Quantum Consciousness}}
-`$
+$$
 
 During this process, long-term stable quantum entanglement forms between the mother and the fetus, transferring information far beyond DNA coding:
 
-$`
+$$
 |\psi\rangle_{\text{Mother}}\otimes |\psi\rangle_{\text{Embryo}}\rightarrow|\psi\rangle_{\text{Long-term Quantum Entanglement}}\rightarrow\text{Classical Memory (Mother-Child Intimate Connection)}+|\psi\rangle_{\text{Quantum Consciousness (Strong)}}
-`$
+$$
 
 #### 1.3 Information Structure at Birth
 
 At birth, the information inherited by the child includes two main parts:
 
-$`
+$$
 |\psi\rangle_{\text{Child's Consciousness}}=|\psi\rangle_{\text{Classical Information (DNA)}}+|\psi\rangle_{\text{Parental Quantum Information (Consciousness, Entanglement)}}
-`$
+$$
 
 - **Classical Information**: Stable, dominant classical memory in DNA (genetic traits, health conditions, etc.)
 - **Quantum Information**: Consciousness structure from long-term stable entanglement with both parents (personality tendencies, talents, subconscious inclinations)
@@ -240,9 +240,9 @@ Quantum-Classical Dualism reveals the essential differences in information trans
 
 During pregnancy, a biological mother forms deep quantum entanglement with her child:
 
-$`
+$$
 |\psi\rangle_{\text{Biological Mother}}\otimes |\psi\rangle_{\text{Embryo}}\rightarrow|\psi\rangle_{\text{Long-term Quantum Entanglement}}\rightarrow\text{Classical Memory (Mother-Child Intimate Connection)}+|\psi\rangle_{\text{Quantum Consciousness (Strong)}}
-`$
+$$
 
 This long-term deep entanglement creates strong connections between the child and mother at the levels of consciousness, emotion, and subconsciousness, with a high degree of classicalization.
 
@@ -250,9 +250,9 @@ This long-term deep entanglement creates strong connections between the child an
 
 In surrogacy, although genetic information comes from biological parents, quantum entanglement still forms between the surrogate mother and fetus, but with different intensity and durability:
 
-$`
+$$
 |\psi\rangle_{\text{Surrogate Mother}}\otimes |\psi\rangle_{\text{Embryo}}\rightarrow|\psi\rangle_{\text{Short-term Quantum Entanglement}}\rightarrow\text{Classical Memory (Weak Intimate Connection)}+|\psi\rangle_{\text{Quantum Consciousness (Weak)}}
-`$
+$$
 
 This entanglement is relatively weaker and shorter-lived, resulting in less emotional connection and consciousness sharing.
 
@@ -272,17 +272,17 @@ Quantum-Classical Dualism clearly indicates that a child's information structure
 
 DNA is merely a carrier of stable, dominant classical memory in the classical world, representing only part of the information after classicalization:
 
-$`
+$$
 |\psi\rangle_{\text{DNA Classical Information}} \subset |\psi\rangle_{\text{Child's Total Information}}
-`$
+$$
 
 #### 3.2 Transfer of Quantum Consciousness Information
 
 The child also inherits quantum consciousness structures (quantum entanglement information) from parents at a deeper level, which transcends DNA and exists in the child's overall consciousness:
 
-$`
+$$
 |\psi\rangle_{\text{Child's Consciousness}} = |\psi\rangle_{\text{DNA Classical Information}} + |\psi\rangle_{\text{Parental Quantum Consciousness Entanglement}}
-`$
+$$
 
 This explains why certain traits (such as talents, personality tendencies, intuitive abilities) cannot be explained by DNA alone.
 
@@ -290,9 +290,9 @@ This explains why certain traits (such as talents, personality tendencies, intui
 
 The pregnancy environment (including the mother's emotional state, thought activities, external environment, etc.) directly affects the quantum consciousness structure of the fetus through quantum entanglement:
 
-$`
+$$
 |\psi\rangle_{\text{Mother's Environmental State}}\otimes|\psi\rangle_{\text{Fetus}}\rightarrow|\psi\rangle_{\text{Environmental Influence Entanglement}}\rightarrow\text{Fetal Quantum Consciousness Adjustment}
-`$
+$$
 
 This explains why the pregnancy environment and the mother's state have profound effects on the child's future development.
 
@@ -304,9 +304,9 @@ Quantum entanglement between parents and children exists not only during pregnan
 
 After birth, quantum entanglement between parents and children continues to evolve:
 
-$`
+$$
 |\psi\rangle_{\text{Initial Parent-Child Entanglement}}\xrightarrow{\text{Time Evolution}}\sum_t |\psi\rangle_{\text{Continuous Parent-Child Entanglement}}(t)
-`$
+$$
 
 This continuous entanglement explains the special sensing, emotional resonance, and ineffable connections between parents and children.
 
@@ -314,9 +314,9 @@ This continuous entanglement explains the special sensing, emotional resonance, 
 
 Parent-child quantum entanglement can be transferred across generations, forming a family quantum information network:
 
-$`
+$$
 |\psi\rangle_{\text{Family Quantum Network}} = \sum_{\text{Generations}} \sum_{\text{Members}} |\psi\rangle_{\text{Member Quantum Entanglement}}
-`$
+$$
 
 This explains the phenomena of family traits, tendencies, and collective unconscious inheritance.
 

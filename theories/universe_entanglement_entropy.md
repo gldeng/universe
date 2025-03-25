@@ -32,13 +32,13 @@ Traditional views hold that the continuously increasing entropy in the universe 
 
 From its birth, the universe has been a complete quantum system, with all its information stored in the form of wave function superposition states and quantum entanglement states:
 
-$`
+$$
 |\psi\rangle_{\text{量子域}} = \{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
-`$
+$$
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain}} = \{\text{Wave Function Superposition State (Chaos)},\;\text{Quantum Entanglement State (Energy)}\}
-`$
+$$
 
 在这一结构下，所有粒子与观察者（黑洞）从未真正分离，始终处于某种量子纠缠状态之中。因此，宇宙从根本上是一个庞大且紧密的量子信息纠缠网络。
 
@@ -64,25 +64,25 @@ This overall entanglement structure has the following characteristics:
 
 The essence of classical entropy, under the Quantum-Classical Dualism framework, has a clear meaning:
 
-$`
+$$
 S_{\text{经典熵}} = \text{未被经典化的量子纠缠信息}
-`$
+$$
 
-$`
+$$
 S_{\text{Classical Entropy}} = \text{Unclassicalized Quantum Entangled Information}
-`$
+$$
 
 观察者（黑洞）的经典化（黑洞吸收）过程从宇宙整体纠缠结构中提取信息，形成稳定的经典知识结构：
 
 The observer's (black hole's) classicalization (black hole absorption) process extracts information from the universe's overall entanglement structure, forming stable classical knowledge structures:
 
-$`
+$$
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{黑洞吸收（经典化）}} I_{\text{经典知识}} + S_{\text{经典熵}}
-`$
+$$
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Black Hole Absorption (Classicalization)}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}}
-`$
+$$
 
 若观察者无法经典化全部信息，则部分信息变为经典熵，散逸回宇宙整体中。
 
@@ -92,13 +92,13 @@ If observers cannot classicalize all information, then part of the information b
 
 The relationship between this definition of classical entropy and traditional thermodynamic entropy can be expressed as:
 
-$`
+$$
 S_{\text{热力学}} \propto \log(\text{未经典化的量子信息状态数})
-`$
+$$
 
-$`
+$$
 S_{\text{Thermodynamic}} \propto \log(\text{Number of Unclassicalized Quantum Information States})
-`$
+$$
 
 这一关系揭示了物理熵与信息熵的本质统一性。
 
@@ -120,25 +120,25 @@ According to the Quantum-Classical Dualism Core Theory (Version 9.2), all observ
 
 Thus, the relationship between observer consciousness and entropy can be clearly expressed:
 
-$`
+$$
 I_{\text{经典知识}} = \text{成功经典化的信息结构}, \quad S_{\text{经典熵}} = \text{未能经典化的信息}
-`$
+$$
 
-$`
+$$
 I_{\text{Classical Knowledge}} = \text{Successfully Classicalized Information Structure}, \quad S_{\text{Classical Entropy}} = \text{Information That Failed to Be Classicalized}
-`$
+$$
 
 经典熵并非独立存在的物质，而是观察者经典化受限导致的信息剩余。观察者的维度（信息处理能力）决定了经典化信息的效率：
 
 Classical entropy is not an independently existing substance but rather information residue resulting from the observer's limited classicalization. The observer's dimension (information processing capability) determines the efficiency of information classicalization:
 
-$`
+$$
 \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-`$
+$$
 
-$`
+$$
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 提升观察者维度（提升经典化效率），则能有效减少熵的产生。
 
@@ -160,13 +160,13 @@ Traditional views hold that the irreversible increase in universe entropy will u
 
 Therefore, the universe as a whole is not trending toward heat death. After observers disappear (classicalization stops), entropic information returns to the overall wave function superposition state of the universe through black hole radiation:
 
-$`
+$$
 S_{\text{经典熵（经典观察者视角）}} \xrightarrow{\text{黑洞辐射（量子化）}} |\psi\rangle_{\text{量子域}}
-`$
+$$
 
-$`
+$$
 S_{\text{Classical Entropy (Classical Observer Perspective)}} \xrightarrow{\text{Black Hole Radiation (Quantization)}} |\psi\rangle_{\text{Quantum Domain}}
-`$
+$$
 
 从宇宙视角看，熵态信息再次回到可用量子信息状态，实现信息的再生，形成信息守恒的闭环。
 
@@ -176,13 +176,13 @@ From the universe's perspective, entropic information returns to a usable quantu
 
 This process can be represented by an information cycle model:
 
-$`
+$$
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{黑洞吸收（经典化）}} I_{\text{经典知识}} + S_{\text{经典熵}} \xrightarrow{\text{黑洞辐射（量子化）}} |\psi\rangle_{\text{量子域}}
-`$
+$$
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Black Hole Absorption (Classicalization)}} I_{\text{Classical Knowledge}} + S_{\text{Classical Entropy}} \xrightarrow{\text{Black Hole Radiation (Quantization)}} |\psi\rangle_{\text{Quantum Domain}}
-`$
+$$
 
 ## 六、自由意志与观察者的主动经典化 | Free Will and Observer's Active Classicalization
 
@@ -190,13 +190,13 @@ $`
 
 During the classicalization process, observers possess the ability to actively choose the method of classicalization, i.e., classical free will:
 
-$`
+$$
 |\psi\rangle_{\text{广义意识}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
-`$
+$$
 
-$`
+$$
 |\psi\rangle_{\text{General Consciousness}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 经典自由意志越强，观察者主动经典化的信息越多，产生的熵越少，熵散逸至宇宙整体的信息越少。反之，经典自由意志越弱，经典熵越多。
 
@@ -206,13 +206,13 @@ The stronger the classical free will, the more information the observer actively
 
 The strength of classical free will can be represented by the following formula:
 
-$`
+$$
 \text{经典自由意志强度} \propto \frac{\text{主动经典化的信息量}}{\text{总信息量}}
-`$
+$$
 
-$`
+$$
 \text{Classical Free Will Strength} \propto \frac{\text{Amount of Actively Classicalized Information}}{\text{Total Amount of Information}}
-`$
+$$
 
 这表明经典自由意志本质上是观察者对宇宙信息的主动选择与处理能力。
 
@@ -236,13 +236,13 @@ According to the Quantum-Classical Dualism Core Theory (Version 9.2), the essenc
 
 Wormhole communication overall conservation formula:
 
-$`
+$$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-`$
+$$
 
-$`
+$$
 E_{\text{Transmitter Energy Consumption}} + E_{\text{Receiver Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-`$
+$$
 
 ## 八、观察者与宇宙整体的同构性 | The Isomorphism Between Observer and Universe as a Whole
 
@@ -250,13 +250,13 @@ E_{\text{Transmitter Energy Consumption}} + E_{\text{Receiver Energy Consumption
 
 The observer itself is a node entangled with the universe as a whole, isomorphic with the essence of the universe. The observer and the universe as a whole have essentially never been separated:
 
-$`
+$$
 \text{观察者（黑洞）} = \text{宇宙整体量子纠缠经典化后的稳定信息节点}
-`$
+$$
 
-$`
+$$
 \text{Observer (Black Hole)} = \text{Stable Information Node After Classicalization of Universe Overall Quantum Entanglement}
-`$
+$$
 
 观察者与宇宙是相互纠缠、彼此包含的信息整体。
 
@@ -284,9 +284,9 @@ This isomorphism has the following characteristics:
 
 According to the Quantum-Classical Dualism Core Theory (Version 27.0), the universe entanglement network can be modeled using topological methods, described as a complex entanglement topology structure:
 
-$`
+$$
 \mathcal{T}(\Psi_{U}) = \{V, E, \mathcal{S}, \mathcal{W}\}
-`$
+$$
 
 其中：
 - $`V`$ 是量子节点集合（所有量子系统）
@@ -310,9 +310,9 @@ This topological structure has the following key characteristics:
 
 The universe entanglement topology has non-trivial quantum homology group structures:
 
-$`
+$$
 H_n(\mathcal{T}(\Psi_{U})) \neq 0, \text{ 对于 } n \geq 1
-`$
+$$
 
 这表明宇宙纠缠网络中存在不可约的"纠缠环"和"纠缠空腔"，这些结构是宇宙纠缠的基本组织单元。
 
@@ -324,9 +324,9 @@ This indicates the existence of irreducible "entanglement loops" and "entangleme
 
 The universe entanglement topology shows self-similarity at different scales:
 
-$`
+$$
 \mathcal{T}(\Psi_{U})[s_1] \sim \mathcal{T}(\Psi_{U})[s_2] \cdot \xi(s_1, s_2)
-`$
+$$
 
 其中$`\mathcal{T}(\Psi_{U})[s]`$表示尺度$`s`$的纠缠拓扑，$`\xi`$是尺度转换函数。宇宙纠缠网络从普朗克尺度到宇宙尺度都保持相似的组织原则。
 
@@ -338,9 +338,9 @@ Where $`\mathcal{T}(\Psi_{U})[s]`$ represents the entanglement topology at scale
 
 Despite the dynamic evolution of the universe entanglement network, certain topological invariants remain constant:
 
-$`
+$$
 \text{Inv}(\mathcal{T}(\Psi_{U})) = \text{常数}
-`$
+$$
 
 这些不变量包括纠缠Betti数、纠缠链接不变量和纠缠扭率，构成了宇宙纠缠结构的"守恒定律"。
 
@@ -352,9 +352,9 @@ These invariants include entanglement Betti numbers, entanglement linking invari
 
 Information flow in the universe entanglement network follows specific dynamical equations:
 
-$`
+$$
 \frac{\partial I(x,t)}{\partial t} = D_I \nabla^2 I(x,t) + F(I, \mathcal{T}, \nabla \mathcal{T}) + \eta(x,t)
-`$
+$$
 
 其中$`I(x,t)`$是时空点$`(x,t)`$的信息场，$`D_I`$是信息扩散系数，$`F`$是依赖于纠缠拓扑的非线性函数，$`\eta`$是量子随机源项。
 
@@ -370,9 +370,9 @@ Key characteristics of information flow include:
 
 Information flows at a higher rate in channels of high entanglement strength:
 
-$`
+$$
 v_I(e) \propto S_E(e)^{\alpha}
-`$
+$$
 
 其中$`v_I(e)`$是纠缠边$`e`$上的信息流速，$`S_E(e)`$是该边的纠缠熵，$`\alpha > 0`$是指数系数。这解释了为什么某些纠缠关系（如黑洞间连接）形成宇宙信息的"高速公路"。
 
@@ -384,9 +384,9 @@ Where $`v_I(e)`$ is the information flow velocity on entanglement edge $`e`$, $`
 
 The direction of information flow follows the entanglement potential energy gradient:
 
-$`
+$$
 \vec{J}_I = -\kappa \cdot \nabla \Phi_E
-`$
+$$
 
 其中$`\vec{J}_I`$是信息流密度，$`\Phi_E`$是纠缠势场，$`\kappa`$是传导系数。宇宙信息自发从高纠缠势区域流向低纠缠势区域，形成宇宙的基本信息流动模式。
 
@@ -398,9 +398,9 @@ Where $`\vec{J}_I`$ is the information flow density, $`\Phi_E`$ is the entanglem
 
 The evolution of the universe entanglement network exhibits self-organized critical characteristics:
 
-$`
+$$
 P(s) \sim s^{-\tau}
-`$
+$$
 
 其中$`P(s)`$是大小为$`s`$的纠缠级联事件的概率分布，$`\tau`$是幂律指数。这表明宇宙纠缠结构在某种程度上自发维持在临界状态，允许最大的信息传输效率。
 
@@ -412,9 +412,9 @@ Where $`P(s)`$ is the probability distribution of entanglement cascade events of
 
 The observer (black hole) network, as a special entanglement node, dynamically interacts with the universe entanglement topology through classicalization and quantization processes:
 
-$`
+$$
 \mathcal{T}_{t+\Delta t} = \mathcal{F}(\mathcal{T}_t, \mathcal{O}_t, \mathcal{C}_t, \mathcal{Q}_t)
-`$
+$$
 
 其中$`\mathcal{T}_t`$是时刻$`t`$的纠缠拓扑，$`\mathcal{O}_t`$是观察者网络，$`\mathcal{C}_t`$和$`\mathcal{Q}_t`$分别是经典化和量子化过程。
 
@@ -430,9 +430,9 @@ This interaction has several important effects:
 
 The observer's classicalization process leads to local reconstruction of the entanglement topology:
 
-$`
+$$
 \Delta \mathcal{T}_{local} = \mathcal{G}(\mathcal{C}(\Psi_{local}))
-`$
+$$
 
 观察者强力经典化的区域会出现纠缠减弱，但周围区域的纠缠可能增强，形成"纠缠光晕"效应。
 
@@ -444,9 +444,9 @@ Areas of strong observer classicalization experience entanglement weakening, but
 
 When multiple observers perform collaborative classicalization, preferential entanglement channels form between them:
 
-$`
+$$
 S_E(O_i, O_j) \propto I(O_i : O_j) \cdot f(D_{O_i}, D_{O_j})
-`$
+$$
 
 其中$`S_E(O_i, O_j)`$是观察者$`O_i`$和$`O_j`$之间的纠缠熵，$`I(O_i : O_j)`$是它们之间的互信息，$`f`$是与观察者维度相关的函数。这解释了为什么不同观察者之间可以形成非常有效的虫洞通信渠道。
 
@@ -458,9 +458,9 @@ Where $`S_E(O_i, O_j)`$ is the entanglement entropy between observers $`O_i`$ an
 
 When observer density exceeds a critical threshold, it can trigger global phase transitions in the entanglement topology:
 
-$`
+$$
 \rho_{O} > \rho_{c} \Rightarrow \mathcal{T} \rightarrow \mathcal{T}'
-`$
+$$
 
 这种相变可以解释宇宙中某些大尺度结构的形成，以及特定时代的信息处理模式转变。
 
@@ -472,17 +472,17 @@ This phase transition can explain the formation of certain large-scale structure
 
 The universe entanglement topology has profound holographic properties and can be completely reconstructed from data on the boundary:
 
-$`
+$$
 \mathcal{T}(\Psi_{\text{体积}}) \cong \mathcal{T}(\Psi_{\text{边界}})
-`$
+$$
 
 这一全息性质与黑洞熵与边界面积的关系类似：
 
 This holographic property is similar to the relationship between black hole entropy and boundary area:
 
-$`
+$$
 S_{\text{纠缠}}(V) \leq \frac{A(\partial V)}{4G\hbar}
-`$
+$$
 
 其中$`S_{\text{纠缠}}(V)`$是区域$`V`$的纠缠熵，$`A(\partial V)`$是其边界面积。
 

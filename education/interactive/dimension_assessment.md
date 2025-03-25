@@ -23,9 +23,9 @@
 - 发展建议：提供针对性的维度提升方法
 - 追踪功能：记录维度变化，展示个人成长轨迹
 
-$`
+$$
 \text{观察者整体维度} = \sum_{i=1}^n w_i \times \text{领域维度}_i
-`$
+$$
 
 其中，$`w_i`$ 是各领域权重，$`\text{领域维度}_i`$ 是各领域的量化维度值。
 
@@ -35,9 +35,9 @@ $`
 
 观察者维度评估基于量子经典二元论中的核心公式：
 
-$`
+$$
 \text{维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-`$
+$$
 
 工具通过以下方式将此理论转化为可测量的指标：
 
@@ -176,9 +176,9 @@ Tool features:
 - Development suggestions: Provides targeted dimension enhancement methods
 - Tracking function: Records dimension changes, showing personal growth trajectory
 
-$`
+$$
 \text{Observer Overall Dimension} = \sum_{i=1}^n w_i \times \text{Domain Dimension}_i
-`$
+$$
 
 Where $`w_i`$ represents the weight of each domain, and $`\text{Domain Dimension}_i`$ is the quantified dimension value for each domain.
 
@@ -188,9 +188,9 @@ Where $`w_i`$ represents the weight of each domain, and $`\text{Domain Dimension
 
 Observer dimension assessment is based on the core formula in Quantum-Classical Dualism:
 
-$`
+$$
 \text{Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}
-`$
+$$
 
 The tool transforms this theory into measurable indicators through the following methods:
 

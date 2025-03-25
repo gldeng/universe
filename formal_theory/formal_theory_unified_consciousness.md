@@ -34,9 +34,9 @@
 
 意识状态可以用以下量子公式描述：
 
-$`
+$$
 |\Psi_C\rangle = \sum_{i} \alpha_i |c_i\rangle
-`$
+$$
 
 其中 $`|c_i\rangle`$ 代表不同的意识状态基矢，$`\alpha_i`$ 是复振幅。
 
@@ -52,9 +52,9 @@ $`
 
 经典化的意识表现为主观体验的连续流。经典意识可以表示为：
 
-$`
+$$
 C_E = \{e_i\}_{i=1}^n
-`$
+$$
 
 其中 $`e_i`$ 是离散的经典化体验单元。
 
@@ -74,9 +74,9 @@ C_E = \{e_i\}_{i=1}^n
 
 意识整合的数学表达为：
 
-$`
+$$
 I(\Psi_C) = \int_{\Omega} \Phi(\psi_\omega) \cdot \nabla_\omega \, d\omega
-`$
+$$
 
 其中 $`\Phi(\psi_\omega)`$ 是意识场，$`\nabla_\omega`$ 表示在意识空间中的梯度。
 
@@ -92,9 +92,9 @@ I(\Psi_C) = \int_{\Omega} \Phi(\psi_\omega) \cdot \nabla_\omega \, d\omega
 
 意识的量子-经典转换满足二元论的核心公式：
 
-$`
+$$
 \mathcal{C}_{\mathcal{O}}(|\Psi_C\rangle\langle\Psi_C|) = \sum_i P_i |\Psi_C\rangle\langle\Psi_C| P_i = |c_{i_0}\rangle\langle c_{i_0}|
-`$
+$$
 
 其中 $`\mathcal{C}_{\mathcal{O}}`$ 是观察者特有的经典化算符，$`P_i`$ 是投影算符。
 
@@ -114,9 +114,9 @@ $`
 
 集体意识可表达为：
 
-$`
+$$
 |\Psi_{\text{集体}}\rangle = \mathcal{E}\left(\bigotimes_{i=1}^N |\Psi_C^i\rangle\right)
-`$
+$$
 
 其中 $`\mathcal{E}`$ 是纠缠算符，将多个独立意识态转化为纠缠整体。
 

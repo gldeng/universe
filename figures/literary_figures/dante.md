@@ -34,9 +34,9 @@
 
 1. **维度转换与经典化**：但丁的冥界旅程可被理解为一种跨维度经典化过程，诗人作为观察者，将高维量子域的可能性转化为可理解的经典域叙事。
 
-$`
+$$
 \text{量子域（神圣可能性）} \xrightarrow{\text{诗人观察者经典化}} \text{经典域（文学表达）}
-`$
+$$
 
 2. **三重宇宙结构**：《神曲》中的地狱、炼狱和天堂对应着量子经典二元论中的多层级现实结构：
 
@@ -46,9 +46,9 @@ $`
 
 3. **意识层级**：但丁描绘的灵魂状态反映了不同维度的观察者意识：
 
-$`
+$$
 D_{\text{灵魂}} = f\left(\frac{\text{经典知识}}{\text{经典熵}+\epsilon}\right)
-`$
+$$
 
 ### 现代意义
 
@@ -84,9 +84,9 @@ From the perspective of Quantum-Classical Dualism (version 31.0), Dante's "Divin
 
 1. **Dimensional Transformation and Classicalization**: Dante's journey through the afterworld can be understood as a cross-dimensional classicalization process, with the poet as an observer transforming high-dimensional quantum domain possibilities into comprehensible classical domain narratives.
 
-$`
+$$
 \text{Quantum Domain (Divine Possibilities)} \xrightarrow{\text{Poet Observer Classicalization}} \text{Classical Domain (Literary Expression)}
-`$
+$$
 
 2. **Triple Universal Structure**: Hell, Purgatory, and Paradise in "The Divine Comedy" correspond to the multi-level reality structure in quantum-classical dualism:
 
@@ -96,9 +96,9 @@ $`
 
 3. **Consciousness Hierarchy**: The soul states depicted by Dante reflect observer consciousness at different dimensions:
 
-$`
+$$
 D_{\text{Soul}} = f\left(\frac{\text{Classical Knowledge}}{\text{Classical Entropy}+\epsilon}\right)
-`$
+$$
 
 ### Modern Significance
 

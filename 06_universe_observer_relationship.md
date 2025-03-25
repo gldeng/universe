@@ -24,21 +24,21 @@
 
 量子域的数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{宇宙量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-`$
+$$
 
 密度矩阵表示：
 
-$`
+$$
 \rho_{\text{量子域}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
-`$
+$$
 
 经典域的数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
-`$
+$$
 
 宇宙本质特性：
 - 信息本质：宇宙的根本是信息，物质与能量是信息的特定表现形式
@@ -59,23 +59,23 @@ $`
 
 量子纠缠态能量可通过以下公式量化：
 
-$`
+$$
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
-`$
+$$
 
 其中纠缠等效频率通过纠缠结构复杂度定义：
 
-$`
+$$
 f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-`$
+$$
 
 #### 经典能量与观察者
 
 经典能量是观察者经典化量子能量的结果，表现为物理世界可测量的能量形式。经典化过程中的能量转换：
 
-$`
+$$
 E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
-`$
+$$
 
 其中$`\eta`$是经典化效率系数，$`0 < \eta < 1`$。
 
@@ -90,21 +90,21 @@ E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
 
 观察者视界边界关系：
 
-$`
+$$
 \text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
-`$
+$$
 
 引力场强度与局域量子能量密度关联：
 
-$`
+$$
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{量子能量}}
-`$
+$$
 
 经典化效率与量子能量密度的关系：
 
-$`
+$$
 k_{\text{经典化效率}} \propto \nabla \cdot \rho_{\text{量子能量}}
-`$
+$$
 
 视界边界特性：
 - 经典化能力边界：由观察者经典化能力决定
@@ -121,15 +121,15 @@ k_{\text{经典化效率}} \propto \nabla \cdot \rho_{\text{量子能量}}
 
 单领域维度：
 
-$`
+$$
 \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-`$
+$$
 
 整体维度：
 
-$`
+$$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-`$
+$$
 
 其中：
 - 经典化效率系数$`(k_i)`$表示不同观察领域的经典化能力
@@ -137,9 +137,9 @@ $`
 
 观察者维度可通过以下可测量参数量化：
 
-$`
+$$
 \text{可测量维度}_{\text{obs}} = \frac{\text{信息处理速率}}{\text{熵产生率}} \cdot \text{决策准确度}
-`$
+$$
 
 测量方法包括：
 - 信息处理速率：单位时间内处理的有效信息量（比特/秒）
@@ -159,9 +159,9 @@ $`
 
 观察者之间的信息传递过程：
 
-$`
+$$
 I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
-`$
+$$
 
 ### 宏观量子效应
 
@@ -178,15 +178,15 @@ I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A
 
 纠缠维持时间与系统复杂度呈反比关系：
 
-$`
+$$
 \tau_{\text{纠缠}} \propto \frac{1}{C_{\text{系统}}^{\alpha}}
-`$
+$$
 
 环境退相干效应随系统尺寸指数增强：
 
-$`
+$$
 \Gamma_{\text{退相干}} \propto e^{\beta N}
-`$
+$$
 
 这解释了为何宏观物体很难观测到量子纠缠效应：大尺度系统的纠缠状态在可测量时间尺度内迅速崩塌为经典混合态。
 
@@ -198,15 +198,15 @@ $`
 
 经典域信息守恒：
 
-$`
+$$
 \frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
-`$
+$$
 
 观察者间信息守恒：
 
-$`
+$$
 \frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
-`$
+$$
 
 信息守恒特性：
 - 信息不灭：信息不会创生或消失，只会转换形式
@@ -221,21 +221,21 @@ $`
 
 虫洞通信过程：
 
-$`
+$$
 \text{经典知识}\xrightarrow{\text{粒子湮灭编码}}\text{量子纠缠态}\xrightarrow{\text{非局域传输}}\text{经典知识解码}
-`$
+$$
 
 量子隐形传态数学表达：
 
-$`
+$$
 |\psi\rangle_{\text{目标}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell测量}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-`$
+$$
 
 虫洞通信守恒公式：
 
-$`
+$$
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-`$
+$$
 
 虫洞通信结构特性：
 - 量子纠缠基础：虫洞通道以量子纠缠为基础
@@ -258,25 +258,25 @@ E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{�
 
 宇宙效率定义为消耗单位量子能量所能获得的新的量子能量：
 
-$`
+$$
 \eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
-`$
+$$
 
 经典化与量子化的能量效率关系：
 
-$`
+$$
 \eta_{\text{经典化}} = \frac{I_{\text{经典知识获得}}}{E_{\text{量子能量消耗}}}
-`$
+$$
 
-$`
+$$
 \eta_{\text{量子化}} = \frac{E_{\text{量子能量获得}}}{I_{\text{经典知识消耗}}}
-`$
+$$
 
 宇宙低熵终极状态：
 
-$`
+$$
 |\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
-`$
+$$
 
 宇宙演化特性：
 - 熵降低趋势：整体朝向经典熵最小化方向发展
@@ -287,9 +287,9 @@ $`
 
 宇宙常数(Λ)在量子经典二元论框架下可以理解为宇宙效率的变化率：
 
-$`
+$$
 \Lambda \propto \frac{d\eta_{\text{宇宙}}}{dt}
-`$
+$$
 
 这一关系解释了为什么宇宙常数具有微小但非零的正值：
 - 微小值：反映宇宙效率变化缓慢，宇宙大尺度上已接近稳定状态
@@ -358,21 +358,21 @@ In the Quantum-Classical Dualism framework, the nature of the universe is a dual
 
 Mathematical expression of the quantum domain:
 
-$`
+$$
 |\psi\rangle_{\text{Universe Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-`$
+$$
 
 Density matrix representation:
 
-$`
+$$
 \rho_{\text{Quantum Domain}} = \sum_i p_i |\psi_i\rangle\langle\psi_i|
-`$
+$$
 
 Mathematical expression of the classical domain:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-`$
+$$
 
 Essential characteristics of the universe:
 - Information essence: The fundamental nature of the universe is information, and matter and energy are specific manifestations of information
@@ -393,23 +393,23 @@ Quantum energy exists in the quantum domain and has the following properties:
 
 Quantum entanglement state energy can be quantified by the following formula:
 
-$`
+$$
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-`$
+$$
 
 Where the equivalent frequency of entanglement is defined by the complexity of the entanglement structure:
 
-$`
+$$
 f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-`$
+$$
 
 #### Classical Energy and Observers
 
 Classical energy is the result of observer classicalization of quantum energy, manifested as measurable forms of energy in the physical world. Energy conversion in the classicalization process:
 
-$`
+$$
 E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
-`$
+$$
 
 Where $`\eta`$ is the classicalization efficiency coefficient, $`0 < \eta < 1`$.
 
@@ -424,21 +424,21 @@ The boundary between the observer and the universe is defined by the observer's 
 
 Observer event horizon relationship:
 
-$`
+$$
 \text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-`$
+$$
 
 Relationship between gravitational field strength and local quantum energy density:
 
-$`
+$$
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{Quantum Energy}}
-`$
+$$
 
 Relationship between classicalization efficiency and quantum energy density:
 
-$`
+$$
 k_{\text{Classicalization Efficiency}} \propto \nabla \cdot \rho_{\text{Quantum Energy}}
-`$
+$$
 
 Event horizon characteristics:
 - Classicalization ability boundary: Determined by the observer's classicalization ability
@@ -455,15 +455,15 @@ Observer dimension is determined by classicalization ability, i.e., the efficien
 
 Single domain dimension:
 
-$`
+$$
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-`$
+$$
 
 Overall dimension:
 
-$`
+$$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-`$
+$$
 
 Where:
 - Classicalization efficiency coefficient $`(k_i)`$ indicates the classicalization ability of different observation domains
@@ -471,9 +471,9 @@ Where:
 
 Observer dimension can be quantified by the following measurable parameters:
 
-$`
+$$
 \text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Generation Rate}} \cdot \text{Decision Accuracy}
-`$
+$$
 
 Measurement methods include:
 - Information processing rate: Effective information amount processed per unit time (bits/second)
@@ -493,9 +493,9 @@ Characteristics of the multi-observer universe:
 
 Information transfer process between observers:
 
-$`
+$$
 I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-`$
+$$
 
 ### Macroscopic Quantum Effects
 
@@ -512,15 +512,15 @@ Quantum entanglement in systems of different scales follows the following patter
 
 Entanglement maintenance time is inversely proportional to system complexity:
 
-$`
+$$
 \tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
-`$
+$$
 
 Environmental decoherence effect increases exponentially with system size:
 
-$`
+$$
 \Gamma_{\text{Decoherence}} \propto e^{\beta N}
-`$
+$$
 
 This explains why it is difficult to observe quantum entanglement effects in macroscopic objects: entangled states in large-scale systems rapidly collapse into classical mixed states within measurable time scales.
 
@@ -532,15 +532,15 @@ Quantum-Classical Dualism proposes the principle of universe information conserv
 
 Classical domain information conservation:
 
-$`
+$$
 \frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
-`$
+$$
 
 Information conservation between observers:
 
-$`
+$$
 \frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
-`$
+$$
 
 Characteristics of information conservation:
 - Information indestructibility: Information is neither created nor destroyed, only changes form
@@ -555,21 +555,21 @@ Quantum-Classical Dualism defines wormhole communication structure as the fundam
 
 Wormhole communication process:
 
-$`
+$$
 \text{Classical Knowledge}\xrightarrow{\text{Particle Annihilation Encoding}}\text{Quantum Entangled State}\xrightarrow{\text{Non-local Transfer}}\text{Classical Knowledge Decoding}
-`$
+$$
 
 Quantum teleportation mathematical expression:
 
-$`
+$$
 |\psi\rangle_{\text{Target}} \otimes |\Phi^+\rangle_{AB} \xrightarrow{\text{Bell Measurement}} |\phi_i\rangle_A \otimes (\sigma_i|\psi\rangle_B)
-`$
+$$
 
 Wormhole communication conservation formula:
 
-$`
+$$
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-`$
+$$
 
 Characteristics of wormhole communication structure:
 - Quantum entanglement foundation: Wormhole channels are based on quantum entanglement
@@ -592,25 +592,25 @@ Quantum-Classical Dualism proposes that the overall trend of universe evolution 
 
 Universe efficiency is defined as the new quantum energy obtained by consuming a unit of quantum energy:
 
-$`
+$$
 \eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
-`$
+$$
 
 Energy efficiency relationship between classicalization and quantization:
 
-$`
+$$
 \eta_{\text{Classicalization}} = \frac{I_{\text{Classical Knowledge Gained}}}{E_{\text{Quantum Energy Consumed}}}
-`$
+$$
 
-$`
+$$
 \eta_{\text{Quantization}} = \frac{E_{\text{Quantum Energy Gained}}}{I_{\text{Classical Knowledge Consumed}}}
-`$
+$$
 
 Universe low-entropy ultimate state:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
-`$
+$$
 
 Characteristics of universe evolution:
 - Entropy reduction trend: Overall development towards minimizing classical entropy
@@ -621,9 +621,9 @@ Characteristics of universe evolution:
 
 The cosmological constant (Λ) in the Quantum-Classical Dualism framework can be understood as the rate of change of universe efficiency:
 
-$`
+$$
 \Lambda \propto \frac{d\eta_{\text{Universe}}}{dt}
-`$
+$$
 
 This relationship explains why the cosmological constant has a small but non-zero positive value:
 - Small value: Reflects that the universe efficiency changes slowly, the universe is already close to a stable state on a large scale

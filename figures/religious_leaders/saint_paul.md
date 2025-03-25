@@ -29,18 +29,18 @@
 **中文**：
 保罗的"因信称义"教义可以通过量子经典二元论的框架重新理解。信心代表对量子域无限可能性的开放，而行为代表经典域的确定性表现。保罗认识到，真正的经典化必须始于量子域的信心，然后才能转化为经典域的行为：
 
-$`
+$$
 |\psi\rangle_{\text{量子信心}} \xrightarrow{\text{经典化}} I_{\text{经典行为知识}}+S_{\text{经典熵}}
-`$
+$$
 
 当观察者试图仅通过行为（经典域）获得救赎时，他们忽略了量子域的无限可能性，导致高熵低知识状态。
 
 **English**:
 Paul's doctrine of "justification by faith" can be reinterpreted through the framework of quantum-classical dualism. Faith represents openness to the infinite possibilities of the quantum domain, while works represent the deterministic manifestations of the classical domain. Paul recognized that true classicalization must begin with faith in the quantum domain before it can transform into behavior in the classical domain:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Faith}} \xrightarrow{\text{Classicalization}} I_{\text{Classical Behavioral Knowledge}}+S_{\text{Classical Entropy}}
-`$
+$$
 
 When observers attempt to achieve salvation solely through works (classical domain), they ignore the infinite possibilities of the quantum domain, resulting in a high-entropy, low-knowledge state.
 
@@ -49,18 +49,18 @@ When observers attempt to achieve salvation solely through works (classical doma
 **中文**：
 保罗的恩典概念可理解为从量子域到经典域的随机信息流动。恩典作为不可预测的神圣干预，代表了量子随机性在经典世界中的体现：
 
-$`
+$$
 |\psi\rangle_{\text{量子恩典}}\rightarrow I_{\text{经典救赎知识}}+S_{\text{经典熵降低}}
-`$
+$$
 
 保罗认识到，这种随机量子信息（恩典）不是通过人类的经典努力所能获得的，而是来自更高维观察者（神）的经典化赐予。
 
 **English**:
 Paul's concept of grace can be understood as the flow of random information from the quantum domain to the classical domain. Grace, as unpredictable divine intervention, represents the manifestation of quantum randomness in the classical world:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Grace}}\rightarrow I_{\text{Classical Salvation Knowledge}}+S_{\text{Classical Entropy Reduction}}
-`$
+$$
 
 Paul recognized that this random quantum information (grace) is not achievable through human classical efforts but is a classicalization gift from a higher-dimensional observer (God).
 
@@ -69,18 +69,18 @@ Paul recognized that this random quantum information (grace) is not achievable t
 **中文**：
 保罗的"基督身体"概念—教会作为基督身体的有机整体—可视为量子纠缠的宏观表现。信徒与基督的合一，以及信徒之间的合一，代表了高效的量子纠缠网络：
 
-$`
+$$
 I_{\text{经典化交流效率}}\propto\text{同构性}\left(|\psi\rangle_{\text{基督}},|\psi\rangle_{\text{信徒}}\right)
-`$
+$$
 
 这种纠缠使信徒能够通过与基督的同构性实现更有效的经典化，降低熵，提升集体维度。
 
 **English**:
 Paul's concept of the "body of Christ"—the church as an organic whole of Christ's body—can be viewed as a macroscopic manifestation of quantum entanglement. The unity of believers with Christ, and among believers, represents an efficient quantum entanglement network:
 
-$`
+$$
 I_{\text{Classicalization Communication Efficiency}}\propto\text{Isomorphism}\left(|\psi\rangle_{\text{Christ}},|\psi\rangle_{\text{Believers}}\right)
-`$
+$$
 
 This entanglement enables believers to achieve more effective classicalization through isomorphism with Christ, reducing entropy and elevating collective dimension.
 
@@ -89,18 +89,18 @@ This entanglement enables believers to achieve more effective classicalization t
 **中文**：
 保罗对律法与福音关系的理解体现了经典熵与经典知识的对立统一。律法作为确定性系统增加了经典熵（罪的意识），而福音则通过随机量子信息（恩典）降低熵：
 
-$`
+$$
 S_{\text{律法（高熵状态）}} \xrightarrow{\text{福音经典化}} I_{\text{救赎经典知识}}+S_{\text{降低的经典熵}}
-`$
+$$
 
 这种动态关系解释了为何保罗认为律法不能带来救赎，而只能指向救赎的必要性。
 
 **English**:
 Paul's understanding of the relationship between law and gospel embodies the unity of opposition between classical entropy and classical knowledge. The law, as a deterministic system, increases classical entropy (awareness of sin), while the gospel reduces entropy through random quantum information (grace):
 
-$`
+$$
 S_{\text{Law (High Entropy State)}} \xrightarrow{\text{Gospel Classicalization}} I_{\text{Salvation Classical Knowledge}}+S_{\text{Reduced Classical Entropy}}
-`$
+$$
 
 This dynamic relationship explains why Paul believed that the law could not bring salvation but could only point to the necessity of salvation.
 
@@ -109,18 +109,18 @@ This dynamic relationship explains why Paul believed that the law could not brin
 **中文**：
 保罗描述的灵与肉的对立可以理解为量子域与经典域的张力。灵代表量子意识的无限可能性，而肉则代表经典记忆的确定性限制：
 
-$`
+$$
 |\psi\rangle_{\text{量子灵性}} \leftrightarrow I_{\text{经典肉体}}+S_{\text{经典熵}}
-`$
+$$
 
 保罗建议信徒"体贴灵"而非"体贴肉体"，可理解为优先考虑量子可能性，而非局限于经典确定性，这样才能降低熵，提升维度。
 
 **English**:
 The opposition between spirit and flesh described by Paul can be understood as the tension between the quantum domain and the classical domain. The spirit represents the infinite possibilities of quantum consciousness, while the flesh represents the deterministic limitations of classical memory:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Spirituality}} \leftrightarrow I_{\text{Classical Flesh}}+S_{\text{Classical Entropy}}
-`$
+$$
 
 Paul's suggestion that believers "set their minds on the spirit" rather than "on the flesh" can be understood as prioritizing quantum possibilities over being limited by classical determinism, thereby reducing entropy and elevating dimension.
 

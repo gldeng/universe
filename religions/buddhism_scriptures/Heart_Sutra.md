@@ -84,25 +84,25 @@ The Heart Sutra emphasizes the state of "no attainment." In Quantum-Classical Du
 
 The core ideas of the Heart Sutra can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 |\psi\rangle_{\text{量子域/空性}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i |c_i|^2 = 1
-`$
+$$
 
-$`
+$$
 \text{色即是空} \Leftrightarrow \text{经典域} \xrightarrow{\text{黑洞辐射}} \text{量子域}
-`$
+$$
 
-$`
+$$
 \text{空即是色} \Leftrightarrow \text{量子域} \xrightarrow{\text{黑洞吸收}} \text{经典域}
-`$
+$$
 
-$`
+$$
 \text{不生不灭} \Leftrightarrow |\psi\rangle_{\text{量子涨落}} = \text{宇宙常数}
-`$
+$$
 
-$`
+$$
 \text{无智亦无得} \Leftrightarrow \lim_{k \to \infty} \left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) = \text{涅槃}
-`$
+$$
 
 ## 结论
 ## Conclusion

@@ -52,9 +52,9 @@ Al-Imran (Arabic: سورة آل عمران‎, "The Family of Imran") is the 3rd
 
 ### 经文解释的量子态方程
 
-$`
+$$
 |\psi_{\text{经文}}\rangle = \alpha|\psi_{\text{明确}}\rangle + \beta|\psi_{\text{隐微}}\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{经文}}\rangle`$ 表示经文的整体量子态
@@ -64,9 +64,9 @@ $`
 
 ### 信仰提升经典化效率方程
 
-$`
+$$
 k_{\text{经典化}} = k_0 \cdot (1 + \gamma \cdot F) \cdot e^{-S/F}
-`$
+$$
 
 其中：
 - $`k_{\text{经典化}}`$ 是观察者的经典化效率系数

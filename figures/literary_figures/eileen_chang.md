@@ -35,33 +35,33 @@
 
 1. **情感的量子叠加态**：《倾城之恋》中的爱情描写：
 
-$`
+$$
 |\psi\rangle_{\text{情感}} = \alpha |\text{爱}\rangle + \beta |\text{恨}\rangle + \gamma |\text{无奈}\rangle
-`$
+$$
 
 2. **命运的量子纠缠**：《半生缘》中的人物关系：
 
-$`
+$$
 |\Psi_{\text{命运}}\rangle = \sum_{i,j} c_{ij} |\text{人物}_i\rangle |\text{际遇}_j\rangle
-`$
+$$
 
 3. **人性的量子态**：《金锁记》中的曹七巧形象：
 
-$`
+$$
 |\phi\rangle_{\text{人性}} = \alpha |\text{善}\rangle |\text{恶}\rangle + \beta |\text{爱}\rangle |\text{恨}\rangle
-`$
+$$
 
 4. **身份的量子流动性**：《色，戒》中的王佳芝：
 
-$`
+$$
 |\psi\rangle_{\text{身份}} = \sum_t c_t |\text{间谍}_t\rangle \otimes |\text{情人}_t\rangle
-`$
+$$
 
 5. **都市空间的量子观察**：对上海、香港的描写：
 
-$`
+$$
 |\Psi_{\text{都市}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{空间}_i\rangle |\text{人物}_i\rangle |\text{情感}_i\rangle
-`$
+$$
 
 ### 现代意义
 

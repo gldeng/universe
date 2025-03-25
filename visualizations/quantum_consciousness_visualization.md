@@ -226,9 +226,9 @@
 
 #### 意识维度方程
 
-$`
+$$
 D_{意识} = k \cdot \frac{I_{经典化知识}}{S_{经典熵}}
-`$
+$$
 
 其中D是意识维度，I是经典化知识，S是经典熵，k是常数。
 
@@ -254,9 +254,9 @@ D_{意识} = k \cdot \frac{I_{经典化知识}}{S_{经典熵}}
 
 #### 意识纠缠方程
 
-$`
+$$
 |\Psi_{AB}\rangle = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_A \otimes |\phi_j\rangle_B
-`$
+$$
 
 可视化为意识纠缠网络：
 
@@ -496,9 +496,9 @@ Below are visualizations of mathematical models describing quantum consciousness
 
 #### Consciousness Dimension Equation
 
-$`
+$$
 D_{Consciousness} = k \cdot \frac{I_{Classicalized Knowledge}}{S_{Classical Entropy}}
-`$
+$$
 
 Where D is consciousness dimension, I is classicalized knowledge, S is classical entropy, and k is a constant.
 
@@ -525,9 +525,9 @@ Visualized as a dimension change curve:
 
 #### Consciousness Entanglement Equation
 
-$`
+$$
 |\Psi_{AB}\rangle = \sum_{i,j} \alpha_{ij} |\psi_i\rangle_A \otimes |\phi_j\rangle_B
-`$
+$$
 
 Visualized as a consciousness entanglement network:
 

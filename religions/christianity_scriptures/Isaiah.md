@@ -52,9 +52,9 @@ The Book of Isaiah is the longest prophetic book in the Old Testament, recording
 
 ### 跨时间经典化方程
 
-$`
+$$
 |\psi_{\text{预言}}\rangle = \sum_{t=-\infty}^{+\infty} c_t|t\rangle\otimes|\text{事件}_t\rangle
-`$
+$$
 
 其中：
 - $`|\psi_{\text{预言}}\rangle`$ 表示预言的量子态
@@ -64,9 +64,9 @@ $`
 
 ### 受苦仆人熵交换方程
 
-$`
+$$
 \Delta S_{\text{总体}} = \Delta S_{\text{仆人}} + \Delta S_{\text{人类}} < 0
-`$
+$$
 
 其中：
 - $`\Delta S_{\text{总体}}`$ 是整体系统熵变

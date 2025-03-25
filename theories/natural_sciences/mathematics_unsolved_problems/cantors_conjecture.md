@@ -25,39 +25,39 @@ From the quantum-classical dualism perspective, Cantor's conjecture reflects the
 
 连续统假设可以形式化表述为：
 
-$`
+$$
 \nexists S \text{ 使得 } \aleph_0 < |S| < 2^{\aleph_0}
-`$
+$$
 
 其中$`\aleph_0`$表示可数无穷集合（如自然数集）的基数，$`2^{\aleph_0}`$表示实数集的基数。
 
 在ZFC公理系统中，我们采用以下定义：
 
-$`
+$$
 \begin{align}
 \aleph_0 &= |\mathbb{N}| = |\{0, 1, 2, 3, ...\}| \\
 2^{\aleph_0} &= |\mathcal{P}(\mathbb{N})| = |\mathbb{R}|
 \end{align}
-`$
+$$
 
 其中$`\mathcal{P}(\mathbb{N})`$表示自然数集的幂集。
 
 The Continuum Hypothesis can be formally expressed as:
 
-$`
+$$
 \nexists S \text{ such that } \aleph_0 < |S| < 2^{\aleph_0}
-`$
+$$
 
 where $`\aleph_0`$ represents the cardinality of countably infinite sets (such as the set of natural numbers), and $`2^{\aleph_0}`$ represents the cardinality of the set of real numbers.
 
 In the ZFC axiom system, we adopt the following definitions:
 
-$`
+$$
 \begin{align}
 \aleph_0 &= |\mathbb{N}| = |\{0, 1, 2, 3, ...\}| \\
 2^{\aleph_0} &= |\mathcal{P}(\mathbb{N})| = |\mathbb{R}|
 \end{align}
-`$
+$$
 
 where $`\mathcal{P}(\mathbb{N})`$ represents the power set of the set of natural numbers.
 
@@ -77,12 +77,12 @@ Given that the Continuum Hypothesis is independent of the ZFC axiom system, we p
 
 形式化表示为：
 
-$`
+$$
 \begin{align}
 \text{Con}(\text{ZFC}) &\Rightarrow \text{Con}(\text{ZFC} + \text{CH}) \\
 \text{Con}(\text{ZFC}) &\Rightarrow \text{Con}(\text{ZFC} + \lnot\text{CH})
 \end{align}
-`$
+$$
 
 其中$`\text{Con}(T)`$表示理论$`T`$的一致性。
 
@@ -94,12 +94,12 @@ First, we state the precise formulation of the Gödel-Cohen independence result:
 
 Formally represented as:
 
-$`
+$$
 \begin{align}
 \text{Con}(\text{ZFC}) &\Rightarrow \text{Con}(\text{ZFC} + \text{CH}) \\
 \text{Con}(\text{ZFC}) &\Rightarrow \text{Con}(\text{ZFC} + \lnot\text{CH})
 \end{align}
-`$
+$$
 
 where $`\text{Con}(T)`$ represents the consistency of theory $`T`$.
 
@@ -115,9 +115,9 @@ where $`\text{Con}(T)`$ represents the consistency of theory $`T`$.
 
 形式化表示为：
 
-$`
+$$
 \forall X, |X| < |\mathcal{P}(X)|
-`$
+$$
 
 由此可得：$`\aleph_0 < 2^{\aleph_0}`$。
 
@@ -131,9 +131,9 @@ $`
 
 Formally represented as:
 
-$`
+$$
 \forall X, |X| < |\mathcal{P}(X)|
-`$
+$$
 
 From this, we can derive: $`\aleph_0 < 2^{\aleph_0}`$.
 
@@ -146,12 +146,12 @@ From this, we can derive: $`\aleph_0 < 2^{\aleph_0}`$.
 
 形式化表示为：
 
-$`
+$$
 \begin{align}
 \text{CH} &\Leftrightarrow 2^{\aleph_0} = \aleph_1 \\
 &\Leftrightarrow \forall S \subseteq \mathbb{R}, (|S| > \aleph_0 \Rightarrow |S| = 2^{\aleph_0})
 \end{align}
-`$
+$$
 
 **Theorem 3.1**: The following statements are equivalent in ZFC:
 1. Continuum Hypothesis: $`\nexists S`$ such that $`\aleph_0 < |S| < 2^{\aleph_0}`$
@@ -160,12 +160,12 @@ $`
 
 Formally represented as:
 
-$`
+$$
 \begin{align}
 \text{CH} &\Leftrightarrow 2^{\aleph_0} = \aleph_1 \\
 &\Leftrightarrow \forall S \subseteq \mathbb{R}, (|S| > \aleph_0 \Rightarrow |S| = 2^{\aleph_0})
 \end{align}
-`$
+$$
 
 ### 4. 量子经典转换的形式化 | Formalization of Quantum-Classical Transition
 
@@ -199,12 +199,12 @@ Now, we provide an information-theoretic interpretation of the Continuum Hypothe
 
 形式化表示为：
 
-$`
+$$
 \begin{align}
 \mathcal{O}_A &\models \text{CH} \\
 \mathcal{O}_B &\models \lnot\text{CH}
 \end{align}
-`$
+$$
 
 其中 $`\models`$ 表示语义蕴含关系。
 
@@ -212,9 +212,9 @@ $`
 
 形式化表示为：
 
-$`
+$$
 \lnot\exists \mathcal{M} \forall \mathcal{O} : \mathcal{M} \text{ 在观察者 } \mathcal{O} \text{ 下能确定 CH 的真假}
-`$
+$$
 
 We introduce strict axioms for observer dependence:
 
@@ -224,12 +224,12 @@ We introduce strict axioms for observer dependence:
 
 Formally represented as:
 
-$`
+$$
 \begin{align}
 \mathcal{O}_A &\models \text{CH} \\
 \mathcal{O}_B &\models \lnot\text{CH}
 \end{align}
-`$
+$$
 
 where $`\models`$ represents the semantic entailment relation.
 
@@ -237,9 +237,9 @@ where $`\models`$ represents the semantic entailment relation.
 
 Formally represented as:
 
-$`
+$$
 \lnot\exists \mathcal{M} \forall \mathcal{O} : \mathcal{M} \text{ can determine the truth of CH under observer } \mathcal{O}
-`$
+$$
 
 ### 6. 完备性与独立性的形式关系 | Formal Relationship Between Completeness and Independence
 
@@ -247,9 +247,9 @@ $`
 
 形式化表示为：
 
-$`
+$$
 \forall \mathcal{M} \exists \mathcal{O}_{\mathcal{M}} : \forall \varphi (\mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \varphi \lor \mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \lnot\varphi)
-`$
+$$
 
 其中 $`\varphi`$ 是任意一阶逻辑公式。
 
@@ -257,17 +257,17 @@ $`
 
 形式化表示为：
 
-$`
+$$
 \lnot\exists \mathcal{O}_U \forall \mathcal{M} \forall \varphi (\mathcal{M}, \mathcal{O}_U \models \varphi \lor \mathcal{M}, \mathcal{O}_U \models \lnot\varphi)
-`$
+$$
 
 **Theorem 6.1** (Observer Completeness Theorem): For any ZFC model $`\mathcal{M}`$, there exists an observer framework $`\mathcal{O}_{\mathcal{M}}`$ such that under this framework, $`\mathcal{M}`$ is complete.
 
 Formally represented as:
 
-$`
+$$
 \forall \mathcal{M} \exists \mathcal{O}_{\mathcal{M}} : \forall \varphi (\mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \varphi \lor \mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \lnot\varphi)
-`$
+$$
 
 where $`\varphi`$ is any first-order logic formula.
 
@@ -275,9 +275,9 @@ where $`\varphi`$ is any first-order logic formula.
 
 Formally represented as:
 
-$`
+$$
 \lnot\exists \mathcal{O}_U \forall \mathcal{M} \forall \varphi (\mathcal{M}, \mathcal{O}_U \models \varphi \lor \mathcal{M}, \mathcal{O}_U \models \lnot\varphi)
-`$
+$$
 
 ## 结论与预测 | Conclusion and Predictions
 

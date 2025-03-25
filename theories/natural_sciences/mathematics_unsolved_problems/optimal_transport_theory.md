@@ -23,21 +23,21 @@
 
 寻找映射 $`T: X \to X`$ 使得 $`T_{\#}\mu = \nu`$（即 $`T`$ 将 $`\mu`$ 推送到 $`\nu`$），并最小化总成本：
 
-$`
+$$
 \int_X c(x, T(x)) d\mu(x)
-`$
+$$
 
 Kantorovich松弛版本引入联合分布概念，寻找 $`\gamma \in \Gamma(\mu, \nu)`$（$`\mu`$ 和 $`\nu`$ 的联合分布集合）最小化：
 
-$`
+$$
 \int_{X \times X} c(x, y) d\gamma(x, y)
-`$
+$$
 
 Wasserstein距离 $`W_p`$ 定义为：
 
-$`
+$$
 W_p(\mu, \nu) = \left( \inf_{\gamma \in \Gamma(\mu, \nu)} \int_{X \times X} d(x, y)^p d\gamma(x, y) \right)^{1/p}
-`$
+$$
 
 其中 $`d`$ 是空间 $`X`$ 上的距离函数。
 
@@ -49,31 +49,31 @@ W_p(\mu, \nu) = \left( \inf_{\gamma \in \Gamma(\mu, \nu)} \int_{X \times X} d(x,
 
 定义量子-经典状态映射函数 $`\Phi`$，将量子态映射到经典域中的概率分布：
 
-$`
+$$
 \Phi: |\psi\rangle \to \mu_{\psi}
-`$
+$$
 
 其中 $`|\psi\rangle`$ 是量子态，$`\mu_{\psi}`$ 是对应的经典域概率分布。
 
 最优传输问题可重新表述为：在保持量子信息整体一致性的前提下，如何以最小能量成本在经典域中转换观察者配置：
 
-$`
+$$
 |\psi\rangle_{\text{初始}} \xrightarrow{\text{经典域转换}} |\phi\rangle_{\text{目标}}
-`$
+$$
 
 ### 步骤2：量子-经典最小作用量原理
 
 从物理角度，最优传输可理解为满足最小作用量原理的量子-经典转换过程：
 
-$`
+$$
 \mathcal{S}[T] = \int_X c(x, T(x)) d\mu(x)
-`$
+$$
 
 这一作用量泛函 $`\mathcal{S}[T]`$ 对应于经典物理中的作用量，而最优传输映射 $`T_{\text{opt}}`$ 对应于最小作用量路径：
 
-$`
+$$
 \delta \mathcal{S}[T_{\text{opt}}] = 0
-`$
+$$
 
 ### 步骤3：Wasserstein几何的量子信息解释
 
@@ -81,17 +81,17 @@ Wasserstein空间（概率测度空间配备Wasserstein距离）可理解为经�
 
 Wasserstein距离的几何意义是：
 
-$`
+$$
 W_p(\mu, \nu) = \text{将量子信息配置}\mu\text{转变为}\nu\text{所需的最小量子能量}^{1/p}
-`$
+$$
 
 ### 步骤4：传输映射的量子-经典对偶性
 
 Brenier定理证明，在欧氏空间中，对于二次成本函数，最优传输映射是某个凸函数的梯度：
 
-$`
+$$
 T(x) = \nabla \varphi(x)
-`$
+$$
 
 从量子经典视角，这反映了量子-经典转换过程中的对偶性原理：存在对偶势能函数 $`\varphi`$ 决定了量子信息的经典域最优流动路径。这一结果可进一步解释为量子哈密顿力学在经典域中的表现。
 
@@ -99,9 +99,9 @@ T(x) = \nabla \varphi(x)
 
 最优传输导出的Monge-Ampère方程：
 
-$`
+$$
 \det(D^2\varphi(x)) = \frac{\mu(x)}{\nu(\nabla\varphi(x))}
-`$
+$$
 
 从量子经典视角，这可理解为描述量子场经典化过程中的密度变换方程。方程的非线性性质反映了量子纠缠信息在经典域中的非线性转换特性。
 
@@ -109,9 +109,9 @@ $`
 
 熵正则化最优传输引入熵项：
 
-$`
+$$
 \min_{\gamma \in \Gamma(\mu, \nu)} \int c(x,y)d\gamma(x,y) + \varepsilon H(\gamma)
-`$
+$$
 
 从量子经典视角，这对应于有限温度下的量子-经典转换，其中 $`\varepsilon`$ 类似于温度参数，控制量子与经典之间的平衡。熵正则化导出的Sinkhorn算法则可理解为量子-经典平衡的迭代逼近方法。
 
@@ -188,15 +188,15 @@ This ensures that $`\mathcal{C}(|\psi\rangle) = \{p_i\}_{i=1}^n`$ is a valid pro
 
 **引理2**: 对任意量子态 $`|\psi\rangle`$，存在互补信息量 $`I_{\text{hidden}}(|\psi\rangle)`$ 使得:
 
-$`
+$$
 I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-`$
+$$
 
 **Lemma 2**: For any quantum state $`|\psi\rangle`$, there exists a complementary information quantity $`I_{\text{hidden}}(|\psi\rangle)`$ such that:
 
-$`
+$$
 I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-`$
+$$
 
 **证明**:
 设 $`\rho = |\psi\rangle\langle\psi|`$ 是纯态密度矩阵，其经典化结果为 $`\mathcal{C}(\rho) = \{p_i\}_{i=1}^n`$。
@@ -231,9 +231,9 @@ i.e., $`I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi
 **定理证明**:
 对任意量子态 $`|\psi\rangle`$，根据引理2，我们有:
 
-$`
+$$
 I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-`$
+$$
 
 定义总信息量 $`I_{\text{total}}(|\psi\rangle) = I(|\psi\rangle)`$。
 
@@ -248,9 +248,9 @@ I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
 **Theorem Proof**:
 For any quantum state $`|\psi\rangle`$, according to Lemma 2, we have:
 
-$`
+$$
 I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-`$
+$$
 
 Define the total information as $`I_{\text{total}}(|\psi\rangle) = I(|\psi\rangle)`$.
 
@@ -273,43 +273,43 @@ This completes the ZFC-compatible formal proof of the information conservation p
 
 根据信息守恒原理，我们有:
 
-$`
+$$
 I(|\psi_1\rangle) = I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle)
-`$
+$$
 
-$`
+$$
 I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-`$
+$$
 
 定义最优传输映射 $`T: \text{supp}(\mu_1) \to \text{supp}(\mu_2)`$ 满足 $`T_{\#}\mu_1 = \mu_2`$。
 
 最优传输成本为:
 
-$`
+$$
 C(T) = \int_X c(x, T(x)) d\mu_1(x)
-`$
+$$
 
 我们证明 $`C(T)`$ 受信息守恒约束:
 
 引入Lagrangian:
 
-$`
+$$
 \mathcal{L}(T, \lambda) = C(T) + \lambda(I(\mu_1) - I(T_{\#}\mu_1))
-`$
+$$
 
 由于 $`T_{\#}\mu_1 = \mu_2`$，且根据信息守恒:
 
-$`
+$$
 I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle) = I(|\psi_1\rangle) = I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-`$
+$$
 
 这意味着 $`I(\mu_1) - I(\mu_2) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)`$。
 
 因此，最优传输问题等价于在信息守恒约束下最小化传输成本:
 
-$`
+$$
 \min_{T: T_{\#}\mu_1 = \mu_2} C(T) \quad \text{s.t.} \quad I(\mu_1) - I(T_{\#}\mu_1) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)
-`$
+$$
 
 这证明了最优传输问题可解释为在保持信息守恒约束下最小化量子-经典转换成本的过程。■
 
@@ -318,43 +318,43 @@ Let $`\mu_1 = \mathcal{C}(|\psi_1\rangle)`$ and $`\mu_2 = \mathcal{C}(|\psi_2\ra
 
 According to the information conservation principle, we have:
 
-$`
+$$
 I(|\psi_1\rangle) = I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle)
-`$
+$$
 
-$`
+$$
 I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-`$
+$$
 
 Define the optimal transport map $`T: \text{supp}(\mu_1) \to \text{supp}(\mu_2)`$ satisfying $`T_{\#}\mu_1 = \mu_2`$.
 
 The optimal transport cost is:
 
-$`
+$$
 C(T) = \int_X c(x, T(x)) d\mu_1(x)
-`$
+$$
 
 We prove that $`C(T)`$ is constrained by information conservation:
 
 Introduce the Lagrangian:
 
-$`
+$$
 \mathcal{L}(T, \lambda) = C(T) + \lambda(I(\mu_1) - I(T_{\#}\mu_1))
-`$
+$$
 
 Since $`T_{\#}\mu_1 = \mu_2`$, and according to information conservation:
 
-$`
+$$
 I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle) = I(|\psi_1\rangle) = I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-`$
+$$
 
 This implies $`I(\mu_1) - I(\mu_2) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)`$.
 
 Therefore, the optimal transport problem is equivalent to minimizing transport costs under information conservation constraints:
 
-$`
+$$
 \min_{T: T_{\#}\mu_1 = \mu_2} C(T) \quad \text{s.t.} \quad I(\mu_1) - I(T_{\#}\mu_1) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)
-`$
+$$
 
 This proves that the optimal transport problem can be interpreted as the process of minimizing quantum-classical transformation costs under the constraint of information conservation. ■
 

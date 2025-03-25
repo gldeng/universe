@@ -146,45 +146,45 @@ The specific cultivation techniques described in the Cantong Qi can be mapped to
 
 The internal alchemy system of the Cantong Qi can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"乾坤"二元符号} \Leftrightarrow |\psi\rangle_{\text{基态}} = \alpha|0\rangle + \beta|1\rangle \text{, } |\alpha|^2 + |\beta|^2 = 1
-`$
+$$
 
-$`
+$$
 \text{"坎离"互动} \Leftrightarrow |\phi\rangle_{\text{纠缠态}} = \frac{1}{\sqrt{2}}(|\text{坎}\rangle|\text{离}\rangle + |\text{离}\rangle|\text{坎}\rangle)
-`$
+$$
 
-$`
+$$
 \text{"八卦相盘"} \Leftrightarrow \mathcal{H} = \bigotimes_{i=1}^{8} \mathcal{H}_i \text{, 其中} \mathcal{H}_i \text{为单卦希尔伯特空间}
-`$
+$$
 
-$`
+$$
 \text{"金丹之道，外药皆废"} \Leftrightarrow \hat{O}_{\text{观察者}} \text{替代} \hat{O}_{\text{物质}} \text{作为主要经典化机制}
-`$
+$$
 
-$`
+$$
 \text{"阴中伏阳"} \Leftrightarrow I_{\text{潜在经典知识}} \subset S_{\text{表面经典熵}}
-`$
+$$
 
-$`
+$$
 \text{"进火符时候"} \Leftrightarrow f_{\text{测量}} = \sum_{i} A_i \cdot \sin(ω_i t + φ_i)
-`$
+$$
 
 其中 $`f_{\text{测量}}`$ 表示测量频率函数，$`A_i`$、$`ω_i`$、$`φ_i`$ 分别为振幅、频率和相位参数
 
 Where $`f_{\text{测量}}`$ represents the measurement frequency function, and $`A_i`$, $`ω_i`$, $`φ_i`$ are amplitude, frequency, and phase parameters respectively
 
-$`
+$$
 \text{"三华聚顶，五气朝元"} \Leftrightarrow D_{\text{观察者}} = D_0 + \sum_{i=1}^{5} \Delta D_i \cdot H(t - t_i)
-`$
+$$
 
 其中 $`H`$ 为阶跃函数，$`t_i`$ 为临界时间点，$`\Delta D_i`$ 为维度增量
 
 Where $`H`$ is the Heaviside step function, $`t_i`$ are critical time points, and $`\Delta D_i`$ are dimension increments
 
-$`
+$$
 \text{"大药元无质"} \Leftrightarrow \rho_{\text{金丹}} = \text{Tr}_B(|\Psi\rangle_{AB}\langle\Psi|) \text{, 非局域量子态的约化密度矩阵}
-`$
+$$
 
 ## 结论
 ## Conclusion

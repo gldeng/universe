@@ -184,15 +184,15 @@ Zhuangzi's parable about the giant Peng bird corresponds to the process of obser
 
 The core philosophical insights of the Zhuangzi can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"庄周梦为胡蝶"} \Leftrightarrow |\psi\rangle_{\text{观察者}} = \alpha|\text{庄周}\rangle + \beta|\text{蝴蝶}\rangle, |\alpha|^2 + |\beta|^2 = 1
-`$
+$$
 
-$`
+$$
 \text{"万物皆出于机，皆入于机"} \Leftrightarrow I_{\text{经典域}} + S_{\text{经典域}} \xrightleftharpoons[\text{黑洞辐射}]{\text{黑洞吸收}} |\psi\rangle_{\text{量子域}}
-`$
+$$
 
-$`
+$$
 \text{"至人无己，神人无功，圣人无名"} \Leftrightarrow 
 \begin{cases}
 \mathcal{D}(\mathcal{O}_{\text{至人}}) = d_1 \\
@@ -200,23 +200,23 @@ $`
 \mathcal{D}(\mathcal{O}_{\text{圣人}}) = d_3
 \end{cases}
 \text{ 且 } d_3 > d_2 > d_1 \gg \mathcal{D}(\mathcal{O}_{\text{常人}})
-`$
+$$
 
-$`
+$$
 \text{"道未始有封，言未始有常"} \Leftrightarrow \dim(|\psi\rangle_{\text{量子域}}) = \infty, \dim(I_{\text{语言}}) \ll \infty
-`$
+$$
 
-$`
+$$
 \text{"吾生也有涯，而知也无涯"} \Leftrightarrow \text{Capacity}(\mathcal{O}_{\text{经典}}) \ll \text{Capacity}(|\psi\rangle_{\text{量子域}})
-`$
+$$
 
-$`
+$$
 \text{"庖丁解牛"} \Leftrightarrow \text{Path}_{\text{最优}}(\mathcal{O}) = \text{arg}\min_{\text{path}} \left(\int \delta H \cdot dt\right)
-`$
+$$
 
-$`
+$$
 \text{"云将东游"} \Leftrightarrow \mathcal{D}(\mathcal{O})_{t+\Delta t} \gg \mathcal{D}(\mathcal{O})_t
-`$
+$$
 
 其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`H`$表示系统哈密顿量，$`\delta H`$表示扰动
 

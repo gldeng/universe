@@ -29,9 +29,9 @@
 
 玛丽·居里的科学生涯恰好处于物理学从经典牛顿范式向量子物理范式转变的关键历史节点。她的放射性研究工作成为了这一范式转换的重要催化剂，她本人的科学方法和思想也体现了经典实证主义与新兴量子视角的独特融合。
 
-$`
+$$
 |\psi\rangle_{\text{居里科学思想}} = \alpha|\psi\rangle_{\text{经典实证方法}} + \beta|\psi\rangle_{\text{量子物质观}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    居里夫人的实证方法论体现了经典确定性与量子不确定性的平衡：
 
    $$
-
    I_{\text{实验方法（经典）}} \times |\psi\rangle_{\text{开放发现（量子）}} = |\psi\rangle_{\text{居里科学方法}}
    $$
 
@@ -51,7 +50,6 @@ $`
    居里对物质本性的探索体现了从经典到量子的认知转变：
 
    $$
-
    |\psi\rangle_{\text{物质观}} \xrightarrow{\text{放射性研究}} [I_{\text{原子可分（经典崩溃）}} + |\psi\rangle_{\text{能量转化（量子兴起）}}]
    $$
 
@@ -62,7 +60,6 @@ $`
    居里的跨学科研究方法体现了量子纠缠的方法论模型：
 
    $$
-
    |\psi\rangle_{\text{研究方法}} = |\psi\rangle_{\text{物理学}} \otimes |\psi\rangle_{\text{化学}} \otimes |\psi\rangle_{\text{矿物学}}
    $$
 
@@ -73,7 +70,6 @@ $`
    居里的科学伦理观体现了个人成就与集体利益的量子非局域性关联：
 
    $$
-
    |\psi\rangle_{\text{科学价值}} = \frac{1}{\sqrt{2}}(|\psi\rangle_{\text{知识发现}} + |\psi\rangle_{\text{人类福祉}})
    $$
 
@@ -84,7 +80,6 @@ $`
    居里对性别平等的追求体现了量子突破与经典障碍的持续对抗：
 
    $$
-
    |\psi\rangle_{\text{女性潜能}} \xrightarrow{\text{经典性别障碍}} I_{\text{受限状态}} \xrightarrow{\text{居里突破}} |\psi\rangle_{\text{潜能释放}}
    $$
 

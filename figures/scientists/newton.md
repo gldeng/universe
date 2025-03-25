@@ -29,9 +29,9 @@
 
 艾萨克·牛顿建立的科学体系成为后世所定义的"经典物理学"典范，同时也为量子物理的突破性发展奠定了基础。他的思想虽然强调确定性和连续性，但其中也包含了对复杂性和不可见力量的深入思考，体现了量子-经典二元思维的早期萌芽。
 
-$`
+$$
 |\psi\rangle_{\text{牛顿科学}} = \alpha|\psi\rangle_{\text{经典定律（显性）}} + \beta|\psi\rangle_{\text{非经典探索（隐性）}}
-`$
+$$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,7 +40,6 @@ $`
    牛顿普适法则理念体现了量子-经典互补性的早期直觉：
 
    $$
-
    I_{\text{可见现象（经典）}} \Rightarrow |\psi\rangle_{\text{不可见规律（量子）}} \Rightarrow I_{\text{数学表达（经典）}}
    $$
 
@@ -51,7 +50,6 @@ $`
    牛顿的科学方法体现了量子-经典认知循环：
 
    $$
-
    I_{\text{现象观察（经典）}} \rightarrow |\psi\rangle_{\text{假设形成（量子）}} \rightarrow I_{\text{数学推导（经典）}} \rightarrow |\psi\rangle_{\text{实验验证（量子-经典交互）}}
    $$
 
@@ -62,7 +60,6 @@ $`
    牛顿的统一力学代表了认知的量子跃迁和新经典建立：
 
    $$
-
    [|\psi\rangle_{\text{地面力学}} + |\psi\rangle_{\text{天体力学}}] \xrightarrow{\text{牛顿统一}} I_{\text{普适力学框架}}
    $$
 
@@ -73,7 +70,6 @@ $`
    牛顿的时空观包含了经典确定性与量子可能性的潜在张力：
 
    $$
-
    I_{\text{绝对时空（容器）}} × |\psi\rangle_{\text{力的作用（内容）}} = |\psi\rangle_{\text{牛顿宇宙模型}}
    $$
 
@@ -84,7 +80,6 @@ $`
    牛顿的机械宇宙观体现了经典确定性与量子复杂性的对立统一：
 
    $$
-
    I_{\text{决定论框架}} - S_{\text{三体问题复杂性}} = |\psi\rangle_{\text{牛顿宇宙}}
    $$
 
@@ -95,7 +90,6 @@ $`
    牛顿个人思想展现了严格经典与深度量子的双重性：
 
    $$
-
    |\psi\rangle_{\text{牛顿思想}} = |\psi\rangle_{\text{理性科学（公开）}} \otimes |\psi\rangle_{\text{神秘探索（私密）}}
    $$
 

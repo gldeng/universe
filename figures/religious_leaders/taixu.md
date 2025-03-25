@@ -16,9 +16,9 @@
 
 2. **心识转化理论**
 
-$`
+$$
 \Psi_{\text{心识}} = \sum_{i} \alpha_i |\text{妄念}_i\rangle \xrightarrow{\text{修行}} |\text{觉悟}\rangle
-`$
+$$
 
    - 妄念代表意识的量子叠加态
    - 觉悟表示向特定经典态的坍缩
@@ -32,9 +32,9 @@ $`
 
 在量子经典二元论框架下，太虚大师的佛教改革可表达为：
 
-$`
+$$
 \mathcal{M}_{\text{太虚}}: \Omega_Q^{\text{佛性}} \xrightarrow{\text{人生佛教}} \Omega_C^{\text{现实}}
-`$
+$$
 
 其中$`\Omega_Q^{\text{佛性}}`$代表佛性的量子可能性空间，$`\Omega_C^{\text{现实}}`$代表通过修行实现的经典现实状态。
 
@@ -56,9 +56,9 @@ Master Taixu (1890-1947), as a key figure in modern Chinese Buddhist reform, his
 
 2. **Consciousness Transformation Theory**
 
-$`
+$$
 \Psi_{\text{consciousness}} = \sum_{i} \alpha_i |\text{delusion}_i\rangle \xrightarrow{\text{practice}} |\text{enlightenment}\rangle
-`$
+$$
 
    - Delusions represent quantum superposition states of consciousness
    - Enlightenment indicates collapse to specific classical state
@@ -72,9 +72,9 @@ $`
 
 Within quantum-classical dualism framework, Taixu's Buddhist reform can be expressed as:
 
-$`
+$$
 \mathcal{M}_{\text{Taixu}}: \Omega_Q^{\text{Buddha-nature}} \xrightarrow{\text{Buddhism for Human Life}} \Omega_C^{\text{reality}}
-`$
+$$
 
 Where $`\Omega_Q^{\text{Buddha-nature}}`$ represents the quantum possibility space of Buddha nature, and $`\Omega_C^{\text{reality}}`$ represents the classical reality state achieved through practice.
 

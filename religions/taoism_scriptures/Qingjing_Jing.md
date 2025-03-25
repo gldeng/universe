@@ -134,37 +134,37 @@ The cultivation goals in the Qingjing Jing can be mapped to the observer dimensi
 
 The principles of cultivation in the Qingjing Jing can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$`
+$$
 \text{"大道无形"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \sum_{i=1}^{\infty} c_i |i\rangle \text{, 维度} n \to \infty
-`$
+$$
 
-$`
+$$
 \text{"有清有浊，有动有静"} \Leftrightarrow |\psi\rangle = \alpha|\text{清}\rangle + \beta|\text{浊}\rangle + \gamma|\text{动}\rangle + \delta|\text{静}\rangle
-`$
+$$
 
-$`
+$$
 \text{"绝想去念"} \Leftrightarrow \min\left(\hat{O}_{\text{观察者}} |\psi\rangle\right) \to \text{最小化测量干扰}
-`$
+$$
 
-$`
+$$
 \text{"人能常清静"} \Leftrightarrow k_{\text{经典化}} \to k_{\text{max}} \text{, 当观察者内部系统达到平衡}
-`$
+$$
 
-$`
+$$
 \text{"神清气静"} \Leftrightarrow I_{\text{经典知识}} \uparrow \text{且} S_{\text{经典熵}} \downarrow
-`$
+$$
 
-$`
+$$
 \text{"一念有所思，即一念有生灭"} \Leftrightarrow |\psi\rangle \xrightarrow{\text{测量}} |i\rangle \text{, 概率} |c_i|^2
-`$
+$$
 
-$`
+$$
 \text{"性寂身亦寂"} \Leftrightarrow \rho_{\text{观察者-被观察系统}} \approx \rho_{\text{观察者}} \otimes \rho_{\text{被观察系统}} \text{, 量子纠缠最小化}
-`$
+$$
 
-$`
+$$
 \text{"渐入真道"} \Leftrightarrow D_{\text{观察者}} = D_0 + \int_{t_0}^{t} \xi(t) \cdot Q(t) dt
-`$
+$$
 
 其中 $`\xi(t)`$ 表示清静状态的深度，$`Q(t)`$ 为量子经典转换效率
 

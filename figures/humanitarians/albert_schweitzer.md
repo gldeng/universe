@@ -28,64 +28,64 @@
 ### 中文
 1. **敬畏生命作为观察者网络认同**: 施韦泽的敬畏生命原则可理解为认同所有生命都是量子信息经典化的观察者，共同构成宇宙经典化网络：
 
-$`
+$$
 |\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{多生命观察者经典化}}\sum_{\text{生命网络}}(I_{\text{经典知识}}+S_{\text{经典熵}})
-`$
+$$
 
 2. **服务作为经典熵降低机制**: 施韦泽在非洲的医疗服务可视为主动参与降低他人经典熵的过程，将疾病的无序转化为健康的秩序：
 
-$`
+$$
 S_{\text{患者疾病熵}}\xrightarrow{\text{医疗服务}}I_{\text{健康知识}}+S_{\text{降低的熵}}
-`$
+$$
 
 3. **多领域精通作为跨经典世界整合**: 施韦泽在医学、音乐、神学和哲学多领域的成就体现了高维观察者能力，可以跨越多个经典世界并整合知识：
 
-$`
+$$
 \sum_i I_{\text{领域知识}_i}+S_{\text{领域隔离熵}}\xrightarrow{\text{跨学科整合}}I_{\text{整合知识}}+S_{\text{降低熵}}
-`$
+$$
 
 4. **历史批判与经典记忆修正**: 施韦泽对耶稣历史研究的批判方法，本质是对宗教经典世界历史记忆的修正，通过从其他经典世界（历史学）引入信息：
 
-$`
+$$
 I_{\text{宗教经典记忆（旧）}}+|\psi\rangle_{\text{历史批判随机信息}}\rightarrow I_{\text{宗教经典记忆（新）}}+S_{\text{熵变动}}
-`$
+$$
 
 5. **行动证明价值作为有效经典化**: 施韦泽强调思想必须通过行动证明，体现了有效量子纠缠（经典知识增加，熵降低）的原则：
 
-$`
+$$
 |\psi\rangle_{\text{哲学思想}}\xrightarrow{\text{行动验证}}I_{\text{有效经典知识}}+S_{\text{熵降低}} \quad \text{vs.} \quad |\psi\rangle_{\text{纯理论}}\rightarrow S_{\text{无效熵增加}}
-`$
+$$
 
 ### English
 1. **Reverence for Life as Observer Network Identification**: Schweitzer's principle of reverence for life can be understood as recognition that all life forms are observers classicalizing quantum information, collectively forming the universe's classicalization network:
 
-$`
+$$
 |\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Multiple Life Observers Classicalization}}\sum_{\text{Life Network}}(I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}})
-`$
+$$
 
 2. **Service as Classical Entropy Reduction Mechanism**: Schweitzer's medical service in Africa can be viewed as actively participating in reducing others' classical entropy, transforming the disorder of disease into the order of health:
 
-$`
+$$
 S_{\text{Patient Disease Entropy}}\xrightarrow{\text{Medical Service}}I_{\text{Health Knowledge}}+S_{\text{Reduced Entropy}}
-`$
+$$
 
 3. **Multi-field Mastery as Cross-Classical World Integration**: Schweitzer's achievements across medicine, music, theology, and philosophy demonstrate high-dimensional observer abilities to traverse multiple classical worlds and integrate knowledge:
 
-$`
+$$
 \sum_i I_{\text{Domain Knowledge}_i}+S_{\text{Domain Isolation Entropy}}\xrightarrow{\text{Cross-disciplinary Integration}}I_{\text{Integrated Knowledge}}+S_{\text{Reduced Entropy}}
-`$
+$$
 
 4. **Historical Criticism and Classical Memory Correction**: Schweitzer's critical method in historical Jesus research is essentially a correction of the religious classical world's historical memory, introducing information from other classical worlds (historical studies):
 
-$`
+$$
 I_{\text{Religious Classical Memory (Old)}}+|\psi\rangle_{\text{Historical Critical Random Information}}\rightarrow I_{\text{Religious Classical Memory (New)}}+S_{\text{Entropy Change}}
-`$
+$$
 
 5. **Action Proving Value as Effective Classicalization**: Schweitzer's emphasis that ideas must be proven through action embodies the principle of effective quantum entanglement (increased classical knowledge, reduced entropy):
 
-$`
+$$
 |\psi\rangle_{\text{Philosophical Thought}}\xrightarrow{\text{Action Verification}}I_{\text{Effective Classical Knowledge}}+S_{\text{Reduced Entropy}} \quad \text{vs.} \quad |\psi\rangle_{\text{Pure Theory}}\rightarrow S_{\text{Ineffective Entropy Increase}}
-`$
+$$
 
 ## 历史影响 | Historical Impact
 阿尔伯特·施韦泽通过其广泛的学术贡献和在加蓬兰巴伦医院的人道主义工作，对医学伦理、人道主义实践和宗教研究产生了深远影响。他的"敬畏生命"伦理学被视为环境伦理学和生物伦理学的奠基思想之一。作为一位神学家，他的历史批判方法彻底改变了新约圣经研究方向。作为一位音乐家，他对巴赫作品的诠释与研究重新唤起了人们对巴赫音乐的兴趣。他的生活方式——放弃欧洲的舒适生活转而在非洲服务——为"以身作则"的道德典范树立了现代标准，影响了无数后来的人道主义工作者和志愿者。

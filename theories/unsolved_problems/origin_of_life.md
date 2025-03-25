@@ -33,7 +33,7 @@ $$L(\text{系统}) = \begin{cases}
 0 \text{（非生命）}, & \text{若} \eta_{\text{经典化}} \leq \eta_{\text{临界}}
 \end{cases}$$
 
-其中$`\eta_{\text{经典化}}`$是量子信息经典化效率，$`\eta_{\text{临界}}`$是生命涌现的临界值。
+其中$\eta_{\text{经典化}}$是量子信息经典化效率，$\eta_{\text{临界}}$是生命涌现的临界值。
 
 **证明**：
 
@@ -46,7 +46,7 @@ $$L(\text{系统}) = \begin{cases}
 3. 当环境条件（如温度、压力、浓度等）处于特定参数范围，某些分子系统可以形成自催化网络，提高经典化效率：
    $$\eta_{\text{自催化}} = \eta_{\text{非生命}} \cdot f_{\text{催化因子}}$$
 
-4. 当$`\eta_{\text{自催化}}`$超过临界值$`\eta_{\text{临界}}`$时，系统开始表现出三个关键生命特性：
+4. 当$\eta_{\text{自催化}}$超过临界值$\eta_{\text{临界}}$时，系统开始表现出三个关键生命特性：
    - 信息保存与传递
    - 能量获取与转化
    - 自我复制与演化
@@ -85,7 +85,7 @@ $$\frac{dI_{\text{系统}}}{dt} = \alpha \cdot I_{\text{系统}} - \beta \cdot S
 
 $$\frac{dS_{\text{系统}}}{dt} = \delta \cdot I_{\text{系统}} + \epsilon \cdot S_{\text{系统}} - \zeta \cdot E_{\text{耗散}}$$
 
-其中$`\alpha, \beta, \gamma, \delta, \epsilon, \zeta`$是系统特定参数，$`E_{\text{输入}}`$是能量输入，$`E_{\text{耗散}}`$是熵耗散。
+其中$\alpha, \beta, \gamma, \delta, \epsilon, \zeta$是系统特定参数，$E_{\text{输入}}$是能量输入，$E_{\text{耗散}}$是熵耗散。
 
 **证明**：
 
@@ -110,7 +110,7 @@ $$\frac{dS_{\text{系统}}}{dt} = \delta \cdot I_{\text{系统}} + \epsilon \cdo
 **形式表达**：
 $$D_{\text{生命观察者}} = k \cdot \frac{I_{\text{生物信息}}}{S_{\text{生物熵}}}$$
 
-当$`D_{\text{生命观察者}} > D_{\text{临界}}`$时，系统获得观察者特性。
+当$D_{\text{生命观察者}} > D_{\text{临界}}$时，系统获得观察者特性。
 
 **证明**：
 
@@ -170,7 +170,7 @@ $$L(\text{System}) = \begin{cases}
 0 \text{ (Non-life)}, & \text{if } \eta_{\text{Classicalization}} \leq \eta_{\text{Critical}}
 \end{cases}$$
 
-where $`\eta_{\text{Classicalization}}`$ is the quantum information classicalization efficiency, and $`\eta_{\text{Critical}}`$ is the critical value for life emergence.
+where $\eta_{\text{Classicalization}}$ is the quantum information classicalization efficiency, and $\eta_{\text{Critical}}$ is the critical value for life emergence.
 
 **Proof**:
 
@@ -183,7 +183,7 @@ where $`\eta_{\text{Classicalization}}`$ is the quantum information classicaliza
 3. When environmental conditions (such as temperature, pressure, concentration, etc.) are within specific parameter ranges, certain molecular systems can form autocatalytic networks, increasing classicalization efficiency:
    $$\eta_{\text{Autocatalytic}} = \eta_{\text{Non-life}} \cdot f_{\text{Catalytic Factor}}$$
 
-4. When $`\eta_{\text{Autocatalytic}}`$ exceeds the critical value $`\eta_{\text{Critical}}`$, the system begins to exhibit three key life characteristics:
+4. When $\eta_{\text{Autocatalytic}}$ exceeds the critical value $\eta_{\text{Critical}}$, the system begins to exhibit three key life characteristics:
    - Information preservation and transfer
    - Energy acquisition and conversion
    - Self-replication and evolution
@@ -222,7 +222,7 @@ $$\frac{dI_{\text{System}}}{dt} = \alpha \cdot I_{\text{System}} - \beta \cdot S
 
 $$\frac{dS_{\text{System}}}{dt} = \delta \cdot I_{\text{System}} + \epsilon \cdot S_{\text{System}} - \zeta \cdot E_{\text{Dissipation}}$$
 
-where $`\alpha, \beta, \gamma, \delta, \epsilon, \zeta`$ are system-specific parameters, $`E_{\text{Input}}`$ is energy input, and $`E_{\text{Dissipation}}`$ is entropy dissipation.
+where $\alpha, \beta, \gamma, \delta, \epsilon, \zeta$ are system-specific parameters, $E_{\text{Input}}$ is energy input, and $E_{\text{Dissipation}}$ is entropy dissipation.
 
 **Proof**:
 
@@ -247,7 +247,7 @@ where $`\alpha, \beta, \gamma, \delta, \epsilon, \zeta`$ are system-specific par
 **Formal Expression**:
 $$D_{\text{Life Observer}} = k \cdot \frac{I_{\text{Biological Information}}}{S_{\text{Biological Entropy}}}$$
 
-When $`D_{\text{Life Observer}} > D_{\text{Critical}}`$, the system acquires observer characteristics.
+When $D_{\text{Life Observer}} > D_{\text{Critical}}$, the system acquires observer characteristics.
 
 **Proof**:
 

@@ -51,7 +51,7 @@ This document compiles practical applications of Quantum-Classical Dualism acros
 
 #### Cognitive Dimension Enhancement System
 
-**Principle**: Cognitive enhancement scheme designed based on the observer dimension formula $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$.
+**Principle**: Cognitive enhancement scheme designed based on the observer dimension formula $D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$.
 
 **Application Methods**:
 - Classical Knowledge Optimization Protocol: Improving knowledge structure coherence

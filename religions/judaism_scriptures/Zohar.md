@@ -51,28 +51,26 @@ The Zohar (Book of Splendor) is the core text of the Jewish mystical Kabbalah tr
 ## 数学表达 (Mathematical Expression)
 
 ### 神圣收缩与创造方程
-
 $$
 |\psi_{\text{Creation}}\rangle = \hat{T}(1-\gamma)|\psi_{\text{Ein Sof}}\rangle
 $$
 
 其中：
-- $`|\psi_{\text{Creation}}\rangle`$ 表示创造后的宇宙量子态
-- $`|\psi_{\text{Ein Sof}}\rangle`$ 是无限者的完全叠加态
-- $`\hat{T}`$ 是自我收缩算子
-- $`\gamma`$ 是收缩参数，$`0<\gamma<1`$
+- $|\psi_{\text{Creation}}\rangle$ 表示创造后的宇宙量子态
+- $|\psi_{\text{Ein Sof}}\rangle$ 是无限者的完全叠加态
+- $\hat{T}$ 是自我收缩算子
+- $\gamma$ 是收缩参数，$0<\gamma<1$
 
 ### 十个神圣光辉的量子纠缠方程
-
 $$
 |\psi_{\text{Sefirot}}\rangle = \frac{1}{\sqrt{10}}\sum_{i=1}^{10}|S_i\rangle \otimes |\psi_{\text{Divine}}\rangle
 $$
 
 其中：
-- $`|\psi_{\text{Sefirot}}\rangle`$ 代表十个神圣光辉的纠缠态
-- $`|S_i\rangle`$ 是第i个光辉的基态
-- $`|\psi_{\text{Divine}}\rangle`$ 是神性本质的量子态
-- $`\otimes`$ 表示张量积，体现纠缠关系
+- $|\psi_{\text{Sefirot}}\rangle$ 代表十个神圣光辉的纠缠态
+- $|S_i\rangle$ 是第i个光辉的基态
+- $|\psi_{\text{Divine}}\rangle$ 是神性本质的量子态
+- $\otimes$ 表示张量积，体现纠缠关系
 
 ## 结论 (Conclusion)
 

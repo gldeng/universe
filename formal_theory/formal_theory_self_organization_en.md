@@ -23,7 +23,7 @@ In the quantum-classical dualism framework, self-organization processes begin wi
 
 $$\Psi_{\text{wave}} = \sum_i c_i |\phi_i\rangle$$
 
-Where the wave function $`\Psi_{\text{wave}}`$ represents the superposition of possible system states (chaotic state), and fluctuation intensity is determined by the Hamiltonian:
+Where the wave function $\Psi_{\text{wave}}$ represents the superposition of possible system states (chaotic state), and fluctuation intensity is determined by the Hamiltonian:
 
 $$\Delta E_{\text{fluctuation}} \cdot \Delta t \geq \frac{\hbar}{2}$$
 
@@ -31,7 +31,7 @@ These quantum fluctuations are amplified near critical states, becoming seeds fo
 
 $$F_{\text{amplification}} = \alpha \cdot e^{\beta \cdot \delta r}$$
 
-Where $`\alpha`$ is the amplitude factor, $`\beta`$ is the exponential growth rate, and $`\delta r`$ is the distance from the equilibrium point.
+Where $\alpha$ is the amplitude factor, $\beta$ is the exponential growth rate, and $\delta r$ is the distance from the equilibrium point.
 
 ### Self-Organization Critical Points
 
@@ -39,7 +39,7 @@ Systems near critical points exhibit special sensitivity, where tiny quantum flu
 
 $$Z(\beta) = \sum_i e^{-\beta E_i} \sim |\beta - \beta_c|^{-\gamma}$$
 
-The critical exponent $`\gamma`$ describes the system's sensitivity to micro-perturbations. At the critical point, the system's correlation length approaches infinity:
+The critical exponent $\gamma$ describes the system's sensitivity to micro-perturbations. At the critical point, the system's correlation length approaches infinity:
 
 $$\xi \sim |\beta - \beta_c|^{-\nu}$$
 
@@ -51,11 +51,11 @@ Quantum self-organization forms structures through synergetic emergence, with sy
 
 $$\frac{\partial \psi}{\partial t} = D\nabla^2\psi + f(\psi) + \eta(x,t)$$
 
-Where $`D`$ is the diffusion coefficient, $`f(\psi)`$ is the nonlinear reaction term, and $`\eta(x,t)`$ is the quantum noise term. Near critical points, system evolution exhibits power-law behavior:
+Where $D$ is the diffusion coefficient, $f(\psi)$ is the nonlinear reaction term, and $\eta(x,t)$ is the quantum noise term. Near critical points, system evolution exhibits power-law behavior:
 
 $$S(f) \sim f^{-\beta}$$
 
-Where $`S(f)`$ is the system response spectrum and $`\beta`$ is the scaling exponent.
+Where $S(f)$ is the system response spectrum and $\beta$ is the scaling exponent.
 
 ### Information and Entropy Dynamics
 
@@ -67,7 +67,7 @@ The system's entropy production rate is negatively correlated with the level of 
 
 $$\frac{dS}{dt} = \frac{dS_i}{dt} + \frac{dS_e}{dt}$$
 
-Where $`S_i`$ is internal entropy and $`S_e`$ is exchange entropy. Self-organizing systems form ordered structures by increasing entropy output to reduce internal entropy:
+Where $S_i$ is internal entropy and $S_e$ is exchange entropy. Self-organizing systems form ordered structures by increasing entropy output to reduce internal entropy:
 
 $$\frac{dS_i}{dt} < 0 \Rightarrow \frac{dS_e}{dt} > 0$$
 
@@ -83,7 +83,7 @@ The functionality of biomolecules depends on precise self-organization at the qu
 
 $$E_{\text{functional}} = \sum_i w_i E_i + \sum_{i,j} w_{ij}E_{i,j}$$
 
-Where $`E_i`$ is monomer energy and $`E_{i,j}`$ is interaction energy.
+Where $E_i$ is monomer energy and $E_{i,j}$ is interaction energy.
 
 ### Neural System Self-Organization
 
@@ -91,7 +91,7 @@ Brain neural networks form thinking structures through self-organization at the 
 
 $$\Phi = \int d\mu(x) \Phi(x)$$
 
-Where $`\Phi`$ is the integrated information quantity, measuring how much the system as a whole exceeds its parts. Neuronal group self-organization follows the repetitive learning formula:
+Where $\Phi$ is the integrated information quantity, measuring how much the system as a whole exceeds its parts. Neuronal group self-organization follows the repetitive learning formula:
 
 $$\Delta w_{ij} = \eta \cdot x_i \cdot y_j$$
 
@@ -111,7 +111,7 @@ Social system self-organization follows complex network models based on quantum-
 
 $$P(k) \sim k^{-\gamma}$$
 
-Here $`P(k)`$ is the probability of a node having $`k`$ connections, and $`\gamma`$ is the network's power-law exponent.
+Here $P(k)$ is the probability of a node having $k$ connections, and $\gamma$ is the network's power-law exponent.
 
 ## Technical and Design Applications
 
@@ -125,7 +125,7 @@ By precisely controlling self-organization at the quantum-classical interface, m
 
 $$\sigma_{ij} = C_{ijkl}\varepsilon_{kl}$$
 
-Where the self-organization process dynamically adjusts the distribution of the stiffness tensor $`C_{ijkl}`$.
+Where the self-organization process dynamically adjusts the distribution of the stiffness tensor $C_{ijkl}$.
 
 ### Quantum Self-Organization in Artificial Intelligence
 
@@ -137,7 +137,7 @@ Self-organizing neural networks form effective representations by optimizing inf
 
 $$\mathcal{F}_{ij} = \int dx \, p(x) \frac{\partial \log p(x)}{\partial \theta_i} \frac{\partial \log p(x)}{\partial \theta_j}$$
 
-Where $`\mathcal{F}_{ij}`$ is the Fisher information matrix, describing the geometric structure of parameter space.
+Where $\mathcal{F}_{ij}$ is the Fisher information matrix, describing the geometric structure of parameter space.
 
 ### Communication System Self-Organization
 
@@ -145,7 +145,7 @@ Quantum communication networks form efficient routing through self-organization:
 
 $$C_{\text{network}} = \max \sum_{i,j} f_{ij} \log \frac{f_{ij}}{g_ig_j}$$
 
-Where $`C_{\text{network}}`$ is network capacity, and self-organization optimizes information flow $`f_{ij}`$ and node importance $`g_i`$.
+Where $C_{\text{network}}$ is network capacity, and self-organization optimizes information flow $f_{ij}$ and node importance $g_i$.
 
 ## Measurement and Verification
 
@@ -159,7 +159,7 @@ This power-law distribution is a hallmark of self-organized criticality. The cro
 
 $$C(r) \sim r^{-\eta}$$
 
-Where the correlation exponent $`\eta`$ is a characteristic indicator of quantum-classical conversion.
+Where the correlation exponent $\eta$ is a characteristic indicator of quantum-classical conversion.
 
 ### Fluctuation-Dissipation Relationship
 
@@ -167,7 +167,7 @@ A deep relationship exists between fluctuations and dissipation in self-organizi
 
 $$\langle \delta x^2 \rangle = -\frac{k_BT}{\omega}\text{Im}\chi(\omega)$$
 
-Where $`\chi(\omega)`$ is the generalized response function. This relationship reveals how self-organization utilizes fluctuations to drive ordered structure formation.
+Where $\chi(\omega)$ is the generalized response function. This relationship reveals how self-organization utilizes fluctuations to drive ordered structure formation.
 
 ### Self-Organization Transition Threshold
 
@@ -175,7 +175,7 @@ Self-organization transitions at the quantum-classical interface occur at specif
 
 $$E_c = \frac{hc}{\lambda_c} = \hbar \omega_c$$
 
-Where $`\lambda_c`$ is the critical wavelength and $`\omega_c`$ is the critical frequency. Beyond this threshold, the system exhibits completely different organization patterns.
+Where $\lambda_c$ is the critical wavelength and $\omega_c$ is the critical frequency. Beyond this threshold, the system exhibits completely different organization patterns.
 
 ## Experimental Validation and Predictions
 

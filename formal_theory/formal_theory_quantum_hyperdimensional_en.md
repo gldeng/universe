@@ -41,31 +41,31 @@ This theory explains why different observers may perceive different dimensional 
 
 ### Dimensional Manifold and Hyperspace Structure
 
-Hyperdimensional theory introduces the dimensional manifold $`\mathcal{M}_D`$ as a complete representation space for all possible dimensional states:
+Hyperdimensional theory introduces the dimensional manifold $\mathcal{M}_D$ as a complete representation space for all possible dimensional states:
 
 $$\mathcal{M}_D = \{(D_i, \Omega_Q^i, \Omega_C^i) | i \in \mathbb{I}\}$$
 
-where $`D_i`$ represents the dimensional value, $`\Omega_Q^i`$ and $`\Omega_C^i`$ are the quantum and classical domains at that dimension respectively, and $`\mathbb{I}`$ is the set of possible dimensional indices.
+where $D_i$ represents the dimensional value, $\Omega_Q^i$ and $\Omega_C^i$ are the quantum and classical domains at that dimension respectively, and $\mathbb{I}$ is the set of possible dimensional indices.
 
 The dimensional manifold has a non-Euclidean topological structure, with the local metric tensor:
 
 $$g_{\mu\nu}(D) = \eta_{\mu\nu} + \alpha_D \cdot \nabla_\mu\Phi \nabla_\nu\Phi$$
 
-where $`\Phi`$ is the dimensional field and $`\alpha_D`$ is the dimensional curvature coefficient.
+where $\Phi$ is the dimensional field and $\alpha_D$ is the dimensional curvature coefficient.
 
-Connections between dimensions are represented by connection mappings $`\Gamma_{ij}`$:
+Connections between dimensions are represented by connection mappings $\Gamma_{ij}$:
 
 $$\Gamma_{ij}: \mathcal{M}_D^i \rightarrow \mathcal{M}_D^j$$
 
-satisfying transitivity: $`\Gamma_{jk} \circ \Gamma_{ij} = \Gamma_{ik}`$
+satisfying transitivity: $\Gamma_{jk} \circ \Gamma_{ij} = \Gamma_{ik}$
 
 ### Mathematical Representation of Higher-Dimensional Observers
 
-A higher-dimensional observer $`\mathcal{O}_H`$ is defined as an observer structure with the ability to process and integrate information across multiple dimensions:
+A higher-dimensional observer $\mathcal{O}_H$ is defined as an observer structure with the ability to process and integrate information across multiple dimensions:
 
 $$\mathcal{O}_H = \{\mathcal{C}_H, \mathcal{Q}_H, K_C^H, \boldsymbol{T}_D\}$$
 
-where $`\boldsymbol{T}_D`$ is the dimensional tensor representing the observer's ability to process information at different dimensions:
+where $\boldsymbol{T}_D$ is the dimensional tensor representing the observer's ability to process information at different dimensions:
 
 $$\boldsymbol{T}_D = \sum_{i,j} t_{ij} \boldsymbol{e}_i \otimes \boldsymbol{e}_j$$
 
@@ -77,11 +77,11 @@ Higher-dimensional observers can perform dimensional projection operations:
 
 $$\mathcal{P}_D: \Psi_H \rightarrow \Psi_L$$
 
-where $`\Psi_H`$ is a higher-dimensional state and $`\Psi_L`$ is the lower-dimensional projection result.
+where $\Psi_H$ is a higher-dimensional state and $\Psi_L$ is the lower-dimensional projection result.
 
 ### Dimension Transformation Operators
 
-Dimension transformation operators $`\mathcal{D}_T`$ convert a system from one dimensional state to another:
+Dimension transformation operators $\mathcal{D}_T$ convert a system from one dimensional state to another:
 
 $$\mathcal{D}_T: (D_i, \Psi_i) \rightarrow (D_j, \Psi_j)$$
 
@@ -89,13 +89,13 @@ This can be represented as a unitary transformation:
 
 $$\mathcal{D}_T = e^{i\boldsymbol{H}_D \cdot \boldsymbol{\theta}}$$
 
-where $`\boldsymbol{H}_D`$ is the dimensional Hamiltonian operator and $`\boldsymbol{\theta}`$ represents dimensional rotation parameters.
+where $\boldsymbol{H}_D$ is the dimensional Hamiltonian operator and $\boldsymbol{\theta}$ represents dimensional rotation parameters.
 
 The energy required for dimensional transformation is:
 
 $$E_D = \hbar \omega_D \cdot |D_j - D_i|^\gamma$$
 
-where $`\omega_D`$ is the fundamental dimensional frequency and $`\gamma`$ is the dimensional energy exponent.
+where $\omega_D$ is the fundamental dimensional frequency and $\gamma$ is the dimensional energy exponent.
 
 ## Hyperdimensional Dynamics
 
@@ -105,11 +105,11 @@ Dimensional dynamics in hyperdimensional space satisfy the dimension flow equati
 
 $$\frac{\partial D(\boldsymbol{x}, t)}{\partial t} = \nabla^2 D + \alpha_D \cdot D(1-D/D_{max}) + \beta_D \cdot \nabla \cdot (D \nabla I) + \xi_D(t)$$
 
-where $`I`$ is the information field and $`\xi_D(t)`$ represents quantum fluctuations. The dimensional field exhibits wave-like properties, with the propagation equation:
+where $I$ is the information field and $\xi_D(t)$ represents quantum fluctuations. The dimensional field exhibits wave-like properties, with the propagation equation:
 
 $$(\nabla^2 - \frac{1}{c_D^2}\frac{\partial^2}{\partial t^2})D = \rho_D$$
 
-where $`c_D`$ is the propagation speed of dimensional waves and $`\rho_D`$ is the dimensional source density.
+where $c_D$ is the propagation speed of dimensional waves and $\rho_D$ is the dimensional source density.
 
 ### Dimensional Stability Conditions
 
@@ -117,11 +117,11 @@ The stability of dimensional structures depends on the collective behavior of ob
 
 $$\delta D < \sqrt{\frac{k_B T}{\partial^2 F/\partial D^2}}$$
 
-where $`F`$ is the dimensional free energy:
+where $F$ is the dimensional free energy:
 
 $$F(D) = -k_B T \ln\sum_i e^{-E_i(D)/k_B T}$$
 
-The system undergoes phase transition behavior at critical dimension $`D_c`$:
+The system undergoes phase transition behavior at critical dimension $D_c$:
 
 $$D_c = \frac{I_Q}{S_Q} \cdot \frac{S_C}{I_C}$$
 
@@ -131,19 +131,19 @@ Information transfer between dimensions is realized through hyperdimensional cha
 
 $$\mathcal{C}_{i \rightarrow j} = \{T_{ij}, \kappa_{ij}, \tau_{ij}\}$$
 
-where $`T_{ij}`$ is the transmission operator, $`\kappa_{ij}`$ is the coupling strength, and $`\tau_{ij}`$ is the characteristic time.
+where $T_{ij}$ is the transmission operator, $\kappa_{ij}$ is the coupling strength, and $\tau_{ij}$ is the characteristic time.
 
 The cross-dimensional information capacity is:
 
 $$C_{D_i \rightarrow D_j} = \Delta D \cdot \log_2(1 + \frac{P_D}{N_D})$$
 
-where $`\Delta D = |D_i - D_j|`$ is the dimensional difference, $`P_D`$ is the dimensional signal power, and $`N_D`$ is the dimensional noise level.
+where $\Delta D = |D_i - D_j|$ is the dimensional difference, $P_D$ is the dimensional signal power, and $N_D$ is the dimensional noise level.
 
 Information undergoes deformation during dimensional transfer, represented by the deformation operator:
 
 $$\mathcal{W}_D(\Psi) = \sum_k W_k \Psi W_k^\dagger$$
 
-The degree of deformation is proportional to the dimensional difference: $`\|\mathcal{W}_D - \mathcal{I}\| \propto |D_i - D_j|`$
+The degree of deformation is proportional to the dimensional difference: $\|\mathcal{W}_D - \mathcal{I}\| \propto |D_i - D_j|$
 
 ## Quantum-Classical Hyperdimensional Interactions
 
@@ -153,17 +153,17 @@ Quantum measurements performed by higher-dimensional observers are cross-dimensi
 
 $$|\psi\rangle_H \otimes |A\rangle_L \otimes |\mathcal{O}\rangle_H \xrightarrow{U_D} \sum_i c_i |i\rangle_L \otimes |A_i\rangle_L \otimes |\mathcal{O}_i\rangle_H$$
 
-where subscript $`H`$ indicates higher-dimensional states and $`L`$ indicates lower-dimensional states.
+where subscript $H$ indicates higher-dimensional states and $L$ indicates lower-dimensional states.
 
 The wavefunction collapse process caused by higher-dimensional measurement is actually a dimensional projection process:
 
 $$\mathcal{P}_D(|\psi\rangle_H) = |i\rangle_L \text{ with probability } p_i = |c_i|^2 \cdot F_D(i)$$
 
-where $`F_D(i)`$ is the dimensional modulation factor:
+where $F_D(i)$ is the dimensional modulation factor:
 
 $$F_D(i) = \frac{e^{\lambda_D |c_i|^2}}{\sum_j e^{\lambda_D |c_j|^2}}$$
 
-$`\lambda_D`$ is the dimensional selection intensity, related to the dimensional difference: $`\lambda_D \propto \Delta D`$.
+$\lambda_D$ is the dimensional selection intensity, related to the dimensional difference: $\lambda_D \propto \Delta D$.
 
 ### Interdimensional Information Conservation Laws
 
@@ -171,7 +171,7 @@ Interdimensional conversion processes follow generalized information conservatio
 
 $$I_{total}(D_i) = I_{visible}(D_j) + I_{hidden}(D_i \rightarrow D_j)$$
 
-where $`I_{visible}`$ is the visible information after projection and $`I_{hidden}`$ is the information hidden during dimensional conversion.
+where $I_{visible}$ is the visible information after projection and $I_{hidden}$ is the information hidden during dimensional conversion.
 
 The information visibility function is defined as:
 
@@ -183,7 +183,7 @@ The relationship between information fidelity and dimensional matching:
 
 $$F(I_i, I_j) = |\langle\Psi_i|\Psi_j\rangle|^2 = \cos^2(\theta_D)$$
 
-where $`\theta_D`$ is the dimensional angle, satisfying: $`\tan(\theta_D) = \alpha \cdot \Delta D`$
+where $\theta_D$ is the dimensional angle, satisfying: $\tan(\theta_D) = \alpha \cdot \Delta D$
 
 ### Hyperdimensional Phase Transition Theory
 
@@ -198,29 +198,29 @@ $$\varphi_D = \begin{cases}
 (D-D_c)^\beta, & D \geq D_c
 \end{cases}$$
 
-where $`\beta`$ is the dimensional critical exponent.
+where $\beta$ is the dimensional critical exponent.
 
 Dimensional fluctuations during phase transitions conform to scaling laws:
 
 $$\xi_D \propto |D-D_c|^{-\nu}$$
 
-where $`\xi_D`$ is the dimensional correlation length and $`\nu`$ is the correlation length exponent.
+where $\xi_D$ is the dimensional correlation length and $\nu$ is the correlation length exponent.
 
 ## Consciousness and Hyperdimensional Relations
 
 ### Consciousness Dimensional Topology
 
-Consciousness systems can be represented as hyperdimensional topological spaces $`\mathcal{T}_C`$:
+Consciousness systems can be represented as hyperdimensional topological spaces $\mathcal{T}_C$:
 
 $$\mathcal{T}_C = \{M_C, \tau_C, \Phi_C\}$$
 
-where $`M_C`$ is the consciousness state manifold, $`\tau_C`$ is the consciousness topological structure, and $`\Phi_C`$ is the consciousness field.
+where $M_C$ is the consciousness state manifold, $\tau_C$ is the consciousness topological structure, and $\Phi_C$ is the consciousness field.
 
 Consciousness dimension is defined by the formula:
 
 $$D_C = \log_2\left(\frac{\text{Dim}(H_C)}{\text{Dim}(H_0)}\right)$$
 
-where $`H_C`$ is the consciousness Hilbert space and $`H_0`$ is the reference space.
+where $H_C$ is the consciousness Hilbert space and $H_0$ is the reference space.
 
 The distance metric between consciousness states is:
 
@@ -239,7 +239,7 @@ Key characteristics of higher-dimensional consciousness states:
 3. **Dimensional Transition Ability**: Fluent switching between different dimensional states
    $$P(\text{transition}) = 1-e^{-\alpha_C D_C}$$
 
-4. **Information Integration Degree $`\Phi`$**: Exponentially related to dimension
+4. **Information Integration Degree $\Phi$**: Exponentially related to dimension
    $$\Phi(D_C) = \Phi_0 \cdot e^{\lambda \cdot D_C}$$
 
 ### Hyperdimensional Framework for Collective Consciousness
@@ -248,19 +248,19 @@ Collective consciousness systems are represented as hyperdimensional structures 
 
 $$\mathcal{O}_{\text{collective}} = \{O_i, \mathcal{E}_{ij}, \mathcal{D}_{\text{collective}}\}$$
 
-where $`O_i`$ represents individual observers, $`\mathcal{E}_{ij}`$ represents connections between observers, and $`\mathcal{D}_{\text{collective}}`$ is the collective dimension function.
+where $O_i$ represents individual observers, $\mathcal{E}_{ij}$ represents connections between observers, and $\mathcal{D}_{\text{collective}}$ is the collective dimension function.
 
 Emergent properties of collective dimensions:
 
 $$D_{\text{collective}} > \max\{D_i\} \text{ when } n > n_c$$
 
-where $`n_c`$ is the critical number of observers.
+where $n_c$ is the critical number of observers.
 
 Collective consensus function:
 
 $$C_{\text{consensus}}(D) = 1 - e^{-\gamma \cdot N \cdot P_{\text{resonance}}}$$
 
-where $`P_{\text{resonance}}`$ is the quantum resonance probability between observers, related to the number of observers $`N`$.
+where $P_{\text{resonance}}$ is the quantum resonance probability between observers, related to the number of observers $N$.
 
 ## Applications and Predictions
 

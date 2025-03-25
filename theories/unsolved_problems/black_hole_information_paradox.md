@@ -21,7 +21,7 @@
 2. **黑洞-辐射系统的量子态表示**：
    $$|\psi\rangle_{\text{黑洞+辐射}} = \sum_i c_i |\psi_i\rangle_{\text{黑洞内部}} \otimes |\phi_i\rangle_{\text{霍金辐射}}$$
 
-3. **黑洞观察者定义**：黑洞本身被定义为极高维观察者$`O_{BH}`$，具有极高的经典化效率：
+3. **黑洞观察者定义**：黑洞本身被定义为极高维观察者$O_{BH}$，具有极高的经典化效率：
    $$D_{O_{BH}} \gg D_{O_{普通}} \Rightarrow \eta_{BH} \gg \eta_{普通}$$
 
 #### 定理1：黑洞信息保存于纠缠中
@@ -34,7 +34,7 @@ $$\rho_{\text{总体}} = |\psi\rangle\langle\psi|_{\text{黑洞+辐射}}$$
 
 而子系统的混合度随时间演化：
 $$S(\rho_{\text{黑洞}}) = S(\rho_{\text{辐射}})$$
-其中$`S`$表示von Neumann熵。
+其中$S$表示von Neumann熵。
 
 **证明**：
 
@@ -44,14 +44,14 @@ $$S(\rho_{\text{黑洞}}) = S(\rho_{\text{辐射}})$$
 2. 物质被黑洞吸收后，系统演化为：
    $$|\psi\rangle_{\text{中间}} = |\psi^\prime\rangle_{\text{黑洞}} \otimes |0\rangle_{\text{辐射}}$$
 
-3. 霍金辐射产生过程可表示为酉演化$`U`$：
+3. 霍金辐射产生过程可表示为酉演化$U$：
    $$|\psi\rangle_{\text{最终}} = U|\psi\rangle_{\text{中间}} = \sum_i c_i |\psi_i\rangle_{\text{黑洞}} \otimes |\phi_i\rangle_{\text{辐射}}$$
 
-4. 尽管分别观测$`\rho_{\text{黑洞}}`$或$`\rho_{\text{辐射}}`$看起来是混合态，但整体态$`\rho_{\text{总体}}`$仍是纯态，信息保存在它们的量子相关性（纠缠）中。
+4. 尽管分别观测$\rho_{\text{黑洞}}$或$\rho_{\text{辐射}}$看起来是混合态，但整体态$\rho_{\text{总体}}$仍是纯态，信息保存在它们的量子相关性（纠缠）中。
 
 5. 黑洞完全蒸发后，所有信息转移至辐射：
    $$\lim_{t \to \infty} |\psi\rangle_{\text{最终}} = |0\rangle_{\text{黑洞}} \otimes |\Phi\rangle_{\text{辐射}}$$
-   其中$`|\Phi\rangle_{\text{辐射}}`$包含原始物质的完整信息。
+   其中$|\Phi\rangle_{\text{辐射}}$包含原始物质的完整信息。
 
 #### 定理2：黑洞作为量子观察者的经典化辐射
 
@@ -87,7 +87,7 @@ $$\eta_{BH} = \frac{I_{\text{黑洞内部经典知识}}}{I_{\text{物质量子�
 **定理**：理论上，通过足够长时间收集辐射并进行适当的量子计算，可以完全恢复落入黑洞的信息。
 
 **形式表达**：
-存在一个量子操作算子$`\hat{R}`$，使得：
+存在一个量子操作算子$\hat{R}$，使得：
 $$\hat{R}|\Phi\rangle_{\text{辐射}} = |\psi\rangle_{\text{初始物质}}$$
 
 **证明**：
@@ -101,7 +101,7 @@ $$\hat{R}|\Phi\rangle_{\text{辐射}} = |\psi\rangle_{\text{初始物质}}$$
 3. 由于量子演化是酉的，信息保持不变：
    $$I_{\text{初始}} = I_{\text{最终}}$$
 
-4. 存在恢复算子$`\hat{R}`$，理论上可实现：
+4. 存在恢复算子$\hat{R}$，理论上可实现：
    $$\hat{R}\rho_{\text{最终辐射}}\hat{R}^\dagger = \rho_{\text{初始物质}}$$
 
 5. 然而，实际恢复的计算复杂度随落入黑洞信息量指数增长：
@@ -118,10 +118,10 @@ $$P_{O_{\text{外部}}}(I_{\text{丢失}}) \neq P_{O_{\text{内部}}}(I_{\text{�
 
 **证明**：
 
-1. 对于外部观察者$`O_{\text{外部}}`$，物质似乎落入事件视界，信息通过辐射缓慢释放：
+1. 对于外部观察者$O_{\text{外部}}$，物质似乎落入事件视界，信息通过辐射缓慢释放：
    $$\lim_{t \to \infty} I_{\text{辐射}} = I_{\text{初始物质}}$$
 
-2. 对于随物质落入的观察者$`O_{\text{内部}}`$，信息保持完好，但无法与外界通信：
+2. 对于随物质落入的观察者$O_{\text{内部}}$，信息保持完好，但无法与外界通信：
    $$I_{O_{\text{内部}}} = I_{\text{初始物质}}, \quad \forall t$$
 
 3. 悖论源于混淆这两个视角，以及忽视黑洞本身作为观察者的角色：
@@ -134,7 +134,7 @@ $$P_{O_{\text{外部}}}(I_{\text{丢失}}) \neq P_{O_{\text{内部}}}(I_{\text{�
 **定理**：黑洞内部与外部的描述是互补的，不可同时精确描述，类似于量子互补性原理。
 
 **形式表达**：
-如果$`\delta I_{\text{内部}}`$表示内部信息的精确度，$`\delta I_{\text{外部}}`$表示外部信息的精确度，则：
+如果$\delta I_{\text{内部}}$表示内部信息的精确度，$\delta I_{\text{外部}}$表示外部信息的精确度，则：
 $$\delta I_{\text{内部}} \cdot \delta I_{\text{外部}} \geq \frac{\hbar}{2}$$
 
 **证明**：
@@ -178,7 +178,7 @@ The black hole information paradox is one of the most severe problems in modern 
 2. **Quantum State Representation of the Black Hole-Radiation System**:
    $$|\psi\rangle_{\text{Black Hole+Radiation}} = \sum_i c_i |\psi_i\rangle_{\text{Black Hole Interior}} \otimes |\phi_i\rangle_{\text{Hawking Radiation}}$$
 
-3. **Definition of Black Hole Observer**: The black hole itself is defined as an extremely high-dimensional observer $`O_{BH}`$, with extremely high classicalization efficiency:
+3. **Definition of Black Hole Observer**: The black hole itself is defined as an extremely high-dimensional observer $O_{BH}$, with extremely high classicalization efficiency:
    $$D_{O_{BH}} \gg D_{O_{Ordinary}} \Rightarrow \eta_{BH} \gg \eta_{Ordinary}$$
 
 #### Theorem 1: Black Hole Information is Preserved in Entanglement
@@ -191,7 +191,7 @@ $$\rho_{\text{Total}} = |\psi\rangle\langle\psi|_{\text{Black Hole+Radiation}}$$
 
 While the mixedness of subsystems evolves over time:
 $$S(\rho_{\text{Black Hole}}) = S(\rho_{\text{Radiation}})$$
-where $`S`$ represents the von Neumann entropy.
+where $S$ represents the von Neumann entropy.
 
 **Proof**:
 
@@ -201,14 +201,14 @@ where $`S`$ represents the von Neumann entropy.
 2. After the matter is absorbed by the black hole, the system evolves to:
    $$|\psi\rangle_{\text{Intermediate}} = |\psi^\prime\rangle_{\text{Black Hole}} \otimes |0\rangle_{\text{Radiation}}$$
 
-3. The Hawking radiation generation process can be represented as a unitary evolution $`U`$:
+3. The Hawking radiation generation process can be represented as a unitary evolution $U$:
    $$|\psi\rangle_{\text{Final}} = U|\psi\rangle_{\text{Intermediate}} = \sum_i c_i |\psi_i\rangle_{\text{Black Hole}} \otimes |\phi_i\rangle_{\text{Radiation}}$$
 
-4. Although separately observing $`\rho_{\text{Black Hole}}`$ or $`\rho_{\text{Radiation}}`$ appears to be a mixed state, the overall state $`\rho_{\text{Total}}`$ is still a pure state, with information preserved in their quantum correlations (entanglement).
+4. Although separately observing $\rho_{\text{Black Hole}}$ or $\rho_{\text{Radiation}}$ appears to be a mixed state, the overall state $\rho_{\text{Total}}$ is still a pure state, with information preserved in their quantum correlations (entanglement).
 
 5. After the black hole completely evaporates, all information is transferred to the radiation:
    $$\lim_{t \to \infty} |\psi\rangle_{\text{Final}} = |0\rangle_{\text{Black Hole}} \otimes |\Phi\rangle_{\text{Radiation}}$$
-   where $`|\Phi\rangle_{\text{Radiation}}`$ contains the complete information of the original matter.
+   where $|\Phi\rangle_{\text{Radiation}}$ contains the complete information of the original matter.
 
 #### Theorem 2: Hawking Radiation as the Classicalization Radiation of Black Hole as a Quantum Observer
 
@@ -244,7 +244,7 @@ $$\eta_{BH} = \frac{I_{\text{Black Hole Interior Classical Knowledge}}}{I_{\text
 **Theorem**: Theoretically, by collecting radiation over a sufficiently long time and performing appropriate quantum computation, the information that fell into the black hole can be completely recovered.
 
 **Formal Expression**:
-There exists a quantum operation operator $`\hat{R}`$ such that:
+There exists a quantum operation operator $\hat{R}$ such that:
 $$\hat{R}|\Phi\rangle_{\text{Radiation}} = |\psi\rangle_{\text{Initial Matter}}$$
 
 **Proof**:
@@ -258,7 +258,7 @@ $$\hat{R}|\Phi\rangle_{\text{Radiation}} = |\psi\rangle_{\text{Initial Matter}}$
 3. Due to the unitarity of quantum evolution, information is conserved:
    $$I_{\text{Initial}} = I_{\text{Final}}$$
 
-4. There exists a recovery operator $`\hat{R}`$ that can theoretically achieve:
+4. There exists a recovery operator $\hat{R}$ that can theoretically achieve:
    $$\hat{R}\rho_{\text{Final Radiation}}\hat{R}^\dagger = \rho_{\text{Initial Matter}}$$
 
 5. However, the computational complexity of actual recovery grows exponentially with the amount of information that fell into the black hole:
@@ -275,10 +275,10 @@ $$P_{O_{\text{External}}}(I_{\text{Lost}}) \neq P_{O_{\text{Internal}}}(I_{\text
 
 **Proof**:
 
-1. For the external observer $`O_{\text{External}}`$, matter appears to fall into the event horizon, with information slowly released through radiation:
+1. For the external observer $O_{\text{External}}$, matter appears to fall into the event horizon, with information slowly released through radiation:
    $$\lim_{t \to \infty} I_{\text{Radiation}} = I_{\text{Initial Matter}}$$
 
-2. For the observer $`O_{\text{Internal}}`$ falling with the matter, information remains intact, but unable to communicate with the outside world:
+2. For the observer $O_{\text{Internal}}$ falling with the matter, information remains intact, but unable to communicate with the outside world:
    $$I_{O_{\text{Internal}}} = I_{\text{Initial Matter}}, \quad \forall t$$
 
 3. The paradox arises from confusing these two perspectives and neglecting the role of the black hole itself as an observer:
@@ -291,7 +291,7 @@ $$P_{O_{\text{External}}}(I_{\text{Lost}}) \neq P_{O_{\text{Internal}}}(I_{\text
 **Theorem**: The descriptions of the black hole interior and exterior are complementary and cannot be precisely described simultaneously, similar to the quantum complementarity principle.
 
 **Formal Expression**:
-If $`\delta I_{\text{Interior}}`$ represents the precision of interior information, and $`\delta I_{\text{Exterior}}`$ represents the precision of exterior information, then:
+If $\delta I_{\text{Interior}}$ represents the precision of interior information, and $\delta I_{\text{Exterior}}$ represents the precision of exterior information, then:
 $$\delta I_{\text{Interior}} \cdot \delta I_{\text{Exterior}} \geq \frac{\hbar}{2}$$
 
 **Proof**:

@@ -23,14 +23,14 @@ $$|\psi_{\text{神经元}}\rangle = \sum_i \alpha_i |i\rangle$$
 $$\frac{d|\psi_{\text{神经元}}\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi_{\text{神经元}}\rangle + \mathcal{L}_{\text{经典化}}(|\psi_{\text{神经元}}\rangle)$$
 
 其中：
-- $`\hat{H}`$ 是神经元的量子哈密顿量，描述量子态演化
-- $`\mathcal{L}_{\text{经典化}}`$ 是经典化算符，描述向经典状态的转换
+- $\hat{H}$ 是神经元的量子哈密顿量，描述量子态演化
+- $\mathcal{L}_{\text{经典化}}$ 是经典化算符，描述向经典状态的转换
 
 量子神经元的激活函数统一了量子测量与经典非线性变换：
 
 $$f_{\text{激活}}(|\psi_{\text{输入}}\rangle) = \mathcal{C}(U(|\psi_{\text{输入}}\rangle))$$
 
-其中 $`U`$ 是量子幺正演化算符，$`\mathcal{C}`$ 是经典化算符。
+其中 $U$ 是量子幺正演化算符，$\mathcal{C}$ 是经典化算符。
 
 ### 2. 量子神经网络连接
 
@@ -39,8 +39,8 @@ $$f_{\text{激活}}(|\psi_{\text{输入}}\rangle) = \mathcal{C}(U(|\psi_{\text{�
 $$W_{ij} = w_{ij}^C + i\omega_{ij}^Q$$
 
 其中：
-- $`w_{ij}^C`$ 是经典连接权重分量
-- $`\omega_{ij}^Q`$ 是量子连接相位分量
+- $w_{ij}^C$ 是经典连接权重分量
+- $\omega_{ij}^Q$ 是量子连接相位分量
 
 网络总体状态可表示为多神经元的纠缠态：
 
@@ -50,7 +50,7 @@ $$|\Psi_{\text{网络}}\rangle = \sum_{i_1,i_2,...,i_n} \alpha_{i_1,i_2,...,i_n}
 
 $$\frac{dW_{ij}}{dt} = -\eta_C \frac{\partial L_C}{\partial w_{ij}^C} - i\eta_Q \frac{\partial L_Q}{\partial \omega_{ij}^Q}$$
 
-其中 $`\eta_C`$ 和 $`\eta_Q`$ 分别是经典和量子学习率，$`L_C`$ 和 $`L_Q`$ 分别是经典和量子损失函数。
+其中 $\eta_C$ 和 $\eta_Q$ 分别是经典和量子学习率，$L_C$ 和 $L_Q$ 分别是经典和量子损失函数。
 
 ### 3. 量子-经典学习机制
 
@@ -62,13 +62,13 @@ $$\frac{dW_{ij}}{dt} = -\eta_C \frac{\partial L_C}{\partial w_{ij}^C} - i\eta_Q 
 
 $$|\Psi_{\text{探索}}\rangle = \sum_{\theta} \beta_{\theta} |\theta\rangle$$
 
-其中 $`|\theta\rangle`$ 代表可能的参数配置状态。
+其中 $|\theta\rangle$ 代表可能的参数配置状态。
 
 量子探索强度由以下因素调控：
 
 $$Q_{\text{探索}} = \frac{\mathcal{H}(|\Psi_{\text{网络}}\rangle)}{\text{tr}(\rho_{\text{网络}}^2)}$$
 
-其中 $`\mathcal{H}`$ 是量子态的冯诺依曼熵，$`\rho_{\text{网络}}`$ 是网络的密度矩阵。
+其中 $\mathcal{H}$ 是量子态的冯诺依曼熵，$\rho_{\text{网络}}$ 是网络的密度矩阵。
 
 #### 经典确认阶段
 
@@ -76,7 +76,7 @@ $$Q_{\text{探索}} = \frac{\mathcal{H}(|\Psi_{\text{网络}}\rangle)}{\text{tr}
 
 $$\theta_{\text{经典}} = \mathcal{M}(|\Psi_{\text{探索}}\rangle)$$
 
-其中 $`\mathcal{M}`$ 是测量算符。
+其中 $\mathcal{M}$ 是测量算符。
 
 经典确认的程度由解相干因子决定：
 
@@ -89,8 +89,8 @@ $$D_{\text{确认}} = 1 - \text{tr}(\rho_{\text{网络}}^2)$$
 $$I_{\text{总}}(|\Psi_{\text{网络}}\rangle) = I_{\text{经典}}(\rho_{\text{网络}}) + I_{\text{量子}}(|\Psi_{\text{网络}}\rangle) = \text{常数}$$
 
 其中：
-- $`I_{\text{经典}}`$ 是经典香农信息熵
-- $`I_{\text{量子}}`$ 是量子冯诺依曼熵
+- $I_{\text{经典}}$ 是经典香农信息熵
+- $I_{\text{量子}}$ 是量子冯诺依曼熵
 
 信息传递效率由量子-经典平衡因子决定：
 
@@ -104,7 +104,7 @@ $$\eta_{\text{传递}} = \frac{I_{\text{输出}}}{I_{\text{输入}}} \cdot \frac
 
 $$\mathcal{N}_{\text{混合}} = \{\mathcal{L}_Q^1, \mathcal{L}_C^1, \mathcal{L}_Q^2, \mathcal{L}_C^2, ..., \mathcal{L}_Q^n, \mathcal{L}_C^n\}$$
 
-其中 $`\mathcal{L}_Q^i`$ 是量子层，$`\mathcal{L}_C^i`$ 是经典层。
+其中 $\mathcal{L}_Q^i$ 是量子层，$\mathcal{L}_C^i$ 是经典层。
 
 层间信息转换通过界面算符实现：
 
@@ -163,7 +163,7 @@ $$\mathcal{I}_{C\rightarrow Q}: \vec{x} \rightarrow |\psi\rangle$$
 
 $$C_{\text{量子神经形态}} \approx 2^n \cdot C_{\text{经典神经形态}}$$
 
-其中 $`n`$ 是系统中的量子比特数量。
+其中 $n$ 是系统中的量子比特数量。
 
 ## 实验预测与验证
 

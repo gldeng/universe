@@ -27,9 +27,9 @@ Matter in the dualism framework is defined as a special information structure wi
 $$M = \{Q_M, C_M, I_{interface}\}$$
 
 Where:
-- $`Q_M`$ is the representation of matter in the quantum domain (wave functions, quantum fields, etc.)
-- $`C_M`$ is the representation of matter in the classical domain (particles, localized entities, etc.)
-- $`I_{interface}`$ is the interface structure connecting both representations
+- $Q_M$ is the representation of matter in the quantum domain (wave functions, quantum fields, etc.)
+- $C_M$ is the representation of matter in the classical domain (particles, localized entities, etc.)
+- $I_{interface}$ is the interface structure connecting both representations
 
 Matter information density can be expressed as:
 
@@ -55,13 +55,13 @@ Matter formation can be understood as the classicalization process of quantum fl
 
 $$\delta\Phi_Q \xrightarrow{\mathcal{C}} M_C$$
 
-Where $`\delta\Phi_Q`$ represents fluctuations in the quantum field, $`\mathcal{C}`$ is the classicalization operator, and $`M_C`$ is classical matter.
+Where $\delta\Phi_Q$ represents fluctuations in the quantum field, $\mathcal{C}$ is the classicalization operator, and $M_C$ is classical matter.
 
 The stability of matter depends on the topological properties of the quantum-classical conversion path:
 
 $$S_{stability} = \exp\left(\int \mathcal{L}_{QC}(q, \dot{q}, t) dt\right)$$
 
-Where $`\mathcal{L}_{QC}`$ is the quantum-classical conversion Lagrangian.
+Where $\mathcal{L}_{QC}$ is the quantum-classical conversion Lagrangian.
 
 ### 4. Hierarchical Structure of Matter
 
@@ -95,7 +95,7 @@ The emergence of matter from energy fields must satisfy specific conditions:
 
 $$\left(\frac{\partial \mathcal{D}}{\partial x}\right)_{critical} \geq \frac{1}{\lambda_c}$$
 
-Where $`\mathcal{D}`$ is the decoherence measure, and $`\lambda_c`$ is the critical length.
+Where $\mathcal{D}$ is the decoherence measure, and $\lambda_c$ is the critical length.
 
 When the decoherence gradient of the quantum field exceeds the critical value, localized material entities emerge from the quantum field.
 
@@ -105,13 +105,13 @@ The matter-energy conversion process can be represented as:
 
 $$M \xrightarrow{\mathcal{Q}} E_Q \xrightarrow{\mathcal{C}'} E_C$$
 
-Where $`M`$ is matter, $`E_Q`$ is quantum energy, and $`E_C`$ is classical energy.
+Where $M$ is matter, $E_Q$ is quantum energy, and $E_C$ is classical energy.
 
 The conversion efficiency is regulated by the characteristics of the quantum-classical interface:
 
 $$\eta_{M\rightarrow E} = \frac{E_C}{M \cdot c^2} = 1 - e^{-\alpha d}$$
 
-Where $`d`$ is the interface thickness, and $`\alpha`$ is the conversion coefficient.
+Where $d$ is the interface thickness, and $\alpha$ is the conversion coefficient.
 
 ## Quantum Nature of Matter
 
@@ -144,7 +144,7 @@ The dynamics of the collapse process are described by a modified Schrödinger eq
 
 $$\frac{d|\Psi_M\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\Psi_M\rangle - \gamma\left(|\Psi_M\rangle - \sum_i P_i|\Psi_M\rangle P_i\right)$$
 
-Where $`\gamma`$ is the collapse rate, and $`P_i`$ are projection operators.
+Where $\gamma$ is the collapse rate, and $P_i$ are projection operators.
 
 ## Classical Nature of Matter
 
@@ -185,7 +185,7 @@ Composite matter systems can be represented as:
 
 $$M_{composite} = \{M_1, M_2, ..., M_n, I_{interaction}\}$$
 
-Where $`I_{interaction}`$ represents the interactions between system components.
+Where $I_{interaction}$ represents the interactions between system components.
 
 The quantum-classical characteristics of the system are determined by the collective behavior of its components:
 

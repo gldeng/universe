@@ -21,15 +21,15 @@
 
 ### 生物化学信息系统的形式化定义
 
-生物化学信息系统 $`\mathcal{B}`$ 可形式化定义为：
+生物化学信息系统 $\mathcal{B}$ 可形式化定义为：
 
 $$\mathcal{B} = (\mathcal{B}_Q, \mathcal{B}_C, \mathcal{I}_B, \mathcal{E})$$
 
 其中：
-- $`\mathcal{B}_Q`$ 是生物系统的量子域部分（分子轨道、电子转移、量子隧穿）
-- $`\mathcal{B}_C`$ 是生物系统的经典域部分（分子结构、序列信息、代谢网络）
-- $`\mathcal{I}_B`$ 是生物量子-经典界面
-- $`\mathcal{E}`$ 是生物环境
+- $\mathcal{B}_Q$ 是生物系统的量子域部分（分子轨道、电子转移、量子隧穿）
+- $\mathcal{B}_C$ 是生物系统的经典域部分（分子结构、序列信息、代谢网络）
+- $\mathcal{I}_B$ 是生物量子-经典界面
+- $\mathcal{E}$ 是生物环境
 
 ### 生物化学信息核心公理
 
@@ -38,21 +38,21 @@ $$\mathcal{B} = (\mathcal{B}_Q, \mathcal{B}_C, \mathcal{I}_B, \mathcal{E})$$
 
 $$\mathcal{B} = \mathcal{B}_Q \diamond \mathcal{B}_C$$
 
-其中 $`\diamond`$ 表示生物量子-经典信息联结操作。
+其中 $\diamond$ 表示生物量子-经典信息联结操作。
 
 **公理2: 生物分子量子叠加原理**  
 生物分子在微观层面存在于多个构象和反应路径的叠加态：
 
 $$|\Psi_B\rangle = \sum_i \alpha_i |S_i\rangle$$
 
-其中 $`|S_i\rangle`$ 是分子状态基矢，$`\alpha_i`$ 是复振幅。
+其中 $|S_i\rangle$ 是分子状态基矢，$\alpha_i$ 是复振幅。
 
 **公理3: 生物信息经典化原理**  
 生物功能表达是量子态经典化为确定生物效应的过程：
 
 $$\rho_B = \mathcal{M}(|\Psi_B\rangle\langle\Psi_B|)$$
 
-其中 $`\mathcal{M}`$ 是生物环境诱导的经典化过程，$`\rho_B`$ 是经典化后的生物效应密度矩阵。
+其中 $\mathcal{M}$ 是生物环境诱导的经典化过程，$\rho_B$ 是经典化后的生物效应密度矩阵。
 
 ## 生物分子信息处理机制
 
@@ -60,7 +60,7 @@ $$\rho_B = \mathcal{M}(|\Psi_B\rangle\langle\Psi_B|)$$
 
 $$\mathcal{I}(B) = \mathcal{I}_Q(B) + \mathcal{I}_C(B) - \mathcal{I}_{QC}(B)$$
 
-其中 $`\mathcal{I}(B)`$ 是总生物信息，$`\mathcal{I}_Q(B)`$ 是量子生物信息，$`\mathcal{I}_C(B)`$ 是经典生物信息，$`\mathcal{I}_{QC}(B)`$ 是量子-经典信息重叠。
+其中 $\mathcal{I}(B)$ 是总生物信息，$\mathcal{I}_Q(B)$ 是量子生物信息，$\mathcal{I}_C(B)$ 是经典生物信息，$\mathcal{I}_{QC}(B)$ 是量子-经典信息重叠。
 
 DNA复制、转录和翻译过程可形式化为：
 
@@ -98,11 +98,11 @@ $$p_i = f(T, pH, [离子], \mathcal{E}_{生物})$$
 
 $$S_{折叠} = S_{初始} - \int_{t_0}^{t_f} \mathcal{I}_{QC}(t) dt$$
 
-其中 $`\mathcal{I}_{QC}(t)`$ 是折叠过程中量子-经典信息流，表示为：
+其中 $\mathcal{I}_{QC}(t)$ 是折叠过程中量子-经典信息流，表示为：
 
 $$\mathcal{I}_{QC}(t) = \eta \cdot \text{Tr}[\rho_Q(t) \ln \rho_C(t)]$$
 
-$`\eta`$ 是量子-经典耦合系数。
+$\eta$ 是量子-经典耦合系数。
 
 ## 生物系统中的熵与信息
 
@@ -114,7 +114,7 @@ $$\Delta S_{生物} + \Delta \mathcal{I}_{生物} \geq 0$$
 
 $$\Delta \mathcal{I}_{生物} = \alpha \Delta \mathcal{I}_Q + \beta \Delta \mathcal{I}_C + \gamma \Delta \mathcal{I}_{QC}$$
 
-$`\alpha`$、$`\beta`$ 和 $`\gamma`$ 是权重系数。
+$\alpha$、$\beta$ 和 $\gamma$ 是权重系数。
 
 ## 应用与实验验证
 

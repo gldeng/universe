@@ -27,11 +27,11 @@ In the geometric quantum mathematics framework, the quantum state space is descr
 
 ### 1. Quantum State Manifold Representation
 
-The quantum state space can be represented as an infinite-dimensional complex manifold $`\mathcal{M}_Q`$ with the following structures:
+The quantum state space can be represented as an infinite-dimensional complex manifold $\mathcal{M}_Q$ with the following structures:
 
-- **Manifold Structure**: $`\mathcal{M}_Q`$ is an infinite-dimensional differential manifold with complex structure
-- **Metric Tensor**: $`g_{\mu\nu}^Q = \text{Re}\langle\partial_\mu\psi|\partial_\nu\psi\rangle`$, defining the geometric metric of state space
-- **Phase Connection**: $`A_\mu = \text{Im}\langle\psi|\partial_\mu\psi\rangle`$, describing parallel transport of quantum phase on the manifold
+- **Manifold Structure**: $\mathcal{M}_Q$ is an infinite-dimensional differential manifold with complex structure
+- **Metric Tensor**: $g_{\mu\nu}^Q = \text{Re}\langle\partial_\mu\psi|\partial_\nu\psi\rangle$, defining the geometric metric of state space
+- **Phase Connection**: $A_\mu = \text{Im}\langle\psi|\partial_\mu\psi\rangle$, describing parallel transport of quantum phase on the manifold
 
 Pure quantum states correspond to points on the manifold, quantum evolution corresponds to geodesics on the manifold:
 
@@ -47,25 +47,25 @@ Entanglement entropy corresponds to geometric invariants in the manifold:
 
 $$S_E = -\text{Tr}(\rho_A\log\rho_A) = \int_{\mathcal{M}_A}\Omega_E$$
 
-where $`\Omega_E`$ is the entanglement measure form.
+where $\Omega_E$ is the entanglement measure form.
 
 ### 3. Geometric Quantum Operator Representation
 
 Quantum operators can be represented as tensor fields on the manifold:
 
-- **Observables**: $`\hat{O} \to O_{\mu\nu}`$, tensor field representation on the manifold
-- **Evolution Operators**: $`\hat{U} \to U^\mu_{\:\nu}`$, transformation groups on the manifold
-- **Density Matrices**: $`\hat{\rho} \to \rho_{\mu\nu}`$, mixed state metrics on the manifold
+- **Observables**: $\hat{O} \to O_{\mu\nu}$, tensor field representation on the manifold
+- **Evolution Operators**: $\hat{U} \to U^\mu_{\:\nu}$, transformation groups on the manifold
+- **Density Matrices**: $\hat{\rho} \to \rho_{\mu\nu}$, mixed state metrics on the manifold
 
 ## Quantum-Classical Geometric Transformations
 
 ### 1. Classical State Manifold Representation
 
-The classical state space can be represented as a finite-dimensional Riemannian manifold $`\mathcal{M}_C`$ with the following structures:
+The classical state space can be represented as a finite-dimensional Riemannian manifold $\mathcal{M}_C$ with the following structures:
 
-- **Manifold Structure**: $`\mathcal{M}_C`$ is a finite-dimensional real Riemannian manifold
-- **Metric Tensor**: $`g_{ij}^C = \frac{\partial^2 S}{\partial x^i \partial x^j}`$, where $`S`$ is the action
-- **Phase Space Structure**: $`\omega_{ij} = \frac{\partial p_j}{\partial x^i} - \frac{\partial p_i}{\partial x^j}`$, symplectic form
+- **Manifold Structure**: $\mathcal{M}_C$ is a finite-dimensional real Riemannian manifold
+- **Metric Tensor**: $g_{ij}^C = \frac{\partial^2 S}{\partial x^i \partial x^j}$, where $S$ is the action
+- **Phase Space Structure**: $\omega_{ij} = \frac{\partial p_j}{\partial x^i} - \frac{\partial p_i}{\partial x^j}$, symplectic form
 
 ### 2. Quantum-Classical Tangent Mapping
 
@@ -75,9 +75,9 @@ $$\mathcal{C}: T\mathcal{M}_Q \to T\mathcal{M}_C$$
 
 Satisfying the following conditions:
 
-- **Information Preservation**: $`\text{dim}(T\mathcal{M}_Q) \geq \text{dim}(T\mathcal{M}_C)`$
-- **Measurement Correspondence**: $`\mathcal{C}(|\psi\rangle\langle\psi|) = \{p_i, x_i\}`$, mapping states to classical points
-- **Uncertainty Preservation**: $`\mathcal{C}`$ preserves constraints of uncertainty relations
+- **Information Preservation**: $\text{dim}(T\mathcal{M}_Q) \geq \text{dim}(T\mathcal{M}_C)$
+- **Measurement Correspondence**: $\mathcal{C}(|\psi\rangle\langle\psi|) = \{p_i, x_i\}$, mapping states to classical points
+- **Uncertainty Preservation**: $\mathcal{C}$ preserves constraints of uncertainty relations
 
 ### 3. Geometric Description of Classicalization
 
@@ -85,7 +85,7 @@ Classicalization can be represented as a projection process on manifolds:
 
 $$\mathcal{P}_O: \mathcal{M}_Q \to \mathcal{M}_C^O$$
 
-where $`\mathcal{M}_C^O`$ is the classical manifold of observer $`O`$. The specific form of projection is:
+where $\mathcal{M}_C^O$ is the classical manifold of observer $O$. The specific form of projection is:
 
 $$\mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)$$
 
@@ -111,7 +111,7 @@ Satisfying the continuity equation:
 
 $$\frac{\partial\rho}{\partial t} + \nabla\cdot\vec{J} = 0$$
 
-where $`\rho`$ is the information density form and $`\vec{J}`$ is the information flow.
+where $\rho$ is the information density form and $\vec{J}$ is the information flow.
 
 ### 3. Topological Quantum Field Theory Representation
 
@@ -119,7 +119,7 @@ Topologically protected quantum states can be described through characteristic c
 
 $$[\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)$$
 
-where $`\mathcal{M}_T`$ is the target manifold space and $`\pi_n`$ is the nth-order homotopy group.
+where $\mathcal{M}_T$ is the target manifold space and $\pi_n$ is the nth-order homotopy group.
 
 ## Higher-Dimensional Quantum Manifold Theory
 
@@ -129,7 +129,7 @@ Higher-dimensional observers can be represented as observational structures embe
 
 $$\mathcal{O}_d \subset \mathcal{M}_{d+k}$$
 
-where $`d`$ is the observer dimension and $`k`$ is the number of additional dimensions.
+where $d$ is the observer dimension and $k$ is the number of additional dimensions.
 
 ### 2. Embedding Mappings Between Manifolds
 
@@ -145,7 +145,7 @@ Multiple dualism levels can be represented as a hierarchical structure of manifo
 
 $$\mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrightarrow{\iota_{1\to2}} \mathcal{M}^{(2)}_Q \xrightarrow{\mathcal{C}^{(2)}} \mathcal{M}^{(2)}_C \to \cdots$$
 
-where $`\iota_{i\to j}`$ is the embedding mapping between levels.
+where $\iota_{i\to j}$ is the embedding mapping between levels.
 
 ## Geometric Quantum Phase Transition Models
 
@@ -155,7 +155,7 @@ Quantum-classical phase transitions can be represented as topological changes in
 
 $$\mathcal{M}_\lambda \xrightarrow{\lambda \to \lambda_c} \mathcal{M}'_{\lambda}$$
 
-where $`\lambda`$ is the control parameter and $`\lambda_c`$ is the critical value.
+where $\lambda$ is the control parameter and $\lambda_c$ is the critical value.
 
 ### 2. Geometric Interpretation of Critical Exponents
 
@@ -163,7 +163,7 @@ Critical exponents are related to geometric invariants of the manifold:
 
 $$\nu = \frac{1}{d_H - 1}$$
 
-where $`d_H`$ is the Hausdorff dimension of the manifold at the critical point.
+where $d_H$ is the Hausdorff dimension of the manifold at the critical point.
 
 ### 3. Phase Transition Dynamics of Quantum-Classical Interface
 
@@ -171,7 +171,7 @@ Interface phase transitions follow geometric renormalization flow equations:
 
 $$\frac{dg_{ij}}{dt} = -2R_{ij} + \nabla_i\nabla_j\phi$$
 
-where $`R_{ij}`$ is the Ricci curvature tensor and $`\phi`$ is the dilaton field.
+where $R_{ij}$ is the Ricci curvature tensor and $\phi$ is the dilaton field.
 
 ## Application Domains
 

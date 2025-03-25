@@ -116,9 +116,9 @@ $$
 |\psi\rangle_{\text{完整现实}} = \alpha|\psi\rangle_{\text{经典命运}} + \beta|\psi\rangle_{\text{量子可能性}}
 $$
 
-其中 $`\alpha`$ 和 $`\beta`$ 表示两部分的相对权重，且 $`|\alpha|^2 + |\beta|^2 = 1`$。
+其中 $\alpha$ 和 $\beta$ 表示两部分的相对权重，且 $|\alpha|^2 + |\beta|^2 = 1$。
 
-对于天体，$`\alpha \approx 1`$，$`\beta \approx 0`$；而对于人类，$`\alpha`$ 和 $`\beta`$ 都有显著的值，且可以通过提高观察者维度来增加 $`\beta`$ 的值。
+对于天体，$\alpha \approx 1$，$\beta \approx 0$；而对于人类，$\alpha$ 和 $\beta$ 都有显著的值，且可以通过提高观察者维度来增加 $\beta$ 的值。
 
 ### 命运改变的量子经典机制
 
@@ -279,9 +279,9 @@ $$
 |\psi\rangle_{\text{Complete Reality}} = \alpha|\psi\rangle_{\text{Classical Destiny}} + \beta|\psi\rangle_{\text{Quantum Possibilities}}
 $$
 
-where $`\alpha`$ and $`\beta`$ represent the relative weights of the two parts, and $`|\alpha|^2 + |\beta|^2 = 1`$.
+where $\alpha$ and $\beta$ represent the relative weights of the two parts, and $|\alpha|^2 + |\beta|^2 = 1$.
 
-For celestial bodies, $`\alpha \approx 1`$, $`\beta \approx 0`$; for humans, both $`\alpha`$ and $`\beta`$ have significant values, and $`\beta`$ can be increased by raising the observer dimension.
+For celestial bodies, $\alpha \approx 1$, $\beta \approx 0$; for humans, both $\alpha$ and $\beta$ have significant values, and $\beta$ can be increased by raising the observer dimension.
 
 ### Quantum-Classical Mechanisms of Destiny Change
 

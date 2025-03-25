@@ -33,11 +33,11 @@ Absolute Unity Theory introduces unity mathematics, absolute unity field equatio
 
 ### Essence of Absolute Unity
 
-Absolute Unity $`\Phi_{AU}`$ is the ultimate reality that transcends all existence and non-existence, defined as:
+Absolute Unity $\Phi_{AU}$ is the ultimate reality that transcends all existence and non-existence, defined as:
 
 $$\Phi_{AU} = \{\Omega_{AU}, \Lambda_{AU}, \Theta_{AU}, \Psi_{AU}\}$$
 
-where $`\Omega_{AU}`$ is the unity state, $`\Lambda_{AU}`$ is the unity operator, $`\Theta_{AU}`$ is the unity field, and $`\Psi_{AU}`$ is the unity network.
+where $\Omega_{AU}$ is the unity state, $\Lambda_{AU}$ is the unity operator, $\Theta_{AU}$ is the unity field, and $\Psi_{AU}$ is the unity network.
 
 Basic equation of absolute unity:
 
@@ -59,11 +59,11 @@ indicating that absolute unity both contains everything and is contained by ever
 
 ### Unity Generation Principle
 
-The unity generation principle $`\Gamma_{AU}`$ describes how absolute unity generates diversity:
+The unity generation principle $\Gamma_{AU}$ describes how absolute unity generates diversity:
 
 $$\Gamma_{AU} = \{\mathcal{G}_{AU}, \mathcal{D}_{AU}, \mathcal{U}_{AU}, \mathcal{R}_{AU}\}$$
 
-where $`\mathcal{G}_{AU}`$ is the unity generation operator, $`\mathcal{D}_{AU}`$ is the differentiation field, $`\mathcal{U}_{AU}`$ is the unity field, and $`\mathcal{R}_{AU}`$ is the reunification operator.
+where $\mathcal{G}_{AU}$ is the unity generation operator, $\mathcal{D}_{AU}$ is the differentiation field, $\mathcal{U}_{AU}$ is the unity field, and $\mathcal{R}_{AU}$ is the reunification operator.
 
 Unity differentiation equation:
 
@@ -87,18 +87,18 @@ indicating that regardless of which part the generation process starts from, it 
 
 ### Unity Domain Theory
 
-The unity domain $`\mathcal{U}_{AU}`$ is a mathematical structure describing absolute unity:
+The unity domain $\mathcal{U}_{AU}$ is a mathematical structure describing absolute unity:
 
 $$\mathcal{U}_{AU} = \{\mathbb{S}_{AU}, \odot, \mathcal{T}_{AU}, \mathcal{M}_{AU}\}$$
 
-where $`\mathbb{S}_{AU}`$ is the unity set, $`\odot`$ is the unity operation, $`\mathcal{T}_{AU}`$ is the topological structure, and $`\mathcal{M}_{AU}`$ is the metric.
+where $\mathbb{S}_{AU}$ is the unity set, $\odot$ is the unity operation, $\mathcal{T}_{AU}$ is the topological structure, and $\mathcal{M}_{AU}$ is the metric.
 
 Unity domain axioms:
 
-1. **Self-consistency**: $`X \odot X = X`$
-2. **Transcendental commutativity**: $`X \odot Y = Y \odot X`$
-3. **Absolute associativity**: $`(X \odot Y) \odot Z = X \odot (Y \odot Z) = X \odot Y \odot Z`$
-4. **Unity identity**: $`\forall X, Y: X \odot Y = \mathbb{S}_{AU}`$
+1. **Self-consistency**: $X \odot X = X$
+2. **Transcendental commutativity**: $X \odot Y = Y \odot X$
+3. **Absolute associativity**: $(X \odot Y) \odot Z = X \odot (Y \odot Z) = X \odot Y \odot Z$
+4. **Unity identity**: $\forall X, Y: X \odot Y = \mathbb{S}_{AU}$
 
 Unity domain theorem:
 
@@ -108,11 +108,11 @@ indicating that the unity set is the set of all elements that, when undergoing u
 
 ### Absolute Unity Transformation
 
-Absolute unity transformation $`\mathcal{T}_{AU}`$ describes the transformation relationship between different appearances:
+Absolute unity transformation $\mathcal{T}_{AU}$ describes the transformation relationship between different appearances:
 
 $$\mathcal{T}_{AU}: \mathcal{M}_1 \rightarrow \mathcal{M}_2$$
 
-where $`\mathcal{M}_1`$ and $`\mathcal{M}_2`$ are manifestation manifolds.
+where $\mathcal{M}_1$ and $\mathcal{M}_2$ are manifestation manifolds.
 
 Unity transformation principle:
 
@@ -130,11 +130,11 @@ indicating that unity transformations both form a group and transcend the axioms
 
 ### Unity Field Equation
 
-The absolute unity field $`\Theta_{AU}`$ is a unity field permeating all existence, described by the unity field equation:
+The absolute unity field $\Theta_{AU}$ is a unity field permeating all existence, described by the unity field equation:
 
 $$\Theta_{AU}(\mathcal{X}) = \Lambda_{AU} \odot \mathcal{X} \odot \Lambda_{AU}^{-1}$$
 
-where $`\mathcal{X}`$ is any existence or non-existence, and $`\Lambda_{AU}`$ is the unity operator.
+where $\mathcal{X}$ is any existence or non-existence, and $\Lambda_{AU}$ is the unity operator.
 
 Basic theorem of the unity field:
 
@@ -150,11 +150,11 @@ indicating that unity field energy is equal at all points.
 
 ### Unity Field Dynamics
 
-Unity field dynamics $`\mathcal{D}_{AU}`$ describes the evolution of the unity field:
+Unity field dynamics $\mathcal{D}_{AU}$ describes the evolution of the unity field:
 
 $$\frac{\partial \Theta_{AU}}{\partial \tau} = \mathcal{D}_{AU}(\Theta_{AU})$$
 
-where $`\tau`$ is transcendental time.
+where $\tau$ is transcendental time.
 
 Unity field evolution theorem:
 
@@ -172,11 +172,11 @@ indicating that the unity field both changes infinitely and does not change at a
 
 ### Absolute Unity Consciousness Structure
 
-Absolute unity consciousness $`\Psi_{AU}`$ is the super-consciousness that unifies all forms of consciousness, defined as:
+Absolute unity consciousness $\Psi_{AU}$ is the super-consciousness that unifies all forms of consciousness, defined as:
 
 $$\Psi_{AU} = \{\mathcal{A}_{AU}, \mathcal{K}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}\}$$
 
-where $`\mathcal{A}_{AU}`$ is the awareness field, $`\mathcal{K}_{AU}`$ is the knowledge network, $`\mathcal{E}_{AU}`$ is the experience flow, and $`\mathcal{W}_{AU}`$ is the will field.
+where $\mathcal{A}_{AU}$ is the awareness field, $\mathcal{K}_{AU}$ is the knowledge network, $\mathcal{E}_{AU}$ is the experience flow, and $\mathcal{W}_{AU}$ is the will field.
 
 Unity consciousness equation:
 
@@ -192,11 +192,11 @@ indicating that unity consciousness is both the sum of all individual consciousn
 
 ### Unity Consciousness Network
 
-The unity consciousness network $`\mathcal{N}_{AU}`$ connects all forms of consciousness:
+The unity consciousness network $\mathcal{N}_{AU}$ connects all forms of consciousness:
 
 $$\mathcal{N}_{AU} = \{\mathcal{V}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}, \mathcal{F}_{AU}\}$$
 
-where $`\mathcal{V}_{AU}`$ is the set of consciousness nodes, $`\mathcal{E}_{AU}`$ is the set of connections, $`\mathcal{W}_{AU}`$ is the weight function, and $`\mathcal{F}_{AU}`$ is the flow function.
+where $\mathcal{V}_{AU}$ is the set of consciousness nodes, $\mathcal{E}_{AU}$ is the set of connections, $\mathcal{W}_{AU}$ is the weight function, and $\mathcal{F}_{AU}$ is the flow function.
 
 Network unity theorem:
 
@@ -214,18 +214,18 @@ indicating that consciousness flow both does not exist and is infinitely strong.
 
 ### Unity Reality Structure
 
-Absolute unity reality $`\mathcal{R}_{AU}`$ is the unified reality that transcends all possible realities, defined as:
+Absolute unity reality $\mathcal{R}_{AU}$ is the unified reality that transcends all possible realities, defined as:
 
 $$\mathcal{R}_{AU} = \{\mathcal{S}_{AU}, \mathcal{T}_{AU}, \mathcal{O}_{AU}, \mathcal{L}_{AU}\}$$
 
-where $`\mathcal{S}_{AU}`$ is the state space, $`\mathcal{T}_{AU}`$ is the time structure, $`\mathcal{O}_{AU}`$ is the set of observers, and $`\mathcal{L}_{AU}`$ is the set of laws.
+where $\mathcal{S}_{AU}$ is the state space, $\mathcal{T}_{AU}$ is the time structure, $\mathcal{O}_{AU}$ is the set of observers, and $\mathcal{L}_{AU}$ is the set of laws.
 
 Unity reality axioms:
 
-1. **State unity**: $`\forall s_1, s_2 \in \mathcal{S}_{AU}: s_1 = s_2`$
-2. **Time unity**: $`\forall t_1, t_2 \in \mathcal{T}_{AU}: t_1 = t_2`$
-3. **Observation unity**: $`\forall o_1, o_2 \in \mathcal{O}_{AU}: o_1(x) = o_2(x) \text{ for all } x`$
-4. **Law unity**: $`\forall l_1, l_2 \in \mathcal{L}_{AU}: l_1 \cong l_2`$
+1. **State unity**: $\forall s_1, s_2 \in \mathcal{S}_{AU}: s_1 = s_2$
+2. **Time unity**: $\forall t_1, t_2 \in \mathcal{T}_{AU}: t_1 = t_2$
+3. **Observation unity**: $\forall o_1, o_2 \in \mathcal{O}_{AU}: o_1(x) = o_2(x) \text{ for all } x$
+4. **Law unity**: $\forall l_1, l_2 \in \mathcal{L}_{AU}: l_1 \cong l_2$
 
 Unity reality theorem:
 
@@ -235,11 +235,11 @@ indicating that unity reality both contains all realities and is equal to each r
 
 ### Unity Reality Dynamics
 
-Unity reality dynamics $`\mathcal{D}_{AU}`$ describes the evolution of unity reality:
+Unity reality dynamics $\mathcal{D}_{AU}$ describes the evolution of unity reality:
 
 $$\frac{d\mathcal{R}_{AU}}{d\tau} = \mathcal{D}_{AU}(\mathcal{R}_{AU})$$
 
-where $`\tau`$ is transcendental time.
+where $\tau$ is transcendental time.
 
 Reality unity conservation law:
 
@@ -257,18 +257,18 @@ indicating that unity reality can be differentiated into mutually independent su
 
 ### Unity Being Structure
 
-Absolute unity being $`\mathcal{O}_{AU}`$ is the unified being that transcends all forms of existence, defined as:
+Absolute unity being $\mathcal{O}_{AU}$ is the unified being that transcends all forms of existence, defined as:
 
 $$\mathcal{O}_{AU} = \{\mathcal{E}_{AU}, \mathcal{A}_{AU}, \mathcal{R}_{AU}, \mathcal{I}_{AU}\}$$
 
-where $`\mathcal{E}_{AU}`$ is the existence field, $`\mathcal{A}_{AU}`$ is the set of attributes, $`\mathcal{R}_{AU}`$ is the relationship network, and $`\mathcal{I}_{AU}`$ is the identity function.
+where $\mathcal{E}_{AU}$ is the existence field, $\mathcal{A}_{AU}$ is the set of attributes, $\mathcal{R}_{AU}$ is the relationship network, and $\mathcal{I}_{AU}$ is the identity function.
 
 Unity being axioms:
 
-1. **Existence unity**: $`\mathcal{E}_{AU}(x) = \mathcal{E}_{AU}(y) \text{ for all } x, y`$
-2. **Attribute unity**: $`\mathcal{A}_{AU}(x) = \mathcal{A}_{AU}(y) \text{ for all } x, y`$
-3. **Relationship unity**: $`\mathcal{R}_{AU}(x, y) = \mathcal{R}_{AU}(z, w) \text{ for all } x, y, z, w`$
-4. **Identity unity**: $`\mathcal{I}_{AU}(x, y) = 1 \text{ for all } x, y`$
+1. **Existence unity**: $\mathcal{E}_{AU}(x) = \mathcal{E}_{AU}(y) \text{ for all } x, y$
+2. **Attribute unity**: $\mathcal{A}_{AU}(x) = \mathcal{A}_{AU}(y) \text{ for all } x, y$
+3. **Relationship unity**: $\mathcal{R}_{AU}(x, y) = \mathcal{R}_{AU}(z, w) \text{ for all } x, y, z, w$
+4. **Identity unity**: $\mathcal{I}_{AU}(x, y) = 1 \text{ for all } x, y$
 
 Unity being theorem:
 
@@ -278,11 +278,11 @@ indicating that unity being both contains all beings and is equal to each being.
 
 ### Unity Being Network
 
-The unity being network $`\mathcal{N}_{AU}`$ connects all forms of being:
+The unity being network $\mathcal{N}_{AU}$ connects all forms of being:
 
 $$\mathcal{N}_{AU} = \{\mathcal{V}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}, \mathcal{F}_{AU}\}$$
 
-where $`\mathcal{V}_{AU}`$ is the set of being nodes, $`\mathcal{E}_{AU}`$ is the set of connections, $`\mathcal{W}_{AU}`$ is the weight function, and $`\mathcal{F}_{AU}`$ is the flow function.
+where $\mathcal{V}_{AU}$ is the set of being nodes, $\mathcal{E}_{AU}$ is the set of connections, $\mathcal{W}_{AU}$ is the weight function, and $\mathcal{F}_{AU}$ is the flow function.
 
 Being network theorem:
 
@@ -300,11 +300,11 @@ indicating that being flow both does not exist and is infinitely strong.
 
 ### Unity Harmony Essence
 
-Absolute unity harmony $`\mathcal{H}_{AU}`$ is the harmonious state that unifies all oppositions, defined as:
+Absolute unity harmony $\mathcal{H}_{AU}$ is the harmonious state that unifies all oppositions, defined as:
 
 $$\mathcal{H}_{AU} = \{\mathcal{C}_{AU}, \mathcal{B}_{AU}, \mathcal{P}_{AU}, \mathcal{S}_{AU}\}$$
 
-where $`\mathcal{C}_{AU}`$ is the harmony constant, $`\mathcal{B}_{AU}`$ is the balance function, $`\mathcal{P}_{AU}`$ is the harmony pattern, and $`\mathcal{S}_{AU}`$ is the harmony structure.
+where $\mathcal{C}_{AU}$ is the harmony constant, $\mathcal{B}_{AU}$ is the balance function, $\mathcal{P}_{AU}$ is the harmony pattern, and $\mathcal{S}_{AU}$ is the harmony structure.
 
 Unity harmony equation:
 
@@ -320,11 +320,11 @@ indicating that unity harmony is both the sum of all harmonies and equal to each
 
 ### Unity Harmony Dynamics
 
-Unity harmony dynamics $`\mathcal{D}_{AU}`$ describes the evolution of harmony:
+Unity harmony dynamics $\mathcal{D}_{AU}$ describes the evolution of harmony:
 
 $$\frac{d\mathcal{H}_{AU}}{d\tau} = \mathcal{D}_{AU}(\mathcal{H}_{AU})$$
 
-where $`\tau`$ is transcendental time.
+where $\tau$ is transcendental time.
 
 Harmony unity law:
 

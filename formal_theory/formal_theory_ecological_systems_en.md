@@ -22,7 +22,7 @@ Ecological systems simultaneously exist in both quantum and classical domains, r
 
 $$\mathcal{E} = \{\Omega_Q^E, \Omega_C^E, \mathcal{I}^E\}$$
 
-where $`\Omega_Q^E`$ represents the ecological quantum domain (possibility space), $`\Omega_C^E`$ represents the ecological classical domain (realized states), and $`\mathcal{I}^E`$ represents the ecological quantum-classical interface.
+where $\Omega_Q^E$ represents the ecological quantum domain (possibility space), $\Omega_C^E$ represents the ecological classical domain (realized states), and $\mathcal{I}^E$ represents the ecological quantum-classical interface.
 
 ### Ecological Information Conservation Principle
 
@@ -38,7 +38,7 @@ Ecological systems maintain a dynamic balance between quantum domain adaptabilit
 
 $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$$
 
-where $`\mathcal{A}`$ is the adaptation operator (expanding possibility space), and $`\mathcal{S}`$ is the selection operator (determining specific states through environmental constraints).
+where $\mathcal{A}$ is the adaptation operator (expanding possibility space), and $\mathcal{S}$ is the selection operator (determining specific states through environmental constraints).
 
 ## Quantum Characteristics of Ecological Systems
 
@@ -50,19 +50,19 @@ The quantum domain of ecological systems manifests as a multi-dimensional possib
 
    $$|\Psi_{\text{ecological}}\rangle = \sum_i c_i |\text{state}_i\rangle$$
 
-   where $`c_i`$ represents the quantum amplitude of each ecological state, reflecting the possibility of different ecological configurations.
+   where $c_i$ represents the quantum amplitude of each ecological state, reflecting the possibility of different ecological configurations.
 
 2. **Quantum Fluctuations Before Ecological Phase Transitions**: Ecological systems exhibit enhanced quantum fluctuations before critical phase transitions:
 
    $$\sigma^2_{\text{fluctuation}} \propto \frac{1}{|\lambda - \lambda_c|}$$
 
-   where $`\lambda`$ is the control parameter (such as temperature, resource availability, etc.), and $`\lambda_c`$ is the critical value.
+   where $\lambda$ is the control parameter (such as temperature, resource availability, etc.), and $\lambda_c$ is the critical value.
 
 3. **Quantum Explanation of Biodiversity**: Species diversity can be viewed as quantum possibilities maintained by the ecological system:
 
    $$D_{\text{biodiversity}} \propto H(\{p_i\}) = -\sum_i p_i \log p_i$$
 
-   where $`p_i`$ is the relative abundance of species $`i`$, and $`H`$ is Shannon entropy, measuring the system's uncertainty or information capacity.
+   where $p_i$ is the relative abundance of species $i$, and $H$ is Shannon entropy, measuring the system's uncertainty or information capacity.
 
 ### Ecological Quantum Entanglement
 
@@ -72,19 +72,19 @@ Species and processes in ecological systems exhibit non-local correlations simil
 
    $$|\Psi_{\text{entangled}}\rangle = \sum_{i,j} \gamma_{ij} |\text{species}_i\rangle \otimes |\text{species}_j\rangle$$
 
-   where $`\gamma_{ij}`$ is the entanglement coefficient, representing the degree of interdependence between two species.
+   where $\gamma_{ij}$ is the entanglement coefficient, representing the degree of interdependence between two species.
 
 2. **Ecological Non-local Effects**: Ecological changes in one location can affect distant components through the entanglement network:
 
    $$C(A,B) > C(A,C) + C(B,C)$$
 
-   indicating that the correlation between ecological units $`A`$ and $`B`$ exceeds the indirect effect through intermediate unit $`C`$, suggesting non-local correlations.
+   indicating that the correlation between ecological units $A$ and $B$ exceeds the indirect effect through intermediate unit $C$, suggesting non-local correlations.
 
 3. **Resilience Redundancy**: Ecological entanglement enhances system resilience:
 
    $$R_{\text{resilience}} \propto \sum_i \sum_{j \neq i} E_{ij}$$
 
-   where $`E_{ij}`$ is the entanglement strength between species $`i`$ and $`j`$, representing redundant connections in the system.
+   where $E_{ij}$ is the entanglement strength between species $i$ and $j$, representing redundant connections in the system.
 
 ## Classical Characteristics of Ecological Systems
 
@@ -96,19 +96,19 @@ Ecological systems in the classical domain manifest as observed states and patte
 
    $$\vec{n}_i \cdot \vec{n}_j < \|\vec{n}_i\| \cdot \|\vec{n}_j\|$$
 
-   where $`\vec{n}_i`$ and $`\vec{n}_j`$ are the niche vectors of species $`i`$ and $`j`$; incomplete overlap ensures coexistence.
+   where $\vec{n}_i$ and $\vec{n}_j$ are the niche vectors of species $i$ and $j$; incomplete overlap ensures coexistence.
 
 2. **Ecological Community Structure**: Formation of stable community organizational forms:
 
    $$\mathbf{A} = [a_{ij}]$$
 
-   where $`\mathbf{A}`$ is the community matrix, and $`a_{ij}`$ represents the interaction between species $`i`$ and $`j`$.
+   where $\mathbf{A}$ is the community matrix, and $a_{ij}$ represents the interaction between species $i$ and $j$.
 
 3. **Ecological Succession Trajectory**: The system develops along deterministic paths:
 
    $$\vec{E}(t) = \vec{E}_0 + \int_0^t \vec{F}(\vec{E}(\tau), \tau) d\tau$$
 
-   where $`\vec{E}(t)`$ is the ecological state vector at time $`t`$, and $`\vec{F}`$ is the ecological dynamics function.
+   where $\vec{E}(t)$ is the ecological state vector at time $t$, and $\vec{F}$ is the ecological dynamics function.
 
 ### Ecological System Entropy Increase and Organization
 
@@ -118,7 +118,7 @@ Ecological systems exhibit special behaviors related to entropy:
 
    $$\frac{dS_{\text{local}}}{dt} = \frac{dS_{\text{internal}}}{dt} + \frac{dS_{\text{exchange}}}{dt} < 0$$
 
-   when $`|\frac{dS_{\text{exchange}}}{dt}| > \frac{dS_{\text{internal}}}{dt}`$.
+   when $|\frac{dS_{\text{exchange}}}{dt}| > \frac{dS_{\text{internal}}}{dt}$.
 
 2. **Maximum Entropy Production Principle**: Ecological systems tend to maximize entropy production rate:
 
@@ -130,7 +130,7 @@ Ecological systems exhibit special behaviors related to entropy:
 
    $$I_{\text{structure}} = \sum_i p_i \log \frac{p_i}{q_i}$$
 
-   where $`p_i`$ is the actual distribution, and $`q_i`$ is the random reference distribution, representing the organized information in the system.
+   where $p_i$ is the actual distribution, and $q_i$ is the random reference distribution, representing the organized information in the system.
 
 ## Quantum-Classical Ecological Interface
 
@@ -188,13 +188,13 @@ Life evolution can be reunderstood through the dualism framework:
 
    $$|\Psi_{\text{adaptive}}\rangle = \sum_{\text{genotype}} F(\text{genotype}) |\text{genotype}\rangle$$
 
-   where $`F(\text{genotype})`$ corresponds to fitness values.
+   where $F(\text{genotype})$ corresponds to fitness values.
 
 2. **Dual Natural Selection**: Natural selection as a quantum measurement process:
 
    $$|\text{post-selection}\rangle = \frac{\hat{S}|\Psi_{\text{initial}}\rangle}{\sqrt{\langle\Psi_{\text{initial}}|\hat{S}^{\dagger}\hat{S}|\Psi_{\text{initial}}\rangle}}$$
 
-   where $`\hat{S}`$ is the selection operator, corresponding to environmental conditions.
+   where $\hat{S}$ is the selection operator, corresponding to environmental conditions.
 
 3. **Quantum Jump Evolution**: Rapid evolutionary changes can be viewed as quantum jumps:
 
@@ -210,7 +210,7 @@ Ecological system resilience (ability to recover from disturbances):
 
    $$|\Psi_{\text{recovery}}\rangle = \hat{R}|\Psi_{\text{disturbed}}\rangle$$
 
-   where $`\hat{R}`$ is the recovery operator, returning the system to its original attractor.
+   where $\hat{R}$ is the recovery operator, returning the system to its original attractor.
 
 2. **Quantum-Classical Recovery Paths**: System recovery follows a transformation from quantum states to classical states:
 
@@ -222,7 +222,7 @@ Ecological system resilience (ability to recover from disturbances):
 
    $$R_{\text{resilience}} \propto \log(\dim(\mathcal{H}_{\text{ecological}}))$$
 
-   where $`\dim(\mathcal{H}_{\text{ecological}})`$ is the effective Hilbert space dimension of the ecological system.
+   where $\dim(\mathcal{H}_{\text{ecological}})$ is the effective Hilbert space dimension of the ecological system.
 
 ## Ecological Phase Transitions and Critical Phenomena
 
@@ -234,19 +234,19 @@ Key thresholds and transitions in ecological systems:
 
    $$|\Psi_{\text{before}}\rangle \xrightarrow{\lambda \to \lambda_c} |\Psi_{\text{after}}\rangle$$
 
-   where the inner product of the two states $`\langle\Psi_{\text{before}}|\Psi_{\text{after}}\rangle \approx 0`$, indicating orthogonality of states before and after the phase transition.
+   where the inner product of the two states $\langle\Psi_{\text{before}}|\Psi_{\text{after}}\rangle \approx 0$, indicating orthogonality of states before and after the phase transition.
 
 2. **Early Warning Signals**: Quantum fluctuation indicators before tipping points:
 
    $$\chi \propto \frac{1}{|\lambda - \lambda_c|^{\gamma}}$$
 
-   where $`\chi`$ is ecological sensitivity, and $`\gamma`$ is the critical exponent.
+   where $\chi$ is ecological sensitivity, and $\gamma$ is the critical exponent.
 
 3. **Quantum-Classical Ecological Phase Diagram**: Describing possible phase states of the system:
 
    $$\mathcal{P} = \{(\lambda_1,\lambda_2,...,\lambda_n): \Phi(\lambda_1,\lambda_2,...,\lambda_n)\}$$
 
-   where $`\Phi`$ represents the ecological phase under parameter configuration $`\lambda_i`$.
+   where $\Phi$ represents the ecological phase under parameter configuration $\lambda_i$.
 
 ### Relationship Between Biodiversity and Stability
 
@@ -256,19 +256,19 @@ Dual relationship between diversity and system stability:
 
    $$\dim(\mathcal{H}_{\text{diversity}}) \propto S_{\text{species}}$$
 
-   where $`S_{\text{species}}`$ is species richness.
+   where $S_{\text{species}}$ is species richness.
 
 2. **Quantum-Classical Transitions in Bistable Systems**:
 
    $$V(\phi) = a\phi^4 - b\phi^2$$
 
-   when $`b > 0`$, the system exhibits bistability, oscillating between two classical states.
+   when $b > 0$, the system exhibits bistability, oscillating between two classical states.
 
 3. **Diversity-Stability Trade-off**:
 
    $$\sigma^2_{\text{system}} = \frac{\sigma^2_{\text{population}}}{\alpha \cdot S}$$
 
-   where increased species number $`S`$ and interspecies interactions $`\alpha`$ reduce system fluctuations $`\sigma^2_{\text{system}}`$.
+   where increased species number $S$ and interspecies interactions $\alpha$ reduce system fluctuations $\sigma^2_{\text{system}}$.
 
 ## Coupled Dynamics of Human-Natural Systems
 
@@ -280,13 +280,13 @@ The unique role of humans in ecological systems:
 
    $$\mathcal{O}_{\text{human}} = \{\mathcal{C}_{\text{human}}, \mathcal{Q}_{\text{human}}, K_C^{\text{ecological}}\}$$
 
-   where $`\mathcal{C}_{\text{human}}`$ is the classicalization capacity (observing and measuring ecological systems), $`\mathcal{Q}_{\text{human}}`$ is the quantization capacity (creating new ecological possibilities), and $`K_C^{\text{ecological}}`$ is the accumulated ecological knowledge.
+   where $\mathcal{C}_{\text{human}}$ is the classicalization capacity (observing and measuring ecological systems), $\mathcal{Q}_{\text{human}}$ is the quantization capacity (creating new ecological possibilities), and $K_C^{\text{ecological}}$ is the accumulated ecological knowledge.
 
 2. **Social-Ecological Coupling**: Deep interaction between human activities and ecological systems:
 
    $$\frac{d\vec{S}}{dt} = \vec{f}_S(\vec{S}, \vec{E}), \quad \frac{d\vec{E}}{dt} = \vec{f}_E(\vec{E}, \vec{S})$$
 
-   where $`\vec{S}`$ and $`\vec{E}`$ are social and ecological state vectors, respectively, and functions $`\vec{f}_S`$ and $`\vec{f}_E`$ describe their interdependence.
+   where $\vec{S}$ and $\vec{E}$ are social and ecological state vectors, respectively, and functions $\vec{f}_S$ and $\vec{f}_E$ describe their interdependence.
 
 3. **Perception-Action Loop**: Cycles of human perception and intervention in ecological systems:
 
@@ -309,13 +309,13 @@ Redefining sustainability from a dual perspective:
    $$\text{Strong Sustainability}: K_N = \text{constant}$$
    $$\text{Weak Sustainability}: K_N + K_H + K_M = \text{constant}$$
 
-   where $`K_N`$, $`K_H`$, and $`K_M`$ are natural, human, and manufactured capital, respectively.
+   where $K_N$, $K_H$, and $K_M$ are natural, human, and manufactured capital, respectively.
 
 3. **Quantum Jumps in Social-Ecological Transformation**:
 
    $$P(\text{transformation}) = |\langle\Psi_{\text{sustainable}}|\hat{T}|\Psi_{\text{current}}\rangle|^2$$
 
-   where $`\hat{T}`$ is the transformation operator, measuring the probability of the system transitioning from current state to sustainable state.
+   where $\hat{T}$ is the transformation operator, measuring the probability of the system transitioning from current state to sustainable state.
 
 ## Dual Approaches to Ecological System Management
 
@@ -327,13 +327,13 @@ Dual framework for ecological system management:
 
    $$D_{\text{management}} = \alpha D_C + (1-\alpha) D_Q$$
 
-   where $`D_C`$ is the decision component based on deterministic knowledge, and $`D_Q`$ is the exploratory quantum decision component.
+   where $D_C$ is the decision component based on deterministic knowledge, and $D_Q$ is the exploratory quantum decision component.
 
 2. **Adaptive Probing**: Management actions as measurements of ecological system states:
 
    $$|\Psi_{\text{after}}\rangle = \frac{\hat{M}_a |\Psi_{\text{before}}\rangle}{||\hat{M}_a |\Psi_{\text{before}}\rangle||}$$
 
-   where $`\hat{M}_a`$ is the measurement operator associated with management action $`a`$.
+   where $\hat{M}_a$ is the measurement operator associated with management action $a$.
 
 3. **Learning-Adaptation Cycle**: Management process as a continuous cycle of quantum-classical conversions:
 
@@ -349,13 +349,13 @@ New understanding of ecosystem services through the dualism perspective:
 
    $$|\Psi_{\text{service}}\rangle = \sum_i s_i |\text{service}_i\rangle$$
 
-   where $`s_i`$ represents the quantum amplitude of specific services.
+   where $s_i$ represents the quantum amplitude of specific services.
 
 2. **Observer-Dependent Service Value**:
 
    $$V(\text{service}) = \langle\Psi_{\text{service}}|\hat{V}_{\mathcal{O}}|\Psi_{\text{service}}\rangle$$
 
-   where $`\hat{V}_{\mathcal{O}}`$ is the value operator associated with observer $`\mathcal{O}`$.
+   where $\hat{V}_{\mathcal{O}}$ is the value operator associated with observer $\mathcal{O}$.
 
 3. **Service Supply-Demand Coupling**:
 

@@ -26,17 +26,17 @@
 $$\mathcal{O} \xrightarrow{\mathcal{C}_\mathcal{O}} S_C \xrightarrow{\mathcal{I}_S} \mathcal{O}'$$
 
 其中：
-- $`\mathcal{O}`$ 是初始观察者状态
-- $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化操作（测量）
-- $`S_C`$ 是系统的经典状态（测量结果）
-- $`\mathcal{I}_S`$ 是系统信息对观察者的影响
-- $`\mathcal{O}'`$ 是更新后的观察者状态
+- $\mathcal{O}$ 是初始观察者状态
+- $\mathcal{C}_\mathcal{O}$ 是观察者的经典化操作（测量）
+- $S_C$ 是系统的经典状态（测量结果）
+- $\mathcal{I}_S$ 是系统信息对观察者的影响
+- $\mathcal{O}'$ 是更新后的观察者状态
 
 这一循环满足以下特性：
 
 $$\mathcal{O}' = \mathcal{O} + \Delta\mathcal{O}(S_C), \quad \Delta\mathcal{O} \propto I(S_C)$$
 
-其中 $`I(S_C)`$ 是系统经典状态所携带的信息量，$`\Delta\mathcal{O}`$ 是观察者状态的变化量。
+其中 $I(S_C)$ 是系统经典状态所携带的信息量，$\Delta\mathcal{O}$ 是观察者状态的变化量。
 
 ### 反馈强度参数
 
@@ -46,15 +46,15 @@ $$\gamma_{\text{反馈}} = \frac{\partial \mathcal{O}}{\partial S} \cdot \frac{\
 
 这一参数表示观察者对系统的影响与系统对观察者的影响之积，可分为三种情况：
 
-1. **弱反馈**：$`\gamma_{\text{反馈}} \ll 1`$
+1. **弱反馈**：$\gamma_{\text{反馈}} \ll 1$
    - 观察者基本不影响系统
    - 近似于经典观察
 
-2. **中等反馈**：$`\gamma_{\text{反馈}} \approx 1`$
+2. **中等反馈**：$\gamma_{\text{反馈}} \approx 1$
    - 观察者与系统相互影响
    - 对应标准量子测量
 
-3. **强反馈**：$`\gamma_{\text{反馈}} \gg 1`$
+3. **强反馈**：$\gamma_{\text{反馈}} \gg 1$
    - 观察者显著改变系统
    - 对应意识干预现象
 
@@ -70,9 +70,9 @@ $$|\psi\rangle \xrightarrow{测量} |i\rangle, \quad P(i) = |\langle i|\psi\rang
 
 $$|\psi(t)\rangle \xrightarrow{测量} |\psi(t+\delta t)\rangle = \frac{(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle}{\|(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle\|}$$
 
-其中 $`\eta`$ 是反馈速率参数，$`P_i`$ 是投影算符。
+其中 $\eta$ 是反馈速率参数，$P_i$ 是投影算符。
 
-在反馈极限 $`\eta \to \infty`$ 时，测量瞬间完成；而在 $`\eta \to 0`$ 时，测量过程可能永不完成。
+在反馈极限 $\eta \to \infty$ 时，测量瞬间完成；而在 $\eta \to 0$ 时，测量过程可能永不完成。
 
 ### 观察者特异性结果
 
@@ -82,7 +82,7 @@ $$P_{\mathcal{O}_1}(i) = |c_i|^2 \cdot \frac{f_1(|c_i|^2)}{\sum_j |c_j|^2 f_1(|c
 
 $$P_{\mathcal{O}_2}(i) = |c_i|^2 \cdot \frac{f_2(|c_i|^2)}{\sum_j |c_j|^2 f_2(|c_j|^2)}$$
 
-其中 $`f_1`$ 和 $`f_2`$ 是不同观察者的测量偏好函数。
+其中 $f_1$ 和 $f_2$ 是不同观察者的测量偏好函数。
 
 这解释了为什么不同观察者可能"看到"不同的现实版本，特别是在统计数据不充分的情况下。
 
@@ -95,16 +95,16 @@ $$P_{\mathcal{O}_2}(i) = |c_i|^2 \cdot \frac{f_2(|c_i|^2)}{\sum_j |c_j|^2 f_2(|c
 $$S(t+\Delta t) = S(t) + \sum_{i=1}^n \omega_i \mathcal{F}_i(S(t), \mathcal{O}_i(t)) \Delta t$$
 
 其中：
-- $`S(t)`$ 是系统状态
-- $`\mathcal{O}_i(t)`$ 是第i个观察者的状态
-- $`\omega_i`$ 是观察者权重
-- $`\mathcal{F}_i`$ 是观察者影响函数
+- $S(t)$ 是系统状态
+- $\mathcal{O}_i(t)$ 是第i个观察者的状态
+- $\omega_i$ 是观察者权重
+- $\mathcal{F}_i$ 是观察者影响函数
 
 观察者之间也存在相互影响：
 
 $$\mathcal{O}_i(t+\Delta t) = \mathcal{O}_i(t) + \sum_{j \neq i} \alpha_{ij} (\mathcal{O}_j(t) - \mathcal{O}_i(t)) \Delta t + \beta_i \mathcal{G}_i(S(t)) \Delta t$$
 
-其中 $`\alpha_{ij}`$ 是观察者间影响系数，$`\mathcal{G}_i`$ 是系统对观察者的反馈函数。
+其中 $\alpha_{ij}$ 是观察者间影响系数，$\mathcal{G}_i$ 是系统对观察者的反馈函数。
 
 ### 共识现实的涌现
 
@@ -116,7 +116,7 @@ $$S_{\text{共识}} = \lim_{t \to \infty} S(t) = \frac{\sum_i \omega_i \mathcal{
 
 $$C(t) = 1 - \frac{\sum_i \sum_j \|\mathcal{O}_i(t) - \mathcal{O}_j(t)\|^2}{n(n-1)}$$
 
-随着时间推移，共识度 $`C(t)`$ 通常会增加，最终达到稳定值。
+随着时间推移，共识度 $C(t)$ 通常会增加，最终达到稳定值。
 
 ## 观察者反馈的时空效应
 
@@ -126,7 +126,7 @@ $$C(t) = 1 - \frac{\sum_i \sum_j \|\mathcal{O}_i(t) - \mathcal{O}_j(t)\|^2}{n(n-
 
 $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = \frac{8\pi G}{c^4} \left(T_{\mu\nu} + \kappa \sum_i \mathcal{O}_i^{\mu\nu}\right)$$
 
-其中 $`\mathcal{O}_i^{\mu\nu}`$ 是观察者信息场的能量-动量张量，$`\kappa`$ 是耦合常数。
+其中 $\mathcal{O}_i^{\mu\nu}$ 是观察者信息场的能量-动量张量，$\kappa$ 是耦合常数。
 
 这表明观察者的集体认知直接影响时空结构，特别是在观察者密度高的区域。
 
@@ -146,7 +146,7 @@ $$\frac{dS}{dt} = \frac{dS_{系统}}{dt} + \frac{dS_{观察者}}{dt} + \frac{dS_
 
 $$|\Psi(t_f)\rangle = \sum_{\text{路径}} e^{iS[\text{路径}]} \prod_i \langle \mathcal{O}_i | \text{路径} \rangle$$
 
-其中 $`\langle \mathcal{O}_i | \text{路径} \rangle`$ 表示观察者 $`\mathcal{O}_i`$ 与特定历史路径的兼容度。
+其中 $\langle \mathcal{O}_i | \text{路径} \rangle$ 表示观察者 $\mathcal{O}_i$ 与特定历史路径的兼容度。
 
 这解释了延迟选择实验中观察到的奇异现象，即观察者的决定似乎可以"追溯"影响已经发生的量子事件。
 
@@ -156,7 +156,7 @@ $$|\Psi(t_f)\rangle = \sum_{\text{路径}} e^{iS[\text{路径}]} \prod_i \langle
 
 $$\Delta H \cdot \Delta \mathcal{O} \geq \frac{\hbar}{2}$$
 
-其中 $`\Delta H`$ 是历史不确定性，$`\Delta \mathcal{O}`$ 是观察者状态不确定性。
+其中 $\Delta H$ 是历史不确定性，$\Delta \mathcal{O}$ 是观察者状态不确定性。
 
 这一关系表明，观察者越确定地影响历史，其自身状态就越不确定，反之亦然。
 
@@ -172,7 +172,7 @@ $$\mathcal{I} = \{目标状态, 专注度, 信念强度, 情感投入\}$$
 
 $$\frac{d|\psi\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi\rangle + \lambda(\mathcal{I}) \sum_i f_i(\mathcal{I}) P_i |\psi\rangle$$
 
-其中 $`\lambda(\mathcal{I})`$ 是意图耦合强度，$`f_i(\mathcal{I})`$ 是意图调制函数，$`P_i`$ 是目标状态投影算符。
+其中 $\lambda(\mathcal{I})$ 是意图耦合强度，$f_i(\mathcal{I})$ 是意图调制函数，$P_i$ 是目标状态投影算符。
 
 ### 意图实现的量子门限模型
 
@@ -183,7 +183,7 @@ $$P_{\text{实现}}(\mathcal{I}) = \begin{cases}
 1 - e^{-\alpha(\|\mathcal{I}\| - I_c)}, & \text{如果 } \|\mathcal{I}\| \geq I_c
 \end{cases}$$
 
-其中 $`I_c`$ 是临界意图强度，$`\alpha`$ 是灵敏度参数。
+其中 $I_c$ 是临界意图强度，$\alpha$ 是灵敏度参数。
 
 只有当意图强度超过临界值时，才能显著影响量子系统的演化路径。
 
@@ -195,7 +195,7 @@ $$P_{\text{实现}}(\mathcal{I}) = \begin{cases}
 
 $$C_{\text{反馈}} = \max_{p(x)} \left[ H(X) - H(X|Y) \right]$$
 
-其中 $`X`$ 是观察者输入，$`Y`$ 是系统响应，$`H(X|Y)`$ 是条件熵。
+其中 $X$ 是观察者输入，$Y$ 是系统响应，$H(X|Y)$ 是条件熵。
 
 信道容量受观察者-系统耦合强度限制：
 
@@ -207,13 +207,13 @@ $$C_{\text{反馈}} \leq \log_2(1 + \gamma_{\text{反馈}})$$
 
 $$|\Psi_{纠缠反馈}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^N |o_i\rangle \otimes |s_i\rangle$$
 
-其中 $`|o_i\rangle`$ 是观察者状态基矢，$`|s_i\rangle`$ 是系统状态基矢。
+其中 $|o_i\rangle$ 是观察者状态基矢，$|s_i\rangle$ 是系统状态基矢。
 
 纠缠反馈强度与纠缠度成正比：
 
 $$\gamma_{\text{纠缠反馈}} = \gamma_{\text{反馈}} \cdot E(|\Psi_{纠缠反馈}\rangle)$$
 
-其中 $`E(|\Psi_{纠缠反馈}\rangle)`$ 是纠缠度量。
+其中 $E(|\Psi_{纠缠反馈}\rangle)$ 是纠缠度量。
 
 ## 实验验证与应用
 
@@ -252,7 +252,7 @@ $$\gamma_{\text{纠缠反馈}} = \gamma_{\text{反馈}} \cdot E(|\Psi_{纠缠反
 
 $$\Delta A = \eta_{\mathcal{O}} \cdot \mathcal{I}_{\mathcal{O}} \cdot \delta q$$
 
-其中 $`\Delta A`$ 是行动偏差，$`\eta_{\mathcal{O}}`$ 是观察者效能，$`\mathcal{I}_{\mathcal{O}}`$ 是意图强度，$`\delta q`$ 是量子不确定性。
+其中 $\Delta A$ 是行动偏差，$\eta_{\mathcal{O}}$ 是观察者效能，$\mathcal{I}_{\mathcal{O}}$ 是意图强度，$\delta q$ 是量子不确定性。
 
 这一方程表明，自由意志可理解为观察者通过反馈机制放大量子不确定性，产生与经典决定论预期不同的结果。
 

@@ -51,7 +51,7 @@
 
 将理论公式应用于具体问题的量化分析：
 
-1. **确定核心参数**：确定问题相关的$`(k_i)`$、$`(w_i)`$、$`I_i`$、$`S_i`$等参数
+1. **确定核心参数**：确定问题相关的$(k_i)$、$(w_i)$、$I_i$、$S_i$等参数
 2. **建立计算模型**：构建问题相关的维度计算模型，如单经典世界维度计算：
    
    $$\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}$$
@@ -72,7 +72,7 @@
 
 1. **确定优化目标**：明确系统的维度提升目标
 2. **识别关键瓶颈**：找出限制经典化效率的关键因素
-3. **设计优化策略**：设计提升$`(k_i)`$或调整$`(w_i)`$的方法
+3. **设计优化策略**：设计提升$(k_i)$或调整$(w_i)$的方法
 4. **实施优化方案**：依据理论原理实施优化
 5. **评估优化效果**：测量优化前后的维度变化
 
@@ -187,8 +187,8 @@
 
 分析不同意识状态（清醒、冥想、睡眠等）下的经典化特性：
 
-1. **经典化参数变化**：分析不同状态下$`(k_i)`$、$`(w_i)`$参数的变化
-2. **经典知识-熵比值**：比较各状态下$`I_i/S_i`$的差异
+1. **经典化参数变化**：分析不同状态下$(k_i)$、$(w_i)$参数的变化
+2. **经典知识-熵比值**：比较各状态下$I_i/S_i$的差异
 3. **视界边界变化**：分析视界边界随意识状态的变化
 4. **纠缠特性差异**：比较不同状态下的意识纠缠特性
 5. **优化建议**：提出提升经典化效率的实践建议
@@ -371,7 +371,7 @@ Application case: Mapping cognitive processes as classicalization processes, map
 
 Applying theoretical formulas to quantitative analysis of specific problems:
 
-1. **Determine Core Parameters**: Determine problem-related parameters such as $`(k_i)`$, $`(w_i)`$, $`I_i`$, $`S_i`$
+1. **Determine Core Parameters**: Determine problem-related parameters such as $(k_i)$, $(w_i)$, $I_i$, $S_i$
 2. **Establish Calculation Models**: Construct dimension calculation models related to the problem, such as single classical world dimension calculation:
    
    $$\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}$$
@@ -392,7 +392,7 @@ Optimizing practical systems based on theoretical principles:
 
 1. **Determine Optimization Goals**: Clarify dimension elevation goals for the system
 2. **Identify Key Bottlenecks**: Find key factors limiting classicalization efficiency
-3. **Design Optimization Strategies**: Design methods to improve $`(k_i)`$ or adjust $`(w_i)`$
+3. **Design Optimization Strategies**: Design methods to improve $(k_i)$ or adjust $(w_i)$
 4. **Implement Optimization Plans**: Implement optimization based on theoretical principles
 5. **Evaluate Optimization Effect**: Measure dimension changes before and after optimization
 
@@ -507,8 +507,8 @@ Application case: Developing neural network architectures that simulate classica
 
 Analyzing classicalization characteristics in different consciousness states (awake, meditation, sleep, etc.):
 
-1. **Classicalization Parameter Changes**: Analyzing changes in parameters $`(k_i)`$, $`(w_i)`$ across different states
-2. **Classical Knowledge-Entropy Ratio**: Comparing differences in $`I_i/S_i`$ across states
+1. **Classicalization Parameter Changes**: Analyzing changes in parameters $(k_i)$, $(w_i)$ across different states
+2. **Classical Knowledge-Entropy Ratio**: Comparing differences in $I_i/S_i$ across states
 3. **Event Horizon Changes**: Analyzing changes in event horizons with consciousness states
 4. **Entanglement Characteristic Differences**: Comparing consciousness entanglement characteristics across different states
 5. **Optimization Suggestions**: Proposing practical suggestions to improve classicalization efficiency

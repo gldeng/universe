@@ -40,7 +40,7 @@ $$
 \text{睡眠} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot T_i
 $$
 
-其中$`|\phi_i\rangle`$代表特定的睡眠经典化模式，$`T_i`$代表该模式在睡眠中的时间权重。
+其中$|\phi_i\rangle$代表特定的睡眠经典化模式，$T_i$代表该模式在睡眠中的时间权重。
 
 ### 梦境的量子经典二元论解释
 
@@ -195,7 +195,7 @@ $$
 \text{Sleep} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot T_i
 $$
 
-where $`|\phi_i\rangle`$ represents a specific sleep classicalization pattern, and $`T_i`$ represents the time weight of that pattern during sleep.
+where $|\phi_i\rangle$ represents a specific sleep classicalization pattern, and $T_i$ represents the time weight of that pattern during sleep.
 
 ### Quantum-Classical Dualism Explanation of Dreams
 

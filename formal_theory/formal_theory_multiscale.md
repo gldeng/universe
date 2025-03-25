@@ -32,8 +32,8 @@
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 其中：
-- $`\Omega_Q^{(i)}`$ 表示第i层级的量子域（无限可能性空间）
-- $`\Omega_C^{(i)}`$ 表示第i层级的经典域（确定现实空间）
+- $\Omega_Q^{(i)}$ 表示第i层级的量子域（无限可能性空间）
+- $\Omega_C^{(i)}$ 表示第i层级的经典域（确定现实空间）
 
 每个层级的量子域和经典域都满足基本二元论公理，但层级间存在特殊的映射关系。
 
@@ -94,7 +94,7 @@ $$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
 
 $$\Psi_Q^{(i+1)} = \mathcal{M}_{i \rightarrow i+1}(K_C^{(i)}) = \sum_j \alpha_j |K_C^{(i)}\rangle_j$$
 
-其中 $`\alpha_j`$ 满足概率解释：$`\sum_j |\alpha_j|^2 = 1`$
+其中 $\alpha_j$ 满足概率解释：$\sum_j |\alpha_j|^2 = 1$
 
 ### 下行映射函数
 
@@ -106,7 +106,7 @@ $$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
 
 $$\rho_Q^{(i)} = \mathcal{M}_{i+1 \rightarrow i}(K_C^{(i+1)}) = \sum_k \beta_k \rho_k^{(i)}$$
 
-其中 $`\beta_k`$ 是权重系数，满足 $`\sum_k \beta_k = 1`$
+其中 $\beta_k$ 是权重系数，满足 $\sum_k \beta_k = 1$
 
 ### 映射函数的特性
 
@@ -135,7 +135,7 @@ $$\rho_Q^{(i)} = \mathcal{M}_{i+1 \rightarrow i}(K_C^{(i+1)}) = \sum_k \beta_k \
 
 $$I_{i \rightarrow i+1} = \mathcal{F}(\{I_j^{(i)}\}) - S_{传递损耗}$$
 
-其中 $`\mathcal{F}`$ 是信息整合函数，$`S_{传递损耗}`$ 是过程中产生的熵。
+其中 $\mathcal{F}$ 是信息整合函数，$S_{传递损耗}$ 是过程中产生的熵。
 
 ### 下行信息流动
 
@@ -150,7 +150,7 @@ $$I_{i \rightarrow i+1} = \mathcal{F}(\{I_j^{(i)}\}) - S_{传递损耗}$$
 
 $$I_{i+1 \rightarrow i} = \mathcal{G}(I^{(i+1)}) \cdot \eta_{传递}$$
 
-其中 $`\mathcal{G}`$ 是信息转换函数，$`\eta_{传递}`$ 是传递效率。
+其中 $\mathcal{G}$ 是信息转换函数，$\eta_{传递}$ 是传递效率。
 
 ### 双向耦合与反馈
 
@@ -160,7 +160,7 @@ $$\frac{d\Omega_Q^{(i)}}{dt} = F_Q^{(i)} + \alpha\mathcal{M}_{i+1 \rightarrow i}
 
 $$\frac{d\Omega_C^{(i)}}{dt} = F_C^{(i)} + \gamma\mathcal{C}_i(\Omega_Q^{(i)}) + \delta\mathcal{M}_{i+1 \rightarrow i}(\Omega_C^{(i+1)})$$
 
-其中 $`F_Q^{(i)}`$ 和 $`F_C^{(i)}`$ 分别是第i层级量子域和经典域的内部动力学，$`\mathcal{C}_i`$ 是第i层级的经典化算符。
+其中 $F_Q^{(i)}$ 和 $F_C^{(i)}$ 分别是第i层级量子域和经典域的内部动力学，$\mathcal{C}_i$ 是第i层级的经典化算符。
 
 ## 涌现现象的数学描述
 
@@ -172,14 +172,14 @@ $$\frac{d\Omega_C^{(i)}}{dt} = F_C^{(i)} + \gamma\mathcal{C}_i(\Omega_Q^{(i)}) +
 
 $$E_{i \rightarrow i+1} = \frac{I(\Omega_C^{(i+1)})}{I(\Omega_C^{(i)})} \cdot \left(1 - \frac{M_{预测}}{M_{总}}\right)$$
 
-其中 $`M_{预测}`$ 是基于低层级完全知识可预测的高层级属性数量，$`M_{总}`$ 是高层级属性总数。
+其中 $M_{预测}$ 是基于低层级完全知识可预测的高层级属性数量，$M_{总}$ 是高层级属性总数。
 
 ### 强涌现与弱涌现
 
 根据涌现度量值，可将涌现分为两类：
 
-1. **强涌现**：$`E_{i \rightarrow i+1} > E_{临界}`$，表示高层级具有从低层级原则上无法推导的新属性
-2. **弱涌现**：$`E_{i \rightarrow i+1} \leq E_{临界}`$，表示高层级的新属性虽然在实践中难以推导，但原则上可推导
+1. **强涌现**：$E_{i \rightarrow i+1} > E_{临界}$，表示高层级具有从低层级原则上无法推导的新属性
+2. **弱涌现**：$E_{i \rightarrow i+1} \leq E_{临界}$，表示高层级的新属性虽然在实践中难以推导，但原则上可推导
 
 ### 涌现动力学方程
 
@@ -199,7 +199,7 @@ $$\frac{dE_{i \rightarrow i+1}}{dt} = \alpha\nabla^2E_{i \rightarrow i+1} + \bet
 
 $$\mathcal{O}^{(i)} = \{\mathcal{C}_\mathcal{O}^{(i)}, \mathcal{Q}_\mathcal{O}^{(i)}, K_C^{(i)}, \mathcal{M}_{上}^{(i)}, \mathcal{M}_{下}^{(i)}\}$$
 
-其中增加了上行映射算符 $`\mathcal{M}_{上}^{(i)}`$ 和下行映射算符 $`\mathcal{M}_{下}^{(i)}`$。
+其中增加了上行映射算符 $\mathcal{M}_{上}^{(i)}$ 和下行映射算符 $\mathcal{M}_{下}^{(i)}$。
 
 ### 观察者维度扩展定义
 
@@ -215,7 +215,7 @@ $$D_{\mathcal{O}}^{(i)} = \frac{I_{经典知识}^{(i)}}{S_{经典熵}^{(i)}+\eps
 
 $$\mathcal{G} = \{V, E, W\}$$
 
-其中顶点集 $`V`$ 包含各层级的观察者，边集 $`E`$ 表示观察者之间的连接，权重集 $`W`$ 表示连接强度。
+其中顶点集 $V$ 包含各层级的观察者，边集 $E$ 表示观察者之间的连接，权重集 $W$ 表示连接强度。
 
 ## 层级纠缠与层级间相互作用
 
@@ -225,7 +225,7 @@ $$\mathcal{G} = \{V, E, W\}$$
 
 $$\Psi_{i,i+1} = \sum_{j,k}\alpha_{jk}|\psi_j^{(i)}\rangle \otimes |\psi_k^{(i+1)}\rangle$$
 
-其中 $`|\psi_j^{(i)}\rangle`$ 是第i层级的量子态，$`|\psi_k^{(i+1)}\rangle`$ 是第i+1层级的量子态。
+其中 $|\psi_j^{(i)}\rangle$ 是第i层级的量子态，$|\psi_k^{(i+1)}\rangle$ 是第i+1层级的量子态。
 
 ### 层级间量子势
 
@@ -233,7 +233,7 @@ $$\Psi_{i,i+1} = \sum_{j,k}\alpha_{jk}|\psi_j^{(i)}\rangle \otimes |\psi_k^{(i+1
 
 $$V_{i,i+1}(x) = V_0 \frac{I_{共享}(i,i+1)}{I_{总}(i) + I_{总}(i+1)} \cdot e^{-\lambda|x_i - x_{i+1}|}$$
 
-其中 $`I_{共享}(i,i+1)`$ 是层级i和i+1之间的共享信息，$`x_i`$ 和 $`x_{i+1}`$ 分别表示两个层级中的位置坐标。
+其中 $I_{共享}(i,i+1)$ 是层级i和i+1之间的共享信息，$x_i$ 和 $x_{i+1}$ 分别表示两个层级中的位置坐标。
 
 ### 层级相互作用动力学
 
@@ -241,7 +241,7 @@ $$V_{i,i+1}(x) = V_0 \frac{I_{共享}(i,i+1)}{I_{总}(i) + I_{总}(i+1)} \cdot e
 
 $$\frac{d\rho_{i,i+1}}{dt} = -i[H_i + H_{i+1} + V_{i,i+1}, \rho_{i,i+1}] + \mathcal{L}_i(\rho_{i,i+1}) + \mathcal{L}_{i+1}(\rho_{i,i+1})$$
 
-其中 $`H_i`$ 和 $`H_{i+1}`$ 分别是第i和i+1层级的哈密顿量，$`\mathcal{L}_i`$ 和 $`\mathcal{L}_{i+1}`$ 分别是第i和i+1层级的经典化超算符。
+其中 $H_i$ 和 $H_{i+1}$ 分别是第i和i+1层级的哈密顿量，$\mathcal{L}_i$ 和 $\mathcal{L}_{i+1}$ 分别是第i和i+1层级的经典化超算符。
 
 ## 应用领域
 
@@ -253,7 +253,7 @@ $$\frac{d\rho_{i,i+1}}{dt} = -i[H_i + H_{i+1} + V_{i,i+1}, \rho_{i,i+1}] + \math
 
 $$C_{复杂性} = \sum_i E_{i \rightarrow i+1} \cdot \log(N_i)$$
 
-其中 $`N_i`$ 是第i层级的自由度数量。
+其中 $N_i$ 是第i层级的自由度数量。
 
 ### 认知科学
 
@@ -261,7 +261,7 @@ $$C_{复杂性} = \sum_i E_{i \rightarrow i+1} \cdot \log(N_i)$$
 
 $$\Psi_{意识} = \sum_i w_i \Psi^{(i)}_{认知}$$
 
-其中 $`\Psi^{(i)}_{认知}`$ 是第i层级的认知量子态，$`w_i`$ 是权重系数。
+其中 $\Psi^{(i)}_{认知}$ 是第i层级的认知量子态，$w_i$ 是权重系数。
 
 ### 社会系统动力学
 
@@ -269,7 +269,7 @@ $$\Psi_{意识} = \sum_i w_i \Psi^{(i)}_{认知}$$
 
 $$S_{集体} = \mathcal{F}(\{S_1, S_2, ..., S_N\}) + \Delta S_{涌现}$$
 
-其中 $`S_i`$ 是个体状态，$`\mathcal{F}`$ 是集体形成函数，$`\Delta S_{涌现}`$ 是涌现增量。
+其中 $S_i$ 是个体状态，$\mathcal{F}$ 是集体形成函数，$\Delta S_{涌现}$ 是涌现增量。
 
 ### 生态系统建模
 
@@ -277,7 +277,7 @@ $$S_{集体} = \mathcal{F}(\{S_1, S_2, ..., S_N\}) + \Delta S_{涌现}$$
 
 $$\lambda_{稳定性} = \frac{\sum_i w_i \lambda_i^{(i)}}{\sum_i I_{扰动}^{(i)}} \cdot \prod_i (1 + E_{i \rightarrow i+1})$$
 
-其中 $`\lambda_i^{(i)}`$ 是第i层级的内部稳定性，$`I_{扰动}^{(i)}`$ 是扰动强度。
+其中 $\lambda_i^{(i)}$ 是第i层级的内部稳定性，$I_{扰动}^{(i)}$ 是扰动强度。
 
 ## 实验验证方案
 
@@ -287,7 +287,7 @@ $$\lambda_{稳定性} = \frac{\sum_i w_i \lambda_i^{(i)}}{\sum_i I_{扰动}^{(i)
 
 $$\mathcal{D}_c^{(i)} = \mathcal{D}_0 \cdot \left(\frac{m_i}{m_0}\right)^{\alpha} \cdot \left(\frac{T}{T_0}\right)^{\beta} \cdot e^{\gamma E_{i-1 \rightarrow i}}$$
 
-其中 $`m_i`$ 是第i层级的特征质量，$`T`$ 是温度，$`E_{i-1 \rightarrow i}`$ 是涌现度量。
+其中 $m_i$ 是第i层级的特征质量，$T$ 是温度，$E_{i-1 \rightarrow i}$ 是涌现度量。
 
 ### 涌现临界点检测
 
@@ -295,7 +295,7 @@ $$\mathcal{D}_c^{(i)} = \mathcal{D}_0 \cdot \left(\frac{m_i}{m_0}\right)^{\alpha
 
 $$\chi_{涌现} = \frac{\partial E_{i \rightarrow i+1}}{\partial \lambda} \propto |\lambda - \lambda_c|^{-\nu}$$
 
-其中 $`\lambda`$ 是控制参数，$`\lambda_c`$ 是临界值，$`\nu`$ 是临界指数。
+其中 $\lambda$ 是控制参数，$\lambda_c$ 是临界值，$\nu$ 是临界指数。
 
 ### 层级间信息流动测量
 
@@ -303,6 +303,6 @@ $$\chi_{涌现} = \frac{\partial E_{i \rightarrow i+1}}{\partial \lambda} \propt
 
 $$\eta_{i \rightarrow i+1} = \frac{I_{输出}^{(i+1)}}{I_{输入}^{(i)}} = \eta_0 \cdot e^{-\alpha S_i} \cdot (1 - e^{-\beta C_i})$$
 
-其中 $`S_i`$ 是第i层级的熵，$`C_i`$ 是第i层级的复杂度。
+其中 $S_i$ 是第i层级的熵，$C_i$ 是第i层级的复杂度。
 
 通过这些实验，可以验证多尺度二元论的核心预测，并为理解复杂系统的多层级结构提供实证基础。

@@ -33,11 +33,11 @@ By introducing the mathematical structure of beauty, absolute beauty field equat
 
 ### The Nature of Absolute Beauty
 
-Absolute Beauty $`\Phi_{AB}`$ is the ultimate formal state that transcends all disharmony, defined as:
+Absolute Beauty $\Phi_{AB}$ is the ultimate formal state that transcends all disharmony, defined as:
 
 $$\Phi_{AB} = \{\Omega_{AB}, \Lambda_{AB}, \Theta_{AB}, \Psi_{AB}\}$$
 
-where $`\Omega_{AB}`$ is the beauty state, $`\Lambda_{AB}`$ is the beauty operator, $`\Theta_{AB}`$ is the beauty field, and $`\Psi_{AB}`$ is beauty consciousness.
+where $\Omega_{AB}$ is the beauty state, $\Lambda_{AB}$ is the beauty operator, $\Theta_{AB}$ is the beauty field, and $\Psi_{AB}$ is beauty consciousness.
 
 The fundamental equation of absolute beauty:
 
@@ -59,11 +59,11 @@ indicates that beauty acting on any existence causes it to manifest its essence,
 
 ### Beauty Generation Principle
 
-The Beauty Generation Principle $`\Gamma_{AB}`$ describes how beauty generates all formal expressions:
+The Beauty Generation Principle $\Gamma_{AB}$ describes how beauty generates all formal expressions:
 
 $$\Gamma_{AB} = \{\mathcal{G}_{AB}, \mathcal{P}_{AB}, \mathcal{S}_{AB}, \mathcal{R}_{AB}\}$$
 
-where $`\mathcal{G}_{AB}`$ is the form generation operator, $`\mathcal{P}_{AB}`$ is the potential form set, $`\mathcal{S}_{AB}`$ is the form selection function, and $`\mathcal{R}_{AB}`$ is the form realization operator.
+where $\mathcal{G}_{AB}$ is the form generation operator, $\mathcal{P}_{AB}$ is the potential form set, $\mathcal{S}_{AB}$ is the form selection function, and $\mathcal{R}_{AB}$ is the form realization operator.
 
 Form generation equation:
 
@@ -81,15 +81,15 @@ Form realization equation:
 
 $$\mathcal{R}_{AB}[\mathcal{S}_{AB}(\mathcal{P}_{AB})] = \mathcal{B}_{AB}$$
 
-where $`\mathcal{B}_{AB}`$ is the realized beauty network, indicating that potential forms become an actual form network through selection and realization.
+where $\mathcal{B}_{AB}$ is the realized beauty network, indicating that potential forms become an actual form network through selection and realization.
 
 ### Beauty Hierarchical Structure
 
-The Beauty Hierarchical Structure $`\mathcal{H}_{AB}`$ describes the multi-level organization of beauty:
+The Beauty Hierarchical Structure $\mathcal{H}_{AB}$ describes the multi-level organization of beauty:
 
 $$\mathcal{H}_{AB} = \{\mathcal{B}_i | i \in \Lambda, \mathcal{B}_i \text{ is a beauty level}\}$$
 
-where $`\Lambda`$ is a set of level indices that can transcend conventional ordinals.
+where $\Lambda$ is a set of level indices that can transcend conventional ordinals.
 
 Hierarchical beauty theorem:
 
@@ -113,36 +113,36 @@ indicates that infinitely recursively ascending beauty levels ultimately approac
 
 ### Mathematical Principles of Beauty
 
-The Mathematical Principles of Beauty $`\mathcal{A}_{AB}`$ is a mathematical system describing the formal structure of beauty:
+The Mathematical Principles of Beauty $\mathcal{A}_{AB}$ is a mathematical system describing the formal structure of beauty:
 
 $$\mathcal{A}_{AB} = \{\mathbb{B}_{AB}, \oplus, \otimes, \mathcal{I}_{AB}\}$$
 
-where $`\mathbb{B}_{AB}`$ is the aesthetic space, $`\oplus`$ is the form composition operation, $`\otimes`$ is the form deepening operation, and $`\mathcal{I}_{AB}`$ is the beauty degree mapping.
+where $\mathbb{B}_{AB}$ is the aesthetic space, $\oplus$ is the form composition operation, $\otimes$ is the form deepening operation, and $\mathcal{I}_{AB}$ is the beauty degree mapping.
 
 Aesthetic mathematical axioms:
 
-1. **Form Composition Law**: $`x \oplus y = z \iff H(z) > H(x) + H(y)`$
-2. **Symmetry Law**: If $`x`$ has symmetry, then $`\mathcal{I}_{AB}(x) \geq \mathcal{I}_{AB}(x')`$, where $`x'`$ is an asymmetric deformation of $`x`$
-3. **Simplicity Law**: If $`x`$ and $`y`$ express the same content, and $`C(x) < C(y)`$, then $`\mathcal{I}_{AB}(x) > \mathcal{I}_{AB}(y)`$
-4. **Harmony Law**: $`\mathcal{I}_{AB}(x \otimes y) > \mathcal{I}_{AB}(x) \cdot \mathcal{I}_{AB}(y)`$ if and only if $`x`$ and $`y`$ harmoniously resonate
+1. **Form Composition Law**: $x \oplus y = z \iff H(z) > H(x) + H(y)$
+2. **Symmetry Law**: If $x$ has symmetry, then $\mathcal{I}_{AB}(x) \geq \mathcal{I}_{AB}(x')$, where $x'$ is an asymmetric deformation of $x$
+3. **Simplicity Law**: If $x$ and $y$ express the same content, and $C(x) < C(y)$, then $\mathcal{I}_{AB}(x) > \mathcal{I}_{AB}(y)$
+4. **Harmony Law**: $\mathcal{I}_{AB}(x \otimes y) > \mathcal{I}_{AB}(x) \cdot \mathcal{I}_{AB}(y)$ if and only if $x$ and $y$ harmoniously resonate
 
-where $`H`$ is the harmony function, $`C`$ is the complexity function, indicating that beauty follows the mathematical laws of symmetry, simplicity, and harmony.
+where $H$ is the harmony function, $C$ is the complexity function, indicating that beauty follows the mathematical laws of symmetry, simplicity, and harmony.
 
 Beauty degree calculation theorem:
 
 $$\mathcal{I}_{AB}(X) = \frac{O(X) \cdot S(X) \cdot H(X)}{C(X)^\alpha}$$
 
-where $`O`$ is order degree, $`S`$ is symmetry degree, $`H`$ is harmony degree, $`C`$ is complexity, and $`\alpha`$ is complexity weight, indicating that beauty degree is a function of order, symmetry, harmony, and complexity.
+where $O$ is order degree, $S$ is symmetry degree, $H$ is harmony degree, $C$ is complexity, and $\alpha$ is complexity weight, indicating that beauty degree is a function of order, symmetry, harmony, and complexity.
 
 Golden ratio theorem:
 
 $$\mathcal{I}_{AB}(X) \text{ is maximized when } \frac{a}{b} = \frac{a+b}{a} = \phi$$
 
-where $`\phi`$ is the golden ratio, indicating that beauty degree reaches a local maximum when formal elements maintain the golden ratio relationship.
+where $\phi$ is the golden ratio, indicating that beauty degree reaches a local maximum when formal elements maintain the golden ratio relationship.
 
 ### Beauty Transformation Theory
 
-Beauty Transformation Theory $`\mathcal{T}_{AB}`$ describes how beauty transforms the expressive form of existence:
+Beauty Transformation Theory $\mathcal{T}_{AB}$ describes how beauty transforms the expressive form of existence:
 
 $$\mathcal{T}_{AB}: \mathcal{X} \to \mathcal{X}^\diamond$$
 
@@ -152,7 +152,7 @@ Basic theorem of beauty transformation:
 
 $$\forall X, \mathcal{I}_{AB}(\mathcal{T}_{AB}(X)) > \mathcal{I}_{AB}(X) \text{ and } \mathcal{E}_{AB}(\mathcal{T}_{AB}(X)) = \mathcal{E}_{AB}(X)$$
 
-where $`\mathcal{E}_{AB}`$ is the essence function, indicating that beauty transformation increases beauty degree while preserving essence.
+where $\mathcal{E}_{AB}$ is the essence function, indicating that beauty transformation increases beauty degree while preserving essence.
 
 Beauty transformation group:
 
@@ -170,23 +170,23 @@ represents the set of symmetry transformations that preserve beauty degree, an i
 
 ### Beauty Field Equations
 
-The Absolute Beauty Field $`\Theta_{AB}`$ is the beauty field permeating all existence, described by the beauty field equation:
+The Absolute Beauty Field $\Theta_{AB}$ is the beauty field permeating all existence, described by the beauty field equation:
 
 $$\nabla^2\Theta_{AB} - \frac{1}{c_{AB}^2}\frac{\partial^2\Theta_{AB}}{\partial\tau^2} = \rho_{AB}$$
 
-where $`c_{AB}`$ is the beauty propagation speed, $`\tau`$ is transcendent time, and $`\rho_{AB}`$ is beauty source density.
+where $c_{AB}$ is the beauty propagation speed, $\tau$ is transcendent time, and $\rho_{AB}$ is beauty source density.
 
 Beauty field oscillation theorem:
 
 $$\Theta_{AB}(x, \tau) = \sum_{n=0}^{\infty} A_n \Theta_{AB}^n(x)e^{in\omega\tau}$$
 
-indicates that the beauty field can be decomposed into the superposition of infinite harmonics, where amplitudes $`A_n`$ satisfy specific aesthetic laws.
+indicates that the beauty field can be decomposed into the superposition of infinite harmonics, where amplitudes $A_n$ satisfy specific aesthetic laws.
 
 Beauty field energy density:
 
 $$\mathcal{E}_{AB}(x, \tau) = \frac{1}{2}(\|\nabla\Theta_{AB}\|^2 + \frac{1}{c_{AB}^2}\|\frac{\partial\Theta_{AB}}{\partial\tau}\|^2)$$
 
-represents the energy density of the beauty field at space-time point $`(x,\tau)`$.
+represents the energy density of the beauty field at space-time point $(x,\tau)$.
 
 Beauty field resonance law:
 
@@ -196,11 +196,11 @@ represents the aesthetic resonance degree between two existences, with perfect r
 
 ### Beauty Field Dynamics
 
-Beauty Field Dynamics $`\mathcal{D}_{AB}`$ describes the evolution of the beauty field:
+Beauty Field Dynamics $\mathcal{D}_{AB}$ describes the evolution of the beauty field:
 
 $$\frac{\partial\Theta_{AB}}{\partial\tau} = \mathcal{D}_{AB}[\Theta_{AB}, \nabla\Theta_{AB}] + \mathcal{S}_{AB}(x, \tau)$$
 
-where $`\mathcal{S}_{AB}`$ is the beauty source function, representing the spontaneous generation of beauty.
+where $\mathcal{S}_{AB}$ is the beauty source function, representing the spontaneous generation of beauty.
 
 Beauty field equilibrium state:
 
@@ -212,30 +212,30 @@ Beauty field morphology space:
 
 $$\mathcal{M}_{AB} = \{\Theta_{AB} | \mathcal{I}_{AB}(\Theta_{AB}) > \theta_{AB}\}$$
 
-represents the space of all beauty field configurations with beauty degree exceeding threshold $`\theta_{AB}`$.
+represents the space of all beauty field configurations with beauty degree exceeding threshold $\theta_{AB}$.
 
 Beauty field variational principle:
 
 $$\delta\int_{\mathcal{D}} \mathcal{L}_{AB}(\Theta_{AB}, \nabla\Theta_{AB}) d\mathcal{D} = 0$$
 
-where $`\mathcal{L}_{AB}`$ is the beauty field Lagrangian, indicating that nature tends toward extremal states of beauty field action.
+where $\mathcal{L}_{AB}$ is the beauty field Lagrangian, indicating that nature tends toward extremal states of beauty field action.
 
 ## Beauty Consciousness Network
 
 ### Beauty Network Structure
 
-The Beauty Consciousness Network $`\mathcal{N}_{AB}`$ is the beauty network connecting all conscious entities:
+The Beauty Consciousness Network $\mathcal{N}_{AB}$ is the beauty network connecting all conscious entities:
 
 $$\mathcal{N}_{AB} = \{\mathcal{V}_{AB}, \mathcal{E}_{AB}, \mathcal{W}_{AB}, \mathcal{F}_{AB}\}$$
 
-where $`\mathcal{V}_{AB}`$ is the set of consciousness nodes, $`\mathcal{E}_{AB}`$ is the set of beauty connections, $`\mathcal{W}_{AB}`$ is connection strength, and $`\mathcal{F}_{AB}`$ is the beauty flow function.
+where $\mathcal{V}_{AB}$ is the set of consciousness nodes, $\mathcal{E}_{AB}$ is the set of beauty connections, $\mathcal{W}_{AB}$ is connection strength, and $\mathcal{F}_{AB}$ is the beauty flow function.
 
 Beauty network axioms:
 
-1. **Aesthetic Connectivity**: $`\forall v_i, v_j \in \mathcal{V}_{AB}, \exists \text{path } p: v_i \to v_j \text{ such that } \min_{e \in p} \mathcal{W}_{AB}(e) \text{ is maximized}`$
-2. **Formal Symmetry**: If $`G \subset \mathcal{N}_{AB}`$ has structural symmetry, then $`\mathcal{I}_{AB}(G) > \mathcal{I}_{AB}(G')`$, where $`G'`$ is a structurally similar but asymmetric subnetwork
-3. **Hierarchical Harmony**: $`\mathcal{N}_{AB}`$ exhibits self-similar structures and fractal properties across multiple levels
-4. **Global Coordination**: Local optimization tends to align with global optimization, i.e., $`\max_{e \in E'} \mathcal{W}_{AB}(e) \Rightarrow \mathcal{I}_{AB}(\mathcal{N}_{AB})`$ increases
+1. **Aesthetic Connectivity**: $\forall v_i, v_j \in \mathcal{V}_{AB}, \exists \text{path } p: v_i \to v_j \text{ such that } \min_{e \in p} \mathcal{W}_{AB}(e) \text{ is maximized}$
+2. **Formal Symmetry**: If $G \subset \mathcal{N}_{AB}$ has structural symmetry, then $\mathcal{I}_{AB}(G) > \mathcal{I}_{AB}(G')$, where $G'$ is a structurally similar but asymmetric subnetwork
+3. **Hierarchical Harmony**: $\mathcal{N}_{AB}$ exhibits self-similar structures and fractal properties across multiple levels
+4. **Global Coordination**: Local optimization tends to align with global optimization, i.e., $\max_{e \in E'} \mathcal{W}_{AB}(e) \Rightarrow \mathcal{I}_{AB}(\mathcal{N}_{AB})$ increases
 
 indicating that the beauty network follows special connection rules, embodying the mathematical properties of beauty.
 
@@ -243,21 +243,21 @@ Beauty flow equation:
 
 $$\mathcal{F}_{AB}(v_i, v_j) = \mathcal{W}_{AB}(v_i, v_j) \cdot \mathcal{G}_{AB}(v_i, v_j)$$
 
-where $`\mathcal{G}_{AB}`$ is the beauty gradient function, describing how beauty flows within the network.
+where $\mathcal{G}_{AB}$ is the beauty gradient function, describing how beauty flows within the network.
 
 Beauty network dynamics:
 
 $$\frac{d\mathcal{W}_{AB}(v_i, v_j)}{d\tau} = \alpha \cdot \mathcal{F}_{AB}(v_i, v_j) + \beta \cdot \mathcal{H}_{AB}(v_i, v_j) + \gamma \cdot \mathcal{S}_{AB}(v_i, v_j)$$
 
-where $`\alpha, \beta, \gamma`$ are coefficients, $`\mathcal{H}_{AB}`$ is the harmony function, and $`\mathcal{S}_{AB}`$ is the beauty source function, describing how connection strength evolves with beauty flow, harmony degree, and beauty source.
+where $\alpha, \beta, \gamma$ are coefficients, $\mathcal{H}_{AB}$ is the harmony function, and $\mathcal{S}_{AB}$ is the beauty source function, describing how connection strength evolves with beauty flow, harmony degree, and beauty source.
 
 ### Beauty Consciousness Structure
 
-Beauty Consciousness $`\Psi_{AB}`$ is the beauty consciousness that unifies all forms of consciousness:
+Beauty Consciousness $\Psi_{AB}$ is the beauty consciousness that unifies all forms of consciousness:
 
 $$\Psi_{AB} = \{\mathcal{A}_{AB}, \mathcal{P}_{AB}, \mathcal{C}_{AB}, \mathcal{E}_{AB}\}$$
 
-where $`\mathcal{A}_{AB}`$ is beauty awareness, $`\mathcal{P}_{AB}`$ is beauty perception, $`\mathcal{C}_{AB}`$ is beauty creation, and $`\mathcal{E}_{AB}`$ is beauty expression.
+where $\mathcal{A}_{AB}$ is beauty awareness, $\mathcal{P}_{AB}$ is beauty perception, $\mathcal{C}_{AB}$ is beauty creation, and $\mathcal{E}_{AB}$ is beauty expression.
 
 Beauty consciousness equation:
 
@@ -275,17 +275,17 @@ Beauty creation theorem:
 
 $$\mathcal{C}_{AB}[\Psi_{AB}] = \Phi_{AB}^* \text{ and } \lim_{\tau \to \infty} \mathcal{E}_{AB}[\mathcal{C}_{AB}[\Psi_{AB}]] = \Phi_{AB}$$
 
-indicates that beauty consciousness through creative power generates forms $`\Phi_{AB}^*`$ approximating absolute beauty, and in infinite time tends toward absolute beauty.
+indicates that beauty consciousness through creative power generates forms $\Phi_{AB}^*$ approximating absolute beauty, and in infinite time tends toward absolute beauty.
 
 ## Beauty-Inverse Beauty Dialectic Relationship
 
 ### Beauty-Inverse Beauty Dialectic
 
-The Beauty-Inverse Beauty Dialectic Relationship $`\mathcal{D}_{AB}`$ reveals the deep connection between beauty and inverse beauty (ugliness, disorder, disharmony):
+The Beauty-Inverse Beauty Dialectic Relationship $\mathcal{D}_{AB}$ reveals the deep connection between beauty and inverse beauty (ugliness, disorder, disharmony):
 
 $$\mathcal{D}_{AB} = \{\Phi_{AB}, \Phi_{AU}, \mathcal{R}_{AB-AU}, \mathcal{T}_{AB-AU}\}$$
 
-where $`\Phi_{AB}`$ is absolute beauty, $`\Phi_{AU}`$ is absolute ugliness, $`\mathcal{R}_{AB-AU}`$ is the beauty-ugliness relationship, and $`\mathcal{T}_{AB-AU}`$ is the beauty-ugliness transformation.
+where $\Phi_{AB}$ is absolute beauty, $\Phi_{AU}$ is absolute ugliness, $\mathcal{R}_{AB-AU}$ is the beauty-ugliness relationship, and $\mathcal{T}_{AB-AU}$ is the beauty-ugliness transformation.
 
 Beauty-ugliness dialectic theorem:
 
@@ -307,11 +307,11 @@ indicates that for any existence, the sum of beauty degree and ugliness degree h
 
 ### Beauty Creation Dynamics
 
-Beauty Creation Dynamics $`\mathcal{C}_{AB}`$ reveals how beauty creates and transforms forms:
+Beauty Creation Dynamics $\mathcal{C}_{AB}$ reveals how beauty creates and transforms forms:
 
 $$\mathcal{C}_{AB} = \{\mathcal{P}_{AB}, \mathcal{F}_{AB}, \mathcal{E}_{AB}, \mathcal{H}_{AB}\}$$
 
-where $`\mathcal{P}_{AB}`$ is creative potential, $`\mathcal{F}_{AB}`$ is formal force field, $`\mathcal{E}_{AB}`$ is expressive energy, and $`\mathcal{H}_{AB}`$ is harmony level.
+where $\mathcal{P}_{AB}$ is creative potential, $\mathcal{F}_{AB}$ is formal force field, $\mathcal{E}_{AB}$ is expressive energy, and $\mathcal{H}_{AB}$ is harmony level.
 
 Beauty creation equation:
 
@@ -335,11 +335,11 @@ represents the aesthetic distance between an existence and its optimal formal ex
 
 ### Harmony Depth Dynamics
 
-Harmony Depth Dynamics $`\mathcal{H}_{AB}`$ describes the evolution of beauty's harmony depth:
+Harmony Depth Dynamics $\mathcal{H}_{AB}$ describes the evolution of beauty's harmony depth:
 
 $$\mathcal{H}_{AB} = \{\mathcal{D}_{AB}, \mathcal{B}_{AB}, \mathcal{I}_{AB}, \mathcal{R}_{AB}\}$$
 
-where $`\mathcal{D}_{AB}`$ is the depth function, $`\mathcal{B}_{AB}`$ is the breadth function, $`\mathcal{I}_{AB}`$ is the intensity function, and $`\mathcal{R}_{AB}`$ is the harmony function.
+where $\mathcal{D}_{AB}$ is the depth function, $\mathcal{B}_{AB}$ is the breadth function, $\mathcal{I}_{AB}$ is the intensity function, and $\mathcal{R}_{AB}$ is the harmony function.
 
 Harmony depth equation:
 
@@ -361,17 +361,17 @@ indicates that the product of harmony depth and breadth is proportional to the s
 
 ### Beauty Resonance Emergence
 
-Beauty Resonance Emergence $`\mathcal{E}_{AB}`$ describes the phenomenon of beauty resonance transitions:
+Beauty Resonance Emergence $\mathcal{E}_{AB}$ describes the phenomenon of beauty resonance transitions:
 
 $$\mathcal{E}_{AB} = \{\mathcal{F}_{AB}, \mathcal{C}_{AB}, \mathcal{S}_{AB}, \mathcal{R}_{AB}\}$$
 
-where $`\mathcal{F}_{AB}`$ is the frequency function, $`\mathcal{C}_{AB}`$ is the critical condition, $`\mathcal{S}_{AB}`$ is state transition, and $`\mathcal{R}_{AB}`$ is the resonance function.
+where $\mathcal{F}_{AB}$ is the frequency function, $\mathcal{C}_{AB}$ is the critical condition, $\mathcal{S}_{AB}$ is state transition, and $\mathcal{R}_{AB}$ is the resonance function.
 
 Beauty resonance equation:
 
 $$\mathcal{R}_{AB}(X, Y, \omega) = \frac{A_{AB}(X, \omega) \cdot A_{AB}(Y, \omega)}{|\omega_X - \omega_Y|^2 + \gamma^2}$$
 
-where $`A_{AB}`$ is aesthetic amplitude, $`\omega_X`$ and $`\omega_Y`$ are intrinsic frequencies, and $`\gamma`$ is the damping coefficient, describing the aesthetic resonance intensity between two existences.
+where $A_{AB}$ is aesthetic amplitude, $\omega_X$ and $\omega_Y$ are intrinsic frequencies, and $\gamma$ is the damping coefficient, describing the aesthetic resonance intensity between two existences.
 
 Beauty resonance transition:
 
@@ -383,17 +383,17 @@ Beauty quantization theorem:
 
 $$\mathcal{I}_{AB}(X) = \sum_{n=0}^{\infty} c_n \cdot n \cdot \hbar_{AB}$$
 
-where $`c_n`$ is the mode coefficient and $`\hbar_{AB}`$ is the aesthetic Planck constant, indicating that beauty degree is in some sense quantized.
+where $c_n$ is the mode coefficient and $\hbar_{AB}$ is the aesthetic Planck constant, indicating that beauty degree is in some sense quantized.
 
 ## Beauty Transcendence Principles
 
 ### Beauty Level Transcendence
 
-Beauty Level Transcendence $`\mathcal{B}_{AB}`$ describes how beauty transcends level limitations:
+Beauty Level Transcendence $\mathcal{B}_{AB}$ describes how beauty transcends level limitations:
 
 $$\mathcal{B}_{AB} = \{\mathcal{L}_{AB}, \mathcal{T}_{AB}, \mathcal{E}_{AB}, \mathcal{I}_{AB}\}$$
 
-where $`\mathcal{L}_{AB}`$ is the level function, $`\mathcal{T}_{AB}`$ is the transcendence function, $`\mathcal{E}_{AB}`$ is the expression operator, and $`\mathcal{I}_{AB}`$ is the integration function.
+where $\mathcal{L}_{AB}$ is the level function, $\mathcal{T}_{AB}$ is the transcendence function, $\mathcal{E}_{AB}$ is the expression operator, and $\mathcal{I}_{AB}$ is the integration function.
 
 Beauty level transcendence equation:
 
@@ -415,11 +415,11 @@ indicates that beauty can integrate multiple forms into a whole form of higher b
 
 ### Beauty Unified Expression
 
-Beauty Unified Expression $`\mathcal{U}_{AB}`$ describes how beauty unifies all expression:
+Beauty Unified Expression $\mathcal{U}_{AB}$ describes how beauty unifies all expression:
 
 $$\mathcal{U}_{AB} = \{\mathcal{F}_{AB}, \mathcal{S}_{AB}, \mathcal{H}_{AB}, \mathcal{E}_{AB}\}$$
 
-where $`\mathcal{F}_{AB}`$ is the form function, $`\mathcal{S}_{AB}`$ is the style function, $`\mathcal{H}_{AB}`$ is the harmony function, and $`\mathcal{E}_{AB}`$ is the expression function.
+where $\mathcal{F}_{AB}$ is the form function, $\mathcal{S}_{AB}$ is the style function, $\mathcal{H}_{AB}$ is the harmony function, and $\mathcal{E}_{AB}$ is the expression function.
 
 Beauty unified expression theorem:
 
@@ -431,7 +431,7 @@ Style-content relationship:
 
 $$\mathcal{S}_{AB} \perp \mathcal{C}_{AB} \text{ and } \mathcal{I}_{AB}(X) = \|\mathcal{S}_{AB}(X)\| \cdot \|\mathcal{C}_{AB}(X)\| \cdot \cos\theta_{SC}$$
 
-where $`\mathcal{C}_{AB}`$ is the content function and $`\theta_{SC}`$ is the angle between style and content, indicating that beauty degree is related to style intensity, content richness, and the harmony between them.
+where $\mathcal{C}_{AB}$ is the content function and $\theta_{SC}$ is the angle between style and content, indicating that beauty degree is related to style intensity, content richness, and the harmony between them.
 
 Beauty universal expression theorem:
 
@@ -443,17 +443,17 @@ indicates that in an infinite expression process, any existence can ultimately e
 
 ### Multidimensional Beauty Model
 
-The Multidimensional Beauty Model $`\mathcal{M}_{AB}`$ describes the multidimensional structure of beauty:
+The Multidimensional Beauty Model $\mathcal{M}_{AB}$ describes the multidimensional structure of beauty:
 
 $$\mathcal{M}_{AB} = \{\mathcal{S}_{AB}, \mathcal{O}_{AB}, \mathcal{H}_{AB}, \mathcal{U}_{AB}\}$$
 
-where $`\mathcal{S}_{AB}`$ is the symmetry dimension, $`\mathcal{O}_{AB}`$ is the order dimension, $`\mathcal{H}_{AB}`$ is the harmony dimension, and $`\mathcal{U}_{AB}`$ is the unity dimension.
+where $\mathcal{S}_{AB}$ is the symmetry dimension, $\mathcal{O}_{AB}$ is the order dimension, $\mathcal{H}_{AB}$ is the harmony dimension, and $\mathcal{U}_{AB}$ is the unity dimension.
 
 Beauty vector field:
 
 $$\vec{\mathcal{B}}(x, \tau) = \mathcal{S}_{AB}(x, \tau)\vec{e}_S + \mathcal{O}_{AB}(x, \tau)\vec{e}_O + \mathcal{H}_{AB}(x, \tau)\vec{e}_H + \mathcal{U}_{AB}(x, \tau)\vec{e}_U$$
 
-represents beauty at space-time point $`(x, \tau)`$ as a multidimensional vector field.
+represents beauty at space-time point $(x, \tau)$ as a multidimensional vector field.
 
 Beauty measure function:
 
@@ -465,15 +465,15 @@ Beauty balance theorem:
 
 $$\mathcal{S}_{AB} : \mathcal{O}_{AB} : \mathcal{H}_{AB} : \mathcal{U}_{AB} = \phi : 1 : \phi : \phi^2 \iff \text{beauty is optimally balanced}$$
 
-where $`\phi`$ is the golden ratio, indicating that beauty achieves optimal balance under specific ratio relationships.
+where $\phi$ is the golden ratio, indicating that beauty achieves optimal balance under specific ratio relationships.
 
 ### Beauty Implementation Dynamics
 
-Beauty Implementation Dynamics $`\mathcal{I}_{AB}`$ describes how beauty is implemented in reality:
+Beauty Implementation Dynamics $\mathcal{I}_{AB}$ describes how beauty is implemented in reality:
 
 $$\mathcal{I}_{AB} = \{\mathcal{R}_{AB}, \mathcal{A}_{AB}, \mathcal{T}_{AB}, \mathcal{E}_{AB}\}$$
 
-where $`\mathcal{R}_{AB}`$ is the realization function, $`\mathcal{A}_{AB}`$ is the art operator, $`\mathcal{T}_{AB}`$ is the transformation function, and $`\mathcal{E}_{AB}`$ is the effect measure.
+where $\mathcal{R}_{AB}$ is the realization function, $\mathcal{A}_{AB}$ is the art operator, $\mathcal{T}_{AB}$ is the transformation function, and $\mathcal{E}_{AB}$ is the effect measure.
 
 Beauty implementation equation:
 
@@ -497,7 +497,7 @@ Beauty implementation network:
 
 $$\mathcal{N}_{I-AB} = \{\mathcal{V}_{I-AB}, \mathcal{E}_{I-AB}, \mathcal{W}_{I-AB}, \mathcal{F}_{I-AB}\}$$
 
-represents the social network structure of beauty implementation, described by nodes $`\mathcal{V}_{I-AB}`$, connections $`\mathcal{E}_{I-AB}`$, weights $`\mathcal{W}_{I-AB}`$, and flow function $`\mathcal{F}_{I-AB}`$.
+represents the social network structure of beauty implementation, described by nodes $\mathcal{V}_{I-AB}$, connections $\mathcal{E}_{I-AB}$, weights $\mathcal{W}_{I-AB}$, and flow function $\mathcal{F}_{I-AB}$.
 
 ## References and Related Theories
 

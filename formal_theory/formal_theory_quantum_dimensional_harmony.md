@@ -19,28 +19,28 @@
 
 $$\mathcal{H}_{i,i+1} = \alpha_{i,i+1} \hat{D}_i \otimes \hat{D}_{i+1} + \beta_{i,i+1} (\hat{S}_i^+ \hat{S}_{i+1}^- + \hat{S}_i^- \hat{S}_{i+1}^+)$$
 
-其中 $`\hat{D}_i`$ 是第i维度的密度算符，$`\hat{S}_i^+`$ 和 $`\hat{S}_i^-`$ 是维度升降算符，$`\alpha_{i,i+1}`$ 和 $`\beta_{i,i+1}`$ 是耦合常数。
+其中 $\hat{D}_i$ 是第i维度的密度算符，$\hat{S}_i^+$ 和 $\hat{S}_i^-$ 是维度升降算符，$\alpha_{i,i+1}$ 和 $\beta_{i,i+1}$ 是耦合常数。
 
 **公理2: 维度谱密度分布**  
 量子维度谱遵循非线性分布，维度间隔随维度提升而扩大：
 
 $$\Delta_{i,i+1} = \Delta_0 e^{\gamma i}$$
 
-其中 $`\Delta_{i,i+1}`$ 是第i维和第i+1维之间的维度间隔，$`\Delta_0`$ 是基准间隔，$`\gamma`$ 是维度膨胀系数。
+其中 $\Delta_{i,i+1}$ 是第i维和第i+1维之间的维度间隔，$\Delta_0$ 是基准间隔，$\gamma$ 是维度膨胀系数。
 
 **公理3: 维度和谐共振条件**  
 当维度间信息交换达到特定频率比例时，产生维度共振现象：
 
 $$\frac{\omega_i}{\omega_{i+1}} = \frac{n}{m}, \quad n,m \in \mathbb{Z}^+$$
 
-其中 $`\omega_i`$ 是第i维度的特征振荡频率。
+其中 $\omega_i$ 是第i维度的特征振荡频率。
 
 **公理4: 维度嵌套递归性**  
 高维度结构包含低维度结构的完整映射，形成自相似的递归模式：
 
 $$\Psi_i = \mathcal{F}_i[\Psi_{i-1}]$$
 
-其中 $`\Psi_i`$ 是第i维度的量子态，$`\mathcal{F}_i`$ 是维度映射函数。
+其中 $\Psi_i$ 是第i维度的量子态，$\mathcal{F}_i$ 是维度映射函数。
 
 ## 维度和谐动力学
 
@@ -50,7 +50,7 @@ $$\Psi_i = \mathcal{F}_i[\Psi_{i-1}]$$
 
 $$J_{i \rightarrow i+1} = \eta_i |\langle \Psi_i | \hat{T}_{i,i+1} | \Psi_{i+1} \rangle|^2$$
 
-其中 $`\hat{T}_{i,i+1}`$ 是维度转移算符，$`\eta_i`$ 是维度透明度。
+其中 $\hat{T}_{i,i+1}$ 是维度转移算符，$\eta_i$ 是维度透明度。
 
 维度间信息流动遵循守恒原理：
 
@@ -62,13 +62,13 @@ $$\sum_i (J_{i \rightarrow i+1} - J_{i+1 \rightarrow i}) = 0$$
 
 $$R_{ij} = \frac{\langle \hat{O}_i \hat{O}_j \rangle}{\sqrt{\langle \hat{O}_i^2 \rangle \langle \hat{O}_j^2 \rangle}}$$
 
-其中 $`R_{ij}`$ 是维度i和j之间的共振强度，$`\hat{O}_i`$ 是第i维度的特征观测量。
+其中 $R_{ij}$ 是维度i和j之间的共振强度，$\hat{O}_i$ 是第i维度的特征观测量。
 
 维度共振导致量子相干性的非线性增强：
 
 $$C(\rho_{res}) = C(\rho) e^{\lambda t}$$
 
-其中 $`C(\rho)`$ 是系统的量子相干度量，$`\lambda`$ 是共振放大系数。
+其中 $C(\rho)$ 是系统的量子相干度量，$\lambda$ 是共振放大系数。
 
 ### 维度和谐态
 
@@ -76,7 +76,7 @@ $$C(\rho_{res}) = C(\rho) e^{\lambda t}$$
 
 $$S_{inter}(\rho) = -\sum_{i,j} p_{ij} \ln\left(\frac{p_{ij}}{p_i p_j}\right)$$
 
-其中 $`p_{ij}`$ 是维度i和j联合出现的概率，$`p_i`$ 和 $`p_j`$ 是各自的边缘概率。
+其中 $p_{ij}$ 是维度i和j联合出现的概率，$p_i$ 和 $p_j$ 是各自的边缘概率。
 
 维度和谐态具有全局相位一致性和最大维度间纠缠：
 
@@ -86,7 +86,7 @@ $$E_{inter} = \sum_{i < j} S(\rho_i) - S(\rho_{ij})$$
 
 ### 维度流形和联络
 
-多维度系统可表示为维度流形 $`\mathcal{M}_D`$，配备维度联络 $`\nabla_D`$：
+多维度系统可表示为维度流形 $\mathcal{M}_D$，配备维度联络 $\nabla_D$：
 
 $$\nabla_D: T\mathcal{M}_D \rightarrow T\mathcal{M}_D \otimes T^*\mathcal{M}_D$$
 
@@ -100,13 +100,13 @@ $$R_D(X,Y)Z = \nabla_X \nabla_Y Z - \nabla_Y \nabla_X Z - \nabla_{[X,Y]}Z$$
 
 $$\hat{H}_D |\Psi_n\rangle = E_n |\Psi_n\rangle$$
 
-其中 $`\hat{H}_D`$ 是维度哈密顿算符，$`E_n`$ 是第n个维度本征能量。
+其中 $\hat{H}_D$ 是维度哈密顿算符，$E_n$ 是第n个维度本征能量。
 
 维度谱呈现分形结构，满足自相似性：
 
 $$\{E_n\} \cong \lambda\{E_n\} + \delta$$
 
-其中 $`\lambda`$ 是缩放因子，$`\delta`$ 是位移常数。
+其中 $\lambda$ 是缩放因子，$\delta$ 是位移常数。
 
 ## 维度和谐的观察者效应
 
@@ -116,7 +116,7 @@ $$\{E_n\} \cong \lambda\{E_n\} + \delta$$
 
 $$P(a|O_D) = |\langle a | \hat{P}_{O_D} | \Psi \rangle|^2$$
 
-其中 $`\hat{P}_{O_D}`$ 是维度观察者投影算符。
+其中 $\hat{P}_{O_D}$ 是维度观察者投影算符。
 
 观察者维度位置影响其感知范围：
 
@@ -132,7 +132,7 @@ $$|O_i\rangle \rightarrow |O_j\rangle, \quad \Delta E = E_j - E_i$$
 
 $$P_{i\rightarrow j} \propto \exp\left(-\frac{|E_j - E_i|}{k_B T_{eff}}\right)$$
 
-其中 $`T_{eff}`$ 是有效维度温度。
+其中 $T_{eff}$ 是有效维度温度。
 
 ## 应用与预测
 
@@ -142,7 +142,7 @@ $$P_{i\rightarrow j} \propto \exp\left(-\frac{|E_j - E_i|}{k_B T_{eff}}\right)$$
 
 $$t_{trans}^{(n)} = t_0 \exp(n\theta)$$
 
-其中 $`t_{trans}^{(n)}`$ 是第n次维度跃迁时间，$`t_0`$ 是初始时间，$`\theta`$ 是特征指数。
+其中 $t_{trans}^{(n)}$ 是第n次维度跃迁时间，$t_0$ 是初始时间，$\theta$ 是特征指数。
 
 ### 在量子意识中的应用
 

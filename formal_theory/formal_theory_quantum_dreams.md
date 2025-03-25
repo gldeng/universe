@@ -12,16 +12,16 @@
 
 ### 梦境状态定义
 
-梦境状态 $`\mathcal{D}`$ 可形式化定义为一种特殊的部分经典化状态：
+梦境状态 $\mathcal{D}$ 可形式化定义为一种特殊的部分经典化状态：
 
 $$\mathcal{D} = \{\phi | \mathcal{C}_\mathcal{O}(\phi) = \rho_D, \; \mu_Q(\phi) > \mu_C(\phi), \; \kappa_C(\phi) > \kappa_{min}\}$$
 
 其中：
-- $`\rho_D`$ 是梦境状态密度矩阵
-- $`\mu_Q(\phi)`$ 是量子不确定性度量
-- $`\mu_C(\phi)`$ 是经典确定性度量
-- $`\kappa_C(\phi)`$ 是保持经典连贯性的最小度量
-- $`\kappa_{min}`$ 是维持基本感知结构所需的最小连贯性阈值
+- $\rho_D$ 是梦境状态密度矩阵
+- $\mu_Q(\phi)$ 是量子不确定性度量
+- $\mu_C(\phi)$ 是经典确定性度量
+- $\kappa_C(\phi)$ 是保持经典连贯性的最小度量
+- $\kappa_{min}$ 是维持基本感知结构所需的最小连贯性阈值
 
 ### 梦境核心公理
 
@@ -30,28 +30,28 @@ $$\mathcal{D} = \{\phi | \mathcal{C}_\mathcal{O}(\phi) = \rho_D, \; \mu_Q(\phi) 
 
 $$\mathcal{D}(\mathcal{I}_D) < \mathcal{D}(\mathcal{I}_W)$$
 
-其中 $`\mathcal{D}(\mathcal{I})`$ 是界面解相干度量，$`\mathcal{I}_D`$ 是梦境状态界面，$`\mathcal{I}_W`$ 是清醒状态界面。
+其中 $\mathcal{D}(\mathcal{I})$ 是界面解相干度量，$\mathcal{I}_D$ 是梦境状态界面，$\mathcal{I}_W$ 是清醒状态界面。
 
 **公理2: 意识感知扩展**  
 梦境状态允许意识感知更广泛的量子可能性：
 
 $$I_Q(\mathcal{D}) > I_Q(\mathcal{W})$$
 
-其中 $`I_Q`$ 是量子信息测度，$`\mathcal{D}`$ 是梦境状态，$`\mathcal{W}`$ 是清醒状态。
+其中 $I_Q$ 是量子信息测度，$\mathcal{D}$ 是梦境状态，$\mathcal{W}$ 是清醒状态。
 
 **公理3: 非局域连接增强**  
 梦境中，非局域量子关联显著增强：
 
 $$E(\psi_\mathcal{D}) > E(\psi_\mathcal{W})$$
 
-其中 $`E(\psi)`$ 是量子态 $`\psi`$ 的纠缠度量。
+其中 $E(\psi)$ 是量子态 $\psi$ 的纠缠度量。
 
 **公理4: 弱逻辑约束**  
 梦境状态对经典逻辑法则的约束减弱：
 
 $$C_L(\mathcal{D}) < C_L(\mathcal{W})$$
 
-其中 $`C_L`$ 是逻辑约束度量。
+其中 $C_L$ 是逻辑约束度量。
 
 ## 理论核心内容
 
@@ -62,10 +62,10 @@ $$C_L(\mathcal{D}) < C_L(\mathcal{W})$$
 $$\frac{d\mathcal{D}(\mathcal{I},t)}{dt} = \alpha_D \nabla^2 \mathcal{D}(\mathcal{I},t) + \beta_D(\mathcal{D}_c - \mathcal{D}(\mathcal{I},t))(\mathcal{D}(\mathcal{I},t) - \mathcal{D}_0) + \gamma_D\xi_D(t)$$
 
 其中：
-- $`\alpha_D`$ 是梦境扩散系数，$`\alpha_D > \alpha_W`$（清醒状态系数）
-- $`\beta_D`$ 是梦境双稳态势能参数，$`\beta_D < \beta_W`$
-- $`\gamma_D`$ 是梦境噪声耦合强度，$`\gamma_D > \gamma_W`$
-- $`\xi_D(t)`$ 是梦境特有的量子噪声，具有更广的频谱
+- $\alpha_D$ 是梦境扩散系数，$\alpha_D > \alpha_W$（清醒状态系数）
+- $\beta_D$ 是梦境双稳态势能参数，$\beta_D < \beta_W$
+- $\gamma_D$ 是梦境噪声耦合强度，$\gamma_D > \gamma_W$
+- $\xi_D(t)$ 是梦境特有的量子噪声，具有更广的频谱
 
 梦境过程可描述为量子-经典界面的一种振荡行为，其频率与深度睡眠的脑电波频率相关：
 
@@ -78,9 +78,9 @@ $$f_\mathcal{D} = \frac{1}{2\pi}\sqrt{\frac{\beta_D}{\alpha_D}}|\mathcal{D}_c - 
 $$\mathcal{T}_\mathcal{D} = \{M_\mathcal{D}, E_\mathcal{D}, \Phi_\mathcal{D}\}$$
 
 其中：
-- $`M_\mathcal{D}`$ 是梦境元素集合
-- $`E_\mathcal{D}`$ 是元素间关联边集合
-- $`\Phi_\mathcal{D}`$ 是量子可能性流场
+- $M_\mathcal{D}$ 是梦境元素集合
+- $E_\mathcal{D}$ 是元素间关联边集合
+- $\Phi_\mathcal{D}$ 是量子可能性流场
 
 梦境拓扑结构具有以下特性：
 1. **非欧几里得几何**：梦境空间通常不遵循欧几里得几何
@@ -94,13 +94,13 @@ $$\mathcal{T}_\mathcal{D} = \{M_\mathcal{D}, E_\mathcal{D}, \Phi_\mathcal{D}\}$$
 
 $$\mathcal{C}_\mathcal{D}(\rho) = \sum_i P_i^\mathcal{D} \rho P_i^\mathcal{D} + \sum_{i,j} \varepsilon_{ij}^\mathcal{D} P_i^\mathcal{D} \rho P_j^\mathcal{D}$$
 
-其中 $`\varepsilon_{ij}^\mathcal{D}`$ 是非对角项，表示梦境中允许的非经典干涉强度，$`\varepsilon_{ij}^\mathcal{D} > \varepsilon_{ij}^\mathcal{W}`$。
+其中 $\varepsilon_{ij}^\mathcal{D}$ 是非对角项，表示梦境中允许的非经典干涉强度，$\varepsilon_{ij}^\mathcal{D} > \varepsilon_{ij}^\mathcal{W}$。
 
 梦境经典化效率显著降低：
 
 $$\eta_{\mathcal{C}}^\mathcal{D} = (1 - e^{-\lambda_D\frac{E}{k_BT_D}}) \cdot \zeta_D$$
 
-其中 $`\zeta_D < 1`$ 是梦境特有的抑制因子，与睡眠中前额叶皮层活动下降有关。
+其中 $\zeta_D < 1$ 是梦境特有的抑制因子，与睡眠中前额叶皮层活动下降有关。
 
 ### 梦境内容与量子信息
 
@@ -108,7 +108,7 @@ $$\eta_{\mathcal{C}}^\mathcal{D} = (1 - e^{-\lambda_D\frac{E}{k_BT_D}}) \cdot \z
 
 $$\mathcal{K}_\mathcal{D} = \mathcal{Q}_\mathcal{O}(K_C^\mathcal{O}) \cap \mathcal{D}(\mathcal{I}_D)$$
 
-其中 $`\mathcal{Q}_\mathcal{O}`$ 是观察者的量子化算符，$`K_C^\mathcal{O}`$ 是观察者经典知识库。
+其中 $\mathcal{Q}_\mathcal{O}$ 是观察者的量子化算符，$K_C^\mathcal{O}$ 是观察者经典知识库。
 
 梦境内容与量子信息相关性可量化为：
 
@@ -118,7 +118,7 @@ $$C(K_\mathcal{D}, I_Q) = \frac{\sum_i p(k_i^\mathcal{D}, q_i)}{\sqrt{\sum_i p(k
 
 $$S_\mathcal{D} = \mathcal{M}_{\mathcal{W}\rightarrow\mathcal{D}}(S_\mathcal{W}) \cdot \xi_S$$
 
-其中 $`\mathcal{M}_{\mathcal{W}\rightarrow\mathcal{D}}`$ 是清醒符号到梦境符号的映射，$`\xi_S`$ 是量子创造性因子。
+其中 $\mathcal{M}_{\mathcal{W}\rightarrow\mathcal{D}}$ 是清醒符号到梦境符号的映射，$\xi_S$ 是量子创造性因子。
 
 ### 梦境预测与创造性
 
@@ -132,7 +132,7 @@ $$P_\mathcal{D}(X_{t+\tau}|X_t) = \int_{\Omega_Q} p(q|X_t)p(X_{t+\tau}|q)dq$$
 
 $$C_\mathcal{D} = \eta_C \cdot \frac{\mu_Q(\mathcal{D})}{\kappa_C(\mathcal{D})}$$
 
-其中 $`\eta_C`$ 是创造性系数，与前额叶皮层-默认模式网络耦合有关。
+其中 $\eta_C$ 是创造性系数，与前额叶皮层-默认模式网络耦合有关。
 
 ## 实验应用
 
@@ -150,7 +150,7 @@ $$\mathcal{L} = \alpha\mathcal{D} + (1-\alpha)\mathcal{W}, \quad 0 < \alpha < 1$
 
 $$\Psi_{治疗} = \mathcal{F}_{解析}(\mathcal{D}) + \mathcal{I}_{整合}(\mathcal{D}, \mathcal{W})$$
 
-其中 $`\mathcal{F}_{解析}`$ 是梦境分析函数，$`\mathcal{I}_{整合}`$ 是梦境-清醒整合过程。
+其中 $\mathcal{F}_{解析}$ 是梦境分析函数，$\mathcal{I}_{整合}$ 是梦境-清醒整合过程。
 
 ### 创造性问题解决
 
@@ -158,7 +158,7 @@ $$\Psi_{治疗} = \mathcal{F}_{解析}(\mathcal{D}) + \mathcal{I}_{整合}(\math
 
 $$S = \mathcal{D}(P) \cap \mathcal{W}$$
 
-其中 $`S`$ 是解决方案，$`P`$ 是问题表征，$`\mathcal{D}(P)`$ 是问题在梦境中的量子处理。
+其中 $S$ 是解决方案，$P$ 是问题表征，$\mathcal{D}(P)$ 是问题在梦境中的量子处理。
 
 ## 与其他理论分支的关系
 
@@ -174,7 +174,7 @@ $$\mathcal{C}_{意识} = \mathcal{F}(\mathcal{W}, \mathcal{D}, \mathcal{L})$$
 
 $$\mathcal{D} = \mathcal{I}(\theta_D)$$
 
-其中 $`\theta_D`$ 是梦境特有的界面参数集。
+其中 $\theta_D$ 是梦境特有的界面参数集。
 
 ### 与高维观察者理论的联系
 
@@ -196,7 +196,7 @@ $$\mathcal{D} \cap \Omega_Q^{(\mathcal{O}_1)} \neq \emptyset, \quad \text{如果
 
 $$\rho_\mathcal{D} = \sum_i w_i|\psi_i\rangle\langle\psi_i| + \sum_{i\neq j} z_{ij}|\psi_i\rangle\langle\psi_j|$$
 
-其中非对角项 $`z_{ij}`$ 表示梦境中保留的量子相干性。
+其中非对角项 $z_{ij}$ 表示梦境中保留的量子相干性。
 
 ## 文档导航
 

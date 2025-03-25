@@ -20,13 +20,13 @@
 
 ### 形式化描述
 
-勒贝格通用覆盖问题寻找常数$`L`$，使得：
+勒贝格通用覆盖问题寻找常数$L$，使得：
 
 $$
 L = \inf\{A(K) : K \text{ 是凸集且能覆盖任意直径为1的平面集合}\}
 $$
 
-其中$`A(K)`$表示集合$`K`$的面积。目前已知的界限是：
+其中$A(K)$表示集合$K$的面积。目前已知的界限是：
 
 $$
 \frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}
@@ -74,7 +74,7 @@ $$
 
 从量子经典角度分析勒贝格常数的下界：
 
-设$`K`$是任意能覆盖所有直径为1的集合的凸集，考虑正三角形$`T`$，其边长为1。由于$`T`$的直径为1，$`K`$必须覆盖$`T`$。
+设$K$是任意能覆盖所有直径为1的集合的凸集，考虑正三角形$T$，其边长为1。由于$T$的直径为1，$K$必须覆盖$T$。
 
 从量子信息角度，正三角形代表了一种最优化的信息排列模式：
 
@@ -91,8 +91,8 @@ $$
 
 从量子经典角度构造勒贝格常数的上界：
 
-1. 构造Reuleaux三角形$`R`$（等宽曲线的一种，直径恒为1）
-2. 考虑其凸包加上半径为$`\frac{1}{2}`$的圆盘
+1. 构造Reuleaux三角形$R$（等宽曲线的一种，直径恒为1）
+2. 考虑其凸包加上半径为$\frac{1}{2}$的圆盘
 
 这一构造给出了上界：
 
@@ -121,9 +121,9 @@ $$
 
 从量子经典角度，分析一些特殊情形的最优覆盖：
 
-1. 对于圆盘（直径为1）：最小覆盖面积为$`\frac{\pi}{4}`$
+1. 对于圆盘（直径为1）：最小覆盖面积为$\frac{\pi}{4}$
 2. 对于线段（长度为1）：最小覆盖面积为0
-3. 对于正方形（直径为1）：最小覆盖面积为$`\frac{1}{2}`$
+3. 对于正方形（直径为1）：最小覆盖面积为$\frac{1}{2}$
 
 这些特殊情况反映了量子信息在不同结构约束下的经典表达效率。
 
@@ -140,7 +140,7 @@ $$
 
 勒贝格通用覆盖问题在量子经典二元论框架下可以被理解为：寻找在经典域中表达标准化量子信息的最低冗余度。
 
-基于量子经典分析，我们推测勒贝格常数$`L`$接近于$`\frac{\pi}{2\sqrt{3}}`$，因为它代表了量子信息经典化后的最优表达效率，与六边形密铺结构的基本效率相关。
+基于量子经典分析，我们推测勒贝格常数$L$接近于$\frac{\pi}{2\sqrt{3}}$，因为它代表了量子信息经典化后的最优表达效率，与六边形密铺结构的基本效率相关。
 
 这一问题的解决将深化我们对量子信息经典化表达效率的理解，揭示在保持信息完整性的前提下，经典表达所需的最小"空间"。
 
@@ -168,13 +168,13 @@ The Lebesgue Universal Covering Problem is a classical problem in geometry, init
 
 ### Formal Description
 
-The Lebesgue Universal Covering Problem seeks to find a constant $`L`$ such that:
+The Lebesgue Universal Covering Problem seeks to find a constant $L$ such that:
 
 $$
 L = \inf\{A(K) : K \text{ is a convex set that can cover any planar set with diameter 1}\}
 $$
 
-where $`A(K)`$ represents the area of set $`K`$. The currently known bounds are:
+where $A(K)$ represents the area of set $K$. The currently known bounds are:
 
 $$
 \frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}
@@ -222,7 +222,7 @@ This standardization allows sets of different shapes to be compared under the sa
 
 From the Quantum-Classical perspective, analyzing the lower bound of the Lebesgue constant:
 
-Let $`K`$ be any convex set that can cover all sets with diameter 1, consider an equilateral triangle $`T`$ with side length 1. Since the diameter of $`T`$ is 1, $`K`$ must cover $`T`$.
+Let $K$ be any convex set that can cover all sets with diameter 1, consider an equilateral triangle $T$ with side length 1. Since the diameter of $T$ is 1, $K$ must cover $T$.
 
 From the quantum information perspective, the equilateral triangle represents an optimized information arrangement pattern:
 
@@ -239,8 +239,8 @@ This lower bound reflects the basic limitation of the tightest expression of qua
 
 From the Quantum-Classical perspective, constructing an upper bound for the Lebesgue constant:
 
-1. Construct a Reuleaux triangle $`R`$ (a type of curve of constant width, always with diameter 1)
-2. Consider its convex hull plus a disc with radius $`\frac{1}{2}`$
+1. Construct a Reuleaux triangle $R$ (a type of curve of constant width, always with diameter 1)
+2. Consider its convex hull plus a disc with radius $\frac{1}{2}$
 
 This construction gives an upper bound:
 
@@ -269,9 +269,9 @@ This value reflects the optimal expression efficiency of quantum information aft
 
 From the Quantum-Classical perspective, analyzing the optimal covering for some special cases:
 
-1. For a disc (diameter 1): The minimum covering area is $`\frac{\pi}{4}`$
+1. For a disc (diameter 1): The minimum covering area is $\frac{\pi}{4}$
 2. For a line segment (length 1): The minimum covering area is 0
-3. For a square (diameter 1): The minimum covering area is $`\frac{1}{2}`$
+3. For a square (diameter 1): The minimum covering area is $\frac{1}{2}$
 
 These special cases reflect the classical expression efficiency of quantum information under different structural constraints.
 
@@ -288,7 +288,7 @@ From the Quantum-Classical Dualism perspective, the analysis of the Lebesgue Uni
 
 The Lebesgue Universal Covering Problem can be understood under the Quantum-Classical Dualism framework as: seeking the minimum redundancy for expressing standardized quantum information in the classical domain.
 
-Based on Quantum-Classical analysis, we conjecture that the Lebesgue constant $`L`$ is close to $`\frac{\pi}{2\sqrt{3}}`$, because it represents the optimal expression efficiency of quantum information after classicalization, related to the basic efficiency of the hexagonal tiling structure.
+Based on Quantum-Classical analysis, we conjecture that the Lebesgue constant $L$ is close to $\frac{\pi}{2\sqrt{3}}$, because it represents the optimal expression efficiency of quantum information after classicalization, related to the basic efficiency of the hexagonal tiling structure.
 
 The solution to this problem will deepen our understanding of the efficiency of quantum information classicalization expression, revealing the minimum "space" required for classical expression while maintaining information integrity.
 

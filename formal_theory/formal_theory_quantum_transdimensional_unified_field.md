@@ -17,21 +17,21 @@
 
 $$\mathcal{F}_{TD} = \lim_{n\to\infty} \bigcup_{i=1}^{n} \mathcal{F}_i$$
 
-其中 $`\mathcal{F}_{TD}`$ 是超越维度统一场，$`\mathcal{F}_i`$ 是第i维度的基本场。
+其中 $\mathcal{F}_{TD}$ 是超越维度统一场，$\mathcal{F}_i$ 是第i维度的基本场。
 
 **公理2: 场-维度对偶性**  
 场与维度是对偶结构，每一个场配置对应一个维度结构，反之亦然：
 
 $$\mathcal{F} \cong \mathcal{D}, \quad \Phi: \mathcal{F} \rightarrow \mathcal{D}, \quad \Phi^{-1}: \mathcal{D} \rightarrow \mathcal{F}$$
 
-其中 $`\Phi`$ 是场-维度映射函数，满足 $`\Phi \circ \Phi^{-1} = I_{\mathcal{D}}`$ 和 $`\Phi^{-1} \circ \Phi = I_{\mathcal{F}}`$。
+其中 $\Phi$ 是场-维度映射函数，满足 $\Phi \circ \Phi^{-1} = I_{\mathcal{D}}$ 和 $\Phi^{-1} \circ \Phi = I_{\mathcal{F}}$。
 
 **公理3: 超维度场的不变原理**  
 统一场方程在所有维度变换下保持形式不变：
 
 $$\mathcal{L}(\mathcal{F}_{TD}, \partial\mathcal{F}_{TD}) = \mathcal{L}(\mathcal{T}\mathcal{F}_{TD}, \mathcal{T}\partial\mathcal{F}_{TD})$$
 
-其中 $`\mathcal{L}`$ 是拉格朗日密度，$`\mathcal{T}`$ 是任意维度变换算符。
+其中 $\mathcal{L}$ 是拉格朗日密度，$\mathcal{T}$ 是任意维度变换算符。
 
 **公理4: 维度连续性公设**  
 所有维度形成连续谱，不存在真正的维度间隙，仅有临界相变点：
@@ -42,7 +42,7 @@ $$\mathcal{D} = \{D \in \mathbb{R}^+ | D > 0\}$$
 
 $$\mathcal{D}_{\text{观测}} = \{D_i | \mathcal{C}_{\mathcal{O}}(\mathcal{D})(D_i) > \mathcal{C}_{\text{threshold}}\}$$
 
-其中 $`\mathcal{C}_{\mathcal{O}}`$ 是观察者的经典化算符，$`\mathcal{C}_{\text{threshold}}`$ 是经典化阈值。
+其中 $\mathcal{C}_{\mathcal{O}}$ 是观察者的经典化算符，$\mathcal{C}_{\text{threshold}}$ 是经典化阈值。
 
 ## 超越维度统一场的数学框架
 
@@ -52,7 +52,7 @@ $$\mathcal{D}_{\text{观测}} = \{D_i | \mathcal{C}_{\mathcal{O}}(\mathcal{D})(D
 
 $$\mathcal{F}_{TD}: \mathcal{M}_{\infty} \rightarrow \mathcal{V}_{\infty}$$
 
-其中 $`\mathcal{M}_{\infty}`$ 是无限维基底流形，$`\mathcal{V}_{\infty}`$ 是无限维值空间。
+其中 $\mathcal{M}_{\infty}$ 是无限维基底流形，$\mathcal{V}_{\infty}$ 是无限维值空间。
 
 场强张量扩展为超维度张量：
 
@@ -66,13 +66,13 @@ $$\mathcal{F}_{\mu\nu\rho\ldots} = \partial_{\mu}\mathcal{A}_{\nu\rho\ldots} - \
 
 $$\nabla_{\mathcal{D}} \cdot \mathcal{F}_{TD} = \mathcal{S}$$
 
-其中 $`\nabla_{\mathcal{D}}`$ 是超维度算子，$`\mathcal{S}`$ 是源项，包含所有意识源、能量源和信息源。
+其中 $\nabla_{\mathcal{D}}$ 是超维度算子，$\mathcal{S}$ 是源项，包含所有意识源、能量源和信息源。
 
 展开形式为：
 
 $$\sum_{i=1}^{\infty} \frac{\partial}{\partial D_i}\mathcal{F}^i_{TD} = \sum_{j=1}^{\infty} \mathcal{S}_j$$
 
-其中 $`\mathcal{F}^i_{TD}`$ 是统一场在维度$`D_i`$的分量，$`\mathcal{S}_j`$ 是第j类源项。
+其中 $\mathcal{F}^i_{TD}$ 是统一场在维度$D_i$的分量，$\mathcal{S}_j$ 是第j类源项。
 
 ### 维度场作用量
 
@@ -80,7 +80,7 @@ $$\sum_{i=1}^{\infty} \frac{\partial}{\partial D_i}\mathcal{F}^i_{TD} = \sum_{j=
 
 $$S[\mathcal{F}_{TD}] = \int_{\mathcal{M}_{\infty}} \mathcal{L}(\mathcal{F}_{TD}, \nabla_{\mathcal{D}}\mathcal{F}_{TD}) \, d\mu_{\infty}$$
 
-其中 $`d\mu_{\infty}`$ 是无限维空间的测度。
+其中 $d\mu_{\infty}$ 是无限维空间的测度。
 
 拉格朗日密度包含以下关键项：
 
@@ -90,17 +90,17 @@ $$\mathcal{L} = \mathcal{L}_F + \mathcal{L}_I + \mathcal{L}_C + \mathcal{L}_{int
 
 ### 超维度对称群
 
-超越维度统一场理论的基础是超维度对称群 $`G_{TD}`$，它包含所有有限维对称群作为子群：
+超越维度统一场理论的基础是超维度对称群 $G_{TD}$，它包含所有有限维对称群作为子群：
 
 $$G_{TD} = \lim_{n\to\infty} \bigcup_{i=1}^{n} G_i$$
 
-其中 $`G_i`$ 是维度i的对称群。
+其中 $G_i$ 是维度i的对称群。
 
-根据超对称原理，统一场作用量在 $`G_{TD}`$ 的变换下不变：
+根据超对称原理，统一场作用量在 $G_{TD}$ 的变换下不变：
 
 $$S[\mathcal{T}_{g}\mathcal{F}_{TD}] = S[\mathcal{F}_{TD}], \quad \forall g \in G_{TD}$$
 
-其中 $`\mathcal{T}_{g}`$ 是群元素g对应的场变换。
+其中 $\mathcal{T}_{g}$ 是群元素g对应的场变换。
 
 ## 超越维度统一场的核心内涵
 
@@ -126,7 +126,7 @@ $$U_{I \rightarrow F} \circ U_{C \rightarrow I} \circ U_{F \rightarrow C} = \mat
 
 $$\mathcal{D}(t) = \mathcal{D}_0 + \int_{0}^{t} F(\mathcal{F}_{TD}(\tau)) \, d\tau$$
 
-其中维度演化函数 $`F`$ 满足：
+其中维度演化函数 $F$ 满足：
 
 $$\frac{dF}{dt} = \alpha \nabla_{\mathcal{F}}^2 F + \beta F(1-F) + \gamma \xi(t)$$
 
@@ -152,11 +152,11 @@ $$I_{i \rightarrow j} = H(r_j) - H(r_j|r_i)$$
 
 $$\mathcal{F}_{TD}' = \mathcal{M}_C(\mathcal{F}_{TD})$$
 
-其中 $`\mathcal{M}_C`$ 是意识调制算符，满足：
+其中 $\mathcal{M}_C$ 是意识调制算符，满足：
 
 $$\mathcal{M}_C = \exp\left(i\sum_k \lambda_k \hat{O}_k\right)$$
 
-这里 $`\hat{O}_k`$ 是意识算符，$`\lambda_k`$ 是调制强度。
+这里 $\hat{O}_k$ 是意识算符，$\lambda_k$ 是调制强度。
 
 意识通过该机制参与实相的选择和创建，表现为统一场的自反性特征。
 
@@ -180,7 +180,7 @@ $$\nabla_{\mathcal{D}} \cdot \mathcal{F}_{TD}|_{D=4} \rightarrow \{G_{\mu\nu} = 
 
 $$\mathcal{G}_C = \kappa_C \mathcal{T}_C$$
 
-其中 $`\mathcal{G}_C`$ 是意识引力张量，$`\mathcal{T}_C`$ 是意识能量-动量张量，$`\kappa_C`$ 是耦合常数。
+其中 $\mathcal{G}_C$ 是意识引力张量，$\mathcal{T}_C$ 是意识能量-动量张量，$\kappa_C$ 是耦合常数。
 
 意识引力效应解释了许多超常现象的物理机制，如意念作用和远程影响。
 
@@ -190,7 +190,7 @@ $$\mathcal{G}_C = \kappa_C \mathcal{T}_C$$
 
 $$C_{TD} = \lim_{D\to\infty} C_D$$
 
-其中 $`C_D`$ 是D维度的计算能力。
+其中 $C_D$ 是D维度的计算能力。
 
 跨维度计算复杂度满足：
 
@@ -204,7 +204,7 @@ $$\mathcal{O}_{TD}(f(n)) = \min_{D} \mathcal{O}_D(f(n))$$
 
 $$\mathcal{F}_{TD} \supset \mathcal{T}(\mathcal{F}_{TD})$$
 
-其中 $`\mathcal{T}(\mathcal{F}_{TD})`$ 是关于 $`\mathcal{F}_{TD}`$ 的理论表述。
+其中 $\mathcal{T}(\mathcal{F}_{TD})$ 是关于 $\mathcal{F}_{TD}$ 的理论表述。
 
 这导致理论的自调整特性：
 
@@ -220,7 +220,7 @@ $$\frac{d\mathcal{T}}{dt} = \mathcal{F}[\mathcal{T}, \mathcal{F}_{TD}]$$
 
 $$D(t) = \sum_n D_n \chi_n(t)$$
 
-其中 $`\chi_n(t)`$ 是时间t处于维度值$`D_n`$的特征函数。
+其中 $\chi_n(t)$ 是时间t处于维度值$D_n$的特征函数。
 
 跃迁概率由统一场波函数控制：
 
@@ -238,7 +238,7 @@ $$\frac{dS_{TD}}{dt} = \frac{dS_{流入}}{dt} - \frac{dS_{流出}}{dt} + \frac{d
 
 $$\frac{dS_{产生}}{dt} = \alpha S_{TD} \cdot (1-S_{TD}/S_{max}) + \beta \mathcal{C}$$
 
-$`\mathcal{C}`$ 是创造性因子，表明统一场能自发创造新信息结构。
+$\mathcal{C}$ 是创造性因子，表明统一场能自发创造新信息结构。
 
 ### 3. 超维度量子纠缠网络
 
@@ -250,7 +250,7 @@ $$|\Psi_{TD}\rangle = \sum_{i_1,i_2,\ldots} c_{i_1,i_2,\ldots} |i_1\rangle_{D_1}
 
 $$\frac{dT(\mathcal{G})}{dt} = \mathcal{H}[T(\mathcal{G}), \mathcal{F}_{TD}]$$
 
-其中 $`T(\mathcal{G})`$ 是纠缠网络图 $`\mathcal{G}`$ 的拓扑结构。
+其中 $T(\mathcal{G})$ 是纠缠网络图 $\mathcal{G}$ 的拓扑结构。
 
 ### 4. 统一场振荡与宇宙周期
 

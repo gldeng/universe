@@ -36,24 +36,24 @@ These two phases are connected by the quantum-classical interface, where fluctua
 
 ## Quantum-Classical Decision Operators
 
-The decision process can be formalized as the action of a quantum-classical decision operator $`\mathcal{D}_{QC}`$:
+The decision process can be formalized as the action of a quantum-classical decision operator $\mathcal{D}_{QC}$:
 
 $$\mathcal{D}_{QC}[\rho] = \sum_i p_i(\rho) |d_i\rangle\langle d_i|$$
 
 Where:
-- $`\rho`$ is the pre-decision psychological quantum state containing superpositions of all possible options
-- $`p_i(\rho)`$ is the probability function for outcome $`i`$, depending on the initial quantum state
-- $`|d_i\rangle`$ are orthogonal basis vectors of possible decision outcomes, forming the basis of the decision space
+- $\rho$ is the pre-decision psychological quantum state containing superpositions of all possible options
+- $p_i(\rho)$ is the probability function for outcome $i$, depending on the initial quantum state
+- $|d_i\rangle$ are orthogonal basis vectors of possible decision outcomes, forming the basis of the decision space
 
-The probability function $`p_i(\rho)`$ satisfies an extended form of the generalized Born rule:
+The probability function $p_i(\rho)$ satisfies an extended form of the generalized Born rule:
 
 $$p_i(\rho) = \text{Tr}(P_i \rho) \cdot \frac{e^{\eta_D \text{Tr}(P_i \rho)}}{Z}$$
 
-Where $`P_i = |d_i\rangle\langle d_i|`$ is the projection operator, $`\eta_D`$ is the decision amplification parameter, and $`Z = \sum_j e^{\eta_D \text{Tr}(P_j \rho)}`$ is the normalization factor.
+Where $P_i = |d_i\rangle\langle d_i|$ is the projection operator, $\eta_D$ is the decision amplification parameter, and $Z = \sum_j e^{\eta_D \text{Tr}(P_j \rho)}$ is the normalization factor.
 
-The decision amplification parameter $`\eta_D`$ characterizes the deterministic tendency in the decision process:
-- $`\eta_D \rightarrow 0`$ corresponds to completely random decisions
-- $`\eta_D \rightarrow \infty`$ corresponds to deterministic decisions (choosing the option with maximum probability)
+The decision amplification parameter $\eta_D$ characterizes the deterministic tendency in the decision process:
+- $\eta_D \rightarrow 0$ corresponds to completely random decisions
+- $\eta_D \rightarrow \infty$ corresponds to deterministic decisions (choosing the option with maximum probability)
 - Intermediate values correspond to decisions with preferences but maintaining partial randomness
 
 ### Geometric Representation of Decision Operators
@@ -66,7 +66,7 @@ This projection path follows the principle of least action, proceeding along the
 
 $$\delta\int_{\tau_1}^{\tau_2} (E_{\text{cognitive}} - T\cdot S_{\text{decision}})d\tau = 0$$
 
-Where $`E_{\text{cognitive}}`$ is cognitive energy, $`S_{\text{decision}}`$ is decision entropy, and $`T`$ is the decision "temperature" parameter.
+Where $E_{\text{cognitive}}$ is cognitive energy, $S_{\text{decision}}$ is decision entropy, and $T$ is the decision "temperature" parameter.
 
 ## Decision Coherence and Entanglement
 
@@ -92,7 +92,7 @@ The entanglement between the decision system and environment (including social e
 
 $$E(\mathcal{D},\mathcal{E}) = S(\mathcal{D}) - S(\mathcal{D},\mathcal{E})$$
 
-Where $`S(\mathcal{D})`$ is the von Neumann entropy of the decision system, and $`S(\mathcal{D},\mathcal{E})`$ is the entropy of the joint system.
+Where $S(\mathcal{D})$ is the von Neumann entropy of the decision system, and $S(\mathcal{D},\mathcal{E})$ is the entropy of the joint system.
 
 Entanglement measures the degree of environmental influence on decisions:
 - Strong entanglement corresponds to highly environment-dependent decisions (such as herd behavior)
@@ -102,7 +102,7 @@ Entanglement strength decreases with social distance:
 
 $$E(\mathcal{D}_i,\mathcal{D}_j) \propto e^{-\alpha d_{ij}}$$
 
-Where $`d_{ij}`$ is the social distance between decision-makers $`i`$ and $`j`$, and $`\alpha`$ is the social decay coefficient.
+Where $d_{ij}$ is the social distance between decision-makers $i$ and $j$, and $\alpha$ is the social decay coefficient.
 
 ## Quantum Bayesian Decision Framework
 
@@ -111,21 +111,21 @@ The quantum Bayesian decision framework extends classical Bayesian decision theo
 $$\mathcal{B}_Q(d|e) = \mathcal{C}(\mathcal{M}_e(\rho_d))$$
 
 Where:
-- $`\mathcal{M}_e`$ is the quantum measurement operator based on observed evidence $`e`$
-- $`\rho_d`$ is the prior quantum state of the decision space
-- $`\mathcal{C}`$ is the classicalization operator, transforming quantum probabilities into classical probabilities
+- $\mathcal{M}_e$ is the quantum measurement operator based on observed evidence $e$
+- $\rho_d$ is the prior quantum state of the decision space
+- $\mathcal{C}$ is the classicalization operator, transforming quantum probabilities into classical probabilities
 
 ### Quantum Bayesian Update Rule
 
-When new evidence $`e`$ is obtained, the decision state update satisfies:
+When new evidence $e$ is obtained, the decision state update satisfies:
 
 $$\rho_d^{\text{post}} = \frac{\mathcal{M}_e(\rho_d^{\text{prior}})}{\text{Tr}(\mathcal{M}_e(\rho_d^{\text{prior}}))}$$
 
-Where the quantum measurement operator $`\mathcal{M}_e`$ is defined as:
+Where the quantum measurement operator $\mathcal{M}_e$ is defined as:
 
 $$\mathcal{M}_e(\rho) = \sum_i E_i(e) \rho E_i(e)^{\dagger}$$
 
-$`E_i(e)`$ are Kraus operators associated with evidence $`e`$.
+$E_i(e)$ are Kraus operators associated with evidence $e$.
 
 ### Quantum Interference Effects
 
@@ -142,10 +142,10 @@ The position of the quantum-classical interface during the decision process sati
 $$\frac{d\mathcal{D}_c^{\text{decision}}}{dt} = \alpha\nabla^2\mathcal{D}_c^{\text{decision}} + \beta E_{\text{pending}} - \gamma S_{\text{pressure}}$$
 
 Where:
-- $`\mathcal{D}_c^{\text{decision}}`$ is the decision interface position parameter
-- $`E_{\text{pending}}`$ is the energy/complexity of the decision system
-- $`S_{\text{pressure}}`$ represents external factors such as time pressure and social pressure
-- $`\alpha`$, $`\beta`$, $`\gamma`$ are system characteristic parameters
+- $\mathcal{D}_c^{\text{decision}}$ is the decision interface position parameter
+- $E_{\text{pending}}$ is the energy/complexity of the decision system
+- $S_{\text{pressure}}$ represents external factors such as time pressure and social pressure
+- $\alpha$, $\beta$, $\gamma$ are system characteristic parameters
 
 ### Interface Regulation Mechanisms
 
@@ -169,13 +169,13 @@ The fluctuation of the interface position is related to decision stability:
 
 $$\sigma_{\mathcal{D}_c} \propto \frac{1}{S_{\text{decision}}}$$
 
-Where $`\sigma_{\mathcal{D}_c}`$ is the standard deviation of the interface position and $`S_{\text{decision}}`$ is the decision stability parameter.
+Where $\sigma_{\mathcal{D}_c}$ is the standard deviation of the interface position and $S_{\text{decision}}$ is the decision stability parameter.
 
 Interface fluctuation explains the variation of decision preferences over time and their environmental dependence:
 
 $$\mathcal{D}_c^{\text{decision}}(t) = \mathcal{D}_c^{\text{decision}}(0) + \int_0^t F_{\text{environment}}(\tau)d\tau + \xi(t)$$
 
-Where $`F_{\text{environment}}(t)`$ is the environmental driving force and $`\xi(t)`$ is a random fluctuation term.
+Where $F_{\text{environment}}(t)$ is the environmental driving force and $\xi(t)$ is a random fluctuation term.
 
 ## Experimental Predictions and Validation
 
@@ -186,22 +186,22 @@ Quantum Decision Theory makes the following experimentally verifiable prediction
 1. **Environmental Dependence of Intuition-Rationality Balance**:
    Under time pressure, the weight of intuitive decision-making increases, satisfying:
    $$w_{\text{intuition}}/w_{\text{rational}} \propto (t_{\text{available}}/t_{\text{baseline}})^{-\alpha}$$
-   Where $`\alpha \approx 0.7 \pm 0.1`$.
+   Where $\alpha \approx 0.7 \pm 0.1$.
 
 2. **Temporal Evolution of Decision Coherence**:
    Decision coherence decays over time, satisfying:
    $$C(t) = C(0) \cdot e^{-t/\tau_C}$$
-   Where $`\tau_C`$ is the coherence time, predicted to be $`\tau_C \approx 2-5`$ seconds.
+   Where $\tau_C$ is the coherence time, predicted to be $\tau_C \approx 2-5$ seconds.
 
 3. **Environmental Entanglement Effects**:
    The intensity of social environment influence on decisions increases with social interaction:
    $$E_{\text{social entanglement}} \propto \ln(N_{\text{interactions}})$$
-   Where $`N_{\text{interactions}}`$ is the number of social interactions.
+   Where $N_{\text{interactions}}$ is the number of social interactions.
 
 4. **Quantum Interference Conditions**:
    Interference effects occur if and only if evidence information is cognitively indistinguishable:
    $$I_{\text{interference}} > 0 \iff D(e_1, e_2) < D_c$$
-   Where $`D(e_1, e_2)`$ is the cognitive discriminability of evidence and $`D_c`$ is the critical discrimination threshold.
+   Where $D(e_1, e_2)$ is the cognitive discriminability of evidence and $D_c$ is the critical discrimination threshold.
 
 ### Experimental Design Proposals
 
@@ -234,24 +234,24 @@ Quantum Decision Theory can be applied to multiple fields:
 1. **Market Behavior Models**:
    Explaining irrational behavior and excessive volatility in financial markets:
    $$R_{\text{market}} = R_{\text{fundamental value}} + R_{\text{quantum fluctuation}}$$
-   Where $`R_{\text{quantum fluctuation}}`$ follows a quantum random process.
+   Where $R_{\text{quantum fluctuation}}$ follows a quantum random process.
 
 2. **Investment Decision Support**:
    Developing investment decision tools that consider quantum-classical balance:
    $$U(\text{investment}) = w_Q \cdot U_Q(\text{emotional}) + w_C \cdot U_C(\text{rational})$$
-   Where $`w_Q`$ and $`w_C`$ are dynamically adjusted weights.
+   Where $w_Q$ and $w_C$ are dynamically adjusted weights.
 
 ### Medical Decision-Making
 
 1. **Clinical Decision Support**:
    Medical decision systems integrating intuition and analytical reasoning:
    $$P(\text{diagnosis}|\text{symptoms}) = \mathcal{C}(\mathcal{M}_{\text{symptoms}}(\rho_{\text{disease}}))$$
-   Where $`\rho_{\text{disease}}`$ is the quantum representation of disease probability.
+   Where $\rho_{\text{disease}}$ is the quantum representation of disease probability.
 
 2. **Patient Treatment Decisions**:
    Quantum-classical hybrid approach to personal medical decisions:
    $$D_{\text{treatment}} = \arg\max_{i} \{U_Q(i) \times U_C(i)\}$$
-   Where $`U_Q`$ and $`U_C`$ are quantum (intuitive) and classical (rational) utility functions.
+   Where $U_Q$ and $U_C$ are quantum (intuitive) and classical (rational) utility functions.
 
 ### Artificial Intelligence
 
@@ -263,7 +263,7 @@ Quantum Decision Theory can be applied to multiple fields:
 2. **Human-AI Interaction**:
    Models for optimizing human-AI collaborative decision-making:
    $$P_{\text{joint}}(d) = \alpha P_{\text{human}}(d) + \beta P_{\text{AI}}(d) + \gamma I_{\text{interaction}}(d)$$
-   Where $`I_{\text{interaction}}`$ captures quantum interference effects between human and AI decisions.
+   Where $I_{\text{interaction}}$ captures quantum interference effects between human and AI decisions.
 
 ### Psychology and Neuroscience
 

@@ -129,7 +129,7 @@ $$
 \text{"人算什么，你竟顾念他"} \Leftrightarrow \frac{\text{维度}(\mathcal{O}_{人类})}{\text{维度}(\mathcal{O}_{上帝})} \ll 1, \text{但} \mathcal{C}(\mathcal{O}_{上帝}, \mathcal{O}_{人类}) > 0
 $$
 
-其中$`\mathcal{C}`$表示虫洞通信函数
+其中$\mathcal{C}$表示虫洞通信函数
 
 ## 结论
 ## Conclusion

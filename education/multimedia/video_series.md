@@ -29,35 +29,35 @@ $$
 - **核心内容**：介绍量子域与经典域的基本概念
 - **视觉元素**：使用雾海与清晰景象的转换来可视化量子-经典转换
 - **互动环节**：邀请观众思考"如果世界同时存在确定与不确定的层面，这意味着什么？"
-- **关键公式**：$`\text{宇宙} = \text{量子域} + \text{经典域}`$
+- **关键公式**：$\text{宇宙} = \text{量子域} + \text{经典域}$
 - **时长**：12分钟
 
 ### 第2集：观察者的奇妙作用
 - **核心内容**：解释观察者在经典化过程中的关键角色
 - **视觉元素**：使用摄影机比喻，展示同一场景从不同角度拍摄的多种可能结果
 - **互动环节**：简单的观察者实验，邀请观众闭眼再睁眼，注意视觉信息的变化
-- **关键公式**：$`|\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} \text{经典知识} + S_{\text{经典熵}}`$
+- **关键公式**：$|\psi\rangle_{\text{量子域}} \xrightarrow{\text{观察者经典化}} \text{经典知识} + S_{\text{经典熵}}$
 - **时长**：13分钟
 
 ### 第3集：量子意识与经典记忆
 - **核心内容**：探讨意识的量子性质与记忆的经典性质
 - **视觉元素**：使用水流与冰块的比喻，表现流动的意识与固化的记忆
 - **互动环节**：引导观众回忆一个童年经历，注意记忆如何从模糊变清晰的过程
-- **关键公式**：$`\text{意识体验} = \text{量子感知} + \text{经典记忆}`$
+- **关键公式**：$\text{意识体验} = \text{量子感知} + \text{经典记忆}$
 - **时长**：14分钟
 
 ### 第4集：自由意志与命运之舞
 - **核心内容**：解释自由意志与命运在量子经典二元论中的关系
 - **视觉元素**：使用道路分叉与已行之路的动画，表现选择与确定的关系
 - **互动环节**：决策树练习，展示每个选择如何创造新的现实分支
-- **关键公式**：$`\text{命运}_{t+1} = \text{命运}_t + \text{自由意志选择}_t`$
+- **关键公式**：$\text{命运}_{t+1} = \text{命运}_t + \text{自由意志选择}_t$
 - **时长**：15分钟
 
 ### 第5集：量子纠缠的深层意义
 - **核心内容**：探讨量子纠缠在信息共享中的基础作用
 - **视觉元素**：使用联动机制的动画，展示纠缠粒子间的神秘联系
 - **互动环节**：双人镜像游戏，体验无需商量的同步行动
-- **关键公式**：$`|\psi\rangle_{AB} \neq |\psi\rangle_A \otimes |\psi\rangle_B`$
+- **关键公式**：$|\psi\rangle_{AB} \neq |\psi\rangle_A \otimes |\psi\rangle_B$
 - **时长**：14分钟
 
 ### 第6集：第一季总结与思考
@@ -72,31 +72,31 @@ $$
 ### 第7集：维度的奥秘
 - **核心内容**：探讨观察者维度的概念与影响
 - **视觉元素**：使用从点到线到面到体的维度提升动画
-- **关键公式**：$`\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}`$
+- **关键公式**：$\text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$
 - **时长**：14分钟
 
 ### 第8集：经典化效率与能量
 - **核心内容**：探讨经典化效率与能量的关系
 - **视觉元素**：使用能量转换与信息处理的并行动画
-- **关键公式**：$`E = I_{\text{经典知识}} \times \text{经典化效率}`$
+- **关键公式**：$E = I_{\text{经典知识}} \times \text{经典化效率}$
 - **时长**：13分钟
 
 ### 第9集：黑洞的量子经典解释
 - **核心内容**：用量子经典二元论解释黑洞的本质与辐射
 - **视觉元素**：黑洞吸收与辐射信息的模拟动画
-- **关键公式**：$`S_{\text{黑洞熵}} \propto A_{\text{黑洞表面积}}`$
+- **关键公式**：$S_{\text{黑洞熵}} \propto A_{\text{黑洞表面积}}$
 - **时长**：15分钟
 
 ### 第10集：梦境的量子经典性质
 - **核心内容**：解析梦境作为另一种经典化世界的特性
 - **视觉元素**：梦境与现实世界的交织动画
-- **关键公式**：$`|\psi\rangle_{\text{睡眠大脑}} \rightarrow I_{\text{梦境经典世界}} + S_{\text{梦境熵}}`$
+- **关键公式**：$|\psi\rangle_{\text{睡眠大脑}} \rightarrow I_{\text{梦境经典世界}} + S_{\text{梦境熵}}$
 - **时长**：14分钟
 
 ### 第11集：集体意识与社会纠缠
 - **核心内容**：探讨社会群体中的集体意识现象
 - **视觉元素**：集体行为涌现的模拟动画
-- **关键公式**：$`|\psi\rangle_{\text{集体}} \neq \sum_i |\psi\rangle_{\text{个体}_i}`$
+- **关键公式**：$|\psi\rangle_{\text{集体}} \neq \sum_i |\psi\rangle_{\text{个体}_i}$
 - **时长**：15分钟
 
 ### 第12集：第二季总结与拓展
@@ -201,35 +201,35 @@ $$
 - **Core Content**: Introduction to the basic concepts of quantum domain and classical domain
 - **Visual Elements**: Using the transition from fog to clear scenery to visualize quantum-classical transformation
 - **Interactive Section**: Inviting viewers to consider "What does it mean if the world exists simultaneously on definite and indefinite levels?"
-- **Key Formula**: $`\text{Universe} = \text{Quantum Domain} + \text{Classical Domain}`$
+- **Key Formula**: $\text{Universe} = \text{Quantum Domain} + \text{Classical Domain}$
 - **Duration**: 12 minutes
 
 ### Episode 2: The Wonderful Role of Observers
 - **Core Content**: Explaining the key role of observers in the classicalization process
 - **Visual Elements**: Using camera metaphors to show various possible results of the same scene photographed from different angles
 - **Interactive Section**: Simple observer experiment, inviting viewers to close and open their eyes, noticing changes in visual information
-- **Key Formula**: $`|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Observer Classicalization}} \text{Classical Knowledge} + S_{\text{Classical Entropy}}`$
+- **Key Formula**: $|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Observer Classicalization}} \text{Classical Knowledge} + S_{\text{Classical Entropy}}$
 - **Duration**: 13 minutes
 
 ### Episode 3: Quantum Consciousness and Classical Memory
 - **Core Content**: Exploring the quantum nature of consciousness and the classical nature of memory
 - **Visual Elements**: Using the metaphor of water flow and ice blocks to represent flowing consciousness and solidified memory
 - **Interactive Section**: Guiding viewers to recall a childhood experience, noticing how memory transitions from vague to clear
-- **Key Formula**: $`\text{Conscious Experience} = \text{Quantum Perception} + \text{Classical Memory}`$
+- **Key Formula**: $\text{Conscious Experience} = \text{Quantum Perception} + \text{Classical Memory}$
 - **Duration**: 14 minutes
 
 ### Episode 4: The Dance of Free Will and Destiny
 - **Core Content**: Explaining the relationship between free will and destiny in quantum-classical dualism
 - **Visual Elements**: Using animations of road forks and traveled paths to represent the relationship between choice and determination
 - **Interactive Section**: Decision tree exercise, showing how each choice creates new branches of reality
-- **Key Formula**: $`\text{Destiny}_{t+1} = \text{Destiny}_t + \text{Free Will Choice}_t`$
+- **Key Formula**: $\text{Destiny}_{t+1} = \text{Destiny}_t + \text{Free Will Choice}_t$
 - **Duration**: 15 minutes
 
 ### Episode 5: The Deep Meaning of Quantum Entanglement
 - **Core Content**: Exploring the fundamental role of quantum entanglement in information sharing
 - **Visual Elements**: Animations of linkage mechanisms, showing the mysterious connection between entangled particles
 - **Interactive Section**: Two-person mirror game, experiencing synchronized action without communication
-- **Key Formula**: $`|\psi\rangle_{AB} \neq |\psi\rangle_A \otimes |\psi\rangle_B`$
+- **Key Formula**: $|\psi\rangle_{AB} \neq |\psi\rangle_A \otimes |\psi\rangle_B$
 - **Duration**: 14 minutes
 
 ### Episode 6: Season One Summary and Reflection
@@ -244,31 +244,31 @@ $$
 ### Episode 7: The Mystery of Dimensions
 - **Core Content**: Exploring the concept and impact of observer dimensions
 - **Visual Elements**: Animations showing dimensional promotion from points to lines to planes to volumes
-- **Key Formula**: $`\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}`$
+- **Key Formula**: $\text{Observer Dimension} = k \cdot \frac{I_{\text{Classical Knowledge}}}{S_{\text{Classical Entropy}}}$
 - **Duration**: 14 minutes
 
 ### Episode 8: Classicalization Efficiency and Energy
 - **Core Content**: Exploring the relationship between classicalization efficiency and energy
 - **Visual Elements**: Parallel animations of energy conversion and information processing
-- **Key Formula**: $`E = I_{\text{Classical Knowledge}} \times \text{Classicalization Efficiency}`$
+- **Key Formula**: $E = I_{\text{Classical Knowledge}} \times \text{Classicalization Efficiency}$
 - **Duration**: 13 minutes
 
 ### Episode 9: Quantum-Classical Explanation of Black Holes
 - **Core Content**: Explaining the nature and radiation of black holes using quantum-classical dualism
 - **Visual Elements**: Simulation animations of black holes absorbing and radiating information
-- **Key Formula**: $`S_{\text{Black Hole Entropy}} \propto A_{\text{Black Hole Surface Area}}`$
+- **Key Formula**: $S_{\text{Black Hole Entropy}} \propto A_{\text{Black Hole Surface Area}}$
 - **Duration**: 15 minutes
 
 ### Episode 10: Quantum-Classical Properties of Dreams
 - **Core Content**: Analyzing dreams as another type of classicalized world
 - **Visual Elements**: Animations of dreams interweaving with the real world
-- **Key Formula**: $`|\psi\rangle_{\text{Sleeping Brain}} \rightarrow I_{\text{Dream Classical World}} + S_{\text{Dream Entropy}}`$
+- **Key Formula**: $|\psi\rangle_{\text{Sleeping Brain}} \rightarrow I_{\text{Dream Classical World}} + S_{\text{Dream Entropy}}$
 - **Duration**: 14 minutes
 
 ### Episode 11: Collective Consciousness and Social Entanglement
 - **Core Content**: Exploring collective consciousness phenomena in social groups
 - **Visual Elements**: Simulation animations of emergent collective behaviors
-- **Key Formula**: $`|\psi\rangle_{\text{Collective}} \neq \sum_i |\psi\rangle_{\text{Individual}_i}`$
+- **Key Formula**: $|\psi\rangle_{\text{Collective}} \neq \sum_i |\psi\rangle_{\text{Individual}_i}$
 - **Duration**: 15 minutes
 
 ### Episode 12: Season Two Summary and Extension

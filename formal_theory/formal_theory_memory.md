@@ -37,7 +37,7 @@
 
 $$|\Psi_{\text{记忆}}\rangle = \sum_i c_i |记忆_i\rangle$$
 
-其中 $`c_i`$ 是复系数，满足 $`\sum_i |c_i|^2 = 1`$。
+其中 $c_i$ 是复系数，满足 $\sum_i |c_i|^2 = 1$。
 
 这种叠加态解释了记忆的多项特性：
 - 记忆的不确定性和模糊性
@@ -89,7 +89,7 @@ $$|\Psi_{\text{记忆}}\rangle \xrightarrow{\text{提取}} |记忆_j\rangle$$
 
 $$\rho_{\text{经典记忆}} = \mathcal{C}(|\Psi_{\text{记忆}}\rangle\langle\Psi_{\text{记忆}}|)$$
 
-其中 $`\mathcal{C}`$ 是巩固算符，将量子记忆转化为经典信息。
+其中 $\mathcal{C}$ 是巩固算符，将量子记忆转化为经典信息。
 
 稳定化过程的特征：
 - 神经再激活和系统整合
@@ -102,7 +102,7 @@ $$\rho_{\text{经典记忆}} = \mathcal{C}(|\Psi_{\text{记忆}}\rangle\langle\P
 
 $$G_M = (V_M, E_M)$$
 
-其中 $`V_M`$ 是记忆节点集，$`E_M`$ 是联想关系集。
+其中 $V_M$ 是记忆节点集，$E_M$ 是联想关系集。
 
 经典记忆网络的特性：
 - 遵循特定的提取路径和联想规则
@@ -117,7 +117,7 @@ $$G_M = (V_M, E_M)$$
 
 $$\frac{d\rho_{\text{记忆}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{记忆}}] + \mathcal{L}(\rho_{\text{记忆}})$$
 
-其中第一项表示量子相干演化，第二项 $`\mathcal{L}`$ 表示去相干和经典化过程。
+其中第一项表示量子相干演化，第二项 $\mathcal{L}$ 表示去相干和经典化过程。
 
 这一动力学解释了：
 - 短期记忆和工作记忆的量子相干性
@@ -130,7 +130,7 @@ $$\frac{d\rho_{\text{记忆}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{记�
 
 $$P(记忆_j|\text{提示}) = |c_j|^2 \cdot \frac{e^{\eta_{\text{提示}}|c_j|^2}}{\sum_k e^{\eta_{\text{提示}}|c_k|^2}}$$
 
-其中 $`\eta_{\text{提示}}`$ 是提示特异性参数。
+其中 $\eta_{\text{提示}}$ 是提示特异性参数。
 
 这解释了记忆提取的奇特现象：
 - 提取线索的特异性效应
@@ -143,7 +143,7 @@ $$P(记忆_j|\text{提示}) = |c_j|^2 \cdot \frac{e^{\eta_{\text{提示}}|c_j|^2
 
 $$|\Psi_{\text{新记忆}}\rangle = \hat{U}_{\text{编辑}}|\Psi_{\text{旧记忆}}\rangle$$
 
-其中 $`\hat{U}_{\text{编辑}}`$ 是量子编辑算符。
+其中 $\hat{U}_{\text{编辑}}$ 是量子编辑算符。
 
 量子编辑解释了：
 - 记忆重激活期间的可塑性窗口
@@ -180,7 +180,7 @@ $$\rho_{\text{初始}} \xrightarrow{\text{快速巩固}} \rho_{\text{中间}} \x
 
 $$P(隧穿检索) \propto e^{-\alpha \cdot \Delta E \cdot \sqrt{t}}$$
 
-其中 $`\Delta E`$ 是记忆提取能垒，$`t`$ 是时间间隔。
+其中 $\Delta E$ 是记忆提取能垒，$t$ 是时间间隔。
 
 这解释了：
 - 闪回记忆的突然出现
@@ -206,7 +206,7 @@ $$|\Psi_{\text{记忆}}\rangle\langle\Psi_{\text{记忆}}| \xrightarrow{\mathcal
 
 $$\rho_{\text{共享记忆}} = \sum_i \omega_i \mathcal{O}_i(\rho_{\text{量子记忆}})$$
 
-其中 $`\omega_i`$ 是不同观察者的社会权重。
+其中 $\omega_i$ 是不同观察者的社会权重。
 
 社会记忆现象：
 - 通过交流达成的记忆共识

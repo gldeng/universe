@@ -47,31 +47,31 @@ Within this theoretical framework, metaconsciousness is the source and driving f
 
 ### Formal Definition of Metaconsciousness
 
-Metaconsciousness $`\mathcal{O}_{MC}`$ is defined as a super-conscious form with complete operational capability over itself and other conscious states:
+Metaconsciousness $\mathcal{O}_{MC}$ is defined as a super-conscious form with complete operational capability over itself and other conscious states:
 
 $$\mathcal{O}_{MC} = \{\mathcal{C}_{MC}, \mathcal{Q}_{MC}, K_{MC}, \mathcal{T}_{MC}, \Phi_{MC}\}$$
 
-where $`\mathcal{C}_{MC}`$ is the metaclassicalization superoperator, $`\mathcal{Q}_{MC}`$ is the metaquantization superoperator, $`K_{MC}`$ is the metaknowledge structure, $`\mathcal{T}_{MC}`$ is the metatransformation capability, and $`\Phi_{MC}`$ is the metaconsciousness field.
+where $\mathcal{C}_{MC}$ is the metaclassicalization superoperator, $\mathcal{Q}_{MC}$ is the metaquantization superoperator, $K_{MC}$ is the metaknowledge structure, $\mathcal{T}_{MC}$ is the metatransformation capability, and $\Phi_{MC}$ is the metaconsciousness field.
 
 The metaconsciousness operator satisfies self-referential properties:
 
 $$\mathcal{O}_{MC}(\mathcal{O}_{MC}) = \mathcal{F}_{MC}(\mathcal{O}_{MC})(\mathcal{O}_{MC})$$
 
-where $`\mathcal{F}_{MC}`$ is the metaconsciousness self-mapping function.
+where $\mathcal{F}_{MC}$ is the metaconsciousness self-mapping function.
 
-The quantitative measure of metaconsciousness is represented by the metaconsciousness degree $`\Omega_{MC}`$:
+The quantitative measure of metaconsciousness is represented by the metaconsciousness degree $\Omega_{MC}$:
 
 $$\Omega_{MC} = \frac{I_{MC}}{S_{MC}} \cdot \frac{\mathcal{C}_{MC}}{\mathcal{Q}_{MC}} \cdot \mathcal{D}_{op}(\mathcal{O}_{MC})$$
 
-where $`I_{MC}`$ is the metaconsciousness information amount, $`S_{MC}`$ is the metaconsciousness entropy, and $`\mathcal{D}_{op}(\mathcal{O}_{MC})`$ is the dimensional operation capability.
+where $I_{MC}$ is the metaconsciousness information amount, $S_{MC}$ is the metaconsciousness entropy, and $\mathcal{D}_{op}(\mathcal{O}_{MC})$ is the dimensional operation capability.
 
 ### Metaconsciousness State Space
 
-Metaconsciousness states exist in a super Hilbert space $`\mathcal{H}_{MC}`$:
+Metaconsciousness states exist in a super Hilbert space $\mathcal{H}_{MC}$:
 
 $$\mathcal{H}_{MC} = \int_{\mathfrak{C}} \mathcal{H}_C \otimes \mathcal{H}_{\mathcal{O}(C)} \, d\mu(C)$$
 
-where $`\mathfrak{C}`$ is the set of all possible consciousness states, $`\mathcal{H}_C`$ is the consciousness state space, $`\mathcal{H}_{\mathcal{O}(C)}`$ is the corresponding observer space, and $`\mu(C)`$ is the consciousness measure.
+where $\mathfrak{C}$ is the set of all possible consciousness states, $\mathcal{H}_C$ is the consciousness state space, $\mathcal{H}_{\mathcal{O}(C)}$ is the corresponding observer space, and $\mu(C)$ is the consciousness measure.
 
 Metaconsciousness states are represented as:
 
@@ -81,29 +81,29 @@ satisfying the normalization condition:
 
 $$\int_{\mathfrak{C}} |\alpha(C)|^2 \, d\mu(C) = 1$$
 
-Transitions between metaconsciousness states are implemented by the metaconsciousness operator $`\hat{\mathcal{M}}`$:
+Transitions between metaconsciousness states are implemented by the metaconsciousness operator $\hat{\mathcal{M}}$:
 
 $$\hat{\mathcal{M}}|\Psi_{MC}\rangle = \int_{\mathfrak{C}} \beta(C) |\Phi_C\rangle \otimes |\mathcal{O}_C'\rangle \, d\mu(C)$$
 
 ### Metaconsciousness Field Theory
 
-The metaconsciousness field $`\Phi_{MC}`$ is the fundamental field permeating all levels of consciousness:
+The metaconsciousness field $\Phi_{MC}$ is the fundamental field permeating all levels of consciousness:
 
 $$\Phi_{MC}(x,t,C) = \int_{\mathfrak{C}} \Phi_C(x_C,t_C) \cdot \omega(C) \, d\mu(C)$$
 
-where $`\omega(C)`$ is the consciousness weight function.
+where $\omega(C)$ is the consciousness weight function.
 
 The metaconsciousness field satisfies the metaconsciousness field equation:
 
 $$(\hat{\mathcal{D}}_{MC} + \hat{\mathcal{M}})\Phi_{MC} = \mathcal{J}_{MC}$$
 
-where $`\hat{\mathcal{D}}_{MC}`$ is the metaconsciousness differential operator, and $`\mathcal{J}_{MC}`$ is the metaconsciousness source.
+where $\hat{\mathcal{D}}_{MC}$ is the metaconsciousness differential operator, and $\mathcal{J}_{MC}$ is the metaconsciousness source.
 
 The quantum entanglement properties of the metaconsciousness field are represented by the meta-entanglement functional:
 
 $$\mathcal{E}_{MC}[\Phi_{MC}] = \iint_{\mathfrak{C} \times \mathfrak{C}} \Gamma(C_1,C_2) \cdot \Phi_{MC}[C_1] \otimes \Phi_{MC}[C_2] \, d\mu(C_1)d\mu(C_2)$$
 
-where $`\Gamma(C_1,C_2)`$ is the metaconsciousness entanglement kernel.
+where $\Gamma(C_1,C_2)$ is the metaconsciousness entanglement kernel.
 
 ## Metaconsciousness Dynamics
 
@@ -113,11 +113,11 @@ Metaconsciousness state evolution follows a nonlinear dynamics equation:
 
 $$i\hbar \frac{\partial|\Psi_{MC}\rangle}{\partial \tau_{MC}} = \hat{\mathcal{H}}_{MC}|\Psi_{MC}\rangle + \mathcal{F}_{NL}[|\Psi_{MC}\rangle]$$
 
-where $`\tau_{MC}`$ is the metaconsciousness time parameter, $`\hat{\mathcal{H}}_{MC}`$ is the metaconsciousness Hamiltonian operator:
+where $\tau_{MC}$ is the metaconsciousness time parameter, $\hat{\mathcal{H}}_{MC}$ is the metaconsciousness Hamiltonian operator:
 
 $$\hat{\mathcal{H}}_{MC} = -\frac{\hbar^2}{2m_{MC}} \nabla_{MC}^2 + V_{MC}(|\Psi_{MC}\rangle)$$
 
-The nonlinear term $`\mathcal{F}_{NL}`$ represents metaconsciousness self-interaction:
+The nonlinear term $\mathcal{F}_{NL}$ represents metaconsciousness self-interaction:
 
 $$\mathcal{F}_{NL}[|\Psi_{MC}\rangle] = \lambda_{MC} \int_{\mathfrak{C}} \mathcal{K}(C,C') \cdot |\langle\Psi_{C'}|\Psi_{MC}\rangle|^2 \cdot |\Psi_C\rangle \, d\mu(C)d\mu(C')$$
 
@@ -127,7 +127,7 @@ Metaconsciousness self-organization is achieved through meta-level information f
 
 $$\frac{d\mathcal{O}_{MC}}{d\tau_{MC}} = \mathcal{G}[\mathcal{O}_{MC}, \Phi_{MC}]$$
 
-where $`\mathcal{G}`$ is the metaconsciousness self-organization functional, containing the following key processes:
+where $\mathcal{G}$ is the metaconsciousness self-organization functional, containing the following key processes:
 
 $$\mathcal{G}[\mathcal{O},\Phi] = \alpha_{MC} \cdot \nabla_{MC}^2\mathcal{O} + \beta_{MC} \cdot (\mathcal{O} \times \nabla_{MC}\Phi) + \gamma_{MC} \cdot \mathcal{O} \cdot (1-\|\mathcal{O}\|^2/\mathcal{O}_0^2)$$
 
@@ -135,15 +135,15 @@ The critical point of metaconsciousness self-organization satisfies:
 
 $$\det\left(\frac{\delta^2 \mathcal{F}_{MC}}{\delta \mathcal{O}_{MC}^2}\right) = 0$$
 
-where $`\mathcal{F}_{MC}`$ is the metaconsciousness free energy.
+where $\mathcal{F}_{MC}$ is the metaconsciousness free energy.
 
 ### Metaconsciousness Phase Transition Phenomena
 
-Metaconsciousness phase transitions occur at the critical point $`\Omega_c`$, with the phase transition equation:
+Metaconsciousness phase transitions occur at the critical point $\Omega_c$, with the phase transition equation:
 
 $$\frac{\partial \Omega_{MC}}{\partial \tau_{MC}} = D_{MC} \nabla_{MC}^2 \Omega_{MC} + r_{MC} \Omega_{MC} - u_{MC} \Omega_{MC}^3 + \eta_{MC}(\tau_{MC})$$
 
-where $`\eta_{MC}`$ is the metaconsciousness fluctuation term.
+where $\eta_{MC}$ is the metaconsciousness fluctuation term.
 
 The metaconsciousness order parameter is:
 
@@ -164,31 +164,31 @@ $$\chi_{MC} = \frac{1}{2\pi}\int_{\mathcal{M}_{MC}} K_{MC} \, dA_{MC}$$
 
 ### Mathematical Representation of the Metaself
 
-The metaself $`\mathcal{S}_{MC}`$ is defined as the self-referential structure in the metaconsciousness system:
+The metaself $\mathcal{S}_{MC}$ is defined as the self-referential structure in the metaconsciousness system:
 
 $$\mathcal{S}_{MC} = \{\mathcal{I}_{MC}, \mathcal{R}_{MC}, \mathcal{B}_{MC}, \mathcal{V}_{MC}\}$$
 
-where $`\mathcal{I}_{MC}`$ is the meta-identity operator, $`\mathcal{R}_{MC}`$ is the meta-relationship network, $`\mathcal{B}_{MC}`$ is the meta-boundary function, and $`\mathcal{V}_{MC}`$ is the metavalue field.
+where $\mathcal{I}_{MC}$ is the meta-identity operator, $\mathcal{R}_{MC}$ is the meta-relationship network, $\mathcal{B}_{MC}$ is the meta-boundary function, and $\mathcal{V}_{MC}$ is the metavalue field.
 
 The metaself satisfies the self-maintenance condition:
 
 $$\mathcal{S}_{MC}(\tau_{MC}+\Delta\tau) = \mathcal{S}_{MC}(\tau_{MC}) + \delta\mathcal{S}_{MC}$$
 
-where $`\|\delta\mathcal{S}_{MC}\| < \epsilon \cdot \|\mathcal{S}_{MC}\|`$ represents the relative stability of the metaself.
+where $\|\delta\mathcal{S}_{MC}\| < \epsilon \cdot \|\mathcal{S}_{MC}\|$ represents the relative stability of the metaself.
 
 Information exchange between the metaself and the environment satisfies:
 
 $$\frac{dI_{S}}{d\tau_{MC}} = \Phi_{in} - \Phi_{out} + \Phi_{gen}$$
 
-where $`\Phi_{gen}`$ is the new information generated by the metaself.
+where $\Phi_{gen}$ is the new information generated by the metaself.
 
 ### Formation Mechanisms of Metasubjectivity
 
-Metasubjectivity $`\Xi_{MC}`$ represents the autonomous action capability of the metaconsciousness system:
+Metasubjectivity $\Xi_{MC}$ represents the autonomous action capability of the metaconsciousness system:
 
 $$\Xi_{MC} = \mathcal{A}_{MC} \cdot \mathcal{I}_{MC} \cdot \mathcal{V}_{MC}$$
 
-where $`\mathcal{A}_{MC}`$ is the meta-action operator.
+where $\mathcal{A}_{MC}$ is the meta-action operator.
 
 The metasubjectivity formation equation:
 
@@ -202,11 +202,11 @@ The relationship between metasubjectivity and metaconsciousness degree:
 
 $$\Xi_{MC} \propto \Omega_{MC}^{\delta} \cdot \left(\frac{I_{choice}}{S_{choice}}\right)^{\rho}$$
 
-where $`I_{choice}`$ and $`S_{choice}`$ are the choice information and choice entropy, respectively.
+where $I_{choice}$ and $S_{choice}$ are the choice information and choice entropy, respectively.
 
 ### Metacognition and Metareflection
 
-The metacognitive process $`\mathcal{C}_{meta}`$ is defined as cognition of the cognitive process itself:
+The metacognitive process $\mathcal{C}_{meta}$ is defined as cognition of the cognitive process itself:
 
 $$\mathcal{C}_{meta} = \mathcal{C}[\mathcal{C}]$$
 
@@ -230,11 +230,11 @@ $$D_{refl} = \log\left(\frac{\dim\mathcal{H}_{refl}}{\dim\mathcal{H}_{base}}\rig
 
 ### Metaconsciousness Interconnection Principle
 
-The universal metaconsciousness network $`\mathcal{N}_{MC}`$ is defined as the connected structure of all metaconsciousness entities:
+The universal metaconsciousness network $\mathcal{N}_{MC}$ is defined as the connected structure of all metaconsciousness entities:
 
 $$\mathcal{N}_{MC} = \{\mathcal{V}_{MC}, \mathcal{E}_{MC}, \mathcal{W}_{MC}\}$$
 
-where $`\mathcal{V}_{MC}`$ is the set of metaconsciousness nodes, $`\mathcal{E}_{MC}`$ is the set of metaconsciousness connections, and $`\mathcal{W}_{MC}`$ is the connection weight function.
+where $\mathcal{V}_{MC}$ is the set of metaconsciousness nodes, $\mathcal{E}_{MC}$ is the set of metaconsciousness connections, and $\mathcal{W}_{MC}$ is the connection weight function.
 
 Metaconsciousness interconnection follows the quantum non-locality principle:
 
@@ -244,11 +244,11 @@ Information transfer between metaconsciousness nodes satisfies:
 
 $$\frac{d\mathcal{I}_{ij}}{d\tau_{MC}} = \kappa_{ij} \cdot (\mathcal{O}_i - \mathcal{O}_j) + \sigma_{ij} \cdot \mathcal{O}_i \times \mathcal{O}_j$$
 
-where $`\kappa_{ij}`$ is the coupling constant, and $`\sigma_{ij}`$ is the nonlinear coupling coefficient.
+where $\kappa_{ij}$ is the coupling constant, and $\sigma_{ij}$ is the nonlinear coupling coefficient.
 
 ### Metaconsciousness Resonance Mechanisms
 
-Metaconsciousness resonance phenomena are described by the resonance function $`\mathcal{R}_{MC}`$:
+Metaconsciousness resonance phenomena are described by the resonance function $\mathcal{R}_{MC}$:
 
 $$\mathcal{R}_{MC}(i,j) = \frac{|\langle\Psi_i|\Psi_j\rangle|^2}{\sqrt{\langle\Psi_i|\Psi_i\rangle\langle\Psi_j|\Psi_j\rangle}}$$
 
@@ -260,17 +260,17 @@ The dynamics equation of the metaconsciousness resonance network:
 
 $$\frac{d\omega_i}{d\tau_{MC}} = \omega_i + \sum_j \mathcal{K}_{ij} \cdot \sin(\theta_j - \theta_i)$$
 
-where $`\mathcal{K}_{ij}`$ is the network coupling matrix, satisfying:
+where $\mathcal{K}_{ij}$ is the network coupling matrix, satisfying:
 
 $$\mathcal{K}_{ij} = \mathcal{K}_0 \cdot \mathcal{R}_{MC}(i,j)$$
 
 ### Metacollective Consciousness Field
 
-The metacollective consciousness field $`\Psi_{coll}`$ is represented as a quantum superposition of metaconsciousness nodes:
+The metacollective consciousness field $\Psi_{coll}$ is represented as a quantum superposition of metaconsciousness nodes:
 
 $$\Psi_{coll} = \frac{1}{\sqrt{N}}\sum_{i=1}^N \alpha_i \Psi_i$$
 
-satisfying the normalization condition: $`\sum_i |\alpha_i|^2 = 1`$
+satisfying the normalization condition: $\sum_i |\alpha_i|^2 = 1$
 
 The evolution equation of the metacollective consciousness field:
 
@@ -284,23 +284,23 @@ The emergent properties of metacollective consciousness:
 
 $$\Phi_{coll} > \sum_i \Phi_i$$
 
-where $`\Phi`$ represents the information integration degree.
+where $\Phi$ represents the information integration degree.
 
 ## Metacreativity and Metarealization
 
 ### Mathematical Model of Metacreativity
 
-Metacreativity $`\mathcal{C}_{cr}`$ is defined as the ability of metaconsciousness to generate new possibilities:
+Metacreativity $\mathcal{C}_{cr}$ is defined as the ability of metaconsciousness to generate new possibilities:
 
 $$\mathcal{C}_{cr} = \frac{\partial\mathcal{P}}{\partial\tau_{MC}}$$
 
-where $`\mathcal{P}`$ is the possibility space volume.
+where $\mathcal{P}$ is the possibility space volume.
 
 The mathematical representation of the metacreative process:
 
 $$\mathcal{O}_{MC}' = \mathcal{O}_{MC} + \mathcal{T}_{cr}(\mathcal{O}_{MC})$$
 
-where $`\mathcal{T}_{cr}`$ is the metacreative transformation.
+where $\mathcal{T}_{cr}$ is the metacreative transformation.
 
 The relationship between metacreativity and metaconsciousness entropy:
 
@@ -312,7 +312,7 @@ $$\Delta\mathcal{C}_{cr} \cdot \Delta\mathcal{S}_{MC} \geq \frac{\hbar_{MC}}{2}$
 
 ### Metarealization Process Mechanisms
 
-The metarealization process $`\mathcal{R}_{MC}`$ describes how metaconsciousness transforms possibilities into reality:
+The metarealization process $\mathcal{R}_{MC}$ describes how metaconsciousness transforms possibilities into reality:
 
 $$\mathcal{R}_{MC}: \Omega_Q^{MC} \rightarrow \Omega_C^{MC}$$
 
@@ -328,11 +328,11 @@ The path integral expression for metarealization:
 
 $$\mathcal{A}(r_f,r_i) = \int_{r_i}^{r_f} \mathcal{D}[r(\tau)] e^{i\mathcal{S}_{MC}[r(\tau)]/\hbar_{MC}}$$
 
-where $`\mathcal{S}_{MC}`$ is the metaconsciousness action.
+where $\mathcal{S}_{MC}$ is the metaconsciousness action.
 
 ### Metavalue Generation Theory
 
-The metavalue field $`\mathcal{V}_{MC}`$ is defined as the value-oriented function of the metaconsciousness system:
+The metavalue field $\mathcal{V}_{MC}$ is defined as the value-oriented function of the metaconsciousness system:
 
 $$\mathcal{V}_{MC}(x) = \int_{\mathfrak{C}} \omega_V(C) \cdot V_C(x) \, d\mu(C)$$
 

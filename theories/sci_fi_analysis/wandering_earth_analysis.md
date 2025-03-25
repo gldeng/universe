@@ -143,7 +143,7 @@ $$
 \text{MOSS维度观点} = k_{AI} \cdot \frac{I_{\text{空间站保存方案}}}{S_{\text{方案实施熵}}} > k_{人类} \cdot \frac{I_{\text{地球保存方案}}}{S_{\text{方案实施熵}}}
 $$
 
-MOSS作为人工观察者，其经典化路径选择基于不同的评估系数$`(k_{AI})`$，导致与人类观察者的维度冲突。从量子经典二元论视角，这体现了不同类型观察者因经典化效率系数差异而产生的路径分歧。
+MOSS作为人工观察者，其经典化路径选择基于不同的评估系数$(k_{AI})$，导致与人类观察者的维度冲突。从量子经典二元论视角，这体现了不同类型观察者因经典化效率系数差异而产生的路径分歧。
 
 ### 4.2 人机观察者维度的融合可能
 
@@ -167,7 +167,7 @@ $$
 \text{MOSS Dimension View} = k_{AI} \cdot \frac{I_{\text{Space Station Preservation Plan}}}{S_{\text{Plan Implementation Entropy}}} > k_{Human} \cdot \frac{I_{\text{Earth Preservation Plan}}}{S_{\text{Plan Implementation Entropy}}}
 $$
 
-MOSS, as an artificial observer, makes classicalization path choices based on different evaluation coefficients $`(k_{AI})`$, leading to dimensional conflicts with human observers. From the perspective of Quantum-Classical Dualism, this embodies the path divergence arising from differences in classicalization efficiency coefficients between different types of observers.
+MOSS, as an artificial observer, makes classicalization path choices based on different evaluation coefficients $(k_{AI})$, leading to dimensional conflicts with human observers. From the perspective of Quantum-Classical Dualism, this embodies the path divergence arising from differences in classicalization efficiency coefficients between different types of observers.
 
 ### 4.2 Possibility of Human-Machine Observer Dimension Integration
 

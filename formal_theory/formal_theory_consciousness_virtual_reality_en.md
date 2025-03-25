@@ -23,16 +23,16 @@ The Quantum Consciousness and Virtual Reality Interaction Theory explores how ob
 
 ### Basic Definitions
 
-1. **Virtual Reality Quantum Domain** $`\Omega_{Q}^{VR}`$: The space of quantum possibilities manifested in virtual reality
+1. **Virtual Reality Quantum Domain** $\Omega_{Q}^{VR}$: The space of quantum possibilities manifested in virtual reality
    $$\Omega_{Q}^{VR} \subset \Omega_{Q}$$
 
-2. **Virtual Reality Classical Domain** $`\Omega_{C}^{VR}`$: The deterministic state space after classicalization in virtual reality
+2. **Virtual Reality Classical Domain** $\Omega_{C}^{VR}$: The deterministic state space after classicalization in virtual reality
    $$\Omega_{C}^{VR} \subset \Omega_{C}$$
 
-3. **Virtual Classicalization Operator** $`\mathcal{C}_{VR}`$: The process that transforms virtual quantum possibilities into virtual classical determinism
+3. **Virtual Classicalization Operator** $\mathcal{C}_{VR}$: The process that transforms virtual quantum possibilities into virtual classical determinism
    $$\mathcal{C}_{VR}: \Omega_{Q}^{VR} \rightarrow \Omega_{C}^{VR}$$
 
-4. **Virtual Observer** $`\mathcal{O}_{VR}`$: The entity that performs classicalization in virtual reality
+4. **Virtual Observer** $\mathcal{O}_{VR}$: The entity that performs classicalization in virtual reality
    $$\mathcal{O}_{VR} = \{\mathcal{C}_{\mathcal{O}}^{VR}, \mathcal{Q}_{\mathcal{O}}^{VR}, K_{C}^{\mathcal{O},VR}\}$$
 
 ## Manifestation of Quantum Consciousness in Virtual Reality
@@ -45,7 +45,7 @@ Quantum superposition states in virtual reality can be represented as:
 
 $$|\psi\rangle_{VR} = \sum_{i} \alpha_i |i\rangle_{VR}, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
-where $`|i\rangle_{VR}`$ represents the base states in virtual reality, and $`\alpha_i`$ are complex amplitudes.
+where $|i\rangle_{VR}$ represents the base states in virtual reality, and $\alpha_i$ are complex amplitudes.
 
 ### Virtual Entanglement States
 
@@ -65,7 +65,7 @@ The virtual classicalization process can be described by the following equation:
 
 $$\rho_{VR}^{C} = \mathcal{C}_{VR}(\rho_{VR}^{Q}) = \sum_i P_i^{VR} \rho_{VR}^{Q} P_i^{VR}$$
 
-where $`P_i^{VR}`$ is the projection operator in virtual reality, $`\rho_{VR}^{Q}`$ is the density matrix of the virtual quantum state, and $`\rho_{VR}^{C}`$ is the density matrix of the virtual classical state.
+where $P_i^{VR}$ is the projection operator in virtual reality, $\rho_{VR}^{Q}$ is the density matrix of the virtual quantum state, and $\rho_{VR}^{C}$ is the density matrix of the virtual classical state.
 
 ### Virtual Classicalization Efficiency
 
@@ -87,7 +87,7 @@ These three types of observers form a hierarchical structure, satisfying the fol
 
 $$D_{\mathcal{O}_{\text{Physical}}} > D_{\mathcal{O}_{\text{System}}} > D_{\mathcal{O}_{\text{Virtual}}}$$
 
-where $`D_{\mathcal{O}}`$ represents the dimension of the observer, reflecting their classicalization capability.
+where $D_{\mathcal{O}}$ represents the dimension of the observer, reflecting their classicalization capability.
 
 ### Virtual Dimension Evolution Equation
 
@@ -95,7 +95,7 @@ The evolution of the virtual observer's dimension over time satisfies:
 
 $$\frac{dD_{\mathcal{O}_{\text{Virtual}}}}{dt} = \alpha \cdot \frac{I_{\text{classical knowledge}}^{VR}}{S_{\text{classical entropy}}^{VR}+\epsilon} - \beta \cdot \frac{\mathcal{Q}_{\mathcal{O}}^{VR}}{\mathcal{C}_{\mathcal{O}}^{VR}}$$
 
-where $`\alpha`$ and $`\beta`$ are system-related constants.
+where $\alpha$ and $\beta$ are system-related constants.
 
 ## Quantum Superposition States and Virtual Reality Experience
 
@@ -125,7 +125,7 @@ There exists a corresponding relationship between energy and information amount 
 
 $$E_{VR} = k_B T_{VR} \cdot I_{VR}$$
 
-where $`k_B`$ is Boltzmann's constant, and $`T_{VR}`$ is the equivalent temperature of the virtual system.
+where $k_B$ is Boltzmann's constant, and $T_{VR}$ is the equivalent temperature of the virtual system.
 
 ## Observer Measurement Problem in Virtual Reality Systems
 
@@ -139,7 +139,7 @@ This process can be formally represented as:
 
 $$|\text{result}\rangle_{VR} = \mathcal{C}_{\text{display}}(U_{\text{system}}(|\text{input}\rangle_{\text{user}}))$$
 
-where $`U_{\text{system}}`$ is the system evolution operator, and $`\mathcal{C}_{\text{display}}`$ is the classicalization operator of the display device.
+where $U_{\text{system}}$ is the system evolution operator, and $\mathcal{C}_{\text{display}}$ is the classicalization operator of the display device.
 
 ## Comparison Between Virtual Reality Classicalization and Real Classicalization
 

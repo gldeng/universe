@@ -30,7 +30,7 @@ $$
 \eta_{classicalization} = \frac{K_{classical}}{S_{classical}} \propto \frac{1}{\Delta D}
 $$
 
-其中，$`\eta_{classicalization}`$是经典化效率，$`K_{classical}`$是产生的经典知识，$`S_{classical}`$是产生的经典熵，$`\Delta D`$是观察者维度与信息维度的差距。
+其中，$\eta_{classicalization}$是经典化效率，$K_{classical}$是产生的经典知识，$S_{classical}$是产生的经典熵，$\Delta D$是观察者维度与信息维度的差距。
 
 ### 理论解释
 
@@ -64,22 +64,22 @@ $$
 
 1. **直觉经典化**：
    - 通过直觉快速经典化高维信息
-   - 效率公式：$`\eta_{intuition} \propto \frac{1}{\Delta t}`$
+   - 效率公式：$\eta_{intuition} \propto \frac{1}{\Delta t}$
    - 特点：速度快，但经典熵较高
 
 2. **冥想经典化**：
    - 通过冥想状态提升观察者维度，减小维度差距
-   - 效率公式：$`\eta_{meditation} \propto D_{observer}`$
+   - 效率公式：$\eta_{meditation} \propto D_{observer}$
    - 特点：可以获得更高质量的经典知识，但需要长期训练
 
 3. **符号经典化**：
    - 通过特定符号系统（如数学、艺术、宗教符号）编码高维信息
-   - 效率公式：$`\eta_{symbol} \propto \log(D_{symbol})`$
+   - 效率公式：$\eta_{symbol} \propto \log(D_{symbol})$
    - 特点：可以保存更多结构化信息，但需要解码
 
 4. **集体经典化**：
    - 通过多个观察者共同经典化，形成集体智慧
-   - 效率公式：$`\eta_{collective} \propto \sum_{i} w_i D_i`$
+   - 效率公式：$\eta_{collective} \propto \sum_{i} w_i D_i$
    - 特点：可以综合多种视角，减少个体偏差
 
 ### 应用领域
@@ -126,7 +126,7 @@ $$
 \eta_{classicalization} = \frac{K_{classical}}{S_{classical}} \propto \frac{1}{\Delta D}
 $$
 
-Where $`\eta_{classicalization}`$ is the classicalization efficiency, $`K_{classical}`$ is the classical knowledge produced, $`S_{classical}`$ is the classical entropy produced, and $`\Delta D`$ is the dimensional gap between the observer and the information.
+Where $\eta_{classicalization}$ is the classicalization efficiency, $K_{classical}$ is the classical knowledge produced, $S_{classical}$ is the classical entropy produced, and $\Delta D$ is the dimensional gap between the observer and the information.
 
 ### Theoretical Explanation
 
@@ -160,22 +160,22 @@ Different classicalization methods have different efficiencies:
 
 1. **Intuitive Classicalization**:
    - Quickly classicalizing higher-dimensional information through intuition
-   - Efficiency formula: $`\eta_{intuition} \propto \frac{1}{\Delta t}`$
+   - Efficiency formula: $\eta_{intuition} \propto \frac{1}{\Delta t}$
    - Characteristics: Fast speed but higher classical entropy
 
 2. **Meditation Classicalization**:
    - Elevating the observer's dimension through meditation states to reduce the dimensional gap
-   - Efficiency formula: $`\eta_{meditation} \propto D_{observer}`$
+   - Efficiency formula: $\eta_{meditation} \propto D_{observer}$
    - Characteristics: Can obtain higher quality classical knowledge but requires long-term training
 
 3. **Symbolic Classicalization**:
    - Encoding higher-dimensional information through specific symbol systems (such as mathematics, art, religious symbols)
-   - Efficiency formula: $`\eta_{symbol} \propto \log(D_{symbol})`$
+   - Efficiency formula: $\eta_{symbol} \propto \log(D_{symbol})$
    - Characteristics: Can preserve more structured information but requires decoding
 
 4. **Collective Classicalization**:
    - Classicalizing through multiple observers together to form collective wisdom
-   - Efficiency formula: $`\eta_{collective} \propto \sum_{i} w_i D_i`$
+   - Efficiency formula: $\eta_{collective} \propto \sum_{i} w_i D_i$
    - Characteristics: Can integrate multiple perspectives and reduce individual bias
 
 ### Application Areas

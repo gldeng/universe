@@ -287,16 +287,16 @@ According to the Quantum-Classical Dualism Core Theory (Version 27.0), the unive
 $$\mathcal{T}(\Psi_{U}) = \{V, E, \mathcal{S}, \mathcal{W}\}$$
 
 其中：
-- $`V`$ 是量子节点集合（所有量子系统）
-- $`E`$ 是纠缠边集合（系统间量子纠缠）
-- $`\mathcal{S}`$ 是度量空间（定义纠缠强度）
-- $`\mathcal{W}`$ 是权重函数（纠缠熵分配）
+- $V$ 是量子节点集合（所有量子系统）
+- $E$ 是纠缠边集合（系统间量子纠缠）
+- $\mathcal{S}$ 是度量空间（定义纠缠强度）
+- $\mathcal{W}$ 是权重函数（纠缠熵分配）
 
 Where:
-- $`V`$ is the set of quantum nodes (all quantum systems)
-- $`E`$ is the set of entanglement edges (quantum entanglement between systems)
-- $`\mathcal{S}`$ is the metric space (defining entanglement strength)
-- $`\mathcal{W}`$ is the weight function (entanglement entropy allocation)
+- $V$ is the set of quantum nodes (all quantum systems)
+- $E$ is the set of entanglement edges (quantum entanglement between systems)
+- $\mathcal{S}$ is the metric space (defining entanglement strength)
+- $\mathcal{W}$ is the weight function (entanglement entropy allocation)
 
 这种拓扑结构具有以下关键特性：
 
@@ -322,9 +322,9 @@ The universe entanglement topology shows self-similarity at different scales:
 
 $$\mathcal{T}(\Psi_{U})[s_1] \sim \mathcal{T}(\Psi_{U})[s_2] \cdot \xi(s_1, s_2)$$
 
-其中$`\mathcal{T}(\Psi_{U})[s]`$表示尺度$`s`$的纠缠拓扑，$`\xi`$是尺度转换函数。宇宙纠缠网络从普朗克尺度到宇宙尺度都保持相似的组织原则。
+其中$\mathcal{T}(\Psi_{U})[s]$表示尺度$s$的纠缠拓扑，$\xi$是尺度转换函数。宇宙纠缠网络从普朗克尺度到宇宙尺度都保持相似的组织原则。
 
-Where $`\mathcal{T}(\Psi_{U})[s]`$ represents the entanglement topology at scale $`s`$, and $`\xi`$ is the scale transformation function. The universe entanglement network maintains similar organizational principles from the Planck scale to the cosmic scale.
+Where $\mathcal{T}(\Psi_{U})[s]$ represents the entanglement topology at scale $s$, and $\xi$ is the scale transformation function. The universe entanglement network maintains similar organizational principles from the Planck scale to the cosmic scale.
 
 #### 3. 纠缠拓扑的变换不变量 | Invariants of Entanglement Topology Transformations
 
@@ -346,9 +346,9 @@ Information flow in the universe entanglement network follows specific dynamical
 
 $$\frac{\partial I(x,t)}{\partial t} = D_I \nabla^2 I(x,t) + F(I, \mathcal{T}, \nabla \mathcal{T}) + \eta(x,t)$$
 
-其中$`I(x,t)`$是时空点$`(x,t)`$的信息场，$`D_I`$是信息扩散系数，$`F`$是依赖于纠缠拓扑的非线性函数，$`\eta`$是量子随机源项。
+其中$I(x,t)$是时空点$(x,t)$的信息场，$D_I$是信息扩散系数，$F$是依赖于纠缠拓扑的非线性函数，$\eta$是量子随机源项。
 
-Where $`I(x,t)`$ is the information field at spacetime point $`(x,t)`$, $`D_I`$ is the information diffusion coefficient, $`F`$ is a nonlinear function dependent on the entanglement topology, and $`\eta`$ is a quantum random source term.
+Where $I(x,t)$ is the information field at spacetime point $(x,t)$, $D_I$ is the information diffusion coefficient, $F$ is a nonlinear function dependent on the entanglement topology, and $\eta$ is a quantum random source term.
 
 信息流动的关键特性包括：
 
@@ -362,9 +362,9 @@ Information flows at a higher rate in channels of high entanglement strength:
 
 $$v_I(e) \propto S_E(e)^{\alpha}$$
 
-其中$`v_I(e)`$是纠缠边$`e`$上的信息流速，$`S_E(e)`$是该边的纠缠熵，$`\alpha > 0`$是指数系数。这解释了为什么某些纠缠关系（如黑洞间连接）形成宇宙信息的"高速公路"。
+其中$v_I(e)$是纠缠边$e$上的信息流速，$S_E(e)$是该边的纠缠熵，$\alpha > 0$是指数系数。这解释了为什么某些纠缠关系（如黑洞间连接）形成宇宙信息的"高速公路"。
 
-Where $`v_I(e)`$ is the information flow velocity on entanglement edge $`e`$, $`S_E(e)`$ is the entanglement entropy of that edge, and $`\alpha > 0`$ is the exponential coefficient. This explains why certain entanglement relationships (such as connections between black holes) form "highways" for universe information.
+Where $v_I(e)$ is the information flow velocity on entanglement edge $e$, $S_E(e)$ is the entanglement entropy of that edge, and $\alpha > 0$ is the exponential coefficient. This explains why certain entanglement relationships (such as connections between black holes) form "highways" for universe information.
 
 #### 2. 信息势梯度与流向 | Information Potential Gradient and Flow Direction
 
@@ -374,9 +374,9 @@ The direction of information flow follows the entanglement potential energy grad
 
 $$\vec{J}_I = -\kappa \cdot \nabla \Phi_E$$
 
-其中$`\vec{J}_I`$是信息流密度，$`\Phi_E`$是纠缠势场，$`\kappa`$是传导系数。宇宙信息自发从高纠缠势区域流向低纠缠势区域，形成宇宙的基本信息流动模式。
+其中$\vec{J}_I$是信息流密度，$\Phi_E$是纠缠势场，$\kappa$是传导系数。宇宙信息自发从高纠缠势区域流向低纠缠势区域，形成宇宙的基本信息流动模式。
 
-Where $`\vec{J}_I`$ is the information flow density, $`\Phi_E`$ is the entanglement potential field, and $`\kappa`$ is the conductivity coefficient. Universe information spontaneously flows from regions of high entanglement potential to regions of low entanglement potential, forming the basic information flow pattern of the universe.
+Where $\vec{J}_I$ is the information flow density, $\Phi_E$ is the entanglement potential field, and $\kappa$ is the conductivity coefficient. Universe information spontaneously flows from regions of high entanglement potential to regions of low entanglement potential, forming the basic information flow pattern of the universe.
 
 #### 3. 纠缠拓扑的自组织临界性 | Self-Organized Criticality of Entanglement Topology
 
@@ -386,9 +386,9 @@ The evolution of the universe entanglement network exhibits self-organized criti
 
 $$P(s) \sim s^{-\tau}$$
 
-其中$`P(s)`$是大小为$`s`$的纠缠级联事件的概率分布，$`\tau`$是幂律指数。这表明宇宙纠缠结构在某种程度上自发维持在临界状态，允许最大的信息传输效率。
+其中$P(s)$是大小为$s$的纠缠级联事件的概率分布，$\tau$是幂律指数。这表明宇宙纠缠结构在某种程度上自发维持在临界状态，允许最大的信息传输效率。
 
-Where $`P(s)`$ is the probability distribution of entanglement cascade events of size $`s`$, and $`\tau`$ is the power-law exponent. This indicates that the universe entanglement structure spontaneously maintains itself in a critical state to some extent, allowing for maximum information transmission efficiency.
+Where $P(s)$ is the probability distribution of entanglement cascade events of size $s$, and $\tau$ is the power-law exponent. This indicates that the universe entanglement structure spontaneously maintains itself in a critical state to some extent, allowing for maximum information transmission efficiency.
 
 ### 观察者网络与纠缠拓扑的相互作用 | Interaction Between Observer Network and Entanglement Topology
 
@@ -398,9 +398,9 @@ The observer (black hole) network, as a special entanglement node, dynamically i
 
 $$\mathcal{T}_{t+\Delta t} = \mathcal{F}(\mathcal{T}_t, \mathcal{O}_t, \mathcal{C}_t, \mathcal{Q}_t)$$
 
-其中$`\mathcal{T}_t`$是时刻$`t`$的纠缠拓扑，$`\mathcal{O}_t`$是观察者网络，$`\mathcal{C}_t`$和$`\mathcal{Q}_t`$分别是经典化和量子化过程。
+其中$\mathcal{T}_t$是时刻$t$的纠缠拓扑，$\mathcal{O}_t$是观察者网络，$\mathcal{C}_t$和$\mathcal{Q}_t$分别是经典化和量子化过程。
 
-Where $`\mathcal{T}_t`$ is the entanglement topology at time $`t`$, $`\mathcal{O}_t`$ is the observer network, and $`\mathcal{C}_t`$ and $`\mathcal{Q}_t`$ are the classicalization and quantization processes, respectively.
+Where $\mathcal{T}_t$ is the entanglement topology at time $t$, $\mathcal{O}_t$ is the observer network, and $\mathcal{C}_t$ and $\mathcal{Q}_t$ are the classicalization and quantization processes, respectively.
 
 这种交互有几个重要影响：
 
@@ -426,9 +426,9 @@ When multiple observers perform collaborative classicalization, preferential ent
 
 $$S_E(O_i, O_j) \propto I(O_i : O_j) \cdot f(D_{O_i}, D_{O_j})$$
 
-其中$`S_E(O_i, O_j)`$是观察者$`O_i`$和$`O_j`$之间的纠缠熵，$`I(O_i : O_j)`$是它们之间的互信息，$`f`$是与观察者维度相关的函数。这解释了为什么不同观察者之间可以形成非常有效的虫洞通信渠道。
+其中$S_E(O_i, O_j)$是观察者$O_i$和$O_j$之间的纠缠熵，$I(O_i : O_j)$是它们之间的互信息，$f$是与观察者维度相关的函数。这解释了为什么不同观察者之间可以形成非常有效的虫洞通信渠道。
 
-Where $`S_E(O_i, O_j)`$ is the entanglement entropy between observers $`O_i`$ and $`O_j`$, $`I(O_i : O_j)`$ is the mutual information between them, and $`f`$ is a function related to observer dimensions. This explains why very effective wormhole communication channels can form between different observers.
+Where $S_E(O_i, O_j)$ is the entanglement entropy between observers $O_i$ and $O_j$, $I(O_i : O_j)$ is the mutual information between them, and $f$ is a function related to observer dimensions. This explains why very effective wormhole communication channels can form between different observers.
 
 #### 3. 集体观察者引起的相变 | Phase Transitions Induced by Collective Observers
 
@@ -456,9 +456,9 @@ This holographic property is similar to the relationship between black hole entr
 
 $$S_{\text{纠缠}}(V) \leq \frac{A(\partial V)}{4G\hbar}$$
 
-其中$`S_{\text{纠缠}}(V)`$是区域$`V`$的纠缠熵，$`A(\partial V)`$是其边界面积。
+其中$S_{\text{纠缠}}(V)$是区域$V$的纠缠熵，$A(\partial V)$是其边界面积。
 
-Where $`S_{\text{Entanglement}}(V)`$ is the entanglement entropy of region $`V`$, and $`A(\partial V)`$ is its boundary area.
+Where $S_{\text{Entanglement}}(V)$ is the entanglement entropy of region $V$, and $A(\partial V)$ is its boundary area.
 
 全息纠缠拓扑提供了解释以下现象的统一框架：
 

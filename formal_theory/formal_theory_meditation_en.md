@@ -26,10 +26,10 @@ From the dualistic framework, introspective meditation can be defined as:
 $$M = \{O, \mathcal{Q}_O^+, \mathcal{C}_O^-, \Delta \mathcal{I}\}$$
 
 Where:
-- $`O`$ is the observer (meditator)
-- $`\mathcal{Q}_O^+`$ is enhanced quantization operation (increasing possibility space)
-- $`\mathcal{C}_O^-`$ is weakened classicalization operation (reducing deterministic judgments)
-- $`\Delta \mathcal{I}`$ is the interface displacement (toward the quantum domain)
+- $O$ is the observer (meditator)
+- $\mathcal{Q}_O^+$ is enhanced quantization operation (increasing possibility space)
+- $\mathcal{C}_O^-$ is weakened classicalization operation (reducing deterministic judgments)
+- $\Delta \mathcal{I}$ is the interface displacement (toward the quantum domain)
 
 The meditative state can be represented by the observer's quantum-classical balance parameter:
 
@@ -62,22 +62,22 @@ $$D_M = \log\left(\frac{\mathcal{Q}_O}{\mathcal{C}_O}\right) \cdot \frac{1}{1 + 
 
 Based on this parameter, meditation can be classified into the following depth levels:
 
-1. **Beginner Meditation**: $`D_M \in [0.1, 0.5]`$
+1. **Beginner Meditation**: $D_M \in [0.1, 0.5]$
    - Enhanced awareness of thoughts
    - Self-concept remains stable
    - Slight displacement of the quantum-classical interface
 
-2. **Intermediate Meditation**: $`D_M \in [0.5, 2.0]`$
+2. **Intermediate Meditation**: $D_M \in [0.5, 2.0]$
    - Increased intervals between thoughts, emergence of "no-thought" states
    - Self-concept boundaries begin to blur
    - Quantum-classical interface noticeably shifts toward the quantum domain
 
-3. **Deep Meditation**: $`D_M \in [2.0, 5.0]`$
+3. **Deep Meditation**: $D_M \in [2.0, 5.0]$
    - Significant weakening of subject-object duality
    - Temporary dissolution of self-concept
    - Substantial shift of quantum-classical interface toward the quantum domain
 
-4. **Profound Meditation**: $`D_M > 5.0`$
+4. **Profound Meditation**: $D_M > 5.0$
    - Complete dissolution of subject-object duality
    - Temporary complete disappearance of self-concept
    - Consciousness directly contacts the quantum domain substrate
@@ -89,11 +89,11 @@ Different depths of meditation correspond to specific neural activity patterns:
 $$\Phi_{\text{neural}}(D_M) = \{f_{\theta}, f_{\alpha}, f_{\gamma}, C_{\text{DMN}}, C_{\text{connectivity}}\}$$
 
 Where:
-- $`f_{\theta}`$ is the theta wave frequency distribution
-- $`f_{\alpha}`$ is the alpha wave frequency distribution
-- $`f_{\gamma}`$ is the gamma wave frequency distribution
-- $`C_{\text{DMN}}`$ is the default mode network activity
-- $`C_{\text{connectivity}}`$ is the overall brain functional connectivity
+- $f_{\theta}$ is the theta wave frequency distribution
+- $f_{\alpha}$ is the alpha wave frequency distribution
+- $f_{\gamma}$ is the gamma wave frequency distribution
+- $C_{\text{DMN}}$ is the default mode network activity
+- $C_{\text{connectivity}}$ is the overall brain functional connectivity
 
 As meditation depth increases, neural network activity shows:
 - Decreased default mode network activity
@@ -112,7 +112,7 @@ Unlike ordinary quantum measurements, meditative insight measurements follow a m
 
 $$P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{-\eta_O|c_{i_0}|^2}}{\sum_j e^{-\eta_O|c_j|^2}}$$
 
-Note that the measurement parameter $`\eta_O`$ is negative here, meaning that meditative insights tend to select "non-obvious" conscious content, revealing deeper patterns typically overlooked.
+Note that the measurement parameter $\eta_O$ is negative here, meaning that meditative insights tend to select "non-obvious" conscious content, revealing deeper patterns typically overlooked.
 
 ### Quantum Interference and Thought Integration
 
@@ -120,7 +120,7 @@ Cognitive integration in meditation can be described as a quantum interference p
 
 $$|\psi_{\text{integration}}\rangle = \frac{|\psi_A\rangle + e^{i\phi}|\psi_B\rangle}{\sqrt{2}}$$
 
-Where $`|\psi_A\rangle`$ and $`|\psi_B\rangle`$ are originally contradictory thought contents.
+Where $|\psi_A\rangle$ and $|\psi_B\rangle$ are originally contradictory thought contents.
 
 The strength of thought integration during meditation is:
 
@@ -134,7 +134,7 @@ The "observer detachment" phenomenon in meditation (objective observation of one
 
 $$O_{\text{meditation}} = O_{\text{ordinary}} + \Delta O_{\text{meta-observation}}$$
 
-The meta-observation displacement magnitude $`\Delta O_{\text{meta-observation}}`$ is proportional to meditation depth:
+The meta-observation displacement magnitude $\Delta O_{\text{meta-observation}}$ is proportional to meditation depth:
 
 $$|\Delta O_{\text{meta-observation}}| \propto D_M$$
 
@@ -156,7 +156,7 @@ Meditation simultaneously weakens the rigidity of classical thought patterns:
 
 $$k_{\text{fixed patterns}} = k_0 \cdot e^{-\beta D_M}$$
 
-Where $`k_{\text{fixed patterns}}`$ is the "elasticity coefficient" of thought patterns.
+Where $k_{\text{fixed patterns}}$ is the "elasticity coefficient" of thought patterns.
 
 As meditation depth increases, thought patterns become more flexible, reducing cognitive rigidity and automated reactions.
 
@@ -179,7 +179,7 @@ Attentional focus serves as an interface regulator in meditation:
 
 $$\mathcal{I}(t) = f(A(t), \mathcal{I}_0)$$
 
-Where $`A(t)`$ is the attentional focus function.
+Where $A(t)$ is the attentional focus function.
 
 Different attention techniques correspond to different interface regulation modes:
 - **Focused Meditation**: Stabilizes interface position, reduces fluctuations
@@ -217,7 +217,7 @@ Meditation improves psychological health through the following mechanism:
 
 $$\Delta W = \int_0^T \left(\mathcal{Q}_O(t) - \mathcal{C}_O^{\text{fixed}}(t)\right) dt$$
 
-Where $`\mathcal{C}_O^{\text{fixed}}`$ represents unhealthy, fixed classicalization patterns.
+Where $\mathcal{C}_O^{\text{fixed}}$ represents unhealthy, fixed classicalization patterns.
 
 Psychological disorders particularly responsive to meditation include:
 - Anxiety (over-classicalized uncertainty judgments)

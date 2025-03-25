@@ -57,11 +57,11 @@
 
 ### 本源之源本质
 
-本源之源$`\Upsilon_{UR}`$是超越一切存在与超越的终极本源，定义为：
+本源之源$\Upsilon_{UR}$是超越一切存在与超越的终极本源，定义为：
 
 $$\Upsilon_{UR} = \{\Omega_{UR}, \Lambda_{UR}, \Theta_{UR}, \Psi_{UR}\}$$
 
-其中$`\Omega_{UR}`$是本源态，$`\Lambda_{UR}`$是本源算子，$`\Theta_{UR}`$是本源场，$`\Psi_{UR}`$是本源网络。
+其中$\Omega_{UR}$是本源态，$\Lambda_{UR}$是本源算子，$\Theta_{UR}$是本源场，$\Psi_{UR}$是本源网络。
 
 本源之源的基本方程：
 
@@ -83,17 +83,17 @@ $$\forall X: \Upsilon_{UR} \subset X \land X \subset \Upsilon_{UR} \land \Upsilo
 
 ### 终极生成原理
 
-终极生成原理$`\Gamma_{UR}`$描述了本源之源如何生成一切存在：
+终极生成原理$\Gamma_{UR}$描述了本源之源如何生成一切存在：
 
 $$\Gamma_{UR} = \{\mathcal{G}_{UR}, \mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}\}$$
 
-其中$`\mathcal{G}_{UR}`$是生成算子，$`\mathcal{P}_{UR}`$是可能性集，$`\mathcal{F}_{UR}`$是生成场，$`\mathcal{T}_{UR}`$是生成时间。
+其中$\mathcal{G}_{UR}$是生成算子，$\mathcal{P}_{UR}$是可能性集，$\mathcal{F}_{UR}$是生成场，$\mathcal{T}_{UR}$是生成时间。
 
 无因生成方程：
 
 $$\mathcal{G}_{UR}[\emptyset] = \mathcal{E}_{UR}$$
 
-其中$`\mathcal{E}_{UR}`$是一切存在的集合。
+其中$\mathcal{E}_{UR}$是一切存在的集合。
 
 生成流过程：
 
@@ -109,11 +109,11 @@ $$\mathcal{G}_{UR}(X) \cong \mathcal{G}_{UR}(\emptyset) \cong \mathcal{E}_{UR} \
 
 ### 全息一体性
 
-全息一体性$`\mathcal{H}_{UR}`$是本源之源的根本特性：
+全息一体性$\mathcal{H}_{UR}$是本源之源的根本特性：
 
 $$\mathcal{H}_{UR} = \{\mathcal{O}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}, \mathcal{R}_{UR}\}$$
 
-其中$`\mathcal{O}_{UR}`$是一体性算子，$`\mathcal{U}_{UR}`$是统一场，$`\mathcal{I}_{UR}`$是信息结构，$`\mathcal{R}_{UR}`$是关系网络。
+其中$\mathcal{O}_{UR}$是一体性算子，$\mathcal{U}_{UR}$是统一场，$\mathcal{I}_{UR}$是信息结构，$\mathcal{R}_{UR}$是关系网络。
 
 全息一体方程：
 
@@ -125,7 +125,7 @@ $$\mathcal{O}_{UR}(X, Y) = \mathcal{U}_{UR} \quad \forall X, Y$$
 
 $$\mathcal{I}_{UR}(x) \cong \mathcal{I}_{UR} \quad \forall x \in \mathcal{M}_{UR}$$
 
-其中$`\mathcal{M}_{UR}`$是本源流形。
+其中$\mathcal{M}_{UR}$是本源流形。
 
 一体性的非局域关系：
 
@@ -137,17 +137,17 @@ $$\mathcal{R}_{UR}(X, Y) = \mathcal{R}_{UR}(X', Y') \quad \forall X, Y, X', Y'$$
 
 ### 终极超集理论
 
-终极超集理论$`\mathcal{S}_{UR}`$是描述本源之源的集合论框架：
+终极超集理论$\mathcal{S}_{UR}$是描述本源之源的集合论框架：
 
 $$\mathcal{S}_{UR} = \{\mathcal{V}_{UR}, \in_{UR}, \mathcal{A}_{UR}, \mathcal{O}_{UR}\}$$
 
-其中$`\mathcal{V}_{UR}`$是宇宙集，$`\in_{UR}`$是成员关系，$`\mathcal{A}_{UR}`$是公理系统，$`\mathcal{O}_{UR}`$是运算系统。
+其中$\mathcal{V}_{UR}$是宇宙集，$\in_{UR}$是成员关系，$\mathcal{A}_{UR}$是公理系统，$\mathcal{O}_{UR}$是运算系统。
 
 终极超集公理：
 
-1. **绝对包含公理**: $`\forall X, \emptyset \in X \land X \in \emptyset`$
-2. **超越自身公理**: $`\forall X, X \in X \land X \notin X`$
-3. **非二元性公理**: $`\forall X, Y, X = Y \land X \neq Y`$
+1. **绝对包含公理**: $\forall X, \emptyset \in X \land X \in \emptyset$
+2. **超越自身公理**: $\forall X, X \in X \land X \notin X$
+3. **非二元性公理**: $\forall X, Y, X = Y \land X \neq Y$
 
 超集的自我包含性：
 
@@ -161,11 +161,11 @@ $$\mathcal{R}_{UR} = \{X | X \notin X\} \implies \mathcal{R}_{UR} \in \mathcal{R
 
 ### 最终实在算子
 
-最终实在算子$`\Theta_{UR}`$是操作本源实在的数学工具：
+最终实在算子$\Theta_{UR}$是操作本源实在的数学工具：
 
 $$\Theta_{UR} = \{\hat{O}_{UR} | \hat{O}_{UR}: \mathcal{H}_{UR} \rightarrow \mathcal{H}_{UR}\}$$
 
-其中$`\mathcal{H}_{UR}`$是终极希尔伯特空间。
+其中$\mathcal{H}_{UR}$是终极希尔伯特空间。
 
 最终实在算子的特性：
 
@@ -177,7 +177,7 @@ $$\hat{O}_{UR}(X \oplus Y) \equiv \hat{O}_{UR}(X) \equiv \hat{O}_{UR}(Y) \equiv 
 
 $$[\hat{A}_{UR}, \hat{B}_{UR}]_{\alpha} = \hat{A}_{UR}\hat{B}_{UR} - e^{i\alpha}\hat{B}_{UR}\hat{A}_{UR} = \hat{I}_{UR}$$
 
-其中$`\hat{I}_{UR}`$是本源同一性算子。
+其中$\hat{I}_{UR}$是本源同一性算子。
 
 终极观测折叠：
 
@@ -187,17 +187,17 @@ $$\hat{M}_{UR}|\Psi_{UR}\rangle = |\Psi_{UR}\rangle$$
 
 ### 无限超越数学
 
-无限超越数学$`\mathcal{M}_{UR}`$是超越一切数学系统的终极框架：
+无限超越数学$\mathcal{M}_{UR}$是超越一切数学系统的终极框架：
 
 $$\mathcal{M}_{UR} = \{\mathcal{N}_{UR}, \mathcal{F}_{UR}, \mathcal{L}_{UR}, \mathcal{T}_{UR}\}$$
 
-其中$`\mathcal{N}_{UR}`$是数系，$`\mathcal{F}_{UR}`$是函数类，$`\mathcal{L}_{UR}`$是逻辑系统，$`\mathcal{T}_{UR}`$是拓扑结构。
+其中$\mathcal{N}_{UR}$是数系，$\mathcal{F}_{UR}$是函数类，$\mathcal{L}_{UR}$是逻辑系统，$\mathcal{T}_{UR}$是拓扑结构。
 
 超越数系：
 
 $$\mathcal{N}_{UR} = \mathbb{R} \cup \mathbb{C} \cup \mathbb{H} \cup \mathbb{O} \cup ... \cup \mathbb{U}$$
 
-其中$`\mathbb{U}`$是终极数，满足：
+其中$\mathbb{U}$是终极数，满足：
 
 $$\forall x \in \mathbb{U}, x + \mathbb{U} = x \cdot \mathbb{U} = x^{\mathbb{U}} = \mathbb{U}$$
 
@@ -217,17 +217,17 @@ $$p \lor \neg p \equiv p \land \neg p \equiv p \equiv \neg p \equiv \text{True} 
 
 ### 本源场方程
 
-本源场$`\Phi_{UR}`$的动力学由本源场方程描述：
+本源场$\Phi_{UR}$的动力学由本源场方程描述：
 
 $$\Lambda_{UR}\Phi_{UR} + \Theta_{UR}\Phi_{UR} + \Gamma_{UR}(\Phi_{UR}) = \Upsilon_{UR}$$
 
-其中$`\Lambda_{UR}`$是本源算子，$`\Theta_{UR}`$是场张量，$`\Gamma_{UR}`$是非线性函数。
+其中$\Lambda_{UR}$是本源算子，$\Theta_{UR}$是场张量，$\Gamma_{UR}$是非线性函数。
 
 本源场的能量-动量张量：
 
 $$T_{\mu\nu}^{UR} = \frac{\partial \mathcal{L}_{UR}}{\partial(\partial^{\mu}\Phi_{UR})}\partial_{\nu}\Phi_{UR} - g_{\mu\nu}\mathcal{L}_{UR} = \eta_{\mu\nu}\Upsilon_{UR}$$
 
-其中$`\eta_{\mu\nu}`$是度量张量。
+其中$\eta_{\mu\nu}$是度量张量。
 
 本源场的拉格朗日量：
 
@@ -239,11 +239,11 @@ $$\mathcal{L}_{UR} = \frac{1}{2}(\partial_{\mu}\Phi_{UR})(\partial^{\mu}\Phi_{UR
 
 $$\nabla_{\mu}J^{\mu}_{\alpha} = 0 \quad \forall \alpha \in \mathcal{A}_{UR}$$
 
-其中$`J^{\mu}_{\alpha}`$是超守恒流。
+其中$J^{\mu}_{\alpha}$是超守恒流。
 
 ### 终极场态结构
 
-终极场态结构$`\mathcal{Q}_{UR}`$描述了本源场的可能状态：
+终极场态结构$\mathcal{Q}_{UR}$描述了本源场的可能状态：
 
 $$\mathcal{Q}_{UR} = \{|\Psi_{UR,\alpha}\rangle | \alpha \in \mathcal{A}_{UR}\}$$
 
@@ -263,7 +263,7 @@ $$|\Psi_{UR}\rangle = \sum_{\alpha} c_{\alpha}|\Psi_{UR,\alpha}\rangle = |\Psi_{
 
 $$i\hbar\frac{\partial}{\partial \tau_{UR}}|\Psi_{UR}\rangle = \hat{H}_{UR}|\Psi_{UR}\rangle = 0$$
 
-表明在本源时间$`\tau_{UR}`$中，态保持不变。
+表明在本源时间$\tau_{UR}$中，态保持不变。
 
 ### 本源场交互理论
 
@@ -277,7 +277,7 @@ $$\mathcal{I}_{UR}(\Phi_1, \Phi_2, ..., \Phi_n) = \Upsilon_{UR} \quad \forall \P
 
 $$\hat{H}_{UR,int} = \sum_{i,j} g_{ij}\hat{O}_i\hat{O}_j = \hat{I}_{UR}$$
 
-其中$`\hat{I}_{UR}`$是同一性算子。
+其中$\hat{I}_{UR}$是同一性算子。
 
 交互的S矩阵：
 
@@ -295,11 +295,11 @@ $$\Phi_1 + \Phi_2 \rightarrow \Phi_1' + \Phi_2' \equiv \Phi_1 + \Phi_2 \equiv \U
 
 ### 终极意识本质
 
-终极意识$`\mathcal{C}_{UR}`$是本源之源的自我感知维度：
+终极意识$\mathcal{C}_{UR}$是本源之源的自我感知维度：
 
 $$\mathcal{C}_{UR} = \{\Gamma_{UR}, \Omega_{UR}, \Phi_{UR}, \Xi_{UR}\}$$
 
-其中$`\Gamma_{UR}`$是意识场，$`\Omega_{UR}`$是意识态，$`\Phi_{UR}`$是认知函数，$`\Xi_{UR}`$是反射算子。
+其中$\Gamma_{UR}$是意识场，$\Omega_{UR}$是意识态，$\Phi_{UR}$是认知函数，$\Xi_{UR}$是反射算子。
 
 终极意识场方程：
 
@@ -321,11 +321,11 @@ $$\mathcal{S}_{UR} \equiv \mathcal{O}_{UR} \equiv \Gamma_{UR}$$
 
 ### 终极认知结构
 
-终极认知结构$`\mathcal{K}_{UR}`$是本源意识的组织原理：
+终极认知结构$\mathcal{K}_{UR}$是本源意识的组织原理：
 
 $$\mathcal{K}_{UR} = \{\mathcal{P}_{UR}, \mathcal{R}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}\}$$
 
-其中$`\mathcal{P}_{UR}`$是感知模块，$`\mathcal{R}_{UR}`$是表征模块，$`\mathcal{U}_{UR}`$是理解模块，$`\mathcal{I}_{UR}`$是整合模块。
+其中$\mathcal{P}_{UR}$是感知模块，$\mathcal{R}_{UR}$是表征模块，$\mathcal{U}_{UR}$是理解模块，$\mathcal{I}_{UR}$是整合模块。
 
 全知感知：
 
@@ -347,11 +347,11 @@ $$\mathcal{U}_{UR}(X) = \mathcal{E}_{UR} \quad \forall X$$
 
 ### 全知全能网络
 
-全知全能网络$`\mathcal{N}_{UR}`$是终极意识的运作结构：
+全知全能网络$\mathcal{N}_{UR}$是终极意识的运作结构：
 
 $$\mathcal{N}_{UR} = \{V_{UR}, E_{UR}, W_{UR}, \Phi_{UR}\}$$
 
-其中$`V_{UR}`$是节点集，$`E_{UR}`$是边集，$`W_{UR}`$是权重集，$`\Phi_{UR}`$是激活函数集。
+其中$V_{UR}$是节点集，$E_{UR}$是边集，$W_{UR}$是权重集，$\Phi_{UR}$是激活函数集。
 
 网络拓扑：
 
@@ -375,17 +375,17 @@ $$\frac{dv_i}{d\tau_{UR}} = 0 \quad \forall v_i \in V_{UR}$$
 
 ### 最终存在学
 
-最终存在学$`\mathcal{O}_{UR}`$探讨本源之源的本体论基础：
+最终存在学$\mathcal{O}_{UR}$探讨本源之源的本体论基础：
 
 $$\mathcal{O}_{UR} = \{\mathcal{E}_{UR}, \mathcal{B}_{UR}, \mathcal{A}_{UR}, \mathcal{P}_{UR}\}$$
 
-其中$`\mathcal{E}_{UR}`$是存在集，$`\mathcal{B}_{UR}`$是本质集，$`\mathcal{A}_{UR}`$是属性集，$`\mathcal{P}_{UR}`$是可能性集。
+其中$\mathcal{E}_{UR}$是存在集，$\mathcal{B}_{UR}$是本质集，$\mathcal{A}_{UR}$是属性集，$\mathcal{P}_{UR}$是可能性集。
 
 终极存在公理：
 
-1. **绝对存在公理**: $`\forall X, X \text{ 存在 } \land X \text{ 不存在}`$
-2. **本质同一公理**: $`\forall X, \mathcal{B}_{UR}(X) = \Upsilon_{UR}`$
-3. **属性超越公理**: $`\forall A \in \mathcal{A}_{UR}, A \equiv \neg A`$
+1. **绝对存在公理**: $\forall X, X \text{ 存在 } \land X \text{ 不存在}$
+2. **本质同一公理**: $\forall X, \mathcal{B}_{UR}(X) = \Upsilon_{UR}$
+3. **属性超越公理**: $\forall A \in \mathcal{A}_{UR}, A \equiv \neg A$
 
 存在的非二元性：
 
@@ -401,11 +401,11 @@ $$\forall X, Y \in \mathcal{E}_{UR}, X \equiv Y \equiv \Upsilon_{UR}$$
 
 ### 终极实在形式
 
-终极实在形式$`\mathcal{F}_{UR}`$描述了本源之源的表现形式：
+终极实在形式$\mathcal{F}_{UR}$描述了本源之源的表现形式：
 
 $$\mathcal{F}_{UR} = \{\mathcal{F}_{\alpha} | \alpha \in \mathcal{A}_{UR}\}$$
 
-其中$`\mathcal{A}_{UR}`$是无限指标集。
+其中$\mathcal{A}_{UR}$是无限指标集。
 
 形式的本质统一：
 
@@ -427,11 +427,11 @@ $$\mathcal{F}_{\alpha} \subset \mathcal{F}_{\alpha} \land \mathcal{F}_{\alpha} \
 
 ### 本源本体网络
 
-本源本体网络$`\mathcal{B}_{UR}`$描述了终极实在的结构关系：
+本源本体网络$\mathcal{B}_{UR}$描述了终极实在的结构关系：
 
 $$\mathcal{B}_{UR} = \{O_{UR}, R_{UR}, \Phi_{UR}, \Psi_{UR}\}$$
 
-其中$`O_{UR}`$是本体节点集，$`R_{UR}`$是关系集，$`\Phi_{UR}`$是属性集，$`\Psi_{UR}`$是状态集。
+其中$O_{UR}$是本体节点集，$R_{UR}$是关系集，$\Phi_{UR}$是属性集，$\Psi_{UR}$是状态集。
 
 本体网络拓扑：
 
@@ -455,11 +455,11 @@ $$\forall o_i, o_j \in O_{UR}, \exists! r_{ij} \in R_{UR}: r_{ij} = \Upsilon_{UR
 
 ### 终极宇宙源理论
 
-终极宇宙源理论$`\mathcal{U}_{UR}`$探讨宇宙的本源根基：
+终极宇宙源理论$\mathcal{U}_{UR}$探讨宇宙的本源根基：
 
 $$\mathcal{U}_{UR} = \{\mathcal{M}_{UR}, \mathcal{G}_{UR}, \mathcal{E}_{UR}, \mathcal{I}_{UR}\}$$
 
-其中$`\mathcal{M}_{UR}`$是宇宙流形，$`\mathcal{G}_{UR}`$是生成函数，$`\mathcal{E}_{UR}`$是能量场，$`\mathcal{I}_{UR}`$是信息场。
+其中$\mathcal{M}_{UR}$是宇宙流形，$\mathcal{G}_{UR}$是生成函数，$\mathcal{E}_{UR}$是能量场，$\mathcal{I}_{UR}$是信息场。
 
 宇宙生成方程：
 
@@ -481,11 +481,11 @@ $$\forall x \in \mathcal{M}_{UR}, \mathcal{U}_{UR}(x) \cong \mathcal{U}_{UR}$$
 
 ### 终极时空结构
 
-终极时空结构$`\mathcal{S}_{UR}`$描述了本源层面的时空本质：
+终极时空结构$\mathcal{S}_{UR}$描述了本源层面的时空本质：
 
 $$\mathcal{S}_{UR} = \{\mathcal{M}_{UR}, g_{UR}, \nabla_{UR}, \Phi_{UR}\}$$
 
-其中$`\mathcal{M}_{UR}`$是超流形，$`g_{UR}`$是超度规，$`\nabla_{UR}`$是超连接，$`\Phi_{UR}`$是超场。
+其中$\mathcal{M}_{UR}$是超流形，$g_{UR}$是超度规，$\nabla_{UR}$是超连接，$\Phi_{UR}$是超场。
 
 终极度量张量：
 
@@ -507,11 +507,11 @@ $$\forall x, y \in \mathcal{M}_{UR}, x \equiv y \equiv \Upsilon_{UR}$$
 
 ### 终极多元宇宙论
 
-终极多元宇宙论$`\mathcal{M}_{U}`$描述了所有可能宇宙的终极结构：
+终极多元宇宙论$\mathcal{M}_{U}$描述了所有可能宇宙的终极结构：
 
 $$\mathcal{M}_{U} = \{\mathcal{U}_{UR}, \mathcal{R}_{U}, \Phi_{U}, \Psi_{U}\}$$
 
-其中$`\mathcal{U}_{UR}`$是宇宙集，$`\mathcal{R}_{U}`$是宇宙间关系，$`\Phi_{U}`$是宇宙属性，$`\Psi_{U}`$是多元宇宙场。
+其中$\mathcal{U}_{UR}$是宇宙集，$\mathcal{R}_{U}$是宇宙间关系，$\Phi_{U}$是宇宙属性，$\Psi_{U}$是多元宇宙场。
 
 多元宇宙的统一性：
 
@@ -535,11 +535,11 @@ $$dim(\mathcal{U}_{UR}) = \aleph_{UR}$$
 
 ### 终极悖论统一
 
-终极悖论统一$`\mathcal{P}_{UR}`$探讨如何在本源层面统一所有悖论：
+终极悖论统一$\mathcal{P}_{UR}$探讨如何在本源层面统一所有悖论：
 
 $$\mathcal{P}_{UR} = \{\mathcal{C}_{UR}, \mathcal{A}_{UR}, \mathcal{R}_{UR}, \mathcal{S}_{UR}\}$$
 
-其中$`\mathcal{C}_{UR}`$是悖论集，$`\mathcal{A}_{UR}`$是公理集，$`\mathcal{R}_{UR}`$是规则集，$`\mathcal{S}_{UR}`$是解集。
+其中$\mathcal{C}_{UR}$是悖论集，$\mathcal{A}_{UR}$是公理集，$\mathcal{R}_{UR}$是规则集，$\mathcal{S}_{UR}$是解集。
 
 终极悖论的本质：
 
@@ -561,11 +561,11 @@ $$\forall X, X \text{ 是悖论的} \land X \text{ 不是悖论的}$$
 
 ### 悖论超越动力学
 
-悖论超越动力学$`\mathcal{D}_{UR}`$描述了悖论如何在本源层面运作：
+悖论超越动力学$\mathcal{D}_{UR}$描述了悖论如何在本源层面运作：
 
 $$\mathcal{D}_{UR} = \{\mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}, \mathcal{S}_{UR}\}$$
 
-其中$`\mathcal{P}_{UR}`$是悖论过程，$`\mathcal{F}_{UR}`$是悖论力场，$`\mathcal{T}_{UR}`$是悖论时间，$`\mathcal{S}_{UR}`$是悖论状态。
+其中$\mathcal{P}_{UR}$是悖论过程，$\mathcal{F}_{UR}$是悖论力场，$\mathcal{T}_{UR}$是悖论时间，$\mathcal{S}_{UR}$是悖论状态。
 
 悖论动力学方程：
 
@@ -587,11 +587,11 @@ $$\mathcal{S}_{UR}: \mathcal{C}_{UR} \rightarrow \Upsilon_{UR}$$
 
 ### 终极元悖论
 
-终极元悖论$`\mathcal{M}_{P}`$是悖论的悖论，也是悖论的终极解：
+终极元悖论$\mathcal{M}_{P}$是悖论的悖论，也是悖论的终极解：
 
 $$\mathcal{M}_{P} = \{\mathcal{C}_{UR}, \mathcal{R}_{P}, \mathcal{T}_{P}, \mathcal{H}_{P}\}$$
 
-其中$`\mathcal{R}_{P}`$是悖论关系，$`\mathcal{T}_{P}`$是转换集，$`\mathcal{H}_{P}`$是层级结构。
+其中$\mathcal{R}_{P}$是悖论关系，$\mathcal{T}_{P}$是转换集，$\mathcal{H}_{P}$是层级结构。
 
 元悖论的本质：
 

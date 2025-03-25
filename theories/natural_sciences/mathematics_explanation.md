@@ -24,7 +24,7 @@ English: [Introduction](#1-introduction-mathematics-and-quantum-classical-dualis
 H(X) = -\sum_{i=1}^{n} p(x_i) \log_2 p(x_i)
 ```
 
-其中 $`p(x_i)`$ 是随机变量 $`X`$ 取值 $`x_i`$ 的概率。
+其中 $p(x_i)$ 是随机变量 $X$ 取值 $x_i$ 的概率。
 
 类似地，量子经典二元论中的经典熵可表示为：
 
@@ -42,7 +42,7 @@ S_{\text{经典熵}} = -\sum_i p_i \log p_i
 I(X;Y) = H(X) + H(Y) - H(X,Y)
 ```
 
-其中 $`H(X)`$ 和 $`H(Y)`$ 是边缘熵，$`H(X,Y)`$ 是联合熵。
+其中 $H(X)$ 和 $H(Y)$ 是边缘熵，$H(X,Y)$ 是联合熵。
 
 在量子经典二元论中，有效量子纠缠可以增加观察者之间的互信息，从而减少经典熵：
 
@@ -144,7 +144,7 @@ I_{\text{经典世界（旧）}} + |\psi\rangle_{\text{其他经典世界随机�
 
 ### 6.1 概率分布与波函数
 
-量子力学中的波函数平方 $`|\psi(x)|^2`$ 给出了粒子位置的概率分布。类似地，量子经典二元论中的量子域可以看作是所有可能现实的概率分布：
+量子力学中的波函数平方 $|\psi(x)|^2$ 给出了粒子位置的概率分布。类似地，量子经典二元论中的量子域可以看作是所有可能现实的概率分布：
 
 ```math
 P(\psi_i) = |c_i|^2, \quad \sum_i |c_i|^2 = 1
@@ -226,7 +226,7 @@ The concept of **Classical Entropy** in Quantum-Classical Dualism directly corre
 H(X) = -\sum_{i=1}^{n} p(x_i) \log_2 p(x_i)
 ```
 
-Where $`p(x_i)`$ is the probability of the random variable $`X`$ taking the value $`x_i`$.
+Where $p(x_i)$ is the probability of the random variable $X$ taking the value $x_i$.
 
 Similarly, classical entropy in Quantum-Classical Dualism can be represented as:
 
@@ -244,7 +244,7 @@ The concept of **Mutual Information** in information theory can be used to under
 I(X;Y) = H(X) + H(Y) - H(X,Y)
 ```
 
-Where $`H(X)`$ and $`H(Y)`$ are marginal entropies, and $`H(X,Y)`$ is the joint entropy.
+Where $H(X)$ and $H(Y)$ are marginal entropies, and $H(X,Y)$ is the joint entropy.
 
 In Quantum-Classical Dualism, effective quantum entanglement can increase mutual information between observers, thereby reducing classical entropy:
 
@@ -346,7 +346,7 @@ When this state cannot be decomposed into the tensor product of two independent 
 
 ### 6.1 Probability Distribution and Wave Function
 
-The square of the wave function $`|\psi(x)|^2`$ in quantum mechanics gives the probability distribution of particle positions. Similarly, the Quantum Domain in Quantum-Classical Dualism can be seen as a probability distribution of all possible realities:
+The square of the wave function $|\psi(x)|^2$ in quantum mechanics gives the probability distribution of particle positions. Similarly, the Quantum Domain in Quantum-Classical Dualism can be seen as a probability distribution of all possible realities:
 
 ```math
 P(\psi_i) = |c_i|^2, \quad \sum_i |c_i|^2 = 1
@@ -421,9 +421,9 @@ $$
 $$
 
 其中：
-- $`\mathcal{M}`$ 是时空流形
-- $`\mathcal{H}`$ 是希尔伯特空间
-- $`\mathbb{C}`$ 是复数域
+- $\mathcal{M}$ 是时空流形
+- $\mathcal{H}$ 是希尔伯特空间
+- $\mathbb{C}$ 是复数域
 
 场的具体形式：
 
@@ -440,9 +440,9 @@ i\hbar\frac{\partial\Phi}{\partial t}=\hat{H}\Phi+\sum_i\hat{O}_i\Phi+\nabla^2\P
 $$
 
 其中：
-- $`\hat{H}`$ 是系统哈密顿量
-- $`\hat{O}_i`$ 是观察者算符
-- $`\nabla^2`$ 是拉普拉斯算符
+- $\hat{H}$ 是系统哈密顿量
+- $\hat{O}_i$ 是观察者算符
+- $\nabla^2$ 是拉普拉斯算符
 
 ## 维度共振的数学理论 | Mathematical Theory of Dimensional Resonance
 
@@ -454,7 +454,7 @@ $$
 \exists n\in\mathbb{N}: \frac{D_1}{D_2}=n
 $$
 
-其中 $`D_1,D_2`$ 是两个观察者的维度。
+其中 $D_1,D_2$ 是两个观察者的维度。
 
 ### 共振动力学 | Resonance Dynamics
 
@@ -465,8 +465,8 @@ $$
 $$
 
 其中：
-- $`a_{ij}`$ 是耦合系数
-- $`f_i(t)`$ 是外部驱动力
+- $a_{ij}$ 是耦合系数
+- $f_i(t)$ 是外部驱动力
 
 ### 共振能量传递 | Resonant Energy Transfer
 
@@ -477,5 +477,5 @@ $$
 $$
 
 其中：
-- $`\alpha`$ 是衰减系数
-- $`\omega`$ 是共振频率 
+- $\alpha$ 是衰减系数
+- $\omega$ 是共振频率 

@@ -22,16 +22,16 @@ The Quantum-Classical Dualism of Human Transcendence explores humanity's capacit
 
 ### Formal Definition of Transcendence
 
-Human transcendence $`\mathcal{T}_H`$ can be formally defined as:
+Human transcendence $\mathcal{T}_H$ can be formally defined as:
 
 $$\mathcal{T}_H = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O}_T, \mathcal{D})$$
 
 Where:
-- $`\mathcal{T}_Q`$ is the quantum component of transcendence (access to infinite possibility space)
-- $`\mathcal{T}_C`$ is the classical component of transcendence (maintenance and integration of ordered structures)
-- $`\mathcal{I}_T`$ is the quantum-classical interface of transcendence
-- $`\mathcal{O}_T`$ is the transcendent observer function
-- $`\mathcal{D}`$ is the set of dimensional transformation operators
+- $\mathcal{T}_Q$ is the quantum component of transcendence (access to infinite possibility space)
+- $\mathcal{T}_C$ is the classical component of transcendence (maintenance and integration of ordered structures)
+- $\mathcal{I}_T$ is the quantum-classical interface of transcendence
+- $\mathcal{O}_T$ is the transcendent observer function
+- $\mathcal{D}$ is the set of dimensional transformation operators
 
 ### Core Transcendence Axioms
 
@@ -40,21 +40,21 @@ True transcendence simultaneously encompasses properties of both quantum and cla
 
 $$\mathcal{T}_H = \mathcal{T}_Q \diamond \mathcal{T}_C$$
 
-Where $`\diamond`$ represents the transcendence quantum-classical joint operation.
+Where $\diamond$ represents the transcendence quantum-classical joint operation.
 
 **Axiom 2: Dimensional Transformation Capacity**  
 The essence of transcendence is the ability to freely transform between different dimensional spaces:
 
 $$\mathcal{D}: \Omega^n \rightarrow \Omega^{n+m}$$
 
-Where $`\Omega^n`$ represents n-dimensional reality space, and $`m`$ is the dimensional increment.
+Where $\Omega^n$ represents n-dimensional reality space, and $m$ is the dimensional increment.
 
 **Axiom 3: Transcendent Interface Shaping**  
 Humans can actively shape the properties of the transcendent interface through conscious intervention:
 
 $$\mathcal{I}_T(t+\Delta t) = \mathcal{F}(\mathcal{I}_T(t), \mathcal{A}_{\mathcal{O}_T}(t))$$
 
-Where $`\mathcal{A}_{\mathcal{O}_T}(t)`$ is the observer's transcendent intervention operation.
+Where $\mathcal{A}_{\mathcal{O}_T}(t)$ is the observer's transcendent intervention operation.
 
 **Axiom 4: Transcendent Information Conservation**  
 Total quantum-classical information is conserved during transcendence processes, but can change form:
@@ -71,7 +71,7 @@ The quantum component of transcendence follows extended quantum mechanics:
 
 $$\frac{d|\Psi_T(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_T|\Psi_T(t)\rangle + \mathcal{D}_T(\rho_T) + \mathcal{S}_T(t)$$
 
-Where $`\hat{H}_T`$ is the transcendence Hamiltonian, $`\mathcal{D}_T`$ is the decoherence term, and $`\mathcal{S}_T(t)`$ is the transcendence source term.
+Where $\hat{H}_T$ is the transcendence Hamiltonian, $\mathcal{D}_T$ is the decoherence term, and $\mathcal{S}_T(t)$ is the transcendence source term.
 
 Quantum transcendence characteristics include:
 1. **Non-local consciousness**: Consciousness states beyond spacetime limitations
@@ -83,7 +83,7 @@ Wavefunction of transcendent states:
 
 $$|\Psi_T\rangle = \sum_{i=1}^{N} \sum_{j=1}^{M} \alpha_{ij} |d_i\rangle \otimes |r_j\rangle$$
 
-Where $`|d_i\rangle`$ are dimensional state basis vectors, and $`|r_j\rangle`$ are reality state basis vectors.
+Where $|d_i\rangle$ are dimensional state basis vectors, and $|r_j\rangle$ are reality state basis vectors.
 
 ### Classical Structure of Transcendence
 
@@ -92,10 +92,10 @@ The classical component of transcendence provides a stable reference framework:
 $$\mathcal{T}_C = (K_T, S_T, M_T, R_T)$$
 
 Where:
-- $`K_T`$ is the transcendence knowledge base
-- $`S_T`$ is the transcendence structural system
-- $`M_T`$ is the transcendence mapping network
-- $`R_T`$ is the transcendence reference baseline
+- $K_T$ is the transcendence knowledge base
+- $S_T$ is the transcendence structural system
+- $M_T$ is the transcendence mapping network
+- $R_T$ is the transcendence reference baseline
 
 Classical transcendence characteristics include:
 1. **Coherent integration**: Maintenance of coherent sense of self and reality
@@ -109,13 +109,13 @@ The transcendent interface is a malleable quantum-classical conversion zone:
 
 $$\frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T(\mathcal{I}_c - \mathcal{I}_T)(\mathcal{I}_T - \mathcal{I}_0) + \gamma_T\xi_T(t) + \delta_T P_T(t)$$
 
-Where $`P_T(t)`$ is the transcendence practice function, and $`\delta_T`$ is the practice influence coefficient.
+Where $P_T(t)$ is the transcendence practice function, and $\delta_T$ is the practice influence coefficient.
 
 Interface state determines transcendence capacity:
 
 $$\text{Capacity}_T = f(\mathcal{I}_T) = \int_{\Omega} \mathcal{I}_T(x) \cdot \Phi(x) dx$$
 
-Where $`\Phi(x)`$ is the potential field function.
+Where $\Phi(x)$ is the potential field function.
 
 Key parameters of the transcendent interface:
 1. **Permeability coefficient**: Quantum-classical information flow capacity
@@ -133,7 +133,7 @@ Probability of dimensional transformation:
 
 $$P(n \rightarrow n+m) = |\langle \Psi_{n+m}|\hat{D}|\Psi_n\rangle|^2$$
 
-Where $`\hat{D}`$ is the dimensional transformation operator.
+Where $\hat{D}$ is the dimensional transformation operator.
 
 Dimensional hierarchical structure:
 
@@ -149,13 +149,13 @@ The transcendent observer represents expanded human consciousness functions:
 
 $$\mathcal{O}_T = \{\mathcal{C}_{\mathcal{O}_T}, \mathcal{Q}_{\mathcal{O}_T}, K_T, \mathcal{D}_{\mathcal{O}_T}\}$$
 
-Where $`\mathcal{D}_{\mathcal{O}_T}`$ is the observer's dimensional transformation capability.
+Where $\mathcal{D}_{\mathcal{O}_T}$ is the observer's dimensional transformation capability.
 
 Observer's transcendent dimension:
 
 $$D_{\mathcal{O}_T} = f\left(\frac{\mathcal{C}_{\mathcal{O}_T}}{\mathcal{Q}_{\mathcal{O}_T}}\right) \cdot \frac{I_{knowledge}}{S_{entropy}+\epsilon} \cdot \mathcal{D}_{capability}$$
 
-Where $`\mathcal{D}_{capability}`$ is the dimensional operation capability.
+Where $\mathcal{D}_{capability}$ is the dimensional operation capability.
 
 Observer transcendent functions include:
 1. **Meta-observation**: Observing current reality from higher dimensions
@@ -171,7 +171,7 @@ Cognitive transcendence manifests as breakthrough expansions of thinking capacit
 
 $$C_T = C_0 \cdot e^{\lambda_C \cdot D_{\mathcal{O}_T}}$$
 
-Where $`C_0`$ is the baseline cognitive level, and $`\lambda_C`$ is the cognitive transcendence coefficient.
+Where $C_0$ is the baseline cognitive level, and $\lambda_C$ is the cognitive transcendence coefficient.
 
 Major forms of cognitive transcendence:
 1. **Intuitive insight**: Non-logical holistic understanding
@@ -197,7 +197,7 @@ Relationship between experience intensity and dimension:
 
 $$I_E = I_0 \cdot \left(\frac{D_{\mathcal{O}_T}}{D_0}\right)^{\alpha_E}$$
 
-Where $`\alpha_E`$ is the experience dimension sensitivity index.
+Where $\alpha_E$ is the experience dimension sensitivity index.
 
 ### Existential Transcendence
 
@@ -216,7 +216,7 @@ Critical dynamics of existential transformation:
 
 $$\frac{dB_T}{dt} \propto (B_T - B_{crit})^{\beta} \cdot F(\mathcal{I}_T)$$
 
-Where $`B_{crit}`$ is the existential critical value, and $`\beta`$ is the transformation exponent.
+Where $B_{crit}$ is the existential critical value, and $\beta$ is the transformation exponent.
 
 ### Creative Transcendence
 
@@ -239,7 +239,7 @@ Different consciousness practices promote transcendence development:
 
 $$P_T(t) = \sum_i w_i \cdot P_i(t)$$
 
-Where $`P_i(t)`$ is the i-th practice method, and $`w_i`$ is its weight.
+Where $P_i(t)$ is the i-th practice method, and $w_i$ is its weight.
 
 Major consciousness practice pathways:
 1. **Meditation and mindfulness**: Enhancement of interface stability and permeability
@@ -269,7 +269,7 @@ Technological transcendence synergistic effects:
 
 $$E_{tech} = \sum_i E_i + \sum_{i<j} E_{ij}$$
 
-Where $`E_i`$ is the effect of a single technology, and $`E_{ij}`$ is the synergistic effect.
+Where $E_i$ is the effect of a single technology, and $E_{ij}$ is the synergistic effect.
 
 ### Collective Transcendence Dynamics
 
@@ -277,7 +277,7 @@ Collective emergent properties of transcendence:
 
 $$\mathcal{T}_{collective} = \mathcal{F}(\{\mathcal{T}_i\}, \mathcal{N}, \mathcal{I}_{collective})$$
 
-Where $`\{\mathcal{T}_i\}`$ is the set of individual transcendence, $`\mathcal{N}`$ is the connection network, and $`\mathcal{I}_{collective}`$ is the collective interface.
+Where $\{\mathcal{T}_i\}$ is the set of individual transcendence, $\mathcal{N}$ is the connection network, and $\mathcal{I}_{collective}$ is the collective interface.
 
 Collective transcendence characteristics:
 1. **Transcendence resonance**: Resonance amplification effects of group consciousness
@@ -290,7 +290,7 @@ Scale dependence of collective transcendence:
 
 $$\mathcal{T}_{collective} \propto N^{\alpha_c} \cdot \bar{\mathcal{T}}_i$$
 
-Where $`N`$ is the number of participating individuals, and $`\alpha_c`$ is the collective transcendence exponent.
+Where $N$ is the number of participating individuals, and $\alpha_c$ is the collective transcendence exponent.
 
 ## Application Analysis
 
@@ -310,7 +310,7 @@ Experience transition probability:
 
 $$P(E_i \rightarrow E_j) = Z_{ij} \cdot e^{-\frac{\Delta D_{ij}}{k_T T_C}}$$
 
-Where $`\Delta D_{ij}`$ is the dimensional difference, and $`T_C`$ is consciousness "temperature."
+Where $\Delta D_{ij}$ is the dimensional difference, and $T_C$ is consciousness "temperature."
 
 ### Transcendence Practice Effect Model
 
@@ -334,7 +334,7 @@ Major barriers in transcendence development:
 
 $$R(\mathcal{T}_H) = \sum_i r_i \cdot B_i(\mathcal{I}_T, D_{\mathcal{O}_T})$$
 
-Where $`B_i`$ is the specific barrier function, and $`r_i`$ is its relative impact strength.
+Where $B_i$ is the specific barrier function, and $r_i$ is its relative impact strength.
 
 Major barrier types:
 1. **Interface instability**: Unstable state of the quantum-classical interface
@@ -347,7 +347,7 @@ Barrier overcoming strategy matrix:
 
 $$S = \{s_{ij}\}$$
 
-Where $`s_{ij}`$ is the efficacy value of strategy i for barrier j.
+Where $s_{ij}$ is the efficacy value of strategy i for barrier j.
 
 ## Relationships with Other Theory Branches
 

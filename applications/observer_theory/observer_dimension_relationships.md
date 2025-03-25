@@ -20,7 +20,7 @@ $$
 \text{集体系统维度} = f\left(\sum_{i=1}^{n} w_i \cdot \frac{I_{\text{个体}_i\text{经典知识}}}{S_{\text{个体}_i\text{经典熵}}}\right)
 $$
 
-其中$`w_i`$是每个个体在集体系统中的权重因子（影响力）。
+其中$w_i$是每个个体在集体系统中的权重因子（影响力）。
 
 这一关系揭示了以下关键机制：
 
@@ -164,7 +164,7 @@ $$
 \text{Collective System Dimension} = f\left(\sum_{i=1}^{n} w_i \cdot \frac{I_{\text{Individual}_i\text{ Classical Knowledge}}}{S_{\text{Individual}_i\text{ Classical Entropy}}}\right)
 $$
 
-Where $`w_i`$ is the weight factor (influence) of each individual in the collective system.
+Where $w_i$ is the weight factor (influence) of each individual in the collective system.
 
 This relationship reveals the following key mechanisms:
 

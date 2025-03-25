@@ -21,15 +21,15 @@ The Quantum-Classical Dualism of Human Evolution proposes that human evolution i
 
 ### Formal Definition of Evolution
 
-Based on quantum-classical dualism, biological evolution $`\mathcal{E}`$ can be formally defined as:
+Based on quantum-classical dualism, biological evolution $\mathcal{E}$ can be formally defined as:
 
 $$\mathcal{E} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{S}_E)$$
 
 Where:
-- $`\mathcal{E}_Q`$ is the quantum domain component of evolution (variation generation, possibility space exploration)
-- $`\mathcal{E}_C`$ is the classical domain component of evolution (natural selection, deterministic transmission)
-- $`\mathcal{I}_E`$ is the quantum-classical interface of evolution
-- $`\mathcal{S}_E`$ is the selection environment system
+- $\mathcal{E}_Q$ is the quantum domain component of evolution (variation generation, possibility space exploration)
+- $\mathcal{E}_C$ is the classical domain component of evolution (natural selection, deterministic transmission)
+- $\mathcal{I}_E$ is the quantum-classical interface of evolution
+- $\mathcal{S}_E$ is the selection environment system
 
 ### Core Evolution Axioms
 
@@ -38,28 +38,28 @@ A complete evolutionary process combines both quantum and classical essential pr
 
 $$\mathcal{E} = \mathcal{E}_Q \diamond \mathcal{E}_C$$
 
-Where $`\diamond`$ represents the evolutionary quantum-classical connection operation.
+Where $\diamond$ represents the evolutionary quantum-classical connection operation.
 
 **Axiom 2: Variation Quantumness**  
 Biological variations originate from quantum-level fluctuations and uncertainties:
 
 $$|\Psi_V\rangle = \sum_i \alpha_i |v_i\rangle$$
 
-Where $`|v_i\rangle`$ are basis vectors of possible variations, and $`\alpha_i`$ are complex amplitudes.
+Where $|v_i\rangle$ are basis vectors of possible variations, and $\alpha_i$ are complex amplitudes.
 
 **Axiom 3: Selection Classicality**  
 Natural selection processes follow classical mechanical laws, acting on realized phenotypes:
 
 $$F_S: \mathcal{C}(|\Psi_V\rangle) \rightarrow \mathcal{S}_E$$
 
-Where $`F_S`$ is the selection function, and $`\mathcal{C}`$ is the classicalization operation (from quantum possibilities to classical manifestation).
+Where $F_S$ is the selection function, and $\mathcal{C}$ is the classicalization operation (from quantum possibilities to classical manifestation).
 
 **Axiom 4: Evolutionary Dimensional Emergence**  
 The dimension of an evolving species is related to its quantum-classical balance capability:
 
 $$D_{\mathcal{E}} = f\left(\frac{\mathcal{E}_Q}{\mathcal{E}_C}\right) \cdot \frac{I_{adaptation}}{S_{degeneration}+\epsilon}$$
 
-Where $`I_{adaptation}`$ is the species' adaptation information, $`S_{degeneration}`$ is degenerative entropy, and $`\epsilon`$ is a small constant to prevent division by zero.
+Where $I_{adaptation}$ is the species' adaptation information, $S_{degeneration}$ is degenerative entropy, and $\epsilon$ is a small constant to prevent division by zero.
 
 ## Core Theory Content
 
@@ -69,7 +69,7 @@ Quantum foundation of biological variation generation:
 
 $$\frac{d|\Psi_G(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_G|\Psi_G(t)\rangle + \mathcal{D}_G(\rho_G)$$
 
-Where $`\hat{H}_G`$ is the genetic evolution Hamiltonian, and $`\mathcal{D}_G`$ is the environmental decoherence term.
+Where $\hat{H}_G$ is the genetic evolution Hamiltonian, and $\mathcal{D}_G$ is the environmental decoherence term.
 
 Quantum evolutionary characteristics include:
 1. **Quantum jumps**: Mutation leaps through quantum tunneling effects
@@ -81,7 +81,7 @@ Quantum mutation probability:
 
 $$P(m) = |\langle m|\hat{U}(t)|\Psi_G(0)\rangle|^2$$
 
-Where $`\hat{U}(t)`$ is the quantum evolution operator, and $`|m\rangle`$ is the specific mutation state.
+Where $\hat{U}(t)$ is the quantum evolution operator, and $|m\rangle$ is the specific mutation state.
 
 ### Classical Selection in Evolution
 
@@ -89,7 +89,7 @@ Natural selection as a classical filter:
 
 $$\frac{dp_i}{dt} = p_i(f_i - \bar{f})$$
 
-Where $`p_i`$ is the frequency of phenotype i, $`f_i`$ is fitness, and $`\bar{f}`$ is average fitness.
+Where $p_i$ is the frequency of phenotype i, $f_i$ is fitness, and $\bar{f}$ is average fitness.
 
 Key characteristics of classical selection:
 1. **Cumulativeness**: Cumulative effects of small beneficial variations
@@ -101,7 +101,7 @@ Multi-level selection equation:
 
 $$\frac{dX}{dt} = \sum_{i=1}^n v_i \cdot \frac{\text{Cov}(f_i, X_i)}{\bar{f}_i}$$
 
-Where $`v_i`$ are the selection weights at different levels.
+Where $v_i$ are the selection weights at different levels.
 
 ### Interface Dynamics of Evolution
 
@@ -121,7 +121,7 @@ Interface temperature dependence of evolutionary innovation:
 
 $$R_{innovation} \propto e^{-\frac{\Delta E}{k_B T_E}}$$
 
-Where $`T_E`$ is the evolutionary "temperature," representing the intensity of environmental fluctuations and selection pressure.
+Where $T_E$ is the evolutionary "temperature," representing the intensity of environmental fluctuations and selection pressure.
 
 ### Uniqueness of Human Evolution
 
@@ -129,13 +129,13 @@ Key features distinguishing human evolution from other organisms:
 
 $$\mathcal{H} = (\mathcal{E}_Q, \mathcal{E}_C, \mathcal{I}_E, \mathcal{C}_H, \mathcal{S}_C)$$
 
-Where $`\mathcal{C}_H`$ represents human consciousness characteristics, and $`\mathcal{S}_C`$ is the social-cultural environment.
+Where $\mathcal{C}_H$ represents human consciousness characteristics, and $\mathcal{S}_C$ is the social-cultural environment.
 
 Mathematical expression of human evolutionary uniqueness:
 
 $$D_{\mathcal{H}} = D_{\mathcal{E}} \cdot \Phi(\mathcal{C}_H, \mathcal{S}_C)$$
 
-Where $`\Phi`$ is the consciousness-culture amplification function.
+Where $\Phi$ is the consciousness-culture amplification function.
 
 Special aspects of human evolution:
 1. **Cumulative culture**: Cultural accumulation capacity beyond biological evolution
@@ -152,7 +152,7 @@ Changes in quantum-classical ratios in early human evolution:
 
 $$\frac{\mathcal{E}_Q}{\mathcal{E}_C}(t) = \frac{\mathcal{E}_Q^0}{\mathcal{E}_C^0} \cdot e^{-\lambda_B t}$$
 
-Where $`\lambda_B`$ is the biological evolution rate constant.
+Where $\lambda_B$ is the biological evolution rate constant.
 
 Early evolution was primarily driven by biological factors:
 1. **Brain capacity increase**: Expansion of quantum processing capacity
@@ -195,7 +195,7 @@ The process of civilization development can be represented as alternating quantu
 
 $$\mathcal{C}(t) = \sum_i \mathcal{C}(|\Psi_{V_i}\rangle) \cdot A_i(t)$$
 
-Where $`A_i(t)`$ are adoption curves for various innovations.
+Where $A_i(t)$ are adoption curves for various innovations.
 
 Quantum-classical balance in civilization development:
 1. **Knowledge accumulation**: Classical structuring and transmission of knowledge
@@ -209,7 +209,7 @@ Acceleration of technological development since the industrial revolution:
 
 $$R_{tech}(t) = R_0 e^{\eta t}$$
 
-Where $`R_{tech}`$ is the rate of technological progress, and $`\eta`$ is the exponential growth parameter.
+Where $R_{tech}$ is the rate of technological progress, and $\eta$ is the exponential growth parameter.
 
 Synergy of quantum-classical technologies:
 1. **Classical technologies**: Deterministic, predictable technological systems
@@ -224,7 +224,7 @@ Evolutionary trajectory of cognitive abilities:
 
 $$C(t) = C_0 + A\left(1 - e^{-\lambda_C t}\right) + B\cdot\Theta(t - t_{cognitive})$$
 
-Where $`\Theta`$ is the step function, representing the discontinuous jump brought by the cognitive revolution.
+Where $\Theta$ is the step function, representing the discontinuous jump brought by the cognitive revolution.
 
 Quantum-classical analysis of cognitive abilities:
 
@@ -242,7 +242,7 @@ Culture as a special evolutionary system:
 
 $$\mathcal{C}_E = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{T}_C)$$
 
-Where $`\mathcal{T}_C`$ is the cultural transmission mechanism.
+Where $\mathcal{T}_C$ is the cultural transmission mechanism.
 
 Special characteristics of cultural evolution:
 1. **Memetic propagation**: Quantum-classical propagation of cultural units
@@ -262,7 +262,7 @@ Interaction dynamics between genes and culture:
 
 $$\begin{pmatrix} \frac{dG}{dt} \\ \frac{dC}{dt} \end{pmatrix} = \begin{pmatrix} r_G & \alpha_{GC} \\ \alpha_{CG} & r_C \end{pmatrix} \begin{pmatrix} G \\ C \end{pmatrix}$$
 
-Where $`\alpha_{GC}`$ and $`\alpha_{CG}`$ are coupling coefficients.
+Where $\alpha_{GC}$ and $\alpha_{CG}$ are coupling coefficients.
 
 Quantum-classical analysis of coevolution:
 1. **Lactose tolerance**: Culturally driven genetic selection
@@ -274,7 +274,7 @@ Gene-culture evolution rate ratio:
 
 $$\frac{v_C}{v_G} = \frac{r_C}{r_G} \cdot \frac{\sigma_C^2}{\sigma_G^2}$$
 
-Where $`\sigma^2`$ is the variation amplitude.
+Where $\sigma^2$ is the variation amplitude.
 
 ### Quantum Leaps in Technological Evolution
 
@@ -282,7 +282,7 @@ Discontinuity in technological development:
 
 $$T(t) = \sum_i T_i \cdot \Theta(t - t_i)$$
 
-Where $`T_i`$ is the contribution of the i-th technological revolution, and $`t_i`$ is its occurrence time.
+Where $T_i$ is the contribution of the i-th technological revolution, and $t_i$ is its occurrence time.
 
 Quantum characteristics analysis of major technological revolutions:
 1. **Language**: Representation system of symbolic quantum superpositions
@@ -300,7 +300,7 @@ Divergent paths of future human evolution:
 
 $$\mathcal{H}_{future} = \sum_i p_i |\mathcal{H}_i\rangle$$
 
-Where $`|\mathcal{H}_i\rangle`$ are possible evolutionary paths, and $`p_i`$ are their realization probabilities.
+Where $|\mathcal{H}_i\rangle$ are possible evolutionary paths, and $p_i$ are their realization probabilities.
 
 Possible evolutionary paths:
 1. **Biological enhancement**: Direct intervention through genetic and biotechnology
@@ -348,7 +348,7 @@ Quantum-classical relationship between individuals and society:
 
 $$\mathcal{S}_C = \mathcal{F}(\{|\Psi_i\rangle\}, \{I_{ij}\})$$
 
-Where $`|\Psi_i\rangle`$ are individual states, and $`I_{ij}`$ are interaction intensities.
+Where $|\Psi_i\rangle$ are individual states, and $I_{ij}$ are interaction intensities.
 
 ## Conclusion
 

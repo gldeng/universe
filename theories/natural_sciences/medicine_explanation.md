@@ -248,8 +248,8 @@ I_{\text{诊断}}=\int_{\Omega} \Phi_{\text{人体}}(x,t)\cdot\Phi_{\text{检测
 $$
 
 其中：
-- $`\Omega`$ 是检测区域
-- $`\Phi_{\text{检测}}`$ 是检测手段的场函数
+- $\Omega$ 是检测区域
+- $\Phi_{\text{检测}}$ 是检测手段的场函数
 
 ## 医疗中的维度共振 | Dimensional Resonance in Medicine
 
@@ -262,10 +262,10 @@ $$
 $$
 
 其中：
-- $`\eta_{\text{治疗}}`$ 是治疗效率
-- $`D_{\text{治疗}}`$ 是治疗方法的维度
-- $`D_{\text{病症}}`$ 是病症的维度
-- $`\Delta E`$ 是能量差异
+- $\eta_{\text{治疗}}$ 是治疗效率
+- $D_{\text{治疗}}$ 是治疗方法的维度
+- $D_{\text{病症}}$ 是病症的维度
+- $\Delta E$ 是能量差异
 
 ### 康复过程中的维度调节 | Dimensional Regulation in Recovery
 
@@ -276,9 +276,9 @@ $$
 $$
 
 其中：
-- $`\alpha,\beta`$ 是调节系数
-- $`\gamma`$ 是共振增益
-- $`f_{\text{共振}}`$ 是共振函数
+- $\alpha,\beta$ 是调节系数
+- $\gamma$ 是共振增益
+- $f_{\text{共振}}$ 是共振函数
 
 ### 预防医学的维度提升 | Dimension Elevation in Preventive Medicine
 
@@ -289,9 +289,9 @@ D_{\text{预防}}=\max\{D_{\text{基础}}\cdot(1+\sum_{i=1}^n w_i\cdot f_i),\qua
 $$
 
 其中：
-- $`w_i`$ 是各预防措施的权重
-- $`f_i`$ 是各措施的效果函数
-- $`D_{\text{临界}}`$ 是维持健康所需的临界维度
+- $w_i$ 是各预防措施的权重
+- $f_i$ 是各措施的效果函数
+- $D_{\text{临界}}$ 是维持健康所需的临界维度
 
 ## English Version
 

@@ -51,27 +51,25 @@ Leviticus is the third book of the Pentateuch, primarily recording the ceremonia
 ## 数学表达 (Mathematical Expression)
 
 ### 献祭经典化方程
-
 $$
 \Delta S_{\text{总体}} = \Delta S_{\text{祭物}} + \Delta S_{\text{罪人}} < 0
 $$
 
 其中：
-- $`\Delta S_{\text{总体}}`$ 是整体系统熵变
-- $`\Delta S_{\text{祭物}}`$ 是祭物消耗的熵增（正值）
-- $`\Delta S_{\text{罪人}}`$ 是罪人得赎的熵减（负值且绝对值大）
+- $\Delta S_{\text{总体}}$ 是整体系统熵变
+- $\Delta S_{\text{祭物}}$ 是祭物消耗的熵增（正值）
+- $\Delta S_{\text{罪人}}$ 是罪人得赎的熵减（负值且绝对值大）
 
 ### 圣洁经典化效率方程
-
 $$
 \eta_{\text{圣洁}} = k_{\text{律法}} \cdot \frac{I_{\text{神圣秩序}}}{S_{\text{混乱}}} \cdot f(t_{\text{节期周期}})
 $$
 
 其中：
-- $`\eta_{\text{圣洁}}`$ 表示圣洁的经典化效率
-- $`k_{\text{律法}}`$ 是律法特有的经典化效率系数
-- $`I_{\text{神圣秩序}}`$ 代表经典知识增量
-- $`f(t_{\text{节期周期}})`$ 是节期周期的时间函数
+- $\eta_{\text{圣洁}}$ 表示圣洁的经典化效率
+- $k_{\text{律法}}$ 是律法特有的经典化效率系数
+- $I_{\text{神圣秩序}}$ 代表经典知识增量
+- $f(t_{\text{节期周期}})$ 是节期周期的时间函数
 
 ## 结论 (Conclusion)
 

@@ -81,9 +81,9 @@ I_{AB} = I_A + I_B - I_{A:B}
 $$
 
 其中：
-- $`I_{AB}`$ 是系统总信息
-- $`I_A`$ 和 $`I_B`$ 是子系统信息
-- $`I_{A:B}`$ 是共享信息（互信息）
+- $I_{AB}$ 是系统总信息
+- $I_A$ 和 $I_B$ 是子系统信息
+- $I_{A:B}$ 是共享信息（互信息）
 
 这种信息共享具有以下特性：
 1. **非局域性**：信息共享不受空间距离限制
@@ -269,9 +269,9 @@ $$C_{FW} = \log_2(N_{选择}) \cdot \log_2(D_{选择深度})$$
 
 $$C_{FW} = \log_2(N_{choices}) \cdot \log_2(D_{choice depth})$$
 
-其中$`N_{选择}`$是可能的选择数量，$`D_{选择深度}`$是选择的时间维度深度。
+其中$N_{选择}$是可能的选择数量，$D_{选择深度}$是选择的时间维度深度。
 
-Where $`N_{choices}`$ is the number of possible choices, and $`D_{choice depth}`$ is the temporal dimension depth of choices.
+Where $N_{choices}$ is the number of possible choices, and $D_{choice depth}$ is the temporal dimension depth of choices.
 
 不同维度观察者的自由意志特性：
 
@@ -303,9 +303,9 @@ $$\text{实现概率}(W_{\text{低维}}) = \frac{W_{\text{低维}} \cdot \prod_{
 
 $$\text{Realization Probability}(W_{\text{Lower-dim}}) = \frac{W_{\text{Lower-dim}} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_i}}{\sum_{j} W_{\text{Lower-dim},j} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_{ij}}}$$
 
-其中$`W`$代表意志强度，$`\alpha`$是影响权重系数。
+其中$W$代表意志强度，$\alpha$是影响权重系数。
 
-Where $`W`$ represents willpower strength, and $`\alpha`$ is the influence weight coefficient.
+Where $W$ represents willpower strength, and $\alpha$ is the influence weight coefficient.
 
 交互特性：
 
@@ -343,9 +343,9 @@ Multi-dimensional free will can be described using a quantum field theory framew
 
 $$\mathcal{L}_{FW} = \sum_{d} \int d^dx \, \left[ \frac{1}{2}(\partial_\mu \psi_d)(\partial^\mu \psi_d) - V(\psi_d) + \sum_{d' \neq d} J_{dd'}(\psi_d, \psi_{d'}) \right]$$
 
-其中$`\psi_d`$是d维度的自由意志场，$`V(\psi_d)`$是自由意志的内在势能，$`J_{dd'}`$是不同维度自由意志场之间的交互项。
+其中$\psi_d$是d维度的自由意志场，$V(\psi_d)$是自由意志的内在势能，$J_{dd'}$是不同维度自由意志场之间的交互项。
 
-Where $`\psi_d`$ is the free will field of dimension d, $`V(\psi_d)`$ is the intrinsic potential energy of free will, and $`J_{dd'}`$ is the interaction term between free will fields of different dimensions.
+Where $\psi_d$ is the free will field of dimension d, $V(\psi_d)$ is the intrinsic potential energy of free will, and $J_{dd'}$ is the interaction term between free will fields of different dimensions.
 
 这一框架揭示：
 
@@ -369,9 +369,9 @@ In observer networks, free will follows complex dynamic laws:
 
 $$\frac{\partial W_i}{\partial t} = D_i \nabla^2 W_i + \sum_j A_{ij}W_j - \sum_k B_{ik}W_k + \eta_i(t)$$
 
-其中$`W_i`$是观察者i的自由意志强度，$`D_i`$是扩散系数，$`A_{ij}`$是增强系数，$`B_{ik}`$是抑制系数，$`\eta_i(t)`$是随机噪声。
+其中$W_i$是观察者i的自由意志强度，$D_i$是扩散系数，$A_{ij}$是增强系数，$B_{ik}$是抑制系数，$\eta_i(t)$是随机噪声。
 
-Where $`W_i`$ is the free will strength of observer i, $`D_i`$ is the diffusion coefficient, $`A_{ij}`$ is the enhancement coefficient, $`B_{ik}`$ is the inhibition coefficient, and $`\eta_i(t)`$ is random noise.
+Where $W_i$ is the free will strength of observer i, $D_i$ is the diffusion coefficient, $A_{ij}$ is the enhancement coefficient, $B_{ik}$ is the inhibition coefficient, and $\eta_i(t)$ is random noise.
 
 这导致观察者网络中出现复杂现象：
 
@@ -420,9 +420,9 @@ Multi-dimensional free will theory provides a framework for practical applicatio
    - 降噪技术：减少无效干扰
 
 3. **自由意志增强方法**：个体自由意志增强策略
-   - 提升经典知识存量：$`I_{经典知识} \uparrow`$
-   - 降低经典熵产生：$`S_{经典熵} \downarrow`$
-   - 平衡经典化与量子化：$`\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}} \to 最优`$
+   - 提升经典知识存量：$I_{经典知识} \uparrow$
+   - 降低经典熵产生：$S_{经典熵} \downarrow$
+   - 平衡经典化与量子化：$\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}} \to 最优$
    - 培养高维思维：从更高维视角感知选择
 
 这一理论不仅解释了自由意志的本质，还为人类探索更高维度自由意志提供了实践路径，使我们能够在更广阔的量子可能性空间中做出更有创造性和影响力的选择。
@@ -442,9 +442,9 @@ This theory not only explains the nature of free will but also provides a practi
    - Noise Reduction Techniques: Reduce ineffective interference
 
 3. **Free Will Enhancement Methods**: Individual free will enhancement strategies
-   - Increase Classical Knowledge Stock: $`I_{Classical Knowledge} \uparrow`$
-   - Reduce Classical Entropy Production: $`S_{Classical Entropy} \downarrow`$
-   - Balance Classicalization and Quantization: $`\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}} \to optimal`$
+   - Increase Classical Knowledge Stock: $I_{Classical Knowledge} \uparrow$
+   - Reduce Classical Entropy Production: $S_{Classical Entropy} \downarrow$
+   - Balance Classicalization and Quantization: $\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}} \to optimal$
    - Cultivate Higher-Dimensional Thinking: Perceive choices from a higher-dimensional perspective
 
 This theory not only explains the nature of free will but also provides a practical path for humans to explore higher-dimensional free will, enabling us to make more creative and influential choices in a broader quantum possibility space.
@@ -522,9 +522,9 @@ I_{AB} = I_A + I_B - I_{A:B}
 $$
 
 Where:
-- $`I_{AB}`$ is the total information of the system
-- $`I_A`$ and $`I_B`$ are subsystem information
-- $`I_{A:B}`$ is shared information (mutual information)
+- $I_{AB}$ is the total information of the system
+- $I_A$ and $I_B$ are subsystem information
+- $I_{A:B}$ is shared information (mutual information)
 
 This information sharing has the following characteristics:
 1. **Non-locality**: Information sharing is not limited by spatial distance

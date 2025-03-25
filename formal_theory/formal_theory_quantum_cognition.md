@@ -40,7 +40,7 @@
 
 $$\Psi_{\text{认知}} = (\rho_Q, K_C, \mathcal{I})$$
 
-其中 $`\rho_Q`$ 是量子思维状态，$`K_C`$ 是经典知识结构，$`\mathcal{I}`$ 是两者间的转换界面。
+其中 $\rho_Q$ 是量子思维状态，$K_C$ 是经典知识结构，$\mathcal{I}$ 是两者间的转换界面。
 
 ### 2. 思维的量子-经典转换
 
@@ -70,7 +70,7 @@ $$\Psi_{\text{认知}} = (\rho_Q, K_C, \mathcal{I})$$
 
 $$\frac{d\rho_{\text{认知}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{认知}}] + \mathcal{L}_{\mathcal{C}}(\rho_{\text{认知}}) + \mathcal{L}_{\mathcal{Q}}(\rho_{\text{认知}})$$
 
-其中 $`\mathcal{L}_{\mathcal{C}}`$ 和 $`\mathcal{L}_{\mathcal{Q}}`$ 分别是经典化和量子化算符。
+其中 $\mathcal{L}_{\mathcal{C}}$ 和 $\mathcal{L}_{\mathcal{Q}}$ 分别是经典化和量子化算符。
 
 ### 3. 量子认知空间
 
@@ -123,7 +123,7 @@ $$|c_i \text{ AND } c_j\rangle = |c_i\rangle \otimes |c_j\rangle$$
 
 $$\rho_{\text{后验}} = \frac{\hat{M} \rho_{\text{先验}} \hat{M}^{\dagger}}{\text{tr}(\hat{M} \rho_{\text{先验}} \hat{M}^{\dagger})}$$
 
-其中 $`\hat{M}`$ 是表示新证据的测量算符。
+其中 $\hat{M}$ 是表示新证据的测量算符。
 
 #### 量子顺序效应
 决策受顺序影响的量子解释：
@@ -152,7 +152,7 @@ $$|\psi_{\text{发散}}\rangle = \sum_i \alpha_i |思路_i\rangle$$
 
 $$D_{\text{量子}} = \frac{S(\rho_{\text{思维}})}{1-\text{tr}(\rho_{\text{思维}}^2)}$$
 
-其中 $`S`$ 是冯诺依曼熵。
+其中 $S$ 是冯诺依曼熵。
 
 #### 经典收敛阶段
 经典化过程评估并选择有价值的想法：
@@ -168,7 +168,7 @@ $$\rho_{\text{思维}} \xrightarrow{\mathcal{C}_{\text{评估}}} |思路_{\text{
 
 $$C_{\text{创造}} = \eta \cdot D_{\text{量子}} \cdot E_{\text{经典}}$$
 
-其中 $`E_{\text{经典}}`$ 是经典评估效率，$`\eta`$ 是耦合参数。
+其中 $E_{\text{经典}}$ 是经典评估效率，$\eta$ 是耦合参数。
 
 ### 2. 记忆的量子双重编码
 
@@ -243,7 +243,7 @@ $$\rho_{\text{集体}} \xrightarrow{\text{互动}} |共识\rangle\langle共识|$
 
 $$U_A \otimes U_B |\psi_{\text{初始}}\rangle$$
 
-其中 $`U_A`$ 和 $`U_B`$ 是两个个体的策略选择算符。
+其中 $U_A$ 和 $U_B$ 是两个个体的策略选择算符。
 
 ## 实验预测与验证
 

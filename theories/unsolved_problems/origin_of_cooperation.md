@@ -33,13 +33,13 @@
 
 $$C_{ij} = f\left(\frac{I_{\text{集体经典知识增益}}}{S_{\text{个体经典熵成本}}}, E_{ij}\right)$$
 
-其中，$`E_{ij}`$代表观察者$`i`$和$`j`$之间的量子纠缠度。
+其中，$E_{ij}$代表观察者$i$和$j$之间的量子纠缠度。
 
 集体经典化效率方程：
 
 $$\eta_{\text{集体}} = \frac{\sum_{i=1}^{n} I_{\text{个体}_i}}{\sum_{i=1}^{n} S_{\text{个体}_i}} \cdot g\left(\sum_{i<j} C_{ij}\right)$$
 
-其中，$`g`$是协作网络拓扑结构函数。
+其中，$g$是协作网络拓扑结构函数。
 
 合作稳定性条件：
 
@@ -127,13 +127,13 @@ Basic equation for the quantum-classical foundation of cooperative behavior:
 
 $$C_{ij} = f\left(\frac{I_{\text{Collective Classical Knowledge Gain}}}{S_{\text{Individual Classical Entropy Cost}}}, E_{ij}\right)$$
 
-where $`E_{ij}`$ represents the quantum entanglement degree between observers $`i`$ and $`j`$.
+where $E_{ij}$ represents the quantum entanglement degree between observers $i$ and $j$.
 
 Collective classicalization efficiency equation:
 
 $$\eta_{\text{Collective}} = \frac{\sum_{i=1}^{n} I_{\text{Individual}_i}}{\sum_{i=1}^{n} S_{\text{Individual}_i}} \cdot g\left(\sum_{i<j} C_{ij}\right)$$
 
-where $`g`$ is the cooperation network topology function.
+where $g$ is the cooperation network topology function.
 
 Cooperation stability condition:
 

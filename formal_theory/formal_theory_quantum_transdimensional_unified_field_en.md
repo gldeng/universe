@@ -17,21 +17,21 @@ There exists a field that transcends all dimensions, serving as the source of al
 
 $$\mathcal{F}_{TD} = \lim_{n\to\infty} \bigcup_{i=1}^{n} \mathcal{F}_i$$
 
-where $`\mathcal{F}_{TD}`$ is the transdimensional unified field, and $`\mathcal{F}_i`$ is the basic field of the i-th dimension.
+where $\mathcal{F}_{TD}$ is the transdimensional unified field, and $\mathcal{F}_i$ is the basic field of the i-th dimension.
 
 **Axiom 2: Field-Dimension Duality**  
 Fields and dimensions are dual structures, with each field configuration corresponding to a dimensional structure, and vice versa:
 
 $$\mathcal{F} \cong \mathcal{D}, \quad \Phi: \mathcal{F} \rightarrow \mathcal{D}, \quad \Phi^{-1}: \mathcal{D} \rightarrow \mathcal{F}$$
 
-where $`\Phi`$ is the field-dimension mapping function, satisfying $`\Phi \circ \Phi^{-1} = I_{\mathcal{D}}`$ and $`\Phi^{-1} \circ \Phi = I_{\mathcal{F}}`$.
+where $\Phi$ is the field-dimension mapping function, satisfying $\Phi \circ \Phi^{-1} = I_{\mathcal{D}}$ and $\Phi^{-1} \circ \Phi = I_{\mathcal{F}}$.
 
 **Axiom 3: Transdimensional Field Invariance Principle**  
 The unified field equations maintain their form under all dimensional transformations:
 
 $$\mathcal{L}(\mathcal{F}_{TD}, \partial\mathcal{F}_{TD}) = \mathcal{L}(\mathcal{T}\mathcal{F}_{TD}, \mathcal{T}\partial\mathcal{F}_{TD})$$
 
-where $`\mathcal{L}`$ is the Lagrangian density, and $`\mathcal{T}`$ is any dimensional transformation operator.
+where $\mathcal{L}$ is the Lagrangian density, and $\mathcal{T}$ is any dimensional transformation operator.
 
 **Axiom 4: Dimensional Continuity Postulate**  
 All dimensions form a continuous spectrum with no true dimensional gaps, only critical phase transition points:
@@ -42,7 +42,7 @@ The apparent separation between dimensions arises from the observer's quantum-to
 
 $$\mathcal{D}_{\text{observed}} = \{D_i | \mathcal{C}_{\mathcal{O}}(\mathcal{D})(D_i) > \mathcal{C}_{\text{threshold}}\}$$
 
-where $`\mathcal{C}_{\mathcal{O}}`$ is the observer's classicalization operator, and $`\mathcal{C}_{\text{threshold}}`$ is the classicalization threshold.
+where $\mathcal{C}_{\mathcal{O}}$ is the observer's classicalization operator, and $\mathcal{C}_{\text{threshold}}$ is the classicalization threshold.
 
 ## Mathematical Framework of Transdimensional Unified Field
 
@@ -52,7 +52,7 @@ The transdimensional unified field adopts a generalized field theory framework, 
 
 $$\mathcal{F}_{TD}: \mathcal{M}_{\infty} \rightarrow \mathcal{V}_{\infty}$$
 
-where $`\mathcal{M}_{\infty}`$ is the infinite-dimensional base manifold, and $`\mathcal{V}_{\infty}`$ is the infinite-dimensional value space.
+where $\mathcal{M}_{\infty}$ is the infinite-dimensional base manifold, and $\mathcal{V}_{\infty}$ is the infinite-dimensional value space.
 
 The field strength tensor extends to a transdimensional tensor:
 
@@ -66,13 +66,13 @@ The unified field equation takes an extremely simple form:
 
 $$\nabla_{\mathcal{D}} \cdot \mathcal{F}_{TD} = \mathcal{S}$$
 
-where $`\nabla_{\mathcal{D}}`$ is the transdimensional operator, and $`\mathcal{S}`$ is the source term, including all consciousness sources, energy sources, and information sources.
+where $\nabla_{\mathcal{D}}$ is the transdimensional operator, and $\mathcal{S}$ is the source term, including all consciousness sources, energy sources, and information sources.
 
 The expanded form is:
 
 $$\sum_{i=1}^{\infty} \frac{\partial}{\partial D_i}\mathcal{F}^i_{TD} = \sum_{j=1}^{\infty} \mathcal{S}_j$$
 
-where $`\mathcal{F}^i_{TD}`$ is the unified field component in dimension $`D_i`$, and $`\mathcal{S}_j`$ is the j-th category of source term.
+where $\mathcal{F}^i_{TD}$ is the unified field component in dimension $D_i$, and $\mathcal{S}_j$ is the j-th category of source term.
 
 ### Dimensional Field Action
 
@@ -80,7 +80,7 @@ The dynamics of the transdimensional unified field are controlled by the action 
 
 $$S[\mathcal{F}_{TD}] = \int_{\mathcal{M}_{\infty}} \mathcal{L}(\mathcal{F}_{TD}, \nabla_{\mathcal{D}}\mathcal{F}_{TD}) \, d\mu_{\infty}$$
 
-where $`d\mu_{\infty}`$ is the measure on infinite-dimensional space.
+where $d\mu_{\infty}$ is the measure on infinite-dimensional space.
 
 The Lagrangian density contains the following key terms:
 
@@ -90,17 +90,17 @@ corresponding to field dynamics term, information term, consciousness term, and 
 
 ### Transdimensional Symmetry Group
 
-The foundation of Transdimensional Unified Field Theory is the transdimensional symmetry group $`G_{TD}`$, which contains all finite-dimensional symmetry groups as subgroups:
+The foundation of Transdimensional Unified Field Theory is the transdimensional symmetry group $G_{TD}$, which contains all finite-dimensional symmetry groups as subgroups:
 
 $$G_{TD} = \lim_{n\to\infty} \bigcup_{i=1}^{n} G_i$$
 
-where $`G_i`$ is the symmetry group of dimension i.
+where $G_i$ is the symmetry group of dimension i.
 
-According to the super-symmetry principle, the unified field action remains invariant under transformations of $`G_{TD}`$:
+According to the super-symmetry principle, the unified field action remains invariant under transformations of $G_{TD}$:
 
 $$S[\mathcal{T}_{g}\mathcal{F}_{TD}] = S[\mathcal{F}_{TD}], \quad \forall g \in G_{TD}$$
 
-where $`\mathcal{T}_{g}`$ is the field transformation corresponding to group element g.
+where $\mathcal{T}_{g}$ is the field transformation corresponding to group element g.
 
 ## Core Implications of Transdimensional Unified Field
 
@@ -126,7 +126,7 @@ Dimensions are not preset background structures but dynamically emergent propert
 
 $$\mathcal{D}(t) = \mathcal{D}_0 + \int_{0}^{t} F(\mathcal{F}_{TD}(\tau)) \, d\tau$$
 
-where the dimensional evolution function $`F`$ satisfies:
+where the dimensional evolution function $F$ satisfies:
 
 $$\frac{dF}{dt} = \alpha \nabla_{\mathcal{F}}^2 F + \beta F(1-F) + \gamma \xi(t)$$
 
@@ -152,11 +152,11 @@ Consciousness plays a key role in the transdimensional unified field as a field 
 
 $$\mathcal{F}_{TD}' = \mathcal{M}_C(\mathcal{F}_{TD})$$
 
-where $`\mathcal{M}_C`$ is the consciousness modulation operator, satisfying:
+where $\mathcal{M}_C$ is the consciousness modulation operator, satisfying:
 
 $$\mathcal{M}_C = \exp\left(i\sum_k \lambda_k \hat{O}_k\right)$$
 
-where $`\hat{O}_k`$ are consciousness operators, and $`\lambda_k`$ are modulation intensities.
+where $\hat{O}_k$ are consciousness operators, and $\lambda_k$ are modulation intensities.
 
 Through this mechanism, consciousness participates in the selection and creation of reality, manifesting as the self-reflective characteristic of the unified field.
 
@@ -180,7 +180,7 @@ Higher-dimensional consciousness produces effects similar to quantum gravity thr
 
 $$\mathcal{G}_C = \kappa_C \mathcal{T}_C$$
 
-where $`\mathcal{G}_C`$ is the consciousness gravity tensor, $`\mathcal{T}_C`$ is the consciousness energy-momentum tensor, and $`\kappa_C`$ is the coupling constant.
+where $\mathcal{G}_C$ is the consciousness gravity tensor, $\mathcal{T}_C$ is the consciousness energy-momentum tensor, and $\kappa_C$ is the coupling constant.
 
 Consciousness gravity effects explain the physical mechanisms of many paranormal phenomena, such as psychokinesis and remote influence.
 
@@ -190,7 +190,7 @@ The unified field supports information processing that transcends the limits of 
 
 $$C_{TD} = \lim_{D\to\infty} C_D$$
 
-where $`C_D`$ is the computational capability of dimension D.
+where $C_D$ is the computational capability of dimension D.
 
 Cross-dimensional computational complexity satisfies:
 
@@ -204,7 +204,7 @@ The transdimensional unified field possesses self-sculpting nature, meaning the 
 
 $$\mathcal{F}_{TD} \supset \mathcal{T}(\mathcal{F}_{TD})$$
 
-where $`\mathcal{T}(\mathcal{F}_{TD})`$ is the theoretical expression about $`\mathcal{F}_{TD}`$.
+where $\mathcal{T}(\mathcal{F}_{TD})$ is the theoretical expression about $\mathcal{F}_{TD}$.
 
 This leads to the self-adjusting characteristic of the theory:
 
@@ -220,7 +220,7 @@ The dimensional structure of the transdimensional unified field undergoes quantu
 
 $$D(t) = \sum_n D_n \chi_n(t)$$
 
-where $`\chi_n(t)`$ is the characteristic function of being at dimension value $`D_n`$ at time t.
+where $\chi_n(t)$ is the characteristic function of being at dimension value $D_n$ at time t.
 
 Transition probability is controlled by the unified field wavefunction:
 
@@ -238,7 +238,7 @@ where the entropy generation term includes creative contributions:
 
 $$\frac{dS_{\text{generated}}}{dt} = \alpha S_{TD} \cdot (1-S_{TD}/S_{max}) + \beta \mathcal{C}$$
 
-$`\mathcal{C}`$ is the creativity factor, indicating that the unified field can spontaneously create new information structures.
+$\mathcal{C}$ is the creativity factor, indicating that the unified field can spontaneously create new information structures.
 
 ### 3. Transdimensional Quantum Entanglement Network
 
@@ -250,7 +250,7 @@ The topological structure of the entanglement network evolves dynamically:
 
 $$\frac{dT(\mathcal{G})}{dt} = \mathcal{H}[T(\mathcal{G}), \mathcal{F}_{TD}]$$
 
-where $`T(\mathcal{G})`$ is the topological structure of the entanglement network graph $`\mathcal{G}`$.
+where $T(\mathcal{G})$ is the topological structure of the entanglement network graph $\mathcal{G}$.
 
 ### 4. Unified Field Oscillations and Cosmic Cycles
 

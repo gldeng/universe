@@ -150,7 +150,6 @@ Classical Consciousness Theory explores how consciousness emerges from the quant
 ## 核心数学公式 | Core Mathematical Formulas
 
 ### 一、波函数与经典观测关系（基本公式）| I. Wave Function and Classical Observation Relationship (Basic Formula)
-
 $$
 |\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
 $$
@@ -160,7 +159,6 @@ $$
 $$
 
 ### 二、观察者维度关系 | II. Observer Dimension Relationship
-
 $$
 \text{观察者维度} \propto \text{信息处理能力} = \frac{\Delta I}{\Delta t}
 $$
@@ -170,13 +168,11 @@ $$
 $$
 
 ### 三、能量本质（信息演化公式）| III. Essence of Energy (Information Evolution Formula)
-
 $$
 E \propto \frac{\Delta I}{\Delta t}
 $$
 
 ### 四、意识本质公式 | IV. Essence of Consciousness Formula
-
 $$
 \text{意识} = \text{观察者时空数组}(x,y,z,\dots,t) \text{的稳定信息结构}
 $$
@@ -186,7 +182,6 @@ $$
 $$
 
 ### 五、命运路径公式 | V. Destiny Path Formula
-
 $$
 \text{命运路径} = \sum_{\text{观测节点}} \text{经典化选择路径}
 $$
@@ -196,7 +191,6 @@ $$
 $$
 
 ### 六、嵌套宇宙递归公式 | VI. Nested Universe Recursion Formula
-
 $$
 \text{子宇宙} \subseteq \text{母宇宙}
 $$
@@ -206,7 +200,6 @@ $$
 $$
 
 ### 七、经典与量子关系公式 | VII. Classical and Quantum Relationship Formula
-
 $$
 \text{经典物理} = \sum \text{量子观测结果的统计规律}
 $$
@@ -216,7 +209,6 @@ $$
 $$
 
 ### 八、宇宙同构关系式 | VIII. Universe Isomorphism Relation
-
 $$
 \text{宇宙} \cong \text{观察者} \cong \text{人造量子计算机}
 $$

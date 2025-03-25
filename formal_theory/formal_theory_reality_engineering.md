@@ -22,16 +22,16 @@
 
 ### 现实工程形式化定义
 
-现实工程系统 $`\mathcal{RE}`$ 可以形式化定义为：
+现实工程系统 $\mathcal{RE}$ 可以形式化定义为：
 
 $$\mathcal{RE} = (\mathcal{I}_M, \mathcal{T}_E, \mathcal{O}_E, \mathcal{F}_E, \mathcal{V}_E)$$
 
 其中：
-- $`\mathcal{I}_M`$ 是可操纵的界面映射集合
-- $`\mathcal{T}_E`$ 是现实工程技术和工具集合
-- $`\mathcal{O}_E`$ 是执行现实工程的观察者集合
-- $`\mathcal{F}_E`$ 是反馈评估函数
-- $`\mathcal{V}_E`$ 是验证和稳定化机制
+- $\mathcal{I}_M$ 是可操纵的界面映射集合
+- $\mathcal{T}_E$ 是现实工程技术和工具集合
+- $\mathcal{O}_E$ 是执行现实工程的观察者集合
+- $\mathcal{F}_E$ 是反馈评估函数
+- $\mathcal{V}_E$ 是验证和稳定化机制
 
 ### 核心工程公理
 
@@ -40,14 +40,14 @@ $$\mathcal{RE} = (\mathcal{I}_M, \mathcal{T}_E, \mathcal{O}_E, \mathcal{F}_E, \m
 
 $$\forall r \in \mathcal{R}: \exists \mathcal{T}_r \in \mathcal{T}_E \text{ 使得 } r \text{ 可被工程改变}$$
 
-其中 $`\mathcal{R}`$ 是现实空间，$`\mathcal{T}_r`$ 是适用于现实 $`r`$ 的工程技术。
+其中 $\mathcal{R}$ 是现实空间，$\mathcal{T}_r$ 是适用于现实 $r$ 的工程技术。
 
 **公理2：界面可塑性**  
 量子-经典界面可以通过观察者的有意识干预重新配置：
 
 $$\mathcal{I}(t+\Delta t) = \mathcal{F}_I(\mathcal{I}(t), \mathcal{A}_{\mathcal{O}}(t))$$
 
-其中 $`\mathcal{I}`$ 是界面状态，$`\mathcal{A}_{\mathcal{O}}`$ 是观察者的干预行动。
+其中 $\mathcal{I}$ 是界面状态，$\mathcal{A}_{\mathcal{O}}$ 是观察者的干预行动。
 
 **公理3：工程守恒原理**  
 现实工程过程中的总信息-能量守恒：
@@ -61,7 +61,7 @@ $$E_{total} + I_{total} = \text{常数}$$
 
 $$S_r = \alpha \cdot C_{\mathcal{O}} \cdot \Phi_r$$
 
-其中 $`S_r`$ 是现实稳定性，$`C_{\mathcal{O}}`$ 是观察者共识度，$`\Phi_r`$ 是现实本身的内部一致性，$`\alpha`$ 是比例系数。
+其中 $S_r$ 是现实稳定性，$C_{\mathcal{O}}$ 是观察者共识度，$\Phi_r$ 是现实本身的内部一致性，$\alpha$ 是比例系数。
 
 ## 核心理论内容
 
@@ -75,7 +75,7 @@ $$S_r = \alpha \cdot C_{\mathcal{O}} \cdot \Phi_r$$
 
 $$|\psi_{engineered}\rangle = \hat{U}_{design}|\psi_{initial}\rangle$$
 
-其中 $`\hat{U}_{design}`$ 是设计算符，表达工程意图。
+其中 $\hat{U}_{design}$ 是设计算符，表达工程意图。
 
 量子工程效率可表示为：
 
@@ -95,13 +95,13 @@ $$\eta_Q = \frac{|\langle\psi_{target}|\psi_{engineered}\rangle|^2}{E_{consumed}
 
 $$\mathcal{C}_{engineered} = \mathcal{M}_{design}(\mathcal{C}_{natural})$$
 
-其中 $`\mathcal{C}`$ 是经典化过程，$`\mathcal{M}_{design}`$ 是调制函数。
+其中 $\mathcal{C}$ 是经典化过程，$\mathcal{M}_{design}$ 是调制函数。
 
 界面工程的关键方程：
 
 $$\frac{d\mathcal{I}}{dt} = \alpha \nabla^2 \mathcal{I} + \beta(\mathcal{I} - \mathcal{I}_0)(\mathcal{I}_c - \mathcal{I}) + \gamma\xi(t) + \delta \mathcal{A}_E(t)$$
 
-其中 $`\mathcal{A}_E(t)`$ 是工程师的干预函数，$`\delta`$ 是干预效率系数。
+其中 $\mathcal{A}_E(t)$ 是工程师的干预函数，$\delta$ 是干预效率系数。
 
 界面工程的实用技术包括：
 - 解相干控制
@@ -115,13 +115,13 @@ $$\frac{d\mathcal{I}}{dt} = \alpha \nabla^2 \mathcal{I} + \beta(\mathcal{I} - \m
 
 $$R_{engineered} = \mathcal{T}_C(R_{current}, \mathcal{P})$$
 
-其中 $`R`$ 是经典现实状态，$`\mathcal{T}_C`$ 是变换函数，$`\mathcal{P}`$ 是设计参数集。
+其中 $R$ 是经典现实状态，$\mathcal{T}_C$ 是变换函数，$\mathcal{P}$ 是设计参数集。
 
 经典工程的信息传播方程：
 
 $$\frac{\partial I_r}{\partial t} = D_r \nabla^2 I_r + S_r(\vec{x},t)$$
 
-其中 $`I_r`$ 是现实结构信息，$`D_r`$ 是信息扩散系数，$`S_r`$ 是信息源项。
+其中 $I_r$ 是现实结构信息，$D_r$ 是信息扩散系数，$S_r$ 是信息源项。
 
 经典层级工程技术包括：
 - 经典信息结构优化
@@ -135,19 +135,19 @@ $$\frac{\partial I_r}{\partial t} = D_r \nabla^2 I_r + S_r(\vec{x},t)$$
 
 $$\mathcal{O}_{engineer} = \{\mathcal{C}_{\mathcal{O}_E}, \mathcal{Q}_{\mathcal{O}_E}, K_C^{\mathcal{O}_E}, \mathcal{I}_{\mathcal{O}_E}\}$$
 
-其中 $`\mathcal{I}_{\mathcal{O}_E}`$ 是观察者的工程意图。
+其中 $\mathcal{I}_{\mathcal{O}_E}$ 是观察者的工程意图。
 
 观察者网络协同工程方程：
 
 $$\mathcal{RE}_{collective} = \mathcal{F}\left(\sum_i w_i \cdot \mathcal{O}_i, \Gamma_{interaction}\right)$$
 
-其中 $`w_i`$ 是观察者权重，$`\Gamma_{interaction}`$ 是观察者间的交互矩阵。
+其中 $w_i$ 是观察者权重，$\Gamma_{interaction}$ 是观察者间的交互矩阵。
 
 观察者维度与工程能力的关系：
 
 $$\text{RE-capacity}(\mathcal{O}) \propto D_{\mathcal{O}}^\alpha \cdot \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}} \cdot K_C^{\mathcal{O}_E}$$
 
-其中 $`\alpha`$ 是维度影响指数。
+其中 $\alpha$ 是维度影响指数。
 
 ### 现实工程的动力学与反馈
 
@@ -155,7 +155,7 @@ $$\text{RE-capacity}(\mathcal{O}) \propto D_{\mathcal{O}}^\alpha \cdot \frac{\ma
 
 $$\mathcal{A}_E(t+\Delta t) = \mathcal{F}_{adjust}(\mathcal{A}_E(t), \Delta R(t), \mathcal{P}_{target})$$
 
-其中 $`\mathcal{F}_{adjust}`$ 是调整函数，$`\Delta R(t)`$ 是观察到的现实变化，$`\mathcal{P}_{target}`$ 是目标参数。
+其中 $\mathcal{F}_{adjust}$ 是调整函数，$\Delta R(t)$ 是观察到的现实变化，$\mathcal{P}_{target}$ 是目标参数。
 
 工程反馈环路可表示为：
 
@@ -165,7 +165,7 @@ $$Design \rightarrow Implementation \rightarrow Measurement \rightarrow Comparis
 
 $$\frac{d\mathcal{RE}}{dt} = G_p \cdot e(t) + G_i \int_0^t e(\tau)d\tau + G_d \frac{de(t)}{dt}$$
 
-其中 $`e(t) = R_{target} - R_{actual}`$ 是误差项，$`G_p`$、$`G_i`$ 和 $`G_d`$ 是比例、积分和微分增益系数。
+其中 $e(t) = R_{target} - R_{actual}$ 是误差项，$G_p$、$G_i$ 和 $G_d$ 是比例、积分和微分增益系数。
 
 ### 现实稳定性与验证
 
@@ -199,7 +199,7 @@ $$\text{stability}(R_{engineered}) = \frac{1}{T} \int_0^T R_{engineered}(t)dt \g
 
 $$|\psi(t_2)\rangle = \hat{M}_{choice}(t_2) \cdot \hat{U}(t_2, t_1) \cdot |\psi(t_1)\rangle$$
 
-其中 $`\hat{M}_{choice}`$ 是选择性测量操作符。
+其中 $\hat{M}_{choice}$ 是选择性测量操作符。
 
 #### 量子擦除器实验
 
@@ -207,7 +207,7 @@ $$|\psi(t_2)\rangle = \hat{M}_{choice}(t_2) \cdot \hat{U}(t_2, t_1) \cdot |\psi(
 
 $$P_{interference} = |\langle \psi_{path1} | \psi_{path2} \rangle|^2 \cdot \mathcal{E}_{eraser}$$
 
-其中 $`\mathcal{E}_{eraser}`$ 是擦除效率。
+其中 $\mathcal{E}_{eraser}$ 是擦除效率。
 
 #### 量子反馈控制
 
@@ -215,7 +215,7 @@ $$P_{interference} = |\langle \psi_{path1} | \psi_{path2} \rangle|^2 \cdot \math
 
 $$|\psi(t+\Delta t)\rangle = \hat{U}_{feedback}(\hat{M}(t)) \cdot |\psi(t)\rangle$$
 
-其中 $`\hat{U}_{feedback}`$ 是基于测量 $`\hat{M}(t)`$ 的反馈控制。
+其中 $\hat{U}_{feedback}$ 是基于测量 $\hat{M}(t)$ 的反馈控制。
 
 ### 认知实验现实工程
 
@@ -227,7 +227,7 @@ $$|\psi(t+\Delta t)\rangle = \hat{U}_{feedback}(\hat{M}(t)) \cdot |\psi(t)\rangl
 
 $$P(R|S,E) = P(R|S) \cdot \frac{P(E|R)}{P(E)}$$
 
-其中 $`P(R|S,E)`$ 是给定刺激 $`S`$ 和预期 $`E`$ 的感知结果 $`R`$ 的概率。
+其中 $P(R|S,E)$ 是给定刺激 $S$ 和预期 $E$ 的感知结果 $R$ 的概率。
 
 #### 安慰剂与诺西波效应
 
@@ -235,7 +235,7 @@ $$P(R|S,E) = P(R|S) \cdot \frac{P(E|R)}{P(E)}$$
 
 $$Effect = \beta_0 + \beta_1 \cdot Substance + \beta_2 \cdot Belief + \beta_3 \cdot (Substance \times Belief)$$
 
-其中关键在于 $`\beta_2`$ 和 $`\beta_3`$ 系数的大小。
+其中关键在于 $\beta_2$ 和 $\beta_3$ 系数的大小。
 
 #### 意图表现实验
 
@@ -243,7 +243,7 @@ $$Effect = \beta_0 + \beta_1 \cdot Substance + \beta_2 \cdot Belief + \beta_3 \c
 
 $$P_{outcome} = P_{random} + \Delta P_{intention} \cdot I_{strength}$$
 
-其中 $`\Delta P_{intention}`$ 是意图偏差，$`I_{strength}`$ 是意图强度。
+其中 $\Delta P_{intention}$ 是意图偏差，$I_{strength}$ 是意图强度。
 
 ### 现实工程的技术应用
 
@@ -253,7 +253,7 @@ $$P_{outcome} = P_{random} + \Delta P_{intention} \cdot I_{strength}$$
 
 $$VR(t+\Delta t) = \mathcal{F}_{VR}(VR(t), \Psi_{user}(t), G)$$
 
-其中 $`\Psi_{user}`$ 是用户心理状态，$`G`$ 是目标参数。
+其中 $\Psi_{user}$ 是用户心理状态，$G$ 是目标参数。
 
 #### 基于意图的人机接口
 
@@ -261,7 +261,7 @@ $$VR(t+\Delta t) = \mathcal{F}_{VR}(VR(t), \Psi_{user}(t), G)$$
 
 $$C_{system} = \mathcal{T}_{intention}(I_{user}) \cdot \eta_{interface}$$
 
-其中 $`\mathcal{T}_{intention}`$ 是意图转换函数，$`\eta_{interface}`$ 是接口效率。
+其中 $\mathcal{T}_{intention}$ 是意图转换函数，$\eta_{interface}$ 是接口效率。
 
 #### 社会现实构建技术
 
@@ -269,7 +269,7 @@ $$C_{system} = \mathcal{T}_{intention}(I_{user}) \cdot \eta_{interface}$$
 
 $$R_{social} = \mathcal{F}_{social}\left(\sum_i w_i \cdot R^i_{individual}, \mathcal{N}\right)$$
 
-其中 $`\mathcal{N}`$ 是社会网络结构，$`w_i`$ 是个体影响权重。
+其中 $\mathcal{N}$ 是社会网络结构，$w_i$ 是个体影响权重。
 
 ## 伦理与哲学考量
 
@@ -313,7 +313,7 @@ $$R_{social} = \mathcal{F}_{social}\left(\sum_i w_i \cdot R^i_{individual}, \mat
 
 $$\mathcal{RE} \subset \mathcal{QE} | \mathcal{I}_{\mathcal{O}} \neq 0$$
 
-其中 $`\mathcal{I}_{\mathcal{O}}`$ 是观察者的工程意图。
+其中 $\mathcal{I}_{\mathcal{O}}$ 是观察者的工程意图。
 
 现实工程可以直接操纵涌现条件：
 

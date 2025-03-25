@@ -155,7 +155,7 @@ $$
 \text{"尽心尽性尽力爱神"} \Leftrightarrow \max\left(\mathcal{C}(\mathcal{O}_{\text{人}}, |\psi\rangle_{\text{量子域}})\right)
 $$
 
-其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{C}`$表示连通性函数
+其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$\mathcal{C}$表示连通性函数
 
 ## 结论
 ## Conclusion

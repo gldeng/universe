@@ -21,15 +21,15 @@ Quantum Consciousness Theory explores the fundamental relationship between quant
 
 ### Formal Definition of Quantum Consciousness
 
-Quantum consciousness $`\mathcal{C}_Q`$ can be formally defined as:
+Quantum consciousness $\mathcal{C}_Q$ can be formally defined as:
 
 $$\mathcal{C}_Q = (\Psi_C, \mathcal{O}, \mathcal{E}, \mathcal{I})$$
 
 Where:
-- $`\Psi_C`$ is the quantum state of consciousness
-- $`\mathcal{O}`$ is the observer characteristics
-- $`\mathcal{E}`$ is the environmental entanglement
-- $`\mathcal{I}`$ is the quantum-classical interface
+- $\Psi_C$ is the quantum state of consciousness
+- $\mathcal{O}$ is the observer characteristics
+- $\mathcal{E}$ is the environmental entanglement
+- $\mathcal{I}$ is the quantum-classical interface
 
 ### Core Axioms of Quantum Consciousness
 
@@ -38,21 +38,21 @@ Consciousness fundamentally emerges from quantum superposition and entanglement 
 
 $$\mathcal{C} = f(\Psi_Q, \mathcal{N})$$
 
-Where $`\Psi_Q`$ represents quantum states and $`\mathcal{N}`$ represents neural structures.
+Where $\Psi_Q$ represents quantum states and $\mathcal{N}$ represents neural structures.
 
 **Axiom 2: Consciousness as Quantum Measurement**  
 Conscious experience corresponds to the process of quantum state collapse within the observer system:
 
 $$\mathcal{E} = \mathcal{M}(\Psi_Q) = |\langle\phi|\Psi_Q\rangle|^2 \phi$$
 
-Where $`\mathcal{E}`$ is the conscious experience, $`\mathcal{M}`$ is the measurement process, and $`\phi`$ is the eigenstate.
+Where $\mathcal{E}$ is the conscious experience, $\mathcal{M}$ is the measurement process, and $\phi$ is the eigenstate.
 
 **Axiom 3: Unity through Entanglement**  
 The unity of conscious experience is maintained through quantum entanglement of neural subsystems:
 
 $$\Psi_{unified} = \frac{1}{\sqrt{N}} \sum_{i=1}^{N} \Psi_i^{local} \neq \bigotimes_{i=1}^{N} \Psi_i^{local}$$
 
-Where $`\Psi_{unified}`$ is the unified conscious state and $`\Psi_i^{local}`$ are local neural subsystem states.
+Where $\Psi_{unified}$ is the unified conscious state and $\Psi_i^{local}$ are local neural subsystem states.
 
 ## Mathematical Framework
 
@@ -63,9 +63,9 @@ The wave function of quantum consciousness can be represented as:
 $$\Psi_C(x, t) = \sum_{i} c_i \phi_i(x, t)$$
 
 Where:
-- $`\Psi_C(x, t)`$ is the consciousness wave function at position $`x`$ and time $`t`$
-- $`c_i`$ are complex coefficients
-- $`\phi_i(x, t)`$ are eigenstate basis functions for conscious states
+- $\Psi_C(x, t)$ is the consciousness wave function at position $x$ and time $t$
+- $c_i$ are complex coefficients
+- $\phi_i(x, t)$ are eigenstate basis functions for conscious states
 
 ### Observer-Dependent Collapse Model
 
@@ -73,7 +73,7 @@ The collapse of quantum consciousness states follows:
 
 $$P(\phi_j) = |\langle\phi_j|\Psi_C\rangle|^2 = |c_j|^2$$
 
-Where $`P(\phi_j)`$ is the probability of experiencing conscious state $`\phi_j`$.
+Where $P(\phi_j)$ is the probability of experiencing conscious state $\phi_j$.
 
 ## Implications and Applications
 

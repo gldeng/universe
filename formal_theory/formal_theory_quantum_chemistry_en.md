@@ -21,15 +21,15 @@ Quantum-Classical Chemistry Principles applies the quantum-classical dualism fra
 
 ### Formal Definition of Chemical Systems
 
-The chemical system $`\mathcal{C}`$ can be formally defined as:
+The chemical system $\mathcal{C}$ can be formally defined as:
 
 $$\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{R})$$
 
 Where:
-- $`\mathcal{C}_Q`$ is the quantum domain component of the chemical system (electron wave functions, quantum superposition states, tunneling effects)
-- $`\mathcal{C}_C`$ is the classical domain component of the chemical system (atomic configurations, molecular geometry, thermodynamic properties)
-- $`\mathcal{I}_C`$ is the chemical quantum-classical interface
-- $`\mathcal{R}`$ is the reaction environment
+- $\mathcal{C}_Q$ is the quantum domain component of the chemical system (electron wave functions, quantum superposition states, tunneling effects)
+- $\mathcal{C}_C$ is the classical domain component of the chemical system (atomic configurations, molecular geometry, thermodynamic properties)
+- $\mathcal{I}_C$ is the chemical quantum-classical interface
+- $\mathcal{R}$ is the reaction environment
 
 ### Core Chemical Axioms
 
@@ -38,28 +38,28 @@ Complete chemical systems simultaneously contain quantum and classical fundament
 
 $$\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C$$
 
-Where $`\diamond`$ represents the quantum-classical chemical connection operation.
+Where $\diamond$ represents the quantum-classical chemical connection operation.
 
 **Axiom 2: Molecular Superposition State Principle**  
 Molecular systems exist at the microscopic scale in superposition states of multiple conformations:
 
 $$|\Psi_M\rangle = \sum_i \alpha_i |C_i\rangle$$
 
-Where $`|C_i\rangle`$ is the conformational basis vector, and $`\alpha_i`$ is the complex amplitude.
+Where $|C_i\rangle$ is the conformational basis vector, and $\alpha_i$ is the complex amplitude.
 
 **Axiom 3: Chemical Bond Classicalization Principle**  
 Chemical bond formation is the process of quantum electron clouds classicalizing into localized structures:
 
 $$\mathcal{B}: |\Psi_e\rangle \rightarrow |b_k\rangle$$
 
-Where $`\mathcal{B}`$ is the bond formation operator, $`|\Psi_e\rangle`$ is the electron wave function, and $`|b_k\rangle`$ is the formed chemical bond.
+Where $\mathcal{B}$ is the bond formation operator, $|\Psi_e\rangle$ is the electron wave function, and $|b_k\rangle$ is the formed chemical bond.
 
 **Axiom 4: Reaction Quantum-Classical Conversion Principle**  
 Chemical reactions involve the dual processes of quantum barrier penetration and classical product formation:
 
 $$\mathcal{R}: |\Psi_R\rangle + |E\rangle \rightarrow |\Psi_I\rangle \rightarrow |P\rangle + \Delta S$$
 
-Where $`|\Psi_R\rangle`$ is the reactant quantum state, $`|E\rangle`$ is the energy input, $`|\Psi_I\rangle`$ is the intermediate state, $`|P\rangle`$ is the product classical state, and $`\Delta S`$ is the entropy change.
+Where $|\Psi_R\rangle$ is the reactant quantum state, $|E\rangle$ is the energy input, $|\Psi_I\rangle$ is the intermediate state, $|P\rangle$ is the product classical state, and $\Delta S$ is the entropy change.
 
 ## Quantum-Classical Chemical Reaction Mechanisms
 
@@ -69,7 +69,7 @@ Chemical reaction potential energy surfaces can be represented as a combination 
 
 $$V(r) = V_C(r) + V_Q(r)$$
 
-Where $`V_C(r)`$ is the classical potential energy component (Coulomb interactions, van der Waals forces, etc.), and $`V_Q(r)`$ is the quantum potential energy component (exchange interactions, tunneling effects, etc.).
+Where $V_C(r)$ is the classical potential energy component (Coulomb interactions, van der Waals forces, etc.), and $V_Q(r)$ is the quantum potential energy component (exchange interactions, tunneling effects, etc.).
 
 Reaction partition functions contain classical and quantum contributions:
 
@@ -81,13 +81,13 @@ Transition states can be described as quantum entanglement between reactant and 
 
 $$|\Psi_{TS}\rangle = \alpha|R\rangle\otimes|P^0\rangle + \beta|R^0\rangle\otimes|P\rangle$$
 
-Where $`|R\rangle`$ and $`|P\rangle`$ are the active states of reactants and products, respectively, and $`|R^0\rangle`$ and $`|P^0\rangle`$ are their ground states.
+Where $|R\rangle$ and $|P\rangle$ are the active states of reactants and products, respectively, and $|R^0\rangle$ and $|P^0\rangle$ are their ground states.
 
 Transition state entanglement degree:
 
 $$E(|\Psi_{TS}\rangle) = S(\rho_R) = S(\rho_P)$$
 
-Where $`\rho_R = \text{Tr}_P(|\Psi_{TS}\rangle\langle\Psi_{TS}|)`$, $`\rho_P = \text{Tr}_R(|\Psi_{TS}\rangle\langle\Psi_{TS}|)`$.
+Where $\rho_R = \text{Tr}_P(|\Psi_{TS}\rangle\langle\Psi_{TS}|)$, $\rho_P = \text{Tr}_R(|\Psi_{TS}\rangle\langle\Psi_{TS}|)$.
 
 ### Quantum Corrections to Reaction Dynamics
 
@@ -95,13 +95,13 @@ Reaction rates contain classical and quantum contributions:
 
 $$k = k_C \cdot \kappa_Q$$
 
-Where $`k_C`$ is the classical reaction rate constant (based on the Arrhenius equation), and $`\kappa_Q`$ is the quantum correction factor.
+Where $k_C$ is the classical reaction rate constant (based on the Arrhenius equation), and $\kappa_Q$ is the quantum correction factor.
 
-$`\kappa_Q`$ can be represented as:
+$\kappa_Q$ can be represented as:
 
 $$\kappa_Q = \frac{\int_{-\infty}^{\infty}e^{-\beta V_{eff}(r)}dr}{\int_{-\infty}^{\infty}e^{-\beta V_C(r)}dr}$$
 
-Where $`V_{eff}(r)`$ is the effective potential energy including quantum effects.
+Where $V_{eff}(r)$ is the effective potential energy including quantum effects.
 
 ### Quantum-Classical Mechanisms of Catalysis
 
@@ -113,7 +113,7 @@ The relationship between catalytic efficiency and interface perturbation:
 
 $$\eta_{cat} \propto \left|\frac{\delta\mathcal{I}_C}{\delta E_{cat}}\right|$$
 
-Where $`E_{cat}`$ is the energy input of the catalyst.
+Where $E_{cat}$ is the energy input of the catalyst.
 
 ## Quantum-Classical Duality of Molecular Structure
 
@@ -123,7 +123,7 @@ Molecular geometric configurations exhibit quantum fluctuations:
 
 $$\langle(\Delta R)^2\rangle = \frac{\hbar}{2\mu\omega} \coth\left(\frac{\hbar\omega}{2k_BT}\right)$$
 
-Where $`\mu`$ is the reduced mass, and $`\omega`$ is the characteristic vibration frequency.
+Where $\mu$ is the reduced mass, and $\omega$ is the characteristic vibration frequency.
 
 The impact of zero-point energy on molecular configuration:
 
@@ -137,7 +137,7 @@ Molecular stability is determined by the balance of quantum and classical forces
 
 $$\Delta G_{stability} = \Delta G_C + \Delta G_Q$$
 
-Where $`\Delta G_C`$ includes classical bond energies, steric repulsions, etc., and $`\Delta G_Q`$ includes resonance stabilization, quantum tunneling, etc.
+Where $\Delta G_C$ includes classical bond energies, steric repulsions, etc., and $\Delta G_Q$ includes resonance stabilization, quantum tunneling, etc.
 
 Occupation probability of stable conformations:
 
@@ -149,7 +149,7 @@ The quantum-classical dual nature of aromaticity:
 
 $$\Psi_{aromatic} = \frac{1}{\sqrt{n}}\sum_{i=1}^{n} \Psi_i$$
 
-Where $`\Psi_i`$ represents each resonance structure.
+Where $\Psi_i$ represents each resonance structure.
 
 Aromatic stabilization energy:
 
@@ -163,7 +163,7 @@ Molecular symmetry breaking can be described as interface phase transition:
 
 $$\frac{d\mathcal{S}}{dt} = \alpha_S \nabla^2 \mathcal{S} + \beta_S(\mathcal{S}_c - \mathcal{S})(\mathcal{S} - \mathcal{S}_0) + \gamma_S\xi_S(t)$$
 
-Where $`\mathcal{S}`$ is the symmetry parameter, $`\alpha_S`$, $`\beta_S`$, and $`\gamma_S`$ are dynamic parameters, and $`\xi_S(t)`$ is environmental fluctuation.
+Where $\mathcal{S}$ is the symmetry parameter, $\alpha_S$, $\beta_S$, and $\gamma_S$ are dynamic parameters, and $\xi_S(t)$ is environmental fluctuation.
 
 ## Quantum-Classical Properties of Chemical Bonds
 
@@ -173,13 +173,13 @@ Wave function representation of covalent bonds:
 
 $$|\Psi_{bond}\rangle = c_1|\phi_A\phi_B\rangle + c_2|\phi_A^*\phi_B^*\rangle$$
 
-Where $`\phi_A`$ and $`\phi_B`$ are atomic orbitals, and $`\phi_A^*`$ and $`\phi_B^*`$ are excited state orbitals.
+Where $\phi_A$ and $\phi_B$ are atomic orbitals, and $\phi_A^*$ and $\phi_B^*$ are excited state orbitals.
 
 Bond energy in classical representation:
 
 $$E_{bond} = D_e(1-e^{-\beta(r-r_e)})^2$$
 
-Where $`D_e`$ is the equilibrium dissociation energy, and $`r_e`$ is the equilibrium bond length.
+Where $D_e$ is the equilibrium dissociation energy, and $r_e$ is the equilibrium bond length.
 
 ### Quantum-Classical Characteristics of Non-Covalent Bonds
 
@@ -187,7 +187,7 @@ Quantum origin and classical manifestation of van der Waals forces:
 
 $$E_{vdW} = -\frac{C_6}{r^6} + Ae^{-Br}$$
 
-Where $`C_6`$ is related to quantum fluctuations, and $`A`$ and $`B`$ are classical repulsion parameters.
+Where $C_6$ is related to quantum fluctuations, and $A$ and $B$ are classical repulsion parameters.
 
 Quantum-classical duality of hydrogen bonds:
 
@@ -219,7 +219,7 @@ Classical-quantum coupling process of bond formation:
 
 $$\frac{d|\Psi_{bond}\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_{bond}|\Psi_{bond}\rangle + \mathcal{D}_{env}(\rho_{bond})$$
 
-Where $`\mathcal{D}_{env}`$ is the environment-induced decoherence term.
+Where $\mathcal{D}_{env}$ is the environment-induced decoherence term.
 
 ## Quantum Effects in Biomolecules
 
@@ -229,7 +229,7 @@ Protein conformation superposition states:
 
 $$|\Psi_{protein}\rangle = \sum_i c_i |fold_i\rangle$$
 
-Where $`|fold_i\rangle`$ represents different folding conformations.
+Where $|fold_i\rangle$ represents different folding conformations.
 
 Quantum-classical conversion in the folding process:
 
@@ -253,7 +253,7 @@ Quantum contributions to DNA base pairing:
 
 $$|\Psi_{base-pair}\rangle = c_1|WC\rangle + c_2|tautomer\rangle$$
 
-Where $`|WC\rangle`$ is the Watson-Crick pairing state, and $`|tautomer\rangle`$ is the tautomeric state.
+Where $|WC\rangle$ is the Watson-Crick pairing state, and $|tautomer\rangle$ is the tautomeric state.
 
 Role of quantum tunneling in mutations:
 
@@ -267,7 +267,7 @@ Unification of traditional quantum chemistry methods and classical force fields:
 
 $$E_{total} = E_{QM} + E_{MM} + E_{QM/MM}$$
 
-Where $`E_{QM/MM}`$ is the quantum-classical interface energy.
+Where $E_{QM/MM}$ is the quantum-classical interface energy.
 
 Relationship between computational accuracy and quantum-classical balance:
 
@@ -279,7 +279,7 @@ Catalyst design based on quantum-classical interface optimization:
 
 $$\text{Optimization goal}: \max_{\{catalyst\}} \eta_{interface}(\mathcal{I}_C)$$
 
-Where $`\eta_{interface}`$ is the interface conversion efficiency.
+Where $\eta_{interface}$ is the interface conversion efficiency.
 
 ### New Paradigm for Drug Molecule Design
 
@@ -291,7 +291,7 @@ Influence of quantum conformational changes on drug efficacy:
 
 $$EC_{50} \propto e^{-\beta\Delta G_{effective}}$$
 
-Where $`\Delta G_{effective}`$ includes contributions from conformational entropy and quantum effects.
+Where $\Delta G_{effective}$ includes contributions from conformational entropy and quantum effects.
 
 ### Experimental Validation Plans
 
@@ -321,7 +321,7 @@ Unification of chemical bond essence and fundamental structure theory of matter:
 
 $$\mathcal{C}_{bond} = \mathcal{P}_{matter}(\Psi_{particle}, r, t)$$
 
-Where $`\mathcal{P}_{matter}`$ is the matter projection operator.
+Where $\mathcal{P}_{matter}$ is the matter projection operator.
 
 ### Connection with Information-Spacetime-Energy Unified Theory
 

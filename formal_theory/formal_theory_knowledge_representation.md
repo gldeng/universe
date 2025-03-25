@@ -29,8 +29,8 @@
 $$K = (K_Q, K_C)$$
 
 其中：
-- $`K_Q`$ 表示知识的量子表征（隐性知识、可能性空间、直觉理解）
-- $`K_C`$ 表示知识的经典表征（显性知识、确定结构、形式化表达）
+- $K_Q$ 表示知识的量子表征（隐性知识、可能性空间、直觉理解）
+- $K_C$ 表示知识的经典表征（显性知识、确定结构、形式化表达）
 
 ### 1.2 知识表征空间
 
@@ -39,31 +39,31 @@ $$K = (K_Q, K_C)$$
 $$\mathcal{K} = \mathcal{K}_Q \cup \mathcal{K}_C$$
 
 其中：
-- $`\mathcal{K}_Q`$ 是希尔伯特空间，表示知识的量子可能性分布
-- $`\mathcal{K}_C`$ 是经典相空间，表示知识的确定性结构
+- $\mathcal{K}_Q$ 是希尔伯特空间，表示知识的量子可能性分布
+- $\mathcal{K}_C$ 是经典相空间，表示知识的确定性结构
 
 知识表征的量子态可表示为：
 
 $$|\psi_K\rangle = \sum_i \alpha_i |k_i\rangle$$
 
-其中 $`|k_i\rangle`$ 是知识基矢量，$`\alpha_i`$ 是复振幅。
+其中 $|k_i\rangle$ 是知识基矢量，$\alpha_i$ 是复振幅。
 
 ### 1.3 知识转换算符
 
 定义两类核心转换算符：
 
-1. **知识经典化算符** $`\mathcal{C}_K`$：将量子知识转换为经典知识
+1. **知识经典化算符** $\mathcal{C}_K$：将量子知识转换为经典知识
    $$\mathcal{C}_K: \mathcal{K}_Q \rightarrow \mathcal{K}_C$$
 
-2. **知识量子化算符** $`\mathcal{Q}_K`$：将经典知识转换为量子知识
+2. **知识量子化算符** $\mathcal{Q}_K$：将经典知识转换为量子知识
    $$\mathcal{Q}_K: \mathcal{K}_C \rightarrow \mathcal{K}_Q$$
 
 ### 1.4 知识信息度量
 
-1. **量子知识信息** $`I_Q(K)`$：量子态的冯诺依曼熵
+1. **量子知识信息** $I_Q(K)$：量子态的冯诺依曼熵
    $$I_Q(K) = -\text{Tr}(\rho_K \ln \rho_K)$$
 
-2. **经典知识信息** $`I_C(K)`$：经典表征的香农熵
+2. **经典知识信息** $I_C(K)$：经典表征的香农熵
    $$I_C(K) = -\sum_i p_i \log_2 p_i$$
 
 3. **知识信息守恒**：
@@ -91,7 +91,7 @@ $$|\psi_K\rangle = \sum_i \alpha_i |k_i\rangle$$
 
 $$i\hbar\frac{\partial |\psi_K\rangle}{\partial t} = \hat{H}_K |\psi_K\rangle$$
 
-其中 $`\hat{H}_K`$ 是知识哈密顿算符。
+其中 $\hat{H}_K$ 是知识哈密顿算符。
 
 ### 2.2 经典知识表征
 
@@ -113,7 +113,7 @@ $$i\hbar\frac{\partial |\psi_K\rangle}{\partial t} = \hat{H}_K |\psi_K\rangle$$
 
 $$\frac{\partial K_C}{\partial t} = D_K \nabla^2 K_C + \vec{v} \cdot \nabla K_C$$
 
-其中 $`D_K`$ 是知识扩散系数，$`\vec{v}`$ 是知识流动场。
+其中 $D_K$ 是知识扩散系数，$\vec{v}$ 是知识流动场。
 
 ### 2.3 知识界面结构
 
@@ -125,7 +125,7 @@ $$\mathcal{I}_K = \mathcal{K}_Q \cap \mathcal{K}_C$$
 
 $$\mathcal{D}_K(k) = 1 - \frac{\text{Tr}(\rho_K^2)}{[\text{Tr}(\rho_K)]^2}$$
 
-当 $`\mathcal{D}_K(k) = \mathcal{D}_c`$ 时，知识处于界面状态。
+当 $\mathcal{D}_K(k) = \mathcal{D}_c$ 时，知识处于界面状态。
 
 ## 3. 知识转换机制
 
@@ -135,7 +135,7 @@ $$\mathcal{D}_K(k) = 1 - \frac{\text{Tr}(\rho_K^2)}{[\text{Tr}(\rho_K)]^2}$$
 
 $$K_C = \mathcal{C}_K(K_Q) = \sum_i P_i K_Q P_i$$
 
-其中 $`P_i`$ 是投影算符，将量子知识投影到特定语义空间。
+其中 $P_i$ 是投影算符，将量子知识投影到特定语义空间。
 
 经典化过程的数学特性：
 
@@ -171,7 +171,7 @@ $$K_Q = \mathcal{Q}_K(K_C) = \sum_{i,j} \alpha_{ij} |k_i\rangle\langle k_j|$$
 
 $$\mathcal{M}_K(K_Q) = \sum_m M_m K_Q M_m^\dagger$$
 
-其中 $`M_m`$ 是测量算符，满足 $`\sum_m M_m^\dagger M_m = I`$。
+其中 $M_m$ 是测量算符，满足 $\sum_m M_m^\dagger M_m = I$。
 
 测量过程导致知识状态坍缩：
 
@@ -186,10 +186,10 @@ $$K_Q \xrightarrow{\mathcal{M}_K} K_Q' = \frac{M_m K_Q M_m^\dagger}{\text{Tr}(M_
 $$\frac{d K^{(i)}}{dt} = -i[H_K, K_Q^{(i)}] + \sum_{j \neq i} \gamma_{ij}(K_C^{(j)} - K_C^{(i)}) + \mathcal{L}_K(K^{(i)})$$
 
 其中：
-- $`K^{(i)}`$ 是观察者 $`i`$ 的知识状态
-- $`H_K`$ 是知识哈密顿量
-- $`\gamma_{ij}`$ 是知识传递耦合强度
-- $`\mathcal{L}_K`$ 是知识Lindblad算符，描述知识耗散与噪声
+- $K^{(i)}$ 是观察者 $i$ 的知识状态
+- $H_K$ 是知识哈密顿量
+- $\gamma_{ij}$ 是知识传递耦合强度
+- $\mathcal{L}_K$ 是知识Lindblad算符，描述知识耗散与噪声
 
 ### 4.2 知识传递网络
 
@@ -198,15 +198,15 @@ $$\frac{d K^{(i)}}{dt} = -i[H_K, K_Q^{(i)}] + \sum_{j \neq i} \gamma_{ij}(K_C^{(
 $$G_{\text{传递}} = (V_{\mathcal{O}}, E_K, W_K)$$
 
 其中：
-- $`V_{\mathcal{O}}`$ 是观察者节点集
-- $`E_K`$ 是知识传递连接集
-- $`W_K`$ 是连接权重集
+- $V_{\mathcal{O}}$ 是观察者节点集
+- $E_K$ 是知识传递连接集
+- $W_K$ 是连接权重集
 
 网络动力学遵循：
 
 $$\frac{d\vec{K}}{dt} = -\mathbf{L}_K \vec{K} + \vec{S}_K$$
 
-其中 $`\mathbf{L}_K`$ 是知识拉普拉斯矩阵，$`\vec{S}_K`$ 是知识源项。
+其中 $\mathbf{L}_K$ 是知识拉普拉斯矩阵，$\vec{S}_K$ 是知识源项。
 
 ### 4.3 知识共振现象
 
@@ -214,7 +214,7 @@ $$\frac{d\vec{K}}{dt} = -\mathbf{L}_K \vec{K} + \vec{S}_K$$
 
 $$\omega_K^{(i)} \approx \omega_K^{(j)} \implies A_K \propto \frac{1}{|\omega_K^{(i)} - \omega_K^{(j)}|}$$
 
-其中 $`\omega_K^{(i)}`$ 是观察者 $`i`$ 的知识谐振频率，$`A_K`$ 是知识共振振幅。
+其中 $\omega_K^{(i)}$ 是观察者 $i$ 的知识谐振频率，$A_K$ 是知识共振振幅。
 
 共振条件下，知识传递效率显著提高：
 
@@ -229,7 +229,7 @@ $$\mathcal{O}(K) = \begin{cases}
 (\lambda_K - \lambda_K^c)^\beta, & \lambda_K \geq \lambda_K^c
 \end{cases}$$
 
-其中 $`\mathcal{O}(K)`$ 是知识序参量，$`\lambda_K`$ 是控制参数，$`\lambda_K^c`$ 是临界点，$`\beta`$ 是临界指数。
+其中 $\mathcal{O}(K)$ 是知识序参量，$\lambda_K$ 是控制参数，$\lambda_K^c$ 是临界点，$\beta$ 是临界指数。
 
 知识相变类型包括：
 
@@ -246,10 +246,10 @@ $$\mathcal{O}(K) = \begin{cases}
 $$\mathcal{O}_K = \{K_Q^{\mathcal{O}}, K_C^{\mathcal{O}}, \mathcal{C}_K^{\mathcal{O}}, \mathcal{Q}_K^{\mathcal{O}}\}$$
 
 其中：
-- $`K_Q^{\mathcal{O}}`$ 是观察者的量子知识状态
-- $`K_C^{\mathcal{O}}`$ 是观察者的经典知识状态
-- $`\mathcal{C}_K^{\mathcal{O}}`$ 是观察者特有的知识经典化算符
-- $`\mathcal{Q}_K^{\mathcal{O}}`$ 是观察者特有的知识量子化算符
+- $K_Q^{\mathcal{O}}$ 是观察者的量子知识状态
+- $K_C^{\mathcal{O}}$ 是观察者的经典知识状态
+- $\mathcal{C}_K^{\mathcal{O}}$ 是观察者特有的知识经典化算符
+- $\mathcal{Q}_K^{\mathcal{O}}$ 是观察者特有的知识量子化算符
 
 ### 5.2 知识维度与认知能力
 
@@ -259,9 +259,9 @@ $$D_K^{\mathcal{O}} = f\left(\frac{\mathcal{C}_K^{\mathcal{O}}}{\mathcal{Q}_K^{\
 
 观察者认知能力包含多个维度：
 
-1. **知识吸收能力**：$`C_{\text{吸收}} \propto \mathcal{Q}_K^{\mathcal{O}}`$
-2. **知识整合能力**：$`C_{\text{整合}} \propto \mathcal{C}_K^{\mathcal{O}}`$
-3. **知识创造能力**：$`C_{\text{创造}} \propto \mathcal{Q}_K^{\mathcal{O}} \cdot \mathcal{C}_K^{\mathcal{O}}`$
+1. **知识吸收能力**：$C_{\text{吸收}} \propto \mathcal{Q}_K^{\mathcal{O}}$
+2. **知识整合能力**：$C_{\text{整合}} \propto \mathcal{C}_K^{\mathcal{O}}$
+3. **知识创造能力**：$C_{\text{创造}} \propto \mathcal{Q}_K^{\mathcal{O}} \cdot \mathcal{C}_K^{\mathcal{O}}$
 
 ### 5.3 知识进化与适应
 
@@ -270,9 +270,9 @@ $$D_K^{\mathcal{O}} = f\left(\frac{\mathcal{C}_K^{\mathcal{O}}}{\mathcal{Q}_K^{\
 $$\frac{d\mathcal{O}_K}{dt} = \alpha \nabla_K J(\mathcal{O}_K) + \beta(K_{\text{环境}} - K_C^{\mathcal{O}}) + \gamma \xi_K(t)$$
 
 其中：
-- $`J(\mathcal{O}_K)`$ 是知识适应度函数
-- $`K_{\text{环境}}`$ 是环境知识场
-- $`\xi_K(t)`$ 是知识噪声项
+- $J(\mathcal{O}_K)$ 是知识适应度函数
+- $K_{\text{环境}}$ 是环境知识场
+- $\xi_K(t)$ 是知识噪声项
 
 知识适应过程包括三个阶段：
 1. **知识感知**：接收外部知识信号
@@ -317,7 +317,7 @@ $$\frac{d\mathcal{O}_K}{dt} = \alpha \nabla_K J(\mathcal{O}_K) + \beta(K_{\text{
 1. **量子-经典混合架构**：
    $$AI_K = \{NN_C, QNN_Q, I_{转换}\}$$
 
-   其中 $`NN_C`$ 是经典神经网络，$`QNN_Q`$ 是量子神经网络，$`I_{转换}`$ 是接口层。
+   其中 $NN_C$ 是经典神经网络，$QNN_Q$ 是量子神经网络，$I_{转换}$ 是接口层。
 
 2. **创造性人工智能**：
    $$C_{AI} \propto \frac{\mathcal{Q}_K^{AI}}{\mathcal{C}_K^{AI}} \cdot \frac{I(K_Q^{AI})}{I(K_C^{AI})}$$
@@ -325,7 +325,7 @@ $$\frac{d\mathcal{O}_K}{dt} = \alpha \nabla_K J(\mathcal{O}_K) + \beta(K_{\text{
 3. **知识嵌入拓扑结构**：
    $$\text{Embed}_K: \mathcal{K}_C \rightarrow \mathcal{H}_d$$
    
-   其中 $`\mathcal{H}_d`$ 是 $`d`$ 维嵌入空间。
+   其中 $\mathcal{H}_d$ 是 $d$ 维嵌入空间。
 
 ## 7. 形式化预测与验证
 
@@ -363,16 +363,16 @@ $$\frac{d\mathcal{O}_K}{dt} = \alpha \nabla_K J(\mathcal{O}_K) + \beta(K_{\text{
 
 $$M(K) = \alpha I_Q(K) + \beta I_C(K) + \gamma I_{\text{hidden}}(K)$$
 
-其中 $`\alpha`$, $`\beta`$, $`\gamma`$ 是权重系数。
+其中 $\alpha$, $\beta$, $\gamma$ 是权重系数。
 
 ### 8.2 知识质量评估
 
 知识质量评估标准包括：
 
-1. **一致性**：$`Q_{\text{一致}} = 1 - \frac{S(K_C)}{S_{\max}}`$
-2. **完备性**：$`Q_{\text{完备}} = \frac{I(K)}{I_{\text{领域}}}`$  
-3. **实用性**：$`Q_{\text{实用}} = E[U(K)]`$
-4. **创新性**：$`Q_{\text{创新}} = 1 - \max_i S(K|K_i)`$
+1. **一致性**：$Q_{\text{一致}} = 1 - \frac{S(K_C)}{S_{\max}}$
+2. **完备性**：$Q_{\text{完备}} = \frac{I(K)}{I_{\text{领域}}}$  
+3. **实用性**：$Q_{\text{实用}} = E[U(K)]$
+4. **创新性**：$Q_{\text{创新}} = 1 - \max_i S(K|K_i)$
 
 ### 8.3 知识价值函数
 
@@ -380,7 +380,7 @@ $$M(K) = \alpha I_Q(K) + \beta I_C(K) + \gamma I_{\text{hidden}}(K)$$
 
 $$V(K) = \mathbb{E}[\sum_{t=0}^{\infty} \gamma^t R_t(K)]$$
 
-其中 $`R_t(K)`$ 是知识在时间 $`t`$ 产生的回报，$`\gamma`$ 是时间折扣因子。
+其中 $R_t(K)$ 是知识在时间 $t$ 产生的回报，$\gamma$ 是时间折扣因子。
 
 ## 9. 结论与未来研究方向
 

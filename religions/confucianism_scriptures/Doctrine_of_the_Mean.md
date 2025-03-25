@@ -145,7 +145,7 @@ $$
 \text{"与天地参"} \Leftrightarrow \mathcal{D}(\mathcal{O}_{\text{人}}) \to \mathcal{D}(\mathcal{O}_{\text{宇宙}})
 $$
 
-其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`k`$表示经典化效率系数
+其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$k$表示经典化效率系数
 
 ## 结论
 ## Conclusion

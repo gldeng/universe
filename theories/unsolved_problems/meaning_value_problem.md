@@ -56,7 +56,7 @@ $$\Delta S_{\text{价值系统}} < 0 \iff \sum_i \frac{I_{\text{价值应用结�
 
    $$V_{\text{集体}} = \text{Emergent}\left(\sum_i w_i \cdot V_{\text{个体}_i}, E_{ij}\right)$$
 
-   其中$`E_{ij}`$代表观察者之间的纠缠关系矩阵。
+   其中$E_{ij}$代表观察者之间的纠缠关系矩阵。
 
 4. **双重投影原理**：价值同时是量子域向经典域投影，也是经典域向量子域回溯投影的结果：
 
@@ -70,7 +70,7 @@ $$\Delta S_{\text{价值系统}} < 0 \iff \sum_i \frac{I_{\text{价值应用结�
 
    $$\vec{F}_{V} = G \cdot \frac{m_1 \cdot m_2}{r^2} \cdot \vec{r} \cdot \cos(\theta_{V_1, V_2})$$
 
-   其中$`\theta_{V_1, V_2}`$为两个观察者价值系统的角度差异。
+   其中$\theta_{V_1, V_2}$为两个观察者价值系统的角度差异。
 
 ### 具体预测与证据
 
@@ -145,7 +145,7 @@ $$\Delta S_{\text{Value System}} < 0 \iff \sum_i \frac{I_{\text{Value Applicatio
 
    $$V_{\text{Collective}} = \text{Emergent}\left(\sum_i w_i \cdot V_{\text{Individual}_i}, E_{ij}\right)$$
 
-   where $`E_{ij}`$ represents the entanglement relationship matrix between observers.
+   where $E_{ij}$ represents the entanglement relationship matrix between observers.
 
 4. **Dual Projection Principle**: Value is simultaneously the result of projection from the quantum domain to the classical domain, and also the back-projection from the classical domain to the quantum domain:
 
@@ -159,7 +159,7 @@ $$\Delta S_{\text{Value System}} < 0 \iff \sum_i \frac{I_{\text{Value Applicatio
 
    $$\vec{F}_{V} = G \cdot \frac{m_1 \cdot m_2}{r^2} \cdot \vec{r} \cdot \cos(\theta_{V_1, V_2})$$
 
-   where $`\theta_{V_1, V_2}`$ is the angular difference between two observers' value systems.
+   where $\theta_{V_1, V_2}$ is the angular difference between two observers' value systems.
 
 ### Specific Predictions and Evidence
 

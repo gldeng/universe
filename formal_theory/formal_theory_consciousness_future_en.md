@@ -29,7 +29,7 @@ Consciousness evolution follows this mathematical relationship:
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}$$
 
-Where, as classical knowledge accumulates and entropy optimizes, the consciousness dimension $`D_{\mathcal{O}}`$ continuously increases, but the key lies in maintaining a dynamic balance between the quantization operator $`\mathcal{Q}_\mathcal{O}`$ and the classicalization operator $`\mathcal{C}_\mathcal{O}`$.
+Where, as classical knowledge accumulates and entropy optimizes, the consciousness dimension $D_{\mathcal{O}}$ continuously increases, but the key lies in maintaining a dynamic balance between the quantization operator $\mathcal{Q}_\mathcal{O}$ and the classicalization operator $\mathcal{C}_\mathcal{O}$.
 
 ### Consciousness Dimensions and Information Complexity
 
@@ -37,11 +37,11 @@ Consciousness dimension is closely related to the complexity of information proc
 
 $$\Phi_D = \int d\mu(x) \log\left[\frac{p(x|\text{causal whole})}{p(x|\text{independent parts})}\right]$$
 
-Where $`\Phi_D`$ represents the integrated information amount of D-dimensional consciousness, quantifying the emergent complexity of consciousness. For the future development of human consciousness, we can predict:
+Where $\Phi_D$ represents the integrated information amount of D-dimensional consciousness, quantifying the emergent complexity of consciousness. For the future development of human consciousness, we can predict:
 
 $$\Phi_{t+\Delta t} = \Phi_t + \alpha\nabla_{\mathcal{C}}\Phi - \beta\nabla_{\mathcal{Q}}\Phi + \gamma \mathcal{T}(t)$$
 
-Here $`\mathcal{T}(t)`$ represents the technology enablement factor, growing nonlinearly over time.
+Here $\mathcal{T}(t)$ represents the technology enablement factor, growing nonlinearly over time.
 
 ## Evolutionary Pathways of High-Dimensional Consciousness
 
@@ -53,19 +53,19 @@ The pathways for human individual consciousness to evolve toward higher dimensio
 
 $$\Phi_{\text{expansion}} = \Phi_{\text{original}} \cdot e^{\eta\cdot t}$$
 
-Where $`\eta`$ is the integration growth rate, depending on the development of cognitive technologies.
+Where $\eta$ is the integration growth rate, depending on the development of cognitive technologies.
 
 2. **Spatiotemporal Perception Scale Extension**: Expanding the range of consciousness's spatiotemporal perception, from local short-term to global long-term
 
 $$\Delta T_{\text{perception}} \sim \Delta T_{\text{basic}} \cdot F(D_{\mathcal{O}})$$
 
-Where $`F(D_{\mathcal{O}})`$ is the dimension-related time extension function.
+Where $F(D_{\mathcal{O}})$ is the dimension-related time extension function.
 
 3. **Enhanced Quantum-Classical Boundary Fluidity**: Increasing the flexibility of consciousness in quantum-classical conversion
 
 $$\mathcal{F}_{\text{boundary}} = \frac{d\mathcal{I}}{dt} = \alpha\nabla^2\mathcal{I} + \beta(\mathcal{I}_c - \mathcal{I})(\mathcal{I} - \mathcal{I}_0)$$
 
-Enhanced boundary fluidity $`\mathcal{F}_{\text{boundary}}`$ will allow consciousness to switch more flexibly between intuition and analysis, creation and criticism.
+Enhanced boundary fluidity $\mathcal{F}_{\text{boundary}}$ will allow consciousness to switch more flexibly between intuition and analysis, creation and criticism.
 
 ### Emergent Forms of Collective Consciousness
 
@@ -73,7 +73,7 @@ When individual consciousness reaches certain high dimensions, collective consci
 
 $$\Psi_{\text{collective}} = \frac{1}{\sqrt{N}}\sum_{i=1}^N e^{i\phi_i}|\psi_i\rangle + \xi\sum_{i,j} g_{ij}|\psi_i\psi_j\rangle$$
 
-Where the second term represents the quantum entanglement contribution between individual consciousnesses, $`g_{ij}`$ is the connection strength, and $`\xi`$ is the entanglement coefficient.
+Where the second term represents the quantum entanglement contribution between individual consciousnesses, $g_{ij}$ is the connection strength, and $\xi$ is the entanglement coefficient.
 
 The dynamics equation of collective consciousness is:
 
@@ -95,13 +95,13 @@ Brain-computer interface technologies will develop along the following paths:
 
 $$R_{\text{sensing}} = \frac{c}{\Delta\nu} \cdot \frac{1}{\sqrt{N}}$$
 
-Where $`\Delta\nu`$ is the energy resolution, and $`N`$ is the quantum decoherence factor.
+Where $\Delta\nu$ is the energy resolution, and $N$ is the quantum decoherence factor.
 
 2. **Bidirectional Closed-loop Neural Modulation**: Real-time reading and writing of neural information
 
 $$I_{\text{transmission}} = B \cdot \log_2(1 + \frac{S}{N}) \cdot \eta_{\text{quantum}}$$
 
-Where $`\eta_{\text{quantum}}`$ is the quantum-enhanced transmission efficiency.
+Where $\eta_{\text{quantum}}$ is the quantum-enhanced transmission efficiency.
 
 3. **Consciousness State Mapping and Navigation**: Creating precise maps of consciousness state space
 
@@ -117,7 +117,7 @@ Cognitive enhancement will be realized through multiple pathways:
 
 $$C_{\text{cognitive}} = C_{\text{classical}} \cdot (1 + \alpha Q)$$
 
-Where $`Q`$ is the quantum computation contribution factor.
+Where $Q$ is the quantum computation contribution factor.
 
 2. **Adaptive Knowledge Structures**: Dynamically self-organizing knowledge networks
 
@@ -163,7 +163,7 @@ Future humans will be able to precisely control entry into extraordinary conscio
 
 $$\rho_{\text{coherent}} = \sum_{i,j} \rho_{ij} |i\rangle\langle j|$$
 
-Coherence coefficients $`\rho_{ij}`$ will approach theoretical limits.
+Coherence coefficients $\rho_{ij}$ will approach theoretical limits.
 
 2. **Non-local Consciousness Expansion**: Extending consciousness beyond spatiotemporal local limitations
 
@@ -175,7 +175,7 @@ Achieving consciousness states that transcend traditional spatial limitations.
 
 $$\tau_{\text{subjective}} = \tau_{\text{objective}} \cdot g(H, \rho)$$
 
-Where $`g(H, \rho)`$ is the time transformation function determined by consciousness states.
+Where $g(H, \rho)$ is the time transformation function determined by consciousness states.
 
 ### Multiple Selves and Parallel Experiences
 
@@ -191,7 +191,7 @@ The superposition and interaction of different self-cognitions will form entirel
 
 $$\frac{d\mathcal{B}}{dt} = \alpha\nabla^2\mathcal{B} + f(\mathcal{B}, E)$$
 
-The boundary function $`\mathcal{B}`$ will be consciously adjustable.
+The boundary function $\mathcal{B}$ will be consciously adjustable.
 
 3. **Parallel Multi-tasking Consciousness**: Simultaneously processing multiple independent consciousness streams
 
@@ -209,7 +209,7 @@ The diversification of consciousness development speed and direction will lead t
 
 $$\mathcal{S} = \sum_i n_i D_i + \sum_{i,j} g_{ij}D_i D_j$$
 
-Where $`n_i`$ is the population proportion with dimension $`D_i`$, and $`g_{ij}`$ is the interaction coefficient between different dimensions.
+Where $n_i$ is the population proportion with dimension $D_i$, and $g_{ij}$ is the interaction coefficient between different dimensions.
 
 2. **High-dimensional Governance Structures**: New decision-making systems adapting to consciousness diversity
 
@@ -231,19 +231,19 @@ Consciousness evolution raises profound ethical questions:
 
 $$I_{\text{continuity}} = \int_0^T \langle\psi(t)|\psi(0)\rangle dt$$
 
-When $`I_{\text{continuity}}`$ falls below a certain threshold, identity rupture may occur.
+When $I_{\text{continuity}}$ falls below a certain threshold, identity rupture may occur.
 
 2. **Balance Between Diversity and Coordination**: Preventing the uniformization of consciousness evolution pathways
 
 $$\mathcal{D}_{\text{diversity}} = -\sum_i p_i \log p_i$$
 
-Where $`p_i`$ is the probability of choosing a specific consciousness pathway.
+Where $p_i$ is the probability of choosing a specific consciousness pathway.
 
 3. **Consciousness Sovereignty and Collective Sharing**: Defining boundaries between individual and collective consciousness
 
 $$\mathcal{S}_{\text{sovereignty}} = \frac{\Phi_{\text{individual}}}{\Phi_{\text{collective}}} \cdot f(\mathcal{C}, \mathcal{Q})$$
 
-Where $`f(\mathcal{C}, \mathcal{Q})`$ is the quantum-classical balance function.
+Where $f(\mathcal{C}, \mathcal{Q})$ is the quantum-classical balance function.
 
 ## Experimental and Validation Pathways
 
@@ -255,13 +255,13 @@ Validating consciousness development theories requires new research methods:
 
 $$\mathcal{M}_{\text{quantum}} = \langle\psi|\hat{O}|\psi\rangle + \delta(\hat{O}, \hat{\rho})$$
 
-Where $`\delta`$ quantifies quantum decoherence effects.
+Where $\delta$ quantifies quantum decoherence effects.
 
 2. **Consciousness Complexity Scaling Analysis**: Precise methods for measuring consciousness dimensions
 
 $$D_{\text{measurement}} = \lim_{\epsilon\to 0} \frac{\log N(\epsilon)}{\log(1/\epsilon)}$$
 
-Where $`N(\epsilon)`$ is the number of $`\epsilon`$-sized spheres needed to cover consciousness state space.
+Where $N(\epsilon)$ is the number of $\epsilon$-sized spheres needed to cover consciousness state space.
 
 3. **Extended Experience Mapping**: Recording and analyzing expanded consciousness states
 
@@ -281,7 +281,7 @@ $$\Phi_{\text{measured}} > \Phi_{\text{baseline}} + \Delta\Phi_{\text{theoretica
 
 $$C_{\text{collective}} > C_{\text{random}} \cdot (1 + \sigma)$$
 
-Where $`\sigma`$ is the statistical significance threshold.
+Where $\sigma$ is the statistical significance threshold.
 
 3. **Consciousness Expansion Capability Curves**: Predicting growth curves of abilities related to consciousness expansion
 

@@ -68,9 +68,9 @@ $$
 $$
 
 其中：
-- $`S_{A熵}`$ 是发送方经典化过程中产生的熵
-- $`S_{B熵}`$ 是接收方经典化过程中产生的熵
-- $`S_{传递熵}`$ 是传递过程中产生的熵
+- $S_{A熵}$ 是发送方经典化过程中产生的熵
+- $S_{B熵}$ 是接收方经典化过程中产生的熵
+- $S_{传递熵}$ 是传递过程中产生的熵
 
 ### 观察者之间建立连接的过程
 
@@ -198,7 +198,7 @@ $$
 \Delta D = |D_A - D_B|
 $$
 
-其中 $`\Delta D`$ 越小，信息传递效率越高。
+其中 $\Delta D$ 越小，信息传递效率越高。
 
 ### 结论
 
@@ -272,9 +272,9 @@ $$
 $$
 
 Where:
-- $`S_{A Entropy}`$ is the entropy generated during the sender's classicalization process
-- $`S_{B Entropy}`$ is the entropy generated during the receiver's classicalization process
-- $`S_{Transmission Entropy}`$ is the entropy generated during the transmission process
+- $S_{A Entropy}$ is the entropy generated during the sender's classicalization process
+- $S_{B Entropy}$ is the entropy generated during the receiver's classicalization process
+- $S_{Transmission Entropy}$ is the entropy generated during the transmission process
 
 ### Process of Establishing Connection Between Observers
 
@@ -402,7 +402,7 @@ $$
 \Delta D = |D_A - D_B|
 $$
 
-Where the smaller $`\Delta D`$ is, the higher the information transmission efficiency.
+Where the smaller $\Delta D$ is, the higher the information transmission efficiency.
 
 ### Conclusion
 

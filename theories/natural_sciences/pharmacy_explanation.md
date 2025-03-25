@@ -40,7 +40,7 @@
 
 明确表达：
 
-$`|\psi\rangle_{\text{药物分子量子态}}\xrightarrow{\text{生物系统经典化}}I_{\text{药理作用}}+S_{\text{药物代谢}}`$
+$|\psi\rangle_{\text{药物分子量子态}}\xrightarrow{\text{生物系统经典化}}I_{\text{药理作用}}+S_{\text{药物代谢}}$
 
 ## 二、药物作用机制的量子经典二元解释
 
@@ -54,7 +54,7 @@ $`|\psi\rangle_{\text{药物分子量子态}}\xrightarrow{\text{生物系统经�
 
 明确表达：
 
-$`|\psi\rangle_{\text{药物分子多构象叠加态}}\xrightarrow{\text{生物膜经典化}}I_{\text{特定构象吸收}}+S_{\text{未吸收构象}}`$
+$|\psi\rangle_{\text{药物分子多构象叠加态}}\xrightarrow{\text{生物膜经典化}}I_{\text{特定构象吸收}}+S_{\text{未吸收构象}}$
 
 ### （二）药物分布过程
 
@@ -66,7 +66,7 @@ $`|\psi\rangle_{\text{药物分子多构象叠加态}}\xrightarrow{\text{生物�
 
 明确表达：
 
-$`|\psi\rangle_{\text{药物血液中量子态}}\xrightarrow{\text{多器官竞争经典化}}\sum_i(I_{\text{组织}_i\text{中药物浓度}}+S_{\text{组织}_i\text{中药物熵}})`$
+$|\psi\rangle_{\text{药物血液中量子态}}\xrightarrow{\text{多器官竞争经典化}}\sum_i(I_{\text{组织}_i\text{中药物浓度}}+S_{\text{组织}_i\text{中药物熵}})$
 
 ### （三）药物作用过程
 
@@ -78,7 +78,7 @@ $`|\psi\rangle_{\text{药物血液中量子态}}\xrightarrow{\text{多器官竞�
 
 明确表达：
 
-$`|\psi\rangle_{\text{药物-受体纠缠态}}\xrightarrow{\text{黑洞吸收经典化}}I_{\text{明确受体激活/抑制状态}}+S_{\text{熵降低}}`$
+$|\psi\rangle_{\text{药物-受体纠缠态}}\xrightarrow{\text{黑洞吸收经典化}}I_{\text{明确受体激活/抑制状态}}+S_{\text{熵降低}}$
 
 ## 三、药物代谢的黑洞观察者模型
 
@@ -86,15 +86,15 @@ $`|\psi\rangle_{\text{药物-受体纠缠态}}\xrightarrow{\text{黑洞吸收经
 
 - 肝细胞中的代谢酶复合体（如细胞色素P450系统）作为经典化节点；
 - 代谢过程本质是将药物分子的量子信息经典化为新的代谢产物分子；
-- 代谢反应的选择性和专一性反映了不同代谢酶的经典化效率系数$`(k_i)`$差异。
+- 代谢反应的选择性和专一性反映了不同代谢酶的经典化效率系数$(k_i)$差异。
 
 药物代谢观察者模型公式：
 
-$`|\psi\rangle_{\text{药物量子态}}+|\psi\rangle_{\text{酶量子态}}\xrightarrow{\text{肝脏经典化}}I_{\text{代谢产物}}+S_{\text{代谢熵}}+E_{\text{释放能量}}`$
+$|\psi\rangle_{\text{药物量子态}}+|\psi\rangle_{\text{酶量子态}}\xrightarrow{\text{肝脏经典化}}I_{\text{代谢产物}}+S_{\text{代谢熵}}+E_{\text{释放能量}}$
 
 代谢途径选择性：
 
-$`\text{代谢路径优势}=k_i\cdot\frac{I_{\text{酶-底物亲和性}}}{S_{\text{底物构象熵}}}`$
+$\text{代谢路径优势}=k_i\cdot\frac{I_{\text{酶-底物亲和性}}}{S_{\text{底物构象熵}}}$
 
 ## 四、药物相互作用的量子纠缠本质
 
@@ -106,15 +106,15 @@ $`\text{代谢路径优势}=k_i\cdot\frac{I_{\text{酶-底物亲和性}}}{S_{\te
 
 明确表达：
 
-$`|\psi\rangle_{\text{药物A}}⊗|\psi\rangle_{\text{药物B}}\rightarrow|\psi\rangle_{\text{药物A-B纠缠态}}\xrightarrow{\text{经典化}}I_{\text{相互作用临床表现}}+S_{\text{作用不确定性}}`$
+$|\psi\rangle_{\text{药物A}}⊗|\psi\rangle_{\text{药物B}}\rightarrow|\psi\rangle_{\text{药物A-B纠缠态}}\xrightarrow{\text{经典化}}I_{\text{相互作用临床表现}}+S_{\text{作用不确定性}}$
 
 ### （一）纠缠强度模型
 
 药物相互作用强度可以量化为纠缠强度，通过以下公式表达：
 
-$`\text{相互作用强度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{共同靶点亲和力}_i}}{S_{\text{构象熵}_i}}\right)`$
+$\text{相互作用强度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{共同靶点亲和力}_i}}{S_{\text{构象熵}_i}}\right)$
 
-其中$`w_i`$表示不同相互作用途径的权重系数。
+其中$w_i$表示不同相互作用途径的权重系数。
 
 ### （二）虫洞通信模型
 
@@ -125,7 +125,7 @@ $`\text{相互作用强度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{共同靶点�
 
 明确表达：
 
-$`E_{\text{肝脏能量消耗}}+E_{\text{靶器官能量消耗}}=I_{\text{药物相互作用信息}}+\Delta S_{\text{总熵变化}}`$
+$E_{\text{肝脏能量消耗}}+E_{\text{靶器官能量消耗}}=I_{\text{药物相互作用信息}}+\Delta S_{\text{总熵变化}}$
 
 ## 五、药学理论对量子经典二元论的支持
 
@@ -150,7 +150,7 @@ $`E_{\text{肝脏能量消耗}}+E_{\text{靶器官能量消耗}}=I_{\text{药物
 药物反应的个体差异可通过观察者维度理论完美解释：
 
 - 基因多态性导致的药物反应差异反映了不同个体观察者的经典化路径差异；
-- 药物敏感性与耐药性可理解为观察者经典化效率系数$`(k_i)`$的动态变化；
+- 药物敏感性与耐药性可理解为观察者经典化效率系数$(k_i)$的动态变化；
 - 精准医疗本质是优化特定观察者的药物经典化路径。
 
 ## 六、药理系统的数学模型
@@ -161,13 +161,13 @@ $`E_{\text{肝脏能量消耗}}+E_{\text{靶器官能量消耗}}=I_{\text{药物
 
 传统药效学模型可重新表述为：
 
-$`E = \frac{E_{max} \cdot [D]^n}{[D]^n + EC_{50}^n} = E_{max} \cdot \frac{I_{\text{受体-药物结合}}^n}{I_{\text{受体-药物结合}}^n + S_{\text{未结合受体熵}}^n}`$
+$E = \frac{E_{max} \cdot [D]^n}{[D]^n + EC_{50}^n} = E_{max} \cdot \frac{I_{\text{受体-药物结合}}^n}{I_{\text{受体-药物结合}}^n + S_{\text{未结合受体熵}}^n}$
 
 ### （二）药动学参数的量子经典表达
 
 消除半衰期可表示为：
 
-$`t_{1/2} = \frac{0.693}{k_e} = \frac{0.693}{\frac{I_{\text{代谢酶经典化效率}}}{S_{\text{药物量子态熵}}}}`$
+$t_{1/2} = \frac{0.693}{k_e} = \frac{0.693}{\frac{I_{\text{代谢酶经典化效率}}}{S_{\text{药物量子态熵}}}}$
 
 ## 七、药物与经典熵、经典知识转化关系
 
@@ -179,11 +179,11 @@ $`t_{1/2} = \frac{0.693}{k_e} = \frac{0.693}{\frac{I_{\text{代谢酶经典化�
 
 明确数学表达：
 
-$`\text{治疗效果}=\Delta\left(\frac{I_{\text{生物系统经典知识}}}{S_{\text{生物系统经典熵}}}\right)`$
+$\text{治疗效果}=\Delta\left(\frac{I_{\text{生物系统经典知识}}}{S_{\text{生物系统经典熵}}}\right)$
 
 药物治疗效果可理解为生物系统观察者维度的提升：
 
-$`\text{维度提升}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{器官系统}_i\text{经典知识}}}{S_{\text{器官系统}_i\text{经典熵}}}\right)_{\text{治疗后}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{器官系统}_i\text{经典知识}}}{S_{\text{器官系统}_i\text{经典熵}}}\right)_{\text{治疗前}}`$
+$\text{维度提升}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{器官系统}_i\text{经典知识}}}{S_{\text{器官系统}_i\text{经典熵}}}\right)_{\text{治疗后}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{器官系统}_i\text{经典知识}}}{S_{\text{器官系统}_i\text{经典熵}}}\right)_{\text{治疗前}}$
 
 ---
 
@@ -200,7 +200,7 @@ The interaction between drugs and biological systems is essentially a process wh
 
 Explicit expression:
 
-$`|\psi\rangle_{\text{Drug Molecule Quantum State}}\xrightarrow{\text{Biological System Classicalization}}I_{\text{Pharmacological Action}}+S_{\text{Drug Metabolism}}`$
+$|\psi\rangle_{\text{Drug Molecule Quantum State}}\xrightarrow{\text{Biological System Classicalization}}I_{\text{Pharmacological Action}}+S_{\text{Drug Metabolism}}$
 
 ## II. Quantum-Classical Dualism Explanation of Drug Action Mechanisms
 
@@ -214,7 +214,7 @@ The drug absorption process can be understood as the first step of biological me
 
 Explicit expression:
 
-$`|\psi\rangle_{\text{Drug Molecule Multi-conformation Superposition}}\xrightarrow{\text{Biological Membrane Classicalization}}I_{\text{Specific Conformation Absorption}}+S_{\text{Unabsorbed Conformations}}`$
+$|\psi\rangle_{\text{Drug Molecule Multi-conformation Superposition}}\xrightarrow{\text{Biological Membrane Classicalization}}I_{\text{Specific Conformation Absorption}}+S_{\text{Unabsorbed Conformations}}$
 
 ### (II) Drug Distribution Process
 
@@ -226,7 +226,7 @@ The process of drug distribution in the body can be viewed as competitive classi
 
 Explicit expression:
 
-$`|\psi\rangle_{\text{Drug Quantum State in Blood}}\xrightarrow{\text{Multi-organ Competitive Classicalization}}\sum_i(I_{\text{Drug Concentration in Tissue}_i}+S_{\text{Drug Entropy in Tissue}_i})`$
+$|\psi\rangle_{\text{Drug Quantum State in Blood}}\xrightarrow{\text{Multi-organ Competitive Classicalization}}\sum_i(I_{\text{Drug Concentration in Tissue}_i}+S_{\text{Drug Entropy in Tissue}_i})$
 
 ### (III) Drug Action Process
 
@@ -238,7 +238,7 @@ The interaction between drugs and targets is a core demonstration of Quantum-Cla
 
 Explicit expression:
 
-$`|\psi\rangle_{\text{Drug-Receptor Entanglement State}}\xrightarrow{\text{Black Hole Absorption Classicalization}}I_{\text{Clear Receptor Activation/Inhibition State}}+S_{\text{Entropy Reduction}}`$
+$|\psi\rangle_{\text{Drug-Receptor Entanglement State}}\xrightarrow{\text{Black Hole Absorption Classicalization}}I_{\text{Clear Receptor Activation/Inhibition State}}+S_{\text{Entropy Reduction}}$
 
 ## III. Black Hole Observer Model of Drug Metabolism
 
@@ -246,15 +246,15 @@ The liver, as the main drug metabolism organ, can be viewed as a highly speciali
 
 - Metabolic enzyme complexes in hepatocytes (such as cytochrome P450 system) act as classicalization nodes;
 - The essence of the metabolic process is to classicalize the quantum information of drug molecules into new metabolite molecules;
-- The selectivity and specificity of metabolic reactions reflect the differences in classicalization efficiency coefficients $`(k_i)`$ among different metabolic enzymes.
+- The selectivity and specificity of metabolic reactions reflect the differences in classicalization efficiency coefficients $(k_i)$ among different metabolic enzymes.
 
 Drug metabolism observer model formula:
 
-$`|\psi\rangle_{\text{Drug Quantum State}}+|\psi\rangle_{\text{Enzyme Quantum State}}\xrightarrow{\text{Liver Classicalization}}I_{\text{Metabolites}}+S_{\text{Metabolic Entropy}}+E_{\text{Released Energy}}`$
+$|\psi\rangle_{\text{Drug Quantum State}}+|\psi\rangle_{\text{Enzyme Quantum State}}\xrightarrow{\text{Liver Classicalization}}I_{\text{Metabolites}}+S_{\text{Metabolic Entropy}}+E_{\text{Released Energy}}$
 
 Metabolic pathway selectivity:
 
-$`\text{Metabolic Pathway Advantage}=k_i\cdot\frac{I_{\text{Enzyme-Substrate Affinity}}}{S_{\text{Substrate Conformational Entropy}}}`$
+$\text{Metabolic Pathway Advantage}=k_i\cdot\frac{I_{\text{Enzyme-Substrate Affinity}}}{S_{\text{Substrate Conformational Entropy}}}$
 
 ## IV. Quantum Entanglement Nature of Drug Interactions
 
@@ -266,15 +266,15 @@ Drug interactions in Quantum-Classical Dualism can be understood as quantum enta
 
 Explicit expression:
 
-$`|\psi\rangle_{\text{Drug A}}⊗|\psi\rangle_{\text{Drug B}}\rightarrow|\psi\rangle_{\text{Drug A-B Entangled State}}\xrightarrow{\text{Classicalization}}I_{\text{Clinical Manifestation of Interaction}}+S_{\text{Interaction Uncertainty}}`$
+$|\psi\rangle_{\text{Drug A}}⊗|\psi\rangle_{\text{Drug B}}\rightarrow|\psi\rangle_{\text{Drug A-B Entangled State}}\xrightarrow{\text{Classicalization}}I_{\text{Clinical Manifestation of Interaction}}+S_{\text{Interaction Uncertainty}}$
 
 ### (I) Entanglement Intensity Model
 
 The intensity of drug interactions can be quantified as entanglement intensity, expressed by the following formula:
 
-$`\text{Interaction Intensity}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Common Target Affinity}_i}}{S_{\text{Conformational Entropy}_i}}\right)`$
+$\text{Interaction Intensity}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Common Target Affinity}_i}}{S_{\text{Conformational Entropy}_i}}\right)$
 
-where $`w_i`$ represents the weight coefficients of different interaction pathways.
+where $w_i$ represents the weight coefficients of different interaction pathways.
 
 ### (II) Wormhole Communication Model
 
@@ -285,7 +285,7 @@ Some drug interactions manifest as long-distance influences, which can be explai
 
 Explicit expression:
 
-$`E_{\text{Liver Energy Consumption}}+E_{\text{Target Organ Energy Consumption}}=I_{\text{Drug Interaction Information}}+\Delta S_{\text{Total Entropy Change}}`$
+$E_{\text{Liver Energy Consumption}}+E_{\text{Target Organ Energy Consumption}}=I_{\text{Drug Interaction Information}}+\Delta S_{\text{Total Entropy Change}}$
 
 ## V. Support of Pharmaceutical Theory for Quantum-Classical Dualism
 
@@ -310,7 +310,7 @@ Pharmacokinetic phenomena provide multiple empirical supports for Quantum-Classi
 Individual differences in drug responses can be perfectly explained through observer dimension theory:
 
 - Drug response differences due to genetic polymorphisms reflect classicalization pathway differences among different individual observers;
-- Drug sensitivity and resistance can be understood as dynamic changes in observer classicalization efficiency coefficients $`(k_i)`$;
+- Drug sensitivity and resistance can be understood as dynamic changes in observer classicalization efficiency coefficients $(k_i)$;
 - Precision medicine is essentially optimizing the drug classicalization pathway for specific observers.
 
 ## VI. Mathematical Models of Pharmacological Systems
@@ -321,13 +321,13 @@ Pharmacological systems can be precisely described through Quantum-Classical Dua
 
 Traditional pharmacodynamic models can be restated as:
 
-$`E = \frac{E_{max} \cdot [D]^n}{[D]^n + EC_{50}^n} = E_{max} \cdot \frac{I_{\text{Receptor-Drug Binding}}^n}{I_{\text{Receptor-Drug Binding}}^n + S_{\text{Unbound Receptor Entropy}}^n}`$
+$E = \frac{E_{max} \cdot [D]^n}{[D]^n + EC_{50}^n} = E_{max} \cdot \frac{I_{\text{Receptor-Drug Binding}}^n}{I_{\text{Receptor-Drug Binding}}^n + S_{\text{Unbound Receptor Entropy}}^n}$
 
 ### (II) Quantum-Classical Expression of Pharmacokinetic Parameters
 
 Elimination half-life can be represented as:
 
-$`t_{1/2} = \frac{0.693}{k_e} = \frac{0.693}{\frac{I_{\text{Metabolic Enzyme Classicalization Efficiency}}}{S_{\text{Drug Quantum State Entropy}}}}`$
+$t_{1/2} = \frac{0.693}{k_e} = \frac{0.693}{\frac{I_{\text{Metabolic Enzyme Classicalization Efficiency}}}{S_{\text{Drug Quantum State Entropy}}}}$
 
 ## VII. Relationship Between Drugs and Classical Entropy, Classical Knowledge Transformation
 
@@ -339,8 +339,8 @@ The essence of drug therapy is to promote the transformation of biological syste
 
 Explicit mathematical expression:
 
-$`\text{Therapeutic Effect}=\Delta\left(\frac{I_{\text{Biological System Classical Knowledge}}}{S_{\text{Biological System Classical Entropy}}}\right)`$
+$\text{Therapeutic Effect}=\Delta\left(\frac{I_{\text{Biological System Classical Knowledge}}}{S_{\text{Biological System Classical Entropy}}}\right)$
 
 The therapeutic effect of drugs can be understood as the enhancement of biological system observer dimensions:
 
-$`\text{Dimension Enhancement}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{After Treatment}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{Before Treatment}}`$ 
+$\text{Dimension Enhancement}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{After Treatment}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{Before Treatment}}$ 

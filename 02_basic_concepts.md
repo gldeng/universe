@@ -49,7 +49,7 @@ $$
 $$
 
 经典域的关键特性：
-- 具有经典化进程指标$`(t_i)`$（非物理时间）
+- 具有经典化进程指标$(t_i)$（非物理时间）
 - 具有明确的结构与因果关系
 - 经典知识与经典熵之和守恒
 - 每个经典世界经典化进程独立
@@ -99,13 +99,13 @@ $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
 
-经典化效率系数$`(k_i)`$提升：
+经典化效率系数$(k_i)$提升：
 
 $$
 k_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
 $$
 
-领域权重系数$`(w_i)`$提升：
+领域权重系数$(w_i)$提升：
 
 $$
 w_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
@@ -197,7 +197,7 @@ $$
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
 $$
 
-其中 $`h`$ 是普朗克常数，$`f_{\text{纠缠}}`$ 是纠缠态的等效频率。
+其中 $h$ 是普朗克常数，$f_{\text{纠缠}}$ 是纠缠态的等效频率。
 
 纠缠等效频率：
 
@@ -205,7 +205,7 @@ $$
 f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
-其中 $`c`$ 是光速，$`L_P`$ 是普朗克长度，$`S_E(\rho_{AB})`$ 是纠缠熵。
+其中 $c$ 是光速，$L_P$ 是普朗克长度，$S_E(\rho_{AB})$ 是纠缠熵。
 
 经典能量与量子能量转换关系：
 
@@ -423,7 +423,7 @@ $$
 $$
 
 Key characteristics of the classical domain:
-- Has classicalization process indicator $`(t_i)`$ (not physical time)
+- Has classicalization process indicator $(t_i)$ (not physical time)
 - Has explicit structure and causal relationships
 - Conservation of the sum of classical knowledge and classical entropy
 - Independent classicalization process for each classical world
@@ -473,13 +473,13 @@ $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-Classicalization efficiency coefficient $`(k_i)`$ improvement:
+Classicalization efficiency coefficient $(k_i)$ improvement:
 
 $$
 k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
 $$
 
-Domain weight coefficient $`(w_i)`$ improvement:
+Domain weight coefficient $(w_i)$ improvement:
 
 $$
 w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
@@ -571,7 +571,7 @@ $$
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
 $$
 
-where $`h`$ is Planck's constant and $`f_{\text{Entanglement}}`$ is the equivalent frequency of the entangled state.
+where $h$ is Planck's constant and $f_{\text{Entanglement}}$ is the equivalent frequency of the entangled state.
 
 Entanglement equivalent frequency:
 
@@ -579,7 +579,7 @@ $$
 f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
-where $`c`$ is the speed of light, $`L_P`$ is the Planck length, and $`S_E(\rho_{AB})`$ is the entanglement entropy.
+where $c$ is the speed of light, $L_P$ is the Planck length, and $S_E(\rho_{AB})$ is the entanglement entropy.
 
 Relationship between classical energy and quantum energy:
 

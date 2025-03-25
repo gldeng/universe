@@ -26,7 +26,7 @@
 
 $$\mathcal{U} = \Omega_Q^{宇宙} \cup \Omega_C^{宇宙}$$
 
-其中 $`\Omega_Q^{宇宙}`$ 是宇宙量子域，代表全部可能性空间；$`\Omega_C^{宇宙}`$ 是宇宙经典域，代表已经实现的确定现实。
+其中 $\Omega_Q^{宇宙}$ 是宇宙量子域，代表全部可能性空间；$\Omega_C^{宇宙}$ 是宇宙经典域，代表已经实现的确定现实。
 
 宇宙二元结构的特点：
 - 宇宙量子域比任何子系统的量子域更广阔
@@ -39,7 +39,7 @@ $$\mathcal{U} = \Omega_Q^{宇宙} \cup \Omega_C^{宇宙}$$
 
 $$C_{\mathcal{U}}(t) = f\left(\frac{I_{\text{经典}}(t)}{S_{\text{熵}}(t)}\right)$$
 
-其中，$`C_{\mathcal{U}}(t)`$ 是宇宙复杂度，$`I_{\text{经典}}(t)`$ 是已经经典化的信息量，$`S_{\text{熵}}(t)`$ 是总熵。
+其中，$C_{\mathcal{U}}(t)$ 是宇宙复杂度，$I_{\text{经典}}(t)$ 是已经经典化的信息量，$S_{\text{熵}}(t)$ 是总熵。
 
 复杂度演化的关键参数：
 - 局部熵减与全局熵增的平衡
@@ -54,7 +54,7 @@ $$C_{\mathcal{U}}(t) = f\left(\frac{I_{\text{经典}}(t)}{S_{\text{熵}}(t)}\rig
 
 $$|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\mathcal{C}_1} \rho_{\mathcal{U}}(t_1) \xrightarrow{\mathcal{C}_2} \rho_{\mathcal{U}}(t_2) \xrightarrow{\mathcal{C}_3} ...$$
 
-其中 $`\mathcal{C}_i`$ 表示第i阶段的经典化过程。
+其中 $\mathcal{C}_i$ 表示第i阶段的经典化过程。
 
 经典化过程特征：
 - 早期宇宙的快速经典化（物质-辐射分离）
@@ -67,7 +67,7 @@ $$|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\mathcal{C}_1} \rho_{\mathcal{U}}
 
 $$\mathcal{L}_1 \rightarrow \mathcal{L}_2 \rightarrow \mathcal{L}_3 \rightarrow ... \rightarrow \mathcal{L}_n$$
 
-其中 $`\mathcal{L}_i`$ 表示第i层级的物理规律。
+其中 $\mathcal{L}_i$ 表示第i层级的物理规律。
 
 层级涌现的模式：
 - 基本粒子→原子→分子→生物高分子→细胞→多细胞生物→认知系统→社会系统
@@ -80,7 +80,7 @@ $$\mathcal{L}_1 \rightarrow \mathcal{L}_2 \rightarrow \mathcal{L}_3 \rightarrow 
 
 $$\frac{d\mathcal{U}}{dt} = \nabla \cdot J_I + \Sigma_I$$
 
-其中 $`J_I`$ 是信息流密度，$`\Sigma_I`$ 是信息产生率。
+其中 $J_I$ 是信息流密度，$\Sigma_I$ 是信息产生率。
 
 非平衡态维持机制：
 - 能量梯度（恒星辐射）驱动信息组织
@@ -95,7 +95,7 @@ $$\frac{d\mathcal{U}}{dt} = \nabla \cdot J_I + \Sigma_I$$
 
 $$\max_{\mathcal{U}} \sum_i D_{\mathcal{O}_i} \cdot N_{\mathcal{O}_i}$$
 
-其中 $`D_{\mathcal{O}_i}`$ 是第i类观察者的维度，$`N_{\mathcal{O}_i}`$ 是该类观察者的数量。
+其中 $D_{\mathcal{O}_i}$ 是第i类观察者的维度，$N_{\mathcal{O}_i}$ 是该类观察者的数量。
 
 学习系统特征：
 - 通过不断经典化过程积累"宇宙知识"
@@ -121,7 +121,7 @@ $$\frac{d\mathcal{U}}{dt} = \nabla_{\mathcal{U}} C_{\mathcal{U}}$$
 
 $$\lim_{t \rightarrow \infty} \max_i D_{\mathcal{O}_i}(t) \rightarrow D_{max}$$
 
-其中 $`D_{max}`$ 是理论上可能的最高观察者维度。
+其中 $D_{max}$ 是理论上可能的最高观察者维度。
 
 观察者创造表现为：
 - 物理条件精细调节以允许复杂观察者出现
@@ -136,7 +136,7 @@ $$\lim_{t \rightarrow \infty} \max_i D_{\mathcal{O}_i}(t) \rightarrow D_{max}$$
 
 $$\rho_{\mathcal{U}}^{感知} = \bigcup_i \mathcal{O}_i(\rho_{\mathcal{U}})$$
 
-其中 $`\mathcal{O}_i`$ 是第i个观察者的测量算符。
+其中 $\mathcal{O}_i$ 是第i个观察者的测量算符。
 
 观察者网络特性：
 - 分布式感知整合为宇宙整体"意识"
@@ -149,7 +149,7 @@ $$\rho_{\mathcal{U}}^{感知} = \bigcup_i \mathcal{O}_i(\rho_{\mathcal{U}})$$
 
 $$\frac{d\rho_{\mathcal{U}}}{dt} = \mathcal{L}(\rho_{\mathcal{U}}) + \sum_i \alpha_i \mathcal{F}_i(\rho_{\mathcal{U}})$$
 
-其中 $`\mathcal{L}`$ 是自然演化项，$`\mathcal{F}_i`$ 是第i类观察者的回馈作用，$`\alpha_i`$ 是其影响强度。
+其中 $\mathcal{L}$ 是自然演化项，$\mathcal{F}_i$ 是第i类观察者的回馈作用，$\alpha_i$ 是其影响强度。
 
 回馈机制表现：
 - 观察选择效应（人择原理的扩展）
@@ -180,7 +180,7 @@ $$\begin{cases}
 
 $$\lim_{t \rightarrow \infty} \frac{\Omega_Q^{宇宙}}{\Omega_C^{宇宙}} = \gamma_{opt}$$
 
-其中 $`\gamma_{opt}`$ 是最优平衡比例，保证足够的确定性和创造性。
+其中 $\gamma_{opt}$ 是最优平衡比例，保证足够的确定性和创造性。
 
 平衡态特征：
 - 足够的经典结构维持复杂观察者存在
@@ -193,7 +193,7 @@ $$\lim_{t \rightarrow \infty} \frac{\Omega_Q^{宇宙}}{\Omega_C^{宇宙}} = \gam
 
 $$\Phi_{\mathcal{U}} = \int_{\mathcal{U}} \phi(x) d\mu(x) \rightarrow \Phi_{critical}$$
 
-其中 $`\Phi_{\mathcal{U}}`$ 是宇宙整合信息量，$`\phi(x)`$ 是局部整合信息密度，$`\Phi_{critical}`$ 是意识涌现临界值。
+其中 $\Phi_{\mathcal{U}}$ 是宇宙整合信息量，$\phi(x)$ 是局部整合信息密度，$\Phi_{critical}$ 是意识涌现临界值。
 
 宇宙意识特性：
 - 分布式但整合的信息处理

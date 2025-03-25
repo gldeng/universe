@@ -26,9 +26,9 @@ From a quantum-classical dualism perspective, the evolutionary process can be re
 $$\mathcal{E} = \{\mathcal{Q}_E, \mathcal{C}_E, \mathcal{I}_E\}$$
 
 Where:
-- $`\mathcal{Q}_E`$ is the quantum component of evolution (possibility generation, mutation, innovation)
-- $`\mathcal{C}_E`$ is the classical component of evolution (selection, stabilization, preservation)
-- $`\mathcal{I}_E`$ is the quantum-classical interface of evolution (phenotypic expression, environmental interaction)
+- $\mathcal{Q}_E$ is the quantum component of evolution (possibility generation, mutation, innovation)
+- $\mathcal{C}_E$ is the classical component of evolution (selection, stabilization, preservation)
+- $\mathcal{I}_E$ is the quantum-classical interface of evolution (phenotypic expression, environmental interaction)
 
 This structure indicates that evolution is neither a purely random process nor a completely deterministic one, but a composite structure of two dynamics.
 
@@ -42,7 +42,7 @@ The probability distribution of mutations is related to the quantum state wavefu
 
 $$P(V_i) = |\langle V_i|\Psi_G\rangle|^2 \cdot f_{environment}(V_i)$$
 
-Where $`|\Psi_G\rangle`$ is the quantum state of the genome, and $`f_{environment}`$ is the environmental correction function.
+Where $|\Psi_G\rangle$ is the quantum state of the genome, and $f_{environment}$ is the environmental correction function.
 
 This explains why mutations are not completely random but are guided biased-random processes influenced by the underlying quantum structure.
 
@@ -52,13 +52,13 @@ Natural selection can be viewed as a special classicalization operator:
 
 $$\mathcal{S} = \sum_i w_i |i\rangle\langle i|$$
 
-Where $`w_i`$ is the fitness weight and $`|i\rangle`$ is the phenotype state.
+Where $w_i$ is the fitness weight and $|i\rangle$ is the phenotype state.
 
 The selection process follows information extraction dynamics:
 
 $$\frac{dI_S}{dt} = \eta_S \cdot \frac{dI_{environment}}{dt} - \gamma \cdot I_S$$
 
-Where $`I_S`$ is the system's adaptive information, $`I_{environment}`$ is environmental information, $`\eta_S`$ is selection efficiency, and $`\gamma`$ is the information decay rate.
+Where $I_S$ is the system's adaptive information, $I_{environment}$ is environmental information, $\eta_S$ is selection efficiency, and $\gamma$ is the information decay rate.
 
 ## Quantum-Classical Processes in Evolutionary Innovation
 
@@ -80,7 +80,7 @@ The transition of innovation from quantum to classical occurs under specific con
 
 $$\frac{d\mathcal{D}}{dt} \geq \frac{1}{\tau_{\text{environment}}}$$
 
-Where $`\mathcal{D}`$ is the decoherence measure and $`\tau_{\text{environment}}`$ is the environmental time scale.
+Where $\mathcal{D}$ is the decoherence measure and $\tau_{\text{environment}}$ is the environmental time scale.
 
 Under specific environmental pressure, innovation breaks through a critical point:
 
@@ -94,7 +94,7 @@ The fixation of innovations in populations follows quantum-classical mixed proba
 
 $$P_{fixation} = P_C \cdot (1 + Q_{\text{gain}})$$
 
-Where $`P_C`$ is the classical fixation probability and $`Q_{\text{gain}}`$ is the quantum gain factor. The quantum gain is proportional to the complexity of the innovation:
+Where $P_C$ is the classical fixation probability and $Q_{\text{gain}}$ is the quantum gain factor. The quantum gain is proportional to the complexity of the innovation:
 
 $$Q_{\text{gain}} \propto \log(C_{\text{innovation}})$$
 
@@ -120,7 +120,7 @@ Quantum-classical conversion exhibits different characteristics at different evo
 
 $$\mathcal{C}_E(s) = \mathcal{C}_0 \cdot f(s)$$
 
-Where $`s`$ is the system scale parameter and $`f(s)`$ is the scale modulation function, typically satisfying:
+Where $s$ is the system scale parameter and $f(s)$ is the scale modulation function, typically satisfying:
 
 $$f(s) \propto s^{\alpha}, \quad \alpha \in [0,1]$$
 
@@ -132,7 +132,7 @@ Ecosystems can be viewed as networks performing distributed quantum computation:
 
 $$|\Psi_{\text{ecosystem}}\rangle = \bigotimes_{i=1}^N |\psi_i\rangle + \sum_{i,j} \lambda_{ij}|\psi_i\psi_j\rangle + ...$$
 
-Where $`|\psi_i\rangle`$ is the species state and $`\lambda_{ij}`$ is the inter-species entanglement coefficient.
+Where $|\psi_i\rangle$ is the species state and $\lambda_{ij}$ is the inter-species entanglement coefficient.
 
 Ecosystems explore the fitness landscape through this distributed quantum computation, greatly accelerating evolutionary rates:
 
@@ -146,7 +146,7 @@ From a higher-dimensional perspective, evolutionary paths exhibit quasi-determin
 
 $$\vec{E}(t) = \vec{E}(0) + \int_0^t \vec{v}_E(\tau) d\tau + \vec{\xi}(t)$$
 
-Where $`\vec{v}_E`$ is the evolutionary velocity vector and $`\vec{\xi}`$ is the random fluctuation. In higher-dimensional space, random fluctuations are constrained around deterministic paths:
+Where $\vec{v}_E$ is the evolutionary velocity vector and $\vec{\xi}$ is the random fluctuation. In higher-dimensional space, random fluctuations are constrained around deterministic paths:
 
 $$\frac{|\vec{\xi}|}{|\vec{v}_E|} \propto \frac{1}{\sqrt{N_{\text{dimensions}}}}$$
 
@@ -158,13 +158,13 @@ Topological constraints in evolutionary space form channels for evolution:
 
 $$\mathcal{M}_{\text{evolution}} = \{M, g, \Gamma\}$$
 
-Where $`M`$ is the evolutionary manifold, $`g`$ is the metric tensor, and $`\Gamma`$ is the connection.
+Where $M$ is the evolutionary manifold, $g$ is the metric tensor, and $\Gamma$ is the connection.
 
 Topological constraints lead to parallel evolution phenomena:
 
 $$d_{\text{parallel}} \ll d_{\text{random}}$$
 
-Where $`d_{\text{parallel}}`$ is the distance between parallel evolutionary paths and $`d_{\text{random}}`$ is the expected random distance.
+Where $d_{\text{parallel}}$ is the distance between parallel evolutionary paths and $d_{\text{random}}$ is the expected random distance.
 
 ### Quantum-Classical Hybrid Evolutionary Simulation
 
@@ -173,9 +173,9 @@ From a dualistic perspective, evolution can be simulated through a quantum-class
 $$A_{\text{evolution}} = Q_{\text{exploration}} + C_{\text{verification}} + I_{\text{integration}}$$
 
 Where:
-- $`Q_{\text{exploration}}`$ is the quantum exploration phase (mutation generation)
-- $`C_{\text{verification}}`$ is the classical verification phase (selection process)
-- $`I_{\text{integration}}`$ is the integration phase (fixation and diffusion)
+- $Q_{\text{exploration}}$ is the quantum exploration phase (mutation generation)
+- $C_{\text{verification}}$ is the classical verification phase (selection process)
+- $I_{\text{integration}}$ is the integration phase (fixation and diffusion)
 
 This algorithm can overcome local optima traps of purely classical evolutionary algorithms, significantly accelerating the exploration of fitness landscapes.
 
@@ -187,7 +187,7 @@ Horizontal gene transfer can be understood as a quantum tunneling phenomenon of 
 
 $$P_{\text{HGT}} = e^{-2\gamma d_{\text{interspecies}}}$$
 
-Where $`d_{\text{interspecies}}`$ is the interspecies distance measure and $`\gamma`$ is the quantum tunneling parameter.
+Where $d_{\text{interspecies}}$ is the interspecies distance measure and $\gamma$ is the quantum tunneling parameter.
 
 This explains why certain genes can transfer across significant species barriers, especially in the microbial world.
 
@@ -201,7 +201,7 @@ The co-evolutionary rate of symbiotic organisms is proportional to the degree of
 
 $$R_{\text{co-evolution}} = R_{\text{baseline}} \cdot (1 + E(|\Psi_{\text{symbiosis}}\rangle))$$
 
-Where $`E(|\Psi_{\text{symbiosis}}\rangle)`$ is the entanglement measure.
+Where $E(|\Psi_{\text{symbiosis}}\rangle)$ is the entanglement measure.
 
 ### Transfer RNA and Indirect Evolutionary Interference
 
@@ -209,7 +209,7 @@ Non-coding RNA can be viewed as a cross-boundary quantum information carrier:
 
 $$I_{\text{tRNA}} = I_C + I_Q$$
 
-Where $`I_C`$ is the classical information content and $`I_Q`$ is the quantum information content.
+Where $I_C$ is the classical information content and $I_Q$ is the quantum information content.
 
 Transfer RNA can influence evolution in ways that transcend classical gene flow:
 
@@ -267,7 +267,7 @@ Consciousness can be viewed as a special observer in the quantum-classical evolu
 
 $$\mathcal{O}_{\text{consciousness}} = \{\mathcal{C}_{\text{selective}}, \mathcal{Q}_{\text{creative}}, K_C\}$$
 
-Where $`\mathcal{C}_{\text{selective}}`$ is selective attention, $`\mathcal{Q}_{\text{creative}}`$ is creative thinking, and $`K_C`$ is the classical knowledge base.
+Where $\mathcal{C}_{\text{selective}}$ is selective attention, $\mathcal{Q}_{\text{creative}}$ is creative thinking, and $K_C$ is the classical knowledge base.
 
 There exists an isomorphic relationship between consciousness and biological evolution:
 

@@ -51,27 +51,25 @@ The Book of Isaiah is the longest prophetic book in the Old Testament, recording
 ## 数学表达 (Mathematical Expression)
 
 ### 跨时间经典化方程
-
 $$
 |\psi_{\text{预言}}\rangle = \sum_{t=-\infty}^{+\infty} c_t|t\rangle\otimes|\text{事件}_t\rangle
 $$
 
 其中：
-- $`|\psi_{\text{预言}}\rangle`$ 表示预言的量子态
-- $`|t\rangle`$ 代表特定时间点的状态
-- $`|\text{事件}_t\rangle`$ 是t时刻的事件状态
-- $`c_t`$ 是时间权重系数
+- $|\psi_{\text{预言}}\rangle$ 表示预言的量子态
+- $|t\rangle$ 代表特定时间点的状态
+- $|\text{事件}_t\rangle$ 是t时刻的事件状态
+- $c_t$ 是时间权重系数
 
 ### 受苦仆人熵交换方程
-
 $$
 \Delta S_{\text{总体}} = \Delta S_{\text{仆人}} + \Delta S_{\text{人类}} < 0
 $$
 
 其中：
-- $`\Delta S_{\text{总体}}`$ 是整体系统熵变
-- $`\Delta S_{\text{仆人}}`$ 是仆人承担的熵增（正值）
-- $`\Delta S_{\text{人类}}`$ 是人类得救的熵减（负值且绝对值大）
+- $\Delta S_{\text{总体}}$ 是整体系统熵变
+- $\Delta S_{\text{仆人}}$ 是仆人承担的熵增（正值）
+- $\Delta S_{\text{人类}}$ 是人类得救的熵减（负值且绝对值大）
 
 ## 结论 (Conclusion)
 

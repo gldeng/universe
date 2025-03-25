@@ -21,7 +21,7 @@
 - 2 + 1 + 1
 - 1 + 1 + 1 + 1
 
-分拆数 $`p(n)`$ 表示正整数 $`n`$ 的不同分拆方式的数量。整数分拆问题的核心是研究 $`p(n)`$ 的性质、增长率和生成函数，以及分拆满足特定条件的计数问题。
+分拆数 $p(n)$ 表示正整数 $n$ 的不同分拆方式的数量。整数分拆问题的核心是研究 $p(n)$ 的性质、增长率和生成函数，以及分拆满足特定条件的计数问题。
 
 这一问题由欧拉系统研究，拉马努金和哈代在20世纪初取得突破性进展，揭示了分拆函数的惊人性质和渐近公式。
 
@@ -32,7 +32,7 @@ The integer partition problem studies the different ways a positive integer can 
 - 2 + 1 + 1
 - 1 + 1 + 1 + 1
 
-The partition number $`p(n)`$ represents the number of different partition methods for the positive integer $`n`$. The core of the integer partition problem is to study the properties, growth rate, and generating functions of $`p(n)`$, as well as counting problems for partitions satisfying specific conditions.
+The partition number $p(n)$ represents the number of different partition methods for the positive integer $n$. The core of the integer partition problem is to study the properties, growth rate, and generating functions of $p(n)$, as well as counting problems for partitions satisfying specific conditions.
 
 This problem was systematically studied by Euler, with breakthrough progress made by Ramanujan and Hardy in the early 20th century, revealing astonishing properties and asymptotic formulas of the partition function.
 
@@ -40,21 +40,21 @@ This problem was systematically studied by Euler, with breakthrough progress mad
 
 从量子经典二元论视角，整数分拆反映了量子叠加态（混沌）经典化为多种可能路径的组合计数。每一种分拆方式代表了量子信息向经典表达转化的一种可能途径，分拆数则对应了信息经典化的熵状态总数。
 
-特别地，整数 $`n`$ 可视为一个量子能量系统，分拆则表示该系统经典化为不同能级配置的方式。分拆函数 $`p(n)`$ 的复杂性和快速增长反映了量子-经典转换过程中信息熵的爆炸性增长。
+特别地，整数 $n$ 可视为一个量子能量系统，分拆则表示该系统经典化为不同能级配置的方式。分拆函数 $p(n)$ 的复杂性和快速增长反映了量子-经典转换过程中信息熵的爆炸性增长。
 
 From the quantum-classical dualism perspective, integer partitioning reflects the combinatorial counting of quantum superposition states (chaos) classicalized into multiple possible paths. Each partition method represents a possible path for quantum information to transform into classical expression, and the partition number corresponds to the total number of entropy states of information classicalization.
 
-Specifically, the integer $`n`$ can be viewed as a quantum energy system, and the partitions represent the ways this system classicalizes into different energy level configurations. The complexity and rapid growth of the partition function $`p(n)`$ reflect the explosive growth of information entropy in the quantum-classical transformation process.
+Specifically, the integer $n$ can be viewed as a quantum energy system, and the partitions represent the ways this system classicalizes into different energy level configurations. The complexity and rapid growth of the partition function $p(n)$ reflect the explosive growth of information entropy in the quantum-classical transformation process.
 
 ## 形式化描述 | Formal Description
 
-整数 $`n`$ 的一个分拆是将 $`n`$ 表示为正整数之和的一种方式：
+整数 $n$ 的一个分拆是将 $n$ 表示为正整数之和的一种方式：
 
 $$
 n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ 其中 } \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1
 $$
 
-分拆数 $`p(n)`$ 是 $`n`$ 的不同分拆的总数。
+分拆数 $p(n)$ 是 $n$ 的不同分拆的总数。
 
 分拆函数的生成函数为：
 
@@ -62,13 +62,13 @@ $$
 \sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}
 $$
 
-A partition of an integer $`n`$ is a way to represent $`n`$ as a sum of positive integers:
+A partition of an integer $n$ is a way to represent $n$ as a sum of positive integers:
 
 $$
 n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ where } \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1
 $$
 
-The partition number $`p(n)`$ is the total number of different partitions of $`n`$.
+The partition number $p(n)$ is the total number of different partitions of $n$.
 
 The generating function of the partition function is:
 
@@ -82,25 +82,25 @@ $$
 
 ### 1. 集合论基础定义
 
-**定义 1.1 (整数分拆)** 对于自然数 $`n \in \mathbb{N}`$，定义 $`n`$ 的一个分拆 $`\lambda`$ 为满足条件 $`\sum_{i=1}^k \lambda_i = n`$ 且 $`\lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1`$ 的有序 $`k`$ 元组 $`(\lambda_1, \lambda_2, \ldots, \lambda_k)`$。
+**定义 1.1 (整数分拆)** 对于自然数 $n \in \mathbb{N}$，定义 $n$ 的一个分拆 $\lambda$ 为满足条件 $\sum_{i=1}^k \lambda_i = n$ 且 $\lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1$ 的有序 $k$ 元组 $(\lambda_1, \lambda_2, \ldots, \lambda_k)$。
 
-**定义 1.2 (分拆集合)** 定义 $`P(n)`$ 为整数 $`n`$ 的所有分拆构成的集合。形式化地：
+**定义 1.2 (分拆集合)** 定义 $P(n)$ 为整数 $n$ 的所有分拆构成的集合。形式化地：
 $$P(n) = \{\lambda = (\lambda_1, \lambda_2, \ldots, \lambda_k) \mid \sum_{i=1}^k \lambda_i = n, \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1, k \in \mathbb{N}\}$$
 
-**定义 1.3 (分拆函数)** 定义分拆函数 $`p: \mathbb{N} \to \mathbb{N}`$，其中 $`p(n) = |P(n)|`$ 表示集合 $`P(n)`$ 的基数，即整数 $`n`$ 的不同分拆数量。
+**定义 1.3 (分拆函数)** 定义分拆函数 $p: \mathbb{N} \to \mathbb{N}$，其中 $p(n) = |P(n)|$ 表示集合 $P(n)$ 的基数，即整数 $n$ 的不同分拆数量。
 
 ### 2. 生成函数的存在性证明
 
-**定理 2.1 (生成函数表示)** 分拆函数 $`p(n)`$ 的生成函数可表示为无穷乘积：
+**定理 2.1 (生成函数表示)** 分拆函数 $p(n)$ 的生成函数可表示为无穷乘积：
 $$\sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}, \quad |q| < 1$$
 
 **证明:**
 我们使用ZFC公理中的无穷公理和集合存在公理构造证明。
 
-首先，对于每个 $`m \in \mathbb{N}^+`$，考虑形式幂级数：
+首先，对于每个 $m \in \mathbb{N}^+$，考虑形式幂级数：
 $$\frac{1}{1-q^m} = \sum_{j=0}^{\infty} q^{mj} = 1 + q^m + q^{2m} + q^{3m} + \cdots$$
 
-这实际上是几何级数的和，当 $`|q| < 1`$ 时收敛。
+这实际上是几何级数的和，当 $|q| < 1$ 时收敛。
 
 考虑形式幂级数的无穷乘积：
 $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty} q^{mj}$$
@@ -108,17 +108,17 @@ $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty
 根据集合论中的笛卡尔积运算，这个无穷乘积可以展开为：
 $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cdot 1 + j_2 \cdot 2 + j_3 \cdot 3 + \cdots}$$
 
-其中求和遍历所有非负整数序列 $`(j_1, j_2, j_3, \ldots)`$ 使得仅有有限个 $`j_i`$ 非零。
+其中求和遍历所有非负整数序列 $(j_1, j_2, j_3, \ldots)$ 使得仅有有限个 $j_i$ 非零。
 
-关键观察：对于 $`n \in \mathbb{N}`$，系数 $`q^n`$ 的次数对应于整数 $`n`$ 的分拆数。确切地说，每个形如 $`n = 1 \cdot j_1 + 2 \cdot j_2 + 3 \cdot j_3 + \cdots`$ 的表示，其中 $`j_i`$ 是非负整数，对应于将 $`n`$ 分拆为 $`j_1`$ 个 1，$`j_2`$ 个 2，$`j_3`$ 个 3 等。
+关键观察：对于 $n \in \mathbb{N}$，系数 $q^n$ 的次数对应于整数 $n$ 的分拆数。确切地说，每个形如 $n = 1 \cdot j_1 + 2 \cdot j_2 + 3 \cdot j_3 + \cdots$ 的表示，其中 $j_i$ 是非负整数，对应于将 $n$ 分拆为 $j_1$ 个 1，$j_2$ 个 2，$j_3$ 个 3 等。
 
-因此 $`q^n`$ 的系数等于 $`p(n)`$，这完成了证明。$`\square`$
+因此 $q^n$ 的系数等于 $p(n)$，这完成了证明。$\square$
 
 ### 3. 分拆函数的递归性质
 
-**定理 3.1 (分拆函数递归关系)** 分拆函数 $`p(n)`$ 满足以下递归关系：
+**定理 3.1 (分拆函数递归关系)** 分拆函数 $p(n)$ 满足以下递归关系：
 $$p(n) = \sum_{k=1}^{\infty} (-1)^{k-1} \left[ p(n-k(3k-1)/2) + p(n-k(3k+1)/2) \right]$$
-其中约定 $`p(0) = 1`$，且当 $`m < 0`$ 时 $`p(m) = 0`$。
+其中约定 $p(0) = 1$，且当 $m < 0$ 时 $p(m) = 0$。
 
 **证明:**
 基于欧拉五角形数定理：
@@ -127,28 +127,28 @@ $$\prod_{m=1}^{\infty} (1-q^m) = \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}$
 通过对分拆生成函数两边取倒数并展开，得到：
 $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} \cdot \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2} = 1$$
 
-展开左侧，并比较 $`q^n`$ 的系数，可得递归关系。具体地，等式左侧为：
+展开左侧，并比较 $q^n$ 的系数，可得递归关系。具体地，等式左侧为：
 $$\left(\sum_{n=0}^{\infty} p(n)q^n\right) \cdot \left(\sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}\right) = 1$$
 
-比较 $`q^n`$ 的系数，得到上述递归关系。$`\square`$
+比较 $q^n$ 的系数，得到上述递归关系。$\square$
 
 ### 4. 分拆函数的渐近性质
 
-**定理 4.1 (Hardy-Ramanujan 渐近公式)** 当 $`n \to \infty`$ 时，分拆函数 $`p(n)`$ 有以下渐近行为：
+**定理 4.1 (Hardy-Ramanujan 渐近公式)** 当 $n \to \infty$ 时，分拆函数 $p(n)$ 有以下渐近行为：
 $$p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)$$
 
 **证明大纲:**
 完整证明涉及复分析中的圆法(circle method)，此处给出大纲：
 1. 将分拆生成函数表示为分析函数
-2. 应用 Cauchy 积分公式表示 $`p(n)`$
+2. 应用 Cauchy 积分公式表示 $p(n)$
 3. 沿特殊路径评估积分，分析奇点的贡献
 4. 通过复杂的渐近分析得到结果
 
-形式化完整证明需要依赖于复分析理论，此处仅提供证明框架。$`\square`$
+形式化完整证明需要依赖于复分析理论，此处仅提供证明框架。$\square$
 
 ### 5. 分拆的同余性质
 
-**定理 5.1 (Ramanujan 同余)** 对于所有非负整数 $`k`$，有：
+**定理 5.1 (Ramanujan 同余)** 对于所有非负整数 $k$，有：
 $$p(5k+4) \equiv 0 \pmod 5$$
 $$p(7k+5) \equiv 0 \pmod 7$$
 $$p(11k+6) \equiv 0 \pmod{11}$$
@@ -157,35 +157,35 @@ $$p(11k+6) \equiv 0 \pmod{11}$$
 Ramanujan 同余的完整证明涉及模形式理论。基本思路是通过分析分拆生成函数在特定模变换下的行为，建立分拆数的同余关系。
 
 具体证明步骤包括：
-1. 引入模形式 $`\eta`$ 函数：$`\eta(\tau) = q^{1/24} \prod_{n=1}^{\infty}(1-q^n)`$，其中 $`q = e^{2\pi i \tau}`$
-2. 研究特定幂次的 $`\eta`$ 函数在模变换下的行为
-3. 利用 $`\eta`$ 函数与分拆生成函数的关系推导同余性
+1. 引入模形式 $\eta$ 函数：$\eta(\tau) = q^{1/24} \prod_{n=1}^{\infty}(1-q^n)$，其中 $q = e^{2\pi i \tau}$
+2. 研究特定幂次的 $\eta$ 函数在模变换下的行为
+3. 利用 $\eta$ 函数与分拆生成函数的关系推导同余性
 
-完整证明涉及高级数论和模形式理论，此处省略具体步骤。$`\square`$
+完整证明涉及高级数论和模形式理论，此处省略具体步骤。$\square$
 
 The following is a formal proof of the integer partition problem based on the ZFC axiom system:
 
 ### 1. Set-Theoretic Foundations
 
-**Definition 1.1 (Integer Partition)** For a natural number $`n \in \mathbb{N}`$, a partition $`\lambda`$ of $`n`$ is defined as an ordered $`k`$-tuple $`(\lambda_1, \lambda_2, \ldots, \lambda_k)`$ satisfying $`\sum_{i=1}^k \lambda_i = n`$ and $`\lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1`$.
+**Definition 1.1 (Integer Partition)** For a natural number $n \in \mathbb{N}$, a partition $\lambda$ of $n$ is defined as an ordered $k$-tuple $(\lambda_1, \lambda_2, \ldots, \lambda_k)$ satisfying $\sum_{i=1}^k \lambda_i = n$ and $\lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1$.
 
-**Definition 1.2 (Partition Set)** Define $`P(n)`$ as the set of all partitions of the integer $`n`$. Formally:
+**Definition 1.2 (Partition Set)** Define $P(n)$ as the set of all partitions of the integer $n$. Formally:
 $$P(n) = \{\lambda = (\lambda_1, \lambda_2, \ldots, \lambda_k) \mid \sum_{i=1}^k \lambda_i = n, \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1, k \in \mathbb{N}\}$$
 
-**Definition 1.3 (Partition Function)** Define the partition function $`p: \mathbb{N} \to \mathbb{N}`$, where $`p(n) = |P(n)|`$ represents the cardinality of the set $`P(n)`$, i.e., the number of different partitions of the integer $`n`$.
+**Definition 1.3 (Partition Function)** Define the partition function $p: \mathbb{N} \to \mathbb{N}$, where $p(n) = |P(n)|$ represents the cardinality of the set $P(n)$, i.e., the number of different partitions of the integer $n$.
 
 ### 2. Proof of Existence of the Generating Function
 
-**Theorem 2.1 (Generating Function Representation)** The generating function of the partition function $`p(n)`$ can be represented as an infinite product:
+**Theorem 2.1 (Generating Function Representation)** The generating function of the partition function $p(n)$ can be represented as an infinite product:
 $$\sum_{n=0}^{\infty} p(n)q^n = \prod_{m=1}^{\infty} \frac{1}{1-q^m}, \quad |q| < 1$$
 
 **Proof:**
 We construct the proof using the Axiom of Infinity and the Axiom of Set Existence from ZFC.
 
-First, for each $`m \in \mathbb{N}^+`$, consider the formal power series:
+First, for each $m \in \mathbb{N}^+$, consider the formal power series:
 $$\frac{1}{1-q^m} = \sum_{j=0}^{\infty} q^{mj} = 1 + q^m + q^{2m} + q^{3m} + \cdots$$
 
-This is actually the sum of a geometric series, which converges when $`|q| < 1`$.
+This is actually the sum of a geometric series, which converges when $|q| < 1$.
 
 Consider the infinite product of formal power series:
 $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty} q^{mj}$$
@@ -193,17 +193,17 @@ $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \prod_{m=1}^{\infty} \sum_{j=0}^{\infty
 According to the Cartesian product operation in set theory, this infinite product can be expanded as:
 $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} = \sum_{j_1,j_2,\ldots \geq 0} q^{j_1 \cdot 1 + j_2 \cdot 2 + j_3 \cdot 3 + \cdots}$$
 
-where the sum is over all sequences of non-negative integers $`(j_1, j_2, j_3, \ldots)`$ such that only finitely many $`j_i`$ are non-zero.
+where the sum is over all sequences of non-negative integers $(j_1, j_2, j_3, \ldots)$ such that only finitely many $j_i$ are non-zero.
 
-Key observation: For $`n \in \mathbb{N}`$, the coefficient of $`q^n`$ corresponds to the number of partitions of the integer $`n`$. Specifically, each representation of the form $`n = 1 \cdot j_1 + 2 \cdot j_2 + 3 \cdot j_3 + \cdots`$, where $`j_i`$ are non-negative integers, corresponds to partitioning $`n`$ into $`j_1`$ 1's, $`j_2`$ 2's, $`j_3`$ 3's, etc.
+Key observation: For $n \in \mathbb{N}$, the coefficient of $q^n$ corresponds to the number of partitions of the integer $n$. Specifically, each representation of the form $n = 1 \cdot j_1 + 2 \cdot j_2 + 3 \cdot j_3 + \cdots$, where $j_i$ are non-negative integers, corresponds to partitioning $n$ into $j_1$ 1's, $j_2$ 2's, $j_3$ 3's, etc.
 
-Therefore, the coefficient of $`q^n`$ equals $`p(n)`$，这完成了证明。 $`\square`$
+Therefore, the coefficient of $q^n$ equals $p(n)$，这完成了证明。 $\square$
 
 ### 3. Recursive Properties of the Partition Function
 
-**Theorem 3.1 (Recursive Relation of Partition Function)** The partition function $`p(n)`$ satisfies the following recursive relation:
+**Theorem 3.1 (Recursive Relation of Partition Function)** The partition function $p(n)$ satisfies the following recursive relation:
 $$p(n) = \sum_{k=1}^{\infty} (-1)^{k-1} \left[ p(n-k(3k-1)/2) + p(n-k(3k+1)/2) \right]$$
-where it is stipulated that $`p(0) = 1`$, and $`p(m) = 0`$ when $`m < 0`$.
+where it is stipulated that $p(0) = 1$, and $p(m) = 0$ when $m < 0$.
 
 **Proof:**
 Based on Euler's pentagonal number theorem:
@@ -212,28 +212,28 @@ $$\prod_{m=1}^{\infty} (1-q^m) = \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}$
 By taking the reciprocal of both sides of the partition generating function and expanding, we get:
 $$\prod_{m=1}^{\infty} \frac{1}{1-q^m} \cdot \sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2} = 1$$
 
-Expanding the left side and comparing the coefficients of $`q^n`$, we can derive the recursive relation. Specifically, the left side of the equation is:
+Expanding the left side and comparing the coefficients of $q^n$, we can derive the recursive relation. Specifically, the left side of the equation is:
 $$\left(\sum_{n=0}^{\infty} p(n)q^n\right) \cdot \left(\sum_{k=-\infty}^{\infty} (-1)^k q^{k(3k-1)/2}\right) = 1$$
 
-Comparing the coefficients of $`q^n`$, we obtain the above recursive relation. $`\square`$
+Comparing the coefficients of $q^n$, we obtain the above recursive relation. $\square$
 
 ### 4. Asymptotic Properties of the Partition Function
 
-**Theorem 4.1 (Hardy-Ramanujan Asymptotic Formula)** As $`n \to \infty`$, the partition function $`p(n)`$ has the following asymptotic behavior:
+**Theorem 4.1 (Hardy-Ramanujan Asymptotic Formula)** As $n \to \infty$, the partition function $p(n)$ has the following asymptotic behavior:
 $$p(n) \sim \frac{1}{4n\sqrt{3}} \exp\left(\pi\sqrt{\frac{2n}{3}}\right)$$
 
 **Proof Outline:**
 The complete proof involves the circle method in complex analysis, here is an outline:
 1. Represent the partition generating function as an analytic function
-2. Apply Cauchy's integral formula to represent $`p(n)`$
+2. Apply Cauchy's integral formula to represent $p(n)$
 3. Evaluate the integral along a special path, analyzing the contributions of singularities
 4. Obtain the result through complex asymptotic analysis
 
-A formalized complete proof depends on complex analysis theory, only a proof framework is provided here. $`\square`$
+A formalized complete proof depends on complex analysis theory, only a proof framework is provided here. $\square$
 
 ### 5. Congruence Properties of Partitions
 
-**Theorem 5.1 (Ramanujan Congruences)** For all non-negative integers $`k`$, we have:
+**Theorem 5.1 (Ramanujan Congruences)** For all non-negative integers $k$, we have:
 $$p(5k+4) \equiv 0 \pmod 5$$
 $$p(7k+5) \equiv 0 \pmod 7$$
 $$p(11k+6) \equiv 0 \pmod{11}$$
@@ -242,11 +242,11 @@ $$p(11k+6) \equiv 0 \pmod{11}$$
 The complete proof of Ramanujan congruences involves modular forms theory. The basic idea is to establish congruence relations of partition numbers by analyzing the behavior of the partition generating function under specific modular transformations.
 
 Specific proof steps include:
-1. Introduce the modular form $`\eta`$ function: $`\eta(\tau) = q^{1/24} \prod_{n=1}^{\infty}(1-q^n)`$, where $`q = e^{2\pi i \tau}`$
-2. Study the behavior of specific powers of the $`\eta`$ function under modular transformations
-3. Derive congruences using the relationship between the $`\eta`$ function and the partition generating function
+1. Introduce the modular form $\eta$ function: $\eta(\tau) = q^{1/24} \prod_{n=1}^{\infty}(1-q^n)$, where $q = e^{2\pi i \tau}$
+2. Study the behavior of specific powers of the $\eta$ function under modular transformations
+3. Derive congruences using the relationship between the $\eta$ function and the partition generating function
 
-The complete proof involves advanced number theory and modular forms theory, specific steps are omitted here. $`\square`$
+The complete proof involves advanced number theory and modular forms theory, specific steps are omitted here. $\square$
 
 ## 量子经典二元论分析 | Quantum-Classical Dualism Analysis
 
@@ -254,15 +254,15 @@ The complete proof involves advanced number theory and modular forms theory, spe
 
 ### 步骤1：量子-经典表示映射
 
-定义量子态 $`|\psi\rangle_n`$ 表示整数 $`n`$ 的量子能量表示，分拆则对应其经典表达：
+定义量子态 $|\psi\rangle_n$ 表示整数 $n$ 的量子能量表示，分拆则对应其经典表达：
 
 $$
 |\psi\rangle_n = \sum_{\lambda \vdash n} c_\lambda |\lambda\rangle
 $$
 
-其中 $`\lambda \vdash n`$ 表示 $`\lambda`$ 是 $`n`$ 的一个分拆，$`|\lambda\rangle`$ 是对应的基态，$`c_\lambda`$ 是复振幅。
+其中 $\lambda \vdash n$ 表示 $\lambda$ 是 $n$ 的一个分拆，$|\lambda\rangle$ 是对应的基态，$c_\lambda$ 是复振幅。
 
-分拆数则表示量子态 $`|\psi\rangle_n`$ 经典化路径数：
+分拆数则表示量子态 $|\psi\rangle_n$ 经典化路径数：
 
 $$
 p(n) = \text{量子态}|\psi\rangle_n\text{的经典化路径数}
@@ -276,7 +276,7 @@ $$
 \prod_{m=1}^{\infty} \frac{1}{1-q^m} = \text{量子叠加态} \to \text{经典多路径表达的转换函数}
 $$
 
-这个生成函数的形式揭示了量子-经典转换的递归本质，每个因子 $`\frac{1}{1-q^m}`$ 代表一种量子能级对经典表达的贡献。
+这个生成函数的形式揭示了量子-经典转换的递归本质，每个因子 $\frac{1}{1-q^m}$ 代表一种量子能级对经典表达的贡献。
 
 ### 步骤3：五角形数定理的量子经典解读
 
@@ -326,15 +326,15 @@ From the quantum-classical dualism perspective, the analysis of the integer part
 
 ### Step 1: Quantum-Classical Representation Mapping
 
-Define the quantum state $`|\psi\rangle_n`$ to represent the quantum energy representation of integer $`n`$, while partitions correspond to its classical expression:
+Define the quantum state $|\psi\rangle_n$ to represent the quantum energy representation of integer $n$, while partitions correspond to its classical expression:
 
 $$
 |\psi\rangle_n = \sum_{\lambda \vdash n} c_\lambda |\lambda\rangle
 $$
 
-where $`\lambda \vdash n`$ indicates that $`\lambda`$ is a partition of $`n`$, $`|\lambda\rangle`$ is the corresponding basis state, and $`c_\lambda`$ is the complex amplitude.
+where $\lambda \vdash n$ indicates that $\lambda$ is a partition of $n$, $|\lambda\rangle$ is the corresponding basis state, and $c_\lambda$ is the complex amplitude.
 
-The partition number represents the number of classical paths of the quantum state $`|\psi\rangle_n`$:
+The partition number represents the number of classical paths of the quantum state $|\psi\rangle_n$:
 
 $$
 p(n) = \text{number of classical paths of quantum state }|\psi\rangle_n
@@ -348,7 +348,7 @@ $$
 \prod_{m=1}^{\infty} \frac{1}{1-q^m} = \text{quantum superposition state} \to \text{transformation function of classical multi-path expression}
 $$
 
-The form of this generating function reveals the recursive nature of quantum-classical transformation, with each factor $`\frac{1}{1-q^m}`$ representing the contribution of a quantum energy level to classical expression.
+The form of this generating function reveals the recursive nature of quantum-classical transformation, with each factor $\frac{1}{1-q^m}$ representing the contribution of a quantum energy level to classical expression.
 
 ### Step 3: Quantum-Classical Interpretation of the Pentagonal Number Theorem
 

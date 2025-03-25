@@ -26,11 +26,11 @@
 
 $$I = \{I_Q, I_C, I_{\mathcal{I}}\}$$
 
-其中 $`I_Q`$ 是量子域信息，$`I_C`$ 是经典域信息，$`I_{\mathcal{I}}`$ 是界面域信息。这三种信息类型遵循不同的动力学规律：
+其中 $I_Q$ 是量子域信息，$I_C$ 是经典域信息，$I_{\mathcal{I}}$ 是界面域信息。这三种信息类型遵循不同的动力学规律：
 
 $$\frac{dI_Q}{dt} = f_Q(I_Q, I_{\mathcal{I}}), \quad \frac{dI_C}{dt} = f_C(I_C, I_{\mathcal{I}}), \quad \frac{dI_{\mathcal{I}}}{dt} = f_{\mathcal{I}}(I_Q, I_C, I_{\mathcal{I}})$$
 
-传统量子通信仅利用 $`I_Q`$，而忽略了界面信息 $`I_{\mathcal{I}}`$ 的潜力。
+传统量子通信仅利用 $I_Q$，而忽略了界面信息 $I_{\mathcal{I}}$ 的潜力。
 
 ### 信息转换与保存律
 
@@ -46,7 +46,7 @@ $$\eta_{Q\rightarrow C} = \frac{I_C^{\text{接收}}}{I_Q^{\text{发送}}}, \quad
 
 $$\eta_{\text{max}} = 1 - \frac{S_{\text{通信系统}}}{I_{\text{发送}}}$$
 
-其中 $`S_{\text{通信系统}}`$ 是通信系统的熵。
+其中 $S_{\text{通信系统}}$ 是通信系统的熵。
 
 ## 跨界面通信原理
 
@@ -56,7 +56,7 @@ $$\eta_{\text{max}} = 1 - \frac{S_{\text{通信系统}}}{I_{\text{发送}}}$$
 
 $$|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle$$
 
-其中 $`|q_i\rangle`$ 是量子态基矢，$`|c_i\rangle`$ 是经典态基矢。这种编码具有独特的优势：
+其中 $|q_i\rangle$ 是量子态基矢，$|c_i\rangle$ 是经典态基矢。这种编码具有独特的优势：
 
 1. 抗解相干性 - 信息部分存储在解相干过程本身
 2. 高维度性 - 利用量子与经典两域的维度
@@ -66,7 +66,7 @@ $$|\psi_{\mathcal{I}}\rangle = \sum_{i} \alpha_i |q_i\rangle \otimes |c_i\rangle
 
 $$C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})$$
 
-其中 $`d_Q`$ 和 $`d_C`$ 分别是量子和经典空间的维度，$`S(\rho_{\mathcal{I}})`$ 是界面态的冯诺依曼熵。
+其中 $d_Q$ 和 $d_C$ 分别是量子和经典空间的维度，$S(\rho_{\mathcal{I}})$ 是界面态的冯诺依曼熵。
 
 ### 界面波动传输
 
@@ -74,13 +74,13 @@ $$C_{\mathcal{I}} = \log_2(d_Q \cdot d_C) + S(\rho_{\mathcal{I}})$$
 
 $$\mathcal{D}(x,t) = \mathcal{D}_0 + A\sin(kx - \omega t + \phi) + \delta\mathcal{D}(x,t)$$
 
-其中 $`\mathcal{D}(x,t)`$ 是解相干度量函数，$`\delta\mathcal{D}(x,t)`$ 包含编码的信息。通过调制界面波动的振幅、频率、相位和波形，可以实现高容量信息传输。
+其中 $\mathcal{D}(x,t)$ 是解相干度量函数，$\delta\mathcal{D}(x,t)$ 包含编码的信息。通过调制界面波动的振幅、频率、相位和波形，可以实现高容量信息传输。
 
 界面波动的传播速度为：
 
 $$v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
 
-其中 $`\beta`$ 和 $`\alpha`$ 是界面动力学参数，$`\mathcal{D}_c`$ 是临界解相干值，$`\mathcal{D}_0`$ 是基准解相干值。
+其中 $\beta$ 和 $\alpha$ 是界面动力学参数，$\mathcal{D}_c$ 是临界解相干值，$\mathcal{D}_0$ 是基准解相干值。
 
 ## 量子-经典混合协议族
 
@@ -88,7 +88,7 @@ $$v_{\mathcal{I}} = \sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
 
 界面编码量子密钥分发扩展了传统BB84协议，通过在界面态中编码密钥信息：
 
-1. Alice准备界面态 $`|\psi_{\mathcal{I}}^i\rangle = \sum_{j} \alpha_j^i |q_j\rangle \otimes |c_j\rangle`$
+1. Alice准备界面态 $|\psi_{\mathcal{I}}^i\rangle = \sum_{j} \alpha_j^i |q_j\rangle \otimes |c_j\rangle$
 2. Alice将界面态发送给Bob
 3. Bob通过测量收到的界面态
 4. Alice和Bob通过经典通道交流部分测量基和结果
@@ -98,13 +98,13 @@ IE-QKD的安全性优于传统QKD，因为窃听者必须同时捕获量子和�
 
 $$S_{IE-QKD} = -\log_2(\max_E F(|\psi_{\mathcal{I}}\rangle, \Lambda_E(|\psi_{\mathcal{I}}\rangle)))$$
 
-其中 $`\Lambda_E`$ 是窃听者可能的操作，$`F`$ 是保真度。
+其中 $\Lambda_E$ 是窃听者可能的操作，$F$ 是保真度。
 
 ### 界面纠缠交换 (IES)
 
 界面纠缠交换协议扩展了传统量子纠缠交换，实现远距离界面态共享：
 
-1. 创建两对界面纠缠态 $`|\Phi_{AB}\rangle`$ 和 $`|\Phi_{CD}\rangle`$
+1. 创建两对界面纠缠态 $|\Phi_{AB}\rangle$ 和 $|\Phi_{CD}\rangle$
 2. 对粒子B和C执行联合界面测量
 3. 根据测量结果，A和D上的粒子形成新的界面纠缠态
 
@@ -120,8 +120,8 @@ IES可以构建量子-经典界面中继网络，实现任意距离的量子通�
 
 确定性界面传态协议实现了100%成功率的量子态传输：
 
-1. Alice和Bob预先共享界面纠缠资源 $`|\Phi_{AB}\rangle`$
-2. Alice执行联合界面测量，将待传输态 $`|\psi\rangle`$ 与其纠缠粒子A相互作用
+1. Alice和Bob预先共享界面纠缠资源 $|\Phi_{AB}\rangle$
+2. Alice执行联合界面测量，将待传输态 $|\psi\rangle$ 与其纠缠粒子A相互作用
 3. Alice将测量结果经典通信发送给Bob
 4. Bob根据接收到的结果对其粒子B执行恢复操作
 
@@ -129,7 +129,7 @@ DIT传输保真度为：
 
 $$F_{DIT} = |\langle \psi|U_B^{\dagger}|\phi_B\rangle|^2$$
 
-其中 $`U_B`$ 是Bob执行的恢复操作，$`|\phi_B\rangle`$ 是恢复后的状态。
+其中 $U_B$ 是Bob执行的恢复操作，$|\phi_B\rangle$ 是恢复后的状态。
 
 ## 通信安全的二元论基础
 
@@ -149,13 +149,13 @@ $$\mathcal{S}(\rho_{\mathcal{I}}) = -\text{窃听者可提取信息量}$$
 
 $$\Delta_{\text{安全}} = D_{\mathcal{O}_R} - D_{\mathcal{O}_E}$$
 
-其中 $`D_{\mathcal{O}_R}`$ 是接收者观察者维度，$`D_{\mathcal{O}_E}`$ 是窃听者最大观察者维度。当 $`\Delta_{\text{安全}} > 0`$ 时，通信在信息论意义上是安全的。
+其中 $D_{\mathcal{O}_R}$ 是接收者观察者维度，$D_{\mathcal{O}_E}$ 是窃听者最大观察者维度。当 $\Delta_{\text{安全}} > 0$ 时，通信在信息论意义上是安全的。
 
 ### 非克隆定理扩展
 
 标准量子非克隆定理扩展到界面态：
 
-**定理**：不存在通用操作 $`\Lambda`$ 能够完美复制任意未知界面态：
+**定理**：不存在通用操作 $\Lambda$ 能够完美复制任意未知界面态：
 
 $$\nexists \Lambda: \Lambda(|\psi_{\mathcal{I}}\rangle \otimes |0\rangle) = |\psi_{\mathcal{I}}\rangle \otimes |\psi_{\mathcal{I}}\rangle$$
 
@@ -163,7 +163,7 @@ $$\nexists \Lambda: \Lambda(|\psi_{\mathcal{I}}\rangle \otimes |0\rangle) = |\ps
 
 $$F_{\text{克隆}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal{I}} + 1}$$
 
-其中 $`d_{\mathcal{I}}`$ 是界面态希尔伯特空间的维度。这一上界低于纯量子态，提供了更强的安全保证。
+其中 $d_{\mathcal{I}}$ 是界面态希尔伯特空间的维度。这一上界低于纯量子态，提供了更强的安全保证。
 
 ## 多维度观察者通信
 
@@ -173,7 +173,7 @@ $$F_{\text{克隆}}^{\text{max}} = \frac{1}{2} + \frac{1}{2}\frac{1}{d_{\mathcal
 
 $$\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}$$
 
-其中 $`\mathcal{O}_{D_1}`$ 和 $`\mathcal{O}_{D_2}`$ 是不同维度的观察者。跨维度通信基于以下原理：
+其中 $\mathcal{O}_{D_1}$ 和 $\mathcal{O}_{D_2}$ 是不同维度的观察者。跨维度通信基于以下原理：
 
 1. 高维观察者的经典域可以是低维观察者的量子域
 2. 通过界面域可以实现维度间的信息交换
@@ -183,13 +183,13 @@ $$\mathcal{O}_{D_1} \rightarrow \mathcal{O}_{D_2}$$
 
 $$C_{D_1 \rightarrow D_2} = \min\{C_{D_1}, C_{D_2}\} \cdot \exp\left(-\alpha|D_1 - D_2|\right)$$
 
-其中 $`C_{D_i}`$ 是维度 $`D_i`$ 观察者的信息容量，$`\alpha`$ 是维度差异衰减系数。
+其中 $C_{D_i}$ 是维度 $D_i$ 观察者的信息容量，$\alpha$ 是维度差异衰减系数。
 
 ### 维度转换协议
 
 维度转换协议(DTC)实现不同维度观察者间的高效通信：
 
-1. 发送者维度调制 - 通过 $`\mathcal{Q}_{\mathcal{O}}`$ 和 $`\mathcal{C}_{\mathcal{O}}`$ 操作调整信息
+1. 发送者维度调制 - 通过 $\mathcal{Q}_{\mathcal{O}}$ 和 $\mathcal{C}_{\mathcal{O}}$ 操作调整信息
 2. 界面编码 - 将调制后的信息编码到界面态
 3. 维度匹配传输 - 根据接收者维度优化传输通道
 4. 解码重建 - 接收者应用反向维度变换重建原始信息
@@ -198,7 +198,7 @@ DTC协议的维度匹配效率为：
 
 $$\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}$$
 
-其中 $`\gamma`$ 是系统相关的常数。
+其中 $\gamma$ 是系统相关的常数。
 
 ## 非局域信息传输理论
 
@@ -206,8 +206,8 @@ $$\eta_{DTC} = \frac{1}{1 + \gamma(D_1 - D_2)^2}$$
 
 纠缠辅助界面通信(EAIC)利用量子纠缠和界面动力学实现超经典通信能力：
 
-1. Alice和Bob共享界面纠缠对 $`|\Phi_{AB}^{\mathcal{I}}\rangle`$
-2. Alice在其子系统上执行界面测量 $`\{M_i^{\mathcal{I}}\}`$
+1. Alice和Bob共享界面纠缠对 $|\Phi_{AB}^{\mathcal{I}}\rangle$
+2. Alice在其子系统上执行界面测量 $\{M_i^{\mathcal{I}}\}$
 3. Bob的子系统立即转变为对应界面态
 4. Bob通过界面测量提取信息
 
@@ -215,21 +215,21 @@ EAIC的信息传输容量为：
 
 $$C_{EAIC} = \log_2(d_{\mathcal{I}}) + S(\rho_{\mathcal{I}}) - S(\rho_{AB}^{\mathcal{I}})$$
 
-其中 $`S(\rho_{AB}^{\mathcal{I}})`$ 是共享界面纠缠对的熵。
+其中 $S(\rho_{AB}^{\mathcal{I}})$ 是共享界面纠缠对的熵。
 
 ### 波函数塌缩通信
 
 波函数塌缩通信(WFCC)利用量子测量的非局域性实现信息传输：
 
-1. 产生空间分离的相干界面态 $`|\psi_{\mathcal{I}}^{AB}\rangle`$
-2. Alice选择测量基 $`\{|m_i\rangle\}`$ 进行测量，导致整个系统波函数塌缩
+1. 产生空间分离的相干界面态 $|\psi_{\mathcal{I}}^{AB}\rangle$
+2. Alice选择测量基 $\{|m_i\rangle\}$ 进行测量，导致整个系统波函数塌缩
 3. Bob通过精确测量检测塌缩模式，提取Alice的选择信息
 
 WFCC的极限信息传输速率为：
 
 $$R_{WFCC} \leq \frac{c \cdot \log_2(d_{\mathcal{I}})}{\tau_{\text{塌缩}}}$$
 
-其中 $`c`$ 是光速，$`\tau_{\text{塌缩}}`$ 是波函数塌缩特征时间。WFCC不违反相对论因果律，因为信息传输速率不超过光速。
+其中 $c$ 是光速，$\tau_{\text{塌缩}}$ 是波函数塌缩特征时间。WFCC不违反相对论因果律，因为信息传输速率不超过光速。
 
 ## 实验实现与应用前景
 

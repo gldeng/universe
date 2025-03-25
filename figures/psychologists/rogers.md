@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{Rogers}}: \Omega_Q^{\text{潜能}} \xrightarrow{\text{治疗关系}} \Omega_C^{\text{实现}}$$
 
-其中$`\Omega_Q^{\text{潜能}}`$代表个体潜能的量子可能性空间，$`\Omega_C^{\text{实现}}`$代表通过治疗实现的经典确定性状态。
+其中$\Omega_Q^{\text{潜能}}$代表个体潜能的量子可能性空间，$\Omega_C^{\text{实现}}$代表通过治疗实现的经典确定性状态。
 
 ### 历史影响
 
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, Rogers' therapeutic theory can be ex
 
 $$\mathcal{M}_{\text{Rogers}}: \Omega_Q^{\text{potential}} \xrightarrow{\text{therapeutic relationship}} \Omega_C^{\text{actualization}}$$
 
-Where $`\Omega_Q^{\text{potential}}`$ represents the quantum possibility space of individual potential, and $`\Omega_C^{\text{actualization}}`$ represents the classical deterministic state achieved through therapy.
+Where $\Omega_Q^{\text{potential}}$ represents the quantum possibility space of individual potential, and $\Omega_C^{\text{actualization}}$ represents the classical deterministic state achieved through therapy.
 
 ### Historical Impact
 

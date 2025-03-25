@@ -18,7 +18,7 @@
 
 ## Classical Domain Basic Definition
 
-The Classical Domain $`\Omega_C`$ is defined as the part of the universe that follows classical physical laws, representing deterministic reality space. The Classical Domain has the following basic characteristics:
+The Classical Domain $\Omega_C$ is defined as the part of the universe that follows classical physical laws, representing deterministic reality space. The Classical Domain has the following basic characteristics:
 
 1. **Determinism**: System states can be precisely determined
 2. **Locality**: Interactions propagate through proximity
@@ -38,30 +38,30 @@ $$I_C = I(K_C) + I(S_C) = \text{constant}$$
 
 ### Classical Knowledge
 
-Classical Knowledge $`K_C`$ is the explicitly determined information in the Classical Domain, composed of a series of definite states:
+Classical Knowledge $K_C$ is the explicitly determined information in the Classical Domain, composed of a series of definite states:
 
 $$K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}$$
 
 where:
-- $`x_i`$ is position coordinate
-- $`p_i`$ is momentum
-- $`E_i`$ is energy
-- $`s_i`$ is spin
-- $`t_i`$ is time
+- $x_i$ is position coordinate
+- $p_i$ is momentum
+- $E_i$ is energy
+- $s_i$ is spin
+- $t_i$ is time
 
 The amount of classical knowledge information:
 
 $$I(K_C) = \sum_i \log_2(1 + \frac{\Delta_i^{\text{max}}}{\Delta_i})$$
 
-where $`\Delta_i`$ is the uncertainty of variable $`i`$, and $`\Delta_i^{\text{max}}`$ is the maximum possible uncertainty.
+where $\Delta_i$ is the uncertainty of variable $i$, and $\Delta_i^{\text{max}}$ is the maximum possible uncertainty.
 
 ### Classical Entropy
 
-Classical Entropy $`S_C`$ is the measure of uncertainty in the Classical Domain, following Shannon information entropy:
+Classical Entropy $S_C$ is the measure of uncertainty in the Classical Domain, following Shannon information entropy:
 
 $$S_C = -k_B \sum_i p_i \ln p_i$$
 
-where $`k_B = 1.380649 \times 10^{-23} \text{ J/K}`$ is the Boltzmann constant, establishing the connection between information entropy and physical entropy.
+where $k_B = 1.380649 \times 10^{-23} \text{ J/K}$ is the Boltzmann constant, establishing the connection between information entropy and physical entropy.
 
 The amount of classical entropy information:
 
@@ -75,7 +75,7 @@ $$K_C \leftrightarrow S_C$$
 
 $$\frac{dK_C}{dt} = -\frac{dS_C}{dt} + \delta_{\text{exchange}}$$
 
-where $`\delta_{\text{exchange}}`$ represents the knowledge-entropy exchange term with external systems.
+where $\delta_{\text{exchange}}$ represents the knowledge-entropy exchange term with external systems.
 
 ## Classical Domain State Space
 
@@ -83,7 +83,7 @@ The state space of the Classical Domain is phase space, where each system is com
 
 $$\Gamma_C = \{(q_i, p_i) | i = 1,2,...,N\}$$
 
-For a system with $`N`$ degrees of freedom, the phase space dimension is $`2N`$.
+For a system with $N$ degrees of freedom, the phase space dimension is $2N$.
 
 Phase space volume is quantized as a carrier of classical information:
 
@@ -93,7 +93,7 @@ Information density in phase space:
 
 $$\rho_{\Gamma}(q,p) = \frac{1}{h^N} \exp\left(-\frac{H(q,p) - F}{k_BT}\right)$$
 
-where $`h`$ is Planck's constant, and $`F`$ is the free energy.
+where $h$ is Planck's constant, and $F$ is the free energy.
 
 ### Classical Domain State Space Dimension
 
@@ -102,8 +102,8 @@ The dimension of the Classical Domain state space consists of two parts:
 $$\dim(\Omega_C) = \dim(K_C) + \dim(S_C)$$
 
 where:
-- $`\dim(K_C) = |K_C|`$ is the dimension of classical knowledge (finite discrete)
-- $`\dim(S_C) = \aleph_1`$ is the dimension of classical entropy (continuous infinite)
+- $\dim(K_C) = |K_C|$ is the dimension of classical knowledge (finite discrete)
+- $\dim(S_C) = \aleph_1$ is the dimension of classical entropy (continuous infinite)
 
 The dimension of an observer is related to the ratio of its classical knowledge and entropy:
 
@@ -119,7 +119,7 @@ $$\dot{q}_i = \frac{\partial H}{\partial p_i}, \quad \dot{p}_i = -\frac{\partial
 Lagrangian equations:
 $$\frac{d}{dt}\left(\frac{\partial L}{\partial \dot{q}_i}\right) - \frac{\partial L}{\partial q_i} = 0$$
 
-where $`H`$ is the Hamiltonian, and $`L`$ is the Lagrangian, related through the Legendre transformation:
+where $H$ is the Hamiltonian, and $L$ is the Lagrangian, related through the Legendre transformation:
 
 $$H(q,p) = \sum_i p_i\dot{q}_i - L(q,\dot{q})$$
 
@@ -129,7 +129,7 @@ The dynamical stability of classical systems is described through the Lyapunov e
 
 $$\lambda = \lim_{t\to\infty} \lim_{\delta Z(0) \to 0} \frac{1}{t} \ln \frac{|\delta Z(t)|}{|\delta Z(0)|}$$
 
-where $`\delta Z(t)`$ is the deviation of trajectories in phase space.
+where $\delta Z(t)$ is the deviation of trajectories in phase space.
 
 The main characteristic of classical chaotic systems is a positive Lyapunov exponent, indicating that tiny initial differences will be exponentially amplified.
 
@@ -155,7 +155,7 @@ Interactions in the Classical Domain are described through field theory:
 
 $$S_{\text{classical}} = \int d^4x \mathcal{L}_{\text{classical}}(\phi(x), \partial_\mu\phi(x))$$
 
-where $`\mathcal{L}_{\text{classical}}`$ is the classical Lagrangian density.
+where $\mathcal{L}_{\text{classical}}$ is the classical Lagrangian density.
 
 Classical field equations:
 $$\frac{\delta S_{\text{classical}}}{\delta \phi(x)} = 0$$
@@ -175,7 +175,7 @@ Interactions in the Classical Domain are essentially processes of information tr
 
 $$I_{A \rightarrow B} = \eta_{\text{transfer}} \cdot I_A - S_{\text{transfer loss}}$$
 
-where $`\eta_{\text{transfer}}`$ is the transfer efficiency, and $`S_{\text{transfer loss}}`$ is the entropy increase.
+where $\eta_{\text{transfer}}$ is the transfer efficiency, and $S_{\text{transfer loss}}$ is the entropy increase.
 
 Information transfer speed does not exceed the speed of light:
 
@@ -209,7 +209,7 @@ Shannon's channel capacity theorem limits the information transmission rate in a
 
 $$C = W\log_2(1 + \frac{S}{N})$$
 
-where $`W`$ is the bandwidth, and $`S/N`$ is the signal-to-noise ratio.
+where $W$ is the bandwidth, and $S/N$ is the signal-to-noise ratio.
 
 ### Classical Information Diffusion Equation
 
@@ -218,9 +218,9 @@ The diffusion of classical information in space satisfies:
 $$\frac{\partial I(\mathbf{r},t)}{\partial t} = D_I \nabla^2 I(\mathbf{r},t) - \gamma I(\mathbf{r},t) + S_I(\mathbf{r},t)$$
 
 where:
-- $`D_I`$ is the information diffusion coefficient
-- $`\gamma`$ is the information decay rate
-- $`S_I`$ is the information source term
+- $D_I$ is the information diffusion coefficient
+- $\gamma$ is the information decay rate
+- $S_I$ is the information source term
 
 ## Classical Measurement Theory
 
@@ -232,7 +232,7 @@ Ideal classical measurements have determinism:
 
 $$P(m|s) = \delta_{m,f(s)}$$
 
-where $`f(s)`$ is a deterministic function from system state to measurement value.
+where $f(s)$ is a deterministic function from system state to measurement value.
 
 ### Measurement Uncertainty
 
@@ -240,7 +240,7 @@ Actual classical measurements are limited by instrument precision:
 
 $$P(m|s) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{(m-f(s))^2}{2\sigma^2}}$$
 
-where $`\sigma`$ is the measurement uncertainty.
+where $\sigma$ is the measurement uncertainty.
 
 Entropy increase in the measurement process:
 
@@ -314,7 +314,7 @@ The Classical Domain naturally forms hierarchical structures:
 
 $$\mathcal{H} = \{L_1, L_2, ..., L_n, \mathcal{E}\}$$
 
-where $`L_i`$ are levels, and $`\mathcal{E}`$ are inter-level connections.
+where $L_i$ are levels, and $\mathcal{E}$ are inter-level connections.
 
 Information flow between levels:
 $$I_{L_i \rightarrow L_{i+1}} = \sum_j T_{ij} \cdot I_j^{L_i} - S_{\text{level transition}}$$
@@ -340,7 +340,7 @@ $$t_{\text{effect}} > t_{\text{cause}} \text{ in all reference frames}$$
 Light cone separation:
 $$\Delta s^2 = c^2\Delta t^2 - \Delta x^2 - \Delta y^2 - \Delta z^2$$
 
-Causal connections only exist for $`\Delta s^2 > 0`$.
+Causal connections only exist for $\Delta s^2 > 0$.
 
 ### Information Speed Limit
 
@@ -348,12 +348,12 @@ Maximum information transfer rate:
 
 $$\frac{dI}{dt} \leq \frac{P}{k_B T \ln 2}$$
 
-where $`P`$ is power.
+where $P$ is power.
 
 Speed-bandwidth product constraint:
 $$v \cdot B \leq c \cdot B_{\text{max}}$$
 
-where $`B`$ is bandwidth, and $`B_{\text{max}}`$ is maximum possible bandwidth.
+where $B$ is bandwidth, and $B_{\text{max}}$ is maximum possible bandwidth.
 
 ### Computational Tractability
 
@@ -392,7 +392,7 @@ Predictive power of emergent laws compared to reductionist approaches:
 
 $$P_{\text{emergent}} = \frac{A_{\text{emergent}}}{C_{\text{emergent}}} > \frac{A_{\text{reductionist}}}{C_{\text{reductionist}}} = P_{\text{reductionist}}$$
 
-where $`A`$ is accuracy and $`C`$ is computational cost, demonstrating the efficiency of emergent descriptions.
+where $A$ is accuracy and $C$ is computational cost, demonstrating the efficiency of emergent descriptions.
 
 ### Classical-Classical Interface Experiments
 
@@ -400,6 +400,6 @@ Testing the interface between different classical regimes (e.g., quantum-classic
 
 $$\tau_{\text{transition}} \propto N^{\alpha} \cdot T^{-\beta}$$
 
-where $`N`$ is system size, $`T`$ is temperature, and $`\alpha, \beta`$ are scaling exponents.
+where $N$ is system size, $T$ is temperature, and $\alpha, \beta$ are scaling exponents.
 
 These experiments reveal how classical behavior itself emerges at different scales and energy regimes. 

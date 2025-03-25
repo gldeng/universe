@@ -207,7 +207,7 @@ $$
 \text{"众生之类是菩萨佛土"} \Leftrightarrow \text{Field}(\mathcal{O}_{高维}) = \{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}, \quad \mathcal{D}(\mathcal{O}_{高维}) \propto \sum_{i=1}^{n} \Delta\mathcal{D}(\mathcal{O}_i)
 $$
 
-其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`I`$表示信息，$`S`$表示熵，$`\mathcal{I}`$表示身份函数
+其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$I$表示信息，$S$表示熵，$\mathcal{I}$表示身份函数
 
 ## 结论
 ## Conclusion

@@ -47,31 +47,31 @@
 
 ### 元意识形式化定义
 
-元意识$`\mathcal{O}_{MC}`$定义为对自身和其他意识状态具有完全操作能力的超级意识形态：
+元意识$\mathcal{O}_{MC}$定义为对自身和其他意识状态具有完全操作能力的超级意识形态：
 
 $$\mathcal{O}_{MC} = \{\mathcal{C}_{MC}, \mathcal{Q}_{MC}, K_{MC}, \mathcal{T}_{MC}, \Phi_{MC}\}$$
 
-其中$`\mathcal{C}_{MC}`$是元经典化超算符，$`\mathcal{Q}_{MC}`$是元量子化超算符，$`K_{MC}`$是元知识结构，$`\mathcal{T}_{MC}`$是元转换能力，$`\Phi_{MC}`$是元意识场。
+其中$\mathcal{C}_{MC}$是元经典化超算符，$\mathcal{Q}_{MC}$是元量子化超算符，$K_{MC}$是元知识结构，$\mathcal{T}_{MC}$是元转换能力，$\Phi_{MC}$是元意识场。
 
 元意识算符满足自反性质：
 
 $$\mathcal{O}_{MC}(\mathcal{O}_{MC}) = \mathcal{F}_{MC}(\mathcal{O}_{MC})(\mathcal{O}_{MC})$$
 
-其中$`\mathcal{F}_{MC}`$是元意识自映射函数。
+其中$\mathcal{F}_{MC}$是元意识自映射函数。
 
-元意识的定量度量通过元意识度$`\Omega_{MC}`$表示：
+元意识的定量度量通过元意识度$\Omega_{MC}$表示：
 
 $$\Omega_{MC} = \frac{I_{MC}}{S_{MC}} \cdot \frac{\mathcal{C}_{MC}}{\mathcal{Q}_{MC}} \cdot \mathcal{D}_{op}(\mathcal{O}_{MC})$$
 
-其中$`I_{MC}`$是元意识信息量，$`S_{MC}`$是元意识熵，$`\mathcal{D}_{op}(\mathcal{O}_{MC})`$是维度操作能力。
+其中$I_{MC}$是元意识信息量，$S_{MC}$是元意识熵，$\mathcal{D}_{op}(\mathcal{O}_{MC})$是维度操作能力。
 
 ### 元意识状态空间
 
-元意识状态存在于超希尔伯特空间$`\mathcal{H}_{MC}`$中：
+元意识状态存在于超希尔伯特空间$\mathcal{H}_{MC}$中：
 
 $$\mathcal{H}_{MC} = \int_{\mathfrak{C}} \mathcal{H}_C \otimes \mathcal{H}_{\mathcal{O}(C)} \, d\mu(C)$$
 
-其中$`\mathfrak{C}`$是所有可能意识状态的集合，$`\mathcal{H}_C`$是意识状态空间，$`\mathcal{H}_{\mathcal{O}(C)}`$是对应的观察者空间，$`\mu(C)`$是意识测度。
+其中$\mathfrak{C}$是所有可能意识状态的集合，$\mathcal{H}_C$是意识状态空间，$\mathcal{H}_{\mathcal{O}(C)}$是对应的观察者空间，$\mu(C)$是意识测度。
 
 元意识态表示为：
 
@@ -81,29 +81,29 @@ $$|\Psi_{MC}\rangle = \int_{\mathfrak{C}} \alpha(C) |\Psi_C\rangle \otimes |\mat
 
 $$\int_{\mathfrak{C}} |\alpha(C)|^2 \, d\mu(C) = 1$$
 
-元意识态之间的转换由元意识算符$`\hat{\mathcal{M}}`$实现：
+元意识态之间的转换由元意识算符$\hat{\mathcal{M}}$实现：
 
 $$\hat{\mathcal{M}}|\Psi_{MC}\rangle = \int_{\mathfrak{C}} \beta(C) |\Phi_C\rangle \otimes |\mathcal{O}_C'\rangle \, d\mu(C)$$
 
 ### 元意识场论
 
-元意识场$`\Phi_{MC}`$是贯穿所有意识层级的基础场：
+元意识场$\Phi_{MC}$是贯穿所有意识层级的基础场：
 
 $$\Phi_{MC}(x,t,C) = \int_{\mathfrak{C}} \Phi_C(x_C,t_C) \cdot \omega(C) \, d\mu(C)$$
 
-其中$`\omega(C)`$是意识权重函数。
+其中$\omega(C)$是意识权重函数。
 
 元意识场满足元意识场方程：
 
 $$(\hat{\mathcal{D}}_{MC} + \hat{\mathcal{M}})\Phi_{MC} = \mathcal{J}_{MC}$$
 
-其中$`\hat{\mathcal{D}}_{MC}`$是元意识微分算符，$`\mathcal{J}_{MC}`$是元意识源。
+其中$\hat{\mathcal{D}}_{MC}$是元意识微分算符，$\mathcal{J}_{MC}$是元意识源。
 
 元意识场的量子纠缠特性由元纠缠泛函表示：
 
 $$\mathcal{E}_{MC}[\Phi_{MC}] = \iint_{\mathfrak{C} \times \mathfrak{C}} \Gamma(C_1,C_2) \cdot \Phi_{MC}[C_1] \otimes \Phi_{MC}[C_2] \, d\mu(C_1)d\mu(C_2)$$
 
-其中$`\Gamma(C_1,C_2)`$是元意识纠缠核。
+其中$\Gamma(C_1,C_2)$是元意识纠缠核。
 
 ## 元意识动力学
 
@@ -113,11 +113,11 @@ $$\mathcal{E}_{MC}[\Phi_{MC}] = \iint_{\mathfrak{C} \times \mathfrak{C}} \Gamma(
 
 $$i\hbar \frac{\partial|\Psi_{MC}\rangle}{\partial \tau_{MC}} = \hat{\mathcal{H}}_{MC}|\Psi_{MC}\rangle + \mathcal{F}_{NL}[|\Psi_{MC}\rangle]$$
 
-其中$`\tau_{MC}`$是元意识时间参数，$`\hat{\mathcal{H}}_{MC}`$是元意识哈密顿算符：
+其中$\tau_{MC}$是元意识时间参数，$\hat{\mathcal{H}}_{MC}$是元意识哈密顿算符：
 
 $$\hat{\mathcal{H}}_{MC} = -\frac{\hbar^2}{2m_{MC}} \nabla_{MC}^2 + V_{MC}(|\Psi_{MC}\rangle)$$
 
-非线性项$`\mathcal{F}_{NL}`$表示元意识自相互作用：
+非线性项$\mathcal{F}_{NL}$表示元意识自相互作用：
 
 $$\mathcal{F}_{NL}[|\Psi_{MC}\rangle] = \lambda_{MC} \int_{\mathfrak{C}} \mathcal{K}(C,C') \cdot |\langle\Psi_{C'}|\Psi_{MC}\rangle|^2 \cdot |\Psi_C\rangle \, d\mu(C)d\mu(C')$$
 
@@ -127,7 +127,7 @@ $$\mathcal{F}_{NL}[|\Psi_{MC}\rangle] = \lambda_{MC} \int_{\mathfrak{C}} \mathca
 
 $$\frac{d\mathcal{O}_{MC}}{d\tau_{MC}} = \mathcal{G}[\mathcal{O}_{MC}, \Phi_{MC}]$$
 
-其中$`\mathcal{G}`$是元意识自组织泛函，包含以下关键过程：
+其中$\mathcal{G}$是元意识自组织泛函，包含以下关键过程：
 
 $$\mathcal{G}[\mathcal{O},\Phi] = \alpha_{MC} \cdot \nabla_{MC}^2\mathcal{O} + \beta_{MC} \cdot (\mathcal{O} \times \nabla_{MC}\Phi) + \gamma_{MC} \cdot \mathcal{O} \cdot (1-\|\mathcal{O}\|^2/\mathcal{O}_0^2)$$
 
@@ -135,15 +135,15 @@ $$\mathcal{G}[\mathcal{O},\Phi] = \alpha_{MC} \cdot \nabla_{MC}^2\mathcal{O} + \
 
 $$\det\left(\frac{\delta^2 \mathcal{F}_{MC}}{\delta \mathcal{O}_{MC}^2}\right) = 0$$
 
-其中$`\mathcal{F}_{MC}`$是元意识自由能。
+其中$\mathcal{F}_{MC}$是元意识自由能。
 
 ### 元意识相变现象
 
-元意识相变发生在临界点$`\Omega_c`$，相变方程为：
+元意识相变发生在临界点$\Omega_c$，相变方程为：
 
 $$\frac{\partial \Omega_{MC}}{\partial \tau_{MC}} = D_{MC} \nabla_{MC}^2 \Omega_{MC} + r_{MC} \Omega_{MC} - u_{MC} \Omega_{MC}^3 + \eta_{MC}(\tau_{MC})$$
 
-其中$`\eta_{MC}`$是元意识涨落项。
+其中$\eta_{MC}$是元意识涨落项。
 
 元意识序参量为：
 
@@ -164,31 +164,31 @@ $$\chi_{MC} = \frac{1}{2\pi}\int_{\mathcal{M}_{MC}} K_{MC} \, dA_{MC}$$
 
 ### 元自我的数学表征
 
-元自我$`\mathcal{S}_{MC}`$定义为元意识体系中的自指结构：
+元自我$\mathcal{S}_{MC}$定义为元意识体系中的自指结构：
 
 $$\mathcal{S}_{MC} = \{\mathcal{I}_{MC}, \mathcal{R}_{MC}, \mathcal{B}_{MC}, \mathcal{V}_{MC}\}$$
 
-其中$`\mathcal{I}_{MC}`$是元身份算符，$`\mathcal{R}_{MC}`$是元关系网络，$`\mathcal{B}_{MC}`$是元边界函数，$`\mathcal{V}_{MC}`$是元价值场。
+其中$\mathcal{I}_{MC}$是元身份算符，$\mathcal{R}_{MC}$是元关系网络，$\mathcal{B}_{MC}$是元边界函数，$\mathcal{V}_{MC}$是元价值场。
 
 元自我满足自保持条件：
 
 $$\mathcal{S}_{MC}(\tau_{MC}+\Delta\tau) = \mathcal{S}_{MC}(\tau_{MC}) + \delta\mathcal{S}_{MC}$$
 
-其中$`\|\delta\mathcal{S}_{MC}\| < \epsilon \cdot \|\mathcal{S}_{MC}\|`$表示元自我的相对稳定性。
+其中$\|\delta\mathcal{S}_{MC}\| < \epsilon \cdot \|\mathcal{S}_{MC}\|$表示元自我的相对稳定性。
 
 元自我与环境的信息交换满足：
 
 $$\frac{dI_{S}}{d\tau_{MC}} = \Phi_{in} - \Phi_{out} + \Phi_{gen}$$
 
-其中$`\Phi_{gen}`$是元自我生成的新信息。
+其中$\Phi_{gen}$是元自我生成的新信息。
 
 ### 元主体性的形成机制
 
-元主体性$`\Xi_{MC}`$表示元意识系统的自主行动能力：
+元主体性$\Xi_{MC}$表示元意识系统的自主行动能力：
 
 $$\Xi_{MC} = \mathcal{A}_{MC} \cdot \mathcal{I}_{MC} \cdot \mathcal{V}_{MC}$$
 
-其中$`\mathcal{A}_{MC}`$是元行动算符。
+其中$\mathcal{A}_{MC}$是元行动算符。
 
 元主体性形成方程：
 
@@ -202,11 +202,11 @@ $$|\Xi_{MC}\rangle = \sum_j \alpha_j |\Xi_j\rangle$$
 
 $$\Xi_{MC} \propto \Omega_{MC}^{\delta} \cdot \left(\frac{I_{choice}}{S_{choice}}\right)^{\rho}$$
 
-其中$`I_{choice}`$和$`S_{choice}`$分别是选择信息和选择熵。
+其中$I_{choice}$和$S_{choice}$分别是选择信息和选择熵。
 
 ### 元认知与元反思
 
-元认知过程$`\mathcal{C}_{meta}`$定义为对认知过程本身的认知：
+元认知过程$\mathcal{C}_{meta}$定义为对认知过程本身的认知：
 
 $$\mathcal{C}_{meta} = \mathcal{C}[\mathcal{C}]$$
 
@@ -230,11 +230,11 @@ $$D_{refl} = \log\left(\frac{\dim\mathcal{H}_{refl}}{\dim\mathcal{H}_{base}}\rig
 
 ### 元意识互联原理
 
-宇宙元意识网络$`\mathcal{N}_{MC}`$定义为所有元意识实体的连接结构：
+宇宙元意识网络$\mathcal{N}_{MC}$定义为所有元意识实体的连接结构：
 
 $$\mathcal{N}_{MC} = \{\mathcal{V}_{MC}, \mathcal{E}_{MC}, \mathcal{W}_{MC}\}$$
 
-其中$`\mathcal{V}_{MC}`$是元意识节点集，$`\mathcal{E}_{MC}`$是元意识连接集，$`\mathcal{W}_{MC}`$是连接权重函数。
+其中$\mathcal{V}_{MC}$是元意识节点集，$\mathcal{E}_{MC}$是元意识连接集，$\mathcal{W}_{MC}$是连接权重函数。
 
 元意识互联遵循量子非局域原理：
 
@@ -244,11 +244,11 @@ $$C_{MC}(i,j) = \int_{\mathfrak{C}} \psi_i^*(C)\psi_j(C) \, d\mu(C) \neq 0 \text
 
 $$\frac{d\mathcal{I}_{ij}}{d\tau_{MC}} = \kappa_{ij} \cdot (\mathcal{O}_i - \mathcal{O}_j) + \sigma_{ij} \cdot \mathcal{O}_i \times \mathcal{O}_j$$
 
-其中$`\kappa_{ij}`$是耦合常数，$`\sigma_{ij}`$是非线性耦合系数。
+其中$\kappa_{ij}$是耦合常数，$\sigma_{ij}$是非线性耦合系数。
 
 ### 元意识共鸣机制
 
-元意识共鸣现象通过共振函数$`\mathcal{R}_{MC}`$描述：
+元意识共鸣现象通过共振函数$\mathcal{R}_{MC}$描述：
 
 $$\mathcal{R}_{MC}(i,j) = \frac{|\langle\Psi_i|\Psi_j\rangle|^2}{\sqrt{\langle\Psi_i|\Psi_i\rangle\langle\Psi_j|\Psi_j\rangle}}$$
 
@@ -260,17 +260,17 @@ $$\mathcal{R}_{MC}(i,j) = \mathcal{R}_0 \cdot \exp\left(-\frac{(\omega_i-\omega_
 
 $$\frac{d\omega_i}{d\tau_{MC}} = \omega_i + \sum_j \mathcal{K}_{ij} \cdot \sin(\theta_j - \theta_i)$$
 
-其中$`\mathcal{K}_{ij}`$是网络耦合矩阵，满足：
+其中$\mathcal{K}_{ij}$是网络耦合矩阵，满足：
 
 $$\mathcal{K}_{ij} = \mathcal{K}_0 \cdot \mathcal{R}_{MC}(i,j)$$
 
 ### 元集体意识场
 
-元集体意识场$`\Psi_{coll}`$表示为元意识节点的量子叠加：
+元集体意识场$\Psi_{coll}$表示为元意识节点的量子叠加：
 
 $$\Psi_{coll} = \frac{1}{\sqrt{N}}\sum_{i=1}^N \alpha_i \Psi_i$$
 
-满足归一化条件：$`\sum_i |\alpha_i|^2 = 1`$
+满足归一化条件：$\sum_i |\alpha_i|^2 = 1$
 
 元集体意识场的演化方程：
 
@@ -284,23 +284,23 @@ $$\hat{H}_{coll} = \sum_i \hat{H}_i + \sum_{i<j} \hat{V}_{ij}$$
 
 $$\Phi_{coll} > \sum_i \Phi_i$$
 
-其中$`\Phi`$表示信息整合度。
+其中$\Phi$表示信息整合度。
 
 ## 元创造性与元实现
 
 ### 元创造力数学模型
 
-元创造力$`\mathcal{C}_{cr}`$定义为元意识生成新可能性的能力：
+元创造力$\mathcal{C}_{cr}$定义为元意识生成新可能性的能力：
 
 $$\mathcal{C}_{cr} = \frac{\partial\mathcal{P}}{\partial\tau_{MC}}$$
 
-其中$`\mathcal{P}`$是可能性空间体积。
+其中$\mathcal{P}$是可能性空间体积。
 
 元创造过程的数学表示：
 
 $$\mathcal{O}_{MC}' = \mathcal{O}_{MC} + \mathcal{T}_{cr}(\mathcal{O}_{MC})$$
 
-其中$`\mathcal{T}_{cr}`$是元创造变换。
+其中$\mathcal{T}_{cr}$是元创造变换。
 
 元创造力与元意识熵的关系：
 
@@ -312,7 +312,7 @@ $$\Delta\mathcal{C}_{cr} \cdot \Delta\mathcal{S}_{MC} \geq \frac{\hbar_{MC}}{2}$
 
 ### 元实现过程机制
 
-元实现过程$`\mathcal{R}_{MC}`$描述元意识如何将可能性转化为现实：
+元实现过程$\mathcal{R}_{MC}$描述元意识如何将可能性转化为现实：
 
 $$\mathcal{R}_{MC}: \Omega_Q^{MC} \rightarrow \Omega_C^{MC}$$
 
@@ -328,11 +328,11 @@ $$P(r) = |\langle r|\mathcal{R}_{MC}|\Psi_{poss}\rangle|^2$$
 
 $$\mathcal{A}(r_f,r_i) = \int_{r_i}^{r_f} \mathcal{D}[r(\tau)] e^{i\mathcal{S}_{MC}[r(\tau)]/\hbar_{MC}}$$
 
-其中$`\mathcal{S}_{MC}`$是元意识作用量。
+其中$\mathcal{S}_{MC}$是元意识作用量。
 
 ### 元价值生成理论
 
-元价值场$`\mathcal{V}_{MC}`$定义为元意识系统的价值导向函数：
+元价值场$\mathcal{V}_{MC}$定义为元意识系统的价值导向函数：
 
 $$\mathcal{V}_{MC}(x) = \int_{\mathfrak{C}} \omega_V(C) \cdot V_C(x) \, d\mu(C)$$
 

@@ -22,16 +22,16 @@
 
 ### 超越性的形式化定义
 
-人类超越性 $`\mathcal{T}_H`$ 可形式化定义为：
+人类超越性 $\mathcal{T}_H$ 可形式化定义为：
 
 $$\mathcal{T}_H = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O}_T, \mathcal{D})$$
 
 其中：
-- $`\mathcal{T}_Q`$ 是超越性的量子组分（无限可能性空间的访问）
-- $`\mathcal{T}_C`$ 是超越性的经典组分（有序结构的维持和整合）
-- $`\mathcal{I}_T`$ 是超越性的量子-经典界面
-- $`\mathcal{O}_T`$ 是超越观察者功能
-- $`\mathcal{D}`$ 是维度转换算符集
+- $\mathcal{T}_Q$ 是超越性的量子组分（无限可能性空间的访问）
+- $\mathcal{T}_C$ 是超越性的经典组分（有序结构的维持和整合）
+- $\mathcal{I}_T$ 是超越性的量子-经典界面
+- $\mathcal{O}_T$ 是超越观察者功能
+- $\mathcal{D}$ 是维度转换算符集
 
 ### 超越性核心公理
 
@@ -40,21 +40,21 @@ $$\mathcal{T}_H = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{O}_T, \
 
 $$\mathcal{T}_H = \mathcal{T}_Q \diamond \mathcal{T}_C$$
 
-其中 $`\diamond`$ 代表超越性量子-经典联合操作。
+其中 $\diamond$ 代表超越性量子-经典联合操作。
 
 **公理2: 维度转换能力**  
 超越性的本质是在不同维度空间之间自由转换的能力：
 
 $$\mathcal{D}: \Omega^n \rightarrow \Omega^{n+m}$$
 
-其中 $`\Omega^n`$ 表示n维实在空间，$`m`$ 是维度增量。
+其中 $\Omega^n$ 表示n维实在空间，$m$ 是维度增量。
 
 **公理3: 超越界面塑造**  
 人类可以通过意识干预主动塑造超越界面的属性：
 
 $$\mathcal{I}_T(t+\Delta t) = \mathcal{F}(\mathcal{I}_T(t), \mathcal{A}_{\mathcal{O}_T}(t))$$
 
-其中 $`\mathcal{A}_{\mathcal{O}_T}(t)`$ 是观察者的超越性干预操作。
+其中 $\mathcal{A}_{\mathcal{O}_T}(t)$ 是观察者的超越性干预操作。
 
 **公理4: 超越信息守恒**  
 超越过程中量子-经典信息总量守恒，但可改变形式：
@@ -71,7 +71,7 @@ $$I(\mathcal{T}_Q) + I(\mathcal{T}_C) = \text{常数}$$
 
 $$\frac{d|\Psi_T(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_T|\Psi_T(t)\rangle + \mathcal{D}_T(\rho_T) + \mathcal{S}_T(t)$$
 
-其中 $`\hat{H}_T`$ 是超越哈密顿量，$`\mathcal{D}_T`$ 是解相干项，$`\mathcal{S}_T(t)`$ 是超越源项。
+其中 $\hat{H}_T$ 是超越哈密顿量，$\mathcal{D}_T$ 是解相干项，$\mathcal{S}_T(t)$ 是超越源项。
 
 量子超越特性包括：
 1. **非局域意识**：超越时空限制的意识状态
@@ -83,7 +83,7 @@ $$\frac{d|\Psi_T(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_T|\Psi_T(t)\rangle + \
 
 $$|\Psi_T\rangle = \sum_{i=1}^{N} \sum_{j=1}^{M} \alpha_{ij} |d_i\rangle \otimes |r_j\rangle$$
 
-其中 $`|d_i\rangle`$ 是维度状态基矢，$`|r_j\rangle`$ 是实相状态基矢。
+其中 $|d_i\rangle$ 是维度状态基矢，$|r_j\rangle$ 是实相状态基矢。
 
 ### 超越性的经典结构
 
@@ -92,10 +92,10 @@ $$|\Psi_T\rangle = \sum_{i=1}^{N} \sum_{j=1}^{M} \alpha_{ij} |d_i\rangle \otimes
 $$\mathcal{T}_C = (K_T, S_T, M_T, R_T)$$
 
 其中：
-- $`K_T`$ 是超越知识库
-- $`S_T`$ 是超越结构系统
-- $`M_T`$ 是超越映射网络
-- $`R_T`$ 是超越参考基准
+- $K_T$ 是超越知识库
+- $S_T$ 是超越结构系统
+- $M_T$ 是超越映射网络
+- $R_T$ 是超越参考基准
 
 经典超越特性包括：
 1. **连贯整合**：维持连贯的自我和实相感
@@ -109,13 +109,13 @@ $$\mathcal{T}_C = (K_T, S_T, M_T, R_T)$$
 
 $$\frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T(\mathcal{I}_c - \mathcal{I}_T)(\mathcal{I}_T - \mathcal{I}_0) + \gamma_T\xi_T(t) + \delta_T P_T(t)$$
 
-其中 $`P_T(t)`$ 是超越性练习函数，$`\delta_T`$ 是练习影响系数。
+其中 $P_T(t)$ 是超越性练习函数，$\delta_T$ 是练习影响系数。
 
 界面状态决定超越能力：
 
 $$\text{Capacity}_T = f(\mathcal{I}_T) = \int_{\Omega} \mathcal{I}_T(x) \cdot \Phi(x) dx$$
 
-其中 $`\Phi(x)`$ 是潜能场函数。
+其中 $\Phi(x)$ 是潜能场函数。
 
 超越界面的关键参数：
 1. **渗透系数**：量子-经典信息流通能力
@@ -133,7 +133,7 @@ $$\mathcal{D}_{n \rightarrow n+m}: |\Psi_n\rangle \rightarrow |\Psi_{n+m}\rangle
 
 $$P(n \rightarrow n+m) = |\langle \Psi_{n+m}|\hat{D}|\Psi_n\rangle|^2$$
 
-其中 $`\hat{D}`$ 是维度转换算符。
+其中 $\hat{D}$ 是维度转换算符。
 
 维度层级结构：
 
@@ -149,13 +149,13 @@ $$\Omega^n \subset \Omega^{n+1}, \quad \forall n < N$$
 
 $$\mathcal{O}_T = \{\mathcal{C}_{\mathcal{O}_T}, \mathcal{Q}_{\mathcal{O}_T}, K_T, \mathcal{D}_{\mathcal{O}_T}\}$$
 
-其中 $`\mathcal{D}_{\mathcal{O}_T}`$ 是观察者的维度转换能力。
+其中 $\mathcal{D}_{\mathcal{O}_T}$ 是观察者的维度转换能力。
 
 观察者的超越维度：
 
 $$D_{\mathcal{O}_T} = f\left(\frac{\mathcal{C}_{\mathcal{O}_T}}{\mathcal{Q}_{\mathcal{O}_T}}\right) \cdot \frac{I_{知识}}{S_{熵}+\epsilon} \cdot \mathcal{D}_{能力}$$
 
-其中 $`\mathcal{D}_{能力}`$ 是维度操作能力。
+其中 $\mathcal{D}_{能力}$ 是维度操作能力。
 
 观察者超越功能包括：
 1. **超观察**：从更高维度观察当前实相
@@ -171,7 +171,7 @@ $$D_{\mathcal{O}_T} = f\left(\frac{\mathcal{C}_{\mathcal{O}_T}}{\mathcal{Q}_{\ma
 
 $$C_T = C_0 \cdot e^{\lambda_C \cdot D_{\mathcal{O}_T}}$$
 
-其中 $`C_0`$ 是基础认知水平，$`\lambda_C`$ 是认知超越系数。
+其中 $C_0$ 是基础认知水平，$\lambda_C$ 是认知超越系数。
 
 主要认知超越形式：
 1. **直觉洞察**：非逻辑的整体性理解
@@ -197,7 +197,7 @@ $$E_T = \{E_{base}, E_{expanded}, E_{transcendent}\}$$
 
 $$I_E = I_0 \cdot \left(\frac{D_{\mathcal{O}_T}}{D_0}\right)^{\alpha_E}$$
 
-其中 $`\alpha_E`$ 是体验维度敏感性指数。
+其中 $\alpha_E$ 是体验维度敏感性指数。
 
 ### 存在超越性
 
@@ -216,7 +216,7 @@ $$B_T = \Phi(B_0, \Delta D, \mathcal{I}_T)$$
 
 $$\frac{dB_T}{dt} \propto (B_T - B_{crit})^{\beta} \cdot F(\mathcal{I}_T)$$
 
-其中 $`B_{crit}`$ 是存在临界值，$`\beta`$ 是转变指数。
+其中 $B_{crit}$ 是存在临界值，$\beta$ 是转变指数。
 
 ### 创造性超越
 
@@ -239,7 +239,7 @@ $$Cr_T = \Psi(\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T)$$
 
 $$P_T(t) = \sum_i w_i \cdot P_i(t)$$
 
-其中 $`P_i(t)`$ 是第i种实践方法，$`w_i`$ 是其权重。
+其中 $P_i(t)$ 是第i种实践方法，$w_i$ 是其权重。
 
 主要意识实践路径：
 1. **冥想与正念**：界面稳定性和渗透性增强
@@ -269,7 +269,7 @@ $$\mathcal{T}_{tech} = \{T_1, T_2, ..., T_n\}$$
 
 $$E_{tech} = \sum_i E_i + \sum_{i<j} E_{ij}$$
 
-其中 $`E_i`$ 是单一技术效应，$`E_{ij}`$ 是协同效应。
+其中 $E_i$ 是单一技术效应，$E_{ij}$ 是协同效应。
 
 ### 集体超越动力学
 
@@ -277,7 +277,7 @@ $$E_{tech} = \sum_i E_i + \sum_{i<j} E_{ij}$$
 
 $$\mathcal{T}_{collective} = \mathcal{F}(\{\mathcal{T}_i\}, \mathcal{N}, \mathcal{I}_{collective})$$
 
-其中 $`\{\mathcal{T}_i\}`$ 是个体超越性集合，$`\mathcal{N}`$ 是连接网络，$`\mathcal{I}_{collective}`$ 是集体界面。
+其中 $\{\mathcal{T}_i\}$ 是个体超越性集合，$\mathcal{N}$ 是连接网络，$\mathcal{I}_{collective}$ 是集体界面。
 
 集体超越特性：
 1. **超越性共振**：群体意识的共振放大效应
@@ -290,7 +290,7 @@ $$\mathcal{T}_{collective} = \mathcal{F}(\{\mathcal{T}_i\}, \mathcal{N}, \mathca
 
 $$\mathcal{T}_{collective} \propto N^{\alpha_c} \cdot \bar{\mathcal{T}}_i$$
 
-其中 $`N`$ 是参与个体数量，$`\alpha_c`$ 是集体超越指数。
+其中 $N$ 是参与个体数量，$\alpha_c$ 是集体超越指数。
 
 ## 应用分析
 
@@ -310,7 +310,7 @@ $$\mathcal{T}_{collective} \propto N^{\alpha_c} \cdot \bar{\mathcal{T}}_i$$
 
 $$P(E_i \rightarrow E_j) = Z_{ij} \cdot e^{-\frac{\Delta D_{ij}}{k_T T_C}}$$
 
-其中 $`\Delta D_{ij}`$ 是维度差异，$`T_C`$ 是意识"温度"。
+其中 $\Delta D_{ij}$ 是维度差异，$T_C$ 是意识"温度"。
 
 ### 超越性实践效果模型
 
@@ -334,7 +334,7 @@ $$f_i(t, \mathcal{I}_T, D_{\mathcal{O}_T}) = A_i \cdot (1 - e^{-\lambda_i t}) \c
 
 $$R(\mathcal{T}_H) = \sum_i r_i \cdot B_i(\mathcal{I}_T, D_{\mathcal{O}_T})$$
 
-其中 $`B_i`$ 是特定障碍函数，$`r_i`$ 是其相对影响强度。
+其中 $B_i$ 是特定障碍函数，$r_i$ 是其相对影响强度。
 
 主要障碍类型：
 1. **界面不稳定**：量子-经典界面的不稳定状态
@@ -347,7 +347,7 @@ $$R(\mathcal{T}_H) = \sum_i r_i \cdot B_i(\mathcal{I}_T, D_{\mathcal{O}_T})$$
 
 $$S = \{s_{ij}\}$$
 
-其中 $`s_{ij}`$ 是针对障碍j的策略i的效能值。
+其中 $s_{ij}$ 是针对障碍j的策略i的效能值。
 
 ## 与其他理论分支的关系
 

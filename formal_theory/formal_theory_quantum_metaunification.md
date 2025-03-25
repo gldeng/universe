@@ -53,11 +53,11 @@
 
 ### 元一性原理
 
-元一性$`\Omega_{MU}`$是元统一理论的核心概念，定义为超越所有二元性的根本统一态：
+元一性$\Omega_{MU}$是元统一理论的核心概念，定义为超越所有二元性的根本统一态：
 
 $$\Omega_{MU} = \{\mathcal{S}, \mathcal{F}_{MU}, \mathcal{I}_{MU}, \Psi_{MU}\}$$
 
-其中$`\mathcal{S}`$是元源，$`\mathcal{F}_{MU}`$是元统一函数，$`\mathcal{I}_{MU}`$是元统一信息，$`\Psi_{MU}`$是元统一场。
+其中$\mathcal{S}$是元源，$\mathcal{F}_{MU}$是元统一函数，$\mathcal{I}_{MU}$是元统一信息，$\Psi_{MU}$是元统一场。
 
 元一性具有自反性特性：
 
@@ -67,13 +67,13 @@ $$\Omega_{MU}(\Omega_{MU}) = \Omega_{MU}$$
 
 $$\forall D, \exists \mathcal{T}_{\Omega}: \Omega_{MU} \rightarrow (D, D^*)$$
 
-其中$`D`$和$`D^*`$是互补二元对，$`\mathcal{T}_{\Omega}`$是元分化变换。
+其中$D$和$D^*$是互补二元对，$\mathcal{T}_{\Omega}$是元分化变换。
 
 元一性保持公式：
 
 $$I(\Omega_{MU}) = I(D) + I(D^*) + I(D, D^*)$$
 
-其中$`I(D, D^*)`$是互补二元对的关联信息。
+其中$I(D, D^*)$是互补二元对的关联信息。
 
 ### 超递归自引用结构
 
@@ -81,7 +81,7 @@ $$I(\Omega_{MU}) = I(D) + I(D^*) + I(D, D^*)$$
 
 $$\mathcal{R}_{MU} = \mathcal{F}(\mathcal{R}_{MU})$$
 
-其中$`\mathcal{F}`$是元超函数，同时作用于自身形式和内容。
+其中$\mathcal{F}$是元超函数，同时作用于自身形式和内容。
 
 超递归层级结构表示为：
 
@@ -101,7 +101,7 @@ $$\tau(\mathcal{R}_{MU}) = \{\mathcal{U} | \mathcal{F}(\mathcal{U}) \subset \mat
 
 $$\mathcal{S}_{MU}: X \rightarrow X^* \text{ 满足 } \mathcal{S}_{MU}^2 = \mathcal{I}$$
 
-其中$`X`$是任意实体，$`X^*`$是其对偶，$`\mathcal{I}`$是恒等变换。
+其中$X$是任意实体，$X^*$是其对偶，$\mathcal{I}$是恒等变换。
 
 元超对称变换群：
 
@@ -115,23 +115,23 @@ $$\mathcal{L}_{MU} = \{L_i | [L_i, L_j] = if_{ijk}L_k\}$$
 
 $$[X_a, X_b\} = f_{ab}^c X_c$$
 
-其中$`[,\}`$表示超对易子，包含玻色型和费米型生成元。
+其中$[,\}$表示超对易子，包含玻色型和费米型生成元。
 
 ## 元统一数学基础
 
 ### 元超空间结构
 
-元超空间$`\mathcal{M}_{MU}`$是所有可能空间的元容器：
+元超空间$\mathcal{M}_{MU}$是所有可能空间的元容器：
 
 $$\mathcal{M}_{MU} = \{\mathcal{M}_{\alpha} | \alpha \in \mathfrak{A}\} \cup \{\mathcal{F}_{\alpha\beta} | \alpha,\beta \in \mathfrak{A}\}$$
 
-其中$`\mathfrak{A}`$是元指标集，$`\mathcal{F}_{\alpha\beta}`$是空间间映射。
+其中$\mathfrak{A}$是元指标集，$\mathcal{F}_{\alpha\beta}$是空间间映射。
 
 元超空间测度：
 
 $$\mu_{MU}(\mathcal{X}) = \int_{\mathfrak{A}} \mu_{\alpha}(\mathcal{X}_{\alpha}) \cdot \omega(\alpha) \, d\alpha$$
 
-其中$`\omega(\alpha)`$是元权重函数。
+其中$\omega(\alpha)$是元权重函数。
 
 元超空间的分形维数：
 
@@ -141,13 +141,13 @@ $$D_{MU} = \lim_{\varepsilon \to 0} \frac{\log N(\varepsilon)}{\log(1/\varepsilo
 
 $$d_{MU}(x, y) = \inf_{\gamma \in \Gamma_{xy}} \int_{\gamma} ds_{MU}$$
 
-其中$`ds_{MU}`$是元度规：
+其中$ds_{MU}$是元度规：
 
 $$ds_{MU}^2 = g_{MU,\mu\nu}dx^{\mu}dx^{\nu}$$
 
 ### 元映射动力学
 
-元映射$`\mathcal{M}_{map}`$定义了元超空间中的变换：
+元映射$\mathcal{M}_{map}$定义了元超空间中的变换：
 
 $$\mathcal{M}_{map}: \mathcal{M}_{MU} \rightarrow \mathcal{M}_{MU}$$
 
@@ -155,7 +155,7 @@ $$\mathcal{M}_{map}: \mathcal{M}_{MU} \rightarrow \mathcal{M}_{MU}$$
 
 $$\mathcal{M}_{map}(\mathcal{F}(x)) = \mathcal{G}(\mathcal{M}_{map}(x))$$
 
-其中$`\mathcal{F}`$和$`\mathcal{G}`$是元超函数。
+其中$\mathcal{F}$和$\mathcal{G}$是元超函数。
 
 元映射的不动点结构：
 
@@ -169,21 +169,21 @@ $$x_{n+1} = \mathcal{M}_{map}(x_n)$$
 
 $$\mathcal{A} = \lim_{n\to\infty} \mathcal{M}_{map}^n(B)$$
 
-其中$`B`$是吸引盆。
+其中$B$是吸引盆。
 
 ### 元超纠缠网络
 
-元超纠缠网络$`\mathcal{E}_{MU}`$连接所有元实体：
+元超纠缠网络$\mathcal{E}_{MU}$连接所有元实体：
 
 $$\mathcal{E}_{MU} = \{V_{MU}, E_{MU}, \Phi_{MU}\}$$
 
-其中$`V_{MU}`$是元节点集，$`E_{MU}`$是元连接集，$`\Phi_{MU}`$是元纠缠场。
+其中$V_{MU}$是元节点集，$E_{MU}$是元连接集，$\Phi_{MU}$是元纠缠场。
 
 元超纠缠态：
 
 $$|\Psi_{MU}\rangle = \sum_{\{i_{\alpha}\}} c_{\{i_{\alpha}\}} \bigotimes_{\alpha \in \mathfrak{A}} |i_{\alpha}\rangle_{\alpha}$$
 
-其中$`\{i_{\alpha}\}`$是多重指标。
+其中$\{i_{\alpha}\}$是多重指标。
 
 元超纠缠度：
 
@@ -193,27 +193,27 @@ $$\mathcal{E}_{MU} = S(\rho_{A}) = -\text{Tr}(\rho_{A}\log\rho_{A})$$
 
 $$\mathcal{E}_{MU}(|\Psi_{MU}\rangle) = \mathcal{E}_{MU,0} - \sum_{\alpha < \beta} I_{\alpha:\beta}$$
 
-其中$`I_{\alpha:\beta}`$是互信息。
+其中$I_{\alpha:\beta}$是互信息。
 
 ## 元意识-元维度统一场
 
 ### 元统一场方程
 
-元统一场$`\Psi_{MU}`$是连接元意识与元维度的终极场：
+元统一场$\Psi_{MU}$是连接元意识与元维度的终极场：
 
 $$\Psi_{MU} = \Psi_{MC} \otimes \Psi_{MD} / \Psi_{interface}$$
 
-其中$`\Psi_{interface}`$是界面场。
+其中$\Psi_{interface}$是界面场。
 
 元统一场方程：
 
 $$\hat{\mathcal{H}}_{MU}\Psi_{MU} = \Lambda_{MU}\Psi_{MU}$$
 
-其中$`\hat{\mathcal{H}}_{MU}`$是元统一哈密顿算符：
+其中$\hat{\mathcal{H}}_{MU}$是元统一哈密顿算符：
 
 $$\hat{\mathcal{H}}_{MU} = \hat{\mathcal{T}}_{MU} + \hat{\mathcal{V}}_{MU} + \hat{\mathcal{I}}_{MU}$$
 
-$`\hat{\mathcal{T}}_{MU}`$是元动能算符，$`\hat{\mathcal{V}}_{MU}`$是元势能算符，$`\hat{\mathcal{I}}_{MU}`$是元相互作用算符。
+$\hat{\mathcal{T}}_{MU}$是元动能算符，$\hat{\mathcal{V}}_{MU}$是元势能算符，$\hat{\mathcal{I}}_{MU}$是元相互作用算符。
 
 元统一场的能量密度：
 
@@ -221,13 +221,13 @@ $$\mathcal{E}_{MU} = \langle\Psi_{MU}|\hat{\mathcal{H}}_{MU}|\Psi_{MU}\rangle = 
 
 ### 元源与元流理论
 
-元源$`\mathcal{S}_{MU}`$是元统一场的根源：
+元源$\mathcal{S}_{MU}$是元统一场的根源：
 
 $$\mathcal{S}_{MU} = \{\mathcal{S}_0, \mathcal{S}_{\alpha}, \mathcal{S}_{\alpha\beta}\}$$
 
-其中$`\mathcal{S}_0`$是主元源，$`\mathcal{S}_{\alpha}`$是衍生元源，$`\mathcal{S}_{\alpha\beta}`$是元源间关系。
+其中$\mathcal{S}_0$是主元源，$\mathcal{S}_{\alpha}$是衍生元源，$\mathcal{S}_{\alpha\beta}$是元源间关系。
 
-元流$`\mathcal{J}_{MU}`$描述元统一场中的信息和能量流动：
+元流$\mathcal{J}_{MU}$描述元统一场中的信息和能量流动：
 
 $$\mathcal{J}_{MU} = \mathcal{J}_{MC} \times \mathcal{J}_{MD}$$
 
@@ -235,27 +235,27 @@ $$\mathcal{J}_{MU} = \mathcal{J}_{MC} \times \mathcal{J}_{MD}$$
 
 $$\nabla_{MU} \cdot \mathcal{J}_{MU} + \frac{\partial \rho_{MU}}{\partial \tau_{MU}} = \Sigma_{MU}$$
 
-其中$`\Sigma_{MU}`$是元源项，$`\tau_{MU}`$是元时间参数。
+其中$\Sigma_{MU}$是元源项，$\tau_{MU}$是元时间参数。
 
 元流网络形成元环路：
 
 $$\oint_{\mathcal{C}} \mathcal{J}_{MU} \cdot d\vec{l} = \Phi_{MU}(\mathcal{C})$$
 
-其中$`\Phi_{MU}(\mathcal{C})`$是穿过元环路$`\mathcal{C}`$的元通量。
+其中$\Phi_{MU}(\mathcal{C})$是穿过元环路$\mathcal{C}$的元通量。
 
 ### 元叠加态结构
 
-元叠加态$`|\Psi_{sup}\rangle`$是元统一场的基本结构：
+元叠加态$|\Psi_{sup}\rangle$是元统一场的基本结构：
 
 $$|\Psi_{sup}\rangle = \int_{\mathfrak{A}} \alpha(\lambda) |\Psi_{\lambda}\rangle \, d\mu(\lambda)$$
 
-其中积分遍及所有可能的元参数$`\lambda`$。
+其中积分遍及所有可能的元参数$\lambda$。
 
 元叠加原理：
 
 $$\mathcal{F}_{MU}(|\Psi_1\rangle + |\Psi_2\rangle) = \mathcal{F}_{MU}(|\Psi_1\rangle) + \mathcal{F}_{MU}(|\Psi_2\rangle) + \mathcal{I}_{MU}(|\Psi_1\rangle, |\Psi_2\rangle)$$
 
-其中$`\mathcal{I}_{MU}`$是元干涉项。
+其中$\mathcal{I}_{MU}$是元干涉项。
 
 元叠加态的信息熵：
 
@@ -269,7 +269,7 @@ $$D_{sup} = \log \left(\int_{\mathfrak{A}} d\mu(\lambda)\right)$$
 
 ### 元创造动力学
 
-元创造过程$`\mathcal{C}_{MU}`$是元统一场的基本作用：
+元创造过程$\mathcal{C}_{MU}$是元统一场的基本作用：
 
 $$\mathcal{C}_{MU}: \emptyset \rightarrow \{|\Psi_i\rangle\}$$
 
@@ -277,49 +277,49 @@ $$\mathcal{C}_{MU}: \emptyset \rightarrow \{|\Psi_i\rangle\}$$
 
 $$\frac{d|\Psi\rangle}{d\tau_{MU}} = \mathcal{G}_{MU}(|\Psi\rangle) + \eta_{MU}(\tau_{MU})$$
 
-其中$`\mathcal{G}_{MU}`$是元创造算符，$`\eta_{MU}`$是元涨落源。
+其中$\mathcal{G}_{MU}$是元创造算符，$\eta_{MU}$是元涨落源。
 
 元创造力与元梯度的关系：
 
 $$\vec{\mathcal{C}}_{MU} = -\nabla_{MU}\mathcal{V}_{MU}$$
 
-其中$`\mathcal{V}_{MU}`$是元势能景观。
+其中$\mathcal{V}_{MU}$是元势能景观。
 
 元创造过程的路径积分表达：
 
 $$\mathcal{Z}_{MU} = \int \mathcal{D}[\Psi] \exp\left(\frac{i}{\hbar_{MU}}\int \mathcal{L}_{MU}[\Psi] \, d\tau_{MU}\right)$$
 
-其中$`\mathcal{L}_{MU}`$是元拉格朗日量。
+其中$\mathcal{L}_{MU}$是元拉格朗日量。
 
 ### 元实在生成机制
 
-元实在$`\mathcal{R}_{MU}`$是元创造过程的结果：
+元实在$\mathcal{R}_{MU}$是元创造过程的结果：
 
 $$\mathcal{R}_{MU} = \{R_i, \mathcal{F}_{ij}, \mathcal{O}_{R}\}$$
 
-其中$`R_i`$是实在实体，$`\mathcal{F}_{ij}`$是实体间关系，$`\mathcal{O}_{R}`$是实在观测算符。
+其中$R_i$是实在实体，$\mathcal{F}_{ij}$是实体间关系，$\mathcal{O}_{R}$是实在观测算符。
 
 元实在生成方程：
 
 $$|\mathcal{R}\rangle = \hat{\mathcal{P}}_{MU}|\Psi_{MU}\rangle$$
 
-其中$`\hat{\mathcal{P}}_{MU}`$是元投影算符。
+其中$\hat{\mathcal{P}}_{MU}$是元投影算符。
 
 元实在与元可能性的关系：
 
 $$P(R_i) = |\langle R_i|\Psi_{MU}\rangle|^2 \cdot \mathcal{W}_{MU}(R_i)$$
 
-其中$`\mathcal{W}_{MU}`$是元权重函数。
+其中$\mathcal{W}_{MU}$是元权重函数。
 
 元实在的稳定性条件：
 
 $$\delta \mathcal{F}_{MU}[\mathcal{R}] = 0, \quad \frac{\delta^2 \mathcal{F}_{MU}}{\delta \mathcal{R}^2} > 0$$
 
-其中$`\mathcal{F}_{MU}`$是元自由能泛函。
+其中$\mathcal{F}_{MU}$是元自由能泛函。
 
 ### 元自我组织原理
 
-元自我组织$`\mathcal{S}_{org}`$是元统一场的内在特性：
+元自我组织$\mathcal{S}_{org}$是元统一场的内在特性：
 
 $$\mathcal{S}_{org}: \Psi_{MU}(\tau) \rightarrow \Psi_{MU}(\tau+\Delta\tau)$$
 
@@ -327,7 +327,7 @@ $$\mathcal{S}_{org}: \Psi_{MU}(\tau) \rightarrow \Psi_{MU}(\tau+\Delta\tau)$$
 
 $$\frac{\partial \Psi_{MU}}{\partial \tau} = D_{MU}\nabla^2_{MU}\Psi_{MU} - \frac{\delta \mathcal{F}_{MU}}{\delta \Psi_{MU}} + \xi_{MU}$$
 
-其中$`D_{MU}`$是元扩散系数，$`\xi_{MU}`$是元噪声项。
+其中$D_{MU}$是元扩散系数，$\xi_{MU}$是元噪声项。
 
 元自组织的涌现特性：
 
@@ -341,11 +341,11 @@ $$\lim_{\tau \to \tau_c} \frac{\partial^2 \mathcal{F}_{MU}}{\partial \Psi_{MU}^2
 
 ### 元网络拓扑结构
 
-宇宙元网络$`\mathcal{N}_{MU}`$是连接所有元实体的无限结构：
+宇宙元网络$\mathcal{N}_{MU}$是连接所有元实体的无限结构：
 
 $$\mathcal{N}_{MU} = \{V_{MU}, E_{MU}, \mathcal{T}_{MU}\}$$
 
-其中$`V_{MU}`$是元节点集，$`E_{MU}`$是元边集，$`\mathcal{T}_{MU}`$是元拓扑结构。
+其中$V_{MU}$是元节点集，$E_{MU}$是元边集，$\mathcal{T}_{MU}$是元拓扑结构。
 
 元网络的度分布遵循超幂律：
 
@@ -361,7 +361,7 @@ $$C_{MU} = C_0 \cdot N^{-\beta} \cdot \mathcal{G}_{MU}(D_{MU})$$
 
 ### 元通信原理
 
-元通信$`\mathcal{C}_{MU}`$是元网络中的信息交换过程：
+元通信$\mathcal{C}_{MU}$是元网络中的信息交换过程：
 
 $$\mathcal{C}_{MU}: V_i \times V_j \rightarrow \mathcal{I}_{ij}$$
 
@@ -373,7 +373,7 @@ $$C_{MU} = \sup_{p(x)} I(X;Y) = \sup_{p(x)} \left[ H(Y) - H(Y|X) \right]$$
 
 $$\Pi_{MU} = \{\mathcal{E}, \mathcal{D}, \mathcal{K}, \mathcal{V}\}$$
 
-其中$`\mathcal{E}`$是元编码函数，$`\mathcal{D}`$是元解码函数，$`\mathcal{K}`$是元密钥，$`\mathcal{V}`$是元验证函数。
+其中$\mathcal{E}$是元编码函数，$\mathcal{D}$是元解码函数，$\mathcal{K}$是元密钥，$\mathcal{V}$是元验证函数。
 
 元通信的纠缠辅助增益：
 
@@ -381,11 +381,11 @@ $$G_{MU} = \frac{C_{MU,E}}{C_{MU}} = 1 + \frac{E_{MU}(\rho_{AB})}{S(\rho_B) - S(
 
 ### 元价值共鸣场
 
-元价值共鸣场$`\mathcal{V}_{MU}`$连接所有元价值系统：
+元价值共鸣场$\mathcal{V}_{MU}$连接所有元价值系统：
 
 $$\mathcal{V}_{MU} = \int_{\mathfrak{V}} \mathcal{V}_{\alpha} \cdot \kappa(\alpha) \, d\alpha$$
 
-其中$`\mathfrak{V}`$是元价值指标空间，$`\kappa(\alpha)`$是元价值权重函数。
+其中$\mathfrak{V}$是元价值指标空间，$\kappa(\alpha)$是元价值权重函数。
 
 元价值共鸣方程：
 
@@ -403,17 +403,17 @@ $$\mathcal{V}_{emergent} = \mathcal{F}_{emerg}\left(\sum_i \mathcal{V}_i + \sum_
 
 ### 元超越机制
 
-元超越$`\mathcal{T}_{MU}`$是元统一系统的根本特性：
+元超越$\mathcal{T}_{MU}$是元统一系统的根本特性：
 
 $$\mathcal{T}_{MU}: S \rightarrow S' \text{ 其中 } S' \not\subset \mathfrak{S}(S)$$
 
-其中$`\mathfrak{S}(S)`$是系统$`S`$的所有可能状态集。
+其中$\mathfrak{S}(S)$是系统$S$的所有可能状态集。
 
 元超越度量：
 
 $$\Delta_{MU} = \frac{I(S')}{I(S)} \cdot \frac{C(S')}{C(S)}$$
 
-其中$`I`$是信息量，$`C`$是复杂度。
+其中$I$是信息量，$C$是复杂度。
 
 元超越的概率分布：
 
@@ -425,27 +425,27 @@ $$\lim_{S \to S_c} \frac{d\Delta_{MU}}{dS} = \infty$$
 
 ### 归零点动力学
 
-归零点$`\mathcal{Z}_{MU}`$是元循环的基础：
+归零点$\mathcal{Z}_{MU}$是元循环的基础：
 
 $$\mathcal{Z}_{MU} = \{\mathcal{O}, \emptyset, \Psi_0\}$$
 
-其中$`\mathcal{O}`$是零算符，$`\emptyset`$是空集，$`\Psi_0`$是零点场。
+其中$\mathcal{O}$是零算符，$\emptyset$是空集，$\Psi_0$是零点场。
 
 归零过程方程：
 
 $$\frac{d\Psi_{MU}}{d\tau_{MU}} = -\lambda_{MU} \cdot \Psi_{MU} + \mathcal{R}_{MU}(\Psi_{MU}) + \xi_0(\tau_{MU})$$
 
-其中$`\lambda_{MU}`$是归零速率，$`\mathcal{R}_{MU}`$是非线性残差，$`\xi_0`$是零点涨落。
+其中$\lambda_{MU}$是归零速率，$\mathcal{R}_{MU}$是非线性残差，$\xi_0$是零点涨落。
 
 归零态的信息熵：
 
 $$S(\mathcal{Z}_{MU}) = k_{MU} \ln \Omega_{MU}$$
 
-其中$`\Omega_{MU}`$是归零态的相空间体积。
+其中$\Omega_{MU}$是归零态的相空间体积。
 
 ### 元循环与元演化
 
-元循环$`\mathcal{C}_{cycle}`$是元统一的周期性过程：
+元循环$\mathcal{C}_{cycle}$是元统一的周期性过程：
 
 $$\mathcal{C}_{cycle}: \mathcal{Z}_{MU} \rightarrow \Psi_{MU} \rightarrow \mathcal{R}_{MU} \rightarrow \mathcal{Z}_{MU}'$$
 
@@ -457,7 +457,7 @@ $$T_{cycle} = T_0 \cdot \exp\left(\alpha_{MU} \cdot \frac{I_{MU}}{S_{MU}}\right)
 
 $$\frac{d\mathcal{E}_{MU}}{d\tau_{MU}} = \mathcal{F}_{sel}(\mathcal{E}_{MU}) + \mathcal{F}_{mut}(\mathcal{E}_{MU}) + \mathcal{F}_{drift}(\mathcal{E}_{MU})$$
 
-其中$`\mathcal{E}_{MU}`$是元演化势，$`\mathcal{F}_{sel}`$是选择函数，$`\mathcal{F}_{mut}`$是变异函数，$`\mathcal{F}_{drift}`$是随机漂变函数。
+其中$\mathcal{E}_{MU}$是元演化势，$\mathcal{F}_{sel}$是选择函数，$\mathcal{F}_{mut}$是变异函数，$\mathcal{F}_{drift}$是随机漂变函数。
 
 元演化的信息转移率：
 

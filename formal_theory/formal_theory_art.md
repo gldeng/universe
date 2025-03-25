@@ -12,20 +12,20 @@
 
 ### 艺术创作与欣赏的形式化定义
 
-艺术创作过程 $`\mathcal{A}_C`$ 可形式化定义为：
+艺术创作过程 $\mathcal{A}_C$ 可形式化定义为：
 
 $$\mathcal{A}_C = \{\mathcal{Q}_{\mathcal{O}_A} \rightarrow \mathcal{C}_{\mathcal{O}_A}^* | \mathcal{O}_A \in \mathcal{O}, \mathcal{C}_{\mathcal{O}_A}^* \neq \mathcal{C}_{\mathcal{O}_A}\}$$
 
 其中：
-- $`\mathcal{O}_A`$ 是艺术家作为观察者
-- $`\mathcal{Q}_{\mathcal{O}_A}`$ 是艺术家的量子化算符
-- $`\mathcal{C}_{\mathcal{O}_A}^*`$ 是艺术特有的经典化算符，与普通经典化算符 $`\mathcal{C}_{\mathcal{O}_A}`$ 不同
+- $\mathcal{O}_A$ 是艺术家作为观察者
+- $\mathcal{Q}_{\mathcal{O}_A}$ 是艺术家的量子化算符
+- $\mathcal{C}_{\mathcal{O}_A}^*$ 是艺术特有的经典化算符，与普通经典化算符 $\mathcal{C}_{\mathcal{O}_A}$ 不同
 
-艺术欣赏过程 $`\mathcal{A}_P`$ 可定义为：
+艺术欣赏过程 $\mathcal{A}_P$ 可定义为：
 
 $$\mathcal{A}_P = \{\mathcal{Q}_{\mathcal{O}_P} \circ \mathcal{C}_{\mathcal{O}_A}^* | \mathcal{O}_P \in \mathcal{O}, \mathcal{O}_P \neq \mathcal{O}_A\}$$
 
-其中 $`\mathcal{O}_P`$ 是欣赏者作为观察者。
+其中 $\mathcal{O}_P$ 是欣赏者作为观察者。
 
 ### 艺术核心公理
 
@@ -34,28 +34,28 @@ $$\mathcal{A}_P = \{\mathcal{Q}_{\mathcal{O}_P} \circ \mathcal{C}_{\mathcal{O}_A
 
 $$I_Q(\mathcal{C}_{\mathcal{O}}^*(|\psi\rangle)) > I_Q(\mathcal{C}_{\mathcal{O}}(|\psi\rangle))$$
 
-其中 $`|\psi\rangle`$ 是量子态，$`I_Q`$ 是量子信息度量。
+其中 $|\psi\rangle$ 是量子态，$I_Q$ 是量子信息度量。
 
 **公理2: 美学共振**  
 艺术作品在创作者和欣赏者之间形成量子-经典共振：
 
 $$R(\mathcal{O}_A, \mathcal{O}_P) = |\langle\mathcal{Q}_{\mathcal{O}_P} \circ \mathcal{C}_{\mathcal{O}_A}^*|\mathcal{Q}_{\mathcal{O}_A}\rangle|^2 > \theta_R$$
 
-其中 $`R`$ 是共振度量，$`\theta_R`$ 是共振阈值。
+其中 $R$ 是共振度量，$\theta_R$ 是共振阈值。
 
 **公理3: 形式-内容二元性**  
 艺术作品存在形式与内容的二元结构，形成量子-经典对偶：
 
 $$\mathcal{A} = (F_C, C_Q)$$
 
-其中 $`F_C`$ 是经典形式结构，$`C_Q`$ 是量子内容场。
+其中 $F_C$ 是经典形式结构，$C_Q$ 是量子内容场。
 
 **公理4: 艺术维度提升**  
 艺术体验暂时提升观察者维度：
 
 $$D_{\mathcal{O}_P}^A = D_{\mathcal{O}_P} + \Delta D_A$$
 
-其中 $`D_{\mathcal{O}_P}`$ 是观察者基础维度，$`\Delta D_A`$ 是艺术提供的维度增量。
+其中 $D_{\mathcal{O}_P}$ 是观察者基础维度，$\Delta D_A$ 是艺术提供的维度增量。
 
 ## 理论核心内容
 
@@ -66,15 +66,15 @@ $$D_{\mathcal{O}_P}^A = D_{\mathcal{O}_P} + \Delta D_A$$
 $$i\hbar\frac{\partial|\psi_A\rangle}{\partial t} = (\hat{H}_Q + \hat{V}_{interface} + \hat{H}_C)|\psi_A\rangle$$
 
 其中：
-- $`\hat{H}_Q`$ 是量子域哈密顿量
-- $`\hat{V}_{interface}`$ 是界面相互作用项
-- $`\hat{H}_C`$ 是经典域约束项
+- $\hat{H}_Q$ 是量子域哈密顿量
+- $\hat{V}_{interface}$ 是界面相互作用项
+- $\hat{H}_C$ 是经典域约束项
 
 艺术创作过程可视为在量子-经典界面的非平衡态动力学：
 
 $$\frac{d\rho_A}{dt} = -\frac{i}{\hbar}[\hat{H}_{total}, \rho_A] + \mathcal{L}_{art}(\rho_A)$$
 
-其中 $`\mathcal{L}_{art}`$ 是艺术特有的非厄米演化超算符。
+其中 $\mathcal{L}_{art}$ 是艺术特有的非厄米演化超算符。
 
 ### 艺术形式与内容的纠缠结构
 
@@ -83,15 +83,15 @@ $$\frac{d\rho_A}{dt} = -\frac{i}{\hbar}[\hat{H}_{total}, \rho_A] + \mathcal{L}_{
 $$|\Psi_A\rangle = \sum_{i,j} \alpha_{ij} |F_i\rangle_C \otimes |C_j\rangle_Q$$
 
 其中：
-- $`|F_i\rangle_C`$ 是经典形式基矢
-- $`|C_j\rangle_Q`$ 是量子内容基矢
-- $`\alpha_{ij}`$ 是纠缠振幅，满足 $`\sum_{i,j} |\alpha_{ij}|^2 = 1`$
+- $|F_i\rangle_C$ 是经典形式基矢
+- $|C_j\rangle_Q$ 是量子内容基矢
+- $\alpha_{ij}$ 是纠缠振幅，满足 $\sum_{i,j} |\alpha_{ij}|^2 = 1$
 
 艺术作品的纠缠熵定义为：
 
 $$S_E(\Psi_A) = -\text{Tr}(\rho_F \log_2 \rho_F) = -\text{Tr}(\rho_C \log_2 \rho_C)$$
 
-其中 $`\rho_F = \text{Tr}_C(|\Psi_A\rangle\langle\Psi_A|)`$，$`\rho_C = \text{Tr}_F(|\Psi_A\rangle\langle\Psi_A|)`$。
+其中 $\rho_F = \text{Tr}_C(|\Psi_A\rangle\langle\Psi_A|)$，$\rho_C = \text{Tr}_F(|\Psi_A\rangle\langle\Psi_A|)$。
 
 ### 美学判断的量子概率
 
@@ -100,17 +100,17 @@ $$S_E(\Psi_A) = -\text{Tr}(\rho_F \log_2 \rho_F) = -\text{Tr}(\rho_C \log_2 \rho
 $$P(B|A) = \frac{|\langle\psi_B|\psi_A\rangle|^2 \cdot e^{\eta\langle E_A\rangle}}{\sum_j |\langle\psi_j|\psi_A\rangle|^2 \cdot e^{\eta\langle E_j\rangle}}$$
 
 其中：
-- $`P(B|A)`$ 是观察者对作品A做出美学判断B的概率
-- $`|\psi_A\rangle`$ 是艺术作品的量子态
-- $`|\psi_B\rangle`$ 是美学判断的量子态
-- $`\eta`$ 是美学敏感度参数
-- $`\langle E_A\rangle`$ 是艺术作品的平均能量（情感强度）
+- $P(B|A)$ 是观察者对作品A做出美学判断B的概率
+- $|\psi_A\rangle$ 是艺术作品的量子态
+- $|\psi_B\rangle$ 是美学判断的量子态
+- $\eta$ 是美学敏感度参数
+- $\langle E_A\rangle$ 是艺术作品的平均能量（情感强度）
 
 美学变分原理：
 
 $$\delta S[\rho_A] = \delta\left(E[\rho_A] - T_A \cdot S[\rho_A]\right) = 0$$
 
-其中 $`E[\rho_A]`$ 是艺术作品的能量泛函，$`S[\rho_A]`$ 是艺术作品的熵泛函，$`T_A`$ 是艺术温度参数。
+其中 $E[\rho_A]$ 是艺术作品的能量泛函，$S[\rho_A]$ 是艺术作品的熵泛函，$T_A$ 是艺术温度参数。
 
 ### 艺术风格与流派的量子场论
 
@@ -118,19 +118,19 @@ $$\delta S[\rho_A] = \delta\left(E[\rho_A] - T_A \cdot S[\rho_A]\right) = 0$$
 
 $$\mathcal{S} = \int D[\phi] e^{iS[\phi]/\hbar}$$
 
-其中 $`S[\phi]`$ 是特定风格的作用量，$`\phi`$ 是艺术要素场。
+其中 $S[\phi]$ 是特定风格的作用量，$\phi$ 是艺术要素场。
 
 风格之间的相互作用可表示为：
 
 $$S_{int}[\phi_1, \phi_2] = \lambda \int d^4x \; \phi_1(x) \phi_2(x)$$
 
-其中 $`\lambda`$ 是风格耦合强度。
+其中 $\lambda$ 是风格耦合强度。
 
 艺术流派演化的重正化群方程：
 
 $$\frac{d\lambda}{d\ln \mu} = \beta(\lambda)$$
 
-其中 $`\mu`$ 是文化尺度参数，$`\beta(\lambda)`$ 是风格演化函数。
+其中 $\mu$ 是文化尺度参数，$\beta(\lambda)$ 是风格演化函数。
 
 ### 艺术符号学的量子语义学
 
@@ -138,7 +138,7 @@ $$\frac{d\lambda}{d\ln \mu} = \beta(\lambda)$$
 
 $$|s\rangle = \sum_i \gamma_i |m_i\rangle$$
 
-其中 $`|m_i\rangle`$ 是可能意义的基矢，$`\gamma_i`$ 是相应振幅。
+其中 $|m_i\rangle$ 是可能意义的基矢，$\gamma_i$ 是相应振幅。
 
 符号间的量子语义纠缠：
 
@@ -148,7 +148,7 @@ $$|\Phi_{s_1s_2}\rangle = \frac{1}{\sqrt{2}}(|m_1\rangle_{s_1}|m_2\rangle_{s_2} 
 
 $$\Psi_{text} = \mathcal{T}\exp\left(i\int d^4x \mathcal{H}_{sem}(x)\right) \Psi_0$$
 
-其中 $`\mathcal{T}`$ 是时序算符，$`\mathcal{H}_{sem}`$ 是语义哈密顿密度。
+其中 $\mathcal{T}$ 是时序算符，$\mathcal{H}_{sem}$ 是语义哈密顿密度。
 
 ## 实验应用
 
@@ -159,15 +159,15 @@ $$\Psi_{text} = \mathcal{T}\exp\left(i\int d^4x \mathcal{H}_{sem}(x)\right) \Psi
 $$\mathcal{B}(A) = \mathcal{Q}_{regions} + \mathcal{C}_{regions} + \mathcal{I}_{regions}$$
 
 其中：
-- $`\mathcal{Q}_{regions}`$ 是处理量子内容的脑区（默认模式网络、右侧颞顶联合区等）
-- $`\mathcal{C}_{regions}`$ 是处理经典形式的脑区（视觉皮层、左侧额下回等）
-- $`\mathcal{I}_{regions}`$ 是整合界面的脑区（前额叶皮层、岛叶等）
+- $\mathcal{Q}_{regions}$ 是处理量子内容的脑区（默认模式网络、右侧颞顶联合区等）
+- $\mathcal{C}_{regions}$ 是处理经典形式的脑区（视觉皮层、左侧额下回等）
+- $\mathcal{I}_{regions}$ 是整合界面的脑区（前额叶皮层、岛叶等）
 
 神经纠缠度测量：
 
 $$E_{neural} = -\sum_i \lambda_i \log_2 \lambda_i$$
 
-其中 $`\lambda_i`$ 是神经活动相关矩阵的特征值。
+其中 $\lambda_i$ 是神经活动相关矩阵的特征值。
 
 ### 计算美学与生成艺术
 
@@ -176,15 +176,15 @@ $$E_{neural} = -\sum_i \lambda_i \log_2 \lambda_i$$
 $$A_{gen} = \mathcal{C}_{alg}^*(\mathcal{Q}_{alg}(S))$$
 
 其中：
-- $`S`$ 是种子信息
-- $`\mathcal{Q}_{alg}`$ 是算法量子化函数
-- $`\mathcal{C}_{alg}^*`$ 是算法艺术经典化函数
+- $S$ 是种子信息
+- $\mathcal{Q}_{alg}$ 是算法量子化函数
+- $\mathcal{C}_{alg}^*$ 是算法艺术经典化函数
 
 艺术生成的量子-经典变分自编码器结构：
 
 $$\mathcal{L}_{QCVAE} = \mathcal{L}_{recon} + \beta \cdot D_{KL}(\mathcal{Q}(z|x) || \mathcal{P}(z)) + \gamma \cdot \mathcal{L}_{quantum}$$
 
-其中 $`\mathcal{L}_{quantum}`$ 是保持量子特性的损失项。
+其中 $\mathcal{L}_{quantum}$ 是保持量子特性的损失项。
 
 ### 艺术治疗
 
@@ -192,7 +192,7 @@ $$\mathcal{L}_{QCVAE} = \mathcal{L}_{recon} + \beta \cdot D_{KL}(\mathcal{Q}(z|x
 
 $$\Psi_{治疗} = \mathcal{A}_C \circ \mathcal{Q}_{trauma} \circ \mathcal{A}_P$$
 
-其中 $`\mathcal{Q}_{trauma}`$ 是创伤的量子化表示。
+其中 $\mathcal{Q}_{trauma}$ 是创伤的量子化表示。
 
 ## 与其他理论分支的关系
 
@@ -214,7 +214,7 @@ $$\mathcal{A} \cap \mathcal{D} = \{\phi | \mu_Q(\phi) > \mu_C(\phi), \kappa_C(\p
 
 $$\mathcal{A} \cong \mathcal{L} / \sim$$
 
-其中 $`\sim`$ 是特定的等价关系。
+其中 $\sim$ 是特定的等价关系。
 
 ## 未来研究方向
 

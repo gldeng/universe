@@ -37,7 +37,7 @@ Unretrieved memories can be described as quantum superposition states of multipl
 
 $$|\Psi_{\text{memory}}\rangle = \sum_i c_i |memory_i\rangle$$
 
-where $`c_i`$ are complex coefficients satisfying $`\sum_i |c_i|^2 = 1`$.
+where $c_i$ are complex coefficients satisfying $\sum_i |c_i|^2 = 1$.
 
 This superposition state explains multiple characteristics of memory:
 - The uncertainty and vagueness of memories
@@ -89,7 +89,7 @@ Memories need to undergo classicalization processes to be stored long-term, whic
 
 $$\rho_{\text{classical memory}} = \mathcal{C}(|\Psi_{\text{memory}}\rangle\langle\Psi_{\text{memory}}|)$$
 
-where $`\mathcal{C}`$ is the consolidation operator, transforming quantum memory into classical information.
+where $\mathcal{C}$ is the consolidation operator, transforming quantum memory into classical information.
 
 Characteristics of the stabilization process:
 - Neural reactivation and system integration
@@ -102,7 +102,7 @@ Classicalized memories form definite connection networks, which can be represent
 
 $$G_M = (V_M, E_M)$$
 
-where $`V_M`$ is the set of memory nodes, and $`E_M`$ is the set of associative relations.
+where $V_M$ is the set of memory nodes, and $E_M$ is the set of associative relations.
 
 Properties of classical memory networks:
 - Following specific retrieval paths and associative rules
@@ -117,7 +117,7 @@ Memory conversion between quantum and classical states satisfies the dynamical e
 
 $$\frac{d\rho_{\text{memory}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{memory}}] + \mathcal{L}(\rho_{\text{memory}})$$
 
-where the first term represents quantum coherent evolution, and the second term $`\mathcal{L}`$ represents decoherence and classicalization processes.
+where the first term represents quantum coherent evolution, and the second term $\mathcal{L}$ represents decoherence and classicalization processes.
 
 This dynamics explains:
 - Quantum coherence in short-term and working memory
@@ -130,7 +130,7 @@ Quantum memory theory predicts that memory retrieval probability depends not onl
 
 $$P(memory_j|cue) = |c_j|^2 \cdot \frac{e^{\eta_{cue}|c_j|^2}}{\sum_k e^{\eta_{cue}|c_k|^2}}$$
 
-where $`\eta_{cue}`$ is the cue specificity parameter.
+where $\eta_{cue}$ is the cue specificity parameter.
 
 This explains the curious phenomena of memory retrieval:
 - Specificity effects of retrieval cues
@@ -143,7 +143,7 @@ Memories exhibit quantum editing properties and can be modified through quantum 
 
 $$|\Psi_{\text{new memory}}\rangle = \hat{U}_{\text{editing}}|\Psi_{\text{old memory}}\rangle$$
 
-where $`\hat{U}_{\text{editing}}`$ is the quantum editing operator.
+where $\hat{U}_{\text{editing}}$ is the quantum editing operator.
 
 Quantum editing explains:
 - Plasticity windows during memory reactivation
@@ -180,7 +180,7 @@ Quantum memory theory predicts the existence of "memory quantum tunneling" pheno
 
 $$P(tunneling\ retrieval) \propto e^{-\alpha \cdot \Delta E \cdot \sqrt{t}}$$
 
-where $`\Delta E`$ is the memory retrieval energy barrier, and $`t`$ is the time interval.
+where $\Delta E$ is the memory retrieval energy barrier, and $t$ is the time interval.
 
 This explains:
 - Sudden appearance of flashback memories
@@ -206,7 +206,7 @@ Group observer effects lead memories toward consensus:
 
 $$\rho_{\text{shared memory}} = \sum_i \omega_i \mathcal{O}_i(\rho_{\text{quantum memory}})$$
 
-where $`\omega_i`$ are the social weights of different observers.
+where $\omega_i$ are the social weights of different observers.
 
 Social memory phenomena:
 - Memory consensus reached through communication

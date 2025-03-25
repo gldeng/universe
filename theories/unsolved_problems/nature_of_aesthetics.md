@@ -23,7 +23,7 @@
 
 3. **美学观察者形式化表达**：
    $$O_{\text{美学}} = \{D_O, C_O, H_O\}$$
-   其中$`D_O`$是观察者维度，$`C_O`$是文化信息集，$`H_O`$是历史经验。
+   其中$D_O$是观察者维度，$C_O$是文化信息集，$H_O$是历史经验。
 
 #### 定理1：美的客观-主观二元性
 
@@ -32,14 +32,14 @@
 **形式表达**：
 $$B(\text{对象}, \text{观察者}) = \alpha \cdot S(\text{对象}) + \beta \cdot O(\text{观察者}) + \gamma \cdot I(\text{对象}, \text{观察者})$$
 
-其中$`B`$表示美的体验强度，$`S`$代表客观结构因素，$`O`$代表观察者状态，$`I`$代表交互项，$`\alpha`$、$`\beta`$和$`\gamma`$是权重系数。
+其中$B$表示美的体验强度，$S$代表客观结构因素，$O$代表观察者状态，$I$代表交互项，$\alpha$、$\beta$和$\gamma$是权重系数。
 
 **证明**：
 
-1. 考虑对象$`X`$具有特定结构特性$`S(X)`$，包括比例、对称性、复杂性等：
+1. 考虑对象$X$具有特定结构特性$S(X)$，包括比例、对称性、复杂性等：
    $$S(X) = \{s_1, s_2, ..., s_n\}$$
 
-2. 观察者$`O`$具有特定状态，包括维度、文化背景和经验：
+2. 观察者$O$具有特定状态，包括维度、文化背景和经验：
    $$O = \{D_O, C_O, H_O\}$$
 
 3. 美学体验源于对象信息的经典化过程：
@@ -63,7 +63,7 @@ $$B(\text{对象}, \text{观察者}) = \alpha \cdot S(\text{对象}) + \beta \cd
 **形式表达**：
 $$P(\text{美感}|s_i) > P(\text{美感}|\neg s_i) \quad \forall O \in \Omega_{\text{人类观察者}}$$
 
-其中$`s_i`$代表具有普遍美学效应的结构特性，$`\Omega_{\text{人类观察者}}`$是人类观察者集合。
+其中$s_i$代表具有普遍美学效应的结构特性，$\Omega_{\text{人类观察者}}$是人类观察者集合。
 
 **证明**：
 
@@ -94,7 +94,7 @@ $$P(\text{美感}|s_i) > P(\text{美感}|\neg s_i) \quad \forall O \in \Omega_{\
 **形式表达**：
 $$\eta_{\text{经典化}}(X, O_i) = \eta_{\text{通用}}(X) \cdot \mu_{C_i} \cdot \nu_{H_i}$$
 
-其中$`\mu_{C_i}`$是文化修正因子，$`\nu_{H_i}`$是个体历史修正因子。
+其中$\mu_{C_i}$是文化修正因子，$\nu_{H_i}$是个体历史修正因子。
 
 **证明**：
 
@@ -122,7 +122,7 @@ $$\eta_{\text{经典化}}(X, O_i) = \eta_{\text{通用}}(X) \cdot \mu_{C_i} \cdo
 **形式表达**：
 $$\frac{dC_{\text{审美}}}{dt} = \alpha \cdot \nabla I_{\text{创新}} - \beta \cdot \nabla S_{\text{熵增}} + \gamma \cdot I_{\text{传统}}$$
 
-其中$`C_{\text{审美}}`$代表集体审美标准，$`I_{\text{创新}}`$是创新信息，$`S_{\text{熵增}}`$是审美熵增，$`I_{\text{传统}}`$是传统保存的信息。
+其中$C_{\text{审美}}$代表集体审美标准，$I_{\text{创新}}$是创新信息，$S_{\text{熵增}}$是审美熵增，$I_{\text{传统}}$是传统保存的信息。
 
 **证明**：
 
@@ -145,7 +145,7 @@ $$\frac{dC_{\text{审美}}}{dt} = \alpha \cdot \nabla I_{\text{创新}} - \beta 
 
 4. 这一动态平衡导致审美循环和革新：
    $$C_{\text{审美}}(t) \approx C_{\text{审美}}(t+T)$$
-   其中$`T`$是审美循环周期。
+   其中$T$是审美循环周期。
 
 5. 这解释了艺术史中的周期性回归现象，以及为什么某些审美特性保持恒定而其他特性不断变化。
 
@@ -207,7 +207,7 @@ The nature of aesthetics problem explores the core question: Is the perception o
 
 3. **Formal Expression of Aesthetic Observer**:
    $$O_{\text{Aesthetic}} = \{D_O, C_O, H_O\}$$
-   where $`D_O`$ is observer dimension, $`C_O`$ is cultural information set, and $`H_O`$ is historical experience.
+   where $D_O$ is observer dimension, $C_O$ is cultural information set, and $H_O$ is historical experience.
 
 #### Theorem 1: Objective-Subjective Duality of Beauty
 
@@ -216,14 +216,14 @@ The nature of aesthetics problem explores the core question: Is the perception o
 **Formal Expression**:
 $$B(\text{Object}, \text{Observer}) = \alpha \cdot S(\text{Object}) + \beta \cdot O(\text{Observer}) + \gamma \cdot I(\text{Object}, \text{Observer})$$
 
-where $`B`$ represents the intensity of beauty experience, $`S`$ represents objective structural factors, $`O`$ represents observer state, $`I`$ represents interaction terms, and $`\alpha`$, $`\beta`$, and $`\gamma`$ are weight coefficients.
+where $B$ represents the intensity of beauty experience, $S$ represents objective structural factors, $O$ represents observer state, $I$ represents interaction terms, and $\alpha$, $\beta$, and $\gamma$ are weight coefficients.
 
 **Proof**:
 
-1. Consider an object $`X`$ with specific structural features $`S(X)`$, including proportions, symmetry, complexity, etc.:
+1. Consider an object $X$ with specific structural features $S(X)$, including proportions, symmetry, complexity, etc.:
    $$S(X) = \{s_1, s_2, ..., s_n\}$$
 
-2. The observer $`O`$ has a specific state, including dimension, cultural background, and experience:
+2. The observer $O$ has a specific state, including dimension, cultural background, and experience:
    $$O = \{D_O, C_O, H_O\}$$
 
 3. Aesthetic experience arises from the classicalization process of object information:
@@ -247,7 +247,7 @@ where $`B`$ represents the intensity of beauty experience, $`S`$ represents obje
 **Formal Expression**:
 $$P(\text{Beauty}|s_i) > P(\text{Beauty}|\neg s_i) \quad \forall O \in \Omega_{\text{Human Observers}}$$
 
-where $`s_i`$ represents structural features with universal aesthetic effects, and $`\Omega_{\text{Human Observers}}`$ is the set of human observers.
+where $s_i$ represents structural features with universal aesthetic effects, and $\Omega_{\text{Human Observers}}$ is the set of human observers.
 
 **Proof**:
 
@@ -278,7 +278,7 @@ where $`s_i`$ represents structural features with universal aesthetic effects, a
 **Formal Expression**:
 $$\eta_{\text{Classicalization}}(X, O_i) = \eta_{\text{Universal}}(X) \cdot \mu_{C_i} \cdot \nu_{H_i}$$
 
-where $`\mu_{C_i}`$ is the cultural modification factor, and $`\nu_{H_i}`$ is the individual history modification factor.
+where $\mu_{C_i}$ is the cultural modification factor, and $\nu_{H_i}$ is the individual history modification factor.
 
 **Proof**:
 
@@ -306,7 +306,7 @@ where $`\mu_{C_i}`$ is the cultural modification factor, and $`\nu_{H_i}`$ is th
 **Formal Expression**:
 $$\frac{dC_{\text{Aesthetic}}}{dt} = \alpha \cdot \nabla I_{\text{Innovation}} - \beta \cdot \nabla S_{\text{Entropy Increase}} + \gamma \cdot I_{\text{Tradition}}$$
 
-where $`C_{\text{Aesthetic}}`$ represents collective aesthetic standards, $`I_{\text{Innovation}}`$ is innovative information, $`S_{\text{Entropy Increase}}`$ is aesthetic entropy increase, and $`I_{\text{Tradition}}`$ is information preserved by tradition.
+where $C_{\text{Aesthetic}}$ represents collective aesthetic standards, $I_{\text{Innovation}}$ is innovative information, $S_{\text{Entropy Increase}}$ is aesthetic entropy increase, and $I_{\text{Tradition}}$ is information preserved by tradition.
 
 **Proof**:
 
@@ -329,7 +329,7 @@ where $`C_{\text{Aesthetic}}`$ represents collective aesthetic standards, $`I_{\
 
 4. This dynamic balance leads to aesthetic cycles and revolutions:
    $$C_{\text{Aesthetic}}(t) \approx C_{\text{Aesthetic}}(t+T)$$
-   where $`T`$ is the aesthetic cycle period.
+   where $T$ is the aesthetic cycle period.
 
 5. This explains the periodic recurrence phenomena in art history, and why some aesthetic features remain constant while others constantly change.
 

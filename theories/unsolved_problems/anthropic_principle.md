@@ -31,7 +31,7 @@
 
 $$P(U_{\text{观察者适宜}}) = \frac{\int_{\Omega} \rho(|\psi\rangle_{\text{量子域}}) \cdot \eta(|\psi\rangle \rightarrow I_{\text{经典化}}) d\Omega}{\int_{\text{所有配置}} \rho(|\psi\rangle) d\Omega}$$
 
-其中，$`\eta`$代表量子态经典化为观察者的效率函数。
+其中，$\eta$代表量子态经典化为观察者的效率函数。
 
 物理常数的量子经典约束关系：
 
@@ -47,13 +47,13 @@ $$\frac{dI_{\text{观察者}}}{dS_{\text{宇宙}}} > \kappa_{\text{临界值}} \
 
    $$|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化}} I_{\text{经典信息}} + S_{\text{经典熵}}$$
 
-   这一转换过程对$`\alpha_i`$参数集合施加了严格的约束条件。
+   这一转换过程对$\alpha_i$参数集合施加了严格的约束条件。
 
 2. **观察者作为固有解码器**：观察者本质上是量子-经典信息转换的特殊解码节点，而此类节点的存在对物理参数设置有严格要求：
 
    $$O_{\text{观察者}} = D(|\psi\rangle_{\text{量子域}}, \{\alpha_i\}) \rightarrow I_{\text{经典域}}$$
 
-   其中$`D`$是依赖于物理参数$`\{\alpha_i\}`$的解码函数。
+   其中$D$是依赖于物理参数$\{\alpha_i\}$的解码函数。
 
 3. **双向因果闭环**：观察者与宇宙参数形成双向因果闭环关系——宇宙参数使观察者可能存在，而观察者的存在反过来通过量子测量过程稳定这些参数：
 
@@ -121,7 +121,7 @@ Basic equation for observer parameter relationships:
 
 $$P(U_{\text{Observer Suitable}}) = \frac{\int_{\Omega} \rho(|\psi\rangle_{\text{Quantum Domain}}) \cdot \eta(|\psi\rangle \rightarrow I_{\text{Classicalization}}) d\Omega}{\int_{\text{All Configurations}} \rho(|\psi\rangle) d\Omega}$$
 
-where $`\eta`$ represents the efficiency function of quantum state classicalization into observers.
+where $\eta$ represents the efficiency function of quantum state classicalization into observers.
 
 Quantum-classical constraint relationship of physical constants:
 
@@ -137,13 +137,13 @@ $$\frac{dI_{\text{Observer}}}{dS_{\text{Universe}}} > \kappa_{\text{Critical Val
 
    $$|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Classicalization}} I_{\text{Classical Information}} + S_{\text{Classical Entropy}}$$
 
-   This conversion process imposes strict constraints on the parameter set $`\alpha_i`$.
+   This conversion process imposes strict constraints on the parameter set $\alpha_i$.
 
 2. **Observer as Inherent Decoder**: Observers are essentially special decoding nodes for quantum-classical information conversion, and the existence of such nodes has strict requirements for physical parameter settings:
 
    $$O_{\text{Observer}} = D(|\psi\rangle_{\text{Quantum Domain}}, \{\alpha_i\}) \rightarrow I_{\text{Classical Domain}}$$
 
-   where $`D`$ is a decoding function dependent on physical parameters $`\{\alpha_i\}`$.
+   where $D$ is a decoding function dependent on physical parameters $\{\alpha_i\}$.
 
 3. **Bidirectional Causal Loop**: Observers and universe parameters form a bidirectional causal loop relationship—universe parameters make observers possible, while the existence of observers in turn stabilizes these parameters through quantum measurement processes:
 

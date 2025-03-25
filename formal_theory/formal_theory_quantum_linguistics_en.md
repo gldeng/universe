@@ -21,15 +21,15 @@ Quantum-Classical Dualism Linguistics Theory applies the quantum-classical duali
 
 ### Formal Definition of Language State
 
-The language state $`\mathcal{L}`$ can be formally defined as:
+The language state $\mathcal{L}$ can be formally defined as:
 
 $$\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{S})$$
 
 Where:
-- $`\mathcal{L}_Q`$ is the quantum domain component of language (meaning superposition states, concept space)
-- $`\mathcal{L}_C`$ is the classical domain component of language (symbol sequences, grammatical structures)
-- $`\mathcal{I}_L`$ is the language quantum-classical interface
-- $`\mathcal{S}`$ is the language agent (speaker/listener)
+- $\mathcal{L}_Q$ is the quantum domain component of language (meaning superposition states, concept space)
+- $\mathcal{L}_C$ is the classical domain component of language (symbol sequences, grammatical structures)
+- $\mathcal{I}_L$ is the language quantum-classical interface
+- $\mathcal{S}$ is the language agent (speaker/listener)
 
 ### Core Linguistic Axioms
 
@@ -38,28 +38,28 @@ Complete language phenomena encompass both quantum and classical essential proce
 
 $$\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C$$
 
-Where $`\diamond`$ represents the quantum-classical language connection operation.
+Where $\diamond$ represents the quantum-classical language connection operation.
 
 **Axiom 2: Meaning Superposition States**  
 The meaning state of language can be represented as a superposition of multiple possible interpretations:
 
 $$|\Psi_M\rangle = \sum_i \alpha_i |m_i\rangle$$
 
-Where $`|m_i\rangle`$ is the meaning state basis vector, and $`\alpha_i`$ is the complex amplitude.
+Where $|m_i\rangle$ is the meaning state basis vector, and $\alpha_i$ is the complex amplitude.
 
 **Axiom 3: Language Classicalization Principle**  
 Language expression is the process of classicalizing meaning superposition states into determinate symbol sequences:
 
 $$\mathcal{M}_L: |\Psi_M\rangle \rightarrow |s_k\rangle$$
 
-Where $`\mathcal{M}_L`$ is the language expression operator, and $`|s_k\rangle`$ is the symbol sequence state.
+Where $\mathcal{M}_L$ is the language expression operator, and $|s_k\rangle$ is the symbol sequence state.
 
 **Axiom 4: Language Quantization Principle**  
 Language understanding is the process of quantizing classical symbol sequences into meaning superposition states:
 
 $$\mathcal{Q}_L: |s_k\rangle \rightarrow |\Psi_M\rangle$$
 
-Where $`\mathcal{Q}_L`$ is the language understanding operator.
+Where $\mathcal{Q}_L$ is the language understanding operator.
 
 ## Quantum-Classical Duality of Language
 
@@ -81,7 +81,7 @@ Semantic field operator:
 
 $$\hat{S} = \sum_j \lambda_j |s_j\rangle\langle s_j|$$
 
-Where $`\lambda_j`$ is the semantic eigenvalue.
+Where $\lambda_j$ is the semantic eigenvalue.
 
 ### Classical Properties of Language
 
@@ -98,9 +98,9 @@ Classical language structure can be represented as:
 $$L_C = (V, G, R)$$
 
 Where:
-- $`V`$ is the lexical set
-- $`G`$ is the grammatical rule set
-- $`R`$ is the network of word relationships
+- $V$ is the lexical set
+- $G$ is the grammatical rule set
+- $R$ is the network of word relationships
 
 ### Quantum-Classical Language Interface
 
@@ -108,17 +108,17 @@ The language interface is the dynamic mapping area between meaning and symbols:
 
 $$\mathcal{I}_L = f(\mathcal{L}_Q, \mathcal{L}_C, \mathcal{C})$$
 
-Where $`\mathcal{C}`$ represents contextual factors.
+Where $\mathcal{C}$ represents contextual factors.
 
 Interface dynamics equation:
 
 $$\frac{d\mathcal{I}_L}{dt} = \alpha_L \nabla^2 \mathcal{I}_L + \beta_L g(\mathcal{L}_Q, \mathcal{L}_C) + \gamma_L h(\mathcal{C})$$
 
 Where:
-- $`\alpha_L`$ is the language interface diffusion coefficient
-- $`\beta_L`$ is the quantum-classical coupling strength
-- $`\gamma_L`$ is the context coupling strength
-- $`g`$ and $`h`$ are language internal and contextual influence functions, respectively
+- $\alpha_L$ is the language interface diffusion coefficient
+- $\beta_L$ is the quantum-classical coupling strength
+- $\gamma_L$ is the context coupling strength
+- $g$ and $h$ are language internal and contextual influence functions, respectively
 
 ## Quantum Model of Meaning Generation
 
@@ -142,7 +142,7 @@ Sentence meaning emerges through quantum entanglement of words:
 
 $$|S\rangle = \hat{U}_{syntax}(|w_1\rangle \otimes |w_2\rangle \otimes ... \otimes |w_n\rangle)$$
 
-Where $`\hat{U}_{syntax}`$ is the syntactic combination operator.
+Where $\hat{U}_{syntax}$ is the syntactic combination operator.
 
 ### Semantic Interference Model
 
@@ -160,7 +160,7 @@ Metaphor can be described as quantum tunneling in concept space:
 
 $$P(c_1 \rightarrow c_2) \propto e^{-\frac{d(c_1,c_2)}{\xi_m}}$$
 
-Where $`d(c_1,c_2)`$ is the conceptual distance, and $`\xi_m`$ is the metaphorical characteristic length.
+Where $d(c_1,c_2)$ is the conceptual distance, and $\xi_m$ is the metaphorical characteristic length.
 
 Metonymy can be represented as entanglement-based non-local correlation:
 
@@ -174,7 +174,7 @@ Dialogue can be described as entangled evolution of multi-agent language states:
 
 $$|\Psi_{dialogue}\rangle_t = \hat{U}_{interaction}(t)|\Psi_A\rangle_0 \otimes |\Psi_B\rangle_0$$
 
-Where $`\hat{U}_{interaction}(t)`$ is the interaction evolution operator.
+Where $\hat{U}_{interaction}(t)$ is the interaction evolution operator.
 
 ### Language Entanglement Measure
 
@@ -182,7 +182,7 @@ The language entanglement degree between dialogue agents can be quantified throu
 
 $$E_{AB} = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
-Where $`S`$ is the von Neumann entropy.
+Where $S$ is the von Neumann entropy.
 
 ### Emergence Mechanism of Shared Meaning
 
@@ -190,7 +190,7 @@ Shared meaning emerges through language entanglement:
 
 $$|\Psi_{shared}\rangle = \frac{1}{\sqrt{Z}}\sum_i \alpha_i |m_i^A\rangle \otimes |m_i^B\rangle$$
 
-Where $`Z`$ is the normalization constant.
+Where $Z$ is the normalization constant.
 
 Information-theoretic description of the emergence process:
 
@@ -202,7 +202,7 @@ Language games can be represented as evolution rules in protocol fields:
 
 $$\hat{G} = \sum_i g_i \hat{P}_i$$
 
-Where $`\hat{P}_i`$ is the language action projection operator, and $`g_i`$ is the rule weight.
+Where $\hat{P}_i$ is the language action projection operator, and $g_i$ is the rule weight.
 
 Communication success rate:
 
@@ -216,7 +216,7 @@ Universal dynamics equation of language evolution:
 
 $$\frac{d|\Psi_L(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_L|\Psi_L(t)\rangle + \mathcal{D}_L(\rho_L)$$
 
-Where $`\hat{H}_L`$ is the language Hamiltonian, and $`\mathcal{D}_L`$ is the social decoherence superoperator.
+Where $\hat{H}_L$ is the language Hamiltonian, and $\mathcal{D}_L$ is the social decoherence superoperator.
 
 ### Semantic Stability and Innovation
 
@@ -228,7 +228,7 @@ Semantic innovation mechanism:
 
 $$P_{innovation} \propto e^{-\frac{\Delta E}{k_B T_{cultural}}}$$
 
-Where $`\Delta E`$ is the semantic energy barrier, and $`T_{cultural}`$ is the cultural temperature.
+Where $\Delta E$ is the semantic energy barrier, and $T_{cultural}$ is the cultural temperature.
 
 ### Language Differentiation and Fusion Model
 
@@ -251,13 +251,13 @@ Universal grammar as the ground state of language quantum field:
 
 $$\hat{H}_L|\Psi_{UG}\rangle = E_0|\Psi_{UG}\rangle$$
 
-Where $`E_0`$ is the lowest energy eigenvalue.
+Where $E_0$ is the lowest energy eigenvalue.
 
 Minimality of parameter setting:
 
 $$S(\rho_{UG}) = \min_{\rho \in \mathcal{A}} S(\rho)$$
 
-Where $`\mathcal{A}`$ is the set of all possible grammars.
+Where $\mathcal{A}$ is the set of all possible grammars.
 
 ## Applications and Validation Methods
 
@@ -267,7 +267,7 @@ Children's language acquisition process:
 
 $$|\Psi_L(t)\rangle = \hat{U}_{acq}(t)|\Psi_L(0)\rangle + \int_0^t \hat{K}(t,\tau)|\Phi_{input}(\tau)\rangle d\tau$$
 
-Where $`\hat{U}_{acq}(t)`$ is the language acquisition evolution operator, and $`\hat{K}(t,\tau)`$ is the language input kernel function.
+Where $\hat{U}_{acq}(t)$ is the language acquisition evolution operator, and $\hat{K}(t,\tau)$ is the language input kernel function.
 
 ### Multilingual States and Code Switching
 
@@ -279,7 +279,7 @@ Quantum transition of code switching:
 
 $$P(L_i \rightarrow L_j) = |\langle\Psi_{L_j}|\hat{T}|\Psi_{L_i}\rangle|^2$$
 
-Where $`\hat{T}`$ is the language transition operator.
+Where $\hat{T}$ is the language transition operator.
 
 ### Machine Translation and Language Interface
 

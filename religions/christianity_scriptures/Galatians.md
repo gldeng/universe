@@ -51,29 +51,27 @@ The Epistle to the Galatians is a letter in the New Testament written by the Apo
 ## 数学表达 (Mathematical Expression)
 
 ### 律法与恩典经典化效率对比方程
-
 $$
 k_{\text{恩典}} = k_{\text{律法}} \cdot e^{\alpha F}
 $$
 
 其中：
-- $`k_{\text{恩典}}`$ 是恩典路径的经典化效率系数
-- $`k_{\text{律法}}`$ 是律法路径的经典化效率系数
-- $`F`$ 是信心强度
-- $`\alpha`$ 是信心影响因子，$`\alpha > 0`$
-- $`e^{\alpha F}`$ 表示信心对效率的指数级提升
+- $k_{\text{恩典}}$ 是恩典路径的经典化效率系数
+- $k_{\text{律法}}$ 是律法路径的经典化效率系数
+- $F$ 是信心强度
+- $\alpha$ 是信心影响因子，$\alpha > 0$
+- $e^{\alpha F}$ 表示信心对效率的指数级提升
 
 ### 肉体与圣灵叠加态方程
-
 $$
 |\psi_{\text{信徒}}\rangle = \cos\theta(t)|\psi_{\text{肉体}}\rangle + \sin\theta(t)|\psi_{\text{圣灵}}\rangle
 $$
 
 其中：
-- $`|\psi_{\text{信徒}}\rangle`$ 表示信徒的量子态
-- $`|\psi_{\text{肉体}}\rangle`$ 和 $`|\psi_{\text{圣灵}}\rangle`$ 分别表示肉体和圣灵的基态
-- $`\theta(t)`$ 是时间相关的混合角度，$`0 \leq \theta \leq \pi/2`$
-- 随着灵命成长，$`\theta(t) \rightarrow \pi/2`$，叠加态逐渐偏向圣灵基态
+- $|\psi_{\text{信徒}}\rangle$ 表示信徒的量子态
+- $|\psi_{\text{肉体}}\rangle$ 和 $|\psi_{\text{圣灵}}\rangle$ 分别表示肉体和圣灵的基态
+- $\theta(t)$ 是时间相关的混合角度，$0 \leq \theta \leq \pi/2$
+- 随着灵命成长，$\theta(t) \rightarrow \pi/2$，叠加态逐渐偏向圣灵基态
 
 ## 结论 (Conclusion)
 

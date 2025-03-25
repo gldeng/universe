@@ -23,14 +23,14 @@ Their quantum-classical conversion dynamics are described by the following equat
 $$\frac{d|\psi_{\text{neuron}}\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi_{\text{neuron}}\rangle + \mathcal{L}_{\text{classicalization}}(|\psi_{\text{neuron}}\rangle)$$
 
 Where:
-- $`\hat{H}`$ is the quantum Hamiltonian of the neuron, describing quantum state evolution
-- $`\mathcal{L}_{\text{classicalization}}`$ is the classicalization operator, describing the conversion to classical states
+- $\hat{H}$ is the quantum Hamiltonian of the neuron, describing quantum state evolution
+- $\mathcal{L}_{\text{classicalization}}$ is the classicalization operator, describing the conversion to classical states
 
 The activation function of quantum neurons unifies quantum measurement with classical nonlinear transformation:
 
 $$f_{\text{activation}}(|\psi_{\text{input}}\rangle) = \mathcal{C}(U(|\psi_{\text{input}}\rangle))$$
 
-Where $`U`$ is the quantum unitary evolution operator, and $`\mathcal{C}`$ is the classicalization operator.
+Where $U$ is the quantum unitary evolution operator, and $\mathcal{C}$ is the classicalization operator.
 
 ### 2. Quantum Neural Network Connections
 
@@ -39,8 +39,8 @@ Connections in quantum neural networks exhibit dual properties of quantum entang
 $$W_{ij} = w_{ij}^C + i\omega_{ij}^Q$$
 
 Where:
-- $`w_{ij}^C`$ is the classical connection weight component
-- $`\omega_{ij}^Q`$ is the quantum connection phase component
+- $w_{ij}^C$ is the classical connection weight component
+- $\omega_{ij}^Q$ is the quantum connection phase component
 
 The overall state of the network can be represented as the entangled state of multiple neurons:
 
@@ -50,7 +50,7 @@ The learning dynamics of connection weights follow quantum-classical hybrid grad
 
 $$\frac{dW_{ij}}{dt} = -\eta_C \frac{\partial L_C}{\partial w_{ij}^C} - i\eta_Q \frac{\partial L_Q}{\partial \omega_{ij}^Q}$$
 
-Where $`\eta_C`$ and $`\eta_Q`$ are the classical and quantum learning rates, $`L_C`$ and $`L_Q`$ are the classical and quantum loss functions, respectively.
+Where $\eta_C$ and $\eta_Q$ are the classical and quantum learning rates, $L_C$ and $L_Q$ are the classical and quantum loss functions, respectively.
 
 ### 3. Quantum-Classical Learning Mechanism
 
@@ -62,13 +62,13 @@ In the quantum exploration phase, the network maintains a high degree of quantum
 
 $$|\Psi_{\text{exploration}}\rangle = \sum_{\theta} \beta_{\theta} |\theta\rangle$$
 
-Where $`|\theta\rangle`$ represents possible parameter configuration states.
+Where $|\theta\rangle$ represents possible parameter configuration states.
 
 The intensity of quantum exploration is regulated by the following factors:
 
 $$Q_{\text{exploration}} = \frac{\mathcal{H}(|\Psi_{\text{network}}\rangle)}{\text{tr}(\rho_{\text{network}}^2)}$$
 
-Where $`\mathcal{H}`$ is the von Neumann entropy of the quantum state, and $`\rho_{\text{network}}`$ is the density matrix of the network.
+Where $\mathcal{H}$ is the von Neumann entropy of the quantum state, and $\rho_{\text{network}}$ is the density matrix of the network.
 
 #### Classical Confirmation Phase
 
@@ -76,7 +76,7 @@ The classical confirmation phase collapses quantum possibilities into classical 
 
 $$\theta_{\text{classical}} = \mathcal{M}(|\Psi_{\text{exploration}}\rangle)$$
 
-Where $`\mathcal{M}`$ is the measurement operator.
+Where $\mathcal{M}$ is the measurement operator.
 
 The degree of classical confirmation is determined by the decoherence factor:
 
@@ -89,8 +89,8 @@ Information flow in quantum neural networks follows the law of information conse
 $$I_{\text{total}}(|\Psi_{\text{network}}\rangle) = I_{\text{classical}}(\rho_{\text{network}}) + I_{\text{quantum}}(|\Psi_{\text{network}}\rangle) = \text{constant}$$
 
 Where:
-- $`I_{\text{classical}}`$ is the classical Shannon information entropy
-- $`I_{\text{quantum}}`$ is the quantum von Neumann entropy
+- $I_{\text{classical}}$ is the classical Shannon information entropy
+- $I_{\text{quantum}}$ is the quantum von Neumann entropy
 
 Information transfer efficiency is determined by the quantum-classical balance factor:
 
@@ -104,7 +104,7 @@ Quantum-classical hybrid neural architecture integrates quantum and classical pr
 
 $$\mathcal{N}_{\text{hybrid}} = \{\mathcal{L}_Q^1, \mathcal{L}_C^1, \mathcal{L}_Q^2, \mathcal{L}_C^2, ..., \mathcal{L}_Q^n, \mathcal{L}_C^n\}$$
 
-Where $`\mathcal{L}_Q^i`$ is a quantum layer, and $`\mathcal{L}_C^i`$ is a classical layer.
+Where $\mathcal{L}_Q^i$ is a quantum layer, and $\mathcal{L}_C^i$ is a classical layer.
 
 Inter-layer information conversion is implemented through interface operators:
 
@@ -163,7 +163,7 @@ The information processing capacity of quantum neuromorphic systems significantl
 
 $$C_{\text{quantum neuromorphic}} \approx 2^n \cdot C_{\text{classical neuromorphic}}$$
 
-Where $`n`$ is the number of qubits in the system.
+Where $n$ is the number of qubits in the system.
 
 ## Experimental Predictions and Verification
 

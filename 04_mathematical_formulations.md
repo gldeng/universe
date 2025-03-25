@@ -63,9 +63,9 @@ f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
 其中：
-- $`c`$ 是光速
-- $`L_P`$ 是普朗克长度
-- $`S_E(\rho_{AB})`$ 是纠缠熵，用von Neumann熵表示：$`S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)`$
+- $c$ 是光速
+- $L_P$ 是普朗克长度
+- $S_E(\rho_{AB})$ 是纠缠熵，用von Neumann熵表示：$S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)$
 
 #### 2.3 多体纠缠系统的能量
 
@@ -75,7 +75,7 @@ $$
 E_{\text{多体纠缠}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{纠缠}}(i,j)
 $$
 
-其中$`w_{ij}`$是纠缠对$`(i,j)`$的权重系数，满足$`\sum_{i,j} w_{ij} = 1`$。
+其中$w_{ij}$是纠缠对$(i,j)$的权重系数，满足$\sum_{i,j} w_{ij} = 1$。
 
 #### 2.4 经典能量与量子能量的转换关系
 
@@ -91,7 +91,7 @@ $$
 E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
 $$
 
-其中$`\eta`$是经典化效率系数，$`0 < \eta < 1`$
+其中$\eta$是经典化效率系数，$0 < \eta < 1$
 
 #### 2.5 引力场与量子能量密度的关系
 
@@ -161,7 +161,7 @@ $$
 
 #### 4.3 经典化效率系数提升
 
-经典化效率系数$`(k_i)`$提升条件：
+经典化效率系数$(k_i)$提升条件：
 
 $$
 k_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
@@ -169,7 +169,7 @@ $$
 
 #### 4.4 领域权重系数提升
 
-领域权重系数$`(w_i)`$提升条件：
+领域权重系数$(w_i)$提升条件：
 
 $$
 w_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
@@ -227,7 +227,7 @@ $$
 \eta_{\text{宇宙}} = \sum_{i,j} w_{ij} \cdot \frac{\Delta E_{\text{量子能量输出},ij}}{E_{\text{量子能量输入},ij}}
 $$
 
-其中$`w_{ij}`$是能量转换通道的权重系数，满足$`\sum_{i,j} w_{ij} = 1`$。
+其中$w_{ij}$是能量转换通道的权重系数，满足$\sum_{i,j} w_{ij} = 1$。
 
 #### 7.2 经典化与量子化的能量效率
 
@@ -440,9 +440,9 @@ f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
 Where:
-- $`c`$ is the speed of light
-- $`L_P`$ is the Planck length
-- $`S_E(\rho_{AB})`$ is entanglement entropy, represented by von Neumann entropy: $`S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)`$
+- $c$ is the speed of light
+- $L_P$ is the Planck length
+- $S_E(\rho_{AB})$ is entanglement entropy, represented by von Neumann entropy: $S_E(\rho_{AB}) = -\text{Tr}(\rho_A \log_2 \rho_A)$
 
 #### 2.3 Energy of Multi-body Entangled Systems
 
@@ -452,7 +452,7 @@ $$
 E_{\text{Multi-body Entanglement}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{Entanglement}}(i,j)
 $$
 
-Where $`w_{ij}`$ is the weight coefficient of entanglement pair $`(i,j)`$, satisfying $`\sum_{i,j} w_{ij} = 1`$.
+Where $w_{ij}$ is the weight coefficient of entanglement pair $(i,j)$, satisfying $\sum_{i,j} w_{ij} = 1$.
 
 #### 2.4 Conversion Relationship Between Classical Energy and Quantum Energy
 
@@ -468,7 +468,7 @@ $$
 E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
 $$
 
-Where $`\eta`$ is the classicalization efficiency coefficient, $`0 < \eta < 1`$
+Where $\eta$ is the classicalization efficiency coefficient, $0 < \eta < 1$
 
 #### 2.5 Relationship Between Gravitational Field and Quantum Energy Density
 
@@ -538,7 +538,7 @@ $$
 
 #### 4.3 Classicalization Efficiency Coefficient Improvement
 
-Conditions for improving the classicalization efficiency coefficient $`(k_i)`$:
+Conditions for improving the classicalization efficiency coefficient $(k_i)$:
 
 $$
 k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
@@ -546,7 +546,7 @@ $$
 
 #### 4.4 Domain Weight Coefficient Improvement
 
-Conditions for improving the domain weight coefficient $`(w_i)`$:
+Conditions for improving the domain weight coefficient $(w_i)$:
 
 $$
 w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
@@ -604,7 +604,7 @@ $$
 \eta_{\text{Universe}} = \sum_{i,j} w_{ij} \cdot \frac{\Delta E_{\text{Quantum Energy Output},ij}}{E_{\text{Quantum Energy Input},ij}}
 $$
 
-Where $`w_{ij}`$ is the weight coefficient of the energy conversion channel, satisfying $`\sum_{i,j} w_{ij} = 1`$.
+Where $w_{ij}$ is the weight coefficient of the energy conversion channel, satisfying $\sum_{i,j} w_{ij} = 1$.
 
 #### 7.2 Energy Efficiency of Classicalization and Quantization
 

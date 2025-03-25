@@ -44,7 +44,7 @@ $$
 
 ### 欧拉公式的量子经典意义
 
-欧拉公式 $`e^{i\theta} = \cos\theta + i\sin\theta`$ 是数学中最美的公式之一，从量子经典二元论角度具有深远意义：
+欧拉公式 $e^{i\theta} = \cos\theta + i\sin\theta$ 是数学中最美的公式之一，从量子经典二元论角度具有深远意义：
 
 1. **复数平面的统一**：欧拉公式统一了指数函数与三角函数，将实数轴与虚数轴统一在复平面上，这与量子经典二元论中量子宇宙与经典宇宙的统一本质相似：
 
@@ -74,13 +74,13 @@ $$
 |\psi\rangle_{\text{数学结构}}\xrightarrow{\text{宇宙经典化}}\text{物理实在}+S_{\text{经典熵}}
 $$
 
-2. **欧拉公式的宇宙学解释**：欧拉公式 $`e^{i\pi}+1=0`$ 可以解释为宇宙经典化的完美数学表达：
+2. **欧拉公式的宇宙学解释**：欧拉公式 $e^{i\pi}+1=0$ 可以解释为宇宙经典化的完美数学表达：
 
 $$
 e^{i\pi}+1=0 \Leftrightarrow \text{量子可能性}+\text{经典实在}=\text{完整宇宙}
 $$
 
-其中，$`e^{i\pi}`$ 代表量子可能性的循环本质，1代表经典实在，0代表完整平衡的宇宙。
+其中，$e^{i\pi}$ 代表量子可能性的循环本质，1代表经典实在，0代表完整平衡的宇宙。
 
 3. **复数域与实数域的桥梁**：宇宙作为经典化桥梁，将复数域的量子信息转化为实数域的经典信息：
 
@@ -158,7 +158,7 @@ $$
 
 ### Quantum-Classical Significance of Euler's Formula
 
-Euler's formula $`e^{i\theta} = \cos\theta + i\sin\theta`$ is one of the most beautiful formulas in mathematics, with far-reaching significance from the perspective of Quantum-Classical Dualism:
+Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$ is one of the most beautiful formulas in mathematics, with far-reaching significance from the perspective of Quantum-Classical Dualism:
 
 1. **Unification of Complex Plane**: Euler's formula unifies exponential functions and trigonometric functions, unifying the real axis and imaginary axis on the complex plane, similar to the unified nature of the quantum universe and classical universe in Quantum-Classical Dualism:
 
@@ -188,13 +188,13 @@ $$
 |\psi\rangle_{\text{Mathematical Structures}}\xrightarrow{\text{Universe Classicalization}}\text{Physical Reality}+S_{\text{Classical Entropy}}
 $$
 
-2. **Cosmological Interpretation of Euler's Formula**: Euler's formula $`e^{i\pi}+1=0`$ can be interpreted as the perfect mathematical expression of universe classicalization:
+2. **Cosmological Interpretation of Euler's Formula**: Euler's formula $e^{i\pi}+1=0$ can be interpreted as the perfect mathematical expression of universe classicalization:
 
 $$
 e^{i\pi}+1=0 \Leftrightarrow \text{Quantum Possibility}+\text{Classical Reality}=\text{Complete Universe}
 $$
 
-Where $`e^{i\pi}`$ represents the cyclic nature of quantum possibilities, 1 represents classical reality, and 0 represents the complete balanced universe.
+Where $e^{i\pi}$ represents the cyclic nature of quantum possibilities, 1 represents classical reality, and 0 represents the complete balanced universe.
 
 3. **Bridge Between Complex Domain and Real Domain**: The universe as a classicalization bridge transforms quantum information in the complex domain into classical information in the real domain:
 

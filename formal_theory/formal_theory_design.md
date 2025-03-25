@@ -26,7 +26,7 @@
 
 $$\Omega_Q^{设计} = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle\}$$
 
-其中 $`|\psi_i\rangle`$ 表示不同的设计可能性状态。
+其中 $|\psi_i\rangle$ 表示不同的设计可能性状态。
 
 量子设计阶段的核心特性：
 - 多种可能性的叠加态共存
@@ -39,7 +39,7 @@ $$\Omega_Q^{设计} = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle\}$$
 
 $$\Omega_C^{设计} = \{D_1, D_2, ..., D_m\}$$
 
-其中 $`D_j`$ 表示具体的设计实现方案。
+其中 $D_j$ 表示具体的设计实现方案。
 
 经典设计阶段的核心特性：
 - 明确定义的形式和功能
@@ -52,7 +52,7 @@ $$\Omega_C^{设计} = \{D_1, D_2, ..., D_m\}$$
 
 $$|\Psi_{创意}\rangle \xrightarrow{\mathcal{D}} D_{实现}$$
 
-其中 $`\mathcal{D}`$ 是设计算符，代表将创意转化为实际设计的过程。
+其中 $\mathcal{D}$ 是设计算符，代表将创意转化为实际设计的过程。
 
 界面转换特征：
 - 从模糊概念到精确规格的渐进明确化
@@ -67,7 +67,7 @@ $$|\Psi_{创意}\rangle \xrightarrow{\mathcal{D}} D_{实现}$$
 
 $$|\Psi_{创意}\rangle = \sum_i \alpha_i |概念_i\rangle$$
 
-其中 $`\alpha_i`$ 是复振幅，代表不同概念的权重。
+其中 $\alpha_i$ 是复振幅，代表不同概念的权重。
 
 叠加态特征：
 - 概念边界模糊且具有高度流动性
@@ -91,7 +91,7 @@ $$|\Psi_{网络}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |元素_i\rangle \otim
 
 $$|\Psi_{t}\rangle \xrightarrow{\Delta E} |\Psi_{t+1}\rangle$$
 
-其中 $`\Delta E`$ 表示创新能量注入。
+其中 $\Delta E$ 表示创新能量注入。
 
 量子跃迁特征：
 - 创意的不连续突破
@@ -106,7 +106,7 @@ $$|\Psi_{t}\rangle \xrightarrow{\Delta E} |\Psi_{t+1}\rangle$$
 
 $$\mathcal{C} = \{C_1, C_2, ..., C_n\}$$
 
-其中 $`C_i`$ 表示特定的设计约束。
+其中 $C_i$ 表示特定的设计约束。
 
 约束系统特性：
 - 物理限制（材料、能源、尺寸等）
@@ -119,7 +119,7 @@ $$\mathcal{C} = \{C_1, C_2, ..., C_n\}$$
 
 $$\rho_{创意} \xrightarrow{\mathcal{D}_C} |D_j\rangle\langle D_j|$$
 
-其中 $`\mathcal{D}_C`$ 是经典化设计算符。
+其中 $\mathcal{D}_C$ 是经典化设计算符。
 
 坍缩过程特征：
 - 通过决策减少不确定性
@@ -145,7 +145,7 @@ $$S_{\text{设计}} = -k \sum_i p_i \ln p_i \xrightarrow{\text{设计过程}} S_
 
 $$Q_{\text{创造}} \cdot C_{\text{实用}} \geq K_{\text{设计}}$$
 
-其中 $`K_{\text{设计}}`$ 是设计领域的基本常数。
+其中 $K_{\text{设计}}$ 是设计领域的基本常数。
 
 平衡的特性：
 - 过于强调创造性可能牺牲可行性
@@ -158,7 +158,7 @@ $$Q_{\text{创造}} \cdot C_{\text{实用}} \geq K_{\text{设计}}$$
 
 $$\mathcal{H} = \{h_1, h_2, ..., h_n\}$$
 
-其中 $`h_i`$ 表示第i层级的设计复杂度。
+其中 $h_i$ 表示第i层级的设计复杂度。
 
 层级特征：
 - 从基本功能到系统整合的递进
@@ -171,7 +171,7 @@ $$\mathcal{H} = \{h_1, h_2, ..., h_n\}$$
 
 $$|\Psi_{设计}\rangle \xrightarrow{\mathcal{O}_{设计师}} |D_j\rangle$$
 
-其中 $`\mathcal{O}_{设计师}`$ 表示设计师的观察行为。
+其中 $\mathcal{O}_{设计师}$ 表示设计师的观察行为。
 
 观察者效应特征：
 - 设计师视角影响问题定义

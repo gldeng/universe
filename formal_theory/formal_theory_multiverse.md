@@ -25,13 +25,13 @@
 
 $$|\Psi_{\text{多宇宙}}\rangle = \sum_i \alpha_i |\Psi_i\rangle$$
 
-其中 $`|\Psi_i\rangle`$ 表示第i个可能宇宙状态，$`\alpha_i`$ 是概率幅。
+其中 $|\Psi_i\rangle$ 表示第i个可能宇宙状态，$\alpha_i$ 是概率幅。
 
 与标准多世界解释不同，本模型认为各分支宇宙间存在交互：
 
 $$\mathcal{H}_{\text{多宇宙}} = \sum_i \mathcal{H}_i + \sum_{i \neq j} \mathcal{V}_{ij}$$
 
-其中 $`\mathcal{H}_i`$ 是单个宇宙的哈密顿量，$`\mathcal{V}_{ij}`$ 是宇宙间的相互作用势。
+其中 $\mathcal{H}_i$ 是单个宇宙的哈密顿量，$\mathcal{V}_{ij}$ 是宇宙间的相互作用势。
 
 ### 宇宙分支形成机制
 
@@ -39,7 +39,7 @@ $$\mathcal{H}_{\text{多宇宙}} = \sum_i \mathcal{H}_i + \sum_{i \neq j} \mathc
 
 $$|\Psi\rangle \xrightarrow{\text{测量}} \sum_i c_i |i\rangle |\mathcal{O}_i\rangle |\mathcal{E}_i\rangle$$
 
-其中 $`|i\rangle`$ 是测量系统的基态，$`|\mathcal{O}_i\rangle`$ 是观察者状态，$`|\mathcal{E}_i\rangle`$ 是环境状态。
+其中 $|i\rangle$ 是测量系统的基态，$|\mathcal{O}_i\rangle$ 是观察者状态，$|\mathcal{E}_i\rangle$ 是环境状态。
 
 分支形成是一个动态过程，满足动力学方程：
 
@@ -55,7 +55,7 @@ $$I_{ij} = |\langle \Psi_i | \Psi_j \rangle|^2$$
 
 $$I_{ij} \propto e^{-S(\rho_i||\rho_j)}$$
 
-其中 $`S(\rho_i||\rho_j)`$ 是量子相对熵，衡量两个宇宙状态的不同程度。
+其中 $S(\rho_i||\rho_j)$ 是量子相对熵，衡量两个宇宙状态的不同程度。
 
 ## 多宇宙干涉动力学
 
@@ -65,7 +65,7 @@ $$I_{ij} \propto e^{-S(\rho_i||\rho_j)}$$
 
 $$\langle \Psi_i(t) | \Psi_j(t) \rangle = \langle \Psi_i(0) | \Psi_j(0) \rangle e^{-\lambda_{ij}t}$$
 
-其中衰减率 $`\lambda_{ij}`$ 与宇宙复杂度相关：
+其中衰减率 $\lambda_{ij}$ 与宇宙复杂度相关：
 
 $$\lambda_{ij} \propto N_{\text{不同自由度}} \cdot T_{\text{有效温度}}$$
 
@@ -75,7 +75,7 @@ $$\lambda_{ij} \propto N_{\text{不同自由度}} \cdot T_{\text{有效温度}}$
 
 $$\frac{d|\alpha_i|^2}{dt} = \gamma |\alpha_i|^2 \left(1 - \sum_j w_{ij}|\alpha_j|^2\right)$$
 
-其中 $`w_{ij}`$ 是权重系数，表示宇宙i和j之间的干涉程度。
+其中 $w_{ij}$ 是权重系数，表示宇宙i和j之间的干涉程度。
 
 该方程导致宇宙权重的动态重新分配，实现非线性波函数坍缩。
 
@@ -85,13 +85,13 @@ $$\frac{d|\alpha_i|^2}{dt} = \gamma |\alpha_i|^2 \left(1 - \sum_j w_{ij}|\alpha_
 
 $$\mathcal{I}_{ij} = \{x \in \mathcal{M} | 0 < D(x, \Omega_i) < \delta, 0 < D(x, \Omega_j) < \delta\}$$
 
-其中 $`D`$ 是度量函数，$`\Omega_i`$ 是宇宙i的流形，$`\delta`$ 是交叉层厚度。
+其中 $D$ 是度量函数，$\Omega_i$ 是宇宙i的流形，$\delta$ 是交叉层厚度。
 
 在交叉层中，量子效应可以跨宇宙传播：
 
 $$P(\text{跨宇宙效应}) \propto \exp\left(-\frac{S(\Omega_i, \Omega_j)}{k_B}\right)$$
 
-其中 $`S(\Omega_i, \Omega_j)`$ 是两个宇宙间的作用。
+其中 $S(\Omega_i, \Omega_j)$ 是两个宇宙间的作用。
 
 ## 多宇宙通信机制
 
@@ -101,13 +101,13 @@ $$P(\text{跨宇宙效应}) \propto \exp\left(-\frac{S(\Omega_i, \Omega_j)}{k_B}
 
 $$T(E) = \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2} \sqrt{2m(V(x) - E)}dx\right)$$
 
-其中 $`V(x)`$ 是宇宙间势垒。
+其中 $V(x)$ 是宇宙间势垒。
 
 信息传输概率与宇宙间距离和差异程度相关：
 
 $$P(\text{传输}) \propto \exp\left(-\alpha\frac{d(\Omega_i, \Omega_j)}{L_P}\right)$$
 
-其中 $`d`$ 是宇宙间距离，$`L_P`$ 是普朗克长度。
+其中 $d$ 是宇宙间距离，$L_P$ 是普朗克长度。
 
 ### 虫洞连接
 
@@ -115,13 +115,13 @@ $$P(\text{传输}) \propto \exp\left(-\alpha\frac{d(\Omega_i, \Omega_j)}{L_P}\ri
 
 $$d s^2 = -f(r)dt^2 + \frac{1}{f(r)}dr^2 + r^2(d\theta^2 + \sin^2\theta d\phi^2)$$
 
-其中 $`f(r) = 1 - \frac{2M}{r} + \frac{Q^2}{r^2}`$
+其中 $f(r) = 1 - \frac{2M}{r} + \frac{Q^2}{r^2}$
 
 虫洞连接的强度与宇宙相似度有关：
 
 $$\kappa \propto \frac{1}{|H_i - H_j|}$$
 
-其中 $`H_i`$ 和 $`H_j`$ 是两个宇宙的哈密顿量。
+其中 $H_i$ 和 $H_j$ 是两个宇宙的哈密顿量。
 
 ### 干涉信息编码
 
@@ -151,7 +151,7 @@ $$\rho_{\mathcal{O}} = \sum_{i,j} c_i c_j^* |\mathcal{O}_i\rangle\langle\mathcal
 
 $$\min_{\mathcal{M}} \sum_{i,j} w_{ij} D(\mathcal{M}_i, \mathcal{M}_j)$$
 
-其中 $`\mathcal{M}_i`$ 是宇宙i中的记忆状态，$`D`$ 是认知距离度量。
+其中 $\mathcal{M}_i$ 是宇宙i中的记忆状态，$D$ 是认知距离度量。
 
 ### 多宇宙意识
 
@@ -171,7 +171,7 @@ $$\mathcal{Q}(\Psi_{\text{意识}}) = -\sum_i |a_i|^2 \log |a_i|^2$$
 
 $$\delta = |P_{\text{观测}} - P_{\text{理论}}| > \frac{K}{\sqrt{N}}$$
 
-其中 $`N`$ 是样本量，$`K`$ 是统计显著性阈值。
+其中 $N$ 是样本量，$K$ 是统计显著性阈值。
 
 ### 多体纠缠共振
 
@@ -179,7 +179,7 @@ $$\delta = |P_{\text{观测}} - P_{\text{理论}}| > \frac{K}{\sqrt{N}}$$
 
 $$\omega_{\text{共振}} = n\frac{\Delta E}{\hbar}$$
 
-其中 $`\Delta E`$ 是相邻宇宙能隙，$`n`$ 是整数。
+其中 $\Delta E$ 是相邻宇宙能隙，$n$ 是整数。
 
 ### 量子计算加速
 
@@ -197,7 +197,7 @@ $$T_{\text{多宇宙}} < T_{\text{量子}} < T_{\text{经典}}$$
 
 $$S_{\text{多宇宙}} = -k_B \sum_i p_i \ln p_i - k_B \sum_{i,j} \gamma_{ij} p_i p_j \ln |c_{ij}|^2$$
 
-其中第二项表示宇宙间干涉贡献，$`c_{ij}`$ 是相干度，$`\gamma_{ij}`$ 是干涉强度因子。
+其中第二项表示宇宙间干涉贡献，$c_{ij}$ 是相干度，$\gamma_{ij}$ 是干涉强度因子。
 
 多宇宙热力学第二定律修正为：
 
@@ -209,7 +209,7 @@ $$\frac{dS_{\text{多宇宙}}}{dt} \geq -\frac{d}{dt}\left(\sum_{i,j} \gamma_{ij
 
 $$\mathcal{L}_{\text{多宇宙}} = \sum_i \mathcal{L}_i + \sum_{i,j} g_{ij} \Phi_i \Phi_j$$
 
-其中 $`\Phi_i`$ 是宇宙i的场，$`g_{ij}`$ 是耦合常数。
+其中 $\Phi_i$ 是宇宙i的场，$g_{ij}$ 是耦合常数。
 
 场方程变为：
 
@@ -221,7 +221,7 @@ $$\Box \Phi_i + m_i^2 \Phi_i + \sum_{j \neq i} g_{ij} \Phi_j = 0$$
 
 $$S_{\text{多宇宙}} = \sum_i S_i + \sum_{i,j} S_{ij}$$
 
-其中 $`S_i`$ 是单个宇宙的爱因斯坦-希尔伯特作用，$`S_{ij}`$ 是宇宙间引力耦合。
+其中 $S_i$ 是单个宇宙的爱因斯坦-希尔伯特作用，$S_{ij}$ 是宇宙间引力耦合。
 
 多宇宙量子引力可能解决单宇宙量子引力中的发散问题：
 
@@ -235,7 +235,7 @@ $$\mathcal{Z}_{\text{多宇宙}} = \int \mathcal{D}g \exp(iS_{\text{多宇宙}}[
 
 $$P(\text{选择} A) = |\langle \Psi_A | \mathcal{D} | \Psi \rangle|^2$$
 
-其中 $`\mathcal{D}`$ 是决策算符，依赖于所有可能宇宙的干涉。
+其中 $\mathcal{D}$ 是决策算符，依赖于所有可能宇宙的干涉。
 
 ### 价值与意义
 
@@ -243,7 +243,7 @@ $$P(\text{选择} A) = |\langle \Psi_A | \mathcal{D} | \Psi \rangle|^2$$
 
 $$V = \sum_i w_i V_i + \sum_{i,j} w_{ij} V_{ij}$$
 
-其中 $`V_i`$ 是单个宇宙中的价值函数，$`V_{ij}`$ 是宇宙间共享价值。
+其中 $V_i$ 是单个宇宙中的价值函数，$V_{ij}$ 是宇宙间共享价值。
 
 ### 身份与持续性
 
@@ -263,7 +263,7 @@ $$\frac{d^2\mathcal{I}}{dt^2} + \Gamma^{\mathcal{I}}_{ab} \frac{d\mathcal{I}^a}{
 
 $$R = C \cdot e^{-\lambda D}$$
 
-其中 $`C`$ 是常数，$`\lambda`$ 是衰减系数，$`D`$ 是宇宙间距离。
+其中 $C$ 是常数，$\lambda$ 是衰减系数，$D$ 是宇宙间距离。
 
 ### 多宇宙计算复杂性
 
@@ -297,7 +297,7 @@ $$|\psi_{\text{纠错}}\rangle = \sum_i \alpha_i |i\rangle_1 |i\rangle_2 \cdots 
 
 $$U_{\text{多宇宙}} = \sum_i w_i U_i$$
 
-其中 $`U_i`$ 是单个宇宙中的效用函数，$`w_i`$ 是权重系数。
+其中 $U_i$ 是单个宇宙中的效用函数，$w_i$ 是权重系数。
 
 ### 生存风险
 

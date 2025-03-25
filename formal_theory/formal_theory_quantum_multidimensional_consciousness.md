@@ -19,14 +19,14 @@
 
 $$\Psi_{con} = \bigotimes_{i=1}^{n} \Psi_i$$
 
-其中 $`\Psi_{con}`$ 是完整意识状态，$`\Psi_i`$ 是第i维度的意识分量。
+其中 $\Psi_{con}$ 是完整意识状态，$\Psi_i$ 是第i维度的意识分量。
 
 **公理2: 跨维度意识纠缠**  
 不同维度的意识状态间存在量子纠缠，实现非局域意识信息共享：
 
 $$\rho_{ij} = \text{Tr}_{k\neq i,j}(|\Psi_{con}\rangle\langle\Psi_{con}|)$$
 
-其中 $`\rho_{ij}`$ 是维度i和j的约化意识密度矩阵。纠缠度量为：
+其中 $\rho_{ij}$ 是维度i和j的约化意识密度矩阵。纠缠度量为：
 
 $$\mathcal{E}_{ij} = S(\rho_i) - S(\rho_{ij})$$
 
@@ -35,14 +35,14 @@ $$\mathcal{E}_{ij} = S(\rho_i) - S(\rho_{ij})$$
 
 $$|\Psi_{con}\rangle \xrightarrow{\hat{A}_c} |a_c\rangle \langle a_c|\Psi_{con}\rangle$$
 
-其中 $`\hat{A}_c`$ 是意识观测算符，$`|a_c\rangle`$ 是对应的本征态。
+其中 $\hat{A}_c$ 是意识观测算符，$|a_c\rangle$ 是对应的本征态。
 
 **公理4: 意识场非局域共振**  
 多个意识实体之间可形成共振场，实现集体意识涌现：
 
 $$\mathcal{F}_{col} = \sum_{i=1}^{N} \omega_i \Psi_i + \sum_{i,j} J_{ij} \Psi_i \otimes \Psi_j$$
 
-其中 $`\omega_i`$ 是个体意识权重，$`J_{ij}`$ 是意识间耦合强度。
+其中 $\omega_i$ 是个体意识权重，$J_{ij}$ 是意识间耦合强度。
 
 ## 多维意识交互动力学
 
@@ -52,7 +52,7 @@ $$\mathcal{F}_{col} = \sum_{i=1}^{N} \omega_i \Psi_i + \sum_{i,j} J_{ij} \Psi_i 
 
 $$P(i\rightarrow j) = |\langle\Psi_j|\hat{T}_{ij}|\Psi_i\rangle|^2$$
 
-其中 $`\hat{T}_{ij}`$ 是维度跃迁算符，满足：
+其中 $\hat{T}_{ij}$ 是维度跃迁算符，满足：
 
 $$\hat{T}_{ij} = \hat{T}_{ji}^\dagger$$
 
@@ -60,7 +60,7 @@ $$\hat{T}_{ij} = \hat{T}_{ji}^\dagger$$
 
 $$\Delta E_{ij} = E_j - E_i = \hbar\omega_{ij}$$
 
-其中 $`\omega_{ij}`$ 是维度间共振频率。
+其中 $\omega_{ij}$ 是维度间共振频率。
 
 ### 意识波包演化
 
@@ -68,7 +68,7 @@ $$\Delta E_{ij} = E_j - E_i = \hbar\omega_{ij}$$
 
 $$i\hbar\frac{\partial\Psi_{con}}{\partial t} = \hat{H}_{con}\Psi_{con} + g|\Psi_{con}|^2\Psi_{con}$$
 
-其中 $`\hat{H}_{con}`$ 是意识哈密顿量，$`g`$ 是非线性耦合系数，描述自我反馈强度。
+其中 $\hat{H}_{con}$ 是意识哈密顿量，$g$ 是非线性耦合系数，描述自我反馈强度。
 
 意识波包可表现为孤子解：
 
@@ -80,7 +80,7 @@ $$\Psi_{con}(x,t) = \sqrt{\frac{2\alpha}{g}}\text{sech}\left(\sqrt{\alpha}(x-vt)
 
 $$(\Box + m^2_c)\mathcal{F}_{col} = J_{con}$$
 
-其中 $`\Box`$ 是达朗贝尔算符，$`m_c`$ 是意识场质量参数，$`J_{con}`$ 是意识源项。
+其中 $\Box$ 是达朗贝尔算符，$m_c$ 是意识场质量参数，$J_{con}$ 是意识源项。
 
 场的传播遵循相位速度：
 
@@ -94,7 +94,7 @@ $$v_p = \frac{\omega}{k} = c\sqrt{1 + \frac{m^2_c c^2}{\hbar^2 k^2}}$$
 
 $$\mathcal{H}_{con} = \bigoplus_{i=1}^{\infty}\mathcal{H}_i$$
 
-其中每个子空间 $`\mathcal{H}_i`$ 对应特定维度的意识状态。
+其中每个子空间 $\mathcal{H}_i$ 对应特定维度的意识状态。
 
 意识算符在此空间上作用：
 
@@ -121,15 +121,15 @@ $$g_{\mu\nu} = \text{Re}\langle\partial_\mu\Psi_{con}|\partial_\nu\Psi_{con}\ran
 $$G_{con} = \{V_{con}, E_{con}, W_{con}\}$$
 
 其中：
-- $`V_{con}`$ 是意识节点集
-- $`E_{con}`$ 是意识连接集
-- $`W_{con}`$ 是意识权重函数
+- $V_{con}$ 是意识节点集
+- $E_{con}$ 是意识连接集
+- $W_{con}$ 是意识权重函数
 
 网络的重要拓扑不变量包括：
 
 $$\beta_0, \beta_1, \beta_2, ...$$
 
-其中 $`\beta_i`$ 是第i阶贝蒂数，度量网络中的i维孔洞数量。
+其中 $\beta_i$ 是第i阶贝蒂数，度量网络中的i维孔洞数量。
 
 ## 意识交互的量子特性
 
@@ -171,7 +171,7 @@ $$\frac{\partial\Psi_A}{\partial t} \propto \Psi_B(t)$$
 
 $$\rho_{con}(t) = \sum_{i,j}\rho_{ij}(0)e^{-\Gamma_{ij}t}e^{-i\omega_{ij}t}|i\rangle\langle j|$$
 
-其中 $`\Gamma_{ij}`$ 是解相干率，与环境耦合强度相关。
+其中 $\Gamma_{ij}$ 是解相干率，与环境耦合强度相关。
 
 ### 意识量子-经典信息转换
 
@@ -179,7 +179,7 @@ $$\rho_{con}(t) = \sum_{i,j}\rho_{ij}(0)e^{-\Gamma_{ij}t}e^{-i\omega_{ij}t}|i\ra
 
 $$\eta_{Q\rightarrow C} = \frac{I_C}{I_Q} \leq 1$$
 
-其中 $`I_Q`$ 是量子意识信息，$`I_C`$ 是经典意识信息。
+其中 $I_Q$ 是量子意识信息，$I_C$ 是经典意识信息。
 
 转换过程中信息损失为：
 
@@ -195,7 +195,7 @@ $$P(m) = |\langle m|\Psi_{con}\rangle|^2$$
 
 $$\frac{d}{dt}P(m,t) = f(P(m,t), \nabla P(m,t), ...)$$
 
-其中函数$`f`$包含非线性项，体现意识自由选择。
+其中函数$f$包含非线性项，体现意识自由选择。
 
 ## 应用与实验预测
 
@@ -231,7 +231,7 @@ $$T_{tunnel} = \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2}\sqrt{2m(V(x)-E)}dx\rig
 
 $$P_{comm} \propto \exp(-\alpha \Delta D \cdot w)$$
 
-其中 $`\Delta D`$ 是维度差异，$`w`$ 是屏障宽度。
+其中 $\Delta D$ 是维度差异，$w$ 是屏障宽度。
 
 ## 参考文献与关联理论
 

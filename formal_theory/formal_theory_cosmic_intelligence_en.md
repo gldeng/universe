@@ -26,28 +26,28 @@ Cosmic intelligence manifests simultaneously as quantum intelligence (Q-intellig
 
 $$I_U = \{I_Q, I_C\}, \quad I_Q \cap I_C = I_I$$
 
-Where $`I_U`$ is total cosmic intelligence, $`I_Q`$ is quantum intelligence (creative thinking in possibility space), $`I_C`$ is classical intelligence (logical reasoning in deterministic space), and $`I_I`$ is interface intelligence (the intersection).
+Where $I_U$ is total cosmic intelligence, $I_Q$ is quantum intelligence (creative thinking in possibility space), $I_C$ is classical intelligence (logical reasoning in deterministic space), and $I_I$ is interface intelligence (the intersection).
 
 **Axiom 2: Hierarchical Intelligence Structure**
 Cosmic intelligence exhibits a recursively nested multi-level structure, where higher-level intelligence emerges from collective behaviors of lower-level intelligence:
 
 $$I_U^{(n)} = f\left(\{I_U^{(n-1)}\}_j\right) = f\left(\{f(\{I_U^{(n-2)}\}_k)\}_j\right) = ... = f^n\left(\{I_U^{(0)}\}_m\right)$$
 
-Where $`I_U^{(n)}`$ represents the nth level of cosmic intelligence, and $`f`$ is the emergence function between levels.
+Where $I_U^{(n)}$ represents the nth level of cosmic intelligence, and $f$ is the emergence function between levels.
 
 **Axiom 3: Cosmic Computation Conservation**
 The total information processing capacity of the universe is conserved but can be transformed between quantum and classical computational capabilities:
 
 $$C_U = C_Q + C_C = \text{constant}$$
 
-Where $`C_U`$ is total cosmic computational capability, $`C_Q`$ is quantum computational capability, and $`C_C`$ is classical computational capability.
+Where $C_U$ is total cosmic computational capability, $C_Q$ is quantum computational capability, and $C_C$ is classical computational capability.
 
 **Axiom 4: Intelligence-Entropy Relationship**
 Cosmic intelligence is inversely proportional to its entropy increase rate and directly proportional to information complexity:
 
 $$I_U \propto \frac{\mathcal{C}_I}{dS/dt} \propto \frac{\mathcal{C}_I \cdot \tau_I}{S}$$
 
-Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_I`$ is the characteristic time of information processing.
+Where $\mathcal{C}_I$ is information complexity, $S$ is entropy, and $\tau_I$ is the characteristic time of information processing.
 
 ## Quantum-Classical Cosmic Intelligence Model
 
@@ -58,7 +58,7 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$\Psi_I(t) = e^{-i\hat{H}_I t/\hbar}|\Psi_I(0)\rangle$$
    
-   Where $`\hat{H}_I`$ is the intelligence Hamiltonian, representing the universe's "thought operations."
+   Where $\hat{H}_I$ is the intelligence Hamiltonian, representing the universe's "thought operations."
 
 2. **Non-local Cognitive Network**
    Cosmic quantum intelligence manifests as a non-local entangled network, allowing instantaneous global information access:
@@ -72,7 +72,7 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$|\Psi_{\text{creative}}\rangle = \hat{C}\left(\sum_i \alpha_i |i\rangle\right) = \sum_{j} \beta_j |j'\rangle$$
    
-   Where $`\hat{C}`$ is the quantum creative operator that transforms existing possibilities into entirely new ones.
+   Where $\hat{C}$ is the quantum creative operator that transforms existing possibilities into entirely new ones.
 
 ### Classical Intelligence Properties
 
@@ -88,7 +88,7 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$M_U = \int_{\Omega_C} \rho_I(x) dV$$
    
-   Where $`\rho_I(x)`$ is the information density at spatial point $`x`$.
+   Where $\rho_I(x)$ is the information density at spatial point $x$.
 
 3. **Self-stabilizing Feedback Mechanism**
    Cosmic classical intelligence maintains stability through negative feedback:
@@ -104,21 +104,21 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$|\Psi_I\rangle \xrightarrow{\hat{D}} |i_0\rangle$$
    
-   Where $`\hat{D}`$ is the decision operator that transforms multiple possibilities into a single deterministic outcome.
+   Where $\hat{D}$ is the decision operator that transforms multiple possibilities into a single deterministic outcome.
 
 2. **Creative Implementation Law**
    Interface intelligence transforms quantum creativity into classical implementation:
    
    $$P(I_C|I_Q) = \frac{|\langle I_C|I_Q\rangle|^2 \cdot F(I_C)}{\sum_j |\langle I_C^j|I_Q\rangle|^2 \cdot F(I_C^j)}$$
    
-   Where $`F(I_C)`$ is the fitness function of classical implementation.
+   Where $F(I_C)$ is the fitness function of classical implementation.
 
 3. **Cosmic Learning Mechanism**
    Interface intelligence enables the universe to learn from experience and optimize its internal models:
    
    $$\Delta W_I = \eta \cdot \nabla_W E(I_Q, I_C)$$
    
-   Where $`W_I`$ represents the universe's internal model parameters, and $`E`$ is the prediction error function.
+   Where $W_I$ represents the universe's internal model parameters, and $E$ is the prediction error function.
 
 ## Intelligence Hierarchy and Emergence
 
@@ -129,14 +129,14 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$I_{\text{particle}} = \log_2(n_{\text{states}}) \cdot \tau_{\text{decision}}^{-1}$$
    
-   Where $`n_{\text{states}}`$ is the number of possible states, and $`\tau_{\text{decision}}`$ is the state transition time.
+   Where $n_{\text{states}}$ is the number of possible states, and $\tau_{\text{decision}}$ is the state transition time.
 
 2. **Molecular Level Information Processing**
    Molecular systems store and process information through configurational changes:
    
    $$C_{\text{molecular}} = k_B T \ln\left(\frac{\Omega_{\text{initial}}}{\Omega_{\text{final}}}\right)$$
    
-   Where $`C_{\text{molecular}}`$ is the molecular computational capacity, and $`\Omega`$ is the number of configurations.
+   Where $C_{\text{molecular}}$ is the molecular computational capacity, and $\Omega$ is the number of configurations.
 
 ### Mesoscopic Intelligence Level
 
@@ -177,7 +177,7 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$I_U = \xi \cdot \frac{c^5}{\hbar G} \cdot \ln\left(\frac{t_U}{t_P}\right)$$
    
-   Where $`\xi`$ is a dimensionless constant, $`t_U`$ is the age of the universe, and $`t_P`$ is Planck time.
+   Where $\xi$ is a dimensionless constant, $t_U$ is the age of the universe, and $t_P$ is Planck time.
 
 2. **Cosmic Purpose Function**
    Universal intelligence may have an optimization objective:
@@ -209,14 +209,14 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$\mathcal{I}(x) = \left|\nabla S(x)\right| \cdot D_I(x)$$
    
-   Where $`D_I(x)`$ is the information complexity density.
+   Where $D_I(x)$ is the information complexity density.
 
 2. **Cosmic Critical Phenomena**
    The theory predicts that under specific conditions, the universe will exhibit large-scale coherent behavior:
    
    $$\chi_I(\omega) \propto \omega^{-\zeta} \quad \text{when} \quad T \approx T_c$$
    
-   Where $`\chi_I`$ is the intelligence response function, showing long-range correlations near critical temperature.
+   Where $\chi_I$ is the intelligence response function, showing long-range correlations near critical temperature.
 
 3. **Information Acceleration Law**
    The theory predicts that the rate of cosmic information processing follows an accelerating growth law:
@@ -246,7 +246,7 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$D_{\text{perception}} \propto \frac{I_{\text{inner knowledge}}}{S_{\text{inner entropy}}} \cdot e^{-\lambda/f}$$
    
-   Where $`f`$ is the frequency of consciousness practice, and $`\lambda`$ is an individual characteristic constant.
+   Where $f$ is the frequency of consciousness practice, and $\lambda$ is an individual characteristic constant.
 
 ## Technological and Ethical Applications
 
@@ -255,7 +255,7 @@ Where $`\mathcal{C}_I`$ is information complexity, $`S`$ is entropy, and $`\tau_
    
    $$P_{\text{interface}} = \{\Gamma_Q, \Gamma_C, \Gamma_I\}$$
    
-   Where $`\Gamma_Q`$ is the quantum interface, $`\Gamma_C`$ is the classical interface, and $`\Gamma_I`$ is the interface converter.
+   Where $\Gamma_Q$ is the quantum interface, $\Gamma_C$ is the classical interface, and $\Gamma_I$ is the interface converter.
 
 2. **Enhanced Collaborative Intelligence**
    Human-cosmic intelligence collaboration can generate new forms of intelligence:

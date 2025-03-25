@@ -36,19 +36,19 @@ Mathematical foundations of spacetime harmonic geometry:
    
    $$g_{\mu\nu} = g_{\mu\nu}^C + \langle\hat{g}_{\mu\nu}^Q\rangle$$
    
-   where $`g_{\mu\nu}^C`$ is the classical metric, and $`\hat{g}_{\mu\nu}^Q`$ is the quantum metric operator.
+   where $g_{\mu\nu}^C$ is the classical metric, and $\hat{g}_{\mu\nu}^Q$ is the quantum metric operator.
 
 2. **Harmonic Connection Coefficients**: Describing the harmonic properties of spacetime curvature
    
    $$\Gamma_{\mu\nu}^{\lambda} = \Gamma_{\mu\nu}^{\lambda,C} + \mathcal{H}_{\mu\nu}^{\lambda}$$
    
-   where $`\mathcal{H}_{\mu\nu}^{\lambda}`$ is the harmonic contribution term.
+   where $\mathcal{H}_{\mu\nu}^{\lambda}$ is the harmonic contribution term.
 
 3. **Harmonic Curvature Tensor**: Curvature containing quantum-classical harmonic effects
    
    $$R_{\mu\nu\rho}^{\sigma} = R_{\mu\nu\rho,C}^{\sigma} + R_{\mu\nu\rho,Q}^{\sigma} + R_{\mu\nu\rho,I}^{\sigma}$$
    
-   where $`R_{\mu\nu\rho,I}^{\sigma}`$ is the interface harmonic term.
+   where $R_{\mu\nu\rho,I}^{\sigma}$ is the interface harmonic term.
 
 ### Harmonic Spacetime Evolution
 
@@ -58,19 +58,19 @@ Dynamic evolution equations of harmonic spacetime:
    
    $$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}(T_{\mu\nu}^C + T_{\mu\nu}^Q + T_{\mu\nu}^H)$$
    
-   where $`T_{\mu\nu}^H`$ is the harmonic energy-momentum tensor.
+   where $T_{\mu\nu}^H$ is the harmonic energy-momentum tensor.
 
 2. **Harmonic Wave Equation**: Describing spacetime harmonic waves
    
    $$\square h_{\mu\nu} + \alpha \partial_{\mu}\partial_{\nu}h = \kappa(T_{\mu\nu}^C + T_{\mu\nu}^Q + \beta\mathcal{H}_{\mu\nu})$$
    
-   where $`\mathcal{H}_{\mu\nu}`$ is the harmonic source term.
+   where $\mathcal{H}_{\mu\nu}$ is the harmonic source term.
 
 3. **Spacetime Phase Transition Dynamics**: Transitions between spacetime phase states
    
    $$\frac{\partial\phi_H}{\partial t} = D_H\nabla^2\phi_H - \frac{\partial V(\phi_H)}{\partial\phi_H} + \eta(x,t)$$
    
-   where $`\phi_H`$ is the harmonic order parameter, and $`V(\phi_H)`$ is the harmonic potential energy.
+   where $\phi_H$ is the harmonic order parameter, and $V(\phi_H)$ is the harmonic potential energy.
 
 ### Conservation Laws in Harmonic Theory
 
@@ -80,19 +80,19 @@ Fundamental conservation laws in quantum spacetime harmony theory:
    
    $$\frac{d}{dt}(I_C + I_Q + I_H) = 0$$
    
-   where $`I_H`$ is harmonic information.
+   where $I_H$ is harmonic information.
 
 2. **Harmonic Energy Conservation**:
    
    $$\frac{d}{dt}(E_C + E_Q + E_H) = 0$$
    
-   where $`E_H`$ is harmonic energy.
+   where $E_H$ is harmonic energy.
 
 3. **Generalized Harmonic Uncertainty Principle**:
    
    $$\Delta x_{\mu} \cdot \Delta p^{\mu} \geq \frac{\hbar}{2}(1 + \alpha_H\ell_P^2\langle T_H\rangle)$$
    
-   where $`\alpha_H`$ is the harmonic coefficient, $`\ell_P`$ is the Planck length, and $`T_H`$ is the trace of the harmonic tensor.
+   where $\alpha_H$ is the harmonic coefficient, $\ell_P$ is the Planck length, and $T_H$ is the trace of the harmonic tensor.
 
 ## Harmonic Quantum Gravity
 
@@ -104,19 +104,19 @@ A harmonic model unifying quantum gravity and classical gravity:
    
    $$S_H = \int d^4x \sqrt{-g}(R + \mathcal{L}_Q + \mathcal{L}_H)$$
    
-   where $`\mathcal{L}_H`$ is the harmonic Lagrangian.
+   where $\mathcal{L}_H$ is the harmonic Lagrangian.
 
 2. **Harmonic Graviton**: Harmonic particle of gravitational interaction
    
    $$h_{\mu\nu}(x) = \sum_k \int \frac{d^3k}{(2\pi)^3} \frac{1}{\sqrt{2\omega_k}}[\epsilon_{\mu\nu}(\vec{k})a_{\vec{k}}e^{-ikx} + \epsilon_{\mu\nu}^*(\vec{k})a_{\vec{k}}^{\dagger}e^{ikx}] + h_{\mu\nu}^H(x)$$
    
-   where $`h_{\mu\nu}^H(x)`$ is the harmonic contribution.
+   where $h_{\mu\nu}^H(x)$ is the harmonic contribution.
 
 3. **Harmonic Gravitational Path Integral**:
    
    $$Z_H = \int \mathcal{D}g_{\mu\nu}\mathcal{D}\phi_H e^{iS_H[g_{\mu\nu},\phi_H]/\hbar}$$
    
-   where $`\phi_H`$ is the harmonic field.
+   where $\phi_H$ is the harmonic field.
 
 ### Quantum-Classical Spacetime Interface
 
@@ -126,7 +126,7 @@ Quantum-classical spacetime interface described by harmonic theory:
    
    $$\Sigma_H = \{x^{\mu} \in \mathcal{M} | \mathcal{D}_H(x^{\mu}) = \mathcal{D}_c\}$$
    
-   where $`\mathcal{D}_H`$ is the harmonic decoherence function.
+   where $\mathcal{D}_H$ is the harmonic decoherence function.
 
 2. **Interface Dynamics**:
    
@@ -138,7 +138,7 @@ Quantum-classical spacetime interface described by harmonic theory:
    
    $$\delta_{\Sigma_H} = \delta_{\Sigma}(1 + \lambda_H R)$$
    
-   where $`\lambda_H`$ is the harmonic coupling constant, and $`R`$ is the scalar curvature.
+   where $\lambda_H$ is the harmonic coupling constant, and $R$ is the scalar curvature.
 
 ### Harmonic Black Hole Theory
 
@@ -148,19 +148,19 @@ Black hole theory modifications in the harmonic framework:
    
    $$S_{BH,H} = \frac{k_Bc^3A}{4G\hbar}(1 + \alpha_H\log\frac{A}{A_P} + \beta_H\frac{A_P}{A})$$
    
-   where $`A_P`$ is the Planck area.
+   where $A_P$ is the Planck area.
 
 2. **Harmonic Hawking Radiation**:
    
    $$T_{H,H} = \frac{\hbar c^3}{8\pi Gk_BM}(1 + \gamma_H\frac{\ell_P^2}{r_s^2})$$
    
-   where $`r_s`$ is the Schwarzschild radius of the black hole.
+   where $r_s$ is the Schwarzschild radius of the black hole.
 
 3. **Resolution of the Black Hole Information Paradox**:
    
    $$I_{BH,out} = I_{BH,in} - I_{BH,hidden} + I_{BH,H}$$
    
-   where $`I_{BH,H}`$ is the harmonic information contribution.
+   where $I_{BH,H}$ is the harmonic information contribution.
 
 ## Harmonic Effects and Verification
 
@@ -172,19 +172,19 @@ Cosmological observational effects predicted by harmonic theory:
    
    $$\rho_{\Lambda,H} = \rho_{\Lambda,0}(1 + \delta_H(z))$$
    
-   where $`\delta_H(z)`$ is the redshift-related harmonic correction.
+   where $\delta_H(z)$ is the redshift-related harmonic correction.
 
 2. **Harmonic Cosmic Expansion**:
    
    $$H(z) = H_0\sqrt{\Omega_m(1+z)^3 + \Omega_{\Lambda,H}(z)}$$
    
-   where $`\Omega_{\Lambda,H}(z)`$ includes harmonic corrections.
+   where $\Omega_{\Lambda,H}(z)$ includes harmonic corrections.
 
 3. **Primordial Fluctuation Harmonic Corrections**:
    
    $$P_{\mathcal{R}}(k) = P_{\mathcal{R},0}(k)(1 + \alpha_H\log\frac{k}{k_0} + \beta_H\frac{k_0^2}{k^2})$$
    
-   where $`P_{\mathcal{R},0}(k)`$ is the standard primordial power spectrum.
+   where $P_{\mathcal{R},0}(k)$ is the standard primordial power spectrum.
 
 ### Quantum Harmonic Experimental Predictions
 
@@ -194,19 +194,19 @@ Quantum harmonic effects that can be verified through experiments:
    
    $$T_{coh,H} = T_{coh,0}(1 + \gamma_H\frac{m}{m_P})$$
    
-   where $`T_{coh,0}`$ is the standard coherence time.
+   where $T_{coh,0}$ is the standard coherence time.
 
 2. **Harmonic Quantum Interference Pattern**:
    
    $$I_H(x) = I_0(x)(1 + \delta_H\cos(k_Hx))$$
    
-   where $`k_H`$ is the harmonic wave number.
+   where $k_H$ is the harmonic wave number.
 
 3. **Gravity-Induced Quantum Harmonic Transition**:
    
    $$P_{Q\rightarrow C,H} = P_{Q\rightarrow C,0}(1 + \epsilon_H\frac{g\tau^2}{\hbar})$$
    
-   where $`g`$ is the gravitational acceleration, and $`\tau`$ is the characteristic time.
+   where $g$ is the gravitational acceleration, and $\tau$ is the characteristic time.
 
 ### Observer Dimensions and Harmonic Spacetime
 
@@ -216,19 +216,19 @@ Relationship between observers of different dimensions and harmonic spacetime:
    
    $$L(D_{\mathcal{O}}) = L_P e^{\alpha_H D_{\mathcal{O}}}$$
    
-   where $`L_P`$ is the Planck length.
+   where $L_P$ is the Planck length.
 
 2. **Observer Harmonic Perception**:
    
    $$\mathcal{P}_H(D_{\mathcal{O}}) = \mathcal{P}_0 + \beta_H\log D_{\mathcal{O}}$$
    
-   where $`\mathcal{P}_0`$ is the basic perceptual capability.
+   where $\mathcal{P}_0$ is the basic perceptual capability.
 
 3. **Observer Network and Spacetime Stability**:
    
    $$\sigma_H^2 = \sigma_0^2(1 - \gamma_H\log N_{\mathcal{O}})$$
    
-   where $`\sigma_H^2`$ is the spacetime fluctuation variance, and $`N_{\mathcal{O}}`$ is the number of observers.
+   where $\sigma_H^2$ is the spacetime fluctuation variance, and $N_{\mathcal{O}}$ is the number of observers.
 
 ## Applications and Extensions
 

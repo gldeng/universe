@@ -40,7 +40,7 @@ The metaverse duality can be expressed as:
 
 $$M = (\Omega_Q^M, \Omega_C^M, \mathcal{I}^M)$$
 
-where $`\Omega_Q^M`$ is the quantum domain of the metaverse, $`\Omega_C^M`$ is the classical domain of the metaverse, and $`\mathcal{I}^M`$ is the conversion interface between them.
+where $\Omega_Q^M$ is the quantum domain of the metaverse, $\Omega_C^M$ is the classical domain of the metaverse, and $\mathcal{I}^M$ is the conversion interface between them.
 
 ### 2. Virtual-Physical Interface Dynamics
 
@@ -60,7 +60,7 @@ The mathematical description of the conversion:
 
 $$x_{\text{virtual}} = f_{\text{conversion}}(x_{\text{physical}}, \mathcal{C}_{\text{technology}})$$
 
-where $`\mathcal{C}_{\text{technology}}`$ is the technology constraint parameter.
+where $\mathcal{C}_{\text{technology}}$ is the technology constraint parameter.
 
 #### Virtual→Physical Feedback
 The virtual world influences users' physical experiences through sensory feedback:
@@ -77,7 +77,7 @@ Feedback efficiency is determined by immersion parameters:
 
 $$\eta_{\text{feedback}} = \frac{I_{\text{perception}}}{I_{\text{virtual}}} \cdot (1 - e^{-\lambda\cdot\mathcal{Q}_{\text{device}}})$$
 
-where $`\mathcal{Q}_{\text{device}}`$ is the device quality parameter.
+where $\mathcal{Q}_{\text{device}}$ is the device quality parameter.
 
 ### 3. Metaverse Consciousness Mapping
 
@@ -105,7 +105,7 @@ Degree of experience transfer:
 
 $$T_{\text{experience}} = 1 - |\langle\psi_{\text{user}}|\psi_{\text{user}}'\rangle|^2$$
 
-Higher $`T_{\text{experience}}`$ values indicate greater changes in the user's mental state due to virtual experiences.
+Higher $T_{\text{experience}}$ values indicate greater changes in the user's mental state due to virtual experiences.
 
 ### 4. Metaverse Information Phase Transitions
 
@@ -148,7 +148,7 @@ Maintaining a balance between possibility and determinism:
 
 $$\mathcal{B} = \frac{H_Q}{H_C} \approx \phi$$
 
-where $`H_Q`$ is quantum possibility entropy, $`H_C`$ is classical structure entropy, and $`\phi`$ is the golden ratio.
+where $H_Q$ is quantum possibility entropy, $H_C$ is classical structure entropy, and $\phi$ is the golden ratio.
 
 Implementation methods include:
 - Open creation systems with rule frameworks
@@ -179,8 +179,8 @@ Digital assets simultaneously possess quantum and classical properties:
 $$A_{\text{digital}} = (V_Q, V_C)$$
 
 where:
-- $`V_Q`$ is the potential value space (all possible uses)
-- $`V_C`$ is the realized value (current market value)
+- $V_Q$ is the potential value space (all possible uses)
+- $V_C$ is the realized value (current market value)
 
 Quantum representation of asset value:
 
@@ -196,9 +196,9 @@ Virtual economies follow special quantum-classical dynamics:
 $$\frac{dE_{\text{virtual}}}{dt} = \alpha \cdot \dot{N}_{\text{users}} + \beta \cdot \dot{I}_{\text{innovation}} - \gamma \cdot S_{\text{inflation}}$$
 
 where:
-- $`\dot{N}_{\text{users}}`$ is the user growth rate
-- $`\dot{I}_{\text{innovation}}`$ is the innovation output rate
-- $`S_{\text{inflation}}`$ is the system entropy increase rate
+- $\dot{N}_{\text{users}}$ is the user growth rate
+- $\dot{I}_{\text{innovation}}$ is the innovation output rate
+- $S_{\text{inflation}}$ is the system entropy increase rate
 
 Quantum model of supply-demand balance:
 
@@ -230,13 +230,13 @@ Emergence and evolution of social norms:
 
 $$\mathcal{N}(t+1) = f_{\text{evolution}}(\mathcal{N}(t), \mathcal{G}, \rho_{\text{collective}})$$
 
-where $`\mathcal{G}`$ is the governance parameter and $`\rho_{\text{collective}}`$ is the collective value system.
+where $\mathcal{G}$ is the governance parameter and $\rho_{\text{collective}}$ is the collective value system.
 
 Quantum model of norm formation:
 
 $$|\psi_{\text{norm}}\rangle = \frac{1}{\sqrt{Z}}\sum_i e^{-\beta E_i} |\text{behavior pattern}_i\rangle$$
 
-where $`E_i`$ is the social energy of the behavior pattern and $`\beta`$ is the inverse of social temperature.
+where $E_i$ is the social energy of the behavior pattern and $\beta$ is the inverse of social temperature.
 
 ### 4. Metaverse Psychology
 
@@ -255,20 +255,20 @@ Quantum representation of presence:
 
 $$|\psi_{\text{presence}}\rangle = \sqrt{1-p} |\text{physical}\rangle + \sqrt{p} e^{i\phi} |\text{virtual}\rangle$$
 
-where $`p`$ is the proportion of virtual presence and $`\phi`$ is the phase factor.
+where $p$ is the proportion of virtual presence and $\phi$ is the phase factor.
 
 #### Virtual Experiences and Identity Development
 Impact of virtual experiences on identity development:
 
 $$\frac{d|\psi_{\text{identity}}\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_{\text{experience}}|\psi_{\text{identity}}\rangle + \mathcal{L}_{\text{learning}}(|\psi_{\text{identity}}\rangle)$$
 
-where $`\hat{H}_{\text{experience}}`$ is the experience Hamiltonian and $`\mathcal{L}_{\text{learning}}`$ is the learning operator.
+where $\hat{H}_{\text{experience}}$ is the experience Hamiltonian and $\mathcal{L}_{\text{learning}}$ is the learning operator.
 
 Identity transfer and integration model:
 
 $$\rho_{\text{integrated identity}} = \alpha \rho_{\text{physical identity}} + \beta \rho_{\text{virtual identity}} + \gamma[\rho_{\text{physical identity}}, \rho_{\text{virtual identity}}]$$
 
-where $`[\cdot,\cdot]`$ represents the commutator, capturing interference effects between the two identities.
+where $[\cdot,\cdot]$ represents the commutator, capturing interference effects between the two identities.
 
 ## Experimental Predictions and Verification
 

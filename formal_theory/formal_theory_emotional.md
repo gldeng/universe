@@ -21,9 +21,9 @@
 $$E = \{E_Q, E_C, \mathcal{T}_{E}\}$$
 
 其中:
-- $`E_Q`$ 是情感的量子组件，表示内在体验的叠加状态
-- $`E_C`$ 是情感的经典组件，表示外在可观察的表达
-- $`\mathcal{T}_{E}`$ 是情感特有的转换算子，将内在体验转化为外在表达
+- $E_Q$ 是情感的量子组件，表示内在体验的叠加状态
+- $E_C$ 是情感的经典组件，表示外在可观察的表达
+- $\mathcal{T}_{E}$ 是情感特有的转换算子，将内在体验转化为外在表达
 
 情感的量子状态可以表示为多种可能情感的叠加：
 
@@ -39,19 +39,19 @@ $$E_C = \{e_{表达}, e_{生理}, e_{行为}\}$$
 
 $$|\psi_E\rangle = \alpha_1 |喜悦\rangle + \alpha_2 |悲伤\rangle + \alpha_3 |恐惧\rangle + \alpha_4 |愤怒\rangle + ... + \alpha_n |其他\rangle$$
 
-其中 $`\sum_i |\alpha_i|^2 = 1`$。这种叠加态解释了为什么人类经常体验到复杂的混合情感，而非单一纯净的情感。
+其中 $\sum_i |\alpha_i|^2 = 1$。这种叠加态解释了为什么人类经常体验到复杂的混合情感，而非单一纯净的情感。
 
 #### 3. 情感经典化
 
-情感经典化是指情感从量子叠加态向特定经典情感状态的转变过程，通过特定的经典化算子 $`\mathcal{C}_E`$ 实现：
+情感经典化是指情感从量子叠加态向特定经典情感状态的转变过程，通过特定的经典化算子 $\mathcal{C}_E$ 实现：
 
 $$\mathcal{C}_E: |\psi_E\rangle \langle\psi_E| \to \sum_i p_i |e_i\rangle \langle e_i|$$
 
-其中 $`p_i = |\alpha_i|^2`$ 是特定情感状态出现的概率。经典化概率受到以下因素调制：
+其中 $p_i = |\alpha_i|^2$ 是特定情感状态出现的概率。经典化概率受到以下因素调制：
 
 $$p_i' = p_i \cdot \frac{e^{\beta F_i}}{\sum_j e^{\beta F_j}}$$
 
-其中 $`F_i`$ 是影响情感表达的因素函数，$`\beta`$ 是敏感度参数。
+其中 $F_i$ 是影响情感表达的因素函数，$\beta$ 是敏感度参数。
 
 #### 4. 情感纠缠
 
@@ -63,7 +63,7 @@ $$|\psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|喜悦\rangle_A \otimes |喜悦\rangle
 
 $$E(|\psi_{AB}\rangle) = S(\rho_A) = -\text{Tr}(\rho_A \ln \rho_A)$$
 
-其中 $`\rho_A = \text{Tr}_B(|\psi_{AB}\rangle\langle\psi_{AB}|)`$ 是通过对B系统求偏迹得到的A系统约化密度矩阵。
+其中 $\rho_A = \text{Tr}_B(|\psi_{AB}\rangle\langle\psi_{AB}|)$ 是通过对B系统求偏迹得到的A系统约化密度矩阵。
 
 ## 量子-经典情感动力学
 
@@ -73,13 +73,13 @@ $$E(|\psi_{AB}\rangle) = S(\rho_A) = -\text{Tr}(\rho_A \ln \rho_A)$$
 
 $$i\hbar\frac{\partial|\psi_E\rangle}{\partial t} = \hat{H}_E|\psi_E\rangle + \hat{V}(|\psi_E\rangle, E_C)|\psi_E\rangle$$
 
-其中 $`\hat{H}_E`$ 是情感哈密顿算符，$`\hat{V}`$ 是依赖于当前情感表达的非线性项，捕捉情感的自我强化效应。
+其中 $\hat{H}_E$ 是情感哈密顿算符，$\hat{V}$ 是依赖于当前情感表达的非线性项，捕捉情感的自我强化效应。
 
 情感的经典演化则遵循非线性动力学方程：
 
 $$\frac{dE_C}{dt} = \gamma_1 \mathcal{C}_E(|\psi_E\rangle) - \gamma_2 E_C + \gamma_3 f(E_C) + \xi(t)$$
 
-其中 $`\gamma_i`$ 是速率参数，$`f(E_C)`$ 是非线性反馈函数，$`\xi(t)`$ 是随机涨落项。
+其中 $\gamma_i$ 是速率参数，$f(E_C)$ 是非线性反馈函数，$\xi(t)$ 是随机涨落项。
 
 ### 2. 情感波动与稳定性
 
@@ -91,7 +91,7 @@ $$F(E) = \sqrt{\langle(\Delta E)^2\rangle} = \sqrt{\langle E^2\rangle - \langle 
 
 $$S_E = 1 - \frac{H(p_1, p_2, ..., p_n)}{\ln n}$$
 
-其中 $`H(p_1, p_2, ..., p_n) = -\sum_i p_i \ln p_i`$ 是情感概率分布的香农熵。
+其中 $H(p_1, p_2, ..., p_n) = -\sum_i p_i \ln p_i$ 是情感概率分布的香农熵。
 
 ### 3. 情感共振与传递
 
@@ -99,13 +99,13 @@ $$S_E = 1 - \frac{H(p_1, p_2, ..., p_n)}{\ln n}$$
 
 $$J_{AB} = \eta \cdot \langle\psi_A|\hat{O}|\psi_B\rangle$$
 
-其中 $`\hat{O}`$ 是共享观察算符，$`\eta`$ 是共振效率参数。
+其中 $\hat{O}$ 是共享观察算符，$\eta$ 是共振效率参数。
 
 情感传递效率可以表示为：
 
 $$\epsilon_{传递} = \frac{|\Delta E_B|}{|\Delta E_A|} \cdot \frac{1}{d_{AB}}$$
 
-其中 $`d_{AB}`$ 是个体间的心理距离（包括物理距离、社会距离和心理距离的加权组合）。
+其中 $d_{AB}$ 是个体间的心理距离（包括物理距离、社会距离和心理距离的加权组合）。
 
 ## 情感量子-经典界面
 
@@ -115,13 +115,13 @@ $$\epsilon_{传递} = \frac{|\Delta E_B|}{|\Delta E_A|} \cdot \frac{1}{d_{AB}}$$
 
 $$\mathcal{I}_E = \{x \in E | \mathcal{D}_E(x) = \mathcal{D}_E^c\}$$
 
-其中 $`\mathcal{D}_E(x)`$ 是情感解相干度量函数，$`\mathcal{D}_E^c`$ 是临界阈值。
+其中 $\mathcal{D}_E(x)$ 是情感解相干度量函数，$\mathcal{D}_E^c$ 是临界阈值。
 
 界面厚度与社会文化因素相关：
 
 $$\delta_{\mathcal{I}_E} = \delta_0 \cdot (1 + \kappa_1 C_{\text{表达规范}} + \kappa_2 P_{\text{个人特质}})$$
 
-其中 $`C_{\text{表达规范}}`$ 是文化表达规范参数，$`P_{\text{个人特质}}`$ 是个人特质参数。
+其中 $C_{\text{表达规范}}$ 是文化表达规范参数，$P_{\text{个人特质}}$ 是个人特质参数。
 
 ### 2. 情感解相干过程
 
@@ -129,7 +129,7 @@ $$\delta_{\mathcal{I}_E} = \delta_0 \cdot (1 + \kappa_1 C_{\text{表达规范}} 
 
 $$\tau_{\text{解相干}} = \tau_0 \cdot e^{-\lambda \frac{E_{\text{情感强度}}}{k_B T_{\text{社会温度}}}}$$
 
-其中 $`\tau_{\text{解相干}}`$ 是解相干时间，$`E_{\text{情感强度}}`$ 是情感强度，$`T_{\text{社会温度}}`$ 是社会环境参数。
+其中 $\tau_{\text{解相干}}$ 是解相干时间，$E_{\text{情感强度}}$ 是情感强度，$T_{\text{社会温度}}$ 是社会环境参数。
 
 解相干率与环境复杂度相关：
 
@@ -141,13 +141,13 @@ $$\Gamma_{\text{解相干}} = \frac{1}{\tau_{\text{解相干}}} \propto C_{\text
 
 $$P(e_i|\psi_E) = |\langle e_i|\psi_E\rangle|^2 \cdot \mathcal{B}(e_i, \mathcal{O})$$
 
-其中 $`\mathcal{B}(e_i, \mathcal{O})`$ 是观察者 $`\mathcal{O}`$ 对情感状态 $`e_i`$ 的偏好函数。
+其中 $\mathcal{B}(e_i, \mathcal{O})$ 是观察者 $\mathcal{O}$ 对情感状态 $e_i$ 的偏好函数。
 
 测量后的情感状态为：
 
 $$|\psi_E'\rangle = \frac{\hat{P}_{e_i}|\psi_E\rangle}{\sqrt{\langle\psi_E|\hat{P}_{e_i}|\psi_E\rangle}}$$
 
-其中 $`\hat{P}_{e_i} = |e_i\rangle\langle e_i|`$ 是投影算符。
+其中 $\hat{P}_{e_i} = |e_i\rangle\langle e_i|$ 是投影算符。
 
 ## 情感与认知、决策的量子-经典关系
 
@@ -157,17 +157,17 @@ $$|\psi_E'\rangle = \frac{\hat{P}_{e_i}|\psi_E\rangle}{\sqrt{\langle\psi_E|\hat{
 
 $$\hat{U}_{EC} = e^{-i \hat{H}_{EC} t}$$
 
-其中 $`\hat{H}_{EC}`$ 是情感-认知交互哈密顿算符：
+其中 $\hat{H}_{EC}$ 是情感-认知交互哈密顿算符：
 
 $$\hat{H}_{EC} = \hat{H}_E \otimes \hat{I}_C + \hat{I}_E \otimes \hat{H}_C + \hat{V}_{EC}$$
 
-其中 $`\hat{V}_{EC}`$ 是情感-认知耦合项。
+其中 $\hat{V}_{EC}$ 是情感-认知耦合项。
 
 情感对认知的影响程度为：
 
 $$\Delta C = \alpha_C \cdot \frac{E_{\text{强度}}}{1 + \beta_C E_{\text{强度}}}$$
 
-其中 $`\alpha_C`$ 和 $`\beta_C`$ 是认知系统对情感的敏感度参数。
+其中 $\alpha_C$ 和 $\beta_C$ 是认知系统对情感的敏感度参数。
 
 ### 2. 情感决策理论
 
@@ -175,7 +175,7 @@ $$\Delta C = \alpha_C \cdot \frac{E_{\text{强度}}}{1 + \beta_C E_{\text{强度
 
 $$\alpha_i' = \alpha_i \cdot e^{\lambda_E V_E(o_i)}$$
 
-其中 $`\alpha_i`$ 是选项 $`o_i`$ 的原始量子概率幅，$`V_E(o_i)`$ 是该选项的情感价值函数，$`\lambda_E`$ 是情感影响权重。
+其中 $\alpha_i$ 是选项 $o_i$ 的原始量子概率幅，$V_E(o_i)$ 是该选项的情感价值函数，$\lambda_E$ 是情感影响权重。
 
 决策概率则变为：
 
@@ -187,13 +187,13 @@ $$P(o_i) = \frac{|\alpha_i'|^2}{\sum_j |\alpha_j'|^2}$$
 
 $$\hat{R} = \sum_i r_i \hat{R}_i$$
 
-其中 $`\hat{R}_i`$ 是基本调节策略算符（如重评价、抑制等），$`r_i`$ 是相应的调节强度系数。
+其中 $\hat{R}_i$ 是基本调节策略算符（如重评价、抑制等），$r_i$ 是相应的调节强度系数。
 
 调节效率与量子状态的纯度相关：
 
 $$\eta_{\text{调节}} = \eta_0 \cdot (1 - \text{Tr}(\rho_E^2))^{-1}$$
 
-其中 $`\rho_E`$ 是情感状态密度矩阵。
+其中 $\rho_E$ 是情感状态密度矩阵。
 
 ## 量子-经典情感的临床与应用意义
 
@@ -203,11 +203,11 @@ $$\eta_{\text{调节}} = \eta_0 \cdot (1 - \text{Tr}(\rho_E^2))^{-1}$$
 
 1. **抑郁症**：量子情感状态异常固定在负面情感空间
    $$\rho_{\text{抑郁}} = \sum_i p_i |e_i^{-}\rangle\langle e_i^{-}|, \quad \sum_i p_i = 1$$
-   其中 $`|e_i^{-}\rangle`$ 是负面情感基矢。
+   其中 $|e_i^{-}\rangle$ 是负面情感基矢。
 
 2. **双相情感障碍**：量子-经典转换不稳定，导致情感状态剧烈波动
    $$\frac{dE_C^{\text{双相}}}{dt} = \gamma_1 \mathcal{C}_E(|\psi_E\rangle) - \gamma_2 E_C + \gamma_3 f^*(E_C) + \xi^*(t)$$
-   其中 $`f^*`$ 和 $`\xi^*`$ 具有放大的非线性和噪声特性。
+   其中 $f^*$ 和 $\xi^*$ 具有放大的非线性和噪声特性。
 
 3. **焦虑障碍**：量子情感叠加态中不确定性异常增高
    $$S(\rho_{\text{焦虑}}) = -\text{Tr}(\rho_{\text{焦虑}} \ln \rho_{\text{焦虑}}) > S_{\text{阈值}}$$
@@ -229,7 +229,7 @@ $$\eta_{\text{调节}} = \eta_0 \cdot (1 - \text{Tr}(\rho_E^2))^{-1}$$
 
 $$\Delta C_E = C_E^{\text{治疗后}} - C_E^{\text{治疗前}}$$
 
-其中 $`C_E = S \cdot (1 - \text{Tr}(\rho_E^2))`$ 是情感复杂度指标。
+其中 $C_E = S \cdot (1 - \text{Tr}(\rho_E^2))$ 是情感复杂度指标。
 
 ### 3. 人工情感智能
 

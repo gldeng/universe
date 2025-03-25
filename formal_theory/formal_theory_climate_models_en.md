@@ -22,7 +22,7 @@ Climate models simultaneously possess quantum characteristics (multiple state su
 
 $$\mathcal{M} = \{\Phi_Q, \Phi_C, \mathcal{T}\}$$
 
-where $`\Phi_Q`$ represents the model's quantum state space (set of possibility states), $`\Phi_C`$ represents the model's classical state space (set of deterministic predictions), and $`\mathcal{T}`$ represents the quantum-classical transformation operator.
+where $\Phi_Q$ represents the model's quantum state space (set of possibility states), $\Phi_C$ represents the model's classical state space (set of deterministic predictions), and $\mathcal{T}$ represents the quantum-classical transformation operator.
 
 ### Climate System Uncertainty Principle
 
@@ -30,7 +30,7 @@ The state and evolution path of climate systems have intrinsic uncertainty, foll
 
 $$\Delta P \cdot \Delta T \geq \frac{h_{\text{climate}}}{2}$$
 
-where $`\Delta P`$ is the uncertainty in prediction accuracy, $`\Delta T`$ is the uncertainty in time scale, and $`h_{\text{climate}}`$ is the characteristic constant of the climate system.
+where $\Delta P$ is the uncertainty in prediction accuracy, $\Delta T$ is the uncertainty in time scale, and $h_{\text{climate}}$ is the characteristic constant of the climate system.
 
 ### Climate Information Preservation Principle
 
@@ -48,19 +48,19 @@ Quantum climate models deal with the possibility space of climate systems:
 
    $$|\Psi_{\text{climate}}\rangle = \sum_i c_i |\phi_i\rangle$$
 
-   where $`|\phi_i\rangle`$ are possible climate state basis vectors, and $`c_i`$ are the corresponding amplitudes.
+   where $|\phi_i\rangle$ are possible climate state basis vectors, and $c_i$ are the corresponding amplitudes.
 
 2. **Uncertainty Encoding**: Quantum climate models naturally encode prediction uncertainty:
 
    $$P(\phi_i) = |c_i|^2$$
 
-   representing the probability of the system being in a specific climate state $`\phi_i`$.
+   representing the probability of the system being in a specific climate state $\phi_i$.
 
 3. **Quantum Ensemble Forecasting**: Multi-scenario prediction through quantum state superposition:
 
    $$|\Psi_{\text{forecast}}\rangle = \hat{U}(t)|\Psi_{\text{initial}}\rangle$$
 
-   where $`\hat{U}(t)`$ is the climate system evolution operator.
+   where $\hat{U}(t)$ is the climate system evolution operator.
 
 ### Classical Climate Model Framework
 
@@ -70,19 +70,19 @@ Classical climate models deal with the deterministic evolution of climate system
 
    $$\frac{d\vec{X}}{dt} = \vec{F}(\vec{X}, t)$$
 
-   where $`\vec{X}`$ is the climate state vector, and $`\vec{F}`$ is the force function based on physical laws.
+   where $\vec{X}$ is the climate state vector, and $\vec{F}$ is the force function based on physical laws.
 
 2. **Parameterized Processes**: Simplifying complex processes to deterministic parameters:
 
    $$P_i = f_i(\vec{X}, \alpha_i)$$
 
-   where $`P_i`$ is a parameterized process (such as cloud formation), and $`\alpha_i`$ is a parameter set.
+   where $P_i$ is a parameterized process (such as cloud formation), and $\alpha_i$ is a parameter set.
 
 3. **Initial Condition Sensitivity**: Classical models are highly sensitive to initial conditions:
 
    $$||\delta\vec{X}(t)|| \approx ||\delta\vec{X}_0|| e^{\lambda t}$$
 
-   where $`\lambda`$ is the system's maximum Lyapunov exponent.
+   where $\lambda$ is the system's maximum Lyapunov exponent.
 
 ## Unification of Quantum-Classical Climate Models
 
@@ -106,7 +106,7 @@ Quantum climate models and classical climate models are converted through specif
 
    $$|\Psi(t+\Delta t)\rangle = \hat{U}_Q \circ \mathcal{Q} \circ \hat{U}_C \circ \mathcal{C} |\Psi(t)\rangle$$
 
-   where $`\hat{U}_Q`$ and $`\hat{U}_C`$ are quantum and classical evolution operators, respectively.
+   where $\hat{U}_Q$ and $\hat{U}_C$ are quantum and classical evolution operators, respectively.
 
 ### Scale Transformation and Emergent Properties
 
@@ -134,25 +134,25 @@ There are multiple sources of uncertainty in climate models:
 
    $$\Delta\vec{X}_0 \sim \mathcal{N}(0, \Sigma_0)$$
 
-   where $`\Sigma_0`$ is the initial state covariance matrix.
+   where $\Sigma_0$ is the initial state covariance matrix.
 
 2. **Model Structure Uncertainty**:
 
    $$\vec{F}_{\text{real}} = \vec{F}_{\text{model}} + \vec{\epsilon}_{\text{structure}}$$
 
-   where $`\vec{\epsilon}_{\text{structure}}`$ is the structural error vector.
+   where $\vec{\epsilon}_{\text{structure}}$ is the structural error vector.
 
 3. **Parameter Uncertainty**:
 
    $$\vec{\alpha} \sim p(\vec{\alpha})$$
 
-   where $`p(\vec{\alpha})`$ is the parameter prior distribution.
+   where $p(\vec{\alpha})$ is the parameter prior distribution.
 
 4. **Boundary Condition Uncertainty**:
 
    $$\partial\Omega \sim p(\partial\Omega)$$
 
-   where $`p(\partial\Omega)`$ is the boundary condition distribution.
+   where $p(\partial\Omega)$ is the boundary condition distribution.
 
 ### Complexity and Computability
 
@@ -162,7 +162,7 @@ The computational complexity of climate models directly affects their practicali
 
    $$C_{\text{total}} = C_Q + C_C \leq C_{\text{feasible}}$$
 
-   where $`C_Q`$ and $`C_C`$ are the complexities of quantum and classical computational parts, respectively.
+   where $C_Q$ and $C_C$ are the complexities of quantum and classical computational parts, respectively.
 
 2. **Accuracy-Cost Trade-off**:
 
@@ -174,7 +174,7 @@ The computational complexity of climate models directly affects their practicali
 
    $$S_{\text{quantum}} = \frac{T_{\text{classical}}}{T_{\text{quantum}}} \sim O\left(2^n\right)$$
 
-   where $`S_{\text{quantum}}`$ is the potential speedup of quantum computing, and $`n`$ is the effective dimension of the problem.
+   where $S_{\text{quantum}}$ is the potential speedup of quantum computing, and $n$ is the effective dimension of the problem.
 
 ## Practical Climate Model Implementation
 
@@ -192,7 +192,7 @@ In practical applications, hybrid methods can be adopted:
 
    $$P_i = (1-\gamma)f_{\text{classical}}(\vec{X}, \vec{\alpha}) + \gamma f_{\text{quantum}}(\vec{X}, \vec{\beta})$$
 
-   where $`\gamma`$ is the mixing coefficient, varying with scale and uncertainty.
+   where $\gamma$ is the mixing coefficient, varying with scale and uncertainty.
 
 3. **Adaptive Quantum-Classical Transformation**:
 
@@ -208,7 +208,7 @@ Hybrid climate models require special validation and calibration methods:
 
    $$\text{Overall Skill} = w_C \cdot \text{Classical Skill} + w_Q \cdot \text{Quantum Skill}$$
 
-   where $`w_C`$ and $`w_Q`$ are weight coefficients.
+   where $w_C$ and $w_Q$ are weight coefficients.
 
 2. **Phase Space Validation**: Evaluating model performance in possibility space:
 
@@ -220,7 +220,7 @@ Hybrid climate models require special validation and calibration methods:
 
    $$\vec{\alpha}^* = \arg\min_{\vec{\alpha}} L(p_{\text{observation}}, p_{\text{model}}(\vec{\alpha}))$$
 
-   where $`L`$ is an appropriate loss function.
+   where $L$ is an appropriate loss function.
 
 ## Climate Prediction and Decision Support
 

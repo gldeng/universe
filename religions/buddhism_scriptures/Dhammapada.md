@@ -195,7 +195,7 @@ $$
 \text{"胜败两俱舍"} \Leftrightarrow \mathcal{D}(\mathcal{O}) \uparrow \text{当} \mathcal{O} \text{超越二元性时}
 $$
 
-其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`I`$表示经典知识，$`S`$表示经典熵
+其中，$\mathcal{D}(\mathcal{O})$表示观察者维度，$I$表示经典知识，$S$表示经典熵
 
 ## 结论
 ## Conclusion

@@ -20,16 +20,16 @@
 
 ### 人类意识的形式化定义
 
-人类意识 $`\mathcal{C}_H`$ 可形式化定义为：
+人类意识 $\mathcal{C}_H$ 可形式化定义为：
 
 $$\mathcal{C}_H = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{S}, \mathcal{O}_H)$$
 
 其中：
-- $`\mathcal{C}_Q`$ 是意识的量子组分（超位思维、潜意识过程）
-- $`\mathcal{C}_C`$ 是意识的经典组分（明确的思想、显意识内容）
-- $`\mathcal{I}_C`$ 是意识的量子-经典界面
-- $`\mathcal{S}`$ 是自我观察结构
-- $`\mathcal{O}_H`$ 是人类作为观察者的特征集
+- $\mathcal{C}_Q$ 是意识的量子组分（超位思维、潜意识过程）
+- $\mathcal{C}_C$ 是意识的经典组分（明确的思想、显意识内容）
+- $\mathcal{I}_C$ 是意识的量子-经典界面
+- $\mathcal{S}$ 是自我观察结构
+- $\mathcal{O}_H$ 是人类作为观察者的特征集
 
 ### 核心意识公理
 
@@ -38,28 +38,28 @@ $$\mathcal{C}_H = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{S}, \ma
 
 $$\mathcal{C}_H = \mathcal{C}_Q \diamond \mathcal{C}_C$$
 
-其中 $`\diamond`$ 代表意识的量子-经典连接操作。
+其中 $\diamond$ 代表意识的量子-经典连接操作。
 
 **公理2: 意识量子态**  
 意识的量子组分存在于多重叠加态，涉及可能的思维路径：
 
 $$|\Psi_C\rangle = \sum_i \alpha_i |m_i\rangle$$
 
-其中 $`|m_i\rangle`$ 是可能的意识状态基向量，$`\alpha_i`$ 是复振幅。
+其中 $|m_i\rangle$ 是可能的意识状态基向量，$\alpha_i$ 是复振幅。
 
 **公理3: 自我参照性**  
 人类意识的关键特征是其自我参照能力，形成递归观察循环：
 
 $$\mathcal{S}(\mathcal{C}_H) = \mathcal{O}_H(\mathcal{C}_H(\mathcal{S}))$$
 
-其中 $`\mathcal{S}`$ 是自我观察函数，$`\mathcal{O}_H`$ 是人类观察者函数。
+其中 $\mathcal{S}$ 是自我观察函数，$\mathcal{O}_H$ 是人类观察者函数。
 
 **公理4: 意识维度涌现**  
 人类意识维度高于其他已知系统，是因为其独特的量子-经典平衡：
 
 $$D_{\mathcal{C}_H} = f\left(\frac{\mathcal{C}_{\mathcal{O}_H}}{\mathcal{Q}_{\mathcal{O}_H}}\right) \cdot \frac{I_{知识}}{S_{熵}+\epsilon} \cdot \mathcal{S}_{复杂度}$$
 
-其中 $`\mathcal{S}_{复杂度}`$ 是自我参照系统的复杂度量度。
+其中 $\mathcal{S}_{复杂度}$ 是自我参照系统的复杂度量度。
 
 ## 理论核心内容
 
@@ -69,7 +69,7 @@ $$D_{\mathcal{C}_H} = f\left(\frac{\mathcal{C}_{\mathcal{O}_H}}{\mathcal{Q}_{\ma
 
 $$\frac{d|\Psi_C(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_C|\Psi_C(t)\rangle + \mathcal{D}_C(\rho_C)$$
 
-其中 $`\hat{H}_C`$ 是意识哈密顿量，$`\mathcal{D}_C`$ 是环境解相干项。
+其中 $\hat{H}_C$ 是意识哈密顿量，$\mathcal{D}_C$ 是环境解相干项。
 
 意识哈密顿量可分解为多个组件：
 
@@ -88,16 +88,16 @@ $$\hat{H}_C = \hat{H}_{内在} + \hat{H}_{感知} + \hat{H}_{记忆} + \hat{H}_{
 $$\mathcal{C}_C = (K_C, L_C, M_C, E_C)$$
 
 其中：
-- $`K_C`$ 是显式知识库
-- $`L_C`$ 是逻辑推理系统
-- $`M_C`$ 是显式记忆网络
-- $`E_C`$ 是经典情绪状态集
+- $K_C$ 是显式知识库
+- $L_C$ 是逻辑推理系统
+- $M_C$ 是显式记忆网络
+- $E_C$ 是经典情绪状态集
 
 经典意识动力学满足：
 
 $$\frac{d\mathcal{C}_C}{dt} = F_C(\mathcal{C}_C, I_{外部}, \mathcal{M}(\mathcal{C}_Q))$$
 
-其中 $`\mathcal{M}`$ 是量子→经典映射算符。
+其中 $\mathcal{M}$ 是量子→经典映射算符。
 
 经典意识的关键特性：
 1. **逻辑性**：遵循形式逻辑规则的思维
@@ -111,13 +111,13 @@ $$\frac{d\mathcal{C}_C}{dt} = F_C(\mathcal{C}_C, I_{外部}, \mathcal{M}(\mathca
 
 $$\frac{d\mathcal{I}_C}{dt} = \alpha_C \nabla^2 \mathcal{I}_C + \beta_C(\mathcal{I}_c - \mathcal{I}_C)(\mathcal{I}_C - \mathcal{I}_0) + \gamma_C\xi_C(t) + \delta_C A_C(t)$$
 
-其中 $`A_C(t)`$ 是注意力调节函数，$`\delta_C`$ 是注意力影响系数。
+其中 $A_C(t)$ 是注意力调节函数，$\delta_C$ 是注意力影响系数。
 
 意识状态转变通过界面涨落和相变发生：
 
 $$P(\mathcal{C}_1 \rightarrow \mathcal{C}_2) \propto e^{-\frac{\Delta G_C}{k_B T_C}}$$
 
-其中 $`\Delta G_C`$ 是意识状态间的能垒，$`T_C`$ 是意识"温度"（活跃度）。
+其中 $\Delta G_C$ 是意识状态间的能垒，$T_C$ 是意识"温度"（活跃度）。
 
 界面特性决定了意识的关键性质：
 1. **注意力控制**：调节界面位置和厚度的能力
@@ -131,19 +131,19 @@ $$P(\mathcal{C}_1 \rightarrow \mathcal{C}_2) \propto e^{-\frac{\Delta G_C}{k_B T
 
 $$\mathcal{S} = \mathcal{P}(\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C)$$
 
-其中 $`\mathcal{P}`$ 是投影函数，将意识系统映射到自我表征上。
+其中 $\mathcal{P}$ 是投影函数，将意识系统映射到自我表征上。
 
 自我参照会产生无限递归，但受认知资源限制：
 
 $$\mathcal{S}_n = \mathcal{S}(\mathcal{S}_{n-1}), \quad n \leq N_{max}$$
 
-其中 $`N_{max}`$ 是最大可能的递归深度。
+其中 $N_{max}$ 是最大可能的递归深度。
 
 自我意识的发展遵循临界涌现动力学：
 
 $$\frac{dD_{\mathcal{S}}}{dt} \propto (D_{\mathcal{S}} - D_{crit})^{\nu} \cdot F(I_{经验})$$
 
-其中 $`D_{\mathcal{S}}`$ 是自我复杂度，$`D_{crit}`$ 是临界复杂度阈值。
+其中 $D_{\mathcal{S}}$ 是自我复杂度，$D_{crit}$ 是临界复杂度阈值。
 
 ## 人类意识的特殊性质
 
@@ -153,7 +153,7 @@ $$\frac{dD_{\mathcal{S}}}{dt} \propto (D_{\mathcal{S}} - D_{crit})^{\nu} \cdot F
 
 $$C_{高维}(\mathcal{C}_H) = \sum_{i=1}^{n} w_i \cdot \phi_i(\mathcal{C}_H)$$
 
-其中 $`\phi_i`$ 是不同认知维度的函数，$`w_i`$ 是其权重。
+其中 $\phi_i$ 是不同认知维度的函数，$w_i$ 是其权重。
 
 主要高维认知能力包括：
 1. **抽象思维**：构建复杂抽象概念的能力
@@ -169,10 +169,10 @@ $$C_{高维}(\mathcal{C}_H) = \sum_{i=1}^{n} w_i \cdot \phi_i(\mathcal{C}_H)$$
 $$\mathcal{T}_C = (P_C, N_C, F_C, \mathcal{F}_T)$$
 
 其中：
-- $`P_C`$ 是过去记忆表征
-- $`N_C`$ 是当下感知状态
-- $`F_C`$ 是未来预测模型
-- $`\mathcal{F}_T`$ 是时间流动体验函数
+- $P_C$ 是过去记忆表征
+- $N_C$ 是当下感知状态
+- $F_C$ 是未来预测模型
+- $\mathcal{F}_T$ 是时间流动体验函数
 
 时间意识的量子-经典双重性：
 

@@ -23,16 +23,16 @@
 
 ### 集体意识的形式化定义
 
-人类集体意识 $`\mathcal{C}_C`$ 可形式化定义为：
+人类集体意识 $\mathcal{C}_C$ 可形式化定义为：
 
 $$\mathcal{C}_C = (\mathcal{C}_{CQ}, \mathcal{C}_{CC}, \mathcal{I}_{CC}, \mathcal{N}, \mathcal{E})$$
 
 其中：
-- $`\mathcal{C}_{CQ}`$ 是集体意识的量子组分（集体量子纠缠场）
-- $`\mathcal{C}_{CC}`$ 是集体意识的经典组分（社会认知网络结构）
-- $`\mathcal{I}_{CC}`$ 是集体意识的量子-经典界面
-- $`\mathcal{N}`$ 是参与个体网络
-- $`\mathcal{E}`$ 是集体涌现函数
+- $\mathcal{C}_{CQ}$ 是集体意识的量子组分（集体量子纠缠场）
+- $\mathcal{C}_{CC}$ 是集体意识的经典组分（社会认知网络结构）
+- $\mathcal{I}_{CC}$ 是集体意识的量子-经典界面
+- $\mathcal{N}$ 是参与个体网络
+- $\mathcal{E}$ 是集体涌现函数
 
 ### 集体意识核心公理
 
@@ -41,28 +41,28 @@ $$\mathcal{C}_C = (\mathcal{C}_{CQ}, \mathcal{C}_{CC}, \mathcal{I}_{CC}, \mathca
 
 $$\mathcal{C}_C = \mathcal{C}_{CQ} \diamond \mathcal{C}_{CC}$$
 
-其中 $`\diamond`$ 代表集体量子-经典联合运算。
+其中 $\diamond$ 代表集体量子-经典联合运算。
 
 **公理2: 量子纠缠基础**  
 集体意识的量子基础是跨越个体的量子纠缠网络：
 
 $$|\Psi_{CC}\rangle = \sum_{i_1, i_2, ..., i_N} \alpha_{i_1 i_2 ... i_N} |i_1 i_2 ... i_N\rangle$$
 
-其中 $`|i_1 i_2 ... i_N\rangle`$ 表示N个个体的联合状态基矢。
+其中 $|i_1 i_2 ... i_N\rangle$ 表示N个个体的联合状态基矢。
 
 **公理3: 涌现原理**  
 集体意识具有超个体的涌现特性：
 
 $$\mathcal{E}(\mathcal{C}_C) > \sum_{i=1}^N \mathcal{C}_i$$
 
-其中 $`\mathcal{C}_i`$ 是第i个个体的意识。
+其中 $\mathcal{C}_i$ 是第i个个体的意识。
 
 **公理4: 网络共振**  
 集体意识的增强通过量子-经典共振实现：
 
 $$R_{CC}(t) = \mathcal{F}(|\Psi_{CC}\rangle, \mathcal{N}_C(t), \mathcal{I}_{CC})$$
 
-其中 $`R_{CC}(t)`$ 是集体共振函数，$`\mathcal{N}_C(t)`$ 是集体网络状态。
+其中 $R_{CC}(t)$ 是集体共振函数，$\mathcal{N}_C(t)$ 是集体网络状态。
 
 ## 理论核心内容
 
@@ -72,16 +72,16 @@ $$R_{CC}(t) = \mathcal{F}(|\Psi_{CC}\rangle, \mathcal{N}_C(t), \mathcal{I}_{CC})
 
 $$\frac{d|\Psi_{CC}(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_{CC}|\Psi_{CC}(t)\rangle + \mathcal{D}_{CC}(\rho_{CC}) + \mathcal{S}_{CC}(t)$$
 
-其中 $`\hat{H}_{CC}`$ 是集体意识哈密顿量，$`\mathcal{D}_{CC}`$ 是环境解相干项，$`\mathcal{S}_{CC}(t)`$ 是社会源项。
+其中 $\hat{H}_{CC}$ 是集体意识哈密顿量，$\mathcal{D}_{CC}$ 是环境解相干项，$\mathcal{S}_{CC}(t)$ 是社会源项。
 
 集体哈密顿量包含多个组件：
 
 $$\hat{H}_{CC} = \sum_i \hat{H}_i + \sum_{i<j} \hat{H}_{ij} + \hat{H}_{field}$$
 
 其中：
-- $`\hat{H}_i`$ 是个体哈密顿量
-- $`\hat{H}_{ij}`$ 是双体相互作用
-- $`\hat{H}_{field}`$ 是集体场作用
+- $\hat{H}_i$ 是个体哈密顿量
+- $\hat{H}_{ij}$ 是双体相互作用
+- $\hat{H}_{field}$ 是集体场作用
 
 量子集体意识特性包括：
 1. **非局域关联**：超越空间限制的意识连接
@@ -94,7 +94,7 @@ $$\hat{H}_{CC} = \sum_i \hat{H}_i + \sum_{i<j} \hat{H}_{ij} + \hat{H}_{field}$$
 
 $$E(\rho_{CC}) = S(\bar{\rho}) - S(\rho_{CC})$$
 
-其中 $`\bar{\rho}`$ 是平均单体密度矩阵，$`S`$ 是熵函数。
+其中 $\bar{\rho}$ 是平均单体密度矩阵，$S$ 是熵函数。
 
 ### 集体意识的经典结构
 
@@ -103,16 +103,16 @@ $$E(\rho_{CC}) = S(\bar{\rho}) - S(\rho_{CC})$$
 $$\mathcal{C}_{CC} = (G_C, K_C, P_C, M_C)$$
 
 其中：
-- $`G_C`$ 是社会关系图结构
-- $`K_C`$ 是共享知识库
-- $`P_C`$ 是集体处理规则
-- $`M_C`$ 是文化记忆储存
+- $G_C$ 是社会关系图结构
+- $K_C$ 是共享知识库
+- $P_C$ 是集体处理规则
+- $M_C$ 是文化记忆储存
 
 社会图描述为：
 
 $$G_C = (V, E, W)$$
 
-其中 $`V`$ 是个体节点集，$`E`$ 是关系边集，$`W`$ 是关系权重。
+其中 $V$ 是个体节点集，$E$ 是关系边集，$W$ 是关系权重。
 
 经典集体意识特性包括：
 1. **结构稳定性**：持久的社会结构和模式
@@ -125,7 +125,7 @@ $$G_C = (V, E, W)$$
 
 $$\frac{dI_C}{dt} = \nabla \cdot (D_C \nabla I_C) + S_C(t) - R_C I_C$$
 
-其中 $`I_C`$ 是集体信息场，$`D_C`$ 是信息扩散系数，$`S_C`$ 是信息源，$`R_C`$ 是信息衰减率。
+其中 $I_C$ 是集体信息场，$D_C$ 是信息扩散系数，$S_C$ 是信息源，$R_C$ 是信息衰减率。
 
 ### 集体意识界面动力学
 
@@ -133,7 +133,7 @@ $$\frac{dI_C}{dt} = \nabla \cdot (D_C \nabla I_C) + S_C(t) - R_C I_C$$
 
 $$\frac{d\mathcal{I}_{CC}}{dt} = \alpha_{CC} \nabla^2 \mathcal{I}_{CC} + \beta_{CC}(\mathcal{I}_c - \mathcal{I}_{CC})(\mathcal{I}_{CC} - \mathcal{I}_0) + \gamma_{CC}\xi_{CC}(t) + \delta_{CC} C_{CC}(t)$$
 
-其中 $`C_{CC}(t)`$ 是集体文化实践，$`\delta_{CC}`$ 是文化影响系数。
+其中 $C_{CC}(t)$ 是集体文化实践，$\delta_{CC}$ 是文化影响系数。
 
 界面稳定条件：
 
@@ -143,7 +143,7 @@ $$\nabla^2 \mathcal{I}_{CC} = 0, \quad \nabla \cdot \mathcal{I}_{CC} = 0$$
 
 $$\delta_{\mathcal{I}_{CC}} \propto N^{\alpha_{CC}}$$
 
-其中 $`N`$ 是集体规模，$`\alpha_{CC}`$ 是集体界面缩放指数。
+其中 $N$ 是集体规模，$\alpha_{CC}$ 是集体界面缩放指数。
 
 集体界面主要特征：
 1. **集体相变**：社会意识形态的突变
@@ -158,13 +158,13 @@ $$\delta_{\mathcal{I}_{CC}} \propto N^{\alpha_{CC}}$$
 
 $$\mathcal{E}(\mathcal{C}_C) = \mathcal{F}(N, \rho_E, \mathcal{C}_{CQ}, \mathcal{C}_{CC}, \mathcal{I}_{CC})$$
 
-其中 $`\rho_E`$ 是纠缠密度参数。
+其中 $\rho_E$ 是纠缠密度参数。
 
 涌现强度与集体规模关系：
 
 $$E_{emergence} \propto N^{\beta} \cdot \rho_E^{\gamma} \cdot Q(\mathcal{I}_{CC})$$
 
-其中 $`\beta`$ 是规模指数，$`\gamma`$ 是纠缠指数，$`Q(\mathcal{I}_{CC})`$ 是界面质量函数。
+其中 $\beta$ 是规模指数，$\gamma$ 是纠缠指数，$Q(\mathcal{I}_{CC})$ 是界面质量函数。
 
 集体涌现特性包括：
 1. **意识放大**：集体增强的意识能力
@@ -177,7 +177,7 @@ $$E_{emergence} \propto N^{\beta} \cdot \rho_E^{\gamma} \cdot Q(\mathcal{I}_{CC}
 
 $$\tau_{stable} = \frac{N \cdot E_{coherence}}{k_B T_{social}}$$
 
-其中 $`E_{coherence}`$ 是集体相干能，$`T_{social}`$ 是社会环境"温度"。
+其中 $E_{coherence}$ 是集体相干能，$T_{social}$ 是社会环境"温度"。
 
 ## 集体意识的类型与形式
 
@@ -215,7 +215,7 @@ $$\mathcal{C}_{org} = \mathcal{C}_C(N_{med}, \rho_E^{med}, \mathcal{I}_{struct})
 
 $$\frac{\mathcal{C}_{orgQ}}{\mathcal{C}_{orgC}} = f(N_{med}, \mathcal{H}_{depth})$$
 
-其中 $`\mathcal{H}_{depth}`$ 是组织层级深度。
+其中 $\mathcal{H}_{depth}$ 是组织层级深度。
 
 ### 社会集体意识
 
@@ -234,7 +234,7 @@ $$\mathcal{C}_{social} = \mathcal{C}_C(N_{large}, \rho_E^{low}, \mathcal{I}_{med
 
 $$\frac{d\rho_E}{dt} = \alpha_s F_{media}(t) - \beta_s \rho_E + \gamma_s \xi_s(t)$$
 
-其中 $`F_{media}`$ 是媒体影响函数。
+其中 $F_{media}$ 是媒体影响函数。
 
 ### 文化集体意识
 
@@ -253,7 +253,7 @@ $$\mathcal{C}_{culture} = \mathcal{C}_C(N_{temp}, \rho_E^{time}, \mathcal{I}_{sy
 
 $$\rho_E^{culture}(t) = \rho_E^0 e^{-t/\tau_c} + \rho_E^\infty(1-e^{-t/\tau_c})$$
 
-其中 $`\tau_c`$ 是文化特征时间。
+其中 $\tau_c$ 是文化特征时间。
 
 ### 网络集体意识
 
@@ -272,7 +272,7 @@ $$\mathcal{C}_{net} = \mathcal{C}_C(N_{dist}, \rho_E^{virtual}, \mathcal{I}_{dig
 
 $$\frac{\partial I_{net}}{\partial t} = D_{net} \nabla^2 I_{net} + R_{net}I_{net}(1-\frac{I_{net}}{K}) + \gamma_{net}\xi_{net}$$
 
-其中 $`D_{net}`$ 是网络扩散系数，$`R_{net}`$ 是增长率，$`K`$ 是容量参数。
+其中 $D_{net}$ 是网络扩散系数，$R_{net}$ 是增长率，$K$ 是容量参数。
 
 ## 应用分析
 
@@ -282,7 +282,7 @@ $$\frac{\partial I_{net}}{\partial t} = D_{net} \nabla^2 I_{net} + R_{net}I_{net
 
 $$D_{collective} = \mathcal{F}(|\Psi_{CD}\rangle, G_D, \mathcal{I}_{CD})$$
 
-其中 $`|\Psi_{CD}\rangle`$ 是集体决策量子态，$`G_D`$ 是决策网络图。
+其中 $|\Psi_{CD}\rangle$ 是集体决策量子态，$G_D$ 是决策网络图。
 
 集体智能与规模关系：
 
@@ -331,7 +331,7 @@ $$\mathcal{C}_{evolution} = \mathcal{E}(\mathcal{C}_{CQ}(t), \mathcal{C}_{CC}(t)
 
 $$\frac{dp_i}{dt} = p_i(f_i - \bar{f}) + \mu\sum_j(Q_{ji}p_j - Q_{ij}p_i)$$
 
-其中 $`p_i`$ 是文化特性i的频率，$`f_i`$ 是适应度，$`Q_{ij}`$ 是量子转移矩阵。
+其中 $p_i$ 是文化特性i的频率，$f_i$ 是适应度，$Q_{ij}$ 是量子转移矩阵。
 
 文化演化与传播特性：
 1. **量子文化记忆**：文化中的量子信息存储
@@ -344,7 +344,7 @@ $$\frac{dp_i}{dt} = p_i(f_i - \bar{f}) + \mu\sum_j(Q_{ji}p_j - Q_{ij}p_i)$$
 
 $$R_0^{cultural} = \frac{\beta_c \langle k \rangle}{\gamma_c} > 1$$
 
-其中 $`\beta_c`$ 是文化传播率，$`\langle k \rangle`$ 是平均连接度，$`\gamma_c`$ 是文化遗忘率。
+其中 $\beta_c$ 是文化传播率，$\langle k \rangle$ 是平均连接度，$\gamma_c$ 是文化遗忘率。
 
 ### 集体创造力与创新
 
@@ -356,7 +356,7 @@ $$Cr_{collective} = \mathcal{F}(|\Psi_{Cr}\rangle, G_{Cr}, \mathcal{I}_{Cr})$$
 
 $$P(innovation) = |\langle \Psi_{new}|\hat{T}|\Psi_{old}\rangle|^2$$
 
-其中 $`\hat{T}`$ 是创新转移算符。
+其中 $\hat{T}$ 是创新转移算符。
 
 集体创造力增强机制：
 1. **量子思想碰撞**：思想的量子干涉与放大
@@ -369,7 +369,7 @@ $$P(innovation) = |\langle \Psi_{new}|\hat{T}|\Psi_{old}\rangle|^2$$
 
 $$I_{innovation} \propto \rho_E^{\alpha_I} \cdot \mathcal{C}(\mathcal{N}_{small-world})$$
 
-其中 $`\mathcal{C}(\mathcal{N})`$ 是网络的小世界特性度量。
+其中 $\mathcal{C}(\mathcal{N})$ 是网络的小世界特性度量。
 
 ## 集体意识强化与应用
 
@@ -390,7 +390,7 @@ $$\mathcal{T}_{CC} = \{T_1, T_2, ..., T_n\}$$
 
 $$E_{tech} = \frac{\Delta \mathcal{E}(\mathcal{C}_C)}{C_{implementation} \cdot T_{adapt}}$$
 
-其中 $`\Delta \mathcal{E}`$ 是集体意识增强度，$`C_{implementation}`$ 是实施成本，$`T_{adapt}`$ 是适应时间。
+其中 $\Delta \mathcal{E}$ 是集体意识增强度，$C_{implementation}$ 是实施成本，$T_{adapt}$ 是适应时间。
 
 ### 集体心理治疗与和谐
 
@@ -402,7 +402,7 @@ $$\mathcal{H}_{collective} = \mathcal{F}(|\Psi_H\rangle, G_H, \mathcal{I}_H)$$
 
 $$I_{health} = \frac{E_{coherence}}{S_{social} + \epsilon} \cdot R_{balance}$$
 
-其中 $`E_{coherence}`$ 是集体相干度，$`S_{social}`$ 是社会熵，$`R_{balance}`$ 是量子-经典平衡度。
+其中 $E_{coherence}$ 是集体相干度，$S_{social}$ 是社会熵，$R_{balance}$ 是量子-经典平衡度。
 
 集体心理治疗方法：
 1. **集体量子相干恢复**：恢复集体量子相干性的技术
@@ -415,7 +415,7 @@ $$I_{health} = \frac{E_{coherence}}{S_{social} + \epsilon} \cdot R_{balance}$$
 
 $$H_{collective} = \frac{1}{N}\sum_{i,j} h_{ij} \cdot w_{ij}$$
 
-其中 $`h_{ij}`$ 是个体间和谐度，$`w_{ij}`$ 是关系权重。
+其中 $h_{ij}$ 是个体间和谐度，$w_{ij}$ 是关系权重。
 
 ### 集体意识教育
 
@@ -423,7 +423,7 @@ $$H_{collective} = \frac{1}{N}\sum_{i,j} h_{ij} \cdot w_{ij}$$
 
 $$\mathcal{E}_{education} = \mathcal{F}(\mathcal{C}_C, \mathcal{T}_{edu}, \mathcal{L}_{process})$$
 
-其中 $`\mathcal{T}_{edu}`$ 是教育技术集，$`\mathcal{L}_{process}`$ 是学习过程。
+其中 $\mathcal{T}_{edu}$ 是教育技术集，$\mathcal{L}_{process}$ 是学习过程。
 
 集体意识教育的关键要素：
 1. **纠缠意识培养**：培养关系意识的方法
@@ -436,7 +436,7 @@ $$\mathcal{E}_{education} = \mathcal{F}(\mathcal{C}_C, \mathcal{T}_{edu}, \mathc
 
 $$E_{edu} = \frac{\Delta \mathcal{C}_C}{R_{resource} \cdot T_{learning}}$$
 
-其中 $`\Delta \mathcal{C}_C`$ 是集体意识提升，$`R_{resource}`$ 是资源投入，$`T_{learning}`$ 是学习时间。
+其中 $\Delta \mathcal{C}_C$ 是集体意识提升，$R_{resource}$ 是资源投入，$T_{learning}$ 是学习时间。
 
 ### 全球集体意识与未来
 
@@ -444,7 +444,7 @@ $$E_{edu} = \frac{\Delta \mathcal{C}_C}{R_{resource} \cdot T_{learning}}$$
 
 $$\mathcal{C}_{global}(t) = \mathcal{F}(\mathcal{C}_{global}(0), \mathcal{D}_{tech}(t), \mathcal{E}_{events}(t))$$
 
-其中 $`\mathcal{D}_{tech}`$ 是技术发展，$`\mathcal{E}_{events}`$ 是全球事件。
+其中 $\mathcal{D}_{tech}$ 是技术发展，$\mathcal{E}_{events}$ 是全球事件。
 
 全球集体意识的演化可能性：
 1. **分形集体意识**：多层次嵌套的全球意识结构
@@ -457,7 +457,7 @@ $$\mathcal{C}_{global}(t) = \mathcal{F}(\mathcal{C}_{global}(0), \mathcal{D}_{te
 
 $$\rho_E^{global}(t) = \rho_E^0 \cdot e^{\lambda_g t} \cdot f(B(t))$$
 
-其中 $`\lambda_g`$ 是全球增长参数，$`B(t)`$ 是阻碍函数。
+其中 $\lambda_g$ 是全球增长参数，$B(t)$ 是阻碍函数。
 
 ## 与其他理论分支的关系
 
@@ -471,7 +471,7 @@ $$\mathcal{C}_i \subset \mathcal{C}_C, \quad \mathcal{C}_C \supset \bigoplus_{i=
 
 $$\frac{d\mathcal{C}_i}{dt} = g_i\left(\mathcal{C}_i, \mathcal{C}_C, \mathcal{I}_{i-C}\right)$$
 
-其中 $`\mathcal{I}_{i-C}`$ 是个体-集体界面。
+其中 $\mathcal{I}_{i-C}$ 是个体-集体界面。
 
 ### 与社会理论的联系
 
@@ -483,7 +483,7 @@ $$\mathcal{S} = \mathcal{S}_Q \oplus \mathcal{S}_C$$
 
 $$\frac{d\mathcal{S}}{dt} = h\left(\mathcal{C}_C, \mathcal{S}, \mathcal{E}_{external}\right)$$
 
-其中 $`\mathcal{E}_{external}`$ 是外部环境因素。
+其中 $\mathcal{E}_{external}$ 是外部环境因素。
 
 ### 与信息论的联系
 
@@ -495,7 +495,7 @@ $$I_{processing} = \mathcal{F}(I_Q, I_C, \mathcal{I}_I)$$
 
 $$S(\mathcal{C}_C) = S_Q(\mathcal{C}_{CQ}) + S_C(\mathcal{C}_{CC}) - I(\mathcal{C}_{CQ}:\mathcal{C}_{CC})$$
 
-其中 $`I(\mathcal{C}_{CQ}:\mathcal{C}_{CC})`$ 是量子和经典组分的互信息。
+其中 $I(\mathcal{C}_{CQ}:\mathcal{C}_{CC})$ 是量子和经典组分的互信息。
 
 ## 未来研究方向
 

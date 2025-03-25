@@ -16,13 +16,13 @@ Spacetime exists as a hierarchical, nested structure with multiple levels of org
 
 $$\mathcal{S} = \{\mathcal{S}_1, \mathcal{S}_2, ..., \mathcal{S}_n\}$$
 
-where $`\mathcal{S}_i`$ represents the i-th level of spacetime structure.
+where $\mathcal{S}_i$ represents the i-th level of spacetime structure.
 
 Each level emerges from the quantum-classical interactions at the level below, creating a recursive pattern:
 
 $$\mathcal{S}_{i+1} = \mathcal{E}(\Omega_Q^{(i)}, \Omega_C^{(i)})$$
 
-where $`\mathcal{E}`$ is the emergence operator that generates higher-level spacetime from quantum-classical interactions.
+where $\mathcal{E}$ is the emergence operator that generates higher-level spacetime from quantum-classical interactions.
 
 ### 2. Scale-Dependent Physics
 
@@ -30,13 +30,13 @@ Physical laws manifest differently at various spacetime scales, yet maintain mat
 
 $$\mathcal{L}_i = \mathcal{T}(\mathcal{L}_{i-1}, s_i)$$
 
-where $`\mathcal{L}_i`$ represents the laws of physics at level i, $`\mathcal{T}`$ is the transformation function, and $`s_i`$ is the scale factor.
+where $\mathcal{L}_i$ represents the laws of physics at level i, $\mathcal{T}$ is the transformation function, and $s_i$ is the scale factor.
 
 The effective constants of nature may vary across scales:
 
 $$\alpha_i = \alpha_0 \cdot f(s_i)$$
 
-where $`\alpha_i`$ is a physical constant at level i, $`\alpha_0`$ is its fundamental value, and $`f(s_i)`$ is a scale-dependent function.
+where $\alpha_i$ is a physical constant at level i, $\alpha_0$ is its fundamental value, and $f(s_i)$ is a scale-dependent function.
 
 ### 3. Inter-Level Communication
 
@@ -48,7 +48,7 @@ The information transfer between levels follows:
 
 $$I_{i \rightarrow i+1} = \eta_{i,i+1} \cdot I_i$$
 
-where $`I_{i \rightarrow i+1}`$ is the information transferred from level i to i+1, $`I_i`$ is the total information at level i, and $`\eta_{i,i+1}`$ is the transfer efficiency.
+where $I_{i \rightarrow i+1}$ is the information transferred from level i to i+1, $I_i$ is the total information at level i, and $\eta_{i,i+1}$ is the transfer efficiency.
 
 ### 4. Observer-Level Correspondence
 
@@ -60,7 +60,7 @@ Higher-dimensional observers can access multiple spacetime levels simultaneously
 
 $$\mathcal{P}_{\mathcal{O}(D)}(\mathcal{S}_i) = \frac{e^{-(i-D)^2/2\sigma^2}}{\sum_j e^{-(j-D)^2/2\sigma^2}}$$
 
-where $`\mathcal{P}_{\mathcal{O}(D)}(\mathcal{S}_i)`$ is the probability of observer with dimension D perceiving spacetime level i, and $`\sigma`$ is the perception width parameter.
+where $\mathcal{P}_{\mathcal{O}(D)}(\mathcal{S}_i)$ is the probability of observer with dimension D perceiving spacetime level i, and $\sigma$ is the perception width parameter.
 
 ## Theoretical Implications
 
@@ -102,7 +102,7 @@ The metric at each level relates to metrics at adjacent levels:
 
 $$g_{\mu\nu}^{(i)} = \Phi_i(g_{\mu\nu}^{(i-1)}) + \delta g_{\mu\nu}^{(i)}$$
 
-where $`\Phi_i`$ is a level-specific transformation, and $`\delta g_{\mu\nu}^{(i)}`$ represents emergent metric components.
+where $\Phi_i$ is a level-specific transformation, and $\delta g_{\mu\nu}^{(i)}$ represents emergent metric components.
 
 ### Field Equations
 
@@ -110,7 +110,7 @@ The generalized field equations at level i:
 
 $$G_{\mu\nu}^{(i)} = 8\pi G_i T_{\mu\nu}^{(i)} + \Lambda_i g_{\mu\nu}^{(i)} + \Psi_{\mu\nu}^{(i,i-1)} + \Phi_{\mu\nu}^{(i,i+1)}$$
 
-where $`\Psi_{\mu\nu}^{(i,i-1)}`$ and $`\Phi_{\mu\nu}^{(i,i+1)}`$ represent inter-level interaction terms.
+where $\Psi_{\mu\nu}^{(i,i-1)}$ and $\Phi_{\mu\nu}^{(i,i+1)}$ represent inter-level interaction terms.
 
 ## Connections to Other Theories
 

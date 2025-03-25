@@ -61,7 +61,7 @@ $$I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_
 
 $$\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}$$
 
-- **四年寿命限制**：复制人的经典化效率系数$`(k_i)`$受到人为限制（经典化）
+- **四年寿命限制**：复制人的经典化效率系数$(k_i)$受到人为限制（经典化）
 - **罗伊的觉醒**：通过积累经典知识，提升了自身维度，产生对寿命的渴望（量子域）
 - **"我见过你们人类无法相信的事物"**：罗伊临终独白展现了其经典化能力的提升（无限可能）
 
@@ -132,7 +132,7 @@ The lifespan limitation of replicants compared to humans demonstrates the concep
 
 $$\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}$$
 
-- **Four-year Lifespan Limitation**: The classicalization efficiency coefficient $`(k_i)`$ of replicants is artificially limited (classicalization)
+- **Four-year Lifespan Limitation**: The classicalization efficiency coefficient $(k_i)$ of replicants is artificially limited (classicalization)
 - **Roy's Awakening**: By accumulating classical knowledge, he elevates his dimension, developing a desire for extended life (quantum domain)
 - **"I've seen things you people wouldn't believe"**: Roy's dying monologue demonstrates his enhanced classicalization capacity (infinite possibilities)
 

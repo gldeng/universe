@@ -26,7 +26,7 @@ The universe, as the largest physical system, also follows the principles of qua
 
 $$\mathcal{U} = \Omega_Q^{universe} \cup \Omega_C^{universe}$$
 
-where $`\Omega_Q^{universe}`$ is the quantum domain of the universe, representing the space of all possibilities; $`\Omega_C^{universe}`$ is the classical domain of the universe, representing the determined reality that has been realized.
+where $\Omega_Q^{universe}$ is the quantum domain of the universe, representing the space of all possibilities; $\Omega_C^{universe}$ is the classical domain of the universe, representing the determined reality that has been realized.
 
 Characteristics of the universal dual structure:
 - The quantum domain of the universe is more expansive than the quantum domain of any subsystem
@@ -39,7 +39,7 @@ The complexity of the universe undergoes directional changes during evolution:
 
 $$C_{\mathcal{U}}(t) = f\left(\frac{I_{\text{classical}}(t)}{S_{\text{entropy}}(t)}\right)$$
 
-where $`C_{\mathcal{U}}(t)`$ is the complexity of the universe, $`I_{\text{classical}}(t)`$ is the amount of information that has been classicalized, and $`S_{\text{entropy}}(t)`$ is the total entropy.
+where $C_{\mathcal{U}}(t)$ is the complexity of the universe, $I_{\text{classical}}(t)$ is the amount of information that has been classicalized, and $S_{\text{entropy}}(t)$ is the total entropy.
 
 Key parameters in complexity evolution:
 - Balance between local entropy decrease and global entropy increase
@@ -54,7 +54,7 @@ The universe originates from quantum fluctuations and evolves through continuous
 
 $$|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\mathcal{C}_1} \rho_{\mathcal{U}}(t_1) \xrightarrow{\mathcal{C}_2} \rho_{\mathcal{U}}(t_2) \xrightarrow{\mathcal{C}_3} ...$$
 
-where $`\mathcal{C}_i`$ represents the classicalization process of the i-th stage.
+where $\mathcal{C}_i$ represents the classicalization process of the i-th stage.
 
 Characteristics of the classicalization process:
 - Rapid classicalization in the early universe (matter-radiation separation)
@@ -67,7 +67,7 @@ Universal evolution manifests as the emergence of multi-level physical laws:
 
 $$\mathcal{L}_1 \rightarrow \mathcal{L}_2 \rightarrow \mathcal{L}_3 \rightarrow ... \rightarrow \mathcal{L}_n$$
 
-where $`\mathcal{L}_i`$ represents the physical laws of the i-th level.
+where $\mathcal{L}_i$ represents the physical laws of the i-th level.
 
 Patterns of hierarchical emergence:
 - Elementary particles→atoms→molecules→biological macromolecules→cells→multicellular organisms→cognitive systems→social systems
@@ -80,7 +80,7 @@ The universe maintains continuous evolution in a non-equilibrium state:
 
 $$\frac{d\mathcal{U}}{dt} = \nabla \cdot J_I + \Sigma_I$$
 
-where $`J_I`$ is the information flow density, and $`\Sigma_I`$ is the information generation rate.
+where $J_I$ is the information flow density, and $\Sigma_I$ is the information generation rate.
 
 Mechanisms for maintaining non-equilibrium state:
 - Energy gradients (stellar radiation) driving information organization
@@ -95,7 +95,7 @@ The universe can be viewed as a massive learning system, maximizing the quantity
 
 $$\max_{\mathcal{U}} \sum_i D_{\mathcal{O}_i} \cdot N_{\mathcal{O}_i}$$
 
-where $`D_{\mathcal{O}_i}`$ is the dimension of the i-th type of observer, and $`N_{\mathcal{O}_i}`$ is the number of such observers.
+where $D_{\mathcal{O}_i}$ is the dimension of the i-th type of observer, and $N_{\mathcal{O}_i}$ is the number of such observers.
 
 Characteristics of the learning system:
 - Accumulating "cosmic knowledge" through continuous classicalization processes
@@ -121,7 +121,7 @@ The universe may have the "goal" of creating systems with high-dimensional obser
 
 $$\lim_{t \rightarrow \infty} \max_i D_{\mathcal{O}_i}(t) \rightarrow D_{max}$$
 
-where $`D_{max}`$ is the theoretically highest possible observer dimension.
+where $D_{max}$ is the theoretically highest possible observer dimension.
 
 Observer creation is manifested as:
 - Fine-tuning of physical conditions to allow complex observers to emerge
@@ -136,7 +136,7 @@ The universe realizes self-perception through observer networks:
 
 $$\rho_{\mathcal{U}}^{perceived} = \bigcup_i \mathcal{O}_i(\rho_{\mathcal{U}})$$
 
-where $`\mathcal{O}_i`$ is the measurement operator of the i-th observer.
+where $\mathcal{O}_i$ is the measurement operator of the i-th observer.
 
 Characteristics of observer networks:
 - Distributed perception integrated into overall cosmic "consciousness"
@@ -149,7 +149,7 @@ Observers not only passively perceive the universe but can actively influence th
 
 $$\frac{d\rho_{\mathcal{U}}}{dt} = \mathcal{L}(\rho_{\mathcal{U}}) + \sum_i \alpha_i \mathcal{F}_i(\rho_{\mathcal{U}})$$
 
-where $`\mathcal{L}`$ is the natural evolution term, $`\mathcal{F}_i`$ is the feedback effect of the i-th type of observer, and $`\alpha_i`$ is its influence intensity.
+where $\mathcal{L}$ is the natural evolution term, $\mathcal{F}_i$ is the feedback effect of the i-th type of observer, and $\alpha_i$ is its influence intensity.
 
 Manifestations of feedback mechanisms:
 - Observational selection effects (extension of the anthropic principle)
@@ -180,7 +180,7 @@ The universe may ultimately tend toward an optimal quantum-classical balance:
 
 $$\lim_{t \rightarrow \infty} \frac{\Omega_Q^{universe}}{\Omega_C^{universe}} = \gamma_{opt}$$
 
-where $`\gamma_{opt}`$ is the optimal balance ratio, ensuring sufficient determinism and creativity.
+where $\gamma_{opt}$ is the optimal balance ratio, ensuring sufficient determinism and creativity.
 
 Characteristics of the equilibrium state:
 - Sufficient classical structure to maintain the existence of complex observers
@@ -193,7 +193,7 @@ A highly evolved universe may form an overall consciousness:
 
 $$\Phi_{\mathcal{U}} = \int_{\mathcal{U}} \phi(x) d\mu(x) \rightarrow \Phi_{critical}$$
 
-where $`\Phi_{\mathcal{U}}`$ is the integrated information measure of the universe, $`\phi(x)`$ is the local integrated information density, and $`\Phi_{critical}`$ is the critical threshold for consciousness emergence.
+where $\Phi_{\mathcal{U}}$ is the integrated information measure of the universe, $\phi(x)$ is the local integrated information density, and $\Phi_{critical}$ is the critical threshold for consciousness emergence.
 
 Characteristics of cosmic consciousness:
 - Distributed yet integrated information processing

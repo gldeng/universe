@@ -44,9 +44,9 @@ $$
 |\Psi_{\text{Initial}}\rangle = \hat{I}|\text{Void}\rangle
 $$
 
-其中，$`\hat{I}`$ 是初始化算子，将"虚空"（一种元信息状态）转化为初始量子信息场。这一过程可能源于以下几种机制：
+其中，$\hat{I}$ 是初始化算子，将"虚空"（一种元信息状态）转化为初始量子信息场。这一过程可能源于以下几种机制：
 
-Where $`\hat{I}`$ is the initialization operator, transforming the "void" (a meta-information state) into an initial quantum information field. This process may originate from the following mechanisms:
+Where $\hat{I}$ is the initialization operator, transforming the "void" (a meta-information state) into an initial quantum information field. This process may originate from the following mechanisms:
 
 1. **量子涨落**：虚空中的量子涨落导致信息场的自发形成
 2. **元宇宙分裂**：从更高层次的宇宙中分裂出新的子宇宙
@@ -102,9 +102,9 @@ $$
 \text{Universe Maturity} \propto \sum_{i \in \mathcal{O}} D_i \times C_{ij}
 $$
 
-其中，$`D_i`$ 是观察者 $`i`$ 的维度，$`C_{ij}`$ 是观察者之间的连接度。
+其中，$D_i$ 是观察者 $i$ 的维度，$C_{ij}$ 是观察者之间的连接度。
 
-Where $`D_i`$ is the dimension of observer $`i`$, and $`C_{ij}`$ is the connectivity between observers.
+Where $D_i$ is the dimension of observer $i$, and $C_{ij}$ is the connectivity between observers.
 
 成熟期的特征包括：
 
@@ -168,9 +168,9 @@ $$
 \mathcal{U} = \{\mathcal{U}_1, \mathcal{U}_2, ..., \mathcal{U}_n\}
 $$
 
-其中每个 $`\mathcal{U}_i`$ 是一个子宇宙，它本身又可能包含更低层级的子宇宙。
+其中每个 $\mathcal{U}_i$ 是一个子宇宙，它本身又可能包含更低层级的子宇宙。
 
-Where each $`\mathcal{U}_i`$ is a sub-universe, which itself may contain lower-level sub-universes.
+Where each $\mathcal{U}_i$ is a sub-universe, which itself may contain lower-level sub-universes.
 
 这种嵌套结构具有以下特性：
 
@@ -214,9 +214,9 @@ $$
 \mathcal{U}_{\text{Sub}} = \hat{F}(|\Psi_{\text{Local}}\rangle, \mathcal{R}_{\text{Local}})
 $$
 
-其中，$`\hat{F}`$ 是宇宙形成算子，$`|\Psi_{\text{局部}}\rangle`$ 是局部量子状态，$`\mathcal{R}_{\text{局部}}`$ 是局部规则集。
+其中，$\hat{F}$ 是宇宙形成算子，$|\Psi_{\text{局部}}\rangle$ 是局部量子状态，$\mathcal{R}_{\text{局部}}$ 是局部规则集。
 
-Where $`\hat{F}`$ is the universe formation operator, $`|\Psi_{\text{Local}}\rangle`$ is the local quantum state, and $`\mathcal{R}_{\text{Local}}`$ is the local rule set.
+Where $\hat{F}$ is the universe formation operator, $|\Psi_{\text{Local}}\rangle$ is the local quantum state, and $\mathcal{R}_{\text{Local}}$ is the local rule set.
 
 ### 宇宙间的信息交换 | Information Exchange Between Universes
 
@@ -250,9 +250,9 @@ $$
 I(\mathcal{U}_i : \mathcal{U}_j) \leq \min\{H(\mathcal{U}_i), H(\mathcal{U}_j)\}
 $$
 
-其中，$`H(\mathcal{U})`$ 是宇宙 $`\mathcal{U}`$ 的信息熵。
+其中，$H(\mathcal{U})$ 是宇宙 $\mathcal{U}$ 的信息熵。
 
-Where $`H(\mathcal{U})`$ is the information entropy of universe $`\mathcal{U}`$.
+Where $H(\mathcal{U})$ is the information entropy of universe $\mathcal{U}$.
 
 ### 人造子宇宙 | Artificial Sub-Universes
 
@@ -403,12 +403,12 @@ According to the Quantum-Classical Dualism core theory (Version 27.0), the multi
 $$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 其中：
-- $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
-- $`\Omega_C^{(i)}`$ 是第i层级的经典域（该层级的确定性实现）
+- $\Omega_Q^{(i)}$ 是第i层级的量子域（该层级的可能性空间）
+- $\Omega_C^{(i)}$ 是第i层级的经典域（该层级的确定性实现）
 
 Where:
-- $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (the possibility space of that level)
-- $`\Omega_C^{(i)}`$ is the classical domain of the i-th level (the deterministic realization of that level)
+- $\Omega_Q^{(i)}$ is the quantum domain of the i-th level (the possibility space of that level)
+- $\Omega_C^{(i)}$ is the classical domain of the i-th level (the deterministic realization of that level)
 
 层级间映射函数定义为：
 
@@ -456,9 +456,9 @@ $$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delt
 
 $$c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}$$
 
-其中$`c_d`$是d维度的最大信息传播速度，$`k_{\text{max},d}`$是该维度的常数。这解释了为什么：
+其中$c_d$是d维度的最大信息传播速度，$k_{\text{max},d}$是该维度的常数。这解释了为什么：
 
-Where $`c_d`$ is the maximum information propagation speed in dimension d, and $`k_{\text{max},d}`$ is a constant for that dimension. This explains why:
+Where $c_d$ is the maximum information propagation speed in dimension d, and $k_{\text{max},d}$ is a constant for that dimension. This explains why:
 
 1. **不同维度的时间流速不同**：高维度的时间流速相对低维度更快
 2. **跨维度通信的可能性**：高维观察者可以在低维观察者的"瞬间"内完成复杂计算
@@ -482,7 +482,7 @@ The multidimensional universe structure exhibits several key overall properties:
 
 3. **观察者网络**：不同维度的观察者形成复杂的信息处理网络
    $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}$$
-   其中$`\mathcal{O}_i`$是观察者，$`\mathcal{L}_{ij}`$是观察者间的信息链接
+   其中$\mathcal{O}_i$是观察者，$\mathcal{L}_{ij}$是观察者间的信息链接
 
 4. **跨维度作用**：高维观察者的决策通过经典化过程影响低维现实
    $$\text{低维现实} = \mathcal{C}_{\text{高维观察者}}(\text{量子可能性})$$
@@ -495,7 +495,7 @@ The multidimensional universe structure exhibits several key overall properties:
 
 3. **Observer Network**: Observers of different dimensions form a complex information processing network
    $$\mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}$$
-   where $`\mathcal{O}_i`$ are observers and $`\mathcal{L}_{ij}`$ are information links between observers
+   where $\mathcal{O}_i$ are observers and $\mathcal{L}_{ij}$ are information links between observers
 
 4. **Cross-Dimensional Action**: Decisions of high-dimensional observers affect low-dimensional reality through the classicalization process
    $$\text{Low-dimensional reality} = \mathcal{C}_{\text{High-dimensional observer}}(\text{Quantum possibilities})$$

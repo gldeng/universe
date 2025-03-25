@@ -22,7 +22,7 @@
 
 $$\mathcal{E} = \{\Omega_Q^E, \Omega_C^E, \mathcal{I}^E\}$$
 
-其中 $`\Omega_Q^E`$ 代表生态量子域（可能性空间），$`\Omega_C^E`$ 代表生态经典域（已实现状态），$`\mathcal{I}^E`$ 代表生态量子-经典界面。
+其中 $\Omega_Q^E$ 代表生态量子域（可能性空间），$\Omega_C^E$ 代表生态经典域（已实现状态），$\mathcal{I}^E$ 代表生态量子-经典界面。
 
 ### 生态信息守恒原理
 
@@ -38,7 +38,7 @@ $$I_{\text{总}}(\mathcal{E}) = I_{\text{遗传}} + I_{\text{表型}} + I_{\text
 
 $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$$
 
-其中 $`\mathcal{A}`$ 是适应算符（扩展可能性空间），$`\mathcal{S}`$ 是选择算符（通过环境约束确定特定状态）。
+其中 $\mathcal{A}$ 是适应算符（扩展可能性空间），$\mathcal{S}$ 是选择算符（通过环境约束确定特定状态）。
 
 ## 生态系统的量子特性
 
@@ -50,19 +50,19 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$|\Psi_{\text{生态}}\rangle = \sum_i c_i |\text{状态}_i\rangle$$
 
-   其中 $`c_i`$ 表示各生态状态的量子振幅，反映不同生态构型的可能性。
+   其中 $c_i$ 表示各生态状态的量子振幅，反映不同生态构型的可能性。
 
 2. **生态相变前量子涨落**：生态系统在临界相变前表现出量子涨落增强：
 
    $$\sigma^2_{\text{涨落}} \propto \frac{1}{|\lambda - \lambda_c|}$$
 
-   其中 $`\lambda`$ 是控制参数（如温度、资源可用性等），$`\lambda_c`$ 是临界值。
+   其中 $\lambda$ 是控制参数（如温度、资源可用性等），$\lambda_c$ 是临界值。
 
 3. **生物多样性的量子解释**：物种多样性可视为生态系统维持的量子可能性：
 
    $$D_{\text{生物多样性}} \propto H(\{p_i\}) = -\sum_i p_i \log p_i$$
 
-   其中 $`p_i`$ 是物种 $`i`$ 的相对丰度，$`H`$ 是Shannon熵，度量系统的不确定性或信息容量。
+   其中 $p_i$ 是物种 $i$ 的相对丰度，$H$ 是Shannon熵，度量系统的不确定性或信息容量。
 
 ### 生态量子纠缠
 
@@ -72,19 +72,19 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$|\Psi_{\text{纠缠}}\rangle = \sum_{i,j} \gamma_{ij} |种_i\rangle \otimes |种_j\rangle$$
 
-   其中 $`\gamma_{ij}`$ 是纠缠系数，表示两物种间相互依赖的程度。
+   其中 $\gamma_{ij}$ 是纠缠系数，表示两物种间相互依赖的程度。
 
 2. **生态远程作用**：一处生态变化可通过纠缠网络影响远处组分：
 
    $$C(A,B) > C(A,C) + C(B,C)$$
 
-   表示生态单元 $`A`$ 和 $`B`$ 间的相关性超过了通过中间单元 $`C`$ 的间接作用，暗示非局域关联。
+   表示生态单元 $A$ 和 $B$ 间的相关性超过了通过中间单元 $C$ 的间接作用，暗示非局域关联。
 
 3. **弹性冗余**：生态纠缠增强系统弹性：
 
    $$R_{\text{弹性}} \propto \sum_i \sum_{j \neq i} E_{ij}$$
 
-   其中 $`E_{ij}`$ 是物种 $`i`$ 和 $`j`$ 间的纠缠强度，表示系统中的冗余连接。
+   其中 $E_{ij}$ 是物种 $i$ 和 $j$ 间的纠缠强度，表示系统中的冗余连接。
 
 ## 生态系统的经典特性
 
@@ -96,19 +96,19 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$\vec{n}_i \cdot \vec{n}_j < \|\vec{n}_i\| \cdot \|\vec{n}_j\|$$
 
-   其中 $`\vec{n}_i`$ 和 $`\vec{n}_j`$ 是物种 $`i`$ 和 $`j`$ 的生态位向量，不完全重叠确保共存。
+   其中 $\vec{n}_i$ 和 $\vec{n}_j$ 是物种 $i$ 和 $j$ 的生态位向量，不完全重叠确保共存。
 
 2. **生态群落结构**：形成稳定的群落组织形式：
 
    $$\mathbf{A} = [a_{ij}]$$
 
-   其中 $`\mathbf{A}`$ 是群落矩阵，$`a_{ij}`$ 表示物种 $`i`$ 和 $`j`$ 的相互作用。
+   其中 $\mathbf{A}$ 是群落矩阵，$a_{ij}$ 表示物种 $i$ 和 $j$ 的相互作用。
 
 3. **生态演替轨迹**：系统沿确定性路径发展：
 
    $$\vec{E}(t) = \vec{E}_0 + \int_0^t \vec{F}(\vec{E}(\tau), \tau) d\tau$$
 
-   其中 $`\vec{E}(t)`$ 是时间 $`t`$ 的生态状态向量，$`\vec{F}`$ 是生态动力学函数。
+   其中 $\vec{E}(t)$ 是时间 $t$ 的生态状态向量，$\vec{F}$ 是生态动力学函数。
 
 ### 生态系统熵增与组织
 
@@ -118,7 +118,7 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$\frac{dS_{\text{局部}}}{dt} = \frac{dS_{\text{内部}}}{dt} + \frac{dS_{\text{交换}}}{dt} < 0$$
 
-   当 $`|\frac{dS_{\text{交换}}}{dt}| > \frac{dS_{\text{内部}}}{dt}`$ 时。
+   当 $|\frac{dS_{\text{交换}}}{dt}| > \frac{dS_{\text{内部}}}{dt}$ 时。
 
 2. **最大熵生产原理**：生态系统倾向于最大化熵生产率：
 
@@ -130,7 +130,7 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$I_{\text{结构}} = \sum_i p_i \log \frac{p_i}{q_i}$$
 
-   其中 $`p_i`$ 是实际分布，$`q_i`$ 是随机参考分布，表示系统中的组织化信息。
+   其中 $p_i$ 是实际分布，$q_i$ 是随机参考分布，表示系统中的组织化信息。
 
 ## 量子-经典生态界面
 
@@ -188,13 +188,13 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$|\Psi_{\text{适应性}}\rangle = \sum_{\text{基因型}} F(\text{基因型}) |\text{基因型}\rangle$$
 
-   其中 $`F(\text{基因型})`$ 对应于适应度值。
+   其中 $F(\text{基因型})$ 对应于适应度值。
 
 2. **二元自然选择**：自然选择作为量子测量过程：
 
    $$|\text{选择后}\rangle = \frac{\hat{S}|\Psi_{\text{初始}}\rangle}{\sqrt{\langle\Psi_{\text{初始}}|\hat{S}^{\dagger}\hat{S}|\Psi_{\text{初始}}\rangle}}$$
 
-   其中 $`\hat{S}`$ 是选择算符，与环境条件相应。
+   其中 $\hat{S}$ 是选择算符，与环境条件相应。
 
 3. **量子跃迁演化**：快速进化变化可视为量子跃迁：
 
@@ -210,7 +210,7 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$|\Psi_{\text{恢复}}\rangle = \hat{R}|\Psi_{\text{扰动}}\rangle$$
 
-   其中 $`\hat{R}`$ 是恢复算符，使系统重返原有吸引子。
+   其中 $\hat{R}$ 是恢复算符，使系统重返原有吸引子。
 
 2. **量子-经典恢复路径**：系统恢复遵循量子态到经典态的转变：
 
@@ -222,7 +222,7 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$R_{\text{弹性}} \propto \log(\dim(\mathcal{H}_{\text{生态}}))$$
 
-   其中 $`\dim(\mathcal{H}_{\text{生态}})`$ 是生态系统的有效希尔伯特空间维度。
+   其中 $\dim(\mathcal{H}_{\text{生态}})$ 是生态系统的有效希尔伯特空间维度。
 
 ## 生态相变与临界现象
 
@@ -234,19 +234,19 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$|\Psi_{\text{前}}\rangle \xrightarrow{\lambda \to \lambda_c} |\Psi_{\text{后}}\rangle$$
 
-   其中两个态的内积 $`\langle\Psi_{\text{前}}|\Psi_{\text{后}}\rangle \approx 0`$，表示相变前后状态的正交性。
+   其中两个态的内积 $\langle\Psi_{\text{前}}|\Psi_{\text{后}}\rangle \approx 0$，表示相变前后状态的正交性。
 
 2. **早期预警信号**：临界点前的量子涨落指标：
 
    $$\chi \propto \frac{1}{|\lambda - \lambda_c|^{\gamma}}$$
 
-   其中 $`\chi`$ 是生态敏感性，$`\gamma`$ 是临界指数。
+   其中 $\chi$ 是生态敏感性，$\gamma$ 是临界指数。
 
 3. **量子-经典生态相图**：描述系统可能的相态：
 
    $$\mathcal{P} = \{(\lambda_1,\lambda_2,...,\lambda_n): \Phi(\lambda_1,\lambda_2,...,\lambda_n)\}$$
 
-   其中 $`\Phi`$ 表示在参数 $`\lambda_i`$ 配置下系统的生态相。
+   其中 $\Phi$ 表示在参数 $\lambda_i$ 配置下系统的生态相。
 
 ### 生物多样性与稳定性关系
 
@@ -256,19 +256,19 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$\dim(\mathcal{H}_{\text{多样性}}) \propto S_{\text{物种}}$$
 
-   其中 $`S_{\text{物种}}`$ 是物种丰富度。
+   其中 $S_{\text{物种}}$ 是物种丰富度。
 
 2. **双稳态系统中的量子-经典转换**：
 
    $$V(\phi) = a\phi^4 - b\phi^2$$
 
-   当 $`b > 0`$ 时，系统表现出双稳态，可在两个经典态间振荡。
+   当 $b > 0$ 时，系统表现出双稳态，可在两个经典态间振荡。
 
 3. **多样性-稳定性权衡**：
 
    $$\sigma^2_{\text{系统}} = \frac{\sigma^2_{\text{种群}}}{\alpha \cdot S}$$
 
-   其中增加的物种数 $`S`$ 和种间相互作用 $`\alpha`$ 降低了系统波动 $`\sigma^2_{\text{系统}}`$。
+   其中增加的物种数 $S$ 和种间相互作用 $\alpha$ 降低了系统波动 $\sigma^2_{\text{系统}}$。
 
 ## 人类-自然系统的耦合动力学
 
@@ -280,13 +280,13 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$\mathcal{O}_{\text{人类}} = \{\mathcal{C}_{\text{人类}}, \mathcal{Q}_{\text{人类}}, K_C^{\text{生态}}\}$$
 
-   其中 $`\mathcal{C}_{\text{人类}}`$ 是经典化能力（观察和测量生态系统），$`\mathcal{Q}_{\text{人类}}`$ 是量子化能力（创造新生态可能性），$`K_C^{\text{生态}}`$ 是积累的生态知识。
+   其中 $\mathcal{C}_{\text{人类}}$ 是经典化能力（观察和测量生态系统），$\mathcal{Q}_{\text{人类}}$ 是量子化能力（创造新生态可能性），$K_C^{\text{生态}}$ 是积累的生态知识。
 
 2. **社会-生态耦合**：人类活动与生态系统的深度互动：
 
    $$\frac{d\vec{S}}{dt} = \vec{f}_S(\vec{S}, \vec{E}), \quad \frac{d\vec{E}}{dt} = \vec{f}_E(\vec{E}, \vec{S})$$
 
-   其中 $`\vec{S}`$ 和 $`\vec{E}`$ 分别是社会和生态状态向量，函数 $`\vec{f}_S`$ 和 $`\vec{f}_E`$ 描述它们的相互依赖。
+   其中 $\vec{S}$ 和 $\vec{E}$ 分别是社会和生态状态向量，函数 $\vec{f}_S$ 和 $\vec{f}_E$ 描述它们的相互依赖。
 
 3. **感知-行动循环**：人类对生态系统的感知和干预循环：
 
@@ -309,13 +309,13 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
    $$\text{强可持续性}: K_N = \text{常数}$$
    $$\text{弱可持续性}: K_N + K_H + K_M = \text{常数}$$
 
-   其中 $`K_N`$、$`K_H`$ 和 $`K_M`$ 分别是自然、人力和制造资本。
+   其中 $K_N$、$K_H$ 和 $K_M$ 分别是自然、人力和制造资本。
 
 3. **社会-生态转型的量子跃迁**：
 
    $$P(\text{转型}) = |\langle\Psi_{\text{可持续}}|\hat{T}|\Psi_{\text{现状}}\rangle|^2$$
 
-   其中 $`\hat{T}`$ 是转型算符，测量系统从当前状态转向可持续状态的概率。
+   其中 $\hat{T}$ 是转型算符，测量系统从当前状态转向可持续状态的概率。
 
 ## 生态系统管理的二元方法
 
@@ -327,13 +327,13 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$D_{\text{管理}} = \alpha D_C + (1-\alpha) D_Q$$
 
-   其中 $`D_C`$ 是基于确定知识的决策成分，$`D_Q`$ 是探索性的量子决策成分。
+   其中 $D_C$ 是基于确定知识的决策成分，$D_Q$ 是探索性的量子决策成分。
 
 2. **适应性探测**：管理行动作为生态系统状态的测量：
 
    $$|\Psi_{\text{后}}\rangle = \frac{\hat{M}_a |\Psi_{\text{前}}\rangle}{||\hat{M}_a |\Psi_{\text{前}}\rangle||}$$
 
-   其中 $`\hat{M}_a`$ 是与管理行动 $`a`$ 相关的测量算符。
+   其中 $\hat{M}_a$ 是与管理行动 $a$ 相关的测量算符。
 
 3. **学习-适应循环**：管理过程作为持续的量子-经典转换循环：
 
@@ -349,13 +349,13 @@ $$\frac{d\mathcal{E}}{dt} = \mathcal{A}(\mathcal{E}) - \mathcal{S}(\mathcal{E})$
 
    $$|\Psi_{\text{服务}}\rangle = \sum_i s_i |\text{服务}_i\rangle$$
 
-   其中 $`s_i`$ 表示特定服务的量子振幅。
+   其中 $s_i$ 表示特定服务的量子振幅。
 
 2. **观察者依赖的服务价值**：
 
    $$V(\text{服务}) = \langle\Psi_{\text{服务}}|\hat{V}_{\mathcal{O}}|\Psi_{\text{服务}}\rangle$$
 
-   其中 $`\hat{V}_{\mathcal{O}}`$ 是与观察者 $`\mathcal{O}`$ 相关的价值算符。
+   其中 $\hat{V}_{\mathcal{O}}$ 是与观察者 $\mathcal{O}$ 相关的价值算符。
 
 3. **服务供应-需求耦合**：
 

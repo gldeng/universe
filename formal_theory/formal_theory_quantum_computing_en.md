@@ -47,11 +47,11 @@ Dualistic quantum computing can be described as:
 $$\mathcal{QC} = (\mathcal{H}, \mathcal{U}, \mathcal{M}, \mathcal{I}, \mathcal{O})$$
 
 Where:
-- $`\mathcal{H}`$ is the quantum Hilbert space, representing the possibility space of quantum domain
-- $`\mathcal{U}`$ is the set of unitary transformations, representing quantum domain structuring operations
-- $`\mathcal{M}`$ is the set of measurement operators, representing quantum→classical transformation interface
-- $`\mathcal{I}`$ is the input mapping, from classical domain to quantum domain
-- $`\mathcal{O}`$ is observer characteristics, including dimension and resolution parameters
+- $\mathcal{H}$ is the quantum Hilbert space, representing the possibility space of quantum domain
+- $\mathcal{U}$ is the set of unitary transformations, representing quantum domain structuring operations
+- $\mathcal{M}$ is the set of measurement operators, representing quantum→classical transformation interface
+- $\mathcal{I}$ is the input mapping, from classical domain to quantum domain
+- $\mathcal{O}$ is observer characteristics, including dimension and resolution parameters
 
 ### 2.2 Interface Optimization Principle
 
@@ -59,10 +59,10 @@ The key to dualistic quantum computing is interface optimization, i.e., finding 
 
 $$\mathcal{M}^* = \arg\max_{\mathcal{M}} \frac{I_C(\mathcal{M}(|\psi\rangle))}{I_Q(|\psi\rangle)}$$
 
-Where $`I_C`$ is the amount of classically usable information, $`I_Q`$ is the total quantum information.
+Where $I_C$ is the amount of classically usable information, $I_Q$ is the total quantum information.
 
 Characteristics of optimized interface include:
-1. Appropriate observer resolution $`\eta_{\mathcal{O}}`$
+1. Appropriate observer resolution $\eta_{\mathcal{O}}$
 2. Selection of optimal measurement basis
 3. Timing of quantum→classical transformation
 4. Efficiency of post-measurement classical information processing
@@ -73,11 +73,11 @@ Computational complexity hierarchy in the dualistic framework:
 
 | Computation Level | Observer Dimension | Quantum Domain Access Capability | Typical Algorithm Type |
 |-------------------|-------------------|----------------------------------|------------------------|
-| Level 0 | $`D_{\mathcal{O}} < 1`$ | Classical computation only | Deterministic classical algorithms |
-| Level 1 | $`1 \leq D_{\mathcal{O}} < 2`$ | Limited quantum superposition | NISQ algorithms, variational methods |
-| Level 2 | $`2 \leq D_{\mathcal{O}} < 3`$ | Medium quantum networks | Standard quantum algorithms (Grover, QFT) |
-| Level 3 | $`3 \leq D_{\mathcal{O}} < 4`$ | Large-scale quantum entanglement | Quantum machine learning, large-scale simulation |
-| Level 4 | $`D_{\mathcal{O}} \geq 4`$ | Full quantum domain access | Topological quantum computing, non-standard paradigms |
+| Level 0 | $D_{\mathcal{O}} < 1$ | Classical computation only | Deterministic classical algorithms |
+| Level 1 | $1 \leq D_{\mathcal{O}} < 2$ | Limited quantum superposition | NISQ algorithms, variational methods |
+| Level 2 | $2 \leq D_{\mathcal{O}} < 3$ | Medium quantum networks | Standard quantum algorithms (Grover, QFT) |
+| Level 3 | $3 \leq D_{\mathcal{O}} < 4$ | Large-scale quantum entanglement | Quantum machine learning, large-scale simulation |
+| Level 4 | $D_{\mathcal{O}} \geq 4$ | Full quantum domain access | Topological quantum computing, non-standard paradigms |
 
 ## 3. Dualistic Interpretation of Quantum Algorithms
 
@@ -116,7 +116,7 @@ Key physical processes in quantum algorithms revealed by dualistic framework:
 
 Characteristics of gate-based quantum computing from dualistic perspective:
 
-1. **Observer Dimension**: $`D_{\mathcal{O}} \approx 2-3`$, medium quantum domain access capability
+1. **Observer Dimension**: $D_{\mathcal{O}} \approx 2-3$, medium quantum domain access capability
 2. **Interface Characteristics**: Precisely controlled quantum→classical transformation, typically computational basis measurement
 3. **Entanglement Network**: Artificially constructed structured quantum entanglement network
 4. **Source of Advantage**: Synergy between low-entropy structuring capability of quantum gates and classical correction
@@ -125,13 +125,13 @@ Gate circuit model can be expressed as:
 
 $$\mathcal{QC}_{\text{gate}} = \{|\psi_{\text{initial}}\rangle, \{U_i\}_{i=1}^n, \mathcal{M}_{\text{computational basis}}, \mathcal{C}\}$$
 
-Where $`\{U_i\}_{i=1}^n`$ is the sequence of quantum gates, $`\mathcal{C}`$ is classical control logic.
+Where $\{U_i\}_{i=1}^n$ is the sequence of quantum gates, $\mathcal{C}$ is classical control logic.
 
 ### 4.2 Adiabatic Quantum Computing
 
 Dualistic characteristics of adiabatic quantum computing (quantum annealing):
 
-1. **Observer Dimension**: $`D_{\mathcal{O}} \approx 1.5-2.5`$, limited quantum domain access
+1. **Observer Dimension**: $D_{\mathcal{O}} \approx 1.5-2.5$, limited quantum domain access
 2. **Interface Characteristics**: Measurement interface guided by natural energy minimization
 3. **Entanglement Network**: Physical constraint-based local interaction network
 4. **Source of Advantage**: Energy landscape exploration assisted by quantum tunneling effect and quantum fluctuations
@@ -140,13 +140,13 @@ Adiabatic quantum computing model:
 
 $$\mathcal{QC}_{\text{adiabatic}} = \{H_{\text{initial}}, H_{\text{problem}}, T, \mathcal{M}_{\text{energy}}\}$$
 
-Where $`H_{\text{initial}}`$ is initial Hamiltonian, $`H_{\text{problem}}`$ is target Hamiltonian, $`T`$ is adiabatic evolution time.
+Where $H_{\text{initial}}$ is initial Hamiltonian, $H_{\text{problem}}$ is target Hamiltonian, $T$ is adiabatic evolution time.
 
 ### 4.3 Measurement-based Quantum Computing
 
 Dualistic characteristics of measurement-based quantum computing (one-way quantum computing):
 
-1. **Observer Dimension**: $`D_{\mathcal{O}} \approx 2.5-3.5`$, higher quantum domain access
+1. **Observer Dimension**: $D_{\mathcal{O}} \approx 2.5-3.5$, higher quantum domain access
 2. **Interface Characteristics**: Measurement as core element of computation rather than termination
 3. **Entanglement Network**: Pre-constructed universal entanglement resource (cluster state)
 4. **Source of Advantage**: Using classicalization process of measurement as computational driving force
@@ -155,13 +155,13 @@ Expression of measurement-based model:
 
 $$\mathcal{QC}_{\text{measurement}} = \{|\Psi_{\text{cluster}}\rangle, \{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n, G\}$$
 
-Where $`|\Psi_{\text{cluster}}\rangle`$ is initial cluster state, $`\{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n`$ is adaptive measurement sequence, $`G`$ is graph structure.
+Where $|\Psi_{\text{cluster}}\rangle$ is initial cluster state, $\{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n$ is adaptive measurement sequence, $G$ is graph structure.
 
 ### 4.4 Topological Quantum Computing
 
 Dualistic characteristics of topological quantum computing:
 
-1. **Observer Dimension**: $`D_{\mathcal{O}} \approx 3-4`$, high quantum domain access
+1. **Observer Dimension**: $D_{\mathcal{O}} \approx 3-4$, high quantum domain access
 2. **Interface Characteristics**: Topologically protected quantum→classical transformation
 3. **Entanglement Network**: Non-local topologically encoded entanglement structure
 4. **Source of Advantage**: Quantum information stability under topological protection
@@ -170,7 +170,7 @@ Topological quantum computing model:
 
 $$\mathcal{QC}_{\text{topological}} = \{|\Psi_{\text{topological}}\rangle, \{B_i\}_{i=1}^n, \mathcal{D}, \mathcal{M}_{\text{code}}\}$$
 
-Where $`|\Psi_{\text{topological}}\rangle`$ is topologically encoded state, $`\{B_i\}_{i=1}^n`$ is braiding operations, $`\mathcal{D}`$ is decoder.
+Where $|\Psi_{\text{topological}}\rangle$ is topologically encoded state, $\{B_i\}_{i=1}^n$ is braiding operations, $\mathcal{D}$ is decoder.
 
 ## 5. Observer Effects in Quantum Computing
 
@@ -178,13 +178,13 @@ Where $`|\Psi_{\text{topological}}\rangle`$ is topologically encoded state, $`\{
 
 Key observer parameters in quantum computing:
 
-1. **Resolution Parameter** $`\eta_{\mathcal{O}}`$: Affects probability distribution of measurement results
+1. **Resolution Parameter** $\eta_{\mathcal{O}}$: Affects probability distribution of measurement results
    $$P(i||\psi\rangle) = |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}$$
 
-2. **Classicalization Operator** $`\mathcal{C}_{\mathcal{O}}`$: Determines the manner of quantum→classical transformation
+2. **Classicalization Operator** $\mathcal{C}_{\mathcal{O}}$: Determines the manner of quantum→classical transformation
    $$\rho_{\text{classical}} = \mathcal{C}_{\mathcal{O}}(|\psi\rangle\langle\psi|)$$
 
-3. **Knowledge Base** $`K_C^{\mathcal{O}}`$: Influences interpretation and post-processing of measurement results
+3. **Knowledge Base** $K_C^{\mathcal{O}}$: Influences interpretation and post-processing of measurement results
    $$\text{result} = f(K_C^{\mathcal{O}}, \rho_{\text{classical}})$$
 
 ### 5.2 Optimizing Observer-Computation Matching
@@ -193,27 +193,27 @@ Selecting optimal observer-computation architecture matching for specific proble
 
 | Problem Type | Optimal Observer Dimension | Recommended Computation Model | Interface Optimization Strategy |
 |--------------|----------------------------|-------------------------------|--------------------------------|
-| Search Problems | $`D_{\mathcal{O}} \approx 2`$ | Gate-based Grover | Strong classicalization after amplitude amplification |
-| Optimization Problems | $`D_{\mathcal{O}} \approx 1.5-2`$ | Quantum Annealing | Progressive classicalization, multiple sampling |
-| Simulation Problems | $`D_{\mathcal{O}} \approx 2.5-3`$ | Gate-based Variational | Partial measurement, adaptive interface |
-| Cryptographic Problems | $`D_{\mathcal{O}} \approx 2.5`$ | Gate-based Shor | Period-finding specialized interface |
-| Machine Learning | $`D_{\mathcal{O}} \approx 2-3`$ | Quantum-Classical Hybrid | Dynamically adjusted interface, gradient preservation |
+| Search Problems | $D_{\mathcal{O}} \approx 2$ | Gate-based Grover | Strong classicalization after amplitude amplification |
+| Optimization Problems | $D_{\mathcal{O}} \approx 1.5-2$ | Quantum Annealing | Progressive classicalization, multiple sampling |
+| Simulation Problems | $D_{\mathcal{O}} \approx 2.5-3$ | Gate-based Variational | Partial measurement, adaptive interface |
+| Cryptographic Problems | $D_{\mathcal{O}} \approx 2.5$ | Gate-based Shor | Period-finding specialized interface |
+| Machine Learning | $D_{\mathcal{O}} \approx 2-3$ | Quantum-Classical Hybrid | Dynamically adjusted interface, gradient preservation |
 
 ### 5.3 Dimensional Strategies for Quantum Computing
 
 Quantum computing strategies for observers of different dimensions:
 
-1. **Low-Dimensional Observers** $`(D_{\mathcal{O}} < 2)`$
+1. **Low-Dimensional Observers** $(D_{\mathcal{O}} < 2)$
    - Reliance on classical post-processing
    - Repeated measurements and statistical inference
    - Selective quantum accelerators
 
-2. **Medium-Dimensional Observers** $`(2 \leq D_{\mathcal{O}} < 3)`$
+2. **Medium-Dimensional Observers** $(2 \leq D_{\mathcal{O}} < 3)$
    - Balanced quantum-classical resource allocation
    - Variational methods and hybrid algorithms
    - Medium complexity quantum circuits
 
-3. **High-Dimensional Observers** $`(D_{\mathcal{O}} \geq 3)`$
+3. **High-Dimensional Observers** $(D_{\mathcal{O}} \geq 3)$
    - Deep quantum circuits
    - Utilization of large-scale quantum entanglement
    - Non-standard measurement strategies
@@ -291,10 +291,10 @@ Long-term quantum computing development roadmap guided by dualism:
 
 | Phase | Timeframe | Observer Dimension | Key Technological Breakthroughs |
 |-------|-----------|--------------------|---------------------------------|
-| 1 | Present-Near Term | $`D_{\mathcal{O}} \approx 1.5-2`$ | Error mitigation, variational methods, specialized interfaces |
-| 2 | Medium Term | $`D_{\mathcal{O}} \approx 2-3`$ | Logical qubits, adaptive measurements, quantum memory |
-| 3 | Long Term | $`D_{\mathcal{O}} \approx 3-3.5`$ | Large-scale entanglement networks, quantum-classical resonators |
-| 4 | Ultra-Long Term | $`D_{\mathcal{O}} \geq 4`$ | Topologically protected computing, non-standard computational models |
+| 1 | Present-Near Term | $D_{\mathcal{O}} \approx 1.5-2$ | Error mitigation, variational methods, specialized interfaces |
+| 2 | Medium Term | $D_{\mathcal{O}} \approx 2-3$ | Logical qubits, adaptive measurements, quantum memory |
+| 3 | Long Term | $D_{\mathcal{O}} \approx 3-3.5$ | Large-scale entanglement networks, quantum-classical resonators |
+| 4 | Ultra-Long Term | $D_{\mathcal{O}} \geq 4$ | Topologically protected computing, non-standard computational models |
 
 ## 8. Theoretical Predictions and Validation
 
@@ -331,11 +331,11 @@ Commercial value model of quantum computing based on dualism:
 $$V = \sum_i w_i \cdot \frac{S_i \cdot (D_{\mathcal{O}_i} - D_{\text{classical}_i})}{C_i \cdot t_i}$$
 
 Where:
-- $`S_i`$ is problem scale
-- $`D_{\mathcal{O}_i}`$ is observer dimension of quantum solution
-- $`D_{\text{classical}_i}`$ is observer dimension of classical solution
-- $`C_i`$ is implementation cost
-- $`t_i`$ is time consumption
+- $S_i$ is problem scale
+- $D_{\mathcal{O}_i}$ is observer dimension of quantum solution
+- $D_{\text{classical}_i}$ is observer dimension of classical solution
+- $C_i$ is implementation cost
+- $t_i$ is time consumption
 
 This model predicts exponential growth in commercial value of quantum computing when observer dimension is sufficiently high.
 

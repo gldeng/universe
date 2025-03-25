@@ -43,7 +43,7 @@ The health index can be quantified as:
 
 $$H_{\text{index}} = \alpha \cdot \frac{I_{\text{quantum-classical coherence}}}{S_{\text{system entropy}}} \cdot \beta_D$$
 
-Where $`\beta_D`$ is a dimension-related correction factor, and $`\alpha`$ is a normalization constant.
+Where $\beta_D$ is a dimension-related correction factor, and $\alpha$ is a normalization constant.
 
 ### Dual Task of Medicine
 
@@ -63,29 +63,29 @@ Traditional medicine's efficacy has theoretical limits, expressible as:
 
 $$\text{Classical Medical Efficiency} = \eta \cdot \frac{I_{\text{medical knowledge}}}{S_{\text{full-dimensional disease information}}}$$
 
-Where $`\eta`$ is system implementation efficiency. Since $`S_{\text{full-dimensional disease information}} \gg I_{\text{medical knowledge}}`$, there is an inherent efficiency limit.
+Where $\eta$ is system implementation efficiency. Since $S_{\text{full-dimensional disease information}} \gg I_{\text{medical knowledge}}$, there is an inherent efficiency limit.
 
 Quantum medicine, by acting on both quantum and classical domains simultaneously, can break through this limitation:
 
 $$\text{Quantum Medical Efficiency} = \eta_Q \cdot \frac{I_{\text{medical knowledge}} + \gamma \cdot I_{\text{quantum information access}}}{S_{\text{full-dimensional disease information}}}$$
 
-Where $`\gamma`$ is the quantum information utilization coefficient, and $`\eta_Q > \eta`$ is enhanced system efficiency.
+Where $\gamma$ is the quantum information utilization coefficient, and $\eta_Q > \eta$ is enhanced system efficiency.
 
 ## Principles of Quantum Medicine
 
 ### Decoherence Management in Biological Systems
 
-Biological systems maintain health by precisely controlling decoherence degree $`\mathcal{D}(x,t)`$:
+Biological systems maintain health by precisely controlling decoherence degree $\mathcal{D}(x,t)$:
 
 $$\mathcal{D}_{\text{healthy}}(x,t) = \mathcal{D}_c \pm \delta_{\text{physiological}}(x,t)$$
 
-Where $`\delta_{\text{physiological}}`$ is the physiological regulation range, corresponding to different tissues and functions.
+Where $\delta_{\text{physiological}}$ is the physiological regulation range, corresponding to different tissues and functions.
 
 Mathematical expression of the health interval:
 
 $$\Delta_{\text{health}} = \{\mathcal{D} : |\mathcal{D} - \mathcal{D}_c| \leq \delta_{\text{max}}(x)\}$$
 
-Where $`\delta_{\text{max}}(x)`$ is the maximum allowed deviation at a specific location.
+Where $\delta_{\text{max}}(x)$ is the maximum allowed deviation at a specific location.
 
 ### Quantum Basis of Homeostasis Mechanisms
 
@@ -94,15 +94,15 @@ Physiological homeostasis arises from the dynamic balance of quantum-classical c
 $$\frac{d\mathcal{D}(x,t)}{dt} = f_{\text{endogenous}}(\mathcal{D}) + f_{\text{exogenous}}(\mathcal{D}) + f_{\text{regulatory}}(\mathcal{D})$$
 
 Where:
-- $`f_{\text{endogenous}}`$ is the endogenous change function
-- $`f_{\text{exogenous}}`$ is the exogenous stimulus function
-- $`f_{\text{regulatory}}`$ is the biological regulatory system response
+- $f_{\text{endogenous}}$ is the endogenous change function
+- $f_{\text{exogenous}}$ is the exogenous stimulus function
+- $f_{\text{regulatory}}$ is the biological regulatory system response
 
 Healthy regulatory mechanisms satisfy:
 
 $$f_{\text{regulatory}}(\mathcal{D}) = -k(\mathcal{D} - \mathcal{D}_c)$$
 
-Where $`k`$ is the regulation intensity coefficient.
+Where $k$ is the regulation intensity coefficient.
 
 ### Quantum-Classical Model of Biological Rhythms
 
@@ -110,7 +110,7 @@ Biological rhythms manifest as periodic changes in quantum-classical conversion 
 
 $$\mathcal{C}_{\text{efficiency}}(t) = \mathcal{C}_0 + A\sin(\omega t + \phi)$$
 
-Where $`\mathcal{C}_{\text{efficiency}}`$ is classicalization efficiency, and $`\omega`$ is rhythm frequency.
+Where $\mathcal{C}_{\text{efficiency}}$ is classicalization efficiency, and $\omega$ is rhythm frequency.
 
 Nested structure of different rhythms:
 
@@ -120,7 +120,7 @@ Rhythm synchronization is a key feature of health:
 
 $$\phi_{ij} = |\phi_i - \phi_j| \to \text{stable value}$$
 
-Where $`\phi_{ij}`$ is the rhythm phase difference.
+Where $\phi_{ij}$ is the rhythm phase difference.
 
 ## Quantum-Classical Model of Disease
 
@@ -130,16 +130,16 @@ Disease can be defined as a dysregulated state of the quantum-classical interfac
 
 $$\mathcal{D}_{\text{disease}}(x,t) = \mathcal{D}_c + \delta_{\text{pathological}}(x,t)$$
 
-Where $`|\delta_{\text{pathological}}| > |\delta_{\text{physiological}}|`$ and/or $`\delta_{\text{pathological}}`$ has inappropriate spatial distribution.
+Where $|\delta_{\text{pathological}}| > |\delta_{\text{physiological}}|$ and/or $\delta_{\text{pathological}}$ has inappropriate spatial distribution.
 
 Disease classification based on deviation patterns:
 
 | Deviation Type | Quantum-Classical Definition | Typical Disease Categories |
 |----------------|------------------------------|----------------------------|
-| Excessive Classicalization | $`\mathcal{D} \gg \mathcal{D}_c`$ | Autoimmune diseases, Neurodegenerative diseases |
-| Insufficient Classicalization | $`\mathcal{D} \ll \mathcal{D}_c`$ | Cancer, Schizophrenia |
-| Uneven Classicalization | $`\nabla\mathcal{D} \gg \nabla\mathcal{D}_{\text{normal}}`$ | Metabolic syndrome, Chronic pain |
-| Dynamic Regulation Imbalance | $`\frac{d\mathcal{D}}{dt} \neq f_{\text{normal}}`$ | Arrhythmia, Endocrine disorders |
+| Excessive Classicalization | $\mathcal{D} \gg \mathcal{D}_c$ | Autoimmune diseases, Neurodegenerative diseases |
+| Insufficient Classicalization | $\mathcal{D} \ll \mathcal{D}_c$ | Cancer, Schizophrenia |
+| Uneven Classicalization | $\nabla\mathcal{D} \gg \nabla\mathcal{D}_{\text{normal}}$ | Metabolic syndrome, Chronic pain |
+| Dynamic Regulation Imbalance | $\frac{d\mathcal{D}}{dt} \neq f_{\text{normal}}$ | Arrhythmia, Endocrine disorders |
 
 ### Quantum-Classical State Diagram
 
@@ -155,7 +155,7 @@ While disease states deviate from this trajectory:
 
 $$\Delta_{\text{disease}} = d((E,S,\mathcal{D}), \mathcal{T}_{\text{health}})$$
 
-Where $`d`$ is an appropriate distance metric.
+Where $d$ is an appropriate distance metric.
 
 ### Quantum-Classical Interpretation of Pathophysiology
 
@@ -181,11 +181,11 @@ Quantum medical diagnosis combines traditional methods with quantum information 
 
 $$D_{\text{comprehensive}} = \alpha D_{\text{classical}} + \beta D_{\text{quantum}} + \gamma D_{\text{interactive}}$$
 
-Where $`D_{\text{classical}}`$ is the traditional diagnostic result, $`D_{\text{quantum}}`$ is the quantum state assessment, and $`D_{\text{interactive}}`$ quantifies the relationship between them.
+Where $D_{\text{classical}}$ is the traditional diagnostic result, $D_{\text{quantum}}$ is the quantum state assessment, and $D_{\text{interactive}}$ quantifies the relationship between them.
 
 ### Quantum Decoherence Measurement
 
-Decoherence degree $`\mathcal{D}(x)`$ can be measured through indirect and direct methods:
+Decoherence degree $\mathcal{D}(x)$ can be measured through indirect and direct methods:
 
 1. **Indirect Measurement**: Estimation through quantum tunneling effects, tunnel spectra, etc.  
    $$\mathcal{D}_{\text{estimate}} = f(\text{spectral features}, \text{tunneling rate}, \text{coherence time})$$
@@ -193,7 +193,7 @@ Decoherence degree $`\mathcal{D}(x)`$ can be measured through indirect and direc
 2. **Direct Measurement**: Using quantum sensor arrays to measure local coherence  
    $$\mathcal{D}_{\text{direct}} = -\log\left(\frac{\langle\hat{\rho}_{12}\rangle}{\langle\hat{\rho}_1\rangle\langle\hat{\rho}_2\rangle}\right)$$
 
-Where $`\hat{\rho}_{12}`$ is the two-body density matrix, and $`\hat{\rho}_1`$ and $`\hat{\rho}_2`$ are reduced density matrices.
+Where $\hat{\rho}_{12}$ is the two-body density matrix, and $\hat{\rho}_1$ and $\hat{\rho}_2$ are reduced density matrices.
 
 ### Biological Quantum Features
 
@@ -205,12 +205,12 @@ Health assessment can quantify the following quantum features:
 2. **Quantum Entanglement Network**: Network structure of quantum correlations within the system  
    $$\mathcal{E}_{\text{network}} = \sum_{i < j} E_{ij} \cdot A_{ij}$$
    
-   Where $`E_{ij}`$ is the entanglement degree between node pairs, and $`A_{ij}`$ is the adjacency matrix.
+   Where $E_{ij}$ is the entanglement degree between node pairs, and $A_{ij}$ is the adjacency matrix.
 
 3. **Quantum Entropy Flow**: Patterns of entropy flow in the system  
    $$J_S = \vec{\nabla} \cdot (D_S \vec{\nabla} S)$$
    
-   Where $`D_S`$ is the entropy diffusion coefficient.
+   Where $D_S$ is the entropy diffusion coefficient.
 
 4. **Quantum-Classical Boundary Integrity**: Stability of the interface structure  
    $$I_{\text{interface}} = \int_{\mathcal{I}} |\nabla \mathcal{D}(x)|^2 dx$$
@@ -223,13 +223,13 @@ Quantum medicine employs dual-pathway treatment in quantum and classical domains
 
 $$\mathcal{T} = \{\mathcal{T}_Q, \mathcal{T}_C\}$$
 
-Where $`\mathcal{T}_Q`$ is quantum domain intervention, and $`\mathcal{T}_C`$ is classical domain intervention.
+Where $\mathcal{T}_Q$ is quantum domain intervention, and $\mathcal{T}_C$ is classical domain intervention.
 
 The optimal treatment combination satisfies:
 
 $$\max_{\mathcal{T}} \left[ \alpha\cdot\Delta(\mathcal{D}_{\text{initial}}, \mathcal{D}_{\text{healthy}}) - \beta\cdot C(\mathcal{T}) \right]$$
 
-Where $`\Delta`$ is a state improvement measure, and $`C(\mathcal{T})`$ is the treatment cost function.
+Where $\Delta$ is a state improvement measure, and $C(\mathcal{T})$ is the treatment cost function.
 
 ### Quantum Domain Intervention Methods
 
@@ -238,12 +238,12 @@ Quantum domain interventions act on the quantum properties of biological systems
 1. **Quantum Coherence Enhancement Techniques**:  
    $$|\Psi_{\text{enhanced}}\rangle = \hat{U}_{\text{coherence}} |\Psi_{\text{initial}}\rangle$$
    
-   Where $`\hat{U}_{\text{coherence}}`$ is the coherence enhancement operator.
+   Where $\hat{U}_{\text{coherence}}$ is the coherence enhancement operator.
 
 2. **Quantum Entanglement Reconstruction**:  
    $$\rho_{\text{reconstructed}} = \sum_i \hat{K}_i \rho_{\text{initial}} \hat{K}_i^{\dagger}$$
    
-   Where $`\hat{K}_i`$ are Kraus operators, satisfying $`\sum_i \hat{K}_i^{\dagger}\hat{K}_i = I`$.
+   Where $\hat{K}_i$ are Kraus operators, satisfying $\sum_i \hat{K}_i^{\dagger}\hat{K}_i = I$.
 
 3. **Quantum Information Field Alignment**:  
    $$\langle\Psi_{\text{pathological}}|\Psi_{\text{healthy}}\rangle \xrightarrow{\text{alignment}} \text{maximum}$$
@@ -255,12 +255,12 @@ Classical domain interventions act on the classicalized information in biologica
 1. **Interface Position Regulation**:  
    $$\mathcal{D}_{\text{therapeutic}} = \mathcal{D}_{\text{healthy}} \pm \delta_{\text{drug}}$$
    
-   Where $`\delta_{\text{drug}}`$ is the decoherence shift caused by drugs.
+   Where $\delta_{\text{drug}}$ is the decoherence shift caused by drugs.
 
 2. **Classicalization Path Optimization**:  
    $$\mathcal{C}_{\text{optimized}} = \arg\min_{\mathcal{C}} \int_{\Gamma} |\mathcal{D}(x) - \mathcal{D}_c|^2 dx$$
    
-   Where $`\Gamma`$ is the classicalization path.
+   Where $\Gamma$ is the classicalization path.
 
 3. **Classical Information Reorganization**:  
    $$K_{\text{reorganized}} = f_{\text{edit}}(K_{\text{pathological}}) \to K_{\text{healthy}}$$
@@ -271,11 +271,11 @@ Integrated treatment strategies combine quantum and classical interventions to m
 
 $$\mathcal{S}_{\text{integrated}} = \mathcal{S}_Q + \mathcal{S}_C + \mathcal{S}_{Q-C}$$
 
-Where $`\mathcal{S}_{Q-C}`$ is the quantum-classical synergistic effect, representable as:
+Where $\mathcal{S}_{Q-C}$ is the quantum-classical synergistic effect, representable as:
 
 $$\mathcal{S}_{Q-C} = \int \mathcal{T}_Q(x,t) \cdot \mathcal{T}_C(x,t) \cdot G(x,t) dx dt$$
 
-Where $`G(x,t)`$ is the synergistic gain function.
+Where $G(x,t)$ is the synergistic gain function.
 
 Optimization strategies seek the best quantum-classical intervention combination:
 
@@ -309,17 +309,17 @@ Medical data analysis employs quantum information methods:
 1. **Quantum Bayesian Inference**:  
    $$P_Q(H|D) = \frac{P_Q(D|H)P_Q(H)}{P_Q(D)}$$
    
-   Where $`P_Q`$ is quantum probability.
+   Where $P_Q$ is quantum probability.
 
 2. **Quantum Principal Component Analysis**:  
    $$|\Psi_{\text{data}}\rangle = \sum_{i=1}^n \lambda_i |v_i\rangle$$
    
-   Where $`|v_i\rangle`$ are quantum principal components.
+   Where $|v_i\rangle$ are quantum principal components.
 
 3. **Quantum Topological Data Analysis**:  
    $$H_n(X;R) = \frac{\text{Ker}\partial_n}{\text{Im}\partial_{n+1}}$$
    
-   Where $`H_n`$ are quantum topological features.
+   Where $H_n$ are quantum topological features.
 
 ### Quantum Medical Model Validation
 
@@ -331,7 +331,7 @@ Validation of quantum medical models requires special methods:
 2. **Entanglement Witness Tests**: Verifying the existence of quantum entanglement  
    $$\text{Tr}(W\rho) < 0 \Rightarrow \rho \text{ is an entangled state}$$
    
-   Where $`W`$ is an entanglement witness operator.
+   Where $W$ is an entanglement witness operator.
 
 3. **Cross-scale Correlation Analysis**: Testing the manifestation of quantum effects at different scales  
    $$C_{\text{cross-scale}}(\lambda_1, \lambda_2) = \langle O_{\lambda_1}O_{\lambda_2}\rangle - \langle O_{\lambda_1}\rangle\langle O_{\lambda_2}\rangle$$
@@ -360,15 +360,15 @@ Validation of quantum medical interventions:
 
 1. **Quantum Coherence Enhancement Therapy**:  
    - Application: Chronic pain, Depression
-   - Results: $`\Delta\mathcal{Q}_{\text{coherence}} = 35\%`$ increase, Clinical symptom improvement $`45\%`$
+   - Results: $\Delta\mathcal{Q}_{\text{coherence}} = 35\%$ increase, Clinical symptom improvement $45\%$
 
 2. **Quantum-Classical Interface Regulating Drugs**:  
    - Application: Autoimmune diseases
-   - Results: $`\mathcal{D}_{\text{abnormal}} \to \mathcal{D}_{\text{normal}}`$ in $`73\%`$ of subjects
+   - Results: $\mathcal{D}_{\text{abnormal}} \to \mathcal{D}_{\text{normal}}$ in $73\%$ of subjects
 
 3. **Quantum Entanglement Network Reconstruction Therapy**:  
    - Application: Neurological diseases
-   - Results: Neuronal entanglement $`\mathcal{E}_{\text{network}}`$ increased by $`28\%`$, Functional improvement $`41\%`$
+   - Results: Neuronal entanglement $\mathcal{E}_{\text{network}}$ increased by $28\%$, Functional improvement $41\%$
 
 ### Quantum Interpretation of Traditional Medical Practices
 
@@ -418,7 +418,7 @@ Strategies to overcome implementation challenges include:
 1. **Gradual Integration Model**:  
    $$\mathcal{M}_t = (1-\alpha_t)\mathcal{M}_{\text{traditional}} + \alpha_t\mathcal{M}_{\text{quantum}}$$
    
-   Where $`\alpha_t`$ increases gradually over time.
+   Where $\alpha_t$ increases gradually over time.
 
 2. **Multi-layer Evidence Framework**:  
    $$E_{\text{total}} = w_C E_{\text{classical}} + w_Q E_{\text{quantum}} + w_I E_{\text{integrated}}$$
@@ -442,7 +442,7 @@ Near-term research priorities in quantum medicine:
 2. **Quantum Pharmacology**: Developing drugs that act on the quantum-classical interface  
    $$\mathcal{D}_{\text{drug}}(x,c,t) = \mathcal{D}_0(x) + \sum_i c_i f_i(x,t)$$
    
-   Where $`c_i`$ is drug concentration, and $`f_i`$ is the action function.
+   Where $c_i$ is drug concentration, and $f_i$ is the action function.
 
 3. **Personalized Quantum Medicine**: Treatment optimization based on individual quantum characteristics  
    $$\mathcal{T}_{\text{personalized}} = \arg\max_{\mathcal{T}} \langle\Psi_{\text{individual}}|\hat{H}_{\text{treatment}}(\mathcal{T})|\Psi_{\text{individual}}\rangle$$
@@ -473,7 +473,7 @@ Quantum medicine needs integration with multiple disciplines:
 3. **Quantum Information Medicine**: Quantum processing of medical information  
    $$I_Q(D:P) = S(\rho_D) + S(\rho_P) - S(\rho_{DP})$$
    
-   Where $`I_Q`$ is quantum mutual information, $`D`$ is diagnostic data, and $`P`$ is patient state.
+   Where $I_Q$ is quantum mutual information, $D$ is diagnostic data, and $P$ is patient state.
 
 ## Cross-disciplinary Integration
 

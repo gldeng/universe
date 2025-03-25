@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{Woolf}}: \Omega_Q^{\text{意识}} \xrightarrow{\text{文学创作}} \Omega_C^{\text{文本}}$$
 
-其中$`\Omega_Q^{\text{意识}}`$代表意识流动的量子可能性空间，$`\Omega_C^{\text{文本}}`$代表通过写作固化的经典确定性文本。
+其中$\Omega_Q^{\text{意识}}$代表意识流动的量子可能性空间，$\Omega_C^{\text{文本}}$代表通过写作固化的经典确定性文本。
 
 ### 历史影响
 
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, Woolf's writing can be expressed as:
 
 $$\mathcal{M}_{\text{Woolf}}: \Omega_Q^{\text{consciousness}} \xrightarrow{\text{literary creation}} \Omega_C^{\text{text}}$$
 
-Where $`\Omega_Q^{\text{consciousness}}`$ represents the quantum possibility space of consciousness flow, and $`\Omega_C^{\text{text}}`$ represents the classical deterministic text solidified through writing.
+Where $\Omega_Q^{\text{consciousness}}$ represents the quantum possibility space of consciousness flow, and $\Omega_C^{\text{text}}$ represents the classical deterministic text solidified through writing.
 
 ### Historical Impact
 

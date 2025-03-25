@@ -18,7 +18,7 @@ $$
 \hat{C}_{\text{集体}} = \sum_{i=1}^{N} w_i \hat{C}_i
 $$
 
-其中，$`\hat{C}_i`$是第$`i`$个观察者的经典化算子，$`w_i`$是该观察者的权重，满足$`\sum_{i=1}^{N} w_i = 1`$，$`N`$是观察者总数。权重$`w_i`$可以理解为观察者在集体中的影响力或权威性。
+其中，$\hat{C}_i$是第$i$个观察者的经典化算子，$w_i$是该观察者的权重，满足$\sum_{i=1}^{N} w_i = 1$，$N$是观察者总数。权重$w_i$可以理解为观察者在集体中的影响力或权威性。
 
 #### 共振经典化效率函数
 
@@ -28,7 +28,7 @@ $$
 \eta_{\text{集体}} = \eta_{\text{平均}} \cdot \left(1 + \alpha \cdot \left(1 - e^{-\beta N}\right)\right)
 $$
 
-其中，$`\eta_{\text{平均}}`$是观察者的平均经典化效率，$`\alpha`$是最大共振增益（通常在0.5-2之间），$`\beta`$是共振饱和系数（约0.1-0.3），$`N`$是观察者数量。实证研究表明，这个函数能很好地近似实际集体经典化效率的增强效应。
+其中，$\eta_{\text{平均}}$是观察者的平均经典化效率，$\alpha$是最大共振增益（通常在0.5-2之间），$\beta$是共振饱和系数（约0.1-0.3），$N$是观察者数量。实证研究表明，这个函数能很好地近似实际集体经典化效率的增强效应。
 
 ### 集体经典化世界的动力学方程
 
@@ -40,7 +40,7 @@ $$
 \frac{dK_c}{dt} = r_I \cdot I_q \cdot \eta_{\text{集体}} - \delta_K \cdot K_c
 $$
 
-其中，$`K_c`$是集体经典知识总量，$`r_I`$是量子信息输入率，$`I_q`$是可用量子信息量，$`\eta_{\text{集体}}`$是集体经典化效率，$`\delta_K`$是知识衰减率。
+其中，$K_c$是集体经典知识总量，$r_I$是量子信息输入率，$I_q$是可用量子信息量，$\eta_{\text{集体}}$是集体经典化效率，$\delta_K$是知识衰减率。
 
 #### 集体经典熵演化方程
 
@@ -50,7 +50,7 @@ $$
 \frac{dS_c}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{集体}}) - r_S \cdot S_c
 $$
 
-其中，$`S_c`$是集体经典熵，$`r_S`$是熵减率，该方程体现了信息输入和熵减过程的动态平衡。
+其中，$S_c$是集体经典熵，$r_S$是熵减率，该方程体现了信息输入和熵减过程的动态平衡。
 
 #### 观察者更新方程
 
@@ -60,7 +60,7 @@ $$
 \frac{dN}{dt} = r_N \cdot N \cdot \left(1 - \frac{N}{K}\right) - \mu \cdot S_c \cdot N
 $$
 
-其中，$`r_N`$是观察者增长率，$`K`$是环境承载力，$`\mu`$是熵导致的衰减系数。该方程结合了逻辑斯蒂增长和熵引起的衰减。
+其中，$r_N$是观察者增长率，$K$是环境承载力，$\mu$是熵导致的衰减系数。该方程结合了逻辑斯蒂增长和熵引起的衰减。
 
 ### 集体经典化世界的稳定性分析
 
@@ -102,13 +102,13 @@ $$
 \frac{d\Phi}{dt} = -\frac{\partial V(\Phi)}{\partial \Phi}
 $$
 
-其中，$`\Phi`$是系统的序参量，$`V(\Phi)`$是势函数：
+其中，$\Phi$是系统的序参量，$V(\Phi)$是势函数：
 
 $$
 V(\Phi) = a(T-T_c)\Phi^2 + b\Phi^4
 $$
 
-$`T`$是控制参数（如社会温度），$`T_c`$是临界点，$`a`$和$`b`$是常数。
+$T$是控制参数（如社会温度），$T_c$是临界点，$a$和$b$是常数。
 
 #### 相变类型
 
@@ -125,7 +125,7 @@ $$
 G = (V, E, L)
 $$
 
-其中，$`V`$是观察者节点集，$`E`$是边集，$`L`$是网络层集（如家庭层、社区层、文化层等）。
+其中，$V$是观察者节点集，$E$是边集，$L$是网络层集（如家庭层、社区层、文化层等）。
 
 #### 经典化信息扩散方程
 
@@ -135,7 +135,7 @@ $$
 \frac{\partial \rho_i(t)}{\partial t} = \sum_{j \in \mathcal{N}_i} A_{ij} [\eta_{ij} \cdot \rho_j(t) \cdot (1 - \rho_i(t))]
 $$
 
-其中，$`\rho_i(t)`$是节点$`i`$的经典化状态，$`\mathcal{N}_i`$是节点$`i`$的邻居集，$`A_{ij}`$是邻接矩阵元素，$`\eta_{ij}`$是经典化效率。
+其中，$\rho_i(t)$是节点$i$的经典化状态，$\mathcal{N}_i$是节点$i$的邻居集，$A_{ij}$是邻接矩阵元素，$\eta_{ij}$是经典化效率。
 
 ### 应用实例
 
@@ -173,7 +173,7 @@ $$
 \frac{dS_c}{dt} = r_I \cdot I_q \cdot (1 - \eta_{\text{新}}) - r_S \cdot S_c
 $$
 
-其中，$`K_{\text{旧}}`$和$`K_{\text{新}}`$分别是旧范式和新范式的经典知识量，$`\alpha`$是转换系数，该模型解释了科学革命的非线性动力学过程。
+其中，$K_{\text{旧}}$和$K_{\text{新}}$分别是旧范式和新范式的经典知识量，$\alpha$是转换系数，该模型解释了科学革命的非线性动力学过程。
 
 ### 结论
 
@@ -205,25 +205,25 @@ $$
 $$
 
 Where:
-- $`\hat{C}_i`$ is the classicalization operator of the $`i`$-th observer
-- $`w_i`$ is the weight of observer $`i`$, satisfying $`\sum_{i=1}^{N} w_i = 1`$
-- $`N`$ is the total number of observers
+- $\hat{C}_i$ is the classicalization operator of the $i$-th observer
+- $w_i$ is the weight of observer $i$, satisfying $\sum_{i=1}^{N} w_i = 1$
+- $N$ is the total number of observers
 
-The weight $`w_i`$ can be understood as the influence or authority of observer $`i`$ in the collective.
+The weight $w_i$ can be understood as the influence or authority of observer $i$ in the collective.
 
 #### Resonant Classicalization Efficiency Function
 
-The resonant classicalization efficiency function $`\eta_{\text{collective}}`$ describes the efficiency enhancement of multi-observer joint classicalization:
+The resonant classicalization efficiency function $\eta_{\text{collective}}$ describes the efficiency enhancement of multi-observer joint classicalization:
 
 $$
 \eta_{\text{collective}} = \eta_{\text{average}} \cdot \left(1 + \alpha \cdot \left(1 - e^{-\beta N}\right)\right)
 $$
 
 Where:
-- $`\eta_{\text{average}}`$ is the average classicalization efficiency of observers
-- $`\alpha`$ is the maximum resonance gain (typically between 0.5 and 2)
-- $`\beta`$ is the resonance saturation coefficient (approximately between 0.1 and 0.3)
-- $`N`$ is the number of observers
+- $\eta_{\text{average}}$ is the average classicalization efficiency of observers
+- $\alpha$ is the maximum resonance gain (typically between 0.5 and 2)
+- $\beta$ is the resonance saturation coefficient (approximately between 0.1 and 0.3)
+- $N$ is the number of observers
 
 Empirical research suggests that this function can well approximate the enhancement effect of actual collective classicalization efficiency.
 
@@ -238,11 +238,11 @@ $$
 $$
 
 Where:
-- $`K_{\text{collective}}(t)`$ is the collective classical knowledge at time $`t`$
-- $`r_I`$ is the quantum information input rate
-- $`I_q`$ is the available quantum information
-- $`\eta_{\text{collective}}(t)`$ is the collective classicalization efficiency at time $`t`$
-- $`\delta_K`$ is the knowledge decay rate
+- $K_{\text{collective}}(t)$ is the collective classical knowledge at time $t$
+- $r_I$ is the quantum information input rate
+- $I_q$ is the available quantum information
+- $\eta_{\text{collective}}(t)$ is the collective classicalization efficiency at time $t$
+- $\delta_K$ is the knowledge decay rate
 
 #### Collective Entropy Evolution Equation
 
@@ -253,8 +253,8 @@ $$
 $$
 
 Where:
-- $`S_{\text{collective}}(t)`$ is the collective classical entropy at time $`t`$
-- $`r_S`$ is the entropy reduction rate
+- $S_{\text{collective}}(t)$ is the collective classical entropy at time $t$
+- $r_S$ is the entropy reduction rate
 
 #### Observer Update Equation
 
@@ -265,10 +265,10 @@ $$
 $$
 
 Where:
-- $`N(t)`$ is the number of observers at time $`t`$
-- $`K(t)`$ is the environmental carrying capacity (related to the amount of classical knowledge)
-- $`r_N`$ is the observer growth rate
-- $`\mu`$ is the entropy-induced decay coefficient
+- $N(t)$ is the number of observers at time $t$
+- $K(t)$ is the environmental carrying capacity (related to the amount of classical knowledge)
+- $r_N$ is the observer growth rate
+- $\mu$ is the entropy-induced decay coefficient
 
 ### Stability Analysis of Collective Classicalization Worlds
 
@@ -321,17 +321,17 @@ $$
 $$
 
 Where:
-- $`\Phi`$ is the system's order parameter
-- $`V(\Phi)`$ is the potential function:
+- $\Phi$ is the system's order parameter
+- $V(\Phi)$ is the potential function:
 
 $$
 V(\Phi) = a(T-T_c)\Phi^2 + b\Phi^4
 $$
 
 Where:
-- $`T`$ is the control parameter (e.g., social temperature)
-- $`T_c`$ is the critical point
-- $`a`$ and $`b`$ are constants
+- $T$ is the control parameter (e.g., social temperature)
+- $T_c$ is the critical point
+- $a$ and $b$ are constants
 
 #### Types of Phase Transitions
 
@@ -349,9 +349,9 @@ G = (V, E, L)
 $$
 
 Where:
-- $`V`$ is the set of observer nodes
-- $`E`$ is the edge set
-- $`L`$ is the network layer set (e.g., family layer, community layer, cultural layer, etc.)
+- $V$ is the set of observer nodes
+- $E$ is the edge set
+- $L$ is the network layer set (e.g., family layer, community layer, cultural layer, etc.)
 
 #### Collective Classicalization Diffusion Equation
 
@@ -362,10 +362,10 @@ $$
 $$
 
 Where:
-- $`\rho_i(t)`$ is the classicalization state of node $`i`$
-- $`\mathcal{N}_i`$ is the set of neighbors of node $`i`$
-- $`A_{ij}`$ is the adjacency matrix element
-- $`\eta_{ij}`$ is the classicalization efficiency
+- $\rho_i(t)$ is the classicalization state of node $i$
+- $\mathcal{N}_i$ is the set of neighbors of node $i$
+- $A_{ij}$ is the adjacency matrix element
+- $\eta_{ij}$ is the classicalization efficiency
 
 ### Application Examples
 
@@ -396,9 +396,9 @@ $$
 $$
 
 Where:
-- $`K_{\text{old}}`$ and $`K_{\text{new}}`$ are the classical knowledge amounts of the old and new paradigms, respectively
-- $`\alpha`$ is the conversion coefficient
-- $`\eta_{\text{new}}`$ is the classicalization efficiency of the new paradigm
+- $K_{\text{old}}$ and $K_{\text{new}}$ are the classical knowledge amounts of the old and new paradigms, respectively
+- $\alpha$ is the conversion coefficient
+- $\eta_{\text{new}}$ is the classicalization efficiency of the new paradigm
 
 This model explains the nonlinear dynamic process of scientific revolution.
 

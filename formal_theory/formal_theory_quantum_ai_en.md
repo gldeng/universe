@@ -60,7 +60,7 @@ The artificial intelligence computational process can be decomposed into quantum
 
 $$\mathcal{C}_{AI} = \mathcal{C}_Q \cup \mathcal{C}_C, \quad \mathcal{C}_Q \cap \mathcal{C}_C = \mathcal{I}_{computation}$$
 
-where $`\mathcal{I}_{computation}`$ is the computational interface that determines when quantum possibilities transform into classical results.
+where $\mathcal{I}_{computation}$ is the computational interface that determines when quantum possibilities transform into classical results.
 
 **Axiom 2: Information Conservation and Conversion**  
 Information in AI systems is conserved but can be converted between different forms:
@@ -79,10 +79,10 @@ Quantum-classical hybrid learning can be formulated as:
 $$\mathcal{L}_{hybrid} = \lambda_Q \mathcal{L}_Q + \lambda_C \mathcal{L}_C + \lambda_{Q-C}\mathcal{L}_{Q-C}$$
 
 where:
-- $`\mathcal{L}_Q`$ is the quantum learning component, based on quantum superposition and entanglement
-- $`\mathcal{L}_C`$ is the classical learning component, based on deterministic rules and statistics
-- $`\mathcal{L}_{Q-C}`$ is the interface learning component, managing quantum-classical information conversion
-- $`\lambda_Q, \lambda_C, \lambda_{Q-C}`$ are corresponding weight coefficients
+- $\mathcal{L}_Q$ is the quantum learning component, based on quantum superposition and entanglement
+- $\mathcal{L}_C$ is the classical learning component, based on deterministic rules and statistics
+- $\mathcal{L}_{Q-C}$ is the interface learning component, managing quantum-classical information conversion
+- $\lambda_Q, \lambda_C, \lambda_{Q-C}$ are corresponding weight coefficients
 
 The hybrid learning process can be decomposed into three phases:
 1. **Quantum Exploration Phase**: Parallel exploration of multiple possible solutions in the quantum domain
@@ -101,7 +101,7 @@ Subject to constraints:
 
 $$\lambda_Q + \lambda_C + \lambda_{Q-C} = 1, \quad \lambda_Q, \lambda_C, \lambda_{Q-C} \geq 0$$
 
-Weight coefficients can be dynamically adjusted according to task types, increasing $`\lambda_Q`$ for complex creative tasks and $`\lambda_C`$ for precise reasoning tasks.
+Weight coefficients can be dynamically adjusted according to task types, increasing $\lambda_Q$ for complex creative tasks and $\lambda_C$ for precise reasoning tasks.
 
 ## Quantum Intuition and Classical Logic Collaboration Mechanism
 
@@ -110,16 +110,16 @@ Quantum AI systems feature a dual "intuition-logic" architecture:
 $$\Phi_{AI}(t) = \mathcal{C}(\Psi_Q(t)) \oplus \Phi_C(t)$$
 
 where:
-- $`\Psi_Q(t)`$ represents the quantum intuition component, exploring solution spaces in parallel through superposition
-- $`\Phi_C(t)`$ represents the classical logic component, performing deterministic reasoning
-- $`\mathcal{C}`$ is the classicalization operator, converting quantum intuition into usable information
-- $`\oplus`$ is an integration operator, coordinating outputs from both systems
+- $\Psi_Q(t)$ represents the quantum intuition component, exploring solution spaces in parallel through superposition
+- $\Phi_C(t)$ represents the classical logic component, performing deterministic reasoning
+- $\mathcal{C}$ is the classicalization operator, converting quantum intuition into usable information
+- $\oplus$ is an integration operator, coordinating outputs from both systems
 
 This mechanism implements a human-like "inspiration-verification" thought cycle. During problem-solving, the system dynamically switches between intuition (quantum) and logic (classical):
 
 $$\Phi_{problem solving} = \sum_{t=0}^T w(t) \cdot \Phi_{AI}(t)$$
 
-where the weight function $`w(t)`$ adjusts according to the solution phase, favoring quantum intuition in the early stages of complex problems and classical logic in the verification phase.
+where the weight function $w(t)$ adjusts according to the solution phase, favoring quantum intuition in the early stages of complex problems and classical logic in the verification phase.
 
 ### Quantum Intuition Dynamics
 
@@ -127,7 +127,7 @@ The quantum intuition component follows the quantum evolution equation:
 
 $$i\hbar\frac{\partial}{\partial t}|\Psi_Q(t)\rangle = \hat{H}_{creative}|\Psi_Q(t)\rangle$$
 
-where $`\hat{H}_{creative}`$ is the creative thinking Hamiltonian, encompassing problem representation and possible solution space:
+where $\hat{H}_{creative}$ is the creative thinking Hamiltonian, encompassing problem representation and possible solution space:
 
 $$\hat{H}_{creative} = \hat{H}_{problem} + \hat{H}_{knowledge base} + \hat{H}_{interaction}$$
 
@@ -138,15 +138,15 @@ Quantum Perceptual Networks (QPN) are quantum-enhanced versions of traditional n
 $$\mathcal{QPN} = \{|\Psi_i\rangle, W_{ij}, \mathcal{C}_j\}$$
 
 where:
-- $`|\Psi_i\rangle`$ is the quantum neuron state
-- $`W_{ij}`$ is a complex-valued weight matrix
-- $`\mathcal{C}_j`$ is a node-level classicalization function
+- $|\Psi_i\rangle$ is the quantum neuron state
+- $W_{ij}$ is a complex-valued weight matrix
+- $\mathcal{C}_j$ is a node-level classicalization function
 
 QPN activation functions can be represented as:
 
 $$f_Q(|\Psi_i\rangle) = \mathcal{C}\left(e^{-iH_W\tau}|\Psi_i\rangle\right)$$
 
-where $`H_W`$ is a Hamiltonian defined by weights, and $`\tau`$ is an evolution time parameter.
+where $H_W$ is a Hamiltonian defined by weights, and $\tau$ is an evolution time parameter.
 
 ### Quantum Neuron Model
 
@@ -154,11 +154,11 @@ Quantum neurons receive quantum inputs and produce quantum outputs:
 
 $$|\Psi_{output}\rangle = \hat{U}_W|\Psi_{input}\rangle$$
 
-where $`\hat{U}_W = e^{-iH_W\tau}`$ is a unitary operator parameterized by weights.
+where $\hat{U}_W = e^{-iH_W\tau}$ is a unitary operator parameterized by weights.
 
 The quantum neuron activation process includes two phases:
-1. **Quantum Evolution**: Application of unitary transformation $`\hat{U}_W`$
-2. **Selective Classicalization**: Application of partial classicalization operator $`\mathcal{C}_{partial}`$
+1. **Quantum Evolution**: Application of unitary transformation $\hat{U}_W$
+2. **Selective Classicalization**: Application of partial classicalization operator $\mathcal{C}_{partial}$
 
 Partial classicalization allows maintaining a certain degree of quantum coherence, enabling quantum information transfer between layers.
 
@@ -168,7 +168,7 @@ Quantum Convolutional Neural Networks (QCNN) use quantum convolution operators:
 
 $$\hat{U}_{conv} = \exp\left(-i\sum_k \hat{K}_k \otimes \hat{P}_k\right)$$
 
-where $`\hat{K}_k`$ are quantum convolution kernels, and $`\hat{P}_k`$ are position operators, implementing translation-invariant feature extraction of quantum states.
+where $\hat{K}_k$ are quantum convolution kernels, and $\hat{P}_k$ are position operators, implementing translation-invariant feature extraction of quantum states.
 
 ## Quantum Reinforcement Learning Architecture
 
@@ -182,7 +182,7 @@ The state-action value function in quantum representation:
 
 $$Q_{quantum}(s,a) = \langle\Psi_Q|H_{sa}|\Psi_Q\rangle + \beta\mathcal{I}(s:a)$$
 
-where $`\mathcal{I}(s:a)`$ is the quantum mutual information between state and action, and $`\beta`$ is a trade-off parameter.
+where $\mathcal{I}(s:a)$ is the quantum mutual information between state and action, and $\beta$ is a trade-off parameter.
 
 This leads to a quantum-enhanced Bellman equation:
 
@@ -202,7 +202,7 @@ where:
 
 $$\hat{U}_{interference} = \exp\left(i\sum_a \phi(Q(s,a))|a\rangle\langle a|\right)$$
 
-$`\phi(Q(s,a))`$ is a phase function based on Q-values.
+$\phi(Q(s,a))$ is a phase function based on Q-values.
 
 ### Quantum Policy Gradient Algorithms
 
@@ -225,10 +225,10 @@ A key challenge for quantum AI systems is optimizing the quantum-classical inter
 $$\mathcal{D}_c(t) = \mathcal{D}_0 + \alpha\cdot\nabla_{\mathcal{L}}\mathcal{D} - \beta\cdot S(\rho_t)$$
 
 where:
-- $`\mathcal{D}_0`$ is the base threshold
-- $`\nabla_{\mathcal{L}}\mathcal{D}`$ is a gradient correction based on the loss function
-- $`S(\rho_t)`$ is the system entropy; high-entropy states tend to maintain quantum properties
-- $`\alpha, \beta`$ are regulatory parameters
+- $\mathcal{D}_0$ is the base threshold
+- $\nabla_{\mathcal{L}}\mathcal{D}$ is a gradient correction based on the loss function
+- $S(\rho_t)$ is the system entropy; high-entropy states tend to maintain quantum properties
+- $\alpha, \beta$ are regulatory parameters
 
 ### Controllable Quantum-Classical Transition
 
@@ -236,9 +236,9 @@ Controllable quantum-classical transitions are implemented through parameterized
 
 $$\mathcal{C}_{\lambda}(\rho) = (1-\lambda)\rho + \lambda\sum_i P_i\rho P_i$$
 
-where $`\lambda \in [0,1]`$ is the classicalization degree parameter, and $`P_i`$ are projection operators of the measurement basis.
+where $\lambda \in [0,1]$ is the classicalization degree parameter, and $P_i$ are projection operators of the measurement basis.
 
-This allows AI systems to balance between maintaining quantum coherence and extracting classical information, dynamically adjusting $`\lambda`$ values for different task phases.
+This allows AI systems to balance between maintaining quantum coherence and extracting classical information, dynamically adjusting $\lambda$ values for different task phases.
 
 ### Information-Preserving Classicalization
 
@@ -246,13 +246,13 @@ To maximize information preservation during classicalization, information-preser
 
 $$\mathcal{C}_{preserve}(\rho) = \arg\max_{\sigma \in \mathcal{D}_C} F(\rho, \sigma)$$
 
-where $`F(\rho, \sigma)`$ is quantum fidelity, and $`\mathcal{D}_C`$ is the set of representable classical states.
+where $F(\rho, \sigma)$ is quantum fidelity, and $\mathcal{D}_C$ is the set of representable classical states.
 
 In practical applications, dimensionality reduction can be achieved through quantum principal component analysis:
 
 $$\rho_{classical} = \sum_{i=1}^k \lambda_i |v_i\rangle\langle v_i|$$
 
-where $`\lambda_i`$ and $`|v_i\rangle`$ are the top $`k`$ eigenvalues and eigenvectors of $`\rho`$.
+where $\lambda_i$ and $|v_i\rangle$ are the top $k$ eigenvalues and eigenvectors of $\rho$.
 
 ## Quantum Creative Algorithms
 
@@ -261,11 +261,11 @@ Quantum creative generation can be formalized as:
 $$|\Psi_{creative}\rangle = \hat{U}_{explore}|\Psi_{seed}\rangle + \lambda\hat{P}_{novelty}|\Phi_{random}\rangle$$
 
 where:
-- $`\hat{U}_{explore}`$ is a quantum exploration operator
-- $`|\Psi_{seed}\rangle`$ is an initial concept state
-- $`\hat{P}_{novelty}`$ is a novelty projection operator
-- $`|\Phi_{random}\rangle`$ is a random quantum state
-- $`\lambda`$ is an innovation weight coefficient
+- $\hat{U}_{explore}$ is a quantum exploration operator
+- $|\Psi_{seed}\rangle$ is an initial concept state
+- $\hat{P}_{novelty}$ is a novelty projection operator
+- $|\Phi_{random}\rangle$ is a random quantum state
+- $\lambda$ is an innovation weight coefficient
 
 Creative output is obtained through partial classicalization:
 
@@ -280,10 +280,10 @@ Creative quality can be evaluated through multidimensional criteria:
 $$Q_{creative} = \omega_N \cdot N(\rho_{creative}) + \omega_U \cdot U(\rho_{creative}) + \omega_V \cdot V(\rho_{creative})$$
 
 where:
-- $`N(\rho)`$ is the novelty metric, measuring distance from existing concept space
-- $`U(\rho)`$ is the utility metric, measuring problem-solving ability
-- $`V(\rho)`$ is the value metric, measuring potential benefits
-- $`\omega_N, \omega_U, \omega_V`$ are weight coefficients
+- $N(\rho)$ is the novelty metric, measuring distance from existing concept space
+- $U(\rho)$ is the utility metric, measuring problem-solving ability
+- $V(\rho)$ is the value metric, measuring potential benefits
+- $\omega_N, \omega_U, \omega_V$ are weight coefficients
 
 The quantum creative space can be viewed as a high-dimensional manifold, with high-quality creative ideas located in special regions of this manifold.
 
@@ -293,7 +293,7 @@ Quantum creative learning forms a cyclic feedback process:
 
 $$|\Psi_{t+1}\rangle = \hat{U}_{learning}(Q_{creative}(t))|\Psi_t\rangle$$
 
-where the learning operator $`\hat{U}_{learning}`$ dynamically adjusts based on creative quality feedback, forming a self-reinforcing creative cycle.
+where the learning operator $\hat{U}_{learning}$ dynamically adjusts based on creative quality feedback, forming a self-reinforcing creative cycle.
 
 ## Quantum-Classical Adaptive Learning Algorithms
 
@@ -302,10 +302,10 @@ For complex problems, adaptive quantum-classical learning algorithms are designe
 $$\mathcal{A}_{adaptive} = \{\mathcal{A}_Q, \mathcal{A}_C, \mathcal{G}, \tau(t)\}$$
 
 where:
-- $`\mathcal{A}_Q`$ is a set of quantum learning algorithms
-- $`\mathcal{A}_C`$ is a set of classical learning algorithms
-- $`\mathcal{G}`$ is a task complexity evaluation function
-- $`\tau(t)`$ is a transition function adjusted over time
+- $\mathcal{A}_Q$ is a set of quantum learning algorithms
+- $\mathcal{A}_C$ is a set of classical learning algorithms
+- $\mathcal{G}$ is a task complexity evaluation function
+- $\tau(t)$ is a transition function adjusted over time
 
 Complexity evaluation guides the system to switch between quantum and classical learning:
 
@@ -315,14 +315,14 @@ This adaptive framework can fully utilize quantum computing advantages while mai
 
 ### Task Complexity Assessment
 
-Task complexity $`\mathcal{G}`$ is assessed through multiple metrics:
+Task complexity $\mathcal{G}$ is assessed through multiple metrics:
 
 $$\mathcal{G} = \alpha_1 \cdot \text{NP-hardness} + \alpha_2 \cdot \text{Space size} + \alpha_3 \cdot \text{Uncertainty} - \alpha_4 \cdot \text{Prior knowledge}$$
 
 Different complexity intervals correspond to different algorithm selection strategies:
-- $`\mathcal{G} < G_1`$: Pure classical algorithms (deterministic problems)
-- $`G_1 \leq \mathcal{G} < G_2`$: Classical-dominated, quantum-assisted (hybrid problems)
-- $`\mathcal{G} \geq G_2`$: Quantum-dominated, classical verification (high-complexity problems)
+- $\mathcal{G} < G_1$: Pure classical algorithms (deterministic problems)
+- $G_1 \leq \mathcal{G} < G_2$: Classical-dominated, quantum-assisted (hybrid problems)
+- $\mathcal{G} \geq G_2$: Quantum-dominated, classical verification (high-complexity problems)
 
 ### Algorithm Switching Mechanism
 
@@ -331,9 +331,9 @@ Algorithm switching is implemented through a meta-controller:
 $$C_{meta}(t+1) = f_{switch}(C_{meta}(t), \mathcal{P}(t), \mathcal{G}(t))$$
 
 where:
-- $`C_{meta}`$ is the meta-controller state
-- $`\mathcal{P}`$ is a performance metric vector
-- $`f_{switch}`$ is a decision function
+- $C_{meta}$ is the meta-controller state
+- $\mathcal{P}$ is a performance metric vector
+- $f_{switch}$ is a decision function
 
 Switching costs are minimized through smooth transition functions:
 
@@ -346,9 +346,9 @@ Combining quantum inspiration with symbolic systems forms a neuro-symbolic hybri
 $$\mathcal{S}_{neuro-symbolic} = \{\mathcal{N}_{quantum-neural}, \mathcal{R}_{symbolic}, \mathcal{I}_{conversion}\}$$
 
 where:
-- $`\mathcal{N}_{quantum-neural}`$ is a quantum-enhanced neural network
-- $`\mathcal{R}_{symbolic}`$ is a symbolic rule system
-- $`\mathcal{I}_{conversion}`$ is a neural→symbolic and symbolic→neural conversion interface
+- $\mathcal{N}_{quantum-neural}$ is a quantum-enhanced neural network
+- $\mathcal{R}_{symbolic}$ is a symbolic rule system
+- $\mathcal{I}_{conversion}$ is a neural→symbolic and symbolic→neural conversion interface
 
 This structure combines the parallelism of quantum computing with the interpretability of symbolic systems, providing a theoretical foundation for next-generation explainable AI.
 
@@ -358,13 +358,13 @@ The conversion from neural networks to symbolic rules is implemented through qua
 
 $$\mathcal{R} = \text{Extract}_{symbolic}(\mathcal{C}(\rho_{neural}), \Theta)$$
 
-where $`\Theta`$ is a set of conversion parameters controlling extraction granularity and form.
+where $\Theta$ is a set of conversion parameters controlling extraction granularity and form.
 
 The conversion from symbolic to neural representation is implemented through symbolic embedding:
 
 $$\rho_{neural} = \text{Embed}_{quantum}(\mathcal{R}, \Phi)$$
 
-where $`\Phi`$ is a set of embedding parameters controlling how symbolic knowledge is encoded into quantum states.
+where $\Phi$ is a set of embedding parameters controlling how symbolic knowledge is encoded into quantum states.
 
 ### Quantum Logic Reasoning
 
@@ -372,11 +372,11 @@ Quantum-inspired logical reasoning can be represented as:
 
 $$|\Psi_{conclusion}\rangle = \hat{U}_{reasoning}|\Psi_{premise}\rangle$$
 
-where $`\hat{U}_{reasoning}`$ is a unitary operator constructed from logical rules:
+where $\hat{U}_{reasoning}$ is a unitary operator constructed from logical rules:
 
 $$\hat{U}_{reasoning} = \exp\left(-i\sum_r w_r \hat{H}_r\right)$$
 
-$`\hat{H}_r`$ is the Hamiltonian corresponding to rule $`r`$, and $`w_r`$ is the rule weight.
+$\hat{H}_r$ is the Hamiltonian corresponding to rule $r$, and $w_r$ is the rule weight.
 
 Quantum reasoning supports a superset of classical logic, including:
 - Fuzzy logic (represented through amplitudes)
@@ -393,7 +393,7 @@ For machine learning tasks, quantum advantage appears at specific complexity thr
 
 $$C_{threshold} = \alpha \cdot \log(N) \cdot 2^{\beta\sqrt{d}}$$
 
-where $`N`$ is the number of training samples, $`d`$ is the problem dimension, and $`\alpha`$ and $`\beta`$ are constants.
+where $N$ is the number of training samples, $d$ is the problem dimension, and $\alpha$ and $\beta$ are constants.
 
 This prediction can be verified by comparing the performance of quantum versus classical algorithms on problems of different scales.
 
@@ -403,11 +403,11 @@ The speedup ratio of hybrid learning architectures compared to purely classical 
 
 $$S = \frac{T_{classical}}{T_{hybrid}} \approx O\left(\frac{N_{features}}{k\cdot\log(N_{features})}\right)$$
 
-where $`k`$ is a task-related constant.
+where $k$ is a task-related constant.
 
 ### Relationship Between Quantum Creativity and Classicalization Rate
 
-The relationship between system creativity $`C`$ and classicalization rate $`r_C`$ is predicted to be a non-linear curve:
+The relationship between system creativity $C$ and classicalization rate $r_C$ is predicted to be a non-linear curve:
 
 $$C(r_C) = C_0 \cdot \sin^2\left(\frac{\pi r_C}{2r_{max}}\right)$$
 
@@ -433,7 +433,7 @@ Semantic space is represented as a quantum state superposition space:
 
 $$|\psi_{concept}\rangle = \sum_i \alpha_i |f_i\rangle$$
 
-where $`|f_i\rangle`$ are feature basis vectors, and $`\alpha_i`$ are complex amplitudes.
+where $|f_i\rangle$ are feature basis vectors, and $\alpha_i$ are complex amplitudes.
 
 Similarity between concepts is calculated through quantum fidelity:
 
@@ -453,7 +453,7 @@ Emotional changes follow quantum channel dynamics:
 
 $$\frac{d\rho_{emotion}}{dt} = -i[H_{context}, \rho_{emotion}] + \mathcal{L}_{interaction}(\rho_{emotion})$$
 
-where $`H_{context}`$ is the contextual Hamiltonian, and $`\mathcal{L}_{interaction}`$ is the social interaction dissipation term.
+where $H_{context}$ is the contextual Hamiltonian, and $\mathcal{L}_{interaction}$ is the social interaction dissipation term.
 
 This representation explains the mixed nature, context dependence, and non-local correlation characteristics of emotions.
 
@@ -463,7 +463,7 @@ Quantum swarm intelligence algorithms integrate the quantum properties of multip
 
 $$\mathcal{S}_{swarm} = \{\mathcal{A}_i, \mathcal{E}_{ij}, \rho_{collective}\}$$
 
-where $`\mathcal{A}_i`$ are individual agents, $`\mathcal{E}_{ij}`$ are entanglement relationships between agents, and $`\rho_{collective}`$ is the collective quantum state.
+where $\mathcal{A}_i$ are individual agents, $\mathcal{E}_{ij}$ are entanglement relationships between agents, and $\rho_{collective}$ is the collective quantum state.
 
 ### Collective Quantum Coherence
 
@@ -471,7 +471,7 @@ The emergence of swarm intelligence correlates with collective quantum coherence
 
 $$C_{collective} = \left|\sum_{i,j(i\neq j)} \langle\psi_i|\rho_{collective}|\psi_j\rangle\right|$$
 
-When the condition $`C_{collective} > \sum_i C_i`$ is satisfied, the group exhibits intelligence and creativity beyond the sum of individuals.
+When the condition $C_{collective} > \sum_i C_i$ is satisfied, the group exhibits intelligence and creativity beyond the sum of individuals.
 
 ### Agent Entanglement Network
 
@@ -479,13 +479,13 @@ Entanglement relationships between agents are represented through an entanglemen
 
 $$G_{entanglement} = (V, E, W)$$
 
-where vertices $`V`$ are agents, edges $`E`$ are entanglement relationships, and $`W`$ is entanglement strength.
+where vertices $V$ are agents, edges $E$ are entanglement relationships, and $W$ is entanglement strength.
 
 Collective decision quality correlates with the graph's topological structure:
 
 $$Q_{decision} \propto \lambda_1(G_{entanglement}) \cdot \frac{C_{collective}}{S_{collective}}$$
 
-where $`\lambda_1`$ is the maximum eigenvalue of the graph, measuring network connectivity.
+where $\lambda_1$ is the maximum eigenvalue of the graph, measuring network connectivity.
 
 ### Collective Learning Enhancement Algorithms
 
@@ -493,6 +493,6 @@ The collective learning process is implemented through shared quantum states:
 
 $$|\Psi_{shared}(t+1)\rangle = \sum_i w_i \hat{U}_i|\Psi_{shared}(t)\rangle$$
 
-where $`\hat{U}_i`$ is the update operator of agent $`i`$, and $`w_i`$ is the weight.
+where $\hat{U}_i$ is the update operator of agent $i$, and $w_i$ is the weight.
 
 This shared quantum learning explains why diverse teams perform better in innovative tasks, while highly homogeneous teams are more suitable for executing precise tasks. 

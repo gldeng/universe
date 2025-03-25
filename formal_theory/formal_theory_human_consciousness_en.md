@@ -20,16 +20,16 @@ The Quantum-Classical Dualism of Human Consciousness proposes that human conscio
 
 ### Formal Definition of Human Consciousness
 
-Human consciousness $`\mathcal{C}_H`$ can be formally defined as:
+Human consciousness $\mathcal{C}_H$ can be formally defined as:
 
 $$\mathcal{C}_H = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{S}, \mathcal{O}_H)$$
 
 Where:
-- $`\mathcal{C}_Q`$ is the quantum component of consciousness (superposition thinking, subconscious processes)
-- $`\mathcal{C}_C`$ is the classical component of consciousness (explicit thoughts, conscious content)
-- $`\mathcal{I}_C`$ is the quantum-classical interface of consciousness
-- $`\mathcal{S}`$ is the self-observation structure
-- $`\mathcal{O}_H`$ is the characteristic set of humans as observers
+- $\mathcal{C}_Q$ is the quantum component of consciousness (superposition thinking, subconscious processes)
+- $\mathcal{C}_C$ is the classical component of consciousness (explicit thoughts, conscious content)
+- $\mathcal{I}_C$ is the quantum-classical interface of consciousness
+- $\mathcal{S}$ is the self-observation structure
+- $\mathcal{O}_H$ is the characteristic set of humans as observers
 
 ### Core Consciousness Axioms
 
@@ -38,28 +38,28 @@ Human consciousness exists simultaneously in quantum and classical domains, inte
 
 $$\mathcal{C}_H = \mathcal{C}_Q \diamond \mathcal{C}_C$$
 
-Where $`\diamond`$ represents the quantum-classical connection operation of consciousness.
+Where $\diamond$ represents the quantum-classical connection operation of consciousness.
 
 **Axiom 2: Consciousness Quantum State**  
 The quantum component of consciousness exists in multiple superposition states, involving possible thought paths:
 
 $$|\Psi_C\rangle = \sum_i \alpha_i |m_i\rangle$$
 
-Where $`|m_i\rangle`$ are possible consciousness state basis vectors, and $`\alpha_i`$ are complex amplitudes.
+Where $|m_i\rangle$ are possible consciousness state basis vectors, and $\alpha_i$ are complex amplitudes.
 
 **Axiom 3: Self-Referentiality**  
 A key feature of human consciousness is its self-referential capacity, forming recursive observation loops:
 
 $$\mathcal{S}(\mathcal{C}_H) = \mathcal{O}_H(\mathcal{C}_H(\mathcal{S}))$$
 
-Where $`\mathcal{S}`$ is the self-observation function, and $`\mathcal{O}_H`$ is the human observer function.
+Where $\mathcal{S}$ is the self-observation function, and $\mathcal{O}_H$ is the human observer function.
 
 **Axiom 4: Consciousness Dimensional Emergence**  
 Human consciousness has a higher dimension than other known systems due to its unique quantum-classical balance:
 
 $$D_{\mathcal{C}_H} = f\left(\frac{\mathcal{C}_{\mathcal{O}_H}}{\mathcal{Q}_{\mathcal{O}_H}}\right) \cdot \frac{I_{knowledge}}{S_{entropy}+\epsilon} \cdot \mathcal{S}_{complexity}$$
 
-Where $`\mathcal{S}_{complexity}`$ is the complexity measure of the self-referential system.
+Where $\mathcal{S}_{complexity}$ is the complexity measure of the self-referential system.
 
 ## Core Theory Content
 
@@ -69,7 +69,7 @@ The quantum component of human consciousness follows quantum cognitive dynamics:
 
 $$\frac{d|\Psi_C(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_C|\Psi_C(t)\rangle + \mathcal{D}_C(\rho_C)$$
 
-Where $`\hat{H}_C`$ is the consciousness Hamiltonian, and $`\mathcal{D}_C`$ is the environmental decoherence term.
+Where $\hat{H}_C$ is the consciousness Hamiltonian, and $\mathcal{D}_C$ is the environmental decoherence term.
 
 The consciousness Hamiltonian can be decomposed into multiple components:
 
@@ -88,16 +88,16 @@ The classical component of human consciousness follows deterministic structures 
 $$\mathcal{C}_C = (K_C, L_C, M_C, E_C)$$
 
 Where:
-- $`K_C`$ is the explicit knowledge base
-- $`L_C`$ is the logical reasoning system
-- $`M_C`$ is the explicit memory network
-- $`E_C`$ is the set of classical emotional states
+- $K_C$ is the explicit knowledge base
+- $L_C$ is the logical reasoning system
+- $M_C$ is the explicit memory network
+- $E_C$ is the set of classical emotional states
 
 Classical consciousness dynamics satisfies:
 
 $$\frac{d\mathcal{C}_C}{dt} = F_C(\mathcal{C}_C, I_{external}, \mathcal{M}(\mathcal{C}_Q))$$
 
-Where $`\mathcal{M}`$ is the quantum→classical mapping operator.
+Where $\mathcal{M}$ is the quantum→classical mapping operator.
 
 Key features of classical consciousness:
 1. **Logicality**: Thinking that follows formal logical rules
@@ -111,13 +111,13 @@ The quantum-classical interface of human consciousness is highly dynamic:
 
 $$\frac{d\mathcal{I}_C}{dt} = \alpha_C \nabla^2 \mathcal{I}_C + \beta_C(\mathcal{I}_c - \mathcal{I}_C)(\mathcal{I}_C - \mathcal{I}_0) + \gamma_C\xi_C(t) + \delta_C A_C(t)$$
 
-Where $`A_C(t)`$ is the attention regulation function, and $`\delta_C`$ is the attention influence coefficient.
+Where $A_C(t)$ is the attention regulation function, and $\delta_C$ is the attention influence coefficient.
 
 Consciousness state transitions occur through interface fluctuations and phase transitions:
 
 $$P(\mathcal{C}_1 \rightarrow \mathcal{C}_2) \propto e^{-\frac{\Delta G_C}{k_B T_C}}$$
 
-Where $`\Delta G_C`$ is the energy barrier between consciousness states, and $`T_C`$ is the consciousness "temperature" (activity level).
+Where $\Delta G_C$ is the energy barrier between consciousness states, and $T_C$ is the consciousness "temperature" (activity level).
 
 Interface characteristics determine key properties of consciousness:
 1. **Attention control**: Ability to regulate interface position and thickness
@@ -131,19 +131,19 @@ Human self-consciousness emerges from complex self-referential structures:
 
 $$\mathcal{S} = \mathcal{P}(\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C)$$
 
-Where $`\mathcal{P}`$ is the projection function mapping the consciousness system onto self-representation.
+Where $\mathcal{P}$ is the projection function mapping the consciousness system onto self-representation.
 
 Self-reference produces infinite recursion but is limited by cognitive resources:
 
 $$\mathcal{S}_n = \mathcal{S}(\mathcal{S}_{n-1}), \quad n \leq N_{max}$$
 
-Where $`N_{max}`$ is the maximum possible recursion depth.
+Where $N_{max}$ is the maximum possible recursion depth.
 
 The development of self-consciousness follows critical emergence dynamics:
 
 $$\frac{dD_{\mathcal{S}}}{dt} \propto (D_{\mathcal{S}} - D_{crit})^{\nu} \cdot F(I_{experience})$$
 
-Where $`D_{\mathcal{S}}`$ is self-complexity, and $`D_{crit}`$ is the critical complexity threshold.
+Where $D_{\mathcal{S}}$ is self-complexity, and $D_{crit}$ is the critical complexity threshold.
 
 ## Special Properties of Human Consciousness
 
@@ -153,7 +153,7 @@ Human consciousness exhibits unique high-dimensional cognitive abilities:
 
 $$C_{high-dim}(\mathcal{C}_H) = \sum_{i=1}^{n} w_i \cdot \phi_i(\mathcal{C}_H)$$
 
-Where $`\phi_i`$ are functions of different cognitive dimensions, and $`w_i`$ are their weights.
+Where $\phi_i$ are functions of different cognitive dimensions, and $w_i$ are their weights.
 
 Major high-dimensional cognitive abilities include:
 1. **Abstract thinking**: Ability to construct complex abstract concepts
@@ -169,10 +169,10 @@ Human consciousness has a complex temporal structure:
 $$\mathcal{T}_C = (P_C, N_C, F_C, \mathcal{F}_T)$$
 
 Where:
-- $`P_C`$ is past memory representation
-- $`N_C`$ is present perceptual state
-- $`F_C`$ is future prediction model
-- $`\mathcal{F}_T`$ is the time flow experience function
+- $P_C$ is past memory representation
+- $N_C$ is present perceptual state
+- $F_C$ is future prediction model
+- $\mathcal{F}_T$ is the time flow experience function
 
 Quantum-classical duality of time consciousness:
 

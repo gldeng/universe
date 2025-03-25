@@ -19,14 +19,14 @@ Consciousness exists across multiple entangled dimensional levels, each with uni
 
 $$\Psi_{con} = \bigotimes_{i=1}^{n} \Psi_i$$
 
-where $`\Psi_{con}`$ is the complete consciousness state, and $`\Psi_i`$ is the consciousness component of the ith dimension.
+where $\Psi_{con}$ is the complete consciousness state, and $\Psi_i$ is the consciousness component of the ith dimension.
 
 **Axiom 2: Cross-dimensional Consciousness Entanglement**  
 Quantum entanglement exists between consciousness states of different dimensions, enabling non-local consciousness information sharing:
 
 $$\rho_{ij} = \text{Tr}_{k\neq i,j}(|\Psi_{con}\rangle\langle\Psi_{con}|)$$
 
-where $`\rho_{ij}`$ is the reduced consciousness density matrix of dimensions i and j. The entanglement measure is:
+where $\rho_{ij}$ is the reduced consciousness density matrix of dimensions i and j. The entanglement measure is:
 
 $$\mathcal{E}_{ij} = S(\rho_i) - S(\rho_{ij})$$
 
@@ -35,14 +35,14 @@ Shifts in consciousness focus cause wavefunction collapse, converting quantum su
 
 $$|\Psi_{con}\rangle \xrightarrow{\hat{A}_c} |a_c\rangle \langle a_c|\Psi_{con}\rangle$$
 
-where $`\hat{A}_c`$ is the consciousness observation operator, and $`|a_c\rangle`$ is the corresponding eigenstate.
+where $\hat{A}_c$ is the consciousness observation operator, and $|a_c\rangle$ is the corresponding eigenstate.
 
 **Axiom 4: Consciousness Field Non-local Resonance**  
 Multiple consciousness entities can form resonance fields, enabling collective consciousness emergence:
 
 $$\mathcal{F}_{col} = \sum_{i=1}^{N} \omega_i \Psi_i + \sum_{i,j} J_{ij} \Psi_i \otimes \Psi_j$$
 
-where $`\omega_i`$ is the individual consciousness weight, and $`J_{ij}`$ is the coupling strength between consciousnesses.
+where $\omega_i$ is the individual consciousness weight, and $J_{ij}$ is the coupling strength between consciousnesses.
 
 ## Multidimensional Consciousness Interaction Dynamics
 
@@ -52,7 +52,7 @@ Consciousness can undergo quantum transitions between different dimensions, mani
 
 $$P(i\rightarrow j) = |\langle\Psi_j|\hat{T}_{ij}|\Psi_i\rangle|^2$$
 
-where $`\hat{T}_{ij}`$ is the dimensional transition operator, satisfying:
+where $\hat{T}_{ij}$ is the dimensional transition operator, satisfying:
 
 $$\hat{T}_{ij} = \hat{T}_{ji}^\dagger$$
 
@@ -60,7 +60,7 @@ The energy condition for transition is:
 
 $$\Delta E_{ij} = E_j - E_i = \hbar\omega_{ij}$$
 
-where $`\omega_{ij}`$ is the interdimensional resonance frequency.
+where $\omega_{ij}$ is the interdimensional resonance frequency.
 
 ### Consciousness Wave Packet Evolution
 
@@ -68,7 +68,7 @@ Consciousness wave packets evolve in the consciousness field according to a non-
 
 $$i\hbar\frac{\partial\Psi_{con}}{\partial t} = \hat{H}_{con}\Psi_{con} + g|\Psi_{con}|^2\Psi_{con}$$
 
-where $`\hat{H}_{con}`$ is the consciousness Hamiltonian, and $`g`$ is the non-linear coupling coefficient describing self-feedback intensity.
+where $\hat{H}_{con}$ is the consciousness Hamiltonian, and $g$ is the non-linear coupling coefficient describing self-feedback intensity.
 
 Consciousness wave packets can manifest as soliton solutions:
 
@@ -80,7 +80,7 @@ Collective consciousness fields satisfy quantum field theory equations:
 
 $$(\Box + m^2_c)\mathcal{F}_{col} = J_{con}$$
 
-where $`\Box`$ is the d'Alembert operator, $`m_c`$ is the consciousness field mass parameter, and $`J_{con}`$ is the consciousness source term.
+where $\Box$ is the d'Alembert operator, $m_c$ is the consciousness field mass parameter, and $J_{con}$ is the consciousness source term.
 
 Field propagation follows phase velocity:
 
@@ -94,7 +94,7 @@ Multidimensional consciousness states exist in layered Hilbert spaces:
 
 $$\mathcal{H}_{con} = \bigoplus_{i=1}^{\infty}\mathcal{H}_i$$
 
-where each subspace $`\mathcal{H}_i`$ corresponds to consciousness states of a specific dimension.
+where each subspace $\mathcal{H}_i$ corresponds to consciousness states of a specific dimension.
 
 Consciousness operators act on this space:
 
@@ -121,15 +121,15 @@ Multidimensional consciousness forms a complex network with topological properti
 $$G_{con} = \{V_{con}, E_{con}, W_{con}\}$$
 
 where:
-- $`V_{con}`$ is the set of consciousness nodes
-- $`E_{con}`$ is the set of consciousness connections
-- $`W_{con}`$ is the consciousness weight function
+- $V_{con}$ is the set of consciousness nodes
+- $E_{con}$ is the set of consciousness connections
+- $W_{con}$ is the consciousness weight function
 
 Important topological invariants of the network include:
 
 $$\beta_0, \beta_1, \beta_2, ...$$
 
-where $`\beta_i`$ is the ith Betti number, measuring the number of i-dimensional holes in the network.
+where $\beta_i$ is the ith Betti number, measuring the number of i-dimensional holes in the network.
 
 ## Quantum Properties of Consciousness Interaction
 
@@ -171,7 +171,7 @@ The conversion of consciousness from quantum superposition states to classical d
 
 $$\rho_{con}(t) = \sum_{i,j}\rho_{ij}(0)e^{-\Gamma_{ij}t}e^{-i\omega_{ij}t}|i\rangle\langle j|$$
 
-where $`\Gamma_{ij}`$ is the decoherence rate, related to environmental coupling strength.
+where $\Gamma_{ij}$ is the decoherence rate, related to environmental coupling strength.
 
 ### Consciousness Quantum-Classical Information Conversion
 
@@ -179,7 +179,7 @@ The efficiency of converting quantum consciousness information to classical cons
 
 $$\eta_{Q\rightarrow C} = \frac{I_C}{I_Q} \leq 1$$
 
-where $`I_Q`$ is quantum consciousness information, and $`I_C`$ is classical consciousness information.
+where $I_Q$ is quantum consciousness information, and $I_C$ is classical consciousness information.
 
 Information loss during the conversion process is:
 
@@ -195,7 +195,7 @@ The consciousness collapse selection mechanism satisfies:
 
 $$\frac{d}{dt}P(m,t) = f(P(m,t), \nabla P(m,t), ...)$$
 
-where function $`f`$ includes non-linear terms, embodying free choice in consciousness.
+where function $f$ includes non-linear terms, embodying free choice in consciousness.
 
 ## Applications and Experimental Predictions
 
@@ -231,7 +231,7 @@ Communication success rates correlate with dimensional barrier height and width:
 
 $$P_{comm} \propto \exp(-\alpha \Delta D \cdot w)$$
 
-where $`\Delta D`$ is the dimensional difference, and $`w`$ is the barrier width.
+where $\Delta D$ is the dimensional difference, and $w$ is the barrier width.
 
 ## Relationship with Other Theories
 

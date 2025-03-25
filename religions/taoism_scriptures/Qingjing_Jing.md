@@ -166,9 +166,9 @@ $$
 \text{"渐入真道"} \Leftrightarrow D_{\text{观察者}} = D_0 + \int_{t_0}^{t} \xi(t) \cdot Q(t) dt
 $$
 
-其中 $`\xi(t)`$ 表示清静状态的深度，$`Q(t)`$ 为量子经典转换效率
+其中 $\xi(t)$ 表示清静状态的深度，$Q(t)$ 为量子经典转换效率
 
-Where $`\xi(t)`$ represents the depth of clarity and stillness, and $`Q(t)`$ is the quantum-classical conversion efficiency
+Where $\xi(t)$ represents the depth of clarity and stillness, and $Q(t)$ is the quantum-classical conversion efficiency
 
 ## 结论
 ## Conclusion

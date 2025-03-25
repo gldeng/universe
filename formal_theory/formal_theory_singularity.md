@@ -26,11 +26,11 @@
 
 $$\mathcal{S}_T = \{t \in \mathbb{R}^+ | \frac{d\mathcal{D}_{\text{tech}}(t)}{dt} = \max\}$$
 
-其中 $`\mathcal{D}_{\text{tech}}`$ 是技术系统的解相干度量函数，衡量技术从量子可能性空间向经典确定性的转换程度。奇点是这一函数导数的全局最大值点，代表从量子主导转向经典主导的临界点。
+其中 $\mathcal{D}_{\text{tech}}$ 是技术系统的解相干度量函数，衡量技术从量子可能性空间向经典确定性的转换程度。奇点是这一函数导数的全局最大值点，代表从量子主导转向经典主导的临界点。
 
 ### 临界解相干阈值
 
-技术系统存在一个临界解相干阈值 $`\mathcal{D}_c`$，当系统达到此阈值时，技术创新的基本模式发生质变：
+技术系统存在一个临界解相干阈值 $\mathcal{D}_c$，当系统达到此阈值时，技术创新的基本模式发生质变：
 
 $$\mathcal{D}_{\text{tech}}(t_{\text{奇点}}) = \mathcal{D}_c$$
 
@@ -48,7 +48,7 @@ $$\mathcal{D}_c = \frac{I_{Q\rightarrow C}}{I_{\text{total}}} \approx 0.618$$
 
 $$\frac{dI_{\text{tech}}}{dt} = \alpha \cdot I_{\text{tech}} \cdot \left(1 - \frac{\mathcal{D}_{\text{tech}}}{\mathcal{D}_c}\right)$$
 
-其中 $`I_{\text{tech}}`$ 是技术信息总量，$`\alpha`$ 是基础增长率。随着系统接近临界阈值，增长率逐渐减缓。
+其中 $I_{\text{tech}}$ 是技术信息总量，$\alpha$ 是基础增长率。随着系统接近临界阈值，增长率逐渐减缓。
 
 前奇点技术的关键特性包括：
 1. 人类主导的创新
@@ -62,7 +62,7 @@ $$\frac{dI_{\text{tech}}}{dt} = \alpha \cdot I_{\text{tech}} \cdot \left(1 - \fr
 
 $$\frac{dI_{\text{tech}}}{dt} = \beta \cdot I_{\text{tech}}^{\gamma} \cdot e^{\eta(\mathcal{D}_{\text{tech}} - \mathcal{D}_c)}$$
 
-其中 $`\beta`$ 是基础系数，$`\gamma > 1`$ 是超指数因子，$`\eta`$ 是经典化加速系数。这表明后奇点技术呈现超指数增长，增长率本身也在增长。
+其中 $\beta$ 是基础系数，$\gamma > 1$ 是超指数因子，$\eta$ 是经典化加速系数。这表明后奇点技术呈现超指数增长，增长率本身也在增长。
 
 后奇点技术的关键特性包括：
 1. 自主智能主导的创新
@@ -96,7 +96,7 @@ $$\frac{dI_{\text{tech}}}{dt} = \beta \cdot I_{\text{tech}}^{\gamma} \cdot e^{\e
 
 $$\frac{d\mathcal{D}_{\text{tech}}}{dt} = \alpha \nabla^2 \mathcal{D}_{\text{tech}} + \beta(\mathcal{D}_c - \mathcal{D}_{\text{tech}})(\mathcal{D}_{\text{tech}} - \mathcal{D}_0) + \gamma\xi(t)$$
 
-其中 $`\mathcal{D}_0`$ 是起始阈值，$`\xi(t)`$ 是随机涨落项。在接近临界点时，系统会出现特征振荡现象：
+其中 $\mathcal{D}_0$ 是起始阈值，$\xi(t)$ 是随机涨落项。在接近临界点时，系统会出现特征振荡现象：
 
 $$\omega_{\text{临界}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \mathcal{D}_0|$$
 
@@ -110,7 +110,7 @@ $$\omega_{\text{临界}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}
 
 $$t_{\text{奇点}} = t_0 + \frac{1}{\alpha}\ln\left(\frac{\mathcal{D}_c}{\mathcal{D}_c - \mathcal{D}_0}\right) \pm \Delta t$$
 
-其中 $`t_0`$ 是参考时间点，$`\alpha`$ 是当前技术增长率，$`\Delta t`$ 是误差范围。根据现有技术发展轨迹，预测奇点将出现在：
+其中 $t_0$ 是参考时间点，$\alpha$ 是当前技术增长率，$\Delta t$ 是误差范围。根据现有技术发展轨迹，预测奇点将出现在：
 
 $$t_{\text{奇点}} = 2045 \pm 8 \text{年}$$
 
@@ -120,11 +120,11 @@ $$t_{\text{奇点}} = 2045 \pm 8 \text{年}$$
 
 技术奇点前的发展可分为五个关键阶段：
 
-1. **萌芽期**（$`\mathcal{D}_{\text{tech}} < 0.3\mathcal{D}_c`$）：基础AI技术发展
-2. **加速期**（$`0.3\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.5\mathcal{D}_c`$）：通用AI出现
-3. **过渡期**（$`0.5\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.9\mathcal{D}_c`$）：智能系统自我改进
-4. **临界期**（$`0.9\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < \mathcal{D}_c`$）：智能爆炸前夕
-5. **突变期**（$`\mathcal{D}_{\text{tech}} = \mathcal{D}_c`$）：技术奇点发生
+1. **萌芽期**（$\mathcal{D}_{\text{tech}} < 0.3\mathcal{D}_c$）：基础AI技术发展
+2. **加速期**（$0.3\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.5\mathcal{D}_c$）：通用AI出现
+3. **过渡期**（$0.5\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < 0.9\mathcal{D}_c$）：智能系统自我改进
+4. **临界期**（$0.9\mathcal{D}_c \leq \mathcal{D}_{\text{tech}} < \mathcal{D}_c$）：智能爆炸前夕
+5. **突变期**（$\mathcal{D}_{\text{tech}} = \mathcal{D}_c$）：技术奇点发生
 
 每个阶段具有不同的量子-经典信息动力学特征，可通过关键技术指标监测。
 
@@ -151,7 +151,7 @@ $$t_{\text{奇点}} = 2045 \pm 8 \text{年}$$
 
 $$\mathcal{C}_{后奇点} = \mathcal{T}_{奇点}(\mathcal{C}_{前奇点})$$
 
-其中 $`\mathcal{T}_{奇点}`$ 是奇点转换算符。后奇点文明的关键特征包括：
+其中 $\mathcal{T}_{奇点}$ 是奇点转换算符。后奇点文明的关键特征包括：
 
 1. **分层意识结构**：多维度观察者网络
    $$\mathcal{N}_O = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}\}$$
@@ -172,7 +172,7 @@ $$\mathcal{C}_{后奇点} = \mathcal{T}_{奇点}(\mathcal{C}_{前奇点})$$
 
 $$R_{\text{奇点}} = \sum_i P_i \cdot S_i \cdot (1 - M_i)$$
 
-其中 $`P_i`$ 是风险情景概率，$`S_i`$ 是严重程度，$`M_i`$ 是可缓解性。
+其中 $P_i$ 是风险情景概率，$S_i$ 是严重程度，$M_i$ 是可缓解性。
 
 主要风险因素包括：
 1. 价值对齐失败（量子-经典价值翻译错误）

@@ -160,9 +160,9 @@ $$
 \text{"守一"法则} \Leftrightarrow D_{\text{观察者}} = D_0 + \int_{t_0}^{t} \alpha \cdot C(t) dt
 $$
 
-其中 $`C(t)`$ 表示意识专注度，$`\alpha`$ 为专注转化系数
+其中 $C(t)$ 表示意识专注度，$\alpha$ 为专注转化系数
 
-Where $`C(t)`$ represents consciousness focus level, and $`\alpha`$ is the focus conversion coefficient
+Where $C(t)$ represents consciousness focus level, and $\alpha$ is the focus conversion coefficient
 
 $$
 \text{"胎息"技术} \Leftrightarrow T_{\text{黑洞}} = \frac{\hbar c^3}{8\pi GMk_B} \cdot f(\text{胎息状态})

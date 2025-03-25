@@ -34,23 +34,23 @@
 $$\mathcal{I} \simeq \mathcal{E} \simeq \mathcal{S}\mathcal{T}$$
 
 其中:
-- $`\mathcal{I}`$ 代表信息维度
-- $`\mathcal{E}`$ 代表能量维度
-- $`\mathcal{S}\mathcal{T}`$ 代表时空维度
+- $\mathcal{I}$ 代表信息维度
+- $\mathcal{E}$ 代表能量维度
+- $\mathcal{S}\mathcal{T}$ 代表时空维度
 
 ### 量子信息场
 
-量子信息场 $`\Phi_I`$ 是最基本的存在，其中信息以波函数形式表达：
+量子信息场 $\Phi_I$ 是最基本的存在，其中信息以波函数形式表达：
 
 $$\Phi_I(x,t) = \sum_i \alpha_i \phi_i(x,t)$$
 
-其中 $`\phi_i(x,t)`$ 是信息场的基态，$`\alpha_i`$ 是叠加系数。
+其中 $\phi_i(x,t)$ 是信息场的基态，$\alpha_i$ 是叠加系数。
 
 信息场的演化遵循量子信息动力学方程：
 
 $$i\hbar \frac{\partial \Phi_I}{\partial t} = \hat{H}_I \Phi_I$$
 
-其中 $`\hat{H}_I`$ 是信息哈密顿算符：
+其中 $\hat{H}_I$ 是信息哈密顿算符：
 
 $$\hat{H}_I = -\frac{\hbar^2}{2m_I} \nabla^2 + V_I(\mathcal{I}, \mathcal{E}, \mathcal{S}\mathcal{T})$$
 
@@ -63,10 +63,10 @@ $$\hat{H}_I = -\frac{\hbar^2}{2m_I} \nabla^2 + V_I(\mathcal{I}, \mathcal{E}, \ma
 $$\mathcal{R}_{\mu\nu} - \frac{1}{2}\mathcal{R}g_{\mu\nu} = \frac{8\pi G}{c^4}\mathcal{T}_{\mu\nu} = \kappa \cdot \nabla_{\mu}\nabla_{\nu}I_{\Omega}$$
 
 其中：
-- $`\mathcal{R}_{\mu\nu}`$ 为广义时空曲率张量
-- $`\mathcal{T}_{\mu\nu}`$ 为信息-能量张量
-- $`I_{\Omega}`$ 为区域 $`\Omega`$ 的信息密度场
-- $`\kappa`$ 为信息-时空耦合常数，理论预测 $`\kappa = \frac{8\pi G}{c^4} \cdot \frac{\hbar}{k_B \ln 2}`$
+- $\mathcal{R}_{\mu\nu}$ 为广义时空曲率张量
+- $\mathcal{T}_{\mu\nu}$ 为信息-能量张量
+- $I_{\Omega}$ 为区域 $\Omega$ 的信息密度场
+- $\kappa$ 为信息-时空耦合常数，理论预测 $\kappa = \frac{8\pi G}{c^4} \cdot \frac{\hbar}{k_B \ln 2}$
 
 ### 信息-量子场方程
 
@@ -74,7 +74,7 @@ $$\mathcal{R}_{\mu\nu} - \frac{1}{2}\mathcal{R}g_{\mu\nu} = \frac{8\pi G}{c^4}\m
 
 $$(\Box + m^2) \phi = \frac{\partial^2}{\partial I_{\mu}\partial I^{\mu}} \phi$$
 
-其中 $`I_{\mu}`$ 是信息四矢量，定义为：
+其中 $I_{\mu}$ 是信息四矢量，定义为：
 
 $$I_{\mu} = \left(\frac{I_t}{c}, \vec{I}\right)$$
 
@@ -88,7 +88,7 @@ $$\frac{\partial I^{\mu}}{\partial x^{\mu}} = 0$$
 
 $$I_{AB} = I_A + I_B + I_{纠缠}$$
 
-其中纠缠信息 $`I_{纠缠}`$ 可以瞬时传递，但受观察者经典化能力限制：
+其中纠缠信息 $I_{纠缠}$ 可以瞬时传递，但受观察者经典化能力限制：
 
 $$I_{可提取} = I_{纠缠} \cdot \eta(D_{\mathcal{O}})$$
 
@@ -104,11 +104,11 @@ $$g_{\mu\nu} = f\left(\langle\Psi|\hat{T}_{\mu\nu}|\Psi\rangle, \mathcal{N}_{连
 
 $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$$
 
-其中 $`h_{\mu\nu}`$ 是由纠缠网络结构产生的扰动项：
+其中 $h_{\mu\nu}$ 是由纠缠网络结构产生的扰动项：
 
 $$h_{\mu\nu} = \sum_{i,j} G_{ij} I_{ij} \cdot \frac{\partial x^i}{\partial x^\mu}\frac{\partial x^j}{\partial x^\nu}$$
 
-其中 $`G_{ij}`$ 是信息-几何耦合张量，$`I_{ij}`$ 是节点 $`i`$ 和节点 $`j`$ 之间的纠缠信息量。
+其中 $G_{ij}$ 是信息-几何耦合张量，$I_{ij}$ 是节点 $i$ 和节点 $j$ 之间的纠缠信息量。
 
 ### 纠缠网络与时空涌现
 
@@ -132,11 +132,11 @@ $$S_{纠缠}(A) \propto \frac{\text{Area}(\partial A)}{4G\hbar}$$
 
 $$E_{\Omega} = \hbar \omega \cdot I_{\Omega} \cdot \eta(D_{\mathcal{O}})$$
 
-其中 $`\eta(D_{\mathcal{O}})`$ 为观察者维度相关的转换效率函数：
+其中 $\eta(D_{\mathcal{O}})$ 为观察者维度相关的转换效率函数：
 
 $$\eta(D_{\mathcal{O}}) = 1 - e^{-\alpha D_{\mathcal{O}}}$$
 
-对于低维观察者（$`D_{\mathcal{O}} \ll 1`$），转换效率接近于零；对于高维观察者（$`D_{\mathcal{O}} \gg 1`$），转换效率接近于1。
+对于低维观察者（$D_{\mathcal{O}} \ll 1$），转换效率接近于零；对于高维观察者（$D_{\mathcal{O}} \gg 1$），转换效率接近于1。
 
 ### 朗道尔原理的推广
 
@@ -161,7 +161,7 @@ $$\frac{dS}{dt} = \mathcal{C}_{\mathcal{O}}(I_Q) \cdot D_{\mathcal{O}}$$
 1. **量子测量能耗**：量子测量过程中的能量消耗与获取的信息量满足：
    $$E_{测量} = k_B T \cdot \ln(2) \cdot I_{获取} \cdot f(T, \lambda)$$
    
-   其中 $`f(T, \lambda)`$ 是温度和测量设备复杂度的函数，预测为：
+   其中 $f(T, \lambda)$ 是温度和测量设备复杂度的函数，预测为：
    $$f(T, \lambda) \approx \left(1 - e^{-\lambda T}\right)$$
 
 2. **信息熵-引力实验**：局域信息熵变化应当导致可测量的引力场扰动：
@@ -172,7 +172,7 @@ $$\frac{dS}{dt} = \mathcal{C}_{\mathcal{O}}(I_Q) \cdot D_{\mathcal{O}}$$
 3. **量子纠缠能量**：纠缠过程中的能量变化与创建的纠缠信息满足：
    $$\Delta E_{纠缠} = \hbar \omega \cdot I_{纠缠} \cdot (1 + \delta(r_{AB}))$$
    
-   其中 $`\delta(r_{AB})`$ 是与纠缠粒子距离相关的修正项。
+   其中 $\delta(r_{AB})$ 是与纠缠粒子距离相关的修正项。
 
 ## 高维时空与信息结构
 

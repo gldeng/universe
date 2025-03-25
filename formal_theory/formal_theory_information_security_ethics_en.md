@@ -22,7 +22,7 @@ Information simultaneously possesses quantum characteristics (possibility, uncer
 
 $$\mathcal{I} = \{\Omega_Q^I, \Omega_C^I, \mathcal{B}^I\}$$
 
-where $`\Omega_Q^I`$ represents the quantum state space of information, $`\Omega_C^I`$ represents the classical state space of information, and $`\mathcal{B}^I`$ represents the quantum-classical information interface.
+where $\Omega_Q^I$ represents the quantum state space of information, $\Omega_C^I$ represents the classical state space of information, and $\mathcal{B}^I$ represents the quantum-classical information interface.
 
 ### Information Security Dual Conservation Principle
 
@@ -30,7 +30,7 @@ There exists a conservation relationship between the total security level of an 
 
 $$S_{\text{total}} \cdot F_{\text{info}} = k$$
 
-where $`S_{\text{total}}`$ is the overall security level of the system, $`F_{\text{info}}`$ is the degree of free information flow, and $`k`$ is a system characteristic constant. This indicates a trade-off between security and freedom, meaning both cannot be simultaneously increased without limit.
+where $S_{\text{total}}$ is the overall security level of the system, $F_{\text{info}}$ is the degree of free information flow, and $k$ is a system characteristic constant. This indicates a trade-off between security and freedom, meaning both cannot be simultaneously increased without limit.
 
 ### Privacy-Transparency Duality Principle
 
@@ -38,7 +38,7 @@ Privacy and transparency form a dialectical unity:
 
 $$P \cdot T = \eta \cdot I_{\text{total}}$$
 
-where $`P`$ represents the degree of privacy protection, $`T`$ represents transparency, $`I_{\text{total}}`$ is the total information in the system, and $`\eta`$ is an efficiency coefficient. This indicates a fundamental tension between privacy and transparency within a given information system.
+where $P$ represents the degree of privacy protection, $T$ represents transparency, $I_{\text{total}}$ is the total information in the system, and $\eta$ is an efficiency coefficient. This indicates a fundamental tension between privacy and transparency within a given information system.
 
 ### Ethical Decision Quantization Principle
 
@@ -46,7 +46,7 @@ The process of information ethics decision-making can be viewed as a quantum mea
 
 $$|\Psi_{\text{ethics}}\rangle = \sum_i \alpha_i |\text{choice}_i\rangle \xrightarrow{\text{decision}} |\text{choice}_j\rangle$$
 
-where $`|\Psi_{\text{ethics}}\rangle`$ is the superposition state before decision-making, containing multiple possible ethical choices, and the decision process is equivalent to wavefunction collapse.
+where $|\Psi_{\text{ethics}}\rangle$ is the superposition state before decision-making, containing multiple possible ethical choices, and the decision process is equivalent to wavefunction collapse.
 
 ## Theoretical Framework
 
@@ -70,13 +70,13 @@ where $`|\Psi_{\text{ethics}}\rangle`$ is the superposition state before decisio
 
    $$\Delta S \cdot \Delta A \geq \frac{\hbar_{\text{info}}}{2}$$
 
-   where $`\Delta S`$ is the uncertainty in security, $`\Delta A`$ is the uncertainty in accessibility, and $`\hbar_{\text{info}}`$ is a fundamental constant of the information system.
+   where $\Delta S$ is the uncertainty in security, $\Delta A$ is the uncertainty in accessibility, and $\hbar_{\text{info}}$ is a fundamental constant of the information system.
 
 4. **Information Security Observer Effect**: Observation (monitoring) behavior changes the security state of the observed system:
 
    $$S_{\text{post}} = \mathcal{M}(S_{\text{pre}})$$
 
-   where $`\mathcal{M}`$ is the observation operator, indicating that security monitoring itself changes system behavior.
+   where $\mathcal{M}$ is the observation operator, indicating that security monitoring itself changes system behavior.
 
 #### Classical Information Security Characteristics
 
@@ -120,13 +120,13 @@ The tension between individual privacy rights and social transparency can be ana
 
    $$K_{\text{social}} = \{(i_1, i_2, ..., i_n)_j\}$$
 
-   where $`i_k`$ represents publicly verifiable information points.
+   where $i_k$ represents publicly verifiable information points.
 
 3. **Privacy-Transparency Interface**: The conversion interface between personal privacy and social transparency:
 
    $$\mathcal{I}_{\text{priv-trans}} = \{x \in \mathcal{U} | P(x) = T(x)\}$$
 
-   where $`P(x)`$ is the privacy protection function, and $`T(x)`$ is the transparency function.
+   where $P(x)$ is the privacy protection function, and $T(x)$ is the transparency function.
 
 #### Dual Balance Between Security and Freedom
 
@@ -136,13 +136,13 @@ The ethical balance between security and freedom can be expressed as:
 
    $$F_{\text{freedom}} = F_0 - \int S(x) dx$$
 
-   where $`F_0`$ is the baseline degree of freedom, and $`S(x)`$ is the security measure intensity function.
+   where $F_0$ is the baseline degree of freedom, and $S(x)$ is the security measure intensity function.
 
 2. **Freedom Threat Function**: The threat of excessive freedom to security:
 
    $$S_{\text{security}} = S_0 - \beta \int F(x)^2 dx$$
 
-   where $`S_0`$ is the baseline security level, $`F(x)`$ is the freedom function, and $`\beta`$ is the threat coefficient.
+   where $S_0$ is the baseline security level, $F(x)$ is the freedom function, and $\beta$ is the threat coefficient.
 
 3. **Optimal Balance Point**: The optimal balance between the two lies at a specific interface:
 
@@ -170,7 +170,7 @@ Digital identity simultaneously possesses dual quantum and classical characteris
 
    $$M_{\text{identity}} = \begin{pmatrix} m_{11} & m_{12} & \cdots \\ m_{21} & m_{22} & \cdots \\ \vdots & \vdots & \ddots \end{pmatrix}$$
 
-   where element $`m_{ij}`$ represents the correlation between digital identity $`i`$ and physical identity attribute $`j`$.
+   where element $m_{ij}$ represents the correlation between digital identity $i$ and physical identity attribute $j$.
 
 ### Quantum-Classical Information Ethics Framework
 
@@ -210,13 +210,13 @@ Information ethics decision-making can be modeled as a quantum-classical hybrid 
 
    $$\hat{H}_{\text{ethics}} |\Psi_{\text{decision}}\rangle = \sum_i E_i \alpha_i |\text{option}_i\rangle$$
    
-   where $`\hat{H}_{\text{ethics}}`$ is the ethical evaluation operator, and $`E_i`$ is the ethical value of each option
+   where $\hat{H}_{\text{ethics}}$ is the ethical evaluation operator, and $E_i$ is the ethical value of each option
 
 3. **Classical Phase**: Determining the final decision and implementation
 
    $$D_{\text{final}} = \max_i \{E_i \cdot P_i\}$$
    
-   where $`P_i`$ is the feasibility of option $`i`$, and the final choice is the option with the maximum product of ethical value and feasibility
+   where $P_i$ is the feasibility of option $i$, and the final choice is the option with the maximum product of ethical value and feasibility
 
 ### Analysis of Special Digital Ethics Issues
 
@@ -226,7 +226,7 @@ Information ethics decision-making can be modeled as a quantum-classical hybrid 
 
    $$B_Q = \int \Psi_{\text{data}}^* \hat{B} \Psi_{\text{data}} d\tau$$
    
-   where $`\hat{B}`$ is the bias operator acting on the superposition state representation of data
+   where $\hat{B}$ is the bias operator acting on the superposition state representation of data
 
 2. **Classical-type Bias**: Stemming from systematic patterns in deterministic historical data:
 
@@ -238,7 +238,7 @@ Information ethics decision-making can be modeled as a quantum-classical hybrid 
 
    $$\Delta B = -(\alpha \cdot \Delta B_Q + \beta \cdot \Delta B_C)$$
    
-   where $`\alpha`$ and $`\beta`$ are regulation coefficients, with measures targeting quantum and classical biases respectively
+   where $\alpha$ and $\beta$ are regulation coefficients, with measures targeting quantum and classical biases respectively
 
 #### Dual Analysis of the Right to be Forgotten
 
@@ -258,7 +258,7 @@ Information ethics decision-making can be modeled as a quantum-classical hybrid 
 
    $$U_{\text{society}} = \alpha \cdot I_{\text{preservation value}} - \beta \cdot H_{\text{harm}}$$
    
-   where $`I_{\text{preservation value}}`$ is the value of preserving information, and $`H_{\text{harm}}`$ is the potential harm caused by information retention
+   where $I_{\text{preservation value}}$ is the value of preserving information, and $H_{\text{harm}}$ is the potential harm caused by information retention
 
 #### New Dimensions of Information Ethics in the Quantum Computing Era
 
@@ -272,13 +272,13 @@ Information ethics decision-making can be modeled as a quantum-classical hybrid 
 
    $$S_{\text{post-quantum}} \geq S_{\text{critical}} \cdot f(\text{quantum capability})$$
    
-   where $`S_{\text{critical}}`$ is the security baseline, and $`f(\text{quantum capability})`$ is the quantum computing capability function
+   where $S_{\text{critical}}$ is the security baseline, and $f(\text{quantum capability})$ is the quantum computing capability function
 
 3. **Quantum-Classical Ethical Coexistence**: Ethical coexistence of quantum and classical information systems:
 
    $$E_{\text{hybrid}} = w_Q \cdot E_Q + w_C \cdot E_C + w_I \cdot E_I$$
    
-   where $`E_Q`$, $`E_C`$, and $`E_I`$ are quantum, classical, and interface ethical frameworks respectively, and $`w`$ are weight coefficients
+   where $E_Q$, $E_C$, and $E_I$ are quantum, classical, and interface ethical frameworks respectively, and $w$ are weight coefficients
 
 ## Practical Applications and Case Analysis
 
@@ -290,7 +290,7 @@ Quantum-classical dualism-based information security ethics assessment framework
 
    $$R_{\text{total}} = \sqrt{R_Q^2 + R_C^2}$$
    
-   where $`R_Q`$ is quantum risk (uncertainty, innovation-related), and $`R_C`$ is classical risk (deterministic threats)
+   where $R_Q$ is quantum risk (uncertainty, innovation-related), and $R_C$ is classical risk (deterministic threats)
 
 2. **Ethical Impact Matrix**:
 
@@ -300,7 +300,7 @@ Quantum-classical dualism-based information security ethics assessment framework
    E_{IQ} & E_{IC} & E_{II}
    \end{pmatrix}$$
    
-   where element $`E_{XY}`$ represents the ethical impact of actions in domain $`X`$ on domain $`Y`$
+   where element $E_{XY}$ represents the ethical impact of actions in domain $X$ on domain $Y$
 
 3. **Ethical Decision Tree**:
    - Root node: Nature of the ethical issue (quantum/classical/hybrid)
@@ -330,19 +330,19 @@ Quantum-classical dualism-based information security ethics assessment framework
 
    $$S_{\text{situation}} = \{S_C, S_Q, \frac{\partial S_C}{\partial t}, \frac{\partial S_Q}{\partial t}\}$$
    
-   where $`S_C`$ and $`S_Q`$ are classical and quantum security states respectively, and the partial derivative terms represent change trends
+   where $S_C$ and $S_Q$ are classical and quantum security states respectively, and the partial derivative terms represent change trends
 
 2. **Ethical Adaptive Response Mechanism**: Response selection based on ethical principles:
 
    $$R_{\text{selection}} = \arg\max_R \{E(R) \cdot P_{\text{success}}(R) \cdot (1-H_{\text{harm}}(R))\}$$
    
-   where $`E(R)`$ is the ethical value of response $`R`$, $`P_{\text{success}}`$ is the probability of success, and $`H_{\text{harm}}`$ is potential harm
+   where $E(R)$ is the ethical value of response $R$, $P_{\text{success}}$ is the probability of success, and $H_{\text{harm}}$ is potential harm
 
 3. **Ethical Learning Loop**: System learns ethical patterns from past decisions:
 
    $$E_{t+1}(R) = E_t(R) + \eta \cdot (O_t - E_t(R))$$
    
-   where $`E_t(R)`$ is the ethical evaluation of response $`R`$ at time $`t`$, $`O_t`$ is the observed actual ethical outcome, and $`\eta`$ is the learning rate
+   where $E_t(R)$ is the ethical evaluation of response $R$ at time $t$, $O_t$ is the observed actual ethical outcome, and $\eta$ is the learning rate
 
 ## Future Development and Integration Paths
 

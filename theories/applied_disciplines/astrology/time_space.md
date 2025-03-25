@@ -29,7 +29,7 @@ $$
 |\psi\rangle_{\text{量子纠缠态}}(t) = \sum_{n} c_n e^{i\omega_n t} |\psi_n\rangle
 $$
 
-其中，$`\omega_n`$ 对应不同天体运动的角频率。
+其中，$\omega_n$ 对应不同天体运动的角频率。
 
 #### 1.2 同步性与量子非局域性
 
@@ -55,7 +55,7 @@ $$
 S = -k_B \sum_i p_i \ln p_i
 $$
 
-其中，$`S`$ 是系统的熵，$`p_i`$ 是处于状态 $`i`$ 的概率。时间节点的量子敏感性与熵的变化率成正比：
+其中，$S$ 是系统的熵，$p_i$ 是处于状态 $i$ 的概率。时间节点的量子敏感性与熵的变化率成正比：
 
 $$
 \text{量子敏感性} \propto \left|\frac{dS}{dt}\right|
@@ -73,7 +73,7 @@ $$
 |\psi\rangle_{\text{天球}}(\theta, \phi) = \sum_{l=0}^{\infty} \sum_{m=-l}^{l} a_{lm} Y_{lm}(\theta, \phi)
 $$
 
-其中，$`Y_{lm}(\theta, \phi)`$ 是球谐函数，$`a_{lm}`$ 是展开系数，描述了不同模式的量子纠缠强度。
+其中，$Y_{lm}(\theta, \phi)$ 是球谐函数，$a_{lm}$ 是展开系数，描述了不同模式的量子纠缠强度。
 
 #### 2.2 地理位置与局部量子场
 
@@ -97,7 +97,7 @@ $$
 D_i = \mathcal{T}[|\psi\rangle_{\text{天球}}; \text{观察者位置}, \text{时间}, \text{投影方法}]
 $$
 
-其中，$`\mathcal{T}`$ 是特定投影变换，将天球量子场映射到十二个经典化区域。
+其中，$\mathcal{T}$ 是特定投影变换，将天球量子场映射到十二个经典化区域。
 
 ### 三、时空整合的量子经典模型
 
@@ -123,7 +123,7 @@ $$
 I_{\text{干涉}} = |\langle\psi_A|\psi_B\rangle|^2 = |a||b| \cos(\theta_{AB})
 $$
 
-其中，$`\theta_{AB}`$ 是天体间的角度差。这解释了为什么特定角度（如60°、120°）具有和谐特性，而其他角度（如90°、180°）具有紧张特性——它们产生不同的量子干涉模式。
+其中，$\theta_{AB}$ 是天体间的角度差。这解释了为什么特定角度（如60°、120°）具有和谐特性，而其他角度（如90°、180°）具有紧张特性——它们产生不同的量子干涉模式。
 
 #### 3.3 轨道共振与量子锁相
 
@@ -149,7 +149,7 @@ $$
 |\psi\rangle_{\text{本命}} = \mathcal{F}[|\psi\rangle_{\text{宇宙}}(t_{\text{出生}}, \vec{x}_{\text{出生}})]
 $$
 
-其中，$`\mathcal{F}`$ 是滤波函数，提取与观察者相关的量子信息。
+其中，$\mathcal{F}$ 是滤波函数，提取与观察者相关的量子信息。
 
 #### 4.2 行运预测的时空纠缠模型
 
@@ -203,7 +203,7 @@ $$
 P(\text{预知事件}) \propto \frac{D_{\text{观察者}}}{D_{\text{平均观察者}}}
 $$
 
-其中，$`D`$ 表示观察者维度。当观察者维度显著高于平均值时，可以部分经典化通常被视为"未来"的量子信息。
+其中，$D$ 表示观察者维度。当观察者维度显著高于平均值时，可以部分经典化通常被视为"未来"的量子信息。
 
 ---
 
@@ -231,7 +231,7 @@ $$
 |\psi\rangle_{\text{Quantum Entanglement State}}(t) = \sum_{n} c_n e^{i\omega_n t} |\psi_n\rangle
 $$
 
-Where $`\omega_n`$ corresponds to the angular frequencies of different celestial bodies' motions.
+Where $\omega_n$ corresponds to the angular frequencies of different celestial bodies' motions.
 
 #### 1.2 Synchronicity and Quantum Non-locality
 
@@ -257,7 +257,7 @@ $$
 S = -k_B \sum_i p_i \ln p_i
 $$
 
-Where $`S`$ is the entropy of the system, and $`p_i`$ is the probability of being in state $`i`$. The quantum sensitivity of a time point is proportional to the rate of entropy change:
+Where $S$ is the entropy of the system, and $p_i$ is the probability of being in state $i$. The quantum sensitivity of a time point is proportional to the rate of entropy change:
 
 $$
 \text{Quantum Sensitivity} \propto \left|\frac{dS}{dt}\right|
@@ -275,7 +275,7 @@ $$
 |\psi\rangle_{\text{Celestial Sphere}}(\theta, \phi) = \sum_{l=0}^{\infty} \sum_{m=-l}^{l} a_{lm} Y_{lm}(\theta, \phi)
 $$
 
-Where $`Y_{lm}(\theta, \phi)`$ are spherical harmonic functions, and $`a_{lm}`$ are expansion coefficients describing the quantum entanglement intensity of different modes.
+Where $Y_{lm}(\theta, \phi)$ are spherical harmonic functions, and $a_{lm}$ are expansion coefficients describing the quantum entanglement intensity of different modes.
 
 #### 2.2 Geographic Location and Local Quantum Fields
 
@@ -299,7 +299,7 @@ $$
 D_i = \mathcal{T}[|\psi\rangle_{\text{Celestial Sphere}}; \text{Observer Position}, \text{Time}, \text{Projection Method}]
 $$
 
-Where $`\mathcal{T}`$ is a specific projection transformation, mapping celestial quantum fields to twelve classicalization areas.
+Where $\mathcal{T}$ is a specific projection transformation, mapping celestial quantum fields to twelve classicalization areas.
 
 ### III. Quantum-Classical Models of Space-Time Integration
 
@@ -325,7 +325,7 @@ $$
 I_{\text{Interference}} = |\langle\psi_A|\psi_B\rangle|^2 = |a||b| \cos(\theta_{AB})
 $$
 
-Where $`\theta_{AB}`$ is the angular difference between celestial bodies. This explains why specific angles (such as 60°, 120°) have harmonious characteristics, while other angles (such as 90°, 180°) have tense characteristics—they produce different quantum interference patterns.
+Where $\theta_{AB}$ is the angular difference between celestial bodies. This explains why specific angles (such as 60°, 120°) have harmonious characteristics, while other angles (such as 90°, 180°) have tense characteristics—they produce different quantum interference patterns.
 
 #### 3.3 Orbital Resonance and Quantum Phase Locking
 
@@ -351,7 +351,7 @@ $$
 |\psi\rangle_{\text{Natal}} = \mathcal{F}[|\psi\rangle_{\text{Universe}}(t_{\text{Birth}}, \vec{x}_{\text{Birth}})]
 $$
 
-Where $`\mathcal{F}`$ is a filter function extracting quantum information relevant to the observer.
+Where $\mathcal{F}$ is a filter function extracting quantum information relevant to the observer.
 
 #### 4.2 Space-Time Entanglement Model of Transit Prediction
 
@@ -405,4 +405,4 @@ $$
 P(\text{Precognition Event}) \propto \frac{D_{\text{Observer}}}{D_{\text{Average Observer}}}
 $$
 
-Where $`D`$ represents observer dimension. When the observer's dimension is significantly higher than the average, they can partially classicalize quantum information usually considered "future." 
+Where $D$ represents observer dimension. When the observer's dimension is significantly higher than the average, they can partially classicalize quantum information usually considered "future." 

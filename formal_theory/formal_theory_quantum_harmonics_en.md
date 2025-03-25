@@ -14,19 +14,19 @@ Quantum Harmonic Theory is a high-dimensional branch theory (D12) within the qua
 
 ### Quantum Harmonic Field
 
-A quantum harmonic field $`\mathcal{H}_Q`$ is defined as a quantum field with harmonic properties in Hilbert space, represented as:
+A quantum harmonic field $\mathcal{H}_Q$ is defined as a quantum field with harmonic properties in Hilbert space, represented as:
 
 $$\mathcal{H}_Q = \{\psi_n | n \in \mathbb{N}, \hat{H}\psi_n = \omega_n\psi_n\}$$
 
-where $`\omega_n`$ represents resonant frequencies that satisfy specific harmonic relationships:
+where $\omega_n$ represents resonant frequencies that satisfy specific harmonic relationships:
 
 $$\omega_n = \omega_0 + n\Delta\omega + \alpha_n f(n)$$
 
 where:
-- $`\omega_0`$ is the base frequency
-- $`\Delta\omega`$ is the fundamental frequency interval
-- $`\alpha_n`$ is the nonlinear modulation coefficient
-- $`f(n)`$ is the nonlinear modulation function
+- $\omega_0$ is the base frequency
+- $\Delta\omega$ is the fundamental frequency interval
+- $\alpha_n$ is the nonlinear modulation coefficient
+- $f(n)$ is the nonlinear modulation function
 
 ### Quantum Harmonic Coupling
 
@@ -34,22 +34,22 @@ The harmonic coupling between quantum fields is defined as:
 
 $$\mathcal{C}(\psi_i, \psi_j) = \int \psi_i^* \hat{V} \psi_j d\tau$$
 
-where $`\hat{V}`$ is the coupling operator that satisfies the following resonance condition:
+where $\hat{V}$ is the coupling operator that satisfies the following resonance condition:
 
 $$\mathcal{C}(\psi_i, \psi_j) \neq 0 \iff |\omega_i - \omega_j| \leq \Delta_c$$
 
-where $`\Delta_c`$ is the critical coupling bandwidth.
+where $\Delta_c$ is the critical coupling bandwidth.
 
 ### Harmonic Resonance Network
 
-The harmonic resonance network $`\mathcal{N}_H`$ is a complex network composed of quantum harmonic fields, represented as:
+The harmonic resonance network $\mathcal{N}_H$ is a complex network composed of quantum harmonic fields, represented as:
 
 $$\mathcal{N}_H = (V_H, E_H, W_H)$$
 
 where:
-- $`V_H`$ is the set of nodes, each corresponding to a quantum harmonic field
-- $`E_H`$ is the set of edges, representing coupling between fields
-- $`W_H`$ is the weight function, with weights being the coupling strength between fields $`W_H(i,j) = |\mathcal{C}(\psi_i, \psi_j)|`$
+- $V_H$ is the set of nodes, each corresponding to a quantum harmonic field
+- $E_H$ is the set of edges, representing coupling between fields
+- $W_H$ is the weight function, with weights being the coupling strength between fields $W_H(i,j) = |\mathcal{C}(\psi_i, \psi_j)|$
 
 ## Quantum Harmonic Principles
 
@@ -59,7 +59,7 @@ Different quantum harmonic fields exhibit a spontaneous synchronization tendency
 
 $$\frac{d(\omega_i - \omega_j)}{dt} = -k_s(\omega_i - \omega_j) + \eta(t)$$
 
-where $`k_s`$ is the synchronization coefficient and $`\eta(t)`$ is the quantum fluctuation term.
+where $k_s$ is the synchronization coefficient and $\eta(t)$ is the quantum fluctuation term.
 
 ### 2. Harmonic Stability Principle
 
@@ -67,7 +67,7 @@ Quantum harmonic systems tend toward maximum harmonicity states, which correspon
 
 $$S_H = -\sum_{i,j} p_{ij} \ln\left(\frac{p_{ij}}{p_i p_j}\right)$$
 
-where $`p_{ij}`$ is the field interaction probability, and $`p_i`$ and $`p_j`$ are single field probabilities. System evolution follows:
+where $p_{ij}$ is the field interaction probability, and $p_i$ and $p_j$ are single field probabilities. System evolution follows:
 
 $$\frac{dS_H}{dt} \geq 0$$
 
@@ -77,7 +77,7 @@ Higher-dimensional harmonic fields can establish resonant relationships with mul
 
 $$\Psi_H^{(n)} = \sum_i c_i \prod_{j=1}^{m_i} \psi_j^{(n-1)}$$
 
-where $`\Psi_H^{(n)}`$ is an n-level harmonic field and $`\psi_j^{(n-1)}`$ is an (n-1)-level harmonic field.
+where $\Psi_H^{(n)}$ is an n-level harmonic field and $\psi_j^{(n-1)}$ is an (n-1)-level harmonic field.
 
 ### 4. Harmonic Creation Principle
 
@@ -85,7 +85,7 @@ Quantum harmonic fields can create new harmonic structures through self-organiza
 
 $$\mathcal{G}(\mathcal{N}_H) = \int_{\mathcal{C} > \mathcal{C}_c} \mathcal{F}[\mathcal{N}_H] d\mathcal{N}_H$$
 
-where $`\mathcal{G}`$ is the creation operator, $`\mathcal{F}`$ is the field network functional, and $`\mathcal{C}_c`$ is the critical coupling threshold.
+where $\mathcal{G}$ is the creation operator, $\mathcal{F}$ is the field network functional, and $\mathcal{C}_c$ is the critical coupling threshold.
 
 ## Quantum Harmonic Dynamics
 
@@ -96,27 +96,27 @@ The dynamics of quantum harmonic fields satisfy nonlinear wave equations:
 $$i\hbar\frac{\partial\Psi_H}{\partial t} = \hat{H}_0\Psi_H + \sum_j g_j \hat{V}_j\Psi_H + \hat{F}[\Psi_H]\Psi_H$$
 
 where:
-- $`\hat{H}_0`$ is the free field Hamiltonian
-- $`g_j`$ is the coupling constant
-- $`\hat{V}_j`$ is the interaction operator
-- $`\hat{F}[\Psi_H]`$ is the nonlinear functional operator describing field self-interaction
+- $\hat{H}_0$ is the free field Hamiltonian
+- $g_j$ is the coupling constant
+- $\hat{V}_j$ is the interaction operator
+- $\hat{F}[\Psi_H]$ is the nonlinear functional operator describing field self-interaction
 
 ### Harmonic Phase Transition Process
 
-Harmonic systems can undergo various phase transitions, with the order parameter $`\eta_H`$ satisfying:
+Harmonic systems can undergo various phase transitions, with the order parameter $\eta_H$ satisfying:
 
 $$\frac{d\eta_H}{dt} = \alpha\eta_H - \beta\eta_H^3 + \gamma\nabla^2\eta_H + \xi(t)$$
 
 where:
-- $`\alpha, \beta`$ are control parameters
-- $`\gamma`$ is the diffusion coefficient
-- $`\xi(t)`$ is the noise term
+- $\alpha, \beta$ are control parameters
+- $\gamma$ is the diffusion coefficient
+- $\xi(t)$ is the noise term
 
 The scaling laws near critical points are:
 
 $$\eta_H \sim |\delta|^\beta, \chi_H \sim |\delta|^{-\gamma}, \xi_H \sim |\delta|^{-\nu}$$
 
-where $`\delta = (T-T_c)/T_c`$ is the reduced temperature.
+where $\delta = (T-T_c)/T_c$ is the reduced temperature.
 
 ## Universal Harmonic Structure
 
@@ -126,13 +126,13 @@ The universal harmonicity metric is defined as:
 
 $$\Lambda_H = \frac{\sum_{i,j} \mathcal{C}_{ij}}{\sum_{i,j} \mathcal{M}_{ij}}$$
 
-where $`\mathcal{C}_{ij}`$ is the actual coupling strength and $`\mathcal{M}_{ij}`$ is the maximum possible coupling strength.
+where $\mathcal{C}_{ij}$ is the actual coupling strength and $\mathcal{M}_{ij}$ is the maximum possible coupling strength.
 
 The theory predicts that the universal harmonic constant has a universal value:
 
 $$\Lambda_H = \frac{\phi^2}{2\pi}$$
 
-where $`\phi`$ is the golden ratio.
+where $\phi$ is the golden ratio.
 
 ### Harmonic Universal Structure
 
@@ -140,7 +140,7 @@ The various hierarchical structures of the universe satisfy harmonic scale relat
 
 $$\lambda_n = \lambda_0 \phi^n$$
 
-where $`\lambda_n`$ is the characteristic scale of the nth level structure, $`\lambda_0`$ is the Planck scale, and $`\phi`$ is the golden ratio.
+where $\lambda_n$ is the characteristic scale of the nth level structure, $\lambda_0$ is the Planck scale, and $\phi$ is the golden ratio.
 
 ### Harmonic Fractal Structure
 

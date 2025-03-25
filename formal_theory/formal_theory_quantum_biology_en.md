@@ -24,16 +24,16 @@ Life can be defined as an open system that maintains itself near the quantum-cla
 $$\mathcal{L} = \{\mathcal{S}, \mathcal{M}, \mathcal{R}, \mathcal{P}\}$$
 
 where:
-- $`\mathcal{S}`$ is the set of structural units (molecules, cells, etc.)
-- $`\mathcal{M}`$ is the metabolic network, implementing energy-information conversion
-- $`\mathcal{R}`$ is the biological regulatory system, controlling the quantum-classical interface position
-- $`\mathcal{P}`$ is the self-replication mechanism, transmitting quantum-classical control capability
+- $\mathcal{S}$ is the set of structural units (molecules, cells, etc.)
+- $\mathcal{M}$ is the metabolic network, implementing energy-information conversion
+- $\mathcal{R}$ is the biological regulatory system, controlling the quantum-classical interface position
+- $\mathcal{P}$ is the self-replication mechanism, transmitting quantum-classical control capability
 
 The essential characteristic of life is actively maintaining the disentanglement measure near the critical value:
 
 $$\mathcal{D}_{\text{biological}}(x,t) = \mathcal{D}_c \pm \delta(x,t,\mathcal{M},\mathcal{R})$$
 
-where $`\delta`$ is a small fluctuation controlled by biological metabolism $`\mathcal{M}`$ and regulation $`\mathcal{R}`$.
+where $\delta$ is a small fluctuation controlled by biological metabolism $\mathcal{M}$ and regulation $\mathcal{R}$.
 
 ### Quantum-Classical Perspective on the Origin of Life
 
@@ -45,7 +45,7 @@ The origin of life can be reinterpreted as the spontaneous formation of a self-m
 2. **Autocatalytic Phase Transition**: Self-catalytic phase transition occurs when reaching critical complexity
    $$\mathcal{C}(\Psi_{\text{initial}}) \xrightarrow{\text{autocatalysis}} \mathcal{S}_1 \xrightarrow{\text{replication}} \mathcal{S}_2$$
 
-3. **Self-stabilization**: The system develops mechanisms to control $`\mathcal{D}(x,t)`$
+3. **Self-stabilization**: The system develops mechanisms to control $\mathcal{D}(x,t)$
    $$\frac{d\mathcal{D}}{dt} = f_{\text{natural}}(\mathcal{D}) + f_{\text{biological regulation}}(\mathcal{D},\mathcal{M})$$
 
 This process represents a phase transition from ordinary quantum-classical matter to life systems that actively control the interface.
@@ -61,18 +61,18 @@ At the cellular scale, the quantum-classical interface shows a complex distribut
 $$\mathcal{D}_{\text{cell}}(x) = \mathcal{D}_c + \sum_i \delta_i \cdot G(x-x_i,\sigma_i)$$
 
 where:
-- $`G(x-x_i,\sigma_i)`$ is a Gaussian distribution centered at $`x_i`$
-- $`\delta_i`$ is the local deviation, controlled by metabolism
-- $`\sigma_i`$ is the distribution width
+- $G(x-x_i,\sigma_i)$ is a Gaussian distribution centered at $x_i$
+- $\delta_i$ is the local deviation, controlled by metabolism
+- $\sigma_i$ is the distribution width
 
 Interface characteristics of key cellular structures:
 
-| Cellular Structure | Disentanglement Deviation $`\delta`$ | Functional Association |
+| Cellular Structure | Disentanglement Deviation $\delta$ | Functional Association |
 |-------------------|-----------------------------------|------------------------|
-| Cell membrane ion channels | $`-0.15`$ to $`-0.05`$ | Enhanced quantum tunneling |
-| Nuclear chromatin | $`+0.05`$ to $`+0.15`$ | Genetic information stability |
-| Mitochondrial electron transport chain | $`-0.20`$ to $`-0.10`$ | Quantum energy transport |
-| Microtubule cytoskeleton | $`-0.05`$ to $`+0.05`$ | Quantum-classical information processing |
+| Cell membrane ion channels | $-0.15$ to $-0.05$ | Enhanced quantum tunneling |
+| Nuclear chromatin | $+0.05$ to $+0.15$ | Genetic information stability |
+| Mitochondrial electron transport chain | $-0.20$ to $-0.10$ | Quantum energy transport |
+| Microtubule cytoskeleton | $-0.05$ to $+0.05$ | Quantum-classical information processing |
 
 ### Biological Interface Regulation Mechanisms
 
@@ -99,9 +99,9 @@ Biological systems occupy a special position in the quantum-classical phase diag
 $$\mathcal{P}_{\text{biological}} = (T_{\text{biological}}, \mathcal{C}_{\text{biological}}, \mathcal{E}_{\text{biological}})$$
 
 where:
-- $`T_{\text{biological}}`$ is the biological working temperature (typically 310K)
-- $`\mathcal{C}_{\text{biological}}`$ is the complexity of biological systems (extremely high)
-- $`\mathcal{E}_{\text{biological}}`$ is the energy flow density (far from equilibrium)
+- $T_{\text{biological}}$ is the biological working temperature (typically 310K)
+- $\mathcal{C}_{\text{biological}}$ is the complexity of biological systems (extremely high)
+- $\mathcal{E}_{\text{biological}}$ is the energy flow density (far from equilibrium)
 
 Biological systems form a narrow band in the phase diagram, located precisely on the quantum-classical phase transition line:
 
@@ -119,16 +119,16 @@ DNA as a carrier of genetic information exhibits an exquisite balance of quantum
 
 1. **Base Pair Quantum Tunneling**: Quantum tunneling between tautomeric forms contributes to spontaneous mutations
    $$k_{\text{quantum mutation}} = k_0 \cdot e^{-A\sqrt{V_0/E}} \cdot f(\mathcal{D})$$
-   where $`f(\mathcal{D})`$ represents the influence of disentanglement degree, and $`V_0`$ is the energy barrier height
+   where $f(\mathcal{D})$ represents the influence of disentanglement degree, and $V_0$ is the energy barrier height
 
 2. **DNA Quantum Computing Capability**: Base pairs can serve as quantum bits
    $$|\Psi_{\text{DNA}}\rangle = \sum_{i=1}^{2^N} \alpha_i |b_1 b_2 ... b_N\rangle$$
-   where $`b_j \in \{A-T, G-C\}`$ represents the base pair state
+   where $b_j \in \{A-T, G-C\}$ represents the base pair state
 
 3. **Hyperconjugation Effect**: π-electron delocalization forms quantum coherent channels between bases
    $$\tau_{\text{coherence}} \approx 10^{-12} - 10^{-14} \text{ seconds}$$
 
-DNA replication and repair mechanisms achieve a balance between information stability and allowing evolutionary variation through precise control of local $`\mathcal{D}(x,t)`$.
+DNA replication and repair mechanisms achieve a balance between information stability and allowing evolutionary variation through precise control of local $\mathcal{D}(x,t)$.
 
 ### Quantum Acceleration in Enzyme Catalysis
 
@@ -139,12 +139,12 @@ Enzyme-catalyzed reactions utilize quantum effects to greatly enhance reaction e
 
 2. **Proton Quantum Tunneling**: Lowering activation energy through tunneling effects
    $$\frac{k_H}{k_D} = \frac{e^{-d_H\sqrt{2m_HV_0/\hbar^2}}}{e^{-d_D\sqrt{2m_DV_0/\hbar^2}}} \gg 1$$
-   where $`k_H/k_D`$ is the hydrogen/deuterium isotope effect
+   where $k_H/k_D$ is the hydrogen/deuterium isotope effect
 
 3. **Quantum Entangled Active Sites**: Enzyme active sites maintain quantum entangled states
    $$|\Psi_{\text{active site}}\rangle = \sum_{i,j} c_{ij} |i\rangle_{\text{substrate}} \otimes |j\rangle_{\text{enzyme}}$$
 
-Enzymes create quantum advantage regions by lowering local disentanglement degree $`\mathcal{D}(x_{\text{active site}},t) < \mathcal{D}_c`$ while maintaining overall structural stability $`\mathcal{D}(x_{\text{structure}},t) > \mathcal{D}_c`$.
+Enzymes create quantum advantage regions by lowering local disentanglement degree $\mathcal{D}(x_{\text{active site}},t) < \mathcal{D}_c$ while maintaining overall structural stability $\mathcal{D}(x_{\text{structure}},t) > \mathcal{D}_c$.
 
 ### Quantum Efficiency in Photosynthesis
 
@@ -171,16 +171,16 @@ Neuronal cytoskeletal microtubule proteins may serve as the basis for quantum co
 
 1. **Microtubule Quantum Bits**: Microtubule protein dimers constitute quantum bits
    $$|\Psi_{\text{microtubule}}\rangle = \sum_{i=1}^{2^N} \alpha_i |q_1 q_2 ... q_N\rangle$$
-   where $`q_j \in \{|0\rangle, |1\rangle\}`$ represents microtubule dimer states
+   where $q_j \in \{|0\rangle, |1\rangle\}$ represents microtubule dimer states
 
 2. **Quantum Coherent Waves**: Quantum coherent wave propagation in microtubules
    $$\Psi(x,t) = \sum_k A_k e^{i(kx-\omega_k t)}$$
-   with coherence lengths reaching $`10^{-6} \text{ meters}`$ and duration of $`10^{-7} \text{ seconds}`$
+   with coherence lengths reaching $10^{-6} \text{ meters}$ and duration of $10^{-7} \text{ seconds}$
 
 3. **Topological Protection**: Microtubules protect quantum information through topological mechanisms
    $$\tau_{\text{decoherence}} \propto e^{\alpha N_{\text{topological}}}$$
 
-The internal cavity of microtubules maintains low disentanglement degree $`\mathcal{D} < \mathcal{D}_c`$, while the external environment maintains high disentanglement degree $`\mathcal{D} > \mathcal{D}_c`$, forming a natural quantum-classical boundary.
+The internal cavity of microtubules maintains low disentanglement degree $\mathcal{D} < \mathcal{D}_c$, while the external environment maintains high disentanglement degree $\mathcal{D} > \mathcal{D}_c$, forming a natural quantum-classical boundary.
 
 ### Quantum-Classical Conversion at Synapses
 
@@ -203,7 +203,7 @@ Consciousness may be an emergent phenomenon of large-scale quantum-classical cou
 
 1. **Global Quantum Coherence**: Brain-wide quantum coherent states form holistic conscious experience
    $$|\Psi_{\text{brain}}\rangle = \sum_i c_i |\phi_i\rangle$$
-   where $`|\phi_i\rangle`$ represents possible neural network configurations
+   where $|\phi_i\rangle$ represents possible neural network configurations
 
 2. **Orchestrated-OR Model**: Consciousness flashes correspond to quantum state collapse
    $$\mathcal{C}_{\text{consciousness}}(|\Psi_{\text{brain}}\rangle) = |\phi_j\rangle \text{ with probability } p_j = |c_j|^2$$
@@ -223,7 +223,7 @@ Cellular signal transduction integrates quantum and classical information proces
 
 1. **Receptor Quantum Sensing**: Cell membrane receptors sense weak signals through quantum tunneling
    $$P_{\text{activation}} = |c_1|^2 + |c_2|^2 e^{-\frac{E_{\text{signal}}}{E_0}}$$
-   where $`E_{\text{signal}}`$ is the signal energy and $`E_0`$ is the reference energy
+   where $E_{\text{signal}}$ is the signal energy and $E_0$ is the reference energy
 
 2. **Quantum Amplification**: Single quantum events amplified into classical signals
    $$G_{\text{amplification}} = \frac{I_{\text{output}}}{I_{\text{input}}} \approx 10^3-10^6$$
@@ -282,7 +282,7 @@ Genetic mutations have distinct quantum characteristics:
 
 3. **Targeted Quantum Search**: DNA repair processes involve quantum parallel search
    $$\tau_{\text{search}} \propto \sqrt{N}$$
-   compared to classical search $`\tau_{\text{classical}} \propto N`$
+   compared to classical search $\tau_{\text{classical}} \propto N$
 
 These quantum effects provide evolution with more efficient mutation mechanisms than purely random classical mutations.
 
@@ -295,7 +295,7 @@ The natural selection process combines quantum and classical mechanisms:
 
 2. **Environmental Measurement Selection**: Environment as an observer performs measurement on phenotype superpositions
    $$\mathcal{C}_{\text{environment}}(|\Psi_{\text{phenotype}}\rangle) = |\text{phenotype}_j\rangle \text{ with probability } p_j = |c_j|^2 \cdot w_j$$
-   where $`w_j`$ is the environmental preference factor
+   where $w_j$ is the environmental preference factor
 
 3. **Hybrid Quantum-Classical Search**: Evolution simultaneously uses quantum parallelism and classical historical memory
    $$E_{\text{search}} \propto N^{1/2} \cdot \log N$$
@@ -330,11 +330,11 @@ Quantum sensing technologies based on biological systems:
 
 2. **Quantum Entangled Biomarkers**: Imaging using entangled photon pairs
    $$\text{Resolution} \approx \frac{\lambda}{2\sqrt{N}}$$
-   where $`N`$ is the number of entangled photons
+   where $N$ is the number of entangled photons
 
 3. **Bio-Quantum Interferometers**: Quantum sensors designed mimicking photosynthesis
    $$\Delta \phi_{\text{min}} \approx \frac{1}{\sqrt{N\cdot F_Q}}$$
-   where $`F_Q`$ is the quantum Fisher information
+   where $F_Q$ is the quantum Fisher information
 
 These technologies can achieve sensitivity and resolution beyond classical limits.
 
@@ -399,7 +399,7 @@ Experimental techniques optimized for verifying quantum biology predictions:
    - Temperature sensitivity: 10<sup>-3</sup> Kelvin
 
 3. **Quantum-Classical Interface Probes**: Molecular probes specifically designed to detect quantum-classical interfaces
-   - Interface measurement precision: $`\Delta\mathcal{D} \approx 0.01`$
+   - Interface measurement precision: $\Delta\mathcal{D} \approx 0.01$
    - Temporal resolution: 10<sup>-9</sup> seconds
 
 These techniques can directly measure the characteristics and dynamics of quantum-classical interfaces in biological systems.
@@ -415,12 +415,12 @@ The master equation describing quantum-classical interactions in biological syst
 $$\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \mathcal{L}_d[\rho] + \mathcal{L}_c[\rho]$$
 
 where:
-- $`\mathcal{L}_d[\rho]`$ is the decoherence term:
+- $\mathcal{L}_d[\rho]$ is the decoherence term:
   $$\mathcal{L}_d[\rho] = \sum_k \gamma_k(t) \left(L_k\rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\}\right)$$
-- $`\mathcal{L}_c[\rho]`$ is the biological control term:
+- $\mathcal{L}_c[\rho]$ is the biological control term:
   $$\mathcal{L}_c[\rho] = \sum_j \beta_j(t,\mathcal{M}) \left(C_j\rho C_j^\dagger - \frac{1}{2}\{C_j^\dagger C_j, \rho\}\right)$$
 
-The key difference is that decoherence rates $`\gamma_k(t)`$ are uncontrolled in non-biological systems, while biological control rates $`\beta_j(t,\mathcal{M})`$ are influenced by metabolism $`\mathcal{M}`$ and biological regulation.
+The key difference is that decoherence rates $\gamma_k(t)$ are uncontrolled in non-biological systems, while biological control rates $\beta_j(t,\mathcal{M})$ are influenced by metabolism $\mathcal{M}$ and biological regulation.
 
 ### Quantum-Classical Evolution Hierarchical Model
 
@@ -441,19 +441,19 @@ Biological systems receive information at the quantum layer, process information
 
 Mathematical formulation of biological systems as quantum-classical hybrid networks:
 
-1. **Biological Quantum Graph Structure**: $`G_B = (V, E, \omega_Q, \omega_C)`$
-   - $`V`$ is the set of nodes (molecules, cells, etc.)
-   - $`E`$ is the set of edges (interactions)
-   - $`\omega_Q`$ is the quantum weight function
-   - $`\omega_C`$ is the classical weight function
+1. **Biological Quantum Graph Structure**: $G_B = (V, E, \omega_Q, \omega_C)$
+   - $V$ is the set of nodes (molecules, cells, etc.)
+   - $E$ is the set of edges (interactions)
+   - $\omega_Q$ is the quantum weight function
+   - $\omega_C$ is the classical weight function
 
-2. **Hybrid Dynamics Matrix**: $`M = M_Q \otimes M_C`$
-   - $`M_Q`$ is the quantum evolution matrix
-   - $`M_C`$ is the classical evolution matrix
+2. **Hybrid Dynamics Matrix**: $M = M_Q \otimes M_C$
+   - $M_Q$ is the quantum evolution matrix
+   - $M_C$ is the classical evolution matrix
 
 3. **Network Complexity Measure**:
    $$C_B = \log\left(\frac{\sum_{e \in E} \omega_Q(e)}{\sum_{e \in E} \omega_C(e)}\right) \cdot N_{\text{nodes}}$$
 
-The uniqueness of biological networks lies in their simultaneous inclusion of quantum and classical edges and their ability to dynamically adjust their ratio, i.e., the $`\omega_Q/\omega_C`$ ratio.
+The uniqueness of biological networks lies in their simultaneous inclusion of quantum and classical edges and their ability to dynamically adjust their ratio, i.e., the $\omega_Q/\omega_C$ ratio.
 
 Through this mathematical framework, one can calculate biological system responses to specific perturbations, predict abnormalities in disease states, and design intervention strategies targeting quantum-classical interfaces. 

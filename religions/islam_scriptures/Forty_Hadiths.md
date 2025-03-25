@@ -51,29 +51,27 @@ Al-Nawawi's Forty Hadiths is an important collection of hadiths compiled by Isla
 ## 数学表达 (Mathematical Expression)
 
 ### 意图-行为经典化方程
-
 $$
 A = \sum_{i=1}^{n} I_i \cdot k_i \cdot |\langle\psi_i|\phi_{\text{行为}}\rangle|^2
 $$
 
 其中：
-- $`A`$ 表示行为的最终价值
-- $`I_i`$ 是不同意图成分的强度
-- $`k_i`$ 是每种意图的经典化效率系数
-- $`|\langle\psi_i|\phi_{\text{行为}}\rangle|^2`$ 是意图与行为的重叠度
+- $A$ 表示行为的最终价值
+- $I_i$ 是不同意图成分的强度
+- $k_i$ 是每种意图的经典化效率系数
+- $|\langle\psi_i|\phi_{\text{行为}}\rangle|^2$ 是意图与行为的重叠度
 
 ### 信仰完美度方程
-
 $$
 F = \alpha \cdot C + \beta \cdot P + \gamma \cdot S
 $$
 
 其中：
-- $`F`$ 是信仰的完美度
-- $`C`$ 是品格优秀度
-- $`P`$ 是功修完成度
-- $`S`$ 是社会互动质量
-- $`\alpha`$、$`\beta`$、$`\gamma`$ 是权重系数，满足 $`\alpha + \beta + \gamma = 1`$
+- $F$ 是信仰的完美度
+- $C$ 是品格优秀度
+- $P$ 是功修完成度
+- $S$ 是社会互动质量
+- $\alpha$、$\beta$、$\gamma$ 是权重系数，满足 $\alpha + \beta + \gamma = 1$
 
 ## 结论 (Conclusion)
 

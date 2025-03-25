@@ -40,7 +40,7 @@
 
 $$M = (\Omega_Q^M, \Omega_C^M, \mathcal{I}^M)$$
 
-其中 $`\Omega_Q^M`$ 是元宇宙的量子域，$`\Omega_C^M`$ 是元宇宙的经典域，$`\mathcal{I}^M`$ 是二者的转换界面。
+其中 $\Omega_Q^M$ 是元宇宙的量子域，$\Omega_C^M$ 是元宇宙的经典域，$\mathcal{I}^M$ 是二者的转换界面。
 
 ### 2. 虚拟-物理界面动力学
 
@@ -60,7 +60,7 @@ $$\mathcal{T}_{\text{物理}\rightarrow\text{虚拟}}: \Omega_C^{\text{物理}} 
 
 $$x_{\text{虚拟}} = f_{\text{转换}}(x_{\text{物理}}, \mathcal{C}_{\text{技术}})$$
 
-其中 $`\mathcal{C}_{\text{技术}}`$ 是技术约束参数。
+其中 $\mathcal{C}_{\text{技术}}$ 是技术约束参数。
 
 #### 虚拟→物理反馈
 虚拟世界通过感官反馈影响用户的物理体验：
@@ -77,7 +77,7 @@ $$\mathcal{T}_{\text{虚拟}\rightarrow\text{物理}}: \Omega_C^{\text{元宇宙
 
 $$\eta_{\text{反馈}} = \frac{I_{\text{感知}}}{I_{\text{虚拟}}} \cdot (1 - e^{-\lambda\cdot\mathcal{Q}_{\text{设备}}})$$
 
-其中 $`\mathcal{Q}_{\text{设备}}`$ 是设备质量参数。
+其中 $\mathcal{Q}_{\text{设备}}$ 是设备质量参数。
 
 ### 3. 元宇宙意识映射
 
@@ -105,7 +105,7 @@ $$\mathcal{E}: \Omega_C^{\text{元宇宙}} \times |\psi_{\text{用户}}\rangle \
 
 $$T_{\text{体验}} = 1 - |\langle\psi_{\text{用户}}|\psi_{\text{用户}}'\rangle|^2$$
 
-$`T_{\text{体验}}`$ 值越高，表示虚拟体验对用户心智状态的改变越大。
+$T_{\text{体验}}$ 值越高，表示虚拟体验对用户心智状态的改变越大。
 
 ### 4. 元宇宙信息相变
 
@@ -148,7 +148,7 @@ $$S_{\text{同步}} = 1 - \frac{S(\rho_{\text{集体}})}{\sum_i S(\rho_i)}$$
 
 $$\mathcal{B} = \frac{H_Q}{H_C} \approx \phi$$
 
-其中 $`H_Q`$ 是量子可能性熵，$`H_C`$ 是经典结构熵，$`\phi`$ 是黄金比例。
+其中 $H_Q$ 是量子可能性熵，$H_C$ 是经典结构熵，$\phi$ 是黄金比例。
 
 实现方式包括：
 - 开放式创作系统与规则框架
@@ -179,8 +179,8 @@ $$E_{\mathcal{I}_i} = \frac{I_{\text{输出}}}{I_{\text{输入}}} \cdot (1 - e^{
 $$A_{\text{数字}} = (V_Q, V_C)$$
 
 其中：
-- $`V_Q`$ 是潜在价值空间（所有可能用途）
-- $`V_C`$ 是实现价值（当前市场价值）
+- $V_Q$ 是潜在价值空间（所有可能用途）
+- $V_C$ 是实现价值（当前市场价值）
 
 资产价值的量子表示：
 
@@ -196,9 +196,9 @@ $$V_{\text{实现}} = \langle\psi_{\text{价值}}|\hat{M}_{\text{使用}}|\psi_{
 $$\frac{dE_{\text{虚拟}}}{dt} = \alpha \cdot \dot{N}_{\text{用户}} + \beta \cdot \dot{I}_{\text{创新}} - \gamma \cdot S_{\text{通胀}}$$
 
 其中：
-- $`\dot{N}_{\text{用户}}`$ 是用户增长率
-- $`\dot{I}_{\text{创新}}`$ 是创新产出率
-- $`S_{\text{通胀}}`$ 是系统熵增率
+- $\dot{N}_{\text{用户}}$ 是用户增长率
+- $\dot{I}_{\text{创新}}$ 是创新产出率
+- $S_{\text{通胀}}$ 是系统熵增率
 
 供需平衡的量子模型：
 
@@ -230,13 +230,13 @@ $$D_{\text{表达}} = \log_2(|\Omega_{\text{可能身份}}|)$$
 
 $$\mathcal{N}(t+1) = f_{\text{演化}}(\mathcal{N}(t), \mathcal{G}, \rho_{\text{集体}})$$
 
-其中 $`\mathcal{G}`$ 是治理参数，$`\rho_{\text{集体}}`$ 是集体价值观。
+其中 $\mathcal{G}$ 是治理参数，$\rho_{\text{集体}}$ 是集体价值观。
 
 规范形成的量子模型：
 
 $$|\psi_{\text{规范}}\rangle = \frac{1}{\sqrt{Z}}\sum_i e^{-\beta E_i} |\text{行为模式}_i\rangle$$
 
-其中 $`E_i`$ 是行为模式的社会能量，$`\beta`$ 是社会温度的倒数。
+其中 $E_i$ 是行为模式的社会能量，$\beta$ 是社会温度的倒数。
 
 ### 4. 元宇宙心理学
 
@@ -255,20 +255,20 @@ $$D_{\text{沉浸}} = 1 - e^{-\lambda \cdot \mathcal{I}_{\text{沉浸}}}$$
 
 $$|\psi_{\text{存在}}\rangle = \sqrt{1-p} |\text{物理}\rangle + \sqrt{p} e^{i\phi} |\text{虚拟}\rangle$$
 
-其中 $`p`$ 是虚拟存在比例，$`\phi`$ 是相位因子。
+其中 $p$ 是虚拟存在比例，$\phi$ 是相位因子。
 
 #### 虚拟体验与身份发展
 虚拟体验对身份发展的影响：
 
 $$\frac{d|\psi_{\text{身份}}\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_{\text{体验}}|\psi_{\text{身份}}\rangle + \mathcal{L}_{\text{学习}}(|\psi_{\text{身份}}\rangle)$$
 
-其中 $`\hat{H}_{\text{体验}}`$ 是体验哈密顿量，$`\mathcal{L}_{\text{学习}}`$ 是学习算符。
+其中 $\hat{H}_{\text{体验}}$ 是体验哈密顿量，$\mathcal{L}_{\text{学习}}$ 是学习算符。
 
 身份转移与整合模型：
 
 $$\rho_{\text{整合身份}} = \alpha \rho_{\text{物理身份}} + \beta \rho_{\text{虚拟身份}} + \gamma[\rho_{\text{物理身份}}, \rho_{\text{虚拟身份}}]$$
 
-其中 $`[\cdot,\cdot]`$ 表示交换子，捕捉两种身份间的干涉效应。
+其中 $[\cdot,\cdot]$ 表示交换子，捕捉两种身份间的干涉效应。
 
 ## 实验预测与验证
 

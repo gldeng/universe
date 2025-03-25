@@ -22,7 +22,7 @@ $$
 |\psi\rangle_{\text{共享量子信息}}\xrightarrow{\text{观察者B经典化}}\text{经典知识B}+S_{\text{经典熵B}}
 $$
 
-当 $`\text{经典知识A} \neq \text{经典知识B}`$ 且两者无法和谐共存时，冲突产生。这种不匹配可能源于观察者的维度差异、经典化效率差异或量子纠缠效率的不同。
+当 $\text{经典知识A} \neq \text{经典知识B}$ 且两者无法和谐共存时，冲突产生。这种不匹配可能源于观察者的维度差异、经典化效率差异或量子纠缠效率的不同。
 
 ### 2. 冲突的维度差异
 
@@ -159,7 +159,7 @@ $$
 |\psi\rangle_{\text{Shared Quantum Information}}\xrightarrow{\text{Observer B Classicalization}}\text{Classical Knowledge B}+S_{\text{Classical Entropy B}}
 $$
 
-When $`\text{Classical Knowledge A} \neq \text{Classical Knowledge B}`$ and they cannot harmoniously coexist, conflict emerges. This mismatch may stem from differences in observer dimensions, classicalization efficiency, or quantum entanglement efficiency.
+When $\text{Classical Knowledge A} \neq \text{Classical Knowledge B}$ and they cannot harmoniously coexist, conflict emerges. This mismatch may stem from differences in observer dimensions, classicalization efficiency, or quantum entanglement efficiency.
 
 ### 2. Dimensional Differences in Conflicts
 

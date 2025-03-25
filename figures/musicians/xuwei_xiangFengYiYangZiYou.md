@@ -41,7 +41,7 @@ $$
 \text{自由度} = -\ln\left(\frac{Z_{\text{量子状态数}}}{Z_{\text{经典约束数}}}\right)
 $$
 
-其中$`Z`$代表系统的配分函数。
+其中$Z$代表系统的配分函数。
 
 3. **观察者视角的自由转换**：
    
@@ -93,7 +93,7 @@ $$
 \text{Degree of Freedom} = -\ln\left(\frac{Z_{\text{Number of Quantum States}}}{Z_{\text{Number of Classical Constraints}}}\right)
 $$
 
-Where $`Z`$ represents the partition function of the system.
+Where $Z$ represents the partition function of the system.
 
 3. **Freedom Conversion from Observer's Perspective**:
    

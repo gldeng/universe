@@ -21,15 +21,15 @@ Chemical Thermodynamics and Dualism applies the quantum-classical dualism framew
 
 ### Formal Definition of Thermodynamic Systems
 
-A thermodynamic system $`\mathcal{T}`$ can be formally defined as:
+A thermodynamic system $\mathcal{T}$ can be formally defined as:
 
 $$\mathcal{T} = (\mathcal{T}_Q, \mathcal{T}_C, \mathcal{I}_T, \mathcal{E})$$
 
 Where:
-- $`\mathcal{T}_Q`$ is the quantum domain component of the thermodynamic system (microscopic particle superposition states, quantum fluctuations)
-- $`\mathcal{T}_C`$ is the classical domain component of the thermodynamic system (macroscopic state variables, measurable properties)
-- $`\mathcal{I}_T`$ is the thermodynamic quantum-classical interface
-- $`\mathcal{E}`$ is the environment
+- $\mathcal{T}_Q$ is the quantum domain component of the thermodynamic system (microscopic particle superposition states, quantum fluctuations)
+- $\mathcal{T}_C$ is the classical domain component of the thermodynamic system (macroscopic state variables, measurable properties)
+- $\mathcal{I}_T$ is the thermodynamic quantum-classical interface
+- $\mathcal{E}$ is the environment
 
 ### Core Thermodynamic Axioms
 
@@ -38,28 +38,28 @@ Complete thermodynamic systems simultaneously possess quantum and classical fund
 
 $$\mathcal{T} = \mathcal{T}_Q \diamond \mathcal{T}_C$$
 
-Where $`\diamond`$ represents the quantum-classical thermodynamic connection operation.
+Where $\diamond$ represents the quantum-classical thermodynamic connection operation.
 
 **Axiom 2: Microscopic State Superposition Principle**  
 Thermodynamic systems exist at the microscopic level in superposition states of multiple energy states:
 
 $$|\Psi_T\rangle = \sum_i \alpha_i |E_i\rangle$$
 
-Where $`|E_i\rangle`$ is the energy eigenstate, and $`\alpha_i`$ is the complex amplitude.
+Where $|E_i\rangle$ is the energy eigenstate, and $\alpha_i$ is the complex amplitude.
 
 **Axiom 3: Thermodynamic Classicalization Principle**  
 Macroscopic thermodynamic quantities are the result of classicalization of microscopic quantum states:
 
 $$\mathcal{O}_T: |\Psi_T\rangle \rightarrow O_C$$
 
-Where $`\mathcal{O}_T`$ is the thermodynamic observation operator, and $`O_C`$ is the classical observable.
+Where $\mathcal{O}_T$ is the thermodynamic observation operator, and $O_C$ is the classical observable.
 
 **Axiom 4: Information-Entropy Duality Principle**  
 The information and entropy of thermodynamic systems satisfy a conservation relationship:
 
 $$I_T + S_T = \text{constant}$$
 
-Where $`I_T`$ is the structured information of the system, and $`S_T`$ is the entropy of the system.
+Where $I_T$ is the structured information of the system, and $S_T$ is the entropy of the system.
 
 ## Quantum-Classical Dualistic Explanation of Thermodynamic Laws
 
@@ -69,7 +69,7 @@ Thermal equilibrium can be understood as a stable state of the quantum-classical
 
 $$\mathcal{I}_T^A \approx \mathcal{I}_T^B \approx \mathcal{I}_T^C \iff T_A = T_B = T_C$$
 
-Where $`\mathcal{I}_T^X`$ represents the quantum-classical interface state of system X, and $`T_X`$ is the temperature of system X.
+Where $\mathcal{I}_T^X$ represents the quantum-classical interface state of system X, and $T_X$ is the temperature of system X.
 
 Formal expression of temperature as an interface parameter:
 
@@ -85,7 +85,7 @@ Corresponding to:
 
 $$d(I_Q + I_C) = \delta I_{Q\to C} + \delta I_{C\to Q}$$
 
-Where $`I_Q`$ is quantum domain information, $`I_C`$ is classical domain information, $`\delta I_{Q\to C}`$ is the quantum→classical information flow corresponding to heat, and $`\delta I_{C\to Q}`$ is the classical→quantum information flow corresponding to work.
+Where $I_Q$ is quantum domain information, $I_C$ is classical domain information, $\delta I_{Q\to C}$ is the quantum→classical information flow corresponding to heat, and $\delta I_{C\to Q}$ is the classical→quantum information flow corresponding to work.
 
 ### Dualistic Explanation of Second Law of Thermodynamics
 
@@ -97,13 +97,13 @@ Corresponding to:
 
 $$\frac{d\mathcal{C}(\rho)}{dt} \geq 0$$
 
-Where $`\mathcal{C}(\rho)`$ is the measure of classicalization of the system state.
+Where $\mathcal{C}(\rho)$ is the measure of classicalization of the system state.
 
 The driving force for entropy increase comes from decoherence at the quantum-classical interface:
 
 $$\frac{dS}{dt} = k_B \text{Tr}\left(\mathcal{D}(\rho)\ln\rho\right)$$
 
-Where $`\mathcal{D}(\rho)`$ is the environment-induced decoherence superoperator.
+Where $\mathcal{D}(\rho)$ is the environment-induced decoherence superoperator.
 
 ### Dualistic Explanation of Third Law of Thermodynamics
 
@@ -111,7 +111,7 @@ Absolute zero corresponds to the minimum entropy of the quantum-classical interf
 
 $$\lim_{T\to 0} S = S_0 \approx k_B\ln g_0$$
 
-Where $`g_0`$ is the degeneracy of the ground state.
+Where $g_0$ is the degeneracy of the ground state.
 
 A perfect crystal from a quantum-classical perspective is the ideal case where the quantum-classical interface is completely determined:
 
@@ -125,7 +125,7 @@ Phase transitions can be described as sudden changes in the quantum-classical in
 
 $$\frac{d\mathcal{I}_T}{dt} = \alpha_T \nabla^2 \mathcal{I}_T + \beta_T f(\mathcal{I}_T,T) + \gamma_T \xi(t)$$
 
-Where $`f(\mathcal{I}_T,T)`$ is the interface potential function, which at the critical point satisfies:
+Where $f(\mathcal{I}_T,T)$ is the interface potential function, which at the critical point satisfies:
 
 $$\left.\frac{\partial^2 f}{\partial \mathcal{I}_T^2}\right|_{T=T_c} = 0$$
 
@@ -139,7 +139,7 @@ Accompanied by a quantum-classical explanation of latent heat:
 
 $$L = T_c \Delta S = T_c \Delta(\mathcal{C}(\rho)-\mathcal{Q}(\rho))$$
 
-Where $`\mathcal{C}(\rho)`$ is the classicalization measure, and $`\mathcal{Q}(\rho)`$ is the quantization measure.
+Where $\mathcal{C}(\rho)$ is the classicalization measure, and $\mathcal{Q}(\rho)$ is the quantization measure.
 
 Second-order phase transitions manifest as continuous interface functions with discontinuous derivatives:
 
@@ -151,13 +151,13 @@ Quantum-classical interface behavior near the critical point follows scaling law
 
 $$\mathcal{I}_T - \mathcal{I}_{T_c} \propto |T-T_c|^\beta$$
 
-Where $`\beta`$ is the critical exponent.
+Where $\beta$ is the critical exponent.
 
 Quantum-classical expression of correlation length:
 
 $$\xi \propto |T-T_c|^{-\nu}$$
 
-Where $`\nu`$ is the correlation length critical exponent.
+Where $\nu$ is the correlation length critical exponent.
 
 ### Classical Manifestation of Quantum Phase Transitions
 
@@ -165,13 +165,13 @@ The manifestation of quantum phase transitions in the classical domain:
 
 $$\langle O_C \rangle = \text{Tr}(\rho \hat{O}) \propto |g-g_c|^\gamma$$
 
-Where $`g`$ is the control parameter of the quantum Hamiltonian, and $`g_c`$ is the critical point.
+Where $g$ is the control parameter of the quantum Hamiltonian, and $g_c$ is the critical point.
 
 Quantum-classical mapping relationship:
 
 $$\beta_{quantum} = \frac{\nu_{quantum} d}{2-\eta_{quantum}}$$
 
-Where $`d`$ is the system dimension, and $`\eta`$ is the anomalous dimension.
+Where $d$ is the system dimension, and $\eta$ is the anomalous dimension.
 
 ## Unification of Thermodynamics and Information Theory
 
@@ -215,7 +215,7 @@ Relationship with thermodynamic quantities:
 
 $$\mathcal{I}_{Fisher} \propto \frac{C_V}{k_B T^2}$$
 
-Where $`C_V`$ is the heat capacity.
+Where $C_V$ is the heat capacity.
 
 ## Entropy Evolution in Complex Chemical Systems
 
@@ -225,7 +225,7 @@ Entropy balance in systems far from equilibrium:
 
 $$\frac{dS_{total}}{dt} = \frac{dS_{int}}{dt} + \frac{dS_{ext}}{dt} \geq 0$$
 
-Where $`\frac{dS_{int}}{dt} < 0`$ may occur, but total entropy still increases.
+Where $\frac{dS_{int}}{dt} < 0$ may occur, but total entropy still increases.
 
 Quantum-classical formulation:
 
@@ -251,7 +251,7 @@ Quantum-classical mechanisms for maintaining low entropy in biological systems:
 
 $$\frac{dS_{bio}}{dt} = \sigma_{internal} - \Phi_S < 0$$
 
-Where $`\sigma_{internal}`$ is the internal entropy production rate, and $`\Phi_S`$ is the entropy flow rate.
+Where $\sigma_{internal}$ is the internal entropy production rate, and $\Phi_S$ is the entropy flow rate.
 
 Information-entropy metabolism relationship:
 
@@ -263,13 +263,13 @@ Quantum-classical formulation of chemical oscillation systems:
 
 $$\frac{d\vec{X}}{dt} = \vec{f}(\vec{X}) + \hat{D}|\delta\Psi_Q\rangle$$
 
-Where $`\vec{X}`$ is the classical chemical concentration vector, and $`\hat{D}`$ is the operator that maps quantum fluctuations to the classical space.
+Where $\vec{X}$ is the classical chemical concentration vector, and $\hat{D}$ is the operator that maps quantum fluctuations to the classical space.
 
 Quantum-classical interaction in chaotic systems:
 
 $$\lambda_{max} \approx \frac{1}{\tau_{decoherence}}$$
 
-Where $`\lambda_{max}`$ is the maximum Lyapunov exponent, and $`\tau_{decoherence}`$ is the decoherence time.
+Where $\lambda_{max}$ is the maximum Lyapunov exponent, and $\tau_{decoherence}$ is the decoherence time.
 
 ## Applications and Experimental Validation
 
@@ -279,13 +279,13 @@ Quantum-classical thermodynamics of nanoscale systems:
 
 $$F_{nano} = U_{nano} - T S_{nano} - \sum_i \mu_i \mathcal{Q}_i$$
 
-Where $`\mathcal{Q}_i`$ represents quantum effect correction terms.
+Where $\mathcal{Q}_i$ represents quantum effect correction terms.
 
 Quantum-classical scale transition:
 
 $$\frac{S_{nano}}{S_{bulk}} \approx 1 - \frac{\lambda_{dB}}{L}$$
 
-Where $`\lambda_{dB}`$ is the de Broglie wavelength, and $`L`$ is the characteristic size of the system.
+Where $\lambda_{dB}$ is the de Broglie wavelength, and $L$ is the characteristic size of the system.
 
 ### Non-Equilibrium Thermoelectric Conversion
 
@@ -293,7 +293,7 @@ Quantum-classical efficiency of non-equilibrium thermoelectric conversion:
 
 $$\eta_{QC} = \eta_{Carnot} \cdot \chi(\mathcal{I}_T)$$
 
-Where $`\chi(\mathcal{I}_T)`$ is the quantum-classical interface characteristic function.
+Where $\chi(\mathcal{I}_T)$ is the quantum-classical interface characteristic function.
 
 Quantum limitation of power-efficiency trade-off:
 
@@ -305,7 +305,7 @@ Dualistic performance boundary of quantum heat engines:
 
 $$\eta_{quantum} \leq 1 - \frac{T_C}{T_H} \cdot \frac{\mathcal{C}(\rho_C)}{\mathcal{C}(\rho_H)}$$
 
-Where $`\mathcal{C}(\rho)`$ is the classicalization measure of the state.
+Where $\mathcal{C}(\rho)$ is the classicalization measure of the state.
 
 Enhancement of heat engine efficiency by quantum coherence:
 
@@ -325,7 +325,7 @@ Quantum efficiency correction of photosynthesis:
 
 $$\epsilon_{photosynthesis} \approx \epsilon_{classical} + \Delta\epsilon_{quantum}$$
 
-Where $`\Delta\epsilon_{quantum}`$ is related to quantum coherence and quantum tunneling.
+Where $\Delta\epsilon_{quantum}$ is related to quantum coherence and quantum tunneling.
 
 ## Relationships with Other Theoretical Branches
 
@@ -345,7 +345,7 @@ Quantum effects in biological energy conversion:
 
 $$\eta_{bio} \approx \eta_{classical} \cdot (1 + \delta_{quantum})$$
 
-Where $`\delta_{quantum}`$ includes contributions from quantum coherence, quantum tunneling, and quantum entanglement.
+Where $\delta_{quantum}$ includes contributions from quantum coherence, quantum tunneling, and quantum entanglement.
 
 ### Connection with Quantum Computing
 
@@ -353,7 +353,7 @@ Thermodynamic cost of quantum computing:
 
 $$W_{quantum} \geq k_B T \ln(2) \cdot I_{quantum}$$
 
-Where $`I_{quantum}`$ is the amount of quantum information processing.
+Where $I_{quantum}$ is the amount of quantum information processing.
 
 Thermodynamic boundary of reversible quantum computing:
 

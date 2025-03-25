@@ -26,12 +26,12 @@
 $$\mathcal{L} = \{S, \nabla S, \Phi_E, \Phi_I, \mathcal{C}_L, \mathcal{Q}_L\}$$
 
 其中：
-- $`S`$ 是系统熵
-- $`\nabla S`$ 是熵梯度（负熵结构）
-- $`\Phi_E`$ 是能量流
-- $`\Phi_I`$ 是信息流
-- $`\mathcal{C}_L`$ 是生命系统独特的经典化算符
-- $`\mathcal{Q}_L`$ 是生命系统独特的量子化算符
+- $S$ 是系统熵
+- $\nabla S$ 是熵梯度（负熵结构）
+- $\Phi_E$ 是能量流
+- $\Phi_I$ 是信息流
+- $\mathcal{C}_L$ 是生命系统独特的经典化算符
+- $\mathcal{Q}_L$ 是生命系统独特的量子化算符
 
 生命系统满足以下熵动力学条件：
 
@@ -53,7 +53,7 @@ $$\frac{dS_{交换}}{dt} = -\oint_{\partial V} \frac{\vec{J}_S \cdot \vec{n}}{T}
 
 $$\frac{dS_{生成}}{dt} = \int_V \sigma_S dV > 0$$
 
-生命系统的特征在于能够通过信息处理（$`\Phi_I`$）显著降低内生熵变率，并通过新陈代谢活动向环境排放熵。
+生命系统的特征在于能够通过信息处理（$\Phi_I$）显著降低内生熵变率，并通过新陈代谢活动向环境排放熵。
 
 ### 负熵结构的维持
 
@@ -65,7 +65,7 @@ $$\Delta S_{负熵} = -\int_0^t \frac{\mathcal{C}_L \cdot \Phi_I}{T} dt$$
 
 $$\mathcal{C}_L \leq \frac{\Phi_E \cdot \eta_{转换}}{I_{\text{min}}}$$
 
-其中$`\eta_{转换}`$是能量-信息转换效率，$`I_{\text{min}}`$是维持生命所需的最小信息量。
+其中$\eta_{转换}$是能量-信息转换效率，$I_{\text{min}}$是维持生命所需的最小信息量。
 
 ## 生命系统的信息流动
 
@@ -75,13 +75,13 @@ $$\mathcal{C}_L \leq \frac{\Phi_E \cdot \eta_{转换}}{I_{\text{min}}}$$
 
 $$\mathcal{N}_{\text{生命}} = \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_n, \mathcal{L}_{层级}\}$$
 
-其中$`\mathcal{N}_i`$是第i层级的信息网络（如分子、细胞、组织等），$`\mathcal{L}_{层级}`$是层级间联系。
+其中$\mathcal{N}_i$是第i层级的信息网络（如分子、细胞、组织等），$\mathcal{L}_{层级}$是层级间联系。
 
 网络各层级之间的信息流遵循：
 
 $$\Phi_I^{i \rightarrow i+1} = \mathcal{T}_{i,i+1} \cdot \Phi_I^i$$
 
-其中$`\mathcal{T}_{i,i+1}`$是层级间信息转换算符。
+其中$\mathcal{T}_{i,i+1}$是层级间信息转换算符。
 
 ### 信息流与能量流耦合
 
@@ -89,7 +89,7 @@ $$\Phi_I^{i \rightarrow i+1} = \mathcal{T}_{i,i+1} \cdot \Phi_I^i$$
 
 $$\Phi_I \propto \Phi_E \cdot \eta_{I-E}(S, T, \nabla\mu)$$
 
-耦合效率$`\eta_{I-E}`$受熵、温度和化学势梯度影响。信息-能量转换满足广义不确定性关系：
+耦合效率$\eta_{I-E}$受熵、温度和化学势梯度影响。信息-能量转换满足广义不确定性关系：
 
 $$\Delta I \cdot \Delta E \geq k_B T \ln 2$$
 
@@ -155,7 +155,7 @@ $$\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-
 
 $$\frac{dS}{dt} = \frac{d_iS}{dt} + \frac{d_eS}{dt}$$
 
-其中$`\frac{d_iS}{dt}`$是内熵产生，$`\frac{d_eS}{dt}`$是熵交换。当系统远离平衡点，且$`\frac{d_eS}{dt} < 0`$且足够大时，可出现自组织结构。
+其中$\frac{d_iS}{dt}$是内熵产生，$\frac{d_eS}{dt}$是熵交换。当系统远离平衡点，且$\frac{d_eS}{dt} < 0$且足够大时，可出现自组织结构。
 
 ### 信息创生的量子涨落机制
 
@@ -163,7 +163,7 @@ $$\frac{dS}{dt} = \frac{d_iS}{dt} + \frac{d_eS}{dt}$$
 
 $$P(I_{\text{新}}) \propto e^{-\beta \Delta F} \cdot f(\mathcal{Q}_{\text{环境}})$$
 
-其中$`\Delta F`$是自由能变化，$`f(\mathcal{Q}_{\text{环境}})`$是环境量子化特性函数。这表明环境中的量子涨落可促进信息的随机创生。
+其中$\Delta F$是自由能变化，$f(\mathcal{Q}_{\text{环境}})$是环境量子化特性函数。这表明环境中的量子涨落可促进信息的随机创生。
 
 ### 信息-物质-能量三重耦合
 
@@ -175,7 +175,7 @@ $$\mathcal{L}_{起源} = \mathcal{I} \otimes \mathcal{M} \otimes \mathcal{E}$$
 
 $$\sigma = \frac{1}{T}\left(\vec{J}_I \cdot \vec{X}_I + \vec{J}_M \cdot \vec{X}_M + \vec{J}_E \cdot \vec{X}_E\right)$$
 
-其中$`\vec{J}`$是流量，$`\vec{X}`$是热力学力。生命起源条件可能是三重耦合达到临界值：
+其中$\vec{J}$是流量，$\vec{X}$是热力学力。生命起源条件可能是三重耦合达到临界值：
 
 $$\lambda_{I-M-E} > \lambda_c$$
 
@@ -216,7 +216,7 @@ $$\lambda_{I-M-E} > \lambda_c$$
 
 $$\frac{dI}{dt} = \mu \cdot \nabla_I F + \sigma \cdot \eta(t)$$
 
-其中$`\mu`$是迁移率，$`F`$是适应度，$`\sigma`$是噪声强度，$`\eta(t)`$是随机噪声。
+其中$\mu$是迁移率，$F$是适应度，$\sigma$是噪声强度，$\eta(t)$是随机噪声。
 
 ### 生命的复杂度层级
 
@@ -224,7 +224,7 @@ $$\frac{dI}{dt} = \mu \cdot \nabla_I F + \sigma \cdot \eta(t)$$
 
 $$C_L = \sum_{i=1}^n w_i H_i - \sum_{i,j} I(H_i; H_j)$$
 
-其中$`H_i`$是第i层的信息熵，$`I(H_i; H_j)`$是层级间互信息。
+其中$H_i$是第i层的信息熵，$I(H_i; H_j)$是层级间互信息。
 
 ### 多样性的熵基础
 
@@ -242,7 +242,7 @@ $$D \propto \Delta S_{可行} = S_{最大} - S_{最小}$$
 
 $$\Delta S_{总体} = \Delta S_{生命} + \Delta S_{环境} + \Delta S_{宇宙}$$
 
-其中$`\Delta S_{生命} < 0`$，表明生命活动可能在宇宙熵演化中扮演特殊角色。
+其中$\Delta S_{生命} < 0$，表明生命活动可能在宇宙熵演化中扮演特殊角色。
 
 ### 信息-物质-意识关系
 

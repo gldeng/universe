@@ -7,11 +7,11 @@
 
 ## 问题描述 | Problem Description
 
-康托尔猜想，也称为连续统假设（Continuum Hypothesis），由德国数学家格奥尔格·康托尔于1878年提出。它声称不存在集合$`S`$使其基数严格大于自然数集$`\mathbb{N}`$的基数$`\aleph_0`$（可数无穷）但又严格小于实数集$`\mathbb{R}`$的基数$`2^{\aleph_0}`$（连续统）。
+康托尔猜想，也称为连续统假设（Continuum Hypothesis），由德国数学家格奥尔格·康托尔于1878年提出。它声称不存在集合$S$使其基数严格大于自然数集$\mathbb{N}$的基数$\aleph_0$（可数无穷）但又严格小于实数集$\mathbb{R}$的基数$2^{\aleph_0}$（连续统）。
 
 这一猜想在1940年被库尔特·哥德尔证明与ZFC公理系统相容，之后在1963年被保罗·科恩证明在ZFC公理系统中无法被证明或反驳，因此成为一个独立于标准集合论公理的命题。
 
-Cantor's conjecture, also known as the Continuum Hypothesis, was proposed by German mathematician Georg Cantor in 1878. It states that there is no set $`S`$ whose cardinality is strictly greater than the cardinality $`\aleph_0`$ of the set of natural numbers $`\mathbb{N}`$ (countable infinity) but strictly less than the cardinality $`2^{\aleph_0}`$ of the set of real numbers $`\mathbb{R}`$ (the continuum).
+Cantor's conjecture, also known as the Continuum Hypothesis, was proposed by German mathematician Georg Cantor in 1878. It states that there is no set $S$ whose cardinality is strictly greater than the cardinality $\aleph_0$ of the set of natural numbers $\mathbb{N}$ (countable infinity) but strictly less than the cardinality $2^{\aleph_0}$ of the set of real numbers $\mathbb{R}$ (the continuum).
 
 This conjecture was proven to be consistent with the ZFC axiom system by Kurt Gödel in 1940, and later in 1963, Paul Cohen proved that it cannot be proved or disproved within the ZFC axiom system, thus becoming a proposition independent of standard set theory axioms.
 
@@ -29,7 +29,7 @@ $$
 \nexists S \text{ 使得 } \aleph_0 < |S| < 2^{\aleph_0}
 $$
 
-其中$`\aleph_0`$表示可数无穷集合（如自然数集）的基数，$`2^{\aleph_0}`$表示实数集的基数。
+其中$\aleph_0$表示可数无穷集合（如自然数集）的基数，$2^{\aleph_0}$表示实数集的基数。
 
 在ZFC公理系统中，我们采用以下定义：
 
@@ -40,7 +40,7 @@ $$
 \end{align}
 $$
 
-其中$`\mathcal{P}(\mathbb{N})`$表示自然数集的幂集。
+其中$\mathcal{P}(\mathbb{N})$表示自然数集的幂集。
 
 The Continuum Hypothesis can be formally expressed as:
 
@@ -48,7 +48,7 @@ $$
 \nexists S \text{ such that } \aleph_0 < |S| < 2^{\aleph_0}
 $$
 
-where $`\aleph_0`$ represents the cardinality of countably infinite sets (such as the set of natural numbers), and $`2^{\aleph_0}`$ represents the cardinality of the set of real numbers.
+where $\aleph_0$ represents the cardinality of countably infinite sets (such as the set of natural numbers), and $2^{\aleph_0}$ represents the cardinality of the set of real numbers.
 
 In the ZFC axiom system, we adopt the following definitions:
 
@@ -59,7 +59,7 @@ $$
 \end{align}
 $$
 
-where $`\mathcal{P}(\mathbb{N})`$ represents the power set of the set of natural numbers.
+where $\mathcal{P}(\mathbb{N})$ represents the power set of the set of natural numbers.
 
 ## 形式化证明 | Formal Proof
 
@@ -84,7 +84,7 @@ $$
 \end{align}
 $$
 
-其中$`\text{Con}(T)`$表示理论$`T`$的一致性。
+其中$\text{Con}(T)$表示理论$T$的一致性。
 
 First, we state the precise formulation of the Gödel-Cohen independence result:
 
@@ -101,17 +101,17 @@ $$
 \end{align}
 $$
 
-where $`\text{Con}(T)`$ represents the consistency of theory $`T`$.
+where $\text{Con}(T)$ represents the consistency of theory $T$.
 
 ### 2. 基数层次的严格形式化 | Strict Formalization of Cardinal Hierarchy
 
-**定义 2.1**（基数）：集合$`X`$的基数$`|X|`$是能够与$`X`$建立双射的最小序数。
+**定义 2.1**（基数）：集合$X$的基数$|X|$是能够与$X$建立双射的最小序数。
 
-**定义 2.2**（基数算术）：对于任意基数$`\kappa`$，我们定义：
-- $`\kappa^+ = \min\{\lambda : \lambda \text{ 是基数且 } \lambda > \kappa\}`$
-- $`2^\kappa = |\mathcal{P}(\kappa)|`$，其中$`\mathcal{P}(\kappa)`$是基数为$`\kappa`$的任意集合的幂集
+**定义 2.2**（基数算术）：对于任意基数$\kappa$，我们定义：
+- $\kappa^+ = \min\{\lambda : \lambda \text{ 是基数且 } \lambda > \kappa\}$
+- $2^\kappa = |\mathcal{P}(\kappa)|$，其中$\mathcal{P}(\kappa)$是基数为$\kappa$的任意集合的幂集
 
-**定理 2.3**（康托尔定理）：对于任意集合$`X`$，$`|X| < |\mathcal{P}(X)|`$。
+**定理 2.3**（康托尔定理）：对于任意集合$X$，$|X| < |\mathcal{P}(X)|$。
 
 形式化表示为：
 
@@ -119,15 +119,15 @@ $$
 \forall X, |X| < |\mathcal{P}(X)|
 $$
 
-由此可得：$`\aleph_0 < 2^{\aleph_0}`$。
+由此可得：$\aleph_0 < 2^{\aleph_0}$。
 
-**Definition 2.1** (Cardinality): The cardinality $`|X|`$ of a set $`X`$ is the smallest ordinal that can be put in one-to-one correspondence with $`X`$.
+**Definition 2.1** (Cardinality): The cardinality $|X|$ of a set $X$ is the smallest ordinal that can be put in one-to-one correspondence with $X$.
 
-**Definition 2.2** (Cardinal Arithmetic): For any cardinal $`\kappa`$, we define:
-- $`\kappa^+ = \min\{\lambda : \lambda \text{ is a cardinal and } \lambda > \kappa\}`$
-- $`2^\kappa = |\mathcal{P}(\kappa)|`$, where $`\mathcal{P}(\kappa)`$ is the power set of any set with cardinality $`\kappa`$
+**Definition 2.2** (Cardinal Arithmetic): For any cardinal $\kappa$, we define:
+- $\kappa^+ = \min\{\lambda : \lambda \text{ is a cardinal and } \lambda > \kappa\}$
+- $2^\kappa = |\mathcal{P}(\kappa)|$, where $\mathcal{P}(\kappa)$ is the power set of any set with cardinality $\kappa$
 
-**Theorem 2.3** (Cantor's Theorem): For any set $`X`$, $`|X| < |\mathcal{P}(X)|`$.
+**Theorem 2.3** (Cantor's Theorem): For any set $X$, $|X| < |\mathcal{P}(X)|$.
 
 Formally represented as:
 
@@ -135,13 +135,13 @@ $$
 \forall X, |X| < |\mathcal{P}(X)|
 $$
 
-From this, we can derive: $`\aleph_0 < 2^{\aleph_0}`$.
+From this, we can derive: $\aleph_0 < 2^{\aleph_0}$.
 
 ### 3. 连续统假设的等价表述 | Equivalent Formulations of the Continuum Hypothesis
 
 **定理 3.1**：以下陈述在ZFC中是等价的：
-1. 连续统假设：$`\nexists S`$ 使得 $`\aleph_0 < |S| < 2^{\aleph_0}`$
-2. $`2^{\aleph_0} = \aleph_1`$
+1. 连续统假设：$\nexists S$ 使得 $\aleph_0 < |S| < 2^{\aleph_0}$
+2. $2^{\aleph_0} = \aleph_1$
 3. 任何无限的实数子集要么是可数的，要么与整个实数集等势
 
 形式化表示为：
@@ -154,8 +154,8 @@ $$
 $$
 
 **Theorem 3.1**: The following statements are equivalent in ZFC:
-1. Continuum Hypothesis: $`\nexists S`$ such that $`\aleph_0 < |S| < 2^{\aleph_0}`$
-2. $`2^{\aleph_0} = \aleph_1`$
+1. Continuum Hypothesis: $\nexists S$ such that $\aleph_0 < |S| < 2^{\aleph_0}$
+2. $2^{\aleph_0} = \aleph_1$
 3. Any infinite subset of real numbers is either countable or has the same cardinality as the entire set of real numbers
 
 Formally represented as:
@@ -171,31 +171,31 @@ $$
 
 现在，我们通过量子-经典二元论对连续统假设提供一个信息论解释：
 
-**定义 4.1**（量子-经典信息映射）：定义映射函数 $`\Phi: \mathcal{Q} \to \mathcal{C}`$，其中 $`\mathcal{Q}`$ 是量子信息域，$`\mathcal{C}`$ 是经典信息域。
+**定义 4.1**（量子-经典信息映射）：定义映射函数 $\Phi: \mathcal{Q} \to \mathcal{C}$，其中 $\mathcal{Q}$ 是量子信息域，$\mathcal{C}$ 是经典信息域。
 
-**定义 4.2**（信息基数函数）：定义信息基数函数 $`\mathcal{I}`$，使得：
-- $`\mathcal{I}(\mathbb{N}) = \aleph_0`$
-- $`\mathcal{I}(\mathbb{R}) = 2^{\aleph_0}`$
+**定义 4.2**（信息基数函数）：定义信息基数函数 $\mathcal{I}$，使得：
+- $\mathcal{I}(\mathbb{N}) = \aleph_0$
+- $\mathcal{I}(\mathbb{R}) = 2^{\aleph_0}$
 
-**定理 4.3**（信息跃变定理）：若存在信息态 $`S`$ 满足 $`\aleph_0 < \mathcal{I}(S) < 2^{\aleph_0}`$，则量子-经典转换必然是连续的而非离散跃变的。
+**定理 4.3**（信息跃变定理）：若存在信息态 $S$ 满足 $\aleph_0 < \mathcal{I}(S) < 2^{\aleph_0}$，则量子-经典转换必然是连续的而非离散跃变的。
 
 Now, we provide an information-theoretic interpretation of the Continuum Hypothesis through the quantum-classical dualism:
 
-**Definition 4.1** (Quantum-Classical Information Mapping): Define a mapping function $`\Phi: \mathcal{Q} \to \mathcal{C}`$, where $`\mathcal{Q}`$ is the quantum information domain and $`\mathcal{C}`$ is the classical information domain.
+**Definition 4.1** (Quantum-Classical Information Mapping): Define a mapping function $\Phi: \mathcal{Q} \to \mathcal{C}$, where $\mathcal{Q}$ is the quantum information domain and $\mathcal{C}$ is the classical information domain.
 
-**Definition 4.2** (Information Cardinality Function): Define an information cardinality function $`\mathcal{I}`$ such that:
-- $`\mathcal{I}(\mathbb{N}) = \aleph_0`$
-- $`\mathcal{I}(\mathbb{R}) = 2^{\aleph_0}`$
+**Definition 4.2** (Information Cardinality Function): Define an information cardinality function $\mathcal{I}$ such that:
+- $\mathcal{I}(\mathbb{N}) = \aleph_0$
+- $\mathcal{I}(\mathbb{R}) = 2^{\aleph_0}$
 
-**Theorem 4.3** (Information Transition Theorem): If there exists an information state $`S`$ satisfying $`\aleph_0 < \mathcal{I}(S) < 2^{\aleph_0}`$, then the quantum-classical transition must be continuous rather than a discrete jump.
+**Theorem 4.3** (Information Transition Theorem): If there exists an information state $S$ satisfying $\aleph_0 < \mathcal{I}(S) < 2^{\aleph_0}$, then the quantum-classical transition must be continuous rather than a discrete jump.
 
 ### 5. 观察者依赖性的严格公理化 | Strict Axiomatization of Observer Dependence
 
 我们引入观察者依赖性的严格公理：
 
-**公理 5.1**（观察者选择公理）：存在观察者模型 $`\mathcal{O}_A`$ 和 $`\mathcal{O}_B`$，使得：
-- 在 $`\mathcal{O}_A`$ 下，连续统假设成立
-- 在 $`\mathcal{O}_B`$ 下，连续统假设不成立
+**公理 5.1**（观察者选择公理）：存在观察者模型 $\mathcal{O}_A$ 和 $\mathcal{O}_B$，使得：
+- 在 $\mathcal{O}_A$ 下，连续统假设成立
+- 在 $\mathcal{O}_B$ 下，连续统假设不成立
 
 形式化表示为：
 
@@ -206,7 +206,7 @@ $$
 \end{align}
 $$
 
-其中 $`\models`$ 表示语义蕴含关系。
+其中 $\models$ 表示语义蕴含关系。
 
 **定理 5.2**（观察者不确定性）：不存在观察者无关的方法来确定连续统假设的真假。
 
@@ -218,9 +218,9 @@ $$
 
 We introduce strict axioms for observer dependence:
 
-**Axiom 5.1** (Observer Choice Axiom): There exist observer models $`\mathcal{O}_A`$ and $`\mathcal{O}_B`$ such that:
-- Under $`\mathcal{O}_A`$, the Continuum Hypothesis holds
-- Under $`\mathcal{O}_B`$, the Continuum Hypothesis does not hold
+**Axiom 5.1** (Observer Choice Axiom): There exist observer models $\mathcal{O}_A$ and $\mathcal{O}_B$ such that:
+- Under $\mathcal{O}_A$, the Continuum Hypothesis holds
+- Under $\mathcal{O}_B$, the Continuum Hypothesis does not hold
 
 Formally represented as:
 
@@ -231,7 +231,7 @@ $$
 \end{align}
 $$
 
-where $`\models`$ represents the semantic entailment relation.
+where $\models$ represents the semantic entailment relation.
 
 **Theorem 5.2** (Observer Uncertainty): There exists no observer-independent method to determine the truth of the Continuum Hypothesis.
 
@@ -243,7 +243,7 @@ $$
 
 ### 6. 完备性与独立性的形式关系 | Formal Relationship Between Completeness and Independence
 
-**定理 6.1**（观察者完备性定理）：对于任意ZFC模型 $`\mathcal{M}`$，存在观察者框架 $`\mathcal{O}_{\mathcal{M}}`$，使得在该框架下，$`\mathcal{M}`$ 是完备的。
+**定理 6.1**（观察者完备性定理）：对于任意ZFC模型 $\mathcal{M}$，存在观察者框架 $\mathcal{O}_{\mathcal{M}}$，使得在该框架下，$\mathcal{M}$ 是完备的。
 
 形式化表示为：
 
@@ -251,9 +251,9 @@ $$
 \forall \mathcal{M} \exists \mathcal{O}_{\mathcal{M}} : \forall \varphi (\mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \varphi \lor \mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \lnot\varphi)
 $$
 
-其中 $`\varphi`$ 是任意一阶逻辑公式。
+其中 $\varphi$ 是任意一阶逻辑公式。
 
-**定理 6.2**（观察者依赖的哥德尔不完备性）：不存在通用观察者框架 $`\mathcal{O}_U`$ 使得所有一阶逻辑命题在该框架下都能被确定真假。
+**定理 6.2**（观察者依赖的哥德尔不完备性）：不存在通用观察者框架 $\mathcal{O}_U$ 使得所有一阶逻辑命题在该框架下都能被确定真假。
 
 形式化表示为：
 
@@ -261,7 +261,7 @@ $$
 \lnot\exists \mathcal{O}_U \forall \mathcal{M} \forall \varphi (\mathcal{M}, \mathcal{O}_U \models \varphi \lor \mathcal{M}, \mathcal{O}_U \models \lnot\varphi)
 $$
 
-**Theorem 6.1** (Observer Completeness Theorem): For any ZFC model $`\mathcal{M}`$, there exists an observer framework $`\mathcal{O}_{\mathcal{M}}`$ such that under this framework, $`\mathcal{M}`$ is complete.
+**Theorem 6.1** (Observer Completeness Theorem): For any ZFC model $\mathcal{M}$, there exists an observer framework $\mathcal{O}_{\mathcal{M}}$ such that under this framework, $\mathcal{M}$ is complete.
 
 Formally represented as:
 
@@ -269,9 +269,9 @@ $$
 \forall \mathcal{M} \exists \mathcal{O}_{\mathcal{M}} : \forall \varphi (\mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \varphi \lor \mathcal{M}, \mathcal{O}_{\mathcal{M}} \models \lnot\varphi)
 $$
 
-where $`\varphi`$ is any first-order logic formula.
+where $\varphi$ is any first-order logic formula.
 
-**Theorem 6.2** (Observer-Dependent Gödel Incompleteness): There exists no universal observer framework $`\mathcal{O}_U`$ such that all first-order logic propositions can have their truth determined under this framework.
+**Theorem 6.2** (Observer-Dependent Gödel Incompleteness): There exists no universal observer framework $\mathcal{O}_U$ such that all first-order logic propositions can have their truth determined under this framework.
 
 Formally represented as:
 

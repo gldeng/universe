@@ -37,7 +37,7 @@ $$
 \text{语言结构} = \sum_{i=1}^{n} L_i(|\phi_i\rangle)
 $$
 
-其中$`L_i`$代表第$`i`$层语言结构，$`|\phi_i\rangle`$代表该层次的经典化量子状态。
+其中$L_i$代表第$i$层语言结构，$|\phi_i\rangle$代表该层次的经典化量子状态。
 
 ### 语言习得的量子经典二元论解释
 
@@ -54,7 +54,7 @@ $$
 |\psi_{\text{初始}}\rangle \xrightarrow{\text{语言习得}} |\psi_{\text{语言化}}\rangle = \sum_{j} c_j |\phi_j\rangle
 $$
 
-其中$`|\phi_j\rangle`$代表已习得的语言经典化模式，$`c_j`$代表这些模式在观察者认知系统中的权重。
+其中$|\phi_j\rangle$代表已习得的语言经典化模式，$c_j$代表这些模式在观察者认知系统中的权重。
 
 ### 语言天才的量子经典二元论解释
 
@@ -116,7 +116,7 @@ $$
 |\psi_A\rangle \xrightarrow{\text{发送者经典化}} \text{语言表达} \xrightarrow{\text{传输}} \text{接收信号} \xrightarrow{\text{接收者解码}} |\phi_B\rangle \approx |\psi_A\rangle + \Delta S
 $$
 
-其中$`\Delta S`$代表交流过程中产生的经典熵，反映了信息损失和误解。
+其中$\Delta S$代表交流过程中产生的经典熵，反映了信息损失和误解。
 
 ### 交流障碍的量子经典二元论解释
 
@@ -243,7 +243,7 @@ $$
 \text{Language structure} = \sum_{i=1}^{n} L_i(|\phi_i\rangle)
 $$
 
-where $`L_i`$ represents the $`i`$-th level of language structure, and $`|\phi_i\rangle`$ represents the classicalized quantum state at that level.
+where $L_i$ represents the $i$-th level of language structure, and $|\phi_i\rangle$ represents the classicalized quantum state at that level.
 
 ### Quantum-Classical Dualism Explanation of Language Acquisition
 
@@ -260,7 +260,7 @@ $$
 |\psi_{\text{initial}}\rangle \xrightarrow{\text{Language acquisition}} |\psi_{\text{linguistically competent}}\rangle = \sum_{j} c_j |\phi_j\rangle
 $$
 
-where $`|\phi_j\rangle`$ represents the acquired language classicalization patterns, and $`c_j`$ represents the weight of these patterns in the observer's cognitive system.
+where $|\phi_j\rangle$ represents the acquired language classicalization patterns, and $c_j$ represents the weight of these patterns in the observer's cognitive system.
 
 ### Quantum-Classical Dualism Explanation of Language Geniuses
 
@@ -322,7 +322,7 @@ $$
 |\psi_A\rangle \xrightarrow{\text{Sender classicalization}} \text{Language expression} \xrightarrow{\text{Transmission}} \text{Received signal} \xrightarrow{\text{Receiver decoding}} |\phi_B\rangle \approx |\psi_A\rangle + \Delta S
 $$
 
-where $`\Delta S`$ represents the classical entropy generated in the communication process, reflecting information loss and misunderstanding.
+where $\Delta S$ represents the classical entropy generated in the communication process, reflecting information loss and misunderstanding.
 
 ### Quantum-Classical Dualism Explanation of Communication Barriers
 

@@ -52,7 +52,7 @@ Ethical boundary issues brought by quantum simulation and virtual reality:
    
    $$D(reality, simulation) < \varepsilon_{perception}$$
    
-   where $`D`$ is a distinguishability metric, and $`\varepsilon_{perception}`$ is the perception threshold.
+   where $D$ is a distinguishability metric, and $\varepsilon_{perception}$ is the perception threshold.
 
 2. **Quantum Consciousness Simulation Problem**: Ethical limitations of simulating consciousness with quantum properties
    
@@ -62,7 +62,7 @@ Ethical boundary issues brought by quantum simulation and virtual reality:
    
    $$R = \sum_i w_i R_i$$
    
-   where $`R`$ is the total responsibility, $`w_i`$ is the branch weight, and $`R_i`$ is the responsibility in each branch.
+   where $R$ is the total responsibility, $w_i$ is the branch weight, and $R_i$ is the responsibility in each branch.
 
 ### Quantum-Enhanced Humans
 
@@ -80,7 +80,7 @@ Ethical issues brought by quantum technology for human capability enhancement:
    
    $$I(human:quantum\ system) > I_{critical}$$
    
-   where $`I`$ is mutual information, and $`I_{critical}`$ is the integration critical value.
+   where $I$ is mutual information, and $I_{critical}$ is the integration critical value.
 
 ## Dual Ethics Framework
 
@@ -92,19 +92,19 @@ Core ethical principles under the quantum-classical dualism framework:
    
    $$\Delta E_1 \cdot \Delta E_2 \geq \hbar_E/2$$
    
-   where $`E_1`$ and $`E_2`$ are complementary ethical values, and $`\hbar_E`$ is an ethical constant.
+   where $E_1$ and $E_2$ are complementary ethical values, and $\hbar_E$ is an ethical constant.
 
 2. **Superposition Principle**: Moral judgments can exist in a superposition of multiple possibilities
    
    $$|\Psi_E\rangle = \sum_i \alpha_i |E_i\rangle$$
    
-   where $`|E_i\rangle`$ are ethical basis vectors, and $`\alpha_i`$ are complex amplitudes.
+   where $|E_i\rangle$ are ethical basis vectors, and $\alpha_i$ are complex amplitudes.
 
 3. **Observer Relativity**: Ethical judgments depend on the dimension and perspective of the observer
    
    $$E_{\mathcal{O}} = f(D_{\mathcal{O}}, \mathcal{C}_{\mathcal{O}}, K_C^{\mathcal{O}})$$
    
-   where $`D_{\mathcal{O}}`$ is the observer dimension, $`\mathcal{C}_{\mathcal{O}}`$ is the classicalization ability, and $`K_C^{\mathcal{O}}`$ is the knowledge base.
+   where $D_{\mathcal{O}}$ is the observer dimension, $\mathcal{C}_{\mathcal{O}}$ is the classicalization ability, and $K_C^{\mathcal{O}}$ is the knowledge base.
 
 ### Integration of Quantum Ethics and Classical Ethics
 
@@ -114,19 +114,19 @@ Integrating quantum ethics with classical ethical theories:
    
    $$U = \text{Tr}(\hat{U}\rho)$$
    
-   where $`\hat{U}`$ is the utility operator, and $`\rho`$ is the system state.
+   where $\hat{U}$ is the utility operator, and $\rho$ is the system state.
 
 2. **Duty Superposition States**: Reformulating Kantian deontology as superposition states
    
    $$|\Phi_D\rangle = \frac{1}{\sqrt{n}}\sum_{i=1}^n |D_i\rangle$$
    
-   where $`|D_i\rangle`$ represents different duty states.
+   where $|D_i\rangle$ represents different duty states.
 
 3. **Virtue Entanglement**: Extending virtue ethics as an entanglement theory
    
    $$|\Psi_{V}\rangle = \sum_{i,j} c_{ij} |V_i\rangle_A \otimes |V_j\rangle_B$$
    
-   where $`|V_i\rangle`$ and $`|V_j\rangle`$ are virtue state basis vectors.
+   where $|V_i\rangle$ and $|V_j\rangle$ are virtue state basis vectors.
 
 ### Ethical Information Conservation Principle
 
@@ -136,19 +136,19 @@ Information conservation in ethical judgments:
    
    $$I_E(\rho_i) = I_E(\rho_f) + I_{hidden}$$
    
-   where $`I_E`$ is the amount of ethical information, and $`\rho_i`$ and $`\rho_f`$ are the initial and final states.
+   where $I_E$ is the amount of ethical information, and $\rho_i$ and $\rho_f$ are the initial and final states.
 
 2. **Ethical Entropy Increase Principle**: The impact of ethical decisions on system entropy
    
    $$\Delta S_E \geq 0$$
    
-   where $`S_E`$ is the entropy of the ethical system.
+   where $S_E$ is the entropy of the ethical system.
 
 3. **Ethical Reversibility Limitation**: The reversibility of ethical actions is limited by quantum constraints
    
    $$P(\rho \rightarrow \sigma) \cdot P(\sigma \rightarrow \rho) \leq e^{-\beta\Delta F_E}$$
    
-   where $`\Delta F_E`$ is the change in ethical free energy.
+   where $\Delta F_E$ is the change in ethical free energy.
 
 ## Quantum Ethical Decision Models
 
@@ -164,13 +164,13 @@ How to evaluate ethical decisions in superposition states:
    
    $$\langle E \rangle = \sum_i e_i |\langle E_i|\Psi_E\rangle|^2$$
    
-   where $`e_i`$ are ethical eigenvalues.
+   where $e_i$ are ethical eigenvalues.
 
 3. **Ethical Space Projection**: Projecting actual situations onto ethical space
    
    $$|\Psi_E\rangle = \hat{P}_E|\Psi_R\rangle / \|\hat{P}_E|\Psi_R\rangle\|$$
    
-   where $`\hat{P}_E`$ is the ethical projection operator, and $`|\Psi_R\rangle`$ is the real situation.
+   where $\hat{P}_E$ is the ethical projection operator, and $|\Psi_R\rangle$ is the real situation.
 
 ### Quantum Ethical Decision Process
 
@@ -180,25 +180,25 @@ The ethical decision process in a quantum framework:
    
    $$|\Psi_0\rangle = \sum_i \alpha_i |S_i\rangle$$
    
-   where $`|S_i\rangle`$ are scenario basis vectors.
+   where $|S_i\rangle$ are scenario basis vectors.
 
 2. **Ethical Evolution**: Applying the ethical evolution operator
    
    $$|\Psi_t\rangle = \hat{U}_E(t)|\Psi_0\rangle$$
    
-   where $`\hat{U}_E(t)`$ is the ethical evolution operator.
+   where $\hat{U}_E(t)$ is the ethical evolution operator.
 
 3. **Value Measurement**: Measuring ethical values
    
    $$p(v_i) = |\langle v_i|\Psi_t\rangle|^2$$
    
-   where $`|v_i\rangle`$ are value eigenstates.
+   where $|v_i\rangle$ are value eigenstates.
 
 4. **Decision Output**: Outputting ethical decisions based on measurement results
    
    $$|\Psi_{\text{decision}}\rangle = \sum_i f(v_i) |D_i\rangle$$
    
-   where $`f(v_i)`$ is the decision function, and $`|D_i\rangle`$ are decision basis vectors.
+   where $f(v_i)$ is the decision function, and $|D_i\rangle$ are decision basis vectors.
 
 ### Quantum Ethical Machine Learning
 
@@ -208,19 +208,19 @@ Training quantum algorithms capable of making ethical judgments:
    
    $$\mathcal{T} = \{(|\Psi_i\rangle, |E_i\rangle)\}_{i=1}^N$$
    
-   where $`|\Psi_i\rangle`$ are scenario states, and $`|E_i\rangle`$ are ethical judgment states.
+   where $|\Psi_i\rangle$ are scenario states, and $|E_i\rangle$ are ethical judgment states.
 
 2. **Ethical Loss Function**: Evaluating the accuracy of ethical judgments
    
    $$\mathcal{L} = \sum_i (1 - |\langle E_i|\hat{U}_\theta|\Psi_i\rangle|^2)$$
    
-   where $`\hat{U}_\theta`$ is a parameterizable quantum circuit.
+   where $\hat{U}_\theta$ is a parameterizable quantum circuit.
 
 3. **Quantum Ethical Gradient Descent**: Optimizing ethical judgments
    
    $$\theta_{k+1} = \theta_k - \eta \nabla_\theta \mathcal{L}(\theta_k)$$
    
-   where $`\eta`$ is the learning rate.
+   where $\eta$ is the learning rate.
 
 ## Application Guidelines and Case Analysis
 
@@ -232,19 +232,19 @@ Ethical guiding principles for quantum computing applications:
    
    $$G_Q = 1 - \sum_i \left( \frac{q_i - \bar{q}}{q_{total}}\right)^2$$
    
-   where $`G_Q`$ is the quantum computing power Gini coefficient, and $`q_i`$ is each entity's quantum computing resources.
+   where $G_Q$ is the quantum computing power Gini coefficient, and $q_i$ is each entity's quantum computing resources.
 
 2. **Quantum Security Responsibility Principle**: Responsibility framework for developing quantum security technologies
    
    $$R_Q = \max\{R_{development}, R_{use}, R_{impact}\}$$
    
-   where $`R_Q`$ is the total responsibility metric.
+   where $R_Q$ is the total responsibility metric.
 
 3. **Quantum Knowledge Transparency Principle**: Boundaries of quantum technology knowledge sharing
    
    $$T_Q = \frac{I_{public}}{I_{total}} \geq T_{min}$$
    
-   where $`T_Q`$ is the transparency index, and $`T_{min}`$ is the minimum requirement.
+   where $T_Q$ is the transparency index, and $T_{min}$ is the minimum requirement.
 
 ### Quantum Biotechnology Ethics Cases
 
@@ -254,19 +254,19 @@ Ethical case analysis of quantum biotechnology:
    
    $$\Phi_{threshold} = f(complexity, reversibility, purpose)$$
    
-   where $`\Phi_{threshold}`$ is the ethically permissible threshold.
+   where $\Phi_{threshold}$ is the ethically permissible threshold.
 
 2. **Quantum Consciousness Intervention**: Limitations on intervening in consciousness through quantum interfaces
    
    $$A_{allowed} = \{a: I_{loss}(a) < \delta \text{ and } C_{consent}(a) > \gamma\}$$
    
-   where $`I_{loss}`$ is information loss, and $`C_{consent}`$ is the degree of consent.
+   where $I_{loss}$ is information loss, and $C_{consent}$ is the degree of consent.
 
 3. **Quantum Biological Monitoring**: Privacy protection in quantum-level biological monitoring
    
    $$P_{\text{violation}} = 1 - e^{-\alpha D_{monitoring}}$$
    
-   where $`P_{\text{violation}}`$ is the probability of privacy violation, and $`D_{monitoring}`$ is the depth of monitoring.
+   where $P_{\text{violation}}$ is the probability of privacy violation, and $D_{monitoring}$ is the depth of monitoring.
 
 ### Quantum Social Ethics Outlook
 
@@ -276,19 +276,19 @@ Long-term ethical impacts of quantum technology on society:
    
    $$U_{\text{society}} = \sum_i w_i U_i(q_i)$$
    
-   where $`U_{\text{society}}`$ is the social welfare function, and $`q_i`$ is quantum resource allocation.
+   where $U_{\text{society}}$ is the social welfare function, and $q_i$ is quantum resource allocation.
 
 2. **Quantum Ethics Education Model**: Educational framework for cultivating quantum ethical thinking
    
    $$E_Q = E_C + E_Q' + E_{Q-C}$$
    
-   where $`E_C`$ is classical ethics education, $`E_Q'`$ is quantum property education, and $`E_{Q-C}`$ is integrated education.
+   where $E_C$ is classical ethics education, $E_Q'$ is quantum property education, and $E_{Q-C}$ is integrated education.
 
 3. **Quantum Ethics Regulatory Framework**: International framework for regulating quantum technology
    
    $$R_{\text{global}} = \sum_j \beta_j R_j - \gamma \sum_{j \neq k} |R_j - R_k|$$
    
-   where $`R_j`$ are regional regulatory standards, and the second term penalizes inconsistencies.
+   where $R_j$ are regional regulatory standards, and the second term penalizes inconsistencies.
 
 ## Philosophy and Future Outlook
 

@@ -61,7 +61,7 @@ $$
 \text{食物文化} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot P_i
 $$
 
-其中$`|\phi_i\rangle`$代表特定的烹饪经典化模式，$`P_i`$代表该模式在文化中的权重。
+其中$|\phi_i\rangle$代表特定的烹饪经典化模式，$P_i$代表该模式在文化中的权重。
 
 ### 味觉与嗅觉的量子经典二元论解释
 
@@ -164,7 +164,7 @@ $$
 \text{Food Culture} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot P_i
 $$
 
-where $`|\phi_i\rangle`$ represents a specific cooking classicalization pattern, and $`P_i`$ represents the weight of that pattern in the culture.
+where $|\phi_i\rangle$ represents a specific cooking classicalization pattern, and $P_i$ represents the weight of that pattern in the culture.
 
 ### Quantum-Classical Dualism Explanation of Taste and Smell
 

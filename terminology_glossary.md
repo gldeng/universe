@@ -84,19 +84,19 @@ English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology
 
 | 符号 | 中文含义 | 英文含义 |
 |------|---------|---------|
-| $`\|\psi\rangle`$ | 量子波函数 | Quantum Wave Function |
-| $`I`$ | 信息量/经典知识 | Information Amount/Classical Knowledge |
-| $`S`$ | 熵/经典熵 | Entropy/Classical Entropy |
-| $`k`$ | 比例常数 | Proportionality Constant |
-| $`\otimes`$ | 张量积 | Tensor Product |
-| $`\sum`$ | 求和 | Summation |
-| $`\propto`$ | 正比于 | Proportional to |
-| $`w_i`$ | 权重因子 | Weight Factor |
-| $`\rightarrow`$ | 转化为 | Transform to |
-| $`\Leftrightarrow`$ | 等价于 | Equivalent to |
-| $`\xrightleftharpoons[]{}`$ | 可逆转化 | Reversible Transformation |
-| $`\cong`$ | 同构于 | Isomorphic to |
-| $`\supset`$ | 包含 | Contains |
+| $\|\psi\rangle$ | 量子波函数 | Quantum Wave Function |
+| $I$ | 信息量/经典知识 | Information Amount/Classical Knowledge |
+| $S$ | 熵/经典熵 | Entropy/Classical Entropy |
+| $k$ | 比例常数 | Proportionality Constant |
+| $\otimes$ | 张量积 | Tensor Product |
+| $\sum$ | 求和 | Summation |
+| $\propto$ | 正比于 | Proportional to |
+| $w_i$ | 权重因子 | Weight Factor |
+| $\rightarrow$ | 转化为 | Transform to |
+| $\Leftrightarrow$ | 等价于 | Equivalent to |
+| $\xrightleftharpoons[]{}$ | 可逆转化 | Reversible Transformation |
+| $\cong$ | 同构于 | Isomorphic to |
+| $\supset$ | 包含 | Contains |
 
 ## 与物理学理论的术语对比 (Comparison with Physics Theories)
 

@@ -266,7 +266,7 @@ $$
 \forall G(\text{平面图}), \chi(G) \leq 4
 $$
 
-其中$`\chi(G)`$是图$`G`$的色数，表示为了使相邻顶点颜色不同所需的最少颜色数。
+其中$\chi(G)$是图$G$的色数，表示为了使相邻顶点颜色不同所需的最少颜色数。
 
 ##### 形式化证明
 
@@ -288,7 +288,7 @@ $$
 
 #### 量子经典视角
 
-费马大定理（已被怀尔斯证明）声称当$`n > 2`$时，方程$`x^n + y^n = z^n`$没有正整数解。从量子经典视角，这反映了高维量子纠缠结构在经典化过程中的不可约性。
+费马大定理（已被怀尔斯证明）声称当$n > 2$时，方程$x^n + y^n = z^n$没有正整数解。从量子经典视角，这反映了高维量子纠缠结构在经典化过程中的不可约性。
 
 ##### 形式化描述
 
@@ -328,7 +328,7 @@ $$
 \nexists S \text{ 使得 } \aleph_0 < |S| < 2^{\aleph_0}
 $$
 
-其中$`\aleph_0`$是可数无穷集合（如自然数集）的基数，$`2^{\aleph_0}`$是实数集的基数。
+其中$\aleph_0$是可数无穷集合（如自然数集）的基数，$2^{\aleph_0}$是实数集的基数。
 
 ##### 形式化证明
 
@@ -360,7 +360,7 @@ $$
 \text{Gal}(\overline{F}/F) \text{ 的表示} \leftrightarrow \text{自守形式}
 $$
 
-其中$`F`$是数域，$`\text{Gal}(\overline{F}/F)`$是其伽罗瓦群。
+其中$F$是数域，$\text{Gal}(\overline{F}/F)$是其伽罗瓦群。
 
 ##### 形式化证明
 
@@ -401,7 +401,7 @@ $$
 \forall n \in \mathbb{Z}^+, \exists k \in \mathbb{N} \text{ 使得 } C^k(n) = 1
 $$
 
-其中$`C^k`$表示将函数$`C`$连续应用$`k`$次。
+其中$C^k$表示将函数$C$连续应用$k$次。
 
 ##### 形式化证明
 
@@ -427,7 +427,7 @@ $$
 
 ##### 形式化描述
 
-正整数$`n`$是完美数，当且仅当：
+正整数$n$是完美数，当且仅当：
 
 $$
 n = \sum_{d|n, d\neq n} d
@@ -459,11 +459,11 @@ $$
 
 #### 量子经典视角
 
-勾股数问题研究满足$`a^2 + b^2 = c^2`$的正整数三元组$`(a,b,c)`$的分布特性，特别是是否存在无穷多个差为1的勾股数对。从量子经典视角，这反映了经典域中最基本的几何-代数对应关系的分布模式。
+勾股数问题研究满足$a^2 + b^2 = c^2$的正整数三元组$(a,b,c)$的分布特性，特别是是否存在无穷多个差为1的勾股数对。从量子经典视角，这反映了经典域中最基本的几何-代数对应关系的分布模式。
 
 ##### 形式化描述
 
-勾股数三元组是满足以下条件的正整数$`(a,b,c)`$：
+勾股数三元组是满足以下条件的正整数$(a,b,c)$：
 
 $$
 a^2 + b^2 = c^2
@@ -498,13 +498,13 @@ $$
 
 ##### 形式化描述
 
-整数$`n`$的一个分拆是将$`n`$表示为正整数之和的一种方式：
+整数$n$的一个分拆是将$n$表示为正整数之和的一种方式：
 
 $$
 n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ 其中 } \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1
 $$
 
-分拆数$`p(n)`$是$`n`$的不同分拆的总数。
+分拆数$p(n)$是$n$的不同分拆的总数。
 
 ##### 形式化证明
 
@@ -535,7 +535,7 @@ $$
 
 ##### 形式化描述
 
-对于球体堆积，问题是确定最高的堆积密度$`\delta`$：
+对于球体堆积，问题是确定最高的堆积密度$\delta$：
 
 $$
 \delta = \frac{\text{球体占据的总体积}}{\text{整个空间的体积}}
@@ -576,7 +576,7 @@ $$
 \text{是否存在} f: \Omega \subset \mathbb{C}^n \to \mathbb{D}^n, \text{使得} f \text{是双全纯的?}
 $$
 
-其中$`\Omega`$是$`\mathbb{C}^n`$中的单连通域，$`\mathbb{D}^n`$是$`n`$维单位多圆盘。
+其中$\Omega$是$\mathbb{C}^n$中的单连通域，$\mathbb{D}^n$是$n$维单位多圆盘。
 
 ##### 形式化证明
 
@@ -601,13 +601,13 @@ $$
 
 ##### 形式化描述
 
-给定两个概率分布$`\mu`$和$`\nu`$，以及成本函数$`c(x,y)`$，最优传输问题是寻找传输计划$`\gamma`$，使得：
+给定两个概率分布$\mu$和$\nu$，以及成本函数$c(x,y)$，最优传输问题是寻找传输计划$\gamma$，使得：
 
 $$
 \int c(x,y) d\gamma(x,y) = \min_{\gamma \in \Gamma(\mu,\nu)} \int c(x,y) d\gamma(x,y)
 $$
 
-其中$`\Gamma(\mu,\nu)`$是满足边际条件的所有联合分布集合。
+其中$\Gamma(\mu,\nu)$是满足边际条件的所有联合分布集合。
 
 ##### 形式化证明
 
@@ -620,7 +620,7 @@ $$
 \end{align}
 $$
 
-其中$`\mathcal{W}_p`$是Wasserstein距离。
+其中$\mathcal{W}_p$是Wasserstein距离。
 
 量子经典预测：最优传输理论与量子力学中的作用量最小原理深度相关，反映了量子-经典转换过程中的基本效率原则。
 
@@ -634,13 +634,13 @@ $$
 
 ##### 形式化描述
 
-卡拉比-丘猜想声称：给定一个紧致的Kähler流形$`(M, g, J)`$和一个实$`(1,1)`$-形式$`\rho`$，如果$`\rho`$与$`g`$的Ricci形式在同一上同调类中，则存在唯一的Kähler度量$`\tilde{g}`$，使得：
+卡拉比-丘猜想声称：给定一个紧致的Kähler流形$(M, g, J)$和一个实$(1,1)$-形式$\rho$，如果$\rho$与$g$的Ricci形式在同一上同调类中，则存在唯一的Kähler度量$\tilde{g}$，使得：
 
 $$
 \text{Ric}(\tilde{g}) = \rho
 $$
 
-且$`\tilde{g}`$与$`g`$在同一Kähler类中。
+且$\tilde{g}$与$g$在同一Kähler类中。
 
 ##### 形式化证明
 
@@ -665,7 +665,7 @@ $$
 
 ##### 形式化描述
 
-对于有限群$`G`$，如果存在整数$`m`$和$`n`$使得$`(xy)^{m}=1`$对于所有$`x,y\in G`$满足$`x^{n}=y^{n}=1`$，则称$`G`$为周期群。伯恩赛德猜想可以表述为：
+对于有限群$G$，如果存在整数$m$和$n$使得$(xy)^{m}=1$对于所有$x,y\in G$满足$x^{n}=y^{n}=1$，则称$G$为周期群。伯恩赛德猜想可以表述为：
 
 $$
 \forall G(\text{有限周期群}), G \text{ 必为幂零群}
@@ -691,7 +691,7 @@ $$
 
 #### 量子经典视角
 
-贝特朗-切比雪夫猜想扩展形式声称对于任意整数$`n > 3`$，在区间$`[n, 2n-2]`$中至少存在一个素数。从量子经典视角，这反映了素数作为经典域基本观察者节点的分布密度下界。
+贝特朗-切比雪夫猜想扩展形式声称对于任意整数$n > 3$，在区间$[n, 2n-2]$中至少存在一个素数。从量子经典视角，这反映了素数作为经典域基本观察者节点的分布密度下界。
 
 ##### 形式化描述
 
@@ -701,7 +701,7 @@ $$
 \forall n > 3, \exists p \in [n, 2n-2], \text{使得} p \text{为素数}
 $$
 
-原始的贝特朗猜想（已被切比雪夫证明）是特殊情况：区间$`[n, 2n]`$中至少存在一个素数。
+原始的贝特朗猜想（已被切比雪夫证明）是特殊情况：区间$[n, 2n]$中至少存在一个素数。
 
 ##### 形式化证明
 
@@ -726,7 +726,7 @@ $$
 
 ##### 形式化描述
 
-对于任意复代数曲面$`S`$，若其不规则数$`q(S)=0`$，则其2维整系数同调群的挠部分$`\text{Tors}(H^2(S,\mathbb{Z}))`$是双线性配对下正交的：
+对于任意复代数曲面$S$，若其不规则数$q(S)=0$，则其2维整系数同调群的挠部分$\text{Tors}(H^2(S,\mathbb{Z}))$是双线性配对下正交的：
 
 $$
 \forall S(\text{代数曲面}), q(S)=0 \Rightarrow \text{Tors}(H^2(S,\mathbb{Z})) \text{ 是正交的}
@@ -756,13 +756,13 @@ $$
 
 ##### 形式化描述
 
-寻找常数$`L`$，使得：
+寻找常数$L$，使得：
 
 $$
 L = \inf\{A(K) : K \text{ 是凸集且能覆盖任意直径为1的平面集合}\}
 $$
 
-目前已知$`\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}`$。
+目前已知$\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}$。
 
 ##### 形式化证明
 
@@ -776,7 +776,7 @@ $$
 \end{align}
 $$
 
-量子经典预测：勒贝格常数$`L`$接近于$`\frac{\pi}{2\sqrt{3}}`$，因为它代表了量子信息经典化后的最优表达效率，与六边形密铺结构的基本效率相关。
+量子经典预测：勒贝格常数$L$接近于$\frac{\pi}{2\sqrt{3}}$，因为它代表了量子信息经典化后的最优表达效率，与六边形密铺结构的基本效率相关。
 
 **详细证明:** [勒贝格通用覆盖问题的量子经典二元论证明](mathematics_unsolved_problems/lebesgue_covering_problem.md)
 
@@ -788,13 +788,13 @@ $$
 
 ##### 形式化描述
 
-对于复射影流形$`X`$，辛普森猜想声称：
+对于复射影流形$X$，辛普森猜想声称：
 
 $$
-\forall E \text{（$`X`$上的半单纯平坦束）}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{（表示）}, \text{使得} E \cong E_\rho
+\forall E \text{（$X$上的半单纯平坦束）}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{（表示）}, \text{使得} E \cong E_\rho
 $$
 
-其中$`E_\rho`$是由表示$`\rho`$导出的平坦束。
+其中$E_\rho$是由表示$\rho$导出的平坦束。
 
 ##### 形式化证明
 
@@ -1084,7 +1084,7 @@ $$
 \forall G(\text{planar graph}), \chi(G) \leq 4
 $$
 
-where $`\chi(G)`$ is the chromatic number of graph $`G`$, representing the minimum number of colors needed to ensure adjacent vertices have different colors.
+where $\chi(G)$ is the chromatic number of graph $G$, representing the minimum number of colors needed to ensure adjacent vertices have different colors.
 
 ##### Formal Proof
 
@@ -1106,7 +1106,7 @@ Quantum-Classical prediction: The Four Color Theorem is true because it reflects
 
 #### Quantum-Classical Perspective
 
-Fermat's Last Theorem (proven by Wiles) asserts that when $`n > 2`$, the equation $`x^n + y^n = z^n`$ has no positive integer solutions. From a Quantum-Classical perspective, this reflects the irreducibility of high-dimensional quantum entanglement structures in the classicalization process.
+Fermat's Last Theorem (proven by Wiles) asserts that when $n > 2$, the equation $x^n + y^n = z^n$ has no positive integer solutions. From a Quantum-Classical perspective, this reflects the irreducibility of high-dimensional quantum entanglement structures in the classicalization process.
 
 ##### Formal Description
 
@@ -1146,7 +1146,7 @@ $$
 \nexists S \text{ such that } \aleph_0 < |S| < 2^{\aleph_0}
 $$
 
-where $`\aleph_0`$ is the cardinality of countably infinite sets (like the set of natural numbers), and $`2^{\aleph_0}`$ is the cardinality of the set of real numbers.
+where $\aleph_0$ is the cardinality of countably infinite sets (like the set of natural numbers), and $2^{\aleph_0}$ is the cardinality of the set of real numbers.
 
 ##### Formal Proof
 
@@ -1178,7 +1178,7 @@ $$
 \text{Representations of } \text{Gal}(\overline{F}/F) \leftrightarrow \text{Automorphic Forms}
 $$
 
-where $`F`$ is a number field, and $`\text{Gal}(\overline{F}/F)`$ is its Galois group.
+where $F$ is a number field, and $\text{Gal}(\overline{F}/F)$ is its Galois group.
 
 ##### Formal Proof
 
@@ -1219,7 +1219,7 @@ $$
 \forall n \in \mathbb{Z}^+, \exists k \in \mathbb{N} \text{ such that } C^k(n) = 1
 $$
 
-where $`C^k`$ represents applying the function $`C`$ continuously $`k`$ times.
+where $C^k$ represents applying the function $C$ continuously $k$ times.
 
 ##### Formal Proof
 
@@ -1245,7 +1245,7 @@ The Perfect Number Problem studies the distribution of perfect numbers (positive
 
 ##### Formal Description
 
-A positive integer $`n`$ is a perfect number if and only if:
+A positive integer $n$ is a perfect number if and only if:
 
 $$
 n = \sum_{d|n, d\neq n} d
@@ -1277,11 +1277,11 @@ Quantum-Classical predictions:
 
 #### Quantum-Classical Perspective
 
-The Pythagorean Triples Problem studies the distribution characteristics of positive integer triples $`(a,b,c)`$ satisfying $`a^2 + b^2 = c^2`$, especially whether there exist infinitely many Pythagorean triples where the difference is 1. From a Quantum-Classical perspective, this reflects the distribution pattern of the most basic geometric-algebraic correspondence in the classical domain.
+The Pythagorean Triples Problem studies the distribution characteristics of positive integer triples $(a,b,c)$ satisfying $a^2 + b^2 = c^2$, especially whether there exist infinitely many Pythagorean triples where the difference is 1. From a Quantum-Classical perspective, this reflects the distribution pattern of the most basic geometric-algebraic correspondence in the classical domain.
 
 ##### Formal Description
 
-A Pythagorean triple is a triple of positive integers $`(a,b,c)`$ satisfying:
+A Pythagorean triple is a triple of positive integers $(a,b,c)$ satisfying:
 
 $$
 a^2 + b^2 = c^2
@@ -1316,13 +1316,13 @@ The Integer Partition Problem studies different ways of representing a positive 
 
 ##### Formal Description
 
-A partition of integer $`n`$ is a way of representing $`n`$ as a sum of positive integers:
+A partition of integer $n$ is a way of representing $n$ as a sum of positive integers:
 
 $$
 n = \lambda_1 + \lambda_2 + \cdots + \lambda_k, \text{ where } \lambda_1 \geq \lambda_2 \geq \cdots \geq \lambda_k \geq 1
 $$
 
-The partition number $`p(n)`$ is the total number of different partitions of $`n`$.
+The partition number $p(n)$ is the total number of different partitions of $n$.
 
 ##### Formal Proof
 
@@ -1353,7 +1353,7 @@ The Rigid Body Packing Problem studies how to most densely pack identical object
 
 ##### Formal Description
 
-For sphere packing, the problem is to determine the highest packing density $`\delta`$:
+For sphere packing, the problem is to determine the highest packing density $\delta$:
 
 $$
 \delta = \frac{\text{Total Volume Occupied by Spheres}}{\text{Volume of the Entire Space}}
@@ -1394,7 +1394,7 @@ $$
 \text{Does there exist} f: \Omega \subset \mathbb{C}^n \to \mathbb{D}^n, \text{such that} f \text{is biholomorphic?}
 $$
 
-where $`\Omega`$ is a simply connected domain in $`\mathbb{C}^n`$, and $`\mathbb{D}^n`$ is the $`n`$-dimensional unit polydisk.
+where $\Omega$ is a simply connected domain in $\mathbb{C}^n$, and $\mathbb{D}^n$ is the $n$-dimensional unit polydisk.
 
 ##### Formal Proof
 
@@ -1419,13 +1419,13 @@ Optimal Transport Theory studies how to transform one probability distribution i
 
 ##### Formal Description
 
-Given two probability distributions $`\mu`$ and $`\nu`$, and a cost function $`c(x,y)`$, the optimal transport problem is to find a transport plan $`\gamma`$ such that:
+Given two probability distributions $\mu$ and $\nu$, and a cost function $c(x,y)$, the optimal transport problem is to find a transport plan $\gamma$ such that:
 
 $$
 \int c(x,y) d\gamma(x,y) = \min_{\gamma \in \Gamma(\mu,\nu)} \int c(x,y) d\gamma(x,y)
 $$
 
-where $`\Gamma(\mu,\nu)`$ is the set of all joint distributions satisfying the marginal conditions.
+where $\Gamma(\mu,\nu)$ is the set of all joint distributions satisfying the marginal conditions.
 
 ##### Formal Proof
 
@@ -1438,7 +1438,7 @@ $$
 \end{align}
 $$
 
-where $`\mathcal{W}_p`$ is the Wasserstein distance.
+where $\mathcal{W}_p$ is the Wasserstein distance.
 
 Quantum-Classical prediction: Optimal Transport Theory is deeply related to the principle of minimal action in quantum mechanics, reflecting the fundamental efficiency principle in the quantum-classical transformation process.
 
@@ -1452,13 +1452,13 @@ The Calabi-Yau Conjecture (proven by Yau) asserts the existence of specific metr
 
 ##### Formal Description
 
-The Calabi-Yau Conjecture asserts: Given a compact Kähler manifold $`(M, g, J)`$ and a real $`(1,1)`$-form $`\rho`$, if $`\rho`$ is in the same cohomology class as the Ricci form of $`g`$, then there exists a unique Kähler metric $`\tilde{g}`$ such that:
+The Calabi-Yau Conjecture asserts: Given a compact Kähler manifold $(M, g, J)$ and a real $(1,1)$-form $\rho$, if $\rho$ is in the same cohomology class as the Ricci form of $g$, then there exists a unique Kähler metric $\tilde{g}$ such that:
 
 $$
 \text{Ric}(\tilde{g}) = \rho
 $$
 
-and $`\tilde{g}`$ is in the same Kähler class as $`g`$.
+and $\tilde{g}$ is in the same Kähler class as $g$.
 
 ##### Formal Proof
 
@@ -1483,7 +1483,7 @@ The Burnside Conjecture focuses on periodicity issues in finite group theory, sp
 
 ##### Formal Description
 
-For a finite group $`G`$, if there exist integers $`m`$ and $`n`$ such that $`(xy)^{m}=1`$ for all $`x,y\in G`$ satisfying $`x^{n}=y^{n}=1`$, then $`G`$ is called a periodic group. The Burnside Conjecture can be stated as:
+For a finite group $G$, if there exist integers $m$ and $n$ such that $(xy)^{m}=1$ for all $x,y\in G$ satisfying $x^{n}=y^{n}=1$, then $G$ is called a periodic group. The Burnside Conjecture can be stated as:
 
 $$
 \forall G(\text{finite periodic group}), G \text{ must be a nilpotent group}
@@ -1509,7 +1509,7 @@ Quantum-Classical prediction: The Burnside Conjecture is true in certain restric
 
 #### Quantum-Classical Perspective
 
-The extended form of the Bertrand-Chebyshev Conjecture asserts that for any integer $`n > 3`$, there exists at least one prime in the interval $`[n, 2n-2]`$. From a Quantum-Classical perspective, this reflects the lower bound of the distribution density of prime numbers as basic observer nodes in the classical domain.
+The extended form of the Bertrand-Chebyshev Conjecture asserts that for any integer $n > 3$, there exists at least one prime in the interval $[n, 2n-2]$. From a Quantum-Classical perspective, this reflects the lower bound of the distribution density of prime numbers as basic observer nodes in the classical domain.
 
 ##### Formal Description
 
@@ -1519,7 +1519,7 @@ $$
 \forall n > 3, \exists p \in [n, 2n-2], \text{such that} p \text{is prime}
 $$
 
-The original Bertrand Conjecture (proven by Chebyshev) is a special case: there exists at least one prime in the interval $`[n, 2n]`$.
+The original Bertrand Conjecture (proven by Chebyshev) is a special case: there exists at least one prime in the interval $[n, 2n]$.
 
 ##### Formal Proof
 
@@ -1544,7 +1544,7 @@ Bloch's Conjecture focuses on the relationship between geometric and topological
 
 ##### Formal Description
 
-For any complex algebraic surface $`S`$, if its irregularity number $`q(S)=0`$, then the torsion part of its 2-dimensional integral cohomology group $`\text{Tors}(H^2(S,\mathbb{Z}))`$ is orthogonal under bilinear pairing:
+For any complex algebraic surface $S$, if its irregularity number $q(S)=0$, then the torsion part of its 2-dimensional integral cohomology group $\text{Tors}(H^2(S,\mathbb{Z}))$ is orthogonal under bilinear pairing:
 
 $$
 \forall S(\text{algebraic surface}), q(S)=0 \Rightarrow \text{Tors}(H^2(S,\mathbb{Z})) \text{ is orthogonal}
@@ -1574,13 +1574,13 @@ The Lebesgue Universal Covering Problem asks for the minimum area of a convex se
 
 ##### Formal Description
 
-Find constant $`L`$ such that:
+Find constant $L$ such that:
 
 $$
 L = \inf\{A(K) : K \text{ is a convex set and can cover any planar set of diameter 1}\}
 $$
 
-Currently known: $`\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}`$.
+Currently known: $\frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}$.
 
 ##### Formal Proof
 
@@ -1594,7 +1594,7 @@ $$
 \end{align}
 $$
 
-Quantum-Classical prediction: The Lebesgue constant $`L`$ is close to $`\frac{\pi}{2\sqrt{3}}`$ because it represents the optimal expression efficiency of quantum information after classicalization, related to the basic efficiency of hexagonal tiling structure.
+Quantum-Classical prediction: The Lebesgue constant $L$ is close to $\frac{\pi}{2\sqrt{3}}$ because it represents the optimal expression efficiency of quantum information after classicalization, related to the basic efficiency of hexagonal tiling structure.
 
 **Detailed Proof:** [Quantum-Classical Dualism Proof of the Lebesgue Universal Covering Problem](mathematics_unsolved_problems/lebesgue_covering_problem.md)
 
@@ -1606,13 +1606,13 @@ Simpson's Conjecture focuses on the relationship between flat bundles and repres
 
 ##### Formal Description
 
-For a complex projective manifold $`X`$, Simpson's Conjecture asserts:
+For a complex projective manifold $X$, Simpson's Conjecture asserts:
 
 $$
-\forall E \text{(semisimple flat bundle on $`X`$)}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{(representation)}, \text{such that} E \cong E_\rho
+\forall E \text{(semisimple flat bundle on $X$)}, \exists \rho: \pi_1(X) \to GL(n,\mathbb{C}) \text{(representation)}, \text{such that} E \cong E_\rho
 $$
 
-where $`E_\rho`$ is the flat bundle derived from representation $`\rho`$.
+where $E_\rho$ is the flat bundle derived from representation $\rho$.
 
 ##### Formal Proof
 

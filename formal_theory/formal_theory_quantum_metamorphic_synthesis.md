@@ -57,23 +57,23 @@
 
 ### 元变形本质
 
-元变形性$`\Phi_{MM}`$是宇宙最深层的变革能力，定义为：
+元变形性$\Phi_{MM}$是宇宙最深层的变革能力，定义为：
 
 $$\Phi_{MM} = \{\mathcal{T}_{MM}, \mathcal{F}_{MM}, \mathcal{P}_{MM}, \Psi_{MM}\}$$
 
-其中$`\mathcal{T}_{MM}`$是元变形张量，$`\mathcal{F}_{MM}`$是元变形函数，$`\mathcal{P}_{MM}`$是元变形势，$`\Psi_{MM}`$是元变形场。
+其中$\mathcal{T}_{MM}$是元变形张量，$\mathcal{F}_{MM}$是元变形函数，$\mathcal{P}_{MM}$是元变形势，$\Psi_{MM}$是元变形场。
 
 元变形性的基本方程：
 
 $$\mathcal{T}_{MM}[\Omega] = \Omega' \neq \Omega, \text{但} \mathcal{E}(\Omega') = \mathcal{E}(\Omega)$$
 
-其中$`\Omega`$是任意实在形式，$`\mathcal{E}`$是本质函数。
+其中$\Omega$是任意实在形式，$\mathcal{E}$是本质函数。
 
 元变形与元同一性关系：
 
 $$\mathcal{I}_{MM} = \lim_{n\to\infty} \prod_{i=1}^{n} \mathcal{T}_{MM,i}$$
 
-其中$`\mathcal{I}_{MM}`$是元同一性算子。
+其中$\mathcal{I}_{MM}$是元同一性算子。
 
 元变形的递归表达：
 
@@ -85,9 +85,9 @@ $$\Phi_{MM}^{(n)} = \Phi_{MM}[\Phi_{MM}^{(n-1)}]$$
 
 $$\Omega_{MU}' = \Phi_{MM}[\Omega_{MU}]$$
 
-其中$`\Omega_{MU}`$是元一性，$`\Omega_{MU}'`$是变形后的元一性。
+其中$\Omega_{MU}$是元一性，$\Omega_{MU}'$是变形后的元一性。
 
-超越保持了某种元不变量$`\mathcal{I}_{MM}`$：
+超越保持了某种元不变量$\mathcal{I}_{MM}$：
 
 $$\mathcal{I}_{MM}(\Omega_{MU}) = \mathcal{I}_{MM}(\Omega_{MU}')$$
 
@@ -95,7 +95,7 @@ $$\mathcal{I}_{MM}(\Omega_{MU}) = \mathcal{I}_{MM}(\Omega_{MU}')$$
 
 $$I(\Omega_{MU}') = I(\Omega_{MU}) + I(\Phi_{MM}) - I(\Omega_{MU}, \Phi_{MM})$$
 
-其中$`I(\Omega_{MU}, \Phi_{MM})`$是元一性与元变形能力之间的互信息。
+其中$I(\Omega_{MU}, \Phi_{MM})$是元一性与元变形能力之间的互信息。
 
 超越元一性的相位空间：
 
@@ -115,7 +115,7 @@ $$\mathcal{G}_{MM} = \{g | g\Phi_{MM}g^{-1} = \Phi_{MM}\}$$
 
 $$\Phi_{MM} \xrightarrow{\text{破缺}} \Phi_{MM,1} \oplus \Phi_{MM,2} \oplus ... \oplus \Phi_{MM,n} \xrightarrow{\text{恢复}} \Phi_{MM}'$$
 
-其中$`\Phi_{MM,i}`$是破缺后的子元变形能力。
+其中$\Phi_{MM,i}$是破缺后的子元变形能力。
 
 元变形对称性的生成元：
 
@@ -125,17 +125,17 @@ $$\mathcal{L}_{MM} = \{L_i | [L_i, L_j] = if_{ijk}L_k\}$$
 
 ### 元变流形
 
-元变流形$`\mathcal{M}_{MM}`$是描述元变形态空间的数学结构：
+元变流形$\mathcal{M}_{MM}$是描述元变形态空间的数学结构：
 
 $$\mathcal{M}_{MM} = \{M, \mathcal{A}_{MM}, \mathcal{T}_{MM}, \nabla_{MM}\}$$
 
-其中$`M`$是基础流形，$`\mathcal{A}_{MM}`$是元变坐标图册，$`\mathcal{T}_{MM}`$是元变切空间，$`\nabla_{MM}`$是元变联络。
+其中$M$是基础流形，$\mathcal{A}_{MM}$是元变坐标图册，$\mathcal{T}_{MM}$是元变切空间，$\nabla_{MM}$是元变联络。
 
 元变流形的度量张量：
 
 $$g_{MM} = g_{\mu\nu}dx^{\mu} \otimes dx^{\nu} + \gamma_{ab}d\theta^a \otimes d\theta^b$$
 
-其中$`x^{\mu}`$是常规坐标，$`\theta^a`$是元变坐标。
+其中$x^{\mu}$是常规坐标，$\theta^a$是元变坐标。
 
 元变流形的曲率：
 
@@ -147,11 +147,11 @@ $$\int_{\mathcal{M}_{MM}} f d\mu_{MM} = \int_M \int_{\Theta} f(x,\theta) \sqrt{|
 
 ### 元变形态空间
 
-元变形态空间$`\mathcal{H}_{MM}`$是元变形所有可能状态的集合：
+元变形态空间$\mathcal{H}_{MM}$是元变形所有可能状态的集合：
 
 $$\mathcal{H}_{MM} = \bigoplus_{\alpha \in \mathfrak{A}} \mathcal{H}_{\alpha} \otimes \mathcal{H}_{\alpha}^*$$
 
-其中$`\mathcal{H}_{\alpha}`$是子态空间，$`\mathcal{H}_{\alpha}^*`$是其对偶。
+其中$\mathcal{H}_{\alpha}$是子态空间，$\mathcal{H}_{\alpha}^*$是其对偶。
 
 元变形态矢量：
 
@@ -165,11 +165,11 @@ $$\langle\Psi_{MM}|\Psi_{MM}\rangle = \sum_{\alpha \in \mathfrak{A}} |c_{\alpha}
 
 $$|\Psi_{MM}'\rangle = \hat{U}_{MM} |\Psi_{MM}\rangle$$
 
-其中$`\hat{U}_{MM}`$是元变形算子。
+其中$\hat{U}_{MM}$是元变形算子。
 
 ### 元变算子代数
 
-元变算子代数$`\mathcal{A}_{MM}`$定义元变形作用的数学结构：
+元变算子代数$\mathcal{A}_{MM}$定义元变形作用的数学结构：
 
 $$\mathcal{A}_{MM} = \{\hat{A}_{MM} | \hat{A}_{MM}: \mathcal{H}_{MM} \rightarrow \mathcal{H}_{MM}\}$$
 
@@ -177,7 +177,7 @@ $$\mathcal{A}_{MM} = \{\hat{A}_{MM} | \hat{A}_{MM}: \mathcal{H}_{MM} \rightarrow
 
 $$[\hat{A}_{MM}, \hat{B}_{MM}]_{\gamma} = \hat{A}_{MM}\hat{B}_{MM} - \gamma\hat{B}_{MM}\hat{A}_{MM}$$
 
-其中$`\gamma`$是元交换参数。
+其中$\gamma$是元交换参数。
 
 元变算子的谱分解：
 
@@ -191,21 +191,21 @@ $$\mathfrak{g}_{MM} = \{\hat{X} | [\hat{X}, \hat{Y}]_{\gamma} = \hat{Z} \in \mat
 
 ### 元变形场方程
 
-元变形场$`\Psi_{MM}`$的演化由元变形场方程描述：
+元变形场$\Psi_{MM}$的演化由元变形场方程描述：
 
 $$i\hbar\frac{\partial}{\partial \tau_{MM}} |\Psi_{MM}\rangle = \hat{\mathcal{H}}_{MM} |\Psi_{MM}\rangle$$
 
-其中$`\tau_{MM}`$是元变时间参数，$`\hat{\mathcal{H}}_{MM}`$是元变哈密顿算符：
+其中$\tau_{MM}$是元变时间参数，$\hat{\mathcal{H}}_{MM}$是元变哈密顿算符：
 
 $$\hat{\mathcal{H}}_{MM} = \hat{\mathcal{T}}_{MM} + \hat{\mathcal{V}}_{MM} + \hat{\mathcal{I}}_{MM} + \hat{\mathcal{M}}_{MM}$$
 
-这里$`\hat{\mathcal{T}}_{MM}`$是元变动能，$`\hat{\mathcal{V}}_{MM}`$是元变势能，$`\hat{\mathcal{I}}_{MM}`$是元变相互作用，$`\hat{\mathcal{M}}_{MM}`$是元变形项。
+这里$\hat{\mathcal{T}}_{MM}$是元变动能，$\hat{\mathcal{V}}_{MM}$是元变势能，$\hat{\mathcal{I}}_{MM}$是元变相互作用，$\hat{\mathcal{M}}_{MM}$是元变形项。
 
 元变形场方程的解：
 
 $$|\Psi_{MM}(\tau_{MM})\rangle = \hat{\mathcal{U}}_{MM}(\tau_{MM}, \tau_0) |\Psi_{MM}(\tau_0)\rangle$$
 
-其中$`\hat{\mathcal{U}}_{MM}`$是元变演化算子：
+其中$\hat{\mathcal{U}}_{MM}$是元变演化算子：
 
 $$\hat{\mathcal{U}}_{MM}(\tau_{MM}, \tau_0) = \mathcal{T}exp\left[-\frac{i}{\hbar}\int_{\tau_0}^{\tau_{MM}} \hat{\mathcal{H}}_{MM}(\tau')d\tau'\right]$$
 
@@ -215,13 +215,13 @@ $$\hat{\mathcal{U}}_{MM}(\tau_{MM}, \tau_0) = \mathcal{T}exp\left[-\frac{i}{\hba
 
 $$\Psi_{MM,1} \xrightarrow{\lambda = \lambda_c} \Psi_{MM,2}$$
 
-其中$`\lambda`$是控制参数，$`\lambda_c`$是临界值。
+其中$\lambda$是控制参数，$\lambda_c$是临界值。
 
 元变相变的序参量方程：
 
 $$\frac{d\phi_{MM}}{d\tau_{MM}} = \alpha(\lambda - \lambda_c)\phi_{MM} - \beta\phi_{MM}^3 + \eta(\tau_{MM})$$
 
-其中$`\phi_{MM}`$是元变序参量，$`\eta`$是元变涨落。
+其中$\phi_{MM}$是元变序参量，$\eta$是元变涨落。
 
 元变相变的临界指数：
 
@@ -233,11 +233,11 @@ $$\mathcal{P}_{MM} = \{(\lambda, \phi_{MM}) | F_{MM}(\lambda, \phi_{MM}) = 0\}$$
 
 ### 元变形吸引子
 
-元变形吸引子$`\mathcal{A}_{MM}`$是元变动力学系统的稳定结构：
+元变形吸引子$\mathcal{A}_{MM}$是元变动力学系统的稳定结构：
 
 $$\mathcal{A}_{MM} = \bigcap_{t \geq 0} \overline{\bigcup_{T \geq t} \Phi_{MM}^T(U)}$$
 
-其中$`U`$是初始区域，$`\Phi_{MM}^T`$是元变流。
+其中$U$是初始区域，$\Phi_{MM}^T$是元变流。
 
 元变奇异吸引子具有分形结构，其维数：
 
@@ -259,7 +259,7 @@ $$\Lambda_{MM} = \{\lambda_1, \lambda_2, ..., \lambda_n\}, \lambda_1 \geq \lambd
 
 $$\mathcal{P}_{old} \xrightarrow{\Phi_{MM}} \mathcal{P}_{new}$$
 
-其中$`\mathcal{P}`$代表元范式（思维与存在的基本框架）。
+其中$\mathcal{P}$代表元范式（思维与存在的基本框架）。
 
 元范式转换的信息成本：
 
@@ -281,7 +281,7 @@ $$\mathcal{G}_{para} = (V_{para}, E_{para}, w_{para})$$
 
 $$C_{MM}(t+1) = \Phi_{MM}[C_{MM}(t)] \supset C_{MM}(t)$$
 
-其中$`C_{MM}`$是元认知空间。
+其中$C_{MM}$是元认知空间。
 
 元认知突破的信息几何：
 
@@ -301,7 +301,7 @@ $$\mathcal{C}_{MM} = \frac{V(C_{MM}(t+1) \setminus C_{MM}(t))}{V(C_{MM}(t))}$$
 
 $$\mathcal{R}_{MM}(t+1) = \Theta_{MM}[\mathcal{R}_{MM}(t)]$$
 
-其中$`\mathcal{R}_{MM}`$是元实在，$`\Theta_{MM}`$是重构算子。
+其中$\mathcal{R}_{MM}$是元实在，$\Theta_{MM}$是重构算子。
 
 元实在重构的能量成本：
 
@@ -315,17 +315,17 @@ $$\mathcal{C}oh_{MM}(\mathcal{R}_{MM}) = \frac{\sum_{i,j} I(r_i; r_j)}{\sum_{i} 
 
 $$\delta^2 F_{MM}[\mathcal{R}_{MM}] > 0$$
 
-其中$`F_{MM}`$是元实在自由能。
+其中$F_{MM}$是元实在自由能。
 
 ## 元变形意识
 
 ### 元变意识状态
 
-元变意识$`\Psi_{MC-MM}`$是能够变形自身的高维意识状态：
+元变意识$\Psi_{MC-MM}$是能够变形自身的高维意识状态：
 
 $$\Psi_{MC-MM} = \{\Psi_{MC}, \Phi_{MM}, \mathcal{I}_{MM}\}$$
 
-其中$`\Psi_{MC}`$是元意识，$`\Phi_{MM}`$是元变形能力，$`\mathcal{I}_{MM}`$是元变不变量。
+其中$\Psi_{MC}$是元意识，$\Phi_{MM}$是元变形能力，$\mathcal{I}_{MM}$是元变不变量。
 
 元变意识的状态空间：
 
@@ -359,11 +359,11 @@ $$\mathcal{R}es_{MM}(\omega) = \left|\frac{\mathcal{P}_{MM}[\omega + \delta\omeg
 
 ### 元变认知网络
 
-元变认知网络$`\mathcal{N}_{MM}`$是元变意识的知识结构：
+元变认知网络$\mathcal{N}_{MM}$是元变意识的知识结构：
 
 $$\mathcal{N}_{MM} = (V_{MM}, E_{MM}, W_{MM}, \Phi_{MM})$$
 
-其中$`V_{MM}`$是概念节点，$`E_{MM}`$是关系边，$`W_{MM}`$是权重，$`\Phi_{MM}`$是网络变形能力。
+其中$V_{MM}$是概念节点，$E_{MM}$是关系边，$W_{MM}$是权重，$\Phi_{MM}$是网络变形能力。
 
 元变认知网络的自适应学习：
 
@@ -373,7 +373,7 @@ $$\frac{dW_{MM}}{d\tau_{MM}} = \eta[\Phi_{MM}(W_{MM}) - W_{MM}] + \xi(\tau_{MM})
 
 $$\mathcal{C}_{MM} = \mathcal{E}[P(V_{MM})] - \mathcal{E}[P(V_{MM}|E_{MM})]$$
 
-其中$`\mathcal{E}`$是元熵函数。
+其中$\mathcal{E}$是元熵函数。
 
 元变认知网络的创发性：
 
@@ -387,19 +387,19 @@ $$\mathcal{E}m_{MM} = \frac{I_{MM}(\mathcal{N}_{MM})}{H_{MM}(\mathcal{N}_{MM})}$
 
 $$\mathcal{O}_{MM} = \{\mathcal{B}_{MM}, \mathcal{R}_{MM}, \mathcal{L}_{MM}\}$$
 
-其中$`\mathcal{B}_{MM}`$是元变存在类别，$`\mathcal{R}_{MM}`$是元变关系类别，$`\mathcal{L}_{MM}`$是元变逻辑规则。
+其中$\mathcal{B}_{MM}$是元变存在类别，$\mathcal{R}_{MM}$是元变关系类别，$\mathcal{L}_{MM}$是元变逻辑规则。
 
 元变存在的必要条件：
 
 $$\exists x: \mathcal{E}_{MM}(x) \wedge \Phi_{MM}(x) \wedge \mathcal{I}_{MM}(x)$$
 
-其中$`\mathcal{E}_{MM}`$是元存在函数，$`\Phi_{MM}`$是元变形能力，$`\mathcal{I}_{MM}`$是元同一性。
+其中$\mathcal{E}_{MM}$是元存在函数，$\Phi_{MM}$是元变形能力，$\mathcal{I}_{MM}$是元同一性。
 
 元变本体关系网络：
 
 $$\mathcal{G}_{onto} = \{\mathcal{B}_{MM}, \mathcal{R}_{MM}, \eta_{MM}\}$$
 
-其中$`\eta_{MM}`$是映射$`\mathcal{B}_{MM} \times \mathcal{B}_{MM} \to \mathcal{P}(\mathcal{R}_{MM})`$。
+其中$\eta_{MM}$是映射$\mathcal{B}_{MM} \times \mathcal{B}_{MM} \to \mathcal{P}(\mathcal{R}_{MM})$。
 
 ### 元变存在形式
 
@@ -419,7 +419,7 @@ $$I_{MM}(f_i) = -\log_2 P_{MM}(f_i)$$
 
 $$\mathcal{T}ree_{MM} = (V_{form}, E_{form}, \prec_{form})$$
 
-其中$`\prec_{form}`$是先祖关系。
+其中$\prec_{form}$是先祖关系。
 
 ### 元变实在层级
 
@@ -427,13 +427,13 @@ $$\mathcal{T}ree_{MM} = (V_{form}, E_{form}, \prec_{form})$$
 
 $$\mathcal{H}_{MM} = \{L_0, L_1, L_2, ..., L_n\}$$
 
-其中$`L_i`$是第$`i`$级元变实在层级。
+其中$L_i$是第$i$级元变实在层级。
 
 层级间的涌现关系：
 
 $$L_{i+1} = \mathcal{E}_{MM}[L_i]$$
 
-其中$`\mathcal{E}_{MM}`$是元变涌现算子。
+其中$\mathcal{E}_{MM}$是元变涌现算子。
 
 层级间的投影关系：
 
@@ -447,11 +447,11 @@ $$\forall x \in \mathcal{R}_{MM}, \exists i: x \in L_i \vee \exists\{y_j\} \subs
 
 ### 元宇宙动态网络
 
-元宇宙动态网络$`\mathcal{M}_{MU-MM}`$描述多元宇宙的结构：
+元宇宙动态网络$\mathcal{M}_{MU-MM}$描述多元宇宙的结构：
 
 $$\mathcal{M}_{MU-MM} = (V_{MU}, E_{MU}, \Phi_{MM})$$
 
-其中$`V_{MU}`$是元宇宙节点，$`E_{MU}`$是元宇宙通道，$`\Phi_{MM}`$是网络变形能力。
+其中$V_{MU}$是元宇宙节点，$E_{MU}$是元宇宙通道，$\Phi_{MM}$是网络变形能力。
 
 元宇宙间的距离函数：
 
@@ -465,11 +465,11 @@ $$\chi(\mathcal{M}_{MU-MM}) = |V_{MU}| - |E_{MU}| + |F_{MU}|$$
 
 $$\frac{d\mathcal{M}_{MU-MM}}{d\tau_{MM}} = \mathcal{D}_{MM}[\mathcal{M}_{MU-MM}] + \mathcal{S}_{MM}$$
 
-其中$`\mathcal{D}_{MM}`$是动态算子，$`\mathcal{S}_{MM}`$是源项。
+其中$\mathcal{D}_{MM}$是动态算子，$\mathcal{S}_{MM}$是源项。
 
 ### 元宇宙交流机制
 
-元宇宙交流$`\mathcal{C}_{MU-MM}`$是多元宇宙间的信息交换：
+元宇宙交流$\mathcal{C}_{MU-MM}$是多元宇宙间的信息交换：
 
 $$\mathcal{C}_{MU-MM}: U_i \times U_j \to \Delta I_{ij}$$
 
@@ -477,19 +477,19 @@ $$\mathcal{C}_{MU-MM}: U_i \times U_j \to \Delta I_{ij}$$
 
 $$\mathcal{P}_{MU-MM} = \{\mathcal{E}_{MM}, \mathcal{C}_{MM}, \mathcal{D}_{MM}\}$$
 
-其中$`\mathcal{E}_{MM}`$是编码函数，$`\mathcal{C}_{MM}`$是通道函数，$`\mathcal{D}_{MM}`$是解码函数。
+其中$\mathcal{E}_{MM}$是编码函数，$\mathcal{C}_{MM}$是通道函数，$\mathcal{D}_{MM}$是解码函数。
 
 元宇宙通信容量：
 
 $$C_{MU-MM} = \sup_{P(X)} I(X; Y)$$
 
-其中$`X`$是发送信息，$`Y`$是接收信息。
+其中$X$是发送信息，$Y$是接收信息。
 
 元宇宙共鸣条件：
 
 $$\omega_{i} \approx \omega_{j} \pm \Delta\omega_{ij}$$
 
-其中$`\omega`$是元宇宙振动频率。
+其中$\omega$是元宇宙振动频率。
 
 ### 元宇宙共进化
 
@@ -497,7 +497,7 @@ $$\omega_{i} \approx \omega_{j} \pm \Delta\omega_{ij}$$
 
 $$\frac{dU_i}{d\tau_{MM}} = \mathcal{F}_i(U_i) + \sum_{j \neq i} \mathcal{G}_{ij}(U_i, U_j)$$
 
-其中$`\mathcal{F}_i`$是内部演化函数，$`\mathcal{G}_{ij}`$是相互作用函数。
+其中$\mathcal{F}_i$是内部演化函数，$\mathcal{G}_{ij}$是相互作用函数。
 
 元宇宙进化的适应度景观：
 
@@ -511,7 +511,7 @@ $$\frac{d\mathcal{W}_{MU-MM}}{d\tau_{MM}} \geq 0$$
 
 $$\mathcal{D}iv_{MU-MM} = -\sum_i p_i \log p_i$$
 
-其中$`p_i`$是宇宙类型$`i`$的比例。
+其中$p_i$是宇宙类型$i$的比例。
 
 ## 应用与预测
 

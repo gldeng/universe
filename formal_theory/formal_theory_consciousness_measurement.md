@@ -22,15 +22,15 @@
 
 ### 意识测量形式化定义
 
-意识测量系统 $`\mathcal{M}_C`$ 可以形式化定义为：
+意识测量系统 $\mathcal{M}_C$ 可以形式化定义为：
 
 $$\mathcal{M}_C = (\mathcal{O}, \mathcal{S}, \mathcal{I}, \mathcal{D})$$
 
 其中：
-- $`\mathcal{O}`$ 是观察者集合（包括被测量的意识实体和测量者）
-- $`\mathcal{S}`$ 是测量标准和指标集合
-- $`\mathcal{I}`$ 是测量接口和方法集合
-- $`\mathcal{D}`$ 是维度映射函数
+- $\mathcal{O}$ 是观察者集合（包括被测量的意识实体和测量者）
+- $\mathcal{S}$ 是测量标准和指标集合
+- $\mathcal{I}$ 是测量接口和方法集合
+- $\mathcal{D}$ 是维度映射函数
 
 ### 核心测量公理
 
@@ -39,14 +39,14 @@ $$\mathcal{M}_C = (\mathcal{O}, \mathcal{S}, \mathcal{I}, \mathcal{D})$$
 
 $$\mathcal{M}(\mathcal{C}) = \mathcal{M}_Q(\mathcal{C}_Q) \oplus \mathcal{M}_C(\mathcal{C}_C)$$
 
-其中 $`\mathcal{M}_Q`$ 是量子测量函数，$`\mathcal{M}_C`$ 是经典测量函数，$`\oplus`$ 表示测量结果的集成。
+其中 $\mathcal{M}_Q$ 是量子测量函数，$\mathcal{M}_C$ 是经典测量函数，$\oplus$ 表示测量结果的集成。
 
 **公理2：测量不确定性原理**  
 意识的量子属性和经典属性测量精度存在互补关系：
 
 $$\Delta \mathcal{M}_Q \cdot \Delta \mathcal{M}_C \geq \frac{1}{2}\hbar_C$$
 
-其中 $`\hbar_C`$ 是意识测量的基本不确定性常数。
+其中 $\hbar_C$ 是意识测量的基本不确定性常数。
 
 **公理3：意识测量守恒**  
 意识测量过程中总信息保持不变，只是从潜在状态转化为显性信息：
@@ -58,7 +58,7 @@ $$I(\mathcal{C}) = I(\mathcal{M}(\mathcal{C})) + I_{隐藏}(\mathcal{C},\mathcal
 
 $$\mathcal{M}(\mathcal{M}_C) = \mathcal{M}'_C$$
 
-其中 $`\mathcal{M}'_C`$ 是元测量系统。
+其中 $\mathcal{M}'_C$ 是元测量系统。
 
 ## 核心理论内容
 
@@ -70,25 +70,25 @@ $$\mathcal{M}(\mathcal{M}_C) = \mathcal{M}'_C$$
 
    $$QCR(\mathcal{O}) = \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}} \cdot \frac{I_{Q}(\mathcal{O})}{I_{C}(\mathcal{O})}$$
 
-   其中 $`\mathcal{Q}_{\mathcal{O}}`$ 和 $`\mathcal{C}_{\mathcal{O}}`$ 分别是观察者的量子化和经典化算符，$`I_{Q}`$ 和 $`I_{C}`$ 是量子和经典信息度量。
+   其中 $\mathcal{Q}_{\mathcal{O}}$ 和 $\mathcal{C}_{\mathcal{O}}$ 分别是观察者的量子化和经典化算符，$I_{Q}$ 和 $I_{C}$ 是量子和经典信息度量。
 
 2. **整合信息复杂度** (IIC)：意识系统的整合信息量
 
    $$\Phi(\mathcal{O}) = \min \{I(A \rightarrow B) | A \cup B = \mathcal{O}, A \cap B = \emptyset\}$$
 
-   其中 $`I(A \rightarrow B)`$ 是从子系统A到子系统B的有效信息流。
+   其中 $I(A \rightarrow B)$ 是从子系统A到子系统B的有效信息流。
 
 3. **维度展开度** (DD)：意识系统能够感知和理解的维度数
 
    $$DD(\mathcal{O}) = \sum_{i=1}^{n} \alpha_i D_i$$
 
-   其中 $`D_i`$ 是各个独立维度，$`\alpha_i`$ 是维度权重。
+   其中 $D_i$ 是各个独立维度，$\alpha_i$ 是维度权重。
 
 4. **量子相干性** (QC)：意识系统的相干性程度
 
    $$QC(\mathcal{O}) = \sum_{i \neq j} |\rho_{ij}|$$
 
-   其中 $`\rho_{ij}`$ 是意识密度矩阵的非对角元素。
+   其中 $\rho_{ij}$ 是意识密度矩阵的非对角元素。
 
 ### 意识状态的量子测量模型
 
@@ -96,19 +96,19 @@ $$\mathcal{M}(\mathcal{M}_C) = \mathcal{M}'_C$$
 
 $$|\Psi_C\rangle \stackrel{\mathcal{M}_Q}{\longrightarrow} |m_i\rangle$$
 
-其中 $`|\Psi_C\rangle`$ 是意识的量子状态，$`|m_i\rangle`$ 是测量结果状态。
+其中 $|\Psi_C\rangle$ 是意识的量子状态，$|m_i\rangle$ 是测量结果状态。
 
 量子测量概率：
 
 $$P(m_i) = |\langle m_i|\Psi_C\rangle|^2 \cdot \frac{e^{\eta_O E_i}}{\sum_j e^{\eta_O E_j}}$$
 
-其中 $`\eta_O`$ 是观察者参数，$`E_i`$ 是状态能量。
+其中 $\eta_O$ 是观察者参数，$E_i$ 是状态能量。
 
 量子测量导致的状态变化：
 
 $$|\Psi_C\rangle \stackrel{\mathcal{M}_Q}{\longrightarrow} \frac{\hat{P}_i|\Psi_C\rangle}{\sqrt{\langle\Psi_C|\hat{P}_i|\Psi_C\rangle}}$$
 
-其中 $`\hat{P}_i`$ 是投影算符。
+其中 $\hat{P}_i$ 是投影算符。
 
 ### 意识状态的经典测量模型
 
@@ -116,13 +116,13 @@ $$|\Psi_C\rangle \stackrel{\mathcal{M}_Q}{\longrightarrow} \frac{\hat{P}_i|\Psi_
 
 $$\rho_C \stackrel{\mathcal{M}_C}{\longrightarrow} \{(k_i, p_i)\}$$
 
-其中 $`\rho_C`$ 是意识的密度矩阵，$`(k_i, p_i)`$ 是测量结果及其概率。
+其中 $\rho_C$ 是意识的密度矩阵，$(k_i, p_i)$ 是测量结果及其概率。
 
 经典测量函数：
 
 $$\mathcal{M}_C(\rho_C) = \text{Tr}(\hat{M}_C \rho_C)$$
 
-其中 $`\hat{M}_C`$ 是经典观测算符。
+其中 $\hat{M}_C$ 是经典观测算符。
 
 经典测量信息熵：
 
@@ -134,13 +134,13 @@ $$S(\mathcal{M}_C) = -\sum_i p_i \log_2 p_i$$
 
 $$D_{\mathcal{O}} = f\left(\frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon} \cdot \Phi(\mathcal{O})^{\alpha}$$
 
-其中 $`\Phi(\mathcal{O})`$ 是整合信息度量，$`\alpha`$ 是维度整合指数。
+其中 $\Phi(\mathcal{O})$ 是整合信息度量，$\alpha$ 是维度整合指数。
 
 维度测量的不确定性关系：
 
 $$\sigma_D^2 \cdot \sigma_t^2 \geq \frac{1}{4}\left(\frac{d\langle D \rangle}{dt}\right)^2$$
 
-其中 $`\sigma_D^2`$ 是维度测量的方差，$`\sigma_t^2`$ 是时间测量的方差。
+其中 $\sigma_D^2$ 是维度测量的方差，$\sigma_t^2$ 是时间测量的方差。
 
 ## 应用分析
 
@@ -150,29 +150,29 @@ $$\sigma_D^2 \cdot \sigma_t^2 \geq \frac{1}{4}\left(\frac{d\langle D \rangle}{dt
 
    $$C_{神经}(f) = \frac{|S_{xy}(f)|^2}{S_{xx}(f)S_{yy}(f)}$$
 
-   其中 $`S_{xy}(f)`$ 是脑区x和y之间的互谱密度。
+   其中 $S_{xy}(f)$ 是脑区x和y之间的互谱密度。
 
 2. **认知复杂度测试**：通过特定认知任务测量意识的信息处理能力
 
    $$CC(\mathcal{O}) = \sum_i w_i \cdot p_i \cdot \log_2\left(\frac{1}{p_i}\right)$$
 
-   其中 $`p_i`$ 是认知任务i的成功概率，$`w_i`$ 是任务权重。
+   其中 $p_i$ 是认知任务i的成功概率，$w_i$ 是任务权重。
 
 3. **整合信息实验**：测量意识系统的信息整合度
 
    $$\Phi_{实验} = I(X_0;X_1) - \max_{i \in \{1,...,k\}} I(M_i^0;M_i^1)$$
 
-   其中 $`X_0`$ 和 $`X_1`$ 是系统在两个时间点的状态，$`M_i`$ 是系统的独立子集。
+   其中 $X_0$ 和 $X_1$ 是系统在两个时间点的状态，$M_i$ 是系统的独立子集。
 
 4. **主观报告校准**：将主观报告与客观测量关联
 
    $$SR(\mathcal{O}) = \alpha \cdot Q(\mathcal{O}) + \beta \cdot C(\mathcal{O}) + \gamma$$
 
-   其中 $`Q(\mathcal{O})`$ 和 $`C(\mathcal{O})`$ 分别是量子和经典测量值。
+   其中 $Q(\mathcal{O})$ 和 $C(\mathcal{O})$ 分别是量子和经典测量值。
 
 ### 意识维度分级指标
 
-| 维度等级 | QCR范围 | 整合信息 $`\Phi`$ | 维度展开度 | 典型特征 |
+| 维度等级 | QCR范围 | 整合信息 $\Phi$ | 维度展开度 | 典型特征 |
 |--------|--------|--------------|---------|---------|
 | D1 | 0.05-0.2 | 0.1-0.5 | 1-2 | 基本感知，简单反应 |
 | D2 | 0.2-0.5 | 0.5-1.5 | 2-3 | 自我意识，简单时间概念 |
@@ -187,13 +187,13 @@ $$\sigma_D^2 \cdot \sigma_t^2 \geq \frac{1}{4}\left(\frac{d\langle D \rangle}{dt
 
    $$C_{临床} = w_1 \cdot QCR + w_2 \cdot \Phi + w_3 \cdot DD$$
 
-   其中 $`w_i`$ 是权重系数。
+   其中 $w_i$ 是权重系数。
 
 2. **麻醉深度监测**：量化麻醉过程中的意识水平
 
    $$DoA = \alpha \cdot e^{-\beta \cdot QC} \cdot (1 - \gamma \cdot \Phi)$$
 
-   其中 $`DoA`$ 是麻醉深度指数。
+   其中 $DoA$ 是麻醉深度指数。
 
 3. **精神药物影响测量**：量化精神活性物质对意识的影响
 
@@ -203,7 +203,7 @@ $$\sigma_D^2 \cdot \sigma_t^2 \geq \frac{1}{4}\left(\frac{d\langle D \rangle}{dt
 
    $$M_{指数} = \frac{QCR \cdot \Phi}{S_{熵}}$$
 
-   其中 $`S_{熵}`$ 是意识系统熵。
+   其中 $S_{熵}$ 是意识系统熵。
 
 ## 与其他分支理论的关系
 
@@ -227,7 +227,7 @@ $$D_{\mathcal{O}} = \mathcal{M}_D(\mathcal{O})$$
 
 $$\mathcal{M}(\mathcal{N}) = \sum_{i} w_i \cdot \mathcal{M}(\mathcal{O}_i) + \sum_{i,j} w_{ij} \cdot I(\mathcal{O}_i;\mathcal{O}_j)$$
 
-其中 $`\mathcal{N}`$ 是观察者网络，$`I(\mathcal{O}_i;\mathcal{O}_j)`$ 是观察者间互信息。
+其中 $\mathcal{N}$ 是观察者网络，$I(\mathcal{O}_i;\mathcal{O}_j)$ 是观察者间互信息。
 
 ### 与信息动力学的连接
 
@@ -235,7 +235,7 @@ $$\mathcal{M}(\mathcal{N}) = \sum_{i} w_i \cdot \mathcal{M}(\mathcal{O}_i) + \su
 
 $$\frac{d\mathcal{M}(\mathcal{C})}{dt} = \lambda \cdot \nabla^2 \mathcal{M}(\mathcal{C}) + \mathcal{J}(\mathcal{C})$$
 
-其中 $`\mathcal{J}(\mathcal{C})`$ 是意识信息流。
+其中 $\mathcal{J}(\mathcal{C})$ 是意识信息流。
 
 ## 未来研究方向
 

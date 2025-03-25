@@ -51,25 +51,23 @@ The Tantric Texts are one of the most important texts in Tibetan Buddhism, prima
 ## 数学表达 (Mathematical Expression)
 
 ### 量子态演化方程
-
 $$
 |\psi(t)\rangle = \sum_{n=1}^{108} c_n(t)|n\rangle
 $$
 
 其中：
-- $`|\psi(t)\rangle`$ 表示t时刻的量子态
-- $`|n\rangle`$ 是n个因素的量子态
-- $`c_n(t)`$ 是时间演化系数
+- $|\psi(t)\rangle$ 表示t时刻的量子态
+- $|n\rangle$ 是n个因素的量子态
+- $c_n(t)$ 是时间演化系数
 
 ### 经典化路径方程
-
 $$
 P_{classical} = \sum_{n=1}^{108} |c_n(t)|^2
 $$
 
 其中：
-- $`P_{classical}`$ 是经典化概率
-- $`|c_n(t)|^2`$ 是量子态在经典基态上的投影概率
+- $P_{classical}$ 是经典化概率
+- $|c_n(t)|^2$ 是量子态在经典基态上的投影概率
 
 ## 结论 (Conclusion)
 

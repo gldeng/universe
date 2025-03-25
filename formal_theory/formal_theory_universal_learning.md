@@ -22,16 +22,16 @@
 
 ### 宇宙学习形式化定义
 
-宇宙学习系统 $`\mathcal{L}_U`$ 可以形式化定义为：
+宇宙学习系统 $\mathcal{L}_U$ 可以形式化定义为：
 
 $$\mathcal{L}_U = (\mathcal{S}, \mathcal{E}, \mathcal{A}, \mathcal{F}, \mathcal{M})$$
 
 其中：
-- $`\mathcal{S}`$ 是学习系统的内部状态空间
-- $`\mathcal{E}`$ 是系统所处的环境空间
-- $`\mathcal{A}`$ 是可能的行动（或响应）集合
-- $`\mathcal{F}`$ 是反馈（或奖励）函数
-- $`\mathcal{M}`$ 是学习映射函数，将经验转化为状态调整
+- $\mathcal{S}$ 是学习系统的内部状态空间
+- $\mathcal{E}$ 是系统所处的环境空间
+- $\mathcal{A}$ 是可能的行动（或响应）集合
+- $\mathcal{F}$ 是反馈（或奖励）函数
+- $\mathcal{M}$ 是学习映射函数，将经验转化为状态调整
 
 ### 核心学习公理
 
@@ -40,28 +40,28 @@ $$\mathcal{L}_U = (\mathcal{S}, \mathcal{E}, \mathcal{A}, \mathcal{F}, \mathcal{
 
 $$\forall s \in \mathcal{U}: \exists \mathcal{L}_s \text{ 使得 } s \text{ 服从学习动力学}$$
 
-其中 $`\mathcal{U}`$ 是整个宇宙，$`\mathcal{L}_s`$ 是系统 $`s`$ 的学习过程。
+其中 $\mathcal{U}$ 是整个宇宙，$\mathcal{L}_s$ 是系统 $s$ 的学习过程。
 
 **公理2：量子-经典学习对偶性**  
 学习过程同时具有量子和经典两个方面：
 
 $$\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C$$
 
-其中 $`\mathcal{L}_Q`$ 是学习的量子方面（可能性探索），$`\mathcal{L}_C`$ 是学习的经典方面（确定性实现），$`\diamond`$ 表示量子-经典连接操作。
+其中 $\mathcal{L}_Q$ 是学习的量子方面（可能性探索），$\mathcal{L}_C$ 是学习的经典方面（确定性实现），$\diamond$ 表示量子-经典连接操作。
 
 **公理3：信息增益最大化**  
 学习系统趋向于最大化其信息增益：
 
 $$\frac{d\mathcal{I}(s)}{dt} \geq 0, \quad \text{当} \quad \frac{\partial \mathcal{I}(s)}{\partial \mathcal{L}(s)} > 0$$
 
-其中 $`\mathcal{I}(s)`$ 是系统 $`s`$ 的信息内容。
+其中 $\mathcal{I}(s)$ 是系统 $s$ 的信息内容。
 
 **公理4：层级学习整合**  
 高层级系统的学习整合低层级系统的学习，形成嵌套学习结构：
 
 $$\mathcal{L}^{(n)} = \mathcal{F}\left(\{\mathcal{L}^{(n-1)}_i\}, \mathcal{C}^{(n)}, \mathcal{Q}^{(n)}\right)$$
 
-其中 $`\mathcal{L}^{(n)}`$ 是第n层级的学习过程，$`\mathcal{L}^{(n-1)}_i`$ 是下一层级的学习过程集合，$`\mathcal{C}^{(n)}`$ 和 $`\mathcal{Q}^{(n)}`$ 分别是该层级的经典化和量子化算符。
+其中 $\mathcal{L}^{(n)}$ 是第n层级的学习过程，$\mathcal{L}^{(n-1)}_i$ 是下一层级的学习过程集合，$\mathcal{C}^{(n)}$ 和 $\mathcal{Q}^{(n)}$ 分别是该层级的经典化和量子化算符。
 
 ## 核心理论内容
 
@@ -73,7 +73,7 @@ $$\mathcal{L}^{(n)} = \mathcal{F}\left(\{\mathcal{L}^{(n-1)}_i\}, \mathcal{C}^{(
 
 $$|\psi(t+\Delta t)\rangle = \hat{U}_{adapt}(t, \mathcal{E}) |\psi(t)\rangle$$
 
-其中 $`\hat{U}_{adapt}`$ 是适应性演化算符，依赖于环境 $`\mathcal{E}`$ 的状态。
+其中 $\hat{U}_{adapt}$ 是适应性演化算符，依赖于环境 $\mathcal{E}$ 的状态。
 
 量子学习率可定义为：
 
@@ -85,7 +85,7 @@ $$\alpha_Q = \left\|\frac{d\hat{U}_{adapt}}{d\mathcal{E}}\right\|$$
 
 $$|\psi_{learned}\rangle = \sum_i w_i|\psi_i\rangle$$
 
-其中权重 $`w_i`$ 根据与环境的互动而调整。
+其中权重 $w_i$ 根据与环境的互动而调整。
 
 #### 2. 经典层级学习
 
@@ -93,7 +93,7 @@ $$|\psi_{learned}\rangle = \sum_i w_i|\psi_i\rangle$$
 
 $$s(t+\Delta t) = f(s(t), \mathcal{E}(t), \mathcal{L}(t))$$
 
-其中 $`f`$ 是状态转换函数，根据学习函数 $`\mathcal{L}(t)`$ 动态调整。
+其中 $f$ 是状态转换函数，根据学习函数 $\mathcal{L}(t)$ 动态调整。
 
 经典学习率可定义为：
 
@@ -105,7 +105,7 @@ $$\alpha_C = \left\|\frac{\partial f}{\partial \mathcal{L}}\right\|$$
 
 $$\mathcal{M}_C(t+\Delta t) = \mathcal{M}_C(t) + \beta [s(t) \otimes \mathcal{E}(t)]$$
 
-其中 $`\mathcal{M}_C`$ 是系统的经典记忆，$`\beta`$ 是记忆整合率。
+其中 $\mathcal{M}_C$ 是系统的经典记忆，$\beta$ 是记忆整合率。
 
 #### 3. 量子-经典界面学习
 
@@ -113,13 +113,13 @@ $$\mathcal{M}_C(t+\Delta t) = \mathcal{M}_C(t) + \beta [s(t) \otimes \mathcal{E}
 
 $$\mathcal{L}_I = \mathcal{C}(\mathcal{L}_Q) + \mathcal{Q}(\mathcal{L}_C)$$
 
-其中 $`\mathcal{C}`$ 和 $`\mathcal{Q}`$ 分别是经典化和量子化算符。
+其中 $\mathcal{C}$ 和 $\mathcal{Q}$ 分别是经典化和量子化算符。
 
 界面学习动力学方程：
 
 $$\frac{d\mathcal{L}_I}{dt} = \alpha \nabla^2 \mathcal{L}_I + \beta(\mathcal{L}_I - \mathcal{L}_0)(\mathcal{L}_c - \mathcal{L}_I) + \gamma \xi(t)$$
 
-其中 $`\mathcal{L}_0`$ 和 $`\mathcal{L}_c`$ 是学习的临界点，$`\xi(t)`$ 是量子涨落项。
+其中 $\mathcal{L}_0$ 和 $\mathcal{L}_c$ 是学习的临界点，$\xi(t)$ 是量子涨落项。
 
 ### 多层级学习系统
 
@@ -127,13 +127,13 @@ $$\frac{d\mathcal{L}_I}{dt} = \alpha \nabla^2 \mathcal{L}_I + \beta(\mathcal{L}_
 
 | 学习层级 | 系统类型 | 主要学习机制 | 时间尺度 |
 |--------|--------|------------|---------|
-| L1 | 基本粒子、量子场 | 量子状态适应，相位校准 | $`10^{-20}`$-$`10^{-12}`$秒 |
-| L2 | 原子、分子、晶格 | 能量状态优化，构型调整 | $`10^{-12}`$-$`10^{-3}`$秒 |
-| L3 | 生物分子、细胞 | 生化网络调节，自我修复 | $`10^{-3}`$-$`10^5`$秒 |
-| L4 | 多细胞生物、神经系统 | 神经可塑性，行为调整 | $`10^0`$-$`10^8`$秒 |
-| L5 | 社会系统、生态系统 | 集体适应，文化进化 | $`10^6`$-$`10^{10}`$秒 |
-| L6 | 行星系统、恒星演化 | 引力平衡，能量循环 | $`10^{10}`$-$`10^{17}`$秒 |
-| L7 | 星系、宇宙结构 | 大尺度模式形成 | $`10^{15}`$-$`10^{18}`$秒 |
+| L1 | 基本粒子、量子场 | 量子状态适应，相位校准 | $10^{-20}$-$10^{-12}$秒 |
+| L2 | 原子、分子、晶格 | 能量状态优化，构型调整 | $10^{-12}$-$10^{-3}$秒 |
+| L3 | 生物分子、细胞 | 生化网络调节，自我修复 | $10^{-3}$-$10^5$秒 |
+| L4 | 多细胞生物、神经系统 | 神经可塑性，行为调整 | $10^0$-$10^8$秒 |
+| L5 | 社会系统、生态系统 | 集体适应，文化进化 | $10^6$-$10^{10}$秒 |
+| L6 | 行星系统、恒星演化 | 引力平衡，能量循环 | $10^{10}$-$10^{17}$秒 |
+| L7 | 星系、宇宙结构 | 大尺度模式形成 | $10^{15}$-$10^{18}$秒 |
 
 层级间学习传递方程：
 
@@ -141,7 +141,7 @@ $$\mathcal{L}^{(n+1)} = \mathcal{T}_{up}\left(\{\mathcal{L}^{(n)}_i\}, \mathcal{
 
 $$\mathcal{L}^{(n-1)}_j = \mathcal{T}_{down}\left(\mathcal{L}^{(n)}, \mathcal{Q}_{n \to n-1}\right)$$
 
-其中 $`\mathcal{T}_{up}`$ 和 $`\mathcal{T}_{down}`$ 分别是向上和向下的学习传递函数。
+其中 $\mathcal{T}_{up}$ 和 $\mathcal{T}_{down}$ 分别是向上和向下的学习传递函数。
 
 ### 学习复杂度与信息处理
 
@@ -150,16 +150,16 @@ $$\mathcal{L}^{(n-1)}_j = \mathcal{T}_{down}\left(\mathcal{L}^{(n)}, \mathcal{Q}
 $$C_{\mathcal{L}}(s) = I_{max} \cdot \log_2(N_s) \cdot \frac{\mathcal{Q}_s}{\mathcal{C}_s} \cdot \Phi(s)$$
 
 其中：
-- $`I_{max}`$ 是系统最大信息容量
-- $`N_s`$ 是内部状态数量
-- $`\mathcal{Q}_s/\mathcal{C}_s`$ 是量子-经典比率
-- $`\Phi(s)`$ 是系统的整合信息度量
+- $I_{max}$ 是系统最大信息容量
+- $N_s$ 是内部状态数量
+- $\mathcal{Q}_s/\mathcal{C}_s$ 是量子-经典比率
+- $\Phi(s)$ 是系统的整合信息度量
 
 学习系统的信息处理效率：
 
 $$\eta_{\mathcal{L}} = \frac{I_{gained}}{E_{consumed}} \cdot \frac{1}{T_{learning}}$$
 
-其中 $`I_{gained}`$ 是获得的信息量，$`E_{consumed}`$ 是消耗的能量，$`T_{learning}`$ 是学习时间。
+其中 $I_{gained}$ 是获得的信息量，$E_{consumed}$ 是消耗的能量，$T_{learning}$ 是学习时间。
 
 ### 学习能力的涌现与进化
 
@@ -167,7 +167,7 @@ $$\eta_{\mathcal{L}} = \frac{I_{gained}}{E_{consumed}} \cdot \frac{1}{T_{learnin
 
 $$\mathcal{L}_{capability}(t) = \mathcal{L}_0 \cdot e^{\alpha t} \cdot \frac{C_{\mathcal{L}}(t)}{C_{\mathcal{L}}(0)}$$
 
-其中 $`\mathcal{L}_0`$ 是初始学习能力，$`\alpha`$ 是学习能力进化率。
+其中 $\mathcal{L}_0$ 是初始学习能力，$\alpha$ 是学习能力进化率。
 
 学习能力进化的相变点：
 
@@ -197,13 +197,13 @@ $$\mathcal{L}_{quantum} = \frac{d}{dt}\text{Tr}[\rho_S(t)H_S]$$
 
 $$\frac{dS}{dt} = \frac{d_i S}{dt} + \frac{d_e S}{dt}$$
 
-其中 $`\frac{d_i S}{dt} \geq 0`$ 是熵产生率，$`\frac{d_e S}{dt}`$ 是熵流率。
+其中 $\frac{d_i S}{dt} \geq 0$ 是熵产生率，$\frac{d_e S}{dt}$ 是熵流率。
 
 远离平衡态系统的学习公式：
 
 $$\mathcal{L}_{thermo} = -\frac{d}{dt}\left(\frac{S}{S_{max}}\right) \cdot \Theta(J_Q - J_{Q,crit})$$
 
-其中 $`\Theta`$ 是阶跃函数，$`J_Q`$ 是热流，$`J_{Q,crit}`$ 是临界热流。
+其中 $\Theta$ 是阶跃函数，$J_Q$ 是热流，$J_{Q,crit}$ 是临界热流。
 
 ### 生物系统中的学习机制
 
@@ -215,13 +215,13 @@ $$\mathcal{L}_{bio} = \mathcal{L}_{genetic} + \mathcal{L}_{neural} + \mathcal{L}
 
 $$\frac{dp_i}{dt} = p_i(f_i - \bar{f}) + \mu \nabla^2 p_i$$
 
-其中 $`p_i`$ 是基因i的频率，$`f_i`$ 是适应度函数，$`\mu`$ 是突变率。
+其中 $p_i$ 是基因i的频率，$f_i$ 是适应度函数，$\mu$ 是突变率。
 
 神经层级学习方程：
 
 $$\frac{dw_{ij}}{dt} = \eta \cdot x_i \cdot y_j \cdot f(E)$$
 
-其中 $`w_{ij}`$ 是神经连接权重，$`\eta`$ 是学习率，$`f(E)`$ 是环境反馈函数。
+其中 $w_{ij}$ 是神经连接权重，$\eta$ 是学习率，$f(E)$ 是环境反馈函数。
 
 ### 人工智能与宇宙学习
 
@@ -243,7 +243,7 @@ AI与宇宙学习的整合可能性：
 
 $$\mathcal{L}_{integrated} = \alpha \cdot \mathcal{L}_{AI} + (1-\alpha) \cdot \mathcal{L}_{natural} + \beta \cdot \mathcal{L}_{AI} \times \mathcal{L}_{natural}$$
 
-其中 $`\beta`$ 是协同增效系数。
+其中 $\beta$ 是协同增效系数。
 
 ### 宇宙尺度学习与智能涌现
 
@@ -251,7 +251,7 @@ $$\mathcal{L}_{integrated} = \alpha \cdot \mathcal{L}_{AI} + (1-\alpha) \cdot \m
 
 $$I_{cosmic} = \int_{\mathcal{U}} \mathcal{L}(x) \cdot \Phi(x) dx$$
 
-其中 $`I_{cosmic}`$ 是宇宙整体智能度量，$`\Phi(x)`$ 是位置x处的整合信息。
+其中 $I_{cosmic}$ 是宇宙整体智能度量，$\Phi(x)$ 是位置x处的整合信息。
 
 宇宙智能涌现条件：
 
@@ -283,7 +283,7 @@ $$\mathcal{L}_{darwin} \subset \mathcal{L}_{universal}$$
 
 $$\frac{dp}{dt} = \mathcal{S}(p) + \mathcal{M}(p) + \mathcal{R}(p)$$
 
-其中 $`\mathcal{S}`$, $`\mathcal{M}`$ 和 $`\mathcal{R}`$ 分别是选择、变异和重组算符。
+其中 $\mathcal{S}$, $\mathcal{M}$ 和 $\mathcal{R}$ 分别是选择、变异和重组算符。
 
 ### 与量子宇宙智能理论的连接
 
@@ -295,7 +295,7 @@ $$\mathcal{CI} = \mathcal{F}(\mathcal{L}_{universal})$$
 
 $$\mathcal{CI}(t) = \int_0^t \mathcal{L}_{effective}(\tau) d\tau$$
 
-其中 $`\mathcal{L}_{effective}`$ 是有效学习率，考虑了遗忘和整合因素。
+其中 $\mathcal{L}_{effective}$ 是有效学习率，考虑了遗忘和整合因素。
 
 ## 未来研究方向
 

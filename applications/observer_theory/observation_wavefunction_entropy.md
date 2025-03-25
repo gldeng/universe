@@ -65,7 +65,7 @@ $$
 \eta_{\text{经典化效率}} \approx 1 - 10^{-D_{\text{观察者维度}}}
 $$
 
-其中 $`D_{\text{观察者维度}}`$ 是观察者的维度。这表明随着观察者维度的提高，经典化效率呈指数级接近1（完美效率）。
+其中 $D_{\text{观察者维度}}$ 是观察者的维度。这表明随着观察者维度的提高，经典化效率呈指数级接近1（完美效率）。
 
 ### 观测的量子叠加态解析
 
@@ -75,7 +75,7 @@ $$
 |\psi\rangle = \sum_{i} \alpha_i |i\rangle
 $$
 
-其中 $`\alpha_i`$ 是复振幅，$`|i\rangle`$ 是基态。
+其中 $\alpha_i$ 是复振幅，$|i\rangle$ 是基态。
 
 观测过程是从这一叠加态中"选择"特定结果的过程，但这种选择并非完全随机，而是受观察者经典化能力的影响：
 
@@ -83,7 +83,7 @@ $$
 |\psi\rangle \xrightarrow{\text{观测}} |i\rangle \text{ 以概率 } |\alpha_i|^2
 $$
 
-高效观测能够更准确地捕捉到 $`\alpha_i`$ 的分布模式，而低效观测则会引入额外的随机性和不确定性，即熵。
+高效观测能够更准确地捕捉到 $\alpha_i$ 的分布模式，而低效观测则会引入额外的随机性和不确定性，即熵。
 
 ### 集体观测与熵减少
 
@@ -197,7 +197,7 @@ $$
 \eta_{\text{Classicalization Efficiency}} \approx 1 - 10^{-D_{\text{Observer Dimension}}}
 $$
 
-where $`D_{\text{Observer Dimension}}`$ is the dimension of the observer. This indicates that as the observer's dimension increases, the classicalization efficiency exponentially approaches 1 (perfect efficiency).
+where $D_{\text{Observer Dimension}}$ is the dimension of the observer. This indicates that as the observer's dimension increases, the classicalization efficiency exponentially approaches 1 (perfect efficiency).
 
 ### Analysis of Quantum Superposition States in Observation
 
@@ -207,7 +207,7 @@ $$
 |\psi\rangle = \sum_{i} \alpha_i |i\rangle
 $$
 
-where $`\alpha_i`$ are complex amplitudes and $`|i\rangle`$ are basis states.
+where $\alpha_i$ are complex amplitudes and $|i\rangle$ are basis states.
 
 The observation process is the process of "selecting" specific results from this superposition state, but this selection is not completely random; rather, it is influenced by the observer's classicalization ability:
 
@@ -215,7 +215,7 @@ $$
 |\psi\rangle \xrightarrow{\text{Observation}} |i\rangle \text{ with probability } |\alpha_i|^2
 $$
 
-Efficient observation can more accurately capture the distribution pattern of $`\alpha_i`$, while inefficient observation introduces additional randomness and uncertainty, i.e., entropy.
+Efficient observation can more accurately capture the distribution pattern of $\alpha_i$, while inefficient observation introduces additional randomness and uncertainty, i.e., entropy.
 
 ### Collective Observation and Entropy Reduction
 

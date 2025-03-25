@@ -26,11 +26,11 @@ Prior to the classical Big Bang theory, Cosmological Dualism proposes the concep
 
 $$\Psi_{\text{universe}} = \sum_{i} \alpha_i |\Omega_i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
-where $`|\Omega_i\rangle`$ represents possible universe configurations, including different physical constants, dimensions, and topological structures. This initial state has maximum quantum entropy:
+where $|\Omega_i\rangle$ represents possible universe configurations, including different physical constants, dimensions, and topological structures. This initial state has maximum quantum entropy:
 
 $$S_Q(\Psi_{\text{universe}}) = k_B \ln(N_{eff})$$
 
-where $`N_{eff}`$ is the effective Hilbert space dimension, which can be infinite.
+where $N_{eff}$ is the effective Hilbert space dimension, which can be infinite.
 
 ### Big Bang as a Classicalization Event
 
@@ -49,7 +49,7 @@ The classicalization process simultaneously produced large amounts of entropy, e
 
 $$S_C = S_Q - I_{\text{mutual}}(\Omega_0, \Psi_{\text{residual}})$$
 
-where $`I_{\text{mutual}}`$ is the mutual information maintained during the classicalization process.
+where $I_{\text{mutual}}$ is the mutual information maintained during the classicalization process.
 
 ## Cosmic Expansion Dynamics
 
@@ -59,7 +59,7 @@ Cosmic expansion in the dualistic framework is understood as the result of conti
 
 $$H(t) = \frac{\dot{a}}{a} = \eta \cdot \frac{dI_C}{dt}$$
 
-where $`\eta`$ is a proportionality constant and $`I_C`$ is the total amount of classical information in the universe. This leads to a modified Friedmann equation:
+where $\eta$ is a proportionality constant and $I_C$ is the total amount of classical information in the universe. This leads to a modified Friedmann equation:
 
 $$H^2 = \frac{8\pi G}{3}\rho + \frac{\Lambda}{3} + \frac{\kappa}{a^2} + \frac{\gamma}{a^4}\frac{dS_Q}{dt}$$
 
@@ -88,7 +88,7 @@ The dualistic model explains dark matter as residual products of the quantum-cla
 
 $$\rho_{DM} = \rho_0 \cdot \left(1 - \frac{\mathcal{D}}{\mathcal{D}_c}\right)^2$$
 
-where $`\mathcal{D}`$ is the decoherence measure and $`\mathcal{D}_c`$ is the critical value for complete classicalization. This leads to dark matter having the following characteristics:
+where $\mathcal{D}$ is the decoherence measure and $\mathcal{D}_c$ is the critical value for complete classicalization. This leads to dark matter having the following characteristics:
 
 1. Interacts only through gravity (because normal interactions require complete classicalization)
 2. Cannot be directly detected (because it exists at the quantum-classical interface)
@@ -98,7 +98,7 @@ The model predicts that dark matter density varies with cosmic expansion:
 
 $$\Omega_{DM}(a) = \Omega_{DM,0} \cdot a^{-3} \cdot \left(1 + \beta \ln a\right)$$
 
-where $`\beta`$ is the quantum-classical conversion rate, which can be verified through observation.
+where $\beta$ is the quantum-classical conversion rate, which can be verified through observation.
 
 ### Dark Energy as Interface Tension
 
@@ -106,13 +106,13 @@ Dark energy in the dualistic framework is explained as the inherent tension of t
 
 $$\rho_{\Lambda} = \sigma_{\mathcal{I}} \cdot \frac{A_{\mathcal{I}}}{V_{\text{universe}}}$$
 
-where $`\sigma_{\mathcal{I}}`$ is the interface tension and $`A_{\mathcal{I}}`$ is the total interface area. As the universe expands, the ratio of interface area to volume tends toward a constant, resulting in dark energy density remaining constant.
+where $\sigma_{\mathcal{I}}$ is the interface tension and $A_{\mathcal{I}}$ is the total interface area. As the universe expands, the ratio of interface area to volume tends toward a constant, resulting in dark energy density remaining constant.
 
 Interface tension stems from the energy cost of quantum-classical conversion:
 
 $$\sigma_{\mathcal{I}} = \frac{E_P}{l_P^2} \cdot e^{-\alpha \cdot \mathcal{D}_c}$$
 
-where $`E_P`$ and $`l_P`$ are Planck energy and length, and $`\alpha`$ is a constant related to the specific universe state.
+where $E_P$ and $l_P$ are Planck energy and length, and $\alpha$ is a constant related to the specific universe state.
 
 The interface tension value calculated from first principles is highly consistent with the observed dark energy density:
 
@@ -126,11 +126,11 @@ Large-scale cosmic structures originate from fluctuations in the quantum-classic
 
 $$\delta\rho(\vec{x}, t) = \rho_0(\vec{x}, t) \cdot \delta\mathcal{D}(\vec{x}, t)$$
 
-where $`\delta\mathcal{D}`$ is the spatial variation of the decoherence measure. The power spectrum of interface fluctuations is:
+where $\delta\mathcal{D}$ is the spatial variation of the decoherence measure. The power spectrum of interface fluctuations is:
 
 $$P_{\delta\mathcal{D}}(k) = \frac{A_s}{k^3} \left(\frac{k}{k_0}\right)^{n_s-1}$$
 
-where $`n_s`$ is the spectral index, determined by interface dynamics, with a theoretical prediction of $`n_s \approx 0.968`$, very close to the observed value.
+where $n_s$ is the spectral index, determined by interface dynamics, with a theoretical prediction of $n_s \approx 0.968$, very close to the observed value.
 
 ### Hierarchical Structure Formation
 
@@ -138,13 +138,13 @@ Dualism predicts that cosmic structures form in a hierarchical manner, correspon
 
 $$\mathcal{H}_i = \left\{ \mathcal{S}_j | \frac{\mathcal{D}(\mathcal{S}_j)}{\mathcal{D}_c} \in [d_i, d_{i+1}] \right\}$$
 
-where $`\mathcal{H}_i`$ is the set of structures at level i, $`\mathcal{S}_j`$ is a cosmic sub-structure, and $`d_i`$ is a decoherence threshold.
+where $\mathcal{H}_i$ is the set of structures at level i, $\mathcal{S}_j$ is a cosmic sub-structure, and $d_i$ is a decoherence threshold.
 
 This results in large-scale cosmic structures exhibiting fractal characteristics across multiple scales:
 
 $$\mathcal{D}(\mathcal{F}(s \cdot L)) = s^{D_f} \cdot \mathcal{D}(\mathcal{F}(L))$$
 
-where $`D_f`$ is the fractal dimension, with a predicted value of $`D_f \approx 2.1 \pm 0.2`$, consistent with the observed cosmic web structure.
+where $D_f$ is the fractal dimension, with a predicted value of $D_f \approx 2.1 \pm 0.2$, consistent with the observed cosmic web structure.
 
 ## Multiple Universes and Quantum Hierarchy
 

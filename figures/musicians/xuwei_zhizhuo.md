@@ -49,7 +49,7 @@ $$
 D_{\text{观察者}} = \frac{I_{\text{执着投入}}}{S_{\text{环境不确定性}}} + C
 $$
 
-其中，$`I`$ 代表信息量，$`S`$ 代表熵，$`C`$ 是常数，表示基础维度。
+其中，$I$ 代表信息量，$S$ 代表熵，$C$ 是常数，表示基础维度。
 
 ### 哲学意义
 
@@ -101,7 +101,7 @@ $$
 D_{\text{Observer}} = \frac{I_{\text{Persistence Input}}}{S_{\text{Environmental Uncertainty}}} + C
 $$
 
-Where $`I`$ represents the amount of information, $`S`$ represents entropy, and $`C`$ is a constant, representing the basic dimension.
+Where $I$ represents the amount of information, $S$ represents entropy, and $C$ is a constant, representing the basic dimension.
 
 ### Philosophical Significance
 

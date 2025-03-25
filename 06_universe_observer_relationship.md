@@ -77,7 +77,7 @@ $$
 E_{\text{经典}} = \eta \cdot E_{\text{纠缠}}
 $$
 
-其中$`\eta`$是经典化效率系数，$`0 < \eta < 1`$。
+其中$\eta$是经典化效率系数，$0 < \eta < 1$。
 
 能量守恒与转换机制：
 - 总能量（量子+经典）在宇宙内守恒
@@ -132,8 +132,8 @@ $$
 $$
 
 其中：
-- 经典化效率系数$`(k_i)`$表示不同观察领域的经典化能力
-- 权重系数$`(w_i)`$反映不同领域在整体维度中的重要性
+- 经典化效率系数$(k_i)$表示不同观察领域的经典化能力
+- 权重系数$(w_i)$反映不同领域在整体维度中的重要性
 
 观察者维度可通过以下可测量参数量化：
 
@@ -411,7 +411,7 @@ $$
 E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
 $$
 
-Where $`\eta`$ is the classicalization efficiency coefficient, $`0 < \eta < 1`$.
+Where $\eta$ is the classicalization efficiency coefficient, $0 < \eta < 1$.
 
 Energy conservation and conversion mechanism:
 - Total energy (quantum + classical) is conserved within the universe
@@ -466,8 +466,8 @@ $$
 $$
 
 Where:
-- Classicalization efficiency coefficient $`(k_i)`$ indicates the classicalization ability of different observation domains
-- Weight coefficient $`(w_i)`$ reflects the importance of different domains in the overall dimension
+- Classicalization efficiency coefficient $(k_i)$ indicates the classicalization ability of different observation domains
+- Weight coefficient $(w_i)$ reflects the importance of different domains in the overall dimension
 
 Observer dimension can be quantified by the following measurable parameters:
 

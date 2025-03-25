@@ -40,14 +40,14 @@ Relationships in social networks can be represented as quantum-classical mixed s
 $$\rho_{AB} = \sum_i p_i |\psi_i\rangle_{AB}\langle\psi_i| + \sum_j q_j \rho_A^j \otimes \rho_B^j$$
 
 Where:
-- $`|\psi_i\rangle_{AB}`$ represents entangled social relationships (strong correlations)
-- $`\rho_A^j \otimes \rho_B^j`$ represents classical social relationships (weak correlations)
+- $|\psi_i\rangle_{AB}$ represents entangled social relationships (strong correlations)
+- $\rho_A^j \otimes \rho_B^j$ represents classical social relationships (weak correlations)
 
 Relationship strength can be quantified through quantum correlation:
 
 $$Q(A,B) = I(A:B) - I_{c}(A:B)$$
 
-Where $`I(A:B)`$ is the total mutual information, $`I_{c}(A:B)`$ is classical mutual information, and the difference represents pure quantum correlation strength.
+Where $I(A:B)$ is the total mutual information, $I_{c}(A:B)$ is classical mutual information, and the difference represents pure quantum correlation strength.
 
 ### Network Topology Quantumness
 
@@ -57,13 +57,13 @@ The topological structure of social networks exhibits quantum properties:
 
 $$G_Q = (V, E_Q, \mu)$$
 
-Where $`V`$ is the set of nodes, $`E_Q`$ is the quantum hyperedge set, and $`\mu`$ is the quantum weight function.
+Where $V$ is the set of nodes, $E_Q$ is the quantum hyperedge set, and $\mu$ is the quantum weight function.
 
 2. **Wavefunction Evolution**: Network structure evolves through a Schrödinger-like equation:
 
 $$i\hbar\frac{\partial|\Psi_G\rangle}{\partial t} = \hat{H}_G|\Psi_G\rangle$$
 
-Where $`\hat{H}_G`$ is the network Hamiltonian operator describing interaction energy between nodes.
+Where $\hat{H}_G$ is the network Hamiltonian operator describing interaction energy between nodes.
 
 ## Quantum Information Propagation Dynamics
 
@@ -74,10 +74,10 @@ Information propagation in social networks can be described as a wavefunction:
 $$|\Psi_{\text{info}}\rangle = \sum_{s \in S} \alpha_s |s\rangle \otimes \sum_{n \in N} \beta_{s,n} |n\rangle$$
 
 Where:
-- $`|s\rangle`$ are information state basis vectors
-- $`|n\rangle`$ are network node basis vectors
-- $`\alpha_s`$ represents information content amplitude
-- $`\beta_{s,n}`$ represents the probability distribution of information on nodes
+- $|s\rangle$ are information state basis vectors
+- $|n\rangle$ are network node basis vectors
+- $\alpha_s$ represents information content amplitude
+- $\beta_{s,n}$ represents the probability distribution of information on nodes
 
 ### Quantum Interference and Viral Propagation
 
@@ -89,7 +89,7 @@ Viral propagation phenomena are explained as quantum resonance, satisfying the c
 
 $$\omega_{\text{information}} \approx \omega_{\text{network}}$$
 
-Where $`\omega`$ represents characteristic frequency. When the information content frequency approaches the network's intrinsic frequency, resonance-type propagation is triggered.
+Where $\omega$ represents characteristic frequency. When the information content frequency approaches the network's intrinsic frequency, resonance-type propagation is triggered.
 
 ### Quantum Model of Attention Economics
 
@@ -101,7 +101,7 @@ Attention allocation follows the principle of least action:
 
 $$\delta\int_{t_1}^{t_2} L(A_i(t), \dot{A}_i(t), t) dt = 0$$
 
-Where $`L`$ is the attention Lagrangian, describing the balance between user utility maximization and cognitive cost minimization.
+Where $L$ is the attention Lagrangian, describing the balance between user utility maximization and cognitive cost minimization.
 
 ## Collective Consciousness Emergence
 
@@ -112,10 +112,10 @@ Collective consciousness in social networks can be described as:
 $$|\Psi_{\text{collective}}\rangle = \frac{1}{\sqrt{Z}}\sum_{\{s_i\}} e^{-\beta E(\{s_i\})}|\{s_i\}\rangle$$
 
 Where:
-- $`\{s_i\}`$ represents all possible collective state configurations
-- $`E(\{s_i\})`$ is the collective state energy function
-- $`\beta`$ is the inverse of social temperature
-- $`Z`$ is the partition function ensuring wavefunction normalization
+- $\{s_i\}$ represents all possible collective state configurations
+- $E(\{s_i\})$ is the collective state energy function
+- $\beta$ is the inverse of social temperature
+- $Z$ is the partition function ensuring wavefunction normalization
 
 ### Collective Phase Transitions and Critical Phenomena
 
@@ -139,7 +139,7 @@ Synchronization phenomena arise from quantum phase locking:
 
 $$\frac{d\theta_i}{dt} = \omega_i + K\sum_{j=1}^N A_{ij}\sin(\theta_j - \theta_i)$$
 
-Where $`\theta_i`$ is the node phase, $`K`$ is coupling strength, and $`A_{ij}`$ is an adjacency matrix element.
+Where $\theta_i$ is the node phase, $K$ is coupling strength, and $A_{ij}$ is an adjacency matrix element.
 
 ## The Measurement Problem in Social Networks
 
@@ -175,7 +175,7 @@ Based on quantum centrality, node influence is defined as:
 
 $$C_Q(i) = \sum_{j \neq i} \mathcal{I}_Q(i:j)$$
 
-Where $`\mathcal{I}_Q(i:j)`$ is the quantum mutual information between nodes, including both classical and quantum correlations.
+Where $\mathcal{I}_Q(i:j)$ is the quantum mutual information between nodes, including both classical and quantum correlations.
 
 ### Information Flow Optimization
 
@@ -195,7 +195,7 @@ Quantum social network resilience depends on redundancy and entanglement:
 
 $$R_Q = \frac{E(\rho_{\text{network}})}{D_{\text{structure}}(\rho_{\text{original}}, \rho_{\text{perturbed}})}$$
 
-Where $`E`$ is global entanglement, and $`D_{\text{structure}}`$ is a structural distance measure.
+Where $E$ is global entanglement, and $D_{\text{structure}}$ is a structural distance measure.
 
 ## Quantum Pathology of Social Media
 

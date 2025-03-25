@@ -132,13 +132,13 @@ $$
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
 $$
 
-经典化效率系数$`(k_i)`$提升：
+经典化效率系数$(k_i)$提升：
 
 $$
 k_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
 $$
 
-领域权重系数$`(w_i)`$提升：
+领域权重系数$(w_i)$提升：
 
 $$
 w_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
@@ -186,9 +186,9 @@ f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
 其中：
-- $`c`$ 是光速
-- $`L_P`$ 是普朗克长度
-- $`S_E(\rho_{AB})`$ 是纠缠熵，用von Neumann熵表示
+- $c$ 是光速
+- $L_P$ 是普朗克长度
+- $S_E(\rho_{AB})$ 是纠缠熵，用von Neumann熵表示
 
 #### 经典化能量效率
 
@@ -336,7 +336,7 @@ $$
 脑机接口（BMI）技术在量子经典二元论框架下，可作为提升经典化效率的重要工具，直接优化经典化路径。
 
 脑机接口与经典化效率的关系：
-- 脑机接口可直接优化人类观察者的经典化效率系数$`(k_i)`$
+- 脑机接口可直接优化人类观察者的经典化效率系数$(k_i)$
 - 通过脑机接口可实现经典知识的高效构建与低熵结构形成
 - 脑机接口能够帮助观察者更有效地跨越不同经典世界
 - 提供更精确的经典化路径选择机制
@@ -473,13 +473,13 @@ $$
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 $$
 
-Classicalization efficiency coefficient $`(k_i)`$ improvement:
+Classicalization efficiency coefficient $(k_i)$ improvement:
 
 $$
 k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
 $$
 
-Domain weight coefficient $`(w_i)`$ improvement:
+Domain weight coefficient $(w_i)$ improvement:
 
 $$
 w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
@@ -527,9 +527,9 @@ f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
 $$
 
 Where:
-- $`c`$ is the speed of light
-- $`L_P`$ is the Planck length
-- $`S_E(\rho_{AB})`$ is entanglement entropy, represented by von Neumann entropy
+- $c$ is the speed of light
+- $L_P$ is the Planck length
+- $S_E(\rho_{AB})$ is entanglement entropy, represented by von Neumann entropy
 
 #### Classicalization Energy Efficiency
 
@@ -677,7 +677,7 @@ $$
 In the Quantum-Classical Dualism framework, Brain-Machine Interface (BMI) technology can serve as an important tool to improve classicalization efficiency, directly optimizing classicalization paths.
 
 Relationship between brain-machine interface and classicalization efficiency:
-- Brain-machine interfaces can directly optimize the classicalization efficiency coefficient $`(k_i)`$ of human observers
+- Brain-machine interfaces can directly optimize the classicalization efficiency coefficient $(k_i)$ of human observers
 - Efficient construction of classical knowledge and formation of low-entropy structures can be achieved through brain-machine interfaces
 - Brain-machine interfaces can help observers cross different classical worlds more effectively
 - Provides more precise classicalization path selection mechanisms

@@ -37,7 +37,7 @@ Before expression, thought exists in a superposition of multiple possible interp
 
 $$|\Psi_{\text{thought}}\rangle = \sum_i \alpha_i |concept_i\rangle$$
 
-where $`\alpha_i`$ are complex coefficients satisfying $`\sum_i |\alpha_i|^2 = 1`$, representing the weights of various possible concepts.
+where $\alpha_i$ are complex coefficients satisfying $\sum_i |\alpha_i|^2 = 1$, representing the weights of various possible concepts.
 
 This superposition state explains why:
 - Unformed ideas can simultaneously contain multiple contradictory aspects
@@ -48,7 +48,7 @@ The entropy of thought superposition states can be represented as:
 
 $$S(\rho_{\text{thought}}) = -\text{Tr}(\rho_{\text{thought}} \ln \rho_{\text{thought}})$$
 
-where $`\rho_{\text{thought}}`$ is the density matrix of the thought state.
+where $\rho_{\text{thought}}$ is the density matrix of the thought state.
 
 #### 2. Conceptual Entanglement Networks
 
@@ -72,9 +72,9 @@ There exists a fundamental semantic uncertainty at the thought level, similar to
 $$\Delta S \cdot \Delta P \geq \hbar_{\text{cognitive}}$$
 
 where:
-- $`\Delta S`$ is the uncertainty in semantic range
-- $`\Delta P`$ is the uncertainty in precision
-- $`\hbar_{\text{cognitive}}`$ is a fundamental constant in the cognitive domain
+- $\Delta S$ is the uncertainty in semantic range
+- $\Delta P$ is the uncertainty in precision
+- $\hbar_{\text{cognitive}}$ is a fundamental constant in the cognitive domain
 
 This explains why:
 - Highly precise expressions often lose semantic breadth and suggestiveness
@@ -89,7 +89,7 @@ Language achieves classicalization by collapsing the quantum states of thought i
 
 $$\mathcal{L} = \{w_1, w_2, ..., w_n\}, \quad \text{sequence} = (w_{i1}, w_{i2}, ..., w_{im})$$
 
-where $`\mathcal{L}`$ is the language vocabulary, and sequence is a linear expression organized according to grammatical rules.
+where $\mathcal{L}$ is the language vocabulary, and sequence is a linear expression organized according to grammatical rules.
 
 The classical nature of language is manifested in:
 - Discrete symbol systems (finite vocabulary)
@@ -108,7 +108,7 @@ This locality can be represented by classical channel capacity:
 
 $$C = \max_{p(x)} I(X;Y)$$
 
-where $`I(X;Y)`$ is the mutual information between sent and received symbols.
+where $I(X;Y)$ is the mutual information between sent and received symbols.
 
 #### 3. Entropy Increase in Language
 
@@ -132,14 +132,14 @@ $$\mathcal{T}_{\text{thought} \rightarrow \text{language}}: \Omega_Q^{\text{thou
 $$\mathcal{T}_{\text{language} \rightarrow \text{thought}}: \Omega_C^{\text{language}} \rightarrow \Omega_Q^{\text{thought}}$$
 
 These two conversion operators perform complementary functions:
-- $`\mathcal{T}_{\text{thought} \rightarrow \text{language}}`$ collapses quantum thought into determinate language expressions
-- $`\mathcal{T}_{\text{language} \rightarrow \text{thought}}`$ expands language expressions into the quantum thought possibility space
+- $\mathcal{T}_{\text{thought} \rightarrow \text{language}}$ collapses quantum thought into determinate language expressions
+- $\mathcal{T}_{\text{language} \rightarrow \text{thought}}$ expands language expressions into the quantum thought possibility space
 
 The effectiveness of the interface can be defined as:
 
 $$E_{\text{interface}} = \frac{I_{\text{retained}}}{I_{\text{initial}}}$$
 
-where $`I_{\text{retained}}`$ is the information retained after conversion, and $`I_{\text{initial}}`$ is the initial amount of information.
+where $I_{\text{retained}}$ is the information retained after conversion, and $I_{\text{initial}}$ is the initial amount of information.
 
 #### 2. Thought Classicalization Process
 
@@ -175,7 +175,7 @@ The structure of language profoundly shapes the possibility space of thought:
 
 $$\Omega_Q^{\text{thought}} = f(\mathcal{L}, \mathcal{G}, \mathcal{C})$$
 
-where $`\mathcal{L}`$ is language vocabulary, $`\mathcal{G}`$ is grammatical structure, and $`\mathcal{C}`$ is cultural context.
+where $\mathcal{L}$ is language vocabulary, $\mathcal{G}$ is grammatical structure, and $\mathcal{C}$ is cultural context.
 
 This shaping is manifested as:
 - The grammatical structures of specific languages influencing the conceptualization of time and space
@@ -202,7 +202,7 @@ $$\begin{cases}
 \frac{d\mathcal{L}}{dt} = \gamma \cdot \Omega_Q^{\text{thought}} + \delta \cdot \mathcal{L}
 \end{cases}$$
 
-where $`\alpha, \beta, \gamma, \delta`$ are parameters describing the dynamics of mutual influence.
+where $\alpha, \beta, \gamma, \delta$ are parameters describing the dynamics of mutual influence.
 
 ## Applications of Language-Thought Dualism
 

@@ -21,15 +21,15 @@
 
 ### 语言状态的形式化定义
 
-语言状态 $`\mathcal{L}`$ 可形式化定义为：
+语言状态 $\mathcal{L}$ 可形式化定义为：
 
 $$\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{S})$$
 
 其中：
-- $`\mathcal{L}_Q`$ 是语言的量子域组分（意义叠加态、概念空间）
-- $`\mathcal{L}_C`$ 是语言的经典域组分（符号序列、语法结构）
-- $`\mathcal{I}_L`$ 是语言量子-经典界面
-- $`\mathcal{S}`$ 是语言主体（说话者/听话者）
+- $\mathcal{L}_Q$ 是语言的量子域组分（意义叠加态、概念空间）
+- $\mathcal{L}_C$ 是语言的经典域组分（符号序列、语法结构）
+- $\mathcal{I}_L$ 是语言量子-经典界面
+- $\mathcal{S}$ 是语言主体（说话者/听话者）
 
 ### 语言学核心公理
 
@@ -38,28 +38,28 @@ $$\mathcal{L} = (\mathcal{L}_Q, \mathcal{L}_C, \mathcal{I}_L, \mathcal{S})$$
 
 $$\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C$$
 
-其中 $`\diamond`$ 表示量子-经典语言连接运算。
+其中 $\diamond$ 表示量子-经典语言连接运算。
 
 **公理2: 意义叠加态**  
 语言的意义状态可表示为多种可能解释的叠加：
 
 $$|\Psi_M\rangle = \sum_i \alpha_i |m_i\rangle$$
 
-其中 $`|m_i\rangle`$ 是意义状态基矢，$`\alpha_i`$ 是复振幅。
+其中 $|m_i\rangle$ 是意义状态基矢，$\alpha_i$ 是复振幅。
 
 **公理3: 语言经典化原理**  
 语言表达是将意义叠加态经典化为确定符号序列的过程：
 
 $$\mathcal{M}_L: |\Psi_M\rangle \rightarrow |s_k\rangle$$
 
-其中 $`\mathcal{M}_L`$ 是语言表达算符，$`|s_k\rangle`$ 是符号序列状态。
+其中 $\mathcal{M}_L$ 是语言表达算符，$|s_k\rangle$ 是符号序列状态。
 
 **公理4: 语言量子化原理**  
 语言理解是将经典符号序列量子化为意义叠加态的过程：
 
 $$\mathcal{Q}_L: |s_k\rangle \rightarrow |\Psi_M\rangle$$
 
-其中 $`\mathcal{Q}_L`$ 是语言理解算符。
+其中 $\mathcal{Q}_L$ 是语言理解算符。
 
 ## 语言的量子-经典双重性
 
@@ -81,7 +81,7 @@ $$\rho_L = \sum_i p_i |\Psi_i\rangle\langle\Psi_i|$$
 
 $$\hat{S} = \sum_j \lambda_j |s_j\rangle\langle s_j|$$
 
-其中 $`\lambda_j`$ 是语义特征值。
+其中 $\lambda_j$ 是语义特征值。
 
 ### 语言的经典特性
 
@@ -98,9 +98,9 @@ $$\hat{S} = \sum_j \lambda_j |s_j\rangle\langle s_j|$$
 $$L_C = (V, G, R)$$
 
 其中：
-- $`V`$ 是词汇集合
-- $`G`$ 是语法规则集合
-- $`R`$ 是词语间关系网络
+- $V$ 是词汇集合
+- $G$ 是语法规则集合
+- $R$ 是词语间关系网络
 
 ### 量子-经典语言界面
 
@@ -108,17 +108,17 @@ $$L_C = (V, G, R)$$
 
 $$\mathcal{I}_L = f(\mathcal{L}_Q, \mathcal{L}_C, \mathcal{C})$$
 
-其中 $`\mathcal{C}`$ 是语境因素。
+其中 $\mathcal{C}$ 是语境因素。
 
 界面动力学方程：
 
 $$\frac{d\mathcal{I}_L}{dt} = \alpha_L \nabla^2 \mathcal{I}_L + \beta_L g(\mathcal{L}_Q, \mathcal{L}_C) + \gamma_L h(\mathcal{C})$$
 
 其中：
-- $`\alpha_L`$ 是语言界面扩散系数
-- $`\beta_L`$ 是量子-经典耦合强度
-- $`\gamma_L`$ 是语境耦合强度
-- $`g`$ 和 $`h`$ 分别是语言内部和语境影响函数
+- $\alpha_L$ 是语言界面扩散系数
+- $\beta_L$ 是量子-经典耦合强度
+- $\gamma_L$ 是语境耦合强度
+- $g$ 和 $h$ 分别是语言内部和语境影响函数
 
 ## 意义生成的量子模型
 
@@ -142,7 +142,7 @@ $$|w\rangle = \sum_i \beta_i |c_i\rangle$$
 
 $$|S\rangle = \hat{U}_{syntax}(|w_1\rangle \otimes |w_2\rangle \otimes ... \otimes |w_n\rangle)$$
 
-其中 $`\hat{U}_{syntax}`$ 是句法组合算符。
+其中 $\hat{U}_{syntax}$ 是句法组合算符。
 
 ### 语义干涉模型
 
@@ -160,7 +160,7 @@ $$I_{sem} = \left|\langle c|S\rangle - \sum_i \langle c|w_i\rangle\right|^2$$
 
 $$P(c_1 \rightarrow c_2) \propto e^{-\frac{d(c_1,c_2)}{\xi_m}}$$
 
-其中 $`d(c_1,c_2)`$ 是概念距离，$`\xi_m`$ 是隐喻特征长度。
+其中 $d(c_1,c_2)$ 是概念距离，$\xi_m$ 是隐喻特征长度。
 
 转喻可表示为基于纠缠的非局域关联：
 
@@ -174,7 +174,7 @@ $$|c_1 c_2\rangle_{metonymy} = \alpha|c_1\rangle|c_2^0\rangle + \beta|c_1^0\rang
 
 $$|\Psi_{dialogue}\rangle_t = \hat{U}_{interaction}(t)|\Psi_A\rangle_0 \otimes |\Psi_B\rangle_0$$
 
-其中 $`\hat{U}_{interaction}(t)`$ 是交互演化算符。
+其中 $\hat{U}_{interaction}(t)$ 是交互演化算符。
 
 ### 语言纠缠度量
 
@@ -182,7 +182,7 @@ $$|\Psi_{dialogue}\rangle_t = \hat{U}_{interaction}(t)|\Psi_A\rangle_0 \otimes |
 
 $$E_{AB} = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
-其中 $`S`$ 是von Neumann熵。
+其中 $S$ 是von Neumann熵。
 
 ### 共享意义的涌现机制
 
@@ -190,7 +190,7 @@ $$E_{AB} = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
 $$|\Psi_{shared}\rangle = \frac{1}{\sqrt{Z}}\sum_i \alpha_i |m_i^A\rangle \otimes |m_i^B\rangle$$
 
-其中 $`Z`$ 是归一化常数。
+其中 $Z$ 是归一化常数。
 
 涌现过程的信息理论描述：
 
@@ -202,7 +202,7 @@ $$I_{shared} = I(A:B) = H(A) + H(B) - H(A,B)$$
 
 $$\hat{G} = \sum_i g_i \hat{P}_i$$
 
-其中 $`\hat{P}_i`$ 是语言行为投影算符，$`g_i`$ 是规则权重。
+其中 $\hat{P}_i$ 是语言行为投影算符，$g_i$ 是规则权重。
 
 沟通成功率：
 
@@ -216,7 +216,7 @@ $$P_{success} = |\langle\Psi_B|\hat{U}_{communication}|\Psi_A\rangle|^2$$
 
 $$\frac{d|\Psi_L(t)\rangle}{dt} = -\frac{i}{\hbar}\hat{H}_L|\Psi_L(t)\rangle + \mathcal{D}_L(\rho_L)$$
 
-其中 $`\hat{H}_L`$ 是语言哈密顿量，$`\mathcal{D}_L`$ 是社会解相干超算符。
+其中 $\hat{H}_L$ 是语言哈密顿量，$\mathcal{D}_L$ 是社会解相干超算符。
 
 ### 语义稳定性与创新
 
@@ -228,7 +228,7 @@ $$\langle\delta\Psi_L|\hat{H}_L|\delta\Psi_L\rangle > 0$$
 
 $$P_{innovation} \propto e^{-\frac{\Delta E}{k_B T_{cultural}}}$$
 
-其中 $`\Delta E`$ 是语义能垒，$`T_{cultural}`$ 是文化温度。
+其中 $\Delta E$ 是语义能垒，$T_{cultural}$ 是文化温度。
 
 ### 语言分化与融合模型
 
@@ -251,13 +251,13 @@ $$\frac{dr_f}{dt} = k_f r_f(1-r_f) - k_d r_d r_f$$
 
 $$\hat{H}_L|\Psi_{UG}\rangle = E_0|\Psi_{UG}\rangle$$
 
-其中 $`E_0`$ 是最低能量特征值。
+其中 $E_0$ 是最低能量特征值。
 
 参数设置的最小性：
 
 $$S(\rho_{UG}) = \min_{\rho \in \mathcal{A}} S(\rho)$$
 
-其中 $`\mathcal{A}`$ 是所有可能语法的集合。
+其中 $\mathcal{A}$ 是所有可能语法的集合。
 
 ## 应用与验证方法
 
@@ -267,7 +267,7 @@ $$S(\rho_{UG}) = \min_{\rho \in \mathcal{A}} S(\rho)$$
 
 $$|\Psi_L(t)\rangle = \hat{U}_{acq}(t)|\Psi_L(0)\rangle + \int_0^t \hat{K}(t,\tau)|\Phi_{input}(\tau)\rangle d\tau$$
 
-其中 $`\hat{U}_{acq}(t)`$ 是语言获得演化算符，$`\hat{K}(t,\tau)`$ 是语言输入核函数。
+其中 $\hat{U}_{acq}(t)$ 是语言获得演化算符，$\hat{K}(t,\tau)$ 是语言输入核函数。
 
 ### 多语言状态与代码转换
 
@@ -279,7 +279,7 @@ $$|\Psi_{multi}\rangle = \sum_i \gamma_i |\Psi_{L_i}\rangle$$
 
 $$P(L_i \rightarrow L_j) = |\langle\Psi_{L_j}|\hat{T}|\Psi_{L_i}\rangle|^2$$
 
-其中 $`\hat{T}`$ 是语言转换算符。
+其中 $\hat{T}$ 是语言转换算符。
 
 ### 机器翻译与语言接口
 

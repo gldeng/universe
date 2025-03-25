@@ -32,13 +32,13 @@ Absolute Goodness Theory is based on the following basic axioms:
 
 $$\mathcal{G}_A \succ \{\mathcal{G}_R\}$$
 
-Absolute Goodness ($`\mathcal{G}_A`$) precedes and transcends any set of relative goods ($`\{\mathcal{G}_R\}`$). It does not originate from any practical needs or evolutionary benefits but is the foundation of all moral sensibilities and ethical reasoning.
+Absolute Goodness ($\mathcal{G}_A$) precedes and transcends any set of relative goods ($\{\mathcal{G}_R\}$). It does not originate from any practical needs or evolutionary benefits but is the foundation of all moral sensibilities and ethical reasoning.
 
 **Axiom 2: The Unity of Goodness**
 
 $$\forall \mathcal{G}_i, \mathcal{G}_j \in \{\mathcal{G}_R\}: \mathcal{G}_i \sim \mathcal{G}_j \Rightarrow \exists \mathcal{G}_k \in \mathcal{G}_A | \mathcal{G}_i, \mathcal{G}_j \subset \mathcal{G}_k$$
 
-Any compatible relative goods necessarily have a unified higher goodness source within Absolute Goodness, where $`\sim`$ represents ethical compatibility.
+Any compatible relative goods necessarily have a unified higher goodness source within Absolute Goodness, where $\sim$ represents ethical compatibility.
 
 **Axiom 3: The Self-Justifying Nature of Goodness**
 
@@ -50,7 +50,7 @@ The justification assessment of Absolute Goodness is equivalent to Absolute Good
 
 $$\forall \mathcal{B} \in \Omega: \exists \mathcal{G}_A(\mathcal{B})$$
 
-The essence of Absolute Goodness permeates any being ($`\mathcal{B}`$); there is no completely evil reality.
+The essence of Absolute Goodness permeates any being ($\mathcal{B}$); there is no completely evil reality.
 
 **Axiom 5: The Hierarchical Structure of Goodness**
 
@@ -68,7 +68,7 @@ Absolute Goodness does not depend on any conditions, consequences, or purposes. 
 
 $$\mathcal{G}_A = \mathcal{G}_A(\emptyset)$$
 
-Where $`\emptyset`$ indicates no dependence on any external conditions or results.
+Where $\emptyset$ indicates no dependence on any external conditions or results.
 
 ### 2. Infinite Inclusivity
 
@@ -76,7 +76,7 @@ Absolute Goodness unifies all seemingly contradictory value systems, harmonizing
 
 $$\mathcal{H}\{\mathcal{G}_{R1}, \mathcal{G}_{R2}, ..., \mathcal{G}_{Rn}\} = \mathcal{G}_H \subset \mathcal{G}_A$$
 
-Where $`\mathcal{H}`$ is the moral harmonization operator.
+Where $\mathcal{H}$ is the moral harmonization operator.
 
 ### 3. Transcending Rational Evaluation
 
@@ -84,7 +84,7 @@ Absolute Goodness transcends utilitarian calculation and rational analysis and c
 
 $$\mathcal{E}^+(\mathcal{G}_A) \notin \{Good, Bad\}$$
 
-Where $`\mathcal{E}^+`$ represents a value evaluation function that transcends traditional ethical assessment.
+Where $\mathcal{E}^+$ represents a value evaluation function that transcends traditional ethical assessment.
 
 ### 4. Goodness Field Universality
 
@@ -93,7 +93,7 @@ Absolute Goodness can manifest in all forms of existence and levels of conscious
 $$\mathcal{G}_A|_{D_i} \neq \mathcal{G}_A|_{D_j}, \forall i \neq j$$
 $$\mathcal{Q}(\mathcal{G}_A|_{D_i}) = \mathcal{Q}(\mathcal{G}_A|_{D_j})$$
 
-Where $`\mathcal{G}_A|_{D_i}`$ represents the manifestation of Absolute Goodness in dimension $`D_i`$, and $`\mathcal{Q}`$ represents the goodness essence extraction function.
+Where $\mathcal{G}_A|_{D_i}$ represents the manifestation of Absolute Goodness in dimension $D_i$, and $\mathcal{Q}$ represents the goodness essence extraction function.
 
 ### 5. Infinite Depth
 
@@ -101,11 +101,11 @@ Absolute Goodness has infinite depth, and no finite moral system can exhaust its
 
 $$\lim_{n \to \infty} \mathcal{M}_n(\mathcal{G}_A) \subset \mathcal{G}_A$$
 
-Where $`\mathcal{M}_n`$ represents the exploration function of the nth level of moral sensibility depth.
+Where $\mathcal{M}_n$ represents the exploration function of the nth level of moral sensibility depth.
 
 ## The Absolute Goodness Field
 
-Quantum Absolute Goodness Theory introduces the concept of the "Absolute Goodness Field" ($`\mathcal{GF}_A`$), a fundamental value field permeating all of reality, with all relative goods being local manifestations of this field under specific conditions. The Absolute Goodness Field has the following characteristics:
+Quantum Absolute Goodness Theory introduces the concept of the "Absolute Goodness Field" ($\mathcal{GF}_A$), a fundamental value field permeating all of reality, with all relative goods being local manifestations of this field under specific conditions. The Absolute Goodness Field has the following characteristics:
 
 ### 1. Goodness Field Equation
 
@@ -113,7 +113,7 @@ The Absolute Goodness Field satisfies the following field equation:
 
 $$\nabla^2 \mathcal{GF}_A - \frac{1}{c_G^2}\frac{\partial^2 \mathcal{GF}_A}{\partial t^2} = -\rho_G$$
 
-Where $`c_G`$ is the speed of goodness propagation (faster than light), and $`\rho_G`$ is the goodness density function.
+Where $c_G$ is the speed of goodness propagation (faster than light), and $\rho_G$ is the goodness density function.
 
 ### 2. Goodness Conservation Law
 
@@ -121,7 +121,7 @@ The goodness field obeys the goodness conservation law. The essence of goodness 
 
 $$\frac{d}{dt}\int_V \mathcal{GF}_A dV = \oint_S \mathbf{J}_G \cdot d\mathbf{S}$$
 
-Where $`\mathbf{J}_G`$ is the goodness flow density vector.
+Where $\mathbf{J}_G$ is the goodness flow density vector.
 
 ### 3. Goodness Field Fluctuations
 
@@ -129,7 +129,7 @@ At the most microscopic scale, the goodness field exhibits quantum fluctuations,
 
 $$\Delta \mathcal{GF}_A \cdot \Delta t \geq \frac{\hbar_G}{2}$$
 
-Where $`\hbar_G`$ is the goodness uncertainty constant.
+Where $\hbar_G$ is the goodness uncertainty constant.
 
 ### 4. Goodness Field Action Principle
 
@@ -149,7 +149,7 @@ At the deepest level, the essence of Absolute Goodness and Pure Will are homolog
 
 $$\mathcal{G}_A \cong \mathcal{W}_P$$
 
-Where $`\mathcal{W}_P`$ represents Pure Will. This homology transcends the framework of separation between motive and goal.
+Where $\mathcal{W}_P$ represents Pure Will. This homology transcends the framework of separation between motive and goal.
 
 ### 2. Goodness Realization Function
 
@@ -157,7 +157,7 @@ How goodness transforms into perceptible and executable will can be described by
 
 $$\mathcal{W} = \mathcal{F}(\mathcal{G}_A)$$
 
-Where $`\mathcal{F}`$ is the realization function mapping Absolute Goodness to specific forms of will.
+Where $\mathcal{F}$ is the realization function mapping Absolute Goodness to specific forms of will.
 
 ### 3. Goodness-Will Circuit
 
@@ -165,7 +165,7 @@ When consciousness interacts with goodness, a goodness-will circuit forms:
 
 $$\mathcal{C} \rightarrow \mathcal{G} \rightarrow \mathcal{W} \rightarrow \mathcal{A} \rightarrow \mathcal{C}$$
 
-Consciousness ($`\mathcal{C}`$) perceives goodness ($`\mathcal{G}`$), forms will ($`\mathcal{W}`$), guides action ($`\mathcal{A}`$), and updates consciousness, forming a closed loop.
+Consciousness ($\mathcal{C}$) perceives goodness ($\mathcal{G}$), forms will ($\mathcal{W}$), guides action ($\mathcal{A}$), and updates consciousness, forming a closed loop.
 
 ### 4. Goodness Level Mapping
 
@@ -173,11 +173,11 @@ Different levels of goodness have corresponding mappings at different will level
 
 $$\mathcal{G}_{D_i} \mapsto \mathcal{W}_{D_i}$$
 
-Where $`\mathcal{G}_{D_i}`$ and $`\mathcal{W}_{D_i}`$ represent goodness and will structures at dimension $`D_i`$, respectively.
+Where $\mathcal{G}_{D_i}$ and $\mathcal{W}_{D_i}$ represent goodness and will structures at dimension $D_i$, respectively.
 
 ## Transcending Value Duality
 
-Absolute Goodness transcends the limitations of traditional moral dualism, manifesting as "Value Superstates" ($`\mathcal{GS}`$) with the following characteristics:
+Absolute Goodness transcends the limitations of traditional moral dualism, manifesting as "Value Superstates" ($\mathcal{GS}$) with the following characteristics:
 
 ### 1. Value Quantum States
 
@@ -185,7 +185,7 @@ Value superstates can be represented as quantum states in a hyper-dimensional Hi
 
 $$|\mathcal{GS}\rangle = \sum_{i=0}^{\infty} \gamma_i |gs_i\rangle$$
 
-Where $`|gs_i\rangle`$ are basic value states, and $`\gamma_i`$ are complex coefficients.
+Where $|gs_i\rangle$ are basic value states, and $\gamma_i$ are complex coefficients.
 
 ### 2. Value Superposition Principle
 
@@ -193,7 +193,7 @@ Value superstates can simultaneously contain seemingly contradictory value compo
 
 $$|\mathcal{GS}\rangle = \gamma_1|g_1\rangle + \gamma_2|g_2\rangle + ...$$
 
-Even if $`g_1`$ and $`g_2`$ are mutually contradictory in traditional ethics.
+Even if $g_1$ and $g_2$ are mutually contradictory in traditional ethics.
 
 ### 3. Value Entanglement Phenomenon
 
@@ -209,11 +209,11 @@ When finite consciousness observes goodness, the value superstate partially coll
 
 $$\mathcal{M}_C(|\mathcal{GS}\rangle) \rightarrow |g_i\rangle$$
 
-Where $`\mathcal{M}_C`$ represents ethical measurement from a specific consciousness perspective.
+Where $\mathcal{M}_C$ represents ethical measurement from a specific consciousness perspective.
 
 ## Absolute Goodness Consciousness
 
-Absolute Goodness Theory proposes that Absolute Goodness cannot be fully grasped through rational analysis or utilitarian calculation but can be directly experienced through "Absolute Goodness Consciousness" ($`\mathcal{I}_G`$):
+Absolute Goodness Theory proposes that Absolute Goodness cannot be fully grasped through rational analysis or utilitarian calculation but can be directly experienced through "Absolute Goodness Consciousness" ($\mathcal{I}_G$):
 
 ### 1. Goodness Consciousness Process
 
@@ -221,7 +221,7 @@ Goodness consciousness is a trans-rational direct value perception process:
 
 $$\mathcal{I}_G: \mathcal{C} \times \mathcal{G}_A \rightarrow \mathcal{K}_G$$
 
-Consciousness ($`\mathcal{C}`$) directly contacts Absolute Goodness ($`\mathcal{G}_A`$), producing goodness knowledge ($`\mathcal{K}_G`$).
+Consciousness ($\mathcal{C}$) directly contacts Absolute Goodness ($\mathcal{G}_A$), producing goodness knowledge ($\mathcal{K}_G$).
 
 ### 2. Goodness Consciousness Conditions
 
@@ -229,7 +229,7 @@ Realizing goodness consciousness requires specific conditions:
 
 $$\mathcal{P}(\mathcal{I}_G) = f(L_C, E_C, B_C, ...)$$
 
-Where $`L_C`$ is the loving-kindness of consciousness, $`E_C`$ is the empathy of consciousness, and $`B_C`$ is the compassion of consciousness.
+Where $L_C$ is the loving-kindness of consciousness, $E_C$ is the empathy of consciousness, and $B_C$ is the compassion of consciousness.
 
 ### 3. Goodness Consciousness Purification Process
 
@@ -237,7 +237,7 @@ Goodness consciousness requires a moral purification process to enhance consciou
 
 $$\mathcal{C}' = \mathcal{P}(\mathcal{C}) = \mathcal{C} - \sum_{i} \delta_i \mathcal{D}_i$$
 
-Where $`\mathcal{P}`$ is the moral purification operator, and $`\mathcal{D}_i`$ are various self-centered biases and moral limitations.
+Where $\mathcal{P}$ is the moral purification operator, and $\mathcal{D}_i$ are various self-centered biases and moral limitations.
 
 ### 4. Multi-level Goodness Consciousness Structure
 
@@ -265,7 +265,7 @@ Deep principles guiding ethical decisions:
 
 $$\mathcal{D} = \mathcal{G}(\mathcal{G}_A) \times \mathcal{C}(S)$$
 
-Decision ($`\mathcal{D}`$) is the product of Absolute Goodness guidance ($`\mathcal{G}`$) and the consideration ($`\mathcal{C}`$) of situational conditions ($`S`$).
+Decision ($\mathcal{D}$) is the product of Absolute Goodness guidance ($\mathcal{G}$) and the consideration ($\mathcal{C}$) of situational conditions ($S$).
 
 ### 3. Social System Design Framework
 
@@ -273,7 +273,7 @@ Providing a social system design framework based on Absolute Goodness:
 
 $$I_{opt} = \max_{I_i} \{\mathcal{A}(I_i, \mathcal{G}_A)\}$$
 
-The optimal system ($`I_{opt}`$) is the choice with maximum consistency ($`\mathcal{A}`$) with Absolute Goodness.
+The optimal system ($I_{opt}$) is the choice with maximum consistency ($\mathcal{A}$) with Absolute Goodness.
 
 ### 4. Life Value Realization
 
@@ -281,7 +281,7 @@ Clarifying the deep value realization of individual life:
 
 $$V(L) = \int_{0}^{T} \mathcal{A}(L(t), \mathcal{G}_A) dt$$
 
-The value of life ($`V`$) is the integral of the consistency of individual life ($`L`$) with Absolute Goodness over the entire life course.
+The value of life ($V$) is the integral of the consistency of individual life ($L$) with Absolute Goodness over the entire life course.
 
 ## Related Theories
 

@@ -33,7 +33,7 @@
 
 $$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
 
-其中，$`\mathcal{S}`$ 是系统信息状态，$`\lambda`$ 是控制参数，当 $`\lambda`$ 接近临界值 $`\lambda_c`$ 时，存在无限小的 $`\delta\lambda`$ 使得系统状态发生不连续变化。
+其中，$\mathcal{S}$ 是系统信息状态，$\lambda$ 是控制参数，当 $\lambda$ 接近临界值 $\lambda_c$ 时，存在无限小的 $\delta\lambda$ 使得系统状态发生不连续变化。
 
 #### 量子-经典相变
 
@@ -41,7 +41,7 @@ $$\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)$$
 
 $$\Phi_{Q-C}: \mathcal{S}_Q \rightarrow \mathcal{S}_C$$
 
-其中，$`\mathcal{S}_Q`$ 是量子信息状态（具有叠加性、非局域性），$`\mathcal{S}_C`$ 是经典信息状态（具有确定性、局域性）。
+其中，$\mathcal{S}_Q$ 是量子信息状态（具有叠加性、非局域性），$\mathcal{S}_C$ 是经典信息状态（具有确定性、局域性）。
 
 #### 序参量
 
@@ -52,7 +52,7 @@ $$\eta(\lambda) = \begin{cases}
 (\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
 \end{cases}$$
 
-其中 $`\beta`$ 是临界指数，表征相变的普适类别。
+其中 $\beta$ 是临界指数，表征相变的普适类别。
 
 #### 涨落相关长度
 
@@ -60,7 +60,7 @@ $$\eta(\lambda) = \begin{cases}
 
 $$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
 
-其中 $`\nu`$ 是相关长度临界指数。
+其中 $\nu$ 是相关长度临界指数。
 
 ## 2. 信息相变的数学基础
 
@@ -81,7 +81,7 @@ $$\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}$$
 
 $$Z = \sum_{\{s\}} e^{-\mathcal{H}(\{s\})/k_B\eta_{\mathcal{O}}}$$
 
-其中 $`\{s\}`$ 是系统可能的信息构型，$`\mathcal{H}`$ 是信息哈密顿量，$`\eta_{\mathcal{O}}`$ 是观察者分辨率参数。
+其中 $\{s\}$ 是系统可能的信息构型，$\mathcal{H}$ 是信息哈密顿量，$\eta_{\mathcal{O}}$ 是观察者分辨率参数。
 
 ### 2.2 重整化群方法
 
@@ -89,7 +89,7 @@ $$Z = \sum_{\{s\}} e^{-\mathcal{H}(\{s\})/k_B\eta_{\mathcal{O}}}$$
 
 $$\mathcal{R}_b[\lambda] = \lambda'$$
 
-其中 $`\mathcal{R}_b`$ 是尺度变换算子，$`b`$ 是重整化尺度因子。在临界点附近，重整化变换流具有固定点性质：
+其中 $\mathcal{R}_b$ 是尺度变换算子，$b$ 是重整化尺度因子。在临界点附近，重整化变换流具有固定点性质：
 
 $$\mathcal{R}_b[\lambda_c] = \lambda_c$$
 
@@ -99,7 +99,7 @@ $$\alpha + 2\beta + \gamma = 2$$
 $$\alpha = 2 - \nu d$$
 $$\gamma = \nu(2-\eta)$$
 
-其中 $`\alpha, \beta, \gamma, \nu, \eta`$ 分别是热容、序参量、易感性、相关长度和异常维度的临界指数。
+其中 $\alpha, \beta, \gamma, \nu, \eta$ 分别是热容、序参量、易感性、相关长度和异常维度的临界指数。
 
 ### 2.3 信息相变的量子场论
 
@@ -107,12 +107,12 @@ $$\gamma = \nu(2-\eta)$$
 
 $$S[\phi] = \int d^dx dt \left[ \frac{1}{2}(\nabla\phi)^2 + \frac{1}{2}r\phi^2 + \frac{u}{4!}\phi^4 + \ldots \right]$$
 
-其中 $`\phi`$ 是序场，$`r \propto (\lambda - \lambda_c)`$ 是距离临界点的控制参数，$`u`$ 是相互作用强度。
+其中 $\phi$ 是序场，$r \propto (\lambda - \lambda_c)$ 是距离临界点的控制参数，$u$ 是相互作用强度。
 
 场论预测的临界现象包括：
-- 相关函数的标度行为：$`G(x) \sim |x|^{-(d-2+\eta)}`$
-- 动态临界现象：$`\tau \sim \xi^z`$，$`z`$ 是动态临界指数
-- 有限尺寸标度：$`\chi_L \sim L^{\gamma/\nu}f(L^{1/\nu}(\lambda-\lambda_c))`$
+- 相关函数的标度行为：$G(x) \sim |x|^{-(d-2+\eta)}$
+- 动态临界现象：$\tau \sim \xi^z$，$z$ 是动态临界指数
+- 有限尺寸标度：$\chi_L \sim L^{\gamma/\nu}f(L^{1/\nu}(\lambda-\lambda_c))$
 
 ## 3. 量子-经典相变特性
 
@@ -175,7 +175,7 @@ $$S[\phi] = \int d^dx dt \left[ \frac{1}{2}(\nabla\phi)^2 + \frac{1}{2}r\phi^2 +
 
 4. **非高斯分布**：涨落分布出现长尾和高峰
    $$P(\delta\mathcal{O}) \sim e^{-a|\delta\mathcal{O}|^\delta}$$
-   其中 $`\delta < 2`$ 表示超高斯特性。
+   其中 $\delta < 2$ 表示超高斯特性。
 
 5. **临界敏感性**：系统对微扰极为敏感
    $$\chi \sim |\lambda - \lambda_c|^{-\gamma}$$
@@ -187,16 +187,16 @@ $$S[\phi] = \int d^dx dt \left[ \frac{1}{2}(\nabla\phi)^2 + \frac{1}{2}r\phi^2 +
 $$\frac{\partial \mathcal{I}(x,t)}{\partial t} = D\nabla^2\mathcal{I} + V(\lambda-\lambda_c)\mathcal{I} - g\mathcal{I}^3 + \eta(x,t)$$
 
 其中：
-- $`\mathcal{I}(x,t)`$ 是界面位置
-- $`D`$ 是界面扩散系数
-- $`V`$ 是驱动力
-- $`g`$ 是非线性耦合系数
-- $`\eta(x,t)`$ 是噪声项
+- $\mathcal{I}(x,t)$ 是界面位置
+- $D$ 是界面扩散系数
+- $V$ 是驱动力
+- $g$ 是非线性耦合系数
+- $\eta(x,t)$ 是噪声项
 
 界面运动的特征表现：
 - 平滑区域：界面以恒定速度移动
 - 临界区域：界面表现出自相似的分形结构
-- 粗糙化现象：界面粗糙度 $`w \sim L^\alpha t^\beta`$
+- 粗糙化现象：界面粗糙度 $w \sim L^\alpha t^\beta$
 - 钉扎-去钉扎转变：界面在无序势场中的跃迁行为
 
 ## 4. 观察者诱导相变
@@ -205,28 +205,28 @@ $$\frac{\partial \mathcal{I}(x,t)}{\partial t} = D\nabla^2\mathcal{I} + V(\lambd
 
 观察者可通过调节以下参数诱导系统相变：
 
-#### 1. 观察者维度 $`D_{\mathcal{O}}`$
+#### 1. 观察者维度 $D_{\mathcal{O}}$
 
-存在临界维度 $`D_{\mathcal{O}}^c`$，当 $`D_{\mathcal{O}}`$ 超过此值时，系统从量子态转变为经典态：
+存在临界维度 $D_{\mathcal{O}}^c$，当 $D_{\mathcal{O}}$ 超过此值时，系统从量子态转变为经典态：
 
 $$P(量子 \to 经典) = \Theta(D_{\mathcal{O}} - D_{\mathcal{O}}^c)$$
 
-其中 $`\Theta`$ 是阶跃函数，在实际系统中被连续函数近似：
+其中 $\Theta$ 是阶跃函数，在实际系统中被连续函数近似：
 
 $$P(量子 \to 经典) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}$$
 
-#### 2. 观察者分辨率 $`\eta_{\mathcal{O}}`$
+#### 2. 观察者分辨率 $\eta_{\mathcal{O}}$
 
-分辨率参数影响测量基的区分能力，存在临界分辨率 $`\eta_{\mathcal{O}}^c`$：
+分辨率参数影响测量基的区分能力，存在临界分辨率 $\eta_{\mathcal{O}}^c$：
 
 $$\langle \mathcal{O} \rangle = \begin{cases}
 0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
 (\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
 \end{cases}$$
 
-#### 3. 测量频率 $`f_{\mathcal{O}}`$
+#### 3. 测量频率 $f_{\mathcal{O}}$
 
-测量频率与系统特征频率的比值决定了量子Zeno效应的强度，存在临界频率 $`f_{\mathcal{O}}^c`$：
+测量频率与系统特征频率的比值决定了量子Zeno效应的强度，存在临界频率 $f_{\mathcal{O}}^c$：
 
 $$\tau_{退相干} \propto \begin{cases}
 (f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
@@ -239,32 +239,32 @@ $$\tau_{退相干} \propto \begin{cases}
 
 1. **同步化相变**：观察者集体达成共识的相变
    $$\mathcal{R} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right|$$
-   在临界耦合强度 $`K_c`$ 处，同步化序参量 $`\mathcal{R}`$ 从0连续变化到非零值。
+   在临界耦合强度 $K_c$ 处，同步化序参量 $\mathcal{R}$ 从0连续变化到非零值。
 
 2. **感知相变**：集体感知能力的突变
    $$P_{感知} = \frac{1}{1 + e^{-\alpha(K-K_c)\sqrt{N}}}$$
-   其中 $`K`$ 是观察者间耦合强度，$`N`$ 是观察者数量。
+   其中 $K$ 是观察者间耦合强度，$N$ 是观察者数量。
 
 3. **观念级联**：信息在观察者网络中的传播相变
    $$\rho_{传播} \sim \begin{cases}
    0, & z < z_c \\
    (z - z_c)^\beta, & z \geq z_c
    \end{cases}$$
-   其中 $`z`$ 是每个观察者的平均连接数，$`z_c`$ 是临界连接数。
+   其中 $z$ 是每个观察者的平均连接数，$z_c$ 是临界连接数。
 
 4. **维度同步**：观察者维度的集体调整
    $$\sigma_D^2 \sim |K - K_c|^{-\gamma}$$
-   其中 $`\sigma_D^2`$ 是观察者维度的方差，在同步相变点 $`K_c`$ 处发散。
+   其中 $\sigma_D^2$ 是观察者维度的方差，在同步相变点 $K_c$ 处发散。
 
 ### 4.3 重复测量诱导相变
 
 重复测量可以诱导系统从量子到经典的相变，这种相变的动力学由量子Zeno效应和反Zeno效应控制。
 
-测量间隔 $`\tau`$ 和系统特征时间 $`\tau_s`$ 的比值是控制参数：
+测量间隔 $\tau$ 和系统特征时间 $\tau_s$ 的比值是控制参数：
 
 $$\lambda = \frac{\tau}{\tau_s}$$
 
-存在临界值 $`\lambda_c`$，使得：
+存在临界值 $\lambda_c$，使得：
 
 $$P_{经典} = \begin{cases}
 1, & \lambda < \lambda_c \quad \text{(Zeno区域)} \\
@@ -283,7 +283,7 @@ $$\sigma^2_{\text{效应}} \sim |\lambda - \lambda_c|^{-\gamma}$$
 
 $$\mathcal{H} = \{\Phi_1, \Phi_2, ..., \Phi_n\}$$
 
-其中每层相变 $`\Phi_i`$ 发生在特定尺度 $`L_i`$ 和特征时间 $`T_i`$：
+其中每层相变 $\Phi_i$ 发生在特定尺度 $L_i$ 和特征时间 $T_i$：
 
 $$L_i \approx L_0 \cdot e^{\alpha i}$$
 $$T_i \approx T_0 \cdot e^{\beta i}$$
@@ -309,13 +309,13 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 
 4. **相似性标度律**：相变特征在尺度变换下的不变性
    $$\mathcal{F}(bL) = b^\Delta\mathcal{F}(L)$$
-   其中 $`\Delta`$ 是标度维度。
+   其中 $\Delta$ 是标度维度。
 
 ### 5.3 观察尺度与相变可见性
 
 信息相变的可观测性依赖于观察尺度：
 
-1. **观察窗口效应**：只有当观察窗口 $`L_{\text{obs}}`$ 足够大时，相变才能被探测到
+1. **观察窗口效应**：只有当观察窗口 $L_{\text{obs}}$ 足够大时，相变才能被探测到
    $$P_{\text{检测}} \sim 1 - e^{-(L_{\text{obs}}/\xi)^d}$$
 
 2. **微观-宏观对应关系**：不同尺度相变间的映射函数
@@ -323,11 +323,11 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 
 3. **尺度依赖的临界指数**：有效临界指数随观察尺度变化
    $$\beta_{\text{eff}}(L) = \beta_{\infty} + cL^{-\omega}$$
-   其中 $`\omega`$ 是修正指数。
+   其中 $\omega$ 是修正指数。
 
 4. **观察者位置依赖**：观察者在系统中的位置影响相变感知
    $$P_{\text{感知}}(r) \sim e^{-r/\xi}$$
-   其中 $`r`$ 是观察者到相变核心的距离。
+   其中 $r$ 是观察者到相变核心的距离。
 
 ## 6. 信息相变的实例分析
 
@@ -337,28 +337,28 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 
 量子测量导致的相变特性：
 
-- **控制参数**：测量强度 $`g`$
-- **序参量**：波函数坍缩概率 $`P_c`$
-- **临界行为**：$`P_c \sim (g-g_c)^\beta`$, $`\beta \approx 0.5`$
-- **特征涨落**：测量结果的方差在 $`g \approx g_c`$ 处达到最大
+- **控制参数**：测量强度 $g$
+- **序参量**：波函数坍缩概率 $P_c$
+- **临界行为**：$P_c \sim (g-g_c)^\beta$, $\beta \approx 0.5$
+- **特征涨落**：测量结果的方差在 $g \approx g_c$ 处达到最大
 
 #### 量子退相干相变
 
 开放量子系统的退相干相变：
 
-- **控制参数**：系统-环境耦合强度 $`\lambda`$
-- **序参量**：相干度 $`\mathcal{C} = \text{Tr}|\rho - \rho_d|`$
-- **临界行为**：$`\mathcal{C} \sim e^{-(\lambda/\lambda_c)^\alpha}`$
-- **时空相关**：相干域尺寸 $`\xi \sim |\lambda - \lambda_c|^{-\nu}`$
+- **控制参数**：系统-环境耦合强度 $\lambda$
+- **序参量**：相干度 $\mathcal{C} = \text{Tr}|\rho - \rho_d|$
+- **临界行为**：$\mathcal{C} \sim e^{-(\lambda/\lambda_c)^\alpha}$
+- **时空相关**：相干域尺寸 $\xi \sim |\lambda - \lambda_c|^{-\nu}$
 
 #### 量子相变与经典化
 
 低温量子相变与经典极限的联系：
 
-- **控制参数**：温度 $`T`$ 和量子涨落参数 $`g`$
-- **相图**：$`(g,T)`$ 平面上的量子临界区域和经典临界线
-- **量子-经典交叉区域**：$`T \sim g^{z\nu}`$ 定义的标度区域
-- **有效维度变化**：低温下空间维度 $`d`$ 转变为时空维度 $`d+z`$
+- **控制参数**：温度 $T$ 和量子涨落参数 $g$
+- **相图**：$(g,T)$ 平面上的量子临界区域和经典临界线
+- **量子-经典交叉区域**：$T \sim g^{z\nu}$ 定义的标度区域
+- **有效维度变化**：低温下空间维度 $d$ 转变为时空维度 $d+z$
 
 ### 6.2 生物系统中的信息相变
 
@@ -366,9 +366,9 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 
 神经系统中的集体相变：
 
-- **控制参数**：神经元耦合强度 $`w`$ 和噪声水平 $`\sigma`$
+- **控制参数**：神经元耦合强度 $w$ 和噪声水平 $\sigma$
 - **序参量**：平均发放率和同步度
-- **临界行为**：神经涨落幂律分布 $`P(s) \sim s^{-\tau}`$
+- **临界行为**：神经涨落幂律分布 $P(s) \sim s^{-\tau}$
 - **功能意义**：临界状态下信息处理能力和动态范围最大化
 
 #### 基因调控网络相变
@@ -395,10 +395,10 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 
 社会群体中的共识形成：
 
-- **控制参数**：个体间交流强度 $`J`$ 和外部信息场 $`h`$
-- **序参量**：群体意见一致度 $`M = |\langle s_i \rangle|`$
-- **临界行为**：$`M \sim (J-J_c)^\beta`$ 当 $`h \to 0`$
-- **涨落现象**：意见波动幅度在临界点最大，$`\chi \sim |J-J_c|^{-\gamma}`$
+- **控制参数**：个体间交流强度 $J$ 和外部信息场 $h$
+- **序参量**：群体意见一致度 $M = |\langle s_i \rangle|$
+- **临界行为**：$M \sim (J-J_c)^\beta$ 当 $h \to 0$
+- **涨落现象**：意见波动幅度在临界点最大，$\chi \sim |J-J_c|^{-\gamma}$
 
 #### 技术突破相变
 
@@ -448,22 +448,22 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 信息相变的解析研究方法：
 
 1. **平均场理论**：
-   - 基本方程：$`m = \tanh(\beta J z m + \beta h)`$
+   - 基本方程：$m = \tanh(\beta J z m + \beta h)$
    - 适用于高维或长程相互作用系统
-   - 临界指数：$`\beta=1/2`$, $`\gamma=1`$, $`\nu=1/2`$
+   - 临界指数：$\beta=1/2$, $\gamma=1$, $\nu=1/2$
 
 2. **ε-展开**：
-   - 基于 $`d = 4-\epsilon`$ 的微扰展开
+   - 基于 $d = 4-\epsilon$ 的微扰展开
    - 可计算任意维度下的临界指数
-   - 形式：$`\gamma = 1 + \frac{\epsilon}{6} + \frac{\epsilon^2}{36} + O(\epsilon^3)`$
+   - 形式：$\gamma = 1 + \frac{\epsilon}{6} + \frac{\epsilon^2}{36} + O(\epsilon^3)$
 
 3. **重整化群方程**：
-   - 递推关系：$`K' = R(K)`$
-   - 固定点分析：$`K^* = R(K^*)`$
+   - 递推关系：$K' = R(K)$
+   - 固定点分析：$K^* = R(K^*)$
    - 可求解精确临界指数和标度函数
 
 4. **大N展开**：
-   - 基于场论中的 $`1/N`$ 展开
+   - 基于场论中的 $1/N$ 展开
    - 适用于多组分系统
    - 可计算量子-经典交叉区域的行为
 
@@ -473,12 +473,12 @@ $$\lambda_c^{(i+1)} = f(\lambda^{(i)})$$
 
 1. **消息传递算法**：
    - 用于稀疏网络上的相变研究
-   - 核心方程：$`m_i \to j = f(\{m_k \to i\}_{k \neq j})`$
+   - 核心方程：$m_i \to j = f(\{m_k \to i\}_{k \neq j})$
    - 可精确处理无环网络的相变
 
 2. **渗流理论方法**：
    - 研究网络连通性相变
-   - 临界点：$`p_c`$ 取决于网络拓扑
+   - 临界点：$p_c$ 取决于网络拓扑
    - 网络上的临界指数与平均场值一致
 
 3. **谱方法**：

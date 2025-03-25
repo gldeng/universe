@@ -17,10 +17,10 @@
 $$\mathcal{I} = \{\mathcal{I}_Q, \mathcal{I}_C, \mathcal{F}_{Q\rightarrow C}, \mathcal{F}_{C\rightarrow Q}\}$$
 
 其中：
-- $`\mathcal{I}_Q`$ 是量子信息态，表示叠加和纠缠形式的信息
-- $`\mathcal{I}_C`$ 是经典信息态，表示确定性和局域形式的信息
-- $`\mathcal{F}_{Q\rightarrow C}`$ 是量子→经典信息转换函数集
-- $`\mathcal{F}_{C\rightarrow Q}`$ 是经典→量子信息转换函数集
+- $\mathcal{I}_Q$ 是量子信息态，表示叠加和纠缠形式的信息
+- $\mathcal{I}_C$ 是经典信息态，表示确定性和局域形式的信息
+- $\mathcal{F}_{Q\rightarrow C}$ 是量子→经典信息转换函数集
+- $\mathcal{F}_{C\rightarrow Q}$ 是经典→量子信息转换函数集
 
 ### 核心公理
 
@@ -29,28 +29,28 @@ $$\mathcal{I} = \{\mathcal{I}_Q, \mathcal{I}_C, \mathcal{F}_{Q\rightarrow C}, \m
 
 $$I_{总}(t) = I_Q(t) + I_C(t) + I_{界面}(t) = \text{常数}$$
 
-其中 $`I_Q`$ 是量子信息量，$`I_C`$ 是经典信息量，$`I_{界面}`$ 是界面中的信息量。
+其中 $I_Q$ 是量子信息量，$I_C$ 是经典信息量，$I_{界面}$ 是界面中的信息量。
 
 **公理2: 信息转换率原理**  
 信息在量子与经典域之间的转换率受到基本极限约束：
 
 $$\frac{dI_{Q\rightarrow C}}{dt} \leq \kappa \cdot \frac{E \cdot \Delta t}{\hbar}$$
 
-其中 $`\kappa`$ 是比例常数，$`E`$ 是系统能量，$`\Delta t`$ 是转换时间，$`\hbar`$ 是约化普朗克常数。
+其中 $\kappa$ 是比例常数，$E$ 是系统能量，$\Delta t$ 是转换时间，$\hbar$ 是约化普朗克常数。
 
 **公理3: 信息结构层级原理**  
 信息组织成层级结构，每一层级有特定的信息密度和复杂度：
 
 $$\mathcal{I}^{(n)} = \mathcal{S}_n(\mathcal{I}^{(n-1)})$$
 
-其中 $`\mathcal{S}_n`$ 是第n层级的结构化函数。
+其中 $\mathcal{S}_n$ 是第n层级的结构化函数。
 
 **公理4: 信息熵增与负熵产生平衡**  
 自然状态下信息熵增与负熵产生维持动态平衡：
 
 $$\frac{dS_I}{dt} = \frac{dS_{增}}{dt} - \frac{dS_{减}}{dt}$$
 
-其中 $`S_I`$ 是信息熵，$`S_{增}`$ 是熵增项，$`S_{减}`$ 是熵减项(负熵产生)。
+其中 $S_I$ 是信息熵，$S_{增}$ 是熵增项，$S_{减}$ 是熵减项(负熵产生)。
 
 ## 理论核心内容
 
@@ -61,9 +61,9 @@ $$\frac{dS_I}{dt} = \frac{dS_{增}}{dt} - \frac{dS_{减}}{dt}$$
 $$\frac{d\mathcal{I}}{dt} = \mathcal{L}(\mathcal{I}) + \mathcal{D}(\mathcal{I}) + \mathcal{S}(\mathcal{I})$$
 
 其中：
-- $`\mathcal{L}`$ 是信息演化线性算符
-- $`\mathcal{D}`$ 是信息扩散算符
-- $`\mathcal{S}`$ 是信息源项
+- $\mathcal{L}$ 是信息演化线性算符
+- $\mathcal{D}$ 是信息扩散算符
+- $\mathcal{S}$ 是信息源项
 
 量子信息态的演化满足信息版本的薛定谔方程：
 
@@ -79,7 +79,7 @@ $$\frac{\partial\mathcal{I}_C}{\partial t} = D_I\nabla^2\mathcal{I}_C + R(\mathc
 
 $$\mathcal{I}(x,t) = \sum_i \phi_i(x,t)\mathcal{I}_i$$
 
-其中 $`\phi_i(x,t)`$ 是信息场模式函数，$`\mathcal{I}_i`$ 是基本信息元。
+其中 $\phi_i(x,t)$ 是信息场模式函数，$\mathcal{I}_i$ 是基本信息元。
 
 信息场作用量：
 
@@ -89,7 +89,7 @@ $$S[\mathcal{I}] = \int d^4x \sqrt{-g} \left[\frac{1}{2}g^{\mu\nu}\partial_\mu\m
 
 $$\Box \mathcal{I} - \frac{\partial V}{\partial \mathcal{I}} = J$$
 
-其中 $`J`$ 是信息源。
+其中 $J$ 是信息源。
 
 ### 信息转换动力学
 
@@ -115,19 +115,19 @@ $$\frac{dI_{转换}}{dt} \propto D_{\mathcal{O}} \cdot E \cdot \frac{1-e^{-\frac
 
 $$G_I = (V_I, E_I, W_I)$$
 
-其中 $`V_I`$ 是信息节点集，$`E_I`$ 是信息流路径集，$`W_I`$ 是信息流权重集。
+其中 $V_I$ 是信息节点集，$E_I$ 是信息流路径集，$W_I$ 是信息流权重集。
 
 信息流守恒律：
 
 $$\sum_{j\in \text{入}} F_{ji} = \sum_{k\in \text{出}} F_{ik} + A_i$$
 
-其中 $`F_{ij}`$ 是从节点i到节点j的信息流，$`A_i`$ 是节点i的信息累积率。
+其中 $F_{ij}$ 是从节点i到节点j的信息流，$A_i$ 是节点i的信息累积率。
 
 最大信息流原理：信息流网络自组织以最大化总信息传输：
 
 $$\max \sum_{(i,j)\in E_I} F_{ij} \quad \text{s.t.} \quad F_{ij} \leq C_{ij}$$
 
-其中 $`C_{ij}`$ 是连接(i,j)的信息容量。
+其中 $C_{ij}$ 是连接(i,j)的信息容量。
 
 ## 信息在各域中的行为
 
@@ -151,7 +151,7 @@ $$\max \sum_{(i,j)\in E_I} F_{ij} \quad \text{s.t.} \quad F_{ij} \leq C_{ij}$$
 
 $$\frac{d\rho_I}{dt} = -\frac{i}{\hbar}[\hat{H}_I, \rho_I] + \mathcal{L}_D(\rho_I)$$
 
-其中 $`\mathcal{L}_D`$ 是描述解相干过程的林德布拉德超算符。
+其中 $\mathcal{L}_D$ 是描述解相干过程的林德布拉德超算符。
 
 ### 经典域信息动力学
 
@@ -179,16 +179,16 @@ $$\frac{\partial P(x,t)}{\partial t} = -\nabla \cdot (v(x,t)P(x,t)) + D\nabla^2 
 
 1. **界面信息状态**：量子与经典信息的混合态
    $$\mathcal{I}_{界面} = (\rho_I, P_I, \mathcal{R})$$
-   其中 $`\mathcal{R}`$ 是量子-经典关联映射。
+   其中 $\mathcal{R}$ 是量子-经典关联映射。
 
 2. **界面信息熵**：综合考虑量子和经典贡献
    $$S_{界面} = S(\rho_I) + H(P) - I_{QC}$$
-   其中 $`I_{QC}`$ 是量子-经典互信息。
+   其中 $I_{QC}$ 是量子-经典互信息。
 
 3. **界面信息转换**：量子信息映射为经典信息的过程
    $$\mathcal{M}: \mathcal{H} \rightarrow \mathcal{X}$$
    $$P(x) = \text{Tr}(\rho_I M_x)$$
-   其中 $`M_x`$ 是测量算符。
+   其中 $M_x$ 是测量算符。
 
 界面信息动力学方程：
 
@@ -202,7 +202,7 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 1. **信息相变条件**：
    $$\frac{\partial^2 F_I}{\partial \lambda^2}\bigg|_{\lambda=\lambda_c} = \infty$$
-   其中 $`F_I`$ 是信息自由能，$`\lambda`$ 是控制参数。
+   其中 $F_I$ 是信息自由能，$\lambda$ 是控制参数。
 
 2. **信息序参量**：描述信息系统有序度的量
    $$\varphi_I = \begin{cases}
@@ -223,7 +223,7 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 1. **线性信息扩散**：
    $$\frac{dI_i}{dt} = D_I \sum_j A_{ij}(I_j - I_i)$$
-   其中 $`A_{ij}`$ 是网络邻接矩阵。
+   其中 $A_{ij}$ 是网络邻接矩阵。
 
 2. **非线性信息扩散**：考虑信息吸引力和饱和效应
    $$\frac{dI_i}{dt} = D_I \sum_j A_{ij}(I_j - I_i) + f(I_i)(1-I_i) - g(I_i)I_i$$
@@ -233,7 +233,7 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 4. **信息传播阈值**：
    $$\lambda_c = \frac{1}{\Lambda_{max}(A)}$$
-   其中 $`\Lambda_{max}(A)`$ 是网络邻接矩阵的最大特征值。
+   其中 $\Lambda_{max}(A)$ 是网络邻接矩阵的最大特征值。
 
 ### 信息熵动力学
 
@@ -241,7 +241,7 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 1. **熵产生率**：
    $$\Pi_S = \sum_i J_i X_i \geq 0$$
-   其中 $`J_i`$ 是信息流，$`X_i`$ 是信息力。
+   其中 $J_i$ 是信息流，$X_i$ 是信息力。
 
 2. **最小熵产生原理**：非平衡稳态系统趋向最小熵产生状态
    $$\min \Pi_S \quad \text{s.t.} \quad \text{边界条件}$$
@@ -251,7 +251,7 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 4. **熵流平衡**：
    $$\frac{dS}{dt} = \Pi_S - \Phi_S$$
-   其中 $`\Phi_S`$ 是熵流出系统的速率。
+   其中 $\Phi_S$ 是熵流出系统的速率。
 
 ### 信息演化方程
 
@@ -259,15 +259,15 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 1. **信息选择动力学**：
    $$\frac{df_i}{dt} = f_i(I_i - \bar{I})$$
-   其中 $`f_i`$ 是信息类型i的频率，$`I_i`$ 是其信息价值，$`\bar{I}`$ 是平均信息价值。
+   其中 $f_i$ 是信息类型i的频率，$I_i$ 是其信息价值，$\bar{I}$ 是平均信息价值。
 
 2. **信息突变动力学**：
    $$\frac{dI_i}{dt} = \mu(\sum_j Q_{ij}I_j - I_i)$$
-   其中 $`\mu`$ 是突变率，$`Q_{ij}`$ 是转换概率。
+   其中 $\mu$ 是突变率，$Q_{ij}$ 是转换概率。
 
 3. **信息协同演化**：
    $$\frac{d\vec{I}}{dt} = A\vec{I} + B(\vec{I}\otimes\vec{I}) + C(\vec{I}\otimes\vec{I}\otimes\vec{I}) + ...$$
-   其中 $`\vec{I}`$ 是信息向量，$`\otimes`$ 表示张量积。
+   其中 $\vec{I}$ 是信息向量，$\otimes$ 表示张量积。
 
 ## 实验与验证
 
@@ -296,15 +296,15 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 1. **信息传输速率极限**：
    $$R_{max} = C_{量子} \approx \frac{P}{\hbar\omega}\log_2(1+\frac{n}{n_0})$$
-   其中 $`C_{量子}`$ 是量子信道容量，$`P`$ 是功率，$`n`$ 是平均光子数，$`n_0`$ 是噪声光子数。
+   其中 $C_{量子}$ 是量子信道容量，$P$ 是功率，$n$ 是平均光子数，$n_0$ 是噪声光子数。
 
 2. **信息相变临界点**：
    $$\lambda_c = \frac{1}{\Lambda_{max}(A)}(1+O(\frac{1}{N}))$$
-   其中 $`N`$ 是系统规模。
+   其中 $N$ 是系统规模。
 
 3. **信息熵流预测**：
    $$\Phi_S = k_B \cdot \frac{P}{T}$$
-   其中 $`P`$ 是功率，$`T`$ 是温度。
+   其中 $P$ 是功率，$T$ 是温度。
 
 ## 应用领域
 
@@ -320,35 +320,35 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 3. **量子信息动力学编程模型**：
    $$\mathcal{P} = \{I_{初始}, \mathcal{T}, \mathcal{R}, I_{终止}\}$$
-   其中 $`\mathcal{T}`$ 是转换规则集，$`\mathcal{R}`$ 是资源约束集。
+   其中 $\mathcal{T}$ 是转换规则集，$\mathcal{R}$ 是资源约束集。
 
 ### 复杂系统信息动力学
 
 1. **社会信息传播模型**：
    $$\frac{dI_i}{dt} = \alpha \sum_j A_{ij}f(I_j) - \beta I_i + \gamma \xi_i(t)$$
-   其中 $`\xi_i(t)`$ 是随机驱动项。
+   其中 $\xi_i(t)$ 是随机驱动项。
 
 2. **生物系统信息流模型**：
    $$\frac{dG_i}{dt} = \sum_j W_{ij}G_j + S_i - D_i G_i$$
-   其中 $`G_i`$ 是基因表达水平，$`W_{ij}`$ 是调控权重，$`S_i`$ 是合成率，$`D_i`$ 是降解率。
+   其中 $G_i$ 是基因表达水平，$W_{ij}$ 是调控权重，$S_i$ 是合成率，$D_i$ 是降解率。
 
 3. **经济信息动力学**：
    $$\frac{dP}{dt} = \alpha(I_D - I_S) + \beta\mathbb{E}[P] + \gamma\sigma$$
-   其中 $`I_D`$ 是需求信息，$`I_S`$ 是供应信息，$`\mathbb{E}[P]`$ 是预期价格，$`\sigma`$ 是市场波动。
+   其中 $I_D$ 是需求信息，$I_S$ 是供应信息，$\mathbb{E}[P]$ 是预期价格，$\sigma$ 是市场波动。
 
 ### 认知信息动力学
 
 1. **认知信息处理模型**：
    $$\frac{dC_i}{dt} = \sum_j W_{ij}A_j - \tau_i^{-1}C_i + I_{ext}$$
-   其中 $`C_i`$ 是概念激活度，$`A_j`$ 是感知输入，$`W_{ij}`$ 是概念连接权重，$`\tau_i`$ 是特征时间尺度。
+   其中 $C_i$ 是概念激活度，$A_j$ 是感知输入，$W_{ij}$ 是概念连接权重，$\tau_i$ 是特征时间尺度。
 
 2. **学习与记忆动力学**：
    $$\frac{dW_{ij}}{dt} = \eta C_i C_j - \gamma W_{ij}$$
-   其中 $`\eta`$ 是学习率，$`\gamma`$ 是遗忘率。
+   其中 $\eta$ 是学习率，$\gamma$ 是遗忘率。
 
 3. **决策信息动力学**：
    $$P(a|I) = \frac{e^{\beta U(a,I)}}{\sum_j e^{\beta U(a_j,I)}}$$
-   其中 $`U(a,I)`$ 是在信息I下选择行动a的效用，$`\beta`$ 是理性参数。
+   其中 $U(a,I)$ 是在信息I下选择行动a的效用，$\beta$ 是理性参数。
 
 ## 未来研究方向
 
@@ -362,9 +362,9 @@ $$\frac{d\mathcal{I}_{界面}}{dt} = \mathcal{L}_Q(\rho_I) + \mathcal{L}_C(P) + 
 
 ### 信息动力学数学框架
 
-- **算子代数**：$`\mathcal{A} = \{A_i | A_i A_j = \sum_k c_{ijk}A_k\}`$
-- **信息流形**：$`(M, g_{ij})`$，其中 $`g_{ij} = \mathbb{E}[\partial_i \log p \cdot \partial_j \log p]`$
-- **信息Lyapunov函数**：$`V(I) = D_{KL}(p||p^*)`$
+- **算子代数**：$\mathcal{A} = \{A_i | A_i A_j = \sum_k c_{ijk}A_k\}$
+- **信息流形**：$(M, g_{ij})$，其中 $g_{ij} = \mathbb{E}[\partial_i \log p \cdot \partial_j \log p]$
+- **信息Lyapunov函数**：$V(I) = D_{KL}(p||p^*)$
 - **信息随机过程**：马尔可夫过程、伊藤过程、主方程
 
 ### 信息动力学数值方法

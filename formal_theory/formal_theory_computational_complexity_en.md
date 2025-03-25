@@ -12,15 +12,15 @@ Quantum-Classical Computational Complexity Theory provides a dualistic perspecti
 
 ### Formal Dualistic Definition of Computational Complexity
 
-The computational process $`\mathcal{C}`$ can be formally defined in the quantum-classical framework as:
+The computational process $\mathcal{C}$ can be formally defined in the quantum-classical framework as:
 
 $$\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{T}_{Q \rightarrow C}, \mathcal{R})$$
 
 Where:
-- $`\mathcal{C}_Q`$ is the quantum domain component of computation (possibility space exploration)
-- $`\mathcal{C}_C`$ is the classical domain component of computation (deterministic step execution)
-- $`\mathcal{T}_{Q \rightarrow C}`$ is the quantum→classical transformation mapping
-- $`\mathcal{R}`$ is the computational resource measure (such as time, space)
+- $\mathcal{C}_Q$ is the quantum domain component of computation (possibility space exploration)
+- $\mathcal{C}_C$ is the classical domain component of computation (deterministic step execution)
+- $\mathcal{T}_{Q \rightarrow C}$ is the quantum→classical transformation mapping
+- $\mathcal{R}$ is the computational resource measure (such as time, space)
 
 ### Core Axioms of Computational Complexity
 
@@ -29,28 +29,28 @@ Computational processes simultaneously possess quantum exploration and classical
 
 $$\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C$$
 
-Where $`\diamond`$ represents the quantum-classical computational connection operation.
+Where $\diamond$ represents the quantum-classical computational connection operation.
 
 **Axiom 2: Solution Space Superposition Principle**  
 The potential solution space of a problem exists in a superposition state in the quantum domain:
 
 $$|\Psi_{sol}\rangle = \sum_i \alpha_i |s_i\rangle$$
 
-Where $`|s_i\rangle`$ are the basis states of possible solutions, and $`\alpha_i`$ are complex amplitudes.
+Where $|s_i\rangle$ are the basis states of possible solutions, and $\alpha_i$ are complex amplitudes.
 
 **Axiom 3: Computational Resource-Uncertainty Principle**  
 There exists a fundamental trade-off between computational resources and solution space uncertainty:
 
 $$\Delta R \cdot \Delta S \geq \frac{1}{2}|\langle[\hat{R},\hat{S}]\rangle|$$
 
-Where $`\hat{R}`$ is the resource operator and $`\hat{S}`$ is the solution space operator.
+Where $\hat{R}$ is the resource operator and $\hat{S}$ is the solution space operator.
 
 **Axiom 4: Complexity-Possibility Conservation**  
 There is a conservation relationship between complexity and possibility space in computational processes:
 
 $$K(\mathcal{C}_C) + I(\mathcal{C}_Q) = K_{total}$$
 
-Where $`K(\mathcal{C}_C)`$ is the classical computational complexity and $`I(\mathcal{C}_Q)`$ is the information content of the quantum solution space.
+Where $K(\mathcal{C}_C)$ is the classical computational complexity and $I(\mathcal{C}_Q)$ is the information content of the quantum solution space.
 
 ## Core Theory Content
 
@@ -60,13 +60,13 @@ The P vs NP problem can be reformulated as an efficiency problem of quantum→cl
 
 $$P \stackrel{?}{=} NP \iff \exists \mathcal{T}_{efficient}: \mathcal{C}_Q \rightarrow \mathcal{C}_C$$
 
-Where P=NP if and only if there exists an efficient quantum→classical transformation mechanism $`\mathcal{T}_{efficient}`$ that can efficiently collapse the superposition state of solutions in the quantum domain to a specific solution in the classical domain.
+Where P=NP if and only if there exists an efficient quantum→classical transformation mechanism $\mathcal{T}_{efficient}$ that can efficiently collapse the superposition state of solutions in the quantum domain to a specific solution in the classical domain.
 
 NP problems in the quantum domain can be formulated as:
 
 $$NP = \{L | \exists |\Psi_L\rangle: \mathcal{M}_L(|\Psi_L\rangle) = 1 \text{ in polynomial time}\}$$
 
-Where $`|\Psi_L\rangle`$ is the quantum state of the problem solution, and $`\mathcal{M}_L`$ is the verification measurement operator.
+Where $|\Psi_L\rangle$ is the quantum state of the problem solution, and $\mathcal{M}_L$ is the verification measurement operator.
 
 The quantum-classical dualistic interpretation of the P=NP problem indicates that the equivalence of the two complexity classes depends on whether there exists a "quantum-inspired classical algorithm" that can simulate the advantages of quantum parallel exploration while maintaining the efficiency of classical deterministic verification.
 
@@ -76,7 +76,7 @@ NP-complete problems can be interpreted as computational problems with maximum e
 
 $$|\Psi_{NPC}\rangle = \frac{1}{\sqrt{|S|}} \sum_{s \in S} |s\rangle$$
 
-Where all possible solutions $`s`$ have equal amplitudes, exhibiting maximum entanglement:
+Where all possible solutions $s$ have equal amplitudes, exhibiting maximum entanglement:
 
 $$E(|\Psi_{NPC}\rangle) = \log_2 |S|$$
 
@@ -84,7 +84,7 @@ The polynomial-time reduction between NP-complete problems corresponds to entang
 
 $$A \leq_P B \iff \exists U_{A \to B}: U_{A \to B}|\Psi_A\rangle = |\Psi_B\rangle, \text{ with } E(|\Psi_A\rangle) \leq E(|\Psi_B\rangle)$$
 
-Where $`U_{A \to B}`$ is an entanglement-preserving polynomial-time quantum transformation.
+Where $U_{A \to B}$ is an entanglement-preserving polynomial-time quantum transformation.
 
 ### Quantum Representation of Computational Reducibility
 
@@ -93,14 +93,14 @@ The computational reducibility from problem A to problem B can be represented as
 $$A \leq_T B \implies \exists \mathcal{T}_{A \to B}: |\Psi_A\rangle \to |\Psi_B\rangle$$
 
 Where reducibility types correspond to quantum transformation characteristics:
-- Polynomial-time reduction $`\leq_P`$: Quantum transformations achievable with polynomial gate complexity
-- Turing reduction $`\leq_T`$: Transformations implementable through arbitrary quantum circuits
+- Polynomial-time reduction $\leq_P$: Quantum transformations achievable with polynomial gate complexity
+- Turing reduction $\leq_T$: Transformations implementable through arbitrary quantum circuits
 
 The hierarchy of computational reducibility corresponds to the hierarchy of quantum entanglement structures:
 
 $$A <_T B \iff E_{\mathcal{T}}(|\Psi_A\rangle) < E_{\mathcal{T}}(|\Psi_B\rangle)$$
 
-Where $`E_{\mathcal{T}}`$ is the transformation entanglement measure.
+Where $E_{\mathcal{T}}$ is the transformation entanglement measure.
 
 ### Quantum-Classical Phase Transitions in Computational Complexity
 
@@ -112,13 +112,13 @@ $$\mathcal{C}_{phase}(T, \epsilon) = \begin{cases}
 \mathcal{C}_{NP}, & \text{if } T > T_c + \epsilon
 \end{cases}$$
 
-Where $`T`$ is the computational "temperature" (resource constraint parameter), $`T_c`$ is the critical temperature (phase transition point), and $`\epsilon`$ is the width of the phase transition region.
+Where $T$ is the computational "temperature" (resource constraint parameter), $T_c$ is the critical temperature (phase transition point), and $\epsilon$ is the width of the phase transition region.
 
 This phase transition manifests as changes in the quantum correlation structure of the solution space:
 
 $$\frac{d\mathcal{E}_{sol}}{dT} \to \infty \text{ as } T \to T_c$$
 
-Where $`\mathcal{E}_{sol}`$ is the entanglement measure of the solution space.
+Where $\mathcal{E}_{sol}$ is the entanglement measure of the solution space.
 
 ## Application Analysis
 
@@ -128,13 +128,13 @@ Randomized algorithms can be viewed as quantum-classical hybrid computational mo
 
 $$\mathcal{A}_{rand} = \mathcal{C}_\alpha(|\Psi_{rand}\rangle)$$
 
-Where $`|\Psi_{rand}\rangle`$ is the quantum representation of the random source, and $`\mathcal{C}_\alpha`$ is a partial classicalization operator that retains some quantum uncertainty.
+Where $|\Psi_{rand}\rangle$ is the quantum representation of the random source, and $\mathcal{C}_\alpha$ is a partial classicalization operator that retains some quantum uncertainty.
 
 The complexity relationship of randomized algorithms:
 
 $$\text{BPP} \subseteq \text{BQP} \iff \mathcal{C}_\alpha(|\Psi_{rand}\rangle) \subseteq \mathcal{C}_\beta(|\Psi_{quant}\rangle)$$
 
-Where $`\mathcal{C}_\alpha`$ and $`\mathcal{C}_\beta`$ are classicalization operators of different degrees, and $`|\Psi_{rand}\rangle`$ and $`|\Psi_{quant}\rangle`$ are the states of random and quantum computation respectively.
+Where $\mathcal{C}_\alpha$ and $\mathcal{C}_\beta$ are classicalization operators of different degrees, and $|\Psi_{rand}\rangle$ and $|\Psi_{quant}\rangle$ are the states of random and quantum computation respectively.
 
 ### Interface Theory of Quantum Computational Speedup
 
@@ -142,13 +142,13 @@ The speedup of quantum computation relative to classical computation can be expl
 
 $$S_{quantum} = \frac{T_C(n)}{T_Q(n)} = \frac{\mathcal{D}_C(\mathcal{I})}{\mathcal{D}_Q(\mathcal{I})}$$
 
-Where $`T_C(n)`$ and $`T_Q(n)`$ are the running times of classical and quantum algorithms respectively, and $`\mathcal{D}_C`$ and $`\mathcal{D}_Q`$ are the corresponding interface decoherence measures.
+Where $T_C(n)$ and $T_Q(n)$ are the running times of classical and quantum algorithms respectively, and $\mathcal{D}_C$ and $\mathcal{D}_Q$ are the corresponding interface decoherence measures.
 
 The upper bound of quantum speedup is related to the quantum-classical interface complexity of the problem:
 
 $$S_{quantum}(P) \leq 2^{\mathcal{C}_{I}(P)/2}$$
 
-Where $`\mathcal{C}_{I}(P)`$ is the interface complexity of problem P.
+Where $\mathcal{C}_{I}(P)$ is the interface complexity of problem P.
 
 ### Dualistic Perspective on NP-Intermediate Problems
 
@@ -156,13 +156,13 @@ The special nature of NP-intermediate problems (assuming P≠NP) can be explaine
 
 $$|\Psi_{NPI}\rangle = \sum_j \beta_j |C_j\rangle \otimes |\phi_j\rangle$$
 
-Where the solution space decomposes into a tensor product of partially classicalized components $`|C_j\rangle`$ and components that maintain quantum properties $`|\phi_j\rangle`$.
+Where the solution space decomposes into a tensor product of partially classicalized components $|C_j\rangle$ and components that maintain quantum properties $|\phi_j\rangle$.
 
 The unique complexity of NP-intermediate problems stems from their quantum-classical dual nature:
 
 $$K(NPI) = \alpha K_C + (1-\alpha) K_Q, \quad 0 < \alpha < 1$$
 
-Where $`\alpha`$ is the degree of classicalization, and $`K_C`$ and $`K_Q`$ are classical and quantum complexities respectively.
+Where $\alpha$ is the degree of classicalization, and $K_C$ and $K_Q$ are classical and quantum complexities respectively.
 
 ## Relationships with Other Theoretical Branches
 
@@ -172,13 +172,13 @@ The relationship between Quantum-Classical Computational Complexity Theory and q
 
 $$\mathcal{C}_{QC} \subset \mathcal{QC}$$
 
-Where $`\mathcal{QC}`$ is the quantum computing theory space.
+Where $\mathcal{QC}$ is the quantum computing theory space.
 
 The quantum computing class BQP can be interpreted as a quantum-classical balance state:
 
 $$\text{BQP} = \{L | \exists \mathcal{I}_L: \mathcal{D}(\mathcal{I}_L) = \mathcal{D}_c\}$$
 
-Where $`\mathcal{I}_L`$ is the quantum-classical interface of problem L, and $`\mathcal{D}(\mathcal{I}_L)`$ is the interface decoherence degree.
+Where $\mathcal{I}_L$ is the quantum-classical interface of problem L, and $\mathcal{D}(\mathcal{I}_L)$ is the interface decoherence degree.
 
 ### Connection to Quantum-Classical Mathematical Foundations
 
@@ -186,13 +186,13 @@ The connection between complexity theory and mathematical foundations:
 
 $$\mathcal{C}_{QC} \subset \mathcal{M}_{QC}$$
 
-Where $`\mathcal{M}_{QC}`$ is the quantum-classical mathematical foundations theory space.
+Where $\mathcal{M}_{QC}$ is the quantum-classical mathematical foundations theory space.
 
 The relationship between proof complexity and mathematical intuition-formalism transformation:
 
 $$P(\text{proof}) \propto \exp(-\Delta \mathcal{T}_{Q \rightarrow C})$$
 
-Where $`\Delta \mathcal{T}_{Q \rightarrow C}`$ is the transformation complexity from quantum mathematical intuition to classical formal proof.
+Where $\Delta \mathcal{T}_{Q \rightarrow C}$ is the transformation complexity from quantum mathematical intuition to classical formal proof.
 
 ### Connection to Information Phase Transition Theory
 
@@ -200,13 +200,13 @@ The connection between complexity phase transitions and information phase transi
 
 $$T_c^{comp} = f(T_c^{info})$$
 
-Where $`T_c^{comp}`$ is the computational complexity phase transition point, and $`T_c^{info}`$ is the information phase transition critical point.
+Where $T_c^{comp}$ is the computational complexity phase transition point, and $T_c^{info}$ is the information phase transition critical point.
 
 Critical behavior of complexity classes follows scaling laws:
 
 $$|K(n) - K_c| \propto |T - T_c|^{-\nu}$$
 
-Where $`\nu`$ is the critical exponent, and $`K_c`$ is the critical complexity.
+Where $\nu$ is the critical exponent, and $K_c$ is the critical complexity.
 
 ## Future Research Directions
 

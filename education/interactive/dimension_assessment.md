@@ -27,7 +27,7 @@ $$
 \text{观察者整体维度} = \sum_{i=1}^n w_i \times \text{领域维度}_i
 $$
 
-其中，$`w_i`$ 是各领域权重，$`\text{领域维度}_i`$ 是各领域的量化维度值。
+其中，$w_i$ 是各领域权重，$\text{领域维度}_i$ 是各领域的量化维度值。
 
 ## 评估原理
 
@@ -180,7 +180,7 @@ $$
 \text{Observer Overall Dimension} = \sum_{i=1}^n w_i \times \text{Domain Dimension}_i
 $$
 
-Where $`w_i`$ represents the weight of each domain, and $`\text{Domain Dimension}_i`$ is the quantified dimension value for each domain.
+Where $w_i$ represents the weight of each domain, and $\text{Domain Dimension}_i$ is the quantified dimension value for each domain.
 
 ## Assessment Principles
 

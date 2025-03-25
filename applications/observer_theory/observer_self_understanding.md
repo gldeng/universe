@@ -16,7 +16,7 @@ $$
 I_{\text{自我理解}} < I_{\text{自我实际信息}}
 $$
 
-其中，$`I_{\text{自我理解}}`$表示观察者能够经典化的关于自身的信息，$`I_{\text{自我实际信息}}`$表示观察者自身实际包含的全部信息。
+其中，$I_{\text{自我理解}}$表示观察者能够经典化的关于自身的信息，$I_{\text{自我实际信息}}$表示观察者自身实际包含的全部信息。
 
 ### 自我理解的哥德尔不完备性
 
@@ -182,7 +182,7 @@ $$
 I_{\text{Self-Understanding}} < I_{\text{Actual Self-Information}}
 $$
 
-Where $`I_{\text{Self-Understanding}}`$ represents the information about itself that the observer can classicalize, and $`I_{\text{Actual Self-Information}}`$ represents all the information actually contained within the observer.
+Where $I_{\text{Self-Understanding}}$ represents the information about itself that the observer can classicalize, and $I_{\text{Actual Self-Information}}$ represents all the information actually contained within the observer.
 
 ### Gödel's Incompleteness of Self-Understanding
 

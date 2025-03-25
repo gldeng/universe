@@ -257,7 +257,7 @@ $$
 C_D = k \cdot \log(D_{obs}) - \sum_{i=1}^{n} p_i \cdot \log(p_i)
 $$
 
-其中，$`C_D`$是命运约束度，$`D_{obs}`$是观察者维度，$`p_i`$是可能选择的概率，$`k`$是常数。
+其中，$C_D$是命运约束度，$D_{obs}$是观察者维度，$p_i$是可能选择的概率，$k$是常数。
 
 可视化为命运约束曲线：
 
@@ -285,7 +285,7 @@ $$
 F_W = \frac{N_{realized}}{N_{potential}} \cdot \frac{I_{choice}}{I_{total}}
 $$
 
-其中，$`F_W`$是自由意志度量，$`N_{realized}`$是实现的选择数，$`N_{potential}`$是潜在的选择数，$`I_{choice}`$是选择信息量，$`I_{total}`$是总信息量。
+其中，$F_W$是自由意志度量，$N_{realized}$是实现的选择数，$N_{potential}$是潜在的选择数，$I_{choice}$是选择信息量，$I_{total}$是总信息量。
 
 可视化为自由意志与信息选择关系：
 
@@ -561,7 +561,7 @@ $$
 C_D = k \cdot \log(D_{obs}) - \sum_{i=1}^{n} p_i \cdot \log(p_i)
 $$
 
-Where $`C_D`$ is the degree of destiny constraint, $`D_{obs}`$ is observer dimension, $`p_i`$ is the probability of possible choices, and $`k`$ is a constant.
+Where $C_D$ is the degree of destiny constraint, $D_{obs}$ is observer dimension, $p_i$ is the probability of possible choices, and $k$ is a constant.
 
 Visualized as a destiny constraint curve:
 
@@ -589,7 +589,7 @@ $$
 F_W = \frac{N_{realized}}{N_{potential}} \cdot \frac{I_{choice}}{I_{total}}
 $$
 
-Where $`F_W`$ is the free will measure, $`N_{realized}`$ is the number of realized choices, $`N_{potential}`$ is the number of potential choices, $`I_{choice}`$ is the information content of the choice, and $`I_{total}`$ is the total information content.
+Where $F_W$ is the free will measure, $N_{realized}$ is the number of realized choices, $N_{potential}$ is the number of potential choices, $I_{choice}$ is the information content of the choice, and $I_{total}$ is the total information content.
 
 Visualized as the relationship between free will and information choice:
 

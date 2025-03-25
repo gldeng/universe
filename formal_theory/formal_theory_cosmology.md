@@ -26,11 +26,11 @@
 
 $$\Psi_{\text{宇宙}} = \sum_{i} \alpha_i |\Omega_i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
-其中 $`|\Omega_i\rangle`$ 表示可能的宇宙配置，包括不同的物理常数、维度和拓扑结构。这个初始状态具有最大量子熵：
+其中 $|\Omega_i\rangle$ 表示可能的宇宙配置，包括不同的物理常数、维度和拓扑结构。这个初始状态具有最大量子熵：
 
 $$S_Q(\Psi_{\text{宇宙}}) = k_B \ln(N_{eff})$$
 
-其中 $`N_{eff}`$ 是有效希尔伯特空间维度，可以是无限的。
+其中 $N_{eff}$ 是有效希尔伯特空间维度，可以是无限的。
 
 ### 大爆炸作为经典化事件
 
@@ -49,7 +49,7 @@ $$\Psi_{\text{宇宙}} \xrightarrow{\mathcal{C}_{宇宙}} |\Omega_0\rangle\langl
 
 $$S_C = S_Q - I_{\text{mutual}}(\Omega_0, \Psi_{\text{残余}})$$
 
-其中 $`I_{\text{mutual}}`$ 是在经典化过程中保持的互信息。
+其中 $I_{\text{mutual}}$ 是在经典化过程中保持的互信息。
 
 ## 宇宙膨胀动力学
 
@@ -59,7 +59,7 @@ $$S_C = S_Q - I_{\text{mutual}}(\Omega_0, \Psi_{\text{残余}})$$
 
 $$H(t) = \frac{\dot{a}}{a} = \eta \cdot \frac{dI_C}{dt}$$
 
-其中 $`\eta`$ 是比例常数，$`I_C`$ 是宇宙中的经典信息总量。这导致修正的弗里德曼方程：
+其中 $\eta$ 是比例常数，$I_C$ 是宇宙中的经典信息总量。这导致修正的弗里德曼方程：
 
 $$H^2 = \frac{8\pi G}{3}\rho + \frac{\Lambda}{3} + \frac{\kappa}{a^2} + \frac{\gamma}{a^4}\frac{dS_Q}{dt}$$
 
@@ -88,7 +88,7 @@ $$H^2 = \frac{8\pi G}{3}\rho + \frac{\Lambda}{3} + \frac{\kappa}{a^2} + \frac{\g
 
 $$\rho_{DM} = \rho_0 \cdot \left(1 - \frac{\mathcal{D}}{\mathcal{D}_c}\right)^2$$
 
-其中 $`\mathcal{D}`$ 是解相干度量，$`\mathcal{D}_c`$ 是完全经典化的临界值。这导致暗物质具有以下特性：
+其中 $\mathcal{D}$ 是解相干度量，$\mathcal{D}_c$ 是完全经典化的临界值。这导致暗物质具有以下特性：
 
 1. 只与引力相互作用（因为普通相互作用需要完全经典化）
 2. 无法直接探测（因为它存在于量子-经典界面）
@@ -98,7 +98,7 @@ $$\rho_{DM} = \rho_0 \cdot \left(1 - \frac{\mathcal{D}}{\mathcal{D}_c}\right)^2$
 
 $$\Omega_{DM}(a) = \Omega_{DM,0} \cdot a^{-3} \cdot \left(1 + \beta \ln a\right)$$
 
-其中 $`\beta`$ 是量子-经典转换率，可以通过观测验证。
+其中 $\beta$ 是量子-经典转换率，可以通过观测验证。
 
 ### 暗能量作为界面张力
 
@@ -106,13 +106,13 @@ $$\Omega_{DM}(a) = \Omega_{DM,0} \cdot a^{-3} \cdot \left(1 + \beta \ln a\right)
 
 $$\rho_{\Lambda} = \sigma_{\mathcal{I}} \cdot \frac{A_{\mathcal{I}}}{V_{\text{宇宙}}}$$
 
-其中 $`\sigma_{\mathcal{I}}`$ 是界面张力，$`A_{\mathcal{I}}`$ 是界面总面积。随着宇宙膨胀，界面面积与体积比率趋于常数，导致暗能量密度保持不变。
+其中 $\sigma_{\mathcal{I}}$ 是界面张力，$A_{\mathcal{I}}$ 是界面总面积。随着宇宙膨胀，界面面积与体积比率趋于常数，导致暗能量密度保持不变。
 
 界面张力源于量子-经典转换的能量成本：
 
 $$\sigma_{\mathcal{I}} = \frac{E_P}{l_P^2} \cdot e^{-\alpha \cdot \mathcal{D}_c}$$
 
-其中 $`E_P`$ 和 $`l_P`$ 是普朗克能量和长度，$`\alpha`$ 是与具体宇宙态相关的常数。
+其中 $E_P$ 和 $l_P$ 是普朗克能量和长度，$\alpha$ 是与具体宇宙态相关的常数。
 
 从第一原理计算的界面张力值与观测到的暗能量密度高度一致：
 
@@ -126,11 +126,11 @@ $$\rho_{\Lambda, \text{预测}} \approx (2.3 \pm 0.5) \times 10^{-123} M_P^4$$
 
 $$\delta\rho(\vec{x}, t) = \rho_0(\vec{x}, t) \cdot \delta\mathcal{D}(\vec{x}, t)$$
 
-其中 $`\delta\mathcal{D}`$ 是解相干度量的空间变化。界面涨落的功率谱为：
+其中 $\delta\mathcal{D}$ 是解相干度量的空间变化。界面涨落的功率谱为：
 
 $$P_{\delta\mathcal{D}}(k) = \frac{A_s}{k^3} \left(\frac{k}{k_0}\right)^{n_s-1}$$
 
-其中 $`n_s`$ 是谱指数，由界面动力学决定，理论预测 $`n_s \approx 0.968`$，与观测值非常接近。
+其中 $n_s$ 是谱指数，由界面动力学决定，理论预测 $n_s \approx 0.968$，与观测值非常接近。
 
 ### 分层结构形成
 
@@ -138,13 +138,13 @@ $$P_{\delta\mathcal{D}}(k) = \frac{A_s}{k^3} \left(\frac{k}{k_0}\right)^{n_s-1}$
 
 $$\mathcal{H}_i = \left\{ \mathcal{S}_j | \frac{\mathcal{D}(\mathcal{S}_j)}{\mathcal{D}_c} \in [d_i, d_{i+1}] \right\}$$
 
-其中 $`\mathcal{H}_i`$ 是第i层结构集合，$`\mathcal{S}_j`$ 是宇宙子结构，$`d_i`$ 是解相干阈值。
+其中 $\mathcal{H}_i$ 是第i层结构集合，$\mathcal{S}_j$ 是宇宙子结构，$d_i$ 是解相干阈值。
 
 这导致宇宙大尺度结构呈现分形特性，跨越多个尺度：
 
 $$\mathcal{D}(\mathcal{F}(s \cdot L)) = s^{D_f} \cdot \mathcal{D}(\mathcal{F}(L))$$
 
-其中 $`D_f`$ 是分形维度，预测值为 $`D_f \approx 2.1 \pm 0.2`$，与观测到的宇宙网结构一致。
+其中 $D_f$ 是分形维度，预测值为 $D_f \approx 2.1 \pm 0.2$，与观测到的宇宙网结构一致。
 
 ## 多重宇宙与量子层级
 

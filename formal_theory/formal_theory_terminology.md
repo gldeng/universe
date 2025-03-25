@@ -8,37 +8,37 @@
 
 | 术语(中文) | Term(English) | 符号表示 | 定义 | 相关理论文件 |
 |------------|---------------|----------|------|--------------|
-| 量子域 | Quantum Domain | $`\Omega_Q`$ | 无限可能性的空间，包含波函数叠加态和量子纠缠态 | [core.md](../core.md), [formal_theory.md](../formal_theory_core.md) |
-| 经典域 | Classical Domain | $`\Omega_C`$ | 确定现实的空间，包含经典知识和经典熵 | [core.md](../core.md), [formal_theory.md](../formal_theory_core.md) |
-| 界面域 | Interface Domain | $`\mathcal{I}`$ | 量子域与经典域的交集，量子-经典转换发生的边界 | [formal_theory_interface.md](formal_theory_interface.md) |
-| 经典化 | Classicalization | $`\mathcal{C}`$ | 量子→经典转换过程，将量子可能性转化为经典确定性 | [formal_theory.md](../formal_theory_core.md) |
-| 量子化 | Quantization | $`\mathcal{Q}`$ | 经典→量子转换过程，将经典确定性转化为量子可能性 | [formal_theory.md](../formal_theory_core.md) |
-| 观察者 | Observer | $`\mathcal{O}`$ | 执行量子→经典转换的节点，由经典化算符、量子化算符和经典知识库构成 | [formal_theory_observer.md](formal_theory_observer.md) |
-| 观察者维度 | Observer Dimension | $`D_{\mathcal{O}}`$ | 观察者的信息处理能力，由经典知识与经典熵比率决定 | [core.md](../core.md), [formal_theory_observer.md](formal_theory_observer.md) |
-| 非平衡度 | Nonequilibrium Degree | $`D_{NEQ}`$ | 系统远离平衡态的程度，由状态变化率决定 | [formal_theory_nonequilibrium.md](formal_theory_nonequilibrium.md) |
-| 计算复杂度 | Computational Complexity | $`\mathcal{K}(\Psi)`$ | 计算过程所需资源的度量，包括量子、经典和转换复杂度 | [formal_theory_computation.md](formal_theory_computation.md) |
-| 量子纠缠 | Quantum Entanglement | $`E(|\psi_{AB}\rangle)`$ | 量子系统间的非局域关联，无法用局域状态完全描述 | [core.md](../core.md), [formal_theory_quantum_domain.md](formal_theory_quantum_domain.md) |
-| 经典知识 | Classical Knowledge | $`K_C`$ | 经典域中的确定信息结构，观察者通过经典化获得 | [core.md](../core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
-| 经典熵 | Classical Entropy | $`S_C`$ | 经典域中的不确定性量度，表征系统无序程度 | [core.md](../core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
-| 界面厚度 | Interface Thickness | $`\delta_{\mathcal{I}}`$ | 量子-经典转换过程的空间范围 | [formal_theory_interface.md](formal_theory_interface.md) |
-| 经典化效率 | Classicalization Efficiency | $`\eta_C`$ | 量子信息转化为经典知识的效率 | [core.md](../core.md), [formal_theory_interface.md](formal_theory_interface.md) |
-| 创造性度量 | Creativity Measure | $`\mathcal{CR}(\Psi)`$ | 计算系统输出信息与可推导信息之差 | [formal_theory_computation.md](formal_theory_computation.md) |
+| 量子域 | Quantum Domain | $\Omega_Q$ | 无限可能性的空间，包含波函数叠加态和量子纠缠态 | [core.md](../core.md), [formal_theory.md](../formal_theory_core.md) |
+| 经典域 | Classical Domain | $\Omega_C$ | 确定现实的空间，包含经典知识和经典熵 | [core.md](../core.md), [formal_theory.md](../formal_theory_core.md) |
+| 界面域 | Interface Domain | $\mathcal{I}$ | 量子域与经典域的交集，量子-经典转换发生的边界 | [formal_theory_interface.md](formal_theory_interface.md) |
+| 经典化 | Classicalization | $\mathcal{C}$ | 量子→经典转换过程，将量子可能性转化为经典确定性 | [formal_theory.md](../formal_theory_core.md) |
+| 量子化 | Quantization | $\mathcal{Q}$ | 经典→量子转换过程，将经典确定性转化为量子可能性 | [formal_theory.md](../formal_theory_core.md) |
+| 观察者 | Observer | $\mathcal{O}$ | 执行量子→经典转换的节点，由经典化算符、量子化算符和经典知识库构成 | [formal_theory_observer.md](formal_theory_observer.md) |
+| 观察者维度 | Observer Dimension | $D_{\mathcal{O}}$ | 观察者的信息处理能力，由经典知识与经典熵比率决定 | [core.md](../core.md), [formal_theory_observer.md](formal_theory_observer.md) |
+| 非平衡度 | Nonequilibrium Degree | $D_{NEQ}$ | 系统远离平衡态的程度，由状态变化率决定 | [formal_theory_nonequilibrium.md](formal_theory_nonequilibrium.md) |
+| 计算复杂度 | Computational Complexity | $\mathcal{K}(\Psi)$ | 计算过程所需资源的度量，包括量子、经典和转换复杂度 | [formal_theory_computation.md](formal_theory_computation.md) |
+| 量子纠缠 | Quantum Entanglement | $E(|\psi_{AB}\rangle)$ | 量子系统间的非局域关联，无法用局域状态完全描述 | [core.md](../core.md), [formal_theory_quantum_domain.md](formal_theory_quantum_domain.md) |
+| 经典知识 | Classical Knowledge | $K_C$ | 经典域中的确定信息结构，观察者通过经典化获得 | [core.md](../core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
+| 经典熵 | Classical Entropy | $S_C$ | 经典域中的不确定性量度，表征系统无序程度 | [core.md](../core.md), [formal_theory_classical_domain.md](formal_theory_classical_domain.md) |
+| 界面厚度 | Interface Thickness | $\delta_{\mathcal{I}}$ | 量子-经典转换过程的空间范围 | [formal_theory_interface.md](formal_theory_interface.md) |
+| 经典化效率 | Classicalization Efficiency | $\eta_C$ | 量子信息转化为经典知识的效率 | [core.md](../core.md), [formal_theory_interface.md](formal_theory_interface.md) |
+| 创造性度量 | Creativity Measure | $\mathcal{CR}(\Psi)$ | 计算系统输出信息与可推导信息之差 | [formal_theory_computation.md](formal_theory_computation.md) |
 
 ## 数学符号约定
 
 | 符号类型 | 表示法 | 含义 | 示例 |
 |----------|--------|------|------|
-| 希尔伯特空间 | $`\mathcal{H}`$ | 量子态空间 | $`\mathcal{H}_Q`$, $`\mathcal{H}(Q \times \Sigma)`$ |
-| 密度矩阵 | $`\rho`$ | 量子态统计描述 | $`\rho_Q`$, $`\rho_{total}`$ |
-| 算符 | 花体字母 | 作用于态的函数 | $`\mathcal{C}`$, $`\mathcal{Q}`$ |
-| 超算符 | 花体字母 | 作用于算符的函数 | $`\mathcal{L}_{QC}`$ |
-| 集合 | 大括号 | 元素集合 | $`\{x_i\}`$, $`\Psi_{NEQ} = \{\rho_Q, K_C, \Phi_E, \Phi_I\}`$ |
-| 向量 | 箭头或粗体 | 矢量量 | $`\vec{T}`$, $`\Phi_E`$, $`\Phi_I`$ |
-| 维度 | $`D`$ | 观察者或系统维度 | $`D_{\mathcal{O}}`$, $`D_{min}`$ |
-| 复杂度 | $`\mathcal{K}`$ | 计算复杂度 | $`\mathcal{K}_Q`$, $`\mathcal{K}_C`$, $`\mathcal{K}_{QC}`$ |
-| 效率 | $`\eta`$ | 转换或计算效率 | $`\eta_C`$, $`\eta_{Q\rightarrow C}`$ |
-| 熵 | $`S`$ | 信息熵 | $`S_C`$, $`S_{VN}`$ |
-| 概率 | $`P`$ | 概率测度或分布 | $`P(x)`$, $`P(path_i)`$ |
+| 希尔伯特空间 | $\mathcal{H}$ | 量子态空间 | $\mathcal{H}_Q$, $\mathcal{H}(Q \times \Sigma)$ |
+| 密度矩阵 | $\rho$ | 量子态统计描述 | $\rho_Q$, $\rho_{total}$ |
+| 算符 | 花体字母 | 作用于态的函数 | $\mathcal{C}$, $\mathcal{Q}$ |
+| 超算符 | 花体字母 | 作用于算符的函数 | $\mathcal{L}_{QC}$ |
+| 集合 | 大括号 | 元素集合 | $\{x_i\}$, $\Psi_{NEQ} = \{\rho_Q, K_C, \Phi_E, \Phi_I\}$ |
+| 向量 | 箭头或粗体 | 矢量量 | $\vec{T}$, $\Phi_E$, $\Phi_I$ |
+| 维度 | $D$ | 观察者或系统维度 | $D_{\mathcal{O}}$, $D_{min}$ |
+| 复杂度 | $\mathcal{K}$ | 计算复杂度 | $\mathcal{K}_Q$, $\mathcal{K}_C$, $\mathcal{K}_{QC}$ |
+| 效率 | $\eta$ | 转换或计算效率 | $\eta_C$, $\eta_{Q\rightarrow C}$ |
+| 熵 | $S$ | 信息熵 | $S_C$, $S_{VN}$ |
+| 概率 | $P$ | 概率测度或分布 | $P(x)$, $P(path_i)$ |
 
 ## 跨领域术语对照
 

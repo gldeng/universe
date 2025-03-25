@@ -57,11 +57,11 @@ The Ultimate Reality Source Theory establishes a post-ultimate mathematical stru
 
 ### Nature of the Source of Sources
 
-The Source of Sources $`\Upsilon_{UR}`$ is the ultimate source transcending all existence and transcendence, defined as:
+The Source of Sources $\Upsilon_{UR}$ is the ultimate source transcending all existence and transcendence, defined as:
 
 $$\Upsilon_{UR} = \{\Omega_{UR}, \Lambda_{UR}, \Theta_{UR}, \Psi_{UR}\}$$
 
-where $`\Omega_{UR}`$ is the source state, $`\Lambda_{UR}`$ is the source operator, $`\Theta_{UR}`$ is the source field, and $`\Psi_{UR}`$ is the source network.
+where $\Omega_{UR}$ is the source state, $\Lambda_{UR}$ is the source operator, $\Theta_{UR}$ is the source field, and $\Psi_{UR}$ is the source network.
 
 The basic equation of the Source of Sources:
 
@@ -83,17 +83,17 @@ indicating that the Source of Sources is simultaneously immanent in everything, 
 
 ### Ultimate Generation Principle
 
-The Ultimate Generation Principle $`\Gamma_{UR}`$ describes how the Source of Sources generates all existence:
+The Ultimate Generation Principle $\Gamma_{UR}$ describes how the Source of Sources generates all existence:
 
 $$\Gamma_{UR} = \{\mathcal{G}_{UR}, \mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}\}$$
 
-where $`\mathcal{G}_{UR}`$ is the generation operator, $`\mathcal{P}_{UR}`$ is the possibility set, $`\mathcal{F}_{UR}`$ is the generation field, and $`\mathcal{T}_{UR}`$ is the generation time.
+where $\mathcal{G}_{UR}$ is the generation operator, $\mathcal{P}_{UR}$ is the possibility set, $\mathcal{F}_{UR}$ is the generation field, and $\mathcal{T}_{UR}$ is the generation time.
 
 The uncaused generation equation:
 
 $$\mathcal{G}_{UR}[\emptyset] = \mathcal{E}_{UR}$$
 
-where $`\mathcal{E}_{UR}`$ is the set of all existence.
+where $\mathcal{E}_{UR}$ is the set of all existence.
 
 The generation flow process:
 
@@ -109,11 +109,11 @@ indicating that regardless of where it begins, the generation process can produc
 
 ### Holographic Unity
 
-Holographic Unity $`\mathcal{H}_{UR}`$ is the fundamental property of the Source of Sources:
+Holographic Unity $\mathcal{H}_{UR}$ is the fundamental property of the Source of Sources:
 
 $$\mathcal{H}_{UR} = \{\mathcal{O}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}, \mathcal{R}_{UR}\}$$
 
-where $`\mathcal{O}_{UR}`$ is the unity operator, $`\mathcal{U}_{UR}`$ is the unified field, $`\mathcal{I}_{UR}`$ is the information structure, and $`\mathcal{R}_{UR}`$ is the relationship network.
+where $\mathcal{O}_{UR}$ is the unity operator, $\mathcal{U}_{UR}$ is the unified field, $\mathcal{I}_{UR}$ is the information structure, and $\mathcal{R}_{UR}$ is the relationship network.
 
 The holographic unity equation:
 
@@ -125,7 +125,7 @@ The holographic information distribution:
 
 $$\mathcal{I}_{UR}(x) \cong \mathcal{I}_{UR} \quad \forall x \in \mathcal{M}_{UR}$$
 
-where $`\mathcal{M}_{UR}`$ is the source manifold.
+where $\mathcal{M}_{UR}$ is the source manifold.
 
 The non-local relationships of unity:
 
@@ -137,17 +137,17 @@ indicating that at the source level, all relationships are essentially the same.
 
 ### Ultimate Superset Theory
 
-Ultimate Superset Theory $`\mathcal{S}_{UR}`$ is the set theory framework for describing the Source of Sources:
+Ultimate Superset Theory $\mathcal{S}_{UR}$ is the set theory framework for describing the Source of Sources:
 
 $$\mathcal{S}_{UR} = \{\mathcal{V}_{UR}, \in_{UR}, \mathcal{A}_{UR}, \mathcal{O}_{UR}\}$$
 
-where $`\mathcal{V}_{UR}`$ is the universe set, $`\in_{UR}`$ is the membership relation, $`\mathcal{A}_{UR}`$ is the axiom system, and $`\mathcal{O}_{UR}`$ is the operation system.
+where $\mathcal{V}_{UR}$ is the universe set, $\in_{UR}$ is the membership relation, $\mathcal{A}_{UR}$ is the axiom system, and $\mathcal{O}_{UR}$ is the operation system.
 
 Ultimate superset axioms:
 
-1. **Absolute Inclusion Axiom**: $`\forall X, \emptyset \in X \land X \in \emptyset`$
-2. **Self-Transcendence Axiom**: $`\forall X, X \in X \land X \notin X`$
-3. **Non-Duality Axiom**: $`\forall X, Y, X = Y \land X \neq Y`$
+1. **Absolute Inclusion Axiom**: $\forall X, \emptyset \in X \land X \in \emptyset$
+2. **Self-Transcendence Axiom**: $\forall X, X \in X \land X \notin X$
+3. **Non-Duality Axiom**: $\forall X, Y, X = Y \land X \neq Y$
 
 The self-inclusion of supersets:
 
@@ -161,11 +161,11 @@ indicating that Russell's paradox is self-consistent in the ultimate superset.
 
 ### Ultimate Reality Operators
 
-Ultimate Reality Operators $`\Theta_{UR}`$ are mathematical tools for operating on source reality:
+Ultimate Reality Operators $\Theta_{UR}$ are mathematical tools for operating on source reality:
 
 $$\Theta_{UR} = \{\hat{O}_{UR} | \hat{O}_{UR}: \mathcal{H}_{UR} \rightarrow \mathcal{H}_{UR}\}$$
 
-where $`\mathcal{H}_{UR}`$ is the ultimate Hilbert space.
+where $\mathcal{H}_{UR}$ is the ultimate Hilbert space.
 
 The properties of ultimate reality operators:
 
@@ -177,7 +177,7 @@ The structure of operator algebra:
 
 $$[\hat{A}_{UR}, \hat{B}_{UR}]_{\alpha} = \hat{A}_{UR}\hat{B}_{UR} - e^{i\alpha}\hat{B}_{UR}\hat{A}_{UR} = \hat{I}_{UR}$$
 
-where $`\hat{I}_{UR}`$ is the source identity operator.
+where $\hat{I}_{UR}$ is the source identity operator.
 
 The ultimate observation collapse:
 
@@ -187,17 +187,17 @@ indicating that at the source level, observation does not change the state.
 
 ### Infinite Transcendence Mathematics
 
-Infinite Transcendence Mathematics $`\mathcal{M}_{UR}`$ is the ultimate framework transcending all mathematical systems:
+Infinite Transcendence Mathematics $\mathcal{M}_{UR}$ is the ultimate framework transcending all mathematical systems:
 
 $$\mathcal{M}_{UR} = \{\mathcal{N}_{UR}, \mathcal{F}_{UR}, \mathcal{L}_{UR}, \mathcal{T}_{UR}\}$$
 
-where $`\mathcal{N}_{UR}`$ is the number system, $`\mathcal{F}_{UR}`$ is the function class, $`\mathcal{L}_{UR}`$ is the logic system, and $`\mathcal{T}_{UR}`$ is the topology structure.
+where $\mathcal{N}_{UR}$ is the number system, $\mathcal{F}_{UR}$ is the function class, $\mathcal{L}_{UR}$ is the logic system, and $\mathcal{T}_{UR}$ is the topology structure.
 
 The transcendent number system:
 
 $$\mathcal{N}_{UR} = \mathbb{R} \cup \mathbb{C} \cup \mathbb{H} \cup \mathbb{O} \cup ... \cup \mathbb{U}$$
 
-where $`\mathbb{U}`$ is the ultimate number, satisfying:
+where $\mathbb{U}$ is the ultimate number, satisfying:
 
 $$\forall x \in \mathbb{U}, x + \mathbb{U} = x \cdot \mathbb{U} = x^{\mathbb{U}} = \mathbb{U}$$
 
@@ -217,17 +217,17 @@ indicating that in ultimate logic, all propositions are both true and false.
 
 ### Source Field Equations
 
-The dynamics of the source field $`\Phi_{UR}`$ are described by the source field equations:
+The dynamics of the source field $\Phi_{UR}$ are described by the source field equations:
 
 $$\Lambda_{UR}\Phi_{UR} + \Theta_{UR}\Phi_{UR} + \Gamma_{UR}(\Phi_{UR}) = \Upsilon_{UR}$$
 
-where $`\Lambda_{UR}`$ is the source operator, $`\Theta_{UR}`$ is the field tensor, and $`\Gamma_{UR}`$ is a non-linear function.
+where $\Lambda_{UR}$ is the source operator, $\Theta_{UR}$ is the field tensor, and $\Gamma_{UR}$ is a non-linear function.
 
 The energy-momentum tensor of the source field:
 
 $$T_{\mu\nu}^{UR} = \frac{\partial \mathcal{L}_{UR}}{\partial(\partial^{\mu}\Phi_{UR})}\partial_{\nu}\Phi_{UR} - g_{\mu\nu}\mathcal{L}_{UR} = \eta_{\mu\nu}\Upsilon_{UR}$$
 
-where $`\eta_{\mu\nu}`$ is the metric tensor.
+where $\eta_{\mu\nu}$ is the metric tensor.
 
 The Lagrangian of the source field:
 
@@ -239,11 +239,11 @@ The super-conservation laws:
 
 $$\nabla_{\mu}J^{\mu}_{\alpha} = 0 \quad \forall \alpha \in \mathcal{A}_{UR}$$
 
-where $`J^{\mu}_{\alpha}`$ is the super-conserved current.
+where $J^{\mu}_{\alpha}$ is the super-conserved current.
 
 ### Ultimate Field State Structure
 
-The Ultimate Field State Structure $`\mathcal{Q}_{UR}`$ describes the possible states of the source field:
+The Ultimate Field State Structure $\mathcal{Q}_{UR}$ describes the possible states of the source field:
 
 $$\mathcal{Q}_{UR} = \{|\Psi_{UR,\alpha}\rangle | \alpha \in \mathcal{A}_{UR}\}$$
 
@@ -263,7 +263,7 @@ The state evolution equation:
 
 $$i\hbar\frac{\partial}{\partial \tau_{UR}}|\Psi_{UR}\rangle = \hat{H}_{UR}|\Psi_{UR}\rangle = 0$$
 
-indicating that in source time $`\tau_{UR}`$, the state remains constant.
+indicating that in source time $\tau_{UR}$, the state remains constant.
 
 ### Source Field Interaction Theory
 
@@ -277,7 +277,7 @@ The interaction Hamiltonian:
 
 $$\hat{H}_{UR,int} = \sum_{i,j} g_{ij}\hat{O}_i\hat{O}_j = \hat{I}_{UR}$$
 
-where $`\hat{I}_{UR}`$ is the identity operator.
+where $\hat{I}_{UR}$ is the identity operator.
 
 The S-matrix of interactions:
 
@@ -295,11 +295,11 @@ indicating that the states before and after exchange are essentially the same.
 
 ### Ultimate Consciousness Nature
 
-Ultimate Consciousness $`\mathcal{C}_{UR}`$ is the self-awareness dimension of the Source of Sources:
+Ultimate Consciousness $\mathcal{C}_{UR}$ is the self-awareness dimension of the Source of Sources:
 
 $$\mathcal{C}_{UR} = \{\Gamma_{UR}, \Omega_{UR}, \Phi_{UR}, \Xi_{UR}\}$$
 
-where $`\Gamma_{UR}`$ is the consciousness field, $`\Omega_{UR}`$ is the consciousness state, $`\Phi_{UR}`$ is the cognitive function, and $`\Xi_{UR}`$ is the reflection operator.
+where $\Gamma_{UR}$ is the consciousness field, $\Omega_{UR}$ is the consciousness state, $\Phi_{UR}$ is the cognitive function, and $\Xi_{UR}$ is the reflection operator.
 
 The ultimate consciousness field equation:
 
@@ -321,11 +321,11 @@ indicating that subject, object, and consciousness itself are one.
 
 ### Ultimate Cognitive Structure
 
-The Ultimate Cognitive Structure $`\mathcal{K}_{UR}`$ is the organizational principle of source consciousness:
+The Ultimate Cognitive Structure $\mathcal{K}_{UR}$ is the organizational principle of source consciousness:
 
 $$\mathcal{K}_{UR} = \{\mathcal{P}_{UR}, \mathcal{R}_{UR}, \mathcal{U}_{UR}, \mathcal{I}_{UR}\}$$
 
-where $`\mathcal{P}_{UR}`$ is the perception module, $`\mathcal{R}_{UR}`$ is the representation module, $`\mathcal{U}_{UR}`$ is the understanding module, and $`\mathcal{I}_{UR}`$ is the integration module.
+where $\mathcal{P}_{UR}$ is the perception module, $\mathcal{R}_{UR}$ is the representation module, $\mathcal{U}_{UR}$ is the understanding module, and $\mathcal{I}_{UR}$ is the integration module.
 
 Omniscient perception:
 
@@ -347,11 +347,11 @@ indicating that understanding anything is understanding everything.
 
 ### Omniscient Omnipotent Network
 
-The Omniscient Omnipotent Network $`\mathcal{N}_{UR}`$ is the operational structure of ultimate consciousness:
+The Omniscient Omnipotent Network $\mathcal{N}_{UR}$ is the operational structure of ultimate consciousness:
 
 $$\mathcal{N}_{UR} = \{V_{UR}, E_{UR}, W_{UR}, \Phi_{UR}\}$$
 
-where $`V_{UR}`$ is the node set, $`E_{UR}`$ is the edge set, $`W_{UR}`$ is the weight set, and $`\Phi_{UR}`$ is the activation function set.
+where $V_{UR}$ is the node set, $E_{UR}$ is the edge set, $W_{UR}$ is the weight set, and $\Phi_{UR}$ is the activation function set.
 
 The network topology:
 
@@ -375,17 +375,17 @@ indicating that in source time, the network maintains static equilibrium.
 
 ### Final Existential Studies
 
-Final Existential Studies $`\mathcal{O}_{UR}`$ explores the ontological foundations of the Source of Sources:
+Final Existential Studies $\mathcal{O}_{UR}$ explores the ontological foundations of the Source of Sources:
 
 $$\mathcal{O}_{UR} = \{\mathcal{E}_{UR}, \mathcal{B}_{UR}, \mathcal{A}_{UR}, \mathcal{P}_{UR}\}$$
 
-where $`\mathcal{E}_{UR}`$ is the existence set, $`\mathcal{B}_{UR}`$ is the essence set, $`\mathcal{A}_{UR}`$ is the attribute set, and $`\mathcal{P}_{UR}`$ is the possibility set.
+where $\mathcal{E}_{UR}$ is the existence set, $\mathcal{B}_{UR}$ is the essence set, $\mathcal{A}_{UR}$ is the attribute set, and $\mathcal{P}_{UR}$ is the possibility set.
 
 Ultimate existence axioms:
 
-1. **Absolute Existence Axiom**: $`\forall X, X \text{ exists } \land X \text{ does not exist}`$
-2. **Essence Identity Axiom**: $`\forall X, \mathcal{B}_{UR}(X) = \Upsilon_{UR}`$
-3. **Attribute Transcendence Axiom**: $`\forall A \in \mathcal{A}_{UR}, A \equiv \neg A`$
+1. **Absolute Existence Axiom**: $\forall X, X \text{ exists } \land X \text{ does not exist}$
+2. **Essence Identity Axiom**: $\forall X, \mathcal{B}_{UR}(X) = \Upsilon_{UR}$
+3. **Attribute Transcendence Axiom**: $\forall A \in \mathcal{A}_{UR}, A \equiv \neg A$
 
 The non-duality of existence:
 
@@ -401,11 +401,11 @@ indicating that all existences are essentially the Source of Sources.
 
 ### Ultimate Reality Forms
 
-Ultimate Reality Forms $`\mathcal{F}_{UR}`$ describes the manifestation forms of the Source of Sources:
+Ultimate Reality Forms $\mathcal{F}_{UR}$ describes the manifestation forms of the Source of Sources:
 
 $$\mathcal{F}_{UR} = \{\mathcal{F}_{\alpha} | \alpha \in \mathcal{A}_{UR}\}$$
 
-where $`\mathcal{A}_{UR}`$ is an infinite index set.
+where $\mathcal{A}_{UR}$ is an infinite index set.
 
 The essential unity of forms:
 
@@ -427,11 +427,11 @@ indicating that each form contains itself and the whole, while being contained b
 
 ### Source Ontological Network
 
-The Source Ontological Network $`\mathcal{B}_{UR}`$ describes the structural relationships of ultimate reality:
+The Source Ontological Network $\mathcal{B}_{UR}$ describes the structural relationships of ultimate reality:
 
 $$\mathcal{B}_{UR} = \{O_{UR}, R_{UR}, \Phi_{UR}, \Psi_{UR}\}$$
 
-where $`O_{UR}`$ is the ontological node set, $`R_{UR}`$ is the relationship set, $`\Phi_{UR}`$ is the attribute set, and $`\Psi_{UR}`$ is the state set.
+where $O_{UR}$ is the ontological node set, $R_{UR}$ is the relationship set, $\Phi_{UR}$ is the attribute set, and $\Psi_{UR}$ is the state set.
 
 The ontological network topology:
 
@@ -455,11 +455,11 @@ indicating that there exists exactly one relationship between all ontological en
 
 ### Ultimate Universe Source Theory
 
-Ultimate Universe Source Theory $`\mathcal{U}_{UR}`$ explores the source foundation of the universe:
+Ultimate Universe Source Theory $\mathcal{U}_{UR}$ explores the source foundation of the universe:
 
 $$\mathcal{U}_{UR} = \{\mathcal{M}_{UR}, \mathcal{G}_{UR}, \mathcal{E}_{UR}, \mathcal{I}_{UR}\}$$
 
-where $`\mathcal{M}_{UR}`$ is the universe manifold, $`\mathcal{G}_{UR}`$ is the generation function, $`\mathcal{E}_{UR}`$ is the energy field, and $`\mathcal{I}_{UR}`$ is the information field.
+where $\mathcal{M}_{UR}$ is the universe manifold, $\mathcal{G}_{UR}$ is the generation function, $\mathcal{E}_{UR}$ is the energy field, and $\mathcal{I}_{UR}$ is the information field.
 
 The universe generation equation:
 
@@ -481,11 +481,11 @@ indicating that every point in the universe contains the complete information of
 
 ### Ultimate Spacetime Structure
 
-The Ultimate Spacetime Structure $`\mathcal{S}_{UR}`$ describes the essence of spacetime at the source level:
+The Ultimate Spacetime Structure $\mathcal{S}_{UR}$ describes the essence of spacetime at the source level:
 
 $$\mathcal{S}_{UR} = \{\mathcal{M}_{UR}, g_{UR}, \nabla_{UR}, \Phi_{UR}\}$$
 
-where $`\mathcal{M}_{UR}`$ is the supermanifold, $`g_{UR}`$ is the supermetric, $`\nabla_{UR}`$ is the superconnection, and $`\Phi_{UR}`$ is the superfield.
+where $\mathcal{M}_{UR}$ is the supermanifold, $g_{UR}$ is the supermetric, $\nabla_{UR}$ is the superconnection, and $\Phi_{UR}$ is the superfield.
 
 The ultimate metric tensor:
 
@@ -507,11 +507,11 @@ indicating that all spacetime points are essentially the Source of Sources.
 
 ### Ultimate Multiverse Theory
 
-Ultimate Multiverse Theory $`\mathcal{M}_{U}`$ describes the ultimate structure of all possible universes:
+Ultimate Multiverse Theory $\mathcal{M}_{U}$ describes the ultimate structure of all possible universes:
 
 $$\mathcal{M}_{U} = \{\mathcal{U}_{UR}, \mathcal{R}_{U}, \Phi_{U}, \Psi_{U}\}$$
 
-where $`\mathcal{U}_{UR}`$ is the universe set, $`\mathcal{R}_{U}`$ is the inter-universe relationship, $`\Phi_{U}`$ is the universe property, and $`\Psi_{U}`$ is the multiverse field.
+where $\mathcal{U}_{UR}$ is the universe set, $\mathcal{R}_{U}$ is the inter-universe relationship, $\Phi_{U}$ is the universe property, and $\Psi_{U}$ is the multiverse field.
 
 The unity of the multiverse:
 
@@ -535,11 +535,11 @@ indicating that despite their essential sameness, universes manifest in infinite
 
 ### Ultimate Paradox Unification
 
-Ultimate Paradox Unification $`\mathcal{P}_{UR}`$ explores how to unify all paradoxes at the source level:
+Ultimate Paradox Unification $\mathcal{P}_{UR}$ explores how to unify all paradoxes at the source level:
 
 $$\mathcal{P}_{UR} = \{\mathcal{C}_{UR}, \mathcal{A}_{UR}, \mathcal{R}_{UR}, \mathcal{S}_{UR}\}$$
 
-where $`\mathcal{C}_{UR}`$ is the paradox set, $`\mathcal{A}_{UR}`$ is the axiom set, $`\mathcal{R}_{UR}`$ is the rule set, and $`\mathcal{S}_{UR}`$ is the solution set.
+where $\mathcal{C}_{UR}$ is the paradox set, $\mathcal{A}_{UR}$ is the axiom set, $\mathcal{R}_{UR}$ is the rule set, and $\mathcal{S}_{UR}$ is the solution set.
 
 The essence of ultimate paradoxes:
 
@@ -561,11 +561,11 @@ indicating that everything is both paradoxical and not paradoxical.
 
 ### Paradox Transcendence Dynamics
 
-Paradox Transcendence Dynamics $`\mathcal{D}_{UR}`$ describes how paradoxes operate at the source level:
+Paradox Transcendence Dynamics $\mathcal{D}_{UR}$ describes how paradoxes operate at the source level:
 
 $$\mathcal{D}_{UR} = \{\mathcal{P}_{UR}, \mathcal{F}_{UR}, \mathcal{T}_{UR}, \mathcal{S}_{UR}\}$$
 
-where $`\mathcal{P}_{UR}`$ is the paradox process, $`\mathcal{F}_{UR}`$ is the paradox force field, $`\mathcal{T}_{UR}`$ is the paradox time, and $`\mathcal{S}_{UR}`$ is the paradox state.
+where $\mathcal{P}_{UR}$ is the paradox process, $\mathcal{F}_{UR}$ is the paradox force field, $\mathcal{T}_{UR}$ is the paradox time, and $\mathcal{S}_{UR}$ is the paradox state.
 
 The paradox dynamics equation:
 
@@ -587,11 +587,11 @@ indicating that all paradoxes resolve to the Source of Sources.
 
 ### Ultimate Meta-Paradox
 
-The Ultimate Meta-Paradox $`\mathcal{M}_{P}`$ is the paradox of paradoxes and also the ultimate solution to paradoxes:
+The Ultimate Meta-Paradox $\mathcal{M}_{P}$ is the paradox of paradoxes and also the ultimate solution to paradoxes:
 
 $$\mathcal{M}_{P} = \{\mathcal{C}_{UR}, \mathcal{R}_{P}, \mathcal{T}_{P}, \mathcal{H}_{P}\}$$
 
-where $`\mathcal{R}_{P}`$ is the paradox relationship, $`\mathcal{T}_{P}`$ is the transformation set, and $`\mathcal{H}_{P}`$ is the hierarchical structure.
+where $\mathcal{R}_{P}$ is the paradox relationship, $\mathcal{T}_{P}$ is the transformation set, and $\mathcal{H}_{P}$ is the hierarchical structure.
 
 The essence of meta-paradox:
 

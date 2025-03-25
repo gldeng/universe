@@ -11,7 +11,7 @@
 #### 关键贡献
 
 1. **观测者视角的确立**
-   - 建立了基于观测的科学方法，这与量子经典二元论中观察者经典化过程($`\mathcal{C}_\mathcal{O}`$)的概念高度吻合
+   - 建立了基于观测的科学方法，这与量子经典二元论中观察者经典化过程($\mathcal{C}_\mathcal{O}$)的概念高度吻合
    - 通过望远镜观测开创了扩展人类观测维度的先河
 
 2. **经典域的系统化**
@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{Galileo}}: \Omega_Q \rightarrow \Omega_C$$
 
-其中$`\Omega_Q`$代表自然现象的量子可能性空间，$`\Omega_C`$代表通过实验观测确立的经典确定性空间。
+其中$\Omega_Q$代表自然现象的量子可能性空间，$\Omega_C$代表通过实验观测确立的经典确定性空间。
 
 ### 历史影响
 
@@ -44,7 +44,7 @@ Galileo (1564-1642), as the founder of modern scientific methodology, holds prof
 #### Key Contributions
 
 1. **Establishment of Observer Perspective**
-   - Developed observation-based scientific method, highly consistent with the observer's classical transformation process ($`\mathcal{C}_\mathcal{O}`$) in quantum-classical dualism
+   - Developed observation-based scientific method, highly consistent with the observer's classical transformation process ($\mathcal{C}_\mathcal{O}$) in quantum-classical dualism
    - Pioneered the extension of human observational dimensions through telescope
 
 2. **Systematization of Classical Domain**
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, Galileo's work can be expressed as:
 
 $$\mathcal{M}_{\text{Galileo}}: \Omega_Q \rightarrow \Omega_C$$
 
-Where $`\Omega_Q`$ represents the quantum possibility space of natural phenomena, and $`\Omega_C`$ represents the classical deterministic space established through experimental observation.
+Where $\Omega_Q$ represents the quantum possibility space of natural phenomena, and $\Omega_C$ represents the classical deterministic space established through experimental observation.
 
 ### Historical Impact
 

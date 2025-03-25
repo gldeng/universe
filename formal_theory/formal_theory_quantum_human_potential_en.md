@@ -18,13 +18,13 @@ Quantum-Classical Human Potential Theory is an important branch of the quantum-c
    
    $$\Psi_{potential}(x) = \sum_{i} \alpha_i |\phi_i\rangle$$
    
-   where $`|\phi_i\rangle`$ represents various potential state basis vectors and $`\alpha_i`$ are complex amplitudes.
+   where $|\phi_i\rangle$ represents various potential state basis vectors and $\alpha_i$ are complex amplitudes.
 
 3. **Potential Realization Degree**: Measures the degree to which potential is transformed from quantum possibility to classical realization:
    
    $$R(\Psi_{potential}) = \frac{|\langle\Psi_{realized}|\Psi_{potential}\rangle|^2}{|\Psi_{potential}|^2}$$
    
-   where $`\Psi_{realized}`$ is the portion of potential that has been classicalized.
+   where $\Psi_{realized}$ is the portion of potential that has been classicalized.
 
 4. **Potential Entanglement Network**: Describes quantum entanglement relationships between an individual's potential and their environment, others, and different aspects of themselves:
    
@@ -56,7 +56,7 @@ Human potential forms inseparable associations with various factors through quan
    
    $$E_{self}(\Psi) = -\text{Tr}(\rho_{local} \ln \rho_{local})$$
    
-   where $`\rho_{local}`$ is the reduced density matrix of a specific potential subsystem.
+   where $\rho_{local}$ is the reduced density matrix of a specific potential subsystem.
 
 2. **Social Entanglement**: Entanglement between individual potential and social environment:
    
@@ -70,7 +70,7 @@ Human potential forms inseparable associations with various factors through quan
    
    $$I(A:B) = S(A) + S(B) - S(A,B)$$
    
-   where $`S`$ represents von Neumann entropy.
+   where $S$ represents von Neumann entropy.
 
 ### 3. Quantum Interference Phenomena in Potential
 
@@ -98,13 +98,13 @@ The conversion process of potential from quantum superposition to classical real
    
    $$\mathcal{C}(\Psi_{potential}) = \sum_i P_i \Psi_{potential} P_i$$
    
-   where $`P_i`$ is a projection operator representing specific focus points.
+   where $P_i$ is a projection operator representing specific focus points.
 
 2. **Environmental Decoherence**: Environmental factors cause potential superposition states to decohere into classical states:
    
    $$\rho(t) = \sum_{i,j} \alpha_i \alpha_j^* |\phi_i\rangle\langle\phi_j| e^{-\gamma_{ij}t}$$
    
-   where $`\gamma_{ij}`$ is the decoherence rate.
+   where $\gamma_{ij}$ is the decoherence rate.
 
 3. **Potential Wavefunction Collapse**: Decision-making, action, and training lead to potential wavefunction collapse:
    
@@ -120,19 +120,19 @@ Main factors inhibiting the classicalization of potential:
    
    $$Z_{decoherence} = \frac{\gamma_{ideal}}{\gamma_{actual}}$$
    
-   where $`\gamma`$ represents decoherence rate.
+   where $\gamma$ represents decoherence rate.
 
 2. **Information Entropy Increase Rate**: Rate of information loss during classicalization:
    
    $$\frac{dS}{dt} = -k \sum_i \frac{d}{dt}(p_i \ln p_i)$$
    
-   where $`p_i`$ is the probability of a specific potential state.
+   where $p_i$ is the probability of a specific potential state.
 
 3. **Quantum-Classical Conversion Efficiency**:
    
    $$\eta_{conversion} = \frac{I_{classicalized-potential}}{I_{quantum-potential}}$$
    
-   where $`I`$ represents information quantity.
+   where $I$ represents information quantity.
 
 ### 3. Energy-Information Dynamics
 
@@ -148,13 +148,13 @@ Energy and information conversion in potential realization:
    
    $$E_{realization} = \int_{t_0}^{t_1} P(t) dt$$
    
-   where $`P(t)`$ is the rate of energy consumption during the realization process.
+   where $P(t)$ is the rate of energy consumption during the realization process.
 
 3. **Information Entropy and Potential Relationship**:
    
    $$S = -k_B \sum_i p_i \ln p_i$$
    
-   where $`p_i`$ is the probability distribution of various potential realization paths.
+   where $p_i$ is the probability distribution of various potential realization paths.
 
 ## Quantum-Classical Collaborative Mechanisms for Potential Activation
 
@@ -166,13 +166,13 @@ The role of self-consciousness as a quantum-classical interface observer:
    
    $$\mathcal{O}(x,t) = \sum_i w_i(t) \delta(x-x_i)$$
    
-   where $`w_i(t)`$ are attention weights and $`x_i`$ are positions in potential space.
+   where $w_i(t)$ are attention weights and $x_i$ are positions in potential space.
 
 2. **Attention Operator**: Describes how self-attention projects potential:
    
    $$\hat{A} = \sum_i a_i |a_i\rangle\langle a_i|$$
    
-   where $`|a_i\rangle`$ are attention basis states and $`a_i`$ are corresponding attention intensities.
+   where $|a_i\rangle$ are attention basis states and $a_i$ are corresponding attention intensities.
 
 3. **Self-Measurement Effect**: Describes the effect of self-observation on potential:
    
@@ -186,19 +186,19 @@ How belief systems guide the quantum-classical conversion of potential:
    
    $$W(x,x') = |\langle x|\hat{U}|x'\rangle|^2$$
    
-   where $`\hat{U}`$ is an evolution operator defined by the belief system.
+   where $\hat{U}$ is an evolution operator defined by the belief system.
 
 2. **Belief Filter Operator**: Describes how beliefs filter potential possibilities:
    
    $$\hat{F}_{\text{belief}} = \sum_i f_i |b_i\rangle\langle b_i|$$
    
-   where $`f_i`$ are intensity factors associated with specific beliefs.
+   where $f_i$ are intensity factors associated with specific beliefs.
 
 3. **Quantum Tunneling Effect**: Describes how to breakthrough potential barriers through beliefs:
    
    $$T(E) = e^{-2\int_{x_1}^{x_2}\sqrt{\frac{2m}{\hbar^2}(V(x)-E)}dx}$$
    
-   where $`V(x)`$ is the barrier potential energy in potential realization.
+   where $V(x)$ is the barrier potential energy in potential realization.
 
 ### 3. Learning as a Quantum-Classical Adaptation Mechanism
 
@@ -230,19 +230,19 @@ Quantum mechanisms for breakthrough development of potential:
    
    $$P_{breakthrough} = e^{-\frac{2d}{\hbar}\sqrt{2m(V-E)}}$$
    
-   where $`V`$ is barrier height and $`E`$ is system energy.
+   where $V$ is barrier height and $E$ is system energy.
 
 2. **Phase Transition Critical Points**: Phase transition behavior of potential systems at critical points:
    
    $$\xi \propto |T-T_c|^{-\nu}$$
    
-   where $`\xi`$ is correlation length and $`T_c`$ is critical temperature.
+   where $\xi$ is correlation length and $T_c$ is critical temperature.
 
 3. **Emergent Complexity**: Describing the emergence of new capabilities:
    
    $$C(\Psi) = I(\Psi) - \sum_i I(\Psi_i)$$
    
-   where $`I`$ represents information complexity.
+   where $I$ represents information complexity.
 
 ### 2. Higher-Dimensional Potential Space
 
@@ -252,19 +252,19 @@ Higher-dimensional attributes of human potential:
    
    $$D(\Psi_{potential}) = D_0 + \alpha\ln(1+\beta E_{\text{consciousness}})$$
    
-   where $`E_{\text{consciousness}}`$ is the consciousness energy level.
+   where $E_{\text{consciousness}}$ is the consciousness energy level.
 
 2. **Dimensional Projection**: Projection from higher-dimensional potential to classical performance:
    
    $$P_{D\rightarrow d}(\Psi) = \int_{\mathcal{M}_d} |\Psi|^2 dV_d$$
    
-   where $`\mathcal{M}_d`$ is a lower-dimensional manifold.
+   where $\mathcal{M}_d$ is a lower-dimensional manifold.
 
 3. **Dimensional Cross-Entropy**: Quantifying differences between potential states of different dimensions:
    
    $$H(P,Q) = -\sum_i P(i)\log Q(i)$$
    
-   where $`P`$ and $`Q`$ are distributions in different dimensions.
+   where $P$ and $Q$ are distributions in different dimensions.
 
 ### 3. Collective Potential Field
 
@@ -274,7 +274,7 @@ Collective field effects of human potential:
    
    $$\Phi_{collective}(x) = \sum_i \frac{\phi_i}{|x-x_i|^{\alpha}}$$
    
-   where $`\phi_i`$ is individual contribution and $`\alpha`$ is the decay coefficient.
+   where $\phi_i$ is individual contribution and $\alpha$ is the decay coefficient.
 
 2. **Resonance Enhancement Factor**: Quantifies the enhancement of potential through collective resonance:
    
@@ -284,7 +284,7 @@ Collective field effects of human potential:
    
    $$r e^{i\psi} = \frac{1}{N}\sum_{j=1}^N e^{i\theta_j}$$
    
-   where $`r`$ represents the degree of synchronization and $`\theta_j`$ is individual phase.
+   where $r$ represents the degree of synchronization and $\theta_j$ is individual phase.
 
 ## Application Dimensions
 
@@ -296,7 +296,7 @@ Potential development methods based on quantum-classical principles:
    
    $$T_{preservation} = T_0 e^{-\int_0^t \gamma(t')dt'}$$
    
-   extending quantum coherence time by reducing decoherence rate $`\gamma`$.
+   extending quantum coherence time by reducing decoherence rate $\gamma$.
 
 2. **Classicalization Path Optimization**:
    
@@ -308,7 +308,7 @@ Potential development methods based on quantum-classical principles:
    
    $$\Psi_{t+1} = \mathcal{F}(\mathcal{C}(\Psi_t),\mathcal{Q}(\Psi_t))$$
    
-   where $`\mathcal{F}`$ is the feedback function, and $`\mathcal{C}`$ and $`\mathcal{Q}`$ are classicalization and quantization operators respectively.
+   where $\mathcal{F}$ is the feedback function, and $\mathcal{C}$ and $\mathcal{Q}$ are classicalization and quantization operators respectively.
 
 ### 2. Education and Learning
 
@@ -324,13 +324,13 @@ Guidance of quantum-classical potential theory for education:
    
    $$L = \sum_i p_i L_i + \beta\left(-\sum_i p_i \ln p_i\right)$$
    
-   balancing specific path learning $`L_i`$ with path diversity.
+   balancing specific path learning $L_i$ with path diversity.
 
 3. **Quantum-Classical Balance Index**:
    
    $$B = \frac{E_Q}{E_C + E_Q}$$
    
-   where $`E_Q`$ and $`E_C`$ are the weights of quantum exploration and classical consolidation respectively.
+   where $E_Q$ and $E_C$ are the weights of quantum exploration and classical consolidation respectively.
 
 ### 3. Mental Health Applications
 
@@ -346,7 +346,7 @@ Applications of potential theory to mental health:
    
    $$E_{therapy} = E_0 - \alpha\int_0^T |\langle\Psi_A(t)|\Psi_B(t)\rangle|^2 dt$$
    
-   where $`E`$ represents entanglement degree, with the therapeutic goal being to moderately reduce harmful entanglement.
+   where $E$ represents entanglement degree, with the therapeutic goal being to moderately reduce harmful entanglement.
 
 3. **Psychological Quantum Coherence Recovery**:
    

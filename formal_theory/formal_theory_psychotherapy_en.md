@@ -60,10 +60,10 @@ The psychological interface is the boundary region where quantum psychological s
 $$\frac{d\mathcal{D}_{psychological}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}_{psychological} + \beta(\mathcal{D}_c - \mathcal{D}_{psychological})(\mathcal{D}_{psychological} - \mathcal{D}_0) + \gamma\xi(t)$$
 
 Where:
-- $`\mathcal{D}_{psychological}`$ is the psychological decoherence degree, measuring the extent of quantum state transformation to classical state
-- $`\mathcal{D}_c`$ is the critical decoherence threshold
-- $`\mathcal{D}_0`$ is the metastable threshold
-- $`\xi(t)`$ is a random noise term, representing environmental and internal disturbances
+- $\mathcal{D}_{psychological}$ is the psychological decoherence degree, measuring the extent of quantum state transformation to classical state
+- $\mathcal{D}_c$ is the critical decoherence threshold
+- $\mathcal{D}_0$ is the metastable threshold
+- $\xi(t)$ is a random noise term, representing environmental and internal disturbances
 
 Psychological interface dynamics explain the following psychological phenomena:
 - Moments of insight: The process of quantum possibilities suddenly collapsing into classical understanding

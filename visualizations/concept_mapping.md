@@ -91,11 +91,11 @@
 
 | 公式描述 | 数学表达式 | 关联概念 |
 |---------|-----------|---------|
-| 量子经典转换 | $`\|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}`$ | 观察者经典化过程 |
-| 观察者维度 | $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$ | 观察者维度计算 |
-| 维度速限 | $`c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}`$ | 信息传递速率上限 |
-| 量子纠缠能量 | $`E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})`$ | 虫洞通信能量 |
-| 自由意志转换 | $`I_{\text{前世经典自由意志}}\rightarrow\|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生经典自由意志}}+S_{\text{熵降低}}`$ | 自由意志与转世 |
+| 量子经典转换 | $\|\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}$ | 观察者经典化过程 |
+| 观察者维度 | $D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$ | 观察者维度计算 |
+| 维度速限 | $c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{量子能量状态}}}{\Delta t_{\text{经典时间}}}$ | 信息传递速率上限 |
+| 量子纠缠能量 | $E_{\text{纠缠}} = h \cdot f_{\text{纠缠}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$ | 虫洞通信能量 |
+| 自由意志转换 | $I_{\text{前世经典自由意志}}\rightarrow\|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生经典自由意志}}+S_{\text{熵降低}}$ | 自由意志与转世 |
 
 ### 跨学科概念映射
 
@@ -198,11 +198,11 @@ Quantum-Classical Dualism
 
 | Formula Description | Mathematical Expression | Related Concepts |
 |---------|-----------|---------|
-| Quantum-Classical Transformation | $`\|\psi\rangle_{\text{quantum domain}} \xrightarrow{\text{classicalization decoding}} I_{\text{classical knowledge}} + S_{\text{classical entropy}}`$ | Observer Classicalization Process |
-| Observer Dimension | $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}`$ | Observer Dimension Calculation |
-| Dimensional Speed Limit | $`c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}`$ | Information Transfer Rate Limit |
-| Quantum Entanglement Energy | $`E_{\text{entanglement}} = h \cdot f_{\text{entanglement}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})`$ | Wormhole Communication Energy |
-| Free Will Transformation | $`I_{\text{previous classical free will}}\rightarrow\|\psi\rangle_{\text{quantum domain}}\rightarrow I_{\text{current classical free will}}+S_{\text{entropy reduction}}`$ | Free Will and Reincarnation |
+| Quantum-Classical Transformation | $\|\psi\rangle_{\text{quantum domain}} \xrightarrow{\text{classicalization decoding}} I_{\text{classical knowledge}} + S_{\text{classical entropy}}$ | Observer Classicalization Process |
+| Observer Dimension | $D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}$ | Observer Dimension Calculation |
+| Dimensional Speed Limit | $c_d = k_{\text{max},d} \cdot \frac{\Delta E_{\text{quantum energy state}}}{\Delta t_{\text{classical time}}}$ | Information Transfer Rate Limit |
+| Quantum Entanglement Energy | $E_{\text{entanglement}} = h \cdot f_{\text{entanglement}} = h \cdot \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})$ | Wormhole Communication Energy |
+| Free Will Transformation | $I_{\text{previous classical free will}}\rightarrow\|\psi\rangle_{\text{quantum domain}}\rightarrow I_{\text{current classical free will}}+S_{\text{entropy reduction}}$ | Free Will and Reincarnation |
 
 ### Interdisciplinary Concept Mapping
 

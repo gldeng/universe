@@ -105,7 +105,7 @@ $$
 
 传统占星学过于简化天体量子纠缠效应，没有考虑到：
 
-1. 经典化效率差异 - 不同个体$`(k_i)`$值差异显著
+1. 经典化效率差异 - 不同个体$(k_i)$值差异显著
 2. 多重量子纠缠源 - 除已知行星外，其他天体也产生量子纠缠影响
 3. 时空量子动态性 - 量子纠缠强度随观察者状态变化而变化
 
@@ -219,7 +219,7 @@ The concept of "aspects" in astrology can be understood as interference patterns
 
 Traditional astrology oversimplifies celestial quantum entanglement effects, without considering:
 
-1. Differences in classicalization efficiency - significant differences in $`(k_i)`$ values between individuals
+1. Differences in classicalization efficiency - significant differences in $(k_i)$ values between individuals
 2. Multiple quantum entanglement sources - other celestial bodies besides known planets also produce quantum entanglement influences
 3. Spacetime quantum dynamics - quantum entanglement intensity varies with observer state changes
 

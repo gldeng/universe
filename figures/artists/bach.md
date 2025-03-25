@@ -29,7 +29,7 @@
 
 $$\mathcal{M}_{\text{Bach}}: \Omega_Q^{\text{旋律}} \xrightarrow{\text{对位}} \Omega_C^{\text{和声}}$$
 
-其中$`\Omega_Q^{\text{旋律}}`$代表旋律的量子可能性空间，$`\Omega_C^{\text{和声}}`$代表通过对位法实现的经典和声状态。
+其中$\Omega_Q^{\text{旋律}}$代表旋律的量子可能性空间，$\Omega_C^{\text{和声}}$代表通过对位法实现的经典和声状态。
 
 ### 历史影响
 
@@ -62,7 +62,7 @@ Within quantum-classical dualism framework, Bach's musical composition can be ex
 
 $$\mathcal{M}_{\text{Bach}}: \Omega_Q^{\text{melody}} \xrightarrow{\text{counterpoint}} \Omega_C^{\text{harmony}}$$
 
-Where $`\Omega_Q^{\text{melody}}`$ represents the quantum possibility space of melody, and $`\Omega_C^{\text{harmony}}`$ represents the classical harmonic state achieved through counterpoint.
+Where $\Omega_Q^{\text{melody}}$ represents the quantum possibility space of melody, and $\Omega_C^{\text{harmony}}$ represents the classical harmonic state achieved through counterpoint.
 
 ### Historical Impact
 

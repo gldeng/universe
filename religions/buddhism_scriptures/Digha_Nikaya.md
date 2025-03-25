@@ -51,26 +51,24 @@ The Digha Nikaya is one of the most important texts in the Pali Canon, containin
 ## 数学表达 (Mathematical Expression)
 
 ### 量子态演化方程
-
 $$
 |\psi(t)\rangle = e^{-iHt/\hbar}|\psi(0)\rangle
 $$
 
 其中：
-- $`|\psi(t)\rangle`$ 表示t时刻的量子态
+- $|\psi(t)\rangle$ 表示t时刻的量子态
 - H 是哈密顿量（代表业力系统）
-- $`\hbar`$ 是约化普朗克常数（代表最小观察单位）
+- $\hbar$ 是约化普朗克常数（代表最小观察单位）
 
 ### 经典化路径方程
-
 $$
 P_{classical} = \int_{quantum} |\langle \phi|\psi\rangle|^2 d\phi
 $$
 
 其中：
-- $`P_{classical}`$ 是经典化概率
-- $`|\phi\rangle`$ 是经典基态
-- $`|\psi\rangle`$ 是量子态
+- $P_{classical}$ 是经典化概率
+- $|\phi\rangle$ 是经典基态
+- $|\psi\rangle$ 是量子态
 
 ## 结论 (Conclusion)
 

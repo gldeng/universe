@@ -36,19 +36,19 @@
    
    $$|\Psi_{\text{语义}}\rangle = \sum_i c_i |m_i\rangle$$
    
-   其中 $`|m_i\rangle`$ 是意义基矢，$`c_i`$ 是复振幅。
+   其中 $|m_i\rangle$ 是意义基矢，$c_i$ 是复振幅。
 
 2. **语义纠缠**：词语之间的语义关联表示为量子纠缠
    
    $$|\Psi_{AB}\rangle = \sum_{i,j} c_{ij} |m_i\rangle_A \otimes |m_j\rangle_B$$
    
-   其中下标 $`A`$ 和 $`B`$ 表示不同词语或概念。
+   其中下标 $A$ 和 $B$ 表示不同词语或概念。
 
 3. **语义密度矩阵**：考虑混合状态的语义表示
    
    $$\rho_{\text{语义}} = \sum_k p_k |\Psi_k\rangle\langle\Psi_k|$$
    
-   其中 $`p_k`$ 是各种可能解释的概率分布。
+   其中 $p_k$ 是各种可能解释的概率分布。
 
 ### 语言相干性
 
@@ -58,19 +58,19 @@
    
    $$L_{\text{相干}} = L_0 \exp\left(-\frac{n}{n_0}\right)$$
    
-   其中 $`n`$ 是语言单位数量，$`n_0`$ 是特征衰减参数。
+   其中 $n$ 是语言单位数量，$n_0$ 是特征衰减参数。
 
 2. **语境解相干**：语境导致的语义解相干过程
    
    $$\rho_{\text{解相干}} = \sum_i \langle c_i|\rho|c_i\rangle |c_i\rangle\langle c_i|$$
    
-   其中 $`|c_i\rangle`$ 是语境基矢。
+   其中 $|c_i\rangle$ 是语境基矢。
 
 3. **跨语言相干度**：不同语言间概念相干性测度
    
    $$C(L_1, L_2) = |\text{Tr}(\rho_{L_1}\rho_{L_2})|$$
    
-   其中 $`\rho_{L_1}`$ 和 $`\rho_{L_2}`$ 是两种语言的语义密度矩阵。
+   其中 $\rho_{L_1}$ 和 $\rho_{L_2}$ 是两种语言的语义密度矩阵。
 
 ### 语言量子网络
 
@@ -80,19 +80,19 @@
    
    $$\mathcal{N}_Q = (V, E, \Psi)$$
    
-   其中 $`V`$ 是节点集（概念），$`E`$ 是边集（关系），$`\Psi`$ 是态函数。
+   其中 $V$ 是节点集（概念），$E$ 是边集（关系），$\Psi$ 是态函数。
 
 2. **语义引力**：基于语义相似性的概念吸引力
    
    $$F_{ij} = G_s \frac{m_i m_j}{d_{ij}^2}$$
    
-   其中 $`G_s`$ 是语义引力常数，$`m_i`$ 是概念权重，$`d_{ij}`$ 是语义距离。
+   其中 $G_s$ 是语义引力常数，$m_i$ 是概念权重，$d_{ij}$ 是语义距离。
 
 3. **语义场**：分布在语言空间中的语义势场
    
    $$\phi(x) = \sum_i \frac{Q_i}{|x-x_i|}$$
    
-   其中 $`Q_i`$ 是语义电荷，$`x_i`$ 是概念位置。
+   其中 $Q_i$ 是语义电荷，$x_i$ 是概念位置。
 
 ## 语言形成动力学
 
@@ -104,13 +104,13 @@
    
    $$P(m_i|c) = \frac{|\langle c|m_i\rangle|^2}{\sum_j |\langle c|m_j\rangle|^2}$$
    
-   其中 $`c`$ 是语境态，$`m_i`$ 是特定意义。
+   其中 $c$ 是语境态，$m_i$ 是特定意义。
 
 2. **语义波函数坍缩**：语言理解过程中的意义确定
    
    $$|\Psi_{\text{语义}}\rangle \xrightarrow{\text{理解}} |m_{i_0}\rangle$$
    
-   其中 $`m_{i_0}`$ 是被理解的特定意义。
+   其中 $m_{i_0}$ 是被理解的特定意义。
 
 3. **语言熵增原理**：语言交流过程中的信息损失
    
@@ -126,19 +126,19 @@
    
    $$\mathcal{I}_L = \{x \in \mathcal{L} | \mathcal{D}_L(x) = \mathcal{D}_c\}$$
    
-   其中 $`\mathcal{D}_L`$ 是语言解相干度量，$`\mathcal{D}_c`$ 是临界值。
+   其中 $\mathcal{D}_L$ 是语言解相干度量，$\mathcal{D}_c$ 是临界值。
 
 2. **语言界面波动**：界面位置的动态变化
    
    $$\frac{d\mathcal{D}_L}{dt} = \alpha_L \nabla^2\mathcal{D}_L + \beta_L(\mathcal{D}_L - \mathcal{D}_c)(\mathcal{D}_L - \mathcal{D}_0) + \eta_L(t)$$
    
-   其中各参数带有下标 $`L`$ 表示特定于语言系统。
+   其中各参数带有下标 $L$ 表示特定于语言系统。
 
 3. **多语言界面相互作用**：不同语言间界面的耦合
    
    $$\mathcal{H}_{int} = \sum_{i \neq j} J_{ij} \mathcal{I}_i \mathcal{I}_j$$
    
-   其中 $`J_{ij}`$ 是语言间的耦合系数。
+   其中 $J_{ij}$ 是语言间的耦合系数。
 
 ### 语言观察者网络
 
@@ -148,19 +148,19 @@
    
    $$\rho'_{\text{语义}} = \sum_i \mathcal{O}_i \rho_{\text{语义}} \mathcal{O}_i^{\dagger}$$
    
-   其中 $`\mathcal{O}_i`$ 是观察者算符。
+   其中 $\mathcal{O}_i$ 是观察者算符。
 
 2. **集体语义共识**：多观察者网络中的语义共识形成
    
    $$\rho_{\text{共识}} = \lim_{t\to\infty} e^{-i\mathcal{H}_{net}t} \rho_0 e^{i\mathcal{H}_{net}t}$$
    
-   其中 $`\mathcal{H}_{net}`$ 是网络哈密顿量。
+   其中 $\mathcal{H}_{net}$ 是网络哈密顿量。
 
 3. **语言观察者维度**：语言观察者的维度分布
    
    $$D_{\mathcal{O}}^L = f\left(\frac{\mathcal{C}_{\mathcal{O}}^L}{\mathcal{Q}_{\mathcal{O}}^L}\right) \cdot \frac{I_{语言知识}}{S_{语言熵}+\epsilon}$$
    
-   其中上标 $`L`$ 表示语言相关参数。
+   其中上标 $L$ 表示语言相关参数。
 
 ## 语言演化模型
 
@@ -172,19 +172,19 @@
    
    $$\frac{dL}{dt} = \alpha_L I_Q - \beta_L I_C + \gamma_L \xi(t)$$
    
-   其中 $`I_Q`$ 是量子语言信息，$`I_C`$ 是经典语言信息。
+   其中 $I_Q$ 是量子语言信息，$I_C$ 是经典语言信息。
 
 2. **语义漂变模型**：语义随时间的演化
    
    $$|\Psi_{\text{语义}}(t)\rangle = e^{-i\mathcal{H}_Lt}|\Psi_{\text{语义}}(0)\rangle$$
    
-   其中 $`\mathcal{H}_L`$ 是语言演化哈密顿量。
+   其中 $\mathcal{H}_L$ 是语言演化哈密顿量。
 
 3. **语言分岔模型**：语言分化为不同分支的过程
    
    $$P(\text{分岔}|t) = 1 - e^{-\lambda_L(I_Q/I_C)t}$$
    
-   其中 $`\lambda_L`$ 是分岔参数。
+   其中 $\lambda_L$ 是分岔参数。
 
 ### 语言共时态与历时态
 
@@ -194,13 +194,13 @@
    
    $$|\Phi_L(t_0)\rangle = \sum_i a_i(t_0) |L_i\rangle$$
    
-   其中 $`|L_i\rangle`$ 是语言基矢，$`a_i(t_0)`$ 是 $`t_0`$ 时刻的系数。
+   其中 $|L_i\rangle$ 是语言基矢，$a_i(t_0)$ 是 $t_0$ 时刻的系数。
 
 2. **历时态语言函数**：随时间演化的语言态
    
    $$|\Phi_L(t)\rangle = \hat{U}_L(t, t_0)|\Phi_L(t_0)\rangle$$
    
-   其中 $`\hat{U}_L`$ 是语言演化算符。
+   其中 $\hat{U}_L$ 是语言演化算符。
 
 3. **语言稳定性指标**：语言系统稳定性的量化
    
@@ -222,13 +222,13 @@
    
    $$\frac{d|B_{ij}\rangle}{dt} = \kappa_{ij}|\Phi_{L_i}\rangle\langle\Phi_{L_j}|$$
    
-   其中 $`|B_{ij}\rangle`$ 是借用元素的态，$`\kappa_{ij}`$ 是借用率。
+   其中 $|B_{ij}\rangle$ 是借用元素的态，$\kappa_{ij}$ 是借用率。
 
 3. **语言融合算符**：语言混合的形式化表示
    
    $$\hat{F}_{ij} = \alpha|\Phi_{L_i}\rangle\langle\Phi_{L_i}| + \beta|\Phi_{L_j}\rangle\langle\Phi_{L_j}| + \gamma(|\Phi_{L_i}\rangle\langle\Phi_{L_j}| + |\Phi_{L_j}\rangle\langle\Phi_{L_i}|)$$
    
-   其中 $`\alpha`$, $`\beta`$, $`\gamma`$ 是融合参数。
+   其中 $\alpha$, $\beta$, $\gamma$ 是融合参数。
 
 ## 实验预测与应用
 
@@ -246,7 +246,7 @@
    
    $$\langle A B \rangle \neq \langle B A \rangle$$
    
-   其中 $`A`$ 和 $`B`$ 是语境算符。
+   其中 $A$ 和 $B$ 是语境算符。
 
 3. **语言贝尔不等式**：语言关联的非局域性
    
@@ -268,13 +268,13 @@
    
    $$|T_{\text{生成}}\rangle = \hat{G}_Q |\Psi_{\text{语义}}\rangle$$
    
-   其中 $`\hat{G}_Q`$ 是量子生成算符。
+   其中 $\hat{G}_Q$ 是量子生成算符。
 
 3. **量子翻译模型**：量子框架下的语言翻译
    
    $$|T_{L_2}\rangle = \hat{T}_{L_1\to L_2}|T_{L_1}\rangle$$
    
-   其中 $`\hat{T}_{L_1\to L_2}`$ 是翻译算符。
+   其中 $\hat{T}_{L_1\to L_2}$ 是翻译算符。
 
 ### 语言教育与社会应用
 
@@ -284,13 +284,13 @@
    
    $$|\Psi_{\text{学习}}(t)\rangle = e^{-i\mathcal{H}_{\text{学习}}t}|\Psi_{\text{学习}}(0)\rangle$$
    
-   其中 $`\mathcal{H}_{\text{学习}}`$ 是学习哈密顿量。
+   其中 $\mathcal{H}_{\text{学习}}$ 是学习哈密顿量。
 
 2. **语言规划量子模型**：语言政策与规划的量子分析
    
    $$\rho_{L,\text{规划}} = \mathcal{E}(\rho_{L,\text{自然}})$$
    
-   其中 $`\mathcal{E}`$ 是规划超算符。
+   其中 $\mathcal{E}$ 是规划超算符。
 
 3. **跨文化交流量子框架**：跨文化交流的量子描述
    

@@ -31,7 +31,7 @@
 **形式表达**：
 $$P(D_{\text{文明}} > D_{\text{临界}}) \approx \frac{1}{(D_{\text{临界}})^n}$$
 
-其中$`D_{\text{临界}}`$是突破星际通信障碍所需的观察者维度，$`n`$是一个大于1的常数。
+其中$D_{\text{临界}}$是突破星际通信障碍所需的观察者维度，$n$是一个大于1的常数。
 
 **证明**：
 
@@ -43,7 +43,7 @@ $$P(D_{\text{文明}} > D_{\text{临界}}) \approx \frac{1}{(D_{\text{临界}})^
 
 3. 根据信息理论，文明发展中经典熵的自然增长率往往超过经典知识的增长率：
    $$\frac{dS_{\text{经典熵}}}{dt} \approx \alpha \cdot \frac{dI_{\text{经典知识}}}{dt}$$
-   其中$`\alpha > 1`$
+   其中$\alpha > 1$
 
 4. 因此，大多数文明的观察者维度会随时间趋于稳定或下降：
    $$\lim_{t \to \infty} D_{\text{文明}}(t) \leq D_{\text{最大}}$$
@@ -63,7 +63,7 @@ $$P(D_{\text{文明}} > D_{\text{临界}}) \approx \frac{1}{(D_{\text{临界}})^
 **形式表达**：
 $$R_{\text{通信}} = c \cdot \min\left(T_{\text{文明}}, \frac{I_{\text{可传输信息}}}{S_{\text{通信熵}}}\right)$$
 
-其中$`c`$是光速，$`T_{\text{文明}}`$是文明存在的时间。
+其中$c$是光速，$T_{\text{文明}}$是文明存在的时间。
 
 **证明**：
 
@@ -198,7 +198,7 @@ The Fermi Paradox is a famous problem posed by physicist Enrico Fermi in 1950: c
 **Formal Expression**:
 $$P(D_{\text{Civilization}} > D_{\text{Critical}}) \approx \frac{1}{(D_{\text{Critical}})^n}$$
 
-where $`D_{\text{Critical}}`$ is the observer dimension required to break through the interstellar communication barrier, and $`n`$ is a constant greater than 1.
+where $D_{\text{Critical}}$ is the observer dimension required to break through the interstellar communication barrier, and $n$ is a constant greater than 1.
 
 **Proof**:
 
@@ -210,7 +210,7 @@ where $`D_{\text{Critical}}`$ is the observer dimension required to break throug
 
 3. According to information theory, the natural growth rate of classical entropy in civilization development often exceeds the growth rate of classical knowledge:
    $$\frac{dS_{\text{Classical Entropy}}}{dt} \approx \alpha \cdot \frac{dI_{\text{Classical Knowledge}}}{dt}$$
-   where $`\alpha > 1`$
+   where $\alpha > 1$
 
 4. Therefore, the observer dimension of most civilizations will tend to stabilize or decrease over time:
    $$\lim_{t \to \infty} D_{\text{Civilization}}(t) \leq D_{\text{Maximum}}$$
@@ -230,7 +230,7 @@ where $`D_{\text{Critical}}`$ is the observer dimension required to break throug
 **Formal Expression**:
 $$R_{\text{Communication}} = c \cdot \min\left(T_{\text{Civilization}}, \frac{I_{\text{Transmittable Information}}}{S_{\text{Communication Entropy}}}\right)$$
 
-where $`c`$ is the speed of light, and $`T_{\text{Civilization}}`$ is the time the civilization exists.
+where $c$ is the speed of light, and $T_{\text{Civilization}}$ is the time the civilization exists.
 
 **Proof**:
 

@@ -44,9 +44,9 @@ Signs are inherently quantum-classical dual entities and can be represented as:
 $$S = (S_Q, S_C, \mathcal{I}_S)$$
 
 Where:
-- $`S_Q`$ is the quantum component of the sign, representing superposition states of possible meanings
-- $`S_C`$ is the classical component of the sign, representing realized definite meanings
-- $`\mathcal{I}_S`$ is the internal quantum-classical interface of the sign
+- $S_Q$ is the quantum component of the sign, representing superposition states of possible meanings
+- $S_C$ is the classical component of the sign, representing realized definite meanings
+- $\mathcal{I}_S$ is the internal quantum-classical interface of the sign
 
 The quantum state of a sign can be represented as:
 
@@ -79,9 +79,9 @@ The quantum dynamics equation for sign interpretation:
 $$\frac{d\rho_{\text{sign}}}{dt} = -\frac{i}{\hbar}[\hat{H}_{\text{cultural}}, \rho_{\text{sign}}] + \mathcal{L}_{\text{interpretation}}(\rho_{\text{sign}})$$
 
 Where:
-- $`\rho_{\text{sign}}`$ is the density matrix of the sign state
-- $`\hat{H}_{\text{cultural}}`$ is the Hamiltonian operator of the cultural context
-- $`\mathcal{L}_{\text{interpretation}}`$ is the dissipative term describing the interpretation process
+- $\rho_{\text{sign}}$ is the density matrix of the sign state
+- $\hat{H}_{\text{cultural}}$ is the Hamiltonian operator of the cultural context
+- $\mathcal{L}_{\text{interpretation}}$ is the dissipative term describing the interpretation process
 
 ### Quantum Interference Effects in Signs
 
@@ -100,10 +100,10 @@ The quantum-classical interface in sign systems satisfies a dynamic equation:
 $$\frac{d\mathcal{I}_S}{dt} = \alpha \nabla^2 \mathcal{I}_S + \beta C_{\text{cultural}} - \gamma F_{\text{social norms}}$$
 
 Where:
-- $`\mathcal{I}_S`$ is the sign interface position
-- $`C_{\text{cultural}}`$ is the cultural creativity
-- $`F_{\text{social norms}}`$ is the constraining force of social norms
-- $`\alpha`$, $`\beta`$, $`\gamma`$ are system parameters
+- $\mathcal{I}_S$ is the sign interface position
+- $C_{\text{cultural}}$ is the cultural creativity
+- $F_{\text{social norms}}$ is the constraining force of social norms
+- $\alpha$, $\beta$, $\gamma$ are system parameters
 
 ### Interface Position and Sign Characteristics
 
@@ -140,7 +140,7 @@ The degree of sign entanglement can be quantified as:
 
 $$E(S_1, S_2) = S(\rho_{S_1}) + S(\rho_{S_2}) - S(\rho_{S_1S_2})$$
 
-Where $`S(\rho)`$ is the von Neumann entropy of the sign state.
+Where $S(\rho)$ is the von Neumann entropy of the sign state.
 
 ### Collective Meaning and Quantum Memory
 
@@ -149,8 +149,8 @@ Cultural sign systems can be understood as quantum memory structures:
 $$M_Q = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle, \mathcal{R}\}$$
 
 Where:
-- $`|\psi_i\rangle`$ are sign quantum states
-- $`\mathcal{R}`$ is the relationship network between signs
+- $|\psi_i\rangle$ are sign quantum states
+- $\mathcal{R}$ is the relationship network between signs
 
 Collective meaning is stored and retrieved through the sign entanglement network, explaining cultural transmission and collective unconscious phenomena.
 
@@ -174,7 +174,7 @@ Sign creation can be understood as a special case of quantum-classical transform
 
 $$|\psi_{\text{new sign}}\rangle = \hat{U}_{\text{creation}}(|\psi_{\text{known}}\rangle)$$
 
-Where $`\hat{U}_{\text{creation}}`$ is the creation operator, generating new sign superposition states.
+Where $\hat{U}_{\text{creation}}$ is the creation operator, generating new sign superposition states.
 
 Quantum characteristics of sign creation include:
 - Superposition: fusion of multiple known meanings

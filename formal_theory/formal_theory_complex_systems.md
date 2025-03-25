@@ -56,9 +56,9 @@ $$\mathcal{C}_{\text{复杂}} = \mathcal{Q}_{\text{结构}} \otimes \mathcal{C}_
 $$\frac{\partial \Psi}{\partial t} = \hat{D}\nabla^2\Psi + \hat{F}(\Psi) + \hat{\eta}(x,t)$$
 
 其中：
-- $`\hat{D}`$ 是扩散算符矩阵
-- $`\hat{F}(\Psi)`$ 是非线性反应函数
-- $`\hat{\eta}(x,t)`$ 是复合噪声项，包含量子随机性和经典涨落
+- $\hat{D}$ 是扩散算符矩阵
+- $\hat{F}(\Psi)$ 是非线性反应函数
+- $\hat{\eta}(x,t)$ 是复合噪声项，包含量子随机性和经典涨落
 
 界面动力学表现出特殊的标度律和相变现象：
 
@@ -87,10 +87,10 @@ $$\eta_{\text{信息}} = \frac{I_{\text{输出}}}{I_{\text{输入}}} \sim |T - T
 $$\mathcal{N} = \{V, E, \Phi, \Psi\}$$
 
 其中：
-- $`V`$ 是节点集
-- $`E`$ 是边集
-- $`\Phi`$ 是经典连接强度矩阵
-- $`\Psi`$ 是量子相关性矩阵
+- $V$ 是节点集
+- $E$ 是边集
+- $\Phi$ 是经典连接强度矩阵
+- $\Psi$ 是量子相关性矩阵
 
 网络的量子特性体现在节点间的非局域相关和涌现模式：
 
@@ -114,7 +114,7 @@ $$I(X_i; X_j) = \sum_{x_i, x_j} p(x_i, x_j) \log \frac{p(x_i, x_j)}{p(x_i)p(x_j)
 
 $$\Phi_{\text{脑}} = \int d\mu(s) \phi(s)$$
 
-其中 $`\phi(s)`$ 是局部信息整合度，$`\Phi_{\text{脑}}`$ 是整体意识度量。
+其中 $\phi(s)$ 是局部信息整合度，$\Phi_{\text{脑}}$ 是整体意识度量。
 
 ### 生态系统动力学
 
@@ -128,7 +128,7 @@ $$\Phi_{\text{脑}} = \int d\mu(s) \phi(s)$$
 
 $$\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{网络}}}{\mathcal{Q}_{\text{网络}}}\right)$$
 
-其中 $`\lambda_{\text{max}}`$ 是系统最大特征值，表征网络稳定性。
+其中 $\lambda_{\text{max}}$ 是系统最大特征值，表征网络稳定性。
 
 ### 社会经济系统
 
@@ -142,7 +142,7 @@ $$\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{网络}}}{\mathcal{Q}_{
 
 $$\mathcal{C}_{\text{社会}} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right| \cdot R_{\text{交互}}$$
 
-其中 $`\theta_j`$ 表示个体相位，$`R_{\text{交互}}`$ 表示经典交互强度。
+其中 $\theta_j$ 表示个体相位，$R_{\text{交互}}$ 表示经典交互强度。
 
 ### 技术创新系统
 
@@ -165,15 +165,15 @@ $$\frac{dI}{dt} = \alpha \cdot \mathcal{Q}_{\text{探索}} - \beta \cdot \mathca
 $$C_{\text{二元}} = C_{\text{Q}} \cdot C_{\text{C}} \cdot I(Q;C)$$
 
 其中：
-- $`C_{\text{Q}}`$ 是量子复杂性（可能性空间的结构化程度）
-- $`C_{\text{C}}`$ 是经典复杂性（实现结构的组织化程度）
-- $`I(Q;C)`$ 是量子-经典互信息
+- $C_{\text{Q}}$ 是量子复杂性（可能性空间的结构化程度）
+- $C_{\text{C}}$ 是经典复杂性（实现结构的组织化程度）
+- $I(Q;C)$ 是量子-经典互信息
 
 临界复杂性出现在相空间特定区域：
 
 $$C_{\text{临界}} = \max_{p,q} \{C(p,q)\}$$
 
-其中 $`p`$ 和 $`q`$ 分别是量子不确定性和经典确定性参数。
+其中 $p$ 和 $q$ 分别是量子不确定性和经典确定性参数。
 
 ### 相变与临界预测
 
@@ -196,7 +196,7 @@ $$\alpha + 2\beta + \gamma = 2$$
 
 实验研究表明，大脑神经网络在量子-经典界面的临界状态下运作：
 
-- 神经元雪崩大小分布遵循幂律：$`P(s) \sim s^{-\tau}`$
+- 神经元雪崩大小分布遵循幂律：$P(s) \sim s^{-\tau}$
 - 活动模式展现长程时空相关性
 - 信息容量和计算能力在临界点最大化
 
@@ -226,7 +226,7 @@ $$E_{\text{市场}} \propto \frac{\mathcal{Q}_{\text{创新}}}{\mathcal{C}_{\tex
 
 $$Y \sim N^{\beta}$$
 
-其中 $`Y`$ 是城市指标，$`N`$ 是人口规模，$`\beta`$ 是标度系数。
+其中 $Y$ 是城市指标，$N$ 是人口规模，$\beta$ 是标度系数。
 
 ## 理论发展与研究前沿
 

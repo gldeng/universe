@@ -36,7 +36,7 @@ $$
 \text{游戏设计} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot R_i
 $$
 
-其中$`|\phi_i\rangle`$代表特定的游戏经典化模式，$`R_i`$代表该模式在游戏中的规则权重。
+其中$|\phi_i\rangle$代表特定的游戏经典化模式，$R_i$代表该模式在游戏中的规则权重。
 
 ### 游戏天才的量子经典二元论解释
 
@@ -187,7 +187,7 @@ $$
 \text{Game Design} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot R_i
 $$
 
-where $`|\phi_i\rangle`$ represents a specific game classicalization pattern, and $`R_i`$ represents the rule weight of that pattern in the game.
+where $|\phi_i\rangle$ represents a specific game classicalization pattern, and $R_i$ represents the rule weight of that pattern in the game.
 
 ### Quantum-Classical Dualism Explanation of Game Geniuses
 

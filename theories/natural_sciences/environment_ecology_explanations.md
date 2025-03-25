@@ -42,7 +42,7 @@ $$
 \text{生物多样性} = \sum_{i=1}^{n} w_i |\phi_i\rangle\langle\phi_i|
 $$
 
-其中$`|\phi_i\rangle`$代表不同物种的经典化模式，$`w_i`$代表其在生态系统中的权重。
+其中$|\phi_i\rangle$代表不同物种的经典化模式，$w_i$代表其在生态系统中的权重。
 
 ### 生态学家的量子经典二元论解释
 
@@ -85,7 +85,7 @@ $$
 \frac{d|\phi(t)\rangle}{dt} = 0 \quad \text{当} \quad t \rightarrow \infty
 $$
 
-其中$`|\phi(t)\rangle`$代表生态系统随时间变化的经典化状态。
+其中$|\phi(t)\rangle$代表生态系统随时间变化的经典化状态。
 
 ### 生态演替的量子经典二元论解释
 
@@ -102,7 +102,7 @@ $$
 |\phi_1\rangle \xrightarrow{\text{演替}} |\phi_2\rangle \xrightarrow{\text{演替}} ... \xrightarrow{\text{演替}} |\phi_n\rangle
 $$
 
-其中$`|\phi_i\rangle`$代表演替第$`i`$阶段的生态系统经典化状态。
+其中$|\phi_i\rangle$代表演替第$i$阶段的生态系统经典化状态。
 
 ### 食物网的量子经典二元论解释
 
@@ -119,7 +119,7 @@ $$
 E_0 \xrightarrow{\text{生产者经典化}} E_1 \xrightarrow{\text{初级消费者经典化}} E_2 \xrightarrow{\text{次级消费者经典化}} ... \xrightarrow{\text{分解者经典化}} E_0'
 $$
 
-其中$`E_i`$代表第$`i`$级营养级的能量。
+其中$E_i$代表第$i$级营养级的能量。
 
 ### 生物地球化学循环的量子经典二元论解释
 
@@ -291,7 +291,7 @@ $$
 \text{Biodiversity} = \sum_{i=1}^{n} w_i |\phi_i\rangle\langle\phi_i|
 $$
 
-where $`|\phi_i\rangle`$ represents the classicalization patterns of different species, and $`w_i`$ represents their weight in the ecosystem.
+where $|\phi_i\rangle$ represents the classicalization patterns of different species, and $w_i$ represents their weight in the ecosystem.
 
 ### Quantum-Classical Dualism Explanation of Ecologists
 
@@ -334,7 +334,7 @@ $$
 \frac{d|\phi(t)\rangle}{dt} = 0 \quad \text{when} \quad t \rightarrow \infty
 $$
 
-where $`|\phi(t)\rangle`$ represents the classicalization state of the ecosystem changing over time.
+where $|\phi(t)\rangle$ represents the classicalization state of the ecosystem changing over time.
 
 ### Quantum-Classical Dualism Explanation of Ecological Succession
 
@@ -351,7 +351,7 @@ $$
 |\phi_1\rangle \xrightarrow{\text{Succession}} |\phi_2\rangle \xrightarrow{\text{Succession}} ... \xrightarrow{\text{Succession}} |\phi_n\rangle
 $$
 
-where $`|\phi_i\rangle`$ represents the ecosystem classicalization state at the $`i`$-th stage of succession.
+where $|\phi_i\rangle$ represents the ecosystem classicalization state at the $i$-th stage of succession.
 
 ### Quantum-Classical Dualism Explanation of Food Webs
 
@@ -368,7 +368,7 @@ $$
 E_0 \xrightarrow{\text{Producer classicalization}} E_1 \xrightarrow{\text{Primary consumer classicalization}} E_2 \xrightarrow{\text{Secondary consumer classicalization}} ... \xrightarrow{\text{Decomposer classicalization}} E_0'
 $$
 
-where $`E_i`$ represents the energy at the $`i`$-th trophic level.
+where $E_i$ represents the energy at the $i$-th trophic level.
 
 ### Quantum-Classical Dualism Explanation of Biogeochemical Cycles
 

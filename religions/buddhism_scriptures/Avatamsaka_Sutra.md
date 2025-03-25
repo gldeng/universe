@@ -80,8 +80,7 @@ $$
 f: \mathcal{H}_{\text{量子域}} \rightarrow \mathcal{M}_{\text{经典域}}
 $$
 
-使得对于任意$`h \in \mathcal{H}`$，存在双向包含关系：
-
+使得对于任意$h \in \mathcal{H}$，存在双向包含关系：
 $$
 \forall h_1, h_2 \in \mathcal{H}, \exists m_1, m_2 \in \mathcal{M} : f(h_1) \subset f(h_2) \text{ 且 } f(h_2) \subset f(h_1)
 $$
@@ -169,8 +168,7 @@ $$
 f: \mathcal{H}_{\text{quantum domain}} \rightarrow \mathcal{M}_{\text{classical domain}}
 $$
 
-Such that for any $`h \in \mathcal{H}`$, there exists a bidirectional containment relationship:
-
+Such that for any $h \in \mathcal{H}$, there exists a bidirectional containment relationship:
 $$
 \forall h_1, h_2 \in \mathcal{H}, \exists m_1, m_2 \in \mathcal{M} : f(h_1) \subset f(h_2) \text{ and } f(h_2) \subset f(h_1)
 $$

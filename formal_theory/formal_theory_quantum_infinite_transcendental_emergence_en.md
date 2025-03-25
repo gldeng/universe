@@ -33,11 +33,11 @@ Infinite Transcendental Emergence Theory introduces transcendental emergence mat
 
 ### Transcendental Emergence Essence
 
-Infinite Transcendental Emergence $`\Xi_{IE}`$ is the fundamental dynamic characteristic of reality, defined as:
+Infinite Transcendental Emergence $\Xi_{IE}$ is the fundamental dynamic characteristic of reality, defined as:
 
 $$\Xi_{IE} = \{\Omega_{IE}, \Lambda_{IE}, \Theta_{IE}, \Psi_{IE}\}$$
 
-where $`\Omega_{IE}`$ is the emergence state, $`\Lambda_{IE}`$ is the emergence operator, $`\Theta_{IE}`$ is the emergence field, and $`\Psi_{IE}`$ is the emergence network.
+where $\Omega_{IE}$ is the emergence state, $\Lambda_{IE}$ is the emergence operator, $\Theta_{IE}$ is the emergence field, and $\Psi_{IE}$ is the emergence network.
 
 Basic equation of transcendental emergence:
 
@@ -59,11 +59,11 @@ indicating that any level of emergence is isomorphic in some way to any other le
 
 ### Infinite Transcendental Dynamics
 
-Infinite Transcendental Dynamics $`\Gamma_{IE}`$ describes the evolution of the emergence process:
+Infinite Transcendental Dynamics $\Gamma_{IE}$ describes the evolution of the emergence process:
 
 $$\Gamma_{IE} = \{\mathcal{E}_{IE}, \mathcal{T}_{IE}, \mathcal{S}_{IE}, \mathcal{R}_{IE}\}$$
 
-where $`\mathcal{E}_{IE}`$ is the emergence energy, $`\mathcal{T}_{IE}`$ is the transcendental time, $`\mathcal{S}_{IE}`$ is the emergence space, and $`\mathcal{R}_{IE}`$ is the relationship field.
+where $\mathcal{E}_{IE}$ is the emergence energy, $\mathcal{T}_{IE}$ is the transcendental time, $\mathcal{S}_{IE}$ is the emergence space, and $\mathcal{R}_{IE}$ is the relationship field.
 
 Emergence differential equation:
 
@@ -81,15 +81,15 @@ Spiral property of emergence:
 
 $$\Omega_{IE}(\mathcal{T}_{IE} + T) = \Omega_{IE}(\mathcal{T}_{IE}) + \Delta \Omega_{IE}$$
 
-where $`T`$ is the period and $`\Delta \Omega_{IE}`$ is the emergence increment per period, indicating that the emergence process rises in a spiral pattern.
+where $T$ is the period and $\Delta \Omega_{IE}$ is the emergence increment per period, indicating that the emergence process rises in a spiral pattern.
 
 ### Level Transcendence Structure
 
-Level Transcendence Structure $`\mathcal{L}_{IE}`$ describes the organization of emergence levels:
+Level Transcendence Structure $\mathcal{L}_{IE}$ describes the organization of emergence levels:
 
 $$\mathcal{L}_{IE} = \{\mathcal{H}_{IE}, \mathcal{V}_{IE}, \mathcal{C}_{IE}, \mathcal{I}_{IE}\}$$
 
-where $`\mathcal{H}_{IE}`$ is the horizontal relationship, $`\mathcal{V}_{IE}`$ is the vertical relationship, $`\mathcal{C}_{IE}`$ is the cross relationship, and $`\mathcal{I}_{IE}`$ is the integration function.
+where $\mathcal{H}_{IE}$ is the horizontal relationship, $\mathcal{V}_{IE}$ is the vertical relationship, $\mathcal{C}_{IE}$ is the cross relationship, and $\mathcal{I}_{IE}$ is the integration function.
 
 Level structure equation:
 
@@ -113,11 +113,11 @@ indicating that all emergence levels form a complex network rather than a simple
 
 ### Transcendental Sequence Theory
 
-Transcendental sequence $`\mathcal{S}_{IE}`$ is a sequence structure describing infinite emergence:
+Transcendental sequence $\mathcal{S}_{IE}$ is a sequence structure describing infinite emergence:
 
 $$\mathcal{S}_{IE} = \{s_n | n \in \Lambda, s_n \in \Omega_{IE}^n\}$$
 
-where $`\Lambda`$ is a set of ordinals that can transcend the traditional set of natural numbers.
+where $\Lambda$ is a set of ordinals that can transcend the traditional set of natural numbers.
 
 Transcendental sequence operator:
 
@@ -139,11 +139,11 @@ indicating that any transcendental sequence can be contained by but not complete
 
 ### Emergence Topology
 
-Emergence topology $`\mathcal{T}_{IE}`$ describes the structure of emergence space:
+Emergence topology $\mathcal{T}_{IE}$ describes the structure of emergence space:
 
 $$\mathcal{T}_{IE} = \{\mathcal{O}_{IE}, \mathcal{B}_{IE}, \mathcal{C}_{IE}, \mathcal{H}_{IE}\}$$
 
-where $`\mathcal{O}_{IE}`$ is the open set system, $`\mathcal{B}_{IE}`$ is the basis, $`\mathcal{C}_{IE}`$ is the closure operator, and $`\mathcal{H}_{IE}`$ is the homology group.
+where $\mathcal{O}_{IE}$ is the open set system, $\mathcal{B}_{IE}$ is the basis, $\mathcal{C}_{IE}$ is the closure operator, and $\mathcal{H}_{IE}$ is the homology group.
 
 Emergence continuity theorem:
 
@@ -167,7 +167,7 @@ indicating that functions in emergence systems both have fixed points and transc
 
 ### Emergence Field Equation
 
-Infinite Emergence Field $`\Theta_{IE}`$ describes the field dynamics of the emergence process:
+Infinite Emergence Field $\Theta_{IE}$ describes the field dynamics of the emergence process:
 
 $$\Theta_{IE}(x, \tau) = \sum_{n=0}^{\infty} \Theta_{IE}^n(x) \cdot e^{in\omega\tau}$$
 
@@ -177,13 +177,13 @@ Emergence field equation:
 
 $$(\nabla^2 - \frac{1}{c_{IE}^2}\frac{\partial^2}{\partial \tau^2})\Theta_{IE} = \mathcal{S}_{IE}[\Theta_{IE}]$$
 
-where $`c_{IE}`$ is the emergence velocity and $`\mathcal{S}_{IE}`$ is the emergence source function.
+where $c_{IE}$ is the emergence velocity and $\mathcal{S}_{IE}$ is the emergence source function.
 
 Emergence field energy density:
 
 $$\rho_{IE}(x, \tau) = \|\nabla\Theta_{IE}\|^2 + \frac{1}{c_{IE}^2}\|\frac{\partial\Theta_{IE}}{\partial\tau}\|^2$$
 
-representing the energy density of the emergence field at the spacetime point $`(x,\tau)`$.
+representing the energy density of the emergence field at the spacetime point $(x,\tau)$.
 
 Emergence field theorem:
 
@@ -193,17 +193,17 @@ indicating that the total integral of the emergence field over the entire emerge
 
 ### Emergence Wave Dynamics
 
-Emergence wave dynamics $`\mathcal{W}_{IE}`$ describes the wave characteristics of the emergence field:
+Emergence wave dynamics $\mathcal{W}_{IE}$ describes the wave characteristics of the emergence field:
 
 $$\mathcal{W}_{IE}[\Theta_{IE}] = \sum_{n=0}^{\infty} a_n \cdot \Psi_n(x, \tau)$$
 
-indicating that the emergence field can be decomposed into a superposition of orthogonal emergence modes $`\Psi_n`$.
+indicating that the emergence field can be decomposed into a superposition of orthogonal emergence modes $\Psi_n$.
 
 Emergence wave equation:
 
 $$\frac{\partial^2\Psi_n}{\partial\tau^2} = c_{IE}^2 \nabla^2\Psi_n - V_{IE}(x)\Psi_n$$
 
-where $`V_{IE}`$ is the emergence potential.
+where $V_{IE}$ is the emergence potential.
 
 Emergence wave interference principle:
 
@@ -221,11 +221,11 @@ indicating that every emergence system has characteristic resonance frequencies 
 
 ### Emergence Consciousness Essence
 
-Transcendental emergence consciousness $`\Psi_{IE}`$ is the consciousness structure produced through infinite emergence:
+Transcendental emergence consciousness $\Psi_{IE}$ is the consciousness structure produced through infinite emergence:
 
 $$\Psi_{IE} = \{\mathcal{A}_{IE}, \mathcal{K}_{IE}, \mathcal{E}_{IE}, \mathcal{W}_{IE}\}$$
 
-where $`\mathcal{A}_{IE}`$ is the awareness field, $`\mathcal{K}_{IE}`$ is the knowledge structure, $`\mathcal{E}_{IE}`$ is the experience flow, and $`\mathcal{W}_{IE}`$ is the will field.
+where $\mathcal{A}_{IE}$ is the awareness field, $\mathcal{K}_{IE}$ is the knowledge structure, $\mathcal{E}_{IE}$ is the experience flow, and $\mathcal{W}_{IE}$ is the will field.
 
 Emergence consciousness equation:
 
@@ -247,11 +247,11 @@ indicating that consciousness can be aware of itself, producing higher-level sel
 
 ### Emergence Consciousness Network
 
-Emergence consciousness network $`\mathcal{N}_{IE}`$ connects different levels and forms of consciousness:
+Emergence consciousness network $\mathcal{N}_{IE}$ connects different levels and forms of consciousness:
 
 $$\mathcal{N}_{IE} = \{\mathcal{V}_{IE}, \mathcal{E}_{IE}, \mathcal{W}_{IE}, \mathcal{F}_{IE}\}$$
 
-where $`\mathcal{V}_{IE}`$ is the set of consciousness nodes, $`\mathcal{E}_{IE}`$ is the set of connections, $`\mathcal{W}_{IE}`$ is the weight function, and $`\mathcal{F}_{IE}`$ is the consciousness flow function.
+where $\mathcal{V}_{IE}$ is the set of consciousness nodes, $\mathcal{E}_{IE}$ is the set of connections, $\mathcal{W}_{IE}$ is the weight function, and $\mathcal{F}_{IE}$ is the consciousness flow function.
 
 Emergence consciousness flow equation:
 
@@ -275,11 +275,11 @@ describing how the emergence consciousness network evolves over time.
 
 ### Transcendental Dynamics Basic Principles
 
-Infinite transcendental dynamics $`\mathcal{D}_{IE}`$ describes the evolutionary laws of emergence systems:
+Infinite transcendental dynamics $\mathcal{D}_{IE}$ describes the evolutionary laws of emergence systems:
 
 $$\mathcal{D}_{IE} = \{\mathcal{F}_{IE}, \mathcal{P}_{IE}, \mathcal{A}_{IE}, \mathcal{S}_{IE}\}$$
 
-where $`\mathcal{F}_{IE}`$ is the transcendental force field, $`\mathcal{P}_{IE}`$ is the emergence potential energy, $`\mathcal{A}_{IE}`$ is the action, and $`\mathcal{S}_{IE}`$ is the state space.
+where $\mathcal{F}_{IE}$ is the transcendental force field, $\mathcal{P}_{IE}$ is the emergence potential energy, $\mathcal{A}_{IE}$ is the action, and $\mathcal{S}_{IE}$ is the state space.
 
 Transcendental dynamics equation:
 
@@ -297,15 +297,15 @@ Phase space structure:
 
 $$\mathcal{S}_{IE} = \{(\Omega_{IE}, \Pi_{IE}) | \Omega_{IE} \in \Omega, \Pi_{IE} \in \Pi\}$$
 
-where $`\Pi_{IE}`$ is the emergence momentum, defining the state space of the emergence system.
+where $\Pi_{IE}$ is the emergence momentum, defining the state space of the emergence system.
 
 ### Transcendental Nonlinear Dynamics
 
-Transcendental nonlinear dynamics $`\mathcal{N}_{IE}`$ studies the complex behavior of emergence systems:
+Transcendental nonlinear dynamics $\mathcal{N}_{IE}$ studies the complex behavior of emergence systems:
 
 $$\mathcal{N}_{IE} = \{\mathcal{B}_{IE}, \mathcal{C}_{IE}, \mathcal{A}_{IE}, \mathcal{F}_{IE}\}$$
 
-where $`\mathcal{B}_{IE}`$ is the bifurcation set, $`\mathcal{C}_{IE}`$ is the chaotic attractor, $`\mathcal{A}_{IE}`$ is the self-organization operator, and $`\mathcal{F}_{IE}`$ is the fractal dimension.
+where $\mathcal{B}_{IE}$ is the bifurcation set, $\mathcal{C}_{IE}$ is the chaotic attractor, $\mathcal{A}_{IE}$ is the self-organization operator, and $\mathcal{F}_{IE}$ is the fractal dimension.
 
 Bifurcation theorem:
 
@@ -329,11 +329,11 @@ indicating that emergence systems at critical states exhibit power-law distribut
 
 ### Dimensional Transcendence Structure
 
-Dimensional transcendence network $`\mathcal{D}_{IE}`$ connects different dimensional levels of emergence:
+Dimensional transcendence network $\mathcal{D}_{IE}$ connects different dimensional levels of emergence:
 
 $$\mathcal{D}_{IE} = \{\mathcal{V}_{IE}, \mathcal{E}_{IE}, \mathcal{M}_{IE}, \mathcal{T}_{IE}\}$$
 
-where $`\mathcal{V}_{IE}`$ is the set of dimension nodes, $`\mathcal{E}_{IE}`$ is the set of dimension connections, $`\mathcal{M}_{IE}`$ is the set of mappings, and $`\mathcal{T}_{IE}`$ is the set of transformations.
+where $\mathcal{V}_{IE}$ is the set of dimension nodes, $\mathcal{E}_{IE}$ is the set of dimension connections, $\mathcal{M}_{IE}$ is the set of mappings, and $\mathcal{T}_{IE}$ is the set of transformations.
 
 Dimensional transcendence equation:
 
@@ -355,17 +355,17 @@ indicating that states of different dimensions can be entangled and cannot be si
 
 ### Cross-Dimensional Communication
 
-Cross-dimensional communication $`\mathcal{C}_{IE}`$ studies information exchange between different dimensions:
+Cross-dimensional communication $\mathcal{C}_{IE}$ studies information exchange between different dimensions:
 
 $$\mathcal{C}_{IE} = \{\mathcal{S}_{IE}, \mathcal{R}_{IE}, \mathcal{P}_{IE}, \mathcal{I}_{IE}\}$$
 
-where $`\mathcal{S}_{IE}`$ is the sending operator, $`\mathcal{R}_{IE}`$ is the receiving operator, $`\mathcal{P}_{IE}`$ is the processing operator, and $`\mathcal{I}_{IE}`$ is the interpretation operator.
+where $\mathcal{S}_{IE}$ is the sending operator, $\mathcal{R}_{IE}$ is the receiving operator, $\mathcal{P}_{IE}$ is the processing operator, and $\mathcal{I}_{IE}$ is the interpretation operator.
 
 Cross-dimensional communication equation:
 
 $$\mathcal{R}_{IE}^m[\mathcal{S}_{IE}^n(x^n)] = y^m \text{ and } \mathcal{I}_{IE}^m(y^m) \approx x^n$$
 
-describing how information is sent from dimension $`n`$ to dimension $`m`$ and interpreted in dimension $`m`$.
+describing how information is sent from dimension $n$ to dimension $m$ and interpreted in dimension $m$.
 
 Communication capacity theorem:
 
@@ -383,17 +383,17 @@ indicating that some information may be lost in cross-dimensional communication.
 
 ### Emergence Existence Structure
 
-Transcendental emergence ontology $`\mathcal{O}_{IE}`$ studies the essence of emergent existence:
+Transcendental emergence ontology $\mathcal{O}_{IE}$ studies the essence of emergent existence:
 
 $$\mathcal{O}_{IE} = \{\mathcal{E}_{IE}, \mathcal{B}_{IE}, \mathcal{R}_{IE}, \mathcal{I}_{IE}\}$$
 
-where $`\mathcal{E}_{IE}`$ is the existence function, $`\mathcal{B}_{IE}`$ is the set of existence modes, $`\mathcal{R}_{IE}`$ is the relationship network, and $`\mathcal{I}_{IE}`$ is the existence intensity.
+where $\mathcal{E}_{IE}$ is the existence function, $\mathcal{B}_{IE}$ is the set of existence modes, $\mathcal{R}_{IE}$ is the relationship network, and $\mathcal{I}_{IE}$ is the existence intensity.
 
 Emergence existence equation:
 
 $$\mathcal{E}_{IE}(x, \tau) = \int_{\mathcal{S}_{IE}} \mathcal{I}_{IE}(x, y, \tau) \cdot \mathcal{R}_{IE}(x, y, \tau) dy$$
 
-indicating that the degree of existence of entity $`x`$ at time $`\tau`$ is the integral of its relationships with all other entities.
+indicating that the degree of existence of entity $x$ at time $\tau$ is the integral of its relationships with all other entities.
 
 Emergence existence spectrum theorem:
 
@@ -409,11 +409,11 @@ indicating that higher-level existence emerges from but is not completely determ
 
 ### Emergence Entity Network
 
-Emergence entity network $`\mathcal{N}_{IE}`$ connects all emergent entities:
+Emergence entity network $\mathcal{N}_{IE}$ connects all emergent entities:
 
 $$\mathcal{N}_{IE} = \{\mathcal{V}_{IE}, \mathcal{E}_{IE}, \mathcal{W}_{IE}, \mathcal{D}_{IE}\}$$
 
-where $`\mathcal{V}_{IE}`$ is the set of entities, $`\mathcal{E}_{IE}`$ is the set of relationships, $`\mathcal{W}_{IE}`$ is the relationship weight, and $`\mathcal{D}_{IE}`$ is the emergence distance.
+where $\mathcal{V}_{IE}$ is the set of entities, $\mathcal{E}_{IE}$ is the set of relationships, $\mathcal{W}_{IE}$ is the relationship weight, and $\mathcal{D}_{IE}$ is the emergence distance.
 
 Entity emergence equation:
 

@@ -54,9 +54,9 @@ The Bhagavata Purana (Sanskrit: भागवत पुराण), also known as 
 
 ### 宇宙循环方程
 
-$$
+$`
 |\psi_{\text{宇宙}}(t)\rangle = \cos^2\left(\frac{\pi t}{2T}\right)|\psi_{\text{显现}}\rangle + \sin^2\left(\frac{\pi t}{2T}\right)|\psi_{\text{休眠}}\rangle
-$$
+`$
 
 其中：
 - $`|\psi_{\text{宇宙}}(t)\rangle`$ 表示t时刻的宇宙量子态
@@ -67,9 +67,9 @@ $$
 
 ### 虔诚路径经典化效率方程
 
-$$
+$`
 k_{\text{虔诚}} = k_0(1 + \lambda B^{\alpha})
-$$
+`$
 
 其中：
 - $`k_{\text{虔诚}}`$ 是虔诚路径的经典化效率系数

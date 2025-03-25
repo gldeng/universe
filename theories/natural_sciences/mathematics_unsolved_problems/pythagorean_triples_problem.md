@@ -31,27 +31,27 @@ Specifically, Pythagorean triples with consecutive legs represent the geometric 
 
 勾股数三元组是满足以下条件的正整数三元组 $`(a,b,c)`$：
 
-$$
+$`
 a^2 + b^2 = c^2, \text{ 其中 } a,b,c \in \mathbb{Z}^+
-$$
+`$
 
 差为1的勾股数对问题可形式化为：
 
-$$
+$`
 |\{(a,b,c) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ : a^2 + b^2 = c^2 \text{ 且 } |a-b|=1\}| = \infty ?
-$$
+`$
 
 A Pythagorean triple is a triplet of positive integers $`(a,b,c)`$ satisfying:
 
-$$
+$`
 a^2 + b^2 = c^2, \text{ where } a,b,c \in \mathbb{Z}^+
-$$
+`$
 
 The problem of Pythagorean triples with consecutive legs can be formally stated as:
 
-$$
+$`
 |\{(a,b,c) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ : a^2 + b^2 = c^2 \text{ and } |a-b|=1\}| = \infty ?
-$$
+`$
 
 ## 严格形式化证明 | Rigorous Formal Proof
 
@@ -91,63 +91,63 @@ $`\text{PT}_1 = \{(a,b,c) \in \text{PT} : |a-b| = 1\}`$
 
 考虑 $`a = n`$, $`b = n+1`$ 的情况（$`a = n+1`$, $`b = n`$ 的情况通过对称性也成立）。勾股定理要求：
 
-$$
+$`
 n^2 + (n+1)^2 = c^2
-$$
+`$
 
 展开得：
 
-$$
+$`
 n^2 + n^2 + 2n + 1 = c^2
-$$
+`$
 
-$$
+$`
 2n^2 + 2n + 1 = c^2
-$$
+`$
 
 **步骤2**: 转化为标准形式的佩尔方程变种
 
 设 $`c = 2m + 1`$（必须为奇数，因为 $`2n^2 + 2n + 1`$ 总是奇数）。代入上式：
 
-$$
+$`
 2n^2 + 2n + 1 = (2m+1)^2 = 4m^2 + 4m + 1
-$$
+`$
 
 整理得：
 
-$$
+$`
 2n^2 + 2n = 4m^2 + 4m
-$$
+`$
 
-$$
+$`
 n^2 + n = 2m^2 + 2m
-$$
+`$
 
-$$
+$`
 n^2 + n - 2m^2 - 2m = 0
-$$
+`$
 
 完全平方公式变形：
 
-$$
+$`
 (n + \frac{1}{2})^2 - \frac{1}{4} - 2(m + \frac{1}{2})^2 + \frac{1}{2} = 0
-$$
+`$
 
-$$
+$`
 (n + \frac{1}{2})^2 - 2(m + \frac{1}{2})^2 = -\frac{1}{4}
-$$
+`$
 
 乘以4得：
 
-$$
+$`
 (2n + 1)^2 - 2(2m + 1)^2 = -1
-$$
+`$
 
 令 $`x = 2n + 1`$, $`y = 2m + 1`$，得到：
 
-$$
+$`
 x^2 - 2y^2 = -1 \tag{1}
-$$
+`$
 
 这是一个佩尔方程的变种。
 
@@ -164,8 +164,9 @@ $$
 $$\begin{align}
 x_{n+1} &= 3x_n + 4y_n \\
 y_{n+1} &= 2x_n + 3y_n
-\end{align}$$
+\end{align}
 
+$`
 使用归纳法证明每个$`(x_n, y_n)`$都是方程(1)的解：
 
 **基础情形**: $`(x_1, y_1) = (1, 1)`$满足$`1^2 - 2 \cdot 1^2 = -1`$，验证成立。
@@ -173,48 +174,52 @@ y_{n+1} &= 2x_n + 3y_n
 **归纳假设**: 假设$`(x_k, y_k)`$是方程的解，即$`x_k^2 - 2y_k^2 = -1`$。
 
 **归纳步骤**: 需证明$`(x_{k+1}, y_{k+1})`$也是解。
+`$
 
-$$\begin{align}
+\begin{align}
 x_{k+1}^2 - 2y_{k+1}^2 &= (3x_k + 4y_k)^2 - 2(2x_k + 3y_k)^2 \\
 &= 9x_k^2 + 24x_ky_k + 16y_k^2 - 2(4x_k^2 + 12x_ky_k + 9y_k^2) \\
 &= 9x_k^2 + 24x_ky_k + 16y_k^2 - 8x_k^2 - 24x_ky_k - 18y_k^2 \\
 &= x_k^2(9-8) + y_k^2(16-18) \\
 &= x_k^2 - 2y_k^2 \\
 &= -1 \quad \text{(由归纳假设)}
-\end{align}$$
+\end{align}
 
+$`
 因此，每对$`(x_n, y_n)`$都是方程(1)的解，且递归生成无穷多个不同解。
 
 **步骤4**: 从方程解构造勾股数三元组
 
 对于每个解$`(x, y)`$，我们可以还原得到：
+`$
 
-$$
 n = \frac{x-1}{2}, \quad m = \frac{y-1}{2}
-$$
 
+$`
 然后构造勾股数三元组：
+`$
 
-$$
 a = n, \quad b = n+1, \quad c = 2m+1 = y
-$$
 
+$`
 验证这确实是勾股数三元组：
+`$
 
-$$\begin{align}
+\begin{align}
 a^2 + b^2 &= n^2 + (n+1)^2 \\
 &= n^2 + n^2 + 2n + 1 \\
 &= 2n^2 + 2n + 1
-\end{align}$$
+\end{align}
 
+$`
 而 $`c^2 = y^2 = (2m+1)^2 = 4m^2 + 4m + 1 = 2(2m^2 + 2m) + 1`$
 
 由方程 $`n^2 + n = 2m^2 + 2m`$ 可得 $`2n^2 + 2n = 4m^2 + 4m`$，因此：
+`$
 
-$$
 c^2 = 2n^2 + 2n + 1 = a^2 + b^2
-$$
 
+$`
 由于我们已经证明方程(1)有无穷多个解$`(x_n, y_n)`$，且这些解导出无穷多个不同的勾股数三元组，因此$`\text{PT}_1`$是无限集合。
 
 **结论**: 存在无穷多个差为1的勾股数三元组。
@@ -226,65 +231,73 @@ We prove that $`\text{PT}_1`$ contains infinitely many elements through construc
 **Step 1**: Determine the mathematical representation
 
 Consider the case where $`a = n`$, $`b = n+1`$ (the case $`a = n+1`$, $`b = n`$ follows by symmetry). The Pythagorean theorem requires:
+`$
 
-$$
 n^2 + (n+1)^2 = c^2
-$$
 
+$`
 Expanding:
+`$
 
-$$
 n^2 + n^2 + 2n + 1 = c^2
-$$
 
-$$
+$`
+
+`$
+
 2n^2 + 2n + 1 = c^2
-$$
 
+$`
 **Step 2**: Transform into a variant of the standard Pell equation
 
 Let $`c = 2m + 1`$ (must be odd since $`2n^2 + 2n + 1`$ is always odd). Substituting:
+`$
 
-$$
 2n^2 + 2n + 1 = (2m+1)^2 = 4m^2 + 4m + 1
-$$
 
+$`
 Rearranging:
+`$
 
-$$
 2n^2 + 2n = 4m^2 + 4m
-$$
 
-$$
+$`
+
+`$
+
 n^2 + n = 2m^2 + 2m
-$$
 
-$$
+$`
+
+`$
+
 n^2 + n - 2m^2 - 2m = 0
-$$
 
+$`
 Completing the square:
+`$
 
-$$
 (n + \frac{1}{2})^2 - \frac{1}{4} - 2(m + \frac{1}{2})^2 + \frac{1}{2} = 0
-$$
 
-$$
+$`
+
+`$
+
 (n + \frac{1}{2})^2 - 2(m + \frac{1}{2})^2 = -\frac{1}{4}
-$$
 
+$`
 Multiplying by 4:
+`$
 
-$$
 (2n + 1)^2 - 2(2m + 1)^2 = -1
-$$
 
+$`
 Setting $`x = 2n + 1`$, $`y = 2m + 1`$, we get:
+`$
 
-$$
 x^2 - 2y^2 = -1 \tag{1}
-$$
 
+$`
 This is a variant of Pell's equation.
 
 **Step 3**: Prove the equation has infinitely many solutions
@@ -296,12 +309,14 @@ For equation (1), with $`d = 2`$, we have:
 * Basic solution: $`(x_1, y_1) = (1, 1)`$
 
 We define the recursive relation (verifiable through algebra):
+`$
 
-$$\begin{align}
+\begin{align}
 x_{n+1} &= 3x_n + 4y_n \\
 y_{n+1} &= 2x_n + 3y_n
-\end{align}$$
+\end{align}
 
+$`
 Using induction, we prove that each $`(x_n, y_n)`$ is a solution to equation (1):
 
 **Base case**: $`(x_1, y_1) = (1, 1)`$ satisfies $`1^2 - 2 \cdot 1^2 = -1`$, verification holds.
@@ -309,46 +324,51 @@ Using induction, we prove that each $`(x_n, y_n)`$ is a solution to equation (1)
 **Induction hypothesis**: Assume $`(x_k, y_k)`$ is a solution, i.e., $`x_k^2 - 2y_k^2 = -1`$.
 
 **Induction step**: We need to prove that $`(x_{k+1}, y_{k+1})`$ is also a solution.
+`$
 
-$$\begin{align}
+\begin{align}
 x_{k+1}^2 - 2y_{k+1}^2 &= (3x_k + 4y_k)^2 - 2(2x_k + 3y_k)^2 \\
 &= 9x_k^2 + 24x_ky_k + 16y_k^2 - 2(4x_k^2 + 12x_ky_k + 9y_k^2) \\
 &= 9x_k^2 + 24x_ky_k + 16y_k^2 - 8x_k^2 - 24x_ky_k - 18y_k^2 \\
 &= x_k^2(9-8) + y_k^2(16-18) \\
 &= x_k^2 - 2y_k^2 \\
 &= -1 \quad \text{(by induction hypothesis)}
-\end{align}$$
+\end{align}
 
+$`
 Therefore, each pair $`(x_n, y_n)`$ is a solution to equation (1), and the recursion generates infinitely many distinct solutions.
 
 **Step 4**: Construct Pythagorean triples from equation solutions
 
 For each solution $`(x, y)`$, we can recover:
+`$
 
-$$
 n = \frac{x-1}{2}, \quad m = \frac{y-1}{2}
-$$
 
+$`
 Then construct the Pythagorean triple:
+`$
 
-$$
 a = n, \quad b = n+1, \quad c = 2m+1 = y
-$$
 
+$`
 Verifying this is indeed a Pythagorean triple:
+`$
 
-$$\begin{align}
+\begin{align}
 a^2 + b^2 &= n^2 + (n+1)^2 \\
 &= n^2 + n^2 + 2n + 1 \\
 &= 2n^2 + 2n + 1
-\end{align}$$
+\end{align}
 
+$`
 And $`c^2 = y^2 = (2m+1)^2 = 4m^2 + 4m + 1 = 2(2m^2 + 2m) + 1`$
 
 From the equation $`n^2 + n = 2m^2 + 2m`$ we get $`2n^2 + 2n = 4m^2 + 4m`$, therefore:
+`$
 
-$$
 c^2 = 2n^2 + 2n + 1 = a^2 + b^2
+
 $$
 
 Since we have proven that equation (1) has infinitely many solutions $`(x_n, y_n)`$, and these solutions yield infinitely many distinct Pythagorean triples, $`\text{PT}_1`$ is an infinite set.

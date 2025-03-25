@@ -35,33 +35,33 @@
 
 1. **存在的量子叠加态**：《变形记》中的格里高尔形象：
 
-$$
+$`
 |\psi\rangle_{\text{存在}} = \alpha |\text{人}\rangle + \beta |\text{虫}\rangle + \gamma |\text{异化}\rangle
-$$
+`$
 
 2. **身份的量子纠缠**：《审判》中的K与司法系统：
 
-$$
+$`
 |\Psi_{\text{身份}}\rangle = \sum_{i,j} c_{ij} |\text{个体}_i\rangle |\text{系统}_j\rangle
-$$
+`$
 
 3. **权力的量子态**：《城堡》中的权力结构：
 
-$$
+$`
 |\phi\rangle_{\text{权力}} = \alpha |\text{可见}\rangle |\text{不可见}\rangle + \beta |\text{存在}\rangle |\text{虚无}\rangle
-$$
+`$
 
 4. **艺术的量子悖论**：《饥饿艺术家》中的艺术本质：
 
-$$
+$`
 |\psi\rangle_{\text{艺术}} = \sum_t c_t |\text{创造}_t\rangle \otimes |\text{毁灭}_t\rangle
-$$
+`$
 
 5. **父子关系的量子观察**：《致父亲》中的关系动态：
 
-$$
+$`
 |\Psi_{\text{关系}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{权威}_i\rangle |\text{反抗}_i\rangle |\text{认同}_i\rangle
-$$
+`$
 
 ### 现代意义
 
@@ -104,9 +104,9 @@ $$
 
 弗兰兹·卡夫卡的文学世界通过量子经典二元论框架可获得深刻而启发性的解读。卡夫卡作品的核心特质——荒诞、矛盾、多重可能性、不确定性——本质上呈现了一种量子现实观，而其角色往往徒劳地试图通过经典逻辑理解这一量子现实。
 
-$$
+$`
 |\psi\rangle_{\text{卡夫卡文学}} = |\psi\rangle_{\text{量子荒诞现实}} \otimes I_{\text{经典理解尝试}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -115,6 +115,7 @@ $$
    卡夫卡的荒诞世界可理解为量子不确定性在确定性社会结构中的表现：
 
    $$
+
    |\psi\rangle_{\text{量子不确定性存在}} \otimes I_{\text{经典确定性世界}} \rightarrow |\phi\rangle_{\text{荒诞体验}}
    $$
 
@@ -131,6 +132,7 @@ $$
    卡夫卡作品中的身份危机可理解为量子自我与经典社会身份的不兼容：
 
    $$
+
    |\psi\rangle_{\text{量子多重自我}} \neq I_{\text{经典单一身份}}
    $$
 
@@ -149,6 +151,7 @@ $$
    卡夫卡笔下的权力系统可理解为具有量子特性的控制结构：
 
    $$
+
    I_{\text{经典制度表象}} \times |\psi\rangle_{\text{量子权力实质}} \rightarrow |\phi\rangle_{\text{不可理解的权威}}
    $$
 
@@ -167,6 +170,7 @@ $$
    卡夫卡作品中的罪恶感可理解为量子不确定性投射为经典道德负担：
 
    $$
+
    |\psi\rangle_{\text{存在不确定性}} \xrightarrow{\text{社会投射}} I_{\text{具体罪恶感}}
    $$
 
@@ -185,6 +189,7 @@ $$
    卡夫卡作品中的语言困境可理解为量子体验与经典表达之间的根本鸿沟：
 
    $$
+
    |\psi\rangle_{\text{量子体验}} \not\Rightarrow I_{\text{经典语言}}
    $$
 
@@ -203,6 +208,7 @@ $$
    卡夫卡的叙事结构可理解为量子叙事可能性在经典文本中的体现：
 
    $$
+
    |\psi\rangle_{\text{多重叙事可能性}} \xrightarrow{\text{文本固定}} I_{\text{开放结构作品}}
    $$
 

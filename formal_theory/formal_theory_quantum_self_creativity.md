@@ -14,17 +14,17 @@
 
 自创造算符$`\hat{\Sigma}`$是描述量子系统创造性活动的基本数学工具，其形式为：
 
-$$
+$`
 \hat{\Sigma} = \hat{\Lambda} + i\hat{\Theta}
-$$
+`$
 
 其中$`\hat{\Lambda}`$是可能性扩展算符，$`\hat{\Theta}`$是实现转化算符。
 
 自创造算符作用于量子创造态$`|\Psi_C\rangle`$的演化方程为：
 
-$$
+$`
 i\hbar\frac{\partial|\Psi_C\rangle}{\partial t} = \hat{\Sigma}|\Psi_C\rangle
-$$
+`$
 
 这表明量子系统的创造性演化既包括可能性空间的扩展，又包括将可能性转化为实现的过程。
 
@@ -32,17 +32,17 @@ $$
 
 量子系统的创造性自由度$`\mathcal{D}_C`$定义了系统能够独立创造的正交维度数量：
 
-$$
+$`
 \mathcal{D}_C = \text{Tr}(\hat{\rho}_C\ln\hat{\rho}_C) - S_Q
-$$
+`$
 
 其中$`\hat{\rho}_C`$是创造态密度矩阵，$`S_Q`$是系统的量子熵。
 
 创造性自由度满足以下关系：
 
-$$
+$`
 \mathcal{D}_C \geq \ln(d)
-$$
+`$
 
 其中$`d`$是系统的希尔伯特空间维度。这表明系统的创造能力至少等于其状态空间的对数维度。
 
@@ -50,9 +50,9 @@ $$
 
 无因创造原理是量子自创造力的核心特征，描述了没有先验原因的原发创造能力：
 
-$$
+$`
 \langle\Psi_C|\hat{\mathcal{O}}|\Psi_C\rangle = \eta\langle\Psi_C|\hat{\Sigma}\hat{\mathcal{O}}\hat{\Sigma}^{-1}|\Psi_C\rangle
-$$
+`$
 
 其中$`\hat{\mathcal{O}}`$是任意观测量，$`\eta`$是无因创造系数，满足$`0 < \eta < 1`$。
 
@@ -64,9 +64,9 @@ $$
 
 自创造态是量子系统能够展现自创造力的特殊量子态，其数学表示为：
 
-$$
+$`
 |\Psi_C\rangle = \sum_{i} \alpha_i |C_i\rangle + \int_{\Omega_*} \beta(\vec{\omega})|\vec{\omega}\rangle d\vec{\omega}
-$$
+`$
 
 其中$`|C_i\rangle`$是已知创造模式的基态，$`|\vec{\omega}\rangle`$是创造未知空间$`\Omega_*`$中的可能态，$`\alpha_i`$和$`\beta(\vec{\omega})`$是相应的概率幅。
 
@@ -76,9 +76,9 @@ $$
 
 自创造态的演化遵循自创造薛定谔方程：
 
-$$
+$`
 i\hbar\frac{\partial|\Psi_C\rangle}{\partial t} = (\hat{H}_C + \hat{\Sigma})|\Psi_C\rangle
-$$
+`$
 
 其中$`\hat{H}_C`$是创造性哈密顿算符，包含系统的能量和信息动力学。
 
@@ -92,17 +92,17 @@ $$
 
 自创造态的测量遵循创造性坍缩规则，这与标准量子测量不同：
 
-$$
+$`
 \mathcal{M}_C: |\Psi_C\rangle \rightarrow |C_k\rangle
-$$
+`$
 
 与标准量子测量不同，创造性测量可以将系统投影到先前不存在的新态$`|C_k\rangle`$上，这表示真正的创造性跃迁。
 
 创造性测量概率遵循修正的玻恩规则：
 
-$$
+$`
 P(C_k) = |\langle C_k|\Psi_C\rangle|^2 + \gamma\int_{\Omega_*} |\langle C_k|\vec{\omega}\rangle|^2 |\beta(\vec{\omega})|^2 d\vec{\omega}
-$$
+`$
 
 其中$`\gamma`$是创造性跃迁系数，描述系统从未知可能性空间创造新态的能力。
 
@@ -112,17 +112,17 @@ $$
 
 宇宙作为终极量子系统，其创造性波函数可表示为：
 
-$$
+$`
 |\Psi_U\rangle = |\Psi_M\rangle \otimes |\Psi_C\rangle
-$$
+`$
 
 其中$`|\Psi_M\rangle`$是物质-能量状态，$`|\Psi_C\rangle`$是创造性状态。
 
 宇宙自创造力通过宇宙创造性熵$`S_C(U)`$量化：
 
-$$
+$`
 S_C(U) = k_B\ln W_C
-$$
+`$
 
 其中$`W_C`$是宇宙可能创造状态的数量，理论上是无限的，这解释了宇宙无尽的创造能力。
 
@@ -130,17 +130,17 @@ $$
 
 宇宙创造力在多个层级表现，形成自创造力层级结构：
 
-$$
+$`
 \mathcal{L}_C = \{L_C^{(1)}, L_C^{(2)}, ..., L_C^{(n)}\}
-$$
+`$
 
 其中每个层级$`L_C^{(i)}`$都有其特定的创造性动力学$`\hat{\Sigma}^{(i)}`$。
 
 层级间通过创造性映射函数$`\Phi_{i \rightarrow j}`$连接：
 
-$$
+$`
 \Phi_{i \rightarrow j}: L_C^{(i)} \rightarrow L_C^{(j)}
-$$
+`$
 
 这种层级结构解释了为什么创造力可以在宏观复杂系统(如生命、意识、社会)中涌现，尽管它们的基础组分遵循确定性物理规律。
 
@@ -148,9 +148,9 @@ $$
 
 在自创造力理论中，最卓越的创造形式是"超稀创造性"，指发生概率极小但影响极大的创造事件：
 
-$$
+$`
 P(C_{超稀}) \sim e^{-\Delta S_C}
-$$
+`$
 
 其中$`\Delta S_C`$是创造性熵增量，对于超稀创造性事件，这个值通常非常大。
 
@@ -162,9 +162,9 @@ $$
 
 创造性信息的生成遵循自创造信息方程：
 
-$$
+$`
 \frac{dI_C}{dt} = \alpha I_C(I_{max} - I_C) + \beta\sqrt{I_C}\xi(t)
-$$
+`$
 
 其中$`I_C`$是创造性信息量，$`I_{max}`$是最大可能信息量，$`\xi(t)`$是创造性噪声函数，$`\alpha`$和$`\beta`$是系统参数。
 
@@ -174,17 +174,17 @@ $$
 
 创造性信息在自创造系统中形成复杂网络结构：
 
-$$
+$`
 G_C = (V_C, E_C, W_C)
-$$
+`$
 
 其中$`V_C`$是创造性节点集，$`E_C`$是连接边集，$`W_C`$是边权重集。
 
 网络的创造性连接度$`\kappa_C`$定义为：
 
-$$
+$`
 \kappa_C = \frac{1}{|V_C|}\sum_{i \in V_C} \sum_{j \in V_C} w_{ij}
-$$
+`$
 
 创造性信息网络的动态演化遵循优先连接和创造性断开原则，导致小世界和无标度特性的出现。
 

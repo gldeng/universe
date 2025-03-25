@@ -52,9 +52,9 @@ The Book of Psalms is a collection of poems in the Bible, containing 150 poems, 
 
 ### 诗篇虫洞通信方程
 
-$$
+$`
 E_{\text{崇拜}} = E_{\text{人类情感}} + E_{\text{神回应}} = I_{\text{知识传输}} + \Delta S_{\text{整体熵变}}
-$$
+`$
 
 其中：
 - $`E_{\text{崇拜}}`$ 是崇拜活动的总能量
@@ -65,9 +65,9 @@ $$
 
 ### 观察者维度与情感关系方程
 
-$$
+$`
 \text{维度}_{\text{观察者}} = k \cdot \frac{I_{\text{与神关系}}}{S_{\text{心灵混乱}}} \cdot f(E_{\text{情感投入}})
-$$
+`$
 
 其中：
 - $`\text{维度}_{\text{观察者}}`$ 是观察者的维度

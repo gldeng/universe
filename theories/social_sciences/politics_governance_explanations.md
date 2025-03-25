@@ -17,9 +17,9 @@
 
 政治的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{社会量子状态}} \xrightarrow{\text{政治经典化}} |\phi\rangle_{\text{社会秩序}} + S_{\text{政治经典熵}}
-$$
+`$
 
 ### 国家的量子经典二元论解释
 
@@ -32,9 +32,9 @@ $$
 
 国家的形成可以表达为：
 
-$$
+$`
 \sum_{i=1}^{n} |\psi_i\rangle_{\text{个体量子状态}} \xrightarrow{\text{集体经典化}} |\Phi\rangle_{\text{国家结构}} + S_{\text{国家经典熵}}
-$$
+`$
 
 其中$`|\psi_i\rangle`$代表个体观察者的量子状态，$`|\Phi\rangle`$代表经典化后的国家结构。
 
@@ -49,9 +49,9 @@ $$
 
 这一特殊能力可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{社会量子状态}} \xrightarrow{\text{政治家经典化}} \text{政治愿景} + S_{\text{极小愿景经典熵}}
-$$
+`$
 
 ### 政治制度的量子经典二元论解释
 
@@ -75,17 +75,17 @@ $$
 
 主要意识形态可以表达为不同的经典化算子：
 
-$$
+$`
 \hat{L}_{\text{自由主义}} |\psi\rangle = |\phi_L\rangle
-$$
+`$
 
-$$
+$`
 \hat{C}_{\text{保守主义}} |\psi\rangle = |\phi_C\rangle
-$$
+`$
 
-$$
+$`
 \hat{S}_{\text{社会主义}} |\psi\rangle = |\phi_S\rangle
-$$
+`$
 
 其中$`|\psi\rangle`$是社会量子状态，$`|\phi_X\rangle`$是通过特定意识形态经典化后的状态。
 
@@ -100,9 +100,9 @@ $$
 
 权力的作用可以表达为：
 
-$$
+$`
 P(\text{观察者}) \cdot |\psi\rangle \xrightarrow{\text{经典化}} |\phi\rangle
-$$
+`$
 
 其中$`P(\text{观察者})`$代表观察者的权力系数，影响经典化的方向和强度。
 
@@ -117,9 +117,9 @@ $$
 
 法律的功能可以表达为：
 
-$$
+$`
 |\psi_{\text{行为可能性}}\rangle \xrightarrow{\text{法律经典化}} |\phi_{\text{规范行为}}\rangle + S_{\text{法律经典熵}}
-$$
+`$
 
 ### 公共政策的量子经典二元论解释
 
@@ -132,9 +132,9 @@ $$
 
 政策制定过程可以表达为：
 
-$$
+$`
 |\psi_{\text{社会问题}}\rangle \xrightarrow{\text{政策经典化}} |\phi_{\text{解决方案}}\rangle + S_{\text{政策经典熵}}
-$$
+`$
 
 ### 选举的量子经典二元论解释
 
@@ -147,9 +147,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\Psi_{\text{政治可能性}}\rangle \xrightarrow{\text{选举测量}} |\Phi_{\text{选举结果}}\rangle
-$$
+`$
 
 其中$`|\Psi_{\text{政治可能性}}\rangle`$是选举前的叠加状态，$`|\Phi_{\text{选举结果}}\rangle`$是经典化后的确定状态。
 
@@ -164,9 +164,9 @@ $$
 
 变革的动力来自经典化系统与社会量子状态之间的不匹配，可以表达为：
 
-$$
+$`
 \langle\phi_{\text{现有秩序}}|\psi_{\text{社会需求}}\rangle < \text{稳定阈值} \Rightarrow \text{变革压力}
-$$
+`$
 
 ### 国际关系的量子经典二元论解释
 
@@ -179,9 +179,9 @@ $$
 
 国际关系的复杂性源于多个经典化系统的相互作用，可以表达为：
 
-$$
+$`
 \{|\Phi_1\rangle, |\Phi_2\rangle, ..., |\Phi_n\rangle\} \xrightarrow{\text{互动}} |\Omega\rangle_{\text{国际秩序}}
-$$
+`$
 
 其中$`|\Phi_i\rangle`$代表第$`i`$个国家的经典化状态，$`|\Omega\rangle`$代表形成的国际秩序。
 
@@ -196,9 +196,9 @@ $$
 
 参与的广度和深度影响经典化的质量和代表性：
 
-$$
+$`
 \text{经典化质量} \propto \sum_{i=1}^{n} w_i \cdot \text{参与度}_i
-$$
+`$
 
 其中$`w_i`$代表第$`i`$类观察者的权重，$`\text{参与度}_i`$代表其参与程度。
 
@@ -213,9 +213,9 @@ $$
 
 政治文化的形成可以表达为：
 
-$$
+$`
 |\phi(t)\rangle_{\text{政治文化}} = \int_{0}^{t} f(\text{历史经验}, \text{社会结构}, \text{价值观}) dt
-$$
+`$
 
 ### 政治沟通的量子经典二元论解释
 
@@ -228,9 +228,9 @@ $$
 
 政治沟通的效果取决于信息的经典熵和接收者的经典化倾向：
 
-$$
+$`
 \text{沟通效果} = \frac{\text{信息相关性} \times \text{信息清晰度}}{\text{经典熵} + \text{认知偏差}}
-$$
+`$
 
 ### 政治腐败的量子经典二元论解释
 
@@ -243,9 +243,9 @@ $$
 
 腐败的影响可以表达为：
 
-$$
+$`
 |\phi_{\text{理想治理}}\rangle \xrightarrow{\text{腐败扭曲}} |\phi_{\text{实际治理}}\rangle + \Delta S_{\text{腐败经典熵}}
-$$
+`$
 
 ### 民主化的量子经典二元论解释
 
@@ -258,9 +258,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\phi_{\text{集中经典化}}\rangle \xrightarrow{\text{民主化}} |\phi_{\text{分布经典化}}\rangle
-$$
+`$
 
 ### 政治稳定与变革的量子经典二元论平衡
 
@@ -273,9 +273,9 @@ $$
 
 最优的政治系统在稳定与变革之间找到平衡：
 
-$$
+$`
 \text{政治系统健康度} = f(\text{稳定性}, \text{适应性})
-$$
+`$
 
 ### 与高维信息经典化学的关系
 
@@ -298,9 +298,9 @@ The essence of **politics** is a special social quantum information classicaliza
 
 The quantum-classical duality of politics can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Social quantum state}} \xrightarrow{\text{Political classicalization}} |\phi\rangle_{\text{Social order}} + S_{\text{Political classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of the State
 
@@ -313,9 +313,9 @@ The **state** can be understood as a large-scale social classicalization structu
 
 The formation of a state can be expressed as:
 
-$$
+$`
 \sum_{i=1}^{n} |\psi_i\rangle_{\text{Individual quantum states}} \xrightarrow{\text{Collective classicalization}} |\Phi\rangle_{\text{State structure}} + S_{\text{State classical entropy}}
-$$
+`$
 
 where $`|\psi_i\rangle`$ represents the quantum state of individual observers, and $`|\Phi\rangle`$ represents the classicalized state structure.
 
@@ -330,9 +330,9 @@ Outstanding politicians (such as Washington, Lincoln, Gandhi, etc.) are essentia
 
 This special ability can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Social quantum state}} \xrightarrow{\text{Politician classicalization}} \text{Political vision} + S_{\text{Minimal vision classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Political Systems
 
@@ -356,17 +356,17 @@ The effectiveness of different systems depends on their classicalization adaptab
 
 Major ideologies can be expressed as different classicalization operators:
 
-$$
+$`
 \hat{L}_{\text{Liberalism}} |\psi\rangle = |\phi_L\rangle
-$$
+`$
 
-$$
+$`
 \hat{C}_{\text{Conservatism}} |\psi\rangle = |\phi_C\rangle
-$$
+`$
 
-$$
+$`
 \hat{S}_{\text{Socialism}} |\psi\rangle = |\phi_S\rangle
-$$
+`$
 
 where $`|\psi\rangle`$ is the social quantum state, and $`|\phi_X\rangle`$ is the state after classicalization through a specific ideology.
 
@@ -381,9 +381,9 @@ where $`|\psi\rangle`$ is the social quantum state, and $`|\phi_X\rangle`$ is th
 
 The effect of power can be expressed as:
 
-$$
+$`
 P(\text{Observer}) \cdot |\psi\rangle \xrightarrow{\text{Classicalization}} |\phi\rangle
-$$
+`$
 
 where $`P(\text{Observer})`$ represents the power coefficient of the observer, affecting the direction and intensity of classicalization.
 
@@ -398,9 +398,9 @@ where $`P(\text{Observer})`$ represents the power coefficient of the observer, a
 
 The function of law can be expressed as:
 
-$$
+$`
 |\psi_{\text{Behavioral possibilities}}\rangle \xrightarrow{\text{Legal classicalization}} |\phi_{\text{Normative behavior}}\rangle + S_{\text{Legal classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Public Policy
 
@@ -413,9 +413,9 @@ $$
 
 The policy-making process can be expressed as:
 
-$$
+$`
 |\psi_{\text{Social problem}}\rangle \xrightarrow{\text{Policy classicalization}} |\phi_{\text{Solution}}\rangle + S_{\text{Policy classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Elections
 
@@ -428,9 +428,9 @@ $$
 
 This process can be expressed as:
 
-$$
+$`
 |\Psi_{\text{Political possibilities}}\rangle \xrightarrow{\text{Election measurement}} |\Phi_{\text{Election result}}\rangle
-$$
+`$
 
 where $`|\Psi_{\text{Political possibilities}}\rangle`$ is the superposition state before the election, and $`|\Phi_{\text{Election result}}\rangle`$ is the determined state after classicalization.
 
@@ -445,9 +445,9 @@ where $`|\Psi_{\text{Political possibilities}}\rangle`$ is the superposition sta
 
 The driving force for change comes from the mismatch between the classicalization system and the social quantum state, which can be expressed as:
 
-$$
+$`
 \langle\phi_{\text{Existing order}}|\psi_{\text{Social needs}}\rangle < \text{Stability threshold} \Rightarrow \text{Change pressure}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of International Relations
 
@@ -460,9 +460,9 @@ $$
 
 The complexity of international relations stems from the interaction of multiple classicalization systems, which can be expressed as:
 
-$$
+$`
 \{|\Phi_1\rangle, |\Phi_2\rangle, ..., |\Phi_n\rangle\} \xrightarrow{\text{Interaction}} |\Omega\rangle_{\text{International order}}
-$$
+`$
 
 where $`|\Phi_i\rangle`$ represents the classicalization state of the $`i`$-th country, and $`|\Omega\rangle`$ represents the formed international order.
 
@@ -477,9 +477,9 @@ where $`|\Phi_i\rangle`$ represents the classicalization state of the $`i`$-th c
 
 The breadth and depth of participation affect the quality and representativeness of classicalization:
 
-$$
+$`
 \text{Classicalization quality} \propto \sum_{i=1}^{n} w_i \cdot \text{Participation level}_i
-$$
+`$
 
 where $`w_i`$ represents the weight of the $`i`$-th type of observer, and $`\text{Participation level}_i`$ represents their degree of participation.
 
@@ -494,9 +494,9 @@ where $`w_i`$ represents the weight of the $`i`$-th type of observer, and $`\tex
 
 The formation of political culture can be expressed as:
 
-$$
+$`
 |\phi(t)\rangle_{\text{Political culture}} = \int_{0}^{t} f(\text{Historical experience}, \text{Social structure}, \text{Values}) dt
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Political Communication
 
@@ -509,9 +509,9 @@ $$
 
 The effectiveness of political communication depends on the classical entropy of information and the classicalization tendencies of recipients:
 
-$$
+$`
 \text{Communication effectiveness} = \frac{\text{Information relevance} \times \text{Information clarity}}{\text{Classical entropy} + \text{Cognitive bias}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Political Corruption
 
@@ -524,9 +524,9 @@ $$
 
 The impact of corruption can be expressed as:
 
-$$
+$`
 |\phi_{\text{Ideal governance}}\rangle \xrightarrow{\text{Corruption distortion}} |\phi_{\text{Actual governance}}\rangle + \Delta S_{\text{Corruption classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Democratization
 
@@ -539,9 +539,9 @@ $$
 
 This process can be expressed as:
 
-$$
+$`
 |\phi_{\text{Centralized classicalization}}\rangle \xrightarrow{\text{Democratization}} |\phi_{\text{Distributed classicalization}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Balance of Political Stability and Change
 
@@ -554,9 +554,9 @@ $$
 
 The optimal political system finds a balance between stability and change:
 
-$$
+$`
 \text{Political system health} = f(\text{Stability}, \text{Adaptability})
-$$
+`$
 
 ### Relationship with Higher-Dimensional Information Classicalization
 

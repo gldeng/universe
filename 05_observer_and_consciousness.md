@@ -34,21 +34,21 @@
 
 观察者黑洞统一关系：
 
-$$
+$`
 \text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
-$$
+`$
 
 黑洞吸收（经典化、维度提升）：
 
-$$
+$`
 |\psi\rangle_{\text{外部高熵}}\rightarrow I_{\text{内部经典知识}}+S_{\text{熵降低}}+E_{\text{能量吸收}}
-$$
+`$
 
 黑洞辐射（经典化、能量释放）：
 
-$$
+$`
 |\psi\rangle_{\text{内部高熵}}\rightarrow I_{\text{辐射经典知识}}+S_{\text{熵降低}}+E_{\text{能量释放}}
-$$
+`$
 
 这一模型解释了：
 - 黑洞信息悖论：信息并未丢失，而是通过经典化转换形式
@@ -65,9 +65,9 @@ $$
 
 信息守恒表达式：
 
-$$
+$`
 S_{\text{von Neumann}}(\rho_{\text{初始}}) = S_{\text{von Neumann}}(\rho_{\text{霍金辐射}}) + S_{\text{von Neumann}}(\rho_{\text{剩余黑洞}})
-$$
+`$
 
 ### 观察者与引力场关系
 
@@ -75,21 +75,21 @@ $$
 
 引力场与量子能量密度的关系：
 
-$$
+$`
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{量子能量}}
-$$
+`$
 
 经典化效率与量子能量密度的关系：
 
-$$
+$`
 k_{\text{经典化效率}} \propto \nabla \cdot \rho_{\text{量子能量}}
-$$
+`$
 
 空间曲率与经典化效率梯度的关系：
 
-$$
+$`
 R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R \propto \nabla k_{\text{经典化效率}}
-$$
+`$
 
 这些关系揭示了：
 - 高质量区域具有更高的经典化效率
@@ -103,9 +103,9 @@ $$
 
 广义意识数学表达：
 
-$$
+$`
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
-$$
+`$
 
 广义意识特性：
 - 无法客观测量，仅可主观感知
@@ -122,35 +122,35 @@ $$
 
 单经典世界维度定义：
 
-$$
+$`
 \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
+`$
 
 整体观察者维度定义：
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 经典化效率系数$`(k_i)`$提升：
 
-$$
+$`
 k_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
-$$
+`$
 
 领域权重系数$`(w_i)`$提升：
 
-$$
+$`
 w_i\uparrow \quad\Leftrightarrow\quad \text{主动优化经典化路径（经典知识}\uparrow,\text{经典熵}\downarrow)
-$$
+`$
 
 #### 维度量化与可测量性
 
 观察者维度可通过以下可测量参数量化：
 
-$$
+$`
 \text{可测量维度}_{\text{obs}} = \frac{\text{信息处理速率}}{\text{熵产生率}} \cdot \text{决策准确度}
-$$
+`$
 
 具体测量方法包括：
 
@@ -175,15 +175,15 @@ $$
 
 量子纠缠态能量通过普朗克常数进行精确量化：
 
-$$
+$`
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
-$$
+`$
 
 纠缠等效频率通过纠缠结构复杂度定义：
 
-$$
+$`
 f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 其中：
 - $`c`$ 是光速
@@ -194,15 +194,15 @@ $$
 
 经典化过程的能量效率：
 
-$$
+$`
 \eta_{\text{经典化}} = \frac{I_{\text{经典知识获得}}}{E_{\text{量子能量消耗}}}
-$$
+`$
 
 量子化过程的能量效率：
 
-$$
+$`
 \eta_{\text{量子化}} = \frac{E_{\text{量子能量获得}}}{I_{\text{经典知识消耗}}}
-$$
+`$
 
 这些能量关系解释了：
 - 观察者经典化过程需要消耗能量
@@ -234,9 +234,9 @@ $$
 
 自由意志涌现过程：
 
-$$
+$`
 |\psi\rangle_{\text{量子涨落}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
-$$
+`$
 
 意识与自由意志的辩证关系：意识通过自由意志主动经典化，同时意识本身也是经典化的结果，形成自我强化循环。
 
@@ -253,9 +253,9 @@ $$
 
 观察者间信息传递过程：
 
-$$
+$`
 I_{\text{经典知识A}}+E_{\text{能量吸收}}\rightarrow|\psi\rangle_{\text{A,B纠缠态（高熵）}}\rightarrow I_{\text{辐射经典知识}}+E_{\text{能量释放}}+S_{\text{熵降低}}\rightarrow I_{\text{经典知识B}}+E_{\text{能量吸收}}+S_{\text{熵降低}}
-$$
+`$
 
 ### 虫洞通信机制
 
@@ -273,9 +273,9 @@ $$
 
 虫洞通信守恒公式：
 
-$$
+$`
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
 #### 量子纠缠的尺度限制
 
@@ -283,15 +283,15 @@ $$
 
 - **纠缠维持时间**与系统复杂度呈反比关系：
 
-$$
+$`
 \tau_{\text{纠缠}} \propto \frac{1}{C_{\text{系统}}^{\alpha}}
-$$
+`$
 
 - **环境退相干效应**随系统尺寸指数增强：
 
-$$
+$`
 \Gamma_{\text{退相干}} \propto e^{\beta N}
-$$
+`$
 
 这解释了为何宏观物体很难观测到量子纠缠效应：大尺度系统的纠缠状态在可测量时间尺度内迅速崩塌为经典混合态。然而，特殊设计的量子系统（如超导体、玻色-爱因斯坦凝聚体）能够在宏观尺度上呈现量子相干性。
 
@@ -308,9 +308,9 @@ $$
 
 密度矩阵表示测量过程：
 
-$$
+$`
 \rho_{\text{初始}} = |\psi\rangle\langle\psi| \xrightarrow{\text{测量}} \sum_i P_i|\psi_i\rangle\langle\psi_i|
-$$
+`$
 
 这解释了量子力学中的测量问题、波粒二象性和量子不确定性原理：它们都是观察者经典化能力局限性的表现。
 
@@ -327,9 +327,9 @@ $$
 
 观察者演化趋势是宇宙演化的内在动力，推动宇宙整体向低熵终极状态发展：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
-$$
+`$
 
 ### 脑机接口与经典化效率
 
@@ -375,21 +375,21 @@ Quantum-Classical Dualism proposes a unified model of observer and black hole: e
 
 Unified relationship between observer and black hole:
 
-$$
+$`
 \text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-$$
+`$
 
 Black hole absorption (classicalization, dimension elevation):
 
-$$
+$`
 |\psi\rangle_{\text{External High Entropy}}\rightarrow I_{\text{Internal Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Absorption}}
-$$
+`$
 
 Black hole radiation (classicalization, energy release):
 
-$$
+$`
 |\psi\rangle_{\text{Internal High Entropy}}\rightarrow I_{\text{Radiated Classical Knowledge}}+S_{\text{Entropy Reduction}}+E_{\text{Energy Release}}
-$$
+`$
 
 This model explains:
 - Black hole information paradox: Information is not lost, but transforms through classicalization
@@ -406,9 +406,9 @@ Observer-black hole model characteristics:
 
 Information conservation expression:
 
-$$
+$`
 S_{\text{von Neumann}}(\rho_{\text{Initial}}) = S_{\text{von Neumann}}(\rho_{\text{Hawking Radiation}}) + S_{\text{von Neumann}}(\rho_{\text{Remaining Black Hole}})
-$$
+`$
 
 ### Observer and Gravitational Field Relationship
 
@@ -416,21 +416,21 @@ There is a close relationship between the gravitational field and the observer's
 
 Relationship between gravitational field and quantum energy density:
 
-$$
+$`
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{Quantum Energy}}
-$$
+`$
 
 Relationship between classicalization efficiency and quantum energy density:
 
-$$
+$`
 k_{\text{Classicalization Efficiency}} \propto \nabla \cdot \rho_{\text{Quantum Energy}}
-$$
+`$
 
 Relationship between space curvature and classicalization efficiency gradient:
 
-$$
+$`
 R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R \propto \nabla k_{\text{Classicalization Efficiency}}
-$$
+`$
 
 These relationships reveal:
 - High-mass regions have higher classicalization efficiency
@@ -444,9 +444,9 @@ Generalized consciousness is the overall entangled structure of classical knowle
 
 Mathematical expression of generalized consciousness:
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
+`$
 
 Characteristics of generalized consciousness:
 - Cannot be objectively measured, can only be subjectively perceived
@@ -463,35 +463,35 @@ Observer dimension is a measure of the observer's classicalization ability, dete
 
 Single classical world dimension definition:
 
-$$
+$`
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-$$
+`$
 
 Overall observer dimension definition:
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 Classicalization efficiency coefficient $`(k_i)`$ improvement:
 
-$$
+$`
 k_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
-$$
+`$
 
 Domain weight coefficient $`(w_i)`$ improvement:
 
-$$
+$`
 w_i\uparrow \quad\Leftrightarrow\quad \text{Actively optimize classicalization path (Classical Knowledge}\uparrow,\text{Classical Entropy}\downarrow)
-$$
+`$
 
 #### Dimension Quantification and Measurability
 
 Observer dimension can be quantified through the following measurable parameters:
 
-$$
+$`
 \text{Measurable Dimension}_{\text{obs}} = \frac{\text{Information Processing Rate}}{\text{Entropy Generation Rate}} \cdot \text{Decision Accuracy}
-$$
+`$
 
 Specific measurement methods include:
 
@@ -516,15 +516,15 @@ In the Quantum-Classical Dualism framework, the observer's classicalization proc
 
 Quantum entanglement state energy is precisely quantified through Planck's constant:
 
-$$
+$`
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-$$
+`$
 
 Entanglement equivalent frequency is defined through entanglement structure complexity:
 
-$$
+$`
 f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 Where:
 - $`c`$ is the speed of light
@@ -535,15 +535,15 @@ Where:
 
 Energy efficiency of the classicalization process:
 
-$$
+$`
 \eta_{\text{Classicalization}} = \frac{I_{\text{Classical Knowledge Gained}}}{E_{\text{Quantum Energy Consumed}}}
-$$
+`$
 
 Energy efficiency of the quantization process:
 
-$$
+$`
 \eta_{\text{Quantization}} = \frac{E_{\text{Quantum Energy Gained}}}{I_{\text{Classical Knowledge Consumed}}}
-$$
+`$
 
 These energy relationships explain:
 - The observer's classicalization process requires energy consumption
@@ -575,9 +575,9 @@ Relationship between free will and consciousness:
 
 Free will emergence process:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Fluctuation}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 Dialectical relationship between consciousness and free will: Consciousness actively classicalizes through free will, while consciousness itself is also the result of classicalization, forming a self-reinforcing cycle.
 
@@ -594,9 +594,9 @@ Characteristics of consciousness relationship between observers:
 
 Information transfer process between observers:
 
-$$
+$`
 I_{\text{Classical Knowledge A}}+E_{\text{Energy Absorption}}\rightarrow|\psi\rangle_{\text{A,B Entangled State (High Entropy)}}\rightarrow I_{\text{Radiated Classical Knowledge}}+E_{\text{Energy Release}}+S_{\text{Entropy Reduction}}\rightarrow I_{\text{Classical Knowledge B}}+E_{\text{Energy Absorption}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 ### Wormhole Communication Mechanism
 
@@ -614,9 +614,9 @@ Wormhole communication is the information transmission process between observers
 
 Wormhole communication conservation formula:
 
-$$
+$`
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 #### Scale Limitations of Quantum Entanglement
 
@@ -624,15 +624,15 @@ Quantum entanglement exhibits significant differences in systems of different sc
 
 - **Entanglement maintenance time** is inversely proportional to system complexity:
 
-$$
+$`
 \tau_{\text{Entanglement}} \propto \frac{1}{C_{\text{System}}^{\alpha}}
-$$
+`$
 
 - **Environmental decoherence effect** exponentially enhances with system size:
 
-$$
+$`
 \Gamma_{\text{Decoherence}} \propto e^{\beta N}
-$$
+`$
 
 This explains why quantum entanglement effects are difficult to observe in macroscopic objects: entangled states of large-scale systems rapidly collapse into classical mixed states within measurable time scales. However, specially designed quantum systems (such as superconductors, Bose-Einstein condensates) can exhibit quantum coherence at macroscopic scales.
 
@@ -649,9 +649,9 @@ Relationship between quantum observation and consciousness:
 
 Density matrix representation of the measurement process:
 
-$$
+$`
 \rho_{\text{Initial}} = |\psi\rangle\langle\psi| \xrightarrow{\text{Measurement}} \sum_i P_i|\psi_i\rangle\langle\psi_i|
-$$
+`$
 
 This explains the measurement problem, wave-particle duality, and the uncertainty principle in quantum mechanics: they are all manifestations of the limitations of the observer's classicalization ability.
 
@@ -668,9 +668,9 @@ Core mechanisms of observer evolution:
 
 Observer evolution trend is the intrinsic driving force of universe evolution, pushing the universe as a whole towards the low-entropy ultimate state:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
-$$
+`$
 
 ### Brain-Machine Interface and Classicalization Efficiency
 

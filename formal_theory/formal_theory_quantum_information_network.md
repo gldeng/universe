@@ -16,9 +16,9 @@
 
 量子信息网络定义为具有量子特性的复杂信息处理系统：
 
-$$
+$`
 \mathcal{N}_Q = (V, E, \Psi, \mathcal{T})
-$$
+`$
 
 其中：
 - $`V = \{v_i\}`$ 是网络节点集，代表量子信息处理单元
@@ -30,15 +30,15 @@ $$
 
 网络中的量子信息量可通过冯诺依曼熵定义：
 
-$$
+$`
 S(\rho) = -\text{Tr}(\rho \ln \rho)
-$$
+`$
 
 量子信息流通过相对熵流率量化：
 
-$$
+$`
 J_{i \rightarrow j} = \frac{d}{dt}S(\rho_i || \rho_j)
-$$
+`$
 
 其中 $`S(\rho_i || \rho_j) = \text{Tr}(\rho_i \ln \rho_i - \rho_i \ln \rho_j)`$ 是相对熵。
 
@@ -46,17 +46,17 @@ $$
 
 网络纠缠度通过多体纠缠度量定义：
 
-$$
+$`
 E(\mathcal{N}_Q) = \min_{\text{分割}} \sum_{i < j} S(\rho_{i:j})
-$$
+`$
 
 其中 $`S(\rho_{i:j})`$ 是节点 $`i`$ 和 $`j`$ 之间的纠缠熵。
 
 网络中的纠缠簇(cluster)定义为强纠缠连接的节点子集：
 
-$$
+$`
 C_k = \{v_i \in V | E(v_i, C_k \setminus \{v_i\}) > \epsilon\}
-$$
+`$
 
 其中 $`E(v_i, C_k \setminus \{v_i\})`$ 是节点 $`v_i`$ 与簇 $`C_k`$ 其余节点的纠缠度，$`\epsilon`$ 是纠缠阈值。
 
@@ -66,23 +66,23 @@ $$
 
 量子信息在网络中的传播遵循量子随机行走模型：
 
-$$
+$`
 |\psi(t+1)\rangle = U |\psi(t)\rangle = e^{-i H t} |\psi(t)\rangle
-$$
+`$
 
 其中 $`H`$ 是网络哈密顿量，可表示为：
 
-$$
+$`
 H = -\sum_{i,j} \gamma_{ij} (|i\rangle\langle j| + |j\rangle\langle i|)
-$$
+`$
 
 $`\gamma_{ij}`$ 是节点 $`i`$ 和 $`j`$ 之间的耦合强度。
 
 量子信息传播效率定义为：
 
-$$
+$`
 \eta_{\text{trans}} = \frac{1}{N(N-1)} \sum_{i \neq j} \frac{1}{t_{i \rightarrow j}}
-$$
+`$
 
 其中 $`t_{i \rightarrow j}`$ 是量子信息从节点 $`i`$ 传播到节点 $`j`$ 的平均时间。
 
@@ -92,25 +92,25 @@ $$
 
 1. **小世界特性**：量子信息可通过量子隧穿实现远距离快速传输
 
-$$
+$`
 L_Q \ll L_C
-$$
+`$
 
    其中 $`L_Q`$ 是量子网络平均路径长度，$`L_C`$ 是等效经典网络的平均路径长度。
 
 2. **无标度特性**：节点连接度分布遵循幂律
 
-$$
+$`
 P(k) \sim k^{-\gamma}
-$$
+`$
 
    其中 $`P(k)`$ 是度为 $`k`$ 的节点出现概率，$`\gamma`$ 是特征指数。
 
 3. **社区结构**：网络自然分化为强内聚的量子纠缠簇
 
-$$
+$`
 Q = \frac{1}{2m} \sum_{i,j} \left[A_{ij} - \frac{k_i k_j}{2m}\right] \delta(c_i, c_j)
-$$
+`$
 
    其中 $`Q`$ 是社区模块度，$`A_{ij}`$ 是邻接矩阵，$`k_i`$ 是节点 $`i`$ 的度，$`m`$ 是网络边数，$`c_i`$ 是节点 $`i`$ 的社区标签。
 
@@ -118,19 +118,19 @@ $$
 
 量子信息网络与经典信息网络之间存在转换关系，通过解相干过程实现：
 
-$$
+$`
 \mathcal{N}_C = \mathcal{D}(\mathcal{N}_Q)
-$$
+`$
 
 其中 $`\mathcal{D}`$ 是解相干算符。转换保存度分布但改变连接性质：
 
-$$
+$`
 P_C(k) = P_Q(k)
-$$
+`$
 
-$$
+$`
 \gamma_C(e_{ij}) = |\langle i | \rho_Q | j \rangle|^2
-$$
+`$
 
 其中 $`\gamma_C(e_{ij})`$ 是经典网络中边 $`e_{ij}`$ 的权重。
 
@@ -140,17 +140,17 @@ $$
 
 量子信息网络具有超越经典计算的信息处理能力，可定义为：
 
-$$
+$`
 C_Q(\mathcal{N}_Q) = \dim(\mathcal{H}_{\mathcal{N}_Q}) \cdot E(\mathcal{N}_Q)
-$$
+`$
 
 其中 $`\dim(\mathcal{H}_{\mathcal{N}_Q})`$ 是网络希尔伯特空间维数，$`E(\mathcal{N}_Q)`$ 是网络总纠缠度。
 
 网络计算速度优势定义为：
 
-$$
+$`
 S_Q = \frac{T_C}{T_Q}
-$$
+`$
 
 其中 $`T_C`$ 和 $`T_Q`$ 分别是经典和量子网络解决同一问题所需时间。
 
@@ -158,17 +158,17 @@ $$
 
 量子信息网络具有自组织能力，通过最小化量子自由能实现：
 
-$$
+$`
 F_Q = E_Q - T_Q S_Q
-$$
+`$
 
 其中 $`E_Q`$ 是网络量子能量，$`T_Q`$ 是有效量子温度，$`S_Q`$ 是网络量子熵。
 
 网络结构随外部信息输入自适应调整：
 
-$$
+$`
 \frac{d\mathcal{N}_Q}{dt} = -\eta \nabla_{\mathcal{N}_Q} F_Q + \xi(t)
-$$
+`$
 
 其中 $`\eta`$ 是适应率，$`\xi(t)`$ 是量子环境噪声。
 
@@ -176,17 +176,17 @@ $$
 
 量子信息网络可用于模拟意识和认知过程，定义意识状态为：
 
-$$
+$`
 |\Psi_{con}\rangle = \sum_i \alpha_i |\phi_i\rangle
-$$
+`$
 
 其中 $`|\phi_i\rangle`$ 是网络中的基本认知单元，$`\alpha_i`$ 是复杂振幅。
 
 认知过程可建模为网络上的量子演化：
 
-$$
+$`
 |\Psi_{con}(t)\rangle = \mathcal{U}_t |\Psi_{con}(0)\rangle
-$$
+`$
 
 其中 $`\mathcal{U}_t`$ 是时间演化算符，受知识库和外部输入共同影响。
 
@@ -196,9 +196,9 @@ $$
 
 基于量子信息网络理论，可设计下一代量子互联网架构：
 
-$$
+$`
 \mathcal{I}_Q = (\mathcal{N}_Q, \mathcal{P}_Q, \mathcal{S}_Q)
-$$
+`$
 
 其中 $`\mathcal{N}_Q`$ 是基础量子网络，$`\mathcal{P}_Q`$ 是量子通信协议集，$`\mathcal{S}_Q`$ 是量子安全机制。
 
@@ -211,17 +211,17 @@ $$
 
 量子信息网络可用于构建量子认知计算模型：
 
-$$
+$`
 \mathcal{C}_Q = (\mathcal{N}_Q, \mathcal{K}_Q, \mathcal{L}_Q)
-$$
+`$
 
 其中 $`\mathcal{N}_Q`$ 是量子网络substrate，$`\mathcal{K}_Q`$ 是量子知识表征，$`\mathcal{L}_Q`$ 是量子学习算法。
 
 认知任务性能可表示为：
 
-$$
+$`
 P(\text{task}) = f(E(\mathcal{N}_Q), S(\mathcal{N}_Q), \dim(\mathcal{H}_{\mathcal{N}_Q}))
-$$
+`$
 
 实验预测量子认知系统在以下方面具有优势：
 - 联想记忆容量增加 $`\Delta C_{assoc} \propto 2^N`$

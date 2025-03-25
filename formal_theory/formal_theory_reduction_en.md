@@ -22,9 +22,9 @@ System Reduction Theory explores how effective theories in various specialized f
 
 System reduction refers to the process of deriving effective theories for specific domains from more fundamental theories, which can be formalized as:
 
-$$
+$`
 \mathcal{R}: \mathcal{T}_{\text{fundamental}} \rightarrow \mathcal{T}_{\text{effective}}
-$$
+`$
 
 Where $`\mathcal{T}_{\text{fundamental}}`$ is the fundamental theory (such as Quantum-Classical Dualism), and $`\mathcal{T}_{\text{effective}}`$ is the effective theory in a specific scale or domain. The reduction process typically involves information compression, scale transformation, and boundary condition determination.
 
@@ -34,21 +34,21 @@ Reductions within the Quantum-Classical Dualism framework are divided into three
 
 1. **Quantum Reduction**: Preserving quantum essence while simplifying complexity
 
-$$
+$`
 \mathcal{R}_Q: \Omega_Q^{\text{complete}} \rightarrow \Omega_Q^{\text{effective}}
-$$
+`$
 
 2. **Classical Reduction**: Simplifying complexity within the classical domain
 
-$$
+$`
 \mathcal{R}_C: \Omega_C^{\text{complete}} \rightarrow \Omega_C^{\text{effective}}
-$$
+`$
 
 3. **Cross-Domain Reduction**: Deriving classical descriptions from quantum descriptions
 
-$$
+$`
 \mathcal{R}_{Q \rightarrow C}: \Omega_Q \rightarrow \Omega_C
-$$
+`$
 
 Each type of reduction corresponds to different methods of information compression and uncertainty handling mechanisms.
 
@@ -56,9 +56,9 @@ Each type of reduction corresponds to different methods of information compressi
 
 System reduction occurs across multiple scales, forming a nested hierarchical structure:
 
-$$
+$`
 \mathcal{T}_0 \xrightarrow{\mathcal{R}_1} \mathcal{T}_1 \xrightarrow{\mathcal{R}_2} \mathcal{T}_2 \xrightarrow{\mathcal{R}_3} ... \xrightarrow{\mathcal{R}_n} \mathcal{T}_n
-$$
+`$
 
 Where each $`\mathcal{T}_i`$ is an effective theory at a specific scale, and $`\mathcal{R}_i`$ is the corresponding reduction mapping.
 
@@ -70,43 +70,43 @@ This hierarchical structure can be characterized by the scale separation paramet
 
 Information-preserving reduction maintains key information during the compression process, which can be represented as:
 
-$$
+$`
 I(\mathcal{T}_{\text{fundamental}}) = I(\mathcal{T}_{\text{effective}}) + I_{\text{hidden}}
-$$
+`$
 
 Where $`I(\mathcal{T})`$ is the amount of information contained in the theory, and $`I_{\text{hidden}}`$ is the information hidden during the reduction process. The optimal reduction satisfies the condition:
 
-$$
+$`
 \mathcal{R}^* = \arg\min_{\mathcal{R}} I_{\text{hidden}} \quad \text{s.t.} \quad \mathcal{T}_{\text{effective}} = \mathcal{R}(\mathcal{T}_{\text{fundamental}})
-$$
+`$
 
 ### Coarse-Graining Mapping
 
 Coarse-graining is a core mechanism of reduction, mapping microscopic states to macroscopic states:
 
-$$
+$`
 \Pi: \mathcal{S}_{\text{micro}} \rightarrow \mathcal{S}_{\text{macro}}
-$$
+`$
 
 For quantum systems, coarse-graining can be represented as:
 
-$$
+$`
 \rho_{\text{macro}} = \text{Tr}_{\text{environment}}(\rho_{\text{micro}})
-$$
+`$
 
 For classical systems, coarse-graining can be represented as partitioning of space or state space:
 
-$$
+$`
 x_{\text{macro}} = \Pi(x_1, x_2, ..., x_N)
-$$
+`$
 
 ### Renormalization Group Method
 
 The Renormalization Group (RG) method provides a powerful tool for handling multi-scale systems:
 
-$$
+$`
 \mathcal{T}' = \mathcal{R}_{\text{RG}}(\mathcal{T})
-$$
+`$
 
 Where $`\mathcal{R}_{\text{RG}}`$ includes three steps:
 1. Coarse-graining: Partitioning the system into blocks
@@ -115,9 +115,9 @@ Where $`\mathcal{R}_{\text{RG}}`$ includes three steps:
 
 The RG flow equation can be represented as:
 
-$$
+$`
 \frac{dg_i}{dl} = \beta_i(g_1, g_2, ...)
-$$
+`$
 
 Where $`g_i`$ are coupling constants, $`l`$ is the logarithmic scale parameter, and $`\beta_i`$ are beta functions.
 
@@ -127,21 +127,21 @@ For reduction to produce meaningful higher-level theories, the following constra
 
 1. **Consistency Constraint**: The effective theory must be internally consistent
 
-$$
+$`
 \mathcal{C}_{\text{consistency}}(\mathcal{T}_{\text{effective}}) = 0
-$$
+`$
 
 2. **Robustness Constraint**: The effective theory should be insensitive to changes in microscopic details
 
-$$
+$`
 \left|\frac{\delta \mathcal{T}_{\text{effective}}}{\delta \mathcal{T}_{\text{fundamental}}}\right| < \epsilon
-$$
+`$
 
 3. **Predictability Constraint**: The effective theory must be able to make testable predictions
 
-$$
+$`
 \Delta P_{\mathcal{T}} < \Delta P_{\text{acceptable}}
-$$
+`$
 
    Where $`\Delta P_{\mathcal{T}}`$ is the uncertainty in theoretical predictions.
 
@@ -254,29 +254,29 @@ System reduction faces several principled limitations:
 
 1. **Nonlinearity Barrier**: Strongly nonlinear systems are difficult to reduce
 
-$$
+$`
 \frac{d\Psi}{dt} = f(\Psi), \quad \text{where} \quad \frac{\partial^2 f}{\partial \Psi^2} \gg 0
-$$
+`$
 
 2. **Chaos Barrier**: Chaotic systems are sensitive to initial conditions
 
-$$
+$`
 \|\delta\Psi(t)\| \approx e^{\lambda t}\|\delta\Psi(0)\|, \quad \lambda > 0
-$$
+`$
 
 3. **Multi-scale Coupling Barrier**: When multiple scales are strongly coupled
 
-$$
+$`
 \frac{L_i}{L_{i+1}} \approx 1 \quad \text{or} \quad \frac{\tau_i}{\tau_{i+1}} \approx 1
-$$
+`$
 
    Where $`L_i`$ and $`\tau_i`$ are characteristic length and time scales.
 
 4. **Interaction Complexity Barrier**: When interaction patterns are too complex
 
-$$
+$`
 I_{\text{interaction}} > I_{\text{components}}
-$$
+`$
 
 These limitations explain why certain systems are difficult to predict from basic principles.
 
@@ -286,21 +286,21 @@ Emergent properties are high-level system characteristics that cannot be directl
 
 1. **Weak Emergence**: In principle reducible, but computationally difficult in practice
 
-$$
+$`
 \mathcal{P}_{\text{weak emergence}} = \mathcal{F}(\mathcal{P}_{\text{fundamental}}), \quad \text{but} \quad \text{Comp}(\mathcal{F}) \gg 1
-$$
+`$
 
 2. **Strong Emergence**: Higher-level properties that are in principle irreducible
 
-$$
+$`
 \nexists \mathcal{F}: \mathcal{P}_{\text{strong emergence}} = \mathcal{F}(\mathcal{P}_{\text{fundamental}})
-$$
+`$
 
 3. **Causal Emergence**: Higher-level entities having causal feedback on lower-level components
 
-$$
+$`
 \mathcal{C}_{\text{higher} \rightarrow \text{lower}} \neq 0
-$$
+`$
 
 Quantum-Classical Dualism is particularly suitable for explaining strong emergence phenomena through information conversion at the quantum-classical interface.
 
@@ -310,23 +310,23 @@ Self-organizing systems demonstrate typical cases of reduction complexity:
 
 1. **Dissipative Structures**: Ordered patterns in systems far from equilibrium
 
-$$
+$`
 \frac{dS}{dt} = \frac{d_i S}{dt} + \frac{d_e S}{dt}, \quad \frac{d_i S}{dt} > 0, \quad \frac{d_e S}{dt} < 0
-$$
+`$
 
 2. **Critical Self-organization**: Systems spontaneously evolving to critical points
 
-$$
+$`
 P(s) \sim s^{-\tau}, \quad P(t) \sim t^{-\alpha}
-$$
+`$
 
    Where $`s`$ and $`t`$ are event size and duration.
 
 3. **Adaptive Complex Systems**: Systems adjusting their structure through feedback
 
-$$
+$`
 \frac{d\mathcal{S}}{dt} = \mathcal{F}(\mathcal{S}, \mathcal{E}, \mathcal{H}(\mathcal{S}, \mathcal{E}))
-$$
+`$
 
    Where $`\mathcal{S}`$ is the system state, $`\mathcal{E}`$ is the environment, and $`\mathcal{H}`$ is the historical memory function.
 
@@ -340,27 +340,27 @@ Effective cross-disciplinary reduction follows these principles:
 
 1. **Relevant Variable Identification**: Determining the essential degrees of freedom of the system
 
-$$
+$`
 \{x_i\}_{i=1}^N \rightarrow \{y_j\}_{j=1}^M, \quad M \ll N
-$$
+`$
 
 2. **Effective Dynamics Construction**: Establishing evolution equations for higher-level variables
 
-$$
+$`
 \frac{dy_j}{dt} = F_j(y_1, y_2, ..., y_M)
-$$
+`$
 
 3. **Boundary Condition Integration**: Determining system constraints
 
-$$
+$`
 G_k(y_1, y_2, ..., y_M) = 0, \quad k = 1,2,...,K
-$$
+`$
 
 4. **Validation and Correction**: Testing reduction models through predictions
 
-$$
+$`
 \|y_{\text{predicted}} - y_{\text{observed}}\| < \epsilon_{\text{acceptable}}
-$$
+`$
 
 These principles constitute a practical methodology for system reduction.
 
@@ -370,25 +370,25 @@ Modern reduction relies on advanced computational methods:
 
 1. **Multi-scale Computational Methods**: Connecting microscopic and macroscopic simulations
 
-$$
+$`
 \mathcal{M}_{\text{multi-scale}} = \{\mathcal{M}_{\text{micro}}, \mathcal{M}_{\text{meso}}, \mathcal{M}_{\text{macro}}, \Phi_{\text{up}}, \Phi_{\text{down}}\}
-$$
+`$
 
    Where $`\Phi_{\text{up}}`$ and $`\Phi_{\text{down}}`$ are information transfer functions between scales.
 
 2. **Machine Learning Reduction**: Learning effective models from data
 
-$$
+$`
 \mathcal{M}_{\text{ML}} = \arg\min_{\mathcal{M}} \mathcal{L}(\mathcal{M}(x_{\text{input}}), y_{\text{target}})
-$$
+`$
 
    Particularly suitable for empirical reduction and complex pattern recognition.
 
 3. **Symbolic Reduction**: Automatically deriving simplified equations
 
-$$
+$`
 \mathcal{S}: \{equations_{\text{complete}}\} \rightarrow \{equations_{\text{simplified}}\}
-$$
+`$
 
    Implemented through asymptotic analysis and symbolic computation.
 
@@ -400,21 +400,21 @@ Special reduction cases within the Quantum-Classical Dualism framework:
 
 1. **Quantum Decoherence Reduction**: From quantum superposition to classical probability
 
-$$
+$`
 \rho_{\text{pure}} \rightarrow \rho_{\text{mixed}} = \sum_i p_i |i\rangle\langle i|
-$$
+`$
 
 2. **Quantum-Classical Information Reduction**: Converting quantum information to classical information
 
-$$
+$`
 I_Q(\rho) \rightarrow I_C(p) + I_{\text{lost}}
-$$
+`$
 
 3. **Observer-Mediated Reduction**: Reduction through the observation process
 
-$$
+$`
 |\Psi\rangle\langle\Psi| \xrightarrow{\mathcal{C}_{\mathcal{O}}} \sum_i p_i |i\rangle\langle i|
-$$
+`$
 
 These cases demonstrate the central position of Quantum-Classical Dualism in reduction theory.
 

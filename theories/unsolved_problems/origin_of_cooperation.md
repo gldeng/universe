@@ -31,67 +31,67 @@
 
 合作行为的量子经典基础方程：
 
-$$
+$`
 C_{ij} = f\left(\frac{I_{\text{集体经典知识增益}}}{S_{\text{个体经典熵成本}}}, E_{ij}\right)
-$$
+`$
 
 其中，$`E_{ij}`$代表观察者$`i`$和$`j`$之间的量子纠缠度。
 
 集体经典化效率方程：
 
-$$
+$`
 \eta_{\text{集体}} = \frac{\sum_{i=1}^{n} I_{\text{个体}_i}}{\sum_{i=1}^{n} S_{\text{个体}_i}} \cdot g\left(\sum_{i<j} C_{ij}\right)
-$$
+`$
 
 其中，$`g`$是协作网络拓扑结构函数。
 
 合作稳定性条件：
 
-$$
+$`
 \frac{dC_{ij}}{dt} > 0 \iff \frac{I_{\text{集体纠缠收益}}}{S_{\text{个体分离成本}}} > \lambda_{\text{临界阈值}}
-$$
+`$
 
 #### 形式化解决过程
 
 1. **量子纠缠基础**：社会协作的根本基础是观察者之间的量子纠缠态（能量）关系，这种关系使经典域中的观察者能实现比个体更高效的经典化过程：
 
-$$
+$`
 |\psi\rangle_{\text{集体量子态}} = \sum_{i,j} c_{ij} |\psi_i\rangle|\psi_j\rangle \neq \sum_i |\psi_i\rangle \otimes \sum_j |\psi_j\rangle
-$$
+`$
 
    这种非分离性正是合作行为的量子基础。
 
 2. **经典化协同效应**：当多个观察者协同解码量子域信息时，出现超线性经典化效益，这是协作具有演化优势的核心原因：
 
-$$
+$`
 I_{\text{协作经典化}}(O_1, O_2, ..., O_n) > \sum_{i=1}^{n} I_{\text{独立经典化}}(O_i)
-$$
+`$
 
 3. **维度提升机制**：协作使观察者网络能够实现维度提升，解码更高维度的量子信息：
 
-$$
+$`
 D_{\text{集体维度}} = f\left(\sum_i w_i \cdot D_{\text{个体维度}_i}, \text{网络拓扑}, C_{ij}\right) > \max(D_{\text{个体维度}_i})
-$$
+`$
 
 4. **量子-经典信息桥接**：合作行为本质上是建立观察者之间的经典信息桥梁，使量子域信息能在经典域中更高效地流动和解码：
 
-$$
+$`
 |\psi\rangle_{\text{量子信息}} \xrightarrow{\text{观察者}_i} I_i + \xrightarrow{\text{合作}} I_j \leftarrow \xrightarrow{\text{观察者}_j} |\psi\rangle_{\text{量子信息}}
-$$
+`$
 
 5. **集体经典化导向场**：大规模社会协作产生集体经典化导向场，塑造个体的经典化路径：
 
-$$
+$`
 \vec{F}_{\text{经典化导向}} = \sum_{i=1}^{n} \vec{f}_i + \sum_{i<j} \vec{C}_{ij}
-$$
+`$
 
    这解释了道德直觉和社会规范的形成机制。
 
 6. **协作的混沌-稳定性证明**：协作网络的稳定性来源于其降低集体经典熵的能力：
 
-$$
+$`
 \Delta S_{\text{集体}} < \sum_i \Delta S_{\text{个体}_i} \text{ 当且仅当 } C_{ij} > \gamma_{\text{临界值}}
-$$
+`$
 
 ### 具体预测与证据
 
@@ -114,9 +114,9 @@ $$
 
 人类合作行为的特殊性源于人类观察者网络在经典化过程中的特殊位置：人类恰好处于能够感知量子纠缠效益（通过情感、共情和直觉）同时又能将其转化为稳定经典结构（通过语言、制度和文化）的临界点。
 
-$$
+$`
 |\psi\rangle_{\text{量子域无限可能}} \xrightarrow{\text{协作网络经典化}} I_{\text{集体经典知识}} + S_{\text{分配熵}}
-$$
+`$
 
 这一解决方案不仅统一了现有理论的有效洞见，还提供了合作行为的更深层物理基础，同时预测了合作系统的稳定边界和崩溃条件。量子经典二元论揭示，合作不是自然选择的偶然产物，而是观察者经典化过程的必然结果。
 
@@ -145,67 +145,67 @@ From the Quantum-Classical Dualism (Version 28.0) framework, the social cooperat
 
 Basic equation for the quantum-classical foundation of cooperative behavior:
 
-$$
+$`
 C_{ij} = f\left(\frac{I_{\text{Collective Classical Knowledge Gain}}}{S_{\text{Individual Classical Entropy Cost}}}, E_{ij}\right)
-$$
+`$
 
 where $`E_{ij}`$ represents the quantum entanglement degree between observers $`i`$ and $`j`$.
 
 Collective classicalization efficiency equation:
 
-$$
+$`
 \eta_{\text{Collective}} = \frac{\sum_{i=1}^{n} I_{\text{Individual}_i}}{\sum_{i=1}^{n} S_{\text{Individual}_i}} \cdot g\left(\sum_{i<j} C_{ij}\right)
-$$
+`$
 
 where $`g`$ is the cooperation network topology function.
 
 Cooperation stability condition:
 
-$$
+$`
 \frac{dC_{ij}}{dt} > 0 \iff \frac{I_{\text{Collective Entanglement Benefit}}}{S_{\text{Individual Separation Cost}}} > \lambda_{\text{Critical Threshold}}
-$$
+`$
 
 #### Formalized Solution Process
 
 1. **Quantum Entanglement Foundation**: The fundamental basis of social cooperation is the quantum entanglement state (energy) relationship between observers, which allows observers in the classical domain to achieve more efficient classicalization processes than individuals:
 
-$$
+$`
 |\psi\rangle_{\text{Collective Quantum State}} = \sum_{i,j} c_{ij} |\psi_i\rangle|\psi_j\rangle \neq \sum_i |\psi_i\rangle \otimes \sum_j |\psi_j\rangle
-$$
+`$
 
    This non-separability is the quantum basis of cooperative behavior.
 
 2. **Classicalization Synergy Effect**: When multiple observers collaboratively decode quantum domain information, superlinear classicalization benefits emerge, which is the core reason cooperation has evolutionary advantages:
 
-$$
+$`
 I_{\text{Collaborative Classicalization}}(O_1, O_2, ..., O_n) > \sum_{i=1}^{n} I_{\text{Independent Classicalization}}(O_i)
-$$
+`$
 
 3. **Dimension Enhancement Mechanism**: Cooperation enables observer networks to achieve dimension enhancement, decoding quantum information of higher dimensions:
 
-$$
+$`
 D_{\text{Collective Dimension}} = f\left(\sum_i w_i \cdot D_{\text{Individual Dimension}_i}, \text{Network Topology}, C_{ij}\right) > \max(D_{\text{Individual Dimension}_i})
-$$
+`$
 
 4. **Quantum-Classical Information Bridging**: Cooperative behavior is essentially establishing classical information bridges between observers, allowing quantum domain information to flow and be decoded more efficiently in the classical domain:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Information}} \xrightarrow{\text{Observer}_i} I_i + \xrightarrow{\text{Cooperation}} I_j \leftarrow \xrightarrow{\text{Observer}_j} |\psi\rangle_{\text{Quantum Information}}
-$$
+`$
 
 5. **Collective Classicalization Guidance Field**: Large-scale social cooperation produces a collective classicalization guidance field, shaping individual classicalization paths:
 
-$$
+$`
 \vec{F}_{\text{Classicalization Guidance}} = \sum_{i=1}^{n} \vec{f}_i + \sum_{i<j} \vec{C}_{ij}
-$$
+`$
 
    This explains the formation mechanisms of moral intuitions and social norms.
 
 6. **Chaos-Stability Proof of Cooperation**: The stability of the cooperation network stems from its ability to reduce collective classical entropy:
 
-$$
+$`
 \Delta S_{\text{Collective}} < \sum_i \Delta S_{\text{Individual}_i} \text{ if and only if } C_{ij} > \gamma_{\text{Critical Value}}
-$$
+`$
 
 ### Specific Predictions and Evidence
 
@@ -228,8 +228,8 @@ The origin of cooperation problem has received a formalized solution within the 
 
 The uniqueness of human cooperative behavior stems from the special position of human observer networks in the classicalization process: Humans are precisely at the critical point where they can both perceive quantum entanglement benefits (through emotions, empathy, and intuition) and transform them into stable classical structures (through language, institutions, and culture).
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain Infinite Possibilities}} \xrightarrow{\text{Cooperation Network Classicalization}} I_{\text{Collective Classical Knowledge}} + S_{\text{Distribution Entropy}}
-$$
+`$
 
 This solution not only unifies the effective insights of existing theories but also provides a deeper physical foundation for cooperative behavior, while predicting the stability boundaries and collapse conditions of cooperation systems. Quantum-classical dualism reveals that cooperation is not an accidental product of natural selection, but an inevitable result of the observer's classicalization process.

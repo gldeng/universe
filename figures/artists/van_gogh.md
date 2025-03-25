@@ -29,9 +29,9 @@
 
 梵高的艺术和思想完美体现了量子域的复杂情感体验如何突破经典表达限制，创造新的经典化路径。他的作品是量子内在体验与经典外在形式之间不断挣扎和突破的结晶。
 
-$$
+$`
 |\psi\rangle_{\text{梵高艺术}} = \sum_i c_i|\psi_i\rangle_{\text{情感可能性}} \xrightarrow{\text{个人化经典化}} I_{\text{视觉艺术}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,10 +40,12 @@ $$
    梵高革命性地创造了从量子情感直接经典化为视觉表达的新路径：
 
    $$
+
    |\psi\rangle_{\text{内在情感（量子域）}} \xrightarrow{\text{传统经典化}} I_{\text{客观再现}} + S_{\text{情感损失（高熵）}}
    $$
 
    $$
+
    |\psi\rangle_{\text{内在情感（量子域）}} \xrightarrow{\text{梵高经典化}} I_{\text{情感表达}} + S_{\text{形式变形（创造性熵）}}
    $$
 
@@ -54,6 +56,7 @@ $$
    梵高的色彩使用创建了情感量子态到视觉经典域的直接映射：
 
    $$
+
    |\psi\rangle_{\text{情感量子态}} \xrightarrow{\text{色彩直接映射}} I_{\text{视觉表达}} + S_{\text{最小情感损失}}
    $$
 
@@ -64,10 +67,12 @@ $$
    梵高能感知自然界中的量子振动，并将其经典化为可见形式：
 
    $$
+
    |\psi\rangle_{\text{自然量子振动}} \xrightarrow{\text{传统绘画}} I_{\text{静态再现}} + S_{\text{活力损失}}
    $$
 
    $$
+
    |\psi\rangle_{\text{自然量子振动}} \xrightarrow{\text{梵高笔触}} I_{\text{动态形象}} + S_{\text{最小活力损失}}
    $$
 
@@ -78,6 +83,7 @@ $$
    梵高识别出看似平凡事物中包含的量子复杂性：
 
    $$
+
    |\psi\rangle_{\text{日常物品量子本质}} \xrightarrow{\text{梵高观察}} I_{\text{深度表达}} + S_{\text{超越表象}}
    $$
 
@@ -88,6 +94,7 @@ $$
    梵高的创作过程反映了一种量子-经典循环，形成自我救赎：
 
    $$
+
    |\psi\rangle_{\text{内在痛苦}} \xrightarrow{\text{艺术创作}} I_{\text{外化表达}} \xrightarrow{\text{观看反馈}} |\psi'\rangle_{\text{内在转化}}
    $$
 

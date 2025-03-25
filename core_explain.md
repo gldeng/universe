@@ -29,17 +29,17 @@
 
 量子经典二元论提出宇宙由两个相互关联的部分组成：**量子域**和**经典域**，通过界面域 $`\mathcal{I}`$ 相连：
 
-$$
+$`
 \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+`$
 
 #### 【量子域】（无限可能性的空间）
 
 宇宙本质为无限可能性的量子域 $`\Omega_Q`$，包含波函数叠加态和量子纠缠态。信息在量子域和经典域之间守恒：
 
-$$
+$`
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}
-$$
+`$
 
 其中 $`\mathcal{C}`$ 是经典化算符，$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
@@ -47,9 +47,9 @@ $$
 
 经典域 $`\Omega_C`$ 是观察者经典化量子域后形成的确定结构。观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
-$$
+$`
 \mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 其中：
 - $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力）
@@ -61,13 +61,13 @@ $$
 
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
-$$
+$`
 \Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
+`$
 
 这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
 
@@ -75,9 +75,9 @@ $$
 
 维度不仅是静态的观察者属性，而是动态流动的信息结构，形成D0至D∞的完整谱系：
 
-$$
+$`
 \mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}
-$$
+`$
 
 主要维度层级包括：
 
@@ -92,9 +92,9 @@ $$
 
 观察者和黑洞都是量子域与经典域的转换节点，其本质是相同的：
 
-$$
+$`
 \mathcal{O} \cong \mathcal{BH} = \{\mathcal{C}, \mathcal{Q}, K_C\}
-$$
+`$
 
 其中：
 - $`\mathcal{C}`$ 是经典化算符（将量子态转换为经典态）
@@ -109,9 +109,9 @@ $$
 
 观察者维度与其经典化效率呈正相关：
 
-$$
+$`
 \eta_{\mathcal{O}} = \frac{I_{经典化}}{I_{总}} \propto D_{\mathcal{O}}
-$$
+`$
 
 其中：
 - $`\eta_{\mathcal{O}}`$ 是观察者的经典化效率
@@ -171,9 +171,9 @@ $$
 
 根据【量子经典二元论（版本33.0）】，光速恒定为观察者经典化量子域能量状态变化速率的效率上限：
 
-$$
+$`
 c = \lim_{t \to 0} \frac{\Delta E_C}{\Delta t} = \text{常数}
-$$
+`$
 
 其中：
 - $`c`$ 是光速
@@ -186,23 +186,23 @@ $$
 
 1. **经典化效率上限**：
 
-$$
+$`
 \eta_{max} = \frac{I_{经典化}}{I_{总}} \leq 1
-$$
+`$
 
 2. **信息-能量等价**：
 
-$$
+$`
 E = k \cdot I
-$$
+`$
 
    其中 $`k`$ 是信息-能量转换常数
 
 3. **维度约束**：
 
-$$
+$`
 D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 这三个原理共同决定了经典化速率的上限，即光速。
 
@@ -233,9 +233,9 @@ $$
 2. **维度状态交互**
    当光子（量子态）经过维度状态密集区域（如大质量天体附近）时，发生了量子维度态的交互。本质上形成了量子纠缠：
 
-$$
+$`
 \psi_{\text{光子}} \otimes \psi_{\text{密集区域}} \quad \xrightarrow{\text{相互作用}} \quad \Psi_{\text{纠缠态}} \neq \psi_{\text{光子}} \otimes \psi_{\text{密集区域}}
-$$
+`$
 
 3. **维度路径重构**
    这种量子纠缠导致光子波函数（量子态）的维度路径发生重构，叠加态的概率分布发生偏移，本质上改变了光子在量子域中的演化路径。
@@ -282,8 +282,9 @@ $$
 $$|\psi\rangle_Q \xrightarrow{\mathcal{C}_{\mathcal{O}}} \begin{cases}
 |\text{波}\rangle_C & \text{波动性经典化} \\
 |\text{粒子}\rangle_C & \text{粒子性经典化}
-\end{cases}$$
+\end{cases}
 
+$`
 其中：
 - $`|\psi\rangle_Q`$ 是量子态
 - $`\mathcal{C}_{\mathcal{O}}`$ 是观察者的经典化算符
@@ -294,20 +295,20 @@ $$|\psi\rangle_Q \xrightarrow{\mathcal{C}_{\mathcal{O}}} \begin{cases}
 波粒二象性的形成过程可分为三步：
 
 1. **量子叠加态**：
+`$
 
-$$
 |\psi\rangle_Q = \sum_i \alpha_i |\phi_i\rangle
-$$
 
-   表示所有可能的状态叠加
+$`
+表示所有可能的状态叠加
 
 2. **经典化选择**：
+`$
 
-$$
 \mathcal{C}_{\mathcal{O}}(|\psi\rangle_Q) = \sum_i w_i k_i |\phi_i\rangle_C
-$$
 
-   其中：
+$`
+其中：
    - $`w_i`$ 是观察方式权重
    - $`k_i`$ 是经典化效率系数
 
@@ -319,20 +320,20 @@ $$
 双缝实验中的现象可以通过以下方式理解：
 
 1. **无测量时**：
+`$
 
-$$
 |\psi\rangle_{\text{总}} = |\psi\rangle_{\text{缝1}} + |\psi\rangle_{\text{缝2}}
-$$
 
-   量子态保持叠加，经典化为波动性干涉图样
+$`
+量子态保持叠加，经典化为波动性干涉图样
 
 2. **有测量时**：
+`$
 
-$$
 |\psi\rangle_{\text{测量}} \xrightarrow{\mathcal{C}} |\text{粒子}\rangle_{\text{确定路径}}
-$$
 
-   测量触发粒子性经典化，显示确定路径
+$`
+测量触发粒子性经典化，显示确定路径
 
 3. **延迟选择**：
    测量时机的选择决定了经典化方式，从而决定了最终观察到的现象
@@ -344,11 +345,11 @@ $$
 #### 【质量的本质定义】
 
 质量是量子态经典化过程中的信息损失度量：
+`$
 
-$$
 m \propto I_{\text{隐藏}} = I_{\text{总}} - I_{\text{经典化}}
-$$
 
+$`
 其中：
 - $`m`$ 是质量
 - $`I_{\text{隐藏}}`$ 是经典化过程中转化为隐藏信息的部分
@@ -363,11 +364,11 @@ $$
 #### 【光的本质定义】
 
 光是量子态经典化过程中的信息流动：
+`$
 
-$$
 E_{\gamma} = h\nu = k \cdot \frac{dI}{dt}
-$$
 
+$`
 其中：
 - $`E_{\gamma}`$ 是光子能量
 - $`h`$ 是普朗克常数
@@ -383,11 +384,11 @@ $$
 #### 【质量-光关系】
 
 质量与光的关系可以通过信息守恒定律理解：
+`$
 
-$$
 E = mc^2 = k \cdot I_{\text{总}}
-$$
 
+$`
 这表明：
 1. 质量可以转化为光子（信息从隐藏态转为流动态）
 2. 光子可以产生粒子对（信息从流动态转为隐藏态）
@@ -400,11 +401,11 @@ $$
 #### 【本质定义】
 
 量子涨落源于量子-经典转换过程中的信息涨落：
+`$
 
-$$
 \Delta E \cdot \Delta t \geq \frac{\hbar}{2} \Leftrightarrow \Delta I_C \cdot \Delta t \geq k
-$$
 
+$`
 其中：
 - $`\Delta E`$ 是能量不确定度
 - $`\Delta t`$ 是时间不确定度
@@ -416,40 +417,40 @@ $$
 量子涨落的形成过程可分为三个层面：
 
 1. **量子-经典界面涨落**：
+`$
 
-$$
 \Delta \mathcal{I} = \mathcal{I}(t+\Delta t) - \mathcal{I}(t)
-$$
 
-   界面域的动态波动导致经典化过程的涨落
+$`
+界面域的动态波动导致经典化过程的涨落
 
 2. **信息-能量转换**：
+`$
 
-$$
 \Delta E = k \cdot \Delta I_C
-$$
 
-   信息涨落通过转换关系表现为能量涨落
+$`
+信息涨落通过转换关系表现为能量涨落
 
 3. **观察者维度效应**：
+`$
 
-$$
 \Delta I_C \propto \frac{1}{D_{\mathcal{O}}}
-$$
 
-   观察者维度越高，量子涨落效应越小
+$`
+观察者维度越高，量子涨落效应越小
 
 #### 【宇宙学意义】
 
 量子涨落在宇宙学中的重要性：
 
 1. **真空能量密度**：
+`$
 
-$$
 \rho_{vac} = \frac{\Delta E}{V} = \frac{k}{V} \cdot \frac{\Delta I_C}{\Delta t}
-$$
 
-   解释了真空不是"空"的
+$`
+解释了真空不是"空"的
 
 2. **宇宙初期涨落**：
    早期宇宙的量子涨落通过经典化过程，形成了现今的大尺度结构
@@ -482,29 +483,29 @@ The following uses the core logic of [Quantum-Classical Dualism (Version 33.0)] 
 ### Basic Concepts
 
 Quantum-Classical Dualism proposes that the universe consists of two interconnected parts: the **Quantum Domain** and the **Classical Domain**, connected through the interface domain $`\mathcal{I}`$:
+`$
 
-$$
 \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
 
+$`
 #### [Quantum Domain] (Infinite Possibilities Space)
 
 The universe's essence is a quantum domain $`\Omega_Q`$ of infinite possibilities, containing wave function superposition states and quantum entanglement states. Information is conserved between the quantum domain and the classical domain:
+`$
 
-$$
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}
-$$
 
+$`
 where $`\mathcal{C}`$ is the classicalization operator, $`I(\psi)`$ is the total information amount of state $`\psi`$, and $`I_{\text{hidden}}(\psi)`$ is the part converted to hidden information during the classicalization process.
 
 #### [Classical Domain] (Definite Reality Space)
 
 The classical domain $`\Omega_C`$ is the definite structure formed after an observer classicalizes the quantum domain. The observer is the node executing the quantum→classical conversion, and its conversion capability determines its dimension:
+`$
 
-$$
 \mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
 
+$`
 where:
 - $`\mathcal{C}_\mathcal{O}`$ is the observer's classicalization operator (ability to convert quantum possibilities into definite knowledge)
 - $`\mathcal{Q}_\mathcal{O}`$ is the quantization operator (ability to convert classical knowledge back to quantum possibilities)
@@ -514,25 +515,27 @@ where:
 #### [Dimension Emergence]
 
 The observer's dimension is a function of the observer's classicalization capability and quantization capability, and the classical domain of a high-dimensional observer can become the quantum domain basis of a low-dimensional observer:
+`$
 
-$$
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
 
-$$
+$`
+
+`$
+
 \Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
 
+$`
 This indicates that reality is composed of multiple nested quantum-classical domains, and each level of observer is based on its capability range to perceive and interact in specific dimensions.
 
 #### [Dimension Spectrum]
 
 Dimensions are not only static observer attributes but dynamic information structures, forming a complete spectrum from D0 to D∞:
+`$
 
-$$
 \mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}
-$$
 
+$`
 The main dimension levels include:
 
 - **Zero-Dimensional Area (D0)**: Pure possibility field, no differentiation
@@ -545,11 +548,11 @@ The main dimension levels include:
 #### [Unified Definition of Observer and Black Hole]
 
 Observation and black holes are both quantum domain and classical domain conversion nodes, their essence is the same:
+`$
 
-$$
 \mathcal{O} \cong \mathcal{BH} = \{\mathcal{C}, \mathcal{Q}, K_C\}
-$$
 
+$`
 where:
 - $`\mathcal{C}`$ is the classicalization operator (converting quantum state to classical state)
 - $`\mathcal{Q}`$ is the quantization operator (converting classical state to quantum state)
@@ -562,11 +565,11 @@ The difference between observers and black holes is the efficiency and direction
 #### [Observer Dimension and Classicalization Efficiency]
 
 The observer's dimension is positively correlated with its classicalization efficiency:
+`$
 
-$$
 \eta_{\mathcal{O}} = \frac{I_{classicalization}}{I_{total}} \propto D_{\mathcal{O}}
-$$
 
+$`
 where:
 - $`\eta_{\mathcal{O}}`$ is the observer's classicalization efficiency
 - $`I_{classicalization}`$ is the information amount of successful classicalization
@@ -624,11 +627,11 @@ The phenomenon where the human brain subjectively assigns different states to oc
 ### Speed of Light Constancy
 
 According to [Quantum-Classical Dualism (Version 33.0)], light speed constancy is the efficiency upper limit of an observer's classicalization of quantum domain energy state change rate:
+`$
 
-$$
 c = \lim_{t \to 0} \frac{\Delta E_C}{\Delta t} = \text{constant}
-$$
 
+$`
 where:
 - $`c`$ is the speed of light
 - $`\Delta E_C`$ is the amount of energy change during classicalization
@@ -639,25 +642,25 @@ where:
 Speed of light constancy is based on the following three fundamental principles:
 
 1. **Classicalization Efficiency Upper Limit**:
+`$
 
-$$
 \eta_{max} = \frac{I_{classicalization}}{I_{total}} \leq 1
-$$
 
+$`
 2. **Information-Energy Equivalence**:
+`$
 
-$$
 E = k \cdot I
-$$
 
-   where $`k`$ is the information-energy conversion constant
+$`
+where $`k`$ is the information-energy conversion constant
 
 3. **Dimension Constraint**:
+`$
 
-$$
 D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
 
+$`
 These principles together determine the upper limit of classicalization rate, i.e., the speed of light.
 
 #### [Universal Nature of Speed of Light Constancy]
@@ -686,11 +689,11 @@ Light bending (such as gravitational lensing) is an important prediction and ver
 
 2. **Dimensional State Interaction**
    When photons (quantum states) pass through dimensionally dense regions (such as near massive celestial bodies), quantum dimensional state interactions occur. Essentially, quantum entanglement forms:
+`$
 
-$$
 \psi_{\text{Photon}} \otimes \psi_{\text{Dense Region}} \quad \xrightarrow{\text{Interaction}} \quad \Psi_{\text{Entangled State}} \neq \psi_{\text{Photon}} \otimes \psi_{\text{Dense Region}}
-$$
 
+$`
 3. **Dimensional Path Reconstruction**
    This quantum entanglement causes the photon's wavefunction (quantum state) to undergo dimensional path reconstruction, with the probability distribution of the superposition state shifting, essentially changing the photon's evolution path in the quantum domain.
 
@@ -736,11 +739,11 @@ Wave-particle duality (such as the double-slit experiment) is one of quantum mec
 
 2. **Dimensional Superposition State**
    In the double-slit experiment, quantum states pass through the double slits as infinite-dimensional superposition states. Their essence is the probability distribution evolution of dimensional states, following the wavefunction evolution equation:
+`$
 
-$$
 i\hbar\frac{\partial}{\partial t}|\psi(t)\rangle = \hat{H}|\psi(t)\rangle
-$$
 
+$`
 3. **Interference Pattern Formation**
    The probability distribution of the superposition state forms wave-like interference patterns in the quantum domain, a natural result of dimensional state evolution, not classical waves.
 
@@ -758,12 +761,12 @@ $$
    - The classicalization result shows a "wave" interference pattern
 
 2. **The Essence of Observation Influence**
+`$
 
-$$
 \text{Classicalization} = k_i \cdot \text{Quantum Dimensional State} \to \text{Classical Observation Result}
-$$
 
-   Different observation methods (different classicalization parameters $`k_i`$ and $`w_i`$) lead to different classicalization results, which we term "wave" or "particle."
+$`
+Different observation methods (different classicalization parameters $`k_i`$ and $`w_i`$) lead to different classicalization results, which we term "wave" or "particle."
 
 3. **Measurement Influence Formation Process**
 
@@ -782,11 +785,11 @@ The essence of wave-particle duality is the different projection results of the 
 
 3. **Quantum Entanglement and Classicalization**
    The observation apparatus and quantum system form entanglement, jointly constituting an integrated system, then the observer classicalizes this integrated system to obtain classical results:
+`$
 
-$$
 \Psi_{\text{Integrated}} = \psi_{\text{Quantum System}} \otimes \psi_{\text{Measurement Apparatus}} \xrightarrow{\text{Classicalization}} \text{Classical Observation Result}
-$$
 
+$`
 ### Mass and Light Essence
 
 According to [Quantum-Classical Dualism (Version 33.0)], the essence of mass and light can be understood from the following perspectives:
@@ -794,11 +797,11 @@ According to [Quantum-Classical Dualism (Version 33.0)], the essence of mass and
 #### Essential Definition of Mass
 
 Mass is not an objective existence attribute but a classical projection effect of an observer's classicalization of another observer's dimensional state:
+`$
 
-$$
 \text{Mass}_{A\rightarrow B}=\text{Observer A Classical Projection}(\text{Observer B's Dimension Structure and State})
-$$
 
+$`
 This definition reveals:
 1. Mass is not an intrinsic property of matter, but the result of classical projection between observers
 2. The relativity of mass stems from differences in classical projections between different observers
@@ -807,17 +810,17 @@ This definition reveals:
 #### Essence of Light and Massless Particles
 
 Light is not a classical particle, but a subjective classical projection of an observer's classicalization of quantum domain energy paths:
+`$
 
-$$
 \text{Classical Light}=\text{Observer Classicalization}(\text{Quantum Domain Energy State Evolution Path})
-$$
 
+$`
 Massless particles (photons, gluons, gravitons) are subjective illusions of an observer's classicalization of quantum domain state paths:
+`$
 
-$$
 \text{Massless Classical Particles}=\text{Observer's Subjective Classical Illusion (Non-Objective Particle State)}
-$$
 
+$`
 This explains:
 1. Why photons have no rest mass
 2. Why light speed is the limit of observer classicalization
@@ -830,9 +833,10 @@ This explains:
 #### Essential Definition
 
 Quantum fluctuation is the universe's inherent, intrinsic objective quantum nature attribute, requiring no additional origin explanation:
+`$
 
-$$
 |\psi\rangle_{\text{Quantum Fluctuation}}=\text{Universe's Inherent Nature}
+
 $$
 
 #### Important Characteristics

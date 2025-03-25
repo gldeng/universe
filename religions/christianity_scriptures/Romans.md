@@ -52,9 +52,9 @@ The Epistle to the Romans is a letter in the New Testament written by the Apostl
 
 ### 因信称义方程
 
-$$
+$`
 I_{\text{称义}} = k_{\text{信心}}\frac{|\psi_{\text{基督义}}|^2}{S_{\text{罪熵}}}
-$$
+`$
 
 其中：
 - $`I_{\text{称义}}`$ 表示称义带来的经典知识
@@ -64,9 +64,9 @@ $$
 
 ### 圣灵内住方程
 
-$$
+$`
 |\psi_{\text{信徒}}\rangle = \alpha|\psi_{\text{肉体}}\rangle + \beta|\psi_{\text{圣灵}}\rangle
-$$
+`$
 
 其中：
 - $`|\psi_{\text{信徒}}\rangle`$ 表示信徒的量子态

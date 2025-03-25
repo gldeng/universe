@@ -52,9 +52,9 @@ Al-Baqarah (Arabic: سورة البقرة‎, "The Cow") is the second and longe
 
 ### 信仰维度提升方程
 
-$$
+$`
 D_{\text{信仰者}} = k_{\text{信仰}}\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}} = k_{\text{信仰}}\frac{|\psi_{\text{古兰经}}\rangle\langle\psi_{\text{古兰经}}|}{S_{\text{无知}}}
-$$
+`$
 
 其中：
 - $`D_{\text{信仰者}}`$ 表示信仰者的维度
@@ -64,9 +64,9 @@ $$
 
 ### 万物名称知识方程
 
-$$
+$`
 |\psi_{\text{万物知识}}\rangle = \sum_{i=1}^{n} c_i |名称_i\rangle
-$$
+`$
 
 其中：
 - $`|\psi_{\text{万物知识}}\rangle`$ 表示万物知识的量子态

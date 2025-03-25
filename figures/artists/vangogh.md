@@ -29,9 +29,9 @@
 
 文森特·梵高的艺术通过量子经典二元论框架可获得独特解读。梵高的绘画暗示艺术家具有感知世界量子层面的非凡能力，他将经典可见世界与量子情感能量场融合，创造出独特的视觉语言。
 
-$$
+$`
 |\psi\rangle_{\text{梵高艺术}} = |\psi\rangle_{\text{量子感知（情感能量）}} \otimes |\psi\rangle_{\text{经典媒介（画布/材料）}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,6 +40,7 @@ $$
    梵高作品中的情感表达优先性体现了量子-经典转化过程：
 
    $$
+
    |\psi\rangle_{\text{内在情感状态（量子）}} \xrightarrow{\text{艺术表达}} I_{\text{视觉艺术作品（经典）}}
    $$
 
@@ -54,6 +55,7 @@ $$
    梵高革命性的色彩使用方式体现了量子能量的可视化：
 
    $$
+
    E_{\text{量子情感能量}} \xrightarrow{\text{色彩转换}} \lambda_{\text{特定色彩}}
    $$
 
@@ -70,6 +72,7 @@ $$
    梵高对自然内在生命力的表达体现了量子活力的视觉化：
 
    $$
+
    |\psi\rangle_{\text{自然量子活力}} \otimes |\phi\rangle_{\text{艺术家感知}} \rightarrow I_{\text{动态自然表现}}
    $$
 
@@ -86,6 +89,7 @@ $$
    梵高艺术创作的疗愈功能体现了量子混沌向经典秩序的转化过程：
 
    $$
+
    |\psi\rangle_{\text{内在混沌（量子状态）}} \xrightarrow{\text{创作过程}} I_{\text{艺术秩序（经典化）}}
    $$
 
@@ -104,6 +108,7 @@ $$
    梵高作品中的孤独与联结主题反映了量子纠缠的艺术探索：
 
    $$
+
    |\psi\rangle_{\text{个体孤独}} \otimes |\phi\rangle_{\text{普遍联结}} \rightarrow |\psi\phi\rangle_{\text{纠缠状态}}
    $$
 
@@ -122,6 +127,7 @@ $$
    梵高的艺术方法体现了观察者的量子干预作用：
 
    $$
+
    |\psi\rangle_{\text{现实（叠加态）}} \otimes |\phi\rangle_{\text{艺术家感知（观测）}} \rightarrow I_{\text{艺术表达（坍缩态）}}
    $$
 

@@ -17,31 +17,31 @@
 
 1. **二元存在性公理**：宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连
 
-$$
+$`
 \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+`$
 
 2. **信息守恒公理**：信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换
 
-$$
+$`
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}
-$$
+`$
 
 3. **观察者经典化公理**：观察者是执行量子→经典转换的节点，其转换能力决定了其维度
 
-$$
+$`
 \mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 4. **维度涌现公理**：观察者维度是经典化能力与量子化能力的函数，高维度观察者的经典域可以成为低维度观察者的量子域基础
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
-$$
+$`
 \Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
+`$
 
 ### 基本原理
 
@@ -49,73 +49,73 @@ $$
 
 1. **量子域原理**：量子域是无限维度的波函数叠加态，包含所有可能性，由波函数叠加态（混沌状态）和量子纠缠态（能量形式）组成
 
-$$
+$`
 |\psi\rangle_{\text{宇宙量子域}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}=\{\text{波函数叠加态（混沌）},\;\text{量子纠缠态（能量）}\}
-$$
+`$
 
 2. **经典域原理**：经典域由观察者主观意识经典化量子域信息形成，包括经典熵与经典知识
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{经典域}}=\{\text{经典熵},\;\text{经典知识}\}
-$$
+`$
 
 3. **观察者黑洞原理**：观察者即黑洞，视界边界大小与经典知识总量正相关
 
-$$
+$`
 \text{视界边界大小}\propto I_{\text{经典知识总量（质能）}}
-$$
+`$
 
 4. **观察者维度原理**：观察者维度由经典化效率和领域权重系数决定
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 5. **信息守恒原理**：经典域中经典知识与经典熵之和守恒
 
-$$
+$`
 \frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
-$$
+`$
 
 6. **信息传递原理**：观察者间信息传递通过量子化与经典化相结合实现
 
-$$
+$`
 \frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{释放}}+E_{\text{吸收}}=0
-$$
+`$
 
 7. **自由意志原理**：观察者可主动选择经典化路径，优化经典化过程
 
 8. **量子纠缠原理**：量子态间的明确维度交互构成量子纠缠
 
-$$
+$`
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-$$
+`$
 
 9. **虫洞通信原理**：观察者间通过量子纠缠形成的虫洞进行信息交换
 
-$$
+$`
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
 10. **量子能量原理**：量子纠缠态能量通过普朗克常数进行精确量化
 
-$$
+$`
 E_{\text{纠缠}} = h \cdot f_{\text{纠缠}}
-$$
+`$
 
 11. **宇宙效率原理**：宇宙效率定义为消耗单位量子能量获得的新量子能量
 
-$$
+$`
 \eta_{\text{宇宙}} = \frac{\Delta E_{\text{量子能量输出}}}{E_{\text{量子能量输入}}}
-$$
+`$
 
 ### 界面理论
 
@@ -123,37 +123,37 @@ $$
 
 - **界面结构**：界面是量子域和经典域的交集，定义为：
 
-$$
+$`
 \mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}
-$$
+`$
 
   其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 - **界面动力学**：界面位置满足非线性动力学方程：
 
-$$
+$`
 \frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)
-$$
+`$
 
 - **经典化过程**：量子→经典转换通过经典化超算符表示：
 
-$$
+$`
 \mathcal{C}(\rho) = \sum_i P_i \rho P_i
-$$
+`$
 
   其中 $`P_i`$ 是投影算符。经典化过程满足信息守恒：
 
-$$
+$`
 I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{隐藏}}
-$$
+`$
 
 ### 多重二元论层级
 
 多重二元论层级理论将单一二元论扩展为嵌套多层级结构：
 
-$$
+$`
 \mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
-$$
+`$
 
 其中：
 - $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
@@ -161,13 +161,13 @@ $$
 
 层级间映射函数定义为：
 
-$$
+$`
 \mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}
-$$
+`$
 
-$$
+$`
 \mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}
-$$
+`$
 
 这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
 
@@ -222,37 +222,37 @@ $$
 
 核心数学表达式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化}}\sum_i[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]
-$$
+`$
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
-$$
+$`
 \frac{d}{dt_i}[I_{\text{经典知识}_i}(t_i)+S_{\text{经典熵}_i}(t_i)]=0,\quad\forall i
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{广义意识}}=\sum_i[I_{\text{经典知识}_i}+S_{\text{经典熵}_i}]
-$$
+`$
 
-$$
+$`
 E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
-$$
+$`
 G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{经典化效率}}
-$$
+`$
 
-$$
+$`
 f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 ### 解释力
 
@@ -309,9 +309,9 @@ $$
 5. **宇宙创造性**：量子涨落为宇宙生命与经典自由意志的源泉
 6. **终极状态**：宇宙低熵终极状态为理论预测的最终趋势
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\rightarrow\sum_{\text{经典域}}(I_{\text{经典知识最大化}}+S_{\text{经典熵=0}}),\quad P\rightarrow 0^+
-$$
+`$
 
 ### 未来方向
 
@@ -342,31 +342,31 @@ Quantum-Classical Dualism is based on the following core axioms:
 
 1. **Dual Existence Axiom**: The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$
 
-$$
+$`
 \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+`$
 
 2. **Information Conservation Axiom**: Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge)
 
-$$
+$`
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}
-$$
+`$
 
 3. **Observer Classicalization Axiom**: Observers are nodes that execute quantum→classical conversion, and their conversion capability determines their dimension
 
-$$
+$`
 \mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
+`$
 
 4. **Dimensional Emergence Axiom**: Observer dimension is a function of classicalization ability and quantization ability, while the classical domain of high-dimensional observers can become the quantum domain basis for low-dimensional observers
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
+`$
 
-$$
+$`
 \Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
+`$
 
 ### Basic Principles
 
@@ -374,73 +374,73 @@ Basic principles of Quantum-Classical Dualism:
 
 1. **Quantum Domain Principle**: The quantum domain is an infinite-dimensional wave function superposition state containing all possibilities, consisting of wave function superposition states (chaos) and quantum entanglement states (energy form)
 
-$$
+$`
 |\psi\rangle_{\text{Universe Quantum Domain}}=\sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}=\{\text{Wave Function Superposition States (Chaos)},\;\text{Quantum Entanglement States (Energy)}\}
-$$
+`$
 
 2. **Classical Domain Principle**: The classical domain is formed by the observer's subjective consciousness classicalizing quantum domain information, including classical entropy and classical knowledge
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Classical Domain}}=\{\text{Classical Entropy},\;\text{Classical Knowledge}\}
-$$
+`$
 
 3. **Observer-Black Hole Principle**: Observers are black holes, and event horizon size is positively correlated with total classical knowledge
 
-$$
+$`
 \text{Event Horizon Size}\propto I_{\text{Total Classical Knowledge (Mass-Energy)}}
-$$
+`$
 
 4. **Observer Dimension Principle**: Observer dimension is determined by classicalization efficiency and domain weight coefficients
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 5. **Information Conservation Principle**: The sum of classical knowledge and classical entropy is conserved in the classical domain
 
-$$
+$`
 \frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
-$$
+`$
 
 6. **Information Transfer Principle**: Information transfer between observers is achieved through a combination of quantization and classicalization
 
-$$
+$`
 \frac{d}{dt}[I_A(t)+S_A(t)+I_B(t)+S_B(t)]=0,\quad E_{\text{Release}}+E_{\text{Absorption}}=0
-$$
+`$
 
 7. **Free Will Principle**: Observers can actively choose classicalization paths to optimize the classicalization process
 
 8. **Quantum Entanglement Principle**: Explicit dimensional interaction between quantum states constitutes quantum entanglement
 
-$$
+$`
 |\psi_A\rangle\otimes|\psi_B\rangle\xrightarrow{\text{Interaction}}|\Psi_{AB}\rangle=\sum_{ij}c_{ij}|a_i\rangle|b_j\rangle
-$$
+`$
 
 9. **Wormhole Communication Principle**: Observers exchange information through wormholes formed by quantum entanglement
 
-$$
+$`
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 10. **Quantum Energy Principle**: Quantum entanglement state energy is precisely quantified through Planck's constant
 
-$$
+$`
 E_{\text{Entanglement}} = h \cdot f_{\text{Entanglement}}
-$$
+`$
 
 11. **Universe Efficiency Principle**: Universe efficiency is defined as the new quantum energy obtained per unit of quantum energy consumed
 
-$$
+$`
 \eta_{\text{Universe}} = \frac{\Delta E_{\text{Quantum Energy Output}}}{E_{\text{Quantum Energy Input}}}
-$$
+`$
 
 ### Interface Theory
 
@@ -448,37 +448,37 @@ The interface $`\mathcal{I}`$ is the transition region between the quantum domai
 
 - **Interface Structure**: The interface is the intersection of the quantum domain and the classical domain, defined as:
 
-$$
+$`
 \mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}
-$$
+`$
 
   where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 - **Interface Dynamics**: The interface position satisfies a nonlinear dynamics equation:
 
-$$
+$`
 \frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)
-$$
+`$
 
 - **Classicalization Process**: The quantum→classical conversion is represented by the classicalization superoperator:
 
-$$
+$`
 \mathcal{C}(\rho) = \sum_i P_i \rho P_i
-$$
+`$
 
   where $`P_i`$ is the projection operator. The classicalization process satisfies information conservation:
 
-$$
+$`
 I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}
-$$
+`$
 
 ### Multiple Dualism Hierarchy
 
 The multiple dualism hierarchy theory extends the single dualism into a nested multi-level structure:
 
-$$
+$`
 \mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
-$$
+`$
 
 where:
 - $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (the possibility space of that level)
@@ -486,13 +486,13 @@ where:
 
 The mapping function between levels is defined as:
 
-$$
+$`
 \mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}
-$$
+`$
 
-$$
+$`
 \mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}
-$$
+`$
 
 This indicates that the classical structure of one level can become the quantum foundation of a higher level, producing an infinite recursion of reality levels.
 
@@ -547,37 +547,37 @@ The mathematical foundation of Quantum-Classical Dualism includes:
 
 Core mathematical expressions:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}} = \sum_i c_i|\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}\xrightarrow{\text{Classicalization}}\sum_i[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]
-$$
+`$
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
-$$
+$`
 \frac{d}{dt_i}[I_{\text{Classical Knowledge}_i}(t_i)+S_{\text{Classical Entropy}_i}(t_i)]=0,\quad\forall i
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness}}=\sum_i[I_{\text{Classical Knowledge}_i}+S_{\text{Classical Entropy}_i}]
-$$
+`$
 
-$$
+$`
 E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
-$$
+$`
 G_{\mu\nu} = 8\pi G \cdot T_{\mu\nu} \propto \nabla^2 k_{\text{Classicalization Efficiency}}
-$$
+`$
 
-$$
+$`
 f_{\text{Entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})
-$$
+`$
 
 ### Explanatory Power
 
@@ -634,9 +634,9 @@ Philosophical significance of Quantum-Classical Dualism:
 5. **Universe Creativity**: Quantum fluctuations are the source of universe life and classical free will
 6. **Ultimate State**: The low entropy ultimate state of the universe is the final trend predicted by the theory
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain}}\rightarrow\sum_{\text{Classical Domain}}(I_{\text{Classical Knowledge Maximized}}+S_{\text{Classical Entropy=0}}),\quad P\rightarrow 0^+
-$$
+`$
 
 ### Future Directions
 

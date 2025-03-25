@@ -29,9 +29,9 @@
 
 弗里达·卡罗的艺术创作体现了量子域内在体验与经典域外在表达之间的深刻张力。她的作品是量子身体感受、文化身份与政治信念在经典视觉平面上的复合投影，创造了一种独特的量子-经典艺术语言。
 
-$$
+$`
 |\psi\rangle_{\text{卡罗艺术}} = \sum_i c_i|\psi_i\rangle_{\text{内在量子体验}} \xrightarrow{\text{视觉经典化}} I_{\text{自画像}} + S_{\text{符号复杂性}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,10 +40,12 @@ $$
    卡罗实现了从量子痛苦体验到经典视觉表达的独特转化路径：
 
    $$
+
    |\psi\rangle_{\text{身体痛苦（量子体验）}} \xrightarrow{\text{传统医学叙事}} I_{\text{临床描述}} + S_{\text{主观体验损失}}
    $$
 
    $$
+
    |\psi\rangle_{\text{身体痛苦（量子体验）}} \xrightarrow{\text{卡罗视觉语言}} I_{\text{象征性表达}} + S_{\text{情感保存}}
    $$
 
@@ -54,6 +56,7 @@ $$
    卡罗的身份探索展现了量子叠加状态在自我认同中的体现：
 
    $$
+
    |\psi\rangle_{\text{卡罗身份}} = c_1|\psi\rangle_{\text{墨西哥}} + c_2|\psi\rangle_{\text{欧洲}} + c_3|\psi\rangle_{\text{女性}} + c_4|\psi\rangle_{\text{男性}} + ...
    $$
 
@@ -64,6 +67,7 @@ $$
    卡罗的政治与艺术纠缠代表了观察者与系统之间的量子纠缠关系：
 
    $$
+
    |\psi\rangle_{\text{政治信念}} \otimes |\psi\rangle_{\text{艺术创作}} \rightarrow |\psi\rangle_{\text{政治艺术纠缠}}
    $$
 
@@ -74,6 +78,7 @@ $$
    卡罗的文化复兴实践展示了文化符号的量子-经典循环过程：
 
    $$
+
    I_{\text{前哥伦比亚符号（经典）}} \xrightarrow{\text{殖民断裂}} S_{\text{文化熵增}} \xrightarrow{\text{卡罗再生}} |\psi'\rangle_{\text{文化新生（量子）}} \xrightarrow{\text{艺术表达}} I'_{\text{新文化符号（经典）}}
    $$
 
@@ -84,10 +89,12 @@ $$
    卡罗对女性自主再现的探索是对量子观察者角色的根本重构：
 
    $$
+
    |\psi\rangle_{\text{女性}} \xrightarrow{\text{传统艺术}} I_{\text{被观察客体}} + S_{\text{主体性丧失}}
    $$
 
    $$
+
    |\psi\rangle_{\text{卡罗}} \xrightarrow{\text{自画像系列}} I_{\text{观察者+被观察者}} + S_{\text{创造性张力}}
    $$
 

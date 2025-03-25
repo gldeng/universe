@@ -35,9 +35,9 @@ This section outlines experiments to test the basic principles of quantum-classi
 **Expected Results**:
 - Interference visibility $`V`$ and classical path information $`K`$ should satisfy:
 
-$$
+$`
 V = V_0 \sqrt{1 - \left(\frac{K}{K_0}\right)^2}
-$$
+`$
 
 - Unlike standard quantum mechanics, the dualism framework predicts deviations from this relationship at specific coupling strengths
 
@@ -59,9 +59,9 @@ $$
 **Expected Results**:
 - Interface decoupling efficiency $`\eta`$ should relate to coherence recovery:
 
-$$
+$`
 C_{recovered} = C_{initial} \cdot \eta - \alpha \cdot t_{delay}
-$$
+`$
 
   where $`t_{delay}`$ is the time between registration and decoupling, and $`\alpha`$ represents the environment coupling factor
 
@@ -82,9 +82,9 @@ $$
 **Expected Results**:
 - Interface activation times should show correlation beyond light-speed communication:
 
-$$
+$`
 C(t_1, t_2) > C_{classical}(t_1, t_2)
-$$
+`$
 
   where $`C(t_1, t_2)`$ is the measured correlation and $`C_{classical}(t_1, t_2)`$ is the maximum possible correlation through classical channels
 
@@ -109,9 +109,9 @@ Experiments specifically targeting the properties of the quantum-classical inter
 **Expected Results**:
 - The transition from quantum superposition to classical definiteness follows:
 
-$$
+$`
 \rho(t) = (1-f(t))\rho_Q + f(t)\rho_C
-$$
+`$
 
   where $`f(t) = \frac{1}{1+e^{-(t-t_0)/w_{\mathcal{I}}}}`$ and $`w_{\mathcal{I}}`$ is the measurable interface width parameter
 
@@ -132,19 +132,19 @@ $$
 **Expected Results**:
 - Information transfer efficiency should show asymmetry:
 
-$$
+$`
 \eta_{Q \to C} > \eta_{C \to Q}
-$$
+`$
 
   with specific numerical predictions:
 
-$$
+$`
 \eta_{Q \to C} \approx 0.9 \pm 0.05
-$$
+`$
 
-$$
+$`
 \eta_{C \to Q} \approx 0.6 \pm 0.05
-$$
+`$
 
 ### Interface Energy Cost Measurement
 
@@ -163,9 +163,9 @@ $$
 **Expected Results**:
 - Energy required for interface operation follows:
 
-$$
+$`
 E_{min} = k_B T \ln(2) \cdot \Delta I_{Q \to C} \cdot F(w_{\mathcal{I}})
-$$
+`$
 
   where $`F(w_{\mathcal{I}})`$ is a function of interface width, predicted to be approximately $`F(w_{\mathcal{I}}) \approx 1 + w_{\mathcal{I}}^2`$
 
@@ -212,9 +212,9 @@ Experiments investigating the unique role of observers in the dualistic framewor
 **Expected Results**:
 - State discrimination capacity scales with observer dimension:
 
-$$
+$`
 P_{correct} = \frac{1}{2} + \frac{1}{2}\left(1 - e^{-\alpha D_O}\right)
-$$
+`$
 
   where $`D_O`$ is the observer dimension and $`\alpha`$ is a scaling factor
 
@@ -235,15 +235,15 @@ $$
 **Expected Results**:
 - Network discrimination capacity exceeds individual components:
 
-$$
+$`
 D_{network} > \max(D_1, D_2, ..., D_n)
-$$
+`$
 
   with specific emergence scaling:
 
-$$
+$`
 D_{network} \approx \sqrt{\sum_i D_i^2 + \beta \sum_{i<j} C_{ij}}
-$$
+`$
 
   where $`C_{ij}`$ represents the connection strength between observers
 
@@ -268,9 +268,9 @@ Experiments testing the prediction that space-time emerges from quantum-classica
 **Expected Results**:
 - Local metric perturbation proportional to interface activity:
 
-$$
+$`
 \delta g_{\mu\nu} \propto \frac{G\hbar}{c^4} \frac{dI_{Q \to C}}{dt}
-$$
+`$
 
   where $`\frac{dI_{Q \to C}}{dt}`$ is the rate of quantum-to-classical information conversion
 
@@ -291,9 +291,9 @@ $$
 **Expected Results**:
 - Visualization of space emergence through correlation function:
 
-$$
+$`
 C(x,y,t) = C_Q(x,y) \cdot (1-f(t)) + C_C(x,y) \cdot f(t)
-$$
+`$
 
   where $`C_Q`$ is non-local quantum correlation and $`C_C`$ is local classical correlation
 
@@ -314,9 +314,9 @@ $$
 **Expected Results**:
 - Subjective temporal order correlates with interface activation sequence, not underlying quantum evolution:
 
-$$
+$`
 Order_{perceived}(A,B) = sign(t_{\mathcal{I},A} - t_{\mathcal{I},B})
-$$
+`$
 
   where $`t_{\mathcal{I},X}`$ is the time of interface activation for event X
 
@@ -341,9 +341,9 @@ Experiments investigating quantum-classical dualism in biological systems.
 **Expected Results**:
 - Detection of quantum coherence at specific timescales:
 
-$$
+$`
 \tau_{coh} \approx 10^{-13} - 10^{-11}s
-$$
+`$
 
   followed by classical information propagation with signature interface activity patterns
 
@@ -364,13 +364,13 @@ $$
 **Expected Results**:
 - Biological sensors exhibit natural selection of quantum states:
 
-$$
+$`
 R_i = \frac{I(S:E_i)}{H(S)} \approx 1 \text{ for pointer states}
-$$
+`$
 
-$$
+$`
 R_i \approx 0 \text{ for non-pointer states}
-$$
+`$
 
   where $`R_i`$ is the redundancy ratio for state information in environment fragments
 
@@ -391,15 +391,15 @@ $$
 **Expected Results**:
 - Evolutionary optimization pattern:
 
-$$
+$`
 \eta_{biological} > \eta_{synthetic} \text{ for equivalent energy cost}
-$$
+`$
 
   and efficiency scaling with evolutionary time:
 
-$$
+$`
 \eta(t_{evolutionary}) = \eta_{max} - \Delta\eta \cdot e^{-\lambda \cdot t_{evolutionary}}
-$$
+`$
 
 ## Consciousness Experiments
 
@@ -422,9 +422,9 @@ Experiments testing the relationship between consciousness and quantum-classical
 **Expected Results**:
 - Subtle statistical differences in measurement outcomes:
 
-$$
+$`
 P_{conscious}(x_i) = P_{machine}(x_i) + \delta(x_i, C)
-$$
+`$
 
   where $`\delta(x_i, C)`$ is a consciousness-dependent deviation function
 
@@ -445,9 +445,9 @@ $$
 **Expected Results**:
 - Interface width correlates with consciousness state:
 
-$$
+$`
 w_{\mathcal{I}} = w_0 + \alpha \cdot (1-\beta)
-$$
+`$
 
   where $`\beta`$ represents the depth of focused consciousness
 
@@ -468,9 +468,9 @@ $$
 **Expected Results**:
 - Critical transition at specific integration threshold:
 
-$$
+$`
 \Phi_{critical} \approx \ln(N) \cdot k_B T
-$$
+`$
 
   where $`N`$ is the number of integrated components
 
@@ -495,9 +495,9 @@ Experimental applications of quantum-classical dualism in technology.
 **Expected Results**:
 - Enhanced performance metrics:
 
-$$
+$`
 SNR_{optimized} = SNR_{conventional} \cdot (1 + \gamma \cdot η_{interface})
-$$
+`$
 
   where $`\gamma`$ is the advantage factor and $`η_{interface}`$ is the interface optimization parameter
 
@@ -518,9 +518,9 @@ $$
 **Expected Results**:
 - Performance advantages for specific problem classes:
 
-$$
+$`
 T_{hybrid} < \min(T_{quantum}, T_{classical})
-$$
+`$
 
   for problems requiring both coherent superposition and definite state processing
 
@@ -541,17 +541,17 @@ $$
 **Expected Results**:
 - Achievable interface engineering targets:
 
-$$
+$`
 |\Delta w_{\mathcal{I}}| < 0.1 \cdot w_{\mathcal{I},target}
-$$
+`$
 
-$$
+$`
 |\Delta \eta| < 0.05 \cdot \eta_{target}
-$$
+`$
 
-$$
+$`
 |\Delta B| < 0.1 \cdot B_{target}
-$$
+`$
 
   where $`\Delta`$ represents deviation from design targets
 
@@ -576,9 +576,9 @@ Experiments testing quantum-classical dualism at cosmological scales.
 **Expected Results**:
 - Distinctive power spectrum features:
 
-$$
+$`
 \delta P(k) = P_{standard}(k) \cdot (1 + \alpha \cdot \sin(\beta \ln(k/k_0)))
-$$
+`$
 
   where parameters $`\alpha \approx 0.05`$ and $`\beta \approx 5`$ are specific to interface-mediated initial conditions
 
@@ -599,9 +599,9 @@ $$
 **Expected Results**:
 - Modified Hawking radiation spectrum:
 
-$$
+$`
 S(ω) = S_{standard}(ω) \cdot (1 + \delta(ω, w_{\mathcal{I}}))
-$$
+`$
 
   where $`\delta(ω, w_{\mathcal{I}})`$ is an interface-dependent correction function
 
@@ -622,9 +622,9 @@ $$
 **Expected Results**:
 - Scale-dependent dark energy equation of state:
 
-$$
+$`
 w(z) = -1 + \epsilon \cdot \ln(1+z) \cdot f(z, w_{\mathcal{I}})
-$$
+`$
 
   where $`\epsilon \approx 0.03`$ and $`f(z, w_{\mathcal{I}})`$ is an interface-width dependent function
 
@@ -649,9 +649,9 @@ Experiments validating the mathematical structure of quantum-classical dualism.
 **Expected Results**:
 - Experimental confirmation of key algebraic relations:
 
-$$
+$`
 [\mathcal{F}_{Q \to C}, \mathcal{F}_{C \to Q}] = \mathcal{I}_{identity} + \mathcal{O}(w_{\mathcal{I}})
-$$
+`$
 
   where $`\mathcal{O}(w_{\mathcal{I}})`$ represents interface-width dependent correction terms
 
@@ -672,9 +672,9 @@ $$
 **Expected Results**:
 - Evolutionary convergence toward predicted optimal values:
 
-$$
+$`
 \mathcal{S}[\mathcal{I}_{evolved}] \to \mathcal{S}_{extremal} \pm \delta
-$$
+`$
 
   where $`\delta`$ represents environmental noise effects
 
@@ -695,9 +695,9 @@ $$
 **Expected Results**:
 - Confirmation of key dimensional relationships:
 
-$$
+$`
 w_{\mathcal{I}} \cdot \eta_{\mathcal{I}} \cdot \tau_{\mathcal{I}} \approx \frac{\hbar}{k_B T} \cdot \ln(2)
-$$
+`$
 
   where $`\tau_{\mathcal{I}}`$ is the characteristic interface timescale
 
@@ -722,9 +722,9 @@ Experiments testing the overall framework of quantum-classical dualism.
 **Expected Results**:
 - Bayesian evidence ratio favoring dualism:
 
-$$
+$`
 \frac{P(D|M_{dualism})}{P(D|M_{alternative})} > 10
-$$
+`$
 
   for experiments specifically targeting interface phenomena
 
@@ -745,9 +745,9 @@ $$
 **Expected Results**:
 - Information-theoretic advantage:
 
-$$
+$`
 MDL(M_{dualism}) < MDL(M_{alternative})
-$$
+`$
 
   by approximately 20-30% for interface-related phenomena
 
@@ -768,9 +768,9 @@ $$
 **Expected Results**:
 - Successful novel cross-domain predictions:
 
-$$
+$`
 P_{success} > 0.7
-$$
+`$
 
   for predictions derived from interdisciplinary applications of the dualistic framework
 

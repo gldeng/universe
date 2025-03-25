@@ -58,9 +58,9 @@
 
 这些证明采用的数学符号系统包括：
 
-$$
+$`
 \Psi_{QC} = \{|\psi\rangle_Q, \mathcal{O}, \mathcal{D}_C, \mathcal{T}\}
-$$
+`$
 
 其中：
 - $`|\psi\rangle_Q`$ 表示问题在量子域中的状态
@@ -145,9 +145,9 @@ All proofs follow a unified methodology within the Quantum-Classical Dualism fra
 
 The mathematical notation system used in these proofs includes:
 
-$$
+$`
 \Psi_{QC} = \{|\psi\rangle_Q, \mathcal{O}, \mathcal{D}_C, \mathcal{T}\}
-$$
+`$
 
 Where:
 - $`|\psi\rangle_Q`$ represents the state of the problem in the quantum domain

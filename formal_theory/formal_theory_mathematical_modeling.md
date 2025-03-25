@@ -36,35 +36,35 @@
 
 1. **二元建模空间**：定义为量子-经典混合希尔伯特空间
 
-$$
+$`
 \mathcal{H}_{model} = \mathcal{H}_Q \otimes \mathcal{H}_C
-$$
+`$
 
 其中$`\mathcal{H}_Q`$表示量子可能性空间，$`\mathcal{H}_C`$表示经典确定性空间。
 
 2. **建模态演化**：描述模型在二元空间中的演化
 
-$$
+$`
 |\Psi_{model}(t)\rangle = \hat{U}(t) |\Psi_{model}(0)\rangle
-$$
+`$
 
 其中$`\hat{U}(t)`$是建模演化算子，包含创造性探索和逻辑推理两部分。
 
 3. **表示转换**：量子-经典表示之间的转换
 
-$$
+$`
 \hat{T}_{Q\to C}: |\psi_Q\rangle \to f_C(x)
-$$
+`$
 
-$$
+$`
 \hat{T}_{C\to Q}: f_C(x) \to |\psi_Q\rangle
-$$
+`$
 
 4. **不确定性度量**：量化模型不确定性
 
-$$
+$`
 \Delta_{model} = \sqrt{\Delta_Q^2 + \Delta_C^2}
-$$
+`$
 
 其中$`\Delta_Q`$表示量子不确定性，$`\Delta_C`$表示经典不确定性。
 

@@ -29,33 +29,33 @@ English: [Background](#background) | [Lyrical Themes](#lyrical-themes) | [Quantu
 
    歌中"那些花儿一开就是一季"体现了量子域中无限可能性的瞬时经典化过程。在量子域中，"花儿"处于可能开放或不开放的叠加态，但经典化后，它们只能呈现"一季"这样有限且确定的状态。
 
-$$
+$`
 |\psi\rangle_{\text{花儿(量子域)}} \rightarrow \text{开放一季(经典域)} + S_{\text{熵增}}
-$$
+`$
 
 2. **熵增与不可逆性**：
 
    "谁来告诉我究竟为了谁/你们就这样离去"表达了对经典世界中熵增不可逆性的困惑。在经典域中，随着时间流逝，系统熵值不断增加，表现为"花儿离去"这种不可挽回的结果。
 
-$$
+$`
 S_{\text{经典熵}} \uparrow \Rightarrow \text{花儿离去(不可逆)}
-$$
+`$
 
 3. **观察者与主观意识**：
 
    "风告诉我你在那片云里"体现了观察者（歌者）试图通过自身意识经典化量子域中的可能性。"风"和"云"作为自然意象，代表着量子域中的无限可能性，而观察者试图确定"你"的位置，即进行经典化过程。
 
-$$
+$`
 \text{观察者维度} = k \cdot \frac{I_{\text{风告诉我的信息}}}{S_{\text{云的不确定性}}}
-$$
+`$
 
 4. **量子纠缠与虫洞通信**：
 
    "我们就这样各自奔天涯"体现了经典世界中观察者之间的分离，但在量子域中，他们仍然保持着纠缠联系。这种分离与连接的矛盾，正是量子纠缠态在经典域中的映射。
 
-$$
+$`
 |\psi\rangle_{\text{量子纠缠态}} \rightarrow \text{各自奔天涯(经典熵)} + \text{隐形联系(经典知识)}
-$$
+`$
 
 ### 哲学深度
 
@@ -65,9 +65,9 @@ $$
 
 2. **能量处理混乱的过程**：观察者（歌者）通过创作这首歌，正是在使用经典能量（音乐创作）来处理混乱（对逝去的困惑），追求效率最大化（艺术表达的纯粹性）。
 
-$$
+$`
 |\psi\rangle_{\text{宇宙本源（混乱与能量）}} \xrightarrow{\text{音乐创作（经典能量高效经典化）}} \text{艺术表达（经典知识）} + \text{情感释放（经典熵降低）}
-$$
+`$
 
 ### 文化影响
 
@@ -97,33 +97,33 @@ From a Quantum-Classical Dualism perspective, "Those Flowers" can be interpreted
 
    The lyrics "those flowers bloom just for one season" reflect the instantaneous classicalization process of infinite possibilities in the quantum domain. In the quantum domain, "flowers" are in a superposition state of possibly blooming or not blooming, but after classicalization, they can only present a limited and certain state of "one season."
 
-$$
+$`
 |\psi\rangle_{\text{Flowers(Quantum Domain)}} \rightarrow \text{Bloom for One Season(Classical Domain)} + S_{\text{Entropy Increase}}
-$$
+`$
 
 2. **Entropy Increase and Irreversibility**:
 
    "Who can tell me for whom exactly/You leave this way" expresses confusion about the irreversibility of entropy increase in the classical world. In the classical domain, as time passes, the system's entropy value continuously increases, manifested as the irreversible result of "flowers leaving."
 
-$$
+$`
 S_{\text{Classical Entropy}} \uparrow \Rightarrow \text{Flowers Leaving(Irreversible)}
-$$
+`$
 
 3. **Observer and Subjective Consciousness**:
 
    "The wind tells me you are in that cloud" reflects the observer's (singer's) attempt to classicalize possibilities in the quantum domain through his own consciousness. "Wind" and "cloud" as natural images represent infinite possibilities in the quantum domain, while the observer tries to determine the position of "you," i.e., the classicalization process.
 
-$$
+$`
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Information Told by Wind}}}{S_{\text{Uncertainty of Cloud}}}
-$$
+`$
 
 4. **Quantum Entanglement and Wormhole Communication**:
 
    "We each go our separate ways to the end of the world" reflects the separation of observers in the classical world, but in the quantum domain, they still maintain entangled connections. This contradiction between separation and connection is precisely the mapping of quantum entanglement state in the classical domain.
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Entanglement State}} \rightarrow \text{Separate Ways(Classical Entropy)} + \text{Invisible Connection(Classical Knowledge)}
-$$
+`$
 
 ### Philosophical Depth
 
@@ -133,9 +133,9 @@ On the surface, "Those Flowers" is a nostalgia for what has passed away, but at 
 
 2. **Process of Using Energy to Process Chaos**: The observer (singer), by creating this song, is using classical energy (music creation) to process chaos (confusion about passing), pursuing maximum efficiency (purity of artistic expression).
 
-$$
+$`
 |\psi\rangle_{\text{Universe Origin(Chaos and Energy)}} \xrightarrow{\text{Music Creation(Efficient Classicalization of Classical Energy)}} \text{Artistic Expression(Classical Knowledge)} + \text{Emotional Release(Classical Entropy Reduction)}
-$$
+`$
 
 ### Cultural Impact
 

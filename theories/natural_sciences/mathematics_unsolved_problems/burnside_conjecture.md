@@ -23,9 +23,9 @@
 
 伯恩赛德猜想可以表述为：
 
-$$
+$`
 \forall G \in B(m,n), G \text{ 必为幂零群}
-$$
+`$
 
 其中，幂零群是指存在一个有限长的中心列，使得群可以被"分层"地分解。
 
@@ -44,27 +44,27 @@ $$
 
 **公理应用 1（二元存在性）**：周期群结构反映了量子域 $`\Omega_Q`$ 和经典域 $`\Omega_C`$ 的动态平衡，即：
 
-$$
+$`
 \mathcal{B}(m,n) \subset \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \text{其中} \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+`$
 
 **公理应用 2（信息守恒）**：群的周期性限制反映了信息守恒原理，即：
 
-$$
+$`
 I(\psi_{B(m,n)}) = I(\mathcal{C}(\psi_{B(m,n)})) + I_{\text{隐藏}}(\psi_{B(m,n)}) = \text{常数}
-$$
+`$
 
 ### 周期群的量子表示
 
 从量子经典二元视角，周期群$`B(m,n)`$可以表示为：
 
-$$
+$`
 \begin{align}
 \mathcal{P}_{\text{量子周期性}} &= \{|\psi_x\rangle : x \in G, x^n = 1\} \\
 \mathcal{T}_{\text{量子纠缠转移}} &: |\psi_x\rangle \otimes |\psi_y\rangle \mapsto |\psi_{xy}\rangle \\
 \mathcal{C}_{\text{循环条件}} &: \mathcal{T}^m(|\psi_x\rangle \otimes |\psi_y\rangle) = |\psi_1\rangle
 \end{align}
-$$
+`$
 
 其中$`|\psi_x\rangle`$表示对应于群元素$`x`$的量子态，$`\mathcal{T}`$表示量子纠缠态的转移操作。
 
@@ -72,21 +72,21 @@ $$
 
 幂零群的本质是具有一个递降的中心列：
 
-$$
+$`
 G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{1\}
-$$
+`$
 
 其中每个商群$`G_i/G_{i+1}`$是阿贝尔群。
 
 从量子经典视角，这反映了经典化过程中的分层解构特性：
 
-$$
+$`
 \begin{align}
 \mathcal{N}_{\text{经典可解构性}} &= \{\mathcal{L}_0, \mathcal{L}_1, \ldots, \mathcal{L}_k\} \\
 \mathcal{L}_i &: \text{第$`i`$层量子纠缠结构} \\
 \mathcal{L}_i/\mathcal{L}_{i+1} &: \text{在第$`i`$层的经典化解构}
 \end{align}
-$$
+`$
 
 ## 严格数学形式化证明 | Rigorous Formal Mathematical Proof
 
@@ -108,9 +108,9 @@ $$
 
 **定义 3 (幂零群)：** 群 $`G`$ 是幂零的，当且仅当存在降中心列
 
-$$
+$`
 G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{e\}
-$$
+`$
 
 其中每个 $`G_{i+1}`$ 包含 $`[G, G_i]`$（$`G`$ 与 $`G_i`$ 的交换子群），且 $`G_k = \{e\}`$ 对某个有限 $`k`$ 成立。
 
@@ -128,9 +128,9 @@ $$
 
 **引理 1 (复杂度量度)：** 对于Burnside群 $`B(m,n)`$，我们定义其量子复杂度为：
 
-$$
+$`
 \kappa(B(m,n)) = \log(m) \cdot \log(n)
-$$
+`$
 
 **引理 2 (复杂度阈值)：** 存在临界复杂度阈值 $`\kappa_c`$，使得：
 1. 当 $`\kappa(B(m,n)) < \kappa_c`$ 时，$`B(m,n)`$ 是幂零的
@@ -154,9 +154,9 @@ Burnside群 $`B(m,n)`$ 是幂零的。
 
    当 $`m = 2`$ 时，条件 $`(gh)^2 = e`$ 对所有 $`g,h \in B(2,n)`$ 成立。展开可得：
 
-$$
+$`
 (gh)^2 = ghgh = e
-$$
+`$
 
    这等价于 $`gh = h^{-1}g^{-1} = (hg)^{-1}`$，因此 $`gh = (hg)^{-1}`$。
 
@@ -204,8 +204,9 @@ $$
 $$\eta(B(m,n)) = \begin{cases}
 0, & \kappa(B(m,n)) < \kappa_c \\
 (\kappa(B(m,n)) - \kappa_c)^\beta, & \kappa(B(m,n)) \geq \kappa_c
-\end{cases}$$
+\end{cases}
 
+$`
 其中 $`\eta(B(m,n))`$ 是群的"非幂零度"度量，$`\beta`$ 是临界指数。
 
 当 $`\kappa(B(m,n)) \geq \kappa_c`$ 时，量子态 $`|\psi_{B(m,n)}\rangle`$ 经典化后的经典结构无法保持简单的分层形式，而是呈现复杂的嵌套结构，不满足幂零群定义。$`\square`$
@@ -255,11 +256,11 @@ The Burnside Conjecture is a classical problem in group theory, proposed by the 
 For a finite group $`G`$, if there exist integers $`m`$ and $`n`$ such that $`(xy)^{m}=1`$ for all $`x,y\in G`$ satisfying $`x^{n}=y^{n}=1`$, then $`G`$ is called a periodic group, denoted as a $`B(m,n)`$-type group.
 
 The Burnside Conjecture can be stated as:
+`$
 
-$$
 \forall G \in B(m,n), G \text{ must be nilpotent}
-$$
 
+$`
 where a nilpotent group is one that has a finite central series, allowing the group to be "layered" in its decomposition.
 
 ## Quantum-Classical Dualism Analysis
@@ -276,51 +277,51 @@ From the perspective of Quantum-Classical Dualism, algebraic structures in group
 According to the core axioms of Quantum-Classical Dualism (v33.0), these concepts can be formalized as:
 
 **Axiom Application 1 (Dual Existence)**: The structure of periodic groups reflects the dynamic equilibrium between the quantum domain $`\Omega_Q`$ and the classical domain $`\Omega_C`$, namely:
+`$
 
-$$
 \mathcal{B}(m,n) \subset \mathcal{U} = \Omega_Q \cup \Omega_C, \quad \text{where} \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
 
+$`
 **Axiom Application 2 (Information Conservation)**: The periodicity constraint of groups reflects the principle of information conservation:
+`$
 
-$$
 I(\psi_{B(m,n)}) = I(\mathcal{C}(\psi_{B(m,n)})) + I_{\text{hidden}}(\psi_{B(m,n)}) = \text{constant}
-$$
 
+$`
 ### Quantum Representation of Periodic Groups
 
 From the Quantum-Classical perspective, a periodic group $`B(m,n)`$ can be represented as:
+`$
 
-$$
 \begin{align}
 \mathcal{P}_{\text{Quantum Periodicity}} &= \{|\psi_x\rangle : x \in G, x^n = 1\} \\
 \mathcal{T}_{\text{Quantum Entanglement Transfer}} &: |\psi_x\rangle \otimes |\psi_y\rangle \mapsto |\psi_{xy}\rangle \\
 \mathcal{C}_{\text{Cyclic Condition}} &: \mathcal{T}^m(|\psi_x\rangle \otimes |\psi_y\rangle) = |\psi_1\rangle
 \end{align}
-$$
 
+$`
 where $`|\psi_x\rangle`$ represents the quantum state corresponding to group element $`x`$, and $`\mathcal{T}`$ represents the transfer operation of quantum entanglement states.
 
 ### Quantum-Classical Interpretation of Nilpotency
 
 The essence of a nilpotent group is having a descending central series:
+`$
 
-$$
 G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{1\}
-$$
 
+$`
 where each quotient group $`G_i/G_{i+1}`$ is abelian.
 
 From the Quantum-Classical perspective, this reflects the layered decomposition property in the classicalization process:
+`$
 
-$$
 \begin{align}
 \mathcal{N}_{\text{Classical Decomposability}} &= \{\mathcal{L}_0, \mathcal{L}_1, \ldots, \mathcal{L}_k\} \\
 \mathcal{L}_i &: \text{Quantum entanglement structure at layer $`i`$} \\
 \mathcal{L}_i/\mathcal{L}_{i+1} &: \text{Classicalization decomposition at layer $`i`$}
 \end{align}
-$$
 
+$`
 ## Rigorous Formal Mathematical Proof
 
 To provide a rigorous formalization of the Burnside Conjecture that is compatible with the ZFC axiomatic system and can be verified by third parties, we first establish the necessary mathematical foundations.
@@ -340,11 +341,11 @@ We work within the framework of the ZFC axiomatic system, where set theory serve
 3. $`B(m,n)`$ is the largest group satisfying the above conditions
 
 **Definition 3 (Nilpotent Group):** A group $`G`$ is nilpotent if and only if there exists a descending central series
+`$
 
-$$
 G = G_0 \triangleright G_1 \triangleright G_2 \triangleright \cdots \triangleright G_k = \{e\}
-$$
 
+$`
 where each $`G_{i+1}`$ contains $`[G, G_i]`$ (the commutator of $`G`$ and $`G_i`$), and $`G_k = \{e\}`$ for some finite $`k`$.
 
 **Definition 4 (Original Burnside Conjecture):** For any positive integers $`m`$ and $`n`$, $`B(m,n)`$ is a nilpotent group.
@@ -360,11 +361,11 @@ Based on the Quantum-Classical Dualism core theory (v33.0), we establish the fol
 3. The classicalization mapping $`\mathcal{C}`$ satisfies information conservation: $`I(|\psi_g\rangle) = I(\mathcal{C}(|\psi_g\rangle)) + I_{\text{hidden}}`$
 
 **Lemma 1 (Complexity Measure):** For a Burnside group $`B(m,n)`$, we define its quantum complexity as:
+`$
 
-$$
 \kappa(B(m,n)) = \log(m) \cdot \log(n)
-$$
 
+$`
 **Lemma 2 (Complexity Threshold):** There exists a critical complexity threshold $`\kappa_c`$ such that:
 1. When $`\kappa(B(m,n)) < \kappa_c`$, $`B(m,n)`$ is nilpotent
 2. When $`\kappa(B(m,n)) \geq \kappa_c`$, $`B(m,n)`$ may not be nilpotent
@@ -386,12 +387,12 @@ We consider each case separately:
 1. For $`m = 2`$ and $`n`$ any positive integer:
 
    When $`m = 2`$, the condition $`(gh)^2 = e`$ holds for all $`g,h \in B(2,n)`$. Expanding, we get:
+`$
 
-$$
 (gh)^2 = ghgh = e
-$$
 
-   This is equivalent to $`gh = h^{-1}g^{-1} = (hg)^{-1}`$, thus $`gh = (hg)^{-1}`$.
+$`
+This is equivalent to $`gh = h^{-1}g^{-1} = (hg)^{-1}`$, thus $`gh = (hg)^{-1}`$.
 
    From this, we deduce $`ghg^{-1}h^{-1} = e`$, meaning the commutator of any pair of elements equals the identity.
 
@@ -433,8 +434,9 @@ According to the work of Zelmanov and others, for sufficiently large odd $`n`$ (
 When the quantum complexity $`\kappa(B(m,n))`$ is sufficiently high, the complexity of quantum entanglement exceeds the ability of the classical domain to maintain a layered structure, leading to the emergence of non-nilpotent structures.
 
 From the Quantum-Classical Dualism perspective, this manifests as an information phase transition phenomenon (according to Information Phase Transition Theory, v33.0):
+`$
 
-$$\eta(B(m,n)) = \begin{cases}
+\eta(B(m,n)) = \begin{cases}
 0, & \kappa(B(m,n)) < \kappa_c \\
 (\kappa(B(m,n)) - \kappa_c)^\beta, & \kappa(B(m,n)) \geq \kappa_c
 \end{cases}$$

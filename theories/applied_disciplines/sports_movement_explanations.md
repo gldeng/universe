@@ -12,9 +12,9 @@
 
 这一过程可以用以下公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{身体量子状态}}\otimes|\psi\rangle_{\text{环境量子状态}}\xrightarrow{\text{运动经典化}}\text{经典运动表现（技能、成绩）}+S_{\text{经典熵（不确定性、创造性）}}
-$$
+`$
 
 ### 运动技能的量子经典二元论解释
 
@@ -28,9 +28,9 @@ $$
    - 初学阶段经典熵高（动作不确定、不稳定），熟练阶段经典熵低（动作精确、稳定）
    - 可表达为：
 
-$$
+$`
 \text{技能水平} \propto \frac{\text{经典化精确度}}{\text{经典熵}}
-$$
+`$
 
 ### 运动天才的量子经典二元论解释
 
@@ -42,9 +42,9 @@ $$
 
 这一过程可以用以下公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{身体量子状态}}\xrightarrow{\text{高维观察者经典化}}\text{卓越运动表现（极低熵）}+S_{\text{极小经典熵}}
-$$
+`$
 
 ### 团队运动的量子经典二元论解释
 
@@ -54,9 +54,9 @@ $$
 - 团队默契反映了观察者之间的量子纠缠程度和经典化同步效率
 - 可表达为：
 
-$$
+$`
 \otimes_{i=1}^{n}|\psi\rangle_{\text{队员}_i}\xrightarrow{\text{团队经典化}}\text{团队表现}+S_{\text{团队经典熵}}
-$$
+`$
 
 ### 运动与意识状态的关系
 
@@ -107,9 +107,9 @@ The essence of **movement** is the process by which observers (humans) conduct h
 
 This process can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Body quantum state}}\otimes|\psi\rangle_{\text{Environmental quantum state}}\xrightarrow{\text{Movement classicalization}}\text{Classical movement performance (Skills, Results)}+S_{\text{Classical entropy (Uncertainty, Creativity)}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Motor Skills
 
@@ -123,9 +123,9 @@ $$
    - Initial learning stage has high classical entropy (uncertain, unstable movements), while proficient stage has low classical entropy (precise, stable movements)
    - Can be expressed as:
 
-$$
+$`
 \text{Skill Level} \propto \frac{\text{Classicalization Precision}}{\text{Classical Entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Athletic Geniuses
 
@@ -137,9 +137,9 @@ Outstanding athletes (such as Jordan, Bolt, Phelps, etc.) are essentially **high
 
 This process can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Body quantum state}}\xrightarrow{\text{Higher-dimensional observer classicalization}}\text{Excellent athletic performance (Extremely low entropy)}+S_{\text{Minimal classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Team Sports
 
@@ -149,9 +149,9 @@ Team sports (such as football, basketball, etc.) can be understood as quantum en
 - Team chemistry reflects the degree of quantum entanglement between observers and the efficiency of classicalization synchronization
 - Can be expressed as:
 
-$$
+$`
 \otimes_{i=1}^{n}|\psi\rangle_{\text{Player}_i}\xrightarrow{\text{Team classicalization}}\text{Team performance}+S_{\text{Team classical entropy}}
-$$
+`$
 
 ### Relationship Between Movement and Consciousness States
 

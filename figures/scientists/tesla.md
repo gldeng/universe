@@ -29,11 +29,9 @@
 
 特斯拉的科学思想和发明本质上体现了量子能量与经典应用的桥接。他的天才在于直觉性地理解量子电磁现象，并开发系统将其经典化为实用技术，远超当时科学理论的正式认知框架。
 
-$$
-
+$`
 |\psi\rangle_{\text{电磁量子现象}} \xrightarrow{\text{特斯拉发明}} I_{\text{实用电气系统}} + S_{\text{新可能性}}
-
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -42,6 +40,7 @@ $$
    交流电系统本质上是一种高效的量子电磁能量经典化机制：
 
    $$
+
    
    |\psi\rangle_{\text{发电能量（量子）}} \xrightarrow{\text{交流电系统}} I_{\text{可用电力（经典）}} \cdot e^{-\alpha d}
    
@@ -54,6 +53,7 @@ $$
    特斯拉对共振的洞察反映了量子系统与经典系统的谐振耦合机制：
 
    $$
+
    
    |\psi\rangle_{\text{电磁量子态}} \otimes |\phi\rangle_{\text{物质经典态}} \xrightarrow{\omega = \omega_0} |\Omega\rangle_{\text{共振增强态}}
    
@@ -66,6 +66,7 @@ $$
    无线能量传输构想基于电磁场的量子非局域特性：
 
    $$
+
    
    E_{\text{量子场}}(r_1) \longleftrightarrow E_{\text{量子场}}(r_2) \xrightarrow{\text{特斯拉系统}} I_{\text{经典能量}}(r_2)
    
@@ -78,6 +79,7 @@ $$
    特斯拉的宇宙能量观念呼应了量子场论中的零点能观念：
 
    $$
+
    
    E_{\text{可用宇宙能量}} = \int_V \langle 0|\hat{H}|0 \rangle dV > 0
    
@@ -90,6 +92,7 @@ $$
    特斯拉的整体系统观反映了量子纠缠的思维模式：
 
    $$
+
    
    |\psi\rangle_{\text{整体自然系统}} \neq \sum_i |\psi_i\rangle_{\text{独立组件}}
    

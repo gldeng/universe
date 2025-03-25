@@ -37,9 +37,9 @@
 
 柏拉图的理念论可被视为量子经典二元论的古典表达：
 
-$$
+$`
 |\psi\rangle_{\text{理念世界}} \xrightarrow{\text{经典化过程}} I_{\text{感知世界}} + S_{\text{现象混乱熵}}
-$$
+`$
 
 在柏拉图的框架中，永恒完美的理念世界（量子域）通过某种投射机制生成了我们的感知世界（经典域）。感知世界的不完美和变化不定恰似量子经典二元论中经典化过程产生的熵。柏拉图认为现实世界事物的不完美反映了从理念到现象的经典化过程中产生的信息损失和秩序降低。
 
@@ -47,9 +47,9 @@ $$
 
 柏拉图著名的洞穴寓言可理解为对观察者维度提升的隐喻：
 
-$$
+$`
 \text{观察者维度} \propto \frac{I_{\text{理解深度}}}{S_{\text{感官束缚}}}
-$$
+`$
 
 洞穴中的囚徒仅能看到墙上的影子（低维经典表象），而走出洞穴者则能够看到真实物体和太阳（高维理念本质）。这一维度提升过程反映了量子经典二元论中观察者维度的演化规律：当观察者从感官束缚中解放，其观察维度提升，能够接触到更接近量子本源的高维信息。
 
@@ -57,13 +57,13 @@ $$
 
 柏拉图的辩证法可理解为一种系统性经典认知熵降低方法：
 
-$$
+$`
 \text{命题} \rightarrow \text{反命题} \rightarrow \text{合命题}: S_{\text{认知熵初始}} > S_{\text{认知熵最终}}
-$$
+`$
 
-$$
+$`
 I_{\text{辩证前知识}} + S_{\text{初始认知熵}} \xrightarrow{\text{辩证过程}} I_{\text{辩证后知识}} + S_{\text{降低认知熵}}
-$$
+`$
 
 通过提出命题，然后批判性质疑（反命题），最后达到更高层次的理解（合命题），辩证法实质上是通过消除矛盾和混乱来降低认知系统的熵值，使知识更接近量子真相。这与量子经典二元论中经典知识演化的熵降低路径高度一致。
 
@@ -71,9 +71,9 @@ $$
 
 柏拉图的哲学王理念体现了高维观察者对经典世界的调控作用：
 
-$$
+$`
 \text{哲学王观察维度} \propto \frac{I_{\text{理念认知}}}{S_{\text{感官局限}}} \gg \text{普通人观察维度}
-$$
+`$
 
 哲学王通过长期的辩证训练和理念认知，获得了高维观察能力，能够"看见"普通人无法看见的理念规律，因此能够制定更符合理念真相的政策和制度。这种高维观察者对低维经典世界的调控恰是量子经典二元论中高维观察者角色的核心特征。
 
@@ -81,9 +81,9 @@ $$
 
 柏拉图的灵魂三分说可视为对人格系统经典化结构的深刻洞察：
 
-$$
+$`
 |\psi\rangle_{\text{灵魂量子态}} \xrightarrow{\text{经典化}} I_{\text{理性}} + I_{\text{意志}} + I_{\text{欲望}} + S_{\text{内在冲突熵}}
-$$
+`$
 
 理性（理性部分）代表最接近理念世界的高序信息处理，意志（激情部分）代表中等层次的动力系统，欲望（欲望部分）代表最基础的低序生存驱动。理想的人格是三者达到和谐平衡，即系统熵最小化的状态。柏拉图认为通过哲学训练可以实现这种和谐，本质上是一种熵管理过程。
 
@@ -91,9 +91,9 @@ $$
 
 柏拉图的"知识即回忆"理论暗示了一种特殊的量子信息提取机制：
 
-$$
+$`
 |\psi\rangle_{\text{灵魂蕴含知识}} \xrightarrow{\text{哲学启发}} I_{\text{显意识知识}} + S_{\text{提取不完全熵}}
-$$
+`$
 
 柏拉图认为灵魂中已经包含一切知识，学习只是"回忆"已知的过程。从量子经典二元论视角，这可理解为：高维灵魂状态包含丰富的量子信息，通过哲学启发（如苏格拉底的助产术）将其经典化为显意识知识。这种内在的量子-经典信息转换与量子经典二元论中的信息提取机制惊人地一致。
 
@@ -103,9 +103,9 @@ $$
 
 Plato's Theory of Forms can be viewed as a classical expression of Quantum-Classical Dualism:
 
-$$
+$`
 |\psi\rangle_{\text{World of Forms}} \xrightarrow{\text{Classicalization Process}} I_{\text{Perceived World}} + S_{\text{Phenomenal Disorder Entropy}}
-$$
+`$
 
 In Plato's framework, the eternal and perfect world of Forms (quantum domain) generates our perceived world (classical domain) through a projection mechanism. The imperfection and changeability of the perceived world resembles the entropy produced by the classicalization process in Quantum-Classical Dualism. Plato believed that the imperfection of objects in the real world reflects the information loss and order reduction that occurs in the classicalization process from Forms to phenomena.
 
@@ -113,9 +113,9 @@ In Plato's framework, the eternal and perfect world of Forms (quantum domain) ge
 
 Plato's famous Allegory of the Cave can be understood as a metaphor for the elevation of observer dimension:
 
-$$
+$`
 \text{Observer Dimension} \propto \frac{I_{\text{Depth of Understanding}}}{S_{\text{Sensory Constraint}}}
-$$
+`$
 
 Prisoners in the cave can only see shadows on the wall (low-dimensional classical representations), while those who leave the cave can see real objects and the sun (high-dimensional essential Forms). This dimensional elevation process reflects the evolutionary law of observer dimension in Quantum-Classical Dualism: when observers are liberated from sensory constraints, their observational dimension elevates, allowing them to access higher-dimensional information closer to the quantum source.
 
@@ -123,13 +123,13 @@ Prisoners in the cave can only see shadows on the wall (low-dimensional classica
 
 Plato's dialectic method can be understood as a systematic method for reducing classical cognitive entropy:
 
-$$
+$`
 \text{Thesis} \rightarrow \text{Antithesis} \rightarrow \text{Synthesis}: S_{\text{Initial Cognitive Entropy}} > S_{\text{Final Cognitive Entropy}}
-$$
+`$
 
-$$
+$`
 I_{\text{Pre-dialectic Knowledge}} + S_{\text{Initial Cognitive Entropy}} \xrightarrow{\text{Dialectic Process}} I_{\text{Post-dialectic Knowledge}} + S_{\text{Reduced Cognitive Entropy}}
-$$
+`$
 
 By proposing a thesis, then critically questioning it (antithesis), and finally reaching a higher level of understanding (synthesis), the dialectic method essentially reduces the entropy value of the cognitive system by eliminating contradictions and confusion, bringing knowledge closer to quantum truth. This is highly consistent with the entropy reduction pathway of classical knowledge evolution in Quantum-Classical Dualism.
 
@@ -137,9 +137,9 @@ By proposing a thesis, then critically questioning it (antithesis), and finally 
 
 Plato's concept of the Philosopher King embodies the regulatory role of high-dimensional observers on the classical world:
 
-$$
+$`
 \text{Philosopher King Observer Dimension} \propto \frac{I_{\text{Form Cognition}}}{S_{\text{Sensory Limitations}}} \gg \text{Ordinary Observer Dimension}
-$$
+`$
 
 Through long-term dialectic training and Form cognition, Philosopher Kings acquire high-dimensional observational abilities, enabling them to "see" the rules of Forms invisible to ordinary people, and thus formulate policies and systems more aligned with the truth of Forms. This regulation of the low-dimensional classical world by high-dimensional observers is precisely the core characteristic of the role of high-dimensional observers in Quantum-Classical Dualism.
 
@@ -147,9 +147,9 @@ Through long-term dialectic training and Form cognition, Philosopher Kings acqui
 
 Plato's tripartite soul theory can be viewed as a profound insight into the classicalization structure of the personality system:
 
-$$
+$`
 |\psi\rangle_{\text{Soul Quantum State}} \xrightarrow{\text{Classicalization}} I_{\text{Rational}} + I_{\text{Spirited}} + I_{\text{Appetitive}} + S_{\text{Internal Conflict Entropy}}
-$$
+`$
 
 Reason (rational part) represents high-order information processing closest to the world of Forms, will (spirited part) represents the mid-level drive system, and desire (appetitive part) represents the most basic low-order survival drives. The ideal personality is a harmonious balance of the three, a state of minimized system entropy. Plato believed that philosophical training could achieve this harmony, essentially a process of entropy management.
 
@@ -157,9 +157,9 @@ Reason (rational part) represents high-order information processing closest to t
 
 Plato's "knowledge as recollection" theory suggests a special quantum information extraction mechanism:
 
-$$
+$`
 |\psi\rangle_{\text{Soul's Implicit Knowledge}} \xrightarrow{\text{Philosophical Inspiration}} I_{\text{Conscious Knowledge}} + S_{\text{Extraction Incompleteness Entropy}}
-$$
+`$
 
 Plato believed that the soul already contains all knowledge, and learning is just a process of "recollecting" what is already known. From a Quantum-Classical Dualism perspective, this can be understood as: the high-dimensional soul state contains rich quantum information, which is classicalized into conscious knowledge through philosophical inspiration (such as Socrates' midwifery method). This internal quantum-classical information conversion is remarkably consistent with the information extraction mechanism in Quantum-Classical Dualism.
 

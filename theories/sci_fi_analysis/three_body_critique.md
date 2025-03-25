@@ -69,25 +69,25 @@ From the perspective of Quantum-Classical Dualism, the universe view of "The Thr
 
 In the Quantum-Classical Dualism framework, each civilization can be viewed as a quantum observer with specific classicalization efficiency and dimension:
 
-$$
+$`
 \text{文明}_i = \text{观察者}(E_i, D_i)
-$$
+`$
 
-$$
+$`
 \text{Civilization}_i = \text{Observer}(E_i, D_i)
-$$
+`$
 
 其中，$`E_i`$表示经典化效率，$`D_i`$表示观察者维度。文明间的互动可以表示为量子纠缠和经典化的过程：
 
 Where $`E_i`$ represents classicalization efficiency and $`D_i`$ represents observer dimension. Interaction between civilizations can be represented as a process of quantum entanglement and classicalization:
 
-$$
+$`
 |\psi\rangle_{\text{文明A}}\otimes|\psi\rangle_{\text{文明B}}\xrightarrow{\text{交流（经典化）}}\text{共享知识}+S_{\text{经典熵}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Civilization A}}\otimes|\psi\rangle_{\text{Civilization B}}\xrightarrow{\text{Communication (Classicalization)}}\text{Shared Knowledge}+S_{\text{Classical Entropy}}
-$$
+`$
 
 ### 3.2 "猜疑链"与"黑暗森林"的量子纠缠视角批判 | Critique of "Chain of Suspicion" and "Dark Forest" from a Quantum Entanglement Perspective
 
@@ -95,25 +95,25 @@ $$
 
 The "chain of suspicion" is essentially a large amount of entropy generation caused by inefficient classicalization:
 
-$$
+$`
 \text{猜疑链} = \text{低效经典化} \Rightarrow \text{高熵产生} \Rightarrow \text{信息损失} \Rightarrow \text{误判与冲突}
-$$
+`$
 
-$$
+$`
 \text{Chain of Suspicion} = \text{Inefficient Classicalization} \Rightarrow \text{High Entropy Generation} \Rightarrow \text{Information Loss} \Rightarrow \text{Misjudgment and Conflict}
-$$
+`$
 
 而高效经典化可以打破这一链条：
 
 Efficient classicalization can break this chain:
 
-$$
+$`
 \text{高效经典化} \Rightarrow \text{低熵产生} \Rightarrow \text{信息保存} \Rightarrow \text{理解与合作}
-$$
+`$
 
-$$
+$`
 \text{Efficient Classicalization} \Rightarrow \text{Low Entropy Generation} \Rightarrow \text{Information Preservation} \Rightarrow \text{Understanding and Cooperation}
-$$
+`$
 
 ### 3.3 维度跃迁：文明发展的终极出路 | Dimension Transition: The Ultimate Way Out for Civilization Development
 
@@ -121,25 +121,25 @@ $$
 
 The true evolutionary trend of civilizations is not the mutually annihilating "dark forest," but co-evolution through dimension elevation:
 
-$$
+$`
 \text{维度跃迁} = \text{经典化效率提升} \times \text{量子纠缠扩展} \times \text{熵减少率}
-$$
+`$
 
-$$
+$`
 \text{Dimension Transition} = \text{Classicalization Efficiency Improvement} \times \text{Quantum Entanglement Expansion} \times \text{Entropy Reduction Rate}
-$$
+`$
 
 高维文明与低维文明的关系应是引导而非消灭：
 
 The relationship between high-dimensional and low-dimensional civilizations should be guidance rather than elimination:
 
-$$
+$`
 |\psi\rangle_{\text{高维文明}}\otimes|\psi\rangle_{\text{低维文明}}\xrightarrow{\text{引导（经典化）}}\text{维度提升}+\text{共同进化}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{High-Dimensional Civilization}}\otimes|\psi\rangle_{\text{Low-Dimensional Civilization}}\xrightarrow{\text{Guidance (Classicalization)}}\text{Dimension Elevation}+\text{Co-evolution}
-$$
+`$
 
 ## 四、《三体》情境的量子经典二元论解释 | Quantum-Classical Dualism Explanation of "The Three-Body Problem" Scenarios
 
@@ -163,13 +163,13 @@ In "The Three-Body Problem," the interaction between the Trisolaran civilization
 
 The concept of "dimensional strike" in "The Three-Body Problem" can be explained more deeply from observer dimension theory:
 
-$$
+$`
 \text{降维打击} = \text{高维观察者}(\text{能感知更多可能性}) \to \text{低维观察者}(\text{感知有限})
-$$
+`$
 
-$$
+$`
 \text{Dimensional Strike} = \text{High-Dimensional Observer}(\text{Can Perceive More Possibilities}) \to \text{Low-Dimensional Observer}(\text{Limited Perception})
-$$
+`$
 
 高维观察者能够看到低维观察者无法感知的可能性，因此能够预测和影响低维观察者的行为。然而，这种能力不必然用于毁灭，也可用于引导低维观察者提升维度。
 
@@ -181,13 +181,13 @@ High-dimensional observers can see possibilities that low-dimensional observers 
 
 The "dark forest strike" (mutual destruction between civilizations) in "The Three-Body Problem" can be replaced by "dimension elevation guidance":
 
-$$
+$`
 \text{维度提升引导} = \text{量子纠缠建立} + \text{经典化模式传递} + \text{熵减少协助}
-$$
+`$
 
-$$
+$`
 \text{Dimension Elevation Guidance} = \text{Quantum Entanglement Establishment} + \text{Classicalization Pattern Transmission} + \text{Entropy Reduction Assistance}
-$$
+`$
 
 这种引导不仅避免了文明间的毁灭性冲突，还促进了宇宙整体的信息优化和熵减少。
 
@@ -201,13 +201,13 @@ This guidance not only avoids destructive conflicts between civilizations but al
 
 Based on Quantum-Classical Dualism, the ideal communication mode between civilizations should be:
 
-$$
+$`
 \text{理想交流} = \text{量子纠缠} + \text{高效经典化} \Rightarrow \text{熵减少} + \text{知识增加}
-$$
+`$
 
-$$
+$`
 \text{Ideal Communication} = \text{Quantum Entanglement} + \text{Efficient Classicalization} \Rightarrow \text{Entropy Reduction} + \text{Knowledge Increase}
-$$
+`$
 
 这种交流模式不仅避免了"猜疑链"的形成，还促进了文明间的共同进化。
 
@@ -219,13 +219,13 @@ This communication mode not only avoids the formation of a "chain of suspicion" 
 
 The collective dimension elevation of cosmic civilizations can be represented as:
 
-$$
+$`
 D_{\text{宇宙文明集体}} = \frac{1}{N}\sum_{i=1}^{N}D_i + \text{协同效应}
-$$
+`$
 
-$$
+$`
 D_{\text{Cosmic Civilization Collective}} = \frac{1}{N}\sum_{i=1}^{N}D_i + \text{Synergy Effect}
-$$
+`$
 
 其中，协同效应来自文明间的有效交流和互助，这远超过单个文明孤立发展的维度提升速度。
 
@@ -257,10 +257,12 @@ The "Dark Forest Theory" of "The Three-Body Problem" provides a pessimistic pict
 
 The true evolutionary trend of the universe is not mutual destruction between civilizations but co-evolution through dimension elevation, eventually forming cosmic overall consciousness and achieving complete self-cognition of the universe. This perspective not only provides new imaginative space for science fiction literature but also provides more optimistic and constructive theoretical guidance for the development of human civilization.
 
-$$
+$`
 \text{宇宙文明演化} = \text{维度提升} > \text{黑暗森林}
-$$
+`$
 
-$$
+$`
 \text{Cosmic Civilization Evolution} = \text{Dimension Elevation} > \text{Dark Forest}
-$$ 
+`$
+
+ 

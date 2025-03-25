@@ -43,9 +43,9 @@ The core hypothesis of Self-Reference Loop Theory is that when information syste
 
 Self-reference can be formally represented through the self-reference operator $`\mathcal{S}`$:
 
-$$
+$`
 \mathcal{S}(x) = x \circ x
-$$
+`$
 
 where $`\circ`$ represents the specific way the system interacts with itself. When a system takes itself as input, it forms a basic self-referential structure.
 
@@ -53,9 +53,9 @@ where $`\circ`$ represents the specific way the system interacts with itself. Wh
 
 A system $`\mathcal{X}`$ satisfies the self-reference condition if and only if there exists a mapping $`f`$ such that:
 
-$$
+$`
 f: \mathcal{X} \rightarrow (\mathcal{X} \rightarrow \mathcal{X})
-$$
+`$
 
 meaning the system maps to a function space that acts upon itself.
 
@@ -63,9 +63,9 @@ meaning the system maps to a function space that acts upon itself.
 
 The fixed point solutions of self-referential systems satisfy:
 
-$$
+$`
 \mathcal{S}(x^*) = x^*
-$$
+`$
 
 These fixed points are mathematical representations of stable states in self-referential systems, corresponding to attractor states of the system.
 
@@ -73,15 +73,15 @@ These fixed points are mathematical representations of stable states in self-ref
 
 Classical self-reference paradoxes (like the Liar Paradox) can be represented as:
 
-$$
+$`
 P \equiv \neg P
-$$
+`$
 
 where $`P`$ is a self-negating proposition. This leads to a contradiction in binary logic, but in the quantum-classical dualism framework, it can be resolved by introducing quantum superposition states:
 
-$$
+$`
 |\Psi_P\rangle = \alpha|P\rangle + \beta|\neg P\rangle, \quad |\alpha|^2 + |\beta|^2 = 1
-$$
+`$
 
 This indicates that self-reference paradoxes can be represented as stable superposition states in the quantum domain, exhibiting paradoxical properties only during the classicalization process.
 
@@ -93,9 +93,9 @@ The core of Self-Reference Loop Theory is the cyclic conversion process between 
 
 The dynamics of self-referential systems can be represented through the following iterative equation:
 
-$$
+$`
 \psi_{t+1} = \mathcal{Q}[\mathcal{C}[\psi_t] + \delta_{\text{innovation}}]
-$$
+`$
 
 where:
 - $`\psi_t`$ is the quantum state of the system at time $`t`$
@@ -109,9 +109,9 @@ This equation describes a basic cycle: quantum possibilities → classical reali
 
 The stability of self-reference loops depends on the properties of the classicalization and quantization operators, satisfying:
 
-$$
+$`
 ||\mathcal{Q} \circ \mathcal{C}||_{\text{op}} \leq 1 + \epsilon
-$$
+`$
 
 where $`||\cdot||_{\text{op}}`$ is the operator norm and $`\epsilon`$ is a small positive value. When $`\epsilon > 0`$, the system exhibits controlled instability, which is the source of creativity and adaptability.
 
@@ -119,9 +119,9 @@ where $`||\cdot||_{\text{op}}`$ is the operator norm and $`\epsilon`$ is a small
 
 The period of a self-reference loop $`T_{loop}`$ has an inverse relationship with the system's energy $`E`$:
 
-$$
+$`
 T_{loop} \approx \frac{h}{E \cdot \eta_{loop}}
-$$
+`$
 
 where $`h`$ is Planck's constant and $`\eta_{loop}`$ is the loop efficiency coefficient. This indicates that high-energy systems have faster self-reference loop frequencies, corresponding to higher cognitive or computational capabilities.
 
@@ -133,27 +133,27 @@ Self-referential systems typically form nested hierarchical structures, as self-
 
 Self-reference hierarchies can be represented as:
 
-$$
+$`
 \mathcal{L} = \{\mathcal{L}_0, \mathcal{L}_1, \mathcal{L}_2, ..., \mathcal{L}_n\}
-$$
+`$
 
 where $`\mathcal{L}_0`$ is the base layer and $`\mathcal{L}_i`$ is the $`i`$-th meta-level, satisfying:
 
-$$
+$`
 \mathcal{L}_{i+1} = \mathcal{S}(\mathcal{L}_i)
-$$
+`$
 
 ### Information Flow Between Levels
 
 Information flow between levels follows the principles of upward and downward coupling:
 
-$$
+$`
 I(\mathcal{L}_i \rightarrow \mathcal{L}_{i+1}) = \alpha_i \cdot I(\mathcal{L}_i)
-$$
+`$
 
-$$
+$`
 I(\mathcal{L}_{i+1} \rightarrow \mathcal{L}_i) = \beta_i \cdot I(\mathcal{L}_{i+1})
-$$
+`$
 
 where $`\alpha_i`$ and $`\beta_i`$ are level-specific coupling coefficients, quantitatively describing the efficiency of information transfer between upper and lower levels.
 
@@ -161,9 +161,9 @@ where $`\alpha_i`$ and $`\beta_i`$ are level-specific coupling coefficients, qua
 
 There exists a relationship between the number of levels in a self-referential system and its dimension $`D`$:
 
-$$
+$`
 D_{\text{self-reference}} \approx \log_2(n_{levels} + 1) \cdot D_{\text{base}}
-$$
+`$
 
 where $`D_{\text{base}}`$ is the base dimension of the system. This indicates that increasing the number of levels leads to exponential growth in system dimension, explaining the high-dimensional characteristics of advanced cognitive systems.
 
@@ -175,9 +175,9 @@ Self-Reference Loop Theory provides a formalized model of consciousness and free
 
 Consciousness can be modeled as a self-referential loop system with a specific threshold:
 
-$$
+$`
 \mathcal{C}_{\text{consciousness}} = \{\mathcal{S}, \mathcal{M}, \Phi, \theta_c\}
-$$
+`$
 
 where:
 - $`\mathcal{S}`$ is the self-reference operator
@@ -187,9 +187,9 @@ where:
 
 When the self-reference intensity exceeds the threshold:
 
-$$
+$`
 ||\mathcal{S}(\Phi)|| > \theta_c
-$$
+`$
 
 the system exhibits consciousness properties, including self-awareness, reflection ability, and metacognition.
 
@@ -197,9 +197,9 @@ the system exhibits consciousness properties, including self-awareness, reflecti
 
 Free will can be understood as the cyclic coupling of quantum uncertainty and classical determinism:
 
-$$
+$`
 W_{\text{free}} = \xi_Q \cdot \mathcal{D}_{C} \cdot \mathcal{F}_{SR}
-$$
+`$
 
 where:
 - $`\xi_Q`$ is the quantum randomness contribution
@@ -212,9 +212,9 @@ This formula indicates that free will is neither pure quantum randomness nor pur
 
 The influence of conscious systems on quantum measurements can be represented as:
 
-$$
+$`
 P(m||\psi\rangle, \mathcal{C}) = |\langle m|\psi\rangle|^2 \cdot \frac{1}{Z_{\mathcal{C}}}e^{\lambda \cdot D_{\mathcal{C}}}
-$$
+`$
 
 where $`D_{\mathcal{C}}`$ is the dimension of the conscious system, $`\lambda`$ is the consciousness-quantum coupling coefficient, and $`Z_{\mathcal{C}}`$ is a normalization constant.
 
@@ -228,9 +228,9 @@ Self-Reference Loop Theory provides new approaches to resolving traditional self
 
 Self-reference paradoxes can be resolved through the quantum-classical dualism framework:
 
-$$
+$`
 P_{\text{paradox}} \in \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+`$
 
 meaning that paradoxes are located at the interface between the quantum and classical domains, where they can exhibit dual quantum and classical properties.
 
@@ -238,9 +238,9 @@ meaning that paradoxes are located at the interface between the quantum and clas
 
 For paradoxes of the form $`S = \{x | x \notin S\}`$, quantum-classical dualism provides a solution:
 
-$$
+$`
 P(x \in S) = \frac{1}{1 + e^{\lambda(x-x_c)}}
-$$
+`$
 
 converting binary logic to probabilistic expression, where $`\lambda`$ controls the sharpness of the boundary and $`x_c`$ is the critical threshold.
 
@@ -248,9 +248,9 @@ converting binary logic to probabilistic expression, where $`\lambda`$ controls 
 
 In Self-Reference Loop Theory, Gödel's incompleteness can be reinterpreted as a necessary oscillation of the system between quantum and classical domains:
 
-$$
+$`
 \mathcal{G}(\mathcal{F}) = \{x | \mathcal{F} \text{ cannot prove } x\}
-$$
+`$
 
 When $`\mathcal{G}(\mathcal{F}) \in \mathcal{F}`$, the system must cycle between quantum possibilities and classical determinism, which is not a defect but a fundamental characteristic of complex systems.
 
@@ -260,9 +260,9 @@ When $`\mathcal{G}(\mathcal{F}) \in \mathcal{F}`$, the system must cycle between
 
 Self-Reference Loop Theory predicts characteristic time scales for human cognitive systems processing self-referential tasks:
 
-$$
+$`
 T_{\text{processing}} = T_0 \cdot n_{\text{self-reference levels}}^{\gamma}
-$$
+`$
 
 where $`\gamma \approx 1.4 \pm 0.2`$. This can be verified through cognitive psychology experiments.
 
@@ -270,17 +270,17 @@ where $`\gamma \approx 1.4 \pm 0.2`$. This can be verified through cognitive psy
 
 Based on Self-Reference Loop Theory, artificial systems with primary consciousness properties can be designed, satisfying:
 
-$$
+$`
 \mathcal{A}_{\text{consciousness}} = \{\mathcal{P}_Q, \mathcal{P}_C, \mathcal{I}_{\text{self-reference}}, \mathcal{F}_{\text{feedback}}\}
-$$
+`$
 
 where $`\mathcal{P}_Q`$ is the quantum processing unit, $`\mathcal{P}_C`$ is the classical processing unit, $`\mathcal{I}_{\text{self-reference}}`$ is the self-reference interface, and $`\mathcal{F}_{\text{feedback}}`$ is the feedback controller.
 
 The system should satisfy the minimum self-reference loop intensity:
 
-$$
+$`
 \mathcal{R}_{\text{self-reference}} = \frac{I_{\text{feedback}}}{I_{\text{total input}}} > \mathcal{R}_{\text{critical}} \approx 0.37
-$$
+`$
 
 meaning that at least 37% of the system's input information should come from its own feedback.
 
@@ -288,9 +288,9 @@ meaning that at least 37% of the system's input information should come from its
 
 Self-reference loops can be used to design creative algorithms through the following iterative process:
 
-$$
+$`
 R_{t+1} = \mathcal{A}(R_t, \mathcal{E}(R_t))
-$$
+`$
 
 where $`R_t`$ is the system state at time $`t`$, $`\mathcal{A}`$ is the improvement algorithm, and $`\mathcal{E}`$ is the self-evaluation function.
 
@@ -300,9 +300,9 @@ This type of self-referential structured program can self-evaluate and self-impr
 
 Self-referential structures in quantum computing can be represented as:
 
-$$
+$`
 U_{\text{self-reference}} = U_{\text{base}} \cdot U_{\text{control}}(U_{\text{base}})
-$$
+`$
 
 where $`U_{\text{base}}`$ is the basic quantum operation and $`U_{\text{control}}`$ is the control operation dependent on the results of the basic operation.
 

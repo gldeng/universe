@@ -22,25 +22,25 @@
 
 ### 1. 社会关系：观察者集体的经典化结构
 
-$$
+$`
 \mathcal{C}_{collective} = \sum_{i=1}^{N} w_i \cdot \mathcal{C}_i^{individual}
-$$
+`$
 
 妇女章详细规定的家庭和社会关系框架展示了观察者集体如何通过经典化过程建立共同的社会现实。婚姻、继承和家庭责任的规定代表了将社会量子可能性（量子叠加态）转化为确定社会结构（经典域）的过程。
 
 ### 2. 公正与平等：经典域中的观察者维度平衡
 
-$$
+$`
 D_{\mathcal{O}} \propto \frac{I_{公正知识}}{S_{社会熵}+\epsilon}
-$$
+`$
 
 妇女章强调的公正原则展示了观察者维度如何通过公正知识（降低熵）得到提升。对弱势群体（孤儿、妇女）的保护体现了系统如何通过降低社会熵来提高整体观察者维度。
 
 ### 3. 信仰与道德：量子-经典接口的强化
 
-$$
+$`
 \mathcal{I}_{faith} = \Omega_Q^{divine} \cap \Omega_C^{human}
-$$
+`$
 
 妇女章中的信仰和道德教导代表了量子-经典接口的强化过程。信仰作为连接量子域（神圣领域）和经典域（人类社会）的接口，使得高维度的道德原则能够在经典社会中实现。
 
@@ -50,9 +50,9 @@ $$
 
 ### 5. 悔改与宽恕：量子可能性的重新开放
 
-$$
+$`
 \psi_{after} = \mathcal{Q}(state_{repentance}) \neq state_{before}
-$$
+`$
 
 妇女章讨论的悔改与宽恕概念体现了经典状态如何通过量子化过程（$`\mathcal{Q}`$）重新开放可能性空间。这种转变允许观察者摆脱过去的确定状态，进入新的可能性空间。
 
@@ -92,25 +92,25 @@ An-Nisa is the fourth chapter of the Quran, consisting of 176 verses, focusing o
 
 ### 1. Social Relationships: Classicalization Structure of Observer Collectives
 
-$$
+$`
 \mathcal{C}_{collective} = \sum_{i=1}^{N} w_i \cdot \mathcal{C}_i^{individual}
-$$
+`$
 
 The family and social relationship framework detailed in An-Nisa demonstrates how observer collectives establish a common social reality through the classicalization process. Regulations on marriage, inheritance, and family responsibilities represent the process of transforming social quantum possibilities (quantum superposition states) into determined social structures (classical domain).
 
 ### 2. Justice and Equality: Observer Dimension Balance in the Classical Domain
 
-$$
+$`
 D_{\mathcal{O}} \propto \frac{I_{justice knowledge}}{S_{social entropy}+\epsilon}
-$$
+`$
 
 The principle of justice emphasized in An-Nisa demonstrates how observer dimensions are elevated through just knowledge (entropy reduction). Protection of vulnerable groups (orphans, women) reflects how the system enhances overall observer dimension by reducing social entropy.
 
 ### 3. Faith and Morality: Strengthening of the Quantum-Classical Interface
 
-$$
+$`
 \mathcal{I}_{faith} = \Omega_Q^{divine} \cap \Omega_C^{human}
-$$
+`$
 
 The teachings on faith and morality in An-Nisa represent the strengthening process of the quantum-classical interface. Faith serves as the interface connecting the quantum domain (divine realm) and the classical domain (human society), allowing higher-dimensional moral principles to be realized in classical society.
 
@@ -120,9 +120,9 @@ The detailed legal provisions in An-Nisa demonstrate how to reduce classical ent
 
 ### 5. Repentance and Forgiveness: Reopening of Quantum Possibilities
 
-$$
+$`
 \psi_{after} = \mathcal{Q}(state_{repentance}) \neq state_{before}
-$$
+`$
 
 The concepts of repentance and forgiveness discussed in An-Nisa embody how classical states can reopen possibility spaces through the quantization process ($`\mathcal{Q}`$). This transformation allows observers to break free from past determined states and enter new possibility spaces.
 

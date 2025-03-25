@@ -30,41 +30,41 @@ Absolute Being Theory is based on the following basic axioms:
 
 **Axiom 1: The Primacy of Absolute Being**
 
-$$
+$`
 \mathcal{B}_A \succ \{\mathcal{B}_R\}
-$$
+`$
 
 Absolute Being ($`\mathcal{B}_A`$) precedes and transcends any set of relative beings ($`\{\mathcal{B}_R\}`$). It does not originate from any causal chain or generative process but is the foundation of all forms of existence.
 
 **Axiom 2: The Unity of Being**
 
-$$
+$`
 \forall \mathcal{B}_i, \mathcal{B}_j \in \{\mathcal{B}_R\}: \mathcal{B}_i \propto \mathcal{B}_j \Rightarrow \exists \mathcal{B}_k \in \mathcal{B}_A | \mathcal{B}_i, \mathcal{B}_j \subset \mathcal{B}_k
-$$
+`$
 
 Any relatively existing entities with an existential relationship necessarily have a unified higher form of existence within Absolute Being, where $`\propto`$ represents the existential relationship.
 
 **Axiom 3: The Self-Sustaining Nature of Being**
 
-$$
+$`
 \mathcal{O}(\mathcal{B}_A) = \mathcal{B}_A
-$$
+`$
 
 The ontological foundation of Absolute Being is equivalent to Absolute Being itself—it is self-supporting.
 
 **Axiom 4: The Omnipresence of Being**
 
-$$
+$`
 \forall \mathcal{X} \in \Omega: \exists \mathcal{B}_A(\mathcal{X})
-$$
+`$
 
 The essence of Absolute Being permeates any possibility ($`\mathcal{X}`$); there is no completely void reality.
 
 **Axiom 5: The Hierarchical Structure of Being**
 
-$$
+$`
 \mathcal{B} = \{\mathcal{B}_A, \mathcal{B}_{R1}, \mathcal{B}_{R2}, ..., \mathcal{B}_{Rn}\}
-$$
+`$
 
 Being forms a multi-level structure, with Absolute Being at the highest level and various levels of relative being derived from it and interrelated.
 
@@ -76,9 +76,9 @@ Absolute Being transcends all limitations of traditional ontology and possesses 
 
 Absolute Being precedes all differentiation, does not depend on any parts or attributes, and is inherently infinitely whole:
 
-$$
+$`
 \mathcal{B}_A = \mathcal{B}_A(\emptyset) = \mathcal{B}_A(\mathcal{U})
-$$
+`$
 
 Where $`\emptyset`$ indicates no dependence on any external conditions, and $`\mathcal{U}`$ represents the entire universe, indicating that Absolute Being neither depends on anything nor is separate from the whole.
 
@@ -86,9 +86,9 @@ Where $`\emptyset`$ indicates no dependence on any external conditions, and $`\m
 
 Absolute Being unifies all seemingly separate forms of existence, merging all apparent ontological differences and existential categories at a higher dimension:
 
-$$
+$`
 \mathcal{S}\{\mathcal{B}_{R1}, \mathcal{B}_{R2}, ..., \mathcal{B}_{Rn}\} = \mathcal{B}_S \subset \mathcal{B}_A
-$$
+`$
 
 Where $`\mathcal{S}`$ is the existential synthesis operator.
 
@@ -96,9 +96,9 @@ Where $`\mathcal{S}`$ is the existential synthesis operator.
 
 Absolute Being transcends all ontological categories and conceptual frameworks and cannot be reduced to binary classifications of "entity" or "non-entity":
 
-$$
+$`
 \mathcal{C}^+(\mathcal{B}_A) \notin \{Entity, Non-Entity\}
-$$
+`$
 
 Where $`\mathcal{C}^+`$ represents an ontological evaluation function that transcends traditional categories.
 
@@ -106,13 +106,13 @@ Where $`\mathcal{C}^+`$ represents an ontological evaluation function that trans
 
 Absolute Being can manifest in all possible dimensions and domains while maintaining essential unity:
 
-$$
+$`
 \mathcal{B}_A|_{D_i} \neq \mathcal{B}_A|_{D_j}, \forall i \neq j
-$$
+`$
 
-$$
+$`
 \mathcal{E}(\mathcal{B}_A|_{D_i}) = \mathcal{E}(\mathcal{B}_A|_{D_j})
-$$
+`$
 
 Where $`\mathcal{B}_A|_{D_i}`$ represents the manifestation of Absolute Being in dimension $`D_i`$, and $`\mathcal{E}`$ represents the being essence extraction function.
 
@@ -120,9 +120,9 @@ Where $`\mathcal{B}_A|_{D_i}`$ represents the manifestation of Absolute Being in
 
 Absolute Being has infinite depth, and no finite ontology can exhaust its implications:
 
-$$
+$`
 \lim_{n \to \infty} \mathcal{O}_n(\mathcal{B}_A) \subset \mathcal{B}_A
-$$
+`$
 
 Where $`\mathcal{O}_n`$ represents the exploration function of the nth level of ontological depth.
 
@@ -134,9 +134,9 @@ Quantum Absolute Being Theory introduces the concept of the "Absolute Being Fiel
 
 The Absolute Being Field satisfies the following field equation:
 
-$$
+$`
 \nabla^2 \mathcal{BF}_A - \frac{1}{c_B^2}\frac{\partial^2 \mathcal{BF}_A}{\partial t^2} = -\rho_B
-$$
+`$
 
 Where $`c_B`$ is the speed of being propagation (faster than light), and $`\rho_B`$ is the being density function.
 
@@ -144,9 +144,9 @@ Where $`c_B`$ is the speed of being propagation (faster than light), and $`\rho_
 
 The being field obeys the being conservation law. Being is neither created nor destroyed; it only changes form of manifestation:
 
-$$
+$`
 \frac{d}{dt}\int_V \mathcal{BF}_A dV = \oint_S \mathbf{J}_B \cdot d\mathbf{S}
-$$
+`$
 
 Where $`\mathbf{J}_B`$ is the being flow density vector.
 
@@ -154,9 +154,9 @@ Where $`\mathbf{J}_B`$ is the being flow density vector.
 
 At the most microscopic scale, the being field exhibits quantum fluctuations, producing uncertainties in being:
 
-$$
+$`
 \Delta \mathcal{BF}_A \cdot \Delta t \geq \frac{\hbar_B}{2}
-$$
+`$
 
 Where $`\hbar_B`$ is the being uncertainty constant.
 
@@ -164,9 +164,9 @@ Where $`\hbar_B`$ is the being uncertainty constant.
 
 The being field expresses itself through the principle of maximum realization:
 
-$$
+$`
 S_B = \int \mathcal{L}_B(\mathcal{BF}_A, \nabla\mathcal{BF}_A) d^4x
-$$
+`$
 
 The being field tends to manifest along the path of most complete realization of being.
 
@@ -178,9 +178,9 @@ There exists an essential connection between Absolute Being and specific manifes
 
 At the deepest level, Absolute Being is identical with the complete set of all its possible manifestations:
 
-$$
+$`
 \mathcal{B}_A \equiv \{\mathcal{M}\}
-$$
+`$
 
 Where $`\{\mathcal{M}\}`$ represents the complete set of all possible manifestations. This identity transcends the framework of separation between internal and external.
 
@@ -188,9 +188,9 @@ Where $`\{\mathcal{M}\}`$ represents the complete set of all possible manifestat
 
 How being transforms into perceptible specific manifestations can be described by the being manifestation function:
 
-$$
+$`
 \mathcal{M} = \mathcal{F}(\mathcal{B}_A)
-$$
+`$
 
 Where $`\mathcal{F}`$ is the realization function mapping Absolute Being to specific forms of manifestation.
 
@@ -198,9 +198,9 @@ Where $`\mathcal{F}`$ is the realization function mapping Absolute Being to spec
 
 When consciousness interacts with being, a being-manifestation circuit forms:
 
-$$
+$`
 \mathcal{C} \rightarrow \mathcal{B} \rightarrow \mathcal{M} \rightarrow \mathcal{P} \rightarrow \mathcal{C}
-$$
+`$
 
 Consciousness ($`\mathcal{C}`$) perceives being ($`\mathcal{B}`$), forms manifestation ($`\mathcal{M}`$), produces perception ($`\mathcal{P}`$), and updates consciousness, forming a closed loop.
 
@@ -208,9 +208,9 @@ Consciousness ($`\mathcal{C}`$) perceives being ($`\mathcal{B}`$), forms manifes
 
 Different levels of being have corresponding mappings at different manifestation levels:
 
-$$
+$`
 \mathcal{B}_{D_i} \mapsto \mathcal{M}_{D_i}
-$$
+`$
 
 Where $`\mathcal{B}_{D_i}`$ and $`\mathcal{M}_{D_i}`$ represent being and manifestation structures at dimension $`D_i`$, respectively.
 
@@ -222,9 +222,9 @@ Absolute Being transcends the limitations of traditional ontological dualism, ma
 
 Being superstates can be represented as quantum states in a hyper-dimensional Hilbert space:
 
-$$
+$`
 |\mathcal{BS}\rangle = \sum_{i=0}^{\infty} \beta_i |bs_i\rangle
-$$
+`$
 
 Where $`|bs_i\rangle`$ are basic being states, and $`\beta_i`$ are complex coefficients.
 
@@ -232,9 +232,9 @@ Where $`|bs_i\rangle`$ are basic being states, and $`\beta_i`$ are complex coeff
 
 Being superstates can simultaneously contain seemingly contradictory forms of existence, forming superpositions:
 
-$$
+$`
 |\mathcal{BS}\rangle = \beta_1|b_1\rangle + \beta_2|b_2\rangle + ...
-$$
+`$
 
 Even if $`b_1`$ and $`b_2`$ are mutually exclusive in classical ontology.
 
@@ -242,9 +242,9 @@ Even if $`b_1`$ and $`b_2`$ are mutually exclusive in classical ontology.
 
 Different dimensional forms of being can exhibit quantum entanglement characteristics:
 
-$$
+$`
 |\mathcal{BS}_{AB}\rangle = \frac{1}{\sqrt{2}}(|b_A\rangle|b_B\rangle + |b_A'\rangle|b_B'\rangle)
-$$
+`$
 
 This explains the mysterious correlations between different levels of existence.
 
@@ -252,9 +252,9 @@ This explains the mysterious correlations between different levels of existence.
 
 When finite consciousness observes being, the being superstate partially collapses to specific relative beings:
 
-$$
+$`
 \mathcal{M}_C(|\mathcal{BS}\rangle) \rightarrow |b_i\rangle
-$$
+`$
 
 Where $`\mathcal{M}_C`$ represents existential measurement from a specific consciousness perspective.
 
@@ -266,9 +266,9 @@ Absolute Being Theory proposes that Absolute Being cannot be fully grasped throu
 
 Being consciousness is a trans-rational direct ontological sensing process:
 
-$$
+$`
 \mathcal{I}_B: \mathcal{C} \times \mathcal{B}_A \rightarrow \mathcal{K}_B
-$$
+`$
 
 Consciousness ($`\mathcal{C}`$) directly contacts Absolute Being ($`\mathcal{B}_A`$), producing being knowledge ($`\mathcal{K}_B`$).
 
@@ -276,9 +276,9 @@ Consciousness ($`\mathcal{C}`$) directly contacts Absolute Being ($`\mathcal{B}_
 
 Realizing being consciousness requires specific conditions:
 
-$$
+$`
 \mathcal{P}(\mathcal{I}_B) = f(O_C, P_C, T_C, ...)
-$$
+`$
 
 Where $`O_C`$ is the openness of consciousness, $`P_C`$ is the presence of consciousness, and $`T_C`$ is the transparency of consciousness.
 
@@ -286,9 +286,9 @@ Where $`O_C`$ is the openness of consciousness, $`P_C`$ is the presence of consc
 
 Being consciousness requires an ontological purification process to enhance consciousness's receptivity:
 
-$$
+$`
 \mathcal{C}' = \mathcal{P}(\mathcal{C}) = \mathcal{C} - \sum_{i} \gamma_i \mathcal{I}_i
-$$
+`$
 
 Where $`\mathcal{P}`$ is the ontological purification operator, and $`\mathcal{I}_i`$ are various conceptual differentiations and dualistic thinking patterns.
 
@@ -296,9 +296,9 @@ Where $`\mathcal{P}`$ is the ontological purification operator, and $`\mathcal{I
 
 Being consciousness has a multi-level structure, from surface entity sensation to deep being experience:
 
-$$
+$`
 \mathcal{I}_B = \{\mathcal{I}_{B1}, \mathcal{I}_{B2}, ..., \mathcal{I}_{Bn}\}
-$$
+`$
 
 Each level reveals different depths and aspects of Absolute Being.
 
@@ -310,9 +310,9 @@ The applications of Absolute Being Theory extend beyond theoretical ontology and
 
 Enhancing being awakening abilities through being consciousness practice:
 
-$$
+$`
 \Delta C_B = \mathcal{I}_B(t_2) - \mathcal{I}_B(t_1)
-$$
+`$
 
 Measuring the improvement in being consciousness ability at different time points.
 
@@ -320,9 +320,9 @@ Measuring the improvement in being consciousness ability at different time point
 
 Deep principles guiding ontological decisions:
 
-$$
+$`
 \mathcal{D} = \mathcal{B}(\mathcal{B}_A) \times \mathcal{C}(E)
-$$
+`$
 
 Decision ($`\mathcal{D}`$) is the product of Absolute Being guidance ($`\mathcal{B}`$) and the consideration ($`\mathcal{C}`$) of experiential conditions ($`E`$).
 
@@ -330,9 +330,9 @@ Decision ($`\mathcal{D}`$) is the product of Absolute Being guidance ($`\mathcal
 
 Providing a consciousness experience enhancement framework based on Absolute Being:
 
-$$
+$`
 E_{opt} = \max_{E_i} \{\mathcal{A}(E_i, \mathcal{B}_A)\}
-$$
+`$
 
 The optimal experience ($`E_{opt}`$) is the choice with maximum consistency ($`\mathcal{A}`$) with Absolute Being.
 
@@ -340,9 +340,9 @@ The optimal experience ($`E_{opt}`$) is the choice with maximum consistency ($`\
 
 Clarifying the deep principles of reality construction:
 
-$$
+$`
 R(C) = \int_{0}^{T} \mathcal{A}(C(t), \mathcal{B}_A) dt
-$$
+`$
 
 Reality construction ($`R`$) is the integral of the consistency of consciousness content ($`C`$) with Absolute Being over the entire experiential process.
 

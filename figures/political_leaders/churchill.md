@@ -16,9 +16,9 @@
 
 2. **领导力的观察者效应**
 
-$$
+$`
 \mathcal{C}_{\text{Churchill}} = \sum_{i} \alpha_i |\text{可能}_i\rangle \xrightarrow{\text{决策}} |\text{胜利}\rangle
-$$
+`$
 
    - 多种战略选择代表量子叠加态
    - 实际决策表示向特定经典态的坍缩
@@ -31,9 +31,9 @@ $$
 
 在量子经典二元论框架下，丘吉尔的领导实践可表达为：
 
-$$
+$`
 \mathcal{M}_{\text{Churchill}}: \Omega_Q^{\text{战争}} \xrightarrow{\text{领导}} \Omega_C^{\text{胜利}}
-$$
+`$
 
 其中$`\Omega_Q^{\text{战争}}`$代表战争局势的量子可能性空间，$`\Omega_C^{\text{胜利}}`$代表通过领导实现的经典胜利状态。
 
@@ -55,9 +55,9 @@ Winston Churchill (1874-1965), as Britain's Prime Minister during World War II, 
 
 2. **Observer Effect in Leadership**
 
-$$
+$`
 \mathcal{C}_{\text{Churchill}} = \sum_{i} \alpha_i |\text{possibility}_i\rangle \xrightarrow{\text{decision}} |\text{victory}\rangle
-$$
+`$
 
    - Multiple strategic options represent quantum superposition states
    - Actual decisions indicate collapse to specific classical state
@@ -70,9 +70,9 @@ $$
 
 Within quantum-classical dualism framework, Churchill's leadership practice can be expressed as:
 
-$$
+$`
 \mathcal{M}_{\text{Churchill}}: \Omega_Q^{\text{war}} \xrightarrow{\text{leadership}} \Omega_C^{\text{victory}}
-$$
+`$
 
 Where $`\Omega_Q^{\text{war}}`$ represents the quantum possibility space of war situations, and $`\Omega_C^{\text{victory}}`$ represents the classical victory state achieved through leadership.
 

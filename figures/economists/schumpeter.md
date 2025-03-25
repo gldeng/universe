@@ -29,11 +29,9 @@
 
 熊彼特的经济理论本质上描述了经济系统中量子创新势能如何转化为经典发展动能。他揭示了经济领域中看似稳定的经典秩序如何被量子创新力量周期性地重组，形成动态演化的螺旋上升模式。
 
-$$
-
+$`
 |\psi\rangle_{\text{创新可能性}} \xrightarrow{\text{企业家行动}} I_{\text{经济发展}} + S_{\text{创造性破坏}}
-
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -42,6 +40,7 @@ $$
    创造性破坏揭示了经济系统中量子叠加态如何通过突变实现新的经典秩序：
 
    $$
+
    
    |\psi_{\text{old}}\rangle_{\text{旧经济结构}} \xrightarrow{\text{创新能量}} |\psi_{\text{transition}}\rangle_{\text{不稳定叠加态}} \xrightarrow{\text{创造性破坏}} |\psi_{\text{new}}\rangle_{\text{新经济结构}}
    
@@ -54,6 +53,7 @@ $$
    企业家在熊彼特体系中扮演特殊观察者角色，促使量子可能性坍缩为经典创新：
 
    $$
+
    
    \hat{O}_{\text{企业家}} \cdot |\psi\rangle_{\text{创新可能性}} = I_{\text{实现的创新}} + S_{\text{未实现可能性}}
    
@@ -66,6 +66,7 @@ $$
    经济周期反映了量子-经典系统的自然振荡模式，创新驱动的波动具有内在规律性：
 
    $$
+
    
    I_{\text{经济状态}}(t) = I_{\text{基础趋势}} + A \cdot \sin(\omega t + \phi) + \sum_i \delta(t-t_i) \cdot I_{\text{创新冲击}_i}
    
@@ -78,6 +79,7 @@ $$
    资本主义自我破坏的预测反映了复杂系统的量子熵增演化路径：
 
    $$
+
    
    S_{\text{资本主义}}(t) \xrightarrow{t \to \infty} S_{\text{临界值}} \xrightarrow{\text{系统相变}} I_{\text{社会主义}}
    
@@ -90,6 +92,7 @@ $$
    五类创新代表了量子创新能量在经典域中的不同表现形式：
 
    $$
+
    
    |\psi\rangle_{\text{创新量子态}} = c_1|\psi\rangle_{\text{产品}} + c_2|\psi\rangle_{\text{方法}} + c_3|\psi\rangle_{\text{市场}} + c_4|\psi\rangle_{\text{原料}} + c_5|\psi\rangle_{\text{组织}}
    

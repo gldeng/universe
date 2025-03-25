@@ -35,9 +35,9 @@ The dual structure theory of language and thought is based on the core view that
 
 Before expression, thought exists in a superposition of multiple possible interpretations:
 
-$$
+$`
 |\Psi_{\text{thought}}\rangle = \sum_i \alpha_i |concept_i\rangle
-$$
+`$
 
 where $`\alpha_i`$ are complex coefficients satisfying $`\sum_i |\alpha_i|^2 = 1`$, representing the weights of various possible concepts.
 
@@ -48,9 +48,9 @@ This superposition state explains why:
 
 The entropy of thought superposition states can be represented as:
 
-$$
+$`
 S(\rho_{\text{thought}}) = -\text{Tr}(\rho_{\text{thought}} \ln \rho_{\text{thought}})
-$$
+`$
 
 where $`\rho_{\text{thought}}`$ is the density matrix of the thought state.
 
@@ -58,9 +58,9 @@ where $`\rho_{\text{thought}}`$ is the density matrix of the thought state.
 
 Concepts in thought form extensive entanglement networks that cannot be simply decomposed into independent units:
 
-$$
+$`
 |\Psi_{\text{network}}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |concept_i\rangle \otimes |concept_j\rangle \otimes |concept_k\rangle \otimes ...
-$$
+`$
 
 This entanglement network leads to:
 - The activation of one concept immediately affecting distantly related concepts
@@ -69,17 +69,17 @@ This entanglement network leads to:
 
 The degree of entanglement between concepts can be quantified through mutual information:
 
-$$
+$`
 I(A:B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})
-$$
+`$
 
 #### 3. Semantic Uncertainty
 
 There exists a fundamental semantic uncertainty at the thought level, similar to the uncertainty principle in quantum mechanics:
 
-$$
+$`
 \Delta S \cdot \Delta P \geq \hbar_{\text{cognitive}}
-$$
+`$
 
 where:
 - $`\Delta S`$ is the uncertainty in semantic range
@@ -97,9 +97,9 @@ This explains why:
 
 Language achieves classicalization by collapsing the quantum states of thought into a series of determinate symbols and linear sequences:
 
-$$
+$`
 \mathcal{L} = \{w_1, w_2, ..., w_n\}, \quad \text{sequence} = (w_{i1}, w_{i2}, ..., w_{im})
-$$
+`$
 
 where $`\mathcal{L}`$ is the language vocabulary, and sequence is a linear expression organized according to grammatical rules.
 
@@ -118,9 +118,9 @@ Language communication is limited to the classical domain of local causal relati
 
 This locality can be represented by classical channel capacity:
 
-$$
+$`
 C = \max_{p(x)} I(X;Y)
-$$
+`$
 
 where $`I(X;Y)`$ is the mutual information between sent and received symbols.
 
@@ -128,9 +128,9 @@ where $`I(X;Y)`$ is the mutual information between sent and received symbols.
 
 Like other classical systems, language exhibits entropy increase during propagation and understanding:
 
-$$
+$`
 \Delta S_{\mathcal{L}} \geq 0
-$$
+`$
 
 This is manifested as:
 - Language expressions losing part of the original thought information in the transmission process
@@ -143,13 +143,13 @@ This is manifested as:
 
 The interface between language and thought is a dynamic conversion system, which can be represented by the following operators:
 
-$$
+$`
 \mathcal{T}_{\text{thought} \rightarrow \text{language}}: \Omega_Q^{\text{thought}} \rightarrow \Omega_C^{\text{language}}
-$$
+`$
 
-$$
+$`
 \mathcal{T}_{\text{language} \rightarrow \text{thought}}: \Omega_C^{\text{language}} \rightarrow \Omega_Q^{\text{thought}}
-$$
+`$
 
 These two conversion operators perform complementary functions:
 - $`\mathcal{T}_{\text{thought} \rightarrow \text{language}}`$ collapses quantum thought into determinate language expressions
@@ -157,9 +157,9 @@ These two conversion operators perform complementary functions:
 
 The effectiveness of the interface can be defined as:
 
-$$
+$`
 E_{\text{interface}} = \frac{I_{\text{retained}}}{I_{\text{initial}}}
-$$
+`$
 
 where $`I_{\text{retained}}`$ is the information retained after conversion, and $`I_{\text{initial}}`$ is the initial amount of information.
 
@@ -169,21 +169,21 @@ When thought is transformed into language, the following processes occur:
 
 1. **Selection Collapse**: Selecting a specific expression from multiple possible concepts
 
-$$
+$`
 |\Psi_{\text{thought}}\rangle \xrightarrow{\text{measurement}} |concept_j\rangle
-$$
+`$
 
 2. **Linearization**: Networked thought being converted into a linear sequence
 
-$$
+$`
 \text{network} \rightarrow \text{sequence} = (e_1, e_2, ..., e_n)
-$$
+`$
 
 3. **Precision-Vagueness Balance**: Striking a balance between precision and vagueness according to context
 
-$$
+$`
 P_{\text{precision}} \cdot A_{\text{applicability range}} \approx \text{constant}
-$$
+`$
 
 #### 3. Language Quantization Process
 
@@ -191,21 +191,21 @@ When language is understood and incorporated into thought, the following process
 
 1. **Semantic Expansion**: Determinate expressions being expanded into a superposition of possible meanings
 
-$$
+$`
 |w\rangle \rightarrow \sum_i \beta_i |meaning_i\rangle
-$$
+`$
 
 2. **Contextual Entanglement**: Expressions becoming entangled with a broader network of concepts
 
-$$
+$`
 |expression\rangle \otimes |prior knowledge\rangle \rightarrow \sum_{i,j} \gamma_{ij} |interpretation_i\rangle \otimes |knowledge_j\rangle
-$$
+`$
 
 3. **Creative Reorganization**: Triggering the restructuring of existing concept networks, producing new understanding
 
-$$
+$`
 \mathcal{N}_{\text{old}} \xrightarrow{\text{new information}} \mathcal{N}_{\text{new}}
-$$
+`$
 
 ### Mutual Shaping Relationship
 
@@ -213,9 +213,9 @@ $$
 
 The structure of language profoundly shapes the possibility space of thought:
 
-$$
+$`
 \Omega_Q^{\text{thought}} = f(\mathcal{L}, \mathcal{G}, \mathcal{C})
-$$
+`$
 
 where $`\mathcal{L}`$ is language vocabulary, $`\mathcal{G}`$ is grammatical structure, and $`\mathcal{C}`$ is cultural context.
 
@@ -228,9 +228,9 @@ This shaping is manifested as:
 
 Thought can similarly breakthrough and reconstruct language structures:
 
-$$
+$`
 \mathcal{L}_{t+1} = \mathcal{L}_t + \Delta\mathcal{L}(\Omega_Q^{\text{thought}})
-$$
+`$
 
 This expansion is achieved through:
 - Creating new vocabulary to express new concepts

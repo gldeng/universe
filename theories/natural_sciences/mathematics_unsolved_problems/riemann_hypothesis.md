@@ -23,9 +23,9 @@
 
 黎曼ζ函数定义为：
 
-$$
+$`
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \prod_{p \text{ prime}} \frac{1}{1-p^{-s}}
-$$
+`$
 
 其中s为复变量，第一个表达式在Re(s) > 1时绝对收敛，第二个表达式是其解析延拓。黎曼假设正式表述为：
 
@@ -57,14 +57,14 @@ $$
 
 **定义2**：定义黎曼ζ函数：$`\zeta: \mathbb{C} \setminus \{1\} \to \mathbb{C}`$为：
 
-$$
+$`
 \zeta(s) = 
 \begin{cases}
 \sum_{n=1}^{\infty} \frac{1}{n^s}, & \text{if } \text{Re}(s) > 1 \\
 \frac{1}{1-2^{1-s}}\sum_{n=1}^{\infty} \frac{(-1)^{n-1}}{n^s}, & \text{if } \text{Re}(s) > 0 \\
 \frac{2^s\pi^{s-1}\sin(\frac{\pi s}{2})\Gamma(1-s)}{1-s}\zeta(1-s), & \text{if } \text{Re}(s) < 0, s \neq 0, -2, -4, ...
 \end{cases}
-$$
+`$
 
 这里，$`\Gamma`$为欧拉伽马函数，上述分段定义给出了$`\zeta`$在$`\mathbb{C}`$上的解析延拓（除s=1处的极点外）。
 
@@ -81,9 +81,9 @@ $$
 **证明**：
 由函数方程：
 
-$$
+$`
 \zeta(s) = 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s)
-$$
+`$
 
 对于任意$`s_0 \in Z`$，若$`\zeta(s_0) = 0`$，且$`s_0 \neq -2n (n \in \mathbb{N})`$，则：
 
@@ -104,12 +104,12 @@ $$
 **证明**：
 从黎曼函数方程出发，将$`\zeta(s)`$代入$`\xi(s)`$的定义中：
 
-$$
+$`
 \begin{align}
 \xi(s) &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s) \\
 &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right) \cdot 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s) \\
 \end{align}
-$$
+`$
 
 利用三角函数关系$`\sin\left(\frac{\pi s}{2}\right) = \sin\left(\frac{\pi(1-s)}{2}\right)`$和伽马函数的性质：
 $`\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\Gamma\left(\frac{1-s}{2}\right)}`$
@@ -122,9 +122,9 @@ $`\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\G
 
 **定理1**：定义泛函$`E: \mathbb{C} \to \mathbb{R}`$为：
 
-$$
+$`
 E(\sigma + it) = \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
-$$
+`$
 
 则对于固定的$`t \in \mathbb{R}`$，$`E(\sigma + it)`$在$`\sigma = \frac{1}{2}`$处取得最小值。
 
@@ -133,13 +133,13 @@ $$
 
 根据引理2，$`\xi(s) = \xi(1-s)`$，代入泛函定义：
 
-$$
+$`
 \begin{align}
 E(\sigma + it) &= \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma - i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma + i(-t-y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
 \end{align}
-$$
+`$
 
 通过替换$`y' = -2t-y`$，并利用$`\xi(\bar{s}) = \overline{\xi(s)}`$，可以严格证明$`E(\sigma + it) = E(1-\sigma + it)`$。
 
@@ -156,9 +156,9 @@ $$
 
 构造算子$`T: H \to H`$：
 
-$$
+$`
 T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)
-$$
+`$
 
 其中$`K`$是适当选择的核函数，使得$`T`$为自伴算子。
 
@@ -232,8 +232,10 @@ $$
 
 1. **素数分布的更精确描述**：黎曼假设的正确性意味着素数分布函数π(x)的误差项可以精确界定为：
 
-   $$
-   \pi(x) = \text{Li}(x) + O(\sqrt{x}\log x)
+   
+
+$`
+\pi(x) = \text{Li}(x) + O(\sqrt{x}\log x)
    $$
 
    这反映了经典化过程中信息压缩的精确度。
@@ -270,11 +272,11 @@ $$
 The Riemann Hypothesis is one of the most famous unsolved problems in number theory, proposed by Bernhard Riemann in 1859. The hypothesis concerns the non-trivial zeros of the Riemann ζ function, predicting that all of these zeros lie on the critical line Re(s) = 1/2 in the complex plane.
 
 The Riemann ζ function is defined as:
+`$
 
-$$
 \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s} = \prod_{p \text{ prime}} \frac{1}{1-p^{-s}}
-$$
 
+$`
 where s is a complex variable, with the first expression converging absolutely when Re(s) > 1, and the second expression representing its analytic continuation. The Riemann Hypothesis is formally stated as:
 
 **Riemann Hypothesis**: All non-trivial zeros of the Riemann ζ function have real part equal to 1/2.
@@ -302,16 +304,16 @@ In the ZFC axiom system, we first establish the necessary mathematical objects:
 **Definition 1**: Let $`(X, \mathcal{T})`$ be a complete metric space, where $`X = \mathbb{C}`$ is the complex plane and $`\mathcal{T}`$ is the Euclidean topology.
 
 **Definition 2**: Define the Riemann ζ function: $`\zeta: \mathbb{C} \setminus \{1\} \to \mathbb{C}`$ as:
+`$
 
-$$
 \zeta(s) = 
 \begin{cases}
 \sum_{n=1}^{\infty} \frac{1}{n^s}, & \text{if } \text{Re}(s) > 1 \\
 \frac{1}{1-2^{1-s}}\sum_{n=1}^{\infty} \frac{(-1)^{n-1}}{n^s}, & \text{if } \text{Re}(s) > 0 \\
 \frac{2^s\pi^{s-1}\sin(\frac{\pi s}{2})\Gamma(1-s)}{1-s}\zeta(1-s), & \text{if } \text{Re}(s) < 0, s \neq 0, -2, -4, ...
 \end{cases}
-$$
 
+$`
 Here, $`\Gamma`$ is the Euler gamma function, and the piecewise definition provides the analytic continuation of $`\zeta`$ on $`\mathbb{C}`$ (except for a pole at s=1).
 
 **Definition 3**: Let $`Z = \{s \in \mathbb{C} : \zeta(s) = 0, s \neq -2, -4, -6, ...\}`$ be the set of non-trivial zeros of the ζ function.
@@ -326,11 +328,11 @@ Here, $`\Gamma`$ is the Euler gamma function, and the piecewise definition provi
 
 **Proof**:
 From the functional equation:
+`$
 
-$$
 \zeta(s) = 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s)
-$$
 
+$`
 For any $`s_0 \in Z`$, if $`\zeta(s_0) = 0`$, and $`s_0 \neq -2n (n \in \mathbb{N})`$, then:
 
 1. $`\sin\left(\frac{\pi s_0}{2}\right) \neq 0`$, because $`s_0 \neq 2k (k \in \mathbb{Z})`$
@@ -349,14 +351,14 @@ This shows that if a zero exists with $`\sigma_0 \neq \frac{1}{2}`$, then there 
 
 **Proof**:
 Starting from the Riemann functional equation, substitute $`\zeta(s)`$ into the definition of $`\xi(s)`$:
+`$
 
-$$
 \begin{align}
 \xi(s) &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right)\zeta(s) \\
 &= \frac{1}{2}s(s-1)\pi^{-s/2}\Gamma\left(\frac{s}{2}\right) \cdot 2^s\pi^{s-1}\sin\left(\frac{\pi s}{2}\right)\Gamma(1-s)\zeta(1-s) \\
 \end{align}
-$$
 
+$`
 Using the trigonometric relation $`\sin\left(\frac{\pi s}{2}\right) = \sin\left(\frac{\pi(1-s)}{2}\right)`$ and the gamma function property:
 $`\Gamma\left(\frac{s}{2}\right)\Gamma(1-s) = \frac{\pi}{\sin(\pi s)}\frac{2}{\Gamma\left(\frac{1-s}{2}\right)}`$
 
@@ -367,26 +369,26 @@ Additionally, the factor $`s(s-1)`$ in $`\xi(s)`$ eliminates the singularities o
 ### Theorem 1: Energy Minimization Principle
 
 **Theorem 1**: Define the functional $`E: \mathbb{C} \to \mathbb{R}`$ as:
+`$
 
-$$
 E(\sigma + it) = \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
-$$
 
+$`
 Then for a fixed $`t \in \mathbb{R}`$, $`E(\sigma + it)`$ attains its minimum value at $`\sigma = \frac{1}{2}`$.
 
 **Proof**:
 First, we prove that $`E(\sigma + it) = E(1-\sigma + it)`$:
 
 According to Lemma 2, $`\xi(s) = \xi(1-s)`$, substituting into the functional definition:
+`$
 
-$$
 \begin{align}
 E(\sigma + it) &= \int_{-\infty}^{\infty} \left|\frac{\xi(\sigma + i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma - i(t+y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy \\
 &= \int_{-\infty}^{\infty} \left|\frac{\xi(1-\sigma + i(-t-y))}{\xi(\frac{1}{2} + i(t+y))}\right|^2 dy
 \end{align}
-$$
 
+$`
 By substituting $`y' = -2t-y`$, and using $`\xi(\bar{s}) = \overline{\xi(s)}`$, it can be rigorously proven that $`E(\sigma + it) = E(1-\sigma + it)`$.
 
 Second, using Jensen's inequality and the subharmonic function property, prove that $`E(\sigma + it)`$ is a convex function with respect to $`\sigma`$.
@@ -401,9 +403,10 @@ Finally, from $`E(\sigma + it) = E(1-\sigma + it)`$ and convexity, conclude that
 Define the Hilbert space $`H = L^2(L, \mu)`$, where $`L`$ is the critical line and $`\mu`$ is the measure on $`L`$.
 
 Construct the operator $`T: H \to H`$:
+`$
 
-$$
 T(f)(s) = s \cdot f(s) + \int_{L} K(s,t)f(t)d\mu(t)
+
 $$
 
 where $`K`$ is an appropriately chosen kernel function that makes $`T`$ a self-adjoint operator.
@@ -479,6 +482,7 @@ From the proof of the Riemann Hypothesis, we can derive several important coroll
 1. **More Precise Description of Prime Distribution**: The correctness of the Riemann Hypothesis means that the error term in the prime distribution function π(x) can be precisely bounded as:
 
    $$
+
    \pi(x) = \text{Li}(x) + O(\sqrt{x}\log x)
    $$
 

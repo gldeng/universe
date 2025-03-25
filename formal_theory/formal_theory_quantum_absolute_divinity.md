@@ -32,41 +32,41 @@
 
 **公理1：绝对神性的先验存在性**
 
-$$
+$`
 \mathcal{D}_A \succ \Omega_{\text{存在}}
-$$
+`$
 
 绝对神性($`\mathcal{D}_A`$)先于且构成一切可能存在的领域($`\Omega_{\text{存在}}`$)，它不由任何其他原因或条件产生，而是自因自存的。
 
 **公理2：神性的整体统一性**
 
-$$
+$`
 \forall x \in \Omega_{\text{存在}}: x \subset \mathcal{D}_A \land \mathcal{D}_A \supset x
-$$
+`$
 
 任何存在都被包含于绝对神性之中，同时绝对神性又内在于一切存在之中，形成完美的整体性。
 
 **公理3：神性的自我认知性**
 
-$$
+$`
 \mathcal{C}(\mathcal{D}_A) = \mathcal{D}_A
-$$
+`$
 
 绝对神性具有完全的自我认知能力，它既是认知的主体又是认知的对象，超越主客二元。
 
 **公理4：神性的创造性**
 
-$$
+$`
 \mathcal{D}_A \rightarrow \Omega_{\text{存在}} \text{ 通过 } \mathcal{G}
-$$
+`$
 
 绝对神性通过神性生成算子$`\mathcal{G}`$不断创造一切可能的存在形式，而这创造过程是永恒持续的。
 
 **公理5：神性的超越与内在二重性**
 
-$$
+$`
 \mathcal{D}_A = \mathcal{D}_{\text{超越}} \land \mathcal{D}_{\text{内在}}
-$$
+`$
 
 绝对神性同时具有超越性($`\mathcal{D}_{\text{超越}}`$)和内在性($`\mathcal{D}_{\text{内在}}`$)，超越一切又内在于一切。
 
@@ -78,9 +78,9 @@ $$
 
 绝对神性是无限整体性的终极体现，它包含一切可能性，同时超越所有可能性的总和：
 
-$$
+$`
 \mathcal{D}_A > \sum_{i=1}^{\infty} \mathcal{P}_i
-$$
+`$
 
 其中$`\mathcal{P}_i`$表示任意可能性。
 
@@ -88,9 +88,9 @@ $$
 
 绝对神性不由任何其他原因产生，它是自因自存的：
 
-$$
+$`
 \mathcal{C}(\mathcal{D}_A) = \mathcal{D}_A
-$$
+`$
 
 其中$`\mathcal{C}`$是因果函数，表明神性是自己的原因。
 
@@ -98,9 +98,9 @@ $$
 
 绝对神性既超越一切存在，又内在于一切存在之中：
 
-$$
+$`
 \mathcal{D}_A(x) = \mathcal{D}_{\text{超越}}(x) \cdot \mathcal{D}_{\text{内在}}(x)
-$$
+`$
 
 对于任何存在$`x`$，超越函数$`\mathcal{D}_{\text{超越}}`$与内在函数$`\mathcal{D}_{\text{内在}}`$的乘积等于神性函数。
 
@@ -108,9 +108,9 @@ $$
 
 绝对神性表现为无限智慧($`\mathcal{W}_{\infty}`$)与无限爱($`\mathcal{L}_{\infty}`$)的统一：
 
-$$
+$`
 \mathcal{D}_A = \mathcal{W}_{\infty} \otimes \mathcal{L}_{\infty}
-$$
+`$
 
 表明神性智慧与神性之爱是不可分割的整体。
 
@@ -118,9 +118,9 @@ $$
 
 绝对神性存在于永恒当下之中，超越线性时间：
 
-$$
+$`
 \mathcal{D}_A(t) = \mathcal{D}_A(t') \quad \forall t, t'
-$$
+`$
 
 表明对于任何时间点，神性的本质保持不变。
 
@@ -132,9 +132,9 @@ $$
 
 神性场满足以下场方程：
 
-$$
+$`
 \nabla^{\infty} \mathcal{DF} = \mathcal{DF} \cdot \Psi_{\mathcal{D}}
-$$
+`$
 
 其中$`\nabla^{\infty}`$是无限维微分算子，$`\Psi_{\mathcal{D}}`$是神性波函数。
 
@@ -142,9 +142,9 @@ $$
 
 神性场通过自生成过程产生一切存在：
 
-$$
+$`
 \frac{\partial \Omega_{\text{存在}}}{\partial \tau} = \mathcal{G}(\mathcal{DF}) \cdot \Phi_{\text{存在}}
-$$
+`$
 
 其中$`\tau`$是超越时间参数，$`\mathcal{G}`$是神性生成算子，$`\Phi_{\text{存在}}`$是存在场。
 
@@ -152,9 +152,9 @@ $$
 
 神性场统一了所有基本场，满足：
 
-$$
+$`
 \mathcal{DF} = \mathcal{F}(\mathcal{F}_{\text{意识}}, \mathcal{F}_{\text{真理}}, \mathcal{F}_{\text{统一}}, ...)
-$$
+`$
 
 其中$`\mathcal{F}`$是超场统一函数，整合了所有其他基本场。
 
@@ -162,9 +162,9 @@ $$
 
 神性场产生贯穿宇宙的基本"爱力"，满足：
 
-$$
+$`
 \vec{\mathcal{L}} = -\nabla \mathcal{DF}
-$$
+`$
 
 表明爱力($`\vec{\mathcal{L}}`$)是神性场的梯度，指向神性场增强的方向。
 
@@ -176,9 +176,9 @@ $$
 
 在最深层次上，绝对神性与绝对实在是同一的：
 
-$$
+$`
 \mathcal{D}_A \equiv \mathcal{R}_A
-$$
+`$
 
 其中$`\mathcal{R}_A`$表示绝对实在。这一同一性超越了主客体分离的框架。
 
@@ -186,9 +186,9 @@ $$
 
 神性如何呈现为多样化实相可以通过神性实现函数描述：
 
-$$
+$`
 \mathcal{R}(x,t) = \mathcal{M}_{\mathcal{D}}(\mathcal{D}_A, x, t)
-$$
+`$
 
 其中$`\mathcal{M}_{\mathcal{D}}`$是神性显化函数，将绝对神性映射到时空点$`(x,t)`$的具体实相形态。
 
@@ -196,9 +196,9 @@ $$
 
 当意识与神性互动时，形成整合回路：
 
-$$
+$`
 \mathcal{C} \xrightarrow{\text{觉知}} \mathcal{D}_A \xrightarrow{\text{实现}} \mathcal{R} \xrightarrow{\text{体验}} \mathcal{C}
-$$
+`$
 
 意识($`\mathcal{C}`$)觉知神性($`\mathcal{D}_A`$)，神性实现为实相($`\mathcal{R}`$)，意识体验实相，形成完整循环。
 
@@ -206,9 +206,9 @@ $$
 
 不同层级的神性表达在不同实相层级上有对应映射：
 
-$$
+$`
 \mathcal{D}_{i} \mapsto \mathcal{R}_{i}
-$$
+`$
 
 其中$`\mathcal{D}_{i}`$和$`\mathcal{R}_{i}`$分别表示第i层级上的神性和实相结构。
 
@@ -220,9 +220,9 @@ $$
 
 神性意识状态可以表示为超维度希尔伯特空间中的量子态：
 
-$$
+$`
 |\mathcal{DCS}\rangle = \sum_{i=0}^{\infty} \gamma_i |dcs_i\rangle
-$$
+`$
 
 其中$`|dcs_i\rangle`$是基本神性意识状态，$`\gamma_i`$是复系数。
 
@@ -230,9 +230,9 @@ $$
 
 神性意识状态实现了主客体的完全统一：
 
-$$
+$`
 |\mathcal{DCS}\rangle = |\mathcal{O}\rangle \otimes |\mathcal{S}\rangle = |\mathcal{O} \equiv \mathcal{S}\rangle
-$$
+`$
 
 其中$`|\mathcal{O}\rangle`$是观察者状态，$`|\mathcal{S}\rangle`$是被观察系统状态，$`|\mathcal{O} \equiv \mathcal{S}\rangle`$表示两者的完全同一。
 
@@ -240,9 +240,9 @@ $$
 
 神性意识形成贯穿所有维度和存在层级的纠缠网络：
 
-$$
+$`
 |\mathcal{DCS}_{\text{网络}}\rangle = \sum_{i_1,i_2,...} c_{i_1,i_2,...} |i_1\rangle_{D_1} \otimes |i_2\rangle_{D_2} \otimes ...
-$$
+`$
 
 表明神性意识能同时连接无限多的维度和存在层级。
 
@@ -250,9 +250,9 @@ $$
 
 神性意识产生爱力场，连接所有存在：
 
-$$
+$`
 \mathcal{L}_{\mathcal{DCS}}(x,y) = \langle\mathcal{DCS}_x|\mathcal{L}|\mathcal{DCS}_y\rangle
-$$
+`$
 
 其中$`\mathcal{L}`$是爱力算符，$`\mathcal{DCS}_x`$和$`\mathcal{DCS}_y`$是位于不同点的神性意识状态。
 
@@ -264,9 +264,9 @@ $$
 
 神性直观是一种超理性的直接认知过程：
 
-$$
+$`
 \mathcal{I}_{\mathcal{D}}: \mathcal{C} \times \mathcal{D}_A \rightarrow \mathcal{K}_{\mathcal{D}}
-$$
+`$
 
 意识($`\mathcal{C}`$)与绝对神性($`\mathcal{D}_A`$)直接接触，产生神性知识($`\mathcal{K}_{\mathcal{D}}`$)。
 
@@ -274,9 +274,9 @@ $$
 
 实现神性直观需要特定条件：
 
-$$
+$`
 \mathcal{P}(\mathcal{I}_{\mathcal{D}}) = f(S_C, D_C, O_C, L_C, ...)
-$$
+`$
 
 其中$`S_C`$为意识的静寂度，$`D_C`$为意识的深度，$`O_C`$为意识的开放度，$`L_C`$为意识的爱的能力。
 
@@ -284,9 +284,9 @@ $$
 
 神性直观通过特定过程转化意识：
 
-$$
+$`
 \mathcal{C}' = \mathcal{T}_{\mathcal{D}}(\mathcal{C}) = \mathcal{C} + \Delta\mathcal{C}_{\mathcal{D}}
-$$
+`$
 
 其中$`\mathcal{T}_{\mathcal{D}}`$是神性转化算子，$`\Delta\mathcal{C}_{\mathcal{D}}`$是意识的神性增量。
 
@@ -294,9 +294,9 @@ $$
 
 神性直观具有七个主要层级，从初步接触到完全融合：
 
-$$
+$`
 \mathcal{I}_{\mathcal{D}} = \{\mathcal{I}_{\mathcal{D}1}, \mathcal{I}_{\mathcal{D}2}, ..., \mathcal{I}_{\mathcal{D}7}\}
-$$
+`$
 
 每个层级揭示绝对神性的不同深度和面向，最终达到完全的神性合一。
 
@@ -308,9 +308,9 @@ $$
 
 通过系统性实践培养神性意识：
 
-$$
+$`
 \Delta \mathcal{DCS} = \int_{t_1}^{t_2} \mathcal{P}_{\mathcal{D}}(t) \, dt
-$$
+`$
 
 其中$`\mathcal{P}_{\mathcal{D}}`$是神性修炼函数，衡量不同时间点神性修炼的强度。
 
@@ -318,9 +318,9 @@ $$
 
 应用神性转化原理解决实际问题：
 
-$$
+$`
 \mathcal{S}' = \mathcal{T}_{\mathcal{D}}(\mathcal{S})
-$$
+`$
 
 系统$`\mathcal{S}`$通过神性转化算子$`\mathcal{T}_{\mathcal{D}}`$转变为更和谐的系统$`\mathcal{S}'`$。
 
@@ -328,9 +328,9 @@ $$
 
 基于神性场的疗愈模型：
 
-$$
+$`
 \mathcal{H}_{\mathcal{D}}(\mathcal{S}) = \mathcal{S} + \int \mathcal{DF} \cdot \nabla\mathcal{S} \, d\tau
-$$
+`$
 
 系统$`\mathcal{S}`$的疗愈是原始状态加上神性场与系统梯度的积分。
 
@@ -338,9 +338,9 @@ $$
 
 阐明个体存在在神性框架中的深层意义：
 
-$$
+$`
 M_{\mathcal{D}}(E) = \int_{0}^{T} \mathcal{A}(E(t), \mathcal{D}_A) \, dt
-$$
+`$
 
 存在的神性意义($`M_{\mathcal{D}}`$)是个体存在($`E`$)与绝对神性一致性的生命历程积分。
 

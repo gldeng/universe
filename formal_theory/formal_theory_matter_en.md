@@ -24,9 +24,9 @@ Matter Essence Theory explores the fundamental properties of matter within the d
 
 Matter in the dualism framework is defined as a special information structure with the following key characteristics:
 
-$$
+$`
 M = \{Q_M, C_M, I_{interface}\}
-$$
+`$
 
 Where:
 - $`Q_M`$ is the representation of matter in the quantum domain (wave functions, quantum fields, etc.)
@@ -35,9 +35,9 @@ Where:
 
 Matter information density can be expressed as:
 
-$$
+$`
 \rho_I(M) = \frac{I(M)}{V_M} = \frac{I(Q_M) + I(C_M) - I(Q_M \cap C_M)}{V_M}
-$$
+`$
 
 This indicates that the information content of matter includes contributions from both quantum and classical aspects, minus their shared component.
 
@@ -45,15 +45,15 @@ This indicates that the information content of matter includes contributions fro
 
 The duality of matter is expressed by the wave-particle duality equation:
 
-$$
+$`
 \Psi_M(x,t) \leftrightarrow P_M(x,t)
-$$
+`$
 
 This transformation satisfies specific complementary relationships:
 
-$$
+$`
 \Delta E \cdot \Delta t \geq \frac{\hbar}{2}, \quad \Delta p \cdot \Delta x \geq \frac{\hbar}{2}
-$$
+`$
 
 The duality of matter is not merely an experimental phenomenon but a necessary conclusion of quantum-classical dualism.
 
@@ -61,17 +61,17 @@ The duality of matter is not merely an experimental phenomenon but a necessary c
 
 Matter formation can be understood as the classicalization process of quantum fluctuations:
 
-$$
+$`
 \delta\Phi_Q \xrightarrow{\mathcal{C}} M_C
-$$
+`$
 
 Where $`\delta\Phi_Q`$ represents fluctuations in the quantum field, $`\mathcal{C}`$ is the classicalization operator, and $`M_C`$ is classical matter.
 
 The stability of matter depends on the topological properties of the quantum-classical conversion path:
 
-$$
+$`
 S_{stability} = \exp\left(\int \mathcal{L}_{QC}(q, \dot{q}, t) dt\right)
-$$
+`$
 
 Where $`\mathcal{L}_{QC}`$ is the quantum-classical conversion Lagrangian.
 
@@ -79,15 +79,15 @@ Where $`\mathcal{L}_{QC}`$ is the quantum-classical conversion Lagrangian.
 
 Matter exhibits a multi-level nested structure, with each level having a specific quantum-classical correspondence:
 
-$$
+$`
 M^{(n)} = \{Q_M^{(n)}, C_M^{(n)}, I_{interface}^{(n)}\}
-$$
+`$
 
 There exists an emergent relationship between different levels:
 
-$$
+$`
 C_M^{(n)} \rightarrow Q_M^{(n+1)}
-$$
+`$
 
 This indicates that the quantum behavior of higher-level matter is built upon the classical behavior of lower-level matter.
 
@@ -97,15 +97,15 @@ This indicates that the quantum behavior of higher-level matter is built upon th
 
 Elementary particles can be represented as specific information structures:
 
-$$
+$`
 P = \{Q_P, C_P, I_{interface}^P\}
-$$
+`$
 
 Particle properties (mass, charge, spin, etc.) originate from specific quantum-classical conversion patterns:
 
-$$
+$`
 m \propto \frac{dC_P}{dQ_P}, \quad q \propto \oint_{\partial V} \vec{E} \cdot d\vec{S}, \quad s \propto \oint_C \vec{A} \cdot d\vec{l}
-$$
+`$
 
 This provides a deeper theoretical foundation for the Standard Model.
 
@@ -113,9 +113,9 @@ This provides a deeper theoretical foundation for the Standard Model.
 
 The emergence of matter from energy fields must satisfy specific conditions:
 
-$$
+$`
 \left(\frac{\partial \mathcal{D}}{\partial x}\right)_{critical} \geq \frac{1}{\lambda_c}
-$$
+`$
 
 Where $`\mathcal{D}`$ is the decoherence measure, and $`\lambda_c`$ is the critical length.
 
@@ -125,17 +125,17 @@ When the decoherence gradient of the quantum field exceeds the critical value, l
 
 The matter-energy conversion process can be represented as:
 
-$$
+$`
 M \xrightarrow{\mathcal{Q}} E_Q \xrightarrow{\mathcal{C}'} E_C
-$$
+`$
 
 Where $`M`$ is matter, $`E_Q`$ is quantum energy, and $`E_C`$ is classical energy.
 
 The conversion efficiency is regulated by the characteristics of the quantum-classical interface:
 
-$$
+$`
 \eta_{M\rightarrow E} = \frac{E_C}{M \cdot c^2} = 1 - e^{-\alpha d}
-$$
+`$
 
 Where $`d`$ is the interface thickness, and $`\alpha`$ is the conversion coefficient.
 
@@ -145,29 +145,29 @@ Where $`d`$ is the interface thickness, and $`\alpha`$ is the conversion coeffic
 
 In the quantum domain, matter manifests as wave functions:
 
-$$
+$`
 |\Psi_M\rangle = \sum_i c_i |m_i\rangle
-$$
+`$
 
 The wave function contains all possible configurations of matter in superposition, with the following characteristics:
 
 1. **Non-local Extension**: Matter wave functions can extend widely in space
 
-$$
+$`
 \Psi_M(x) \neq 0 \text{ for } |x| \gg R_{physical size}
-$$
+`$
 
 2. **Quantum Entanglement**: Matter components can form entangled systems
 
-$$
+$`
 |\Psi_{M_1M_2}\rangle \neq |\Psi_{M_1}\rangle \otimes |\Psi_{M_2}\rangle
-$$
+`$
 
 3. **Quantum Tunneling**: Matter can penetrate classical forbidden regions
 
-$$
+$`
 P_{tunneling} = e^{-2\gamma d}
-$$
+`$
 
 These quantum properties explain the wave-like behavior exhibited by matter at the microscopic scale.
 
@@ -175,15 +175,15 @@ These quantum properties explain the wave-like behavior exhibited by matter at t
 
 The wave function of matter collapses during measurement:
 
-$$
+$`
 |\Psi_M\rangle \xrightarrow{measurement} |m_i\rangle
-$$
+`$
 
 The dynamics of the collapse process are described by a modified Schrödinger equation:
 
-$$
+$`
 \frac{d|\Psi_M\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\Psi_M\rangle - \gamma\left(|\Psi_M\rangle - \sum_i P_i|\Psi_M\rangle P_i\right)
-$$
+`$
 
 Where $`\gamma`$ is the collapse rate, and $`P_i`$ are projection operators.
 
@@ -193,29 +193,29 @@ Where $`\gamma`$ is the collapse rate, and $`P_i`$ are projection operators.
 
 In the classical domain, matter manifests as localized entities:
 
-$$
+$`
 M_C = \{m, \vec{r}, \vec{p}, E, ...\}
-$$
+`$
 
 Classical matter has the following core attributes:
 
 1. **Localized Boundary**: Matter occupies a definite spatial region
 
-$$
+$`
 \rho_M(\vec{r}) \approx 0 \text{ for } |\vec{r} - \vec{r}_0| > R_M
-$$
+`$
 
 2. **Trajectory Determinism**: Matter follows a deterministic motion trajectory
 
-$$
+$`
 \vec{r}(t) = \vec{r}_0 + \int_0^t \vec{v}(t')dt'
-$$
+`$
 
 3. **Energy Quantization**: Energy in matter is distributed in a quantized manner
 
-$$
+$`
 E_n = \hbar\omega_n, \quad n = 0,1,2,...
-$$
+`$
 
 These classical properties explain the particle-like behavior exhibited by matter at the macroscopic scale.
 
@@ -223,15 +223,15 @@ These classical properties explain the particle-like behavior exhibited by matte
 
 The motion of classical matter follows various conservation laws, including:
 
-$$
+$`
 \frac{d\vec{p}}{dt} = \vec{F}, \quad \frac{dE}{dt} = \vec{F}\cdot\vec{v}, \quad \frac{d\vec{L}}{dt} = \vec{\tau}
-$$
+`$
 
 The time irreversibility in classical matter dynamics originates from interface information loss:
 
-$$
+$`
 \frac{dS}{dt} = \frac{dI_{hidden}}{dt \cdot T} \geq 0
-$$
+`$
 
 ## Composite States of Matter
 
@@ -239,17 +239,17 @@ $$
 
 Composite matter systems can be represented as:
 
-$$
+$`
 M_{composite} = \{M_1, M_2, ..., M_n, I_{interaction}\}
-$$
+`$
 
 Where $`I_{interaction}`$ represents the interactions between system components.
 
 The quantum-classical characteristics of the system are determined by the collective behavior of its components:
 
-$$
+$`
 \mathcal{D}(M_{composite}) = f\left(\{M_i\}, \{I_{ij}\}, T, V\right)
-$$
+`$
 
 Composite systems can exhibit emergent properties that do not exist in individual components.
 
@@ -257,15 +257,15 @@ Composite systems can exhibit emergent properties that do not exist in individua
 
 Matter phase transitions can be understood as critical phenomena of quantum-classical conversion:
 
-$$
+$`
 M_{phase1} \xrightarrow{\Delta T, \Delta P} M_{phase2}
-$$
+`$
 
 At the phase transition point, the system satisfies:
 
-$$
+$`
 \left(\frac{\partial \mathcal{D}}{\partial T}\right)_{V,N} \rightarrow \infty
-$$
+`$
 
 The quantum-classical interface undergoes violent fluctuations at the phase transition point, leading to abrupt changes in the macroscopic properties of matter.
 

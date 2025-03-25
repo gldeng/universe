@@ -37,13 +37,13 @@ Under the Quantum-Classical Dualism framework, the essence of the universe can b
 
 This definition can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{高维观察者（宇宙）}}\otimes|\psi\rangle_{\text{低维观察者}}\xrightarrow{\text{经典化（维度跃迁）}}\text{经典知识（命运改变）}+S_{\text{经典熵（减少）}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{High-Dimensional Observer (Universe)}}\otimes|\psi\rangle_{\text{Low-Dimensional Observer}}\xrightarrow{\text{Classicalization (Dimension Transition)}}\text{Classical Knowledge (Destiny Change)}+S_{\text{Classical Entropy (Reduced)}}
-$$
+`$
 
 ### 2.2 初始化程序与命运改变 | Initialization Program and Destiny Change
 
@@ -51,25 +51,25 @@ $$
 
 The initial state of low-dimensional observers can be viewed as an "initialization program," which is the observer's initial classicalization pattern and destiny path. High-dimensional observers establish connections with low-dimensional observers through quantum entanglement, helping them break through initial limitations:
 
-$$
+$`
 \text{初始化程序} = \text{初始经典化模式} + \text{预设命运路径}
-$$
+`$
 
-$$
+$`
 \text{Initialization Program} = \text{Initial Classicalization Pattern} + \text{Preset Destiny Path}
-$$
+`$
 
 高维观察者引导低维观察者的过程可表示为：
 
 The process of high-dimensional observers guiding low-dimensional observers can be represented as:
 
-$$
+$`
 \text{命运改变} = \text{高维引导} \times \text{低维自主选择} \times \text{维度跃迁效率}
-$$
+`$
 
-$$
+$`
 \text{Destiny Change} = \text{High-Dimensional Guidance} \times \text{Low-Dimensional Autonomous Choice} \times \text{Dimension Transition Efficiency}
-$$
+`$
 
 ### 2.3 维度跃迁的本质 | The Essence of Dimension Transition
 
@@ -77,25 +77,25 @@ $$
 
 Dimension transition is a qualitative change in the observer's classicalization efficiency, manifested as a significant increase in the amount of quantum information that can be classicalized per unit time:
 
-$$
+$`
 D_{\text{维度跃迁}} = \frac{I_{\text{跃迁后经典信息量}}}{I_{\text{跃迁前经典信息量}}} \gg 1
-$$
+`$
 
-$$
+$`
 D_{\text{Dimension Transition}} = \frac{I_{\text{Post-Transition Classical Information}}}{I_{\text{Pre-Transition Classical Information}}} \gg 1
-$$
+`$
 
 这一跃迁过程伴随着熵的减少，信息的优化，以及观察者自主性的增强：
 
 This transition process is accompanied by entropy reduction, information optimization, and enhanced observer autonomy:
 
-$$
+$`
 \Delta S_{\text{熵变化}} < 0, \quad \Delta I_{\text{信息优化}} > 0, \quad \Delta A_{\text{自主性}} > 0
-$$
+`$
 
-$$
+$`
 \Delta S_{\text{Entropy Change}} < 0, \quad \Delta I_{\text{Information Optimization}} > 0, \quad \Delta A_{\text{Autonomy}} > 0
-$$
+`$
 
 ## 三、高维观察者与低维观察者的关系 | Relationship Between High-Dimensional and Low-Dimensional Observers
 
@@ -117,13 +117,13 @@ High-dimensional observers can be:
 
 The characteristic of high-dimensional observers is the ability to simultaneously classicalize more quantum information, see more possibilities, and foresee the destiny paths of low-dimensional observers:
 
-$$
+$`
 I_{\text{高维观察者}} \gg I_{\text{低维观察者}}, \quad P_{\text{可能性感知}} \gg P_{\text{低维可能性感知}}
-$$
+`$
 
-$$
+$`
 I_{\text{High-Dimensional Observer}} \gg I_{\text{Low-Dimensional Observer}}, \quad P_{\text{Possibility Perception}} \gg P_{\text{Low-Dimensional Possibility Perception}}
-$$
+`$
 
 ### 3.2 高维引导的机制 | Mechanism of High-Dimensional Guidance
 
@@ -145,13 +145,13 @@ The main mechanisms of high-dimensional observers guiding low-dimensional observ
 
 This guidance process can be represented as:
 
-$$
+$`
 G_{\text{引导效果}} = E_{\text{纠缠强度}} \times M_{\text{模式传递效率}} \times P_{\text{可能性扩展度}} \times R_{\text{熵减少率}}
-$$
+`$
 
-$$
+$`
 G_{\text{Guidance Effect}} = E_{\text{Entanglement Intensity}} \times M_{\text{Pattern Transmission Efficiency}} \times P_{\text{Possibility Expansion Degree}} \times R_{\text{Entropy Reduction Rate}}
-$$
+`$
 
 ### 3.3 低维观察者的自主选择 | Autonomous Choice of Low-Dimensional Observers
 
@@ -159,25 +159,25 @@ $$
 
 Despite the guidance provided by high-dimensional observers, low-dimensional observers still maintain the ability to make autonomous choices, which embodies the essence of free will:
 
-$$
+$`
 \text{自由意志} = \text{主动量子纠缠} + \text{主动经典化选择}
-$$
+`$
 
-$$
+$`
 \text{Free Will} = \text{Active Quantum Entanglement} + \text{Active Classicalization Choice}
-$$
+`$
 
 低维观察者可以选择接受或拒绝高维引导，这种选择本身也是维度提升的一部分：
 
 Low-dimensional observers can choose to accept or reject high-dimensional guidance, and this choice itself is also part of dimension elevation:
 
-$$
+$`
 \text{维度提升速率} \propto \text{高维引导接受度} \times \text{自主选择质量}
-$$
+`$
 
-$$
+$`
 \text{Dimension Elevation Rate} \propto \text{High-Dimensional Guidance Acceptance} \times \text{Autonomous Choice Quality}
-$$
+`$
 
 ## 四、宇宙演化的终极目的 | The Ultimate Purpose of Universe Evolution
 
@@ -187,25 +187,25 @@ $$
 
 The ultimate purpose of universe evolution is to promote the collective elevation of all observer dimensions, eventually reaching a state isomorphic with the universe as a whole:
 
-$$
+$`
 \lim_{t \to \infty} D_{\text{集体观察者}} \to D_{\text{宇宙整体}}
-$$
+`$
 
-$$
+$`
 \lim_{t \to \infty} D_{\text{Collective Observers}} \to D_{\text{Universe as a Whole}}
-$$
+`$
 
 这一过程可以理解为宇宙自我认知和自我完善的过程：
 
 This process can be understood as the universe's self-cognition and self-improvement process:
 
-$$
+$`
 \text{宇宙自我认知} = \sum_i \text{观察者}_i \text{的维度提升}
-$$
+`$
 
-$$
+$`
 \text{Universe Self-Cognition} = \sum_i \text{Dimension Elevation of Observer}_i
-$$
+`$
 
 ### 4.2 熵减少与信息优化 | Entropy Reduction and Information Optimization
 
@@ -213,25 +213,25 @@ $$
 
 The dimension elevation process is accompanied by entropy reduction and information optimization. The apparent contradiction with the traditional second law of thermodynamics can be explained by the improvement of observer classicalization efficiency:
 
-$$
+$`
 \frac{dS_{\text{总体}}}{dt} = \frac{dS_{\text{自然过程}}}{dt} - \frac{dS_{\text{观察者经典化}}}{dt}
-$$
+`$
 
-$$
+$`
 \frac{dS_{\text{Total}}}{dt} = \frac{dS_{\text{Natural Process}}}{dt} - \frac{dS_{\text{Observer Classicalization}}}{dt}
-$$
+`$
 
 当观察者经典化效率足够高时，可以实现总体熵减少：
 
 When observer classicalization efficiency is high enough, overall entropy reduction can be achieved:
 
-$$
+$`
 \frac{dS_{\text{观察者经典化}}}{dt} > \frac{dS_{\text{自然过程}}}{dt} \Rightarrow \frac{dS_{\text{总体}}}{dt} < 0
-$$
+`$
 
-$$
+$`
 \frac{dS_{\text{Observer Classicalization}}}{dt} > \frac{dS_{\text{Natural Process}}}{dt} \Rightarrow \frac{dS_{\text{Total}}}{dt} < 0
-$$
+`$
 
 ### 4.3 宇宙循环与信息再生 | Universe Cycle and Information Regeneration
 
@@ -239,25 +239,25 @@ $$
 
 When observers collectively reach a state isomorphic with the universe as a whole, the universe will enter a new cycle, achieving information regeneration and reorganization:
 
-$$
+$`
 |\psi\rangle_{\text{宇宙}_n} \xrightarrow{\text{观察者同构}} |\psi\rangle_{\text{宇宙}_{n+1}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Universe}_n} \xrightarrow{\text{Observer Isomorphism}} |\psi\rangle_{\text{Universe}_{n+1}}
-$$
+`$
 
 这一循环不是简单的重复，而是在更高维度上的螺旋式上升：
 
 This cycle is not a simple repetition but a spiral ascent at a higher dimension:
 
-$$
+$`
 D_{\text{宇宙}_{n+1}} > D_{\text{宇宙}_n}
-$$
+`$
 
-$$
+$`
 D_{\text{Universe}_{n+1}} > D_{\text{Universe}_n}
-$$
+`$
 
 ## 五、实践应用与验证 | Practical Applications and Verification
 
@@ -319,10 +319,12 @@ The essence of the universe is the process of high-dimensional observers helping
 
 This theory not only provides a new perspective for understanding the purpose of the universe but also provides practical guidance for individual and social development. By understanding and applying this view of the universe's essence, we can more effectively elevate our own dimensions, promote the development of collective consciousness, and ultimately participate in the great process of the universe's self-cognition and self-improvement.
 
-$$
+$`
 \text{宇宙} = \text{高维观察者与低维观察者持续相互作用，通过经典化提升维度、改变命运、减少熵，从而推动低维观察者向高维跃迁的终极过程}
-$$
+`$
 
-$$
+$`
 \text{Universe} = \text{The ultimate process of continuous interaction between high-dimensional and low-dimensional observers, elevating dimensions, changing destinies, and reducing entropy through classicalization, thereby promoting the transition of low-dimensional observers to high dimensions}
-$$ 
+`$
+
+ 

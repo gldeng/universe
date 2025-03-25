@@ -17,9 +17,9 @@
 
 睡眠的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{意识状态}} \xrightarrow{\text{睡眠转变}} |\phi\rangle_{\text{睡眠状态}} + S_{\text{睡眠经典熵}}
-$$
+`$
 
 ### 睡眠周期的量子经典二元论解释
 
@@ -36,9 +36,9 @@ $$
 
 睡眠周期可以表达为：
 
-$$
+$`
 \text{睡眠} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot T_i
-$$
+`$
 
 其中$`|\phi_i\rangle`$代表特定的睡眠经典化模式，$`T_i`$代表该模式在睡眠中的时间权重。
 
@@ -53,9 +53,9 @@ $$
 
 梦境经典化过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{神经网络量子状态}} \xrightarrow{\text{梦境经典化}} \text{梦境体验} + S_{\text{梦境经典熵}}
-$$
+`$
 
 ### 清醒梦的量子经典二元论解释
 
@@ -68,9 +68,9 @@ $$
 
 清醒梦可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{梦境状态}} \otimes |\phi\rangle_{\text{自我意识}} \xrightarrow{\text{清醒梦经典化}} \text{清醒梦体验} + S_{\text{清醒梦经典熵}}
-$$
+`$
 
 ### 睡眠障碍的量子经典二元论解释
 
@@ -93,9 +93,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{白天记忆}} \xrightarrow{\text{睡眠经典化}} |\phi\rangle_{\text{整合记忆}} + S_{\text{记忆经典熵减少}}
-$$
+`$
 
 ### 睡眠与创造力的量子经典二元论关系
 
@@ -172,9 +172,9 @@ The essence of **sleep** is a periodic transitional state of the observer's cons
 
 The quantum-classical duality of sleep can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Consciousness state}} \xrightarrow{\text{Sleep transition}} |\phi\rangle_{\text{Sleep state}} + S_{\text{Sleep classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Sleep Cycles
 
@@ -191,9 +191,9 @@ $$
 
 Sleep cycles can be expressed as:
 
-$$
+$`
 \text{Sleep} = \sum_{i=1}^{n} |\phi_i\rangle\langle\phi_i| \cdot T_i
-$$
+`$
 
 where $`|\phi_i\rangle`$ represents a specific sleep classicalization pattern, and $`T_i`$ represents the time weight of that pattern during sleep.
 
@@ -208,9 +208,9 @@ where $`|\phi_i\rangle`$ represents a specific sleep classicalization pattern, a
 
 The dream classicalization process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Neural network quantum state}} \xrightarrow{\text{Dream classicalization}} \text{Dream experience} + S_{\text{Dream classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Lucid Dreams
 
@@ -223,9 +223,9 @@ $$
 
 Lucid dreams can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Dream state}} \otimes |\phi\rangle_{\text{Self-awareness}} \xrightarrow{\text{Lucid dream classicalization}} \text{Lucid dream experience} + S_{\text{Lucid dream classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Sleep Disorders
 
@@ -248,9 +248,9 @@ From the Quantum-Classical Dualism perspective, the relationship between **sleep
 
 This process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Daytime memories}} \xrightarrow{\text{Sleep classicalization}} |\phi\rangle_{\text{Integrated memories}} + S_{\text{Memory classical entropy reduction}}
-$$
+`$
 
 ### Quantum-Classical Dualism Relationship Between Sleep and Creativity
 

@@ -24,9 +24,9 @@
 
 对于任意复代数曲面$`S`$，若其不规则数$`q(S)=0`$（即$`H^1(S,\mathcal{O}_S)=0`$），则其2维整系数同调群的挠部分$`\text{Tors}(H^2(S,\mathbb{Z}))`$是双线性配对下正交的：
 
-$$
+$`
 \forall S(\text{代数曲面}), q(S)=0 \Rightarrow \text{Tors}(H^2(S,\mathbb{Z})) \text{ 是正交的}
-$$
+`$
 
 其中，不规则数$`q(S)=\dim H^1(S,\mathcal{O}_S)`$是曲面$`S`$的一个重要几何不变量。
 
@@ -45,22 +45,22 @@ $$
 
 从量子经典二元视角，布洛赫猜想可以表示为：
 
-$$
+$`
 \begin{align}
 \mathcal{Q}_{\text{量子拓扑结构}} &= H^*(S,\mathbb{Z}) \text{（曲面的整系数同调群）} \\
 \mathcal{I}_{\text{信息循环度}} &= q(S) = \dim H^1(S,\mathcal{O}_S) \text{（不规则数）} \\
 \mathcal{T}_{\text{离散信息残余}} &= \text{Tors}(H^2(S,\mathbb{Z})) \text{（2维同调群的挠部分）} \\
 \mathcal{O}_{\text{信息独立性}} &= \text{正交性条件}
 \end{align}
-$$
+`$
 
 ### 不规则数与信息循环的关系
 
 从量子经典视角，不规则数$`q(S)=0`$意味着曲面上不存在全局正则1-形式，这在量子信息理论中可以理解为：
 
-$$
+$`
 q(S)=0 \Rightarrow \text{经典化观察者流形中不存在信息循环通路}
-$$
+`$
 
 这一条件对应于量子信息经典化过程中的"无循环信息流"状态。
 
@@ -94,9 +94,9 @@ $$
 
 对于任何光滑射影代数曲面 $`S`$，我们有Hodge分解：
 
-$$
+$`
 H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)
-$$
+`$
 
 由于 $`S`$ 是Kähler的，我们有 $`H^{0,2}(S) = \overline{H^{2,0}(S)}`$，且 $`\dim H^{2,0}(S) = p_g(S)`$（几何亏格）。
 
@@ -108,17 +108,17 @@ $$
 
 形式上，我们有：
 
-$$
+$`
 \text{Tors}(H^2(S, \mathbb{Z})) \subset NS(S) = H^{1,1}(S) \cap H^2(S, \mathbb{Z})
-$$
+`$
 
 **步骤 3：挠元素的自交为零**
 
 For any $`\alpha \in \text{Tors}(H^2(S, \mathbb{Z}))`$, there exists a minimal positive integer $`n`$ such that $`n\alpha = 0`$. Considering the self-intersection $`\langle \alpha, \alpha \rangle`$, we have:
 
-$$
+$`
 n^2 \langle \alpha, \alpha \rangle = \langle n\alpha, n\alpha \rangle = \langle 0, 0 \rangle = 0
-$$
+`$
 
 Since $`n^2 \neq 0`$, we have $`\langle \alpha, \alpha \rangle = 0`$.
 
@@ -126,9 +126,9 @@ Since $`n^2 \neq 0`$, we have $`\langle \alpha, \alpha \rangle = 0`$.
 
 For any $`\alpha, \beta \in \text{Tors}(H^2(S, \mathbb{Z}))`$，考虑 $`\alpha + \beta`$ 的自交：
 
-$$
+$`
 \langle \alpha + \beta, \alpha + \beta \rangle = \langle \alpha, \alpha \rangle + 2\langle \alpha, \beta \rangle + \langle \beta, \beta \rangle = 2\langle \alpha, \beta \rangle
-$$
+`$
 
 Since $`\alpha + \beta`$ is also a torsion element, by Step 3, $`\langle \alpha + \beta, \alpha + \beta \rangle = 0`$, thus $`\langle \alpha, \beta \rangle = 0`$.
 
@@ -136,9 +136,9 @@ Since $`\alpha + \beta`$ is also a torsion element, by Step 3, $`\langle \alpha 
 
 For surfaces with $`q(S) = 0`$，周期映射 $`\Phi: H_2(S, \mathbb{Z})/\text{tors} \to \mathbb{C}^{p_g}`$ is defined as:
 
-$$
+$`
 \Phi([\gamma]) = \left( \int_{\gamma} \omega_1, \ldots, \int_{\gamma} \omega_{p_g} \right)
-$$
+`$
 
 where $`\{\omega_1, \ldots, \omega_{p_g}\}`$ is a basis of $`H^0(S, \Omega_S^2)`$.
 
@@ -162,9 +162,9 @@ We verify the cases for specific types of surfaces:
 
 首先考察曲面$`S`$的整系数同调群的结构。由通用系数定理，我们有：
 
-$$
+$`
 0 \rightarrow H^2(S,\mathbb{Z}) \otimes \mathbb{Q}/\mathbb{Z} \rightarrow H^2(S,\mathbb{Q}/\mathbb{Z}) \rightarrow \text{Tors}(H^3(S,\mathbb{Z})) \rightarrow 0
-$$
+`$
 
 从量子经典视角，这一短正合序列反映了连续量子信息（$`\mathbb{Q}/\mathbb{Z}`$）与离散量子信息（挠部分）之间的转化关系。
 
@@ -172,29 +172,29 @@ $$
 
 考虑$`S`$上的交叉配对：
 
-$$
+$`
 \langle \cdot, \cdot \rangle : H^2(S,\mathbb{Z}) \times H^2(S,\mathbb{Z}) \rightarrow \mathbb{Z}
-$$
+`$
 
 从量子经典视角，该配对反映了经典化观察者流形上不同拓扑信息成分之间的相互作用。
 
 当$`q(S)=0`$时，我们可以证明$`\text{Tors}(H^2(S,\mathbb{Z}))`$中的元素与自身的交叉积为零，即：
 
-$$
+$`
 \forall \alpha \in \text{Tors}(H^2(S,\mathbb{Z})), \langle \alpha, \alpha \rangle = 0
-$$
+`$
 
 ### 第三部分：量子经典独立性分析
 
 从量子经典角度，当观察者流形无信息循环（$`q(S)=0`$）时，离散量子信息残余（挠部分）必然表现出信息独立性（正交性）：
 
-$$
+$`
 \begin{align}
 q(S)=0 &\Rightarrow \text{无信息循环} \\
 &\Rightarrow \text{离散信息残余相互独立} \\
 &\Rightarrow \forall \alpha, \beta \in \text{Tors}(H^2(S,\mathbb{Z})), \langle \alpha, \beta \rangle = 0
 \end{align}
-$$
+`$
 
 ### 第四部分：具体例子分析
 
@@ -246,9 +246,9 @@ Bloch's Conjecture involves cohomology theory of algebraic surfaces, and its cor
 
 For any complex algebraic surface $`S`$, if its irregularity number $`q(S)=0`$ (i.e., $`H^1(S,\mathcal{O}_S)=0`$), then the torsion part of its second integer coefficient cohomology group $`\text{Tors}(H^2(S,\mathbb{Z}))`$ is orthogonal under bilinear pairing:
 
-$$
+$`
 \forall S(\text{algebraic surface}), q(S)=0 \Rightarrow \text{Tors}(H^2(S,\mathbb{Z})) \text{ is orthogonal}
-$$
+`$
 
 where the irregularity number $`q(S)=\dim H^1(S,\mathcal{O}_S)`$ is an important geometric invariant of the surface $`S`$.
 
@@ -267,22 +267,22 @@ From the Quantum-Classical Dualism perspective, algebraic geometric structures c
 
 From the Quantum-Classical perspective, Bloch's Conjecture can be represented as:
 
-$$
+$`
 \begin{align}
 \mathcal{Q}_{\text{Quantum Topological Structure}} &= H^*(S,\mathbb{Z}) \text{(integer coefficient cohomology group of the surface)} \\
 \mathcal{I}_{\text{Information Circulation Degree}} &= q(S) = \dim H^1(S,\mathcal{O}_S) \text{(irregularity number)} \\
 \mathcal{T}_{\text{Discrete Information Residue}} &= \text{Tors}(H^2(S,\mathbb{Z})) \text{(torsion part of the second cohomology group)} \\
 \mathcal{O}_{\text{Information Independence}} &= \text{orthogonality condition}
 \end{align}
-$$
+`$
 
 ### Relationship Between Irregularity Number and Information Circulation
 
 From the Quantum-Classical perspective, the irregularity number $`q(S)=0`$ means that there are no global regular 1-forms on the surface, which can be understood in quantum information theory as:
 
-$$
+$`
 q(S)=0 \Rightarrow \text{no information circulation pathways exist in the classicalized observer manifold}
-$$
+`$
 
 This condition corresponds to the state of "no cyclic information flow" in the quantum information classicalization process.
 
@@ -316,9 +316,9 @@ To prove this conjecture, we first establish several key lemmas:
 
 For any smooth projective algebraic surface $`S`$, we have the Hodge decomposition:
 
-$$
+$`
 H^2(S, \mathbb{C}) = H^{2,0}(S) \oplus H^{1,1}(S) \oplus H^{0,2}(S)
-$$
+`$
 
 Since $`S`$ is Kähler, we have $`H^{0,2}(S) = \overline{H^{2,0}(S)}`$, and $`\dim H^{2,0}(S) = p_g(S)`$ (geometric genus).
 
@@ -330,17 +330,17 @@ According to Lemmas 1 and 4, when $`q(S) = 0`$, elements in $`\text{Tors}(H^2(S,
 
 Formally, we have:
 
-$$
+$`
 \text{Tors}(H^2(S, \mathbb{Z})) \subset NS(S) = H^{1,1}(S) \cap H^2(S, \mathbb{Z})
-$$
+`$
 
 **Step 3: Self-Intersection of Torsion Elements is Zero**
 
 For any $`\alpha \in \text{Tors}(H^2(S, \mathbb{Z}))`$, there exists a minimal positive integer $`n`$ such that $`n\alpha = 0`$. Considering the self-intersection $`\langle \alpha, \alpha \rangle`$, we have:
 
-$$
+$`
 n^2 \langle \alpha, \alpha \rangle = \langle n\alpha, n\alpha \rangle = \langle 0, 0 \rangle = 0
-$$
+`$
 
 Since $`n^2 \neq 0`$, we have $`\langle \alpha, \alpha \rangle = 0`$.
 
@@ -348,9 +348,9 @@ Since $`n^2 \neq 0`$, we have $`\langle \alpha, \alpha \rangle = 0`$.
 
 For any $`\alpha, \beta \in \text{Tors}(H^2(S, \mathbb{Z}))`$，consider the self-intersection of $`\alpha + \beta`$:
 
-$$
+$`
 \langle \alpha + \beta, \alpha + \beta \rangle = \langle \alpha, \alpha \rangle + 2\langle \alpha, \beta \rangle + \langle \beta, \beta \rangle = 2\langle \alpha, \beta \rangle
-$$
+`$
 
 Since $`\alpha + \beta`$ is also a torsion element, by Step 3, $`\langle \alpha + \beta, \alpha + \beta \rangle = 0`$, thus $`\langle \alpha, \beta \rangle = 0`$.
 
@@ -358,9 +358,9 @@ Since $`\alpha + \beta`$ is also a torsion element, by Step 3, $`\langle \alpha 
 
 For surfaces with $`q(S) = 0`$, the period mapping $`\Phi: H_2(S, \mathbb{Z})/\text{tors} \to \mathbb{C}^{p_g}`$ is defined as:
 
-$$
+$`
 \Phi([\gamma]) = \left( \int_{\gamma} \omega_1, \ldots, \int_{\gamma} \omega_{p_g} \right)
-$$
+`$
 
 where $`\{\omega_1, \ldots, \omega_{p_g}\}`$ is a basis of $`H^0(S, \Omega_S^2)`$.
 
@@ -384,9 +384,9 @@ Through the systematic analysis of the above steps, we complete the proof of Blo
 
 First, examine the structure of the integer coefficient cohomology group of the surface $`S`$. By the universal coefficient theorem, we have:
 
-$$
+$`
 0 \rightarrow H^2(S,\mathbb{Z}) \otimes \mathbb{Q}/\mathbb{Z} \rightarrow H^2(S,\mathbb{Q}/\mathbb{Z}) \rightarrow \text{Tors}(H^3(S,\mathbb{Z})) \rightarrow 0
-$$
+`$
 
 From the Quantum-Classical perspective, this short exact sequence reflects the transformation relationship between continuous quantum information ($`\mathbb{Q}/\mathbb{Z}`$) and discrete quantum information (torsion part).
 

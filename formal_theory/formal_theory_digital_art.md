@@ -23,9 +23,9 @@
 
 数字艺术同时存在于量子和经典两个域中：
 
-$$
+$`
 A_{digital} = \{A_Q, A_C\}
-$$
+`$
 
 其中：
 - $`A_Q`$ 是量子数字艺术空间，包含所有可能的艺术表达、解释和体验
@@ -33,17 +33,17 @@ $$
 
 二者的交集构成艺术界面：
 
-$$
+$`
 A_I = A_Q \cap A_C
-$$
+`$
 
 ### 艺术信息维度
 
 数字艺术信息可沿多个维度展开：
 
-$$
+$`
 I_A = \{I_{form}, I_{meaning}, I_{context}, I_{emotion}, I_{interaction}\}
-$$
+`$
 
 其中各个维度分别表示形式信息、意义信息、语境信息、情感信息和交互信息。
 
@@ -53,9 +53,9 @@ $$
 
 数字艺术可表示为多维矢量空间中的艺术状态：
 
-$$
+$`
 |\psi_A\rangle = \sum_{i,j,k...} \alpha_{ijk...} |f_i\rangle \otimes |m_j\rangle \otimes |c_k\rangle \otimes ...
-$$
+`$
 
 其中：
 - $`|f_i\rangle`$ 表示形式基矢量
@@ -71,9 +71,9 @@ $$
 
 数字艺术的创意状态可表示为艺术波函数：
 
-$$
+$`
 |\Psi_A(t)\rangle = \sum_i \alpha_i(t) |A_i\rangle
-$$
+`$
 
 其中：
 - $`|A_i\rangle`$ 是可能的艺术状态基矢
@@ -85,15 +85,15 @@ $$
 
 艺术创意存在于多重可能性的叠加状态：
 
-$$
+$`
 |\Psi_{creative}\rangle = \sum_i c_i |idea_i\rangle
-$$
+`$
 
 创意叠加态的熵是创造力的量度：
 
-$$
+$`
 S_{creative} = -\sum_i |c_i|^2 \log |c_i|^2
-$$
+`$
 
 熵越高，创意的量子不确定性和创新潜力越大。
 
@@ -101,9 +101,9 @@ $$
 
 艺术家、作品和观众形成三方纠缠系统：
 
-$$
+$`
 |\Psi_{AOV}\rangle = \sum_{i,j,k} \gamma_{ijk} |artist_i\rangle \otimes |artwork_j\rangle \otimes |viewer_k\rangle
-$$
+`$
 
 这一纠缠解释了为何相同作品对不同观众产生不同体验，以及艺术家如何通过作品与观众形成非局域联系。
 
@@ -113,17 +113,17 @@ $$
 
 1. **媒介叠加性**：数字艺术可同时以多种媒介形式存在
 
-$$
+$`
 |\Psi_{media}\rangle = c_1|visual\rangle + c_2|audio\rangle + c_3|interactive\rangle + ...
-$$
+`$
 
 2. **信息非局域性**：数字艺术信息可瞬时在全球范围传播和访问
 
 3. **存在不确定性**：数字艺术的存在状态介于物质与非物质之间
 
-$$
+$`
 \Delta(物质性) \cdot \Delta(信息性) \geq \frac{\hbar_{art}}{2}
-$$
+`$
 
 4. **量子随机生成**：利用量子随机性生成艺术元素和结构
 
@@ -131,17 +131,17 @@ $$
 
 AI生成艺术可视为量子生成过程：
 
-$$
+$`
 |\Psi_{gen}\rangle = \hat{G}|\Psi_{input}\rangle
-$$
+`$
 
 其中 $`\hat{G}`$ 是生成算符，将输入空间映射到艺术可能性空间。
 
 生成艺术的量子信息提取与传递效率为：
 
-$$
+$`
 \eta_{gen} = \frac{S(|\Psi_{output}\rangle)}{S(|\Psi_{input}\rangle)} \cdot \frac{I_{aesthetic}(output)}{I_{processed}}
-$$
+`$
 
 高效的生成系统能用最小信息输入获得最大美学输出。
 
@@ -151,9 +151,9 @@ $$
 
 数字艺术的经典感知可通过感知函数量化：
 
-$$
+$`
 P(A) = \int_{\Omega} w(x) \cdot f_A(x) dx
-$$
+`$
 
 其中：
 - $`f_A(x)`$ 是艺术特征函数
@@ -166,17 +166,17 @@ $$
 
 数字艺术的经典复杂度可通过信息熵测量：
 
-$$
+$`
 H(A) = -\sum_i p_i \log_2 p_i
-$$
+`$
 
 其中 $`p_i`$ 是艺术元素 $`i`$ 出现的概率。
 
 艺术的有效复杂度平衡了秩序与混沌：
 
-$$
+$`
 C_{eff}(A) = S(A) \cdot (1 - S(A)/S_{max})
-$$
+`$
 
 有效复杂度在完全随机和完全规则之间达到最大值。
 
@@ -184,9 +184,9 @@ $$
 
 交互式数字艺术的动力学可表示为：
 
-$$
+$`
 \frac{dA}{dt} = f_A(A, U, t) \quad \frac{dU}{dt} = f_U(A, U, t)
-$$
+`$
 
 其中：
 - $`A`$ 是艺术状态向量
@@ -199,9 +199,9 @@ $$
 
 经典数字艺术可通过多维度标准评价：
 
-$$
+$`
 V(A) = \sum_i w_i \cdot v_i(A)
-$$
+`$
 
 其中：
 - $`v_i(A)`$ 是各评价维度（如新颖性、连贯性、技术性、情感感染力等）
@@ -215,9 +215,9 @@ $$
 
 艺术观赏导致艺术波函数坍缩：
 
-$$
+$`
 |\Psi_A\rangle \xrightarrow{观赏} |A_k\rangle \quad \text{概率} = |\alpha_k|^2 \cdot f(O, C, E)
-$$
+`$
 
 其中：
 - $`|A_k\rangle`$ 是特定艺术体验状态
@@ -229,9 +229,9 @@ $$
 
 数字艺术在数字-物理界面实现：
 
-$$
+$`
 \mathcal{M}: \mathcal{A}_D \rightarrow \mathcal{A}_P, \quad A_P = \mathcal{M}(A_D, D, \xi)
-$$
+`$
 
 其中：
 - $`\mathcal{A}_D`$ 是数字艺术空间
@@ -245,17 +245,17 @@ $$
 
 数字艺术的相干性随时间和社会互动衰减：
 
-$$
+$`
 \rho_A(t) = \sum_{i,j} \rho_{ij}(0) e^{-\gamma_{ij}t} |A_i\rangle\langle A_j|
-$$
+`$
 
 其中 $`\gamma_{ij}`$ 是解相干率，受社会关注度、媒体报道和批评话语影响。
 
 艺术相干性决定了作品保持多重解释潜力的能力：
 
-$$
+$`
 C_A(t) = \text{Tr}(\rho_A^2(t))
-$$
+`$
 
 相干性高的作品能长期保持多元解读空间。
 
@@ -265,9 +265,9 @@ $$
 
 AI生成艺术展现量子-经典双重性：
 
-$$
+$`
 |\Psi_{AI}\rangle = \hat{U}_{GAN}|\Psi_{latent}\rangle = \sum_i \beta_i |style_i\rangle \otimes |content_i\rangle
-$$
+`$
 
 AI系统在潜在空间的量子探索和经典输出之间创建桥梁：
 
@@ -280,9 +280,9 @@ AI系统在潜在空间的量子探索和经典输出之间创建桥梁：
 
 VR/AR艺术创造量子-经典双层体验：
 
-$$
+$`
 |\Psi_{VR}\rangle = \sum_{i,j} \delta_{ij} |virtual_i\rangle \otimes |physical_j\rangle
-$$
+`$
 
 VR/AR艺术的关键量子-经典特性包括：
 
@@ -295,9 +295,9 @@ VR/AR艺术的关键量子-经典特性包括：
 
 交互式艺术形成动态量子-经典系统：
 
-$$
+$`
 |\Psi_{inter}(t)\rangle = \hat{U}_{interaction}(t)|\Psi_{initial}\rangle
-$$
+`$
 
 关键特性包括：
 
@@ -310,9 +310,9 @@ $$
 
 区块链艺术展现独特的量子-经典特性：
 
-$$
+$`
 |\Psi_{NFT}\rangle = |digital\rangle \otimes |ownership\rangle \otimes |value\rangle
-$$
+`$
 
 NFT的量子-经典特性包括：
 
@@ -329,27 +329,27 @@ NFT的量子-经典特性包括：
 
 1. **量子灵感相**：创意处于高度叠加态
 
-$$
+$`
 |\Psi_{inspiration}\rangle = \sum_i a_i |idea_i\rangle
-$$
+`$
 
 2. **创意探索相**：在量子可能性空间中探索
 
-$$
+$`
 |\Psi_t\rangle = e^{-i\hat{H}_{creative}t/\hbar}|\Psi_0\rangle
-$$
+`$
 
 3. **选择坍缩相**：艺术家观察导致创意坍缩
 
-$$
+$`
 |\Psi_{idea}\rangle \xrightarrow{选择} |idea_k\rangle
-$$
+`$
 
 4. **经典实现相**：将选定创意转化为实体作品
 
-$$
+$`
 A_C = f(|idea_k\rangle, T, S)
-$$
+`$
 
 其中 $`T`$ 是技术条件，$`S`$ 是风格约束。
 
@@ -359,33 +359,33 @@ $$
 
 1. **初始接触相**：观众形成初始感知态
 
-$$
+$`
 |\Psi_{initial}\rangle = |viewer\rangle \otimes |artwork\rangle
-$$
+`$
 
 2. **量子共振相**：观众与作品形成纠缠共振
 
-$$
+$`
 |\Psi_{resonance}\rangle = \sum_{i,j} \gamma_{ij} |viewer_i\rangle \otimes |artwork_j\rangle
-$$
+`$
 
 3. **解释坍缩相**：观众理解导致意义坍缩
 
-$$
+$`
 |\Psi_{interpretation}\rangle \xrightarrow{理解} |meaning_k\rangle
-$$
+`$
 
 4. **体验整合相**：艺术体验整合入观众经验
 
-$$
+$`
 |viewer'⟩ = |viewer⟩ + \Delta|experience_k⟩
-$$
+`$
 
 欣赏深度与观众-作品共振强度成正比：
 
-$$
+$`
 D_{appreciation} \propto |\langle\Psi_{viewer}|\hat{H}_{art}|\Psi_{artwork}\rangle|
-$$
+`$
 
 ### 集体艺术共识模型
 
@@ -393,33 +393,33 @@ $$
 
 1. **多元解释叠加**：初始阶段存在多种解释
 
-$$
+$`
 |\Psi_{social}\rangle = \sum_i c_i |interpretation_i\rangle
-$$
+`$
 
 2. **批评话语干涉**：批评话语产生解释间干涉
 
-$$
+$`
 \langle interpretation_i|interpretation_j\rangle = \delta_{ij} + \epsilon_{ij}
-$$
+`$
 
 3. **文化机构投影**：文化机构投影特定解释
 
-$$
+$`
 \hat{P}_{institution} = \sum_i w_i |interpretation_i\rangle\langle interpretation_i|
-$$
+`$
 
 4. **共识形成坍缩**：社会交互导致解释趋同
 
-$$
+$`
 \rho_{consensus} = \sum_i p_i |interpretation_i\rangle\langle interpretation_i|
-$$
+`$
 
 共识熵随时间减小：
 
-$$
+$`
 S_{consensus}(t) = -\sum_i p_i(t) \ln p_i(t), \quad \frac{dS_{consensus}}{dt} < 0
-$$
+`$
 
 ### 数字艺术演化模型
 
@@ -427,27 +427,27 @@ $$
 
 1. **创新量子跃迁**：艺术变革表现为量子跃迁
 
-$$
+$`
 |style_n\rangle \xrightarrow{创新} |style_{n+1}\rangle
-$$
+`$
 
 2. **风格空间扩张**：艺术空间在不断扩展
 
-$$
+$`
 \dim(\mathcal{H}_{art}(t)) > \dim(\mathcal{H}_{art}(t-\Delta t))
-$$
+`$
 
 3. **技术-美学耦合**：技术进步与美学变革相互耦合
 
-$$
+$`
 \frac{d\mathcal{A}}{dt} = f_A(\mathcal{A}, \mathcal{T}), \quad \frac{d\mathcal{T}}{dt} = f_T(\mathcal{A}, \mathcal{T})
-$$
+`$
 
 4. **艺术系谱涌现**：艺术风格形成分岔树状结构
 
-$$
+$`
 \mathcal{G}_{art} = \{S, E, w\}
-$$
+`$
 
 其中 $`S`$ 是风格节点集，$`E`$ 是影响关系集，$`w`$ 是关系强度。
 
@@ -459,9 +459,9 @@ $$
 
 1. **量子思维图**：将创意空间可视化为量子思维图
 
-$$
+$`
 G_Q = \{I, R, P\}
-$$
+`$
 
    其中 $`I`$ 是创意节点集，$`R`$ 是关系集，$`P`$ 是节点重要性权重。
 
@@ -492,31 +492,31 @@ $$
 
 1. **多维评价向量**：
 
-$$
+$`
 V_{art} = (v_{novelty}, v_{coherence}, v_{complexity}, v_{emotion}, v_{technique})
-$$
+`$
 
 2. **量子创新度**：评估作品的量子创新贡献
 
-$$
+$`
 I_{quantum} = -\log_2 P(A|H_{art})
-$$
+`$
 
    其中 $`P(A|H_{art})`$ 是给定艺术历史条件下作品出现的概率。
 
 3. **量子-经典平衡度**：评估作品在量子可能性与经典确定性间的平衡
 
-$$
+$`
 B_{QC} = \frac{H(A)}{H_{max}} \cdot \frac{C(A)}{C_{max}}
-$$
+`$
 
    其中 $`H(A)`$ 是作品熵，$`C(A)`$ 是作品连贯性。
 
 4. **艺术共振深度**：评估作品引发观众共鸣的深度
 
-$$
+$`
 D_{resonance} = \frac{1}{N} \sum_i |\langle\Psi_{viewer_i}|\hat{H}_{resonance}|\Psi_{artwork}\rangle|^2
-$$
+`$
 
 ### 面向未来的数字艺术应用
 

@@ -52,9 +52,9 @@ The Digha Nikaya is one of the most important texts in the Pali Canon, containin
 
 ### 量子态演化方程
 
-$$
+$`
 |\psi(t)\rangle = e^{-iHt/\hbar}|\psi(0)\rangle
-$$
+`$
 
 其中：
 - $`|\psi(t)\rangle`$ 表示t时刻的量子态
@@ -63,9 +63,9 @@ $$
 
 ### 经典化路径方程
 
-$$
+$`
 P_{classical} = \int_{quantum} |\langle \phi|\psi\rangle|^2 d\phi
-$$
+`$
 
 其中：
 - $`P_{classical}`$ 是经典化概率

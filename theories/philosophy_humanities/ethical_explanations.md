@@ -50,13 +50,13 @@ In the Quantum Universe-Observer framework, morality is understood as coordinati
 
 Mathematical representation of the nature of morality:
 
-$$
+$`
 \text{道德系统} = \{\text{价值}, \text{规范}, \text{情感}, \text{推理}\} = \text{协调}(\text{观察者间信息交互})
-$$
+`$
 
-$$
+$`
 \text{道德判断} = f(\text{情感反应}, \text{理性评估}, \text{社会规范}) = \alpha \cdot \text{情感} + \beta \cdot \text{理性} + \gamma \cdot \text{规范}
-$$
+`$
 
 这一解释将道德理解为观察者之间经典化信息交互的协调模式，强调了道德的生物基础、认知维度和社会功能的统一。
 
@@ -98,13 +98,13 @@ In the Quantum Universe-Observer framework, values are understood as priority st
 
 Mathematical representation of values:
 
-$$
+$`
 \text{价值系统} = \{\text{偏好排序}, \text{权重分配}, \text{评估标准}\} = \text{优先级}(\text{经典化状态})
-$$
+`$
 
-$$
+$`
 \text{善} = \max_{\text{状态}} \sum_i w_i \cdot \text{价值}_i(\text{状态}) = \max_{\text{状态}} f(\text{稳定性}, \text{复杂性}, \text{协调性})
-$$
+`$
 
 这一解释将价值理解为观察者信息处理系统中的优先级结构，强调了价值的主观性与客观性的统一以及价值多元主义的合理基础。
 
@@ -162,13 +162,13 @@ In the Quantum Universe-Observer framework, ethical decision-making is understoo
 
 Mathematical representation of ethical decision-making:
 
-$$
+$`
 \text{伦理决策} = f(\text{直觉}, \text{推理}, \text{整合}) = \text{选择}(\arg\max_{\text{行动}} \text{伦理价值}(\text{行动}))
-$$
+`$
 
-$$
+$`
 \text{伦理评估} = w_1 \cdot \text{功利计算} + w_2 \cdot \text{义务符合} + w_3 \cdot \text{德性表现}
-$$
+`$
 
 这一解释将伦理决策理解为多层次经典化信息处理过程，强调了不同伦理理论的互补性和情感-理性整合的重要性。
 
@@ -220,13 +220,13 @@ In the Quantum Universe-Observer framework, responsibility is understood as the 
 
 Mathematical representation of responsibility:
 
-$$
+$`
 \text{责任度} = f(\text{选择自由度}, \text{因果影响度}, \text{信息获取度}, \text{角色期望})
-$$
+`$
 
-$$
+$`
 \text{自由度} = \text{可能的经典化路径数量} \times \text{选择这些路径的能力}
-$$
+`$
 
 这一解释将责任理解为观察者经典化选择的归属关系，强调了责任与自由、因果和社会角色的内在联系。
 
@@ -284,13 +284,13 @@ In the Quantum Universe-Observer framework, ethical development is understood as
 
 Mathematical representation of ethical development:
 
-$$
+$`
 \text{个体道德发展} = \frac{d(\text{经典化复杂度})}{dt} = f(\text{认知发展}, \text{社会经验}, \text{反思能力})
-$$
+`$
 
-$$
+$`
 \text{伦理进步} = \Delta(\text{包容性} \times \text{一致性} \times \text{适应性} \times \text{反思性}) > 0
-$$
+`$
 
 这一解释将伦理发展理解为经典化协调模式的复杂化过程，强调了个体和社会伦理发展的连续性和进步可能性。
 
@@ -350,13 +350,13 @@ In the Quantum Universe-Observer framework, applied ethics is understood as clas
 
 Mathematical representation of applied ethics:
 
-$$
+$`
 \text{应用伦理决策} = \arg\max_{\text{行动}} \sum_i w_i \cdot \text{价值}_i(\text{行动}) \text{ 受约束于 } \text{领域特定条件}
-$$
+`$
 
-$$
+$`
 \text{伦理平衡} = f(\text{包容度}, \text{信息共享}, \text{程序公正}, \text{创新解决})
-$$
+`$
 
 这一解释将应用伦理学理解为特定领域的经典化协调问题，强调了伦理原则应用的情境敏感性和利益平衡的重要性。
 
@@ -400,13 +400,13 @@ In the Quantum Universe-Observer framework, meta-ethical problems are understood
 
 Mathematical representation of meta-ethics:
 
-$$
+$`
 \text{道德语句} = \{\text{描述成分}, \text{规范成分}\} = \{\text{是什么}, \text{应该是什么}\}
-$$
+`$
 
-$$
+$`
 \text{道德事实} = \text{关系事实}(\text{观察者}, \text{经典化协调}) = f(\text{主观偏好}, \text{客观约束})
-$$
+`$
 
 这一解释将元伦理学问题理解为关于经典化协调系统本质的反思，提供了超越传统主观主义与客观主义二分的整合视角。
 

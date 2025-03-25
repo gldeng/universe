@@ -52,9 +52,9 @@ Sahih al-Bukhari is the second most important text in Islam, compiled by Muhamma
 
 ### 意图-行为经典化方程
 
-$$
+$`
 |\psi_{\text{行为}}(t)\rangle = \sum_{i} \alpha_i(t)|\text{意图}_i\rangle
-$$
+`$
 
 其中：
 - $`|\psi_{\text{行为}}(t)\rangle`$ 表示t时刻的行为量子态
@@ -64,9 +64,9 @@ $$
 
 ### 传述链信息保真度方程
 
-$$
+$`
 F_{\text{伊斯纳德}} = \prod_{i=1}^{n} (1 - \epsilon_i)
-$$
+`$
 
 其中：
 - $`F_{\text{伊斯纳德}}`$ 是传述链的信息保真度

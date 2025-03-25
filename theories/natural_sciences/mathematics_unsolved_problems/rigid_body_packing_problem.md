@@ -31,29 +31,29 @@ Sphere packing is particularly important because spheres represent the most fund
 
 对于刚体 $`B`$ 在 $`n`$ 维欧氏空间 $`\mathbb{R}^n`$ 中的堆积问题，定义堆积密度为：
 
-$$
+$`
 \delta = \frac{\text{物体占据的体积}}{\text{总空间体积}}
-$$
+`$
 
 对于球体堆积，开普勒猜想（现已证明）声称三维空间中的最优堆积密度为：
 
-$$
+$`
 \delta_{\text{max}} = \frac{\pi}{3\sqrt{2}} \approx 0.74048...
-$$
+`$
 
 该密度可通过面心立方格子堆积或六方密堆积实现。
 
 For the packing problem of rigid body $`B`$ in $`n`$-dimensional Euclidean space $`\mathbb{R}^n`$, the packing density is defined as:
 
-$$
+$`
 \delta = \frac{\text{volume occupied by objects}}{\text{total volume of space}}
-$$
+`$
 
 For sphere packing, the Kepler conjecture (now proven) states that the optimal packing density in three-dimensional space is:
 
-$$
+$`
 \delta_{\text{max}} = \frac{\pi}{3\sqrt{2}} \approx 0.74048...
-$$
+`$
 
 This density can be achieved through face-centered cubic lattice packing or hexagonal close packing.
 
@@ -71,9 +71,9 @@ This density can be achieved through face-centered cubic lattice packing or hexa
 
 **定义 1.3** (堆积密度)：对于堆积 $`\mathcal{P}`$，其渐近密度定义为：
 
-$$
+$`
 \delta(\mathcal{P}) = \lim_{r \to \infty} \frac{\text{vol}(\cup_{i \in I} B_i \cap B_r)}{\text{vol}(B_r)}
-$$
+`$
 
 其中 $`B_r`$ 表示原点为中心、半径为 $`r`$ 的球。
 
@@ -121,9 +121,9 @@ $$
 
 **定理 5.1** (维度依赖性)：在 $`n`$ 维欧氏空间中，球体的最优堆积密度 $`\delta_n`$ 满足：
 
-$$
+$`
 \delta_n \leq 2^{-n} \cdot n \cdot \log(n) \cdot (1+o(1))
-$$
+`$
 
 **证明**：基于信息论和组合几何的分析，结合量子-经典信息转换的效率随维度增加而降低的原理。
 
@@ -133,9 +133,9 @@ $$
 
 **定理 6.1**：对于具有 $`k`$ 阶旋转对称性的刚体 $`B`$，其最优堆积密度 $`\delta_B`$ 与其量子-经典对称性破缺程度 $`\beta(B)`$ 满足关系：
 
-$$
+$`
 \delta_B \sim \frac{1}{\beta(B)} \cdot f(k)
-$$
+`$
 
 其中 $`f(k)`$ 是与对称阶数相关的函数。
 
@@ -153,9 +153,9 @@ First, we establish the following basic mathematical structures:
 
 **Definition 1.3** (Packing Density): For a packing $`\mathcal{P}`$, its asymptotic density is defined as:
 
-$$
+$`
 \delta(\mathcal{P}) = \lim_{r \to \infty} \frac{\text{vol}(\cup_{i \in I} B_i \cap B_r)}{\text{vol}(B_r)}
-$$
+`$
 
 where $`B_r`$ represents a ball centered at the origin with radius $`r`$.
 
@@ -203,9 +203,9 @@ where $`B_r`$ represents a ball centered at the origin with radius $`r`$.
 
 **Theorem 5.1** (Dimension Dependency): In $`n`$-dimensional Euclidean space, the optimal packing density $`\delta_n`$ of spheres satisfies:
 
-$$
+$`
 \delta_n \leq 2^{-n} \cdot n \cdot \log(n) \cdot (1+o(1))
-$$
+`$
 
 **Proof**: Based on information theory and combinatorial geometry analysis, combined with the principle that quantum-classical information conversion efficiency decreases with increasing dimensions.
 
@@ -215,9 +215,9 @@ $$
 
 **Theorem 6.1**: For a rigid body $`B`$ with $`k`$-fold rotational symmetry, its optimal packing density $`\delta_B`$ and its quantum-classical symmetry breaking degree $`\beta(B)`$ satisfy the relationship:
 
-$$
+$`
 \delta_B \sim \frac{1}{\beta(B)} \cdot f(k)
-$$
+`$
 
 where $`f(k)`$ is a function related to the order of symmetry.
 

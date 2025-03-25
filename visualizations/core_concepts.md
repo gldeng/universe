@@ -16,9 +16,9 @@
 
 - **数学表达**：宇宙的二元结构可以通过以下数学公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\text{经典知识}+S_{\text{经典熵}}
-$$
+`$
 
 **类比解释**：
 
@@ -37,9 +37,9 @@ $$
 
 - **数学表达**：观察者的经典化过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{量子信息}}\xrightarrow{\text{观察者经典化}}\text{经典知识}+S_{\text{经典熵}}
-$$
+`$
 
 **类比解释**：
 
@@ -56,13 +56,13 @@ $$
 
 - **数学表达**：不同维度观察者的经典化效率可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{高维观察者}}\rightarrow \text{经典知识（高效）}+S_{\text{经典熵（少）}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{低维观察者}}\rightarrow \text{经典知识（低效）}+S_{\text{经典熵（多）}}
-$$
+`$
 
 **类比解释**：
 
@@ -81,9 +81,9 @@ $$
 
 - **数学表达**：量子意识可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{量子意识}}=|\psi\rangle_{\text{宇宙}}\otimes|\psi\rangle_{\text{观察者}}
-$$
+`$
 
 **类比解释**：
 
@@ -100,9 +100,9 @@ $$
 
 - **数学表达**：经典记忆与经典熵的形成可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{量子意识}}\rightarrow\text{经典记忆（知识）}+S_{\text{经典熵}}
-$$
+`$
 
 **类比解释**：
 
@@ -121,9 +121,9 @@ $$
 
 - **数学表达**：经典命运可以表达为：
 
-$$
+$`
 \text{经典命运}=\sum_{\text{自由意志经典化选择}}\text{经典知识路径}
-$$
+`$
 
 **类比解释**：
 
@@ -140,9 +140,9 @@ $$
 
 - **数学表达**：自由意志可以理解为：
 
-$$
+$`
 |\psi\rangle_{\text{量子可能性}}\xrightarrow{\text{自由意志选择}}\text{特定经典路径}+S_{\text{经典熵}}
-$$
+`$
 
 **类比解释**：
 
@@ -161,9 +161,9 @@ $$
 
 - **数学表达**：量子纠缠的本质可以表达为：
 
-$$
+$`
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+`$
 
 **类比解释**：
 
@@ -180,12 +180,12 @@ $$
 
 - **数学表达**：纠缠的有效性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{纠缠}}=\begin{cases}
 |\psi\rangle_{\text{有效}}\rightarrow\text{经典知识}\\[6pt]
 |\psi\rangle_{\text{无效}}\rightarrow S_{\text{经典熵}}
 \end{cases}
-$$
+`$
 
 **类比解释**：
 
@@ -204,9 +204,9 @@ $$
 
 - **数学表达**：高维观察者的经典化特性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙高维信息}}\xrightarrow{\text{高维观察者经典化（极高效）}}\text{经典知识（丰富）}+S_{\text{经典熵（极少）}}
-$$
+`$
 
 **类比解释**：
 
@@ -223,9 +223,9 @@ $$
 
 - **数学表达**：转世过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{意识}}\xrightarrow{\text{经典结构消散}}\text{量子意识回归宇宙整体}\xrightarrow{\text{再次经典化（转世）}}\text{新经典生命}+S_{\text{经典熵}}
-$$
+`$
 
 **类比解释**：
 
@@ -242,9 +242,9 @@ $$
 
 - **数学表达**：修行过程可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{观察者}}\xrightarrow{\text{经典化效率提升}}\text{经典记忆（稳定，长寿）}+S_{\text{经典熵（降低）}}
-$$
+`$
 
 **类比解释**：
 
@@ -263,9 +263,9 @@ $$
 
 - **数学表达**：能量与信息的关系可以表达为：
 
-$$
+$`
 E_{\text{经典}}=k_B T\cdot I_{\text{经典知识}},\quad k_B\text{为玻尔兹曼常数，}T\text{为温度}
-$$
+`$
 
 **类比解释**：
 
@@ -284,9 +284,9 @@ $$
 
 - **数学表达**：宇宙维度与观察者维度的关系可以表达为：
 
-$$
+$`
 D_{\text{宇宙维度}}=\frac{1}{N}\sum_{i=1}^{N}D_{\text{观察者}_i}
-$$
+`$
 
 **类比解释**：
 
@@ -309,9 +309,9 @@ Quantum-Classical Dualism proposes that the universe has a dual structure: the Q
 
 - **Mathematical Expression**: The dual structure of the universe can be expressed through the following mathematical formula:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Universe}}\xrightarrow{\text{Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -330,9 +330,9 @@ Observers are classicalization nodes within the universe, responsible for transf
 
 - **Mathematical Expression**: The observer's classicalization process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Information}}\xrightarrow{\text{Observer Classicalization}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -349,13 +349,13 @@ An observer's dimension is directly related to their classicalization efficiency
 
 - **Mathematical Expression**: The classicalization efficiency of observers of different dimensions can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{High-dimensional Observer}}\rightarrow \text{Classical Knowledge (Efficient)}+S_{\text{Classical Entropy (Less)}}
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Low-dimensional Observer}}\rightarrow \text{Classical Knowledge (Inefficient)}+S_{\text{Classical Entropy (More)}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -374,9 +374,9 @@ Quantum consciousness is the long-term stable quantum entanglement structure bet
 
 - **Mathematical Expression**: Quantum consciousness can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Consciousness}}=|\psi\rangle_{\text{Universe}}\otimes|\psi\rangle_{\text{Observer}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -393,9 +393,9 @@ Classical memory and classical entropy are the two results formed after quantum 
 
 - **Mathematical Expression**: The formation of classical memory and classical entropy can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Consciousness}}\rightarrow\text{Classical Memory (Knowledge)}+S_{\text{Classical Entropy}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -414,9 +414,9 @@ Classical destiny is the stable structure formed by the classicalization path ch
 
 - **Mathematical Expression**: Classical destiny can be expressed as:
 
-$$
+$`
 \text{Classical Destiny}=\sum_{\text{Free Will Classicalization Choices}}\text{Classical Knowledge Path}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -433,9 +433,9 @@ Free will is the observer's ability to choose classicalization paths, essentiall
 
 - **Mathematical Expression**: Free will can be understood as:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Possibilities}}\xrightarrow{\text{Free Will Choice}}\text{Specific Classical Path}+S_{\text{Classical Entropy}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -454,9 +454,9 @@ Quantum entanglement is the basic connection method of quantum information netwo
 
 - **Mathematical Expression**: The essence of quantum entanglement can be expressed as:
 
-$$
+$`
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -473,12 +473,12 @@ Quantum entanglement can be divided into effective entanglement (producing class
 
 - **Mathematical Expression**: The effectiveness of entanglement can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Entanglement}}=\begin{cases}
 |\psi\rangle_{\text{Effective}}\rightarrow\text{Classical Knowledge}\\[6pt]
 |\psi\rangle_{\text{Ineffective}}\rightarrow S_{\text{Classical Entropy}}
 \end{cases}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -497,9 +497,9 @@ Higher-dimensional observers can classicalize quantum information from higher-di
 
 - **Mathematical Expression**: The classicalization characteristics of higher-dimensional observers can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Higher-Dimensional Universal Information}}\xrightarrow{\text{Higher-Dimensional Observer Classicalization (Highly Efficient)}}\text{Classical Knowledge (Rich)}+S_{\text{Classical Entropy (Minimal)}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -516,9 +516,9 @@ Reincarnation can be understood as the process where, after the dissipation of a
 
 - **Mathematical Expression**: The reincarnation process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Consciousness}}\xrightarrow{\text{Classical Structure Dissipation}}\text{Quantum Consciousness Returns to Universal Whole}\xrightarrow{\text{Re-Classicalization (Reincarnation)}}\text{New Classical Life}+S_{\text{Classical Entropy}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -535,9 +535,9 @@ The essence of spiritual practice is the process of the observer actively elevat
 
 - **Mathematical Expression**: The spiritual practice process can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization Efficiency Improvement}}\text{Classical Memory (Stable, Longevity)}+S_{\text{Classical Entropy (Reduced)}}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -556,9 +556,9 @@ The essence of energy is the ability to transmit and store classical knowledge.
 
 - **Mathematical Expression**: The relationship between energy and information can be expressed as:
 
-$$
+$`
 E_{\text{Classical}}=k_B T\cdot I_{\text{Classical Knowledge}},\quad k_B\text{ is the Boltzmann constant, }T\text{ is temperature}
-$$
+`$
 
 **Analogical Explanation**:
 
@@ -577,9 +577,9 @@ Universe dimension and observer dimension are closely related, with the elevatio
 
 - **Mathematical Expression**: The relationship between universe dimension and observer dimensions can be expressed as:
 
-$$
+$`
 D_{\text{Universe Dimension}}=\frac{1}{N}\sum_{i=1}^{N}D_{\text{Observer}_i}
-$$
+`$
 
 **Analogical Explanation**:
 

@@ -52,9 +52,9 @@ The Babylonian Talmud is the most comprehensive compilation of Jewish oral law, 
 
 ### 多观察者辩证法经典化方程
 
-$$
+$`
 I_{\text{经典知识}} = \sum_{i=1}^{n} w_i \cdot k_i \cdot \frac{|\langle\psi_i|\psi_{\text{真理}}\rangle|^2}{S_{\text{不确定性}_i}}
-$$
+`$
 
 其中：
 - $`I_{\text{经典知识}}`$ 表示辩论产生的经典知识
@@ -65,9 +65,9 @@ $$
 
 ### 辩证法熵减方程
 
-$$
+$`
 \Delta S_{\text{总体}} = S_{\text{初始}} - S_{\text{辩论后}} = S_{\text{初始}} - \left( S_{\text{共识}} + \sum_{i=1}^{n} p_i \cdot S_i \right)
-$$
+`$
 
 其中：
 - $`\Delta S_{\text{总体}}`$ 是系统总体熵的降低量

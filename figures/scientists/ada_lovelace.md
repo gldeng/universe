@@ -29,9 +29,9 @@
 
 艾达·洛芙莱斯的思想代表了抽象量子可能性与具体经典实现之间的桥梁。她的工作本质上是探索如何将人类思维的量子特性（抽象、创造、想象）通过算法这一媒介转化为机器可执行的经典操作。
 
-$$
+$`
 |\psi\rangle_{\text{洛芙莱斯思维}} = |\psi\rangle_{\text{抽象思维（量子）}} \otimes I_{\text{算法表达（经典）}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,6 +40,7 @@ $$
    洛芙莱斯对计算通用性的洞见反映了对量子概念经典化的深刻理解：
 
    $$
+
    |\psi\rangle_{\text{抽象概念}} \xrightarrow{\text{符号编码}} I_{\text{可计算表示}} \xrightarrow{\text{算法处理}} I'_{\text{新形式}}
    $$
 
@@ -50,6 +51,7 @@ $$
    洛芙莱斯的算法思维本质上是创造量子-经典转换机制：
 
    $$
+
    |\psi\rangle_{\text{问题解决路径}} \xrightarrow{\text{算法设计}} I_{\text{步骤序列}} \xrightarrow{\text{机器执行}} I_{\text{问题解决}}
    $$
 
@@ -60,6 +62,7 @@ $$
    "诗意科学"概念体现了量子创造性与经典精确性的互补：
 
    $$
+
    |\psi\rangle_{\text{艺术想象（量子）}} \otimes I_{\text{科学严谨（经典）}} \rightarrow |\psi'\rangle_{\text{创新科学发现}}
    $$
 
@@ -70,10 +73,12 @@ $$
    洛芙莱斯对机器极限的认识体现了对量子-经典本质差异的深刻理解：
 
    $$
+
    I_{\text{机器计算（经典域）}} \neq |\psi\rangle_{\text{人类思维（量子域）}}
    $$
 
    $$
+
    I_{\text{机器计算}} = f(I_{\text{预设指令}})
    $$
 
@@ -84,6 +89,7 @@ $$
    洛芙莱斯的跨学科方法反映了知识领域间的量子纠缠关系：
 
    $$
+
    |\psi\rangle_{\text{数学}} \otimes |\psi\rangle_{\text{逻辑}} \otimes |\psi\rangle_{\text{机械}} \otimes |\psi\rangle_{\text{艺术}} \rightarrow |\psi\rangle_{\text{计算科学}}
    $$
 

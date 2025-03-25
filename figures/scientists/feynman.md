@@ -29,9 +29,9 @@
 
 理查德·费曼的科学成就与思想方法通过量子经典二元论框架可获得全新解读。费曼不仅在量子电动力学中实现了理论突破，更在认知层面上展示了量子思维与经典表达的独特融合，为理解量子-经典转换提供了方法论示范。
 
-$$
+$`
 |\psi\rangle_{\text{费曼方法论}} = |\psi\rangle_{\text{量子直觉（多路径思维）}} \otimes I_{\text{经典表达（可视化工具）}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,6 +40,7 @@ $$
    费曼在量子电动力学中的突破体现了量子复杂性与经典可视化的桥接：
 
    $$
+
    |\psi\rangle_{\text{量子场论复杂性}} \xrightarrow{\text{费曼图}} I_{\text{直观可视化表达}}
    $$
 
@@ -58,6 +59,7 @@ $$
    费曼的路径积分方法揭示了量子多重可能性与经典测量结果的关系：
 
    $$
+
    \sum_{\text{所有路径}} e^{iS[\text{路径}]/\hbar} \xrightarrow{\text{干涉}} I_{\text{经典观测结果}}
    $$
 
@@ -78,6 +80,7 @@ $$
    费曼的跨学科创新展现了量子思维应用于经典领域的创造性效果：
 
    $$
+
    |\psi\rangle_{\text{量子思维（多维视角）}} \otimes I_{\text{经典学科}} \rightarrow |\phi\rangle_{\text{创新突破}}
    $$
 
@@ -98,6 +101,7 @@ $$
    费曼对实验验证的坚持体现了量子理论与经典观测的必要校准：
 
    $$
+
    |\psi\rangle_{\text{理论预测}} \stackrel{?}{=} I_{\text{实验观测}} \quad \text{若不等则} \quad |\psi\rangle_{\text{理论}} \rightarrow |\psi'\rangle_{\text{修正理论}}
    $$
 
@@ -118,6 +122,7 @@ $$
    费曼的教学方法展示了将量子复杂性转化为经典理解的艺术：
 
    $$
+
    |\psi\rangle_{\text{量子复杂概念}} \xrightarrow{\text{费曼教学法}} I_{\text{经典直观理解}}
    $$
 
@@ -140,6 +145,7 @@ $$
    费曼对科学与艺术关系的看法体现了量子创造性与经典表达的自然融合：
 
    $$
+
    |\psi\rangle_{\text{科学探索（量子创造）}} \parallel |\phi\rangle_{\text{艺术表达（经典美感）}}
    $$
 

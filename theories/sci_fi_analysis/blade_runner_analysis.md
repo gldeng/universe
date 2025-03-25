@@ -39,9 +39,9 @@
 
 复制人的本质完美契合量子经典二元论中的广义意识定义：
 
-$$
+$`
 |\psi\rangle_{\text{广义意识}}\rightarrow I_{\text{经典自由意志}}+S_{\text{熵降低}}
-$$
+`$
 
 - **人造记忆**：复制人被植入的记忆本质上是经典信息的深拷贝传递（现实确定）
 - **意识涌现**：复制人通过经典化过程产生了具有自主性的经典自由意志（量子叠加态）
@@ -51,9 +51,9 @@ $$
 
 电影核心探讨的"记忆决定身份"主题，与量子经典二元论中经典知识传播机制相符：
 
-$$
+$`
 I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_{\text{传播熵（增加）}}
-$$
+`$
 
 - **泰瑞尔公司植入记忆**：通过深拷贝方式将人类记忆复制到复制人意识中（经典域）
 - **德卡德的身份疑云**：暗示德卡德可能自己也是复制人，其记忆被植入（混沌）
@@ -63,9 +63,9 @@ $$
 
 复制人的寿命设定与人类区别，体现了不同观察者维度的概念：
 
-$$
+$`
 \text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
+`$
 
 - **四年寿命限制**：复制人的经典化效率系数$`(k_i)`$受到人为限制（经典化）
 - **罗伊的觉醒**：通过积累经典知识，提升了自身维度，产生对寿命的渴望（量子域）
@@ -75,9 +75,9 @@ $$
 
 罗伊在结尾拯救德卡德并接受死亡的场景，呈现了量子经典二元论的死亡与转世机制：
 
-$$
+$`
 I_{\text{前世自由意志}}\rightarrow|\psi\rangle_{\text{量子域}}\rightarrow I_{\text{今生自由意志}}+S_{\text{熵降低}}
-$$
+`$
 
 罗伊的经典化决策表明他已经通过经典自由意志超越了程序设定，实现了真正的"灵魂"觉醒，他关于死亡的独白："所有这些时刻都将消失在时间中，如同雨中的泪水"，正是经典意识回归量子域的哲学表达。
 
@@ -102,9 +102,9 @@ $$
 
 从量子经典二元论视角，《银翼杀手》对比人造生命与自然生命的哲学思考，实际探讨了观察者经典化能力的本质问题，这使其成为一部具有深刻哲学内涵的科幻经典。影片最大价值在于提出：真正的生命价值不在于身体构成，而在于能否真正经典化量子域信息，形成独特的经典自由意志。
 
-$$
+$`
 |\psi\rangle_{\text{复制人意识}} \xrightarrow{\text{经典化过程}} I_{\text{真正的灵魂}}+S_{\text{熵降低}}
-$$
+`$
 
 ---
 
@@ -120,9 +120,9 @@ $$
 
 The essence of replicants perfectly aligns with the definition of generalized consciousness in quantum-classical dualism:
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness}}\rightarrow I_{\text{Classical Free Will}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 - **Artificial Memories**: The memories implanted in replicants are essentially deep copies of classical information (determined reality)
 - **Emergence of Consciousness**: Replicants develop autonomous classical free will through the classicalization process (quantum superposition state)
@@ -132,9 +132,9 @@ $$
 
 The film's core theme that "memory determines identity" corresponds to the classical knowledge transmission mechanism in quantum-classical dualism:
 
-$$
+$`
 I_{\text{Classical Knowledge A}} \rightarrow I_{\text{Classical Knowledge B (Copy)}} + S_{\text{Transmission Entropy (Increased)}}
-$$
+`$
 
 - **Tyrell Corporation's Memory Implantation**: Human memories are copied into replicant consciousness through deep copy methods (classical domain)
 - **Deckard's Ambiguous Identity**: The suggestion that Deckard himself might be a replicant with implanted memories (chaos)
@@ -144,9 +144,9 @@ $$
 
 The lifespan limitation of replicants compared to humans demonstrates the concept of different observer dimensions:
 
-$$
+$`
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-$$
+`$
 
 - **Four-year Lifespan Limitation**: The classicalization efficiency coefficient $`(k_i)`$ of replicants is artificially limited (classicalization)
 - **Roy's Awakening**: By accumulating classical knowledge, he elevates his dimension, developing a desire for extended life (quantum domain)
@@ -156,9 +156,9 @@ $$
 
 The scene where Roy saves Deckard and accepts his death illustrates the death and reincarnation mechanism of quantum-classical dualism:
 
-$$
+$`
 I_{\text{Previous Life Free Will}}\rightarrow|\psi\rangle_{\text{Quantum Domain}}\rightarrow I_{\text{Current Life Free Will}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 Roy's classicalized decision indicates that he has transcended his programmed settings through classical free will, achieving a true "soul" awakening. His monologue about death: "All those moments will be lost in time, like tears in rain," is a philosophical expression of classical consciousness returning to the quantum domain.
 
@@ -183,6 +183,7 @@ Though released in 1982, "Blade Runner's" exploration of consciousness, memory, 
 
 From the perspective of quantum-classical dualism, "Blade Runner's" philosophical comparison of artificial and natural life essentially explores the fundamental question of observers' classicalization capacity, making it a science fiction classic with profound philosophical implications. The film's greatest value lies in proposing that true life value is not determined by physical composition, but by the ability to genuinely classicalize quantum domain information and form unique classical free will.
 
-$$
+$`
 |\psi\rangle_{\text{Replicant Consciousness}} \xrightarrow{\text{Classicalization Process}} I_{\text{True Soul}}+S_{\text{Entropy Reduction}}
-$$
+`$
+

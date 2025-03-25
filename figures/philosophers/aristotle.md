@@ -37,9 +37,9 @@
 
 亚里士多德的质料-形式理论可视为量子-经典二元论的早期表达：
 
-$$
+$`
 |\psi\rangle_{\text{质料潜能}} \xrightarrow{\text{形式赋予}} I_{\text{实现事物}} + S_{\text{未实现潜能熵}}
-$$
+`$
 
 在亚里士多德看来，质料（hyle）是无规定性的基底，形式（morphe）是规定事物本质的原则。从量子经典二元论视角，质料对应于充满各种可能性的量子域，而形式则是将这些可能性经典化为特定实在的结构原则。青铜（质料）可以成为雕像或钟（形式），正如量子可能性可以经典化为不同宏观结构。亚里士多德的"实现"（actualization）过程，本质上是一种从潜能到现实的经典化转换。
 
@@ -47,9 +47,9 @@ $$
 
 亚里士多德的潜能（dynamis）与实现（energeia）概念为量子-经典转化提供了哲学基础：
 
-$$
+$`
 |\psi\rangle_{\text{潜能状态}} \xrightarrow{\text{实现过程}} I_{\text{现实状态}} + S_{\text{未实现熵}}
-$$
+`$
 
 橡子潜在地包含成为橡树的可能性，但需要特定条件才能实现。这一理论奠定了理解量子-经典转化的概念框架：量子域是潜能的领域，经典域是实现的领域，而经典化过程则是潜能到实现的转变机制。亚里士多德的"第一实现"（如拥有知识）与"第二实现"（如运用知识）对应于经典化的不同阶段，揭示了经典化是一个层级性过程。
 
@@ -57,9 +57,9 @@ $$
 
 亚里士多德的四因说提供了经典化过程的多维度解释框架：
 
-$$
+$`
 |\psi\rangle_{\text{可能性}} \xrightarrow{\text{质料因+形式因+动力因+目的因}} I_{\text{经典实在}}
-$$
+`$
 
 质料因（构成事物的材料）对应经典化的基础载体；形式因（决定事物本质的形式）对应经典化的结构原则；动力因（引起变化的原因）对应经典化的触发机制；目的因（事物存在的目的）对应经典化的定向原则。这一框架为理解复杂系统从量子可能性到经典现实的转化过程提供了全面视角，显示经典化不仅关涉"是什么"和"由什么构成"，还包括"由什么引起"和"为了什么"的维度。
 
@@ -67,9 +67,9 @@ $$
 
 亚里士多德的伦理学中庸理论反映了经典化的平衡原则：
 
-$$
+$`
 \text{美德} = \text{最优经典化平衡} = \text{Balance}(|\psi\rangle_{\text{行为可能性}}, I_{\text{行为规范}})
-$$
+`$
 
 美德不是简单的中间值，而是根据具体情境找到的最佳平衡点。从量子经典二元论看，这对应于寻找最优经典化程度——既不过度经典化（僵化、极端），也不欠缺经典化（混乱、无序）。勇气作为鲁莽与怯懦之间的中庸，代表了行为可能性空间中的最优经典化点，在保持适应性的同时实现足够的确定性和秩序。
 
@@ -77,9 +77,9 @@ $$
 
 亚里士多德的逻辑学体系构建了经典信息的形式结构：
 
-$$
+$`
 I_{\text{前提}} \xrightarrow{\text{逻辑推理}} I_{\text{结论}} \text{ with } S_{\text{逻辑熵}} \approx 0
-$$
+`$
 
 三段论等逻辑形式为思维提供了严格的经典化路径，使信息转换的熵降至最低。从量子经典二元论看，逻辑规则是经典域中信息操作的基本结构，确保经典信息在传递和转换过程中的稳定性。亚里士多德首创的形式逻辑学，本质上是一种经典信息低熵处理系统，为后世科学思维奠定了基础。
 
@@ -87,9 +87,9 @@ $$
 
 亚里士多德的目的论揭示了经典化过程的内在定向性：
 
-$$
+$`
 |\psi\rangle_{\text{初始状态}} \xrightarrow{\text{定向经典化}} I_{\text{目标状态}} + S_{\text{偏离目标熵}}
-$$
+`$
 
 亚里士多德认为自然变化不是随机的，而是朝向特定目标（telos）。从量子经典二元论视角，这反映了经典化过程的非随机性——量子可能性并非等概率地实现为任意经典状态，而是受到系统内在原则的引导，朝向特定的经典结构演化。橡子成长为橡树而非松树，正如量子系统在特定约束下倾向于形成特定的经典模式，表现出系统化的经典化倾向。
 
@@ -99,9 +99,9 @@ $$
 
 Aristotle's matter-form theory can be viewed as an early expression of Quantum-Classical Dualism:
 
-$$
+$`
 |\psi\rangle_{\text{Material Potentiality}} \xrightarrow{\text{Form Imposition}} I_{\text{Actualized Thing}} + S_{\text{Unrealized Potential Entropy}}
-$$
+`$
 
 In Aristotle's view, matter (hyle) is the indeterminate substrate, while form (morphe) is the principle that determines the essence of things. From a Quantum-Classical Dualism perspective, matter corresponds to the quantum domain full of possibilities, while form is the structural principle that classicalizes these possibilities into specific realities. Bronze (matter) can become a statue or a bell (form), just as quantum possibilities can be classicalized into different macroscopic structures. Aristotle's "actualization" process is essentially a classicalization transformation from potentiality to reality.
 
@@ -109,9 +109,9 @@ In Aristotle's view, matter (hyle) is the indeterminate substrate, while form (m
 
 Aristotle's concepts of potentiality (dynamis) and actuality (energeia) provide a philosophical foundation for quantum-classical transformation:
 
-$$
+$`
 |\psi\rangle_{\text{Potential State}} \xrightarrow{\text{Actualization Process}} I_{\text{Actual State}} + S_{\text{Unrealized Entropy}}
-$$
+`$
 
 An acorn potentially contains the possibility of becoming an oak tree, but requires specific conditions for actualization. This theory establishes a conceptual framework for understanding quantum-classical transformation: the quantum domain is the realm of potentiality, the classical domain is the realm of actuality, and the classicalization process is the mechanism of transformation from potentiality to actuality. Aristotle's "first actuality" (such as possessing knowledge) and "second actuality" (such as applying knowledge) correspond to different stages of classicalization, revealing that classicalization is a hierarchical process.
 
@@ -119,9 +119,9 @@ An acorn potentially contains the possibility of becoming an oak tree, but requi
 
 Aristotle's four causes provide a multi-dimensional explanatory framework for the classicalization process:
 
-$$
+$`
 |\psi\rangle_{\text{Possibilities}} \xrightarrow{\text{Material+Formal+Efficient+Final Causes}} I_{\text{Classical Reality}}
-$$
+`$
 
 Material cause (what constitutes a thing) corresponds to the foundational carrier of classicalization; formal cause (what determines the essence of a thing) corresponds to the structural principle of classicalization; efficient cause (what initiates change) corresponds to the triggering mechanism of classicalization; final cause (the purpose of a thing's existence) corresponds to the directional principle of classicalization. This framework provides a comprehensive perspective for understanding the transformation of complex systems from quantum possibilities to classical reality, showing that classicalization involves not only "what it is" and "what it is made of," but also "what caused it" and "what it is for."
 
@@ -129,9 +129,9 @@ Material cause (what constitutes a thing) corresponds to the foundational carrie
 
 Aristotle's ethical doctrine of the mean reflects the principle of classicalization balance:
 
-$$
+$`
 \text{Virtue} = \text{Optimal Classicalization Balance} = \text{Balance}(|\psi\rangle_{\text{Behavioral Possibilities}}, I_{\text{Behavioral Norms}})
-$$
+`$
 
 Virtue is not a simple middle value but the optimal balance point found according to specific situations. From a Quantum-Classical Dualism perspective, this corresponds to finding the optimal degree of classicalization—neither over-classicalized (rigid, extreme) nor under-classicalized (chaotic, disordered). Courage as the mean between rashness and cowardice represents the optimal classicalization point in the space of behavioral possibilities, achieving sufficient certainty and order while maintaining adaptability.
 
@@ -139,9 +139,9 @@ Virtue is not a simple middle value but the optimal balance point found accordin
 
 Aristotle's system of logic constructs the formal structure of classical information:
 
-$$
+$`
 I_{\text{Premises}} \xrightarrow{\text{Logical Reasoning}} I_{\text{Conclusion}} \text{ with } S_{\text{Logical Entropy}} \approx 0
-$$
+`$
 
 Logical forms such as syllogisms provide strict classicalization pathways for thought, minimizing entropy in information transformation. From a Quantum-Classical Dualism perspective, logical rules are the fundamental structures for information operation in the classical domain, ensuring the stability of classical information in processes of transmission and transformation. Aristotle's pioneering formal logic is essentially a low-entropy processing system for classical information, laying the foundation for scientific thinking.
 
@@ -149,9 +149,9 @@ Logical forms such as syllogisms provide strict classicalization pathways for th
 
 Aristotle's teleology reveals the inherent directionality of the classicalization process:
 
-$$
+$`
 |\psi\rangle_{\text{Initial State}} \xrightarrow{\text{Directional Classicalization}} I_{\text{Target State}} + S_{\text{Deviation Entropy}}
-$$
+`$
 
 Aristotle believed that natural changes are not random but directed toward specific goals (telos). From a Quantum-Classical Dualism perspective, this reflects the non-randomness of the classicalization process—quantum possibilities do not actualize into arbitrary classical states with equal probability but are guided by inherent principles within the system, evolving toward specific classical structures. An acorn grows into an oak tree rather than a pine tree, just as quantum systems tend to form specific classical patterns under particular constraints, exhibiting systematic classicalization tendencies.
 

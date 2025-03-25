@@ -19,9 +19,9 @@ English: [Quantum-Classical Nature of Information](#english-version) | [Media as
 
 信息的数学表达可以写为：
 
-$$
+$`
 I = C_O(\Psi_{info}) \rightarrow \rho_{info}
-$$
+`$
 
 其中，$`I`$表示信息过程，$`C_O`$表示观察者$`O`$的经典化操作，$`\Psi_{info}`$表示信息的量子状态，$`\rho_{info}`$表示经典化后的信息状态。
 
@@ -36,9 +36,9 @@ $$
 
 传播媒体的数学表达可以写为：
 
-$$
+$`
 M(I) = \int_{\Omega} T_M(\Psi_{info}) \cdot R_O(\Psi_{info}) d\Psi
-$$
+`$
 
 其中，$`M(I)`$表示媒体传播过程，$`T_M`$表示媒体$`M`$的传输函数，$`R_O`$表示接收观察者的接收函数，$`\Omega`$表示所有可能的信息量子状态空间。
 
@@ -53,9 +53,9 @@ $$
 
 传播过程的数学表达可以写为：
 
-$$
+$`
 C_{comm} = C_{receiver}(T_M(C_{sender}(\Psi_{intent}))) \rightarrow \rho_{understanding}
-$$
+`$
 
 其中，$`C_{comm}`$表示传播经典化过程，$`C_{sender}`$表示发送者的经典化操作，$`T_M`$表示媒体传输函数，$`C_{receiver}`$表示接收者的经典化操作，$`\Psi_{intent}`$表示发送意图的量子状态，$`\rho_{understanding}`$表示接收者理解的经典状态。
 
@@ -88,9 +88,9 @@ $$
 
 社交媒体的数学表达可以写为：
 
-$$
+$`
 S(I) = \sum_{i=1}^{n} w_i \cdot C_i(\Psi_{info}) \cdot N_i(t)
-$$
+`$
 
 其中，$`S(I)`$表示社交媒体传播函数，$`w_i`$表示节点$`i`$的影响权重，$`C_i`$表示节点$`i`$的经典化操作，$`N_i(t)`$表示节点$`i`$在时间$`t`$的网络连接函数。
 
@@ -150,9 +150,9 @@ $$
 
 媒体效果的数学表达可以写为：
 
-$$
+$`
 E = \int_{t_0}^{t_1} \alpha(t) \cdot C_O(M(I), t) dt
-$$
+`$
 
 其中，$`E`$表示媒体效果，$`\alpha(t)`$表示时间衰减函数，$`C_O(M(I), t)`$表示观察者在时间$`t`$对媒体内容的经典化函数。
 
@@ -204,9 +204,9 @@ Information can be understood as a special quantum state that needs to be classi
 
 The mathematical expression of information can be written as:
 
-$$
+$`
 I = C_O(\Psi_{info}) \rightarrow \rho_{info}
-$$
+`$
 
 Where $`I`$ represents the information process, $`C_O`$ represents the classicalization operation of observer $`O`$, $`\Psi_{info}`$ represents the quantum state of information, and $`\rho_{info}`$ represents the classicalized information state.
 
@@ -221,9 +221,9 @@ Media can be understood as classicalization carriers and channels for informatio
 
 The mathematical expression of media can be written as:
 
-$$
+$`
 M(I) = \int_{\Omega} T_M(\Psi_{info}) \cdot R_O(\Psi_{info}) d\Psi
-$$
+`$
 
 Where $`M(I)`$ represents the media transmission process, $`T_M`$ represents the transmission function of media $`M`$, $`R_O`$ represents the reception function of the receiving observer, and $`\Omega`$ represents the space of all possible information quantum states.
 
@@ -238,9 +238,9 @@ The communication process can be understood as a series of continuous cycles of 
 
 The mathematical expression of the communication process can be written as:
 
-$$
+$`
 C_{comm} = C_{receiver}(T_M(C_{sender}(\Psi_{intent}))) \rightarrow \rho_{understanding}
-$$
+`$
 
 Where $`C_{comm}`$ represents the communication classicalization process, $`C_{sender}`$ represents the sender's classicalization operation, $`T_M`$ represents the media transmission function, $`C_{receiver}`$ represents the receiver's classicalization operation, $`\Psi_{intent}`$ represents the quantum state of sending intention, and $`\rho_{understanding}`$ represents the classical state of the receiver's understanding.
 
@@ -273,9 +273,9 @@ Social media can be understood as distributed, interactive classicalization netw
 
 The mathematical expression of social media can be written as:
 
-$$
+$`
 S(I) = \sum_{i=1}^{n} w_i \cdot C_i(\Psi_{info}) \cdot N_i(t)
-$$
+`$
 
 Where $`S(I)`$ represents the social media transmission function, $`w_i`$ represents the influence weight of node $`i`$, $`C_i`$ represents the classicalization operation of node $`i`$, and $`N_i(t)`$ represents the network connection function of node $`i`$ at time $`t`$.
 
@@ -335,9 +335,9 @@ Media effects can be understood as the influence of classicalized media content 
 
 The mathematical expression of media effects can be written as:
 
-$$
+$`
 E = \int_{t_0}^{t_1} \alpha(t) \cdot C_O(M(I), t) dt
-$$
+`$
 
 Where $`E`$ represents media effects, $`\alpha(t)`$ represents the time decay function, and $`C_O(M(I), t)`$ represents the observer's classicalization function of media content at time $`t`$.
 

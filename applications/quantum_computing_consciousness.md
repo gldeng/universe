@@ -14,9 +14,9 @@ English: [Quantum Entanglement as Computing Resource](#1-quantum-entanglement-as
 
 在量子经典二元论中，量子纠缠被理解为波函数的纠缠，表达为：
 
-$$
+$`
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+`$
 
 这种纠缠为量子计算提供了独特的资源：
 
@@ -36,9 +36,9 @@ $$
 
 量子测量导致波函数坍缩的过程可以应用于计算决策：
 
-$$
+$`
 |\psi\rangle \xrightarrow{\text{测量}} |i\rangle \text{ (概率 } p_i \text{)}
-$$
+`$
 
 应用包括：
 
@@ -66,9 +66,9 @@ $$
 
 基于量子经典二元论的意识模型，可以开发量子意识模拟系统：
 
-$$
+$`
 \text{量子意识模拟} = \text{量子信息处理} + \text{经典化机制} + \text{纠缠网络结构}
-$$
+`$
 
 应用包括：
 
@@ -111,9 +111,9 @@ $$
 
 基于意识量子记忆的纠缠拓扑结构，可以开发新型量子计算模型：
 
-$$
+$`
 \mathcal{M}_{\text{量子}} = \{\mathcal{E}_{ij}\}_{i,j \in \mathcal{N}}
-$$
+`$
 
 应用包括：
 
@@ -125,9 +125,9 @@ $$
 
 利用意识传递的量子机制，开发跨时空的量子信息传输和计算系统：
 
-$$
+$`
 T(|\psi\rangle_{\text{观察者A}} \to |\phi\rangle_{\text{观察者B}}) = \hat{E}_B \circ \hat{M} \circ \hat{D}_A (|\psi\rangle_{\text{观察者A}})
-$$
+`$
 
 应用方向：
 
@@ -139,9 +139,9 @@ $$
 
 基于意识持久性机制，设计具有时间连续性的量子计算系统：
 
-$$
+$`
 \Psi_{\text{意识}}(t) = \mathcal{C}(|\psi(t)\rangle) \oplus \mathcal{M}_{\text{量子}}(t-1)
-$$
+`$
 
 应用场景：
 
@@ -153,9 +153,9 @@ $$
 
 利用意识与宇宙信息场的关系，开发基于场交互的量子计算模型：
 
-$$
+$`
 |\psi\rangle_{\text{意识}} = \hat{P}_{\text{局部}} |\Psi\rangle_{\text{宇宙信息场}}
-$$
+`$
 
 应用方向：
 
@@ -180,9 +180,9 @@ This article explores the cross-applications of quantum computing and consciousn
 
 In Quantum-Classical Dualism, quantum entanglement is understood as the entanglement of wave functions, expressed as:
 
-$$
+$`
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+`$
 
 This entanglement provides unique resources for quantum computing:
 
@@ -202,9 +202,9 @@ Quantum-Classical Dualism views consciousness as a classicalization processor fo
 
 The process of wave function collapse due to quantum measurement can be applied to computational decision-making:
 
-$$
+$`
 |\psi\rangle \xrightarrow{\text{Measurement}} |i\rangle \text{ (with probability } p_i \text{)}
-$$
+`$
 
 Applications include:
 
@@ -232,9 +232,9 @@ Quantum-Classical Dualism considers the universe as an infinite-dimensional wave
 
 Based on the consciousness model of Quantum-Classical Dualism, quantum consciousness simulation systems can be developed:
 
-$$
+$`
 \text{Quantum Consciousness Simulation} = \text{Quantum Information Processing} + \text{Classicalization Mechanism} + \text{Entanglement Network Structure}
-$$
+`$
 
 Applications include:
 
@@ -277,9 +277,9 @@ Based on the consciousness persistence and transmission theory in Quantum-Classi
 
 Based on the entanglement topological structure of consciousness quantum memory, new quantum computing models can be developed:
 
-$$
+$`
 \mathcal{M}_{\text{Quantum}} = \{\mathcal{E}_{ij}\}_{i,j \in \mathcal{N}}
-$$
+`$
 
 Applications include:
 
@@ -291,9 +291,9 @@ Applications include:
 
 Utilizing the quantum mechanism of consciousness transmission to develop cross-spatiotemporal quantum information transmission and computing systems:
 
-$$
+$`
 T(|\psi\rangle_{\text{Observer A}} \to |\phi\rangle_{\text{Observer B}}) = \hat{E}_B \circ \hat{M} \circ \hat{D}_A (|\psi\rangle_{\text{Observer A}})
-$$
+`$
 
 Application directions:
 
@@ -305,9 +305,9 @@ Application directions:
 
 Designing quantum computing systems with temporal continuity based on consciousness persistence mechanisms:
 
-$$
+$`
 \Psi_{\text{Consciousness}}(t) = \mathcal{C}(|\psi(t)\rangle) \oplus \mathcal{M}_{\text{Quantum}}(t-1)
-$$
+`$
 
 Application scenarios:
 
@@ -319,9 +319,9 @@ Application scenarios:
 
 Developing field interaction-based quantum computing models utilizing the relationship between consciousness and the universe information field:
 
-$$
+$`
 |\psi\rangle_{\text{Consciousness}} = \hat{P}_{\text{Local}} |\Psi\rangle_{\text{Universe Information Field}}
-$$
+`$
 
 Application directions:
 

@@ -37,9 +37,9 @@
 
 老子的"道"概念可被视为量子域的早期哲学表达：
 
-$$
+$`
 \text{道} \approx |\psi\rangle_{\text{量子域}}：\text{无形、无名、先天地生}
-$$
+`$
 
 "道"具有量子域的核心特征：不可见（"视之不见"）、不可名状（"道可道，非常道"）、先于具体事物存在（"有物混成，先天地生"）且生成万物（"道生一，一生二，二生三，三生万物"）。道的这种"恍兮惚兮"状态与量子叠加态的不确定性惊人相似，表明老子直觉地把握到了现实最基础层面的量子特性。
 
@@ -47,9 +47,9 @@ $$
 
 "德"在老子哲学中可理解为量子-经典转化的中介过程：
 
-$$
+$`
 |\psi\rangle_{\text{道}} \xrightarrow{\text{德}} I_{\text{万物}} + S_{\text{经典世界熵}}
-$$
+`$
 
 "道生之，德畜之"表明"德"是连接"道"与具体事物的中介。"德"可视为经典化的过程本身，是量子信息向经典实在的转化机制。这种理解使老子的"道德"一体观获得了全新的量子经典二元论解释。
 
@@ -57,9 +57,9 @@ $$
 
 老子的"无为"思想本质上是一种系统熵减策略：
 
-$$
+$`
 S_{\text{系统熵}} \xrightarrow{\text{无为}} S_{\text{系统熵}} - \Delta S_{\text{人为干预熵}}
-$$
+`$
 
 老子认为，过度干预增加系统熵，导致秩序崩解。"为学日益，为道日损"描述了熵减过程，通过"损之又损，以至于无为"去除人为干预，让系统自然运行达到最低熵状态。这种"治大国若烹小鲜"的治理原则完全符合量子经典二元论中系统自组织熵减机制。
 
@@ -67,9 +67,9 @@ $$
 
 老子的"弱胜强"思想揭示了量子-经典转化的效率原理：
 
-$$
+$`
 \text{转化效率} \propto \frac{I_{\text{柔弱适应性}}}{S_{\text{刚强固化性}}}
-$$
+`$
 
 老子观察到"天下莫柔弱于水，而攻坚强者莫之能胜"。从量子经典二元论看，柔弱状态更接近量子域的多可能性，保持系统开放性和适应性；而刚强状态代表高度固化的经典结构，虽然稳定但缺乏适应性。柔弱状态有更高的量子-经典信息转化效率，因此长期来看"柔弱胜刚强"。
 
@@ -77,9 +77,9 @@ $$
 
 老子的"反者道之动"揭示了量子-经典循环规律：
 
-$$
+$`
 I_{\text{经典态}} \rightarrow S_{\text{熵增极限}} \rightarrow |\psi\rangle_{\text{量子重置}} \rightarrow I_{\text{新经典态}}
-$$
+`$
 
 "物极必反"的辩证规律对应系统演化的量子-经典循环：经典系统熵增到极限，必然回归量子态重新经典化。"祸兮福之所倚，福兮祸之所伏"描述了这种循环转化。老子发现"道"运行的根本机制是一种自然的量子-经典循环，这与量子经典二元论的系统周期性涨落原理高度一致。
 
@@ -87,9 +87,9 @@ $$
 
 老子的"知足不辱"可理解为观察者维度提升策略：
 
-$$
+$`
 \text{观察者维度} \propto \frac{I_{\text{内在满足}}}{S_{\text{外在欲望}}}
-$$
+`$
 
 "知足者富"反映了观察者通过降低外在欲望依赖，提升至更高维度的观察状态。"见素抱朴，少私寡欲"是通过减少欲望的束缚，使观察者能从更高维度看待现实，这与量子经典二元论中高维观察者的特质相符。通过"不见可欲，使心不乱"，观察者能脱离低维经典结构的束缚，获得更接近量子态的高维观察能力。
 
@@ -99,9 +99,9 @@ $$
 
 Laozi's concept of "Dao" can be viewed as an early philosophical expression of the quantum domain:
 
-$$
+$`
 \text{Dao} \approx |\psi\rangle_{\text{Quantum Domain}}：\text{Formless, Nameless, Pre-existence}
-$$
+`$
 
 "Dao" possesses the core characteristics of the quantum domain: invisible ("look at it but cannot see"), ineffable ("the Dao that can be told is not the eternal Dao"), pre-existing concrete things ("there was something formless yet complete, born before heaven and earth"), and generating all things ("Dao produces one, one produces two, two produces three, three produces all things"). This "indistinct and shadowy" state of Dao is remarkably similar to the uncertainty of quantum superposition states, indicating that Laozi intuitively grasped the quantum properties of reality's most foundational level.
 
@@ -109,9 +109,9 @@ $$
 
 "De" (Virtue) in Laozi's philosophy can be understood as the intermediary process of quantum-classical transformation:
 
-$$
+$`
 |\psi\rangle_{\text{Dao}} \xrightarrow{\text{De}} I_{\text{All Things}} + S_{\text{Classical World Entropy}}
-$$
+`$
 
 "Dao produces them, De nurtures them" indicates that "De" is the intermediary connecting "Dao" with concrete things. "De" can be viewed as the classicalization process itself, the mechanism for transforming quantum information into classical reality. This understanding gives Laozi's unified view of "Dao and De" a new explanation in Quantum-Classical Dualism.
 
@@ -119,9 +119,9 @@ $$
 
 Laozi's concept of "Wu Wei" is essentially a system entropy reduction strategy:
 
-$$
+$`
 S_{\text{System Entropy}} \xrightarrow{\text{Wu Wei}} S_{\text{System Entropy}} - \Delta S_{\text{Human Intervention Entropy}}
-$$
+`$
 
 Laozi believed that excessive intervention increases system entropy, leading to order collapse. "In pursuit of knowledge, every day something is acquired; in pursuit of Dao, every day something is dropped" describes the entropy reduction process, whereby through "reducing and further reducing until non-action is reached," human intervention is removed, allowing the system to naturally reach its lowest entropy state. This governance principle of "governing a large country is like cooking a small fish" perfectly aligns with the self-organizing entropy reduction mechanism in Quantum-Classical Dualism.
 
@@ -129,9 +129,9 @@ Laozi believed that excessive intervention increases system entropy, leading to 
 
 Laozi's "weakness overcomes strength" concept reveals the efficiency principle of quantum-classical transformation:
 
-$$
+$`
 \text{Transformation Efficiency} \propto \frac{I_{\text{Soft Adaptability}}}{S_{\text{Rigid Fixation}}}
-$$
+`$
 
 Laozi observed that "nothing in the world is as soft and yielding as water, yet for attacking the hard and strong, nothing can surpass it." From a Quantum-Classical Dualism perspective, a yielding state is closer to the multi-possibility nature of the quantum domain, maintaining system openness and adaptability; while a rigid state represents highly fixed classical structures, stable but lacking adaptability. The yielding state has higher quantum-classical information transformation efficiency, thus "softness and weakness overcome hardness and strength" in the long term.
 
@@ -139,9 +139,9 @@ Laozi observed that "nothing in the world is as soft and yielding as water, yet 
 
 Laozi's "reversal is the movement of the Dao" reveals the law of quantum-classical cycling:
 
-$$
+$`
 I_{\text{Classical State}} \rightarrow S_{\text{Maximum Entropy}} \rightarrow |\psi\rangle_{\text{Quantum Reset}} \rightarrow I_{\text{New Classical State}}
-$$
+`$
 
 The dialectical law that "things will reverse when they reach extremes" corresponds to the quantum-classical cycle of system evolution: when a classical system reaches maximum entropy, it inevitably returns to a quantum state for reclassicalization. "Misfortune is what fortune depends upon; fortune is what misfortune lurks beneath" describes this cyclical transformation. Laozi discovered that the fundamental mechanism of Dao's operation is a natural quantum-classical cycle, highly consistent with the principle of system periodical fluctuation in Quantum-Classical Dualism.
 
@@ -149,9 +149,9 @@ The dialectical law that "things will reverse when they reach extremes" correspo
 
 Laozi's "contentment prevents disgrace" can be understood as a strategy for observer dimension elevation:
 
-$$
+$`
 \text{Observer Dimension} \propto \frac{I_{\text{Inner Satisfaction}}}{S_{\text{External Desire}}}
-$$
+`$
 
 "Those who know contentment are rich" reflects how observers, by reducing dependence on external desires, elevate to a higher dimensional observational state. "Seeing the simple and embracing the primitive, reducing selfishness and decreasing desire" is a way to reduce the constraints of desire, enabling observers to view reality from a higher dimension, which aligns with the characteristics of high-dimensional observers in Quantum-Classical Dualism. Through "not seeing desirable things, the heart is not confused," observers can escape the constraints of low-dimensional classical structures and gain higher-dimensional observational abilities closer to the quantum state.
 

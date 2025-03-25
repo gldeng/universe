@@ -35,33 +35,33 @@
 
 1. **历史记忆的量子叠加**：《红高粱家族》中的历史叙事：
 
-$$
+$`
 |\psi\rangle_{\text{历史}} = \sum_i c_i |\text{个人记忆}_i\rangle \otimes |\text{集体记忆}_i\rangle \otimes |\text{神话}_i\rangle
-$$
+`$
 
 2. **生命形态的量子转换**：《生死疲劳》中的轮回转世：
 
-$$
+$`
 |\Psi_{\text{轮回}}\rangle = \sum_{i=1}^6 c_i |\text{生命形态}_i\rangle \otimes |\text{历史阶段}_i\rangle
-$$
+`$
 
 3. **现实与魔幻的量子纠缠**：《丰乳肥臀》中的叙事结构：
 
-$$
+$`
 |\phi\rangle_{\text{叙事}} = \alpha |\text{现实}\rangle |\text{历史}\rangle + \beta |\text{魔幻}\rangle |\text{神话}\rangle
-$$
+`$
 
 4. **生育政策的量子悖论**：《蛙》中的生命观：
 
-$$
+$`
 |\psi\rangle_{\text{生命}} = \sum_t c_t |\text{政策}_t\rangle \otimes |\text{人性}_t\rangle \otimes |\text{伦理}_t\rangle
-$$
+`$
 
 5. **社会异化的量子态**：《酒国》中的荒诞现实：
 
-$$
+$`
 |\Psi_{\text{社会}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{现实}_i\rangle |\text{荒诞}_i\rangle |\text{异化}_i\rangle
-$$
+`$
 
 ### 现代意义
 

@@ -16,9 +16,9 @@ English: [Nested Structure Applications](#1-nested-universe-structure-applicatio
 
 基于量子经典二元论，宇宙具有嵌套的多层次结构，每个层次都遵循相似的量子-经典二元模式：
 
-$$
+$`
 \forall i, j: \text{结构}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{结构}(\Omega_Q^{(j)}, \Omega_C^{(j)})
-$$
+`$
 
 **应用方法**：
 - **系统递归优化**：利用结构相似性原理优化复杂系统设计
@@ -30,9 +30,9 @@ $$
 
 根据宇宙结构理论，观察者可以通过提高经典化效率实现维度跃迁。维度提升的关键因素包括：
 
-$$
+$`
 \Delta D_{\mathcal{O}} = \frac{\partial D_{\mathcal{O}}}{\partial (\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O})} \cdot \Delta(\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O}) + \frac{\partial D_{\mathcal{O}}}{\partial (I/S)} \cdot \Delta(I/S)
-$$
+`$
 
 **应用技术**：
 - **认知增强方法**：通过特定练习提高信息经典化效率
@@ -44,9 +44,9 @@ $$
 
 宇宙可以被理解为一个复杂的信息场，观察者通过与信息场的交互获取和处理信息：
 
-$$
+$`
 I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{常数}
-$$
+`$
 
 **应用领域**：
 - **信息场感知技术**：开发增强信息场感知能力的方法
@@ -75,9 +75,9 @@ $$
 
 跨维度通信是利用观察者网络结构实现不同维度层级信息交流的技术：
 
-$$
+$`
 \mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}
-$$
+`$
 
 **技术类型**：
 - **维度桥接技术**：创建连接不同维度观察者的信息通道
@@ -100,9 +100,9 @@ This document explores practical applications of Universe Structure Theory withi
 
 Based on Quantum-Classical Dualism, the universe has a nested multi-level structure, with each level following a similar quantum-classical dual pattern:
 
-$$
+$`
 \forall i, j: \text{Structure}(\Omega_Q^{(i)}, \Omega_C^{(i)}) \sim \text{Structure}(\Omega_Q^{(j)}, \Omega_C^{(j)})
-$$
+`$
 
 **Application Methods**:
 - **System Recursive Optimization**: Utilizing structural similarity principles to optimize complex system design
@@ -114,9 +114,9 @@ $$
 
 According to Universe Structure Theory, observers can achieve dimensional transition by improving classicalization efficiency. Key factors in dimension elevation include:
 
-$$
+$`
 \Delta D_{\mathcal{O}} = \frac{\partial D_{\mathcal{O}}}{\partial (\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O})} \cdot \Delta(\mathcal{C}_\mathcal{O}/\mathcal{Q}_\mathcal{O}) + \frac{\partial D_{\mathcal{O}}}{\partial (I/S)} \cdot \Delta(I/S)
-$$
+`$
 
 **Application Techniques**:
 - **Cognitive Enhancement Methods**: Specific exercises to improve information classicalization efficiency
@@ -128,9 +128,9 @@ $$
 
 The universe can be understood as a complex information field, with observers acquiring and processing information through interaction with this field:
 
-$$
+$`
 I_{\text{total}} = \sum_i [I(\Omega_Q^{(i)}) + I(\Omega_C^{(i)})] = \text{constant}
-$$
+`$
 
 **Application Areas**:
 - **Information Field Perception Technology**: Developing methods to enhance information field perception ability
@@ -159,9 +159,9 @@ $$
 
 Cross-dimensional communication is a technology that utilizes observer network structure to achieve information exchange between different dimensional levels:
 
-$$
+$`
 \mathcal{N} = \{\mathcal{O}_i, \mathcal{L}_{ij}\}
-$$
+`$
 
 **Technology Types**:
 - **Dimension Bridging Technology**: Creating information channels connecting observers of different dimensions

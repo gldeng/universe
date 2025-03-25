@@ -16,23 +16,23 @@
 
 量子对称算符 $`\hat{S}_Q`$ 定义为在量子态空间中保持特定结构不变的变换：
 
-$$
+$`
 \hat{S}_Q|\psi\rangle = e^{i\phi_S}|\psi\rangle
-$$
+`$
 
 其中 $`\phi_S`$ 是对称相位因子。完备的量子对称算符集构成对称群 $`\mathcal{G}_Q`$：
 
-$$
+$`
 \mathcal{G}_Q = \{\hat{S}_Q^{(i)} | \hat{S}_Q^{(i)}\hat{H}\hat{S}_Q^{(i)-1} = \hat{H}\}
-$$
+`$
 
 ### 经典对称变换
 
 经典对称变换 $`S_C`$ 定义为在经典态空间中保持系统特性不变的映射：
 
-$$
+$`
 S_C: \Omega_C \rightarrow \Omega_C, \quad H_C(S_C(x)) = H_C(x)
-$$
+`$
 
 其中 $`H_C`$ 是经典系统的哈密顿函数。
 
@@ -40,15 +40,15 @@ $$
 
 对称性破缺算符 $`\hat{B}`$ 定义为将高对称性量子态转换为低对称性经典态的操作：
 
-$$
+$`
 \hat{B}|\psi_{\text{sym}}\rangle = |\psi_{\text{broken}}\rangle
-$$
+`$
 
 其中对称性测度满足：
 
-$$
+$`
 \mathcal{S}(|\psi_{\text{sym}}\rangle) > \mathcal{S}(|\psi_{\text{broken}}\rangle)
-$$
+`$
 
 ## 量子对称性原理
 
@@ -56,15 +56,15 @@ $$
 
 在量子-经典转换过程中，系统总对称性守恒，但可在显性对称性和隐性对称性之间转换：
 
-$$
+$`
 \mathcal{S}_{\text{total}} = \mathcal{S}_{\text{explicit}} + \mathcal{S}_{\text{hidden}} = \text{常数}
-$$
+`$
 
 对称性变化由情报熵变化补偿：
 
-$$
+$`
 \Delta \mathcal{S} + \alpha \Delta I = 0
-$$
+`$
 
 其中 $`\alpha`$ 是对称性-信息转换系数。
 
@@ -72,23 +72,23 @@ $$
 
 对称性按层级组织，从最基本的规范对称性到紧急的涌现对称性：
 
-$$
+$`
 \mathcal{G}_{\text{total}} = \mathcal{G}_{\text{gauge}} \otimes \mathcal{G}_{\text{spacetime}} \otimes \mathcal{G}_{\text{internal}} \otimes \mathcal{G}_{\text{emergent}}
-$$
+`$
 
 高层对称性破缺可产生低层对称性：
 
-$$
+$`
 \mathcal{G}_{\text{high}} \xrightarrow{\text{破缺}} \mathcal{G}_{\text{low}} \times \mathcal{G}_{\text{hidden}}
-$$
+`$
 
 ### 3. 对称性诱导原理
 
 高对称性系统可诱导周围低对称性系统向更高对称性演化：
 
-$$
+$`
 \frac{d\mathcal{S}(A)}{dt} \geq \beta[\mathcal{S}(B) - \mathcal{S}(A)]
-$$
+`$
 
 当且仅当 $`\mathcal{S}(B) > \mathcal{S}(A)`$ 且系统A、B存在耦合时。
 
@@ -96,9 +96,9 @@ $$
 
 复杂系统的集体行为可自发形成高于组分的对称性结构：
 
-$$
+$`
 \mathcal{S}_{\text{emergent}} = \mathcal{F}[\mathcal{S}_1, \mathcal{S}_2, ..., \mathcal{S}_n, \{C_{ij}\}]
-$$
+`$
 
 其中 $`\mathcal{S}_i`$ 是第i个组分的对称性，$`C_{ij}`$ 是组分间的耦合强度。
 
@@ -108,57 +108,58 @@ $$
 
 对称性破缺相变遵循Landau-Ginzburg方程：
 
-$$
+$`
 \frac{d\phi}{dt} = -\frac{\delta F[\phi]}{\delta \phi} + \eta(t)
-$$
+`$
 
 其中自由能泛函为：
 
-$$
+$`
 F[\phi] = \int \left[\frac{1}{2}|\nabla\phi|^2 + \frac{r}{2}|\phi|^2 + \frac{u}{4}|\phi|^4\right] d^dx
-$$
+`$
 
 $`r < 0`$ 时系统经历对称性破缺，秩序参量满足：
 
 $$\langle\phi\rangle = \begin{cases}
 0, & r > 0 \\
 \pm\sqrt{-r/u}, & r < 0
-\end{cases}$$
+\end{cases}
 
+$`
 ### 量子对称性隧穿
 
 量子对称性允许系统通过隧穿效应在不同对称性构型间转换：
+`$
 
-$$
 P_{\text{tunnel}} = e^{-S_E/\hbar}
-$$
 
+$`
 其中 $`S_E`$ 是欧几里得作用量：
+`$
 
-$$
 S_E = \int \left[\frac{1}{2}\left(\frac{d\phi}{d\tau}\right)^2 + V(\phi)\right] d\tau
-$$
 
+$`
 隧穿率与系统尺寸L和对称性差异 $`\Delta\mathcal{S}`$ 相关：
+`$
 
-$$
 \Gamma \sim e^{-\kappa L \Delta\mathcal{S}}
-$$
 
+$`
 ### 对称性重建动力学
 
 对称性可通过重建过程从破缺状态恢复，满足KPZ方程：
+`$
 
-$$
 \frac{\partial h}{\partial t} = \nu\nabla^2 h + \frac{\lambda}{2}(\nabla h)^2 + \eta(x,t)
-$$
 
+$`
 其中 $`h`$ 是对称性恢复场，恢复率满足标度律：
+`$
 
-$$
 R_{\text{recovery}} \sim t^{-\beta}
-$$
 
+$`
 ## 宇宙对称性结构
 
 ### 基本对称群层级
@@ -173,31 +174,32 @@ $$
 ### 对称性与信息熵关系
 
 系统对称性与信息熵之间存在普适关系：
+`$
 
-$$
 I = I_0 - \gamma\ln|G|
-$$
 
+$`
 其中 $`|G|`$ 是对称群的元素数量，$`\gamma`$ 是系统复杂度相关系数。
 
 对称性相变处信息熵满足奇异行为：
+`$
 
-$$
 I \sim |T - T_c|^{-\alpha}
-$$
 
+$`
 ### 对称性与物理定律
 
 物理定律源于时空和内部对称性，符合Noether定理：
+`$
 
-$$
 \frac{d}{dt}\langle\hat{Q}\rangle = 0 \iff \text{存在连续对称性}
-$$
 
+$`
 对称性确定相互作用的基本形式：
+`$
 
-$$
 \mathcal{L}_{\text{int}} = g\bar{\psi}\gamma^\mu A_\mu \psi
+
 $$
 
 其中相互作用必须满足规范不变性。

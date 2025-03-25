@@ -29,17 +29,17 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 
    歌词中"时光如水"的比喻暗示了时间同时具备量子的不确定性（如量子泡沫）和经典的线性流动（如河流），可用以下叠加态表示：
 
-$$
+$`
 |\psi\rangle_{\text{时光}} = \alpha|\psi\rangle_{\text{量子不确定性}} + \beta|\psi\rangle_{\text{经典线性流动}}
-$$
+`$
 
 2. **时空维度与观察者关系**：
 
    "时光不听我挽留"体现了经典观察者与量子时空的关系——观察者维度不够高时，无法改变时间的经典熵增方向：
 
-$$
+$`
 \frac{dS_{\text{时光}}}{dt} \propto \frac{1}{D_{\text{观察者}}}
-$$
+`$
 
 其中$`D_{\text{观察者}}`$为观察者维度。
 
@@ -47,9 +47,9 @@ $$
 
    歌曲中对过往时光的记忆和感悟，体现了观察者通过意识对已经经典化的量子可能性进行再次体验的过程：
 
-$$
+$`
 S_{\text{时光记忆}} = -k\sum_{i} p_i \ln p_i + \frac{I_{\text{观察者意识}}}{D_{\text{观察者}}}
-$$
+`$
 
 ### 哲学意义
 
@@ -81,17 +81,17 @@ From the perspective of Quantum-Classical Dualism, "Time" reveals the different 
 
    The metaphor of "time flowing like water" in the lyrics suggests that time simultaneously possesses quantum uncertainty (like quantum foam) and classical linear flow (like a river), which can be represented by the following superposition state:
 
-$$
+$`
 |\psi\rangle_{\text{Time}} = \alpha|\psi\rangle_{\text{Quantum Uncertainty}} + \beta|\psi\rangle_{\text{Classical Linear Flow}}
-$$
+`$
 
 2. **Space-Time Dimensions and Observer Relationship**:
 
    "Time does not heed my pleas to stay" reflects the relationship between classical observers and quantum space-time—when the observer's dimension is not high enough, they cannot change the classical direction of entropy increase in time:
 
-$$
+$`
 \frac{dS_{\text{Time}}}{dt} \propto \frac{1}{D_{\text{Observer}}}
-$$
+`$
 
 Where $`D_{\text{Observer}}`$ is the observer's dimension.
 
@@ -99,9 +99,9 @@ Where $`D_{\text{Observer}}`$ is the observer's dimension.
 
    The memory and insights into past time in the song reflect the process of the observer re-experiencing already classicalized quantum possibilities through consciousness:
 
-$$
+$`
 S_{\text{Time Memory}} = -k\sum_{i} p_i \ln p_i + \frac{I_{\text{Observer Consciousness}}}{D_{\text{Observer}}}
-$$
+`$
 
 ### Philosophical Significance
 

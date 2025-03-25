@@ -29,9 +29,9 @@
 
 马克·吐温的作品和思想体现了19世纪美国社会从经典确定性向量子多重可能性过渡的文化张力。他的幽默和批判正是通过暴露经典叙事的矛盾与局限，为更加复杂、不确定的量子视角打开了空间。
 
-$$
+$`
 |\psi\rangle_{\text{吐温思想}} = |\psi\rangle_{\text{幽默解构（量子）}} \times I_{\text{社会规范（经典）}}^{-1}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,6 +40,7 @@ $$
    吐温的幽默是经典确定性与量子多义性的绝妙交互：
 
    $$
+
    |\psi\rangle_{\text{幽默表达}} = c_1|\psi\rangle_{\text{表面娱乐}} + c_2|\psi\rangle_{\text{深层批判}}
    $$
 
@@ -50,6 +51,7 @@ $$
    吐温揭露了社会道德规范的经典表象与量子实践之间的根本矛盾：
 
    $$
+
    I_{\text{维多利亚道德表象（经典）}} \neq |\psi\rangle_{\text{社会现实（量子）}}
    $$
 
@@ -60,6 +62,7 @@ $$
    吐温对人性的理解体现了量子叠加的复杂状态：
 
    $$
+
    |\psi\rangle_{\text{人性}} = \sum_i c_i|\psi_i\rangle_{\text{道德可能性}}
    $$
 
@@ -70,6 +73,7 @@ $$
    吐温的反种族歧视立场体现了对经典种族观念到量子人性认知的转变：
 
    $$
+
    |\psi\rangle_{\text{种族平等}} \xrightarrow{\text{经典种族偏见}} I_{\text{压抑状态}} \xrightarrow{\text{吐温文学}} |\psi\rangle_{\text{解放状态}}
    $$
 
@@ -80,10 +84,12 @@ $$
    吐温对进步和文明的反思体现了量子不确定性对经典确定性的质疑：
 
    $$
+
    I_{\text{线性进步（经典）}} \xrightarrow{\text{吐温质疑}} |\psi\rangle_{\text{多维可能性（量子）}}
    $$
 
    $$
+
    S_{\text{社会系统熵}} \propto \text{技术进步} \not\propto \text{道德进步}
    $$
 

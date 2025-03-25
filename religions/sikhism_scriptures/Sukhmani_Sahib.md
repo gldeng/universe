@@ -52,9 +52,9 @@ Sukhmani Sahib (Peace of Mind) is an important scripture composed by the fifth S
 
 ### 名号冥想的量子叠加收敛方程
 
-$$
+$`
 |\psi(t)\rangle = (1-\gamma(t))|\psi(0)\rangle + \gamma(t)|\psi_{\text{Naam}}\rangle
-$$
+`$
 
 其中：
 - $`|\psi(t)\rangle`$ 表示t时刻的意识量子态
@@ -64,9 +64,9 @@ $$
 
 ### 观察者维度提升方程
 
-$$
+$`
 D_{\text{观察者}}(t) = D_0 + \Delta D \cdot (1-e^{-\alpha N(t)})
-$$
+`$
 
 其中：
 - $`D_{\text{观察者}}(t)`$ 是t时刻的观察者维度

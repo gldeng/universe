@@ -35,33 +35,33 @@
 
 1. **历史进程的量子叠加**：《战争与和平》中的历史观：
 
-$$
+$`
 |\psi\rangle_{\text{历史}} = \sum_i c_i |\text{个人意志}_i\rangle \otimes |\text{历史必然}_i\rangle
-$$
+`$
 
 2. **道德选择的量子态**：安娜·卡列尼娜的生命抉择：
 
-$$
+$`
 |\phi\rangle_{\text{道德}} = \alpha |\text{社会规范}\rangle + \beta |\text{个人幸福}\rangle + \gamma |\text{道德责任}\rangle
-$$
+`$
 
 3. **精神觉醒的量子跃迁**：涅克留朵夫（《复活》）的精神转变：
 
-$$
+$`
 |\psi\rangle_{\text{初始}} \xrightarrow{\text{道德觉醒}} |\phi\rangle_{\text{新生}}
-$$
+`$
 
 4. **生死认知的量子纠缠**：《伊凡·伊里奇之死》中的生死观：
 
-$$
+$`
 |\Psi_{\text{生死}}\rangle = \sum_t c_t |\text{生}\rangle_t \otimes |\text{死}\rangle_t
-$$
+`$
 
 5. **社会变革的量子态**：托尔斯泰对社会改革的思考：
 
-$$
+$`
 |\psi\rangle_{\text{社会}} = \alpha |\text{现存秩序}\rangle + \beta |\text{理想状态}\rangle
-$$
+`$
 
 ### 现代意义
 
@@ -102,9 +102,9 @@ $$
 
 托尔斯泰的思想体现了人类内在量子复杂性与外在经典表现之间深刻矛盾的探索。他通过文学作品展示了人类内心意识的量子叠加状态如何在社会经典环境中挣扎、发展和经典化。
 
-$$
+$`
 |\psi\rangle_{\text{托尔斯泰思想}} = \sum_i c_i|\psi_i\rangle_{\text{人类精神可能性}} - |\psi\rangle_{\text{社会强制经典化}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -113,10 +113,12 @@ $$
    托尔斯泰的非暴力理念反映了对暴力作为经典化方法的根本拒绝：
 
    $$
+
    |\psi\rangle_{\text{社会冲突}} \xrightarrow{\text{暴力解决}} I_{\text{表面解决}} + S_{\text{道德熵增}}
    $$
 
    $$
+
    |\psi\rangle_{\text{社会冲突}} \xrightarrow{\text{非暴力应对}} I_{\text{内在转变}} + S_{\text{道德熵降低}}
    $$
 
@@ -127,6 +129,7 @@ $$
    简朴生活是托尔斯泰降低个体经典生活熵的实践方法：
 
    $$
+
    S_{\text{物质欲望（高熵状态）}} \xrightarrow{\text{简朴化}} I_{\text{内在充实}} + S_{\text{外在需求（降低）}}
    $$
 
@@ -137,10 +140,12 @@ $$
    托尔斯泰的宗教思想是对传统宗教经典化的解构，试图回到量子本源：
 
    $$
+
    |\psi\rangle_{\text{基督教核心量子思想}} \xrightarrow{\text{教会经典化}} I_{\text{教条与仪式}} + S_{\text{精神异化}}
    $$
 
    $$
+
    |\psi\rangle_{\text{基督教核心量子思想}} \xrightarrow{\text{托尔斯泰再解释}} I_{\text{爱与非抵抗}} + S_{\text{最小精神熵}}
    $$
 
@@ -151,10 +156,12 @@ $$
    托尔斯泰的农耕理想体现了对直接量子-经典连接的追求：
 
    $$
+
    |\psi\rangle_{\text{人类}} \otimes |\psi\rangle_{\text{自然}} \xrightarrow{\text{直接劳动}} I_{\text{和谐共存}} + S_{\text{最小异化}}
    $$
 
    $$
+
    |\psi\rangle_{\text{人类}} \otimes |\psi\rangle_{\text{自然}} \xrightarrow{\text{工业文明}} I_{\text{物质丰富}} + S_{\text{高度异化}}
    $$
 
@@ -165,6 +172,7 @@ $$
    托尔斯泰对历史叙事的批判体现了对量子复杂性的深刻理解：
 
    $$
+
    |\psi\rangle_{\text{历史真相}} = \sum_{i=1}^{n} c_i|\psi_i\rangle_{\text{个体行动}} \neq |\psi\rangle_{\text{"伟人"决定论}}
    $$
 

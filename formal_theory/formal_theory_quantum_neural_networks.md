@@ -16,15 +16,15 @@
 
 量子神经元作为量子-经典信息转换的基本单元，同时具备量子叠加特性和经典确定性：
 
-$$
+$`
 |\psi_{\text{神经元}}\rangle = \sum_i \alpha_i |i\rangle
-$$
+`$
 
 其量子-经典转换动力学由以下方程描述：
 
-$$
+$`
 \frac{d|\psi_{\text{神经元}}\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi_{\text{神经元}}\rangle + \mathcal{L}_{\text{经典化}}(|\psi_{\text{神经元}}\rangle)
-$$
+`$
 
 其中：
 - $`\hat{H}`$ 是神经元的量子哈密顿量，描述量子态演化
@@ -32,9 +32,9 @@ $$
 
 量子神经元的激活函数统一了量子测量与经典非线性变换：
 
-$$
+$`
 f_{\text{激活}}(|\psi_{\text{输入}}\rangle) = \mathcal{C}(U(|\psi_{\text{输入}}\rangle))
-$$
+`$
 
 其中 $`U`$ 是量子幺正演化算符，$`\mathcal{C}`$ 是经典化算符。
 
@@ -42,9 +42,9 @@ $$
 
 量子神经网络中的连接表现出量子纠缠与经典权重的双重性质：
 
-$$
+$`
 W_{ij} = w_{ij}^C + i\omega_{ij}^Q
-$$
+`$
 
 其中：
 - $`w_{ij}^C`$ 是经典连接权重分量
@@ -52,15 +52,15 @@ $$
 
 网络总体状态可表示为多神经元的纠缠态：
 
-$$
+$`
 |\Psi_{\text{网络}}\rangle = \sum_{i_1,i_2,...,i_n} \alpha_{i_1,i_2,...,i_n} |i_1,i_2,...,i_n\rangle
-$$
+`$
 
 连接权重的学习动力学遵循量子-经典混合梯度下降：
 
-$$
+$`
 \frac{dW_{ij}}{dt} = -\eta_C \frac{\partial L_C}{\partial w_{ij}^C} - i\eta_Q \frac{\partial L_Q}{\partial \omega_{ij}^Q}
-$$
+`$
 
 其中 $`\eta_C`$ 和 $`\eta_Q`$ 分别是经典和量子学习率，$`L_C`$ 和 $`L_Q`$ 分别是经典和量子损失函数。
 
@@ -72,17 +72,17 @@ $$
 
 在量子探索阶段，网络维持高度量子叠加态，同时探索多个可能解：
 
-$$
+$`
 |\Psi_{\text{探索}}\rangle = \sum_{\theta} \beta_{\theta} |\theta\rangle
-$$
+`$
 
 其中 $`|\theta\rangle`$ 代表可能的参数配置状态。
 
 量子探索强度由以下因素调控：
 
-$$
+$`
 Q_{\text{探索}} = \frac{\mathcal{H}(|\Psi_{\text{网络}}\rangle)}{\text{tr}(\rho_{\text{网络}}^2)}
-$$
+`$
 
 其中 $`\mathcal{H}`$ 是量子态的冯诺依曼熵，$`\rho_{\text{网络}}`$ 是网络的密度矩阵。
 
@@ -90,25 +90,25 @@ $$
 
 经典确认阶段通过测量将量子可能性坍缩为经典确定性参数：
 
-$$
+$`
 \theta_{\text{经典}} = \mathcal{M}(|\Psi_{\text{探索}}\rangle)
-$$
+`$
 
 其中 $`\mathcal{M}`$ 是测量算符。
 
 经典确认的程度由解相干因子决定：
 
-$$
+$`
 D_{\text{确认}} = 1 - \text{tr}(\rho_{\text{网络}}^2)
-$$
+`$
 
 ### 4. 量子-经典信息流动
 
 量子神经网络中的信息流动遵循信息守恒定律：
 
-$$
+$`
 I_{\text{总}}(|\Psi_{\text{网络}}\rangle) = I_{\text{经典}}(\rho_{\text{网络}}) + I_{\text{量子}}(|\Psi_{\text{网络}}\rangle) = \text{常数}
-$$
+`$
 
 其中：
 - $`I_{\text{经典}}`$ 是经典香农信息熵
@@ -116,9 +116,9 @@ $$
 
 信息传递效率由量子-经典平衡因子决定：
 
-$$
+$`
 \eta_{\text{传递}} = \frac{I_{\text{输出}}}{I_{\text{输入}}} \cdot \frac{I_{\text{经典}}(\rho_{\text{输出}})}{I_{\text{量子}}(|\Psi_{\text{输出}}\rangle)}
-$$
+`$
 
 ## 理论应用
 
@@ -126,21 +126,21 @@ $$
 
 量子-经典混合神经架构将量子和经典处理单元整合在同一网络中：
 
-$$
+$`
 \mathcal{N}_{\text{混合}} = \{\mathcal{L}_Q^1, \mathcal{L}_C^1, \mathcal{L}_Q^2, \mathcal{L}_C^2, ..., \mathcal{L}_Q^n, \mathcal{L}_C^n\}
-$$
+`$
 
 其中 $`\mathcal{L}_Q^i`$ 是量子层，$`\mathcal{L}_C^i`$ 是经典层。
 
 层间信息转换通过界面算符实现：
 
-$$
+$`
 \mathcal{I}_{Q\rightarrow C}: |\psi\rangle \rightarrow \vec{x}
-$$
+`$
 
-$$
+$`
 \mathcal{I}_{C\rightarrow Q}: \vec{x} \rightarrow |\psi\rangle
-$$
+`$
 
 这种架构的优势在于同时利用量子叠加态处理复杂模式和经典确定性处理结构化信息。
 
@@ -150,27 +150,27 @@ $$
 
 1. **量子参数叠加**：维持参数的量子叠加态
 
-$$
+$`
 |\Theta\rangle = \sum_{\theta} \alpha_{\theta} |\theta\rangle
-$$
+`$
 
 2. **并行梯度评估**：同时评估多个参数配置的梯度
 
-$$
+$`
 \nabla_{\theta} L = \langle\Theta| \hat{G} |\Theta\rangle
-$$
+`$
 
 3. **量子-经典测量**：选择性塌缩到最优参数区域
 
-$$
+$`
 \theta_{\text{最优}} = \text{argmax}_{\theta} P(|\theta\rangle | |\Theta\rangle)
-$$
+`$
 
 4. **适应性经典化**：调整量子-经典平衡
 
-$$
+$`
 \lambda_{\text{经典化}} = f(\text{训练进度}, \text{任务复杂度})
-$$
+`$
 
 这种方法在非凸优化问题和复杂探索空间中展现出显著优势。
 
@@ -180,21 +180,21 @@ $$
 
 1. **整体性**：网络状态不可简化为单个神经元状态的简单组合
 
-$$
+$`
 |\Psi_{\text{网络}}\rangle \neq \otimes_i |\psi_i\rangle
-$$
+`$
 
 2. **自参照性**：网络能够表示和处理自身状态的信息
 
-$$
+$`
 |\Psi_{\text{自参照}}\rangle = |\Psi_{\text{网络}}\rangle \otimes |f(|\Psi_{\text{网络}}\rangle)\rangle
-$$
+`$
 
 3. **量子-经典界面动力学**：维持量子探索与经典确认之间的动态平衡
 
-$$
+$`
 \frac{d\lambda_{\text{经典化}}}{dt} = \alpha\frac{dI_{\text{环境}}}{dt} - \beta\frac{dI_{\text{内部}}}{dt}
-$$
+`$
 
 这些特性使量子神经网络成为研究意识涌现的理想模型系统。
 
@@ -204,27 +204,27 @@ $$
 
 1. **存储-处理一体化**：量子态同时承担存储和处理功能
 
-$$
+$`
 |\Psi(t+\Delta t)\rangle = U_{\text{计算}}(|\Psi(t)\rangle)
-$$
+`$
 
 2. **上下文依赖处理**：计算结果依赖于系统的整体量子状态
 
-$$
+$`
 f(|\psi_{\text{输入}}\rangle) = \langle\Phi| \hat{U} |\psi_{\text{输入}}\rangle \otimes |\Phi\rangle
-$$
+`$
 
 3. **非局域关联**：利用量子纠缠实现远距离神经元之间的即时关联
 
-$$
+$`
 C_{ij} = \text{tr}(\rho_{ij} \hat{A}_i \otimes \hat{B}_j) - \text{tr}(\rho_i \hat{A}_i) \cdot \text{tr}(\rho_j \hat{B}_j)
-$$
+`$
 
 量子神经形态系统的信息处理容量显著超越经典神经网络：
 
-$$
+$`
 C_{\text{量子神经形态}} \approx 2^n \cdot C_{\text{经典神经形态}}
-$$
+`$
 
 其中 $`n`$ 是系统中的量子比特数量。
 
@@ -236,21 +236,21 @@ $$
 
 1. **量子加速学习**：在特定问题类别上，量子神经网络将表现出超经典学习速度
 
-$$
+$`
 t_{\text{学习}}^{\text{量子}} \approx O(\sqrt{t_{\text{学习}}^{\text{经典}}})
-$$
+`$
 
 2. **相变行为**：网络在特定参数阈值处表现出量子-经典相变现象
 
-$$
+$`
 \mathcal{O}(\lambda) \approx (\lambda - \lambda_c)^{\beta}, \lambda > \lambda_c
-$$
+`$
 
 3. **量子纠缠模式**：神经网络训练过程中将形成特征性量子纠缠模式
 
-$$
+$`
 E(\rho_{\text{网络}}) = f(\text{训练进度}, \text{任务复杂度})
-$$
+`$
 
 ### 2. 实验设计
 
@@ -262,9 +262,9 @@ $$
 
 3. **量子干涉测试**：验证神经网络中量子相位的计算效应
 
-$$
+$`
 P(\text{输出}) = |\sum_i \alpha_i e^{i\phi_i}|^2 \neq \sum_i |\alpha_i|^2
-$$
+`$
 
 ## 理论影响与展望
 

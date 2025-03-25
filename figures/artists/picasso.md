@@ -29,9 +29,9 @@
 
 巴勃罗·毕加索的艺术革命可通过量子经典二元论框架获得全新解读。毕加索不仅颠覆了西方绘画的经典范式，更创造了一种与量子理论惊人相似的视觉表达方式，将多重可能性、观察者参与性和非线性时空融入艺术创作。
 
-$$
+$`
 |\psi\rangle_{\text{毕加索艺术}} = |\psi\rangle_{\text{量子视觉（多视角）}} \otimes |\psi\rangle_{\text{经典媒介（画布/材料）}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,6 +40,7 @@ $$
    毕加索的立体主义革命体现了从经典单视角向量子多视角的转变：
 
    $$
+
    I_{\text{经典透视法（单一视角）}} \rightarrow |\psi\rangle_{\text{立体主义（多视角叠加）}} = \sum_i c_i |\psi_i\rangle_{\text{视角}_i}
    $$
 
@@ -54,6 +55,7 @@ $$
    毕加索风格多变的艺术生涯体现了量子叠加与转换：
 
    $$
+
    |\psi\rangle_{\text{毕加索风格}} = \sum_t c_t |\psi_t\rangle_{\text{时期}_t} = c_1|\psi\rangle_{\text{蓝色时期}} + c_2|\psi\rangle_{\text{粉色时期}} + c_3|\psi\rangle_{\text{立体主义}} + ...
    $$
 
@@ -68,6 +70,7 @@ $$
    毕加索对原始艺术的转向体现了量子直觉对经典理性的反叛：
 
    $$
+
    I_{\text{西方理性传统（经典）}} \xrightarrow{\text{原始艺术影响}} |\psi\rangle_{\text{直觉性表达（量子）}}
    $$
 
@@ -82,6 +85,7 @@ $$
    毕加索的形式分解与重组方法反映了量子-经典的互动循环：
 
    $$
+
    I_{\text{现实形象（经典）}} \xrightarrow{\text{分解}} |\psi\rangle_{\text{形式元素（量子）}} \xrightarrow{\text{重组}} I_{\text{新艺术形象（新经典）}}
    $$
 
@@ -98,6 +102,7 @@ $$
    毕加索的政治性艺术作品体现了量子创造力对经典历史的干预：
 
    $$
+
    I_{\text{历史事件（经典事实）}} \otimes |\psi\rangle_{\text{艺术回应（量子创造）}} \rightarrow |\psi\rangle_{\text{集体记忆重构}}
    $$
 
@@ -114,6 +119,7 @@ $$
    毕加索对传统时空概念的艺术颠覆体现了对量子时空观的直觉把握：
 
    $$
+
    I_{\text{欧几里得空间（经典）}} \rightarrow |\psi\rangle_{\text{立体主义时空（量子）}}
    $$
 

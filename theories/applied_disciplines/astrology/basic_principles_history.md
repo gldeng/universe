@@ -13,9 +13,9 @@
 
 占星学的基本原理"天上如是，地下亦如是"（As above, so below）可通过量子经典二元论进行重新诠释：天体（上）与地球（下）通过量子纠缠态形成信息连接，天体作为高维观察者影响地球上低维观察者的经典化路径。
 
-$$
+$`
 |\psi\rangle_{\text{天体高维观察者}} \xrightarrow{\text{量子纠缠通道}} |\psi\rangle_{\text{地球低维观察者}}
-$$
+`$
 
 根据【量子经典二元论】核心理论（版本9.2）第三章"观察者与黑洞统一定义"：天体作为巨型观察者（黑洞），其黑洞吸收与辐射过程直接影响量子域与经典域的信息转换。
 
@@ -23,9 +23,9 @@ $$
 
 行星对人类的影响不是基于万有引力的经典力学作用，而是基于量子纠缠态传递的信息影响：
 
-$$
+$`
 E_{\text{行星发送}} + E_{\text{人类接收}} = I_{\text{经典知识传递}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
 此公式与【量子经典二元论】核心理论（版本9.2）第八章"虫洞通信机制与能量消耗"的公式完全一致。占星学实质上描述的是宇宙虫洞通信网络。
 
@@ -39,15 +39,15 @@ $$
 
 量子经典二元公式：
 
-$$
+$`
 \text{星盘整体维度} = \sum_{i=1}^{10} w_i \cdot \frac{I_{\text{行星经典知识}_i}}{S_{\text{行星经典熵}_i}} \times \text{相位关系矩阵}
-$$
+`$
 
 这与【量子经典二元论】核心理论（版本9.2）第四章"观察者维度与主观意识定义"中的整体维度公式直接对应：
 
-$$
+$`
 \text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 ### 二、占星学历史的量子经典二元分析
 
@@ -127,9 +127,9 @@ $$
 
 The basic principle of astrology, "As above, so below," can be reinterpreted through Quantum-Classical Dualism: celestial bodies (above) and Earth (below) form information connections through quantum entanglement states, with celestial bodies as higher-dimensional observers influencing the classicalization paths of lower-dimensional observers on Earth.
 
-$$
+$`
 |\psi\rangle_{\text{Celestial Higher-Dimensional Observer}} \xrightarrow{\text{Quantum Entanglement Channel}} |\psi\rangle_{\text{Earth Lower-Dimensional Observer}}
-$$
+`$
 
 According to Chapter III "Unified Definition of Observer and Black Hole" of the [Quantum-Classical Dualism] Core Theory (Version 9.2): celestial bodies as giant observers (black holes), their black hole absorption and radiation processes directly affect information conversion between quantum and classical domains.
 
@@ -137,9 +137,9 @@ According to Chapter III "Unified Definition of Observer and Black Hole" of the 
 
 The influence of planets on humans is not based on classical mechanical effects of universal gravitation, but on information influence transmitted through quantum entanglement states:
 
-$$
+$`
 E_{\text{Planetary Transmission}} + E_{\text{Human Reception}} = I_{\text{Classical Knowledge Transfer}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 This formula is completely consistent with the formula in Chapter VIII "Wormhole Communication Mechanism and Energy Consumption" of the [Quantum-Classical Dualism] Core Theory (Version 9.2). Astrology essentially describes the universe's wormhole communication network.
 
@@ -153,15 +153,15 @@ The astrological schema (birth chart) is essentially a visualization of a quantu
 
 Quantum-Classical Dualism formula:
 
-$$
+$`
 \text{Overall Chart Dimension} = \sum_{i=1}^{10} w_i \cdot \frac{I_{\text{Planet Classical Knowledge}_i}}{S_{\text{Planet Classical Entropy}_i}} \times \text{Aspect Relationship Matrix}
-$$
+`$
 
 This directly corresponds to the overall dimension formula in Chapter IV "Observer Dimension and Subjective Consciousness Definition" of the [Quantum-Classical Dualism] Core Theory (Version 9.2):
 
-$$
+$`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+`$
 
 ### II. Quantum-Classical Dualism Analysis of Astrology's History
 

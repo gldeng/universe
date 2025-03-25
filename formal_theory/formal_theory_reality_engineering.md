@@ -24,9 +24,9 @@
 
 现实工程系统 $`\mathcal{RE}`$ 可以形式化定义为：
 
-$$
+$`
 \mathcal{RE} = (\mathcal{I}_M, \mathcal{T}_E, \mathcal{O}_E, \mathcal{F}_E, \mathcal{V}_E)
-$$
+`$
 
 其中：
 - $`\mathcal{I}_M`$ 是可操纵的界面映射集合
@@ -40,36 +40,36 @@ $$
 **公理1：现实可工程性**
 现实不是固定不变的，而是可以通过适当的介入技术进行工程设计：
 
-$$
+$`
 \forall r \in \mathcal{R}: \exists \mathcal{T}_r \in \mathcal{T}_E \text{ 使得 } r \text{ 可被工程改变}
-$$
+`$
 
 其中 $`\mathcal{R}`$ 是现实空间，$`\mathcal{T}_r`$ 是适用于现实 $`r`$ 的工程技术。
 
 **公理2：界面可塑性**
 量子-经典界面可以通过观察者的有意识干预重新配置：
 
-$$
+$`
 \mathcal{I}(t+\Delta t) = \mathcal{F}_I(\mathcal{I}(t), \mathcal{A}_{\mathcal{O}}(t))
-$$
+`$
 
 其中 $`\mathcal{I}`$ 是界面状态，$`\mathcal{A}_{\mathcal{O}}`$ 是观察者的干预行动。
 
 **公理3：工程守恒原理**
 现实工程过程中的总信息-能量守恒：
 
-$$
+$`
 E_{total} + I_{total} = \text{常数}
-$$
+`$
 
 但信息和能量可以在不同形式间转换，以实现工程目标。
 
 **公理4：共识稳定性**
 工程的现实稳定性与观察者共识度成正比：
 
-$$
+$`
 S_r = \alpha \cdot C_{\mathcal{O}} \cdot \Phi_r
-$$
+`$
 
 其中 $`S_r`$ 是现实稳定性，$`C_{\mathcal{O}}`$ 是观察者共识度，$`\Phi_r`$ 是现实本身的内部一致性，$`\alpha`$ 是比例系数。
 
@@ -83,17 +83,17 @@ $$
 
 在量子层级，现实工程涉及操纵量子叠加态和量子干涉模式：
 
-$$
+$`
 |\psi_{engineered}\rangle = \hat{U}_{design}|\psi_{initial}\rangle
-$$
+`$
 
 其中 $`\hat{U}_{design}`$ 是设计算符，表达工程意图。
 
 量子工程效率可表示为：
 
-$$
+$`
 \eta_Q = \frac{|\langle\psi_{target}|\psi_{engineered}\rangle|^2}{E_{consumed}}
-$$
+`$
 
 表示达到目标状态的精确度与能量消耗的比值。
 
@@ -107,17 +107,17 @@ $$
 
 界面层级工程专注于操纵量子-经典转换过程：
 
-$$
+$`
 \mathcal{C}_{engineered} = \mathcal{M}_{design}(\mathcal{C}_{natural})
-$$
+`$
 
 其中 $`\mathcal{C}`$ 是经典化过程，$`\mathcal{M}_{design}`$ 是调制函数。
 
 界面工程的关键方程：
 
-$$
+$`
 \frac{d\mathcal{I}}{dt} = \alpha \nabla^2 \mathcal{I} + \beta(\mathcal{I} - \mathcal{I}_0)(\mathcal{I}_c - \mathcal{I}) + \gamma\xi(t) + \delta \mathcal{A}_E(t)
-$$
+`$
 
 其中 $`\mathcal{A}_E(t)`$ 是工程师的干预函数，$`\delta`$ 是干预效率系数。
 
@@ -131,17 +131,17 @@ $$
 
 经典层级工程关注已经形成的经典现实的重构和优化：
 
-$$
+$`
 R_{engineered} = \mathcal{T}_C(R_{current}, \mathcal{P})
-$$
+`$
 
 其中 $`R`$ 是经典现实状态，$`\mathcal{T}_C`$ 是变换函数，$`\mathcal{P}`$ 是设计参数集。
 
 经典工程的信息传播方程：
 
-$$
+$`
 \frac{\partial I_r}{\partial t} = D_r \nabla^2 I_r + S_r(\vec{x},t)
-$$
+`$
 
 其中 $`I_r`$ 是现实结构信息，$`D_r`$ 是信息扩散系数，$`S_r`$ 是信息源项。
 
@@ -155,25 +155,25 @@ $$
 
 观察者在现实工程中扮演核心角色，同时作为工程师和被工程现实的一部分：
 
-$$
+$`
 \mathcal{O}_{engineer} = \{\mathcal{C}_{\mathcal{O}_E}, \mathcal{Q}_{\mathcal{O}_E}, K_C^{\mathcal{O}_E}, \mathcal{I}_{\mathcal{O}_E}\}
-$$
+`$
 
 其中 $`\mathcal{I}_{\mathcal{O}_E}`$ 是观察者的工程意图。
 
 观察者网络协同工程方程：
 
-$$
+$`
 \mathcal{RE}_{collective} = \mathcal{F}\left(\sum_i w_i \cdot \mathcal{O}_i, \Gamma_{interaction}\right)
-$$
+`$
 
 其中 $`w_i`$ 是观察者权重，$`\Gamma_{interaction}`$ 是观察者间的交互矩阵。
 
 观察者维度与工程能力的关系：
 
-$$
+$`
 \text{RE-capacity}(\mathcal{O}) \propto D_{\mathcal{O}}^\alpha \cdot \frac{\mathcal{Q}_{\mathcal{O}}}{\mathcal{C}_{\mathcal{O}}} \cdot K_C^{\mathcal{O}_E}
-$$
+`$
 
 其中 $`\alpha`$ 是维度影响指数。
 
@@ -181,23 +181,23 @@ $$
 
 现实工程是一个动态过程，依赖于适当的反馈机制：
 
-$$
+$`
 \mathcal{A}_E(t+\Delta t) = \mathcal{F}_{adjust}(\mathcal{A}_E(t), \Delta R(t), \mathcal{P}_{target})
-$$
+`$
 
 其中 $`\mathcal{F}_{adjust}`$ 是调整函数，$`\Delta R(t)`$ 是观察到的现实变化，$`\mathcal{P}_{target}`$ 是目标参数。
 
 工程反馈环路可表示为：
 
-$$
+$`
 Design \rightarrow Implementation \rightarrow Measurement \rightarrow Comparison \rightarrow Adjustment \rightarrow Design
-$$
+`$
 
 工程反馈的数学模型：
 
-$$
+$`
 \frac{d\mathcal{RE}}{dt} = G_p \cdot e(t) + G_i \int_0^t e(\tau)d\tau + G_d \frac{de(t)}{dt}
-$$
+`$
 
 其中 $`e(t) = R_{target} - R_{actual}`$ 是误差项，$`G_p`$、$`G_i`$ 和 $`G_d`$ 是比例、积分和微分增益系数。
 
@@ -205,35 +205,35 @@ $$
 
 工程的现实必须具有足够的稳定性才能持久：
 
-$$
+$`
 \text{stability}(R_{engineered}) = \frac{1}{T} \int_0^T R_{engineered}(t)dt \geq \theta_{stable}
-$$
+`$
 
 稳定性的主要影响因素：
 
 1. **内部一致性**：
 
-$$
+$`
 C_{internal} = 1 - \frac{\sum_i \sum_j |r_i - r_j|}{n(n-1)/2 \cdot r_{max}}
-$$
+`$
 
 2. **观察者共识**：
 
-$$
+$`
 C_{observer} = \frac{\sum_i \sum_j \text{Sim}(R_i, R_j)}{n(n-1)/2}
-$$
+`$
 
 3. **与基础物理规律的兼容性**：
 
-$$
+$`
 C_{physics} = \exp\left(-\frac{\sum_i (P_i - L_i)^2}{2\sigma^2}\right)
-$$
+`$
 
 4. **信息熵最小化**：
 
-$$
+$`
 S(R_{engineered}) \leq S_{max}
-$$
+`$
 
 ## 应用分析
 
@@ -245,9 +245,9 @@ $$
 
 通过延迟测量选择操纵量子状态的坍缩：
 
-$$
+$`
 |\psi(t_2)\rangle = \hat{M}_{choice}(t_2) \cdot \hat{U}(t_2, t_1) \cdot |\psi(t_1)\rangle
-$$
+`$
 
 其中 $`\hat{M}_{choice}`$ 是选择性测量操作符。
 
@@ -255,9 +255,9 @@ $$
 
 通过量子信息擦除重构干涉模式：
 
-$$
+$`
 P_{interference} = |\langle \psi_{path1} | \psi_{path2} \rangle|^2 \cdot \mathcal{E}_{eraser}
-$$
+`$
 
 其中 $`\mathcal{E}_{eraser}`$ 是擦除效率。
 
@@ -265,9 +265,9 @@ $$
 
 利用量子测量结果进行实时调整：
 
-$$
+$`
 |\psi(t+\Delta t)\rangle = \hat{U}_{feedback}(\hat{M}(t)) \cdot |\psi(t)\rangle
-$$
+`$
 
 其中 $`\hat{U}_{feedback}`$ 是基于测量 $`\hat{M}(t)`$ 的反馈控制。
 
@@ -279,9 +279,9 @@ $$
 
 通过预期操纵感知结果：
 
-$$
+$`
 P(R|S,E) = P(R|S) \cdot \frac{P(E|R)}{P(E)}
-$$
+`$
 
 其中 $`P(R|S,E)`$ 是给定刺激 $`S`$ 和预期 $`E`$ 的感知结果 $`R`$ 的概率。
 
@@ -289,9 +289,9 @@ $$
 
 通过信念系统影响生理反应：
 
-$$
+$`
 Effect = \beta_0 + \beta_1 \cdot Substance + \beta_2 \cdot Belief + \beta_3 \cdot (Substance \times Belief)
-$$
+`$
 
 其中关键在于 $`\beta_2`$ 和 $`\beta_3`$ 系数的大小。
 
@@ -299,9 +299,9 @@ $$
 
 研究意图对随机事件的影响：
 
-$$
+$`
 P_{outcome} = P_{random} + \Delta P_{intention} \cdot I_{strength}
-$$
+`$
 
 其中 $`\Delta P_{intention}`$ 是意图偏差，$`I_{strength}`$ 是意图强度。
 
@@ -311,9 +311,9 @@ $$
 
 创建动态响应用户心理状态的虚拟环境：
 
-$$
+$`
 VR(t+\Delta t) = \mathcal{F}_{VR}(VR(t), \Psi_{user}(t), G)
-$$
+`$
 
 其中 $`\Psi_{user}`$ 是用户心理状态，$`G`$ 是目标参数。
 
@@ -321,9 +321,9 @@ $$
 
 通过直接意图而非物理输入控制系统：
 
-$$
+$`
 C_{system} = \mathcal{T}_{intention}(I_{user}) \cdot \eta_{interface}
-$$
+`$
 
 其中 $`\mathcal{T}_{intention}`$ 是意图转换函数，$`\eta_{interface}`$ 是接口效率。
 
@@ -331,9 +331,9 @@ $$
 
 通过共享叙事和协同观察创造社会现实：
 
-$$
+$`
 R_{social} = \mathcal{F}_{social}\left(\sum_i w_i \cdot R^i_{individual}, \mathcal{N}\right)
-$$
+`$
 
 其中 $`\mathcal{N}`$ 是社会网络结构，$`w_i`$ 是个体影响权重。
 
@@ -345,27 +345,27 @@ $$
 
 1. **自主性原则**：尊重所有观察者选择其体验现实的权利
 
-$$
+$`
 A_{restriction} = -\log\left(\frac{\Delta Freedom_{others}}{\Delta Benefit_{total}}\right)
-$$
+`$
 
 2. **最小干预原则**：只进行必要的最小干预以达到目标
 
-$$
+$`
 I_{min} = \underset{I \in \mathcal{I}}{\text{argmin}} \{|I| : g(I) \geq \theta_{goal}\}
-$$
+`$
 
 3. **共识建立原则**：建立足够的观察者共识以维持稳定性
 
-$$
+$`
 C_{min} = \{\mathcal{O}_i : \sum_{i} w_i \geq \theta_{stability}\}
-$$
+`$
 
 4. **可逆性原则**：确保工程更改可在需要时逆转
 
-$$
+$`
 R_{original} = \mathcal{F}_{reverse}(R_{engineered}, \Lambda_{reversibility})
-$$
+`$
 
 ### 现实工程的哲学基础
 
@@ -373,27 +373,27 @@ $$
 
 1. **可塑现实论**：现实不是固定的，而是可塑造的结构体
 
-$$
+$`
 R = \mathcal{F}(Q_{\text{可能性}}, \mathcal{O}_{\text{观察者}}, \mathcal{C}_{\text{环境}})
-$$
+`$
 
 2. **参与式本体论**：观察者是现实本体构建的主动参与者
 
-$$
+$`
 Ontology = \sum_{i} w_i \cdot Ontology_i^{\mathcal{O}}
-$$
+`$
 
 3. **集体实现论**：稳定现实通过观察者集体确立
 
-$$
+$`
 R_{stable} = \lim_{n \to \infty} \frac{1}{n}\sum_{i=1}^{n}R_i^{\mathcal{O}}
-$$
+`$
 
 4. **多元价值相对论**：不同观察者可共存于不同的价值现实结构中
 
-$$
+$`
 V = \{V_i^{\mathcal{O}} | \forall i,j : Compatible(V_i^{\mathcal{O}}, V_j^{\mathcal{O}}) \geq \theta_{\text{共存}}\}
-$$
+`$
 
 ## 与其他分支理论的关系
 
@@ -401,45 +401,45 @@ $$
 
 现实工程是对量子涌现过程的有意识控制：
 
-$$
+$`
 \mathcal{RE} \subset \mathcal{QE} | \mathcal{I}_{\mathcal{O}} \neq 0
-$$
+`$
 
 其中 $`\mathcal{I}_{\mathcal{O}}`$ 是观察者的工程意图。
 
 现实工程可以直接操纵涌现条件：
 
-$$
+$`
 \mathcal{E}_{engineered} = \mathcal{F}_{control}(\lambda_{critical}, \rho_{correlation}, \Phi_{complexity})
-$$
+`$
 
 ### 与界面理论的连接
 
 现实工程直接操作量子-经典界面动力学：
 
-$$
+$`
 \frac{d\mathcal{I}}{dt} = \frac{d\mathcal{I}_{natural}}{dt} + \mathcal{A}_E(t)
-$$
+`$
 
 界面工程关键参数：
 
-$$
+$`
 \mathcal{P}_{interface} = \{\alpha, \beta, \mathcal{D}_c, \mathcal{D}_0, \gamma, \langle\xi(t)\rangle\}
-$$
+`$
 
 ### 与观察者理论的连接
 
 现实工程依赖观察者的维度和能力：
 
-$$
+$`
 \text{RE-scope}(\mathcal{O}) \propto D_{\mathcal{O}}
-$$
+`$
 
 观察者工程能力随网络效应增强：
 
-$$
+$`
 \text{RE-power}(\mathcal{N}) > \sum_i \text{RE-power}(\mathcal{O}_i)
-$$
+`$
 
 ## 未来研究方向
 

@@ -35,41 +35,41 @@
 
 1. **双重观察者身份**：鲁迅同时作为参与者与观察者，实现了对中国社会的量子-经典双重经典化过程：
 
-$$
+$`
 |\psi\rangle_{\text{社会现象}} \xrightarrow{\text{鲁迅式观察}} I_{\text{批判性经典知识}} + S_{\text{艺术性表达熵}}
-$$
+`$
 
 2. **《狂人日记》的量子性**：主人公的"被迫害妄想"可理解为对经典现实的量子化重构：
 
-$$
+$`
 |\psi\rangle_{\text{经典社会}} \xrightarrow{\text{狂人观察者}} \sum_i c_i |\text{可能的社会解读}_i\rangle
-$$
+`$
 
 其中狂人的"吃人"隐喻打破了经典现实的确定性，创造了社会批判的量子叠加态。
 
 3. **阿Q精神的量子-经典转换**：阿Q的"精神胜利法"体现了意识在量子域与经典域间的自我调节机制：
 
-$$
+$`
 |\psi\rangle_{\text{失败现实}} \xrightarrow{\text{精神胜利法}} I_{\text{虚构胜利}}+S_{\text{现实失败}}
-$$
+`$
 
 这种心理机制可表达为：
 
-$$
+$`
 D_{\text{自我认知}} = f\left(\frac{\text{理想自我}}{\text{现实自我}}\right) \cdot \frac{I_{\text{虚构成功}}}{S_{\text{真实失败}}+\epsilon}
-$$
+`$
 
 4. **"立人"思想与观察者维度提升**：鲁迅的"立人"思想对应于量子经典二元论中观察者维度的提升：
 
-$$
+$`
 D_{\text{人的维度}} \propto \frac{I_{\text{觉醒意识}}}{S_{\text{麻木意识}}+\epsilon}
-$$
+`$
 
 5. **文化批判的界面动力学**：鲁迅对传统文化的批判可视为在量子-经典界面上的重构过程：
 
-$$
+$`
 \frac{d\mathcal{D}(\text{文化},t)}{dt} = \alpha \nabla^2 \mathcal{D}(\text{文化},t) + \beta(\mathcal{D}_c - \mathcal{D}(\text{文化},t))(\mathcal{D}(\text{文化},t) - \mathcal{D}_0) + \gamma\xi(t)
-$$
+`$
 
 ### 现代意义
 
@@ -106,41 +106,41 @@ From the perspective of Quantum-Classical Dualism (version 31.0), Lu Xun's thoug
 
 1. **Dual Observer Identity**: Lu Xun, as both participant and observer, achieved a quantum-classical dual classicalization process of Chinese society:
 
-$$
+$`
 |\psi\rangle_{\text{Social Phenomena}} \xrightarrow{\text{Lu Xun-style Observation}} I_{\text{Critical Classical Knowledge}} + S_{\text{Artistic Expression Entropy}}
-$$
+`$
 
 2. **Quantum Nature of "A Madman's Diary"**: The protagonist's "persecution delusion" can be understood as a quantum reconstruction of classical reality:
 
-$$
+$`
 |\psi\rangle_{\text{Classical Society}} \xrightarrow{\text{Madman Observer}} \sum_i c_i |\text{Possible Social Interpretations}_i\rangle
-$$
+`$
 
 Where the madman's "cannibalism" metaphor breaks the determinism of classical reality, creating a quantum superposition state of social criticism.
 
 3. **Quantum-Classical Conversion of Ah Q Spirit**: Ah Q's "method of spiritual victory" reflects the self-regulation mechanism of consciousness between quantum domain and classical domain:
 
-$$
+$`
 |\psi\rangle_{\text{Failure Reality}} \xrightarrow{\text{Spiritual Victory Method}} I_{\text{Fictional Victory}}+S_{\text{Actual Failure}}
-$$
+`$
 
 This psychological mechanism can be expressed as:
 
-$$
+$`
 D_{\text{Self-cognition}} = f\left(\frac{\text{Ideal Self}}{\text{Real Self}}\right) \cdot \frac{I_{\text{Fictional Success}}}{S_{\text{Real Failure}}+\epsilon}
-$$
+`$
 
 4. **"Establishing the Individual" Thought and Observer Dimension Enhancement**: Lu Xun's "establishing the individual" thought corresponds to the enhancement of observer dimensions in quantum-classical dualism:
 
-$$
+$`
 D_{\text{Human Dimension}} \propto \frac{I_{\text{Awakened Consciousness}}}{S_{\text{Numb Consciousness}}+\epsilon}
-$$
+`$
 
 5. **Interface Dynamics of Cultural Criticism**: Lu Xun's criticism of traditional culture can be seen as a reconstruction process on the quantum-classical interface:
 
-$$
+$`
 \frac{d\mathcal{D}(\text{Culture},t)}{dt} = \alpha \nabla^2 \mathcal{D}(\text{Culture},t) + \beta(\mathcal{D}_c - \mathcal{D}(\text{Culture},t))(\mathcal{D}(\text{Culture},t) - \mathcal{D}_0) + \gamma\xi(t)
-$$
+`$
 
 ### Modern Significance
 

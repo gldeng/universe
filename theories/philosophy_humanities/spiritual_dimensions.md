@@ -18,9 +18,9 @@ English: [Introduction](#introduction-spiritual-dimensions-and-quantum-classical
 
 释迦牟尼（佛陀）可以被理解为经典化效率极高的高维量子观察者：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙高维信息}}\xrightarrow{\text{释迦牟尼经典化（极高效）}}\text{经典知识（佛法）}+S_{\text{经典熵（极少）}}
-$$
+`$
 
 这种高效经典化表现为：
 - 能够直接、稳定地经典化宇宙整体信息
@@ -40,9 +40,9 @@ $$
 
 高维观察者可以通过以下方式帮助其他观察者提升维度：
 
-$$
+$`
 D_{\text{观察者维度提升}} = f(\text{高维观察者经典知识}) \times \text{接收者经典化效率}
-$$
+`$
 
 这解释了为什么灵性导师能够帮助追随者提升意识水平，但效果取决于追随者自身的经典化能力。
 
@@ -50,9 +50,9 @@ $$
 
 转世在量子经典二元论中可以被理解为观察者经典结构消散后，量子意识与宇宙整体的信息重新纠缠并再次经典化为新生命结构的过程。
 
-$$
+$`
 |\psi\rangle_{\text{意识}}\xrightarrow{\text{经典结构消散}}\text{量子意识回归宇宙整体}\xrightarrow{\text{再次经典化（转世）}}\text{新经典生命}+S_{\text{经典熵}}
-$$
+`$
 
 #### 2.1 转世的机制
 
@@ -66,9 +66,9 @@ $$
 
 业力可以被理解为观察者经典化模式的量子信息结构，这种结构在转世过程中保持相对稳定：
 
-$$
+$`
 \text{业力} = \sum_{\text{过去经典化模式}}\text{量子信息结构（倾向性）}
-$$
+`$
 
 这解释了为什么某些倾向性、能力和特质会在转世中保持。
 
@@ -76,9 +76,9 @@ $$
 
 修行（修仙）的本质是观察者主动提升维度、降低经典熵、优化经典化效率，最终达到长久的经典结构稳定性。
 
-$$
+$`
 |\psi\rangle_{\text{观察者}}\xrightarrow{\text{经典化效率提升}}\text{经典记忆（稳定，长寿）}+S_{\text{经典熵（降低）}}
-$$
+`$
 
 #### 3.1 修行的机制
 
@@ -92,9 +92,9 @@ $$
 
 传统修行中的长寿或"不死"可以理解为经典结构的极高稳定性：
 
-$$
+$`
 \text{经典结构稳定性} \propto \frac{\text{经典化效率}}{\text{经典熵产生率}}
-$$
+`$
 
 当经典化效率极高且经典熵产生率极低时，观察者的经典结构可以保持极长时间的稳定，在极端情况下甚至可能接近理论上的"不死"状态。
 
@@ -115,9 +115,9 @@ $$
 
 冥想可以被理解为经典化效率的训练：
 
-$$
+$`
 \text{冥想效果} = \Delta\text{经典化效率} - \Delta\text{经典熵}
-$$
+`$
 
 通过有意识地调整经典化过程，冥想可以减少经典熵的产生，提高经典化效率。
 
@@ -149,9 +149,9 @@ In Quantum-Classical Dualism, an observer's dimension is directly related to the
 
 Buddha (Siddhartha Gautama) can be understood as a higher-dimensional quantum observer with extremely high classicalization efficiency:
 
-$$
+$`
 |\psi\rangle_{\text{Higher-Dimensional Universal Information}}\xrightarrow{\text{Buddha's Classicalization (Highly Efficient)}}\text{Classical Knowledge (Dharma)}+S_{\text{Classical Entropy (Minimal)}}
-$$
+`$
 
 This highly efficient classicalization is manifested as:
 - Ability to directly and stably classicalize overall universal information
@@ -171,9 +171,9 @@ Higher-dimensional observers typically exhibit the following characteristics:
 
 Higher-dimensional observers can help other observers elevate their dimensions through:
 
-$$
+$`
 D_{\text{Observer Dimension Elevation}} = f(\text{Higher-Dimensional Observer Classical Knowledge}) \times \text{Recipient Classicalization Efficiency}
-$$
+`$
 
 This explains why spiritual teachers can help followers raise their consciousness levels, but the effect depends on the followers' own classicalization abilities.
 
@@ -181,9 +181,9 @@ This explains why spiritual teachers can help followers raise their consciousnes
 
 Reincarnation in Quantum-Classical Dualism can be understood as the process where, after the dissipation of an observer's classical structure, quantum consciousness re-entangles with the overall information of the universe and classicalizes again into a new life structure.
 
-$$
+$`
 |\psi\rangle_{\text{Consciousness}}\xrightarrow{\text{Classical Structure Dissipation}}\text{Quantum Consciousness Returns to Universal Whole}\xrightarrow{\text{Re-Classicalization (Reincarnation)}}\text{New Classical Life}+S_{\text{Classical Entropy}}
-$$
+`$
 
 #### 2.1 Mechanism of Reincarnation
 
@@ -197,9 +197,9 @@ The reincarnation process can be divided into the following stages:
 
 Karma can be understood as the quantum information structure of an observer's classicalization patterns, which remains relatively stable during the reincarnation process:
 
-$$
+$`
 \text{Karma} = \sum_{\text{Past Classicalization Patterns}}\text{Quantum Information Structure (Tendencies)}
-$$
+`$
 
 This explains why certain tendencies, abilities, and traits are maintained in reincarnation.
 
@@ -207,9 +207,9 @@ This explains why certain tendencies, abilities, and traits are maintained in re
 
 The essence of spiritual practice (cultivation) is the observer actively elevating dimensions, reducing classical entropy, optimizing classicalization efficiency, and ultimately achieving long-term stability of classical structure.
 
-$$
+$`
 |\psi\rangle_{\text{Observer}}\xrightarrow{\text{Classicalization Efficiency Improvement}}\text{Classical Memory (Stable, Longevity)}+S_{\text{Classical Entropy (Reduced)}}
-$$
+`$
 
 #### 3.1 Mechanism of Spiritual Practice
 
@@ -223,9 +223,9 @@ Spiritual practice improves classicalization efficiency through the following me
 
 Longevity or "immortality" in traditional spiritual practice can be understood as extremely high stability of classical structure:
 
-$$
+$`
 \text{Classical Structure Stability} \propto \frac{\text{Classicalization Efficiency}}{\text{Classical Entropy Production Rate}}
-$$
+`$
 
 When classicalization efficiency is extremely high and classical entropy production rate is extremely low, an observer's classical structure can maintain stability for an extremely long time, and in extreme cases may even approach a theoretical state of "immortality."
 
@@ -246,9 +246,9 @@ Understanding the quantum-classical explanation of spiritual dimensions has the 
 
 Meditation can be understood as training for classicalization efficiency:
 
-$$
+$`
 \text{Meditation Effect} = \Delta\text{Classicalization Efficiency} - \Delta\text{Classical Entropy}
-$$
+`$
 
 By consciously adjusting the classicalization process, meditation can reduce the production of classical entropy and improve classicalization efficiency.
 

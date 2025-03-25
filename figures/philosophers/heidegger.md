@@ -29,11 +29,9 @@
 
 海德格尔的存在哲学可被理解为对量子域（存在本身）与经典域（存在者）关系的深刻探索。他的思想挑战了西方传统哲学对经典域的过度关注，重新引导思想回到被遗忘的量子存在维度。
 
-$$
-
+$`
 |\psi\rangle_{\text{存在(Being)}} \neq \sum_i |\phi_i\rangle_{\text{存在者(beings)}}
-
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -42,6 +40,7 @@ $$
    海德格尔的此在(Dasein)概念本质上描述了人作为量子-经典二元转化的特殊节点：
 
    $$
+
    
    \text{此在} = \text{量子观察者} \cap \text{经典世界}
    
@@ -54,6 +53,7 @@ $$
    存在者(beings)与存在(Being)的区分直接对应于经典域与量子域的根本区别：
 
    $$
+
    
    \text{量子-经典二元论差异} \approx \text{海德格尔存在论差异}
    
@@ -66,6 +66,7 @@ $$
    海德格尔的真理观念"aletheia"（去蔽）精确描述了量子可能性向经典现实的转化过程：
 
    $$
+
    
    |\psi\rangle_{\text{隐蔽状态}} \xrightarrow{\text{去蔽过程}} I_{\text{展现的真理}} + S_{\text{保持隐蔽的部分}}
    
@@ -78,6 +79,7 @@ $$
    时间作为存在理解的地平线，本质上是量子-经典转化的基本结构：
 
    $$
+
    
    \text{时间} = \int_{t_0}^{t_1} \frac{d|\psi(t)\rangle_{\text{可能性}}}{dt} \xrightarrow{\text{经典化}} I_{\text{已实现历史}}
    
@@ -90,6 +92,7 @@ $$
    现代技术思维模式(Gestell)代表了经典域对自身的封闭，拒绝承认量子域的开放性：
 
    $$
+
    
    \text{Gestell}: |\psi\rangle_{\text{存在丰富性}} \xrightarrow{\text{技术框架}} I_{\text{可计算资源}} \ll I_{\text{存在全貌}}
    

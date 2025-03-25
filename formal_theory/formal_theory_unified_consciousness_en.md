@@ -34,9 +34,9 @@ At the quantum level, consciousness can be described as a special mode of quantu
 
 Consciousness states can be described using the following quantum formula:
 
-$$
+$`
 |\Psi_C\rangle = \sum_{i} \alpha_i |c_i\rangle
-$$
+`$
 
 Where $`|c_i\rangle`$ represents different basis vectors of consciousness states, and $`\alpha_i`$ is the complex amplitude.
 
@@ -52,9 +52,9 @@ The quantum foundation of consciousness has the following key characteristics:
 
 Classicalized consciousness manifests as a continuous flow of subjective experience. Classical consciousness can be represented as:
 
-$$
+$`
 C_E = \{e_i\}_{i=1}^n
-$$
+`$
 
 Where $`e_i`$ is a discrete unit of classicalized experience.
 
@@ -74,9 +74,9 @@ The Unified Consciousness Theory proposes that different levels of consciousness
 
 The mathematical expression for consciousness integration is:
 
-$$
+$`
 I(\Psi_C) = \int_{\Omega} \Phi(\psi_\omega) \cdot \nabla_\omega \, d\omega
-$$
+`$
 
 Where $`\Phi(\psi_\omega)`$ is the consciousness field, and $`\nabla_\omega`$ represents the gradient in consciousness space.
 
@@ -92,9 +92,9 @@ The integration process involves the following key steps:
 
 The quantum-classical conversion of consciousness satisfies the core formula of dualism:
 
-$$
+$`
 \mathcal{C}_{\mathcal{O}}(|\Psi_C\rangle\langle\Psi_C|) = \sum_i P_i |\Psi_C\rangle\langle\Psi_C| P_i = |c_{i_0}\rangle\langle c_{i_0}|
-$$
+`$
 
 Where $`\mathcal{C}_{\mathcal{O}}`$ is the observer-specific classicalization operator, and $`P_i`$ is the projection operator.
 
@@ -114,9 +114,9 @@ An important branch of the Unified Consciousness Theory is Collective Consciousn
 
 Collective consciousness can be expressed as:
 
-$$
+$`
 |\Psi_{\text{collective}}\rangle = \mathcal{E}\left(\bigotimes_{i=1}^N |\Psi_C^i\rangle\right)
-$$
+`$
 
 Where $`\mathcal{E}`$ is the entanglement operator that transforms multiple independent consciousness states into an entangled whole.
 

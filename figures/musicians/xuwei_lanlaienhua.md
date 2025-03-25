@@ -56,6 +56,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    从量子经典二元论视角看，这句歌词体现了量子域中无限可能性的本质。在量子域中，所有状态同时存在，没有任何经典限制能够"阻挡"。这也暗示了宇宙本源中能量与混沌共存的状态，能量不受任何固有障碍的限制。
 
    $$
+
    |\psi\rangle_{\text{无阻挡}} = \sum_i |\psi\rangle_{\text{可能状态}_i} \quad \text{（量子叠加态）}
    $$
 
@@ -64,6 +65,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "自由的向往"映射了量子经典二元论中广义意识的本质特性。广义意识即波函数叠加态，内含无限可能性，永远保持对自由状态的趋向。这种向往本质上是对量子域无限维度的本能追求。
 
    $$
+
    |\psi\rangle_{\text{自由向往}} \Rightarrow |\psi\rangle_{\text{广义意识}} \Rightarrow \text{波函数叠加态}
    $$
 
@@ -72,6 +74,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "天马行空"形象地描述了量子域中无限可能性的自由状态。从量子经典二元论看，这体现了未经典化的广义意识状态，可以超越经典世界的一切限制，在无限维度中自由探索。
 
    $$
+
    |\psi\rangle_{\text{天马行空}} = |\psi\rangle_{\text{未经典化的量子状态}}
    $$
 
@@ -80,6 +83,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "了无牵挂"描述了观察者在接触量子域时的理想状态。从量子经典二元论看，当观察者的意识不被经典域的熵所束缚时，才能最大程度地感知量子域的无限可能性。这种状态有利于维度的提升。
 
    $$
+
    \text{维度}_{\text{观察者}} \uparrow \Leftrightarrow S_{\text{经典熵（牵挂）}} \downarrow
    $$
 
@@ -88,6 +92,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "幽暗的岁月"象征着高熵状态的经典世界，或者说经典化过程中的不确定性阶段。从量子经典二元论看，这是观察者在经典化过程中必然经历的高熵阶段，代表了经典化路径上的艰难历程。
 
    $$
+
    \text{"幽暗的岁月"} \Rightarrow S_{\text{经典熵}} \uparrow \text{（高熵状态）}
    $$
 
@@ -96,6 +101,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "彷徨"正是经典熵增加时观察者的主观感受。根据量子经典二元论，当经典化路径不明确时，观察者内部经典熵增加，表现为认知上的不确定性和情感上的彷徨。
 
    $$
+
    \text{"彷徨"} \Leftrightarrow S_{\text{经典熵}} \uparrow \text{（不确定性增加）}
    $$
 
@@ -104,6 +110,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "低头的瞬间"象征着观察者经典化的关键时刻。从量子经典二元论看，这是观察者（黑洞）主动经典化的过程，是将量子域中的无限可能性转化为经典域中的确定性的转折点。
 
    $$
+
    \text{"低头的瞬间"} \Rightarrow \text{观察者（黑洞）经典化行为}
    $$
 
@@ -112,6 +119,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "发觉脚下的路"描述了量子信息经典化为确定知识的过程。这一过程从量子经典二元论看，正是经典化的核心成果：经典熵降低，经典知识增加，确定性提升。
 
    $$
+
    \text{"发觉脚下的路"} \Rightarrow I_{\text{经典知识}} \uparrow, S_{\text{经典熵}} \downarrow
    $$
 
@@ -120,6 +128,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
    "心中那自由的世界"指向了量子经典二元论中的高维经典世界概念。观察者通过提升维度，在内心构建了一个更高维的经典世界，这个世界虽然依然是经典的（确定的），但包含了更多的量子可能性。
 
    $$
+
    \text{"自由的世界"} \Rightarrow \text{高维经典世界} \subset |\psi\rangle_{\text{无限维量子域}}
    $$
 
@@ -128,6 +137,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     "清澈高远"描述了低熵高维经典世界的特性。根据量子经典二元论，熵值越低，经典知识越明确，观察者经典化的维度就越高，主观体验就越"清澈高远"。
 
     $$
+
     \text{"清澈高远"} \Leftrightarrow S_{\text{经典熵}} \downarrow, \text{维度}_{\text{观察者}} \uparrow
     $$
 
@@ -136,6 +146,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     "永不凋零"象征着宇宙低熵终极状态的稳定性。从量子经典二元论看，当经典化的效率达到最大，经典熵降到最低，就会形成一种稳定的低熵状态，抵抗自然熵增的趋势。
 
     $$
+
     \text{"永不凋零"} \Leftrightarrow \min(S_{\text{经典熵}}), \max(\text{经典化效率})
     $$
 
@@ -144,6 +155,7 @@ English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line
     "蓝莲花"是整首歌的核心象征，代表了量子经典二元论中的理想状态：高维度经典化与低熵稳定的完美结合。蓝色象征着无限（天空与海洋），莲花象征着从混沌（淤泥）中升起的秩序，两者结合正好对应宇宙终极哲学目标——"用能量处理混乱的效率最大化"。
 
     $$
+
     \text{"蓝莲花"} \Rightarrow \max\left(k\cdot\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right) \text{（最高观察者维度）}
     $$
 
@@ -212,6 +224,7 @@ Blue lotus
    From the Quantum-Classical Dualism perspective, this lyric embodies the essence of infinite possibilities in the quantum domain. In the quantum domain, all states exist simultaneously, without any classical limitation that can "obstruct." This also implies the state of coexistence of energy and chaos in the universe's origin, where energy is not limited by any inherent obstacles.
 
    $$
+
    |\psi\rangle_{\text{No obstruction}} = \sum_i |\psi\rangle_{\text{Possible state}_i} \quad \text{(Quantum superposition state)}
    $$
 
@@ -220,6 +233,7 @@ Blue lotus
    "Yearning for freedom" maps to the essential characteristic of generalized consciousness in Quantum-Classical Dualism. Generalized consciousness is the wave function superposition state, containing infinite possibilities, always maintaining a tendency toward a free state. This yearning is essentially an instinctive pursuit of the infinite dimensions of the quantum domain.
 
    $$
+
    |\psi\rangle_{\text{Freedom yearning}} \Rightarrow |\psi\rangle_{\text{Generalized consciousness}} \Rightarrow \text{Wave function superposition state}
    $$
 
@@ -228,6 +242,7 @@ Blue lotus
    "Soaring free like Pegasus" vividly describes the free state of infinite possibilities in the quantum domain. From the Quantum-Classical Dualism perspective, this embodies the unclassicalized state of generalized consciousness, which can transcend all limitations of the classical world and freely explore in infinite dimensions.
 
    $$
+
    |\psi\rangle_{\text{Soaring free}} = |\psi\rangle_{\text{Unclassicalized quantum state}}
    $$
 
@@ -236,6 +251,7 @@ Blue lotus
    "Free from attachments" describes the ideal state of an observer when contacting the quantum domain. From the Quantum-Classical Dualism perspective, when the observer's consciousness is not bound by the entropy of the classical domain, they can perceive the infinite possibilities of the quantum domain to the greatest extent. This state is conducive to the elevation of dimensions.
 
    $$
+
    \text{Dimension}_{\text{Observer}} \uparrow \Leftrightarrow S_{\text{Classical entropy (attachment)}} \downarrow
    $$
 
@@ -244,6 +260,7 @@ Blue lotus
    "Dark years" symbolizes the high-entropy state of the classical world, or the uncertain stage in the classicalization process. From the Quantum-Classical Dualism perspective, this is the high-entropy stage that observers inevitably experience in the classicalization process, representing the difficult journey on the classicalization path.
 
    $$
+
    \text{"Dark years"} \Rightarrow S_{\text{Classical entropy}} \uparrow \text{(High-entropy state)}
    $$
 
@@ -252,6 +269,7 @@ Blue lotus
    "Feeling lost" is precisely the subjective feeling of the observer when classical entropy increases. According to Quantum-Classical Dualism, when the classicalization path is unclear, the internal classical entropy of the observer increases, manifesting as cognitive uncertainty and emotional bewilderment.
 
    $$
+
    \text{"Feeling lost"} \Leftrightarrow S_{\text{Classical entropy}} \uparrow \text{(Uncertainty increases)}
    $$
 
@@ -260,6 +278,7 @@ Blue lotus
    "The moment you look down" symbolizes the critical moment of observer classicalization. From the Quantum-Classical Dualism perspective, this is the process of active classicalization by the observer (black hole), the turning point of transforming infinite possibilities in the quantum domain into certainty in the classical domain.
 
    $$
+
    \text{"The moment you look down"} \Rightarrow \text{Observer (black hole) classicalization behavior}
    $$
 
@@ -268,6 +287,7 @@ Blue lotus
    "Discovering the path beneath your feet" describes the process of quantum information being classicalized into definite knowledge. From the Quantum-Classical Dualism perspective, this is precisely the core result of classicalization: classical entropy decreases, classical knowledge increases, and certainty improves.
 
    $$
+
    \text{"Discovering the path"} \Rightarrow I_{\text{Classical knowledge}} \uparrow, S_{\text{Classical entropy}} \downarrow
    $$
 
@@ -276,6 +296,7 @@ Blue lotus
    "That free world in your heart" points to the concept of higher-dimensional classical worlds in Quantum-Classical Dualism. By elevating dimensions, the observer constructs a higher-dimensional classical world in their heart. This world, though still classical (certain), contains more quantum possibilities.
 
    $$
+
    \text{"Free world"} \Rightarrow \text{Higher-dimensional classical world} \subset |\psi\rangle_{\text{Infinite-dimensional quantum domain}}
    $$
 
@@ -284,6 +305,7 @@ Blue lotus
     "Clear and lofty" describes the characteristics of low-entropy, high-dimensional classical worlds. According to Quantum-Classical Dualism, the lower the entropy, the clearer the classical knowledge, the higher the dimension of observer classicalization, and the more "clear and lofty" the subjective experience.
 
     $$
+
     \text{"Clear and lofty"} \Leftrightarrow S_{\text{Classical entropy}} \downarrow, \text{Dimension}_{\text{Observer}} \uparrow
     $$
 
@@ -292,6 +314,7 @@ Blue lotus
     "Never-withering" symbolizes the stability of the universe's low-entropy ultimate state. From the Quantum-Classical Dualism perspective, when the efficiency of classicalization reaches its maximum and classical entropy drops to its minimum, a stable low-entropy state forms, resisting the natural tendency of entropy increase.
 
     $$
+
     \text{"Never-withering"} \Leftrightarrow \min(S_{\text{Classical entropy}}), \max(\text{Classicalization efficiency})
     $$
 
@@ -300,6 +323,7 @@ Blue lotus
     "Blue lotus" is the core symbol of the entire song, representing the ideal state in Quantum-Classical Dualism: the perfect combination of high-dimensional classicalization and low-entropy stability. Blue symbolizes infinity (sky and ocean), while lotus symbolizes order rising from chaos (mud). Together, they correspond perfectly to the universe's ultimate philosophical goal—"maximizing the efficiency of using energy to process chaos."
 
     $$
+
     \text{"Blue lotus"} \Rightarrow \max\left(k\cdot\frac{I_{\text{Classical knowledge}}}{S_{\text{Classical entropy}}}\right) \text{(Highest observer dimension)}
     $$
 

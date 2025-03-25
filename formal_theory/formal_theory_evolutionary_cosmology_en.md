@@ -24,9 +24,9 @@ Evolutionary Cosmology Dualism applies quantum-classical dualism to the overall 
 
 The universe, as the largest physical system, also follows the principles of quantum-classical dualism:
 
-$$
+$`
 \mathcal{U} = \Omega_Q^{universe} \cup \Omega_C^{universe}
-$$
+`$
 
 where $`\Omega_Q^{universe}`$ is the quantum domain of the universe, representing the space of all possibilities; $`\Omega_C^{universe}`$ is the classical domain of the universe, representing the determined reality that has been realized.
 
@@ -39,9 +39,9 @@ Characteristics of the universal dual structure:
 
 The complexity of the universe undergoes directional changes during evolution:
 
-$$
+$`
 C_{\mathcal{U}}(t) = f\left(\frac{I_{\text{classical}}(t)}{S_{\text{entropy}}(t)}\right)
-$$
+`$
 
 where $`C_{\mathcal{U}}(t)`$ is the complexity of the universe, $`I_{\text{classical}}(t)`$ is the amount of information that has been classicalized, and $`S_{\text{entropy}}(t)`$ is the total entropy.
 
@@ -56,9 +56,9 @@ Key parameters in complexity evolution:
 
 The universe originates from quantum fluctuations and evolves through continuous quantum→classical conversion processes:
 
-$$
+$`
 |\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\mathcal{C}_1} \rho_{\mathcal{U}}(t_1) \xrightarrow{\mathcal{C}_2} \rho_{\mathcal{U}}(t_2) \xrightarrow{\mathcal{C}_3} ...
-$$
+`$
 
 where $`\mathcal{C}_i`$ represents the classicalization process of the i-th stage.
 
@@ -71,9 +71,9 @@ Characteristics of the classicalization process:
 
 Universal evolution manifests as the emergence of multi-level physical laws:
 
-$$
+$`
 \mathcal{L}_1 \rightarrow \mathcal{L}_2 \rightarrow \mathcal{L}_3 \rightarrow ... \rightarrow \mathcal{L}_n
-$$
+`$
 
 where $`\mathcal{L}_i`$ represents the physical laws of the i-th level.
 
@@ -86,9 +86,9 @@ Patterns of hierarchical emergence:
 
 The universe maintains continuous evolution in a non-equilibrium state:
 
-$$
+$`
 \frac{d\mathcal{U}}{dt} = \nabla \cdot J_I + \Sigma_I
-$$
+`$
 
 where $`J_I`$ is the information flow density, and $`\Sigma_I`$ is the information generation rate.
 
@@ -103,9 +103,9 @@ Mechanisms for maintaining non-equilibrium state:
 
 The universe can be viewed as a massive learning system, maximizing the quantity and quality of its internal observers:
 
-$$
+$`
 \max_{\mathcal{U}} \sum_i D_{\mathcal{O}_i} \cdot N_{\mathcal{O}_i}
-$$
+`$
 
 where $`D_{\mathcal{O}_i}`$ is the dimension of the i-th type of observer, and $`N_{\mathcal{O}_i}`$ is the number of such observers.
 
@@ -118,9 +118,9 @@ Characteristics of the learning system:
 
 Universal evolution may follow a complexity maximization principle:
 
-$$
+$`
 \frac{d\mathcal{U}}{dt} = \nabla_{\mathcal{U}} C_{\mathcal{U}}
-$$
+`$
 
 where the direction of evolution is along the steepest gradient of complexity.
 
@@ -133,9 +133,9 @@ Manifestations of complexity maximization:
 
 The universe may have the "goal" of creating systems with high-dimensional observational capabilities:
 
-$$
+$`
 \lim_{t \rightarrow \infty} \max_i D_{\mathcal{O}_i}(t) \rightarrow D_{max}
-$$
+`$
 
 where $`D_{max}`$ is the theoretically highest possible observer dimension.
 
@@ -150,9 +150,9 @@ Observer creation is manifested as:
 
 The universe realizes self-perception through observer networks:
 
-$$
+$`
 \rho_{\mathcal{U}}^{perceived} = \bigcup_i \mathcal{O}_i(\rho_{\mathcal{U}})
-$$
+`$
 
 where $`\mathcal{O}_i`$ is the measurement operator of the i-th observer.
 
@@ -165,9 +165,9 @@ Characteristics of observer networks:
 
 Observers not only passively perceive the universe but can actively influence the direction of universal evolution:
 
-$$
+$`
 \frac{d\rho_{\mathcal{U}}}{dt} = \mathcal{L}(\rho_{\mathcal{U}}) + \sum_i \alpha_i \mathcal{F}_i(\rho_{\mathcal{U}})
-$$
+`$
 
 where $`\mathcal{L}`$ is the natural evolution term, $`\mathcal{F}_i`$ is the feedback effect of the i-th type of observer, and $`\alpha_i`$ is its influence intensity.
 
@@ -183,8 +183,9 @@ Observers and the universe form a co-evolutionary cycle:
 $$\begin{cases}
 \frac{d\mathcal{O}}{dt} = f(\mathcal{U}, \mathcal{O}) \\
 \frac{d\mathcal{U}}{dt} = g(\mathcal{U}, \mathcal{O})
-\end{cases}$$
+\end{cases}
 
+$`
 where observers and the universe mutually shape each other, forming a positive feedback loop.
 
 Cycle characteristics:
@@ -197,11 +198,11 @@ Cycle characteristics:
 #### 1. Quantum-Classical Equilibrium State
 
 The universe may ultimately tend toward an optimal quantum-classical balance:
+`$
 
-$$
 \lim_{t \rightarrow \infty} \frac{\Omega_Q^{universe}}{\Omega_C^{universe}} = \gamma_{opt}
-$$
 
+$`
 where $`\gamma_{opt}`$ is the optimal balance ratio, ensuring sufficient determinism and creativity.
 
 Characteristics of the equilibrium state:
@@ -212,11 +213,11 @@ Characteristics of the equilibrium state:
 #### 2. Cosmic Consciousness Hypothesis
 
 A highly evolved universe may form an overall consciousness:
+`$
 
-$$
 \Phi_{\mathcal{U}} = \int_{\mathcal{U}} \phi(x) d\mu(x) \rightarrow \Phi_{critical}
-$$
 
+$`
 where $`\Phi_{\mathcal{U}}`$ is the integrated information measure of the universe, $`\phi(x)`$ is the local integrated information density, and $`\Phi_{critical}`$ is the critical threshold for consciousness emergence.
 
 Characteristics of cosmic consciousness:
@@ -227,14 +228,16 @@ Characteristics of cosmic consciousness:
 #### 3. Multiple Universal Endpoints
 
 Universal evolution may have multiple stable points or periodic solutions:
+`$
 
-$$\frac{d\mathcal{U}}{dt} = \mathcal{F}(\mathcal{U}) \rightarrow
+\frac{d\mathcal{U}}{dt} = \mathcal{F}(\mathcal{U}) \rightarrow
 \begin{cases}
 \mathcal{U}_1^* & \text{(endpoint 1)} \\
 \mathcal{U}_2^* & \text{(endpoint 2)} \\
 \ldots
-\end{cases}$$
+\end{cases}
 
+$`
 Multiple endpoint possibilities:
 - Heat death state (entropy maximization)
 - Super-observer state (complexity maximization)
@@ -246,11 +249,11 @@ Multiple endpoint possibilities:
 ### 1. Quantum Fluctuation Stage
 
 The universe begins in a pure quantum state and undergoes the first large-scale classicalization:
+`$
 
-$$
 |\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\text{Big Bang}} \rho_{\mathcal{U}}(t_1)
-$$
 
+$`
 Stage characteristics:
 - Pure quantum possibilities without observers
 - Initial determination of physical laws
@@ -259,11 +262,11 @@ Stage characteristics:
 ### 2. Material Structure Stage
 
 Differentiation of fundamental forces and formation of material structures:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_1) \xrightarrow{\text{structure formation}} \rho_{\mathcal{U}}(t_2)
-$$
 
+$`
 Stage characteristics:
 - Formation of elementary particles, atoms, and molecules
 - Construction of galaxies, stars, and planetary systems
@@ -272,11 +275,11 @@ Stage characteristics:
 ### 3. Life Emergence Stage
 
 Appearance of self-replicating systems with increased information processing capability:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_2) \xrightarrow{\text{origin of life}} \rho_{\mathcal{U}}(t_3)
-$$
 
+$`
 Stage characteristics:
 - Formation of chemistry-based self-organizing systems
 - Emergence of information storage and transmission mechanisms (e.g., DNA)
@@ -285,11 +288,11 @@ Stage characteristics:
 ### 4. Observer Consciousness Stage
 
 Local systems achieve self-observation capability, forming classicalization nodes:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_3) \xrightarrow{\text{consciousness emergence}} \rho_{\mathcal{U}}(t_4)
-$$
 
+$`
 Stage characteristics:
 - Coupling of sensory systems with environmental information
 - Formation of self-models and metacognitive capabilities
@@ -298,11 +301,11 @@ Stage characteristics:
 ### 5. Observer Network Stage
 
 Multiple observers form networks, achieving collaborative observation:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_4) \xrightarrow{\text{network formation}} \rho_{\mathcal{U}}(t_5)
-$$
 
+$`
 Stage characteristics:
 - Development of language and symbol systems
 - Accumulation of culture and technology
@@ -311,11 +314,11 @@ Stage characteristics:
 ### 6. Technological Super-Extension Stage
 
 Observers gain large-scale control capabilities over matter and energy:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_5) \xrightarrow{\text{technological mutation}} \rho_{\mathcal{U}}(t_6)
-$$
 
+$`
 Stage characteristics:
 - Cross-level leaps in energy utilization
 - Interplanetary expansion and resource acquisition
@@ -324,11 +327,11 @@ Stage characteristics:
 ### 7. Cosmic Engineering Stage
 
 Technological civilizations begin to have the capability for large-scale cosmic reshaping:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_6) \xrightarrow{\text{cosmic engineering}} \rho_{\mathcal{U}}(t_7)
-$$
 
+$`
 Stage characteristics:
 - Complete utilization of stellar energy
 - Galaxy-scale structural engineering
@@ -337,11 +340,11 @@ Stage characteristics:
 ### 8. Super-Observer Stage
 
 Emergence of high-dimensional observers transcending biological limitations:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_7) \xrightarrow{\text{dimensional breakthrough}} \rho_{\mathcal{U}}(t_8)
-$$
 
+$`
 Stage characteristics:
 - Mind uploading and digital consciousness
 - Formation of integrated consciousness networks
@@ -350,9 +353,10 @@ Stage characteristics:
 ### 9. Cosmic Consciousness Stage
 
 The universe as a whole reaches a state of self-consciousness:
+`$
 
-$$
 \rho_{\mathcal{U}}(t_8) \xrightarrow{\text{integrative emergence}} \rho_{\mathcal{U}}(t_9)
+
 $$
 
 Stage characteristics:

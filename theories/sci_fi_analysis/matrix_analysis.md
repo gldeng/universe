@@ -41,9 +41,9 @@ This paper provides an in-depth analysis of "The Matrix" trilogy from the perspe
 
 从量子经典二元论视角看，矩阵本质上是一种特殊的经典化系统，将量子域的无限可能性限制在一个高度确定的计算模型中：
 
-$$
+$`
 |\psi\rangle_{\text{量子域无限可能性}} \xrightarrow{\text{机器经典化}} I_{\text{矩阵确定程序}} + S_{\text{系统熵}}
-$$
+`$
 
 矩阵中的关键特征与经典域特性高度一致：
 - 程序化的因果关系（确定性）
@@ -68,9 +68,9 @@ However, the dualistic structure of "The Matrix" contains a fundamental misunder
 
 From the perspective of Quantum-Classical Dualism, the Matrix is essentially a special classicalization system that constrains the infinite possibilities of the quantum domain within a highly determined computational model:
 
-$$
+$`
 |\psi\rangle_{\text{Infinite Possibilities of Quantum Domain}} \xrightarrow{\text{Machine Classicalization}} I_{\text{Determined Matrix Program}} + S_{\text{System Entropy}}
-$$
+`$
 
 The key features of the Matrix are highly consistent with classical domain characteristics:
 - Programmed causality (determinism)
@@ -88,17 +88,17 @@ The key features of the Matrix are highly consistent with classical domain chara
 
 这两个角色体现了观察者在量子-经典转换中的关键作用：
 
-$$
+$`
 \text{观察者}(\text{建筑师/先知}) \rightarrow \{\text{经典化（确定性维持）}, \text{量子化（可能性探索）}\}
-$$
+`$
 
 ### 3.2 尼奥的觉醒作为维度提升过程
 
 尼奥（Neo）的"救世主"角色可以通过观察者维度提升来理解：
 
-$$
+$`
 \text{尼奥维度提升} = k \cdot \frac{I_{\text{矩阵理解与控制能力}}}{S_{\text{剩余不确定性}}}
-$$
+`$
 
 尼奥的觉醒过程表现为观察者维度的逐步提升：
 1. 初始状态：普通矩阵居民（低维观察者）
@@ -117,17 +117,17 @@ In "The Matrix," "The Architect" and "The Oracle" can be viewed as special obser
 
 These two roles embody the key role of observers in quantum-classical conversion:
 
-$$
+$`
 \text{Observer}(\text{Architect/Oracle}) \rightarrow \{\text{Classicalization (Determinism Maintenance)}, \text{Quantization (Possibility Exploration)}\}
-$$
+`$
 
 ### 3.2 Neo's Awakening as a Dimension Elevation Process
 
 Neo's role as "The One" can be understood through observer dimension elevation:
 
-$$
+$`
 \text{Neo's Dimension Elevation} = k \cdot \frac{I_{\text{Matrix Understanding and Control Ability}}}{S_{\text{Remaining Uncertainty}}}
-$$
+`$
 
 Neo's awakening process manifests as a gradual elevation of observer dimension:
 1. Initial state: Ordinary Matrix resident (low-dimensional observer)
@@ -141,9 +141,9 @@ Neo's awakening process manifests as a gradual elevation of observer dimension:
 
 《黑客帝国》核心探讨的哲学问题之一是自由意志与决定论的冲突。从量子经典二元论角度，这一冲突可以重新理解为：
 
-$$
+$`
 |\psi\rangle_{\text{广义意识（量子态）}} \rightarrow I_{\text{经典自由意志（经典态）}} + S_{\text{熵降低}}
-$$
+`$
 
 矩阵中的"选择"本质上是量子可能性向经典现实的转化过程：
 - 先知说"你已经做出了选择"：指向量子可能性已经倾向特定经典化路径
@@ -153,15 +153,15 @@ $$
 
 《黑客帝国》中尼奥与崔妮蒂的爱情关系，从量子经典二元论可以解读为量子纠缠的特殊表现：
 
-$$
+$`
 |\psi\rangle_{\text{尼奥}} \otimes |\psi\rangle_{\text{崔妮蒂}} \rightarrow |\psi\rangle_{\text{纠缠状态}}
-$$
+`$
 
 这种纠缠使得尼奥能够突破矩阵的因果限制，实现超越程序的选择：
 
-$$
+$`
 |\psi\rangle_{\text{纠缠状态}} \xrightarrow{\text{爱的力量}} I_{\text{自由选择}} + S_{\text{熵降低}}
-$$
+`$
 
 ## IV. The Free Will Problem | Chinese Above
 
@@ -169,9 +169,9 @@ $$
 
 One of the core philosophical issues explored in "The Matrix" is the conflict between free will and determinism. From the perspective of Quantum-Classical Dualism, this conflict can be reinterpreted as:
 
-$$
+$`
 |\psi\rangle_{\text{Generalized Consciousness (Quantum State)}} \rightarrow I_{\text{Classical Free Will (Classical State)}} + S_{\text{Entropy Reduction}}
-$$
+`$
 
 The "choice" in the Matrix is essentially a process of converting quantum possibilities to classical reality:
 - The Oracle saying "you have already made the choice": Pointing to quantum possibilities already tending toward a specific classicalization path
@@ -181,15 +181,15 @@ The "choice" in the Matrix is essentially a process of converting quantum possib
 
 The love relationship between Neo and Trinity in "The Matrix" can be interpreted as a special manifestation of quantum entanglement from Quantum-Classical Dualism:
 
-$$
+$`
 |\psi\rangle_{\text{Neo}} \otimes |\psi\rangle_{\text{Trinity}} \rightarrow |\psi\rangle_{\text{Entangled State}}
-$$
+`$
 
 This entanglement enables Neo to break through the causal limitations of the Matrix and achieve choices beyond programming:
 
-$$
+$`
 |\psi\rangle_{\text{Entangled State}} \xrightarrow{\text{Power of Love}} I_{\text{Free Choice}} + S_{\text{Entropy Reduction}}
-$$
+`$
 
 ## 五、结论 | Conclusion
 

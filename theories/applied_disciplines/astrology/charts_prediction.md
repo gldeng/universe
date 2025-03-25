@@ -24,9 +24,9 @@
 
 基于这些元素，星盘的整体量子经典二元模型可以表达为：
 
-$$
+$`
 \text{星盘} = \sum_{i=1}^{12}\sum_{j=1}^{12}\sum_{k=1}^{10} w_{ijk} \cdot D_i \cdot S_j \cdot P_k \cdot \prod_{l \neq k} A_{kl}
-$$
+`$
 
 其中，$`w_{ijk}`$ 为权重系数，取决于宫位、星座和行星的特定组合。
 
@@ -34,9 +34,9 @@ $$
 
 根据【量子经典二元论】核心理论（版本9.2）第四章"观察者维度与主观意识定义"，星盘可用于计算观察者的整体维度：
 
-$$
+$`
 \text{观察者维度} = \sum_{i=1}^{n} w_i \cdot \frac{I_{\text{行星经典知识}_i}}{S_{\text{行星经典熵}_i}}
-$$
+`$
 
 每个行星在特定宫位与星座的组合中产生特定的经典知识与经典熵比例，影响观察者在该领域的经典化效率。例如，太阳在狮子座第五宫的人，在自我表达领域具有高经典化效率（低熵高知识）。
 
@@ -46,21 +46,21 @@ $$
 
 1. **行星聚集（群聚）**：多个行星在同一宫位/星座，形成高度局域化的量子纠缠节点
 
-$$
+$`
 |\psi\rangle_{\text{聚集}} = \sum_{i} c_i |\psi_{\text{行星}_i}\rangle, \quad i \in \{\text{同宫行星}\}
-$$
+`$
 
 2. **行星分散**：行星均匀分布，形成广泛但强度较弱的量子纠缠网络
 
-$$
+$`
 |\psi\rangle_{\text{分散}} = \sum_{i=1}^{10} d_i |\psi_{\text{行星}_i}\rangle, \quad \text{其中} |d_i| \approx |d_j|, \forall i,j
-$$
+`$
 
 3. **行星组合（格局）**：特定几何配置的行星组合，形成特殊的量子干涉模式
 
-$$
+$`
 |\psi\rangle_{\text{格局}} = \sum_{i,j,k} e_{ijk} |\psi_{\text{行星}_i}\rangle \otimes |\psi_{\text{行星}_j}\rangle \otimes |\psi_{\text{行星}_k}\rangle
-$$
+`$
 
 这些分布模式直接影响观察者的量子经典二元结构和经典化路径优先级。
 
@@ -72,9 +72,9 @@ $$
 
 行运预测的量子经典二元数学模型：
 
-$$
+$`
 P(\text{事件}_t) = \int_{\Delta t} |\langle\psi_{\text{行运}_t}|\psi_{\text{本命}}\rangle|^2 dt
-$$
+`$
 
 此公式表达了在时间区间 $`\Delta t`$ 内，特定事件发生的量子概率。量子干涉强度（内积绝对值平方）直接反映了行运触发经典化路径变化的可能性。
 
@@ -84,9 +84,9 @@ $$
 
 次限动（Secondary Progression）的量子经典二元模型：
 
-$$
+$`
 |\psi_{\text{推运}_t}\rangle = |\psi_{\text{本命}}\rangle + t \cdot \frac{d|\psi_{\text{本命}}\rangle}{dt}
-$$
+`$
 
 这表达了量子状态随时间的一阶近似演化，每一地球天对应一年的演化。
 
@@ -94,9 +94,9 @@ $$
 
 综合考虑多种预测技术（行运、推运、太阳返照等）时，可采用量子信息处理的混合模型：
 
-$$
+$`
 P(\text{事件}_t) = \alpha \cdot P_{\text{行运}}(\text{事件}_t) + \beta \cdot P_{\text{推运}}(\text{事件}_t) + \gamma \cdot P_{\text{返照}}(\text{事件}_t) + ...
-$$
+`$
 
 其中，$`\alpha, \beta, \gamma, ...`$ 为权重系数，根据预测技术的可靠性和具体情境动态调整。
 
@@ -108,15 +108,15 @@ $$
 
 - **上升点**：个人量子纠缠场与环境量子纠缠场的主要交互界面
 
-$$
+$`
 |\psi\rangle_{\text{个人}} \longleftrightarrow |\psi\rangle_{\text{环境}}
-$$
+`$
 
 - **中天点**：个人量子纠缠场与社会集体量子纠缠场的主要交互界面
 
-$$
+$`
 |\psi\rangle_{\text{个人}} \longleftrightarrow |\psi\rangle_{\text{社会}}
-$$
+`$
 
 这些接口点直接影响观察者从量子域经典化信息的主要路径和方式。
 
@@ -124,9 +124,9 @@ $$
 
 不同的分宫系统（Placidus、Koch、Equal House等）代表了不同的经典化区域划分方式。从量子经典二元角度看，这反映了观察者经典化过程中的区域划分偏好：
 
-$$
+$`
 \text{分宫系统} = \{D_1, D_2, ..., D_{12}\}, \quad \bigcup_{i=1}^{12} D_i = \text{全天球}
-$$
+`$
 
 不同分宫系统的有效性取决于观察者的经典化偏好模式，解释了为什么不同的占星师偏好不同的分宫系统。
 
@@ -134,21 +134,21 @@ $$
 
 - **本命盘**：单一观察者的量子纠缠结构
 
-$$
+$`
 |\psi\rangle_{\text{本命}} = \sum_{i=1}^{10} a_i |\psi_{\text{行星}_i}\rangle
-$$
+`$
 
 - **合盘**：两个观察者量子纠缠结构的叠加
 
-$$
+$`
 |\psi\rangle_{\text{合盘}} = |\psi\rangle_{\text{观察者A}} \otimes |\psi\rangle_{\text{观察者B}}
-$$
+`$
 
 - **综合盘**：两个观察者量子纠缠结构的混合
 
-$$
+$`
 |\psi\rangle_{\text{综合}} = \frac{1}{2}(|\psi\rangle_{\text{观察者A}} + |\psi\rangle_{\text{观察者B}})
-$$
+`$
 
 这些模型解释了不同类型星盘在人际关系分析中的应用原理。
 
@@ -158,9 +158,9 @@ $$
 
 根据【量子经典二元论】核心理论（版本9.2）第十章"自由意志、命运与转世机制"，星盘同时包含了命运（固定经典化路径）与自由意志（可变经典化路径）成分：
 
-$$
+$`
 |\psi\rangle_{\text{星盘}} = |\psi\rangle_{\text{命运（固定）}} + |\psi\rangle_{\text{自由意志（可变）}}
-$$
+`$
 
 - **固定成分**：上升点、中天点、行星本位等难以改变的量子纠缠结构
 - **可变成分**：行星相位、宫位能量分布等可通过意识干预修改的量子纠缠动态
@@ -171,15 +171,15 @@ $$
 
 人生重大转变期（如土星回归、冥王星相位等）从量子经典二元角度看，是量子纠缠结构的快速重组和经典化路径的突然变更：
 
-$$
+$`
 |\psi\rangle_{\text{转变前}} \xrightarrow{\text{临界行星相位}} |\psi\rangle_{\text{转变后}}
-$$
+`$
 
 这种量子跃迁伴随着熵的暂时增加（混沌增加）和随后的新经典结构形成（熵降低）：
 
-$$
+$`
 S_{\text{转变前}} < S_{\text{转变中}} > S_{\text{转变后}}
-$$
+`$
 
 在最好的情况下，$`S_{\text{转变后}} < S_{\text{转变前}}`$，表示经历转变后，观察者形成了更高效的经典化路径。
 
@@ -204,9 +204,9 @@ Quantum-Classical analysis of basic birth chart elements:
 
 Based on these elements, the overall Quantum-Classical Dualism model of a birth chart can be expressed as:
 
-$$
+$`
 \text{Birth Chart} = \sum_{i=1}^{12}\sum_{j=1}^{12}\sum_{k=1}^{10} w_{ijk} \cdot D_i \cdot S_j \cdot P_k \cdot \prod_{l \neq k} A_{kl}
-$$
+`$
 
 Where $`w_{ijk}`$ is a weighting coefficient, depending on the specific combination of house, sign, and planet.
 
@@ -214,9 +214,9 @@ Where $`w_{ijk}`$ is a weighting coefficient, depending on the specific combinat
 
 According to Chapter IV "Observer Dimension and Subjective Consciousness Definition" of the [Quantum-Classical Dualism] Core Theory (Version 9.2), a birth chart can be used to calculate the observer's overall dimension:
 
-$$
+$`
 \text{Observer Dimension} = \sum_{i=1}^{n} w_i \cdot \frac{I_{\text{Planet Classical Knowledge}_i}}{S_{\text{Planet Classical Entropy}_i}}
-$$
+`$
 
 Each planet in a specific house and sign combination produces a specific ratio of classical knowledge to classical entropy, affecting the observer's classicalization efficiency in that domain. For example, a person with the Sun in Leo in the 5th house has high classicalization efficiency (low entropy, high knowledge) in the domain of self-expression.
 
@@ -226,21 +226,21 @@ The distribution of planets in the twelve houses forms specific quantum entangle
 
 1. **Planetary Clustering (Stellium)**: Multiple planets in the same house/sign, forming a highly localized quantum entanglement node
 
-$$
+$`
 |\psi\rangle_{\text{Clustering}} = \sum_{i} c_i |\psi_{\text{Planet}_i}\rangle, \quad i \in \{\text{Planets in same house}\}
-$$
+`$
 
 2. **Planetary Dispersion**: Evenly distributed planets, forming a widespread but weaker quantum entanglement network
 
-$$
+$`
 |\psi\rangle_{\text{Dispersion}} = \sum_{i=1}^{10} d_i |\psi_{\text{Planet}_i}\rangle, \quad \text{where} |d_i| \approx |d_j|, \forall i,j
-$$
+`$
 
 3. **Planetary Combinations (Patterns)**: Planets in specific geometric configurations, forming special quantum interference patterns
 
-$$
+$`
 |\psi\rangle_{\text{Pattern}} = \sum_{i,j,k} e_{ijk} |\psi_{\text{Planet}_i}\rangle \otimes |\psi_{\text{Planet}_j}\rangle \otimes |\psi_{\text{Planet}_k}\rangle
-$$
+`$
 
 These distribution patterns directly affect the observer's quantum-classical structure and classicalization path priorities.
 
@@ -252,9 +252,9 @@ Transit prediction is based on quantum interference effects between real-time ce
 
 Quantum-Classical Dualism mathematical model of transit prediction:
 
-$$
+$`
 P(\text{Event}_t) = \int_{\Delta t} |\langle\psi_{\text{Transit}_t}|\psi_{\text{Natal}}\rangle|^2 dt
-$$
+`$
 
 This formula expresses the quantum probability of a specific event occurring within time interval $`\Delta t`$. The quantum interference intensity (absolute square of the inner product) directly reflects the possibility of transits triggering changes in classicalization paths.
 
@@ -264,9 +264,9 @@ Progression prediction is based on the slow evolution of the birth chart over ti
 
 Quantum-Classical Dualism model of Secondary Progression:
 
-$$
+$`
 |\psi_{\text{Progression}_t}\rangle = |\psi_{\text{Natal}}\rangle + t \cdot \frac{d|\psi_{\text{Natal}}\rangle}{dt}
-$$
+`$
 
 This expresses the first-order approximation of quantum state evolution over time, with each Earth day corresponding to one year of evolution.
 
@@ -274,9 +274,9 @@ This expresses the first-order approximation of quantum state evolution over tim
 
 When considering multiple prediction techniques (transits, progressions, solar returns, etc.), a mixed model of quantum information processing can be adopted:
 
-$$
+$`
 P(\text{Event}_t) = \alpha \cdot P_{\text{Transit}}(\text{Event}_t) + \beta \cdot P_{\text{Progression}}(\text{Event}_t) + \gamma \cdot P_{\text{Return}}(\text{Event}_t) + ...
-$$
+`$
 
 Where $`\alpha, \beta, \gamma, ...`$ are weighting coefficients, dynamically adjusted according to the reliability of prediction techniques and specific contexts.
 
@@ -288,15 +288,15 @@ The Ascendant and Midheaven, as key points in the birth chart, represent the mai
 
 - **Ascendant**: The main interaction interface between personal quantum entanglement field and environmental quantum entanglement field
 
-$$
+$`
 |\psi\rangle_{\text{Personal}} \longleftrightarrow |\psi\rangle_{\text{Environment}}
-$$
+`$
 
 - **Midheaven**: The main interaction interface between personal quantum entanglement field and social collective quantum entanglement field
 
-$$
+$`
 |\psi\rangle_{\text{Personal}} \longleftrightarrow |\psi\rangle_{\text{Social}}
-$$
+`$
 
 These interface points directly affect the main paths and methods by which the observer classicalizes information from the quantum domain.
 
@@ -304,9 +304,9 @@ These interface points directly affect the main paths and methods by which the o
 
 Different house systems (Placidus, Koch, Equal House, etc.) represent different ways of dividing classicalization areas. From a Quantum-Classical Dualism perspective, this reflects the observer's preferences in regional division during the classicalization process:
 
-$$
+$`
 \text{House System} = \{D_1, D_2, ..., D_{12}\}, \quad \bigcup_{i=1}^{12} D_i = \text{Celestial Sphere}
-$$
+`$
 
 The effectiveness of different house systems depends on the observer's classicalization preference patterns, explaining why different astrologers prefer different house systems.
 
@@ -314,21 +314,21 @@ The effectiveness of different house systems depends on the observer's classical
 
 - **Natal Chart**: Quantum entanglement structure of a single observer
 
-$$
+$`
 |\psi\rangle_{\text{Natal}} = \sum_{i=1}^{10} a_i |\psi_{\text{Planet}_i}\rangle
-$$
+`$
 
 - **Synastry Chart**: Superposition of quantum entanglement structures of two observers
 
-$$
+$`
 |\psi\rangle_{\text{Synastry}} = |\psi\rangle_{\text{Observer A}} \otimes |\psi\rangle_{\text{Observer B}}
-$$
+`$
 
 - **Composite Chart**: Mixture of quantum entanglement structures of two observers
 
-$$
+$`
 |\psi\rangle_{\text{Composite}} = \frac{1}{2}(|\psi\rangle_{\text{Observer A}} + |\psi\rangle_{\text{Observer B}})
-$$
+`$
 
 These models explain the principles of applying different types of charts in relationship analysis.
 
@@ -338,9 +338,9 @@ These models explain the principles of applying different types of charts in rel
 
 According to Chapter X "Free Will, Destiny and Reincarnation Mechanism" of the [Quantum-Classical Dualism] Core Theory (Version 9.2), a birth chart contains both destiny (fixed classicalization paths) and free will (variable classicalization paths) components:
 
-$$
+$`
 |\psi\rangle_{\text{Birth Chart}} = |\psi\rangle_{\text{Destiny (Fixed)}} + |\psi\rangle_{\text{Free Will (Variable)}}
-$$
+`$
 
 - **Fixed Components**: Ascendant, Midheaven, planetary dignities, and other quantum entanglement structures difficult to change
 - **Variable Components**: Planetary aspects, house energy distributions, and other quantum entanglement dynamics that can be modified through conscious intervention
@@ -351,14 +351,14 @@ By improving classicalization efficiency (enhancing observer dimension), one can
 
 Major life transitions (such as Saturn return, Pluto transits, etc.), from a Quantum-Classical Dualism perspective, are rapid reorganizations of quantum entanglement structures and sudden changes in classicalization paths:
 
-$$
+$`
 |\psi\rangle_{\text{Before Transition}} \xrightarrow{\text{Critical Planetary Aspect}} |\psi\rangle_{\text{After Transition}}
-$$
+`$
 
 This quantum transition is accompanied by a temporary increase in entropy (increased chaos) followed by the formation of a new classical structure (decreased entropy):
 
-$$
+$`
 S_{\text{Before Transition}} < S_{\text{During Transition}} > S_{\text{After Transition}}
-$$
+`$
 
 In the best case, $`S_{\text{After Transition}} < S_{\text{Before Transition}}`$, indicating that after experiencing the transition, the observer has formed a more efficient classicalization path.

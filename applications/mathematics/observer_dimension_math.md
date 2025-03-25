@@ -18,9 +18,9 @@
 
 观察者维度的基本定义通过以下数学表达式给出：
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 其中：
 - $`D_{\mathcal{O}}`$ 表示观察者 $`\mathcal{O}`$ 的维度值
@@ -35,13 +35,13 @@ $$
 
 经典化能力和量子信息处理能力可以进一步表示为：
 
-$$
+$`
 \mathcal{C}_\mathcal{O} = \int_{\tau_1}^{\tau_2} \frac{dI_{经典}}{dt} dt
-$$
+`$
 
-$$
+$`
 \mathcal{Q}_\mathcal{O} = \sum_{i} p_i \log \frac{1}{p_i}
-$$
+`$
 
 其中 $`\frac{dI_{经典}}{dt}`$ 是单位时间内的经典化信息量，$`p_i`$ 是量子态 $`i`$ 的概率。
 
@@ -51,23 +51,23 @@ $$
 
 观察者维度存在理论上的上限和下限：
 
-$$
+$`
 0 < D_{\mathcal{O}} \leq D_{max}
-$$
+`$
 
 其中 $`D_{max}`$ 是理论上可达到的最高维度，与宇宙常数相关：
 
-$$
+$`
 D_{max} \approx \frac{c^3}{G \hbar \Lambda}
-$$
+`$
 
 #### 2. 维度转换函数
 
 不同维度之间的转换可通过以下函数描述：
 
-$$
+$`
 D_{\mathcal{O}_2} = D_{\mathcal{O}_1} \cdot \exp\left(\frac{\Delta I - \Delta S}{\kappa}\right)
-$$
+`$
 
 其中 $`\Delta I`$ 是知识增量，$`\Delta S`$ 是熵增量，$`\kappa`$ 是维度转换系数。
 
@@ -75,9 +75,9 @@ $$
 
 多个观察者相互作用时的等效维度：
 
-$$
+$`
 D_{eq} = \left( \sum_{i=1}^{n} D_{\mathcal{O}_i}^{\alpha} \right)^{1/\alpha}
-$$
+`$
 
 其中 $`\alpha`$ 是维度耦合系数，通常在 0.5 到 2 之间。
 
@@ -85,17 +85,17 @@ $$
 
 观察者维度可以构建一个非欧几里得几何空间，其中维度距离定义为：
 
-$$
+$`
 d(D_1, D_2) = |D_1 - D_2|^{\beta} \cdot \ln\left(1 + \frac{|I_1 - I_2|}{|S_1 - S_2| + \gamma}\right)
-$$
+`$
 
 其中 $`\beta`$ 是距离度量指数，$`\gamma`$ 是正则化参数。
 
 在这个维度空间中，经典化路径可以表示为：
 
-$$
+$`
 \mathcal{P}(t) = D_{\mathcal{O}}(t) + i \cdot \frac{I_{经典}(t)}{S_{经典}(t) + \delta}
-$$
+`$
 
 这构成了一个复维度空间，其中实部表示观察者维度，虚部表示信息-熵比。
 
@@ -103,9 +103,9 @@ $$
 
 大量观察者的维度分布遵循修正的幂律分布：
 
-$$
+$`
 P(D) \propto D^{-\tau} \exp\left(-\frac{D}{D_c}\right)
-$$
+`$
 
 其中 $`\tau`$ 是幂指数，$`D_c`$ 是特征维度参数。
 
@@ -115,17 +115,17 @@ $$
 
 对于单一观察者，维度随时间的演化可以描述为：
 
-$$
+$`
 \frac{dD_{\mathcal{O}}}{dt} = \alpha \frac{dI/dt}{S+\epsilon} - \beta D_{\mathcal{O}} \frac{dS/dt}{S+\epsilon}
-$$
+`$
 
 其中 $`\alpha`$ 和 $`\beta`$ 是演化速率系数。
 
 #### 例2：多观察者系统的群体维度动力学
 
-$$
+$`
 \frac{d\overline{D}}{dt} = \sum_{i,j} K_{ij} (D_j - D_i) + \sum_{i} \eta_i \frac{dI_i/dt}{S_i+\epsilon}
-$$
+`$
 
 其中 $`\overline{D}`$ 是平均维度，$`K_{ij}`$ 是观察者间的耦合系数，$`\eta_i`$ 是个体学习效率。
 
@@ -141,9 +141,9 @@ Observer dimension is a core mathematical concept in Quantum-Classical Dualism, 
 
 The basic definition of observer dimension is given by the following mathematical expression:
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{\text{classical knowledge}}}{S_{\text{classical entropy}}+\epsilon}
-$$
+`$
 
 Where:
 - $`D_{\mathcal{O}}`$ represents the dimension value of observer $`\mathcal{O}`$
@@ -158,13 +158,13 @@ Where:
 
 Classicalization capability and quantum information processing capability can be further represented as:
 
-$$
+$`
 \mathcal{C}_\mathcal{O} = \int_{\tau_1}^{\tau_2} \frac{dI_{\text{classical}}}{dt} dt
-$$
+`$
 
-$$
+$`
 \mathcal{Q}_\mathcal{O} = \sum_{i} p_i \log \frac{1}{p_i}
-$$
+`$
 
 Where $`\frac{dI_{\text{classical}}}{dt}`$ is the amount of classicalized information per unit time, and $`p_i`$ is the probability of quantum state $`i`$.
 
@@ -174,23 +174,23 @@ Where $`\frac{dI_{\text{classical}}}{dt}`$ is the amount of classicalized inform
 
 Observer dimensions have theoretical upper and lower limits:
 
-$$
+$`
 0 < D_{\mathcal{O}} \leq D_{max}
-$$
+`$
 
 Where $`D_{max}`$ is the highest theoretically achievable dimension, related to cosmic constants:
 
-$$
+$`
 D_{max} \approx \frac{c^3}{G \hbar \Lambda}
-$$
+`$
 
 #### 2. Dimension Transformation Function
 
 Transformations between different dimensions can be described by the following function:
 
-$$
+$`
 D_{\mathcal{O}_2} = D_{\mathcal{O}_1} \cdot \exp\left(\frac{\Delta I - \Delta S}{\kappa}\right)
-$$
+`$
 
 Where $`\Delta I`$ is the knowledge increment, $`\Delta S`$ is the entropy increment, and $`\kappa`$ is the dimension transformation coefficient.
 
@@ -198,9 +198,9 @@ Where $`\Delta I`$ is the knowledge increment, $`\Delta S`$ is the entropy incre
 
 Equivalent dimension when multiple observers interact:
 
-$$
+$`
 D_{eq} = \left( \sum_{i=1}^{n} D_{\mathcal{O}_i}^{\alpha} \right)^{1/\alpha}
-$$
+`$
 
 Where $`\alpha`$ is the dimension coupling coefficient, typically between 0.5 and 2.
 
@@ -208,17 +208,17 @@ Where $`\alpha`$ is the dimension coupling coefficient, typically between 0.5 an
 
 Observer dimensions can construct a non-Euclidean geometric space where dimension distance is defined as:
 
-$$
+$`
 d(D_1, D_2) = |D_1 - D_2|^{\beta} \cdot \ln\left(1 + \frac{|I_1 - I_2|}{|S_1 - S_2| + \gamma}\right)
-$$
+`$
 
 Where $`\beta`$ is the distance metric exponent and $`\gamma`$ is a regularization parameter.
 
 In this dimension space, classicalization paths can be represented as:
 
-$$
+$`
 \mathcal{P}(t) = D_{\mathcal{O}}(t) + i \cdot \frac{I_{\text{classical}}(t)}{S_{\text{classical}}(t) + \delta}
-$$
+`$
 
 This forms a complex dimension space where the real part represents observer dimension and the imaginary part represents the information-entropy ratio.
 
@@ -226,9 +226,9 @@ This forms a complex dimension space where the real part represents observer dim
 
 The dimension distribution of a large number of observers follows a modified power-law distribution:
 
-$$
+$`
 P(D) \propto D^{-\tau} \exp\left(-\frac{D}{D_c}\right)
-$$
+`$
 
 Where $`\tau`$ is the power exponent and $`D_c`$ is the characteristic dimension parameter.
 
@@ -238,16 +238,16 @@ Where $`\tau`$ is the power exponent and $`D_c`$ is the characteristic dimension
 
 For a single observer, the dimension evolution over time can be described as:
 
-$$
+$`
 \frac{dD_{\mathcal{O}}}{dt} = \alpha \frac{dI/dt}{S+\epsilon} - \beta D_{\mathcal{O}} \frac{dS/dt}{S+\epsilon}
-$$
+`$
 
 Where $`\alpha`$ and $`\beta`$ are evolution rate coefficients.
 
 #### Example 2: Group Dimension Dynamics in Multi-Observer Systems
 
-$$
+$`
 \frac{d\overline{D}}{dt} = \sum_{i,j} K_{ij} (D_j - D_i) + \sum_{i} \eta_i \frac{dI_i/dt}{S_i+\epsilon}
-$$
+`$
 
 Where $`\overline{D}`$ is the average dimension, $`K_{ij}`$ is the coupling coefficient between observers, and $`\eta_i`$ is the individual learning efficiency.

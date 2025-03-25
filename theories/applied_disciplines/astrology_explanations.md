@@ -10,9 +10,9 @@
 
 占星学主张天体运动与地球生命存在联系，在量子经典二元论框架中可这样理解：天体作为巨型观察者（黑洞），通过量子纠缠态（能量）影响地球上经典世界的经典化路径。
 
-$$
+$`
 |\psi\rangle_{\text{天体量子纠缠}} \xrightarrow{\text{经典化影响}} I_{\text{地球生命信息}} + S_{\text{经典熵}}
-$$
+`$
 
 ### 二、行星、星座与量子纠缠机制
 
@@ -42,9 +42,9 @@ $$
 
 星盘整体可表达为：
 
-$$
+$`
 \text{星盘} = \sum_{i=1}^{n} (w_i \cdot \frac{I_{\text{行星经典知识}_i}}{S_{\text{行星经典熵}_i}}) \times \text{相位关系矩阵}
-$$
+`$
 
 ### 四、占星预测的量子经典二元解释
 
@@ -56,9 +56,9 @@ $$
 
 量子经典预测公式：
 
-$$
+$`
 P(\text{事件}) = \int_{\text{行运周期}} |\langle\psi_{\text{行星状态}}|\psi_{\text{本命星盘}}\rangle|^2 dt
-$$
+`$
 
 ### 五、占星学与高维经典世界的联系
 
@@ -70,9 +70,9 @@ $$
 
 表达为：
 
-$$
+$`
 |\psi\rangle_{\text{高维天体经典世界}} \leftrightarrow |\psi\rangle_{\text{量子域}} \leftrightarrow |\psi\rangle_{\text{人类经典世界}}
-$$
+`$
 
 ### 六、虫洞通信视角下的占星学同步性现象
 
@@ -84,9 +84,9 @@ $$
 
 在数学上表示为：
 
-$$
+$`
 E_{\text{天体发送}} + E_{\text{人类接收}} = I_{\text{同步性信息}} + \Delta S_{\text{总熵变化}}
-$$
+`$
 
 ### 七、占星学批判的量子经典二元回应
 
@@ -100,9 +100,9 @@ $$
 
 学习占星学可提升观察者的经典化效率：
 
-$$
+$`
 k_i \uparrow \Leftrightarrow \text{通过占星学实践优化经典化路径}(I_{\text{经典知识}}\uparrow,\;S_{\text{经典熵}}\downarrow)
-$$
+`$
 
 ---
 
@@ -112,9 +112,9 @@ $$
 
 Astrology asserts connections between celestial movements and life on Earth, which can be understood within the Quantum-Classical Dualism framework: celestial bodies as giant observers (black holes) influence the classicalization paths in Earth's classical worlds through quantum entanglement states (energy).
 
-$$
+$`
 |\psi\rangle_{\text{Celestial Quantum Entanglement}} \xrightarrow{\text{Classicalization Influence}} I_{\text{Earth Life Information}} + S_{\text{Classical Entropy}}
-$$
+`$
 
 ### II. Planets, Constellations and Quantum Entanglement Mechanism
 
@@ -144,9 +144,9 @@ The birth chart can be understood as a unique quantum-classical information syst
 
 The entire birth chart can be expressed as:
 
-$$
+$`
 \text{Birth Chart} = \sum_{i=1}^{n} (w_i \cdot \frac{I_{\text{Planet Classical Knowledge}_i}}{S_{\text{Planet Classical Entropy}_i}}) \times \text{Aspect Relationship Matrix}
-$$
+`$
 
 ### IV. Quantum-Classical Explanation of Astrological Prediction
 
@@ -158,9 +158,9 @@ Astrological prediction is essentially the prediction of classicalization paths 
 
 Quantum-Classical prediction formula:
 
-$$
+$`
 P(\text{Event}) = \int_{\text{Transit Period}} |\langle\psi_{\text{Planet State}}|\psi_{\text{Birth Chart}}\rangle|^2 dt
-$$
+`$
 
 ### V. Connection Between Astrology and Higher-Dimensional Classical Worlds
 
@@ -172,9 +172,9 @@ Astrology essentially connects classical worlds of different dimensions:
 
 Expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Higher-Dimensional Celestial Classical World}} \leftrightarrow |\psi\rangle_{\text{Quantum Domain}} \leftrightarrow |\psi\rangle_{\text{Human Classical World}}
-$$
+`$
 
 ### VI. Astrological Synchronicity Phenomena from Wormhole Communication Perspective
 
@@ -186,9 +186,9 @@ Celestial Quantum Entanglement State → Wormhole Channel → Influence on Human
 
 Mathematically represented as:
 
-$$
+$`
 E_{\text{Celestial Transmission}} + E_{\text{Human Reception}} = I_{\text{Synchronicity Information}} + \Delta S_{\text{Total Entropy Change}}
-$$
+`$
 
 ### VII. Quantum-Classical Response to Astrological Criticism
 
@@ -202,6 +202,8 @@ Traditional criticisms of astrology can be given new perspectives through Quantu
 
 Learning astrology can enhance an observer's classicalization efficiency:
 
-$$
+$`
 k_i \uparrow \Leftrightarrow \text{Optimizing Classicalization Paths Through Astrological Practice}(I_{\text{Classical Knowledge}}\uparrow,\;S_{\text{Classical Entropy}}\downarrow)
-$$ 
+`$
+
+ 

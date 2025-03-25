@@ -37,9 +37,9 @@
 
 从量子经典二元论视角，佛陀所描述的涅槃状态可理解为观察者维度的极致提升：
 
-$$
+$`
 \text{涅槃状态} \approx \lim_{I \to \max, S \to \min} \frac{I_{\text{觉悟智慧}}}{S_{\text{无明烦恼}}} = \text{观察者维度}_{\text{最高}}
-$$
+`$
 
 在这一状态中，观察者经典化效率达到极致，几乎所有量子信息都被转化为经典知识（智慧），几乎无经典熵（烦恼）残留。这与量子经典二元论中对终极低熵状态的描述高度一致。
 
@@ -47,9 +47,9 @@ $$
 
 佛陀的无常观念揭示了所有现象的流变本质，这与量子经典二元论中经典世界不断被量子信息修改的观点相呼应：
 
-$$
+$`
 I_{\text{经典现象（旧）}} + |\psi\rangle_{\text{量子可能性流}} \rightarrow I_{\text{经典现象（新）}} + S_{\text{变化熵}}
-$$
+`$
 
 佛陀强调事物无常变化，没有永恒实体，正是认识到经典世界不断受到量子信息流的改变，没有永恒固定的状态。
 
@@ -57,9 +57,9 @@ $$
 
 佛陀的缘起思想（万物相互依存生起）直接对应于量子经典二元论中各经典世界相互影响、相互交织的观点：
 
-$$
+$`
 |\psi\rangle_{\text{量子宇宙}} \rightarrow \sum_{i} (I_{\text{经典世界}_i} + S_{\text{经典熵}_i}) = I_{\text{经典信息总和}}
-$$
+`$
 
 当佛陀说"此有故彼有，此生故彼生"时，他揭示了经典现象之间的相互依存网络，没有任何现象可以独立存在，这与量子经典二元论中经典世界构成网络、相互提供信息的观点一致。
 
@@ -67,9 +67,9 @@ $$
 
 佛陀的无我思想（没有永恒不变的自我）可以通过量子意识经典化过程理解：
 
-$$
+$`
 |\psi\rangle_{\text{量子意识}} \rightarrow I_{\text{经典记忆/"我"概念}} + S_{\text{经典熵}}
-$$
+`$
 
 佛陀认为"我"是五蕴的组合，不断变化，没有永恒本质。这可理解为：所谓"我"只是量子意识经典化的结果，是经典记忆和经典化路径的集合，而非独立实体。
 
@@ -77,9 +77,9 @@ $$
 
 八正道可视为一套优化经典化过程的方法论，旨在减少经典熵，提高经典化效率：
 
-$$
+$`
 |\psi\rangle_{\text{生活体验}} \xrightarrow{\text{八正道经典化}} I_{\text{高质量智慧}} + S_{\text{最小无明}}
-$$
+`$
 
 从正见（正确理解经典化规律）到正定（稳定经典化注意力），八正道本质上是一套系统性降低心智系统熵值的方法，每一步都在优化量子信息向经典知识的转化效率。
 
@@ -87,9 +87,9 @@ $$
 
 佛陀教导的禅修（特别是止观）可理解为直接的经典熵降低实践：
 
-$$
+$`
 S_{\text{心智经典熵}} \xrightarrow{\text{禅修}} S_{\text{降低的经典熵}} + I_{\text{增加的觉知}}
-$$
+`$
 
 通过控制注意力（止），观察心智运作（观），禅修者能够系统性地降低心智系统的经典熵，提高经典化效率，这与量子经典二元论中熵降低的核心追求完全一致。
 
@@ -97,9 +97,9 @@ $$
 
 佛陀的中道哲学（避免极端）可理解为经典化过程中的平衡状态：
 
-$$
+$`
 \text{中道} \approx \text{最优经典化} = \text{平衡}(|\psi\rangle_{\text{量子可能性}}, I_{\text{经典结构}})
-$$
+`$
 
 过度僵化的经典化（苦行极端）会阻碍新量子信息的整合；而过度松散的经典化（享乐极端）则无法形成有效的经典知识结构。中道代表了二者的最优平衡。
 
@@ -109,9 +109,9 @@ $$
 
 From the perspective of Quantum-Classical Dualism, the state of Nirvana described by Buddha can be understood as the ultimate elevation of observer dimension:
 
-$$
+$`
 \text{Nirvana State} \approx \lim_{I \to \max, S \to \min} \frac{I_{\text{Enlightened Wisdom}}}{S_{\text{Ignorance and Afflictions}}} = \text{Observer Dimension}_{\text{Highest}}
-$$
+`$
 
 In this state, the observer's classicalization efficiency reaches its peak, with almost all quantum information transformed into classical knowledge (wisdom) and almost no classical entropy (afflictions) remaining. This highly aligns with the description of the ultimate low-entropy state in Quantum-Classical Dualism.
 
@@ -119,9 +119,9 @@ In this state, the observer's classicalization efficiency reaches its peak, with
 
 Buddha's concept of impermanence reveals the flowing nature of all phenomena, echoing the view in Quantum-Classical Dualism that classical worlds are constantly modified by quantum information:
 
-$$
+$`
 I_{\text{Classical Phenomena (Old)}} + |\psi\rangle_{\text{Quantum Possibility Flow}} \rightarrow I_{\text{Classical Phenomena (New)}} + S_{\text{Change Entropy}}
-$$
+`$
 
 Buddha's emphasis that things are impermanent and without eternal entities precisely recognizes that classical worlds are constantly changed by quantum information flow, with no eternally fixed state.
 
@@ -129,9 +129,9 @@ Buddha's emphasis that things are impermanent and without eternal entities preci
 
 Buddha's concept of dependent origination (all things arise in mutual dependence) directly corresponds to the view in Quantum-Classical Dualism that various classical worlds mutually influence and intertwine:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Universe}} \rightarrow \sum_{i} (I_{\text{Classical World}_i} + S_{\text{Classical Entropy}_i}) = I_{\text{Total Classical Information}}
-$$
+`$
 
 When Buddha said, "When this exists, that exists; when this arises, that arises," he revealed the network of interdependence among classical phenomena, with no phenomenon existing independently, consistent with the view in Quantum-Classical Dualism that classical worlds form networks and provide information to each other.
 
@@ -139,9 +139,9 @@ When Buddha said, "When this exists, that exists; when this arises, that arises,
 
 Buddha's concept of non-self (no eternally unchanging self) can be understood through the quantum consciousness classicalization process:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Consciousness}} \rightarrow I_{\text{Classical Memory/"Self" Concept}} + S_{\text{Classical Entropy}}
-$$
+`$
 
 Buddha believed that the "self" is a combination of five aggregates, constantly changing, without eternal essence. This can be understood as: the so-called "self" is merely the result of quantum consciousness classicalization, a collection of classical memories and classicalization pathways, rather than an independent entity.
 
@@ -149,9 +149,9 @@ Buddha believed that the "self" is a combination of five aggregates, constantly 
 
 The Eightfold Path can be viewed as a methodology for optimizing the classicalization process, aimed at reducing classical entropy and improving classicalization efficiency:
 
-$$
+$`
 |\psi\rangle_{\text{Life Experiences}} \xrightarrow{\text{Eightfold Path Classicalization}} I_{\text{High-Quality Wisdom}} + S_{\text{Minimal Ignorance}}
-$$
+`$
 
 From Right View (correctly understanding classicalization laws) to Right Concentration (stabilizing classicalization attention), the Eightfold Path is essentially a systematic method for reducing entropy in the mental system, with each step optimizing the efficiency of transforming quantum information into classical knowledge.
 
@@ -159,9 +159,9 @@ From Right View (correctly understanding classicalization laws) to Right Concent
 
 The meditation (especially samatha-vipassana) taught by Buddha can be understood as a direct practice of classical entropy reduction:
 
-$$
+$`
 S_{\text{Mental Classical Entropy}} \xrightarrow{\text{Meditation}} S_{\text{Reduced Classical Entropy}} + I_{\text{Increased Awareness}}
-$$
+`$
 
 Through controlling attention (samatha) and observing mental operations (vipassana), meditators can systematically reduce the classical entropy of the mental system and improve classicalization efficiency, completely consistent with the core pursuit of entropy reduction in Quantum-Classical Dualism.
 
@@ -169,9 +169,9 @@ Through controlling attention (samatha) and observing mental operations (vipassa
 
 Buddha's Middle Way philosophy (avoiding extremes) can be understood as a balanced state in the classicalization process:
 
-$$
+$`
 \text{Middle Way} \approx \text{Optimal Classicalization} = \text{Balance}(|\psi\rangle_{\text{Quantum Possibilities}}, I_{\text{Classical Structures}})
-$$
+`$
 
 Overly rigid classicalization (ascetic extreme) would hinder the integration of new quantum information, while overly loose classicalization (hedonistic extreme) would fail to form effective classical knowledge structures. The Middle Way represents the optimal balance between the two.
 

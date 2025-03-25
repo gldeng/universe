@@ -29,9 +29,9 @@
 
 沃斯通克拉夫特的思想体现了人类潜能的量子可能性与社会性别经典化之间的根本冲突。她认识到性别不是固定的经典状态，而是通过教育、社会规范和权力结构强制经典化的结果，这一过程限制了女性的量子潜能。
 
-$$
+$`
 |\psi\rangle_{\text{人类潜能}} \xrightarrow{\text{性别经典化}} I_{\text{男性理性}} + I_{\text{女性情感}} + S_{\text{潜能损失}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,10 +40,12 @@ $$
    沃斯通克拉夫特挑战了理性能力的性别经典化分配：
 
    $$
+
    |\psi\rangle_{\text{理性能力}} \xrightarrow{\text{传统经典化}} I_{\text{男性理性}} + I_{\text{女性非理性}} + S_{\text{系统不平等（高熵）}}
    $$
 
    $$
+
    |\psi\rangle_{\text{理性能力}} \xrightarrow{\text{平等经典化}} I_{\text{普遍理性}} + S_{\text{个体差异（低熵）}}
    $$
 
@@ -54,10 +56,12 @@ $$
    道德自主反映了个体量子自我与经典社会规范的动态关系：
 
    $$
+
    |\psi\rangle_{\text{道德可能性}} \xrightarrow{\text{外部权威}} I_{\text{被动服从}} + S_{\text{道德异化}}
    $$
 
    $$
+
    |\psi\rangle_{\text{道德可能性}} \xrightarrow{\text{理性自主}} I_{\text{主动道德}} + S_{\text{创造性张力}}
    $$
 
@@ -68,10 +72,12 @@ $$
    教育在沃斯通克拉夫特思想中是量子潜能解放的关键机制：
 
    $$
+
    |\psi\rangle_{\text{女性潜能}} \xrightarrow{\text{传统女性教育}} I_{\text{驯服角色}} + S_{\text{潜能抑制（高熵）}}
    $$
 
    $$
+
    |\psi\rangle_{\text{女性潜能}} \xrightarrow{\text{理性教育}} I_{\text{能力发展}} + S_{\text{社会贡献（低熵）}}
    $$
 
@@ -82,10 +88,12 @@ $$
    沃斯通克拉夫特的婚姻理念体现了一种平等的量子纠缠关系：
 
    $$
+
    |\psi\rangle_{\text{传统婚姻}} = |\psi\rangle_{\text{男性支配}} \otimes |\psi\rangle_{\text{女性依附}} \rightarrow I_{\text{不平等结构}} + S_{\text{关系异化}}
    $$
 
    $$
+
    |\psi\rangle_{\text{理想婚姻}} = |\psi\rangle_{\text{个体A}} \otimes |\psi\rangle_{\text{个体B}} \rightarrow I_{\text{平等友谊}} + S_{\text{互补发展}}
    $$
 
@@ -96,6 +104,7 @@ $$
    沃斯通克拉夫特的社会批判展示了渐进的量子-经典社会转化路径：
 
    $$
+
    |\psi\rangle_{\text{社会可能性}} \xrightarrow{\text{理性启蒙}} I_{\text{渐进改革}} + S_{\text{文明进步}}
    $$
 

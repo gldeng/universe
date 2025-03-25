@@ -20,15 +20,15 @@ English: [Basic Concepts](#basic-concepts) | [Core Formula](#core-formula) | [Th
 
 这一过程可以用以下公式表达：
 
-$$
+$`
 |\psi\rangle_{\text{高维信息}}\xrightarrow{\text{低维观察者经典化}}\text{经典知识（少）}+S_{\text{经典熵（多）}}
-$$
+`$
 
 维度差距与经典化效率关系：
 
-$$
+$`
 \eta_{classicalization} = \frac{K_{classical}}{S_{classical}} \propto \frac{1}{\Delta D}
-$$
+`$
 
 其中，$`\eta_{classicalization}`$是经典化效率，$`K_{classical}`$是产生的经典知识，$`S_{classical}`$是产生的经典熵，$`\Delta D`$是观察者维度与信息维度的差距。
 
@@ -116,15 +116,15 @@ The field traditionally known as "metaphysics" can be reinterpreted under the Qu
 
 This process can be expressed by the following formula:
 
-$$
+$`
 |\psi\rangle_{\text{Higher-dimensional information}}\xrightarrow{\text{Classicalization by lower-dimensional observer}}\text{Classical knowledge (little)}+S_{\text{Classical entropy (much)}}
-$$
+`$
 
 Relationship between dimensional gap and classicalization efficiency:
 
-$$
+$`
 \eta_{classicalization} = \frac{K_{classical}}{S_{classical}} \propto \frac{1}{\Delta D}
-$$
+`$
 
 Where $`\eta_{classicalization}`$ is the classicalization efficiency, $`K_{classical}`$ is the classical knowledge produced, $`S_{classical}`$ is the classical entropy produced, and $`\Delta D`$ is the dimensional gap between the observer and the information.
 

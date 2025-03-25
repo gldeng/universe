@@ -22,15 +22,15 @@
 
 勒贝格通用覆盖问题寻找常数$`L`$，使得：
 
-$$
+$`
 L = \inf\{A(K) : K \text{ 是凸集且能覆盖任意直径为1的平面集合}\}
-$$
+`$
 
 其中$`A(K)`$表示集合$`K`$的面积。目前已知的界限是：
 
-$$
+$`
 \frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}
-$$
+`$
 
 下界约为0.9069，上界约为2.3677。
 
@@ -49,22 +49,22 @@ $$
 
 从量子经典二元视角，勒贝格常数可以表示为：
 
-$$
+$`
 \begin{align}
 \mathcal{I}_{\text{量子信息内容}} &= \{\text{所有直径为1的集合}\} \\
 \mathcal{C}_{\text{经典覆盖结构}} &= \{K : K \text{ 是凸集且能覆盖} \mathcal{I} \} \\
 \mathcal{E}_{\text{经典表达效率}} &= \inf_{K \in \mathcal{C}} A(K) \\
 L &= \mathcal{E}_{\text{经典表达效率}}
 \end{align}
-$$
+`$
 
 ### 直径与信息广度的对应
 
 从量子经典视角，直径为1体现了"标准化的信息广度"概念：
 
-$$
+$`
 \text{直径} = 1 \Rightarrow \text{标准化的量子信息广度}
-$$
+`$
 
 这一标准化使得不同形状的集合可以在同一信息度量下进行比较。
 
@@ -78,12 +78,12 @@ $$
 
 从量子信息角度，正三角形代表了一种最优化的信息排列模式：
 
-$$
+$`
 \begin{align}
 A(K) &\geq A(\text{覆盖}T\text{的最小凸集}) \\
 &\geq \frac{\pi}{2\sqrt{3}}
 \end{align}
-$$
+`$
 
 这一下界反映了量子信息在经典域中最紧密表达的基本限制。
 
@@ -96,12 +96,12 @@ $$
 
 这一构造给出了上界：
 
-$$
+$`
 \begin{align}
 L &\leq A(\text{上述构造}) \\
 &\leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}
 \end{align}
-$$
+`$
 
 从量子经典视角，这表示了经典域中包含固定量子信息的可行冗余度上限。
 
@@ -111,9 +111,9 @@ $$
 
 基于这一分析，我们推测：
 
-$$
+$`
 L \approx \frac{\pi}{2\sqrt{3}}
-$$
+`$
 
 这一值反映了量子信息经典化后的最优表达效率，与六边形密铺结构的基本效率相关。
 
@@ -170,15 +170,15 @@ The Lebesgue Universal Covering Problem is a classical problem in geometry, init
 
 The Lebesgue Universal Covering Problem seeks to find a constant $`L`$ such that:
 
-$$
+$`
 L = \inf\{A(K) : K \text{ is a convex set that can cover any planar set with diameter 1}\}
-$$
+`$
 
 where $`A(K)`$ represents the area of set $`K`$. The currently known bounds are:
 
-$$
+$`
 \frac{\pi}{2\sqrt{3}} \leq L \leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}
-$$
+`$
 
 The lower bound is approximately 0.9069, and the upper bound is approximately 2.3677.
 
@@ -197,22 +197,22 @@ From the Quantum-Classical Dualism perspective, the geometric covering problem c
 
 From the Quantum-Classical perspective, the Lebesgue constant can be represented as:
 
-$$
+$`
 \begin{align}
 \mathcal{I}_{\text{Quantum Information Content}} &= \{\text{all sets with diameter 1}\} \\
 \mathcal{C}_{\text{Classical Covering Structure}} &= \{K : K \text{ is a convex set that covers } \mathcal{I} \} \\
 \mathcal{E}_{\text{Classical Expression Efficiency}} &= \inf_{K \in \mathcal{C}} A(K) \\
 L &= \mathcal{E}_{\text{Classical Expression Efficiency}}
 \end{align}
-$$
+`$
 
 ### Correspondence Between Diameter and Information Breadth
 
 From the Quantum-Classical perspective, diameter 1 embodies the concept of "standardized information breadth":
 
-$$
+$`
 \text{Diameter} = 1 \Rightarrow \text{Standardized quantum information breadth}
-$$
+`$
 
 This standardization allows sets of different shapes to be compared under the same information measure.
 
@@ -226,12 +226,12 @@ Let $`K`$ be any convex set that can cover all sets with diameter 1, consider an
 
 From the quantum information perspective, the equilateral triangle represents an optimized information arrangement pattern:
 
-$$
+$`
 \begin{align}
 A(K) &\geq A(\text{smallest convex set covering }T) \\
 &\geq \frac{\pi}{2\sqrt{3}}
 \end{align}
-$$
+`$
 
 This lower bound reflects the basic limitation of the tightest expression of quantum information in the classical domain.
 
@@ -244,12 +244,12 @@ From the Quantum-Classical perspective, constructing an upper bound for the Lebe
 
 This construction gives an upper bound:
 
-$$
+$`
 \begin{align}
 L &\leq A(\text{above construction}) \\
 &\leq \frac{\pi}{2} + \frac{\sqrt{3}}{2}
 \end{align}
-$$
+`$
 
 From the Quantum-Classical perspective, this represents the feasible redundancy upper limit for containing fixed quantum information in the classical domain.
 
@@ -259,9 +259,9 @@ From the Quantum-Classical perspective, the optimal covering should reflect the 
 
 Based on this analysis, we conjecture:
 
-$$
+$`
 L \approx \frac{\pi}{2\sqrt{3}}
-$$
+`$
 
 This value reflects the optimal expression efficiency of quantum information after classicalization, related to the basic efficiency of the hexagonal tiling structure.
 

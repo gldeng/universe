@@ -271,9 +271,9 @@ In summary, we have rigorously proven the validity of the Calabi-Yau conjecture 
 
 定义量子-经典几何映射函数 $`\Phi`$，将量子纠缠结构映射到经典域的几何表征：
 
-$$
+$`
 \Phi: \mathcal{Q}_{\text{纠缠结构}} \to \mathcal{C}_{\text{几何表征}}
-$$
+`$
 
 具体到复流形上，这对应于从量子态空间到Kähler结构的映射。Kähler形式 $`\omega`$ 可理解为量子相位信息的经典几何编码。
 
@@ -281,9 +281,9 @@ $$
 
 Ricci曲率 $`Ric(g)`$ 从量子经典视角可解读为量子纠缠能量的经典几何分布：
 
-$$
+$`
 Ric(g) \equiv \text{量子纠缠能量的经典几何表征}
-$$
+`$
 
 控制Ricci曲率等价于控制量子-经典转换过程中的能量分布规律。
 
@@ -291,9 +291,9 @@ $$
 
 卡拉比猜想可通过求解复Monge-Ampère方程实现：
 
-$$
+$`
 \det(g_{i\bar{j}} + \partial_i\partial_{\bar{j}}\phi) = \det(g_{i\bar{j}})e^{f} \cdot \det(g^{i\bar{j}})
-$$
+`$
 
 其中 $`\phi`$ 是实值函数，$`f`$ 由 $`\rho - Ric(g) = i\partial\bar{\partial}f`$ 决定。
 
@@ -307,9 +307,9 @@ $$
 
 特别关注 $`Ric(g) = 0`$ 的情况。从量子经典视角，Ricci平坦度量表示量子纠缠能量与经典几何达到完美平衡：
 
-$$
+$`
 \text{量子纠缠能量} \Leftrightarrow \text{经典几何曲率} = 0
-$$
+`$
 
 这种平衡态是量子-经典转换的特殊状态，对应于物理中的超对称配置。
 
@@ -327,9 +327,9 @@ From the quantum-classical dualism perspective, the analysis of the Calabi-Yau c
 
 Define the quantum-classical geometric mapping function $`\Phi`$ that maps quantum entanglement structures to geometric representations in the classical domain:
 
-$$
+$`
 \Phi: \mathcal{Q}_{\text{entanglement structure}} \to \mathcal{C}_{\text{geometric representation}}
-$$
+`$
 
 Specifically for complex manifolds, this corresponds to mapping from quantum state space to Kähler structures. The Kähler form $`\omega`$ can be understood as the classical geometric encoding of quantum phase information.
 
@@ -337,9 +337,9 @@ Specifically for complex manifolds, this corresponds to mapping from quantum sta
 
 From the quantum-classical perspective, Ricci curvature $`Ric(g)`$ can be interpreted as the classical geometric distribution of quantum entanglement energy:
 
-$$
+$`
 Ric(g) \equiv \text{classical geometric representation of quantum entanglement energy}
-$$
+`$
 
 Controlling Ricci curvature is equivalent to controlling the energy distribution patterns during the quantum-classical transformation process.
 
@@ -347,9 +347,9 @@ Controlling Ricci curvature is equivalent to controlling the energy distribution
 
 The Calabi conjecture can be realized by solving the complex Monge-Ampère equation:
 
-$$
+$`
 \det(g_{i\bar{j}} + \partial_i\partial_{\bar{j}}\phi) = \det(g_{i\bar{j}})e^{f} \cdot \det(g^{i\bar{j}})
-$$
+`$
 
 where $`\phi`$ is a real-valued function, and $`f`$ is determined by $`\rho - Ric(g) = i\partial\bar{\partial}f`$.
 
@@ -363,9 +363,9 @@ The condition "$`[\omega_{\tilde{g}}] = [\omega_g]`$" (preserving the Kähler cl
 
 Special attention is given to the case where $`Ric(g) = 0`$. From the quantum-classical perspective, Ricci-flat metrics represent perfect equilibrium between quantum entanglement energy and classical geometric representation:
 
-$$
+$`
 \text{quantum entanglement energy} \Leftrightarrow \text{classical geometric curvature} = 0
-$$
+`$
 
 This equilibrium state is a special configuration in the quantum-classical transformation, corresponding to supersymmetric structures in physics.
 

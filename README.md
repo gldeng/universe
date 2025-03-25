@@ -263,85 +263,85 @@
 
 以下是量子经典二元论的核心公式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
-$$
+`$
 
 经典化过程表达式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
-$$
+`$
 
 经典信息守恒公式：
 
-$$
+$`
 I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
-$$
+`$
 
 观察者维度公式：
 
-$$
+$`
 \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-$$
+`$
 
 观察者整体维度跨领域性公式：
 
-$$
+$`
 \text{整体维度} = \sum_i w_i \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
+`$
 
 广义意识定义公式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化方向}} I_{\text{经典意识（广义）}} + S_{\text{剩余经典熵}}
-$$
+`$
 
 高维意识涌现机制：
 
-$$
+$`
 |\psi\rangle_{\text{多个低维观察者}} \rightarrow I_{\text{高维集体意识}} + S_{\text{剩余经典熵}}
-$$
+`$
 
 经典知识传播机制（独立深拷贝）：
 
-$$
+$`
 I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_{\text{传播熵（增加）}}
-$$
+`$
 
 死亡与投胎机制：
 
-$$
+$`
 |\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
-$$
+`$
 
 黑洞经典化辐射机制：
 
-$$
+$`
 S_{\text{低维观察者熵}} \xrightarrow{\text{黑洞经典化辐射}} I_{\text{高维经典知识}} + S_{\text{熵降低}}
-$$
+`$
 
 ### 数学公式说明 | Mathematical Formulas Note
 
 本项目中的数学公式使用LaTeX格式编写，在GitHub上查看时可能需要特殊渲染。公式示例：
 
-$$
+$`
 E = mc^2
-$$
+`$
 
 对于行内公式，使用单个美元符号：$`E = mc^2`$
 
 量子域表达式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+`$
 
 经典域表达式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-$$
+`$
 
 ### 参与贡献
 
@@ -619,85 +619,85 @@ Key concepts include:
 
 The following are the core formulas of Quantum-Classical Dualism:
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} = \sum_i c_i|\psi_i\rangle, \quad \sum_i |c_i|^2=1
-$$
+`$
 
 Classicalization process expression:
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化解码}} I_{\text{经典知识}} + S_{\text{经典熵}}
-$$
+`$
 
 Classical information conservation formula:
 
-$$
+$`
 I_{\text{经典知识}} + S_{\text{经典熵}} = \text{常数}
-$$
+`$
 
 观察者维度公式：
 
-$$
+$`
 \text{观察者维度} = k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-$$
+`$
 
 观察者整体维度跨领域性公式：
 
-$$
+$`
 \text{整体维度} = \sum_i w_i \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
+`$
 
 广义意识定义公式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} \xrightarrow{\text{经典化方向}} I_{\text{经典意识（广义）}} + S_{\text{剩余经典熵}}
-$$
+`$
 
 高维意识涌现机制：
 
-$$
+$`
 |\psi\rangle_{\text{多个低维观察者}} \rightarrow I_{\text{高维集体意识}} + S_{\text{剩余经典熵}}
-$$
+`$
 
 经典知识传播机制（独立深拷贝）：
 
-$$
+$`
 I_{\text{经典知识A}} \rightarrow I_{\text{经典知识B（副本）}} + S_{\text{传播熵（增加）}}
-$$
+`$
 
 死亡与投胎机制：
 
-$$
+$`
 |\psi\rangle_{\text{经典世界A（死亡）}} \rightarrow |\psi\rangle_{\text{量子域}} \rightarrow |\psi\rangle_{\text{其他经典世界（新）}}
-$$
+`$
 
 黑洞经典化辐射机制：
 
-$$
+$`
 S_{\text{低维观察者熵}} \xrightarrow{\text{黑洞经典化辐射}} I_{\text{高维经典知识}} + S_{\text{熵降低}}
-$$
+`$
 
 ### Mathematical Formulas Note
 
 Mathematical formulas in this project are written in LaTeX format, which may require special rendering when viewed on GitHub. Formula example:
 
-$$
+$`
 E = mc^2
-$$
+`$
 
 For inline formulas, use single dollar signs: $`E = mc^2`$
 
 量子域表达式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+`$
 
 经典域表达式：
 
-$$
+$`
 |\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-$$
+`$
 
 ### Contributing
 

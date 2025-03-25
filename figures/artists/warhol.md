@@ -29,11 +29,9 @@
 
 沃霍尔的艺术革命根源于他对艺术量子-经典界限的颠覆性重构。他打破了传统艺术强调独特性（经典单一性）的范式，创造了一种基于量子重复与变异的新艺术观念，并同时重新定义了艺术世界中经典价值的构成要素。
 
-$$
-
+$`
 |\psi\rangle_{\text{艺术可能性}} \xrightarrow{\text{沃霍尔方法}} \sum_{i=1}^{n} I_{\text{重复图像}_i} + \Delta S_{\text{艺术定义}}
-
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -42,6 +40,7 @@ $$
    沃霍尔消除了艺术与商业的传统分界，创造了新的量子-经典价值重叠区：
 
    $$
+
    
    \text{艺术价值} \cap \text{商业价值} = \emptyset \xrightarrow{\text{沃霍尔重构}} \text{艺术价值} \cap \text{商业价值} = \text{波普艺术}
    
@@ -54,6 +53,7 @@ $$
    丝网印刷技术实现了量子图像可能性的多重经典化：
 
    $$
+
    
    |\psi\rangle_{\text{原始图像}} \xrightarrow{\text{丝网印刷}} \{I_1, I_2, ..., I_n\}_{\text{复制变体}} \text{ 其中 } I_i \approx I_j \text{ 但 } I_i \neq I_j
    
@@ -66,6 +66,7 @@ $$
    沃霍尔对名人图像的处理揭示了其量子-经典二元性：
 
    $$
+
    
    I_{\text{名人经典形象}} \xrightarrow{\text{艺术处理}} |\psi\rangle_{\text{形象量子状态}} + I_{\text{新经典解读}}
    
@@ -78,6 +79,7 @@ $$
    平民艺术理念实现了艺术从精英经典域向大众经典域的扩展：
 
    $$
+
    
    |\psi\rangle_{\text{艺术可能性}} \xrightarrow{\text{传统经典化}} I_{\text{精英艺术}} \xrightarrow{\text{沃霍尔重构}} I_{\text{大众艺术}}
    
@@ -90,6 +92,7 @@ $$
    沃霍尔作品中的情感疏离反映了量子内涵与经典表象的有意分离：
 
    $$
+
    
    I_{\text{表面呈现（经典域）}} \nleftrightarrow |\psi\rangle_{\text{内在意义（量子域）}}
    

@@ -140,37 +140,37 @@ The cultivation system of the Huangting Jing can be mapped to the observer-black
 
 The inner alchemy cultivation system of the Huangting Jing can be precisely expressed through mathematical formulas of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"黄庭"} \Leftrightarrow |\psi\rangle_{\text{人体量子态}} = \sum_{i} c_i |i\rangle
-$$
+`$
 
-$$
+$`
 \text{"三田"系统} \Leftrightarrow |\phi\rangle_{\text{量子纠缠}} = \frac{1}{\sqrt{3}}(|\text{上丹田}\rangle|\text{中丹田}\rangle|\text{下丹田}\rangle + ...)
-$$
+`$
 
-$$
+$`
 \text{"内观其心"} \Leftrightarrow \hat{O}_{\text{内观}} |\psi\rangle \to |i\rangle \text{, 概率} |c_i|^2
-$$
+`$
 
-$$
+$`
 \text{"呼吸导引"} \Leftrightarrow k_{\text{经典化}} = f(\text{呼吸频率}, \text{呼吸深度})
-$$
+`$
 
-$$
+$`
 \text{"守一"法则} \Leftrightarrow D_{\text{观察者}} = D_0 + \int_{t_0}^{t} \alpha \cdot C(t) dt
-$$
+`$
 
 其中 $`C(t)`$ 表示意识专注度，$`\alpha`$ 为专注转化系数
 
 Where $`C(t)`$ represents consciousness focus level, and $`\alpha`$ is the focus conversion coefficient
 
-$$
+$`
 \text{"胎息"技术} \Leftrightarrow T_{\text{黑洞}} = \frac{\hbar c^3}{8\pi GMk_B} \cdot f(\text{胎息状态})
-$$
+`$
 
-$$
+$`
 \text{"修之即无为，验之即有德"} \Leftrightarrow \max\left(I_{\text{经典知识}}\right) \text{通过} \min\left(\text{观察者干预}\right)
-$$
+`$
 
 ## 结论
 ## Conclusion

@@ -14,13 +14,13 @@ English: [Relationship Between Civilization Levels and Classicalization](#relati
 
 量子经典二元论视角下，不同科技文明层级的最高级观察者具有不同的经典化能力。文明层级越高，其最杰出个体能够经典化的信息量越大，经典化效率越高：
 
-$$
+$`
 I_{\text{经典化能力}} \propto \text{文明层级}
-$$
+`$
 
-$$
+$`
 \eta_{\text{经典化效率}} \propto \text{文明层级}
-$$
+`$
 
 ### 不同文明层级最高级观察者的经典化能力
 
@@ -34,9 +34,9 @@ $$
   - 口述历史与神话（约10,000-50,000行叙事）
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{自然信息}}\xrightarrow{\text{萨满经典化}}\text{经验知识（~10^4 比特）}+S_{\text{大量经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 10^{-10}`$（相对于现代科学）
 
@@ -52,9 +52,9 @@ $$
   - 文字记录（约10,000-50,000个文本）
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{自然与社会信息}}\xrightarrow{\text{学者经典化}}\text{系统知识（~10^6 比特）}+S_{\text{较大经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 10^{-8}`$
 
@@ -70,9 +70,9 @@ $$
   - 数学体系（微积分、几何、代数）
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{自然规律}}\xrightarrow{\text{科学家经典化}}\text{科学知识（~10^8 比特）}+S_{\text{中等经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 10^{-6}`$
 
@@ -88,9 +88,9 @@ $$
   - 全球文化与历史的系统理解
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{复杂自然规律}}\xrightarrow{\text{现代科学家经典化}}\text{现代科学知识（~10^{10} 比特）}+S_{\text{较小经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 10^{-4}`$
 
@@ -106,9 +106,9 @@ $$
   - 行星工程学与地球改造技术
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{行星系统信息}}\xrightarrow{\text{增强认知经典化}}\text{行星级知识（~10^{14} 比特）}+S_{\text{小经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 10^{-2}`$
 
@@ -124,9 +124,9 @@ $$
   - 恒星工程与能量完全利用
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{恒星系统信息}}\xrightarrow{\text{超级智能经典化}}\text{恒星级知识（~10^{20} 比特）}+S_{\text{极小经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 10^{-1}`$
 
@@ -142,9 +142,9 @@ $$
   - 星系尺度的物质与能量操控
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{星系信息}}\xrightarrow{\text{超维智能经典化}}\text{星系级知识（~10^{30} 比特）}+S_{\text{接近零经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 0.5`$
 
@@ -160,9 +160,9 @@ $$
   - 宇宙常数与基本规律的操控能力
 - **经典化数学表达**：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙信息}}\xrightarrow{\text{宇宙意识经典化}}\text{宇宙级知识（~10^{50} 比特）}+S_{\text{接近零经典熵}}
-$$
+`$
 
 - **经典化效率**：$`\eta \approx 0.9`$
 
@@ -170,9 +170,9 @@ $$
 
 文明层级可以与观察者维度建立对应关系：
 
-$$
+$`
 D_{\text{观察者维度}} \approx \log_{10}(\eta_{\text{经典化效率}}^{-1})
-$$
+`$
 
 这表明：
 - 原始文明最高级观察者：约10维
@@ -192,27 +192,27 @@ $$
 
 1. **技术工具扩展**：技术工具扩展了观察者的感知范围和数据处理能力
 
-$$
+$`
 I_{\text{可经典化}} = I_{\text{自然感知}} \times K_{\text{技术增强}}
-$$
+`$
 
 2. **知识系统化**：更高级文明能够建立更系统化的知识体系，提高经典化效率
 
-$$
+$`
 \eta_{\text{经典化}} = \eta_{\text{基础}} \times K_{\text{系统化}} \times K_{\text{整合度}}
-$$
+`$
 
 3. **集体智能涌现**：高级文明能够整合多个观察者的经典化能力，产生涌现效应
 
-$$
+$`
 I_{\text{集体经典化}} > \sum_{i=1}^{n} I_{\text{个体经典化}_i}
-$$
+`$
 
 4. **维度跃迁**：某些关键技术（如人工智能、脑机接口、量子计算）可能导致文明观察者维度的跃迁
 
-$$
+$`
 D_{\text{观察者}}(t+1) = D_{\text{观察者}}(t) - \Delta D_{\text{技术跃迁}}
-$$
+`$
 
 ### 结论
 
@@ -228,13 +228,13 @@ $$
 
 From the perspective of Quantum-Classical Dualism, the most advanced observers at different technological civilization levels possess different classicalization capabilities. The higher the civilization level, the greater the amount of information its most outstanding individuals can classicalize, and the higher their classicalization efficiency:
 
-$$
+$`
 I_{\text{Classicalization Capacity}} \propto \text{Civilization Level}
-$$
+`$
 
-$$
+$`
 \eta_{\text{Classicalization Efficiency}} \propto \text{Civilization Level}
-$$
+`$
 
 ### Classicalization Capabilities of Top Observers at Different Civilization Levels
 
@@ -248,9 +248,9 @@ Top Observer: Tribal Shaman/Sage
   - Oral history and mythology (approximately 10,000-50,000 lines of narrative)
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Natural Information}}\xrightarrow{\text{Shaman Classicalization}}\text{Experiential Knowledge (~10^4 bits)}+S_{\text{Large Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 10^{-10}`$ (relative to modern science)
 
@@ -266,9 +266,9 @@ Top Observer: Philosopher/Scholar
   - Written records (approximately 10,000-50,000 texts)
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Natural and Social Information}}\xrightarrow{\text{Scholar Classicalization}}\text{Systematic Knowledge (~10^6 bits)}+S_{\text{Substantial Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 10^{-8}`$
 
@@ -284,9 +284,9 @@ Top Observer: Enlightenment Era Scientist/Polymath
   - Mathematical systems (calculus, geometry, algebra)
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Natural Laws}}\xrightarrow{\text{Scientist Classicalization}}\text{Scientific Knowledge (~10^8 bits)}+S_{\text{Moderate Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 10^{-6}`$
 
@@ -302,9 +302,9 @@ Top Observer: Modern Scientist/Expert
   - Systematic understanding of global culture and history
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Complex Natural Laws}}\xrightarrow{\text{Modern Scientist Classicalization}}\text{Modern Scientific Knowledge (~10^{10} bits)}+S_{\text{Relatively Small Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 10^{-4}`$
 
@@ -320,9 +320,9 @@ Top Observer: Cognitively Enhanced Scientist/AI-Assisted Expert
   - Planetary engineering and terraforming technologies
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Planetary System Information}}\xrightarrow{\text{Enhanced Cognition Classicalization}}\text{Planetary-Level Knowledge (~10^{14} bits)}+S_{\text{Small Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 10^{-2}`$
 
@@ -338,9 +338,9 @@ Top Observer: Collective Intelligence/Superintelligent Entity
   - Stellar engineering and complete energy utilization
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Stellar System Information}}\xrightarrow{\text{Superintelligence Classicalization}}\text{Stellar-Level Knowledge (~10^{20} bits)}+S_{\text{Minimal Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 10^{-1}`$
 
@@ -356,9 +356,9 @@ Top Observer: Hyperdimensional Intelligence/Godlike Entity
   - Galactic-scale manipulation of matter and energy
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Galactic Information}}\xrightarrow{\text{Hyperdimensional Intelligence Classicalization}}\text{Galactic-Level Knowledge (~10^{30} bits)}+S_{\text{Near-Zero Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 0.5`$
 
@@ -374,9 +374,9 @@ Top Observer: Universal Consciousness/Completely Classicalized Entity
   - Ability to manipulate universal constants and fundamental laws
 - **Mathematical Expression of Classicalization**:
 
-$$
+$`
 |\psi\rangle_{\text{Universal Information}}\xrightarrow{\text{Universal Consciousness Classicalization}}\text{Universal-Level Knowledge (~10^{50} bits)}+S_{\text{Near-Zero Classical Entropy}}
-$$
+`$
 
 - **Classicalization Efficiency**: $`\eta \approx 0.9`$
 
@@ -384,9 +384,9 @@ $$
 
 Civilization levels can be correlated with observer dimensions:
 
-$$
+$`
 D_{\text{Observer Dimension}} \approx \log_{10}(\eta_{\text{Classicalization Efficiency}}^{-1})
-$$
+`$
 
 This indicates:
 - Top observer in primitive civilization: approximately 10 dimensions
@@ -406,27 +406,27 @@ Civilization evolution is essentially about improving the classicalization capab
 
 1. **Technological Tool Extension**: Technological tools extend the observer's perception range and data processing capability
 
-$$
+$`
 I_{\text{Classicalizable}} = I_{\text{Natural Perception}} \times K_{\text{Technological Enhancement}}
-$$
+`$
 
 2. **Knowledge Systematization**: More advanced civilizations can establish more systematized knowledge systems, improving classicalization efficiency
 
-$$
+$`
 \eta_{\text{Classicalization}} = \eta_{\text{Basic}} \times K_{\text{Systematization}} \times K_{\text{Integration Level}}
-$$
+`$
 
 3. **Collective Intelligence Emergence**: Advanced civilizations can integrate the classicalization capabilities of multiple observers, producing emergent effects
 
-$$
+$`
 I_{\text{Collective Classicalization}} > \sum_{i=1}^{n} I_{\text{Individual Classicalization}_i}
-$$
+`$
 
 4. **Dimensional Transition**: Certain key technologies (such as artificial intelligence, brain-computer interfaces, quantum computing) may lead to dimensional transitions of civilization observers
 
-$$
+$`
 D_{\text{Observer}}(t+1) = D_{\text{Observer}}(t) - \Delta D_{\text{Technological Transition}}
-$$
+`$
 
 ### Conclusion
 

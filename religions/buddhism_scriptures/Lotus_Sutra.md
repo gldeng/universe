@@ -138,11 +138,11 @@ The famous Parable of Medicinal Herbs in the Lotus Sutra expresses the dialectic
 
 The core philosophical insights of the Lotus Sutra can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"一大事因缘"} \Leftrightarrow \max(\mathcal{D}(\mathcal{O}_i)) \to \mathcal{D}(\mathcal{O}_{\text{佛}}), \forall i \in \{\text{众生}\}
-$$
+`$
 
-$$
+$`
 \text{"开示悟入佛知见"} \Leftrightarrow 
 \begin{cases}
 \text{"开"} \to \text{Reveal}(|\psi\rangle_{\text{量子域}}) \\
@@ -150,23 +150,23 @@ $$
 \text{"悟"} \to \text{Realize}(\mathcal{O}_i \subset |\psi\rangle_{\text{量子域}}) \\
 \text{"入"} \to \text{Integrate}(\mathcal{O}_i \Leftrightarrow |\psi\rangle_{\text{量子域}})
 \end{cases}
-$$
+`$
 
-$$
+$`
 \text{"如来知见，广大深远"} \Leftrightarrow \mathcal{D}(\mathcal{O}_{\text{佛}}) \gg \mathcal{D}(\mathcal{O}_{\text{众生}}), \mathcal{V}(\mathcal{O}_{\text{佛}}) \to \mathcal{V}_{\text{全域}}
-$$
+`$
 
-$$
+$`
 \text{"方便"} \Leftrightarrow \text{Path}_{\text{最优}}(\mathcal{O}_i \to \mathcal{O}_{\text{佛}}) = \text{arg}\max_{\text{path}} \left(\eta_{\text{path}} \cdot k_{\mathcal{O}_i} \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
-$$
+$`
 \text{"法住法位，世间相常住"} \Leftrightarrow I_{\text{经典域}} + S_{\text{经典域}} = \text{常数}, \frac{dI_{\text{结构}}}{dt} \approx 0
-$$
+`$
 
-$$
+$`
 \text{"密云弥布...一味之水"} \Leftrightarrow |\psi\rangle_{\text{量子域}} = \text{单一源}, \mathcal{O}_i(|\psi\rangle_{\text{量子域}}) = \text{多样表现}
-$$
+`$
 
 其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`\mathcal{V}(\mathcal{O})`$表示观察视域，$`\eta`$表示路径传导效率
 

@@ -31,19 +31,19 @@
 
 定义柯拉兹函数 $`C: \mathbb{Z}^+ \to \mathbb{Z}^+`$：
 
-$$
+$`
 C(n) = 
 \begin{cases}
 n/2 & \text{若 } n \text{ 为偶数} \\
 3n+1 & \text{若 } n \text{ 为奇数}
 \end{cases}
-$$
+`$
 
 柯拉兹猜想声称：
 
-$$
+$`
 \forall n \in \mathbb{Z}^+, \exists k \in \mathbb{N} \text{ 使得 } C^k(n) = 1
-$$
+`$
 
 其中 $`C^k`$ 表示函数 $`C`$ 被连续应用 $`k`$ 次。
 
@@ -57,25 +57,25 @@ $$
 
 给定初始值 $`n \in \mathbb{Z}^+`$，定义其轨道为序列 $`\{C^i(n)\}_{i=0}^{\infty}`$。
 
-$$
+$`
 \text{Orbit}(n) = \{n, C(n), C^2(n), \ldots, C^i(n), \ldots\}
-$$
+`$
 
 #### 定义 1.2 (停止时间) | Definition 1.2 (Stopping Time)
 
 对于 $`n \in \mathbb{Z}^+`$，定义停止时间 $`\sigma(n)`$ 为使 $`C^{\sigma(n)}(n) < n`$ 的最小非负整数 $`\sigma(n)`$。若不存在这样的 $`\sigma(n)`$，则定义 $`\sigma(n) = \infty`$。
 
-$$
+$`
 \sigma(n) = \min\{i \geq 0 : C^i(n) < n\}
-$$
+`$
 
 #### 定义 1.3 (总停止时间) | Definition 1.3 (Total Stopping Time)
 
 对于 $`n \in \mathbb{Z}^+`$，定义总停止时间 $`\sigma_{\infty}(n)`$ 为使 $`C^{\sigma_{\infty}(n)}(n) = 1`$ 的最小非负整数。若不存在这样的 $`\sigma_{\infty}(n)`$，则定义 $`\sigma_{\infty}(n) = \infty`$。
 
-$$
+$`
 \sigma_{\infty}(n) = \min\{i \geq 0 : C^i(n) = 1\}
-$$
+`$
 
 #### 定义 1.4 (基本集合) | Definition 1.4 (Fundamental Sets)
 
@@ -101,25 +101,25 @@ $$
 
 对于 $`n \in \mathbb{Z}^+`$，定义 $`\nu_2(n)`$ 为 $`n`$ 的质因数分解中2的最大幂次：
 
-$$
+$`
 \nu_2(n) = \max\{k \in \mathbb{N} : 2^k | n\}
-$$
+`$
 
 #### 定义 3.2 (信息熵) | Definition 3.2 (Information Entropy)
 
 定义信息熵函数 $`H: \mathbb{Z}^+ \to \mathbb{R}`$：
 
-$$
+$`
 H(n) = \log_2(n) - \nu_2(n)
-$$
+`$
 
 #### 定义 3.3 (势能函数) | Definition 3.3 (Potential Function)
 
 定义势能函数 $`\Phi: \mathbb{Z}^+ \to (0,1]`$：
 
-$$
+$`
 \Phi(n) = \frac{2^{\nu_2(n)}}{n}
-$$
+`$
 
 #### 引理 3.1 (偶数步骤不变性) | Lemma 3.1 (Even Step Invariance)
 
@@ -128,7 +128,7 @@ $$
 证明：
 设 $`n = 2^k \cdot m`$，其中 $`k = \nu_2(n) \geq 1`$ 且 $`m`$ 为奇数。则：
 
-$$
+$`
 \begin{align}
 \Phi(C(n)) &= \Phi(n/2) \\
 &= \Phi(2^{k-1} \cdot m) \\
@@ -139,7 +139,7 @@ $$
 &= \frac{2^{\nu_2(n)}}{n} \\
 &= \Phi(n)
 \end{align}
-$$
+`$
 
 因此 $`\Phi(C(n)) = \Phi(n)`$。■
 
@@ -150,9 +150,9 @@ $$
 证明：
 若 $`n \in O`$，则 $`n = 2k+1`$ 对某个 $`k \geq 0`$。因此：
 
-$$
+$`
 C(n) = 3n + 1 = 3(2k+1) + 1 = 6k + 4 = 2(3k + 2)
-$$
+`$
 
 这表明 $`C(n)`$ 是偶数，且至少能被2整除一次，即 $`\nu_2(C(n)) \geq 1`$。■
 
@@ -174,9 +174,9 @@ $$
 
 定义组合步骤函数 $`\tilde{C}: O \to \mathbb{Z}^+`$，表示一个奇数步骤后跟随所有可能的偶数步骤：
 
-$$
+$`
 \tilde{C}(n) = C^{1+\nu_2(3n+1)}(n) = \frac{3n+1}{2^{\nu_2(3n+1)}}
-$$
+`$
 
 #### 定理 4.1 (组合步骤的关键性质) | Theorem 4.1 (Key Property of Combined Steps)
 
@@ -188,17 +188,17 @@ $$
 证明：
 对于 $`n \in O`$，我们有 $`C(n) = 3n + 1`$。设 $`m = \nu_2(3n+1)`$，则：
 
-$$
+$`
 \tilde{C}(n) = \frac{3n+1}{2^m}
-$$
+`$
 
 考虑以下情况：
 
 1. 若 $`m \geq 2`$，则：
 
-$$
+$`
 \tilde{C}(n) = \frac{3n+1}{2^m} \leq \frac{3n+1}{4} < \frac{3n}{4} + \frac{1}{4} < \frac{3n}{4} + \frac{n}{4} = n
-$$
+`$
 
    取 $`\alpha = \frac{3}{4} < 1`$，条件1成立。
 
@@ -206,8 +206,10 @@ $$
 
    由于 $`\tilde{C}(n) = \frac{3n+1}{2}`$ 是奇数，所以：
 
-   $$
-   \begin{align}
+   
+
+$`
+\begin{align}
    \tilde{C}^2(n) &= \tilde{C}(\tilde{C}(n)) \\
    &= \frac{3\tilde{C}(n)+1}{2^{\nu_2(3\tilde{C}(n)+1)}} \\
    &= \frac{3(\frac{3n+1}{2})+1}{2^{\nu_2(3(\frac{3n+1}{2})+1)}} \\
@@ -217,12 +219,12 @@ $$
    $$
 
    进一步分析表明 $`\nu_2(9n+5) \geq 3`$，因此：
+`$
 
-$$
 \tilde{C}^2(n) \leq \frac{9n+5}{8} < \frac{9n}{8} + \frac{5}{8} < \frac{9n}{8} + \frac{n}{8} = \frac{10n}{8} = \frac{5n}{4}
-$$
 
-   取 $`\beta = \frac{5}{4}`$，则 $`\tilde{C}^2(n) < \beta \cdot n`$。■
+$`
+取 $`\beta = \frac{5}{4}`$，则 $`\tilde{C}^2(n) < \beta \cdot n`$。■
 
 #### 定理 4.2 (随机漫步模型) | Theorem 4.2 (Random Walk Model)
 
@@ -286,15 +288,15 @@ $$
 #### 定理 5.1 (Terras概率转换) | Theorem 5.1 (Terras Probabilistic Transformation)
 
 定义函数 $`g: \mathbb{Z}^+ \to \mathbb{R}^+`$：
+`$
 
-$$
 g(n) = 
 \begin{cases}
 n/2 & \text{若 } n \text{ 为偶数} \\
 (3n+1)/4 & \text{若 } n \text{ 为奇数}
 \end{cases}
-$$
 
+$`
 对于随机选择的大整数 $`n`$，函数 $`g`$ 的迭代应用具有概率收敛性质。
 
 证明：
@@ -310,11 +312,11 @@ $$
 #### 定理 5.2 (密度演化) | Theorem 5.2 (Density Evolution)
 
 定义集合 $`T_k = \{n \in \mathbb{Z}^+ : \sigma_{\infty}(n) \leq k\}`$。则：
+`$
 
-$$
 \lim_{k \to \infty} \frac{|T_k \cap \{1, 2, \ldots, N\}|}{N} = 1 \text{ 对任意 } N \in \mathbb{Z}^+
-$$
 
+$`
 证明：
 基于定理5.1的概率模型和定理4.5的归纳集合结构，可以证明当 $`k \to \infty`$ 时，终止集合 $`T_k`$ 的密度趋近于1，即几乎所有正整数最终都会到达1。■
 
@@ -328,22 +330,23 @@ $$
 
 证明：
 结合定理4.2和定理5.1，可以证明这种振荡过程在统计上具有向经典域收敛的趋势。引入量子经典势能函数 $`\Phi(n) = 2^{\nu_2(n)}/n`$，可以证明：
+`$
 
-$$
 \begin{align}
 \lim_{k \to \infty} \Phi(C^k(n)) &= 1 \\
 \lim_{k \to \infty} H(C^k(n)) &= 0
 \end{align}
-$$
 
+$`
 其中 $`\Phi(n) = 1`$ 当且仅当 $`n = 2^k`$ 对某个 $`k \in \mathbb{N}`$，这些数代表纯经典态。■
 
 #### 定理 6.2 (收敛完备性) | Theorem 6.2 (Convergence Completeness)
 
 基于上述数学框架，可以在ZFC公理系统内证明：
+`$
 
-$$
 \forall n \in \mathbb{Z}^+, \sigma_{\infty}(n) < \infty
+
 $$
 
 即柯拉兹猜想正确。

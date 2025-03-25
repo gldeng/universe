@@ -38,9 +38,9 @@ Within the framework of the ZFC axiom system, we first establish the necessary m
 
 **Definition 3**: A biholomorphic mapping (or holomorphic bijection) is a holomorphic mapping with a holomorphic inverse.
 
-$$
+$`
 \forall f: X \to Y, \exists g: Y \to X, \text{such that} \ g \circ f = id_X \ \text{and} \ f \circ g = id_Y
-$$
+`$
 
 **Definition 4**: The unit ball $`\mathbb{B}^n = \{z \in \mathbb{C}^n : |z|^2 = \sum_{i=1}^n |z_i|^2 < 1\}`$.
 
@@ -52,15 +52,15 @@ According to the quantum-classical dualism axioms, we introduce the following sp
 
 **Axiom Q1**: Quantum information structure $`\mathcal{Q}`$ and classical information structure $`\mathcal{C}`$ are connected through mapping $`\mathcal{M}: \mathcal{Q} \to \mathcal{C}`$, satisfying information conservation:
 
-$$
+$`
 I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi)
-$$
+`$
 
 **Definition 6**: The information preservation rate of dimension-sensitive information mapping $`\Phi_n: \mathcal{Q}_n \to \mathcal{C}_n`$ at dimension $`n`$:
 
-$$
+$`
 \eta(\Phi_n) = \frac{I(\mathcal{C}_n)}{I(\mathcal{Q}_n)}
-$$
+`$
 
 **Theorem 1**: For $`n=1`$, the information preservation rate of mapping $`\Phi_1`$ is $`\eta(\Phi_1) = 1`$, while for $`n > 1`$, $`\eta(\Phi_n) < 1`$.
 
@@ -71,9 +71,9 @@ $$
 **Proof**:
 Let $`K_{\Omega}`$ and $`K_{D}`$ be the Kobayashi metrics of $`\Omega`$ and $`D`$ respectively. According to the invariance of the Kobayashi metric:
 
-$$
+$`
 K_{\Omega}(p, v) = K_{D}(f(p), df_p(v))
-$$
+`$
 
 where $`df_p`$ is the Jacobian matrix of $`f`$ at point $`p`$. Therefore, if $`f`$ is a biholomorphic mapping, then $`K_{\Omega}`$ and $`K_{D}`$ are equivalent. ◻
 
@@ -86,23 +86,23 @@ We prove by contradiction. Assume there exists a biholomorphic mapping $`f: \mat
 
 2. It is known that the action of $`\text{Aut}(\mathbb{B}^n)`$ on $`\mathbb{B}^n`$ is transitive, i.e.,
 
-$$
+$`
 \forall p, q \in \mathbb{B}^n, \exists \varphi \in \text{Aut}(\mathbb{B}^n), \varphi(p) = q
-$$
+`$
 
 3. However, the action of $`\text{Aut}(\mathbb{D}^n)`$ is not transitive, because
 
-$$
+$`
 \text{Aut}(\mathbb{D}^n) = \text{Aut}(\mathbb{D}) \times \text{Aut}(\mathbb{D}) \times \cdots \times \text{Aut}(\mathbb{D})
-$$
+`$
 
    can only act independently on each coordinate component.
 
 4. The biholomorphic mapping $`f`$ would induce a group isomorphism $`f_*: \text{Aut}(\mathbb{B}^n) \to \text{Aut}(\mathbb{D}^n)`$, where
 
-$$
+$`
 f_*(\varphi) = f \circ \varphi \circ f^{-1}
-$$
+`$
 
 5. This leads to a contradiction, because a transitive action cannot be mapped to a non-transitive action through an isomorphism.
 
@@ -115,72 +115,72 @@ $$
 
 2. Introduce a dimension-related quantum entanglement measure $`E_n`$:
 
-$$
+$`
 E_n(\psi) = 1 - \prod_{i=1}^n (1 - E(\psi_i))
-$$
+`$
 
    where $`E(\psi_i)`$ is the entanglement of the $`i`$-th subsystem.
 
 3. Let $`\sigma_n`$ represent the information loss rate during classicalization:
 
-$$
+$`
 \sigma_n = \frac{I_{\text{hidden}}(\psi)}{I(\psi)} = 1 - \frac{I(\mathcal{C}(\psi))}{I(\psi)}
-$$
+`$
 
 4. Prove that $`\sigma_n`$ is proportional to $`E_n`$:
 
-$$
+$`
 \sigma_n \geq \alpha \cdot E_n(\psi)
-$$
+`$
 
    where $`\alpha`$ is a positive proportionality constant.
 
 5. For quantum systems with $`n > 1`$, $`E_n > 0`$ and increases with $`n`$:
 
-$$
+$`
 \frac{dE_n}{dn} > 0
-$$
+`$
 
 6. Therefore, according to Lemma 1, when $`n > 1`$, due to $`\sigma_n > 0`$, there is an unavoidable information loss, which makes biholomorphic mappings impossible in the general case. ◻
 
 **Theorem 4** (From Quantum Entanglement Complexity to Holomorphic Invariants): For $`n > 1`$, the quantum entanglement complexity $`\mathcal{C}_{\text{entanglement}}(\Omega)`$ of domain $`\Omega \subset \mathbb{C}^n`$ is directly related to its Kobayashi hyperbolic metric:
 
-$$
+$`
 \mathcal{C}_{\text{entanglement}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}
-$$
+`$
 
 **Proof**:
 1. The Kobayashi hyperbolic metric $`K_{\Omega}`$ on complex domain $`\Omega`$ is defined as:
 
-$$
+$`
 K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}
-$$
+`$
 
 2. Quantum entanglement complexity satisfies:
 
-$$
+$`
 \mathcal{C}_{\text{entanglement}}(\mathbb{C}^n) \propto e^n
-$$
+`$
 
 3. The quantum entanglement complexity of domain $`\Omega`$ can be represented in integral form:
 
-$$
+$`
 \mathcal{C}_{\text{entanglement}}(\Omega) = \int_{\Omega} \rho_{\text{entanglement}}(z) dV_{\Omega}(z)
-$$
+`$
 
    where $`\rho_{\text{entanglement}}`$ is the entanglement density function, and $`dV_{\Omega}`$ is the volume element.
 
 4. According to the quantum-classical dualism information phase transition theory, entanglement density is related to local curvature:
 
-$$
+$`
 \rho_{\text{entanglement}}(z) \propto |K_{\Omega}(z, dz)|^2
-$$
+`$
 
 5. Therefore, quantum entanglement complexity can be represented through the Kobayashi metric integral:
 
-$$
+$`
 \mathcal{C}_{\text{entanglement}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}
-$$
+`$
 
 6. This indicates that holomorphic invariants (such as the Kobayashi metric) can be interpreted as a measure of the "compression rate" of quantum information during the classicalization process. ◻
 
@@ -192,9 +192,9 @@ From the quantum-classical dualism perspective, the analysis of the higher-dimen
 
 Define a quantum-classical conformal mapping function $`\Phi`$ that maps quantum information structures to the classical domain while preserving phase relationships:
 
-$$
+$`
 \Phi: \mathcal{Q}_{\text{quantum structure}} \to \mathcal{C}_{\text{classical expression}}
-$$
+`$
 
 In the context of complex analysis, this corresponds to holomorphic mappings, which preserve local angles (phase information).
 
@@ -202,9 +202,9 @@ In the context of complex analysis, this corresponds to holomorphic mappings, wh
 
 In the one-dimensional complex variable case, quantum information structures are relatively simple and can fully retain their essential properties through conformal mappings. This is reflected as:
 
-$$
+$`
 \mathcal{I}_{\text{complex structure}}(\Omega) \cong \mathcal{I}_{\text{complex structure}}(\mathbb{D})
-$$
+`$
 
 where $`\mathcal{I}_{\text{complex structure}}`$ represents complex structure information, which in the one-dimensional case depends only on topological properties (simple connectivity).
 
@@ -212,9 +212,9 @@ where $`\mathcal{I}_{\text{complex structure}}`$ represents complex structure in
 
 In higher dimensions, the complexity of quantum entanglement structures grows exponentially:
 
-$$
+$`
 \mathcal{C}_{\text{entanglement complexity}}(\mathbb{C}^n) \propto e^n
-$$
+`$
 
 This leads to completely different phenomena. The complex structure information of a domain $`\Omega \subset \mathbb{C}^n`$ depends not only on topological properties but also on its geometric characteristics.
 
@@ -222,9 +222,9 @@ This leads to completely different phenomena. The complex structure information 
 
 Introduce the concept of "holomorphic invariants," such as the Kobayashi hyperbolic metric $`K_{\Omega}`$, which measures the complex geometric properties of a domain:
 
-$$
+$`
 K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}
-$$
+`$
 
 From a quantum-classical perspective, $`K_{\Omega}`$ can be interpreted as the "compression rate" of quantum information during the classicalization process, which becomes an invariant in higher dimensions, preventing biholomorphic equivalence between arbitrary simply connected domains.
 
@@ -232,12 +232,12 @@ From a quantum-classical perspective, $`K_{\Omega}`$ can be interpreted as the "
 
 Analyze classic counterexamples: the differences between the unit ball $`B^n`$ and the polydisk $`\mathbb{D}^n`$. Although both are simply connected, their boundaries have fundamentally different quantum entanglement structures when $`n > 1`$:
 
-$$
+$`
 \begin{align}
 \partial B^n &: \text{Strongly entangled boundary (sphere)} \\
 \partial \mathbb{D}^n &: \text{Weakly entangled boundary (torus)}
 \end{align}
-$$
+`$
 
 From a quantum-classical perspective, this reflects the non-interchangeability of different types of quantum entanglement information after classicalization.
 
@@ -245,9 +245,9 @@ From a quantum-classical perspective, this reflects the non-interchangeability o
 
 The Hartogs phenomenon in higher-dimensional complex analysis (extension of functions from the boundary of a "hole" to the entire "hole") can be understood from a quantum-classical perspective as:
 
-$$
+$`
 \text{Non-locality of quantum information} \Rightarrow \text{Extension property of higher-dimensional holomorphic functions}
-$$
+`$
 
 This phenomenon reflects the non-local characteristics of higher-dimensional quantum information, further supporting the explanation for the failure of the higher-dimensional mapping theorem.
 

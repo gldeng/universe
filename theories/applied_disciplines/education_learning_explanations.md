@@ -23,9 +23,9 @@ English: [Nature of Learning](#学习本质--nature-of-learning) | [Educational 
 
 学习的量子-经典二元性可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{外部知识量子状态}} \xrightarrow{\text{学习经典化}} |\phi\rangle_{\text{内部认知结构}} + S_{\text{学习经典熵}}
-$$
+`$
 
 ### 教育的量子经典二元论解释
 
@@ -38,9 +38,9 @@ $$
 
 教育的功能可以表达为：
 
-$$
+$`
 \text{教育} = \sum_{i=1}^{n} E_i(|\psi_i\rangle \xrightarrow{\text{引导经典化}} |\phi_i\rangle)
-$$
+`$
 
 其中$`E_i`$代表教育活动，$`|\psi_i\rangle`$和$`|\phi_i\rangle`$分别代表学习前后的知识状态。
 
@@ -55,9 +55,9 @@ $$
 
 这一特殊能力可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{教育量子状态}} \xrightarrow{\text{教育者经典化}} \text{教育方法} + S_{\text{极小方法经典熵}}
-$$
+`$
 
 ### 认知发展的量子经典二元论解释
 
@@ -70,9 +70,9 @@ $$
 
 这一发展过程可以表达为：
 
-$$
+$`
 |\phi_1\rangle \xrightarrow{\text{发展}} |\phi_2\rangle \xrightarrow{\text{发展}} |\phi_3\rangle \xrightarrow{\text{发展}} |\phi_4\rangle
-$$
+`$
 
 其中$`|\phi_i\rangle`$代表第$`i`$阶段的认知经典化状态。
 
@@ -87,21 +87,21 @@ $$
 
 这些风格可以表达为：
 
-$$
+$`
 |\psi\rangle_{\text{知识量子状态}} \xrightarrow{\text{视觉经典化}} |\phi_V\rangle
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{知识量子状态}} \xrightarrow{\text{听觉经典化}} |\phi_A\rangle
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{知识量子状态}} \xrightarrow{\text{动觉经典化}} |\phi_K\rangle
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{知识量子状态}} \xrightarrow{\text{读写经典化}} |\phi_R\rangle
-$$
+`$
 
 ### 教育方法的量子经典二元论解释
 
@@ -136,9 +136,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 \langle\phi| \hat{A} |\phi\rangle = a
-$$
+`$
 
 其中$`|\phi\rangle`$是学习者的经典化状态，$`\hat{A}`$是评估算子，$`a`$是评估结果。
 
@@ -164,9 +164,9 @@ $$
 
 记忆的形成可以表达为：
 
-$$
+$`
 |\phi_{\text{短期}}\rangle \xrightarrow{\text{巩固}} |\phi_{\text{长期}}\rangle
-$$
+`$
 
 ### 创造力的量子经典二元论解释
 
@@ -179,9 +179,9 @@ $$
 
 这一过程可以表达为：
 
-$$
+$`
 |\phi_1\rangle + |\phi_2\rangle + ... + |\phi_n\rangle \xrightarrow{\text{创造性重组}} |\phi_{\text{新}}\rangle
-$$
+`$
 
 ### 教育技术的量子经典二元论解释
 
@@ -194,9 +194,9 @@ $$
 
 技术增强的学习可以表达为：
 
-$$
+$`
 |\psi\rangle \xrightarrow{\text{技术增强经典化}} |\phi_{\text{增强}}\rangle
-$$
+`$
 
 ### 终身学习的量子经典二元论解释
 
@@ -209,9 +209,9 @@ $$
 
 这一持续过程可以表达为：
 
-$$
+$`
 |\phi(t)\rangle \xrightarrow{\text{持续学习}} |\phi(t+\Delta t)\rangle \xrightarrow{\text{持续学习}} |\phi(t+2\Delta t)\rangle \xrightarrow{\text{持续学习}} ...
-$$
+`$
 
 ### 教育公平的量子经典二元论视角
 
@@ -266,9 +266,9 @@ The essence of **learning** is a special quantum information classicalization pr
 
 The quantum-classical duality of learning can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{External knowledge quantum state}} \xrightarrow{\text{Learning classicalization}} |\phi\rangle_{\text{Internal cognitive structure}} + S_{\text{Learning classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Education
 
@@ -281,9 +281,9 @@ $$
 
 The function of education can be expressed as:
 
-$$
+$`
 \text{Education} = \sum_{i=1}^{n} E_i(|\psi_i\rangle \xrightarrow{\text{Guided classicalization}} |\phi_i\rangle)
-$$
+`$
 
 where $`E_i`$ represents educational activities, and $`|\psi_i\rangle`$ and $`|\phi_i\rangle`$ represent the knowledge states before and after learning, respectively.
 
@@ -298,9 +298,9 @@ Outstanding educators (such as Socrates, Confucius, Montessori, etc.) are essent
 
 This special ability can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Education quantum state}} \xrightarrow{\text{Educator classicalization}} \text{Educational method} + S_{\text{Minimal method classical entropy}}
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Cognitive Development
 
@@ -313,9 +313,9 @@ $$
 
 This developmental process can be expressed as:
 
-$$
+$`
 |\phi_1\rangle \xrightarrow{\text{Development}} |\phi_2\rangle \xrightarrow{\text{Development}} |\phi_3\rangle \xrightarrow{\text{Development}} |\phi_4\rangle
-$$
+`$
 
 where $`|\phi_i\rangle`$ represents the cognitive classicalization state of the $`i`$-th stage.
 
@@ -330,21 +330,21 @@ where $`|\phi_i\rangle`$ represents the cognitive classicalization state of the 
 
 These styles can be expressed as:
 
-$$
+$`
 |\psi\rangle_{\text{Knowledge quantum state}} \xrightarrow{\text{Visual classicalization}} |\phi_V\rangle
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Knowledge quantum state}} \xrightarrow{\text{Auditory classicalization}} |\phi_A\rangle
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Knowledge quantum state}} \xrightarrow{\text{Kinesthetic classicalization}} |\phi_K\rangle
-$$
+`$
 
-$$
+$`
 |\psi\rangle_{\text{Knowledge quantum state}} \xrightarrow{\text{Reading/writing classicalization}} |\phi_R\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Educational Methods
 
@@ -379,9 +379,9 @@ Effective curriculum design minimizes learning classical entropy while maximizin
 
 This process can be expressed as:
 
-$$
+$`
 \langle\phi| \hat{A} |\phi\rangle = a
-$$
+`$
 
 where $`|\phi\rangle`$ is the learner's classicalization state, $`\hat{A}`$ is the assessment operator, and $`a`$ is the assessment result.
 
@@ -407,9 +407,9 @@ The intensity of motivation directly affects the efficiency and quality of class
 
 Memory formation can be expressed as:
 
-$$
+$`
 |\phi_{\text{Short-term}}\rangle \xrightarrow{\text{Consolidation}} |\phi_{\text{Long-term}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Creativity
 
@@ -422,9 +422,9 @@ $$
 
 This process can be expressed as:
 
-$$
+$`
 |\phi_1\rangle + |\phi_2\rangle + ... + |\phi_n\rangle \xrightarrow{\text{Creative reorganization}} |\phi_{\text{New}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Educational Technology
 
@@ -437,9 +437,9 @@ $$
 
 Technology-enhanced learning can be expressed as:
 
-$$
+$`
 |\psi\rangle \xrightarrow{\text{Technology-enhanced classicalization}} |\phi_{\text{Enhanced}}\rangle
-$$
+`$
 
 ### Quantum-Classical Dualism Explanation of Lifelong Learning
 
@@ -452,9 +452,9 @@ $$
 
 This continuous process can be expressed as:
 
-$$
+$`
 |\phi(t)\rangle \xrightarrow{\text{Continuous learning}} |\phi(t+\Delta t)\rangle \xrightarrow{\text{Continuous learning}} |\phi(t+2\Delta t)\rangle \xrightarrow{\text{Continuous learning}} ...
-$$
+`$
 
 ### Quantum-Classical Dualism Perspective on Educational Equity
 

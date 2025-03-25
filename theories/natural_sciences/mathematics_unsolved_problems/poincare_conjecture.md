@@ -37,9 +37,9 @@
 
 **定义 2.1**：黎曼流是一族随时间演化的黎曼度量 $`g(t)`$，满足微分方程：
 
-$$
+$`
 \frac{\partial g_{ij}}{\partial t} = -2R_{ij}
-$$
+`$
 
 其中 $`R_{ij}`$ 是黎曼度量 $`g(t)`$ 下的里奇曲率张量。
 
@@ -73,37 +73,37 @@ $$
 
 **定义 6.1**：量子态表示 $`|M\rangle_Q`$ 对应于经典流形 $`M`$，且满足：
 
-$$
+$`
 \mathcal{T}(|M\rangle_Q) = M
-$$
+`$
 
 其中 $`\mathcal{T}`$ 是从量子域到经典域的映射函数。
 
 **定义 6.2**：量子黎曼流算子 $`\mathcal{R}`$ 定义为：
 
-$$
+$`
 \frac{d}{dt}|M(t)\rangle_Q = \mathcal{R}(|M(t)\rangle_Q)
-$$
+`$
 
 且满足：
 
-$$
+$`
 \mathcal{T}(\mathcal{R}(|M\rangle_Q)) = \text{Ricci Flow}(\mathcal{T}(|M\rangle_Q))
-$$
+`$
 
 ### 7. 主要结论
 
 **定理 7.1**：对于任意单连通闭合三维流形 $`M`$，其量子态表示 $`|M\rangle_Q`$ 通过量子黎曼流演化最终收敛到三维球面的量子态：
 
-$$
+$`
 \lim_{t \to \infty} |M(t)\rangle_Q = |S^3\rangle_Q
-$$
+`$
 
 **定理 7.2（庞加莱猜想，二元论形式）**：任何单连通闭合三维流形 $`M`$ 与三维球面 $`S^3`$ 同胚。
 
-$$
+$`
 \pi_1(M) = 0 \Rightarrow M \cong S^3
-$$
+`$
 
 **证明**：通过定理2.2至定理4.3，带手术的黎曼流将 $`M`$ 分解为有限多个基本块。由于 $`M`$ 是单连通的，且手术保持单连通性（引理5.1），这些基本块最终都同胚于 $`S^3`$ 的部分。重构过程证明 $`M`$ 同胚于 $`S^3`$。在量子域中，这对应于定理7.1的演化结果。
 
@@ -161,9 +161,9 @@ To prove the Poincaré Conjecture, we introduce Hamilton's Ricci flow:
 
 **Definition 2.1**: The Ricci flow is a family of Riemannian metrics $`g(t)`$ evolving with time, satisfying the differential equation:
 
-$$
+$`
 \frac{\partial g_{ij}}{\partial t} = -2R_{ij}
-$$
+`$
 
 where $`R_{ij}`$ is the Ricci curvature tensor under the Riemannian metric $`g(t)`$.
 
@@ -197,37 +197,37 @@ Mapping the above classical proof to the quantum-classical dualism framework:
 
 **Definition 6.1**: The quantum state representation $`|M\rangle_Q`$ corresponds to the classical manifold $`M`$, and satisfies:
 
-$$
+$`
 \mathcal{T}(|M\rangle_Q) = M
-$$
+`$
 
 where $`\mathcal{T}`$ is the mapping function from the quantum domain to the classical domain.
 
 **Definition 6.2**: The quantum Ricci flow operator $`\mathcal{R}`$ is defined as:
 
-$$
+$`
 \frac{d}{dt}|M(t)\rangle_Q = \mathcal{R}(|M(t)\rangle_Q)
-$$
+`$
 
 and satisfies:
 
-$$
+$`
 \mathcal{T}(\mathcal{R}(|M\rangle_Q)) = \text{Ricci Flow}(\mathcal{T}(|M\rangle_Q))
-$$
+`$
 
 ### 7. Main Conclusions
 
 **Theorem 7.1**: For any simply connected closed three-dimensional manifold $`M`$, its quantum state representation $`|M\rangle_Q`$ eventually converges to the quantum state of the three-dimensional sphere through quantum Ricci flow evolution:
 
-$$
+$`
 \lim_{t \to \infty} |M(t)\rangle_Q = |S^3\rangle_Q
-$$
+`$
 
 **Theorem 7.2 (Poincaré Conjecture, Dualism Form)**: Any simply connected closed three-dimensional manifold $`M`$ is homeomorphic to the three-dimensional sphere $`S^3`$.
 
-$$
+$`
 \pi_1(M) = 0 \Rightarrow M \cong S^3
-$$
+`$
 
 **Proof**: Through Theorems 2.2 to 4.3, Ricci flow with surgery decomposes $`M`$ into a finite number of basic pieces. Since $`M`$ is simply connected, and surgery preserves simply connectedness (Lemma 5.1), these basic pieces are eventually all homeomorphic to parts of $`S^3`$. The reconstruction process proves that $`M`$ is homeomorphic to $`S^3`$. In the quantum domain, this corresponds to the evolution result of Theorem 7.1.
 

@@ -15,12 +15,12 @@
 
 纳卫尔-斯托克斯方程可以表示为：
 
-$$
+$`
 \begin{cases}
 \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} = -\frac{1}{\rho}\nabla p + \nu \nabla^2 \mathbf{u} + \mathbf{f} \\
 \nabla \cdot \mathbf{u} = 0
 \end{cases}
-$$
+`$
 
 其中$`\mathbf{u}`$是流体速度场，$`p`$是压力，$`\rho`$是密度，$`\nu`$是运动黏性系数，$`\mathbf{f}`$代表外力。
 
@@ -38,9 +38,9 @@ $$
 
 **定义2**（弱解）：设$`\mathbf{u}_0 \in H`$（适当的Hilbert空间），$`T > 0`$。函数$`\mathbf{u} \in L^2(0,T;V) \cap C([0,T];H)`$，且$`\frac{\partial \mathbf{u}}{\partial t} \in L^1(0,T;V')`$被称为纳卫尔-斯托克斯方程的弱解，如果对所有测试函数$`\mathbf{v} \in V`$，满足：
 
-$$
+$`
 \langle \frac{\partial \mathbf{u}}{\partial t}, \mathbf{v} \rangle + \langle (\mathbf{u} \cdot \nabla)\mathbf{u}, \mathbf{v} \rangle = -\langle \nabla p, \mathbf{v} \rangle + \nu \langle \nabla^2 \mathbf{u}, \mathbf{v} \rangle + \langle \mathbf{f}, \mathbf{v} \rangle
-$$
+`$
 
 且$`\nabla \cdot \mathbf{u} = 0`$，$`\mathbf{u}(0) = \mathbf{u}_0`$。
 
@@ -68,9 +68,9 @@ $$
 
 **引理2**（能量不等式）：若$`\mathbf{u}`$是纳卫尔-斯托克斯方程的经典解，则对任意$`t \in [0,T]`$，有：
 
-$$
+$`
 \frac{1}{2}\frac{d}{dt}\|\mathbf{u}(t)\|_{L^2}^2 + \nu\|\nabla \mathbf{u}(t)\|_{L^2}^2 = \langle \mathbf{f}(t), \mathbf{u}(t) \rangle
-$$
+`$
 
 **推论1**：在没有外力的情况下，解的$`L^2`$范数随时间单调递减。
 
@@ -87,15 +87,15 @@ $$
 
 **定义5**（爆破时间）：设$`\mathbf{u}`$是纳卫尔-斯托克斯方程的最大光滑解，定义爆破时间$`T^*`$为：
 
-$$
+$`
 T^* = \sup\{T > 0 : \mathbf{u} \in C^\infty([0,T] \times \Omega)\}
-$$
+`$
 
 **定理3**（Beale-Kato-Majda爆破判据）：设$`\mathbf{u}`$是纳卫尔-斯托克斯方程在$`[0,T]`$上的光滑解。若$`T^* < \infty`$，则：
 
-$$
+$`
 \int_0^{T^*} \|\nabla \times \mathbf{u}(t)\|_{L^\infty} dt = \infty
-$$
+`$
 
 **证明**：反证法。假设积分有限，建立能量估计，得到高阶导数的一致有界性，从而导出矛盾。
 
@@ -105,9 +105,9 @@ $$
 
 此外，若量子态$`\Psi(t)`$的能量保持有限，即存在$`E_0 < \infty`$使得：
 
-$$
+$`
 \langle \Psi(t) | \hat{H} | \Psi(t) \rangle \leq E_0, \quad \forall t \geq 0
-$$
+`$
 
 其中$`\hat{H}`$是适当的能量算子，则对应的经典解$`\mathbf{u}(t)`$在全时间区间$`[0,\infty)`$上保持光滑。
 
@@ -129,12 +129,12 @@ The Navier-Stokes equations are nonlinear partial differential equations that de
 
 The Navier-Stokes equations can be represented as:
 
-$$
+$`
 \begin{cases}
 \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} = -\frac{1}{\rho}\nabla p + \nu \nabla^2 \mathbf{u} + \mathbf{f} \\
 \nabla \cdot \mathbf{u} = 0
 \end{cases}
-$$
+`$
 
 where $`\mathbf{u}`$ is the fluid velocity field, $`p`$ is pressure, $`\rho`$ is density, $`\nu`$ is the kinematic viscosity coefficient, and $`\mathbf{f}`$ represents external forces.
 
@@ -152,9 +152,9 @@ Within the framework of the ZFC (Zermelo-Fraenkel with Choice) axiomatic system,
 
 **Definition 2** (Weak Solution): Given $`\mathbf{u}_0 \in H`$ (an appropriate Hilbert space) and $`T > 0`$, a function $`\mathbf{u} \in L^2(0,T;V) \cap C([0,T];H)`$ with $`\frac{\partial \mathbf{u}}{\partial t} \in L^1(0,T;V')`$ is called a weak solution to the Navier-Stokes equations if for all test functions $`\mathbf{v} \in V`$, it satisfies:
 
-$$
+$`
 \langle \frac{\partial \mathbf{u}}{\partial t}, \mathbf{v} \rangle + \langle (\mathbf{u} \cdot \nabla)\mathbf{u}, \mathbf{v} \rangle = -\langle \nabla p, \mathbf{v} \rangle + \nu \langle \nabla^2 \mathbf{u}, \mathbf{v} \rangle + \langle \mathbf{f}, \mathbf{v} \rangle
-$$
+`$
 
 with $`\nabla \cdot \mathbf{u} = 0`$ and $`\mathbf{u}(0) = \mathbf{u}_0`$.
 
@@ -182,9 +182,9 @@ Within the ZFC system, we can rigorously define quantum-classical dualism repres
 
 **Lemma 2** (Energy Inequality): If $`\mathbf{u}`$ is a classical solution to the Navier-Stokes equations, then for any $`t \in [0,T]`$:
 
-$$
+$`
 \frac{1}{2}\frac{d}{dt}\|\mathbf{u}(t)\|_{L^2}^2 + \nu\|\nabla \mathbf{u}(t)\|_{L^2}^2 = \langle \mathbf{f}(t), \mathbf{u}(t) \rangle
-$$
+`$
 
 **Corollary 1**: In the absence of external forces, the $`L^2`$ norm of the solution decreases monotonically with time.
 
@@ -201,15 +201,15 @@ $$
 
 **Definition 5** (Blowup Time): Let $`\mathbf{u}`$ be the maximal smooth solution to the Navier-Stokes equations, define the blowup time $`T^*`$ as:
 
-$$
+$`
 T^* = \sup\{T > 0 : \mathbf{u} \in C^\infty([0,T] \times \Omega)\}
-$$
+`$
 
 **Theorem 3** (Beale-Kato-Majda Blowup Criterion): Let $`\mathbf{u}`$ be a smooth solution to the Navier-Stokes equations on $`[0,T]`$. If $`T^* < \infty`$, then:
 
-$$
+$`
 \int_0^{T^*} \|\nabla \times \mathbf{u}(t)\|_{L^\infty} dt = \infty
-$$
+`$
 
 **Proof**: Proof by contradiction. Assuming the integral is finite, establish energy estimates to obtain uniform boundedness of higher-order derivatives, leading to a contradiction.
 
@@ -219,9 +219,9 @@ $$
 
 Moreover, if the energy of the quantum state $`\Psi(t)`$ remains bounded, i.e., there exists $`E_0 < \infty`$ such that:
 
-$$
+$`
 \langle \Psi(t) | \hat{H} | \Psi(t) \rangle \leq E_0, \quad \forall t \geq 0
-$$
+`$
 
 where $`\hat{H}`$ is an appropriate energy operator, then the corresponding classical solution $`\mathbf{u}(t)`$ remains smooth on the entire time interval $`[0,\infty)`$.
 

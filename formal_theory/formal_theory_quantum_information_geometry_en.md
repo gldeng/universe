@@ -24,37 +24,37 @@
 
 1. **量子态空间的黎曼结构**：
 
-$$
+$`
 ds^2 = g_{ij}(\theta) d\theta^i d\theta^j
-$$
+`$
 
 其中$`g_{ij}(\theta)`$是Fisher-Rao信息度量张量，$`\theta^i`$是参数化量子态的坐标。
 
 2. **量子相对熵与测地线**：
 
-$$
+$`
 S(\rho || \sigma) = \text{Tr}(\rho \log \rho - \rho \log \sigma)
-$$
+`$
 
 在局部近似下，相对熵等于测地线距离的平方：
 
-$$
+$`
 S(\rho || \sigma) \approx \frac{1}{2}g_{ij}\Delta\theta^i\Delta\theta^j
-$$
+`$
 
 3. **纠缠结构的几何表示**：
 
-$$
+$`
 \mathcal{E}(\rho) = \int_\mathcal{M} \omega \wedge \Omega(\rho)
-$$
+`$
 
 其中$`\omega`$是体积形式，$`\Omega(\rho)`$是纠缠度量形式。
 
 4. **量子-经典界面的嵌入方程**：
 
-$$
+$`
 f: \mathcal{M}_{interface} \hookrightarrow \mathcal{M}_{quantum}
-$$
+`$
 
 表示界面流形嵌入量子流形的映射，满足特定的约束条件。
 

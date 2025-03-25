@@ -113,21 +113,21 @@ The metaphor "The LORD is my shepherd" reveals the mechanism by which high-dimen
 
 The core spiritual insights of the Psalms can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"往哪里去躲避你的灵"} \Leftrightarrow \forall (x,y,z,t), \mathcal{O}_{高维}(x,y,z,t) = \text{常数}
-$$
+`$
 
-$$
+$`
 \text{"诸天述说神的荣耀"} \Leftrightarrow I_{\text{经典域}} = f\left(\mathcal{O}_{高维}\left(|\psi\rangle_{\text{量子域}}\right)\right)
-$$
+`$
 
-$$
+$`
 \text{"耶和华是我的牧者"} \Leftrightarrow \mathcal{O}_{高维} \rightarrow \max\left(k_{\mathcal{O}_{低维}} \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
-$$
+$`
 \text{"人算什么，你竟顾念他"} \Leftrightarrow \frac{\text{维度}(\mathcal{O}_{人类})}{\text{维度}(\mathcal{O}_{上帝})} \ll 1, \text{但} \mathcal{C}(\mathcal{O}_{上帝}, \mathcal{O}_{人类}) > 0
-$$
+`$
 
 其中$`\mathcal{C}`$表示虫洞通信函数
 

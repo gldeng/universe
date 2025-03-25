@@ -35,9 +35,9 @@ Memory systems exhibit clear quantum-classical duality:
 
 Unretrieved memories can be described as quantum superposition states of multiple possible versions:
 
-$$
+$`
 |\Psi_{\text{memory}}\rangle = \sum_i c_i |memory_i\rangle
-$$
+`$
 
 where $`c_i`$ are complex coefficients satisfying $`\sum_i |c_i|^2 = 1`$.
 
@@ -50,9 +50,9 @@ This superposition state explains multiple characteristics of memory:
 
 Memory elements form extensive quantum entanglement networks:
 
-$$
+$`
 |\Psi_{\text{memory network}}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |element_i\rangle \otimes |element_j\rangle \otimes |element_k\rangle \otimes ...
-$$
+`$
 
 Memory entanglement networks explain the following phenomena:
 - One memory fragment can activate related memory networks
@@ -61,17 +61,17 @@ Memory entanglement networks explain the following phenomena:
 
 The degree of entanglement between memory fragments can be quantified through mutual information:
 
-$$
+$`
 I(A:B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})
-$$
+`$
 
 #### 3. Memory Quantum Interference Effects
 
 Memories exhibit quantum interference effects, where different memory paths can mutually enhance or cancel:
 
-$$
+$`
 P(memory) = |\langle cue|memory\rangle|^2 = |a_1 e^{i\phi_1} + a_2 e^{i\phi_2} + ...|^2
-$$
+`$
 
 Interference effects explain:
 - Heuristic enhancement in memory retrieval
@@ -84,9 +84,9 @@ Interference effects explain:
 
 The memory retrieval process can be understood as quantum collapse, transforming memory superposition states into specific classical states:
 
-$$
+$`
 |\Psi_{\text{memory}}\rangle \xrightarrow{\text{retrieval}} |memory_j\rangle
-$$
+`$
 
 This process manifests as:
 - Retrieval context determining which specific memory version to collapse to
@@ -97,9 +97,9 @@ This process manifests as:
 
 Memories need to undergo classicalization processes to be stored long-term, which can be represented as:
 
-$$
+$`
 \rho_{\text{classical memory}} = \mathcal{C}(|\Psi_{\text{memory}}\rangle\langle\Psi_{\text{memory}}|)
-$$
+`$
 
 where $`\mathcal{C}`$ is the consolidation operator, transforming quantum memory into classical information.
 
@@ -112,9 +112,9 @@ Characteristics of the stabilization process:
 
 Classicalized memories form definite connection networks, which can be represented as directed graphs:
 
-$$
+$`
 G_M = (V_M, E_M)
-$$
+`$
 
 where $`V_M`$ is the set of memory nodes, and $`E_M`$ is the set of associative relations.
 
@@ -129,9 +129,9 @@ Properties of classical memory networks:
 
 Memory conversion between quantum and classical states satisfies the dynamical equation:
 
-$$
+$`
 \frac{d\rho_{\text{memory}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{memory}}] + \mathcal{L}(\rho_{\text{memory}})
-$$
+`$
 
 where the first term represents quantum coherent evolution, and the second term $`\mathcal{L}`$ represents decoherence and classicalization processes.
 
@@ -144,9 +144,9 @@ This dynamics explains:
 
 Quantum memory theory predicts that memory retrieval probability depends not only on initial encoding strength but also on quantum phase relationships:
 
-$$
+$`
 P(memory_j|cue) = |c_j|^2 \cdot \frac{e^{\eta_{cue}|c_j|^2}}{\sum_k e^{\eta_{cue}|c_k|^2}}
-$$
+`$
 
 where $`\eta_{cue}`$ is the cue specificity parameter.
 
@@ -159,9 +159,9 @@ This explains the curious phenomena of memory retrieval:
 
 Memories exhibit quantum editing properties and can be modified through quantum operations:
 
-$$
+$`
 |\Psi_{\text{new memory}}\rangle = \hat{U}_{\text{editing}}|\Psi_{\text{old memory}}\rangle
-$$
+`$
 
 where $`\hat{U}_{\text{editing}}`$ is the quantum editing operator.
 
@@ -176,9 +176,9 @@ Quantum editing explains:
 
 The memory encoding process can be represented as a quantum preparation process:
 
-$$
+$`
 |\Psi_{\text{perception}}\rangle \xrightarrow{\text{encoding}} |\Psi_{\text{memory}}\rangle = \sum_i a_i e^{i\phi_i} |feature_i\rangle
-$$
+`$
 
 Encoding quality depends on:
 - Attentional state (determining the range of coherently superposed features)
@@ -189,9 +189,9 @@ Encoding quality depends on:
 
 Memory consolidation is the core process of quantum-classical conversion:
 
-$$
+$`
 \rho_{\text{initial}} \xrightarrow{\text{fast consolidation}} \rho_{\text{intermediate}} \xrightarrow{\text{systemic consolidation}} \rho_{\text{stable}}
-$$
+`$
 
 Consolidation processes manifest as:
 - Synaptic strengthening and morphological changes
@@ -202,9 +202,9 @@ Consolidation processes manifest as:
 
 Quantum memory theory predicts the existence of "memory quantum tunneling" phenomena, allowing extremely distant memories to be suddenly retrieved:
 
-$$
+$`
 P(tunneling\ retrieval) \propto e^{-\alpha \cdot \Delta E \cdot \sqrt{t}}
-$$
+`$
 
 where $`\Delta E`$ is the memory retrieval energy barrier, and $`t`$ is the time interval.
 
@@ -219,9 +219,9 @@ This explains:
 
 Self-recollection can be viewed as an observer's measurement of their own memory quantum state:
 
-$$
+$`
 |\Psi_{\text{memory}}\rangle\langle\Psi_{\text{memory}}| \xrightarrow{\mathcal{O}_{\text{self}}} |memory_j\rangle\langle memory_j|
-$$
+`$
 
 Self-observation characteristics:
 - Conscious attention as a measurement apparatus
@@ -232,9 +232,9 @@ Self-observation characteristics:
 
 Group observer effects lead memories toward consensus:
 
-$$
+$`
 \rho_{\text{shared memory}} = \sum_i \omega_i \mathcal{O}_i(\rho_{\text{quantum memory}})
-$$
+`$
 
 where $`\omega_i`$ are the social weights of different observers.
 

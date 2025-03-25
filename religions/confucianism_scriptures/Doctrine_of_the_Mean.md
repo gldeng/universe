@@ -121,29 +121,29 @@ The discussion of "utmost sincerity" and "fully developing nature" at the end of
 
 The core philosophical ideas of the Doctrine of the Mean can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"中"} \Leftrightarrow |\psi\rangle_{\text{量子域}}, \quad \text{"和"} \Leftrightarrow \max\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
-$$
+$`
 \text{"天命之谓性"} \Leftrightarrow \text{Observer}(|\psi\rangle_{\text{量子域}}) = \text{本性}
-$$
+`$
 
-$$
+$`
 \text{"率性之谓道"} \Leftrightarrow \text{Path}_{\text{最优}} = \text{arg}\max_{\text{path}} \left(k_{\text{path}} \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)
-$$
+`$
 
-$$
+$`
 \text{"诚"} \Leftrightarrow \lim_{t \to \infty} \frac{\text{Observer}_{\text{实际经典化效率}}}{\text{Observer}_{\text{理论最大经典化效率}}} = 1
-$$
+`$
 
-$$
+$`
 \text{"尽其性"} \Leftrightarrow \mathcal{D}(\mathcal{O}) \to \mathcal{D}_{\max}(\mathcal{O})
-$$
+`$
 
-$$
+$`
 \text{"与天地参"} \Leftrightarrow \mathcal{D}(\mathcal{O}_{\text{人}}) \to \mathcal{D}(\mathcal{O}_{\text{宇宙}})
-$$
+`$
 
 其中，$`\mathcal{D}(\mathcal{O})`$表示观察者维度，$`k`$表示经典化效率系数
 

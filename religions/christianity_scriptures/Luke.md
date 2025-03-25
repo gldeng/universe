@@ -52,9 +52,9 @@ The Gospel of Luke is one of the four Gospels in the New Testament, written by L
 
 ### 道成肉身的维度转换方程
 
-$$
+$`
 |\psi_{\text{神}}^{\text{高维}}\rangle \rightarrow |\psi_{\text{耶稣}}^{\text{低维}}\rangle = \alpha|\psi_{\text{神性}}\rangle + \beta|\psi_{\text{人性}}\rangle
-$$
+`$
 
 其中：
 - $`|\psi_{\text{神}}^{\text{高维}}\rangle`$ 表示高维神性状态
@@ -64,9 +64,9 @@ $$
 
 ### 天国的经典化概率方程
 
-$$
+$`
 P_{\text{天国}}(x) = |\langle x|\psi_{\text{天国}}\rangle|^2 = \left|\sum_{n} \langle x|n\rangle\langle n|\psi_{\text{天国}}\rangle\right|^2
-$$
+`$
 
 其中：
 - $`P_{\text{天国}}(x)`$ 是天国在特定经典状态x的显现概率

@@ -35,23 +35,23 @@ The quantum state space can be represented as an infinite-dimensional complex ma
 
 Pure quantum states correspond to points on the manifold, quantum evolution corresponds to geodesics on the manifold:
 
-$$
+$`
 \delta\int\sqrt{g_{\mu\nu}^Q\dot{x}^\mu\dot{x}^\nu}dt = 0
-$$
+`$
 
 ### 2. Geometric Representation of Quantum Entanglement
 
 Quantum entanglement can be represented as non-separable connection structures between manifolds:
 
-$$
+$`
 \mathcal{M}_{AB} \neq \mathcal{M}_A \times \mathcal{M}_B
-$$
+`$
 
 Entanglement entropy corresponds to geometric invariants in the manifold:
 
-$$
+$`
 S_E = -\text{Tr}(\rho_A\log\rho_A) = \int_{\mathcal{M}_A}\Omega_E
-$$
+`$
 
 where $`\Omega_E`$ is the entanglement measure form.
 
@@ -77,9 +77,9 @@ The classical state space can be represented as a finite-dimensional Riemannian 
 
 The classicalization process can be represented as a tangent mapping from the quantum manifold to the classical manifold:
 
-$$
+$`
 \mathcal{C}: T\mathcal{M}_Q \to T\mathcal{M}_C
-$$
+`$
 
 Satisfying the following conditions:
 
@@ -91,15 +91,15 @@ Satisfying the following conditions:
 
 Classicalization can be represented as a projection process on manifolds:
 
-$$
+$`
 \mathcal{P}_O: \mathcal{M}_Q \to \mathcal{M}_C^O
-$$
+`$
 
 where $`\mathcal{M}_C^O`$ is the classical manifold of observer $`O`$. The specific form of projection is:
 
-$$
+$`
 \mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)
-$$
+`$
 
 This geometrically corresponds to fiber projection from a higher-dimensional manifold to a lower-dimensional manifold.
 
@@ -109,9 +109,9 @@ This geometrically corresponds to fiber projection from a higher-dimensional man
 
 The distance between quantum states can be defined through the Fubini-Study metric:
 
-$$
+$`
 d_{\text{FS}}(|\psi\rangle, |\phi\rangle) = \arccos|\langle\psi|\phi\rangle|
-$$
+`$
 
 This is equivalent to the geodesic distance on the quantum manifold.
 
@@ -119,15 +119,15 @@ This is equivalent to the geodesic distance on the quantum manifold.
 
 Information flow at the quantum-classical interface can be represented as mapping flows between manifolds:
 
-$$
+$`
 \mathcal{J}(t): \mathcal{M}_Q \times [0,1] \to \mathcal{M}_C
-$$
+`$
 
 Satisfying the continuity equation:
 
-$$
+$`
 \frac{\partial\rho}{\partial t} + \nabla\cdot\vec{J} = 0
-$$
+`$
 
 where $`\rho`$ is the information density form and $`\vec{J}`$ is the information flow.
 
@@ -135,9 +135,9 @@ where $`\rho`$ is the information density form and $`\vec{J}`$ is the informatio
 
 Topologically protected quantum states can be described through characteristic classes and homotopy groups:
 
-$$
+$`
 [\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)
-$$
+`$
 
 where $`\mathcal{M}_T`$ is the target manifold space and $`\pi_n`$ is the nth-order homotopy group.
 
@@ -147,9 +147,9 @@ where $`\mathcal{M}_T`$ is the target manifold space and $`\pi_n`$ is the nth-or
 
 Higher-dimensional observers can be represented as observational structures embedded in higher-dimensional manifolds:
 
-$$
+$`
 \mathcal{O}_d \subset \mathcal{M}_{d+k}
-$$
+`$
 
 where $`d`$ is the observer dimension and $`k`$ is the number of additional dimensions.
 
@@ -157,9 +157,9 @@ where $`d`$ is the observer dimension and $`k`$ is the number of additional dime
 
 Relationships between manifolds of different dimensions can be described through embedding mappings:
 
-$$
+$`
 \iota: \mathcal{M}_d \hookrightarrow \mathcal{M}_{d+k}
-$$
+`$
 
 This explains how higher-dimensional observers perceive lower-dimensional phenomena.
 
@@ -167,9 +167,9 @@ This explains how higher-dimensional observers perceive lower-dimensional phenom
 
 Multiple dualism levels can be represented as a hierarchical structure of manifolds:
 
-$$
+$`
 \mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrightarrow{\iota_{1\to2}} \mathcal{M}^{(2)}_Q \xrightarrow{\mathcal{C}^{(2)}} \mathcal{M}^{(2)}_C \to \cdots
-$$
+`$
 
 where $`\iota_{i\to j}`$ is the embedding mapping between levels.
 
@@ -179,9 +179,9 @@ where $`\iota_{i\to j}`$ is the embedding mapping between levels.
 
 Quantum-classical phase transitions can be represented as topological changes in manifolds:
 
-$$
+$`
 \mathcal{M}_\lambda \xrightarrow{\lambda \to \lambda_c} \mathcal{M}'_{\lambda}
-$$
+`$
 
 where $`\lambda`$ is the control parameter and $`\lambda_c`$ is the critical value.
 
@@ -189,9 +189,9 @@ where $`\lambda`$ is the control parameter and $`\lambda_c`$ is the critical val
 
 Critical exponents are related to geometric invariants of the manifold:
 
-$$
+$`
 \nu = \frac{1}{d_H - 1}
-$$
+`$
 
 where $`d_H`$ is the Hausdorff dimension of the manifold at the critical point.
 
@@ -199,9 +199,9 @@ where $`d_H`$ is the Hausdorff dimension of the manifold at the critical point.
 
 Interface phase transitions follow geometric renormalization flow equations:
 
-$$
+$`
 \frac{dg_{ij}}{dt} = -2R_{ij} + \nabla_i\nabla_j\phi
-$$
+`$
 
 where $`R_{ij}`$ is the Ricci curvature tensor and $`\phi`$ is the dilaton field.
 

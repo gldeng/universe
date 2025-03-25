@@ -35,33 +35,33 @@
 
 1. **道德选择的量子叠加**：《罪与罚》中拉斯科尔尼科夫的道德困境：
 
-$$
+$`
 |\psi\rangle_{\text{道德}} = \alpha |\text{正义}\rangle + \beta |\text{罪恶}\rangle + \gamma |\text{救赎}\rangle
-$$
+`$
 
 2. **人格的量子多重态**：《卡拉马佐夫兄弟》中三兄弟的人格分化：
 
-$$
+$`
 |\Psi_{\text{人格}}\rangle = \sum_i c_i |\text{德米特里}\rangle \otimes |\text{伊万}\rangle \otimes |\text{阿列克谢}\rangle
-$$
+`$
 
 3. **信仰的量子不确定性**：伊万·卡拉马佐夫的信仰危机：
 
-$$
+$`
 |\phi\rangle_{\text{信仰}} = \frac{1}{\sqrt{2}}(|\text{信仰}\rangle + |\text{怀疑}\rangle)
-$$
+`$
 
 4. **意识的量子纠缠**：《双重人格》中的人格分裂现象：
 
-$$
+$`
 |\Psi_{\text{意识}}\rangle = \alpha |\text{主体}\rangle |\text{分裂体}\rangle + \beta |\text{分裂体}\rangle |\text{主体}\rangle
-$$
+`$
 
 5. **自由意志的量子悖论**：《地下室手记》中的理性与非理性：
 
-$$
+$`
 |\psi\rangle_{\text{意志}} = \sum_i c_i |\text{理性}_i\rangle \otimes |\text{非理性}_i\rangle
-$$
+`$
 
 ### 现代意义
 

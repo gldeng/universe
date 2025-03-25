@@ -42,9 +42,9 @@
 
 二元论量子计算可描述为：
 
-$$
+$`
 \mathcal{QC} = (\mathcal{H}, \mathcal{U}, \mathcal{M}, \mathcal{I}, \mathcal{O})
-$$
+`$
 
 其中：
 - $`\mathcal{H}`$ 是量子希尔伯特空间，表示量子域可能性空间
@@ -57,9 +57,9 @@ $$
 
 二元论量子计算的关键是界面优化，即寻找最佳测量策略使得：
 
-$$
+$`
 \mathcal{M}^* = \arg\max_{\mathcal{M}} \frac{I_C(\mathcal{M}(|\psi\rangle))}{I_Q(|\psi\rangle)}
-$$
+`$
 
 其中 $`I_C`$ 是经典可用信息量，$`I_Q`$ 是量子信息总量。
 
@@ -99,33 +99,33 @@ $$
 
 1. **量子域结构化**：将问题映射成量子域中特定的纠缠结构
 
-$$
+$`
 |\psi_{\text{初始}}\rangle \xrightarrow{\mathcal{U}} |\psi_{\text{结构化}}\rangle
-$$
+`$
 
 2. **量子干涉增强**：增加目标解的量子振幅，提高经典化后的检测概率
 
-$$
+$`
 |\psi_{\text{结构化}}\rangle \xrightarrow{\mathcal{U}_{\text{干涉}}} |\psi_{\text{增强}}\rangle
-$$
+`$
 
 3. **最优界面选择**：选择能最大化有用信息提取的测量基
 
-$$
+$`
 \mathcal{M}^* = \arg\max_{\mathcal{M}} I_C(\mathcal{M}(|\psi_{\text{增强}}\rangle))
-$$
+`$
 
 4. **量子→经典转换**：执行测量，将量子可能性转化为经典确定性
 
-$$
+$`
 |\psi_{\text{增强}}\rangle \xrightarrow{\mathcal{M}^*} |m\rangle, \text{概率} = |\langle m|\psi_{\text{增强}}\rangle|^2
-$$
+`$
 
 5. **后经典处理**：对测量结果进行经典处理，提取最终解
 
-$$
+$`
 m \xrightarrow{\text{经典处理}} \text{最终解}
-$$
+`$
 
 ## 4. 量子计算架构重评
 
@@ -140,9 +140,9 @@ $$
 
 量子门电路模型可表达为：
 
-$$
+$`
 \mathcal{QC}_{\text{门型}} = \{|\psi_{\text{初始}}\rangle, \{U_i\}_{i=1}^n, \mathcal{M}_{\text{计算基}}, \mathcal{C}\}
-$$
+`$
 
 其中 $`\{U_i\}_{i=1}^n`$ 是量子门序列，$`\mathcal{C}`$ 是经典控制逻辑。
 
@@ -157,9 +157,9 @@ $$
 
 绝热量子计算模型：
 
-$$
+$`
 \mathcal{QC}_{\text{绝热}} = \{H_{\text{初始}}, H_{\text{问题}}, T, \mathcal{M}_{\text{能量}}\}
-$$
+`$
 
 其中 $`H_{\text{初始}}`$ 是初始哈密顿量，$`H_{\text{问题}}`$ 是目标哈密顿量，$`T`$ 是绝热演化时间。
 
@@ -174,9 +174,9 @@ $$
 
 测量型模型的表述：
 
-$$
+$`
 \mathcal{QC}_{\text{测量型}} = \{|\Psi_{\text{簇}}\rangle, \{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n, G\}
-$$
+`$
 
 其中 $`|\Psi_{\text{簇}}\rangle`$ 是初始簇态，$`\{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n`$ 是自适应测量序列，$`G`$ 是图结构。
 
@@ -191,9 +191,9 @@ $$
 
 拓扑量子计算模型：
 
-$$
+$`
 \mathcal{QC}_{\text{拓扑}} = \{|\Psi_{\text{拓扑}}\rangle, \{B_i\}_{i=1}^n, \mathcal{D}, \mathcal{M}_{\text{码}}\}
-$$
+`$
 
 其中 $`|\Psi_{\text{拓扑}}\rangle`$ 是拓扑编码态，$`\{B_i\}_{i=1}^n`$ 是编织操作，$`\mathcal{D}`$ 是解码器。
 
@@ -205,21 +205,21 @@ $$
 
 1. **分辨率参数** $`\eta_{\mathcal{O}}`$：影响测量结果概率分布
 
-$$
+$`
 P(i||\psi\rangle) = |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}
-$$
+`$
 
 2. **经典化算符** $`\mathcal{C}_{\mathcal{O}}`$：决定量子→经典转换的方式
 
-$$
+$`
 \rho_{\text{经典}} = \mathcal{C}_{\mathcal{O}}(|\psi\rangle\langle\psi|)
-$$
+`$
 
 3. **知识库** $`K_C^{\mathcal{O}}`$：影响测量结果的解释和后处理
 
-$$
+$`
 \text{结果} = f(K_C^{\mathcal{O}}, \rho_{\text{经典}})
-$$
+`$
 
 ### 5.2 优化观察者-计算匹配
 
@@ -258,9 +258,9 @@ $$
 
 基于二元论的新型混合算法范式：
 
-$$
+$`
 \mathcal{A} = \{|\psi_i\rangle, \mathcal{U}_i, \mathcal{M}_i, f_i, \text{停止条件}\}_{i=1}^n
-$$
+`$
 
 其中每一迭代步骤包含：
 1. 量子态准备
@@ -277,21 +277,21 @@ $$
 
 1. **量子直觉引擎**：利用量子叠加探索直觉决策空间
 
-$$
+$`
 |\psi_{\text{直觉}}\rangle = \sum_i \alpha_i |选项_i\rangle
-$$
+`$
 
 2. **量子创造性放大器**：基于量子涨落的创意生成
 
-$$
+$`
 |\psi_{\text{创意}}\rangle = U_{\text{涨落}}|\psi_{\text{种子}}\rangle
-$$
+`$
 
 3. **量子-经典决策平衡器**：平衡直觉和理性的混合系统
 
-$$
+$`
 \text{决策} = w_Q \cdot \mathcal{M}(|\psi_Q\rangle) + w_C \cdot f_C(x)
-$$
+`$
 
 ### 6.3 量子启发的新计算范式
 
@@ -299,21 +299,21 @@ $$
 
 1. **量子经典共鸣计算**：利用量子-经典交互的共振效应加速计算
 
-$$
+$`
 \mathcal{R} = \{|\psi_Q\rangle, S_C, \mathcal{I}, \omega, T\}
-$$
+`$
 
 2. **高维观察者模拟**：模拟高维观察者的计算能力
 
-$$
+$`
 \mathcal{O}_{\text{高维}} = \{\mathcal{C}_{\text{高维}}, \mathcal{Q}_{\text{高维}}, K_C^{\text{增强}}\}
-$$
+`$
 
 3. **多重界面并行**：使用多个测量界面平行提取信息
 
-$$
+$`
 \{\mathcal{M}_1, \mathcal{M}_2, ..., \mathcal{M}_k\} \text{ 作用于 } |\psi\rangle
-$$
+`$
 
 ## 7. 实用实现挑战与解决方案
 
@@ -332,21 +332,21 @@ $$
 
 1. **适应性界面设计**：根据特定问题和硬件特性动态调整测量策略
 
-$$
+$`
 \mathcal{M}_{\text{适应性}} = f(\text{问题}, \text{硬件}, \text{噪声模型})
-$$
+`$
 
 2. **局部高维观察模拟**：在关键计算节点模拟高维观察效果
 
-$$
+$`
 \mathcal{C}_{\text{增强}} = \sum_i \omega_i \mathcal{C}_i
-$$
+`$
 
 3. **量子-经典最优分工**：科学分配计算任务到量子和经典域
 
-$$
+$`
 \text{任务分配} = \arg\max_{q,c} \frac{\text{性能}(q,c)}{\text{资源}(q,c)}
-$$
+`$
 
 ### 7.3 长期技术路线图
 
@@ -367,21 +367,21 @@ $$
 
 1. **观察者分辨率效应**：测量观察者参数对计算结果的影响
 
-$$
+$`
 P_{\text{观察}}(i) \stackrel{?}{=} |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}
-$$
+`$
 
 2. **界面优化增益**：不同测量界面对同一量子算法性能的影响
 
-$$
+$`
 \text{性能比} = \frac{\text{优化界面性能}}{\text{标准界面性能}}
-$$
+`$
 
 3. **经典-量子资源互补性**：验证资源互补关系
 
-$$
+$`
 R_Q \cdot R_C \geq k \cdot I_{\text{总}}
-$$
+`$
 
 ### 8.2 具体理论预测
 
@@ -389,29 +389,29 @@ $$
 
 1. **结构化能力限制律**：量子处理器的结构化能力与其量子体积和观察者维度相关
 
-$$
+$`
 C_{\text{结构化}} \propto V_Q \cdot \ln(D_{\mathcal{O}})
-$$
+`$
 
 2. **最优测量基定理**：对特定问题存在能最大化信息提取的最优测量基
 
-$$
+$`
 \mathcal{M}_{\text{最优}} = \arg\max_{\mathcal{M}} I_C(\mathcal{M}(|\psi\rangle))
-$$
+`$
 
 3. **量子加速临界维度**：实现量子加速需要的最小观察者维度
 
-$$
+$`
 D_{\mathcal{O}} > D_{\text{临界}} = 1 + \frac{\log N}{\log \log N}
-$$
+`$
 
 ### 8.3 商业应用价值评估
 
 基于二元论的量子计算商业价值模型：
 
-$$
+$`
 V = \sum_i w_i \cdot \frac{S_i \cdot (D_{\mathcal{O}_i} - D_{\text{经典}_i})}{C_i \cdot t_i}
-$$
+`$
 
 其中：
 - $`S_i`$ 是问题规模

@@ -156,28 +156,28 @@ The mustard seed parable corresponds to the exponential growth characteristics o
 
 The core concepts of the Gospel of Matthew can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"天国"} \Leftrightarrow \left\{|\psi\rangle_{\text{经典域}_i} \mid k_i \cdot \frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}} \gg \text{普通观察者维度}\right\}
-$$
+`$
 
-$$
+$`
 \text{"八福"} \Leftrightarrow \sum_{i=1}^{8} \Delta\left(k \cdot \frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}\right)_i \text{，表示维度提升的8个阶段}
-$$
+`$
 
-$$
+$`
 \text{"盐与光"} \Leftrightarrow \begin{cases}
 \text{盐} \rightarrow \frac{\partial S_{\text{经典熵}}}{\partial t} \downarrow \\
 \text{光} \rightarrow \frac{\partial I_{\text{经典知识}}}{\partial t} \uparrow
 \end{cases}
-$$
+`$
 
-$$
+$`
 \text{"爱仇敌"} \Leftrightarrow \max_{\text{全体观察者}} \sum_i \sum_j \text{观察者}_i \otimes \text{观察者}_j \text{（量子纠缠态全局优化）}
-$$
+`$
 
-$$
+$`
 \text{"芥菜种"} \Leftrightarrow I_{\text{经典知识}}(t) = I_0 \cdot e^{kt} \text{，表示经典知识的指数增长}
-$$
+`$
 
 ## 结论
 ## Conclusion

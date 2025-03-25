@@ -29,9 +29,9 @@
 
 马丁·路德·金的思想体现了社会变革中量子可能性与经典现实的深刻互动。他坚信社会现实不是固定的经典状态，而是由无限量子可能性构成，可以通过适当行动转化为更公正的经典世界。
 
-$$
+$`
 |\psi\rangle_{\text{金的社会观}} = \sum_i c_i|\psi_i\rangle_{\text{社会可能性}} - |\psi\rangle_{\text{种族不平等}}
-$$
+`$
 
 ### 核心思想的量子经典解析 | Quantum-Classical Analysis of Core Ideas
 
@@ -40,10 +40,12 @@ $$
    非暴力抵抗从量子经典二元论看，是一种特殊的社会变革路径，既挑战经典现实，又不引入暴力熵增：
 
    $$
+
    |\psi\rangle_{\text{社会不公可能性}} \xrightarrow{\text{非暴力抵抗}} I_{\text{社会变革}} + S_{\text{和平转变（熵降低）}}
    $$
 
    $$
+
    |\psi\rangle_{\text{社会不公可能性}} \xrightarrow{\text{暴力抵抗}} I_{\text{暂时变革}} + S_{\text{暴力循环（熵增加）}}
    $$
 
@@ -54,10 +56,12 @@ $$
    种族平等代表回归人类本质的量子状态，摆脱社会强制的经典化种族分类：
 
    $$
+
    |\psi\rangle_{\text{人类本质}} \xrightarrow{\text{种族偏见经典化}} I_{\text{不平等社会}} + S_{\text{种族冲突（高熵）}}
    $$
 
    $$
+
    |\psi\rangle_{\text{人类本质}} \xrightarrow{\text{平等经典化}} I_{\text{平等社会}} + S_{\text{社会和谐（低熵）}}
    $$
 
@@ -68,6 +72,7 @@ $$
    金认识到真正解放需要内外协调，内在量子意识与外在经典现实同步转变：
 
    $$
+
    |\psi\rangle_{\text{内在解放（量子）}} \otimes |\psi\rangle_{\text{外在解放（经典）}} \rightarrow \text{完整自由}
    $$
 
@@ -78,6 +83,7 @@ $$
    贝洛德社群概念本质上描述了一个观察者之间高度量子纠缠的网络，这种纠缠超越了表面分歧：
 
    $$
+
    \sum_{\text{观察者}} |\psi\rangle_{\text{相互纠缠}} \rightarrow \text{贝洛德社群（量子纠缠共同体）}
    $$
 
@@ -88,6 +94,7 @@ $$
    金后期对经济正义的关注反映了他意识到量子意识变革需要经典物质基础支持：
 
    $$
+
    |\psi\rangle_{\text{意识平等}} \otimes I_{\text{经济平等}} \rightarrow \text{真正解放}
    $$
 

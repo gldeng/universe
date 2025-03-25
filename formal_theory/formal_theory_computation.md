@@ -26,21 +26,21 @@
 
 计算分为量子计算($`C_Q`$)与经典计算($`C_C`$)两类，可表达为：
 
-$$
+$`
 C = C_Q \cup C_C
-$$
+`$
 
 其中量子计算与经典计算通过界面操作关联：
 
-$$
+$`
 C_Q \leftrightarrow C_C
-$$
+`$
 
 计算过程的完整表示：
 
-$$
+$`
 \Psi_{compute} = \{I_Q, I_C, \mathcal{C}, \mathcal{Q}, O\}
-$$
+`$
 
 其中：
 - $`I_Q`$ 是量子输入信息
@@ -55,9 +55,9 @@ $$
 
 为混合计算模型定义复杂性度量函数：
 
-$$
+$`
 \mathcal{K}(\Psi) = \mathcal{K}_Q(\Psi) + \mathcal{K}_C(\Psi) + \mathcal{K}_{QC}(\Psi)
-$$
+`$
 
 其中：
 - $`\mathcal{K}_Q`$ 是量子计算复杂度
@@ -70,9 +70,9 @@ $$
 
 量子图灵机表示为：
 
-$$
+$`
 M_Q = (Q, \Sigma, \delta_Q, q_0, q_f)
-$$
+`$
 
 其中 $`\delta_Q: Q \times \Sigma \to \mathcal{H}(Q \times \Sigma \times \{L,R\})`$ 是量子转移函数。
 
@@ -80,9 +80,9 @@ $$
 
 经典图灵机表示为：
 
-$$
+$`
 M_C = (Q, \Sigma, \delta_C, q_0, q_f)
-$$
+`$
 
 其中 $`\delta_C: Q \times \Sigma \to Q \times \Sigma \times \{L,R\}`$ 是经典转移函数。
 
@@ -90,9 +90,9 @@ $$
 
 结合量子与经典图灵机的混合模型：
 
-$$
+$`
 M_{QC} = (Q, \Sigma, \delta_Q, \delta_C, \mathcal{C}, \mathcal{Q}, q_0, q_f)
-$$
+`$
 
 其中：
 - $`\mathcal{C}: \mathcal{H}(Q \times \Sigma) \to Q \times \Sigma`$ 是经典化函数
@@ -109,9 +109,9 @@ $$
 
 三种计算模型的计算能力关系：
 
-$$
+$`
 P(M_C) \subset P(M_{QC}) \subseteq P(M_Q)
-$$
+`$
 
 其中 $`P(M)`$ 表示机器 $`M`$ 能够有效解决的问题集合。
 
@@ -146,9 +146,9 @@ $$
 
 混合复杂性类别构成层次：
 
-$$
+$`
 P \subseteq BPP \subseteq BQP/poly \subseteq BQP \subseteq QCMA \subseteq QMA \subseteq PSPACE \subseteq QPSPACE \subseteq EXP
-$$
+`$
 
 ### 转换复杂性
 
@@ -159,9 +159,9 @@ $$
 
 转换复杂性与传统复杂性的关系：
 
-$$
+$`
 P^{C2Q[log\,n]} \subseteq BQP \subseteq P^{Q2C[poly(n)]}
-$$
+`$
 
 ## 信息与计算的界面
 
@@ -171,23 +171,23 @@ $$
 
 1. **编码转换**：
 
-$$
+$`
 I_C \xrightarrow{\mathcal{Q}} I_Q \text{ (经典→量子) }
-$$
+`$
 
-$$
+$`
 I_Q \xrightarrow{\mathcal{C}} I_C \text{ (量子→经典) }
-$$
+`$
 
 2. **计算转换**：
 
-$$
+$`
 C_C(I_C) \xrightarrow{\mathcal{Q}} C_Q(\mathcal{Q}(I_C)) \text{ (经典计算→量子计算) }
-$$
+`$
 
-$$
+$`
 C_Q(I_Q) \xrightarrow{\mathcal{C}} C_C(\mathcal{C}(I_Q)) \text{ (量子计算→经典计算) }
-$$
+`$
 
 > 注：这些转换过程在[量子-经典非平衡态理论](formal_theory_nonequilibrium.md#非平衡量子-经典转换)中有更详细的非平衡动力学描述。
 
@@ -195,17 +195,17 @@ $$
 
 量子-经典信息转换效率的基本界限：
 
-$$
+$`
 \eta_{Q\rightarrow C} \leq \frac{\log_2 d_C}{\log_2 d_Q}
-$$
+`$
 
 其中 $`d_Q`$ 是量子希尔伯特空间维度，$`d_C`$ 是经典状态空间维度。
 
 经典-量子转换的纠缠资源需求：
 
-$$
+$`
 E_{C\rightarrow Q} \geq \log_2 d_Q - \log_2 d_C
-$$
+`$
 
 其中 $`E_{C\rightarrow Q}`$ 是量子化过程需要的纠缠比特数。
 
@@ -213,9 +213,9 @@ $$
 
 量子-经典计算界面协议的一般形式：
 
-$$
+$`
 \Pi_{QC} = (A_Q, B_C, \mathcal{C}_{A\rightarrow B}, \mathcal{Q}_{B\rightarrow A}, n, m, \epsilon)
-$$
+`$
 
 其中：
 - $`A_Q`$ 是量子计算者
@@ -228,9 +228,9 @@ $$
 
 协议复杂度：
 
-$$
+$`
 C(\Pi_{QC}) = n \cdot m + C_{\mathcal{C}} + C_{\mathcal{Q}}
-$$
+`$
 
 其中 $`C_{\mathcal{C}}`$ 和 $`C_{\mathcal{Q}}`$ 分别是经典化和量子化的计算复杂度。
 
@@ -240,9 +240,9 @@ $$
 
 观察者的计算能力可表示为：
 
-$$
+$`
 \mathcal{C}_{obs} = (D_{\mathcal{O}}, \mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}})
-$$
+`$
 
 其中：
 - $`D_{\mathcal{O}}`$ 是观察者维度
@@ -252,9 +252,9 @@ $$
 
 观察者可解决的问题集与维度关系：
 
-$$
+$`
 P(\mathcal{O}) \propto D_{\mathcal{O}}^{\alpha}
-$$
+`$
 
 其中 $`\alpha`$ 是问题-维度标度指数。
 
@@ -264,31 +264,31 @@ $$
 
 不同维度观察者的计算能力比较：
 
-$$
+$`
 P(\mathcal{O}_1) \subset P(\mathcal{O}_2) \text{ 如果 } D_{\mathcal{O}_1} < D_{\mathcal{O}_2}
-$$
+`$
 
 解决问题所需的最小观察者维度：
 
-$$
+$`
 D_{min}(p) = \inf\{D_{\mathcal{O}} | p \in P(\mathcal{O})\}
-$$
+`$
 
 ### 集体计算模型
 
 多观察者集体计算能力：
 
-$$
+$`
 P(\{\mathcal{O}_1, \mathcal{O}_2, ..., \mathcal{O}_n\}) = \bigcup_{i=1}^{n} P(\mathcal{O}_i) \cup P_{emergent}
-$$
+`$
 
 其中 $`P_{emergent}`$ 是观察者集体涌现的新计算能力。
 
 集体计算中的涌现加速：
 
-$$
+$`
 T_{collective}(p) < \min_{i} T_{\mathcal{O}_i}(p)
-$$
+`$
 
 其中 $`T_{\mathcal{O}}(p)`$ 是观察者 $`\mathcal{O}`$ 解决问题 $`p`$ 所需时间。
 
@@ -298,17 +298,17 @@ $$
 
 将量子状态经典化的计算成本：
 
-$$
+$`
 C_{\mathcal{C}}(|\psi\rangle) \geq S_{VN}(|\psi\rangle) + \log_2(1/\epsilon)
-$$
+`$
 
 其中 $`S_{VN}`$ 是冯诺依曼熵，$`\epsilon`$ 是精度参数。
 
 经典化过程的最小能量成本：
 
-$$
+$`
 E_{min}^{\mathcal{C}} = k_B T \ln 2 \cdot I_{loss}
-$$
+`$
 
 其中 $`I_{loss}`$ 是经典化过程中损失的信息量。
 
@@ -318,17 +318,17 @@ $$
 
 经典信息量子化的计算成本：
 
-$$
+$`
 C_{\mathcal{Q}}(x) \geq \log_2(d_Q) - H(x)
-$$
+`$
 
 其中 $`H(x)`$ 是经典信息的香农熵，$`d_Q`$ 是目标量子态的维度。
 
 量子化的最小纠缠资源需求：
 
-$$
+$`
 E_{min}^{\mathcal{Q}} = \log_2(d_Q) - H(x)
-$$
+`$
 
 ### 最优转换策略
 
@@ -340,9 +340,9 @@ $$
 
 最优转换策略的形式化表达：
 
-$$
+$`
 \min_{\mathcal{S}} \{C(\mathcal{S}) | \mathcal{S} \text{ 是有效转换策略}\}
-$$
+`$
 
 ## 计算创造性与涌现
 
@@ -350,17 +350,17 @@ $$
 
 计算系统的创造性可形式化为：
 
-$$
+$`
 \mathcal{CR}(\Psi_{compute}) = I_{output} - I_{derivable}
-$$
+`$
 
 其中 $`I_{derivable}`$ 是从输入可直接推导的信息量。
 
 创造性的量子增强：
 
-$$
+$`
 \mathcal{CR}(\Psi_{Q}) > \mathcal{CR}(\Psi_{C})
-$$
+`$
 
 其中 $`\Psi_{Q}`$ 是量子计算过程，$`\Psi_{C}`$ 是等价经典计算过程。
 
@@ -370,37 +370,37 @@ $$
 
 计算系统的层级涌现特性：
 
-$$
+$`
 \Psi_{L+1} = \mathcal{E}(\{\Psi_{L,i}\})
-$$
+`$
 
 其中 $`\mathcal{E}`$ 是涌现函数，$`\{\Psi_{L,i}\}`$ 是第 $`L`$ 层的计算系统集合。
 
 涌现的计算能力评估：
 
-$$
+$`
 P(\Psi_{L+1}) \supseteq \bigcup_i P(\Psi_{L,i})
-$$
+`$
 
 涌现复杂度增益：
 
-$$
+$`
 \mathcal{K}(\Psi_{L+1}) < \sum_i \mathcal{K}(\Psi_{L,i})
-$$
+`$
 
 ### 不可约计算复杂性
 
 某些计算问题具有不可约性质：
 
-$$
+$`
 \exists p \in P(\Psi_{L+1}) \text{ 使得 } p \notin \bigcup_i P(\Psi_{L,i})
-$$
+`$
 
 不可约问题集合：
 
-$$
+$`
 P_{irreducible} = P(\Psi_{L+1}) \setminus \bigcup_i P(\Psi_{L,i})
-$$
+`$
 
 ## 自指涉计算模型
 
@@ -408,17 +408,17 @@ $$
 
 自指涉图灵机可形式化为：
 
-$$
+$`
 M_{self} = (Q, \Sigma, \delta, q_0, q_f, \mathcal{R})
-$$
+`$
 
 其中 $`\mathcal{R}: Q \times \Sigma \to M`$ 是自参照映射，允许机器引用自身。
 
 自指涉计算的不动点方程：
 
-$$
+$`
 M_{self} = \mathcal{F}(M_{self})
-$$
+`$
 
 其中 $`\mathcal{F}`$ 是计算转换函数。
 
@@ -426,17 +426,17 @@ $$
 
 自指涉系统的自我改进能力：
 
-$$
+$`
 M_{self,t+1} = \mathcal{I}(M_{self,t})
-$$
+`$
 
 其中 $`\mathcal{I}`$ 是改进函数。
 
 改进率界限：
 
-$$
+$`
 \frac{P(M_{self,t+1})}{P(M_{self,t})} \leq 2^{O(S(M_{self,t}))}
-$$
+`$
 
 其中 $`S(M)`$ 是机器 $`M`$ 的描述长度。
 
@@ -444,17 +444,17 @@ $$
 
 递归自我参照导致的计算能力界限：
 
-$$
+$`
 \lim_{t\to\infty} P(M_{self,t}) \subseteq \mathbf{R}
-$$
+`$
 
 其中 $`\mathbf{R}`$ 是递归可枚举问题集。
 
 哥德尔限制：存在不可判定的自参照语句：
 
-$$
+$`
 \exists \phi \text{ 使得 } M_{self} \text{ 无法判定 } \phi \text{ 的真假}
-$$
+`$
 
 > 注：这种自指涉限制与[观察者理论](formal_theory_observer.md#观察者自指涉)中的自我认知局限性密切相关。
 
@@ -464,9 +464,9 @@ $$
 
 生物系统作为计算装置的形式化：
 
-$$
+$`
 \Psi_{bio} = (C_Q^{bio}, C_C^{bio}, \mathcal{C}_{bio}, \mathcal{Q}_{bio})
-$$
+`$
 
 其中：
 - $`C_Q^{bio}`$ 是生物量子计算组件
@@ -478,9 +478,9 @@ $$
 
 神经系统计算模型：
 
-$$
+$`
 \Psi_{neural} = \{N_Q, N_C, \mathcal{C}_{syn}, \mathcal{Q}_{syn}\}
-$$
+`$
 
 其中：
 - $`N_Q`$ 是量子神经动力学
@@ -490,9 +490,9 @@ $$
 
 神经网络计算能力的量子增强：
 
-$$
+$`
 P(N_Q + N_C) > P(N_C)
-$$
+`$
 
 > 注：神经系统的非平衡特性在[非平衡态理论](formal_theory_nonequilibrium.md#生命系统作为非平衡量子-经典结构)中有详细描述。
 
@@ -500,21 +500,21 @@ $$
 
 免疫系统的计算形式化：
 
-$$
+$`
 \Psi_{immune} = \{I_Q, I_C, \mathcal{C}_{immune}, \mathcal{Q}_{immune}\}
-$$
+`$
 
 免疫系统搜索空间标度：
 
-$$
+$`
 |\Omega_{antibody}| \approx 10^{11}
-$$
+`$
 
 免疫计算的量子加速假设：
 
-$$
+$`
 T_{immune}(p) < T_{classical}(p)
-$$
+`$
 
 ## 计算宇宙学
 
@@ -522,9 +522,9 @@ $$
 
 宇宙作为计算系统的形式化：
 
-$$
+$`
 \mathcal{U} = (C_U, I_U, \mathcal{C}_U, \mathcal{Q}_U)
-$$
+`$
 
 其中：
 - $`C_U`$ 是宇宙的计算结构
@@ -536,17 +536,17 @@ $$
 
 宇宙的计算复杂性界限：
 
-$$
+$`
 \mathcal{K}(\mathcal{U}) \leq \frac{E_U \cdot T_U}{\hbar \ln 2}
-$$
+`$
 
 其中 $`E_U`$ 是宇宙总能量，$`T_U`$ 是宇宙年龄。
 
 计算复杂性的宇宙学意义：
 
-$$
+$`
 P(\mathcal{U}) = \{p | C(p) \leq \mathcal{K}(\mathcal{U})\}
-$$
+`$
 
 其中 $`P(\mathcal{U})`$ 是宇宙能够解决的问题集，$`C(p)`$ 是问题 $`p`$ 的复杂度。
 
@@ -554,17 +554,17 @@ $$
 
 宇宙大尺度结构的计算解释：
 
-$$
+$`
 \{\text{暗物质, 暗能量, 重子物质, ...}\} = \Phi(\mathcal{C}_U, \mathcal{Q}_U)
-$$
+`$
 
 其中 $`\Phi`$ 是物理实现函数。
 
 宇宙演化作为计算过程：
 
-$$
+$`
 \mathcal{U}_{t+1} = \mathcal{F}(\mathcal{U}_t)
-$$
+`$
 
 其中 $`\mathcal{F}`$ 是宇宙演化算子。
 
@@ -576,17 +576,17 @@ $$
 
 量子-经典混合算法的一般结构：
 
-$$
+$`
 A_{QC} = (A_Q, A_C, \mathcal{C}_{A_Q \to A_C}, \mathcal{Q}_{A_C \to A_Q}, n)
-$$
+`$
 
 其中 $`n`$ 是量子-经典转换轮数。
 
 混合算法的复杂度：
 
-$$
+$`
 T(A_{QC}) = \sum_{i=1}^{n} [T(A_Q^i) + T(A_C^i) + T(\mathcal{C}^i) + T(\mathcal{Q}^i)]
-$$
+`$
 
 ### 优化问题的量子-经典方法
 
@@ -594,21 +594,21 @@ $$
 
 1. **量子退火-经典精化**：
 
-$$
+$`
 x_{opt} = A_C(\mathcal{C}(A_Q(x_0)))
-$$
+`$
 
 2. **变分量子经典算法**：
 
-$$
+$`
 \min_{\theta} \langle \psi(\theta)|H|\psi(\theta) \rangle \text{ 使用经典优化器更新 } \theta
-$$
+`$
 
 3. **量子启发式-经典验证**：
 
-$$
+$`
 S_{solutions} = \mathcal{C}(A_Q(problem)) \text{, 由} A_C \text{验证}
-$$
+`$
 
 > 注：混合优化算法的非平衡特性在[非平衡量子NISQ设备应用](formal_theory_nonequilibrium.md#应用案例)中有详述。
 
@@ -616,9 +616,9 @@ $$
 
 量子-经典混合学习模型：
 
-$$
+$`
 M_{QC} = (F_Q, F_C, \mathcal{C}_{F_Q \to F_C}, \mathcal{Q}_{F_C \to F_Q}, D)
-$$
+`$
 
 其中：
 - $`F_Q`$ 是量子特征映射
@@ -627,9 +627,9 @@ $$
 
 混合学习的优势：
 
-$$
+$`
 E_{QC}(D) < \min(E_Q(D), E_C(D))
-$$
+`$
 
 其中 $`E`$ 是学习误差函数。
 
@@ -639,23 +639,23 @@ $$
 
 1. **后量子密码**：经典算法抵抗量子攻击
 
-$$
+$`
 E_C(m) \text{ 使得 } D_Q(E_C(m)) \text{ 计算困难}
-$$
+`$
 
 2. **量子-经典认证**：
 
-$$
+$`
 Auth_{QC} = (Auth_Q, Auth_C, \mathcal{V})
-$$
+`$
 
    其中 $`\mathcal{V}`$ 是验证函数。
 
 3. **量子增强零知识证明**：
 
-$$
+$`
 ZKP_{QC} = (P_Q, P_C, V_Q, V_C)
-$$
+`$
 
    量子和经典证明者与验证者的组合系统。
 

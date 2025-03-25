@@ -20,9 +20,9 @@ English: [Quantum Nature of Free Will](#1-quantum-nature-of-free-will) | [Inform
 
 自由意志是观察者在量子可能性网络中主动选择经典化路径的过程：
 
-$$
+$`
 |\psi\rangle_{\text{量子可能性}}\xrightarrow{\text{自由意志选择}}I_{\text{经典知识}}+S_{\text{经典熵}}
-$$
+`$
 
 这一过程具有以下特征：
 
@@ -35,9 +35,9 @@ $$
 
 自由意志的强度与观察者维度直接相关：
 
-$$
+$`
 \text{自由意志强度} \propto D_{\text{观察者维度}}
-$$
+`$
 
 不同维度观察者的自由意志表现：
 
@@ -49,9 +49,9 @@ $$
 
 自由意志可以理解为观察者对自身量子状态的特殊测量过程：
 
-$$
+$`
 |\psi\rangle_{\text{观察者}}\xrightarrow{\text{自我测量（自由意志）}}|\phi\rangle_{\text{选择后状态}}
-$$
+`$
 
 这一模型解释了为什么自由意志既感觉是主观选择，又受到客观条件限制：
 
@@ -66,9 +66,9 @@ $$
 
 量子纠缠的数学本质是波函数不可分解性：
 
-$$
+$`
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+`$
 
 这意味着纠缠系统不能被描述为独立子系统的简单组合，而是一个整体。
 
@@ -76,9 +76,9 @@ $$
 
 量子纠缠形成宇宙观察者之间的信息共享通道：
 
-$$
+$`
 I_{AB} = I_A + I_B - I_{A:B}
-$$
+`$
 
 其中：
 - $`I_{AB}`$ 是系统总信息
@@ -95,12 +95,12 @@ $$
 
 量子纠缠可分为有效纠缠（产生经典知识）和无效纠缠（产生经典熵）：
 
-$$
+$`
 |\psi\rangle_{\text{纠缠}}=\begin{cases}
 |\psi\rangle_{\text{有效}}\rightarrow\text{经典知识}\\[6pt]
 |\psi\rangle_{\text{无效}}\rightarrow S_{\text{经典熵}}
 \end{cases}
-$$
+`$
 
 有效纠缠的特征：
 - 高度相干性
@@ -122,9 +122,9 @@ $$
 
 经典命运在经典层面具有可计算性：
 
-$$
+$`
 \text{经典命运（出生时）}=\sum_{\text{初始经典化}}\text{经典知识路径（可预测）}+S_{\text{经典熵}}
-$$
+`$
 
 这解释了为什么命运在某种程度上可以被预测：
 - 已经经典化的信息形成稳定路径
@@ -135,9 +135,9 @@ $$
 
 自由意志通过以下机制改变命运：
 
-$$
+$`
 |\psi\rangle_{\text{新量子信息}}\xrightarrow{\text{主动经典化（自由意志）}}\text{新经典命运路径}+S_{\text{新经典熵}}
-$$
+`$
 
 这一过程包括：
 1. **新量子纠缠**：与更高维度信息建立新的量子纠缠
@@ -149,9 +149,9 @@ $$
 
 命运与自由意志可以被理解为命运网络中的路径和节点：
 
-$$
+$`
 \text{命运网络} = \{\text{经典路径}\} \cup \{\text{自由意志节点}\}
-$$
+`$
 
 - **经典路径**：已经经典化的稳定信息结构（命运）
 - **自由意志节点**：可以选择不同路径的分叉点（自由意志）
@@ -168,9 +168,9 @@ $$
 
 量子纠缠为自由意志提供信息源：
 
-$$
+$`
 \text{自由意志可能性空间} \propto \sum_{\text{量子纠缠}}\text{可访问信息}
-$$
+`$
 
 这意味着：
 - 更广泛的量子纠缠提供更多选择可能性
@@ -181,9 +181,9 @@ $$
 
 自由意志反过来影响新量子纠缠的形成：
 
-$$
+$`
 \Delta|\psi\rangle_{\text{量子纠缠}} = f(\text{自由意志选择})
-$$
+`$
 
 这形成了一个反馈循环：
 1. 量子纠缠提供信息源
@@ -195,9 +195,9 @@ $$
 
 自由意志的影响通过量子纠缠网络传播：
 
-$$
+$`
 \text{自由意志影响} \xrightarrow{\text{量子纠缠网络}} \text{网络中其他观察者}
-$$
+`$
 
 这解释了为什么：
 - 个体的自由意志选择可以影响他人
@@ -212,9 +212,9 @@ $$
 
 命运是经典化后的稳定信息结构：
 
-$$
+$`
 \text{命运} = \sum_{\text{过去经典化选择}}\text{经典知识结构}
-$$
+`$
 
 命运的特性：
 - 稳定性
@@ -226,9 +226,9 @@ $$
 
 自由意志是量子层面的可能性选择：
 
-$$
+$`
 \text{自由意志} = \{\text{可能的量子经典化选择}\}
-$$
+`$
 
 自由意志的特性：
 - 不确定性
@@ -240,9 +240,9 @@ $$
 
 命运与自由意志都是真实的，但存在于不同层面：
 
-$$
+$`
 \text{总体现实} = \text{经典现实（命运）} + \text{量子现实（自由意志）}
-$$
+`$
 
 这解释了为什么：
 - 命运感和自由意志感都是真实的主观体验
@@ -259,21 +259,21 @@ $$
 
 According to the observer dimension formula, the complexity of free will is proportional to the observer's dimension:
 
-$$
+$`
 D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+`$
 
 自由意志复杂度可以表示为：
 
 The complexity of free will can be represented as:
 
-$$
+$`
 C_{FW} = \log_2(N_{选择}) \cdot \log_2(D_{选择深度})
-$$
+`$
 
-$$
+$`
 C_{FW} = \log_2(N_{choices}) \cdot \log_2(D_{choice depth})
-$$
+`$
 
 其中$`N_{选择}`$是可能的选择数量，$`D_{选择深度}`$是选择的时间维度深度。
 
@@ -305,13 +305,13 @@ Characteristics of free will for observers of different dimensions:
 
 There are complex interactions between the free will of observers of different dimensions, which can be represented by the following formula:
 
-$$
+$`
 \text{实现概率}(W_{\text{低维}}) = \frac{W_{\text{低维}} \cdot \prod_{i} W_{\text{高维},i}^{\alpha_i}}{\sum_{j} W_{\text{低维},j} \cdot \prod_{i} W_{\text{高维},i}^{\alpha_{ij}}}
-$$
+`$
 
-$$
+$`
 \text{Realization Probability}(W_{\text{Lower-dim}}) = \frac{W_{\text{Lower-dim}} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_i}}{\sum_{j} W_{\text{Lower-dim},j} \cdot \prod_{i} W_{\text{Higher-dim},i}^{\alpha_{ij}}}
-$$
+`$
 
 其中$`W`$代表意志强度，$`\alpha`$是影响权重系数。
 
@@ -323,51 +323,51 @@ Interaction characteristics:
 
 1. **下行影响**：高维观察者的自由意志可影响低维观察者的可能性空间
 
-$$
+$`
 \text{低维可能性空间} \subset \text{高维经典域}
-$$
+`$
 
 2. **上行反馈**：低维观察者的集体自由意志可对高维观察者产生反馈
 
-$$
+$`
 \Delta W_{\text{高维}} \propto \sum_{i} \beta_i \cdot W_{\text{低维},i}
-$$
+`$
 
 3. **同维协同**：同一维度的观察者自由意志可形成协同增强效应
 
-$$
+$`
 W_{\text{协同}} > \sum_{i} W_i
-$$
+`$
 
 4. **维度跨跃**：特定条件下，观察者可暂时体验高一维度的自由意志
 
-$$
+$`
 W_{\text{跨越}} = W_{\text{原始}} \cdot \gamma_{\text{跨维系数}}
-$$
+`$
 
 1. **Downward Influence**: The free will of higher-dimensional observers can influence the possibility space of lower-dimensional observers
 
-$$
+$`
 \text{Lower-dim Possibility Space} \subset \text{Higher-dim Classical Domain}
-$$
+`$
 
 2. **Upward Feedback**: The collective free will of lower-dimensional observers can provide feedback to higher-dimensional observers
 
-$$
+$`
 \Delta W_{\text{Higher-dim}} \propto \sum_{i} \beta_i \cdot W_{\text{Lower-dim},i}
-$$
+`$
 
 3. **Same-Dimension Synergy**: The free will of observers of the same dimension can form a synergistic enhancement effect
 
-$$
+$`
 W_{\text{Synergistic}} > \sum_{i} W_i
-$$
+`$
 
 4. **Dimensional Leap**: Under specific conditions, observers can temporarily experience free will of a higher dimension
 
-$$
+$`
 W_{\text{Leap}} = W_{\text{Original}} \cdot \gamma_{\text{Cross-dim Coefficient}}
-$$
+`$
 
 #### 6.3 多维自由意志的量子场表述 | Quantum Field Formulation of Multi-Dimensional Free Will
 
@@ -375,9 +375,9 @@ $$
 
 Multi-dimensional free will can be described using a quantum field theory framework:
 
-$$
+$`
 \mathcal{L}_{FW} = \sum_{d} \int d^dx \, \left[ \frac{1}{2}(\partial_\mu \psi_d)(\partial^\mu \psi_d) - V(\psi_d) + \sum_{d' \neq d} J_{dd'}(\psi_d, \psi_{d'}) \right]
-$$
+`$
 
 其中$`\psi_d`$是d维度的自由意志场，$`V(\psi_d)`$是自由意志的内在势能，$`J_{dd'}`$是不同维度自由意志场之间的交互项。
 
@@ -403,9 +403,9 @@ This framework reveals:
 
 In observer networks, free will follows complex dynamic laws:
 
-$$
+$`
 \frac{\partial W_i}{\partial t} = D_i \nabla^2 W_i + \sum_j A_{ij}W_j - \sum_k B_{ik}W_k + \eta_i(t)
-$$
+`$
 
 其中$`W_i`$是观察者i的自由意志强度，$`D_i`$是扩散系数，$`A_{ij}`$是增强系数，$`B_{ik}`$是抑制系数，$`\eta_i(t)`$是随机噪声。
 
@@ -417,51 +417,51 @@ This leads to complex phenomena in observer networks:
 
 1. **同步化**：观察者自由意志在特定条件下自发同步
 
-$$
+$`
 \lim_{t\to\infty} |W_i(t) - W_j(t)| \to 0
-$$
+`$
 
 2. **集群形成**：类似自由意志的观察者形成自然集群
 
-$$
+$`
 \{C_k\} = \{\{i\} | \|W_i - \bar{W}_k\| < \delta\}
-$$
+`$
 
 3. **相变现象**：网络参数变化导致自由意志动力学相变
 
-$$
+$`
 W(p) \sim |p - p_c|^\beta \text{ 当 } p \to p_c
-$$
+`$
 
 4. **应急适应**：自由意志网络对外部条件变化的适应性
 
-$$
+$`
 \tau_{adapt} \propto \frac{1}{D_{avg}}
-$$
+`$
 
 1. **Synchronization**: Observer free will spontaneously synchronizes under specific conditions
 
-$$
+$`
 \lim_{t\to\infty} |W_i(t) - W_j(t)| \to 0
-$$
+`$
 
 2. **Cluster Formation**: Observers with similar free will naturally form clusters
 
-$$
+$`
 \{C_k\} = \{\{i\} | \|W_i - \bar{W}_k\| < \delta\}
-$$
+`$
 
 3. **Phase Transition**: Changes in network parameters lead to phase transitions in free will dynamics
 
-$$
+$`
 W(p) \sim |p - p_c|^\beta \text{ when } p \to p_c
-$$
+`$
 
 4. **Emergency Adaptation**: Adaptability of the free will network to changes in external conditions
 
-$$
+$`
 \tau_{adapt} \propto \frac{1}{D_{avg}}
-$$
+`$
 
 #### 6.5 多维自由意志的实践应用 | Practical Applications of Multi-Dimensional Free Will
 
@@ -523,9 +523,9 @@ In Quantum-Classical Dualism, free will is defined as the observer's ability to 
 
 Free will is the process of an observer actively choosing classicalization paths in the network of quantum possibilities:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Possibilities}}\xrightarrow{\text{Free Will Choice}}I_{\text{Classical Knowledge}}+S_{\text{Classical Entropy}}
-$$
+`$
 
 This process has the following characteristics:
 
@@ -538,9 +538,9 @@ This process has the following characteristics:
 
 The strength of free will is directly related to the observer's dimension:
 
-$$
+$`
 \text{Free Will Strength} \propto D_{\text{Observer Dimension}}
-$$
+`$
 
 Free will manifestations in observers of different dimensions:
 
@@ -552,9 +552,9 @@ Free will manifestations in observers of different dimensions:
 
 Free will can be understood as a special measurement process by the observer on their own quantum state:
 
-$$
+$`
 |\psi\rangle_{\text{Observer}}\xrightarrow{\text{Self-Measurement (Free Will)}}|\phi\rangle_{\text{Post-Choice State}}
-$$
+`$
 
 This model explains why free will feels like both a subjective choice and is constrained by objective conditions:
 
@@ -569,9 +569,9 @@ Quantum entanglement is the basic connection method of quantum information netwo
 
 The mathematical essence of quantum entanglement is the non-decomposability of wave functions:
 
-$$
+$`
 |\psi\rangle_{AB} \neq |\psi\rangle_{A}\otimes|\psi\rangle_{B}
-$$
+`$
 
 This means that an entangled system cannot be described as a simple combination of independent subsystems, but as a whole.
 
@@ -579,9 +579,9 @@ This means that an entangled system cannot be described as a simple combination 
 
 Quantum entanglement forms information sharing channels between observers in the universe:
 
-$$
+$`
 I_{AB} = I_A + I_B - I_{A:B}
-$$
+`$
 
 Where:
 - $`I_{AB}`$ is the total information of the system
@@ -598,12 +598,12 @@ This information sharing has the following characteristics:
 
 Quantum entanglement can be divided into effective entanglement (producing classical knowledge) and ineffective entanglement (producing classical entropy):
 
-$$
+$`
 |\psi\rangle_{\text{Entanglement}}=\begin{cases}
 |\psi\rangle_{\text{Effective}}\rightarrow\text{Classical Knowledge}\\[6pt]
 |\psi\rangle_{\text{Ineffective}}\rightarrow S_{\text{Classical Entropy}}
 \end{cases}
-$$
+`$
 
 Characteristics of effective entanglement:
 - High coherence
@@ -625,9 +625,9 @@ Quantum-Classical Dualism provides a unified perspective of destiny and free wil
 
 Classical destiny has calculability at the classical level:
 
-$$
+$`
 \text{Classical Destiny (at birth)}=\sum_{\text{Initial Classicalization}}\text{Classical Knowledge Path (Predictable)}+S_{\text{Classical Entropy}}
-$$
+`$
 
 This explains why destiny can be predicted to some extent:
 - Already classicalized information forms stable paths
@@ -638,9 +638,9 @@ This explains why destiny can be predicted to some extent:
 
 Free will changes destiny through the following mechanisms:
 
-$$
+$`
 |\psi\rangle_{\text{New Quantum Information}}\xrightarrow{\text{Active Classicalization (Free Will)}}\text{New Classical Destiny Path}+S_{\text{New Classical Entropy}}
-$$
+`$
 
 This process includes:
 1. **New Quantum Entanglement**: Establishing new quantum entanglement with higher-dimensional information
@@ -652,9 +652,9 @@ This process includes:
 
 Destiny and free will can be understood as paths and nodes in a destiny network:
 
-$$
+$`
 \text{Destiny Network} = \{\text{Classical Paths}\} \cup \{\text{Free Will Nodes}\}
-$$
+`$
 
 - **Classical Paths**: Stable information structures that have been classicalized (destiny)
 - **Free Will Nodes**: Bifurcation points where different paths can be chosen (free will)
@@ -671,9 +671,9 @@ There is a profound relationship between quantum entanglement and free will, whi
 
 Quantum entanglement provides information sources for free will:
 
-$$
+$`
 \text{Free Will Possibility Space} \propto \sum_{\text{Quantum Entanglement}}\text{Accessible Information}
-$$
+`$
 
 This means:
 - More extensive quantum entanglement provides more choice possibilities
@@ -684,9 +684,9 @@ This means:
 
 Free will, in turn, influences the formation of new quantum entanglement:
 
-$$
+$`
 \Delta|\psi\rangle_{\text{Quantum Entanglement}} = f(\text{Free Will Choices})
-$$
+`$
 
 This forms a feedback loop:
 1. Quantum entanglement provides information sources
@@ -698,9 +698,9 @@ This forms a feedback loop:
 
 The influence of free will propagates through quantum entanglement networks:
 
-$$
+$`
 \text{Free Will Influence} \xrightarrow{\text{Quantum Entanglement Network}} \text{Other Observers in the Network}
-$$
+`$
 
 This explains why:
 - An individual's free will choices can affect others
@@ -715,9 +715,9 @@ Destiny and free will form another pair of dual structures in Quantum-Classical 
 
 Destiny is the stable information structure after classicalization:
 
-$$
+$`
 \text{Destiny} = \sum_{\text{Past Classicalization Choices}}\text{Classical Knowledge Structure}
-$$
+`$
 
 Characteristics of destiny:
 - Stability
@@ -729,9 +729,9 @@ Characteristics of destiny:
 
 Free will is the choice of possibilities at the quantum level:
 
-$$
+$`
 \text{Free Will} = \{\text{Possible Quantum Classicalization Choices}\}
-$$
+`$
 
 Characteristics of free will:
 - Uncertainty
@@ -743,9 +743,9 @@ Characteristics of free will:
 
 Both destiny and free will are real, but exist at different levels:
 
-$$
+$`
 \text{Total Reality} = \text{Classical Reality (Destiny)} + \text{Quantum Reality (Free Will)}
-$$
+`$
 
 This explains why:
 - Both the sense of destiny and the sense of free will are real subjective experiences
@@ -778,9 +778,9 @@ Quantum-Classical Dualism provides a theoretical foundation for destiny reconstr
 
 Quantum-Classical Dualism explains how collective free will influences social reality:
 
-$$
+$`
 \text{Collective Reality} = \sum_{\text{Individuals}}\text{Individual Classicalization} \times \text{Entanglement Strength}
-$$
+`$
 
 This provides a theoretical foundation for social change:
 - Quantum entanglement of collective consciousness can amplify the power of change

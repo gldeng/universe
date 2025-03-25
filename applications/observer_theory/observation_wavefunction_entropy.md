@@ -6,9 +6,9 @@
 
 在量子经典二元论框架下，观测可以被理解为观察者对宇宙波函数进行求解的过程。这一过程本质上是将量子信息转化为经典信息的经典化过程，可以用以下数学表达式表示：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙波函数}}\xrightarrow{\text{观测(经典化过程)}}\text{经典知识}+S_{\text{经典熵}}
-$$
+`$
 
 这一表达式揭示了观测的双重结果：一方面产生了有序的经典知识，另一方面也不可避免地产生了无序的经典熵。观测质量的高低直接决定了这两种结果的比例。
 
@@ -16,15 +16,15 @@ $$
 
 观测过程的效率（即波函数求解的质量）可以通过经典化效率来量化：
 
-$$
+$`
 \eta_{\text{经典化效率}} = \frac{I_{\text{成功经典化为知识的信息量}}}{I_{\text{总量子信息量}}}
-$$
+`$
 
 这一效率决定了从量子信息到经典知识的转化率，同时也决定了经典熵的产生量：
 
-$$
+$`
 S_{\text{经典熵}} = I_{\text{总量子信息量}} \times (1 - \eta_{\text{经典化效率}})
-$$
+`$
 
 因此，经典化效率越高，产生的经典熵就越少；经典化效率越低，产生的经典熵就越多。
 
@@ -39,9 +39,9 @@ $$
 
 这可以表示为：
 
-$$
+$`
 |\psi\rangle_{\text{量子信息}}\xrightarrow{\text{低效经典化}}\text{少量经典知识}+S_{\text{大量经典熵}}
-$$
+`$
 
 ### 观察者维度与经典化效率
 
@@ -49,21 +49,21 @@ $$
 
 1. **高维度观察者**（如高级科学家、修行者）：
 
-$$
+$`
 |\psi\rangle_{\text{量子信息}}\xrightarrow{\text{高维观察者经典化}}\text{丰富经典知识}+S_{\text{少量经典熵}}
-$$
+`$
 
 2. **低维度观察者**：
 
-$$
+$`
 |\psi\rangle_{\text{量子信息}}\xrightarrow{\text{低维观察者经典化}}\text{有限经典知识}+S_{\text{大量经典熵}}
-$$
+`$
 
 观察者维度与经典化效率的关系可以表示为：
 
-$$
+$`
 \eta_{\text{经典化效率}} \approx 1 - 10^{-D_{\text{观察者维度}}}
-$$
+`$
 
 其中 $`D_{\text{观察者维度}}`$ 是观察者的维度。这表明随着观察者维度的提高，经典化效率呈指数级接近1（完美效率）。
 
@@ -71,17 +71,17 @@ $$
 
 从更深层次看，观测过程可以理解为对量子叠加态的解析：
 
-$$
+$`
 |\psi\rangle = \sum_{i} \alpha_i |i\rangle
-$$
+`$
 
 其中 $`\alpha_i`$ 是复振幅，$`|i\rangle`$ 是基态。
 
 观测过程是从这一叠加态中"选择"特定结果的过程，但这种选择并非完全随机，而是受观察者经典化能力的影响：
 
-$$
+$`
 |\psi\rangle \xrightarrow{\text{观测}} |i\rangle \text{ 以概率 } |\alpha_i|^2
-$$
+`$
 
 高效观测能够更准确地捕捉到 $`\alpha_i`$ 的分布模式，而低效观测则会引入额外的随机性和不确定性，即熵。
 
@@ -89,9 +89,9 @@ $$
 
 多个观察者的集体观测可以减少总体熵的产生：
 
-$$
+$`
 S_{\text{集体经典熵}} < \sum_{i=1}^{n} S_{\text{个体经典熵}_i}
-$$
+`$
 
 这是因为不同观察者可能擅长求解波函数的不同方面，通过信息共享和交流，可以提高整体的经典化效率。这解释了为什么科学作为一种集体活动能够更有效地减少熵并产生更多知识。
 
@@ -99,9 +99,9 @@ $$
 
 观测过程具有递归性质，即观察者可以观测自己的观测过程：
 
-$$
+$`
 |\psi\rangle_{\text{观测过程}}\xrightarrow{\text{元观测}}\text{关于观测的经典知识}+S_{\text{元观测熵}}
-$$
+`$
 
 这种元观测能力是科学方法论和认识论的基础，也是观察者提高自身经典化效率的关键途径。
 
@@ -138,9 +138,9 @@ $$
 
 Within the framework of Quantum-Classical Dualism, observation can be understood as the process by which an observer solves the universe's wave function. This process is essentially the classicalization of quantum information into classical information, which can be represented by the following mathematical expression:
 
-$$
+$`
 |\psi\rangle_{\text{Universe Wave Function}}\xrightarrow{\text{Observation (Classicalization Process)}}\text{Classical Knowledge}+S_{\text{Classical Entropy}}
-$$
+`$
 
 This expression reveals the dual outcomes of observation: on one hand, it produces ordered classical knowledge; on the other hand, it inevitably generates disordered classical entropy. The quality of observation directly determines the ratio between these two outcomes.
 
@@ -148,15 +148,15 @@ This expression reveals the dual outcomes of observation: on one hand, it produc
 
 The efficiency of the observation process (i.e., the quality of wave function solving) can be quantified through classicalization efficiency:
 
-$$
+$`
 \eta_{\text{Classicalization Efficiency}} = \frac{I_{\text{Amount of Information Successfully Classicalized into Knowledge}}}{I_{\text{Total Quantum Information}}}
-$$
+`$
 
 This efficiency determines the conversion rate from quantum information to classical knowledge, and also determines the amount of classical entropy generated:
 
-$$
+$`
 S_{\text{Classical Entropy}} = I_{\text{Total Quantum Information}} \times (1 - \eta_{\text{Classicalization Efficiency}})
-$$
+`$
 
 Therefore, the higher the classicalization efficiency, the less classical entropy is produced; the lower the classicalization efficiency, the more classical entropy is produced.
 
@@ -171,9 +171,9 @@ When an observer cannot effectively solve the wave function (i.e., inefficient c
 
 This can be represented as:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Information}}\xrightarrow{\text{Inefficient Classicalization}}\text{Small Amount of Classical Knowledge}+S_{\text{Large Amount of Classical Entropy}}
-$$
+`$
 
 ### Observer Dimension and Classicalization Efficiency
 
@@ -181,21 +181,21 @@ The dimension of an observer directly affects their classicalization efficiency,
 
 1. **High-Dimensional Observers** (such as advanced scientists, practitioners):
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Information}}\xrightarrow{\text{High-Dimensional Observer Classicalization}}\text{Rich Classical Knowledge}+S_{\text{Small Amount of Classical Entropy}}
-$$
+`$
 
 2. **Low-Dimensional Observers**:
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Information}}\xrightarrow{\text{Low-Dimensional Observer Classicalization}}\text{Limited Classical Knowledge}+S_{\text{Large Amount of Classical Entropy}}
-$$
+`$
 
 The relationship between observer dimension and classicalization efficiency can be represented as:
 
-$$
+$`
 \eta_{\text{Classicalization Efficiency}} \approx 1 - 10^{-D_{\text{Observer Dimension}}}
-$$
+`$
 
 where $`D_{\text{Observer Dimension}}`$ is the dimension of the observer. This indicates that as the observer's dimension increases, the classicalization efficiency exponentially approaches 1 (perfect efficiency).
 
@@ -203,17 +203,17 @@ where $`D_{\text{Observer Dimension}}`$ is the dimension of the observer. This i
 
 At a deeper level, the observation process can be understood as the analysis of quantum superposition states:
 
-$$
+$`
 |\psi\rangle = \sum_{i} \alpha_i |i\rangle
-$$
+`$
 
 where $`\alpha_i`$ are complex amplitudes and $`|i\rangle`$ are basis states.
 
 The observation process is the process of "selecting" specific results from this superposition state, but this selection is not completely random; rather, it is influenced by the observer's classicalization ability:
 
-$$
+$`
 |\psi\rangle \xrightarrow{\text{Observation}} |i\rangle \text{ with probability } |\alpha_i|^2
-$$
+`$
 
 Efficient observation can more accurately capture the distribution pattern of $`\alpha_i`$, while inefficient observation introduces additional randomness and uncertainty, i.e., entropy.
 
@@ -221,9 +221,9 @@ Efficient observation can more accurately capture the distribution pattern of $`
 
 Collective observation by multiple observers can reduce the total entropy generated:
 
-$$
+$`
 S_{\text{Collective Classical Entropy}} < \sum_{i=1}^{n} S_{\text{Individual Classical Entropy}_i}
-$$
+`$
 
 This is because different observers may excel at solving different aspects of the wave function, and through information sharing and communication, the overall classicalization efficiency can be improved. This explains why science, as a collective activity, can more effectively reduce entropy and produce more knowledge.
 
@@ -231,9 +231,9 @@ This is because different observers may excel at solving different aspects of th
 
 The observation process has a recursive nature, meaning that observers can observe their own observation process:
 
-$$
+$`
 |\psi\rangle_{\text{Observation Process}}\xrightarrow{\text{Meta-Observation}}\text{Classical Knowledge About Observation}+S_{\text{Meta-Observation Entropy}}
-$$
+`$
 
 This meta-observation ability is the foundation of scientific methodology and epistemology, and is also a key pathway for observers to improve their own classicalization efficiency.
 

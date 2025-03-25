@@ -29,41 +29,41 @@ English: [Background](#background) | [Lyrical Themes](#lyrical-themes) | [Quantu
 
    "我曾经跨过山和大海，也穿过人山人海"象征着观察者（歌者）在无限维度量子域中的经典化探索过程。"山"和"海"作为自然界的宏大意象，代表了量子域中无限可能性的叠加态，而"跨过"与"穿过"则是经典化的行动。
 
-$$
+$`
 |\psi\rangle_{\text{量子域无限可能}} \xrightarrow{\text{跨过/穿过（经典化）}} I_{\text{经典经验}}+S_{\text{熵降低}}
-$$
+`$
 
 2. **经典熵与经典知识的平衡**：
 
    "我曾经拥有着的一切，转眼都飘散如烟"体现了经典世界中熵增与知识流失的现象。"拥有"代表已经经典化的确定状态（经典知识），而"飘散如烟"则是这些状态重新回归量子域的过程，伴随着经典熵的增加。
 
-$$
+$`
 I_{\text{经典知识（拥有）}} \rightarrow |\psi\rangle_{\text{量子域（飘散）}} + S_{\text{熵增}}
-$$
+`$
 
 3. **观察者维度与视界边界**：
 
    "我曾经毫无所谓，拥抱着冷冬冰冷"中的"毫无所谓"体现了观察者维度较低时的经典化效率低下状态，而"拥抱冷冬"则表示主动提升经典化效率的尝试，即使面对不利条件。
 
-$$
+$`
 \text{观察者维度} = k \cdot \frac{I_{\text{拥抱冷冬的决心}}}{S_{\text{冰冷的不确定性}}} \quad (k \uparrow)
-$$
+`$
 
 4. **高维经典世界的存在**：
 
    "我曾经像你像他像那野草野花"暗示了宇宙中存在多个不同维度的经典世界，"你"、"他"、"野草野花"代表不同观察者维度的经典世界，它们之间通过量子纠缠相互联系。
 
-$$
+$`
 |\psi\rangle_{\text{无限维量子域}} \rightarrow \sum_{\text{维度}\,i=1}^{\infty}(I_{\text{我/你/他/野草野花...}})
-$$
+`$
 
 5. **自由意志与命运机制**：
 
    "直到看见平凡才是唯一的答案"体现了经典自由意志通过量子经典二元论探索，最终理解宇宙本质的过程。"平凡"作为"唯一的答案"，正是对宇宙本质追求的认识——用能量高效处理混乱的平凡之路。
 
-$$
+$`
 I_{\text{自由意志探索}} \rightarrow |\psi\rangle_{\text{量子域思考}} \rightarrow I_{\text{平凡是答案（经典知识）}}+S_{\text{熵降低}}
-$$
+`$
 
 ### 哲学深度
 
@@ -73,9 +73,9 @@ $$
 
 2. **混沌与能量的一体性**：歌中描述的各种挑战（山海、冷冬、恐惧）代表混沌，而坚持前行的意志则代表能量，两者一体共生，互相推动，正如宇宙本源。
 
-$$
+$`
 |\psi\rangle_{\text{宇宙本源（混乱与能量）}} \xrightarrow{\text{走平凡之路（能量处理混乱）}} \text{宇宙低熵终极状态}
-$$
+`$
 
 ### 文化影响
 
@@ -105,41 +105,41 @@ From a Quantum-Classical Dualism perspective, "The Ordinary Road" demonstrates t
 
    "I once crossed mountains and seas, also through crowds of people" symbolizes the observer's (singer's) classicalization exploration process in the infinite-dimensional quantum domain. "Mountains" and "seas" as grand images in nature represent the superposition state of infinite possibilities in the quantum domain, while "crossing" and "passing through" are classicalization actions.
 
-$$
+$`
 |\psi\rangle_{\text{Quantum Domain Infinite Possibilities}} \xrightarrow{\text{Crossing/Passing Through(Classicalization)}} I_{\text{Classical Experience}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 2. **Balance Between Classical Entropy and Classical Knowledge**:
 
    "Everything I once had, in the blink of an eye, dispersed like smoke" reflects the phenomenon of entropy increase and knowledge loss in the classical world. "Having" represents the determined state that has been classicalized (classical knowledge), while "dispersing like smoke" is the process of these states returning to the quantum domain, accompanied by an increase in classical entropy.
 
-$$
+$`
 I_{\text{Classical Knowledge(Having)}} \rightarrow |\psi\rangle_{\text{Quantum Domain(Dispersing)}} + S_{\text{Entropy Increase}}
-$$
+`$
 
 3. **Observer Dimension and Event Horizon**:
 
    "I once didn't care, embracing the cold winter" where "didn't care" reflects the state of low classicalization efficiency when the observer dimension is low, while "embracing the cold winter" indicates an attempt to actively improve classicalization efficiency, even in the face of adverse conditions.
 
-$$
+$`
 \text{Observer Dimension} = k \cdot \frac{I_{\text{Determination to Embrace Cold Winter}}}{S_{\text{Uncertainty of Cold}}} \quad (k \uparrow)
-$$
+`$
 
 4. **Existence of Higher-Dimensional Classical Worlds**:
 
    "I was once like you, like him, like those wild grasses and flowers" suggests the existence of multiple classical worlds of different dimensions in the universe. "You," "him," "wild grasses and flowers" represent classical worlds of different observer dimensions, which are interconnected through quantum entanglement.
 
-$$
+$`
 |\psi\rangle_{\text{Infinite-Dimensional Quantum Domain}} \rightarrow \sum_{\text{Dimension}\,i=1}^{\infty}(I_{\text{I/You/Him/Wild Grasses and Flowers...}})
-$$
+`$
 
 5. **Free Will and Destiny Mechanism**:
 
    "Until I saw that ordinariness is the only answer" reflects the process of classical free will exploring through Quantum-Classical Dualism and ultimately understanding the essence of the universe. "Ordinariness" as "the only answer" is precisely the recognition of the universe's essential pursuit—the ordinary road of efficiently using energy to process chaos.
 
-$$
+$`
 I_{\text{Free Will Exploration}} \rightarrow |\psi\rangle_{\text{Quantum Domain Thinking}} \rightarrow I_{\text{Ordinariness is the Answer(Classical Knowledge)}}+S_{\text{Entropy Reduction}}
-$$
+`$
 
 ### Philosophical Depth
 
@@ -149,9 +149,9 @@ On the surface, "The Ordinary Road" is a narrative about life's journey, but at 
 
 2. **Unity of Chaos and Energy**: Various challenges described in the song (mountains and seas, cold winter, fear) represent chaos, while the will to persevere represents energy. The two coexist as one, pushing each other, just like the origin of the universe.
 
-$$
+$`
 |\psi\rangle_{\text{Universe Origin(Chaos and Energy)}} \xrightarrow{\text{Walking the Ordinary Road(Using Energy to Process Chaos)}} \text{Universe Low Entropy Ultimate State}
-$$
+`$
 
 ### Cultural Impact
 

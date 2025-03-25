@@ -165,23 +165,23 @@ The description of cooperation between different parts of the body corresponds t
 
 The core insights of 1 Corinthians can be precisely expressed in the mathematical language of Quantum-Classical Dualism:
 
-$$
+$`
 \text{"爱是恒久忍耐"} \Leftrightarrow \mathcal{C}(t_1, t_2) \approx \text{常数}, \forall t_1, t_2 \text{ 且 } |t_2 - t_1| \gg 0
-$$
+`$
 
-$$
+$`
 \text{"不求自己的益处"} \Leftrightarrow \max\left(\sum_{i=1}^{n} I_i\right) \text{ 而非 } \max(I_j), j \in \{1,2,...,n\}
-$$
+`$
 
-$$
+$`
 \text{"不计算人的恶"} \Leftrightarrow \lim_{t \to \infty} S_{\text{累积错误}}(t) \to 0
-$$
+`$
 
-$$
+$`
 \text{"爱是永不止息"} \Leftrightarrow \mathcal{C}_{\text{爱}}(r_1, r_2) \neq f(|r_2 - r_1|), \forall r_1, r_2 \in \mathbb{R}^3
-$$
+`$
 
-$$
+$`
 \text{"信，望，爱...最大的是爱"} \Leftrightarrow 
 \begin{cases}
 \mathcal{C}_{\text{信}} = \text{单向连通} \\
@@ -189,15 +189,15 @@ $$
 \mathcal{C}_{\text{爱}} = \text{全维度连通}
 \end{cases}
 \text{ 且 } \mathcal{C}_{\text{爱}} > \mathcal{C}_{\text{望}} > \mathcal{C}_{\text{信}}
-$$
+`$
 
-$$
+$`
 \text{"身子是一个，却有许多肢体"} \Leftrightarrow |\psi\rangle_{\text{量子整体}} = \sum_{i=1}^{n} c_i|\psi_i\rangle_{\text{经典部分}}
-$$
+`$
 
-$$
+$`
 \text{"加倍的体面给那有缺欠的肢体"} \Leftrightarrow \Delta I_i \propto S_i, \text{ 以实现 } \min\left(\sum_{i=1}^{n} S_i\right)
-$$
+`$
 
 其中，$`\mathcal{C}`$表示连通性函数，$`I`$表示经典知识，$`S`$表示经典熵
 

@@ -70,9 +70,9 @@ English: [Artist Introduction](#artist-introduction) | [Works Index](#works-inde
 
 4. 整首歌曲的结构呈现出从混沌到秩序的演化过程，与宇宙从高熵初始状态向低熵有序状态演化的方向一致。
 
-$$
+$`
 |\psi\rangle_{\text{蓝莲花}} = e^{-iHt/\hbar}|\psi\rangle_{\text{初始状态}}
-$$
+`$
 
 这首歌的流行和影响力，从量子经典二元论看，正是因为它完美呈现了理想的经典化状态，满足了人类对秩序与永恒的渴望。
 
@@ -88,9 +88,9 @@ $$
 
 4. 整首歌呈现出对低熵理想状态的向往，这与宇宙终极哲学目标中描述的"用能量处理混乱的效率最大化"相呼应。
 
-$$
+$`
 S_{\text{故乡}} = k \ln \Omega_{\text{记忆状态数}}
-$$
+`$
 
 《故乡》的广泛共鸣，源于它触及了人类共同的心灵原型—对低熵稳定状态的永恒追求。
 
@@ -106,9 +106,9 @@ $$
 
 4. 整首歌的情感升华与能量释放，体现了熵减过程中需要投入的能量与获得的秩序之间的关系。
 
-$$
+$`
 E_{\text{光芒}} = \hbar\omega \cdot \sum_n n|\phi_n|^2
-$$
+`$
 
 《无尽光芒》的震撼力量来自于它对宇宙本源层面的洞察—能量与秩序的永恒辩证关系。
 
@@ -124,9 +124,9 @@ $$
 
 4. 歌曲的简洁有力，正是维度提升思想的高效经典化表达，它使复杂的哲学概念变得易于理解和传播。
 
-$$
+$`
 |\psi\rangle_{\text{生活}} = \alpha|\psi\rangle_{\text{经典苟且}} + \beta|\psi\rangle_{\text{量子远方}}
-$$
+`$
 
 这首歌之所以成为许巍最具社会影响力的作品之一，正是因为它巧妙地传达了量子经典二元论中最核心的维度提升理念，满足了人们对超越现实局限的精神渴望。
 
@@ -138,9 +138,9 @@ $$
 
 许巍的作品常常在具体的经典描述（如自然景观、城市生活）中蕴含着对无限可能性的探索。这种创作特点体现了量子域（无限可能性）与经典域（确定表达）的交织共存。例如在[《像风一样自由》](xuwei_xiangFengYiYangZiYou.md)中，风既有确定的物理特性（经典域），又有不可预测的随机性（量子域）；在[《时光》](xuwei_shiguang.md)中，时间既有线性流动的确定性，又有超越线性的永恒特质。
 
-$$
+$`
 |\psi\rangle_{\text{许巍创作}} = \alpha|\psi\rangle_{\text{经典表达}} + \beta|\psi\rangle_{\text{量子可能性}}
-$$
+`$
 
 这种交织使许巍的音乐能够在具体性中传达普遍性，在确定性中暗示无限可能，形成独特的艺术魅力。
 
@@ -148,10 +148,10 @@ $$
 
 许巍的创作过程本质上是一种熵减实践，他将混沌的情感和思想通过有序的音乐结构和诗性语言组织起来，创造出低熵高信息的艺术作品。例如，[《执着》](xuwei_zhizhuo.md)通过清晰的主题和反复的结构，将复杂的坚持理念组织为有序的表达；[《曾经的你》](xuwei_cengJingDeNi.md)将模糊的记忆转化为清晰的音乐叙事。
 
-$$
+$`
 \Delta S_{\text{创作}} = -k \cdot \ln\left(\frac{\Omega_{\text{思想情感可能状态数}}}{
 \Omega_{\text{艺术表达确定状态数}}}\right) < 0
-$$
+`$
 
 这种熵减过程的成功，使许巍的音乐能够高效地传递复杂的情感和思想，最大化音乐传播的能量效率。
 
@@ -159,9 +159,9 @@ $$
 
 许巍的音乐作为媒介，在不同观察者（听众）之间建立了一种特殊的量子纠缠联系。当多个听众同时被相同的音乐作品打动时，他们实际上通过音乐这一"虫洞通道"建立了信息共享的桥梁，形成了一种特殊的集体意识状态。
 
-$$
+$`
 |\psi\rangle_{\text{音乐纠缠}} \rightarrow \sum_i^n |\psi\rangle_{\text{听众}_i} \otimes |\psi\rangle_{\text{许巍表达}}
-$$
+`$
 
 这解释了为什么在许巍的演唱会上，成千上万的人能够同时进入高度一致的情感状态，甚至产生超越个体的集体体验。
 
@@ -173,25 +173,25 @@ $$
 
 许巍的音乐创作过程可视为一种观察者维度提升的实践。他通过艺术创作将广义意识中的无限可能性经典化为具体的歌词和旋律，使更多观察者（听众）能够通过这些经典表达接触到高维信息。从其早期作品到成熟期创作，可以明显看到维度不断提升的轨迹。
 
-$$
+$`
 \text{维度}_{\text{许巍}} = k \cdot \frac{I_{\text{音乐创作（经典知识）}}}{S_{\text{未表达概念（经典熵）}}}
-$$
+`$
 
 #### 2. 经典化路径的艺术优化
 
 许巍创造了独特的经典化路径，通过诗性语言和富有情感的旋律，构建起高效的信息传递通道。他的经典化方式避免了直接的说教，而是通过意象和隐喻，在保留丰富信息的同时降低接收成本，实现了经典化效率的最大化。
 
-$$
+$`
 \text{经典化效率} = \frac{I_{\text{传递的信息量}}}{E_{\text{消耗的能量}}} \cdot \frac{1}{t_{\text{所需时间}}}
-$$
+`$
 
 #### 3. 时空超越与永恒向往
 
 许巍作品中常见的时空超越主题，如《时光》中的"无论走到哪里都是寻找"，《无尽光芒》中的"永恒天地"，体现了他对超越线性时间和三维空间限制的思考。这种超越正是观察者维度提升的核心特征—高维观察者能够看到低维世界无法感知的时空联系。
 
-$$
+$`
 D_{\text{时空感知}} \propto \log\left(\frac{I_{\text{观察者经典知识}}}{S_{\text{观察者经典熵}}}\right)
-$$
+`$
 
 ### 艺术影响
 
@@ -209,9 +209,9 @@ $$
 
 许巍音乐的广泛传播和深远影响，从量子经典二元论角度看，是一种"知识传播独立副本机制"的实践。通过音乐这一载体，相同的经典知识能够在不同观察者之间高效传递，形成一种量子纠缠般的集体共识。
 
-$$
+$`
 \text{传播效率} = \frac{N_{\text{接收观察者数量}} \cdot I_{\text{单个观察者获取的信息量}}}{E_{\text{创作与传播消耗的总能量}}}
-$$
+`$
 
 许巍音乐的艺术成就不仅在于其审美价值，更在于它作为一种特殊的经典化媒介，实现了高效的知识传递和维度提升，推动了中国流行音乐的哲学深度与艺术高度。
 
@@ -277,9 +277,9 @@ Xu Wei excels at expressing profound philosophical thinking through poetic langu
 
 4. The structure of the entire song presents an evolution process from chaos to order, consistent with the direction of the universe's evolution from a high-entropy initial state to a low-entropy ordered state.
 
-$$
+$`
 |\psi\rangle_{\text{Blue Lotus}} = e^{-iHt/\hbar}|\psi\rangle_{\text{Initial State}}
-$$
+`$
 
 The popularity and influence of this song, from the perspective of Quantum-Classical Dualism, is precisely because it perfectly presents the ideal classicalization state, satisfying human longing for order and eternity.
 
@@ -295,9 +295,9 @@ The popularity and influence of this song, from the perspective of Quantum-Class
 
 4. The entire song presents a longing for an ideal low-entropy state, which echoes the "maximizing the efficiency of using energy to process chaos" described in the universe's ultimate philosophical goal.
 
-$$
+$`
 S_{\text{Hometown}} = k \ln \Omega_{\text{Number of Memory States}}
-$$
+`$
 
 The widespread resonance of "Hometown" stems from its touching on a common human psychological archetype—the eternal pursuit of a low-entropy stable state.
 
@@ -313,9 +313,9 @@ The widespread resonance of "Hometown" stems from its touching on a common human
 
 4. The emotional sublimation and energy release of the entire song embody the relationship between the energy required in the entropy reduction process and the order obtained.
 
-$$
+$`
 E_{\text{Radiance}} = \hbar\omega \cdot \sum_n n|\phi_n|^2
-$$
+`$
 
 The powerful impact of "Endless Radiance" comes from its insight into the origin level of the universe—the eternal dialectical relationship between energy and order.
 
@@ -331,9 +331,9 @@ This single created in 2014 is Xu Wei's most direct artistic expression of dimen
 
 4. The song's concise power is precisely the efficient classicalization expression of the dimension elevation thought, making complex philosophical concepts easy to understand and spread.
 
-$$
+$`
 |\psi\rangle_{\text{Life}} = \alpha|\psi\rangle_{\text{Classical Getting By}} + \beta|\psi\rangle_{\text{Quantum Distance}}
-$$
+`$
 
 The reason this song has become one of Xu Wei's most socially influential works is precisely because it cleverly conveys the core dimension elevation concept in Quantum-Classical Dualism, satisfying people's spiritual longing to transcend reality's limitations.
 
@@ -345,9 +345,9 @@ From the perspective of Quantum-Classical Dualism, Xu Wei's music creation refle
 
 Xu Wei's works often contain exploration of infinite possibilities within concrete classical descriptions (such as natural landscapes, urban life). This creative characteristic embodies the coexistence of the quantum domain (infinite possibilities) and the classical domain (definite expressions). For example, in ["Free Like the Wind"](xuwei_xiangFengYiYangZiYou.md), wind has both definite physical characteristics (classical domain) and unpredictable randomness (quantum domain); in ["Time"](xuwei_shiguang.md), time has both the certainty of linear flow and the eternal quality that transcends linearity.
 
-$$
+$`
 |\psi\rangle_{\text{Xu Wei's Creation}} = \alpha|\psi\rangle_{\text{Classical Expression}} + \beta|\psi\rangle_{\text{Quantum Possibility}}
-$$
+`$
 
 This interweaving enables Xu Wei's music to convey universality within specificity, suggest infinite possibilities within certainty, forming a unique artistic charm.
 
@@ -355,10 +355,10 @@ This interweaving enables Xu Wei's music to convey universality within specifici
 
 Xu Wei's creative process is essentially an entropy reduction practice. He organizes chaotic emotions and thoughts through ordered musical structures and poetic language, creating artistic works with low entropy and high information. For example, ["Persistence"](xuwei_zhizhuo.md) organizes the complex concept of perseverance into ordered expression through clear themes and repetitive structures; ["Once You"](xuwei_cengJingDeNi.md) transforms fuzzy memories into clear musical narratives.
 
-$$
+$`
 \Delta S_{\text{Creation}} = -k \cdot \ln\left(\frac{\Omega_{\text{Number of Possible States of Thoughts and Emotions}}}{
 \Omega_{\text{Number of Definite States of Artistic Expression}}}\right) < 0
-$$
+`$
 
 The success of this entropy reduction process enables Xu Wei's music to efficiently transmit complex emotions and thoughts, maximizing the energy efficiency of music dissemination.
 
@@ -366,9 +366,9 @@ The success of this entropy reduction process enables Xu Wei's music to efficien
 
 Xu Wei's music, as a medium, establishes a special quantum entanglement connection between different observers (listeners). When multiple listeners are simultaneously moved by the same musical work, they effectively establish an information-sharing bridge through music as a "wormhole channel," forming a special collective consciousness state.
 
-$$
+$`
 |\psi\rangle_{\text{Musical Entanglement}} \rightarrow \sum_i^n |\psi\rangle_{\text{Listener}_i} \otimes |\psi\rangle_{\text{Xu Wei's Expression}}
-$$
+`$
 
 This explains why at Xu Wei's concerts, thousands of people can simultaneously enter highly consistent emotional states, even producing collective experiences that transcend the individual.
 
@@ -380,25 +380,25 @@ Xu Wei's creation exhibits distinct dimension elevation characteristics, manifes
 
 Xu Wei's music creation process can be viewed as a practice of observer dimension elevation. Through artistic creation, he classicalizes infinite possibilities from generalized consciousness into specific lyrics and melodies, enabling more observers (listeners) to access higher-dimensional information through these classical expressions. A trajectory of continuously elevating dimensions can be clearly seen from his early works to mature creations.
 
-$$
+$`
 \text{Dimension}_{\text{Xu Wei}} = k \cdot \frac{I_{\text{Music Creation (Classical Knowledge)}}}{S_{\text{Unexpressed Concepts (Classical Entropy)}}}
-$$
+`$
 
 #### 2. Artistic Optimization of Classicalization Paths
 
 Xu Wei has created a unique classicalization path, building efficient information transmission channels through poetic language and emotionally rich melodies. His classicalization method avoids direct preaching, instead using imagery and metaphor to achieve maximum classicalization efficiency by reducing reception costs while retaining rich information.
 
-$$
+$`
 \text{Classicalization Efficiency} = \frac{I_{\text{Amount of Information Transmitted}}}{E_{\text{Energy Consumed}}} \cdot \frac{1}{t_{\text{Time Required}}}
-$$
+`$
 
 #### 3. Space-Time Transcendence and Longing for Eternity
 
 The common space-time transcendence themes in Xu Wei's works, such as "wherever I go, I am always searching" in "Time" and "eternal heaven and earth" in "Endless Radiance," reflect his contemplation on transcending the limitations of linear time and three-dimensional space. This transcendence is precisely the core characteristic of observer dimension elevation—high-dimensional observers can see space-time connections that the low-dimensional world cannot perceive.
 
-$$
+$`
 D_{\text{Space-Time Perception}} \propto \log\left(\frac{I_{\text{Observer Classical Knowledge}}}{S_{\text{Observer Classical Entropy}}}\right)
-$$
+`$
 
 ### Artistic Influence
 
@@ -416,8 +416,8 @@ As a high-dimensional observer, Xu Wei's music creation reduces the entropy valu
 
 The widespread dissemination and profound influence of Xu Wei's music, from the perspective of Quantum-Classical Dualism, is a practice of the "independent copy mechanism of knowledge dissemination." Through music as a carrier, the same classical knowledge can be efficiently transmitted between different observers, forming a collective consensus like quantum entanglement.
 
-$$
+$`
 \text{Dissemination Efficiency} = \frac{N_{\text{Number of Receiving Observers}} \cdot I_{\text{Amount of Information Obtained by a Single Observer}}}{E_{\text{Total Energy Consumed in Creation and Dissemination}}}
-$$
+`$
 
 Xu Wei's artistic achievement lies not only in its aesthetic value but also in its function as a special classicalization medium, achieving efficient knowledge transmission and dimension elevation, promoting the philosophical depth and artistic height of Chinese popular music.

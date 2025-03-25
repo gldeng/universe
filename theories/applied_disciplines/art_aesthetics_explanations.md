@@ -27,10 +27,12 @@ In the Quantum-Classical Dualism framework, art is understood as a special form 
    **Art Creation Formula**:
 
    $$
+
    |\psi\rangle_{\text{艺术家意识}} \otimes |\psi\rangle_{\text{量子可能性}} \xrightarrow{\text{创造性经典化}} |\phi\rangle_{\text{艺术作品}} + S_{\text{创造性熵}}
    $$
 
    $$
+
    |\psi\rangle_{\text{Artist Consciousness}} \otimes |\psi\rangle_{\text{Quantum Possibilities}} \xrightarrow{\text{Creative Classicalization}} |\phi\rangle_{\text{Artwork}} + S_{\text{Creative Entropy}}
    $$
 
@@ -39,10 +41,12 @@ In the Quantum-Classical Dualism framework, art is understood as a special form 
    **Art Appreciation Formula**:
 
    $$
+
    |\psi\rangle_{\text{观众意识}} \otimes |\phi\rangle_{\text{艺术作品}} \xrightarrow{\text{审美经典化}} |\phi'\rangle_{\text{审美体验}} + S_{\text{审美熵}}
    $$
 
    $$
+
    |\psi\rangle_{\text{Audience Consciousness}} \otimes |\phi\rangle_{\text{Artwork}} \xrightarrow{\text{Aesthetic Classicalization}} |\phi'\rangle_{\text{Aesthetic Experience}} + S_{\text{Aesthetic Entropy}}
    $$
 
@@ -75,10 +79,12 @@ In the Quantum-Classical Dualism framework, beauty is understood as specific inf
    **Beauty Formula**:
 
    $$
+
    B = \frac{I_{\text{经典化信息}}}{S_{\text{经典化熵}}} \times E_{\text{情感响应}}
    $$
 
    $$
+
    B = \frac{I_{\text{Classicalized Information}}}{S_{\text{Classicalization Entropy}}} \times E_{\text{Emotional Response}}
    $$
 
@@ -115,10 +121,12 @@ In the Quantum-Classical Dualism framework, creativity is understood as a specia
    **Creativity Formula**:
 
    $$
+
    C = Q_{\text{量子可能性访问}} \times N_{\text{经典化新颖性}} \times E_{\text{经典化效率}}
    $$
 
    $$
+
    C = Q_{\text{Quantum Possibility Access}} \times N_{\text{Classicalization Novelty}} \times E_{\text{Classicalization Efficiency}}
    $$
 
@@ -155,10 +163,12 @@ In the Quantum-Classical Dualism framework, artistic experience is understood as
    **Artistic Experience Formula**:
 
    $$
+
    |\psi\rangle_{\text{观众}} \otimes |\phi\rangle_{\text{艺术作品}} \rightarrow |\psi'\rangle_{\text{观众'}} \otimes |\phi\rangle_{\text{艺术作品}}
    $$
 
    $$
+
    |\psi\rangle_{\text{Audience}} \otimes |\phi\rangle_{\text{Artwork}} \rightarrow |\psi'\rangle_{\text{Audience'}} \otimes |\phi\rangle_{\text{Artwork}}
    $$
 
@@ -195,10 +205,12 @@ In the Quantum-Classical Dualism framework, the evolution of art is understood a
    **Art Evolution Formula**:
 
    $$
+
    \frac{d}{dt}|\phi\rangle_{\text{艺术形式}} = f(D_{\text{集体维度}}, T_{\text{技术水平}}, C_{\text{文化背景}})
    $$
 
    $$
+
    \frac{d}{dt}|\phi\rangle_{\text{Art Form}} = f(D_{\text{Collective Dimension}}, T_{\text{Technology Level}}, C_{\text{Cultural Background}})
    $$
 

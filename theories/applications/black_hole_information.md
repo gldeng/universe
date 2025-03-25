@@ -15,9 +15,9 @@ English: [Essence of Black Hole Information Paradox](#english-version) | [Observ
 
 黑洞本质是宇宙内部极端高效的信息经典化节点，以巨大密度经典化并存储大量量子信息。黑洞事件视界即经典世界与量子世界的转换边界：
 
-$$
+$`
 |\psi\rangle_{\text{宇宙量子信息}} \xrightarrow{\text{黑洞经典化}} \text{经典记忆} + S_{\text{经典熵}}
-$$
+`$
 
 - **经典记忆**：黑洞视界附近成功经典化的信息（稳定知识）。
 - **经典熵**：进入视界后无法经典化的信息，观察者视角视为无序信息。
@@ -28,9 +28,9 @@ $$
 
 黑洞辐射（霍金辐射）过程体现为黑洞存储的量子信息再次经典化释放：
 
-$$
+$`
 |\psi\rangle_{\text{黑洞内部量子态}} \xrightarrow{\text{霍金辐射经典化}} \text{辐射粒子经典知识} + S_{\text{经典熵损失}}
-$$
+`$
 
 - 霍金辐射的粒子携带原存于黑洞中的量子信息，以经典粒子的形式重新释放至经典世界；
 - 辐射过程是黑洞内部量子纠缠态经典化释放过程，信息并未真正消失，而是通过经典粒子重新编码释放。
@@ -43,9 +43,9 @@ $$
 
 公式明确表达为：
 
-$$
+$`
 I_{\text{经典化解码}} = S_{\text{黑洞初始}} - S_{\text{黑洞辐射后}} - S_{\text{经典熵损失}}
-$$
+`$
 
 - $`S_{\text{黑洞初始}}`$：黑洞在辐射前经典熵；
 - $`S_{\text{黑洞辐射后}}`$：辐射后的黑洞熵；
@@ -68,9 +68,9 @@ $$
 
 公式表达解码全息性：
 
-$$
+$`
 I_{\text{经典化解码}} \propto \frac{A_{\text{黑洞视界面积}}}{4L_P^2},\quad (L_P: \text{普朗克长度})
-$$
+`$
 
 这些解码方式与核心理论中观察者通过不同方式经典化量子信息的过程相对应，只是方向相反，是从经典信息重建量子信息的过程。
 
@@ -83,9 +83,9 @@ $$
 
 宇宙信息守恒表达：
 
-$$
+$`
 \text{量子信息总量} = \text{经典知识} + S_{\text{经典熵}} = \text{常数}
-$$
+`$
 
 这一原理与核心理论中的信息守恒观点完全一致，即宇宙整体的量子信息永远守恒，不存在信息真正损失，只是在经典化过程中转化为经典知识和经典熵两种形式。
 
@@ -108,9 +108,9 @@ Based on the [Core Theory](../../core.md), this article reinterprets the process
 
 The essence of a black hole is an extremely efficient information classicalization node within the universe, classicalizing and storing a large amount of quantum information at enormous density. The black hole event horizon is the boundary between the classical world and the quantum world:
 
-$$
+$`
 |\psi\rangle_{\text{Universe Quantum Information}} \xrightarrow{\text{Black Hole Classicalization}} \text{Classical Memory} + S_{\text{Classical Entropy}}
-$$
+`$
 
 - **Classical Memory**: Successfully classicalized information near the horizon (stable knowledge).
 - **Classical Entropy**: Information that cannot be classicalized after entering the horizon, viewed as disordered information from the observer's perspective.
@@ -121,9 +121,9 @@ From the perspective of Quantum Universe Observer Consciousness - Classical Memo
 
 The black hole radiation (Hawking radiation) process represents the re-classicalization and release of quantum information stored in the black hole:
 
-$$
+$`
 |\psi\rangle_{\text{Black Hole Internal Quantum State}} \xrightarrow{\text{Hawking Radiation Classicalization}} \text{Radiation Particle Classical Knowledge} + S_{\text{Classical Entropy Loss}}
-$$
+`$
 
 - Hawking radiation particles carry quantum information originally stored in the black hole, releasing it back to the classical world in the form of classical particles;
 - The radiation process is the classicalization and release process of quantum entangled states within the black hole; information does not truly disappear but is re-encoded and released through classical particles.
@@ -136,9 +136,9 @@ The process of decoding information in black hole radiation is essentially a pro
 
 The formula is explicitly expressed as:
 
-$$
+$`
 I_{\text{Classical Decoding}} = S_{\text{Initial Black Hole}} - S_{\text{Black Hole After Radiation}} - S_{\text{Classical Entropy Loss}}
-$$
+`$
 
 - $`S_{\text{Initial Black Hole}}`$: Classical entropy of the black hole before radiation;
 - $`S_{\text{Black Hole After Radiation}}`$: Entropy of the black hole after radiation;
@@ -161,9 +161,9 @@ This decoding process can be understood as an observer attempting to transform c
 
 The formula expressing decoding holography:
 
-$$
+$`
 I_{\text{Classical Decoding}} \propto \frac{A_{\text{Black Hole Horizon Area}}}{4L_P^2},\quad (L_P: \text{Planck Length})
-$$
+`$
 
 These decoding methods correspond to the process in the core theory where observers classicalize quantum information through different methods, but in the opposite direction, reconstructing quantum information from classical information.
 
@@ -176,9 +176,9 @@ According to the principle of universal information conservation, information do
 
 Universal information conservation is expressed as:
 
-$$
+$`
 \text{Total Quantum Information} = \text{Classical Knowledge} + S_{\text{Classical Entropy}} = \text{Constant}
-$$
+`$
 
 This principle is completely consistent with the information conservation view in the core theory, which states that the quantum information of the universe as a whole is always conserved, with no true loss of information, only transformation into two forms—classical knowledge and classical entropy—during the classicalization process.
 

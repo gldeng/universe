@@ -35,31 +35,31 @@
 
 1. **自然的二元性**：歌德对自然的理解可以映射到量子域与经典域的二元性上：
 
-$$
+$`
 \text{自然} = \Omega_Q(\text{无限可能性}) \cup \Omega_C(\text{现实确定性})
-$$
+`$
 
 歌德的泛神论观点与量子经典二元论中自然作为量子-经典连续体的观念高度一致。
 
 2. **《浮士德》中的二元对立**：浮士德与魔鬼梅菲斯特的契约代表了一种量子-经典交互，可表达为：
 
-$$
+$`
 |\psi\rangle_{\text{浮士德}} \otimes |\psi\rangle_{\text{梅菲斯特}} \rightarrow |\Psi_{\text{纠缠}}\rangle = \sum_{ij} c_{ij}|i\rangle_{\text{浮士德}}|j\rangle_{\text{梅菲斯特}}
-$$
+`$
 
 3. **观察者与自然的关系**：歌德的科学方法强调观察者参与，这与量子经典二元论中观察者引起经典化的机制相呼应：
 
-$$
+$`
 |\psi\rangle_{\text{自然}} \xrightarrow{\text{歌德式观察}} I_{\text{诗性科学知识}} + S_{\text{残留未解之谜}}
-$$
+`$
 
 4. **极性与提升**：歌德哲学中的"极性"（Polarität）与"提升"（Steigerung）概念对应量子-经典二元论中的：
    - 极性：量子态与经典态的二元对立
    - 提升：观察者维度的提升过程
 
-$$
+$`
 D_{\text{认知维度}} = f\left(\frac{\text{极性统一能力}}{\text{片面执着程度}}\right) \cdot \frac{I_{\text{整体认知}}}{S_{\text{碎片认知}}+\epsilon}
-$$
+`$
 
 ### 现代意义
 
@@ -96,31 +96,31 @@ From the perspective of Quantum-Classical Dualism (version 31.0), Goethe's thoug
 
 1. **Duality of Nature**: Goethe's understanding of nature can be mapped to the duality of quantum domain and classical domain:
 
-$$
+$`
 \text{Nature} = \Omega_Q(\text{Infinite Possibilities}) \cup \Omega_C(\text{Reality Determinism})
-$$
+`$
 
 Goethe's pantheistic view aligns highly with the notion of nature as a quantum-classical continuum in quantum-classical dualism.
 
 2. **Duality Opposition in "Faust"**: Faust's pact with the devil Mephistopheles represents a quantum-classical interaction, expressible as:
 
-$$
+$`
 |\psi\rangle_{\text{Faust}} \otimes |\psi\rangle_{\text{Mephistopheles}} \rightarrow |\Psi_{\text{Entanglement}}\rangle = \sum_{ij} c_{ij}|i\rangle_{\text{Faust}}|j\rangle_{\text{Mephistopheles}}
-$$
+`$
 
 3. **Relationship Between Observer and Nature**: Goethe's scientific method emphasizes observer participation, echoing the mechanism of observer-induced classicalization in quantum-classical dualism:
 
-$$
+$`
 |\psi\rangle_{\text{Nature}} \xrightarrow{\text{Goethean Observation}} I_{\text{Poetic Scientific Knowledge}} + S_{\text{Remaining Mysteries}}
-$$
+`$
 
 4. **Polarity and Enhancement**: The concepts of "polarity" (Polarität) and "enhancement" (Steigerung) in Goethe's philosophy correspond to quantum-classical dualism in:
    - Polarity: Binary opposition of quantum state and classical state
    - Enhancement: The process of observer dimension elevation
 
-$$
+$`
 D_{\text{Cognitive Dimension}} = f\left(\frac{\text{Polarity Unification Ability}}{\text{Partial Attachment Degree}}\right) \cdot \frac{I_{\text{Holistic Cognition}}}{S_{\text{Fragmentary Cognition}}+\epsilon}
-$$
+`$
 
 ### Modern Significance
 

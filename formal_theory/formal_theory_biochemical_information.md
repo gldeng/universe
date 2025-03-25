@@ -23,9 +23,9 @@
 
 生物化学信息系统 $`\mathcal{B}`$ 可形式化定义为：
 
-$$
+$`
 \mathcal{B} = (\mathcal{B}_Q, \mathcal{B}_C, \mathcal{I}_B, \mathcal{E})
-$$
+`$
 
 其中：
 - $`\mathcal{B}_Q`$ 是生物系统的量子域部分（分子轨道、电子转移、量子隧穿）
@@ -38,27 +38,27 @@ $$
 **公理1: 生物信息二元性**
 生物分子信息同时具有量子和经典两种基本形式：
 
-$$
+$`
 \mathcal{B} = \mathcal{B}_Q \diamond \mathcal{B}_C
-$$
+`$
 
 其中 $`\diamond`$ 表示生物量子-经典信息联结操作。
 
 **公理2: 生物分子量子叠加原理**
 生物分子在微观层面存在于多个构象和反应路径的叠加态：
 
-$$
+$`
 |\Psi_B\rangle = \sum_i \alpha_i |S_i\rangle
-$$
+`$
 
 其中 $`|S_i\rangle`$ 是分子状态基矢，$`\alpha_i`$ 是复振幅。
 
 **公理3: 生物信息经典化原理**
 生物功能表达是量子态经典化为确定生物效应的过程：
 
-$$
+$`
 \rho_B = \mathcal{M}(|\Psi_B\rangle\langle\Psi_B|)
-$$
+`$
 
 其中 $`\mathcal{M}`$ 是生物环境诱导的经典化过程，$`\rho_B`$ 是经典化后的生物效应密度矩阵。
 
@@ -66,23 +66,23 @@ $$
 
 生物分子信息处理涉及量子-经典信息的动态转换，可通过以下方程描述：
 
-$$
+$`
 \mathcal{I}(B) = \mathcal{I}_Q(B) + \mathcal{I}_C(B) - \mathcal{I}_{QC}(B)
-$$
+`$
 
 其中 $`\mathcal{I}(B)`$ 是总生物信息，$`\mathcal{I}_Q(B)`$ 是量子生物信息，$`\mathcal{I}_C(B)`$ 是经典生物信息，$`\mathcal{I}_{QC}(B)`$ 是量子-经典信息重叠。
 
 DNA复制、转录和翻译过程可形式化为：
 
-$$
+$`
 \mathcal{T}: \mathcal{I}_{DNA} \rightarrow \mathcal{I}_{RNA} \rightarrow \mathcal{I}_{蛋白质}
-$$
+`$
 
 其中每一步都包含量子-经典信息转换：
 
-$$
+$`
 \mathcal{T} = \mathcal{T}_Q \circ \mathcal{T}_C
-$$
+`$
 
 ## DNA与RNA的量子-经典二重性
 
@@ -100,29 +100,29 @@ DNA和RNA分子展现显著的量子-经典二重性：
 
 DNA经典化过程可表示为：
 
-$$
+$`
 \rho_{DNA} = \sum_i p_i |DNA_i\rangle\langle DNA_i|
-$$
+`$
 
 其中经典化概率与环境参数相关：
 
-$$
+$`
 p_i = f(T, pH, [离子], \mathcal{E}_{生物})
-$$
+`$
 
 ## 蛋白质折叠的信息动力学
 
 蛋白质折叠是量子-经典信息转换的典型过程，可用以下信息熵方程描述：
 
-$$
+$`
 S_{折叠} = S_{初始} - \int_{t_0}^{t_f} \mathcal{I}_{QC}(t) dt
-$$
+`$
 
 其中 $`\mathcal{I}_{QC}(t)`$ 是折叠过程中量子-经典信息流，表示为：
 
-$$
+$`
 \mathcal{I}_{QC}(t) = \eta \cdot \text{Tr}[\rho_Q(t) \ln \rho_C(t)]
-$$
+`$
 
 $`\eta`$ 是量子-经典耦合系数。
 
@@ -130,15 +130,15 @@ $`\eta`$ 是量子-经典耦合系数。
 
 生物系统通过维持量子-经典信息动态平衡来对抗熵增：
 
-$$
+$`
 \Delta S_{生物} + \Delta \mathcal{I}_{生物} \geq 0
-$$
+`$
 
 其中信息增益来自量子-经典协同效应：
 
-$$
+$`
 \Delta \mathcal{I}_{生物} = \alpha \Delta \mathcal{I}_Q + \beta \Delta \mathcal{I}_C + \gamma \Delta \mathcal{I}_{QC}
-$$
+`$
 
 $`\alpha`$、$`\beta`$ 和 $`\gamma`$ 是权重系数。
 

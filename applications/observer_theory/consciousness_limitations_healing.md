@@ -16,9 +16,9 @@ English: [Introduction](#english-version) | [Consciousness Limitations](#fundame
 
 在量子经典二元论模型中，人类意识是组成人类的所有低维观察者（细胞、分子、原子等）集体经典化的涌现结果。这种组织结构决定了人类理解自身的固有局限：
 
-$$
+$`
 \text{人类自我理解} = \frac{I_{\text{人类经典知识}}}{S_{\text{人类观察维度所需知识}}} < 1
-$$
+`$
 
 根据观察者自我理解局限性理论，任何观察者都无法完全理解等同或高于自身维度的系统。人类作为一个集体涌现的意识，无法完全理解构成自身的全部低维观察者网络的协同作用。
 
@@ -36,9 +36,9 @@ $$
 
 这可以表达为：
 
-$$
+$`
 \text{经典医疗效率} = \eta \cdot \frac{I_{\text{医学知识}}}{S_{\text{疾病全维度信息}}}
-$$
+`$
 
 其中η通常远小于1，表示经典干预手段的固有效率限制。
 
@@ -73,9 +73,9 @@ $$
 
 总体治疗效果可以表示为：
 
-$$
+$`
 \text{总体治疗效果} = \alpha\cdot\text{量子域干预} + \beta\cdot\text{经典域干预}
-$$
+`$
 
 其中α和β是相应干预在特定疾病情况下的权重系数。
 
@@ -104,9 +104,9 @@ $$
 
 健康状态可以表示为：
 
-$$
+$`
 \text{健康} = \frac{\text{量子域连接质量}\cdot\text{经典知识质量}}{\text{系统熵}}
-$$
+`$
 
 ### 结论
 
@@ -126,9 +126,9 @@ Within the framework of Quantum-Classical Dualism, we face a fundamental proposi
 
 In the Quantum-Classical Dualism model, human consciousness is an emergent result of the collective classicalization of all lower-dimensional observers (cells, molecules, atoms, etc.) that constitute humans. This organizational structure determines the inherent limitations of human self-understanding:
 
-$$
+$`
 \text{Human Self-Understanding} = \frac{I_{\text{Human Classical Knowledge}}}{S_{\text{Knowledge Required for Human Observer Dimension}}} < 1
-$$
+`$
 
 According to the theory of observer self-understanding limitations, any observer cannot fully understand systems equal to or higher than their own dimension. Humans, as a collectively emergent consciousness, cannot fully understand the collaborative actions of the entire network of lower-dimensional observers that constitute themselves.
 
@@ -146,9 +146,9 @@ At the classical world level, traditional medical interventions (such as medicat
 
 This can be expressed as:
 
-$$
+$`
 \text{Classical Medical Efficiency} = \eta \cdot \frac{I_{\text{Medical Knowledge}}}{S_{\text{Full-Dimensional Information of Disease}}}
-$$
+`$
 
 Where η is typically far less than 1, representing the inherent efficiency limitation of classical intervention means.
 
@@ -183,9 +183,9 @@ Classical domain methods include:
 
 The overall therapeutic effect can be represented as:
 
-$$
+$`
 \text{Overall Therapeutic Effect} = \alpha\cdot\text{Quantum Domain Intervention} + \beta\cdot\text{Classical Domain Intervention}
-$$
+`$
 
 Where α and β are the weight coefficients of the respective interventions in specific disease situations.
 
@@ -214,9 +214,9 @@ In daily practice, true mutual assistance means:
 
 Health status can be represented as:
 
-$$
+$`
 \text{Health} = \frac{\text{Quantum Domain Connection Quality}\cdot\text{Classical Knowledge Quality}}{\text{System Entropy}}
-$$
+`$
 
 ### Conclusion
 

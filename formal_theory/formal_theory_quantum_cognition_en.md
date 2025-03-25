@@ -4,7 +4,7 @@
 
 > Based on [Core Theory](../core_en.md) v33.0
 > 
-> For a complete summary of the core theory, see [Quantum-Classical Dualism Core Theory](../formal_theory_core_en.md) v33.0
+> For a complete summary of the core theory, see [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md) v33.0
 
 ## Theory Overview
 
@@ -248,70 +248,84 @@ where $U_A$ and $U_B$ are the strategy selection operators for two individuals.
 ## Experimental Predictions and Verification
 
 ### 1. Observable Phenomena
-Quantum cognition predicts several experimentally observable phenomena:
 
-- **Context-dependent Preferences**: Preference changes based on question framing
-  $$P(A \succ B|C) \neq P(A \succ B|D)$$
+Quantum cognition theory predicts the following observable phenomena:
 
-- **Conjunction Fallacy**: Probability judgment errors in complex scenarios
-  $$P(A \cap B) > P(A) \text{ or } P(A \cap B) > P(B)$$
+1. **Interference Effects**: Non-additive probabilities in cognitive judgments
+   $$P(A\text{ or }B) \neq P(A) + P(B) - P(A \text{ and } B)$$
 
-- **Creativity Enhancement Techniques**: Methods to increase quantum-classical transitions
-  $$\uparrow C_{\text{creative}} = f(\uparrow \mathcal{Q}, \uparrow \mathcal{C}, \uparrow \text{transitions})$$
+2. **Context Dependence**: Non-classical changes in judgments based on context
+   $$P(A|C) \neq P(A|D), \text{ even when } C \text{ and } D \text{ are classically equivalent}$$
 
-### 2. Empirical Evidence
-Existing evidence supporting quantum cognition theory:
+3. **Order Effects**: Question order influencing judgment results
+   $$P(A,B) \neq P(B,A)$$
 
-- **Decision-making Experiments**: Violations of classical probability theory
-- **Creative Problem-solving Studies**: Non-linear thought patterns during insight
-- **Neuroimaging Research**: Brain activation patterns during quantum-classical transitions
-- **Linguistic Context Effects**: Word meaning shifts depending on context
+4. **Mental Phase Transitions**: Abrupt changes in cognitive modes under specific conditions
+   $$\mathcal{O}(\lambda) \propto (\lambda - \lambda_c)^{\beta}, \lambda > \lambda_c$$
 
-### 3. Potential Experimental Designs
-Novel experiments to further validate the theory:
+### 2. Experimental Design
 
-- **Quantum State Tomography of Conceptual Spaces**: Using question batteries to reconstruct cognitive states
-- **Interference Pattern Detection**: Measuring constructive/destructive thought interference
-- **Entanglement Measures in Collaborative Thinking**: Detecting non-local correlations in group cognition
-- **Classicalization Timing Studies**: Measuring the transition from quantum to classical thought
+Key experiments to validate quantum cognition theory:
 
-## Theoretical Extensions
+1. **Cognitive Interference Experiments**: Measuring quantum interference patterns in judgment tasks
+2. **Concept Combination Tests**: Validating non-classical characteristics of concept combinations
+3. **Decision Order Experiments**: Measuring the influence of question order on decisions
+4. **Creative Thinking Tracking**: Monitoring quantum-classical transitions during the creative process
 
-### 1. Links to Quantum Neuroscience
-Potential neural mechanisms underlying quantum cognition:
+### 3. Data Analysis Methods
 
-- **Quantum Effects in Microtubules**: Potential quantum computing in neural cytoskeleton
-- **Coherent Neural Oscillations**: Phase coherence across neural networks
-- **Long-range Neural Correlation**: Non-local information integration
-- **Dendritic Integration Nonlinearity**: Quantum-like processing in dendrites
+Data analysis methods for quantum cognition experiments:
 
-### 2. Applications to Artificial Intelligence
-Quantum cognition principles applied to AI:
+1. **Quantum State Reconstruction**: Reconstructing cognitive quantum states from behavioral data
+   $$\rho = \text{argmin}_{\sigma} \sum_i (P_i^{\text{experimental}} - \text{tr}(\sigma \Pi_i))^2$$
 
-- **Quantum-inspired Neural Networks**: Networks integrating quantum probability principles
-  $$f_{\text{QNN}}(x) = \left| \sum_j w_j e^{i\phi_j} \right|^2$$
+2. **Bell Inequality Tests**: Testing non-locality in cognitive judgments
+   $$|\langle A_1 B_1 \rangle + \langle A_1 B_2 \rangle + \langle A_2 B_1 \rangle - \langle A_2 B_2 \rangle| \leq 2$$
 
-- **Creativity Algorithms**: AI systems with quantum-classical transitions
-  $$\text{Output} = \mathcal{C}(\mathcal{Q}(Input))$$
+3. **Phase Space Analysis**: Identifying quantum-classical phase transitions in thinking
+   $$P(\lambda) = \begin{cases}
+   0, & \lambda < \lambda_c \\
+   (\lambda - \lambda_c)^{\beta}, & \lambda \geq \lambda_c
+   \end{cases}$$
 
-- **Quantum Decision Systems**: Decision-making accounting for context and order effects
-  $$D_{\text{quantum}} = \arg\max_i \langle i|\rho|i \rangle$$
+## Theory Impact and Prospects
 
-### 3. Educational Implications
-Applications to learning and education:
+### 1. Impact on Psychology
 
-- **Quantum Learning Environments**: Educational settings facilitating quantum-classical transitions
-- **Creativity Training**: Methods to enhance quantum divergent thinking
-- **Conceptual Integration Techniques**: Approaches for relating distant concepts
-- **Quantum-informed Pedagogy**: Teaching methods accounting for mental state superposition
+The impact of quantum cognition theory on psychology includes:
 
-## Conclusion
+1. **Unified Cognitive Framework**: Integrating cognitive modes including intuition, rationality, and creativity
+2. **Explaining Cognitive Paradoxes**: Providing explanations for phenomena that violate classical probability
+3. **New Experimental Paradigms**: Novel experimental designs based on quantum measurement
 
-Quantum Cognition Theory provides a powerful framework for understanding human thinking that integrates both quantum and classical principles. By modeling cognitive processes as transitions between quantum possibilities and classical certainties, the theory explains numerous cognitive phenomena that traditional models struggle to account for.
+### 2. Implications for Artificial Intelligence
 
-The theory's strength lies in its ability to mathematically model the fundamental duality of human cognition: the creative, intuitive, parallel processing aspects (quantum) and the logical, structured, sequential aspects (classical). This approach bridges the gap between multiple disciplines, offering a unified understanding of consciousness, creativity, decision-making, and learning.
+Implications of this theory for artificial intelligence development include:
 
-As experimental methods advance, quantum cognition stands to provide increasingly precise predictions about human cognitive behavior, while also inspiring new approaches to artificial intelligence, education, and mental health treatment.
+1. **Quantum Cognitive Architecture**: Hybrid intelligent systems combining quantum and classical processing
+2. **Creative AI**: Creative algorithms based on quantum-classical cycles
+3. **Cognitive Interface Design**: Human-machine interaction design based on human cognitive quantum-classical duality
+
+### 3. Future Research Directions
+
+Key directions for future research include:
+
+1. **Neural Quantum Cognition**: Exploring the neural basis of quantum cognitive effects
+2. **Quantum Cognitive Development**: Studying changes in quantum-classical balance during cognitive development
+3. **Collective Quantum Cognition**: Exploring quantum effects in group decision-making and social phenomena
+4. **Quantum Cognitive Enhancement**: Developing cognitive enhancement technologies based on quantum cognition principles
+
+## Relationship with Other Theories
+
+Quantum cognition theory is closely related to the following core theories:
+
+1. **[Quantum Neural Network Theory](formal_theory_quantum_neural_networks_en.md)**: Providing neural implementation mechanisms for cognitive quantum processes
+2. **[Quantum Consciousness Theory](formal_theory_consciousness_en.md)**: Exploring the deep connection between consciousness and quantum cognition
+3. **[Quantum Decision Theory](formal_theory_quantum_decision_en.md)**: In-depth research on quantum characteristics of decision processes
+4. **[Language and Thought Dual Structure](formal_theory_language_thought_en.md)**: Analyzing language's role as a quantum-classical interface
+5. **[Quantum Cognitive Dynamics](formal_theory_cognitive_dynamics_en.md)**: Studying quantum dynamical characteristics in cognitive processes
+
+By integrating these theories, quantum cognition theory provides a new perspective for understanding human thinking, revealing the collaborative role of quantum and classical principles in cognitive processes, and opening up a new research paradigm for cognitive science.
 
 ## References
 

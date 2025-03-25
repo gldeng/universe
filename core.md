@@ -2,7 +2,9 @@
 
 **[English Version](core_en.md) | 中文版**
 
-> 本文档基于[形式化理论](formal_theory_core.md) v31.0进行整合
+> 本文档基于[形式化理论](formal_theory_core.md) v33.0进行整合
+
+**相关理论文件:** [量子经典二元论最小子集核心理论](quantum_classical_dualism_formal_axioms.md) | [形式化理论](formal_theory_core.md)
 
 ## 目录
 

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: (第十四世) 1935年7月6日 - 至今
-**国籍 (Nationality)**: 藏族、印度 (Tibetan, Indian)
-**领域 (Fields)**: 宗教、哲学、和平主义、藏传佛教
+**生平 (Life Span)**: (第十四世) 1935年7月6日 - 至今  
+**国籍 (Nationality)**: 藏族、印度 (Tibetan, Indian)  
+**领域 (Fields)**: 宗教、哲学、和平主义、藏传佛教  
 **代表作品/成就 (Representative Works/Achievements)**: 《宇宙之舞》、《慈悲的力量》、《伦理与新世纪》、1989年诺贝尔和平奖
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我的宗教很简单，我的宗教就是仁慈。"
->
+> 
 > "My religion is very simple. My religion is kindness."
 
 > "当你意识到相互依存的本质，你就不能不对所有众生产生责任感。"
->
+> 
 > "When you recognize the interdependent nature of reality, you cannot help but feel a sense of responsibility toward all beings."
 
 > "如果你想要让他人幸福，修习慈悲；如果你想要自己幸福，也修习慈悲。"
->
+> 
 > "If you want others to be happy, practice compassion. If you want to be happy, practice compassion."
 
 > "世界上的每一个问题从根本上说都是意识的问题。"
->
+> 
 > "Every problem in the world is fundamentally a problem of consciousness."
 
 > "科学与佛教相似之处在于，它们都不接受创造者的概念，而是相信自然律。"
->
+> 
 > "Both science and Buddhism share a fundamental reluctance to postulate a transcendent being as the origin of all things, and a belief in causality and natural law."

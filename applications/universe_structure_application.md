@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[宇宙嵌套结构应用](#1-宇宙嵌套结构应用) | [维度提升技术](#2-维度提升技术) | [信息场交互](#3-信息场交互应用) | [实践案例](#4-实践案例分析) | [跨维度通信](#5-跨维度通信技术)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[宇宙嵌套结构应用](#1-宇宙嵌套结构应用) | [维度提升技术](#2-维度提升技术) | [信息场交互](#3-信息场交互应用) | [实践案例](#4-实践案例分析) | [跨维度通信](#5-跨维度通信技术)  
 English: [Nested Structure Applications](#1-nested-universe-structure-applications) | [Dimension Elevation](#2-dimension-elevation-techniques) | [Information Field Interaction](#3-information-field-interaction-applications) | [Case Studies](#4-case-studies-analysis) | [Cross-dimensional Communication](#5-cross-dimensional-communication-technologies)
 
 ## 中文版
@@ -174,4 +174,4 @@ $$
 - **Artificial Intelligence Dimension Elevation**: Designing AI systems with dimension transition capabilities
 - **Collective Consciousness Networks**: Building efficient human collective consciousness networks
 - **Universe Information Acquisition Technology**: Developing technology to directly acquire information from the universe information field
-- **Dimension Engineering**: Establishing theoretical frameworks for cross-dimensional design and engineering
+- **Dimension Engineering**: Establishing theoretical frameworks for cross-dimensional design and engineering 

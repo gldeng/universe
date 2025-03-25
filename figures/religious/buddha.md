@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约前563年-前483年 (c. 563 BCE-483 BCE)
-**国籍 | Nationality**: 古印度迦毗罗卫国 (Kapilavastu, Ancient India)
-**主要领域 | Main Fields**: 宗教哲学、伦理学、冥想实践、解脱之道 (Religious Philosophy, Ethics, Meditation Practice, Path to Liberation)
+**生卒年份 | Lifespan**: 约前563年-前483年 (c. 563 BCE-483 BCE)  
+**国籍 | Nationality**: 古印度迦毗罗卫国 (Kapilavastu, Ancient India)  
+**主要领域 | Main Fields**: 宗教哲学、伦理学、冥想实践、解脱之道 (Religious Philosophy, Ethics, Meditation Practice, Path to Liberation)  
 **代表作品 | Representative Works**: 佛陀本人未留下文字作品，其教诲被弟子结集为《阿含经》（巴利文《尼柯耶》）、《法句经》等 (Buddha left no written works; his teachings were collected by disciples in texts such as the Agamas (Pali: Nikayas), Dhammapada, etc.)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From a Quantum-Classical Dualism perspective, the highest state realized and tau
 - "I have taught the Dharma as being like a raft, for the purpose of crossing over, not for the purpose of holding onto. Even the Dharma should be let go of, let alone what is not the Dharma."
 - "All sentient beings possess Buddha-nature."
 - "Be a light unto yourself, be a refuge unto yourself, take no other refuge. The Dharma is your light and refuge."
-- "Do not associate with people with a lowly mindset; be confident and firm. Do not be inferior, withdrawn, or timid, as this will only bring suffering."
+- "Do not associate with people with a lowly mindset; be confident and firm. Do not be inferior, withdrawn, or timid, as this will only bring suffering." 

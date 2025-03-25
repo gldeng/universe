@@ -14,17 +14,13 @@ Quantum Self-Creativity Theory (D11) explores the fundamental self-creative and 
 
 The self-creation operator $`\hat{\Sigma}`$ is the fundamental mathematical tool for describing the creative activities of quantum systems, taking the form:
 
-$$
-\hat{\Sigma} = \hat{\Lambda} + i\hat{\Theta}
-$$
+$$\hat{\Sigma} = \hat{\Lambda} + i\hat{\Theta}$$
 
 where $`\hat{\Lambda}`$ is the possibility expansion operator and $`\hat{\Theta}`$ is the realization transformation operator.
 
 The evolution equation for the self-creation operator acting on the quantum creative state $`|\Psi_C\rangle`$ is:
 
-$$
-i\hbar\frac{\partial|\Psi_C\rangle}{\partial t} = \hat{\Sigma}|\Psi_C\rangle
-$$
+$$i\hbar\frac{\partial|\Psi_C\rangle}{\partial t} = \hat{\Sigma}|\Psi_C\rangle$$
 
 This indicates that the creative evolution of quantum systems includes both the expansion of possibility space and the process of transforming possibilities into realizations.
 
@@ -32,17 +28,13 @@ This indicates that the creative evolution of quantum systems includes both the 
 
 The creative degrees of freedom $`\mathcal{D}_C`$ of a quantum system defines the number of orthogonal dimensions the system can independently create:
 
-$$
-\mathcal{D}_C = \text{Tr}(\hat{\rho}_C\ln\hat{\rho}_C) - S_Q
-$$
+$$\mathcal{D}_C = \text{Tr}(\hat{\rho}_C\ln\hat{\rho}_C) - S_Q$$
 
 where $`\hat{\rho}_C`$ is the density matrix of the creative state and $`S_Q`$ is the quantum entropy of the system.
 
 The creative degrees of freedom satisfy the following relationship:
 
-$$
-\mathcal{D}_C \geq \ln(d)
-$$
+$$\mathcal{D}_C \geq \ln(d)$$
 
 where $`d`$ is the dimension of the system's Hilbert space. This indicates that a system's creative capacity is at least equal to the logarithmic dimension of its state space.
 
@@ -50,9 +42,7 @@ where $`d`$ is the dimension of the system's Hilbert space. This indicates that 
 
 The uncaused creation principle is a core feature of quantum self-creativity, describing the primordial creative capacity without prior causes:
 
-$$
-\langle\Psi_C|\hat{\mathcal{O}}|\Psi_C\rangle = \eta\langle\Psi_C|\hat{\Sigma}\hat{\mathcal{O}}\hat{\Sigma}^{-1}|\Psi_C\rangle
-$$
+$$\langle\Psi_C|\hat{\mathcal{O}}|\Psi_C\rangle = \eta\langle\Psi_C|\hat{\Sigma}\hat{\mathcal{O}}\hat{\Sigma}^{-1}|\Psi_C\rangle$$
 
 where $`\hat{\mathcal{O}}`$ is any observable, $`\eta`$ is the uncaused creation coefficient satisfying $`0 < \eta < 1`$.
 
@@ -64,9 +54,7 @@ This principle indicates that systems can generate new information that cannot b
 
 Self-creation states are special quantum states in which quantum systems can exhibit self-creativity, mathematically represented as:
 
-$$
-|\Psi_C\rangle = \sum_{i} \alpha_i |C_i\rangle + \int_{\Omega_*} \beta(\vec{\omega})|\vec{\omega}\rangle d\vec{\omega}
-$$
+$$|\Psi_C\rangle = \sum_{i} \alpha_i |C_i\rangle + \int_{\Omega_*} \beta(\vec{\omega})|\vec{\omega}\rangle d\vec{\omega}$$
 
 where $`|C_i\rangle`$ are the basis states of known creative patterns, $`|\vec{\omega}\rangle`$ are possible states in the creative unknown space $`\Omega_*`$, and $`\alpha_i`$ and $`\beta(\vec{\omega})`$ are the respective probability amplitudes.
 
@@ -76,9 +64,7 @@ A key characteristic of self-creation states is that they include an open integr
 
 The evolution of self-creation states follows the self-creation Schrödinger equation:
 
-$$
-i\hbar\frac{\partial|\Psi_C\rangle}{\partial t} = (\hat{H}_C + \hat{\Sigma})|\Psi_C\rangle
-$$
+$$i\hbar\frac{\partial|\Psi_C\rangle}{\partial t} = (\hat{H}_C + \hat{\Sigma})|\Psi_C\rangle$$
 
 where $`\hat{H}_C`$ is the creative Hamiltonian operator, containing the system's energy and information dynamics.
 
@@ -92,17 +78,13 @@ In the self-creation process, the state function undergoes three phases:
 
 The measurement of self-creation states follows creative collapse rules, which differ from standard quantum measurements:
 
-$$
-\mathcal{M}_C: |\Psi_C\rangle \rightarrow |C_k\rangle
-$$
+$$\mathcal{M}_C: |\Psi_C\rangle \rightarrow |C_k\rangle$$
 
 Unlike standard quantum measurements, creative measurements can project the system onto a new state $`|C_k\rangle`$ that did not previously exist, representing a truly creative leap.
 
 Creative measurement probabilities follow a modified Born rule:
 
-$$
-P(C_k) = |\langle C_k|\Psi_C\rangle|^2 + \gamma\int_{\Omega_*} |\langle C_k|\vec{\omega}\rangle|^2 |\beta(\vec{\omega})|^2 d\vec{\omega}
-$$
+$$P(C_k) = |\langle C_k|\Psi_C\rangle|^2 + \gamma\int_{\Omega_*} |\langle C_k|\vec{\omega}\rangle|^2 |\beta(\vec{\omega})|^2 d\vec{\omega}$$
 
 where $`\gamma`$ is the creative transition coefficient, describing the system's ability to create new states from the space of unknown possibilities.
 
@@ -112,17 +94,13 @@ where $`\gamma`$ is the creative transition coefficient, describing the system's
 
 The universe, as the ultimate quantum system, has its creative wave function represented as:
 
-$$
-|\Psi_U\rangle = |\Psi_M\rangle \otimes |\Psi_C\rangle
-$$
+$$|\Psi_U\rangle = |\Psi_M\rangle \otimes |\Psi_C\rangle$$
 
 where $`|\Psi_M\rangle`$ is the matter-energy state and $`|\Psi_C\rangle`$ is the creative state.
 
 Universal self-creativity is quantified through the universal creative entropy $`S_C(U)`$:
 
-$$
-S_C(U) = k_B\ln W_C
-$$
+$$S_C(U) = k_B\ln W_C$$
 
 where $`W_C`$ is the number of possible creative states in the universe, theoretically infinite, explaining the universe's endless creative capacity.
 
@@ -130,17 +108,13 @@ where $`W_C`$ is the number of possible creative states in the universe, theoret
 
 Universal creativity manifests at multiple levels, forming a hierarchical structure of self-creativity:
 
-$$
-\mathcal{L}_C = \{L_C^{(1)}, L_C^{(2)}, ..., L_C^{(n)}\}
-$$
+$$\mathcal{L}_C = \{L_C^{(1)}, L_C^{(2)}, ..., L_C^{(n)}\}$$
 
 where each level $`L_C^{(i)}`$ has its specific creative dynamics $`\hat{\Sigma}^{(i)}`$.
 
 Levels are connected through creative mapping functions $`\Phi_{i \rightarrow j}`$:
 
-$$
-\Phi_{i \rightarrow j}: L_C^{(i)} \rightarrow L_C^{(j)}
-$$
+$$\Phi_{i \rightarrow j}: L_C^{(i)} \rightarrow L_C^{(j)}$$
 
 This hierarchical structure explains why creativity can emerge in macroscopic complex systems (such as life, consciousness, society) despite their foundational components following deterministic physical laws.
 
@@ -148,9 +122,7 @@ This hierarchical structure explains why creativity can emerge in macroscopic co
 
 In self-creativity theory, the most outstanding form of creativity is "ultra-rare creativity," referring to creative events with extremely low probability but enormous impact:
 
-$$
-P(C_{ultra}) \sim e^{-\Delta S_C}
-$$
+$$P(C_{ultra}) \sim e^{-\Delta S_C}$$
 
 where $`\Delta S_C`$ is the creative entropy increment, typically very large for ultra-rare creative events.
 
@@ -162,9 +134,7 @@ Ultra-rare creativity explains key creative leaps in the universe, such as the e
 
 The generation of creative information follows the self-creation information equation:
 
-$$
-\frac{dI_C}{dt} = \alpha I_C(I_{max} - I_C) + \beta\sqrt{I_C}\xi(t)
-$$
+$$\frac{dI_C}{dt} = \alpha I_C(I_{max} - I_C) + \beta\sqrt{I_C}\xi(t)$$
 
 where $`I_C`$ is the amount of creative information, $`I_{max}`$ is the maximum possible information amount, $`\xi(t)`$ is the creative noise function, and $`\alpha`$ and $`\beta`$ are system parameters.
 
@@ -174,17 +144,13 @@ This equation describes the autocatalytic growth of creative information and how
 
 Creative information forms complex network structures in self-creating systems:
 
-$$
-G_C = (V_C, E_C, W_C)
-$$
+$$G_C = (V_C, E_C, W_C)$$
 
 where $`V_C`$ is the set of creative nodes, $`E_C`$ is the set of connecting edges, and $`W_C`$ is the set of edge weights.
 
 The creative connectivity $`\kappa_C`$ of the network is defined as:
 
-$$
-\kappa_C = \frac{1}{|V_C|}\sum_{i \in V_C} \sum_{j \in V_C} w_{ij}
-$$
+$$\kappa_C = \frac{1}{|V_C|}\sum_{i \in V_C} \sum_{j \in V_C} w_{ij}$$
 
 The dynamic evolution of creative information networks follows preferential attachment and creative disconnection principles, leading to small-world and scale-free characteristics.
 
@@ -228,4 +194,4 @@ Quantum Self-Creativity Theory is closely related to the following theories:
 
 ## Conclusion
 
-Quantum Self-Creativity Theory (D11) provides a theoretical framework for understanding the deepest essence of creativity, viewing creativity as an inherent quantum property of the universe rather than a derivative phenomenon. The theory not only explains the origins and mechanisms of creativity but also reveals the universal laws of creative processes in the universe, offering revolutionary theoretical perspectives for physics, cognitive science, life sciences, and artificial intelligence.
+Quantum Self-Creativity Theory (D11) provides a theoretical framework for understanding the deepest essence of creativity, viewing creativity as an inherent quantum property of the universe rather than a derivative phenomenon. The theory not only explains the origins and mechanisms of creativity but also reveals the universal laws of creative processes in the universe, offering revolutionary theoretical perspectives for physics, cognitive science, life sciences, and artificial intelligence. 

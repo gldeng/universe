@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1912年7月31日 - 2006年11月16日
-**国籍 (Nationality)**: 美国 (American)
-**领域 (Fields)**: 经济学、货币主义、自由市场经济学
+**生平 (Life Span)**: 1912年7月31日 - 2006年11月16日  
+**国籍 (Nationality)**: 美国 (American)  
+**领域 (Fields)**: 经济学、货币主义、自由市场经济学  
 **代表作品 (Representative Works)**: 《资本主义与自由》、《货币史》、《自由选择》
 
 ## 核心思想 (Core Ideas)
@@ -96,17 +96,17 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "通货膨胀永远是一种货币现象。"
->
+> 
 > "Inflation is always and everywhere a monetary phenomenon."
 
 > "没有免费的午餐。"
->
+> 
 > "There's no such thing as a free lunch."
 
 > "如果你把联邦政府放在撒哈拉沙漠管理，五年内沙子就会短缺。"
->
+> 
 > "If you put the federal government in charge of the Sahara Desert, in 5 years there'd be a shortage of sand."
 
 > "一个社会的最终目标不应该是平等，而是自由。"
->
+> 
 > "A society that puts equality before freedom will get neither. A society that puts freedom before equality will get a high degree of both."

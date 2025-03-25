@@ -283,28 +283,16 @@ $$
 To ensure the completeness of the proof within ZFC, we provide rigorous proofs for the following key steps:
 
 1. 利用ZFC公理中的替代公理构建包含所有可能解的集合：
-
-$$
-S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}
-$$
+   $$S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}$$
 
    Using the axiom of replacement from ZFC to construct a set containing all possible solutions:
-
-$$
-S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}
-$$
+   $$S = \{(n,x,y,z) \in \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \times \mathbb{Z}^+ \mid n > 2 \wedge x^n + y^n = z^n\}$$
 
 2. 利用空集公理和幂集公理证明 $`S = \emptyset`$：
-
-$$
-\forall (n,x,y,z) \in S \Rightarrow \text{存在矛盾} \Rightarrow S = \emptyset
-$$
+   $$\forall (n,x,y,z) \in S \Rightarrow \text{存在矛盾} \Rightarrow S = \emptyset$$
 
    Using the axiom of empty set and the axiom of power set to prove $`S = \emptyset`$:
-
-$$
-\forall (n,x,y,z) \in S \Rightarrow \text{contradiction exists} \Rightarrow S = \emptyset
-$$
+   $$\forall (n,x,y,z) \in S \Rightarrow \text{contradiction exists} \Rightarrow S = \emptyset$$
 
 3. 利用基数公理证明 $`|S| = 0`$，因此无解。
 
@@ -328,7 +316,7 @@ Through this rigorous construction, we complete the proof of Fermat's Last Theor
 
 1. Wiles, A. (1995). Modular elliptic curves and Fermat's Last Theorem. Annals of Mathematics, 141(3), 443-551.
 2. Taylor, R., & Wiles, A. (1995). Ring-theoretic properties of certain Hecke algebras. Annals of Mathematics, 141(3), 553-572.
-3. 量子经典二元论核心理论文献 [29.0].
+3. 量子经典二元论核心理论文献 [29.0]. 
 4. Faltings, G. (1983). Endlichkeitssätze für abelsche Varietäten über Zahlkörpern. Inventiones mathematicae, 73(3), 349-366.
 5. Ribet, K. A. (1990). On modular representations of Gal(Q/Q) arising from modular forms. Inventiones mathematicae, 100(1), 431-476.
-6. Serre, J.-P. (1987). Sur les représentations modulaires de degré 2 de Gal(Q/Q). Duke Mathematical Journal, 54(1), 179-230.
+6. Serre, J.-P. (1987). Sur les représentations modulaires de degré 2 de Gal(Q/Q). Duke Mathematical Journal, 54(1), 179-230. 

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1564年-1616年 (1564-1616)
-**国籍 | Nationality**: 英格兰 (England)
-**主要领域 | Main Fields**: 戏剧、诗歌、文学 (Drama, Poetry, Literature)
+**生卒年份 | Lifespan**: 1564年-1616年 (1564-1616)  
+**国籍 | Nationality**: 英格兰 (England)  
+**主要领域 | Main Fields**: 戏剧、诗歌、文学 (Drama, Poetry, Literature)  
 **代表作品 | Representative Works**: 《哈姆雷特》、《麦克白》、《李尔王》、《罗密欧与朱丽叶》、《奥赛罗》、《威尼斯商人》、《十四行诗集》 (Hamlet, Macbeth, King Lear, Romeo and Juliet, Othello, The Merchant of Venice, Sonnets)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ Many of Shakespeare's works follow a pattern: beginning with a state of classica
 - "Love is not love which alters when it alteration finds." (Sonnet 116)
 - "Come, gentle night, come, loving, black-browed night, give me my Romeo." (Romeo and Juliet)
 - "They do love least that let men know their love." (The Two Gentlemen of Verona)
-- "This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man." (Hamlet)
+- "This above all: to thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man." (Hamlet) 

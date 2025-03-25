@@ -26,7 +26,7 @@
 
 ### 中文
 1. **通用计算机架构**: 冯·诺依曼架构体现了量子信息经典化的过程，将抽象的计算概念（量子域）转化为具体的存储结构（经典域）。这是观察者将量子可能性经典化为确定结构的典型例子，符合公式：
-
+   
 $$
 |\psi\rangle_{\text{计算可能性}}\xrightarrow{\text{冯·诺依曼经典化}}I_{\text{计算机架构知识}}+S_{\text{计算实现熵}}
 $$
@@ -92,10 +92,10 @@ $$
 Von Neumann's work has had profound impacts on modern computer science, quantum physics, economics, and complex systems theory. His computer architecture ideas became the foundation for modern computers, his mathematical work on quantum mechanics helped establish the rigorous foundations of quantum theory, and his contributions to game theory completely transformed methods in economics and strategic analysis.
 
 ## 经典引言 | Classic Quotes
-> "如果人们不相信数学是简单的，那只是因为他们不了解生活有多复杂。"
->
+> "如果人们不相信数学是简单的，那只是因为他们不了解生活有多复杂。" 
+> 
 > "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is."
 
 > "在数学中，你不理解事物，你只是习惯了它们。"
->
-> "In mathematics you don't understand things. You just get used to them."
+> 
+> "In mathematics you don't understand things. You just get used to them." 

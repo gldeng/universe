@@ -3,7 +3,7 @@
 **[中文版](formal_theory_dynamical_systems_en.md) | English Version**
 
 > 本理论基于[核心理论](../core.md) v30.0版本
->
+> 
 > 理论维度: D8
 
 ## 理论概述

@@ -47,4 +47,4 @@ Quantum-Classical Dualism (Version 28.0) provides a new perspective on the P vs 
 
 4. **Information Entropy and Complexity Boundaries**: Analyzing the role of information entropy changes in computational processes, and how entropy sets fundamental boundaries for complexity.
 
-**Complete formal proofs and solutions are under development and will be published in future versions.**
+**Complete formal proofs and solutions are under development and will be published in future versions.** 

@@ -1,9 +1,9 @@
 # 量子经典二元论常见问题解答 | Frequently Asked Questions about Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[基础概念](#基础概念) | [理论体系](#理论体系) | [实践应用](#实践应用) | [常见误解](#常见误解) | [学习路径](#学习路径)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[基础概念](#基础概念) | [理论体系](#理论体系) | [实践应用](#实践应用) | [常见误解](#常见误解) | [学习路径](#学习路径)  
 English: [Basic Concepts](#basic-concepts) | [Theoretical Framework](#theoretical-framework) | [Practical Applications](#practical-applications) | [Common Misconceptions](#common-misconceptions) | [Learning Path](#learning-path)
 
 ## 中文版
@@ -348,4 +348,4 @@ $$
 2. Trying to apply the theory to your professional field, recording and sharing results
 3. Designing experiments or observation methods to verify theoretical predictions
 4. Contributing document improvements or translations
-5. Organizing or participating in discussion meetings and workshops on related topics
+5. Organizing or participating in discussion meetings and workshops on related topics 

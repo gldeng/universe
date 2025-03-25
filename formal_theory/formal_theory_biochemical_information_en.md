@@ -23,9 +23,7 @@ Biochemical Information and Dualism extends the quantum-classical dualism framew
 
 A biochemical information system $`\mathcal{B}`$ can be formally defined as:
 
-$$
-\mathcal{B} = (\mathcal{B}_Q, \mathcal{B}_C, \mathcal{I}_B, \mathcal{E})
-$$
+$$\mathcal{B} = (\mathcal{B}_Q, \mathcal{B}_C, \mathcal{I}_B, \mathcal{E})$$
 
 Where:
 - $`\mathcal{B}_Q`$ is the quantum domain of the biological system (molecular orbitals, electron transfer, quantum tunneling)
@@ -35,30 +33,24 @@ Where:
 
 ### Core Axioms of Biochemical Information
 
-**Axiom 1: Biological Information Duality**
+**Axiom 1: Biological Information Duality**  
 Biomolecular information simultaneously possesses quantum and classical fundamental forms:
 
-$$
-\mathcal{B} = \mathcal{B}_Q \diamond \mathcal{B}_C
-$$
+$$\mathcal{B} = \mathcal{B}_Q \diamond \mathcal{B}_C$$
 
 Where $`\diamond`$ represents the biological quantum-classical information connection operation.
 
-**Axiom 2: Biomolecular Quantum Superposition Principle**
+**Axiom 2: Biomolecular Quantum Superposition Principle**  
 Biomolecules exist in superposition states of multiple conformations and reaction pathways at the microscopic level:
 
-$$
-|\Psi_B\rangle = \sum_i \alpha_i |S_i\rangle
-$$
+$$|\Psi_B\rangle = \sum_i \alpha_i |S_i\rangle$$
 
 Where $`|S_i\rangle`$ are molecular state basis vectors, and $`\alpha_i`$ are complex amplitudes.
 
-**Axiom 3: Biological Information Classicalization Principle**
+**Axiom 3: Biological Information Classicalization Principle**  
 Biological function expression is the process of quantum states classicalizing into determinate biological effects:
 
-$$
-\rho_B = \mathcal{M}(|\Psi_B\rangle\langle\Psi_B|)
-$$
+$$\rho_B = \mathcal{M}(|\Psi_B\rangle\langle\Psi_B|)$$
 
 Where $`\mathcal{M}`$ is the biological environment-induced classicalization process, and $`\rho_B`$ is the density matrix of classicalized biological effects.
 
@@ -66,23 +58,17 @@ Where $`\mathcal{M}`$ is the biological environment-induced classicalization pro
 
 Biomolecular information processing involves dynamic conversion between quantum and classical information, described by the following equation:
 
-$$
-\mathcal{I}(B) = \mathcal{I}_Q(B) + \mathcal{I}_C(B) - \mathcal{I}_{QC}(B)
-$$
+$$\mathcal{I}(B) = \mathcal{I}_Q(B) + \mathcal{I}_C(B) - \mathcal{I}_{QC}(B)$$
 
 Where $`\mathcal{I}(B)`$ is total biological information, $`\mathcal{I}_Q(B)`$ is quantum biological information, $`\mathcal{I}_C(B)`$ is classical biological information, and $`\mathcal{I}_{QC}(B)`$ is quantum-classical information overlap.
 
 DNA replication, transcription, and translation processes can be formalized as:
 
-$$
-\mathcal{T}: \mathcal{I}_{DNA} \rightarrow \mathcal{I}_{RNA} \rightarrow \mathcal{I}_{Protein}
-$$
+$$\mathcal{T}: \mathcal{I}_{DNA} \rightarrow \mathcal{I}_{RNA} \rightarrow \mathcal{I}_{Protein}$$
 
 Where each step contains quantum-classical information conversion:
 
-$$
-\mathcal{T} = \mathcal{T}_Q \circ \mathcal{T}_C
-$$
+$$\mathcal{T} = \mathcal{T}_Q \circ \mathcal{T}_C$$
 
 ## Quantum-Classical Duality of DNA and RNA
 
@@ -100,29 +86,21 @@ DNA and RNA molecules exhibit significant quantum-classical duality:
 
 The DNA classicalization process can be represented as:
 
-$$
-\rho_{DNA} = \sum_i p_i |DNA_i\rangle\langle DNA_i|
-$$
+$$\rho_{DNA} = \sum_i p_i |DNA_i\rangle\langle DNA_i|$$
 
 Where classicalization probabilities are related to environmental parameters:
 
-$$
-p_i = f(T, pH, [ions], \mathcal{E}_{bio})
-$$
+$$p_i = f(T, pH, [ions], \mathcal{E}_{bio})$$
 
 ## Information Dynamics of Protein Folding
 
 Protein folding is a typical quantum-classical information conversion process, described by the following information entropy equation:
 
-$$
-S_{folding} = S_{initial} - \int_{t_0}^{t_f} \mathcal{I}_{QC}(t) dt
-$$
+$$S_{folding} = S_{initial} - \int_{t_0}^{t_f} \mathcal{I}_{QC}(t) dt$$
 
 Where $`\mathcal{I}_{QC}(t)`$ is the quantum-classical information flow during the folding process, expressed as:
 
-$$
-\mathcal{I}_{QC}(t) = \eta \cdot \text{Tr}[\rho_Q(t) \ln \rho_C(t)]
-$$
+$$\mathcal{I}_{QC}(t) = \eta \cdot \text{Tr}[\rho_Q(t) \ln \rho_C(t)]$$
 
 $`\eta`$ is the quantum-classical coupling coefficient.
 
@@ -130,15 +108,11 @@ $`\eta`$ is the quantum-classical coupling coefficient.
 
 Biological systems counteract entropy increase by maintaining quantum-classical information dynamic equilibrium:
 
-$$
-\Delta S_{bio} + \Delta \mathcal{I}_{bio} \geq 0
-$$
+$$\Delta S_{bio} + \Delta \mathcal{I}_{bio} \geq 0$$
 
 Where information gain comes from quantum-classical synergistic effects:
 
-$$
-\Delta \mathcal{I}_{bio} = \alpha \Delta \mathcal{I}_Q + \beta \Delta \mathcal{I}_C + \gamma \Delta \mathcal{I}_{QC}
-$$
+$$\Delta \mathcal{I}_{bio} = \alpha \Delta \mathcal{I}_Q + \beta \Delta \mathcal{I}_C + \gamma \Delta \mathcal{I}_{QC}$$
 
 $`\alpha`$, $`\beta`$, and $`\gamma`$ are weighting coefficients.
 
@@ -154,4 +128,4 @@ This theory can be applied to the following fields:
 Experimental verification methods include:
 - Quantum biological spectroscopy measurements of electron transfer in biomolecules
 - Single-molecule mechanical experiments to detect quantum-classical transitions in protein folding
-- Ultrafast spectroscopy techniques to probe quantum tunneling effects in DNA base pairs
+- Ultrafast spectroscopy techniques to probe quantum tunneling effects in DNA base pairs 

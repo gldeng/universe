@@ -259,4 +259,4 @@
 - [量子医学应用](formal_theory_medicine.md)
 - [二元论教育理论](formal_theory_education.md)
 - [量子-经典交互技术](formal_theory_interaction.md)
-- [理论实用应用集合 (本文件)](formal_theory_practical_applications.md)
+- [理论实用应用集合 (本文件)](formal_theory_practical_applications.md) 

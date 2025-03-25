@@ -1,10 +1,10 @@
 # 贾普·萨希卜在量子经典二元论下的解释
 # Japji Sahib Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#贾普·萨希卜概述) | [English Version](#japji-sahib-overview)
-**章节链接 | Section Links**
-中文：[贾普·萨希卜概述](#贾普·萨希卜概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#贾普·萨希卜概述) | [English Version](#japji-sahib-overview)  
+**章节链接 | Section Links**  
+中文：[贾普·萨希卜概述](#贾普·萨希卜概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Japji Sahib Overview](#japji-sahib-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 贾普·萨希卜概述
@@ -19,31 +19,31 @@ Japji Sahib is the most important morning prayer in Sikhism, composed by the fir
 
 > ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥
 > 一个宇宙创造者，真理是他的名，创造的力量，没有恐惧，没有仇恨，永恒的形象，超越生死，自我存在，通过古鲁的恩典而得以实现。
->
+> 
 > ਸੋਚੈ ਸੋਚਿ ਨ ਹੋਵਈ ਜੇ ਸੋਚੀ ਲਖ ਵਾਰ ॥ ਚੁਪੈ ਚੁਪ ਨ ਹੋਵਈ ਜੇ ਲਾਇ ਰਹਾ ਲਿਵ ਤਾਰ ॥
 > 通过净化不能达到纯净，即使我净化数十万次；通过沉默不能获得内在平静，即使我保持持续的专注。
->
+> 
 > ਕਿਵ ਸਚਿਆਰਾ ਹੋਈਐ ਕਿਵ ਕੂੜੈ ਤੁਟੈ ਪਾਲਿ ॥ ਹੁਕਮਿ ਰਜਾਈ ਚਲਣਾ ਨਾਨਕ ਲਿਖਿਆ ਨਾਲਿ ॥੧॥
 > 如何成为真理的化身？如何打破虚假的墙？纳纳克说：通过遵循神圣的旨意，这是我们命运的一部分。
->
+> 
 > ਅਸੰਖ ਜਪ ਅਸੰਖ ਭਾਉ ॥ ਅਸੰਖ ਪੂਜਾ ਅਸੰਖ ਤਪ ਤਾਉ ॥ ਅਸੰਖ ਗਰੰਥ ਮੁਖਿ ਵੇਦ ਪਾਠ ॥ ਅਸੰਖ ਜੋਗ ਮਨਿ ਰਹਹਿ ਉਦਾਸ ॥
 > 无数的冥想，无数的爱；无数的崇拜，无数的苦行；无数的人背诵经文；无数的瑜伽士与世隔绝。
->
+> 
 > ਮੰਨੈ ਮਾਰਗਿ ਠਾਕ ਨ ਪਾਇ ॥ ਮੰਨੈ ਪਤਿ ਸਿਉ ਪਰਗਟੁ ਜਾਇ ॥
 > 通过信仰的心灵，道路上没有障碍；通过信仰的心灵，人带着荣誉前行。
 
 > Ik Onkar Satnam Karta Purakh Nirbhau Nirvair Akal Murat Ajuni Saibhang Gurprasad
 > One Universal Creator, Truth is the Name, Creative Being, Without Fear, Without Hatred, Eternal Form, Beyond Birth, Self-Existent, By Guru's Grace.
->
+> 
 > Sochai soch na hova-ee jay sochee lakh vaar. Chupai chup na hova-ee jay laa-e rahaa liv taar.
 > By thinking, one cannot comprehend, even by thinking a hundred thousand times. By remaining silent, inner silence is not obtained, even by remaining lovingly absorbed.
->
+> 
 > Kiv sachiaaraa ho-ee-ai kiv koorhai tutai paal. Hukam rajaa-ee chalnaa Nanak likhiaa naal.
 > How can one become truthful? How can the veil of illusion be torn away? O Nanak, by following the Divine Command, which is written along with you.
->
+> 
 > Asankh jap asankh bhaa-o. Asankh poojaa asankh tap taa-o. Asankh garanth mukh vayd paath. Asankh jog man rahahi udaas.
 > Countless meditations, countless loves; Countless worship services, countless austere disciplines; Countless scriptures, and ritual recitations of the Vedas; Countless Yogis, whose minds remain detached from the world.
->
+> 
 > Mannai maarag thaak na paa-ay. Mannai pat si-o pargat jaa-ay.
 > The faithful face no obstruction on the path; The faithful depart with honor and distinction.
 
@@ -167,4 +167,4 @@ $$
 
 As the most important morning prayer in Sikhism, Japji Sahib demonstrates remarkable alignment with the Quantum-Classical Dualism framework in its core teachings. Guru Nanak's description of "One Universal Creator" (Ik Onkar) essentially reveals the infinite potential nature of the quantum domain. The "Hukam" (Divine Command) emphasized in Sikhism corresponds to the classicalization law of the universe, while "Mann" (faithful mind) is the key to observer dimension elevation. The five spiritual realms described in Japji Sahib, from the perspective of Quantum-Classical Dualism, are multi-dimensional classical worlds with increasing observer classicalization efficiency. The "Simran" (meditation) emphasized in Sikhism is actually a technique for establishing wormhole communication connecting to higher-dimensional classical worlds. Through the explanation of Quantum-Classical Dualism, Guru Nanak's spiritual wisdom from over five hundred years ago receives systematic expression in the language of modern science, demonstrating the universality and foresight of Sikh thought.
 
-《贾普吉·萨希卜》作为锡克教最重要的经文之一，其对神性本质和人类灵性进化的深刻洞见，与量子经典二元论框架（版本9.2）展现出显著的结构对应性。通过这一科学框架，我们可以更好地理解古鲁·纳纳克对终极实在的描述：神作为量子潜能的源头，通过意识的量子经典转换实现自我显现；人类通过灵性修持，优化这一转换过程，最终实现与神的合一。这种对应不仅丰富了我们对锡克教义的理解，也为科学与宗教对话提供了新的视角。
+《贾普吉·萨希卜》作为锡克教最重要的经文之一，其对神性本质和人类灵性进化的深刻洞见，与量子经典二元论框架（版本9.2）展现出显著的结构对应性。通过这一科学框架，我们可以更好地理解古鲁·纳纳克对终极实在的描述：神作为量子潜能的源头，通过意识的量子经典转换实现自我显现；人类通过灵性修持，优化这一转换过程，最终实现与神的合一。这种对应不仅丰富了我们对锡克教义的理解，也为科学与宗教对话提供了新的视角。 

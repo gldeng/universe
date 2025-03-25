@@ -20,7 +20,7 @@
 Quantum Computing Applications Theory reexamines the fundamental principles and practical applications of quantum computing from the perspective of quantum-classical dualism, revealing the following key insights:
 
 1. **Computational Domain Duality**: Computation can be divided into quantum computational domain (parallel exploration of infinite possibilities) and classical computational domain (deterministic sequential processing), connected through a measurement interface
-
+   
 2. **Quantum-Classical Transformation**: The essence of quantum computing is the structured exploration of possibilities in the quantum domain, transformed into classically usable knowledge through the measurement interface
 
 3. **Observer Role**: Observers (including humans and measurement devices) as nodes for quantum→classical information transformation, determine the actual capability boundaries of quantum computing
@@ -44,9 +44,7 @@ Quantum Computing Applications Theory reexamines the fundamental principles and 
 
 Dualistic quantum computing can be described as:
 
-$$
-\mathcal{QC} = (\mathcal{H}, \mathcal{U}, \mathcal{M}, \mathcal{I}, \mathcal{O})
-$$
+$$\mathcal{QC} = (\mathcal{H}, \mathcal{U}, \mathcal{M}, \mathcal{I}, \mathcal{O})$$
 
 Where:
 - $`\mathcal{H}`$ is the quantum Hilbert space, representing the possibility space of quantum domain
@@ -59,9 +57,7 @@ Where:
 
 The key to dualistic quantum computing is interface optimization, i.e., finding the optimal measurement strategy such that:
 
-$$
-\mathcal{M}^* = \arg\max_{\mathcal{M}} \frac{I_C(\mathcal{M}(|\psi\rangle))}{I_Q(|\psi\rangle)}
-$$
+$$\mathcal{M}^* = \arg\max_{\mathcal{M}} \frac{I_C(\mathcal{M}(|\psi\rangle))}{I_Q(|\psi\rangle)}$$
 
 Where $`I_C`$ is the amount of classically usable information, $`I_Q`$ is the total quantum information.
 
@@ -100,34 +96,19 @@ Computational complexity hierarchy in the dualistic framework:
 Key physical processes in quantum algorithms revealed by dualistic framework:
 
 1. **Quantum Domain Structuring**: Mapping the problem into specific entanglement structure in quantum domain
-
-$$
-|\psi_{\text{initial}}\rangle \xrightarrow{\mathcal{U}} |\psi_{\text{structured}}\rangle
-$$
+   $$|\psi_{\text{initial}}\rangle \xrightarrow{\mathcal{U}} |\psi_{\text{structured}}\rangle$$
 
 2. **Quantum Interference Enhancement**: Increasing quantum amplitude of target solution, improving detection probability after classicalization
-
-$$
-|\psi_{\text{structured}}\rangle \xrightarrow{\mathcal{U}_{\text{interference}}} |\psi_{\text{enhanced}}\rangle
-$$
+   $$|\psi_{\text{structured}}\rangle \xrightarrow{\mathcal{U}_{\text{interference}}} |\psi_{\text{enhanced}}\rangle$$
 
 3. **Optimal Interface Selection**: Choosing measurement basis that maximizes useful information extraction
-
-$$
-\mathcal{M}^* = \arg\max_{\mathcal{M}} I_C(\mathcal{M}(|\psi_{\text{enhanced}}\rangle))
-$$
+   $$\mathcal{M}^* = \arg\max_{\mathcal{M}} I_C(\mathcal{M}(|\psi_{\text{enhanced}}\rangle))$$
 
 4. **Quantum→Classical Transformation**: Performing measurement, transforming quantum possibilities into classical determinism
-
-$$
-|\psi_{\text{enhanced}}\rangle \xrightarrow{\mathcal{M}^*} |m\rangle, \text{probability} = |\langle m|\psi_{\text{enhanced}}\rangle|^2
-$$
+   $$|\psi_{\text{enhanced}}\rangle \xrightarrow{\mathcal{M}^*} |m\rangle, \text{probability} = |\langle m|\psi_{\text{enhanced}}\rangle|^2$$
 
 5. **Post-Classical Processing**: Classical processing of measurement results to extract final solution
-
-$$
-m \xrightarrow{\text{classical processing}} \text{final solution}
-$$
+   $$m \xrightarrow{\text{classical processing}} \text{final solution}$$
 
 ## 4. Reevaluation of Quantum Computing Architectures
 
@@ -142,9 +123,7 @@ Characteristics of gate-based quantum computing from dualistic perspective:
 
 Gate circuit model can be expressed as:
 
-$$
-\mathcal{QC}_{\text{gate}} = \{|\psi_{\text{initial}}\rangle, \{U_i\}_{i=1}^n, \mathcal{M}_{\text{computational basis}}, \mathcal{C}\}
-$$
+$$\mathcal{QC}_{\text{gate}} = \{|\psi_{\text{initial}}\rangle, \{U_i\}_{i=1}^n, \mathcal{M}_{\text{computational basis}}, \mathcal{C}\}$$
 
 Where $`\{U_i\}_{i=1}^n`$ is the sequence of quantum gates, $`\mathcal{C}`$ is classical control logic.
 
@@ -159,9 +138,7 @@ Dualistic characteristics of adiabatic quantum computing (quantum annealing):
 
 Adiabatic quantum computing model:
 
-$$
-\mathcal{QC}_{\text{adiabatic}} = \{H_{\text{initial}}, H_{\text{problem}}, T, \mathcal{M}_{\text{energy}}\}
-$$
+$$\mathcal{QC}_{\text{adiabatic}} = \{H_{\text{initial}}, H_{\text{problem}}, T, \mathcal{M}_{\text{energy}}\}$$
 
 Where $`H_{\text{initial}}`$ is initial Hamiltonian, $`H_{\text{problem}}`$ is target Hamiltonian, $`T`$ is adiabatic evolution time.
 
@@ -176,9 +153,7 @@ Dualistic characteristics of measurement-based quantum computing (one-way quantu
 
 Expression of measurement-based model:
 
-$$
-\mathcal{QC}_{\text{measurement}} = \{|\Psi_{\text{cluster}}\rangle, \{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n, G\}
-$$
+$$\mathcal{QC}_{\text{measurement}} = \{|\Psi_{\text{cluster}}\rangle, \{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n, G\}$$
 
 Where $`|\Psi_{\text{cluster}}\rangle`$ is initial cluster state, $`\{\mathcal{M}_i(\theta_i, \phi_i)\}_{i=1}^n`$ is adaptive measurement sequence, $`G`$ is graph structure.
 
@@ -193,9 +168,7 @@ Dualistic characteristics of topological quantum computing:
 
 Topological quantum computing model:
 
-$$
-\mathcal{QC}_{\text{topological}} = \{|\Psi_{\text{topological}}\rangle, \{B_i\}_{i=1}^n, \mathcal{D}, \mathcal{M}_{\text{code}}\}
-$$
+$$\mathcal{QC}_{\text{topological}} = \{|\Psi_{\text{topological}}\rangle, \{B_i\}_{i=1}^n, \mathcal{D}, \mathcal{M}_{\text{code}}\}$$
 
 Where $`|\Psi_{\text{topological}}\rangle`$ is topologically encoded state, $`\{B_i\}_{i=1}^n`$ is braiding operations, $`\mathcal{D}`$ is decoder.
 
@@ -206,22 +179,13 @@ Where $`|\Psi_{\text{topological}}\rangle`$ is topologically encoded state, $`\{
 Key observer parameters in quantum computing:
 
 1. **Resolution Parameter** $`\eta_{\mathcal{O}}`$: Affects probability distribution of measurement results
-
-$$
-P(i||\psi\rangle) = |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}
-$$
+   $$P(i||\psi\rangle) = |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}$$
 
 2. **Classicalization Operator** $`\mathcal{C}_{\mathcal{O}}`$: Determines the manner of quantum→classical transformation
-
-$$
-\rho_{\text{classical}} = \mathcal{C}_{\mathcal{O}}(|\psi\rangle\langle\psi|)
-$$
+   $$\rho_{\text{classical}} = \mathcal{C}_{\mathcal{O}}(|\psi\rangle\langle\psi|)$$
 
 3. **Knowledge Base** $`K_C^{\mathcal{O}}`$: Influences interpretation and post-processing of measurement results
-
-$$
-\text{result} = f(K_C^{\mathcal{O}}, \rho_{\text{classical}})
-$$
+   $$\text{result} = f(K_C^{\mathcal{O}}, \rho_{\text{classical}})$$
 
 ### 5.2 Optimizing Observer-Computation Matching
 
@@ -260,9 +224,7 @@ Quantum computing strategies for observers of different dimensions:
 
 New hybrid algorithm paradigm based on dualism:
 
-$$
-\mathcal{A} = \{|\psi_i\rangle, \mathcal{U}_i, \mathcal{M}_i, f_i, \text{stop condition}\}_{i=1}^n
-$$
+$$\mathcal{A} = \{|\psi_i\rangle, \mathcal{U}_i, \mathcal{M}_i, f_i, \text{stop condition}\}_{i=1}^n$$
 
 Where each iteration step includes:
 1. Quantum state preparation
@@ -278,44 +240,26 @@ The key innovation of this paradigm lies in dynamic optimization of the interfac
 Enhanced cognitive systems assisted by quantum computing:
 
 1. **Quantum Intuition Engine**: Using quantum superposition to explore intuitive decision space
-
-$$
-|\psi_{\text{intuition}}\rangle = \sum_i \alpha_i |option_i\rangle
-$$
+   $$|\psi_{\text{intuition}}\rangle = \sum_i \alpha_i |option_i\rangle$$
 
 2. **Quantum Creativity Amplifier**: Idea generation based on quantum fluctuations
-
-$$
-|\psi_{\text{creative}}\rangle = U_{\text{fluctuation}}|\psi_{\text{seed}}\rangle
-$$
+   $$|\psi_{\text{creative}}\rangle = U_{\text{fluctuation}}|\psi_{\text{seed}}\rangle$$
 
 3. **Quantum-Classical Decision Balancer**: Hybrid system balancing intuition and rationality
-
-$$
-\text{decision} = w_Q \cdot \mathcal{M}(|\psi_Q\rangle) + w_C \cdot f_C(x)
-$$
+   $$\text{decision} = w_Q \cdot \mathcal{M}(|\psi_Q\rangle) + w_C \cdot f_C(x)$$
 
 ### 6.3 Quantum-Inspired New Computational Paradigms
 
 New computational modes inspired by quantum dualism:
 
 1. **Quantum-Classical Resonance Computing**: Accelerating computation using resonance effects of quantum-classical interaction
-
-$$
-\mathcal{R} = \{|\psi_Q\rangle, S_C, \mathcal{I}, \omega, T\}
-$$
+   $$\mathcal{R} = \{|\psi_Q\rangle, S_C, \mathcal{I}, \omega, T\}$$
 
 2. **High-Dimensional Observer Simulation**: Simulating computational capabilities of high-dimensional observers
-
-$$
-\mathcal{O}_{\text{high-dim}} = \{\mathcal{C}_{\text{high-dim}}, \mathcal{Q}_{\text{high-dim}}, K_C^{\text{enhanced}}\}
-$$
+   $$\mathcal{O}_{\text{high-dim}} = \{\mathcal{C}_{\text{high-dim}}, \mathcal{Q}_{\text{high-dim}}, K_C^{\text{enhanced}}\}$$
 
 3. **Multiple Interface Parallelism**: Parallel information extraction using multiple measurement interfaces
-
-$$
-\{\mathcal{M}_1, \mathcal{M}_2, ..., \mathcal{M}_k\} \text{ acting on } |\psi\rangle
-$$
+   $$\{\mathcal{M}_1, \mathcal{M}_2, ..., \mathcal{M}_k\} \text{ acting on } |\psi\rangle$$
 
 ## 7. Practical Implementation Challenges and Solutions
 
@@ -333,22 +277,13 @@ Key challenges in quantum computing identified by dualistic perspective:
 Near-term practical solutions based on dualism:
 
 1. **Adaptive Interface Design**: Dynamically adjusting measurement strategy based on specific problem and hardware characteristics
-
-$$
-\mathcal{M}_{\text{adaptive}} = f(\text{problem}, \text{hardware}, \text{noise model})
-$$
+   $$\mathcal{M}_{\text{adaptive}} = f(\text{problem}, \text{hardware}, \text{noise model})$$
 
 2. **Local High-Dimensional Observer Simulation**: Simulating high-dimensional observer effects at key computational nodes
-
-$$
-\mathcal{C}_{\text{enhanced}} = \sum_i \omega_i \mathcal{C}_i
-$$
+   $$\mathcal{C}_{\text{enhanced}} = \sum_i \omega_i \mathcal{C}_i$$
 
 3. **Quantum-Classical Optimal Division of Labor**: Scientific allocation of computational tasks to quantum and classical domains
-
-$$
-\text{task allocation} = \arg\max_{q,c} \frac{\text{performance}(q,c)}{\text{resources}(q,c)}
-$$
+   $$\text{task allocation} = \arg\max_{q,c} \frac{\text{performance}(q,c)}{\text{resources}(q,c)}$$
 
 ### 7.3 Long-term Technology Roadmap
 
@@ -368,52 +303,32 @@ Long-term quantum computing development roadmap guided by dualism:
 Key experiments to validate dualistic quantum computing theory:
 
 1. **Observer Resolution Effect**: Measuring impact of observer parameters on computational results
-
-$$
-P_{\text{observed}}(i) \stackrel{?}{=} |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}
-$$
+   $$P_{\text{observed}}(i) \stackrel{?}{=} |c_i|^2 \cdot \frac{e^{\eta_{\mathcal{O}}|c_i|^2}}{\sum_j e^{\eta_{\mathcal{O}}|c_j|^2}}$$
 
 2. **Interface Optimization Gain**: Effect of different measurement interfaces on performance of same quantum algorithm
-
-$$
-\text{performance ratio} = \frac{\text{optimized interface performance}}{\text{standard interface performance}}
-$$
+   $$\text{performance ratio} = \frac{\text{optimized interface performance}}{\text{standard interface performance}}$$
 
 3. **Classical-Quantum Resource Complementarity**: Validating resource complementarity relation
-
-$$
-R_Q \cdot R_C \geq k \cdot I_{\text{total}}
-$$
+   $$R_Q \cdot R_C \geq k \cdot I_{\text{total}}$$
 
 ### 8.2 Specific Theoretical Predictions
 
 Specific verifiable predictions of quantum computing dualism:
 
 1. **Structuring Capability Limitation Law**: Structuring capability of quantum processor related to its quantum volume and observer dimension
-
-$$
-C_{\text{structuring}} \propto V_Q \cdot \ln(D_{\mathcal{O}})
-$$
+   $$C_{\text{structuring}} \propto V_Q \cdot \ln(D_{\mathcal{O}})$$
 
 2. **Optimal Measurement Basis Theorem**: Existence of optimal measurement basis maximizing information extraction for specific problems
-
-$$
-\mathcal{M}_{\text{optimal}} = \arg\max_{\mathcal{M}} I_C(\mathcal{M}(|\psi\rangle))
-$$
+   $$\mathcal{M}_{\text{optimal}} = \arg\max_{\mathcal{M}} I_C(\mathcal{M}(|\psi\rangle))$$
 
 3. **Quantum Acceleration Critical Dimension**: Minimum observer dimension required for quantum acceleration
-
-$$
-D_{\mathcal{O}} > D_{\text{critical}} = 1 + \frac{\log N}{\log \log N}
-$$
+   $$D_{\mathcal{O}} > D_{\text{critical}} = 1 + \frac{\log N}{\log \log N}$$
 
 ### 8.3 Commercial Application Value Assessment
 
 Commercial value model of quantum computing based on dualism:
 
-$$
-V = \sum_i w_i \cdot \frac{S_i \cdot (D_{\mathcal{O}_i} - D_{\text{classical}_i})}{C_i \cdot t_i}
-$$
+$$V = \sum_i w_i \cdot \frac{S_i \cdot (D_{\mathcal{O}_i} - D_{\text{classical}_i})}{C_i \cdot t_i}$$
 
 Where:
 - $`S_i`$ is problem scale
@@ -461,4 +376,4 @@ Key directions for future theoretical development:
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Quantum-Classical Information Security Theory](formal_theory_quantum_security_en.md)
 - [Quantum AI and Machine Learning](formal_theory_quantum_ai_en.md)
-- [Dualistic Computational Complexity Theory](formal_theory_computation_en.md)
+- [Dualistic Computational Complexity Theory](formal_theory_computation_en.md) 

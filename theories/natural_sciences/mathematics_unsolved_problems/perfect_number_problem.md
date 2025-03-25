@@ -87,8 +87,8 @@ $$
 \sigma(n) = \sum_{d|n} d
 $$
 
-**定理1 (Theorem 1)** (欧几里得-欧拉定理 | Euclid-Euler Theorem):
-1. 如果$`2^p-1`$是素数，则$`2^{p-1}(2^p-1)`$是完美数。
+**定理1 (Theorem 1)** (欧几里得-欧拉定理 | Euclid-Euler Theorem): 
+1. 如果$`2^p-1`$是素数，则$`2^{p-1}(2^p-1)`$是完美数。 
    If $`2^p-1`$ is prime, then $`2^{p-1}(2^p-1)`$ is a perfect number.
 2. 所有偶完美数都有形式$`2^{p-1}(2^p-1)`$，其中$`2^p-1`$是素数。
    All even perfect numbers have the form $`2^{p-1}(2^p-1)`$, where $`2^p-1`$ is prime.
@@ -276,4 +276,4 @@ Strictly formalized predictions of quantum-classical dualism under the ZFC axiom
 5. Zelinsky, J. (2018). Odd perfect numbers are greater than 10^{2000}. International Journal of Number Theory, 14(8), 2147-2152.
 6. Cook, R. J. (2018). The Theory of Divisibility in the ZFC Axiom System. Journal of Symbolic Logic, 83(2), 599-616.
 7. 量子经典二元论核心理论文献 [29.0].
-8. Quantum-Classical Dualism Core Theory Documentation [29.0].
+8. Quantum-Classical Dualism Core Theory Documentation [29.0]. 

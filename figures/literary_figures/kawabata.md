@@ -35,33 +35,23 @@
 
 1. **空寂的量子态**：《雪国》中的意境描写：
 
-$$
-|\psi\rangle_{\text{空寂}} = \sum_i c_i |\text{存在}_i\rangle \otimes |\text{虚无}_i\rangle
-$$
+$$|\psi\rangle_{\text{空寂}} = \sum_i c_i |\text{存在}_i\rangle \otimes |\text{虚无}_i\rangle$$
 
 2. **传统与现代的量子纠缠**：《千只鹤》中的茶道意象：
 
-$$
-|\Psi_{\text{文化}}\rangle = \alpha |\text{传统}\rangle |\text{现代}\rangle + \beta |\text{现代}\rangle |\text{传统}\rangle
-$$
+$$|\Psi_{\text{文化}}\rangle = \alpha |\text{传统}\rangle |\text{现代}\rangle + \beta |\text{现代}\rangle |\text{传统}\rangle$$
 
 3. **生死界限的量子叠加**：《山音》中的生死观：
 
-$$
-|\phi\rangle_{\text{生死}} = \frac{1}{\sqrt{2}}(|\text{生}\rangle + i|\text{死}\rangle)
-$$
+$$|\phi\rangle_{\text{生死}} = \frac{1}{\sqrt{2}}(|\text{生}\rangle + i|\text{死}\rangle)$$
 
 4. **美的量子观察**：《睡美人》中的审美体验：
 
-$$
-|\psi\rangle_{\text{美}} = \sum_t c_t |\text{永恒}_t\rangle \otimes |\text{瞬间}_t\rangle
-$$
+$$|\psi\rangle_{\text{美}} = \sum_t c_t |\text{永恒}_t\rangle \otimes |\text{瞬间}_t\rangle$$
 
 5. **文化记忆的量子态**：《古都》中的京都描写：
 
-$$
-|\Psi_{\text{京都}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{空间}_i\rangle |\text{时间}_i\rangle |\text{记忆}_i\rangle
-$$
+$$|\Psi_{\text{京都}}\rangle = \int d^3x \sum_i \psi_i(x)|\text{空间}_i\rangle |\text{时间}_i\rangle |\text{记忆}_i\rangle$$
 
 ### 现代意义
 

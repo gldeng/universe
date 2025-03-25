@@ -138,4 +138,4 @@ Moses's ideas laid the foundation for Judaism and profoundly influenced Christia
 
 > "看哪，我今日将生与福，死与祸，陈明在你面前。" ——申命记30:15
 >
-> "See, I have set before you today life and good, death and evil." —Deuteronomy 30:15
+> "See, I have set before you today life and good, death and evil." —Deuteronomy 30:15 

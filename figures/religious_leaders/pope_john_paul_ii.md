@@ -174,4 +174,4 @@ Pope John Paul II was one of the most influential religious leaders of the moder
 
 > "用爱战胜恨，以和平胜过战争，以真理战胜虚假。" ——2000年世界和平日文告
 >
-> "To overcome hatred with love, war with peace, and falsehood with truth." —World Day of Peace Message, 2000
+> "To overcome hatred with love, war with peace, and falsehood with truth." —World Day of Peace Message, 2000 

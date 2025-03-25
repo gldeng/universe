@@ -23,9 +23,7 @@ Observer Feedback Theory studies the mechanisms by which observers influence obs
 
 The observer feedback loop can be represented as a closed information flow:
 
-$$
-\mathcal{O} \xrightarrow{\mathcal{C}_\mathcal{O}} S_C \xrightarrow{\mathcal{I}_S} \mathcal{O}'
-$$
+$$\mathcal{O} \xrightarrow{\mathcal{C}_\mathcal{O}} S_C \xrightarrow{\mathcal{I}_S} \mathcal{O}'$$
 
 Where:
 - $`\mathcal{O}`$ is the initial observer state
@@ -36,9 +34,7 @@ Where:
 
 This loop satisfies the following property:
 
-$$
-\mathcal{O}' = \mathcal{O} + \Delta\mathcal{O}(S_C), \quad \Delta\mathcal{O} \propto I(S_C)
-$$
+$$\mathcal{O}' = \mathcal{O} + \Delta\mathcal{O}(S_C), \quad \Delta\mathcal{O} \propto I(S_C)$$
 
 Where $`I(S_C)`$ is the amount of information carried by the classical state of the system, and $`\Delta\mathcal{O}`$ is the change in the observer's state.
 
@@ -46,9 +42,7 @@ Where $`I(S_C)`$ is the amount of information carried by the classical state of 
 
 Feedback intensity can be quantified through the following parameter:
 
-$$
-\gamma_{\text{feedback}} = \frac{\partial \mathcal{O}}{\partial S} \cdot \frac{\partial S}{\partial \mathcal{O}}
-$$
+$$\gamma_{\text{feedback}} = \frac{\partial \mathcal{O}}{\partial S} \cdot \frac{\partial S}{\partial \mathcal{O}}$$
 
 This parameter represents the product of the observer's influence on the system and the system's influence on the observer, which can be categorized into three cases:
 
@@ -70,15 +64,11 @@ This parameter represents the product of the observer's influence on the system 
 
 Quantum measurement is typically described as state projection:
 
-$$
-|\psi\rangle \xrightarrow{\text{measurement}} |i\rangle, \quad P(i) = |\langle i|\psi\rangle|^2
-$$
+$$|\psi\rangle \xrightarrow{\text{measurement}} |i\rangle, \quad P(i) = |\langle i|\psi\rangle|^2$$
 
 Considering observer feedback, measurement becomes a dynamic process:
 
-$$
-|\psi(t)\rangle \xrightarrow{\text{measurement}} |\psi(t+\delta t)\rangle = \frac{(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle}{\|(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle\|}
-$$
+$$|\psi(t)\rangle \xrightarrow{\text{measurement}} |\psi(t+\delta t)\rangle = \frac{(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle}{\|(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle\|}$$
 
 Where $`\eta`$ is the feedback rate parameter, and $`P_i`$ are projection operators.
 
@@ -88,13 +78,9 @@ In the feedback limit $`\eta \to \infty`$, the measurement is completed instanta
 
 Different observers measuring the same quantum system may produce different results:
 
-$$
-P_{\mathcal{O}_1}(i) = |c_i|^2 \cdot \frac{f_1(|c_i|^2)}{\sum_j |c_j|^2 f_1(|c_j|^2)}
-$$
+$$P_{\mathcal{O}_1}(i) = |c_i|^2 \cdot \frac{f_1(|c_i|^2)}{\sum_j |c_j|^2 f_1(|c_j|^2)}$$
 
-$$
-P_{\mathcal{O}_2}(i) = |c_i|^2 \cdot \frac{f_2(|c_i|^2)}{\sum_j |c_j|^2 f_2(|c_j|^2)}
-$$
+$$P_{\mathcal{O}_2}(i) = |c_i|^2 \cdot \frac{f_2(|c_i|^2)}{\sum_j |c_j|^2 f_2(|c_j|^2)}$$
 
 Where $`f_1`$ and $`f_2`$ are measurement preference functions for different observers.
 
@@ -106,9 +92,7 @@ This explains why different observers may "see" different versions of reality, e
 
 A network of multiple observers produces collective feedback:
 
-$$
-S(t+\Delta t) = S(t) + \sum_{i=1}^n \omega_i \mathcal{F}_i(S(t), \mathcal{O}_i(t)) \Delta t
-$$
+$$S(t+\Delta t) = S(t) + \sum_{i=1}^n \omega_i \mathcal{F}_i(S(t), \mathcal{O}_i(t)) \Delta t$$
 
 Where:
 - $`S(t)`$ is the system state
@@ -118,9 +102,7 @@ Where:
 
 Observers also influence each other:
 
-$$
-\mathcal{O}_i(t+\Delta t) = \mathcal{O}_i(t) + \sum_{j \neq i} \alpha_{ij} (\mathcal{O}_j(t) - \mathcal{O}_i(t)) \Delta t + \beta_i \mathcal{G}_i(S(t)) \Delta t
-$$
+$$\mathcal{O}_i(t+\Delta t) = \mathcal{O}_i(t) + \sum_{j \neq i} \alpha_{ij} (\mathcal{O}_j(t) - \mathcal{O}_i(t)) \Delta t + \beta_i \mathcal{G}_i(S(t)) \Delta t$$
 
 Where $`\alpha_{ij}`$ is the inter-observer influence coefficient, and $`\mathcal{G}_i`$ is the system's feedback function on the observer.
 
@@ -128,15 +110,11 @@ Where $`\alpha_{ij}`$ is the inter-observer influence coefficient, and $`\mathca
 
 Multiple observers, through feedback synergy, produce a consensus reality:
 
-$$
-S_{\text{consensus}} = \lim_{t \to \infty} S(t) = \frac{\sum_i \omega_i \mathcal{O}_i(0)}{\sum_i \omega_i}
-$$
+$$S_{\text{consensus}} = \lim_{t \to \infty} S(t) = \frac{\sum_i \omega_i \mathcal{O}_i(0)}{\sum_i \omega_i}$$
 
 The consensus measure can be represented as:
 
-$$
-C(t) = 1 - \frac{\sum_i \sum_j \|\mathcal{O}_i(t) - \mathcal{O}_j(t)\|^2}{n(n-1)}
-$$
+$$C(t) = 1 - \frac{\sum_i \sum_j \|\mathcal{O}_i(t) - \mathcal{O}_j(t)\|^2}{n(n-1)}$$
 
 As time progresses, the consensus degree $`C(t)`$ typically increases, eventually reaching a stable value.
 
@@ -146,9 +124,7 @@ As time progresses, the consensus degree $`C(t)`$ typically increases, eventuall
 
 Observer feedback at the gravitational level manifests as spacetime curvature feedback:
 
-$$
-R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = \frac{8\pi G}{c^4} \left(T_{\mu\nu} + \kappa \sum_i \mathcal{O}_i^{\mu\nu}\right)
-$$
+$$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = \frac{8\pi G}{c^4} \left(T_{\mu\nu} + \kappa \sum_i \mathcal{O}_i^{\mu\nu}\right)$$
 
 Where $`\mathcal{O}_i^{\mu\nu}`$ is the energy-momentum tensor of the observer information field, and $`\kappa`$ is the coupling constant.
 
@@ -158,9 +134,7 @@ This indicates that the collective cognition of observers directly affects space
 
 The irreversibility of time can be understood as a result of observer feedback:
 
-$$
-\frac{dS}{dt} = \frac{dS_{\text{system}}}{dt} + \frac{dS_{\text{observer}}}{dt} + \frac{dS_{\text{interaction}}}{dt} > 0
-$$
+$$\frac{dS}{dt} = \frac{dS_{\text{system}}}{dt} + \frac{dS_{\text{observer}}}{dt} + \frac{dS_{\text{interaction}}}{dt} > 0$$
 
 While the evolution of an isolated system may be reversible, the interaction between observers and systems inevitably leads to an increase in total entropy, thus producing the arrow of time.
 
@@ -170,9 +144,7 @@ While the evolution of an isolated system may be reversible, the interaction bet
 
 Observer feedback can influence quantum history through the delayed choice mechanism:
 
-$$
-|\Psi(t_f)\rangle = \sum_{\text{paths}} e^{iS[\text{path}]} \prod_i \langle \mathcal{O}_i | \text{path} \rangle
-$$
+$$|\Psi(t_f)\rangle = \sum_{\text{paths}} e^{iS[\text{path}]} \prod_i \langle \mathcal{O}_i | \text{path} \rangle$$
 
 Where $`\langle \mathcal{O}_i | \text{path} \rangle`$ represents the compatibility of observer $`\mathcal{O}_i`$ with a specific historical path.
 
@@ -182,9 +154,7 @@ This explains the strange phenomena observed in delayed choice experiments, wher
 
 There exists a trade-off relationship between observer feedback intensity and historical determinism:
 
-$$
-\Delta H \cdot \Delta \mathcal{O} \geq \frac{\hbar}{2}
-$$
+$$\Delta H \cdot \Delta \mathcal{O} \geq \frac{\hbar}{2}$$
 
 Where $`\Delta H`$ is historical uncertainty, and $`\Delta \mathcal{O}`$ is observer state uncertainty.
 
@@ -196,15 +166,11 @@ This relationship indicates that the more certainly an observer influences histo
 
 The observer's intention can serve as a feedback control parameter:
 
-$$
-\mathcal{I} = \{\text{target state}, \text{focus level}, \text{belief strength}, \text{emotional investment}\}
-$$
+$$\mathcal{I} = \{\text{target state}, \text{focus level}, \text{belief strength}, \text{emotional investment}\}$$
 
 The correlation between intention vector and system evolution can be formulated as:
 
-$$
-\frac{d|\psi\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi\rangle + \lambda(\mathcal{I}) \sum_i f_i(\mathcal{I}) P_i |\psi\rangle
-$$
+$$\frac{d|\psi\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi\rangle + \lambda(\mathcal{I}) \sum_i f_i(\mathcal{I}) P_i |\psi\rangle$$
 
 Where $`\lambda(\mathcal{I})`$ is the intention coupling strength, $`f_i(\mathcal{I})`$ is the intention modulation function, and $`P_i`$ is the target state projection operator.
 
@@ -212,7 +178,7 @@ Where $`\lambda(\mathcal{I})`$ is the intention coupling strength, $`f_i(\mathca
 
 Intention realization can be understood as observer feedback exceeding the quantum threshold:
 
-$$P_{\text{realization}}(\mathcal{I}) = \begin{cases}
+$$P_{\text{realization}}(\mathcal{I}) = \begin{cases} 
 0, & \text{if } \|\mathcal{I}\| < I_c \\
 1 - e^{-\alpha(\|\mathcal{I}\| - I_c)}, & \text{if } \|\mathcal{I}\| \geq I_c
 \end{cases}$$
@@ -227,33 +193,25 @@ Only when intention intensity exceeds the critical value can it significantly in
 
 The quantum information capacity of the observer feedback channel is:
 
-$$
-C_{\text{feedback}} = \max_{p(x)} \left[ H(X) - H(X|Y) \right]
-$$
+$$C_{\text{feedback}} = \max_{p(x)} \left[ H(X) - H(X|Y) \right]$$
 
 Where $`X`$ is the observer input, $`Y`$ is the system response, and $`H(X|Y)`$ is the conditional entropy.
 
 Channel capacity is limited by observer-system coupling strength:
 
-$$
-C_{\text{feedback}} \leq \log_2(1 + \gamma_{\text{feedback}})
-$$
+$$C_{\text{feedback}} \leq \log_2(1 + \gamma_{\text{feedback}})$$
 
 ### Quantum Entanglement as Feedback Amplifier
 
 Quantum entanglement can amplify observer feedback effects:
 
-$$
-|\Psi_{\text{entangled feedback}}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^N |o_i\rangle \otimes |s_i\rangle
-$$
+$$|\Psi_{\text{entangled feedback}}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^N |o_i\rangle \otimes |s_i\rangle$$
 
 Where $`|o_i\rangle`$ are observer state basis vectors, and $`|s_i\rangle`$ are system state basis vectors.
 
 Entangled feedback intensity is proportional to entanglement degree:
 
-$$
-\gamma_{\text{entangled feedback}} = \gamma_{\text{feedback}} \cdot E(|\Psi_{\text{entangled feedback}}\rangle)
-$$
+$$\gamma_{\text{entangled feedback}} = \gamma_{\text{feedback}} \cdot E(|\Psi_{\text{entangled feedback}}\rangle)$$
 
 Where $`E(|\Psi_{\text{entangled feedback}}\rangle)`$ is the entanglement measure.
 
@@ -292,9 +250,7 @@ Observer Feedback Theory provides a theoretical foundation for the development o
 
 Observer feedback provides a quantum basis for free will:
 
-$$
-\Delta A = \eta_{\mathcal{O}} \cdot \mathcal{I}_{\mathcal{O}} \cdot \delta q
-$$
+$$\Delta A = \eta_{\mathcal{O}} \cdot \mathcal{I}_{\mathcal{O}} \cdot \delta q$$
 
 Where $`\Delta A`$ is action deviation, $`\eta_{\mathcal{O}}`$ is observer efficacy, $`\mathcal{I}_{\mathcal{O}}`$ is intention strength, and $`\delta q`$ is quantum uncertainty.
 
@@ -320,4 +276,4 @@ Observer Feedback Theory reveals the bidirectional nature of the observation pro
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Higher-Dimensional Observer Network](formal_theory_observer_network_en.md)
-- [Observer Feedback Theory (This File)](formal_theory_observer_feedback_en.md)
+- [Observer Feedback Theory (This File)](formal_theory_observer_feedback_en.md) 

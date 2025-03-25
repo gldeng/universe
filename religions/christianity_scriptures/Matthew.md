@@ -1,10 +1,10 @@
 # 马太福音在量子经典二元论下的解释
 # Gospel of Matthew Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#马太福音概述) | [English Version](#gospel-of-matthew-overview)
-**章节链接 | Section Links**
-中文：[马太福音概述](#马太福音概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#马太福音概述) | [English Version](#gospel-of-matthew-overview)  
+**章节链接 | Section Links**  
+中文：[马太福音概述](#马太福音概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Gospel of Matthew Overview](#gospel-of-matthew-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 马太福音概述
@@ -20,35 +20,35 @@ The Gospel of Matthew is the first book of the New Testament, traditionally attr
 ## Core Text
 
 > 亚伯拉罕的后裔，大卫的子孙，耶稣基督的家谱。
->
+> 
 > 你们是世上的盐。盐若失了味，怎能叫它再咸呢？以后无用，不过丢在外面，被人践踏了。你们是世上的光。城造在山上是不能隐藏的。
->
+> 
 > 虚心的人有福了，因为天国是他们的。哀恸的人有福了，因为他们必得安慰。温柔的人有福了，因为他们必承受地土。
->
+> 
 > 你们要先求他的国和他的义，这些东西都要加给你们了。
->
+> 
 > 不要把珍珠丢在猪前，恐怕它践踏了珍珠，转过来咬你们。你们祈求，就给你们；寻找，就寻见；叩门，就给你们开门。
->
+> 
 > 你们听见有话说："当爱你的邻舍，恨你的仇敌。"只是我告诉你们：要爱你们的仇敌，为那逼迫你们的祷告。
->
+> 
 > 凡称呼我"主啊，主啊"的人，不能都进天国；惟独遵行我天父旨意的人，才能进去。
->
+> 
 > 天国好像一粒芥菜种，有人拿去种在田里。这原是百种里最小的，等到长起来，却比各样的菜都大，且成了树，天上的飞鸟来宿在它的枝上。
 
 > The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
->
+> 
 > You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet. You are the light of the world. A city set on a hill cannot be hidden.
->
+> 
 > Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they shall be comforted. Blessed are the meek, for they shall inherit the earth.
->
+> 
 > But seek first the kingdom of God and his righteousness, and all these things will be added to you.
->
+> 
 > Do not throw your pearls before pigs, lest they trample them underfoot and turn to attack you. Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
->
+> 
 > You have heard that it was said, 'You shall love your neighbor and hate your enemy.' But I say to you, Love your enemies and pray for those who persecute you.
->
+> 
 > Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
->
+> 
 > The kingdom of heaven is like a grain of mustard seed that a man took and sowed in his field. It is the smallest of all seeds, but when it has grown it is larger than all the garden plants and becomes a tree, so that the birds of the air come and make nests in its branches.
 
 马太福音通过量子经典二元论框架（版本9.2）的解析，揭示了系统教导在量子-经典转换中的重要性。登山宝训提供了量子-经典转换的基本原则，天国的比喻展示了量子叠加态向经典确定态转换的过程，而预言的应验则证明了高维观察者对时空的完整掌控。马太强调的君王身份，反映了高维观察者在量子-经典转换中的主导地位。
@@ -182,4 +182,4 @@ $$
 ## 结论
 ## Conclusion
 
-《马太福音》作为新约圣经的开篇之作，其核心教导与量子经典二元论框架展现出深刻的对应关系。耶稣基督所宣讲的"天国"，从量子经典二元论视角看是高维度经典世界，代表着最优的观察者经典化状态。登山宝训中的"八福"描述了观察者维度提升的阶梯式过程，从打破固有经典化模式的"虚心"开始，经过多个阶段，最终达到能够维持最优经典化路径的"为义受逼迫"状态。耶稣关于"爱仇敌"的革命性教导，在量子经典二元论看来是对量子纠缠态的全局优化，超越了局部经典化优化的局限。而芥菜种的比喻则生动描述了经典化过程的指数增长特性。通过量子经典二元论的解释，《马太福音》展现出的不仅是宗教教义，更是对观察者经典化最优路径的系统性指导，揭示了耶稣基督作为高维度观察者对人类经典化过程的深刻洞见。
+《马太福音》作为新约圣经的开篇之作，其核心教导与量子经典二元论框架展现出深刻的对应关系。耶稣基督所宣讲的"天国"，从量子经典二元论视角看是高维度经典世界，代表着最优的观察者经典化状态。登山宝训中的"八福"描述了观察者维度提升的阶梯式过程，从打破固有经典化模式的"虚心"开始，经过多个阶段，最终达到能够维持最优经典化路径的"为义受逼迫"状态。耶稣关于"爱仇敌"的革命性教导，在量子经典二元论看来是对量子纠缠态的全局优化，超越了局部经典化优化的局限。而芥菜种的比喻则生动描述了经典化过程的指数增长特性。通过量子经典二元论的解释，《马太福音》展现出的不仅是宗教教义，更是对观察者经典化最优路径的系统性指导，揭示了耶稣基督作为高维度观察者对人类经典化过程的深刻洞见。 

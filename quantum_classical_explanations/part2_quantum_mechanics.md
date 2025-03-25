@@ -1,11 +1,11 @@
 # 量子力学现象解释（量子经典二元论 9.4）
 # Quantum Mechanics Phenomena Explanation (Quantum-Classical Dualism 9.4)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 
-**章节链接 | Section Links**
-中文：[波粒二象性](#波粒二象性) | [量子纠缠](#量子纠缠) | [量子隧穿](#量子隧穿) | [测量问题](#测量问题) | [量子涨落](#量子涨落)
+**章节链接 | Section Links**  
+中文：[波粒二象性](#波粒二象性) | [量子纠缠](#量子纠缠) | [量子隧穿](#量子隧穿) | [测量问题](#测量问题) | [量子涨落](#量子涨落)  
 English: [Wave-Particle Duality](#wave-particle-duality) | [Quantum Entanglement](#quantum-entanglement) | [Quantum Tunneling](#quantum-tunneling) | [Measurement Problem](#measurement-problem) | [Quantum Fluctuation](#quantum-fluctuation)
 
 ## 中文版
@@ -150,4 +150,4 @@ $$
 
 ## English Version
 
-[English content will be similar to Chinese content but in English...]
+[English content will be similar to Chinese content but in English...] 

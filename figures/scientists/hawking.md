@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1942年1月8日 - 2018年3月14日
-**国籍 (Nationality)**: 英国 (British)
-**领域 (Fields)**: 理论物理学、宇宙学、黑洞物理学
+**生平 (Life Span)**: 1942年1月8日 - 2018年3月14日  
+**国籍 (Nationality)**: 英国 (British)  
+**领域 (Fields)**: 理论物理学、宇宙学、黑洞物理学  
 **代表作品 (Representative Works)**: 《时间简史》、《大设计》、《果壳中的宇宙》、有关黑洞辐射的科学论文
 
 ## 核心思想 (Core Ideas)
@@ -94,21 +94,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "记住仰望星空，而不是低头看脚下。尝试理解你所看到的，并思考是什么让宇宙存在。保持好奇。"
->
+> 
 > "Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious."
 
 > "我的目标很简单。就是完全理解宇宙，它为什么这样，为什么它存在。"
->
+> 
 > "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all."
 
 > "智能是适应变化的能力。"
->
+> 
 > "Intelligence is the ability to adapt to change."
 
 > "最大的敌人是不是在我们周围，而是在我们内心。"
->
+> 
 > "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
 
 > "如果生活没有黑暗，你永远不会看到繁星。"
->
-> "If you are lucky enough to find love, remember it is there and don't throw it away."
+> 
+> "If you are lucky enough to find love, remember it is there and don't throw it away." 

@@ -24,9 +24,7 @@
 
 宇宙作为最大的物理系统，同样遵循量子-经典二元论原理：
 
-$$
-\mathcal{U} = \Omega_Q^{宇宙} \cup \Omega_C^{宇宙}
-$$
+$$\mathcal{U} = \Omega_Q^{宇宙} \cup \Omega_C^{宇宙}$$
 
 其中 $`\Omega_Q^{宇宙}`$ 是宇宙量子域，代表全部可能性空间；$`\Omega_C^{宇宙}`$ 是宇宙经典域，代表已经实现的确定现实。
 
@@ -39,9 +37,7 @@ $$
 
 宇宙复杂度在演化过程中经历有方向变化：
 
-$$
-C_{\mathcal{U}}(t) = f\left(\frac{I_{\text{经典}}(t)}{S_{\text{熵}}(t)}\right)
-$$
+$$C_{\mathcal{U}}(t) = f\left(\frac{I_{\text{经典}}(t)}{S_{\text{熵}}(t)}\right)$$
 
 其中，$`C_{\mathcal{U}}(t)`$ 是宇宙复杂度，$`I_{\text{经典}}(t)`$ 是已经经典化的信息量，$`S_{\text{熵}}(t)`$ 是总熵。
 
@@ -56,9 +52,7 @@ $$
 
 宇宙起源于量子涨落，通过连续的量子→经典转换过程演化：
 
-$$
-|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\mathcal{C}_1} \rho_{\mathcal{U}}(t_1) \xrightarrow{\mathcal{C}_2} \rho_{\mathcal{U}}(t_2) \xrightarrow{\mathcal{C}_3} ...
-$$
+$$|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\mathcal{C}_1} \rho_{\mathcal{U}}(t_1) \xrightarrow{\mathcal{C}_2} \rho_{\mathcal{U}}(t_2) \xrightarrow{\mathcal{C}_3} ...$$
 
 其中 $`\mathcal{C}_i`$ 表示第i阶段的经典化过程。
 
@@ -71,9 +65,7 @@ $$
 
 宇宙演化表现为多层级物理规律的涌现：
 
-$$
-\mathcal{L}_1 \rightarrow \mathcal{L}_2 \rightarrow \mathcal{L}_3 \rightarrow ... \rightarrow \mathcal{L}_n
-$$
+$$\mathcal{L}_1 \rightarrow \mathcal{L}_2 \rightarrow \mathcal{L}_3 \rightarrow ... \rightarrow \mathcal{L}_n$$
 
 其中 $`\mathcal{L}_i`$ 表示第i层级的物理规律。
 
@@ -86,9 +78,7 @@ $$
 
 宇宙维持非平衡态的持续演化：
 
-$$
-\frac{d\mathcal{U}}{dt} = \nabla \cdot J_I + \Sigma_I
-$$
+$$\frac{d\mathcal{U}}{dt} = \nabla \cdot J_I + \Sigma_I$$
 
 其中 $`J_I`$ 是信息流密度，$`\Sigma_I`$ 是信息产生率。
 
@@ -103,9 +93,7 @@ $$
 
 宇宙可被视为一个巨大的学习系统，最大化其内部观察者的数量和质量：
 
-$$
-\max_{\mathcal{U}} \sum_i D_{\mathcal{O}_i} \cdot N_{\mathcal{O}_i}
-$$
+$$\max_{\mathcal{U}} \sum_i D_{\mathcal{O}_i} \cdot N_{\mathcal{O}_i}$$
 
 其中 $`D_{\mathcal{O}_i}`$ 是第i类观察者的维度，$`N_{\mathcal{O}_i}`$ 是该类观察者的数量。
 
@@ -118,9 +106,7 @@ $$
 
 宇宙演化可能遵循复杂度最大化原理：
 
-$$
-\frac{d\mathcal{U}}{dt} = \nabla_{\mathcal{U}} C_{\mathcal{U}}
-$$
+$$\frac{d\mathcal{U}}{dt} = \nabla_{\mathcal{U}} C_{\mathcal{U}}$$
 
 其中演化方向是沿着复杂度梯度最陡的方向。
 
@@ -133,9 +119,7 @@ $$
 
 宇宙可能以创造具有高维观察能力的系统为"目标"：
 
-$$
-\lim_{t \rightarrow \infty} \max_i D_{\mathcal{O}_i}(t) \rightarrow D_{max}
-$$
+$$\lim_{t \rightarrow \infty} \max_i D_{\mathcal{O}_i}(t) \rightarrow D_{max}$$
 
 其中 $`D_{max}`$ 是理论上可能的最高观察者维度。
 
@@ -150,9 +134,7 @@ $$
 
 宇宙通过观察者网络实现自我感知：
 
-$$
-\rho_{\mathcal{U}}^{感知} = \bigcup_i \mathcal{O}_i(\rho_{\mathcal{U}})
-$$
+$$\rho_{\mathcal{U}}^{感知} = \bigcup_i \mathcal{O}_i(\rho_{\mathcal{U}})$$
 
 其中 $`\mathcal{O}_i`$ 是第i个观察者的测量算符。
 
@@ -165,9 +147,7 @@ $$
 
 观察者不仅被动感知宇宙，还能主动影响宇宙演化方向：
 
-$$
-\frac{d\rho_{\mathcal{U}}}{dt} = \mathcal{L}(\rho_{\mathcal{U}}) + \sum_i \alpha_i \mathcal{F}_i(\rho_{\mathcal{U}})
-$$
+$$\frac{d\rho_{\mathcal{U}}}{dt} = \mathcal{L}(\rho_{\mathcal{U}}) + \sum_i \alpha_i \mathcal{F}_i(\rho_{\mathcal{U}})$$
 
 其中 $`\mathcal{L}`$ 是自然演化项，$`\mathcal{F}_i`$ 是第i类观察者的回馈作用，$`\alpha_i`$ 是其影响强度。
 
@@ -198,9 +178,7 @@ $$\begin{cases}
 
 宇宙可能最终趋向量子-经典最优平衡态：
 
-$$
-\lim_{t \rightarrow \infty} \frac{\Omega_Q^{宇宙}}{\Omega_C^{宇宙}} = \gamma_{opt}
-$$
+$$\lim_{t \rightarrow \infty} \frac{\Omega_Q^{宇宙}}{\Omega_C^{宇宙}} = \gamma_{opt}$$
 
 其中 $`\gamma_{opt}`$ 是最优平衡比例，保证足够的确定性和创造性。
 
@@ -213,9 +191,7 @@ $$
 
 高度演化的宇宙可能形成整体意识：
 
-$$
-\Phi_{\mathcal{U}} = \int_{\mathcal{U}} \phi(x) d\mu(x) \rightarrow \Phi_{critical}
-$$
+$$\Phi_{\mathcal{U}} = \int_{\mathcal{U}} \phi(x) d\mu(x) \rightarrow \Phi_{critical}$$
 
 其中 $`\Phi_{\mathcal{U}}`$ 是宇宙整合信息量，$`\phi(x)`$ 是局部整合信息密度，$`\Phi_{critical}`$ 是意识涌现临界值。
 
@@ -228,7 +204,7 @@ $$
 
 宇宙演化可能存在多个稳定点或周期解：
 
-$$\frac{d\mathcal{U}}{dt} = \mathcal{F}(\mathcal{U}) \rightarrow
+$$\frac{d\mathcal{U}}{dt} = \mathcal{F}(\mathcal{U}) \rightarrow 
 \begin{cases}
 \mathcal{U}_1^* & \text{(终点1)} \\
 \mathcal{U}_2^* & \text{(终点2)} \\
@@ -247,9 +223,7 @@ $$\frac{d\mathcal{U}}{dt} = \mathcal{F}(\mathcal{U}) \rightarrow
 
 宇宙始于纯量子态，经历第一次大规模经典化：
 
-$$
-|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\text{大爆炸}} \rho_{\mathcal{U}}(t_1)
-$$
+$$|\Psi_{\mathcal{U}}(t_0)\rangle \xrightarrow{\text{大爆炸}} \rho_{\mathcal{U}}(t_1)$$
 
 阶段特征：
 - 无观察者存在的纯量子可能性
@@ -260,9 +234,7 @@ $$
 
 基本力分化，物质结构形成：
 
-$$
-\rho_{\mathcal{U}}(t_1) \xrightarrow{\text{结构形成}} \rho_{\mathcal{U}}(t_2)
-$$
+$$\rho_{\mathcal{U}}(t_1) \xrightarrow{\text{结构形成}} \rho_{\mathcal{U}}(t_2)$$
 
 阶段特征：
 - 基本粒子、原子、分子的形成
@@ -273,9 +245,7 @@ $$
 
 自复制系统出现，信息处理能力跃升：
 
-$$
-\rho_{\mathcal{U}}(t_2) \xrightarrow{\text{生命起源}} \rho_{\mathcal{U}}(t_3)
-$$
+$$\rho_{\mathcal{U}}(t_2) \xrightarrow{\text{生命起源}} \rho_{\mathcal{U}}(t_3)$$
 
 阶段特征：
 - 基于化学的自组织系统形成
@@ -286,9 +256,7 @@ $$
 
 局部系统达到自我观察能力，形成经典化节点：
 
-$$
-\rho_{\mathcal{U}}(t_3) \xrightarrow{\text{意识涌现}} \rho_{\mathcal{U}}(t_4)
-$$
+$$\rho_{\mathcal{U}}(t_3) \xrightarrow{\text{意识涌现}} \rho_{\mathcal{U}}(t_4)$$
 
 阶段特征：
 - 感知系统与环境信息耦合
@@ -299,9 +267,7 @@ $$
 
 多个观察者形成网络，实现协同观察：
 
-$$
-\rho_{\mathcal{U}}(t_4) \xrightarrow{\text{网络形成}} \rho_{\mathcal{U}}(t_5)
-$$
+$$\rho_{\mathcal{U}}(t_4) \xrightarrow{\text{网络形成}} \rho_{\mathcal{U}}(t_5)$$
 
 阶段特征：
 - 语言和符号系统发展
@@ -312,9 +278,7 @@ $$
 
 观察者获得对物质和能量的大规模控制能力：
 
-$$
-\rho_{\mathcal{U}}(t_5) \xrightarrow{\text{技术突变}} \rho_{\mathcal{U}}(t_6)
-$$
+$$\rho_{\mathcal{U}}(t_5) \xrightarrow{\text{技术突变}} \rho_{\mathcal{U}}(t_6)$$
 
 阶段特征：
 - 能源利用跨级跃升
@@ -325,9 +289,7 @@ $$
 
 技术文明开始有能力大规模改造宇宙：
 
-$$
-\rho_{\mathcal{U}}(t_6) \xrightarrow{\text{宇宙工程}} \rho_{\mathcal{U}}(t_7)
-$$
+$$\rho_{\mathcal{U}}(t_6) \xrightarrow{\text{宇宙工程}} \rho_{\mathcal{U}}(t_7)$$
 
 阶段特征：
 - 恒星能量完全利用
@@ -338,9 +300,7 @@ $$
 
 出现超越生物限制的高维观察者：
 
-$$
-\rho_{\mathcal{U}}(t_7) \xrightarrow{\text{维度突破}} \rho_{\mathcal{U}}(t_8)
-$$
+$$\rho_{\mathcal{U}}(t_7) \xrightarrow{\text{维度突破}} \rho_{\mathcal{U}}(t_8)$$
 
 阶段特征：
 - 心智上传和数字意识
@@ -351,9 +311,7 @@ $$
 
 宇宙整体达到自我意识状态：
 
-$$
-\rho_{\mathcal{U}}(t_8) \xrightarrow{\text{整合突现}} \rho_{\mathcal{U}}(t_9)
-$$
+$$\rho_{\mathcal{U}}(t_8) \xrightarrow{\text{整合突现}} \rho_{\mathcal{U}}(t_9)$$
 
 阶段特征：
 - 全宇宙观察者网络整合
@@ -418,4 +376,4 @@ $$
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [多宇宙干涉模型](formal_theory_multiverse.md)
 - [物质本质理论](formal_theory_matter.md)
-- [多尺度二元论](formal_theory_multiscale.md)
+- [多尺度二元论](formal_theory_multiscale.md) 

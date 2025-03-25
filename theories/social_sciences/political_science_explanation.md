@@ -1,9 +1,9 @@
 # 政治学视角下的量子经典二元论 (Quantum-Classical Dualism from Political Science Perspective)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[引言](#1-引言政治学与量子经典二元论) | [政治思想与理论](#2-政治思想与理论视角) | [政治体制与结构](#3-政治体制与结构视角) | [政治过程与决策](#4-政治过程与决策视角) | [国际关系](#6-国际关系视角)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言政治学与量子经典二元论) | [政治思想与理论](#2-政治思想与理论视角) | [政治体制与结构](#3-政治体制与结构视角) | [政治过程与决策](#4-政治过程与决策视角) | [国际关系](#6-国际关系视角)  
 English: [Introduction](#1-introduction-political-science-and-quantum-classical-dualism) | [Political Thought & Theory](#2-political-thought-and-theory-perspective) | [Political Systems & Structures](#3-political-systems-and-structures-perspective) | [Political Processes & Decision-making](#4-political-processes-and-decision-making-perspective) | [International Relations](#6-international-relations-perspective)
 
 ## 索引
@@ -316,4 +316,4 @@ I_{\text{政策文本（经典知识）}} \xrightarrow{\text{政策执行}} I_{\
 
 Political science, as the discipline studying power distribution, political institutions, decision-making processes, and collective action, has deep correspondences with Quantum-Classical Dualism at multiple levels. The binary oppositions in political phenomena—order and change, stability and dynamics, institutions and behaviors, collective and individual—can be understood through the framework of Quantum-Classical Dualism. From the diversity of political thought to the structural design of political systems, from the formation of political decisions to the interactions in international relations, the political domain exhibits clear quantum-classical dual characteristics. This paper will explore the correspondences between major areas of political science and Quantum-Classical Dualism, demonstrating how this theoretical framework can provide new perspectives and explanatory tools for understanding political phenomena.
 
-[English content continues with detailed sections corresponding to the Chinese version...]
+[English content continues with detailed sections corresponding to the Chinese version...] 

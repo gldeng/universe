@@ -410,4 +410,4 @@ This situation typically occurs in:
 
 The universe game model provides a powerful framework to help us understand the complex relationships between time, lifespan, and classicalization. In this model, long-lived individuals can be understood as players who have mastered the "game rules" and optimized their "code efficiency," enabling them to experience richer content in the same "game time" and extend their existence time in the game.
 
-Quantum-Classical Dualism reveals a profound insight: we are not only players of the game but also co-creators of the game. Through active classicalization, we extract quantum information from the universe wave function, create new reality paths, and simultaneously shape our experience of time and the length of our existence in time.
+Quantum-Classical Dualism reveals a profound insight: we are not only players of the game but also co-creators of the game. Through active classicalization, we extract quantum information from the universe wave function, create new reality paths, and simultaneously shape our experience of time and the length of our existence in time. 

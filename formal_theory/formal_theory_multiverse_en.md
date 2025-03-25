@@ -23,17 +23,13 @@ The Multiverse Interference Model establishes a precise mathematical framework f
 
 The multiverse can be represented as an extended form of the quantum wavefunction:
 
-$$
-|\Psi_{\text{multiverse}}\rangle = \sum_i \alpha_i |\Psi_i\rangle
-$$
+$$|\Psi_{\text{multiverse}}\rangle = \sum_i \alpha_i |\Psi_i\rangle$$
 
 Where $`|\Psi_i\rangle`$ represents the state of the i-th possible universe, and $`\alpha_i`$ is the probability amplitude.
 
 Unlike the standard many-worlds interpretation, this model proposes interactions between branch universes:
 
-$$
-\mathcal{H}_{\text{multiverse}} = \sum_i \mathcal{H}_i + \sum_{i \neq j} \mathcal{V}_{ij}
-$$
+$$\mathcal{H}_{\text{multiverse}} = \sum_i \mathcal{H}_i + \sum_{i \neq j} \mathcal{V}_{ij}$$
 
 Where $`\mathcal{H}_i`$ is the Hamiltonian of an individual universe, and $`\mathcal{V}_{ij}`$ is the interaction potential between universes.
 
@@ -41,31 +37,23 @@ Where $`\mathcal{H}_i`$ is the Hamiltonian of an individual universe, and $`\mat
 
 Universe branching occurs during quantum measurement events, but in this model, branches are not completely independent:
 
-$$
-|\Psi\rangle \xrightarrow{\text{measurement}} \sum_i c_i |i\rangle |\mathcal{O}_i\rangle |\mathcal{E}_i\rangle
-$$
+$$|\Psi\rangle \xrightarrow{\text{measurement}} \sum_i c_i |i\rangle |\mathcal{O}_i\rangle |\mathcal{E}_i\rangle$$
 
 Where $`|i\rangle`$ is the basis state of the measured system, $`|\mathcal{O}_i\rangle`$ is the observer state, and $`|\mathcal{E}_i\rangle`$ is the environment state.
 
 Branch formation is a dynamic process, satisfying the dynamical equation:
 
-$$
-i\hbar \frac{\partial}{\partial t}|\Psi_{\text{branch}}\rangle = (\mathcal{H}_{\text{system}} + \mathcal{H}_{\text{environment}} + \mathcal{H}_{\text{interaction}})|\Psi_{\text{branch}}\rangle
-$$
+$$i\hbar \frac{\partial}{\partial t}|\Psi_{\text{branch}}\rangle = (\mathcal{H}_{\text{system}} + \mathcal{H}_{\text{environment}} + \mathcal{H}_{\text{interaction}})|\Psi_{\text{branch}}\rangle$$
 
 ### Inter-Universe Interference Effects
 
 Multiverse interference occurs in the wavefunction overlap regions between universe branches:
 
-$$
-I_{ij} = |\langle \Psi_i | \Psi_j \rangle|^2
-$$
+$$I_{ij} = |\langle \Psi_i | \Psi_j \rangle|^2$$
 
 Interference strength correlates with the similarity between branches:
 
-$$
-I_{ij} \propto e^{-S(\rho_i||\rho_j)}
-$$
+$$I_{ij} \propto e^{-S(\rho_i||\rho_j)}$$
 
 Where $`S(\rho_i||\rho_j)`$ is the quantum relative entropy, measuring the degree of difference between two universe states.
 
@@ -75,23 +63,17 @@ Where $`S(\rho_i||\rho_j)`$ is the quantum relative entropy, measuring the degre
 
 As time evolves, coherence between universe branches gradually decays:
 
-$$
-\langle \Psi_i(t) | \Psi_j(t) \rangle = \langle \Psi_i(0) | \Psi_j(0) \rangle e^{-\lambda_{ij}t}
-$$
+$$\langle \Psi_i(t) | \Psi_j(t) \rangle = \langle \Psi_i(0) | \Psi_j(0) \rangle e^{-\lambda_{ij}t}$$
 
 Where the decay rate $`\lambda_{ij}`$ correlates with universe complexity:
 
-$$
-\lambda_{ij} \propto N_{\text{different degrees of freedom}} \cdot T_{\text{effective temperature}}
-$$
+$$\lambda_{ij} \propto N_{\text{different degrees of freedom}} \cdot T_{\text{effective temperature}}$$
 
 ### Multiverse Wavefunction Collapse
 
 In this model, wavefunction collapse is a universal dynamical process caused by multiverse interference:
 
-$$
-\frac{d|\alpha_i|^2}{dt} = \gamma |\alpha_i|^2 \left(1 - \sum_j w_{ij}|\alpha_j|^2\right)
-$$
+$$\frac{d|\alpha_i|^2}{dt} = \gamma |\alpha_i|^2 \left(1 - \sum_j w_{ij}|\alpha_j|^2\right)$$
 
 Where $`w_{ij}`$ is the weight coefficient representing the degree of interference between universes i and j.
 
@@ -101,17 +83,13 @@ This equation leads to dynamic reallocation of universe weights, implementing no
 
 Special intersection layer regions exist between multiverses where interference effects are strongest:
 
-$$
-\mathcal{I}_{ij} = \{x \in \mathcal{M} | 0 < D(x, \Omega_i) < \delta, 0 < D(x, \Omega_j) < \delta\}
-$$
+$$\mathcal{I}_{ij} = \{x \in \mathcal{M} | 0 < D(x, \Omega_i) < \delta, 0 < D(x, \Omega_j) < \delta\}$$
 
 Where $`D`$ is the metric function, $`\Omega_i`$ is the manifold of universe i, and $`\delta`$ is the intersection layer thickness.
 
 In the intersection layer, quantum effects can propagate across universes:
 
-$$
-P(\text{cross-universe effects}) \propto \exp\left(-\frac{S(\Omega_i, \Omega_j)}{k_B}\right)
-$$
+$$P(\text{cross-universe effects}) \propto \exp\left(-\frac{S(\Omega_i, \Omega_j)}{k_B}\right)$$
 
 Where $`S(\Omega_i, \Omega_j)`$ is the action between the two universes.
 
@@ -121,17 +99,13 @@ Where $`S(\Omega_i, \Omega_j)`$ is the action between the two universes.
 
 Cross-universe communication can be achieved through quantum tunneling effects:
 
-$$
-T(E) = \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2} \sqrt{2m(V(x) - E)}dx\right)
-$$
+$$T(E) = \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2} \sqrt{2m(V(x) - E)}dx\right)$$
 
 Where $`V(x)`$ is the potential barrier between universes.
 
 The probability of information transmission correlates with the distance and degree of difference between universes:
 
-$$
-P(\text{transmission}) \propto \exp\left(-\alpha\frac{d(\Omega_i, \Omega_j)}{L_P}\right)
-$$
+$$P(\text{transmission}) \propto \exp\left(-\alpha\frac{d(\Omega_i, \Omega_j)}{L_P}\right)$$
 
 Where $`d`$ is the distance between universes, and $`L_P`$ is the Planck length.
 
@@ -139,17 +113,13 @@ Where $`d`$ is the distance between universes, and $`L_P`$ is the Planck length.
 
 Certain universes may form wormhole-like connections:
 
-$$
-d s^2 = -f(r)dt^2 + \frac{1}{f(r)}dr^2 + r^2(d\theta^2 + \sin^2\theta d\phi^2)
-$$
+$$d s^2 = -f(r)dt^2 + \frac{1}{f(r)}dr^2 + r^2(d\theta^2 + \sin^2\theta d\phi^2)$$
 
 Where $`f(r) = 1 - \frac{2M}{r} + \frac{Q^2}{r^2}`$
 
 The strength of wormhole connections relates to universe similarity:
 
-$$
-\kappa \propto \frac{1}{|H_i - H_j|}
-$$
+$$\kappa \propto \frac{1}{|H_i - H_j|}$$
 
 Where $`H_i`$ and $`H_j`$ are the Hamiltonians of the two universes.
 
@@ -157,15 +127,11 @@ Where $`H_i`$ and $`H_j`$ are the Hamiltonians of the two universes.
 
 Information between multiverses can be encoded through interference patterns:
 
-$$
-|\Psi_{\text{information}}\rangle = \sum_{i,j} c_{ij} |\Psi_i\rangle|\Psi_j\rangle
-$$
+$$|\Psi_{\text{information}}\rangle = \sum_{i,j} c_{ij} |\Psi_i\rangle|\Psi_j\rangle$$
 
 Information extraction requires measuring interference patterns:
 
-$$
-I(x,t) = |\langle x | \Psi_{\text{information}}(t) \rangle|^2
-$$
+$$I(x,t) = |\langle x | \Psi_{\text{information}}(t) \rangle|^2$$
 
 ## Observer Dynamics in the Multiverse
 
@@ -173,23 +139,17 @@ $$
 
 When observers face quantum events, their consciousness states may split:
 
-$$
-|\mathcal{O}\rangle|\Psi\rangle \rightarrow \sum_i c_i |\mathcal{O}_i\rangle|i\rangle
-$$
+$$|\mathcal{O}\rangle|\Psi\rangle \rightarrow \sum_i c_i |\mathcal{O}_i\rangle|i\rangle$$
 
 Split observers maintain a degree of quantum coherence:
 
-$$
-\rho_{\mathcal{O}} = \sum_{i,j} c_i c_j^* |\mathcal{O}_i\rangle\langle\mathcal{O}_j| \otimes |i\rangle\langle j|
-$$
+$$\rho_{\mathcal{O}} = \sum_{i,j} c_i c_j^* |\mathcal{O}_i\rangle\langle\mathcal{O}_j| \otimes |i\rangle\langle j|$$
 
 ### Memory Consistency
 
 Multiverse observers' memories tend to maintain consistency, satisfying the principle of minimum cognitive dissonance:
 
-$$
-\min_{\mathcal{M}} \sum_{i,j} w_{ij} D(\mathcal{M}_i, \mathcal{M}_j)
-$$
+$$\min_{\mathcal{M}} \sum_{i,j} w_{ij} D(\mathcal{M}_i, \mathcal{M}_j)$$
 
 Where $`\mathcal{M}_i`$ is the memory state in universe i, and $`D`$ is the cognitive distance measure.
 
@@ -197,15 +157,11 @@ Where $`\mathcal{M}_i`$ is the memory state in universe i, and $`D`$ is the cogn
 
 Observer consciousness may extend across multiple universes, forming quantum-enhanced consciousness:
 
-$$
-|\Psi_{\text{consciousness}}\rangle = \sum_i a_i |\Psi_{\text{universe}_i}\rangle \otimes |\mathcal{C}_i\rangle
-$$
+$$|\Psi_{\text{consciousness}}\rangle = \sum_i a_i |\Psi_{\text{universe}_i}\rangle \otimes |\mathcal{C}_i\rangle$$
 
 Multiverse consciousness has higher quantum coherence and creativity:
 
-$$
-\mathcal{Q}(\Psi_{\text{consciousness}}) = -\sum_i |a_i|^2 \log |a_i|^2
-$$
+$$\mathcal{Q}(\Psi_{\text{consciousness}}) = -\sum_i |a_i|^2 \log |a_i|^2$$
 
 ## Experimental Verification Proposals
 
@@ -213,9 +169,7 @@ $$
 
 Multiverse interference can be detected through small deviations in quantum random number generators (QRNGs):
 
-$$
-\delta = |P_{\text{observed}} - P_{\text{theoretical}}| > \frac{K}{\sqrt{N}}
-$$
+$$\delta = |P_{\text{observed}} - P_{\text{theoretical}}| > \frac{K}{\sqrt{N}}$$
 
 Where $`N`$ is the sample size, and $`K`$ is the statistical significance threshold.
 
@@ -223,9 +177,7 @@ Where $`N`$ is the sample size, and $`K`$ is the statistical significance thresh
 
 Multiverse interference may lead to resonance in many-body quantum systems at specific frequencies:
 
-$$
-\omega_{\text{resonance}} = n\frac{\Delta E}{\hbar}
-$$
+$$\omega_{\text{resonance}} = n\frac{\Delta E}{\hbar}$$
 
 Where $`\Delta E`$ is the energy gap between adjacent universes, and $`n`$ is an integer.
 
@@ -233,9 +185,7 @@ Where $`\Delta E`$ is the energy gap between adjacent universes, and $`n`$ is an
 
 Multiverse computing may achieve acceleration beyond standard quantum computing:
 
-$$
-T_{\text{multiverse}} < T_{\text{quantum}} < T_{\text{classical}}
-$$
+$$T_{\text{multiverse}} < T_{\text{quantum}} < T_{\text{classical}}$$
 
 By utilizing parallel universe resources, certain computational complexity classes may become more solvable.
 
@@ -245,49 +195,37 @@ By utilizing parallel universe resources, certain computational complexity class
 
 The entropy of a multiverse system can be represented as:
 
-$$
-S_{\text{multiverse}} = -k_B \sum_i p_i \ln p_i - k_B \sum_{i,j} \gamma_{ij} p_i p_j \ln |c_{ij}|^2
-$$
+$$S_{\text{multiverse}} = -k_B \sum_i p_i \ln p_i - k_B \sum_{i,j} \gamma_{ij} p_i p_j \ln |c_{ij}|^2$$
 
 Where the second term represents the contribution of inter-universe interference, $`c_{ij}`$ is the coherence, and $`\gamma_{ij}`$ is the interference strength factor.
 
 The second law of thermodynamics for multiverses is modified to:
 
-$$
-\frac{dS_{\text{multiverse}}}{dt} \geq -\frac{d}{dt}\left(\sum_{i,j} \gamma_{ij} p_i p_j \ln |c_{ij}|^2\right)
-$$
+$$\frac{dS_{\text{multiverse}}}{dt} \geq -\frac{d}{dt}\left(\sum_{i,j} \gamma_{ij} p_i p_j \ln |c_{ij}|^2\right)$$
 
 ### Multiverse Field Theory
 
 Interactions between universes can be represented through multiverse fields:
 
-$$
-\mathcal{L}_{\text{multiverse}} = \sum_i \mathcal{L}_i + \sum_{i,j} g_{ij} \Phi_i \Phi_j
-$$
+$$\mathcal{L}_{\text{multiverse}} = \sum_i \mathcal{L}_i + \sum_{i,j} g_{ij} \Phi_i \Phi_j$$
 
 Where $`\Phi_i`$ is the field of universe i, and $`g_{ij}`$ is the coupling constant.
 
 The field equations become:
 
-$$
-\Box \Phi_i + m_i^2 \Phi_i + \sum_{j \neq i} g_{ij} \Phi_j = 0
-$$
+$$\Box \Phi_i + m_i^2 \Phi_i + \sum_{j \neq i} g_{ij} \Phi_j = 0$$
 
 ### Multiverse Quantum Gravity
 
 Multiverse quantum gravity theory needs to consider gravitational interactions between universes:
 
-$$
-S_{\text{multiverse}} = \sum_i S_i + \sum_{i,j} S_{ij}
-$$
+$$S_{\text{multiverse}} = \sum_i S_i + \sum_{i,j} S_{ij}$$
 
 Where $`S_i`$ is the Einstein-Hilbert action of an individual universe, and $`S_{ij}`$ is the gravitational coupling between universes.
 
 Multiverse quantum gravity may solve divergence problems in single-universe quantum gravity:
 
-$$
-\mathcal{Z}_{\text{multiverse}} = \int \mathcal{D}g \exp(iS_{\text{multiverse}}[g]/\hbar)
-$$
+$$\mathcal{Z}_{\text{multiverse}} = \int \mathcal{D}g \exp(iS_{\text{multiverse}}[g]/\hbar)$$
 
 ## Philosophical and Hermeneutical Implications
 
@@ -295,9 +233,7 @@ $$
 
 The multiverse interference model provides a quantum foundation for free will:
 
-$$
-P(\text{choosing } A) = |\langle \Psi_A | \mathcal{D} | \Psi \rangle|^2
-$$
+$$P(\text{choosing } A) = |\langle \Psi_A | \mathcal{D} | \Psi \rangle|^2$$
 
 Where $`\mathcal{D}`$ is the decision operator, dependent on interference from all possible universes.
 
@@ -305,9 +241,7 @@ Where $`\mathcal{D}`$ is the decision operator, dependent on interference from a
 
 Values in the multiverse model have multidimensional properties:
 
-$$
-V = \sum_i w_i V_i + \sum_{i,j} w_{ij} V_{ij}
-$$
+$$V = \sum_i w_i V_i + \sum_{i,j} w_{ij} V_{ij}$$
 
 Where $`V_i`$ is the value function in an individual universe, and $`V_{ij}`$ is the shared value between universes.
 
@@ -315,15 +249,11 @@ Where $`V_i`$ is the value function in an individual universe, and $`V_{ij}`$ is
 
 Individual identity spans multiple universes, connected by memory strings:
 
-$$
-\mathcal{I}(t) = \int d\mu(\text{universe}) \rho_{\text{identity}}(t, \text{universe})
-$$
+$$\mathcal{I}(t) = \int d\mu(\text{universe}) \rho_{\text{identity}}(t, \text{universe})$$
 
 Identity continuity is a geodesic on the multiverse manifold:
 
-$$
-\frac{d^2\mathcal{I}}{dt^2} + \Gamma^{\mathcal{I}}_{ab} \frac{d\mathcal{I}^a}{dt} \frac{d\mathcal{I}^b}{dt} = 0
-$$
+$$\frac{d^2\mathcal{I}}{dt^2} + \Gamma^{\mathcal{I}}_{ab} \frac{d\mathcal{I}^a}{dt} \frac{d\mathcal{I}^b}{dt} = 0$$
 
 ## Multiverse Information Theory
 
@@ -331,9 +261,7 @@ $$
 
 Information can be transferred between parallel universes, with a transfer rate of:
 
-$$
-R = C \cdot e^{-\lambda D}
-$$
+$$R = C \cdot e^{-\lambda D}$$
 
 Where $`C`$ is a constant, $`\lambda`$ is the decay coefficient, and $`D`$ is the distance between universes.
 
@@ -341,9 +269,7 @@ Where $`C`$ is a constant, $`\lambda`$ is the decay coefficient, and $`D`$ is th
 
 Multiverse interference may lead to new computational complexity classes:
 
-$$
-\text{BQP} \subseteq \text{MQP} \subseteq \text{PSPACE}
-$$
+$$\text{BQP} \subseteq \text{MQP} \subseteq \text{PSPACE}$$
 
 Where MQP is the Multiverse Quantum Polynomial-time complexity class.
 
@@ -351,9 +277,7 @@ Where MQP is the Multiverse Quantum Polynomial-time complexity class.
 
 Multiverse redundancy can be used to design efficient quantum error-correction codes:
 
-$$
-|\psi_{\text{error-correction}}\rangle = \sum_i \alpha_i |i\rangle_1 |i\rangle_2 \cdots |i\rangle_n
-$$
+$$|\psi_{\text{error-correction}}\rangle = \sum_i \alpha_i |i\rangle_1 |i\rangle_2 \cdots |i\rangle_n$$
 
 Where subsystems are distributed across different universes, providing additional protection.
 
@@ -371,9 +295,7 @@ Multiverse theory may lead to revolutionary technologies:
 
 Multiverse ethics must consider the impact of cross-universe behaviors:
 
-$$
-U_{\text{multiverse}} = \sum_i w_i U_i
-$$
+$$U_{\text{multiverse}} = \sum_i w_i U_i$$
 
 Where $`U_i`$ is the utility function in an individual universe, and $`w_i`$ is the weight coefficient.
 
@@ -381,9 +303,7 @@ Where $`U_i`$ is the utility function in an individual universe, and $`w_i`$ is 
 
 Multiverses may mitigate existential risks:
 
-$$
-P(\text{extinction}) = \prod_i P_i(\text{extinction})
-$$
+$$P(\text{extinction}) = \prod_i P_i(\text{extinction})$$
 
 But also introduce new risk dimensions, such as multiverse pollution and interference weapons.
 
@@ -434,4 +354,4 @@ As quantum technology advances, experimental verification of multiverse interfer
 - [Cosmological Dualism Model](formal_theory_cosmology_en.md)
 - [Evolutionary Cosmology Dualism](formal_theory_evolutionary_cosmology_en.md)
 - [Self-Reference Loop Theory](formal_theory_self_reference_en.md)
-- [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
+- [Quantum Consciousness Theory](formal_theory_consciousness_en.md) 

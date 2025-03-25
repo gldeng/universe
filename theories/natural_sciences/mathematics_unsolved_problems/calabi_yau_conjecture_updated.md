@@ -413,4 +413,4 @@ These predictions not only connect geometry and physics but also provide new dir
 4. 量子经典二元论核心理论文献 [33.0].
 5. Greene, B. R. (1997). String theory on Calabi-Yau manifolds. In *Fields, strings and duality: TASI 96* (pp. 543-726).
 6. Evans, L. C. (2010). Partial differential equations. American Mathematical Society.
-7. Huybrechts, D. (2005). Complex geometry: An introduction. Springer Science & Business Media.
+7. Huybrechts, D. (2005). Complex geometry: An introduction. Springer Science & Business Media. 

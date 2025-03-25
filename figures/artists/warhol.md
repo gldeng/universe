@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1928年8月6日 - 1987年2月22日
-**国籍 (Nationality)**: 美国 (American)
-**领域 (Fields)**: 视觉艺术、电影、摄影、波普艺术
+**生平 (Life Span)**: 1928年8月6日 - 1987年2月22日  
+**国籍 (Nationality)**: 美国 (American)  
+**领域 (Fields)**: 视觉艺术、电影、摄影、波普艺术  
 **代表作品 (Representative Works)**: 《玛丽莲·梦露》系列、《坎贝尔汤罐》、《可口可乐瓶》、《毛泽东像》系列
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "在未来，每个人都会成名十五分钟。"
->
+> 
 > "In the future, everyone will be world-famous for 15 minutes."
 
 > "商业艺术是艺术之后的一步。我开始作为商业艺术家，现在我想成为商业艺术。"
->
+> 
 > "Business art is the step that comes after Art. I started as a commercial artist, and I want to finish as a business artist."
 
 > "艺术的定义就是：如果一个画廊老板能卖出它，那它就是艺术。"
->
+> 
 > "Art is what you can get away with."
 
 > "一旦你理解了波普，你就再也不能用同样的方式看待一幅肖像画。"
->
+> 
 > "Once you 'got' Pop, you could never see a sign the same way again."
 
 > "我想成为一台机器。"
->
+> 
 > "I want to be a machine."

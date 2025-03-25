@@ -45,22 +45,13 @@ $$
 行星在十二宫的分布形成特定的量子纠缠网络拓扑结构：
 
 1. **行星聚集（群聚）**：多个行星在同一宫位/星座，形成高度局域化的量子纠缠节点
-
-$$
-|\psi\rangle_{\text{聚集}} = \sum_{i} c_i |\psi_{\text{行星}_i}\rangle, \quad i \in \{\text{同宫行星}\}
-$$
+   $$|\psi\rangle_{\text{聚集}} = \sum_{i} c_i |\psi_{\text{行星}_i}\rangle, \quad i \in \{\text{同宫行星}\}$$
 
 2. **行星分散**：行星均匀分布，形成广泛但强度较弱的量子纠缠网络
-
-$$
-|\psi\rangle_{\text{分散}} = \sum_{i=1}^{10} d_i |\psi_{\text{行星}_i}\rangle, \quad \text{其中} |d_i| \approx |d_j|, \forall i,j
-$$
+   $$|\psi\rangle_{\text{分散}} = \sum_{i=1}^{10} d_i |\psi_{\text{行星}_i}\rangle, \quad \text{其中} |d_i| \approx |d_j|, \forall i,j$$
 
 3. **行星组合（格局）**：特定几何配置的行星组合，形成特殊的量子干涉模式
-
-$$
-|\psi\rangle_{\text{格局}} = \sum_{i,j,k} e_{ijk} |\psi_{\text{行星}_i}\rangle \otimes |\psi_{\text{行星}_j}\rangle \otimes |\psi_{\text{行星}_k}\rangle
-$$
+   $$|\psi\rangle_{\text{格局}} = \sum_{i,j,k} e_{ijk} |\psi_{\text{行星}_i}\rangle \otimes |\psi_{\text{行星}_j}\rangle \otimes |\psi_{\text{行星}_k}\rangle$$
 
 这些分布模式直接影响观察者的量子经典二元结构和经典化路径优先级。
 
@@ -107,16 +98,10 @@ $$
 上升点（Ascendant）与中天点（Midheaven）作为占星盘中的关键点，代表了量子域与经典域的主要接口：
 
 - **上升点**：个人量子纠缠场与环境量子纠缠场的主要交互界面
-
-$$
-|\psi\rangle_{\text{个人}} \longleftrightarrow |\psi\rangle_{\text{环境}}
-$$
+  $$|\psi\rangle_{\text{个人}} \longleftrightarrow |\psi\rangle_{\text{环境}}$$
 
 - **中天点**：个人量子纠缠场与社会集体量子纠缠场的主要交互界面
-
-$$
-|\psi\rangle_{\text{个人}} \longleftrightarrow |\psi\rangle_{\text{社会}}
-$$
+  $$|\psi\rangle_{\text{个人}} \longleftrightarrow |\psi\rangle_{\text{社会}}$$
 
 这些接口点直接影响观察者从量子域经典化信息的主要路径和方式。
 
@@ -133,22 +118,13 @@ $$
 #### 3.3 本命盘、合盘与综合盘的量子纠缠模型
 
 - **本命盘**：单一观察者的量子纠缠结构
-
-$$
-|\psi\rangle_{\text{本命}} = \sum_{i=1}^{10} a_i |\psi_{\text{行星}_i}\rangle
-$$
+  $$|\psi\rangle_{\text{本命}} = \sum_{i=1}^{10} a_i |\psi_{\text{行星}_i}\rangle$$
 
 - **合盘**：两个观察者量子纠缠结构的叠加
-
-$$
-|\psi\rangle_{\text{合盘}} = |\psi\rangle_{\text{观察者A}} \otimes |\psi\rangle_{\text{观察者B}}
-$$
+  $$|\psi\rangle_{\text{合盘}} = |\psi\rangle_{\text{观察者A}} \otimes |\psi\rangle_{\text{观察者B}}$$
 
 - **综合盘**：两个观察者量子纠缠结构的混合
-
-$$
-|\psi\rangle_{\text{综合}} = \frac{1}{2}(|\psi\rangle_{\text{观察者A}} + |\psi\rangle_{\text{观察者B}})
-$$
+  $$|\psi\rangle_{\text{综合}} = \frac{1}{2}(|\psi\rangle_{\text{观察者A}} + |\psi\rangle_{\text{观察者B}})$$
 
 这些模型解释了不同类型星盘在人际关系分析中的应用原理。
 
@@ -225,22 +201,13 @@ Each planet in a specific house and sign combination produces a specific ratio o
 The distribution of planets in the twelve houses forms specific quantum entanglement network topological structures:
 
 1. **Planetary Clustering (Stellium)**: Multiple planets in the same house/sign, forming a highly localized quantum entanglement node
-
-$$
-|\psi\rangle_{\text{Clustering}} = \sum_{i} c_i |\psi_{\text{Planet}_i}\rangle, \quad i \in \{\text{Planets in same house}\}
-$$
+   $$|\psi\rangle_{\text{Clustering}} = \sum_{i} c_i |\psi_{\text{Planet}_i}\rangle, \quad i \in \{\text{Planets in same house}\}$$
 
 2. **Planetary Dispersion**: Evenly distributed planets, forming a widespread but weaker quantum entanglement network
-
-$$
-|\psi\rangle_{\text{Dispersion}} = \sum_{i=1}^{10} d_i |\psi_{\text{Planet}_i}\rangle, \quad \text{where} |d_i| \approx |d_j|, \forall i,j
-$$
+   $$|\psi\rangle_{\text{Dispersion}} = \sum_{i=1}^{10} d_i |\psi_{\text{Planet}_i}\rangle, \quad \text{where} |d_i| \approx |d_j|, \forall i,j$$
 
 3. **Planetary Combinations (Patterns)**: Planets in specific geometric configurations, forming special quantum interference patterns
-
-$$
-|\psi\rangle_{\text{Pattern}} = \sum_{i,j,k} e_{ijk} |\psi_{\text{Planet}_i}\rangle \otimes |\psi_{\text{Planet}_j}\rangle \otimes |\psi_{\text{Planet}_k}\rangle
-$$
+   $$|\psi\rangle_{\text{Pattern}} = \sum_{i,j,k} e_{ijk} |\psi_{\text{Planet}_i}\rangle \otimes |\psi_{\text{Planet}_j}\rangle \otimes |\psi_{\text{Planet}_k}\rangle$$
 
 These distribution patterns directly affect the observer's quantum-classical structure and classicalization path priorities.
 
@@ -287,16 +254,10 @@ Where $`\alpha, \beta, \gamma, ...`$ are weighting coefficients, dynamically adj
 The Ascendant and Midheaven, as key points in the birth chart, represent the main interfaces between quantum and classical domains:
 
 - **Ascendant**: The main interaction interface between personal quantum entanglement field and environmental quantum entanglement field
-
-$$
-|\psi\rangle_{\text{Personal}} \longleftrightarrow |\psi\rangle_{\text{Environment}}
-$$
+  $$|\psi\rangle_{\text{Personal}} \longleftrightarrow |\psi\rangle_{\text{Environment}}$$
 
 - **Midheaven**: The main interaction interface between personal quantum entanglement field and social collective quantum entanglement field
-
-$$
-|\psi\rangle_{\text{Personal}} \longleftrightarrow |\psi\rangle_{\text{Social}}
-$$
+  $$|\psi\rangle_{\text{Personal}} \longleftrightarrow |\psi\rangle_{\text{Social}}$$
 
 These interface points directly affect the main paths and methods by which the observer classicalizes information from the quantum domain.
 
@@ -313,22 +274,13 @@ The effectiveness of different house systems depends on the observer's classical
 #### 3.3 Quantum Entanglement Models of Natal, Synastry, and Composite Charts
 
 - **Natal Chart**: Quantum entanglement structure of a single observer
-
-$$
-|\psi\rangle_{\text{Natal}} = \sum_{i=1}^{10} a_i |\psi_{\text{Planet}_i}\rangle
-$$
+  $$|\psi\rangle_{\text{Natal}} = \sum_{i=1}^{10} a_i |\psi_{\text{Planet}_i}\rangle$$
 
 - **Synastry Chart**: Superposition of quantum entanglement structures of two observers
-
-$$
-|\psi\rangle_{\text{Synastry}} = |\psi\rangle_{\text{Observer A}} \otimes |\psi\rangle_{\text{Observer B}}
-$$
+  $$|\psi\rangle_{\text{Synastry}} = |\psi\rangle_{\text{Observer A}} \otimes |\psi\rangle_{\text{Observer B}}$$
 
 - **Composite Chart**: Mixture of quantum entanglement structures of two observers
-
-$$
-|\psi\rangle_{\text{Composite}} = \frac{1}{2}(|\psi\rangle_{\text{Observer A}} + |\psi\rangle_{\text{Observer B}})
-$$
+  $$|\psi\rangle_{\text{Composite}} = \frac{1}{2}(|\psi\rangle_{\text{Observer A}} + |\psi\rangle_{\text{Observer B}})$$
 
 These models explain the principles of applying different types of charts in relationship analysis.
 
@@ -361,4 +313,4 @@ $$
 S_{\text{Before Transition}} < S_{\text{During Transition}} > S_{\text{After Transition}}
 $$
 
-In the best case, $`S_{\text{After Transition}} < S_{\text{Before Transition}}`$, indicating that after experiencing the transition, the observer has formed a more efficient classicalization path.
+In the best case, $`S_{\text{After Transition}} < S_{\text{Before Transition}}`$, indicating that after experiencing the transition, the observer has formed a more efficient classicalization path. 

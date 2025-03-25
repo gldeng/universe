@@ -3,10 +3,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#摘要--abstract) | [English Version](#摘要--abstract)
-**章节链接 | Section Links**
-中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [《三体》宇宙观的局限性](#二三体宇宙观的局限性--limitations-of-the-three-body-problem-universe-view)
+**导航 | Navigation**  
+[中文版](#摘要--abstract) | [English Version](#摘要--abstract)  
+**章节链接 | Section Links**  
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [《三体》宇宙观的局限性](#二三体宇宙观的局限性--limitations-of-the-three-body-problem-universe-view)  
 English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Limitations of "Three-Body" Universe View](#二三体宇宙观的局限性--limitations-of-the-three-body-problem-universe-view)
 
 ## 摘要 | Abstract

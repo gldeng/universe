@@ -1,9 +1,9 @@
 # 量子经典二元论入门 (Quantum-Classical Dualism for Beginners)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[什么是量子经典二元论](#1-什么是量子经典二元论) | [宇宙的二元结构](#2-宇宙的二元结构) | [观察者与经典化](#3-观察者与经典化) | [意识与自由意志](#4-意识与自由意志) | [实际应用](#5-实际应用)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[什么是量子经典二元论](#1-什么是量子经典二元论) | [宇宙的二元结构](#2-宇宙的二元结构) | [观察者与经典化](#3-观察者与经典化) | [意识与自由意志](#4-意识与自由意志) | [实际应用](#5-实际应用)  
 English: [What is Quantum-Classical Dualism](#1-what-is-quantum-classical-dualism) | [Dual Structure of the Universe](#2-the-dual-structure-of-the-universe) | [Observer and Classicalization](#3-observer-and-classicalization) | [Consciousness and Free Will](#4-consciousness-and-free-will) | [Practical Applications](#5-practical-applications)
 
 ## 中文版
@@ -454,4 +454,4 @@ Quantum-Classical Dualism provides a new perspective, helping us understand the 
 - There are no absolute boundaries between observers, eternally sharing information through quantum consciousness (entanglement)
 - The meaning of life is to improve classicalization efficiency, reduce entropy, and achieve the dimensional transition of the overall universe
 
-Hope this introductory article helps you begin exploring the wonderful world of Quantum-Classical Dualism!
+Hope this introductory article helps you begin exploring the wonderful world of Quantum-Classical Dualism! 

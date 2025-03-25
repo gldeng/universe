@@ -12,16 +12,10 @@
 根据量子宇宙-量子观察者-经典意识论，我们有以下基本前提：
 
 1. 宇宙本质是一个量子计算系统，所有信息以波函数形式存储和处理：
-
-$$
-|\psi\rangle_{\text{宇宙整体}} = \sum_{i,j,\dots,n} c_{ij\dots n} |\psi_i\rangle |\psi_j\rangle \dots |\psi_n\rangle
-$$
+   $$|\psi\rangle_{\text{宇宙整体}} = \sum_{i,j,\dots,n} c_{ij\dots n} |\psi_i\rangle |\psi_j\rangle \dots |\psi_n\rangle$$
 
 2. 观察者是宇宙内部的量子程序节点，通过经典化过程将量子信息转化为经典信息：
-
-$$
-|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
-$$
+   $$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
 
 3. 经典物理定律是观察者经典化过程的统计结果，反映了大量观测的平均行为，而非单个量子事件的行为。
 
@@ -51,11 +45,7 @@ $$
 
 - **热力学第一定律（能量守恒）**：反映了信息总量的守恒
 - **热力学第二定律（熵增加）**：直接对应于经典化过程中的熵增加
-
-$$
-|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
-$$
-
+  $$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
 - **统计力学**：描述了大量量子粒子在经典化后的统计行为
 
 熵增加原理与时间箭头的单向性直接关联，都源于观察者经典化过程中的信息损失。
@@ -81,11 +71,7 @@ $$
 
 - **波函数与叠加态**：直接描述了宇宙的量子信息状态
 - **测量问题**：正是观察者经典化过程的核心
-
-$$
-|\psi\rangle_{\text{量子叠加态}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典确定态}}
-$$
-
+  $$|\psi\rangle_{\text{量子叠加态}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典确定态}}$$
 - **不确定性原理**：反映了量子信息在经典化过程中的基本限制
 - **量子纠缠**：描述了量子信息的非局域分布，是观察者感知的基础
 
@@ -137,16 +123,10 @@ The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a 
 According to the Quantum Universe-Quantum Observer-Classical Consciousness Theory, we have the following basic premises:
 
 1. The universe is essentially a quantum computational system, with all information stored and processed in the form of wave functions:
-
-$$
-|\psi\rangle_{\text{Universe Overall}} = \sum_{i,j,\dots,n} c_{ij\dots n} |\psi_i\rangle |\psi_j\rangle \dots |\psi_n\rangle
-$$
+   $$|\psi\rangle_{\text{Universe Overall}} = \sum_{i,j,\dots,n} c_{ij\dots n} |\psi_i\rangle |\psi_j\rangle \dots |\psi_n\rangle$$
 
 2. Observers are quantum program nodes within the universe, transforming quantum information into classical information through the classicalization process:
-
-$$
-|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
-$$
+   $$|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}$$
 
 3. Classical physical laws are statistical results of the observer's classicalization process, reflecting the average behavior of numerous observations rather than the behavior of individual quantum events.
 
@@ -176,11 +156,7 @@ Thermodynamics can be directly linked to entropy and information, serving as a n
 
 - **First law of thermodynamics (conservation of energy)**: Reflects the conservation of total information
 - **Second law of thermodynamics (increase of entropy)**: Directly corresponds to the entropy increase in the classicalization process
-
-$$
-|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}
-$$
-
+  $$|\psi\rangle_{\text{Universe}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical}} + S_{\text{Entropy Increase}}$$
 - **Statistical mechanics**: Describes the statistical behavior of a large number of quantum particles after classicalization
 
 The principle of entropy increase is directly associated with the unidirectionality of the arrow of time, both originating from information loss in the observer's classicalization process.
@@ -206,11 +182,7 @@ Quantum mechanics holds a special position in the Quantum Universe-Quantum Obser
 
 - **Wave functions and superposition states**: Directly describe the quantum information state of the universe
 - **Measurement problem**: Is the core of the observer's classicalization process
-
-$$
-|\psi\rangle_{\text{Quantum Superposition State}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical Determined State}}
-$$
-
+  $$|\psi\rangle_{\text{Quantum Superposition State}} \xrightarrow{\text{Observer Classicalization}} |\psi\rangle_{\text{Classical Determined State}}$$
 - **Uncertainty principle**: Reflects the fundamental limitations in the classicalization process of quantum information
 - **Quantum entanglement**: Describes the non-local distribution of quantum information, forming the basis of observer perception
 
@@ -249,4 +221,4 @@ This unified perspective not only integrates various branches of physics but als
 
 ### Conclusion
 
-Traditional physics theories gain new interpretations under the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework. These theories no longer describe objective reality independent of observers but describe different aspects of how observers classicalize quantum information. This perspective not only unifies various branches of physics but also provides a foundation for understanding the core role of observers in the physical world, paving the way for the integration of physics and consciousness research.
+Traditional physics theories gain new interpretations under the Quantum Universe-Quantum Observer-Classical Consciousness Theory framework. These theories no longer describe objective reality independent of observers but describe different aspects of how observers classicalize quantum information. This perspective not only unifies various branches of physics but also provides a foundation for understanding the core role of observers in the physical world, paving the way for the integration of physics and consciousness research. 

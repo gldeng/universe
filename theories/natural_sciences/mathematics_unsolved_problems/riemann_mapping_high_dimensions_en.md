@@ -85,24 +85,14 @@ We prove by contradiction. Assume there exists a biholomorphic mapping $`f: \mat
 1. Consider the automorphism group $`\text{Aut}(\mathbb{B}^n)`$ of $`\mathbb{B}^n`$ and the automorphism group $`\text{Aut}(\mathbb{D}^n)`$ of $`\mathbb{D}^n`$.
 
 2. It is known that the action of $`\text{Aut}(\mathbb{B}^n)`$ on $`\mathbb{B}^n`$ is transitive, i.e.,
-
-$$
-\forall p, q \in \mathbb{B}^n, \exists \varphi \in \text{Aut}(\mathbb{B}^n), \varphi(p) = q
-$$
+   $$\forall p, q \in \mathbb{B}^n, \exists \varphi \in \text{Aut}(\mathbb{B}^n), \varphi(p) = q$$
 
 3. However, the action of $`\text{Aut}(\mathbb{D}^n)`$ is not transitive, because
-
-$$
-\text{Aut}(\mathbb{D}^n) = \text{Aut}(\mathbb{D}) \times \text{Aut}(\mathbb{D}) \times \cdots \times \text{Aut}(\mathbb{D})
-$$
-
+   $$\text{Aut}(\mathbb{D}^n) = \text{Aut}(\mathbb{D}) \times \text{Aut}(\mathbb{D}) \times \cdots \times \text{Aut}(\mathbb{D})$$
    can only act independently on each coordinate component.
 
 4. The biholomorphic mapping $`f`$ would induce a group isomorphism $`f_*: \text{Aut}(\mathbb{B}^n) \to \text{Aut}(\mathbb{D}^n)`$, where
-
-$$
-f_*(\varphi) = f \circ \varphi \circ f^{-1}
-$$
+   $$f_*(\varphi) = f \circ \varphi \circ f^{-1}$$
 
 5. This leads to a contradiction, because a transitive action cannot be mapped to a non-transitive action through an isomorphism.
 
@@ -114,32 +104,19 @@ $$
 1. According to Axiom Q1, quantum information classicalization satisfies: $`I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi)`$
 
 2. Introduce a dimension-related quantum entanglement measure $`E_n`$:
-
-$$
-E_n(\psi) = 1 - \prod_{i=1}^n (1 - E(\psi_i))
-$$
-
+   $$E_n(\psi) = 1 - \prod_{i=1}^n (1 - E(\psi_i))$$
+   
    where $`E(\psi_i)`$ is the entanglement of the $`i`$-th subsystem.
 
 3. Let $`\sigma_n`$ represent the information loss rate during classicalization:
-
-$$
-\sigma_n = \frac{I_{\text{hidden}}(\psi)}{I(\psi)} = 1 - \frac{I(\mathcal{C}(\psi))}{I(\psi)}
-$$
+   $$\sigma_n = \frac{I_{\text{hidden}}(\psi)}{I(\psi)} = 1 - \frac{I(\mathcal{C}(\psi))}{I(\psi)}$$
 
 4. Prove that $`\sigma_n`$ is proportional to $`E_n`$:
-
-$$
-\sigma_n \geq \alpha \cdot E_n(\psi)
-$$
-
+   $$\sigma_n \geq \alpha \cdot E_n(\psi)$$
    where $`\alpha`$ is a positive proportionality constant.
 
 5. For quantum systems with $`n > 1`$, $`E_n > 0`$ and increases with $`n`$:
-
-$$
-\frac{dE_n}{dn} > 0
-$$
+   $$\frac{dE_n}{dn} > 0$$
 
 6. Therefore, according to Lemma 1, when $`n > 1`$, due to $`\sigma_n > 0`$, there is an unavoidable information loss, which makes biholomorphic mappings impossible in the general case. ◻
 
@@ -151,36 +128,21 @@ $$
 
 **Proof**:
 1. The Kobayashi hyperbolic metric $`K_{\Omega}`$ on complex domain $`\Omega`$ is defined as:
-
-$$
-K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}
-$$
+   $$K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}$$
 
 2. Quantum entanglement complexity satisfies:
-
-$$
-\mathcal{C}_{\text{entanglement}}(\mathbb{C}^n) \propto e^n
-$$
+   $$\mathcal{C}_{\text{entanglement}}(\mathbb{C}^n) \propto e^n$$
 
 3. The quantum entanglement complexity of domain $`\Omega`$ can be represented in integral form:
-
-$$
-\mathcal{C}_{\text{entanglement}}(\Omega) = \int_{\Omega} \rho_{\text{entanglement}}(z) dV_{\Omega}(z)
-$$
-
+   $$\mathcal{C}_{\text{entanglement}}(\Omega) = \int_{\Omega} \rho_{\text{entanglement}}(z) dV_{\Omega}(z)$$
+   
    where $`\rho_{\text{entanglement}}`$ is the entanglement density function, and $`dV_{\Omega}`$ is the volume element.
 
 4. According to the quantum-classical dualism information phase transition theory, entanglement density is related to local curvature:
-
-$$
-\rho_{\text{entanglement}}(z) \propto |K_{\Omega}(z, dz)|^2
-$$
+   $$\rho_{\text{entanglement}}(z) \propto |K_{\Omega}(z, dz)|^2$$
 
 5. Therefore, quantum entanglement complexity can be represented through the Kobayashi metric integral:
-
-$$
-\mathcal{C}_{\text{entanglement}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}
-$$
+   $$\mathcal{C}_{\text{entanglement}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}$$
 
 6. This indicates that holomorphic invariants (such as the Kobayashi metric) can be interpreted as a measure of the "compression rate" of quantum information during the classicalization process. ◻
 
@@ -273,4 +235,4 @@ These predictions suggest possible deep connections between quantum information 
 3. Forstnerič, F. (2011). Stein manifolds and holomorphic mappings: The homotopy principle in complex analysis. Springer Science & Business Media.
 4. Quantum-Classical Dualism Core Theory Literature [33.0].
 5. Jost, J. (2006). Compact Riemann surfaces: An introduction to contemporary mathematics. Springer Science & Business Media.
-6. Greene, B. (2003). The elegant universe: Superstrings, hidden dimensions, and the quest for the ultimate theory. Vintage Books.
+6. Greene, B. (2003). The elegant universe: Superstrings, hidden dimensions, and the quest for the ultimate theory. Vintage Books. 

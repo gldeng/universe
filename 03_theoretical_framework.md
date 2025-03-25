@@ -17,31 +17,21 @@
 
 1. **二元存在性公理**：宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连
 
-$$
-\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
 2. **信息守恒公理**：信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换
 
-$$
-I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}
-$$
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
 
 3. **观察者经典化公理**：观察者是执行量子→经典转换的节点，其转换能力决定了其维度
 
-$$
-\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
 4. **维度涌现公理**：观察者维度是经典化能力与量子化能力的函数，高维度观察者的经典域可以成为低维度观察者的量子域基础
 
-$$
-D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
-$$
-\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
 ### 基本原理
 
@@ -122,38 +112,22 @@ $$
 界面 $`\mathcal{I}`$ 是量子域和经典域之间的过渡区域，具有以下核心特性：
 
 - **界面结构**：界面是量子域和经典域的交集，定义为：
-
-$$
-\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}
-$$
-
+  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
   其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。
 
 - **界面动力学**：界面位置满足非线性动力学方程：
-
-$$
-\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)
-$$
+  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 - **经典化过程**：量子→经典转换通过经典化超算符表示：
-
-$$
-\mathcal{C}(\rho) = \sum_i P_i \rho P_i
-$$
-
+  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
   其中 $`P_i`$ 是投影算符。经典化过程满足信息守恒：
-
-$$
-I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{隐藏}}
-$$
+  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{隐藏}}$$
 
 ### 多重二元论层级
 
 多重二元论层级理论将单一二元论扩展为嵌套多层级结构：
 
-$$
-\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
-$$
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 其中：
 - $`\Omega_Q^{(i)}`$ 是第i层级的量子域（该层级的可能性空间）
@@ -161,13 +135,9 @@ $$
 
 层级间映射函数定义为：
 
-$$
-\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}
-$$
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
 
-$$
-\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}
-$$
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
 
 这表明一个层级的经典结构可以成为更高层级的量子基础，产生无限递归的现实层级。
 
@@ -342,31 +312,21 @@ Quantum-Classical Dualism is based on the following core axioms:
 
 1. **Dual Existence Axiom**: The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$
 
-$$
-\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
 2. **Information Conservation Axiom**: Information is conserved throughout the universe but can be converted between quantum information (possibility information in superposition states) and classical information (definite knowledge)
 
-$$
-I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}
-$$
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{hidden}}(\psi) = \text{constant}$$
 
 3. **Observer Classicalization Axiom**: Observers are nodes that execute quantum→classical conversion, and their conversion capability determines their dimension
 
-$$
-\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
 
 4. **Dimensional Emergence Axiom**: Observer dimension is a function of classicalization ability and quantization ability, while the classical domain of high-dimensional observers can become the quantum domain basis for low-dimensional observers
 
-$$
-D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}
-$$
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}$$
 
-$$
-\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
 ### Basic Principles
 
@@ -447,38 +407,22 @@ $$
 The interface $`\mathcal{I}`$ is the transition region between the quantum domain and the classical domain, with the following core characteristics:
 
 - **Interface Structure**: The interface is the intersection of the quantum domain and the classical domain, defined as:
-
-$$
-\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}
-$$
-
+  $$\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}$$
   where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 - **Interface Dynamics**: The interface position satisfies a nonlinear dynamics equation:
-
-$$
-\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)
-$$
+  $$\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)$$
 
 - **Classicalization Process**: The quantum→classical conversion is represented by the classicalization superoperator:
-
-$$
-\mathcal{C}(\rho) = \sum_i P_i \rho P_i
-$$
-
+  $$\mathcal{C}(\rho) = \sum_i P_i \rho P_i$$
   where $`P_i`$ is the projection operator. The classicalization process satisfies information conservation:
-
-$$
-I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}
-$$
+  $$I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}$$
 
 ### Multiple Dualism Hierarchy
 
 The multiple dualism hierarchy theory extends the single dualism into a nested multi-level structure:
 
-$$
-\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}
-$$
+$$\mathcal{U} = \{\Omega_Q^{(1)}, \Omega_C^{(1)}, \Omega_Q^{(2)}, \Omega_C^{(2)}, ..., \Omega_Q^{(n)}, \Omega_C^{(n)}\}$$
 
 where:
 - $`\Omega_Q^{(i)}`$ is the quantum domain of the i-th level (the possibility space of that level)
@@ -486,13 +430,9 @@ where:
 
 The mapping function between levels is defined as:
 
-$$
-\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}
-$$
+$$\mathcal{M}_{i \rightarrow i+1}: \Omega_C^{(i)} \rightarrow \Omega_Q^{(i+1)}$$
 
-$$
-\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}
-$$
+$$\mathcal{M}_{i+1 \rightarrow i}: \Omega_C^{(i+1)} \rightarrow \Omega_Q^{(i)}$$
 
 This indicates that the classical structure of one level can become the quantum foundation of a higher level, producing an infinite recursion of reality levels.
 

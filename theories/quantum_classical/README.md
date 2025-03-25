@@ -1,9 +1,9 @@
 # 量子经典二元论 | Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#量子经典二元论概述) | [English Version](#quantum-classical-dualism-overview)
-**章节链接 | Section Links**
-中文：[概述](#量子经典二元论概述) | [核心原理](#核心原理) | [理论结构](#理论结构) | [应用领域](#应用领域)
+**导航 | Navigation**  
+[中文版](#量子经典二元论概述) | [English Version](#quantum-classical-dualism-overview)  
+**章节链接 | Section Links**  
+中文：[概述](#量子经典二元论概述) | [核心原理](#核心原理) | [理论结构](#理论结构) | [应用领域](#应用领域)  
 English: [Overview](#quantum-classical-dualism-overview) | [Core Principles](#core-principles) | [Theoretical Structure](#theoretical-structure) | [Application Areas](#application-areas)
 
 ## 简介 | Introduction
@@ -20,24 +20,18 @@ This directory explores the relationship between quantum and classical worlds, a
 - **量子域**：宇宙本质为无限可能性的波函数叠加态，是一切潜在现实的总和
   **Quantum Domain**: The essence of the universe is an infinite superposition of wave functions, representing the sum of all potential realities
 
-$$
-|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+  $$|\psi\rangle_{\text{宇宙}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
 - **经典域**：由观察者将量子域信息经典化为确定的知识与熵，经典信息总量守恒
   **Classical Domain**: Formed by observers classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved
 
-$$
-|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-$$
+  $$|\psi\rangle_{\text{量子宇宙}}\xrightarrow{\text{经典化}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
 
 ### 观察者本质 | Observer Essence
 
 观察者是宇宙经典化过程中的节点，既是量子信息的接收者，也是经典现实的创造者。观察者通过经典化过程从量子域提取信息，转化为经典知识和熵：
 
-$$
-|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}
-$$
+$$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}$$
 
 ## 目录 | Contents
 
@@ -252,5 +246,5 @@ $$
 
 ## 相关理论与应用 | Related Theories and Applications
 
-- [传统物理理论解释](../natural_sciences/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论
-  [Traditional Physics Theory Explanation](../natural_sciences/traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory
+- [传统物理理论解释](../natural_sciences/traditional_physics_explained.md) - 通过量子宇宙-量子观察者-经典意识论解释传统物理理论 
+  [Traditional Physics Theory Explanation](../natural_sciences/traditional_physics_explained.md) - Explaining traditional physics theories through the Quantum Universe-Quantum Observer-Classical Consciousness Theory 

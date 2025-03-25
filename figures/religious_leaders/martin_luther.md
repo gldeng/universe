@@ -178,4 +178,4 @@ Martin Luther's ideas sparked the Reformation, forming the Protestant tradition 
 
 > "基督徒是最自由的主人，不受任何人管辖；基督徒也是最尽职的仆人，受所有人的管辖。" ——《论基督徒的自由》
 >
-> "A Christian is a perfectly free lord of all, subject to none. A Christian is a perfectly dutiful servant of all, subject to all." —On the Freedom of a Christian
+> "A Christian is a perfectly free lord of all, subject to none. A Christian is a perfectly dutiful servant of all, subject to all." —On the Freedom of a Christian 

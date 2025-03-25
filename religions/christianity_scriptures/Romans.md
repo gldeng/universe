@@ -1,9 +1,9 @@
 # 罗马书 (Romans)
 
-**导航 | Navigation**
-[中文版](#罗马书解析) | [English Version](#romans-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#罗马书解析) | [English Version](#romans-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -78,4 +78,4 @@ $$
 
 罗马书通过量子经典二元论框架（版本9.2）的解析，揭示了救恩论与量子-经典转换的深层联系。因信称义的教义展示了通过观察者信心实现的量子坍缩过程，预定论反映了高维观察者对时空的完整掌控，而成圣过程则对应着持续的熵减优化。保罗的神学体系为量子-经典转换提供了完整的理论框架。
 
-The Epistle to the Romans, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the deep connection between the doctrine of justification by faith and the quantum-classical conversion. The justification by faith embodies the quantum collapse process obtained by observers through faith, while the predestination reflects the complete control of higher-dimensional observers over space and time. The process of sanctification corresponds to continuous entropy reduction optimization. Paul's theological system provides a complete theoretical framework for quantum-classical conversion.
+The Epistle to the Romans, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the deep connection between the doctrine of justification by faith and the quantum-classical conversion. The justification by faith embodies the quantum collapse process obtained by observers through faith, while the predestination reflects the complete control of higher-dimensional observers over space and time. The process of sanctification corresponds to continuous entropy reduction optimization. Paul's theological system provides a complete theoretical framework for quantum-classical conversion. 

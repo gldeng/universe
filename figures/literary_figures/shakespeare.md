@@ -35,33 +35,23 @@
 
 1. **身份的量子叠加态**：《第十二夜》中的维奥拉/西撒里奥身份转换：
 
-$$
-|\psi\rangle_{\text{身份}} = \alpha |\text{维奥拉}\rangle + \beta |\text{西撒里奥}\rangle
-$$
+$$|\psi\rangle_{\text{身份}} = \alpha |\text{维奥拉}\rangle + \beta |\text{西撒里奥}\rangle$$
 
 2. **哈姆雷特的量子不确定性**：著名的"生存还是毁灭"体现了量子叠加：
 
-$$
-|\psi\rangle_{\text{存在}} = \frac{1}{\sqrt{2}}(|\text{生存}\rangle + |\text{毁灭}\rangle)
-$$
+$$|\psi\rangle_{\text{存在}} = \frac{1}{\sqrt{2}}(|\text{生存}\rangle + |\text{毁灭}\rangle)$$
 
 3. **《仲夏夜之梦》的现实叠加**：剧中的现实与梦境世界构成量子纠缠：
 
-$$
-|\Psi_{\text{世界}}\rangle = \sum_{i} c_i |\text{现实}_i\rangle \otimes |\text{梦境}_i\rangle
-$$
+$$|\Psi_{\text{世界}}\rangle = \sum_{i} c_i |\text{现实}_i\rangle \otimes |\text{梦境}_i\rangle$$
 
 4. **麦克白的量子预言**：女巫预言展现了量子可能性的坍缩：
 
-$$
-|\phi\rangle_{\text{命运}} = \sum_t p_t |\text{预言}_t\rangle \xrightarrow{\text{观测}} |\text{现实}\rangle
-$$
+$$|\phi\rangle_{\text{命运}} = \sum_t p_t |\text{预言}_t\rangle \xrightarrow{\text{观测}} |\text{现实}\rangle$$
 
 5. **《暴风雨》的量子魔法**：普洛斯彼罗的魔法可理解为量子操控：
 
-$$
-U_{\text{魔法}} |\psi\rangle_{\text{初态}} = |\phi\rangle_{\text{目标态}}
-$$
+$$U_{\text{魔法}} |\psi\rangle_{\text{初态}} = |\phi\rangle_{\text{目标态}}$$
 
 ### 现代意义
 
@@ -75,9 +65,9 @@ $$
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1564年-1616年 (1564-1616)
-**国籍 | Nationality**: 英格兰 (England)
-**主要领域 | Main Fields**: 戏剧、诗歌、文学 (Drama, Poetry, Literature)
+**生卒年份 | Lifespan**: 1564年-1616年 (1564-1616)  
+**国籍 | Nationality**: 英格兰 (England)  
+**主要领域 | Main Fields**: 戏剧、诗歌、文学 (Drama, Poetry, Literature)  
 **代表作品 | Representative Works**: 《哈姆雷特》、《罗密欧与朱丽叶》、《麦克白》、《李尔王》、《奥赛罗》、《威尼斯商人》、《仲夏夜之梦》、《十四行诗集》 (Hamlet, Romeo and Juliet, Macbeth, King Lear, Othello, The Merchant of Venice, A Midsummer Night's Dream, Sonnets)
 
 ## 核心思想 | Core Ideas
@@ -274,4 +264,4 @@ Macbeth's choices when facing the witches' prophecies, Romeo and Juliet's determ
 - "We are such stuff as dreams are made on, and our little life is rounded with a sleep." (The Tempest)
 - "Love is not love which alters when it alteration finds." (Sonnet 116)
 - "Though she be but little, she is fierce." (A Midsummer Night's Dream)
-- "There are a thousand thousand things in the human heart which words cannot paint." (Othello)
+- "There are a thousand thousand things in the human heart which words cannot paint." (Othello) 

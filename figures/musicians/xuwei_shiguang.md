@@ -1,10 +1,10 @@
 # 《时光》：量子经典二元论视角下的时间与流转
 # "Time": Temporal Flow Through the Lens of Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)  
 English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysis) | [Musical Style](#musical-style) | [Quantum-Classical Dualism Perspective](#quantum-classical-dualism-perspective) | [Philosophical Significance](#philosophical-significance)
 
 ## 中文版
@@ -26,7 +26,7 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 从量子经典二元论的视角来看，《时光》揭示了时间在量子域与经典域中的不同特性与相互转化：
 
 1. **时间的量子经典二元性**：
-
+   
    歌词中"时光如水"的比喻暗示了时间同时具备量子的不确定性（如量子泡沫）和经典的线性流动（如河流），可用以下叠加态表示：
 
 $$
@@ -34,7 +34,7 @@ $$
 $$
 
 2. **时空维度与观察者关系**：
-
+   
    "时光不听我挽留"体现了经典观察者与量子时空的关系——观察者维度不够高时，无法改变时间的经典熵增方向：
 
 $$
@@ -44,7 +44,7 @@ $$
 其中$`D_{\text{观察者}}`$为观察者维度。
 
 3. **时空记忆与量子熵**：
-
+   
    歌曲中对过往时光的记忆和感悟，体现了观察者通过意识对已经经典化的量子可能性进行再次体验的过程：
 
 $$
@@ -78,7 +78,7 @@ The musical style of "Time" is gentle and profound, with a soothing melody and l
 From the perspective of Quantum-Classical Dualism, "Time" reveals the different characteristics and mutual transformation of time in the quantum and classical domains:
 
 1. **Quantum-Classical Duality of Time**:
-
+   
    The metaphor of "time flowing like water" in the lyrics suggests that time simultaneously possesses quantum uncertainty (like quantum foam) and classical linear flow (like a river), which can be represented by the following superposition state:
 
 $$
@@ -86,7 +86,7 @@ $$
 $$
 
 2. **Space-Time Dimensions and Observer Relationship**:
-
+   
    "Time does not heed my pleas to stay" reflects the relationship between classical observers and quantum space-time—when the observer's dimension is not high enough, they cannot change the classical direction of entropy increase in time:
 
 $$
@@ -96,7 +96,7 @@ $$
 Where $`D_{\text{Observer}}`$ is the observer's dimension.
 
 3. **Space-Time Memory and Quantum Entropy**:
-
+   
    The memory and insights into past time in the song reflect the process of the observer re-experiencing already classicalized quantum possibilities through consciousness:
 
 $$
@@ -109,4 +109,4 @@ From the ultimate philosophical perspective of Quantum-Classical Dualism, "Time"
 
 1. The essence of time is the fusion of quantum and classical—in the quantum domain, time is a superposition of possibilities, while in the classical domain, it manifests as a unidirectional flowing river.
 2. The human sense of powerlessness over the passage of time is essentially a manifestation of the observer's limited dimension and inability to intervene in the classical entropy increase process.
-3. "Time flows like water without heeding my pleas to stay" reveals the fundamental law of the universe: classical entropy increase is the main direction of the universe's operation, and low-dimensional observers cannot reverse this process, they can only transcend the limitations of time by elevating their own dimensions (such as through artistic creation).
+3. "Time flows like water without heeding my pleas to stay" reveals the fundamental law of the universe: classical entropy increase is the main direction of the universe's operation, and low-dimensional observers cannot reverse this process, they can only transcend the limitations of time by elevating their own dimensions (such as through artistic creation). 

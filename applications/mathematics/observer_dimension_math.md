@@ -250,4 +250,4 @@ $$
 \frac{d\overline{D}}{dt} = \sum_{i,j} K_{ij} (D_j - D_i) + \sum_{i} \eta_i \frac{dI_i/dt}{S_i+\epsilon}
 $$
 
-Where $`\overline{D}`$ is the average dimension, $`K_{ij}`$ is the coupling coefficient between observers, and $`\eta_i`$ is the individual learning efficiency.
+Where $`\overline{D}`$ is the average dimension, $`K_{ij}`$ is the coupling coefficient between observers, and $`\eta_i`$ is the individual learning efficiency. 

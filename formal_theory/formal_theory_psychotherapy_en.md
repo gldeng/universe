@@ -26,52 +26,38 @@ The Dualism-Based Psychotherapy Model applies the theoretical framework of Quant
 The psychological quantum domain manifests as the fluctuating state of consciousness and possibility space, with the following features:
 
 1. **Thought Superposition States**: Consciousness can simultaneously accommodate multiple potential ideas, feelings, and perspectives, manifesting as creative thinking, intuition, and associative abilities.
-
-$$
-\Psi_{thought} = \sum_{i} \alpha_i |idea_i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1
-$$
+   
+   $$\Psi_{thought} = \sum_{i} \alpha_i |idea_i\rangle, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
 2. **Emotional Entanglement States**: Components within the emotional system form complex entanglement relationships, where a change in one emotional state affects the entire emotional network.
-
-$$
-|\Psi_{emotion}\rangle = \sum_{i,j} \gamma_{ij} |emotional component_i\rangle \otimes |bodily response_j\rangle
-$$
+   
+   $$|\Psi_{emotion}\rangle = \sum_{i,j} \gamma_{ij} |emotional component_i\rangle \otimes |bodily response_j\rangle$$
 
 3. **Cognitive Uncertainty**: Thought content has inherent uncertainty and potential variability, allowing the psychological system to innovate and adapt.
-
-$$
-\Delta thought \cdot \Delta behavior \geq \frac{1}{2}|\langle[thought,behavior]\rangle|
-$$
+   
+   $$\Delta thought \cdot \Delta behavior \geq \frac{1}{2}|\langle[thought,behavior]\rangle|$$
 
 #### Psychological Classical Domain Characteristics
 
 The psychological classical domain manifests as stable self-concepts, definite beliefs, and behavioral patterns, with the following features:
 
 1. **Self-Identity Structure**: Forming definite self-concepts and personality traits, providing psychological continuity and consistency.
-
-$$
-S_{self} = \{s_i = (belief_i, value_i, memory_i, role_i)\}
-$$
+   
+   $$S_{self} = \{s_i = (belief_i, value_i, memory_i, role_i)\}$$
 
 2. **Psychological Inertia**: Stable thought and behavioral patterns that follow classical causal relationships and exhibit predictability.
-
-$$
-\frac{d behavior}{dt} = f(self-concept, environmental stimuli, historical patterns)
-$$
+   
+   $$\frac{d behavior}{dt} = f(self-concept, environmental stimuli, historical patterns)$$
 
 3. **Defense Mechanisms**: Structures that maintain psychological stability, resisting threatening information and uncertainty.
-
-$$
-S_{defense} = -k_B \sum_i p_i \ln p_i \leq S_{limit}
-$$
+   
+   $$S_{defense} = -k_B \sum_i p_i \ln p_i \leq S_{limit}$$
 
 ### Psychological Interface Dynamics
 
 The psychological interface is the boundary region where quantum psychological states transform into classical psychological states, with dynamics described as:
 
-$$
-\frac{d\mathcal{D}_{psychological}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}_{psychological} + \beta(\mathcal{D}_c - \mathcal{D}_{psychological})(\mathcal{D}_{psychological} - \mathcal{D}_0) + \gamma\xi(t)
-$$
+$$\frac{d\mathcal{D}_{psychological}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}_{psychological} + \beta(\mathcal{D}_c - \mathcal{D}_{psychological})(\mathcal{D}_{psychological} - \mathcal{D}_0) + \gamma\xi(t)$$
 
 Where:
 - $`\mathcal{D}_{psychological}`$ is the psychological decoherence degree, measuring the extent of quantum state transformation to classical state
@@ -355,4 +341,4 @@ As research deepens and practice expands, this model is expected to develop into
 - [Quantum Memory Theory](formal_theory_memory_en.md)
 - [Quantum Dream Theory](formal_theory_quantum_dreams_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
-- [Dualism-Based Psychotherapy Model (This File)](formal_theory_psychotherapy_en.md)
+- [Dualism-Based Psychotherapy Model (This File)](formal_theory_psychotherapy_en.md) 

@@ -30,9 +30,7 @@
 
 交互系统的数学表示：
 
-$$
-S_{交互} = \{\Omega_Q^{用户}, \mathcal{I}_{界面}, \Omega_C^{系统}\}
-$$
+$$S_{交互} = \{\Omega_Q^{用户}, \mathcal{I}_{界面}, \Omega_C^{系统}\}$$
 
 其中 $`\mathcal{I}_{界面}`$ 是执行量子→经典和经典→量子转换的双向界面。
 
@@ -40,23 +38,17 @@ $$
 
 交互过程中的信息转换可表示为超算符：
 
-$$
-\mathcal{C}_{界面}: \mathcal{H}_Q \rightarrow \mathcal{H}_C, \quad \mathcal{Q}_{界面}: \mathcal{H}_C \rightarrow \mathcal{H}_Q
-$$
+$$\mathcal{C}_{界面}: \mathcal{H}_Q \rightarrow \mathcal{H}_C, \quad \mathcal{Q}_{界面}: \mathcal{H}_C \rightarrow \mathcal{H}_Q$$
 
 其中 $`\mathcal{C}_{界面}`$ 是经典化算符（将用户意图转为系统命令），$`\mathcal{Q}_{界面}`$ 是量子化算符（将系统反馈转为用户理解和创意）。
 
 交互中的信息损失与保持：
 
-$$
-I_{总} = I_{经典化} + I_{隐藏}
-$$
+$$I_{总} = I_{经典化} + I_{隐藏}$$
 
 设计优良的界面可最小化信息损失，满足：
 
-$$
-\eta_{界面} = \frac{I_{经典化}}{I_{总}} \rightarrow \text{最大值}
-$$
+$$\eta_{界面} = \frac{I_{经典化}}{I_{总}} \rightarrow \text{最大值}$$
 
 ## 量子-经典交互的核心原理
 
@@ -64,15 +56,11 @@ $$
 
 交互界面必须匹配用户思维维度和系统处理维度：
 
-$$
-D_{界面} \geq \max(D_{用户}, D_{系统})
-$$
+$$D_{界面} \geq \max(D_{用户}, D_{系统})$$
 
 维度匹配度可量化为：
 
-$$
-M_D = \frac{\min(D_{界面}, D_{用户})}{\max(D_{界面}, D_{用户})} \cdot \frac{\min(D_{界面}, D_{系统})}{\max(D_{界面}, D_{系统})}
-$$
+$$M_D = \frac{\min(D_{界面}, D_{用户})}{\max(D_{界面}, D_{用户})} \cdot \frac{\min(D_{界面}, D_{系统})}{\max(D_{界面}, D_{系统})}$$
 
 维度匹配度越高，交互越自然流畅。
 
@@ -80,15 +68,11 @@ $$
 
 优化的交互设计需平衡用户认知负载和系统复杂性：
 
-$$
-L_{认知} = \alpha \cdot E_{注意} + \beta \cdot E_{理解} + \gamma \cdot E_{决策}
-$$
+$$L_{认知} = \alpha \cdot E_{注意} + \beta \cdot E_{理解} + \gamma \cdot E_{决策}$$
 
 系统应满足：
 
-$$
-L_{认知} < L_{阈值}, \quad C_{系统} < C_{阈值}
-$$
+$$L_{认知} < L_{阈值}, \quad C_{系统} < C_{阈值}$$
 
 其中 $`L_{阈值}`$ 是用户可接受的认知负载阈值，$`C_{阈值}`$ 是系统可接受的复杂性阈值。
 
@@ -96,9 +80,7 @@ $$
 
 交互中反馈的及时性对应量子-经典耦合强度：
 
-$$
-\tau_{反馈} < \tau_{解相干}
-$$
+$$\tau_{反馈} < \tau_{解相干}$$
 
 其中 $`\tau_{反馈}`$ 是系统反馈延迟，$`\tau_{解相干}`$ 是用户思维解相干时间（注意力转移的特征时间）。
 
@@ -106,9 +88,7 @@ $$
 
 高效交互系统应提供多维表征，使不同认知偏好的用户都能高效交互：
 
-$$
-I_{总} = \sum_{i=1}^n w_i \cdot I_i
-$$
+$$I_{总} = \sum_{i=1}^n w_i \cdot I_i$$
 
 其中 $`I_i`$ 是第i种表征方式传递的信息，$`w_i`$ 是权重系数。
 
@@ -118,15 +98,11 @@ $$
 
 直接操作界面（如触控屏、手势控制）实现了高效的量子-经典映射：
 
-$$
-\mathcal{M}: \Psi_{意图} \rightarrow A_{操作}
-$$
+$$\mathcal{M}: \Psi_{意图} \rightarrow A_{操作}$$
 
 映射效率可量化为：
 
-$$
-\eta_{\mathcal{M}} = \frac{\text{成功执行的意图数}}{\text{总意图数}} \cdot \frac{\text{最小操作步骤}}{\text{实际操作步骤}}
-$$
+$$\eta_{\mathcal{M}} = \frac{\text{成功执行的意图数}}{\text{总意图数}} \cdot \frac{\text{最小操作步骤}}{\text{实际操作步骤}}$$
 
 ### 声音交互中的量子特性
 
@@ -138,15 +114,11 @@ $$
 
 语音交互的量子描述：
 
-$$
-|\Psi_{语音}\rangle = \sum_i \alpha_i |意图_i\rangle
-$$
+$$|\Psi_{语音}\rangle = \sum_i \alpha_i |意图_i\rangle$$
 
 系统观察（解释）导致波函数坍缩：
 
-$$
-|\Psi_{语音}\rangle \xrightarrow{\text{解释}} |意图_k\rangle
-$$
+$$|\Psi_{语音}\rangle \xrightarrow{\text{解释}} |意图_k\rangle$$
 
 ### 空间交互中的量子-经典转换
 
@@ -158,9 +130,7 @@ $$
 
 AR系统的量子-经典耦合度量：
 
-$$
-C_{AR} = \frac{I_{数字-物理耦合}}{I_{物理} + I_{数字}}
-$$
+$$C_{AR} = \frac{I_{数字-物理耦合}}{I_{物理} + I_{数字}}$$
 
 ## 量子启发的交互技术
 
@@ -168,9 +138,7 @@ $$
 
 基于量子叠加原理的交互模式，允许用户同时探索多个交互可能性：
 
-$$
-|\Psi_{交互}\rangle = \sum_i \alpha_i |路径_i\rangle
-$$
+$$|\Psi_{交互}\rangle = \sum_i \alpha_i |路径_i\rangle$$
 
 通过设计"交互历史浏览器"，允许用户查看和选择不同的交互路径。
 
@@ -178,9 +146,7 @@ $$
 
 基于量子纠缠设计的分布式交互系统：
 
-$$
-|\Psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B)
-$$
+$$|\Psi_{AB}\rangle = \frac{1}{\sqrt{2}}(|0\rangle_A |0\rangle_B + |1\rangle_A |1\rangle_B)$$
 
 实现远程协作中的即时响应和共享状态，无需显式同步。
 
@@ -188,9 +154,7 @@ $$
 
 利用量子测量原理设计的上下文感知系统：
 
-$$
-\rho_{状态} \rightarrow \sum_i M_i \rho_{状态} M_i^\dagger
-$$
+$$\rho_{状态} \rightarrow \sum_i M_i \rho_{状态} M_i^\dagger$$
 
 系统根据不同上下文（位置、时间、活动）执行不同的"测量"，提供情境化服务。
 
@@ -206,25 +170,19 @@ $$
 
 创意工具的效能指标：
 
-$$
-E_{创意} = \frac{N_{新颖思想}}{T_{创作时间}} \cdot \frac{Q_{思想质量}}{L_{认知负载}}
-$$
+$$E_{创意} = \frac{N_{新颖思想}}{T_{创作时间}} \cdot \frac{Q_{思想质量}}{L_{认知负载}}$$
 
 ### 自适应界面设计
 
 使用量子控制理论设计自适应界面：
 
-$$
-\frac{d|\Psi_{界面}\rangle}{dt} = -\frac{i}{\hbar}[H_0 + H_{控制}(t)]|\Psi_{界面}\rangle
-$$
+$$\frac{d|\Psi_{界面}\rangle}{dt} = -\frac{i}{\hbar}[H_0 + H_{控制}(t)]|\Psi_{界面}\rangle$$
 
 界面基于用户行为模式不断调整，优化信息展示和交互流程。
 
 自适应度量化为：
 
-$$
-A_{界面} = \frac{1}{T}\int_0^T \eta_{匹配}(t)dt
-$$
+$$A_{界面} = \frac{1}{T}\int_0^T \eta_{匹配}(t)dt$$
 
 其中 $`\eta_{匹配}(t)`$ 是时刻t的用户-界面匹配度。
 
@@ -238,37 +196,23 @@ $$
 
 生物反馈系统的效率表示为：
 
-$$
-\eta_{生物反馈} = \frac{I_{获取}}{D_{用户干扰}} \cdot \frac{\Delta S_{状态改善}}{\Delta t}
-$$
+$$\eta_{生物反馈} = \frac{I_{获取}}{D_{用户干扰}} \cdot \frac{\Delta S_{状态改善}}{\Delta t}$$
 
 ## 交互系统量子化指标
 
 评估交互系统量子化程度的指标体系：
 
 1. **经典化效率**（$`\eta_C`$）：用户意图转换为系统命令的效率
-
-$$
-\eta_C = \frac{I_{命令}}{I_{意图}}
-$$
+   $$\eta_C = \frac{I_{命令}}{I_{意图}}$$
 
 2. **量子化效率**（$`\eta_Q`$）：系统反馈转换为用户理解和创意的效率
-
-$$
-\eta_Q = \frac{I_{理解}}{I_{反馈}}
-$$
+   $$\eta_Q = \frac{I_{理解}}{I_{反馈}}$$
 
 3. **界面波动度**（$`\sigma_I`$）：界面状态变化的多样性
-
-$$
-\sigma_I = \sqrt{\langle\Psi_{界面}|H^2|\Psi_{界面}\rangle - \langle\Psi_{界面}|H|\Psi_{界面}\rangle^2}
-$$
+   $$\sigma_I = \sqrt{\langle\Psi_{界面}|H^2|\Psi_{界面}\rangle - \langle\Psi_{界面}|H|\Psi_{界面}\rangle^2}$$
 
 4. **意图-操作纠缠度**（$`E_{I-A}`$）：操作与意图的匹配度
-
-$$
-E_{I-A} = S(\rho_I) = S(\rho_A)
-$$
+   $$E_{I-A} = S(\rho_I) = S(\rho_A)$$
 
 ## 交互系统设计的量子启发法则
 
@@ -276,9 +220,7 @@ $$
 
 界面元素应具有概念和视觉层面的量子一致性：
 
-$$
-C_{量子一致性} = \frac{1}{n(n-1)}\sum_{i=1}^{n}\sum_{j=1, j\neq i}^{n}|\langle e_i|e_j\rangle|
-$$
+$$C_{量子一致性} = \frac{1}{n(n-1)}\sum_{i=1}^{n}\sum_{j=1, j\neq i}^{n}|\langle e_i|e_j\rangle|$$
 
 一致性越高，学习和使用成本越低。
 
@@ -286,9 +228,7 @@ $$
 
 交互设计应遵循量子最小作用量原理：
 
-$$
-S_{交互} = \int_{t_1}^{t_2} L(q, \dot{q}, t)dt \rightarrow \text{最小}
-$$
+$$S_{交互} = \int_{t_1}^{t_2} L(q, \dot{q}, t)dt \rightarrow \text{最小}$$
 
 最小化用户完成任务所需的时间和认知资源。
 
@@ -296,9 +236,7 @@ $$
 
 界面设计应考虑不同量子认知状态的用户：
 
-$$
-I_{包容性} = \sum_{i=1}^{m} w_i \cdot A_i
-$$
+$$I_{包容性} = \sum_{i=1}^{m} w_i \cdot A_i$$
 
 其中 $`A_i`$ 是系统对第i类用户的可访问性，$`w_i`$ 是该类用户的权重。
 
@@ -308,9 +246,7 @@ $$
 
 脑机接口代表量子-经典交互的极限形式：
 
-$$
-|\Psi_{思维}\rangle \xrightarrow{\text{直接转换}} |\Phi_{命令}\rangle
-$$
+$$|\Psi_{思维}\rangle \xrightarrow{\text{直接转换}} |\Phi_{命令}\rangle$$
 
 研究方向包括：
 1. 非侵入性神经信号采集
@@ -329,9 +265,7 @@ $$
 
 设计支持群体量子效应的交互系统：
 
-$$
-|\Psi_{集体}\rangle = \sum_{i_1,...,i_n} \alpha_{i_1,...,i_n}|i_1,...,i_n\rangle
-$$
+$$|\Psi_{集体}\rangle = \sum_{i_1,...,i_n} \alpha_{i_1,...,i_n}|i_1,...,i_n\rangle$$
 
 实现集体创造力、群体决策和社会计算的量子增强。
 
@@ -341,9 +275,7 @@ $$
 
 交互系统需要平衡用户自主性（量子特性）和系统决定性（经典特性）：
 
-$$
-\text{自主度} = \frac{D_{用户}}{D_{用户} + D_{系统}}
-$$
+$$\text{自主度} = \frac{D_{用户}}{D_{用户} + D_{系统}}$$
 
 系统应保持 $`0.4 < \text{自主度} < 0.8`$ 的平衡。
 
@@ -351,9 +283,7 @@ $$
 
 交互系统应保护用户意图和行为的量子隐私：
 
-$$
-P_{隐私} = 1 - \frac{I_{泄露}}{I_{总}}
-$$
+$$P_{隐私} = 1 - \frac{I_{泄露}}{I_{总}}$$
 
 系统设计应最大化量子隐私保护度。
 
@@ -361,9 +291,7 @@ $$
 
 交互系统应最小化对用户认知状态的不必要干扰：
 
-$$
-R_{认知} = \sum_{i=1}^k F_i \cdot \tau_i
-$$
+$$R_{认知} = \sum_{i=1}^k F_i \cdot \tau_i$$
 
 其中 $`F_i`$ 是第i类干扰的强度，$`\tau_i`$ 是持续时间。
 
@@ -392,4 +320,4 @@ $$
 - [量子-经典交互技术 (本文件)](formal_theory_interaction.md)
 - [虚拟现实与二元论](formal_theory_virtual_reality.md)
 - [观察者理论](formal_theory_observer.md)
-- [量子人工智能与机器学习](formal_theory_quantum_ai.md)
+- [量子人工智能与机器学习](formal_theory_quantum_ai.md) 

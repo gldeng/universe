@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1724年-1804年 (1724-1804)
-**国籍 | Nationality**: 普鲁士（今德国） (Prussia, now Germany)
-**主要领域 | Main Fields**: 哲学、形而上学、认识论、伦理学、美学 (Philosophy, Metaphysics, Epistemology, Ethics, Aesthetics)
+**生卒年份 | Lifespan**: 1724年-1804年 (1724-1804)  
+**国籍 | Nationality**: 普鲁士（今德国） (Prussia, now Germany)  
+**主要领域 | Main Fields**: 哲学、形而上学、认识论、伦理学、美学 (Philosophy, Metaphysics, Epistemology, Ethics, Aesthetics)  
 **代表作品 | Representative Works**: 《纯粹理性批判》、《实践理性批判》、《判断力批判》、《道德形而上学基础》、《永久和平论》 (Critique of Pure Reason, Critique of Practical Reason, Critique of Judgment, Groundwork of the Metaphysics of Morals, Perpetual Peace)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ Kant believed that although pure reason cannot prove the three major metaphysica
 - "Man is an end in himself, not merely a means."
 - "All our knowledge begins with experience, but it does not all arise from experience."
 - "You could not find God in the sky if you did not first establish morality in your heart."
-- "Theory without practice is empty, practice without theory is blind."
+- "Theory without practice is empty, practice without theory is blind." 

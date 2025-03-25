@@ -71,7 +71,7 @@ $$
               ┌───────────────────────┐
               │      量子宇宙（无限波函数叠加态）       │
               └─────────────┬───────────┘
-                                    │量子经典化（观察者网络）
+                                    │量子经典化（观察者网络）     
                                     │
              ┌──────────┼──────────┐
              │          │          │
@@ -396,7 +396,7 @@ All classicalization worlds are not completely independent but are closely conne
               ┌───────────────────────┐
               │      Quantum Universe (Infinite Wave Function Superposition)       │
               └─────────────┬───────────┘
-                                    │Quantum Classicalization (Observer Network)
+                                    │Quantum Classicalization (Observer Network)     
                                     │
              ┌──────────┼──────────┐
              │          │          │
@@ -648,4 +648,4 @@ Understanding the diversity and interweaving relationships of classicalization w
 
 The diversity and interweaving relationships of classicalization worlds reveal the richness and complexity of the universe's information structure. By understanding the characteristics and mutual influence mechanisms of different classicalization worlds, we can better understand phenomena such as human consciousness, religion, art, science, etc., and optimize our interaction with these worlds.
 
-Ultimately, all classicalization worlds collectively constitute the universe's observer classicalization network, influencing each other and jointly achieving the goals of maximizing universal knowledge and minimizing entropy.
+Ultimately, all classicalization worlds collectively constitute the universe's observer classicalization network, influencing each other and jointly achieving the goals of maximizing universal knowledge and minimizing entropy. 

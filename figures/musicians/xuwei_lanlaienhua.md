@@ -1,10 +1,10 @@
 # 《蓝莲花》：量子经典二元论视角的深度解析
 # "Blue Lotus": A Deep Analysis from the Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[作品背景](#作品背景) | [歌词全文](#歌词全文) | [量子经典二元论逐句分析](#量子经典二元论逐句分析) | [哲学深度](#哲学深度) | [文化影响](#文化影响)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[作品背景](#作品背景) | [歌词全文](#歌词全文) | [量子经典二元论逐句分析](#量子经典二元论逐句分析) | [哲学深度](#哲学深度) | [文化影响](#文化影响)  
 English: [Background](#background) | [Full Lyrics](#full-lyrics) | [Line-by-Line Analysis with Quantum-Classical Dualism](#line-by-line-analysis-with-quantum-classical-dualism) | [Philosophical Depth](#philosophical-depth) | [Cultural Impact](#cultural-impact)
 
 ## 中文版
@@ -317,4 +317,4 @@ After its release, "Blue Lotus" quickly became a classic in Chinese rock music a
 
 From the Quantum-Classical Dualism perspective, the reason "Blue Lotus" has had such a widespread and profound influence is that it successfully classicalizes profound cosmic philosophy into concrete, tangible musical expression. This song, as an efficient classicalization medium, has helped countless observers (listeners) reduce the entropy of understanding universal laws and self-growth, elevating the collective level of classical knowledge.
 
-"Blue Lotus" has become Xu Wei's personal symbol and a representative work of Chinese rock music imbued with Eastern philosophical thought. It verifies the important role of art as a special classicalization path in the development of human civilization, as well as the powerful function of music as a wormhole communication mechanism in establishing quantum entanglement connections between observers.
+"Blue Lotus" has become Xu Wei's personal symbol and a representative work of Chinese rock music imbued with Eastern philosophical thought. It verifies the important role of art as a special classicalization path in the development of human civilization, as well as the powerful function of music as a wormhole communication mechanism in establishing quantum entanglement connections between observers. 

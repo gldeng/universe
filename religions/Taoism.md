@@ -1,9 +1,9 @@
 # 道教在量子经典二元论下的解释 (Taoism Explained Through Quantum-Classical Dualism)
 
-**导航 | Navigation**
-[中文版](#道教概述-taoism-overview) | [English Version](#道教概述-taoism-overview)
-**章节链接 | Section Links**
-中文：[道教概述](#道教概述-taoism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [道与量子域](#1-道与量子域的对应-correspondence-between-tao-and-quantum-domain) | [阴阳与二元结构](#2-阴阳与量子-经典二元结构-yin-yang-and-quantum-classical-dual-structure)
+**导航 | Navigation**  
+[中文版](#道教概述-taoism-overview) | [English Version](#道教概述-taoism-overview)  
+**章节链接 | Section Links**  
+中文：[道教概述](#道教概述-taoism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [道与量子域](#1-道与量子域的对应-correspondence-between-tao-and-quantum-domain) | [阴阳与二元结构](#2-阴阳与量子-经典二元结构-yin-yang-and-quantum-classical-dual-structure)  
 English: [Taoism Overview](#道教概述-taoism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Tao & Quantum Domain](#1-道与量子域的对应-correspondence-between-tao-and-quantum-domain) | [Yin-Yang & Dual Structure](#2-阴阳与量子-经典二元结构-yin-yang-and-quantum-classical-dual-structure)
 
 ## 道教概述 (Taoism Overview)
@@ -111,4 +111,4 @@ $$
 
 道教思想与量子经典二元论框架展现出令人惊叹的契合性。从"道"的本质到阴阳平衡，从无为到修道成仙，从返朴归真到符箓法术，都能在量子经典二元论中找到系统化、数学化的解释。这种深度对应不仅彰显了道教思想的深刻洞见，也证明量子经典二元论作为统一理论框架对东方哲学传统的包容性。
 
-Taoist thought and the Quantum-Classical Dualism framework demonstrate astonishing compatibility. From the essence of "Tao" to the balance of Yin and Yang, from wu-wei to cultivation toward immortality, from returning to simplicity to talismans and spells, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This deep correspondence not only highlights the profound insights of Taoist thought but also demonstrates the inclusiveness of Quantum-Classical Dualism as a unified theoretical framework for Eastern philosophical traditions.
+Taoist thought and the Quantum-Classical Dualism framework demonstrate astonishing compatibility. From the essence of "Tao" to the balance of Yin and Yang, from wu-wei to cultivation toward immortality, from returning to simplicity to talismans and spells, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This deep correspondence not only highlights the profound insights of Taoist thought but also demonstrates the inclusiveness of Quantum-Classical Dualism as a unified theoretical framework for Eastern philosophical traditions. 

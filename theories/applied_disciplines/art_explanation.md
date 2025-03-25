@@ -434,4 +434,4 @@ Based on the art perspective, Quantum-Classical Dualism can make the following p
 
 The art perspective provides rich creative dimensions and aesthetic foundations for Quantum-Classical Dualism. From artistic creation to art appreciation, from art forms to art aesthetics, from the social function of art to digital new media, multiple aspects of art have profound correspondences with the core concepts of Quantum-Classical Dualism.
 
-This art perspective not only helps to understand the creative and aesthetic dimensions of Quantum-Classical Dualism but also provides new perspectives for art theory and practice. Through art bridges, Quantum-Classical Dualism can establish connections with frontier issues in art, providing new approaches to these issues.
+This art perspective not only helps to understand the creative and aesthetic dimensions of Quantum-Classical Dualism but also provides new perspectives for art theory and practice. Through art bridges, Quantum-Classical Dualism can establish connections with frontier issues in art, providing new approaches to these issues. 

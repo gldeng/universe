@@ -87,4 +87,4 @@ These experiments illustrate key aspects of quantum-classical dualism:
 
 ## Experimental Protocols
 
-Detailed step-by-step experimental protocols, equipment specifications, data collection methods, and analysis procedures are provided in the appendices to ensure reproducibility and standardization across research facilities.
+Detailed step-by-step experimental protocols, equipment specifications, data collection methods, and analysis procedures are provided in the appendices to ensure reproducibility and standardization across research facilities. 

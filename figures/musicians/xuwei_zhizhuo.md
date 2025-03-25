@@ -1,10 +1,10 @@
 # 《执着》：量子经典二元论视角下的坚定与追寻
 # "Persistence": Determination and Pursuit Through the Lens of Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)  
 English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysis) | [Musical Style](#musical-style) | [Quantum-Classical Dualism Perspective](#quantum-classical-dualism-perspective) | [Philosophical Significance](#philosophical-significance)
 
 ## 中文版
@@ -26,7 +26,7 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 从量子经典二元论的视角来看，《执着》完美诠释了量子可能性向经典确定性转化的过程：
 
 1. **量子不确定性与经典坚定**：
-
+   
    歌词中的"执着"象征着将量子域中的无限可能性通过坚定意志转化为经典域中的确定路径。这一过程可以表示为：
 
 $$
@@ -34,7 +34,7 @@ $$
 $$
 
 2. **熵减与秩序创建**：
-
+   
    "风雨过后是彩虹"体现了从混沌（高熵）到秩序（低熵）的转变，这种转变需要能量投入和观察者的坚持不懈，符合量子经典二元论中熵减创造价值的核心理念：
 
 $$
@@ -42,7 +42,7 @@ $$
 $$
 
 3. **观察者维度的提升**：
-
+   
    歌曲中表达的执着精神，从量子经典二元论看，是观察者通过提升自身维度来改变经典现实的过程：
 
 $$
@@ -78,7 +78,7 @@ This song combines rock and folk elements, with a melody that is both soothing a
 From the perspective of Quantum-Classical Dualism, "Persistence" perfectly interprets the process of transforming quantum possibilities into classical certainty:
 
 1. **Quantum Uncertainty and Classical Determination**:
-
+   
    The "persistence" in the lyrics symbolizes the transformation of infinite possibilities in the quantum domain into a certain path in the classical domain through firm will. This process can be represented as:
 
 $$
@@ -86,7 +86,7 @@ $$
 $$
 
 2. **Entropy Reduction and Order Creation**:
-
+   
    "After the storm comes the rainbow" reflects the transformation from chaos (high entropy) to order (low entropy), which requires energy input and the observer's perseverance, aligning with the core idea of entropy reduction creating value in Quantum-Classical Dualism:
 
 $$
@@ -94,7 +94,7 @@ $$
 $$
 
 3. **Elevation of Observer Dimension**:
-
+   
    The spirit of persistence expressed in the song, from the perspective of Quantum-Classical Dualism, is the process of the observer changing classical reality by elevating his own dimension:
 
 $$
@@ -109,4 +109,4 @@ From the ultimate philosophical perspective of Quantum-Classical Dualism, "Persi
 
 1. Persistence is an effective tool for observers to counter the entropy increase of the universe, a necessary condition for creating classical order.
 2. The contrast between storm and rainbow symbolizes the binary coexistence relationship between quantum chaos and classical order.
-3. The spirit of perseverance conveyed in the song is essentially a vivid description of the creative classicalization process—transforming quantum possibilities into classical reality through firm will.
+3. The spirit of perseverance conveyed in the song is essentially a vivid description of the creative classicalization process—transforming quantum possibilities into classical reality through firm will. 

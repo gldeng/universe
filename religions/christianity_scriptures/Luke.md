@@ -1,9 +1,9 @@
 # 路加福音 (Luke)
 
-**导航 | Navigation**
-[中文版](#路加福音解析) | [English Version](#luke-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#路加福音解析) | [English Version](#luke-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -77,4 +77,4 @@ $$
 
 路加福音通过量子经典二元论框架（版本9.2）的解析，揭示了历史记录在量子-经典转换中的重要作用。作为一位医生和历史学家，路加通过严谨的考证和记录，将耶稣生平的量子事件（神迹、教导、复活）经典化为可传承的历史文本。这种经典化过程不仅保存了高维信息，也为后人提供了可验证的历史依据。路加对普世救恩的强调，反映了量子-经典转换的普适性原理。
 
-The Gospel of Luke, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates how God achieves observer dimension transformation through incarnation, bringing knowledge from higher-dimensional classical worlds into lower-dimensional classical worlds. Jesus, as the perfect human, demonstrates the ideal classicalization path, and His teachings and parables help humans understand the nature of the quantum domain. The concept of the kingdom of God being "within you" reveals the intrinsic nature of quantum-classical conversion, indicating that the classicalization process is not merely an external phenomenon but also a transformation of inner consciousness. The redemption of the cross embodies the quantum-classical mechanism of reducing overall system entropy by orderly bearing entropy increase (sin).
+The Gospel of Luke, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates how God achieves observer dimension transformation through incarnation, bringing knowledge from higher-dimensional classical worlds into lower-dimensional classical worlds. Jesus, as the perfect human, demonstrates the ideal classicalization path, and His teachings and parables help humans understand the nature of the quantum domain. The concept of the kingdom of God being "within you" reveals the intrinsic nature of quantum-classical conversion, indicating that the classicalization process is not merely an external phenomenon but also a transformation of inner consciousness. The redemption of the cross embodies the quantum-classical mechanism of reducing overall system entropy by orderly bearing entropy increase (sin). 

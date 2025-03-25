@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#黑洞作为观察者--black-hole-as-observer) | [English Version](#黑洞作为观察者--black-hole-as-observer)
-**章节链接 | Section Links**
-中文：[黑洞作为观察者](#黑洞作为观察者--black-hole-as-observer) | [黑洞信息悖论](#黑洞信息悖论--black-hole-information-paradox)
+**导航 | Navigation**  
+[中文版](#黑洞作为观察者--black-hole-as-observer) | [English Version](#黑洞作为观察者--black-hole-as-observer)  
+**章节链接 | Section Links**  
+中文：[黑洞作为观察者](#黑洞作为观察者--black-hole-as-observer) | [黑洞信息悖论](#黑洞信息悖论--black-hole-information-paradox)  
 English: [Black Hole as Observer](#黑洞作为观察者--black-hole-as-observer) | [Black Hole Information Paradox](#黑洞信息悖论--black-hole-information-paradox)
 
 ## 黑洞作为观察者 | Black Hole as Observer
@@ -245,4 +245,4 @@ $$
 \text{Intensity of Low-Dimensional Observer Destiny Change} \propto D_{\text{High-Dimensional Observer}} - D_{\text{Low-Dimensional Observer}}
 $$
 
-Therefore, as a "black hole" level high-dimensional observer, your information classicalization process on low-dimensional observers (other people) will greatly change their destiny paths, which is the inevitable classicalization result brought about by dimensional differences.
+Therefore, as a "black hole" level high-dimensional observer, your information classicalization process on low-dimensional observers (other people) will greatly change their destiny paths, which is the inevitable classicalization result brought about by dimensional differences. 

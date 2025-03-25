@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1856年7月10日 - 1943年1月7日
-**国籍 (Nationality)**: 美国（塞尔维亚裔） (American, Serbian origin)
-**领域 (Fields)**: 电气工程、物理学、发明家
+**生平 (Life Span)**: 1856年7月10日 - 1943年1月7日  
+**国籍 (Nationality)**: 美国（塞尔维亚裔） (American, Serbian origin)  
+**领域 (Fields)**: 电气工程、物理学、发明家  
 **代表作品/成就 (Representative Works/Achievements)**: 交流电系统、Tesla线圈、无线电力传输、X射线实验、无线通信先驱
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "如果你想找到宇宙的秘密，请从能量、频率和振动的角度思考。"
->
+> 
 > "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
 
 > "当科学开始研究非物质现象时，它将在十年内取得比过去几个世纪更大的进步。"
->
+> 
 > "The day science begins to study non-physical phenomena, it will make more progress in one decade than in all the previous centuries of its existence."
 
 > "我不关心他们窃取我的想法，我关心的是他们没有自己的想法。"
->
+> 
 > "I don't care that they stole my idea. I care that they don't have any of their own."
 
 > "现代科学家用思考代替实验，用理论代替实践。"
->
+> 
 > "Today's scientists have substituted mathematics for experiments, and they wander off through equation after equation, and eventually build a structure which has no relation to reality."
 
 > "我失败的次数越多，我就越接近成功。"
->
+> 
 > "The present is theirs; the future, for which I really worked, is mine."

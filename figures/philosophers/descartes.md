@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1596年-1650年 (1596-1650)
-**国籍 | Nationality**: 法国 (France)
-**主要领域 | Main Fields**: 哲学、数学、物理学、认识论、形而上学 (Philosophy, Mathematics, Physics, Epistemology, Metaphysics)
+**生卒年份 | Lifespan**: 1596年-1650年 (1596-1650)  
+**国籍 | Nationality**: 法国 (France)  
+**主要领域 | Main Fields**: 哲学、数学、物理学、认识论、形而上学 (Philosophy, Mathematics, Physics, Epistemology, Metaphysics)  
 **代表作品 | Representative Works**: 《方法论》、《第一哲学沉思录》、《哲学原理》、《激情论》、《几何学》 (Discourse on the Method, Meditations on First Philosophy, Principles of Philosophy, The Passions of the Soul, La Géométrie)
 
 ## 核心思想 | Core Ideas
@@ -205,4 +205,4 @@ Descartes viewed the material world as a precise machine following determined ca
 - "To be a philosopher, the most important thing is to ask good questions."
 - "Doubt is the path to certainty."
 - "The whole of my life plan has been to live according to reason."
-- "Never accept anything as true that you don't clearly know to be so."
+- "Never accept anything as true that you don't clearly know to be so." 

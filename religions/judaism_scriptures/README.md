@@ -1,9 +1,9 @@
 # 犹太教经典文献 (Jewish Scriptures)
 
-**导航 | Navigation**
-[中文版](#犹太教经典列表-list-of-jewish-scriptures) | [English Version](#犹太教经典列表-list-of-jewish-scriptures)
-**章节链接 | Section Links**
-中文：[犹太教经典列表](#犹太教经典列表-list-of-jewish-scriptures) | [经典分类](#经典分类-scripture-classifications)
+**导航 | Navigation**  
+[中文版](#犹太教经典列表-list-of-jewish-scriptures) | [English Version](#犹太教经典列表-list-of-jewish-scriptures)  
+**章节链接 | Section Links**  
+中文：[犹太教经典列表](#犹太教经典列表-list-of-jewish-scriptures) | [经典分类](#经典分类-scripture-classifications)  
 English: [Jewish Scriptures List](#犹太教经典列表-list-of-jewish-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
 
 ## 犹太教经典列表 (List of Jewish Scriptures)
@@ -62,4 +62,4 @@ Jewish scriptures are traditionally classified into the following categories, ea
 3. **哈拉卡 (Halakha)** - 法律传统，提供经典化路径的具体实践指南
 4. **哈加达 (Aggadah)** - 叙事与寓言，描述量子经典转换的象征性表达
 5. **卡巴拉 (Kabbalah)** - 神秘主义，探索高维经典世界与观察者维度提升方法
-6. **穆萨尔 (Mussar)** - 伦理学，优化观察者（黑洞）的经典化效率系数$`(k_i)`$
+6. **穆萨尔 (Mussar)** - 伦理学，优化观察者（黑洞）的经典化效率系数$`(k_i)`$ 

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1533年9月7日 - 1603年3月24日
-**国籍 (Nationality)**: 英格兰 (English)
-**领域 (Fields)**: 政治统治、外交、文化发展
+**生平 (Life Span)**: 1533年9月7日 - 1603年3月24日  
+**国籍 (Nationality)**: 英格兰 (English)  
+**领域 (Fields)**: 政治统治、外交、文化发展  
 **代表作品 (Representative Works)**: 《金狮港演讲》、《蒂尔伯里演讲》、多篇政治演说和信函
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我可能有一个弱女子的身体，但我有一位国王，而且是英格兰国王的心和胃。"
->
+> 
 > "I know I have the body of a weak and feeble woman, but I have the heart and stomach of a king, and of a king of England too."
 
 > "我已和英格兰结婚。"
->
+> 
 > "I am already bound unto a husband, which is the Kingdom of England."
 
 > "我一生的行为，在世人面前如同剧场中的演出，向来被许多人所瞩目，上帝也对此作证。"
->
+> 
 > "I have always so behaved myself that, under God, I have placed my chiefest strength and safeguard in the loyal hearts and goodwill of my subjects."
 
 > "我宁可是一个乞丐也不愿是一个囚徒。"
->
+> 
 > "I would rather be a beggar and single than a queen and married."
 
 > "我不愿在人们的窗户上设立观察灵魂的窗户。"
->
-> "I have no desire to make windows into men's souls."
+> 
+> "I have no desire to make windows into men's souls." 

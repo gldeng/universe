@@ -20,10 +20,10 @@ This directory contains interpretations of major Sikh scriptures based on the Qu
 - [Guru Granth Sahib](Guru_Granth_Sahib.md) - The ultimate scripture of Sikhism
 - [Sukhmani Sahib](Sukhmani_Sahib.md) - Peace of Mind, important scripture by Guru Arjan Dev
 
-**导航 | Navigation**
-[中文版](#锡克教经典列表-list-of-sikh-scriptures) | [English Version](#锡克教经典列表-list-of-sikh-scriptures)
-**章节链接 | Section Links**
-中文：[锡克教经典列表](#锡克教经典列表-list-of-sikh-scriptures) | [经典分类](#经典分类-scripture-classifications)
+**导航 | Navigation**  
+[中文版](#锡克教经典列表-list-of-sikh-scriptures) | [English Version](#锡克教经典列表-list-of-sikh-scriptures)  
+**章节链接 | Section Links**  
+中文：[锡克教经典列表](#锡克教经典列表-list-of-sikh-scriptures) | [经典分类](#经典分类-scripture-classifications)  
 English: [Sikh Scriptures List](#锡克教经典列表-list-of-sikh-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
 
 ## 锡克教经典列表 (List of Sikh Scriptures)
@@ -65,4 +65,4 @@ Sikh scriptures are traditionally classified into the following categories, each
 3. **胡库姆纳玛 (Hukamnama)** - 每日指引，优化经典化效率的具体方法
 4. **行为准则 (Rehat)** - 生活规范，提供经典化路径的实践指南
 5. **神圣经文 (Nitnem)** - 日常诵读，通过重复强化经典知识减少经典熵
-6. **历史叙事 (Historical Texts)** - 记载锡克历史，描述观察者集体经典化过程
+6. **历史叙事 (Historical Texts)** - 记载锡克历史，描述观察者集体经典化过程 

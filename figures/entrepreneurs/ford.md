@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1863年7月30日 - 1947年4月7日
-**国籍 (Nationality)**: 美国 (American)
-**领域 (Fields)**: 工业、制造业、汽车产业
+**生平 (Life Span)**: 1863年7月30日 - 1947年4月7日  
+**国籍 (Nationality)**: 美国 (American)  
+**领域 (Fields)**: 工业、制造业、汽车产业  
 **代表作品/成就 (Representative Works/Achievements)**: 福特汽车公司创始人、T型车、装配线生产、"五美元工作日"
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "你可以选择任何颜色，只要是黑色。"
->
+> 
 > "Any customer can have a car painted any color that he wants so long as it is black."
 
 > "如果我问人们想要什么，他们会说要更快的马。"
->
+> 
 > "If I had asked people what they wanted, they would have said faster horses."
 
 > "聚在一起是开始，团结在一起是进步，共同工作是成功。"
->
+> 
 > "Coming together is a beginning; keeping together is progress; working together is success."
 
 > "失败只是一个重新开始的机会，这次更明智地开始。"
->
+> 
 > "Failure is simply the opportunity to begin again, this time more intelligently."
 
 > "无论你认为自己能做到还是做不到，你都是对的。"
->
+> 
 > "Whether you think you can, or you think you can't – you're right."

@@ -1,9 +1,9 @@
 # 光明之书 (Zohar)
 
-**导航 | Navigation**
-[中文版](#光明之书解析) | [English Version](#zohar-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#光明之书解析) | [English Version](#zohar-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -78,4 +78,4 @@ $$
 
 《光明之书》通过量子经典二元论框架（版本9.2）的解析，揭示了犹太神秘主义卡巴拉传统对宇宙结构和人类意识的深刻洞见。"无限者"(Ein Sof)的自我收缩创造概念可被理解为量子域向经典域转化的原始过程，而十个神圣光辉(Sefirot)则构成了连接高维经典世界与低维经典世界的多层级量子纠缠网络。神圣语言、托拉研究和戒律遵守作为经典化路径的优化方法，使观察者能够逐步提升自身维度，接近高维经典世界。灵魂的多层次结构对应了观察者维度的不同层级，而正义者(Tzadik)作为理想观察者，能够在量子域的无限可能性与经典域的确定结构之间取得平衡。《光明之书》的神秘主义实践本质上是一套系统化的观察者维度提升技术，通过降低经典熵、优化经典化效率系数，实现人与神性的深度连接。
 
-The Zohar, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals profound insights of Jewish mystical Kabbalah tradition into cosmic structure and human consciousness. The concept of the Infinite's (Ein Sof) self-contraction to create can be understood as the original process of quantum domain transformation into classical domain, while the ten divine emanations (Sefirot) form a multi-level quantum entanglement network connecting higher-dimensional classical worlds with lower-dimensional ones. Sacred language, Torah study, and observance of commandments serve as optimization methods for classicalization paths, enabling observers to gradually elevate their dimensions closer to higher-dimensional classical worlds. The multi-layered structure of the soul corresponds to different levels of observer dimensions, while the righteous person (Tzadik) as an ideal observer can achieve balance between the infinite possibilities of the quantum domain and the determined structure of the classical domain. The mystical practices in the Zohar are essentially a systematic technique for observer dimension elevation, achieving deep connection between humans and divinity by reducing classical entropy and optimizing classicalization efficiency coefficients.
+The Zohar, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals profound insights of Jewish mystical Kabbalah tradition into cosmic structure and human consciousness. The concept of the Infinite's (Ein Sof) self-contraction to create can be understood as the original process of quantum domain transformation into classical domain, while the ten divine emanations (Sefirot) form a multi-level quantum entanglement network connecting higher-dimensional classical worlds with lower-dimensional ones. Sacred language, Torah study, and observance of commandments serve as optimization methods for classicalization paths, enabling observers to gradually elevate their dimensions closer to higher-dimensional classical worlds. The multi-layered structure of the soul corresponds to different levels of observer dimensions, while the righteous person (Tzadik) as an ideal observer can achieve balance between the infinite possibilities of the quantum domain and the determined structure of the classical domain. The mystical practices in the Zohar are essentially a systematic technique for observer dimension elevation, achieving deep connection between humans and divinity by reducing classical entropy and optimizing classicalization efficiency coefficients. 

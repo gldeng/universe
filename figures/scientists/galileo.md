@@ -15,11 +15,7 @@
    - 通过望远镜观测开创了扩展人类观测维度的先河
 
 2. **经典域的系统化**
-
-$$
-F = ma
-$$
-
+   $$F = ma$$
    - 发现自由落体运动规律，建立了经典域中的第一个数学化描述
    - 惯性原理的提出为经典域的确定性奠定基础
 
@@ -31,9 +27,7 @@ $$
 
 在量子经典二元论框架下，伽利略的工作可以表述为：
 
-$$
-\mathcal{M}_{\text{Galileo}}: \Omega_Q \rightarrow \Omega_C
-$$
+$$\mathcal{M}_{\text{Galileo}}: \Omega_Q \rightarrow \Omega_C$$
 
 其中$`\Omega_Q`$代表自然现象的量子可能性空间，$`\Omega_C`$代表通过实验观测确立的经典确定性空间。
 
@@ -54,11 +48,7 @@ Galileo (1564-1642), as the founder of modern scientific methodology, holds prof
    - Pioneered the extension of human observational dimensions through telescope
 
 2. **Systematization of Classical Domain**
-
-$$
-F = ma
-$$
-
+   $$F = ma$$
    - Discovered laws of free fall, establishing the first mathematical description in classical domain
    - Principle of inertia laid foundation for determinism in classical domain
 
@@ -70,9 +60,7 @@ $$
 
 Within quantum-classical dualism framework, Galileo's work can be expressed as:
 
-$$
-\mathcal{M}_{\text{Galileo}}: \Omega_Q \rightarrow \Omega_C
-$$
+$$\mathcal{M}_{\text{Galileo}}: \Omega_Q \rightarrow \Omega_C$$
 
 Where $`\Omega_Q`$ represents the quantum possibility space of natural phenomena, and $`\Omega_C`$ represents the classical deterministic space established through experimental observation.
 

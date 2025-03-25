@@ -1,10 +1,10 @@
 # 开端章在量子经典二元论下的解释
 # Al-Fatihah Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#开端章概述) | [English Version](#al-fatihah-overview)
-**章节链接 | Section Links**
-中文：[开端章概述](#开端章概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#开端章概述) | [English Version](#al-fatihah-overview)  
+**章节链接 | Section Links**  
+中文：[开端章概述](#开端章概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Al-Fatihah Overview](#al-fatihah-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 开端章概述
@@ -18,59 +18,59 @@ Al-Fatihah (Arabic: الفاتحة, "The Opening") is the first chapter of the Q
 ## Core Text
 
 > بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
->
+> 
 > 奉至仁至慈的安拉之名
->
+> 
 > الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ
->
+> 
 > 一切赞颂，全归安拉，全世界的主
->
+> 
 > الرَّحْمَٰنِ الرَّحِيمِ
->
+> 
 > 至仁至慈的主
->
+> 
 > مَالِكِ يَوْمِ الدِّينِ
->
+> 
 > 报应日的主宰
->
+> 
 > إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ
->
+> 
 > 我们只崇拜你，只求你佑助
->
+> 
 > اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ
->
+> 
 > 求你引导我们正道
->
+> 
 > صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ
->
+> 
 > 你所恩赐的人的道路，不是受谴怒的人的道路，也不是迷误者的道路
 
 > Bismillah ir-Rahman ir-Raheem
->
+> 
 > In the name of Allah, the Most Gracious, the Most Merciful
->
+> 
 > Al-hamdu lillahi rabbil 'alamin
->
+> 
 > Praise be to Allah, Lord of the Worlds
->
+> 
 > Ar-Rahman ir-Raheem
->
+> 
 > The Most Gracious, the Most Merciful
->
+> 
 > Maliki yawmid-deen
->
+> 
 > Master of the Day of Judgment
->
+> 
 > Iyyaka na'budu wa iyyaka nasta'een
->
+> 
 > You alone we worship, and You alone we ask for help
->
+> 
 > Ihdinas-siratal mustaqeem
->
+> 
 > Guide us to the straight path
->
+> 
 > Siratal-latheena an'amta 'alayhim, ghayril-maghdubi 'alayhim walad-dalleen
->
+> 
 > The path of those upon whom You have bestowed favor, not of those who have evoked Your anger or of those who are astray
 
 ## 量子经典二元论解释
@@ -206,4 +206,4 @@ $$
 
 《开端章》作为伊斯兰教最核心的经文之一，其内容与量子经典二元论框架展现出惊人的对应关系。安拉的概念对应到量子域这一无限可能性的本源，而"全世界的主"则揭示了多维度经典世界的统一基础。经文中的"正道"从量子经典二元论视角看，实质上是观察者的最优经典化路径，这一路径最大化观察者维度，优化经典知识与经典熵之比。穆斯林每日诵读《开端章》的实践，本质上是通过声音振动建立虫洞通信，连接高维度经典世界，以获取正确的经典化路径指导。通过量子经典二元论的解释，这部1400多年前的经文展现出深刻的科学内涵，证明伊斯兰教思想对于理解宇宙结构与人类位置的前瞻性洞见。
 
-As one of the most core texts in Islam, Al-Fatihah demonstrates amazing correspondence with the Quantum-Classical Dualism framework. The concept of Allah corresponds to the quantum domain as the origin of infinite possibilities, while "Lord of the Worlds" reveals the unified foundation of multi-dimensional classical worlds. The "straight path" in the text, from the perspective of Quantum-Classical Dualism, is essentially the observer's optimal classicalization path, which maximizes observer dimension and optimizes the ratio of classical knowledge to classical entropy. The practice of Muslims reciting Al-Fatihah daily is essentially establishing wormhole communication through sound vibration, connecting to higher-dimensional classical worlds to obtain guidance for correct classicalization paths. Through the explanation of Quantum-Classical Dualism, this text from over 1400 years ago demonstrates profound scientific implications, proving the foresight of Islamic thought in understanding the structure of the universe and the position of humanity.
+As one of the most core texts in Islam, Al-Fatihah demonstrates amazing correspondence with the Quantum-Classical Dualism framework. The concept of Allah corresponds to the quantum domain as the origin of infinite possibilities, while "Lord of the Worlds" reveals the unified foundation of multi-dimensional classical worlds. The "straight path" in the text, from the perspective of Quantum-Classical Dualism, is essentially the observer's optimal classicalization path, which maximizes observer dimension and optimizes the ratio of classical knowledge to classical entropy. The practice of Muslims reciting Al-Fatihah daily is essentially establishing wormhole communication through sound vibration, connecting to higher-dimensional classical worlds to obtain guidance for correct classicalization paths. Through the explanation of Quantum-Classical Dualism, this text from over 1400 years ago demonstrates profound scientific implications, proving the foresight of Islamic thought in understanding the structure of the universe and the position of humanity. 

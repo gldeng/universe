@@ -148,4 +148,4 @@
 - [实验预测](formal_theory_experimental.md)
 - [量子引力与时空涌现](formal_theory_gravity_spacetime.md)
 - [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)
-- [二元论计算复杂性理论](formal_theory_computation.md)
+- [二元论计算复杂性理论](formal_theory_computation.md) 

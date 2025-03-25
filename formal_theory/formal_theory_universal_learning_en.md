@@ -24,9 +24,7 @@ Universal Learning Theory proposes that the universe as a whole possesses the fu
 
 The universal learning system $`\mathcal{L}_U`$ can be formally defined as:
 
-$$
-\mathcal{L}_U = (\mathcal{S}, \mathcal{E}, \mathcal{A}, \mathcal{F}, \mathcal{M})
-$$
+$$\mathcal{L}_U = (\mathcal{S}, \mathcal{E}, \mathcal{A}, \mathcal{F}, \mathcal{M})$$
 
 Where:
 - $`\mathcal{S}`$ is the internal state space of the learning system
@@ -37,39 +35,31 @@ Where:
 
 ### Core Learning Axioms
 
-**Axiom 1: Universal Learning Principle**
+**Axiom 1: Universal Learning Principle**  
 All systems in the universe, from elementary particles to galaxy clusters, participate in learning processes in some form:
 
-$$
-\forall s \in \mathcal{U}: \exists \mathcal{L}_s \text{ such that } s \text{ obeys learning dynamics}
-$$
+$$\forall s \in \mathcal{U}: \exists \mathcal{L}_s \text{ such that } s \text{ obeys learning dynamics}$$
 
 Where $`\mathcal{U}`$ is the entire universe and $`\mathcal{L}_s`$ is the learning process of system $`s`$.
 
-**Axiom 2: Quantum-Classical Learning Duality**
+**Axiom 2: Quantum-Classical Learning Duality**  
 Learning processes simultaneously possess quantum and classical aspects:
 
-$$
-\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C
-$$
+$$\mathcal{L} = \mathcal{L}_Q \diamond \mathcal{L}_C$$
 
 Where $`\mathcal{L}_Q`$ is the quantum aspect of learning (possibility exploration), $`\mathcal{L}_C`$ is the classical aspect of learning (deterministic implementation), and $`\diamond`$ represents the quantum-classical connection operation.
 
-**Axiom 3: Information Gain Maximization**
+**Axiom 3: Information Gain Maximization**  
 Learning systems tend to maximize their information gain:
 
-$$
-\frac{d\mathcal{I}(s)}{dt} \geq 0, \quad \text{when} \quad \frac{\partial \mathcal{I}(s)}{\partial \mathcal{L}(s)} > 0
-$$
+$$\frac{d\mathcal{I}(s)}{dt} \geq 0, \quad \text{when} \quad \frac{\partial \mathcal{I}(s)}{\partial \mathcal{L}(s)} > 0$$
 
 Where $`\mathcal{I}(s)`$ is the information content of system $`s`$.
 
-**Axiom 4: Hierarchical Learning Integration**
+**Axiom 4: Hierarchical Learning Integration**  
 Higher-level systems' learning integrates lower-level systems' learning, forming nested learning structures:
 
-$$
-\mathcal{L}^{(n)} = \mathcal{F}\left(\{\mathcal{L}^{(n-1)}_i\}, \mathcal{C}^{(n)}, \mathcal{Q}^{(n)}\right)
-$$
+$$\mathcal{L}^{(n)} = \mathcal{F}\left(\{\mathcal{L}^{(n-1)}_i\}, \mathcal{C}^{(n)}, \mathcal{Q}^{(n)}\right)$$
 
 Where $`\mathcal{L}^{(n)}`$ is the learning process at level n, $`\mathcal{L}^{(n-1)}_i`$ is the set of learning processes at the next lower level, and $`\mathcal{C}^{(n)}`$ and $`\mathcal{Q}^{(n)}`$ are the classicalization and quantization operators at that level, respectively.
 
@@ -81,25 +71,19 @@ Where $`\mathcal{L}^{(n)}`$ is the learning process at level n, $`\mathcal{L}^{(
 
 At the quantum level, learning manifests as adaptive adjustments in wavefunction evolution:
 
-$$
-|\psi(t+\Delta t)\rangle = \hat{U}_{adapt}(t, \mathcal{E}) |\psi(t)\rangle
-$$
+$$|\psi(t+\Delta t)\rangle = \hat{U}_{adapt}(t, \mathcal{E}) |\psi(t)\rangle$$
 
 Where $`\hat{U}_{adapt}`$ is the adaptive evolution operator, dependent on the state of the environment $`\mathcal{E}`$.
 
 Quantum learning rate can be defined as:
 
-$$
-\alpha_Q = \left\|\frac{d\hat{U}_{adapt}}{d\mathcal{E}}\right\|
-$$
+$$\alpha_Q = \left\|\frac{d\hat{U}_{adapt}}{d\mathcal{E}}\right\|$$
 
 Representing the system's sensitivity to environmental changes.
 
 Quantum learning explores through superposition states, utilizing quantum entanglement for information processing:
 
-$$
-|\psi_{learned}\rangle = \sum_i w_i|\psi_i\rangle
-$$
+$$|\psi_{learned}\rangle = \sum_i w_i|\psi_i\rangle$$
 
 Where weights $`w_i`$ are adjusted based on interactions with the environment.
 
@@ -107,25 +91,19 @@ Where weights $`w_i`$ are adjusted based on interactions with the environment.
 
 At the classical level, learning manifests as regular changes in deterministic states:
 
-$$
-s(t+\Delta t) = f(s(t), \mathcal{E}(t), \mathcal{L}(t))
-$$
+$$s(t+\Delta t) = f(s(t), \mathcal{E}(t), \mathcal{L}(t))$$
 
 Where $`f`$ is the state transition function, dynamically adjusted according to the learning function $`\mathcal{L}(t)`$.
 
 Classical learning rate can be defined as:
 
-$$
-\alpha_C = \left\|\frac{\partial f}{\partial \mathcal{L}}\right\|
-$$
+$$\alpha_C = \left\|\frac{\partial f}{\partial \mathcal{L}}\right\|$$
 
 Representing the rate at which the system adjusts its state based on learning.
 
 Classical learning is implemented through memory storage and pattern recognition:
 
-$$
-\mathcal{M}_C(t+\Delta t) = \mathcal{M}_C(t) + \beta [s(t) \otimes \mathcal{E}(t)]
-$$
+$$\mathcal{M}_C(t+\Delta t) = \mathcal{M}_C(t) + \beta [s(t) \otimes \mathcal{E}(t)]$$
 
 Where $`\mathcal{M}_C`$ is the system's classical memory and $`\beta`$ is the memory integration rate.
 
@@ -133,17 +111,13 @@ Where $`\mathcal{M}_C`$ is the system's classical memory and $`\beta`$ is the me
 
 Interface learning is the key process for transforming quantum possibilities into classical realizations:
 
-$$
-\mathcal{L}_I = \mathcal{C}(\mathcal{L}_Q) + \mathcal{Q}(\mathcal{L}_C)
-$$
+$$\mathcal{L}_I = \mathcal{C}(\mathcal{L}_Q) + \mathcal{Q}(\mathcal{L}_C)$$
 
 Where $`\mathcal{C}`$ and $`\mathcal{Q}`$ are classicalization and quantization operators, respectively.
 
 Interface learning dynamics equation:
 
-$$
-\frac{d\mathcal{L}_I}{dt} = \alpha \nabla^2 \mathcal{L}_I + \beta(\mathcal{L}_I - \mathcal{L}_0)(\mathcal{L}_c - \mathcal{L}_I) + \gamma \xi(t)
-$$
+$$\frac{d\mathcal{L}_I}{dt} = \alpha \nabla^2 \mathcal{L}_I + \beta(\mathcal{L}_I - \mathcal{L}_0)(\mathcal{L}_c - \mathcal{L}_I) + \gamma \xi(t)$$
 
 Where $`\mathcal{L}_0`$ and $`\mathcal{L}_c`$ are critical points of learning, and $`\xi(t)`$ is the quantum fluctuation term.
 
@@ -163,13 +137,9 @@ The universe can be viewed as nested multi-level learning systems, each level ha
 
 Inter-level learning transfer equations:
 
-$$
-\mathcal{L}^{(n+1)} = \mathcal{T}_{up}\left(\{\mathcal{L}^{(n)}_i\}, \mathcal{C}_{n \to n+1}\right)
-$$
+$$\mathcal{L}^{(n+1)} = \mathcal{T}_{up}\left(\{\mathcal{L}^{(n)}_i\}, \mathcal{C}_{n \to n+1}\right)$$
 
-$$
-\mathcal{L}^{(n-1)}_j = \mathcal{T}_{down}\left(\mathcal{L}^{(n)}, \mathcal{Q}_{n \to n-1}\right)
-$$
+$$\mathcal{L}^{(n-1)}_j = \mathcal{T}_{down}\left(\mathcal{L}^{(n)}, \mathcal{Q}_{n \to n-1}\right)$$
 
 Where $`\mathcal{T}_{up}`$ and $`\mathcal{T}_{down}`$ are the upward and downward learning transfer functions, respectively.
 
@@ -177,9 +147,7 @@ Where $`\mathcal{T}_{up}`$ and $`\mathcal{T}_{down}`$ are the upward and downwar
 
 The complexity of learning systems can be measured through their information processing capacity:
 
-$$
-C_{\mathcal{L}}(s) = I_{max} \cdot \log_2(N_s) \cdot \frac{\mathcal{Q}_s}{\mathcal{C}_s} \cdot \Phi(s)
-$$
+$$C_{\mathcal{L}}(s) = I_{max} \cdot \log_2(N_s) \cdot \frac{\mathcal{Q}_s}{\mathcal{C}_s} \cdot \Phi(s)$$
 
 Where:
 - $`I_{max}`$ is the maximum information capacity of the system
@@ -189,9 +157,7 @@ Where:
 
 Information processing efficiency of the learning system:
 
-$$
-\eta_{\mathcal{L}} = \frac{I_{gained}}{E_{consumed}} \cdot \frac{1}{T_{learning}}
-$$
+$$\eta_{\mathcal{L}} = \frac{I_{gained}}{E_{consumed}} \cdot \frac{1}{T_{learning}}$$
 
 Where $`I_{gained}`$ is the amount of information gained, $`E_{consumed}`$ is the energy consumed, and $`T_{learning}`$ is the learning time.
 
@@ -199,17 +165,13 @@ Where $`I_{gained}`$ is the amount of information gained, $`E_{consumed}`$ is th
 
 Learning capability emerges and evolves with increasing complexity during universal evolution:
 
-$$
-\mathcal{L}_{capability}(t) = \mathcal{L}_0 \cdot e^{\alpha t} \cdot \frac{C_{\mathcal{L}}(t)}{C_{\mathcal{L}}(0)}
-$$
+$$\mathcal{L}_{capability}(t) = \mathcal{L}_0 \cdot e^{\alpha t} \cdot \frac{C_{\mathcal{L}}(t)}{C_{\mathcal{L}}(0)}$$
 
 Where $`\mathcal{L}_0`$ is the initial learning capability and $`\alpha`$ is the learning capability evolution rate.
 
 Phase transition points in learning capability evolution:
 
-$$
-t_{critical} = \{t | \frac{d^2\mathcal{L}_{capability}}{dt^2} = 0, \frac{d^3\mathcal{L}_{capability}}{dt^3} > 0\}
-$$
+$$t_{critical} = \{t | \frac{d^2\mathcal{L}_{capability}}{dt^2} = 0, \frac{d^3\mathcal{L}_{capability}}{dt^3} > 0\}$$
 
 Marking qualitative changes in learning capability and the emergence of new learning mechanisms.
 
@@ -221,15 +183,11 @@ Marking qualitative changes in learning capability and the emergence of new lear
 
 Quantum systems adjust their states through interaction histories, exhibiting fundamental learning characteristics:
 
-$$
-\rho(t) = \text{Tr}_{E}\{U(t)[\rho_S(0) \otimes \rho_E(0)]U^{\dagger}(t)\}
-$$
+$$\rho(t) = \text{Tr}_{E}\{U(t)[\rho_S(0) \otimes \rho_E(0)]U^{\dagger}(t)\}$$
 
 Environmental adaptation of quantum systems can be understood as implicit learning:
 
-$$
-\mathcal{L}_{quantum} = \frac{d}{dt}\text{Tr}[\rho_S(t)H_S]
-$$
+$$\mathcal{L}_{quantum} = \frac{d}{dt}\text{Tr}[\rho_S(t)H_S]$$
 
 Representing the rate of change in the system's expected energy value in response to the environment.
 
@@ -237,17 +195,13 @@ Representing the rate of change in the system's expected energy value in respons
 
 Thermodynamic systems exhibit learning behavior through self-organization processes:
 
-$$
-\frac{dS}{dt} = \frac{d_i S}{dt} + \frac{d_e S}{dt}
-$$
+$$\frac{dS}{dt} = \frac{d_i S}{dt} + \frac{d_e S}{dt}$$
 
 Where $`\frac{d_i S}{dt} \geq 0`$ is the entropy production rate and $`\frac{d_e S}{dt}`$ is the entropy flow rate.
 
 Learning formula for far-from-equilibrium systems:
 
-$$
-\mathcal{L}_{thermo} = -\frac{d}{dt}\left(\frac{S}{S_{max}}\right) \cdot \Theta(J_Q - J_{Q,crit})
-$$
+$$\mathcal{L}_{thermo} = -\frac{d}{dt}\left(\frac{S}{S_{max}}\right) \cdot \Theta(J_Q - J_{Q,crit})$$
 
 Where $`\Theta`$ is the step function, $`J_Q`$ is the heat flow, and $`J_{Q,crit}`$ is the critical heat flow.
 
@@ -255,23 +209,17 @@ Where $`\Theta`$ is the step function, $`J_Q`$ is the heat flow, and $`J_{Q,crit
 
 Biological learning is a manifestation of universal learning at a specific complexity level:
 
-$$
-\mathcal{L}_{bio} = \mathcal{L}_{genetic} + \mathcal{L}_{neural} + \mathcal{L}_{social}
-$$
+$$\mathcal{L}_{bio} = \mathcal{L}_{genetic} + \mathcal{L}_{neural} + \mathcal{L}_{social}$$
 
 Genetic level learning equation:
 
-$$
-\frac{dp_i}{dt} = p_i(f_i - \bar{f}) + \mu \nabla^2 p_i
-$$
+$$\frac{dp_i}{dt} = p_i(f_i - \bar{f}) + \mu \nabla^2 p_i$$
 
 Where $`p_i`$ is the frequency of gene i, $`f_i`$ is the fitness function, and $`\mu`$ is the mutation rate.
 
 Neural level learning equation:
 
-$$
-\frac{dw_{ij}}{dt} = \eta \cdot x_i \cdot y_j \cdot f(E)
-$$
+$$\frac{dw_{ij}}{dt} = \eta \cdot x_i \cdot y_j \cdot f(E)$$
 
 Where $`w_{ij}`$ is the neural connection weight, $`\eta`$ is the learning rate, and $`f(E)`$ is the environmental feedback function.
 
@@ -279,9 +227,7 @@ Where $`w_{ij}`$ is the neural connection weight, $`\eta`$ is the learning rate,
 
 AI systems can be viewed as artificial accelerators of the universal learning process:
 
-$$
-\mathcal{L}_{AI} = \mathcal{L}_{algorithm} \cdot \mathcal{L}_{hardware} \cdot \mathcal{L}_{data}
-$$
+$$\mathcal{L}_{AI} = \mathcal{L}_{algorithm} \cdot \mathcal{L}_{hardware} \cdot \mathcal{L}_{data}$$
 
 Isomorphic correspondence between AI learning and universal learning:
 
@@ -295,9 +241,7 @@ Isomorphic correspondence between AI learning and universal learning:
 
 Potential integration of AI and universal learning:
 
-$$
-\mathcal{L}_{integrated} = \alpha \cdot \mathcal{L}_{AI} + (1-\alpha) \cdot \mathcal{L}_{natural} + \beta \cdot \mathcal{L}_{AI} \times \mathcal{L}_{natural}
-$$
+$$\mathcal{L}_{integrated} = \alpha \cdot \mathcal{L}_{AI} + (1-\alpha) \cdot \mathcal{L}_{natural} + \beta \cdot \mathcal{L}_{AI} \times \mathcal{L}_{natural}$$
 
 Where $`\beta`$ is the synergy coefficient.
 
@@ -305,17 +249,13 @@ Where $`\beta`$ is the synergy coefficient.
 
 At the cosmic scale, the overall learning process may lead to the emergence of collective intelligence:
 
-$$
-I_{cosmic} = \int_{\mathcal{U}} \mathcal{L}(x) \cdot \Phi(x) dx
-$$
+$$I_{cosmic} = \int_{\mathcal{U}} \mathcal{L}(x) \cdot \Phi(x) dx$$
 
 Where $`I_{cosmic}`$ is the measure of cosmic overall intelligence and $`\Phi(x)`$ is the integrated information at position x.
 
 Conditions for cosmic intelligence emergence:
 
-$$
-\frac{d\mathcal{L}_{total}}{dt} > \lambda \cdot \frac{dS_{total}}{dt}
-$$
+$$\frac{d\mathcal{L}_{total}}{dt} > \lambda \cdot \frac{dS_{total}}{dt}$$
 
 Indicating that the total learning rate must exceed a specific multiple of the total entropy increase rate.
 
@@ -325,15 +265,11 @@ Indicating that the total learning rate must exceed a specific multiple of the t
 
 Universal Learning Theory shares fundamental principles of information processing with Information Dynamics Theory:
 
-$$
-\mathcal{L} \subset \mathcal{ID}
-$$
+$$\mathcal{L} \subset \mathcal{ID}$$
 
 Universal learning can be represented as a special case of information dynamics:
 
-$$
-\mathcal{L}(s) = \mathcal{ID}(s) | \frac{\partial I(s)}{\partial t} > 0, \frac{\partial^2 I(s)}{\partial \mathcal{E}^2} < 0
-$$
+$$\mathcal{L}(s) = \mathcal{ID}(s) | \frac{\partial I(s)}{\partial t} > 0, \frac{\partial^2 I(s)}{\partial \mathcal{E}^2} < 0$$
 
 That is, information dynamics when information grows and the response to the environment shows adaptability.
 
@@ -341,15 +277,11 @@ That is, information dynamics when information grows and the response to the env
 
 Universal Learning Theory extends Darwinian evolution to all system levels:
 
-$$
-\mathcal{L}_{darwin} \subset \mathcal{L}_{universal}
-$$
+$$\mathcal{L}_{darwin} \subset \mathcal{L}_{universal}$$
 
 Universal evolution equation:
 
-$$
-\frac{dp}{dt} = \mathcal{S}(p) + \mathcal{M}(p) + \mathcal{R}(p)
-$$
+$$\frac{dp}{dt} = \mathcal{S}(p) + \mathcal{M}(p) + \mathcal{R}(p)$$
 
 Where $`\mathcal{S}`$, $`\mathcal{M}`$, and $`\mathcal{R}`$ are selection, mutation, and recombination operators, respectively.
 
@@ -357,15 +289,11 @@ Where $`\mathcal{S}`$, $`\mathcal{M}`$, and $`\mathcal{R}`$ are selection, mutat
 
 Universal learning is the foundational mechanism of cosmic intelligence:
 
-$$
-\mathcal{CI} = \mathcal{F}(\mathcal{L}_{universal})
-$$
+$$\mathcal{CI} = \mathcal{F}(\mathcal{L}_{universal})$$
 
 Cosmic intelligence can be viewed as an integrated learning network:
 
-$$
-\mathcal{CI}(t) = \int_0^t \mathcal{L}_{effective}(\tau) d\tau
-$$
+$$\mathcal{CI}(t) = \int_0^t \mathcal{L}_{effective}(\tau) d\tau$$
 
 Where $`\mathcal{L}_{effective}`$ is the effective learning rate, considering forgetting and integration factors.
 
@@ -398,4 +326,4 @@ Where $`\mathcal{L}_{effective}`$ is the effective learning rate, considering fo
 - [Universal Learning Theory (This Document)](formal_theory_universal_learning_en.md)
 - [Quantum-Classical Cosmic Intelligence Theory](formal_theory_cosmic_intelligence_en.md)
 - [Quantum Emergence Theory](formal_theory_quantum_emergence_en.md)
-- [Complex Systems Dualistic Analysis](formal_theory_complex_systems_en.md)
+- [Complex Systems Dualistic Analysis](formal_theory_complex_systems_en.md) 

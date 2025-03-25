@@ -43,7 +43,7 @@ This section provides a rigorous mathematical formalization framework compatible
 
 1. **平面图的形式化定义**：
    平面图$`G=(V,E)`$是一个二元组，其中$`V`$是顶点集合，$`E \subseteq \{\{u,v\} \mid u,v \in V, u \neq v\}`$是边集合，且存在一个嵌入函数$`f: V \cup E \to \mathbb{R}^2`$，满足：
-
+   
    $$
    \begin{align}
    &\forall v \in V, f(v) \in \mathbb{R}^2 \text{ 是一个点} \\
@@ -57,7 +57,7 @@ This section provides a rigorous mathematical formalization framework compatible
 
 3. **色数的形式化定义**：
    图$`G`$的色数$`\chi(G)`$定义为：
-
+   
    $$
    \chi(G) = \min\{k \in \mathbb{N} \mid \text{存在} G \text{的一个} k\text{-着色}\}
    $$
@@ -66,7 +66,7 @@ We formalize the following concepts within the ZFC axiom system:
 
 1. **Formal definition of planar graphs**:
    A planar graph $`G=(V,E)`$ is a tuple where $`V`$ is a set of vertices and $`E \subseteq \{\{u,v\} \mid u,v \in V, u \neq v\}`$ is a set of edges, with an embedding function $`f: V \cup E \to \mathbb{R}^2`$ satisfying:
-
+   
    $$
    \begin{align}
    &\forall v \in V, f(v) \in \mathbb{R}^2 \text{ is a point} \\
@@ -80,7 +80,7 @@ We formalize the following concepts within the ZFC axiom system:
 
 3. **Formal definition of chromatic number**:
    The chromatic number $`\chi(G)`$ of a graph $`G`$ is defined as:
-
+   
    $$
    \chi(G) = \min\{k \in \mathbb{N} \mid \text{there exists a} k\text{-coloring of } G\}
    $$
@@ -95,23 +95,23 @@ We formalize the following concepts within the ZFC axiom system:
 2. **不可避免集与可简化构型**：
    设$`\mathcal{U}`$为不可避免集，表示任何最小反例必须包含$`\mathcal{U}`$中至少一个构型。
    设$`\mathcal{R}`$为可简化构型集，表示如果最小反例包含这些构型，则可以简化为更小反例。
-
+   
    定理的数学本质是证明$`\mathcal{U} \subseteq \mathcal{R}`$，即每个不可避免的构型都是可简化的。
 
 3. **不可避免性证明**：
    通过归纳法证明，任何平面图要么含有$`\mathcal{U}`$中的一个构型，要么不是最小反例：
-
+   
    $$
    \forall G(\text{平面图}), [\neg(\exists C \in \mathcal{U}, C \subseteq G)] \Rightarrow [\chi(G) \leq 4 \lor |V(G)| \text{ 不是最小}]
    $$
 
 4. **可简化性证明**：
    对于每个构型$`C \in \mathcal{R}`$，证明存在一个更小的图$`G'`$，使得：
-
+   
    $$
    \forall c'(G' \text{的4-着色}), \exists c(G \text{的4-着色})
    $$
-
+   
    这部分证明通常需要枚举分析。
 
 5. **形式化验证**：
@@ -128,23 +128,23 @@ The rigorous mathematical proof of the Four Color Theorem is based on the follow
 2. **Unavoidable sets and reducible configurations**:
    Let $`\mathcal{U}`$ be an unavoidable set, meaning any minimal counterexample must contain at least one configuration from $`\mathcal{U}`$.
    Let $`\mathcal{R}`$ be a set of reducible configurations, meaning if a minimal counterexample contains these configurations, it can be reduced to a smaller counterexample.
-
+   
    The mathematical essence of the theorem is proving $`\mathcal{U} \subseteq \mathcal{R}`$, i.e., every unavoidable configuration is reducible.
 
 3. **Proof of unavoidability**:
    Using induction to prove that any planar graph either contains a configuration in $`\mathcal{U}`$ or is not a minimal counterexample:
-
+   
    $$
    \forall G(\text{planar graph}), [\neg(\exists C \in \mathcal{U}, C \subseteq G)] \Rightarrow [\chi(G) \leq 4 \lor |V(G)| \text{ is not minimal}]
    $$
 
 4. **Proof of reducibility**:
    For each configuration $`C \in \mathcal{R}`$, prove there exists a smaller graph $`G'`$ such that:
-
+   
    $$
    \forall c'(4\text{-coloring of } G'), \exists c(4\text{-coloring of } G)
    $$
-
+   
    This part of the proof typically requires enumeration analysis.
 
 5. **Formal verification**:
@@ -321,4 +321,4 @@ Further predictions:
 2. Robertson, N., Sanders, D. P., Seymour, P., & Thomas, R. (1997). The four-color theorem. Journal of Combinatorial Theory, Series B, 70(1), 2-44.
 3. 量子经典二元论核心理论文献 [29.0].
 4. Gonthier, G. (2008). Formal proof—the four-color theorem. Notices of the AMS, 55(11), 1382-1393.
-5. Werner, D. (2008). A proof of the four color theorem. arXiv preprint arXiv:0811.0165.
+5. Werner, D. (2008). A proof of the four color theorem. arXiv preprint arXiv:0811.0165. 

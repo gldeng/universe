@@ -40,33 +40,23 @@
 
 1. **记忆的量子叠加态**：无意识记忆的本质：
 
-$$
-|\psi\rangle_{\text{记忆}} = \sum_{t} c_t |\text{过去}_t\rangle \otimes |\text{现在}\rangle \otimes |\text{感知}_t\rangle
-$$
+$$|\psi\rangle_{\text{记忆}} = \sum_{t} c_t |\text{过去}_t\rangle \otimes |\text{现在}\rangle \otimes |\text{感知}_t\rangle$$
 
 2. **时间的量子纠缠**：《追忆逝水年华》中的时间观：
 
-$$
-|\Psi_{\text{时间}}\rangle = \int dt \sum_i \psi_i(t) |\text{客观时间}\rangle_t \otimes |\text{主观时间}\rangle_t
-$$
+$$|\Psi_{\text{时间}}\rangle = \int dt \sum_i \psi_i(t) |\text{客观时间}\rangle_t \otimes |\text{主观时间}\rangle_t$$
 
 3. **感官知觉的量子态**：马德莱娜蛋糕的味觉记忆：
 
-$$
-|\phi\rangle_{\text{感知}} = \alpha |\text{当下感官}\rangle + \beta |\text{记忆感官}\rangle + \gamma |\text{联想}\rangle
-$$
+$$|\phi\rangle_{\text{感知}} = \alpha |\text{当下感官}\rangle + \beta |\text{记忆感官}\rangle + \gamma |\text{联想}\rangle$$
 
 4. **身份的量子流动性**：叙述者"我"的多重存在：
 
-$$
-|\psi\rangle_{\text{自我}} = \sum_t c_t |\text{过去我}_t\rangle \otimes |\text{现在我}\rangle
-$$
+$$|\psi\rangle_{\text{自我}} = \sum_t c_t |\text{过去我}_t\rangle \otimes |\text{现在我}\rangle$$
 
 5. **社会观察的量子态**：对上流社会的多维观察：
 
-$$
-|\Psi_{\text{社会}}\rangle = \sum_{i,j} c_{ij} |\text{表象}_i\rangle |\text{本质}_j\rangle
-$$
+$$|\Psi_{\text{社会}}\rangle = \sum_{i,j} c_{ij} |\text{表象}_i\rangle |\text{本质}_j\rangle$$
 
 ### 现代意义
 

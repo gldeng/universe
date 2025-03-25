@@ -1,10 +1,10 @@
 # 清静经在量子经典二元论下的解释
 # Qingjing Jing Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#清静经概述) | [English Version](#qingjing-jing-overview)
-**章节链接 | Section Links**
-中文：[清静经概述](#清静经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)
+**导航 | Navigation**  
+[中文版](#清静经概述) | [English Version](#qingjing-jing-overview)  
+**章节链接 | Section Links**  
+中文：[清静经概述](#清静经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)  
 English: [Qingjing Jing Overview](#qingjing-jing-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达) | [Conclusion](#结论)
 
 ## 清静经概述
@@ -18,31 +18,31 @@ The Qingjing Jing, fully titled "The Scripture of Constant Clarity and Stillness
 ## Core Text
 
 > 老君曰：大道无形，生育天地；大道无情，运行日月；大道无名，长养万物。吾不知其名，强名曰道。
->
+> 
 > 夫道者，有清有浊，有动有静。天清地浊，天动地静。
->
+> 
 > 人能常清静，天地悉皆归。
->
+> 
 > 神清气静，万病不生。心清意静，万罪不起。
->
+> 
 > 又当绝想去念，一切不思。若一念有所思，即一念有生灭。
->
+> 
 > 常能遣其情，亦能遣其欲。情欲既遣，唯有清虚。
->
+> 
 > 性寂身亦寂，性定身亦定。即归常清静，渐入真道矣。
 
 > Lord Lao said: The Great Tao has no form, yet gives birth to heaven and earth; the Great Tao has no feelings, yet governs the sun and moon; the Great Tao has no name, yet nurtures all things. I do not know its name, so I forcibly call it "Tao."
->
+> 
 > The Tao has clarity and turbidity, movement and stillness. Heaven is clear, earth is turbid; heaven moves, earth is still.
->
+> 
 > When people can maintain constant clarity and stillness, heaven and earth will completely return to them.
->
+> 
 > When spirit is clear and energy is still, no illness will arise. When mind is clear and intention is still, no sin will emerge.
->
+> 
 > Furthermore, one should eliminate conceptualization and remove thoughts, considering nothing at all. If one thought arises, in that moment there is birth and extinction.
->
+> 
 > If one can constantly dispel emotions, one can also dispel desires. When emotions and desires are dispelled, only clarity and emptiness remain.
->
+> 
 > When nature is tranquil, the body is also tranquil; when nature is stable, the body is also stable. Then one returns to constant clarity and stillness, gradually entering the true Tao.
 
 ## 量子经典二元论解释
@@ -179,4 +179,4 @@ Where $`\xi(t)`$ represents the depth of clarity and stillness, and $`Q(t)`$ is 
 
 As an important Taoist classic for mind cultivation, the philosophical content of the Qingjing Jing can receive scientific interpretation through the Quantum-Classical Dualism framework. The "clarity and stillness" cultivation is essentially a method for optimizing the observer's quantum measurement process, achieving efficient acquisition and transformation of quantum information by reducing subjective consciousness interference with quantum systems. The "elimination of conceptualization and removal of thoughts" in the text corresponds to minimizing quantum measurement interference, "spirit clear and energy still" corresponds to the optimized state of the observer's internal system, and "gradually entering the true Tao" describes the stepwise process of observer dimension elevation.
 
-Through the Quantum-Classical Dualism explanation, the cultivation goal of "returning to the Infinite" in the Qingjing Jing can be understood as: the observer elevates their dimension through clarity and stillness cultivation, optimizes classicalization efficiency, and ultimately achieves efficient connection and information exchange with the higher-dimensional quantum domain. This theoretical framework not only provides a modern scientific explanation for traditional Taoist practice but also reveals the profound connection between quantum physics and ancient Eastern wisdom.
+Through the Quantum-Classical Dualism explanation, the cultivation goal of "returning to the Infinite" in the Qingjing Jing can be understood as: the observer elevates their dimension through clarity and stillness cultivation, optimizes classicalization efficiency, and ultimately achieves efficient connection and information exchange with the higher-dimensional quantum domain. This theoretical framework not only provides a modern scientific explanation for traditional Taoist practice but also reveals the profound connection between quantum physics and ancient Eastern wisdom. 

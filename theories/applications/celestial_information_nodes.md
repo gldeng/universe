@@ -1,10 +1,10 @@
 # 恒星与星系信息节点：宇宙量子信息经典化理论
 # Celestial Information Nodes: Theory of Universal Quantum Information Classicalization
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[恒星作为量子信息经典化节点](#一恒星作为量子信息经典化节点) | [恒星的信息处理机制](#二恒星的信息处理机制)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[恒星作为量子信息经典化节点](#一恒星作为量子信息经典化节点) | [恒星的信息处理机制](#二恒星的信息处理机制)  
 English: [Stars as Quantum Information Classicalization Nodes](#english-version) | [Information Processing Mechanism of Stars](#english-version)
 
 ## 中文版
@@ -377,4 +377,4 @@ This framework clearly indicates:
 - The material structures of the classical universe are essentially classicalized manifestations of quantum universe information;
 - Observers indirectly obtain quantum information of the universe by perceiving the classicalized information released by stars and galaxies.
 
-From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, stars and galaxies are no longer merely aggregates of matter, but key nodes in the universal information processing system. They classicalize the information of the quantum universe, enabling observers to perceive and understand the universe. This perspective unifies the material universe and the information universe, providing a new theoretical framework for understanding the structure and evolution of the universe.
+From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, stars and galaxies are no longer merely aggregates of matter, but key nodes in the universal information processing system. They classicalize the information of the quantum universe, enabling observers to perceive and understand the universe. This perspective unifies the material universe and the information universe, providing a new theoretical framework for understanding the structure and evolution of the universe. 

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1856年-1939年 (1856-1939)
-**国籍 | Nationality**: 奥地利，后为英国 (Austria, later United Kingdom)
-**主要领域 | Main Fields**: 精神分析学、心理学、神经学 (Psychoanalysis, Psychology, Neurology)
+**生卒年份 | Lifespan**: 1856年-1939年 (1856-1939)  
+**国籍 | Nationality**: 奥地利，后为英国 (Austria, later United Kingdom)  
+**主要领域 | Main Fields**: 精神分析学、心理学、神经学 (Psychoanalysis, Psychology, Neurology)  
 **代表作品 | Representative Works**: 《梦的解析》、《精神分析引论》、《图腾与禁忌》、《自我与本我》、《文明及其不满》 (The Interpretation of Dreams, Introductory Lectures on Psychoanalysis, Totem and Taboo, The Ego and the Id, Civilization and Its Discontents)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From a Quantum-Classical Dualism perspective, sublimation is the creative proces
 - "The first human who hurled an insult instead of a stone was the founder of civilization."
 - "Love and work are the cornerstones of our humanness."
 - "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility."
-- "The repressed always returns in some way."
+- "The repressed always returns in some way." 

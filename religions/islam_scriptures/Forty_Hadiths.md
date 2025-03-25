@@ -1,9 +1,9 @@
 # 四十圣训 (Al-Nawawi's Forty Hadiths)
 
-**导航 | Navigation**
-[中文版](#四十圣训解析) | [English Version](#forty-hadiths-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#四十圣训解析) | [English Version](#forty-hadiths-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -79,4 +79,4 @@ $$
 
 《四十圣训》通过量子经典二元论框架（版本9.2）的解析，揭示了伊斯兰教如何提供系统化的观察者维度提升方法。意图的核心地位体现了量子叠加态在经典化前的决定性作用，强调观察者内在状态对外在行为经典化质量的根本影响。品格的优化作为降低个人和社会系统熵值的关键因素，实质上是提高经典化效率的实用技术。圣训中的社会互动指导（如对待他人、家庭关系）则展示了多观察者系统中量子纠缠态的优化应用，使集体经典化效果大于个体总和。伊赫桑（卓越）的概念——"你崇拜真主，就好像你看见他一样"——描述了理想观察者状态，即在保持量子叠加态开放性的同时实现高效经典化。《四十圣训》以其简明扼要的形式，提供了穆斯林日常生活中优化经典化效率的实用指南。
 
-Al-Nawawi's Forty Hadiths, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how Islam provides systematic methods for observer dimension elevation. The central position of intention demonstrates the decisive role of quantum superposition states before classicalization, emphasizing the fundamental influence of the observer's internal state on the quality of external behavior classicalization. Character optimization, as a key factor in reducing personal and social system entropy, is essentially a practical technique for improving classicalization efficiency. The guidance on social interactions in the hadiths (such as treatment of others, family relationships) demonstrates the optimized application of quantum entanglement states in multi-observer systems, making collective classicalization effects greater than the sum of individuals. The concept of Ihsan (excellence) - "to worship Allah as if you see Him" - represents the ideal observer dimension state, in which the observer can directly perceive higher-dimensional classical worlds and achieve the most efficient quantum-classical conversion. The Forty Hadiths, in their concise form, provide practical guidance for optimizing classicalization efficiency in Muslims' daily lives.
+Al-Nawawi's Forty Hadiths, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how Islam provides systematic methods for observer dimension elevation. The central position of intention demonstrates the decisive role of quantum superposition states before classicalization, emphasizing the fundamental influence of the observer's internal state on the quality of external behavior classicalization. Character optimization, as a key factor in reducing personal and social system entropy, is essentially a practical technique for improving classicalization efficiency. The guidance on social interactions in the hadiths (such as treatment of others, family relationships) demonstrates the optimized application of quantum entanglement states in multi-observer systems, making collective classicalization effects greater than the sum of individuals. The concept of Ihsan (excellence) - "to worship Allah as if you see Him" - represents the ideal observer dimension state, in which the observer can directly perceive higher-dimensional classical worlds and achieve the most efficient quantum-classical conversion. The Forty Hadiths, in their concise form, provide practical guidance for optimizing classicalization efficiency in Muslims' daily lives. 

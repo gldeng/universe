@@ -37,9 +37,7 @@
 
 社交网络中的关系可表示为量子-经典混合状态：
 
-$$
-\rho_{AB} = \sum_i p_i |\psi_i\rangle_{AB}\langle\psi_i| + \sum_j q_j \rho_A^j \otimes \rho_B^j
-$$
+$$\rho_{AB} = \sum_i p_i |\psi_i\rangle_{AB}\langle\psi_i| + \sum_j q_j \rho_A^j \otimes \rho_B^j$$
 
 其中：
 - $`|\psi_i\rangle_{AB}`$ 表示纠缠型社交关系（强相关性）
@@ -47,9 +45,7 @@ $$
 
 关系强度可通过量子相关度量化：
 
-$$
-Q(A,B) = I(A:B) - I_{c}(A:B)
-$$
+$$Q(A,B) = I(A:B) - I_{c}(A:B)$$
 
 其中 $`I(A:B)`$ 是总互信息，$`I_{c}(A:B)`$ 是经典互信息，差值代表纯量子关联强度。
 
@@ -59,17 +55,13 @@ $$
 
 1. **量子超图模型**：社交关系超越简单的二元连接，形成多体纠缠，可表示为量子超图：
 
-$$
-G_Q = (V, E_Q, \mu)
-$$
+$$G_Q = (V, E_Q, \mu)$$
 
 其中 $`V`$ 是节点集，$`E_Q`$ 是量子超边集，$`\mu`$ 是量子权重函数。
 
 2. **波函数演化**：网络结构通过类薛定谔方程演化：
 
-$$
-i\hbar\frac{\partial|\Psi_G\rangle}{\partial t} = \hat{H}_G|\Psi_G\rangle
-$$
+$$i\hbar\frac{\partial|\Psi_G\rangle}{\partial t} = \hat{H}_G|\Psi_G\rangle$$
 
 其中 $`\hat{H}_G`$ 是网络哈密顿算符，描述各节点间互动能量。
 
@@ -79,9 +71,7 @@ $$
 
 社交网络中的信息传播可描述为波函数：
 
-$$
-|\Psi_{\text{info}}\rangle = \sum_{s \in S} \alpha_s |s\rangle \otimes \sum_{n \in N} \beta_{s,n} |n\rangle
-$$
+$$|\Psi_{\text{info}}\rangle = \sum_{s \in S} \alpha_s |s\rangle \otimes \sum_{n \in N} \beta_{s,n} |n\rangle$$
 
 其中：
 - $`|s\rangle`$ 是信息状态基矢
@@ -93,15 +83,11 @@ $$
 
 信息传播中的干涉效应可描述为：
 
-$$
-P(s \text{ 传播到 } n) = \left|\sum_i \alpha_i \beta_{i,n}\right|^2 \neq \sum_i |\alpha_i \beta_{i,n}|^2
-$$
+$$P(s \text{ 传播到 } n) = \left|\sum_i \alpha_i \beta_{i,n}\right|^2 \neq \sum_i |\alpha_i \beta_{i,n}|^2$$
 
 病毒式传播现象解释为量子共振，满足条件：
 
-$$
-\omega_{\text{信息}} \approx \omega_{\text{网络}}
-$$
+$$\omega_{\text{信息}} \approx \omega_{\text{网络}}$$
 
 其中 $`\omega`$ 表示特征频率。当信息内容频率与网络固有频率接近时，会触发共振式传播。
 
@@ -109,15 +95,11 @@ $$
 
 社交网络中的注意力可建模为有限资源：
 
-$$
-\sum_i A_i = A_{\text{总}}
-$$
+$$\sum_i A_i = A_{\text{总}}$$
 
 注意力分配遵循最小作用量原理：
 
-$$
-\delta\int_{t_1}^{t_2} L(A_i(t), \dot{A}_i(t), t) dt = 0
-$$
+$$\delta\int_{t_1}^{t_2} L(A_i(t), \dot{A}_i(t), t) dt = 0$$
 
 其中 $`L`$ 是注意力拉格朗日量，描述用户效用最大化与认知成本最小化的平衡。
 
@@ -127,9 +109,7 @@ $$
 
 社交网络中的集体意识可描述为：
 
-$$
-|\Psi_{\text{集体}}\rangle = \frac{1}{\sqrt{Z}}\sum_{\{s_i\}} e^{-\beta E(\{s_i\})}|\{s_i\}\rangle
-$$
+$$|\Psi_{\text{集体}}\rangle = \frac{1}{\sqrt{Z}}\sum_{\{s_i\}} e^{-\beta E(\{s_i\})}|\{s_i\}\rangle$$
 
 其中：
 - $`\{s_i\}`$ 表示所有可能的集体状态配置
@@ -141,15 +121,11 @@ $$
 
 集体意识存在相变现象，可通过序参量描述：
 
-$$
-m = \frac{1}{N}\sum_{i=1}^N \langle s_i \rangle
-$$
+$$m = \frac{1}{N}\sum_{i=1}^N \langle s_i \rangle$$
 
 临界点处，意见分布满足幂律：
 
-$$
-P(s) \propto s^{-\tau}
-$$
+$$P(s) \propto s^{-\tau}$$
 
 表现为网络中普遍存在的无标度现象。
 
@@ -157,15 +133,11 @@ $$
 
 集体意识纠缠度可表示为：
 
-$$
-E(\Psi_{\text{集体}}) = S(\text{Tr}_B(|\Psi_{\text{集体}}\rangle\langle\Psi_{\text{集体}}|))
-$$
+$$E(\Psi_{\text{集体}}) = S(\text{Tr}_B(|\Psi_{\text{集体}}\rangle\langle\Psi_{\text{集体}}|))$$
 
 同步化现象源于量子相位锁定：
 
-$$
-\frac{d\theta_i}{dt} = \omega_i + K\sum_{j=1}^N A_{ij}\sin(\theta_j - \theta_i)
-$$
+$$\frac{d\theta_i}{dt} = \omega_i + K\sum_{j=1}^N A_{ij}\sin(\theta_j - \theta_i)$$
 
 其中 $`\theta_i`$ 是节点相位，$`K`$ 是耦合强度，$`A_{ij}`$ 是邻接矩阵元素。
 
@@ -175,9 +147,7 @@ $$
 
 社交网络中的用户同时是信息的生产者和观察者：
 
-$$
-|\Psi\rangle \xrightarrow[\text{用户观察}]{\mathcal{M}_U} |\Psi'\rangle = \sum_i M_i |\Psi\rangle
-$$
+$$|\Psi\rangle \xrightarrow[\text{用户观察}]{\mathcal{M}_U} |\Psi'\rangle = \sum_i M_i |\Psi\rangle$$
 
 观察行为本身（点赞、评论、转发）影响信息状态，导致波函数坍缩。
 
@@ -185,9 +155,7 @@ $$
 
 推荐算法构成第二级观察者：
 
-$$
-\rho \xrightarrow[\text{算法观察}]{\mathcal{E}_A} \rho' = \sum_j E_j \rho E_j^\dagger
-$$
+$$\rho \xrightarrow[\text{算法观察}]{\mathcal{E}_A} \rho' = \sum_j E_j \rho E_j^\dagger$$
 
 算法观察持续影响信息呈现和网络演化，形成观察者效应的放大循环。
 
@@ -195,9 +163,7 @@ $$
 
 社交媒体的量子齐纳效应：持续观察阻止系统自然演化：
 
-$$
-\lim_{t\to\infty} e^{-iHt}\rho e^{iHt} \xrightarrow[\text{频繁观察}]{} \rho
-$$
+$$\lim_{t\to\infty} e^{-iHt}\rho e^{iHt} \xrightarrow[\text{频繁观察}]{} \rho$$
 
 表现为意见极化和信息茧房现象。
 
@@ -207,9 +173,7 @@ $$
 
 基于量子中心性，定义节点影响力：
 
-$$
-C_Q(i) = \sum_{j \neq i} \mathcal{I}_Q(i:j)
-$$
+$$C_Q(i) = \sum_{j \neq i} \mathcal{I}_Q(i:j)$$
 
 其中 $`\mathcal{I}_Q(i:j)`$ 是节点间的量子互信息，包含经典和量子关联。
 
@@ -218,16 +182,10 @@ $$
 优化信息流的量子设计原则：
 
 1. **多样性原则**：最大化量子纠缠熵
-
-$$
-\max S(\rho_{\text{网络}}) = -\text{Tr}(\rho_{\text{网络}}\log\rho_{\text{网络}})
-$$
+   $$\max S(\rho_{\text{网络}}) = -\text{Tr}(\rho_{\text{网络}}\log\rho_{\text{网络}})$$
 
 2. **相干性原则**：保持足够的量子相干性
-
-$$
-C(\rho) = \sum_{i\neq j}|\rho_{ij}| > C_{\text{min}}
-$$
+   $$C(\rho) = \sum_{i\neq j}|\rho_{ij}| > C_{\text{min}}$$
 
 3. **干涉增强原则**：设计促进建设性干涉的交互机制
 
@@ -235,9 +193,7 @@ $$
 
 量子社交网络韧性依赖于冗余和纠缠：
 
-$$
-R_Q = \frac{E(\rho_{\text{网络}})}{D_{\text{结构}}(\rho_{\text{原始}}, \rho_{\text{扰动}})}
-$$
+$$R_Q = \frac{E(\rho_{\text{网络}})}{D_{\text{结构}}(\rho_{\text{原始}}, \rho_{\text{扰动}})}$$
 
 其中 $`E`$ 是全局纠缠度，$`D_{\text{结构}}`$ 是结构距离度量。
 
@@ -247,37 +203,27 @@ $$
 
 网络极化源于量子测量投影：
 
-$$
-\rho \to \frac{P_i\rho P_i}{\text{Tr}(P_i\rho)}
-$$
+$$\rho \to \frac{P_i\rho P_i}{\text{Tr}(P_i\rho)}$$
 
 回音室效应可表示为重复测量导致的状态固定：
 
-$$
-\rho_{\infty} = \lim_{n\to\infty}(P\cdot)^n(\rho_0)
-$$
+$$\rho_{\infty} = \lim_{n\to\infty}(P\cdot)^n(\rho_0)$$
 
 ### 虚假信息传播机制
 
 虚假信息作为量子混沌吸引子：
 
-$$
-A_{\text{fake}} = \{x | \lim_{t\to\infty}\Phi^t(x) \in \text{奇异集}\}
-$$
+$$A_{\text{fake}} = \{x | \lim_{t\to\infty}\Phi^t(x) \in \text{奇异集}\}$$
 
 其传播速度快于真实信息的原因在于量子隧穿效应：
 
-$$
-T(E) \approx \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2}\sqrt{2m(V(x)-E)}dx\right)
-$$
+$$T(E) \approx \exp\left(-\frac{2}{\hbar}\int_{x_1}^{x_2}\sqrt{2m(V(x)-E)}dx\right)$$
 
 ### 社交网络成瘾与熵陷阱
 
 社交媒体成瘾形成量子势阱：
 
-$$
-V(x) = -V_0 \delta(x) + \frac{1}{2}m\omega^2 x^2
-$$
+$$V(x) = -V_0 \delta(x) + \frac{1}{2}m\omega^2 x^2$$
 
 通过定期奖励设计，用户被束缚在离散能级上，难以逃脱。
 
@@ -324,4 +270,4 @@ $$
 - [量子经济学原理](formal_theory_quantum_economics.md)
 - [语言量子性](formal_theory_quantum_linguistics.md)
 - [复杂系统二元分析](formal_theory_complex_systems.md)
-- [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)
+- [量子-经典非平衡态理论](formal_theory_nonequilibrium.md) 

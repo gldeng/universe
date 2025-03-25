@@ -148,4 +148,4 @@ This terminology glossary references the following documents and materials:
 - [Experimental Predictions](formal_theory_experimental_en.md)
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Quantum-Classical Nonequilibrium Theory](formal_theory_nonequilibrium_en.md)
-- [Dualistic Computational Complexity Theory](formal_theory_computation_en.md)
+- [Dualistic Computational Complexity Theory](formal_theory_computation_en.md) 

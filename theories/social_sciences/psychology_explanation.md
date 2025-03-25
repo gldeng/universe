@@ -1,9 +1,9 @@
 # 心理学视角下的量子经典二元论 (Quantum-Classical Dualism from Psychological Perspective)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[引言](#1-引言心理学与量子经典二元论) | [认知心理学视角](#2-认知心理学视角) | [发展心理学视角](#3-发展心理学视角) | [社会心理学视角](#4-社会心理学视角) | [临床心理学视角](#5-临床心理学视角) | [人格心理学视角](#6-人格心理学视角) | [意识研究视角](#7-意识研究视角) | [积极心理学视角](#8-积极心理学视角) | [预测与应用](#9-心理学视角下的预测与应用) | [结论](#10-结论)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言心理学与量子经典二元论) | [认知心理学视角](#2-认知心理学视角) | [发展心理学视角](#3-发展心理学视角) | [社会心理学视角](#4-社会心理学视角) | [临床心理学视角](#5-临床心理学视角) | [人格心理学视角](#6-人格心理学视角) | [意识研究视角](#7-意识研究视角) | [积极心理学视角](#8-积极心理学视角) | [预测与应用](#9-心理学视角下的预测与应用) | [结论](#10-结论)  
 English: [Introduction](#1-introduction-psychology-and-quantum-classical-dualism) | [Cognitive Psychology](#2-cognitive-psychology-perspective) | [Developmental Psychology](#3-developmental-psychology-perspective) | [Social Psychology](#4-social-psychology-perspective) | [Clinical Psychology](#5-clinical-psychology-perspective) | [Personality Psychology](#6-personality-psychology-perspective) | [Consciousness Studies](#7-consciousness-studies-perspective) | [Positive Psychology](#8-positive-psychology-perspective) | [Predictions & Applications](#9-predictions-and-applications) | [Conclusion](#10-conclusion)
 
 ## 索引
@@ -327,4 +327,4 @@ I_{\text{受损结构（问题经典世界）}} \xrightarrow{\text{治疗过程�
 
 Psychology, as the discipline studying human mental processes and behavior, has deep correspondences with Quantum-Classical Dualism at multiple levels. Human perception, cognition, memory, emotion, and consciousness processes can all be understood through the framework of Quantum-Classical Dualism. From the ambiguity of sensory inputs to the formation of clear conscious experiences, from the rich possibilities in the unconscious to the construction of ordered thinking, from individual minds to social interactions, psychological phenomena exhibit characteristics of quantum-classical duality. This paper will explore the correspondences between major branches of psychology and Quantum-Classical Dualism, demonstrating how this theoretical framework can provide new perspectives and explanatory tools for psychological research.
 
-[English content continues with detailed sections corresponding to the Chinese version...]
+[English content continues with detailed sections corresponding to the Chinese version...] 

@@ -188,7 +188,7 @@ Mother Teresa's Missionaries of Charity established 610 missions in more than 13
 
 ## 经典引言 | Classic Quotes
 
-> "我们无法做大事，只能用大爱做小事。"
+> "我们无法做大事，只能用大爱做小事。" 
 >
 > "We cannot do great things, only small things with great love."
 
@@ -198,4 +198,4 @@ Mother Teresa's Missionaries of Charity established 610 missions in more than 13
 
 > "世界上最贫穷的人是没有爱的人。"
 >
-> "The most terrible poverty is loneliness and the feeling of being unloved."
+> "The most terrible poverty is loneliness and the feeling of being unloved." 

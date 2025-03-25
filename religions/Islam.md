@@ -1,9 +1,9 @@
 # 伊斯兰教在量子经典二元论下的解释 (Islam Explained Through Quantum-Classical Dualism)
 
-**导航 | Navigation**
-[中文版](#伊斯兰教概述-islam-overview) | [English Version](#伊斯兰教概述-islam-overview)
-**章节链接 | Section Links**
-中文：[伊斯兰教概述](#伊斯兰教概述-islam-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [真主与量子域关系](#1-真主安拉与量子域经典域的关系-allah-and-the-relationship-with-quantumclassical-domains) | [认主独一与统一性](#2-认主独一tawhid与量子域的统一性-oneness-of-god-and-unity-of-quantum-domain)
+**导航 | Navigation**  
+[中文版](#伊斯兰教概述-islam-overview) | [English Version](#伊斯兰教概述-islam-overview)  
+**章节链接 | Section Links**  
+中文：[伊斯兰教概述](#伊斯兰教概述-islam-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [真主与量子域关系](#1-真主安拉与量子域经典域的关系-allah-and-the-relationship-with-quantumclassical-domains) | [认主独一与统一性](#2-认主独一tawhid与量子域的统一性-oneness-of-god-and-unity-of-quantum-domain)  
 English: [Islam Overview](#伊斯兰教概述-islam-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Allah & Domain Relationship](#1-真主安拉与量子域经典域的关系-allah-and-the-relationship-with-quantumclassical-domains) | [Tawhid & Unity](#2-认主独一tawhid与量子域的统一性-oneness-of-god-and-unity-of-quantum-domain)
 
 ## 伊斯兰教概述 (Islam Overview)
@@ -110,4 +110,4 @@ $$
 
 伊斯兰教的核心信仰与实践与量子经典二元论框架展现出惊人的契合性。从认主独一到五大功修，从前定到末日审判，从《古兰经》到吉哈德，都能在量子经典二元论中找到系统化、数学化的解释。这种对应不仅彰显了伊斯兰教思想的深刻性，也印证了量子经典二元论作为统一理论框架的普适性。
 
-Islam's core beliefs and practices demonstrate remarkable coherence with the Quantum-Classical Dualism framework. From Tawhid to the Five Pillars, from divine decree to the Day of Judgment, from the Quran to Jihad, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This correspondence not only highlights the profundity of Islamic thought but also confirms the universality of Quantum-Classical Dualism as a unified theoretical framework.
+Islam's core beliefs and practices demonstrate remarkable coherence with the Quantum-Classical Dualism framework. From Tawhid to the Five Pillars, from divine decree to the Day of Judgment, from the Quran to Jihad, all can find systematic and mathematical explanations within Quantum-Classical Dualism. This correspondence not only highlights the profundity of Islamic thought but also confirms the universality of Quantum-Classical Dualism as a unified theoretical framework. 

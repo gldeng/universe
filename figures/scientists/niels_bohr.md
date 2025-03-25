@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1885年-1962年 (1885-1962)
-**国籍 | Nationality**: 丹麦 (Denmark)
-**主要领域 | Main Fields**: 物理学、量子力学、原子物理学、哲学 (Physics, Quantum Mechanics, Atomic Physics, Philosophy)
+**生卒年份 | Lifespan**: 1885年-1962年 (1885-1962)  
+**国籍 | Nationality**: 丹麦 (Denmark)  
+**主要领域 | Main Fields**: 物理学、量子力学、原子物理学、哲学 (Physics, Quantum Mechanics, Atomic Physics, Philosophy)  
 **代表作品 | Representative Works**: 《原子结构》、《量子理论中的因果性和互补性》、《关于原子物理学中认识论问题的讨论》、《原子与人类知识》 (The Structure of Atoms, Causality and Complementarity in Quantum Theory, Discussions on Epistemological Problems in Atomic Physics, Atomic Physics and Human Knowledge)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ Bohr emphasized the openness and dialogical nature of scientific cognition, oppo
 - "The opposite of a correct statement is a false statement. But the opposite of a profound truth may well be another profound truth."
 - "Prediction is very difficult, especially if it's about the future."
 - "Every great and deep physical theory teaches us humility."
-- "Physics is not about how the world is, but about what we can say about the world."
+- "Physics is not about how the world is, but about what we can say about the world." 

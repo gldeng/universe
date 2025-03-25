@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1955年-2011年 (1955-2011)
-**国籍 | Nationality**: 美国 (United States)
-**主要领域 | Main Fields**: 企业家、创新者、科技产业 (Entrepreneur, Innovator, Technology Industry)
+**生卒年份 | Lifespan**: 1955年-2011年 (1955-2011)  
+**国籍 | Nationality**: 美国 (United States)  
+**主要领域 | Main Fields**: 企业家、创新者、科技产业 (Entrepreneur, Innovator, Technology Industry)  
 **代表作品 | Representative Works**: 苹果公司、麦金塔电脑、iPod、iPhone、iPad、皮克斯动画工作室 (Apple Inc., Macintosh Computer, iPod, iPhone, iPad, Pixar Animation Studios)
 
 ## 核心思想 | Core Ideas
@@ -217,4 +217,4 @@ He rejected "good enough" standards, insisting on the highest quality classicali
 - "Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple."
 - "We're here to put a dent in the universe. Otherwise why else even be here?"
 - "Your time is limited, so don't waste it living someone else's life."
-- "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become."
+- "Have the courage to follow your heart and intuition. They somehow already know what you truly want to become." 

@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[简介](#简介--introduction) | [核心应用原理](#核心应用原理--core-application-principles) | [目录](#目录--contents) | [数学应用](#数学应用--mathematical-applications) | [观察者理论应用](#观察者理论应用--observer-theory-applications) | [关系应用](#关系应用--relationship-applications)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [核心应用原理](#核心应用原理--core-application-principles) | [目录](#目录--contents) | [数学应用](#数学应用--mathematical-applications) | [观察者理论应用](#观察者理论应用--observer-theory-applications) | [关系应用](#关系应用--relationship-applications)  
 English: [Introduction](#简介--introduction) | [Core Principles](#核心应用原理--core-application-principles) | [Contents](#目录--contents) | [Mathematical Applications](#数学应用--mathematical-applications) | [Observer Theory](#观察者理论应用--observer-theory-applications) | [Relationship Applications](#关系应用--relationship-applications)
 
 ## 简介 | Introduction
@@ -20,16 +20,12 @@ This directory contains various application scenarios and practical use cases of
 1. **观察者（黑洞）经典化**：观察者作为黑洞，通过经典化过程将量子域信息转换为经典知识与熵，消耗经典能量
    **Observer (Black Hole) Classicalization**: Observers as black holes convert quantum domain information into classical knowledge and entropy through the classicalization process, consuming classical energy
 
-$$
-|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}
-$$
+   $$|\psi\rangle_{\text{宇宙}} \xrightarrow{\text{观察者经典化}} |\psi\rangle_{\text{经典}} + S_{\text{熵增加}}$$
 
 2. **维度提升**：通过增加经典知识、降低熵，提升观察者维度
    **Dimension Elevation**: Elevating observer dimension by increasing classical knowledge and reducing entropy
 
-$$
-\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}
-$$
+   $$\text{观察者维度}\propto\frac{I_{\text{经典知识}}}{S_{\text{经典熵}}}$$
 
 3. **有效量子纠缠**：建立能增加经典知识、降低熵的关系和连接
    **Effective Quantum Entanglement**: Establishing relationships and connections that increase classical knowledge and reduce entropy
@@ -151,4 +147,4 @@ All application theories follow these principles:
 2. **Bilingual Expression** - Providing explanations in both Chinese and English, ensuring global accessibility
 3. **Mathematical Formalization** - Using mathematical formulas to precisely express theoretical relationships
 4. **Practical Guidance** - Providing theory-based practical application guidelines
-5. **Open Development** - Welcoming community contributions and theoretical extensions
+5. **Open Development** - Welcoming community contributions and theoretical extensions 

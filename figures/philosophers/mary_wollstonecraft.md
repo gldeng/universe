@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1759年4月27日 - 1797年9月10日
-**国籍 (Nationality)**: 英国 (British)
-**领域 (Fields)**: 哲学、女权主义、政治理论、教育理论、文学
+**生平 (Life Span)**: 1759年4月27日 - 1797年9月10日  
+**国籍 (Nationality)**: 英国 (British)  
+**领域 (Fields)**: 哲学、女权主义、政治理论、教育理论、文学  
 **代表作品 (Representative Works)**: 《女权辩护》、《人权辩护》、《玛丽与感伤主义者的冤屈》、《女性教育观》
 
 ## 核心思想 (Core Ideas)
@@ -110,21 +110,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我不希望女性拥有凌驾于男性的权力，而是拥有凌驾于自己的权力。"
->
+> 
 > "I do not wish women to have power over men; but over themselves."
 
 > "理解总是理性的收获，但知识若不是由思考转化而来，就只能是空洞的记忆。"
->
+> 
 > "The mind will ever be unstable that has only prejudices to rest on, and the current will run with destructive fury when there are no barriers to break its force."
 
 > "若想让美德盛行，女人必须享有与男人相同的公民权利，她们必须尊重自己，这只能通过对自身力量的有用运用才能实现。"
->
+> 
 > "It is vain to expect virtue from women till they are in some degree independent of men; nay, it is vain to expect that strength of natural affection which would make them good wives and mothers."
 
 > "如果婚姻是友谊的基础，那么必须存在某种思想平等，相互尊重是友谊必不可少的保障。"
->
+> 
 > "If marriage be the cement of society, the society is bound to give its children a proper education, that they may be fit to perform their duty to the state."
 
 > "若不先建立某种公平的美德标准，美丽、弱势和不完善的被造物就将永远成为爱的对象，不曾被尊重；而且直到男性的观念有所提升，女性也将继续背负情感而非理性存在的烙印。"
->
-> "Let not men then in the pride of power, use the same arguments that tyrannical kings and venal ministers have used, and fallaciously assert that woman ought to be subjected because she has always been so."
+> 
+> "Let not men then in the pride of power, use the same arguments that tyrannical kings and venal ministers have used, and fallaciously assert that woman ought to be subjected because she has always been so." 

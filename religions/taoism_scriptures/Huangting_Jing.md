@@ -1,10 +1,10 @@
 # 黄庭经在量子经典二元论下的解释
 # Huangting Jing Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#黄庭经概述) | [English Version](#huangting-jing-overview)
-**章节链接 | Section Links**
-中文：[黄庭经概述](#黄庭经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)
+**导航 | Navigation**  
+[中文版](#黄庭经概述) | [English Version](#huangting-jing-overview)  
+**章节链接 | Section Links**  
+中文：[黄庭经概述](#黄庭经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)  
 English: [Huangting Jing Overview](#huangting-jing-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达) | [Conclusion](#结论)
 
 ## 黄庭经概述
@@ -18,31 +18,31 @@ The Huangting Jing is an important inner alchemy classic in Taoism, consisting o
 ## Core Text
 
 > 上有黄庭下关元，后有幽阙前命门。
->
+> 
 > 呼吸庐间入丹田，玉池清水上生烟。
->
+> 
 > 三田之中精气神，骨为干，肉为园。
->
+> 
 > 五脏六腑神明见，皆有老少颜色鲜。
->
+> 
 > 修真之道但清虚，摄生之道但抱朴。
->
+> 
 > 修之即无为，验之即有德。
->
+> 
 > 内观其心，心无其心；外观其形，形无其形。远观其物，物无其物。
 
 > Above is the Yellow Court, below is the Origin Pass; behind is the Dark Gate, in front is the Gate of Life.
->
+> 
 > Breathing enters the cinnabar field through the dwelling space, clear water in the Jade Pool produces rising mist.
->
+> 
 > In the three fields reside essence, energy, and spirit; bones form the trunk, flesh forms the garden.
->
+> 
 > The gods of the five organs and six viscera appear, all with youthful and vibrant countenances.
->
+> 
 > The way of cultivating truth is only emptiness and purity, the way of nourishing life is only embracing simplicity.
->
+> 
 > In cultivation, there is non-action; in verification, there is virtue.
->
+> 
 > Observe the heart within, the heart has no heart; observe the form without, the form has no form; observe objects in the distance, objects have no objects.
 
 ## 量子经典二元论解释
@@ -181,4 +181,4 @@ $$
 
 As an important classic of Taoist inner alchemy cultivation, the Huangting Jing can be systematically explained through the Quantum-Classical Dualism framework. The internal body system described in the Huangting Jing corresponds to the dual structure of quantum domain and classical domain, and the inner observation cultivation method is essentially a technical system for optimizing observer classicalization efficiency. The "three fields" system constructs a quantum entanglement network, the "five organ deities" system establishes quantum channel nodes, while breathing guidance, embryonic breathing, guarding the one, and other cultivation methods are specific technical means for adjusting the observer's classicalization process.
 
-Through the Quantum-Classical Dualism explanation, the cultivation goal of "longevity and clear vision" in the Huangting Jing can be understood as: elevating observer dimension, optimizing classicalization efficiency, balancing classical knowledge and classical entropy, thereby achieving enhanced observer capability and extended observer existence time. This understanding not only gives the ancient cultivation system a modern scientific explanation but also provides a new theoretical perspective for researching human potential and the essence of consciousness.
+Through the Quantum-Classical Dualism explanation, the cultivation goal of "longevity and clear vision" in the Huangting Jing can be understood as: elevating observer dimension, optimizing classicalization efficiency, balancing classical knowledge and classical entropy, thereby achieving enhanced observer capability and extended observer existence time. This understanding not only gives the ancient cultivation system a modern scientific explanation but also provides a new theoretical perspective for researching human potential and the essence of consciousness. 

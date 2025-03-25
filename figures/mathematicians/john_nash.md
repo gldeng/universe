@@ -94,9 +94,9 @@ Nash's work fundamentally transformed strategic analysis methods in economics, p
 
 ## 经典引言 | Classic Quotes
 > "理性的形式行为不能依赖于一个人做出的完全合理的决定，因为一个人不可能思考那么多。"
->
+> 
 > "The rational behavioral form cannot depend on a person making completely rational decisions because a person cannot think that clearly."
 
 > "我的思路始终是，要提出对现实世界中实际问题有用的想法。"
->
-> "My thinking has always been that of coming up with ideas that would be useful for studying actual problems in the real world."
+> 
+> "My thinking has always been that of coming up with ideas that would be useful for studying actual problems in the real world." 

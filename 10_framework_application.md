@@ -53,16 +53,12 @@
 
 1. **确定核心参数**：确定问题相关的$`(k_i)`$、$`(w_i)`$、$`I_i`$、$`S_i`$等参数
 2. **建立计算模型**：构建问题相关的维度计算模型，如单经典世界维度计算：
-
-$$
-\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}
-$$
-
+   
+   $$\text{维度}_i=k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}$$
+   
    和整体观察者维度计算：
-
-$$
-\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1
-$$
+   
+   $$\text{整体维度}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{经典知识}_i}}{S_{\text{经典熵}_i}}\right),\quad\sum_i w_i=1$$
 
 3. **进行参数估计**：基于实证数据估计模型参数
 4. **预测行为表现**：基于参数预测系统行为
@@ -179,9 +175,7 @@ $$
 3. **脑机接口优化**：优化脑机接口的信息编解码机制
 4. **量子通信协议**：设计基于虫洞通信机制的量子通信协议，考虑能量消耗守恒：
 
-$$
-E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}
-$$
+   $$E_{\text{发送端能量消耗}} + E_{\text{接收端能量消耗}} = I_{\text{知识传输}} + \Delta S_{\text{总熵变化}}$$
 
 5. **虚拟经典世界构建**：设计多层次虚拟经典世界架构
 
@@ -379,16 +373,12 @@ Applying theoretical formulas to quantitative analysis of specific problems:
 
 1. **Determine Core Parameters**: Determine problem-related parameters such as $`(k_i)`$, $`(w_i)`$, $`I_i`$, $`S_i`$
 2. **Establish Calculation Models**: Construct dimension calculation models related to the problem, such as single classical world dimension calculation:
-
-$$
-\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
-$$
-
+   
+   $$\text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}$$
+   
    and overall observer dimension calculation:
-
-$$
-\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
-$$
+   
+   $$\text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1$$
 
 3. **Conduct Parameter Estimation**: Estimate model parameters based on empirical data
 4. **Predict Behavioral Performance**: Predict system behavior based on parameters
@@ -505,9 +495,7 @@ Applications of Quantum-Classical Dualism in information technology:
 3. **Brain-Machine Interface Optimization**: Optimizing information encoding and decoding mechanisms of brain-machine interfaces
 4. **Quantum Communication Protocol**: Designing quantum communication protocols based on wormhole communication mechanism, considering energy consumption conservation:
 
-$$
-E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}
-$$
+   $$E_{\text{Sending End Energy Consumption}} + E_{\text{Receiving End Energy Consumption}} = I_{\text{Knowledge Transmission}} + \Delta S_{\text{Total Entropy Change}}$$
 
 5. **Virtual Classical World Construction**: Designing multi-level virtual classical world architectures
 
@@ -653,4 +641,4 @@ Expanding social practice applications:
 2. **Education System Reform**: Optimizing education systems based on theory
 3. **Health Promotion Application**: Applied to physical and mental health promotion
 4. **Social Governance Innovation**: Applying theoretical perspectives in social governance
-5. **Human Development Integration**: Integrating into overall human development frameworks
+5. **Human Development Integration**: Integrating into overall human development frameworks 

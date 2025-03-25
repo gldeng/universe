@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1469年5月3日 - 1527年6月21日
-**国籍 (Nationality)**: 意大利 (Italian)
-**领域 (Fields)**: 政治理论、外交、历史
+**生平 (Life Span)**: 1469年5月3日 - 1527年6月21日  
+**国籍 (Nationality)**: 意大利 (Italian)  
+**领域 (Fields)**: 政治理论、外交、历史  
 **代表作品 (Representative Works)**: 《君主论》、《论李维》、《佛罗伦萨史》
 
 ## 核心思想 (Core Ideas)
@@ -83,14 +83,14 @@ $$
 
 ## 经典引言 | Classic Quotes
 
-> "在所有人的事务中，特别是君主的事务中（因为他们地位至高无上），目的是决定手段的。"
->
+> "在所有人的事务中，特别是君主的事务中（因为他们地位至高无上），目的是决定手段的。" 
+> 
 > "In the actions of all men, and especially of princes, where there is no court of appeal, the end is what counts."
 
 > "人们应当要么被抚慰，要么被消灭；因为对于轻微的损害他们能够进行报复，对于严重的损害则不能。"
->
+> 
 > "Men ought either to be indulged or utterly destroyed, for if you merely offend them they take vengeance, but if you injure them greatly they are unable to retaliate."
 
 > "一个聪明的统治者不能也不应当遵守诺言...但是，他必须是一个伪装大师。"
->
-> "A prudent ruler ought not to keep faith when by so doing it would be against his interest...but it is necessary to be a great feigner and dissembler."
+> 
+> "A prudent ruler ought not to keep faith when by so doing it would be against his interest...but it is necessary to be a great feigner and dissembler." 

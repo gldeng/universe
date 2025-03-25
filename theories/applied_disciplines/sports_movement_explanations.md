@@ -27,7 +27,7 @@ $$
    - 运动学习是建立新的身体量子状态经典化模式的过程
    - 初学阶段经典熵高（动作不确定、不稳定），熟练阶段经典熵低（动作精确、稳定）
    - 可表达为：
-
+   
 $$
 \text{技能水平} \propto \frac{\text{经典化精确度}}{\text{经典熵}}
 $$
@@ -122,7 +122,7 @@ $$
    - Motor learning is the process of establishing new classicalization patterns for bodily quantum states
    - Initial learning stage has high classical entropy (uncertain, unstable movements), while proficient stage has low classical entropy (precise, stable movements)
    - Can be expressed as:
-
+   
 $$
 \text{Skill Level} \propto \frac{\text{Classicalization Precision}}{\text{Classical Entropy}}
 $$
@@ -188,4 +188,4 @@ From the Quantum-Classical Dualism perspective, health can be understood as the 
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Sports and movement are a special application area of Higher-Dimensional Information Classicalization, focusing on classicalizing self and environmental quantum information through physical activity. Unlike art, music, and religion, sports primarily focus on the observer's classicalized control of their own bodily quantum states, rather than the classicalization of external higher-dimensional information.
+Sports and movement are a special application area of Higher-Dimensional Information Classicalization, focusing on classicalizing self and environmental quantum information through physical activity. Unlike art, music, and religion, sports primarily focus on the observer's classicalized control of their own bodily quantum states, rather than the classicalization of external higher-dimensional information. 

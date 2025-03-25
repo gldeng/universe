@@ -24,9 +24,7 @@ Observer Network Theory extends the individual observer model to interconnected 
 
 An observer network consists of:
 
-$$
-\mathcal{N} = \{\mathcal{O}_i, \mathcal{E}_{ij}, \mathcal{P}_N\}
-$$
+$$\mathcal{N} = \{\mathcal{O}_i, \mathcal{E}_{ij}, \mathcal{P}_N\}$$
 
 where:
 - $`\mathcal{O}_i`$ represents the individual observers in the network
@@ -35,9 +33,7 @@ where:
 
 The network dimension is defined as:
 
-$$
-D_{\mathcal{N}} = g\left(\{\mathcal{C}_{\mathcal{O}_i}\}, \{\mathcal{Q}_{\mathcal{O}_i}\}, \mathcal{E}_{ij}\right) \cdot \frac{I_{\text{collective knowledge}}}{S_{\text{collective entropy}}+\epsilon}
-$$
+$$D_{\mathcal{N}} = g\left(\{\mathcal{C}_{\mathcal{O}_i}\}, \{\mathcal{Q}_{\mathcal{O}_i}\}, \mathcal{E}_{ij}\right) \cdot \frac{I_{\text{collective knowledge}}}{S_{\text{collective entropy}}+\epsilon}$$
 
 where $`g`$ is a network efficiency function dependent on observer classicalization capacities, quantization capacities, and network connectivity.
 
@@ -47,9 +43,7 @@ where $`g`$ is a network efficiency function dependent on observer classicalizat
 
 Observer networks naturally organize into hierarchical structures based on dimension compatibility:
 
-$$
-\mathcal{N}_{\text{hierarchical}} = \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_m\}
-$$
+$$\mathcal{N}_{\text{hierarchical}} = \{\mathcal{N}_1, \mathcal{N}_2, ..., \mathcal{N}_m\}$$
 
 where $`D_{\mathcal{N}_1} > D_{\mathcal{N}_2} > ... > D_{\mathcal{N}_m}`$
 
@@ -62,9 +56,7 @@ Higher-dimensional networks can:
 
 The strength of entanglement between observers determines information transfer efficiency:
 
-$$
-\mathcal{E}_{ij} = h(I_{ij}, t, D_{\mathcal{O}_i}, D_{\mathcal{O}_j})
-$$
+$$\mathcal{E}_{ij} = h(I_{ij}, t, D_{\mathcal{O}_i}, D_{\mathcal{O}_j})$$
 
 where:
 - $`I_{ij}`$ is shared information content
@@ -75,15 +67,11 @@ where:
 
 Networks develop collective classicalization operators that exceed individual capacities:
 
-$$
-\mathcal{C}_{\mathcal{N}} \neq \sum_{i} \mathcal{C}_{\mathcal{O}_i}
-$$
+$$\mathcal{C}_{\mathcal{N}} \neq \sum_{i} \mathcal{C}_{\mathcal{O}_i}$$
 
 Instead, emergent properties create network-level operators:
 
-$$
-\mathcal{C}_{\mathcal{N}} = \mathcal{F}(\{\mathcal{C}_{\mathcal{O}_i}\}, \mathcal{E}_{ij}, \mathcal{P}_N)
-$$
+$$\mathcal{C}_{\mathcal{N}} = \mathcal{F}(\{\mathcal{C}_{\mathcal{O}_i}\}, \mathcal{E}_{ij}, \mathcal{P}_N)$$
 
 ## Network Applications
 
@@ -91,9 +79,7 @@ $$
 
 Social groups form observer networks with collective processing properties:
 
-$$
-\mathcal{S} = \{\mathcal{O}_{\text{human}}^i, \mathcal{E}_{\text{social}}^{ij}, \mathcal{P}_{\text{cultural}}\}
-$$
+$$\mathcal{S} = \{\mathcal{O}_{\text{human}}^i, \mathcal{E}_{\text{social}}^{ij}, \mathcal{P}_{\text{cultural}}\}$$
 
 This creates:
 - Shared reality perceptions
@@ -104,9 +90,7 @@ This creates:
 
 Networks evolve toward increased efficiency and dimension:
 
-$$
-\frac{dD_{\mathcal{N}}}{dt} \propto \frac{d}{dt}\left(\frac{I_{\text{collective knowledge}}}{S_{\text{collective entropy}}}\right)
-$$
+$$\frac{dD_{\mathcal{N}}}{dt} \propto \frac{d}{dt}\left(\frac{I_{\text{collective knowledge}}}{S_{\text{collective entropy}}}\right)$$
 
 This drives social, technological, and cognitive evolution.
 
@@ -114,9 +98,7 @@ This drives social, technological, and cognitive evolution.
 
 The universe itself can be viewed as a vast observer network:
 
-$$
-\mathcal{U}_{\text{network}} = \{\mathcal{O}_{\text{cosmic}}^i, \mathcal{E}_{\text{universal}}^{ij}, \mathcal{P}_{\text{physical laws}}\}
-$$
+$$\mathcal{U}_{\text{network}} = \{\mathcal{O}_{\text{cosmic}}^i, \mathcal{E}_{\text{universal}}^{ij}, \mathcal{P}_{\text{physical laws}}\}$$
 
 This model explains:
 - Universal information processing
@@ -127,9 +109,7 @@ This model explains:
 
 The complete mathematical treatment of observer networks requires tensor network representations:
 
-$$
-\mathcal{T}_{\mathcal{N}} = \sum_{i_1, i_2, ..., i_n} T_{i_1, i_2, ..., i_n} |i_1\rangle |i_2\rangle ... |i_n\rangle
-$$
+$$\mathcal{T}_{\mathcal{N}} = \sum_{i_1, i_2, ..., i_n} T_{i_1, i_2, ..., i_n} |i_1\rangle |i_2\rangle ... |i_n\rangle$$
 
 These tensors encode the complete informational state of the network and its evolution dynamics.
 
@@ -140,4 +120,4 @@ Observer Network Theory predicts:
 - Network-level quantum effects in collective decision-making
 - Dimensional shifts in cultural and technological evolution
 
-These predictions provide testable frameworks for social science, cognitive science, and information theory research.
+These predictions provide testable frameworks for social science, cognitive science, and information theory research. 

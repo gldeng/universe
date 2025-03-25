@@ -1,11 +1,11 @@
 # 相对论解释（量子经典二元论 9.4）
 # Relativity Explanation (Quantum-Classical Dualism 9.4)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 
-**章节链接 | Section Links**
-中文：[狭义相对论](#狭义相对论) | [广义相对论](#广义相对论) | [时空弯曲](#时空弯曲) | [引力波](#引力波)
+**章节链接 | Section Links**  
+中文：[狭义相对论](#狭义相对论) | [广义相对论](#广义相对论) | [时空弯曲](#时空弯曲) | [引力波](#引力波)  
 English: [Special Relativity](#special-relativity) | [General Relativity](#general-relativity) | [Spacetime Curvature](#spacetime-curvature) | [Gravitational Waves](#gravitational-waves)
 
 ## 中文版
@@ -132,4 +132,4 @@ $$
 
 ## English Version
 
-[English content will be similar to Chinese content but in English...]
+[English content will be similar to Chinese content but in English...] 

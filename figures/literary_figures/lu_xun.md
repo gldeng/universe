@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1881年9月25日 - 1936年10月19日
-**国籍 (Nationality)**: 中国 (Chinese)
-**领域 (Fields)**: 文学、思想批判、社会评论、文化变革
+**生平 (Life Span)**: 1881年9月25日 - 1936年10月19日  
+**国籍 (Nationality)**: 中国 (Chinese)  
+**领域 (Fields)**: 文学、思想批判、社会评论、文化变革  
 **代表作品 (Representative Works)**: 《狂人日记》、《阿Q正传》、《呐喊》、《彷徨》、《野草》、《朝花夕拾》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "其实地上本没有路，走的人多了，也便成了路。"
->
+> 
 > "In fact, the earth had no roads to begin with, but when many people pass one way, a road is made."
 
 > "愿中国青年都摆脱冷气，只是向上走，不必听自暴自弃者流的话。能做事的做事，能发声的发声。有一分热，发一分光。就令萤火一般，也可以在黑暗里发一点光，不必等候炬火。"
->
+> 
 > "I hope that Chinese youth will break free from apathy and just move forward, without listening to the words of those who abandon themselves. Those who can act, act. Those who can speak, speak. For every bit of heat, emit a bit of light. Even like fireflies, one can emit a little light in darkness; there is no need to wait for the torch."
 
 > "哀其不幸，怒其不争。"
->
+> 
 > "Lament their misfortune, rage at their unwillingness to fight."
 
 > "横眉冷对千夫指，俯首甘为孺子牛。"
->
+> 
 > "With a cold eye I defy a thousand pointing fingers; with a bowed head I willingly become an ox for children."
 
 > "我向来是不惮以最坏的恶意来推测中国人的，然而我还不料，也不信竟会下劣凶残到这地步。"
->
-> "I have always been willing to presume the worst malice in the Chinese, but I did not expect, nor do I believe, that they would be this base and cruel."
+> 
+> "I have always been willing to presume the worst malice in the Chinese, but I did not expect, nor do I believe, that they would be this base and cruel." 

@@ -13,13 +13,9 @@
 1. **软件标准化的量子-经典转换**
    - 软件代码作为量子域的可能性空间（混沌）
    - 标准化接口作为经典域的确定性实现
-
+   
 2. **计算机普及的观察者效应**
-
-$$
-\mathcal{C}_{\text{PC}} = \sum_{i} \alpha_i |\text{技术}_i\rangle \xrightarrow{\text{标准化}} |\text{应用}\rangle
-$$
-
+   $$\mathcal{C}_{\text{PC}} = \sum_{i} \alpha_i |\text{技术}_i\rangle \xrightarrow{\text{标准化}} |\text{应用}\rangle$$
    - 技术创新代表量子叠加态的可能性
    - 市场应用表示向特定经典态的坍缩
 
@@ -31,9 +27,7 @@ $$
 
 在量子经典二元论框架下，盖茨的创新实践可表达为：
 
-$$
-\mathcal{M}_{\text{Gates}}: \Omega_Q^{\text{技术}} \xrightarrow{\text{商业化}} \Omega_C^{\text{应用}}
-$$
+$$\mathcal{M}_{\text{Gates}}: \Omega_Q^{\text{技术}} \xrightarrow{\text{商业化}} \Omega_C^{\text{应用}}$$
 
 其中$`\Omega_Q^{\text{技术}}`$代表技术创新的量子可能性空间，$`\Omega_C^{\text{应用}}`$代表通过商业化实现的经典应用状态。
 
@@ -54,11 +48,7 @@ Bill Gates (1955-), as the co-founder of Microsoft, his innovative practices dem
    - Standardized interfaces as classical domain deterministic implementation
 
 2. **Observer Effect in Computer Popularization**
-
-$$
-\mathcal{C}_{\text{PC}} = \sum_{i} \alpha_i |\text{technology}_i\rangle \xrightarrow{\text{standardization}} |\text{application}\rangle
-$$
-
+   $$\mathcal{C}_{\text{PC}} = \sum_{i} \alpha_i |\text{technology}_i\rangle \xrightarrow{\text{standardization}} |\text{application}\rangle$$
    - Technical innovation represents quantum superposition possibilities
    - Market application indicates collapse to specific classical state
 
@@ -70,9 +60,7 @@ $$
 
 Within quantum-classical dualism framework, Gates' innovative practice can be expressed as:
 
-$$
-\mathcal{M}_{\text{Gates}}: \Omega_Q^{\text{technology}} \xrightarrow{\text{commercialization}} \Omega_C^{\text{application}}
-$$
+$$\mathcal{M}_{\text{Gates}}: \Omega_Q^{\text{technology}} \xrightarrow{\text{commercialization}} \Omega_C^{\text{application}}$$
 
 Where $`\Omega_Q^{\text{technology}}`$ represents the quantum possibility space of technological innovation, and $`\Omega_C^{\text{application}}`$ represents the classical application state achieved through commercialization.
 

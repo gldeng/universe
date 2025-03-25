@@ -27,7 +27,7 @@ $$
    - 空间体验是观察者在特定物理结构中经典化量子信息的结果
    - 体验质量取决于空间结构与观察者经典化倾向的匹配度
    - 可表达为：
-
+   
 $$
 \text{空间体验质量} \propto \text{空间结构经典化效率} \times \text{观察者经典化接受度}
 $$
@@ -125,7 +125,7 @@ $$
    - Spatial experience is the result of observers classicalizing quantum information within specific physical structures
    - Experience quality depends on the match between spatial structure and observer's classicalization tendencies
    - Can be expressed as:
-
+   
 $$
 \text{Spatial Experience Quality} \propto \text{Spatial Structure Classicalization Efficiency} \times \text{Observer Classicalization Receptivity}
 $$
@@ -194,4 +194,4 @@ The evolution of architectural technology can be understood as the development o
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Architecture and spatial design are a special application area of Higher-Dimensional Information Classicalization, classicalizing quantum information through physical spatial structures and creating environments that influence the classicalization experiences of other observers. Architecture may be one of the earliest physically-based higher-dimensional information classicalization technologies developed by humans, through which humans not only classicalize their own experiences but also create classicalization conditions for other observers.
+Architecture and spatial design are a special application area of Higher-Dimensional Information Classicalization, classicalizing quantum information through physical spatial structures and creating environments that influence the classicalization experiences of other observers. Architecture may be one of the earliest physically-based higher-dimensional information classicalization technologies developed by humans, through which humans not only classicalize their own experiences but also create classicalization conditions for other observers. 

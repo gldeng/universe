@@ -132,4 +132,4 @@ The self-cultivation methods provided in "The Great Learning" have practical Qua
 1. **Systematic Observation Method**: "Investigating things" provides a systematic information classicalization method
 2. **Progressive Elevation Method**: Achieving efficient dimension growth through progressive elevation
 3. **Unity of Knowledge and Action**: Emphasizing the unity of knowledge and action, corresponding to the balance between classical knowledge and classical entropy
-4. **From Inner to Outer**: Classicalization diffusion pattern from individual to collective
+4. **From Inner to Outer**: Classicalization diffusion pattern from individual to collective 

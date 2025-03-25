@@ -23,9 +23,7 @@ Quantum-Classical Dualism Innovation Theory applies the quantum-classical dualis
 
 The innovation state $`\mathcal{I}`$ can be formally defined as:
 
-$$
-\mathcal{I} = (\mathcal{I}_Q, \mathcal{I}_C, \mathcal{I}_{QC}, \mathcal{A})
-$$
+$$\mathcal{I} = (\mathcal{I}_Q, \mathcal{I}_C, \mathcal{I}_{QC}, \mathcal{A})$$
 
 Where:
 - $`\mathcal{I}_Q`$ is the quantum domain component of innovation (possibility space, intuition, non-linear associations)
@@ -35,39 +33,31 @@ Where:
 
 ### Core Innovation Axioms
 
-**Axiom 1: Innovation Duality**
+**Axiom 1: Innovation Duality**  
 Complete innovation processes encompass both quantum and classical essential processes:
 
-$$
-\mathcal{I} = \mathcal{I}_Q \diamond \mathcal{I}_C
-$$
+$$\mathcal{I} = \mathcal{I}_Q \diamond \mathcal{I}_C$$
 
 Where $`\diamond`$ represents the quantum-classical innovation connection operation.
 
-**Axiom 2: Innovation Superposition States**
+**Axiom 2: Innovation Superposition States**  
 Innovation concepts exist in superposition states of multiple possibilities before concretization:
 
-$$
-|\Psi_I\rangle = \sum_i \alpha_i |i_i\rangle
-$$
+$$|\Psi_I\rangle = \sum_i \alpha_i |i_i\rangle$$
 
 Where $`|i_i\rangle`$ is the innovation concept basis vector, and $`\alpha_i`$ is the complex amplitude.
 
-**Axiom 3: Innovation Classicalization Principle**
+**Axiom 3: Innovation Classicalization Principle**  
 Innovation implementation is the process of classicalizing innovation superposition states into concrete solutions:
 
-$$
-\mathcal{M}_I: |\Psi_I\rangle \rightarrow |s_k\rangle
-$$
+$$\mathcal{M}_I: |\Psi_I\rangle \rightarrow |s_k\rangle$$
 
 Where $`\mathcal{M}_I`$ is the innovation implementation operator, and $`|s_k\rangle`$ is the concrete solution state.
 
-**Axiom 4: Innovation Emergence Principle**
+**Axiom 4: Innovation Emergence Principle**  
 Innovation value emerges from interaction processes at the quantum-classical interface, rather than simply existing in a single domain:
 
-$$
-V(\mathcal{I}) > V(\mathcal{I}_Q) + V(\mathcal{I}_C)
-$$
+$$V(\mathcal{I}) > V(\mathcal{I}_Q) + V(\mathcal{I}_C)$$
 
 Where $`V`$ is the value functional.
 
@@ -77,15 +67,11 @@ Where $`V`$ is the value functional.
 
 The quantum dynamics equation for innovation:
 
-$$
-i\hbar\frac{\partial}{\partial t}|\Psi_I(t)\rangle = \hat{H}_I|\Psi_I(t)\rangle + \hat{D}_I(\rho_I)
-$$
+$$i\hbar\frac{\partial}{\partial t}|\Psi_I(t)\rangle = \hat{H}_I|\Psi_I(t)\rangle + \hat{D}_I(\rho_I)$$
 
 The innovation Hamiltonian contains multiple components:
 
-$$
-\hat{H}_I = \hat{H}_{knowledge} + \hat{H}_{creative} + \hat{H}_{context} + \hat{H}_{int}
-$$
+$$\hat{H}_I = \hat{H}_{knowledge} + \hat{H}_{creative} + \hat{H}_{context} + \hat{H}_{int}$$
 
 Where:
 - $`\hat{H}_{knowledge}`$ represents the knowledge base component
@@ -99,9 +85,7 @@ $`\hat{D}_I(\rho_I)`$ is the innovation decoherence term, representing the conve
 
 Innovative association can be described as a quantum tunneling effect, allowing non-local jumps in conceptual space:
 
-$$
-P(c_i \rightarrow c_j) \propto e^{-\frac{d(c_i,c_j)}{\xi_c}}
-$$
+$$P(c_i \rightarrow c_j) \propto e^{-\frac{d(c_i,c_j)}{\xi_c}}$$
 
 Where $`d(c_i,c_j)`$ is the conceptual distance, and $`\xi_c`$ is the characteristic length of innovative association.
 
@@ -109,9 +93,7 @@ Where $`d(c_i,c_j)`$ is the conceptual distance, and $`\xi_c`$ is the characteri
 
 Innovation intuition can be understood as holistic perception of quantum states, rather than part-by-part analysis:
 
-$$
-|\Psi_{\text{intuition}}\rangle = \frac{1}{\sqrt{N}} \sum_{j=1}^N e^{i\phi_j} |c_j\rangle
-$$
+$$|\Psi_{\text{intuition}}\rangle = \frac{1}{\sqrt{N}} \sum_{j=1}^N e^{i\phi_j} |c_j\rangle$$
 
 The phase relationships $`\phi_j`$ determine the quality of intuition. When all concept phases align, strong innovative inspiration occurs.
 
@@ -119,9 +101,7 @@ The phase relationships $`\phi_j`$ determine the quality of intuition. When all 
 
 Classical innovation structure can be represented as a problem-solution network:
 
-$$
-I_C = (P, S, R, W)
-$$
+$$I_C = (P, S, R, W)$$
 
 Where:
 - $`P`$ is the set of problems
@@ -131,9 +111,7 @@ Where:
 
 Innovation classicalization process:
 
-$$
-s = f_I(I_C, c, \mathcal{M}_I(|\Psi_I\rangle))
-$$
+$$s = f_I(I_C, c, \mathcal{M}_I(|\Psi_I\rangle))$$
 
 Where:
 - $`s`$ is the final solution
@@ -147,9 +125,7 @@ Where:
 
 Innovation interface equation:
 
-$$
-\frac{d\mathcal{I}_{QC}}{dt} = \alpha_I \nabla^2 \mathcal{I}_{QC} + \beta_I f(\mathcal{I}_Q, \mathcal{I}_C) + \gamma_I \xi(t)
-$$
+$$\frac{d\mathcal{I}_{QC}}{dt} = \alpha_I \nabla^2 \mathcal{I}_{QC} + \beta_I f(\mathcal{I}_Q, \mathcal{I}_C) + \gamma_I \xi(t)$$
 
 Where:
 - $`\alpha_I`$ is the innovation diffusion coefficient
@@ -162,17 +138,13 @@ Where:
 
 The emergent properties of innovation value arise from non-linear dynamics of quantum-classical interaction:
 
-$$
-V(\mathcal{I}) = \int_{\Omega} \phi(\mathcal{I}_Q, \mathcal{I}_C, \nabla \mathcal{I}_{QC}) d\Omega
-$$
+$$V(\mathcal{I}) = \int_{\Omega} \phi(\mathcal{I}_Q, \mathcal{I}_C, \nabla \mathcal{I}_{QC}) d\Omega$$
 
 Where $`\phi`$ is the value density functional, and $`\Omega`$ is the innovation state space.
 
 Key emergence condition:
 
-$$
-\frac{\partial^2 V}{\partial \mathcal{I}_Q \partial \mathcal{I}_C} \neq 0
-$$
+$$\frac{\partial^2 V}{\partial \mathcal{I}_Q \partial \mathcal{I}_C} \neq 0$$
 
 This indicates significant cross-coupling between quantum and classical domains.
 
@@ -180,15 +152,11 @@ This indicates significant cross-coupling between quantum and classical domains.
 
 Innovation energy is defined as the activity and potential of the innovation state:
 
-$$
-E_I = \int_{\Omega} \varepsilon(\mathcal{I}_Q, \mathcal{I}_C, \mathcal{I}_{QC}) d\Omega
-$$
+$$E_I = \int_{\Omega} \varepsilon(\mathcal{I}_Q, \mathcal{I}_C, \mathcal{I}_{QC}) d\Omega$$
 
 The flow of innovation energy between quantum and classical domains follows:
 
-$$
-\frac{dE_Q}{dt} = -\frac{dE_C}{dt} = J_{QC}
-$$
+$$\frac{dE_Q}{dt} = -\frac{dE_C}{dt} = J_{QC}$$
 
 Where $`J_{QC}`$ is the innovation energy flow, representing the rate of innovation realization from quantum possibilities to classical implementation.
 
@@ -198,9 +166,7 @@ Where $`J_{QC}`$ is the innovation energy flow, representing the rate of innovat
 
 Collective innovation can be described as multi-agent entangled innovation states:
 
-$$
-|\Psi_{\text{collective}}\rangle = \sum_{i,j,...,z} \alpha_{ij...z} |i_A\rangle \otimes |i_B\rangle \otimes ... \otimes |i_Z\rangle
-$$
+$$|\Psi_{\text{collective}}\rangle = \sum_{i,j,...,z} \alpha_{ij...z} |i_A\rangle \otimes |i_B\rangle \otimes ... \otimes |i_Z\rangle$$
 
 Where each term represents combinations of innovation states from different agents.
 
@@ -208,9 +174,7 @@ Where each term represents combinations of innovation states from different agen
 
 Entanglement between innovation agents can be quantified through mutual information:
 
-$$
-E_{AB} = S(\rho_A) + S(\rho_B) - S(\rho_{AB})
-$$
+$$E_{AB} = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
 Where $`S`$ is the von Neumann entropy, and $`\rho_A = \text{Tr}_B(|\Psi_{AB}\rangle\langle\Psi_{AB}|)`$.
 
@@ -218,23 +182,17 @@ Where $`S`$ is the von Neumann entropy, and $`\rho_A = \text{Tr}_B(|\Psi_{AB}\ra
 
 Innovation resonance occurs when innovation frequencies of multiple agents approach similarity:
 
-$$
-\omega_I^A \approx \omega_I^B \approx ... \approx \omega_I^Z
-$$
+$$\omega_I^A \approx \omega_I^B \approx ... \approx \omega_I^Z$$
 
 Innovation resonance strength:
 
-$$
-R_{\text{innovation}} = \frac{A_0}{\sqrt{\sum_{i,j} (\omega_I^i - \omega_I^j)^2}}
-$$
+$$R_{\text{innovation}} = \frac{A_0}{\sqrt{\sum_{i,j} (\omega_I^i - \omega_I^j)^2}}$$
 
 ### Innovation Information Propagation Model
 
 The propagation of innovation in social networks can be described as:
 
-$$
-\frac{d\psi_I(x,t)}{dt} = D_I \nabla^2 \psi_I(x,t) + r_I \psi_I(x,t)(1 - \psi_I(x,t)) + \eta_I(x,t)
-$$
+$$\frac{d\psi_I(x,t)}{dt} = D_I \nabla^2 \psi_I(x,t) + r_I \psi_I(x,t)(1 - \psi_I(x,t)) + \eta_I(x,t)$$
 
 Where:
 - $`\psi_I(x,t)`$ is the innovation adoption level at position $`x`$ and time $`t`$
@@ -248,9 +206,7 @@ Where:
 
 The measurement process of innovation states follows quantum measurement theory:
 
-$$
-\text{Prob}(i_k) = \langle \Psi_I|\hat{P}_{i_k}|\Psi_I\rangle = |\langle i_k|\Psi_I\rangle|^2
-$$
+$$\text{Prob}(i_k) = \langle \Psi_I|\hat{P}_{i_k}|\Psi_I\rangle = |\langle i_k|\Psi_I\rangle|^2$$
 
 Where $`\hat{P}_{i_k}`$ is the projection operator corresponding to a specific innovation outcome $`i_k`$.
 
@@ -258,9 +214,7 @@ Where $`\hat{P}_{i_k}`$ is the projection operator corresponding to a specific i
 
 The novelty $`\mathcal{N}`$ and utility $`\mathcal{U}`$ of innovation satisfy an uncertainty relation:
 
-$$
-\Delta \mathcal{N} \cdot \Delta \mathcal{U} \geq \frac{\hbar_I}{2}
-$$
+$$\Delta \mathcal{N} \cdot \Delta \mathcal{U} \geq \frac{\hbar_I}{2}$$
 
 Where $`\hbar_I`$ is the innovation uncertainty constant. This indicates that highly novel innovations often have greater uncertainty in utility, and vice versa.
 
@@ -268,9 +222,7 @@ Where $`\hbar_I`$ is the innovation uncertainty constant. This indicates that hi
 
 Innovation efficacy can be evaluated through a multidimensional framework:
 
-$$
-E(\mathcal{I}) = w_N \cdot \mathcal{N}(\mathcal{I}) + w_U \cdot \mathcal{U}(\mathcal{I}) + w_F \cdot \mathcal{F}(\mathcal{I}) + w_S \cdot \mathcal{S}(\mathcal{I}) + w_I \cdot \mathcal{I}(\mathcal{I})
-$$
+$$E(\mathcal{I}) = w_N \cdot \mathcal{N}(\mathcal{I}) + w_U \cdot \mathcal{U}(\mathcal{I}) + w_F \cdot \mathcal{F}(\mathcal{I}) + w_S \cdot \mathcal{S}(\mathcal{I}) + w_I \cdot \mathcal{I}(\mathcal{I})$$
 
 Where:
 - $`\mathcal{N}`$ is novelty
@@ -302,9 +254,7 @@ Dualism-based innovation methodologies include:
 
 Optimized innovation environments should support both quantum state and classical state transformations:
 
-$$
-E_{\text{innovation}} = \mathcal{F}(E_Q, E_C, \mathcal{I}_{QC}, \mathcal{A})
-$$
+$$E_{\text{innovation}} = \mathcal{F}(E_Q, E_C, \mathcal{I}_{QC}, \mathcal{A})$$
 
 Where:
 - $`E_Q`$ is the environmental elements supporting quantum creativity
@@ -321,9 +271,7 @@ Innovation leadership has a dual role in the dualism framework:
 
 Quantum-classical leadership balance:
 
-$$
-L_I = \alpha \cdot L_Q + (1-\alpha) \cdot L_C
-$$
+$$L_I = \alpha \cdot L_Q + (1-\alpha) \cdot L_C$$
 
 Where $`\alpha`$ dynamically adjusts with the innovation phase.
 
@@ -337,8 +285,6 @@ Quantum-classical hybrid innovation organizational structure:
 
 Optimal organizational structure satisfies:
 
-$$
-\sigma(O_Q, O_C, O_{QC}) = \max
-$$
+$$\sigma(O_Q, O_C, O_{QC}) = \max$$
 
 Where $`\sigma`$ is an efficiency function measuring the ratio of innovation output to resource input.

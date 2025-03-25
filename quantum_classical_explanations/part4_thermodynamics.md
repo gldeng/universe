@@ -1,11 +1,11 @@
 # 热力学解释（量子经典二元论 9.4）
 # Thermodynamics Explanation (Quantum-Classical Dualism 9.4)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 
-**章节链接 | Section Links**
-中文：[热力学第零定律](#热力学第零定律) | [热力学第一定律](#热力学第一定律) | [热力学第二定律](#热力学第二定律) | [热力学第三定律](#热力学第三定律) | [统计力学](#统计力学) | [量子热力学](#量子热力学)
+**章节链接 | Section Links**  
+中文：[热力学第零定律](#热力学第零定律) | [热力学第一定律](#热力学第一定律) | [热力学第二定律](#热力学第二定律) | [热力学第三定律](#热力学第三定律) | [统计力学](#统计力学) | [量子热力学](#量子热力学)  
 English: [Zeroth Law](#zeroth-law) | [First Law](#first-law) | [Second Law](#second-law) | [Third Law](#third-law) | [Statistical Mechanics](#statistical-mechanics) | [Quantum Thermodynamics](#quantum-thermodynamics)
 
 ## 中文版
@@ -128,4 +128,4 @@ $$
 
 ## English Version
 
-[English content will be similar to Chinese content but in English...]
+[English content will be similar to Chinese content but in English...] 

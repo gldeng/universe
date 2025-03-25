@@ -100,9 +100,9 @@ Aung San Suu Kyi, as a leader of the democratic movement and daughter of Myanmar
 
 ## 经典引言 | Classic Quotes
 > "自由来自内心，一旦你决定不再害怕，你就自由了。"
->
+> 
 > "Freedom from fear is the freedom I claim for you my homeland. Fear is a habit; I am not afraid."
 
 > "真正的民主不仅仅是多数人的统治，还需要充分尊重少数人的权利和利益。"
->
-> "The true measure of the justice of a system is the amount of protection it guarantees to the weakest."
+> 
+> "The true measure of the justice of a system is the amount of protection it guarantees to the weakest." 

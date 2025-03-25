@@ -2,8 +2,8 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
 
-**导航 | Navigation**
-**章节链接 | Section Links**
+**导航 | Navigation**  
+**章节链接 | Section Links**  
 [简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论文章](#量子经典二元论文章-quantum-classical-dualism-articles) | [返回主页](#返回--return)
 
 ## 简介 | Introduction
@@ -187,4 +187,4 @@ The latest article developments in Quantum-Classical Dualism include:
 3. **Spiritual Dimensions Series**:
    - Characteristics and influence of higher-dimensional observers
    - Quantum-classical explanation of reincarnation
-   - Spiritual practice as a process of improving classicalization efficiency
+   - Spiritual practice as a process of improving classicalization efficiency 

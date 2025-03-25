@@ -1,10 +1,10 @@
 # 《曾经的你》：量子经典二元论视角下的时空与记忆
 # "Once You": Time-Space and Memory Through the Lens of Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[歌曲背景](#歌曲背景) | [歌词解析](#歌词解析) | [音乐风格](#音乐风格) | [量子经典二元论视角](#量子经典二元论视角) | [哲学意义](#哲学意义)  
 English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysis) | [Musical Style](#musical-style) | [Quantum-Classical Dualism Perspective](#quantum-classical-dualism-perspective) | [Philosophical Significance](#philosophical-significance)
 
 ## 中文版
@@ -26,7 +26,7 @@ English: [Song Background](#song-background) | [Lyrics Analysis](#lyrics-analysi
 从量子经典二元论的视角来看，《曾经的你》深刻探讨了时空记忆在量子与经典域之间的转化：
 
 1. **记忆的量子与经典双重性**：
-
+   
    "曾经的你"可视为观察者从当下经典现实中提取的量子记忆。这种记忆存在于量子和经典的叠加态中，每次回忆都是一次量子坍缩，使"曾经的你"以特定形态被感知：
 
 $$
@@ -34,7 +34,7 @@ $$
 $$
 
 2. **时空褶皱与维度连接**：
-
+   
    歌曲中对过去时空的回忆，本质上是观察者在不同时空维度间建立的量子虫洞连接，通过这种连接，过去与现在得以交织：
 
 $$
@@ -42,7 +42,7 @@ $$
 $$
 
 3. **信息熵与经典化**：
-
+   
    随着时间流逝，"曾经的你"在记忆中逐渐经典化，信息熵趋于稳定：
 
 $$
@@ -78,7 +78,7 @@ This song combines rock and folk elements, with a melody that is both soothing a
 From the perspective of Quantum-Classical Dualism, "Once You" profoundly explores the transformation of space-time memory between quantum and classical domains:
 
 1. **Quantum and Classical Duality of Memory**:
-
+   
    "Once you" can be viewed as quantum memory extracted by the observer from the current classical reality. This memory exists in a superposition of quantum and classical states, and each recall is a quantum collapse, causing "once you" to be perceived in a specific form:
 
 $$
@@ -86,7 +86,7 @@ $$
 $$
 
 2. **Space-Time Folds and Dimensional Connections**:
-
+   
    The recollection of past space-time in the song is essentially a quantum wormhole connection established by the observer between different space-time dimensions, through which the past and present interweave:
 
 $$
@@ -94,7 +94,7 @@ $$
 $$
 
 3. **Information Entropy and Classicalization**:
-
+   
    As time passes, "once you" gradually classicalizes in memory, with information entropy tending towards stability:
 
 $$
@@ -109,4 +109,4 @@ From the ultimate philosophical perspective of Quantum-Classical Dualism, "Once 
 
 1. Memory is a key mechanism for observers to anchor quantum possibilities as classical reality; through memory, the classical history of the universe is formed and preserved.
 2. "Once you" symbolizes the flow and mutual influence of information between the quantum and classical domains in the observer's consciousness.
-3. The nostalgic emotion conveyed in the song is essentially the observer's re-experience of quantumly possible but now classicalized possibilities, a special phenomenon of crossing space-time dimensions.
+3. The nostalgic emotion conveyed in the song is essentially the observer's re-experience of quantumly possible but now classicalized possibilities, a special phenomenon of crossing space-time dimensions. 

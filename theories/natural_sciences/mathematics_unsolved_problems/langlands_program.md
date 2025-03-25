@@ -104,52 +104,32 @@ For a local field $`F`$, there exists a natural correspondence between one-dimen
 **证明:**
 
 1. 根据局部类域论，存在同构：
-
-$$
-W_F^{ab} \cong F^{\times}
-$$
-
+   $$W_F^{ab} \cong F^{\times}$$
    其中$`W_F^{ab}`$是$`W_F`$的交换商，$`F^{\times}`$是$`F`$的乘法群。
 
 2. 一维伽罗瓦表示等价于$`W_F`$的连续特征$`\chi: W_F \rightarrow \mathbb{C}^{\times}`$，由于$`W_F^{ab} \cong F^{\times}`$，这又等价于$`F^{\times}`$的连续特征。
 
 3. 根据量子经典公理1，这两种表示可视为同一量子结构$`q_1 \in \mathcal{Q}_1`$的两种经典表达：
-
-$$
-F_{\text{Gal}}(q_1) = \chi_{\text{Gal}} \quad \text{和} \quad F_{\text{Aut}}(q_1) = \chi_{\text{Aut}}
-$$
+   $$F_{\text{Gal}}(q_1) = \chi_{\text{Gal}} \quad \text{和} \quad F_{\text{Aut}}(q_1) = \chi_{\text{Aut}}$$
 
 4. 根据量子经典公理2，这两种表达在信息内容上等价，即通过L-函数证明：
-
-$$
-L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})
-$$
+   $$L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})$$
 
 5. 因此，GL(1)局部Langlands对应是量子-经典转换保持对称性和信息的必然结果。
 
 **Proof:**
 
 1. According to local class field theory, there exists an isomorphism:
-
-$$
-W_F^{ab} \cong F^{\times}
-$$
-
+   $$W_F^{ab} \cong F^{\times}$$
    where $`W_F^{ab}`$ is the abelianized Weil group and $`F^{\times}`$ is the multiplicative group of $`F`$.
 
 2. One-dimensional Galois representations are equivalent to continuous characters $`\chi: W_F \rightarrow \mathbb{C}^{\times}`$ of $`W_F`$, which, due to $`W_F^{ab} \cong F^{\times}`$, are equivalent to continuous characters of $`F^{\times}`$.
 
 3. According to Quantum-Classical Axiom 1, these two representations can be viewed as two classical expressions of the same quantum structure $`q_1 \in \mathcal{Q}_1`$:
-
-$$
-F_{\text{Gal}}(q_1) = \chi_{\text{Gal}} \quad \text{and} \quad F_{\text{Aut}}(q_1) = \chi_{\text{Aut}}
-$$
+   $$F_{\text{Gal}}(q_1) = \chi_{\text{Gal}} \quad \text{and} \quad F_{\text{Aut}}(q_1) = \chi_{\text{Aut}}$$
 
 4. According to Quantum-Classical Axiom 2, these two expressions are equivalent in information content, as proven by L-functions:
-
-$$
-L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})
-$$
+   $$L(s, \chi_{\text{Gal}}) = L(s, \chi_{\text{Aut}})$$
 
 5. Therefore, the GL(1) local Langlands correspondence is a necessary result of quantum-classical transformation preserving symmetry and information.
 
@@ -166,20 +146,14 @@ For a local field $`F`$, there exists a natural correspondence between two-dimen
 1. 设$`\rho: W_F \rightarrow \text{GL}(2, \mathbb{C})`$为二维伽罗瓦表示，$`\pi`$为$`\text{GL}(2,F)`$的不可约自守表示。
 
 2. 根据量子经典公理1，存在二维量子结构$`q_2 \in \mathcal{Q}_2`$，使得：
-
-$$
-F_{\text{Gal}}(q_2) = \rho \quad \text{和} \quad F_{\text{Aut}}(q_2) = \pi
-$$
+   $$F_{\text{Gal}}(q_2) = \rho \quad \text{和} \quad F_{\text{Aut}}(q_2) = \pi$$
 
 3. 对于每个二维表示$`\rho`$，可定义局部L-函数$`L(s, \rho)`$和$`\varepsilon`$-因子$`\varepsilon(s, \rho, \psi)`$，其中$`\psi`$是$`F`$的加性特征。
 
 4. 类似地，对于每个不可约自守表示$`\pi`$，存在局部L-函数$`L(s, \pi)`$和$`\varepsilon`$-因子$`\varepsilon(s, \pi, \psi)`$。
 
 5. 局部Langlands对应断言存在唯一的对应$`\rho \leftrightarrow \pi`$，使得：
-
-$$
-L(s, \rho) = L(s, \pi) \quad \text{和} \quad \varepsilon(s, \rho, \psi) = \varepsilon(s, \pi, \psi)
-$$
+   $$L(s, \rho) = L(s, \pi) \quad \text{和} \quad \varepsilon(s, \rho, \psi) = \varepsilon(s, \pi, \psi)$$
 
 6. 根据量子经典公理2，这种对应反映了同一量子结构$`q_2`$的两种等价经典表达，通过L-函数和$`\varepsilon`$-因子的等价性验证。
 
@@ -190,20 +164,14 @@ $$
 1. Let $`\rho: W_F \rightarrow \text{GL}(2, \mathbb{C})`$ be a two-dimensional Galois representation and $`\pi`$ be an irreducible automorphic representation of $`\text{GL}(2,F)`$.
 
 2. According to Quantum-Classical Axiom 1, there exists a two-dimensional quantum structure $`q_2 \in \mathcal{Q}_2`$ such that:
-
-$$
-F_{\text{Gal}}(q_2) = \rho \quad \text{and} \quad F_{\text{Aut}}(q_2) = \pi
-$$
+   $$F_{\text{Gal}}(q_2) = \rho \quad \text{and} \quad F_{\text{Aut}}(q_2) = \pi$$
 
 3. For each two-dimensional representation $`\rho`$, one can define a local L-function $`L(s, \rho)`$ and an $`\varepsilon`$-factor $`\varepsilon(s, \rho, \psi)`$, where $`\psi`$ is an additive character of $`F`$.
 
 4. Similarly, for each irreducible automorphic representation $`\pi`$, there exist a local L-function $`L(s, \pi)`$ and an $`\varepsilon`$-factor $`\varepsilon(s, \pi, \psi)`$.
 
 5. The local Langlands correspondence asserts the existence of a unique correspondence $`\rho \leftrightarrow \pi`$ such that:
-
-$$
-L(s, \rho) = L(s, \pi) \quad \text{and} \quad \varepsilon(s, \rho, \psi) = \varepsilon(s, \pi, \psi)
-$$
+   $$L(s, \rho) = L(s, \pi) \quad \text{and} \quad \varepsilon(s, \rho, \psi) = \varepsilon(s, \pi, \psi)$$
 
 6. According to Quantum-Classical Axiom 2, this correspondence reflects two equivalent classical expressions of the same quantum structure $`q_2`$, verified by the equivalence of L-functions and $`\varepsilon`$-factors.
 
@@ -220,15 +188,8 @@ The Langlands correspondence preserves the integrity of quantum information duri
 **证明:**
 
 1. 对于伽罗瓦表示$`\rho`$和对应的自守表示$`\pi`$，完整的L-函数满足函数等式：
-
-$$
-\Lambda(s, \rho) = \varepsilon(\rho) \Lambda(1-s, \rho^{\vee})
-$$
-
-$$
-\Lambda(s, \pi) = \varepsilon(\pi) \Lambda(1-s, \pi^{\vee})
-$$
-
+   $$\Lambda(s, \rho) = \varepsilon(\rho) \Lambda(1-s, \rho^{\vee})$$
+   $$\Lambda(s, \pi) = \varepsilon(\pi) \Lambda(1-s, \pi^{\vee})$$
    其中$`\Lambda`$包含了Gamma因子，$`\rho^{\vee}`$和$`\pi^{\vee}`$是对偶表示。
 
 2. 朗兰兹对应确保$`\varepsilon(\rho) = \varepsilon(\pi)`$和函数等式的一致性。
@@ -242,15 +203,8 @@ $$
 **Proof:**
 
 1. For a Galois representation $`\rho`$ and the corresponding automorphic representation $`\pi`$, the complete L-functions satisfy functional equations:
-
-$$
-\Lambda(s, \rho) = \varepsilon(\rho) \Lambda(1-s, \rho^{\vee})
-$$
-
-$$
-\Lambda(s, \pi) = \varepsilon(\pi) \Lambda(1-s, \pi^{\vee})
-$$
-
+   $$\Lambda(s, \rho) = \varepsilon(\rho) \Lambda(1-s, \rho^{\vee})$$
+   $$\Lambda(s, \pi) = \varepsilon(\pi) \Lambda(1-s, \pi^{\vee})$$
    where $`\Lambda`$ includes Gamma factors, and $`\rho^{\vee}`$ and $`\pi^{\vee}`$ are the dual representations.
 
 2. The Langlands correspondence ensures that $`\varepsilon(\rho) = \varepsilon(\pi)`$ and the consistency of functional equations.
@@ -296,4 +250,4 @@ Quantum-classical dualism predicts: The Langlands Program is true because it ref
 3. Gelbart, S. (1984). An elementary introduction to the Langlands program. Bulletin of the American Mathematical Society, 10(2), 177-219.
 4. Harris, M., & Taylor, R. (2001). The geometry and cohomology of some simple Shimura varieties. Princeton University Press.
 5. Loeffler, D., & Weinstein, J. (2016). On the computation of local components of a newform. Mathematics of Computation, 85(299), 1797-1825.
-6. 量子经典二元论核心理论文献 [29.0].
+6. 量子经典二元论核心理论文献 [29.0]. 

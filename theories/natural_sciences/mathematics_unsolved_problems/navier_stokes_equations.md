@@ -235,4 +235,4 @@ The potential blowup phenomenon in the classical domain (i.e., the development o
 
 In simple terms, the existence and smoothness problem of solutions to the Navier-Stokes equations is essentially about how quantum fluid dynamics manifests under classical observation, and the answer to this problem reveals the quantum-classical duality in fluid dynamics.
 
-[切换到英文 | Switch to English](#quantum-classical-dualism-analysis-of-the-navier-stokes-equations-version-290)
+[切换到英文 | Switch to English](#quantum-classical-dualism-analysis-of-the-navier-stokes-equations-version-290) 

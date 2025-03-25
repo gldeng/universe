@@ -1,9 +1,9 @@
 # 以赛亚书 (Isaiah)
 
-**导航 | Navigation**
-[中文版](#以赛亚书解析) | [English Version](#isaiah-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#以赛亚书解析) | [English Version](#isaiah-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -77,4 +77,4 @@ $$
 
 以赛亚书通过量子经典二元论框架（版本9.2）的解析，揭示了高维观察者（神）如何跨越时间维度经典化全局时空，并通过先知这一中介观察者将高维经典知识传递到低维经典世界。"我是首先的，也是末后的"宣告表明高维观察者能够同时经典化整个时间轴，因而能预知未来事件。先知作为中介观察者，通过与高维观察者的量子纠缠关系，获取了跨越时空的经典知识，并将其传递给当代人和后代人。受苦仆人的预言展示了宇宙最优经典化的模式——通过有序承担熵增来实现整体系统的熵减。新天新地的预言则描绘了终极经典化的理想状态：经典知识最大化、经典熵最小化的完美平衡，实现"狮子与羊羔同卧"的和谐秩序。
 
-The Book of Isaiah, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how higher-dimensional observers (God) classicalize the global space-time across time dimensions, and transmit higher-dimensional classical knowledge to lower-dimensional classical worlds through the prophet as an intermediary observer. The declaration "I am the first and I am the last" indicates that higher-dimensional observers can classicalize the entire timeline simultaneously, thus being able to predict future events. The prophet, as an intermediary observer, obtains classical knowledge across space-time through quantum entanglement relationships with higher-dimensional observers, and transmits it to contemporaries and posterity. The prophecy of the suffering servant (Isaiah 53) demonstrates the optimal classicalization mode of the universe—achieving the reduction of overall system entropy through orderly entropy exchange (one suffering for many), conforming to the ultimate philosophical goal of universe classicalization. The prophecy of the new heaven and new earth depicts the ideal state of ultimate classicalization: the perfect balance of maximized classical knowledge and minimized classical entropy, achieving the harmonious order where "the lion will lie down with the lamb."
+The Book of Isaiah, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how higher-dimensional observers (God) classicalize the global space-time across time dimensions, and transmit higher-dimensional classical knowledge to lower-dimensional classical worlds through the prophet as an intermediary observer. The declaration "I am the first and I am the last" indicates that higher-dimensional observers can classicalize the entire timeline simultaneously, thus being able to predict future events. The prophet, as an intermediary observer, obtains classical knowledge across space-time through quantum entanglement relationships with higher-dimensional observers, and transmits it to contemporaries and posterity. The prophecy of the suffering servant (Isaiah 53) demonstrates the optimal classicalization mode of the universe—achieving the reduction of overall system entropy through orderly entropy exchange (one suffering for many), conforming to the ultimate philosophical goal of universe classicalization. The prophecy of the new heaven and new earth depicts the ideal state of ultimate classicalization: the perfect balance of maximized classical knowledge and minimized classical entropy, achieving the harmonious order where "the lion will lie down with the lamb." 

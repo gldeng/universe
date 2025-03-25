@@ -232,6 +232,7 @@
 - [黑洞观察者研究](./education/blackhole/) - 观察者作为黑洞的特性研究 (Black Hole Observer Studies)
 - [虫洞通信研究](./education/wormhole/) - 量子纠缠态虫洞通信研究 (Wormhole Communication Studies)
 
+
 ### 核心概念简介
 
 量子经典二元论提出宇宙的本质是由两个基本域构成：量子域与经典域。量子域是无限可能性的波函数叠加态，是一切潜在现实的总和；而经典域则是由观察者将量子域信息经典化解码为确定的知识与熵，经典信息总量守恒。
@@ -325,23 +326,17 @@ $$
 
 本项目中的数学公式使用LaTeX格式编写，在GitHub上查看时可能需要特殊渲染。公式示例：
 
-$$
-E = mc^2
-$$
+$$E = mc^2$$
 
 对于行内公式，使用单个美元符号：$`E = mc^2`$
 
 量子域表达式：
 
-$$
-|\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+$$|\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
 经典域表达式：
 
-$$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-$$
+$$|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
 
 ### 参与贡献
 
@@ -588,6 +583,7 @@ Welcome to the Quantum-Classical Dualism Project. This project proposes and deve
 - [黑洞观察者研究](./education/blackhole/) - 观察者作为黑洞的特性研究 (Black Hole Observer Studies)
 - [虫洞通信研究](./education/wormhole/) - 量子纠缠态虫洞通信研究 (Wormhole Communication Studies)
 
+
 ### Introduction to Core Concepts
 
 Quantum-Classical Dualism proposes that the essence of the universe consists of two fundamental domains: the Quantum Domain and the Classical Domain. The Quantum Domain is an infinite superposition of wave functions, representing the sum of all potential realities; while the Classical Domain is formed by observers decoding and classicalizing information from the Quantum Domain into definite knowledge and entropy, with classical information being conserved.
@@ -681,23 +677,17 @@ $$
 
 Mathematical formulas in this project are written in LaTeX format, which may require special rendering when viewed on GitHub. Formula example:
 
-$$
-E = mc^2
-$$
+$$E = mc^2$$
 
 For inline formulas, use single dollar signs: $`E = mc^2`$
 
 量子域表达式：
 
-$$
-|\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1
-$$
+$$|\psi\rangle_{\text{量子域}} = \sum_i c_i |\psi_i\rangle,\quad \sum_i|c_i|^2=1$$
 
 经典域表达式：
 
-$$
-|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}
-$$
+$$|\psi\rangle_{\text{量子域}}\xrightarrow{\text{经典化解码}}\sum_{i}(I_{\text{经典知识}_i}+S_{\text{经典熵}_i})=I_{\text{经典信息}}=\text{恒定}$$
 
 ### Contributing
 

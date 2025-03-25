@@ -1670,4 +1670,4 @@ Quantum-Classical Dualism indicates that foundational mathematical research may 
 2. Wiles, A. (1995). Modular elliptic curves and Fermat's Last Theorem. Annals of Mathematics, 141(3), 443-551.
 3. Perelman, G. (2002). The entropy formula for the Ricci flow and its geometric applications. arXiv:math/0211159.
 4. Zhang, Y. (2014). Bounded gaps between primes. Annals of Mathematics, 179(3), 1121-1174.
-5. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints.
+5. Mochizuki, S. (2012). Inter-universal Teichmüller theory I-IV. RIMS Preprints. 

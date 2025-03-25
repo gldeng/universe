@@ -2,11 +2,11 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 
-**章节链接 | Section Links**
-中文：[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论应用](#量子经典二元论观察者理论应用-quantum-classical-dualism-observer-theory-applications) | [返回](#返回--return)
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [目录](#目录--contents) | [量子经典二元论应用](#量子经典二元论观察者理论应用-quantum-classical-dualism-observer-theory-applications) | [返回](#返回--return)  
 
 English: [Introduction](#简介--introduction) | [Contents](#目录--contents) | [Quantum-Classical Applications](#量子经典二元论观察者理论应用-quantum-classical-dualism-observer-theory-applications) | [Return](#返回--return)
 
@@ -263,4 +263,4 @@ These theories not only provide new frameworks for understanding the nature of o
 - Promotion strategies for interdisciplinary research and innovation
 - Design principles for artificial intelligence and information processing systems
 - Theoretical foundations for social diversity and cultural exchange
-- Practical paths for personal cognitive development and dimension elevation
+- Practical paths for personal cognitive development and dimension elevation 

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1929年1月15日 - 1968年4月4日
-**国籍 (Nationality)**: 美国 (American)
-**领域 (Fields)**: 民权运动、社会活动家、牧师
+**生平 (Life Span)**: 1929年1月15日 - 1968年4月4日  
+**国籍 (Nationality)**: 美国 (American)  
+**领域 (Fields)**: 民权运动、社会活动家、牧师  
 **代表作品 (Representative Works)**: 《我有一个梦想》演讲、《从伯明翰监狱的来信》、《迈向自由》
 
 ## 核心思想 (Core Ideas)
@@ -102,21 +102,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "我有一个梦想，有一天，我的四个孩子将生活在一个不是以他们的肤色，而是以他们品格的优劣来评价他们的国家里。"
->
+> 
 > "I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character."
 
 > "黑暗不能驱除黑暗，只有光明可以；仇恨不能驱除仇恨，只有爱可以。"
->
+> 
 > "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
 
 > "不公不再针对某地的人，就是不公正对待所有地方的人。"
->
+> 
 > "Injustice anywhere is a threat to justice everywhere."
 
 > "我们必须学会共同生活为兄弟，否则我们将一起灭亡为愚人。"
->
+> 
 > "We must learn to live together as brothers or perish together as fools."
 
 > "真正的和平不只是紧张关系的缺席，而是正义的存在。"
->
-> "True peace is not merely the absence of tension; it is the presence of justice."
+> 
+> "True peace is not merely the absence of tension; it is the presence of justice." 

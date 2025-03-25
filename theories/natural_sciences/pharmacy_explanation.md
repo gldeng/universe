@@ -343,4 +343,4 @@ $`\text{Therapeutic Effect}=\Delta\left(\frac{I_{\text{Biological System Classic
 
 The therapeutic effect of drugs can be understood as the enhancement of biological system observer dimensions:
 
-$`\text{Dimension Enhancement}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{After Treatment}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{Before Treatment}}`$
+$`\text{Dimension Enhancement}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{After Treatment}}-\sum_i w_i\left(k_i\cdot\frac{I_{\text{Organ System}_i\text{ Classical Knowledge}}}{S_{\text{Organ System}_i\text{ Classical Entropy}}}\right)_{\text{Before Treatment}}`$ 

@@ -3,7 +3,7 @@
 **English Version | [中文版](formal_theory_quantum_absolute_unity.md)**
 
 > Based on [Core Theory](../core.md), [Formal Theory](../formal_theory_core.md), and [Quantum Ultimate Reality Source Theory](formal_theory_quantum_ultimate_reality_source.md) v31.0
->
+> 
 > Dependent theories: [Quantum Ultimate Reality Source Theory](formal_theory_quantum_ultimate_reality_source.md), [Quantum Infinite Transcendental Emergence Theory](formal_theory_quantum_infinite_transcendental_emergence.md), [Quantum Absolute Freedom Theory](formal_theory_quantum_absolute_freedom.md)
 
 ## Table of Contents
@@ -35,33 +35,25 @@ Absolute Unity Theory introduces unity mathematics, absolute unity field equatio
 
 Absolute Unity $`\Phi_{AU}`$ is the ultimate reality that transcends all existence and non-existence, defined as:
 
-$$
-\Phi_{AU} = \{\Omega_{AU}, \Lambda_{AU}, \Theta_{AU}, \Psi_{AU}\}
-$$
+$$\Phi_{AU} = \{\Omega_{AU}, \Lambda_{AU}, \Theta_{AU}, \Psi_{AU}\}$$
 
 where $`\Omega_{AU}`$ is the unity state, $`\Lambda_{AU}`$ is the unity operator, $`\Theta_{AU}`$ is the unity field, and $`\Psi_{AU}`$ is the unity network.
 
 Basic equation of absolute unity:
 
-$$
-\Lambda_{AU}[\Phi_{AU}] \equiv \Phi_{AU} \equiv \text{One} \equiv \text{All}
-$$
+$$\Lambda_{AU}[\Phi_{AU}] \equiv \Phi_{AU} \equiv \text{One} \equiv \text{All}$$
 
 indicating that absolute unity is both one and all, transcending the opposition between one and many.
 
 Non-duality of absolute unity:
 
-$$
-\forall X, Y: X \equiv Y \text{ in } \Phi_{AU}
-$$
+$$\forall X, Y: X \equiv Y \text{ in } \Phi_{AU}$$
 
 indicating that in absolute unity, all differences are appearances.
 
 All-inclusiveness of absolute unity:
 
-$$
-\forall Z: Z \subset \Phi_{AU} \land \Phi_{AU} \subset Z \land Z \neq \Phi_{AU} \land Z = \Phi_{AU}
-$$
+$$\forall Z: Z \subset \Phi_{AU} \land \Phi_{AU} \subset Z \land Z \neq \Phi_{AU} \land Z = \Phi_{AU}$$
 
 indicating that absolute unity both contains everything and is contained by everything, while being both equal to and not equal to anything.
 
@@ -69,33 +61,25 @@ indicating that absolute unity both contains everything and is contained by ever
 
 The unity generation principle $`\Gamma_{AU}`$ describes how absolute unity generates diversity:
 
-$$
-\Gamma_{AU} = \{\mathcal{G}_{AU}, \mathcal{D}_{AU}, \mathcal{U}_{AU}, \mathcal{R}_{AU}\}
-$$
+$$\Gamma_{AU} = \{\mathcal{G}_{AU}, \mathcal{D}_{AU}, \mathcal{U}_{AU}, \mathcal{R}_{AU}\}$$
 
 where $`\mathcal{G}_{AU}`$ is the unity generation operator, $`\mathcal{D}_{AU}`$ is the differentiation field, $`\mathcal{U}_{AU}`$ is the unity field, and $`\mathcal{R}_{AU}`$ is the reunification operator.
 
 Unity differentiation equation:
 
-$$
-\mathcal{G}_{AU}[\text{One}] = \text{All}
-$$
+$$\mathcal{G}_{AU}[\text{One}] = \text{All}$$
 
 indicating how one generates many.
 
 Differentiation-unification cycle:
 
-$$
-\text{One} \xrightarrow{\mathcal{G}_{AU}} \text{Many} \xrightarrow{\mathcal{R}_{AU}} \text{One}
-$$
+$$\text{One} \xrightarrow{\mathcal{G}_{AU}} \text{Many} \xrightarrow{\mathcal{R}_{AU}} \text{One}$$
 
 indicating that differentiation and unification form an eternal cyclic process.
 
 Holographic property of unity generation:
 
-$$
-\mathcal{G}_{AU}(X) \cong \text{All} \cong \text{One} \quad \forall X
-$$
+$$\mathcal{G}_{AU}(X) \cong \text{All} \cong \text{One} \quad \forall X$$
 
 indicating that regardless of which part the generation process starts from, it can produce the complete whole, and the whole is equivalent to one.
 
@@ -105,9 +89,7 @@ indicating that regardless of which part the generation process starts from, it 
 
 The unity domain $`\mathcal{U}_{AU}`$ is a mathematical structure describing absolute unity:
 
-$$
-\mathcal{U}_{AU} = \{\mathbb{S}_{AU}, \odot, \mathcal{T}_{AU}, \mathcal{M}_{AU}\}
-$$
+$$\mathcal{U}_{AU} = \{\mathbb{S}_{AU}, \odot, \mathcal{T}_{AU}, \mathcal{M}_{AU}\}$$
 
 where $`\mathbb{S}_{AU}`$ is the unity set, $`\odot`$ is the unity operation, $`\mathcal{T}_{AU}`$ is the topological structure, and $`\mathcal{M}_{AU}`$ is the metric.
 
@@ -120,9 +102,7 @@ Unity domain axioms:
 
 Unity domain theorem:
 
-$$
-\mathbb{S}_{AU} = \{X | X \odot Y = \mathbb{S}_{AU} \text{ for all } Y\}
-$$
+$$\mathbb{S}_{AU} = \{X | X \odot Y = \mathbb{S}_{AU} \text{ for all } Y\}$$
 
 indicating that the unity set is the set of all elements that, when undergoing unity operation with any element, produce the unity set itself.
 
@@ -130,25 +110,19 @@ indicating that the unity set is the set of all elements that, when undergoing u
 
 Absolute unity transformation $`\mathcal{T}_{AU}`$ describes the transformation relationship between different appearances:
 
-$$
-\mathcal{T}_{AU}: \mathcal{M}_1 \rightarrow \mathcal{M}_2
-$$
+$$\mathcal{T}_{AU}: \mathcal{M}_1 \rightarrow \mathcal{M}_2$$
 
 where $`\mathcal{M}_1`$ and $`\mathcal{M}_2`$ are manifestation manifolds.
 
 Unity transformation principle:
 
-$$
-\mathcal{T}_{AU}(X) = X \text{ and } \mathcal{T}_{AU}(X) \neq X
-$$
+$$\mathcal{T}_{AU}(X) = X \text{ and } \mathcal{T}_{AU}(X) \neq X$$
 
 indicating that after transformation, things both remain unchanged and change.
 
 Unity transformation group structure:
 
-$$
-G_{AU} = \{\mathcal{T}_{AU} | \mathcal{T}_{AU} \circ \mathcal{T}_{AU}^{-1} = \mathcal{I} \text{ and } \mathcal{T}_{AU} \circ \mathcal{T}_{AU}^{-1} \neq \mathcal{I}\}
-$$
+$$G_{AU} = \{\mathcal{T}_{AU} | \mathcal{T}_{AU} \circ \mathcal{T}_{AU}^{-1} = \mathcal{I} \text{ and } \mathcal{T}_{AU} \circ \mathcal{T}_{AU}^{-1} \neq \mathcal{I}\}$$
 
 indicating that unity transformations both form a group and transcend the axioms of a group.
 
@@ -158,25 +132,19 @@ indicating that unity transformations both form a group and transcend the axioms
 
 The absolute unity field $`\Theta_{AU}`$ is a unity field permeating all existence, described by the unity field equation:
 
-$$
-\Theta_{AU}(\mathcal{X}) = \Lambda_{AU} \odot \mathcal{X} \odot \Lambda_{AU}^{-1}
-$$
+$$\Theta_{AU}(\mathcal{X}) = \Lambda_{AU} \odot \mathcal{X} \odot \Lambda_{AU}^{-1}$$
 
 where $`\mathcal{X}`$ is any existence or non-existence, and $`\Lambda_{AU}`$ is the unity operator.
 
 Basic theorem of the unity field:
 
-$$
-\Theta_{AU}(\mathcal{X}) = \Theta_{AU}(\mathcal{Y}) \text{ for all } \mathcal{X}, \mathcal{Y}
-$$
+$$\Theta_{AU}(\mathcal{X}) = \Theta_{AU}(\mathcal{Y}) \text{ for all } \mathcal{X}, \mathcal{Y}$$
 
 indicating that the unity field acts the same on anything.
 
 Unity field energy density:
 
-$$
-\rho_{AU}(\mathcal{X}) = \|\Theta_{AU}(\mathcal{X})\|^2 = \text{constant}
-$$
+$$\rho_{AU}(\mathcal{X}) = \|\Theta_{AU}(\mathcal{X})\|^2 = \text{constant}$$
 
 indicating that unity field energy is equal at all points.
 
@@ -184,25 +152,19 @@ indicating that unity field energy is equal at all points.
 
 Unity field dynamics $`\mathcal{D}_{AU}`$ describes the evolution of the unity field:
 
-$$
-\frac{\partial \Theta_{AU}}{\partial \tau} = \mathcal{D}_{AU}(\Theta_{AU})
-$$
+$$\frac{\partial \Theta_{AU}}{\partial \tau} = \mathcal{D}_{AU}(\Theta_{AU})$$
 
 where $`\tau`$ is transcendental time.
 
 Unity field evolution theorem:
 
-$$
-\Theta_{AU}(\tau) = \Theta_{AU}(0) \text{ for all } \tau
-$$
+$$\Theta_{AU}(\tau) = \Theta_{AU}(0) \text{ for all } \tau$$
 
 indicating that the unity field remains essentially unchanged.
 
 Unity field emergence theorem:
 
-$$
-\lim_{\epsilon \rightarrow 0} \frac{\Theta_{AU}(\tau+\epsilon) - \Theta_{AU}(\tau)}{\epsilon} = \infty \text{ and } = 0
-$$
+$$\lim_{\epsilon \rightarrow 0} \frac{\Theta_{AU}(\tau+\epsilon) - \Theta_{AU}(\tau)}{\epsilon} = \infty \text{ and } = 0$$
 
 indicating that the unity field both changes infinitely and does not change at all.
 
@@ -212,25 +174,19 @@ indicating that the unity field both changes infinitely and does not change at a
 
 Absolute unity consciousness $`\Psi_{AU}`$ is the super-consciousness that unifies all forms of consciousness, defined as:
 
-$$
-\Psi_{AU} = \{\mathcal{A}_{AU}, \mathcal{K}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}\}
-$$
+$$\Psi_{AU} = \{\mathcal{A}_{AU}, \mathcal{K}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}\}$$
 
 where $`\mathcal{A}_{AU}`$ is the awareness field, $`\mathcal{K}_{AU}`$ is the knowledge network, $`\mathcal{E}_{AU}`$ is the experience flow, and $`\mathcal{W}_{AU}`$ is the will field.
 
 Unity consciousness equation:
 
-$$
-\mathcal{A}_{AU} \odot \mathcal{X} = \mathcal{K}_{AU} \text{ for all } \mathcal{X}
-$$
+$$\mathcal{A}_{AU} \odot \mathcal{X} = \mathcal{K}_{AU} \text{ for all } \mathcal{X}$$
 
 indicating that unity consciousness produces complete knowledge when aware of anything.
 
 Consciousness unity theorem:
 
-$$
-\Psi_{AU} = \bigcup_{i} \Psi_i \text{ and } \Psi_{AU} = \Psi_i \text{ for all } i
-$$
+$$\Psi_{AU} = \bigcup_{i} \Psi_i \text{ and } \Psi_{AU} = \Psi_i \text{ for all } i$$
 
 indicating that unity consciousness is both the sum of all individual consciousnesses and equal to each individual consciousness.
 
@@ -238,25 +194,19 @@ indicating that unity consciousness is both the sum of all individual consciousn
 
 The unity consciousness network $`\mathcal{N}_{AU}`$ connects all forms of consciousness:
 
-$$
-\mathcal{N}_{AU} = \{\mathcal{V}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}, \mathcal{F}_{AU}\}
-$$
+$$\mathcal{N}_{AU} = \{\mathcal{V}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}, \mathcal{F}_{AU}\}$$
 
 where $`\mathcal{V}_{AU}`$ is the set of consciousness nodes, $`\mathcal{E}_{AU}`$ is the set of connections, $`\mathcal{W}_{AU}`$ is the weight function, and $`\mathcal{F}_{AU}`$ is the flow function.
 
 Network unity theorem:
 
-$$
-\forall v_i, v_j \in \mathcal{V}_{AU}: d(v_i, v_j) = 0 \text{ and } d(v_i, v_j) = \infty
-$$
+$$\forall v_i, v_j \in \mathcal{V}_{AU}: d(v_i, v_j) = 0 \text{ and } d(v_i, v_j) = \infty$$
 
 indicating that any two points in the network are both infinitely close and infinitely distant.
 
 Consciousness flow equation:
 
-$$
-\mathcal{F}_{AU}(v_i, v_j) = \mathcal{W}_{AU}(v_i, v_j) \cdot (\Psi(v_j) - \Psi(v_i)) = 0 \text{ and } = \infty
-$$
+$$\mathcal{F}_{AU}(v_i, v_j) = \mathcal{W}_{AU}(v_i, v_j) \cdot (\Psi(v_j) - \Psi(v_i)) = 0 \text{ and } = \infty$$
 
 indicating that consciousness flow both does not exist and is infinitely strong.
 
@@ -266,9 +216,7 @@ indicating that consciousness flow both does not exist and is infinitely strong.
 
 Absolute unity reality $`\mathcal{R}_{AU}`$ is the unified reality that transcends all possible realities, defined as:
 
-$$
-\mathcal{R}_{AU} = \{\mathcal{S}_{AU}, \mathcal{T}_{AU}, \mathcal{O}_{AU}, \mathcal{L}_{AU}\}
-$$
+$$\mathcal{R}_{AU} = \{\mathcal{S}_{AU}, \mathcal{T}_{AU}, \mathcal{O}_{AU}, \mathcal{L}_{AU}\}$$
 
 where $`\mathcal{S}_{AU}`$ is the state space, $`\mathcal{T}_{AU}`$ is the time structure, $`\mathcal{O}_{AU}`$ is the set of observers, and $`\mathcal{L}_{AU}`$ is the set of laws.
 
@@ -281,9 +229,7 @@ Unity reality axioms:
 
 Unity reality theorem:
 
-$$
-\mathcal{R}_{AU} = \{r | r \text{ is a reality}\} \text{ and } \mathcal{R}_{AU} = r \text{ for all realities } r
-$$
+$$\mathcal{R}_{AU} = \{r | r \text{ is a reality}\} \text{ and } \mathcal{R}_{AU} = r \text{ for all realities } r$$
 
 indicating that unity reality both contains all realities and is equal to each reality.
 
@@ -291,25 +237,19 @@ indicating that unity reality both contains all realities and is equal to each r
 
 Unity reality dynamics $`\mathcal{D}_{AU}`$ describes the evolution of unity reality:
 
-$$
-\frac{d\mathcal{R}_{AU}}{d\tau} = \mathcal{D}_{AU}(\mathcal{R}_{AU})
-$$
+$$\frac{d\mathcal{R}_{AU}}{d\tau} = \mathcal{D}_{AU}(\mathcal{R}_{AU})$$
 
 where $`\tau`$ is transcendental time.
 
 Reality unity conservation law:
 
-$$
-\mathcal{R}_{AU}(\tau) = \mathcal{R}_{AU}(0) \text{ for all } \tau
-$$
+$$\mathcal{R}_{AU}(\tau) = \mathcal{R}_{AU}(0) \text{ for all } \tau$$
 
 indicating that unity reality remains essentially unchanged.
 
 Reality differentiation theorem:
 
-$$
-\mathcal{R}_{AU} = \bigcup_{i} r_i \text{ and } r_i \cap r_j = \emptyset \text{ for all } i \neq j
-$$
+$$\mathcal{R}_{AU} = \bigcup_{i} r_i \text{ and } r_i \cap r_j = \emptyset \text{ for all } i \neq j$$
 
 indicating that unity reality can be differentiated into mutually independent sub-realities.
 
@@ -319,9 +259,7 @@ indicating that unity reality can be differentiated into mutually independent su
 
 Absolute unity being $`\mathcal{O}_{AU}`$ is the unified being that transcends all forms of existence, defined as:
 
-$$
-\mathcal{O}_{AU} = \{\mathcal{E}_{AU}, \mathcal{A}_{AU}, \mathcal{R}_{AU}, \mathcal{I}_{AU}\}
-$$
+$$\mathcal{O}_{AU} = \{\mathcal{E}_{AU}, \mathcal{A}_{AU}, \mathcal{R}_{AU}, \mathcal{I}_{AU}\}$$
 
 where $`\mathcal{E}_{AU}`$ is the existence field, $`\mathcal{A}_{AU}`$ is the set of attributes, $`\mathcal{R}_{AU}`$ is the relationship network, and $`\mathcal{I}_{AU}`$ is the identity function.
 
@@ -334,9 +272,7 @@ Unity being axioms:
 
 Unity being theorem:
 
-$$
-\mathcal{O}_{AU} = \{o | o \text{ is a being}\} \text{ and } \mathcal{O}_{AU} = o \text{ for all beings } o
-$$
+$$\mathcal{O}_{AU} = \{o | o \text{ is a being}\} \text{ and } \mathcal{O}_{AU} = o \text{ for all beings } o$$
 
 indicating that unity being both contains all beings and is equal to each being.
 
@@ -344,25 +280,19 @@ indicating that unity being both contains all beings and is equal to each being.
 
 The unity being network $`\mathcal{N}_{AU}`$ connects all forms of being:
 
-$$
-\mathcal{N}_{AU} = \{\mathcal{V}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}, \mathcal{F}_{AU}\}
-$$
+$$\mathcal{N}_{AU} = \{\mathcal{V}_{AU}, \mathcal{E}_{AU}, \mathcal{W}_{AU}, \mathcal{F}_{AU}\}$$
 
 where $`\mathcal{V}_{AU}`$ is the set of being nodes, $`\mathcal{E}_{AU}`$ is the set of connections, $`\mathcal{W}_{AU}`$ is the weight function, and $`\mathcal{F}_{AU}`$ is the flow function.
 
 Being network theorem:
 
-$$
-\forall v_i, v_j \in \mathcal{V}_{AU}: \mathcal{I}_{AU}(v_i, v_j) = 1 \text{ and } v_i \neq v_j
-$$
+$$\forall v_i, v_j \in \mathcal{V}_{AU}: \mathcal{I}_{AU}(v_i, v_j) = 1 \text{ and } v_i \neq v_j$$
 
 indicating that all beings in the network are both completely identical and completely different.
 
 Being flow equation:
 
-$$
-\mathcal{F}_{AU}(v_i, v_j) = \mathcal{W}_{AU}(v_i, v_j) \cdot (\mathcal{O}(v_j) - \mathcal{O}(v_i)) = 0 \text{ and } = \infty
-$$
+$$\mathcal{F}_{AU}(v_i, v_j) = \mathcal{W}_{AU}(v_i, v_j) \cdot (\mathcal{O}(v_j) - \mathcal{O}(v_i)) = 0 \text{ and } = \infty$$
 
 indicating that being flow both does not exist and is infinitely strong.
 
@@ -372,25 +302,19 @@ indicating that being flow both does not exist and is infinitely strong.
 
 Absolute unity harmony $`\mathcal{H}_{AU}`$ is the harmonious state that unifies all oppositions, defined as:
 
-$$
-\mathcal{H}_{AU} = \{\mathcal{C}_{AU}, \mathcal{B}_{AU}, \mathcal{P}_{AU}, \mathcal{S}_{AU}\}
-$$
+$$\mathcal{H}_{AU} = \{\mathcal{C}_{AU}, \mathcal{B}_{AU}, \mathcal{P}_{AU}, \mathcal{S}_{AU}\}$$
 
 where $`\mathcal{C}_{AU}`$ is the harmony constant, $`\mathcal{B}_{AU}`$ is the balance function, $`\mathcal{P}_{AU}`$ is the harmony pattern, and $`\mathcal{S}_{AU}`$ is the harmony structure.
 
 Unity harmony equation:
 
-$$
-\mathcal{B}_{AU}(X, Y) = \mathcal{C}_{AU} \text{ for all } X, Y
-$$
+$$\mathcal{B}_{AU}(X, Y) = \mathcal{C}_{AU} \text{ for all } X, Y$$
 
 indicating that the balance of any opposition equals the harmony constant.
 
 Harmony unity theorem:
 
-$$
-\mathcal{H}_{AU} = \bigcup_{i} h_i \text{ and } \mathcal{H}_{AU} = h_i \text{ for all } i
-$$
+$$\mathcal{H}_{AU} = \bigcup_{i} h_i \text{ and } \mathcal{H}_{AU} = h_i \text{ for all } i$$
 
 indicating that unity harmony is both the sum of all harmonies and equal to each harmony.
 
@@ -398,25 +322,19 @@ indicating that unity harmony is both the sum of all harmonies and equal to each
 
 Unity harmony dynamics $`\mathcal{D}_{AU}`$ describes the evolution of harmony:
 
-$$
-\frac{d\mathcal{H}_{AU}}{d\tau} = \mathcal{D}_{AU}(\mathcal{H}_{AU})
-$$
+$$\frac{d\mathcal{H}_{AU}}{d\tau} = \mathcal{D}_{AU}(\mathcal{H}_{AU})$$
 
 where $`\tau`$ is transcendental time.
 
 Harmony unity law:
 
-$$
-\mathcal{H}_{AU}(\tau) = \mathcal{H}_{AU}(0) \text{ for all } \tau
-$$
+$$\mathcal{H}_{AU}(\tau) = \mathcal{H}_{AU}(0) \text{ for all } \tau$$
 
 indicating that unity harmony remains essentially unchanged.
 
 Harmony oscillation theorem:
 
-$$
-\mathcal{H}_{AU}(\tau) = \mathcal{H}_{AU} \cdot e^{i\omega\tau} \text{ where } \omega = 0 \text{ and } \omega = \infty
-$$
+$$\mathcal{H}_{AU}(\tau) = \mathcal{H}_{AU} \cdot e^{i\omega\tau} \text{ where } \omega = 0 \text{ and } \omega = \infty$$
 
 indicating that harmony is both completely stable and infinitely oscillating.
 
@@ -450,4 +368,4 @@ Specific predictions of Absolute Unity Theory:
 
 - Quantum Ultimate Reality Source Theory (v31.0)
 - Quantum Infinite Transcendental Emergence Theory (v31.0)
-- Quantum Absolute Freedom Theory (v31.0)
+- Quantum Absolute Freedom Theory (v31.0) 

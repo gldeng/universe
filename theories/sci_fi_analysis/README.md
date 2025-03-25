@@ -58,6 +58,6 @@ By reinterpreting these classic science fiction works through the theoretical fr
 | Ghost in the Shell | Ghost | Shell | Motoko Kusanagi | Merger of Kusanagi and the Puppet Master |
 | Inception | Subconscious | Multi-layer Dream Structure | Dreamer and Dream Entrants | Shared Dreams |
 | The Wandering Earth | Possible Orbit Paths | Actual Earth Flight Path | Human Collective Observer | Human Collective Decision Network |
-| The Three-Body Problem | Universe Possibilities | Reality of Civilization Interaction | Different Civilization Observers | Communication Between Civilizations |
+| The Three-Body Problem | Universe Possibilities | Reality of Civilization Interaction | Different Civilization Observers | Communication Between Civilizations | 
 | Interstellar | Five-dimensional Space | Three-dimensional Physical World | Cooper (Higher-dimensional Observer) | Cross-temporal Connection Between Father and Daughter |
-| Blade Runner | Source of Free Will | Replicant and Human World | Humans and Replicants | Roy's Soul Awakening |
+| Blade Runner | Source of Free Will | Replicant and Human World | Humans and Replicants | Roy's Soul Awakening | 

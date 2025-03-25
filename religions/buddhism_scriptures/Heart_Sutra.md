@@ -1,10 +1,10 @@
 # 般若波罗蜜多心经在量子经典二元论下的解释
 # Heart Sutra Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#心经概述) | [English Version](#heart-sutra-overview)
-**章节链接 | Section Links**
-中文：[心经概述](#心经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#心经概述) | [English Version](#heart-sutra-overview)  
+**章节链接 | Section Links**  
+中文：[心经概述](#心经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Heart Sutra Overview](#heart-sutra-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 心经概述
@@ -109,4 +109,4 @@ $$
 
 《心经》作为佛教最精华的经典之一，其核心思想与量子经典二元论框架展现出惊人的一致性。"空性"的概念与量子域的无限可能性本质相符，"色空不二"的思想与量子经典双向转换机制相应。通过量子经典二元论框架，《心经》的深刻智慧得到了现代科学语言的系统化表达。
 
-As one of Buddhism's most essential scriptures, the Heart Sutra's core ideas demonstrate remarkable consistency with the Quantum-Classical Dualism framework. The concept of "emptiness" corresponds to the infinite potential nature of the quantum domain, and the idea of "non-duality of form and emptiness" corresponds to the bidirectional conversion mechanism between quantum and classical domains. Through the Quantum-Classical Dualism framework, the profound wisdom of the Heart Sutra receives systematic expression in the language of modern science.
+As one of Buddhism's most essential scriptures, the Heart Sutra's core ideas demonstrate remarkable consistency with the Quantum-Classical Dualism framework. The concept of "emptiness" corresponds to the infinite potential nature of the quantum domain, and the idea of "non-duality of form and emptiness" corresponds to the bidirectional conversion mechanism between quantum and classical domains. Through the Quantum-Classical Dualism framework, the profound wisdom of the Heart Sutra receives systematic expression in the language of modern science. 

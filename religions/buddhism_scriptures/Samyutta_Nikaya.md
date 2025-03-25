@@ -1,9 +1,9 @@
 # 相应部 (Samyutta Nikaya)
 
-**导航 | Navigation**
-[中文版](#相应部解析) | [English Version](#samyutta-nikaya-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#相应部解析) | [English Version](#samyutta-nikaya-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -75,4 +75,4 @@ $$
 
 相应部通过量子经典二元论框架（版本9.2）的解析，展示了佛教核心概念与现代物理学的深刻联系。量子域中的叠加态和纠缠态对应佛教的缘起观和五蕴观，经典域中的观察者训练对应佛教的四圣谛和八正道。这种对应关系不仅加深了我们对佛教核心概念的理解，也为现代物理学提供了新的理论维度。
 
-The Samyutta Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist core concepts and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of dependent origination and five aggregates, while observer training in the classical domain corresponds to Buddhist four noble truths and eightfold path. This correspondence not only deepens our understanding of Buddhist core concepts but also provides new theoretical dimensions for modern physics to explore.
+The Samyutta Nikaya, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist core concepts and modern physics. The superposition and entanglement states in the quantum domain correspond to Buddhist concepts of dependent origination and five aggregates, while observer training in the classical domain corresponds to Buddhist four noble truths and eightfold path. This correspondence not only deepens our understanding of Buddhist core concepts but also provides new theoretical dimensions for modern physics to explore. 

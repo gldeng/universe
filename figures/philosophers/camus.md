@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1913年11月7日 - 1960年1月4日
-**国籍 (Nationality)**: 法国/阿尔及利亚 (French/Algerian)
-**领域 (Fields)**: 哲学、文学、荒诞主义、存在主义
+**生平 (Life Span)**: 1913年11月7日 - 1960年1月4日  
+**国籍 (Nationality)**: 法国/阿尔及利亚 (French/Algerian)  
+**领域 (Fields)**: 哲学、文学、荒诞主义、存在主义  
 **代表作品 (Representative Works)**: 《局外人》、《西西弗神话》、《鼠疫》、《叛逆者》、《堕落》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "存在的唯一真正严肃的哲学问题是自杀。"
->
+> 
 > "There is but one truly serious philosophical problem, and that is suicide."
 
 > "必须想象西西弗斯是幸福的。"
->
+> 
 > "One must imagine Sisyphus happy."
 
 > "我反抗，故我在。"
->
+> 
 > "I rebel, therefore we exist."
 
 > "不要等待最后的审判。它每天都在进行。"
->
+> 
 > "Do not wait for the Last Judgment. It takes place every day."
 
 > "在阳光和死亡之间，不可能直视任何一个。"
->
-> "Between the certainty of death and the impossibility of looking directly either at the sun or at death, there is no difference."
+> 
+> "Between the certainty of death and the impossibility of looking directly either at the sun or at death, there is no difference." 

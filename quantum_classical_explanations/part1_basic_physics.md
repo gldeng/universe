@@ -1,11 +1,11 @@
 # 基础物理定律解释（量子经典二元论 9.4）
 # Basic Physics Laws Explanation (Quantum-Classical Dualism 9.4)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 
-**章节链接 | Section Links**
-中文：[光速恒定](#光速恒定) | [引力本质](#引力本质) | [电磁力](#电磁力) | [基本粒子](#基本粒子)
+**章节链接 | Section Links**  
+中文：[光速恒定](#光速恒定) | [引力本质](#引力本质) | [电磁力](#电磁力) | [基本粒子](#基本粒子)  
 English: [Speed of Light Constancy](#speed-of-light-constancy) | [Nature of Gravity](#nature-of-gravity) | [Electromagnetic Force](#electromagnetic-force) | [Elementary Particles](#elementary-particles)
 
 ## 中文版
@@ -108,4 +108,4 @@ $$
 
 ## English Version
 
-[English content will be similar to Chinese content but in English...]
+[English content will be similar to Chinese content but in English...] 

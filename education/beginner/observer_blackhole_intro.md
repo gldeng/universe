@@ -158,4 +158,4 @@ $$
 2. **Advanced Exercises**
    - Observe your thinking process
    - Identify transitions between classicalization and quantization
-   - Record efficiency changes
+   - Record efficiency changes 

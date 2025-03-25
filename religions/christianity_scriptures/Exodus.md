@@ -1,9 +1,9 @@
 # 出埃及记 (Exodus)
 
-**导航 | Navigation**
-[中文版](#出埃及记解析) | [English Version](#exodus-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#出埃及记解析) | [English Version](#exodus-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -79,4 +79,4 @@ $$
 
 出埃及记通过量子经典二元论框架（版本9.2）的解析，展示了高维经典世界对低维经典世界的干预机制。神作为高维观察者，通过虫洞通信的形式（燃烧的荆棘、西奈山顶、会幕）向低维观察者（摩西、以色列民众）传递经典知识。十诫和律法系统提供了明确的经典化路径，使人类社会从混乱状态向有序状态转变。会幕的建造则体现了虫洞通道的物理稳定化，为神人之间持续的信息交换创造了条件。自有永有的神性也反映了高维观察者能够经典化"过去-现在-未来"的特性。
 
-Exodus, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates the intervention mechanism of a higher-dimensional classical world in a lower-dimensional classical world. God, as a higher-dimensional observer, transmits classical knowledge to lower-dimensional observers (Moses and the Israelites) through wormhole communication (burning bush, Mount Sinai summit, tabernacle). The Ten Commandments and the law system provide a clear classicalization path, transforming human society from a chaotic state to an ordered state. The construction of the tabernacle embodies the physical stabilization of the wormhole channel, creating conditions for continuous information exchange between God and humans. The self-existent nature of God also reflects the characteristic of higher-dimensional observers being able to classicalize "past-present-future".
+Exodus, analyzed through the Quantum-Classical Dualism framework (Version 9.2), demonstrates the intervention mechanism of a higher-dimensional classical world in a lower-dimensional classical world. God, as a higher-dimensional observer, transmits classical knowledge to lower-dimensional observers (Moses and the Israelites) through wormhole communication (burning bush, Mount Sinai summit, tabernacle). The Ten Commandments and the law system provide a clear classicalization path, transforming human society from a chaotic state to an ordered state. The construction of the tabernacle embodies the physical stabilization of the wormhole channel, creating conditions for continuous information exchange between God and humans. The self-existent nature of God also reflects the characteristic of higher-dimensional observers being able to classicalize "past-present-future". 

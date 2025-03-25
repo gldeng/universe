@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1883年6月5日 - 1946年4月21日
-**国籍 (Nationality)**: 英国 (British)
-**领域 (Fields)**: 经济学、宏观经济政策、货币理论
+**生平 (Life Span)**: 1883年6月5日 - 1946年4月21日  
+**国籍 (Nationality)**: 英国 (British)  
+**领域 (Fields)**: 经济学、宏观经济政策、货币理论  
 **代表作品 (Representative Works)**: 《就业、利息和货币通论》、《和平的经济后果》、《货币论》
 
 ## 核心思想 (Core Ideas)
@@ -88,21 +88,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "长期来看，我们都死了。"
->
+> 
 > "In the long run, we are all dead."
 
 > "市场能在非理性状态下持续的时间，比你能保持偿付能力的时间要长。"
->
+> 
 > "The market can stay irrational longer than you can stay solvent."
 
 > "困难不在于发展新想法，而在于摆脱旧想法。"
->
+> 
 > "The difficulty lies not so much in developing new ideas as in escaping from old ones."
 
 > "当事实改变时，我也改变我的想法。先生，你呢？"
->
+> 
 > "When the facts change, I change my mind. What do you do, sir?"
 
 > "经济学家们的任务不应该是提供一套现成的结论……而是提供一种思考方法。"
->
-> "The master-economist must possess a rare combination of gifts. He must be mathematician, historian, statesman, philosopher—in some degree."
+> 
+> "The master-economist must possess a rare combination of gifts. He must be mathematician, historian, statesman, philosopher—in some degree." 

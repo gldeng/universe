@@ -93,9 +93,9 @@ Stanley Kubrick is widely regarded as one of the most influential directors in f
 
 ## 经典引言 | Classic Quotes
 > "艺术的本质不是回答问题，而是提出问题。"
->
+> 
 > "The essence of art is not to answer questions but to ask them."
 
 > "如果能被一句话解释，那就不需要拍成电影了。"
->
-> "If it can be written, or thought, it can be filmed."
+> 
+> "If it can be written, or thought, it can be filmed." 

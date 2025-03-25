@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1835年11月30日 - 1910年4月21日
-**国籍 (Nationality)**: 美国 (American)
-**领域 (Fields)**: 文学、幽默、社会评论、演讲
+**生平 (Life Span)**: 1835年11月30日 - 1910年4月21日  
+**国籍 (Nationality)**: 美国 (American)  
+**领域 (Fields)**: 文学、幽默、社会评论、演讲  
 **代表作品 (Representative Works)**: 《哈克贝利·费恩历险记》、《汤姆·索亚历险记》、《百万英镑》、《一个康涅狄格州扬基在亚瑟王朝廷》、《竞选州长》
 
 ## 核心思想 (Core Ideas)
@@ -100,21 +100,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "每当我想要运动时，我就躺下来，直到那种冲动过去。"
->
+> 
 > "Whenever I feel the urge to exercise, I lie down until the feeling passes."
 
 > "谎言能走遍半个地球，而真相还在穿鞋子。"
->
+> 
 > "A lie can travel halfway around the world while the truth is putting on its shoes."
 
 > "人不是因为岁数大了才停止玩耍；而是因为停止了玩耍才变老的。"
->
+> 
 > "Age is an issue of mind over matter. If you don't mind, it doesn't matter."
 
 > "经典作品是每个人都希望读过，但没人想读的书。"
->
+> 
 > "Classic: A book which people praise and don't read."
 
 > "坏习惯比它的主人活得长久。一开始，是你拥有坏习惯，接着是坏习惯拥有你。"
->
-> "Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time."
+> 
+> "Habit is habit, and not to be flung out of the window by any man, but coaxed downstairs a step at a time." 

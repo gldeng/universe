@@ -1,10 +1,10 @@
 # 创世记在量子经典二元论下的解释
 # Genesis (Bereshit) Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#创世记概述) | [English Version](#genesis-overview)
-**章节链接 | Section Links**
-中文：[创世记概述](#创世记概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#创世记概述) | [English Version](#genesis-overview)  
+**章节链接 | Section Links**  
+中文：[创世记概述](#创世记概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Genesis Overview](#genesis-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 创世记概述
@@ -18,23 +18,23 @@ Genesis (Hebrew: בְּרֵאשִׁית, Bereshit) is the first book of the Tora
 ## Core Text
 
 > 起初，神创造天地。地是空虚混沌，渊面黑暗；神的灵运行在水面上。神说："要有光"，就有了光。
->
+> 
 > 神说："我们要照着我们的形象，按着我们的样式造人，使他们管理海里的鱼、空中的鸟、地上的牲畜和全地，并地上所爬的一切昆虫。"神就照着自己的形象造人，乃是照着他的形象造男造女。
->
+> 
 > 耶和华神用地上的尘土造人，将生气吹在他鼻孔里，他就成了有灵的活人，名叫亚当。
->
+> 
 > 亚伯拉罕说："主耶和华啊，我既是尘土炉灰，怎敢对主说话呢？"
->
+> 
 > 雅各睡醒了，说："耶和华真在这里，我竟不知道！"他就惧怕，说："这地方何等可畏！这不是别的，乃是神的殿，也是天的门。"
 
 > In the beginning God created the heavens and the earth. Now the earth was formless and empty, darkness was over the surface of the deep, and the Spirit of God was hovering over the waters. And God said, "Let there be light," and there was light.
->
+> 
 > Then God said, "Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground." So God created mankind in his own image, in the image of God he created them; male and female he created them.
->
+> 
 > Then the LORD God formed a man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being.
->
+> 
 > Abraham spoke up again: "Now that I have been so bold as to speak to the Lord, though I am nothing but dust and ashes."
->
+> 
 > When Jacob awoke from his sleep, he thought, "Surely the LORD is in this place, and I was not aware of it." He was afraid and said, "How awesome is this place! This is none other than the house of God; this is the gate of heaven."
 
 ## 量子经典二元论解释

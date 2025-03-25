@@ -199,4 +199,4 @@ Research on the theory and practice of quantum entangled wormhole communication.
 - [Information Transfer Between Observers](advanced/quantum_information.md) - Mechanisms of Information Transfer Between Observers
 - [Channel Stability](advanced/quantum_entanglement.md) - Research on Methods to Maintain Wormhole Channel Stability
 - [Energy Consumption Optimization](advanced/quantum_control.md) - Optimization Techniques for Energy Consumption in Wormhole Communication
-- [Application Scenarios](advanced/quantum_network.md) - Potential Application Scenarios for Wormhole Communication
+- [Application Scenarios](advanced/quantum_network.md) - Potential Application Scenarios for Wormhole Communication 

@@ -1,10 +1,10 @@
 # 感知、梦境与日常生活中的熵变化：量子经典二元论视角（版本9.2）
 # Perception, Dreams, and Entropy Changes in Daily Life: A Quantum-Classical Dualism Perspective (Version 9.2)
 
-**导航 | Navigation**
-[中文版](#引言) | [English Version](#introduction)
-**章节链接 | Section Links**
-中文：[引言](#引言) | [统一经典化世界中的观察者感知差异](#一统一经典化世界中的观察者感知差异) | [梦境状态的熵变化模式](#二梦境状态的熵变化模式) | [日常活动的熵变化规律](#三日常活动的熵变化规律) | [意识状态与熵变化关系](#四意识状态与熵变化关系)
+**导航 | Navigation**  
+[中文版](#引言) | [English Version](#introduction)  
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [统一经典化世界中的观察者感知差异](#一统一经典化世界中的观察者感知差异) | [梦境状态的熵变化模式](#二梦境状态的熵变化模式) | [日常活动的熵变化规律](#三日常活动的熵变化规律) | [意识状态与熵变化关系](#四意识状态与熵变化关系)  
 English: [Introduction](#introduction) | [Observer Perception Differences](#1-observer-perception-differences-in-unified-classicalized-world) | [Entropy Change Patterns in Dreams](#2-entropy-change-patterns-in-dream-states) | [Entropy Change Laws in Daily Activities](#3-entropy-change-laws-in-daily-activities) | [Consciousness States and Entropy Changes](#4-relationship-between-consciousness-states-and-entropy-changes)
 
 ## 引言
@@ -201,4 +201,4 @@ S_{\text{多任务}} > \sum_i S_{\text{单任务}_i}
 
 从量子经典二元论视角理解感知、梦境和日常生活中的熵变化，为我们提供了优化认知和生活的新思路。通过有意识地管理个人经典化过程和熵值变化，我们可以提高生活质量和认知清晰度，特别是在信息过载的现代社会环境中。
 
-经典熵的管理不仅关乎个人认知健康，也影响社会集体经典化的质量。理解并应用这些原理，可以帮助我们在日益复杂的世界中保持清晰的心智状态和有效的行动能力。
+经典熵的管理不仅关乎个人认知健康，也影响社会集体经典化的质量。理解并应用这些原理，可以帮助我们在日益复杂的世界中保持清晰的心智状态和有效的行动能力。 

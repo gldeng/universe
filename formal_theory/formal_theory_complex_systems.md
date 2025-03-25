@@ -35,9 +35,7 @@
 
 复杂系统展现出独特的量子-经典双重性：
 
-$$
-\mathcal{C}_{\text{复杂}} = \mathcal{Q}_{\text{结构}} \otimes \mathcal{C}_{\text{功能}}
-$$
+$$\mathcal{C}_{\text{复杂}} = \mathcal{Q}_{\text{结构}} \otimes \mathcal{C}_{\text{功能}}$$
 
 系统的量子性体现在：
 
@@ -55,9 +53,7 @@ $$
 
 复杂系统的量子-经典界面满足非线性波动方程：
 
-$$
-\frac{\partial \Psi}{\partial t} = \hat{D}\nabla^2\Psi + \hat{F}(\Psi) + \hat{\eta}(x,t)
-$$
+$$\frac{\partial \Psi}{\partial t} = \hat{D}\nabla^2\Psi + \hat{F}(\Psi) + \hat{\eta}(x,t)$$
 
 其中：
 - $`\hat{D}`$ 是扩散算符矩阵
@@ -66,9 +62,7 @@ $$
 
 界面动力学表现出特殊的标度律和相变现象：
 
-$$
-S(f) \sim f^{-\alpha}, \quad C(r) \sim r^{-\beta}
-$$
+$$S(f) \sim f^{-\alpha}, \quad C(r) \sim r^{-\beta}$$
 
 这些幂律分布是复杂系统临界状态的特征标志。
 
@@ -78,15 +72,11 @@ $$
 
 复杂系统的信息处理涉及量子-经典信息的双向转换：
 
-$$
-I_{\text{total}} = I_{\text{quantum}} + I_{\text{classical}} + I_{\text{interface}}
-$$
+$$I_{\text{total}} = I_{\text{quantum}} + I_{\text{classical}} + I_{\text{interface}}$$
 
 信息处理效率与系统的临界状态密切相关：
 
-$$
-\eta_{\text{信息}} = \frac{I_{\text{输出}}}{I_{\text{输入}}} \sim |T - T_c|^{-\gamma}
-$$
+$$\eta_{\text{信息}} = \frac{I_{\text{输出}}}{I_{\text{输入}}} \sim |T - T_c|^{-\gamma}$$
 
 临界点处信息处理效率达到最大。
 
@@ -94,9 +84,7 @@ $$
 
 复杂系统的网络结构同时具有量子和经典特性：
 
-$$
-\mathcal{N} = \{V, E, \Phi, \Psi\}
-$$
+$$\mathcal{N} = \{V, E, \Phi, \Psi\}$$
 
 其中：
 - $`V`$ 是节点集
@@ -106,15 +94,11 @@ $$
 
 网络的量子特性体现在节点间的非局域相关和涌现模式：
 
-$$
-\rho_{ij} = \text{Tr}(\rho \hat{A}_i \hat{A}_j) - \text{Tr}(\rho \hat{A}_i)\text{Tr}(\rho \hat{A}_j)
-$$
+$$\rho_{ij} = \text{Tr}(\rho \hat{A}_i \hat{A}_j) - \text{Tr}(\rho \hat{A}_i)\text{Tr}(\rho \hat{A}_j)$$
 
 网络的经典特性体现在节点间的因果流和信息传递：
 
-$$
-I(X_i; X_j) = \sum_{x_i, x_j} p(x_i, x_j) \log \frac{p(x_i, x_j)}{p(x_i)p(x_j)}
-$$
+$$I(X_i; X_j) = \sum_{x_i, x_j} p(x_i, x_j) \log \frac{p(x_i, x_j)}{p(x_i)p(x_j)}$$
 
 ## 应用领域
 
@@ -128,9 +112,7 @@ $$
 
 大脑信息处理可表示为：
 
-$$
-\Phi_{\text{脑}} = \int d\mu(s) \phi(s)
-$$
+$$\Phi_{\text{脑}} = \int d\mu(s) \phi(s)$$
 
 其中 $`\phi(s)`$ 是局部信息整合度，$`\Phi_{\text{脑}}`$ 是整体意识度量。
 
@@ -144,9 +126,7 @@ $$
 
 生态网络稳定性由量子-经典耦合程度决定：
 
-$$
-\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{网络}}}{\mathcal{Q}_{\text{网络}}}\right)
-$$
+$$\lambda_{\text{max}} = f\left(\frac{\mathcal{C}_{\text{网络}}}{\mathcal{Q}_{\text{网络}}}\right)$$
 
 其中 $`\lambda_{\text{max}}`$ 是系统最大特征值，表征网络稳定性。
 
@@ -160,9 +140,7 @@ $$
 
 社会凝聚力可表示为集体量子-经典相干性：
 
-$$
-\mathcal{C}_{\text{社会}} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right| \cdot R_{\text{交互}}
-$$
+$$\mathcal{C}_{\text{社会}} = \left|\frac{1}{N}\sum_{j=1}^N e^{i\theta_j}\right| \cdot R_{\text{交互}}$$
 
 其中 $`\theta_j`$ 表示个体相位，$`R_{\text{交互}}`$ 表示经典交互强度。
 
@@ -176,9 +154,7 @@ $$
 
 创新动力学方程反映了可能性探索与选择实现的平衡：
 
-$$
-\frac{dI}{dt} = \alpha \cdot \mathcal{Q}_{\text{探索}} - \beta \cdot \mathcal{C}_{\text{实现}} + \gamma \cdot \mathcal{I}_{\text{交叉}}
-$$
+$$\frac{dI}{dt} = \alpha \cdot \mathcal{Q}_{\text{探索}} - \beta \cdot \mathcal{C}_{\text{实现}} + \gamma \cdot \mathcal{I}_{\text{交叉}}$$
 
 ## 复杂系统度量与预测
 
@@ -186,9 +162,7 @@ $$
 
 二元复杂性可通过以下指标量化：
 
-$$
-C_{\text{二元}} = C_{\text{Q}} \cdot C_{\text{C}} \cdot I(Q;C)
-$$
+$$C_{\text{二元}} = C_{\text{Q}} \cdot C_{\text{C}} \cdot I(Q;C)$$
 
 其中：
 - $`C_{\text{Q}}`$ 是量子复杂性（可能性空间的结构化程度）
@@ -197,9 +171,7 @@ $$
 
 临界复杂性出现在相空间特定区域：
 
-$$
-C_{\text{临界}} = \max_{p,q} \{C(p,q)\}
-$$
+$$C_{\text{临界}} = \max_{p,q} \{C(p,q)\}$$
 
 其中 $`p`$ 和 $`q`$ 分别是量子不确定性和经典确定性参数。
 
@@ -214,9 +186,7 @@ $$
 
 临界指标满足标定关系：
 
-$$
-\alpha + 2\beta + \gamma = 2
-$$
+$$\alpha + 2\beta + \gamma = 2$$
 
 这提供了预测系统远离平衡转变的工具。
 
@@ -242,9 +212,7 @@ $$
 
 市场效率与二元混合程度相关：
 
-$$
-E_{\text{市场}} \propto \frac{\mathcal{Q}_{\text{创新}}}{\mathcal{C}_{\text{稳定}}+\epsilon}
-$$
+$$E_{\text{市场}} \propto \frac{\mathcal{Q}_{\text{创新}}}{\mathcal{C}_{\text{稳定}}+\epsilon}$$
 
 ### 城市系统发展模式
 
@@ -256,9 +224,7 @@ $$
 
 城市网络符合二元复杂系统的预测标度律：
 
-$$
-Y \sim N^{\beta}
-$$
+$$Y \sim N^{\beta}$$
 
 其中 $`Y`$ 是城市指标，$`N`$ 是人口规模，$`\beta`$ 是标度系数。
 
@@ -308,4 +274,4 @@ $$
 - [量子自组织理论](formal_theory_self_organization.md)
 - [界面理论](formal_theory_interface.md)
 - [观察者理论](formal_theory_observer.md)
-- [量子-经典非平衡态理论](formal_theory_nonequilibrium.md)
+- [量子-经典非平衡态理论](formal_theory_nonequilibrium.md) 

@@ -1,9 +1,9 @@
 # 孟子 (Mencius)
 
-**导航 | Navigation**
-[中文版](#孟子解析) | [English Version](#mencius-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#孟子解析) | [English Version](#mencius-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -78,4 +78,4 @@ $$
 
 《孟子》通过量子经典二元论框架（版本9.2）的解析，揭示了人性本善实质上表达的是人类观察者初始量子态的低熵优势特性。四端之心作为量子叠加态的良好起点，为高效经典化提供了先天基础。孟子强调的修养工夫，如"集义"、"养气"等，实质上是提高观察者的经典化效率系数$`(k_i)`$的有效方法。其政治思想"仁政"和"王道"则是将个体经典化扩展到社会层面，通过整体最优化降低社会系统的熵值。"大人者，不失其赤子之心"的理念体现了理想观察者应保持量子态的纯净性。整体而言，孟子的思想为观察者如何通过道德修养优化自身经典化效率，进而影响社会整体经典化水平提供了系统方法论。
 
-Mencius, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals that the innate goodness of human nature essentially expresses the low-entropy advantage characteristic of the initial quantum state of human observers. The Four Beginnings, as excellent starting points for quantum superposition states, provide an innate foundation for efficient classicalization. The cultivation practices emphasized by Mencius, such as "accumulating righteousness" and "nourishing vital energy," are actually effective methods to improve the observer's classicalization efficiency coefficient $`(k_i)`$. His political thoughts of "benevolent governance" and "kingly way" extend individual classicalization to the social level, reducing the entropy of the social system through overall optimization. The concept that "a great person does not lose their childlike heart" embodies the ideal observer's balance between the creativity of the quantum domain and the stability of the classical domain. Overall, Mencius's thought provides a systematic methodology for how observers can optimize their classicalization efficiency through moral cultivation and thereby influence the overall classicalization level of society.
+Mencius, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals that the innate goodness of human nature essentially expresses the low-entropy advantage characteristic of the initial quantum state of human observers. The Four Beginnings, as excellent starting points for quantum superposition states, provide an innate foundation for efficient classicalization. The cultivation practices emphasized by Mencius, such as "accumulating righteousness" and "nourishing vital energy," are actually effective methods to improve the observer's classicalization efficiency coefficient $`(k_i)`$. His political thoughts of "benevolent governance" and "kingly way" extend individual classicalization to the social level, reducing the entropy of the social system through overall optimization. The concept that "a great person does not lose their childlike heart" embodies the ideal observer's balance between the creativity of the quantum domain and the stability of the classical domain. Overall, Mencius's thought provides a systematic methodology for how observers can optimize their classicalization efficiency through moral cultivation and thereby influence the overall classicalization level of society. 

@@ -370,4 +370,4 @@ Based on the legal perspective, Quantum-Classical Dualism can make the following
 
 The legal perspective provides rich social dimensions and practical applications for Quantum-Classical Dualism. From jurisprudence to judicial practice, from legal subjects to legal conflicts, from legal evolution to the ultimate goals of law, multiple aspects of legal studies have profound correspondences with the core concepts of Quantum-Classical Dualism.
 
-This legal perspective not only helps to understand the application of Quantum-Classical Dualism in social systems but also provides new perspectives for legal theory and practice. Through legal bridges, Quantum-Classical Dualism can establish connections with frontier issues in legal studies, providing new approaches to these issues.
+This legal perspective not only helps to understand the application of Quantum-Classical Dualism in social systems but also provides new perspectives for legal theory and practice. Through legal bridges, Quantum-Classical Dualism can establish connections with frontier issues in legal studies, providing new approaches to these issues. 

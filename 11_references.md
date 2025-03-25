@@ -237,4 +237,4 @@ The following are references related to Quantum-Classical Dualism:
 65. [Destiny and Free Will](08_destiny_and_free_will.md). Destiny and Free Will in Quantum-Classical Dualism.
 66. [Applications and Implications](09_applications_and_implications.md). Applications and Implications of Quantum-Classical Dualism.
 67. [Framework Application](10_framework_application.md). Application of Quantum-Classical Dualism in Practical Frameworks.
-68. [Illustration Library](figures/README.md). Quantum-Classical Dualism Illustration Library.
+68. [Illustration Library](figures/README.md). Quantum-Classical Dualism Illustration Library. 

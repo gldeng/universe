@@ -23,9 +23,7 @@
 
 观察者反馈循环可表示为闭环信息流：
 
-$$
-\mathcal{O} \xrightarrow{\mathcal{C}_\mathcal{O}} S_C \xrightarrow{\mathcal{I}_S} \mathcal{O}'
-$$
+$$\mathcal{O} \xrightarrow{\mathcal{C}_\mathcal{O}} S_C \xrightarrow{\mathcal{I}_S} \mathcal{O}'$$
 
 其中：
 - $`\mathcal{O}`$ 是初始观察者状态
@@ -36,9 +34,7 @@ $$
 
 这一循环满足以下特性：
 
-$$
-\mathcal{O}' = \mathcal{O} + \Delta\mathcal{O}(S_C), \quad \Delta\mathcal{O} \propto I(S_C)
-$$
+$$\mathcal{O}' = \mathcal{O} + \Delta\mathcal{O}(S_C), \quad \Delta\mathcal{O} \propto I(S_C)$$
 
 其中 $`I(S_C)`$ 是系统经典状态所携带的信息量，$`\Delta\mathcal{O}`$ 是观察者状态的变化量。
 
@@ -46,9 +42,7 @@ $$
 
 反馈强度可通过以下参数量化：
 
-$$
-\gamma_{\text{反馈}} = \frac{\partial \mathcal{O}}{\partial S} \cdot \frac{\partial S}{\partial \mathcal{O}}
-$$
+$$\gamma_{\text{反馈}} = \frac{\partial \mathcal{O}}{\partial S} \cdot \frac{\partial S}{\partial \mathcal{O}}$$
 
 这一参数表示观察者对系统的影响与系统对观察者的影响之积，可分为三种情况：
 
@@ -70,15 +64,11 @@ $$
 
 量子测量通常描述为态投影：
 
-$$
-|\psi\rangle \xrightarrow{测量} |i\rangle, \quad P(i) = |\langle i|\psi\rangle|^2
-$$
+$$|\psi\rangle \xrightarrow{测量} |i\rangle, \quad P(i) = |\langle i|\psi\rangle|^2$$
 
 考虑观察者反馈后，测量变为动态过程：
 
-$$
-|\psi(t)\rangle \xrightarrow{测量} |\psi(t+\delta t)\rangle = \frac{(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle}{\|(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle\|}
-$$
+$$|\psi(t)\rangle \xrightarrow{测量} |\psi(t+\delta t)\rangle = \frac{(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle}{\|(1-\eta\delta t)|\psi(t)\rangle + \eta\delta t \sum_i P_i|\psi(t)\rangle\|}$$
 
 其中 $`\eta`$ 是反馈速率参数，$`P_i`$ 是投影算符。
 
@@ -88,13 +78,9 @@ $$
 
 不同观察者对同一量子系统的测量可能产生不同结果：
 
-$$
-P_{\mathcal{O}_1}(i) = |c_i|^2 \cdot \frac{f_1(|c_i|^2)}{\sum_j |c_j|^2 f_1(|c_j|^2)}
-$$
+$$P_{\mathcal{O}_1}(i) = |c_i|^2 \cdot \frac{f_1(|c_i|^2)}{\sum_j |c_j|^2 f_1(|c_j|^2)}$$
 
-$$
-P_{\mathcal{O}_2}(i) = |c_i|^2 \cdot \frac{f_2(|c_i|^2)}{\sum_j |c_j|^2 f_2(|c_j|^2)}
-$$
+$$P_{\mathcal{O}_2}(i) = |c_i|^2 \cdot \frac{f_2(|c_i|^2)}{\sum_j |c_j|^2 f_2(|c_j|^2)}$$
 
 其中 $`f_1`$ 和 $`f_2`$ 是不同观察者的测量偏好函数。
 
@@ -106,9 +92,7 @@ $$
 
 多个观察者组成的网络产生集体反馈：
 
-$$
-S(t+\Delta t) = S(t) + \sum_{i=1}^n \omega_i \mathcal{F}_i(S(t), \mathcal{O}_i(t)) \Delta t
-$$
+$$S(t+\Delta t) = S(t) + \sum_{i=1}^n \omega_i \mathcal{F}_i(S(t), \mathcal{O}_i(t)) \Delta t$$
 
 其中：
 - $`S(t)`$ 是系统状态
@@ -118,9 +102,7 @@ $$
 
 观察者之间也存在相互影响：
 
-$$
-\mathcal{O}_i(t+\Delta t) = \mathcal{O}_i(t) + \sum_{j \neq i} \alpha_{ij} (\mathcal{O}_j(t) - \mathcal{O}_i(t)) \Delta t + \beta_i \mathcal{G}_i(S(t)) \Delta t
-$$
+$$\mathcal{O}_i(t+\Delta t) = \mathcal{O}_i(t) + \sum_{j \neq i} \alpha_{ij} (\mathcal{O}_j(t) - \mathcal{O}_i(t)) \Delta t + \beta_i \mathcal{G}_i(S(t)) \Delta t$$
 
 其中 $`\alpha_{ij}`$ 是观察者间影响系数，$`\mathcal{G}_i`$ 是系统对观察者的反馈函数。
 
@@ -128,15 +110,11 @@ $$
 
 多个观察者通过反馈协同作用，产生共识现实：
 
-$$
-S_{\text{共识}} = \lim_{t \to \infty} S(t) = \frac{\sum_i \omega_i \mathcal{O}_i(0)}{\sum_i \omega_i}
-$$
+$$S_{\text{共识}} = \lim_{t \to \infty} S(t) = \frac{\sum_i \omega_i \mathcal{O}_i(0)}{\sum_i \omega_i}$$
 
 共识度量可表示为：
 
-$$
-C(t) = 1 - \frac{\sum_i \sum_j \|\mathcal{O}_i(t) - \mathcal{O}_j(t)\|^2}{n(n-1)}
-$$
+$$C(t) = 1 - \frac{\sum_i \sum_j \|\mathcal{O}_i(t) - \mathcal{O}_j(t)\|^2}{n(n-1)}$$
 
 随着时间推移，共识度 $`C(t)`$ 通常会增加，最终达到稳定值。
 
@@ -146,9 +124,7 @@ $$
 
 观察者反馈在引力层面表现为时空曲率反馈：
 
-$$
-R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = \frac{8\pi G}{c^4} \left(T_{\mu\nu} + \kappa \sum_i \mathcal{O}_i^{\mu\nu}\right)
-$$
+$$R_{\mu\nu} - \frac{1}{2}Rg_{\mu\nu} = \frac{8\pi G}{c^4} \left(T_{\mu\nu} + \kappa \sum_i \mathcal{O}_i^{\mu\nu}\right)$$
 
 其中 $`\mathcal{O}_i^{\mu\nu}`$ 是观察者信息场的能量-动量张量，$`\kappa`$ 是耦合常数。
 
@@ -158,9 +134,7 @@ $$
 
 时间的不可逆性可理解为观察者反馈的结果：
 
-$$
-\frac{dS}{dt} = \frac{dS_{系统}}{dt} + \frac{dS_{观察者}}{dt} + \frac{dS_{交互}}{dt} > 0
-$$
+$$\frac{dS}{dt} = \frac{dS_{系统}}{dt} + \frac{dS_{观察者}}{dt} + \frac{dS_{交互}}{dt} > 0$$
 
 虽然单独的系统演化可能是可逆的，但观察者与系统的相互作用必然导致总熵增加，从而产生时间箭头。
 
@@ -170,9 +144,7 @@ $$
 
 观察者反馈可以通过延迟选择机制影响量子历史：
 
-$$
-|\Psi(t_f)\rangle = \sum_{\text{路径}} e^{iS[\text{路径}]} \prod_i \langle \mathcal{O}_i | \text{路径} \rangle
-$$
+$$|\Psi(t_f)\rangle = \sum_{\text{路径}} e^{iS[\text{路径}]} \prod_i \langle \mathcal{O}_i | \text{路径} \rangle$$
 
 其中 $`\langle \mathcal{O}_i | \text{路径} \rangle`$ 表示观察者 $`\mathcal{O}_i`$ 与特定历史路径的兼容度。
 
@@ -182,9 +154,7 @@ $$
 
 观察者反馈强度与历史确定性存在权衡关系：
 
-$$
-\Delta H \cdot \Delta \mathcal{O} \geq \frac{\hbar}{2}
-$$
+$$\Delta H \cdot \Delta \mathcal{O} \geq \frac{\hbar}{2}$$
 
 其中 $`\Delta H`$ 是历史不确定性，$`\Delta \mathcal{O}`$ 是观察者状态不确定性。
 
@@ -196,15 +166,11 @@ $$
 
 观察者的意图可作为反馈控制参数：
 
-$$
-\mathcal{I} = \{目标状态, 专注度, 信念强度, 情感投入\}
-$$
+$$\mathcal{I} = \{目标状态, 专注度, 信念强度, 情感投入\}$$
 
 意图向量与系统演化的关联可表述为：
 
-$$
-\frac{d|\psi\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi\rangle + \lambda(\mathcal{I}) \sum_i f_i(\mathcal{I}) P_i |\psi\rangle
-$$
+$$\frac{d|\psi\rangle}{dt} = -\frac{i}{\hbar}\hat{H}|\psi\rangle + \lambda(\mathcal{I}) \sum_i f_i(\mathcal{I}) P_i |\psi\rangle$$
 
 其中 $`\lambda(\mathcal{I})`$ 是意图耦合强度，$`f_i(\mathcal{I})`$ 是意图调制函数，$`P_i`$ 是目标状态投影算符。
 
@@ -212,7 +178,7 @@ $$
 
 意图实现可理解为超越量子门限的观察者反馈：
 
-$$P_{\text{实现}}(\mathcal{I}) = \begin{cases}
+$$P_{\text{实现}}(\mathcal{I}) = \begin{cases} 
 0, & \text{如果 } \|\mathcal{I}\| < I_c \\
 1 - e^{-\alpha(\|\mathcal{I}\| - I_c)}, & \text{如果 } \|\mathcal{I}\| \geq I_c
 \end{cases}$$
@@ -227,33 +193,25 @@ $$P_{\text{实现}}(\mathcal{I}) = \begin{cases}
 
 观察者反馈信道的量子信息容量为：
 
-$$
-C_{\text{反馈}} = \max_{p(x)} \left[ H(X) - H(X|Y) \right]
-$$
+$$C_{\text{反馈}} = \max_{p(x)} \left[ H(X) - H(X|Y) \right]$$
 
 其中 $`X`$ 是观察者输入，$`Y`$ 是系统响应，$`H(X|Y)`$ 是条件熵。
 
 信道容量受观察者-系统耦合强度限制：
 
-$$
-C_{\text{反馈}} \leq \log_2(1 + \gamma_{\text{反馈}})
-$$
+$$C_{\text{反馈}} \leq \log_2(1 + \gamma_{\text{反馈}})$$
 
 ### 量子纠缠作为反馈放大器
 
 量子纠缠可放大观察者反馈效应：
 
-$$
-|\Psi_{纠缠反馈}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^N |o_i\rangle \otimes |s_i\rangle
-$$
+$$|\Psi_{纠缠反馈}\rangle = \frac{1}{\sqrt{N}} \sum_{i=1}^N |o_i\rangle \otimes |s_i\rangle$$
 
 其中 $`|o_i\rangle`$ 是观察者状态基矢，$`|s_i\rangle`$ 是系统状态基矢。
 
 纠缠反馈强度与纠缠度成正比：
 
-$$
-\gamma_{\text{纠缠反馈}} = \gamma_{\text{反馈}} \cdot E(|\Psi_{纠缠反馈}\rangle)
-$$
+$$\gamma_{\text{纠缠反馈}} = \gamma_{\text{反馈}} \cdot E(|\Psi_{纠缠反馈}\rangle)$$
 
 其中 $`E(|\Psi_{纠缠反馈}\rangle)`$ 是纠缠度量。
 
@@ -292,9 +250,7 @@ $$
 
 观察者反馈为自由意志提供量子基础：
 
-$$
-\Delta A = \eta_{\mathcal{O}} \cdot \mathcal{I}_{\mathcal{O}} \cdot \delta q
-$$
+$$\Delta A = \eta_{\mathcal{O}} \cdot \mathcal{I}_{\mathcal{O}} \cdot \delta q$$
 
 其中 $`\Delta A`$ 是行动偏差，$`\eta_{\mathcal{O}}`$ 是观察者效能，$`\mathcal{I}_{\mathcal{O}}`$ 是意图强度，$`\delta q`$ 是量子不确定性。
 
@@ -320,4 +276,4 @@ $$
 - [量子域详解](formal_theory_quantum_domain.md)
 - [经典域详解](formal_theory_classical_domain.md)
 - [高维观察者网络](formal_theory_observer_network.md)
-- [观察者反馈理论 (本文件)](formal_theory_observer_feedback.md)
+- [观察者反馈理论 (本文件)](formal_theory_observer_feedback.md) 

@@ -1,10 +1,10 @@
 # 宇宙本质与观察者维度提升
 # Universe Essence and Observer Dimension Elevation
 
-**导航 | Navigation**
-[中文版](#摘要--abstract) | [English Version](#摘要--abstract)
-**章节链接 | Section Links**
-中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [宇宙本质](#二宇宙本质高维引导低维的维度提升过程--universe-essence-the-process-of-high-dimensions-guiding-low-dimensions-in-dimension-elevation)
+**导航 | Navigation**  
+[中文版](#摘要--abstract) | [English Version](#摘要--abstract)  
+**章节链接 | Section Links**  
+中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [宇宙本质](#二宇宙本质高维引导低维的维度提升过程--universe-essence-the-process-of-high-dimensions-guiding-low-dimensions-in-dimension-elevation)  
 English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Universe Essence](#二宇宙本质高维引导低维的维度提升过程--universe-essence-the-process-of-high-dimensions-guiding-low-dimensions-in-dimension-elevation)
 
 ## 摘要 | Abstract

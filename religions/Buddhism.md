@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#佛教概述-buddhism-overview) | [English Version](#佛教概述-buddhism-overview)
-**章节链接 | Section Links**
-中文：[佛教概述](#佛教概述-buddhism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [量子域与经典域对应](#1-量子域与经典域的对应关系-correspondence-between-quantum-and-classical-domains) | [轮回与经典化过程](#2-轮回与经典化过程-samsara-and-the-classicalization-process)
+**导航 | Navigation**  
+[中文版](#佛教概述-buddhism-overview) | [English Version](#佛教概述-buddhism-overview)  
+**章节链接 | Section Links**  
+中文：[佛教概述](#佛教概述-buddhism-overview) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-explanation) | [量子域与经典域对应](#1-量子域与经典域的对应关系-correspondence-between-quantum-and-classical-domains) | [轮回与经典化过程](#2-轮回与经典化过程-samsara-and-the-classicalization-process)  
 English: [Buddhism Overview](#佛教概述-buddhism-overview) | [Quantum-Classical Explanation](#量子经典二元论解释-quantum-classical-dualism-explanation) | [Quantum & Classical Correspondence](#1-量子域与经典域的对应关系-correspondence-between-quantum-and-classical-domains) | [Samsara & Classicalization](#2-轮回与经典化过程-samsara-and-the-classicalization-process)
 
 ## 佛教概述 (Buddhism Overview)
@@ -78,4 +78,4 @@ Quantum-Classical Dualism provides a modern interpretative framework for Buddhis
 | 业力 (Karma) | 经典化路径惯性 (Classicalization Path Inertia) |
 | 涅槃 (Nirvana) | 高维观察者状态 (High-dimensional Observer State) |
 | 佛陀 (Buddha) | 极高维观察者 (Extremely High-dimensional Observer) |
-| 修行 (Practice) | 经典化效率提升 (Classicalization Efficiency Enhancement) |
+| 修行 (Practice) | 经典化效率提升 (Classicalization Efficiency Enhancement) | 

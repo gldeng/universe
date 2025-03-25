@@ -51,4 +51,4 @@ From the quantum-classical dualism framework perspective, quantum cryptography d
 1. **Information Duality**: The conversion and protection between quantum and classical information
 2. **Observer Effect**: Measurement causes quantum state collapse, producing classical information
 3. **Interface Security**: Protecting the quantum→classical conversion process is a core challenge
-4. **Multi-Dimensional Protection**: Utilizing the principle that observers of different dimensions can only access partial information
+4. **Multi-Dimensional Protection**: Utilizing the principle that observers of different dimensions can only access partial information 

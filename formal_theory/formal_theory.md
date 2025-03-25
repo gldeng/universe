@@ -3,7 +3,7 @@
 **[English Version](../formal_theory_core_en.md) | 中文版**
 
 > 本理论基于[核心理论](../core.md) v33.0版本
->
+> 
 > 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述形式化描述](../formal_theory_core.md)
 >
 > 本文档中所有理论已按照维度从高到低排序，以便更好地理解其在量子-经典连续体中的定位
@@ -12,49 +12,41 @@
 
 [量子经典二元论核心理论形式化描述](../formal_theory_core.md)中完整描述了二元论的基础公理体系、概念框架和核心分支理论。本文仅提供核心理论的简要概述，详细内容请参阅核心理论文档。
 
+
 ### 基本定义与公理
 
 #### 简化核心公理体系
 
 量子经典二元论可简化为四条核心公理：
 
-**公理1: 二元存在性**
+**公理1: 二元存在性**  
 宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
 
-$$
-\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}
-$$
+$$\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}$$
 
-**公理2: 信息守恒**
+**公理2: 信息守恒**  
 信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
 
-$$
-I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}
-$$
+$$I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}$$
 
 其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
 
-**公理3: 观察者经典化**
+**公理3: 观察者经典化**  
 观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
 
-$$
-\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+$$\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
 其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
 
-**公理4: 维度涌现**
+**公理4: 维度涌现**  
 观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
 
-$$
-D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}
-$$
+$$D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}$$
 
-$$
-\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}
-$$
+$$\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}$$
 
 这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
+
 
 量子经典二元论建立在四条核心公理基础上：**二元存在性**、**信息守恒**、**观察者经典化**和**维度涌现**。这些公理描述了量子域和经典域的基本属性、相互关系以及观察者在两域间转换中的关键作用。
 
@@ -104,6 +96,7 @@ $$
 - **[经典域详解](formal_theory_classical_domain.md)** (v19.0, D7) - 阐述经典域的确定性结构与信息组织，包括经典知识结构、确定性、局域性及经典信息理论。经典域作为确定现实的空间，构成二元论框架的另一端。
 - **[数学附录](formal_theory_mathematical_appendix.md)** (v20.0, D7-D9) - 提供量子经典二元论所需的数学工具和技术，包括高级函数空间、非线性动力学和信息几何等内容。
 - **[实验预测](formal_theory_experimental.md)** (v22.0, D7) - 列出量子经典二元论提出的可实验验证预测，包括界面波动、临界尺度和观察者分辨率等可测量现象。
+
 
 ### 高维哲学与形而上学 (维度: D20-D42)
 

@@ -1,9 +1,9 @@
 # 数学本质解释 (Mathematics Nature Explanations)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[数学的量子经典二元论解释](#数学的量子经典二元论解释) | [数学的本质](#数学的本质) | [数学的创造与发现](#数学的创造与发现) | [数学的普适性](#数学的普适性)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[数学的量子经典二元论解释](#数学的量子经典二元论解释) | [数学的本质](#数学的本质) | [数学的创造与发现](#数学的创造与发现) | [数学的普适性](#数学的普适性)  
 English: [Quantum-Classical Explanation of Mathematics](#english-version) | [Nature of Mathematics](#english-version) | [Creation vs Discovery of Mathematics](#english-version) | [Universality of Mathematics](#english-version)
 
 ## 中文版
@@ -34,7 +34,7 @@ $$
    - 数学提供了经典化的形式语言和操作规则
    - 数学使观察者能够以极低的经典熵处理复杂的量子信息
    - 可表达为：
-
+   
 $$
 \text{数学经典化效率} \propto \frac{\text{经典化信息量}}{\text{经典熵}}
 $$
@@ -139,7 +139,7 @@ $$
    - Mathematics provides a formal language and operational rules for classicalization
    - Mathematics enables observers to process complex quantum information with extremely low classical entropy
    - Can be expressed as:
-
+   
 $$
 \text{Mathematical Classicalization Efficiency} \propto \frac{\text{Amount of Classicalized Information}}{\text{Classical Entropy}}
 $$
@@ -214,4 +214,4 @@ The historical evolution of mathematics can be understood as the development of 
 
 ### Relationship with Higher-Dimensional Information Classicalization
 
-Mathematics is a core tool and special case of Higher-Dimensional Information Classicalization, being both a product of classicalization and a tool for classicalization. Mathematics may be the most precise, lowest-entropy higher-dimensional information classicalization system developed by humans, through which observers can process extremely complex quantum information with extremely low classical entropy.
+Mathematics is a core tool and special case of Higher-Dimensional Information Classicalization, being both a product of classicalization and a tool for classicalization. Mathematics may be the most precise, lowest-entropy higher-dimensional information classicalization system developed by humans, through which observers can process extremely complex quantum information with extremely low classical entropy. 

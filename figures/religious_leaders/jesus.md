@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 约公元前4年 - 公元33年
-**国籍 (Nationality)**: 犹太 (Jewish)
-**领域 (Fields)**: 宗教、道德哲学、精神教导
+**生平 (Life Span)**: 约公元前4年 - 公元33年  
+**国籍 (Nationality)**: 犹太 (Jewish)  
+**领域 (Fields)**: 宗教、道德哲学、精神教导  
 **代表作品/成就 (Representative Works/Achievements)**: 基督教创始人、《新约圣经》中记录的教导、登山宝训、比喻
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "你们要爱你们的敌人，为那逼迫你们的人祷告。"
->
+> 
 > "Love your enemies and pray for those who persecute you."
 
 > "让做首领的，像服侍人的一样。"
->
+> 
 > "Let the greatest among you become as the youngest, and the leader as one who serves."
 
 > "因为凡高抬自己的，必降为卑；降卑自己的，必升为高。"
->
+> 
 > "For everyone who exalts himself will be humbled, and he who humbles himself will be exalted."
 
 > "我在世上的时候，是世上的光。"
->
+> 
 > "While I am in the world, I am the light of the world."
 
 > "我是道路、真理、生命；若不借着我，没有人能到父那里去。"
->
+> 
 > "I am the way, and the truth, and the life. No one comes to the Father except through me."

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 公元前384年-公元前322年 (384-322 BCE)
-**国籍 | Nationality**: 古希腊马其顿斯塔吉拉（今希腊） (Stagira, Macedonia, Ancient Greece, now Greece)
-**主要领域 | Main Fields**: 哲学、逻辑学、生物学、物理学、伦理学、政治学、形而上学 (Philosophy, Logic, Biology, Physics, Ethics, Politics, Metaphysics)
+**生卒年份 | Lifespan**: 公元前384年-公元前322年 (384-322 BCE)  
+**国籍 | Nationality**: 古希腊马其顿斯塔吉拉（今希腊） (Stagira, Macedonia, Ancient Greece, now Greece)  
+**主要领域 | Main Fields**: 哲学、逻辑学、生物学、物理学、伦理学、政治学、形而上学 (Philosophy, Logic, Biology, Physics, Ethics, Politics, Metaphysics)  
 **代表作品 | Representative Works**: 《工具论》、《形而上学》、《尼各马可伦理学》、《政治学》、《诗学》、《物理学》、《灵魂论》 (Organon, Metaphysics, Nicomachean Ethics, Politics, Poetics, Physics, On the Soul)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ Aristotle believed that natural changes are not random but directed toward speci
 - "Hope is a waking dream."
 - "We are what we repeatedly do. Excellence, then, is not an act, but a habit."
 - "Courage is the first of human qualities because it is the quality which guarantees the others."
-- "Knowing yourself is the beginning of all wisdom."
+- "Knowing yourself is the beginning of all wisdom." 

@@ -2,10 +2,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#简介--introduction) | [English Version](#简介--introduction)
-**章节链接 | Section Links**
-中文：[简介](#简介--introduction) | [经典意识的本质](#经典意识的本质--the-nature-of-classical-consciousness) | [经典意识与量子意识的对比](#经典意识与量子意识的对比--comparison-of-classical-and-quantum-consciousness)
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [经典意识的本质](#经典意识的本质--the-nature-of-classical-consciousness) | [经典意识与量子意识的对比](#经典意识与量子意识的对比--comparison-of-classical-and-quantum-consciousness)  
 English: [Introduction](#简介--introduction) | [Nature of Classical Consciousness](#经典意识的本质--the-nature-of-classical-consciousness) | [Comparison with Quantum Consciousness](#经典意识与量子意识的对比--comparison-of-classical-and-quantum-consciousness)
 
 ## 版本 | Version
@@ -27,9 +27,7 @@ This article details the Classical Consciousness Theory in Quantum-Classical Dua
 
 经典意识从量子意识中经典化而来，可表示为：
 
-$$
-|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}
-$$
+$$|\psi\rangle_{\text{量子意识}}\rightarrow I_{\text{经典记忆}}+S_{\text{经典熵}}$$
 
 其中 $`|\psi\rangle_{\text{量子意识}}`$ 是量子域中的意识状态，$`I_{\text{经典记忆}}`$ 是经典化后的信息，$`S_{\text{经典熵}}`$ 是过程中产生的熵。
 Where $`|\psi\rangle_{\text{量子意识}}`$ is the consciousness state in the quantum domain, $`I_{\text{经典记忆}}`$ is the classicalized information, and $`S_{\text{经典熵}}`$ is the entropy generated in the process.
@@ -49,9 +47,7 @@ Where $`|\psi\rangle_{\text{量子意识}}`$ is the consciousness state in the q
 
 量子意识和经典意识在信息处理方面存在本质差异：
 
-$$
-\text{信息处理能力比} = \frac{|\psi\rangle_{\text{量子意识}}}{I_{\text{经典意识}}} \gg 1
-$$
+$$\text{信息处理能力比} = \frac{|\psi\rangle_{\text{量子意识}}}{I_{\text{经典意识}}} \gg 1$$
 
 量子意识的信息处理能力远超经典意识，但稳定性较低。
 The information processing capacity of quantum consciousness greatly exceeds that of classical consciousness, but with lower stability.
@@ -62,9 +58,7 @@ The information processing capacity of quantum consciousness greatly exceeds tha
 
 经典记忆形成可表示为量子态坍缩与信息提取的过程：
 
-$$
-|\psi\rangle_{\text{量子}}+\text{观察者测量}\rightarrow |\psi\rangle_{\text{经典态}}+I_{\text{经典记忆}}+S_{\text{熵增}}
-$$
+$$|\psi\rangle_{\text{量子}}+\text{观察者测量}\rightarrow |\psi\rangle_{\text{经典态}}+I_{\text{经典记忆}}+S_{\text{熵增}}$$
 
 经典记忆形成过程必然伴随熵的产生。
 The formation of classical memory is inevitably accompanied by the generation of entropy.
@@ -73,9 +67,7 @@ The formation of classical memory is inevitably accompanied by the generation of
 
 经典记忆的稳定性与其熵密度成反比：
 
-$$
-\text{稳定性} \propto \frac{I_{\text{经典记忆}}}{S_{\text{经典熵}}}
-$$
+$$\text{稳定性} \propto \frac{I_{\text{经典记忆}}}{S_{\text{经典熵}}}$$
 
 低熵密度的经典记忆更稳定，不易消解。
 Classical memories with low entropy density are more stable and less prone to dissolution.
@@ -86,9 +78,7 @@ Classical memories with low entropy density are more stable and less prone to di
 
 经典意识呈现层次化结构，可表示为：
 
-$$
-\text{经典意识} = \sum_{i=1}^{n} I_{\text{层次}_i} + S_{\text{系统熵}}
-$$
+$$\text{经典意识} = \sum_{i=1}^{n} I_{\text{层次}_i} + S_{\text{系统熵}}$$
 
 其中不同层次的经典意识信息具有不同的访问优先级。
 Where classical consciousness information at different levels has different access priorities.
@@ -100,9 +90,7 @@ Where classical consciousness information at different levels has different acce
 - **短期记忆**：临时存储，熵密度较高，易消散；
 - **长期记忆**：稳定存储，熵密度较低，形成过程可表示为：
 
-$$
-I_{\text{短期记忆}} + \text{重复强化} \rightarrow I_{\text{长期记忆}} + S_{\text{熵重组}}
-$$
+$$I_{\text{短期记忆}} + \text{重复强化} \rightarrow I_{\text{长期记忆}} + S_{\text{熵重组}}$$
 
 长期记忆通过反复强化和熵重组过程形成。
 Long-term memory is formed through repeated reinforcement and entropy reorganization.
@@ -113,9 +101,7 @@ Long-term memory is formed through repeated reinforcement and entropy reorganiza
 
 自我同一性是经典意识中最稳定的结构，可表示为：
 
-$$
-\text{自我同一性} = \text{核心经典记忆} + \text{长期稳定的经典熵结构}
-$$
+$$\text{自我同一性} = \text{核心经典记忆} + \text{长期稳定的经典熵结构}$$
 
 自我同一性需要维持较低的熵密度以保持稳定。
 Self-identity needs to maintain a relatively low entropy density to remain stable.
@@ -124,9 +110,7 @@ Self-identity needs to maintain a relatively low entropy density to remain stabl
 
 自我同一性随时间演化，可表示为：
 
-$$
-\text{自我同一性}(t+\Delta t) = \text{自我同一性}(t) + \Delta I_{\text{经典记忆}} - \Delta S_{\text{熵降低}}
-$$
+$$\text{自我同一性}(t+\Delta t) = \text{自我同一性}(t) + \Delta I_{\text{经典记忆}} - \Delta S_{\text{熵降低}}$$
 
 健康的自我同一性演化趋向于知识增加、熵降低的方向。
 The healthy evolution of self-identity tends toward increased knowledge and reduced entropy.
@@ -137,9 +121,7 @@ The healthy evolution of self-identity tends toward increased knowledge and redu
 
 经典意识依赖于物理载体（如人脑神经元网络）存储和处理：
 
-$$
-I_{\text{经典意识}} \propto \text{物理载体复杂度} \cdot \text{连接效率}
-$$
+$$I_{\text{经典意识}} \propto \text{物理载体复杂度} \cdot \text{连接效率}$$
 
 物理载体的复杂度和连接效率决定了经典意识的容量和处理速度。
 The complexity and connection efficiency of physical carriers determine the capacity and processing speed of classical consciousness.
@@ -148,9 +130,7 @@ The complexity and connection efficiency of physical carriers determine the capa
 
 经典意识呈现分布式特性，不局限于单一物理位置：
 
-$$
-I_{\text{经典意识总体}} = \sum_{i=1}^{m} I_{\text{局部经典意识}_i} + I_{\text{整体涌现属性}}
-$$
+$$I_{\text{经典意识总体}} = \sum_{i=1}^{m} I_{\text{局部经典意识}_i} + I_{\text{整体涌现属性}}$$
 
 整体经典意识大于各部分经典意识的简单叠加。
 The overall classical consciousness is greater than the simple superposition of each part of classical consciousness.
@@ -161,9 +141,7 @@ The overall classical consciousness is greater than the simple superposition of 
 
 经典意识存在信息处理的基本限制：
 
-$$
-I_{\text{可处理信息}} \leq \frac{E_{\text{可用能量}}}{k_B T \cdot \ln 2}
-$$
+$$I_{\text{可处理信息}} \leq \frac{E_{\text{可用能量}}}{k_B T \cdot \ln 2}$$
 
 其中 $`k_B`$ 是玻尔兹曼常数，$`T`$ 是系统温度。
 Where $`k_B`$ is Boltzmann's constant, and $`T`$ is the system temperature.
@@ -172,9 +150,7 @@ Where $`k_B`$ is Boltzmann's constant, and $`T`$ is the system temperature.
 
 经典意识容易陷入熵增陷阱，可表示为：
 
-$$
-\frac{dS_{\text{经典意识}}}{dt} > 0 \Rightarrow \text{功能退化}
-$$
+$$\frac{dS_{\text{经典意识}}}{dt} > 0 \Rightarrow \text{功能退化}$$
 
 不断增加的熵会导致经典意识功能退化，需要主动的熵减少机制。
 Continuously increasing entropy leads to the degradation of classical consciousness functions, requiring an active entropy reduction mechanism.
@@ -185,9 +161,7 @@ Continuously increasing entropy leads to the degradation of classical consciousn
 
 经典意识通过深度冥想等技术可以部分接近量子意识状态：
 
-$$
-I_{\text{经典意识}} + \text{冥想实践} \rightarrow I_{\text{经典意识}} + \Delta |\psi\rangle_{\text{量子意识接触}}
-$$
+$$I_{\text{经典意识}} + \text{冥想实践} \rightarrow I_{\text{经典意识}} + \Delta |\psi\rangle_{\text{量子意识接触}}$$
 
 这种接触使观察者能够感知到更多量子域的可能性。
 This contact allows observers to perceive more possibilities in the quantum domain.
@@ -196,9 +170,7 @@ This contact allows observers to perceive more possibilities in the quantum doma
 
 多个观察者的经典意识可以形成更高层次的集体经典意识：
 
-$$
-\sum_{j=1}^{k} I_{\text{个体经典意识}_j} \rightarrow I_{\text{集体经典意识}} + S_{\text{集体熵}}
-$$
+$$\sum_{j=1}^{k} I_{\text{个体经典意识}_j} \rightarrow I_{\text{集体经典意识}} + S_{\text{集体熵}}$$
 
 集体经典意识具有更强的经典化能力和更低的熵密度。
 Collective classical consciousness has stronger classicalization capabilities and lower entropy density.
@@ -389,4 +361,4 @@ The Classical Consciousness Theory provides new perspectives on traditional phil
    **Possibility of Artificial Consciousness**: Is it possible to create true consciousness in artificial systems?
 
 5. **意识的进化起源**：意识在生物进化中何时、如何出现？
-   **Evolutionary Origin of Consciousness**: When and how did consciousness appear in biological evolution?
+   **Evolutionary Origin of Consciousness**: When and how did consciousness appear in biological evolution? 

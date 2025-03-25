@@ -1,9 +1,9 @@
 # 伊斯兰教经典文献 (Islamic Scriptures)
 
-**导航 | Navigation**
-[中文版](#伊斯兰教经典列表-list-of-islamic-scriptures) | [English Version](#伊斯兰教经典列表-list-of-islamic-scriptures)
-**章节链接 | Section Links**
-中文：[伊斯兰教经典列表](#伊斯兰教经典列表-list-of-islamic-scriptures) | [经典分类](#经典分类-scripture-classifications)
+**导航 | Navigation**  
+[中文版](#伊斯兰教经典列表-list-of-islamic-scriptures) | [English Version](#伊斯兰教经典列表-list-of-islamic-scriptures)  
+**章节链接 | Section Links**  
+中文：[伊斯兰教经典列表](#伊斯兰教经典列表-list-of-islamic-scriptures) | [经典分类](#经典分类-scripture-classifications)  
 English: [Islamic Scriptures List](#伊斯兰教经典列表-list-of-islamic-scriptures) | [Scripture Classifications](#经典分类-scripture-classifications)
 
 ## 伊斯兰教经典列表 (List of Islamic Scriptures)
@@ -74,4 +74,4 @@ Islamic scriptures are traditionally classified into the following categories, e
 
 - 这些解释尊重伊斯兰教传统，同时提供现代科学视角
 - 重点展示伊斯兰教义与量子物理学的深层联系
-- 保持对原文的准确理解和尊重
+- 保持对原文的准确理解和尊重 

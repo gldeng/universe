@@ -3,10 +3,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本9.2）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[虫洞与量子纠缠的本质](#虫洞与量子纠缠的本质) | [ER=EPR对应关系](#ereppeprdavis公式诠释) | [虫洞通信能量守恒](#虫洞通信能量守恒)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[虫洞与量子纠缠的本质](#虫洞与量子纠缠的本质) | [ER=EPR对应关系](#ereppeprdavis公式诠释) | [虫洞通信能量守恒](#虫洞通信能量守恒)  
 English: [Essence of Wormholes and Quantum Entanglement](#english-version) | [ER=EPR Correspondence](#english-version) | [Wormhole Communication Energy Conservation](#english-version)
 
 ## 中文版
@@ -345,4 +345,4 @@ This framework clearly indicates:
 - Wormholes connect regions that are distant in classical space, embodying the non-locality of the universe;
 - Wormholes are an important component of the universe's quantum information network and may play a key role in universal information transfer.
 
-From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, wormholes are no longer singular spacetime structures, but naturally existing information channels in the quantum universe, connecting different parts of the universe and making the universe a highly connected quantum information network.
+From the perspective of Quantum Universe Observer Consciousness - Classical Memory and Entropy Theory, wormholes are no longer singular spacetime structures, but naturally existing information channels in the quantum universe, connecting different parts of the universe and making the universe a highly connected quantum information network. 

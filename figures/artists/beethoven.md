@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1770年12月16日 - 1827年3月26日
-**国籍 (Nationality)**: 德国 (German)
-**领域 (Fields)**: 音乐、作曲、钢琴演奏
+**生平 (Life Span)**: 1770年12月16日 - 1827年3月26日  
+**国籍 (Nationality)**: 德国 (German)  
+**领域 (Fields)**: 音乐、作曲、钢琴演奏  
 **代表作品 (Representative Works)**: 九部交响曲(特别是第三"英雄"、第五"命运"和第九"合唱")、32首钢琴奏鸣曲、16首弦乐四重奏、《费德里奥》歌剧、《月光奏鸣曲》、《热情奏鸣曲》
 
 ## 核心思想 (Core Ideas)
@@ -152,25 +152,25 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "音乐应当使人的精神迸发火花。"
->
+> 
 > "Music should strike fire from the heart of man."
 
 > "我要扼住命运的咽喉，它休想使我完全屈服。"
->
+> 
 > "I will seize fate by the throat; it shall certainly not bend and crush me completely."
 
 > "对一个真正的艺术家而言，没有什么比他的艺术更为崇高。"
->
+> 
 > "For an artist, nothing is higher than his art."
 
 > "王侯将相也是人，而且人间能有几个贝多芬。"
->
+> 
 > "Princes are mere men, and the artist is above them."
 
 > "音乐是比一切智慧、一切哲学更高的启示。"
->
+> 
 > "Music is a higher revelation than all wisdom and philosophy."
 
 > "爱，唯独爱，能给你一个幸福的生活。"
->
-> "Love, and love alone, is capable of giving you a happier life."
+> 
+> "Love, and love alone, is capable of giving you a happier life." 

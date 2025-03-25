@@ -188,15 +188,11 @@ This ensures that $`\mathcal{C}(|\psi\rangle) = \{p_i\}_{i=1}^n`$ is a valid pro
 
 **引理2**: 对任意量子态 $`|\psi\rangle`$，存在互补信息量 $`I_{\text{hidden}}(|\psi\rangle)`$ 使得:
 
-$$
-I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-$$
+$$I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)$$
 
 **Lemma 2**: For any quantum state $`|\psi\rangle`$, there exists a complementary information quantity $`I_{\text{hidden}}(|\psi\rangle)`$ such that:
 
-$$
-I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-$$
+$$I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)$$
 
 **证明**:
 设 $`\rho = |\psi\rangle\langle\psi|`$ 是纯态密度矩阵，其经典化结果为 $`\mathcal{C}(\rho) = \{p_i\}_{i=1}^n`$。
@@ -231,9 +227,7 @@ i.e., $`I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi
 **定理证明**:
 对任意量子态 $`|\psi\rangle`$，根据引理2，我们有:
 
-$$
-I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-$$
+$$I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)$$
 
 定义总信息量 $`I_{\text{total}}(|\psi\rangle) = I(|\psi\rangle)`$。
 
@@ -248,9 +242,7 @@ $$
 **Theorem Proof**:
 For any quantum state $`|\psi\rangle`$, according to Lemma 2, we have:
 
-$$
-I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)
-$$
+$$I(|\psi\rangle) = I(\mathcal{C}(|\psi\rangle)) + I_{\text{hidden}}(|\psi\rangle)$$
 
 Define the total information as $`I_{\text{total}}(|\psi\rangle) = I(|\psi\rangle)`$.
 
@@ -272,44 +264,26 @@ This completes the ZFC-compatible formal proof of the information conservation p
 设 $`\mu_1 = \mathcal{C}(|\psi_1\rangle)`$ 和 $`\mu_2 = \mathcal{C}(|\psi_2\rangle)`$ 是两个量子态经典化后的概率分布。
 
 根据信息守恒原理，我们有:
-
-$$
-I(|\psi_1\rangle) = I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle)
-$$
-
-$$
-I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-$$
+$$I(|\psi_1\rangle) = I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle)$$
+$$I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)$$
 
 定义最优传输映射 $`T: \text{supp}(\mu_1) \to \text{supp}(\mu_2)`$ 满足 $`T_{\#}\mu_1 = \mu_2`$。
 
 最优传输成本为:
-
-$$
-C(T) = \int_X c(x, T(x)) d\mu_1(x)
-$$
+$$C(T) = \int_X c(x, T(x)) d\mu_1(x)$$
 
 我们证明 $`C(T)`$ 受信息守恒约束:
 
 引入Lagrangian:
-
-$$
-\mathcal{L}(T, \lambda) = C(T) + \lambda(I(\mu_1) - I(T_{\#}\mu_1))
-$$
+$$\mathcal{L}(T, \lambda) = C(T) + \lambda(I(\mu_1) - I(T_{\#}\mu_1))$$
 
 由于 $`T_{\#}\mu_1 = \mu_2`$，且根据信息守恒:
-
-$$
-I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle) = I(|\psi_1\rangle) = I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-$$
+$$I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle) = I(|\psi_1\rangle) = I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)$$
 
 这意味着 $`I(\mu_1) - I(\mu_2) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)`$。
 
 因此，最优传输问题等价于在信息守恒约束下最小化传输成本:
-
-$$
-\min_{T: T_{\#}\mu_1 = \mu_2} C(T) \quad \text{s.t.} \quad I(\mu_1) - I(T_{\#}\mu_1) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)
-$$
+$$\min_{T: T_{\#}\mu_1 = \mu_2} C(T) \quad \text{s.t.} \quad I(\mu_1) - I(T_{\#}\mu_1) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)$$
 
 这证明了最优传输问题可解释为在保持信息守恒约束下最小化量子-经典转换成本的过程。■
 
@@ -317,44 +291,26 @@ $$
 Let $`\mu_1 = \mathcal{C}(|\psi_1\rangle)`$ and $`\mu_2 = \mathcal{C}(|\psi_2\rangle)`$ be probability distributions after classicalizing two quantum states.
 
 According to the information conservation principle, we have:
-
-$$
-I(|\psi_1\rangle) = I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle)
-$$
-
-$$
-I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-$$
+$$I(|\psi_1\rangle) = I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle)$$
+$$I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)$$
 
 Define the optimal transport map $`T: \text{supp}(\mu_1) \to \text{supp}(\mu_2)`$ satisfying $`T_{\#}\mu_1 = \mu_2`$.
 
 The optimal transport cost is:
-
-$$
-C(T) = \int_X c(x, T(x)) d\mu_1(x)
-$$
+$$C(T) = \int_X c(x, T(x)) d\mu_1(x)$$
 
 We prove that $`C(T)`$ is constrained by information conservation:
 
 Introduce the Lagrangian:
-
-$$
-\mathcal{L}(T, \lambda) = C(T) + \lambda(I(\mu_1) - I(T_{\#}\mu_1))
-$$
+$$\mathcal{L}(T, \lambda) = C(T) + \lambda(I(\mu_1) - I(T_{\#}\mu_1))$$
 
 Since $`T_{\#}\mu_1 = \mu_2`$, and according to information conservation:
-
-$$
-I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle) = I(|\psi_1\rangle) = I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)
-$$
+$$I(\mu_1) + I_{\text{hidden}}(|\psi_1\rangle) = I(|\psi_1\rangle) = I(|\psi_2\rangle) = I(\mu_2) + I_{\text{hidden}}(|\psi_2\rangle)$$
 
 This implies $`I(\mu_1) - I(\mu_2) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)`$.
 
 Therefore, the optimal transport problem is equivalent to minimizing transport costs under information conservation constraints:
-
-$$
-\min_{T: T_{\#}\mu_1 = \mu_2} C(T) \quad \text{s.t.} \quad I(\mu_1) - I(T_{\#}\mu_1) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)
-$$
+$$\min_{T: T_{\#}\mu_1 = \mu_2} C(T) \quad \text{s.t.} \quad I(\mu_1) - I(T_{\#}\mu_1) = I_{\text{hidden}}(|\psi_2\rangle) - I_{\text{hidden}}(|\psi_1\rangle)$$
 
 This proves that the optimal transport problem can be interpreted as the process of minimizing quantum-classical transformation costs under the constraint of information conservation. ■
 
@@ -363,8 +319,8 @@ This proves that the optimal transport problem can be interpreted as the process
 1. Villani, C. (2009). Optimal transport: old and new. Springer Science & Business Media.
 2. Ambrosio, L., Gigli, N., & Savaré, G. (2008). Gradient flows in metric spaces and in the space of probability measures. Springer.
 3. Cuturi, M. (2013). Sinkhorn distances: Lightspeed computation of optimal transport. Advances in neural information processing systems, 26.
-4. 量子经典二元论核心理论文献 [29.0].
+4. 量子经典二元论核心理论文献 [29.0]. 
 5. Nielsen, M. A., & Chuang, I. L. (2010). Quantum computation and quantum information. Cambridge University Press.
 6. Carlen, E. (2010). Trace inequalities and quantum entropy: an introductory course. Entropy and the quantum, 529, 73-140.
 7. Holevo, A. S. (2001). Statistical structure of quantum theory. Springer.
-8. Ohya, M., & Petz, D. (2004). Quantum entropy and its use. Springer.
+8. Ohya, M., & Petz, D. (2004). Quantum entropy and its use. Springer. 

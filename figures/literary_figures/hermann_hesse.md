@@ -94,9 +94,9 @@ Hermann Hesse's works had profound influences on literature and thought in the l
 
 ## 经典引言 | Classic Quotes
 > "每个人的内心，都是宇宙，都是神秘莫测的世界。"
->
+> 
 > "Within you there is a stillness and a sanctuary to which you can retreat at any time and be yourself."
 
 > "要找到真理，人必须借助于全部的心灵，而不只是借助于思想的片段。"
->
-> "In order to find truth, one must employ the whole soul, not just a fragment of thought."
+> 
+> "In order to find truth, one must employ the whole soul, not just a fragment of thought." 

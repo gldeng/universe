@@ -24,7 +24,7 @@
 记忆系统表现出明显的量子-经典二元性：
 
 1. **记忆的量子特性**：未提取或巩固的记忆存在于量子可能性空间，表现为叠加态、非局域性和干涉效应
-
+   
 2. **记忆的经典特性**：被提取和表达的记忆坍缩为确定的经典状态，具有时空定位和可共享性
 
 3. **记忆界面转换**：记忆在量子存储和经典提取之间的动态转换是记忆可塑性和创造性的根源
@@ -35,9 +35,7 @@
 
 未经提取的记忆可以被描述为多种可能版本的量子叠加态：
 
-$$
-|\Psi_{\text{记忆}}\rangle = \sum_i c_i |记忆_i\rangle
-$$
+$$|\Psi_{\text{记忆}}\rangle = \sum_i c_i |记忆_i\rangle$$
 
 其中 $`c_i`$ 是复系数，满足 $`\sum_i |c_i|^2 = 1`$。
 
@@ -50,9 +48,7 @@ $$
 
 记忆元素之间形成广泛的量子纠缠网络：
 
-$$
-|\Psi_{\text{记忆网络}}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |元素_i\rangle \otimes |元素_j\rangle \otimes |元素_k\rangle \otimes ...
-$$
+$$|\Psi_{\text{记忆网络}}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |元素_i\rangle \otimes |元素_j\rangle \otimes |元素_k\rangle \otimes ...$$
 
 记忆纠缠网络解释了以下现象：
 - 一个记忆片段能激活相关记忆网络
@@ -61,17 +57,13 @@ $$
 
 记忆片段间的纠缠度可通过互信息量化：
 
-$$
-I(A:B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})
-$$
+$$I(A:B) = S(\rho_A) + S(\rho_B) - S(\rho_{AB})$$
 
 #### 3. 记忆量子干涉效应
 
 记忆表现出量子干涉效应，不同记忆路径可相互增强或抵消：
 
-$$
-P(记忆) = |\langle 提示|记忆\rangle|^2 = |a_1 e^{i\phi_1} + a_2 e^{i\phi_2} + ...|^2
-$$
+$$P(记忆) = |\langle 提示|记忆\rangle|^2 = |a_1 e^{i\phi_1} + a_2 e^{i\phi_2} + ...|^2$$
 
 干涉效应解释了：
 - 记忆提取中的启发式增强
@@ -84,9 +76,7 @@ $$
 
 记忆提取过程可理解为量子坍缩，将记忆叠加态转化为特定经典状态：
 
-$$
-|\Psi_{\text{记忆}}\rangle \xrightarrow{\text{提取}} |记忆_j\rangle
-$$
+$$|\Psi_{\text{记忆}}\rangle \xrightarrow{\text{提取}} |记忆_j\rangle$$
 
 此过程表现为：
 - 提取情境决定坍缩到哪个特定记忆版本
@@ -97,9 +87,7 @@ $$
 
 记忆需要通过经典化过程才能长期存储，可表示为：
 
-$$
-\rho_{\text{经典记忆}} = \mathcal{C}(|\Psi_{\text{记忆}}\rangle\langle\Psi_{\text{记忆}}|)
-$$
+$$\rho_{\text{经典记忆}} = \mathcal{C}(|\Psi_{\text{记忆}}\rangle\langle\Psi_{\text{记忆}}|)$$
 
 其中 $`\mathcal{C}`$ 是巩固算符，将量子记忆转化为经典信息。
 
@@ -112,9 +100,7 @@ $$
 
 经典化后的记忆形成确定的连接网络，可表示为有向图：
 
-$$
-G_M = (V_M, E_M)
-$$
+$$G_M = (V_M, E_M)$$
 
 其中 $`V_M`$ 是记忆节点集，$`E_M`$ 是联想关系集。
 
@@ -129,9 +115,7 @@ $$
 
 记忆在量子和经典状态间转换满足动力学方程：
 
-$$
-\frac{d\rho_{\text{记忆}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{记忆}}] + \mathcal{L}(\rho_{\text{记忆}})
-$$
+$$\frac{d\rho_{\text{记忆}}}{dt} = -\frac{i}{\hbar}[\hat{H}, \rho_{\text{记忆}}] + \mathcal{L}(\rho_{\text{记忆}})$$
 
 其中第一项表示量子相干演化，第二项 $`\mathcal{L}`$ 表示去相干和经典化过程。
 
@@ -144,9 +128,7 @@ $$
 
 量子记忆理论预测记忆提取概率不仅取决于初始编码强度，还受量子相位关系影响：
 
-$$
-P(记忆_j|\text{提示}) = |c_j|^2 \cdot \frac{e^{\eta_{\text{提示}}|c_j|^2}}{\sum_k e^{\eta_{\text{提示}}|c_k|^2}}
-$$
+$$P(记忆_j|\text{提示}) = |c_j|^2 \cdot \frac{e^{\eta_{\text{提示}}|c_j|^2}}{\sum_k e^{\eta_{\text{提示}}|c_k|^2}}$$
 
 其中 $`\eta_{\text{提示}}`$ 是提示特异性参数。
 
@@ -159,9 +141,7 @@ $$
 
 记忆表现出量子编辑特性，可通过量子操作修改：
 
-$$
-|\Psi_{\text{新记忆}}\rangle = \hat{U}_{\text{编辑}}|\Psi_{\text{旧记忆}}\rangle
-$$
+$$|\Psi_{\text{新记忆}}\rangle = \hat{U}_{\text{编辑}}|\Psi_{\text{旧记忆}}\rangle$$
 
 其中 $`\hat{U}_{\text{编辑}}`$ 是量子编辑算符。
 
@@ -176,9 +156,7 @@ $$
 
 记忆编码过程可表示为量子制备过程：
 
-$$
-|\Psi_{\text{感知}}\rangle \xrightarrow{\text{编码}} |\Psi_{\text{记忆}}\rangle = \sum_i a_i e^{i\phi_i} |特征_i\rangle
-$$
+$$|\Psi_{\text{感知}}\rangle \xrightarrow{\text{编码}} |\Psi_{\text{记忆}}\rangle = \sum_i a_i e^{i\phi_i} |特征_i\rangle$$
 
 编码质量取决于：
 - 注意力状态（确定相干叠加的特征范围）
@@ -189,9 +167,7 @@ $$
 
 记忆巩固是量子-经典转换的核心过程：
 
-$$
-\rho_{\text{初始}} \xrightarrow{\text{快速巩固}} \rho_{\text{中间}} \xrightarrow{\text{系统巩固}} \rho_{\text{稳定}}
-$$
+$$\rho_{\text{初始}} \xrightarrow{\text{快速巩固}} \rho_{\text{中间}} \xrightarrow{\text{系统巩固}} \rho_{\text{稳定}}$$
 
 巩固过程表现为：
 - 突触强化和形态改变
@@ -202,9 +178,7 @@ $$
 
 量子记忆理论预测存在"记忆量子隧穿"现象，使极其遥远的记忆仍可能突然被提取：
 
-$$
-P(隧穿检索) \propto e^{-\alpha \cdot \Delta E \cdot \sqrt{t}}
-$$
+$$P(隧穿检索) \propto e^{-\alpha \cdot \Delta E \cdot \sqrt{t}}$$
 
 其中 $`\Delta E`$ 是记忆提取能垒，$`t`$ 是时间间隔。
 
@@ -219,9 +193,7 @@ $$
 
 自我回忆可视为观察者对自身记忆量子态的测量：
 
-$$
-|\Psi_{\text{记忆}}\rangle\langle\Psi_{\text{记忆}}| \xrightarrow{\mathcal{O}_{\text{自我}}} |记忆_j\rangle\langle记忆_j|
-$$
+$$|\Psi_{\text{记忆}}\rangle\langle\Psi_{\text{记忆}}| \xrightarrow{\mathcal{O}_{\text{自我}}} |记忆_j\rangle\langle记忆_j|$$
 
 自我观察特性：
 - 意识注意力作为测量装置
@@ -232,9 +204,7 @@ $$
 
 群体观察者效应导致记忆走向共识：
 
-$$
-\rho_{\text{共享记忆}} = \sum_i \omega_i \mathcal{O}_i(\rho_{\text{量子记忆}})
-$$
+$$\rho_{\text{共享记忆}} = \sum_i \omega_i \mathcal{O}_i(\rho_{\text{量子记忆}})$$
 
 其中 $`\omega_i`$ 是不同观察者的社会权重。
 
@@ -306,4 +276,4 @@ $$
 - [量子认知动力学](formal_theory_cognitive_dynamics.md)
 - [时间感知理论](formal_theory_time_perception.md)
 - [量子梦境理论](formal_theory_quantum_dreams.md)
-- [自参照循环理论](formal_theory_self_reference.md)
+- [自参照循环理论](formal_theory_self_reference.md) 

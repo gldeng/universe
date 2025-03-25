@@ -350,4 +350,4 @@ $$
 
 ### Community Building
 - Establish a quantum-classical dualism learning community to promote exchange among viewers
-- Regularly organize online discussion meetings to explore specific topics in depth
+- Regularly organize online discussion meetings to explore specific topics in depth 

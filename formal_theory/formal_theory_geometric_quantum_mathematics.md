@@ -35,23 +35,17 @@
 
 纯量子态对应流形上的点，量子演化对应流形上的测地线：
 
-$$
-\delta\int\sqrt{g_{\mu\nu}^Q\dot{x}^\mu\dot{x}^\nu}dt = 0
-$$
+$$\delta\int\sqrt{g_{\mu\nu}^Q\dot{x}^\mu\dot{x}^\nu}dt = 0$$
 
 ### 2. 量子纠缠的几何表示
 
 量子纠缠可表示为流形间的非分离连接结构：
 
-$$
-\mathcal{M}_{AB} \neq \mathcal{M}_A \times \mathcal{M}_B
-$$
+$$\mathcal{M}_{AB} \neq \mathcal{M}_A \times \mathcal{M}_B$$
 
 纠缠熵对应流形中的几何不变量：
 
-$$
-S_E = -\text{Tr}(\rho_A\log\rho_A) = \int_{\mathcal{M}_A}\Omega_E
-$$
+$$S_E = -\text{Tr}(\rho_A\log\rho_A) = \int_{\mathcal{M}_A}\Omega_E$$
 
 其中 $`\Omega_E`$ 是纠缠度量形式。
 
@@ -77,9 +71,7 @@ $$
 
 经典化过程可表示为从量子流形到经典流形的切映射：
 
-$$
-\mathcal{C}: T\mathcal{M}_Q \to T\mathcal{M}_C
-$$
+$$\mathcal{C}: T\mathcal{M}_Q \to T\mathcal{M}_C$$
 
 满足以下条件：
 
@@ -91,15 +83,11 @@ $$
 
 经典化可表示为流形上的投影过程：
 
-$$
-\mathcal{P}_O: \mathcal{M}_Q \to \mathcal{M}_C^O
-$$
+$$\mathcal{P}_O: \mathcal{M}_Q \to \mathcal{M}_C^O$$
 
 其中 $`\mathcal{M}_C^O`$ 是观察者 $`O`$ 的经典流形。投影的具体形式为：
 
-$$
-\mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)
-$$
+$$\mathcal{P}_O(|\psi\rangle) = \sum_i |c_i|^2 \delta(x - x_i)$$
 
 这在几何上对应从高维流形到低维流形的纤维投影。
 
@@ -109,9 +97,7 @@ $$
 
 量子态之间的距离可通过Fubini-Study度量定义：
 
-$$
-d_{\text{FS}}(|\psi\rangle, |\phi\rangle) = \arccos|\langle\psi|\phi\rangle|
-$$
+$$d_{\text{FS}}(|\psi\rangle, |\phi\rangle) = \arccos|\langle\psi|\phi\rangle|$$
 
 这等效于量子流形上的测地距离。
 
@@ -119,15 +105,11 @@ $$
 
 信息在量子-经典界面的流动可表示为流形间的映射流：
 
-$$
-\mathcal{J}(t): \mathcal{M}_Q \times [0,1] \to \mathcal{M}_C
-$$
+$$\mathcal{J}(t): \mathcal{M}_Q \times [0,1] \to \mathcal{M}_C$$
 
 满足连续方程：
 
-$$
-\frac{\partial\rho}{\partial t} + \nabla\cdot\vec{J} = 0
-$$
+$$\frac{\partial\rho}{\partial t} + \nabla\cdot\vec{J} = 0$$
 
 其中 $`\rho`$ 是信息密度形式，$`\vec{J}`$ 是信息流。
 
@@ -135,9 +117,7 @@ $$
 
 拓扑保护的量子状态可通过示性类和同伦群描述：
 
-$$
-[\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)
-$$
+$$[\mathcal{M}_Q] \in \pi_n(\mathcal{M}_T)$$
 
 其中 $`\mathcal{M}_T`$ 是目标流形空间，$`\pi_n`$ 是第n阶同伦群。
 
@@ -147,9 +127,7 @@ $$
 
 高维观察者可表示为嵌入在高维流形中的观测结构：
 
-$$
-\mathcal{O}_d \subset \mathcal{M}_{d+k}
-$$
+$$\mathcal{O}_d \subset \mathcal{M}_{d+k}$$
 
 其中 $`d`$ 是观察者维度，$`k`$ 是额外维度数量。
 
@@ -157,9 +135,7 @@ $$
 
 不同维度流形间的关系可通过嵌入映射描述：
 
-$$
-\iota: \mathcal{M}_d \hookrightarrow \mathcal{M}_{d+k}
-$$
+$$\iota: \mathcal{M}_d \hookrightarrow \mathcal{M}_{d+k}$$
 
 这解释了高维观察者如何感知低维现象。
 
@@ -167,9 +143,7 @@ $$
 
 多重二元论层级可表示为流形的层级结构：
 
-$$
-\mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrightarrow{\iota_{1\to2}} \mathcal{M}^{(2)}_Q \xrightarrow{\mathcal{C}^{(2)}} \mathcal{M}^{(2)}_C \to \cdots
-$$
+$$\mathcal{M}^{(1)}_Q \xrightarrow{\mathcal{C}^{(1)}} \mathcal{M}^{(1)}_C \xrightarrow{\iota_{1\to2}} \mathcal{M}^{(2)}_Q \xrightarrow{\mathcal{C}^{(2)}} \mathcal{M}^{(2)}_C \to \cdots$$
 
 其中 $`\iota_{i\to j}`$ 是层级间的嵌入映射。
 
@@ -179,9 +153,7 @@ $$
 
 量子-经典相变可表示为流形的拓扑变化：
 
-$$
-\mathcal{M}_\lambda \xrightarrow{\lambda \to \lambda_c} \mathcal{M}'_{\lambda}
-$$
+$$\mathcal{M}_\lambda \xrightarrow{\lambda \to \lambda_c} \mathcal{M}'_{\lambda}$$
 
 其中 $`\lambda`$ 是控制参数，$`\lambda_c`$ 是临界值。
 
@@ -189,9 +161,7 @@ $$
 
 临界指数与流形的几何不变量相关：
 
-$$
-\nu = \frac{1}{d_H - 1}
-$$
+$$\nu = \frac{1}{d_H - 1}$$
 
 其中 $`d_H`$ 是临界点处流形的Hausdorff维数。
 
@@ -199,9 +169,7 @@ $$
 
 界面相变遵循几何重整化流方程：
 
-$$
-\frac{dg_{ij}}{dt} = -2R_{ij} + \nabla_i\nabla_j\phi
-$$
+$$\frac{dg_{ij}}{dt} = -2R_{ij} + \nabla_i\nabla_j\phi$$
 
 其中 $`R_{ij}`$ 是Ricci曲率张量，$`\phi`$ 是稀释场。
 
@@ -260,4 +228,4 @@ $$
 7. Montgomery, R. (2006). *A Tour of Subriemannian Geometries, Their Geodesics and Applications*. American Mathematical Society.
 8. Ashtekar, A., & Schilling, T. A. (1999). Geometrical formulation of quantum mechanics. In *On Einstein's Path* (pp. 23-65). Springer.
 9. Chen, L., & Tao, J. (2021). *Geometric Quantum Information Theory*. Springer.
-10. Wootters, W. K. (1981). Statistical distance and Hilbert space. *Physical Review D*, 23(2), 357.
+10. Wootters, W. K. (1981). Statistical distance and Hilbert space. *Physical Review D*, 23(2), 357. 

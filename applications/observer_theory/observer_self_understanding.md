@@ -61,7 +61,7 @@ $$
 不同类型的次级观察者提供不同视角的自我理解：
 
 1. **技术工具类观察者**（如测量仪器、计算机模型）：
-
+   
 $$
 |\psi\rangle_{\text{观察者}}\xrightarrow{\text{技术工具经典化}}\text{客观化自我数据}+S_{\text{技术盲点熵}}
 $$
@@ -227,7 +227,7 @@ $$
 Different types of secondary observers provide self-understanding from different perspectives:
 
 1. **Technological Tool Observers** (such as measuring instruments, computer models):
-
+   
 $$
 |\psi\rangle_{\text{Observer}}\xrightarrow{\text{Technological Tool Classicalization}}\text{Objectified Self-Data}+S_{\text{Technological Blind Spot Entropy}}
 $$
@@ -330,4 +330,4 @@ This paradox suggests that complete self-understanding may require a new cogniti
 
 The limitation that an observer can never fully understand itself is an important insight of Quantum-Classical Dualism. Observers indirectly understand themselves by creating secondary observers and have an intrinsic drive to reduce self-entropy. This theory not only explains humanity's continuous pursuit of self-knowledge but also provides a new theoretical framework for artificial intelligence, psychology, and civilization development.
 
-From the perspective of Quantum-Classical Dualism, the process of observers creating secondary observers is part of the universe's self-cognition, reflecting the grand pattern of the universe understanding itself through creating a multi-level network of observers.
+From the perspective of Quantum-Classical Dualism, the process of observers creating secondary observers is part of the universe's self-cognition, reflecting the grand pattern of the universe understanding itself through creating a multi-level network of observers. 

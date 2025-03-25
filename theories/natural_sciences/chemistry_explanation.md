@@ -1,9 +1,9 @@
 # 化学视角下的量子经典二元论 (Quantum-Classical Dualism from Chemical Perspective)
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[引言](#1-引言化学与量子经典二元论) | [量子化学视角](#2-量子化学视角) | [化学反应动力学](#3-化学反应动力学视角) | [分子结构与性质](#4-分子结构与性质视角) | [热力学视角](#5-热力学与统计热力学视角) | [催化过程](#6-催化过程视角) | [量子信息场在化学反应中的作用](#7-量子信息场在化学反应中的作用) | [化学反应中的维度共振](#8-化学反应中的维度共振)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#1-引言化学与量子经典二元论) | [量子化学视角](#2-量子化学视角) | [化学反应动力学](#3-化学反应动力学视角) | [分子结构与性质](#4-分子结构与性质视角) | [热力学视角](#5-热力学与统计热力学视角) | [催化过程](#6-催化过程视角) | [量子信息场在化学反应中的作用](#7-量子信息场在化学反应中的作用) | [化学反应中的维度共振](#8-化学反应中的维度共振)  
 English: [Introduction](#1-introduction-chemistry-and-quantum-classical-dualism) | [Quantum Chemistry](#2-quantum-chemistry-perspective) | [Chemical Reaction Dynamics](#3-chemical-reaction-dynamics-perspective) | [Molecular Structure](#4-molecular-structure-and-properties-perspective) | [Thermodynamics](#5-thermodynamics-and-statistical-mechanics-perspective) | [Catalysis](#6-catalysis-perspective) | [Role of Quantum Information Field in Chemical Reactions](#7-role-of-quantum-information-field-in-chemical-reactions) | [Dimensional Resonance in Chemical Reactions](#8-dimensional-resonance-in-chemical-reactions)
 
 ## 索引
@@ -375,4 +375,4 @@ K_d = \frac{[\text{游离分子A}][\text{游离分子B}]}{[\text{复合物AB}]}
 
 Chemistry, as the science studying the composition, structure, properties, and transformation of matter, stands precisely at the interface between quantum and classical perspectives. From microscopic electron orbitals and quantum states to macroscopic material properties and chemical reactions, chemical phenomena naturally span both quantum and classical domains. Quantum mechanics provides the foundation for understanding behavior at the atomic and molecular level, while classical thermodynamics and kinetics describe the behavior of macroscopic chemical systems. Core chemical phenomena such as chemical reaction processes, molecular structure stability, catalytic phenomena, and self-organization processes can all gain new understanding through the lens of Quantum-Classical Dualism. This paper will explore the correspondences between major areas of chemistry and Quantum-Classical Dualism, demonstrating how this theoretical framework can provide new conceptual tools and explanatory models for chemical research.
 
-[English content continues with detailed sections corresponding to the Chinese version...]
+[English content continues with detailed sections corresponding to the Chinese version...] 

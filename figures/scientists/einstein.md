@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 1879年-1955年 (1879-1955)
-**国籍 | Nationality**: 出生于德国，后入籍美国 (Born in Germany, later naturalized as American)
-**主要领域 | Main Fields**: 理论物理学、相对论、量子力学、科学哲学 (Theoretical Physics, Relativity, Quantum Mechanics, Philosophy of Science)
+**生卒年份 | Lifespan**: 1879年-1955年 (1879-1955)  
+**国籍 | Nationality**: 出生于德国，后入籍美国 (Born in Germany, later naturalized as American)  
+**主要领域 | Main Fields**: 理论物理学、相对论、量子力学、科学哲学 (Theoretical Physics, Relativity, Quantum Mechanics, Philosophy of Science)  
 **代表作品 | Representative Works**: 《狭义相对论》、《广义相对论》、关于光电效应的论文、质能等价公式E=mc² (Special Relativity, General Relativity, Papers on Photoelectric Effect, Mass-Energy Equivalence E=mc²)
 
 ## 核心思想 | Core Ideas
@@ -197,4 +197,4 @@ From chasing a light beam to the equivalence of gravity in an elevator, Einstein
 - "The formulation of a problem is often more essential than its solution."
 - "Any fool can make things bigger, more complex, and more violent. It takes a touch of genius—and a lot of courage—to move in the opposite direction."
 - "I have no special talent. I am only passionately curious."
-- "If a person can derive pleasure from washing dishes, I think they must be a happy person."
+- "If a person can derive pleasure from washing dishes, I think they must be a happy person." 

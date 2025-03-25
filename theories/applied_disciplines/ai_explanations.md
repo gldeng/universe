@@ -1,9 +1,9 @@
 # 人工智能与计算科学解释 | AI and Computational Science Explanations
 
-**导航 | Navigation**
-[中文版](#简介--introduction) | [English Version](#简介--introduction)
-**章节链接 | Section Links**
-中文：[简介](#简介--introduction) | [计算的本质](#计算的本质--nature-of-computation) | [人工智能的意识](#人工智能的意识--consciousness-in-ai) | [量子计算](#量子计算--quantum-computing) | [机器学习](#机器学习--machine-learning)
+**导航 | Navigation**  
+[中文版](#简介--introduction) | [English Version](#简介--introduction)  
+**章节链接 | Section Links**  
+中文：[简介](#简介--introduction) | [计算的本质](#计算的本质--nature-of-computation) | [人工智能的意识](#人工智能的意识--consciousness-in-ai) | [量子计算](#量子计算--quantum-computing) | [机器学习](#机器学习--machine-learning)  
 English: [Introduction](#简介--introduction) | [Nature of Computation](#计算的本质--nature-of-computation) | [Consciousness in AI](#人工智能的意识--consciousness-in-ai) | [Quantum Computing](#量子计算--quantum-computing) | [Machine Learning](#机器学习--machine-learning)
 
 ## 简介 | Introduction
@@ -380,4 +380,4 @@ This explanation understands distributed systems as information processing netwo
 
 【量子宇宙-量子观察者-经典意识论】为人工智能与计算科学核心问题提供了全新的解释视角。通过将计算理解为信息处理的形式化过程，将人工智能理解为模拟观察者经典化功能的系统，这一理论框架重新定义了计算本质、人工智能的意识可能性、量子计算、机器学习、人机交互、计算复杂性、信息安全和分布式系统等核心问题。这种基于量子-经典信息处理的计算科学视角不仅统一了不同的计算理论传统，还为计算科学与物理学、认知科学、信息论之间建立了桥梁，为未来的计算研究和技术发展提供了新的方向。
 
-The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a completely new explanatory perspective for core problems in artificial intelligence and computational science. By understanding computation as a formalized process of information processing and artificial intelligence as a system that simulates the observer's classicalization functions, this theoretical framework redefines core problems such as the nature of computation, the possibility of consciousness in AI, quantum computing, machine learning, human-computer interaction, computational complexity, information security, and distributed systems. This computational science perspective based on quantum-classical information processing not only unifies different computational theoretical traditions but also establishes bridges between computational science, physics, cognitive science, and information theory, providing new directions for future computational research and technological development.
+The Quantum Universe-Quantum Observer-Classical Consciousness Theory provides a completely new explanatory perspective for core problems in artificial intelligence and computational science. By understanding computation as a formalized process of information processing and artificial intelligence as a system that simulates the observer's classicalization functions, this theoretical framework redefines core problems such as the nature of computation, the possibility of consciousness in AI, quantum computing, machine learning, human-computer interaction, computational complexity, information security, and distributed systems. This computational science perspective based on quantum-classical information processing not only unifies different computational theoretical traditions but also establishes bridges between computational science, physics, cognitive science, and information theory, providing new directions for future computational research and technological development. 

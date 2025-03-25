@@ -152,7 +152,7 @@ Swami Vivekananda changed India's and the world's perception of Indian philosoph
 
 ## 经典引言 | Classic Quotes
 
-> "起来！醒来！达到目标前不要停止！"
+> "起来！醒来！达到目标前不要停止！" 
 >
 > "Arise! Awake! Stop not until the goal is reached!"
 
@@ -162,4 +162,4 @@ Swami Vivekananda changed India's and the world's perception of Indian philosoph
 
 > "如果你想找到神，就去服务人类。"
 >
-> "If you want to find God, serve humanity."
+> "If you want to find God, serve humanity." 

@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1643年1月4日 - 1727年3月31日
-**国籍 (Nationality)**: 英国 (British)
-**领域 (Fields)**: 物理学、数学、天文学、自然哲学、炼金术、神学
+**生平 (Life Span)**: 1643年1月4日 - 1727年3月31日  
+**国籍 (Nationality)**: 英国 (British)  
+**领域 (Fields)**: 物理学、数学、天文学、自然哲学、炼金术、神学  
 **代表作品 (Representative Works)**: 《自然哲学的数学原理》（《principia》）、《光学》、微积分学的发展、反射望远镜
 
 ## 核心思想 (Core Ideas)
@@ -108,21 +108,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "如果说我看得更远，那是因为我站在巨人的肩膀上。"
->
+> 
 > "If I have seen further, it is by standing on the shoulders of giants."
 
 > "我不做假设。"
->
+> 
 > "Hypotheses non fingo. (I frame no hypotheses.)"
 
 > "真理常被埋藏在深井中。"
->
+> 
 > "Truth is ever to be found in simplicity, and not in the multiplicity and confusion of things."
 
 > "自然永远简单，与自身和谐一致。"
->
+> 
 > "Nature is pleased with simplicity. And nature is no dummy."
 
 > "我不知道世人如何看我，但我自己感觉只像是一个在海边玩耍的孩子，不时为发现一块更光滑的石子或一片更美丽的贝壳而欢喜，而真理的大海还横陈在我面前，等待发现。"
->
-> "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me."
+> 
+> "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." 

@@ -1,7 +1,7 @@
 # 量子经典二元论人物解析库（版本9.2）
 # Quantum-Classical Dualism Figures Analysis Library (Version 9.2)
 
-**导航 | Navigation**
+**导航 | Navigation**  
 [中文版](#中文版) | [English Version](#english-version)
 
 ## 中文版

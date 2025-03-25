@@ -3,10 +3,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**
-[中文版](#版本--version) | [English Version](#版本--version)
+**导航 | Navigation**  
+[中文版](#版本--version) | [English Version](#版本--version)  
 
-**章节链接 | Section Links**
+**章节链接 | Section Links**  
 中文：[摘要](#摘要--abstract) | [引言](#一引言--introduction) | [宇宙的整体纠缠结构](#二宇宙的整体纠缠结构--the-overall-entanglement-structure-of-the-universe) | [熵的本质](#三熵的本质--the-essence-of-entropy) | [观察者的经典化过程](#四观察者的经典化过程--the-observer-classicalization-process) | [熵与信息守恒](#五熵与信息守恒--entropy-and-information-conservation)
 
 English: [Abstract](#摘要--abstract) | [Introduction](#一引言--introduction) | [Entanglement Structure](#二宇宙的整体纠缠结构--the-overall-entanglement-structure-of-the-universe) | [Essence of Entropy](#三熵的本质--the-essence-of-entropy) | [Observer Classicalization](#四观察者的经典化过程--the-observer-classicalization-process) | [Information Conservation](#五熵与信息守恒--entropy-and-information-conservation)
@@ -284,9 +284,7 @@ This isomorphism has the following characteristics:
 
 According to the Quantum-Classical Dualism Core Theory (Version 27.0), the universe entanglement network can be modeled using topological methods, described as a complex entanglement topology structure:
 
-$$
-\mathcal{T}(\Psi_{U}) = \{V, E, \mathcal{S}, \mathcal{W}\}
-$$
+$$\mathcal{T}(\Psi_{U}) = \{V, E, \mathcal{S}, \mathcal{W}\}$$
 
 其中：
 - $`V`$ 是量子节点集合（所有量子系统）
@@ -310,9 +308,7 @@ This topological structure has the following key characteristics:
 
 The universe entanglement topology has non-trivial quantum homology group structures:
 
-$$
-H_n(\mathcal{T}(\Psi_{U})) \neq 0, \text{ 对于 } n \geq 1
-$$
+$$H_n(\mathcal{T}(\Psi_{U})) \neq 0, \text{ 对于 } n \geq 1$$
 
 这表明宇宙纠缠网络中存在不可约的"纠缠环"和"纠缠空腔"，这些结构是宇宙纠缠的基本组织单元。
 
@@ -324,9 +320,7 @@ This indicates the existence of irreducible "entanglement loops" and "entangleme
 
 The universe entanglement topology shows self-similarity at different scales:
 
-$$
-\mathcal{T}(\Psi_{U})[s_1] \sim \mathcal{T}(\Psi_{U})[s_2] \cdot \xi(s_1, s_2)
-$$
+$$\mathcal{T}(\Psi_{U})[s_1] \sim \mathcal{T}(\Psi_{U})[s_2] \cdot \xi(s_1, s_2)$$
 
 其中$`\mathcal{T}(\Psi_{U})[s]`$表示尺度$`s`$的纠缠拓扑，$`\xi`$是尺度转换函数。宇宙纠缠网络从普朗克尺度到宇宙尺度都保持相似的组织原则。
 
@@ -338,9 +332,7 @@ Where $`\mathcal{T}(\Psi_{U})[s]`$ represents the entanglement topology at scale
 
 Despite the dynamic evolution of the universe entanglement network, certain topological invariants remain constant:
 
-$$
-\text{Inv}(\mathcal{T}(\Psi_{U})) = \text{常数}
-$$
+$$\text{Inv}(\mathcal{T}(\Psi_{U})) = \text{常数}$$
 
 这些不变量包括纠缠Betti数、纠缠链接不变量和纠缠扭率，构成了宇宙纠缠结构的"守恒定律"。
 
@@ -352,9 +344,7 @@ These invariants include entanglement Betti numbers, entanglement linking invari
 
 Information flow in the universe entanglement network follows specific dynamical equations:
 
-$$
-\frac{\partial I(x,t)}{\partial t} = D_I \nabla^2 I(x,t) + F(I, \mathcal{T}, \nabla \mathcal{T}) + \eta(x,t)
-$$
+$$\frac{\partial I(x,t)}{\partial t} = D_I \nabla^2 I(x,t) + F(I, \mathcal{T}, \nabla \mathcal{T}) + \eta(x,t)$$
 
 其中$`I(x,t)`$是时空点$`(x,t)`$的信息场，$`D_I`$是信息扩散系数，$`F`$是依赖于纠缠拓扑的非线性函数，$`\eta`$是量子随机源项。
 
@@ -370,9 +360,7 @@ Key characteristics of information flow include:
 
 Information flows at a higher rate in channels of high entanglement strength:
 
-$$
-v_I(e) \propto S_E(e)^{\alpha}
-$$
+$$v_I(e) \propto S_E(e)^{\alpha}$$
 
 其中$`v_I(e)`$是纠缠边$`e`$上的信息流速，$`S_E(e)`$是该边的纠缠熵，$`\alpha > 0`$是指数系数。这解释了为什么某些纠缠关系（如黑洞间连接）形成宇宙信息的"高速公路"。
 
@@ -384,9 +372,7 @@ Where $`v_I(e)`$ is the information flow velocity on entanglement edge $`e`$, $`
 
 The direction of information flow follows the entanglement potential energy gradient:
 
-$$
-\vec{J}_I = -\kappa \cdot \nabla \Phi_E
-$$
+$$\vec{J}_I = -\kappa \cdot \nabla \Phi_E$$
 
 其中$`\vec{J}_I`$是信息流密度，$`\Phi_E`$是纠缠势场，$`\kappa`$是传导系数。宇宙信息自发从高纠缠势区域流向低纠缠势区域，形成宇宙的基本信息流动模式。
 
@@ -398,9 +384,7 @@ Where $`\vec{J}_I`$ is the information flow density, $`\Phi_E`$ is the entanglem
 
 The evolution of the universe entanglement network exhibits self-organized critical characteristics:
 
-$$
-P(s) \sim s^{-\tau}
-$$
+$$P(s) \sim s^{-\tau}$$
 
 其中$`P(s)`$是大小为$`s`$的纠缠级联事件的概率分布，$`\tau`$是幂律指数。这表明宇宙纠缠结构在某种程度上自发维持在临界状态，允许最大的信息传输效率。
 
@@ -412,9 +396,7 @@ Where $`P(s)`$ is the probability distribution of entanglement cascade events of
 
 The observer (black hole) network, as a special entanglement node, dynamically interacts with the universe entanglement topology through classicalization and quantization processes:
 
-$$
-\mathcal{T}_{t+\Delta t} = \mathcal{F}(\mathcal{T}_t, \mathcal{O}_t, \mathcal{C}_t, \mathcal{Q}_t)
-$$
+$$\mathcal{T}_{t+\Delta t} = \mathcal{F}(\mathcal{T}_t, \mathcal{O}_t, \mathcal{C}_t, \mathcal{Q}_t)$$
 
 其中$`\mathcal{T}_t`$是时刻$`t`$的纠缠拓扑，$`\mathcal{O}_t`$是观察者网络，$`\mathcal{C}_t`$和$`\mathcal{Q}_t`$分别是经典化和量子化过程。
 
@@ -430,9 +412,7 @@ This interaction has several important effects:
 
 The observer's classicalization process leads to local reconstruction of the entanglement topology:
 
-$$
-\Delta \mathcal{T}_{local} = \mathcal{G}(\mathcal{C}(\Psi_{local}))
-$$
+$$\Delta \mathcal{T}_{local} = \mathcal{G}(\mathcal{C}(\Psi_{local}))$$
 
 观察者强力经典化的区域会出现纠缠减弱，但周围区域的纠缠可能增强，形成"纠缠光晕"效应。
 
@@ -444,9 +424,7 @@ Areas of strong observer classicalization experience entanglement weakening, but
 
 When multiple observers perform collaborative classicalization, preferential entanglement channels form between them:
 
-$$
-S_E(O_i, O_j) \propto I(O_i : O_j) \cdot f(D_{O_i}, D_{O_j})
-$$
+$$S_E(O_i, O_j) \propto I(O_i : O_j) \cdot f(D_{O_i}, D_{O_j})$$
 
 其中$`S_E(O_i, O_j)`$是观察者$`O_i`$和$`O_j`$之间的纠缠熵，$`I(O_i : O_j)`$是它们之间的互信息，$`f`$是与观察者维度相关的函数。这解释了为什么不同观察者之间可以形成非常有效的虫洞通信渠道。
 
@@ -458,9 +436,7 @@ Where $`S_E(O_i, O_j)`$ is the entanglement entropy between observers $`O_i`$ an
 
 When observer density exceeds a critical threshold, it can trigger global phase transitions in the entanglement topology:
 
-$$
-\rho_{O} > \rho_{c} \Rightarrow \mathcal{T} \rightarrow \mathcal{T}'
-$$
+$$\rho_{O} > \rho_{c} \Rightarrow \mathcal{T} \rightarrow \mathcal{T}'$$
 
 这种相变可以解释宇宙中某些大尺度结构的形成，以及特定时代的信息处理模式转变。
 
@@ -472,17 +448,13 @@ This phase transition can explain the formation of certain large-scale structure
 
 The universe entanglement topology has profound holographic properties and can be completely reconstructed from data on the boundary:
 
-$$
-\mathcal{T}(\Psi_{\text{体积}}) \cong \mathcal{T}(\Psi_{\text{边界}})
-$$
+$$\mathcal{T}(\Psi_{\text{体积}}) \cong \mathcal{T}(\Psi_{\text{边界}})$$
 
 这一全息性质与黑洞熵与边界面积的关系类似：
 
 This holographic property is similar to the relationship between black hole entropy and boundary area:
 
-$$
-S_{\text{纠缠}}(V) \leq \frac{A(\partial V)}{4G\hbar}
-$$
+$$S_{\text{纠缠}}(V) \leq \frac{A(\partial V)}{4G\hbar}$$
 
 其中$`S_{\text{纠缠}}(V)`$是区域$`V`$的纠缠熵，$`A(\partial V)`$是其边界面积。
 
@@ -547,4 +519,4 @@ The theoretical framework of this paper lays a solid foundation for further cros
 1. 量子经典二元论核心理论（版本9.2）| Quantum-Classical Dualism Core Theory (Version 9.2)
 2. 量子信息理论 | Quantum Information Theory
 3. 量子纠缠研究 | Quantum Entanglement Research
-4. 熵与信息动力学 | Entropy and Information Dynamics
+4. 熵与信息动力学 | Entropy and Information Dynamics 

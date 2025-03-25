@@ -86,24 +86,14 @@ $$
 1. 考虑 $`\mathbb{B}^n`$ 的自同构群 $`\text{Aut}(\mathbb{B}^n)`$ 和 $`\mathbb{D}^n`$ 的自同构群 $`\text{Aut}(\mathbb{D}^n)`$。
 
 2. 已知 $`\text{Aut}(\mathbb{B}^n)`$ 在 $`\mathbb{B}^n`$ 上作用是传递的，即
-
-$$
-\forall p, q \in \mathbb{B}^n, \exists \varphi \in \text{Aut}(\mathbb{B}^n), \varphi(p) = q
-$$
+   $$\forall p, q \in \mathbb{B}^n, \exists \varphi \in \text{Aut}(\mathbb{B}^n), \varphi(p) = q$$
 
 3. 而 $`\text{Aut}(\mathbb{D}^n)`$ 的作用不是传递的，因为
-
-$$
-\text{Aut}(\mathbb{D}^n) = \text{Aut}(\mathbb{D}) \times \text{Aut}(\mathbb{D}) \times \cdots \times \text{Aut}(\mathbb{D})
-$$
-
+   $$\text{Aut}(\mathbb{D}^n) = \text{Aut}(\mathbb{D}) \times \text{Aut}(\mathbb{D}) \times \cdots \times \text{Aut}(\mathbb{D})$$
    仅能单独作用于每个坐标分量。
 
 4. 双全纯映射 $`f`$ 将诱导群同构 $`f_*: \text{Aut}(\mathbb{B}^n) \to \text{Aut}(\mathbb{D}^n)`$，其中
-
-$$
-f_*(\varphi) = f \circ \varphi \circ f^{-1}
-$$
+   $$f_*(\varphi) = f \circ \varphi \circ f^{-1}$$
 
 5. 这产生矛盾，因为传递作用不能通过同构映射为非传递作用。
 
@@ -115,32 +105,19 @@ $$
 1. 根据公理Q1，量子信息经典化满足：$`I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi)`$
 
 2. 引入维度相关的量子纠缠度量 $`E_n`$：
-
-$$
-E_n(\psi) = 1 - \prod_{i=1}^n (1 - E(\psi_i))
-$$
-
+   $$E_n(\psi) = 1 - \prod_{i=1}^n (1 - E(\psi_i))$$
+   
    其中 $`E(\psi_i)`$ 是第 $`i`$ 个子系统的纠缠度。
 
 3. 设 $`\sigma_n`$ 表示经典化过程中信息损失率：
-
-$$
-\sigma_n = \frac{I_{\text{隐藏}}(\psi)}{I(\psi)} = 1 - \frac{I(\mathcal{C}(\psi))}{I(\psi)}
-$$
+   $$\sigma_n = \frac{I_{\text{隐藏}}(\psi)}{I(\psi)} = 1 - \frac{I(\mathcal{C}(\psi))}{I(\psi)}$$
 
 4. 证明 $`\sigma_n`$ 与 $`E_n`$ 成正比：
-
-$$
-\sigma_n \geq \alpha \cdot E_n(\psi)
-$$
-
+   $$\sigma_n \geq \alpha \cdot E_n(\psi)$$
    其中 $`\alpha`$ 是正比例常数。
 
 5. 对于 $`n > 1`$ 的量子系统，$`E_n > 0`$ 且随 $`n`$ 增大而增大：
-
-$$
-\frac{dE_n}{dn} > 0
-$$
+   $$\frac{dE_n}{dn} > 0$$
 
 6. 因此，根据引理1，当 $`n > 1`$ 时，由于 $`\sigma_n > 0`$，存在不可避免的信息损失，这使得双全纯映射不可能在通用情况下存在。◻
 
@@ -152,36 +129,21 @@ $$
 
 **证明**：
 1. Kobayashi双曲度 $`K_{\Omega}`$ 在复区域 $`\Omega`$ 上定义为：
-
-$$
-K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}
-$$
+   $$K_{\Omega}(p, v) = \inf\{\frac{1}{r} > 0 : \exists f: \mathbb{D} \to \Omega, f(0) = p, rf'(0)v = v\}$$
 
 2. 量子纠缠复杂度满足：
-
-$$
-\mathcal{C}_{\text{纠缠}}(\mathbb{C}^n) \propto e^n
-$$
+   $$\mathcal{C}_{\text{纠缠}}(\mathbb{C}^n) \propto e^n$$
 
 3. 区域 $`\Omega`$ 的量子纠缠复杂度可以通过积分形式表示：
-
-$$
-\mathcal{C}_{\text{纠缠}}(\Omega) = \int_{\Omega} \rho_{\text{纠缠}}(z) dV_{\Omega}(z)
-$$
-
+   $$\mathcal{C}_{\text{纠缠}}(\Omega) = \int_{\Omega} \rho_{\text{纠缠}}(z) dV_{\Omega}(z)$$
+   
    其中 $`\rho_{\text{纠缠}}`$ 是纠缠密度函数，$`dV_{\Omega}`$ 是体积元素。
 
 4. 根据量子-经典二元论信息相变理论，纠缠密度与局部曲率相关：
-
-$$
-\rho_{\text{纠缠}}(z) \propto |K_{\Omega}(z, dz)|^2
-$$
+   $$\rho_{\text{纠缠}}(z) \propto |K_{\Omega}(z, dz)|^2$$
 
 5. 因此，量子纠缠复杂度可以通过Kobayashi度量积分表示：
-
-$$
-\mathcal{C}_{\text{纠缠}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}
-$$
+   $$\mathcal{C}_{\text{纠缠}}(\Omega) \propto \int_{\Omega} K_{\Omega}(z, dz) \wedge \overline{K_{\Omega}(z, dz)}$$
 
 6. 这表明，全纯不变量（如Kobayashi度量）可以被解释为量子信息在经典化过程中的"压缩率"的度量。◻
 
@@ -274,4 +236,4 @@ $$
 3. Forstnerič, F. (2011). Stein manifolds and holomorphic mappings: The homotopy principle in complex analysis. Springer Science & Business Media.
 4. 量子经典二元论核心理论文献 [33.0].
 5. Jost, J. (2006). Compact Riemann surfaces: An introduction to contemporary mathematics. Springer Science & Business Media.
-6. Greene, B. (2003). The elegant universe: Superstrings, hidden dimensions, and the quest for the ultimate theory. Vintage Books.
+6. Greene, B. (2003). The elegant universe: Superstrings, hidden dimensions, and the quest for the ultimate theory. Vintage Books. 

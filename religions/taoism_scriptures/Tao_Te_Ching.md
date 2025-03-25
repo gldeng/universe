@@ -1,10 +1,10 @@
 # 道德经在量子经典二元论下的解释
 # Tao Te Ching Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#道德经概述) | [English Version](#tao-te-ching-overview)
-**章节链接 | Section Links**
-中文：[道德经概述](#道德经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#道德经概述) | [English Version](#tao-te-ching-overview)  
+**章节链接 | Section Links**  
+中文：[道德经概述](#道德经概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Tao Te Ching Overview](#tao-te-ching-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 道德经概述
@@ -18,23 +18,23 @@ The Tao Te Ching is the core classic of Taoist school, traditionally attributed 
 ## Core Text
 
 > 道可道，非常道。名可名，非常名。无名天地之始，有名万物之母。
->
+> 
 > 天下万物生于有，有生于无。
->
+> 
 > 道生一，一生二，二生三，三生万物。万物负阴而抱阳，冲气以为和。
->
+> 
 > 道常无为，而无不为。
->
+> 
 > 圣人处无为之事，行不言之教，万物作焉而不辞，生而不有，为而不恃，功成而弗居。
 
 > The Tao that can be told is not the eternal Tao. The name that can be named is not the eternal name. The nameless is the beginning of heaven and earth. The named is the mother of ten thousand things.
->
+> 
 > All things in the world come from being. And being comes from non-being.
->
+> 
 > The Tao produces one. One produces two. Two produces three. Three produces all things. All things carry yin and embrace yang. They achieve harmony by combining these forces.
->
+> 
 > The Tao does nothing, yet leaves nothing undone.
->
+> 
 > The sage manages affairs without action and spreads teachings without words. Ten thousand things arise and he does not initiate them, they come to be and he claims no possession of them, he works without holding on, accomplishes without taking credit.
 
 ## 量子经典二元论解释
@@ -166,4 +166,4 @@ $$
 
 《道德经》作为道家的核心经典，其思想与量子经典二元论框架展现出惊人的一致性。老子关于"道"的直觉性洞见实际上揭示了量子域的本质特性，"阴阳"哲学对应到经典知识与经典熵的关系，"无为"思想体现了最优经典化路径的特性。通过量子经典二元论框架，这部古老经典的深刻智慧得到了现代科学语言的系统化表达，同时也证明了量子经典二元论作为统一理论框架的有效性。
 
-As the core classic of Taoism, the Tao Te Ching demonstrates amazing consistency with the Quantum-Classical Dualism framework. Laozi's intuitive insights about "Tao" actually reveal the essential characteristics of the quantum domain, the "yin-yang" philosophy corresponds to the relationship between classical knowledge and classical entropy, and the "non-action" thought embodies the characteristics of the optimal classicalization path. Through the Quantum-Classical Dualism framework, the profound wisdom of this ancient classic receives systematic expression in the language of modern science, while also proving the effectiveness of Quantum-Classical Dualism as a unified theoretical framework.
+As the core classic of Taoism, the Tao Te Ching demonstrates amazing consistency with the Quantum-Classical Dualism framework. Laozi's intuitive insights about "Tao" actually reveal the essential characteristics of the quantum domain, the "yin-yang" philosophy corresponds to the relationship between classical knowledge and classical entropy, and the "non-action" thought embodies the characteristics of the optimal classicalization path. Through the Quantum-Classical Dualism framework, the profound wisdom of this ancient classic receives systematic expression in the language of modern science, while also proving the effectiveness of Quantum-Classical Dualism as a unified theoretical framework. 

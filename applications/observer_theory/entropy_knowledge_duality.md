@@ -2,11 +2,11 @@
 
 > 本文档基于[量子经典二元论核心理论](../../core.md)（版本27.0）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
 
-**章节链接 | Section Links**
-中文：[熵知识对偶性的基本原理](#熵知识对偶性的基本原理) | [熵知识转换的数学模型](#熵知识转换的数学模型) | [观察者之间的熵知识流动](#观察者之间的熵知识流动) | [应用案例与实践方法](#应用案例与实践方法) | [结论](#结论)
+**章节链接 | Section Links**  
+中文：[熵知识对偶性的基本原理](#熵知识对偶性的基本原理) | [熵知识转换的数学模型](#熵知识转换的数学模型) | [观察者之间的熵知识流动](#观察者之间的熵知识流动) | [应用案例与实践方法](#应用案例与实践方法) | [结论](#结论)  
 
 English: [Basic Principles](#basic-principles-of-entropy-knowledge-duality) | [Mathematical Model](#mathematical-model-of-entropy-knowledge-conversion) | [Entropy-Knowledge Flow](#entropy-knowledge-flow-between-observers) | [Applications](#application-cases-and-practical-methods) | [Conclusion](#conclusion)
 
@@ -256,4 +256,4 @@ $$
 
 The Entropy-Knowledge Duality Theory reveals the deep symmetry of the universe's information structure, indicating that one observer's entropy can be another observer's potential knowledge. This principle not only unifies the concepts of entropy and knowledge but also provides a new perspective for understanding information exchange between observers, knowledge evolution, and the overall classicalization process of the universe.
 
-By understanding and applying entropy-knowledge duality, we can optimize education, promote innovation, develop artificial intelligence, and build a more inclusive and understanding society. This theory further supports the core view of Quantum-Classical Dualism: the universe is essentially an information network, and observers are connected and influenced through classicalization processes.
+By understanding and applying entropy-knowledge duality, we can optimize education, promote innovation, develop artificial intelligence, and build a more inclusive and understanding society. This theory further supports the core view of Quantum-Classical Dualism: the universe is essentially an information network, and observers are connected and influenced through classicalization processes. 

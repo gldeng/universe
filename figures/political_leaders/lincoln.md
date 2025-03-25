@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1809年2月12日 - 1865年4月15日
-**国籍 (Nationality)**: 美国 (American)
-**领域 (Fields)**: 政治、法律、修辞学、国家领导
+**生平 (Life Span)**: 1809年2月12日 - 1865年4月15日  
+**国籍 (Nationality)**: 美国 (American)  
+**领域 (Fields)**: 政治、法律、修辞学、国家领导  
 **代表作品/成就 (Representative Works/Achievements)**: 美国第16任总统、《解放宣言》、《葛底斯堡演说》、保存美国联邦
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "怀有恶意对待无人，怀有仁爱对待所有人，怀着对正义的坚定信念。"
->
+> 
 > "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right."
 
 > "民有、民治、民享的政府不应从地球上消失。"
->
+> 
 > "Government of the people, by the people, for the people, shall not perish from the earth."
 
 > "一个分裂的家庭不能生存，一个自相分裂的国家也不能生存。"
->
+> 
 > "A house divided against itself cannot stand. I believe this government cannot endure, permanently half slave and half free."
 
 > "我总是让事态的发展决定我的行动...我尽我所能处理最好，并且仍在这样做，相信末了一切都会好起来。"
->
+> 
 > "I claim not to have controlled events, but confess plainly that events have controlled me."
 
 > "几乎所有人都能经受住逆境的考验，但如果你想测试一个人的品格，给他权力。"
->
+> 
 > "Nearly all men can stand adversity, but if you want to test a man's character, give him power."

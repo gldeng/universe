@@ -24,9 +24,7 @@ Quantum-Classical Design Theory applies the dualistic framework to the field of 
 
 Design begins in the quantum space of possibilities, with the following characteristics:
 
-$$
-\Omega_Q^{design} = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle\}
-$$
+$$\Omega_Q^{design} = \{|\psi_1\rangle, |\psi_2\rangle, ..., |\psi_n\rangle\}$$
 
 where $`|\psi_i\rangle`$ represents different design possibility states.
 
@@ -39,9 +37,7 @@ Core properties of the quantum design phase:
 
 Design must ultimately collapse to classical implementation states:
 
-$$
-\Omega_C^{design} = \{D_1, D_2, ..., D_m\}
-$$
+$$\Omega_C^{design} = \{D_1, D_2, ..., D_m\}$$
 
 where $`D_j`$ represents specific design implementation solutions.
 
@@ -54,9 +50,7 @@ Core properties of the classical design phase:
 
 The design process is a conversion from quantum ideas to classical implementation:
 
-$$
-|\Psi_{idea}\rangle \xrightarrow{\mathcal{D}} D_{implementation}
-$$
+$$|\Psi_{idea}\rangle \xrightarrow{\mathcal{D}} D_{implementation}$$
 
 where $`\mathcal{D}`$ is the design operator, representing the process of transforming ideas into actual designs.
 
@@ -71,9 +65,7 @@ Interface conversion characteristics:
 
 Early design ideas manifest as superpositions of multiple possibilities:
 
-$$
-|\Psi_{idea}\rangle = \sum_i \alpha_i |concept_i\rangle
-$$
+$$|\Psi_{idea}\rangle = \sum_i \alpha_i |concept_i\rangle$$
 
 where $`\alpha_i`$ are complex amplitudes representing the weights of different concepts.
 
@@ -86,9 +78,7 @@ Superposition state characteristics:
 
 Design concepts form complex entanglement relationships:
 
-$$
-|\Psi_{network}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |element_i\rangle \otimes |element_j\rangle \otimes |element_k\rangle \otimes ...
-$$
+$$|\Psi_{network}\rangle = \sum_{i,j,k...} \gamma_{ijk...} |element_i\rangle \otimes |element_j\rangle \otimes |element_k\rangle \otimes ...$$
 
 Entanglement network properties:
 - Changes to one design element affect the entire system
@@ -99,9 +89,7 @@ Entanglement network properties:
 
 Innovative designs often manifest as quantum leaps:
 
-$$
-|\Psi_{t}\rangle \xrightarrow{\Delta E} |\Psi_{t+1}\rangle
-$$
+$$|\Psi_{t}\rangle \xrightarrow{\Delta E} |\Psi_{t+1}\rangle$$
 
 where $`\Delta E`$ represents the injection of innovation energy.
 
@@ -116,9 +104,7 @@ Quantum leap characteristics:
 
 Classical design requires a clear set of constraints:
 
-$$
-\mathcal{C} = \{C_1, C_2, ..., C_n\}
-$$
+$$\mathcal{C} = \{C_1, C_2, ..., C_n\}$$
 
 where $`C_i`$ represents specific design constraints.
 
@@ -131,9 +117,7 @@ Constraint system properties:
 
 The quantum→classical conversion process in design:
 
-$$
-\rho_{idea} \xrightarrow{\mathcal{D}_C} |D_j\rangle\langle D_j|
-$$
+$$\rho_{idea} \xrightarrow{\mathcal{D}_C} |D_j\rangle\langle D_j|$$
 
 where $`\mathcal{D}_C`$ is the classicalization design operator.
 
@@ -146,9 +130,7 @@ Collapse process characteristics:
 
 The design process can be represented as an entropy reduction process:
 
-$$
-S_{\text{design}} = -k \sum_i p_i \ln p_i \xrightarrow{\text{design process}} S_{\text{design}}' < S_{\text{design}}
-$$
+$$S_{\text{design}} = -k \sum_i p_i \ln p_i \xrightarrow{\text{design process}} S_{\text{design}}' < S_{\text{design}}$$
 
 Entropy reduction process characteristics:
 - From chaotic possibilities to ordered structures
@@ -161,9 +143,7 @@ Entropy reduction process characteristics:
 
 Excellent design maintains a balance between quantum creativity and classical utility:
 
-$$
-Q_{\text{creativity}} \cdot C_{\text{utility}} \geq K_{\text{design}}
-$$
+$$Q_{\text{creativity}} \cdot C_{\text{utility}} \geq K_{\text{design}}$$
 
 where $`K_{\text{design}}`$ is a fundamental constant in the design field.
 
@@ -176,9 +156,7 @@ Balance characteristics:
 
 Design complexity can be divided into multiple levels:
 
-$$
-\mathcal{H} = \{h_1, h_2, ..., h_n\}
-$$
+$$\mathcal{H} = \{h_1, h_2, ..., h_n\}$$
 
 where $`h_i`$ represents the design complexity of the i-th level.
 
@@ -191,9 +169,7 @@ Hierarchy characteristics:
 
 The design process exhibits a clear observer effect:
 
-$$
-|\Psi_{design}\rangle \xrightarrow{\mathcal{O}_{designer}} |D_j\rangle
-$$
+$$|\Psi_{design}\rangle \xrightarrow{\mathcal{O}_{designer}} |D_j\rangle$$
 
 where $`\mathcal{O}_{designer}`$ represents the observation behavior of the designer.
 
@@ -209,28 +185,16 @@ Observer effect characteristics:
 The design process based on dualism can be divided into four phases:
 
 1. **Quantum Divergence Phase**: Maximizing the possibility space
-
-$$
-\Omega_Q^t \rightarrow \Omega_Q^{t+1}, \text{where} |\Omega_Q^{t+1}| > |\Omega_Q^t|
-$$
+   $$\Omega_Q^t \rightarrow \Omega_Q^{t+1}, \text{where} |\Omega_Q^{t+1}| > |\Omega_Q^t|$$
 
 2. **Quantum Exploration Phase**: Exploring paths in the possibility space
-
-$$
-\{|\psi_1\rangle, |\psi_2\rangle, ...\} \rightarrow \{|\phi_1\rangle, |\phi_2\rangle, ...\}
-$$
+   $$\{|\psi_1\rangle, |\psi_2\rangle, ...\} \rightarrow \{|\phi_1\rangle, |\phi_2\rangle, ...\}$$
 
 3. **Interface Conversion Phase**: Quantum-classical conversion of key design decisions
-
-$$
-\{|\phi_i\rangle\} \xrightarrow{\mathcal{D}_C} \{D_j\}
-$$
+   $$\{|\phi_i\rangle\} \xrightarrow{\mathcal{D}_C} \{D_j\}$$
 
 4. **Classical Optimization Phase**: Fine-tuning within the classical domain
-
-$$
-D_j \rightarrow D_j' \text{, where } f(D_j') > f(D_j)
-$$
+   $$D_j \rightarrow D_j' \text{, where } f(D_j') > f(D_j)$$
 
 #### 2. Design Tool Spectrum
 
@@ -244,9 +208,7 @@ Design tools can be classified according to quantum-classical properties:
 
 Quantum-classical interactions in team design processes:
 
-$$
-\Psi_{\text{team}} = \sum_{i} \omega_i \Psi_{\text{individual}_i} + \sum_{i,j} \tau_{ij} \Psi_{\text{interaction}_{ij}}
-$$
+$$\Psi_{\text{team}} = \sum_{i} \omega_i \Psi_{\text{individual}_i} + \sum_{i,j} \tau_{ij} \Psi_{\text{interaction}_{ij}}$$
 
 Team dynamics characteristics:
 - Balance between individual creativity and collective synergy
@@ -361,4 +323,4 @@ Future research directions include:
 - [Quantum-Classical Aesthetics Theory](formal_theory_aesthetics_en.md)
 - [Quantum Innovation Theory](formal_theory_innovation_en.md)
 - [Quantum Social Dynamics](formal_theory_social_en.md)
-- [Quantum-Classical Interaction Technology](formal_theory_interaction_en.md)
+- [Quantum-Classical Interaction Technology](formal_theory_interaction_en.md) 

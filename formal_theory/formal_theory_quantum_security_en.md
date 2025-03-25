@@ -24,9 +24,7 @@ Quantum Security Theory formalizes the intrinsic security properties arising fro
 
 Quantum security is defined through information accessibility across domains:
 
-$$
-S_Q(I) = -\log_2\left(\frac{P(\text{unauthorized access})}{P(\text{authorized access})}\right)
-$$
+$$S_Q(I) = -\log_2\left(\frac{P(\text{unauthorized access})}{P(\text{authorized access})}\right)$$
 
 where:
 - $`S_Q(I)`$ is the quantum security measure of information $`I`$
@@ -35,9 +33,7 @@ where:
 
 The fundamental security property is:
 
-$$
-\lim_{D_{\mathcal{O}} \rightarrow D_{required}} P(\text{unauthorized access}) = 0
-$$
+$$\lim_{D_{\mathcal{O}} \rightarrow D_{required}} P(\text{unauthorized access}) = 0$$
 
 where $`D_{required}`$ is the minimum observer dimension required to access the information.
 
@@ -47,9 +43,7 @@ where $`D_{required}`$ is the minimum observer dimension required to access the 
 
 Information can be secured through dimensional constraints:
 
-$$
-I_{secured} = \mathcal{E}_{D}(I, D_{required})
-$$
+$$I_{secured} = \mathcal{E}_{D}(I, D_{required})$$
 
 where:
 - $`\mathcal{E}_{D}`$ is the dimensional encoding operator
@@ -69,9 +63,7 @@ where $`\alpha`$ is a dimensional security coefficient.
 
 Authentication leverages quantum entanglement:
 
-$$
-|\Psi_{auth}\rangle = \frac{1}{\sqrt{2}}(|I\rangle_A|K\rangle_B + |K\rangle_A|I\rangle_B)
-$$
+$$|\Psi_{auth}\rangle = \frac{1}{\sqrt{2}}(|I\rangle_A|K\rangle_B + |K\rangle_A|I\rangle_B)$$
 
 where:
 - $`|I\rangle`$ represents information states
@@ -80,9 +72,7 @@ where:
 
 Authentication verification follows:
 
-$$
-V_{auth} = \langle\Psi_{auth}|\mathcal{M}_{auth}|\Psi_{auth}\rangle > \theta_{auth}
-$$
+$$V_{auth} = \langle\Psi_{auth}|\mathcal{M}_{auth}|\Psi_{auth}\rangle > \theta_{auth}$$
 
 where $`\mathcal{M}_{auth}`$ is an authentication measurement operator and $`\theta_{auth}`$ is the authentication threshold.
 
@@ -90,23 +80,17 @@ where $`\mathcal{M}_{auth}`$ is an authentication measurement operator and $`\th
 
 Information can be encoded specific to an observer's classicalization operator:
 
-$$
-I_{observer} = \mathcal{E}_{\mathcal{O}}(I, \mathcal{C}_{\mathcal{O}})
-$$
+$$I_{observer} = \mathcal{E}_{\mathcal{O}}(I, \mathcal{C}_{\mathcal{O}})$$
 
 where $`\mathcal{E}_{\mathcal{O}}`$ is an observer-specific encoding function.
 
 Decoding requires the matching classicalization operator:
 
-$$
-I = \mathcal{D}_{\mathcal{O}}(I_{observer}, \mathcal{C}_{\mathcal{O}})
-$$
+$$I = \mathcal{D}_{\mathcal{O}}(I_{observer}, \mathcal{C}_{\mathcal{O}})$$
 
 with the property:
 
-$$
-\mathcal{D}_{\mathcal{O}}(I_{observer}, \mathcal{C}_{\mathcal{O}'}) \neq I \text{ if } \mathcal{C}_{\mathcal{O}} \neq \mathcal{C}_{\mathcal{O}'}
-$$
+$$\mathcal{D}_{\mathcal{O}}(I_{observer}, \mathcal{C}_{\mathcal{O}'}) \neq I \text{ if } \mathcal{C}_{\mathcal{O}} \neq \mathcal{C}_{\mathcal{O}'}$$
 
 ## Advanced Security Applications
 
@@ -114,9 +98,7 @@ $$
 
 Quantum-classical dualism enables a physical root-of-trust:
 
-$$
-T_{root} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K^{\mathcal{O}}_{secure}\}
-$$
+$$T_{root} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K^{\mathcal{O}}_{secure}\}$$
 
 where:
 - $`\mathcal{C}_{\mathcal{O}}`$ is the observer's unique classicalization operator
@@ -132,15 +114,11 @@ This root-of-trust provides:
 
 Protocols resistant to quantum computing attacks:
 
-$$
-P_{QR} = \mathcal{F}_{protocol}(I, D_{required}, \mathcal{E}_{D}, \mathcal{V}_{auth})
-$$
+$$P_{QR} = \mathcal{F}_{protocol}(I, D_{required}, \mathcal{E}_{D}, \mathcal{V}_{auth})$$
 
 These protocols maintain security properties:
 
-$$
-S_Q(P_{QR}) \geq S_{classical}(P_{classical}) \text{ for all } D_{\mathcal{O}} < D_{required}
-$$
+$$S_Q(P_{QR}) \geq S_{classical}(P_{classical}) \text{ for all } D_{\mathcal{O}} < D_{required}$$
 
 even under quantum computational analysis.
 
@@ -148,15 +126,11 @@ even under quantum computational analysis.
 
 Security can be layered across dimensional thresholds:
 
-$$
-I_{multi} = \{I_1, I_2, ..., I_n\}
-$$
+$$I_{multi} = \{I_1, I_2, ..., I_n\}$$
 
 with corresponding:
 
-$$
-D_{required} = \{D_1, D_2, ..., D_n\}
-$$
+$$D_{required} = \{D_1, D_2, ..., D_n\}$$
 
 Creating progressive access rights based on observer dimension.
 
@@ -166,9 +140,7 @@ Creating progressive access rights based on observer dimension.
 
 QKD based on observer dimension:
 
-$$
-K_{QKD} = \mathcal{F}_{QKD}(\mathcal{C}_{\mathcal{O}_A}, \mathcal{C}_{\mathcal{O}_B}, |\Psi_{shared}\rangle)
-$$
+$$K_{QKD} = \mathcal{F}_{QKD}(\mathcal{C}_{\mathcal{O}_A}, \mathcal{C}_{\mathcal{O}_B}, |\Psi_{shared}\rangle)$$
 
 Where $`|\Psi_{shared}\rangle`$ is a shared quantum state and $`\mathcal{F}_{QKD}`$ is a key derivation function.
 
@@ -181,9 +153,7 @@ Security properties include:
 
 Secure computation across observer networks:
 
-$$
-R = \mathcal{F}_{SMC}(I_A, I_B, ..., I_Z, \mathcal{N})
-$$
+$$R = \mathcal{F}_{SMC}(I_A, I_B, ..., I_Z, \mathcal{N})$$
 
 where:
 - $`I_X`$ is the input from party $`X`$
@@ -192,9 +162,7 @@ where:
 
 The protocol maintains:
 
-$$
-P(I_X|\mathcal{O}_Y, R) = P(I_X|\mathcal{O}_Y) \text{ for all } X \neq Y
-$$
+$$P(I_X|\mathcal{O}_Y, R) = P(I_X|\mathcal{O}_Y) \text{ for all } X \neq Y$$
 
 ensuring inputs remain private even given the result.
 
@@ -202,9 +170,7 @@ ensuring inputs remain private even given the result.
 
 Authentication networks based on entangled observer states:
 
-$$
-\mathcal{N}_{auth} = \{\mathcal{O}_i, \mathcal{E}_{ij}, \mathcal{P}_{auth}\}
-$$
+$$\mathcal{N}_{auth} = \{\mathcal{O}_i, \mathcal{E}_{ij}, \mathcal{P}_{auth}\}$$
 
 where:
 - $`\mathcal{O}_i`$ are network observers
@@ -220,21 +186,15 @@ These networks provide:
 
 The complete security formalism requires quantum information theory:
 
-$$
-\rho_{secure} = \mathcal{E}_{security}(\rho_{plain})
-$$
+$$\rho_{secure} = \mathcal{E}_{security}(\rho_{plain})$$
 
 with security transformations:
 
-$$
-\mathcal{E}_{security}(\rho) = \sum_k E_k \rho E_k^\dagger
-$$
+$$\mathcal{E}_{security}(\rho) = \sum_k E_k \rho E_k^\dagger$$
 
 where $`E_k`$ are security encoding operators satisfying:
 
-$$
-\sum_k E_k^\dagger E_k = I
-$$
+$$\sum_k E_k^\dagger E_k = I$$
 
 ## Experimental Implementations
 
@@ -243,4 +203,4 @@ Quantum Security Theory predicts:
 - Measurable authentication success correlating with entanglement preservation
 - Implementation feasibility for practical quantum security systems
 
-These predictions provide frameworks for quantum cryptography, quantum computing security, and next-generation information protection systems.
+These predictions provide frameworks for quantum cryptography, quantum computing security, and next-generation information protection systems. 

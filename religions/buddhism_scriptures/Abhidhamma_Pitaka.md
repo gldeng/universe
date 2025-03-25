@@ -1,9 +1,9 @@
 # 论藏 (Abhidhamma Pitaka)
 
-**导航 | Navigation**
-[中文版](#论藏解析) | [English Version](#abhidhamma-pitaka-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#论藏解析) | [English Version](#abhidhamma-pitaka-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -76,4 +76,4 @@ $$
 
 论藏通过量子经典二元论框架（版本9.2）的解析，展示了佛教修行方法与现代物理学的深刻联系。量子域中的信息态和纠缠网络对应佛教的诸法观和因果观，经典域中的观察者信息处理对应佛教的戒定慧。这种对应关系不仅加深了我们对佛教修行方法的理解，也为现代物理学提供了新的信息处理维度。
 
-The Abhidhamma Pitaka, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist cultivation methods and modern physics. The quantum information states and entanglement networks in the quantum domain correspond to Buddhist concepts of phenomena and karma, while observer information processing in the classical domain corresponds to Buddhist precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Buddhist cultivation methods but also provides new information processing dimensions for modern physics to explore.
+The Abhidhamma Pitaka, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the profound connection between Buddhist cultivation methods and modern physics. The quantum information states and entanglement networks in the quantum domain correspond to Buddhist concepts of phenomena and karma, while observer information processing in the classical domain corresponds to Buddhist precepts, meditation, and wisdom. This correspondence not only deepens our understanding of Buddhist cultivation methods but also provides new information processing dimensions for modern physics to explore. 

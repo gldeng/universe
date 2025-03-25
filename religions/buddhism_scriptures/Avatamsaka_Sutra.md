@@ -1,9 +1,9 @@
 # 华严经 (Avatamsaka Sutra) - 《大方广佛华严经》
 
-**导航 | Navigation**
-[中文版](#华严经量子经典二元论解析) | [English Version](#avatamsaka-sutra-quantum-classical-dualism-analysis)
-**章节链接 | Section Links**
-中文：[经典概述](#经典概述) | [核心教义](#核心教义) | [量子经典二元解析](#量子经典二元解析) | [数学表达](#数学表达) | [结论](#结论)
+**导航 | Navigation**  
+[中文版](#华严经量子经典二元论解析) | [English Version](#avatamsaka-sutra-quantum-classical-dualism-analysis)  
+**章节链接 | Section Links**  
+中文：[经典概述](#经典概述) | [核心教义](#核心教义) | [量子经典二元解析](#量子经典二元解析) | [数学表达](#数学表达) | [结论](#结论)  
 English: [Scripture Overview](#scripture-overview) | [Core Teachings](#core-teachings) | [Quantum-Classical Analysis](#quantum-classical-analysis) | [Mathematical Expression](#mathematical-expression) | [Conclusion](#conclusion)
 
 ## 华严经量子经典二元论解析
@@ -181,4 +181,4 @@ The Avatamsaka Sutra provides one of the most perfect philosophical descriptions
 
 The "Dharmadhatu of Non-obstruction Between Phenomena" directly corresponds to the non-local characteristics of quantum entanglement, while the "Ten Mysterious Gates" can be viewed as different pathways of quantum-classical interface conversion. This correspondence is remarkably precise, indicating that the Avatamsaka Sutra has touched upon the most fundamental structural features of the universe—the dialectical relationship between the holism of the quantum domain and the separateness of the classical domain.
 
-Regarding observer dimension, the bodhisattva stages proposed by the Avatamsaka Sutra can be understood as the gradual elevation of observer dimensions, ultimately reaching the state of Vairocana Buddha, identical with the cosmic whole—the all-dimensional observer.
+Regarding observer dimension, the bodhisattva stages proposed by the Avatamsaka Sutra can be understood as the gradual elevation of observer dimensions, ultimately reaching the state of Vairocana Buddha, identical with the cosmic whole—the all-dimensional observer. 

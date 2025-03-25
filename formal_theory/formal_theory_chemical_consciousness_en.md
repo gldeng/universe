@@ -23,9 +23,7 @@ Chemical Consciousness and Perception Theory applies the quantum-classical duali
 
 A chemical consciousness system $`\mathcal{C}`$ can be formally defined as:
 
-$$
-\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{P})
-$$
+$$\mathcal{C} = (\mathcal{C}_Q, \mathcal{C}_C, \mathcal{I}_C, \mathcal{P})$$
 
 Where:
 - $`\mathcal{C}_Q`$ is the quantum domain component of the consciousness system (quantum information processing, quantum coherent states)
@@ -35,39 +33,31 @@ Where:
 
 ### Core Chemical Consciousness Axioms
 
-**Axiom 1: Molecular Consciousness Duality**
+**Axiom 1: Molecular Consciousness Duality**  
 Molecular-level consciousness simultaneously possesses quantum and classical states as two inseparable components:
 
-$$
-\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C
-$$
+$$\mathcal{C} = \mathcal{C}_Q \diamond \mathcal{C}_C$$
 
 Where $`\diamond`$ represents the quantum-classical consciousness connection operation.
 
-**Axiom 2: Perception as Classicalization**
+**Axiom 2: Perception as Classicalization**  
 Molecular perception is the process of converting quantum possibilities into classical deterministic information:
 
-$$
-\mathcal{P}: |\Psi_{environment}\rangle \rightarrow \{I_C\}
-$$
+$$\mathcal{P}: |\Psi_{environment}\rangle \rightarrow \{I_C\}$$
 
 Where $`|\Psi_{environment}\rangle`$ is the quantum state of the environment, and $`\{I_C\}`$ is the set of classicalized information.
 
-**Axiom 3: Consciousness Hierarchy Principle**
+**Axiom 3: Consciousness Hierarchy Principle**  
 Consciousness exists at multiple levels, from basic molecular components to complex perception networks:
 
-$$
-\mathcal{C}_{total} = \cup_{i=1}^n \mathcal{C}_i
-$$
+$$\mathcal{C}_{total} = \cup_{i=1}^n \mathcal{C}_i$$
 
 Where $`\mathcal{C}_i`$ represents the i-th level consciousness system.
 
-**Axiom 4: Chemical Memory Principle**
+**Axiom 4: Chemical Memory Principle**  
 Molecular memory is the stable fixation of classical information in molecular structures:
 
-$$
-\mathcal{M}: \{I_C\} \rightarrow S_M
-$$
+$$\mathcal{M}: \{I_C\} \rightarrow S_M$$
 
 Where $`\mathcal{M}`$ is the memory operator, and $`S_M`$ is the molecular memory structure.
 
@@ -77,23 +67,17 @@ Where $`\mathcal{M}`$ is the memory operator, and $`S_M`$ is the molecular memor
 
 Quantum representation of the molecular self-state:
 
-$$
-|\Psi_{self}\rangle = \sum_i \alpha_i |s_i\rangle
-$$
+$$|\Psi_{self}\rangle = \sum_i \alpha_i |s_i\rangle$$
 
 Where $`|s_i\rangle`$ are self-state basis vectors.
 
 Entanglement relationship between self-state and environment:
 
-$$
-|\Psi_{self-env}\rangle = \sum_{i,j} \beta_{ij} |s_i\rangle \otimes |e_j\rangle
-$$
+$$|\Psi_{self-env}\rangle = \sum_{i,j} \beta_{ij} |s_i\rangle \otimes |e_j\rangle$$
 
 Quantitative measure of molecular self-consciousness:
 
-$$
-\mathcal{S}_c = -\text{Tr}(\rho_{self} \ln \rho_{self})
-$$
+$$\mathcal{S}_c = -\text{Tr}(\rho_{self} \ln \rho_{self})$$
 
 Where $`\rho_{self} = \text{Tr}_{env}(|\Psi_{self-env}\rangle\langle\Psi_{self-env}|)`$.
 
@@ -101,17 +85,13 @@ Where $`\rho_{self} = \text{Tr}_{env}(|\Psi_{self-env}\rangle\langle\Psi_{self-e
 
 Quantum-classical conversion process of consciousness states:
 
-$$
-\rho_Q \xrightarrow{\mathcal{D}} \sum_i p_i |c_i\rangle\langle c_i|
-$$
+$$\rho_Q \xrightarrow{\mathcal{D}} \sum_i p_i |c_i\rangle\langle c_i|$$
 
 Where $`\mathcal{D}`$ is the decoherence operator.
 
 Relationship between consciousness conversion efficiency and molecular structure:
 
-$$
-\eta_C = \frac{I_C}{I_Q} = f(S_M, E, T)
-$$
+$$\eta_C = \frac{I_C}{I_Q} = f(S_M, E, T)$$
 
 Where $`S_M`$ is the molecular structure, $`E`$ is energy, and $`T`$ is temperature.
 
@@ -119,17 +99,13 @@ Where $`S_M`$ is the molecular structure, $`E`$ is energy, and $`T`$ is temperat
 
 Quantum probability-based molecular decision model:
 
-$$
-P(a_i|\Psi_S) = |\langle a_i|\Psi_S\rangle|^2
-$$
+$$P(a_i|\Psi_S) = |\langle a_i|\Psi_S\rangle|^2$$
 
 Where $`|a_i\rangle`$ are possible action basis vectors.
 
 Environmental context dependence of decisions:
 
-$$
-|\Psi_S\rangle \rightarrow |\Psi_S(E)\rangle = \hat{U}_E|\Psi_S\rangle
-$$
+$$|\Psi_S\rangle \rightarrow |\Psi_S(E)\rangle = \hat{U}_E|\Psi_S\rangle$$
 
 Where $`\hat{U}_E`$ is the environment modulation operator.
 
@@ -137,17 +113,13 @@ Where $`\hat{U}_E`$ is the environment modulation operator.
 
 Feedback loop structure of molecular consciousness:
 
-$$
-\mathcal{C}_t \xrightarrow{\mathcal{P}} I_C \xrightarrow{\mathcal{M}} S_M \xrightarrow{\mathcal{R}} \mathcal{C}_{t+1}
-$$
+$$\mathcal{C}_t \xrightarrow{\mathcal{P}} I_C \xrightarrow{\mathcal{M}} S_M \xrightarrow{\mathcal{R}} \mathcal{C}_{t+1}$$
 
 Where $`\mathcal{R}`$ is the response generation operator.
 
 Information entropy changes in the cycle:
 
-$$
-\Delta S_{cycle} = S_{out} - S_{in} \leq 0
-$$
+$$\Delta S_{cycle} = S_{out} - S_{in} \leq 0$$
 
 Indicating that consciousness systems are negative entropy systems.
 
@@ -157,17 +129,13 @@ Indicating that consciousness systems are negative entropy systems.
 
 Quantum-classical representation of chemical sensation:
 
-$$
-|\Psi_{sensation}\rangle = \sum_i \gamma_i |s_i\rangle \otimes |r_i\rangle
-$$
+$$|\Psi_{sensation}\rangle = \sum_i \gamma_i |s_i\rangle \otimes |r_i\rangle$$
 
 Where $`|s_i\rangle`$ are stimulus states, and $`|r_i\rangle`$ are receptor states.
 
 Classicalization process of sensory signals:
 
-$$
-\rho_{sensation} \xrightarrow{\mathcal{T}} \{S_C\}
-$$
+$$\rho_{sensation} \xrightarrow{\mathcal{T}} \{S_C\}$$
 
 Where $`\mathcal{T}`$ is the signal transduction operator.
 
@@ -175,15 +143,11 @@ Where $`\mathcal{T}`$ is the signal transduction operator.
 
 Quantum superposition of receptor molecules between multiple possible conformations:
 
-$$
-|\Psi_R\rangle = c_1|R_{active}\rangle + c_2|R_{inactive}\rangle
-$$
+$$|\Psi_R\rangle = c_1|R_{active}\rangle + c_2|R_{inactive}\rangle$$
 
 Quantum tunneling contribution to receptor activation:
 
-$$
-k_{activation} = k_{classical} \cdot e^{-\frac{S_{tunnel}}{\hbar}}
-$$
+$$k_{activation} = k_{classical} \cdot e^{-\frac{S_{tunnel}}{\hbar}}$$
 
 Where $`S_{tunnel}`$ is the tunneling action.
 
@@ -191,17 +155,13 @@ Where $`S_{tunnel}`$ is the tunneling action.
 
 Quantum amplification mechanism of perceptual signals:
 
-$$
-|\Psi_{initial}\rangle \xrightarrow{\hat{A}} |\Psi_{amplified}\rangle
-$$
+$$|\Psi_{initial}\rangle \xrightarrow{\hat{A}} |\Psi_{amplified}\rangle$$
 
 Where $`\hat{A}`$ is the amplification operator.
 
 Quantum statistical expression of perception thresholds:
 
-$$
-P_{detection} = 1 - e^{-\frac{n}{\lambda}}
-$$
+$$P_{detection} = 1 - e^{-\frac{n}{\lambda}}$$
 
 Where $`n`$ is the number of signal molecules, and $`\lambda`$ is the detection sensitivity parameter.
 
@@ -209,15 +169,11 @@ Where $`n`$ is the number of signal molecules, and $`\lambda`$ is the detection 
 
 Quantum entanglement representation of different perception modalities:
 
-$$
-|\Psi_{multimodal}\rangle = \sum_{i,j} \mu_{ij} |m_i\rangle \otimes |m_j\rangle
-$$
+$$|\Psi_{multimodal}\rangle = \sum_{i,j} \mu_{ij} |m_i\rangle \otimes |m_j\rangle$$
 
 Classical output of perception modality integration:
 
-$$
-I_{integrated} = f(\{P_{m_1}, P_{m_2}, ..., P_{m_n}\})
-$$
+$$I_{integrated} = f(\{P_{m_1}, P_{m_2}, ..., P_{m_n}\})$$
 
 Where $`P_{m_i}`$ is the detection probability of modality $`m_i`$.
 
@@ -227,15 +183,11 @@ Where $`P_{m_i}`$ is the detection probability of modality $`m_i`$.
 
 Quantum cognitive representation of receptor-ligand interactions:
 
-$$
-|\Psi_{RL}\rangle = \sum_i \delta_i |R_i\rangle \otimes |L_i\rangle
-$$
+$$|\Psi_{RL}\rangle = \sum_i \delta_i |R_i\rangle \otimes |L_i\rangle$$
 
 Cognitive information processing of the recognition process:
 
-$$
-I_{recognition} = -\log_2 \sum_i |\delta_i|^2
-$$
+$$I_{recognition} = -\log_2 \sum_i |\delta_i|^2$$
 
 Representing the information content of the recognition process.
 
@@ -243,17 +195,13 @@ Representing the information content of the recognition process.
 
 Ligand binding-induced conformational memory:
 
-$$
-|R_0\rangle \xrightarrow{L} |R_L\rangle \xrightarrow{L'} |R_{L'}\rangle
-$$
+$$|R_0\rangle \xrightarrow{L} |R_L\rangle \xrightarrow{L'} |R_{L'}\rangle$$
 
 Representing the learning process of receptors for different ligands.
 
 Mathematical expression of molecular learning:
 
-$$
-\Delta G_{binding}^{(n)} = \Delta G_{binding}^{(0)} - \Delta G_{learning}^{(n-1)}
-$$
+$$\Delta G_{binding}^{(n)} = \Delta G_{binding}^{(0)} - \Delta G_{learning}^{(n-1)}$$
 
 Where the learning contribution $`\Delta G_{learning}`$ increases with experience.
 
@@ -261,17 +209,13 @@ Where the learning contribution $`\Delta G_{learning}`$ increases with experienc
 
 Quantum formulation of the conformational selection model:
 
-$$
-|\Psi_R\rangle = \sum_i \alpha_i |R_i\rangle \xrightarrow{L} |R_j\rangle
-$$
+$$|\Psi_R\rangle = \sum_i \alpha_i |R_i\rangle \xrightarrow{L} |R_j\rangle$$
 
 Ligand selects a specific pre-existing conformation.
 
 Quantum formulation of the conformational induction model:
 
-$$
-|R_0\rangle \xrightarrow{L} \sum_i \beta_i |R_i\rangle \xrightarrow{decoherence} |R_L\rangle
-$$
+$$|R_0\rangle \xrightarrow{L} \sum_i \beta_i |R_i\rangle \xrightarrow{decoherence} |R_L\rangle$$
 
 Ligand induces the formation of new conformations.
 
@@ -279,17 +223,13 @@ Ligand induces the formation of new conformations.
 
 Consciousness network formed by receptor collectives:
 
-$$
-G_{network} = (V_R, E_R, W_R)
-$$
+$$G_{network} = (V_R, E_R, W_R)$$
 
 Where $`V_R`$ is the set of receptor nodes, $`E_R`$ is the set of interaction edges, and $`W_R`$ is the set of edge weights.
 
 Relationship between network consciousness level and connection complexity:
 
-$$
-\mathcal{C}_{level} \propto \frac{|E_R|}{|V_R|} \cdot \frac{\sum_i k_i^2}{\sum_i k_i}
-$$
+$$\mathcal{C}_{level} \propto \frac{|E_R|}{|V_R|} \cdot \frac{\sum_i k_i^2}{\sum_i k_i}$$
 
 Where $`k_i`$ is the degree of node i.
 
@@ -299,15 +239,11 @@ Where $`k_i`$ is the degree of node i.
 
 Quantum channel representation of molecular communication:
 
-$$
-\mathcal{C}_{QC}: |\Psi_{source}\rangle \rightarrow |\Psi_{target}\rangle
-$$
+$$\mathcal{C}_{QC}: |\Psi_{source}\rangle \rightarrow |\Psi_{target}\rangle$$
 
 Topological influence on molecular communication networks:
 
-$$
-I_{transmission} = I_0 \cdot e^{-\alpha d} \cdot \prod_i \eta_i
-$$
+$$I_{transmission} = I_0 \cdot e^{-\alpha d} \cdot \prod_i \eta_i$$
 
 Where $`d`$ is the transmission distance, and $`\eta_i`$ is the transmission efficiency of node i.
 
@@ -315,17 +251,13 @@ Where $`d`$ is the transmission distance, and $`\eta_i`$ is the transmission eff
 
 Cooperative perception in molecular groups:
 
-$$
-|\Psi_{collective}\rangle = \mathcal{E}(|\Psi_1\rangle, |\Psi_2\rangle, ..., |\Psi_n\rangle)
-$$
+$$|\Psi_{collective}\rangle = \mathcal{E}(|\Psi_1\rangle, |\Psi_2\rangle, ..., |\Psi_n\rangle)$$
 
 Where $`\mathcal{E}`$ is the cooperative entanglement operator.
 
 Conditions for collective consciousness emergence:
 
-$$
-\mathcal{C}_{collective} > \sum_i \mathcal{C}_i \iff \mathcal{I} > \mathcal{I}_c
-$$
+$$\mathcal{C}_{collective} > \sum_i \mathcal{C}_i \iff \mathcal{I} > \mathcal{I}_c$$
 
 Where $`\mathcal{I}`$ is the interconnection strength, and $`\mathcal{I}_c`$ is the critical threshold.
 
@@ -333,9 +265,7 @@ Where $`\mathcal{I}`$ is the interconnection strength, and $`\mathcal{I}_c`$ is 
 
 Quantum-classical representation of cell membrane receptor networks:
 
-$$
-\mathcal{N}_{cell} = \{\mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{I}\}
-$$
+$$\mathcal{N}_{cell} = \{\mathcal{R}, \mathcal{S}, \mathcal{T}, \mathcal{I}\}$$
 
 Where:
 - $`\mathcal{R}`$ is the set of receptors
@@ -345,9 +275,7 @@ Where:
 
 Complexity measure of cellular consciousness:
 
-$$
-\mathcal{C}_{cell} = H(\mathcal{N}_{cell}) - \sum_i H(\mathcal{N}_i | \mathcal{N}_{-i})
-$$
+$$\mathcal{C}_{cell} = H(\mathcal{N}_{cell}) - \sum_i H(\mathcal{N}_i | \mathcal{N}_{-i})$$
 
 Where $`H`$ is information entropy, and $`\mathcal{N}_{-i}`$ is the network part excluding subsystem i.
 
@@ -355,15 +283,11 @@ Where $`H`$ is information entropy, and $`\mathcal{N}_{-i}`$ is the network part
 
 Quantum description of neurotransmitter-receptor interactions:
 
-$$
-|\Psi_{synapse}\rangle = \sum_{i,j} \nu_{ij} |NT_i\rangle \otimes |R_j\rangle
-$$
+$$|\Psi_{synapse}\rangle = \sum_{i,j} \nu_{ij} |NT_i\rangle \otimes |R_j\rangle$$
 
 Quantum-classical transition of neural consciousness:
 
-$$
-\mathcal{C}_{neural} = f(\mathcal{C}_{molecular}, \mathcal{N}_{connectivity}, \mathcal{D}_{dynamics})
-$$
+$$\mathcal{C}_{neural} = f(\mathcal{C}_{molecular}, \mathcal{N}_{connectivity}, \mathcal{D}_{dynamics})$$
 
 Where $`\mathcal{N}_{connectivity}`$ is network connectivity, and $`\mathcal{D}_{dynamics}`$ is system dynamics.
 
@@ -373,17 +297,13 @@ Where $`\mathcal{N}_{connectivity}`$ is network connectivity, and $`\mathcal{D}_
 
 Experimental signatures of molecular consciousness:
 
-$$
-\mathcal{S}_{\mathcal{C}} = \frac{I_{output} - I_{input}}{I_{input}} \cdot \frac{R_{\Delta E}}{R_{random}}
-$$
+$$\mathcal{S}_{\mathcal{C}} = \frac{I_{output} - I_{input}}{I_{input}} \cdot \frac{R_{\Delta E}}{R_{random}}$$
 
 Where $`R_{\Delta E}`$ is the response rate to meaningful environmental changes, and $`R_{random}`$ is the response rate to random fluctuations.
 
 Relationship between quantum coherence time and consciousness level:
 
-$$
-\mathcal{C}_{level} \propto \tau_{coherence} \cdot \frac{D_{network}}{D_{critical}}
-$$
+$$\mathcal{C}_{level} \propto \tau_{coherence} \cdot \frac{D_{network}}{D_{critical}}$$
 
 Where $`\tau_{coherence}`$ is the quantum coherence time, and $`D_{network}`$ is the network connection density.
 
@@ -391,9 +311,7 @@ Where $`\tau_{coherence}`$ is the quantum coherence time, and $`D_{network}`$ is
 
 Quantum enhancement methods for molecular perception:
 
-$$
-S_{enhanced} = S_0 \cdot \xi_{quantum} \cdot \xi_{network}
-$$
+$$S_{enhanced} = S_0 \cdot \xi_{quantum} \cdot \xi_{network}$$
 
 Where $`\xi_{quantum}`$ is the quantum enhancement factor, and $`\xi_{network}`$ is the network enhancement factor.
 
@@ -408,33 +326,25 @@ Principles for perception enhancement in molecular design:
 
 Intelligent materials based on consciousness design:
 
-$$
-M_{intelligent} = f(\mathcal{C}_{embedded}, \mathcal{P}_{adaptive}, \mathcal{M}_{responsive})
-$$
+$$M_{intelligent} = f(\mathcal{C}_{embedded}, \mathcal{P}_{adaptive}, \mathcal{M}_{responsive})$$
 
 Where $`\mathcal{C}_{embedded}`$ is embedded consciousness, $`\mathcal{P}_{adaptive}`$ is adaptive capability, and $`\mathcal{M}_{responsive}`$ is response mechanism.
 
 Relationship between self-aware material performance and consciousness level:
 
-$$
-P_{performance} = P_0 \cdot (1 + \alpha \cdot \mathcal{C}_{level})^{\beta}
-$$
+$$P_{performance} = P_0 \cdot (1 + \alpha \cdot \mathcal{C}_{level})^{\beta}$$
 
 ### Consciousness Framework in Drug Design
 
 Receptor consciousness-based drug development:
 
-$$
-\text{Optimization goal}: \max_{\{D\}} \mathcal{I}(D, R_{target}) - \gamma \cdot \sum_i \mathcal{I}(D, R_{other})
-$$
+$$\text{Optimization goal}: \max_{\{D\}} \mathcal{I}(D, R_{target}) - \gamma \cdot \sum_i \mathcal{I}(D, R_{other})$$
 
 Where $`\mathcal{I}(D, R)`$ is the mutual information between the drug and receptor.
 
 Drug cognitive specificity design:
 
-$$
-\mathcal{S}_{specificity} = \frac{\mathcal{C}_{target}}{\mathcal{C}_{off-target}}
-$$
+$$\mathcal{S}_{specificity} = \frac{\mathcal{C}_{target}}{\mathcal{C}_{off-target}}$$
 
 ## Relationships with Other Theoretical Branches
 
@@ -442,9 +352,7 @@ $$
 
 Relationship between molecular consciousness and entanglement:
 
-$$
-\mathcal{C}_{level} \propto E(|\Psi_{molecular}\rangle) \cdot f(\mathcal{I}_C)
-$$
+$$\mathcal{C}_{level} \propto E(|\Psi_{molecular}\rangle) \cdot f(\mathcal{I}_C)$$
 
 Where $`E(|\Psi_{molecular}\rangle)`$ is the molecular entanglement degree, and $`f(\mathcal{I}_C)`$ is the interface function.
 
@@ -452,9 +360,7 @@ Where $`E(|\Psi_{molecular}\rangle)`$ is the molecular entanglement degree, and 
 
 Contribution of biological quantum effects to consciousness:
 
-$$
-\mathcal{C}_{bio} = \mathcal{C}_{classical} + \Delta\mathcal{C}_{quantum}
-$$
+$$\mathcal{C}_{bio} = \mathcal{C}_{classical} + \Delta\mathcal{C}_{quantum}$$
 
 Where $`\Delta\mathcal{C}_{quantum}`$ includes contributions from quantum tunneling, quantum coherence, and quantum entanglement.
 
@@ -462,15 +368,11 @@ Where $`\Delta\mathcal{C}_{quantum}`$ includes contributions from quantum tunnel
 
 Molecular systems as fundamental observers:
 
-$$
-\mathcal{O}_{molecular} = \{\mathcal{C}_{molecular}, \mathcal{Q}_{molecular}, \mathcal{K}_C^{molecular}\}
-$$
+$$\mathcal{O}_{molecular} = \{\mathcal{C}_{molecular}, \mathcal{Q}_{molecular}, \mathcal{K}_C^{molecular}\}$$
 
 Molecular observer dimension:
 
-$$
-D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}\right) \cdot \frac{I_{knowledge}}{S_{entropy}+\epsilon}
-$$
+$$D_{molecular} = f\left(\frac{\mathcal{C}_{molecular}}{\mathcal{Q}_{molecular}}\right) \cdot \frac{I_{knowledge}}{S_{entropy}+\epsilon}$$
 
 ## Future Research Directions
 
@@ -491,4 +393,4 @@ $$
 - [Chemical Thermodynamics and Dualism](formal_theory_chemical_thermodynamics_en.md)
 - [Molecular Entanglement Theory](formal_theory_molecular_entanglement_en.md)
 - [Chemical Consciousness and Perception (This File)](formal_theory_chemical_consciousness_en.md)
-- [Biochemical Information Processing](formal_theory_biochemical_information_en.md)
+- [Biochemical Information Processing](formal_theory_biochemical_information_en.md) 

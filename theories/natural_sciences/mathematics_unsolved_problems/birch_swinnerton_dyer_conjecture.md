@@ -24,19 +24,11 @@ Birch和Swinnerton-Dyer猜想（简称BSD猜想）是数论中的一个重要猜
 为了提供一个可被第三方验证的严格形式化证明，我们首先需要精确定义BSD猜想的数学表述。
 
 **定义 1 (椭圆曲线).** 定义在有理数域$`\mathbb{Q}`$上的椭圆曲线$`E`$可以表示为Weierstrass方程：
-
-$$
-E: y^2 = x^3 + ax + b
-$$
-
+$$E: y^2 = x^3 + ax + b$$
 其中$`a, b \in \mathbb{Q}`$且判别式$`\Delta = -16(4a^3 + 27b^2) \neq 0`$。
 
 **定义 2 (L函数).** 椭圆曲线$`E`$的L函数定义为无穷欧拉积：
-
-$$
-L(E, s) = \prod_{p \text{ 素数}} L_p(E, s)
-$$
-
+$$L(E, s) = \prod_{p \text{ 素数}} L_p(E, s)$$
 其中局部因子$`L_p(E, s)`$定义如下：
 - 当$`p`$是好约化素数时：$`L_p(E, s) = (1 - a_p p^{-s} + p^{1-2s})^{-1}`$
 - 当$`p`$是乘法约化素数时：$`L_p(E, s) = (1 - p^{-s})^{-1}`$
@@ -47,57 +39,37 @@ $$
 **定理 1 (BSD猜想的精确陈述).** 设$`E`$是定义在$`\mathbb{Q}`$上的椭圆曲线，则：
 1. $`\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)`$
 2. 当$`s \to 1`$时，$`L(E, s)`$的渐近行为满足：
-
-$$
-\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}
-$$
-
+   $$\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}$$
+   
 其中$`r = \text{rank}(E(\mathbb{Q}))`$，$`Ш(E/\mathbb{Q})`$是Tate-Shafarevich群，$`\Omega_E`$是周期，$`c_p`$是局部Tamagawa数，$`\text{Reg}(E/\mathbb{Q})`$是正则子，$`E(\mathbb{Q})_{tors}`$是有理点群的挠子群。
 
 **证明策略：**
 我们将通过以下步骤提供BSD猜想的证明框架：
 
 1. **高度函数理论**：建立椭圆曲线上点的高度函数$`h: E(\mathbb{Q}) \to \mathbb{R}`$，并证明：
-
-$$
-\text{rank}(E(\mathbb{Q})) = \dim_{\mathbb{R}}(E(\mathbb{Q}) \otimes \mathbb{R})
-$$
+   $$\text{rank}(E(\mathbb{Q})) = \dim_{\mathbb{R}}(E(\mathbb{Q}) \otimes \mathbb{R})$$
 
 2. **解析延拓**：证明$`L(E, s)`$可以解析延拓到整个复平面，并在$`s=1`$处具有阶数为$`r'`$的零点。
 
 3. **等式证明**：证明$`r = r'`$，即有理点群的秩等于L函数在$`s=1`$处的零点阶数。
 
 **引理 1.** 对于任何椭圆曲线$`E/\mathbb{Q}`$，我们有：
-
-$$
-\text{rank}(E(\mathbb{Q})) \leq \text{ord}_{s=1}L(E, s)
-$$
+$$\text{rank}(E(\mathbb{Q})) \leq \text{ord}_{s=1}L(E, s)$$
 
 **证明.**
 我们使用Kolyvagin引入的Euler系统方法。对于每个Kolyvagin导出的挠类$`\kappa_n \in H^1(\mathbb{Q}, E)`$，我们可以证明：
 1. 如果$`\text{ord}_{s=1}L(E, s) = r`$，则存在$`r`$个线性独立的导出挠类。
 2. 这些挠类在Selmer群$`\text{Sel}(E/\mathbb{Q})`$中构成一个秩为$`r`$的子空间。
 3. 根据Selmer群的定义，我们有短正合序列：
-
-$$
-0 \to E(\mathbb{Q})/mE(\mathbb{Q}) \to \text{Sel}_m(E/\mathbb{Q}) \to Ш(E/\mathbb{Q})[m] \to 0
-$$
-
+   $$0 \to E(\mathbb{Q})/mE(\mathbb{Q}) \to \text{Sel}_m(E/\mathbb{Q}) \to Ш(E/\mathbb{Q})[m] \to 0$$
 4. 由此可得$`\text{rank}(E(\mathbb{Q})) \leq r`$。$`\square`$
 
 **引理 2.** 对于某些特殊类型的椭圆曲线（如某些秩为1和秩为2的曲线），我们有：
-
-$$
-\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)
-$$
+$$\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)$$
 
 **证明.**
 对于秩为1的情形，Gross-Zagier公式建立了Heegner点高度与L函数导数之间的关系：
-
-$$
-L'(E, 1) = C \cdot h(y_K)
-$$
-
+$$L'(E, 1) = C \cdot h(y_K)$$
 其中$`y_K`$是Heegner点，$`C`$是明确的非零常数。这证明了如果$`L'(E, 1) \neq 0`$（即$`\text{ord}_{s=1}L(E, s) = 1`$），则$`y_K`$具有正高度，因此$`\text{rank}(E(\mathbb{Q})) \geq 1`$。
 
 结合引理1，我们得到$`\text{rank}(E(\mathbb{Q})) = 1 = \text{ord}_{s=1}L(E, s)`$。
@@ -105,25 +77,16 @@ $$
 对于秩为2的情形，可以通过Heegner点的派生构造和二阶导数公式进行类似证明。$`\square`$
 
 **引理 3.** 在假设Shafarevich-Tate群$`Ш(E/\mathbb{Q})`$有限的条件下，对于任何椭圆曲线$`E/\mathbb{Q}`$，我们有：
-
-$$
-\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)
-$$
+$$\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)$$
 
 **证明.**
 在假设$`Ш(E/\mathbb{Q})`$有限的条件下，我们可以使用Cassels-Tate配对和Poitou-Tate对偶性，证明：
-
-$$
-\dim_{\mathbb{Q}_p} \text{Sel}_{p^\infty}(E/\mathbb{Q}) \otimes \mathbb{Q}_p = \text{rank}(E(\mathbb{Q}))
-$$
+$$\dim_{\mathbb{Q}_p} \text{Sel}_{p^\infty}(E/\mathbb{Q}) \otimes \mathbb{Q}_p = \text{rank}(E(\mathbb{Q}))$$
 
 结合Nekovář的Euler系统理论和Rubin的工作，可以证明在$`L(E, s)`$在$`s=1`$处具有阶数为$`r`$的零点时，Selmer群的维数恰好为$`r`$。$`\square`$
 
 **L函数精确公式证明（部分）.** 对于精确公式：
-
-$$
-\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}
-$$
+$$\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}$$
 
 我们可以通过以下方法进行部分证明：
 
@@ -280,19 +243,11 @@ This conjecture is one of the seven Millennium Prize Problems established by the
 To provide a rigorous formal proof that can be verified by third parties, we first need to precisely define the mathematical formulation of the BSD Conjecture.
 
 **Definition 1 (Elliptic Curve).** An elliptic curve $`E`$ defined over the rational number field $`\mathbb{Q}`$ can be represented by a Weierstrass equation:
-
-$$
-E: y^2 = x^3 + ax + b
-$$
-
+$$E: y^2 = x^3 + ax + b$$
 where $`a, b \in \mathbb{Q}`$ and the discriminant $`\Delta = -16(4a^3 + 27b^2) \neq 0`$.
 
 **Definition 2 (L-function).** The L-function of an elliptic curve $`E`$ is defined as an infinite Euler product:
-
-$$
-L(E, s) = \prod_{p \text{ prime}} L_p(E, s)
-$$
-
+$$L(E, s) = \prod_{p \text{ prime}} L_p(E, s)$$
 where the local factors $`L_p(E, s)`$ are defined as follows:
 - For primes $`p`$ of good reduction: $`L_p(E, s) = (1 - a_p p^{-s} + p^{1-2s})^{-1}`$
 - For primes $`p`$ of multiplicative reduction: $`L_p(E, s) = (1 - p^{-s})^{-1}`$
@@ -303,57 +258,37 @@ where $`a_p = p + 1 - \#E(\mathbb{F}_p)`$, and $`\#E(\mathbb{F}_p)`$ is the numb
 **Theorem 1 (Precise Statement of the BSD Conjecture).** Let $`E`$ be an elliptic curve defined over $`\mathbb{Q}`$, then:
 1. $`\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)`$
 2. The asymptotic behavior of $`L(E, s)`$ as $`s \to 1`$ satisfies:
-
-$$
-\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}
-$$
-
+   $$\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}$$
+   
 where $`r = \text{rank}(E(\mathbb{Q}))`$, $`Ш(E/\mathbb{Q})`$ is the Tate-Shafarevich group, $`\Omega_E`$ is the period, $`c_p`$ are the local Tamagawa numbers, $`\text{Reg}(E/\mathbb{Q})`$ is the regulator, and $`E(\mathbb{Q})_{tors}`$ is the torsion subgroup of the group of rational points.
 
 **Proof Strategy:**
 We will provide a framework for proving the BSD Conjecture through the following steps:
 
 1. **Height Function Theory**: Establish a height function $`h: E(\mathbb{Q}) \to \mathbb{R}`$ on points of the elliptic curve, and prove:
-
-$$
-\text{rank}(E(\mathbb{Q})) = \dim_{\mathbb{R}}(E(\mathbb{Q}) \otimes \mathbb{R})
-$$
+   $$\text{rank}(E(\mathbb{Q})) = \dim_{\mathbb{R}}(E(\mathbb{Q}) \otimes \mathbb{R})$$
 
 2. **Analytic Continuation**: Prove that $`L(E, s)`$ can be analytically continued to the entire complex plane and has a zero of order $`r'`$ at $`s=1`$.
 
 3. **Equality Proof**: Prove that $`r = r'`$, i.e., the rank of the group of rational points equals the order of the zero of the L-function at $`s=1`$.
 
 **Lemma 1.** For any elliptic curve $`E/\mathbb{Q}`$, we have:
-
-$$
-\text{rank}(E(\mathbb{Q})) \leq \text{ord}_{s=1}L(E, s)
-$$
+$$\text{rank}(E(\mathbb{Q})) \leq \text{ord}_{s=1}L(E, s)$$
 
 **Proof.**
 We use the Euler system method introduced by Kolyvagin. For each Kolyvagin-derived cohomology class $`\kappa_n \in H^1(\mathbb{Q}, E)`$, we can prove:
 1. If $`\text{ord}_{s=1}L(E, s) = r`$, then there exist $`r`$ linearly independent derived cohomology classes.
 2. These cohomology classes form a subspace of rank $`r`$ in the Selmer group $`\text{Sel}(E/\mathbb{Q})`$.
 3. According to the definition of the Selmer group, we have a short exact sequence:
-
-$$
-0 \to E(\mathbb{Q})/mE(\mathbb{Q}) \to \text{Sel}_m(E/\mathbb{Q}) \to Ш(E/\mathbb{Q})[m] \to 0
-$$
-
+   $$0 \to E(\mathbb{Q})/mE(\mathbb{Q}) \to \text{Sel}_m(E/\mathbb{Q}) \to Ш(E/\mathbb{Q})[m] \to 0$$
 4. This implies $`\text{rank}(E(\mathbb{Q})) \leq r`$. $`\square`$
 
 **Lemma 2.** For certain special types of elliptic curves (such as certain curves of rank 1 and rank 2), we have:
-
-$$
-\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)
-$$
+$$\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)$$
 
 **Proof.**
 For the rank 1 case, the Gross-Zagier formula establishes a relationship between the height of Heegner points and the derivative of the L-function:
-
-$$
-L'(E, 1) = C \cdot h(y_K)
-$$
-
+$$L'(E, 1) = C \cdot h(y_K)$$
 where $`y_K`$ is the Heegner point and $`C`$ is an explicit non-zero constant. This proves that if $`L'(E, 1) \neq 0`$ (i.e., $`\text{ord}_{s=1}L(E, s) = 1`$), then $`y_K`$ has positive height, thus $`\text{rank}(E(\mathbb{Q})) \geq 1`$.
 
 Combined with Lemma 1, we get $`\text{rank}(E(\mathbb{Q})) = 1 = \text{ord}_{s=1}L(E, s)`$.
@@ -361,25 +296,16 @@ Combined with Lemma 1, we get $`\text{rank}(E(\mathbb{Q})) = 1 = \text{ord}_{s=1
 For the rank 2 case, a similar proof can be conducted using the derivatives of Heegner points and second-order derivative formulas. $`\square`$
 
 **Lemma 3.** Assuming the Shafarevich-Tate group $`Ш(E/\mathbb{Q})`$ is finite, for any elliptic curve $`E/\mathbb{Q}`$, we have:
-
-$$
-\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)
-$$
+$$\text{rank}(E(\mathbb{Q})) = \text{ord}_{s=1}L(E, s)$$
 
 **Proof.**
 Under the assumption that $`Ш(E/\mathbb{Q})`$ is finite, we can use the Cassels-Tate pairing and Poitou-Tate duality to prove:
-
-$$
-\dim_{\mathbb{Q}_p} \text{Sel}_{p^\infty}(E/\mathbb{Q}) \otimes \mathbb{Q}_p = \text{rank}(E(\mathbb{Q}))
-$$
+$$\dim_{\mathbb{Q}_p} \text{Sel}_{p^\infty}(E/\mathbb{Q}) \otimes \mathbb{Q}_p = \text{rank}(E(\mathbb{Q}))$$
 
 Combined with Nekovář's Euler system theory and Rubin's work, it can be proved that when $`L(E, s)`$ has a zero of order $`r`$ at $`s=1`$, the dimension of the Selmer group is exactly $`r`$. $`\square`$
 
 **Proof of the Exact Formula (Partial).** For the exact formula:
-
-$$
-\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}
-$$
+$$\lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = \frac{\#Ш(E/\mathbb{Q}) \cdot \Omega_E \cdot \prod_{p} c_p \cdot \text{Reg}(E/\mathbb{Q})}{(\#E(\mathbb{Q})_{tors})^2}$$
 
 We can provide a partial proof through the following methods:
 
@@ -517,4 +443,4 @@ In the quantum domain (infinite possibilities), elliptic curves and their associ
 
 When these quantum structures are projected into the classical domain (deterministic reality) through a specific observer dimension, what we observe is the exact correspondence between the algebraic properties of elliptic curves (the rank of the group of rational points) and the analytic properties of their L-functions (the order of zeros). This correspondence is not only qualitative but also quantitative, given by the exact formula in the BSD Conjecture.
 
-In simple terms, the BSD Conjecture reveals the quantum-classical dual unity between algebraic structures and analytic structures in algebraic number theory, reflecting the quantum-classical duality in the deep structure of mathematics. This duality suggests that, at a sufficiently high observation dimension, the distinctions between algebra and analysis, between discrete and continuous, are merely different classical projections of the same quantum reality.
+In simple terms, the BSD Conjecture reveals the quantum-classical dual unity between algebraic structures and analytic structures in algebraic number theory, reflecting the quantum-classical duality in the deep structure of mathematics. This duality suggests that, at a sufficiently high observation dimension, the distinctions between algebra and analysis, between discrete and continuous, are merely different classical projections of the same quantum reality. 

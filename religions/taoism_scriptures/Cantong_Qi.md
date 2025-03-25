@@ -1,10 +1,10 @@
 # 周易参同契在量子经典二元论下的解释
 # Cantong Qi Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#周易参同契概述) | [English Version](#cantong-qi-overview)
-**章节链接 | Section Links**
-中文：[周易参同契概述](#周易参同契概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)
+**导航 | Navigation**  
+[中文版](#周易参同契概述) | [English Version](#cantong-qi-overview)  
+**章节链接 | Section Links**  
+中文：[周易参同契概述](#周易参同契概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达) | [结论](#结论)  
 English: [Cantong Qi Overview](#cantong-qi-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达) | [Conclusion](#结论)
 
 ## 周易参同契概述
@@ -18,43 +18,43 @@ The Cantong Qi (The Seal of the Unity of the Three) is the foundational text of 
 ## Core Text
 
 > 乾坤者，易之门户，众卦之父母。
->
+> 
 > 坎离者，水火之用，日月之象，变化之枢纽。
->
+> 
 > 阴阳相摩，刚柔相济。
->
+> 
 > 八卦相盘，六爻相贯。
->
+> 
 > 水火相济，龙虎交媾，魂魄相抱。
->
+> 
 > 金丹之道，外药皆废。若了机关，皆由心造。
->
+> 
 > 先天炁，后天气，三华聚顶，五气朝元。
->
+> 
 > 大药元无质，难以图书着。治老还童，自古得者希。
->
+> 
 > 遇真师口诀，须先炼己待时。阴中伏阳，内外交泰。
->
+> 
 > 下手之时节，坎离自相会。进火符时候，抽添有定期。
 
 > Qian and Kun are the gateway of the Yijing, the parents of all hexagrams.
->
+> 
 > Kan and Li represent the functions of water and fire, the images of sun and moon, the pivot of transformation and change.
->
+> 
 > Yin and yang rub against each other, firmness and softness complement each other.
->
+> 
 > The eight trigrams interlock, the six lines penetrate one another.
->
+> 
 > Water and fire complement each other, dragon and tiger conjoin, hun and po souls embrace.
->
+> 
 > In the Way of the Golden Elixir, external medicines are all abandoned. If you understand the mechanism, everything is created by the mind.
->
+> 
 > Pre-heaven qi, post-heaven qi, the three flowers gather at the crown, the five energies return to their source.
->
+> 
 > The Great Medicine originally has no form, difficult to inscribe in charts and texts. Treating old age to return to youth, throughout history few have attained it.
->
+> 
 > Meeting a true master's oral instructions, one must first refine oneself and await the proper time. Yang is concealed within yin, inside and outside achieve great harmony.
->
+> 
 > The time of starting the work is when Kan and Li naturally meet. The timing for applying fire follows fixed periods of withdrawal and addition.
 
 ## 量子经典二元论解释
@@ -195,4 +195,4 @@ $$
 
 As the foundational text of Taoist internal alchemy, the cultivation system of the Cantong Qi has received a new scientific interpretation through the Quantum-Classical Dualism framework. The traditional alchemical symbol system of "Qian-Kun, Kan-Li" corresponds to the basic state structure of the quantum domain, the "Golden Elixir" cultivation process corresponds to the optimization process of observer classicalization efficiency, and specific techniques such as "applying fire, withdrawal and addition" embody the precise control mechanisms of quantum measurement and wave function collapse.
 
-This interpretation reveals the deep physical foundation of internal alchemy in the Cantong Qi: by adjusting internal consciousness states (observer parameters) to influence the body's energy system (quantum states), achieving optimized reorganization of the body-mind system (increasing the proportion of classical knowledge), and ultimately reaching the goal of "Great Medicine" completion (optimal classicalization efficiency). This not only provides a modern scientific explanation for traditional alchemy but also demonstrates the amazing connection between ancient Eastern wisdom and modern quantum physics.
+This interpretation reveals the deep physical foundation of internal alchemy in the Cantong Qi: by adjusting internal consciousness states (observer parameters) to influence the body's energy system (quantum states), achieving optimized reorganization of the body-mind system (increasing the proportion of classical knowledge), and ultimately reaching the goal of "Great Medicine" completion (optimal classicalization efficiency). This not only provides a modern scientific explanation for traditional alchemy but also demonstrates the amazing connection between ancient Eastern wisdom and modern quantum physics. 

@@ -1,10 +1,10 @@
 # 冥想减熵机制：量子经典二元论视角
 # Meditation Entropy Reduction Mechanism: A Quantum-Classical Dualism Perspective
 
-**导航 | Navigation**
-[中文版](#引言) | [English Version](#introduction)
-**章节链接 | Section Links**
-中文：[引言](#引言) | [核心机制](#冥想减熵的核心机制) | [神经科学证据](#冥想减熵的神经科学证据) | [实践应用](#冥想减熵的实践应用) | [结论](#结论)
+**导航 | Navigation**  
+[中文版](#引言) | [English Version](#introduction)  
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [核心机制](#冥想减熵的核心机制) | [神经科学证据](#冥想减熵的神经科学证据) | [实践应用](#冥想减熵的实践应用) | [结论](#结论)  
 English: [Introduction](#introduction) | [Core Mechanisms](#core-mechanisms-of-meditation-entropy-reduction) | [Neuroscience Evidence](#neuroscience-evidence-of-meditation-entropy-reduction) | [Practical Applications](#practical-applications-of-meditation-entropy-reduction) | [Conclusion](#conclusion)
 
 ## 引言
@@ -84,4 +84,4 @@ I_{\text{复杂自我概念（高熵经典结构）}} \xrightarrow{\text{冥想}
 
 ## 结论
 
-冥想作为减熵的有效工具，其核心机制可以通过量子经典二元论得到深入解释。通过控制经典化过程、提升观察者维度、调整量子-经典平衡、同步神经振荡和简化自我概念，冥想实现了心智系统的熵减，从而带来宁静、清晰和高度整合的意识状态。这一理解不仅解释了冥想的工作原理，也为优化冥想实践和应用提供了理论指导。
+冥想作为减熵的有效工具，其核心机制可以通过量子经典二元论得到深入解释。通过控制经典化过程、提升观察者维度、调整量子-经典平衡、同步神经振荡和简化自我概念，冥想实现了心智系统的熵减，从而带来宁静、清晰和高度整合的意识状态。这一理解不仅解释了冥想的工作原理，也为优化冥想实践和应用提供了理论指导。 

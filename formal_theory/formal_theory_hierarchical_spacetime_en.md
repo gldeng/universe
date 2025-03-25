@@ -14,17 +14,13 @@ Hierarchical Spacetime Theory provides a comprehensive framework for understandi
 
 Spacetime exists as a hierarchical, nested structure with multiple levels of organization:
 
-$$
-\mathcal{S} = \{\mathcal{S}_1, \mathcal{S}_2, ..., \mathcal{S}_n\}
-$$
+$$\mathcal{S} = \{\mathcal{S}_1, \mathcal{S}_2, ..., \mathcal{S}_n\}$$
 
 where $`\mathcal{S}_i`$ represents the i-th level of spacetime structure.
 
 Each level emerges from the quantum-classical interactions at the level below, creating a recursive pattern:
 
-$$
-\mathcal{S}_{i+1} = \mathcal{E}(\Omega_Q^{(i)}, \Omega_C^{(i)})
-$$
+$$\mathcal{S}_{i+1} = \mathcal{E}(\Omega_Q^{(i)}, \Omega_C^{(i)})$$
 
 where $`\mathcal{E}`$ is the emergence operator that generates higher-level spacetime from quantum-classical interactions.
 
@@ -32,17 +28,13 @@ where $`\mathcal{E}`$ is the emergence operator that generates higher-level spac
 
 Physical laws manifest differently at various spacetime scales, yet maintain mathematical consistency across levels:
 
-$$
-\mathcal{L}_i = \mathcal{T}(\mathcal{L}_{i-1}, s_i)
-$$
+$$\mathcal{L}_i = \mathcal{T}(\mathcal{L}_{i-1}, s_i)$$
 
 where $`\mathcal{L}_i`$ represents the laws of physics at level i, $`\mathcal{T}`$ is the transformation function, and $`s_i`$ is the scale factor.
 
 The effective constants of nature may vary across scales:
 
-$$
-\alpha_i = \alpha_0 \cdot f(s_i)
-$$
+$$\alpha_i = \alpha_0 \cdot f(s_i)$$
 
 where $`\alpha_i`$ is a physical constant at level i, $`\alpha_0`$ is its fundamental value, and $`f(s_i)`$ is a scale-dependent function.
 
@@ -50,15 +42,11 @@ where $`\alpha_i`$ is a physical constant at level i, $`\alpha_0`$ is its fundam
 
 Information flows between adjacent spacetime levels through special boundary regions:
 
-$$
-\mathcal{I}_{i,i+1} = \Omega_C^{(i)} \cap \Omega_Q^{(i+1)}
-$$
+$$\mathcal{I}_{i,i+1} = \Omega_C^{(i)} \cap \Omega_Q^{(i+1)}$$
 
 The information transfer between levels follows:
 
-$$
-I_{i \rightarrow i+1} = \eta_{i,i+1} \cdot I_i
-$$
+$$I_{i \rightarrow i+1} = \eta_{i,i+1} \cdot I_i$$
 
 where $`I_{i \rightarrow i+1}`$ is the information transferred from level i to i+1, $`I_i`$ is the total information at level i, and $`\eta_{i,i+1}`$ is the transfer efficiency.
 
@@ -66,15 +54,11 @@ where $`I_{i \rightarrow i+1}`$ is the information transferred from level i to i
 
 Observers of dimension D perceive reality primarily at corresponding spacetime levels:
 
-$$
-\mathcal{O}(D) \sim \mathcal{S}_i \text{ where } i \approx \lfloor D \rfloor
-$$
+$$\mathcal{O}(D) \sim \mathcal{S}_i \text{ where } i \approx \lfloor D \rfloor$$
 
 Higher-dimensional observers can access multiple spacetime levels simultaneously:
 
-$$
-\mathcal{P}_{\mathcal{O}(D)}(\mathcal{S}_i) = \frac{e^{-(i-D)^2/2\sigma^2}}{\sum_j e^{-(j-D)^2/2\sigma^2}}
-$$
+$$\mathcal{P}_{\mathcal{O}(D)}(\mathcal{S}_i) = \frac{e^{-(i-D)^2/2\sigma^2}}{\sum_j e^{-(j-D)^2/2\sigma^2}}$$
 
 where $`\mathcal{P}_{\mathcal{O}(D)}(\mathcal{S}_i)`$ is the probability of observer with dimension D perceiving spacetime level i, and $`\sigma`$ is the perception width parameter.
 
@@ -100,9 +84,7 @@ The model provides a framework for understanding the large-scale structure of th
 
 The effective dimensionality of spacetime varies across levels:
 
-$$
-D_{eff}(\mathcal{S}_i) = D_0 + \Delta D(i)
-$$
+$$D_{eff}(\mathcal{S}_i) = D_0 + \Delta D(i)$$
 
 The variance in effective dimensions explains why certain theories require higher dimensions at fundamental scales while everyday experience remains effectively four-dimensional.
 
@@ -118,9 +100,7 @@ The variance in effective dimensions explains why certain theories require highe
 
 The metric at each level relates to metrics at adjacent levels:
 
-$$
-g_{\mu\nu}^{(i)} = \Phi_i(g_{\mu\nu}^{(i-1)}) + \delta g_{\mu\nu}^{(i)}
-$$
+$$g_{\mu\nu}^{(i)} = \Phi_i(g_{\mu\nu}^{(i-1)}) + \delta g_{\mu\nu}^{(i)}$$
 
 where $`\Phi_i`$ is a level-specific transformation, and $`\delta g_{\mu\nu}^{(i)}`$ represents emergent metric components.
 
@@ -128,9 +108,7 @@ where $`\Phi_i`$ is a level-specific transformation, and $`\delta g_{\mu\nu}^{(i
 
 The generalized field equations at level i:
 
-$$
-G_{\mu\nu}^{(i)} = 8\pi G_i T_{\mu\nu}^{(i)} + \Lambda_i g_{\mu\nu}^{(i)} + \Psi_{\mu\nu}^{(i,i-1)} + \Phi_{\mu\nu}^{(i,i+1)}
-$$
+$$G_{\mu\nu}^{(i)} = 8\pi G_i T_{\mu\nu}^{(i)} + \Lambda_i g_{\mu\nu}^{(i)} + \Psi_{\mu\nu}^{(i,i-1)} + \Phi_{\mu\nu}^{(i,i+1)}$$
 
 where $`\Psi_{\mu\nu}^{(i,i-1)}`$ and $`\Phi_{\mu\nu}^{(i,i+1)}`$ represent inter-level interaction terms.
 
@@ -162,4 +140,4 @@ where $`\Psi_{\mu\nu}^{(i,i-1)}`$ and $`\Phi_{\mu\nu}^{(i,i+1)}`$ represent inte
 - [Quantum Gravity and Spacetime Emergence](formal_theory_gravity_spacetime_en.md)
 - [Observer Theory](formal_theory_observer_en.md)
 - [Hierarchical Spacetime Theory (This File)](formal_theory_hierarchical_spacetime_en.md)
-- [Information-Space-Energy Unified Theory](formal_theory_unified_en.md)
+- [Information-Space-Energy Unified Theory](formal_theory_unified_en.md) 

@@ -1,10 +1,10 @@
 # 中庸在量子经典二元论下的解释
 # Doctrine of the Mean Explained Through Quantum-Classical Dualism
 
-**导航 | Navigation**
-[中文版](#中庸概述) | [English Version](#doctrine-of-the-mean-overview)
-**章节链接 | Section Links**
-中文：[中庸概述](#中庸概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)
+**导航 | Navigation**  
+[中文版](#中庸概述) | [English Version](#doctrine-of-the-mean-overview)  
+**章节链接 | Section Links**  
+中文：[中庸概述](#中庸概述) | [核心经文](#核心经文) | [量子经典二元论解释](#量子经典二元论解释) | [公式表达](#公式表达)  
 English: [Doctrine of the Mean Overview](#doctrine-of-the-mean-overview) | [Core Text](#核心经文) | [Quantum-Classical Explanation](#量子经典二元论解释) | [Formula Expression](#公式表达)
 
 ## 中庸概述
@@ -152,4 +152,4 @@ $$
 
 《中庸》作为儒家思想的核心经典，其哲学洞见与量子经典二元论框架（版本9.2）展现出惊人的结构性对应。中庸之道强调的平衡、适度与和谐，本质上描述了量子域与经典域之间的最优转化关系以及观察者经典化效率的最大化过程。《中庸》的"中和"对应量子潜能与经典实现的平衡，"诚"对应观察者经典化效率的最优化，而"尽性"则对应观察者维度的极限提升。通过量子经典二元论的视角，我们不仅能更深入地理解《中庸》的哲学深度，也能发现这部两千多年前的古老经典与现代量子物理学之间存在的惊人共鸣，为中国传统哲学与现代科学的对话提供了新的可能性。
 
-The Doctrine of the Mean, as a core classic of Confucian thought, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). The Way of the Mean, emphasizing balance, moderation, and harmony, essentially describes the optimal transformation relationship between quantum and classical domains and the maximization process of observer classicalization efficiency. The "equilibrium and harmony" in the Doctrine of the Mean corresponds to the balance between quantum potential and classical realization, "sincerity" corresponds to the optimization of observer classicalization efficiency, and "fully developing nature" corresponds to the ultimate elevation of observer dimension. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Doctrine of the Mean more thoroughly but also discover the amazing resonance between this ancient classic from over two thousand years ago and modern quantum physics, providing new possibilities for dialogue between traditional Chinese philosophy and modern science.
+The Doctrine of the Mean, as a core classic of Confucian thought, demonstrates remarkable structural correspondence with the Quantum-Classical Dualism framework (version 9.2). The Way of the Mean, emphasizing balance, moderation, and harmony, essentially describes the optimal transformation relationship between quantum and classical domains and the maximization process of observer classicalization efficiency. The "equilibrium and harmony" in the Doctrine of the Mean corresponds to the balance between quantum potential and classical realization, "sincerity" corresponds to the optimization of observer classicalization efficiency, and "fully developing nature" corresponds to the ultimate elevation of observer dimension. Through the perspective of Quantum-Classical Dualism, we can not only understand the philosophical depth of the Doctrine of the Mean more thoroughly but also discover the amazing resonance between this ancient classic from over two thousand years ago and modern quantum physics, providing new possibilities for dialogue between traditional Chinese philosophy and modern science. 

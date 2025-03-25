@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生平 (Life Span)**: 1834年2月8日 - 1907年2月2日
-**国籍 (Nationality)**: 俄国 (Russian)
-**领域 (Fields)**: 化学、物理学、计量学
+**生平 (Life Span)**: 1834年2月8日 - 1907年2月2日  
+**国籍 (Nationality)**: 俄国 (Russian)  
+**领域 (Fields)**: 化学、物理学、计量学  
 **代表作品/成就 (Representative Works/Achievements)**: 元素周期表、化学元素周期律、《化学原理》
 
 ## 核心思想 (Core Ideas)
@@ -106,21 +106,21 @@ $$
 ## 经典引言 | Classic Quotes
 
 > "一切事物都有规律，元素也不例外。"
->
+> 
 > "Everything in the world is subject to laws, and the elements are no exception."
 
 > "科学的伟大之处在于能够预测未知。"
->
+> 
 > "The greatness of science lies in its ability to predict the unknown."
 
 > "在化学中，无法被归纳的事实与真相一样少。"
->
+> 
 > "In chemistry, facts that cannot be generalized are as rare as the truth."
 
 > "我宁愿相信规律的存在，也不相信单纯的巧合。"
->
+> 
 > "I would rather believe in the existence of laws than in mere coincidences."
 
 > "没有对过去的正确理解，就不会有对未来的真正把握。"
->
+> 
 > "Without a proper understanding of the past, there can be no real grasp of the future."

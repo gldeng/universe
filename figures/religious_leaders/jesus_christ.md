@@ -138,4 +138,4 @@ Jesus Christ's teachings became the foundation of Christianity, influencing near
 
 > "我就是道路、真理、生命。" ——约翰福音14:6
 >
-> "I am the way, and the truth, and the life." —John 14:6
+> "I am the way, and the truth, and the life." —John 14:6 

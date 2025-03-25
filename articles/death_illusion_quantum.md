@@ -179,4 +179,4 @@ Of course, this theoretical framework cannot be fully proven by current scientif
 
 Whether death is an end or a transformation, understanding the view of life and death in Quantum-Classical Dualism can help us live more fully in the present, face the future more peacefully, and understand more profoundly our nature as observers and conscious beings.
 
-On the quantum stage of the universe, perhaps there are no true endings, only endless possibilities for transformation and reclassicalization.
+On the quantum stage of the universe, perhaps there are no true endings, only endless possibilities for transformation and reclassicalization. 

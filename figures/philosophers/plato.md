@@ -2,9 +2,9 @@
 
 ## 基本信息 | Basic Information
 
-**生卒年份 | Lifespan**: 约公元前427年-公元前347年 (c. 427-347 BCE)
-**国籍 | Nationality**: 古希腊雅典 (Ancient Athens, Greece)
-**主要领域 | Main Fields**: 哲学、形而上学、认识论、伦理学、政治哲学 (Philosophy, Metaphysics, Epistemology, Ethics, Political Philosophy)
+**生卒年份 | Lifespan**: 约公元前427年-公元前347年 (c. 427-347 BCE)  
+**国籍 | Nationality**: 古希腊雅典 (Ancient Athens, Greece)  
+**主要领域 | Main Fields**: 哲学、形而上学、认识论、伦理学、政治哲学 (Philosophy, Metaphysics, Epistemology, Ethics, Political Philosophy)  
 **代表作品 | Representative Works**: 《理想国》、《申辩篇》、《会饮篇》、《斐多篇》、《智者篇》、《蒂迈欧篇》 (The Republic, Apology, Symposium, Phaedo, Sophist, Timaeus)
 
 ## 核心思想 | Core Ideas
@@ -205,4 +205,4 @@ Plato believed that the soul already contains all knowledge, and learning is jus
 - "The purpose of education is not to fill the mind with knowledge, but to awaken the soul."
 - "Love is a serious mental disease."
 - "The state where those who are to rule are least eager to do so will be the best-governed state."
-- "Opinion is not knowledge."
+- "Opinion is not knowledge." 

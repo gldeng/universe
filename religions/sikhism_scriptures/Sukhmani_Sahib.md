@@ -1,9 +1,9 @@
 # 苏克玛尼·萨希卜 (Sukhmani Sahib)
 
-**导航 | Navigation**
-[中文版](#苏克玛尼·萨希卜解析) | [English Version](#sukhmani-sahib-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#苏克玛尼·萨希卜解析) | [English Version](#sukhmani-sahib-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -79,4 +79,4 @@ $$
 
 苏克玛尼·萨希卜通过量子经典二元论框架（版本9.2）的解析，揭示了名号冥想（Naam Simran）如何优化观察者的量子经典转换过程。反复念诵上帝的名号实质上是一种引导量子涨落向特定状态收敛的方法，通过降低心灵的经典熵（消除"五盗贼"），提高经典化效率系数。锡克教强调的一体性观念（"上主自己是一切"）反映了宇宙级量子纠缠的理解，而社区（桑加特）中的集体冥想则利用多观察者协同效应增强经典化效果。苏克玛尼·萨希卜描述的圣人特质（超越二元对立、保持平和心态）则体现了高维观察者的经典化特征。通过长期的名号冥想实践，观察者可逐步从Manmukh（面向自我者）转变为Gurmukh（面向古鲁者），实现维度提升和量子经典转换效率的最优化。
 
-Sukhmani Sahib, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how Name meditation (Naam Simran) optimizes the observer's quantum-classical conversion process. Repeated recitation of God's Name is essentially a method to guide quantum fluctuations to converge toward a specific state, increasing the classicalization efficiency coefficient by reducing the classical entropy of the mind (eliminating the "five thieves"). The concept of oneness emphasized in Sikhism ("The Lord Himself is everything") reflects an understanding of universal quantum entanglement, while collective meditation in the community (Sangat) leverages multi-observer synergistic effects to enhance classicalization. The characteristics of saints described in Sukhmani Sahib (transcending binary oppositions, maintaining a peaceful mindset) embody the characteristics of higher-dimensional observers, demonstrating the quantum domain creativity and classical domain stability that ideal observers should possess simultaneously. Through long-term practice of Name meditation, observers can gradually transform from Manmukh (self-oriented) to Gurmukh (Guru-oriented), achieving dimensional elevation and optimization of quantum-classical conversion efficiency.
+Sukhmani Sahib, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals how Name meditation (Naam Simran) optimizes the observer's quantum-classical conversion process. Repeated recitation of God's Name is essentially a method to guide quantum fluctuations to converge toward a specific state, increasing the classicalization efficiency coefficient by reducing the classical entropy of the mind (eliminating the "five thieves"). The concept of oneness emphasized in Sikhism ("The Lord Himself is everything") reflects an understanding of universal quantum entanglement, while collective meditation in the community (Sangat) leverages multi-observer synergistic effects to enhance classicalization. The characteristics of saints described in Sukhmani Sahib (transcending binary oppositions, maintaining a peaceful mindset) embody the characteristics of higher-dimensional observers, demonstrating the quantum domain creativity and classical domain stability that ideal observers should possess simultaneously. Through long-term practice of Name meditation, observers can gradually transform from Manmukh (self-oriented) to Gurmukh (Guru-oriented), achieving dimensional elevation and optimization of quantum-classical conversion efficiency. 

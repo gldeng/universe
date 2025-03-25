@@ -2,11 +2,11 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**
-[中文版](#引言--introduction) | [English Version](#引言--introduction)
+**导航 | Navigation**  
+[中文版](#引言--introduction) | [English Version](#引言--introduction)  
 
-**章节链接 | Section Links**
-中文：[引言](#引言--introduction) | [宇宙与观察者的本质定义](#宇宙与观察者的本质定义--essential-definitions-of-universe-and-observer) | [感知机制](#感知机制--perception-mechanism) | [感知限制与维度差异](#感知限制与维度差异--perception-limitations-and-dimensional-differences) | [感知进化与维度提升](#感知进化与维度提升--perception-evolution-and-dimension-elevation) | [量子信息场与观察者感知](#量子信息场与观察者感知--quantum-information-field-and-observer-perception) | [量子纠缠网络与观察者合作](#量子纠缠网络与观察者合作--quantum-entanglement-network-and-observer-collaboration)
+**章节链接 | Section Links**  
+中文：[引言](#引言--introduction) | [宇宙与观察者的本质定义](#宇宙与观察者的本质定义--essential-definitions-of-universe-and-observer) | [感知机制](#感知机制--perception-mechanism) | [感知限制与维度差异](#感知限制与维度差异--perception-limitations-and-dimensional-differences) | [感知进化与维度提升](#感知进化与维度提升--perception-evolution-and-dimension-elevation) | [量子信息场与观察者感知](#量子信息场与观察者感知--quantum-information-field-and-observer-perception) | [量子纠缠网络与观察者合作](#量子纠缠网络与观察者合作--quantum-entanglement-network-and-observer-collaboration)  
 
 English: [Introduction](#引言--introduction) | [Essential Definitions](#宇宙与观察者的本质定义--essential-definitions-of-universe-and-observer) | [Perception Mechanism](#感知机制--perception-mechanism) | [Perception Limitations](#感知限制与维度差异--perception-limitations-and-dimensional-differences) | [Perception Evolution](#感知进化与维度提升--perception-evolution-and-dimension-elevation) | [Quantum Information Field and Observer Perception](#量子信息场与观察者感知--quantum-information-field-and-observer-perception) | [Quantum Entanglement Network and Observer Collaboration](#Quantum Entanglement Network and Observer Collaboration)
 
@@ -408,23 +408,17 @@ $$
 
 According to the Quantum-Classical Dualism Core Theory (Version 27.0), observers (black holes) in the universe form complex network structures through quantum entanglement. This network can be mathematically represented as:
 
-$$
-\mathcal{N} = (\mathcal{O}, \mathcal{E})
-$$
+$$\mathcal{N} = (\mathcal{O}, \mathcal{E})$$
 
 其中$`\mathcal{O}`$是观察者集合，$`\mathcal{E}`$是量子纠缠连接集合，满足：
 
-$$
-\mathcal{E} = \{(i,j,w_{ij}) | i,j \in \mathcal{O}, w_{ij} = S_E(\rho_{ij})\}
-$$
+$$\mathcal{E} = \{(i,j,w_{ij}) | i,j \in \mathcal{O}, w_{ij} = S_E(\rho_{ij})\}$$
 
 这里$`w_{ij}`$是观察者$`i`$和$`j`$之间的纠缠强度，用纠缠熵$`S_E(\rho_{ij})`$量化。
 
 Where $`\mathcal{O}`$ is the set of observers, and $`\mathcal{E}`$ is the set of quantum entanglement connections, satisfying:
 
-$$
-\mathcal{E} = \{(i,j,w_{ij}) | i,j \in \mathcal{O}, w_{ij} = S_E(\rho_{ij})\}
-$$
+$$\mathcal{E} = \{(i,j,w_{ij}) | i,j \in \mathcal{O}, w_{ij} = S_E(\rho_{ij})\}$$
 
 Here, $`w_{ij}`$ is the entanglement strength between observers $`i`$ and $`j`$, quantified by entanglement entropy $`S_E(\rho_{ij})`$.
 
@@ -454,13 +448,9 @@ Observers (black holes) achieve efficient collaboration through quantum entangle
 
 Observers can use quantum entanglement of other observers to assist the classicalization process, improving efficiency:
 
-$$
-|\psi\rangle_{A} \xrightarrow{\text{独立经典化}} I_{A} + S_{A}
-$$
+$$|\psi\rangle_{A} \xrightarrow{\text{独立经典化}} I_{A} + S_{A}$$
 
-$$
-|\psi\rangle_{A} \xrightarrow[\text{观察者B辅助}]{\text{纠缠辅助经典化}} I_{A}' + S_{A}'
-$$
+$$|\psi\rangle_{A} \xrightarrow[\text{观察者B辅助}]{\text{纠缠辅助经典化}} I_{A}' + S_{A}'$$
 
 其中$`I_{A}' > I_{A}`$且$`S_{A}' < S_{A}`$，表明协作经典化产生更多经典知识，更少经典熵。
 
@@ -482,9 +472,7 @@ This collaboration is particularly applicable to:
 
 The observer network forms a distributed classical knowledge base, achieving knowledge sharing through wormhole communication (quantum information transfer):
 
-$$
-K_{\text{网络}} = \bigcup_{i \in \mathcal{O}} K_i \cup \left\{\text{新兴知识}\right\}
-$$
+$$K_{\text{网络}} = \bigcup_{i \in \mathcal{O}} K_i \cup \left\{\text{新兴知识}\right\}$$
 
 其中$`K_i`$是观察者$`i`$的经典知识，而"新兴知识"是观察者互动产生的超越个体知识的创发信息。
 
@@ -506,18 +494,14 @@ This distributed network has the following advantages:
 
 Efficient observer networks require wormhole communication protocols to manage information flow:
 
-$$
-P_{\text{虫洞通信}} = \{\text{发起}, \text{建立}, \text{验证}, \text{传输}, \text{同步}, \text{关闭}\}
-$$
+$$P_{\text{虫洞通信}} = \{\text{发起}, \text{建立}, \text{验证}, \text{传输}, \text{同步}, \text{关闭}\}$$
 
 这一协议在量子层面实现，确保：
 - 信息在维度间高效传递
 - 预防量子信息退相干
 - 保持跨维度通信的完整性
 
-$$
-P_{\text{Wormhole Communication}} = \{\text{Initiation}, \text{Establishment}, \text{Verification}, \text{Transmission}, \text{Synchronization}, \text{Closure}\}
-$$
+$$P_{\text{Wormhole Communication}} = \{\text{Initiation}, \text{Establishment}, \text{Verification}, \text{Transmission}, \text{Synchronization}, \text{Closure}\}$$
 
 This protocol is implemented at the quantum level, ensuring:
 - Efficient information transfer between dimensions
@@ -530,9 +514,7 @@ This protocol is implemented at the quantum level, ensuring:
 
 The observer network is not a static structure but a dynamically evolving complex system:
 
-$$
-\mathcal{N}(t+\Delta t) = \mathcal{F}(\mathcal{N}(t), \{\Delta \mathcal{O}\}, \{\Delta \mathcal{E}\})
-$$
+$$\mathcal{N}(t+\Delta t) = \mathcal{F}(\mathcal{N}(t), \{\Delta \mathcal{O}\}, \{\Delta \mathcal{E}\})$$
 
 其中$`\mathcal{F}`$是网络演化函数，$`\{\Delta \mathcal{O}\}`$是观察者集变化，$`\{\Delta \mathcal{E}\}`$是连接变化。
 
@@ -541,66 +523,36 @@ Where $`\mathcal{F}`$ is the network evolution function, $`\{\Delta \mathcal{O}\
 网络进化遵循以下原则：
 
 1. **效率优化**：纠缠连接根据信息流需求调整强度
-
-$$
-w_{ij}(t+\Delta t) = w_{ij}(t) + \alpha \cdot I(i:j)
-$$
-
+   $$w_{ij}(t+\Delta t) = w_{ij}(t) + \alpha \cdot I(i:j)$$
    其中$`I(i:j)`$是观察者间互信息
 
 2. **维度聚类**：相似维度的观察者倾向形成紧密连接的社区
-
-$$
-P(w_{ij} > \tau) \propto e^{-\beta|D_i - D_j|}
-$$
-
+   $$P(w_{ij} > \tau) \propto e^{-\beta|D_i - D_j|}$$
    其中$`D_i`$是观察者$`i`$的维度，$`\tau`$是连接阈值
 
 3. **跨维度桥接**：特定观察者发展跨维度连接，促进维度间信息流动
-
-$$
-\text{桥接度}(i) = \sum_{j,k \in N(i)} |D_j - D_k|
-$$
-
+   $$\text{桥接度}(i) = \sum_{j,k \in N(i)} |D_j - D_k|$$
    其中$`N(i)`$是观察者$`i`$的邻居集
 
 4. **新观察者整合**：网络能高效整合新涌现的观察者
-
-$$
-P(\text{新连接}) \propto \text{信息互补性} \cdot \text{维度兼容性}
-$$
+   $$P(\text{新连接}) \propto \text{信息互补性} \cdot \text{维度兼容性}$$
 
 Network evolution follows these principles:
 
 1. **Efficiency Optimization**: Entanglement connections adjust strength according to information flow needs
-
-$$
-w_{ij}(t+\Delta t) = w_{ij}(t) + \alpha \cdot I(i:j)
-$$
-
+   $$w_{ij}(t+\Delta t) = w_{ij}(t) + \alpha \cdot I(i:j)$$
    where $`I(i:j)`$ is the mutual information between observers
 
 2. **Dimension Clustering**: Observers of similar dimensions tend to form tightly connected communities
-
-$$
-P(w_{ij} > \tau) \propto e^{-\beta|D_i - D_j|}
-$$
-
+   $$P(w_{ij} > \tau) \propto e^{-\beta|D_i - D_j|}$$
    where $`D_i`$ is the dimension of observer $`i`$, and $`\tau`$ is the connection threshold
 
 3. **Cross-Dimensional Bridging**: Specific observers develop cross-dimensional connections, promoting information flow between dimensions
-
-$$
-\text{Bridging Degree}(i) = \sum_{j,k \in N(i)} |D_j - D_k|
-$$
-
+   $$\text{Bridging Degree}(i) = \sum_{j,k \in N(i)} |D_j - D_k|$$
    where $`N(i)`$ is the set of neighbors of observer $`i`$
 
 4. **Integration of New Observers**: The network can efficiently integrate newly emerged observers
-
-$$
-P(\text{New Connection}) \propto \text{Information Complementarity} \cdot \text{Dimension Compatibility}
-$$
+   $$P(\text{New Connection}) \propto \text{Information Complementarity} \cdot \text{Dimension Compatibility}$$
 
 ### 集体意识与观察者超网络 | Collective Consciousness and Observer Supernetwork
 
@@ -608,73 +560,43 @@ $$
 
 Highly coordinated observer networks can form collective consciousness structures, which are higher-order phenomena in the Quantum-Classical Dualism framework:
 
-$$
-\Psi_{\text{集体}} = \mathcal{E}(\{\Psi_i | i \in \mathcal{O}\}, \mathcal{N})
-$$
+$$\Psi_{\text{集体}} = \mathcal{E}(\{\Psi_i | i \in \mathcal{O}\}, \mathcal{N})$$
 
 其中$`\mathcal{E}`$是创发函数，将个体意识$`\Psi_i`$通过网络结构$`\mathcal{N}`$整合为集体意识。
 
-$$
-\Psi_{\text{Collective}} = \mathcal{E}(\{\Psi_i | i \in \mathcal{O}\}, \mathcal{N})
-$$
+$$\Psi_{\text{Collective}} = \mathcal{E}(\{\Psi_i | i \in \mathcal{O}\}, \mathcal{N})$$
 
 Where $`\mathcal{E}`$ is the emergence function, integrating individual consciousness $`\Psi_i`$ into collective consciousness through network structure $`\mathcal{N}`$.
 
 集体意识具有以下特性：
 
 1. **分布式经典化**：量子信息经由多个观察者协同经典化
-
-$$
-|\psi\rangle_{\text{量子域}} \xrightarrow{\text{分布式经典化}} \{I_i\} + \sum_i S_i - S_{\text{协同}}
-$$
-
+   $$|\psi\rangle_{\text{量子域}} \xrightarrow{\text{分布式经典化}} \{I_i\} + \sum_i S_i - S_{\text{协同}}$$
    其中$`S_{\text{协同}}`$是由协同带来的熵减少
 
 2. **整体涌现属性**：集体表现出个体不具备的信息处理能力
-
-$$
-\text{集体处理能力} > \sum_i \text{个体处理能力}
-$$
+   $$\text{集体处理能力} > \sum_i \text{个体处理能力}$$
 
 3. **维度转换能力**：集体意识可访问超越个体最高维度的信息
-
-$$
-D_{\text{集体}} > \max_{i \in \mathcal{O}} D_i
-$$
+   $$D_{\text{集体}} > \max_{i \in \mathcal{O}} D_i$$
 
 4. **稳定性与持久性**：即使个体观察者变化，集体结构可以保持稳定
-
-$$
-\Delta \Psi_{\text{集体}} \ll \sum_i \Delta \Psi_i
-$$
+   $$\Delta \Psi_{\text{集体}} \ll \sum_i \Delta \Psi_i$$
 
 Collective consciousness has the following characteristics:
 
 1. **Distributed Classicalization**: Quantum information is collaboratively classicalized by multiple observers
-
-$$
-|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Distributed Classicalization}} \{I_i\} + \sum_i S_i - S_{\text{Collaboration}}
-$$
-
+   $$|\psi\rangle_{\text{Quantum Domain}} \xrightarrow{\text{Distributed Classicalization}} \{I_i\} + \sum_i S_i - S_{\text{Collaboration}}$$
    where $`S_{\text{Collaboration}}`$ is the entropy reduction brought by collaboration
 
 2. **Holistic Emergent Properties**: The collective exhibits information processing capabilities that individuals do not possess
-
-$$
-\text{Collective Processing Capability} > \sum_i \text{Individual Processing Capability}
-$$
+   $$\text{Collective Processing Capability} > \sum_i \text{Individual Processing Capability}$$
 
 3. **Dimension Transformation Capability**: Collective consciousness can access information beyond the highest dimension of individuals
-
-$$
-D_{\text{Collective}} > \max_{i \in \mathcal{O}} D_i
-$$
+   $$D_{\text{Collective}} > \max_{i \in \mathcal{O}} D_i$$
 
 4. **Stability and Persistence**: Even with changes in individual observers, the collective structure can remain stable
-
-$$
-\Delta \Psi_{\text{Collective}} \ll \sum_i \Delta \Psi_i
-$$
+   $$\Delta \Psi_{\text{Collective}} \ll \sum_i \Delta \Psi_i$$
 
 ## 结论 | Conclusion
 
@@ -692,4 +614,4 @@ By increasing classical knowledge, reducing classical entropy, establishing a br
 2. 《宇宙结构与演化》| "Universe Structure and Evolution"
 3. 《意识的持久性与传递》| "Consciousness Persistence and Transmission"
 4. 《量子计算与人工意识》| "Quantum Computing and Artificial Consciousness"
-5. 《熵、观察者与维度》| "Entropy, Observer, and Dimension"
+5. 《熵、观察者与维度》| "Entropy, Observer, and Dimension" 

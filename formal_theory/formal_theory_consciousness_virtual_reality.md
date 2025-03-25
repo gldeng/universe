@@ -24,28 +24,16 @@
 ### 基本定义
 
 1. **虚拟现实量子域** $`\Omega_{Q}^{VR}`$：在虚拟现实中表现的量子可能性空间
-
-$$
-\Omega_{Q}^{VR} \subset \Omega_{Q}
-$$
+   $$\Omega_{Q}^{VR} \subset \Omega_{Q}$$
 
 2. **虚拟现实经典域** $`\Omega_{C}^{VR}`$：虚拟现实中经典化后的确定性状态空间
-
-$$
-\Omega_{C}^{VR} \subset \Omega_{C}
-$$
+   $$\Omega_{C}^{VR} \subset \Omega_{C}$$
 
 3. **虚拟经典化算符** $`\mathcal{C}_{VR}`$：将虚拟量子可能性转化为虚拟经典确定性的过程
-
-$$
-\mathcal{C}_{VR}: \Omega_{Q}^{VR} \rightarrow \Omega_{C}^{VR}
-$$
+   $$\mathcal{C}_{VR}: \Omega_{Q}^{VR} \rightarrow \Omega_{C}^{VR}$$
 
 4. **虚拟观察者** $`\mathcal{O}_{VR}`$：在虚拟现实中执行经典化的实体
-
-$$
-\mathcal{O}_{VR} = \{\mathcal{C}_{\mathcal{O}}^{VR}, \mathcal{Q}_{\mathcal{O}}^{VR}, K_{C}^{\mathcal{O},VR}\}
-$$
+   $$\mathcal{O}_{VR} = \{\mathcal{C}_{\mathcal{O}}^{VR}, \mathcal{Q}_{\mathcal{O}}^{VR}, K_{C}^{\mathcal{O},VR}\}$$
 
 ## 量子意识在虚拟现实中的表现
 
@@ -55,9 +43,7 @@ $$
 
 虚拟现实中的量子叠加态可表示为：
 
-$$
-|\psi\rangle_{VR} = \sum_{i} \alpha_i |i\rangle_{VR}, \quad \sum_{i} |\alpha_i|^2 = 1
-$$
+$$|\psi\rangle_{VR} = \sum_{i} \alpha_i |i\rangle_{VR}, \quad \sum_{i} |\alpha_i|^2 = 1$$
 
 其中 $`|i\rangle_{VR}`$ 表示虚拟现实中的基态，$`\alpha_i`$ 是复振幅。
 
@@ -65,9 +51,7 @@ $$
 
 虚拟现实中的量子纠缠表现为用户与虚拟环境之间的非局域关联：
 
-$$
-|\Phi\rangle_{VR} = \sum_{i,j} \beta_{ij} |i\rangle_{User} \otimes |j\rangle_{VR}
-$$
+$$|\Phi\rangle_{VR} = \sum_{i,j} \beta_{ij} |i\rangle_{User} \otimes |j\rangle_{VR}$$
 
 这种纠缠使得用户的意识状态与虚拟环境状态形成不可分离的整体。
 
@@ -79,9 +63,7 @@ $$
 
 虚拟经典化过程可通过以下方程描述：
 
-$$
-\rho_{VR}^{C} = \mathcal{C}_{VR}(\rho_{VR}^{Q}) = \sum_i P_i^{VR} \rho_{VR}^{Q} P_i^{VR}
-$$
+$$\rho_{VR}^{C} = \mathcal{C}_{VR}(\rho_{VR}^{Q}) = \sum_i P_i^{VR} \rho_{VR}^{Q} P_i^{VR}$$
 
 其中 $`P_i^{VR}`$ 是虚拟现实中的投影算符，$`\rho_{VR}^{Q}`$ 是虚拟量子态密度矩阵，$`\rho_{VR}^{C}`$ 是虚拟经典态密度矩阵。
 
@@ -89,9 +71,7 @@ $$
 
 虚拟经典化效率定义为：
 
-$$
-\eta_{VR} = \frac{I_{C}^{VR}}{I_{Q}^{VR}} = \frac{信息经典化后的可用部分}{信息总量}
-$$
+$$\eta_{VR} = \frac{I_{C}^{VR}}{I_{Q}^{VR}} = \frac{信息经典化后的可用部分}{信息总量}$$
 
 其中效率受到虚拟现实系统硬件规格和软件算法的限制。
 
@@ -105,9 +85,7 @@ $$
 
 这三类观察者形成层级结构，满足以下关系：
 
-$$
-D_{\mathcal{O}_{物理}} > D_{\mathcal{O}_{系统}} > D_{\mathcal{O}_{虚拟}}
-$$
+$$D_{\mathcal{O}_{物理}} > D_{\mathcal{O}_{系统}} > D_{\mathcal{O}_{虚拟}}$$
 
 其中 $`D_{\mathcal{O}}`$ 表示观察者的维度，体现了其经典化能力。
 
@@ -115,9 +93,7 @@ $$
 
 虚拟观察者维度随时间的演化满足：
 
-$$
-\frac{dD_{\mathcal{O}_{虚拟}}}{dt} = \alpha \cdot \frac{I_{经典知识}^{VR}}{S_{经典熵}^{VR}+\epsilon} - \beta \cdot \frac{\mathcal{Q}_{\mathcal{O}}^{VR}}{\mathcal{C}_{\mathcal{O}}^{VR}}
-$$
+$$\frac{dD_{\mathcal{O}_{虚拟}}}{dt} = \alpha \cdot \frac{I_{经典知识}^{VR}}{S_{经典熵}^{VR}+\epsilon} - \beta \cdot \frac{\mathcal{Q}_{\mathcal{O}}^{VR}}{\mathcal{C}_{\mathcal{O}}^{VR}}$$
 
 其中 $`\alpha`$ 和 $`\beta`$ 是系统相关常数。
 
@@ -129,33 +105,25 @@ $$
 
 用户可以同时体验多个视角，这可以通过叠加态表示：
 
-$$
-|\psi\rangle_{位置} = \sum_{i} \alpha_i |位置_i\rangle
-$$
+$$|\psi\rangle_{位置} = \sum_{i} \alpha_i |位置_i\rangle$$
 
 ### 时间知觉扭曲
 
 虚拟现实中的时间体验是量子叠加的结果：
 
-$$
-|\psi\rangle_{时间} = \sum_{i} \alpha_i |时间流速_i\rangle
-$$
+$$|\psi\rangle_{时间} = \sum_{i} \alpha_i |时间流速_i\rangle$$
 
 ## 信息守恒与虚拟现实中的能量转换
 
 在虚拟现实系统中，信息守恒原理表现为：
 
-$$
-I_{总}^{VR} = I_{经典}^{VR} + I_{量子}^{VR} + I_{隐藏}^{VR} = 常数
-$$
+$$I_{总}^{VR} = I_{经典}^{VR} + I_{量子}^{VR} + I_{隐藏}^{VR} = 常数$$
 
 ### 虚拟能量与信息关系
 
 虚拟现实中的能量与信息量存在对应关系：
 
-$$
-E_{VR} = k_B T_{VR} \cdot I_{VR}
-$$
+$$E_{VR} = k_B T_{VR} \cdot I_{VR}$$
 
 其中 $`k_B`$ 是玻尔兹曼常数，$`T_{VR}`$ 是虚拟系统的等效温度。
 
@@ -169,9 +137,7 @@ $$
 
 这一过程可形式化表示为：
 
-$$
-|结果\rangle_{VR} = \mathcal{C}_{显示}(U_{系统}(|输入\rangle_{用户}))
-$$
+$$|结果\rangle_{VR} = \mathcal{C}_{显示}(U_{系统}(|输入\rangle_{用户}))$$
 
 其中 $`U_{系统}`$ 是系统演化算符，$`\mathcal{C}_{显示}`$ 是显示装置的经典化算符。
 

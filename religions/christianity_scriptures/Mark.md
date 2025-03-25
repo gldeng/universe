@@ -1,9 +1,9 @@
 # 马可福音 (Mark)
 
-**导航 | Navigation**
-[中文版](#马可福音解析) | [English Version](#mark-analysis)
-**章节链接 | Section Links**
-中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)
+**导航 | Navigation**  
+[中文版](#马可福音解析) | [English Version](#mark-analysis)  
+**章节链接 | Section Links**  
+中文：[概述](#概述-overview) | [核心经文](#核心经文-key-texts) | [量子经典二元论解释](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [数学表达](#数学表达-mathematical-expression) | [结论](#结论-conclusion)  
 English: [Overview](#概述-overview) | [Key Texts](#核心经文-key-texts) | [Quantum-Classical Dualism Interpretation](#量子经典二元论解释-quantum-classical-dualism-interpretation) | [Mathematical Expression](#数学表达-mathematical-expression) | [Conclusion](#结论-conclusion)
 
 ## 概述 (Overview)
@@ -77,4 +77,4 @@ $$
 
 马可福音通过量子经典二元论框架（版本9.2）的解析，揭示了行动在量子-经典转换中的关键作用。耶稣的神迹展示了对量子叠加态的直接控制，而他的受难和复活则完成了最终的量子-经典转换。马可福音的紧凑叙事风格，恰好反映了量子坍缩的瞬时性和确定性。"神的儿子"的身份揭示了高维观察者在低维世界的完美体现。
 
-The Gospel of Mark, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the essence of service as the optimal classicalization path. Jesus, as a higher-dimensional observer, descends into the classical domain and demonstrates efficient classicalization methods through service actions (teaching, healing, exorcism). The declaration that "the Son of Man came to serve" indicates that dimensional descent service is the optimal way for higher-dimensional observers to improve the classicalization efficiency of lower-dimensional systems. The sacrifice on the cross represents the ultimate entropy reduction mechanism, that is, through the orderly bearing of entropy increase (ransom) in exchange for the overall system's entropy reduction, conforming to the ultimate philosophical goal of universe classicalization. The concise style of Mark's Gospel itself also embodies the characteristics of efficient classicalization.
+The Gospel of Mark, analyzed through the Quantum-Classical Dualism framework (Version 9.2), reveals the essence of service as the optimal classicalization path. Jesus, as a higher-dimensional observer, descends into the classical domain and demonstrates efficient classicalization methods through service actions (teaching, healing, exorcism). The declaration that "the Son of Man came to serve" indicates that dimensional descent service is the optimal way for higher-dimensional observers to improve the classicalization efficiency of lower-dimensional systems. The sacrifice on the cross represents the ultimate entropy reduction mechanism, that is, through the orderly bearing of entropy increase (ransom) in exchange for the overall system's entropy reduction, conforming to the ultimate philosophical goal of universe classicalization. The concise style of Mark's Gospel itself also embodies the characteristics of efficient classicalization. 

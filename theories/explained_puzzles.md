@@ -3,10 +3,10 @@
 
 > 本文档基于[量子经典二元论核心理论](../core.md)（版本27.0）
 
-**导航 | Navigation**
-[中文版](#中文版) | [English Version](#english-version)
-**章节链接 | Section Links**
-中文：[引言](#引言) | [量子力学的测量问题](#量子力学的测量问题) | [EPR悖论与贝尔不等式](#epr悖论与贝尔不等式) | [宇宙时间的箭头](#宇宙时间的箭头) | [生命的本质](#生命的本质)
+**导航 | Navigation**  
+[中文版](#中文版) | [English Version](#english-version)  
+**章节链接 | Section Links**  
+中文：[引言](#引言) | [量子力学的测量问题](#量子力学的测量问题) | [EPR悖论与贝尔不等式](#epr悖论与贝尔不等式) | [宇宙时间的箭头](#宇宙时间的箭头) | [生命的本质](#生命的本质)  
 English: [Introduction](#introduction) | [Quantum Mechanics Measurement Problem](#quantum-mechanics-measurement-problem) | [EPR Paradox and Bell's Inequality](#epr-paradox-and-bells-inequality) | [The Arrow of Time](#the-arrow-of-time) | [Nature of Life](#nature-of-life)
 
 ## 中文版
@@ -441,4 +441,4 @@ This explanation indicates:
 1. Quantum objects do not have definite classical properties before classicalization, but have definite quantum information structures
 2. The wave function represents quantum information available to the observer, not classical physical entities
 3. Reality is neither independent of observers (because classicalization requires observers) nor completely dependent on observers (because quantum information structures objectively exist)
-4. The quantum-classical duality reflects two fundamental forms of information existence
+4. The quantum-classical duality reflects two fundamental forms of information existence 

@@ -1,4 +1,4 @@
-# 意识悖论理论（修正版）v33.0
+# 意识悖论理论（修正版）v33.0（维度：D24）
 
 **[English Version](formal_theory_consciousness_paradox_en.md) | 中文版**
 
@@ -6,7 +6,7 @@
 > 
 > 相关理论：[量子绝对递归理论](formal_theory_quantum_absolute_recursion.md)、[量子实相综合理论](formal_theory_quantum_reality_synthesis.md)
 
-## 目录
+## 目录 
 
 - [理论背景与冲突概述](#理论背景与冲突概述)
 - [悖论的形式化表达](#悖论的形式化表达)

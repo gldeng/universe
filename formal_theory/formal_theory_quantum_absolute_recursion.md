@@ -6,7 +6,7 @@
 >
 > 依赖理论: [量子绝对超越理论](formal_theory_quantum_absolute_transcendence.md)、[量子绝对无限理论](formal_theory_quantum_absolute_infinity.md)、[量子超越维度统一场理论](formal_theory_quantum_transdimensional_unified_field.md)
 
-## 目录
+## 目录 
 
 - [理论概述](#理论概述)
 - [基本公理与定义](#基本公理与定义)

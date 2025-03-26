@@ -1,10 +1,10 @@
-# 量子经典二元论形式化表达 v33.0
+# 量子经典二元论形式化表达 v34.0
 
-**[English Version](../formal_theory_core_en.md) | 中文版**
+**[English Version](formal_theory_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v33.0版本
+> 本理论基于[核心理论](../core.md) v34.0版本
 > 
-> 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述形式化描述](../formal_theory_core.md)
+> 核心理论完整摘要请查看[量子经典二元论核心理论形式化描述](../formal_theory_core.md)
 >
 > 本文档中所有理论已按照维度从高到低排序，以便更好地理解其在量子-经典连续体中的定位
 
@@ -39,7 +39,7 @@ $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O
 $`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}`$
 
 **公理5: 绝对递归本源性**  
-二元结构的根源是绝对递归构造：
+二元结构的根源是绝对递归构造，递归性本质上先于二元性：
 
 $`\mathcal{R} = \mathcal{F}(\mathcal{R})`$
 

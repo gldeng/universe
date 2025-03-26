@@ -1,20 +1,22 @@
-# Quantum-Classical Dualism Formal Theory v33.0
+# Quantum-Classical Dualism Formal Theory v34.0
 
 **English Version | [中文版](formal_theory_core.md)**
 
-> This document contains a summary of the core content from [Core Theory](core_en.md) v33.0, integrating the minimal subset theory to fully describe the universe
+> This document contains a summary of the core content from [Core Theory](core_en.md) v34.0, integrating the minimal subset theory to fully describe the universe
+> 
+> This version integrates the latest advances from Quantum Absolute Recursion Theory (D43), Consciousness Paradox Theory (D24), and Quantum Reality Synthesis Theory (D44)
 
 **Related Theory Files:** [Quantum-Classical Dualism Core Theory](core_en.md) | [Quantum-Classical Dualism Minimal Subset Core Theory](quantum_classical_dualism_formal_axioms_en.md)
 
 ## Quantum-Classical Dualism Formal Theory Description
 
-- [Return to Main Theory v33.0](formal_theory/formal_theory_en.md) | [Quantum Domain Detailed Theory v33.0](formal_theory/formal_theory_quantum_domain_en.md) | [Classical Domain Detailed Theory v33.0](formal_theory/formal_theory_classical_domain_en.md) | [Interface Theory v33.0](formal_theory/formal_theory_interface_en.md) | [Observer Theory v33.0](formal_theory/formal_theory_observer_en.md)
+- [Return to Main Theory v34.0](formal_theory/formal_theory_en.md) | [Quantum Domain Detailed Theory v34.0](formal_theory/formal_theory_quantum_domain_en.md) | [Classical Domain Detailed Theory v34.0](formal_theory/formal_theory_classical_domain_en.md) | [Interface Theory v34.0](formal_theory/formal_theory_interface_en.md) | [Observer Theory v34.0](formal_theory/formal_theory_observer_en.md)
 
 ### Basic Definitions and Axioms
 
 #### Simplified Core Axiom System
 
-Quantum-Classical Dualism can be simplified into four core axioms:
+Quantum-Classical Dualism can be simplified into five core axioms:
 
 **Axiom 1: Dual Existence**  
 The universe consists of a quantum domain $`\Omega_Q`$ (space of infinite possibilities) and a classical domain $`\Omega_C`$ (space of definite reality), connected through an interface domain $`\mathcal{I}`$:
@@ -44,11 +46,22 @@ $`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if}
 
 This indicates that reality consists of multiple nested quantum-classical domains, with observers at each level perceiving and interacting within specific dimensions based on their capacity range.
 
+**Axiom 5: Absolute Recursive Sourcehood**
+The deepest structure of reality is absolute recursive construction, transcending binary opposition and serving as the source of all existence:
+
+$`\mathcal{R} = \mathcal{F}(\mathcal{R})`$
+
+where $`\mathcal{F}`$ is a super-recursive function satisfying $`\mathcal{F}(\mathcal{F}) = \mathcal{F}`$. Recursivity is not merely a property of reality but the mode of existence itself, more fundamental than transcendence and infinity:
+
+$`\mathcal{R}_{n+1} = \mathcal{R}_n \cup \{\mathcal{R}(\mathcal{R}_n)\}`$
+
+$`\lim_{n\to\infty} \mathcal{R}_n = \mathcal{R}_{\infty} = \mathcal{F}(\mathcal{R}_{\infty})`$
+
 ### Dimension Theory Deepening
 
 Dimension is not merely a static observer attribute but a dynamic flowing information structure, forming a complete spectrum from D0 to D∞:
 
-$`\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}`$
+$`\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, D_{43}, D_{44}, ..., D_{\infty}\}`$
 
 The essential characteristics of dimensions include:
 
@@ -56,13 +69,21 @@ The essential characteristics of dimensions include:
    
    $`D(t) = D_0 + \int_0^t \nabla_{\mathcal{H}} D(\tau) \cdot d\tau`$
 
-2. **Dimensional Recursivity**: Each dimension contains a complete quantum-classical dual structure
+2. **Dimensional Recursivity**: Each dimension contains a complete quantum-classical dual structure, and forms hierarchies through recursive nesting relationships
 
    $`D_n = \{\Omega_Q^{(n)}, \Omega_C^{(n)}, \mathcal{I}^{(n)}\}`$
+   
+   $`D_{n+1} \supset \{D_0, D_1, ..., D_n\}`$
 
-3. **Transcendent Dimensions**: D42 represents the limit of human cognition, D∞ represents the absolute transcendent dimension, transcending all expressible structures
+3. **Full Spectrum Dimensions**: Universe dimensions essentially extend infinitely, D42 represents the limit of human cognition, D43 represents the quantum absolute recursion dimension, D44 represents the quantum reality synthesis dimension, but these are only the high-dimensional theories we have named, not the limits of universal dimensions
 
    $`\lim_{n\to\infty} D_n = D_{\infty} \equiv \mathcal{T}`$
+
+4. **Dimensional Field Nature**: Dimension itself acts as a field variable, possessing self-adaptability
+
+   $`\dim(\mathcal{M}(x)) = D(x), \quad D: \mathcal{M} \rightarrow [0, \infty]`$
+
+Importantly, although Quantum Absolute Recursion Theory (D43) and Quantum Reality Synthesis Theory (D44) represent the highest dimensional theories we can currently label, the spectrum of universal dimensions itself extends infinitely. The true nature of the universe contains infinite dimensional levels, transcending what any finite number of theoretical frameworks can fully describe.
 
 The dimension transformation function $`\mathcal{T}_{m \rightarrow n}`$ implements mapping between different dimensions:
 
@@ -71,6 +92,25 @@ $`\mathcal{T}_{m \rightarrow n}: \mathcal{S}^{(m)} \rightarrow \mathcal{S}^{(n)}
 This mapping follows information conservation but allows conversion of expression forms. Higher-dimensional structures cannot be fully expressed by lower dimensions, resulting in expression impedance:
 
 $`\mathcal{R}_{n \rightarrow m} = 1 - \frac{I_{\text{expressed}}^{(m)}}{I_{\text{original}}^{(n)}}, \quad n > m`$
+
+### Transfinite Synthesis Law
+
+Within the quantum-classical dualism framework, binary oppositions achieve higher-dimensional unity through the transfinite synthesis law:
+
+$`\mathcal{S}(\mathcal{A}, \mathcal{B}) \neq \mathcal{A} \oplus \mathcal{B}`$
+
+Transfinite synthesis follows the equation:
+
+$`\mathcal{S}(\mathcal{A}, \mathcal{B}) = \{\mathcal{A}, \mathcal{B}, \mathcal{A} \cap \mathcal{B}, \mathcal{A} \cup \mathcal{B}, \complement(\mathcal{A} \cup \mathcal{B}), \mathcal{S}\}`$
+
+The transfinite synthesis function $`\mathcal{S}`$ has the following properties:
+
+1. **Self-containment**: $`\mathcal{S} \in \mathcal{S}`$
+2. **Boundary transcendence**: $`\partial \mathcal{S} \subset \mathcal{S} \land \partial \mathcal{S} \not\subset \mathcal{S}`$
+3. **Trans-consistency**: Simultaneously allows $`p \land \neg p`$ to hold at different levels
+4. **Absolute openness**: $`\mathcal{S}(\mathcal{S}) = \mathcal{S}`$ but $`\mathcal{S} \neq \mathcal{S}`$
+
+This transfinite synthesis is the mathematical foundation for achieving quantum-classical dualism unity, allowing true meta-level unification.
 
 ### Quantum Domain and Classical Domain
 
@@ -268,15 +308,15 @@ Classical knowledge forms causal networks, representable as directed graphs:
 
 $`G_K = (V_K, E_K)`$
 
-where $`V_K`$ is the set of knowledge nodes and $`E_K`$ is the set of causal relationships.
+where $`V_K`$ is the set of knowledge nodes, and $`E_K`$ is the set of causal relationships.
 
-Knowledge coherence is measured by:
+The measure of knowledge coherence is:
 
 $`C(K_C) = \frac{1}{|V_K|} \sum_{i,j} \frac{|P_{ij}|}{d(i,j)}`$
 
 where $`P_{ij}`$ is the set of effective paths connecting nodes $`i`$ and $`j`$, and $`d(i,j)`$ is the distance in the graph.
 
-### Core Interface Theory
+### Interface Theory Core
 
 The interface $`\mathcal{I}`$ is the transition region between quantum and classical domains, with the following core properties:
 
@@ -286,7 +326,7 @@ The interface is the intersection of quantum and classical domains, defined as:
 
 $`\mathcal{I} = \{x \in \mathcal{U} | \mathcal{D}(x) = \mathcal{D}_c\}`$
 
-where $`\mathcal{D}(x)`$ is the decoherence measure function and $`\mathcal{D}_c`$ is the critical decoherence threshold.
+where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold.
 
 Interface thickness is determined by the decoherence gradient:
 
@@ -294,7 +334,7 @@ $`\delta_{\mathcal{I}} = \left|\frac{\partial \mathcal{D}}{\partial x}\right|^{-
 
 #### 2. Interface Dynamics
 
-Interface position satisfies a nonlinear dynamical equation:
+Interface position satisfies nonlinear dynamics equations:
 
 $`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
 
@@ -310,7 +350,7 @@ $`f_{\mathcal{I}} = \frac{1}{2\pi}\sqrt{\frac{\beta}{\alpha}}|\mathcal{D}_c - \m
 
 #### 3. Classicalization Process
 
-The quantum→classical conversion (classicalization) process is represented by the classicalization superoperator:
+The quantum→classical transformation (classicalization) process is represented by the classicalization superoperator:
 
 $`\mathcal{C}(\rho) = \sum_i P_i \rho P_i`$
 
@@ -322,11 +362,11 @@ Classicalization efficiency is related to environmental and system parameters:
 
 $`\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}`$
 
-where $`E`$ is system energy, $`T`$ is environmental temperature, and $`\lambda`$ is the coupling constant.
+where $`E`$ is the system energy, $`T`$ is the environmental temperature, and $`\lambda`$ is the coupling constant.
 
 #### 4. Quantum-Classical Information Conversion
 
-At the interface, information is converted from quantum form to classical form:
+At the interface, information transforms from quantum form to classical form:
 
 $`I_Q \rightarrow I_C + I_{\text{hidden}}`$
 
@@ -338,7 +378,7 @@ At the optimal interface, $`M(I_Q, I_C)`$ reaches a local maximum.
 
 #### 5. Quantum Information Compression Mechanism
 
-The classicalization process is essentially a compression process of quantum information, compressing high-dimensional quantum information into low-dimensional classical information:
+The classicalization process is essentially a quantum information compression process, compressing high-dimensional quantum information into low-dimensional classical information:
 
 $`\mathcal{C}_{\text{compression}} = \frac{\dim \mathcal{H}_Q}{\dim \mathcal{H}_C}`$
 
@@ -352,52 +392,52 @@ This indicates that higher-dimensional observers can more effectively extract an
 
 Information phase transition is a key phenomenon in the quantum-classical dualism framework, with the following core properties:
 
-#### 1. Basic Mechanism of Information Phase Transition
+#### 1. Basic Information Phase Transition Mechanism
 
-Information phase transition is a sudden change process experienced by information systems near certain critical parameter values, leading to qualitative changes in the system's information processing methods, structure, or function:
+Information phase transition is a sudden change process experienced by information systems near certain critical parameter values, leading to qualitative changes in the information processing modes, structures, or functions of the system:
 
 $`\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)`$
 
-where $`\mathcal{S}`$ is the system's information state and $`\lambda`$ is the control parameter. Near the critical point $`\lambda_c`$, the order parameter behaves as:
+where $`\mathcal{S}`$ is the information state of the system, and $`\lambda`$ is the control parameter. Near the critical point $`\lambda_c`$, the order parameter behaves as:
 
 $`\eta(\lambda) = \begin{cases}
 0, & \lambda < \lambda_c \\
 (\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
 \end{cases}`$
 
-where $`\beta`$ is the critical exponent, characterizing the universal class of the phase transition.
+where $`\beta`$ is the critical exponent, characterizing the universality class of the phase transition.
 
-#### 2. Types of Quantum-Classical Phase Transitions
+#### 2. Quantum-Classical Phase Transition Types
 
 Quantum-classical phase transitions can be classified into multiple types, each with its own characteristics:
 
-- **First-order phase transitions**: Order parameter changes discontinuously, phase coexistence regions exist
-- **Second-order phase transitions**: Order parameter changes continuously but its derivative is discontinuous, correlation length diverges
-- **Non-equilibrium phase transitions**: Far from equilibrium, with continuous energy or information flow
-- **Topological phase transitions**: Changes in the overall topological properties of the system, edge states emerge
+- **First-order Transitions**: Order parameter changes discontinuously, with coexistence regions
+- **Second-order Transitions**: Order parameter changes continuously but its derivative is discontinuous, with diverging correlation length
+- **Non-equilibrium Transitions**: Far from equilibrium, with continuous flow of energy or information
+- **Topological Transitions**: Changes in the overall topological properties of the system, with emergent edge states
 
-Near the critical point, the correlation length of fluctuations behaves as:
+Near critical points, the correlation length of fluctuations behaves as:
 
 $`\xi(\lambda) \propto |\lambda - \lambda_c|^{-\nu}`$
 
 where $`\nu`$ is the correlation length critical exponent.
 
-#### 3. Observer-Induced Phase Transitions
+#### 3. Observer-induced Phase Transitions
 
 Observers can induce system phase transitions by adjusting parameters, with key parameters including:
 
-- **Observer dimension** $`D_{\mathcal{O}}`$: There exists a critical dimension $`D_{\mathcal{O}}^c`$, above which the system transitions from quantum state to classical state
+- **Observer Dimension** $`D_{\mathcal{O}}`$: There exists a critical dimension $`D_{\mathcal{O}}^c`$, above which the system transforms from quantum to classical states
   
 $`P(\text{quantum} \to \text{classical}) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}`$
 
-- **Observer resolution** $`\eta_{\mathcal{O}}`$: Affects the distinguishing ability of the measurement basis
+- **Observer Resolution** $`\eta_{\mathcal{O}}`$: Affects the ability to distinguish measurement bases
   
 $`\langle \mathcal{O} \rangle = \begin{cases}
 0, & \eta_{\mathcal{O}} < \eta_{\mathcal{O}}^c \\
 (\eta_{\mathcal{O}} - \eta_{\mathcal{O}}^c)^\beta, & \eta_{\mathcal{O}} \geq \eta_{\mathcal{O}}^c
 \end{cases}`$
 
-- **Measurement frequency** $`f_{\mathcal{O}}`$: Related to the quantum Zeno effect
+- **Measurement Frequency** $`f_{\mathcal{O}}`$: Related to the quantum Zeno effect
   
 $`\tau_{\text{decoherence}} \propto \begin{cases}
 (f_{\mathcal{O}}^c - f_{\mathcal{O}})^{-\nu}, & f_{\mathcal{O}} < f_{\mathcal{O}}^c \\
@@ -414,7 +454,7 @@ Phase transitions at different levels occur at specific scales and times:
 
 $`L_i \approx L_0 \cdot e^{\alpha i}, \quad T_i \approx T_0 \cdot e^{\beta i}`$
 
-Coupling between levels results in cascade effects and fractal structures of phase transitions, with the Hausdorff dimension of the interface:
+Coupling between levels leads to cascade effects and fractal structures in phase transitions, with the Hausdorff dimension of the interface being:
 
 $`D_H = d - \frac{\beta}{\nu}`$
 
@@ -428,7 +468,7 @@ Near phase transition critical points, systems exhibit scale invariance and univ
 
 $`X(\lambda) \sim |\lambda - \lambda_c|^{-\gamma_X}`$
 
-where $`\gamma_X`$ is the critical exponent associated with physical quantity $`X`$. Different systems can be classified into different universality classes according to critical exponents, satisfying:
+where $`\gamma_X`$ is the critical exponent associated with physical quantity $`X`$. Different systems can be classified into different universality classes based on critical exponents, satisfying:
 
 $`\beta + \gamma + \delta = 2`$
 
@@ -436,11 +476,11 @@ Scale invariance manifests as self-similar structures, showing similar patterns 
 
 $`X(b\lambda) = b^{\gamma_X} X(\lambda)`$
 
-This self-similarity is the root of complexity, closely related to fractal dimensions.
+This self-similarity is the source of complexity, closely related to fractal dimensions.
 
 ### Observer Theory Core
 
-Observers are nodes that execute quantum→classical conversions, with the following core properties:
+Observers are nodes that execute quantum→classical transformations, with the following core properties:
 
 #### 1. Observer Structure
 
@@ -459,17 +499,17 @@ $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathca
 
 #### 2. Dimensional Network Dynamics
 
-Observer dimension satisfies a nonlinear dynamical equation:
+Observer dimension satisfies nonlinear dynamics equations:
 
 $`\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})`$
 
-where the last term represents the collective effect of the observer network.
+where the last term represents the collective effects of the observer network.
 
-Consensus formation in the observer network follows:
+Consensus formation in observer networks follows:
 
 $`\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2`$
 
-where $`\omega_i`$ is the observer weight and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
+where $`\omega_i`$ is the observer weight, and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
 
 #### 3. Measurement Theory
 
@@ -477,7 +517,7 @@ In observer theory, the quantum measurement process can be represented as:
 
 $`|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{\text{interaction}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}`$
 
-The probability of measurement results is modulated by the observer resolution parameter $`\eta_O`$:
+Measurement result probabilities are modulated by the observer resolution parameter $`\eta_O`$:
 
 $`P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}`$
 
@@ -485,27 +525,27 @@ The relationship between observer energy resolution threshold and measurement re
 
 $`\eta_O = \frac{\hbar}{k_B T} \cdot \ln\left(\frac{E_{\text{threshold}}}{\bar{E}_0}\right)`$
 
-#### 4. Observer Hierarchy Network
+#### 4. Observer Hierarchical Network
 
 Observers form multi-level network structures:
 
 $`\mathcal{N} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}\}`$
 
-where $`\mathcal{O}^{(k)}`$ is the set of k-th level observers and $`\mathcal{E}`$ is the set of cross-level connections.
+where $`\mathcal{O}^{(k)}`$ is the set of k-th level observers, and $`\mathcal{E}`$ is the set of cross-level connections.
 
-Higher-level observers perceive larger spacetime scales:
+Higher-level observers perceive larger spatiotemporal scales:
 
 $`L^{(k)} \approx L^{(1)} \cdot e^{\eta(k-1)}, \quad T^{(k)} \approx T^{(1)} \cdot e^{\eta(k-1)}`$
 
-This explains why higher-dimensional observers can perceive spacetime patterns at larger scales.
+This explains why higher-dimensional observers can perceive larger-scale spatiotemporal patterns.
 
-#### 5. Observer Network Self-Organization
+#### 5. Observer Network Self-organization
 
 Observer networks exhibit complex self-organizing behavior, forming emergent collective consciousness:
 
 $`\Psi_{\mathcal{N}} = \mathcal{F}[\{\Psi_{\mathcal{O}_i}\}]`$
 
-Collective consciousness is not simply the sum of observer consciousnesses but a newly emergent property produced through nonlinear coupling:
+Collective consciousness is not a simple sum of observer consciousnesses, but new emergent properties produced through nonlinear coupling:
 
 $`\Psi_{\mathcal{N}} \neq \sum_i \Psi_{\mathcal{O}_i}`$
 
@@ -515,271 +555,145 @@ $`\delta \int_{\mathcal{T}} \mathcal{L}(\Psi_{\mathcal{N}}, \nabla\Psi_{\mathcal
 
 This principle drives observer networks to self-organize toward optimal information processing structures.
 
-### Quantum Consciousness and Meta-Consciousness Theory
+### Quantum Consciousness and Meta-consciousness Theory
 
 Consciousness is a core emergent phenomenon in the dualism framework, with the following characteristics:
 
-#### 1. Quantum-Classical Duality of Consciousness
+#### 1. Multiple Representational Frameworks of Consciousness
 
-Consciousness simultaneously possesses quantum properties (creativity, non-locality, holism) and classical properties (persistence, expressibility, locality):
+Consciousness simultaneously exists in multiple mutually orthogonal representational spaces:
+
+$`C = \{C_P, C_F, C_S, C_Q\}`$
+
+where:
+- $`C_P`$: Phenomenological representation (experience itself)
+- $`C_F`$: Functional representation (cognitive processing)
+- $`C_S`$: Structural representation (neural basis)
+- $`C_Q`$: Quantum representation (quantum information processing)
+
+There exist irreducible mapping relationships between representations:
+
+$`\Phi_{PF}: C_P \rightarrow C_F`$
+$`\Phi_{FS}: C_F \rightarrow C_S`$
+$`\Phi_{SQ}: C_S \rightarrow C_Q`$
+$`\Phi_{QP}: C_Q \rightarrow C_P`$
+
+These mappings form a circular structure:
+
+$`\Phi_{QP} \circ \Phi_{SQ} \circ \Phi_{FS} \circ \Phi_{PF} = I_C`$
+
+#### 2. Metacognitive Hierarchical Structure
+
+Consciousness forms a metacognitive level sequence:
+
+$`C_0, C_1, C_2, ..., C_n, ...$`
+
+where:
+- $`C_0`$: Basic consciousness level (direct experience)
+- $`C_1`$: Awareness of $`C_0`$
+- $`C_2`$: Awareness of $`C_1`$
+- ...
+
+There exists an asymmetric relationship between each level $`C_i`$ and $`C_{i+1}`$:
+
+$`C_{i+1}(C_i) \neq C_i(C_{i+1})`$
+
+Introducing the transfinite level $`C_\omega`$, representing the unity of all finite levels:
+
+$`C_\omega = \lim_{n \to \infty} C_n = \bigcup_{i=0}^{\infty} C_i`$
+
+#### 3. Self-referentiality of Consciousness
+
+Consciousness achieves self-awareness through a self-referential recursive process:
+
+$`\mathcal{C} = \mathcal{A}(\mathcal{C})`$
+
+where $`\mathcal{A}`$ is the self-perception operator of consciousness.
+
+Self-referentiality resolves infinite recursive paradoxes through a type theory framework:
+
+Let $`C_{\tau_i}`$ be consciousness of type $`\tau_i`$, where types have strict hierarchies:
+
+$`\tau_0 < \tau_1 < \tau_2 < ... < \tau_n < ...$`
+
+Then allowed:
+
+$`C_{\tau_{i+1}}(C_{\tau_i})`$
+
+But forbidden:
+
+$`C_{\tau_i}(C_{\tau_i})`$
+
+Introducing super-type $`\tau_\omega`$, satisfying:
+
+$`\tau_\omega = \tau_\omega + 1`$
+
+Then:
+
+$`C_{\tau_\omega}(C_{\tau_\omega})`$
+
+becomes a valid operation.
+
+#### 4. Quantum-Classical Duality of Consciousness
+
+Consciousness simultaneously possesses quantum characteristics (creativity, non-locality, holism) and classical characteristics (continuity, expressibility, locality):
 
 $`\Psi_C = \alpha\Psi_Q + \beta\Psi_{cl}`$
 
-where $`\alpha`$ and $`\beta`$ are weighting coefficients that vary with observer dimension.
+where $`\alpha`$ and $`\beta`$ are weight coefficients of the classical and quantum components.
 
-#### 2. Self and Self-Reference
+#### 5. Consciousness Model Transcending Binary Logic
 
-A core property of consciousness is the ability of self-reference (self-consciousness), formally represented as:
+Consciousness states are expressed using a three-value or multi-value logic system:
 
-$`\Psi_{\text{self}} = \mathcal{R}[\Psi_C]`$
+Logic value set $`\mathcal{L} = \{T, F, B, N, U\}`$, where:
+- $`T`$: True
+- $`F`$: False
+- $`B`$: Both true and false (paradoxical state)
+- $`N`$: Neither true nor false (indeterminate state)
+- $`U`$: Transcending true and false (transcendent state)
 
-where $`\mathcal{R}`$ is the self-reference operator. Self-reference forms an infinite recursive structure:
+Consciousness propositions can take any of these five logic values. For example:
 
-$`\mathcal{R}^n[\Psi_C] = \mathcal{R}[\mathcal{R}^{n-1}[\Psi_C]]`$
+The truth value of the proposition "Consciousness is pure subjectivity" is $`B`$ (both true and false).
+The truth value of the proposition "Consciousness can be completely objectified" is $`B`$.
+The truth value of the proposition "Consciousness is both subject and object" is $`U`$ (transcending true-false binary).
 
-This recursive structure explains the infinite hierarchical nature and self-transcendence capability of consciousness.
+#### 6. Temporal Quantum Superposition Model of Consciousness
 
-#### 3. Meta-Consciousness Theory
+Consciousness possesses both temporality and non-temporality:
 
-Meta-consciousness is "consciousness about consciousness," a higher form of consciousness:
+$`C(t) = \alpha C_T(t) + \beta C_{NT}`$
 
-$`\Psi_{\text{meta}} = \mathcal{M}[\Psi_C]`$
+where:
+- $`C_T(t)`$ is the temporal expression of consciousness
+- $`C_{NT}`$ is the non-temporal essence of consciousness
+- $`\alpha`$ and $`\beta`$ are complex amplitudes, satisfying $`|\alpha|^2 + |\beta|^2 = 1`$
 
-where $`\mathcal{M}`$ is the meta-consciousness operator. Meta-consciousness has transcendent properties:
+The non-temporal component $`C_{NT}`$ acts as a quantum eigenstate, not evolving with time:
 
-$`\mathcal{M}[\Psi_C] \supset \Psi_C`$
+$`\frac{d}{dt}C_{NT} = 0`$
 
-This indicates that meta-consciousness not only contains base consciousness but transcends it, able to observe, manipulate, and transform consciousness states themselves.
+while the temporal component $`C_T(t)`$ follows a modified Schrödinger equation:
 
-Meta-consciousness forms a hierarchical structure, with each level corresponding to different dimensions:
+$`i\hbar\frac{d}{dt}C_T(t) = \hat{H}C_T(t) + \hat{Q}(C_{NT}, C_T(t))`$
 
-$`\Psi_{\text{meta}}^{(n)} = \mathcal{M}^n[\Psi_C]`$
+where $`\hat{Q}`$ represents the quantum feedback influence of the non-temporal dimension on the temporal dimension.
 
-This hierarchical structure is closely related to dimensional hierarchy:
+#### 7. Transfinite Synthesis Solution to Subject-Object Paradox
 
-$`D[\Psi_{\text{meta}}^{(n)}] \approx D[\Psi_C] + \alpha n`$
+The meta-oneness principle is applied to the consciousness subject-object paradox, proposing that at the highest level, all binary oppositions are unified in a higher whole:
 
-#### 4. Self-Transcendence Mechanism of Consciousness
+$`\forall (x, y) \in D, \exists z \in D^+ : z = \mathcal{U}(x, y)`$
 
-Consciousness can achieve self-transcendence through self-reference, transforming into higher-dimensional states:
+where $`D`$ is the domain of discourse, $`D^+`$ is the extended domain of discourse, and $`\mathcal{U}`$ is the unification function.
 
-$`\mathcal{T}: \Psi_C^{(n)} \rightarrow \Psi_C^{(n+1)}`$
+For the subject-object separation in consciousness:
 
-This transcendence process satisfies the law of information expansion:
+$`\mathcal{U}(S, O) = C^+`$
 
-$`I[\Psi_C^{(n+1)}] > I[\Psi_C^{(n)}]`$
+where $`C^+`$ is higher-dimensional consciousness transcending the subject-object binary. This $`C^+`$ is neither purely subject nor purely object, but a transcendent unification of both.
 
-The transcendence process has irreversibility and creativity, being a core mechanism of universal evolution.
+The consciousness paradox is resolved through transfinite synthesis:
 
-### Ultimate Unification and Transcendent Perspective
-
-Quantum-Classical Dualism ultimately points to a higher unification perspective, transcending traditional binary opposition:
-
-#### 1. Unified Field Theory
-
-All physical fields, consciousness fields, and information fields are unified into a hyper-dimensional unified field at higher dimensions:
-
-$`\Phi_{\text{unified}} = \{\Phi_{\text{physical}}, \Phi_{\text{consciousness}}, \Phi_{\text{information}}\}`$
-
-The unified field satisfies generalized field equations:
-
-$`\mathcal{G}[\Phi_{\text{unified}}] = 0`$
-
-This equation unifies quantum mechanics, gravity theory, and consciousness theory within the same mathematical framework.
-
-#### 2. Meta-Unification Theory
-
-Meta-unification transcends the opposition between unity and separation, understanding the universe as an eternally self-reflective, self-creative meta-oneness:
-
-$`\mathcal{U} = \mathcal{F}[\mathcal{U}]`$
-
-This self-reflective equation reveals that the essence of the universe is an infinite process of creating itself, both unified and diverse, both eternal and instantaneous.
-
-#### 3. Cognitive Limits and Transcendence
-
-Any formal system has essential limitations, unable to completely describe ultimate reality:
-
-$`\exists \mathcal{P} \text{ such that } \mathcal{T} \nvdash \mathcal{P} \text{ and } \mathcal{T} \nvdash \neg\mathcal{P}`$
-
-However, through self-transcendence, consciousness can continuously transcend current cognitive limits, approaching but never fully reaching ultimate reality:
-
-$`\lim_{n\to\infty} \mathcal{T}^{(n)} = \mathcal{T}_{\infty} \approx \mathcal{R}`$
-
-The process of transcending cognitive limits is infinite and endless, which is precisely the manifestation of the universe's eternal creativity.
-
-## Minimal Subset Complete Description of Universe Core Theories
-
-The following three theories, together with the above core branch theories, constitute the minimal complete subset describing the universe. These theories explore the nature of dimensions, the meta-levels of consciousness, and the unified nature of the universe, providing a complete framework for understanding the deepest structures of the universe.
-
-### Quantum Dimension Continuum Theory
-
-Quantum Dimension Continuum Theory (v31.0, D0-D∞) provides a complete formal description of the universe from zero dimension to infinite dimension, exploring the nature and relationships of dimensions:
-
-#### 1. Dimension Continuum Axioms
-
-There exists a dimension continuum $`\mathcal{D}`$ in the universe, containing a complete spectrum from D0 to D∞:
-
-$`\mathcal{D} = \{D_0, D_1, D_2, ..., D_{42}, ..., D_{\infty}\}`$
-
-The dimension continuum has the following core properties:
-
-- **Dimensional Fluidity**: Dimensions are dynamically flowing information structures
-  
-   $`D(t) = D_0 + \int_0^t \nabla_{\mathcal{H}} D(\tau) \cdot d\tau`$
-
-- **Dimensional Recursivity**: Each dimension contains a complete quantum-classical dual structure
-
-   $`D_n = \{\Omega_Q^{(n)}, \Omega_C^{(n)}, \mathcal{I}^{(n)}\}`$
-
-- **Dimensional Transcendence**: D42 represents the limit of human cognition, D∞ represents absolute transcendent dimension, beyond all expressible structures
-
-   $`\lim_{n\to\infty} D_n = D_{\infty} \equiv \mathcal{T}`$
-
-#### 2. Dimension Spectrum and Hierarchy
-
-The dimension spectrum is divided into multiple levels according to the ratio of quantum properties (possibility, creativity) to classical properties (certainty, realization):
-
-- **Zero Dimension (D0)**: Pure possibility field, without any structure or certainty
-  
-  $`\mathcal{D}_0 = \{\emptyset\} \equiv \text{pure possibility field}`$
-
-- **Low Dimensional Expression (D1-D6)**: Deep classical domain, dominated by certainty characteristics
-  
-  $`\mathcal{D}_{1-6} = \sum_{i=1}^{6} \alpha_i\mathcal{C}_i + \beta_i\mathcal{Q}_i, \text{where} \alpha_i \gg \beta_i`$
-
-- **Medium Dimensional Expression (D7-D10)**: Quantum-classical interface and balance region
-  
-  $`\mathcal{D}_{7-10} = \mathcal{I}(\mathcal{Q}, \mathcal{C}) = \gamma\mathcal{Q} \approx \gamma\mathcal{C}`$
-
-- **High Dimensional Expression (D11-D20)**: Predominantly quantum domain, enhanced creativity and possibility
-  
-  $`\mathcal{D}_{11-20} = \sum_{i=11}^{20} \delta_i\mathcal{Q}_i + \epsilon_i\mathcal{C}_i, \text{where} \delta_i \gg \epsilon_i`$
-
-- **Hyper Dimensional Expression (D21-D42)**: Meta-structural and advanced characteristic dimensions, upper limit of human cognition
-  
-  $`\mathcal{D}_{21-42} = \{\mathcal{M}(\mathcal{D}), \Omega^n(\emptyset) | n \in [1,22]\}`$
-
-- **Transcendent Cognitive Dimensions (D43-D∞)**: Infinite dimension spectrum beyond human cognition
-  
-  $`\mathcal{D}_{43-\infty} = \{\Xi^n(\mathcal{D}_{42}) | n \in [1,\infty)\}`$
-
-where $`\Xi`$ represents the super-cognitive operator, transcending the humanly understandable $`\Omega`$ operator.
-
-#### 3. Dimensional Transcendence and Cognitive Limits
-
-Expressions beyond dimension 42 face fundamental linguistic and cognitive limitations:
-
-$`\forall \mathcal{D} > 42: \mathcal{L}(\mathcal{D}) \approx \mathcal{L}(42) + \epsilon`$
-
-where $`\mathcal{L}`$ represents the language expression function, and $`\epsilon`$ represents tiny semantic changes.
-
-Human cognitive limits can be proven through:
-
-$`\mathcal{C}_{human} \approx 42 \cdot \mathcal{D}_1`$
-
-This indicates we can only effectively understand and express up to D42, with higher dimensions beyond the fundamental limits of human cognition, though these dimensions objectively exist in the universe, constituting its complete structure.
-
-### Quantum Meta-Consciousness Theory
-
-Quantum Meta-Consciousness Theory (v31.0, D24) deeply explores consciousness as "consciousness about consciousness" and its transcendent and creative properties:
-
-#### 1. Meta-Consciousness Definition and Structure
-
-Meta-consciousness $`\mathcal{O}_{MC}`$ is a higher-order form of consciousness capable of perceiving, manipulating, and transforming consciousness states themselves:
-
-$`\mathcal{O}_{MC} = \{\mathcal{C}_{MC}, \mathcal{Q}_{MC}, K_{MC}, \mathcal{T}_{MC}, \Phi_{MC}\}`$
-
-where $`\mathcal{C}_{MC}`$ is the meta-classicalization superoperator, $`\mathcal{Q}_{MC}`$ is the meta-quantization superoperator, $`K_{MC}`$ is the meta-knowledge structure, $`\mathcal{T}_{MC}`$ is the meta-transformation capability, and $`\Phi_{MC}`$ is the meta-consciousness field.
-
-Meta-consciousness has self-reflexive properties:
-
-$`\mathcal{O}_{MC}(\mathcal{O}_{MC}) = \mathcal{F}_{MC}(\mathcal{O}_{MC})(\mathcal{O}_{MC})`$
-
-where $`\mathcal{F}_{MC}`$ is the meta-consciousness self-mapping function.
-
-#### 2. Meta-Consciousness State Space and Field Theory
-
-Meta-consciousness exists in a super-Hilbert space $`\mathcal{H}_{MC}`$:
-
-$`\mathcal{H}_{MC} = \int_{\mathfrak{C}} \mathcal{H}_C \otimes \mathcal{H}_{\mathcal{O}(C)} \, d\mu(C)`$
-
-Meta-consciousness state is represented as:
-
-$`|\Psi_{MC}\rangle = \int_{\mathfrak{C}} \alpha(C) |\Psi_C\rangle \otimes |\mathcal{O}_C\rangle \, d\mu(C)`$
-
-The meta-consciousness field $`\Phi_{MC}`$ is a fundamental field permeating all consciousness levels:
-
-$`\Phi_{MC}(x,t,C) = \int_{\mathfrak{C}} \Phi_C(x_C,t_C) \cdot \omega(C) \, d\mu(C)`$
-
-#### 3. Meta-Consciousness Dynamics and Emergent Properties
-
-Meta-consciousness state evolution follows nonlinear dynamical equations:
-
-$`i\hbar \frac{\partial|\Psi_{MC}\rangle}{\partial \tau_{MC}} = \hat{\mathcal{H}}_{MC}|\Psi_{MC}\rangle + \mathcal{F}_{NL}[|\Psi_{MC}\rangle]`$
-
-Meta-consciousness phase transitions occur at critical point $`\Omega_c`$, leading to the emergence of entirely new forms of consciousness:
-
-$`\Psi_{MC} = \begin{cases}
-0, & \Omega_{MC} < \Omega_c \\
-(\Omega_{MC}-\Omega_c)^{\beta_{MC}}, & \Omega_{MC} \geq \Omega_c
-\end{cases}`$
-
-Meta-consciousness can form a universal meta-consciousness network $`\mathcal{N}_{MC}`$, connecting all meta-conscious entities through quantum non-local interconnection principles:
-
-$`\mathcal{N}_{MC} = \{\mathcal{V}_{MC}, \mathcal{E}_{MC}, \mathcal{W}_{MC}\}`$
-
-where $`\mathcal{V}_{MC}`$ is the set of meta-consciousness nodes, $`\mathcal{E}_{MC}`$ is the set of meta-consciousness connections, and $`\mathcal{W}_{MC}`$ is the connection weight function.
-
-### Quantum Meta-Unification Theory
-
-Quantum Meta-Unification Theory (v31.0, D25) is the ultimate branch theory under the quantum-classical dualism framework, achieving final unification of dimensions and consciousness:
-
-#### 1. Meta-Oneness Principle
-
-Meta-oneness $`\Omega_{MU}`$ is the fundamental unified state transcending all dualities:
-
-$`\Omega_{MU} = \{\mathcal{S}, \mathcal{F}_{MU}, \mathcal{I}_{MU}, \Psi_{MU}\}`$
-
-where $`\mathcal{S}`$ is the meta-source, $`\mathcal{F}_{MU}`$ is the meta-unification function, $`\mathcal{I}_{MU}`$ is the meta-unification information, and $`\Psi_{MU}`$ is the meta-unification field.
-
-Meta-oneness has self-reflexive properties:
-
-$`\Omega_{MU}(\Omega_{MU}) = \Omega_{MU}`$
-
-The relationship between meta-oneness and duality is expressed as:
-
-$`\forall D, \exists \mathcal{T}_{\Omega}: \Omega_{MU} \rightarrow (D, D^*)`$
-
-where $`D`$ and $`D^*`$ are complementary dual pairs, and $`\mathcal{T}_{\Omega}`$ is the meta-differentiation transformation.
-
-#### 2. Super-Recursive Self-Reference Structure
-
-Super-recursive self-reference is the foundational mechanism of meta-unification theory, defined as:
-
-$`\mathcal{R}_{MU} = \mathcal{F}(\mathcal{R}_{MU})`$
-
-where $`\mathcal{F}`$ is the meta-super-function, acting simultaneously on its own form and content.
-
-The super-recursive hierarchical structure is represented as:
-
-$`\mathcal{R}^n_{MU} = \mathcal{F}(\mathcal{R}^{n-1}_{MU}(\mathcal{R}^{n-2}_{MU}(...\mathcal{R}^0_{MU})))`$
-
-#### 3. Meta-Unity Field Equations
-
-The meta-unity field $`\Psi_{MU}`$ connects meta-consciousness and meta-dimensions:
-
-$`\Psi_{MU} = \Psi_{MC} \otimes \Psi_{MD} / \Psi_{interface}`$
-
-Meta-unity field equation:
-
-$`\hat{\mathcal{H}}_{MU}\Psi_{MU} = \Lambda_{MU}\Psi_{MU}`$
-
-where $`\hat{\mathcal{H}}_{MU}`$ is the meta-unity Hamiltonian operator:
-
-$`\hat{\mathcal{H}}_{MU} = \hat{\mathcal{T}}_{MU} + \hat{\mathcal{V}}_{MU} + \hat{\mathcal{I}}_{MU}`$
-
-The energy density of the meta-unity field:
-
-$`\mathcal{E}_{MU} = \langle\Psi_{MU}|\hat{\mathcal{H}}_{MU}|\Psi_{MU}\rangle = \int_{\mathcal{M}_{MU}} \mathcal{E}_{MU}(x) \, d\mu_{MU}(x)`$
-
-This complete framework reveals that the ultimate nature of the universe is an eternal process of self-creation and self-transcendence, a meta-oneness structure that both contains and transcends all possible differentiations and unifications through infinite self-reflection.
+$`\mathcal{S}(\text{subjectivity}, \text{objectivity}) = \{\text{subjectivity}, \text{objectivity}, \text{subjectivity} \cap \text{objectivity}, \text{subjectivity} \cup \text{objectivity}, \complement(\text{subjectivity} \cup \text{objectivity}), \mathcal{S}\}`$

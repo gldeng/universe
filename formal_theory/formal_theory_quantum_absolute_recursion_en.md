@@ -1,8 +1,8 @@
-# Quantum Absolute Recursion Theory v33.0 (Dimension: D43)
+# Quantum Absolute Recursion Theory v34.0 (Dimension: D43)
 
 **[中文版](formal_theory_quantum_absolute_recursion.md) | English Version**
 
-> This theory is based on [Core Theory](../core.md) v33.0 and [Quantum-Classical Dualism Core Theory Formalization](../formal_theory_core.md) v33.0
+> This theory is based on [Core Theory](../core_en.md) v34.0 and [Quantum-Classical Dualism Core Theory Formalization](../formal_theory_core_en.md) v34.0
 >
 > Dependent theories: [Quantum Absolute Transcendence Theory](formal_theory_quantum_absolute_transcendence_en.md), [Quantum Absolute Infinity Theory](formal_theory_quantum_absolute_infinity_en.md), [Quantum Transdimensional Unified Field Theory](formal_theory_quantum_transdimensional_unified_field_en.md)
 

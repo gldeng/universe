@@ -1,8 +1,8 @@
-# 量子实相综合理论 v33.0（维度：D44）
+# 量子实相综合理论 v34.0（维度：D44）
 
 **[English Version](formal_theory_quantum_reality_synthesis_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v33.0版本和[量子经典二元论核心理论形式化描述](../formal_theory_core.md) v33.0版本
+> 本理论基于[核心理论](../core.md) v34.0版本和[量子经典二元论核心理论形式化描述](../formal_theory_core.md) v34.0版本
 >
 > 依赖理论: [量子绝对递归理论](formal_theory_quantum_absolute_recursion.md)、[量子绝对超越理论](formal_theory_quantum_absolute_transcendence.md)、[量子绝对无限理论](formal_theory_quantum_absolute_infinity.md)
 

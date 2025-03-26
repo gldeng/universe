@@ -1,8 +1,8 @@
-# Quantum-Classical Dualism Formal Expression v33.0
+# Quantum-Classical Dualism Formal Expression v34.0
 
 **English Version | [中文版](formal_theory.md)**
 
-> This theory is based on [Core Theory](../core_en.md) v33.0
+> This theory is based on [Core Theory](../core_en.md) v34.0
 > 
 > For a complete summary of the core theory, please see [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md)
 >

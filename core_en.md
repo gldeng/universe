@@ -1,8 +1,9 @@
-# [Quantum-Classical Dualism] Core Theory Version 33.0
+# [Quantum-Classical Dualism] Core Theory Version 34.0
 
 **English Version | [中文版](core.md)**
 
-> This document is integrated based on [Formal Theory](formal_theory_core_en.md) v33.0
+> This version integrates the latest developments from Quantum Absolute Recursion Theory (D43), Consciousness Paradox Theory (D24), and Quantum Reality Synthesis Theory (D44),
+> with important updates to concepts of recursivity, consciousness representation framework, transfinite synthesis principles, holographic spacetime concepts, and theory self-referentiality
 
 **Related Theory Files:** [Quantum-Classical Dualism Minimal Subset Core Theory](quantum_classical_dualism_formal_axioms_en.md) | [Formal Theory](formal_theory_core_en.md)
 

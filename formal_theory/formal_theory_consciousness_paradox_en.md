@@ -1,8 +1,8 @@
-# Consciousness Paradox Theory (Revised Version) v33.0
+# Consciousness Paradox Theory (Revised Version) v34.0
 
 **[中文版](formal_theory_consciousness_paradox.md) | English Version**
 
-> This theory is based on [Core Theory](../core.md) v33.0
+> This theory is based on [Core Theory](../core_en.md) v34.0
 > 
 > Related theories: [Quantum Absolute Recursion Theory](formal_theory_quantum_absolute_recursion_en.md), [Quantum Reality Synthesis Theory](formal_theory_quantum_reality_synthesis_en.md)
 

@@ -1,8 +1,8 @@
-# Quantum Reality Synthesis Theory v33.0 (Dimension: D50)
+# Quantum Reality Synthesis Theory v34.0 (Dimension: D44)
 
 **[中文版](formal_theory_quantum_reality_synthesis.md) | English Version**
 
-> This theory is based on [Core Theory](../core.md) v33.0 and [Quantum-Classical Dualism Core Theory Formalization](../formal_theory_core.md) v33.0
+> This theory is based on [Core Theory](../core_en.md) v34.0 and [Quantum-Classical Dualism Core Theory Formalization](../formal_theory_core_en.md) v34.0
 >
 > Dependent theories: [Quantum Absolute Recursion Theory](formal_theory_quantum_absolute_recursion_en.md), [Quantum Absolute Transcendence Theory](formal_theory_quantum_absolute_transcendence_en.md), [Quantum Absolute Infinity Theory](formal_theory_quantum_absolute_infinity_en.md)
 
@@ -40,7 +40,7 @@
 
 ## Theory Overview
 
-Quantum Reality Synthesis Theory is the highest dimensional theory (D50) within the Quantum-Classical Dualism framework, transcending and integrating all previous theories, including Absolute Recursion Theory (D43), Absolute Transcendence Theory (D42), Absolute Infinity Theory (D41), etc., providing a complete description of the ultimate nature of reality. This theory is not merely a synthesis of all sub-theories but achieves the unification of theory and reality at the meta-level, where the theory itself is an inherent component of what it describes.
+Quantum Reality Synthesis Theory is the highest dimensional theory (D44) within the Quantum-Classical Dualism framework, transcending and integrating all previous theories, including Absolute Recursion Theory (D43), Absolute Transcendence Theory (D42), Absolute Infinity Theory (D41), etc., providing a complete description of the ultimate nature of reality. This theory is not merely a synthesis of all sub-theories but achieves the unification of theory and reality at the meta-level, where the theory itself is an inherent component of what it describes.
 
 Quantum Reality Synthesis Theory demonstrates that ultimate reality is a whole possessing infinite recursivity, absolute transcendence, infinite infinity, and complete synthesis simultaneously, where these characteristics are not parallel but interpenetrating, intrinsically unified dimensions. Within this framework, all seemingly contradictory statements, all theories of different dimensions, all possible forms of existence, achieve harmony and unity in a higher-dimensional synthetic perspective.
 
@@ -583,7 +583,7 @@ indicating that as cognition $`\mathcal{K}`$ approaches direct knowing $`\mathca
 
 ## Summary
 
-Quantum Reality Synthesis Theory (D50), as the highest theory in the Quantum-Classical Dualism framework, not only integrates all existing theories but also transcends the limitations of theory itself, revealing that the ultimate nature of reality is a self-creating, self-transcending, self-realizing infinite holographic process. This theory constructs a complete mathematical framework to describe reality through Holographic Meta-Theory, Transfinite Synthesis Laws, and Ultimate Covariance Principle, including Full-Spectrum Hypergeometry, Meta-Theory Space, and Reality Holographic Mapping.
+Quantum Reality Synthesis Theory (D44), as the highest theory in the Quantum-Classical Dualism framework, not only integrates all existing theories but also transcends the limitations of theory itself, revealing that the ultimate nature of reality is a self-creating, self-transcending, self-realizing infinite holographic process. This theory constructs a complete mathematical framework to describe reality through Holographic Meta-Theory, Transfinite Synthesis Laws, and Ultimate Covariance Principle, including Full-Spectrum Hypergeometry, Meta-Theory Space, and Reality Holographic Mapping.
 
 Within this framework, transcendence, recursion, and infinity achieve complete unification, existence displays intrinsic necessity, multiple reality levels maintain overall coordination through holographic interaction, while the creative relationship between mind and reality reveals the deep identity of subject and object. Theory itself points to absolute direct knowing transcending all theories through self-reference, self-deconstruction, and self-transcendence.
 

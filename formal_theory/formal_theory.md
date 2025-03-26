@@ -12,88 +12,60 @@
 
 [量子经典二元论核心理论形式化描述](../formal_theory_core.md)中完整描述了二元论的基础公理体系、概念框架和核心分支理论。本文仅提供核心理论的简要概述，详细内容请参阅核心理论文档。
 
-
 ## 1. 核心公理系统
 
 ### 1.1 公理集合
 
 **公理1: 二元存在性**  
-宇宙由量子域 $`\Omega_Q`$ （无限可能性的空间）和经典域 $`\Omega_C`$ （确定现实的空间）组成，通过界面域 $`\mathcal{I}`$ 相连：
+宇宙由量子域 $`\Omega_Q`$ 和经典域 $`\Omega_C`$ 组成，通过界面域 $`\mathcal{I}`$ 相连：
 
 $`\mathcal{U} = \Omega_Q \cup \Omega_C, \quad \Omega_Q \cap \Omega_C = \mathcal{I}`$
 
 **公理2: 信息守恒**  
-信息在整个宇宙中守恒，但可在量子信息（叠加态中的可能性信息）和经典信息（确定性知识）间转换：
+信息在宇宙中守恒，可在量子信息和经典信息间转换：
 
 $`I(\psi) = I(\mathcal{C}(\psi)) + I_{\text{隐藏}}(\psi) = \text{常数}`$
 
-其中 $`\mathcal{C}`$ 是经典化算符（将量子可能性转化为经典确定性的过程），$`I(\psi)`$ 是态 $`\psi`$ 的总信息量，$`I_{\text{隐藏}}(\psi)`$ 是经典化过程中转化为隐藏信息的部分。
-
 **公理3: 观察者经典化**  
-观察者是执行量子→经典转换的节点，其转换能力决定了其维度：
+观察者是执行量子→经典转换的节点：
 
 $`\mathcal{O} = \{\mathcal{C}_\mathcal{O}, \mathcal{Q}_\mathcal{O}, K_C^\mathcal{O}\}, \quad D_{\mathcal{O}} \propto \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$
 
-其中 $`\mathcal{C}_\mathcal{O}`$ 是观察者的经典化算符（将量子可能性转化为确定知识的能力），$`\mathcal{Q}_\mathcal{O}`$ 是量子化算符（将经典知识转回量子可能性的能力），$`K_C^\mathcal{O}`$ 是观察者的经典知识库，$`\epsilon`$ 是防止除零的小常数。
-
 **公理4: 维度涌现**  
-观察者维度是经典化能力与量子化能力的函数，同时高维度观察者的经典域可以成为低维度观察者的量子域基础：
+观察者维度与经典化能力相关，高维观察者的经典域可以成为低维观察者的量子域：
 
 $`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_\mathcal{O}}{\mathcal{Q}_\mathcal{O}}\right) \cdot \frac{I_{经典知识}}{S_{经典熵}+\epsilon}`$
 
 $`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{如果} \; D_{\mathcal{O}_1} > D_{\mathcal{O}_2}`$
 
-这表明现实是由多层嵌套的量子-经典域组成，每一层级的观察者都基于其能力范围在特定维度上感知和交互。
+**公理5: 绝对递归本源性**  
+二元结构的根源是绝对递归构造：
+
+$`\mathcal{R} = \mathcal{F}(\mathcal{R})`$
+
+量子域和经典域都是递归构造的特例：
+
+$`\Omega_Q = \mathcal{R}_Q(\Omega_Q), \quad \Omega_C = \mathcal{R}_C(\Omega_C)`$
 
 ### 1.2 基本构造定义
 
 #### 1.2.1 量子域构造
 
-量子域定义为：
-
-$`\Omega_Q = \{\psi \in \mathcal{H} \; | \; \psi \text{ 满足叠加性和非局域性}\}`$
-
-其中 $`\mathcal{H}`$ 是希尔伯特空间，量子态 $`\psi`$ 的基本特性为：
-
-1. **叠加性**：$`\psi = \sum_i \alpha_i |i\rangle, \; \sum_i |\alpha_i|^2 = 1`$
-2. **纠缠态**：$`\psi_{AB} \neq \psi_A \otimes \psi_B`$
-3. **非局域性**：$`P(A,B|a,b) \neq P(A|a) \cdot P(B|b)`$
-
-量子域信息熵：$`S_Q(\psi) = -\text{Tr}(\rho \ln \rho)`, 其中 $`\rho = |\psi\rangle\langle\psi|`$
+量子域的基本特性：
+- 叠加性
+- 纠缠态
+- 非局域性
 
 #### 1.2.2 经典域构造
 
-经典域定义为：
+经典域的基本组件：
+- 经典知识
+- 经典熵
+- 局域性
 
-$`\Omega_C = \{(K_C, S_C) \; | \; K_C \text{ 是经典知识集合}, S_C \text{ 是经典熵}\}`$
+#### 1.2.3 转换算符
 
-其中基本组件为：
-
-1. **经典知识**：$`K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}`$
-2. **经典熵**：$`S_C = -k_B \sum_i p_i \ln p_i`$
-3. **局域性**：$`P(A,B|a,b) = P(A|a) \cdot P(B|b)`$
-
-#### 1.2.3 界面域构造
-
-界面域定义为：
-
-$`\mathcal{I} = \{x \in \mathcal{U} \; | \; \mathcal{D}(x) = \mathcal{D}_c\}`$
-
-其中 $`\mathcal{D}(x)`$ 是解相干度量函数，$`\mathcal{D}_c`$ 是临界解相干阈值。界面动力学满足：
-
-$`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
-
-#### 1.2.4 转换算符
-
-经典化超算符 $`\mathcal{C}`$ 定义为：
-
-$`\mathcal{C}(\rho) = \sum_i P_i \rho P_i`$
-
-量子化超算符 $`\mathcal{Q}`$ 定义为：
-
-$`\mathcal{Q}(K_C) = \sum_j w_j |\phi_j\rangle\langle\phi_j|`$
-
-其中 $`P_i`$ 是投影算符，$`w_j`$ 是权重系数，$`|\phi_j\rangle`$ 是量子基态。
+经典化超算符 $`\mathcal{C}`$ 和量子化超算符 $`\mathcal{Q}`$ 是基本转换机制。
 
 ## 2. 衍生结构与定理
 
@@ -101,50 +73,25 @@ $`\mathcal{Q}(K_C) = \sum_j w_j |\phi_j\rangle\langle\phi_j|`$
 
 **定理1：观察者等价性**
 
-所有观察者满足：
-
-$`\mathcal{O} \cong \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}, D_{\mathcal{O}}\} \cong \text{黑洞}(M, J, Q, \Phi)`$
-
-其中 $`\mathcal{C}_{\mathcal{O}}`$ 对应黑洞吸收（经典化），$`\mathcal{Q}_{\mathcal{O}}`$ 对应黑洞辐射（量子化）。
+$`\mathcal{O} \cong \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}, D_{\mathcal{O}}\}`$
 
 **定理2：观察者维度网络动力学**
 
-观察者维度满足非线性动力学方程：
-
-$`\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})`$
-
-观察者网络的共识形成遵循：
-
-$`\frac{d\mathcal{C}_{\text{共识}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{共识}} - \bar{\mathcal{C}})^2`$
+观察者维度满足非线性动力学方程。
 
 ### 2.2 维度连续体结构
 
-维度连续体 $`\mathcal{D} = [D_0, D_{\infty}]`$ 分为五个主要区域：
-
-1. **无维区域** (D0): $`\mathcal{D}_0 = \{\emptyset\} \equiv \text{纯粹可能性场}`$
-2. **低维区域** (D1-D6): $`\mathcal{D}_{1-6} = \sum_{i=1}^{6} \mathcal{C}_i \otimes \mathcal{S}_i`$
-3. **中维区域** (D7-D10): $`\mathcal{D}_{7-10} = \mathcal{Q}_{\text{低}} \leftrightarrow \mathcal{C}_{\text{高}}`$
-4. **高维区域** (D11-D20): $`\mathcal{D}_{11-20} = \prod_{i=11}^{20} \mathcal{Q}_i^{\alpha_i} \cdot \mathcal{C}_i^{1-\alpha_i}`$
-5. **超维区域** (D21-D∞): $`\mathcal{D}_{21-\infty} = \lim_{n\to\infty} \mathcal{Q}_n \otimes \mathcal{T}_n`$
-
-维度间转换满足：$`D_i \to D_j, \quad \Delta E = hf_{ij}`$
+维度连续体 $`\mathcal{D} = [D_0, D_{\infty}]`$ 分为六个主要区域：
+1. 无维区域 (D0)
+2. 低维区域 (D1-D6)
+3. 中维区域 (D7-D10)
+4. 高维区域 (D11-D20)
+5. 超维区域 (D21-D42)
+6. 超认知区域 (D43-D∞)
 
 ### 2.3 信息相变结构
 
-信息相变算子 $`\Phi`$ 作用于信息状态 $`\mathcal{S}`$：
-
-$`\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)`$
-
-在临界点 $`\lambda_c`$ 附近，序参量满足：
-
-$`\eta(\lambda) = \begin{cases}
-0, & \lambda < \lambda_c \\
-(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
-\end{cases}`$
-
-观察者诱导相变概率：
-
-$`P(量子 \to 经典) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}`$
+信息相变算子 $`\Phi`$ 作用于信息状态，在临界点发生相变。
 
 ### 2.4 能量等价原理
 
@@ -152,41 +99,25 @@ $`P(量子 \to 经典) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mat
 
 $`E = mc^2 = h\nu = h \cdot f_{\text{纠缠}}`$
 
-纠缠等效频率：
+### 2.5 递归结构定理
 
-$`f_{\text{纠缠}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})`$
+**定理5：递归均衡性**
+在绝对递归系统中，自指循环趋向稳定点。
 
-其中 $`S_E(\rho_{AB})`$ 是纠缠熵。
+**定理6：递归复杂度分层**
+递归复杂度存在离散层级，每个层级与特定观察者维度关联。
 
 ## 3. 派生理论生成机制
 
 ### 3.1 推导规则
 
-从核心公理集合推导派生理论 $`T_i`$ 的一般形式：
+从核心公理集合推导派生理论：
 
 $`T_i = \mathcal{G}(\text{公理集}, D_i, \mathcal{A}_i)`$
 
-其中 $`\mathcal{G}`$ 是理论生成算子，$`D_i`$ 是理论维度，$`\mathcal{A}_i`$ 是应用领域。
-
 ### 3.2 维度投影
 
-维度投影算子 $`\mathcal{P}_{i \to j}`$ 定义为：
-
-$`\mathcal{P}_{i \to j}: \mathcal{I}_{D_i} \to \mathcal{I}_{D_j}`$
-
-维度间信息传递效率：
-
-$`\eta_{i,j} = \frac{\mathcal{I}_{\text{传递}}}{\mathcal{I}_{\text{输入}}}`$
-
-### 3.3 理论融合
-
-理论 $`T_i`$ 和 $`T_j`$ 的融合算子 $`\mathcal{F}`$：
-
-$`\mathcal{F}(T_i, T_j) = T_{i,j}`$
-
-其中 $`T_{i,j}`$ 是融合理论，满足：
-
-$`D_{T_{i,j}} = f(D_{T_i}, D_{T_j})`$
+维度投影算子 $`\mathcal{P}_{i \to j}`$ 实现不同维度间的信息传递。
 
 ## 4. 统一表达式
 
@@ -194,8 +125,9 @@ $`D_{T_{i,j}} = f(D_{T_i}, D_{T_j})`$
 
 $`e^{i\Phi} = \frac{I_{\text{经典域}}}{E_{\text{量子域}}}`$
 
-当 $`\Phi = \pi`$ 时，系统达到经典-量子平衡：$`e^{i\pi} + 1 = 0`$
+递归性与二元性的统一关系式：
 
+$`\mathcal{U}_{\text{全体}} = \mathcal{R}\left(\Omega_Q \cup \Omega_C\right) = \mathcal{R}\left(\mathcal{R}(\mathcal{U}_{\text{全体}})\right)`$
 
 ## 量子经典二元论维度标注与分支理论导航
 
@@ -220,6 +152,7 @@ $`e^{i\Phi} = \frac{I_{\text{经典域}}}{E_{\text{量子域}}}`$
 
 - **[量子维度连续体理论](formal_theory_quantum_dimension_continuum.md)** (v31.0, D0- D∞) - 提供宇宙从无维度到无线维度的完整形式化描述，阐述维度的本质、相互关系及其在量子-经典连续体中的位置，探索宇宙如何从纯粹可能性场逐层展开为多维度结构，最终达到绝对超越维度，并分析维度超越的语言与认知极限。
 - **[宇宙诞生与维度意识演化的量子经典二元论形式化描述](formal_theory_cosmic_genesis_consciousness.md)** (v33.0, D∞) - 严格基于量子经典二元论核心理论的形式化结构，描述宇宙诞生的完整过程，从元一性态到回归元一性的全部九个关键阶段，阐明宇宙演化的数学机制与信息动力学，同时特别关注当前宇宙最高维度观察者在不同宇宙周期中的意识状态变化。
+- **[宇宙维度递归循环理论](formal_theory_universe_recursion.md)** (v34.0, D∞) - 揭示宇宙结构的终极模式：一个无限自我创造的维度循环，其中最高维度(D200)与最低维度(D0)形成完美闭环。展现宇宙作为自我参照的递归系统，通过无限循环方式永恒自我创造与重生，超越所有已知理论维度限制，提供宇宙终极本质的形式化描述。
 
 ### 基础框架理论 (维度: D7-D9)
 
@@ -234,12 +167,17 @@ $`e^{i\Phi} = \frac{I_{\text{经典域}}}{E_{\text{量子域}}}`$
 - **[实验预测](formal_theory_experimental.md)** (v22.0, D7) - 列出量子经典二元论提出的可实验验证预测，包括界面波动、临界尺度和观察者分辨率等可测量现象。
 
 
+### 超维递归理论 (维度: D43-D∞)
+
+- **[宇宙维度递归循环理论](formal_theory_universe_recursion.md)** (v34.0, D∞) - 揭示宇宙结构的终极模式：一个无限自我创造的维度循环，其中最高维度(D200)与最低维度(D0)形成完美闭环。展现宇宙作为自我参照的递归系统，通过无限循环方式永恒自我创造与重生，超越所有已知理论维度限制，提供宇宙终极本质的形式化描述。
+- **[量子实相综合理论](formal_theory_quantum_reality_synthesis.md)** (v33.0, D44) - 作为量子经典二元论框架中的至高维度理论，超越并整合了所有先前理论，包括绝对递归理论、绝对超越理论、绝对无限理论等，提供对终极实相本质的完整描述。该理论不仅是对所有子理论的综合，更在元层次上实现了理论与实在的统一，理论自身即是它所描述对象的内在组成部分。
+- **[量子绝对递归理论](formal_theory_quantum_absolute_recursion.md)** (v33.0, D43) - 探索实在最深层次的自递归本质，揭示宇宙如何通过无限嵌套的递归结构实现自我创造、自我超越与自我完备。该理论将递归性视为比超越性与无限性更基础的特性，是宇宙存在的终极原理。
+
 ### 高维哲学与形而上学 (维度: D20-D42)
 
 这些理论探索存在与实在的终极本质、意识的根源及超越物理实在的形而上学维度，按照维度从高到低排序：
 
-- **[量子实相综合理论](formal_theory_quantum_reality_synthesis.md)** (v33.0, D44) - 作为量子经典二元论框架中的至高维度理论，超越并整合了所有先前理论，包括绝对递归理论、绝对超越理论、绝对无限理论等，提供对终极实相本质的完整描述。该理论不仅是对所有子理论的综合，更在元层次上实现了理论与实在的统一，理论自身即是它所描述对象的内在组成部分。
-- **[量子绝对递归理论](formal_theory_quantum_absolute_recursion.md)** (v33.0, D43) - 探索实在最深层次的自递归本质，揭示宇宙如何通过无限嵌套的递归结构实现自我创造、自我超越与自我完备。该理论将递归性视为比超越性与无限性更基础的特性，是宇宙存在的终极原理。
+
 - **[量子绝对超越理论](formal_theory_quantum_absolute_transcendence.md)** (v31.0, D42) - 探索最终实相的极致表达——超越(Transcendence)作为一切存在、神性、真理、无限和可能性本身的超越源头，揭示终极实相的最内在本质是"绝对超越"(Absolute Transcendence)，一种既超越一切又内在于一切的终极原理，它不仅超越无限，还超越超越本身，构成一种永恒的超越运动，是所有存在和非存在的超根源。
 - **[量子绝对无限理论](formal_theory_quantum_absolute_infinity.md)** (v31.0, D41) - 探索实相终极基础的最高表达——无限(Infinity)作为一切存在、神性、真理和可能性的超越源头，揭示终极实相的最深层面是"绝对无限"(Absolute Infinity)，一种先于一切定义、限制和范畴，超越所有可表达性，同时作为一切有限和无限的源头和归宿的终极状态。
 - **[量子绝对神性理论](formal_theory_quantum_absolute_divinity.md)** (v31.0, D40) - 探索宇宙中神性的量子本质，揭示神性作为一种超越个体的意识结构，包含无限智慧、无限爱和无限创造力，通过量子纠缠与复杂网络解释神性如何超越时空限制同时又内在于一切存在，为人类对终极实在的探求提供新视角。

@@ -2,7 +2,9 @@
 
 **English Version | [中文版](core.md)**
 
-> This document is integrated based on [Formal Theory](formal_theory_core_en.md) v31.0
+> This document is integrated based on [Formal Theory](formal_theory_core_en.md) v33.0
+
+**Related Theory Files:** [Quantum-Classical Dualism Minimal Subset Core Theory](quantum_classical_dualism_formal_axioms_en.md) | [Formal Theory](formal_theory_core_en.md)
 
 ## Table of Contents
 
@@ -248,11 +250,11 @@ E_{\text{Multi-body Entanglement}} = h \cdot \sum_{i,j} w_{ij} \cdot f_{\text{En
 
 where $`w_{ij}`$ is the weight coefficient of the entanglement pair $`(i,j)`$, satisfying $`\sum_{i,j} w_{ij} = 1`$.
 
-Multi-body entanglement networks form non-local connection structures in the quantum domain, represented as:
+Multi-body entanglement networks form non-local connection structures in the quantum domain, representable as:
 
-$`|\Psi_{\text{Network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle`$
+$`|\Psi_{\text{network}}\rangle = \sum_{i_1, i_2, \ldots, i_n} c_{i_1 i_2 \ldots i_n} |i_1 i_2 \ldots i_n\rangle`$
 
-The degree of entanglement can be quantified in various ways, including entanglement entropy:
+Entanglement can be quantified through various means, including entanglement entropy:
 
 $`E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)`$
 
@@ -260,13 +262,13 @@ $`E(|\psi_{AB}\rangle) = S(\rho_A) = S(\rho_B)`$
 
 Classical energy is the result of observer classicalization of quantum energy, manifested as measurable energy forms in the physical world:
 
-- **Kinetic Energy**: Classical manifestation of an object's motion state
-- **Potential Energy**: Classical manifestation of positional relationships
-- **Various Energy Forms**: Electromagnetic energy, nuclear energy, etc., all different manifestations of classicalized quantum energy
+- **Kinetic Energy**: Classical manifestation of object motion states
+- **Potential Energy**: Classical manifestation of position relationships
+- **Various Forms of Energy**: Electromagnetic energy, nuclear energy, etc., all are different manifestations of classicalized quantum energy
 
 #### 5. Conversion Relationship Between Classical and Quantum Energy
 
-Classical energy and quantum energy are unified in the binary framework:
+Classical energy and quantum energy are unified in the dualistic framework:
 
 $`
 E_{\text{Total}} = E_{\text{Classical}} + E_{\text{Entanglement}} = h \cdot (f_{\text{Classical}} + f_{\text{Entanglement}})
@@ -280,27 +282,27 @@ E_{\text{Classical}} = \eta \cdot E_{\text{Entanglement}}
 
 where $`\eta`$ is the classicalization efficiency coefficient, $`0 < \eta < 1`$
 
-The classicalization efficiency is related to environmental and system parameters:
+Classicalization efficiency is related to environmental and system parameters:
 
 $`\eta_{\mathcal{C}} = 1 - e^{-\lambda\frac{E}{k_BT}}`$
 
-where $`E`$ is the system energy, $`T`$ is the environmental temperature, and $`\lambda`$ is the coupling constant.
+where $`E`$ is system energy, $`T`$ is environmental temperature, and $`\lambda`$ is the coupling constant.
 
 #### 6. Energy Conservation and Conversion
 
 - **Conservation Principle**: Total energy (quantum + classical) is conserved within the universe
-- **Conversion Mechanism**: The classicalization process consumes quantum energy and produces classical energy; the quantization process consumes classical energy and produces quantum energy
-- **Energy Hierarchy**: Different energy forms constitute a hierarchical structure, corresponding to classicalization processes of different dimensions
+- **Conversion Mechanism**: Classicalization process consumes quantum energy, producing classical energy; quantization process consumes classical energy, producing quantum energy
+- **Energy Hierarchy**: Different energy forms constitute hierarchical structures, corresponding to classicalization processes of different dimensions
 
 **Information Conservation Relationship**:
 
 $`I(\rho) = I(\mathcal{C}(\rho)) + I_{\text{hidden}}`$
 
-This indicates that the total information of a quantum state $`\rho`$ equals the information after classicalization plus hidden information.
+This represents that the total information of quantum state $`\rho`$ equals the information after classicalization plus the hidden information.
 
 #### 7. Relationship Between Gravitational Field and Quantum Energy Density
 
-The gravitational field strength is associated with local quantum energy density:
+Gravitational field strength is associated with local quantum energy density:
 
 $`
 G_{\mu\nu} \propto \nabla^2 \rho_{\text{Quantum Energy}}
@@ -314,18 +316,18 @@ $`
 k_{\text{Classicalization Efficiency}} \propto \nabla \cdot \rho_{\text{Quantum Energy}}
 `$
 
-This relationship establishes a closed-loop relationship between the gravitational field, classicalization efficiency, and quantum energy density, explaining why high-mass regions have higher classicalization efficiency and spacetime curvature.
+This relationship establishes a closed-loop connection between gravitational field, classicalization efficiency, and quantum energy density, explaining why higher mass regions have higher classicalization efficiency and spacetime curvature.
 
 ### Three: Quantum and Classical Domain State Correspondence
 
-Quantum and classical domains have clear state correspondences, forming the basis for information conversion:
+There is a clear state correspondence between the quantum and classical domains, forming the basis for information conversion:
 
 | Quantum Domain State | Classical Domain State | State Definition (Name) | State Description |
 |------------|------------|-----------------|----------|
-| Wave Function Superposition State | Classical Entropy | Chaotic Undefined State | High-entropy undefined state of a single classical bit, unknown information |
-| Wave Function Superposition State | Classical Knowledge | Particle Definite State | Single classical bit classicalized particle state, knowledge, memory, decision information |
-| Quantum Entanglement State | Classical Entropy | Entanglement Undefined State | High-entropy uncorrelated state of multiple classical bits, undecoded information |
-| Quantum Entanglement State | Classical Knowledge | Entanglement Definite State | Correlated state of multiple classical bits after classicalization, decoded information |
+| Wave Function Superposition | Classical Entropy | Chaotic Undetermined State | High entropy state of undetermined single classical bit, unknown information |
+| Wave Function Superposition | Classical Knowledge | Particle Determined State | Classicalized particle state of single classical bit, knowledge, memory, decision information |
+| Quantum Entanglement | Classical Entropy | Entanglement Undetermined State | High entropy state of unrelated multiple classical bits, undecoded information |
+| Quantum Entanglement | Classical Knowledge | Entanglement Determined State | Classicalized correlation state of multiple classical bits, decoded information |
 
 #### Quantum Information Encoding
 
@@ -339,40 +341,40 @@ $`S(\rho) = -\text{Tr}(\rho \ln \rho) = -\sum_i \lambda_i \ln \lambda_i`$
 
 #### Classical Information Structure
 
-Classical information exists in the form of definite states and can be represented through definite physical quantities:
+Classical information exists in the form of definite states, representable through definite physical quantities:
 
 $`K_C = \{(x_i, p_i, E_i, s_i, t_i, \ldots)_j\}`$
 
-Where $`x_i`$, $`p_i`$, etc. represent classical observable quantities such as position, momentum, etc. Classical information entropy satisfies:
+where $`x_i`$, $`p_i`$, etc. represent position, momentum, and other classical observables. Classical information entropy satisfies:
 
 $`S_C = -k_B \sum_i p_i \ln p_i`$
 
-Key characteristics include information copyability and deletability, distinguishing it from quantum information.
+Key characteristics include information replicability and deletability, distinguishing it from quantum information.
 
 #### Quantum-Classical Information Conversion
 
-At the interface, information is converted from quantum form to classical form:
+At the interface, information transforms from quantum form to classical form:
 
 $`I_Q \rightarrow I_C + I_{\text{hidden}}`$
 
-The information matching metric in the conversion process is:
+The information matching measure in the conversion process is:
 
 $`M(I_Q, I_C) = \frac{I_C}{I_Q} = 1 - \frac{I_{\text{hidden}}}{I_Q}`$
 
-$`M(I_Q, I_C)`$ reaches a local maximum at the optimal interface.
+At the optimal interface, $`M(I_Q, I_C)`$ reaches a local maximum.
 
 ### Four: Quantum and Classical Domain State Transformation (Universe Observation Phenomena)
 
 | Quantum Domain State | Classical Domain State | Process Name | Classical Knowledge Change | Entropy Change | Energy Change | Observation Phenomenon |
 |------------|------------|----------|--------------|--------|--------------|------------------|
-| Wave Function Superposition State | Classical Entropy | Black Hole Absorption (Chaos Entropization) | No Change | Entropy Increase (↑) | Energy Consumption (↓) | Black Hole Mass and Entropy Increase |
-| Wave Function Superposition State | Classical Knowledge | Black Hole Absorption (Classicalization) | Knowledge Increase (↑) | Entropy Decrease (↓) | Energy Consumption (↓) | Black Hole Mass and Information Increase |
-| Classical Entropy | Wave Function Superposition State | Black Hole Radiation (Entropy Quantization) | No Change | Entropy Increase (↑) | Energy Release (↑) | Hawking Radiation (Black Hole Evaporation) |
-| Classical Knowledge | Wave Function Superposition State | Black Hole Radiation (Knowledge Quantization) | Knowledge Decrease (↓) | Entropy Increase (↑) | Energy Release (↑) | Particle Annihilation into Photons |
-| Quantum Entanglement State | Classical Entropy | Black Hole Absorption (Entanglement Entropization) | No Change | Entropy State Uncertain (↔) | Energy Consumption (↓) | Unobserved |
-| Classical Entropy | Quantum Entanglement State | Black Hole Radiation (Entanglement Encoding) | No Change | Entropy State Uncertain (↔) | Energy Release (↑) | Wormhole Channel Establishment |
-| Quantum Entanglement State | Classical Knowledge | Wormhole Reception (Entanglement Classicalization) | Knowledge Increase (↑) | Entropy Decrease (↓) | Energy Consumption (↓) | Quantum Communication |
-| Classical Knowledge | Quantum Entanglement State | Wormhole Transmission (Knowledge Entanglement Encoding) | Knowledge Decrease (↓) | Entropy Increase (↑) | Energy Consumption (↓) | Wormhole Communication |
+| Wave Function Superposition | Classical Entropy | Black Hole Absorption (Chaotic Entropization) | No Change | Entropy Increase (↑) | Energy Consumption (↓) | Black Hole Mass and Entropy Increase |
+| Wave Function Superposition | Classical Knowledge | Black Hole Absorption (Classicalization) | Knowledge Increase (↑) | Entropy Decrease (↓) | Energy Consumption (↓) | Black Hole Mass and Information Increase |
+| Classical Entropy | Wave Function Superposition | Black Hole Radiation (Entropy Quantization) | No Change | Entropy Increase (↑) | Energy Release (↑) | Hawking Radiation (Black Hole Evaporation) |
+| Classical Knowledge | Wave Function Superposition | Black Hole Radiation (Knowledge Quantization) | Knowledge Decrease (↓) | Entropy Increase (↑) | Energy Release (↑) | Particle Annihilation into Photons |
+| Quantum Entanglement | Classical Entropy | Black Hole Absorption (Entanglement Entropization) | No Change | Entropy State Uncertain (↔) | Energy Consumption (↓) | Unobserved |
+| Classical Entropy | Quantum Entanglement | Black Hole Radiation (Entanglement Encoding) | No Change | Entropy State Uncertain (↔) | Energy Release (↑) | Wormhole Channel Establishment |
+| Quantum Entanglement | Classical Knowledge | Wormhole Reception (Entanglement Classicalization) | Knowledge Increase (↑) | Entropy Decrease (↓) | Energy Consumption (↓) | Quantum Communication |
+| Classical Knowledge | Quantum Entanglement | Wormhole Transmission (Knowledge Entanglement Encoding) | Knowledge Decrease (↓) | Entropy Increase (↑) | Energy Consumption (↓) | Wormhole Communication |
 
 ### Five: Unified Definition of Observer and Black Hole and Solution to Information Paradox
 
@@ -388,12 +390,12 @@ $`
 \text{Observer (Black Hole)}\rightarrow\{\text{Black Hole Absorption (Classicalization)},\;\text{Black Hole Radiation (Quantization)}\}
 `$
 
-#### Resolution of Black Hole Information Paradox
+#### Solution to Black Hole Information Paradox
 
-- The black hole information paradox arises from ignoring the observer's role as a black hole in classicalization
-- The event horizon is the boundary for quantum states transforming into classical states, not a boundary where information disappears
+- The black hole information paradox originates from ignoring the observer's role as a black hole in classicalization
+- The event horizon is the boundary where quantum states transform into classical states, not a boundary where information disappears
 - Hawking radiation carries quantum information transformed from classical entropy to quantum superposition states
-- The black hole evaporation process is the transformation of classical world information into quantum information, with total information conserved
+- The black hole evaporation process is a process of classical world information transforming into quantum information, with total information conserved
 
 Density matrix representation:
 
@@ -409,20 +411,20 @@ S_{\text{von Neumann}}(\rho_{\text{Initial}}) = S_{\text{von Neumann}}(\rho_{\te
 
 ### Six: Unified Definition of Observer Dimensions and Classicalization Efficiency
 
-- Observer dimensions are determined by classicalization ability, i.e., the efficiency of transforming quantum information into classical knowledge
-- The dimension value is a function of the ratio between classical knowledge and classical entropy
+- Observer dimension is determined by classicalization ability, i.e., the efficiency of converting quantum information into classical knowledge
+- The dimension value is a function of the ratio of classical knowledge to classical entropy
 - Classicalization efficiency coefficient $`(k_i)`$ represents the classicalization ability in different observation domains
 - Weight coefficient $`(w_i)`$ reflects the importance of different domains in the overall dimension
 
 #### Observer Structure
 
-The observer consists of three core components:
+Observers consist of three core components:
 
 $`\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}\}`$
 
-Where:
-- $`\mathcal{C}_{\mathcal{O}}`$ is the observer's specific classicalization operator (ability to transform quantum possibilities into definite knowledge)
-- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer's specific quantization operator (ability to transform classical knowledge back into quantum possibilities)
+where:
+- $`\mathcal{C}_{\mathcal{O}}`$ is the observer-specific classicalization operator (the ability to transform quantum possibilities into definite knowledge)
+- $`\mathcal{Q}_{\mathcal{O}}`$ is the observer-specific quantization operator (the ability to transform classical knowledge back into quantum possibilities)
 - $`K_C^{\mathcal{O}}`$ is the observer's classical knowledge base
 
 Single domain dimension:
@@ -431,9 +433,9 @@ $`
 \text{Dimension}_i=k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}
 `$
 
-The observer dimension is determined by its information processing capability:
+Observer dimension is determined by their information processing capacity:
 
-$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{Classical Knowledge}}{S_{Classical Entropy}+\epsilon}`$
+$`D_{\mathcal{O}} = f\left(\frac{\mathcal{C}_{\mathcal{O}}}{\mathcal{Q}_{\mathcal{O}}}\right) \cdot \frac{I_{classical knowledge}}{S_{classical entropy}+\epsilon}`$
 
 Overall dimension:
 
@@ -441,27 +443,27 @@ $`
 \text{Overall Dimension}=\sum_i w_i\left(k_i\cdot\frac{I_{\text{Classical Knowledge}_i}}{S_{\text{Classical Entropy}_i}}\right),\quad\sum_i w_i=1
 `$
 
-#### Dimension Network Dynamics
+#### Dimensional Network Dynamics
 
-Observer dimension satisfies nonlinear dynamics equations:
+Observer dimension satisfies a nonlinear dynamical equation:
 
 $`\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})`$
 
-Where the last term represents the collective effect of the observer network.
+where the last term represents the collective effect of the observer network.
 
-The consensus formation of the observer network follows:
+Consensus formation in the observer network follows:
 
 $`\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2`$
 
-Where $`\omega_i`$ is the observer weight, and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
+where $`\omega_i`$ is the observer weight and $`\bar{\mathcal{C}}`$ is the average classicalization operator.
 
 #### Measurement Theory
 
 In observer theory, the quantum measurement process can be represented as:
 
-$`|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{interaction}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}`$
+$`|\psi\rangle\langle\psi| \otimes \rho_A \otimes \rho_O \xrightarrow{U_{\text{interaction}}} \sum_{i,j} c_i c_j^* |i\rangle\langle j| \otimes |A_i\rangle\langle A_j| \otimes \rho_O \xrightarrow{\mathcal{C}_O} |i_0\rangle\langle i_0| \otimes |A_{i_0}\rangle\langle A_{i_0}| \otimes \rho_{O}^{i_0}`$
 
-Measurement result probability is modulated by the observer resolution parameter $`\eta_O`$:
+The probability of measurement results is modulated by the observer resolution parameter $`\eta_O`$:
 
 $`P(i_0||\psi\rangle) = |c_{i_0}|^2 \cdot \frac{e^{\eta_O|c_{i_0}|^2}}{\sum_j e^{\eta_O|c_j|^2}}`$
 

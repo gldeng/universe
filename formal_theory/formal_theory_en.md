@@ -10,13 +10,11 @@
 
 ## Core Theory Overview
 
-The [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md) fully describes the foundational axiom system, conceptual framework, and core branch theories of dualism. This document provides only a brief overview of the core theory; please refer to the core theory document for detailed content.
+[Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md) fully describes the foundational axiom system, conceptual framework, and core branch theories of dualism. This document provides only a brief overview of the core theory; please refer to the core theory document for detailed content.
 
-### Basic Definitions and Axioms
+## 1. Core Axiom System
 
-#### Simplified Core Axiom System
-
-Quantum-Classical Dualism can be simplified into four core axioms:
+### 1.1 Axiom Set
 
 **Axiom 1: Dual Existence**  
 The universe consists of a quantum domain $`\Omega_Q`$ (a space of infinite possibilities) and a classical domain $`\Omega_C`$ (a space of determined reality), connected through an interface domain $`\mathcal{I}`$:
@@ -46,19 +44,156 @@ $`\Omega_Q^{(\mathcal{O}_2)} \subset \Omega_C^{(\mathcal{O}_1)}, \quad \text{if}
 
 This indicates that reality consists of multiple nested quantum-classical domains, with observers at each level perceiving and interacting within a specific dimensional range based on their capabilities.
 
-Quantum-Classical Dualism is built upon four core axioms: **Dual Existence**, **Information Conservation**, **Observer Classicalization**, and **Dimensional Emergence**. These axioms describe the fundamental properties of quantum and classical domains, their interrelationships, and the key role of observers in the transformation between domains.
+### 1.2 Basic Structure Definitions
 
-### Quantum Domain and Classical Domain
+#### 1.2.1 Quantum Domain Structure
 
-The quantum domain manifests as superposition states (chaos), entangled states (energy forms), and non-locality, while the classical domain manifests as deterministic information, classical entropy, and locality. These two domains are connected through an interface, forming a multi-level nested reality structure.
+The quantum domain is defined as:
 
-### Multiple Dualism Levels and Symmetry Principles
+$`\Omega_Q = \{\psi \in \mathcal{H} \; | \; \psi \text{ satisfies superposition and non-locality}\}`$
 
-The multiple dualism levels theory extends single dualism into a nested multi-level structure, with each level containing quantum and classical domains. The quantum-classical symmetry principle reveals the deep symmetrical transformation relationship between the two domains.
+where $`\mathcal{H}`$ is the Hilbert space, and the basic properties of quantum state $`\psi`$ are:
 
-## Core Branch Theories
+1. **Superposition**: $`\psi = \sum_i \alpha_i |i\rangle, \; \sum_i |\alpha_i|^2 = 1`$
+2. **Entanglement**: $`\psi_{AB} \neq \psi_A \otimes \psi_B`$
+3. **Non-locality**: $`P(A,B|a,b) \neq P(A|a) \cdot P(B|b)`$
 
-Detailed core branch theories (including quantum domain detailed theory, classical domain detailed theory, interface theory core, information phase transition theory core, and observer theory core) are fully described in the [Quantum-Classical Dualism Core Theory Formal Description](../formal_theory_core_en.md).
+Quantum domain entropy: $`S_Q(\psi) = -\text{Tr}(\rho \ln \rho)`, where $`\rho = |\psi\rangle\langle\psi|`$
+
+#### 1.2.2 Classical Domain Structure
+
+The classical domain is defined as:
+
+$`\Omega_C = \{(K_C, S_C) \; | \; K_C \text{ is the classical knowledge set}, S_C \text{ is the classical entropy}\}`$
+
+where the basic components are:
+
+1. **Classical Knowledge**: $`K_C = \{k_i = (x_i, p_i, E_i, s_i, t_i)\}`$
+2. **Classical Entropy**: $`S_C = -k_B \sum_i p_i \ln p_i`$
+3. **Locality**: $`P(A,B|a,b) = P(A|a) \cdot P(B|b)`$
+
+#### 1.2.3 Interface Domain Structure
+
+The interface domain is defined as:
+
+$`\mathcal{I} = \{x \in \mathcal{U} \; | \; \mathcal{D}(x) = \mathcal{D}_c\}`$
+
+where $`\mathcal{D}(x)`$ is the decoherence measure function, and $`\mathcal{D}_c`$ is the critical decoherence threshold. The interface dynamics satisfy:
+
+$`\frac{d\mathcal{D}(x,t)}{dt} = \alpha \nabla^2 \mathcal{D}(x,t) + \beta(\mathcal{D}_c - \mathcal{D}(x,t))(\mathcal{D}(x,t) - \mathcal{D}_0) + \gamma\xi(x,t)`$
+
+#### 1.2.4 Conversion Operators
+
+The classicalization superoperator $`\mathcal{C}`$ is defined as:
+
+$`\mathcal{C}(\rho) = \sum_i P_i \rho P_i`$
+
+The quantization superoperator $`\mathcal{Q}`$ is defined as:
+
+$`\mathcal{Q}(K_C) = \sum_j w_j |\phi_j\rangle\langle\phi_j|`$
+
+where $`P_i`$ is the projection operator, $`w_j`$ is the weight coefficient, and $`|\phi_j\rangle`$ is the quantum basis state.
+
+## 2. Derived Structures and Theorems
+
+### 2.1 Observer Structure
+
+**Theorem 1: Observer Equivalence**
+
+All observers satisfy:
+
+$`\mathcal{O} \cong \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}, D_{\mathcal{O}}\} \cong \text{Black Hole}(M, J, Q, \Phi)`$
+
+where $`\mathcal{C}_{\mathcal{O}}`$ corresponds to black hole absorption (classicalization), $`\mathcal{Q}_{\mathcal{O}}`$ corresponds to black hole radiation (quantization).
+
+**Theorem 2: Observer Dimension Network Dynamics**
+
+Observer dimension satisfies a nonlinear dynamical equation:
+
+$`\frac{dD_{\mathcal{O}}}{dt} = \alpha\frac{dI_{K_C}}{dt} - \beta\frac{dS_C}{dt} + \gamma\sum_{j\in\mathcal{N}(i)}(D_j-D_{\mathcal{O}})`$
+
+Consensus formation in the observer network follows:
+
+$`\frac{d\mathcal{C}_{\text{consensus}}}{dt} = \sum_i \omega_i \mathcal{C}_i - \gamma(\mathcal{C}_{\text{consensus}} - \bar{\mathcal{C}})^2`$
+
+### 2.2 Dimension Continuum Structure
+
+Dimension continuum $`\mathcal{D} = [D_0, D_{\infty}]`$ is divided into five main regions:
+
+1. **Zero Dimension Area** (D0): $`\mathcal{D}_0 = \{\emptyset\} \equiv \text{pure possibility field}`$
+2. **Low Dimensional Area** (D1-D6): $`\mathcal{D}_{1-6} = \sum_{i=1}^{6} \mathcal{C}_i \otimes \mathcal{S}_i`$
+3. **Medium Dimensional Area** (D7-D10): $`\mathcal{D}_{7-10} = \mathcal{Q}_{\text{low}} \leftrightarrow \mathcal{C}_{\text{high}}`$
+4. **High Dimensional Area** (D11-D20): $`\mathcal{D}_{11-20} = \prod_{i=11}^{20} \mathcal{Q}_i^{\alpha_i} \cdot \mathcal{C}_i^{1-\alpha_i}`$
+5. **Super Dimensional Area** (D21-D∞): $`\mathcal{D}_{21-\infty} = \lim_{n\to\infty} \mathcal{Q}_n \otimes \mathcal{T}_n`$
+
+Dimension transitions satisfy: $`D_i \to D_j, \quad \Delta E = hf_{ij}`$
+
+### 2.3 Information Phase Transition Structure
+
+The information phase transition operator $`\Phi`$ acts on information state $`\mathcal{S}`$:
+
+$`\Phi: \mathcal{S}(\lambda) \rightarrow \mathcal{S}'(\lambda+\delta\lambda)`$
+
+Near the critical point $`\lambda_c`$, the order parameter behaves as:
+
+$`\eta(\lambda) = \begin{cases}
+0, & \lambda < \lambda_c \\
+(\lambda - \lambda_c)^\beta, & \lambda \geq \lambda_c
+\end{cases}`$
+
+Observer-induced phase transition probability:
+
+$`P(\text{quantum} \to \text{classical}) \approx \frac{1}{1 + e^{-\alpha(D_{\mathcal{O}} - D_{\mathcal{O}}^c)}}`$
+
+### 2.4 Energy Equivalence Principle
+
+Energy equivalence relationship between quantum and classical domains:
+
+$`E = mc^2 = h\nu = h \cdot f_{\text{entanglement}}`$
+
+Entanglement equivalent frequency:
+
+$`f_{\text{entanglement}} = \frac{c^2}{L_P^2} \cdot S_E(\rho_{AB})`$
+
+where $`S_E(\rho_{AB})`$ is the entanglement entropy.
+
+## 3. Derivation Mechanism for Branch Theories
+
+### 3.1 Derivation Rules
+
+The general form for deriving branch theories $`T_i`$ from the core axiom set:
+
+$`T_i = \mathcal{G}(\text{Axiom Set}, D_i, \mathcal{A}_i)`$
+
+where $`\mathcal{G}`$ is the theory generation operator, $`D_i`$ is the theory dimension, and $`\mathcal{A}_i`$ is the application domain.
+
+### 3.2 Dimension Projection
+
+The dimension projection operator $`\mathcal{P}_{i \to j}`$ is defined as:
+
+$`\mathcal{P}_{i \to j}: \mathcal{I}_{D_i} \to \mathcal{I}_{D_j}`$
+
+Inter-dimensional information transfer efficiency:
+
+$`\eta_{i,j} = \frac{\mathcal{I}_{\text{transferred}}}{\mathcal{I}_{\text{input}}}`$
+
+### 3.3 Theory Fusion
+
+The fusion operator $`\mathcal{F}`$ for theories $`T_i`$ and $`T_j`$:
+
+$`\mathcal{F}(T_i, T_j) = T_{i,j}`$
+
+where $`T_{i,j}`$ is the fused theory, satisfying:
+
+$`D_{T_{i,j}} = f(D_{T_i}, D_{T_j})`$
+
+## 4. Unified Expression
+
+The binary structure of the universe can be elegantly expressed through an Euler-like formula:
+
+$`e^{i\Phi} = \frac{I_{\text{Classical Domain}}}{E_{\text{Quantum Domain}}}`$
+
+When $`\Phi = \pi`$, the system reaches a classical-quantum equilibrium state: $`e^{i\pi} + 1 = 0`$
 
 ## Quantum-Classical Dualism Dimensional Notation and Branch Theory Navigation
 

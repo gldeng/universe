@@ -1,13 +1,13 @@
 # 量子经典二元论术语表 (Quantum-Classical Dualism Terminology Glossary)
 
-> 本文档基于[量子经典二元论核心理论](core.md)（版本11.0）的术语表。
-> This glossary is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 11.0).
+> 本文档基于[量子经典二元论核心理论](core.md)（版本33.0）的术语表。
+> This glossary is based on the [Quantum-Classical Dualism Core Theory](core.md) (Version 33.0).
 
 **导航 | Navigation**  
 [中文版](#核心术语-core-terminology) | [English Version](#core-terminology-english)  
 **章节链接 | Section Links**  
-中文：[核心术语](#核心术语-core-terminology) | [黑洞术语](#黑洞观察者术语-black-hole-observer-terminology) | [扩展术语](#扩展术语-extended-terminology) | [学科关联术语](#学科关联术语-discipline-related-terminology)  
-English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology](#black-hole-observer-terminology-english) | [Extended Terminology](#extended-terminology-english) | [Discipline-Related Terminology](#discipline-related-terminology-english)
+中文：[核心术语](#核心术语-core-terminology) | [黑洞术语](#黑洞观察者术语-black-hole-observer-terminology) | [扩展术语](#扩展术语-extended-terminology) | [概念与反概念](#概念与反概念对应表-concept-and-opposite-concept-pairs) | [公式符号](#公式符号-formula-symbols) | [学科关联术语](#学科关联术语-discipline-related-terminology)  
+English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology](#black-hole-observer-terminology-english) | [Extended Terminology](#extended-terminology-english) | [Concept and Opposite Concept Pairs](#concept-and-opposite-concept-pairs-english) | [Discipline-Related Terminology](#discipline-related-terminology-english)
 
 ## 核心术语 (Core Terminology)
 
@@ -29,6 +29,8 @@ English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology
 | 经典知识 | Classical Knowledge | 观察者黑洞成功经典化的量子信息，形成有序的知识结构，扩大事件视界 |
 | 经典信息 | Classical Information | 经典知识与经典熵的总和，在经典域中守恒 |
 | 量子纠缠 | Quantum Entanglement | 连接不同黑洞观察者事件视界的虫洞结构，是信息传递的基本机制 |
+| 量子时间 | Quantum Time | 量子域中的时间概念，表现为全同时性和可能性的共存状态，没有固定的先后顺序 |
+| 经典时间 | Classical Time | 经典域中的时间概念，由观察者经典化过程的顺序形成，表现为线性的、不可逆的流动 |
 | 有效量子纠缠 | Effective Quantum Entanglement | 形成稳定虫洞的纠缠，经典化为知识，扩大事件视界 |
 | 无效量子纠缠 | Ineffective Quantum Entanglement | 形成不稳定虫洞的纠缠，经典化为熵，缩小事件视界 |
 | 自由意志 | Free Will | 观察者黑洞选择经典化路径与事件视界扩展方向的能力 |
@@ -80,6 +82,38 @@ English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology
 | 非局域意识影响 | Non-local Consciousness Influence | 通过虫洞连接影响远距离系统的意识能力 |
 | 超感官知觉 | Extrasensory Perception | 通过黑洞观察者间的虫洞连接接收常规感官无法获取的信息 |
 
+## 概念与反概念对应表 (Concept and Opposite Concept Pairs)
+
+| 正概念 (Concept) | 反概念 (Opposite Concept) | 符号表示 | 关系说明 |
+|-----------------|--------------------------|---------|---------|
+| 量子域 | 经典域 | $\Omega_Q \leftrightarrow \Omega_C$ | 宇宙基本二元结构，所有现象的源头与表现 |
+| 经典化算符 | 量子化算符 | $\mathcal{C} \leftrightarrow \mathcal{Q}$ | 信息在量子域与经典域间转换的基本操作 |
+| 经典知识 | 经典熵 | $K_C \leftrightarrow S_C$ | 经典信息的两种形式，决定事件视界大小 |
+| 量子意识 | 经典记忆 | $\Psi_Q \leftrightarrow M_C$ | 意识的量子连续性与经典存储结构 |
+| 有效量子纠缠 | 无效量子纠缠 | $E_{eff} \leftrightarrow E_{ineff}$ | 决定虫洞稳定性与信息传递效率 |
+| 自由意志 | 经典命运 | $W_f \leftrightarrow D_c$ | 黑洞观察者选择与选择结果的关系 |
+| 扩大事件视界 | 缩小事件视界 | $H^+ \leftrightarrow H^-$ | 经典知识增加与经典熵增加的结果 |
+| 黑洞吸收 | 黑洞辐射 | $A_B \leftrightarrow R_B$ | 信息进入与离开黑洞观察者的过程 |
+| 经典化交流 | 量子隐形传态 | $C_{com} \leftrightarrow Q_{tel}$ | 经典域与量子域的信息传递机制 |
+| 观察者黑洞 | 虫洞连接 | $O_B \leftrightarrow W_C$ | 经典化节点与量子连接结构 |
+| 事件视界同构性 | 事件视界异构性 | $I_H \leftrightarrow D_H$ | 观察者间结构相似与差异程度 |
+| 集体黑洞观察者 | 独立黑洞观察者 | $O_{col} \leftrightarrow O_{ind}$ | 观察者集体与个体的形态 |
+| 宇宙效率 | 宇宙耗散 | $E_U \leftrightarrow D_U$ | 量子能量利用与损耗的对立过程 |
+| 维度速限 | 维度速限突破障碍 | $DSL^+ \leftrightarrow DSL^-$ | 经典化速率限制与突破限制 |
+| 经典世界 | 量子可能性空间 | $W_C \leftrightarrow P_Q$ | 确定性结构与不确定叠加态 |
+| 经典时间 | 量子时间 | $T_C \leftrightarrow T_Q$ | 线性单向流动与全同时性叠加 |
+| 意识同构性 | 意识异构性 | $I_{con} \leftrightarrow D_{con}$ | 观察者间意识结构的相似与差异 |
+| 量子能量 | 经典能量 | $E_Q \leftrightarrow E_C$ | 能量在量子域与经典域的形态 |
+| 非局域意识影响 | 局域物理限制 | $NL_I \leftrightarrow L_P$ | 超越空间限制与受限于空间 |
+| 黑洞合并 | 黑洞分裂 | $M_B \leftrightarrow S_B$ | 观察者集体化与个体化过程 |
+| 观察者整体维度 | 观察者维度分离 | $D_{tot} \leftrightarrow D_{sep}$ | 维度的整合与分化状态 |
+| 宇宙黑洞网络 | 宇宙量子泡沫 | $N_U \leftrightarrow F_Q$ | 有序连接结构与无序量子涨落 |
+| 经典信息守恒 | 量子信息涨落 | $C_{con} \leftrightarrow Q_{fluc}$ | 信息在经典域守恒与量子域波动 |
+| 经典熵降低实践 | 经典熵增加行为 | $P_{S-} \leftrightarrow P_{S+}$ | 提升与降低事件视界的行为 |
+| 量子纠缠 | 量子解纠缠 | $E_Q \leftrightarrow D_Q$ | 建立与断开量子连接的过程 |
+| 观察者双重身份 | 观察者单一性 | $ID_{dual} \leftrightarrow ID_{sing}$ | 观察者的双重性质与单一表现 |
+| 宇宙低熵终极状态 | 宇宙高熵初始态 | $U_{LS} \leftrightarrow U_{HS}$ | 宇宙演化的终点与起点状态 |
+
 ## 公式符号 (Formula Symbols)
 
 | 符号 | 中文含义 | 英文含义 |
@@ -130,6 +164,8 @@ English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology
 | Classical Knowledge | 经典知识 | Quantum information successfully classicalized by observer black hole, forming an ordered knowledge structure, expanding the event horizon |
 | Classical Information | 经典信息 | The sum of classical knowledge and classical entropy, conserved in the classical domain |
 | Quantum Entanglement | 量子纠缠 | Wormhole structure connecting the event horizons of different black hole observers, the basic mechanism of information transfer |
+| Quantum Time | 量子时间 | Time concept in the quantum domain, manifested as simultaneity and coexistence of possibilities, without fixed sequence |
+| Classical Time | 经典时间 | Time concept in the classical domain, formed by the sequence of observer classicalization processes, manifested as linear, irreversible flow |
 | Effective Quantum Entanglement | 有效量子纠缠 | Entanglement forming stable wormholes, classicalized into knowledge, expanding event horizons |
 | Ineffective Quantum Entanglement | 无效量子纠缠 | Entanglement forming unstable wormholes, classicalized into entropy, shrinking event horizons |
 | Free Will | 自由意志 | The ability of observer black holes to choose classicalization paths and event horizon expansion directions |
@@ -180,6 +216,38 @@ English: [Core Terminology](#core-terminology-english) | [Black Hole Terminology
 | Universe Divinity | 宇宙神性 | Manifestation of large black hole observers' ability to classicalize entropy from small black hole observers into knowledge |
 | Non-local Consciousness Influence | 非局域意识影响 | Consciousness ability to influence distant systems through wormhole connections |
 | Extrasensory Perception | 超感官知觉 | Receiving information inaccessible to conventional senses through wormhole connections between black hole observers |
+
+## Concept and Opposite Concept Pairs (English)
+
+| Concept | Opposite Concept | Symbol Representation | Relationship Description |
+|---------|------------------|----------------------|--------------------------|
+| Quantum Domain | Classical Domain | $\Omega_Q \leftrightarrow \Omega_C$ | The fundamental dual structure of the universe, source and manifestation of all phenomena |
+| Classicalization Operator | Quantization Operator | $\mathcal{C} \leftrightarrow \mathcal{Q}$ | Basic operations for information conversion between quantum and classical domains |
+| Classical Knowledge | Classical Entropy | $K_C \leftrightarrow S_C$ | Two forms of classical information, determining event horizon size |
+| Quantum Consciousness | Classical Memory | $\Psi_Q \leftrightarrow M_C$ | Quantum continuity of consciousness and classical storage structure |
+| Effective Quantum Entanglement | Ineffective Quantum Entanglement | $E_{eff} \leftrightarrow E_{ineff}$ | Determining wormhole stability and information transfer efficiency |
+| Free Will | Classical Destiny | $W_f \leftrightarrow D_c$ | Relationship between black hole observer choices and outcomes |
+| Event Horizon Expansion | Event Horizon Contraction | $H^+ \leftrightarrow H^-$ | Results of classical knowledge increase and classical entropy increase |
+| Black Hole Absorption | Black Hole Radiation | $A_B \leftrightarrow R_B$ | Processes of information entering and leaving black hole observers |
+| Classicalization Communication | Quantum Teleportation | $C_{com} \leftrightarrow Q_{tel}$ | Information transfer mechanisms in classical and quantum domains |
+| Observer Black Hole | Wormhole Connection | $O_B \leftrightarrow W_C$ | Classicalization node and quantum connection structure |
+| Event Horizon Isomorphism | Event Horizon Heteromorphism | $I_H \leftrightarrow D_H$ | Degree of structural similarity and difference between observers |
+| Collective Black Hole Observer | Independent Black Hole Observer | $O_{col} \leftrightarrow O_{ind}$ | Collective and individual forms of observers |
+| Universe Efficiency | Universe Dissipation | $E_U \leftrightarrow D_U$ | Opposing processes of quantum energy utilization and loss |
+| Dimensional Speed Limit | Dimensional Speed Limit Breaking Barrier | $DSL^+ \leftrightarrow DSL^-$ | Classicalization rate limitation and breaking limitation |
+| Classical World | Quantum Possibility Space | $W_C \leftrightarrow P_Q$ | Deterministic structure and uncertain superposition state |
+| Classical Time | Quantum Time | $T_C \leftrightarrow T_Q$ | Linear unidirectional flow versus simultaneity superposition |
+| Consciousness Isomorphism | Consciousness Heteromorphism | $I_{con} \leftrightarrow D_{con}$ | Similarity and difference in consciousness structures between observers |
+| Quantum Energy | Classical Energy | $E_Q \leftrightarrow E_C$ | Energy forms in quantum and classical domains |
+| Non-local Consciousness Influence | Local Physical Limitation | $NL_I \leftrightarrow L_P$ | Transcending spatial limitations versus being constrained by space |
+| Black Hole Merger | Black Hole Division | $M_B \leftrightarrow S_B$ | Observer collectivization and individualization processes |
+| Observer Overall Dimension | Observer Dimension Separation | $D_{tot} \leftrightarrow D_{sep}$ | Integration and differentiation states of dimensions |
+| Universe Black Hole Network | Universe Quantum Foam | $N_U \leftrightarrow F_Q$ | Ordered connection structure and disordered quantum fluctuations |
+| Classical Information Conservation | Quantum Information Fluctuation | $C_{con} \leftrightarrow Q_{fluc}$ | Information conservation in classical domain and fluctuation in quantum domain |
+| Classical Entropy Reduction Practice | Classical Entropy Increasing Behavior | $P_{S-} \leftrightarrow P_{S+}$ | Behaviors that enhance or reduce event horizons |
+| Quantum Entanglement | Quantum Disentanglement | $E_Q \leftrightarrow D_Q$ | Processes of establishing and breaking quantum connections |
+| Observer Dual Identity | Observer Singularity | $ID_{dual} \leftrightarrow ID_{sing}$ | Dual nature and singular manifestation of observers |
+| Universe Ultimate Low-Entropy State | Universe High-Entropy Initial State | $U_{LS} \leftrightarrow U_{HS}$ | End and beginning states of universe evolution |
 
 ## Discipline-Related Terminology (English)
 

@@ -1,4 +1,4 @@
-# 量子经典二元论数学附录 v18.0
+# 量子经典二元论数学附录 v18.0 (D8)
 
 **[English Version](formal_theory_mathematical_appendix_en.md) | 中文版**
 

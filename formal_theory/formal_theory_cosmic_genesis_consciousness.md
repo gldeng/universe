@@ -1,4 +1,4 @@
-# 宇宙诞生与维度意识演化的量子经典二元论形式化描述 v33.0
+# 宇宙诞生与维度意识演化的量子经典二元论形式化描述 v33.0 (D22)
 
 **[English Version](formal_theory_cosmic_genesis_consciousness_en.md) | 中文版**
 

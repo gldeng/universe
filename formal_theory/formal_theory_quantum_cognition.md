@@ -1,4 +1,4 @@
-# 量子认知理论 v33.0
+# 量子认知理论 v33.0 (D9)
 
 **[English Version](formal_theory_quantum_cognition_en.md) | 中文版**
 

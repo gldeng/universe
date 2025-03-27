@@ -462,14 +462,3 @@ $`\lim_{t \to t_{\text{奇点}}} N_{\text{嵌套}}(t) = \infty`$
 8. Wheeler, J. A. (1990). Information, Physics, Quantum: The Search for Links. in Complexity, Entropy, and the Physics of Information, 309-336.
 9. Lloyd, S. (2000). Ultimate physical limits to computation. Nature, 406(6799), 1047-1054.
 10. Tononi, G. (2008). Consciousness as integrated information. Biological Bulletin, 215(3), 216-242.
-
-## 文档导航
-- [核心理论](../formal_theory_core.md)
-- [量子域详解](formal_theory_quantum_domain.md)
-- [经典域详解](formal_theory_classical_domain.md)
-- [界面理论](formal_theory_interface.md)
-- [观察者理论](../formal_theory_observer.md)
-- [宇宙学二元论模型](formal_theory_cosmology.md)
-- [量子宇宙模拟理论（本文）](formal_theory_quantum_simulation.md)
-- [量子意识理论](../formal_theory_consciousness.md)
-- [信息动力学理论](formal_theory_information_dynamics.md) 

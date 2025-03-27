@@ -464,12 +464,12 @@ Future research directions include:
 10. Tononi, G. (2008). Consciousness as integrated information. Biological Bulletin, 215(3), 216-242.
 
 ## Document Navigation
-- [Core Theory](../formal_theory_core_en.md)
+- [Core Theory](formal_theory_core_en.md)
 - [Quantum Domain Details](formal_theory_quantum_domain_en.md)
 - [Classical Domain Details](formal_theory_classical_domain_en.md)
 - [Interface Theory](formal_theory_interface_en.md)
-- [Observer Theory](../formal_theory_observer_en.md)
+- [Observer Theory](formal_theory_observer_en.md)
 - [Dualistic Cosmology Model](formal_theory_cosmology_en.md)
 - [Quantum Universe Simulation Theory (This Document)](formal_theory_quantum_simulation_en.md)
-- [Quantum Consciousness Theory](../formal_theory_consciousness_en.md)
+- [Quantum Consciousness Theory](formal_theory_consciousness_en.md)
 - [Information Dynamics Theory](formal_theory_information_dynamics_en.md) 

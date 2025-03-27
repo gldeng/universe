@@ -12,26 +12,37 @@ def extract_dimension_number(dimension):
     if dimension == "无维度":
         return -1
     
+    # 移除所有空格
+    dimension = dimension.replace(" ", "")
+    
+    # 处理D∞或者D+∞的情况
+    if "∞" in dimension:
+        return float('inf')
+    
+    # 提取纯数字部分
     match = re.search(r'D(\d+)', dimension)
     if match:
         return int(match.group(1))
-    
-    # 处理特殊情况，如D∞
-    if "∞" in dimension:
-        return float('inf')
     
     return -1
 
 def extract_dimension(content):
     """从文件内容中提取维度信息"""
-    dimension_pattern = r'[（\(]维度：D(\d+[\+∞]*)[）\)]|维度：D(\d+[\+∞]*)'
-    dimension_match = re.search(dimension_pattern, content)
+    # 支持更多格式的维度表示
+    dimension_patterns = [
+        r'[（\(]维度\s*[：:]\s*D\s*([0-9∞\+]+)[）\)]',  # (维度：D1) 或 (维度:D1) 或 (维度：D∞)
+        r'维度\s*[：:]\s*D\s*([0-9∞\+]+)',             # 维度：D1 或 维度:D1 或 维度：D∞
+        r'[（\(]D\s*([0-9∞\+]+)[）\)]',                # (D1) 或 (D∞)
+        r'\bD\s*([0-9∞\+]+)\s*维度',                   # D1维度 或 D∞维度
+        r'维度\s*[：:]\s*([0-9∞\+]+)',                 # 维度：1 或 维度:1
+    ]
     
-    if dimension_match:
-        if dimension_match.group(1):
-            return f"D{dimension_match.group(1)}"
-        elif dimension_match.group(2):
-            return f"D{dimension_match.group(2)}"
+    for pattern in dimension_patterns:
+        dimension_match = re.search(pattern, content)
+        if dimension_match:
+            dimension = dimension_match.group(1).strip()
+            # 处理数字和维度之间可能的空格
+            return f"D{dimension.replace(' ', '')}"
     
     return "无维度"
 

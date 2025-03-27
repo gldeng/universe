@@ -1,8 +1,8 @@
-# Observer Theory v33.0
+# Observer Theory v34.0
 
 **English Version | [中文版](formal_theory_observer.md)**
 
-> Based on [Core Theory](../core_en.md) v33.0
+> Based on [Core Theory](../core_en.md) v34.0
 
 ## Navigation
 

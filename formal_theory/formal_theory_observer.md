@@ -1,8 +1,8 @@
-# 观察者理论 v33.0 (D9)
+# 观察者理论 v34.0 (D9)
 
 **[English Version](formal_theory_observer_en.md) | 中文版**
 
-> 本理论基于[核心理论](../core.md) v33.0版本
+> 本理论基于[核心理论](../core.md) v34.0版本
 
 ## 导航
 

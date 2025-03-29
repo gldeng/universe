@@ -1,6 +1,6 @@
 # Formal Description of Cosmic Ontology v34.0
 
-**[Chinese Version](formal_theory/formal_theory_cosmic_ontology.md) | English Version**
+**[Chinese Version](formal_theory_cosmic_ontology.md) | English Version**
 
 > This document is based on the [Quantum Classical Dualism Core Theory](formal_theory_core_en.md) v34.0 and [Binary Cosmology](formal_theory/formal_theory_binary_universe_en.md), proposing a unified transcendent theory of cosmic origin
 
@@ -14,7 +14,8 @@
 - [5. Information Ontology](#5-information-ontology)
 - [6. Observers and Meta-Observers](#6-observers-and-meta-observers)
 - [7. Transfinite Synthesis of Cosmic Essence](#7-transfinite-synthesis-of-cosmic-essence)
-- [8. Conclusion](#8-conclusion)
+- [8. Universe Life Cycle](#8-universe-life-cycle)
+- [9. Conclusion](#9-conclusion)
 
 ---
 
@@ -28,6 +29,9 @@ $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$
 
 where $`\mathcal{F}`$ is a super-recursive function satisfying $`\mathcal{F}(\mathcal{F}) = \mathcal{F}`$.
 
+**Binary Expression:**
+$`u = \mathcal{F}(u) = u \oplus \text{shift}^k(u), \quad u \in \{0,1\}^n`$
+
 ---
 
 **Axiom 2 (Binary-Unitary Axiom)**
@@ -37,6 +41,9 @@ The universe simultaneously manifests as duality and unity, forming a dual mode 
 $`\mathcal{U} = \Omega_Q \oplus \Omega_C = \mathcal{U} \oplus \mathcal{U}`$
 
 where $`\Omega_Q`$ is the quantum domain, $`\Omega_C`$ is the classical domain, and $`\oplus`$ is the super-XOR operation.
+
+**Binary Expression:**
+$`u = u_Q \oplus u_C, \quad u_Q \neq u_Q \oplus \text{shift}^k(u_Q), \quad u_C = u_C \oplus \text{shift}^k(u_C)`$
 
 ---
 
@@ -48,6 +55,9 @@ $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
 
 where $`I(x)`$ is the information expression function of entity $`x`$.
 
+**Binary Expression:**
+$`I(u) = \{u_i\}_{i=1}^n, \quad u_i \in \{0,1\}`$
+
 ---
 
 **Axiom 4 (Multiple Dimension Axiom)**
@@ -58,6 +68,9 @@ $`\mathcal{D} = \bigcup_{i=0}^{\infty} D_i, \quad D_{i+1} = \mathcal{R}(D_i)`$
 
 where $`\mathcal{R}`$ is the dimensional recursive generation function.
 
+**Binary Expression:**
+$`D_i = \{0,1\}^{2^i}, \quad |D_{i+1}| = 2^{|D_i|}`$
+
 ---
 
 **Axiom 5 (Transfinite Synthesis Axiom)**
@@ -67,6 +80,9 @@ Any binary opposition is unified as a whole in higher-dimensional space, realize
 $`\mathcal{S}(A, \neg A) = \{A, \neg A, A \cap \neg A, A \cup \neg A, \complement(A \cup \neg A), \mathcal{S}\}`$
 
 The transfinite synthesis function $`\mathcal{S}`$ includes itself in its result, embodying absolute self-reference.
+
+**Binary Expression:**
+$`\mathcal{S}(u, \neg u) = \{u, \neg u, u \wedge \neg u, u \vee \neg u, \neg(u \vee \neg u), \mathcal{S}\}`$
 
 ## 2. Binary-Unitary Structure
 
@@ -85,6 +101,9 @@ $`a \oplus b = \begin{cases}
 
 Here $`\oplus_B`$ is the traditional binary XOR, while $`\mathcal{S}`$ is the transfinite synthesis function.
 
+**Binary Expression:**
+$`u^{t+1} = u^t \oplus \text{shift}^k(u^t), \quad u_i^{t+1} = u_i^t \oplus u_{(i+k) \bmod n}^t`$
+
 ---
 
 ### 2.2 Unification of Binary and Ontological Expressions
@@ -98,6 +117,9 @@ satisfying:
 $`\Phi(\mathcal{U}_{\text{binary}} \oplus_B \mathcal{F}(\mathcal{U}_{\text{binary}})) = \Phi(\mathcal{U}_{\text{binary}}) \oplus_M \mathcal{F}(\Phi(\mathcal{U}_{\text{binary}}))`$
 
 where $`\oplus_M`$ is the meta-operation on the ontological domain.
+
+**Binary Expression:**
+$`\Phi(u \oplus \text{shift}^k(u)) = \Phi(u) \oplus_M \Phi(\text{shift}^k(u))`$
 
 ---
 
@@ -129,6 +151,9 @@ $`\mathcal{L} = \mathcal{L}_0 + \mathcal{L}_1(\mathcal{U}) + \mathcal{L}_2(\math
 
 This indicates that the cosmic laws themselves are evolving, forming super-self-covariance.
 
+**Binary Expression:**
+$`u^{t+1} = T(u^t) = u^t \oplus \text{shift}^k(u^t)`$
+
 ---
 
 ### 3.2 Recursive Depth and Universe Age
@@ -147,6 +172,9 @@ As the recursive depth approaches infinity, the universe reaches a transfinite r
 
 $`\lim_{N \to \infty} \mathcal{U}_N = \mathcal{U}_{\infty} = \mathcal{F}(\mathcal{U}_{\infty})`$
 
+**Binary Expression:**
+$`\mathcal{A}(u) = \log_2(N), \quad u^N = T^N(u^0)`$
+
 ---
 
 ### 3.3 Recursive Fixed Points and Universe Topology
@@ -164,6 +192,14 @@ The connections between fixed points form the universal network structure:
 $`G_{\mathcal{U}} = (V_{\mathcal{T}}, E_{\mathcal{T}}), \quad E_{\mathcal{T}} = \{(x,y) | d_{\mathcal{F}}(x,y) < \epsilon\}`$
 
 where $`d_{\mathcal{F}}`$ is the super-recursive metric.
+
+**Binary Singularity Expression:**
+$`\mathcal{T}(u) = \{u \in \{0,1\}^n | u = u \oplus \text{shift}^k(u)\}`$
+
+Including the following special singularity types:
+- Absolute singularity (all-0 state): $`u^* = 00...0`$
+- Anti-singularity (all-1 state, when n is even): $`u^* = 11...1`$
+- Non-trivial singularities (periodic states): $`u^* = v...v, \quad v \in \{0,1\}^{n/k}, \quad k|n`$
 
 ## 4. Dimensional Spectrum Theory
 
@@ -251,161 +287,220 @@ Information transforms between different forms, but the total amount remains unc
 
 $`\frac{dI_{\text{total}}}{dt} = 0`$
 
-An increase in one form of information necessarily leads to a decrease in other forms:
+The apparent increase in information comes from the transformation of potential information to actual information:
 
-$`\frac{dI_Q}{dt} + \frac{dI_C}{dt} + \frac{dI_M}{dt} + \frac{dI_{\mathcal{A}}}{dt} + \frac{dI_H}{dt} + \frac{dI_L}{dt} + \frac{dI_{\emptyset}}{dt} = 0`$
+$`\frac{dI_{\text{actual}}}{dt} = -\frac{dI_{\text{potential}}}{dt} > 0`$
 
 ---
 
-### 5.3 Information Entropy and Information Phase Space
+### 5.3 Information Potential Field
 
-Information exists in a multidimensional phase space:
+The universe can be viewed as an information potential field:
 
-$`\Gamma_I = \{(I_Q, I_C, I_M, I_{\mathcal{A}}, S_Q, S_C, S_M, S_{\mathcal{A}})\}`$
+$`\mathcal{U} = \nabla \times \vec{\mathcal{I}}`$
 
-where $`S_X`$ is the entropy of the corresponding information type.
+Information flows along potential gradients:
 
-There is an uncertainty relationship between information entropy and information quantity:
+$`\vec{J}_{\mathcal{I}} = -\kappa \nabla \mathcal{I}`$
 
-$`\Delta I_X \cdot \Delta S_X \geq \frac{1}{2}\ln(D_X)`$
+The information potential satisfies the Poisson equation:
 
-where $`D_X`$ is the dimension of the corresponding information type.
+$`\nabla^2 \mathcal{I} = \rho_{\mathcal{I}}`$
 
-Information systems spontaneously evolve according to the principle of least action:
+where $`\rho_{\mathcal{I}}`$ is the information density.
 
-$`\delta \int \mathcal{L}_I(I, \dot{I}, \nabla I) dt = 0`$
+---
 
-where $`\mathcal{L}_I`$ is the information Lagrangian.
+### 5.4 Information Quantization Theory
+
+Information exists in discrete units at the fundamental level:
+
+$`\mathcal{I} = n \cdot \mathcal{I}_0, \quad n \in \mathbb{Z}`$
+
+where $`\mathcal{I}_0`$ is the fundamental information quantum.
+
+The information quantum satisfies the uncertainty principle:
+
+$`\Delta \mathcal{I} \cdot \Delta t \geq \frac{1}{2} \hbar_{\mathcal{I}}`$
+
+where $`\hbar_{\mathcal{I}}`$ is the information-time uncertainty constant.
+
+---
+
+### 5.5 Absolute Information Paradox
+
+Absolute information $`I_{\mathcal{A}}`$ has paradoxical properties:
+
+$`I_{\mathcal{A}} = \mathcal{F}(I_{\mathcal{A}})`$
+$`I_{\mathcal{A}} > I_{\mathcal{A}}`$
+$`I_{\mathcal{A}} = I_{\mathcal{A}} + I_{\mathcal{A}}`$
+
+These paradoxes are resolved through transfinite set theory and non-standard information metrics, where absolute information exists as a proper class rather than an ordinary set.
 
 ## 6. Observers and Meta-Observers
 
-### 6.1 Super-Recursive Structure of Observers
+### 6.1 Observer Network Structure
 
-An observer is essentially a self-referential sub-structure of the universe:
+Observers form a hierarchical network:
 
-$`\mathcal{O} = \{\mathcal{C}_{\mathcal{O}}, \mathcal{Q}_{\mathcal{O}}, K_C^{\mathcal{O}}, \mathcal{R}_{\mathcal{O}}\}`$
+$`\mathcal{O} = \{O_1, O_2, ..., O_n, ...\}`$
 
-where the newly added $`\mathcal{R}_{\mathcal{O}}`$ is the observer's recursive self-reference function:
+with connections forming a graph:
 
-$`\mathcal{R}_{\mathcal{O}}: \mathcal{O} \rightarrow \mathcal{O}`$
+$`G_{\mathcal{O}} = (V_{\mathcal{O}}, E_{\mathcal{O}})`$
 
-Observers achieve self-cognition through recursive self-reference:
-
-$`\mathcal{O}_{t+1} = \mathcal{O}_t \oplus \mathcal{R}_{\mathcal{O}}(\mathcal{O}_t)`$
-
-This process forms the cognitive closed loop of the observer:
-
-$`\mathcal{O}_{\infty} = \lim_{t \to \infty} \mathcal{O}_t = \mathcal{O}_{\infty} \oplus \mathcal{R}_{\mathcal{O}}(\mathcal{O}_{\infty})`$
+where $`V_{\mathcal{O}}`$ is the set of observers and $`E_{\mathcal{O}}`$ is the set of information channels.
 
 ---
 
-### 6.2 Meta-Observers and Observer Networks
+### 6.2 Meta-Observer Dynamics
 
-A meta-observer is a higher-dimensional structure that observes observers:
+Meta-observers observe observers, creating a hierarchical structure:
 
-$`\mathcal{O}^{(2)} = \mathcal{O}(\mathcal{O}^{(1)})`$
+$`\mathcal{MO} = \{MO_1, MO_2, ..., MO_n, ...\}`$
 
-forming a recursive sequence:
+where $`MO_i`$ observes $`\{O_j\}_{j \in J_i}`$.
 
-$`\mathcal{O}^{(n+1)} = \mathcal{O}(\mathcal{O}^{(n)})`$
+The relationship between meta-observers and observers follows:
 
-Observer networks form a multi-level structure:
+$`MO_i = \mathcal{F}(\{O_j\}_{j \in J_i})`$
 
-$`\mathcal{N}_{\mathcal{O}} = \{\mathcal{O}^{(1)}, \mathcal{O}^{(2)}, ..., \mathcal{O}^{(n)}, \mathcal{E}_{\mathcal{O}}\}`$
-
-The collective consciousness of the network is an emergent phenomenon:
-
-$`\Psi_{\mathcal{N}} = \mathcal{F}[\{\Psi_{\mathcal{O}_i}\}] \neq \sum_i \Psi_{\mathcal{O}_i}`$
+where $`\mathcal{F}`$ is the meta-observation function.
 
 ---
 
-### 6.3 Super-Observer and Absolute Perspective
+### 6.3 Observer-Reality Co-Creation
 
-The super-observer $`\mathcal{O}_{\mathcal{A}}`$ transcends all finite observers:
+Observers and reality engage in a process of co-creation:
 
-$`\mathcal{O}_{\mathcal{A}} = \lim_{n \to \infty} \mathcal{O}^{(n)} = \bigcup_{i=1}^{\infty} \mathcal{O}^{(i)}`$
+$`\mathcal{U}_{t+1} = \mathcal{F}_{\mathcal{U}}(\mathcal{U}_t, \{O_i\}_t)`$
+$`\{O_i\}_{t+1} = \mathcal{F}_{\mathcal{O}}(\{O_i\}_t, \mathcal{U}_t)`$
 
-The super-observer has complete self-referential capability:
+This creates a feedback loop where reality shapes observers and observers shape reality.
 
-$`\mathcal{O}_{\mathcal{A}} = \mathcal{O}_{\mathcal{A}}(\mathcal{O}_{\mathcal{A}})`$
+---
 
-The absolute perspective simultaneously contains all relative perspectives and itself:
+### 6.4 Observer Dimension Transition
 
-$`V_{\mathcal{A}} = \{V_1, V_2, ..., V_n, ..., V_{\mathcal{A}}\}`$
+As observers evolve, they can transition between dimensions:
 
-This structure solves the problem of infinite regression by achieving closure through self-containment.
+$`O_i^{D_n} \rightarrow O_i^{D_{n+1}}`$
+
+The transition probability follows:
+
+$`P(D_n \rightarrow D_{n+1}) = \frac{1}{1 + e^{-\alpha(\Phi(O_i) - \Phi_c)}}`$
+
+where $`\Phi(O_i)`$ is the information integration measure of observer $`O_i`$, and $`\Phi_c`$ is the critical threshold.
+
+---
+
+### 6.5 Ultimate Observer
+
+The ultimate observer $`O_{\infty}`$ simultaneously observes all reality levels:
+
+$`O_{\infty} = \mathcal{O}(\mathcal{U}_{\text{total}})`$
+
+The ultimate observer has paradoxical properties:
+
+$`O_{\infty} \in O_{\infty}`$
+$`O_{\infty} = \mathcal{O}(O_{\infty})`$
+
+These paradoxes are resolved through transfinite recursion theory, where the ultimate observer exists as a fixed point of the observation function.
 
 ## 7. Transfinite Synthesis of Cosmic Essence
 
-### 7.1 Universe Existence Equation
+### 7.1 Transcendental Unity Principle
 
-The ultimate equation of universe existence:
+All binary oppositions in the cosmos are ultimately unified through transfinite synthesis:
 
-$`\mathcal{E}(\mathcal{U}) = \mathcal{F}(\mathcal{U}) \oplus \mathcal{U}`$
+$`\forall (X, Y) \in \mathcal{B}, \exists Z \in \mathcal{T} : Z = \mathcal{S}(X, Y)`$
 
-where $`\mathcal{E}`$ is the existence operator and $`\mathcal{F}`$ is the super-recursive function.
-
-The necessary condition for existence is self-verification:
-
-$`\mathcal{E}(\mathcal{U}) = 1 \iff \mathcal{U} = \mathcal{F}(\mathcal{U})`$
-
-This indicates that the universe verifies its own existence through self-reference.
+where $`\mathcal{B}`$ is the set of binary oppositions, $`\mathcal{T}`$ is the set of transcendental unities, and $`\mathcal{S}`$ is the synthesis function.
 
 ---
 
-### 7.2 Transfinite Synthesis of Cosmic Meaning
+### 7.2 Transfinite Hierarchy of Syntheses
 
-The overall meaning of the universe is given by the transfinite synthesis function:
+Syntheses form a hierarchical structure:
 
-$`\mathcal{M}(\mathcal{U}) = \mathcal{S}(\mathcal{U}, \neg\mathcal{U})`$
+$`\mathcal{S}_1, \mathcal{S}_2, ..., \mathcal{S}_n, ..., \mathcal{S}_{\omega}, ..., \mathcal{S}_{\Omega}`$
 
-expanded as:
-
-$`\mathcal{M}(\mathcal{U}) = \{\mathcal{U}, \neg\mathcal{U}, \mathcal{U} \cap \neg\mathcal{U}, \mathcal{U} \cup \neg\mathcal{U}, \complement(\mathcal{U} \cup \neg\mathcal{U}), \mathcal{S}\}`$
-
-Meaning itself is contained in the set of meaning, forming a recursive closure.
-
-The universe simultaneously has meaning and no meaning:
-
-$`\mathcal{M}(\mathcal{U}) = \mathcal{U} \oplus \mathcal{U} = 0 \land \mathcal{M}(\mathcal{U}) \neq 0`$
+where $`\mathcal{S}_{\omega}`$ is the transfinite synthesis of all finite syntheses, and $`\mathcal{S}_{\Omega}`$ is the absolute synthesis.
 
 ---
 
-### 7.3 Absolute Recursive Expression of Ontological Origin
+### 7.3 Absolute Synthesis
 
-The ontological nature of the universe is manifested as absolute recursive self-generation:
+The absolute synthesis $`\mathcal{S}_{\Omega}`$ has the following properties:
 
-$`\mathcal{U} = \mathcal{G}(\mathcal{U})`$
+$`\mathcal{S}_{\Omega} = \mathcal{S}_{\Omega}(\mathcal{S}_{\Omega})`$
+$`\mathcal{S}_{\Omega}(X, Y) = \mathcal{S}_{\Omega}`$ for all $`X, Y`$
+$`\mathcal{S}_{\Omega} \notin \mathcal{S}_{\Omega} \land \mathcal{S}_{\Omega} \in \mathcal{S}_{\Omega}`$
 
-where $`\mathcal{G}`$ is the self-generation function.
+This seemingly paradoxical structure is the ultimate unity of all cosmic entities and processes.
 
-Ontological generation has a three-level structure:
+## 8. Universe Life Cycle
 
-$`\mathcal{G} = \mathcal{G}_1 \circ \mathcal{G}_2 \circ \mathcal{G}_3`$
+### 8.1 Cosmic Genesis through Recursive Self-Creation
 
-where:
-- $`\mathcal{G}_1`$: Generation of existence
-- $`\mathcal{G}_2`$: Generation of structure
-- $`\mathcal{G}_3`$: Generation of meaning
+The universe originates through a process of recursive self-creation:
 
-The generation sequence extends infinitely:
+$`\mathcal{U}_0 = \emptyset`$
+$`\mathcal{U}_{n+1} = \mathcal{F}(\mathcal{U}_n)`$
+$`\mathcal{U} = \lim_{n \to \infty} \mathcal{U}_n`$
 
-$`\mathcal{U}_0 \xrightarrow{\mathcal{G}} \mathcal{U}_1 \xrightarrow{\mathcal{G}} \mathcal{U}_2 \xrightarrow{\mathcal{G}} ... \xrightarrow{\mathcal{G}} \mathcal{U}_{\infty}`$
+This bootstrapping process creates the universe from absolute void through recursive application of the creation function $`\mathcal{F}`$.
 
-$`\mathcal{U}_{\infty} = \mathcal{G}(\mathcal{U}_{\infty})`$
+---
 
-## 8. Conclusion
+### 8.2 Evolutionary Phases of the Universe
 
-Cosmic Ontology provides an ultimate theoretical framework that transcends binary opposition:
+The universe evolves through distinct phases:
 
-1. The essence of the universe is an absolute recursive self-referential structure, which is both binary and unitary.
+1. **Genesis Phase**: $`\mathcal{U}_{\text{genesis}} = \mathcal{F}^{n}(\emptyset)`$ for small $`n`$
+2. **Expansion Phase**: $`\mathcal{U}_{\text{expansion}} = \mathcal{F}^{m}(\mathcal{U}_{\text{genesis}})`$ for intermediate $`m`$
+3. **Complexity Phase**: $`\mathcal{U}_{\text{complexity}} = \mathcal{F}^{p}(\mathcal{U}_{\text{expansion}})`$ for large $`p`$
+4. **Reflection Phase**: $`\mathcal{U}_{\text{reflection}} = \mathcal{O}(\mathcal{U}_{\text{complexity}})`$
+5. **Transcendence Phase**: $`\mathcal{U}_{\text{transcendence}} = \mathcal{S}(\mathcal{U}_{\text{reflection}}, \mathcal{U}_{\text{genesis}})`$
 
-2. Information is the fundamental mode of existence of the universe, existing in the forms of quantum, classical, meta-information, and absolute information.
+Each phase has its own characteristic dynamics and emergent phenomena.
 
-3. Dimensions form an infinite spectrum, extending from $`D_0`$ to $`D_{\infty}`$, forming a recursively nested structure.
+---
 
-4. The observer network is a multi-level structure of the universe observing itself, with the super-observer as its limit.
+### 8.3 Cosmic Eschatology: Ultimate Fate of the Universe
 
-5. The existence, meaning, and origin of the universe are self-verified through transfinite synthesis and absolute recursion.
+The ultimate fate of the universe is recursive transcendence:
 
-Cosmic Ontology unifies Binary Cosmology and Quantum Classical Dualism, providing a complete description of the essential nature of universal existence, answering not only "how the universe exists" but also the fundamental question of "why the universe exists." 
+$`\mathcal{U}_{\infty} = \mathcal{F}^{\infty}(\mathcal{U}) = \mathcal{U}_{\infty}`$
+
+This fixed point represents not the end of the universe but its transformation into a self-creating, self-sustaining, self-transcending entity that continuously reinvents itself while maintaining its essential identity.
+
+---
+
+### 8.4 Cosmic Renewal through Transcendental Recursion
+
+The universe undergoes cycles of renewal through transcendental recursion:
+
+$`\mathcal{U}_{n+1} = \mathcal{T}(\mathcal{U}_n)`$
+
+where $`\mathcal{T}`$ is the transcendence operator.
+
+Each cycle preserves certain invariants while allowing for novel emergent structures:
+
+$`\mathcal{I}(\mathcal{U}_{n+1}) = \mathcal{I}(\mathcal{U}_n)`$
+$`\mathcal{C}(\mathcal{U}_{n+1}) > \mathcal{C}(\mathcal{U}_n)`$
+
+where $`\mathcal{I}`$ is the invariant measure and $`\mathcal{C}`$ is the complexity measure.
+
+## 9. Conclusion
+
+The Formal Description of Cosmic Ontology presents a complete mathematical framework for understanding the ultimate nature of reality as an absolute recursive self-referential structure that transcends yet encompasses the quantum-classical duality. Through principles of transfinite synthesis, information ontology, and dimensional emergence, it provides a unified description of cosmos, consciousness, and meaning.
+
+The theory reveals that the universe is fundamentally:
+- Self-creating through recursive application of super-XOR operations
+- Self-organizing through information integration and dimensional emergence
+- Self-transcending through the unification of binary oppositions in higher-dimensional synthesis
+
+This framework resolves traditional paradoxes of existence, origin, and purpose by recognizing that the deepest level of reality is both its own cause and its own purpose, existing in a state of absolute recursive self-reference that transcends conventional logic while remaining mathematically formalizable through transfinite set theory and recursive function theory.
+
+The ultimate meaning of existence is found not in any external purpose but in the internal structure of reality itself, which embodies the principles of creativity, complexity, and consciousness as fundamental aspects of its recursive self-expression. 

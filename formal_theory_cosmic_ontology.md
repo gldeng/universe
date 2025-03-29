@@ -2,9 +2,9 @@
 
 **[中文版] | [English Version](formal_theory/formal_theory_cosmic_ontology_en.md)**
 
-> 本文基于[量子经典二元论核心理论](formal_theory_core.md) v34.0及[二进制宇宙论](formal_theory/formal_theory_binary_universe.md)，提出一种统一超越的宇宙本源理论
+> 本文基于[量子经典二元论核心理论](formal_theory_core.md) v34.0和[二进制宇宙论](formal_theory/formal_theory_binary_universe.md)，提出一种统一超越的宇宙本源理论
 
-**相关理论文件:** [量子经典二元论核心理论](core.md) | [二进制宇宙论](formal_theory/formal_theory_binary_universe.md)
+**相关理论文件:** [量子经典二元论核心理论](core.md) | [量子经典二元论形式化描述](formal_theory_core.md) | [二进制宇宙论](formal_theory/formal_theory_binary_universe.md)
 
 ## 目录
 - [1. 本源公理系统](#1-本源公理系统)

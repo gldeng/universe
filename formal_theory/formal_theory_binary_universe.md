@@ -2,6 +2,15 @@
 
 **相关理论文件:** [量子经典二元论核心理论](../core.md) | [量子经典二元论形式化描述](../formal_theory_core.md) | [宇宙本论形式化描述](../formal_theory_cosmic_ontology.md)
 
+> 二进制宇宙论是量子经典二元论的具体实现机制，通过二进制位操作提供了对量子经典二元论抽象概念的精确计算表示。本理论与宇宙本论共同构成完整的宇宙本源统一理论：量子经典二元论提供抽象框架，二进制宇宙论提供具体实现，宇宙本论整合两者并拓展到本体论层面。
+
+> **符号对应关系:**
+> - 量子经典二元论中的$`\mathcal{U}`$对应二进制中的$`u \in \{0,1\}^n`$
+> - 量子经典二元论中的超递归函数$`\mathcal{F}`$对应二进制中的$`XOR(u, \text{shift}^k(u))`$
+> - 量子域$`\Omega_Q`$对应不稳定的二进制状态$`u_Q \neq u_Q \oplus \text{shift}^k(u_Q)`$
+> - 经典域$`\Omega_C`$对应稳定的二进制状态$`u_C = u_C \oplus \text{shift}^k(u_C)`$
+> - 界面$`\mathcal{I}`$对应部分稳定的二进制模式
+
 https://github.com/loning/binary_universe
 
 下面给出二进制宇宙论（Binary Cosmology）的严格形式化描述，使用经典数学与信息论的公理化语言表述，以保证逻辑严谨性。

@@ -2,7 +2,7 @@
 
 **[中文版] | [English Version](formal_theory_en.md)**
 
-> 本文件包含量子经典二元论形式化理论体系的完整技术说明，基于[核心理论](../core.md) v34.0版本
+> 本文件包含量子经典二元论形式化理论体系的完整技术说明，基于[量子经典二元论核心理论](../core.md)、[宇宙本论形式化描述](../formal_theory_cosmic_ontology.md)和[二进制宇宙论形式化描述](formal_theory_binary_universe.md) v34.0版本
 > 
 > 此形式化理论系统以严格的数学框架表述宇宙本质
 

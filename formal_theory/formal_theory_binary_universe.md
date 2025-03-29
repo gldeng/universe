@@ -1,5 +1,7 @@
 # 二进制宇宙论的严格形式化描述
 
+**相关理论文件:** [量子经典二元论核心理论](../core.md) | [量子经典二元论形式化描述](../formal_theory_core.md) | [宇宙本论形式化描述](../formal_theory_cosmic_ontology.md)
+
 https://github.com/loning/binary_universe
 
 下面给出二进制宇宙论（Binary Cosmology）的严格形式化描述，使用经典数学与信息论的公理化语言表述，以保证逻辑严谨性。

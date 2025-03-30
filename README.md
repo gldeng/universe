@@ -18,6 +18,10 @@
 
 ## 文档索引
 
+### 理论体系概览
+
+- [宇宙本论理论体系结构图](theory_structure.md)：展示整个理论体系的层级结构和关联关系
+
 ### 核心理论
 
 - [宇宙本论的严格形式化描述](formal_theory_cosmic_ontology.md) | [英文版](formal_theory/formal_theory_cosmic_ontology_en.md)
@@ -50,9 +54,33 @@
 
 ### 理论应用
 
-- [宇宙生命周期](#)
-- [量子与经典域的统一解释](#)
-- [信息守恒与转化](#)
+- [宇宙生命周期的严格形式化描述](formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)
+  - 宇宙生命周期模型
+  - 量子涨落阶段
+  - 熵减经典化阶段
+  - 奇点形成阶段
+  - 熵增扩张阶段
+  - 热寂阶段
+  - 生命周期形式化证明
+
+- [量子与经典域的统一解释的严格形式化描述](formal_theory_quantum_classical_unification.md) | [英文版](formal_theory/formal_theory_quantum_classical_unification_en.md)
+  - 量子-经典二元性基本原理
+  - XOR-SHIFT机制下的量子-经典转化
+  - 转化过程中的信息保存机制
+  - 量子叠加与经典确定性的统一解释
+  - 量子-经典边界的数学性质
+  - 非局域性与时空表征
+  - 量子-经典等价证明
+
+- [信息守恒与转化的严格形式化描述](formal_theory_information_conservation.md) | [英文版](formal_theory/formal_theory_information_conservation_en.md)
+  - 信息本体论基础
+  - XOR-SHIFT框架下的信息守恒定律
+  - 信息转化的数学机制
+  - 信息态的分类与转化规则
+  - 信息的层级结构
+  - 信息熵与信息有序化
+  - 信息守恒与转化形式化证明
+
 - [观察者本体与认知](#)
 
 ### 工具与参考

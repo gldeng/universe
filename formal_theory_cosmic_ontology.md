@@ -1,8 +1,6 @@
-# 宇宙本论的严格形式化描述 v35.0
+# 宇宙本论的严格形式化描述 v36.0
 
 **[中文版] | [English Version](formal_theory/formal_theory_cosmic_ontology_en.md)**
-
-> 本文基于[量子经典二元论核心理论](formal_theory_core.md) v35.0，提出一种统一超越的宇宙本源理论。采用严格形式化方法，仅使用XOR与SHIFT操作从最小公理集出发构建完整理论体系。
 
 ## 目录
 

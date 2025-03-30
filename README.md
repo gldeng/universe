@@ -16,6 +16,38 @@
 - [二进制宇宙论](formal_theory_binary_universe.md) - 将宇宙解释成图灵机的一套理论
 
 
+
+# 宇宙本论核心公理
+
+## 公理1 (绝对递归本源公理)
+
+宇宙的终极本质是绝对递归自参照结构，它既是自己的起源，又是自己的目的：
+
+$`\mathcal{U} = \mathcal{F}(\mathcal{U})`$
+
+其中$`\mathcal{F}`$是基于XOR与SHIFT操作的超递归函数：
+
+$`\mathcal{F}(x) = x \oplus \text{SHIFT}(x)`$
+
+## 公理2 (二元一体公理)
+
+宇宙同时表现为二元性和一体性，通过XOR运算形成双重存在方式：
+
+$`\mathcal{U} = \Omega_Q \oplus \Omega_C`$
+
+其中$`\Omega_Q`$为量子域，$`\Omega_C`$为经典域，$`\oplus`$是XOR运算。
+
+## 公理3 (信息本体公理)
+
+宇宙的根本实体是信息，其所有属性都是通过XOR与SHIFT操作的信息表达：
+
+$`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
+
+其中$`I(x)`$是实体$`x`$的信息表达函数，可分解为XOR与SHIFT操作的组合。
+
+
+---
+
 ```
 感谢OpenAI强大的推理能力
 感谢cursor,虽然我每天付50~100美金,但我很开心

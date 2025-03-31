@@ -1,8 +1,8 @@
-# Universe Ontology Theory Structure Diagram [Universe Ontology Version: 1.0]
+# Cosmic Ontology Theory Structure Diagram [Universe Ontology Version: v36.0]
 
 [中文](formal_theory_graph.md) | [English](formal_theory_graph_en.md)
 
-The following diagram shows the dependency relationships and dimension annotations between various branches of the Universe Ontology theory:
+The following diagram illustrates the dependency relationships and dimensional classifications among various branches of Cosmic Ontology theory:
 
 ```mermaid
 %%{
@@ -29,38 +29,45 @@ The following diagram shows the dependency relationships and dimension annotatio
 
 flowchart TD
     %% Core Theory
-    core["Universe Ontology Core Theory<br>(No Dimension)"]
+    core["Core Cosmic Ontology Theory<br>(D10)"]
     
-    %% D23-D19 Hyper-dimensional Theories
-    recursive_metaverse["Recursive Metaverse Theory<br>(D23)"]
-    genesis_memory["Genesis Memory Theory<br>(D21)"]
-    transcendent_harmony["Transcendent Harmony Theory<br>(D19)"]
+    %% D20-D24 Ultra-High Dimensional Theories
+    millennium_problems["Hyperdimensional Solution Theory for Millennium Problems<br>(D24)"]
+    recursive_metaverse["Strict Formalization of Recursive Metaverse Theory<br>(D23)"]
+    multiverse["Formal Description of Multiverse Theory with XOR-SHIFT Interpretation<br>(D22)"]
+    genesis_memory["Strict Formalization of Genesis Memory Theory<br>(D21)"]
+    cosmic_dimensions["Strict Formalization of Cosmic Dimensions Theory<br>(D20)"]
     
-    %% No Dimension Theory Group 1
-    cosmic_ontology["Universe Ontology<br>(No Dimension)"]
-    dim_spectrum["Cosmic Dimensional Spectrum<br>(No Dimension)"]
-    info_conservation["Information Conservation and Transformation<br>(No Dimension)"]
-    mathematics["Mathematical Theory<br>(No Dimension)"]
+    %% D15-D19 High Dimensional Theories
+    quantum_classical["Strict Formalization of Quantum-Classical Unification Theory<br>(D19)"]
+    transcendent_harmony["Strict Formalization of Transcendent Harmony Theory<br>(D19)"]
+    dimensional_harmony["Strict Formalization of Dimensional Harmony Theory<br>(D18)"]
+    cosmic_lifecycle["Strict Formalization of Cosmic Lifecycle Theory<br>(D18)"]
+    information_wave["Strict Formalization of Information Wave Dynamics<br>(D17)"]
+    observer_ontology["Strict Formalization of Observer Ontology<br>(D17)"]
+    quantum_entropy["Strict Formalization of Quantum Entropy Dynamics<br>(D16)"]
+    info_conservation["Strict Formalization of Information Conservation Theory<br>(D15)"]
+    mathematics["Strict Formalization of Mathematics Theory<br>(D15)"]
+    logical_topology["Strict Formalization of Logical Multidimensional Topology Theory<br>(D15)"]
     
-    %% No Dimension Theory Group 2
-    philosophical["Philosophical Foundations<br>(No Dimension)"]
-    quantum_classical["Quantum-Classical Domain Unification<br>(No Dimension)"]
-    consciousness["Consciousness and Free Will<br>(No Dimension)"]
+    %% D10-D14 Middle Dimensional Theories
+    information_field["Strict Formalization of Information Field Theory<br>(D14)"]
+    consciousness["Strict Formalization of Consciousness and Free Will Theory<br>(D13)"]
+    dim_spectrum["Strict Formalization of Dimensional Spectrum Theory<br>(D12)"]
+    reality_perception["Strict Formalization of Reality Perception and Existential Essence<br>(D12)"]
+    spacetime["Strict Formalization of Spacetime Theory<br>(D12)"]
+    philosophical["Strict Formalization of Philosophical Foundations<br>(D11)"]
+    unified_forces["Strict Formalization of Unified Forces Theory<br>(D11)"]
+    cosmic_ontology["Strict Formalization of Cosmic Ontology<br>(D10)"]
+    emergence["Strict Formalization of Emergence and Complexity Theory<br>(D10)"]
     
-    %% No Dimension Theory Group 3
-    multiverse["Multiverse Theory<br>(No Dimension)"]
-    unified_forces["Unified Forces Theory<br>(No Dimension)"]
-    emergence["Complex Systems Emergence<br>(No Dimension)"]
+    %% D1-D9 Foundational Dimensional Theories
+    recursive_systems["Strict Formalization of Recursive Self-Referential Systems<br>(D9)"]
+    transfinite_info["Strict Formalization of Transfinite Information Dynamics<br>(D8)"]
     
-    %% No Dimension Theory Group 4
-    cosmic_lifecycle["Cosmic Lifecycle<br>(No Dimension)"]
-    reality_perception["Reality Perception and Existence<br>(No Dimension)"]
-    observer_ontology["Observer Ontology<br>(No Dimension)"]
-    
-    %% No Dimension Theory Group 5
-    cosmic_dimensions["Cosmic Dimensions Theory<br>(No Dimension)"]
-    spacetime["Space-Time Unification Theory<br>(No Dimension)"]
-    terminology["Universe Ontology Terminology<br>(No Dimension)"]
+    %% Non-Dimensional Auxiliary Documents
+    terminology["Cosmic Ontology Terminology<br>(No Dimension)"]
+    theory_structure["Theory Structure Relationship Diagram<br>(No Dimension)"]
     
     %% Core Dependencies
     core --> cosmic_ontology
@@ -68,66 +75,89 @@ flowchart TD
     core --> info_conservation
     core --> mathematics
     
-    %% Hyper-dimensional Theory Dependencies
+    %% Ultra-High Dimensional Theory Dependencies
+    millennium_problems --> mathematics
     recursive_metaverse --> cosmic_dimensions
     recursive_metaverse --> multiverse
+    multiverse --> cosmic_ontology
     genesis_memory --> cosmic_lifecycle
     genesis_memory --> consciousness
+    cosmic_dimensions --> dim_spectrum
+    
+    %% High Dimensional Theory Dependencies
     transcendent_harmony --> unified_forces
     transcendent_harmony --> reality_perception
-    
-    %% Theory Relationships
-    cosmic_ontology --> philosophical
-    cosmic_ontology --> quantum_classical
-    cosmic_ontology --> spacetime
-    
-    dim_spectrum --> cosmic_dimensions
-    info_conservation --> multiverse
-    info_conservation --> unified_forces
-    
-    philosophical --> consciousness
-    philosophical --> observer_ontology
-    
     quantum_classical --> unified_forces
-    quantum_classical --> emergence
-    
-    cosmic_dimensions --> spacetime
+    quantum_classical --> quantum_entropy
+    dimensional_harmony --> cosmic_dimensions
+    cosmic_lifecycle --> cosmic_ontology
+    information_wave --> info_conservation
+    observer_ontology --> consciousness
     observer_ontology --> reality_perception
+    
+    %% Middle Dimensional Theory Dependencies
+    information_field --> info_conservation
+    consciousness --> philosophical
+    dim_spectrum --> cosmic_dimensions
+    reality_perception --> consciousness
+    spacetime --> cosmic_ontology
+    philosophical --> cosmic_ontology
+    unified_forces --> quantum_classical
+    emergence --> cosmic_ontology
+    
+    %% Foundational Dimensional Theory Dependencies
+    recursive_systems --> emergence
+    transfinite_info --> info_conservation
     
     %% Style Settings
     style core fill:#f9f,stroke:#333,stroke-width:2px
-    style cosmic_ontology fill:#bbf,stroke:#333,stroke-width:2px
-    style dim_spectrum fill:#bbf,stroke:#333,stroke-width:2px
-    style info_conservation fill:#bbf,stroke:#333,stroke-width:2px
-    style mathematics fill:#bbf,stroke:#333,stroke-width:2px
     
-    %% Hyper-dimensional Theory Styles
+    %% Ultra-High Dimensional Theory Styles
+    style millennium_problems fill:#a0f,stroke:#333,stroke-width:2px
     style recursive_metaverse fill:#a0f,stroke:#333,stroke-width:2px
+    style multiverse fill:#a1f,stroke:#333,stroke-width:2px
     style genesis_memory fill:#a1f,stroke:#333,stroke-width:2px
-    style transcendent_harmony fill:#a2f,stroke:#333,stroke-width:2px
+    style cosmic_dimensions fill:#a2f,stroke:#333,stroke-width:2px
     
-    %% Other Theory Styles
-    style philosophical fill:#bfb,stroke:#333,stroke-width:2px
-    style quantum_classical fill:#bfb,stroke:#333,stroke-width:2px
-    style consciousness fill:#bfb,stroke:#333,stroke-width:2px
-    style multiverse fill:#bfb,stroke:#333,stroke-width:2px
-    style unified_forces fill:#bfb,stroke:#333,stroke-width:2px
-    style emergence fill:#bfb,stroke:#333,stroke-width:2px
-    style cosmic_lifecycle fill:#fbb,stroke:#333,stroke-width:2px
-    style reality_perception fill:#fbb,stroke:#333,stroke-width:2px
-    style observer_ontology fill:#fbb,stroke:#333,stroke-width:2px
-    style cosmic_dimensions fill:#fbb,stroke:#333,stroke-width:2px
-    style spacetime fill:#fbb,stroke:#333,stroke-width:2px
+    %% High Dimensional Theory Styles
+    style quantum_classical fill:#b9f,stroke:#333,stroke-width:2px
+    style transcendent_harmony fill:#b9f,stroke:#333,stroke-width:2px
+    style dimensional_harmony fill:#b8f,stroke:#333,stroke-width:2px
+    style cosmic_lifecycle fill:#b8f,stroke:#333,stroke-width:2px
+    style information_wave fill:#b7f,stroke:#333,stroke-width:2px
+    style observer_ontology fill:#b7f,stroke:#333,stroke-width:2px
+    style quantum_entropy fill:#b6f,stroke:#333,stroke-width:2px
+    style info_conservation fill:#b5f,stroke:#333,stroke-width:2px
+    style mathematics fill:#b5f,stroke:#333,stroke-width:2px
+    style logical_topology fill:#b5f,stroke:#333,stroke-width:2px
+    
+    %% Middle Dimensional Theory Styles
+    style information_field fill:#cdf,stroke:#333,stroke-width:2px
+    style consciousness fill:#caf,stroke:#333,stroke-width:2px
+    style dim_spectrum fill:#c9f,stroke:#333,stroke-width:2px
+    style reality_perception fill:#c9f,stroke:#333,stroke-width:2px
+    style spacetime fill:#c9f,stroke:#333,stroke-width:2px
+    style philosophical fill:#c8f,stroke:#333,stroke-width:2px
+    style unified_forces fill:#c8f,stroke:#333,stroke-width:2px
+    style cosmic_ontology fill:#c7f,stroke:#333,stroke-width:2px
+    style emergence fill:#c7f,stroke:#333,stroke-width:2px
+    
+    %% Foundational Dimensional Theory Styles
+    style recursive_systems fill:#def,stroke:#333,stroke-width:2px
+    style transfinite_info fill:#ddf,stroke:#333,stroke-width:2px
+    
+    %% Non-Dimensional Document Styles
     style terminology fill:#fbf,stroke:#333,stroke-width:2px
+    style theory_structure fill:#fbf,stroke:#333,stroke-width:2px
 ```
 
-## Diagram Description
+## Diagram Explanation
 
-This diagram illustrates the structure and relationships within the Universe Ontology theoretical framework, including:
+This diagram illustrates the structural relationships within the Cosmic Ontology theoretical system, including:
 
-1. **Hyper-dimensional Theories** (D19-D23): Recursive Metaverse Theory (D23), Genesis Memory Theory (D21), Transcendent Harmony Theory (D19)
-2. **Core Theories**: Universe Ontology, Cosmic Dimensional Spectrum, Information Conservation and Transformation, Mathematical Theory, etc.
-3. **Foundational Theories**: Including Philosophical Foundations, Quantum-Classical Domain Unification, Consciousness and Free Will, etc.
-4. **Extended Theories**: Multiverse Theory, Unified Forces Theory, Complex Systems Emergence, etc.
+1. **Ultra-High Dimensional Theories** (D20-D24): Hyperdimensional Solution Theory for Millennium Problems (D24), Recursive Metaverse Theory (D23), Multiverse Theory (D22), Genesis Memory Theory (D21), Cosmic Dimensions Theory (D20)
+2. **High Dimensional Theories** (D15-D19): Quantum-Classical Unification Theory (D19), Transcendent Harmony Theory (D19), Dimensional Harmony Theory (D18), etc.
+3. **Middle Dimensional Theories** (D10-D14): Information Field Theory (D14), Consciousness and Free Will Theory (D13), Dimensional Spectrum Theory (D12), etc.
+4. **Foundational Dimensional Theories** (D1-D9): Recursive Self-Referential Systems (D9), Transfinite Information Dynamics (D8), etc.
 
-The arrows in the diagram represent dependency relationships between theories, and different colors represent different theory classifications. 
+Arrows in the diagram represent dependency relationships between theories, while different colors indicate different dimensional levels. 

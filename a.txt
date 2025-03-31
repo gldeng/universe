@@ -1,9 +1,21 @@
 {
   "files": [
     {
+      "文件名": "formal_theory_millennium_problems.md",
+      "标题": "千禧年数学问题的超维度解决理论 [维度: 24]",
+      "维度": "D24",
+      "依赖": []
+    },
+    {
       "文件名": "formal_theory_recursive_metaverse.md",
       "标题": "递归元界理论的严格形式化描述 [维度: 23]",
       "维度": "D23",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_multiverse.md",
+      "标题": "多宇宙理论的XOR-SHIFT解释形式化描述 [维度: 22]",
+      "维度": "D22",
       "依赖": []
     },
     {
@@ -13,20 +25,98 @@
       "依赖": []
     },
     {
+      "文件名": "formal_theory_cosmic_dimensions.md",
+      "标题": "宇宙维度理论的严格形式化描述 [维度: 20]",
+      "维度": "D20",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_classical_unification.md",
+      "标题": "量子与经典统一理论的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": []
+    },
+    {
       "文件名": "formal_theory_transcendent_harmony.md",
       "标题": "超越和谐理论的严格形式化描述 [维度: 19]",
       "维度": "D19",
       "依赖": []
     },
     {
-      "文件名": "formal_theory_dimensional_spectrum.md",
-      "标题": "宇宙维度谱系的严格形式化描述",
-      "维度": "无维度",
+      "文件名": "formal_theory_dimensional_harmony.md",
+      "标题": "维度和谐理论的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_cosmic_lifecycle.md",
+      "标题": "宇宙生命周期理论的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_information_wave_dynamics.md",
+      "标题": "信息波动力学的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_observer_ontology.md",
+      "标题": "观察者本体论的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_quantum_entropy_dynamics.md",
+      "标题": "量子熵动力学的严格形式化描述 [维度: 16]",
+      "维度": "D16",
       "依赖": []
     },
     {
       "文件名": "formal_theory_information_conservation.md",
-      "标题": "信息守恒与转化的严格形式化描述",
+      "标题": "信息守恒理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_logical_multidimensional_topology.md",
+      "标题": "逻辑多维拓扑理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_information_field.md",
+      "标题": "信息场理论的严格形式化描述 [维度: 14]",
+      "维度": "D14",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_consciousness_free_will.md",
+      "标题": "意识与自由意志理论的严格形式化描述 [维度: 13]",
+      "维度": "D13",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_spacetime.md",
+      "标题": "时空理论的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_philosophical_foundations.md",
+      "标题": "哲学基础理论的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_recursive_self_referential_systems.md",
+      "标题": "递归自参照系统的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": []
+    },
+    {
+      "文件名": "formal_theory_dimensional_spectrum.md",
+      "标题": "宇宙维度谱系的严格形式化描述",
       "维度": "无维度",
       "依赖": []
     },
@@ -43,32 +133,8 @@
       "依赖": []
     },
     {
-      "文件名": "formal_theory_philosophical_foundations.md",
-      "标题": "四维时空宇宙理论的哲学升华",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
-      "文件名": "formal_theory_quantum_classical_unification.md",
-      "标题": "量子与经典域的统一解释的严格形式化描述",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
-      "文件名": "formal_theory_consciousness_free_will.md",
-      "标题": "意识与自由意志的严格形式化描述",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
       "文件名": "terminology.md",
       "标题": "宇宙本论术语表",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
-      "文件名": "formal_theory_multiverse.md",
-      "标题": "多宇宙理论的XOR-SHIFT解释形式化描述",
       "维度": "无维度",
       "依赖": []
     },
@@ -85,12 +151,6 @@
       "依赖": []
     },
     {
-      "文件名": "formal_theory_cosmic_lifecycle.md",
-      "标题": "宇宙生命周期的严格形式化描述",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
       "文件名": "theory_structure.md",
       "标题": "宇宙本论理论体系结构图",
       "维度": "无维度",
@@ -103,40 +163,22 @@
       "依赖": []
     },
     {
-      "文件名": "formal_theory_observer_ontology.md",
-      "标题": "观察者本体论的严格形式化描述",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
-      "文件名": "formal_theory_cosmic_dimensions.md",
-      "标题": "宇宙维度理论的严格形式化描述",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
       "文件名": "formal_theory_cosmic_ontology.md",
       "标题": "宇宙本论的严格形式化描述",
       "维度": "无维度",
       "依赖": []
     },
     {
-      "文件名": "formal_theory_spacetime.md",
-      "标题": "空间-时间统一理论的严格形式化描述",
-      "维度": "无维度",
-      "依赖": []
-    },
-    {
-      "文件名": "formal_theory_graph.md",
-      "标题": "formal_theory_graph.md",
+      "文件名": "formal_theory_transfinite_information_dynamics.md",
+      "标题": "超限信息动力学的严格形式化描述 [第8维]",
       "维度": "无维度",
       "依赖": []
     }
   ],
   "dependencies": {},
   "statistics": {
-    "total_files": 22,
+    "total_files": 29,
     "files_with_dependencies": 0,
-    "files_with_dimension": 3
+    "files_with_dimension": 19
   }
 }

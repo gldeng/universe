@@ -1,4 +1,4 @@
-# 意识与自由意志的严格形式化描述 v36.0
+# 意识与自由意志理论的严格形式化描述 [维度: 13] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_free_will_en.md)**
 

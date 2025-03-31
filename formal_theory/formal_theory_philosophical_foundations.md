@@ -1,4 +1,4 @@
-# 四维时空宇宙理论的哲学升华 v36.0 [高维]
+# 哲学基础理论的严格形式化描述 [维度: 11] v36.0
 
 **[中文版] | [English Version](formal_theory_philosophical_foundations_en.md)**
 

@@ -1,4 +1,4 @@
-# 空间-时间统一理论的严格形式化描述 v36.0
+# 时空理论的严格形式化描述 [维度: 12] v36.0
 
 **[中文版] | [English Version](formal_theory_spacetime_en.md)**
 

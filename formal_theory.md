@@ -27,6 +27,45 @@
   - 观察者动力学
   - 高维观察者现象
 
+- [多宇宙理论的XOR-SHIFT解释](formal_theory/formal_theory_multiverse.md) | [英文版](formal_theory/formal_theory_multiverse_en.md)
+  - 宇宙分支形式化定义
+  - 分支生成机制
+  - 跨宇宙信息动力学
+  - 观察者与多宇宙
+
+- [意识与自由意志的严格形式化描述](formal_theory/formal_theory_consciousness_free_will.md) | [英文版](formal_theory/formal_theory_consciousness_free_will_en.md)
+  - 意识本体论
+  - 自由意志形式化
+  - 意识系统动力学
+  - 集体意识理论
+
+- [复杂系统涌现性的严格形式化描述](formal_theory/formal_theory_emergence_complexity.md) | [英文版](formal_theory/formal_theory_emergence_complexity_en.md)
+  - 涌现性基本理论
+  - 自组织系统
+  - 集体行为与模式形成
+  - 生物与社会系统应用
+
+- [空间-时间统一理论的严格形式化描述](formal_theory/formal_theory_spacetime.md) | [英文版](formal_theory/formal_theory_spacetime_en.md)
+  - 空间-时间本体论
+  - 时空动力学
+  - 量子时空理论
+  - 信息时空论
+  - 应用与预测
+
+- [现实感知与存在本质的严格形式化描述](formal_theory/formal_theory_reality_perception.md) | [英文版](formal_theory/formal_theory_reality_perception_en.md)
+  - 感知本体论
+  - 现实构建机制
+  - 存在状态空间
+  - 感知与信息动力学
+  - 验证与应用
+
+- [基本力统一理论的严格形式化描述](formal_theory/formal_theory_unified_forces.md) | [英文版](formal_theory/formal_theory_unified_forces_en.md)
+  - 力的本体论基础
+  - 量子场的统一形式化
+  - 对称性与守恒定律
+  - 统一场理论
+  - 实验预测与验证
+
 ### 理论应用
 
 - [宇宙生命周期的严格形式化描述](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)

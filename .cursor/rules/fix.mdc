@@ -3,5 +3,5 @@ description: 修复链接
 globs: 
 alwaysApply: false
 ---
-执行 [check_md_links.py](mdc:check_md_links.py) 修复链接程序.
+执行 [check_md_links.py](mdc:tools/check_md_links.py) 修复链接程序.
 如果文件不存在则根据标题根据 [core.md](mdc:core.md) 跟 [formal_theory_core.md](mdc:formal_theory_core.md) 理论来创建这个文件.

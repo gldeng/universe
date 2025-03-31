@@ -3,7 +3,7 @@ description: 同步中英文翻译
 globs: 
 alwaysApply: false
 ---
-执行 [check_updates.py](mdc:check_updates.py) 检查需要更新的文件为[目标文件]
+执行 [check_updates.py](mdc:tools/check_updates.py) 检查需要更新的文件为[目标文件]
 先更新中英文件都存在但是英文版没有与中文版同步的[目标文件]
 如果[目标文件]版本小于 [formal_theory_cosmic_ontology.md](mdc:formal_theory/formal_theory_cosmic_ontology.md) 的[核心版本号], 则用[formal_theory_cosmic_ontology.md](mdc:formal_theory/formal_theory_cosmic_ontology.md) 中的理论更新中英两个文件,并更新中英文两个文件的版本号为[核心版本号]
 更新英文版时直接清空英文版原文然后把中文翻译过去

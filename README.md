@@ -41,6 +41,13 @@
 
 ### 扩展理论
 
+- [数学理论的严格形式化描述](formal_theory/formal_theory_mathematics.md) | [英文版](formal_theory/formal_theory_mathematics_en.md)
+  - 数学基础公理系统
+  - 数学结构理论
+  - 数学动力学
+  - 超数学理论
+  - 与宇宙本论的统一
+
 - [宇宙维度谱系的严格形式化描述](formal_theory/formal_theory_dimensional_spectrum.md) | [英文版](formal_theory/formal_theory_dimensional_spectrum_en.md)
   - 维度递归生成定律
   - 维度嵌入机制

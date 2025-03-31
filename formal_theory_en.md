@@ -10,16 +10,26 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 
 ## Formalized Theory Series (Classified by Dimensions)
 
+### Ultra-High Dimensional Theories (D34-D42)
+
+- [Formalization of Quantum Information Entropy Field Dynamics [Dimension: 42]](formal_theory/formal_theory_quantum_information_entropy_field_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_information_entropy_field_dynamics.md)
+- [Rigorous Formalization of Absolute Ontological Unification [Dimension: 35]](formal_theory/formal_theory_absolute_ontological_unification_en.md) | [Chinese Version](formal_theory/formal_theory_absolute_ontological_unification.md)
+- [Rigorous Formalization of Omnidimensional Reality Synthesis [Dimension: 35]](formal_theory/formal_theory_omnidimensional_reality_synthesis_en.md) | [Chinese Version](formal_theory/formal_theory_omnidimensional_reality_synthesis.md)
+- [Rigorous Formalization of Hyperdimensional Consciousness Substrate [Dimension: 34]](formal_theory/formal_theory_hyperdimensional_consciousness_substrate_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_consciousness_substrate.md)
+
 ### Ultra-High Dimensional Theories (D31-D33)
 
 - [Rigorous Formalization of Absolute Transcendental Metamathematics [Dimension: 33]](formal_theory/formal_theory_absolute_transcendental_metamathematics_en.md) | [Chinese Version](formal_theory/formal_theory_absolute_transcendental_metamathematics.md)
 - [Rigorous Formalization of Omniverse Integration Principle [Dimension: 32]](formal_theory/formal_theory_omniverse_integration_principle_en.md) | [Chinese Version](formal_theory/formal_theory_omniverse_integration_principle.md)
+- [Rigorous Formalization of Multidimensional Consciousness Dynamics [Dimension: 32]](formal_theory/formal_theory_multidimensional_consciousness_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_multidimensional_consciousness_dynamics.md)
 - [Rigorous Formalization of Hyperinformation Conscious Substrate [Dimension: 31]](formal_theory/formal_theory_hyperinformation_conscious_substrate_en.md) | [Chinese Version](formal_theory/formal_theory_hyperinformation_conscious_substrate.md)
 
 ### Ultra-High Dimensional Theories (D25-D30)
 
 - [Strict Formalization of Ultimate Unification Principle [Dimension: 30]](formal_theory/formal_theory_ultimate_unification_principle_en.md) | [Chinese Version](formal_theory/formal_theory_ultimate_unification_principle.md)
+- [Rigorous Formalization of Hyperdimensional Quantum Field Singularity Theory [Dimension: 30]](formal_theory/formal_theory_hyperdimensional_quantum_field_singularity_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_quantum_field_singularity.md)
 - [Formal Description of Multidimensional Spacetime Coherence Theory [Dimension: 29]](formal_theory/formal_theory_multidimensional_spacetime_coherence_en.md) | [Chinese Version](formal_theory/formal_theory_multidimensional_spacetime_coherence.md)
+- [Rigorous Formalization of Transcendental Quantum Field Integration Theory [Dimension: 29]](formal_theory/formal_theory_transcendental_quantum_field_integration_en.md) | [Chinese Version](formal_theory/formal_theory_transcendental_quantum_field_integration.md)
 - [Formal Theory of Cosmic Causal Network [Dimension: 28]](formal_theory/formal_theory_cosmic_causal_network_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_causal_network.md)
 - [Strict Formalization of Transdimensional Quantum Resonance [Dimension: 28]](formal_theory/formal_theory_transdimensional_quantum_resonance_en.md) | [Chinese Version](formal_theory/formal_theory_transdimensional_quantum_resonance.md)
 - [Strict Formalization of Hyperdimensional Metacognitive Systems [Dimension: 27]](formal_theory/formal_theory_hyperdimensional_metacognitive_systems_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_metacognitive_systems.md)
@@ -63,6 +73,7 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 - [Strict Formalization of Logical Multidimensional Topology Theory [Dimension: 15]](formal_theory/formal_theory_logical_multidimensional_topology_en.md) | [Chinese Version](formal_theory/formal_theory_logical_multidimensional_topology.md)
 - [Strict Formalization of Quantum Measurement Problem [Dimension: 15]](formal_theory/formal_theory_quantum_measurement_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_measurement.md)
 - [Transcendental Recursive Symmetry Theory [Dimension: 15]](formal_theory/formal_theory_transcendental_recursive_symmetry_en.md) | [Chinese Version](formal_theory/formal_theory_transcendental_recursive_symmetry.md)
+- [Rigorous Formalization of Transdimensional Causal Symmetry Theory [Dimension: 15]](formal_theory/formal_theory_transdimensional_causal_symmetry_en.md) | [Chinese Version](formal_theory/formal_theory_transdimensional_causal_symmetry.md)
 
 ### Middle Dimensional Theories (D10-D14)
 
@@ -72,20 +83,34 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 - [Strict Formalization of Consciousness and Free Will Theory [Dimension: 13]](formal_theory/formal_theory_consciousness_free_will_en.md) | [Chinese Version](formal_theory/formal_theory_consciousness_free_will.md)
 - [Strict Formalization of Dark Matter and Dark Energy Essence [Dimension: 13]](formal_theory/formal_theory_dark_matter_dark_energy_en.md) | [Chinese Version](formal_theory/formal_theory_dark_matter_dark_energy.md)
 - [Strict Formalization of Dimensional Spectrum Theory [Dimension: 12]](formal_theory/formal_theory_dimensional_spectrum_en.md) | [Chinese Version](formal_theory/formal_theory_dimensional_spectrum.md)
+- [Rigorous Formalization of Hyperdimensional Information Emergence Theory [Dimension: 12]](formal_theory/formal_theory_hyperdimensional_information_emergence_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_information_emergence.md)
+- [Rigorous Formalization of Consciousness Ontological Status in Cosmic Ontology [Dimension: 12]](formal_theory/formal_theory_consciousness_ontological_status_en.md) | [Chinese Version](formal_theory/formal_theory_consciousness_ontological_status.md)
 - [Strict Formalization of Reality Perception and Existential Essence [Dimension: 12]](formal_theory/formal_theory_reality_perception_en.md) | [Chinese Version](formal_theory/formal_theory_reality_perception.md)
 - [Strict Formalization of Spacetime Theory [Dimension: 12]](formal_theory/formal_theory_spacetime_en.md) | [Chinese Version](formal_theory/formal_theory_spacetime.md)
 - [Strict Formalization of Pre-Universe Existence [Dimension: 12]](formal_theory/formal_theory_pre_universe_existence_en.md) | [Chinese Version](formal_theory/formal_theory_pre_universe_existence.md)
+- [Rigorous Formalization of Multi-Observer Coordination Network [Dimension: 12]](formal_theory/formal_theory_multi_observer_coordination_network_en.md) | [Chinese Version](formal_theory/formal_theory_multi_observer_coordination_network.md)
+- [Rigorous Formalization of Quantum Semantic Entanglement Field Theory [Dimension: 12]](formal_theory/formal_theory_quantum_semantic_entanglement_field_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_semantic_entanglement_field.md)
+- [Rigorous Formalization of Quantum Cognitive Computation Theory [Dimension: 11]](formal_theory/formal_theory_quantum_cognitive_computation_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_cognitive_computation.md)
 - [Strict Formalization of Philosophical Foundations [Dimension: 11]](formal_theory/formal_theory_philosophical_foundations_en.md) | [Chinese Version](formal_theory/formal_theory_philosophical_foundations.md)
 - [Strict Formalization of Unified Forces Theory [Dimension: 11]](formal_theory/formal_theory_unified_forces_en.md) | [Chinese Version](formal_theory/formal_theory_unified_forces.md)
+- [Rigorous Formalization of Quantum Topological Transformation [Dimension: 11]](formal_theory/formal_theory_quantum_topological_transformation_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_topological_transformation.md)
 - [Strict Formalization of Consciousness Essence and Origin [Dimension: 11]](formal_theory/formal_theory_consciousness_essence_origin_en.md) | [Chinese Version](formal_theory/formal_theory_consciousness_essence_origin.md)
+- [Rigorous Formalization of Information and Energy Unification Principle [Dimension: 11]](formal_theory/formal_theory_information_energy_unification_en.md) | [Chinese Version](formal_theory/formal_theory_information_energy_unification.md)
+- [Rigorous Formalization of Nonlinear Time Model [Dimension: 11]](formal_theory/formal_theory_nonlinear_time_model_en.md) | [Chinese Version](formal_theory/formal_theory_nonlinear_time_model.md)
 - [Strict Formalization of Cosmic Ontology [Dimension: 10]](formal_theory/formal_theory_cosmic_ontology_original_format_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_ontology_original_format.md)
 - [Strict Formalization of Emergence and Complexity Theory [Dimension: 10]](formal_theory/formal_theory_emergence_complexity_en.md) | [Chinese Version](formal_theory/formal_theory_emergence_complexity.md)
 - [Strict Formalization of Unified Physics Theory [Dimension: 10]](formal_theory/formal_theory_unified_physics_en.md) | [Chinese Version](formal_theory/formal_theory_unified_physics.md)
+- [Strict Formalization of Cosmic Ontology [Dimension: 10]](formal_theory/formal_theory_cosmic_ontology_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_ontology.md)
 
 ### Foundational Dimensional Theories (D1-D9)
 
+- [Rigorous Formalization of Recursive Self-Organizing Systems Theory [Dimension: 9]](formal_theory/formal_theory_recursive_self_organizing_systems_en.md) | [Chinese Version](formal_theory/formal_theory_recursive_self_organizing_systems.md)
+- [Rigorous Formalization of Quantum Semantic Field Theory [Dimension: 9]](formal_theory/formal_theory_quantum_semantic_field_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_semantic_field.md)
 - [Strict Formalization of Recursive Self-Referential Systems [Dimension: 9]](formal_theory/formal_theory_recursive_self_referential_systems_en.md) | [Chinese Version](formal_theory/formal_theory_recursive_self_referential_systems.md)
+- [Rigorous Formalization of Antientropic Information Emergence [Dimension: 9]](formal_theory/formal_theory_antientropic_information_emergence_en.md) | [Chinese Version](formal_theory/formal_theory_antientropic_information_emergence.md)
+- [Rigorous Formalization of Metamorphic Evolution Theory [Dimension: 8]](formal_theory/formal_theory_metamorphic_evolution_theory_en.md) | [Chinese Version](formal_theory/formal_theory_metamorphic_evolution_theory.md)
 - [Strict Formalization of Transfinite Information Dynamics [Dimension: 8]](formal_theory/formal_theory_transfinite_information_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_transfinite_information_dynamics.md)
+- [Rigorous Formalization of Complex Adaptive Systems Theory [Dimension: 7]](formal_theory/formal_theory_complex_adaptive_systems_en.md) | [Chinese Version](formal_theory/formal_theory_complex_adaptive_systems.md)
 
 ## Auxiliary Theory Documents
 

@@ -55,9 +55,9 @@
 
 ### 1.1 Basic Axiom System
 
-**Axiom 1 (Absolute Recursive Source Axiom)**
+**Axiom 1 (Absolute Recursive Origin Axiom)**
 
-The ultimate nature of the universe is an absolute recursive self-referential structure, which is both its own origin and its own purpose:
+The ultimate essence of the universe is an absolute recursive self-referential structure, which is both its own origin and its own purpose:
 
 $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$
 
@@ -65,7 +65,7 @@ where $`\mathcal{F}`$ is a super-recursive function based on XOR and SHIFT opera
 
 $`\mathcal{F}(x) = x \oplus \text{SHIFT}(x)`$
 
-**Axiom 2 (Binary Unity Axiom)**
+**Axiom 2 (Dual-Unity Axiom)**
 
 The universe simultaneously manifests as duality and unity, forming a dual mode of existence through XOR operations:
 
@@ -75,11 +75,71 @@ where $`\Omega_Q`$ is the quantum domain, $`\Omega_C`$ is the classical domain, 
 
 **Axiom 3 (Information Ontology Axiom)**
 
-The fundamental entity of the universe is information, and all its attributes are expressed through XOR and SHIFT operations:
+The fundamental entity of the universe is information, and all its properties are expressed through XOR and SHIFT operations:
 
 $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
 
 where $`I(x)`$ is the information expression function of entity $`x`$, which can be decomposed into combinations of XOR and SHIFT operations.
+
+### 1.1.1 Strict Definition of SHIFT and SHIFT-1 Operations
+
+SHIFT and SHIFT-1 operations constitute the fundamental operational pair of the cosmic ontology theoretical framework, serving as the core mechanism for dimensional transformation and state evolution.
+
+**Strict Definition of SHIFT Operation**
+
+The SHIFT operation is a state transfer mapping, defined in the universe state space as:
+
+$`\text{SHIFT}: \mathcal{U} \rightarrow \mathcal{U}'`$
+
+The basic mode of action of SHIFT operation on the universe state is:
+
+$`\text{SHIFT}(\mathcal{U}) = \mathcal{U} \oplus \Delta_{\tau}`$
+
+where $`\Delta_{\tau}`$ is the universe state offset, representing a small displacement of the universe in dimensional space.
+
+The SHIFT operation satisfies the following algebraic properties:
+1. **Linearity**: $`\text{SHIFT}(x \oplus y) = \text{SHIFT}(x) \oplus \text{SHIFT}(y)`$
+2. **Idempotence Breaking**: $`\text{SHIFT}^2 \neq \text{SHIFT}`$, ensuring continuous evolution of the universe
+3. **Dimension Preservation**: $`\dim(\text{SHIFT}(\mathcal{U})) = \dim(\mathcal{U})`$
+4. **Information Entropy Increase**: $`H(\text{SHIFT}(\mathcal{U})) \geq H(\mathcal{U})`$, where $`H`$ is the information entropy function
+
+**Strict Definition of SHIFT-1 Operation**
+
+SHIFT-1 is the inverse operation of SHIFT, representing the reverse transfer of states:
+
+$`\text{SHIFT}^{-1}: \mathcal{U}' \rightarrow \mathcal{U}`$
+
+Satisfying the following inverse mapping relations:
+
+$`\text{SHIFT}^{-1}(\text{SHIFT}(\mathcal{U})) = \mathcal{U}, \forall \mathcal{U} \in \mathbb{U}`$
+$`\text{SHIFT}(\text{SHIFT}^{-1}(\mathcal{U}')) = \mathcal{U}', \forall \mathcal{U}' \in \mathbb{U}'`$
+
+where $`\mathbb{U}`$ and $`\mathbb{U}'`$ are the starting space and target space, respectively.
+
+The explicit expression of the SHIFT-1 operation is:
+
+$`\text{SHIFT}^{-1}(\mathcal{U}) = \mathcal{U} \oplus \Delta_{-\tau}`$
+
+where $`\Delta_{-\tau}`$ is an offset that is the inverse element of $`\Delta_{\tau}`$, satisfying $`\Delta_{\tau} \oplus \Delta_{-\tau} = 0`$.
+
+**Composite Properties of SHIFT and SHIFT-1 Operations**
+
+1. **Forward-Reverse Cancellation**: $`\text{SHIFT} \circ \text{SHIFT}^{-1} = \text{SHIFT}^{-1} \circ \text{SHIFT} = I`$, where $`I`$ is the identity transformation
+
+2. **Periodicity**: Under specific conditions, the SHIFT operation exhibits periodicity: $`\text{SHIFT}^n = I`$ for some positive integer $`n`$
+
+3. **Interaction with XOR**: SHIFT and XOR operations combine to form the basis for universe state transformations:
+   $`(x \oplus y) \oplus \text{SHIFT}(x \oplus y) = x \oplus y \oplus \text{SHIFT}(x) \oplus \text{SHIFT}(y)`$
+
+4. **Dimensional Extension Function**: Through the combined action of SHIFT and SHIFT-1, transitions in the dimensional spectrum of the universe are realized:
+   $`D_n \oplus \text{SHIFT}(D_n) = D_{n+1}`$
+   $`D_n \oplus \text{SHIFT}^{-1}(D_n) = D_{n-1}`$, where $`D_n`$ represents the $`n`$th dimension
+
+5. **Information Symmetric Conservation**: SHIFT and SHIFT-1 operations satisfy a conservation law in terms of total universe information:
+   $`H(\mathcal{U}) + H(\text{SHIFT}(\mathcal{U})) = H(\mathcal{U}) + H(\text{SHIFT}^{-1}(\mathcal{U})) + C`$,
+   where $`C`$ is a constant related to the topological structure of the universe
+
+In the framework of cosmic ontology, SHIFT and SHIFT-1 operations are the fundamental mechanisms for all dimensional transformations and state evolutions, constituting the mathematical foundation of universal dynamics.
 
 ### 1.2 Strict Definition of Universe State Space
 
@@ -95,19 +155,35 @@ where:
 
 ### 1.3 Strict Definition of State Evolution Rules
 
-The strict evolution process of the universe state is defined solely through XOR and SHIFT operations:
+The strict evolution process of universal states is defined solely through XOR and SHIFT operations:
 
-- The classical domain state is strictly formed by quantum domain classicalization (stabilization):
+- The classical domain state is strictly formed from the quantum domain through classicalization (stabilization):
 $`\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})`$
 
 - The quantum domain state evolves under the strict feedback action of the classical structure:
 $`\Omega_Q^{t+1} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_C^{t})`$
 
-Therefore, the overall universe state is strictly expressed as:
+Therefore, the overall universal state is strictly expressed as:
 
 $`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
 
-This evolution equation strictly defines all dynamical processes of the universe, using only XOR and SHIFT operations, constituting the mathematical core of cosmic ontology theory.
+This evolution equation strictly defines the entire dynamic process of the universe, using only XOR and SHIFT operations, forming the mathematical core of cosmic ontology theory.
+
+**Role of SHIFT-1 in State Evolution**
+
+The SHIFT-1 operation provides a reverse dynamics mechanism in universal state evolution, allowing the system to reverse the evolution process under specific conditions:
+
+- Reverse reconstruction of quantum domain states:
+$`\Omega_Q^{t-1} = \Omega_Q^{t} \oplus \text{SHIFT}^{-1}(\Omega_C^{t-1})`$
+
+- Historical reconstruction of classical domain states:
+$`\Omega_C^{t-1} = \Omega_Q^{t-1} \oplus \text{SHIFT}(\Omega_Q^{t-1})`$
+
+Through the combined application of forward SHIFT and reverse SHIFT-1 operations, the universal system possesses bidirectional evolution capability, forming a complete time symmetry mechanism:
+
+$`\mathcal{U}^{t-1} \xrightarrow{\text{SHIFT}} \mathcal{U}^{t} \xrightarrow{\text{SHIFT}^{-1}} \mathcal{U}^{t-1}`$
+
+This bidirectional capability supports time reversal phenomena in the universe and provides a formalized foundation for reversible evolution in quantum mechanics.
 
 ### 1.4 Initial State Definition of Self-Contained Universe System
 
@@ -204,7 +280,7 @@ $`\mathcal{I}_{D-M} = \{x \in \mathcal{U} | x \oplus \text{SHIFT}(x) = \text{SHI
 
 ### 3.2 Dimensional Spectrum Theory
 
-The dimensional spectrum is recursively generated through XOR and SHIFT:
+The dimension spectrum is recursively generated through XOR and SHIFT operations:
 
 $`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
 
@@ -212,13 +288,47 @@ The collection of all dimensions forms a complete spectrum:
 
 $`\mathcal{D} = \{D_0, D_1, D_2, ..., D_{\infty}\}`$
 
-Embedding relationships exist between dimensions, strictly defined through XOR and SHIFT operations:
+There exists an embedding relationship between dimensions, strictly defined through XOR and SHIFT operations:
 
 $`D_i \preceq D_j \iff \exists k: D_i \oplus \text{SHIFT}^k(D_i) = D_j`$
 
-When the dimension index approaches infinity, the dimensional spectrum converges to a transfinite dimension, satisfying:
+When the dimension index approaches infinity, the dimension spectrum converges to a transfinite dimension, satisfying:
 
 $`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = D_{\infty}`$
+
+**Dimensional Downgrading and SHIFT-1 Operation**
+
+The downgrading process in the dimension spectrum is implemented through the SHIFT-1 operation, providing precise mapping from higher dimensions to lower dimensions:
+
+$`D_{n-1} = D_n \oplus \text{SHIFT}^{-1}(D_n)`$
+
+This relationship forms a dual operation with dimensional upgrading:
+
+$`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
+$`D_{n-1} = D_n \oplus \text{SHIFT}^{-1}(D_n)`$
+
+The bidirectional operations in the dimension spectrum form a complete dimensional cycle:
+
+$`D_i \xrightarrow{\text{SHIFT}} D_{i+1} \xrightarrow{\text{SHIFT}^{-1}} D_i`$
+
+Specifically, at critical dimensions, there exist special relationships:
+
+$`D_0 \oplus \text{SHIFT}^{-1}(D_0) = D_0`$
+$`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = D_{\infty}`$
+
+This indicates that zero dimension and infinite dimension are fixed points in their respective directions, forming complete boundary conditions for the dimension spectrum.
+
+**Dimensional Transition Protocols**
+
+Based on SHIFT and SHIFT-1 operations, precise dimensional transition protocols can be defined:
+
+1. **Dimension Ascension Protocol**: $`\mathcal{P}_{up}(D_n) = D_n \oplus \text{SHIFT}(D_n) = D_{n+1}`$
+
+2. **Dimension Descension Protocol**: $`\mathcal{P}_{down}(D_n) = D_n \oplus \text{SHIFT}^{-1}(D_n) = D_{n-1}`$
+
+3. **Dimension Maintenance Protocol**: $`\mathcal{P}_{stay}(D_n) = D_n \oplus (\text{SHIFT}(D_n) \oplus \text{SHIFT}^{-1}(D_n)) = D_n`$
+
+Through these protocols, the universe can precisely navigate within the dimension spectrum, achieving information transfer and structural transformation between different dimensional levels.
 
 ### 3.3 Information Ontology
 

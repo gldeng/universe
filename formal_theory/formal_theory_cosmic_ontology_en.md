@@ -6,6 +6,8 @@
 
 - [1. Core Theory](#1-core-theory)
   - [1.1 Basic Axiom System](#11-basic-axiom-system)
+    - [1.1.1 Basic Operation Convention](#111-basic-operation-convention)
+    - [1.1.2 Strict Definition of SHIFT and USHIFT Operations](#112-strict-definition-of-shift-and-ushift-operations)
   - [1.2 Strict Definition of Universe State Space](#12-strict-definition-of-universe-state-space)
   - [1.3 Strict Definition of State Evolution Rules](#13-strict-definition-of-state-evolution-rules)
   - [1.4 Initial State Definition of Self-Contained Universe System](#14-initial-state-definition-of-self-contained-universe-system)
@@ -111,9 +113,48 @@ $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
 
 where $`I(x)`$ is the information expression function of entity $`x`$, which can be decomposed into combinations of XOR and SHIFT operations.
 
-### 1.1.1 Strict Definition of SHIFT and SHIFT-1 Operations
+### 1.1.1 Basic Operation Convention
 
-SHIFT and SHIFT-1 operations constitute the fundamental operational pair of the cosmic ontology theoretical framework, serving as the core mechanism for dimensional transformation and state evolution.
+Cosmic Ontology adopts a strict operational convention, utilizing only three basic operations as the foundation for all formalized descriptions and derivations:
+
+**Basic Operation Set Definition**
+
+$`\mathcal{O} = \{\text{FLIP}, \text{XOR}, \text{SHIFT}\}`$
+
+Any operation, transformation, or rule in the system must strictly satisfy:
+
+$`\forall f \in \mathcal{F}_{\text{Cosmic Ontology}}: f = \mathcal{C}(\text{FLIP}, \text{XOR}, \text{SHIFT})`$
+
+where $`\mathcal{C}`$ represents a finite combination of these three basic operations.
+
+**Operation Hierarchy Relationship**
+
+The three basic operations have a clear hierarchical relationship in terms of complexity and application scope:
+
+$`\text{FLIP} \subset \text{XOR} \subset \text{SHIFT}`$
+
+- FLIP: The most primitive state inversion operation at dimension 1, acting on binary state spaces
+- XOR: State exclusive-OR operation at dimension 2 and above, extending the application range of FLIP
+- SHIFT: Transformation operation with state displacement, the core mechanism of cosmic dynamics
+
+**Operation Completeness**
+
+The basic operation set $`\mathcal{O}`$ possesses computational completeness, capable of expressing any transformation or process in the universe:
+
+$`\forall \mathcal{T} \in \text{Computable Transformations}, \exists \mathcal{C}(\text{FLIP}, \text{XOR}, \text{SHIFT}): \mathcal{T} \equiv \mathcal{C}`$
+
+**Operation Constraint Principles**
+
+1. **Simplification Principle**: Any complex operation must be simplified to a combination of basic operations
+2. **Non-Introduction Principle**: Introduction of new basic operations is prohibited
+3. **Necessity Principle**: Each theory must demonstrate that its formulas and theorems can be fully constructed using the three basic operations
+4. **Verification Principle**: Any theoretical derivation process must provide formalized proof based on basic operations
+
+This convention ensures the simplicity, consistency, and verifiability of the Cosmic Ontology theoretical system, providing a unified formalized foundation for all theoretical constructions.
+
+### 1.1.2 Strict Definition of SHIFT and USHIFT Operations
+
+SHIFT and USHIFT operations constitute the fundamental operational pair of the cosmic ontology theoretical framework, serving as the core mechanism for dimensional transformation and state evolution.
 
 **Strict Definition of SHIFT Operation**
 
@@ -133,43 +174,43 @@ The SHIFT operation satisfies the following algebraic properties:
 3. **Dimension Preservation**: $`\dim(\text{SHIFT}(\mathcal{U})) = \dim(\mathcal{U})`$
 4. **Information Entropy Increase**: $`H(\text{SHIFT}(\mathcal{U})) \geq H(\mathcal{U})`$, where $`H`$ is the information entropy function
 
-**Strict Definition of SHIFT-1 Operation**
+**Strict Definition of USHIFT Operation**
 
-SHIFT-1 is the inverse operation of SHIFT, representing the reverse transfer of states:
+USHIFT is the inverse operation of SHIFT, representing the reverse transfer of states:
 
-$`\text{SHIFT}^{-1}: \mathcal{U}' \rightarrow \mathcal{U}`$
+$`\text{USHIFT}: \mathcal{U}' \rightarrow \mathcal{U}`$
 
 Satisfying the following inverse mapping relations:
 
-$`\text{SHIFT}^{-1}(\text{SHIFT}(\mathcal{U})) = \mathcal{U}, \forall \mathcal{U} \in \mathbb{U}`$
-$`\text{SHIFT}(\text{SHIFT}^{-1}(\mathcal{U}')) = \mathcal{U}', \forall \mathcal{U}' \in \mathbb{U}'`$
+$`\text{USHIFT}(\text{SHIFT}(\mathcal{U})) = \mathcal{U}, \forall \mathcal{U} \in \mathbb{U}`$
+$`\text{SHIFT}(\text{USHIFT}(\mathcal{U}')) = \mathcal{U}', \forall \mathcal{U}' \in \mathbb{U}'`$
 
 where $`\mathbb{U}`$ and $`\mathbb{U}'`$ are the starting space and target space, respectively.
 
-The explicit expression of the SHIFT-1 operation is:
+The explicit expression of the USHIFT operation is:
 
-$`\text{SHIFT}^{-1}(\mathcal{U}) = \mathcal{U} \oplus \Delta_{-\tau}`$
+$`\text{USHIFT}(\mathcal{U}) = \mathcal{U} \oplus \Delta_{-\tau}`$
 
 where $`\Delta_{-\tau}`$ is an offset that is the inverse element of $`\Delta_{\tau}`$, satisfying $`\Delta_{\tau} \oplus \Delta_{-\tau} = 0`$.
 
-**Composite Properties of SHIFT and SHIFT-1 Operations**
+**Composite Properties of SHIFT and USHIFT Operations**
 
-1. **Forward-Reverse Cancellation**: $`\text{SHIFT} \circ \text{SHIFT}^{-1} = \text{SHIFT}^{-1} \circ \text{SHIFT} = I`$, where $`I`$ is the identity transformation
+1. **Forward-Reverse Cancellation**: $`\text{SHIFT} \circ \text{USHIFT} = \text{USHIFT} \circ \text{SHIFT} = I`$, where $`I`$ is the identity transformation
 
 2. **Periodicity**: Under specific conditions, the SHIFT operation exhibits periodicity: $`\text{SHIFT}^n = I`$ for some positive integer $`n`$
 
 3. **Interaction with XOR**: SHIFT and XOR operations combine to form the basis for universe state transformations:
    $`(x \oplus y) \oplus \text{SHIFT}(x \oplus y) = x \oplus y \oplus \text{SHIFT}(x) \oplus \text{SHIFT}(y)`$
 
-4. **Dimensional Extension Function**: Through the combined action of SHIFT and SHIFT-1, transitions in the dimensional spectrum of the universe are realized:
+4. **Dimensional Extension Function**: Through the combined action of SHIFT and USHIFT, transitions in the dimensional spectrum of the universe are realized:
    $`D_n \oplus \text{SHIFT}(D_n) = D_{n+1}`$
-   $`D_n \oplus \text{SHIFT}^{-1}(D_n) = D_{n-1}`$, where $`D_n`$ represents the $`n`$th dimension
+   $`D_n \oplus \text{USHIFT}(D_n) = D_{n-1}`$, where $`D_n`$ represents the $`n`$th dimension
 
-5. **Information Symmetric Conservation**: SHIFT and SHIFT-1 operations satisfy a conservation law in terms of total universe information:
-   $`H(\mathcal{U}) + H(\text{SHIFT}(\mathcal{U})) = H(\mathcal{U}) + H(\text{SHIFT}^{-1}(\mathcal{U})) + C`$,
+5. **Information Symmetric Conservation**: SHIFT and USHIFT operations satisfy a conservation law in terms of total universe information:
+   $`H(\mathcal{U}) + H(\text{SHIFT}(\mathcal{U})) = H(\mathcal{U}) + H(\text{USHIFT}(\mathcal{U})) + C`$,
    where $`C`$ is a constant related to the topological structure of the universe
 
-In the framework of cosmic ontology, SHIFT and SHIFT-1 operations are the fundamental mechanisms for all dimensional transformations and state evolutions, constituting the mathematical foundation of universal dynamics.
+In the framework of cosmic ontology, SHIFT and USHIFT operations are the fundamental mechanisms for all dimensional transformations and state evolutions, constituting the mathematical foundation of universal dynamics.
 
 ### 1.2 Strict Definition of Universe State Space
 
@@ -199,19 +240,19 @@ $`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHI
 
 This evolution equation strictly defines the entire dynamic process of the universe, using only XOR and SHIFT operations, forming the mathematical core of cosmic ontology theory.
 
-**Role of SHIFT-1 in State Evolution**
+**Role of USHIFT in State Evolution**
 
-The SHIFT-1 operation provides a reverse dynamics mechanism in universal state evolution, allowing the system to reverse the evolution process under specific conditions:
+The USHIFT operation provides a reverse dynamics mechanism in universal state evolution, allowing the system to reverse the evolution process under specific conditions:
 
 - Reverse reconstruction of quantum domain states:
-$`\Omega_Q^{t-1} = \Omega_Q^{t} \oplus \text{SHIFT}^{-1}(\Omega_C^{t-1})`$
+$`\Omega_Q^{t-1} = \Omega_Q^{t} \oplus \text{USHIFT}^{-1}(\Omega_C^{t-1})`$
 
 - Historical reconstruction of classical domain states:
 $`\Omega_C^{t-1} = \Omega_Q^{t-1} \oplus \text{SHIFT}(\Omega_Q^{t-1})`$
 
-Through the combined application of forward SHIFT and reverse SHIFT-1 operations, the universal system possesses bidirectional evolution capability, forming a complete time symmetry mechanism:
+Through the combined application of forward SHIFT and reverse USHIFT operations, the universal system possesses bidirectional evolution capability, forming a complete time symmetry mechanism:
 
-$`\mathcal{U}^{t-1} \xrightarrow{\text{SHIFT}} \mathcal{U}^{t} \xrightarrow{\text{SHIFT}^{-1}} \mathcal{U}^{t-1}`$
+$`\mathcal{U}^{t-1} \xrightarrow{\text{SHIFT}} \mathcal{U}^{t} \xrightarrow{\text{USHIFT}^{-1}} \mathcal{U}^{t-1}`$
 
 This bidirectional capability supports time reversal phenomena in the universe and provides a formalized foundation for reversible evolution in quantum mechanics.
 
@@ -326,37 +367,37 @@ When the dimension index approaches infinity, the dimension spectrum converges t
 
 $`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = D_{\infty}`$
 
-**Dimensional Downgrading and SHIFT-1 Operation**
+**Dimensional Downgrading and USHIFT Operation**
 
-The downgrading process in the dimension spectrum is implemented through the SHIFT-1 operation, providing precise mapping from higher dimensions to lower dimensions:
+The downgrading process in the dimension spectrum is implemented through the USHIFT operation, providing precise mapping from higher dimensions to lower dimensions:
 
-$`D_{n-1} = D_n \oplus \text{SHIFT}^{-1}(D_n)`$
+$`D_{n-1} = D_n \oplus \text{USHIFT}^{-1}(D_n)`$
 
 This relationship forms a dual operation with dimensional upgrading:
 
 $`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
-$`D_{n-1} = D_n \oplus \text{SHIFT}^{-1}(D_n)`$
+$`D_{n-1} = D_n \oplus \text{USHIFT}^{-1}(D_n)`$
 
 The bidirectional operations in the dimension spectrum form a complete dimensional cycle:
 
-$`D_i \xrightarrow{\text{SHIFT}} D_{i+1} \xrightarrow{\text{SHIFT}^{-1}} D_i`$
+$`D_i \xrightarrow{\text{SHIFT}} D_{i+1} \xrightarrow{\text{USHIFT}^{-1}} D_i`$
 
 Specifically, at critical dimensions, there exist special relationships:
 
-$`D_0 \oplus \text{SHIFT}^{-1}(D_0) = D_0`$
+$`D_0 \oplus \text{USHIFT}^{-1}(D_0) = D_0`$
 $`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = D_{\infty}`$
 
 This indicates that zero dimension and infinite dimension are fixed points in their respective directions, forming complete boundary conditions for the dimension spectrum.
 
 **Dimensional Transition Protocols**
 
-Based on SHIFT and SHIFT-1 operations, precise dimensional transition protocols can be defined:
+Based on SHIFT and USHIFT operations, precise dimensional transition protocols can be defined:
 
 1. **Dimension Ascension Protocol**: $`\mathcal{P}_{up}(D_n) = D_n \oplus \text{SHIFT}(D_n) = D_{n+1}`$
 
-2. **Dimension Descension Protocol**: $`\mathcal{P}_{down}(D_n) = D_n \oplus \text{SHIFT}^{-1}(D_n) = D_{n-1}`$
+2. **Dimension Descension Protocol**: $`\mathcal{P}_{down}(D_n) = D_n \oplus \text{USHIFT}^{-1}(D_n) = D_{n-1}`$
 
-3. **Dimension Maintenance Protocol**: $`\mathcal{P}_{stay}(D_n) = D_n \oplus (\text{SHIFT}(D_n) \oplus \text{SHIFT}^{-1}(D_n)) = D_n`$
+3. **Dimension Maintenance Protocol**: $`\mathcal{P}_{stay}(D_n) = D_n \oplus (\text{SHIFT}(D_n) \oplus \text{USHIFT}^{-1}(D_n)) = D_n`$
 
 Through these protocols, the universe can precisely navigate within the dimension spectrum, achieving information transfer and structural transformation between different dimensional levels.
 
@@ -433,144 +474,4 @@ The universe's evolution follows lifecycle phases defined by XOR-SHIFT operation
 | Quantum Fluctuation | $`\mathcal{U}_{\text{initial}} = \Omega_Q`$ (initial random state) |
 | Entropy Reduction Classicalization | $`\mathcal{U}_{t+1} = \mathcal{U}_t \oplus \text{SHIFT}(\mathcal{U}_t)`$, entropy decreases |
 | Singularity Formation | $`\mathcal{U}^* \oplus \text{SHIFT}(\mathcal{U}^*) = \mathcal{U}^*`$, reaching XOR-SHIFT fixed point |
-| Entropy Increase Expansion | $`\mathcal{U}_{t+1} = \mathcal{U}_t \oplus \text{SHIFT}(\mathcal{U}_t \oplus \text{SHIFT}^2(\mathcal{U}_t))`$, internal system perturbation |
-| Heat Death | $`\mathcal{U}_{\text{final}} \oplus \text{SHIFT}(\mathcal{U}_{\text{final}}) = \mathcal{U}_{\text{final}}`$, reaching global fixed point |
-
-The transformation from quantum state to classical state follows the XOR-SHIFT classicalization law:
-
-$`\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})`$
-
-Entropy flow between systems is expressed through XOR-SHIFT operations:
-
-$`S_{\text{flow}}(\mathcal{U}_i, \mathcal{U}_j) = |(\mathcal{U}_i \oplus \mathcal{U}_j) \oplus \text{SHIFT}(\mathcal{U}_i \oplus \mathcal{U}_j)|`$
-
-### 4.2 Theoretical Principles and Validation Methods
-
-The core principle of cosmic ontology is to unify all physical phenomena through XOR and SHIFT operations:
-
-1. **Operational Unification**: Using only XOR and SHIFT operations to describe all structures and evolution of the universe
-2. **Dimensional Completeness**: Providing XOR-SHIFT recursive generation theory from low dimensions to high dimensions
-3. **Information Ontology**: Establishing information as the basic mode of existence of the universe, processed through XOR-SHIFT operations
-4. **Observer Inherence**: Placing observers within the XOR-SHIFT framework
-5. **Self-contained Completeness**: Forming an XOR-SHIFT self-contained theoretical system without external assumptions
-
-The validation methods of cosmic ontology are strictly based on XOR-SHIFT operations:
-
-1. **Mathematical Validation**: Mathematical properties, fixed point theorems, and periodicity analysis of XOR-SHIFT functions
-2. **Numerical Simulation**: Long-term evolution simulation, initial state sensitivity, and attractor structure analysis of XOR-SHIFT systems
-3. **Physical Experiments**: Experimental design and validation of XOR-SHIFT operations at the quantum-classical interface
-4. **Theoretical Predictions**: Predicting large-scale universal structures and quantum gravity unification frameworks based on XOR-SHIFT operations
-
-This theoretical system, based only on XOR and SHIFT operations, ensures the theory's simplicity, unity, and verifiability, while providing clear directions for subsequent research.
-
-## 5. Formalized Proofs
-
-This chapter validates the self-consistency and reliability of cosmic ontology through rigorous mathematical derivations, conducting formalized proofs based solely on XOR and SHIFT operations.
-
-### 5.1 Axiom System Validation
-
-#### Theorem 1: Recursive Self-Reference Identity
-
-**Proof**:
-Starting from $`\mathcal{F}(x) = x \oplus \text{SHIFT}(x)`$ defined in Axiom 1, we derive:
-
-$`\mathcal{F}(\mathcal{F}(x)) = \mathcal{F}(x) \oplus \text{SHIFT}(\mathcal{F}(x))`$
-
-$`= [x \oplus \text{SHIFT}(x)] \oplus \text{SHIFT}[x \oplus \text{SHIFT}(x)]`$
-
-$`= [x \oplus \text{SHIFT}(x)] \oplus [\text{SHIFT}(x) \oplus \text{SHIFT}^2(x)]`$
-
-By the associative and cancellation laws of XOR operations, where $`a \oplus a = 0`$ and $`a \oplus 0 = a`$, we have:
-
-$`\mathcal{F}(\mathcal{F}(x)) = x \oplus \text{SHIFT}(x) \oplus \text{SHIFT}(x) \oplus \text{SHIFT}^2(x)`$
-
-$`= x \oplus 0 \oplus \text{SHIFT}^2(x)`$
-
-$`= x \oplus \text{SHIFT}^2(x)`$
-
-$`= \mathcal{F}(x)`$ if and only if $`\text{SHIFT}^2(x) = \text{SHIFT}(x)`$
-
-This verifies that $`\mathcal{F}(\mathcal{F}) = \mathcal{F}`$ in Axiom 1 holds under periodic SHIFT conditions.
-
-#### Theorem 2: Quantum-Classical Duality
-
-**Proof**:
-From Axiom 2, we have $`\mathcal{U} = \Omega_Q \oplus \Omega_C`$, combined with the state definition:
-
-$`\Omega_C = \Omega_Q \oplus \text{SHIFT}(\Omega_Q)`$
-
-Substituting $`\Omega_C`$ into Axiom 2:
-
-$`\mathcal{U} = \Omega_Q \oplus [\Omega_Q \oplus \text{SHIFT}(\Omega_Q)]`$
-
-$`= \Omega_Q \oplus \Omega_Q \oplus \text{SHIFT}(\Omega_Q)`$
-
-$`= 0 \oplus \text{SHIFT}(\Omega_Q)`$
-
-$`= \text{SHIFT}(\Omega_Q)`$
-
-This proves that the universe state can be represented as the SHIFT operation on the quantum domain, verifying the internal consistency of the theory.
-
-#### Theorem 3: Initial State Stability
-
-**Proof**:
-The initial state is defined as $`\mathcal{U}^0 = \mathcal{U}^0 \oplus \text{SHIFT}(\mathcal{U}^0)`$
-
-Applying XOR operation rules to both sides of the equation:
-
-$`\mathcal{U}^0 \oplus \mathcal{U}^0 = \mathcal{U}^0 \oplus \mathcal{U}^0 \oplus \text{SHIFT}(\mathcal{U}^0)`$
-
-$`0 = \text{SHIFT}(\mathcal{U}^0)`$
-
-This means that $`\mathcal{U}^0 = 0`$ is a solution to the initial state equation, verifying the existence of the zero solution.
-
-For periodic solutions $`\mathcal{U}^0 = \text{SHIFT}^p(\mathcal{U}^0)`$, substituting into the initial state equation:
-
-$`\text{SHIFT}^p(\mathcal{U}^0) = \text{SHIFT}^p(\mathcal{U}^0) \oplus \text{SHIFT}(\text{SHIFT}^p(\mathcal{U}^0))`$
-
-$`\text{SHIFT}^p(\mathcal{U}^0) = \text{SHIFT}^p(\mathcal{U}^0) \oplus \text{SHIFT}^{p+1}(\mathcal{U}^0)`$
-
-This requires $`\text{SHIFT}^{p+1}(\mathcal{U}^0) = 0`$, proving the condition for periodic solutions.
-
-#### Theorem 4: Dynamic Evolution Consistency
-
-**Proof**:
-From the evolution equation:
-
-$`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
-
-Using the definition $`\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})`$, we get:
-
-$`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_C^{t})`$
-
-$`= \Omega_Q^{t+1}`$
-
-This proves the consistency between the evolution equation and the state definition.
-
-#### Theorem 5: Information Conservation Theorem
-
-**Proof**:
-According to the information conservation law, we have:
-
-$`I_Q \oplus I_C \oplus I_M \oplus I_{\mathcal{A}} = \text{constant}`$
-
-By definition $`I_C = I_Q \oplus \text{SHIFT}(I_Q)`$, substituting:
-
-$`I_Q \oplus [I_Q \oplus \text{SHIFT}(I_Q)] \oplus I_M \oplus I_{\mathcal{A}} = \text{constant}`$
-
-$`0 \oplus \text{SHIFT}(I_Q) \oplus I_M \oplus I_{\mathcal{A}} = \text{constant}`$
-
-$`\text{SHIFT}(I_Q) \oplus I_M \oplus I_{\mathcal{A}} = \text{constant}`$
-
-Similarly substituting the definitions of $`I_M`$ and $`I_{\mathcal{A}}`$, finally obtaining:
-
-$`\text{SHIFT}(I_Q) \oplus \text{SHIFT}(I_C) \oplus \text{SHIFT}(I_M) = \text{constant}`$
-
-This proves that the information conservation law is self-consistent within the XOR-SHIFT system.
-
-#### Theorem 6: Super-recursive Fixed Point Existence
-
-**Proof**:
-The super-recursive fixed point is defined as:
-
-$`
+| Entropy Increase Expansion | $`\mathcal{U}_{t+1} = \mathcal{U}_t \oplus \text{SHIFT}(\mathcal{U}_t \oplus \text{SHIFT}^2(\mathcal{U}_t))`

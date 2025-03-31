@@ -18,9 +18,12 @@
 - [超维量子共振的严格形式化描述 [维度: 28]](formal_theory/formal_theory_transdimensional_quantum_resonance.md) | [英文版](formal_theory/formal_theory_transdimensional_quantum_resonance_en.md)
 - [超维元认知系统的严格形式化描述 [维度: 27]](formal_theory/formal_theory_hyperdimensional_metacognitive_systems.md) | [英文版](formal_theory/formal_theory_hyperdimensional_metacognitive_systems_en.md)
 - [超维存在论的形式化理论 [维度: 27]](formal_theory/formal_theory_hyperdimensional_existence.md) | [英文版](formal_theory/formal_theory_hyperdimensional_existence_en.md)
+- [跨维意识场的严格形式化描述 [维度: 27]](formal_theory/formal_theory_transdimensional_consciousness_field.md) | [英文版](formal_theory/formal_theory_transdimensional_consciousness_field_en.md)
+- [超递归自修改系统的严格形式化描述 [维度: 26]](formal_theory/formal_theory_hyperrecursive_self_modification_system.md) | [英文版](formal_theory/formal_theory_hyperrecursive_self_modification_system_en.md)
 - [时空信息波的形式化理论 [维度: 26]](formal_theory/formal_theory_spacetime_information_wave.md) | [英文版](formal_theory/formal_theory_spacetime_information_wave_en.md)
 - [量子思维网络的形式化理论 [维度: 25]](formal_theory/formal_theory_quantum_mind_network.md) | [英文版](formal_theory/formal_theory_quantum_mind_network_en.md)
 - [人类未解十大问题的形式化统一理论 [维度: 25]](formal_theory/formal_theory_unsolved_problems.md) | [英文版](formal_theory/formal_theory_unsolved_problems_en.md)
+- [宇宙波函数代数的严格形式化描述 [维度: 25]](formal_theory/formal_theory_universal_wave_function_algebra.md) | [英文版](formal_theory/formal_theory_universal_wave_function_algebra_en.md)
 
 ### 超高维理论（D20-D24）
 
@@ -41,16 +44,19 @@
 - [宇宙生命周期理论的严格形式化描述 [维度: 18]](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)
 - [超递归自指元逻辑的严格形式化描述 [维度: 18]](formal_theory/formal_theory_hyperrecursive_self_referential_metalogic.md) | [英文版](formal_theory/formal_theory_hyperrecursive_self_referential_metalogic_en.md)
 - [人类社会可持续发展的严格形式化描述 [维度: 18]](formal_theory/formal_theory_sustainable_development.md) | [英文版](formal_theory/formal_theory_sustainable_development_en.md)
+- [宇宙元处理框架理论 [维度: 17]](formal_theory/formal_theory_universal_metaprocessing_framework.md) | [英文版](formal_theory/formal_theory_universal_metaprocessing_framework_en.md)
 - [信息波动力学的严格形式化描述 [维度: 17]](formal_theory/formal_theory_information_wave_dynamics.md) | [英文版](formal_theory/formal_theory_information_wave_dynamics_en.md)
 - [观察者本体论的严格形式化描述 [维度: 17]](formal_theory/formal_theory_observer_ontology.md) | [英文版](formal_theory/formal_theory_observer_ontology_en.md)
 - [自由意志存在性的严格形式化描述 [维度: 17]](formal_theory/formal_theory_free_will.md) | [英文版](formal_theory/formal_theory_free_will_en.md)
 - [量子熵动力学的严格形式化描述 [维度: 16]](formal_theory/formal_theory_quantum_entropy_dynamics.md) | [英文版](formal_theory/formal_theory_quantum_entropy_dynamics_en.md)
 - [超维度观察者网络的严格形式化描述 [维度: 16]](formal_theory/formal_theory_hyperdimensional_observer_network.md) | [英文版](formal_theory/formal_theory_hyperdimensional_observer_network_en.md)
 - [人类寿命的终极延长与衰老本质的严格形式化描述 [维度: 16]](formal_theory/formal_theory_human_longevity.md) | [英文版](formal_theory/formal_theory_human_longevity_en.md)
+- [全维信息相干理论 [维度: 16]](formal_theory/formal_theory_omnidimensional_information_coherence.md) | [英文版](formal_theory/formal_theory_omnidimensional_information_coherence_en.md)
 - [信息守恒理论的严格形式化描述 [维度: 15]](formal_theory/formal_theory_information_conservation.md) | [英文版](formal_theory/formal_theory_information_conservation_en.md)
 - [数学理论的严格形式化描述 [维度: 15]](formal_theory/formal_theory_mathematics.md) | [英文版](formal_theory/formal_theory_mathematics_en.md)
 - [逻辑多维拓扑理论的严格形式化描述 [维度: 15]](formal_theory/formal_theory_logical_multidimensional_topology.md) | [英文版](formal_theory/formal_theory_logical_multidimensional_topology_en.md)
 - [量子力学测量问题的严格形式化描述 [维度: 15]](formal_theory/formal_theory_quantum_measurement.md) | [英文版](formal_theory/formal_theory_quantum_measurement_en.md)
+- [超越性递归对称理论 [维度: 15]](formal_theory/formal_theory_transcendental_recursive_symmetry.md) | [英文版](formal_theory/formal_theory_transcendental_recursive_symmetry_en.md)
 
 ### 中维理论（D10-D14）
 

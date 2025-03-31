@@ -22,12 +22,12 @@ def get_git_timestamp(file_path: str) -> int:
 
 def extract_version(content: str) -> float:
     # 查找中文版本号
-    cn_match = re.search(r'版本(\d+\.\d+)', content)
+    cn_match = re.search(r'v(\d+\.\d+)', content)
     if cn_match:
         return float(cn_match.group(1))
     
     # 查找英文版本号 (考虑 Version 和数字之间可能有空格)
-    en_match = re.search(r'Version\s*(\d+\.\d+)', content)
+    en_match = re.search(r'v\s*(\d+\.\d+)', content)
     if en_match:
         return float(en_match.group(1))
     
@@ -79,14 +79,9 @@ def check_file(cn_file: str) -> Dict:
     
     # 如果英文文件不存在
     if not os.path.exists(en_file):
-        # 检查中文文件是否已经是双语的
-        if is_bilingual(cn_content):
-            result["是否要更新"] = False
-            return result
-        else:
-            result["是否要更新"] = True
-            result["更新原因"] = "缺少英文版本"
-            return result
+        result["是否要更新"] = True
+        result["更新原因"] = "缺少英文版本"
+        return result
     
     # 读取英文文件内容
     try:
@@ -120,7 +115,6 @@ def main():
     stats = {
         "总文件数": 0,
         "需要更新数": 0,
-        "双语文件数": 0,
         "缺少英文版本数": 0,
         "无版本号文件数": 0
     }
@@ -142,9 +136,7 @@ def main():
                 if result["是否要更新"]:
                     results.append(result)  # 只添加需要更新的文件到结果列表
                     stats["需要更新数"] += 1
-                if not result["英文文件"] and not result["是否要更新"]:
-                    stats["双语文件数"] += 1
-                if not result["英文文件"] and result["是否要更新"]:
+                if not result["英文文件"]:
                     stats["缺少英文版本数"] += 1
     
     # 只输出需要更新的文件

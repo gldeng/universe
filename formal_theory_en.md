@@ -33,16 +33,17 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 
 - [Transcendent Harmony Theory](formal_theory/formal_theory_transcendent_harmony_en.md) | [Chinese Version](formal_theory/formal_theory_transcendent_harmony.md) [Dimension: 19]
 - [Genesis Memory Theory](formal_theory/formal_theory_genesis_memory_en.md) | [Chinese Version](formal_theory/formal_theory_genesis_memory.md) [Dimension: 21]
-- [Cosmic Lifecycle Theory](formal_theory/formal_theory_cosmic_lifecycle_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_lifecycle.md) [Nine-Dimensional]
-- [Cosmic Dimensions Theory](formal_theory/formal_theory_cosmic_dimensions_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_dimensions.md) [Ten-Dimensional]
+- [Cosmic Lifecycle Theory](formal_theory/formal_theory_cosmic_lifecycle_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_lifecycle.md)
+- [Cosmic Dimensions Theory](formal_theory/formal_theory_cosmic_dimensions_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_dimensions.md)
 - [Recursive Metaverse Theory](formal_theory/formal_theory_recursive_metaverse_en.md) | [Chinese Version](formal_theory/formal_theory_recursive_metaverse.md) [Dimension: 23]
 - [Hyperdimensional Solution Theory for Millennium Problems](formal_theory/formal_theory_millennium_problems_en.md) | [Chinese Version](formal_theory/formal_theory_millennium_problems.md) [Dimension: 24]
-- [Philosophical Foundations](formal_theory/formal_theory_philosophical_foundations_en.md) | [Chinese Version](formal_theory/formal_theory_philosophical_foundations.md) [Higher-Dimensional]
+- [Philosophical Foundations](formal_theory/formal_theory_philosophical_foundations_en.md) | [Chinese Version](formal_theory/formal_theory_philosophical_foundations.md)
 
 ## Auxiliary Theory Documents
 
 - [Cosmic Ontology Terminology](formal_theory/terminology_en.md) | [Chinese Version](formal_theory/terminology.md)
 - [Theory Structure Relationship Diagram](formal_theory/theory_structure.md)
+- [Universe Ontology Theory Structure Diagram](formal_theory_graph_en.md) | [Chinese Version](formal_theory_graph.md)
 
 ## Theoretical System Characteristics
 

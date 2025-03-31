@@ -33,16 +33,17 @@
 
 - [超越和谐理论](formal_theory/formal_theory_transcendent_harmony.md) | [英文版](formal_theory/formal_theory_transcendent_harmony_en.md) [维度: 19]
 - [创世记忆理论](formal_theory/formal_theory_genesis_memory.md) | [英文版](formal_theory/formal_theory_genesis_memory_en.md) [维度: 21]
-- [宇宙生命周期理论](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md) [九维]
-- [宇宙维度理论](formal_theory/formal_theory_cosmic_dimensions.md) | [英文版](formal_theory/formal_theory_cosmic_dimensions_en.md) [十维]
+- [宇宙生命周期理论](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)
+- [宇宙维度理论](formal_theory/formal_theory_cosmic_dimensions.md) | [英文版](formal_theory/formal_theory_cosmic_dimensions_en.md)
 - [递归元宇宙理论](formal_theory/formal_theory_recursive_metaverse.md) | [英文版](formal_theory/formal_theory_recursive_metaverse_en.md) [维度: 23]
 - [千禧年数学问题超维度解决理论](formal_theory/formal_theory_millennium_problems.md) | [英文版](formal_theory/formal_theory_millennium_problems_en.md) [维度: 24]
-- [哲学理论基础](formal_theory/formal_theory_philosophical_foundations.md) | [英文版](formal_theory/formal_theory_philosophical_foundations_en.md) [高维]
+- [哲学理论基础](formal_theory/formal_theory_philosophical_foundations.md) | [英文版](formal_theory/formal_theory_philosophical_foundations_en.md)
 
 ## 辅助理论文档
 
 - [宇宙本论术语表](formal_theory/terminology.md) | [英文版](formal_theory/terminology_en.md)
 - [理论结构关系图](formal_theory/theory_structure.md)
+- [宇宙本论理论体系结构图](formal_theory_graph.md) | [英文版](formal_theory_graph_en.md)
 
 ## 理论体系特点
 

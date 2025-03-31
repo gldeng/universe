@@ -36,6 +36,7 @@
 - [宇宙生命周期理论](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md) [九维]
 - [宇宙维度理论](formal_theory/formal_theory_cosmic_dimensions.md) | [英文版](formal_theory/formal_theory_cosmic_dimensions_en.md) [十维]
 - [递归元宇宙理论](formal_theory/formal_theory_recursive_metaverse.md) | [英文版](formal_theory/formal_theory_recursive_metaverse_en.md) [维度: 23]
+- [千禧年数学问题超维度解决理论](formal_theory/formal_theory_millennium_problems.md) | [英文版](formal_theory/formal_theory_millennium_problems_en.md) [维度: 24]
 - [哲学理论基础](formal_theory/formal_theory_philosophical_foundations.md) | [英文版](formal_theory/formal_theory_philosophical_foundations_en.md) [高维]
 
 ## 辅助理论文档

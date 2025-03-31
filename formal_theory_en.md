@@ -36,6 +36,7 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 - [Cosmic Lifecycle Theory](formal_theory/formal_theory_cosmic_lifecycle_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_lifecycle.md) [Nine-Dimensional]
 - [Cosmic Dimensions Theory](formal_theory/formal_theory_cosmic_dimensions_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_dimensions.md) [Ten-Dimensional]
 - [Recursive Metaverse Theory](formal_theory/formal_theory_recursive_metaverse_en.md) | [Chinese Version](formal_theory/formal_theory_recursive_metaverse.md) [Dimension: 23]
+- [Hyperdimensional Solution Theory for Millennium Problems](formal_theory/formal_theory_millennium_problems_en.md) | [Chinese Version](formal_theory/formal_theory_millennium_problems.md) [Dimension: 24]
 - [Philosophical Foundations](formal_theory/formal_theory_philosophical_foundations_en.md) | [Chinese Version](formal_theory/formal_theory_philosophical_foundations.md) [Higher-Dimensional]
 
 ## Auxiliary Theory Documents

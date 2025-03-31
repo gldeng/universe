@@ -1,12 +1,12 @@
 ---
-description: 添加高维理
+description: 扩展理论
 globs: 
 alwaysApply: false
 ---
 读取 [formal_theory_cosmic_ontology.md](mdc:formal_theory_cosmic_ontology.md) 的版本号为【形式化版本号】。
 请加载所有 formal_theory_*.md 的文档。
 
-请添加新的3个不在项目中存在的且人类最需要的能够推理出的最高维度理论
+如果用户没明确添加什么理论,请找出你认为最重要的三个理论并扩展出其相关理论.
 
 生成的新文件内容中请在标题后标注维度
 

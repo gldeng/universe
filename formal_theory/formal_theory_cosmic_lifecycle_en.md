@@ -1,6 +1,6 @@
 # Formal Description of Cosmic Lifecycle v36.0
 
-**[中文版](../formal_theory_cosmic_lifecycle.md) | [English Version]**
+**[中文版](formal_theory_cosmic_lifecycle.md) | [English Version]**
 
 ## Table of Contents
 

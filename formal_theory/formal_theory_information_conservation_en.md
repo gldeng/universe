@@ -1,6 +1,6 @@
 # Formal Description of Information Conservation and Transformation v36.0
 
-**[中文版](../formal_theory_information_conservation.md) | [English Version]**
+**[中文版](formal_theory_information_conservation.md) | [English Version]**
 
 ## Table of Contents
 

@@ -1,6 +1,6 @@
 # 量子与经典域的统一解释的严格形式化描述 v36.0
 
-**[中文版] | [English Version](formal_theory/formal_theory_quantum_classical_unification_en.md)**
+**[中文版] | [English Version](formal_theory_quantum_classical_unification_en.md)**
 
 ## 目录
 

@@ -1,6 +1,6 @@
 # Cosmic Ontology Terminology v36.0
 
-**[中文版](../terminology.md) | [English Version]**
+**[中文版](terminology.md) | [English Version]**
 
 This document provides detailed explanations for the terminology used in the formal description of cosmic ontology. All concepts are based on the theoretical framework of XOR and SHIFT operations.
 

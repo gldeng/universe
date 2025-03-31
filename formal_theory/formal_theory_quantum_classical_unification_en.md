@@ -1,6 +1,6 @@
 # Formal Description of Quantum-Classical Domain Unification v36.0
 
-**[中文版](../formal_theory_quantum_classical_unification.md) | [English Version]**
+**[中文版](formal_theory_quantum_classical_unification.md) | [English Version]**
 
 ## Table of Contents
 

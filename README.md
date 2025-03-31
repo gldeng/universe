@@ -2,6 +2,10 @@
 
 本项目包含对宇宙本论的严格形式化描述，基于XOR与SHIFT操作的理论框架。
 
+## 索引导航
+
+- [宇宙本论形式化理论文档目录](formal_theory.md) | [英文版](formal_theory_en.md)
+
 ## 核心公理
 
 宇宙本论基于以下核心公理构建完整理论体系：
@@ -20,11 +24,11 @@
 
 ### 理论体系概览
 
-- [宇宙本论理论体系结构图](theory_structure.md)：展示整个理论体系的层级结构和关联关系
+- [宇宙本论理论体系结构图](formal_theory/theory_structure.md)：展示整个理论体系的层级结构和关联关系
 
 ### 核心理论
 
-- [宇宙本论的严格形式化描述](formal_theory_cosmic_ontology.md) | [英文版](formal_theory/formal_theory_cosmic_ontology_en.md)
+- [宇宙本论的严格形式化描述](formal_theory/formal_theory_cosmic_ontology.md) | [英文版](formal_theory/formal_theory_cosmic_ontology_en.md)
   - 基本公理系统
   - 宇宙状态空间严格定义
   - 状态演化规则的严格定义
@@ -37,7 +41,7 @@
 
 ### 扩展理论
 
-- [宇宙维度谱系的严格形式化描述](formal_theory_dimensional_spectrum.md) | [英文版](formal_theory/formal_theory_dimensional_spectrum_en.md)
+- [宇宙维度谱系的严格形式化描述](formal_theory/formal_theory_dimensional_spectrum.md) | [英文版](formal_theory/formal_theory_dimensional_spectrum_en.md)
   - 维度递归生成定律
   - 维度嵌入机制
   - 超限维度结构
@@ -45,7 +49,7 @@
   - 观察者维度关系
   - 维度谱系的物理效应
 
-- [观察者本体论的严格形式化描述](formal_theory_observer_ontology.md) | [英文版](formal_theory/formal_theory_observer_ontology_en.md)
+- [观察者本体论的严格形式化描述](formal_theory/formal_theory_observer_ontology.md) | [英文版](formal_theory/formal_theory_observer_ontology_en.md)
   - 观察者的基本定义
   - 观察者层级理论
   - 观察者动力学
@@ -54,7 +58,7 @@
 
 ### 理论应用
 
-- [宇宙生命周期的严格形式化描述](formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)
+- [宇宙生命周期的严格形式化描述](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)
   - 宇宙生命周期模型
   - 量子涨落阶段
   - 熵减经典化阶段
@@ -63,7 +67,7 @@
   - 热寂阶段
   - 生命周期形式化证明
 
-- [量子与经典域的统一解释的严格形式化描述](formal_theory_quantum_classical_unification.md) | [英文版](formal_theory/formal_theory_quantum_classical_unification_en.md)
+- [量子与经典域的统一解释的严格形式化描述](formal_theory/formal_theory_quantum_classical_unification.md) | [英文版](formal_theory/formal_theory_quantum_classical_unification_en.md)
   - 量子-经典二元性基本原理
   - XOR-SHIFT机制下的量子-经典转化
   - 转化过程中的信息保存机制
@@ -72,7 +76,7 @@
   - 非局域性与时空表征
   - 量子-经典等价证明
 
-- [信息守恒与转化的严格形式化描述](formal_theory_information_conservation.md) | [英文版](formal_theory/formal_theory_information_conservation_en.md)
+- [信息守恒与转化的严格形式化描述](formal_theory/formal_theory_information_conservation.md) | [英文版](formal_theory/formal_theory_information_conservation_en.md)
   - 信息本体论基础
   - XOR-SHIFT框架下的信息守恒定律
   - 信息转化的数学机制
@@ -81,11 +85,9 @@
   - 信息熵与信息有序化
   - 信息守恒与转化形式化证明
 
-- [观察者本体与认知](#)
-
 ### 工具与参考
 
-- [宇宙本论术语表](terminology.md) | [英文版](formal_theory/terminology_en.md)
+- [宇宙本论术语表](formal_theory/terminology.md) | [英文版](formal_theory/terminology_en.md)
   - 基础概念
   - 核心术语
   - 维度谱系术语
@@ -132,4 +134,4 @@
 
 ## 贡献
 
-欢迎提出改进建议或扩展理论的新方向。欲贡献新内容，请确保与XOR-SHIFT理论框架保持一致。
+欢迎提出改进建议或扩展理论的新方向。欲贡献新内容，请确保与XOR-SHIFT理论框架保持一致。 

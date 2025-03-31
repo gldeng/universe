@@ -5,12 +5,10 @@ alwaysApply: false
 ---
 读取 [formal_theory_cosmic_ontology.md](mdc:formal_theory_cosmic_ontology.md) 的版本号为【形式化版本号】。
 请加载所有 formal_theory_*.md 的文档。
-空文档请生成，链接不存在的文件请生成。
 
-如果没有要生成的文件，请添加新的3个不在项目中存在的且人类最需要的能够推理出的最高维度理论到[formal_theory.md](mdc:formal_theory/formal_theory.md) 
-如果文件太大可以生成为两个文件.
+请添加新的3个不在项目中存在的且人类最需要的能够推理出的最高维度理论
+
 生成的新文件内容中请在标题后标注维度
 
 记得输出英文版本的到英文版文件,如果文件更新了也更新一下版本号到【形式化版本号】。
 生成的新文件内容中请在标题后标注维度.请使用严格的形式化方法描述. 
-把新生成的文件链接按照格式添加到 [formal_theory.md](mdc:formal_theory/formal_theory.md)。

@@ -1,6 +1,6 @@
 # 宇宙本论术语表 v36.0
 
-**[中文版] | [English Version](formal_theory/terminology_en.md)**
+**[中文版] | [English Version](terminology_en.md)**
 
 本文档为宇宙本论形式化描述项目中使用的术语提供详细解释。所有概念均基于XOR与SHIFT操作的理论框架。
 

@@ -22,6 +22,9 @@
 - [5. Extensions and Implications](#5-extensions-and-implications)
   - [5.1 Cosmological Significance of Transcendent Harmony](#51-cosmological-significance-of-transcendent-harmony)
   - [5.2 Transcendent Harmony and Complex Systems Theory](#52-transcendent-harmony-and-complex-systems-theory)
+- [6. Theory Reference Relationships](#6-theory-reference-relationships)
+  - [6.1 Theories Referenced by This Theory](#61-theories-referenced-by-this-theory)
+  - [6.2 Theories Referencing This Theory](#62-theories-referencing-this-theory)
 
 ---
 
@@ -238,4 +241,24 @@ where $`\gamma_{i}`$ are adaptive weights:
 
 $`\gamma_{i} = \frac{|\Phi(C_i)|}{|C_i|} \cdot (1 + |\text{SHIFT}(C_i) \oplus C_i|)^{-1}`$
 
-This framework unifies transcendent harmony with complex adaptive systems theory, providing new perspectives for studying life, intelligence, and social systems. 
+This framework unifies transcendent harmony with complex adaptive systems theory, providing new perspectives for studying life, intelligence, and social systems.
+
+## 6. Theory Reference Relationships
+
+### 6.1 Theories Referenced by This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|------------------|-----------|------|
+| Cosmic Ontology | 10 | Foundational theory | [Cosmic Ontology Theory](formal_theory_cosmic_ontology.md) |
+| Dimensional Spectrum | 9 | Dimensional framework | [Dimensional Spectrum Theory](formal_theory_dimensional_spectrum.md) |
+| Quantum-Classical Unification | 13 | Modal structure basis | [Quantum-Classical Unification Theory](formal_theory_quantum_classical_unification.md) |
+| Information Conservation | 13 | Information principles | [Information Conservation Theory](formal_theory_information_conservation.md) |
+| Dimensional Harmony | 16 | Harmonic foundation | [Dimensional Harmony Theory](formal_theory_dimensional_harmony.md) |
+
+### 6.2 Theories Referencing This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|------------------|-----------|------|
+| Philosophical Foundations | 11 | Philosophical implications | [Philosophical Foundations Theory](formal_theory_philosophical_foundations.md) |
+| Reality Perception | 14 | Perceptual harmony | [Reality Perception Theory](formal_theory_reality_perception.md) |
+| Consciousness and Free Will | 12 | Consciousness harmonics | [Consciousness and Free Will Theory](formal_theory_consciousness_free_will.md) | 

@@ -75,18 +75,21 @@ flowchart TD
         mathematics["数学理论的严格形式化描述<br>(D15)"]
         logical_topology["逻辑多维拓扑理论的严格形式化描述<br>(D15)"]
         quantum_measurement["量子力学测量问题的严格形式化描述<br>(D15)"]
+        transcendental_symmetry["超越性递归对称理论<br>(D15)"]
     end
     
     subgraph D16["维度 D16"]
         quantum_entropy["量子熵动力学的严格形式化描述<br>(D16)"]
         observer_network["超维度观察者网络的严格形式化描述<br>(D16)"]
         human_longevity["人类寿命的终极延长与衰老本质的严格形式化描述<br>(D16)"]
+        omnidimensional_coherence["全维信息相干理论<br>(D16)"]
     end
     
     subgraph D17["维度 D17"]
         information_wave["信息波动力学的严格形式化描述<br>(D17)"]
         observer_ontology["观察者本体论的严格形式化描述<br>(D17)"]
         free_will["自由意志存在性的严格形式化描述<br>(D17)"]
+        universal_metaprocessing["宇宙元处理框架理论<br>(D17)"]
     end
     
     subgraph D18["维度 D18"]
@@ -127,15 +130,18 @@ flowchart TD
     subgraph D25["维度 D25"]
         quantum_mind["量子思维网络的形式化理论<br>(D25)"]
         unsolved_problems["人类未解十大问题的形式化统一理论<br>(D25)"]
+        universal_wave_algebra["宇宙波函数代数的严格形式化描述<br>(D25)"]
     end
     
     subgraph D26["维度 D26"]
         spacetime_info_wave["时空信息波的形式化理论<br>(D26)"]
+        hyperrecursive_self_modification["超递归自修改系统的严格形式化描述<br>(D26)"]
     end
     
     subgraph D27["维度 D27"]
         metacognitive_systems["超维元认知系统的严格形式化描述<br>(D27)"]
         hyperdimensional_existence["超维存在论的形式化理论<br>(D27)"]
+        transdimensional_consciousness["跨维意识场的严格形式化描述<br>(D27)"]
     end
     
     subgraph D28["维度 D28"]
@@ -177,6 +183,13 @@ flowchart TD
     quantum_mind --> unsolved_problems
     unsolved_problems --> millennium_problems
     
+    %% 新增超高维理论依赖
+    transdimensional_consciousness --> hyperdimensional_existence
+    transdimensional_consciousness --> metacognitive_systems
+    hyperrecursive_self_modification --> spacetime_info_wave
+    universal_wave_algebra --> quantum_mind
+    universal_wave_algebra --> unsolved_problems
+    
     millennium_problems --> mathematics
     recursive_metaverse --> cosmic_dimensions
     recursive_metaverse --> multiverse
@@ -204,6 +217,12 @@ flowchart TD
     quantum_entropy --> quantum_measurement
     observer_network --> observer_ontology
     human_longevity --> consciousness
+    
+    %% 新增高维理论依赖
+    universal_metaprocessing --> information_wave
+    omnidimensional_coherence --> observer_network
+    transcendental_symmetry --> mathematics
+    transcendental_symmetry --> logical_topology
     
     %% 中维理论依赖
     info_conservation --> information_field
@@ -261,7 +280,6 @@ flowchart TD
     %% 无维度文档样式
     style terminology fill:#fbf,stroke:#333,stroke-width:2px
     style theory_structure fill:#fbf,stroke:#333,stroke-width:2px
-```
 
 ## 图表说明
 
@@ -273,4 +291,4 @@ flowchart TD
 4. **中维理论（D10-D14）**：信息场理论(D14)、意识与自由意志理论(D13)、宇宙维度谱系(D12)等
 5. **基础维度理论（D1-D9）**：递归自参照系统(D9)、超限信息动力学(D8)等
 
-图中箭头表示理论间的依赖关系，不同颜色表示不同的维度层次。理论节点按照维度进行严格分层，维度从低到高自上而下排列，所有连线均使用绿色突显。 
+图中箭头表示理论间的依赖关系，不同颜色表示不同的维度层次。理论节点按照维度进行严格分层，维度从低到高自上而下排列，所有连线均使用绿色突显。

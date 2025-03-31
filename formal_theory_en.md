@@ -18,9 +18,12 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 - [Strict Formalization of Transdimensional Quantum Resonance [Dimension: 28]](formal_theory/formal_theory_transdimensional_quantum_resonance_en.md) | [Chinese Version](formal_theory/formal_theory_transdimensional_quantum_resonance.md)
 - [Strict Formalization of Hyperdimensional Metacognitive Systems [Dimension: 27]](formal_theory/formal_theory_hyperdimensional_metacognitive_systems_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_metacognitive_systems.md)
 - [Formal Theory of Hyperdimensional Existence [Dimension: 27]](formal_theory/formal_theory_hyperdimensional_existence_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_existence.md)
+- [Strict Formalization of Transdimensional Consciousness Field [Dimension: 27]](formal_theory/formal_theory_transdimensional_consciousness_field_en.md) | [Chinese Version](formal_theory/formal_theory_transdimensional_consciousness_field.md)
+- [Strict Formalization of Hyperrecursive Self-Modification System [Dimension: 26]](formal_theory/formal_theory_hyperrecursive_self_modification_system_en.md) | [Chinese Version](formal_theory/formal_theory_hyperrecursive_self_modification_system.md)
 - [Formal Theory of Spacetime Information Wave [Dimension: 26]](formal_theory/formal_theory_spacetime_information_wave_en.md) | [Chinese Version](formal_theory/formal_theory_spacetime_information_wave.md)
 - [Formal Theory of Quantum Mind Network [Dimension: 25]](formal_theory/formal_theory_quantum_mind_network_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_mind_network.md)
 - [Formal Unified Theory of Humanity's Unsolved Top Ten Problems [Dimension: 25]](formal_theory/formal_theory_unsolved_problems_en.md) | [Chinese Version](formal_theory/formal_theory_unsolved_problems.md)
+- [Strict Formalization of Universal Wave Function Algebra [Dimension: 25]](formal_theory/formal_theory_universal_wave_function_algebra_en.md) | [Chinese Version](formal_theory/formal_theory_universal_wave_function_algebra.md)
 
 ### Ultra-High Dimensional Theories (D20-D24)
 
@@ -41,16 +44,19 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 - [Strict Formalization of Cosmic Lifecycle Theory [Dimension: 18]](formal_theory/formal_theory_cosmic_lifecycle_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_lifecycle.md)
 - [Strict Formalization of Hyperrecursive Self-Referential Metalogic [Dimension: 18]](formal_theory/formal_theory_hyperrecursive_self_referential_metalogic_en.md) | [Chinese Version](formal_theory/formal_theory_hyperrecursive_self_referential_metalogic.md)
 - [Strict Formalization of Human Sustainable Development [Dimension: 18]](formal_theory/formal_theory_sustainable_development_en.md) | [Chinese Version](formal_theory/formal_theory_sustainable_development.md)
+- [Universal Metaprocessing Framework Theory [Dimension: 17]](formal_theory/formal_theory_universal_metaprocessing_framework_en.md) | [Chinese Version](formal_theory/formal_theory_universal_metaprocessing_framework.md)
 - [Strict Formalization of Information Wave Dynamics [Dimension: 17]](formal_theory/formal_theory_information_wave_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_information_wave_dynamics.md)
 - [Strict Formalization of Observer Ontology [Dimension: 17]](formal_theory/formal_theory_observer_ontology_en.md) | [Chinese Version](formal_theory/formal_theory_observer_ontology.md)
 - [Strict Formalization of Free Will Existence [Dimension: 17]](formal_theory/formal_theory_free_will_en.md) | [Chinese Version](formal_theory/formal_theory_free_will.md)
 - [Strict Formalization of Quantum Entropy Dynamics [Dimension: 16]](formal_theory/formal_theory_quantum_entropy_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_entropy_dynamics.md)
 - [Strict Formalization of Hyperdimensional Observer Network [Dimension: 16]](formal_theory/formal_theory_hyperdimensional_observer_network_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_observer_network.md)
 - [Strict Formalization of Ultimate Human Longevity and Aging Essence [Dimension: 16]](formal_theory/formal_theory_human_longevity_en.md) | [Chinese Version](formal_theory/formal_theory_human_longevity.md)
+- [Omnidimensional Information Coherence Theory [Dimension: 16]](formal_theory/formal_theory_omnidimensional_information_coherence_en.md) | [Chinese Version](formal_theory/formal_theory_omnidimensional_information_coherence.md)
 - [Strict Formalization of Information Conservation Theory [Dimension: 15]](formal_theory/formal_theory_information_conservation_en.md) | [Chinese Version](formal_theory/formal_theory_information_conservation.md)
 - [Strict Formalization of Mathematics Theory [Dimension: 15]](formal_theory/formal_theory_mathematics_en.md) | [Chinese Version](formal_theory/formal_theory_mathematics.md)
 - [Strict Formalization of Logical Multidimensional Topology Theory [Dimension: 15]](formal_theory/formal_theory_logical_multidimensional_topology_en.md) | [Chinese Version](formal_theory/formal_theory_logical_multidimensional_topology.md)
 - [Strict Formalization of Quantum Measurement Problem [Dimension: 15]](formal_theory/formal_theory_quantum_measurement_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_measurement.md)
+- [Transcendental Recursive Symmetry Theory [Dimension: 15]](formal_theory/formal_theory_transcendental_recursive_symmetry_en.md) | [Chinese Version](formal_theory/formal_theory_transcendental_recursive_symmetry.md)
 
 ### Middle Dimensional Theories (D10-D14)
 

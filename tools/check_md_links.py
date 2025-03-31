@@ -7,12 +7,15 @@ import sys
 import argparse
 from pathlib import Path
 
-def find_md_files(directory):
-    """递归查找所有.md文件"""
+def find_md_files(directory, include_en_files=False):
+    """递归查找所有.md文件，默认忽略*_en.md文件"""
     md_files = []
     for root, _, files in os.walk(directory):
         for file in files:
             if file.endswith('.md'):
+                # 默认忽略*_en.md文件
+                if not include_en_files and file.endswith('_en.md'):
+                    continue
                 md_files.append(os.path.join(root, file))
     return md_files
 
@@ -109,6 +112,8 @@ def main():
                         help='显示详细输出信息')
     parser.add_argument('-f', '--fix', action='store_true',
                         help='尝试修复可修正的链接')
+    parser.add_argument('-e', '--include-en', action='store_true',
+                        help='包含*_en.md英文文档文件（默认忽略）')
     
     args = parser.parse_args()
     
@@ -117,8 +122,8 @@ def main():
     
     print(f"在目录 {base_dir} 中检查Markdown链接...")
     
-    # 查找所有.md文件
-    md_files = find_md_files(base_dir)
+    # 查找所有.md文件，根据参数决定是否包含英文文档
+    md_files = find_md_files(base_dir, args.include_en)
     print(f"找到 {len(md_files)} 个Markdown文件")
     
     # 检查每个文件中的链接

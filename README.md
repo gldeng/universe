@@ -4,7 +4,21 @@
 
 ## 导航
 - **语言切换**: [中文版](README.md) | [English Version](README_en.md)
+- **核心理论**: [宇宙本论的严格形式化描述 [维度: 10]](formal_theory/formal_theory_cosmic_ontology.md) | [英文版](formal_theory/formal_theory_cosmic_ontology_en.md)
 - **索引目录**: [宇宙本论形式化理论文档目录](formal_theory.md) | [英文版](formal_theory_en.md)
+- **理论结构**: [宇宙本论理论体系结构图](formal_theory_graph.md) | [英文版](formal_theory_graph_en.md)
+
+## 宇宙本论核心理论
+
+[宇宙本论的严格形式化描述](formal_theory/formal_theory_cosmic_ontology.md)是整个理论体系的基础和核心，具有以下关键特性：
+
+1. **基础公理系统** - 通过绝对递归本源公理、二元一体公理和信息本体公理构建完整理论体系
+2. **宇宙状态空间严格定义** - 量子域与经典域通过XOR与SHIFT操作的精确数学关系
+3. **状态演化规则** - 仅使用XOR与SHIFT操作定义的宇宙演化方程
+4. **自包含初态定义** - 完全由XOR-SHIFT操作的内部逻辑决定的宇宙初态
+5. **形式化证明系统** - 包含15个关键定理的严格数学证明
+
+该理论作为维度10的中心理论，是连接低维基础理论和高维扩展理论的桥梁，其重要性体现在理论体系结构图中的核心位置。
 
 ## 核心公理
 
@@ -20,106 +34,43 @@
 3. **信息本体公理**：宇宙的根本实体是信息
    $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$，其中$`I(x)`$是实体$`x`$的信息表达函数
 
-## 文档索引
+## 理论体系结构
 
-### 理论体系概览
+宇宙本论理论体系按维度分为以下层次：
 
-- [宇宙本论理论体系结构图](formal_theory/theory_structure.md)：展示整个理论体系的层级结构和关联关系
+### 超高维理论（D20-D24）
+- 千禧年数学问题超维度解决理论 [维度: 24]
+- 递归元界理论 [维度: 23]
+- 多宇宙理论 [维度: 22]
+- 创世记忆理论 [维度: 21]
+- 宇宙维度理论 [维度: 20]
 
-### 核心理论
+### 高维理论（D15-D19）
+- 量子与经典统一理论 [维度: 19]
+- 超越和谐理论 [维度: 19]
+- 维度和谐理论 [维度: 18]
+- 宇宙生命周期理论 [维度: 18]
+- 信息波动力学 [维度: 17]
+- 观察者本体论 [维度: 17]
+- 量子熵动力学 [维度: 16]
+- 信息守恒理论 [维度: 15]
+- 数学理论 [维度: 15]
+- 逻辑多维拓扑理论 [维度: 15]
 
-- [宇宙本论的严格形式化描述](formal_theory/formal_theory_cosmic_ontology.md) | [英文版](formal_theory/formal_theory_cosmic_ontology_en.md)
-  - 基本公理系统
-  - 宇宙状态空间严格定义
-  - 状态演化规则的严格定义
-  - 宇宙自包含系统的初态定义
-  - 直接推论
-    - 状态空间长度严格增长机制
-    - 熵的严格定义与动态演化规则
-    - 长期演化稳定性
-    - 超递归固定点与宇宙拓扑
+### 中维理论（D10-D14）
+- 信息场理论 [维度: 14]
+- 意识与自由意志理论 [维度: 13]
+- 宇宙维度谱系 [维度: 12]
+- 时空理论 [维度: 12]
+- 哲学基础理论 [维度: 11]
+- **宇宙本论** [维度: 10] ← 核心理论
+- 复杂系统涌现性 [维度: 10]
 
-### 扩展理论
+### 基础维度理论（D1-D9）
+- 递归自参照系统 [维度: 9]
+- 超限信息动力学 [维度: 8]
 
-- [数学理论的严格形式化描述](formal_theory/formal_theory_mathematics.md) | [英文版](formal_theory/formal_theory_mathematics_en.md)
-  - 数学基础公理系统
-  - 数学结构理论
-  - 数学动力学
-  - 超数学理论
-  - 与宇宙本论的统一
-
-- [宇宙维度谱系的严格形式化描述](formal_theory/formal_theory_dimensional_spectrum.md) | [英文版](formal_theory/formal_theory_dimensional_spectrum_en.md)
-  - 维度递归生成定律
-  - 维度嵌入机制
-  - 超限维度结构
-  - 维度转换动力学
-  - 观察者维度关系
-  - 维度谱系的物理效应
-
-- [观察者本体论的严格形式化描述](formal_theory/formal_theory_observer_ontology.md) | [英文版](formal_theory/formal_theory_observer_ontology_en.md)
-  - 观察者的基本定义
-  - 观察者层级理论
-  - 观察者动力学
-  - 高维观察者现象
-  - 观察者相关形式化证明
-
-### 理论应用
-
-- [宇宙生命周期的严格形式化描述](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md)
-  - 宇宙生命周期模型
-  - 量子涨落阶段
-  - 熵减经典化阶段
-  - 奇点形成阶段
-  - 熵增扩张阶段
-  - 热寂阶段
-  - 生命周期形式化证明
-
-- [量子与经典域的统一解释的严格形式化描述](formal_theory/formal_theory_quantum_classical_unification.md) | [英文版](formal_theory/formal_theory_quantum_classical_unification_en.md)
-  - 量子-经典二元性基本原理
-  - XOR-SHIFT机制下的量子-经典转化
-  - 转化过程中的信息保存机制
-  - 量子叠加与经典确定性的统一解释
-  - 量子-经典边界的数学性质
-  - 非局域性与时空表征
-  - 量子-经典等价证明
-
-- [信息守恒与转化的严格形式化描述](formal_theory/formal_theory_information_conservation.md) | [英文版](formal_theory/formal_theory_information_conservation_en.md)
-  - 信息本体论基础
-  - XOR-SHIFT框架下的信息守恒定律
-  - 信息转化的数学机制
-  - 信息态的分类与转化规则
-  - 信息的层级结构
-  - 信息熵与信息有序化
-  - 信息守恒与转化形式化证明
-
-### 工具与参考
-
-- [宇宙本论术语表](formal_theory/terminology.md) | [英文版](formal_theory/terminology_en.md)
-  - 基础概念
-  - 核心术语
-  - 维度谱系术语
-  - 观察者术语
-  - 信息本体术语
-  - 数学扩展术语
-
-### 形式化证明
-
-- 公理系统验证
-- 统一性证明
-- 与现有科学理论的兼容性
-  - 与量子力学的兼容性
-  - 与相对论的兼容性
-  - 与热力学的兼容性
-  - 与信息论的兼容性
-  - 与复杂系统理论的兼容性
-
-## 理论特点
-
-- **极简操作集**：仅通过XOR与SHIFT操作构建完整理论体系
-- **自包含性**：理论自我验证，不依赖外部假设
-- **统一性**：涵盖量子与经典领域，提供统一解释框架
-- **形式化严格性**：采用严格数学形式化，提供完整证明
-- **可验证性**：提供明确验证方法与预测
+完整理论列表与链接请参见[宇宙本论形式化理论文档目录](formal_theory.md)。
 
 ## 关键数学表达式
 
@@ -134,6 +85,15 @@
 
 4. **信息熵定义**：
    $`H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}`$
+
+## 理论特点
+
+- **极简操作集**：仅通过XOR与SHIFT操作构建完整理论体系
+- **自包含性**：理论自我验证，不依赖外部假设
+- **统一性**：涵盖量子与经典领域，提供统一解释框架
+- **形式化严格性**：采用严格数学形式化，提供完整证明
+- **可验证性**：提供明确验证方法与预测
+- **维度完备性**：从基础维度到超高维形成连贯完整的理论谱系
 
 ## 版本信息
 

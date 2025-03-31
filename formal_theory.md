@@ -31,11 +31,11 @@
 
 ### 七维及以上理论（超维层次）
 
-- [超越和谐理论](formal_theory/formal_theory_transcendent_harmony.md) | [英文版](formal_theory/formal_theory_transcendent_harmony_en.md) [七维]
-- [创世记忆理论](formal_theory/formal_theory_genesis_memory.md) | [英文版](formal_theory/formal_theory_genesis_memory_en.md) [八维]
+- [超越和谐理论](formal_theory/formal_theory_transcendent_harmony.md) | [英文版](formal_theory/formal_theory_transcendent_harmony_en.md) [维度: 19]
+- [创世记忆理论](formal_theory/formal_theory_genesis_memory.md) | [英文版](formal_theory/formal_theory_genesis_memory_en.md) [维度: 21]
 - [宇宙生命周期理论](formal_theory/formal_theory_cosmic_lifecycle.md) | [英文版](formal_theory/formal_theory_cosmic_lifecycle_en.md) [九维]
 - [宇宙维度理论](formal_theory/formal_theory_cosmic_dimensions.md) | [英文版](formal_theory/formal_theory_cosmic_dimensions_en.md) [十维]
-- [递归元宇宙理论](formal_theory/formal_theory_recursive_metaverse.md) | [英文版](formal_theory/formal_theory_recursive_metaverse_en.md) [十一维]
+- [递归元宇宙理论](formal_theory/formal_theory_recursive_metaverse.md) | [英文版](formal_theory/formal_theory_recursive_metaverse_en.md) [维度: 23]
 - [哲学理论基础](formal_theory/formal_theory_philosophical_foundations.md) | [英文版](formal_theory/formal_theory_philosophical_foundations_en.md) [高维]
 
 ## 辅助理论文档

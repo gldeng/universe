@@ -27,7 +27,7 @@
       'htmlLabels': true
     }
   }
-}%%
+}%
 
 flowchart TD
     %% 使用子图按维度分组节点
@@ -261,6 +261,7 @@ flowchart TD
     style terminology fill:#fbf,stroke:#333,stroke-width:2px
     style theory_structure fill:#fbf,stroke:#333,stroke-width:2px
 ```
+
 
 ## 图表说明
 

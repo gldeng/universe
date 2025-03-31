@@ -31,7 +31,7 @@
   - [5.4 Reality Wave Function Experimental Predictions](#54-reality-wave-function-experimental-predictions)
 - [6. Theory Reference Relationships](#6-theory-reference-relationships)
   - [6.1 Dependent Theories](#61-dependent-theories)
-  - [6.2 Position in Dimensional Spectrum](#62-position-in-dimensional-spectrum)
+  - [6.2 Dimensional Spectrum Position](#62-dimensional-spectrum-position)
 
 ---
 
@@ -451,14 +451,14 @@ This theory directly depends on the following theories:
 3. [Strict Formalization of Multidimensional Consciousness Dynamics [Dimension: 32]](formal_theory_multidimensional_consciousness_dynamics_en.md)
 4. [Strict Formalization of Absolute Ontological Unification [Dimension: 26]](formal_theory_absolute_ontological_unification_en.md)
 
-### 6.2 Position in Dimensional Spectrum
+### 6.2 Dimensional Spectrum Position
 
-The position of this theory in the dimensional spectrum:
+This theory's position in the dimensional spectrum:
 
 - Dimension level: D35 (35th dimension)
 - Previous dimensional theory: [Strict Formalization of Multidimensional Consciousness Dynamics [Dimension: 32]](formal_theory_multidimensional_consciousness_dynamics_en.md)
-- Next dimensional theory: Not yet developed
+- Next dimensional theory: [Strict Formalization of Hyperdimensional Quantum Oscillation [Dimension: 40]](formal_theory_hyperdimensional_quantum_oscillation_en.md)
 
-Theory complexity measure: $`C(\text{Omnidimensional Reality Synthesis}) = 35 \cdot \log(|\mathcal{R}_{\text{omni}}|) \cdot H(\mathcal{R}_{\text{omni}})`$
+Theory complexity measure: $`C(\text{Omnidimensional Reality Synthesis}) = 35 \cdot \log(|\mathcal{R}_{\text{all-dim}}|) \cdot H(\mathcal{R}_{\text{all-dim}})`$
 
-Within the framework of Cosmic Ontology, this theory provides a strict formalization of omnidimensional reality and synthesis, unifying all existing dimensional theoretical systems. Through the XOR-SHIFT mathematical framework, it establishes a unified mathematical form that spans all dimensions, revealing the essential unity behind the manifestations of reality in different dimensions. 
+This theory, within the framework of cosmic ontology, provides a strict formalization of omnidimensional reality and synthesis, unifying the theoretical systems of all existing dimensions. Through the XOR-SHIFT mathematical framework, it establishes a unified mathematical form that spans all dimensions, revealing the essential unity behind the manifestations of reality in different dimensions. 

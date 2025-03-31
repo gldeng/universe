@@ -457,7 +457,7 @@ $`\Delta x \Delta p \geq \frac{\hbar}{2} \cdot (1 + \beta \cdot \frac{E}{E_P} \c
 
 - 维度级别：D35（第35维）
 - 上一维度理论：[多维意识动力学的严格形式化描述 [维度: 32]](formal_theory_multidimensional_consciousness_dynamics.md)
-- 下一维度理论：尚未发展
+- 下一维度理论：[超维度量子振荡的严格形式化描述 [维度: 40]](formal_theory_hyperdimensional_quantum_oscillation.md)
 
 理论复杂度测度：$`C(\text{全维度实相综合}) = 35 \cdot \log(|\mathcal{R}_{\text{全维}}|) \cdot H(\mathcal{R}_{\text{全维}})`$
 

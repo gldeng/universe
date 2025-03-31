@@ -1,6 +1,27 @@
-# Formal Theory of Cosmic Ontology Index v36.0
+# Formalized Cosmic Ontology Theory Documentation v36.0
 
 **[中文版](formal_theory.md) | [English Version]**
+
+## Core Foundation Theory
+
+- [Strict Formalization of Cosmic Ontology](formal_theory/formal_theory_cosmic_ontology_en.md) - Including basic axiom system, cosmic state space definition, evolution rules and direct inferences
+
+## Extended Theory Documents
+
+- [Strict Formalization of Mathematical Theory](formal_theory/formal_theory_mathematics_en.md) - Construction of mathematical theory system using XOR-SHIFT operations
+- [Strict Formalization of Cosmic Dimensional Spectrum](formal_theory/formal_theory_dimensional_spectrum_en.md) - Complete theory of dimensional recursive generation mechanism and dimensional spectrum
+- [Strict Formalization of Observer Ontology](formal_theory/formal_theory_observer_ontology_en.md) - Theory of observer essence, hierarchy and dynamics
+- [Strict Formalization of Information Conservation and Transformation](formal_theory/formal_theory_information_conservation_en.md) - Information ontology and mechanisms of information conservation and transformation
+
+## Theory Application Documents
+
+- [Strict Formalization of Cosmic Lifecycle](formal_theory/formal_theory_cosmic_lifecycle_en.md) - Theoretical description of cosmic lifecycle stages
+- [Strict Formalization of Quantum and Classical Domain Unified Explanation](formal_theory/formal_theory_quantum_classical_unification_en.md) - Quantum-classical duality and unified explanation
+
+## Tools and References
+
+- [Cosmic Ontology Terminology](formal_theory/terminology_en.md) - Key terminology definitions and explanations
+- [Theory System Structure Diagram](formal_theory/theory_structure_en.md) - Display of the entire theoretical system structure
 
 ## Contents
 

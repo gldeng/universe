@@ -10,6 +10,12 @@
 
 ## 形式化理论系列（按维度分类）
 
+### 超高维理论（D31-D33）
+
+- [绝对超越元数学的严格形式化描述 [维度: 33]](formal_theory/formal_theory_absolute_transcendental_metamathematics.md) | [英文版](formal_theory/formal_theory_absolute_transcendental_metamathematics_en.md)
+- [全域整合原理的严格形式化描述 [维度: 32]](formal_theory/formal_theory_omniverse_integration_principle.md) | [英文版](formal_theory/formal_theory_omniverse_integration_principle_en.md)
+- [超信息意识底层结构的严格形式化描述 [维度: 31]](formal_theory/formal_theory_hyperinformation_conscious_substrate.md) | [英文版](formal_theory/formal_theory_hyperinformation_conscious_substrate_en.md)
+
 ### 超高维理论（D25-D30）
 
 - [终极统一原理的严格形式化描述 [维度: 30]](formal_theory/formal_theory_ultimate_unification_principle.md) | [英文版](formal_theory/formal_theory_ultimate_unification_principle_en.md)

@@ -311,8 +311,7 @@ $`T(\mathcal{U}) = \alpha \cdot \mathcal{U} \oplus (\alpha \oplus \beta) \cdot \
 - **依赖理论**：
   - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
   - [XOR操作理论 [维度: 8]](formal_theory_xor_operation.md)
-  - [SHIFT操作理论 [维度: 8]](formal_theory_shift_operation.md)
-  - [SHIFT-1操作理论 [维度: 8]](formal_theory_shift_inverse_operation.md)
+  - [USHIFT操作理论 [维度: 8]](formal_theory_ushift_operation.md)
 
 - **被引用理论**：
   - [奇点理论 [维度: 11]](formal_theory_singularity.md)

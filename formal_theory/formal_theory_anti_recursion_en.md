@@ -311,8 +311,7 @@ Position of anti-recursion theory in the theory network:
 - **Dependent Theories**:
   - [Cosmic Ontology [Dimension: 10]](formal_theory_cosmic_ontology_en.md)
   - [XOR Operation Theory [Dimension: 8]](formal_theory_xor_operation_en.md)
-  - [SHIFT Operation Theory [Dimension: 8]](formal_theory_shift_operation_en.md)
-  - [SHIFT-1 Operation Theory [Dimension: 8]](formal_theory_shift_inverse_operation_en.md)
+  - [USHIFT Operation Theory [Dimension: 8]](formal_theory_ushift_operation_en.md)
 
 - **Referenced Theories**:
   - [Singularity Theory [Dimension: 11]](formal_theory_singularity_en.md)

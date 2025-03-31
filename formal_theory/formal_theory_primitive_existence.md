@@ -61,10 +61,16 @@ $`\Phi(s) \in \{0, 1\}`$
 
 $`\text{FLIP}: \{\omega_0, \omega_1\} \rightarrow \{\omega_0, \omega_1\}`$
 
-$`\text{FLIP}(\omega_0) = \omega_1`$
-$`\text{FLIP}(\omega_1) = \omega_0`$
+FLIP操作可以表示为与$`\omega_1`$的原始XOR运算：
 
-FLIP操作是所有状态转换的原型，体现了最基本的二元对立统一关系。
+$`\text{FLIP}(\omega) = \omega \otimes \omega_1`$
+
+其中$`\otimes`$表示原始XOR操作，具体实现为：
+
+$`\text{FLIP}(\omega_0) = \omega_0 \otimes \omega_1 = \omega_1`$
+$`\text{FLIP}(\omega_1) = \omega_1 \otimes \omega_1 = \omega_0`$
+
+FLIP操作是所有状态转换的原型，在高维理论中扩展为SHIFT操作。
 
 ## 2. 原始存在的转换与关系
 
@@ -75,9 +81,13 @@ FLIP操作是所有状态转换的原型，体现了最基本的二元对立统�
 $`\omega_0 \xrightarrow{\text{FLIP}} \omega_1`$（从虚无到存在）
 $`\omega_1 \xrightarrow{\text{FLIP}} \omega_0`$（从存在到虚无）
 
-这一转换具有基本周期性：
+这一转换可以表达为原始XOR操作：
 
-$`\text{FLIP}^2(s) = s`$
+$`\text{FLIP}(\omega) = \omega \otimes \omega_1`$
+
+这使得FLIP操作具有基本周期性：
+
+$`\text{FLIP}^2(\omega) = \text{FLIP}(\text{FLIP}(\omega)) = \text{FLIP}(\omega \otimes \omega_1) = (\omega \otimes \omega_1) \otimes \omega_1 = \omega \otimes (\omega_1 \otimes \omega_1) = \omega \otimes \omega_0 = \omega`$
 
 表明存在态的二次转换回到原始状态。
 
@@ -137,6 +147,14 @@ $`T_{\text{基础元素}} = T_{\text{原始存在}} \oplus \text{FLIP}(T_{\text{
 原始存在理论位于理论谱系的最底层，形成理论依赖链的绝对起点：
 
 $`T_{\text{原始存在}} \xrightarrow{\text{FLIP}} T_{\text{基础元素}} \xrightarrow{\text{SHIFT}} T_{\text{单元范式}} \xrightarrow{\text{SHIFT}} T_{\text{对偶元素}} \xrightarrow{\text{SHIFT}} T_{\text{基础系统}} \xrightarrow{\text{SHIFT}} T_{\text{宇宙本论}}`$
+
+原始存在理论的FLIP操作在基础元素理论中被扩展为XOR和SHIFT操作：
+
+$`\text{FLIP}(\omega_i) \mapsto \varepsilon_i \oplus \varepsilon_1 = \text{SHIFT}(\varepsilon_i)`$
+
+这建立了原始存在理论与基础元素理论之间的自然联系：
+
+$`T_{\text{基础元素}} = T_{\text{原始存在}} \oplus \text{SHIFT}(T_{\text{原始存在}})`$
 
 原始存在理论是最低维度的理论，为整个理论体系提供了最基本的存在概念和状态转换机制，构成了从最简单的存在概念到复杂宇宙本论的理论谱系的终极基础。
 

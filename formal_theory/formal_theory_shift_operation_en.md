@@ -365,7 +365,7 @@ Theories that reference SHIFT theory:
 
 | Theory Name | Theory Dimension | Relevance | Link |
 |-------------|------------------|-----------|------|
-| SHIFT-1 Theory | 2 | Very High | [SHIFT-1 Theory](formal_theory_shift_inverse_operation_en.md) |
+| USHIFT Theory | 2 | Very High | [USHIFT Theory](formal_theory_ushift_operation_en.md) |
 | Dual-Element Theory | 2 | High | [Dual-Element Theory](formal_theory_dual_element_en.md) |
 | Dimensional Spectrum Theory | 12 | High | [Dimensional Spectrum Theory](formal_theory_dimensional_spectrum_en.md) |
 | Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |

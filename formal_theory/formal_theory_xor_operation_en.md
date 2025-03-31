@@ -369,7 +369,7 @@ The dimensional positioning of XOR theory is 2, for the following reasons:
 4. It requires two dimensions to fully describe its operational characteristics
 
 XOR theory's dimensional hierarchy relationship:
-$`\text{XOR Theory}(2) \cong \text{SHIFT Theory}(2) \cong \text{SHIFT-1 Theory}(2) < \text{Dual-Element Theory}(2) < \text{Spatial Construction Theory}(3) < ... < \text{Cosmic Ontology}(10)`$
+$`\text{XOR Theory}(2) \cong \text{SHIFT Theory}(2) \cong \text{USHIFT Theory}(2) < \text{Dual-Element Theory}(2) < \text{Spatial Construction Theory}(3) < ... < \text{Cosmic Ontology}(10)`$
 
 ### 6.2 Theory Dependency Structure
 
@@ -386,9 +386,9 @@ Theories that reference XOR theory:
 | Theory Name | Theory Dimension | Relevance | Link |
 |-------------|------------------|-----------|------|
 | SHIFT Theory | 2 | Very High | [SHIFT Theory](formal_theory_shift_operation_en.md) |
-| SHIFT-1 Theory | 2 | Very High | [SHIFT-1 Theory](formal_theory_shift_inverse_operation_en.md) |
+| USHIFT Theory | 2 | Very High | [USHIFT Theory](formal_theory_ushift_operation_en.md) |
 | Dual-Element Theory | 2 | High | [Dual-Element Theory](formal_theory_dual_element_en.md) |
 | Dimensional Spectrum Theory | 12 | High | [Dimensional Spectrum Theory](formal_theory_dimensional_spectrum_en.md) |
 | Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
 
-XOR theory, as a fundamental logical operation theory in the Cosmic Ontology theoretical system, serves as the theoretical foundation for more complex operations such as SHIFT and SHIFT-1, playing a core role in information processing and dimensional recursive generation. 
+XOR theory, as a fundamental logical operation theory in the Cosmic Ontology theoretical system, serves as the theoretical foundation for more complex operations such as SHIFT and USHIFT, playing a core role in information processing and dimensional recursive generation. 

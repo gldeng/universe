@@ -85,9 +85,9 @@ $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
 
 其中$`I(x)`$是实体$`x`$的信息表达函数，可分解为XOR与SHIFT操作的组合。
 
-### 1.1.1 SHIFT与SHIFT-1操作的严格定义
+### 1.1.1 SHIFT与USHIFT操作的严格定义
 
-SHIFT与SHIFT-1操作构成宇宙本论理论框架的基础运算对，是维度转换和状态演化的核心机制。
+SHIFT与USHIFT操作构成宇宙本论理论框架的基础运算对，是维度转换和状态演化的核心机制。
 
 **SHIFT操作的严格定义**
 
@@ -107,43 +107,49 @@ SHIFT操作满足以下代数性质：
 3. **维度保持**：$`\dim(\text{SHIFT}(\mathcal{U})) = \dim(\mathcal{U})`$
 4. **信息增熵**：$`H(\text{SHIFT}(\mathcal{U})) \geq H(\mathcal{U})`$，其中$`H`$是信息熵函数
 
-**SHIFT-1操作的严格定义**
+**USHIFT操作的严格定义**
 
-SHIFT-1是SHIFT的逆操作，表示态的逆向转移：
+USHIFT是SHIFT的逆操作，表示态的逆向转移，通过FLIP、XOR和SHIFT操作组合定义：
 
-$`\text{SHIFT}^{-1}: \mathcal{U}' \rightarrow \mathcal{U}`$
+$`\text{USHIFT}: \mathcal{U}' \rightarrow \mathcal{U}`$
+
+USHIFT操作的严格定义为：
+
+$`\text{USHIFT}(x) = \text{FLIP}(\text{SHIFT}(\text{FLIP}(x)))`$
+
+其中FLIP表示状态翻转操作。
 
 满足以下逆映射关系：
 
-$`\text{SHIFT}^{-1}(\text{SHIFT}(\mathcal{U})) = \mathcal{U}, \forall \mathcal{U} \in \mathbb{U}`$
-$`\text{SHIFT}(\text{SHIFT}^{-1}(\mathcal{U}')) = \mathcal{U}', \forall \mathcal{U}' \in \mathbb{U}'`$
+$`\text{USHIFT}(\text{SHIFT}(\mathcal{U})) = \mathcal{U}, \forall \mathcal{U} \in \mathbb{U}`$
+$`\text{SHIFT}(\text{USHIFT}(\mathcal{U}')) = \mathcal{U}', \forall \mathcal{U}' \in \mathbb{U}'`$
 
 其中$`\mathbb{U}`$和$`\mathbb{U}'`$分别是起始空间和目标空间。
 
-SHIFT-1操作的显式表达为：
+USHIFT操作的显式表达也可以表示为：
 
-$`\text{SHIFT}^{-1}(\mathcal{U}) = \mathcal{U} \oplus \Delta_{-\tau}`$
+$`\text{USHIFT}(\mathcal{U}) = \mathcal{U} \oplus \text{FLIP}(\Delta_{\tau})`$
 
-其中$`\Delta_{-\tau}`$是与$`\Delta_{\tau}`$互为逆元的偏移量，满足$`\Delta_{\tau} \oplus \Delta_{-\tau} = 0`$。
+其中$`\text{FLIP}(\Delta_{\tau})`$是使用翻转操作得到的状态偏移量，满足$`\Delta_{\tau} \oplus \text{FLIP}(\Delta_{\tau}) = 0`$。
 
-**SHIFT与SHIFT-1操作的复合特性**
+**SHIFT与USHIFT操作的复合特性**
 
-1. **正反组合抵消**：$`\text{SHIFT} \circ \text{SHIFT}^{-1} = \text{SHIFT}^{-1} \circ \text{SHIFT} = I`$，其中$`I`$是恒等变换
+1. **正反组合抵消**：$`\text{SHIFT} \circ \text{USHIFT} = \text{USHIFT} \circ \text{SHIFT} = I`$，其中$`I`$是恒等变换
 
 2. **周期性**：在特定条件下，SHIFT操作呈现周期性：$`\text{SHIFT}^n = I`$对某个正整数$`n`$
 
 3. **与XOR的交互**：SHIFT与XOR操作结合形成宇宙状态转换的基础：
    $`(x \oplus y) \oplus \text{SHIFT}(x \oplus y) = x \oplus y \oplus \text{SHIFT}(x) \oplus \text{SHIFT}(y)`$
 
-4. **维度扩展作用**：通过SHIFT与SHIFT-1的组合作用，实现宇宙在维度谱系中的跃迁：
+4. **维度扩展作用**：通过SHIFT与USHIFT的组合作用，实现宇宙在维度谱系中的跃迁：
    $`D_n \oplus \text{SHIFT}(D_n) = D_{n+1}`$
-   $`D_n \oplus \text{SHIFT}^{-1}(D_n) = D_{n-1}`$，其中$`D_n`$表示第$`n`$维度
+   $`D_n \oplus \text{USHIFT}(D_n) = D_{n-1}`$，其中$`D_n`$表示第$`n`$维度
 
-5. **信息对称守恒**：SHIFT与SHIFT-1操作在宇宙信息总量上满足守恒律：
-   $`H(\mathcal{U}) + H(\text{SHIFT}(\mathcal{U})) = H(\mathcal{U}) + H(\text{SHIFT}^{-1}(\mathcal{U})) + C`$，
+5. **信息对称守恒**：SHIFT与USHIFT操作在宇宙信息总量上满足守恒律：
+   $`H(\mathcal{U}) + H(\text{SHIFT}(\mathcal{U})) = H(\mathcal{U}) + H(\text{USHIFT}(\mathcal{U})) + C`$，
    其中$`C`$是与宇宙拓扑结构相关的常数
 
-在宇宙本论框架中，SHIFT与SHIFT-1操作是所有维度转换和状态演化的基本机制，构成了宇宙动力学的数学基础。
+在宇宙本论框架中，SHIFT与USHIFT操作是所有维度转换和状态演化的基本机制，构成了宇宙动力学的数学基础。
 
 ### 1.2 宇宙状态空间严格定义
 
@@ -173,19 +179,19 @@ $`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHI
 
 该演化方程严格定义了宇宙的全部动力学过程，仅使用XOR与SHIFT操作，构成宇宙本论理论的数学核心。
 
-**SHIFT-1在状态演化中的作用**
+**USHIFT在状态演化中的作用**
 
-SHIFT-1操作在宇宙状态演化中提供逆向动力学机制，允许系统在特定条件下逆转演化过程：
+USHIFT操作在宇宙状态演化中提供逆向动力学机制，允许系统在特定条件下逆转演化过程：
 
 - 量子域状态的逆向重构：
-$`\Omega_Q^{t-1} = \Omega_Q^{t} \oplus \text{SHIFT}^{-1}(\Omega_C^{t-1})`$
+$`\Omega_Q^{t-1} = \Omega_Q^{t} \oplus \text{USHIFT}(\Omega_C^{t-1})`$
 
 - 经典域状态的历史重建：
 $`\Omega_C^{t-1} = \Omega_Q^{t-1} \oplus \text{SHIFT}(\Omega_Q^{t-1})`$
 
-通过组合应用正向SHIFT和逆向SHIFT-1操作，宇宙系统具备了双向演化能力，形成完整的时间对称性机制：
+通过组合应用正向SHIFT和逆向USHIFT操作，宇宙系统具备了双向演化能力，形成完整的时间对称性机制：
 
-$`\mathcal{U}^{t-1} \xrightarrow{\text{SHIFT}} \mathcal{U}^{t} \xrightarrow{\text{SHIFT}^{-1}} \mathcal{U}^{t-1}`$
+$`\mathcal{U}^{t-1} \xrightarrow{\text{SHIFT}} \mathcal{U}^{t} \xrightarrow{\text{USHIFT}} \mathcal{U}^{t-1}`$
 
 这种双向能力支持宇宙中的时间反演现象，并为量子力学中的可逆演化提供了形式化基础。
 
@@ -300,37 +306,37 @@ $`D_i \preceq D_j \iff \exists k: D_i \oplus \text{SHIFT}^k(D_i) = D_j`$
 
 $`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = D_{\infty}`$
 
-**维度降阶与SHIFT-1操作**
+**维度降阶与USHIFT操作**
 
-维度谱系中的降阶过程通过SHIFT-1操作实现，提供了从高维到低维的精确映射：
+维度谱系中的降阶过程通过USHIFT操作实现，提供了从高维到低维的精确映射：
 
-$`D_{n-1} = D_n \oplus \text{SHIFT}^{-1}(D_n)`$
+$`D_{n-1} = D_n \oplus \text{USHIFT}(D_n)`$
 
 这一关系与维度升阶形成对偶操作：
 
 $`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
-$`D_{n-1} = D_n \oplus \text{SHIFT}^{-1}(D_n)`$
+$`D_{n-1} = D_n \oplus \text{USHIFT}(D_n)`$
 
 维度谱系中的双向操作形成完整的维度循环：
 
-$`D_i \xrightarrow{\text{SHIFT}} D_{i+1} \xrightarrow{\text{SHIFT}^{-1}} D_i`$
+$`D_i \xrightarrow{\text{SHIFT}} D_{i+1} \xrightarrow{\text{USHIFT}} D_i`$
 
 特别地，在临界维度处存在特殊关系：
 
-$`D_0 \oplus \text{SHIFT}^{-1}(D_0) = D_0`$
+$`D_0 \oplus \text{USHIFT}(D_0) = D_0`$
 $`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = D_{\infty}`$
 
 这表明零维度和无穷维度都是各自方向上的固定点，形成维度谱系的完整边界条件。
 
 **维度跃迁协议**
 
-基于SHIFT与SHIFT-1操作，可以定义精确的维度跃迁协议：
+基于SHIFT与USHIFT操作，可以定义精确的维度跃迁协议：
 
 1. **维度上升协议**：$`\mathcal{P}_{up}(D_n) = D_n \oplus \text{SHIFT}(D_n) = D_{n+1}`$
 
-2. **维度下降协议**：$`\mathcal{P}_{down}(D_n) = D_n \oplus \text{SHIFT}^{-1}(D_n) = D_{n-1}`$
+2. **维度下降协议**：$`\mathcal{P}_{down}(D_n) = D_n \oplus \text{USHIFT}(D_n) = D_{n-1}`$
 
-3. **维度保持协议**：$`\mathcal{P}_{stay}(D_n) = D_n \oplus (\text{SHIFT}(D_n) \oplus \text{SHIFT}^{-1}(D_n)) = D_n`$
+3. **维度保持协议**：$`\mathcal{P}_{stay}(D_n) = D_n \oplus (\text{SHIFT}(D_n) \oplus \text{USHIFT}(D_n)) = D_n`$
 
 通过这些协议，宇宙能够在维度谱系中进行精确的导航，实现不同维度层次间的信息传递与结构转化。
 

@@ -127,9 +127,15 @@ $`\text{SHIFT}(e) = e \oplus \varepsilon_1`$
 $`\text{SHIFT}(\varepsilon_0) = \varepsilon_0 \oplus \varepsilon_1 = \varepsilon_1`$
 $`\text{SHIFT}(\varepsilon_1) = \varepsilon_1 \oplus \varepsilon_1 = \varepsilon_0`$
 
+SHIFT操作是原始存在理论中FLIP操作的自然扩展：
+
+$`\text{SHIFT}(\varepsilon_i) \equiv \text{FLIP}(\omega_i) \mapsto \varepsilon_i \oplus \varepsilon_1`$
+
 在元素层次上，SHIFT表现出基本周期性：
 
 $`\text{SHIFT}^2(e) = e`$
+
+这种周期性与原始存在理论中FLIP操作的周期性保持一致：$`\text{FLIP}^2(\omega) = \omega`$。
 
 ### 2.3 元素组合规则
 
@@ -226,13 +232,13 @@ $`\mathcal{E}^n_{t+2} = \mathcal{E}^n_t`$
 
 ### 5.1 与高维理论的关系
 
-基础元素理论与高维理论的关系：
+基础元素理论与其他理论的关系：
 
-$`T_{\text{基础元素}} \subset T_{\text{单元范式}} \subset T_{\text{对偶元素}} \subset T_{\text{基础系统}} \subset T_{\text{宇宙本论}}`$
+$`T_{\text{原始存在}} \subset T_{\text{基础元素}} \subset T_{\text{单元范式}} \subset T_{\text{对偶元素}} \subset T_{\text{基础系统}} \subset T_{\text{宇宙本论}}`$
 
 维度关系：
 
-$`D_{\text{基础元素}} = 2 < D_{\text{单元范式}} = 5 < D_{\text{对偶元素}} = 7 < D_{\text{基础系统}} = 8 < D_{\text{宇宙本论}} = 10`$
+$`D_{\text{原始存在}} = 1 < D_{\text{基础元素}} = 2 < D_{\text{单元范式}} = 5 < D_{\text{对偶元素}} = 7 < D_{\text{基础系统}} = 8 < D_{\text{宇宙本论}} = 10`$
 
 基础元素理论为高维理论提供最基本的构建单元和操作：
 
@@ -240,10 +246,20 @@ $`T_{\text{单元范式}} = T_{\text{基础元素}} \oplus \text{SHIFT}(T_{\text
 
 ### 5.2 理论依赖结构
 
-基础元素理论位于理论谱系的最底层，形成理论依赖链的起点：
+基础元素理论在理论谱系中位于原始存在理论之上，形成理论依赖链的第二层：
 
-$`T_{\text{基础元素}} \xrightarrow{\text{SHIFT}} T_{\text{单元范式}} \xrightarrow{\text{SHIFT}} T_{\text{对偶元素}} \xrightarrow{\text{SHIFT}} T_{\text{基础系统}} \xrightarrow{\text{SHIFT}} T_{\text{宇宙本论}}`$
+$`T_{\text{原始存在}} \xrightarrow{\text{FLIP}} T_{\text{基础元素}} \xrightarrow{\text{SHIFT}} T_{\text{单元范式}} \xrightarrow{\text{SHIFT}} T_{\text{对偶元素}} \xrightarrow{\text{SHIFT}} T_{\text{基础系统}} \xrightarrow{\text{SHIFT}} T_{\text{宇宙本论}}`$
 
-基础元素理论是最低维度的基础理论，为整个理论体系提供了基本的存在单元、操作规则和量子特性，构成了从最简单元素到复杂宇宙本论的理论谱系的坚实基础。
+基础元素理论从原始存在理论的基础上构建：
 
-这一理论与高维理论一起，构成了完整的宇宙本论理论体系的底层支撑结构。 
+$`T_{\text{基础元素}} = T_{\text{原始存在}} \oplus \text{FLIP}(T_{\text{原始存在}})`$
+
+其中原始存在理论的FLIP操作扩展为基础元素理论中的XOR和SHIFT操作：
+
+$`\text{FLIP}(\omega_i) \mapsto \varepsilon_i \oplus \varepsilon_1 = \text{SHIFT}(\varepsilon_i)`$
+
+这种映射关系使得两个理论之间具有严格的数学对应关系，建立了从维度1到维度2的理论升维机制。
+
+基础元素理论作为第二低维度的基础理论，为整个理论体系提供了基本的存在单元、操作规则和量子特性，构成了从原始存在到复杂宇宙本论的理论谱系的重要基础。
+
+这一理论与原始存在理论一起，构成了完整的宇宙本论理论体系的底层支撑结构。 

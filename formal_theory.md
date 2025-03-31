@@ -111,6 +111,14 @@
 - [变形进化理论的严格形式化描述 [维度: 8]](formal_theory/formal_theory_metamorphic_evolution_theory.md) | [英文版](formal_theory/formal_theory_metamorphic_evolution_theory_en.md)
 - [超限信息动力学的严格形式化描述 [维度: 8]](formal_theory/formal_theory_transfinite_information_dynamics.md) | [英文版](formal_theory/formal_theory_transfinite_information_dynamics_en.md)
 - [复杂适应系统理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_complex_adaptive_systems.md) | [英文版](formal_theory/formal_theory_complex_adaptive_systems_en.md)
+- [对偶元素理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_dual_element.md) | [英文版](formal_theory/formal_theory_dual_element_en.md)
+- [单元范式理论的严格形式化描述 [维度: 5]](formal_theory/formal_theory_mono_paradigm.md) | [英文版](formal_theory/formal_theory_mono_paradigm_en.md)
+- [基础元素理论的严格形式化描述 [维度: 2]](formal_theory/formal_theory_fundamental_element.md) | [英文版](formal_theory/formal_theory_fundamental_element_en.md)
+- [原始存在理论的严格形式化描述 [维度: 1]](formal_theory/formal_theory_primitive_existence.md) | [英文版](formal_theory/formal_theory_primitive_existence_en.md)
+
+### 最低维理论（D0）
+
+- [零点理论的严格形式化描述 [维度: 0]](formal_theory/formal_theory_zero_point.md) | [英文版](formal_theory/formal_theory_zero_point_en.md)
 
 ## 辅助理论文档
 

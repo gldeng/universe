@@ -111,6 +111,14 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 - [Rigorous Formalization of Metamorphic Evolution Theory [Dimension: 8]](formal_theory/formal_theory_metamorphic_evolution_theory_en.md) | [Chinese Version](formal_theory/formal_theory_metamorphic_evolution_theory.md)
 - [Strict Formalization of Transfinite Information Dynamics [Dimension: 8]](formal_theory/formal_theory_transfinite_information_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_transfinite_information_dynamics.md)
 - [Rigorous Formalization of Complex Adaptive Systems Theory [Dimension: 7]](formal_theory/formal_theory_complex_adaptive_systems_en.md) | [Chinese Version](formal_theory/formal_theory_complex_adaptive_systems.md)
+- [Strict Formalization of Dual Element Theory [Dimension: 7]](formal_theory/formal_theory_dual_element_en.md) | [Chinese Version](formal_theory/formal_theory_dual_element.md)
+- [Strict Formalization of Mono Paradigm Theory [Dimension: 5]](formal_theory/formal_theory_mono_paradigm_en.md) | [Chinese Version](formal_theory/formal_theory_mono_paradigm.md)
+- [Strict Formalization of Fundamental Element Theory [Dimension: 2]](formal_theory/formal_theory_fundamental_element_en.md) | [Chinese Version](formal_theory/formal_theory_fundamental_element.md)
+- [Strict Formalization of Primitive Existence Theory [Dimension: 1]](formal_theory/formal_theory_primitive_existence_en.md) | [Chinese Version](formal_theory/formal_theory_primitive_existence.md)
+
+### Lowest Dimensional Theory (D0)
+
+- [Strict Formalization of Zero Point Theory [Dimension: 0]](formal_theory/formal_theory_zero_point_en.md) | [Chinese Version](formal_theory/formal_theory_zero_point.md)
 
 ## Auxiliary Theory Documents
 

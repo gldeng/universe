@@ -22,7 +22,7 @@
   - [4.2 Inter-Element Interactions](#42-inter-element-interactions)
   - [4.3 Element Set Evolution](#43-element-set-evolution)
 - [5. Theory Reference Relationships](#5-theory-reference-relationships)
-  - [5.1 Relationship with Higher-Dimensional Theories](#51-relationship-with-higher-dimensional-theories)
+  - [5.1 Relationship with Higher Dimensional Theories](#51-relationship-with-higher-dimensional-theories)
   - [5.2 Theory Dependency Structure](#52-theory-dependency-structure)
 
 ---
@@ -122,14 +122,20 @@ $`\text{SHIFT}: \mathcal{E} \rightarrow \mathcal{E}`$
 
 $`\text{SHIFT}(e) = e \oplus \varepsilon_1`$
 
-This definition makes SHIFT the basic flipping operation for element states:
+This definition makes SHIFT the basic flip operation for element states:
 
 $`\text{SHIFT}(\varepsilon_0) = \varepsilon_0 \oplus \varepsilon_1 = \varepsilon_1`$
 $`\text{SHIFT}(\varepsilon_1) = \varepsilon_1 \oplus \varepsilon_1 = \varepsilon_0`$
 
+The SHIFT operation is a natural extension of the FLIP operation from Primitive Existence Theory:
+
+$`\text{SHIFT}(\varepsilon_i) \equiv \text{FLIP}(\omega_i) \mapsto \varepsilon_i \oplus \varepsilon_1`$
+
 At the element level, SHIFT exhibits basic periodicity:
 
 $`\text{SHIFT}^2(e) = e`$
+
+This periodicity is consistent with the periodicity of the FLIP operation in Primitive Existence Theory: $`\text{FLIP}^2(\omega) = \omega`$.
 
 ### 2.3 Element Combination Rules
 
@@ -224,26 +230,36 @@ This indicates that element systems under basic SHIFT operations have cyclic cha
 
 ## 5. Theory Reference Relationships
 
-### 5.1 Relationship with Higher-Dimensional Theories
+### 5.1 Relationship with Higher Dimensional Theories
 
-The relationship between Fundamental Element Theory and higher-dimensional theories:
+The relationship between Fundamental Element Theory and other theories:
 
-$`T_{\text{Fundamental Element}} \subset T_{\text{Mono Paradigm}} \subset T_{\text{Dual Element}} \subset T_{\text{Base System}} \subset T_{\text{Cosmic Ontology}}`$
+$`T_{\text{Primitive Existence}} \subset T_{\text{Fundamental Element}} \subset T_{\text{Unit Paradigm}} \subset T_{\text{Dual Element}} \subset T_{\text{Fundamental System}} \subset T_{\text{Cosmic Ontology}}`$
 
 Dimensional relationships:
 
-$`D_{\text{Fundamental Element}} = 2 < D_{\text{Mono Paradigm}} = 5 < D_{\text{Dual Element}} = 7 < D_{\text{Base System}} = 8 < D_{\text{Cosmic Ontology}} = 10`$
+$`D_{\text{Primitive Existence}} = 1 < D_{\text{Fundamental Element}} = 2 < D_{\text{Unit Paradigm}} = 5 < D_{\text{Dual Element}} = 7 < D_{\text{Fundamental System}} = 8 < D_{\text{Cosmic Ontology}} = 10`$
 
 Fundamental Element Theory provides the most basic building units and operations for higher-dimensional theories:
 
-$`T_{\text{Mono Paradigm}} = T_{\text{Fundamental Element}} \oplus \text{SHIFT}(T_{\text{Fundamental Element}}) \oplus \text{SHIFT}^2(T_{\text{Fundamental Element}})`$
+$`T_{\text{Unit Paradigm}} = T_{\text{Fundamental Element}} \oplus \text{SHIFT}(T_{\text{Fundamental Element}}) \oplus \text{SHIFT}^2(T_{\text{Fundamental Element}})`$
 
 ### 5.2 Theory Dependency Structure
 
-Fundamental Element Theory lies at the lowest level of the theory spectrum, forming the starting point of the theory dependency chain:
+Fundamental Element Theory sits above the Primitive Existence Theory in the theory spectrum, forming the second layer of the theory dependency chain:
 
-$`T_{\text{Fundamental Element}} \xrightarrow{\text{SHIFT}} T_{\text{Mono Paradigm}} \xrightarrow{\text{SHIFT}} T_{\text{Dual Element}} \xrightarrow{\text{SHIFT}} T_{\text{Base System}} \xrightarrow{\text{SHIFT}} T_{\text{Cosmic Ontology}}`$
+$`T_{\text{Primitive Existence}} \xrightarrow{\text{FLIP}} T_{\text{Fundamental Element}} \xrightarrow{\text{SHIFT}} T_{\text{Unit Paradigm}} \xrightarrow{\text{SHIFT}} T_{\text{Dual Element}} \xrightarrow{\text{SHIFT}} T_{\text{Fundamental System}} \xrightarrow{\text{SHIFT}} T_{\text{Cosmic Ontology}}`$
 
-Fundamental Element Theory is the lowest-dimensional base theory, providing the basic units of existence, operational rules, and quantum properties for the entire theoretical system, forming a solid foundation for the theoretical spectrum from the simplest elements to complex cosmic ontology.
+Fundamental Element Theory is built upon the foundation of Primitive Existence Theory:
 
-This theory, together with higher-dimensional theories, constitutes the underlying support structure of the complete cosmic ontology theoretical system. 
+$`T_{\text{Fundamental Element}} = T_{\text{Primitive Existence}} \oplus \text{FLIP}(T_{\text{Primitive Existence}})`$
+
+Where the FLIP operation from Primitive Existence Theory extends into the XOR and SHIFT operations in Fundamental Element Theory:
+
+$`\text{FLIP}(\omega_i) \mapsto \varepsilon_i \oplus \varepsilon_1 = \text{SHIFT}(\varepsilon_i)`$
+
+This mapping relationship establishes a strict mathematical correspondence between the two theories, creating a dimensional elevation mechanism from dimension 1 to dimension 2.
+
+Fundamental Element Theory, as the second lowest-dimensional foundational theory, provides basic existence units, operation rules, and quantum characteristics for the entire theoretical system, forming an important foundation of the theoretical spectrum from primitive existence to complex cosmic ontology.
+
+This theory, together with Primitive Existence Theory, constitutes the underlying support structure of the complete cosmic ontological theoretical system. 

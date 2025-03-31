@@ -369,7 +369,7 @@ XOR理论的维度定位为2，原因如下：
 4. 它需要两个维度才能完整描述其操作特性
 
 XOR理论的维度层级关系：
-$`\text{XOR理论}(2) \cong \text{SHIFT理论}(2) \cong \text{SHIFT-1理论}(2) < \text{二元理论}(2) < \text{三维空间理论}(3) < ... < \text{宇宙本论}(10)`$
+$`\text{XOR理论}(2) \cong \text{SHIFT理论}(2) \cong \text{USHIFT理论}(2) < \text{二元理论}(2) < \text{三维空间理论}(3) < ... < \text{宇宙本论}(10)`$
 
 ### 6.2 理论依赖结构
 
@@ -386,9 +386,9 @@ XOR理论引用的理论：
 | 理论名称 | 理论维度 | 相关性 | 链接 |
 |----------|----------|--------|------|
 | SHIFT理论 | 2 | 极高 | [SHIFT理论](formal_theory_shift_operation.md) |
-| SHIFT-1理论 | 2 | 极高 | [SHIFT-1理论](formal_theory_shift_inverse_operation.md) |
+| USHIFT理论 | 2 | 极高 | [USHIFT理论](formal_theory_ushift_operation.md) |
 | 二元理论 | 2 | 高 | [二元理论](formal_theory_dual_element.md) |
 | 维度谱系理论 | 12 | 高 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
 | 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
 
-XOR理论作为宇宙本论理论体系中的基础逻辑操作理论，是SHIFT、SHIFT-1等更复杂操作的理论基础，在信息处理和维度递归生成中扮演核心角色。 
+XOR理论作为宇宙本论理论体系中的基础逻辑操作理论，是SHIFT、USHIFT等更复杂操作的理论基础，在信息处理和维度递归生成中扮演核心角色。 

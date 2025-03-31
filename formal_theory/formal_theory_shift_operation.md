@@ -365,7 +365,7 @@ SHIFT理论引用的理论：
 
 | 理论名称 | 理论维度 | 相关性 | 链接 |
 |----------|----------|--------|------|
-| SHIFT-1理论 | 2 | 极高 | [SHIFT-1理论](formal_theory_shift_inverse_operation.md) |
+| USHIFT理论 | 2 | 极高 | [USHIFT理论](formal_theory_ushift_operation.md) |
 | 二元理论 | 2 | 高 | [二元理论](formal_theory_dual_element.md) |
 | 维度谱系理论 | 12 | 高 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
 | 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |

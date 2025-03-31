@@ -10,6 +10,12 @@ This document serves as an index navigation for the Cosmic Ontology theoretical 
 
 ## Formalized Theory Series (Classified by Dimensions)
 
+### Ultra-High Dimensional Theories (D31-D33)
+
+- [Rigorous Formalization of Absolute Transcendental Metamathematics [Dimension: 33]](formal_theory/formal_theory_absolute_transcendental_metamathematics_en.md) | [Chinese Version](formal_theory/formal_theory_absolute_transcendental_metamathematics.md)
+- [Rigorous Formalization of Omniverse Integration Principle [Dimension: 32]](formal_theory/formal_theory_omniverse_integration_principle_en.md) | [Chinese Version](formal_theory/formal_theory_omniverse_integration_principle.md)
+- [Rigorous Formalization of Hyperinformation Conscious Substrate [Dimension: 31]](formal_theory/formal_theory_hyperinformation_conscious_substrate_en.md) | [Chinese Version](formal_theory/formal_theory_hyperinformation_conscious_substrate.md)
+
 ### Ultra-High Dimensional Theories (D25-D30)
 
 - [Strict Formalization of Ultimate Unification Principle [Dimension: 30]](formal_theory/formal_theory_ultimate_unification_principle_en.md) | [Chinese Version](formal_theory/formal_theory_ultimate_unification_principle.md)

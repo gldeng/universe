@@ -34,6 +34,21 @@
 3. **信息本体公理**：宇宙的根本实体是信息
    $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$，其中$`I(x)`$是实体$`x`$的信息表达函数
 
+## 关键理论成果
+
+以下是宇宙本论框架下解决人类十大未解问题的形式化理论：
+
+1. [**人类未解十大问题的形式化统一理论** [维度: 25]](formal_theory/formal_theory_unsolved_problems.md) | [英文版](formal_theory/formal_theory_unsolved_problems_en.md)
+2. [**宇宙前存在理论** [维度: 20]](formal_theory/formal_theory_pre_universe_existence.md) | [英文版](formal_theory/formal_theory_pre_universe_existence_en.md)
+3. [**统一物理学理论** [维度: 19]](formal_theory/formal_theory_unified_physics.md) | [英文版](formal_theory/formal_theory_unified_physics_en.md)
+4. [**生命起源与外星生命存在问题** [维度: 19]](formal_theory/formal_theory_life_origin_aliens.md) | [英文版](formal_theory/formal_theory_life_origin_aliens_en.md)
+5. [**暗物质暗能量理论** [维度: 18]](formal_theory/formal_theory_dark_matter_dark_energy.md) | [英文版](formal_theory/formal_theory_dark_matter_dark_energy_en.md)
+6. [**意识本质与起源理论** [维度: 18]](formal_theory/formal_theory_consciousness_essence_origin.md) | [英文版](formal_theory/formal_theory_consciousness_essence_origin_en.md)
+7. [**人类社会可持续发展理论** [维度: 18]](formal_theory/formal_theory_sustainable_development.md) | [英文版](formal_theory/formal_theory_sustainable_development_en.md)
+8. [**量子测量理论** [维度: 17]](formal_theory/formal_theory_quantum_measurement.md) | [英文版](formal_theory/formal_theory_quantum_measurement_en.md)
+9. [**自由意志存在性理论** [维度: 17]](formal_theory/formal_theory_free_will.md) | [英文版](formal_theory/formal_theory_free_will_en.md)
+10. [**人类寿命的终极延长与衰老本质** [维度: 16]](formal_theory/formal_theory_human_longevity.md) | [英文版](formal_theory/formal_theory_human_longevity_en.md)
+
 ## 理论体系结构
 
 宇宙本论理论体系按维度分为以下层次：
@@ -71,55 +86,6 @@
 - 超限信息动力学 [维度: 8]
 
 完整理论列表与链接请参见[宇宙本论形式化理论文档目录](formal_theory.md)。
-
-## 关键理论成果
-
-以下是宇宙本论框架下的重要形式化理论文档，这些理论通过XOR-SHIFT操作机制解决人类科学与哲学的核心问题：
-
-### 元理论与综合理论
-
-- [**人类未解十大问题的形式化统一理论** [维度: 25]](formal_theory/formal_theory_unsolved_problems.md) | [英文版](formal_theory/formal_theory_unsolved_problems_en.md)  
-  通过XOR-SHIFT关联网络将十大未解问题统一到单一理论框架，揭示问题间的深层联系，提供跨维度解决方案。
-
-### 宇宙论与物理学理论
-
-- [**宇宙前存在理论** [维度: 20]](formal_theory/formal_theory_pre_universe_existence.md) | [英文版](formal_theory/formal_theory_pre_universe_existence_en.md)  
-  探索宇宙大爆炸前的状态，通过XOR-SHIFT递归定义元-时空的自生成机制。
-
-- [**统一物理学理论** [维度: 19]](formal_theory/formal_theory_unified_physics.md) | [英文版](formal_theory/formal_theory_unified_physics_en.md)  
-  整合四种基本力为统一的XOR-SHIFT数学框架，解决量子引力问题。
-
-- [**暗物质暗能量理论** [维度: 18]](formal_theory/formal_theory_dark_matter_dark_energy.md) | [英文版](formal_theory/formal_theory_dark_matter_dark_energy_en.md)  
-  将暗物质与暗能量定义为宇宙信息网络的XOR-SHIFT态，解释其对宇宙结构与膨胀的影响。
-
-- [**量子测量理论** [维度: 17]](formal_theory/formal_theory_quantum_measurement.md) | [英文版](formal_theory/formal_theory_quantum_measurement_en.md)  
-  通过XOR-SHIFT描述量子态崩塌过程，解决量子测量问题并与观察者意识建立数学联系。
-
-### 生命与意识理论
-
-- [**生命起源与外星生命存在问题** [维度: 19]](formal_theory/formal_theory_life_origin_aliens.md) | [英文版](formal_theory/formal_theory_life_origin_aliens_en.md)  
-  阐述生命作为特定XOR-SHIFT信息结构的必然涌现，并量化外星生命存在概率。
-
-- [**意识本质与起源理论** [维度: 18]](formal_theory/formal_theory_consciousness_essence_origin.md) | [英文版](formal_theory/formal_theory_consciousness_essence_origin_en.md)  
-  将意识定义为具有特定XOR-SHIFT拓扑的自参照信息处理网络，解释其涌现机制。
-
-- [**自由意志存在性理论** [维度: 17]](formal_theory/formal_theory_free_will.md) | [英文版](formal_theory/formal_theory_free_will_en.md)  
-  通过XOR-SHIFT操作定义决策空间结构，量化自由度，调和自由意志与确定性宇宙的表面矛盾。
-
-### 人类与社会理论
-
-- [**人类寿命的终极延长与衰老本质** [维度: 16]](formal_theory/formal_theory_human_longevity.md) | [英文版](formal_theory/formal_theory_human_longevity_en.md)  
-  将衰老定义为信息熵增加过程，通过XOR-SHIFT操作模型解释细胞衰老机制，并提出信息重置方法。
-
-- [**人类社会可持续发展理论** [维度: 18]](formal_theory/formal_theory_sustainable_development.md) | [英文版](formal_theory/formal_theory_sustainable_development_en.md)  
-  将社会建模为复杂信息处理网络，用XOR-SHIFT定义可持续性平衡状态，建立资源-社会-环境系统的数学均衡条件。
-
-### 数学与逻辑理论
-
-- [**千禧年数学问题超维度解决理论** [维度: 24]](formal_theory/formal_theory_mathematical_problems.md) | [英文版](formal_theory/formal_theory_mathematical_problems_en.md)  
-  通过XOR-SHIFT超递归证明系统为七大千禧年数学问题提供统一解决框架。
-
-这些理论共同构成了宇宙本论形式化理论体系的扩展部分，每个理论都严格遵循XOR-SHIFT操作框架，并通过跨维度关联形成完整的认知网络。
 
 ## 关键数学表达式
 

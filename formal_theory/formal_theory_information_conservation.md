@@ -34,6 +34,9 @@
   - [7.1 信息守恒基本定理](#71-信息守恒基本定理)
   - [7.2 信息转化可逆性定理](#72-信息转化可逆性定理)
   - [7.3 信息层级完备性定理](#73-信息层级完备性定理)
+- [8. 理论引用关系](#8-理论引用关系)
+  - [8.1 本理论引用的其他理论](#81-本理论引用的其他理论)
+  - [8.2 引用本理论的其他理论](#82-引用本理论的其他理论)
 
 ---
 
@@ -521,4 +524,29 @@ $`I = \bigoplus_{i=0}^{n} P_0(I)`$
 
 这等价于：$`I = \sum_{i=0}^{n} c_i I_{L_0}`$，其中$`c_i \in \{0, 1\}`$
 
-因此，信息层级结构是完备的，证明完毕。 
+因此，信息层级结构是完备的，证明完毕。
+
+## 8. 理论引用关系
+
+### 8.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息场理论 | 14 | 高 | [信息场理论](formal_theory_information_field.md) |
+| 量子熵动力学 | 16 | 高 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 信息波动力学 | 17 | 中 | [信息波动力学](formal_theory_information_wave_dynamics.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 递归自参照系统 | 9 | 中 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+
+### 8.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 观察者本体论 | 17 | 中 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 超限信息动力学 | 13 | 高 | [超限信息动力学](formal_theory_transfinite_information_dynamics.md) |
+

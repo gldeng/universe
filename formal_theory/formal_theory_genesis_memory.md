@@ -22,6 +22,9 @@
 - [5. 扩展与推论](#5-扩展与推论)
   - [5.1 宇宙记忆与信息守恒](#51-宇宙记忆与信息守恒)
   - [5.2 创世状态重构理论](#52-创世状态重构理论)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -275,4 +278,27 @@ $`\delta(\mathcal{U}^0) = \frac{|\mathcal{U}^0 \oplus \mathcal{R}(\mathcal{M}_G,
 
 $`\lim_{t \to \infty} \delta(\mathcal{U}^0) = 0`$
 
-这表明宇宙最终会完美记住其创世状态，形成自我认知的闭环。 
+这表明宇宙最终会完美记住其创世状态，形成自我认知的闭环。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 超限信息动力学 | 13 | 高 | [超限信息动力学](formal_theory_transfinite_information_dynamics.md) |
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 观察者本体论 | 17 | 中 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 哲学基础理论 | 11 | 中 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 千禧年数学问题超维度解决理论 | 24 | 中 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+| 递归元界理论 | 23 | 高 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+

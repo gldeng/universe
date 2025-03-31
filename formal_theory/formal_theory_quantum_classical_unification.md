@@ -32,6 +32,9 @@
   - [7.1 量子-经典等价定理](#71-量子-经典等价定理)
   - [7.2 信息保存完备性定理](#72-信息保存完备性定理)
   - [7.3 统一描述定理](#73-统一描述定理)
+- [8. 理论引用关系](#8-理论引用关系)
+  - [8.1 本理论引用的其他理论](#81-本理论引用的其他理论)
+  - [8.2 引用本理论的其他理论](#82-引用本理论的其他理论)
 
 ---
 
@@ -439,4 +442,31 @@ $`\phi_t = \psi_t \oplus \text{SHIFT}(\psi_t)`$
 
 带入(1)和(2)，可证明经典动力学是量子动力学通过XOR-SHIFT操作导出的特例。
 
-因此，XOR-SHIFT框架提供了统一的数学描述，证明完毕。 
+因此，XOR-SHIFT框架提供了统一的数学描述，证明完毕。
+
+## 8. 理论引用关系
+
+### 8.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 量子熵动力学 | 16 | 高 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 信息守恒理论 | 15 | 高 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 信息场理论 | 14 | 高 | [信息场理论](formal_theory_information_field.md) |
+| 统一力理论 | 11 | 高 | [统一力理论](formal_theory_unified_forces.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+| 观察者本体论 | 17 | 中 | [观察者本体论](formal_theory_observer_ontology.md) |
+
+### 8.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 多宇宙理论 | 22 | 高 | [多宇宙理论](formal_theory_multiverse.md) |
+| 超越和谐理论 | 19 | 高 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 宇宙维度理论 | 20 | 高 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+

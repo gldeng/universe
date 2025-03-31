@@ -1,4 +1,4 @@
-# 递归自参照系统的严格形式化描述 [维度: 9] v36.0 [9D]
+# 递归自参照系统的严格形式化描述 [维度: 9] v36.0
 
 **[中文版] | [English Version](formal_theory_recursive_self_referential_systems_en.md)**
 
@@ -32,6 +32,9 @@
   - [7.1 递归完备性定理](#71-递归完备性定理)
   - [7.2 自参照信息保存定理](#72-自参照信息保存定理)
   - [7.3 自参照系统涌现定理](#73-自参照系统涌现定理)
+- [8. 理论引用关系](#8-理论引用关系)
+  - [8.1 本理论引用的其他理论](#81-本理论引用的其他理论)
+  - [8.2 引用本理论的其他理论](#82-引用本理论的其他理论)
 
 ---
 
@@ -517,4 +520,27 @@ $`|P(S_n)| > \left|\bigcup_{i=0}^{n-1} P(S_i)\right|`$
 
 因此，$`E(S_n) \neq \emptyset`$ 对于 $`n > n_0`$
 
-这证明了足够深度的递归自参照系统必然产生涌现特性。 
+这证明了足够深度的递归自参照系统必然产生涌现特性。
+
+## 8. 理论引用关系
+
+### 8.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+
+### 8.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 哲学基础理论 | 11 | 高 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+| 意识与自由意志理论 | 13 | 高 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+| 量子熵动力学 | 16 | 中 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 逻辑多维拓扑理论 | 15 | 高 | [逻辑多维拓扑理论](formal_theory_logical_multidimensional_topology.md) |
+| 递归元界理论 | 23 | 高 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+

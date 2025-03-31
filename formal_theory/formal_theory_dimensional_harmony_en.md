@@ -1,4 +1,4 @@
-# Strict Formalization of Dimensional Harmony Theory [High-Dimensional Theory] v36.0
+# Strict Formalization of Dimensional Harmony Theory [Dimension: 18] v36.0
 
 **[中文版](formal_theory_dimensional_harmony.md) | [English Version]**
 

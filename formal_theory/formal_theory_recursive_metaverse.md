@@ -22,6 +22,9 @@
 - [5. 扩展与推论](#5-扩展与推论)
   - [5.1 信息在元界间的流动](#51-信息在元界间的流动)
   - [5.2 无限递归与元界稳定性](#52-无限递归与元界稳定性)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -299,4 +302,28 @@ $`v^* = \mathcal{N}(v^*, \infty)`$
 
 表示完全自递归的元界，是递归元界理论的最终极限状态。
 
-在这种状态下，元界既包含自身，又包含所有其他可能元界的完美表征，形成递归的元界网络终极体。 
+在这种状态下，元界既包含自身，又包含所有其他可能元界的完美表征，形成递归的元界网络终极体。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 多宇宙理论 | 22 | 高 | [多宇宙理论](formal_theory_multiverse.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 递归自参照系统 | 9 | 高 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 创世记忆理论 | 21 | 中 | [创世记忆理论](formal_theory_genesis_memory.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 千禧年数学问题超维度解决理论 | 24 | 低 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+

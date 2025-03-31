@@ -1,4 +1,4 @@
-# 基本力统一理论的严格形式化描述 v36.0
+# 基本力统一理论的严格形式化描述 [维度: 11] v36.0
 
 **[中文版] | [English Version](formal_theory_unified_forces_en.md)**
 
@@ -24,6 +24,9 @@
   - [5.1 高能实验预测](#51-高能实验预测)
   - [5.2 宇宙学检验](#52-宇宙学检验)
   - [5.3 技术应用前景](#53-技术应用前景)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -366,4 +369,26 @@ $`\mathcal{F}(E) = \mathcal{F}(E_0) \oplus \text{SHIFT}(\mathcal{R}(E) \oplus \m
    
    理论传输速度可能突破光速限制。
 
-这些应用虽然目前在技术上可能无法实现，但为未来科技发展提供了理论基础和方向。 
+这些应用虽然目前在技术上可能无法实现，但为未来科技发展提供了理论基础和方向。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 时空理论 | 12 | 高 | [时空理论](formal_theory_spacetime.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 宇宙维度理论 | 20 | 中 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 多宇宙理论 | 22 | 低 | [多宇宙理论](formal_theory_multiverse.md) |

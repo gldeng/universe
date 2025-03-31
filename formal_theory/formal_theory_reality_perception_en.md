@@ -1,4 +1,4 @@
-# Strict Formalization of Reality Perception and Essence of Existence v36.0
+# Strict Formalization of Reality Perception and Essence of Existence [Dimension: 12] v36.0
 
 **[中文版](formal_theory_reality_perception.md) | [English Version]**
 

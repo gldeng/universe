@@ -1,4 +1,4 @@
-# Formal Description of the Cosmic Dimensional Spectrum v36.0
+# Formal Description of the Cosmic Dimensional Spectrum [Dimension: 12] v36.0
 
 **[中文版](formal_theory_dimensional_spectrum.md) | [English Version]**
 

@@ -1,4 +1,4 @@
-# 信息波动力学的严格形式化描述 [维度: 17] v36.0 [7D]
+# 信息波动力学的严格形式化描述 [维度: 17] v36.0
 
 **[中文版] | [English Version](formal_theory_information_wave_dynamics_en.md)**
 
@@ -32,6 +32,10 @@
   - [7.1 信息波存在性定理](#71-信息波存在性定理)
   - [7.2 信息波能量守恒定理](#72-信息波能量守恒定理)
   - [7.3 信息波完备性定理](#73-信息波完备性定理)
+- [8. 理论引用关系](#8-理论引用关系)
+  - [8.1 本理论引用的其他理论](#81-本理论引用的其他理论)
+  - [8.2 引用本理论的其他理论](#82-引用本理论的其他理论)
+  - [8.3 本理论版本](#83-本理论版本)
 
 ---
 
@@ -555,4 +559,28 @@ XOR-SHIFT表示中，这种叠加为：
 
 $`\Psi(x, t) = \bigoplus_n [a_n \oplus \text{SHIFT}_{\cos(\omega_n t)}(1) \oplus b_n \oplus \text{SHIFT}_{\sin(\omega_n t)}(1)] \oplus \varphi_n(x)`$
 
-表示的唯一性来自线性空间的基本定理，证明完毕。 
+表示的唯一性来自线性空间的基本定理，证明完毕。
+
+## 8. 理论引用关系
+
+### 8.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息场理论 | 14 | 高 | [信息场理论](formal_theory_information_field.md) |
+| 信息守恒理论 | 15 | 高 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 量子熵动力学 | 16 | 高 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 意识与自由意志理论 | 13 | 中 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+
+### 8.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 逻辑多维拓扑理论 | 15 | 高 | [逻辑多维拓扑理论](formal_theory_logical_multidimensional_topology.md) |
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+

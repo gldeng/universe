@@ -1,4 +1,4 @@
-# Formal Description of Observer Ontology v36.0
+# Formal Description of Observer Ontology [Dimension: 17] v36.0
 
 **[中文版](formal_theory_observer_ontology.md) | [English Version]**
 

@@ -24,6 +24,9 @@
   - [5.1 黑洞事件视界的信息结构](#51-黑洞事件视界的信息结构)
   - [5.2 宇宙加速膨胀机制](#52-宇宙加速膨胀机制)
   - [5.3 实验验证方案](#53-实验验证方案)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -289,4 +292,28 @@ $`\Phi_{universe} = \frac{|\mathcal{ST}_t \oplus \mathcal{ST}_{t-\Delta t}|}{|\m
    在量子系统中验证时空微观结构：
    $`\tau_{quantum} = \tau_{classical} \oplus \text{SHIFT}(\tau_{classical}) \approx \tau_{classical} \cdot (1 - \frac{E}{E_P})`$
 
-这些实验将验证空间-时间统一理论的核心预测，为理解时空本质提供关键证据。 
+这些实验将验证空间-时间统一理论的核心预测，为理解时空本质提供关键证据。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 维度谱系理论 | 12 | 高 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 递归自参照系统 | 9 | 中 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 哲学基础理论 | 11 | 中 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 宇宙维度理论 | 20 | 中 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 统一力理论 | 11 | 高 | [统一力理论](formal_theory_unified_forces.md) |
+

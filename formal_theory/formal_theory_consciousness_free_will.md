@@ -24,6 +24,9 @@
   - [5.1 意识理论预测](#51-意识理论预测)
   - [5.2 与经典意识理论对比](#52-与经典意识理论对比)
   - [5.3 实验验证方案](#53-实验验证方案)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -282,4 +285,27 @@ XOR-SHIFT理论的独特优势在于：
 4. **元意识递归深度测量**：
    设计心理学实验测量人类元认知能力与公式$`\mathcal{C}^{(n+1)} = \mathcal{C}^{(n)} \oplus \text{SHIFT}(\mathcal{C}^{(n)})`$的一致性。
 
-这些实验将验证意识的XOR-SHIFT理论是否能准确描述和预测意识现象，为理解意识本质提供数学基础。 
+这些实验将验证意识的XOR-SHIFT理论是否能准确描述和预测意识现象，为理解意识本质提供数学基础。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 哲学基础理论 | 11 | 高 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+| 递归自参照系统 | 9 | 高 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 现实感知理论 | 11 | 高 | [现实感知理论](formal_theory_reality_perception.md) |
+| 量子熵动力学 | 16 | 中 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 观察者本体论 | 17 | 高 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 信息波动力学 | 17 | 中 | [信息波动力学](formal_theory_information_wave_dynamics.md) |
+

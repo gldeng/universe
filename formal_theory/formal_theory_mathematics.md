@@ -1,4 +1,4 @@
-# 数学理论的严格形式化描述 v36.0
+# 数学理论的严格形式化描述 [维度: 15] v36.0
 
 **[中文版] | [English Version](formal_theory_mathematics_en.md)**
 

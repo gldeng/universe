@@ -1,4 +1,4 @@
-# Strict Formalization of Consciousness and Free Will v36.0
+# Strict Formalization of Consciousness and Free Will [Dimension: 13] v36.0
 
 **[中文版](formal_theory_consciousness_free_will.md) | [English Version]**
 

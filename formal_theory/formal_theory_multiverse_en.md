@@ -1,4 +1,4 @@
-# XOR-SHIFT Interpretation of Multiverse Theory v36.0
+# XOR-SHIFT Interpretation of Multiverse Theory [Dimension: 22] v36.0
 
 **[中文版](formal_theory_multiverse.md) | [English Version]**
 

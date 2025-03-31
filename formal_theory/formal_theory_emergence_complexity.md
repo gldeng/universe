@@ -1,4 +1,4 @@
-# 复杂系统涌现性的严格形式化描述 v36.0
+# 复杂系统涌现性的严格形式化描述 [维度: 10] v36.0
 
 **[中文版] | [English Version](formal_theory_emergence_complexity_en.md)**
 
@@ -24,6 +24,10 @@
   - [5.1 生物系统涌现机制](#51-生物系统涌现机制)
   - [5.2 社会系统复杂性](#52-社会系统复杂性)
   - [5.3 技术系统涌现设计](#53-技术系统涌现设计)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
+  - [6.3 本理论版本](#63-本理论版本)
 
 ---
 
@@ -343,4 +347,28 @@ $`Q^{t+1} = H \cdot Q^t \oplus \text{SHIFT}(Q^t)`$
 机器学习集成方法：
 $`ML_{ensemble} = \bigoplus_{i=1}^{n} ML_i \oplus \text{SHIFT}(\bigoplus_{i=1}^{n} w_i ML_i)`$
 
-这些应用展示了XOR-SHIFT涌现框架的广泛适用性，从微观生物系统到宏观社会系统和技术系统，统一解释了涌现复杂性的形成机制。 
+这些应用展示了XOR-SHIFT涌现框架的广泛适用性，从微观生物系统到宏观社会系统和技术系统，统一解释了涌现复杂性的形成机制。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 递归自参照系统 | 9 | 高 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 量子熵动力学 | 16 | 中 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 观察者本体论 | 17 | 中 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 意识与自由意志理论 | 13 | 中 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+

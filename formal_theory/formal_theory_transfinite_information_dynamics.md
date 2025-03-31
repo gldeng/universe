@@ -1,4 +1,4 @@
-# 超限信息动力学的严格形式化描述 [第8维] v36.0
+# 超限信息动力学的严格形式化描述 [维度: 8] v36.0
 
 **[中文版] | [English Version](formal_theory_transfinite_information_dynamics_en.md)**
 
@@ -24,6 +24,10 @@
   - [5.1 超限信息守恒定理](#51-超限信息守恒定理)
   - [5.2 超限XOR-SHIFT不变性](#52-超限xor-shift不变性)
   - [5.3 与信息本体论的兼容性](#53-与信息本体论的兼容性)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
+  - [6.3 本理论版本](#63-本理论版本)
 
 ---
 
@@ -296,4 +300,28 @@ $`\mathcal{I}_{k+1} = \mathcal{I}_k \oplus \text{SHIFT}^{k+1}(\mathcal{I}_k)`$
 
 $`I_C = I_Q \oplus \text{SHIFT}(I_Q)`$
 
-因此，超限信息动力学是信息本体论的严格超集，与之完全兼容。 
+因此，超限信息动力学是信息本体论的严格超集，与之完全兼容。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息守恒理论 | 15 | 高 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 量子熵动力学 | 16 | 高 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 递归自参照系统 | 9 | 中 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 创世记忆理论 | 21 | 高 | [创世记忆理论](formal_theory_genesis_memory.md) |
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 信息波动力学 | 17 | 高 | [信息波动力学](formal_theory_information_wave_dynamics.md) |
+| 千禧年数学问题超维度解决理论 | 24 | 中 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+

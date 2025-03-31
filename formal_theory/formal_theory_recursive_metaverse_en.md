@@ -22,6 +22,9 @@
 - [5. Extensions and Implications](#5-extensions-and-implications)
   - [5.1 Information Flow Between Metaverses](#51-information-flow-between-metaverses)
   - [5.2 Infinite Recursion and Metaverse Stability](#52-infinite-recursion-and-metaverse-stability)
+- [6. Theory Reference Relationships](#6-theory-reference-relationships)
+  - [6.1 Theories Referenced by This Theory](#61-theories-referenced-by-this-theory)
+  - [6.2 Theories That Reference This Theory](#62-theories-that-reference-this-theory)
 
 ---
 
@@ -299,4 +302,29 @@ $`v^* = \mathcal{N}(v^*, \infty)`$
 
 This represents a completely self-recursive metaverse, which is the ultimate limit state of recursive metaverse theory.
 
-In this state, the metaverse both contains itself and perfect representations of all other possible metaverses, forming the ultimate body of the recursive metaverse network. 
+In this state, the metaverse both contains itself and perfect representations of all other possible metaverses, forming the ultimate body of the recursive metaverse network.
+
+## 6. Theory Reference Relationships
+
+### 6.1 Theories Referenced by This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|-----------------|-----------|------|
+| Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
+| Multiverse | 22 | High | [Multiverse](formal_theory_multiverse_en.md) |
+| Dimensional Spectrum | 12 | Medium | [Dimensional Spectrum](formal_theory_dimensional_spectrum_en.md) |
+| Dimensional Harmony | 18 | Medium | [Dimensional Harmony](formal_theory_dimensional_harmony_en.md) |
+| Information Conservation | 15 | Medium | [Information Conservation](formal_theory_information_conservation_en.md) |
+| Quantum Classical Unification | 19 | Medium | [Quantum Classical Unification](formal_theory_quantum_classical_unification_en.md) |
+| Information Field | 14 | Medium | [Information Field](formal_theory_information_field_en.md) |
+| Recursive Self-Referential Systems | 9 | High | [Recursive Self-Referential Systems](formal_theory_recursive_self_referential_systems_en.md) |
+
+### 6.2 Theories That Reference This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|-----------------|-----------|------|
+| Genesis Memory | 21 | Medium | [Genesis Memory](formal_theory_genesis_memory_en.md) |
+| Transcendent Harmony | 19 | Medium | [Transcendent Harmony](formal_theory_transcendent_harmony_en.md) |
+| Millennium Problems | 24 | Low | [Millennium Problems](formal_theory_millennium_problems_en.md) |
+
+Theory Version: v36.0 [Cosmic Ontology Version] 

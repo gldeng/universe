@@ -22,6 +22,9 @@
 - [5. 扩展与推论](#5-扩展与推论)
   - [5.1 超越和谐的宇宙学意义](#51-超越和谐的宇宙学意义)
   - [5.2 超越和谐与复杂系统理论](#52-超越和谐与复杂系统理论)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -238,4 +241,27 @@ $`\Lambda_{\mathcal{H}}(C) = \sum_{i=1}^{n} |C_i| \cdot H_{\mathcal{C}}(C_i) \cd
 
 $`\gamma_{i} = \frac{|\Phi(C_i)|}{|C_i|} \cdot (1 + |\text{SHIFT}(C_i) \oplus C_i|)^{-1}`$
 
-这一框架将超越和谐与复杂适应系统理论统一，为研究生命、智能和社会系统提供了新视角。 
+这一框架将超越和谐与复杂适应系统理论统一，为研究生命、智能和社会系统提供了新视角。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 维度和谐理论 | 18 | 高 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 观察者本体论 | 17 | 高 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 哲学基础理论 | 11 | 高 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 创世记忆理论 | 21 | 高 | [创世记忆理论](formal_theory_genesis_memory.md) |
+

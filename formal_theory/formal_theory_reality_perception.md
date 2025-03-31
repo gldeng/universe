@@ -1,4 +1,4 @@
-# 现实感知与存在本质的严格形式化描述 v36.0
+# 现实感知与存在本质的严格形式化描述 [维度: 12] v36.0
 
 **[中文版] | [English Version](formal_theory_reality_perception_en.md)**
 
@@ -24,6 +24,9 @@
   - [5.1 理论预测](#51-理论预测)
   - [5.2 感知增强技术](#52-感知增强技术)
   - [5.3 跨维度感知协议](#53-跨维度感知协议)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -361,4 +364,26 @@ $`\Phi_P^{expanded} = \Phi_P \oplus \bigoplus_{i=1}^{k} \text{SHIFT}^i(\Phi_P)`$
    确保不同维度感知系统能达成一致的解释：
    $`\Phi_P^{consensus} = \Phi_P^{low} \oplus \text{SHIFT}(\mathcal{E}_{down}(\Phi_R^{high}) \oplus \Phi_P^{low})`$
 
-这些理论和应用为理解感知与存在本质提供了严格的数学基础，并开启了增强人类感知边界的新可能。 
+这些理论和应用为理解感知与存在本质提供了严格的数学基础，并开启了增强人类感知边界的新可能。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 哲学基础理论 | 11 | 高 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+| 递归自参照系统 | 9 | 高 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 信息守恒理论 | 15 | 低 | [信息守恒理论](formal_theory_information_conservation.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 意识与自由意志理论 | 13 | 高 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+| 观察者本体论 | 17 | 中 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 量子经典统一理论 | 19 | 低 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 超越和谐理论 | 19 | 低 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+

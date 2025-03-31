@@ -28,6 +28,9 @@
   - [6.1 信息场存在性定理](#61-信息场存在性定理)
   - [6.2 信息场守恒定理](#62-信息场守恒定理)
   - [6.3 信息场维度迁移定理](#63-信息场维度迁移定理)
+- [7. 理论引用关系](#7-理论引用关系)
+  - [7.1 本理论引用的其他理论](#71-本理论引用的其他理论)
+  - [7.2 引用本理论的其他理论](#72-引用本理论的其他理论)
 
 ---
 
@@ -398,4 +401,30 @@ $`= [\Phi_I^{(m)} \oplus \text{SHIFT}^{|m-n|}(\Phi_I^{(m)})] \oplus [\text{SHIFT
 
 $`\mathcal{T}_{m,n}(\Phi_I^{(m)}) \oplus \text{SHIFT}^n(\mathcal{T}_{m,n}(\Phi_I^{(m)})) = \mathcal{T}_{m,n}(\Phi_I^{(m)})`$
 
-这证明$`\mathcal{T}_{m,n}(\Phi_I^{(m)})`$确实具有维度$`n`$的特性，从而证明了维度迁移定理。 
+这证明$`\mathcal{T}_{m,n}(\Phi_I^{(m)})`$确实具有维度$`n`$的特性，从而证明了维度迁移定理。
+
+## 7. 理论引用关系
+
+### 7.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息守恒理论 | 15 | 高 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 量子熵动力学 | 16 | 中 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 递归自参照系统 | 9 | 中 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+
+### 7.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 信息波动力学 | 17 | 高 | [信息波动力学](formal_theory_information_wave_dynamics.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 宇宙维度理论 | 20 | 中 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 观察者本体论 | 17 | 高 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+

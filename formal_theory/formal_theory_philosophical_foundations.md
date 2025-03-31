@@ -25,6 +25,9 @@
   - [5.1 关键定理证明](#51-关键定理证明)
   - [5.2 实践应用与思想实验](#52-实践应用与思想实验)
   - [5.3 前沿问题与开放研究](#53-前沿问题与开放研究)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -379,4 +382,29 @@ $`\mathcal{F}_3: \exists x: \forall y, y = x \oplus \text{SHIFT}^n(x), n \in \ma
 
 探讨是否存在单一实体，通过XOR与SHIFT操作生成所有其他实体。
 
-这些前沿问题构成了哲学形式化研究的未来方向，将推动四维时空理论与哲学的深度融合。 
+这些前沿问题构成了哲学形式化研究的未来方向，将推动四维时空理论与哲学的深度融合。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 递归自参照系统 | 9 | 高 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 意识与自由意志理论 | 13 | 高 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+| 现实感知理论 | 11 | 中 | [现实感知理论](formal_theory_reality_perception.md) |
+| 数学理论 | 15 | 中 | [数学理论](formal_theory_mathematics.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 超越和谐理论 | 19 | 高 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 观察者本体论 | 17 | 高 | [观察者本体论](formal_theory_observer_ontology.md) |
+| 创世记忆理论 | 21 | 中 | [创世记忆理论](formal_theory_genesis_memory.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 千禧年数学问题超维度解决理论 | 24 | 中 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+

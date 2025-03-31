@@ -24,6 +24,9 @@
   - [5.1 观察者自包含定理](#51-观察者自包含定理)
   - [5.2 观察层级无限定理](#52-观察层级无限定理)
   - [5.3 观察者本质同构定理](#53-观察者本质同构定理)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -315,4 +318,29 @@ $`f(a, b) = a \oplus \text{SHIFT}(b)`$
 
 对于任意复杂的观察者$`\mathcal{O}`$，其所有功能都可以分解为XOR与SHIFT操作的组合。
 
-因此，所有观察者在操作本质上同构于XOR-SHIFT结构。 
+因此，所有观察者在操作本质上同构于XOR-SHIFT结构。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息场理论 | 14 | 高 | [信息场理论](formal_theory_information_field.md) |
+| 意识与自由意志理论 | 13 | 高 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+| 哲学基础理论 | 11 | 高 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+| 现实感知理论 | 11 | 中 | [现实感知理论](formal_theory_reality_perception.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 超越和谐理论 | 19 | 高 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 创世记忆理论 | 21 | 中 | [创世记忆理论](formal_theory_genesis_memory.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+

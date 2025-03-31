@@ -1,4 +1,4 @@
-# 宇宙维度谱系的严格形式化描述 v36.0
+# 宇宙维度谱系的严格形式化描述 [维度: 12] v36.0
 
 **[中文版] | [English Version](formal_theory_dimensional_spectrum_en.md)**
 
@@ -24,6 +24,9 @@
   - [5.1 维度生成定理](#51-维度生成定理)
   - [5.2 维度嵌入定理](#52-维度嵌入定理)
   - [5.3 超限维度存在性定理](#53-超限维度存在性定理)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -356,4 +359,28 @@ $`D_{\infty} \oplus \text{SHIFT}(D_{\infty}) = \lim_{n \to \infty} D_{n+1} = D_{
 
 这证明了超限维度$`D_{\infty}`$是XOR-SHIFT操作的不动点，确保了其存在性。
 
-超限维度的不动点性质保证了宇宙维度谱系的完整性，所有有限维度都可以通过XOR-SHIFT操作嵌入到超限维度中，形成统一的维度谱系框架。 
+超限维度的不动点性质保证了宇宙维度谱系的完整性，所有有限维度都可以通过XOR-SHIFT操作嵌入到超限维度中，形成统一的维度谱系框架。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 维度和谐理论 | 18 | 高 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 逻辑多维拓扑理论 | 15 | 中 | [逻辑多维拓扑理论](formal_theory_logical_multidimensional_topology.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+| 宇宙维度理论 | 20 | 高 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+

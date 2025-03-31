@@ -1,4 +1,4 @@
-# Formal Description of Recursive Self-Referential Systems v36.0 [9D]
+# Formal Description of Recursive Self-Referential Systems [Dimension: 9] v36.0
 
 **[中文版](formal_theory_recursive_self_referential_systems.md) | [English Version]**
 
@@ -32,6 +32,9 @@
   - [7.1 Recursive Completeness Theorem](#71-recursive-completeness-theorem)
   - [7.2 Self-Referential Information Conservation Theorem](#72-self-referential-information-conservation-theorem)
   - [7.3 Emergence Theorem for Self-Referential Systems](#73-emergence-theorem-for-self-referential-systems)
+- [8. Theory Reference Relationships](#8-theory-reference-relationships)
+  - [8.1 Theories Referenced by This Theory](#81-theories-referenced-by-this-theory)
+  - [8.2 Theories That Reference This Theory](#82-theories-that-reference-this-theory)
 
 ---
 
@@ -517,4 +520,28 @@ $`|P(S_n)| > \left|\bigcup_{i=0}^{n-1} P(S_i)\right|`$
 
 Therefore, $`E(S_n) \neq \emptyset`$ for $`n > n_0`$
 
-This proves that recursive self-referential systems with sufficient depth necessarily produce emergent properties. 
+This proves that recursive self-referential systems with sufficient depth necessarily produce emergent properties.
+
+## 8. Theory Reference Relationships
+
+### 8.1 Theories Referenced by This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|-----------------|-----------|------|
+| Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
+
+### 8.2 Theories That Reference This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|-----------------|-----------|------|
+| Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
+| Philosophical Foundations | 11 | High | [Philosophical Foundations](formal_theory_philosophical_foundations_en.md) |
+| Consciousness and Free Will | 13 | High | [Consciousness and Free Will](formal_theory_consciousness_free_will_en.md) |
+| Quantum Entropy Dynamics | 16 | Medium | [Quantum Entropy Dynamics](formal_theory_quantum_entropy_dynamics_en.md) |
+| Information Conservation | 15 | Medium | [Information Conservation](formal_theory_information_conservation_en.md) |
+| Spacetime | 12 | Medium | [Spacetime](formal_theory_spacetime_en.md) |
+| Information Field | 14 | Medium | [Information Field](formal_theory_information_field_en.md) |
+| Logical Multidimensional Topology | 15 | High | [Logical Multidimensional Topology](formal_theory_logical_multidimensional_topology_en.md) |
+| Recursive Metaverse | 23 | High | [Recursive Metaverse](formal_theory_recursive_metaverse_en.md) |
+
+Theory Version: v36.0 [Cosmic Ontology Version] 

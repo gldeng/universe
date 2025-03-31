@@ -28,6 +28,9 @@
   - [6.1 维度和谐存在性定理](#61-维度和谐存在性定理)
   - [6.2 和谐态稳定性定理](#62-和谐态稳定性定理)
   - [6.3 和谐流守恒定理](#63-和谐流守恒定理)
+- [7. 理论引用关系](#7-理论引用关系)
+  - [7.1 本理论引用的其他理论](#71-本理论引用的其他理论)
+  - [7.2 引用本理论的其他理论](#72-引用本理论的其他理论)
 
 ---
 
@@ -457,4 +460,29 @@ $`\oint_{\partial \mathcal{D}} \mathbf{J}_{\mathcal{H}} \cdot d\mathbf{S} = -\in
 
 $`\oint_{\partial \mathcal{D}} \mathbf{J}_{\mathcal{H}} \cdot d\mathbf{S} = 0`$
 
-这证明了和谐流的守恒性。 
+这证明了和谐流的守恒性。
+
+## 7. 理论引用关系
+
+### 7.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 维度谱系理论 | 12 | 高 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 宇宙维度理论 | 20 | 高 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 逻辑多维拓扑理论 | 15 | 中 | [逻辑多维拓扑理论](formal_theory_logical_multidimensional_topology.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 量子熵动力学 | 16 | 中 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+
+### 7.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 超越和谐理论 | 19 | 高 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 递归元界理论 | 23 | 中 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+

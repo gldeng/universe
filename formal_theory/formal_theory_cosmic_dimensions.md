@@ -36,6 +36,9 @@
   - [5.1 维度正交性定理](#51-维度正交性定理)
   - [5.2 维度递归生成定理](#52-维度递归生成定理)
   - [5.3 超限维度收敛定理](#53-超限维度收敛定理)
+- [7. 理论引用关系](#7-理论引用关系)
+  - [7.1 本理论引用的其他理论](#71-本理论引用的其他理论)
+  - [7.2 引用本理论的其他理论](#72-引用本理论的其他理论)
 
 ---
 
@@ -451,4 +454,31 @@ $`d(D_n, D_m) = |D_n \oplus D_m|/|D_n \cup D_m| < \varepsilon`$ 对充分大的 
 
 $`D_{\infty} = \lim_{n \to \infty} D_n = \lim_{n \to \infty} D_{n-1} \oplus \text{SHIFT}(D_{n-1}) = D_{\infty} \oplus \text{SHIFT}(D_{\infty})`$
 
-这证明了超限维度的存在性及其自参照特性。 
+这证明了超限维度的存在性及其自参照特性。
+
+## 7. 理论引用关系
+
+### 7.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 维度谱系理论 | 12 | 高 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 维度和谐理论 | 18 | 高 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 逻辑多维拓扑理论 | 15 | 高 | [逻辑多维拓扑理论](formal_theory_logical_multidimensional_topology.md) |
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+
+### 7.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 多宇宙理论 | 22 | 高 | [多宇宙理论](formal_theory_multiverse.md) |
+| 递归元界理论 | 23 | 高 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 创世记忆理论 | 21 | 中 | [创世记忆理论](formal_theory_genesis_memory.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 千禧年数学问题超维度解决理论 | 24 | 中 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+

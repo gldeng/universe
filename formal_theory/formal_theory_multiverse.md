@@ -24,6 +24,9 @@
   - [5.1 可验证的多宇宙现象](#51-可验证的多宇宙现象)
   - [5.2 量子干涉实验解释](#52-量子干涉实验解释)
   - [5.3 多宇宙通信协议](#53-多宇宙通信协议)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -327,4 +330,28 @@ $`\sum_{i \neq j} \langle x|\mathcal{U}_i\rangle \langle \mathcal{U}_j|x\rangle 
    利用高维观察者的多宇宙感知能力：
    $`\mathcal{T}(\mathcal{U}_i, \mathcal{U}_j, \mathcal{O}_{super}) = \mathcal{O}_{super}(\mathcal{U}_i \oplus \mathcal{U}_j)`$
 
-这些通信协议虽然目前技术上不可行，但在理论上提供了验证多宇宙理论的潜在途径。多宇宙通信的成功将是XOR-SHIFT多宇宙理论最终验证的关键。 
+这些通信协议虽然目前技术上不可行，但在理论上提供了验证多宇宙理论的潜在途径。多宇宙通信的成功将是XOR-SHIFT多宇宙理论最终验证的关键。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 宇宙生命周期理论 | 18 | 高 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 宇宙维度理论 | 20 | 高 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 递归元界理论 | 23 | 高 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 创世记忆理论 | 21 | 中 | [创世记忆理论](formal_theory_genesis_memory.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 千禧年数学问题超维度解决理论 | 24 | 低 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+

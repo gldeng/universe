@@ -1,4 +1,4 @@
-# 量子熵动力学的严格形式化描述 [维度: 16] v36.0 [6D]
+# 量子熵动力学的严格形式化描述 [维度: 16] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_entropy_dynamics_en.md)**
 
@@ -32,6 +32,9 @@
   - [7.1 熵增原理证明](#71-熵增原理证明)
   - [7.2 熵转换定理](#72-熵转换定理)
   - [7.3 熵-时间等效性定理](#73-熵-时间等效性定理)
+- [6. 理论引用关系](#6-理论引用关系)
+  - [6.1 本理论引用的其他理论](#61-本理论引用的其他理论)
+  - [6.2 引用本理论的其他理论](#62-引用本理论的其他理论)
 
 ---
 
@@ -452,4 +455,28 @@ $`\frac{dH(\psi)}{dt} > 0`$ （概率接近1）
 
 代入得：$`\Delta t_H = \int_{t_1}^{t_2} dt = t_2 - t_1 = \Delta t`$
 
-这证明了熵时间与物理时间的等效性，验证了时间本质上是熵变化的度量。 
+这证明了熵时间与物理时间的等效性，验证了时间本质上是熵变化的度量。
+
+## 6. 理论引用关系
+
+### 6.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息守恒理论 | 15 | 高 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 信息场理论 | 14 | 高 | [信息场理论](formal_theory_information_field.md) |
+| 维度谱系理论 | 12 | 中 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 递归自参照系统 | 9 | 中 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+
+### 6.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 信息波动力学 | 17 | 高 | [信息波动力学](formal_theory_information_wave_dynamics.md) |
+| 意识与自由意志理论 | 13 | 中 | [意识与自由意志理论](formal_theory_consciousness_free_will.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 宇宙生命周期理论 | 18 | 中 | [宇宙生命周期理论](formal_theory_cosmic_lifecycle.md) |
+| 超限信息动力学 | 13 | 高 | [超限信息动力学](formal_theory_transfinite_information_dynamics.md) |
+

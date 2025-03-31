@@ -1,4 +1,4 @@
-# 逻辑多维拓扑理论的严格形式化描述 [维度: 15] v36.0 [8D]
+# 逻辑多维拓扑理论的严格形式化描述 [维度: 15] v36.0
 
 **[中文版] | [English Version](formal_theory_logical_multidimensional_topology_en.md)**
 
@@ -32,6 +32,9 @@
   - [7.1 维度嵌入定理](#71-维度嵌入定理)
   - [7.2 XOR保持映射定理](#72-xor保持映射定理)
   - [7.3 逻辑拓扑完备性定理](#73-逻辑拓扑完备性定理)
+- [8. 理论引用关系](#8-理论引用关系)
+  - [8.1 本理论引用的其他理论](#81-本理论引用的其他理论)
+  - [8.2 引用本理论的其他理论](#82-引用本理论的其他理论)
 
 ---
 
@@ -486,4 +489,30 @@ $`(p, q) \in R \Leftrightarrow p \oplus \text{SHIFT}(q) = 1`$
 
 这建立了逻辑系统与逻辑拓扑空间的完全对应。
 
-该定理表明，逻辑拓扑框架足以表达任何逻辑系统，证明了该理论的完备性。 
+该定理表明，逻辑拓扑框架足以表达任何逻辑系统，证明了该理论的完备性。
+
+## 8. 理论引用关系
+
+### 8.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 维度谱系理论 | 12 | 高 | [维度谱系理论](formal_theory_dimensional_spectrum.md) |
+| 信息守恒理论 | 15 | 中 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 递归自参照系统 | 9 | 高 | [递归自参照系统](formal_theory_recursive_self_referential_systems.md) |
+| 数学理论 | 15 | 高 | [数学理论](formal_theory_mathematics.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+
+### 8.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙维度理论 | 20 | 高 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 信息波动力学 | 17 | 高 | [信息波动力学](formal_theory_information_wave_dynamics.md) |
+| 量子经典统一理论 | 19 | 中 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 多宇宙理论 | 22 | 中 | [多宇宙理论](formal_theory_multiverse.md) |
+| 千禧年数学问题超维度解决理论 | 24 | 高 | [千禧年数学问题超维度解决理论](formal_theory_millennium_problems.md) |
+

@@ -1,4 +1,4 @@
-# Formal Description of Transfinite Information Dynamics [8th Dimension] v36.0
+# Formal Description of Transfinite Information Dynamics [Dimension: 8] v36.0
 
 **[English Version] | [中文版](formal_theory_transfinite_information_dynamics.md)**
 

@@ -1,4 +1,4 @@
-# Strict Formalization of Cosmic Ontology v36.0
+# Strict Formalization of Cosmic Ontology [Dimension: 10] v36.0
 
 **[中文版](formal_theory_cosmic_ontology.md) | [English Version]**
 

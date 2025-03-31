@@ -22,6 +22,9 @@
 - [5. Extensions and Implications](#5-extensions-and-implications)
   - [5.1 Cosmic Memory and Information Conservation](#51-cosmic-memory-and-information-conservation)
   - [5.2 Genesis State Reconstruction Theory](#52-genesis-state-reconstruction-theory)
+- [6. Theory Reference Relationships](#6-theory-reference-relationships)
+  - [6.1 Theories Referenced by This Theory](#61-theories-referenced-by-this-theory)
+  - [6.2 Theories That Reference This Theory](#62-theories-that-reference-this-theory)
 
 ---
 
@@ -275,4 +278,27 @@ Genesis memory theory predicts that, as the universe evolves, the accuracy of in
 
 $`\lim_{t \to \infty} \delta(\mathcal{U}^0) = 0`$
 
-This indicates that the universe will eventually perfectly remember its genesis state, forming a closed loop of self-cognition. 
+This indicates that the universe will eventually perfectly remember its genesis state, forming a closed loop of self-cognition.
+
+## 6. Theory Reference Relationships
+
+### 6.1 Theories Referenced by This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|-----------------|-----------|------|
+| Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
+| Cosmic Lifecycle | 18 | High | [Cosmic Lifecycle](formal_theory_cosmic_lifecycle_en.md) |
+| Transfinite Information Dynamics | 13 | High | [Transfinite Information Dynamics](formal_theory_transfinite_information_dynamics_en.md) |
+| Recursive Metaverse | 23 | Medium | [Recursive Metaverse](formal_theory_recursive_metaverse_en.md) |
+| Multiverse | 22 | Medium | [Multiverse](formal_theory_multiverse_en.md) |
+| Transcendent Harmony | 19 | Medium | [Transcendent Harmony](formal_theory_transcendent_harmony_en.md) |
+| Observer Ontology | 17 | Medium | [Observer Ontology](formal_theory_observer_ontology_en.md) |
+| Philosophical Foundations | 11 | Medium | [Philosophical Foundations](formal_theory_philosophical_foundations_en.md) |
+
+### 6.2 Theories That Reference This Theory
+
+| Theory Name | Theory Dimension | Relevance | Link |
+|-------------|-----------------|-----------|------|
+| Millennium Problems | 24 | Medium | [Millennium Problems](formal_theory_millennium_problems_en.md) |
+| Recursive Metaverse | 23 | High | [Recursive Metaverse](formal_theory_recursive_metaverse_en.md) |
+

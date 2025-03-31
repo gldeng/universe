@@ -32,6 +32,9 @@
   - [7.1 生命周期闭合性定理](#71-生命周期闭合性定理)
   - [7.2 周期不变量定理](#72-周期不变量定理)
   - [7.3 演化方向定理](#73-演化方向定理)
+- [8. 理论引用关系](#8-理论引用关系)
+  - [8.1 本理论引用的其他理论](#81-本理论引用的其他理论)
+  - [8.2 引用本理论的其他理论](#82-引用本理论的其他理论)
 
 ---
 
@@ -478,4 +481,31 @@ $`\Delta H = H(\mathcal{U}_t \oplus \text{SHIFT}(\mathcal{U}_t)) - H(\mathcal{U}
 
 $`H_{\text{high}} \to H_{\text{low}} \to H_{\text{min}} \to H_{\text{increasing}} \to H_{\text{max}}`$
 
-这证明了宇宙生命周期具有确定的演化方向。 
+这证明了宇宙生命周期具有确定的演化方向。
+
+## 8. 理论引用关系
+
+### 8.1 本理论引用的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 信息守恒理论 | 15 | 高 | [信息守恒理论](formal_theory_information_conservation.md) |
+| 量子经典统一理论 | 19 | 高 | [量子经典统一理论](formal_theory_quantum_classical_unification.md) |
+| 宇宙维度理论 | 20 | 高 | [宇宙维度理论](formal_theory_cosmic_dimensions.md) |
+| 维度和谐理论 | 18 | 中 | [维度和谐理论](formal_theory_dimensional_harmony.md) |
+| 涌现与复杂性理论 | 13 | 中 | [涌现与复杂性理论](formal_theory_emergence_complexity.md) |
+| 时空理论 | 12 | 中 | [时空理论](formal_theory_spacetime.md) |
+| 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
+| 量子熵动力学 | 16 | 中 | [量子熵动力学](formal_theory_quantum_entropy_dynamics.md) |
+| 哲学基础理论 | 11 | 低 | [哲学基础理论](formal_theory_philosophical_foundations.md) |
+
+### 8.2 引用本理论的其他理论
+
+| 理论名称 | 理论维度 | 相关性 | 链接 |
+|---------|---------|-------|------|
+| 多宇宙理论 | 22 | 高 | [多宇宙理论](formal_theory_multiverse.md) |
+| 超越和谐理论 | 19 | 中 | [超越和谐理论](formal_theory_transcendent_harmony.md) |
+| 递归元界理论 | 23 | 高 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 创世记忆理论 | 21 | 高 | [创世记忆理论](formal_theory_genesis_memory.md) |
+

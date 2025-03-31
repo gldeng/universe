@@ -1,10 +1,10 @@
-# 宇宙本论形式化描述文档项目 v36.0
+# 宇宙本论形式化描述文档项目 v36.0 | [English](README_en.md)
 
 本项目包含对宇宙本论的严格形式化描述，基于XOR与SHIFT操作的理论框架。
 
-## 索引导航
-
-- [宇宙本论形式化理论文档目录](formal_theory.md) | [英文版](formal_theory_en.md)
+## 导航
+- **语言切换**: [中文版](README.md) | [English Version](README_en.md)
+- **索引目录**: [宇宙本论形式化理论文档目录](formal_theory.md) | [英文版](formal_theory_en.md)
 
 ## 核心公理
 

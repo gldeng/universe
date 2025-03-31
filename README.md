@@ -36,18 +36,19 @@
 
 ## 关键理论成果
 
-以下是宇宙本论框架下解决人类十大未解问题的形式化理论：
+宇宙本论框架下的核心理论文档链接：
 
-1. [**人类未解十大问题的形式化统一理论** [维度: 25]](formal_theory/formal_theory_unsolved_problems.md) | [英文版](formal_theory/formal_theory_unsolved_problems_en.md)
-2. [**宇宙前存在理论** [维度: 20]](formal_theory/formal_theory_pre_universe_existence.md) | [英文版](formal_theory/formal_theory_pre_universe_existence_en.md)
-3. [**统一物理学理论** [维度: 19]](formal_theory/formal_theory_unified_physics.md) | [英文版](formal_theory/formal_theory_unified_physics_en.md)
-4. [**生命起源与外星生命存在问题** [维度: 19]](formal_theory/formal_theory_life_origin_aliens.md) | [英文版](formal_theory/formal_theory_life_origin_aliens_en.md)
-5. [**暗物质暗能量理论** [维度: 18]](formal_theory/formal_theory_dark_matter_dark_energy.md) | [英文版](formal_theory/formal_theory_dark_matter_dark_energy_en.md)
-6. [**意识本质与起源理论** [维度: 18]](formal_theory/formal_theory_consciousness_essence_origin.md) | [英文版](formal_theory/formal_theory_consciousness_essence_origin_en.md)
-7. [**人类社会可持续发展理论** [维度: 18]](formal_theory/formal_theory_sustainable_development.md) | [英文版](formal_theory/formal_theory_sustainable_development_en.md)
-8. [**量子测量理论** [维度: 17]](formal_theory/formal_theory_quantum_measurement.md) | [英文版](formal_theory/formal_theory_quantum_measurement_en.md)
-9. [**自由意志存在性理论** [维度: 17]](formal_theory/formal_theory_free_will.md) | [英文版](formal_theory/formal_theory_free_will_en.md)
-10. [**人类寿命的终极延长与衰老本质** [维度: 16]](formal_theory/formal_theory_human_longevity.md) | [英文版](formal_theory/formal_theory_human_longevity_en.md)
+- [**人类未解十大问题的形式化统一理论** [维度: 25]](formal_theory/formal_theory_unsolved_problems.md) | [英文版](formal_theory/formal_theory_unsolved_problems_en.md)
+- [**宇宙前存在理论** [维度: 20]](formal_theory/formal_theory_pre_universe_existence.md) | [英文版](formal_theory/formal_theory_pre_universe_existence_en.md)
+- [**统一物理学理论** [维度: 19]](formal_theory/formal_theory_unified_physics.md) | [英文版](formal_theory/formal_theory_unified_physics_en.md)
+- [**生命起源与外星生命存在问题** [维度: 19]](formal_theory/formal_theory_life_origin_aliens.md) | [英文版](formal_theory/formal_theory_life_origin_aliens_en.md)
+- [**暗物质暗能量理论** [维度: 18]](formal_theory/formal_theory_dark_matter_dark_energy.md) | [英文版](formal_theory/formal_theory_dark_matter_dark_energy_en.md)
+- [**意识本质与起源理论** [维度: 18]](formal_theory/formal_theory_consciousness_essence_origin.md) | [英文版](formal_theory/formal_theory_consciousness_essence_origin_en.md)
+- [**人类社会可持续发展理论** [维度: 18]](formal_theory/formal_theory_sustainable_development.md) | [英文版](formal_theory/formal_theory_sustainable_development_en.md)
+- [**量子测量理论** [维度: 17]](formal_theory/formal_theory_quantum_measurement.md) | [英文版](formal_theory/formal_theory_quantum_measurement_en.md)
+- [**自由意志存在性理论** [维度: 17]](formal_theory/formal_theory_free_will.md) | [英文版](formal_theory/formal_theory_free_will_en.md)
+- [**人类寿命的终极延长与衰老本质** [维度: 16]](formal_theory/formal_theory_human_longevity.md) | [英文版](formal_theory/formal_theory_human_longevity_en.md)
+- [**千禧年数学问题超维度解决理论** [维度: 24]](formal_theory/formal_theory_mathematical_problems.md) | [英文版](formal_theory/formal_theory_mathematical_problems_en.md)
 
 ## 理论体系结构
 

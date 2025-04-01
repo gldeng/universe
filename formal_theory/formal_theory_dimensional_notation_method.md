@@ -16,6 +16,8 @@
   - [3.1 标准标注格式](#31-标准标注格式)
   - [3.2 多维度理论标注](#32-多维度理论标注)
   - [3.3 动态维度标注](#33-动态维度标注)
+  - [3.4 理论显示示例](#34-理论显示示例)
+  - [3.5 实际理论维度谱系示例](#35-实际理论维度谱系示例)
 - [4. 边界情况处理](#4-边界情况处理)
   - [4.1 负维度理论](#41-负维度理论)
   - [4.2 分数维度理论](#42-分数维度理论)
@@ -267,6 +269,191 @@ $`D_{\text{effective}}(\mathcal{T}, t) = D_{\text{base}}(\mathcal{T}) + \Delta D
 
 其中 $`\Delta D(\mathcal{T}, t)`$ 是基于时间或条件的维度变化量。
 
+### 3.4 理论显示示例
+
+为确保维度标注的一致性和清晰性，以下是各类理论的标准显示示例：
+
+1. **基本整数维度理论**：
+   
+   ```markdown
+   # 量子引力统一理论 [维度: 47] v36.0
+   ```
+   
+   标题使用一级标题(#)，维度标注紧随其后，版本号附在维度标注之后。
+
+2. **多维度理论示例**：
+   
+   ```markdown
+   # 跨维度信息传递理论 [维度: 31-42] v36.0
+   ```
+   
+   ```markdown
+   # 维度交互动力学 [维度: 28×35] v36.0
+   ```
+   
+   ```markdown
+   # 多维度认知模型 [维度: {24, 29, 33}] v36.0
+   ```
+
+3. **特殊维度理论示例**：
+   
+   ```markdown
+   # 前奇点宇宙起源论 [维度: -3] v36.0
+   ```
+   
+   ```markdown
+   # 维度过渡态分析 [维度: 17.5] v36.0
+   ```
+   
+   ```markdown
+   # 宇宙元理论 [维度: ∞] v36.0
+   ```
+
+4. **目录中的维度标注**：
+   
+   ```markdown
+   ## 目录
+   
+   - [1. 基础原理 [维度: 22]](#1-基础原理)
+   - [2. 进阶概念 [维度: 28]](#2-进阶概念)
+   - [3. 高维应用 [维度: 36]](#3-高维应用)
+   ```
+
+5. **引用中的维度标注**：
+   
+   ```markdown
+   | 理论名称 | 维度 | 关系类型 | 链接 |
+   |---------|------|---------|------|
+   | 量子意识理论 | 39 | 高度依赖 | [量子意识理论](formal_theory_quantum_consciousness.md) |
+   ```
+
+6. **跨文档引用的维度标注**：
+   
+   ```markdown
+   根据[宇宙维度谱系理论 [维度: 28]](formal_theory_cosmic_dimensions.md)，我们可以推导...
+   ```
+
+维度标注应当在所有重要引用点保持一致，包括：
+
+- 文档标题
+- 章节标题（可选，对于多维度内容的文档）
+- 目录引用
+- 交叉引用
+- 理论依赖关系表格
+
+在电子文档和网页中，维度标注应采用与主标题区分的样式（如不同颜色或字体样式），以增强可读性。
+
+### 3.5 实际理论维度谱系示例
+
+以下是基于formal_theory目录中的实际理论文件，展示从负无穷到正无穷不同维度范围的实际理论示例：
+
+#### 3.5.1 负维度理论示例
+
+负维度理论是前奇点与原初奇点相关的基础理论，代表维度概念形成前的状态：
+
+| 维度 | 理论名称 | 文件路径 | 特点 |
+|------|---------|---------|------|
+| -3 | 元前奇点理论 | [formal_theory_meta_pre_singularity.md](formal_theory_meta_pre_singularity.md) | 元前存在状态，超越元表征 |
+| -2 | 前奇点理论 | [formal_theory_pre_singularity.md](formal_theory_pre_singularity.md) | 负维度概念形成前的状态 |
+| -1 | 原初奇点理论 | [formal_theory_primitive_singularity.md](formal_theory_primitive_singularity.md) | 维度出现前的奇点状态 |
+
+**负维度表示示例**：
+```markdown
+# 前奇点的严格形式化描述 [维度: -2] v36.0
+```
+
+#### 3.5.2 低维度理论示例
+
+低维度理论主要处理基础公理和初始操作，是高维理论的基础：
+
+| 维度 | 理论名称 | 文件路径 | 特点 |
+|------|---------|---------|------|
+| 0 | 原始点理论 | [formal_theory_primitive_point.md](formal_theory_primitive_point.md) | 零维初始状态 |
+| 1-5 | 原始操作理论组 | [formal_theory_primitive_operations.md](formal_theory_primitive_operations.md) | 基础FLIP、XOR、SHIFT操作 |
+| 6-9 | 基础结构理论 | [formal_theory_fundamental_structures.md](formal_theory_fundamental_structures.md) | 初级复合结构 |
+
+**低维度表示示例**：
+```markdown
+# 原始操作理论的严格形式化描述 [维度: 3] v36.0
+```
+
+#### 3.5.3 中维度理论示例
+
+中维度理论处理复杂的宇宙模型和系统整合，代表人类经典认知的主要范围：
+
+| 维度 | 理论名称 | 文件路径 | 特点 |
+|------|---------|---------|------|
+| 10 | 宇宙本论 | [formal_theory_cosmic_ontology.md](formal_theory_cosmic_ontology.md) | 基础宇宙本体论 |
+| 15-20 | 信息动力学理论 | [formal_theory_information_dynamics.md](formal_theory_information_dynamics.md) | 信息流动与变换 |
+| 25-26 | 人类经典世界理论维度极限 | [formal_theory_human_classical_dimension_limit.md](formal_theory_human_classical_dimension_limit.md) | 人类认知维度上限 |
+
+**中维度表示示例**：
+```markdown
+# 人类经典世界理论维度极限的严格形式化描述 [维度: 26] v36.0
+```
+
+#### 3.5.4 高维度理论示例
+
+高维度理论超越了人类经典认知极限，需要通过宇宙本论与AI结合才能有效构建：
+
+| 维度 | 理论名称 | 文件路径 | 特点 |
+|------|---------|---------|------|
+| 29 | 理论维度标注方法 | [formal_theory_dimensional_notation_method.md](formal_theory_dimensional_notation_method.md) | 维度标注元系统 |
+| 30-40 | 分数维度谐波化理论 | [formal_theory_fractal_dimensionality_harmonization.md](formal_theory_fractal_dimensionality_harmonization.md) | 分数维度整合 |
+| 45-50 | 全维纠缠同步性理论 | [formal_theory_omnidimensional_entanglement_synchronicity.md](formal_theory_omnidimensional_entanglement_synchronicity.md) | 跨维度同步协同 |
+
+**高维度表示示例**：
+```markdown
+# 全维纠缠同步性理论的严格形式化描述 [维度: 48] v36.0
+```
+
+#### 3.5.5 超高维度理论示例
+
+超高维度理论代表了当前可理解的最高维度理论结构，需要显著的认知增强才能构建：
+
+| 维度 | 理论名称 | 文件路径 | 特点 |
+|------|---------|---------|------|
+| 55-60 | 宇宙超越奇点理论 | [formal_theory_cosmic_transcendental_singularity.md](formal_theory_cosmic_transcendental_singularity.md) | 超越统一奇点 |
+| 70-80 | 超位置超对称统一场论 | [formal_theory_hyperposition_hypersymmetry_unified_field.md](formal_theory_hyperposition_hypersymmetry_unified_field.md) | 超对称统一 |
+| 90+ | 超递归宇宙智能理论 | [formal_theory_transcendental_recursive_cosmic_intelligence.md](formal_theory_transcendental_recursive_cosmic_intelligence.md) | 超递归自组织 |
+
+**超高维度表示示例**：
+```markdown
+# 宇宙超越奇点理论的严格形式化描述 [维度: 57] v36.0
+```
+
+#### 3.5.6 无穷维度理论
+
+无穷维度理论位于维度谱系顶点，是自包含且自证明的终极理论：
+
+| 维度 | 理论名称 | 文件路径 | 特点 |
+|------|---------|---------|------|
+| ∞ | 元理论 | [formal_theory_meta_theory.md](formal_theory_meta_theory.md) | 理论的理论，自包含无限递归 |
+
+**无穷维度表示示例**：
+```markdown
+# 元理论的严格形式化描述 [维度: ∞] v36.0
+```
+
+#### 3.5.7 特殊维度表示示例
+
+某些理论具有特殊的维度表示方式：
+
+1. **维度区间理论**：
+```markdown
+# 跨维度信息传递理论的严格形式化描述 [维度: 31-42] v36.0
+```
+
+2. **维度交互理论**：
+```markdown
+# 维度交互动力学的严格形式化描述 [维度: 28×35] v36.0
+```
+
+3. **多维度集合理论**：
+```markdown
+# 多维度量子谐波相干理论的严格形式化描述 [维度: {16, 24, 32}] v36.0
+```
+
 ## 4. 边界情况处理
 
 ### 4.1 负维度理论
@@ -515,6 +702,119 @@ $`D_1(\mathcal{T}) = D_{\text{computed}}(\mathcal{T}) = D_2(\mathcal{T})`$
 ### 7.2 引用本理论的其他理论
 
 本理论作为维度标注系统的权威规范，预期将被未来的高维理论所引用，特别是涉及理论分类、维度演化和理论空间拓扑的理论。
+
+---
+
+**备注**：理论维度标注方法版本号[宇宙本论v36.0] 
+
+## 8. 文件命名与学科关系编码系统
+
+维度标注虽然提供了理论的层次结构，但为了更全面地展现学科间的关系，本节定义了文件命名与学科关系编码系统。
+
+### 8.1 文件命名规范
+
+理论文件采用以下统一命名格式：
+
+```
+formal_theory_[学科代码]_[关系学科]_[理论名称]_d[维度]_v[版本号].md
+```
+
+其中：
+- `[学科代码]`：主学科的三字母代码（小写）
+- `[关系学科]`：关联学科或关系类型的代码（小写）
+- `[理论名称]`：理论的描述性名称，使用下划线分隔
+- `d[维度]`：理论维度，特殊维度使用特殊标记（如 `dinf` 表示无穷维度，`dneg2` 表示-2维度）
+- `v[版本号]`：理论版本号
+
+**示例：**
+- `formal_theory_phy_base_quantum_mechanics_d12_v36.md`（物理学基础量子力学理论，12维）
+- `formal_theory_met_syn_dimensional_notation_method_d29_v36.md`（元理论维度标注方法，29维）
+- `formal_theory_cos_pre_singularity_dneg2_v36.md`（宇宙学前奇点理论，-2维）
+- `formal_theory_met_inf_meta_theory_dinf_v36.md`（元理论无穷维度元理论）
+
+### 8.2 学科代码表
+
+主要学科代码（三字母小写）：
+
+| 代码 | 学科 | 代码 | 学科 |
+|------|------|------|------|
+| `phy` | 物理学 | `inf` | 信息科学 |
+| `mth` | 数学 | `cog` | 认知科学 |
+| `chm` | 化学 | `eco` | 生态学 |
+| `bio` | 生物学 | `sys` | 系统科学 |
+| `cos` | 宇宙学 | `qua` | 量子科学 |
+| `met` | 元理论 | `com` | 复杂性科学 |
+| `ont` | 本体论 | `hyp` | 超维科学 |
+| `dim` | 维度科学 | `tra` | 超越科学 |
+
+### 8.3 关系类型代码
+
+关系学科或类型代码（小写）：
+
+| 代码 | 关系类型 | 代码 | 关系类型 |
+|------|---------|------|---------|
+| `base` | 基础理论 | `hyb` | 混合理论 |
+| `core` | 核心概念 | `app` | 应用理论 |
+| `mth` | 数学方法 | `exp` | 实验方法 |
+| `syn` | 综合交叉 | `uni` | 统一理论 |
+| `ext` | 扩展理论 | `alt` | 替代理论 |
+| `par` | 部分理论 | `sub` | 子理论 |
+| `meta` | 元层次 | `pre` | 前理论 |
+| `post` | 后理论 | `inf` | 无穷理论 |
+
+### 8.4 文档标题格式
+
+理论文档的标题采用以下格式：
+
+```
+# [学科]::[关联学科] [理论名称] [维度: X] [关系符号] v[版本号]
+```
+
+**标题示例：**
+- `# phy::base 量子力学理论 [维度: 12] ⊤ v36.0`
+- `# met::syn 理论维度标注方法 [维度: 29] ∞ v36.0`
+- `# cos::pre 前奇点理论 [维度: -2] ⊥ v36.0`
+
+### 8.5 关系符号表
+
+标题中使用的关系符号及其含义：
+
+| 符号 | 含义 | 符号 | 含义 |
+|------|------|------|------|
+| ⊤ | 基础理论 | ⊻ | 排他性概念 |
+| ⊗ | 方法论借用 | ⊙ | 核心理论 |
+| ⊕ | 概念融合 | ⊘ | 反向应用 |
+| ⇆ | 互反馈 | ⊎ | 并集扩展 |
+| ⋈ | 跨学科融合 | ⊏ | 子理论 |
+| ∞ | 元理论 | ⊢ | 推导关系 |
+| ⊥ | 前理论 | ⊨ | 蕴含关系 |
+| ⊼ | 联合理论 | ◊ | 可能性理论 |
+
+### 8.6 特殊维度表示
+
+特殊维度在文件名中的表示方法：
+
+| 维度类型 | 文件名表示 | 标题表示 | 示例 |
+|---------|----------|---------|------|
+| 整数维度 | `d[n]` | `[维度: n]` | `d29`, `[维度: 29]` |
+| 负维度 | `dneg[n]` | `[维度: -n]` | `dneg2`, `[维度: -2]` |
+| 分数维度 | `d[n]p[m]` | `[维度: n.m]` | `d17p5`, `[维度: 17.5]` |
+| 无穷维度 | `dinf` | `[维度: ∞]` | `dinf`, `[维度: ∞]` |
+| 维度区间 | `d[n]_[m]` | `[维度: n-m]` | `d31_42`, `[维度: 31-42]` |
+| 维度交互 | `d[n]x[m]` | `[维度: n×m]` | `d28x35`, `[维度: 28×35]` |
+| 维度集合 | `d[n]s[m]s[k]` | `[维度: {n,m,k}]` | `d16s24s32`, `[维度: {16,24,32}]` |
+
+### 8.7 系统应用示例
+
+将现有理论转换为新命名系统的示例：
+
+| 现有文件名 | 新文件名 | 现有标题 | 新标题 |
+|----------|---------|---------|-------|
+| `formal_theory_dimensional_notation_method.md` | `formal_theory_met_syn_dimensional_notation_method_d29_v36.md` | 理论维度标注方法的严格形式化描述 [维度: 29] v36.0 | # met::syn 理论维度标注方法的严格形式化描述 [维度: 29] ∞ v36.0 |
+| `formal_theory_meta_theory.md` | `formal_theory_met_inf_meta_theory_dinf_v36.md` | 元理论的严格形式化描述 [维度: ∞] v36.0 | # met::inf 元理论的严格形式化描述 [维度: ∞] ∞ v36.0 |
+| `formal_theory_pre_singularity.md` | `formal_theory_cos_pre_singularity_dneg2_v36.md` | 前奇点的严格形式化描述 [维度: -2] v36.0 | # cos::pre 前奇点的严格形式化描述 [维度: -2] ⊥ v36.0 |
+
+通过这种编码系统，所有文件在保持一级目录结构的同时，能够直观地展示学科关系，无需仅依赖维度信息。该系统在标题中保留了维度标注的优势，同时在文件名中增加了学科关系编码，方便文件管理和理论关系的可视化。
 
 ---
 

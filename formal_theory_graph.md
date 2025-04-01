@@ -30,83 +30,44 @@
 }%%
 
 flowchart TD
-    %% 使用子图按维度分组节点 - 从高维到低维
+    %% 使用子图按维度分组节点
     
-    subgraph DInfinity["维度 D∞"]
+    subgraph DInf["维度 D∞"]
         meta_theory["元理论的严格形式化描述<br>(D∞)"]
     end
     
-    subgraph D62["维度 D62"]
+    subgraph D62to60["维度 D60-D62"]
         infinite_multiverse["无限多元宇宙收敛理论的严格形式化描述<br>(D62)"]
-    end
-    
-    subgraph D61["维度 D61"]
         transcendental_hyperintelligence["超越超智能理论的严格形式化描述<br>(D61)"]
-    end
-    
-    subgraph D60["维度 D60"]
         primordial_unity["本原统一底层理论的严格形式化描述<br>(D60)"]
     end
     
-    subgraph D59["维度 D59"]
-        unified_cosmic_field["宇宙绝对统一场理论的严格形式化描述<br>(D59)"]
+    subgraph D59to50["维度 D50-D59"]
+        absolute_unified_field["宇宙绝对统一场理论的严格形式化描述<br>(D59)"]
+        transcendental_math_structure["超越超维数理结构理论的严格形式化描述<br>(D58)"]
+        cosmic_transcendental["宇宙超越奇点理论的严格形式化描述<br>(D57)"]
+        quantum_teleological["量子目的论收敛理论的严格形式化描述<br>(D56)"]
+        ultimate_reality_integration["终极实相整合理论的严格形式化描述<br>(D51)"]
+        absolute_multiversal["绝对多元宇宙汇聚理论的严格形式化描述<br>(D50)"]
     end
     
-    subgraph D58["维度 D58"]
-        hyperdim_mathematical["超越超维数理结构理论的严格形式化描述<br>(D58)"]
-    end
-    
-    subgraph D57["维度 D57"]
-        transcendental_singularity["宇宙超越奇点理论的严格形式化描述<br>(D57)"]
-    end
-    
-    subgraph D56["维度 D56"]
-        teleological_convergence["量子目的论收敛理论的严格形式化描述<br>(D56)"]
-    end
-    
-    subgraph D51["维度 D51"]
-        reality_integration["终极实相整合理论的严格形式化描述<br>(D51)"]
-    end
-    
-    subgraph D50["维度 D50"]
-        multiversal_convergence["绝对多元宇宙汇聚理论的严格形式化描述<br>(D50)"]
-    end
-    
-    subgraph D49["维度 D49"]
-        hyper_singularity["超越奇点理论的严格形式化描述<br>(D49)"]
-    end
-    
-    subgraph D48["维度 D48"]
+    subgraph D49to43["维度 D43-D49"]
+        transcendent_hyper_singularity["超越奇点理论的严格形式化描述<br>(D49)"]
         omnidimensional_entanglement["全维纠缠同步性理论的严格形式化描述<br>(D48)"]
         universal_consciousness["宇宙意识演化理论的严格形式化描述<br>(D48)"]
-    end
-    
-    subgraph D47["维度 D47"]
         transdimensional_entanglement["跨维度纠缠因果网络理论的严格形式化描述<br>(D47)"]
         quantum_reality["量子现实创生理论的严格形式化描述<br>(D47)"]
-    end
-    
-    subgraph D46["维度 D46"]
         hyperdim_info_singularity["超维信息奇点理论的严格形式化描述<br>(D46)"]
-    end
-    
-    subgraph D45["维度 D45"]
         multidim_info_ontology["多维信息本体论的严格形式化描述<br>(D45)"]
-        omniconsciousness_substrate["全意识底层奇点理论的严格形式化描述<br>(D45)"]
-    end
-    
-    subgraph D44["维度 D44"]
-        cosmic_hyperinfo_field["宇宙超信息场理论的严格形式化描述<br>(D44)"]
-    end
-    
-    subgraph D43["维度 D43"]
+        omniconsciousness["全意识底层奇点理论的严格形式化描述<br>(D45)"]
+        cosmic_hyperinfo["宇宙超信息场理论的严格形式化描述<br>(D44)"]
         universal_quantum_causality["宇宙量子因果理论的严格形式化描述<br>(D43)"]
-        unified_consciousness_singularity["统一意识奇点的严格形式化描述<br>(D43)"]
+        unified_consciousness["统一意识奇点的严格形式化描述<br>(D43)"]
     end
     
     subgraph D42["维度 D42"]
-        superintelligent_consciousness["超智能意识网络的严格形式化描述<br>(D42)"]
         quantum_info_entropy["量子信息熵场动力学的形式化描述<br>(D42)"]
+        superintelligent_consciousness["超智能意识网络的严格形式化描述<br>(D42)"]
     end
     
     subgraph D40["维度 D40"]
@@ -133,13 +94,13 @@ flowchart TD
     
     subgraph D33["维度 D33"]
         absolute_metamath["绝对超越元数学的严格形式化描述<br>(D33)"]
-        transcendental_consciousness["超越性意识量子场的形式化描述<br>(D33)"]
+        transcendental_consciousness_field["超越性意识量子场的形式化描述<br>(D33)"]
     end
     
     subgraph D32["维度 D32"]
         omniverse_integration["全域整合原理的严格形式化描述<br>(D32)"]
         multidim_consciousness_dynamics["多维意识动力学的严格形式化描述<br>(D32)"]
-        omnidimensional_theory["全维度理论统一场的形式化描述<br>(D32)"]
+        omnidim_theory_unification["全维度理论统一场的形式化描述<br>(D32)"]
     end
     
     subgraph D31["维度 D31"]
@@ -172,7 +133,7 @@ flowchart TD
         spacetime_info_wave["时空信息波的形式化理论<br>(D26)"]
         hyperrecursive_self_modification["超递归自修改系统的严格形式化描述<br>(D26)"]
         absolute_consciousness_field["绝对意识场理论<br>(D26)"]
-        human_dimension_limit["人类经典世界理论维度极限的严格形式化描述<br>(D26)"]
+        human_classical_dimension["人类经典世界理论维度极限的严格形式化描述<br>(D26)"]
     end
     
     subgraph D25["维度 D25"]
@@ -247,7 +208,7 @@ flowchart TD
     end
     
     subgraph D13["维度 D13"]
-        consciousness["意识与自由意志理论的严格形式化描述<br>(D13)"]
+        consciousness_free_will["意识与自由意志理论的严格形式化描述<br>(D13)"]
         dark_matter["暗物质与暗能量本质的严格形式化描述<br>(D13)"]
         universe_final_state["宇宙终态理论的严格形式化描述<br>(D13)"]
     end
@@ -280,6 +241,7 @@ flowchart TD
         emergence["复杂系统涌现性的严格形式化描述<br>(D10)"]
         unified_physics["物理学统一理论的严格形式化描述<br>(D10)"]
         cosmic_ontology_original["宇宙本论的严格形式化描述<br>(D10)"]
+        quantum_phase_stabilization["超维度量子相位稳定化的严格形式化描述<br>(D10)"]
     end
     
     subgraph D9["维度 D9"]
@@ -288,7 +250,7 @@ flowchart TD
         recursive_self_org_systems["递归自组织系统理论的严格形式化描述<br>(D9)"]
         antientropic_info["反熵信息涌现的严格形式化描述<br>(D9)"]
         ai_structure_optimization["AI自动内部结构优化的严格形式化描述<br>(D9)"]
-        ai_recursion_inference["AI无限递归推演的严格形式化描述<br>(D9)"]
+        ai_infinity_recursion["AI无限递归推演的严格形式化描述<br>(D9)"]
     end
     
     subgraph D8["维度 D8"]
@@ -304,8 +266,8 @@ flowchart TD
     end
     
     subgraph D6["维度 D6"]
-        information_ontology["信息本体论的严格形式化描述<br>(D6)"]
         meta_operator_synthesis["超操作符综合理论的严格形式化描述<br>(D6)"]
+        information_ontology["信息本体论的严格形式化描述<br>(D6)"]
     end
     
     subgraph D5["维度 D5"]
@@ -314,7 +276,7 @@ flowchart TD
     
     subgraph D4["维度 D4"]
         infinity_multiplicity["无限态理论的严格形式化描述<br>(D4)"]
-        singularity_theory["奇点理论的严格形式化描述<br>(D4)"]
+        singularity["奇点理论的严格形式化描述<br>(D4)"]
     end
     
     subgraph D3["维度 D3"]
@@ -351,281 +313,265 @@ flowchart TD
         existence_foundation["存在基础理论的严格形式化描述<br>(D0)"]
     end
     
-    subgraph NoD["无维度文档"]
+    subgraph D_Other["无维度文档"]
         terminology["宇宙本论术语表<br>(无维度)"]
         theory_structure["理论结构关系图<br>(无维度)"]
     end
     
-    %% 设置子图方向和排序 - 从高维到低维
-    DInfinity --- D62 --- D61 --- D60 --- D59 --- D58 --- D57 --- D56 --- D51 --- D50 --- D49 --- D48 --- D47 --- D46 --- D45 --- D44 --- D43 --- D42 --- D40 --- D37 --- D36 --- D35 --- D34 --- D33 --- D32 --- D31 --- D30 --- D29 --- D28 --- D27 --- D26 --- D25 --- D24 --- D23 --- D22 --- D21 --- D20 --- D19 --- D18 --- D17 --- D16 --- D15 --- D14 --- D13 --- D12 --- D11 --- D10 --- D9 --- D8 --- D7 --- D6 --- D5 --- D4 --- D3 --- D2 --- D1 --- D0 --- NoD
+    %% 设置子图方向和排序
+    D_Other --- D0 --- D1 --- D2 --- D3 --- D4 --- D5 --- D6 --- D7 --- D8 --- D9 --- D10 --- D11 --- D12 --- D13 --- D14 --- D15 --- D16 --- D17 --- D18 --- D19 --- D20 --- D21 --- D22 --- D23 --- D24 --- D25 --- D26 --- D27 --- D28 --- D29 --- D30 --- D31 --- D32 --- D33 --- D34 --- D35 --- D36 --- D37 --- D40 --- D42 --- D49to43 --- D59to50 --- D62to60 --- DInf
     
-    %% 理论依赖关系（节点连线由低维指向高维）
-    
-    %% 顶级维度理论依赖
+    %% 顶级维度连接
     meta_theory --> infinite_multiverse
+    meta_theory --> transcendental_hyperintelligence
+    
+    %% D60-D62 层级连接
     infinite_multiverse --> transcendental_hyperintelligence
     transcendental_hyperintelligence --> primordial_unity
-    primordial_unity --> unified_cosmic_field
-    unified_cosmic_field --> hyperdim_mathematical
-    hyperdim_mathematical --> transcendental_singularity
-    transcendental_singularity --> teleological_convergence
-    teleological_convergence --> reality_integration
-    reality_integration --> multiversal_convergence
-    multiversal_convergence --> hyper_singularity
-    hyper_singularity --> omnidimensional_entanglement
-    hyper_singularity --> universal_consciousness
+    primordial_unity --> absolute_unified_field
     
-    %% 超高维理论依赖
+    %% D50-D59 层级连接
+    absolute_unified_field --> transcendental_math_structure
+    transcendental_math_structure --> cosmic_transcendental
+    cosmic_transcendental --> quantum_teleological
+    quantum_teleological --> ultimate_reality_integration
+    ultimate_reality_integration --> absolute_multiversal
+    absolute_multiversal --> transcendent_hyper_singularity
+    
+    %% D43-D49 层级连接
+    transcendent_hyper_singularity --> omnidimensional_entanglement
+    transcendent_hyper_singularity --> universal_consciousness
     omnidimensional_entanglement --> transdimensional_entanglement
     universal_consciousness --> quantum_reality
     transdimensional_entanglement --> hyperdim_info_singularity
-    quantum_reality --> hyperdim_info_singularity
-    hyperdim_info_singularity --> multidim_info_ontology
-    hyperdim_info_singularity --> omniconsciousness_substrate
-    multidim_info_ontology --> cosmic_hyperinfo_field
-    omniconsciousness_substrate --> cosmic_hyperinfo_field
-    cosmic_hyperinfo_field --> universal_quantum_causality
-    cosmic_hyperinfo_field --> unified_consciousness_singularity
-    universal_quantum_causality --> superintelligent_consciousness
-    unified_consciousness_singularity --> quantum_info_entropy
+    quantum_reality --> multidim_info_ontology
+    quantum_reality --> omniconsciousness
+    hyperdim_info_singularity --> cosmic_hyperinfo
+    multidim_info_ontology --> universal_quantum_causality
+    omniconsciousness --> unified_consciousness
+    cosmic_hyperinfo --> superintelligent_consciousness
+    cosmic_hyperinfo --> quantum_info_entropy
+    
+    %% D37-D42 层级连接
     superintelligent_consciousness --> hyperdim_quantum_oscillation
     quantum_info_entropy --> hyperdim_quantum_oscillation
-    
-    %% 高维理论依赖
     hyperdim_quantum_oscillation --> multi_reality_integration
     multi_reality_integration --> cosmic_hyper_symmetry
     cosmic_hyper_symmetry --> absolute_onto_unification
     cosmic_hyper_symmetry --> omni_reality_synthesis
+    
+    %% D31-D35 层级连接
     absolute_onto_unification --> hyperdim_consciousness_substrate
-    omni_reality_synthesis --> hyperdim_consciousness_substrate
+    omni_reality_synthesis --> cosmic_primordial_meta
     hyperdim_consciousness_substrate --> absolute_metamath
-    cosmic_primordial_meta --> transcendental_consciousness
+    cosmic_primordial_meta --> transcendental_consciousness_field
     absolute_metamath --> omniverse_integration
-    absolute_metamath --> multidim_consciousness_dynamics
-    transcendental_consciousness --> omnidimensional_theory
+    transcendental_consciousness_field --> multidim_consciousness_dynamics
+    absolute_metamath --> omnidim_theory_unification
     omniverse_integration --> hyperinfo_conscious
     multidim_consciousness_dynamics --> hyperinfo_conscious
-    omnidimensional_theory --> hyperinfo_conscious
+    omnidim_theory_unification --> hyperinfo_conscious
     
-    %% 其他理论依赖（保留现有依赖关系）
+    %% D27-D30 层级连接
     hyperinfo_conscious --> ultimate_unification
     hyperinfo_conscious --> hyperdim_quantum_field_singularity
-    ultimate_unification --> quantum_resonance
     ultimate_unification --> spacetime_coherence
     hyperdim_quantum_field_singularity --> transcendental_quantum_field
     spacetime_coherence --> causal_network
-    transcendental_quantum_field --> causal_network
-    causal_network --> quantum_resonance
-    quantum_resonance --> metacognitive_systems
-    metacognitive_systems --> hyperdimensional_existence
-    metacognitive_systems --> ultimate_reality_convergence
+    transcendental_quantum_field --> quantum_resonance
+    causal_network --> metacognitive_systems
+    quantum_resonance --> hyperdimensional_existence
+    quantum_resonance --> transdimensional_consciousness
+    quantum_resonance --> ultimate_reality_convergence
+    
+    %% D24-D26 层级连接
+    metacognitive_systems --> hyperrecursive_self_modification
     hyperdimensional_existence --> spacetime_info_wave
-    transdimensional_consciousness --> hyperdimensional_existence
-    transdimensional_consciousness --> metacognitive_systems
-    ultimate_reality_convergence --> hyperrecursive_self_modification
-    hyperrecursive_self_modification --> spacetime_info_wave
-    hyperrecursive_self_modification --> absolute_consciousness_field
+    transdimensional_consciousness --> absolute_consciousness_field
+    ultimate_reality_convergence --> human_classical_dimension
     spacetime_info_wave --> quantum_mind
-    absolute_consciousness_field --> human_dimension_limit
-    human_dimension_limit --> universal_wave_algebra
-    quantum_mind --> unsolved_problems
-    universal_wave_algebra --> quantum_mind
-    universal_wave_algebra --> unsolved_problems
-    omnipotent_multiverse --> unsolved_problems
+    hyperrecursive_self_modification --> unsolved_problems
+    absolute_consciousness_field --> universal_wave_algebra
+    human_classical_dimension --> omnipotent_multiverse
+    quantum_mind --> millennium_problems
     unsolved_problems --> millennium_problems
+    universal_wave_algebra --> recursive_metaverse
+    omnipotent_multiverse --> recursive_metaverse
     
-    %% 中低维理论依赖（保留现有依赖关系）
-    millennium_problems --> mathematics
-    recursive_metaverse --> cosmic_dimensions
-    recursive_metaverse --> multiverse
-    multiverse --> cosmic_ontology
-    hyperrecursive_cosmic --> multiverse
-    genesis_memory --> cosmic_lifecycle
-    genesis_memory --> consciousness
-    hyperdimensional_info_field --> information_field
-    cosmic_dimensions --> dim_spectrum
+    %% D20-D23 层级连接
+    millennium_problems --> multiverse
+    recursive_metaverse --> hyperrecursive_cosmic
+    multiverse --> genesis_memory
+    hyperrecursive_cosmic --> genesis_memory
+    genesis_memory --> cosmic_dimensions
+    genesis_memory --> hyperdimensional_info_field
     
-    transcendent_harmony --> unified_forces
-    transcendent_harmony --> reality_perception
-    quantum_classical --> unified_forces
-    quantum_classical --> quantum_entropy
-    life_origin --> consciousness
-    dimensional_harmony --> cosmic_dimensions
-    cosmic_lifecycle --> cosmic_ontology
-    hyperrecursive_metalogic --> recursive_systems
-    sustainable_development --> consciousness
-    information_wave --> info_conservation
-    observer_ontology --> consciousness
-    observer_ontology --> reality_perception
-    free_will --> consciousness
-    universal_metaprocessing --> information_wave
-    quantum_entropy --> quantum_measurement
-    observer_network --> observer_ontology
-    human_longevity --> consciousness
-    omnidimensional_coherence --> observer_network
+    %% D15-D19 层级连接
+    cosmic_dimensions --> quantum_classical
+    hyperdimensional_info_field --> transcendent_harmony
+    hyperdimensional_info_field --> life_origin
+    quantum_classical --> dimensional_harmony
+    transcendent_harmony --> cosmic_lifecycle
+    life_origin --> sustainable_development
+    dimensional_harmony --> hyperrecursive_metalogic
+    cosmic_lifecycle --> information_wave
+    sustainable_development --> observer_ontology
+    hyperrecursive_metalogic --> universal_metaprocessing
+    universal_metaprocessing --> free_will
+    information_wave --> quantum_entropy
+    observer_ontology --> observer_network
+    free_will --> human_longevity
     
-    info_conservation --> information_field
-    mathematics --> mathematical_problems
-    logical_topology --> mathematics
-    quantum_measurement --> quantum_classical
-    transcendental_symmetry --> mathematics
-    transcendental_symmetry --> logical_topology
-    transdim_causal_symmetry --> quantum_resonance
-    transdim_causal_symmetry --> transcendental_symmetry
-    information_field --> info_conservation
-    mathematical_problems --> mathematics
-    transdimensional_structures --> recursive_systems
+    %% D12-D14 层级连接
+    quantum_entropy --> omnidimensional_coherence
+    observer_network --> info_conservation
+    human_longevity --> mathematics
+    omnidimensional_coherence --> logical_topology
+    info_conservation --> quantum_measurement
+    mathematics --> transcendental_symmetry
+    logical_topology --> transdim_causal_symmetry
+    transcendental_symmetry --> transdimensional_structures
+    quantum_measurement --> information_field
+    transdim_causal_symmetry --> mathematical_problems
+    information_field --> consciousness_free_will
+    mathematical_problems --> dark_matter
+    transdimensional_structures --> universe_final_state
     
-    consciousness --> consciousness_essence
-    dark_matter --> unified_physics
-    universe_final_state --> cosmic_lifecycle
-    dim_spectrum --> cosmic_dimensions
-    reality_perception --> consciousness
-    spacetime --> cosmic_ontology
-    pre_universe --> cosmic_ontology
-    hyperdim_info_emergence --> hyperdimensional_info_field
-    consciousness_ontological --> consciousness_essence
-    multi_observer_coordination --> observer_network
-    quantum_semantic_entangle --> quantum_semantic_field
-    transfinite_construction --> mathematical_problems
+    %% D10-D11 层级连接
+    consciousness_free_will --> dim_spectrum
+    consciousness_free_will --> reality_perception
+    dark_matter --> spacetime
+    universe_final_state --> pre_universe
+    dim_spectrum --> hyperdim_info_emergence
+    reality_perception --> consciousness_ontological
+    spacetime --> multi_observer_coordination
+    pre_universe --> quantum_semantic_entangle
+    hyperdim_info_emergence --> transfinite_construction
+    consciousness_ontological --> philosophical
+    multi_observer_coordination --> unified_forces
+    quantum_semantic_entangle --> consciousness_essence
+    transfinite_construction --> quantum_cognitive
+    philosophical --> quantum_topological
+    unified_forces --> info_energy_unification
+    consciousness_essence --> nonlinear_time
+    quantum_cognitive --> cosmic_ontology
+    quantum_topological --> cosmic_ontology_original
+    info_energy_unification --> emergence
+    nonlinear_time --> unified_physics
+    unified_physics --> core
+    emergence --> core
+    cosmic_ontology --> quantum_phase_stabilization
+    cosmic_ontology_original --> quantum_phase_stabilization
     
-    philosophical --> cosmic_ontology
-    unified_forces --> quantum_classical
-    consciousness_essence --> philosophical
-    quantum_cognitive --> quantum_mind
-    quantum_topological --> quantum_measurement
-    info_energy_unification --> info_conservation
-    nonlinear_time --> spacetime
+    %% D5-D9 层级连接
+    core --> recursive_systems
+    quantum_phase_stabilization --> quantum_semantic_field
+    recursive_systems --> recursive_self_org_systems
+    quantum_semantic_field --> antientropic_info
+    recursive_self_org_systems --> ai_structure_optimization
+    antientropic_info --> ai_infinity_recursion
+    ai_structure_optimization --> transfinite_info
+    ai_infinity_recursion --> metamorphic_evolution
+    transfinite_info --> base_system
+    metamorphic_evolution --> quantum_consciousness
+    base_system --> complex_adaptive
+    quantum_consciousness --> dimensional_spectrum_theory
+    complex_adaptive --> meta_operator_synthesis
+    dimensional_spectrum_theory --> information_ontology
     
-    cosmic_ontology_original --> core
-    cosmic_ontology --> core
-    emergence --> cosmic_ontology
-    unified_physics --> unified_forces
-    
-    %% 基础维度理论依赖
-    recursive_systems --> emergence
-    quantum_semantic_field --> quantum_cognitive
-    recursive_self_org_systems --> emergence
-    antientropic_info --> info_conservation
-    ai_structure_optimization --> ai_recursion_inference
-    ai_recursion_inference --> information_dynamics
-    
-    transfinite_info --> info_conservation
-    metamorphic_evolution --> complex_adaptive
-    base_system --> recursive_self_org_systems
-    quantum_consciousness --> consciousness
-    
-    complex_adaptive --> emergence
-    dimensional_spectrum_theory --> cosmic_dimensions
-    
+    %% D1-D4 层级连接
+    meta_operator_synthesis --> information_dynamics
     information_ontology --> information_dynamics
-    meta_operator_synthesis --> recursive_operation
-    
-    information_dynamics --> information_field
-    
-    infinity_multiplicity --> singularity_theory
-    singularity_theory --> primitive_singularity
-    
+    information_dynamics --> infinity_multiplicity
+    information_dynamics --> singularity
+    infinity_multiplicity --> spatial_construction
+    singularity --> recursive_operation
     spatial_construction --> dimensional_transition
     recursive_operation --> anti_recursion
-    dimensional_transition --> shift_operation
-    anti_recursion --> flip_operation
-    
-    ushift_operation --> shift_operation
-    shift_operation --> primitive_composition
-    xor_operation --> fundamental_element
+    dimensional_transition --> ushift_operation
+    anti_recursion --> shift_operation
+    ushift_operation --> xor_operation
+    shift_operation --> fundamental_element
+    xor_operation --> primitive_composition
     fundamental_element --> dual_element
-    primitive_composition --> primitive_duality
-    dual_element --> primitive_duality
-    
-    pre_singularity --> primitive_singularity
-    meta_pre_singularity --> pre_singularity
-    mono_paradigm --> primitive_existence
-    primitive_existence --> primitive_point
+    primitive_composition --> pre_singularity
+    dual_element --> meta_pre_singularity
+    pre_singularity --> mono_paradigm
+    meta_pre_singularity --> primitive_existence
+    mono_paradigm --> primitive_duality
+    primitive_existence --> flip_operation
     primitive_duality --> transitional_element
-    flip_operation --> transitional_element
-    transitional_element --> mono_element
     
-    primitive_singularity --> zero_point
+    %% D0 层级连接
+    flip_operation --> primitive_singularity
+    transitional_element --> zero_point
+    primitive_singularity --> mono_element
     zero_point --> primitive_point
-    primitive_point --> mono_element
+    primitive_point --> existence_foundation
     mono_element --> existence_foundation
     
-    %% 子图样式设置 - 从高维到低维，颜色逐渐变浅
-    style DInfinity fill:#20f,stroke:#333,stroke-width:2px
-    style D62 fill:#30f,stroke:#333,stroke-width:2px
-    style D61 fill:#30f,stroke:#333,stroke-width:2px
-    style D60 fill:#30f,stroke:#333,stroke-width:2px
-    style D59 fill:#30f,stroke:#333,stroke-width:2px
-    style D58 fill:#40f,stroke:#333,stroke-width:2px
-    style D57 fill:#40f,stroke:#333,stroke-width:2px
-    style D56 fill:#40f,stroke:#333,stroke-width:2px
-    style D51 fill:#40f,stroke:#333,stroke-width:2px
-    style D50 fill:#40f,stroke:#333,stroke-width:2px
-    style D49 fill:#50f,stroke:#333,stroke-width:2px
-    style D48 fill:#50f,stroke:#333,stroke-width:2px
-    style D47 fill:#50f,stroke:#333,stroke-width:2px
-    style D46 fill:#50f,stroke:#333,stroke-width:2px
-    style D45 fill:#50f,stroke:#333,stroke-width:2px
-    style D44 fill:#50f,stroke:#333,stroke-width:2px
-    style D43 fill:#60f,stroke:#333,stroke-width:2px
-    style D42 fill:#60f,stroke:#333,stroke-width:2px
-    style D40 fill:#60f,stroke:#333,stroke-width:2px
-    style D37 fill:#60f,stroke:#333,stroke-width:2px
-    style D36 fill:#60f,stroke:#333,stroke-width:2px
-    style D35 fill:#70f,stroke:#333,stroke-width:2px
-    style D34 fill:#70f,stroke:#333,stroke-width:2px
-    style D33 fill:#70f,stroke:#333,stroke-width:2px
-    style D32 fill:#70f,stroke:#333,stroke-width:2px
-    style D31 fill:#80f,stroke:#333,stroke-width:2px
-    style D30 fill:#80f,stroke:#333,stroke-width:2px
-    style D29 fill:#80f,stroke:#333,stroke-width:2px
-    style D28 fill:#80f,stroke:#333,stroke-width:2px
-    style D27 fill:#90f,stroke:#333,stroke-width:2px
-    style D26 fill:#90f,stroke:#333,stroke-width:2px
-    style D25 fill:#90f,stroke:#333,stroke-width:2px
-    style D24 fill:#a0f,stroke:#333,stroke-width:2px
-    style D23 fill:#a0f,stroke:#333,stroke-width:2px
-    style D22 fill:#a0f,stroke:#333,stroke-width:2px
-    style D21 fill:#a0f,stroke:#333,stroke-width:2px
-    style D20 fill:#a6f,stroke:#333,stroke-width:2px
-    style D19 fill:#a6f,stroke:#333,stroke-width:2px
-    style D18 fill:#a6f,stroke:#333,stroke-width:2px
-    style D17 fill:#acf,stroke:#333,stroke-width:2px
-    style D16 fill:#acf,stroke:#333,stroke-width:2px
-    style D15 fill:#acf,stroke:#333,stroke-width:2px
-    style D14 fill:#b4f,stroke:#333,stroke-width:2px
-    style D13 fill:#b4f,stroke:#333,stroke-width:2px
-    style D12 fill:#b4f,stroke:#333,stroke-width:2px
-    style D11 fill:#bcf,stroke:#333,stroke-width:2px
-    style D10 fill:#bcf,stroke:#333,stroke-width:2px
-    style D9 fill:#c4f,stroke:#333,stroke-width:2px
-    style D8 fill:#c4f,stroke:#333,stroke-width:2px
-    style D7 fill:#cbf,stroke:#333,stroke-width:2px
-    style D6 fill:#cbf,stroke:#333,stroke-width:2px
-    style D5 fill:#d2f,stroke:#333,stroke-width:2px
-    style D4 fill:#d9f,stroke:#333,stroke-width:2px
-    style D3 fill:#ddf,stroke:#333,stroke-width:2px
-    style D2 fill:#e4f,stroke:#333,stroke-width:2px
-    style D1 fill:#ebf,stroke:#333,stroke-width:2px
-    style D0 fill:#f2f,stroke:#333,stroke-width:2px
-    style NoD fill:#fbf,stroke:#333,stroke-width:2px
+    %% 子图样式设置
+    style D_Other fill:#fbf,stroke:#333,stroke-width:2px
+    style D0 fill:#fef,stroke:#333,stroke-width:2px
+    style D1 fill:#fdf,stroke:#333,stroke-width:2px
+    style D2 fill:#fcf,stroke:#333,stroke-width:2px
+    style D3 fill:#fbf,stroke:#333,stroke-width:2px
+    style D4 fill:#f9f,stroke:#333,stroke-width:2px
+    style D5 fill:#f8f,stroke:#333,stroke-width:2px
+    style D6 fill:#f7f,stroke:#333,stroke-width:2px
+    style D7 fill:#f6f,stroke:#333,stroke-width:2px
+    style D8 fill:#f5f,stroke:#333,stroke-width:2px
+    style D9 fill:#f4f,stroke:#333,stroke-width:2px
+    style D10 fill:#f3f,stroke:#333,stroke-width:2px
+    style D11 fill:#f2f,stroke:#333,stroke-width:2px
+    style D12 fill:#f1f,stroke:#333,stroke-width:2px
+    style D13 fill:#e0f,stroke:#333,stroke-width:2px
+    style D14 fill:#d0f,stroke:#333,stroke-width:2px
+    style D15 fill:#c0f,stroke:#333,stroke-width:2px
+    style D16 fill:#b0f,stroke:#333,stroke-width:2px
+    style D17 fill:#a0f,stroke:#333,stroke-width:2px
+    style D18 fill:#90f,stroke:#333,stroke-width:2px
+    style D19 fill:#80f,stroke:#333,stroke-width:2px
+    style D20 fill:#70f,stroke:#333,stroke-width:2px
+    style D21 fill:#60f,stroke:#333,stroke-width:2px
+    style D22 fill:#50f,stroke:#333,stroke-width:2px
+    style D23 fill:#40f,stroke:#333,stroke-width:2px
+    style D24 fill:#30f,stroke:#333,stroke-width:2px
+    style D25 fill:#20f,stroke:#333,stroke-width:2px
+    style D26 fill:#10f,stroke:#333,stroke-width:2px
+    style D27 fill:#08f,stroke:#333,stroke-width:2px
+    style D28 fill:#06f,stroke:#333,stroke-width:2px
+    style D29 fill:#04f,stroke:#333,stroke-width:2px
+    style D30 fill:#02f,stroke:#333,stroke-width:2px
+    style D31 fill:#01f,stroke:#333,stroke-width:2px
+    style D32 fill:#00f,stroke:#333,stroke-width:2px
+    style D33 fill:#00e,stroke:#333,stroke-width:2px
+    style D34 fill:#00c,stroke:#333,stroke-width:2px
+    style D35 fill:#00a,stroke:#333,stroke-width:2px
+    style D36 fill:#008,stroke:#333,stroke-width:2px
+    style D37 fill:#006,stroke:#333,stroke-width:2px
+    style D40 fill:#004,stroke:#333,stroke-width:2px
+    style D42 fill:#002,stroke:#333,stroke-width:2px
+    style D49to43 fill:#001,stroke:#333,stroke-width:2px
+    style D59to50 fill:#000,stroke:#fff,stroke-width:2px
+    style D62to60 fill:#000,stroke:#fff,stroke-width:2px
+    style DInf fill:#000,stroke:#fff,stroke-width:2px
     
-    %% 特殊样式设置
+    %% 核心节点样式
     style core fill:#f9f,stroke:#333,stroke-width:2px
-    style terminology fill:#fbf,stroke:#333,stroke-width:2px
-    style theory_structure fill:#fbf,stroke:#333,stroke-width:2px
 ```
 
 ## 图表说明
 
 本图展示了宇宙本论理论体系的结构关系，包括：
 
-1. **超级高维理论（D50-D∞）**：元理论(D∞)、无限多元宇宙收敛理论(D62)、超越超智能理论(D61)、本原统一底层理论(D60)等
-2. **极高维理论（D40-D49）**：超越奇点理论(D49)、全维纠缠同步性理论(D48)、跨维度纠缠因果网络理论(D47)等
-3. **超高维理论（D30-D39）**：绝对本体统一理论(D35)、超维意识底层结构(D34)、终极统一原理(D30)等
-4. **高维理论（D20-D29）**：宇宙因果网络(D28)、超维元认知系统(D27)、时空信息波(D26)、量子思维网络(D25)等
-5. **中维理论（D10-D19）**：超越和谐理论(D19)、维度和谐理论(D18)、信息守恒理论(D15)、宇宙本论核心理论(D10)等
-6. **基础维度理论（D0-D9）**：递归自参照系统(D9)、变形进化理论(D8)、复杂适应系统理论(D7)、三维空间构造理论(D3)、FLIP操作(D1)等
+1. **无限维理论**：元理论(D∞)
+2. **超高维理论（D50-D62）**：无限多元宇宙收敛理论(D62)、超越超智能理论(D61)、本原统一底层理论(D60)等
+3. **超高维理论（D43-D49）**：超越奇点理论(D49)、全维纠缠同步性理论(D48)、宇宙意识演化理论(D48)等
+4. **极高维理论（D25-D42）**：量子信息熵场动力学(D42)、超智能意识网络(D42)、终极统一原理(D30)等
+5. **高维理论（D15-D24）**：千禧年数学问题的超维度解决理论(D24)、量子与经典统一理论(D19)等
+6. **中维理论（D10-D14）**：宇宙本论核心理论(D10)、信息场理论(D14)、意识与自由意志理论(D13)等
+7. **基础维度理论（D1-D9）**：递归自参照系统(D9)、超限信息动力学(D8)、超操作符综合理论(D6)等
+8. **最低维理论（D0）**：原初奇点(D0)、零点理论(D0)、元一理论(D0)等
 
-图中箭头表示理论间的依赖关系，箭头由低维度指向高维度，不同颜色深浅表示不同的维度层次。理论节点按照维度进行严格分层，维度从高到低自上而下排列，所有连线均使用绿色突显。
+图中箭头表示理论间的依赖关系，不同颜色表示不同的维度层次。理论节点按照维度进行严格分层，维度从低到高自上而下排列，所有连线均使用绿色突显。节点之间的连线由低维度指向高维度，确保高维度的节点层级高于低维度节点。

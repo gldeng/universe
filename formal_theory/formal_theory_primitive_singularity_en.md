@@ -8,15 +8,15 @@
   - [1.1 Basic Axiom System](#11-basic-axiom-system)
   - [1.2 The Essence of Primitive Singularity](#12-the-essence-of-primitive-singularity)
   - [1.3 Basic Properties of Primitive Singularity](#13-basic-properties-of-primitive-singularity)
-  - [1.4 Transcendence of Primitive Singularity](#14-transcendence-of-primitive-singularity)
+  - [1.4 Pre-State Evolution of Primitive Singularity](#14-pre-state-evolution-of-primitive-singularity)
 - [2. Direct Implications](#2-direct-implications)
-  - [2.1 Properties of Pre-State Space](#21-properties-of-pre-state-space)
-  - [2.2 Characteristics of Pre-Zero-Dimensional State](#22-characteristics-of-pre-zero-dimensional-state)
-  - [2.3 Super-Determinacy](#23-super-determinacy)
+  - [2.1 Pre-State Properties of Primitive Singularity](#21-pre-state-properties-of-primitive-singularity)
+  - [2.2 Pre-Information Properties of Primitive Singularity](#22-pre-information-properties-of-primitive-singularity)
+  - [2.3 Special Structure of Primitive Singularity](#23-special-structure-of-primitive-singularity)
 - [3. Extended Theory](#3-extended-theory)
   - [3.1 Evolution from Primitive Singularity to Primitive Point](#31-evolution-from-primitive-singularity-to-primitive-point)
-  - [3.2 Pre-Entropy and the Origin of Information](#32-pre-entropy-and-the-origin-of-information)
-  - [3.3 Singularity Mutation and Dimensional Emergence](#33-singularity-mutation-and-dimensional-emergence)
+  - [3.2 Relationship Between Primitive Singularity and Higher Dimensional Theories](#32-relationship-between-primitive-singularity-and-higher-dimensional-theories)
+  - [3.3 Evolutionary Possibilities of Primitive Singularity](#33-evolutionary-possibilities-of-primitive-singularity)
 - [4. Application and Verification](#4-application-and-verification)
   - [4.1 Theoretical Predictions](#41-theoretical-predictions)
   - [4.2 Verification Methods](#42-verification-methods)
@@ -33,195 +33,176 @@
 
 ### 1.1 Basic Axiom System
 
-**Axiom 1 (Primitive Singularity Pre-Existence Axiom)**
+**Axiom 1 (Primitive Singularity Existence Axiom)**
 
-The primitive singularity $`\mathcal{S}_{-1}`$ is a pre-existence state, within a pre-state space that precedes the formation of zero-dimensional space:
+The primitive singularity $`\mathcal{S}_{-1}`$ is the most initial state before the emergence of dimensions, existing in the pre-dimensional domain:
 
-$`\mathcal{S}_{-1} \prec \mathcal{S}_0`$
+$`\mathcal{S}_{-1} \in \mathcal{D}_{pre}`$
 
-where $`\prec`$ denotes the "existentially precedes" relation, and $`\mathcal{S}_0`$ is the zero-dimensional space containing the primitive point $`\mathcal{P}_0`$.
+where $`\mathcal{D}_{pre}`$ is the pre-dimensional domain, which lacks measurable dimensions.
 
-**Axiom 2 (Primitive Singularity Non-Representability Axiom)**
+**Axiom 2 (Primitive Singularity Pre-Universal Axiom)**
 
-The primitive singularity cannot be directly represented, for any representational system $`\mathcal{R}`$:
+The primitive singularity contains pre-forms of all possible states, but has not yet differentiated into independent elements:
 
-$`\not\exists r \in \mathcal{R}: r \mapsto \mathcal{S}_{-1}`$
+$`\mathcal{S}_{-1} = \{\rightsquigarrow\}`$
 
-**Axiom 3 (Primitive Singularity Transcendence Axiom)**
+where $`\rightsquigarrow`$ represents the pre-differentiated state, containing the implicit collection of all possible states.
 
-The primitive singularity transcends all known operations, for all operations $`\mathcal{O}`$:
+**Axiom 3 (Primitive Singularity Non-Operational Axiom)**
 
-$`\mathcal{O}(\mathcal{S}_{-1}) = \underline{\text{undefined}}`$
+In the primitive singularity, no operations have yet formed, and all possible operations exist in a pre-existent state:
 
-where $`\underline{\text{undefined}}`$ indicates that there fundamentally exists no definable result.
+$`\nexists \mathcal{O} \in \{\text{FLIP}, \text{XOR}, \text{SHIFT}\}: \mathcal{O}(\mathcal{S}_{-1}) \neq \mathcal{S}_{-1}`$
+
+meaning there exists no operation that can change the primitive singularity.
 
 ### 1.2 The Essence of Primitive Singularity
 
-The essence of the primitive singularity is trans-dimensional pre-existence, completely beyond the capacity of representational systems. The primitive singularity $`\mathcal{S}_{-1}`$ can be meta-expressed as:
+The essence of the primitive singularity is meta-singularity—a state that precedes the formation of dimensional concepts and cannot be described using conventional dimensional space terminology. The primitive singularity $`\mathcal{S}_{-1}`$ can be expressed as:
 
-$`\mathcal{S}_{-1} \equiv \circledast`$
+$`\mathcal{S}_{-1} \equiv \{\rightsquigarrow\} \approx \{\emptyset \rightsquigarrow \emptyset\}`$
 
-where $`\circledast`$ is a super-symbol, representing an existential state beyond conventional representational capabilities.
+where $`\emptyset`$ represents nothingness, and $`\rightsquigarrow`$ represents a pre-transformation relationship. The primitive singularity is neither existence nor non-existence, but rather a pre-state that transcends this binary distinction.
 
-As a negative one-dimensional entity, the primitive singularity is existence prior to the emergence of dimension itself, the ultimate source of the universe's initial state.
+As a negative dimensional entity, the primitive singularity cannot be fully described by positive dimensional theories and can only be indirectly characterized through its potential unfolding effects.
 
 ### 1.3 Basic Properties of Primitive Singularity
 
-The primitive singularity possesses the following basic properties:
+The primitive singularity has the following basic properties:
 
-1. **Super-Consistency**: The primitive singularity transcends the binary distinction between consistency and inconsistency
-   
-2. **No Internal-External Distinction**: Within the primitive singularity, there is no distinction between "internal" and "external":
-   $`\mathcal{I}(\mathcal{S}_{-1}) = \mathcal{E}(\mathcal{S}_{-1})`$
+1. **Pre-Singularity**: The primitive singularity transcends the distinction between singularity and multiplicity, serving as a pre-state container for all possibilities
 
-3. **Pre-Operationality**: The primitive singularity is a prerequisite for the emergence of all operations, but is itself not subject to any operation
+2. **Self-Containment**: The primitive singularity contains all its possible transformations:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{S}_{-1}`$
 
-4. **Negative Dimensionality**: The primitive singularity has -1 dimensions, indicating a state prior to the emergence of dimensional concepts
+3. **Pre-Operational State**: All basic operations exist potentially in the primitive singularity:
+   $`\forall \mathcal{O}: \mathcal{O} \in \mathcal{S}_{-1}^{potential}`$, but have not yet differentiated into specific operations
 
-5. **Total Potentiality**: The primitive singularity contains the absolute potential for all possible structures in the universe, yet remains in an undifferentiated state
+4. **Negative Dimensionality**: The primitive singularity has dimension -1, indicating it exists in a state prior to the emergence of dimensions:
+   $`\dim(\mathcal{S}_{-1}) = -1 < \dim(\mathcal{P}_0) = 0`$
 
-### 1.4 Transcendence of Primitive Singularity
+5. **Pre-State Nature**: The primitive singularity does not contain concrete states, but rather the possibility of states emerging
 
-The primitive singularity possesses fundamental transcendence, beyond the concept of state evolution:
+### 1.4 Pre-State Evolution of Primitive Singularity
 
-$`\mathcal{S}_{-1} \mapsto \underline{\text{beyond evolution}}`$
+The primitive singularity spontaneously evolves into the primitive point through intrinsic instability:
 
-This transcendence indicates that the primitive singularity does not follow conventional spatiotemporal causality, but is the meta-origin of all causal relationships:
+$`\mathcal{S}_{-1} \rightsquigarrow \mathcal{P}_0`$
 
-$`\forall c \in \mathcal{C}: \text{origin}(c) = \mathcal{S}_{-1}`$
+where $`\rightsquigarrow`$ represents a pre-evolution relationship, different from the evolutionary relationships in subsequent dimensions.
 
-where $`\mathcal{C}`$ is the set of all causal relationships.
+This pre-evolution does not involve the concept of time passage, but rather a logical necessity, which can be represented as:
+
+$`\mathcal{E}_{\mathcal{S}_{-1}}: \{\rightsquigarrow\} \rightsquigarrow \{\mathcal{P}_0\}`$
 
 ## 2. Direct Implications
 
-### 2.1 Properties of Pre-State Space
+### 2.1 Pre-State Properties of Primitive Singularity
 
-From the axiom system of the primitive singularity, the following properties regarding pre-state space can be directly derived:
+The following properties can be directly derived from the primitive singularity axiom system:
 
-1. **Pre-Set-Theoretical**: The pre-state space transcends the basic concepts of set theory:
-   $`\mathcal{S}_{-1} \not\in \mathcal{SET}`$, where $`\mathcal{SET}`$ is the universe of all sets
+1. **Pre-State Space**: The pre-state space constituted by the primitive singularity has only one super-element:
+   $`\Omega_{\mathcal{S}_{-1}} = \{\rightsquigarrow\}`$, but this super-element contains pre-forms of all possible states
 
-2. **Pre-Logical**: Standard logic is not applicable to pre-state space:
-   $`\mathcal{L}(\mathcal{S}_{-1}) = \underline{\text{pre-logical}}`$, where $`\mathcal{L}`$ denotes the logical evaluation function
+2. **Pre-Transformation Group**: The primitive singularity does not have a true transformation group, but is a container for transformation possibilities:
+   $`G_{\mathcal{S}_{-1}} = \{\rightsquigarrow\}`$
 
-3. **Pre-Mathematical**: The pre-state space transcends mathematical expression:
-   $`\mathcal{M}(\mathcal{S}_{-1}) = \underline{\text{pre-mathematical}}`$
+3. **Universal Pre-Invariants**: Any function defined on the primitive singularity is a pre-invariant:
+   $`f(\mathcal{S}_{-1}) = \{pre-C\}`$, where $`\{pre-C\}`$ is a pre-constant
 
-4. **Pre-Existential**: The pre-state space is a pre-existence state, transcending the binary distinction between existence and non-existence
+4. **Absolute Pre-Stability**: The primitive singularity represents an absolutely pre-stable state, but this stability contains the necessity of transformation
 
-### 2.2 Characteristics of Pre-Zero-Dimensional State
+### 2.2 Pre-Information Properties of Primitive Singularity
 
-The primitive singularity, as a state preceding the emergence of zero-dimensional space, possesses special characteristics:
+The primitive singularity exhibits special properties from a pre-information theoretical perspective:
 
-1. **Negative Dimensionality**: The dimension of the primitive singularity is -1:
-   $`\dim(\mathcal{S}_{-1}) = -1`$
-   
-   indicating a pre-level state prior to the formation of dimensional concepts
+1. **Negative Information Content**: The primitive singularity contains negative information:
+   $`I(\mathcal{S}_{-1}) = -1 \text{ bit}`$, representing the potential existence of information bits that have not yet formed
 
-2. **Pre-Geometric**: The primitive singularity does not possess geometric attributes:
-   $`\mathcal{G}(\mathcal{S}_{-1}) = \underline{\text{pre-geometric}}`$
-   
-   where $`\mathcal{G}`$ represents the geometric attribute evaluation function
+2. **Pre-Information Entropy**: The pre-information entropy of the primitive singularity exhibits anti-entropic characteristics:
+   $`H_{pre}(\Omega_{\mathcal{S}_{-1}}) = -1`$, lower than the minimum entropy value of 0 for positive dimensional systems
 
-3. **Non-Representational**: The primitive singularity cannot be completely characterized by any system:
-   $`\forall \mathcal{R}: \mathcal{R}(\mathcal{S}_{-1}) = \underline{\text{incomplete}}`$
-   
-   where $`\mathcal{R}`$ represents any representational system
+3. **Information Pre-Closure**: The primitive singularity can neither receive nor transmit information, but contains all possibilities for information transmission:
+   $`\mathcal{T}_{pre}(\mathcal{S}_{-1} \rightsquigarrow X) = \mathcal{T}_{pre}(X \rightsquigarrow \mathcal{S}_{-1}) = \{pre-0\}`$
 
-4. **Pre-Quantitative**: The primitive singularity cannot be quantified:
-   $`\mathcal{Q}(\mathcal{S}_{-1}) = \underline{\text{unquantifiable}}`$
-   
-   where $`\mathcal{Q}`$ represents the quantification function
+4. **Pre-Information Potential**: The primitive singularity has extremely high pre-information potential:
+   $`\mathcal{IP}_{pre}(\mathcal{S}_{-1}) \gg \mathcal{IP}(\mathcal{P}_0) > 0`$, driving its evolution toward higher dimensions
 
-### 2.3 Super-Determinacy
+### 2.3 Special Structure of Primitive Singularity
 
-The primitive singularity possesses characteristics that transcend traditional determinacy:
+The primitive singularity system exhibits a series of unique structural properties:
 
-1. **Super-Determinacy**: The primitive singularity transcends the distinction between determinacy and indeterminacy:
-   $`\mathcal{D}(\mathcal{S}_{-1}) = \underline{\text{super-determinate}}`$
+1. **Pre-Symmetry**: Traditional symmetry cannot be defined, but there exists a special pre-symmetric state:
+   $`\text{Pre-Sym}(\Omega_{\mathcal{S}_{-1}}) = \{\rightsquigarrow\}`$
 
-2. **Super-Completeness**: The primitive singularity possesses characteristics that transcend the distinction between completeness and incompleteness:
-   $`\mathcal{C}(\mathcal{S}_{-1}) = \underline{\text{super-complete}}`$
+2. **Pre-Causality**: The primitive singularity has pre-causal properties, being both its own pre-cause and pre-effect:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{S}_{-1}`$
 
-3. **Meta-Self-Reference**: The primitive singularity is a meta-level self-referential system:
-   $`\mathcal{S}_{-1} = \mathcal{M}(\mathcal{S}_{-1})`$, where $`\mathcal{M}`$ is the meta-self-reference function
+3. **Super Self-Reference**: The primitive singularity is completely super self-referential:
+   $`\mathcal{S}_{-1} = \mathcal{R}_{pre}(\mathcal{S}_{-1})`$, where $`\mathcal{R}_{pre}`$ is the pre-self-reference operation
 
-4. **Super-Consistency**: The primitive singularity transcends the distinction between consistency and inconsistency:
-   $`\mathcal{CON}(\mathcal{S}_{-1}) = \underline{\text{super-consistent}}`$
+4. **Super Stable-Unstable Duality**: The primitive singularity simultaneously exhibits absolute stability and inevitable instability:
+   $`\text{Stab}_{pre}(\mathcal{S}_{-1}) = \{\infty, -\infty\}`$
 
 ## 3. Extended Theory
 
 ### 3.1 Evolution from Primitive Singularity to Primitive Point
 
-The evolution from the primitive singularity to the primitive point is a fundamental transition from -1 dimension to 0 dimension:
+The primitive singularity evolves into the primitive point through self-differentiation:
 
-1. **Singularity Breakthrough**:
-   $`\mathcal{S}_{-1} \mapsto \mathcal{S}_0 = \{\mathcal{P}_0\}`$
-   
-   representing the transformation from a non-representable pre-state to a representable primitive point
+1. **Dimension Creation**: The primitive singularity forms the first zero-dimensional point through the dimension creation process:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{P}_0`$,
+   creating the concept of dimension
 
-2. **Dimensional Emergence**:
-   $`\dim(\mathcal{S}_{-1}) = -1 \mapsto \dim(\mathcal{S}_0) = 0`$
-   
-   representing the transition from negative dimension to zero dimension
+2. **Pre-State Space Orientation**: Non-dimensional pre-state space transforms into zero-dimensional state space:
+   $`\mathcal{D}_{pre} \rightsquigarrow \mathcal{S}_0 = \{\mathcal{P}_0\}`$,
+   establishing a dimensional reference framework
 
-3. **Emergence of Representability**:
-   $`\not\exists r: r \mapsto \mathcal{S}_{-1} \to \exists r: r \mapsto \mathcal{P}_0`$
-   
-   representing the transformation from non-representability to representability
+3. **Pre-Operation Concretization**: Pre-operational state transforms into concrete operational possibilities:
+   $`\{\rightsquigarrow\} \rightsquigarrow \{I, \text{FLIP}_{potential}\}`$,
+   although FLIP cannot be practically applied in zero-dimensional space
 
-4. **Formation of Operational Basis**:
-   $`\mathcal{O}(\mathcal{S}_{-1}) = \underline{\text{undefined}} \to \mathcal{O}(\mathcal{P}_0) = \mathcal{P}_0`$
-   
-   representing the transformation from no operational definition to operational closure
+4. **Transition from Pre-Information to Zero Information**:
+   $`I(\mathcal{S}_{-1}) = -1 \text{ bit} \rightsquigarrow I(\mathcal{P}_0) = 0 \text{ bit}`$,
+   achieving the transition from negative information to zero information
 
-### 3.2 Pre-Entropy and the Origin of Information
+### 3.2 Relationship Between Primitive Singularity and Higher Dimensional Theories
 
-The relationship between the primitive singularity, information, and entropy has special characteristics:
+The primitive singularity has special relationships with higher dimensional theories:
 
-1. **Pre-Entropic State**:
-   $`\mathcal{H}(\mathcal{S}_{-1}) = \underline{\text{pre-entropic}}`$
-   
-   indicating that the primitive singularity exists in a state prior to the emergence of entropy concepts
+1. **Relationship with Primitive Point**:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{P}_0`$,
+   the primitive singularity is the precursor to the primitive point
 
-2. **Information Source Origin**:
-   $`\mathcal{I}(\mathcal{S}_{-1} \to \mathcal{S}_0) = \underline{\text{origin-information}}`$
-   
-   representing the primordial emergence of information during the transformation from the primitive singularity to the primitive point
+2. **Relationship with FLIP**:
+   $`\text{FLIP} \not\in \mathcal{S}_{-1}, \text{but} \text{FLIP}_{potential} \in \mathcal{S}_{-1}`$,
+   the FLIP operation pre-exists in the primitive singularity in potential form
 
-3. **Pre-Probabilistic**:
-   $`\mathcal{P}(\mathcal{S}_{-1}) = \underline{\text{pre-probabilistic}}`$
-   
-   indicating that the primitive singularity transcends probability concepts
+3. **Relationship with XOR**:
+   $`\text{XOR}_{potential} \in \mathcal{S}_{-1}^{second-order potential}`$,
+   the XOR operation exists in the primitive singularity as a second-order potential
 
-4. **Super-Potential State**:
-   $`\mathcal{EP}(\mathcal{S}_{-1}) = \underline{\text{infinite}}`$
-   
-   indicating that the primitive singularity possesses infinite evolutionary potential
+4. **Operation Hierarchy Pre-Relationship**:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{P}_0 \mapsto \text{FLIP} \mapsto \text{XOR} \mapsto \text{SHIFT}`$,
+   indicating that the primitive singularity is the origin of all operations
 
-### 3.3 Singularity Mutation and Dimensional Emergence
+### 3.3 Evolutionary Possibilities of Primitive Singularity
 
-The primitive singularity evolves to higher dimensions through mutation processes:
+Although the evolutionary path of the primitive singularity ultimately points to the primitive point, it theoretically contains multiple evolutionary possibilities:
 
-1. **Meta-Mutation Process**:
-   $`\mathcal{S}_{-1} \stackrel{\text{meta-mutation}}{\longrightarrow} \mathcal{S}_0`$
-   
-   describing the transition from pre-state to definable state
+1. **Single-Point Evolution**: The basic evolutionary path is to generate a single primitive point:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{P}_0`$
 
-2. **Pre-Causal Emergence**:
-   $`\mathcal{S}_{-1} \stackrel{\text{pre-causal}}{\longrightarrow} \mathcal{P}_0`$
-   
-   describing the primordial formation of causal relationship concepts
+2. **Multiverse Possibility**: Theoretically, multiple independent primitive points could be generated simultaneously:
+   $`\mathcal{S}_{-1} \rightsquigarrow \{\mathcal{P}_{0,1}, \mathcal{P}_{0,2}, ..., \mathcal{P}_{0,n}\}`$
 
-3. **Dimensional Origin**:
-   $`\mathcal{S}_{-1} \stackrel{\text{dim-origin}}{\longrightarrow} \dim=0`$
-   
-   describing the origin of dimensional concepts themselves
+3. **Super Possibility**: More complex derived structures might be generated:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{X}`$,
+   where $`\mathcal{X}`$ is an initial state different from the primitive point
 
-4. **Representational Basis Generation**:
-   $`\mathcal{S}_{-1} \stackrel{\text{rep-genesis}}{\longrightarrow} \{\text{representability}\}`$
-   
-   describing the primordial generation of representational possibility
+4. **Cyclic Evolution Possibility**: Theoretically, there exists the possibility of evolutionary cycles returning to the primitive singularity:
+   $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{P}_0 \mapsto ... \mapsto \Omega_{\infty} \rightsquigarrow \mathcal{S}_{-1}`$
 
 ## 4. Application and Verification
 
@@ -229,134 +210,133 @@ The primitive singularity evolves to higher dimensions through mutation processe
 
 The primitive singularity theory generates the following verifiable predictions:
 
-1. **Ultimate Origin Necessity**:
-   The theory predicts that the universe necessarily has an ultimate origin beyond representational capabilities
+1. **Necessity of Universe's Initial Conditions**: The initial state of the universe is not random, but a necessary transformation result of the primitive singularity
 
-2. **Dimensional Emergence Mechanism**:
-   The theory predicts that dimensions themselves should emerge from a more fundamental dimensionless state
+2. **Non-Accidentality of Dimension Production**: Dimensions themselves have a creation process, rather than existing eternally
 
-3. **Pre-Logical State**:
-   The theory predicts the existence of meta-logical systems transcending logic
+3. **Negative Dimension Reference System**: Negative dimensional systems potentially exist, but cannot be fully described in positive dimensional theories
 
-4. **Infinite Regression Endpoint**:
-   The theory predicts that any infinite regression sequence will ultimately terminate at the primitive singularity state
+4. **Pre-Determinism of Universe Parameters**: The values of fundamental physical constants may be pre-determined by the properties of the primitive singularity
 
 ### 4.2 Verification Methods
 
-The primitive singularity theory can be theoretically verified through the following methods:
+The primitive singularity theory can be verified through the following methods:
 
-1. **Formal System Limit Research**:
-   Studying the fundamental limitations of formal systems, seeking meta-mathematical evidence
+1. **Mathematical Consistency Test**:
+   Verify the mathematical consistency of the transformation process from negative dimensions to positive dimensions
 
-2. **Cosmological Origin Model**:
-   Constructing pre-Big Bang singularity models, examining whether they conform to primitive singularity characteristics
+2. **Research on Universe's Initial Conditions**:
+   Through cosmological research, seek evidence supporting the dimension creation process
 
-3. **Meta-Logical Analysis**:
-   Developing meta-logical systems transcending standard logic, testing their compatibility with primitive singularity theory
+3. **Theory Coordination Test**:
+   Verify whether the primitive singularity theory can coordinate and explain the inconsistencies between quantum field theory and general relativity
 
-4. **Mathematical Incompleteness Exploration**:
-   Exploring the fundamental limitations of formal systems through Gödel's incompleteness theorems and similar approaches
+4. **Negative Dimension Mathematical Model**:
+   Establish new mathematical forms capable of describing negative dimensional systems, and verify their self-consistency
 
 ## 5. Formal Proofs
 
 ### 5.1 Axiom System Verification
 
-**Theorem 1: Uniqueness of Primitive Singularity**
+**Theorem 1: Pre-Completeness of Primitive Singularity**
 
-The primitive singularity $`\mathcal{S}_{-1}`$ is unique in a meta-logical sense.
-
-*Proof*:
-Assume there exist two different primitive singularities $`\mathcal{S}_{-1}^A`$ and $`\mathcal{S}_{-1}^B`$, both of which, according to the definition of the primitive singularity, are pre-existence states and non-representable.
-
-If they are indeed different, there would need to exist some representational or discriminative method to distinguish them. However, according to Axiom 2, $`\not\exists r \in \mathcal{R}: r \mapsto \mathcal{S}_{-1}`$, which means that no representational method can characterize the primitive singularity, and therefore no representational method can distinguish between two hypothetical primitive singularities.
-
-Thus, in a meta-logical sense, it is impossible for two distinguishable primitive singularities to exist, therefore the primitive singularity is unique. Q.E.D.
-
-**Theorem 2: Non-Informational Nature of Primitive Singularity**
-
-The primitive singularity $`\mathcal{S}_{-1}`$ does not contain information in the standard sense, but rather exists in a pre-informational state.
+The primitive singularity $`\mathcal{S}_{-1}`$ contains all possible states and operations in a pre-complete sense.
 
 *Proof*:
-Information, under standard definition, requires distinguishable states and probability distributions: $`I = -\sum_i p_i \log p_i`$
+Let $`\Omega`$ be the set of all possible states, and $`\mathcal{F}`$ be the set of all possible operations.
+According to Axiom 2, $`\mathcal{S}_{-1} = \{\rightsquigarrow\}`$, where $`\rightsquigarrow`$ represents the pre-differentiated state.
 
-However, for the primitive singularity, since Axiom 2 indicates that it cannot be represented:
-1. There are no distinguishable states
-2. There is no definable probability distribution
+For any state $`\omega \in \Omega`$, there exists a transformation relationship $`\mathcal{S}_{-1} \rightsquigarrow ... \rightsquigarrow \omega`$.
+For any operation $`f \in \mathcal{F}`$, there exists $`f_{potential} \in \mathcal{S}_{-1}^{potential}`$.
 
-Therefore, the information quantity formula does not apply to the primitive singularity, indicating that it exists in a pre-informational state, beyond the applicable range of standard information theory.
+Therefore, the primitive singularity contains all possible states and operations in a pre-complete sense. Q.E.D.
 
-This pre-informational state can be represented as: $`I(\mathcal{S}_{-1}) = \underline{\text{pre-informational}}`$, indicating that it is not that information is zero, but that the concept of information itself does not apply. Q.E.D.
+**Theorem 2: Negative Dimensionality of Primitive Singularity**
 
-**Theorem 3: Necessary Evolution from Primitive Singularity to Primitive Point**
-
-The evolution from the primitive singularity $`\mathcal{S}_{-1}`$ to the primitive point $`\mathcal{P}_0`$ is necessary in a meta-logical sense.
+The dimension of the primitive singularity is strictly -1.
 
 *Proof*:
-Consider the total potentiality of the primitive singularity, which contains the absolute potential for all possible structures. This total potentiality implies that all possible evolutionary paths are potentially contained within the primitive singularity.
+According to dimension theory, dimension can be defined as the logarithm of the state space: $`\dim(\mathcal{S}) = \log_2|\mathcal{S}|`$.
+However, in the primitive singularity, the concept of the number of states does not apply, as it contains the pre-differentiated state $`\rightsquigarrow`$.
 
-The primitive point $`\mathcal{P}_0`$, as the simplest representable existence, is the minimal possible transition from non-representability to representability. According to the meta-logical extension of the principle of least action, systems tend to adopt evolutionary paths of minimal complexity.
+Dimension can also be defined as the number of degrees of freedom and operations: for the zero-dimensional primitive point $`\mathcal{P}_0`$, it has 0 effective operations;
+for each higher dimension in cosmic ontology, the number of effective operations increases by 1.
 
-Therefore, the evolution from the primitive singularity to the primitive point represents the simplest transition from pre-existence state to representable existence, which is necessary in a meta-logical sense. Q.E.D.
+Since the primitive singularity has 1 fewer degree of freedom than the primitive point (the freedom from non-existence to existence), therefore $`\dim(\mathcal{S}_{-1}) = \dim(\mathcal{P}_0) - 1 = 0 - 1 = -1`$. Q.E.D.
+
+**Theorem 3: Inevitable Evolution of Primitive Singularity**
+
+The primitive singularity inevitably evolves into the primitive point $`\mathcal{P}_0`$.
+
+*Proof*:
+Assume that $`\mathcal{S}_{-1}`$ is in a stable state. According to Axiom 2, $`\mathcal{S}_{-1} = \{\rightsquigarrow\}`$ contains pre-forms of all possible states.
+Simultaneously, $`\mathcal{S}_{-1}`$ contains its own transformation possibility.
+
+In this situation, an instability contradiction exists within $`\mathcal{S}_{-1}`$: it is both stable and contains transformation possibilities.
+The only stable solution to this contradiction is evolution to the stable zero-dimensional primitive point $`\mathcal{P}_0`$, which exists but does not change (0 degrees of freedom).
+
+Therefore, the evolution of the primitive singularity into the primitive point is a logical necessity. Q.E.D.
 
 ### 5.2 Compatibility Proof with Cosmic Ontology
 
 **Theorem 4: Compatibility Between Primitive Singularity and Cosmic Ontology**
 
-The primitive singularity theory $`\mathcal{S}_{-1}`$ is fully compatible with the basic axiom system of cosmic ontology.
+The primitive singularity theory is compatible with the basic axiom system of cosmic ontology.
 
 *Proof*:
 
-1. Cosmic ontology is based on FLIP, XOR, and SHIFT operations. The primitive singularity theory states:
-   - These operations are undefined in the primitive singularity state: $`\mathcal{O}(\mathcal{S}_{-1}) = \underline{\text{undefined}}`$
-   - But they become possible after the primitive singularity evolves to the primitive point: $`\mathcal{O}(\mathcal{P}_0) = \mathcal{P}_0`$
-   - Thus explaining the ultimate origin of these operations
+1. Cosmic ontology is based on FLIP, XOR, and SHIFT operations. In the primitive singularity:
+   - These operations pre-exist in the primitive singularity in potential form, but have not yet manifested
+   - As the primitive singularity evolves into the primitive point and higher dimensional forms, these operations gradually manifest
 
 2. The recursive self-referential structure of cosmic ontology $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$:
-   The primitive singularity has meta-self-referentiality $`\mathcal{S}_{-1} = \mathcal{M}(\mathcal{S}_{-1})`$, which is the meta-origin of all self-referential structures
-   
-3. The binary unity axiom of cosmic ontology $`\mathcal{U} = \Omega_Q \oplus \Omega_C`$:
-   The primitive singularity transcends duality, being the origin of duality itself: $`\{\text{duality}\} \subset \mathcal{E}(\mathcal{S}_{-1})`$
-   
-4. The information ontology of cosmic ontology forms a complete spectrum with the pre-information characteristics of the primitive singularity:
-   $`\mathcal{S}_{-1} \text{(pre-information)} \to \mathcal{P}_0 \text{(zero information)} \to \mathcal{D}_1 \text{(one bit)} \to \cdots`$
+   For the primitive singularity, this manifests as pre-recursive self-reference $`\mathcal{S}_{-1} = \mathcal{R}_{pre}(\mathcal{S}_{-1})`$
 
-Therefore, the primitive singularity theory is not only compatible with cosmic ontology, but also provides more fundamental meta-theoretical support for cosmic ontology, explaining the origin of cosmic ontology itself. Q.E.D.
+3. The primitive singularity can be viewed as the precursor to the cosmic ontology initial state equation $`\mathcal{U}^0 = \mathcal{U}^0 \oplus \text{SHIFT}(\mathcal{U}^0)`$:
+   In the primitive singularity, this equation implies the possibility of self-transformation in the form $`\mathcal{S}_{-1} \rightsquigarrow \mathcal{S}_{-1}`$
+   
+4. The universe life cycle described in cosmic ontology begins with "quantum fluctuations," and the primitive singularity theory explains the origin of these fluctuations
+
+Therefore, the primitive singularity theory can be viewed as a pre-logical extension of cosmic ontology, providing it with a more fundamental origin explanation. Q.E.D.
 
 ## 6. Theory Reference Relationship Analysis
 
 ### 6.1 Theory Dimensional Positioning
 
-The primitive singularity theory is positioned as a dimension -1 theory, the most fundamental level in the theoretical spectrum of cosmic ontology:
+The primitive singularity theory is positioned as a dimension -1 theory in the cosmic ontology theoretical spectrum for the following reasons:
 
-1. **State Space Dimension**: $`\dim(\mathcal{S}_{-1}) = -1`$, indicating it exists prior to the emergence of dimensional concepts
+1. **State Space Dimension**: $`\dim(\mathcal{S}_{-1}) = -1 < \dim(\mathcal{P}_0) = 0`$, indicating a pre-dimensional state
 
-2. **Operational Complexity**: The system does not support any definable operations: $`\mathcal{O}(\mathcal{S}_{-1}) = \underline{\text{undefined}}`$
+2. **Operation Possibility**: Zero effective operations, with even the identity transformation existing only in potential form
+   - Dimension 0 theory (primitive point theory) has one identity operation
+   - The primitive singularity theory precedes even the identity operation, thus having a lower dimension
 
-3. **Information State**: $`I(\mathcal{S}_{-1}) = \underline{\text{pre-informational}}`$, indicating a pre-information state
+3. **Information Capacity**: $`I(\mathcal{S}_{-1}) = -1 < I(\mathcal{P}_0) = 0`$, indicating a negative information state
 
-4. **Compositional Relationship**: The primitive singularity cannot be decomposed into more basic components, but is the ultimate origin of all components
+4. **Theory Derivation Path**: Primitive Singularity → Primitive Point → FLIP → XOR → SHIFT, forming a clear dimensional progression relationship
 
 ### 6.2 Theory Dependency Structure
 
-The position of primitive singularity theory in the theory dependency network:
+The position of primitive singularity theory in the theoretical dependency network:
 
-1. **Dependent Theories**:
-   - [Pre-Singularity Theory](formal_theory_pre_singularity_en.md) [Dimension: -2]
+1. **Prerequisite Dependencies**:
+   - [Pre-Singularity Theory](formal_theory_pre_singularity.md) [Dimension: -2]
 
-2. **Subsequent Dependent Theories**:
-   - [Primitive Point Theory](formal_theory_primitive_point_en.md) [Dimension: 0]
-   - [Primitive Duality Theory](formal_theory_primitive_duality_en.md) [Dimension: 1]
-   - [Strict Formalization of FLIP Operation](formal_theory_flip_operation_en.md) [Dimension: 1]
+2. **Subsequent Theories**:
+   - [Primitive Point Theory](formal_theory_primitive_point.md) [Dimension: 0]
+   - [Primitive Duality Theory](formal_theory_primitive_duality.md) [Dimension: 1]
 
-3. **Theory Mapping Relationships**:
-   - Serves as the meta-theoretical foundation for all theories
-   - Provides ultimate origin explanations for all dimensions and operations
+3. **Theory Mapping Relationship**:
+   - Constitutes a key transition theory from the pre-dimensional domain to the dimensional domain
+   - Provides a negative dimensional reference framework for all subsequent dimensional theories
 
 4. **Theory Reference Graph**:
    ```
-   Pre-Singularity Theory [-2] → Primitive Singularity Theory [-1] → Primitive Point Theory [0] → Primitive Duality Theory [1] → Primitive Composition Theory [2] → ...
-                                                                   ↑
-                                                                   └── FLIP Theory [1] → XOR Theory [2] → SHIFT Theory [3] → ...
+   Pre-Singularity Theory [-2] → Primitive Singularity Theory [-1] → Primitive Point Theory [0] → Primitive Duality Theory [1] → ...
    ```
 
-5. **Conceptual Contribution**: The primitive singularity theory provides the most fundamental meta-theoretical support for cosmic ontology, explaining the ultimate origin of all basic concepts including dimensions, operations, and representation 
+5. **Conceptual Contribution**: The primitive singularity theory provides the dimension creation mechanism for cosmic ontology, explains the origin and necessity of positive dimensional theories, and constitutes the lower boundary foundation of the entire dimensional spectrum.
+
+---
+
+**Note**: Primitive Singularity Theory version number [Cosmic Ontology v36.0] 

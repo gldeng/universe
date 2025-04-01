@@ -780,6 +780,12 @@ def analyze_theory_files(directory):
     files_with_dependencies = [f for f in files_data if f['依赖']]
     files_need_regenerate = [f for f in files_data if f['需要重新生成']]
     
+    # 计算未解析依赖的统计，使用集合去重
+    all_unresolved_deps = set()
+    for filename, deps in unresolved_deps.items():
+        for dep in deps:
+            all_unresolved_deps.add(dep)
+    
     return {
         "files": files_data,
         "dependencies": dependency_map,
@@ -789,7 +795,7 @@ def analyze_theory_files(directory):
             "files_with_dependencies": len(files_with_dependencies),
             "files_with_dimension": len(files_with_dimension),
             "files_need_regenerate": len(files_need_regenerate),
-            "unresolved_dependencies_count": sum(len(deps) for deps in unresolved_deps.values())
+            "unresolved_dependencies_count": len(all_unresolved_deps)  # 使用集合长度计算独特的未解析依赖数量
         }
     }
 

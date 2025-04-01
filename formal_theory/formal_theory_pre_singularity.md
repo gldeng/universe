@@ -340,10 +340,11 @@ $`\forall mc \in \mathcal{MC}: \text{meta-origin}(mc) = \mathcal{S}_{-2}`$
 
 前奇点理论在理论依赖网络中的位置：
 
-1. **前置依赖理论**:
-   - [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: -3]
+1. **直接依赖**:
+   - [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: -3] - 作为前奇点理论的前置基础
+   - [宇宙本论](formal_theory_cosmic_ontology.md) - 提供整体理论框架
 
-2. **后续依赖理论**:
+2. **后续理论**:
    - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
    - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
    - [原始对偶理论](formal_theory_primitive_duality.md) [维度: 1]
@@ -352,7 +353,7 @@ $`\forall mc \in \mathcal{MC}: \text{meta-origin}(mc) = \mathcal{S}_{-2}`$
    - 作为所有理论的元元理论基础
    - 提供所有维度和操作的元终极起源解释
 
-4. **理论引用图**:
+4. **理论发展序列**:
    ```
    元前奇点理论 [-3] → 前奇点理论 [-2] → 原初奇点理论 [-1] → 原始点理论 [0] → 原始对偶理论 [1] → 原始组合理论 [2] → ...
                                                      ↑

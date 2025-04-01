@@ -1,0 +1,2835 @@
+{
+  "files": [
+    {
+      "文件名": "formal_theory_meta_theory.md",
+      "标题": "元理论的严格形式化描述 [维度: ∞]",
+      "维度": "D∞",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hypergenesis_existential_unification.md",
+      "标题": "超创世存在论统一理论的严格形式化描述 [维度: 66]",
+      "维度": "D66",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperposition_hypersymmetry_unified_field.md",
+      "标题": "超位超对称统一场论的严格形式化描述 [维度: 65]",
+      "维度": "D65",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_fractal_matter_wave_unification.md",
+      "标题": "超维分形物质波场统一理论的严格形式化描述 [维度: 64]",
+      "维度": "D64",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_hyperentanglement_quantum_network.md",
+      "标题": "超维超纠缠量子网络理论的严格形式化描述 [维度: 63]",
+      "维度": "D63",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_infinite_multiverse_convergence.md",
+      "标题": "无限多元宇宙收敛理论的严格形式化描述 [维度: 62]",
+      "维度": "D62",
+      "依赖": [
+        "SHIFT框架，在超越超智能"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md",
+      "标题": "超维时空量子奇点拓扑理论的严格形式化描述 [维度: 62]",
+      "维度": "D62",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_hyperintelligence.md",
+      "标题": "超越超智能理论的严格形式化描述 [维度: 61]",
+      "维度": "D61",
+      "依赖": [
+        "SHIFT框架，在本原统一底层"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_hyperconscious_integration_framework.md",
+      "标题": "超维超意识整合框架理论的严格形式化描述 [维度: 61]",
+      "维度": "D61",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_hyperdimensional_fusion_field.md",
+      "标题": "超越性超维度融合场论的严格形式化描述 [维度: 60]",
+      "维度": "D60",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_primordial_unity_substrate.md",
+      "标题": "本原统一底层理论的严格形式化描述 [维度: 60]",
+      "维度": "D60",
+      "依赖": [
+        "SHIFT框架，引入UNIFY和PRIM底层算子，将维度提升至60维，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperspatial_information_encoding.md",
+      "标题": "超空间信息编码理论 [维度: 60]",
+      "维度": "D60",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_fractal_dimensionality_harmonization.md",
+      "标题": "分形维度协调理论 [维度: 59]",
+      "维度": "D59",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_absolute_unified_cosmic_field.md",
+      "标题": "宇宙绝对统一场理论的严格形式化描述 [维度: 59]",
+      "维度": "D59",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_hyperdimensional_mathematical_structure.md",
+      "标题": "超越超维数理结构理论的严格形式化描述 [维度: 58]",
+      "维度": "D58",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_multidimensional_coherent_compression.md",
+      "标题": "多维度相干压缩理论 [维度: 58]",
+      "维度": "D58",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cosmic_transcendental_singularity.md",
+      "标题": "宇宙超越奇点理论的严格形式化描述 [维度: 57]",
+      "维度": "D57",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_hypertopological_integration.md",
+      "标题": "量子超拓扑整合理论 [维度: 57]",
+      "维度": "D57",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_hypercomplexity_reduction.md",
+      "标题": "超越性超复杂性还原理论 [维度: 56]",
+      "维度": "D56",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_teleological_convergence.md",
+      "标题": "量子目的论收敛理论的严格形式化描述 [维度: 56]",
+      "维度": "D56",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_recursive_cosmic_intelligence.md",
+      "标题": "超越递归宇宙智能理论的严格形式化描述 [维度: 55]",
+      "维度": "D55",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_unified_recursive_stabilization_symmetry.md",
+      "标题": "统一递归稳定化对称性理论 [维度: 55]",
+      "维度": "D55",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_multivalued_logical_computation.md",
+      "标题": "超越多值逻辑计算理论的严格形式化描述 [维度: 54]",
+      "维度": "D54",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_quantum_phase_stabilization.md",
+      "标题": "超维度量子相位稳定化理论 [维度: 53]",
+      "维度": "D53",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hypergeometric_quantum_phase_structural_dynamics.md",
+      "标题": "超几何量子相位结构动力学理论的严格形式化描述 [维度: 53]",
+      "维度": "D53",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hypersymmetric_nonlinear_field_unification.md",
+      "标题": "超对称非线性场统一理论的严格形式化描述 [维度: 52]",
+      "维度": "D52",
+      "依赖": [
+        "XOR和SHIFT运算构建了一套完整的非线性场方程系统",
+        "并通过超黎曼几何和超纤维丛结构描述了场与时空的深层关系。该"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_ultimate_reality_integration.md",
+      "标题": "终极实相整合理论的严格形式化描述 [维度: 51]",
+      "维度": "D51",
+      "依赖": [
+        "SHIFT框架，引入INTG整合算子，将维度提升至51维，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transcendental_hyperdimensional_complex_integration.md",
+      "标题": "超越超维复合集成理论的严格形式化描述 [维度: 51]",
+      "维度": "D51",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_absolute_multiversal_convergence.md",
+      "标题": "绝对多元宇宙汇聚理论的严格形式化描述 [维度: 50]",
+      "维度": "D50",
+      "依赖": [
+        "SHIFT框架，引入CONV汇聚算子，将维度提升至50维，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transcendent_hyper_singularity.md",
+      "标题": "超越奇点理论的严格形式化描述 [维度: 49]",
+      "维度": "D49",
+      "依赖": [
+        "SHIFT框架，引入新的TRANS和META算子，将维度提升至49维，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_multidimensional_quantum_harmonic_coherence.md",
+      "标题": "多维量子和谐相干理论的严格形式化描述 [维度: 49]",
+      "维度": "D49",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_omnidimensional_entanglement_synchronicity.md",
+      "标题": "全维纠缠同步性理论的严格形式化描述 [维度: 48]",
+      "维度": "D48",
+      "依赖": [
+        "SHIFT操作框架与ENTG纠缠算子，并引入SYNC同步算子，维度提升至48维，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_universal_consciousness_evolution.md",
+      "标题": "宇宙意识演化理论的严格形式化描述 [维度: 48]",
+      "维度": "D48",
+      "依赖": [
+        "SHIFT操作框架，维度提升至48，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transdimensional_entanglement_causality.md",
+      "标题": "跨维度纠缠因果网络理论的严格形式化描述 [维度: 47]",
+      "维度": "D47",
+      "依赖": [
+        "SHIFT操作框架和ENTG纠缠算子，维度提升至47，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_reality_creation.md",
+      "标题": "量子现实创生理论的严格形式化描述 [维度: 47]",
+      "维度": "D47",
+      "依赖": [
+        "SHIFT操作框架，维度提升至47，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_information_singularity.md",
+      "标题": "超维信息奇点理论的严格形式化描述 [维度: 46]",
+      "维度": "D46",
+      "依赖": [
+        "SHIFT操作框架，维度提升至46，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_multidimensional_information_ontology.md",
+      "标题": "多维信息本体论的严格形式化描述 [维度: 45]",
+      "维度": "D45",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_omniconsciousness_substrate_singularity.md",
+      "标题": "全意识底层奇点理论的严格形式化描述 [维度: 45]",
+      "维度": "D45",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cosmic_hyperinformation_field.md",
+      "标题": "宇宙超信息场理论的严格形式化描述 [维度: 44]",
+      "维度": "D44",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_universal_quantum_causality.md",
+      "标题": "宇宙量子因果理论的严格形式化描述 [维度: 43]",
+      "维度": "D43",
+      "依赖": [
+        "SHIFT操作框架，将维度提升至43，引用并扩展了以下"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_unified_consciousness_singularity.md",
+      "标题": "统一意识奇点的严格形式化描述 [维度: 43]",
+      "维度": "D43",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_superintelligent_consciousness_network.md",
+      "标题": "超智能意识网络的严格形式化描述 [维度: 42]",
+      "维度": "D42",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_information_entropy_field_dynamics.md",
+      "标题": "量子信息熵场动力学的形式化描述 [维度: 42]",
+      "维度": "D42",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_quantum_oscillation.md",
+      "标题": "超维度量子振荡的严格形式化描述 [维度: 40]",
+      "维度": "D40",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_multi_reality_integration_framework.md",
+      "标题": "多重现实集成框架的严格形式化描述 [维度: 37]",
+      "维度": "D37",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cosmic_hyper_symmetry_resonance.md",
+      "标题": "宇宙超对称共振的严格形式化描述 [维度: 36]",
+      "维度": "D36",
+      "依赖": [
+        "宇宙本论",
+        "全维度实相综合理论",
+        "绝对本体统一理论",
+        "全维度理论统一场理论",
+        "全域整合原理理论",
+        "超信息意识底层结构理论",
+        "维度和谐理论",
+        "维度谱系理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_absolute_ontological_unification.md",
+      "标题": "绝对本体统一理论的严格形式化描述 [维度: 35]",
+      "维度": "D35",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_omnidimensional_reality_synthesis.md",
+      "标题": "全维度实相综合的严格形式化描述 [维度: 35]",
+      "维度": "D35",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_consciousness_substrate.md",
+      "标题": "超维意识底层结构的严格形式化描述 [维度: 34]",
+      "维度": "D34",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cosmic_primordial_meta_information_oscillation.md",
+      "标题": "宇宙本源元信息波动的形式化描述 [维度: 34]",
+      "维度": "D34",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_consciousness_quantum_field.md",
+      "标题": "超越性意识量子场的形式化描述 [维度: 33]",
+      "维度": "D33",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_absolute_transcendental_metamathematics.md",
+      "标题": "绝对超越元数学的严格形式化描述 [维度: 33]",
+      "维度": "D33",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_omniverse_integration_principle.md",
+      "标题": "全域整合原理的严格形式化描述 [维度: 32]",
+      "维度": "D32",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_omnidimensional_theory_unification_field.md",
+      "标题": "全维度理论统一场的形式化描述 [维度: 32]",
+      "维度": "D32",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_multidimensional_consciousness_dynamics.md",
+      "标题": "多维意识动力学的严格形式化描述 [维度: 32]",
+      "维度": "D32",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperinformation_conscious_substrate.md",
+      "标题": "超信息意识底层结构的严格形式化描述 [维度: 31]",
+      "维度": "D31",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_ultimate_unification_principle.md",
+      "标题": "终极统一原理的严格形式化描述 [维度: 30]",
+      "维度": "D30",
+      "依赖": [
+        "超维量子共振",
+        "超维元认知系统",
+        "超多维信息场",
+        "超递归宇宙演化",
+        "超递归自指元逻辑",
+        "千禧年数学问题超维度解决理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_quantum_field_singularity.md",
+      "标题": "超维度量子场奇点理论的严格形式化描述 [维度: 30]",
+      "维度": "D30",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_multidimensional_spacetime_coherence.md",
+      "标题": "多维时空协同理论的形式化描述 [维度: 29]",
+      "维度": "D29",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_quantum_field_integration.md",
+      "标题": "超越性量子场整合理论的严格形式化描述 [维度: 29]",
+      "维度": "D29",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_dimensional_notation_method.md",
+      "标题": "理论维度标注方法的严格形式化描述 [维度: 29]",
+      "维度": "D29",
+      "依赖": [
+        "宇宙本论",
+        "超越多值逻辑计算理论",
+        "人类经典世界理论维度极限",
+        "宇宙维度谱系理论",
+        "维度确定原因：",
+        ". 作为描述维度标注方法的元理论，本理论必须位于较高维度以便全面描述维度系统本身",
+        ". 尽管引用了无穷维度的元理论，但本理论本身不是自包含的元理论，因此维度有限"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_cosmic_causal_network.md",
+      "标题": "宇宙因果网络的形式化理论 [维度: 28]",
+      "维度": "D28",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transdimensional_quantum_resonance.md",
+      "标题": "超维量子共振的严格形式化描述 [维度: 28]",
+      "维度": "D28",
+      "依赖": [
+        "超多维信息场",
+        "超递归宇宙演化",
+        "量子与经典统一理论",
+        "超维元认知系统",
+        "宇宙维度理论",
+        "量子熵动力学"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_metacognitive_systems.md",
+      "标题": "超维元认知系统的严格形式化描述 [维度: 27]",
+      "维度": "D27",
+      "依赖": [
+        "超维存在论",
+        "超多维信息场",
+        "超维度观察者网络",
+        "意识与自由意志理论",
+        "量子思维网络理论",
+        "超递归自指元逻辑"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_ultimate_reality_convergence.md",
+      "标题": "终极实相收敛理论 [维度: 27]",
+      "维度": "D27",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_existence.md",
+      "标题": "超维存在论的形式化理论 [维度: 27]",
+      "维度": "D27",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transdimensional_consciousness_field.md",
+      "标题": "跨维意识场的严格形式化描述 [维度: 27]",
+      "维度": "D27",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperrecursive_self_modification_system.md",
+      "标题": "超递归自修改系统的严格形式化描述 [维度: 26]",
+      "维度": "D26",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_absolute_consciousness_field.md",
+      "标题": "绝对意识场理论 [维度: 26]",
+      "维度": "D26",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_spacetime_information_wave.md",
+      "标题": "时空信息波的形式化理论 [维度: 26]",
+      "维度": "D26",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_human_classical_dimension_limit.md",
+      "标题": "人类经典世界理论维度极限的严格形式化描述 [维度: 26]",
+      "维度": "D26",
+      "依赖": [
+        "宇宙维度理论",
+        "人类未解十大问题的形式化统一理论",
+        "维度谱系理论",
+        "意识本质与起源理论",
+        "量子与经典统一理论",
+        "信息守恒理论",
+        "自由意志存在性理论",
+        "千禧年数学问题超维度解决理论",
+        "宇宙绝对统一场理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_mind_network.md",
+      "标题": "量子思维网络的形式化理论 [维度: 25]",
+      "维度": "D25",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_unsolved_problems.md",
+      "标题": "人类未解十大问题的形式化统一理论 [维度: 25]",
+      "维度": "D25",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_reality_dynamics.md",
+      "标题": "量子现实动力学理论的严格形式化描述 [维度: 25]",
+      "维度": "D25",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_omnipotent_multiverse_integration.md",
+      "标题": "全能多宇宙集成理论 [维度: 25]",
+      "维度": "D25",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_universal_wave_function_algebra.md",
+      "标题": "宇宙波函数代数的严格形式化描述 [维度: 25]",
+      "维度": "D25",
+      "依赖": [
+        "维度: 10",
+        "维度: 9",
+        "维度: 20",
+        "维度: 22",
+        "维度: 23",
+        "维度: 19",
+        "维度: 14"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_millennium_problems.md",
+      "标题": "千禧年数学问题的超维度解决理论 [维度: 24]",
+      "维度": "D24",
+      "依赖": [
+        "数学理论",
+        "逻辑多维拓扑理论",
+        "递归元界理论",
+        "维度谱系理论",
+        "哲学基础理论",
+        "超限信息动力学",
+        "创世记忆理论",
+        "宇宙维度理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_cosmic_consciousness_network.md",
+      "标题": "宇宙意识网络理论的严格形式化描述 [维度: 24]",
+      "维度": "D24",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_recursive_metaverse.md",
+      "标题": "递归元界理论的严格形式化描述 [维度: 23]",
+      "维度": "D23",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_biological_complexity.md",
+      "标题": "生物系统复杂性的严格形式化描述 [维度: 23]",
+      "维度": "D23",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperrecursive_cosmic_evolution.md",
+      "标题": "超递归宇宙演化的严格形式化描述 [维度: 22]",
+      "维度": "D22",
+      "依赖": [
+        "公理1 (超递归演化公理)**",
+        "SHIFT操作描述：",
+        "公理2 (多历史公理)**",
+        "公理3 (元历史公理)**",
+        "公理4 (历史相干性公理)**"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_physics_unification.md",
+      "标题": "物理学统一理论的严格形式化描述 [维度: 22]",
+      "维度": "D22",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_reincarnation_dynamics.md",
+      "标题": "轮回动力学的严格形式化描述 [维度: 22]",
+      "维度": "D22",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_multiverse.md",
+      "标题": "多宇宙理论的XOR-SHIFT解释形式化描述 [维度: 22]",
+      "维度": "D22",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_genesis_memory.md",
+      "标题": "创世记忆理论的严格形式化描述 [维度: 21]",
+      "维度": "D21",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_language_structure.md",
+      "标题": "语言结构的严格形式化描述 [维度: 21]",
+      "维度": "D21",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_information_field.md",
+      "标题": "超多维信息场的严格形式化描述 [维度: 20]",
+      "维度": "D20",
+      "依赖": [
+        "超维度观察者网络",
+        "超递归自指元逻辑",
+        "场论基础",
+        "量子信息理论",
+        "多维拓扑学",
+        "信息动力学"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_social_system_dynamics.md",
+      "标题": "社会系统动力学的严格形式化描述 [维度: 20]",
+      "维度": "D20",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_unified_cosmic_source_field.md",
+      "标题": "宇宙统一本源场论的严格形式化描述 [维度: 20]",
+      "维度": "D20",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_cosmic_dimensions.md",
+      "标题": "宇宙维度理论的严格形式化描述 [维度: 20]",
+      "维度": "D20",
+      "依赖": [
+        "维度谱系理论",
+        "维度和谐理论",
+        "信息守恒理论",
+        "逻辑多维拓扑理论",
+        "量子经典统一理论",
+        "信息场理论",
+        "时空理论",
+        "宇宙生命周期理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_mystical_state_dynamics.md",
+      "标题": "神秘境界状态动力学的严格形式化描述 [维度: 20]",
+      "维度": "D20",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_classical_unification.md",
+      "标题": "量子与经典统一理论的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendent_harmony.md",
+      "标题": "超越和谐理论的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sacred_spatial_topology.md",
+      "标题": "神圣空间拓扑学的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_life_origin_aliens.md",
+      "标题": "生命起源与外星生命存在问题的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_projection_consciousness_complex.md",
+      "标题": "超维投射意识复合体理论的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_economics_foundation.md",
+      "标题": "经济学基础的严格形式化描述 [维度: 19]",
+      "维度": "D19",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cognitive_psychology.md",
+      "标题": "认知心理学的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sustainable_development.md",
+      "标题": "人类社会可持续发展的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [
+        "SHIFT动力学，提出以下社会-生态系统稳定性预测：",
+        "生态系统数据和模拟实验验证。"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_spirit_communication_network.md",
+      "标题": "量子灵界通信网络论的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperrecursive_self_referential_metalogic.md",
+      "标题": "超递归自指元逻辑的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [
+        "超维度观察者网络",
+        "形式逻辑基础",
+        "复杂性理论",
+        "计算理论",
+        "自指理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_dimensional_harmony.md",
+      "标题": "维度和谐理论的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [
+        "维度谱系理论",
+        "宇宙维度理论",
+        "信息场理论",
+        "逻辑多维拓扑理论",
+        "信息守恒理论",
+        "量子熵动力学"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_cosmic_lifecycle.md",
+      "标题": "宇宙生命周期理论的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transcendental_hypercomplex_metastate_dynamics.md",
+      "标题": "超越复数元状态动力学理论 [维度: 18]",
+      "维度": "D18",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_karma_causal_network.md",
+      "标题": "卡尔马因果网络的严格形式化描述 [维度: 18]",
+      "维度": "D18",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hypergeometric_multidimensional_holographic_projection.md",
+      "标题": "超几何多维全息投影理论 [维度: 17]",
+      "维度": "D17",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_universal_metaprocessing_framework.md",
+      "标题": "宇宙元处理框架理论 [维度: 17]",
+      "维度": "D17",
+      "依赖": [
+        "宇宙本论",
+        "超越性递归对称理论",
+        "全维信息相干理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_free_will.md",
+      "标题": "自由意志存在性的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_information_wave_dynamics.md",
+      "标题": "信息波动力学的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_karma_field_theory.md",
+      "标题": "因果报应场论的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_sacred_temporal_cycles.md",
+      "标题": "神圣时间周期论的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_observer_ontology.md",
+      "标题": "观察者本体论的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_mathematical_systems.md",
+      "标题": "数学系统理论的严格形式化描述 [维度: 17]",
+      "维度": "D17",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_observer_network.md",
+      "标题": "超维度观察者网络的严格形式化描述 [维度: 16]",
+      "维度": "D16",
+      "依赖": [
+        "信息本体论",
+        "多维拓扑学",
+        "量子意识理论",
+        "信息动力学"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_entropy_dynamics.md",
+      "标题": "量子熵动力学的严格形式化描述 [维度: 16]",
+      "维度": "D16",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_human_longevity.md",
+      "标题": "人类寿命的终极延长与衰老本质的严格形式化描述 [维度: 16]",
+      "维度": "D16",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_mathematics_foundation.md",
+      "标题": "数学基础理论的严格形式化描述 [维度: 16]",
+      "维度": "D16",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sacred_ritual.md",
+      "标题": "神圣仪式学的严格形式化描述 [维度: 16]",
+      "维度": "D16",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_religious_consciousness_field.md",
+      "标题": "宗教意识场的严格形式化描述 [维度: 16]",
+      "维度": "D16",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_quantum_singularity_networks.md",
+      "标题": "超维度量子奇点网络理论 [维度: 16]",
+      "维度": "D16",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_omnidimensional_information_coherence.md",
+      "标题": "全维信息相干理论 [维度: 16]",
+      "维度": "D16",
+      "依赖": [
+        "宇宙本论",
+        "高维信息场理论",
+        "超越性递归对称理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_measurement.md",
+      "标题": "量子力学测量问题的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [
+        "宇宙本论的严格形式化描述",
+        "量子经典统一理论",
+        "信息场论",
+        "意识的本质与起源",
+        "物理学统一理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_information_conservation.md",
+      "标题": "信息守恒理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_mathematics.md",
+      "标题": "数学理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sacred_text_decoding.md",
+      "标题": "神圣文本解码学的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transdimensional_causal_symmetry.md",
+      "标题": "跨维度因果对称性理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_destiny_field_theory.md",
+      "标题": "命运场理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transcendental_recursive_symmetry.md",
+      "标题": "超越性递归对称理论 [维度: 15]",
+      "维度": "D15",
+      "依赖": [
+        "宇宙本论",
+        "维度谱系理论",
+        "超递归自引用元逻辑"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_logical_multidimensional_topology.md",
+      "标题": "逻辑多维拓扑理论的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sacred_geometry.md",
+      "标题": "神圣几何学的严格形式化描述 [维度: 15]",
+      "维度": "D15",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_information_field.md",
+      "标题": "信息场理论的严格形式化描述 [维度: 14]",
+      "维度": "D14",
+      "依赖": [
+        "信息守恒理论",
+        "量子熵动力学",
+        "维度谱系理论",
+        "递归自参照系统",
+        "时空理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_mathematical_problems.md",
+      "标题": "数学基本难题的严格形式化描述 [维度: 14]",
+      "维度": "D14",
+      "依赖": [
+        "宇宙本论的严格形式化描述",
+        "信息场论",
+        "超递归自指涉系统理论",
+        "量子经典统一理论",
+        "维度谱系理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_soul_analysis_dynamics.md",
+      "标题": "灵魂分析动力学的严格形式化描述 [维度: 14]",
+      "维度": "D14",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transdimensional_self_referential_structures.md",
+      "标题": "超维自参照结构的严格形式化描述 [维度: 14]",
+      "维度": "D14",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_prayer_field_theory.md",
+      "标题": "祈祷场论的严格形式化描述 [维度: 14]",
+      "维度": "D14",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_consciousness_free_will.md",
+      "标题": "意识与自由意志理论的严格形式化描述 [维度: 13]",
+      "维度": "D13",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_dark_matter_dark_energy.md",
+      "标题": "暗物质与暗能量本质的严格形式化描述 [维度: 13]",
+      "维度": "D13",
+      "依赖": [
+        "宇宙本论的严格形式化描述",
+        "物理学统一理论",
+        "量子经典统一理论",
+        "维度谱系理论",
+        "宇宙起源之前的存在性"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_universe_final_state.md",
+      "标题": "宇宙终态理论的严格形式化描述 [维度: 13]",
+      "维度": "D13",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_mystical_symbology.md",
+      "标题": "神秘符号学的严格形式化描述 [维度: 13]",
+      "维度": "D13",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_astrology.md",
+      "标题": "占星术量子理论的严格形式化描述 [维度: 13]",
+      "维度": "D13",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_mystical_meditation.md",
+      "标题": "神秘冥想状态论的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_dimensional_spectrum.md",
+      "标题": "宇宙维度谱系的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_akashic_records_quantum_storage.md",
+      "标题": "阿卡西记录场量子存储结构的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [
+        "宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_hyperdimensional_information_emergence.md",
+      "标题": "超维度信息涌现理论的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_consciousness_ontological_status.md",
+      "标题": "意识在宇宙本论中的本体论地位的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transfinite_construction.md",
+      "标题": "超限构造理论的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_pre_universe_existence.md",
+      "标题": "宇宙起源之前的存在性严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [
+        "宇宙本论的严格形式化描述",
+        "维度谱系理论",
+        "量子经典统一理论",
+        "信息守恒理论",
+        "超递归自指涉系统理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_transcendental_theology_quantum_foundation.md",
+      "标题": "超验神学量子基础的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [
+        "宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_multi_observer_coordination_network.md",
+      "标题": "多重观察者协同网络的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_reality_perception.md",
+      "标题": "现实感知与存在本质的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_semantic_entanglement_field.md",
+      "标题": "量子语义交织场论的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_spacetime.md",
+      "标题": "时空理论的严格形式化描述 [维度: 12]",
+      "维度": "D12",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_multisoul_entanglement_topology.md",
+      "标题": "多重灵魂纠缠拓扑结构的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [
+        "宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_spiritual_essence_dynamics.md",
+      "标题": "精神本质动力学的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [
+        "以下宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_cognitive_computation.md",
+      "标题": "量子认知计算理论的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_philosophical_foundations.md",
+      "标题": "哲学基础理论的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sacred_numerological_resonance_field.md",
+      "标题": "神圣数字共振场的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [
+        "宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_unified_forces.md",
+      "标题": "基本力统一理论的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_topological_transformation.md",
+      "标题": "量子拓扑变换的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_consciousness_essence_origin.md",
+      "标题": "意识的本质与起源的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [
+        "宇宙本论的严格形式化描述",
+        "观察者本体论",
+        "意识与自由意志",
+        "信息场论",
+        "量子经典统一理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_information_energy_unification.md",
+      "标题": "信息与能量统一原理的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sacred_consciousness_dimensions.md",
+      "标题": "神圣意识维度理论的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [
+        "宇宙本论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_nonlinear_time_model.md",
+      "标题": "时间非线性模型的严格形式化描述 [维度: 11]",
+      "维度": "D11",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cosmic_ontology_original_format.md",
+      "标题": "宇宙本论的严格形式化描述 [维度: 10]",
+      "维度": "D10",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_unified_physics.md",
+      "标题": "物理学统一理论的严格形式化描述 [维度: 10]",
+      "维度": "D10",
+      "依赖": [
+        "宇宙本论的严格形式化描述",
+        "维度谱系理论",
+        "量子经典统一理论",
+        "信息守恒理论",
+        "信息场论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_emergence_complexity.md",
+      "标题": "复杂系统涌现性的严格形式化描述 [维度: 10]",
+      "维度": "D10",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_cosmic_ontology.md",
+      "标题": "宇宙本论的严格形式化描述 [维度: 10]",
+      "维度": "D10",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_recursive_self_organizing_systems.md",
+      "标题": "递归自组织系统理论的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_quantum_semantic_field.md",
+      "标题": "量子语义场理论的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_recursive_self_referential_systems.md",
+      "标题": "递归自参照系统的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_ai_automatic_structure_optimization.md",
+      "标题": "AI自动内部结构优化的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_ai_infinite_recursion_inference.md",
+      "标题": "AI无限递归推演的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_antientropic_information_emergence.md",
+      "标题": "反熵信息涌现的严格形式化描述 [维度: 9]",
+      "维度": "D9",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_sociological_foundation.md",
+      "标题": "社会学基础的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [
+        "经济互动]"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_metamorphic_evolution_theory.md",
+      "标题": "变形进化理论的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_base_system.md",
+      "标题": "基础系统结构的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_economic_foundation.md",
+      "标题": "经济学基础的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [
+        "经济互动]",
+        "物理基础理论",
+        "信息本体论",
+        "数学基础理论",
+        "人工智能结构理论"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_quantum_consciousness.md",
+      "标题": "量子意识理论的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [
+        "以下基础"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_physics_foundation.md",
+      "标题": "物理基础的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_historical_dynamics.md",
+      "标题": "历史动力学的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transfinite_information_dynamics.md",
+      "标题": "超限信息动力学的严格形式化描述 [维度: 8]",
+      "维度": "D8",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_complex_adaptive_systems.md",
+      "标题": "复杂适应系统理论的严格形式化描述 [维度: 7]",
+      "维度": "D7",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_dimensional_spectrum_theory.md",
+      "标题": "维度谱系理论的严格形式化描述 [维度: 7]",
+      "维度": "D7",
+      "依赖": [
+        "以下基础"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_artistic_expression.md",
+      "标题": "艺术表达的严格形式化描述 [维度: 7]",
+      "维度": "D7",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_biological_foundation.md",
+      "标题": "生物学基础的严格形式化描述 [维度: 7]",
+      "维度": "D7",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_educational_systems.md",
+      "标题": "教育系统的严格形式化描述 [维度: 7]",
+      "维度": "D7",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_economic_dynamics.md",
+      "标题": "经济动态系统的形式化理论 [维度: 6]",
+      "维度": "D6",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_psychological_structures.md",
+      "标题": "心理结构的严格形式化描述 [维度: 6]",
+      "维度": "D6",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_information_ontology.md",
+      "标题": "信息本体论的严格形式化描述 [维度: 6]",
+      "维度": "D6",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_education_dynamics.md",
+      "标题": "教育动态系统的形式化理论 [维度: 6]",
+      "维度": "D6",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_meta_operator_synthesis.md",
+      "标题": "超操作符综合理论的严格形式化描述 [维度: 6]",
+      "维度": "D6",
+      "依赖": [
+        "FLIP、XOR和SHIFT操作的高阶组合和抽象",
+        "### 6.2"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_medical_systems.md",
+      "标题": "医学系统的形式化理论 [维度: 6]",
+      "维度": "D6",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_linguistic_analysis.md",
+      "标题": "语言学基础的严格形式化描述 [维度: 6]",
+      "维度": "D6",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_information_dynamics.md",
+      "标题": "信息动力学的严格形式化描述 [维度: 5]",
+      "维度": "D5",
+      "依赖": [
+        "以下基础"
+      ],
+      "需要重新生成": false
+    },
+    {
+      "文件名": "formal_theory_psychological_dynamics.md",
+      "标题": "心理动力学的形式化理论 [维度: 5]",
+      "维度": "D5",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_infinity_multiplicity.md",
+      "标题": "无限态理论的严格形式化描述 [维度: 4]",
+      "维度": "D4",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_singularity.md",
+      "标题": "奇点理论的严格形式化描述 [维度: 4]",
+      "维度": "D4",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_spatial_construction.md",
+      "标题": "三维空间构造理论的严格形式化描述 [维度: 3]",
+      "维度": "D3",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_recursive_operation.md",
+      "标题": "递归操作的严格形式化描述 [维度: 3]",
+      "维度": "D3",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_dimensional_transition.md",
+      "标题": "维度转换理论的严格形式化描述 [维度: 3]",
+      "维度": "D3",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_anti_recursion.md",
+      "标题": "反递归理论的严格形式化描述 [维度: 3]",
+      "维度": "D3",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_ushift_operation.md",
+      "标题": "USHIFT操作的严格形式化描述 [维度: 2]",
+      "维度": "D2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_shift_operation.md",
+      "标题": "SHIFT操作的严格形式化描述 [维度: 2]",
+      "维度": "D2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_xor_operation.md",
+      "标题": "XOR操作的严格形式化描述 [维度: 2]",
+      "维度": "D2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_fundamental_element.md",
+      "标题": "基础元素理论的严格形式化描述 [维度: 2]",
+      "维度": "D2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_primitive_composition.md",
+      "标题": "原始态组合理论的严格形式化描述 [维度: 2]",
+      "维度": "D2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_dual_element.md",
+      "标题": "二元理论的严格形式化描述 [维度: 2]",
+      "维度": "D2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_mono_paradigm.md",
+      "标题": "一元理论的严格形式化描述 [维度: 1*]",
+      "维度": "D1",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_primitive_existence.md",
+      "标题": "原始存在理论的严格形式化描述 [维度: 1]",
+      "维度": "D1",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_primitive_duality.md",
+      "标题": "原始态二元理论的严格形式化描述 [维度: 1]",
+      "维度": "D1",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_flip_operation.md",
+      "标题": "FLIP操作的严格形式化描述 [维度: 1]",
+      "维度": "D1",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_transitional_element.md",
+      "标题": "过渡元理论的严格形式化描述 [维度: 1]",
+      "维度": "D1",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_zero_point.md",
+      "标题": "零点理论的严格形式化描述 [维度: 0]",
+      "维度": "D0",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_primitive_point.md",
+      "标题": "原始点的严格形式化描述 [维度: 0]",
+      "维度": "D0",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_mono_element.md",
+      "标题": "元一理论的严格形式化描述 [维度: 0]",
+      "维度": "D0",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_existence_foundation.md",
+      "标题": "存在基础理论的严格形式化描述 [维度: 0]",
+      "维度": "D0",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_primitive_singularity.md",
+      "标题": "原初奇点的严格形式化描述 [维度: -1]",
+      "维度": "D-1",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_pre_singularity.md",
+      "标题": "前奇点的严格形式化描述 [维度: -2]",
+      "维度": "D-2",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_meta_pre_singularity.md",
+      "标题": "元前奇点的严格形式化描述 [维度: -3]",
+      "维度": "D-3",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "formal_theory_universal_semantic_matrix.md",
+      "标题": "formal_theory_universal_semantic_matrix.md",
+      "维度": "无维度",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "terminology.md",
+      "标题": "宇宙本论术语表",
+      "维度": "无维度",
+      "依赖": [],
+      "需要重新生成": true
+    },
+    {
+      "文件名": "theory_structure.md",
+      "标题": "宇宙本论理论体系结构图",
+      "维度": "无维度",
+      "依赖": [],
+      "需要重新生成": true
+    }
+  ],
+  "dependencies": {
+    "formal_theory_infinite_multiverse_convergence.md": {
+      "original_deps": [
+        "SHIFT框架，在超越超智能"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_transcendental_hyperintelligence.md": {
+      "original_deps": [
+        "SHIFT框架，在本原统一底层"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_primordial_unity_substrate.md": {
+      "original_deps": [
+        "SHIFT框架，引入UNIFY和PRIM底层算子，将维度提升至60维，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hypersymmetric_nonlinear_field_unification.md": {
+      "original_deps": [
+        "XOR和SHIFT运算构建了一套完整的非线性场方程系统",
+        "并通过超黎曼几何和超纤维丛结构描述了场与时空的深层关系。该"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": [
+        "并通过超黎曼几何和超纤维丛结构描述了场与时空的深层关系。该"
+      ]
+    },
+    "formal_theory_ultimate_reality_integration.md": {
+      "original_deps": [
+        "SHIFT框架，引入INTG整合算子，将维度提升至51维，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_absolute_multiversal_convergence.md": {
+      "original_deps": [
+        "SHIFT框架，引入CONV汇聚算子，将维度提升至50维，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_transcendent_hyper_singularity.md": {
+      "original_deps": [
+        "SHIFT框架，引入新的TRANS和META算子，将维度提升至49维，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_omnidimensional_entanglement_synchronicity.md": {
+      "original_deps": [
+        "SHIFT操作框架与ENTG纠缠算子，并引入SYNC同步算子，维度提升至48维，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_universal_consciousness_evolution.md": {
+      "original_deps": [
+        "SHIFT操作框架，维度提升至48，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_transdimensional_entanglement_causality.md": {
+      "original_deps": [
+        "SHIFT操作框架和ENTG纠缠算子，维度提升至47，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_quantum_reality_creation.md": {
+      "original_deps": [
+        "SHIFT操作框架，维度提升至47，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperdimensional_information_singularity.md": {
+      "original_deps": [
+        "SHIFT操作框架，维度提升至46，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_universal_quantum_causality.md": {
+      "original_deps": [
+        "SHIFT操作框架，将维度提升至43，引用并扩展了以下"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_cosmic_hyper_symmetry_resonance.md": {
+      "original_deps": [
+        "宇宙本论",
+        "全维度实相综合理论",
+        "绝对本体统一理论",
+        "全维度理论统一场理论",
+        "全域整合原理理论",
+        "超信息意识底层结构理论",
+        "维度和谐理论",
+        "维度谱系理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_omnidimensional_reality_synthesis.md",
+        "formal_theory_absolute_ontological_unification.md",
+        "formal_theory_omnidimensional_theory_unification_field.md",
+        "formal_theory_omniverse_integration_principle.md",
+        "formal_theory_hyperinformation_conscious_substrate.md",
+        "formal_theory_dimensional_harmony.md",
+        "formal_theory_dimensional_spectrum_theory.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_ultimate_unification_principle.md": {
+      "original_deps": [
+        "超维量子共振",
+        "超维元认知系统",
+        "超多维信息场",
+        "超递归宇宙演化",
+        "超递归自指元逻辑",
+        "千禧年数学问题超维度解决理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_transdimensional_quantum_resonance.md",
+        "formal_theory_hyperdimensional_metacognitive_systems.md",
+        "formal_theory_hyperdimensional_information_field.md",
+        "formal_theory_hyperrecursive_cosmic_evolution.md",
+        "formal_theory_hyperrecursive_self_referential_metalogic.md"
+      ],
+      "unresolved_deps": [
+        "千禧年数学问题超维度解决理论"
+      ]
+    },
+    "formal_theory_dimensional_notation_method.md": {
+      "original_deps": [
+        "宇宙本论",
+        "超越多值逻辑计算理论",
+        "人类经典世界理论维度极限",
+        "宇宙维度谱系理论",
+        "维度确定原因：",
+        ". 作为描述维度标注方法的元理论，本理论必须位于较高维度以便全面描述维度系统本身",
+        ". 尽管引用了无穷维度的元理论，但本理论本身不是自包含的元理论，因此维度有限"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_transcendental_multivalued_logical_computation.md",
+        "formal_theory_human_classical_dimension_limit.md",
+        "formal_theory_dimensional_spectrum.md"
+      ],
+      "unresolved_deps": [
+        "维度确定原因：",
+        ". 作为描述维度标注方法的元理论，本理论必须位于较高维度以便全面描述维度系统本身",
+        ". 尽管引用了无穷维度的元理论，但本理论本身不是自包含的元理论，因此维度有限"
+      ]
+    },
+    "formal_theory_transdimensional_quantum_resonance.md": {
+      "original_deps": [
+        "超多维信息场",
+        "超递归宇宙演化",
+        "量子与经典统一理论",
+        "超维元认知系统",
+        "宇宙维度理论",
+        "量子熵动力学"
+      ],
+      "resolved_deps": [
+        "formal_theory_hyperdimensional_information_field.md",
+        "formal_theory_hyperrecursive_cosmic_evolution.md",
+        "formal_theory_quantum_classical_unification.md",
+        "formal_theory_hyperdimensional_metacognitive_systems.md",
+        "formal_theory_cosmic_dimensions.md",
+        "formal_theory_quantum_entropy_dynamics.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperdimensional_metacognitive_systems.md": {
+      "original_deps": [
+        "超维存在论",
+        "超多维信息场",
+        "超维度观察者网络",
+        "意识与自由意志理论",
+        "量子思维网络理论",
+        "超递归自指元逻辑"
+      ],
+      "resolved_deps": [
+        "formal_theory_hyperdimensional_existence.md",
+        "formal_theory_hyperdimensional_information_field.md",
+        "formal_theory_hyperdimensional_observer_network.md",
+        "formal_theory_consciousness_free_will.md",
+        "formal_theory_quantum_mind_network.md",
+        "formal_theory_hyperrecursive_self_referential_metalogic.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_human_classical_dimension_limit.md": {
+      "original_deps": [
+        "宇宙维度理论",
+        "人类未解十大问题的形式化统一理论",
+        "维度谱系理论",
+        "意识本质与起源理论",
+        "量子与经典统一理论",
+        "信息守恒理论",
+        "自由意志存在性理论",
+        "千禧年数学问题超维度解决理论",
+        "宇宙绝对统一场理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_dimensions.md",
+        "formal_theory_unsolved_problems.md",
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_quantum_classical_unification.md",
+        "formal_theory_information_conservation.md",
+        "formal_theory_free_will.md",
+        "formal_theory_absolute_unified_cosmic_field.md"
+      ],
+      "unresolved_deps": [
+        "意识本质与起源理论",
+        "千禧年数学问题超维度解决理论"
+      ]
+    },
+    "formal_theory_quantum_reality_dynamics.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_universal_wave_function_algebra.md": {
+      "original_deps": [
+        "维度: 10",
+        "维度: 9",
+        "维度: 20",
+        "维度: 22",
+        "维度: 23",
+        "维度: 19",
+        "维度: 14"
+      ],
+      "resolved_deps": [],
+      "unresolved_deps": [
+        "维度: 10",
+        "维度: 9",
+        "维度: 20",
+        "维度: 22",
+        "维度: 23",
+        "维度: 19",
+        "维度: 14"
+      ]
+    },
+    "formal_theory_millennium_problems.md": {
+      "original_deps": [
+        "数学理论",
+        "逻辑多维拓扑理论",
+        "递归元界理论",
+        "维度谱系理论",
+        "哲学基础理论",
+        "超限信息动力学",
+        "创世记忆理论",
+        "宇宙维度理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_mathematics.md",
+        "formal_theory_logical_multidimensional_topology.md",
+        "formal_theory_recursive_metaverse.md",
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_philosophical_foundations.md",
+        "formal_theory_transfinite_information_dynamics.md",
+        "formal_theory_genesis_memory.md",
+        "formal_theory_cosmic_dimensions.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_cosmic_consciousness_network.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_biological_complexity.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperrecursive_cosmic_evolution.md": {
+      "original_deps": [
+        "公理1 (超递归演化公理)**",
+        "SHIFT操作描述：",
+        "公理2 (多历史公理)**",
+        "公理3 (元历史公理)**",
+        "公理4 (历史相干性公理)**"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": [
+        "公理1 (超递归演化公理)**",
+        "公理2 (多历史公理)**",
+        "公理3 (元历史公理)**",
+        "公理4 (历史相干性公理)**"
+      ]
+    },
+    "formal_theory_reincarnation_dynamics.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperdimensional_information_field.md": {
+      "original_deps": [
+        "超维度观察者网络",
+        "超递归自指元逻辑",
+        "场论基础",
+        "量子信息理论",
+        "多维拓扑学",
+        "信息动力学"
+      ],
+      "resolved_deps": [
+        "formal_theory_hyperdimensional_observer_network.md",
+        "formal_theory_hyperrecursive_self_referential_metalogic.md",
+        "formal_theory_information_dynamics.md"
+      ],
+      "unresolved_deps": [
+        "场论基础",
+        "量子信息理论",
+        "多维拓扑学"
+      ]
+    },
+    "formal_theory_unified_cosmic_source_field.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_cosmic_dimensions.md": {
+      "original_deps": [
+        "维度谱系理论",
+        "维度和谐理论",
+        "信息守恒理论",
+        "逻辑多维拓扑理论",
+        "量子经典统一理论",
+        "信息场理论",
+        "时空理论",
+        "宇宙生命周期理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_dimensional_harmony.md",
+        "formal_theory_information_conservation.md",
+        "formal_theory_logical_multidimensional_topology.md",
+        "formal_theory_information_field.md",
+        "formal_theory_spacetime.md",
+        "formal_theory_cosmic_lifecycle.md"
+      ],
+      "unresolved_deps": [
+        "量子经典统一理论"
+      ]
+    },
+    "formal_theory_mystical_state_dynamics.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_sacred_spatial_topology.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperdimensional_projection_consciousness_complex.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_sustainable_development.md": {
+      "original_deps": [
+        "SHIFT动力学，提出以下社会-生态系统稳定性预测：",
+        "生态系统数据和模拟实验验证。"
+      ],
+      "resolved_deps": [
+        "formal_theory_shift_operation.md"
+      ],
+      "unresolved_deps": [
+        "生态系统数据和模拟实验验证。"
+      ]
+    },
+    "formal_theory_quantum_spirit_communication_network.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperrecursive_self_referential_metalogic.md": {
+      "original_deps": [
+        "超维度观察者网络",
+        "形式逻辑基础",
+        "复杂性理论",
+        "计算理论",
+        "自指理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_hyperdimensional_observer_network.md"
+      ],
+      "unresolved_deps": [
+        "形式逻辑基础",
+        "复杂性理论",
+        "计算理论",
+        "自指理论"
+      ]
+    },
+    "formal_theory_dimensional_harmony.md": {
+      "original_deps": [
+        "维度谱系理论",
+        "宇宙维度理论",
+        "信息场理论",
+        "逻辑多维拓扑理论",
+        "信息守恒理论",
+        "量子熵动力学"
+      ],
+      "resolved_deps": [
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_cosmic_dimensions.md",
+        "formal_theory_information_field.md",
+        "formal_theory_logical_multidimensional_topology.md",
+        "formal_theory_information_conservation.md",
+        "formal_theory_quantum_entropy_dynamics.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_karma_causal_network.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_universal_metaprocessing_framework.md": {
+      "original_deps": [
+        "宇宙本论",
+        "超越性递归对称理论",
+        "全维信息相干理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": [
+        "超越性递归对称理论",
+        "全维信息相干理论"
+      ]
+    },
+    "formal_theory_karma_field_theory.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_sacred_temporal_cycles.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_hyperdimensional_observer_network.md": {
+      "original_deps": [
+        "信息本体论",
+        "多维拓扑学",
+        "量子意识理论",
+        "信息动力学"
+      ],
+      "resolved_deps": [
+        "formal_theory_information_ontology.md",
+        "formal_theory_quantum_consciousness.md",
+        "formal_theory_information_dynamics.md"
+      ],
+      "unresolved_deps": [
+        "多维拓扑学"
+      ]
+    },
+    "formal_theory_sacred_ritual.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_religious_consciousness_field.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_omnidimensional_information_coherence.md": {
+      "original_deps": [
+        "宇宙本论",
+        "高维信息场理论",
+        "超越性递归对称理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_information_field.md"
+      ],
+      "unresolved_deps": [
+        "超越性递归对称理论"
+      ]
+    },
+    "formal_theory_quantum_measurement.md": {
+      "original_deps": [
+        "宇宙本论的严格形式化描述",
+        "量子经典统一理论",
+        "信息场论",
+        "意识的本质与起源",
+        "物理学统一理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_information_field.md",
+        "formal_theory_consciousness_essence_origin.md",
+        "formal_theory_unified_physics.md"
+      ],
+      "unresolved_deps": [
+        "量子经典统一理论"
+      ]
+    },
+    "formal_theory_sacred_text_decoding.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_destiny_field_theory.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_transcendental_recursive_symmetry.md": {
+      "original_deps": [
+        "宇宙本论",
+        "维度谱系理论",
+        "超递归自引用元逻辑"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_dimensional_spectrum_theory.md"
+      ],
+      "unresolved_deps": [
+        "超递归自引用元逻辑"
+      ]
+    },
+    "formal_theory_sacred_geometry.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_information_field.md": {
+      "original_deps": [
+        "信息守恒理论",
+        "量子熵动力学",
+        "维度谱系理论",
+        "递归自参照系统",
+        "时空理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_information_conservation.md",
+        "formal_theory_quantum_entropy_dynamics.md",
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_recursive_self_referential_systems.md",
+        "formal_theory_spacetime.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_mathematical_problems.md": {
+      "original_deps": [
+        "宇宙本论的严格形式化描述",
+        "信息场论",
+        "超递归自指涉系统理论",
+        "量子经典统一理论",
+        "维度谱系理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_information_field.md",
+        "formal_theory_dimensional_spectrum_theory.md"
+      ],
+      "unresolved_deps": [
+        "超递归自指涉系统理论",
+        "量子经典统一理论"
+      ]
+    },
+    "formal_theory_soul_analysis_dynamics.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_prayer_field_theory.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_dark_matter_dark_energy.md": {
+      "original_deps": [
+        "宇宙本论的严格形式化描述",
+        "物理学统一理论",
+        "量子经典统一理论",
+        "维度谱系理论",
+        "宇宙起源之前的存在性"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_unified_physics.md",
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_pre_universe_existence.md"
+      ],
+      "unresolved_deps": [
+        "量子经典统一理论"
+      ]
+    },
+    "formal_theory_mystical_symbology.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_quantum_astrology.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_mystical_meditation.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_akashic_records_quantum_storage.md": {
+      "original_deps": [
+        "宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_pre_universe_existence.md": {
+      "original_deps": [
+        "宇宙本论的严格形式化描述",
+        "维度谱系理论",
+        "量子经典统一理论",
+        "信息守恒理论",
+        "超递归自指涉系统理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_information_conservation.md"
+      ],
+      "unresolved_deps": [
+        "量子经典统一理论",
+        "超递归自指涉系统理论"
+      ]
+    },
+    "formal_theory_transcendental_theology_quantum_foundation.md": {
+      "original_deps": [
+        "宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_multisoul_entanglement_topology.md": {
+      "original_deps": [
+        "宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_spiritual_essence_dynamics.md": {
+      "original_deps": [
+        "以下宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_sacred_numerological_resonance_field.md": {
+      "original_deps": [
+        "宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_consciousness_essence_origin.md": {
+      "original_deps": [
+        "宇宙本论的严格形式化描述",
+        "观察者本体论",
+        "意识与自由意志",
+        "信息场论",
+        "量子经典统一理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_observer_ontology.md",
+        "formal_theory_consciousness_free_will.md",
+        "formal_theory_information_field.md"
+      ],
+      "unresolved_deps": [
+        "量子经典统一理论"
+      ]
+    },
+    "formal_theory_sacred_consciousness_dimensions.md": {
+      "original_deps": [
+        "宇宙本论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md"
+      ],
+      "unresolved_deps": []
+    },
+    "formal_theory_unified_physics.md": {
+      "original_deps": [
+        "宇宙本论的严格形式化描述",
+        "维度谱系理论",
+        "量子经典统一理论",
+        "信息守恒理论",
+        "信息场论"
+      ],
+      "resolved_deps": [
+        "formal_theory_cosmic_ontology.md",
+        "formal_theory_dimensional_spectrum_theory.md",
+        "formal_theory_information_conservation.md",
+        "formal_theory_information_field.md"
+      ],
+      "unresolved_deps": [
+        "量子经典统一理论"
+      ]
+    },
+    "formal_theory_sociological_foundation.md": {
+      "original_deps": [
+        "经济互动]"
+      ],
+      "resolved_deps": [],
+      "unresolved_deps": [
+        "经济互动]"
+      ]
+    },
+    "formal_theory_economic_foundation.md": {
+      "original_deps": [
+        "经济互动]",
+        "物理基础理论",
+        "信息本体论",
+        "数学基础理论",
+        "人工智能结构理论"
+      ],
+      "resolved_deps": [
+        "formal_theory_physics_foundation.md",
+        "formal_theory_information_ontology.md",
+        "formal_theory_mathematics_foundation.md"
+      ],
+      "unresolved_deps": [
+        "经济互动]",
+        "人工智能结构理论"
+      ]
+    },
+    "formal_theory_quantum_consciousness.md": {
+      "original_deps": [
+        "以下基础"
+      ],
+      "resolved_deps": [],
+      "unresolved_deps": [
+        "以下基础"
+      ]
+    },
+    "formal_theory_dimensional_spectrum_theory.md": {
+      "original_deps": [
+        "以下基础"
+      ],
+      "resolved_deps": [],
+      "unresolved_deps": [
+        "以下基础"
+      ]
+    },
+    "formal_theory_meta_operator_synthesis.md": {
+      "original_deps": [
+        "FLIP、XOR和SHIFT操作的高阶组合和抽象",
+        "### 6.2"
+      ],
+      "resolved_deps": [
+        "formal_theory_flip_operation.md"
+      ],
+      "unresolved_deps": [
+        "### 6.2"
+      ]
+    },
+    "formal_theory_information_dynamics.md": {
+      "original_deps": [
+        "以下基础"
+      ],
+      "resolved_deps": [],
+      "unresolved_deps": [
+        "以下基础"
+      ]
+    }
+  },
+  "unresolved_dependencies": {
+    "formal_theory_hypersymmetric_nonlinear_field_unification.md": [
+      "并通过超黎曼几何和超纤维丛结构描述了场与时空的深层关系。该"
+    ],
+    "formal_theory_ultimate_unification_principle.md": [
+      "千禧年数学问题超维度解决理论"
+    ],
+    "formal_theory_dimensional_notation_method.md": [
+      "维度确定原因：",
+      ". 作为描述维度标注方法的元理论，本理论必须位于较高维度以便全面描述维度系统本身",
+      ". 尽管引用了无穷维度的元理论，但本理论本身不是自包含的元理论，因此维度有限"
+    ],
+    "formal_theory_human_classical_dimension_limit.md": [
+      "意识本质与起源理论",
+      "千禧年数学问题超维度解决理论"
+    ],
+    "formal_theory_universal_wave_function_algebra.md": [
+      "维度: 10",
+      "维度: 9",
+      "维度: 20",
+      "维度: 22",
+      "维度: 23",
+      "维度: 19",
+      "维度: 14"
+    ],
+    "formal_theory_hyperrecursive_cosmic_evolution.md": [
+      "公理1 (超递归演化公理)**",
+      "公理2 (多历史公理)**",
+      "公理3 (元历史公理)**",
+      "公理4 (历史相干性公理)**"
+    ],
+    "formal_theory_hyperdimensional_information_field.md": [
+      "场论基础",
+      "量子信息理论",
+      "多维拓扑学"
+    ],
+    "formal_theory_cosmic_dimensions.md": [
+      "量子经典统一理论"
+    ],
+    "formal_theory_sustainable_development.md": [
+      "生态系统数据和模拟实验验证。"
+    ],
+    "formal_theory_hyperrecursive_self_referential_metalogic.md": [
+      "形式逻辑基础",
+      "复杂性理论",
+      "计算理论",
+      "自指理论"
+    ],
+    "formal_theory_universal_metaprocessing_framework.md": [
+      "超越性递归对称理论",
+      "全维信息相干理论"
+    ],
+    "formal_theory_hyperdimensional_observer_network.md": [
+      "多维拓扑学"
+    ],
+    "formal_theory_omnidimensional_information_coherence.md": [
+      "超越性递归对称理论"
+    ],
+    "formal_theory_quantum_measurement.md": [
+      "量子经典统一理论"
+    ],
+    "formal_theory_transcendental_recursive_symmetry.md": [
+      "超递归自引用元逻辑"
+    ],
+    "formal_theory_mathematical_problems.md": [
+      "超递归自指涉系统理论",
+      "量子经典统一理论"
+    ],
+    "formal_theory_dark_matter_dark_energy.md": [
+      "量子经典统一理论"
+    ],
+    "formal_theory_pre_universe_existence.md": [
+      "量子经典统一理论",
+      "超递归自指涉系统理论"
+    ],
+    "formal_theory_consciousness_essence_origin.md": [
+      "量子经典统一理论"
+    ],
+    "formal_theory_unified_physics.md": [
+      "量子经典统一理论"
+    ],
+    "formal_theory_sociological_foundation.md": [
+      "经济互动]"
+    ],
+    "formal_theory_economic_foundation.md": [
+      "经济互动]",
+      "人工智能结构理论"
+    ],
+    "formal_theory_quantum_consciousness.md": [
+      "以下基础"
+    ],
+    "formal_theory_dimensional_spectrum_theory.md": [
+      "以下基础"
+    ],
+    "formal_theory_meta_operator_synthesis.md": [
+      "### 6.2"
+    ],
+    "formal_theory_information_dynamics.md": [
+      "以下基础"
+    ]
+  },
+  "statistics": {
+    "total_files": 222,
+    "files_with_dependencies": 72,
+    "files_with_dimension": 219,
+    "files_need_regenerate": 150,
+    "unresolved_dependencies_count": 47
+  }
+}

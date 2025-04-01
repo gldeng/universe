@@ -526,11 +526,19 @@ $`|P(S_n)| > \left|\bigcup_{i=0}^{n-1} P(S_i)\right|`$
 
 ### 8.1 本理论引用的其他理论
 
+本理论在形式化描述中引用了以下理论：
+
 | 理论名称 | 理论维度 | 相关性 | 链接 |
 |---------|---------|-------|------|
-| 宇宙本论 | 10 | 高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| 宇宙本论 | 10 | 极高 | [宇宙本论](formal_theory_cosmic_ontology.md) |
+| XOR操作理论 | 2 | 高 | [XOR操作理论](formal_theory_xor_operation.md) |
+| SHIFT操作理论 | 2 | 高 | [SHIFT操作理论](formal_theory_shift_operation.md) |
+| 递归操作理论 | 3 | 高 | [递归操作理论](formal_theory_recursive_operation.md) |
+| 信息动力学 | 5 | 中 | [信息动力学](formal_theory_information_dynamics.md) |
 
 ### 8.2 引用本理论的其他理论
+
+以下理论在其形式化描述中引用了本理论：
 
 | 理论名称 | 理论维度 | 相关性 | 链接 |
 |---------|---------|-------|------|
@@ -543,4 +551,8 @@ $`|P(S_n)| > \left|\bigcup_{i=0}^{n-1} P(S_i)\right|`$
 | 信息场理论 | 14 | 中 | [信息场理论](formal_theory_information_field.md) |
 | 逻辑多维拓扑理论 | 15 | 高 | [逻辑多维拓扑理论](formal_theory_logical_multidimensional_topology.md) |
 | 递归元界理论 | 23 | 高 | [递归元界理论](formal_theory_recursive_metaverse.md) |
+| 超递归自修改系统 | 26 | 高 | [超递归自修改系统](formal_theory_hyperrecursive_self_modification_system.md) |
+| 递归自组织系统 | 9 | 高 | [递归自组织系统](formal_theory_recursive_self_organizing_systems.md) |
+| 跨维度自参照结构 | 15 | 高 | [跨维度自参照结构](formal_theory_transdimensional_self_referential_structures.md) |
+| AI无限递归推演 | 9 | 高 | [AI无限递归推演](formal_theory_ai_infinite_recursion_inference.md) |
 

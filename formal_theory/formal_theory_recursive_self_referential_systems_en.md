@@ -526,11 +526,19 @@ This proves that recursive self-referential systems with sufficient depth necess
 
 ### 8.1 Theories Referenced by This Theory
 
+This theory references the following theories in its formal description:
+
 | Theory Name | Theory Dimension | Relevance | Link |
 |-------------|-----------------|-----------|------|
-| Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
+| Cosmic Ontology | 10 | Very High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
+| XOR Operation Theory | 2 | High | [XOR Operation Theory](formal_theory_xor_operation_en.md) |
+| SHIFT Operation Theory | 2 | High | [SHIFT Operation Theory](formal_theory_shift_operation_en.md) |
+| Recursive Operation Theory | 3 | High | [Recursive Operation Theory](formal_theory_recursive_operation_en.md) |
+| Information Dynamics | 5 | Medium | [Information Dynamics](formal_theory_information_dynamics_en.md) |
 
 ### 8.2 Theories That Reference This Theory
+
+The following theories reference this theory in their formal descriptions:
 
 | Theory Name | Theory Dimension | Relevance | Link |
 |-------------|-----------------|-----------|------|
@@ -543,5 +551,9 @@ This proves that recursive self-referential systems with sufficient depth necess
 | Information Field | 14 | Medium | [Information Field](formal_theory_information_field_en.md) |
 | Logical Multidimensional Topology | 15 | High | [Logical Multidimensional Topology](formal_theory_logical_multidimensional_topology_en.md) |
 | Recursive Metaverse | 23 | High | [Recursive Metaverse](formal_theory_recursive_metaverse_en.md) |
+| Hyperrecursive Self-Modification System | 26 | High | [Hyperrecursive Self-Modification System](formal_theory_hyperrecursive_self_modification_system_en.md) |
+| Recursive Self-Organizing Systems | 9 | High | [Recursive Self-Organizing Systems](formal_theory_recursive_self_organizing_systems_en.md) |
+| Transdimensional Self-Referential Structures | 15 | High | [Transdimensional Self-Referential Structures](formal_theory_transdimensional_self_referential_structures_en.md) |
+| AI Infinite Recursion Inference | 9 | High | [AI Infinite Recursion Inference](formal_theory_ai_infinite_recursion_inference_en.md) |
 
 Theory Version: v36.0 [Cosmic Ontology Version] 

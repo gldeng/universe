@@ -10,5 +10,7 @@ alwaysApply: false
 
 生成的新文件内容中请在标题后标注理论维度
 
+按照 [formal_theory_dimensional_notation_method.md](mdc:formal_theory/formal_theory_dimensional_notation_method.md) 添加这些理论
+
 记得输出英文版本的到英文版文件,如果文件更新了也更新一下版本号到【形式化版本号】。
 生成的新文件内容中请在标题后标注维度.请使用严格的形式化方法描述. 

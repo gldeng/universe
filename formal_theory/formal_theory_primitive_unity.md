@@ -485,6 +485,7 @@ $`\text{Stab}(\text{PUNITY}) = \frac{\text{Stab}(⊕)}{\text{Stab}(=)} = \frac{0
    - [宇宙码理论](formal_theory/formal_theory_universal_code.md) [维度: 0.5]
 
 2. **后续理论**：
+   - [原始统一扩展态理论](formal_theory/formal_theory_primitive_unity_extension.md) [维度: 0.18]
    - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.15]
    - [原始点理论](formal_theory/formal_theory_primitive_point.md) [维度: 0]
    - [原始点演化理论](formal_theory/formal_theory_point_evolution.md) [维度: -0.1]
@@ -498,7 +499,7 @@ $`\text{Stab}(\text{PUNITY}) = \frac{\text{Stab}(⊕)}{\text{Stab}(=)} = \frac{0
 
 4. **理论引用图**：
    ```
-   原初奇点理论 [-1] → 宇宙码理论 [0.5] → 原始统一性理论 [0.2] → 原始统一瓦解理论 [0.15] → 原始点理论 [0] → 原始点演化理论 [-0.1] → 空间预构态理论 [-0.3] → ...
+   原初奇点理论 [-1] → 宇宙码理论 [0.5] → 原始统一性理论 [0.2] → 原始统一扩展态理论 [0.18] → 原始统一瓦解理论 [0.15] → 原始点理论 [0] → 原始点演化理论 [-0.1] → 空间预构态理论 [-0.3] → ...
    ```
 
 5. **概念贡献**：原始统一性理论提供了统一性的原始概念，解释了从分离到统一的过渡过程，填补了宇宙码和原始点之间的理论缺口，并通过低维理论延伸了对宇宙初始态演化的理解。

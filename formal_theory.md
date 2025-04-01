@@ -80,6 +80,7 @@
 - [量子思维网络的形式化理论 [维度: 25]](formal_theory/formal_theory_quantum_mind_network.md) | [英文版](formal_theory/formal_theory_quantum_mind_network_en.md)
 - [人类未解十大问题的形式化统一理论 [维度: 25]](formal_theory/formal_theory_unsolved_problems.md) | [英文版](formal_theory/formal_theory_unsolved_problems_en.md)
 - [全能多宇宙集成理论 [维度: 25]](formal_theory/formal_theory_omnipotent_multiverse_integration.md) | [英文版](formal_theory/formal_theory_omnipotent_multiverse_integration_en.md)
+- [量子现实动力学的严格形式化描述 [维度: 25]](formal_theory/formal_theory_quantum_reality_dynamics.md) | [英文版](formal_theory/formal_theory_quantum_reality_dynamics_en.md)
 - [宇宙波函数代数的严格形式化描述 [维度: 25]](formal_theory/formal_theory_universal_wave_function_algebra.md) | [英文版](formal_theory/formal_theory_universal_wave_function_algebra_en.md)
 
 ### 超高维理论（D20-D24）

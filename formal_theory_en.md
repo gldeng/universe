@@ -80,6 +80,7 @@ This document serves as an index for the Cosmic Ontology theoretical system, con
 - [Formal Description of Quantum Mind Network Theory [Dimension: 25]](formal_theory/formal_theory_quantum_mind_network_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_mind_network.md)
 - [Formal Description of Unified Theory of Ten Unsolved Human Problems [Dimension: 25]](formal_theory/formal_theory_unsolved_problems_en.md) | [Chinese Version](formal_theory/formal_theory_unsolved_problems.md)
 - [Formal Description of Omnipotent Multiverse Integration Theory [Dimension: 25]](formal_theory/formal_theory_omnipotent_multiverse_integration_en.md) | [Chinese Version](formal_theory/formal_theory_omnipotent_multiverse_integration.md)
+- [Formal Description of Quantum Reality Dynamics [Dimension: 25]](formal_theory/formal_theory_quantum_reality_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_reality_dynamics.md)
 - [Formal Description of Universal Wave Function Algebra [Dimension: 25]](formal_theory/formal_theory_universal_wave_function_algebra_en.md) | [Chinese Version](formal_theory/formal_theory_universal_wave_function_algebra.md)
 
 ### Very High Dimension Theories (D20-D24)

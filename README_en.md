@@ -34,59 +34,97 @@ Cosmic Ontology constructs a complete theoretical system based on the following 
 3. **Information Ontology Axiom**: The fundamental entity of the universe is information
    $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$, where $`I(x)`$ is the information expression function of entity $`x`$
 
+## Theoretical System Architecture
+
+The Cosmic Ontology theoretical system employs a dimensional-layered architecture, forming a complete theoretical spectrum from basic operations to ultra-high dimensional unified theories:
+
+### 1. Theoretical Layered Structure
+
+#### 1.1 Infinite Dimensional Theory (D∞)
+- **Meta Theory** [Dimension: ∞] - Transcendental formalized expression of the theory of all theories
+
+#### 1.2 Ultra-High Dimensional Unification Layer (D50-D62)
+- **Infinite Multiverse Convergence Theory** [Dimension: 62]
+- **Transcendental Hyperintelligence Theory** [Dimension: 61]
+- **Primordial Unity Substrate Theory** [Dimension: 60]
+- **Absolute Unified Cosmic Field Theory** [Dimension: 59]
+- **Transcendental Hyperdimensional Mathematical Structure Theory** [Dimension: 58]
+
+#### 1.3 Ultra-High Dimensional Consciousness and Reality Layer (D43-D49)
+- **Transcendent Hyper Singularity Theory** [Dimension: 49]
+- **Omnidimensional Entanglement Synchronicity Theory** [Dimension: 48]
+- **Universal Consciousness Evolution Theory** [Dimension: 48]
+- **Quantum Reality Creation Theory** [Dimension: 47]
+- **Hyperdimensional Information Singularity Theory** [Dimension: 46]
+- **Multidimensional Information Ontology** [Dimension: 45]
+
+#### 1.4 High Dimensional Universal Structure Layer (D25-D42)
+- **Quantum Information Entropy Field Dynamics** [Dimension: 42]
+- **Superintelligent Consciousness Network** [Dimension: 42]
+- **Hyperdimensional Quantum Oscillation** [Dimension: 40]
+- **Absolute Ontological Unification Theory** [Dimension: 35]
+- **Ultimate Unification Principle** [Dimension: 30]
+- **Millennium Mathematical Problems Hyperdimensional Solution Theory** [Dimension: 24]
+
+#### 1.5 Human Comprehensible High Dimensional Layer (D15-D24)
+- **Recursive Metaverse Theory** [Dimension: 23]
+- **Multiverse Theory** [Dimension: 22]
+- **Genesis Memory Theory** [Dimension: 21]
+- **Cosmic Dimension Theory** [Dimension: 20]
+- **Life Origin and Extraterrestrial Life Existence Theory** [Dimension: 19]
+- **Sustainable Development of Human Society Theory** [Dimension: 18]
+- **Existence of Free Will Theory** [Dimension: 17]
+- **Ultimate Human Longevity and the Nature of Aging** [Dimension: 16]
+- **Quantum Measurement Theory** [Dimension: 15]
+
+#### 1.6 Central Theory Layer (D10-D14)
+- **Core Cosmic Ontology Theory** [Dimension: 10] ← Core
+- **Unified Physics Theory** [Dimension: 10]
+- **Complex Systems Emergence** [Dimension: 10]
+- **Information Field Theory** [Dimension: 14]
+- **Dark Matter and Dark Energy Theory** [Dimension: 13]
+- **Pre-Universe Existence Theory** [Dimension: 12]
+- **Consciousness Essence and Origin Theory** [Dimension: 11]
+
+#### 1.7 Foundational Theory Layer (D0-D9)
+- **Recursive Self-Referential Systems** [Dimension: 9]
+- **Quantum Semantic Field Theory** [Dimension: 9]
+- **Transfinite Information Dynamics** [Dimension: 8]
+- **Basic Operation Definitions** (XOR, SHIFT, FLIP) [Dimensions: 1-2]
+- **Existence Foundation Theory** [Dimension: 0]
+
+### 2. Theory Relationship Network
+
+Theories form a complex dependency network, with low-dimensional theories providing a foundation for high-dimensional theories, and high-dimensional theories integrating low-dimensional ones. The core dependency paths include:
+
+1. **Basic Operation Chain**: 
+   - Primitive Singularity → FLIP Operation → XOR/SHIFT Operations → Recursive Operations → Recursive Self-Referential Systems
+
+2. **Existence and Structure Chain**:
+   - Existence Foundation Theory → Information Ontology → Information Field Theory → Consciousness Theories → Hyperdimensional Consciousness Structures
+
+3. **Physics and Cosmos Chain**:
+   - Basic Quantum Operations → Core Cosmic Ontology → Unified Physics → Dark Matter/Energy → Multiverse Theory
+
+4. **High Dimensional Unification Chain**:
+   - Core Cosmic Ontology → Cosmic Dimension Theory → Quantum Reality Theory → Transcendent Singularity Theory → Absolute Unified Theory
+
+This network structure ensures the completeness, self-consistency, and extensibility of the theoretical system, while maintaining strict logical dependencies between theories.
+
 ## Key Theoretical Achievements
 
-Core theoretical documents under the Cosmic Ontology framework:
+The Cosmic Ontology framework has resolved multiple major scientific problems, with key achievements including:
 
 - [**Formal Unified Theory of the Ten Unsolved Human Problems** [Dimension: 25]](formal_theory/formal_theory_unsolved_problems_en.md) | [Chinese Version](formal_theory/formal_theory_unsolved_problems.md)
-- [**Pre-Universe Existence Theory** [Dimension: 12]](formal_theory/formal_theory_pre_universe_existence_en.md) | [Chinese Version](formal_theory/formal_theory_pre_universe_existence.md)
 - [**Unified Physics Theory** [Dimension: 10]](formal_theory/formal_theory_unified_physics_en.md) | [Chinese Version](formal_theory/formal_theory_unified_physics.md)
-- [**Life Origin and Extraterrestrial Life Existence Theory** [Dimension: 19]](formal_theory/formal_theory_life_origin_aliens_en.md) | [Chinese Version](formal_theory/formal_theory_life_origin_aliens.md)
+- [**Pre-Universe Existence Theory** [Dimension: 12]](formal_theory/formal_theory_pre_universe_existence_en.md) | [Chinese Version](formal_theory/formal_theory_pre_universe_existence.md)
 - [**Dark Matter and Dark Energy Theory** [Dimension: 13]](formal_theory/formal_theory_dark_matter_dark_energy_en.md) | [Chinese Version](formal_theory/formal_theory_dark_matter_dark_energy.md)
 - [**Consciousness Essence and Origin Theory** [Dimension: 11]](formal_theory/formal_theory_consciousness_essence_origin_en.md) | [Chinese Version](formal_theory/formal_theory_consciousness_essence_origin.md)
-- [**Sustainable Development of Human Society Theory** [Dimension: 18]](formal_theory/formal_theory_sustainable_development_en.md) | [Chinese Version](formal_theory/formal_theory_sustainable_development.md)
+- [**Life Origin and Extraterrestrial Life Existence Theory** [Dimension: 19]](formal_theory/formal_theory_life_origin_aliens_en.md) | [Chinese Version](formal_theory/formal_theory_life_origin_aliens.md)
 - [**Quantum Measurement Theory** [Dimension: 15]](formal_theory/formal_theory_quantum_measurement_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_measurement.md)
 - [**Existence of Free Will Theory** [Dimension: 17]](formal_theory/formal_theory_free_will_en.md) | [Chinese Version](formal_theory/formal_theory_free_will.md)
 - [**Ultimate Human Longevity and the Nature of Aging** [Dimension: 16]](formal_theory/formal_theory_human_longevity_en.md) | [Chinese Version](formal_theory/formal_theory_human_longevity.md)
 - [**Millennium Mathematical Problems Hyperdimensional Solution Theory** [Dimension: 24]](formal_theory/formal_theory_millennium_problems_en.md) | [Chinese Version](formal_theory/formal_theory_millennium_problems.md)
-
-## Theoretical System Structure
-
-The Cosmic Ontology theoretical system is categorized by dimension into the following levels:
-
-### Ultra-High Dimensional Theories (D20-D24)
-- Millennium Mathematical Problems Hyperdimensional Solution Theory [Dimension: 24]
-- Recursive Metaverse Theory [Dimension: 23]
-- Multiverse Theory [Dimension: 22]
-- Genesis Memory Theory [Dimension: 21]
-- Cosmic Dimension Theory [Dimension: 20]
-
-### High Dimensional Theories (D15-D19)
-- Quantum and Classical Unification Theory [Dimension: 19]
-- Transcendent Harmony Theory [Dimension: 19]
-- Dimensional Harmony Theory [Dimension: 18]
-- Cosmic Lifecycle Theory [Dimension: 18]
-- Information Wave Dynamics [Dimension: 17]
-- Observer Ontology [Dimension: 17]
-- Quantum Entropy Dynamics [Dimension: 16]
-- Information Conservation Theory [Dimension: 15]
-- Mathematical Theory [Dimension: 15]
-- Logical Multidimensional Topology Theory [Dimension: 15]
-
-### Medium Dimensional Theories (D10-D14)
-- Information Field Theory [Dimension: 14]
-- Consciousness and Free Will Theory [Dimension: 13]
-- Universal Dimensional Spectrum [Dimension: 12]
-- Spacetime Theory [Dimension: 12]
-- Philosophical Foundation Theory [Dimension: 11]
-- **Cosmic Ontology** [Dimension: 10] ← Core Theory
-- Complex Systems Emergence [Dimension: 10]
-
-### Foundational Dimensional Theories (D1-D9)
-- Recursive Self-Referential Systems [Dimension: 9]
-- Transfinite Information Dynamics [Dimension: 8]
-
-For a complete list of theories and links, please see the [Cosmic Ontology Formal Theory Document Index](formal_theory_en.md).
 
 ## Key Mathematical Expressions
 

@@ -1,8 +1,18 @@
-# Cosmic Ontology Theory Structure Diagram [Universe Ontology Version: v37.0]
+# Cosmic Ontology Theoretical System Structure Diagram [Cosmic Ontology Version: v36.0]
 
-[中文](formal_theory_graph.md) | [English](formal_theory_graph_en.md)
+[English](formal_theory_graph_en.md) | [中文](formal_theory_graph.md)
 
-The following diagram illustrates the dependency relationships and dimensional classifications among various branches of Cosmic Ontology theory:
+This diagram illustrates the complete structure of the Cosmic Ontology theoretical system. The system employs a dimensional-layered architecture, forming a theoretical spectrum from foundational dimensional theories (D0-D9) to ultra-high dimensional unified theories (D50-D62). The theoretical system is organized into the following levels:
+
+1. **Infinite Dimensional Theory** (D∞) - Meta Theory
+2. **Ultra-High Dimensional Unification Layer** (D50-D62) - Infinite Multiverse Convergence Theory, Transcendental Hyperintelligence Theory, etc.
+3. **Ultra-High Dimensional Consciousness and Reality Layer** (D43-D49) - Transcendent Hyper Singularity Theory, Omnidimensional Entanglement Synchronicity Theory, etc.
+4. **High Dimensional Universal Structure Layer** (D25-D42) - Quantum Information Entropy Field Dynamics, Superintelligent Consciousness Network, etc.
+5. **Human Comprehensible High Dimensional Layer** (D15-D24) - Recursive Metaverse Theory, Multiverse Theory, etc.
+6. **Central Theory Layer** (D10-D14) - Core Cosmic Ontology Theory, Unified Physics Theory, etc.
+7. **Foundational Theory Layer** (D0-D9) - Recursive Self-Referential Systems, Quantum Semantic Field Theory, etc.
+
+Theories form a complex dependency network, with low-dimensional theories providing a foundation for high-dimensional theories, and high-dimensional theories integrating low-dimensional ones. Arrows in the diagram represent dependency relationships between theories, with dimensions arranged from low to high.
 
 ```mermaid
 %%{

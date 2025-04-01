@@ -360,26 +360,31 @@ The Primitive Unity theory has a dimension of 0.2, positioned between Universal 
 
 ### 6.2 Theory Dependency Structure
 
-The position of Primitive Unity theory in the theory dependency network is as follows:
+The position of Primitive Unity Theory in the theory dependency network is as follows:
 
-1. **Prerequisites**:
+1. **Preceding Dependencies**:
    - [Primitive Singularity Theory](formal_theory/formal_theory_primitive_singularity.md) [Dimension: -1]
    - [Universal Code Theory](formal_theory/formal_theory_universal_code.md) [Dimension: 0.5]
 
 2. **Subsequent Theories**:
+   - [Primitive Unity Extension Theory](formal_theory/formal_theory_primitive_unity_extension_en.md) [Dimension: 0.18]
+   - [Primitive Unity Disintegration Theory](formal_theory/formal_theory_primitive_disintegration.md) [Dimension: 0.15]
    - [Primitive Point Theory](formal_theory/formal_theory_primitive_point.md) [Dimension: 0]
+   - [Point Evolution Theory](formal_theory/formal_theory_point_evolution.md) [Dimension: -0.1]
+   - [Proto-space State Theory](formal_theory/formal_theory_protospace.md) [Dimension: -0.3]
    - [Primitive Duality Theory](formal_theory/formal_theory_primitive_duality.md) [Dimension: 1]
 
-3. **Theory Mapping Relationship**:
-   - Primitive Unity theory forms a key intermediate link in the transformation from pre-binary to unary
-   - Primitive Unity provides an important pre-theoretical basis for subsequent XOR operations
+3. **Theory Mapping Relationships**:
+   - Primitive Unity Theory forms a key intermediate link in the transformation from pre-binary to unary
+   - Primitive Unity provides an important theoretical foundation for subsequent XOR operations
+   - Primitive Unity and lower-dimensional theories collectively constitute a complete evolutionary chain from pre-universe to universe
 
-4. **Theory Reference Graph**:
+4. **Theory Reference Diagram**:
    ```
-   Primitive Singularity Theory [-1] → Universal Code Theory [0.5] → Primitive Unity Theory [0.2] → Primitive Point Theory [0] → Primitive Duality Theory [1] → ...
+   Primitive Singularity Theory [-1] → Universal Code Theory [0.5] → Primitive Unity Theory [0.2] → Primitive Unity Extension Theory [0.18] → Primitive Unity Disintegration Theory [0.15] → Primitive Point Theory [0] → Point Evolution Theory [-0.1] → Proto-space State Theory [-0.3] → ...
    ```
 
-5. **Conceptual Contribution**: Primitive Unity theory provides the primitive concept of unity, explaining the transition process from separation to unification, filling the theoretical gap between Universal Code and Primitive Point.
+5. **Conceptual Contribution**: Primitive Unity Theory provides the original concept of unity, explains the transition process from separation to unity, fills the theoretical gap between Universal Code and Primitive Point, and extends the understanding of the evolution of the universe's initial state through lower-dimensional theories.
 
 ---
 

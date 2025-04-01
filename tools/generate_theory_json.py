@@ -10,7 +10,7 @@ import sys
 def extract_dimension_number(dimension):
     """从维度字符串中提取数字，用于排序"""
     if dimension == "无维度":
-        return -1
+        return -999
     
     # 移除所有空格
     dimension = dimension.replace(" ", "")
@@ -19,22 +19,22 @@ def extract_dimension_number(dimension):
     if "∞" in dimension:
         return float('inf')
     
-    # 提取纯数字部分
-    match = re.search(r'D(\d+)', dimension)
+    # 提取数字部分，支持负数
+    match = re.search(r'D([+-]?\d+)', dimension)
     if match:
         return int(match.group(1))
     
-    return -1
+    return -999
 
 def extract_dimension(content):
     """从文件内容中提取维度信息"""
-    # 支持更多格式的维度表示
+    # 支持更多格式的维度表示，包括负数
     dimension_patterns = [
-        r'[（\(]维度\s*[：:]\s*D\s*([0-9∞\+]+)[）\)]',  # (维度：D1) 或 (维度:D1) 或 (维度：D∞)
-        r'维度\s*[：:]\s*D\s*([0-9∞\+]+)',             # 维度：D1 或 维度:D1 或 维度：D∞
-        r'[（\(]D\s*([0-9∞\+]+)[）\)]',                # (D1) 或 (D∞)
-        r'\bD\s*([0-9∞\+]+)\s*维度',                   # D1维度 或 D∞维度
-        r'维度\s*[：:]\s*([0-9∞\+]+)',                 # 维度：1 或 维度:1
+        r'[（\(]维度\s*[：:]\s*D\s*([+-]?[0-9∞\+]+)[）\)]',  # (维度：D-1) 或 (维度：D1) 或 (维度:D1) 或 (维度：D∞)
+        r'维度\s*[：:]\s*D\s*([+-]?[0-9∞\+]+)',             # 维度：D-1 或 维度：D1 或 维度:D1 或 维度：D∞
+        r'[（\(]D\s*([+-]?[0-9∞\+]+)[）\)]',                # (D-1) 或 (D1) 或 (D∞)
+        r'\bD\s*([+-]?[0-9∞\+]+)\s*维度',                   # D-1维度 或 D1维度 或 D∞维度
+        r'维度\s*[：:]\s*([+-]?[0-9∞\+]+)',                 # 维度：-1 或 维度：1 或 维度:1
     ]
     
     for pattern in dimension_patterns:

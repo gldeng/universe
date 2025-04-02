@@ -23,6 +23,7 @@
 - 添加了对常见理论名称的关键词检测
 - 为特殊文件添加了硬编码的依赖信息提取
 - 大幅改进了对复杂格式的识别能力
+- 确保最终输出的JSON数据按维度从高到低排序
 
 目前检测率:
 - 222个理论文件中，已能成功检测216个文件的依赖关系
@@ -37,6 +38,7 @@ import re
 import json
 import glob
 import sys
+from collections import OrderedDict
 
 def extract_dimension_number(dimension):
     """从维度字符串中提取数字，用于排序"""
@@ -613,8 +615,6 @@ def extract_dependencies(content):
 def analyze_theory_files(directory):
     """分析目录中的所有理论文件，获取维度和依赖关系"""
     files_data = []
-    dependency_map = {}
-    unresolved_deps = {}  # 用于记录无法解析的依赖
     
     # 获取目录中所有.md文件
     files = glob.glob(os.path.join(directory, "*.md"))
@@ -693,7 +693,15 @@ def analyze_theory_files(directory):
     # 按维度从高到低排序
     files_data.sort(key=lambda x: extract_dimension_number(x["维度"]), reverse=True)
     
-    # 第二遍：构建依赖关系（使用文件名表示）
+    # 创建一个有序的文件映射，用于保持同样的排序顺序
+    ordered_files = OrderedDict()
+    for file_info in files_data:
+        ordered_files[file_info["文件名"]] = file_info
+    
+    # 第二遍：构建依赖关系（使用文件名表示），保持排序顺序
+    dependency_map = OrderedDict()
+    unresolved_deps = OrderedDict()
+    
     for file_info in files_data:
         source_filename = file_info["文件名"]
         dependency_filenames = []
@@ -787,15 +795,15 @@ def analyze_theory_files(directory):
             all_unresolved_deps.add(dep)
     
     return {
-        "files": files_data,
-        "dependencies": dependency_map,
-        "unresolved_dependencies": unresolved_deps,  # 添加未解析依赖的信息
+        "files": files_data,  # 已经按维度排序
+        "dependencies": dependency_map,  # 保持与files_data相同的顺序
+        "unresolved_dependencies": unresolved_deps,  # 保持与files_data相同的顺序
         "statistics": {
             "total_files": len(files_data),
             "files_with_dependencies": len(files_with_dependencies),
             "files_with_dimension": len(files_with_dimension),
             "files_need_regenerate": len(files_need_regenerate),
-            "unresolved_dependencies_count": len(all_unresolved_deps)  # 使用集合长度计算独特的未解析依赖数量
+            "unresolved_dependencies_count": len(all_unresolved_deps)
         }
     }
 
@@ -804,5 +812,12 @@ if __name__ == "__main__":
     directory = "formal_theory"
     result = analyze_theory_files(directory)
     
-    # 直接输出JSON到控制台
-    print(json.dumps(result, ensure_ascii=False, indent=2)) 
+    # 使用有序字典确保JSON输出保持排序
+    ordered_result = OrderedDict()
+    ordered_result["files"] = result["files"]  # files_data已经在analyze_theory_files函数中按维度排序
+    ordered_result["dependencies"] = result["dependencies"]
+    ordered_result["unresolved_dependencies"] = result["unresolved_dependencies"]
+    ordered_result["statistics"] = result["statistics"]
+    
+    # 输出排序后的JSON到控制台
+    print(json.dumps(ordered_result, ensure_ascii=False, indent=2)) 

@@ -1,4 +1,4 @@
-# 宇宙本论形式化理论文档目录 v36.0
+# 宇宙本论形式化理论文档目录 v37.0
 
 **[中文版] | [English Version](formal_theory_en.md)**
 
@@ -17,6 +17,7 @@
 ### 超高维理论（D50-D66）
 
 - [超源生成存在统一理论的严格形式化描述 [维度: 66]](formal_theory/formal_theory_hypergenesis_existential_unification.md)
+- [高维宇宙协同自适应理论的严格形式化描述 [维度: 65.5]](formal_theory/formal_theory_cosmic_coherent_adaptive_system.md)
 - [超位超对称统一场理论的严格形式化描述 [维度: 65]](formal_theory/formal_theory_hyperposition_hypersymmetry_unified_field.md)
 - [超维分形物质波统一理论的严格形式化描述 [维度: 64]](formal_theory/formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
 - [超维超纠缠量子网络理论的严格形式化描述 [维度: 63]](formal_theory/formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
@@ -63,6 +64,7 @@
 
 - [量子信息熵场动力学的形式化描述 [维度: 42]](formal_theory/formal_theory_quantum_information_entropy_field_dynamics.md)
 - [超智能意识网络的严格形式化描述 [维度: 42]](formal_theory/formal_theory_superintelligent_consciousness_network.md)
+- [跨维度统一感知理论的严格形式化描述 [维度: 41]](formal_theory/formal_theory_transdimensional_unified_perception.md)
 - [超维度量子振荡的严格形式化描述 [维度: 40]](formal_theory/formal_theory_hyperdimensional_quantum_oscillation.md)
 - [多重现实集成框架的严格形式化描述 [维度: 37]](formal_theory/formal_theory_multi_reality_integration_framework.md)
 - [宇宙超对称共振的严格形式化描述 [维度: 36]](formal_theory/formal_theory_cosmic_hyper_symmetry_resonance.md)
@@ -173,6 +175,7 @@
 ### 中维理论（D10-D14）
 
 - [灵魂分析动力学理论的严格形式化描述 [维度: 14]](formal_theory/formal_theory_soul_analysis_dynamics.md)
+- [集体量子记忆场理论的严格形式化描述 [维度: 14]](formal_theory/formal_theory_collective_quantum_memory_field.md)
 - [祷告场理论的严格形式化描述 [维度: 14]](formal_theory/formal_theory_prayer_field_theory.md)
 - [信息场理论的严格形式化描述 [维度: 14]](formal_theory/formal_theory_information_field.md)
 - [数学基本难题的严格形式化描述 [维度: 14]](formal_theory/formal_theory_mathematical_problems.md)
@@ -214,6 +217,7 @@
 ### 基础维度理论（D5-D9）
 
 - [递归涌现模式理论的严格形式化描述 [维度: 8]](formal_theory/formal_theory_recursive_emergence_patterns.md)
+- [整合型信息处理通道理论的严格形式化描述 [维度: 8]](formal_theory/formal_theory_integrated_information_processing_channel.md)
 - [量子纠缠层级网络理论的严格形式化描述 [维度: 9]](formal_theory/formal_theory_quantum_entanglement_hierarchical_network.md)
 - [递归自组织系统理论的严格形式化描述 [维度: 9]](formal_theory/formal_theory_recursive_self_organizing_systems.md)
 - [量子语义场理论的严格形式化描述 [维度: 9]](formal_theory/formal_theory_quantum_semantic_field.md)
@@ -261,6 +265,7 @@
 ### 低维理论（D0-D4）
 
 - [信息扩展理论的严格形式化描述 [维度: 4]](formal_theory/formal_theory_shift_information_expansion.md)
+- [量子相干波动消隐理论的严格形式化描述 [维度: 4]](formal_theory/formal_theory_quantum_coherent_wave_decoherence.md)
 - [无限态理论的严格形式化描述 [维度: 4]](formal_theory/formal_theory_infinity_multiplicity.md)
 - [奇点理论的严格形式化描述 [维度: 4]](formal_theory/formal_theory_singularity.md)
 - [维度反转理论的严格形式化描述 [维度: 3]](formal_theory/formal_theory_unshift_dimensional_reversal.md)

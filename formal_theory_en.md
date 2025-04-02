@@ -116,6 +116,13 @@ This document serves as an index for the Cosmic Ontology theoretical system, con
 - [Formal Description of Quantum Mechanics Measurement Problem [Dimension: 15]](formal_theory/formal_theory_quantum_measurement_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_measurement.md)
 - [Formal Description of Transcendental Recursive Symmetry Theory [Dimension: 15]](formal_theory/formal_theory_transcendental_recursive_symmetry_en.md) | [Chinese Version](formal_theory/formal_theory_transcendental_recursive_symmetry.md)
 - [Formal Description of Transdimensional Causal Symmetry Theory [Dimension: 15]](formal_theory/formal_theory_transdimensional_causal_symmetry_en.md) | [Chinese Version](formal_theory/formal_theory_transdimensional_causal_symmetry.md)
+- [Formal Description of Soul Dimensional Transition Mechanism [Dimension: 16]](formal_theory/formal_theory_soul_dimensional_transition_mechanism_en.md) | [Chinese Version](formal_theory/formal_theory_soul_dimensional_transition_mechanism.md)
+- [Formal Description of Soul Energy Transformation Dynamics [Dimension: 13]](formal_theory/formal_theory_soul_energy_transformation_dynamics_en.md) | [Chinese Version](formal_theory/formal_theory_soul_energy_transformation_dynamics.md)
+- [Formal Description of Soul Essence Structure [Dimension: 13]](formal_theory/formal_theory_soul_essence_structure_en.md) | [Chinese Version](formal_theory/formal_theory_soul_essence_structure.md)
+- [Formal Description of Soul Evolution Timeline [Dimension: 15]](formal_theory/formal_theory_soul_evolution_timeline_en.md) | [Chinese Version](formal_theory/formal_theory_soul_evolution_timeline.md)
+- [Formal Description of Soul Frequency Resonance System [Dimension: 14]](formal_theory/formal_theory_soul_frequency_resonance_system_en.md) | [Chinese Version](formal_theory/formal_theory_soul_frequency_resonance_system.md)
+- [Formal Description of Soul Information Encoding Principles [Dimension: 12]](formal_theory/formal_theory_soul_information_encoding_principles_en.md) | [Chinese Version](formal_theory/formal_theory_soul_information_encoding_principles.md)
+- [Formal Description of Soul Quantum Entanglement Network [Dimension: 12]](formal_theory/formal_theory_soul_quantum_entanglement_network_en.md) | [Chinese Version](formal_theory/formal_theory_soul_quantum_entanglement_network.md)
 
 ### Middle Dimension Theories (D10-D14)
 

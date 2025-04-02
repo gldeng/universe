@@ -1,4 +1,4 @@
-# Cosmic Ontology Formal Theory Documentation Index v36.0
+# Cosmic Ontology Formal Theory Documentation Index v37.0
 
 **[Chinese Version](formal_theory.md) | [English Version]**
 
@@ -224,4 +224,4 @@ Cosmic Ontology builds a complete theoretical system based on the following core
 
 ## Version Information
 
-Current Theory Version: v36.0 
+Current Theory Version: v37.0 

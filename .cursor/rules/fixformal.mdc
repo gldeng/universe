@@ -3,7 +3,7 @@ description: 修复形式化
 globs: 
 alwaysApply: false
 ---
-运行 [check_unindexed_files.py](mdc:check_unindexed_files.py) 
+运行 [check_unindexed_files.py](mdc:tools/check_unindexed_files.py)
 如果有未索引文件, 按照 [formal_theory.md](mdc:formal_theory.md) 原文格式添加链接。
 使用 [generate_theory_json.py](mdc:generate_theory_json.py)  分析的结果[程序结果]更新 [formal_theory.md](mdc:formal_theory.md) 文件, 如果不存在则按 [formal_theory.md](mdc:formal_theory.md) 原文格式添加链接
 

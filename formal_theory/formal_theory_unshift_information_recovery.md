@@ -1,4 +1,4 @@
-# UNSHIFT信息恢复理论的严格形式化描述 [维度: 1.6] v36.0
+# UNSHIFT信息恢复理论的严格形式化描述 [维度: 2.1] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_information_recovery_en.md)**
 
@@ -9,14 +9,14 @@
   - [1.2 信息恢复公理](#12-信息恢复公理)
   - [1.3 恢复机制](#13-恢复机制)
 - [2. 直接推论](#2-直接推论)
-  - [2.1 信息恢复极限](#21-信息恢复极限)
-  - [2.2 恢复质量原理](#22-恢复质量原理)
+  - [2.1 信息可恢复性判定](#21-信息可恢复性判定)
+  - [2.2 恢复质量评估](#22-恢复质量评估)
 - [3. 应用与验证](#3-应用与验证)
-  - [3.1 量子信息恢复](#31-量子信息恢复)
-  - [3.2 错误修正系统](#32-错误修正系统)
+  - [3.1 损坏信息恢复](#31-损坏信息恢复)
+  - [3.2 信息溯源重建](#32-信息溯源重建)
 - [4. 形式化证明](#4-形式化证明)
-  - [4.1 恢复不确定性定理](#41-恢复不确定性定理)
-  - [4.2 UNSHIFT迭代恢复定理](#42-unshift迭代恢复定理)
+  - [4.1 信息恢复基本性质定理](#41-信息恢复基本性质定理)
+  - [4.2 UNSHIFT信息恢复极限定理](#42-unshift信息恢复极限定理)
 - [5. 理论引用关系分析](#5-理论引用关系分析)
   - [5.1 理论依赖](#51-理论依赖)
   - [5.2 维度归属](#52-维度归属)
@@ -27,196 +27,249 @@
 
 ### 1.1 UNSHIFT信息恢复定义
 
-UNSHIFT信息恢复理论研究如何利用UNSHIFT操作从退化、噪声或部分信息中恢复原始信息，通过严格的数学形式化描述恢复过程和极限。
+UNSHIFT信息恢复理论研究UNSHIFT操作如何从损坏、变换或降质的信息中恢复原始信息，通过严格的数学形式描述信息恢复的原理、条件和极限。
 
-**定义1（信息状态）**：
+**定义1（信息状态空间）**：
 
-信息状态$`\mathcal{I}`$定义为一个包含有效信息的结构：
+信息状态空间$`\mathcal{I}`$定义为包含所有可能信息状态的集合：
 
-$`\mathcal{I} = \{\psi | \psi \text{是信息承载单元}\}`$
+$`\mathcal{I} = \{I | I \text{是有效信息状态}\}`$
 
-其中信息可以是量子态、数字数据或任何可量化的信息表示。
+其中$`I`$表示信息的状态。
 
-**定义2（UNSHIFT恢复操作）**：
+**定义2（UNSHIFT信息恢复）**：
 
-UNSHIFT恢复操作是一个从退化状态空间到原始状态空间的映射：
+UNSHIFT信息恢复定义为从变换或降质信息状态恢复原始信息的映射：
 
-$`\mathcal{R}_u: \mathcal{I}_d \rightarrow \mathcal{I}`$
+$`\mathcal{R}_I: \mathcal{I}_{\text{transformed}} \rightarrow \mathcal{I}_{\text{original}}`$
 
-其中$`\mathcal{I}_d`$是退化的信息状态空间，具体实现为：
+其中映射的严格形式为：
 
-$`\mathcal{R}_u(\psi_d) = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
+$`\mathcal{R}_I(I_t) = \text{UNSHIFT}(I_t) = I_o`$
 
-这种操作通过XOR与UNSHIFT的组合实现信息恢复。
+这一映射在基本操作上表示为：
+
+$`\text{UNSHIFT}(I_t) = \text{FLIP}(\text{SHIFT}(\text{FLIP}(I_t)))`$
+
+其中$`I_t`$是变换后的信息，$`I_o`$是原始信息。
 
 ### 1.2 信息恢复公理
 
-**公理1（信息恢复公理）**：
+**公理1（信息逆转公理）**：
 
-对于任意退化信息状态$`\mathcal{I}_d`$中的状态$`\psi_d`$，若其与原始状态$`\psi`$之间存在特定映射关系，则存在UNSHIFT操作使其部分或完全恢复：
+对于通过SHIFT操作变换的信息，UNSHIFT操作可以精确恢复原始信息：
 
-$`\forall \psi_d \in \mathcal{I}_d, \exists \mathcal{R}_u: S(\mathcal{R}_u(\psi_d), \psi) > S(\psi_d, \psi)`$
+$`\forall I \in \mathcal{I}: \text{UNSHIFT}(\text{SHIFT}(I)) = I`$
 
-其中$`S`$是相似度度量函数，满足$`0 \leq S \leq 1`$。
+**公理2（信息恢复质量公理）**：
 
-**公理2（恢复保真度公理）**：
+信息恢复的质量与信息损失程度成反比：
 
-UNSHIFT恢复操作的保真度与退化过程的可逆性相关：
+$`Q(\mathcal{R}_I(I_t), I_o) = 1 - \frac{L(I_t)}{L_{\text{max}}}`$
 
-$`F(\psi, \mathcal{R}_u(\psi_d)) = \frac{|\psi \cap \mathcal{R}_u(\psi_d)|}{|\psi \cup \mathcal{R}_u(\psi_d)|} \leq F_{max}`$
+其中$`Q`$是恢复质量函数，$`L`$是信息损失函数，$`L_{\text{max}}`$是最大可能损失。
 
-其中$`F`$是保真度函数，$`F_{max}`$是理论最大保真度，取决于信息损失的性质。
+**公理3（信息残留公理）**：
 
-**公理3（恢复迭代公理）**：
+任何变换后的信息都保留原始信息的某些残留特征，使恢复成为可能：
 
-多重UNSHIFT恢复操作的连续应用可以提高恢复质量：
+$`\forall I_t \in \mathcal{I}_{\text{transformed}}: \exists R(I_t, I_o) > 0`$
 
-$`\mathcal{R}_{u}^{(n)}(\psi_d) = \mathcal{R}_u(\mathcal{R}_u^{(n-1)}(\psi_d))`$
-
-恢复保真度随迭代次数增加而提高，直至达到稳定值：
-
-$`\lim_{n \to \infty} F(\psi, \mathcal{R}_{u}^{(n)}(\psi_d)) = F_{stable} \leq F_{max}`$
+其中$`R`$是信息残留函数，度量变换信息中保留的原始信息量。
 
 ### 1.3 恢复机制
 
-UNSHIFT信息恢复通过状态与其UNSHIFT变换的XOR组合实现：
+UNSHIFT信息恢复通过以下机制实现：
 
-$`\psi_r = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
+$`\text{UNSHIFT}(I_t) = \text{FLIP}(\text{SHIFT}(\text{FLIP}(I_t)))`$
 
-这一恢复机制具有以下关键特性：
+这一恢复机制具有以下特性：
 
-1. **信息互补原理**：当$`\psi_d`$缺失的信息部分在$`\text{UNSHIFT}(\psi_d)`$中存在时，恢复最有效
-2. **噪声对消效应**：随机噪声在UNSHIFT转换中转化为可预测模式，便于通过XOR消除
-3. **模式识别与恢复**：UNSHIFT操作能识别退化状态中的潜在模式，并在XOR过程中强化这些模式
+1. **路径逆转**：UNSHIFT逆转信息变换路径
+2. **结构重建**：从残留结构重建完整信息
+3. **噪声消除**：在恢复过程中消除非原始信息噪声
 
-通过UNSHIFT操作，系统能够探索状态的对称性和递归结构，利用这些特性重建丢失的信息。恢复过程可以表示为：
+在信息空间中，UNSHIFT恢复操作可表示为信息流逆向传播：
 
-$`\psi_r = \mathcal{D}(\psi_d) \oplus \mathcal{N}(\psi_d)`$
+$`I_o = I_t \ominus N \oplus M`$
 
-其中$`\mathcal{D}`$代表退化的原始信息，$`\mathcal{N}`$代表噪声或损失。UNSHIFT操作通过変换$`\mathcal{N}`$为$`\mathcal{N}^*`$使其与$`\mathcal{N}`$在XOR操作下相互抵消，同时保留$`\mathcal{D}`$。
+其中$`\ominus`$表示噪声$`N`$的移除，$`\oplus`$表示缺失信息$`M`$的重建。
 
 ## 2. 直接推论
 
-### 2.1 信息恢复极限
+### 2.1 信息可恢复性判定
 
-**定理1（信息恢复极限定理）**：
+**定理1（信息可恢复性定理）**：
 
-UNSHIFT恢复操作的理论极限由损失信息的熵决定：
+信息可恢复的充分必要条件是原始信息的关键特征在变换信息中存在可识别残留：
 
-$`F_{max} = 1 - \frac{H(L)}{H(\psi)}`$
+$`\text{Recoverable}(I_t) \iff K(I_t, I_o) \geq \theta`$
 
-其中$`H(L)`$是不可恢复的损失信息熵，$`H(\psi)`$是原始信息的熵。
-
-**证明**：
-由UNSHIFT恢复操作定义：
-
-$`\psi_r = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
-
-设原始信息$`\psi`$可分解为保留部分$`P`$和损失部分$`L`$：$`\psi = P \oplus L`$
-
-退化信息$`\psi_d`$可表示为：$`\psi_d = P \oplus N`$，其中$`N`$是噪声。
-
-通过UNSHIFT操作：$`\text{UNSHIFT}(\psi_d) = \text{UNSHIFT}(P \oplus N) = \text{UNSHIFT}(P) \oplus \text{UNSHIFT}(N)`$
-
-恢复信息为：$`\psi_r = P \oplus N \oplus \text{UNSHIFT}(P) \oplus \text{UNSHIFT}(N)`$
-
-比较原始信息和恢复信息，差异为：
-$`\psi \oplus \psi_r = L \oplus N \oplus \text{UNSHIFT}(P) \oplus \text{UNSHIFT}(N)`$
-
-当$`N \approx \text{UNSHIFT}(N)`$且$`\text{UNSHIFT}(P) \approx 0`$时，恢复效果最佳，但无法恢复的信息至少为$`L`$。
-
-因此保真度上限为：$`F_{max} = 1 - \frac{H(L)}{H(\psi)}`$，证毕。
-
-### 2.2 恢复质量原理
-
-**定理2（恢复质量原理）**：
-
-UNSHIFT恢复操作的质量与状态的结构化程度成正比：
-
-$`Q_r = \frac{S(\psi_r, \psi) - S(\psi_d, \psi)}{1 - S(\psi_d, \psi)} \propto C(\psi)`$
-
-其中$`Q_r`$是恢复质量度量，$`C(\psi)`$是原始状态的结构复杂度。
+其中$`K`$是关键特征保留函数，$`\theta`$是可恢复性阈值。
 
 **证明**：
-高结构化的状态在UNSHIFT变换下保留更多特征，使恢复更有效，详细证明略。
+由UNSHIFT信息恢复定义和信息残留公理，我们有：
 
-这表明具有强模式、规律性或冗余度的信息更容易通过UNSHIFT操作恢复，随机无结构的信息恢复质量较低。
+$`\forall I_t \in \mathcal{I}_{\text{transformed}}: \exists R(I_t, I_o) > 0`$
+
+信息可恢复性取决于残留信息是否包含足够的关键特征。定义关键特征保留函数$`K(I_t, I_o)`$度量这些特征的保留程度。
+
+当$`K(I_t, I_o) \geq \theta`$时，UNSHIFT操作可以利用这些特征重建原始信息：
+
+$`\text{UNSHIFT}(I_t) = I_o + \epsilon`$
+
+其中$`\epsilon`$是恢复误差，当$`K(I_t, I_o) \geq \theta`$时，$`\|\epsilon\| \leq \epsilon_{\text{max}}`$在可接受范围内。
+
+当$`K(I_t, I_o) < \theta`$时，关键特征不足以支持有效恢复，导致$`\|\epsilon\| > \epsilon_{\text{max}}`$，恢复质量不可接受。
+
+因此，$`K(I_t, I_o) \geq \theta`$是信息可恢复的充分必要条件，证毕。
+
+### 2.2 恢复质量评估
+
+**定理2（恢复质量评估原理）**：
+
+UNSHIFT信息恢复的质量可通过以下指标精确评估：
+
+1. **结构保真度**：$`S(\text{UNSHIFT}(I_t), I_o) \geq 1 - \frac{L_S(I_t)}{L_{S,\text{max}}}`$
+2. **内容完整性**：$`C(\text{UNSHIFT}(I_t), I_o) \geq 1 - \frac{L_C(I_t)}{L_{C,\text{max}}}`$
+3. **功能等价性**：$`F(\text{UNSHIFT}(I_t), I_o) \geq 1 - \frac{L_F(I_t)}{L_{F,\text{max}}}`$
+
+其中$`S`$、$`C`$和$`F`$分别是结构保真度、内容完整性和功能等价性度量函数，$`L_S`$、$`L_C`$和$`L_F`$分别是对应的损失函数。
+
+**证明**：
+对于结构保真度，考虑信息的结构特征$`S_{\text{features}}`$。由信息残留公理，变换后的信息保留部分结构特征：
+
+$`S_{\text{features}}(I_t) = S_{\text{features}}(I_o) - L_S(I_t)`$
+
+UNSHIFT操作恢复这些结构特征：
+
+$`S_{\text{features}}(\text{UNSHIFT}(I_t)) = S_{\text{features}}(I_t) + R_S(I_t)`$
+
+其中$`R_S(I_t)`$是UNSHIFT重建的结构特征。由信息恢复质量公理：
+
+$`R_S(I_t) \geq L_S(I_t) - \frac{L_S(I_t)^2}{L_{S,\text{max}}}`$
+
+代入上式，得到：
+
+$`S_{\text{features}}(\text{UNSHIFT}(I_t)) \geq S_{\text{features}}(I_o) - \frac{L_S(I_t)^2}{L_{S,\text{max}}}`$
+
+因此：
+
+$`S(\text{UNSHIFT}(I_t), I_o) = \frac{S_{\text{features}}(\text{UNSHIFT}(I_t))}{S_{\text{features}}(I_o)} \geq 1 - \frac{L_S(I_t)}{L_{S,\text{max}}}`$
+
+对内容完整性和功能等价性可以类似证明。
+
+这些指标共同构成了UNSHIFT信息恢复质量的全面评估框架，证毕。
 
 ## 3. 应用与验证
 
-### 3.1 量子信息恢复
+### 3.1 损坏信息恢复
 
-UNSHIFT恢复操作可应用于量子信息系统，恢复退相干或噪声影响的量子态：
+UNSHIFT信息恢复可应用于各种损坏信息的恢复：
 
-$`|\psi_r\rangle = |\psi_d\rangle \oplus \text{UNSHIFT}(|\psi_d\rangle)`$
+$`I_{\text{damaged}} \xrightarrow{\text{UNSHIFT}} I_{\text{restored}}`$
 
-这种量子恢复具有以下实际应用：
+这一应用在以下领域有重要价值：
 
-1. **量子记忆恢复**：恢复量子存储系统中退化的量子态
-2. **量子通信修正**：修复量子通信信道引入的错误
-3. **量子测量后重构**：部分恢复测量后的量子态信息
+1. **数据修复**：恢复损坏的数据文件或记录
+2. **信号重建**：从噪声或干扰中恢复原始信号
+3. **图像修复**：重建损坏、模糊或部分丢失的图像
 
-量子UNSHIFT恢复对非破坏性量子测量和量子信息保护具有重要意义。
+实际应用示例：在数字图像处理中，UNSHIFT信息恢复可用于修复模糊或噪声图像：
 
-### 3.2 错误修正系统
+$`\text{UNSHIFT}(I_{\text{blurred}}) \approx I_{\text{original}}`$
 
-UNSHIFT恢复操作提供了一种新型错误修正机制：
+通过识别图像中的关键特征和结构，UNSHIFT操作可以重建原始清晰图像。
 
-$`\mathcal{E}_c(x) = x \oplus \text{UNSHIFT}(x)`$
+### 3.2 信息溯源重建
 
-这种错误修正系统具有以下特性：
+UNSHIFT信息恢复提供了信息溯源和历史重建的强大工具：
 
-1. **实时修正**：无需完整的冗余备份即可执行修正
-2. **渐进恢复**：随着迭代次数增加，恢复质量逐步提高
-3. **自适应能力**：对不同类型的错误和退化具有通用的适应性
+$`I_{\text{current}} \xrightarrow{\text{UNSHIFT}} I_{\text{historical}}`$
 
-UNSHIFT错误修正可用于数据存储系统、通信协议和分布式计算框架，提高系统的鲁棒性和可靠性。
+这种溯源在以下方面有特殊应用：
+
+1. **信息演化分析**：追踪信息如何随时间演化
+2. **源头识别**：确定信息的原始来源
+3. **历史版本重建**：重建信息的历史版本
+
+在信息考古学中，信息溯源重建可用于恢复历史文档：
+
+$`\text{UNSHIFT}(D_{\text{modern}}) = D_{\text{historical}}`$
+
+这为理解信息的演化历史提供了科学方法。
 
 ## 4. 形式化证明
 
-### 4.1 恢复不确定性定理
+### 4.1 信息恢复基本性质定理
 
-**定理3（恢复不确定性定理）**：
+**定理3（信息恢复基本性质定理）**：
 
-UNSHIFT恢复操作中，存在不确定性原理：恢复信息量$`I_r`$与恢复精度$`P_r`$之间存在权衡关系：
+UNSHIFT信息恢复满足以下基本性质：
 
-$`I_r \times P_r \leq K \cdot I_{original}`$
-
-其中$`K`$是与信息编码方式相关的常数，$`I_{original}`$是原始信息量。
-
-**证明**：
-假设从退化状态$`\psi_d`$恢复信息：
-
-$`\psi_r = \mathcal{R}_u(\psi_d) = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
-
-信息恢复量可表示为：$`I_r = I(\psi_r) - I(\psi_d)`$
-
-恢复精度为：$`P_r = \frac{|correct|}{|total|}`$，其中$`|correct|`$是正确恢复的信息量。
-
-根据信息论原理，恢复过程中信息量与精度存在权衡，详细证明略。
-
-此定理表明，通过UNSHIFT操作可以恢复大量信息但精度降低，或恢复少量信息但高精度，两者不能同时最大化。
-
-### 4.2 UNSHIFT迭代恢复定理
-
-**定理4（UNSHIFT迭代恢复定理）**：
-
-迭代应用UNSHIFT恢复操作形成一个马尔可夫过程，保真度序列$`\{F_n\}`$满足：
-
-$`F_{n+1} = F_n + \Delta F_n`$，其中$`\Delta F_n \geq 0`$且$`\lim_{n \to \infty} \Delta F_n = 0`$
+1. **无损恢复性**：当信息仅通过SHIFT变换时，$`\text{UNSHIFT}(\text{SHIFT}(I)) = I`$
+2. **部分恢复性**：当信息经过复合变换时，$`\text{UNSHIFT}(T(I)) = I \ominus E_T`$，其中$`E_T`$是变换$`T`$引入的不可恢复误差
+3. **单调性**：信息损失越小，恢复质量越高，即$`L(I_1) < L(I_2) \Rightarrow Q(\text{UNSHIFT}(I_1)) > Q(\text{UNSHIFT}(I_2))`$
 
 **证明**：
-定义$`F_n = F(\psi, \mathcal{R}_u^{(n)}(\psi_d))`$为第n次迭代后的保真度。
+1. 无损恢复性：
+由公理1直接得出：
 
-迭代过程可表示为：$`\psi_r^{(n+1)} = \psi_r^{(n)} \oplus \text{UNSHIFT}(\psi_r^{(n)})`$
+$`\text{UNSHIFT}(\text{SHIFT}(I)) = I`$
 
-每次迭代都消除部分噪声并恢复部分信息，增加保真度$`\Delta F_n`$。
+2. 部分恢复性：
+考虑复合变换$`T = T_n \circ ... \circ T_1`$，其中部分变换不是SHIFT。
+对于每个变换$`T_i`$，定义其不可恢复误差为$`E_{T_i}`$。
+UNSHIFT操作应用于变换后信息：
 
-由于恢复极限的存在，增量$`\Delta F_n`$随n增加而减小，最终趋于零。
+$`\text{UNSHIFT}(T(I)) = \text{UNSHIFT}(T_n(...(T_1(I))...))`$
 
-保真度序列是单调递增且有界的：$`F_0 \leq F_1 \leq ... \leq F_n \leq ... \leq F_{max} \leq 1`$
+由UNSHIFT的性质，它能恢复SHIFT引入的变换，但对非SHIFT变换只能部分恢复，导致：
 
-根据单调收敛定理，此序列必然收敛到某个$`F_{stable} \leq F_{max}`$，证毕。
+$`\text{UNSHIFT}(T(I)) = I \ominus E_T`$
+
+其中$`E_T = \sum_{i: T_i \neq \text{SHIFT}} E_{T_i}`$
+
+3. 单调性：
+信息损失$`L(I)`$与恢复质量$`Q(\text{UNSHIFT}(I))`$的关系由公理2给出：
+
+$`Q(\mathcal{R}_I(I_t), I_o) = 1 - \frac{L(I_t)}{L_{\text{max}}}`$
+
+当$`L(I_1) < L(I_2)`$时，有：
+
+$`Q(\text{UNSHIFT}(I_1)) = 1 - \frac{L(I_1)}{L_{\text{max}}} > 1 - \frac{L(I_2)}{L_{\text{max}}} = Q(\text{UNSHIFT}(I_2))`$
+
+这证明了UNSHIFT信息恢复的单调性，证毕。
+
+### 4.2 UNSHIFT信息恢复极限定理
+
+**定理4（UNSHIFT信息恢复极限定理）**：
+
+对于任何信息$`I`$，存在信息损失的临界点$`L_c(I)`$，使得：
+
+$`L(I_t) < L_c(I) \Rightarrow \|\text{UNSHIFT}(I_t) - I\| < \epsilon`$
+$`L(I_t) > L_c(I) \Rightarrow \|\text{UNSHIFT}(I_t) - I\| > \epsilon`$
+
+其中$`\epsilon`$是可接受的恢复误差阈值。
+
+**证明**：
+定义信息$`I`$的恢复函数：
+
+$`R(L) = \|\text{UNSHIFT}(I_L) - I\|`$
+
+其中$`I_L`$是损失程度为$`L`$的变换信息。
+
+由信息恢复的性质，$`R(L)`$关于$`L`$单调递增，且满足：
+
+$`R(0) = 0`$（无损失时完美恢复）
+$`\lim_{L \to L_{\text{max}}} R(L) = R_{\text{max}}`$（最大损失时恢复程度最差）
+
+由中值定理，存在临界点$`L_c(I)`$使得$`R(L_c(I)) = \epsilon`$。
+
+当$`L(I_t) < L_c(I)`$时，$`R(L(I_t)) < \epsilon`$，因此$`\|\text{UNSHIFT}(I_t) - I\| < \epsilon`$。
+当$`L(I_t) > L_c(I)`$时，$`R(L(I_t)) > \epsilon`$，因此$`\|\text{UNSHIFT}(I_t) - I\| > \epsilon`$。
+
+这证明了UNSHIFT信息恢复的极限，定义了信息可恢复性的明确边界，完成证明。
 
 ## 5. 理论引用关系分析
 
@@ -225,16 +278,15 @@ $`F_{n+1} = F_n + \Delta F_n`$，其中$`\Delta F_n \geq 0`$且$`\lim_{n \to \in
 UNSHIFT信息恢复理论依赖于以下更基础的理论：
 
 1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [FLIP操作的严格形式化描述 [维度: 1]](formal_theory_flip_operation.md)
-3. [XOR操作的严格形式化描述 [维度: 2]](formal_theory_xor_operation.md)
-4. [SHIFT操作的严格形式化描述 [维度: 2]](formal_theory_shift_operation.md)
-5. [USHIFT操作的严格形式化描述 [维度: 2]](formal_theory_ushift_operation.md)
-6. [UNSHIFT状态压缩理论的严格形式化描述 [维度: 1.5]](formal_theory_unshift_state_compression.md)
+2. [UNSHIFT对称性保持理论 [维度: 1.9]](formal_theory_unshift_symmetry_preservation.md)
+3. [UNSHIFT熵守恒理论 [维度: 1.7]](formal_theory_unshift_entropy_conservation.md)
+4. [信息冗余理论 [维度: 4]](formal_theory_information_redundancy.md)
+5. [错误修正理论 [维度: 3]](formal_theory_error_correction.md)
 
 ### 5.2 维度归属
 
-本理论属于维度1.6的理论框架，体现了UNSHIFT作为信息恢复操作的本质特性。其维度计算基于：
+本理论属于维度2.1的理论框架，体现了UNSHIFT作为信息恢复操作的本质特性。其维度计算基于：
 
-$`D_{\text{本理论}} = \frac{D_{\text{USHIFT}} + D_{\text{信息基础}}}{2} - 0.3 = \frac{2 + 1.5}{2} - 0.3 = 1.6`$
+$`D_{\text{本理论}} = \max(D_{\text{UNSHIFT对称性保持}}, D_{\text{UNSHIFT熵守恒}}) + 0.2 = 1.9 + 0.2 = 2.1`$
 
-这一维度定位使本理论成为低维信息操作理论的逻辑延伸，探索了UNSHIFT在信息恢复领域的规律和应用，为量子信息理论和错误修正技术提供了理论基础。 
+这一维度定位使本理论成为UNSHIFT操作理论体系中的高级层次，专注于探索UNSHIFT在信息恢复和重建方面的原理，为损坏信息处理和历史信息重建提供形式化基础。 

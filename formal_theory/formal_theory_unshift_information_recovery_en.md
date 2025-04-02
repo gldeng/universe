@@ -1,22 +1,22 @@
-# Strict Formalization of UNSHIFT Information Recovery Theory [Dimension: 1.6] v36.0
+# Strict Formalization of UNSHIFT Information Recovery Theory [Dimension: 2.1] v36.0
 
-**[Chinese Version](formal_theory_unshift_information_recovery.md) | [English Version]**
+**[English Version] | [中文版](formal_theory_unshift_information_recovery.md)**
 
-## Contents
+## Table of Contents
 
 - [1. Core Theory](#1-core-theory)
   - [1.1 UNSHIFT Information Recovery Definition](#11-unshift-information-recovery-definition)
   - [1.2 Information Recovery Axioms](#12-information-recovery-axioms)
   - [1.3 Recovery Mechanism](#13-recovery-mechanism)
 - [2. Direct Inferences](#2-direct-inferences)
-  - [2.1 Information Recovery Limits](#21-information-recovery-limits)
-  - [2.2 Recovery Quality Principle](#22-recovery-quality-principle)
-- [3. Applications and Validation](#3-applications-and-validation)
-  - [3.1 Quantum Information Recovery](#31-quantum-information-recovery)
-  - [3.2 Error Correction Systems](#32-error-correction-systems)
-- [4. Formalized Proofs](#4-formalized-proofs)
-  - [4.1 Recovery Uncertainty Theorem](#41-recovery-uncertainty-theorem)
-  - [4.2 UNSHIFT Iterative Recovery Theorem](#42-unshift-iterative-recovery-theorem)
+  - [2.1 Information Recoverability Determination](#21-information-recoverability-determination)
+  - [2.2 Recovery Quality Assessment](#22-recovery-quality-assessment)
+- [3. Applications and Verification](#3-applications-and-verification)
+  - [3.1 Damaged Information Recovery](#31-damaged-information-recovery)
+  - [3.2 Information Source Reconstruction](#32-information-source-reconstruction)
+- [4. Formal Proofs](#4-formal-proofs)
+  - [4.1 Basic Properties Theorem of Information Recovery](#41-basic-properties-theorem-of-information-recovery)
+  - [4.2 UNSHIFT Information Recovery Limit Theorem](#42-unshift-information-recovery-limit-theorem)
 - [5. Theory Reference Relationship Analysis](#5-theory-reference-relationship-analysis)
   - [5.1 Theory Dependencies](#51-theory-dependencies)
   - [5.2 Dimensional Attribution](#52-dimensional-attribution)
@@ -27,196 +27,249 @@
 
 ### 1.1 UNSHIFT Information Recovery Definition
 
-UNSHIFT Information Recovery Theory studies how to utilize the UNSHIFT operation to recover original information from degraded, noisy, or partial information, describing the recovery process and its limits through strict mathematical formalization.
+UNSHIFT Information Recovery Theory studies how the UNSHIFT operation recovers original information from damaged, transformed, or degraded information, describing the principles, conditions, and limits of information recovery through rigorous mathematical formalization.
 
-**Definition 1 (Information State)**:
+**Definition 1 (Information State Space)**:
 
-Information state $`\mathcal{I}`$ is defined as a structure containing valid information:
+The information state space $`\mathcal{I}`$ is defined as the set of all possible information states:
 
-$`\mathcal{I} = \{\psi | \psi \text{ is an information carrier unit}\}`$
+$`\mathcal{I} = \{I | I \text{ is a valid information state}\}`$
 
-where information can be quantum states, digital data, or any quantifiable information representation.
+where $`I`$ represents the state of information.
 
-**Definition 2 (UNSHIFT Recovery Operation)**:
+**Definition 2 (UNSHIFT Information Recovery)**:
 
-The UNSHIFT recovery operation is a mapping from degraded state space to original state space:
+UNSHIFT information recovery is defined as a mapping from transformed or degraded information states to original information:
 
-$`\mathcal{R}_u: \mathcal{I}_d \rightarrow \mathcal{I}`$
+$`\mathcal{R}_I: \mathcal{I}_{\text{transformed}} \rightarrow \mathcal{I}_{\text{original}}`$
 
-where $`\mathcal{I}_d`$ is the degraded information state space, specifically implemented as:
+where the strict form of the mapping is:
 
-$`\mathcal{R}_u(\psi_d) = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
+$`\mathcal{R}_I(I_t) = \text{UNSHIFT}(I_t) = I_o`$
 
-This operation achieves information recovery through the combination of XOR and UNSHIFT.
+This mapping is represented in terms of basic operations as:
+
+$`\text{UNSHIFT}(I_t) = \text{FLIP}(\text{SHIFT}(\text{FLIP}(I_t)))`$
+
+where $`I_t`$ is the transformed information, and $`I_o`$ is the original information.
 
 ### 1.2 Information Recovery Axioms
 
-**Axiom 1 (Information Recovery Axiom)**:
+**Axiom 1 (Information Reversal Axiom)**:
 
-For any degraded information state $`\psi_d`$ in $`\mathcal{I}_d`$, if there exists a specific mapping relationship between it and the original state $`\psi`$, then there exists an UNSHIFT operation that can partially or completely recover it:
+For information transformed by the SHIFT operation, the UNSHIFT operation can precisely recover the original information:
 
-$`\forall \psi_d \in \mathcal{I}_d, \exists \mathcal{R}_u: S(\mathcal{R}_u(\psi_d), \psi) > S(\psi_d, \psi)`$
+$`\forall I \in \mathcal{I}: \text{UNSHIFT}(\text{SHIFT}(I)) = I`$
 
-where $`S`$ is a similarity measure function, satisfying $`0 \leq S \leq 1`$.
+**Axiom 2 (Information Recovery Quality Axiom)**:
 
-**Axiom 2 (Recovery Fidelity Axiom)**:
+The quality of information recovery is inversely proportional to the degree of information loss:
 
-The fidelity of UNSHIFT recovery operations is related to the reversibility of the degradation process:
+$`Q(\mathcal{R}_I(I_t), I_o) = 1 - \frac{L(I_t)}{L_{\text{max}}}`$
 
-$`F(\psi, \mathcal{R}_u(\psi_d)) = \frac{|\psi \cap \mathcal{R}_u(\psi_d)|}{|\psi \cup \mathcal{R}_u(\psi_d)|} \leq F_{max}`$
+where $`Q`$ is the recovery quality function, $`L`$ is the information loss function, and $`L_{\text{max}}`$ is the maximum possible loss.
 
-where $`F`$ is the fidelity function, and $`F_{max}`$ is the theoretical maximum fidelity, dependent on the nature of information loss.
+**Axiom 3 (Information Residue Axiom)**:
 
-**Axiom 3 (Recovery Iteration Axiom)**:
+Any transformed information retains some residual features of the original information, making recovery possible:
 
-Continuous application of multiple UNSHIFT recovery operations can improve recovery quality:
+$`\forall I_t \in \mathcal{I}_{\text{transformed}}: \exists R(I_t, I_o) > 0`$
 
-$`\mathcal{R}_{u}^{(n)}(\psi_d) = \mathcal{R}_u(\mathcal{R}_u^{(n-1)}(\psi_d))`$
-
-Recovery fidelity increases with the number of iterations until it reaches a stable value:
-
-$`\lim_{n \to \infty} F(\psi, \mathcal{R}_{u}^{(n)}(\psi_d)) = F_{stable} \leq F_{max}`$
+where $`R`$ is the information residue function, measuring the amount of original information retained in the transformed information.
 
 ### 1.3 Recovery Mechanism
 
-UNSHIFT information recovery is achieved through the XOR combination of a state and its UNSHIFT transformation:
+UNSHIFT information recovery is implemented through the following mechanism:
 
-$`\psi_r = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
+$`\text{UNSHIFT}(I_t) = \text{FLIP}(\text{SHIFT}(\text{FLIP}(I_t)))`$
 
-This recovery mechanism has the following key characteristics:
+This recovery mechanism has the following characteristics:
 
-1. **Information Complementarity Principle**: Recovery is most effective when information missing from $`\psi_d`$ exists in $`\text{UNSHIFT}(\psi_d)`$
-2. **Noise Cancellation Effect**: Random noise transforms into predictable patterns through UNSHIFT transformation, facilitating elimination through XOR
-3. **Pattern Recognition and Recovery**: UNSHIFT operations can identify potential patterns in degraded states and strengthen these patterns during the XOR process
+1. **Path Reversal**: UNSHIFT reverses the information transformation path
+2. **Structure Reconstruction**: Reconstructs complete information from residual structures
+3. **Noise Elimination**: Eliminates non-original information noise during the recovery process
 
-Through UNSHIFT operations, the system can explore the symmetry and recursive structure of states, using these characteristics to reconstruct lost information. The recovery process can be represented as:
+In the information space, UNSHIFT recovery operation can be represented as information flow reverse propagation:
 
-$`\psi_r = \mathcal{D}(\psi_d) \oplus \mathcal{N}(\psi_d)`$
+$`I_o = I_t \ominus N \oplus M`$
 
-where $`\mathcal{D}`$ represents the degraded original information, and $`\mathcal{N}`$ represents noise or loss. UNSHIFT operations transform $`\mathcal{N}`$ into $`\mathcal{N}^*`$ so that it cancels out with $`\mathcal{N}`$ under XOR operations, while preserving $`\mathcal{D}`$.
+where $`\ominus`$ represents the removal of noise $`N`$, and $`\oplus`$ represents the reconstruction of missing information $`M`$.
 
 ## 2. Direct Inferences
 
-### 2.1 Information Recovery Limits
+### 2.1 Information Recoverability Determination
 
-**Theorem 1 (Information Recovery Limit Theorem)**:
+**Theorem 1 (Information Recoverability Theorem)**:
 
-The theoretical limit of UNSHIFT recovery operations is determined by the entropy of lost information:
+The necessary and sufficient condition for information recoverability is that key features of the original information have identifiable residues in the transformed information:
 
-$`F_{max} = 1 - \frac{H(L)}{H(\psi)}`$
+$`\text{Recoverable}(I_t) \iff K(I_t, I_o) \geq \theta`$
 
-where $`H(L)`$ is the entropy of unrecoverable lost information, and $`H(\psi)`$ is the entropy of the original information.
-
-**Proof**:
-From the definition of UNSHIFT recovery operations:
-
-$`\psi_r = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
-
-Assume the original information $`\psi`$ can be decomposed into a preserved part $`P`$ and a lost part $`L`$: $`\psi = P \oplus L`$
-
-The degraded information $`\psi_d`$ can be represented as: $`\psi_d = P \oplus N`$, where $`N`$ is noise.
-
-Through UNSHIFT operations: $`\text{UNSHIFT}(\psi_d) = \text{UNSHIFT}(P \oplus N) = \text{UNSHIFT}(P) \oplus \text{UNSHIFT}(N)`$
-
-The recovered information is: $`\psi_r = P \oplus N \oplus \text{UNSHIFT}(P) \oplus \text{UNSHIFT}(N)`$
-
-Comparing the original information and recovered information, the difference is:
-$`\psi \oplus \psi_r = L \oplus N \oplus \text{UNSHIFT}(P) \oplus \text{UNSHIFT}(N)`$
-
-When $`N \approx \text{UNSHIFT}(N)`$ and $`\text{UNSHIFT}(P) \approx 0`$, recovery is most effective, but the unrecoverable information is at least $`L`$.
-
-Therefore, the upper limit of fidelity is: $`F_{max} = 1 - \frac{H(L)}{H(\psi)}`$, Q.E.D.
-
-### 2.2 Recovery Quality Principle
-
-**Theorem 2 (Recovery Quality Principle)**:
-
-The quality of UNSHIFT recovery operations is proportional to the degree of structure in the state:
-
-$`Q_r = \frac{S(\psi_r, \psi) - S(\psi_d, \psi)}{1 - S(\psi_d, \psi)} \propto C(\psi)`$
-
-where $`Q_r`$ is the recovery quality measure, and $`C(\psi)`$ is the structural complexity of the original state.
+where $`K`$ is the key feature retention function, and $`\theta`$ is the recoverability threshold.
 
 **Proof**:
-Highly structured states preserve more features under UNSHIFT transformations, making recovery more effective. Detailed proof omitted.
+From the definition of UNSHIFT information recovery and the information residue axiom, we have:
 
-This indicates that information with strong patterns, regularity, or redundancy is more easily recovered through UNSHIFT operations, while random unstructured information has lower recovery quality.
+$`\forall I_t \in \mathcal{I}_{\text{transformed}}: \exists R(I_t, I_o) > 0`$
 
-## 3. Applications and Validation
+Information recoverability depends on whether the residual information contains sufficient key features. We define the key feature retention function $`K(I_t, I_o)`$ to measure the degree of retention of these features.
 
-### 3.1 Quantum Information Recovery
+When $`K(I_t, I_o) \geq \theta`$, the UNSHIFT operation can utilize these features to reconstruct the original information:
 
-UNSHIFT recovery operations can be applied to quantum information systems to recover quantum states affected by decoherence or noise:
+$`\text{UNSHIFT}(I_t) = I_o + \epsilon`$
 
-$`|\psi_r\rangle = |\psi_d\rangle \oplus \text{UNSHIFT}(|\psi_d\rangle)`$
+where $`\epsilon`$ is the recovery error, and when $`K(I_t, I_o) \geq \theta`$, $`\|\epsilon\| \leq \epsilon_{\text{max}}`$ is within an acceptable range.
 
-This quantum recovery has the following practical applications:
+When $`K(I_t, I_o) < \theta`$, key features are insufficient to support effective recovery, resulting in $`\|\epsilon\| > \epsilon_{\text{max}}`$, and the recovery quality is unacceptable.
 
-1. **Quantum Memory Recovery**: Recovering degraded quantum states in quantum storage systems
-2. **Quantum Communication Correction**: Repairing errors introduced by quantum communication channels
-3. **Post-Measurement Reconstruction**: Partially recovering quantum state information after measurement
+Therefore, $`K(I_t, I_o) \geq \theta`$ is the necessary and sufficient condition for information recoverability, Q.E.D.
 
-Quantum UNSHIFT recovery has significant implications for non-destructive quantum measurements and quantum information protection.
+### 2.2 Recovery Quality Assessment
 
-### 3.2 Error Correction Systems
+**Theorem 2 (Recovery Quality Assessment Principle)**:
 
-UNSHIFT recovery operations provide a new type of error correction mechanism:
+The quality of UNSHIFT information recovery can be precisely assessed through the following metrics:
 
-$`\mathcal{E}_c(x) = x \oplus \text{UNSHIFT}(x)`$
+1. **Structural Fidelity**: $`S(\text{UNSHIFT}(I_t), I_o) \geq 1 - \frac{L_S(I_t)}{L_{S,\text{max}}}`$
+2. **Content Integrity**: $`C(\text{UNSHIFT}(I_t), I_o) \geq 1 - \frac{L_C(I_t)}{L_{C,\text{max}}}`$
+3. **Functional Equivalence**: $`F(\text{UNSHIFT}(I_t), I_o) \geq 1 - \frac{L_F(I_t)}{L_{F,\text{max}}}`$
 
-This error correction system has the following characteristics:
-
-1. **Real-time Correction**: Can perform correction without complete redundant backups
-2. **Progressive Recovery**: Recovery quality improves gradually with increasing iterations
-3. **Adaptive Capability**: Has universal adaptability to different types of errors and degradation
-
-UNSHIFT error correction can be used in data storage systems, communication protocols, and distributed computing frameworks to improve system robustness and reliability.
-
-## 4. Formalized Proofs
-
-### 4.1 Recovery Uncertainty Theorem
-
-**Theorem 3 (Recovery Uncertainty Theorem)**:
-
-In UNSHIFT recovery operations, there exists an uncertainty principle: a trade-off relationship between recovered information quantity $`I_r`$ and recovery precision $`P_r`$:
-
-$`I_r \times P_r \leq K \cdot I_{original}`$
-
-where $`K`$ is a constant related to the information encoding method, and $`I_{original}`$ is the original information quantity.
+where $`S`$, $`C`$, and $`F`$ are the structural fidelity, content integrity, and functional equivalence measurement functions, and $`L_S`$, $`L_C`$, and $`L_F`$ are the corresponding loss functions.
 
 **Proof**:
-Assume information recovery from degraded state $`\psi_d`$:
+For structural fidelity, consider the structural features $`S_{\text{features}}`$ of the information. By the information residue axiom, the transformed information retains partial structural features:
 
-$`\psi_r = \mathcal{R}_u(\psi_d) = \psi_d \oplus \text{UNSHIFT}(\psi_d)`$
+$`S_{\text{features}}(I_t) = S_{\text{features}}(I_o) - L_S(I_t)`$
 
-The recovered information quantity can be represented as: $`I_r = I(\psi_r) - I(\psi_d)`$
+The UNSHIFT operation recovers these structural features:
 
-Recovery precision is: $`P_r = \frac{|correct|}{|total|}`$, where $`|correct|`$ is the amount of correctly recovered information.
+$`S_{\text{features}}(\text{UNSHIFT}(I_t)) = S_{\text{features}}(I_t) + R_S(I_t)`$
 
-According to information theory principles, there exists a trade-off between information quantity and precision during recovery. Detailed proof omitted.
+where $`R_S(I_t)`$ represents the structural features reconstructed by UNSHIFT. By the information recovery quality axiom:
 
-This theorem indicates that through UNSHIFT operations, one can recover a large amount of information with reduced precision, or recover a small amount of information with high precision, but both cannot be maximized simultaneously.
+$`R_S(I_t) \geq L_S(I_t) - \frac{L_S(I_t)^2}{L_{S,\text{max}}}`$
 
-### 4.2 UNSHIFT Iterative Recovery Theorem
+Substituting into the above equation:
 
-**Theorem 4 (UNSHIFT Iterative Recovery Theorem)**:
+$`S_{\text{features}}(\text{UNSHIFT}(I_t)) \geq S_{\text{features}}(I_o) - \frac{L_S(I_t)^2}{L_{S,\text{max}}}`$
 
-Iterative application of UNSHIFT recovery operations forms a Markov process, with the fidelity sequence $`\{F_n\}`$ satisfying:
+Therefore:
 
-$`F_{n+1} = F_n + \Delta F_n`$, where $`\Delta F_n \geq 0`$ and $`\lim_{n \to \infty} \Delta F_n = 0`$
+$`S(\text{UNSHIFT}(I_t), I_o) = \frac{S_{\text{features}}(\text{UNSHIFT}(I_t))}{S_{\text{features}}(I_o)} \geq 1 - \frac{L_S(I_t)}{L_{S,\text{max}}}`$
+
+Content integrity and functional equivalence can be proved similarly.
+
+These metrics together form a comprehensive assessment framework for UNSHIFT information recovery quality, Q.E.D.
+
+## 3. Applications and Verification
+
+### 3.1 Damaged Information Recovery
+
+UNSHIFT information recovery can be applied to the recovery of various damaged information:
+
+$`I_{\text{damaged}} \xrightarrow{\text{UNSHIFT}} I_{\text{restored}}`$
+
+This application has important value in the following areas:
+
+1. **Data Repair**: Recovering damaged data files or records
+2. **Signal Reconstruction**: Recovering original signals from noise or interference
+3. **Image Restoration**: Reconstructing damaged, blurred, or partially lost images
+
+Practical application example: In digital image processing, UNSHIFT information recovery can be used to restore blurred or noisy images:
+
+$`\text{UNSHIFT}(I_{\text{blurred}}) \approx I_{\text{original}}`$
+
+By identifying key features and structures in the image, the UNSHIFT operation can reconstruct the original clear image.
+
+### 3.2 Information Source Reconstruction
+
+UNSHIFT information recovery provides a powerful tool for information source tracing and historical reconstruction:
+
+$`I_{\text{current}} \xrightarrow{\text{UNSHIFT}} I_{\text{historical}}`$
+
+This source tracing has special applications in the following aspects:
+
+1. **Information Evolution Analysis**: Tracking how information evolves over time
+2. **Source Identification**: Determining the original source of information
+3. **Historical Version Reconstruction**: Reconstructing historical versions of information
+
+In information archaeology, information source reconstruction can be used to recover historical documents:
+
+$`\text{UNSHIFT}(D_{\text{modern}}) = D_{\text{historical}}`$
+
+This provides a scientific method for understanding the evolutionary history of information.
+
+## 4. Formal Proofs
+
+### 4.1 Basic Properties Theorem of Information Recovery
+
+**Theorem 3 (Basic Properties Theorem of Information Recovery)**:
+
+UNSHIFT information recovery satisfies the following basic properties:
+
+1. **Lossless Recovery**: When information is only transformed by SHIFT, $`\text{UNSHIFT}(\text{SHIFT}(I)) = I`$
+2. **Partial Recovery**: When information undergoes composite transformations, $`\text{UNSHIFT}(T(I)) = I \ominus E_T`$, where $`E_T`$ is the unrecoverable error introduced by transformation $`T`$
+3. **Monotonicity**: The smaller the information loss, the higher the recovery quality, i.e., $`L(I_1) < L(I_2) \Rightarrow Q(\text{UNSHIFT}(I_1)) > Q(\text{UNSHIFT}(I_2))`$
 
 **Proof**:
-Define $`F_n = F(\psi, \mathcal{R}_u^{(n)}(\psi_d))`$ as the fidelity after the nth iteration.
+1. Lossless Recovery:
+Directly from Axiom 1:
 
-The iteration process can be represented as: $`\psi_r^{(n+1)} = \psi_r^{(n)} \oplus \text{UNSHIFT}(\psi_r^{(n)})`$
+$`\text{UNSHIFT}(\text{SHIFT}(I)) = I`$
 
-Each iteration eliminates some noise and recovers some information, increasing fidelity by $`\Delta F_n`$.
+2. Partial Recovery:
+Consider composite transformation $`T = T_n \circ ... \circ T_1`$, where some transformations are not SHIFT.
+For each transformation $`T_i`$, define its unrecoverable error as $`E_{T_i}`$.
+Apply the UNSHIFT operation to the transformed information:
 
-Due to the existence of recovery limits, the increment $`\Delta F_n`$ decreases as n increases, eventually approaching zero.
+$`\text{UNSHIFT}(T(I)) = \text{UNSHIFT}(T_n(...(T_1(I))...))`$
 
-The fidelity sequence is monotonically increasing and bounded: $`F_0 \leq F_1 \leq ... \leq F_n \leq ... \leq F_{max} \leq 1`$
+By the properties of UNSHIFT, it can recover transformations introduced by SHIFT, but can only partially recover non-SHIFT transformations, resulting in:
 
-According to the monotone convergence theorem, this sequence must converge to some $`F_{stable} \leq F_{max}`$, Q.E.D.
+$`\text{UNSHIFT}(T(I)) = I \ominus E_T`$
+
+where $`E_T = \sum_{i: T_i \neq \text{SHIFT}} E_{T_i}`$
+
+3. Monotonicity:
+The relationship between information loss $`L(I)`$ and recovery quality $`Q(\text{UNSHIFT}(I))`$ is given by Axiom 2:
+
+$`Q(\mathcal{R}_I(I_t), I_o) = 1 - \frac{L(I_t)}{L_{\text{max}}}`$
+
+When $`L(I_1) < L(I_2)`$:
+
+$`Q(\text{UNSHIFT}(I_1)) = 1 - \frac{L(I_1)}{L_{\text{max}}} > 1 - \frac{L(I_2)}{L_{\text{max}}} = Q(\text{UNSHIFT}(I_2))`$
+
+This proves the monotonicity of UNSHIFT information recovery, Q.E.D.
+
+### 4.2 UNSHIFT Information Recovery Limit Theorem
+
+**Theorem 4 (UNSHIFT Information Recovery Limit Theorem)**:
+
+For any information $`I`$, there exists a critical point of information loss $`L_c(I)`$, such that:
+
+$`L(I_t) < L_c(I) \Rightarrow \|\text{UNSHIFT}(I_t) - I\| < \epsilon`$
+$`L(I_t) > L_c(I) \Rightarrow \|\text{UNSHIFT}(I_t) - I\| > \epsilon`$
+
+where $`\epsilon`$ is the acceptable recovery error threshold.
+
+**Proof**:
+Define the recovery function of information $`I`$:
+
+$`R(L) = \|\text{UNSHIFT}(I_L) - I\|`$
+
+where $`I_L`$ is the transformed information with loss degree $`L`$.
+
+By the properties of information recovery, $`R(L)`$ is monotonically increasing with respect to $`L`$, and satisfies:
+
+$`R(0) = 0`$ (perfect recovery when there is no loss)
+$`\lim_{L \to L_{\text{max}}} R(L) = R_{\text{max}}`$ (worst recovery when loss is maximum)
+
+By the intermediate value theorem, there exists a critical point $`L_c(I)`$ such that $`R(L_c(I)) = \epsilon`$.
+
+When $`L(I_t) < L_c(I)`$, $`R(L(I_t)) < \epsilon`$, therefore $`\|\text{UNSHIFT}(I_t) - I\| < \epsilon`$.
+When $`L(I_t) > L_c(I)`$, $`R(L(I_t)) > \epsilon`$, therefore $`\|\text{UNSHIFT}(I_t) - I\| > \epsilon`$.
+
+This proves the limit of UNSHIFT information recovery, defining a clear boundary of information recoverability, completing the proof.
 
 ## 5. Theory Reference Relationship Analysis
 
@@ -225,16 +278,15 @@ According to the monotone convergence theorem, this sequence must converge to so
 UNSHIFT Information Recovery Theory depends on the following more fundamental theories:
 
 1. [Strict Formalization of Cosmic Ontology [Dimension: 10]](formal_theory_cosmic_ontology_en.md)
-2. [Strict Formalization of FLIP Operation [Dimension: 1]](formal_theory_flip_operation_en.md)
-3. [Strict Formalization of XOR Operation [Dimension: 2]](formal_theory_xor_operation_en.md)
-4. [Strict Formalization of SHIFT Operation [Dimension: 2]](formal_theory_shift_operation_en.md)
-5. [Strict Formalization of USHIFT Operation [Dimension: 2]](formal_theory_ushift_operation_en.md)
-6. [Strict Formalization of UNSHIFT State Compression Theory [Dimension: 1.5]](formal_theory_unshift_state_compression_en.md)
+2. [UNSHIFT Symmetry Preservation Theory [Dimension: 1.9]](formal_theory_unshift_symmetry_preservation_en.md)
+3. [UNSHIFT Entropy Conservation Theory [Dimension: 1.7]](formal_theory_unshift_entropy_conservation_en.md)
+4. [Information Redundancy Theory [Dimension: 4]](formal_theory_information_redundancy_en.md)
+5. [Error Correction Theory [Dimension: 3]](formal_theory_error_correction_en.md)
 
 ### 5.2 Dimensional Attribution
 
-This theory belongs to the theoretical framework of dimension 1.6, embodying the essential characteristics of UNSHIFT as an information recovery operation. Its dimension calculation is based on:
+This theory belongs to the theoretical framework of dimension 2.1, embodying the essential characteristics of UNSHIFT as an information recovery operation. Its dimensional calculation is based on:
 
-$`D_{\text{This Theory}} = \frac{D_{\text{USHIFT}} + D_{\text{Information Basis}}}{2} - 0.3 = \frac{2 + 1.5}{2} - 0.3 = 1.6`$
+$`D_{\text{This Theory}} = \max(D_{\text{UNSHIFT Symmetry Preservation}}, D_{\text{UNSHIFT Entropy Conservation}}) + 0.2 = 1.9 + 0.2 = 2.1`$
 
-This dimensional positioning makes this theory a logical extension of low-dimensional information operation theories, exploring the principles and applications of UNSHIFT in the field of information recovery, providing a theoretical foundation for quantum information theory and error correction techniques. 
+This dimensional positioning makes this theory a high level in the UNSHIFT operation theoretical system, focusing on exploring the principles of UNSHIFT in information recovery and reconstruction, providing a formal foundation for damaged information processing and historical information reconstruction. 

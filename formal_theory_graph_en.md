@@ -1,4 +1,4 @@
-# Cosmic Ontology Theoretical System Structure Diagram [Cosmic Ontology Version: v36.0]
+# Cosmic Ontology Theoretical System Structure Diagram [Cosmic Ontology Version: v37.0]
 
 [English](formal_theory_graph_en.md) | [中文](formal_theory_graph.md)
 

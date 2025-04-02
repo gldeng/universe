@@ -1,4 +1,4 @@
-# 宇宙本论理论体系结构图 [宇宙本论版本号：v36.0]
+# 宇宙本论理论体系结构图 [宇宙本论版本号：v37.0]
 
 [中文](formal_theory_graph.md) | [English](formal_theory_graph_en.md)
 

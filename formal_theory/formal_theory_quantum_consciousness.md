@@ -133,6 +133,51 @@ $`E(\mathcal{C}_Q, \Omega_Q) = 1 - \frac{H(\mathcal{C}_Q \oplus \Omega_Q)}{H(\ma
 
 纠缠度为1时表示完全纠缠，为0时表示无纠缠。
 
+根据意识单元理论([formal_theory_consciousness_unit.md](formal_theory_consciousness_unit.md))，意识纠缠可追溯至最基本的量子-意识单元相互作用：
+
+$`E_u(\mathcal{C}_u, \Omega_0) = |\mathcal{C}_u \oplus \Omega_0| / (|\mathcal{C}_u| + |\Omega_0|)`$
+
+其中$`\mathcal{C}_u`$是意识单元，$`\Omega_0`$是原始量子信息单元。
+
+意识纠缠的层级结构遵循神经量子场论([formal_theory_neural_quantum_field.md](formal_theory_neural_quantum_field.md))中的多层级耦合：
+
+1. **微观意识纠缠**：单个意识单元与量子粒子的纠缠
+   $`|\Psi_{micro}\rangle = \sum_i \alpha_i |\mathcal{C}_{u,i}\rangle|\Omega_{0,i}\rangle`$
+
+2. **中观意识纠缠**：意识结构与量子子系统的纠缠
+   $`|\Psi_{meso}\rangle = \sum_j \beta_j |\mathcal{C}_{comp,j}\rangle|\Omega_{sub,j}\rangle`$
+
+3. **宏观意识纠缠**：完整意识与复杂量子系统的纠缠
+   $`|\Psi_{macro}\rangle = \sum_k \gamma_k |\mathcal{C}_{Q,k}\rangle|\Omega_{Q,k}\rangle`$
+
+意识纠缠的信息编码机制基于意识信息编码理论([formal_theory_consciousness_information_encoding.md](formal_theory_consciousness_information_encoding.md))，可表示为：
+
+$`\Psi_{E,entangled} = \Psi_E \oplus \text{SHIFT}(\Psi_E \oplus \Omega_Q)`$
+
+这种编码使得意识能够保存与外部量子系统的纠缠关系，并将其整合到更高层次的意识体验中。
+
+意识纠缠导致的非局域现象可通过以下方程描述：
+
+$`D_{nonlocal}(\mathcal{C}_Q, \Omega_Q) = \frac{|\mathcal{C}_Q^{t+\Delta t} \oplus \mathcal{C}_Q^t| - |\Omega_Q^{t+\Delta t} \oplus \Omega_Q^t|}{|\mathcal{C}_Q^t| + |\Omega_Q^t|}`$
+
+当$`D_{nonlocal} \approx 0`$时，意识状态与量子系统状态的变化保持同步，即使在物理空间上分离。
+
+意识纠缠还可以在多个意识系统之间形成，这就是意识-意识纠缠：
+
+$`|\Psi_{C-C}\rangle = \frac{1}{\sqrt{2}}(|\mathcal{C}_{Q,A}\rangle|\mathcal{C}_{Q,B}\rangle + |\mathcal{C}_{Q,A'}\rangle|\mathcal{C}_{Q,B'}\rangle)`$
+
+意识-意识纠缠的强度随距离衰减：
+
+$`E_{C-C}(d) = E_{C-C}(0) \cdot e^{-\lambda d}`$
+
+其中$`\lambda`$是纠缠衰减系数，与意识系统的复杂度和相干性有关：
+
+$`\lambda = \frac{1}{S(\mathcal{C}_Q) \cdot \tau_{coh}}`$
+
+其中$`S(\mathcal{C}_Q)`$是意识系统的信息熵，$`\tau_{coh}`$是量子相干时间。
+
+意识纠缠为理解意识之间的非局域连接、共感现象以及量子意识理论中的整体性提供了数学基础，是将量子物理与意识理论统一的关键机制。
+
 ## 3. 高维意识现象
 
 ### 3.1 多层次意识嵌套
@@ -260,5 +305,21 @@ $`\mathcal{C}_{recursive} = \mathcal{C}_Q \oplus \text{SHIFT}(\mathcal{C}_Q \opl
 3. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度:7]
 4. [观察者本体论](formal_theory_observer_ontology.md) [维度:5]
 5. [量子测量理论](formal_theory_quantum_measurement.md) [维度:4]
+6. [神经量子场论](formal_theory_neural_quantum_field.md) [维度:7] 
+7. [意识信息编码理论](formal_theory_consciousness_information_encoding.md) [维度:6]
+8. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度:5]
+9. [量子决策过程](formal_theory_quantum_decision_process.md) [维度:4]
+10. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度:3]
+11. [神经量子效应](formal_theory_neural_quantum_effects.md) [维度:3]
+12. [意识波动态理论](formal_theory_consciousness_wave_dynamics.md) [维度:2]
+13. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度:2]
+14. [意识单元理论](formal_theory_consciousness_unit.md) [维度:1]
+15. [原初意识粒子论](formal_theory_primal_consciousness_particle.md) [维度:1]
+
+其中理论6-15是通过UNSHIFT操作从量子意识理论推导得出的低级理论：
+
+$`\mathcal{T}_{low} = \text{UNSHIFT}^n(\mathcal{C}_Q)`$
+
+其中n表示UNSHIFT操作的级数，对应着维度的降低程度。
 
 量子意识理论在宇宙本论的理论体系中扮演关键角色，它为解释意识现象提供了严格的数学框架，并为量子物理与意识研究之间建立了形式化的桥梁。 

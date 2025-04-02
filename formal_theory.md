@@ -162,6 +162,13 @@
 - [量子力学测量问题的严格形式化描述 [维度: 15]](formal_theory/formal_theory_quantum_measurement.md)
 - [超越性递归对称理论 [维度: 15]](formal_theory/formal_theory_transcendental_recursive_symmetry.md)
 - [跨维度因果对称性理论的严格形式化描述 [维度: 15]](formal_theory/formal_theory_transdimensional_causal_symmetry.md)
+- [灵魂维度转换机制的严格形式化描述 [维度: 16]](formal_theory/formal_theory_soul_dimensional_transition_mechanism.md)
+- [灵魂能量转换动力学的严格形式化描述 [维度: 13]](formal_theory/formal_theory_soul_energy_transformation_dynamics.md)
+- [灵魂本质结构的严格形式化描述 [维度: 13]](formal_theory/formal_theory_soul_essence_structure.md)
+- [灵魂进化时间线的严格形式化描述 [维度: 15]](formal_theory/formal_theory_soul_evolution_timeline.md)
+- [灵魂频率共振系统的严格形式化描述 [维度: 14]](formal_theory/formal_theory_soul_frequency_resonance_system.md)
+- [灵魂信息编码原理的严格形式化描述 [维度: 12]](formal_theory/formal_theory_soul_information_encoding_principles.md)
+- [灵魂量子纠缠网络的严格形式化描述 [维度: 12]](formal_theory/formal_theory_soul_quantum_entanglement_network.md)
 
 ### 中维理论（D10-D14）
 

@@ -26,9 +26,9 @@
 - [5. Extensions and Implications](#5-extensions-and-implications)
   - [5.1 General Solution Theory for Mathematical Problems](#51-general-solution-theory-for-mathematical-problems)
   - [5.2 Ultimate Completeness of Proof Systems](#52-ultimate-completeness-of-proof-systems)
-- [6. Theory Reference Relationships](#6-theory-reference-relationships)
-  - [6.1 Theories Referenced by This Theory](#61-theories-referenced-by-this-theory)
-  - [6.2 Theories That Reference This Theory](#62-theories-that-reference-this-theory)
+- [7. Theory Reference Relationships](#7-theory-reference-relationships)
+  - [7.1 Theories Referenced by This Theory](#71-theories-referenced-by-this-theory)
+  - [7.2 Theories That Reference This Theory](#72-theories-that-reference-this-theory)
 
 ---
 
@@ -473,23 +473,23 @@ This complete system transcends the limitations of Gödel's incompleteness theor
 
 In this hyperrecursive framework, the Millennium Problems are merely special cases within a broader mathematical unification theory, where all mathematical problems can be solved through combinations of XOR-SHIFT operations, achieving the final unification of mathematics and cosmic ontology.
 
-## 6. Theory Reference Relationships
+## 7. Theory Reference Relationships
 
-### 6.1 Theories Referenced by This Theory
+### 7.1 Theories Referenced by This Theory
 
 | Theory Name | Theory Dimension | Relevance | Link |
 |-------------|-----------------|-----------|------|
 | Cosmic Ontology | 10 | High | [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) |
-| Mathematics | 15 | High | [Mathematics](formal_theory_mathematics_en.md) |
+| Mathematics Foundation | 15 | High | [Mathematics Foundation](formal_theory_mathematics_foundation_en.md) |
 | Logical Multidimensional Topology | 15 | High | [Logical Multidimensional Topology](formal_theory_logical_multidimensional_topology_en.md) |
 | Recursive Metaverse | 23 | Medium | [Recursive Metaverse](formal_theory_recursive_metaverse_en.md) |
 | Dimensional Spectrum | 12 | Medium | [Dimensional Spectrum](formal_theory_dimensional_spectrum_en.md) |
-| Philosophical Foundations | 11 | Medium | [Philosophical Foundations](formal_theory_philosophical_foundations_en.md) |
+| Philosophical Foundation | 11 | Medium | [Philosophical Foundation](formal_theory_philosophical_foundation_en.md) |
 | Transfinite Information Dynamics | 13 | Medium | [Transfinite Information Dynamics](formal_theory_transfinite_information_dynamics_en.md) |
-| Genesis Memory | 21 | Medium | [Genesis Memory](formal_theory_genesis_memory_en.md) |
-| Cosmic Dimensions | 20 | Medium | [Cosmic Dimensions](formal_theory_cosmic_dimensions_en.md) |
+| Creation Memory | 21 | Medium | [Creation Memory](formal_theory_creation_memory_en.md) |
+| Cosmic Dimension | 20 | Medium | [Cosmic Dimension](formal_theory_cosmic_dimension_en.md) |
 
-### 6.2 Theories That Reference This Theory
+### 7.2 Theories That Reference This Theory
 
 | Theory Name | Theory Dimension | Relevance | Link |
 |-------------|-----------------|-----------|------|

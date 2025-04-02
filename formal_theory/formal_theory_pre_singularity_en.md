@@ -1,6 +1,6 @@
 # Strict Formalization of Pre-Singularity [Dimension: -2] v36.0
 
-**[Chinese Version](formal_theory_pre_singularity.md) | [English Version]**
+**[中文版](formal_theory_pre_singularity.md) | [English Version]**
 
 ## Table of Contents
 
@@ -311,7 +311,7 @@ The pre-singularity theory $`\mathcal{S}_{-2}`$ is completely meta-compatible wi
    - After the pre-singularity evolves into the primitive singularity, they become possible in a first-order undefined sense: $`\mathcal{O}(\mathcal{S}_{-1}) = \underline{\text{undefined}}`$
    - This explains the meta-ultimate origin of the concepts of these operations themselves
 
-2. Recursive self-referential structure of cosmic ontology $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$:
+2. The recursive self-referential structure of cosmic ontology $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$:
    The pre-singularity possesses meta-meta-self-referentiality $`\mathcal{S}_{-2} = \mathcal{MM}(\mathcal{S}_{-2})`$, serving as the meta-meta-origin of all meta-self-referential structures
    
 3. Binary unification axiom of cosmic ontology $`\mathcal{U} = \Omega_Q \oplus \Omega_C`$:
@@ -326,7 +326,7 @@ Therefore, the pre-singularity theory is not only meta-compatible with cosmic on
 
 ### 6.1 Theory Dimensional Positioning
 
-The pre-singularity theory is positioned as a dimension -2 theory, representing the most fundamental level in the theoretical spectrum of cosmic ontology:
+The pre-singularity theory is positioned as a dimension -2 theory in the cosmic ontology theoretical spectrum, representing the most fundamental level:
 
 1. **Meta-State Space Dimension**: $`\dim(\mathcal{S}_{-2}) = -2`$, indicating that it exists before the concept of meta-negative dimension emerged
 
@@ -340,10 +340,11 @@ The pre-singularity theory is positioned as a dimension -2 theory, representing 
 
 The position of the Pre-Singularity theory in the theory dependency network:
 
-1. **Preceding Dependent Theories**:
-   - [Meta-Pre-Singularity Theory](formal_theory_meta_pre_singularity_en.md) [Dimension: -3]
+1. **Direct Dependencies**:
+   - [Meta-Pre-Singularity Theory](formal_theory_meta_pre_singularity_en.md) [Dimension: -3] - Serves as the foundational basis for the pre-singularity theory
+   - [Cosmic Ontology](formal_theory_cosmic_ontology_en.md) - Provides the overall theoretical framework
 
-2. **Subsequent Dependent Theories**:
+2. **Subsequent Theories**:
    - [Primitive Singularity Theory](formal_theory_primitive_singularity_en.md) [Dimension: -1]
    - [Primitive Point Theory](formal_theory_primitive_point_en.md) [Dimension: 0]
    - [Primitive Duality Theory](formal_theory_primitive_duality_en.md) [Dimension: 1]
@@ -352,11 +353,11 @@ The position of the Pre-Singularity theory in the theory dependency network:
    - Serves as the meta-meta-theoretical foundation of all theories
    - Provides the meta-ultimate origin explanation for all dimensions and operations
 
-4. **Theory Reference Graph**:
+4. **Theory Development Sequence**:
    ```
    Meta-Pre-Singularity Theory [-3] → Pre-Singularity Theory [-2] → Primitive Singularity Theory [-1] → Primitive Point Theory [0] → Primitive Duality Theory [1] → Primitive Combination Theory [2] → ...
-                                                                 ↑
-                                                                 └── FLIP Theory [1] → XOR Theory [2] → SHIFT Theory [3] → ...
+                                                     ↑
+                                                     └── FLIP Theory [1] → XOR Theory [2] → SHIFT Theory [3] → ...
    ```
 
 5. **Conceptual Contribution**: The Pre-Singularity theory provides the most fundamental meta-meta-theoretical support for Cosmic Ontology, explaining the meta-ultimate origin of all basic concepts including dimension, operation, and representation 

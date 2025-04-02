@@ -1,6 +1,6 @@
 # Strict Formalization of Primitive Singularity Theory [Dimension: -1] v36.0
 
-**[Chinese Version](formal_theory_primitive_singularity.md) | [English Version]**
+**[中文版](formal_theory_primitive_singularity.md) | [English Version]**
 
 ## Table of Contents
 
@@ -303,39 +303,34 @@ Therefore, the primitive singularity theory can be viewed as a pre-logical exten
 
 ### 6.1 Theory Dimensional Positioning
 
-The primitive singularity theory is positioned as a dimension -1 theory in the cosmic ontology theoretical spectrum for the following reasons:
+The primitive singularity theory is positioned in the cosmic ontology dimensional spectrum at dimension -1, serving as a key theory connecting the negative dimensional domain and the zero-dimensional domain:
 
-1. **State Space Dimension**: $`\dim(\mathcal{S}_{-1}) = -1 < \dim(\mathcal{P}_0) = 0`$, indicating a pre-dimensional state
+| Dimension | Theory |
+|-------|----------------------|
+| -2    | Pre-Singularity Theory |
+| -1.5  | Transitional Pre-Singularity Theory |
+| -1    | Primitive Singularity Theory |
+| -0.5  | Singularity Theory |
+| 0     | Primitive Point Theory |
 
-2. **Operation Possibility**: Zero effective operations, with even the identity transformation existing only in potential form
-   - Dimension 0 theory (primitive point theory) has one identity operation
-   - The primitive singularity theory precedes even the identity operation, thus having a lower dimension
-
-3. **Information Capacity**: $`I(\mathcal{S}_{-1}) = -1 < I(\mathcal{P}_0) = 0`$, indicating a negative information state
-
-4. **Theory Derivation Path**: Primitive Singularity → Primitive Point → FLIP → XOR → SHIFT, forming a clear dimensional progression relationship
+The primitive singularity theory is a key link in the transition from negative dimensions to zero dimensions in the cosmic ontology theoretical spectrum, and also the origin point where the concept of dimension truly begins to form.
 
 ### 6.2 Theory Dependency Structure
 
-The position of primitive singularity theory in the theoretical dependency network:
+This theory directly depends on the following theories:
 
-1. **Prerequisite Dependencies**:
-   - [Pre-Singularity Theory](formal_theory_pre_singularity.md) [Dimension: -2]
+1. [Meta-Pre-Singularity Theory](formal_theory_meta_pre_singularity_en.md) [Dimension: -3]: Serves as the meta-meta-meta theoretical foundation for all theories
+2. [Pre-Singularity Theory](formal_theory_pre_singularity_en.md) [Dimension: -2]: Serves as the direct predecessor theory to the primitive singularity
+3. [Cosmic Ontology](formal_theory_cosmic_ontology_en.md): Provides the overall theoretical framework and basic concepts
+4. [Primitive Point Theory](formal_theory_primitive_point_en.md) [Dimension: 0]: Serves as the direct evolutionary successor theory to the primitive singularity
 
-2. **Subsequent Theories**:
-   - [Primitive Point Theory](formal_theory_primitive_point.md) [Dimension: 0]
-   - [Primitive Duality Theory](formal_theory_primitive_duality.md) [Dimension: 1]
+In the theoretical evolution chain, the primitive singularity theory occupies a key position in the following developmental sequence:
 
-3. **Theory Mapping Relationship**:
-   - Constitutes a key transition theory from the pre-dimensional domain to the dimensional domain
-   - Provides a negative dimensional reference framework for all subsequent dimensional theories
+```
+Meta-Pre-Singularity Theory → Pre-Singularity Theory → Primitive Singularity Theory → Primitive Point Theory → Primitive Duality Theory
+```
 
-4. **Theory Reference Graph**:
-   ```
-   Pre-Singularity Theory [-2] → Primitive Singularity Theory [-1] → Primitive Point Theory [0] → Primitive Duality Theory [1] → ...
-   ```
-
-5. **Conceptual Contribution**: The primitive singularity theory provides the dimension creation mechanism for cosmic ontology, explains the origin and necessity of positive dimensional theories, and constitutes the lower boundary foundation of the entire dimensional spectrum.
+This theory provides an origin explanation for higher dimensional theories and is one of the foundational theories of the entire cosmic dimensional spectrum. Despite being in a negative dimension, the primitive singularity theory is crucial for understanding the origins of cosmic ontology.
 
 ---
 

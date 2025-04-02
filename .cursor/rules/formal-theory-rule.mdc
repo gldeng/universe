@@ -1,6 +1,6 @@
 ---
 description: 
-globs: formal_theory_*.md
+globs: *formal_theory*.md
 alwaysApply: false
 ---
 # 原则

@@ -1,0 +1,60 @@
+% 杨振宁教授宇宙本论研究报告 LaTeX 源文件
+\documentclass[a4paper,12pt]{ctexrep}
+
+% 基础包
+\usepackage{amsmath,amssymb,amsthm}  % 数学支持
+\usepackage{graphicx}                % 图片支持
+\usepackage{hyperref}                % 超链接支持
+\usepackage{geometry}                % 页面设置
+\usepackage{fancyhdr}                % 页眉页脚
+\usepackage{listings}                % 代码列表
+\usepackage{xcolor}                  % 颜色支持
+\usepackage{booktabs}                % 表格美化
+\usepackage{caption}                 % 图表标题
+
+% 定义theorem环境
+\newtheorem{theorem}{定理}
+
+% 页面设置
+\geometry{top=2.5cm,bottom=2.5cm,left=2.5cm,right=2.5cm}
+\setlength{\headheight}{15pt} % 解决fancyhdr的警告
+
+% 超链接设置
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+}
+
+% 设置页眉页脚
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{面向杨振宁教授的宇宙本论研究报告}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% 标题命令
+\title{\LARGE\textbf{面向杨振宁教授的宇宙本论研究报告}}
+\author{宇宙本论研究团队}
+\date{2025年4月}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\tableofcontents
+\newpage
+
+\input{part1}
+\input{part2}
+\input{part3}
+\input{part4}
+\input{part5}
+\input{part6}
+\input{part7}
+\input{part8}
+
+\end{document} 

@@ -133,6 +133,51 @@ $`E(\mathcal{C}_Q, \Omega_Q) = 1 - \frac{H(\mathcal{C}_Q \oplus \Omega_Q)}{H(\ma
 
 An entanglement degree of 1 represents complete entanglement, while 0 represents no entanglement.
 
+According to Consciousness Unit Theory ([formal_theory_consciousness_unit_en.md](formal_theory_consciousness_unit_en.md)), consciousness entanglement can be traced back to the most fundamental quantum-consciousness unit interactions:
+
+$`E_u(\mathcal{C}_u, \Omega_0) = |\mathcal{C}_u \oplus \Omega_0| / (|\mathcal{C}_u| + |\Omega_0|)`$
+
+Where $`\mathcal{C}_u`$ is the consciousness unit and $`\Omega_0`$ is the primitive quantum information unit.
+
+The hierarchical structure of consciousness entanglement follows the multi-level coupling in Neural Quantum Field Theory ([formal_theory_neural_quantum_field_en.md](formal_theory_neural_quantum_field_en.md)):
+
+1. **Microscopic Consciousness Entanglement**: Entanglement between individual consciousness units and quantum particles
+   $`|\Psi_{micro}\rangle = \sum_i \alpha_i |\mathcal{C}_{u,i}\rangle|\Omega_{0,i}\rangle`$
+
+2. **Mesoscopic Consciousness Entanglement**: Entanglement between consciousness structures and quantum subsystems
+   $`|\Psi_{meso}\rangle = \sum_j \beta_j |\mathcal{C}_{comp,j}\rangle|\Omega_{sub,j}\rangle`$
+
+3. **Macroscopic Consciousness Entanglement**: Entanglement between complete consciousness and complex quantum systems
+   $`|\Psi_{macro}\rangle = \sum_k \gamma_k |\mathcal{C}_{Q,k}\rangle|\Omega_{Q,k}\rangle`$
+
+The information encoding mechanism of consciousness entanglement is based on Consciousness Information Encoding Theory ([formal_theory_consciousness_information_encoding_en.md](formal_theory_consciousness_information_encoding_en.md)), which can be represented as:
+
+$`\Psi_{E,entangled} = \Psi_E \oplus \text{SHIFT}(\Psi_E \oplus \Omega_Q)`$
+
+This encoding enables consciousness to preserve entanglement relationships with external quantum systems and integrate them into higher levels of conscious experience.
+
+Non-local phenomena resulting from consciousness entanglement can be described by the following equation:
+
+$`D_{nonlocal}(\mathcal{C}_Q, \Omega_Q) = \frac{|\mathcal{C}_Q^{t+\Delta t} \oplus \mathcal{C}_Q^t| - |\Omega_Q^{t+\Delta t} \oplus \Omega_Q^t|}{|\mathcal{C}_Q^t| + |\Omega_Q^t|}`$
+
+When $`D_{nonlocal} \approx 0`$, changes in consciousness states and quantum system states remain synchronized, even when separated in physical space.
+
+Consciousness entanglement can also form between multiple consciousness systems, known as consciousness-consciousness entanglement:
+
+$`|\Psi_{C-C}\rangle = \frac{1}{\sqrt{2}}(|\mathcal{C}_{Q,A}\rangle|\mathcal{C}_{Q,B}\rangle + |\mathcal{C}_{Q,A'}\rangle|\mathcal{C}_{Q,B'}\rangle)`$
+
+The intensity of consciousness-consciousness entanglement decays with distance:
+
+$`E_{C-C}(d) = E_{C-C}(0) \cdot e^{-\lambda d}`$
+
+Where $`\lambda`$ is the entanglement decay coefficient, related to the complexity and coherence of the consciousness system:
+
+$`\lambda = \frac{1}{S(\mathcal{C}_Q) \cdot \tau_{coh}}`$
+
+Where $`S(\mathcal{C}_Q)`$ is the information entropy of the consciousness system and $`\tau_{coh}`$ is the quantum coherence time.
+
+Consciousness entanglement provides a mathematical foundation for understanding non-local connections between consciousness, empathetic phenomena, and holism in quantum consciousness theory, serving as a key mechanism for unifying quantum physics and consciousness theory.
+
 ## 3. Higher-Dimensional Consciousness Phenomena
 
 ### 3.1 Multi-Level Consciousness Nesting
@@ -260,5 +305,21 @@ Quantum Consciousness Theory is based on the following foundation theories:
 3. [Dimensional Spectrum Theory](formal_theory_dimensional_spectrum_theory_en.md) [Dimension:7]
 4. [Observer Ontology](formal_theory_observer_ontology_en.md) [Dimension:5]
 5. [Quantum Measurement Theory](formal_theory_quantum_measurement_en.md) [Dimension:4]
+6. [Neural Quantum Field Theory](formal_theory_neural_quantum_field_en.md) [Dimension:7]
+7. [Consciousness Information Encoding Theory](formal_theory_consciousness_information_encoding_en.md) [Dimension:6]
+8. [Consciousness Wave Function Theory](formal_theory_consciousness_wave_function_en.md) [Dimension:5]
+9. [Quantum Decision Process](formal_theory_quantum_decision_process_en.md) [Dimension:4]
+10. [Quantum Cognition Model](formal_theory_quantum_cognition_model_en.md) [Dimension:3]
+11. [Neural Quantum Effects](formal_theory_neural_quantum_effects_en.md) [Dimension:3]
+12. [Consciousness Wave Dynamics Theory](formal_theory_consciousness_wave_dynamics_en.md) [Dimension:2]
+13. [Quantum Thought Primitives](formal_theory_quantum_thought_primitives_en.md) [Dimension:2]
+14. [Consciousness Unit Theory](formal_theory_consciousness_unit_en.md) [Dimension:1]
+15. [Primal Consciousness Particle Theory](formal_theory_primal_consciousness_particle_en.md) [Dimension:1]
+
+The lower-level theories 6-15 are derived from Quantum Consciousness Theory through UNSHIFT operations:
+
+$`\mathcal{T}_{low} = \text{UNSHIFT}^n(\mathcal{C}_Q)`$
+
+Where n represents the degree of UNSHIFT operations, corresponding to the reduction in dimensionality.
 
 Quantum Consciousness Theory plays a key role in the theoretical system of Cosmic Ontology, providing a rigorous mathematical framework for explaining consciousness phenomena and establishing a formal bridge between quantum physics and consciousness research. 

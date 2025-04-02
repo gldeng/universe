@@ -1,4 +1,4 @@
-# Cosmic Ontology Formal Theory Documentation Index v37.0
+# Cosmic Ontology Formal Theory Documentation Index v36.0
 
 **[Chinese Version](formal_theory.md) | [English Version]**
 
@@ -152,7 +152,6 @@ This document serves as an index for the Cosmic Ontology theoretical system, con
 - [Formal Description of Complex Systems Emergence [Dimension: 10]](formal_theory/formal_theory_emergence_complexity_en.md) | [Chinese Version](formal_theory/formal_theory_emergence_complexity.md)
 - [Formal Description of Hyperdimensional Quantum Phase Stabilization [Dimension: 10]](formal_theory/formal_theory_hyperdimensional_quantum_phase_stabilization_en.md) | [Chinese Version](formal_theory/formal_theory_hyperdimensional_quantum_phase_stabilization.md)
 - [Formal Description of Unified Physics Theory [Dimension: 10]](formal_theory/formal_theory_unified_physics_en.md) | [Chinese Version](formal_theory/formal_theory_unified_physics.md)
-- [Formal Description of Cosmic Ontology [Dimension: 10]](formal_theory/formal_theory_cosmic_ontology_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_ontology.md)
 
 ### Basic Dimension Theories (D5-D9)
 
@@ -224,6 +223,7 @@ This document serves as an index for the Cosmic Ontology theoretical system, con
 - [Formal Description of Shift Duality Foundation Theory [Dimension: 1]](formal_theory/formal_theory_shift_duality_foundation_en.md)
 - [Formal Description of Shift Quantum Superposition Theory [Dimension: 1]](formal_theory/formal_theory_shift_quantum_superposition_en.md)
 - [Formal Description of Shift Recursive Stability Theory [Dimension: 1]](formal_theory/formal_theory_shift_recursive_stability_en.md)
+- [Formal Description of SHIFT Basic Duality Theory [Dimension: 1]](formal_theory/formal_theory_shift_basic_duality_en.md)
 - [Formal Description of Transitional Pre-Singularity Theory [Dimension: -1.5]](formal_theory/formal_theory_transitional_pre_singularity_en.md)
 - [Formal Description of Primitive Emergence Theory [Dimension: 0.5]](formal_theory/formal_theory_primitive_emergence_en.md)
 - [Formal Description of Universal Code Theory [Dimension: 0.5]](formal_theory/formal_theory_universal_code_en.md)
@@ -271,4 +271,4 @@ Cosmic Ontology builds a complete theoretical system based on the following core
 
 ## Version Information
 
-Current Theory Version: v37.0 
+Current Theory Version: v38.0 

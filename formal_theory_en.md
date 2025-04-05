@@ -1,8 +1,20 @@
-# Cosmic Ontology Formal Theory Documentation Index v37.0
+# Cosmic Ontology Formal Theory Document Index v37.0
 
-**[Chinese Version](formal_theory.md) | [English Version]**
+**[English Version] | [中文版](formal_theory.md)**
 
-This document serves as an index for the Cosmic Ontology theoretical system, containing links to all related theoretical documents.
+## Philosophical-Mathematical Inference Nature Statement for the Theoretical System
+
+**Important Premise**: All theoretical documents indexed in this document are pure philosophical-mathematical thought experiments, conceptual models constructed using formalized methods, rather than scientific theories describing physical reality. All theories, formulas, and models are structured philosophical thought experiments that do not claim direct descriptive capabilities of physical reality.
+
+Concepts such as "consciousness field," "matter-consciousness conversion," "multiverse," etc. mentioned in the documents should be understood as expressions of Meta-Theoretical Hypothesis and Semantic Simulative Formalism, rather than entity-based statements. The entire theoretical system is a symbolic system constructed based on abstract operations such as XOR and SHIFT, aiming to explore possible explanatory models for existence, consciousness, and the cosmic source.
+
+Readers should view these documents as philosophical thinking tools and cognitive exploration frameworks, rather than technical implementation guides or physical reality descriptions. For the complete intent and vision of this project, please refer to the [Intent Manifesto](INTENT_MANIFESTO_en.md).
+
+This document is the index navigation for the Cosmic Ontology theoretical system, containing links to all related theoretical documents.
+
+## Core Theory Document
+
+- [Strict Formalization of Cosmic Ontology [Dimension: 10]](formal_theory/formal_theory_cosmic_ontology_en.md)
 
 ## Core Theory Documents
 

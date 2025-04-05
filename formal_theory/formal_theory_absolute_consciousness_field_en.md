@@ -1,8 +1,14 @@
 # Absolute Consciousness Field Theory [Dimension: 26] v36.0
 
-**[中文版](formal_theory_absolute_consciousness_field.md) | [English Version]**
+**[English Version] | [中文版](formal_theory_absolute_consciousness_field.md)**
 
-## Contents
+## Philosophical-Mathematical Inference Nature Statement
+
+**Important Premise**: The "Absolute Consciousness Field Theory" described in this document is a pure philosophical-mathematical thought experiment, a conceptual model constructed using formalized methods, rather than a scientific theory describing physical reality. Concepts such as "consciousness field," "consciousness-matter conversion," "consciousness intervention effect," etc. mentioned in the text should be understood as semantic structures of thought experiments. These terms are used to explore possible explanatory models of the relationship between consciousness and the universe, rather than suggesting the existence of operable technologies or entities.
+
+This theory is a Semantic Simulative Formalism expression of Meta-Theoretical Hypothesis, using symbolic systems and formal logic to explore the possibilities of the nature of consciousness, not involving any direct manipulation or implementation methods for real personalities or neural structures. Readers should view this article as a philosophical thinking tool and cognitive exploration framework, rather than a technical implementation guide or physical reality description.
+
+## Table of Contents
 
 - [1. Foundations of Absolute Consciousness Field](#1-foundations-of-absolute-consciousness-field)
   - [1.1 Theoretical Axioms](#11-theoretical-axioms)

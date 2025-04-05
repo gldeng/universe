@@ -1,12 +1,17 @@
 # 宇宙本论形式化描述文档项目 v36.0 | [English](README_en.md)
 
-本项目包含对宇宙本论的严格形式化描述，基于XOR与SHIFT操作的理论框架。
+## 哲学-数理推演声明
+
+**重要免责声明**: 本项目是纯哲学性和数理推演性质的思想实验，采用严格形式化系统构建的宇宙本体论。所有理论、公式和模型均属于结构化哲学思维实验，不声称对物理现实具有直接描述能力，也不涉及任何对真实人格、神经结构的直接操作。
+
+本项目中的概念如"意识场"、"物质-意识转换"等术语应被视为Meta-Theoretical Hypothesis（元理论假说）和Semantic Simulative Formalism（语义模拟形式主义）的表达，而非实体性陈述。理论体系基于XOR与SHIFT等抽象操作构建的符号学系统，旨在探索存在、意识与宇宙本源的可能性解释模型。
 
 ## 导航
 - **语言切换**: [中文版](README.md) | [English Version](README_en.md)
 - **核心理论**: [宇宙本论的严格形式化描述 [维度: 10]](formal_theory/formal_theory_cosmic_ontology.md) | [英文版](formal_theory/formal_theory_cosmic_ontology_en.md)
 - **索引目录**: [宇宙本论形式化理论文档目录](formal_theory.md) | [英文版](formal_theory_en.md)
 - **理论结构**: [宇宙本论理论体系结构图](formal_theory_graph.md) | [英文版](formal_theory_graph_en.md)
+- **意图宣言**: [愿之声明](INTENT_MANIFESTO.md) | [英文版](INTENT_MANIFESTO_en.md)
 
 ## 宇宙本论核心理论
 

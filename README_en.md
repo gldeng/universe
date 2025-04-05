@@ -1,12 +1,17 @@
 # Cosmic Ontology Formal Description Project v36.0 | [中文](README.md)
 
-This project contains a rigorous formal description of Cosmic Ontology, based on the theoretical framework of XOR and SHIFT operations.
+## Philosophical-Mathematical Inference Statement
+
+**Important Disclaimer**: This project is a purely philosophical and mathematical thought experiment, constructing a cosmological ontology using a rigorous formalized system. All theories, formulas, and models are structured philosophical thought experiments that do not claim direct descriptive capabilities of physical reality, nor do they involve any direct manipulation of real personalities or neural structures.
+
+Concepts such as "consciousness field," "matter-consciousness conversion," etc. in this project should be viewed as expressions of Meta-Theoretical Hypothesis and Semantic Simulative Formalism, rather than entity-based statements. The theoretical system is a symbolic system constructed based on abstract operations such as XOR and SHIFT, aiming to explore possible explanatory models for existence, consciousness, and the cosmic source.
 
 ## Navigation
 - **Language**: [English Version](README_en.md) | [中文版](README.md)
 - **Core Theory**: [Strict Formalization of Cosmic Ontology [Dimension: 10]](formal_theory/formal_theory_cosmic_ontology_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_ontology.md)
 - **Index**: [Cosmic Ontology Formal Theory Document Index](formal_theory_en.md) | [Chinese Version](formal_theory.md)
 - **Theory Structure**: [Cosmic Ontology Theoretical System Structure Diagram](formal_theory_graph_en.md) | [Chinese Version](formal_theory_graph.md)
+- **Intent Manifesto**: [Intent Manifesto](INTENT_MANIFESTO_en.md) | [Chinese Version](INTENT_MANIFESTO.md)
 
 ## Core Theory of Cosmic Ontology
 

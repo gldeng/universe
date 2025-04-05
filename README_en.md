@@ -153,10 +153,22 @@ The Cosmic Ontology framework has resolved multiple major scientific problems, w
 - **Formal Rigor**: Employs strict mathematical formalization, providing complete proofs
 - **Verifiability**: Provides clear verification methods and predictions
 - **Dimensional Completeness**: Forms a coherent and complete theoretical spectrum from foundational to ultra-high dimensions
+- **Theory Classification and Indexing**: Each theory contains precise discipline classification, key index terms, and theoretical spectrum relationships
+- **Complexity Quantitative Assessment**: Theory evaluation through formalized axiom complexity, abstract concept hierarchy, and formalization rigor
+- **Evolution Trajectory Analysis**: Each theory provides predictions of its development history, current stability, and future evolution direction
 
 ## Version Information
 
-Current Version: v36.0
+Current Version: v37.0
+
+### Version 37.0 Updates
+
+1. Added "Philosophical-Mathematical Inference Statement" to clearly state the thought experiment nature of the project
+2. Created "Intent Manifesto" to clarify the project's purpose and goals
+3. Added theory classification and indexing, theory complexity assessment, and theory evolution trajectory analysis sections to each theory document
+4. Added dedicated structural philosophical explanations for high-dimensional consciousness theories to avoid concept misinterpretation
+5. Improved document title formatting with discipline codes and relationship symbols system
+6. Optimized theory dimensional notation to ensure consistency with the dimensional notation methodology
 
 ## Contribution
 

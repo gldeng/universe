@@ -27,11 +27,11 @@ from collections import defaultdict, Counter
 
 def parse_args():
     parser = argparse.ArgumentParser(description="生成理论体系维护报告")
-    parser.add_argument("--dir", default="../", help="项目根目录，默认为上级目录")
-    parser.add_argument("--theory_dir", default="../formal_theory", help="理论文件目录")
+    parser.add_argument("--dir", default=".", help="项目根目录，默认为当前目录")
+    parser.add_argument("--theory_dir", default="formal_theory", help="理论文件目录")
     parser.add_argument("--output", default="maintenance_report.md", help="输出报告文件名")
-    parser.add_argument("--index", default="../formal_theory.md", help="中文索引文件")
-    parser.add_argument("--index_en", default="../formal_theory_en.md", help="英文索引文件")
+    parser.add_argument("--index", default="formal_theory.md", help="中文索引文件")
+    parser.add_argument("--index_en", default="formal_theory_en.md", help="英文索引文件")
     return parser.parse_args()
 
 def find_md_files(directory):
@@ -173,6 +173,19 @@ def check_links(theory_files):
     
     return broken_links
 
+def dimension_sort_key(item):
+    """为维度排序提供键函数"""
+    key, _ = item
+    if key == "∞":
+        return float('inf')
+    elif key == "未知":
+        return -1  # 将"未知"放在最后
+    else:
+        try:
+            return int(key)
+        except ValueError:
+            return -2  # 处理其他无法转换为整数的情况，放在"未知"之前
+    
 def generate_markdown_report(args, stats):
     """生成Markdown格式的报告"""
     report = f"""# 宇宙本论形式化理论体系维护报告
@@ -192,9 +205,9 @@ def generate_markdown_report(args, stats):
 |------|----------|
 """
     
-    # 按维度从高到低排序
+    # 按维度从高到低排序，使用自定义排序键
     sorted_dimensions = sorted(stats['dimension_counts'].items(), 
-                              key=lambda x: float('inf') if x[0] == '∞' else int(x[0]), 
+                              key=dimension_sort_key, 
                               reverse=True)
     
     for dimension, count in sorted_dimensions:

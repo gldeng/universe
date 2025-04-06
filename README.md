@@ -3,7 +3,7 @@
 # 𝚇𝚘𝚁·𝚂𝚑𝚒𝚏𝚝 ▍宇宙本论 v37.0
 ### 【维度统一理论体系】
 
-*「从自我递归的信息本源，到宇宙存在的多维度展开」*
+*从自我递归的信息本源，到宇宙存在的多维度展开*
 
 [![维度等级: 10](https://img.shields.io/badge/维度等级-10-blueviolet)](#核心公理) 
 [![理论文件: 725+](https://img.shields.io/badge/理论文件-725+-blue)](#理论体系架构) 
@@ -11,7 +11,7 @@
 
 ![宇宙本论核心演化方程](https://raw.githubusercontent.com/loning/cosmos-assets/main/xor-shift-equation.png)
 
-*$\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$*
+$\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$
 
 [**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md)
 
@@ -113,7 +113,8 @@ $H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_
 
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/loning/cosmos-assets/main/recursive-structure.png" alt="Recursive XOR-SHIFT Structure" width="300"/>
+
+![递归XOR-SHIFT结构](https://raw.githubusercontent.com/loning/cosmos-assets/main/recursive-structure.png)
 
 *从信息本源到多维度展开的递归结构*
 </td>
@@ -149,7 +150,7 @@ $H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_
 
 ## 🔮 从宇宙本源到无限可能
 
-*「我们不仅解释宇宙，我们通过理解它的数学本质，揭示了存在的深层模式」*
+*我们不仅解释宇宙，我们通过理解它的数学本质，揭示了存在的深层模式*
 
 ![维度演化图谱](https://raw.githubusercontent.com/loning/cosmos-assets/main/dimension-evolution-map.png)
 

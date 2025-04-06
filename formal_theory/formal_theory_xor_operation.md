@@ -1,4 +1,4 @@
-# XOR操作的严格形式化描述 [维度: 2] v36.0
+# XOR操作的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_xor_operation_en.md)**
 

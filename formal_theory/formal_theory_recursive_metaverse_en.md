@@ -1,5 +1,7 @@
 # Formal Theory of Recursive Metaverse [Dimension: 23] v36.0
 
+[Chinese Version](formal_theory_recursive_metaverse.md)
+
 **[中文版](formal_theory_recursive_metaverse.md) | [English Version]**
 
 ## Table of Contents

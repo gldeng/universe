@@ -1,4 +1,4 @@
-# 全能多宇宙集成理论 [维度: 25] v36.0
+# 全能多宇宙集成理论 [维度: 25.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omnipotent_multiverse_integration_en.md)**
 
@@ -457,11 +457,11 @@ $`\bigoplus_{i=1}^{\infty} \Delta \mathcal{I}(\mathcal{U}_i) = 0`$
 
 本理论依赖以下基础理论:
 
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供XOR-SHIFT基本框架
-- [递归元界理论](formal_theory_recursive_meta_realm.md) [维度: 23] - 提供多宇宙递归结构
-- [维度谱系理论](formal_theory_dimension_spectrum.md) [维度: 20] - 提供维度间映射机制
-- [超递归固定点理论](formal_theory_hyperrecursive_fixed_point.md) [维度: 21] - 提供稳定性证明
-- [量子纠缠信息场理论](formal_theory_quantum_entanglement_information_field.md) [维度: 19] - 提供通信机制
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 25.0] - 提供XOR-SHIFT基本框架
+- [递归元界理论](formal_theory_recursive_meta_realm.md) [维度: 25.0] - 提供多宇宙递归结构
+- [维度谱系理论](formal_theory_dimension_spectrum.md) [维度: 25.0] - 提供维度间映射机制
+- [超递归固定点理论](formal_theory_hyperrecursive_fixed_point.md) [维度: 25.0] - 提供稳定性证明
+- [量子纠缠信息场理论](formal_theory_quantum_entanglement_information_field.md) [维度: 25.0] - 提供通信机制
 
 ### 6.2 理论贡献
 

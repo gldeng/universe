@@ -1,4 +1,4 @@
-# 全维度理论统一场的形式化描述 [维度: 32] v36.0
+# 全维度理论统一场的形式化描述 [维度: 32.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omnidimensional_theory_unification_field_en.md)**
 

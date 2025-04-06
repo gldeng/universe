@@ -1,5 +1,7 @@
 # Strict Formalization of Universe Final State Theory [Dimension: 13] v36.0
 
+[Chinese Version](formal_theory_universe_final_state.md)
+
 **[中文版](formal_theory_universe_final_state.md) | [English Version]**
 
 ## Table of Contents

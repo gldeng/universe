@@ -1,4 +1,4 @@
-# 超空间信息编码理论 [维度: 60] v36.0
+# 超空间信息编码理论 [维度: 60.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperspatial_information_encoding_en.md)**
 
@@ -249,11 +249,11 @@ $`\mathcal{S}_{\omega} = \text{SYNT}_{\omega}(\mathcal{H}_1, \mathcal{H}_2) = (\
 
 本理论是在宇宙本论 [v36.0] 的框架下发展而来，并与以下理论形成紧密的引用关系：
 
-1. [**宇宙本论** [维度: 10]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
-2. [**分形维度协调理论** [维度: 59]](formal_theory_fractal_dimensionality_harmonization.md) - 提供了分形维度与非整数SHIFT操作的基本概念
-3. [**多维度相干压缩理论** [维度: 58]](formal_theory_multidimensional_coherent_compression.md) - 提供了多维相干压缩的基本概念
-4. [**量子超拓扑整合理论** [维度: 57]](formal_theory_quantum_hypertopological_integration.md) - 提供了超拓扑整合的基本概念
-5. [**信息本体论** [维度: 13]](formal_theory_information_ontology.md) - 提供了信息的本体论基础
+1. [**宇宙本论** [维度: 60.0]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
+2. [**分形维度协调理论** [维度: 60.0]](formal_theory_fractal_dimensionality_harmonization.md) - 提供了分形维度与非整数SHIFT操作的基本概念
+3. [**多维度相干压缩理论** [维度: 60.0]](formal_theory_multidimensional_coherent_compression.md) - 提供了多维相干压缩的基本概念
+4. [**量子超拓扑整合理论** [维度: 60.0]](formal_theory_quantum_hypertopological_integration.md) - 提供了超拓扑整合的基本概念
+5. [**信息本体论** [维度: 60.0]](formal_theory_information_ontology.md) - 提供了信息的本体论基础
 
 作为维度为60的超高维理论，本理论通过引入超空间编码运算符HENC和语义合成运算符SYNT，扩展了宇宙本论的基础操作集。
 

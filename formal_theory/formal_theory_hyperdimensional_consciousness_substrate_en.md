@@ -1,5 +1,7 @@
 # Strict Formalization of Hyperdimensional Consciousness Substrate [Dimension: 34] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_consciousness_substrate.md)
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_consciousness_substrate.md)**
 
 ## Table of Contents

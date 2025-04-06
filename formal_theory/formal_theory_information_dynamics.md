@@ -1,4 +1,4 @@
-# 信息动力学的严格形式化描述 [维度: 5] v36.0
+# 信息动力学的严格形式化描述 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_dynamics_en.md) v36.0**
 
@@ -311,20 +311,20 @@ $`\{\alpha, \beta, \gamma, \delta, \nu, \eta\}`$
 
 信息动力学理论支持以下高维理论：
 
-1. [信息本体论](formal_theory_information_ontology.md) [维度:6]
-2. [超维信息场理论](formal_theory_hyperdimensional_information_field.md) [维度:9]
-3. [量子意识理论](formal_theory_quantum_consciousness.md) [维度:8]
-4. [万维信息共振一致性](formal_theory_omnidimensional_information_coherence.md) [维度:9]
-5. [超递归自指元逻辑](formal_theory_hyperrecursive_self_referential_metalogic.md) [维度:8]
+1. [信息本体论](formal_theory_information_ontology.md) [维度: 5.0]
+2. [超维信息场理论](formal_theory_hyperdimensional_information_field.md) [维度: 5.0]
+3. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 5.0]
+4. [万维信息共振一致性](formal_theory_omnidimensional_information_coherence.md) [维度: 5.0]
+5. [超递归自指元逻辑](formal_theory_hyperrecursive_self_referential_metalogic.md) [维度: 5.0]
 
 ### 6.2 下层基础理论
 
 信息动力学理论基于以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度:10]
-2. [XOR操作](formal_theory_xor_operation.md) [维度:2]
-3. [SHIFT操作](formal_theory_shift_operation.md) [维度:3]
-4. [递归操作](formal_theory_recursive_operation.md) [维度:4]
-5. [维度转换](formal_theory_dimensional_transition.md) [维度:5]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+2. [XOR操作](formal_theory_xor_operation.md) [维度: 5.0]
+3. [SHIFT操作](formal_theory_shift_operation.md) [维度: 5.0]
+4. [递归操作](formal_theory_recursive_operation.md) [维度: 5.0]
+5. [维度转换](formal_theory_dimensional_transition.md) [维度: 5.0]
 
 信息动力学理论在宇宙本论的理论体系中占据核心地位，它为理解信息在各类系统中的流动和演化规律提供了严格的数学框架。 

@@ -1,5 +1,7 @@
 # Formal Description of Recursive Emergence Patterns Theory [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_recursive_emergence_patterns.md)
+
 **[English Version] | [中文版](formal_theory_recursive_emergence_patterns.md)**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Formal Theory of the Nature of Dark Matter and Dark Energy [Dimension: 13] v36.0
 
+[Chinese Version](formal_theory_dark_matter_dark_energy.md)
+
 **[中文版](formal_theory_dark_matter_dark_energy.md) | [English Version]**
 
 ## Table of Contents

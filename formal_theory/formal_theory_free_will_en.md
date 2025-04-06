@@ -1,5 +1,7 @@
 # The Formal Description of the Existence of Free Will [Dimension: 17] v36.0
 
+[Chinese Version](formal_theory_free_will.md)
+
 **[中文版](formal_theory_free_will.md) | [English Version]**
 
 ## Table of Contents

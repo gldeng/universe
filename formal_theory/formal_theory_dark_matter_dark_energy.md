@@ -1,4 +1,4 @@
-# 暗物质与暗能量本质的严格形式化描述 [维度: 13] v36.0
+# 暗物质与暗能量本质的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dark_matter_dark_energy_en.md)**
 

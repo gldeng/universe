@@ -1,4 +1,4 @@
-# 神秘境界状态动力学的严格形式化描述 [维度: 20] v36.0
+# 神秘境界状态动力学的严格形式化描述 [维度: 20.0] v36.0
 
 **[中文版] | [English Version](formal_theory_mystical_state_dynamics_en.md)**
 
@@ -553,27 +553,27 @@ $`\mathcal{I}(\omega, t) = \mathcal{I}_0 \cdot (1 - e^{-\delta \cdot t}) \cdot |
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+1. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 20.0]
    - 提供精神场基础
    - 借用精神超验状态概念
 
-2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 20.0]
    - 提供宗教场框架
    - 借用神圣体验形式化
 
-3. **[卡尔马因果网络](formal_theory_karma_causal_network.md)** [维度: 18]
+3. **[卡尔马因果网络](formal_theory_karma_causal_network.md)** [维度: 20.0]
    - 提供因果超越机制
    - 借用超验状态稳定性模型
 
-4. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 24]
+4. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 20.0]
    - 提供意识网络架构
    - 借用网络动力学机制
 
-5. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+5. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 20.0]
    - 提供量子意识基础
    - 借用量子叠加和纠缠概念
 
-6. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+6. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 20.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

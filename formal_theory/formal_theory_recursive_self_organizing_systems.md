@@ -1,4 +1,4 @@
-# 递归自组织系统理论的严格形式化描述 [维度: 9] v36.0
+# 递归自组织系统理论的严格形式化描述 [维度: 9.0] v36.0
 
 **[中文版] | [English Version](formal_theory_recursive_self_organizing_systems_en.md)**
 
@@ -670,10 +670,10 @@ $`R_{CV} = 1 - \frac{MSE_{test}}{MSE_{train}}`$
 
 本理论建立在以下理论基础之上：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供基本XOR-SHIFT操作框架和维度谱系
-2. [复杂适应系统](formal_theory_complex_adaptive_systems.md) [维度: 7] - 提供复杂系统的适应性动力学
-3. [超维度信息涌现理论](formal_theory_hyperdimensional_information_emergence.md) [维度: 12] - 提供高维信息处理和涌现机制
-4. [量子认知计算理论](formal_theory_quantum_cognitive_computation.md) [维度: 11] - 提供认知系统的量子处理模型
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 9.0] - 提供基本XOR-SHIFT操作框架和维度谱系
+2. [复杂适应系统](formal_theory_complex_adaptive_systems.md) [维度: 9.0] - 提供复杂系统的适应性动力学
+3. [超维度信息涌现理论](formal_theory_hyperdimensional_information_emergence.md) [维度: 9.0] - 提供高维信息处理和涌现机制
+4. [量子认知计算理论](formal_theory_quantum_cognitive_computation.md) [维度: 9.0] - 提供认知系统的量子处理模型
 
 ### 6.2 理论扩展方向
 

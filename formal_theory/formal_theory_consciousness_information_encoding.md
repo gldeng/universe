@@ -1,4 +1,4 @@
-# 意识信息编码理论的严格形式化描述 [维度: 6] v36.0
+# 意识信息编码理论的严格形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_information_encoding_en.md)**
 
@@ -263,19 +263,19 @@ $`E_E(\Psi_E) = \frac{|\Psi_E \oplus \text{SHIFT}(\Psi_E)|}{|\Psi_E|}`$
 
 意识信息编码理论支持以下高维理论：
 
-1. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 8]
-2. [神经量子场论](formal_theory_neural_quantum_field.md) [维度: 7]
+1. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 6.0]
+2. [神经量子场论](formal_theory_neural_quantum_field.md) [维度: 6.0]
 
 ### 5.2 下层基础理论
 
 意识信息编码理论基于以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [信息本体论](formal_theory_information_ontology.md) [维度: 6]
-3. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度: 5]
-4. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 3]
-5. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 2]
-6. [意识单元理论](formal_theory_consciousness_unit.md) [维度: 1]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+2. [信息本体论](formal_theory_information_ontology.md) [维度: 6.0]
+3. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度: 6.0]
+4. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 6.0]
+5. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 6.0]
+6. [意识单元理论](formal_theory_consciousness_unit.md) [维度: 6.0]
 
 ## 6. 理论复杂度与演化分析
 

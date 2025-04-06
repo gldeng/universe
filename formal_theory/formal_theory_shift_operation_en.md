@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Operation [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_shift_operation.md)
+
 **[中文版](formal_theory_shift_operation.md) | [English Version]**
 
 ## Table of Contents

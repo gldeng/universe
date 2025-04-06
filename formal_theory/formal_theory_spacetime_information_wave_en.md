@@ -1,5 +1,7 @@
 # Formal Theory of Spacetime Information Wave [Dimension: 26] v36.0
 
+[Chinese Version](formal_theory_spacetime_information_wave.md)
+
 **[中文版](formal_theory_spacetime_information_wave.md) | [English Version]**
 
 ## Table of Contents

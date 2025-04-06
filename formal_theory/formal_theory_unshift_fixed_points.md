@@ -1,4 +1,4 @@
-# UNSHIFT不变点理论 [维度: 1] v36.0
+# UNSHIFT不变点理论 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_fixed_points_en.md)**
 
@@ -183,10 +183,10 @@ $`\text{Auth}(k, m) = \{m, k \oplus m, \text{UNSHIFT}(k) \oplus m\}`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
-- [UNSHIFT周期性结构理论](formal_theory_unshift_periodic_structure.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1.0]
+- [UNSHIFT周期性结构理论](formal_theory_unshift_periodic_structure.md) [维度: 1.0]
 
 本理论被以下理论引用：
-- [UNSHIFT量子叠加理论](formal_theory_unshift_quantum_superposition.md) [维度: 3]
-- [UNSHIFT稳定态理论](formal_theory_unshift_stable_states.md) [维度: 2] 
+- [UNSHIFT量子叠加理论](formal_theory_unshift_quantum_superposition.md) [维度: 1.0]
+- [UNSHIFT稳定态理论](formal_theory_unshift_stable_states.md) [维度: 1.0] 

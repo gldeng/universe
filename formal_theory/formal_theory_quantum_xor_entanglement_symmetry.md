@@ -1,4 +1,4 @@
-# 量子XOR纠缠对称性理论 [维度: 5] v36.0
+# 量子XOR纠缠对称性理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_xor_entanglement_symmetry_en.md)**
 
@@ -206,11 +206,11 @@ $`\text{Swap}_{i,j,k} = E_{\text{XOR}}(\psi_i, \psi_j) \oplus E_{\text{XOR}}(\ps
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子不确定性互补性理论](formal_theory_quantum_uncertainty_complementarity.md) [维度: 4]
-- [多方向量子经典映射理论](formal_theory_multi_directional_quantum_classical_mapping.md) [维度: 4]
-- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 4]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [量子不确定性互补性理论](formal_theory_quantum_uncertainty_complementarity.md) [维度: 5.0]
+- [多方向量子经典映射理论](formal_theory_multi_directional_quantum_classical_mapping.md) [维度: 5.0]
+- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [量子纠缠网络拓扑理论](formal_theory_quantum_entanglement_network_topology.md) [维度: 6]
-- [多体量子信息传递理论](formal_theory_multi_body_quantum_information_transfer.md) [维度: 6] 
+- [量子纠缠网络拓扑理论](formal_theory_quantum_entanglement_network_topology.md) [维度: 5.0]
+- [多体量子信息传递理论](formal_theory_multi_body_quantum_information_transfer.md) [维度: 5.0] 

@@ -1,4 +1,4 @@
-# 社会系统动力学的严格形式化描述 [维度: 20] v36.0
+# 社会系统动力学的严格形式化描述 [维度: 20.0] v36.0
 
 **[中文版] | [English Version](formal_theory_social_system_dynamics_en.md)**
 
@@ -488,17 +488,17 @@ $`\mathcal{T}_{recovery}(\delta) = \min\{t | |\mathcal{S}_{sys}^t \oplus \mathca
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [经济学基础 [维度: 19]](formal_theory_economics_foundation.md)
-3. [认知心理学 [维度: 18]](formal_theory_cognitive_psychology.md)
+1. [宇宙本论 [维度: 20.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [经济学基础 [维度: 20.0]](formal_theory_economics_foundation.md)
+3. [认知心理学 [维度: 20.0]](formal_theory_cognitive_psychology.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D20（第20维度）
-- 下层关联理论：[经济学基础 [维度: 19]](formal_theory_economics_foundation.md)
-- 平行关联理论：[宇宙维度理论 [维度: 20]](formal_theory_cosmic_dimension.md)
+- 下层关联理论：[经济学基础 [维度: 20.0]](formal_theory_economics_foundation.md)
+- 平行关联理论：[宇宙维度理论 [维度: 20.0]](formal_theory_cosmic_dimension.md)
 
 ---
 

@@ -1,5 +1,7 @@
 # Formal Theory of Absolute Unified Cosmic Field [Dimension: 59] v36.0
 
+[Chinese Version](formal_theory_absolute_unified_cosmic_field.md)
+
 **[中文版](formal_theory_absolute_unified_cosmic_field.md) | [English Version]**
 
 ## Table of Contents

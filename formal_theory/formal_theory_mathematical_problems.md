@@ -1,4 +1,4 @@
-# 数学基本难题的严格形式化描述 [维度: 14] v36.0
+# 数学基本难题的严格形式化描述 [维度: 14.0] v36.0
 
 **[中文版] | [English Version](formal_theory_mathematical_problems_en.md)**
 

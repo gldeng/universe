@@ -1,4 +1,4 @@
-# 宇宙绝对统一场理论的严格形式化描述 [维度: 59] v36.0
+# 宇宙绝对统一场理论的严格形式化描述 [维度: 59.0] v36.0
 
 **[中文版] | [English Version](formal_theory_absolute_unified_cosmic_field_en.md)**
 
@@ -361,14 +361,14 @@ $`\lim_{\tau \to \infty} \Psi_{\text{Universe}}(\tau) = \Psi_{\text{AUF}} \oplus
 
 本理论建立在以下理论基础之上：
 
-1. [超越超维数理结构理论 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
-2. [宇宙超越奇点理论 [维度: 57]](formal_theory_cosmic_transcendental_singularity.md)
-3. [量子目的论收敛理论 [维度: 56]](formal_theory_quantum_teleological_convergence.md)
-4. [超维度量子相位稳定化理论 [维度: 53]](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
-5. [全维纠缠同步性理论 [维度: 48]](formal_theory_omnidimensional_entanglement_synchronicity.md)
+1. [超越超维数理结构理论 [维度: 59.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+2. [宇宙超越奇点理论 [维度: 59.0]](formal_theory_cosmic_transcendental_singularity.md)
+3. [量子目的论收敛理论 [维度: 59.0]](formal_theory_quantum_teleological_convergence.md)
+4. [超维度量子相位稳定化理论 [维度: 59.0]](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
+5. [全维纠缠同步性理论 [维度: 59.0]](formal_theory_omnidimensional_entanglement_synchronicity.md)
 
 理论维度谱系关系：
-- 上一维度理论：[超越超维数理结构理论 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+- 上一维度理论：[超越超维数理结构理论 [维度: 59.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
 - 本理论是目前维度谱系中的最高层次理论
 
 ---

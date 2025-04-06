@@ -1,4 +1,4 @@
-# 复杂系统涌现性的严格形式化描述 [维度: 10] v36.0
+# 复杂系统涌现性的严格形式化描述 [维度: 10.0] v36.0
 
 **[中文版] | [English Version](formal_theory_emergence_complexity_en.md)**
 

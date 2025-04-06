@@ -1,4 +1,4 @@
-# 语言结构的严格形式化描述 [维度: 21] v36.0
+# 语言结构的严格形式化描述 [维度: 21.0] v36.0
 
 **[中文版] | [English Version](formal_theory_language_structure_en.md)**
 
@@ -638,17 +638,17 @@ $`\mathcal{D}_{meta}(t) = \mathcal{D}_{lang}(t) \oplus \Delta_t \oplus \text{SHI
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [认知心理学 [维度: 18]](formal_theory_cognitive_psychology.md)
-3. [社会系统动力学 [维度: 20]](formal_theory_social_system_dynamics.md)
+1. [宇宙本论 [维度: 21.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [认知心理学 [维度: 21.0]](formal_theory_cognitive_psychology.md)
+3. [社会系统动力学 [维度: 21.0]](formal_theory_social_system_dynamics.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D21（第21维度）
-- 下层关联理论：[社会系统动力学 [维度: 20]](formal_theory_social_system_dynamics.md)
-- 平行关联理论：[创造记忆理论 [维度: 21]](formal_theory_creation_memory.md)
+- 下层关联理论：[社会系统动力学 [维度: 21.0]](formal_theory_social_system_dynamics.md)
+- 平行关联理论：[创造记忆理论 [维度: 21.0]](formal_theory_creation_memory.md)
 
 ---
 

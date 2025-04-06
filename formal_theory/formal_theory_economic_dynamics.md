@@ -1,4 +1,4 @@
-# 经济动态系统的形式化理论 [维度: 6] v36.0
+# 经济动态系统的形式化理论 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_economic_dynamics_en.md)**
 
@@ -351,17 +351,17 @@ $`= \Delta I \cdot k`$
 经济动态系统理论在维度谱系中处于维度6，其与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [信息本体论 [维度: 5]](formal_theory_information_ontology.md)
-  - [社会系统动力学 [维度: 6]](formal_theory_social_system_dynamics.md)
+  - [宇宙本论 [维度: 6.0]](formal_theory_cosmic_ontology.md)
+  - [信息本体论 [维度: 6.0]](formal_theory_information_ontology.md)
+  - [社会系统动力学 [维度: 6.0]](formal_theory_social_system_dynamics.md)
 
 - **同级关联理论**：
-  - [教育动态系统 [维度: 6]](formal_theory_education_dynamics.md)
-  - [医学系统 [维度: 6]](formal_theory_medical_systems.md)
+  - [教育动态系统 [维度: 6.0]](formal_theory_education_dynamics.md)
+  - [医学系统 [维度: 6.0]](formal_theory_medical_systems.md)
 
 - **衍生扩展理论**：
-  - [经济学基础 [维度: 7]](formal_theory_economics_foundation.md)
-  - [人类经典维度极限 [维度: 7]](formal_theory_human_classical_dimension_limit.md)
+  - [经济学基础 [维度: 6.0]](formal_theory_economics_foundation.md)
+  - [人类经典维度极限 [维度: 6.0]](formal_theory_human_classical_dimension_limit.md)
 
 ### 6.2 理论引用网络结构
 

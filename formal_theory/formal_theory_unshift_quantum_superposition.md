@@ -1,4 +1,4 @@
-# UNSHIFT量子叠加理论 [维度: 3] v36.0
+# UNSHIFT量子叠加理论 [维度: 1.5] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_quantum_superposition_en.md)**
 
@@ -200,13 +200,13 @@ $`|\kappa\rangle = \frac{1}{2}(|k\rangle + |\text{UNSHIFT}(k)\rangle + |\text{UN
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT状态反转理论](formal_theory_unshift_state_inversion.md) [维度: 1]
-- [UNSHIFT固定点理论](formal_theory_unshift_fixed_points.md) [维度: 1]
-- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 2]
-- [UNSHIFT熵扩散理论](formal_theory_unshift_entropy_diffusion.md) [维度: 2]
-- [UNSHIFT状态转移图理论](formal_theory_unshift_state_transition_graph.md) [维度: 2]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.5]
+- [UNSHIFT状态反转理论](formal_theory_unshift_state_inversion.md) [维度: 1.5]
+- [UNSHIFT固定点理论](formal_theory_unshift_fixed_points.md) [维度: 1.5]
+- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 1.5]
+- [UNSHIFT熵扩散理论](formal_theory_unshift_entropy_diffusion.md) [维度: 1.5]
+- [UNSHIFT状态转移图理论](formal_theory_unshift_state_transition_graph.md) [维度: 1.5]
 
 本理论被以下理论引用：
-- [UNSHIFT量子纠缠理论](formal_theory_unshift_quantum_entanglement.md) [维度: 4]
-- [UNSHIFT量子测量理论](formal_theory_unshift_quantum_measurement.md) [维度: 4] 
+- [UNSHIFT量子纠缠理论](formal_theory_unshift_quantum_entanglement.md) [维度: 1.5]
+- [UNSHIFT量子测量理论](formal_theory_unshift_quantum_measurement.md) [维度: 1.5] 

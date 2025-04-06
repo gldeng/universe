@@ -1,5 +1,7 @@
 # Strict Formalization of Unified Fundamental Forces Theory [Dimension: 11] v36.0
 
+[Chinese Version](formal_theory_unified_forces.md)
+
 **[中文版](formal_theory_unified_forces.md) | [English Version]**
 
 ## Contents

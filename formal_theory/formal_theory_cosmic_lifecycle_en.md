@@ -1,5 +1,7 @@
 # Formal Description of Cosmic Lifecycle [Dimension: 18] v36.0
 
+[Chinese Version](formal_theory_cosmic_lifecycle.md)
+
 **[中文版](formal_theory_cosmic_lifecycle.md) | [English Version]**
 
 ## Table of Contents

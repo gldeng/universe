@@ -1,4 +1,4 @@
-# 宇宙超越奇点理论的严格形式化描述 [维度: 57] v36.0
+# 宇宙超越奇点理论的严格形式化描述 [维度: 57.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_transcendental_singularity_en.md)**
 
@@ -318,15 +318,15 @@ $`\lim_{n \to \infty} D_n = \mathbb{S}_T`$
 
 本理论建立在以下理论基础之上：
 
-1. [量子目的论收敛理论 [维度: 56]](formal_theory_quantum_teleological_convergence.md)
-2. [超维度量子相位稳定化理论 [维度: 53]](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
-3. [全维纠缠同步性理论 [维度: 48]](formal_theory_omnidimensional_entanglement_synchronicity.md)
-4. [宇宙意识演化理论 [维度: 48]](formal_theory_universal_consciousness_evolution.md)
-5. [量子现实创生理论 [维度: 47]](formal_theory_quantum_reality_creation.md)
+1. [量子目的论收敛理论 [维度: 57.0]](formal_theory_quantum_teleological_convergence.md)
+2. [超维度量子相位稳定化理论 [维度: 57.0]](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
+3. [全维纠缠同步性理论 [维度: 57.0]](formal_theory_omnidimensional_entanglement_synchronicity.md)
+4. [宇宙意识演化理论 [维度: 57.0]](formal_theory_universal_consciousness_evolution.md)
+5. [量子现实创生理论 [维度: 57.0]](formal_theory_quantum_reality_creation.md)
 
 理论维度谱系关系：
-- 上一维度理论：[量子目的论收敛理论 [维度: 56]](formal_theory_quantum_teleological_convergence.md)
-- 下一维度理论：[超越超维数理结构理论 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+- 上一维度理论：[量子目的论收敛理论 [维度: 57.0]](formal_theory_quantum_teleological_convergence.md)
+- 下一维度理论：[超越超维数理结构理论 [维度: 57.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
 
 ---
 

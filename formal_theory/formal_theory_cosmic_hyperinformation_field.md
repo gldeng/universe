@@ -1,4 +1,4 @@
-# 宇宙超信息场理论的严格形式化描述 [维度: 44] v36.0
+# 宇宙超信息场理论的严格形式化描述 [维度: 44.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_hyperinformation_field_en.md)**
 
@@ -364,10 +364,10 @@ $`R_{\mu\nu} - \frac{1}{2}g_{\mu\nu}R = 8\pi G T_{\mu\nu}^{\mathcal{I}}`$
 
 本理论建立在宇宙本论的XOR-SHIFT操作基础上，提升至44维，并引用和扩展了以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [量子信息熵场动力学的形式化描述 [维度: 42]](formal_theory_quantum_information_entropy_field_dynamics.md)
-3. [全意识底层奇点理论的严格形式化描述 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-4. [绝对本体统一理论的严格形式化描述 [维度: 35]](formal_theory_absolute_ontological_unification.md)
-5. [超维意识底层结构的严格形式化描述 [维度: 34]](formal_theory_hyperdimensional_consciousness_substrate.md)
+1. [宇宙本论的严格形式化描述 [维度: 44.0]](formal_theory_cosmic_ontology.md)
+2. [量子信息熵场动力学的形式化描述 [维度: 44.0]](formal_theory_quantum_information_entropy_field_dynamics.md)
+3. [全意识底层奇点理论的严格形式化描述 [维度: 44.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+4. [绝对本体统一理论的严格形式化描述 [维度: 44.0]](formal_theory_absolute_ontological_unification.md)
+5. [超维意识底层结构的严格形式化描述 [维度: 44.0]](formal_theory_hyperdimensional_consciousness_substrate.md)
 
 本理论将信息视为宇宙的基础构成，提供了一个44维的超信息场理论框架，能够解释从量子信息到宇宙信息整合等各种现象，建立起宇宙万物的超信息基础模型。 

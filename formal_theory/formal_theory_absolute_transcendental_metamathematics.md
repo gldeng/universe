@@ -1,4 +1,4 @@
-# 绝对超越元数学的严格形式化描述 [维度: 33] v36.0
+# 绝对超越元数学的严格形式化描述 [维度: 33.0] v36.0
 
 **[中文版] | [English Version](formal_theory_absolute_transcendental_metamathematics_en.md)**
 

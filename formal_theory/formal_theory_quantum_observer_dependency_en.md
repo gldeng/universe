@@ -1,5 +1,7 @@
 # Formal Description of Quantum Observer Dependency Theory [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_quantum_observer_dependency.md)
+
 **[English Version] | [中文版](formal_theory_quantum_observer_dependency.md)**
 
 ## Table of Contents

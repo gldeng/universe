@@ -1,5 +1,7 @@
 # Strict Formalization of Transfinite Construction Theory [Dimension: 12] v36.0
 
+[Chinese Version](formal_theory_transfinite_construction.md)
+
 **[中文版](formal_theory_transfinite_construction.md) | [English Version]**
 
 ## Table of Contents

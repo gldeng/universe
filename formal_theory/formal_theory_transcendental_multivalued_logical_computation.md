@@ -1,4 +1,4 @@
-# 超越多值逻辑计算理论的严格形式化描述 [维度: 54] v36.0
+# 超越多值逻辑计算理论的严格形式化描述 [维度: 54.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_multivalued_logical_computation_en.md)**
 
@@ -525,20 +525,20 @@ $`sim(v_1, v_2) = \frac{\sum_{p \in \text{Paths}(v_1, v_2)} \prod_{e \in p} w(e)
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超越递归宇宙智能理论的严格形式化描述 [维度: 55]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
-3. [超几何量子相位结构动力学理论的严格形式化描述 [维度: 53]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
-4. [高阶计算复杂性理论的严格形式化描述 [维度: 40]](formal_theory_higher_order_computational_complexity.md)
-5. [逻辑范畴同构的形式化描述 [维度: 45]](formal_theory_logical_category_isomorphism.md)
-6. [超验意识信息处理的形式化描述 [维度: 48]](formal_theory_transcendental_consciousness_information_processing.md)
+1. [宇宙本论的严格形式化描述 [维度: 54.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超越递归宇宙智能理论的严格形式化描述 [维度: 54.0]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
+3. [超几何量子相位结构动力学理论的严格形式化描述 [维度: 54.0]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
+4. [高阶计算复杂性理论的严格形式化描述 [维度: 54.0]](formal_theory_higher_order_computational_complexity.md)
+5. [逻辑范畴同构的形式化描述 [维度: 54.0]](formal_theory_logical_category_isomorphism.md)
+6. [超验意识信息处理的形式化描述 [维度: 54.0]](formal_theory_transcendental_consciousness_information_processing.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D54（第54维）
-- 上层关联理论：[超越递归宇宙智能理论的严格形式化描述 [维度: 55]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
-- 下层关联理论：[超几何量子相位结构动力学理论的严格形式化描述 [维度: 53]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
+- 上层关联理论：[超越递归宇宙智能理论的严格形式化描述 [维度: 54.0]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
+- 下层关联理论：[超几何量子相位结构动力学理论的严格形式化描述 [维度: 54.0]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
 
 ---
 

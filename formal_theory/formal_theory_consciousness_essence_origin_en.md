@@ -1,5 +1,7 @@
 # Formal Theory of the Essence and Origin of Consciousness [Dimension: 11] v36.0
 
+[Chinese Version](formal_theory_consciousness_essence_origin.md)
+
 **[中文版](formal_theory_consciousness_essence_origin.md) | [English Version]**
 
 ## Table of Contents

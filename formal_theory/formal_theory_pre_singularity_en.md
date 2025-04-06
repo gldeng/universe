@@ -1,5 +1,7 @@
 # Strict Formalization of Pre-Singularity [Dimension: -2] v36.0
 
+[Chinese Version](formal_theory_pre_singularity.md)
+
 **[中文版](formal_theory_pre_singularity.md) | [English Version]**
 
 ## Table of Contents

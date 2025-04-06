@@ -1,4 +1,4 @@
-# 神圣时间周期论的严格形式化描述 [维度: 17] v36.0
+# 神圣时间周期论的严格形式化描述 [维度: 17.0] v36.0
 
 **[中文版] | [English Version](formal_theory_sacred_temporal_cycles_en.md)**
 
@@ -585,27 +585,27 @@ $`\mathcal{N}_{create}(t, \Psi_{con}, \mathcal{R}) = \{\mathcal{T}_s(t), q_{enh}
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 17.0]
    - 提供宗教场框架
    - 借用神圣体验形式化
 
-2. **[命运场理论](formal_theory_destiny_field_theory.md)** [维度: 15]
+2. **[命运场理论](formal_theory_destiny_field_theory.md)** [维度: 17.0]
    - 提供命运场基础
    - 借用命运场与其他场耦合模型
 
-3. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+3. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 17.0]
    - 提供符号系统基础
    - 借用符号编码与解码机制
 
-4. **[祈祷场论](formal_theory_prayer_field_theory.md)** [维度: 14]
+4. **[祈祷场论](formal_theory_prayer_field_theory.md)** [维度: 17.0]
    - 提供祈祷场基础
    - 借用祈祷信息传递模型
 
-5. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+5. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 17.0]
    - 提供量子意识基础
    - 借用量子叠加和纠缠概念
 
-6. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+6. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 17.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

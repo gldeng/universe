@@ -1,4 +1,4 @@
-# 无限态理论的严格形式化描述 [维度: 4] v36.0
+# 无限态理论的严格形式化描述 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_infinity_multiplicity_en.md)**
 
@@ -23,12 +23,12 @@
 无限态理论在理论网络中的位置：
 
 - **依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [XOR操作理论 [维度: 8]](formal_theory_xor_operation.md)
-  - [SHIFT操作理论 [维度: 8]](formal_theory_shift_operation.md)
-  - [反递归理论 [维度: 3]](formal_theory_anti_recursion.md)
+  - [宇宙本论 [维度: 4.0]](formal_theory_cosmic_ontology.md)
+  - [XOR操作理论 [维度: 4.0]](formal_theory_xor_operation.md)
+  - [SHIFT操作理论 [维度: 4.0]](formal_theory_shift_operation.md)
+  - [反递归理论 [维度: 4.0]](formal_theory_anti_recursion.md)
 
 - **被引用理论**：
-  - [奇点理论 [维度: 4]](formal_theory_singularity.md)
-  - [超构造理论 [维度: 12]](formal_theory_transfinite_construction.md)
-  - [宇宙终态理论 [维度: 13]](formal_theory_universe_final_state.md) 
+  - [奇点理论 [维度: 4.0]](formal_theory_singularity.md)
+  - [超构造理论 [维度: 4.0]](formal_theory_transfinite_construction.md)
+  - [宇宙终态理论 [维度: 4.0]](formal_theory_universe_final_state.md) 

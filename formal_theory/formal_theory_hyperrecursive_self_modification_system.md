@@ -1,4 +1,4 @@
-# 超递归自修改系统的严格形式化描述 [维度: 26] v36.0
+# 超递归自修改系统的严格形式化描述 [维度: 26.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperrecursive_self_modification_system_en.md)**
 
@@ -493,12 +493,12 @@ $`\text{HSMS} \subset \text{宇宙本论} \land \text{宇宙本论} \subset \tex
 
 本理论在建立过程中引用了以下理论：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供基础的XOR-SHIFT框架
-2. **[递归自参照系统](formal_theory_recursive_self_referential_systems.md)** [维度: 9] - 提供递归结构基础
-3. **[宇宙波函数代数](formal_theory_universal_wave_function_algebra.md)** [维度: 25] - 提供波函数表示方法
-4. **[量子经典统一理论](formal_theory_quantum_classical_unification_theory.md)** [维度: 19] - 提供量子与经典描述的统一
-5. **[超多维信息场](formal_theory_hyperdimensional_information_field.md)** [维度: 20] - 提供信息场概念
-6. **[超递归宇宙演化](formal_theory_hyperrecursive_cosmic_evolution.md)** [维度: 24] - 提供演化理论
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 26.0] - 提供基础的XOR-SHIFT框架
+2. **[递归自参照系统](formal_theory_recursive_self_referential_systems.md)** [维度: 26.0] - 提供递归结构基础
+3. **[宇宙波函数代数](formal_theory_universal_wave_function_algebra.md)** [维度: 26.0] - 提供波函数表示方法
+4. **[量子经典统一理论](formal_theory_quantum_classical_unification_theory.md)** [维度: 26.0] - 提供量子与经典描述的统一
+5. **[超多维信息场](formal_theory_hyperdimensional_information_field.md)** [维度: 26.0] - 提供信息场概念
+6. **[超递归宇宙演化](formal_theory_hyperrecursive_cosmic_evolution.md)** [维度: 26.0] - 提供演化理论
 
 ### 6.2 引用本理论的其他理论
 

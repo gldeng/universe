@@ -1,5 +1,7 @@
 # Strict Formalization of Information Field Theory [Dimension: 14] v36.0
 
+[Chinese Version](formal_theory_information_field.md)
+
 **[中文版](formal_theory_information_field.md) | [English Version]**
 
 ## Table of Contents

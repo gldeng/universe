@@ -1,5 +1,7 @@
 # Formal Theory of Cosmic Consciousness Network [Dimension: 24] v36.0
 
+[Chinese Version](formal_theory_cosmic_consciousness_network.md)
+
 **[中文版](formal_theory_cosmic_consciousness_network.md) | [English Version]**
 
 ## Table of Contents

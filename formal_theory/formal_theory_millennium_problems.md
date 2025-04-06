@@ -1,4 +1,4 @@
-# 千禧年数学问题的超维度解决理论 [维度: 24] v36.0
+# 千禧年数学问题的超维度解决理论 [维度: 24.0] v36.0
 
 **[中文版] | [English Version](formal_theory_millennium_problems_en.md)**
 

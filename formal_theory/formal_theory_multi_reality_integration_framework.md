@@ -1,4 +1,4 @@
-# 多重现实集成框架的严格形式化描述 [维度: 37] v36.0
+# 多重现实集成框架的严格形式化描述 [维度: 37.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multi_reality_integration_framework_en.md)**
 

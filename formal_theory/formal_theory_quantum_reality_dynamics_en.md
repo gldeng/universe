@@ -1,5 +1,7 @@
 # Formal Theory of Quantum Reality Dynamics [Dimension: 25] v36.0
 
+[Chinese Version](formal_theory_quantum_reality_dynamics.md)
+
 **[中文版](formal_theory_quantum_reality_dynamics.md) | [English Version]**
 
 ## Table of Contents

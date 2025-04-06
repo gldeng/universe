@@ -1,5 +1,7 @@
 # Formal Description of Classical-Quantum Security Protocol [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_classical_quantum_security_protocol.md)
+
 **[中文版](formal_theory_classical_quantum_security_protocol.md) | [English Version]**
 
 ## Table of Contents

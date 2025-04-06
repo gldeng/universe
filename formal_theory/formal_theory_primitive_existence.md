@@ -1,4 +1,4 @@
-# 原始存在理论的严格形式化描述 [维度: 1] v36.0
+# 原始存在理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_primitive_existence_en.md)**
 

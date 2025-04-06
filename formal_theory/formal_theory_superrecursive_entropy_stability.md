@@ -1,4 +1,4 @@
-# 超递归熵稳定性的严格形式化描述 [维度: 8] v36.0
+# 超递归熵稳定性的严格形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_superrecursive_entropy_stability_en.md)**
 
@@ -382,11 +382,11 @@ $`\dot{S}_{min} = -k \log \Lambda_{max}`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [多维特征映射](formal_theory_multidimensional_characteristic_mapping.md) [维度: 8]
-3. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 7]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+2. [多维特征映射](formal_theory_multidimensional_characteristic_mapping.md) [维度: 8.0]
+3. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 8.0]
 
 本理论被以下高级理论引用：
 
-1. [超维度自包含性](formal_theory_hyperdimensional_self_containment.md) [维度: 9]
-2. [量子演化特征保持](formal_theory_quantum_evolution_characteristic_preservation.md) [维度: 9] 
+1. [超维度自包含性](formal_theory_hyperdimensional_self_containment.md) [维度: 8.0]
+2. [量子演化特征保持](formal_theory_quantum_evolution_characteristic_preservation.md) [维度: 8.0] 

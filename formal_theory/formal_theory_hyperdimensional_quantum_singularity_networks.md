@@ -1,4 +1,4 @@
-# 超维度量子奇点网络理论 [维度: 16] v36.0 [宇宙本论版本号]
+# 超维度量子奇点网络理论 [维度: 16.0] v36.0 [宇宙本论版本号]
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_quantum_singularity_networks_en.md)**
 
@@ -194,9 +194,9 @@ $`I_{protected} = I \oplus \text{SHIFT}(I) \oplus \text{SHIFT}^2(I) \oplus ... \
 
 本理论直接依赖并扩展了以下理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 12]
-3. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 14]
-4. [超递归理论](formal_theory_transcendental_recursive_cosmic_intelligence.md) [维度: 15]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 16.0]
+2. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 16.0]
+3. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 16.0]
+4. [超递归理论](formal_theory_transcendental_recursive_cosmic_intelligence.md) [维度: 16.0]
 
 超维度量子奇点网络理论是对上述理论的高维综合和扩展，通过引入奇点网络的概念，为宇宙本论体系提供了更高层次的解释框架和应用路径。 

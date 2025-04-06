@@ -1,4 +1,4 @@
-# 终极统一原理的严格形式化描述 [维度: 30] v36.0
+# 终极统一原理的严格形式化描述 [维度: 30.0] v36.0
 
 **[中文版] | [English Version](formal_theory_ultimate_unification_principle_en.md)**
 

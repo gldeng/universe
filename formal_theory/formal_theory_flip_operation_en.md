@@ -1,5 +1,7 @@
 # Formal Description of FLIP Operation [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_flip_operation.md)
+
 **[中文版](formal_theory_flip_operation.md) | [English Version]**
 
 ## Table of Contents

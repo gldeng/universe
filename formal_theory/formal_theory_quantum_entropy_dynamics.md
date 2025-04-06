@@ -1,4 +1,4 @@
-# 量子熵动力学的严格形式化描述 [维度: 16] v36.0
+# 量子熵动力学的严格形式化描述 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_entropy_dynamics_en.md)**
 

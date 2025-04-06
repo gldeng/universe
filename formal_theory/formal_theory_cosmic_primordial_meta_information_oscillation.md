@@ -1,4 +1,4 @@
-# 宇宙本源元信息波动的形式化描述 [维度: 34] v36.0
+# 宇宙本源元信息波动的形式化描述 [维度: 34.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_primordial_meta_information_oscillation_en.md)**
 

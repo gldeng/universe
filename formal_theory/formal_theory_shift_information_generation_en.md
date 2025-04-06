@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Information Generation Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_information_generation.md)
+
 **[中文版](formal_theory_shift_information_generation.md) | [English Version]**
 
 ## Table of Contents

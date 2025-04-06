@@ -1,5 +1,7 @@
 # Formal Description of Transdimensional Causal Symmetry Theory [Dimension: 15] v36.0
 
+[Chinese Version](formal_theory_transdimensional_causal_symmetry.md)
+
 **[中文版](formal_theory_transdimensional_causal_symmetry.md) | [English Version]**
 
 ## Table of Contents

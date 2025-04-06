@@ -1,4 +1,4 @@
-# 量子信息熵场动力学的形式化描述 [维度: 42] v36.0
+# 量子信息熵场动力学的形式化描述 [维度: 42.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_information_entropy_field_dynamics_en.md)**
 
@@ -311,11 +311,11 @@ $`\mathcal{E} = \mathcal{E}_Q \oplus \mathcal{E}_C, \quad \mathcal{E}_Q \oplus \
 
 ### 5.1 本理论引用的理论
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) - 作为基础理论框架
-2. [信息本体论 [维度: 18]](formal_theory_information_wave_dynamics.md) - 提供信息基础模型
-3. [量子熵动力学 [维度: 25]](formal_theory_quantum_entropy_dynamics.md) - 提供量子熵概念
-4. [多维时空协同理论 [维度: 29]](formal_theory_multidimensional_spacetime_coherence.md) - 提供维度协同模型
-5. [超递归自参照元逻辑 [维度: 35]](formal_theory_hyperrecursive_self_referential_metalogic.md) - 提供超递归概念
+1. [宇宙本论 [维度: 42.0]](formal_theory_cosmic_ontology.md) - 作为基础理论框架
+2. [信息本体论 [维度: 42.0]](formal_theory_information_wave_dynamics.md) - 提供信息基础模型
+3. [量子熵动力学 [维度: 42.0]](formal_theory_quantum_entropy_dynamics.md) - 提供量子熵概念
+4. [多维时空协同理论 [维度: 42.0]](formal_theory_multidimensional_spacetime_coherence.md) - 提供维度协同模型
+5. [超递归自参照元逻辑 [维度: 42.0]](formal_theory_hyperrecursive_self_referential_metalogic.md) - 提供超递归概念
 
 ### 5.2 引用本理论的理论
 

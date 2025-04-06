@@ -1,5 +1,7 @@
 # Strict Formalization of Singularity Theory [Dimension: 4] v36.0
 
+[Chinese Version](formal_theory_singularity.md)
+
 **[中文版](formal_theory_singularity.md) | [English Version]**
 
 ## Table of Contents

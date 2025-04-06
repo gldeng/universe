@@ -1,5 +1,7 @@
 # Formal Description of Quantum Cognitive Computation Theory [Dimension: 11] v36.0
 
+[Chinese Version](formal_theory_quantum_cognitive_computation.md)
+
 **[中文版](formal_theory_quantum_cognitive_computation.md) | [English Version]**
 
 ## Table of Contents

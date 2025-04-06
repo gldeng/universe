@@ -1,5 +1,7 @@
 # Cosmic Ontology Theoretical System Structure Diagram v36.0
 
+[Chinese Version](theory_structure.md)
+
 ```
                                         ┌─────────────────────────┐
                                         │    Cosmic Ontology     │

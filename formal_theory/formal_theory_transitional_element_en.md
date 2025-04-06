@@ -1,5 +1,7 @@
 # Formal Description of Transitional Element Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_transitional_element.md)
+
 **[English Version] | [中文版](formal_theory_transitional_element.md)**
 
 ## Table of Contents

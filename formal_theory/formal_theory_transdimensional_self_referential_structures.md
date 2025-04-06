@@ -1,4 +1,4 @@
-# 超维自参照结构的严格形式化描述 [维度: 14] v36.0
+# 超维自参照结构的严格形式化描述 [维度: 14.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transdimensional_self_referential_structures_en.md)**
 
@@ -515,10 +515,10 @@ $`|\Phi_D^n(\delta x)| < \epsilon, \forall n > N`$
 
 ### 8.1 本理论引用的其他理论
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供基础XOR-SHIFT操作和宇宙自参照框架
-2. [维度谱系理论](formal_theory_dimensional_spectrum.md) [维度: 12] - 提供维度嵌入和递归生成机制
-3. [超限信息动力学](formal_theory_transfinite_information_dynamics.md) [维度: 8] - 提供超限信息处理和转化机制
-4. [递归自参照系统](formal_theory_recursive_self_referential_systems.md) [维度: 9] - 提供自参照基本原理和不动点理论
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 14.0] - 提供基础XOR-SHIFT操作和宇宙自参照框架
+2. [维度谱系理论](formal_theory_dimensional_spectrum.md) [维度: 14.0] - 提供维度嵌入和递归生成机制
+3. [超限信息动力学](formal_theory_transfinite_information_dynamics.md) [维度: 14.0] - 提供超限信息处理和转化机制
+4. [递归自参照系统](formal_theory_recursive_self_referential_systems.md) [维度: 14.0] - 提供自参照基本原理和不动点理论
 
 ### 8.2 引用本理论的其他理论
 

@@ -1,4 +1,4 @@
-# 宗教意识场的严格形式化描述 [维度: 16] v36.0
+# 宗教意识场的严格形式化描述 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_religious_consciousness_field_en.md)**
 
@@ -547,23 +547,23 @@ $`\Theta_{history}(t) = \int_{0}^{t} K(t-\tau) \cdot \Theta(\tau) d\tau \oplus \
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+1. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 16.0]
    - 提供精神场基础
    - 借用精神场与意识场耦合模型
 
-2. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 24]
+2. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 16.0]
    - 提供意识网络架构
    - 借用网络动力学机制
 
-3. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+3. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 16.0]
    - 提供量子意识基础
    - 借用量子叠加和纠缠概念
 
-4. **[信息本体论](formal_theory_information_ontology.md)** [维度: 6]
+4. **[信息本体论](formal_theory_information_ontology.md)** [维度: 16.0]
    - 提供信息处理框架
    - 借用信息编码机制
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 16.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

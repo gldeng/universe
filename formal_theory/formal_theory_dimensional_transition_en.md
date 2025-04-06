@@ -1,5 +1,7 @@
 # Formal Description of Dimensional Transition Theory [Dimension: 3] v36.0
 
+[Chinese Version](formal_theory_dimensional_transition.md)
+
 **[中文版](formal_theory_dimensional_transition.md) | [English Version]**
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# UNSHIFT超递归反馈理论 [维度: 11] v36.0
+# UNSHIFT超递归反馈理论 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_hyperrecursive_feedback_en.md)**
 

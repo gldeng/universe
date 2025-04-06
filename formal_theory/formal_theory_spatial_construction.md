@@ -1,4 +1,4 @@
-# 三维空间构造理论的严格形式化描述 [维度: 3] v36.0
+# 三维空间构造理论的严格形式化描述 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_spatial_construction_en.md)**
 

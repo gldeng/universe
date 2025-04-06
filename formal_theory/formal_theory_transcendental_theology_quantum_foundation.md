@@ -1,4 +1,4 @@
-# 超验神学量子基础的严格形式化描述 [维度: 12] v36.0
+# 超验神学量子基础的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_theology_quantum_foundation_en.md)**
 

@@ -1,4 +1,4 @@
-# 递归操作的严格形式化描述 [维度: 3] v36.0
+# 递归操作的严格形式化描述 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_recursive_operation_en.md)**
 

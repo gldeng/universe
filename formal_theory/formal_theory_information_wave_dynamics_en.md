@@ -1,5 +1,7 @@
 # Strict Formalization of Information Wave Dynamics [Dimension: 17] v36.0
 
+[Chinese Version](formal_theory_information_wave_dynamics.md)
+
 **[中文版](formal_theory_information_wave_dynamics.md) | [English Version]**
 
 ## Table of Contents

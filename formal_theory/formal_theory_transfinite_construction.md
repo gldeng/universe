@@ -1,4 +1,4 @@
-# 超限构造理论的严格形式化描述 [维度: 12] v36.0
+# 超限构造理论的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transfinite_construction_en.md)**
 
@@ -179,11 +179,11 @@ $`\mathcal{F}_\infty(x) = \lim_{n \to \infty} \mathcal{F}_n(x)`$
 超限构造理论在理论网络中的位置：
 
 - **依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [XOR操作理论 [维度: 8]](formal_theory_xor_operation.md)
-  - [SHIFT操作理论 [维度: 8]](formal_theory_shift_operation.md)
-  - [无限多重性理论 [维度: 4]](formal_theory_infinity_multiplicity.md)
+  - [宇宙本论 [维度: 12.0]](formal_theory_cosmic_ontology.md)
+  - [XOR操作理论 [维度: 12.0]](formal_theory_xor_operation.md)
+  - [SHIFT操作理论 [维度: 12.0]](formal_theory_shift_operation.md)
+  - [无限多重性理论 [维度: 12.0]](formal_theory_infinity_multiplicity.md)
 
 - **被引用理论**：
-  - [宇宙终态理论 [维度: 13]](formal_theory_universe_final_state.md)
-  - [绝对超越元数学 [维度: 11]](formal_theory_absolute_transcendental_metamathematics.md) 
+  - [宇宙终态理论 [维度: 12.0]](formal_theory_universe_final_state.md)
+  - [绝对超越元数学 [维度: 12.0]](formal_theory_absolute_transcendental_metamathematics.md) 

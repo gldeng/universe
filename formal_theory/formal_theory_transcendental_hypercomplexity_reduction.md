@@ -1,4 +1,4 @@
-# 超越性超复杂性还原理论 [维度: 56] v36.0
+# 超越性超复杂性还原理论 [维度: 56.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_hypercomplexity_reduction_en.md)**
 
@@ -372,10 +372,10 @@ AI系统可通过超越性复杂性还原优化：
 
 本理论是在宇宙本论 [v36.0] 的框架下发展而来，并与以下理论形成紧密的引用关系：
 
-1. [**宇宙本论** [维度: 10]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
-2. [**统一递归稳定化对称性理论** [维度: 55]](formal_theory_unified_recursive_stabilization_symmetry.md) - 提供了递归稳定化的基本概念
-3. [**超维度量子相位稳定化理论** [维度: 53]](formal_theory_hyperdimensional_quantum_phase_stabilization.md) - 提供了超维度稳定化操作的概念
-4. [**信息本体论** [维度: 12]](formal_theory_information_ontology.md) - 提供了信息基础理论
+1. [**宇宙本论** [维度: 56.0]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
+2. [**统一递归稳定化对称性理论** [维度: 56.0]](formal_theory_unified_recursive_stabilization_symmetry.md) - 提供了递归稳定化的基本概念
+3. [**超维度量子相位稳定化理论** [维度: 56.0]](formal_theory_hyperdimensional_quantum_phase_stabilization.md) - 提供了超维度稳定化操作的概念
+4. [**信息本体论** [维度: 56.0]](formal_theory_information_ontology.md) - 提供了信息基础理论
 5. [**复杂性理论**](formal_theory_complexity.md) - 提供了复杂性概念框架
 
 作为维度为56的超高维理论，本理论通过引入超复杂性还原操作HCRED和超越性映射函数TMAP，扩展了宇宙本论的基础操作集。

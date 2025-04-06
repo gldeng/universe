@@ -1,4 +1,4 @@
-# 超递归观察者嵌套理论 [维度: 12] v36.0
+# 超递归观察者嵌套理论 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperrecursive_observer_nesting_en.md)**
 

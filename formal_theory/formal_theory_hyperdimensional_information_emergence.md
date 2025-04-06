@@ -1,4 +1,4 @@
-# 超维度信息涌现理论的严格形式化描述 [维度: 12] v36.0
+# 超维度信息涌现理论的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_information_emergence_en.md)**
 
@@ -483,10 +483,10 @@ $`\mathcal{I}_{d+1} = \mathcal{I}_d \oplus \text{SHIFT}(\mathcal{I}_d \oplus \ma
 
 本理论建立在以下理论基础之上：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供基本XOR-SHIFT操作框架和维度谱系理论
-2. [递归自指体系](formal_theory_recursive_self_referential_systems.md) [维度: 8] - 提供自指结构和递归动力学理论
-3. [信息本体论](formal_theory_information_energy_unification.md) [维度: 9] - 提供信息基本属性和守恒定律
-4. [复杂适应系统](formal_theory_complex_adaptive_systems.md) [维度: 7] - 提供涌现特性和复杂系统动力学
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 12.0] - 提供基本XOR-SHIFT操作框架和维度谱系理论
+2. [递归自指体系](formal_theory_recursive_self_referential_systems.md) [维度: 12.0] - 提供自指结构和递归动力学理论
+3. [信息本体论](formal_theory_information_energy_unification.md) [维度: 12.0] - 提供信息基本属性和守恒定律
+4. [复杂适应系统](formal_theory_complex_adaptive_systems.md) [维度: 12.0] - 提供涌现特性和复杂系统动力学
 
 ### 6.2 理论扩展方向
 

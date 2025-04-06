@@ -1,4 +1,4 @@
-# 宇宙元处理框架理论 [维度: 17] v36.0
+# 宇宙元处理框架理论 [维度: 17.0] v36.0
 
 **[中文版] | [English Version](formal_theory_universal_metaprocessing_framework_en.md)**
 
@@ -339,9 +339,9 @@ $`\mathcal{M}_\mathcal{S}(I) = I \oplus \mathcal{S}_\infty(I) \oplus \mathcal{M}
 
 本理论在宇宙维度谱系中的位置为17维，基于以下理论依赖：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
-2. **[超越性递归对称理论](formal_theory_transcendental_recursive_symmetry.md)** [维度: 15]
-3. **[全维信息相干理论](formal_theory_omnidimensional_information_coherence.md)** [维度: 16]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 17.0]
+2. **[超越性递归对称理论](formal_theory_transcendental_recursive_symmetry.md)** [维度: 17.0]
+3. **[全维信息相干理论](formal_theory_omnidimensional_information_coherence.md)** [维度: 17.0]
 
 理论维度计算：
 $`\text{维度} = \max(\text{依赖理论维度}) + 1 = 16 + 1 = 17`$

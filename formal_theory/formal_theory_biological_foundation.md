@@ -1,4 +1,4 @@
-# 生物学基础的严格形式化描述 [维度: 7] v36.0
+# 生物学基础的严格形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_biological_foundation_en.md)**
 

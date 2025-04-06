@@ -1,4 +1,4 @@
-# 现实基础理论的形式化描述 [维度: 7] v36.0
+# 现实基础理论的形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_reality_fundamental_en.md)**
 
@@ -328,9 +328,9 @@ $`\mathcal{R}_{\text{optimal}} = \arg\max_{\mathcal{R}'} [U(\mathcal{R}') - \lam
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [观察者与元观察者理论](formal_theory_observer_meta_observer.md) [维度: 8]
-- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+- [观察者与元观察者理论](formal_theory_observer_meta_observer.md) [维度: 7.0]
+- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7.0]
 
 本理论被以下理论引用：
 - 量子意识理论

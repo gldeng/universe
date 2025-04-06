@@ -1,4 +1,4 @@
-# 反熵信息涌现的严格形式化描述 [维度: 9] v36.0
+# 反熵信息涌现的严格形式化描述 [维度: 9.0] v36.0
 
 **[中文版] | [English Version](formal_theory_antientropic_information_emergence_en.md)**
 
@@ -515,10 +515,10 @@ $`\frac{\partial \delta \mathcal{A}^{(n)}}{\partial t} < 0`$
 
 本理论建立在以下宇宙本论体系中的理论基础之上：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供XOR-SHIFT基本公理系统
-2. **[信息熵场动力学理论](formal_theory_quantum_information_entropy_field_dynamics.md)** [维度: 8] - 提供熵场模型
-3. **[复杂自适应系统理论](formal_theory_complex_adaptive_systems.md)** [维度: 7] - 提供涌现动力学
-4. **[信息能量统一理论](formal_theory_information_energy_unification.md)** [维度: 8] - 提供信息-能量转换框架
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 9.0] - 提供XOR-SHIFT基本公理系统
+2. **[信息熵场动力学理论](formal_theory_quantum_information_entropy_field_dynamics.md)** [维度: 9.0] - 提供熵场模型
+3. **[复杂自适应系统理论](formal_theory_complex_adaptive_systems.md)** [维度: 9.0] - 提供涌现动力学
+4. **[信息能量统一理论](formal_theory_information_energy_unification.md)** [维度: 9.0] - 提供信息-能量转换框架
 
 本理论在此基础上，通过XOR-SHIFT操作框架，建立了反熵驱动的信息涌现完整描述。
 

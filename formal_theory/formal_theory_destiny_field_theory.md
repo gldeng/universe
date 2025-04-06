@@ -1,4 +1,4 @@
-# 命运场理论的严格形式化描述 [维度: 15] v36.0
+# 命运场理论的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_destiny_field_theory_en.md)**
 
@@ -544,23 +544,23 @@ $`P_{dest}(\Psi_{con}, \mathcal{D}) = P_0 \cdot \frac{|\Psi_{con} \oplus \mathca
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[卡尔马因果网络](formal_theory_karma_causal_network.md)** [维度: 18]
+1. **[卡尔马因果网络](formal_theory_karma_causal_network.md)** [维度: 15.0]
    - 提供因果网络基础
    - 借用因果链与循环概念
 
-2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 15.0]
    - 提供宗教场框架
    - 借用神圣体验形式化
 
-3. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+3. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 15.0]
    - 提供精神场基础
    - 借用精神场与意识场耦合模型
 
-4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 15.0]
    - 提供量子意识基础
    - 借用量子叠加和纠缠概念
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 15.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

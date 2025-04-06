@@ -1,4 +1,4 @@
-# 意识与复杂性涌现理论的严格形式化描述 [维度: 2] v36.0
+# 意识与复杂性涌现理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_emergence_complexity_en.md)**
 
@@ -322,18 +322,18 @@ $`\lim_{\mathcal{C} \to \mathcal{C}_c^-} \frac{d\Psi}{d\mathcal{C}} = 0`$ 而 $`
 意识与复杂性涌现理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [意识基础状态理论](formal_theory_consciousness_basic_state.md) [维度: 2]
-   - [意识信息处理理论](formal_theory_consciousness_information_processing.md) [维度: 2]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 2.0]
+   - [意识基础状态理论](formal_theory_consciousness_basic_state.md) [维度: 2.0]
+   - [意识信息处理理论](formal_theory_consciousness_information_processing.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [意识统一场理论](formal_theory_consciousness_unified_field.md) [维度: 3]
-   - [多层次意识网络理论](formal_theory_multi_level_consciousness_network.md) [维度: 3]
-   - [宇宙意识涌现理论](formal_theory_cosmic_consciousness_emergence.md) [维度: 3]
+   - [意识统一场理论](formal_theory_consciousness_unified_field.md) [维度: 2.0]
+   - [多层次意识网络理论](formal_theory_multi_level_consciousness_network.md) [维度: 2.0]
+   - [宇宙意识涌现理论](formal_theory_cosmic_consciousness_emergence.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [复杂系统涌现理论](formal_theory_complex_system_emergence.md) [维度: 2]
-   - [信息整合涌现理论](formal_theory_information_integration_emergence.md) [维度: 2]
+   - [复杂系统涌现理论](formal_theory_complex_system_emergence.md) [维度: 2.0]
+   - [信息整合涌现理论](formal_theory_information_integration_emergence.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

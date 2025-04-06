@@ -1,5 +1,7 @@
 # Formal Theory of Proto-Symmetry [Dimension: 0.3] v36.0
 
+[Chinese Version](formal_theory_proto_symmetry.md)
+
 **[中文版](formal_theory_proto_symmetry.md) | [English Version]**
 
 ## Table of Contents

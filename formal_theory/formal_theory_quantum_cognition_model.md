@@ -1,4 +1,4 @@
-# 量子认知模型的严格形式化描述 [维度: 3] v36.0
+# 量子认知模型的严格形式化描述 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_cognition_model_en.md)**
 
@@ -223,19 +223,19 @@ $`A_{remote} = \frac{|\langle \Psi_A|\Psi_B \rangle|^2}{d(\Psi_A, \Psi_B)}`$
 
 量子认知模型支持以下高维理论：
 
-1. [量子决策过程](formal_theory_quantum_decision_process.md) [维度: 4]
-2. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度: 5]
-3. [意识信息编码理论](formal_theory_consciousness_information_encoding.md) [维度: 6]
-4. [神经量子场论](formal_theory_neural_quantum_field.md) [维度: 7]
-5. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 8]
+1. [量子决策过程](formal_theory_quantum_decision_process.md) [维度: 3.0]
+2. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度: 3.0]
+3. [意识信息编码理论](formal_theory_consciousness_information_encoding.md) [维度: 3.0]
+4. [神经量子场论](formal_theory_neural_quantum_field.md) [维度: 3.0]
+5. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 3.0]
 
 ### 4.2 下层基础理论
 
 量子认知模型基于以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 2]
-3. [意识单元理论](formal_theory_consciousness_unit.md) [维度: 1]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 3.0]
+2. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 3.0]
+3. [意识单元理论](formal_theory_consciousness_unit.md) [维度: 3.0]
 
 ## 5. 理论复杂度与演化分析
 

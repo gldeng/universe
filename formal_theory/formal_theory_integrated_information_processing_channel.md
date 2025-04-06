@@ -1,4 +1,4 @@
-# 整合型信息处理通道理论的严格形式化描述 [维度: 8]
+# 整合型信息处理通道理论的严格形式化描述 [维度: 8.0]
 
 **[中文版]**
 
@@ -7,9 +7,9 @@
 ## [理论分类与索引]
 
 - **理论维度**: 8
-- **上层理论**: [递归涌现模式理论 [维度: 8]](formal_theory_recursive_emergence_patterns.md)
-- **平行理论**: [信息熵动力学 [维度: 8]](formal_theory_information_entropy_dynamics.md)
-- **下层理论**: [信息动力学 [维度: 5]](formal_theory_information_dynamics.md)
+- **上层理论**: [递归涌现模式理论 [维度: 8.0]](formal_theory_recursive_emergence_patterns.md)
+- **平行理论**: [信息熵动力学 [维度: 8.0]](formal_theory_information_entropy_dynamics.md)
+- **下层理论**: [信息动力学 [维度: 8.0]](formal_theory_information_dynamics.md)
 
 ## [基本定义]
 

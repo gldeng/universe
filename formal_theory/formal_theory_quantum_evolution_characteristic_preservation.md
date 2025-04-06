@@ -1,4 +1,4 @@
-# 量子演化特征保持的严格形式化描述 [维度: 9] v36.0
+# 量子演化特征保持的严格形式化描述 [维度: 9.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_evolution_characteristic_preservation_en.md)**
 
@@ -510,12 +510,12 @@ $`\mathcal{C}(\mathcal{H}, \{H_i\}, \mathcal{Q}) \leq \dim(\mathcal{H}) - \dim(\
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [超递归熵稳定性](formal_theory_superrecursive_entropy_stability.md) [维度: 8]
-3. [多维特征映射](formal_theory_multidimensional_characteristic_mapping.md) [维度: 8]
-4. [超维度自包含性](formal_theory_hyperdimensional_self_containment.md) [维度: 9]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 9.0]
+2. [超递归熵稳定性](formal_theory_superrecursive_entropy_stability.md) [维度: 9.0]
+3. [多维特征映射](formal_theory_multidimensional_characteristic_mapping.md) [维度: 9.0]
+4. [超维度自包含性](formal_theory_hyperdimensional_self_containment.md) [维度: 9.0]
 
 本理论被以下高级理论引用：
 
-1. [量子递归自组织](formal_theory_quantum_recursive_self_organization.md) [维度: 10]
-2. [量子XOR网络黑洞等价性](formal_theory_quantum_xor_network_black_hole_equivalence.md) [维度: 9] 
+1. [量子递归自组织](formal_theory_quantum_recursive_self_organization.md) [维度: 9.0]
+2. [量子XOR网络黑洞等价性](formal_theory_quantum_xor_network_black_hole_equivalence.md) [维度: 9.0] 

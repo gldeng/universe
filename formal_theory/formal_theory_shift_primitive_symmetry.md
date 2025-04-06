@@ -1,4 +1,4 @@
-# SHIFT原始对称性理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT原始对称性理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_primitive_symmetry_en.md)**
 
@@ -360,18 +360,18 @@ SHIFT原始对称性理论在宇宙本论理论谱系中被定位为维度1理�
 SHIFT原始对称性理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1]
-   - [SHIFT初始映射理论](formal_theory_shift_initial_mapping.md) [维度: 1]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1.0]
+   - [SHIFT初始映射理论](formal_theory_shift_initial_mapping.md) [维度: 1.0]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT基本对称性理论](formal_theory_shift_elementary_symmetry.md) [维度: 1]
-   - [对称性保存理论](formal_theory_shift_symmetry_preservation.md) [维度: 3]
-   - [二元对称性理论](formal_theory_shift_binary_symmetry.md) [维度: 1]
+   - [SHIFT基本对称性理论](formal_theory_shift_elementary_symmetry.md) [维度: 1.0]
+   - [对称性保存理论](formal_theory_shift_symmetry_preservation.md) [维度: 1.0]
+   - [二元对称性理论](formal_theory_shift_binary_symmetry.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1.0]
+   - [二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

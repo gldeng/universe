@@ -1,4 +1,4 @@
-# 超维度自包含性的严格形式化描述 [维度: 9] v36.0
+# 超维度自包含性的严格形式化描述 [维度: 9.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_self_containment_en.md)**
 
@@ -502,12 +502,12 @@ $`\Delta D \cdot \Delta S \geq \frac{1}{2}`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [超递归熵稳定性](formal_theory_superrecursive_entropy_stability.md) [维度: 8]
-3. [多维特征映射](formal_theory_multidimensional_characteristic_mapping.md) [维度: 8]
-4. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 7]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 9.0]
+2. [超递归熵稳定性](formal_theory_superrecursive_entropy_stability.md) [维度: 9.0]
+3. [多维特征映射](formal_theory_multidimensional_characteristic_mapping.md) [维度: 9.0]
+4. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 9.0]
 
 本理论被以下高级理论引用：
 
-1. [跨维度信息映射嵌入](formal_theory_transdimensional_quantum_information_embedding.md) [维度: 9]
-2. [超递归信息生命周期](formal_theory_superrecursive_information_lifecycle.md) [维度: 10] 
+1. [跨维度信息映射嵌入](formal_theory_transdimensional_quantum_information_embedding.md) [维度: 9.0]
+2. [超递归信息生命周期](formal_theory_superrecursive_information_lifecycle.md) [维度: 9.0] 

@@ -1,5 +1,7 @@
 # Formal Description of Cosmic Hyperinformation Field Theory [Dimension: 44] v36.0
 
+[Chinese Version](formal_theory_cosmic_hyperinformation_field.md)
+
 **[中文版](formal_theory_cosmic_hyperinformation_field.md) | [English Version]**
 
 ## Table of Contents

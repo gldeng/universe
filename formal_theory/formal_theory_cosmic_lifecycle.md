@@ -1,4 +1,4 @@
-# 宇宙生命周期理论的严格形式化描述 [维度: 18] v36.0
+# 宇宙生命周期理论的严格形式化描述 [维度: 18.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_lifecycle_en.md)**
 

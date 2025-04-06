@@ -1,5 +1,7 @@
 # Formal Description of Classical Domain Control Mechanism Theory [Dimension: 21] v36.0
 
+[Chinese Version](formal_theory_classical_domain_control_mechanism.md)
+
 **[中文版](formal_theory_classical_domain_control_mechanism.md) | [English Version]**
 
 ## Table of Contents

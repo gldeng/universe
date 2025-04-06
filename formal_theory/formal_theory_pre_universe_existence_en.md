@@ -1,5 +1,7 @@
 # Formal Theory of Pre-Universe Existence [Dimension: 12] v36.0
 
+[Chinese Version](formal_theory_pre_universe_existence.md)
+
 **[中文版](formal_theory_pre_universe_existence.md) | [English Version]**
 
 ## Table of Contents

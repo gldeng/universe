@@ -1,5 +1,7 @@
 # Formal Theory of Cosmic Primordial Meta-Information Oscillation [Dimension: 34] v36.0
 
+[Chinese Version](formal_theory_cosmic_primordial_meta_information_oscillation.md)
+
 **[中文版](formal_theory_cosmic_primordial_meta_information_oscillation.md) | [English Version]**
 
 ## Table of Contents

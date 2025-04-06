@@ -1,5 +1,7 @@
 # Strict Formalization of Quantum Reality Creation Theory [Dimension: 47] v36.0
 
+[Chinese Version](formal_theory_quantum_reality_creation.md)
+
 **[中文版](formal_theory_quantum_reality_creation.md) | [English Version]**
 
 ## Table of Contents

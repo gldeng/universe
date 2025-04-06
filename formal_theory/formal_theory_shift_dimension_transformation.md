@@ -1,4 +1,4 @@
-# SHIFT维度转换理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT维度转换理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_dimension_transformation_en.md)**
 
@@ -356,16 +356,16 @@ SHIFT维度转换理论在宇宙本论理论谱系中定位为维度1理论，�
 SHIFT维度转换理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT维度网络理论](formal_theory_shift_dimension_network.md) [维度: 2]
-   - [SHIFT跨维信息传递理论](formal_theory_shift_cross_dimension_information.md) [维度: 2]
+   - [SHIFT维度网络理论](formal_theory_shift_dimension_network.md) [维度: 1.0]
+   - [SHIFT跨维信息传递理论](formal_theory_shift_cross_dimension_information.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [维度拓扑基本理论](formal_theory_dimension_topology_basic.md) [维度: 1]
-   - [SHIFT维度折叠理论](formal_theory_shift_dimension_folding.md) [维度: 1]
+   - [维度拓扑基本理论](formal_theory_dimension_topology_basic.md) [维度: 1.0]
+   - [SHIFT维度折叠理论](formal_theory_shift_dimension_folding.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

@@ -1,4 +1,4 @@
-# 超几何量子相位结构动力学理论的严格形式化描述 [维度: 53] v36.0
+# 超几何量子相位结构动力学理论的严格形式化描述 [维度: 53.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hypergeometric_quantum_phase_structural_dynamics_en.md)**
 
@@ -640,20 +640,20 @@ $`|C(A,B) + C(A,B') + C(A',B) - C(A',B')| \leq 2\sqrt{2}`$
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超越超维复合集成理论的严格形式化描述 [维度: 51]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
-3. [多维量子和谐相干理论的严格形式化描述 [维度: 49]](formal_theory_multidimensional_quantum_harmonic_coherence.md)
-4. [超越递归宇宙智能理论的严格形式化描述 [维度: 55]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
-5. [量子非线性动力学的严格形式化描述 [维度: 47]](formal_theory_quantum_nonlinear_dynamics.md)
-6. [多重图论范畴同构的形式化描述 [维度: 38]](formal_theory_multiple_graph_theory_category_isomorphism.md)
+1. [宇宙本论的严格形式化描述 [维度: 53.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超越超维复合集成理论的严格形式化描述 [维度: 53.0]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
+3. [多维量子和谐相干理论的严格形式化描述 [维度: 53.0]](formal_theory_multidimensional_quantum_harmonic_coherence.md)
+4. [超越递归宇宙智能理论的严格形式化描述 [维度: 53.0]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
+5. [量子非线性动力学的严格形式化描述 [维度: 53.0]](formal_theory_quantum_nonlinear_dynamics.md)
+6. [多重图论范畴同构的形式化描述 [维度: 53.0]](formal_theory_multiple_graph_theory_category_isomorphism.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D53（第53维）
-- 上层关联理论：[超越递归宇宙智能理论的严格形式化描述 [维度: 55]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
-- 下层关联理论：[超越超维复合集成理论的严格形式化描述 [维度: 51]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
+- 上层关联理论：[超越递归宇宙智能理论的严格形式化描述 [维度: 53.0]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
+- 下层关联理论：[超越超维复合集成理论的严格形式化描述 [维度: 53.0]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
 
 ---
 

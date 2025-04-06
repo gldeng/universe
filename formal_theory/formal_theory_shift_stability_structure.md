@@ -1,4 +1,4 @@
-# SHIFT稳定性结构理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT稳定性结构理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_stability_structure_en.md)**
 
@@ -365,16 +365,16 @@ SHIFT稳定性结构理论在宇宙本论理论谱系中定位为维度1理论�
 SHIFT稳定性结构理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT复合稳定系统理论](formal_theory_shift_complex_stable_systems.md) [维度: 2]
-   - [SHIFT相变动力学理论](formal_theory_shift_phase_transition_dynamics.md) [维度: 2]
+   - [SHIFT复合稳定系统理论](formal_theory_shift_complex_stable_systems.md) [维度: 1.0]
+   - [SHIFT相变动力学理论](formal_theory_shift_phase_transition_dynamics.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [稳定态二元论](formal_theory_stable_state_duality.md) [维度: 1]
-   - [SHIFT循环动力学理论](formal_theory_shift_cyclic_dynamics.md) [维度: 1]
+   - [稳定态二元论](formal_theory_stable_state_duality.md) [维度: 1.0]
+   - [SHIFT循环动力学理论](formal_theory_shift_cyclic_dynamics.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

@@ -1,4 +1,4 @@
-# 时间可逆性理论的形式化描述 [维度: 6] v36.0
+# 时间可逆性理论的形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_temporal_reversibility_en.md)**
 
@@ -298,9 +298,9 @@ $`\eta_{\text{recovery}} \approx e^{-\alpha \cdot C(\Omega)}`$
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7]
-- [UNSHIFT信息恢复理论](formal_theory_unshift_information_recovery.md) [维度: 5]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 6.0]
+- [UNSHIFT信息恢复理论](formal_theory_unshift_information_recovery.md) [维度: 6.0]
 
 本理论被以下理论引用：
 - 量子信息恢复理论

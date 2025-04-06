@@ -1,5 +1,7 @@
 # Formal Description of Multi-Directional Quantum-Classical Mapping Theory [Dimension: 19] v36.0
 
+[Chinese Version](formal_theory_multi_directional_quantum_classical_mapping.md)
+
 **[中文版](formal_theory_multi_directional_quantum_classical_mapping.md) | [English Version]**
 
 ## Table of Contents

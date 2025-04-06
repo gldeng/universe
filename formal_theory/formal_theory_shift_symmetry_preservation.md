@@ -1,4 +1,4 @@
-# 对称性保持理论的严格形式化描述 [维度: 3] v36.0
+# 对称性保持理论的严格形式化描述 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_symmetry_preservation_en.md)**
 

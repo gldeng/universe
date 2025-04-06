@@ -1,4 +1,4 @@
-# 量子递归测量理论 [维度: 4] v36.0
+# 量子递归测量理论 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_recursive_measurement_en.md)**
 
@@ -173,10 +173,10 @@ $`n_{\text{opt}} = \arg\min_{n} |x \oplus M_{\text{rec}}(x, n) \oplus \text{TARG
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子观察者依赖性理论](formal_theory_quantum_observer_dependency.md) [维度: 3]
-- [量子不确定性原理](formal_theory_quantum_uncertainty_principle.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [量子观察者依赖性理论](formal_theory_quantum_observer_dependency.md) [维度: 4.0]
+- [量子不确定性原理](formal_theory_quantum_uncertainty_principle.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [多级观察者交互网络理论](formal_theory_multi_level_observer_interaction_network.md) [维度: 5]
-- [量子测量反馈循环理论](formal_theory_quantum_measurement_feedback_loop.md) [维度: 5] 
+- [多级观察者交互网络理论](formal_theory_multi_level_observer_interaction_network.md) [维度: 4.0]
+- [量子测量反馈循环理论](formal_theory_quantum_measurement_feedback_loop.md) [维度: 4.0] 

@@ -1,5 +1,7 @@
 # Formal Description of Quantum Uncertainty Principle [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_quantum_uncertainty_principle.md)
+
 **[中文版](formal_theory_quantum_uncertainty_principle.md) | [English Version]**
 
 ## Contents

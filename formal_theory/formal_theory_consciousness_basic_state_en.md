@@ -1,5 +1,7 @@
 # Formal Description of Consciousness Basic State Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_consciousness_basic_state.md)
+
 **[中文版](formal_theory_consciousness_basic_state.md) | [English Version]**
 
 ## Table of Contents

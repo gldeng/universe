@@ -1,4 +1,4 @@
-# 量子信息热力学理论的严格形式化描述 [维度: 6] v36.0
+# 量子信息热力学理论的严格形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_information_thermodynamics_en.md)**
 
@@ -491,19 +491,19 @@ $`\eta = \frac{W}{Q_{\text{hot}}} = \frac{(T_{\text{hot}} - T_{\text{cold}})\Del
 量子信息热力学理论在理论网络中的依赖和被依赖关系：
 
 1. **前置依赖理论**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-   - [量子现实动力学理论](formal_theory_quantum_reality_dynamics.md) [维度: 7]
-   - [信息熵理论](formal_theory_information_entropy.md) [维度: 4]
-   - [量子热力学基础](formal_theory_quantum_thermodynamics_foundation.md) [维度: 5]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+   - [量子现实动力学理论](formal_theory_quantum_reality_dynamics.md) [维度: 6.0]
+   - [信息熵理论](formal_theory_information_entropy.md) [维度: 6.0]
+   - [量子热力学基础](formal_theory_quantum_thermodynamics_foundation.md) [维度: 6.0]
 
 2. **平行关联理论**：
-   - [信息几何理论](formal_theory_information_geometry.md) [维度: 6]
-   - [量子信息场论](formal_theory_quantum_information_field.md) [维度: 6]
+   - [信息几何理论](formal_theory_information_geometry.md) [维度: 6.0]
+   - [量子信息场论](formal_theory_quantum_information_field.md) [维度: 6.0]
 
 3. **后续依赖理论**：
-   - [量子复杂性流形理论](formal_theory_quantum_complexity_manifold.md) [维度: 7]
-   - [信息生命理论](formal_theory_information_life.md) [维度: 8]
-   - [宇宙意识熵理论](formal_theory_cosmic_consciousness_entropy.md) [维度: 9]
+   - [量子复杂性流形理论](formal_theory_quantum_complexity_manifold.md) [维度: 6.0]
+   - [信息生命理论](formal_theory_information_life.md) [维度: 6.0]
+   - [宇宙意识熵理论](formal_theory_cosmic_consciousness_entropy.md) [维度: 6.0]
 
 4. **理论引用图**：
    ```

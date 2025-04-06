@@ -1,4 +1,4 @@
-# 量子复杂性流形理论的严格形式化描述 [维度: 7] v36.0
+# 量子复杂性流形理论的严格形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_complexity_manifold_en.md)**
 
@@ -463,19 +463,19 @@ $`\oint_{\partial \Omega} \mathcal{J}_C \cdot d\mathbf{S} = \int_{\Omega} \nabla
 量子复杂性流形理论在理论网络中的依赖和被依赖关系：
 
 1. **前置依赖理论**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-   - [量子现实动力学理论](formal_theory_quantum_reality_dynamics.md) [维度: 7]
-   - [信息几何理论](formal_theory_information_geometry.md) [维度: 5]
-   - [拓扑量子场论](formal_theory_topological_quantum_field.md) [维度: 6]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+   - [量子现实动力学理论](formal_theory_quantum_reality_dynamics.md) [维度: 7.0]
+   - [信息几何理论](formal_theory_information_geometry.md) [维度: 7.0]
+   - [拓扑量子场论](formal_theory_topological_quantum_field.md) [维度: 7.0]
 
 2. **平行关联理论**：
-   - [量子熵动力学理论](formal_theory_quantum_entropy_dynamics.md) [维度: 7]
-   - [高维纠缠拓扑理论](formal_theory_high_dimensional_entanglement_topology.md) [维度: 7]
+   - [量子熵动力学理论](formal_theory_quantum_entropy_dynamics.md) [维度: 7.0]
+   - [高维纠缠拓扑理论](formal_theory_high_dimensional_entanglement_topology.md) [维度: 7.0]
 
 3. **后续依赖理论**：
-   - [宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md) [维度: 9]
-   - [超递归计算复杂性理论](formal_theory_hyperrecursive_computational_complexity.md) [维度: 8]
-   - [多维观察者演化理论](formal_theory_multidimensional_observer_evolution.md) [维度: 8]
+   - [宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md) [维度: 7.0]
+   - [超递归计算复杂性理论](formal_theory_hyperrecursive_computational_complexity.md) [维度: 7.0]
+   - [多维观察者演化理论](formal_theory_multidimensional_observer_evolution.md) [维度: 7.0]
 
 4. **理论引用图**：
    ```

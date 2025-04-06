@@ -1,5 +1,7 @@
 # Strict Formalization of Omnidimensional Reality Synthesis [Dimension: 35] v36.0
 
+[Chinese Version](formal_theory_omnidimensional_reality_synthesis.md)
+
 **[中文版](formal_theory_omnidimensional_reality_synthesis.md) | [English Version]**
 
 ## Table of Contents

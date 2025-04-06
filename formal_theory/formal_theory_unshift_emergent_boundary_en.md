@@ -1,5 +1,7 @@
 # UNSHIFT Emergent Boundary Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_emergent_boundary.md)
+
 **[中文版](formal_theory_unshift_emergent_boundary.md) | [English Version]**
 
 ## Table of Contents

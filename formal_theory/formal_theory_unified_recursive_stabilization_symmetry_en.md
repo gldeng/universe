@@ -1,5 +1,7 @@
 # Unified Recursive Stabilization Symmetry Theory [Dimension: 55] v36.0
 
+[Chinese Version](formal_theory_unified_recursive_stabilization_symmetry.md)
+
 **[中文版](formal_theory_unified_recursive_stabilization_symmetry.md) | [English Version]**
 
 ## Table of Contents

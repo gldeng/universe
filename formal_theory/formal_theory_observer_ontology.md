@@ -1,4 +1,4 @@
-# 观察者本体论的严格形式化描述 [维度: 17] v36.0
+# 观察者本体论的严格形式化描述 [维度: 17.0] v36.0
 
 **[中文版] | [English Version](formal_theory_observer_ontology_en.md)**
 

@@ -1,5 +1,7 @@
 # Formal Description of Biological Foundation [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_biological_foundation.md)
+
 **[English Version] | [中文版](formal_theory_biological_foundation.md)**
 
 ## Table of Contents

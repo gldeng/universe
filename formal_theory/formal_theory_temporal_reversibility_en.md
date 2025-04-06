@@ -1,5 +1,7 @@
 # Formal Description of Temporal Reversibility Theory [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_temporal_reversibility.md)
+
 **[中文版](formal_theory_temporal_reversibility.md) | [English Version]**
 
 ## Contents

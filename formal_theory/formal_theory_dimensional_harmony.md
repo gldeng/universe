@@ -1,4 +1,4 @@
-# 维度和谐理论的严格形式化描述 [维度: 18] v36.0
+# 维度和谐理论的严格形式化描述 [维度: 18.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dimensional_harmony_en.md)**
 

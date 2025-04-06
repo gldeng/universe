@@ -1,4 +1,4 @@
-# 生物系统复杂性的严格形式化描述 [维度: 23] v36.0
+# 生物系统复杂性的严格形式化描述 [维度: 23.0] v36.0
 
 **[中文版] | [English Version](formal_theory_biological_complexity_en.md)**
 
@@ -575,23 +575,23 @@ $`\mathcal{L}_{threshold} = \{\mathcal{C}_{min}, \mathcal{I}_{min}, \mathcal{E}_
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[物理学统一理论](formal_theory_physics_unification.md)** [维度: 22]
+1. **[物理学统一理论](formal_theory_physics_unification.md)** [维度: 23.0]
    - 提供物质基础与能量转换框架
    - 借用能量守恒与信息转换原理
 
-2. **[语言结构理论](formal_theory_language_structure.md)** [维度: 21]
+2. **[语言结构理论](formal_theory_language_structure.md)** [维度: 23.0]
    - 提供生物信息编码与信息处理模型
    - 借用语义网络表征方法
 
-3. **[社会系统动力学](formal_theory_social_system_dynamics.md)** [维度: 20]
+3. **[社会系统动力学](formal_theory_social_system_dynamics.md)** [维度: 23.0]
    - 提供群体行为与复杂系统模型
    - 借用涌现性与自组织概念
 
-4. **[经济学基础理论](formal_theory_economics_foundation.md)** [维度: 19]
+4. **[经济学基础理论](formal_theory_economics_foundation.md)** [维度: 23.0]
    - 提供资源分配与能量优化模型
    - 借用博弈论与资源竞争框架
 
-5. **[认知心理学理论](formal_theory_cognitive_psychology.md)** [维度: 18]
+5. **[认知心理学理论](formal_theory_cognitive_psychology.md)** [维度: 23.0]
    - 提供高级生物信息处理模型
    - 借用学习与适应机制
 

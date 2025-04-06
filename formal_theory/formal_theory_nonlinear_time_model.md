@@ -1,4 +1,4 @@
-# 时间非线性模型的严格形式化描述 [维度: 11] v36.0
+# 时间非线性模型的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_nonlinear_time_model_en.md)**
 
@@ -530,11 +530,11 @@ $`\text{SHIFT}^{-1}(\mathcal{C}_1) \oplus \mathcal{C}_1 = \text{SHIFT}^{-1}(\mat
 
 本理论直接依赖于以下理论框架：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供XOR-SHIFT基础框架
-2. **[维度谱系理论](formal_theory_dimensional_spectrum.md)** [维度: 9] - 提供维度层级结构
-3. **[信息-能量统一原理](formal_theory_information_energy_unification.md)** [维度: 11] - 提供时间-信息-能量关系
-4. **[意识本体论](formal_theory_consciousness_ontological_status.md)** [维度: 12] - 提供时间-意识映射基础
-5. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 9] - 提供量子-经典时间界面
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 11.0] - 提供XOR-SHIFT基础框架
+2. **[维度谱系理论](formal_theory_dimensional_spectrum.md)** [维度: 11.0] - 提供维度层级结构
+3. **[信息-能量统一原理](formal_theory_information_energy_unification.md)** [维度: 11.0] - 提供时间-信息-能量关系
+4. **[意识本体论](formal_theory_consciousness_ontological_status.md)** [维度: 11.0] - 提供时间-意识映射基础
+5. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 11.0] - 提供量子-经典时间界面
 
 ### 6.2 理论扩展
 

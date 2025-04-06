@@ -1,4 +1,4 @@
-# 双向量子-经典网关理论的严格形式化描述 [维度: 15] v36.0
+# 双向量子-经典网关理论的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dual_direction_quantum_classical_gateway_en.md)**
 
@@ -437,11 +437,11 @@ $`C_{CQ}(\Pi_{CQ}) < C_C(\Gamma_C)`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [量子与经典统一理论 [维度: 19]](formal_theory_quantum_classical_unification.md)
-3. [SHIFT量子-经典转换理论 [维度: 1]](formal_theory_shift_quantum_classical_transition.md)
-4. [UNSHIFT信息恢复理论 [维度: 2.1]](formal_theory_unshift_information_recovery.md)
-5. [经典-量子信息反馈循环理论 [维度: 13]](formal_theory_classical_quantum_information_feedback.md)
+1. [宇宙本论的严格形式化描述 [维度: 15.0]](formal_theory_cosmic_ontology.md)
+2. [量子与经典统一理论 [维度: 15.0]](formal_theory_quantum_classical_unification.md)
+3. [SHIFT量子-经典转换理论 [维度: 15.0]](formal_theory_shift_quantum_classical_transition.md)
+4. [UNSHIFT信息恢复理论 [维度: 15.0]](formal_theory_unshift_information_recovery.md)
+5. [经典-量子信息反馈循环理论 [维度: 15.0]](formal_theory_classical_quantum_information_feedback.md)
 
 理论的继承与扩展关系：
 - 基于宇宙本论的量子域与经典域基本定义

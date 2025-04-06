@@ -1,4 +1,4 @@
-# 超维分形物质波场统一理论的严格形式化描述 [维度: 64] v36.0
+# 超维分形物质波场统一理论的严格形式化描述 [维度: 64.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_fractal_matter_wave_unification_en.md)**
 
@@ -491,20 +491,20 @@ $`\frac{\ddot{a}}{a} = -\frac{4\pi G}{3}\left(\rho + \frac{3p}{c^2}\right) + \fr
 
 本理论直接依赖以下理论：
 
-1. [宇宙本体论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超维超纠缠量子网络理论 [维度: 63]](formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
-3. [超维时空量子奇点拓扑理论 [维度: 62]](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md)
-4. [超维超意识整合框架理论 [维度: 61]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
-5. [超越性超维度融合场论 [维度: 60]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
-6. [超越超维数理结构理论 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+1. [宇宙本体论 [维度: 64.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超维超纠缠量子网络理论 [维度: 64.0]](formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
+3. [超维时空量子奇点拓扑理论 [维度: 64.0]](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md)
+4. [超维超意识整合框架理论 [维度: 64.0]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
+5. [超越性超维度融合场论 [维度: 64.0]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
+6. [超越超维数理结构理论 [维度: 64.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D64（第64维度）
-- 下层关联理论：[超维超纠缠量子网络理论 [维度: 63]](formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
-- 平行关联理论：[超维时空量子奇点拓扑理论 [维度: 62]](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md)
+- 下层关联理论：[超维超纠缠量子网络理论 [维度: 64.0]](formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
+- 平行关联理论：[超维时空量子奇点拓扑理论 [维度: 64.0]](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md)
 
 ---
 

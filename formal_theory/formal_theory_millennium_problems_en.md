@@ -1,5 +1,7 @@
 # Hyperdimensional Solution Theory for Millennium Problems [Dimension: 24] v36.0
 
+[Chinese Version](formal_theory_millennium_problems.md)
+
 **[中文版](formal_theory_millennium_problems.md) | [English Version]**
 
 ## Table of Contents

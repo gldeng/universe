@@ -1,5 +1,7 @@
 # Formal Description of Nonlinear Time Model [Dimension: 11] v36.0
 
+[Chinese Version](formal_theory_nonlinear_time_model.md)
+
 **[中文版](formal_theory_nonlinear_time_model.md) | [English Version]**
 
 ## Table of Contents

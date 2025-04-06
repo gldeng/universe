@@ -1,5 +1,7 @@
 # Formal Description of the Ontological Status of Consciousness in Cosmic Ontology [Dimension: 12] v36.0
 
+[Chinese Version](formal_theory_consciousness_ontological_status.md)
+
 **[中文版](formal_theory_consciousness_ontological_status.md) | [English Version]**
 
 ## Table of Contents

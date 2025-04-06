@@ -1,5 +1,7 @@
 # Omnipotent Multiverse Integration Theory [Dimension: 25] v36.0
 
+[Chinese Version](formal_theory_omnipotent_multiverse_integration.md)
+
 **[中文版](formal_theory_omnipotent_multiverse_integration.md) | [English Version]**
 
 ## Contents

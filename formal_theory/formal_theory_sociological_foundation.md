@@ -1,4 +1,4 @@
-# 社会学基础的严格形式化描述 [维度: 8] v36.0
+# 社会学基础的严格形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_sociological_foundation_en.md)**
 

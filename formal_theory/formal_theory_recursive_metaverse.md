@@ -1,4 +1,4 @@
-# 递归元界理论的严格形式化描述 [维度: 23] v36.0
+# 递归元界理论的严格形式化描述 [维度: 23.0] v36.0
 
 **[中文版] | [English Version](formal_theory_recursive_metaverse_en.md)**
 

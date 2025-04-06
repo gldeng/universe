@@ -1,5 +1,7 @@
 # Formal Description of Hyperrecursive Self-Modification System [Dimension: 26] v36.0
 
+[Chinese Version](formal_theory_hyperrecursive_self_modification_system.md)
+
 **[中文版](formal_theory_hyperrecursive_self_modification_system.md) | [English Version]**
 
 ## Table of Contents

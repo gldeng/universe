@@ -1,4 +1,4 @@
-# 心理结构的严格形式化描述 [维度: 6] v36.0
+# 心理结构的严格形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_psychological_structures_en.md)**
 

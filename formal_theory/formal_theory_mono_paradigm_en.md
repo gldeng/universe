@@ -1,5 +1,7 @@
 # Formal Theory of Mono-Paradigm [Dimension: 1*] v36.0
 
+[Chinese Version](formal_theory_mono_paradigm.md)
+
 **[中文版](formal_theory_mono_paradigm.md) | [English Version]**
 
 ## Table of Contents

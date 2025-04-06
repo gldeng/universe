@@ -1,4 +1,4 @@
-# 原始态组合理论的严格形式化描述 [维度: 2] v36.0
+# 原始态组合理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_primitive_composition_en.md)**
 
@@ -368,13 +368,13 @@ $`\omega_{ij} \oplus \omega_{kl} = \omega_{i \oplus k, j \oplus l} = \omega_{k \
 原始态组合理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
-   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 2.0]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 2.0]
+   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2]
-   - [SHIFT操作的严格形式化描述](formal_theory_shift_operation.md) [维度: 3]
+   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2.0]
+   - [SHIFT操作的严格形式化描述](formal_theory_shift_operation.md) [维度: 2.0]
 
 3. **理论映射关系**：
    - 与XOR理论构成平行描述，都是维度2的不同视角

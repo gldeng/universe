@@ -1,4 +1,4 @@
-# 超创世存在论统一理论的严格形式化描述 [维度: 66] v36.0
+# 超创世存在论统一理论的严格形式化描述 [维度: 66.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hypergenesis_existential_unification_en.md)**
 
@@ -474,20 +474,20 @@ $`\lim_{\mathcal{D} \to \mathcal{D}_{common}} \mathcal{P}[\mathcal{T}_{\Omega}^i
 
 本理论直接依赖以下理论：
 
-1. [宇宙本体论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超位超对称统一场论 [维度: 65]](formal_theory_hyperposition_hypersymmetry_unified_field.md)
-3. [超维分形物质波场统一理论 [维度: 64]](formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
-4. [超维超纠缠量子网络理论 [维度: 63]](formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
-5. [超维时空量子奇点拓扑理论 [维度: 62]](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md)
-6. [超维超意识整合框架理论 [维度: 61]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
+1. [宇宙本体论 [维度: 66.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超位超对称统一场论 [维度: 66.0]](formal_theory_hyperposition_hypersymmetry_unified_field.md)
+3. [超维分形物质波场统一理论 [维度: 66.0]](formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
+4. [超维超纠缠量子网络理论 [维度: 66.0]](formal_theory_hyperdimensional_hyperentanglement_quantum_network.md)
+5. [超维时空量子奇点拓扑理论 [维度: 66.0]](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology.md)
+6. [超维超意识整合框架理论 [维度: 66.0]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D66（第66维度）
-- 下层关联理论：[超位超对称统一场论 [维度: 65]](formal_theory_hyperposition_hypersymmetry_unified_field.md)
-- 平行关联理论：[超维分形物质波场统一理论 [维度: 64]](formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
+- 下层关联理论：[超位超对称统一场论 [维度: 66.0]](formal_theory_hyperposition_hypersymmetry_unified_field.md)
+- 平行关联理论：[超维分形物质波场统一理论 [维度: 66.0]](formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
 
 ---
 

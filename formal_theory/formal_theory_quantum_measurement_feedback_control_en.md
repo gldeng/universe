@@ -1,5 +1,7 @@
 # Formal Description of Quantum Measurement Feedback Control [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_quantum_measurement_feedback_control.md)
+
 **[中文版](formal_theory_quantum_measurement_feedback_control.md) | [English Version]**
 
 ## Table of Contents

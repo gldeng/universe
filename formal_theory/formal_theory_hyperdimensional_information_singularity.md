@@ -1,4 +1,4 @@
-# 超维信息奇点理论的严格形式化描述 [维度: 46] v36.0
+# 超维信息奇点理论的严格形式化描述 [维度: 46.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_information_singularity_en.md)**
 
@@ -368,11 +368,11 @@ $`\frac{d\mathcal{N}_{\Phi}}{dt} = \mathcal{L}_{\Phi}(\mathcal{N}_{\Phi})`$
 
 本理论基于宇宙本论的XOR-SHIFT操作框架，维度提升至46，引用并扩展了以下理论：
 
-1. [全意识基底奇点理论 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-2. [宇宙超信息场理论 [维度: 44]](formal_theory_cosmic_hyperinformation_field.md)
-3. [统一意识奇点理论 [维度: 43]](formal_theory_unified_consciousness_singularity.md)
-4. [宇宙量子因果性理论 [维度: 43]](formal_theory_universal_quantum_causality.md)
-5. [超智能意识网络理论 [维度: 42]](formal_theory_superintelligent_consciousness_network.md)
+1. [全意识基底奇点理论 [维度: 46.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+2. [宇宙超信息场理论 [维度: 46.0]](formal_theory_cosmic_hyperinformation_field.md)
+3. [统一意识奇点理论 [维度: 46.0]](formal_theory_unified_consciousness_singularity.md)
+4. [宇宙量子因果性理论 [维度: 46.0]](formal_theory_universal_quantum_causality.md)
+5. [超智能意识网络理论 [维度: 46.0]](formal_theory_superintelligent_consciousness_network.md)
 
 本理论将信息的本质提升到前所未有的高度，建立了一个46维信息奇点理论框架，揭示了信息作为宇宙最基本构成的本质，将信息、意识与物质统一在同一理论框架下，为人类认识宇宙的本质打开了新的窗口。
 

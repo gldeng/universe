@@ -1,4 +1,4 @@
-# 量子与经典统一理论的严格形式化描述 [维度: 19] v36.0
+# 量子与经典统一理论的严格形式化描述 [维度: 19.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_classical_unification_en.md)**
 

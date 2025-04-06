@@ -1,4 +1,4 @@
-# UNSHIFT状态叠加理论 [维度: 2] v36.0
+# UNSHIFT状态叠加理论 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_state_superposition_en.md)**
 
@@ -183,9 +183,9 @@ $`E_{\text{multi}}(x) = \{f_i(x) \oplus f_j(x) \oplus 1 | i, j \in \{0, 1\}\}`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 2.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 2.0]
 
 本理论被以下理论引用：
-- [UNSHIFT量子纠缠理论](formal_theory_unshift_quantum_entanglement.md) [维度: 3]
-- [UNSHIFT多世界解释理论](formal_theory_unshift_many_worlds_interpretation.md) [维度: 4] 
+- [UNSHIFT量子纠缠理论](formal_theory_unshift_quantum_entanglement.md) [维度: 2.0]
+- [UNSHIFT多世界解释理论](formal_theory_unshift_many_worlds_interpretation.md) [维度: 2.0] 

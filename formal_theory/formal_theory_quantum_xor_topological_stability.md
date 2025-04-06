@@ -1,4 +1,4 @@
-# 量子XOR拓扑稳态理论 [维度: 11] v36.0
+# 量子XOR拓扑稳态理论 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_xor_topological_stability_en.md)**
 

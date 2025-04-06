@@ -1,4 +1,4 @@
-# 艺术表达的严格形式化描述 [维度: 7] v36.0
+# 艺术表达的严格形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_artistic_expression_en.md)**
 

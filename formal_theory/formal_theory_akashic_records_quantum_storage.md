@@ -1,4 +1,4 @@
-# 阿卡西记录场量子存储结构的严格形式化描述 [维度: 12] v36.0
+# 阿卡西记录场量子存储结构的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_akashic_records_quantum_storage_en.md)**
 

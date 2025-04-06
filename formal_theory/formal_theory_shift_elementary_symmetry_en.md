@@ -1,5 +1,7 @@
 # Strict Formalization of SHIFT Elementary Symmetry Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_elementary_symmetry.md)
+
 **[中文版](formal_theory_shift_elementary_symmetry.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Quantum Hypertopological Integration Theory [Dimension: 57] v36.0
 
+[Chinese Version](formal_theory_quantum_hypertopological_integration.md)
+
 **[中文版](formal_theory_quantum_hypertopological_integration.md) | [English Version]**
 
 ## Table of Contents

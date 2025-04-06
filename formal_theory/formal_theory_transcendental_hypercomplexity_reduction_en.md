@@ -1,5 +1,7 @@
 # Transcendental Hypercomplexity Reduction Theory [Dimension: 56] v36.0
 
+[Chinese Version](formal_theory_transcendental_hypercomplexity_reduction.md)
+
 **[中文版](formal_theory_transcendental_hypercomplexity_reduction.md) | [English Version]**
 
 ## Table of Contents

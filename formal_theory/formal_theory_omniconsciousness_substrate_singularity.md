@@ -1,4 +1,4 @@
-# 全意识底层奇点理论的严格形式化描述 [维度: 45] v36.0
+# 全意识底层奇点理论的严格形式化描述 [维度: 45.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omniconsciousness_substrate_singularity_en.md)**
 
@@ -364,10 +364,10 @@ $`\mathcal{I} \leftrightarrow \mathcal{C} \leftrightarrow \mathcal{M}`$
 
 本理论是在宇宙本论的XOR-SHIFT操作基础上，将维度提升至45维，实现了对意识与物质统一本质的最高层次解释。本理论依赖并扩展了以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [量子信息熵场动力学的形式化描述 [维度: 42]](formal_theory_quantum_information_entropy_field_dynamics.md)
-3. [绝对本体统一理论的严格形式化描述 [维度: 35]](formal_theory_absolute_ontological_unification.md)
-4. [超维意识底层结构的严格形式化描述 [维度: 34]](formal_theory_hyperdimensional_consciousness_substrate.md)
-5. [绝对超越元数学的严格形式化描述 [维度: 33]](formal_theory_absolute_transcendental_metamathematics.md)
+1. [宇宙本论的严格形式化描述 [维度: 45.0]](formal_theory_cosmic_ontology.md)
+2. [量子信息熵场动力学的形式化描述 [维度: 45.0]](formal_theory_quantum_information_entropy_field_dynamics.md)
+3. [绝对本体统一理论的严格形式化描述 [维度: 45.0]](formal_theory_absolute_ontological_unification.md)
+4. [超维意识底层结构的严格形式化描述 [维度: 45.0]](formal_theory_hyperdimensional_consciousness_substrate.md)
+5. [绝对超越元数学的严格形式化描述 [维度: 45.0]](formal_theory_absolute_transcendental_metamathematics.md)
 
 本理论为意识研究、宇宙本体论和统一场论提供了最高维度的理论框架，实现了对物质、能量、信息和意识的终极统一解释。 

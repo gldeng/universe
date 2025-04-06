@@ -1,5 +1,7 @@
 # Philosophical Foundations Theory: Formal Description [Dimension: 11] v36.0
 
+[Chinese Version](formal_theory_philosophical_foundations.md)
+
 **[中文版](formal_theory_philosophical_foundations.md) | [English Version]**
 
 ## Table of Contents

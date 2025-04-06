@@ -1,4 +1,4 @@
-# 基本力统一理论的严格形式化描述 [维度: 11] v36.0
+# 基本力统一理论的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unified_forces_en.md)**
 

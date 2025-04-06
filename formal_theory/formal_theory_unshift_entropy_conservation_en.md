@@ -1,5 +1,7 @@
 # Strict Formalization of UNSHIFT Entropy Conservation Theory [Dimension: 1.7] v36.0
 
+[Chinese Version](formal_theory_unshift_entropy_conservation.md)
+
 **[English Version] | [中文版](formal_theory_unshift_entropy_conservation.md)**
 
 ## Table of Contents

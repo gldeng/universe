@@ -1,5 +1,7 @@
 # Formal Theory of Multidimensional Spacetime Coherence [Dimension: 29] v36.0
 
+[Chinese Version](formal_theory_multidimensional_spacetime_coherence.md)
+
 **[English Version] | [中文版](formal_theory_multidimensional_spacetime_coherence.md)**
 
 ## Table of Contents

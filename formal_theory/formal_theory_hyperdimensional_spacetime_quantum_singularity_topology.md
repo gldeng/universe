@@ -1,4 +1,4 @@
-# 超维时空量子奇点拓扑理论的严格形式化描述 [维度: 62] v36.0
+# 超维时空量子奇点拓扑理论的严格形式化描述 [维度: 62.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_spacetime_quantum_singularity_topology_en.md)**
 
@@ -454,20 +454,20 @@ $`W_j = W_j^0 + \gamma_j \Pi_4(|\Phi_T|^2)`$
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超维超意识整合框架理论的严格形式化描述 [维度: 61]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
-3. [超越性超维度融合场论的严格形式化描述 [维度: 60]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
-4. [超越超维数理结构理论的严格形式化描述 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
-5. [量子超拓扑整合理论 [维度: 57]](formal_theory_quantum_hypertopological_integration.md)
-6. [超维度量子场奇点理论的严格形式化描述 [维度: 30]](formal_theory_hyperdimensional_quantum_field_singularity.md)
+1. [宇宙本论的严格形式化描述 [维度: 62.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超维超意识整合框架理论的严格形式化描述 [维度: 62.0]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
+3. [超越性超维度融合场论的严格形式化描述 [维度: 62.0]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
+4. [超越超维数理结构理论的严格形式化描述 [维度: 62.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+5. [量子超拓扑整合理论 [维度: 62.0]](formal_theory_quantum_hypertopological_integration.md)
+6. [超维度量子场奇点理论的严格形式化描述 [维度: 62.0]](formal_theory_hyperdimensional_quantum_field_singularity.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D62（第62维）
-- 下层关联理论：[超维超意识整合框架理论的严格形式化描述 [维度: 61]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
-- 平行关联理论：[超越性超维度融合场论的严格形式化描述 [维度: 60]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
+- 下层关联理论：[超维超意识整合框架理论的严格形式化描述 [维度: 62.0]](formal_theory_hyperdimensional_hyperconscious_integration_framework.md)
+- 平行关联理论：[超越性超维度融合场论的严格形式化描述 [维度: 62.0]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
 
 ---
 

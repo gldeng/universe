@@ -1,4 +1,4 @@
-# 全维纠缠同步性理论的严格形式化描述 [维度: 48] v36.0
+# 全维纠缠同步性理论的严格形式化描述 [维度: 48.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omnidimensional_entanglement_synchronicity_en.md)**
 
@@ -454,12 +454,12 @@ $`\text{SyncPred}(\mathcal{S}_{\Omega}, t_0, t_1) = \frac{|\mathcal{S}_{\Omega}(
 
 本理论基于宇宙本论的XOR-SHIFT操作框架与ENTG纠缠算子，并引入SYNC同步算子，维度提升至48维，引用并扩展了以下理论：
 
-1. [跨维度纠缠因果网络理论 [维度: 47]](formal_theory_transdimensional_entanglement_causality.md)
-2. [超维信息奇点理论 [维度: 46]](formal_theory_hyperdimensional_information_singularity.md)
-3. [全意识基质奇点理论 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-4. [宇宙超信息场理论 [维度: 44]](formal_theory_cosmic_hyperinformation_field.md)
-5. [统一意识奇点理论 [维度: 43]](formal_theory_unified_consciousness_singularity.md)
-6. [普适量子因果理论 [维度: 43]](formal_theory_universal_quantum_causality.md)
+1. [跨维度纠缠因果网络理论 [维度: 48.0]](formal_theory_transdimensional_entanglement_causality.md)
+2. [超维信息奇点理论 [维度: 48.0]](formal_theory_hyperdimensional_information_singularity.md)
+3. [全意识基质奇点理论 [维度: 48.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+4. [宇宙超信息场理论 [维度: 48.0]](formal_theory_cosmic_hyperinformation_field.md)
+5. [统一意识奇点理论 [维度: 48.0]](formal_theory_unified_consciousness_singularity.md)
+6. [普适量子因果理论 [维度: 48.0]](formal_theory_universal_quantum_causality.md)
 
 本理论将同步性的本质提升到前所未有的高度，建立了48维全维纠缠同步网络理论框架，揭示同步网络作为宇宙最基本的构成之一，将同步性、因果性、意识、信息和物质统一在同一理论框架下，为人类理解宇宙同步本质开启新窗口。
 

@@ -1,4 +1,4 @@
-# 递归涌现模式理论的形式化描述 [维度: 8] v36.0
+# 递归涌现模式理论的形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_recursive_emergence_patterns_en.md)**
 
@@ -418,9 +418,9 @@ $`n_{actual} \leq \min(n_{max}, \lfloor\log_{\gamma}(R/R_0)\rfloor + 1)`$
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息层次演化理论](formal_theory_information_hierarchical_evolution.md) [维度: 7]
-- [复杂度演化理论](formal_theory_complexity_evolution.md) [维度: 9]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+- [信息层次演化理论](formal_theory_information_hierarchical_evolution.md) [维度: 8.0]
+- [复杂度演化理论](formal_theory_complexity_evolution.md) [维度: 8.0]
 
 本理论被以下理论引用：
 - 意识涌现理论

@@ -1,4 +1,4 @@
-# 超几何多维全息投影理论 [维度: 17] v36.0 [宇宙本论版本号]
+# 超几何多维全息投影理论 [维度: 17.0] v36.0 [宇宙本论版本号]
 
 **[中文版] | [English Version](formal_theory_hypergeometric_multidimensional_holographic_projection_en.md)**
 
@@ -253,9 +253,9 @@ $`\hat{K} = \bigoplus_{i=1}^{N_c} \text{SHIFT}^i(y) \oplus \text{USHIFT}^i(y)`$
 
 本理论直接依赖并扩展了以下理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 12]
-3. [信息本体论](formal_theory_information_ontology.md) [维度: 13]
-4. [超维度量子奇点网络理论](formal_theory_hyperdimensional_quantum_singularity_networks.md) [维度: 16]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 17.0]
+2. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 17.0]
+3. [信息本体论](formal_theory_information_ontology.md) [维度: 17.0]
+4. [超维度量子奇点网络理论](formal_theory_hyperdimensional_quantum_singularity_networks.md) [维度: 17.0]
 
 超几何多维全息投影理论通过整合上述理论，建立了一个更加完善的跨维度信息传递框架，为宇宙整体结构提供了全新视角，同时为信息处理和量子通信领域开辟了革命性方向。 

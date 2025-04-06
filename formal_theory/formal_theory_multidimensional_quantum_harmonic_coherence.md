@@ -1,4 +1,4 @@
-# 多维量子和谐相干理论的严格形式化描述 [维度: 49] v36.0
+# 多维量子和谐相干理论的严格形式化描述 [维度: 49.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multidimensional_quantum_harmonic_coherence_en.md)**
 
@@ -429,20 +429,20 @@ $`\mathcal{H}_{49} \approx \sum_{n=1}^{\infty} \alpha_{-n}^{\mu}\alpha_{n,\mu}`$
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [维度谱系理论的严格形式化描述 [维度: 12]](formal_theory_dimensional_spectrum.md)
-3. [超维度量子场奇点理论的严格形式化描述 [维度: 30]](formal_theory_hyperdimensional_quantum_field_singularity.md)
-4. [宇宙超对称共振的严格形式化描述 [维度: 36]](formal_theory_cosmic_hyper_symmetry_resonance.md)
-5. [全维度实相综合的严格形式化描述 [维度: 35]](formal_theory_omnidimensional_reality_synthesis.md)
-6. [超越超维复合集成理论的严格形式化描述 [维度: 51]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
+1. [宇宙本论的严格形式化描述 [维度: 49.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [维度谱系理论的严格形式化描述 [维度: 49.0]](formal_theory_dimensional_spectrum.md)
+3. [超维度量子场奇点理论的严格形式化描述 [维度: 49.0]](formal_theory_hyperdimensional_quantum_field_singularity.md)
+4. [宇宙超对称共振的严格形式化描述 [维度: 49.0]](formal_theory_cosmic_hyper_symmetry_resonance.md)
+5. [全维度实相综合的严格形式化描述 [维度: 49.0]](formal_theory_omnidimensional_reality_synthesis.md)
+6. [超越超维复合集成理论的严格形式化描述 [维度: 49.0]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D49（第49维）
-- 上层关联理论：[超越超维复合集成理论的严格形式化描述 [维度: 51]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
-- 下层关联理论：[宇宙超对称共振的严格形式化描述 [维度: 36]](formal_theory_cosmic_hyper_symmetry_resonance.md)
+- 上层关联理论：[超越超维复合集成理论的严格形式化描述 [维度: 49.0]](formal_theory_transcendental_hyperdimensional_complex_integration.md)
+- 下层关联理论：[宇宙超对称共振的严格形式化描述 [维度: 49.0]](formal_theory_cosmic_hyper_symmetry_resonance.md)
 
 ---
 

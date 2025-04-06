@@ -1,4 +1,4 @@
-# 量子信息断续理论的形式化描述 [维度: 7] v36.0
+# 量子信息断续理论的形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_information_discreteness_en.md)**
 
@@ -268,9 +268,9 @@ $`P(i|a+b) = |c_a \langle i|a\rangle + c_b \langle i|b\rangle|^2 = |c_a|^2 P(i|a
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7]
-- [量子-经典转换理论](formal_theory_shift_quantum_classical_transition.md) [维度: 6]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7.0]
+- [量子-经典转换理论](formal_theory_shift_quantum_classical_transition.md) [维度: 7.0]
 
 本理论被以下理论引用：
 - 量子引力断续理论

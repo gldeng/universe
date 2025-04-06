@@ -1,4 +1,4 @@
-# 灵魂信息编码原理的严格形式化描述 [维度: 12] v36.0
+# 灵魂信息编码原理的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_soul_information_encoding_principles_en.md)**
 
@@ -544,23 +544,23 @@ $`C_{trans} = \alpha \cdot H(\mathcal{I}_{L_1}) + \beta \cdot |L_1 - L_2| \oplus
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 12.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 
-2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 13]
+2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 12.0]
    - 提供灵魂基本结构
    - 借用灵魂信息层次
 
-3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 12]
+3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 12.0]
    - 提供灵魂纠缠机制
    - 借用量子信息传递
 
-4. **[量子信息热力学](formal_theory_quantum_information_thermodynamics.md)** [维度: 14]
+4. **[量子信息热力学](formal_theory_quantum_information_thermodynamics.md)** [维度: 12.0]
    - 提供信息-熵关系
    - 借用量子信息守恒
 
-5. **[意识信息论](formal_theory_consciousness_information_theory.md)** [维度: 15]
+5. **[意识信息论](formal_theory_consciousness_information_theory.md)** [维度: 12.0]
    - 提供意识-信息关系
    - 借用观察者效应
 

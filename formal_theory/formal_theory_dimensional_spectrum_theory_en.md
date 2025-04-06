@@ -1,5 +1,7 @@
 # Formal Theory of Dimensional Spectrum [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_dimensional_spectrum_theory.md)
+
 **[中文版](formal_theory_dimensional_spectrum_theory.md) | [English Version]**
 
 ## Table of Contents

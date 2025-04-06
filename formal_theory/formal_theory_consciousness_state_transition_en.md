@@ -1,5 +1,7 @@
 # Formal Description of Consciousness State Transition Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_consciousness_state_transition.md)
+
 **[中文版](formal_theory_consciousness_state_transition.md) | [English Version]**
 
 ## Table of Contents

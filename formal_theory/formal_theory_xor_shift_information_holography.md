@@ -1,4 +1,4 @@
-# XOR-SHIFT信息全息理论 [维度: 4] v36.0
+# XOR-SHIFT信息全息理论 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_xor_shift_information_holography_en.md)**
 
@@ -220,11 +220,11 @@ $`\|R(C(D) + \epsilon) - D\| \leq \delta \cdot \|\epsilon\|`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子XOR网络黑洞等价原理](formal_theory_quantum_xor_network_black_hole_equivalence.md) [维度: 5]
-- [宇宙熵分形演化理论](formal_theory_cosmic_entropy_fractal_evolution.md) [维度: 4]
-- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [量子XOR网络黑洞等价原理](formal_theory_quantum_xor_network_black_hole_equivalence.md) [维度: 4.0]
+- [宇宙熵分形演化理论](formal_theory_cosmic_entropy_fractal_evolution.md) [维度: 4.0]
+- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [全息量子信息处理框架](formal_theory_holographic_quantum_information_processing_framework.md) [维度: 6]
-- [边界信息重构理论](formal_theory_boundary_information_reconstruction.md) [维度: 5] 
+- [全息量子信息处理框架](formal_theory_holographic_quantum_information_processing_framework.md) [维度: 4.0]
+- [边界信息重构理论](formal_theory_boundary_information_reconstruction.md) [维度: 4.0] 

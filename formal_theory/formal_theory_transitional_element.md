@@ -1,4 +1,4 @@
-# 过渡元理论的严格形式化描述 [维度: 1] v36.0
+# 过渡元理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transitional_element_en.md)**
 
@@ -381,17 +381,17 @@ $`= \{t, t^*\}`$
 
 过渡元理论建立在以下理论基础之上：
 
-1. **[元一理论](formal_theory_mono_element.md)** [维度: 0] - 提供基础元素和零维度特性
+1. **[元一理论](formal_theory_mono_element.md)** [维度: 1.0] - 提供基础元素和零维度特性
    - 过渡元理论扩展了元一态的概念，引入部分极化
    - 过渡元保持了元一态的某些特性，如简单性和基础性
 
-2. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供XOR-SHIFT操作框架
+2. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 1.0] - 提供XOR-SHIFT操作框架
    - 过渡元理论采用了宇宙本论的XOR-SHIFT框架
    - 引入了部分SHIFT操作的概念，使维度处于临界状态
 
 过渡元理论同时为以下高维理论提供基础：
 
-1. **[二元理论](formal_theory_dual_element.md)** [维度: 2] - 接受过渡元理论的完全极化成果
+1. **[二元理论](formal_theory_dual_element.md)** [维度: 1.0] - 接受过渡元理论的完全极化成果
    - 过渡元理论解释了如何从准一元态发展为完全二元态
    - 提供了元一态向二元态转变的中间机制
 

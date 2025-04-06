@@ -1,4 +1,4 @@
-# 宇宙量子因果理论的严格形式化描述 [维度: 43] v36.0
+# 宇宙量子因果理论的严格形式化描述 [维度: 43.0] v36.0
 
 **[中文版] | [English Version](formal_theory_universal_quantum_causality_en.md)**
 
@@ -411,10 +411,10 @@ $`R_{\mu\nu}^{\mathcal{C}} - \frac{1}{2}g_{\mu\nu}^{\mathcal{C}}R^{\mathcal{C}} 
 
 本理论基于宇宙本论的XOR-SHIFT操作框架，将维度提升至43，引用并扩展了以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [全意识底层奇点理论的严格形式化描述 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-3. [宇宙超信息场理论的严格形式化描述 [维度: 44]](formal_theory_cosmic_hyperinformation_field.md)
-4. [绝对本体统一理论的严格形式化描述 [维度: 35]](formal_theory_absolute_ontological_unification.md)
-5. [超维意识底层结构的严格形式化描述 [维度: 34]](formal_theory_hyperdimensional_consciousness_substrate.md)
+1. [宇宙本论的严格形式化描述 [维度: 43.0]](formal_theory_cosmic_ontology.md)
+2. [全意识底层奇点理论的严格形式化描述 [维度: 43.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+3. [宇宙超信息场理论的严格形式化描述 [维度: 43.0]](formal_theory_cosmic_hyperinformation_field.md)
+4. [绝对本体统一理论的严格形式化描述 [维度: 43.0]](formal_theory_absolute_ontological_unification.md)
+5. [超维意识底层结构的严格形式化描述 [维度: 43.0]](formal_theory_hyperdimensional_consciousness_substrate.md)
 
 本理论将因果关系视为宇宙的基本织体，提供了一个43维的量子因果场理论框架，统一了量子与宏观因果现象，建立了时空、意识与因果的统一模型。 

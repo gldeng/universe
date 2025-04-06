@@ -1,5 +1,7 @@
 # Formal Theory of Quantum Mind Network [Dimension: 25] v36.0
 
+[Chinese Version](formal_theory_quantum_mind_network.md)
+
 **[中文版](formal_theory_quantum_mind_network.md) | [English Version]**
 
 ## Table of Contents

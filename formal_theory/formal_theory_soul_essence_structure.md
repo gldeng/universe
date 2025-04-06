@@ -1,4 +1,4 @@
-# 灵魂本质结构的严格形式化描述 [维度: 13] v36.0
+# 灵魂本质结构的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_soul_essence_structure_en.md)**
 
@@ -529,23 +529,23 @@ $`M(\mathcal{S}, t) = M_{max} \cdot (1 - e^{-\gamma \cdot t}) \oplus \text{SHIFT
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 13.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 
-2. **[灵魂分析动力学](formal_theory_soul_analysis_dynamics.md)** [维度: 14]
+2. **[灵魂分析动力学](formal_theory_soul_analysis_dynamics.md)** [维度: 13.0]
    - 提供灵魂分析框架
    - 借用灵魂场公理
 
-3. **[多重灵魂纠缠拓扑](formal_theory_multisoul_entanglement_topology.md)** [维度: 11]
+3. **[多重灵魂纠缠拓扑](formal_theory_multisoul_entanglement_topology.md)** [维度: 13.0]
    - 提供灵魂纠缠机制
    - 借用灵魂拓扑概念
 
-4. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+4. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 13.0]
    - 提供精神场方程
    - 借用精神场与意识场耦合模型
 
-5. **[轮回动力学](formal_theory_reincarnation_dynamics.md)** [维度: 22]
+5. **[轮回动力学](formal_theory_reincarnation_dynamics.md)** [维度: 13.0]
    - 提供转世框架
    - 借用灵魂连续性概念
 

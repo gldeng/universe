@@ -1,4 +1,4 @@
-# 信息与能量统一原理的严格形式化描述 [维度: 11] v36.0
+# 信息与能量统一原理的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_energy_unification_en.md)**
 
@@ -502,11 +502,11 @@ $`\int^{IE} \frac{d^{IE}\mathcal{G}}{dx}dx = \mathcal{G} \oplus C`$
 
 本理论直接依赖于以下理论框架：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供XOR-SHIFT基础框架和宇宙状态表示
-2. **[信息本体论](formal_theory_information_ontology.md)** [维度: 8] - 提供信息基本性质和结构
-3. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 9] - 提供量子-经典界面的转换机制
-4. **[信息场理论](formal_theory_information_field.md)** [维度: 8] - 提供信息场表示方法
-5. **[信息守恒理论](formal_theory_information_conservation.md)** [维度: 7] - 提供信息守恒基础
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 11.0] - 提供XOR-SHIFT基础框架和宇宙状态表示
+2. **[信息本体论](formal_theory_information_ontology.md)** [维度: 11.0] - 提供信息基本性质和结构
+3. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 11.0] - 提供量子-经典界面的转换机制
+4. **[信息场理论](formal_theory_information_field.md)** [维度: 11.0] - 提供信息场表示方法
+5. **[信息守恒理论](formal_theory_information_conservation.md)** [维度: 11.0] - 提供信息守恒基础
 
 ### 6.2 理论扩展
 

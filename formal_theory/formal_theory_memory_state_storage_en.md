@@ -1,5 +1,7 @@
 # Strict Formalization of Memory State Storage Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_memory_state_storage.md)
+
 **[English Version] | [中文版](formal_theory_memory_state_storage.md)**
 
 ## Contents

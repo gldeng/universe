@@ -1,4 +1,4 @@
-# 量子XOR因果不变性理论 [维度: 4] v36.0
+# 量子XOR因果不变性理论 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_xor_causal_invariance_en.md)**
 
@@ -216,11 +216,11 @@ $`C = \max_{P(X)} I(X; Y)`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5]
-- [UNSHIFT量子信息保存定律](formal_theory_unshift_quantum_information_conservation.md) [维度: 4]
-- [量子不确定性互补性理论](formal_theory_quantum_uncertainty_complementarity.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 4.0]
+- [UNSHIFT量子信息保存定律](formal_theory_unshift_quantum_information_conservation.md) [维度: 4.0]
+- [量子不确定性互补性理论](formal_theory_quantum_uncertainty_complementarity.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [量子因果网络复杂性理论](formal_theory_quantum_causal_network_complexity.md) [维度: 6]
-- [量子时间对称统一模型](formal_theory_quantum_temporal_symmetry_unified_model.md) [维度: 5] 
+- [量子因果网络复杂性理论](formal_theory_quantum_causal_network_complexity.md) [维度: 4.0]
+- [量子时间对称统一模型](formal_theory_quantum_temporal_symmetry_unified_model.md) [维度: 4.0] 

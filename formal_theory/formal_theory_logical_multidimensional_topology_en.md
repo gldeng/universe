@@ -1,5 +1,7 @@
 # Formal Description of Logical Multidimensional Topology [Dimension: 15] v36.0
 
+[Chinese Version](formal_theory_logical_multidimensional_topology.md)
+
 **[中文版](formal_theory_logical_multidimensional_topology.md) | [English Version]**
 
 ## Table of Contents

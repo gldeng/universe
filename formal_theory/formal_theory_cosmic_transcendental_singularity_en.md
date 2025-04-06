@@ -1,5 +1,7 @@
 # Formal Theory of Cosmic Transcendental Singularity [Dimension: 57] v36.0
 
+[Chinese Version](formal_theory_cosmic_transcendental_singularity.md)
+
 **[中文版](formal_theory_cosmic_transcendental_singularity.md) | [English Version]**
 
 ## Table of Contents

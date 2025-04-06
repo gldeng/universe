@@ -1,5 +1,7 @@
 # Formal Description of UNSHIFT Quantum Coherence Theory [Dimension: 2.3] v36.0
 
+[Chinese Version](formal_theory_unshift_quantum_coherence.md)
+
 **[中文版](formal_theory_unshift_quantum_coherence.md) | [English Version]**
 
 ## Table of Contents

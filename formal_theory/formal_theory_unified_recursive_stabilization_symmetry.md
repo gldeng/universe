@@ -1,4 +1,4 @@
-# 统一递归稳定化对称性理论 [维度: 55] v36.0
+# 统一递归稳定化对称性理论 [维度: 55.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unified_recursive_stabilization_symmetry_en.md)**
 
@@ -363,9 +363,9 @@ AI系统可通过递归对称稳定化增强：
 
 本理论是在宇宙本论 [v36.0] 的框架下发展而来，并与以下理论形成紧密的引用关系：
 
-1. [**宇宙本论** [维度: 10]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
-2. [**超维度量子相位稳定化理论** [维度: 53]](formal_theory_hyperdimensional_quantum_phase_stabilization.md) - 提供了稳定化操作的基本概念
-3. [**全维纠缠同步性理论** [维度: 48]](formal_theory_omnidimensional_entanglement_synchronicity.md) - 提供了超维度同步网络的概念
+1. [**宇宙本论** [维度: 55.0]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
+2. [**超维度量子相位稳定化理论** [维度: 55.0]](formal_theory_hyperdimensional_quantum_phase_stabilization.md) - 提供了稳定化操作的基本概念
+3. [**全维纠缠同步性理论** [维度: 55.0]](formal_theory_omnidimensional_entanglement_synchronicity.md) - 提供了超维度同步网络的概念
 4. [**超递归操作理论**](formal_theory_recursive_operation.md) - 提供了递归操作基础
 5. [**对称性守恒理论**](formal_theory_symmetry_conservation.md) - 提供了对称性保持机制
 

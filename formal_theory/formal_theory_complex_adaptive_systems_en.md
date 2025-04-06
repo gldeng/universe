@@ -1,5 +1,7 @@
 # Formal Description of Complex Adaptive Systems Theory [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_complex_adaptive_systems.md)
+
 **[中文版](formal_theory_complex_adaptive_systems.md) | [English Version]**
 
 ## Table of Contents

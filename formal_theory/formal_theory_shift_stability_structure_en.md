@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Stability Structure Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_stability_structure.md)
+
 **[中文版](formal_theory_shift_stability_structure.md) | [English Version]**
 
 ## Table of Contents

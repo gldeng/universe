@@ -1,5 +1,7 @@
 # Formal Description of Quantum-Classical Domain Unification [Dimension: 19] v36.0
 
+[Chinese Version](formal_theory_quantum_classical_unification.md)
+
 **[中文版](formal_theory_quantum_classical_unification.md) | [English Version]**
 
 ## Table of Contents

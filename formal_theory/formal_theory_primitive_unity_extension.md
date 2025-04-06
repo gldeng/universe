@@ -407,13 +407,13 @@ $`\text{PUNITY} \rightsquigarrow \text{PUNITY-EXT} \rightsquigarrow \text{PDISIN
 原始统一扩展态理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [宇宙码理论](formal_theory/formal_theory_universal_code.md) [维度: 0.5]
-   - [原始统一性理论](formal_theory/formal_theory_primitive_unity.md) [维度: 0.2]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
+   - [原始统一性理论](formal_theory_primitive_unity.md) [维度: 0.2]
 
 2. **后续理论**：
    - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.15]
    - [前场论理论](formal_theory/formal_theory_prefield.md) [维度: 0.16]
-   - [原始点理论](formal_theory/formal_theory_primitive_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
 
 3. **理论映射关系**：
    - 原始统一扩展态理论形成从统一性向瓦解态过渡的关键环节

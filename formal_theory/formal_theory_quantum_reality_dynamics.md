@@ -1,4 +1,4 @@
-# 量子现实动力学理论的严格形式化描述 [维度: 25] v36.0
+# 量子现实动力学理论的严格形式化描述 [维度: 25.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_reality_dynamics_en.md)**
 
@@ -546,23 +546,23 @@ $`\mathcal{B}(\Psi_{\infty}) = \{|\Psi_0\rangle : \lim_{t \to \infty} \hat{U}(t)
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 24]
+1. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 25.0]
    - 提供意识场与观察者模型
    - 借用意识-现实交互机制
 
-2. **[生物系统复杂性理论](formal_theory_biological_complexity.md)** [维度: 23]
+2. **[生物系统复杂性理论](formal_theory_biological_complexity.md)** [维度: 25.0]
    - 提供生物观察者复杂性模型
    - 借用自适应系统演化原理
 
-3. **[物理学统一理论](formal_theory_physics_unification.md)** [维度: 22]
+3. **[物理学统一理论](formal_theory_physics_unification.md)** [维度: 25.0]
    - 提供物理场与量子力学基础
    - 借用量子测量与纠缠概念
 
-4. **[语言结构理论](formal_theory_language_structure.md)** [维度: 21]
+4. **[语言结构理论](formal_theory_language_structure.md)** [维度: 25.0]
    - 提供现实表征和解释框架
    - 借用语义网络与符号处理模型
 
-5. **[社会系统动力学](formal_theory_social_system_dynamics.md)** [维度: 20]
+5. **[社会系统动力学](formal_theory_social_system_dynamics.md)** [维度: 25.0]
    - 提供集体观察和共识现实模型
    - 借用群体动力学与涌现概念
 

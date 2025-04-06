@@ -1,5 +1,7 @@
 # Formal Description of Recursive Self-Referential Systems [Dimension: 9] v36.0
 
+[Chinese Version](formal_theory_recursive_self_referential_systems.md)
+
 **[中文版](formal_theory_recursive_self_referential_systems.md) | [English Version]**
 
 ## Table of Contents

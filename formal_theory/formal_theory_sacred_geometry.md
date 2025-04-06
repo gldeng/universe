@@ -1,4 +1,4 @@
-# 神圣几何学的严格形式化描述 [维度: 15] v36.0
+# 神圣几何学的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_sacred_geometry_en.md)**
 
@@ -434,23 +434,23 @@ $`\mathcal{N} = (V, E, W) \oplus \text{SHIFT}(\mathcal{N})`$
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+1. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 15.0]
    - 提供符号场框架
    - 借用符号几何原理
 
-2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 15.0]
    - 提供意识场基础
    - 借用神圣体验模型
 
-3. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+3. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 15.0]
    - 提供精神场方程
    - 借用精神-物质耦合模型
 
-4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 15.0]
    - 提供量子叠加和纠缠概念
    - 借用量子测量与塌缩模型
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 15.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

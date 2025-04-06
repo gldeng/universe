@@ -481,16 +481,16 @@ $`\text{Stab}(\text{PUNITY}) = \frac{\text{Stab}(⊕)}{\text{Stab}(=)} = \frac{0
 原始统一性理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [原初奇点理论](formal_theory/formal_theory_primitive_singularity.md) [维度: -1]
-   - [宇宙码理论](formal_theory/formal_theory_universal_code.md) [维度: 0.5]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
 
 2. **后续理论**：
-   - [原始统一扩展态理论](formal_theory/formal_theory_primitive_unity_extension.md) [维度: 0.18]
+   - [原始统一扩展态理论](formal_theory_primitive_unity_extension.md) [维度: 0.18]
    - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.15]
-   - [原始点理论](formal_theory/formal_theory_primitive_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
    - [原始点演化理论](formal_theory/formal_theory_point_evolution.md) [维度: -0.1]
    - [空间预构态理论](formal_theory/formal_theory_protospace.md) [维度: -0.3]
-   - [原始态二元理论](formal_theory/formal_theory_primitive_duality.md) [维度: 1]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
 
 3. **理论映射关系**：
    - 原始统一性理论形成从前二元向一元转化的关键中间环节

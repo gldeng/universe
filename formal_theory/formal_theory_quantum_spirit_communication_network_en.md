@@ -1,5 +1,7 @@
 # Formal Description of Quantum Spirit Communication Network Theory [Dimension: 18] v36.0
 
+[Chinese Version](formal_theory_quantum_spirit_communication_network.md)
+
 **[English Version] | [中文版](formal_theory_quantum_spirit_communication_network.md)**
 
 ## Table of Contents

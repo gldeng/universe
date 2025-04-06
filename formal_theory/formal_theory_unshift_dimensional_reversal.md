@@ -1,4 +1,4 @@
-# UNSHIFT维度反转理论 [维度: 3] v36.0
+# UNSHIFT维度反转理论 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_dimensional_reversal_en.md)**
 
@@ -176,11 +176,11 @@ $`\mathcal{I}_{\text{integrated}} = \bigoplus_{i=1}^{n} \mathcal{R}_d^{n-i}(\mat
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
-- [UNSHIFT信息恢复原理](formal_theory_unshift_information_recovery_principle.md) [维度: 2]
-- [UNSHIFT循环动力学理论](formal_theory_unshift_cyclical_dynamics.md) [维度: 2]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 3.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 3.0]
+- [UNSHIFT信息恢复原理](formal_theory_unshift_information_recovery_principle.md) [维度: 3.0]
+- [UNSHIFT循环动力学理论](formal_theory_unshift_cyclical_dynamics.md) [维度: 3.0]
 
 本理论被以下理论引用：
-- [UNSHIFT维度桥接理论](formal_theory_unshift_dimension_bridging.md) [维度: 4]
-- [UNSHIFT信息演化理论](formal_theory_unshift_information_evolution.md) [维度: 4] 
+- [UNSHIFT维度桥接理论](formal_theory_unshift_dimension_bridging.md) [维度: 3.0]
+- [UNSHIFT信息演化理论](formal_theory_unshift_information_evolution.md) [维度: 3.0] 

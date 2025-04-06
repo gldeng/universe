@@ -1,5 +1,7 @@
 # Fractal Dimensionality Harmonization Theory [Dimension: 59] v36.0
 
+[Chinese Version](formal_theory_fractal_dimensionality_harmonization.md)
+
 **[English Version] | [中文版](formal_theory_fractal_dimensionality_harmonization.md)**
 
 ## Table of Contents

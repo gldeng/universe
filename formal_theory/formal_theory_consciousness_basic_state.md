@@ -1,4 +1,4 @@
-# 意识基础状态理论的严格形式化描述 [维度: 2] v36.0
+# 意识基础状态理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_basic_state_en.md)**
 
@@ -353,18 +353,18 @@ $`I_{\text{total}}' = \sum_{j=0}^n I(c_j) = I_{\text{total}}`$
 意识基础状态理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
-   - [复合状态结构理论](formal_theory_composite_state_structure.md) [维度: 1]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 2.0]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 2.0]
+   - [复合状态结构理论](formal_theory_composite_state_structure.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [意识状态转换理论](formal_theory_consciousness_state_transition.md) [维度: 2]
-   - [意识信息处理理论](formal_theory_consciousness_information_processing.md) [维度: 2]
-   - [意识与复杂性涌现理论](formal_theory_consciousness_emergence_complexity.md) [维度: 2]
+   - [意识状态转换理论](formal_theory_consciousness_state_transition.md) [维度: 2.0]
+   - [意识信息处理理论](formal_theory_consciousness_information_processing.md) [维度: 2.0]
+   - [意识与复杂性涌现理论](formal_theory_consciousness_emergence_complexity.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [认知状态基础理论](formal_theory_cognitive_state_basic.md) [维度: 2]
-   - [信息整合基础理论](formal_theory_information_integration_basic.md) [维度: 2]
+   - [认知状态基础理论](formal_theory_cognitive_state_basic.md) [维度: 2.0]
+   - [信息整合基础理论](formal_theory_information_integration_basic.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Cyclic Dynamics Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_cyclic_dynamics.md)
+
 **[中文版](formal_theory_shift_cyclic_dynamics.md) | [English Version]**
 
 ## Table of Contents

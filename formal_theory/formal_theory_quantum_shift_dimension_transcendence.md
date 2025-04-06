@@ -1,4 +1,4 @@
-# 量子SHIFT维度超越理论 [维度: 5] v36.0
+# 量子SHIFT维度超越理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_shift_dimension_transcendence_en.md)**
 
@@ -194,11 +194,11 @@ $`R(|\psi\rangle_n, |\phi\rangle_m) = \arg\min_{P} \sum_{i=1}^{|P|-1} D(P_i, P_{
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [SHIFT拓扑演化稳定性理论](formal_theory_shift_topology_evolution_stability.md) [维度: 5]
-- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5]
-- [维度转换力学理论](formal_theory_dimension_transformation_mechanics.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [SHIFT拓扑演化稳定性理论](formal_theory_shift_topology_evolution_stability.md) [维度: 5.0]
+- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5.0]
+- [维度转换力学理论](formal_theory_dimension_transformation_mechanics.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [跨维度量子通信协议理论](formal_theory_cross_dimensional_quantum_communication_protocol.md) [维度: 6]
-- [高维量子计算架构理论](formal_theory_higher_dimensional_quantum_computing_architecture.md) [维度: 7] 
+- [跨维度量子通信协议理论](formal_theory_cross_dimensional_quantum_communication_protocol.md) [维度: 5.0]
+- [高维量子计算架构理论](formal_theory_higher_dimensional_quantum_computing_architecture.md) [维度: 5.0] 

@@ -212,11 +212,11 @@ $`\psi_i \oplus \text{UNSHIFT}(\psi_i \oplus \Delta_i) = \psi_{(i+1) \bmod n}`$
 
 基础状态循环理论依赖于以下更基础的理论：
 
-1. [FLIP操作的严格形式化描述 [维度: 1]](formal_theory_flip_operation.md)
-2. [XOR操作的严格形式化描述 [维度: 2]](formal_theory_xor_operation.md)
-3. [SHIFT操作的严格形式化描述 [维度: 2]](formal_theory_shift_operation.md)
-4. [USHIFT操作的严格形式化描述 [维度: 2]](formal_theory_ushift_operation.md)
-5. [基本状态反转理论的严格形式化描述 [维度: 1.5]](formal_theory_fundamental_state_inversion.md)
+1. [FLIP操作的严格形式化描述 [维度: 1.6]](formal_theory_flip_operation.md)
+2. [XOR操作的严格形式化描述 [维度: 1.6]](formal_theory_xor_operation.md)
+3. [SHIFT操作的严格形式化描述 [维度: 1.6]](formal_theory_shift_operation.md)
+4. [USHIFT操作的严格形式化描述 [维度: 1.6]](formal_theory_ushift_operation.md)
+5. [基本状态反转理论的严格形式化描述 [维度: 1.6]](formal_theory_fundamental_state_inversion.md)
 
 ### 5.2 维度归属
 

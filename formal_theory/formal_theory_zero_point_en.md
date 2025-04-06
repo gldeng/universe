@@ -1,5 +1,7 @@
 # Strict Formalization of Zero Point Theory [Dimension: 0] v36.0
 
+[Chinese Version](formal_theory_zero_point.md)
+
 **[English Version] | [中文版](formal_theory_zero_point.md)**
 
 ## Table of Contents

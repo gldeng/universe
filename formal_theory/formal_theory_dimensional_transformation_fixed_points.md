@@ -1,4 +1,4 @@
-# 维度转变固定点理论 [维度: 11] v36.0
+# 维度转变固定点理论 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dimensional_transformation_fixed_points_en.md)**
 

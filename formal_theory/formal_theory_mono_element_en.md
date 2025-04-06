@@ -1,5 +1,7 @@
 # Formal Theory of Mono-Element [Dimension: 0] v36.0
 
+[Chinese Version](formal_theory_mono_element.md)
+
 **[中文版](formal_theory_mono_element.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Strict Formalization of Ultimate Unification Principle [Dimension: 30] v36.0
 
+[Chinese Version](formal_theory_ultimate_unification_principle.md)
+
 **[English Version] | [中文版](formal_theory_ultimate_unification_principle.md)**
 
 ## Table of Contents

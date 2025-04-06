@@ -1,4 +1,4 @@
-# SHIFT二元对称理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT二元对称理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_binary_symmetry_en.md)**
 
@@ -368,15 +368,15 @@ SHIFT二元对称理论在宇宙本论理论谱系中被定位为维度1理论�
 SHIFT二元对称理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [对称群扩展理论](formal_theory_symmetry_group_extension.md) [维度: 2]
-   - [对称-信息对偶理论](formal_theory_symmetry_information_duality.md) [维度: 2]
+   - [对称群扩展理论](formal_theory_symmetry_group_extension.md) [维度: 1.0]
+   - [对称-信息对偶理论](formal_theory_symmetry_information_duality.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
-   - [原始二元性理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1.0]
+   - [原始二元性理论](formal_theory_primitive_duality.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

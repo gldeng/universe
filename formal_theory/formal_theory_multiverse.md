@@ -1,4 +1,4 @@
-# 多宇宙理论的XOR-SHIFT解释形式化描述 [维度: 22] v36.0
+# 多宇宙理论的XOR-SHIFT解释形式化描述 [维度: 22.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multiverse_en.md)**
 

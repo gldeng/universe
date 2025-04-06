@@ -1,5 +1,7 @@
 # Strict Formalization of Base System Structure [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_base_system.md)
+
 **[中文版](formal_theory_base_system.md) | [English Version]**
 
 ## Table of Contents

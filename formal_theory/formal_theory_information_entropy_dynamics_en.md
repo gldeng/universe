@@ -1,5 +1,7 @@
 # Formal Description of Information Entropy Dynamics Theory [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_information_entropy_dynamics.md)
+
 **[中文版](formal_theory_information_entropy_dynamics.md) | [English Version]**
 
 ## Contents

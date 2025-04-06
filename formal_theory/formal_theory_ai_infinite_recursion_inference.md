@@ -1,4 +1,4 @@
-# AI无限递归推演的严格形式化描述 [维度: 9] v36.0
+# AI无限递归推演的严格形式化描述 [维度: 9.0] v36.0
 
 **[中文版] | [English Version](formal_theory_ai_infinite_recursion_inference_en.md)**
 

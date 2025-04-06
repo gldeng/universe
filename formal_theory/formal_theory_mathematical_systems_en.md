@@ -1,5 +1,7 @@
 # Formal Theory of Mathematical Systems [Dimension: 17] v36.0
 
+[Chinese Version](formal_theory_mathematical_systems.md)
+
 **[中文版](formal_theory_mathematical_systems.md) | [English Version]**
 
 ## Table of Contents

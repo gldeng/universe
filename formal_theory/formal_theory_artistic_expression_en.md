@@ -1,5 +1,7 @@
 # Formal Description of Artistic Expression [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_artistic_expression.md)
+
 **[中文版](formal_theory_artistic_expression.md) | [English Version]**
 
 ## Table of Contents

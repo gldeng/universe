@@ -1,4 +1,4 @@
-# SHIFT初始映射理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT初始映射理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_initial_mapping_en.md)**
 
@@ -380,17 +380,17 @@ SHIFT初始映射理论在宇宙本论理论谱系中被定位为维度1理论�
 SHIFT初始映射理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
-   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1.0]
+   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT点变换理论](formal_theory_shift_point_transformation.md) [维度: 1]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [信息生成理论](formal_theory_shift_information_generation.md) [维度: 1]
+   - [SHIFT点变换理论](formal_theory_shift_point_transformation.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
+   - [信息生成理论](formal_theory_shift_information_generation.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [原始态二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
-   - [量子叠加理论](formal_theory_shift_quantum_superposition.md) [维度: 1]
+   - [原始态二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1.0]
+   - [量子叠加理论](formal_theory_shift_quantum_superposition.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

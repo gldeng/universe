@@ -1,5 +1,7 @@
 # Formal Description of Hyperrecursive Self-Referential Metalogic [Dimension: 18] v36.0
 
+[Chinese Version](formal_theory_hyperrecursive_self_referential_metalogic.md)
+
 **[中文版](formal_theory_hyperrecursive_self_referential_metalogic.md) | [English Version]**
 
 ## Table of Contents

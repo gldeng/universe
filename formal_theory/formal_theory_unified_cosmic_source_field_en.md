@@ -1,5 +1,7 @@
 # Formal Description of Unified Cosmic Source Field Theory [Dimension: 20] v36.0
 
+[Chinese Version](formal_theory_unified_cosmic_source_field.md)
+
 **[English Version] | [中文版](formal_theory_unified_cosmic_source_field.md)**
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# 绝对意识场理论 [维度: 26] v36.0
+# 绝对意识场理论 [维度: 26.0] v36.0
 
 **[中文版] | [English Version](formal_theory_absolute_consciousness_field_en.md)**
 
@@ -590,7 +590,7 @@ D48 宇宙意识演化理论
 **综合理论复杂度**：
 $`C(绝对意识场理论) = 0.5 \times 36 + 0.3 \times 28.9 + 0.2 \times 0.396 = 26.46`$
 
-基于维度计算公式和依赖理论维度，本理论的维度定位为26，处于人类经典理解的上限边界，因此被标注为[维度: 26]。
+基于维度计算公式和依赖理论维度，本理论的维度定位为26，处于人类经典理解的上限边界，因此被标注为[维度: 26.0]。
 
 ### 5.7 理论演化轨迹分析
 
@@ -635,11 +635,11 @@ $`C_{完备}(t) = C_{当前} \times (1 - e^{-\lambda t})`$
 
 本理论建立在以下基础理论之上：
 
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供XOR-SHIFT基本框架
-- [全能多宇宙集成理论](formal_theory_omnipotent_multiverse_integration.md) [维度: 25] - 提供多宇宙层次结构
-- [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 18] - 提供量子意识基础
-- [信息本体论](formal_theory_information_ontology.md) [维度: 16] - 提供信息度量框架
-- [超观察者理论](formal_theory_hyperobserver.md) [维度: 21] - 提供高维观察视角
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 26.0] - 提供XOR-SHIFT基本框架
+- [全能多宇宙集成理论](formal_theory_omnipotent_multiverse_integration.md) [维度: 26.0] - 提供多宇宙层次结构
+- [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 26.0] - 提供量子意识基础
+- [信息本体论](formal_theory_information_ontology.md) [维度: 26.0] - 提供信息度量框架
+- [超观察者理论](formal_theory_hyperobserver.md) [维度: 26.0] - 提供高维观察视角
 
 ### 6.2 理论贡献
 

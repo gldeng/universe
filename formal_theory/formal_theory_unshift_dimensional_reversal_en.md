@@ -1,5 +1,7 @@
 # Formal Theory of UNSHIFT Dimensional Reversal [Dimension: 3] v36.0
 
+[Chinese Version](formal_theory_unshift_dimensional_reversal.md)
+
 **[中文版](formal_theory_unshift_dimensional_reversal.md) | [English Version]**
 
 ## Table of Contents

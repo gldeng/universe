@@ -1,5 +1,7 @@
 # Formal Description of Universal Quantum Causality Theory [Dimension: 43] v36.0
 
+[Chinese Version](formal_theory_universal_quantum_causality.md)
+
 **[中文版](formal_theory_universal_quantum_causality.md) | [English Version]**
 
 ## Table of Contents

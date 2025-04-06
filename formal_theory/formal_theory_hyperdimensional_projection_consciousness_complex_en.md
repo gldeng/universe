@@ -1,5 +1,7 @@
 # Formal Description of Hyperdimensional Projection Consciousness Complex Theory [Dimension: 19] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_projection_consciousness_complex.md)
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_projection_consciousness_complex.md)**
 
 ## Table of Contents

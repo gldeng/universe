@@ -1,4 +1,4 @@
-# 因果报应场论的严格形式化描述 [维度: 17] v36.0
+# 因果报应场论的严格形式化描述 [维度: 17.0] v36.0
 
 **[中文版] | [English Version](formal_theory_karma_field_theory_en.md)**
 
@@ -599,23 +599,23 @@ $`S_{trans} = S_{con} - \int_{\Omega} \rho_{\mathcal{K}}(x) \ln \rho_{\mathcal{K
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 17.0]
    - 提供意识场框架
    - 借用神圣体验模型
 
-2. **[神圣仪式学](formal_theory_sacred_ritual.md)** [维度: 16]
+2. **[神圣仪式学](formal_theory_sacred_ritual.md)** [维度: 17.0]
    - 提供仪式场框架
    - 借用仪式效力模型
 
-3. **[灵魂分析动力学](formal_theory_soul_analysis_dynamics.md)** [维度: 14]
+3. **[灵魂分析动力学](formal_theory_soul_analysis_dynamics.md)** [维度: 17.0]
    - 提供灵魂演化框架
    - 借用转世历程方程
 
-4. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+4. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 17.0]
    - 提供符号场框架
    - 借用符号-意识交互模型
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 17.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

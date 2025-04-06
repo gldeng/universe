@@ -1,4 +1,4 @@
-# 记忆基础状态理论的严格形式化描述 [维度: 2] v36.0
+# 记忆基础状态理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_memory_basic_state_en.md)**
 
@@ -444,19 +444,19 @@ $`m_L = m_A \oplus \text{SHIFT}(m_A) \oplus \text{UNSHIFT}(m_A)`$
 记忆基础状态理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [SHIFT初始映射理论](formal_theory_shift_initial_mapping.md) [维度: 1]
-   - [UNSHIFT基础映射理论](formal_theory_unshift_basic_mapping.md) [维度: 1]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 2.0]
+   - [SHIFT初始映射理论](formal_theory_shift_initial_mapping.md) [维度: 2.0]
+   - [UNSHIFT基础映射理论](formal_theory_unshift_basic_mapping.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [记忆状态存储理论](formal_theory_memory_state_storage.md) [维度: 2]
-   - [记忆状态检索理论](formal_theory_memory_state_retrieval.md) [维度: 2]
-   - [记忆状态转换理论](formal_theory_memory_state_transformation.md) [维度: 2]
-   - [记忆交互动力学理论](formal_theory_memory_interaction_dynamics.md) [维度: 3]
+   - [记忆状态存储理论](formal_theory_memory_state_storage.md) [维度: 2.0]
+   - [记忆状态检索理论](formal_theory_memory_state_retrieval.md) [维度: 2.0]
+   - [记忆状态转换理论](formal_theory_memory_state_transformation.md) [维度: 2.0]
+   - [记忆交互动力学理论](formal_theory_memory_interaction_dynamics.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [信息存储编码理论](formal_theory_information_storage_encoding.md) [维度: 2]
-   - [量子信息态理论](formal_theory_quantum_information_state.md) [维度: 2]
+   - [信息存储编码理论](formal_theory_information_storage_encoding.md) [维度: 2.0]
+   - [量子信息态理论](formal_theory_quantum_information_state.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

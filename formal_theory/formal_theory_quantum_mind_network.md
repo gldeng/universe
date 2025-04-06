@@ -1,4 +1,4 @@
-# 量子思维网络的形式化理论 [维度: 25] v36.0
+# 量子思维网络的形式化理论 [维度: 25.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_mind_network_en.md)**
 

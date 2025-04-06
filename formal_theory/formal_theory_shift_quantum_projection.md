@@ -1,4 +1,4 @@
-# SHIFT量子态投影理论的严格形式化描述 [维度: 2] v36.0
+# SHIFT量子态投影理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_quantum_projection_en.md)**
 
@@ -324,17 +324,17 @@ SHIFT量子态投影理论在宇宙本论理论谱系中被定位为维度2理�
 SHIFT量子态投影理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
-   - [SHIFT对称破缺理论](formal_theory_shift_symmetry_breaking.md) [维度: 1]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 2.0]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 2.0]
+   - [SHIFT对称破缺理论](formal_theory_shift_symmetry_breaking.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [量子测量SHIFT模型](formal_theory_quantum_measurement_shift.md) [维度: 3]
-   - [SHIFT量子-经典界面理论](formal_theory_shift_quantum_classical_interface.md) [维度: 3]
+   - [量子测量SHIFT模型](formal_theory_quantum_measurement_shift.md) [维度: 2.0]
+   - [SHIFT量子-经典界面理论](formal_theory_shift_quantum_classical_interface.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [SHIFT-FLIP双重操作理论](formal_theory_shift_flip_duality.md) [维度: 2]
-   - [量子信息SHIFT理论](formal_theory_quantum_information_shift.md) [维度: 2]
+   - [SHIFT-FLIP双重操作理论](formal_theory_shift_flip_duality.md) [维度: 2.0]
+   - [量子信息SHIFT理论](formal_theory_quantum_information_shift.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

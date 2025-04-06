@@ -1,4 +1,4 @@
-# SHIFT原始递归理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT原始递归理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_primordial_recursion_en.md)**
 
@@ -399,18 +399,18 @@ SHIFT原始递归理论在宇宙本论理论谱系中被定位为维度1理论�
 SHIFT原始递归理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
-   - [SHIFT原始信息熵理论](formal_theory_shift_primordial_entropy.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 1.0]
+   - [SHIFT原始信息熵理论](formal_theory_shift_primordial_entropy.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT递归网络理论](formal_theory_shift_recursive_networks.md) [维度: 2]
-   - [自引用系统理论](formal_theory_self_referential_systems.md) [维度: 2]
-   - [递归复杂性理论](formal_theory_recursive_complexity.md) [维度: 2]
+   - [SHIFT递归网络理论](formal_theory_shift_recursive_networks.md) [维度: 1.0]
+   - [自引用系统理论](formal_theory_self_referential_systems.md) [维度: 1.0]
+   - [递归复杂性理论](formal_theory_recursive_complexity.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT状态转换基础理论](formal_theory_shift_state_transition_basics.md) [维度: 1]
-   - [SHIFT状态对称性理论](formal_theory_shift_state_symmetry.md) [维度: 1]
+   - [SHIFT状态转换基础理论](formal_theory_shift_state_transition_basics.md) [维度: 1.0]
+   - [SHIFT状态对称性理论](formal_theory_shift_state_symmetry.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

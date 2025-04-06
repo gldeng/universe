@@ -1,5 +1,7 @@
 # Formal Theory of Dimensional Transformation Mechanics [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_dimension_transformation_mechanics.md)
+
 **[中文版](formal_theory_dimension_transformation_mechanics.md) | [English Version]**
 
 ## Contents

@@ -1,4 +1,4 @@
-# 灵魂进化时间线的严格形式化描述 [维度: 15] v36.0
+# 灵魂进化时间线的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_soul_evolution_timeline_en.md)**
 
@@ -432,23 +432,23 @@ $`\mathcal{A}(\mathcal{S}_{\infty}) = \{\mathcal{S}^t | \lim_{\tau \to \infty} \
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 15.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 
-2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 13]
+2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 15.0]
    - 提供灵魂基本结构
    - 借用灵魂核心概念
 
-3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 12]
+3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 15.0]
    - 提供灵魂纠缠机制
    - 借用灵魂量子纠缠概念
 
-4. **[多重灵魂纠缠拓扑](formal_theory_multisoul_entanglement_topology.md)** [维度: 11]
+4. **[多重灵魂纠缠拓扑](formal_theory_multisoul_entanglement_topology.md)** [维度: 15.0]
    - 提供灵魂拓扑概念
    - 借用灵魂连接机制
 
-5. **[轮回动力学](formal_theory_reincarnation_dynamics.md)** [维度: 22]
+5. **[轮回动力学](formal_theory_reincarnation_dynamics.md)** [维度: 15.0]
    - 提供转世基础框架
    - 借用业力调节机制
 

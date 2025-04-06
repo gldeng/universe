@@ -367,13 +367,13 @@ $`\text{Equil}(\text{PROMAN}) = \frac{\text{Connection}(◯,●)}{\text{Potentia
 原初显现理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [原初奇点理论](formal_theory/formal_theory_primitive_singularity.md) [维度: -1]
-   - [宇宙码理论](formal_theory/formal_theory_universal_code.md) [维度: 0.5]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
 
 2. **后续理论**：
-   - [原始统一性理论](formal_theory/formal_theory_primitive_unity.md) [维度: 0.2]
-   - [原初对称性理论](formal_theory/formal_theory_proto_symmetry.md) [维度: 0.3]
-   - [原始点理论](formal_theory/formal_theory_primitive_point.md) [维度: 0]
+   - [原始统一性理论](formal_theory_primitive_unity.md) [维度: 0.2]
+   - [原初对称性理论](formal_theory_proto_symmetry.md) [维度: 0.3]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
 
 3. **理论映射关系**：
    - 原初显现理论形成从前二元到准一元的首个中间环节

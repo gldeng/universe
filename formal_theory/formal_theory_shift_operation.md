@@ -1,4 +1,4 @@
-# SHIFT操作的严格形式化描述 [维度: 2] v36.0
+# SHIFT操作的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_operation_en.md)**
 

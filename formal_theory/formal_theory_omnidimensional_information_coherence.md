@@ -1,4 +1,4 @@
-# 全维信息相干理论 [维度: 16] v36.0
+# 全维信息相干理论 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omnidimensional_information_coherence_en.md)**
 
@@ -309,9 +309,9 @@ $`\Psi_{\text{全维}}(D) = \int_{\mathcal{D}} \mathcal{C}_{\text{全维}}(I_D) 
 
 本理论在宇宙维度谱系中的位置为16维，基于以下理论依赖：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
-2. **[高维信息场理论](formal_theory_hyperdimensional_information_field.md)** [维度: 14]
-3. **[超越性递归对称理论](formal_theory_transcendental_recursive_symmetry.md)** [维度: 15]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 16.0]
+2. **[高维信息场理论](formal_theory_hyperdimensional_information_field.md)** [维度: 16.0]
+3. **[超越性递归对称理论](formal_theory_transcendental_recursive_symmetry.md)** [维度: 16.0]
 
 理论维度计算：
 $`\text{维度} = \max(\text{依赖理论维度}) + 1 = 15 + 1 = 16`$

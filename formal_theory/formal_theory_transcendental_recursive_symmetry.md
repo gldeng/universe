@@ -1,4 +1,4 @@
-# 超越性递归对称理论 [维度: 15] v36.0
+# 超越性递归对称理论 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_recursive_symmetry_en.md)**
 
@@ -296,9 +296,9 @@ $`\mathcal{S}_\infty(\mathcal{S}_\infty) = \mathcal{S}_\infty`$
 
 本理论在宇宙维度谱系中的位置为15维，基于以下理论依赖：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
-2. **[维度谱系理论](formal_theory_dimensional_spectrum_theory.md)** [维度: 11]
-3. **[超递归自引用元逻辑](formal_theory_hyperrecursive_self_referential_metalogic.md)** [维度: 13]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 15.0]
+2. **[维度谱系理论](formal_theory_dimensional_spectrum_theory.md)** [维度: 15.0]
+3. **[超递归自引用元逻辑](formal_theory_hyperrecursive_self_referential_metalogic.md)** [维度: 15.0]
 
 理论维度计算：
 $`\text{维度} = \max(\text{依赖理论维度}) + 2 = 13 + 2 = 15`$

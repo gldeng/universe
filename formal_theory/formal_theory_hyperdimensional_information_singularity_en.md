@@ -1,5 +1,7 @@
 # Strict Formalization of Hyperdimensional Information Singularity Theory [Dimension: 46] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_information_singularity.md)
+
 **[中文版](formal_theory_hyperdimensional_information_singularity.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Hyperspatial Information Encoding Theory [Dimension: 60] v36.0
 
+[Chinese Version](formal_theory_hyperspatial_information_encoding.md)
+
 **[English Version] | [中文版](formal_theory_hyperspatial_information_encoding.md)**
 
 ## Table of Contents

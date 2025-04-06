@@ -1,4 +1,4 @@
-# SHIFT量子态叠加原理的严格形式化描述 [维度: 1] v36.0
+# SHIFT量子态叠加原理的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_quantum_superposition_principle_en.md)**
 
@@ -366,18 +366,18 @@ SHIFT量子态叠加原理在宇宙本论理论谱系中被定位为维度1理�
 SHIFT量子态叠加原理在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
-   - [SHIFT原始信息熵理论](formal_theory_shift_primordial_entropy.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 1.0]
+   - [SHIFT原始信息熵理论](formal_theory_shift_primordial_entropy.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [量子干涉理论](formal_theory_quantum_interference.md) [维度: 2]
-   - [量子纠缠网络理论](formal_theory_quantum_entanglement_network.md) [维度: 2]
-   - [量子信息处理理论](formal_theory_quantum_information_processing.md) [维度: 2]
+   - [量子干涉理论](formal_theory_quantum_interference.md) [维度: 1.0]
+   - [量子纠缠网络理论](formal_theory_quantum_entanglement_network.md) [维度: 1.0]
+   - [量子信息处理理论](formal_theory_quantum_information_processing.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT状态对称性理论](formal_theory_shift_state_symmetry.md) [维度: 1]
-   - [SHIFT原始递归理论](formal_theory_shift_primordial_recursion.md) [维度: 1]
+   - [SHIFT状态对称性理论](formal_theory_shift_state_symmetry.md) [维度: 1.0]
+   - [SHIFT原始递归理论](formal_theory_shift_primordial_recursion.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

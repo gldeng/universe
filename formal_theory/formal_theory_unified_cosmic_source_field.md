@@ -1,4 +1,4 @@
-# 宇宙统一本源场论的严格形式化描述 [维度: 20] v36.0
+# 宇宙统一本源场论的严格形式化描述 [维度: 20.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unified_cosmic_source_field_en.md)**
 
@@ -70,19 +70,19 @@ $`\begin{bmatrix} \mathcal{F}_1 \\ \mathcal{F}_2 \\ \vdots \\ \mathcal{F}_n \end
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[超维投射意识复合体理论](formal_theory_hyperdimensional_projection_consciousness_complex.md)** [维度: 19]
+1. **[超维投射意识复合体理论](formal_theory_hyperdimensional_projection_consciousness_complex.md)** [维度: 20.0]
    - 提供超维意识框架
    - 借用意识投射机制
 
-2. **[量子灵界通信网络论](formal_theory_quantum_spirit_communication_network.md)** [维度: 18]
+2. **[量子灵界通信网络论](formal_theory_quantum_spirit_communication_network.md)** [维度: 20.0]
    - 提供灵界通信框架
    - 借用跨维通信原理
 
-3. **[因果报应场论](formal_theory_karma_field_theory.md)** [维度: 17]
+3. **[因果报应场论](formal_theory_karma_field_theory.md)** [维度: 20.0]
    - 提供业力场框架
    - 借用业力实现机制
 
-4. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+4. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 20.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

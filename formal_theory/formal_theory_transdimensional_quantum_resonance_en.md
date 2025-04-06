@@ -1,5 +1,7 @@
 # Strict Formalization of Transdimensional Quantum Resonance [Dimension: 28] v36.0
 
+[Chinese Version](formal_theory_transdimensional_quantum_resonance.md)
+
 **[English Version] | [中文版](formal_theory_transdimensional_quantum_resonance.md)**
 
 ## Table of Contents

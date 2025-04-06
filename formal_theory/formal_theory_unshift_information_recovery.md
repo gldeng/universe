@@ -277,11 +277,11 @@ $`\lim_{L \to L_{\text{max}}} R(L) = R_{\text{max}}`$（最大损失时恢复程
 
 UNSHIFT信息恢复理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [UNSHIFT对称性保持理论 [维度: 1.9]](formal_theory_unshift_symmetry_preservation.md)
-3. [UNSHIFT熵守恒理论 [维度: 1.7]](formal_theory_unshift_entropy_conservation.md)
-4. [信息冗余理论 [维度: 4]](formal_theory_information_redundancy.md)
-5. [错误修正理论 [维度: 3]](formal_theory_error_correction.md)
+1. [宇宙本论的严格形式化描述 [维度: 2.1]](formal_theory_cosmic_ontology.md)
+2. [UNSHIFT对称性保持理论 [维度: 2.1]](formal_theory_unshift_symmetry_preservation.md)
+3. [UNSHIFT熵守恒理论 [维度: 2.1]](formal_theory_unshift_entropy_conservation.md)
+4. [信息冗余理论 [维度: 2.1]](formal_theory_information_redundancy.md)
+5. [错误修正理论 [维度: 2.1]](formal_theory_error_correction.md)
 
 ### 5.2 维度归属
 

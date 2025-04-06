@@ -1,4 +1,4 @@
-# 时空信息波的形式化理论 [维度: 26] v36.0
+# 时空信息波的形式化理论 [维度: 26.0] v36.0
 
 **[中文版] | [English Version](formal_theory_spacetime_information_wave_en.md)**
 

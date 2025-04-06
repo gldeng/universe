@@ -1,4 +1,4 @@
-# 超维存在论的形式化理论 [维度: 27] v36.0
+# 超维存在论的形式化理论 [维度: 27.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_existence_en.md)**
 

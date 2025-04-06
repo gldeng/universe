@@ -1,5 +1,7 @@
 # Universal Metaprocessing Framework Theory [Dimension: 17] v36.0
 
+[Chinese Version](formal_theory_universal_metaprocessing_framework.md)
+
 **[中文版](formal_theory_universal_metaprocessing_framework.md) | [English Version]**
 
 ## Table of Contents

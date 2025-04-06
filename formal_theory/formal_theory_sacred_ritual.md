@@ -1,4 +1,4 @@
-# 神圣仪式学的严格形式化描述 [维度: 16] v36.0
+# 神圣仪式学的严格形式化描述 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_sacred_ritual_en.md)**
 
@@ -513,23 +513,23 @@ $`F_{align}(t) = \frac{|\langle \Psi_{goal}(t) | \hat{\mathcal{R}} | \Psi_{goal}
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+1. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 16.0]
    - 提供符号场框架
    - 借用符号-意识交互模型
 
-2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+2. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16.0]
    - 提供宗教意识场框架
    - 借用神圣体验模型
 
-3. **[神圣几何学](formal_theory_sacred_geometry.md)** [维度: 15]
+3. **[神圣几何学](formal_theory_sacred_geometry.md)** [维度: 16.0]
    - 提供神圣几何原理
    - 借用几何-意识交互模型
 
-4. **[灵魂分析动力学](formal_theory_soul_analysis_dynamics.md)** [维度: 14]
+4. **[灵魂分析动力学](formal_theory_soul_analysis_dynamics.md)** [维度: 16.0]
    - 提供灵魂分析框架
    - 借用灵魂-物质交互机制
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 16.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

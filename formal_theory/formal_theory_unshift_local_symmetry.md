@@ -1,4 +1,4 @@
-# UNSHIFT局部对称性理论 [维度: 2] v36.0
+# UNSHIFT局部对称性理论 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_local_symmetry_en.md)**
 
@@ -190,11 +190,11 @@ $`\text{Transmit}(m) = \{m_1, m_2, ..., m_n, \text{UNSHIFT}(m_1), \text{UNSHIFT}
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
-- [UNSHIFT周期性结构理论](formal_theory_unshift_periodic_structure.md) [维度: 1]
-- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 2]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 2.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 2.0]
+- [UNSHIFT周期性结构理论](formal_theory_unshift_periodic_structure.md) [维度: 2.0]
+- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 2.0]
 
 本理论被以下理论引用：
-- [UNSHIFT空间编码理论](formal_theory_unshift_spatial_encoding.md) [维度: 3]
-- [UNSHIFT相变边界理论](formal_theory_unshift_phase_transition_boundary.md) [维度: 3] 
+- [UNSHIFT空间编码理论](formal_theory_unshift_spatial_encoding.md) [维度: 2.0]
+- [UNSHIFT相变边界理论](formal_theory_unshift_phase_transition_boundary.md) [维度: 2.0] 

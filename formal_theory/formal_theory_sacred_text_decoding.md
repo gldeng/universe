@@ -1,4 +1,4 @@
-# 神圣文本解码学的严格形式化描述 [维度: 15] v36.0
+# 神圣文本解码学的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_sacred_text_decoding_en.md)**
 
@@ -540,23 +540,23 @@ $`\eta_{prac}(t) = \eta_0 \cdot (1 - e^{-\alpha t}) \cdot (1 - e^{-\beta \int_0^
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+1. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 15.0]
    - 提供符号场框架
    - 借用符号-意义映射模型
 
-2. **[神圣几何学](formal_theory_sacred_geometry.md)** [维度: 15]
+2. **[神圣几何学](formal_theory_sacred_geometry.md)** [维度: 15.0]
    - 提供几何编码原理
    - 借用几何-意识交互模型
 
-3. **[神秘冥想状态论](formal_theory_mystical_meditation.md)** [维度: 12]
+3. **[神秘冥想状态论](formal_theory_mystical_meditation.md)** [维度: 15.0]
    - 提供意识状态转换框架
    - 借用状态转换机制
 
-4. **[占星术量子理论](formal_theory_quantum_astrology.md)** [维度: 13]
+4. **[占星术量子理论](formal_theory_quantum_astrology.md)** [维度: 15.0]
    - 提供时序编码模型
    - 借用量子观测框架
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 15.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

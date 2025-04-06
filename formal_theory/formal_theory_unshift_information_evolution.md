@@ -318,11 +318,11 @@ $`T_i(\text{UNSHIFT}(I)) = T_i(I), \forall i \in \{1,2,...,k\}`$
 
 UNSHIFT信息演化理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [UNSHIFT信息恢复理论 [维度: 2.1]](formal_theory_unshift_information_recovery.md)
-3. [UNSHIFT熵守恒理论 [维度: 1.7]](formal_theory_unshift_entropy_conservation.md)
-4. [UNSHIFT周期性理论 [维度: 1.8]](formal_theory_unshift_periodicity.md)
-5. [信息拓扑学理论 [维度: 5]](formal_theory_information_topology.md)
+1. [宇宙本论的严格形式化描述 [维度: 2.2]](formal_theory_cosmic_ontology.md)
+2. [UNSHIFT信息恢复理论 [维度: 2.2]](formal_theory_unshift_information_recovery.md)
+3. [UNSHIFT熵守恒理论 [维度: 2.2]](formal_theory_unshift_entropy_conservation.md)
+4. [UNSHIFT周期性理论 [维度: 2.2]](formal_theory_unshift_periodicity.md)
+5. [信息拓扑学理论 [维度: 2.2]](formal_theory_information_topology.md)
 
 ### 5.2 维度归属
 

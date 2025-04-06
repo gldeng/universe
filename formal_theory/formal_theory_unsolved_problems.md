@@ -1,4 +1,4 @@
-# 人类未解十大问题的形式化统一理论 [维度: 25] v36.0
+# 人类未解十大问题的形式化统一理论 [维度: 25.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unsolved_problems_en.md)**
 

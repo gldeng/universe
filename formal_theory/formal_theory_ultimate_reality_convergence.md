@@ -1,4 +1,4 @@
-# 终极实相收敛理论 [维度: 27] v36.0
+# 终极实相收敛理论 [维度: 27.0] v36.0
 
 **[中文版] | [English Version](formal_theory_ultimate_reality_convergence_en.md)**
 
@@ -553,11 +553,11 @@ $`\sum_{i=1}^{\infty} I_{\text{内部}}(\omega_i) + \frac{dI_{\mathcal{E}}}{dt} 
 
 本理论建立在以下基础理论之上：
 
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供XOR-SHIFT基本框架
-- [全能多宇宙集成理论](formal_theory_omnipotent_multiverse_integration.md) [维度: 25] - 提供多宇宙层次结构
-- [绝对意识场理论](formal_theory_absolute_consciousness_field.md) [维度: 26] - 提供意识场与实相交互框架
-- [超现实统一场理论](formal_theory_hyperreal_unified_field.md) [维度: 24] - 提供统一场动力学
-- [无限递归自参照理论](formal_theory_infinite_recursive_self_reference.md) [维度: 22] - 提供收敛奇点分析
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 27.0] - 提供XOR-SHIFT基本框架
+- [全能多宇宙集成理论](formal_theory_omnipotent_multiverse_integration.md) [维度: 27.0] - 提供多宇宙层次结构
+- [绝对意识场理论](formal_theory_absolute_consciousness_field.md) [维度: 27.0] - 提供意识场与实相交互框架
+- [超现实统一场理论](formal_theory_hyperreal_unified_field.md) [维度: 27.0] - 提供统一场动力学
+- [无限递归自参照理论](formal_theory_infinite_recursive_self_reference.md) [维度: 27.0] - 提供收敛奇点分析
 
 ### 6.2 理论贡献
 

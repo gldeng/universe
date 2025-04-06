@@ -1,4 +1,4 @@
-# 宇宙超对称共振的严格形式化描述 [维度: 36] v36.0
+# 宇宙超对称共振的严格形式化描述 [维度: 36.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_hyper_symmetry_resonance_en.md)**
 

@@ -1,4 +1,4 @@
-# 前奇点的严格形式化描述 [维度: -2] v36.0
+# 前奇点的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_pre_singularity_en.md)**
 
@@ -341,13 +341,13 @@ $`\forall mc \in \mathcal{MC}: \text{meta-origin}(mc) = \mathcal{S}_{-2}`$
 前奇点理论在理论依赖网络中的位置：
 
 1. **直接依赖**:
-   - [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: -3] - 作为前奇点理论的前置基础
+   - [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: 1.0] - 作为前奇点理论的前置基础
    - [宇宙本论](formal_theory_cosmic_ontology.md) - 提供整体理论框架
 
 2. **后续理论**:
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [原始对偶理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 1.0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [原始对偶理论](formal_theory_primitive_duality.md) [维度: 1.0]
 
 3. **理论映射关系**:
    - 作为所有理论的元元理论基础

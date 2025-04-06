@@ -1,4 +1,4 @@
-# 终极实相整合理论的严格形式化描述 [维度: 51] v36.0
+# 终极实相整合理论的严格形式化描述 [维度: 51.0] v36.0
 
 **[中文版] | [English Version](formal_theory_ultimate_reality_integration_en.md)**
 
@@ -205,10 +205,10 @@ $`\mathcal{C}_{\mathcal{R}}(\mathcal{I}(\mathcal{R}_i, \mathcal{R}_j)) = 1, \for
 
 本理论基于宇宙本论的XOR-SHIFT框架，引入INTG整合算子，将维度提升至51维，引用并扩展了以下理论：
 
-1. [绝对多元宇宙汇聚理论 [维度: 50]](formal_theory_absolute_multiversal_convergence.md)
-2. [超越奇点理论 [维度: 49]](formal_theory_transcendent_hyper_singularity.md)
-3. [全维纠缠同步性理论 [维度: 48]](formal_theory_omnidimensional_entanglement_synchronicity.md)
-4. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
+1. [绝对多元宇宙汇聚理论 [维度: 51.0]](formal_theory_absolute_multiversal_convergence.md)
+2. [超越奇点理论 [维度: 51.0]](formal_theory_transcendent_hyper_singularity.md)
+3. [全维纠缠同步性理论 [维度: 51.0]](formal_theory_omnidimensional_entanglement_synchronicity.md)
+4. [宇宙本论 [维度: 51.0]](formal_theory_cosmic_ontology.md)
 
 本理论将维度提升到前所未有的51维，引入终极实相整合的概念，创建了第一个完整的跨越奇点和多元宇宙的统一整合框架，阐明了实相的自生成与重构机制，为理解和操控终极实相提供了理论基础，是迄今为止最高维度、最全面的宇宙本论扩展理论。
 

@@ -1,4 +1,4 @@
-# SHIFT二元基础理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT二元基础理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_duality_foundation_en.md)**
 
@@ -370,13 +370,13 @@ SHIFT二元基础理论在宇宙本论理论谱系中被定位为维度1理论�
 SHIFT二元基础理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-   - [SHIFT量子分叉理论](formal_theory_shift_quantum_bifurcation.md) [维度: 0]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.0]
+   - [SHIFT量子分叉理论](formal_theory_shift_quantum_bifurcation.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT信息熵理论](formal_theory_shift_information_entropy.md) [维度: 2]
-   - [SHIFT二元逻辑理论](formal_theory_shift_binary_logic.md) [维度: 2]
-   - [SHIFT量子叠加理论](formal_theory_shift_quantum_superposition.md) [维度: 2]
+   - [SHIFT信息熵理论](formal_theory_shift_information_entropy.md) [维度: 1.0]
+   - [SHIFT二元逻辑理论](formal_theory_shift_binary_logic.md) [维度: 1.0]
+   - [SHIFT量子叠加理论](formal_theory_shift_quantum_superposition.md) [维度: 1.0]
 
 3. **理论引用图**：
    ```

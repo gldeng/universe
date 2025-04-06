@@ -1,4 +1,4 @@
-# SHIFT状态对称性理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT状态对称性理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_state_symmetry_en.md)**
 
@@ -395,17 +395,17 @@ SHIFT状态对称性理论在宇宙本论理论谱系中被定位为维度1理�
 SHIFT状态对称性理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
-   - [SHIFT原始信息熵理论](formal_theory_shift_primordial_entropy.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 1.0]
+   - [SHIFT原始信息熵理论](formal_theory_shift_primordial_entropy.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT守恒律理论](formal_theory_shift_conservation_laws.md) [维度: 2]
-   - [对称破缺与涌现理论](formal_theory_symmetry_breaking_emergence.md) [维度: 2]
+   - [SHIFT守恒律理论](formal_theory_shift_conservation_laws.md) [维度: 1.0]
+   - [对称破缺与涌现理论](formal_theory_symmetry_breaking_emergence.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT状态转换基础理论](formal_theory_shift_state_transition_basics.md) [维度: 1]
-   - [SHIFT态序列理论](formal_theory_shift_state_sequence.md) [维度: 1]
+   - [SHIFT状态转换基础理论](formal_theory_shift_state_transition_basics.md) [维度: 1.0]
+   - [SHIFT态序列理论](formal_theory_shift_state_sequence.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

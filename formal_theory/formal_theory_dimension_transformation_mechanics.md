@@ -1,4 +1,4 @@
-# 维度转换力学的形式化理论 [维度: 6] v36.0
+# 维度转换力学的形式化理论 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dimension_transformation_mechanics_en.md)**
 
@@ -216,9 +216,9 @@ $`D_n \otimes D_m = D_n \oplus \text{SHIFT}(D_m) \oplus (D_n \cap \text{SHIFT}(D
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [SHIFT基本递归理论](formal_theory_shift_basic_recursion.md) [维度: 3]
-- [SHIFT维度转换理论](formal_theory_shift_dimension_transformation.md) [维度: 5]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+- [SHIFT基本递归理论](formal_theory_shift_basic_recursion.md) [维度: 6.0]
+- [SHIFT维度转换理论](formal_theory_shift_dimension_transformation.md) [维度: 6.0]
 
 本理论被以下理论引用：
 - 维度反折射理论

@@ -1,4 +1,4 @@
-# 神秘冥想状态论的严格形式化描述 [维度: 12] v36.0
+# 神秘冥想状态论的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_mystical_meditation_en.md)**
 
@@ -488,19 +488,19 @@ $`\frac{dE}{dt} = \alpha \cdot \mathcal{C}(\mathcal{M}, \Psi_{high})^2 \cdot (E_
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+1. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 12.0]
    - 提供量子态描述
    - 借用量子叠加和波函数概念
 
-2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 12.0]
    - 提供精神场方程
    - 借用精神-意识交互模型
 
-3. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+3. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 12.0]
    - 提供符号场框架
    - 借用符号意义模型
 
-4. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+4. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 12.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

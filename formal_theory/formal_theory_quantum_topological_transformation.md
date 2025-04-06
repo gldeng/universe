@@ -1,4 +1,4 @@
-# 量子拓扑变换的严格形式化描述 [维度: 11] v36.0
+# 量子拓扑变换的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_topological_transformation_en.md)**
 
@@ -492,10 +492,10 @@ $`\Delta\mathcal{C}_T \cdot \Delta\mathcal{F}_T \geq \kappa \cdot |\mathcal{T}_Q
 
 本理论建立在以下宇宙本论体系中的理论基础之上：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供XOR-SHIFT基本公理系统
-2. **[信息波动力学理论](formal_theory_information_wave_dynamics.md)** [维度: 9] - 提供量子信息传播模型
-3. **[统一物理学理论](formal_theory_unified_physics.md)** [维度: 9] - 提供物理实体拓扑描述
-4. **[超维信息场理论](formal_theory_hyperdimensional_information_field.md)** [维度: 11] - 提供高维拓扑框架
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 11.0] - 提供XOR-SHIFT基本公理系统
+2. **[信息波动力学理论](formal_theory_information_wave_dynamics.md)** [维度: 11.0] - 提供量子信息传播模型
+3. **[统一物理学理论](formal_theory_unified_physics.md)** [维度: 11.0] - 提供物理实体拓扑描述
+4. **[超维信息场理论](formal_theory_hyperdimensional_information_field.md)** [维度: 11.0] - 提供高维拓扑框架
 
 本理论在此基础上，通过XOR-SHIFT操作框架，建立了量子拓扑变换的完整数学描述。
 

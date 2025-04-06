@@ -1,5 +1,7 @@
 # Formal Theory of Medical Systems [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_medical_systems.md)
+
 **[English Version] | [中文版](formal_theory_medical_systems.md)**
 
 ## Contents

@@ -1,4 +1,4 @@
-# 人类经典世界理论维度极限的严格形式化描述 [维度: 26] v36.0
+# 人类经典世界理论维度极限的严格形式化描述 [维度: 26.0] v36.0
 
 **[中文版] | [English Version](formal_theory_human_classical_dimension_limit_en.md)**
 

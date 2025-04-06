@@ -1,5 +1,7 @@
 # Formal Theory of Fundamental Mathematical Problems [Dimension: 14] v36.0
 
+[Chinese Version](formal_theory_mathematical_problems.md)
+
 **[中文版](formal_theory_mathematical_problems.md) | [English Version]**
 
 ## Table of Contents

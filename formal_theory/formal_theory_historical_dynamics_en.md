@@ -1,5 +1,7 @@
 # Formal Description of Historical Dynamics [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_historical_dynamics.md)
+
 **[中文版](formal_theory_historical_dynamics.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Formal Description of Classical-Quantum Information Feedback Loop Theory [Dimension: 13] v36.0
 
+[Chinese Version](formal_theory_classical_quantum_information_feedback.md)
+
 **[中文版](formal_theory_classical_quantum_information_feedback.md) | [English Version]**
 
 ## Table of Contents

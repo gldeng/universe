@@ -281,11 +281,11 @@ $`= \text{UNSHIFT}(S_1) \oplus_n \text{UNSHIFT}(S_2) \oplus_n \Delta(S_1, S_2)`$
 
 UNSHIFT维度桥接理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [UNSHIFT信息恢复理论 [维度: 2.1]](formal_theory_unshift_information_recovery.md)
-3. [UNSHIFT对称性保持理论 [维度: 1.9]](formal_theory_unshift_symmetry_preservation.md)
-4. [维度谱系理论 [维度: 7]](formal_theory_dimensional_spectrum.md)
-5. [拓扑映射理论 [维度: 5]](formal_theory_topological_mapping.md)
+1. [宇宙本论的严格形式化描述 [维度: 2.3]](formal_theory_cosmic_ontology.md)
+2. [UNSHIFT信息恢复理论 [维度: 2.3]](formal_theory_unshift_information_recovery.md)
+3. [UNSHIFT对称性保持理论 [维度: 2.3]](formal_theory_unshift_symmetry_preservation.md)
+4. [维度谱系理论 [维度: 2.3]](formal_theory_dimensional_spectrum.md)
+5. [拓扑映射理论 [维度: 2.3]](formal_theory_topological_mapping.md)
 
 ### 5.2 维度归属
 

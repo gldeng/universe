@@ -1,5 +1,7 @@
 # Strict Formalization of UNSHIFT Symmetry Preservation Theory [Dimension: 1.9] v36.0
 
+[Chinese Version](formal_theory_unshift_symmetry_preservation.md)
+
 **[English Version] | [中文版](formal_theory_unshift_symmetry_preservation.md)**
 
 ## Table of Contents

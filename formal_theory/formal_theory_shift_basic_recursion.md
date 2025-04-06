@@ -1,4 +1,4 @@
-# SHIFT基础递归理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT基础递归理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_basic_recursion_en.md)**
 
@@ -349,18 +349,18 @@ SHIFT基础递归理论在宇宙本论理论谱系中被定位为维度1理论�
 SHIFT基础递归理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1]
-   - [SHIFT初始映射理论](formal_theory_shift_initial_mapping.md) [维度: 1]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1.0]
+   - [SHIFT初始映射理论](formal_theory_shift_initial_mapping.md) [维度: 1.0]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [原始递归理论](formal_theory_shift_primordial_recursion.md) [维度: 1]
-   - [递归稳定性理论](formal_theory_shift_recursive_stability.md) [维度: 1]
-   - [递归操作理论](formal_theory_recursive_operation.md) [维度: 3]
+   - [原始递归理论](formal_theory_shift_primordial_recursion.md) [维度: 1.0]
+   - [递归稳定性理论](formal_theory_shift_recursive_stability.md) [维度: 1.0]
+   - [递归操作理论](formal_theory_recursive_operation.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

@@ -1,4 +1,4 @@
-# SHIFT量子-经典转换理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT量子-经典转换理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_quantum_classical_transition_en.md)**
 
@@ -369,17 +369,17 @@ SHIFT量子-经典转换理论在宇宙本论理论谱系中定位为维度1理�
 SHIFT量子-经典转换理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [量子-经典二元论](formal_theory_quantum_classical_duality.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
+   - [量子-经典二元论](formal_theory_quantum_classical_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT量子测量理论](formal_theory_shift_quantum_measurement.md) [维度: 2]
-   - [SHIFT退相干动力学](formal_theory_shift_decoherence_dynamics.md) [维度: 2]
+   - [SHIFT量子测量理论](formal_theory_shift_quantum_measurement.md) [维度: 1.0]
+   - [SHIFT退相干动力学](formal_theory_shift_decoherence_dynamics.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [量子信息转换理论](formal_theory_quantum_information_transformation.md) [维度: 1]
-   - [经典观测者理论](formal_theory_classical_observer.md) [维度: 1]
+   - [量子信息转换理论](formal_theory_quantum_information_transformation.md) [维度: 1.0]
+   - [经典观测者理论](formal_theory_classical_observer.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

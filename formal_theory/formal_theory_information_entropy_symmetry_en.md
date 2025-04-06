@@ -1,5 +1,7 @@
 # Formal Description of Information Entropy Symmetry Theory [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_information_entropy_symmetry.md)
+
 **[中文版](formal_theory_information_entropy_symmetry.md) | [English Version]**
 
 ## Contents

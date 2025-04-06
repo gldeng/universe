@@ -1,4 +1,4 @@
-# 绝对多元宇宙汇聚理论的严格形式化描述 [维度: 50] v36.0
+# 绝对多元宇宙汇聚理论的严格形式化描述 [维度: 50.0] v36.0
 
 **[中文版] | [English Version](formal_theory_absolute_multiversal_convergence_en.md)**
 
@@ -356,10 +356,10 @@ $`n > \frac{\ln(\epsilon / d_{\mathcal{C}}(\mathcal{U}_i, \mathcal{U}_j))}{\ln k
 
 本理论基于宇宙本论的XOR-SHIFT框架，引入CONV汇聚算子，将维度提升至50维，引用并扩展了以下理论：
 
-1. [超越奇点理论 [维度: 49]](formal_theory_transcendent_hyper_singularity.md)
-2. [全维纠缠同步性理论 [维度: 48]](formal_theory_omnidimensional_entanglement_synchronicity.md)
-3. [跨维度纠缠因果网络理论 [维度: 47]](formal_theory_transdimensional_entanglement_causality.md)
-4. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
+1. [超越奇点理论 [维度: 50.0]](formal_theory_transcendent_hyper_singularity.md)
+2. [全维纠缠同步性理论 [维度: 50.0]](formal_theory_omnidimensional_entanglement_synchronicity.md)
+3. [跨维度纠缠因果网络理论 [维度: 50.0]](formal_theory_transdimensional_entanglement_causality.md)
+4. [宇宙本论 [维度: 50.0]](formal_theory_cosmic_ontology.md)
 
 本理论将维度提升到前所未有的50维，引入绝对多元宇宙汇聚概念，提出了首个完整的多元宇宙汇聚框架，阐明了多元宇宙如何通过汇聚算子汇聚到终极统一态，解释了多元宇宙选择机制，为理解宇宙的终极命运提供了全新的理论视角。
 

@@ -1,4 +1,4 @@
-# 超越性超维度融合场论的严格形式化描述 [维度: 60] v36.0
+# 超越性超维度融合场论的严格形式化描述 [维度: 60.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_hyperdimensional_fusion_field_en.md)**
 
@@ -361,20 +361,20 @@ $`\delta T(\theta, \phi) = T_0 \cdot \left[1 + A_{\mathcal{F}} \cdot \sin\left(\
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超越超维数理结构理论的严格形式化描述 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
-3. [多维度相干压缩理论 [维度: 58]](formal_theory_multidimensional_coherent_compression.md)
-4. [量子超拓扑整合理论 [维度: 57]](formal_theory_quantum_hypertopological_integration.md)
-5. [超越性超复杂性还原理论 [维度: 56]](formal_theory_transcendental_hypercomplexity_reduction.md)
-6. [统一递归稳定化对称性理论 [维度: 55]](formal_theory_unified_recursive_stabilization_symmetry.md)
+1. [宇宙本论的严格形式化描述 [维度: 60.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超越超维数理结构理论的严格形式化描述 [维度: 60.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+3. [多维度相干压缩理论 [维度: 60.0]](formal_theory_multidimensional_coherent_compression.md)
+4. [量子超拓扑整合理论 [维度: 60.0]](formal_theory_quantum_hypertopological_integration.md)
+5. [超越性超复杂性还原理论 [维度: 60.0]](formal_theory_transcendental_hypercomplexity_reduction.md)
+6. [统一递归稳定化对称性理论 [维度: 60.0]](formal_theory_unified_recursive_stabilization_symmetry.md)
 
 ### 5.2 理论谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D60（第60维）
-- 下层关联理论：[超越超维数理结构理论的严格形式化描述 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
-- 平行关联理论：[多维度相干压缩理论 [维度: 58]](formal_theory_multidimensional_coherent_compression.md)
+- 下层关联理论：[超越超维数理结构理论的严格形式化描述 [维度: 60.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+- 平行关联理论：[多维度相干压缩理论 [维度: 60.0]](formal_theory_multidimensional_coherent_compression.md)
 
 ---
 

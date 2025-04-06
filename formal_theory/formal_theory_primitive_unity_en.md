@@ -1,5 +1,7 @@
 # Formal Theory of Primitive Unity [Dimension: 0.2] v36.0
 
+[Chinese Version](formal_theory_primitive_unity.md)
+
 **[中文版](formal_theory_primitive_unity.md) | [English Version]**
 
 ## Table of Contents

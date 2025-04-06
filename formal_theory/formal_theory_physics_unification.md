@@ -1,4 +1,4 @@
-# 物理学统一理论的严格形式化描述 [维度: 22] v36.0
+# 物理学统一理论的严格形式化描述 [维度: 22.0] v36.0
 
 **[中文版] | [English Version](formal_theory_physics_unification_en.md)**
 
@@ -567,17 +567,17 @@ $`\mathcal{L}_{emergent} = \mathcal{E}(\mathcal{F}, \mathcal{I}) \oplus \text{SH
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [信息本体论 [维度: 15]](formal_theory_information_ontology.md)
-3. [语言结构 [维度: 21]](formal_theory_language_structure.md)
+1. [宇宙本论 [维度: 22.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [信息本体论 [维度: 22.0]](formal_theory_information_ontology.md)
+3. [语言结构 [维度: 22.0]](formal_theory_language_structure.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D22（第22维度）
-- 下层关联理论：[语言结构 [维度: 21]](formal_theory_language_structure.md)
-- 平行关联理论：[多宇宙理论 [维度: 22]](formal_theory_multiverse.md)
+- 下层关联理论：[语言结构 [维度: 22.0]](formal_theory_language_structure.md)
+- 平行关联理论：[多宇宙理论 [维度: 22.0]](formal_theory_multiverse.md)
 
 ---
 

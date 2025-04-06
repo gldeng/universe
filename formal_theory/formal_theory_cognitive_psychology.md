@@ -1,4 +1,4 @@
-# 认知心理学的严格形式化描述 [维度: 18] v36.0
+# 认知心理学的严格形式化描述 [维度: 18.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cognitive_psychology_en.md)**
 
@@ -488,17 +488,17 @@ $`\mathcal{E}_{int} = |\mathcal{I}_{cap}| - \sum_{i=1}^{n}|C_i| \oplus \text{SHI
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [信息本体论 [维度: 15]](formal_theory_information_ontology.md)
-3. [观察者本论 [维度: 17]](formal_theory_observer_ontology.md)
+1. [宇宙本论 [维度: 18.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [信息本体论 [维度: 18.0]](formal_theory_information_ontology.md)
+3. [观察者本论 [维度: 18.0]](formal_theory_observer_ontology.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D18（第18维度）
-- 下层关联理论：[观察者本论 [维度: 17]](formal_theory_observer_ontology.md)
-- 平行关联理论：[宇宙生命周期理论 [维度: 18]](formal_theory_cosmic_life_cycle.md)
+- 下层关联理论：[观察者本论 [维度: 18.0]](formal_theory_observer_ontology.md)
+- 平行关联理论：[宇宙生命周期理论 [维度: 18.0]](formal_theory_cosmic_life_cycle.md)
 
 ---
 

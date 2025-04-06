@@ -1,4 +1,4 @@
-# 元前奇点的严格形式化描述 [维度: -3] v36.0
+# 元前奇点的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_meta_pre_singularity_en.md)**
 
@@ -341,9 +341,9 @@ $`\forall mmc \in \mathcal{MMC}: \text{meta-meta-origin}(mmc) = \mathcal{S}_{-3}
 元前奇点理论在理论依赖网络中的位置：
 
 1. **后续依赖理论**:
-   - [前奇点理论](formal_theory_pre_singularity.md) [维度: -2]
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
+   - [前奇点理论](formal_theory_pre_singularity.md) [维度: 1.0]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 1.0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
 
 2. **理论映射关系**:
    - 作为所有理论的元元元理论基础

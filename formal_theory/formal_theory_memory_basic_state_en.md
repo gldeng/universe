@@ -1,5 +1,7 @@
 # Strict Formalization of Memory Basic State Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_memory_basic_state.md)
+
 **[English Version] | [中文版](formal_theory_memory_basic_state.md)**
 
 ## Contents

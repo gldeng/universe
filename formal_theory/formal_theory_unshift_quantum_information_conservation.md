@@ -1,4 +1,4 @@
-# UNSHIFT量子信息保存定律 [维度: 4] v36.0
+# UNSHIFT量子信息保存定律 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_quantum_information_conservation_en.md)**
 
@@ -227,11 +227,11 @@ $`C(Q_{reversible}) = C(Q) + C(\text{UNSHIFT}) + O(1)`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 3]
-- [UNSHIFT量子相干性理论](formal_theory_unshift_quantum_coherence.md) [维度: 3]
-- [UNSHIFT信息反转理论](formal_theory_unshift_information_reversal.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 4.0]
+- [UNSHIFT量子相干性理论](formal_theory_unshift_quantum_coherence.md) [维度: 4.0]
+- [UNSHIFT信息反转理论](formal_theory_unshift_information_reversal.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [量子信息恢复框架理论](formal_theory_quantum_information_recovery_framework.md) [维度: 5]
-- [可逆量子计算完备性理论](formal_theory_reversible_quantum_computing_completeness.md) [维度: 5] 
+- [量子信息恢复框架理论](formal_theory_quantum_information_recovery_framework.md) [维度: 4.0]
+- [可逆量子计算完备性理论](formal_theory_reversible_quantum_computing_completeness.md) [维度: 4.0] 

@@ -1,4 +1,4 @@
-# 精神本质动力学的严格形式化描述 [维度: 11] v36.0
+# 精神本质动力学的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_spiritual_essence_dynamics_en.md)**
 
@@ -440,19 +440,19 @@ $`\frac{dB_i}{dt} = \alpha B_i(1-B_i) + \beta \sum_{j \in N_i} (B_j - B_i) \oplu
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 11.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 
-2. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+2. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 11.0]
    - 提供意识量子模型
    - 借用量子纠缠概念
 
-3. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 24]
+3. **[宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md)** [维度: 11.0]
    - 提供意识网络架构
    - 借用网络动力学机制
 
-4. **[信息本体论](formal_theory_information_ontology.md)** [维度: 6]
+4. **[信息本体论](formal_theory_information_ontology.md)** [维度: 11.0]
    - 提供信息处理框架
    - 借用信息编码机制
 

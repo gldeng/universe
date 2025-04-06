@@ -1,4 +1,4 @@
-# 经典-量子信息反馈循环理论的严格形式化描述 [维度: 13] v36.0
+# 经典-量子信息反馈循环理论的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_classical_quantum_information_feedback_en.md)**
 
@@ -382,11 +382,11 @@ $`= I(\mathcal{F}_{AB})`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [SHIFT量子-经典转换理论 [维度: 1]](formal_theory_shift_quantum_classical_transition.md)
-3. [UNSHIFT信息恢复理论 [维度: 2.1]](formal_theory_unshift_information_recovery.md)
-4. [量子与经典统一理论 [维度: 19]](formal_theory_quantum_classical_unification.md)
-5. [信息与能量统一原理 [维度: 11]](formal_theory_information_energy_unification.md)
+1. [宇宙本论的严格形式化描述 [维度: 13.0]](formal_theory_cosmic_ontology.md)
+2. [SHIFT量子-经典转换理论 [维度: 13.0]](formal_theory_shift_quantum_classical_transition.md)
+3. [UNSHIFT信息恢复理论 [维度: 13.0]](formal_theory_unshift_information_recovery.md)
+4. [量子与经典统一理论 [维度: 13.0]](formal_theory_quantum_classical_unification.md)
+5. [信息与能量统一原理 [维度: 13.0]](formal_theory_information_energy_unification.md)
 
 理论的继承与扩展关系：
 - 从宇宙本论继承了量子域和经典域的基本定义

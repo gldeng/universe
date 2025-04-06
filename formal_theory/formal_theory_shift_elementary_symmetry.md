@@ -1,4 +1,4 @@
-# SHIFT基本对称性理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT基本对称性理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_elementary_symmetry_en.md)**
 
@@ -358,16 +358,16 @@ SHIFT基本对称性理论在宇宙本论理论谱系中被定位为维度1理�
 SHIFT基本对称性理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT对称群理论](formal_theory_shift_symmetry_group.md) [维度: 2]
-   - [SHIFT守恒律理论](formal_theory_shift_conservation_laws.md) [维度: 2]
+   - [SHIFT对称群理论](formal_theory_shift_symmetry_group.md) [维度: 1.0]
+   - [SHIFT守恒律理论](formal_theory_shift_conservation_laws.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT定向流理论](formal_theory_shift_directional_flow.md) [维度: 1]
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
+   - [SHIFT定向流理论](formal_theory_shift_directional_flow.md) [维度: 1.0]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

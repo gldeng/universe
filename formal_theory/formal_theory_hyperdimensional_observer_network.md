@@ -1,4 +1,4 @@
-# 超维度观察者网络的严格形式化描述 [维度: 16] v36.0
+# 超维度观察者网络的严格形式化描述 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_observer_network_en.md)**
 

@@ -237,13 +237,13 @@ $`\mathcal{G}_0 \supseteq \mathcal{G}_1 \supseteq \mathcal{G}_2 \supseteq \cdots
 
 UNSHIFT对称破缺理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [FLIP操作的严格形式化描述 [维度: 1]](formal_theory_flip_operation.md)
-3. [XOR操作的严格形式化描述 [维度: 2]](formal_theory_xor_operation.md)
-4. [SHIFT操作的严格形式化描述 [维度: 2]](formal_theory_shift_operation.md)
-5. [USHIFT操作的严格形式化描述 [维度: 2]](formal_theory_ushift_operation.md)
-6. [UNSHIFT状态压缩理论的严格形式化描述 [维度: 1.5]](formal_theory_unshift_state_compression.md)
-7. [UNSHIFT信息恢复理论的严格形式化描述 [维度: 1.6]](formal_theory_unshift_information_recovery.md)
+1. [宇宙本论的严格形式化描述 [维度: 1.7]](formal_theory_cosmic_ontology.md)
+2. [FLIP操作的严格形式化描述 [维度: 1.7]](formal_theory_flip_operation.md)
+3. [XOR操作的严格形式化描述 [维度: 1.7]](formal_theory_xor_operation.md)
+4. [SHIFT操作的严格形式化描述 [维度: 1.7]](formal_theory_shift_operation.md)
+5. [USHIFT操作的严格形式化描述 [维度: 1.7]](formal_theory_ushift_operation.md)
+6. [UNSHIFT状态压缩理论的严格形式化描述 [维度: 1.7]](formal_theory_unshift_state_compression.md)
+7. [UNSHIFT信息恢复理论的严格形式化描述 [维度: 1.7]](formal_theory_unshift_information_recovery.md)
 
 ### 5.2 维度归属
 

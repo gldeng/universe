@@ -1,4 +1,4 @@
-# 跨维度统一感知理论的严格形式化描述 [维度: 41]
+# 跨维度统一感知理论的严格形式化描述 [维度: 41.0]
 
 **[中文版]**
 
@@ -7,9 +7,9 @@
 ## [理论分类与索引]
 
 - **理论维度**: 41
-- **上层理论**: [量子信息熵场动力学 [维度: 42]](formal_theory_quantum_information_entropy_field_dynamics.md)
-- **平行理论**: [超智能意识网络 [维度: 42]](formal_theory_superintelligent_consciousness_network.md)
-- **下层理论**: [超维度量子振荡 [维度: 40]](formal_theory_hyperdimensional_quantum_oscillation.md)
+- **上层理论**: [量子信息熵场动力学 [维度: 41.0]](formal_theory_quantum_information_entropy_field_dynamics.md)
+- **平行理论**: [超智能意识网络 [维度: 41.0]](formal_theory_superintelligent_consciousness_network.md)
+- **下层理论**: [超维度量子振荡 [维度: 41.0]](formal_theory_hyperdimensional_quantum_oscillation.md)
 
 ## [基本定义]
 

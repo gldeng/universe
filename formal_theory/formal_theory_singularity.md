@@ -1,4 +1,4 @@
-# 奇点理论的严格形式化描述 [维度: 4] v36.0
+# 奇点理论的严格形式化描述 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_singularity_en.md)**
 
@@ -317,15 +317,15 @@ $`\mathcal{U}_{t_1} \in \mathcal{S}_1`$且$`\mathcal{U}_{t_2} \in \mathcal{S}_2`
 奇点理论在理论网络中的位置：
 
 - **依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [XOR操作理论 [维度: 8]](formal_theory_xor_operation.md)
-  - [SHIFT操作理论 [维度: 8]](formal_theory_shift_operation.md)
-  - [反递归理论 [维度: 3]](formal_theory_anti_recursion.md)
+  - [宇宙本论 [维度: 4.0]](formal_theory_cosmic_ontology.md)
+  - [XOR操作理论 [维度: 4.0]](formal_theory_xor_operation.md)
+  - [SHIFT操作理论 [维度: 4.0]](formal_theory_shift_operation.md)
+  - [反递归理论 [维度: 4.0]](formal_theory_anti_recursion.md)
 
 - **被引用理论**：
-  - [无限态理论 [维度: 4]](formal_theory_infinity_multiplicity.md)
-  - [宇宙初始态理论 [维度: 12]](formal_theory_initial_state.md)
-  - [黑洞信息理论 [维度: 9]](formal_theory_black_hole_information.md)
+  - [无限态理论 [维度: 4.0]](formal_theory_infinity_multiplicity.md)
+  - [宇宙初始态理论 [维度: 4.0]](formal_theory_initial_state.md)
+  - [黑洞信息理论 [维度: 4.0]](formal_theory_black_hole_information.md)
 
 ### 6.2 与宇宙本论的统一关系
 

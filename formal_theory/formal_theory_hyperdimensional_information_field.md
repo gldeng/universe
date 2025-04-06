@@ -1,4 +1,4 @@
-# 超多维信息场的严格形式化描述 [维度: 20] v36.0
+# 超多维信息场的严格形式化描述 [维度: 20.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_information_field_en.md)**
 

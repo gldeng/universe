@@ -1,4 +1,4 @@
-# 量子FLIP对称性理论 [维度: 11] v36.0
+# 量子FLIP对称性理论 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_flip_symmetry_en.md)**
 

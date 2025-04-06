@@ -1,4 +1,4 @@
-# SHIFT测量不变性理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT测量不变性理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_measurement_invariance_en.md)**
 
@@ -375,16 +375,16 @@ SHIFT测量不变性理论在宇宙本论理论谱系中被定位为维度1理�
 SHIFT测量不变性理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基本对称性理论](formal_theory_shift_elementary_symmetry.md) [维度: 1]
-   - [SHIFT定向流理论](formal_theory_shift_directional_flow.md) [维度: 1]
+   - [SHIFT基本对称性理论](formal_theory_shift_elementary_symmetry.md) [维度: 1.0]
+   - [SHIFT定向流理论](formal_theory_shift_directional_flow.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT测量算子理论](formal_theory_shift_measurement_operator.md) [维度: 2]
-   - [SHIFT观测者理论](formal_theory_shift_observer.md) [维度: 2]
+   - [SHIFT测量算子理论](formal_theory_shift_measurement_operator.md) [维度: 1.0]
+   - [SHIFT观测者理论](formal_theory_shift_observer.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

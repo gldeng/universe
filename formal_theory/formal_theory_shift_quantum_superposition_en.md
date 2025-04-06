@@ -1,5 +1,7 @@
 # Strict Formal Description of SHIFT Quantum Superposition Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_quantum_superposition.md)
+
 **[中文版](formal_theory_shift_quantum_superposition.md) | [English Version]**
 
 ## Table of Contents

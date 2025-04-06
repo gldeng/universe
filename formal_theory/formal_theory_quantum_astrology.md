@@ -1,4 +1,4 @@
-# 占星术量子理论的严格形式化描述 [维度: 13] v36.0
+# 占星术量子理论的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_astrology_en.md)**
 
@@ -511,23 +511,23 @@ $`\frac{\partial \mathcal{I}}{\partial t} = -i[\hat{H}_{\mathcal{A}}, \mathcal{I
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+1. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 13.0]
    - 提供量子态描述
    - 借用量子叠加和纠缠概念
 
-2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 13.0]
    - 提供精神场方程
    - 借用精神-物质交互模型
 
-3. **[神秘冥想状态论](formal_theory_mystical_meditation.md)** [维度: 12]
+3. **[神秘冥想状态论](formal_theory_mystical_meditation.md)** [维度: 13.0]
    - 提供意识状态转换框架
    - 借用状态转换机制
 
-4. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13]
+4. **[神秘符号学](formal_theory_mystical_symbology.md)** [维度: 13.0]
    - 提供符号场框架
    - 借用符号-意义映射模型
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 13.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

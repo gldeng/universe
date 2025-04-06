@@ -1,4 +1,4 @@
-# SHIFT量子叠加理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT量子叠加理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_quantum_superposition_en.md)**
 
@@ -366,14 +366,14 @@ SHIFT量子叠加理论在宇宙本论理论谱系中被定位为维度1理论�
 SHIFT量子叠加理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-   - [SHIFT量子分叉理论](formal_theory_shift_quantum_bifurcation.md) [维度: 0]
-   - [SHIFT二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.0]
+   - [SHIFT量子分叉理论](formal_theory_shift_quantum_bifurcation.md) [维度: 1.0]
+   - [SHIFT二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT量子测量理论](formal_theory_shift_quantum_measurement.md) [维度: 2]
-   - [SHIFT量子纠缠理论](formal_theory_shift_quantum_entanglement.md) [维度: 2]
-   - [SHIFT退相干理论](formal_theory_shift_decoherence.md) [维度: 2]
+   - [SHIFT量子测量理论](formal_theory_shift_quantum_measurement.md) [维度: 1.0]
+   - [SHIFT量子纠缠理论](formal_theory_shift_quantum_entanglement.md) [维度: 1.0]
+   - [SHIFT退相干理论](formal_theory_shift_decoherence.md) [维度: 1.0]
 
 3. **理论引用图**：
    ```

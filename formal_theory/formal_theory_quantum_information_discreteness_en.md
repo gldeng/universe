@@ -1,5 +1,7 @@
 # Formal Description of Quantum Information Discreteness Theory [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_quantum_information_discreteness.md)
+
 **[中文版](formal_theory_quantum_information_discreteness.md) | [English Version]**
 
 ## Contents

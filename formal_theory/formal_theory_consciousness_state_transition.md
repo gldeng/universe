@@ -1,4 +1,4 @@
-# 意识状态转换理论的严格形式化描述 [维度: 2] v36.0
+# 意识状态转换理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_state_transition_en.md)**
 
@@ -355,18 +355,18 @@ $`T_1 \circ T_2 \circ ... \circ T_k \circ T_{k+1} = (T_1 \circ T_2 \circ ... \ci
 意识状态转换理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [意识基础状态理论](formal_theory_consciousness_basic_state.md) [维度: 2]
-   - [状态转换网络理论](formal_theory_state_transition_network.md) [维度: 1]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 2.0]
+   - [意识基础状态理论](formal_theory_consciousness_basic_state.md) [维度: 2.0]
+   - [状态转换网络理论](formal_theory_state_transition_network.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [意识信息处理理论](formal_theory_consciousness_information_processing.md) [维度: 2]
-   - [意识动力学系统理论](formal_theory_consciousness_dynamical_system.md) [维度: 2]
-   - [意识涌现与退隐理论](formal_theory_consciousness_emergence_withdrawal.md) [维度: 3]
+   - [意识信息处理理论](formal_theory_consciousness_information_processing.md) [维度: 2.0]
+   - [意识动力学系统理论](formal_theory_consciousness_dynamical_system.md) [维度: 2.0]
+   - [意识涌现与退隐理论](formal_theory_consciousness_emergence_withdrawal.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [认知状态转换理论](formal_theory_cognitive_state_transition.md) [维度: 2]
-   - [量子意识转换理论](formal_theory_quantum_consciousness_transition.md) [维度: 2]
+   - [认知状态转换理论](formal_theory_cognitive_state_transition.md) [维度: 2.0]
+   - [量子意识转换理论](formal_theory_quantum_consciousness_transition.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

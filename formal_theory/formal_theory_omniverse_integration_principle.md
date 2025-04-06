@@ -1,4 +1,4 @@
-# 全域整合原理的严格形式化描述 [维度: 32] v36.0
+# 全域整合原理的严格形式化描述 [维度: 32.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omniverse_integration_principle_en.md)**
 

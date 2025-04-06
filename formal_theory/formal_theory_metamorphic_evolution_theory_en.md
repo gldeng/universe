@@ -1,5 +1,7 @@
 # Formal Description of Metamorphic Evolution Theory [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_metamorphic_evolution_theory.md)
+
 **[中文版](formal_theory_metamorphic_evolution_theory.md) | [English Version]**
 
 ## Table of Contents

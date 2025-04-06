@@ -1,4 +1,4 @@
-# SHIFT拓扑演化稳定性理论 [维度: 5] v36.0
+# SHIFT拓扑演化稳定性理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_topology_evolution_stability_en.md)**
 
@@ -196,11 +196,11 @@ $`R(N) = \mathbb{E}_{\delta}[\eta(N \oplus \delta)]`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [SHIFT点变换理论](formal_theory_shift_point_transformation.md) [维度: 2]
-- [多维SHIFT变换理论](formal_theory_multidimensional_shift_transformation.md) [维度: 3]
-- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [SHIFT点变换理论](formal_theory_shift_point_transformation.md) [维度: 5.0]
+- [多维SHIFT变换理论](formal_theory_multidimensional_shift_transformation.md) [维度: 5.0]
+- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [复杂系统稳定性框架理论](formal_theory_complex_system_stability_framework.md) [维度: 6]
-- [量子网络拓扑优化理论](formal_theory_quantum_network_topology_optimization.md) [维度: 6] 
+- [复杂系统稳定性框架理论](formal_theory_complex_system_stability_framework.md) [维度: 5.0]
+- [量子网络拓扑优化理论](formal_theory_quantum_network_topology_optimization.md) [维度: 5.0] 

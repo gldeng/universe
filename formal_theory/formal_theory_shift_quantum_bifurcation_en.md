@@ -1,5 +1,7 @@
 # Strict Formal Description of SHIFT Quantum Bifurcation Theory [Dimension: 0] v36.0
 
+[Chinese Version](formal_theory_shift_quantum_bifurcation.md)
+
 **[中文版](formal_theory_shift_quantum_bifurcation.md) | [English Version]**
 
 ## Table of Contents

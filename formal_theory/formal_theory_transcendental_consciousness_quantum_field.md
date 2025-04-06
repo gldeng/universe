@@ -1,4 +1,4 @@
-# 超越性意识量子场的形式化描述 [维度: 33] v36.0
+# 超越性意识量子场的形式化描述 [维度: 33.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_consciousness_quantum_field_en.md)**
 

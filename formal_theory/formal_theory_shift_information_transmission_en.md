@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Information Transmission Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_information_transmission.md)
+
 **[中文版](formal_theory_shift_information_transmission.md) | [English Version]**
 
 ## Table of Contents

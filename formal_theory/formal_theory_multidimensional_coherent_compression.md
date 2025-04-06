@@ -1,4 +1,4 @@
-# 多维度相干压缩理论 [维度: 58] v36.0
+# 多维度相干压缩理论 [维度: 58.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multidimensional_coherent_compression_en.md)**
 
@@ -218,11 +218,11 @@ $`H(\mathcal{M}) + C(\mathcal{M}) = H(\text{MCOP}(\mathcal{M})) + C(\text{MCOP}(
 
 本理论是在宇宙本论 [v36.0] 的框架下发展而来，并与以下理论形成紧密的引用关系：
 
-1. [**宇宙本论** [维度: 10]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
-2. [**量子超拓扑整合理论** [维度: 57]](formal_theory_quantum_hypertopological_integration.md) - 提供了超拓扑整合的基本概念
-3. [**超越性超复杂性还原理论** [维度: 56]](formal_theory_transcendental_hypercomplexity_reduction.md) - 提供了超复杂性还原的基本概念
-4. [**统一递归稳定化对称性理论** [维度: 55]](formal_theory_unified_recursive_stabilization_symmetry.md) - 提供了递归稳定化的基本概念
-5. [**量子信息论** [维度: 14]](formal_theory_quantum_information.md) - 提供了量子信息的基础理论
+1. [**宇宙本论** [维度: 58.0]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
+2. [**量子超拓扑整合理论** [维度: 58.0]](formal_theory_quantum_hypertopological_integration.md) - 提供了超拓扑整合的基本概念
+3. [**超越性超复杂性还原理论** [维度: 58.0]](formal_theory_transcendental_hypercomplexity_reduction.md) - 提供了超复杂性还原的基本概念
+4. [**统一递归稳定化对称性理论** [维度: 58.0]](formal_theory_unified_recursive_stabilization_symmetry.md) - 提供了递归稳定化的基本概念
+5. [**量子信息论** [维度: 58.0]](formal_theory_quantum_information.md) - 提供了量子信息的基础理论
 
 作为维度为58的超高维理论，本理论通过引入多维相干压缩操作MCOP和相干保持映射COHMAP，扩展了宇宙本论的基础操作集。
 

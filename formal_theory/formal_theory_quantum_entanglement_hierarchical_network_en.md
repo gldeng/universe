@@ -1,5 +1,7 @@
 # Rigorous Formalization of Quantum Entanglement Hierarchical Network Theory [Dimension: 9] v36.0
 
+[Chinese Version](formal_theory_quantum_entanglement_hierarchical_network.md)
+
 **[English Version] | [中文版](formal_theory_quantum_entanglement_hierarchical_network.md)**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Formal Description of Quantum Entropy Dynamics [Dimension: 16] v36.0
 
+[Chinese Version](formal_theory_quantum_entropy_dynamics.md)
+
 **[中文版](formal_theory_quantum_entropy_dynamics.md) | [English Version]**
 
 ## Table of Contents

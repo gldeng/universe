@@ -1,4 +1,4 @@
-# 基于XOR的信息压缩理论 [维度: 5] v36.0
+# 基于XOR的信息压缩理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_xor_based_information_compression_en.md)**
 
@@ -239,11 +239,11 @@ $`T_{\text{XOR}}(I, C) = C_{\text{XOR}}(I) \oplus (I \oplus C)`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息熵动力学理论](formal_theory_information_entropy_dynamics.md) [维度: 3]
-- [信息熵对称性理论](formal_theory_information_entropy_symmetry.md) [维度: 3]
-- [UNSHIFT时间因果性理论](formal_theory_unshift_temporal_causality.md) [维度: 4]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [信息熵动力学理论](formal_theory_information_entropy_dynamics.md) [维度: 5.0]
+- [信息熵对称性理论](formal_theory_information_entropy_symmetry.md) [维度: 5.0]
+- [UNSHIFT时间因果性理论](formal_theory_unshift_temporal_causality.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [量子信息压缩编码理论](formal_theory_quantum_information_compression_encoding.md) [维度: 6]
-- [多维信息传输网络理论](formal_theory_multidimensional_information_transmission_network.md) [维度: 6] 
+- [量子信息压缩编码理论](formal_theory_quantum_information_compression_encoding.md) [维度: 5.0]
+- [多维信息传输网络理论](formal_theory_multidimensional_information_transmission_network.md) [维度: 5.0] 

@@ -1,4 +1,4 @@
-# UNSHIFT时间振荡理论 [维度: 2] v36.0
+# UNSHIFT时间振荡理论 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_temporal_oscillation_en.md)**
 
@@ -203,9 +203,9 @@ $`P(x \rightarrow x) = \cos^2(\omega t)`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 2.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 2.0]
 
 本理论被以下理论引用：
-- [UNSHIFT量子时钟理论](formal_theory_unshift_quantum_clock.md) [维度: 3]
-- [UNSHIFT周期动力学理论](formal_theory_unshift_cyclic_dynamics.md) [维度: 4] 
+- [UNSHIFT量子时钟理论](formal_theory_unshift_quantum_clock.md) [维度: 2.0]
+- [UNSHIFT周期动力学理论](formal_theory_unshift_cyclic_dynamics.md) [维度: 2.0] 

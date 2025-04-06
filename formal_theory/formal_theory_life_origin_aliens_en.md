@@ -1,5 +1,7 @@
 # The Formal Description of Life Origin and the Existence of Extraterrestrial Life [Dimension: 19] v36.0
 
+[Chinese Version](formal_theory_life_origin_aliens.md)
+
 **[中文版](formal_theory_life_origin_aliens.md) | [English Version]**
 
 ## Table of Contents

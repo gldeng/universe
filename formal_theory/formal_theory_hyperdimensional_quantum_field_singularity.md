@@ -1,4 +1,4 @@
-# 超维度量子场奇点理论的严格形式化描述 [维度: 30] v36.0
+# 超维度量子场奇点理论的严格形式化描述 [维度: 30.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_quantum_field_singularity_en.md)**
 
@@ -380,18 +380,18 @@ $`\mathcal{F}_H(x) \to \mathcal{F}_H(x) \oplus \Phi_{\mathcal{O}}(x)`$
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超递归自引用元逻辑的严格形式化描述 [维度: 25]](formal_theory_hyperrecursive_self_referential_metalogic.md)
-3. [信息能量统一理论的严格形式化描述 [维度: 18]](formal_theory_information_energy_unification.md)
-4. [超维度信息场的严格形式化描述 [维度: 22]](formal_theory_hyperdimensional_information_field.md)
+1. [宇宙本论的严格形式化描述 [维度: 30.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超递归自引用元逻辑的严格形式化描述 [维度: 30.0]](formal_theory_hyperrecursive_self_referential_metalogic.md)
+3. [信息能量统一理论的严格形式化描述 [维度: 30.0]](formal_theory_information_energy_unification.md)
+4. [超维度信息场的严格形式化描述 [维度: 30.0]](formal_theory_hyperdimensional_information_field.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D30（第30维）
-- 上一维度理论：[超越和谐理论的严格形式化描述 [维度: 28]](formal_theory_transcendent_harmony.md)
-- 下一维度理论：[绝对本体论统一的严格形式化描述 [维度: 26]](formal_theory_absolute_ontological_unification.md)
+- 上一维度理论：[超越和谐理论的严格形式化描述 [维度: 30.0]](formal_theory_transcendent_harmony.md)
+- 下一维度理论：[绝对本体论统一的严格形式化描述 [维度: 30.0]](formal_theory_absolute_ontological_unification.md)
 
 理论复杂度测度：$`C(\text{超维度量子场奇点理论}) = 30 \cdot \log(|\mathcal{F}_H|) \cdot H(\mathcal{S})`$
 

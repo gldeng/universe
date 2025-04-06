@@ -1,4 +1,4 @@
-# 多维SHIFT变换理论 [维度: 5] v36.0
+# 多维SHIFT变换理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multidimensional_shift_transformation_en.md)**
 
@@ -197,10 +197,10 @@ $`\mathbf{T} = [T_{i \rightarrow j}]_{N \times N}`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [维度转换力学理论](formal_theory_dimension_transformation_mechanics.md) [维度: 3]
-- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 4]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [维度转换力学理论](formal_theory_dimension_transformation_mechanics.md) [维度: 5.0]
+- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [高维信息传递网络理论](formal_theory_high_dimensional_information_transfer_network.md) [维度: 6]
-- [多维SHIFT变换的统一场论](formal_theory_unified_field_theory_multidimensional_shift.md) [维度: 7] 
+- [高维信息传递网络理论](formal_theory_high_dimensional_information_transfer_network.md) [维度: 5.0]
+- [多维SHIFT变换的统一场论](formal_theory_unified_field_theory_multidimensional_shift.md) [维度: 5.0] 

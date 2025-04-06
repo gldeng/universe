@@ -1,5 +1,7 @@
 # Formal Description of Antientropic Information Emergence [Dimension: 9] v36.0
 
+[Chinese Version](formal_theory_antientropic_information_emergence.md)
+
 **[中文版](formal_theory_antientropic_information_emergence.md) | [English Version]**
 
 ## Table of Contents

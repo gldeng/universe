@@ -1,4 +1,4 @@
-# 信息扩展理论的严格形式化描述 [维度: 4] v36.0
+# 信息扩展理论的严格形式化描述 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_information_expansion_en.md)**
 

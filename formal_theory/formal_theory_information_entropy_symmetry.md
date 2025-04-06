@@ -1,4 +1,4 @@
-# 信息熵对称理论的形式化描述 [维度: 7] v36.0
+# 信息熵对称理论的形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_entropy_symmetry_en.md)**
 
@@ -273,9 +273,9 @@ $`|\text{SHIFT}^n(X) \oplus \text{USHIFT}^n(X)| > 0`$
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [SHIFT信息传输理论](formal_theory_shift_information_transmission.md) [维度: 4]
-- [SHIFT最小熵理论](formal_theory_shift_minimum_entropy.md) [维度: 5]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+- [SHIFT信息传输理论](formal_theory_shift_information_transmission.md) [维度: 7.0]
+- [SHIFT最小熵理论](formal_theory_shift_minimum_entropy.md) [维度: 7.0]
 
 本理论被以下理论引用：
 - 量子熵纠缠理论

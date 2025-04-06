@@ -1,5 +1,7 @@
 # Strict Formalization of Anti-Recursion Theory [Dimension: 3] v36.0
 
+[Chinese Version](formal_theory_anti_recursion.md)
+
 **[中文版](formal_theory_anti_recursion.md) | [English Version]**
 
 ## Table of Contents

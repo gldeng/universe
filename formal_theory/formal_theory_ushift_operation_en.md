@@ -1,5 +1,7 @@
 # Strict Formalization of USHIFT Operation [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_ushift_operation.md)
+
 **[中文版](formal_theory_ushift_operation.md) | [English Version]**
 
 ## Table of Contents

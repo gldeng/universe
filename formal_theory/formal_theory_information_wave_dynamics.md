@@ -1,4 +1,4 @@
-# 信息波动力学的严格形式化描述 [维度: 17] v36.0
+# 信息波动力学的严格形式化描述 [维度: 17.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_wave_dynamics_en.md)**
 

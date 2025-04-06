@@ -1,4 +1,4 @@
-# 灵魂频率共振系统的严格形式化描述 [维度: 14] v36.0
+# 灵魂频率共振系统的严格形式化描述 [维度: 14.0] v36.0
 
 **[中文版] | [English Version](formal_theory_soul_frequency_resonance_system_en.md)**
 
@@ -578,23 +578,23 @@ $`\mathcal{E}_{healing}(t) = \mathcal{E}_0 \cdot \cos(\omega_{diseased}t) \cdot 
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 14.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 
-2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 13]
+2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 14.0]
    - 提供灵魂振动场概念
    - 借用灵魂频率基础
 
-3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 12]
+3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 14.0]
    - 提供灵魂间共振机制
    - 借用量子纠缠概念
 
-4. **[灵魂能量转换动力学](formal_theory_soul_energy_transformation_dynamics.md)** [维度: 13]
+4. **[灵魂能量转换动力学](formal_theory_soul_energy_transformation_dynamics.md)** [维度: 14.0]
    - 提供能量-频率关系
    - 借用能量转换机制
 
-5. **[量子波动和声理论](formal_theory_quantum_wave_harmonics.md)** [维度: 16]
+5. **[量子波动和声理论](formal_theory_quantum_wave_harmonics.md)** [维度: 14.0]
    - 提供高维和声系统
    - 借用波动叠加原理
 

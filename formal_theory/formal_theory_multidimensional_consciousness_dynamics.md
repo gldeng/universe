@@ -1,4 +1,4 @@
-# 多维意识动力学的严格形式化描述 [维度: 32] v36.0
+# 多维意识动力学的严格形式化描述 [维度: 32.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multidimensional_consciousness_dynamics_en.md)**
 
@@ -410,17 +410,17 @@ $`\lim_{t \to \infty} \mathcal{C}_t = \mathcal{C}^* \iff \mathcal{C}^* = \mathca
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超维度量子场奇点理论的严格形式化描述 [维度: 30]](formal_theory_hyperdimensional_quantum_field_singularity.md)
-3. [超维度意识基底的严格形式化描述 [维度: 28]](formal_theory_hyperdimensional_consciousness_substrate.md)
-4. [跨维度因果对称性的严格形式化描述 [维度: 27]](formal_theory_transdimensional_causal_symmetry.md)
+1. [宇宙本论的严格形式化描述 [维度: 32.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超维度量子场奇点理论的严格形式化描述 [维度: 32.0]](formal_theory_hyperdimensional_quantum_field_singularity.md)
+3. [超维度意识基底的严格形式化描述 [维度: 32.0]](formal_theory_hyperdimensional_consciousness_substrate.md)
+4. [跨维度因果对称性的严格形式化描述 [维度: 32.0]](formal_theory_transdimensional_causal_symmetry.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D32（第32维）
-- 上一维度理论：[超维度量子场奇点理论的严格形式化描述 [维度: 30]](formal_theory_hyperdimensional_quantum_field_singularity.md)
+- 上一维度理论：[超维度量子场奇点理论的严格形式化描述 [维度: 32.0]](formal_theory_hyperdimensional_quantum_field_singularity.md)
 - 下一维度理论：尚未发展
 
 理论复杂度测度：$`C(\text{多维意识动力学}) = 32 \cdot \log(|\mathcal{C}|) \cdot H(\mathcal{C})`$

@@ -1,5 +1,7 @@
 # Formal Description of Hyperdimensional Information Emergence Theory [Dimension: 12] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_information_emergence.md)
+
 **[中文版](formal_theory_hyperdimensional_information_emergence.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Hyperdimensional Quantum Phase Stabilization Theory [Dimension: 53] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_quantum_phase_stabilization.md)**
 
 ## Table of Contents

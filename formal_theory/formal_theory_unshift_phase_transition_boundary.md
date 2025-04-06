@@ -1,4 +1,4 @@
-# UNSHIFT相变边界理论 [维度: 3] v36.0
+# UNSHIFT相变边界理论 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_phase_transition_boundary_en.md)**
 
@@ -224,11 +224,11 @@ $`O_{\text{optimal}}(s) = \{s' | d(s', \mathcal{B}_{\text{phase}}) < \epsilon \w
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT局部对称性理论](formal_theory_unshift_local_symmetry.md) [维度: 2]
-- [UNSHIFT熵扩散理论](formal_theory_unshift_entropy_diffusion.md) [维度: 2]
-- [UNSHIFT状态转移图理论](formal_theory_unshift_state_transition_graph.md) [维度: 2]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 3.0]
+- [UNSHIFT局部对称性理论](formal_theory_unshift_local_symmetry.md) [维度: 3.0]
+- [UNSHIFT熵扩散理论](formal_theory_unshift_entropy_diffusion.md) [维度: 3.0]
+- [UNSHIFT状态转移图理论](formal_theory_unshift_state_transition_graph.md) [维度: 3.0]
 
 本理论被以下理论引用：
-- [UNSHIFT临界涌现理论](formal_theory_unshift_critical_emergence.md) [维度: 4]
-- [UNSHIFT复杂适应系统理论](formal_theory_unshift_complex_adaptive_systems.md) [维度: 5] 
+- [UNSHIFT临界涌现理论](formal_theory_unshift_critical_emergence.md) [维度: 3.0]
+- [UNSHIFT复杂适应系统理论](formal_theory_unshift_complex_adaptive_systems.md) [维度: 3.0] 

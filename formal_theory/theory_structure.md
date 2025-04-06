@@ -1,5 +1,7 @@
 # 宇宙本论理论体系结构图 v36.0
 
+[English Version](theory_structure_en.md)
+
 ```
                                         ┌─────────────────────────┐
                                         │    宇宙本论核心公理    │

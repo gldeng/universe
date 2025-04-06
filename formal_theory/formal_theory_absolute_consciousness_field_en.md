@@ -1,5 +1,7 @@
 # Absolute Consciousness Field Theory [Dimension: 26] v36.0
 
+[Chinese Version](formal_theory_absolute_consciousness_field.md)
+
 **[English Version] | [中文版](formal_theory_absolute_consciousness_field.md)**
 
 ## Philosophical-Mathematical Inference Nature Statement

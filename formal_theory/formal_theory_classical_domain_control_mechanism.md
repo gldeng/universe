@@ -1,4 +1,4 @@
-# 经典域控制机制理论的严格形式化描述 [维度: 21] v36.0
+# 经典域控制机制理论的严格形式化描述 [维度: 21.0] v36.0
 
 **[中文版] | [English Version](formal_theory_classical_domain_control_mechanism_en.md)**
 
@@ -480,13 +480,13 @@ $`\|\text{USHIFT}(c) \oplus \text{SHIFT}(\text{USHIFT}(c))\| > 0`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [量子与经典统一理论 [维度: 19]](formal_theory_quantum_classical_unification.md)
-3. [SHIFT操作的严格形式化描述 [维度: 2]](formal_theory_shift_operation.md)
-4. [USHIFT操作的严格形式化描述 [维度: 2]](formal_theory_ushift_operation.md)
-5. [经典-量子信息反馈循环理论 [维度: 13]](formal_theory_classical_quantum_information_feedback.md)
-6. [双向量子-经典网关理论 [维度: 15]](formal_theory_dual_direction_quantum_classical_gateway.md)
-7. [量子-经典边界动力学理论 [维度: 17]](formal_theory_quantum_classical_boundary_dynamics.md)
+1. [宇宙本论的严格形式化描述 [维度: 21.0]](formal_theory_cosmic_ontology.md)
+2. [量子与经典统一理论 [维度: 21.0]](formal_theory_quantum_classical_unification.md)
+3. [SHIFT操作的严格形式化描述 [维度: 21.0]](formal_theory_shift_operation.md)
+4. [USHIFT操作的严格形式化描述 [维度: 21.0]](formal_theory_ushift_operation.md)
+5. [经典-量子信息反馈循环理论 [维度: 21.0]](formal_theory_classical_quantum_information_feedback.md)
+6. [双向量子-经典网关理论 [维度: 21.0]](formal_theory_dual_direction_quantum_classical_gateway.md)
+7. [量子-经典边界动力学理论 [维度: 21.0]](formal_theory_quantum_classical_boundary_dynamics.md)
 
 理论的继承与扩展关系：
 - 从宇宙本论继承了量子域和经典域的基本定义

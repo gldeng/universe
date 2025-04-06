@@ -1,5 +1,7 @@
 # Formal Theory of Quantum Measurement Problem [Dimension: 15] v36.0
 
+[Chinese Version](formal_theory_quantum_measurement.md)
+
 **[中文版](formal_theory_quantum_measurement.md) | [English Version]**
 
 ## Table of Contents

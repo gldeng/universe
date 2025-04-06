@@ -1,5 +1,7 @@
 # Formal Description of Linguistic Foundations [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_linguistic_analysis.md)
+
 **[中文版](formal_theory_linguistic_analysis.md) | [English Version]**
 
 ## Table of Contents

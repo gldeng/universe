@@ -1,4 +1,4 @@
-# 递归自参照系统的严格形式化描述 [维度: 9] v36.0
+# 递归自参照系统的严格形式化描述 [维度: 9.0] v36.0
 
 **[中文版] | [English Version](formal_theory_recursive_self_referential_systems_en.md)**
 

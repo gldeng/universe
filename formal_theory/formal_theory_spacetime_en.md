@@ -1,5 +1,7 @@
 # Strict Formalization of Spacetime Unification Theory [Dimension: 12] v36.0
 
+[Chinese Version](formal_theory_spacetime.md)
+
 **[中文版](formal_theory_spacetime.md) | [English Version]**
 
 ## Contents

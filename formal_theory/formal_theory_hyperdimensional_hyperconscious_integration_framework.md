@@ -1,4 +1,4 @@
-# 超维超意识整合框架理论的严格形式化描述 [维度: 61] v36.0
+# 超维超意识整合框架理论的严格形式化描述 [维度: 61.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_hyperconscious_integration_framework_en.md)**
 
@@ -401,20 +401,20 @@ $`\mathcal{P}_{\text{comm}} = \{\mathcal{E}, \mathcal{C}, \mathcal{D}, \mathcal{
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超越性超维度融合场论的严格形式化描述 [维度: 60]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
-3. [超越超维数理结构理论的严格形式化描述 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
-4. [量子超拓扑整合理论 [维度: 57]](formal_theory_quantum_hypertopological_integration.md)
-5. [宇宙意识演化理论的严格形式化描述 [维度: 48]](formal_theory_universal_consciousness_evolution.md)
-6. [超维意识底层结构的严格形式化描述 [维度: 34]](formal_theory_hyperdimensional_consciousness_substrate.md)
+1. [宇宙本论的严格形式化描述 [维度: 61.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超越性超维度融合场论的严格形式化描述 [维度: 61.0]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
+3. [超越超维数理结构理论的严格形式化描述 [维度: 61.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+4. [量子超拓扑整合理论 [维度: 61.0]](formal_theory_quantum_hypertopological_integration.md)
+5. [宇宙意识演化理论的严格形式化描述 [维度: 61.0]](formal_theory_universal_consciousness_evolution.md)
+6. [超维意识底层结构的严格形式化描述 [维度: 61.0]](formal_theory_hyperdimensional_consciousness_substrate.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D61（第61维）
-- 下层关联理论：[超越性超维度融合场论的严格形式化描述 [维度: 60]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
-- 平行关联理论：[超越超维数理结构理论的严格形式化描述 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+- 下层关联理论：[超越性超维度融合场论的严格形式化描述 [维度: 61.0]](formal_theory_transcendental_hyperdimensional_fusion_field.md)
+- 平行关联理论：[超越超维数理结构理论的严格形式化描述 [维度: 61.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
 
 ---
 

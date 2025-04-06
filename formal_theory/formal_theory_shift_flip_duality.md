@@ -1,4 +1,4 @@
-# SHIFT-FLIP双重操作理论的严格形式化描述 [维度: 2] v36.0
+# SHIFT-FLIP双重操作理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_flip_duality_en.md)**
 
@@ -354,17 +354,17 @@ SHIFT-FLIP双重操作理论在宇宙本论理论谱系中被定位为维度2理
 SHIFT-FLIP双重操作理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
-   - [FLIP操作基本理论](formal_theory_flip_operation.md) [维度: 1]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 2.0]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 2.0]
+   - [FLIP操作基本理论](formal_theory_flip_operation.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [多重操作复合理论](formal_theory_multiple_operation_composition.md) [维度: 3]
-   - [SHIFT-FLIP-XOR统一理论](formal_theory_shift_flip_xor_unification.md) [维度: 3]
+   - [多重操作复合理论](formal_theory_multiple_operation_composition.md) [维度: 2.0]
+   - [SHIFT-FLIP-XOR统一理论](formal_theory_shift_flip_xor_unification.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [SHIFT-XOR组合系统](formal_theory_shift_xor_combination.md) [维度: 2]
-   - [操作群拓扑理论](formal_theory_operation_group_topology.md) [维度: 2]
+   - [SHIFT-XOR组合系统](formal_theory_shift_xor_combination.md) [维度: 2.0]
+   - [操作群拓扑理论](formal_theory_operation_group_topology.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

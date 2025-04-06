@@ -1,4 +1,4 @@
-# 超维量子共振的严格形式化描述 [维度: 28] v36.0
+# 超维量子共振的严格形式化描述 [维度: 28.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transdimensional_quantum_resonance_en.md)**
 

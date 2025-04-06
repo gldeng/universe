@@ -1,4 +1,4 @@
-# 超操作符综合理论的严格形式化描述 [维度: 6] v36.0
+# 超操作符综合理论的严格形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_meta_operator_synthesis_en.md)**
 
@@ -407,14 +407,14 @@ $`\mathfrak{M}_{\alpha}(\mathcal{O}) = \alpha \cdot \mathcal{O} \oplus (1-\alpha
 超操作符理论在理论依赖网络中的位置：
 
 1. **依赖的理论**:
-   - [量子超结构理论](formal_theory_quantum_superstructure.md) [维度: 5]
-   - [SHIFT操作的严格形式化](formal_theory_shift_operation.md) [维度: 3]
-   - [XOR理论](formal_theory_xor_operation.md) [维度: 2]
-   - [FLIP操作的严格形式化](formal_theory_flip_operation.md) [维度: 1]
+   - [量子超结构理论](formal_theory_quantum_superstructure.md) [维度: 6.0]
+   - [SHIFT操作的严格形式化](formal_theory_shift_operation.md) [维度: 6.0]
+   - [XOR理论](formal_theory_xor_operation.md) [维度: 6.0]
+   - [FLIP操作的严格形式化](formal_theory_flip_operation.md) [维度: 6.0]
 
 2. **后续依赖理论**:
-   - [宇宙自引用循环理论](formal_theory_universal_self_reference.md) [维度: 7]
-   - [高维信息编码理论](formal_theory_high_dim_encoding.md) [维度: 7]
+   - [宇宙自引用循环理论](formal_theory_universal_self_reference.md) [维度: 6.0]
+   - [高维信息编码理论](formal_theory_high_dim_encoding.md) [维度: 6.0]
 
 3. **理论映射关系**:
    - 提供宇宙本论基本操作的高阶抽象

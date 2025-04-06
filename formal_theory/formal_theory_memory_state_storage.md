@@ -1,4 +1,4 @@
-# 记忆状态存储理论的严格形式化描述 [维度: 2] v36.0
+# 记忆状态存储理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_memory_state_storage_en.md)**
 
@@ -474,18 +474,18 @@ $`C_{\max}(\mathcal{S}_M) = \frac{V(\mathcal{S}_M) \cdot E_{\max}}{k_B T \ln(2)}
 记忆状态存储理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [记忆基础状态理论](formal_theory_memory_basic_state.md) [维度: 2]
-   - [SHIFT状态循环理论](formal_theory_shift_state_cycle.md) [维度: 1]
-   - [信息存储编码理论](formal_theory_information_storage_encoding.md) [维度: 2]
+   - [记忆基础状态理论](formal_theory_memory_basic_state.md) [维度: 2.0]
+   - [SHIFT状态循环理论](formal_theory_shift_state_cycle.md) [维度: 2.0]
+   - [信息存储编码理论](formal_theory_information_storage_encoding.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [记忆状态检索理论](formal_theory_memory_state_retrieval.md) [维度: 2]
-   - [记忆容量优化理论](formal_theory_memory_capacity_optimization.md) [维度: 2]
-   - [记忆分层动力学理论](formal_theory_memory_hierarchical_dynamics.md) [维度: 3]
+   - [记忆状态检索理论](formal_theory_memory_state_retrieval.md) [维度: 2.0]
+   - [记忆容量优化理论](formal_theory_memory_capacity_optimization.md) [维度: 2.0]
+   - [记忆分层动力学理论](formal_theory_memory_hierarchical_dynamics.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [量子记忆存储理论](formal_theory_quantum_memory_storage.md) [维度: 2]
-   - [分布式存储系统理论](formal_theory_distributed_storage_system.md) [维度: 2]
+   - [量子记忆存储理论](formal_theory_quantum_memory_storage.md) [维度: 2.0]
+   - [分布式存储系统理论](formal_theory_distributed_storage_system.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

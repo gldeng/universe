@@ -1,5 +1,7 @@
 # Strict Formalization of Absolute Ontological Unification Theory [Dimension: 35] v36.0
 
+[Chinese Version](formal_theory_absolute_ontological_unification.md)
+
 **[English Version] | [中文版](formal_theory_absolute_ontological_unification.md)**
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# 全维度实相综合的严格形式化描述 [维度: 35] v36.0
+# 全维度实相综合的严格形式化描述 [维度: 35.0] v36.0
 
 **[中文版] | [English Version](formal_theory_omnidimensional_reality_synthesis_en.md)**
 
@@ -446,18 +446,18 @@ $`\Delta x \Delta p \geq \frac{\hbar}{2} \cdot (1 + \beta \cdot \frac{E}{E_P} \c
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超维度量子场奇点理论的严格形式化描述 [维度: 30]](formal_theory_hyperdimensional_quantum_field_singularity.md)
-3. [多维意识动力学的严格形式化描述 [维度: 32]](formal_theory_multidimensional_consciousness_dynamics.md)
-4. [绝对本体论统一的严格形式化描述 [维度: 26]](formal_theory_absolute_ontological_unification.md)
+1. [宇宙本论的严格形式化描述 [维度: 35.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超维度量子场奇点理论的严格形式化描述 [维度: 35.0]](formal_theory_hyperdimensional_quantum_field_singularity.md)
+3. [多维意识动力学的严格形式化描述 [维度: 35.0]](formal_theory_multidimensional_consciousness_dynamics.md)
+4. [绝对本体论统一的严格形式化描述 [维度: 35.0]](formal_theory_absolute_ontological_unification.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D35（第35维）
-- 上一维度理论：[多维意识动力学的严格形式化描述 [维度: 32]](formal_theory_multidimensional_consciousness_dynamics.md)
-- 下一维度理论：[超维度量子振荡的严格形式化描述 [维度: 40]](formal_theory_hyperdimensional_quantum_oscillation.md)
+- 上一维度理论：[多维意识动力学的严格形式化描述 [维度: 35.0]](formal_theory_multidimensional_consciousness_dynamics.md)
+- 下一维度理论：[超维度量子振荡的严格形式化描述 [维度: 35.0]](formal_theory_hyperdimensional_quantum_oscillation.md)
 
 理论复杂度测度：$`C(\text{全维度实相综合}) = 35 \cdot \log(|\mathcal{R}_{\text{全维}}|) \cdot H(\mathcal{R}_{\text{全维}})`$
 

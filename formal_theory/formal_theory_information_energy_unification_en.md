@@ -1,5 +1,7 @@
 # Formal Description of Information-Energy Unification Principle [Dimension: 11] v36.0
 
+[Chinese Version](formal_theory_information_energy_unification.md)
+
 **[中文版](formal_theory_information_energy_unification.md) | [English Version]**
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# UNSHIFT时间因果性理论 [维度: 4] v36.0
+# UNSHIFT时间因果性理论 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_temporal_causality_en.md)**
 
@@ -217,11 +217,11 @@ $`\text{Arrow}(t) = \frac{|\text{SHIFT}(S_t)| - |\text{UNSHIFT}(S_t)|}{|\text{SH
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT状态对偶性理论](formal_theory_unshift_state_duality.md) [维度: 2]
-- [UNSHIFT信息恢复原理](formal_theory_unshift_information_recovery_principle.md) [维度: 3]
-- [时间可逆性理论](formal_theory_temporal_reversibility.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [UNSHIFT状态对偶性理论](formal_theory_unshift_state_duality.md) [维度: 4.0]
+- [UNSHIFT信息恢复原理](formal_theory_unshift_information_recovery_principle.md) [维度: 4.0]
+- [时间可逆性理论](formal_theory_temporal_reversibility.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [量子因果网络理论](formal_theory_quantum_causal_network.md) [维度: 5]
-- [多时间尺度信息流理论](formal_theory_multi_temporal_scale_information_flow.md) [维度: 5] 
+- [量子因果网络理论](formal_theory_quantum_causal_network.md) [维度: 4.0]
+- [多时间尺度信息流理论](formal_theory_multi_temporal_scale_information_flow.md) [维度: 4.0] 

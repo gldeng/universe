@@ -1,5 +1,7 @@
 # Formal Theory of Cosmic Causal Network [Dimension: 28] v36.0
 
+[Chinese Version](formal_theory_cosmic_causal_network.md)
+
 **[中文版](formal_theory_cosmic_causal_network.md) | [English Version]**
 
 ## Table of Contents

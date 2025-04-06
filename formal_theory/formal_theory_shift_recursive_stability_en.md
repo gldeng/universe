@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Recursive Stability Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_recursive_stability.md)
+
 **[中文版](formal_theory_shift_recursive_stability.md) | [English Version]**
 
 ## Table of Contents

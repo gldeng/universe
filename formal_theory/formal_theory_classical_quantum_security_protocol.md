@@ -1,4 +1,4 @@
-# 量子-经典安全协议的严格形式化描述 [维度: 6] v36.0
+# 量子-经典安全协议的严格形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_classical_quantum_security_protocol_en.md)**
 
@@ -283,11 +283,11 @@ $`S_H = S_Q \cdot S_C \cdot (1 - \text{Correlation}(S_Q, S_C))`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [量子XOR拓扑稳定性](formal_theory_quantum_xor_topological_stability.md) [维度: 5]
-3. [维度转换固定点](formal_theory_dimensional_transformation_fixed_points.md) [维度: 5]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+2. [量子XOR拓扑稳定性](formal_theory_quantum_xor_topological_stability.md) [维度: 6.0]
+3. [维度转换固定点](formal_theory_dimensional_transformation_fixed_points.md) [维度: 6.0]
 
 本理论被以下高级理论引用：
 
-1. [经典系统量子增强](formal_theory_classical_system_quantum_enhancement.md) [维度: 7]
-2. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 7] 
+1. [经典系统量子增强](formal_theory_classical_system_quantum_enhancement.md) [维度: 6.0]
+2. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 6.0] 

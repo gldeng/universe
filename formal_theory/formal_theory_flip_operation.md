@@ -1,4 +1,4 @@
-# FLIP操作的严格形式化描述 [维度: 1] v36.0
+# FLIP操作的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_flip_operation_en.md)**
 

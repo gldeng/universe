@@ -1,4 +1,4 @@
-# 量子XOR纠缠递归网络理论 [维度: 5] v36.0
+# 量子XOR纠缠递归网络理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_xor_entanglement_recursive_network_en.md)**
 
@@ -209,11 +209,11 @@ $`R(q_i, q_j) = \arg\min_{P} \sum_{(a,b) \in P} |q_a \oplus q_b|`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子XOR纠缠对称性理论](formal_theory_quantum_xor_entanglement_symmetry.md) [维度: 3]
-- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 4]
-- [量子观察者依赖性理论](formal_theory_quantum_observer_dependency.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [量子XOR纠缠对称性理论](formal_theory_quantum_xor_entanglement_symmetry.md) [维度: 5.0]
+- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 5.0]
+- [量子观察者依赖性理论](formal_theory_quantum_observer_dependency.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [量子网络意识涌现理论](formal_theory_quantum_network_consciousness_emergence.md) [维度: 6]
-- [分布式量子计算框架理论](formal_theory_distributed_quantum_computing_framework.md) [维度: 6] 
+- [量子网络意识涌现理论](formal_theory_quantum_network_consciousness_emergence.md) [维度: 5.0]
+- [分布式量子计算框架理论](formal_theory_distributed_quantum_computing_framework.md) [维度: 5.0] 

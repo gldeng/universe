@@ -1,4 +1,4 @@
-# 神秘符号学的严格形式化描述 [维度: 13] v36.0
+# 神秘符号学的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_mystical_symbology_en.md)**
 
@@ -568,23 +568,23 @@ $`A_{syn}(s_i, s_j) = \gamma \cdot |\mathcal{S}(s_i)| \cdot |\mathcal{S}(s_j)| \
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 13.0]
    - 提供宗教场框架
    - 借用神圣体验形式化
 
-2. **[祈祷场论](formal_theory_prayer_field_theory.md)** [维度: 14]
+2. **[祈祷场论](formal_theory_prayer_field_theory.md)** [维度: 13.0]
    - 提供祈祷场基础
    - 借用信息编码与传递模型
 
-3. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+3. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 13.0]
    - 提供精神场基础
    - 借用精神场与意识场耦合模型
 
-4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 13.0]
    - 提供量子意识基础
    - 借用量子叠加和纠缠概念
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 13.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

@@ -1,5 +1,7 @@
 # Strict Formalization of SHIFT Measurement Invariance Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_measurement_invariance.md)
+
 **[中文版](formal_theory_shift_measurement_invariance.md) | [English Version]**
 
 ## Table of Contents

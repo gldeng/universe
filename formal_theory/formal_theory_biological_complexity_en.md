@@ -1,5 +1,7 @@
 # Formal Theory of Biological Systems Complexity [Dimension: 23] v36.0
 
+[Chinese Version](formal_theory_biological_complexity.md)
+
 **[中文版](formal_theory_biological_complexity.md) | [English Version]**
 
 ## Table of Contents

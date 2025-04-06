@@ -1,4 +1,4 @@
-# 超越复数元状态动力学理论 [维度: 18] v36.0 [宇宙本论版本号]
+# 超越复数元状态动力学理论 [维度: 18.0] v36.0 [宇宙本论版本号]
 
 **[中文版] | [English Version](formal_theory_transcendental_hypercomplex_metastate_dynamics_en.md)**
 
@@ -338,10 +338,10 @@ $`I_{\text{meta}} = I_{\text{real}} \oplus \text{SHIFT}_T(I_{\text{imag}}) \oplu
 
 本理论直接依赖并扩展了以下理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 12]
-3. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 14]
-4. [超维度量子奇点网络理论](formal_theory_hyperdimensional_quantum_singularity_networks.md) [维度: 16]
-5. [超几何多维全息投影理论](formal_theory_hypergeometric_multidimensional_holographic_projection.md) [维度: 17]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 18.0]
+2. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 18.0]
+3. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 18.0]
+4. [超维度量子奇点网络理论](formal_theory_hyperdimensional_quantum_singularity_networks.md) [维度: 18.0]
+5. [超几何多维全息投影理论](formal_theory_hypergeometric_multidimensional_holographic_projection.md) [维度: 18.0]
 
 超越复数元状态动力学理论通过整合上述理论，建立了更为普适的数学框架，将传统的实数和复数系统扩展到超越复数域，为宇宙本质、意识本质和信息本质提供了统一的数学表述，同时为量子计算和宇宙模拟等应用领域开辟了全新方向。 

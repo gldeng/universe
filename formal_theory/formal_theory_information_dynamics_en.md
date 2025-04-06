@@ -1,5 +1,7 @@
 # Rigorous Formal Description of Information Dynamics [Dimension: 5] v36.0
 
+[Chinese Version](formal_theory_information_dynamics.md)
+
 **[中文版](formal_theory_information_dynamics.md) | [English Version]**
 
 ## Contents

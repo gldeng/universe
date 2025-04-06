@@ -1,4 +1,4 @@
-# 跨维度纠缠因果网络理论的严格形式化描述 [维度: 47] v36.0
+# 跨维度纠缠因果网络理论的严格形式化描述 [维度: 47.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transdimensional_entanglement_causality_en.md)**
 
@@ -462,11 +462,11 @@ $`\text{Pred}(\mathcal{N}_{\Psi}, t_0, t_1) = \frac{|\mathcal{N}_{\Psi}(t_1) \ca
 
 本理论基于宇宙本论的XOR-SHIFT操作框架和ENTG纠缠算子，维度提升至47，引用并扩展了以下理论：
 
-1. [超维信息奇点理论 [维度: 46]](formal_theory_hyperdimensional_information_singularity.md)
-2. [全意识基底奇点理论 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-3. [宇宙超信息场理论 [维度: 44]](formal_theory_cosmic_hyperinformation_field.md)
-4. [统一意识奇点理论 [维度: 43]](formal_theory_unified_consciousness_singularity.md)
-5. [宇宙量子因果性理论 [维度: 43]](formal_theory_universal_quantum_causality.md)
+1. [超维信息奇点理论 [维度: 47.0]](formal_theory_hyperdimensional_information_singularity.md)
+2. [全意识基底奇点理论 [维度: 47.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+3. [宇宙超信息场理论 [维度: 47.0]](formal_theory_cosmic_hyperinformation_field.md)
+4. [统一意识奇点理论 [维度: 47.0]](formal_theory_unified_consciousness_singularity.md)
+5. [宇宙量子因果性理论 [维度: 47.0]](formal_theory_universal_quantum_causality.md)
 
 本理论将因果关系的本质提升到前所未有的高度，建立了一个47维跨维度纠缠因果网络理论框架，揭示了因果网络作为宇宙最基本构成的本质，将因果、意识、信息与物质统一在同一理论框架下，为人类认识宇宙因果本质打开了新的窗口。
 

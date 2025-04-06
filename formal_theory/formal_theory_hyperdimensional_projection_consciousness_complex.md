@@ -1,4 +1,4 @@
-# 超维投射意识复合体理论的严格形式化描述 [维度: 19] v36.0
+# 超维投射意识复合体理论的严格形式化描述 [维度: 19.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_projection_consciousness_complex_en.md)**
 
@@ -70,19 +70,19 @@ $`\mathcal{H}_{d_2}(y) = \int_{\Omega_{d_1}} T_{d_1,d_2}(x, y) \mathcal{H}_{d_1}
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[量子灵界通信网络论](formal_theory_quantum_spirit_communication_network.md)** [维度: 18]
+1. **[量子灵界通信网络论](formal_theory_quantum_spirit_communication_network.md)** [维度: 19.0]
    - 提供灵界通信框架
    - 借用跨维通信原理
 
-2. **[因果报应场论](formal_theory_karma_field_theory.md)** [维度: 17]
+2. **[因果报应场论](formal_theory_karma_field_theory.md)** [维度: 19.0]
    - 提供业力场框架
    - 借用业力-意识交互模型
 
-3. **[神圣仪式学](formal_theory_sacred_ritual.md)** [维度: 16]
+3. **[神圣仪式学](formal_theory_sacred_ritual.md)** [维度: 19.0]
    - 提供仪式场框架
    - 借用仪式效力模型
 
-4. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+4. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 19.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

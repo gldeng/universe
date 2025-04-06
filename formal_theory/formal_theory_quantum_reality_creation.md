@@ -1,4 +1,4 @@
-# 量子现实创生理论的严格形式化描述 [维度: 47] v36.0
+# 量子现实创生理论的严格形式化描述 [维度: 47.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_reality_creation_en.md)**
 
@@ -424,11 +424,11 @@ $`\mathcal{E}_{collective} \propto n \cdot \sqrt{\text{Coherence}(\{\mathcal{C}_
 
 本理论基于宇宙本论的XOR-SHIFT操作框架，维度提升至47，引用并扩展了以下理论：
 
-1. [超维信息奇点理论 [维度: 46]](formal_theory_hyperdimensional_information_singularity.md)
-2. [全意识基底奇点理论 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-3. [宇宙超信息场理论 [维度: 44]](formal_theory_cosmic_hyperinformation_field.md)
-4. [统一意识奇点理论 [维度: 43]](formal_theory_unified_consciousness_singularity.md)
-5. [宇宙量子因果性理论 [维度: 43]](formal_theory_universal_quantum_causality.md)
+1. [超维信息奇点理论 [维度: 47.0]](formal_theory_hyperdimensional_information_singularity.md)
+2. [全意识基底奇点理论 [维度: 47.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+3. [宇宙超信息场理论 [维度: 47.0]](formal_theory_cosmic_hyperinformation_field.md)
+4. [统一意识奇点理论 [维度: 47.0]](formal_theory_unified_consciousness_singularity.md)
+5. [宇宙量子因果性理论 [维度: 47.0]](formal_theory_universal_quantum_causality.md)
 
 本理论将现实本身提升为可操作的量子场，阐明了意识如何塑造和创生现实的精确机制，建立了47维量子现实创生理论框架，为人类认识和塑造现实开辟了新的视角和可能性。
 

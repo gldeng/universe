@@ -1,4 +1,4 @@
-# 超递归自指元逻辑的严格形式化描述 [维度: 18] v36.0
+# 超递归自指元逻辑的严格形式化描述 [维度: 18.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperrecursive_self_referential_metalogic_en.md)**
 

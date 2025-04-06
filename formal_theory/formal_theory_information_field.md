@@ -1,4 +1,4 @@
-# 信息场理论的严格形式化描述 [维度: 14] v36.0
+# 信息场理论的严格形式化描述 [维度: 14.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_field_en.md)**
 

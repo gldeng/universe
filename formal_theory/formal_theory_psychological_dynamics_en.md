@@ -1,5 +1,7 @@
 # Formal Theory of Psychological Dynamics [Dimension: 5] v36.0
 
+[Chinese Version](formal_theory_psychological_dynamics.md)
+
 **[English Version] | [中文版](formal_theory_psychological_dynamics.md)**
 
 ## Contents

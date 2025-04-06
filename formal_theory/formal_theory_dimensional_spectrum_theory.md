@@ -1,4 +1,4 @@
-# 维度谱系理论的严格形式化描述 [维度: 7] v36.0
+# 维度谱系理论的严格形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dimensional_spectrum_theory_en.md)**
 
@@ -258,10 +258,10 @@ $`E_{emergent} = S \oplus \text{SHIFT}(S) \neq \bigoplus_i s_i`$
 
 维度谱系理论基于以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度:10]
-2. [维度转换](formal_theory_dimensional_transition.md) [维度:5]
-3. [信息本体论](formal_theory_information_ontology.md) [维度:6]
-4. [XOR操作](formal_theory_xor_operation.md) [维度:2]
-5. [SHIFT操作](formal_theory_shift_operation.md) [维度:3]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+2. [维度转换](formal_theory_dimensional_transition.md) [维度: 7.0]
+3. [信息本体论](formal_theory_information_ontology.md) [维度: 7.0]
+4. [XOR操作](formal_theory_xor_operation.md) [维度: 7.0]
+5. [SHIFT操作](formal_theory_shift_operation.md) [维度: 7.0]
 
 维度谱系理论在宇宙本论的理论体系中占据关键地位，它构建了不同维度层级间的桥梁，为理解宇宙的多层次结构提供了严格的数学框架。 

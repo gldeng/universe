@@ -1,4 +1,4 @@
-# 意识在宇宙本论中的本体论地位的严格形式化描述 [维度: 12] v36.0
+# 意识在宇宙本论中的本体论地位的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_ontological_status_en.md)**
 
@@ -483,11 +483,11 @@ $`d(E_1, E_2) = |\mathcal{C} \oplus E_1 \oplus E_2|^2`$
 
 本理论直接依赖于以下理论框架：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供存在本源的XOR-SHIFT基础
-2. **[信息-能量统一原理](formal_theory_information_energy_unification.md)** [维度: 11] - 提供意识-信息-能量关系
-3. **[时间非线性模型](formal_theory_nonlinear_time_model.md)** [维度: 11] - 提供意识时间映射基础
-4. **[维度谱系理论](formal_theory_dimensional_spectrum.md)** [维度: 9] - 提供维度层级结构
-5. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 9] - 提供量子-经典界面
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 12.0] - 提供存在本源的XOR-SHIFT基础
+2. **[信息-能量统一原理](formal_theory_information_energy_unification.md)** [维度: 12.0] - 提供意识-信息-能量关系
+3. **[时间非线性模型](formal_theory_nonlinear_time_model.md)** [维度: 12.0] - 提供意识时间映射基础
+4. **[维度谱系理论](formal_theory_dimensional_spectrum.md)** [维度: 12.0] - 提供维度层级结构
+5. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 12.0] - 提供量子-经典界面
 
 ## 7. 理论引用关系
 
@@ -495,11 +495,11 @@ $`d(E_1, E_2) = |\mathcal{C} \oplus E_1 \oplus E_2|^2`$
 
 本理论直接依赖于以下理论框架：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供存在本源的XOR-SHIFT基础
-2. **[信息-能量统一原理](formal_theory_information_energy_unification.md)** [维度: 11] - 提供意识-信息-能量关系
-3. **[时间非线性模型](formal_theory_nonlinear_time_model.md)** [维度: 11] - 提供意识时间映射基础
-4. **[维度谱系理论](formal_theory_dimensional_spectrum.md)** [维度: 9] - 提供维度层级结构
-5. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 9] - 提供量子-经典界面
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 12.0] - 提供存在本源的XOR-SHIFT基础
+2. **[信息-能量统一原理](formal_theory_information_energy_unification.md)** [维度: 12.0] - 提供意识-信息-能量关系
+3. **[时间非线性模型](formal_theory_nonlinear_time_model.md)** [维度: 12.0] - 提供意识时间映射基础
+4. **[维度谱系理论](formal_theory_dimensional_spectrum.md)** [维度: 12.0] - 提供维度层级结构
+5. **[量子经典统一理论](formal_theory_quantum_classical_unification.md)** [维度: 12.0] - 提供量子-经典界面
 
 ### 7.2 理论扩展
 

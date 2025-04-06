@@ -1,5 +1,7 @@
 # Formal Theory of UNSHIFT State Duality [Dimension: 3] v36.0
 
+[Chinese Version](formal_theory_unshift_state_duality.md)
+
 **[中文版](formal_theory_unshift_state_duality.md) | [English Version]**
 
 ## Table of Contents

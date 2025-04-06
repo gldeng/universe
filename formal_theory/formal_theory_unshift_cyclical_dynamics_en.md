@@ -1,5 +1,7 @@
 # Formal Theory of UNSHIFT Cyclical Dynamics [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_cyclical_dynamics.md)
+
 **[中文版](formal_theory_unshift_cyclical_dynamics.md) | [English Version]**
 
 ## Table of Contents

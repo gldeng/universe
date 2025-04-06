@@ -1,5 +1,7 @@
 # Formal Description of Information Conservation and Transformation [Dimension: 15] v36.0
 
+[Chinese Version](formal_theory_information_conservation.md)
+
 **[中文版](formal_theory_information_conservation.md) | [English Version]**
 
 ## Table of Contents

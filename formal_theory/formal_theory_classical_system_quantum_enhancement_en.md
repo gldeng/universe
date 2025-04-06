@@ -1,5 +1,7 @@
 # Formal Description of Classical System Quantum Enhancement [Dimension: 7] v36.0
 
+[Chinese Version](formal_theory_classical_system_quantum_enhancement.md)
+
 **[中文版](formal_theory_classical_system_quantum_enhancement.md) | [English Version]**
 
 ## Table of Contents

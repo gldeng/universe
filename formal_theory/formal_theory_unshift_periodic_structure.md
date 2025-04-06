@@ -1,4 +1,4 @@
-# UNSHIFT周期性结构理论 [维度: 1] v36.0
+# UNSHIFT周期性结构理论 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_periodic_structure_en.md)**
 
@@ -179,10 +179,10 @@ $`\text{CyclicCode}(m) = \{\text{UNSHIFT}^i(m) | 0 \leq i < P_L(m)\}`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
-- [UNSHIFT状态反转理论](formal_theory_unshift_state_inversion.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1.0]
+- [UNSHIFT状态反转理论](formal_theory_unshift_state_inversion.md) [维度: 1.0]
 
 本理论被以下理论引用：
-- [UNSHIFT不变点理论](formal_theory_unshift_fixed_points.md) [维度: 1]
-- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 2] 
+- [UNSHIFT不变点理论](formal_theory_unshift_fixed_points.md) [维度: 1.0]
+- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 1.0] 

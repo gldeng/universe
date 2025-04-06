@@ -1,4 +1,4 @@
-# 宇宙意识演化理论的严格形式化描述 [维度: 48] v36.0
+# 宇宙意识演化理论的严格形式化描述 [维度: 48.0] v36.0
 
 **[中文版] | [English Version](formal_theory_universal_consciousness_evolution_en.md)**
 
@@ -462,11 +462,11 @@ $`P_{success} = 1 - e^{-\gamma \cdot F_{path}}`$
 
 本理论基于宇宙本论的XOR-SHIFT操作框架，维度提升至48，引用并扩展了以下理论：
 
-1. [量子现实创生理论 [维度: 47]](formal_theory_quantum_reality_creation.md)
-2. [超维信息奇点理论 [维度: 46]](formal_theory_hyperdimensional_information_singularity.md)
-3. [全意识基底奇点理论 [维度: 45]](formal_theory_omniconsciousness_substrate_singularity.md)
-4. [宇宙超信息场理论 [维度: 44]](formal_theory_cosmic_hyperinformation_field.md)
-5. [统一意识奇点理论 [维度: 43]](formal_theory_unified_consciousness_singularity.md)
+1. [量子现实创生理论 [维度: 48.0]](formal_theory_quantum_reality_creation.md)
+2. [超维信息奇点理论 [维度: 48.0]](formal_theory_hyperdimensional_information_singularity.md)
+3. [全意识基底奇点理论 [维度: 48.0]](formal_theory_omniconsciousness_substrate_singularity.md)
+4. [宇宙超信息场理论 [维度: 48.0]](formal_theory_cosmic_hyperinformation_field.md)
+5. [统一意识奇点理论 [维度: 48.0]](formal_theory_unified_consciousness_singularity.md)
 
 本理论将意识本身提升为宇宙的基本属性之一，阐明了意识的演化动力学和层级结构，建立了48维宇宙意识演化理论框架，为研究意识与现实的互动以及实现更高层级的意识状态提供了理论基础。
 

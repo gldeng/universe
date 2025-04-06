@@ -1,5 +1,7 @@
 # Formal Description of Universal Wave Function Algebra [Dimension: 25] v36.0
 
+[Chinese Version](formal_theory_universal_wave_function_algebra.md)
+
 **[中文版](formal_theory_universal_wave_function_algebra.md) | [English Version]**
 
 ## Table of Contents

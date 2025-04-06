@@ -1,5 +1,7 @@
 # Ultimate Reality Convergence Theory [Dimension: 27] v36.0
 
+[Chinese Version](formal_theory_ultimate_reality_convergence.md)
+
 **[中文版](formal_theory_ultimate_reality_convergence.md) | [English Version]**
 
 ## Contents

@@ -1,4 +1,4 @@
-# 心理动力学的形式化理论 [维度: 5] v36.0
+# 心理动力学的形式化理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_psychological_dynamics_en.md)**
 
@@ -331,17 +331,17 @@ $`\mathcal{G}_{最优} = \arg\min_{\mathcal{G}} |\mathcal{G} \oplus \text{SHIFT}
 心理动力学理论在维度谱系中处于维度5，其与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [信息本体论 [维度: 5]](formal_theory_information_ontology.md)
+  - [宇宙本论 [维度: 5.0]](formal_theory_cosmic_ontology.md)
+  - [信息本体论 [维度: 5.0]](formal_theory_information_ontology.md)
 
 - **同级关联理论**：
-  - [生物复杂性 [维度: 5]](formal_theory_biological_complexity.md)
-  - [认知心理学 [维度: 5]](formal_theory_cognitive_psychology.md)
+  - [生物复杂性 [维度: 5.0]](formal_theory_biological_complexity.md)
+  - [认知心理学 [维度: 5.0]](formal_theory_cognitive_psychology.md)
 
 - **高阶扩展理论**：
-  - [教育动态系统 [维度: 6]](formal_theory_education_dynamics.md)
-  - [医学系统 [维度: 6]](formal_theory_medical_systems.md)
-  - [量子意识 [维度: 7]](formal_theory_quantum_consciousness.md)
+  - [教育动态系统 [维度: 5.0]](formal_theory_education_dynamics.md)
+  - [医学系统 [维度: 5.0]](formal_theory_medical_systems.md)
+  - [量子意识 [维度: 5.0]](formal_theory_quantum_consciousness.md)
 
 ### 6.2 理论引用网络结构
 

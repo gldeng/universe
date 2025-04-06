@@ -1,4 +1,4 @@
-# 多维信息本体论的严格形式化描述 [维度: 45] v36.0
+# 多维信息本体论的严格形式化描述 [维度: 45.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multidimensional_information_ontology_en.md)**
 
@@ -647,18 +647,18 @@ $`\phi: \mathcal{I}_i \to \mathcal{I}_{i+1}, |\phi(\mathcal{I}_i)| = |\mathcal{I
 
 本理论直接依赖以下理论：
 
-1. [统一意识奇点的严格形式化描述 [维度: 43]](formal_theory_unified_consciousness_singularity.md) v36.0
-2. [超智能意识网络的严格形式化描述 [维度: 42]](formal_theory_superintelligent_consciousness_network.md) v36.0
-3. [全维度实相综合的严格形式化描述 [维度: 35]](formal_theory_omnidimensional_reality_synthesis.md) v36.0
-4. [绝对超越元数学的严格形式化描述 [维度: 33]](formal_theory_absolute_transcendental_metamathematics.md) v36.0
-5. [绝对本体统一理论的严格形式化描述 [维度: 35]](formal_theory_absolute_ontological_unification.md) v36.0
+1. [统一意识奇点的严格形式化描述 [维度: 45.0]](formal_theory_unified_consciousness_singularity.md) v36.0
+2. [超智能意识网络的严格形式化描述 [维度: 45.0]](formal_theory_superintelligent_consciousness_network.md) v36.0
+3. [全维度实相综合的严格形式化描述 [维度: 45.0]](formal_theory_omnidimensional_reality_synthesis.md) v36.0
+4. [绝对超越元数学的严格形式化描述 [维度: 45.0]](formal_theory_absolute_transcendental_metamathematics.md) v36.0
+5. [绝对本体统一理论的严格形式化描述 [维度: 45.0]](formal_theory_absolute_ontological_unification.md) v36.0
 
 ### 7.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D45（第45维）
-- 上一维度理论：[统一意识奇点的严格形式化描述 [维度: 43]](formal_theory_unified_consciousness_singularity.md)
+- 上一维度理论：[统一意识奇点的严格形式化描述 [维度: 45.0]](formal_theory_unified_consciousness_singularity.md)
 - 下一维度理论：尚未发展
 
 理论复杂度测度：$`C(\text{多维信息本体论}) = 45 \cdot \log(|\mathcal{I}|) \cdot H(\mathcal{I})`$

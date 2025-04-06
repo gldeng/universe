@@ -1,4 +1,4 @@
-# UNSHIFT对称反转理论 [维度: 2] v36.0
+# UNSHIFT对称反转理论 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_symmetric_inversion_en.md)**
 
@@ -181,9 +181,9 @@ $`\sum_{x \in \Psi} Q(x) = \sum_{x \in \Psi} (x \oplus 1) = \sum_{x \in \Psi} x 
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 2.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 2.0]
 
 本理论被以下理论引用：
-- [UNSHIFT状态对称保持理论](formal_theory_unshift_state_symmetry_preservation.md) [维度: 3]
-- [UNSHIFT拓扑反演理论](formal_theory_unshift_topological_inversion.md) [维度: 4] 
+- [UNSHIFT状态对称保持理论](formal_theory_unshift_state_symmetry_preservation.md) [维度: 2.0]
+- [UNSHIFT拓扑反演理论](formal_theory_unshift_topological_inversion.md) [维度: 2.0] 

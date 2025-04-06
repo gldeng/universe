@@ -228,14 +228,14 @@ $`\psi = \sum_{n \in \mathcal{L}} P_n(\psi) = \sum_{i} \alpha_i \psi_i`$
 
 UNSHIFT周期性理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [FLIP操作的严格形式化描述 [维度: 1]](formal_theory_flip_operation.md)
-3. [XOR操作的严格形式化描述 [维度: 2]](formal_theory_xor_operation.md)
-4. [SHIFT操作的严格形式化描述 [维度: 2]](formal_theory_shift_operation.md)
-5. [USHIFT操作的严格形式化描述 [维度: 2]](formal_theory_ushift_operation.md)
-6. [UNSHIFT基本映射理论的严格形式化描述 [维度: 1.1]](formal_theory_unshift_basic_mapping.md)
-7. [UNSHIFT不变量理论的严格形式化描述 [维度: 1.2]](formal_theory_unshift_invariant.md)
-8. [UNSHIFT熵减理论的严格形式化描述 [维度: 1.3]](formal_theory_unshift_entropy_reduction.md)
+1. [宇宙本论的严格形式化描述 [维度: 1.4]](formal_theory_cosmic_ontology.md)
+2. [FLIP操作的严格形式化描述 [维度: 1.4]](formal_theory_flip_operation.md)
+3. [XOR操作的严格形式化描述 [维度: 1.4]](formal_theory_xor_operation.md)
+4. [SHIFT操作的严格形式化描述 [维度: 1.4]](formal_theory_shift_operation.md)
+5. [USHIFT操作的严格形式化描述 [维度: 1.4]](formal_theory_ushift_operation.md)
+6. [UNSHIFT基本映射理论的严格形式化描述 [维度: 1.4]](formal_theory_unshift_basic_mapping.md)
+7. [UNSHIFT不变量理论的严格形式化描述 [维度: 1.4]](formal_theory_unshift_invariant.md)
+8. [UNSHIFT熵减理论的严格形式化描述 [维度: 1.4]](formal_theory_unshift_entropy_reduction.md)
 
 ### 5.2 维度归属
 

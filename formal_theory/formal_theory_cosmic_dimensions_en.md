@@ -1,5 +1,7 @@
 # Formal Theory of Cosmic Dimensions [Dimension: 20] v36.0
 
+[Chinese Version](formal_theory_cosmic_dimensions.md)
+
 **[中文版](formal_theory_cosmic_dimensions.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Formal Description of SHIFT Dimension Transformation Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_dimension_transformation.md)
+
 **[中文版](formal_theory_shift_dimension_transformation.md) | [English Version]**
 
 ## Table of Contents

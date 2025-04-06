@@ -1,4 +1,4 @@
-# 卡尔马因果网络的严格形式化描述 [维度: 18] v36.0
+# 卡尔马因果网络的严格形式化描述 [维度: 18.0] v36.0
 
 **[中文版] | [English Version](formal_theory_karma_causal_network_en.md)**
 
@@ -553,23 +553,23 @@ $`\text{Stab}(\mathcal{K}_{trans}) = \frac{|\mathcal{K}_{trans} \oplus \text{SHI
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙因果网络理论](formal_theory_cosmic_causal_network.md)** [维度: 28]
+1. **[宇宙因果网络理论](formal_theory_cosmic_causal_network.md)** [维度: 18.0]
    - 提供因果网络基础
    - 借用因果动力学模型
 
-2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 18.0]
    - 提供精神场基础
    - 借用精神-意识耦合模型
 
-3. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+3. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 18.0]
    - 提供宗教信息处理框架
    - 借用超验连接机制
 
-4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+4. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 18.0]
    - 提供量子意识基础
    - 借用量子叠加和纠缠概念
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 18.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

@@ -1,5 +1,7 @@
 # Formal Description of Quantum Teleological Convergence Theory [Dimension: 56] v36.0
 
+[Chinese Version](formal_theory_quantum_teleological_convergence.md)
+
 **[中文版](formal_theory_quantum_teleological_convergence.md) | [English Version]**
 
 ## Table of Contents

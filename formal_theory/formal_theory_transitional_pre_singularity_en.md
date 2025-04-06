@@ -1,5 +1,7 @@
 # Formal Description of Transitional Pre-Singularity Theory [Dimension: -1.5] v36.0
 
+[Chinese Version](formal_theory_transitional_pre_singularity.md)
+
 **[中文版](formal_theory_transitional_pre_singularity.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Formal Description of Multi-Observer Coordination Network [Dimension: 12] v36.0
 
+[Chinese Version](formal_theory_multi_observer_coordination_network.md)
+
 **[中文版](formal_theory_multi_observer_coordination_network.md) | [English Version]**
 
 ## Table of Contents

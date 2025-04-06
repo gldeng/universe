@@ -1,4 +1,4 @@
-# SHIFT信息传递理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT信息传递理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_information_transmission_en.md)**
 
@@ -333,16 +333,16 @@ SHIFT信息传递理论在宇宙本论理论谱系中定位为维度1理论，�
 SHIFT信息传递理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT信息网络理论](formal_theory_shift_information_network.md) [维度: 2]
-   - [SHIFT通信通道理论](formal_theory_shift_communication_channel.md) [维度: 2]
+   - [SHIFT信息网络理论](formal_theory_shift_information_network.md) [维度: 1.0]
+   - [SHIFT通信通道理论](formal_theory_shift_communication_channel.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [信息态二元论](formal_theory_information_state_duality.md) [维度: 1]
-   - [状态传递基本理论](formal_theory_state_transmission_basic.md) [维度: 1]
+   - [信息态二元论](formal_theory_information_state_duality.md) [维度: 1.0]
+   - [状态传递基本理论](formal_theory_state_transmission_basic.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

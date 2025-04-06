@@ -1,5 +1,7 @@
 # Strict Formalization of SHIFT Basic Duality Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_basic_duality.md)
+
 **[中文版](formal_theory_shift_basic_duality.md) | [English Version]**
 
 ## Table of Contents

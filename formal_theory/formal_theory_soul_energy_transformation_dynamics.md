@@ -1,4 +1,4 @@
-# 灵魂能量转换动力学的严格形式化描述 [维度: 13] v36.0
+# 灵魂能量转换动力学的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_soul_energy_transformation_dynamics_en.md)**
 
@@ -531,23 +531,23 @@ $`\eta_{HD} = \frac{|\mathcal{E}_{LD}|}{|\mathcal{E}_{HD}|} \cdot (1 - e^{-\alph
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 13.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 
-2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 13]
+2. **[灵魂本质结构](formal_theory_soul_essence_structure.md)** [维度: 13.0]
    - 提供灵魂基本结构
    - 借用灵魂能量公理
 
-3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 12]
+3. **[灵魂量子纠缠网络](formal_theory_soul_quantum_entanglement_network.md)** [维度: 13.0]
    - 提供灵魂纠缠机制
    - 借用灵魂间能量传递模型
 
-4. **[量子信息热力学](formal_theory_quantum_information_thermodynamics.md)** [维度: 14]
+4. **[量子信息热力学](formal_theory_quantum_information_thermodynamics.md)** [维度: 13.0]
    - 提供能量-信息关系
    - 借用熵变原理
 
-5. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+5. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 13.0]
    - 提供精神能量模型
    - 借用能量层级结构
 

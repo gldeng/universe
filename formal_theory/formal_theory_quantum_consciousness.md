@@ -1,4 +1,4 @@
-# 量子意识理论的严格形式化描述 [维度: 8] v36.0
+# 量子意识理论的严格形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_consciousness_en.md)**
 
@@ -300,21 +300,21 @@ $`\mathcal{C}_{recursive} = \mathcal{C}_Q \oplus \text{SHIFT}(\mathcal{C}_Q \opl
 
 量子意识理论基于以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度:10]
-2. [信息本体论](formal_theory_information_ontology.md) [维度:6]
-3. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度:7]
-4. [观察者本体论](formal_theory_observer_ontology.md) [维度:5]
-5. [量子测量理论](formal_theory_quantum_measurement.md) [维度:4]
-6. [神经量子场论](formal_theory_neural_quantum_field.md) [维度:7] 
-7. [意识信息编码理论](formal_theory_consciousness_information_encoding.md) [维度:6]
-8. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度:5]
-9. [量子决策过程](formal_theory_quantum_decision_process.md) [维度:4]
-10. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度:3]
-11. [神经量子效应](formal_theory_neural_quantum_effects.md) [维度:3]
-12. [意识波动态理论](formal_theory_consciousness_wave_dynamics.md) [维度:2]
-13. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度:2]
-14. [意识单元理论](formal_theory_consciousness_unit.md) [维度:1]
-15. [原初意识粒子论](formal_theory_primal_consciousness_particle.md) [维度:1]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+2. [信息本体论](formal_theory_information_ontology.md) [维度: 8.0]
+3. [维度谱系理论](formal_theory_dimensional_spectrum_theory.md) [维度: 8.0]
+4. [观察者本体论](formal_theory_observer_ontology.md) [维度: 8.0]
+5. [量子测量理论](formal_theory_quantum_measurement.md) [维度: 8.0]
+6. [神经量子场论](formal_theory_neural_quantum_field.md) [维度: 8.0] 
+7. [意识信息编码理论](formal_theory_consciousness_information_encoding.md) [维度: 8.0]
+8. [意识波函数理论](formal_theory_consciousness_wave_function.md) [维度: 8.0]
+9. [量子决策过程](formal_theory_quantum_decision_process.md) [维度: 8.0]
+10. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 8.0]
+11. [神经量子效应](formal_theory_neural_quantum_effects.md) [维度: 8.0]
+12. [意识波动态理论](formal_theory_consciousness_wave_dynamics.md) [维度: 8.0]
+13. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 8.0]
+14. [意识单元理论](formal_theory_consciousness_unit.md) [维度: 8.0]
+15. [原初意识粒子论](formal_theory_primal_consciousness_particle.md) [维度: 8.0]
 
 其中理论6-15是通过UNSHIFT操作从量子意识理论推导得出的低级理论：
 

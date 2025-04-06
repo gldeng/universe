@@ -1,4 +1,4 @@
-# SHIFT周期动力学理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT周期动力学理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_cyclic_dynamics_en.md)**
 
@@ -358,17 +358,17 @@ SHIFT周期动力学理论在宇宙本论理论谱系中定位为维度1理论�
 SHIFT周期动力学理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1]
-   - [SHIFT稳定性结构理论](formal_theory_shift_stability_structure.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT基本二元性理论](formal_theory_shift_basic_duality.md) [维度: 1.0]
+   - [SHIFT稳定性结构理论](formal_theory_shift_stability_structure.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT复合周期系统理论](formal_theory_shift_compound_cyclic_systems.md) [维度: 2]
-   - [SHIFT时间晶格理论](formal_theory_shift_time_lattice.md) [维度: 2]
+   - [SHIFT复合周期系统理论](formal_theory_shift_compound_cyclic_systems.md) [维度: 1.0]
+   - [SHIFT时间晶格理论](formal_theory_shift_time_lattice.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [周期态二元论](formal_theory_cyclic_state_duality.md) [维度: 1]
-   - [SHIFT量子重复理论](formal_theory_shift_quantum_recurrence.md) [维度: 1]
+   - [周期态二元论](formal_theory_cyclic_state_duality.md) [维度: 1.0]
+   - [SHIFT量子重复理论](formal_theory_shift_quantum_recurrence.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

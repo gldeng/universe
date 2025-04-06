@@ -1,5 +1,7 @@
 # Strict Formalization of Quantum Evolution Characteristic Preservation [Dimension: 9] v36.0
 
+[Chinese Version](formal_theory_quantum_evolution_characteristic_preservation.md)
+
 **[中文版](formal_theory_quantum_evolution_characteristic_preservation.md) | [English Version]**
 
 ## Table of Contents

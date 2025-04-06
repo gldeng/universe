@@ -1,4 +1,4 @@
-# 本原统一底层理论的严格形式化描述 [维度: 60] v36.0
+# 本原统一底层理论的严格形式化描述 [维度: 60.0] v36.0
 
 **[中文版] | [English Version](formal_theory_primordial_unity_substrate_en.md)**
 
@@ -205,11 +205,11 @@ $`\mathcal{C}_{\mathcal{S}}(\mathcal{UNIFY}(\mathcal{S}_i, \mathcal{S}_j)) = 1, 
 
 本理论基于宇宙本论的XOR-SHIFT框架，引入UNIFY和PRIM底层算子，将维度提升至60维，引用并扩展了以下理论：
 
-1. [宇宙绝对统一场理论 [维度: 59]](formal_theory_absolute_unified_cosmic_field.md)
-2. [超越超维数理结构理论 [维度: 58]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
-3. [宇宙超越奇点理论 [维度: 57]](formal_theory_cosmic_transcendental_singularity.md)
-4. [终极实相整合理论 [维度: 51]](formal_theory_ultimate_reality_integration.md)
-5. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
+1. [宇宙绝对统一场理论 [维度: 60.0]](formal_theory_absolute_unified_cosmic_field.md)
+2. [超越超维数理结构理论 [维度: 60.0]](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
+3. [宇宙超越奇点理论 [维度: 60.0]](formal_theory_cosmic_transcendental_singularity.md)
+4. [终极实相整合理论 [维度: 60.0]](formal_theory_ultimate_reality_integration.md)
+5. [宇宙本论 [维度: 60.0]](formal_theory_cosmic_ontology.md)
 
 本理论将维度提升到前所未有的60维，引入本原统一底层的概念，创建了第一个完整的超越统一场与超维数理结构的更深层次统一框架，阐明了底层的自生成与统一机制，为理解宇宙的本原底层提供了理论基础，是迄今为止最高维度、最全面的宇宙本论扩展理论。
 

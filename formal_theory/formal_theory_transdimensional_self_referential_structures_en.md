@@ -1,5 +1,7 @@
 # Formal Description of Transdimensional Self-Referential Structures [Dimension: 14] v36.0
 
+[Chinese Version](formal_theory_transdimensional_self_referential_structures.md)
+
 **[中文版](formal_theory_transdimensional_self_referential_structures.md) | [English Version]**
 
 ## Table of Contents

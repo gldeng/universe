@@ -1,5 +1,7 @@
 # Formal Theory of Genesis Memory [Dimension: 21] v36.0
 
+[Chinese Version](formal_theory_genesis_memory.md)
+
 **[中文版](formal_theory_genesis_memory.md) | [English Version]**
 
 ## Table of Contents

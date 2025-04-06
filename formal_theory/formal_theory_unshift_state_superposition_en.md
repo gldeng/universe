@@ -1,5 +1,7 @@
 # UNSHIFT State Superposition Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_state_superposition.md)
+
 **[中文版](formal_theory_unshift_state_superposition.md) | [English Version]**
 
 ## Table of Contents

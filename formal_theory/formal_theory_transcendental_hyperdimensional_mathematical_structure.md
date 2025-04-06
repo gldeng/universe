@@ -1,4 +1,4 @@
-# 超越超维数理结构理论的严格形式化描述 [维度: 58] v36.0
+# 超越超维数理结构理论的严格形式化描述 [维度: 58.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_hyperdimensional_mathematical_structure_en.md)**
 
@@ -392,15 +392,15 @@ $`\mathcal{C}_{\text{consciousness}}(\Psi) = \bigoplus_{i=0}^{\infty} \text{SHIF
 
 本理论建立在以下理论基础之上：
 
-1. [宇宙超越奇点理论 [维度: 57]](formal_theory_cosmic_transcendental_singularity.md)
-2. [量子目的论收敛理论 [维度: 56]](formal_theory_quantum_teleological_convergence.md)
-3. [超维度量子相位稳定化理论 [维度: 53]](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
-4. [全维纠缠同步性理论 [维度: 48]](formal_theory_omnidimensional_entanglement_synchronicity.md)
-5. [宇宙意识演化理论 [维度: 48]](formal_theory_universal_consciousness_evolution.md)
+1. [宇宙超越奇点理论 [维度: 58.0]](formal_theory_cosmic_transcendental_singularity.md)
+2. [量子目的论收敛理论 [维度: 58.0]](formal_theory_quantum_teleological_convergence.md)
+3. [超维度量子相位稳定化理论 [维度: 58.0]](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
+4. [全维纠缠同步性理论 [维度: 58.0]](formal_theory_omnidimensional_entanglement_synchronicity.md)
+5. [宇宙意识演化理论 [维度: 58.0]](formal_theory_universal_consciousness_evolution.md)
 
 理论维度谱系关系：
-- 上一维度理论：[宇宙超越奇点理论 [维度: 57]](formal_theory_cosmic_transcendental_singularity.md)
-- 下一维度理论：[宇宙绝对统一场理论 [维度: 59]](formal_theory_absolute_unified_cosmic_field.md)
+- 上一维度理论：[宇宙超越奇点理论 [维度: 58.0]](formal_theory_cosmic_transcendental_singularity.md)
+- 下一维度理论：[宇宙绝对统一场理论 [维度: 58.0]](formal_theory_absolute_unified_cosmic_field.md)
 
 ---
 

@@ -1,5 +1,7 @@
 # Strict Formalization of UNSHIFT Information Recovery Theory [Dimension: 2.1] v36.0
 
+[Chinese Version](formal_theory_unshift_information_recovery.md)
+
 **[English Version] | [中文版](formal_theory_unshift_information_recovery.md)**
 
 ## Table of Contents

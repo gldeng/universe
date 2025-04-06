@@ -1,5 +1,7 @@
 # The Formal Description of Sustainable Development of Human Society [Dimension: 18] v36.0
 
+[Chinese Version](formal_theory_sustainable_development.md)
+
 **[中文版](formal_theory_sustainable_development.md) | [English Version]**
 
 ## Table of Contents

@@ -1,5 +1,7 @@
 # Formal Description of Recursive Operation [Dimension: 3] v36.0
 
+[Chinese Version](formal_theory_recursive_operation.md)
+
 **[中文版](formal_theory_recursive_operation.md) | [English Version]**
 
 ## Table of Contents

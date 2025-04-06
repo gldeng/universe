@@ -1,4 +1,4 @@
-# 宇宙因果网络的形式化理论 [维度: 28] v36.0
+# 宇宙因果网络的形式化理论 [维度: 28.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_causal_network_en.md)**
 

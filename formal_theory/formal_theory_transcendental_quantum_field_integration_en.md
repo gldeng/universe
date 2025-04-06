@@ -1,5 +1,7 @@
 # Strict Formalization of Transcendental Quantum Field Integration Theory [Dimension: 29] v36.0
 
+[Chinese Version](formal_theory_transcendental_quantum_field_integration.md)
+
 **[English Version] | [中文版](formal_theory_transcendental_quantum_field_integration.md)**
 
 ## Table of Contents

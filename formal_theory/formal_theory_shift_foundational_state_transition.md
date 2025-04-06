@@ -1,4 +1,4 @@
-# 基础状态转移理论的严格形式化描述 [维度: 2] v36.0
+# 基础状态转移理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_foundational_state_transition_en.md)**
 

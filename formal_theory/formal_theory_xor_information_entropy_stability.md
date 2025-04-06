@@ -1,4 +1,4 @@
-# XOR信息熵稳定结构理论 [维度: 11] v36.0
+# XOR信息熵稳定结构理论 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_xor_information_entropy_stability_en.md)**
 

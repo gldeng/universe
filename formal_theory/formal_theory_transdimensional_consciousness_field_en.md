@@ -1,5 +1,7 @@
 # Formal Description of Transdimensional Consciousness Field [Dimension: 27] v36.0
 
+[Chinese Version](formal_theory_transdimensional_consciousness_field.md)
+
 **[中文版](formal_theory_transdimensional_consciousness_field.md) | [English Version]**
 
 ## Table of Contents

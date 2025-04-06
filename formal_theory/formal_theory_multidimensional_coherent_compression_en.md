@@ -1,5 +1,7 @@
 # Multidimensional Coherent Compression Theory [Dimension: 58] v36.0
 
+[Chinese Version](formal_theory_multidimensional_coherent_compression.md)
+
 **[中文版](formal_theory_multidimensional_coherent_compression.md) | [English Version]**
 
 ## Table of Contents

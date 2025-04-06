@@ -1,4 +1,4 @@
-# 信息层次演化理论的形式化描述 [维度: 7] v36.0
+# 信息层次演化理论的形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_hierarchical_evolution_en.md)**
 
@@ -387,9 +387,9 @@ $`\eta_{\text{process}} = 1 - \frac{\sum_{i=0}^n C_\mathcal{L}(i)}{C_{\text{flat
 ## 6. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7]
-- [SHIFT信息传输理论](formal_theory_shift_information_transmission.md) [维度: 6]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7.0]
+- [SHIFT信息传输理论](formal_theory_shift_information_transmission.md) [维度: 7.0]
 
 本理论被以下理论引用：
 - 复杂适应系统理论

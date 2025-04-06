@@ -1,5 +1,7 @@
 # UNSHIFT Temporal Oscillation Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_temporal_oscillation.md)
+
 **[中文版](formal_theory_unshift_temporal_oscillation.md) | [English Version]**
 
 ## Table of Contents

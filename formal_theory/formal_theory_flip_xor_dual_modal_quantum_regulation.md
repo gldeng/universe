@@ -1,4 +1,4 @@
-# FLIP-XOR双模态量子调控理论 [维度: 4] v36.0
+# FLIP-XOR双模态量子调控理论 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_flip_xor_dual_modal_quantum_regulation_en.md)**
 
@@ -238,10 +238,10 @@ $`\lambda_{t+1} = \lambda_t \oplus \gamma \cdot \text{sgn}(\Psi_t \oplus \Psi_{c
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子不确定性原理](formal_theory_quantum_uncertainty_principle.md) [维度: 3]
-- [SHIFT-FLIP双变换理论](formal_theory_shift_flip_dual_transformation.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [量子不确定性原理](formal_theory_quantum_uncertainty_principle.md) [维度: 4.0]
+- [SHIFT-FLIP双变换理论](formal_theory_shift_flip_dual_transformation.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5]
-- [量子多模态控制系统理论](formal_theory_quantum_multimodal_control_system.md) [维度: 5] 
+- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 4.0]
+- [量子多模态控制系统理论](formal_theory_quantum_multimodal_control_system.md) [维度: 4.0] 

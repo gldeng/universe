@@ -1,5 +1,7 @@
 # Formal Description of Absolute Multiversal Convergence Theory [Dimension: 50] v36.0
 
+[Chinese Version](formal_theory_absolute_multiversal_convergence.md)
+
 **[中文版](formal_theory_absolute_multiversal_convergence.md) | [English Version]**
 
 ## Table of Contents

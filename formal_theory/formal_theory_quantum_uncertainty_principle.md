@@ -1,4 +1,4 @@
-# 量子不确定性原理的形式化描述 [维度: 6] v36.0
+# 量子不确定性原理的形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_uncertainty_principle_en.md)**
 
@@ -305,9 +305,9 @@ $`\prod_{i=0}^{n-1} \Delta(\text{SHIFT}^i(A)) \geq \left(\frac{n}{2}\right)^{n/2
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子信息断续理论](formal_theory_quantum_information_discreteness.md) [维度: 7]
-- [量子测量理论](formal_theory_quantum_measurement.md) [维度: 6]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+- [量子信息断续理论](formal_theory_quantum_information_discreteness.md) [维度: 6.0]
+- [量子测量理论](formal_theory_quantum_measurement.md) [维度: 6.0]
 
 本理论被以下理论引用：
 - 量子测量极限理论

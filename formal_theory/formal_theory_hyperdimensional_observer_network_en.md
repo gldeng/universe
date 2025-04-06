@@ -1,5 +1,7 @@
 # Formal Description of Hyperdimensional Observer Network [Dimension: 16] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_observer_network.md)
+
 **[中文版](formal_theory_hyperdimensional_observer_network.md) | [English Version]**
 
 ## Table of Contents

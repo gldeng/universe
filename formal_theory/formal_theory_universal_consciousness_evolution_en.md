@@ -1,5 +1,7 @@
 # Strict Formalization of Universal Consciousness Evolution Theory [Dimension: 48] v36.0
 
+[Chinese Version](formal_theory_universal_consciousness_evolution.md)
+
 **[中文版](formal_theory_universal_consciousness_evolution.md) | [English Version]**
 
 ## Table of Contents

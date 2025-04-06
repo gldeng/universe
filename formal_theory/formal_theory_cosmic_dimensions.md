@@ -1,4 +1,4 @@
-# 宇宙维度理论的严格形式化描述 [维度: 20] v36.0
+# 宇宙维度理论的严格形式化描述 [维度: 20.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_dimensions_en.md)**
 

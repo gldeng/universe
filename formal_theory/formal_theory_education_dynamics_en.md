@@ -1,5 +1,7 @@
 # Formal Theory of Educational Dynamics [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_education_dynamics.md)
+
 **[English Version] | [中文版](formal_theory_education_dynamics.md)**
 
 ## Contents

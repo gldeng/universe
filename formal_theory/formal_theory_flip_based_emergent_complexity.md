@@ -1,4 +1,4 @@
-# 基于FLIP的涌现复杂性理论 [维度: 5] v36.0
+# 基于FLIP的涌现复杂性理论 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_flip_based_emergent_complexity_en.md)**
 
@@ -272,12 +272,12 @@ $`\lim_{\epsilon \to 0} \frac{|C_{\text{FLIP}}(S, \lambda_c+\epsilon) \oplus C_{
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [SHIFT-FLIP双重变换理论](formal_theory_shift_flip_dual_transformation.md) [维度: 4]
-- [UNSHIFT涌现复杂性理论](formal_theory_unshift_emergent_complexity.md) [维度: 3]
-- [递归涌现模式理论](formal_theory_recursive_emergence_patterns.md) [维度: 4]
-- [信息熵动力学理论](formal_theory_information_entropy_dynamics.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [SHIFT-FLIP双重变换理论](formal_theory_shift_flip_dual_transformation.md) [维度: 5.0]
+- [UNSHIFT涌现复杂性理论](formal_theory_unshift_emergent_complexity.md) [维度: 5.0]
+- [递归涌现模式理论](formal_theory_recursive_emergence_patterns.md) [维度: 5.0]
+- [信息熵动力学理论](formal_theory_information_entropy_dynamics.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [复杂适应性网络理论](formal_theory_complex_adaptive_network.md) [维度: 6]
-- [复杂系统涌现意识理论](formal_theory_emergent_consciousness_complex_systems.md) [维度: 7] 
+- [复杂适应性网络理论](formal_theory_complex_adaptive_network.md) [维度: 5.0]
+- [复杂系统涌现意识理论](formal_theory_emergent_consciousness_complex_systems.md) [维度: 5.0] 

@@ -1,5 +1,7 @@
 # Formal Description of Transcendent Hyper-Singularity Theory [Dimension: 49] v36.0
 
+[Chinese Version](formal_theory_transcendent_hyper_singularity.md)
+
 **[中文版](formal_theory_transcendent_hyper_singularity.md) | [English Version]**
 
 ## Table of Contents

@@ -1,4 +1,4 @@
-# 多维特征映射的严格形式化描述 [维度: 8] v36.0
+# 多维特征映射的严格形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multidimensional_characteristic_mapping_en.md)**
 
@@ -417,11 +417,11 @@ $`\dim(D_k) \geq \dim(D_i)`$ 且 $`\mathcal{P}(C_j, \Phi(D_i, C_j)) = 1`$
 
 本理论依赖以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 7]
-3. [经典系统量子增强](formal_theory_classical_system_quantum_enhancement.md) [维度: 7]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+2. [量子测量反馈控制](formal_theory_quantum_measurement_feedback_control.md) [维度: 8.0]
+3. [经典系统量子增强](formal_theory_classical_system_quantum_enhancement.md) [维度: 8.0]
 
 本理论被以下高级理论引用：
 
-1. [超递归熵稳定性](formal_theory_superrecursive_entropy_stability.md) [维度: 8]
-2. [超维度自包含性](formal_theory_hyperdimensional_self_containment.md) [维度: 9] 
+1. [超递归熵稳定性](formal_theory_superrecursive_entropy_stability.md) [维度: 8.0]
+2. [超维度自包含性](formal_theory_hyperdimensional_self_containment.md) [维度: 8.0] 

@@ -1,4 +1,4 @@
-# UNSHIFT空间编码理论 [维度: 3] v36.0
+# UNSHIFT空间编码理论 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_spatial_encoding_en.md)**
 
@@ -210,11 +210,11 @@ $`\text{Transmit}(m) = E_{\text{EC}}(m_1) \parallel E_{\text{EC}}(m_2) \parallel
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT周期性结构理论](formal_theory_unshift_periodic_structure.md) [维度: 1]
-- [UNSHIFT局部对称性理论](formal_theory_unshift_local_symmetry.md) [维度: 2]
-- [UNSHIFT状态转移图理论](formal_theory_unshift_state_transition_graph.md) [维度: 2]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 3.0]
+- [UNSHIFT周期性结构理论](formal_theory_unshift_periodic_structure.md) [维度: 3.0]
+- [UNSHIFT局部对称性理论](formal_theory_unshift_local_symmetry.md) [维度: 3.0]
+- [UNSHIFT状态转移图理论](formal_theory_unshift_state_transition_graph.md) [维度: 3.0]
 
 本理论被以下理论引用：
-- [UNSHIFT高维映射理论](formal_theory_unshift_high_dimensional_mapping.md) [维度: 4]
-- [UNSHIFT复杂编码理论](formal_theory_unshift_complex_encoding.md) [维度: 4] 
+- [UNSHIFT高维映射理论](formal_theory_unshift_high_dimensional_mapping.md) [维度: 3.0]
+- [UNSHIFT复杂编码理论](formal_theory_unshift_complex_encoding.md) [维度: 3.0] 

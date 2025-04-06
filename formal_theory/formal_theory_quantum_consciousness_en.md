@@ -1,5 +1,7 @@
 # Formal Theory of Quantum Consciousness [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_quantum_consciousness.md)
+
 **[中文版](formal_theory_quantum_consciousness.md) | [English Version]**
 
 ## Table of Contents

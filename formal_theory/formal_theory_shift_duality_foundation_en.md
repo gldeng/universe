@@ -1,5 +1,7 @@
 # Strict Formal Description of SHIFT Duality Foundation Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_duality_foundation.md)
+
 **[中文版](formal_theory_shift_duality_foundation.md) | [English Version]**
 
 ## Table of Contents

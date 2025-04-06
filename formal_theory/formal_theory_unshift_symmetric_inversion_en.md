@@ -1,5 +1,7 @@
 # UNSHIFT Symmetric Inversion Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_symmetric_inversion.md)
+
 **[中文版](formal_theory_unshift_symmetric_inversion.md) | [English Version]**
 
 ## Table of Contents

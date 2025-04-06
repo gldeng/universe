@@ -1,4 +1,4 @@
-# 数学基础理论的严格形式化描述 [维度: 16] v36.0
+# 数学基础理论的严格形式化描述 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_mathematics_foundation_en.md)**
 
@@ -462,16 +462,16 @@ $`\exists \text{模型变换 } f: \text{Models}(\mathcal{F}_2) \rightarrow \text
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [信息本体论 [维度: 15]](formal_theory_information_ontology.md)
+1. [宇宙本论 [维度: 16.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [信息本体论 [维度: 16.0]](formal_theory_information_ontology.md)
 
 ### 6.2 理论谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度级别：D16（第16维度）
-- 下层关联理论：[信息本体论 [维度: 15]](formal_theory_information_ontology.md)
-- 平行关联理论：[量子信息理论 [维度: 16]](formal_theory_quantum_information.md)
+- 下层关联理论：[信息本体论 [维度: 16.0]](formal_theory_information_ontology.md)
+- 平行关联理论：[量子信息理论 [维度: 16.0]](formal_theory_quantum_information.md)
 
 ---
 

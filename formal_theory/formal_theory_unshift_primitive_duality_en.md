@@ -1,5 +1,7 @@
 # Formal Theory of UNSHIFT Primitive Duality [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_unshift_primitive_duality.md)
+
 **[中文版](formal_theory_unshift_primitive_duality.md) | [English Version]**
 
 ## Table of Contents

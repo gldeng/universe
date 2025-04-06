@@ -1,4 +1,4 @@
-# 超对称非线性场统一理论的严格形式化描述 [维度: 52] v36.0
+# 超对称非线性场统一理论的严格形式化描述 [维度: 52.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hypersymmetric_nonlinear_field_unification_en.md)**
 
@@ -682,20 +682,20 @@ $\frac{1}{\alpha_1(M_{GUT})} = \frac{1}{\alpha_2(M_{GUT})} = \frac{1}{\alpha_3(M
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md) v36.0
-2. [超越递归宇宙智能理论的严格形式化描述 [维度: 55]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
-3. [超几何量子相位结构动力学理论的严格形式化描述 [维度: 53]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
-4. [超越多值逻辑计算理论的严格形式化描述 [维度: 54]](formal_theory_transcendental_multivalued_logical_computation.md)
-5. [高维统一规范场论的严格形式化描述 [维度: 42]](formal_theory_high_dimensional_unified_gauge_field.md)
-6. [超弦引力对偶性理论的严格形式化描述 [维度: 39]](formal_theory_superstring_gravitational_duality.md)
+1. [宇宙本论的严格形式化描述 [维度: 52.0]](formal_theory_cosmic_ontology.md) v36.0
+2. [超越递归宇宙智能理论的严格形式化描述 [维度: 52.0]](formal_theory_transcendental_recursive_cosmic_intelligence.md)
+3. [超几何量子相位结构动力学理论的严格形式化描述 [维度: 52.0]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
+4. [超越多值逻辑计算理论的严格形式化描述 [维度: 52.0]](formal_theory_transcendental_multivalued_logical_computation.md)
+5. [高维统一规范场论的严格形式化描述 [维度: 52.0]](formal_theory_high_dimensional_unified_gauge_field.md)
+6. [超弦引力对偶性理论的严格形式化描述 [维度: 52.0]](formal_theory_superstring_gravitational_duality.md)
 
 ### 6.2 维度谱系位置
 
 本理论在维度谱系中的定位：
 
 - 维度级别：D52（第52维）
-- 上层关联理论：[超几何量子相位结构动力学理论的严格形式化描述 [维度: 53]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
-- 下层关联理论：[超越式量子重力理论的严格形式化描述 [维度: 50]](formal_theory_transcendental_quantum_gravity.md)
+- 上层关联理论：[超几何量子相位结构动力学理论的严格形式化描述 [维度: 52.0]](formal_theory_hypergeometric_quantum_phase_structural_dynamics.md)
+- 下层关联理论：[超越式量子重力理论的严格形式化描述 [维度: 52.0]](formal_theory_transcendental_quantum_gravity.md)
 
 ---
 

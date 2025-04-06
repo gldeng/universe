@@ -1,4 +1,4 @@
-# 信息熵动力学理论的形式化描述 [维度: 8] v36.0
+# 信息熵动力学理论的形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_entropy_dynamics_en.md)**
 
@@ -298,9 +298,9 @@ $`\hat{\mathcal{F}}(\rho_A, \rho_B) = S(\rho_A || \rho_B) - S(\rho_B || \rho_A)`
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 7]
-- [SHIFT基本信息传输理论](formal_theory_shift_information_transmission.md) [维度: 4]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+- [信息熵对称理论](formal_theory_information_entropy_symmetry.md) [维度: 8.0]
+- [SHIFT基本信息传输理论](formal_theory_shift_information_transmission.md) [维度: 8.0]
 
 本理论被以下理论引用：
 - 熵场动力学理论

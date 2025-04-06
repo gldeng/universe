@@ -1,4 +1,4 @@
-# 信息守恒理论的严格形式化描述 [维度: 15] v36.0
+# 信息守恒理论的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_information_conservation_en.md)**
 

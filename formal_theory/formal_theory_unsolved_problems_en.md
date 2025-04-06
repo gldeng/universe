@@ -1,5 +1,7 @@
 # Formal Unified Theory of the Ten Unsolved Human Problems [Dimension: 25] v36.0
 
+[Chinese Version](formal_theory_unsolved_problems.md)
+
 **[中文版](formal_theory_unsolved_problems.md) | [English Version]**
 
 ## Table of Contents

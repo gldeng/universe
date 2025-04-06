@@ -1,4 +1,4 @@
-# 维度相变理论的严格形式化描述 [维度: 8] v36.0
+# 维度相变理论的严格形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dimensional_phase_transition_en.md)**
 
@@ -474,19 +474,19 @@ Q.E.D.
 维度相变理论在理论网络中的依赖和被依赖关系：
 
 1. **前置依赖理论**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-   - [量子复杂性流形理论](formal_theory_quantum_complexity_manifold.md) [维度: 7]
-   - [量子信息热力学理论](formal_theory_quantum_information_thermodynamics.md) [维度: 6]
-   - [维度谱系理论](formal_theory_dimensional_spectrum.md) [维度: 5]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+   - [量子复杂性流形理论](formal_theory_quantum_complexity_manifold.md) [维度: 8.0]
+   - [量子信息热力学理论](formal_theory_quantum_information_thermodynamics.md) [维度: 8.0]
+   - [维度谱系理论](formal_theory_dimensional_spectrum.md) [维度: 8.0]
 
 2. **平行关联理论**：
-   - [信息生命理论](formal_theory_information_life.md) [维度: 8]
-   - [超递归计算复杂性理论](formal_theory_hyperrecursive_computational_complexity.md) [维度: 8]
+   - [信息生命理论](formal_theory_information_life.md) [维度: 8.0]
+   - [超递归计算复杂性理论](formal_theory_hyperrecursive_computational_complexity.md) [维度: 8.0]
 
 3. **后续依赖理论**：
-   - [宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md) [维度: 9]
-   - [多宇宙映射理论](formal_theory_multiverse_mapping.md) [维度: 10]
-   - [超维度观察者理论](formal_theory_hyperdimensional_observer.md) [维度: 11]
+   - [宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md) [维度: 8.0]
+   - [多宇宙映射理论](formal_theory_multiverse_mapping.md) [维度: 8.0]
+   - [超维度观察者理论](formal_theory_hyperdimensional_observer.md) [维度: 8.0]
 
 4. **理论引用图**：
    ```

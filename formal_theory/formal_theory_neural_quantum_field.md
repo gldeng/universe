@@ -1,4 +1,4 @@
-# 神经量子场论的严格形式化描述 [维度: 7] v36.0
+# 神经量子场论的严格形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_neural_quantum_field_en.md)**
 
@@ -224,17 +224,17 @@ $`P_{NQ}(t) = e^{-t/\tau_{NQ}} \cdot (1 - \frac{S(\mathcal{M}_{NQ}(t))}{S(\mathc
 
 神经量子场理论支持以下高维理论：
 
-1. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 8]
+1. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 7.0]
 
 ### 5.2 下层基础理论
 
 神经量子场理论基于以下基础理论：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-2. [信息本体论](formal_theory_information_ontology.md) [维度: 6]
-3. [量子测量理论](formal_theory_quantum_measurement.md) [维度: 4]
-4. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 3]
-5. [神经量子效应](formal_theory_neural_quantum_effects.md) [维度: 3]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+2. [信息本体论](formal_theory_information_ontology.md) [维度: 7.0]
+3. [量子测量理论](formal_theory_quantum_measurement.md) [维度: 7.0]
+4. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 7.0]
+5. [神经量子效应](formal_theory_neural_quantum_effects.md) [维度: 7.0]
 
 ## 6. 理论复杂度与演化分析
 

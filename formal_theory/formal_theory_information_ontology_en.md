@@ -1,5 +1,7 @@
 # Formal Theory of Information Ontology [Dimension: 6] v36.0
 
+[Chinese Version](formal_theory_information_ontology.md)
+
 **[中文版](formal_theory_information_ontology.md) | [English Version]**
 
 ## Table of Contents

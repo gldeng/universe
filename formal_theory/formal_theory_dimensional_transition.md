@@ -1,4 +1,4 @@
-# 维度转换理论的严格形式化描述 [维度: 3] v36.0
+# 维度转换理论的严格形式化描述 [维度: 3.0] v36.0
 
 **[中文版] | [English Version](formal_theory_dimensional_transition_en.md)**
 

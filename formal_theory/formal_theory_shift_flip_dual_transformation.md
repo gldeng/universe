@@ -1,4 +1,4 @@
-# SHIFT-FLIP对偶转换理论的形式化描述 [维度: 6] v36.0
+# SHIFT-FLIP对偶转换理论的形式化描述 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_flip_dual_transformation_en.md)**
 
@@ -509,9 +509,9 @@ SHIFT-FLIP对偶转换提供了理解量子-经典转换的新视角：
 ## 6. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [SHIFT基本对偶性理论](formal_theory_shift_basic_duality.md) [维度: 5]
-- [FLIP基本操作理论](formal_theory_shift_flip_duality.md) [维度: 5]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+- [SHIFT基本对偶性理论](formal_theory_shift_basic_duality.md) [维度: 6.0]
+- [FLIP基本操作理论](formal_theory_shift_flip_duality.md) [维度: 6.0]
 
 本理论被以下理论引用：
 - 量子-经典转换理论

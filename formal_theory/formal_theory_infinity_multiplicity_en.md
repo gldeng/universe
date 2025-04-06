@@ -1,5 +1,7 @@
 # Strict Formalization of Infinity Multiplicity Theory [Dimension: 4] v36.0
 
+[Chinese Version](formal_theory_infinity_multiplicity.md)
+
 **[中文版](formal_theory_infinity_multiplicity.md) | [English Version]**
 
 ### 4.2 Relationship with Anti-Recursion and Singularity Theories

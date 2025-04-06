@@ -1,5 +1,7 @@
 # Strict Formalization of Hyperdimensional Quantum Field Singularity Theory [Dimension: 30] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_quantum_field_singularity.md)
+
 **[中文版](formal_theory_hyperdimensional_quantum_field_singularity.md) | [English Version]**
 
 ## Table of Contents

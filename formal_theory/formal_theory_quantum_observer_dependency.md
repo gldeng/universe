@@ -1,4 +1,4 @@
-# 量子观察者依赖性理论的形式化描述 [维度: 7] v36.0
+# 量子观察者依赖性理论的形式化描述 [维度: 7.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_observer_dependency_en.md)**
 
@@ -403,9 +403,9 @@ $`\mathcal{O}_i^{t+1} = \mathcal{O}_i^t \oplus \bigoplus_{j \neq i} \alpha_{ij} 
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子不确定性互补原理](formal_theory_quantum_uncertainty_complementarity.md) [维度: 8]
-- [SHIFT量子投影理论](formal_theory_shift_quantum_projection.md) [维度: 6]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 7.0]
+- [量子不确定性互补原理](formal_theory_quantum_uncertainty_complementarity.md) [维度: 7.0]
+- [SHIFT量子投影理论](formal_theory_shift_quantum_projection.md) [维度: 7.0]
 
 本理论被以下理论引用：
 - 量子意识理论

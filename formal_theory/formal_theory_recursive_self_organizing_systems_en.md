@@ -1,5 +1,7 @@
 # Formal Description of Recursive Self-Organizing Systems Theory [Dimension: 9] v36.0
 
+[Chinese Version](formal_theory_recursive_self_organizing_systems.md)
+
 **[中文版](formal_theory_recursive_self_organizing_systems.md) | [English Version]**
 
 ## Table of Contents

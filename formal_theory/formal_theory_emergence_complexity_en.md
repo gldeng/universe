@@ -1,5 +1,7 @@
 # Strict Formalization of Emergence in Complex Systems [Dimension: 10] v36.0
 
+[Chinese Version](formal_theory_emergence_complexity.md)
+
 **[中文版](formal_theory_emergence_complexity.md) | [English Version]**
 
 ## Contents

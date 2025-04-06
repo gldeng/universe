@@ -1,5 +1,7 @@
 # UNSHIFT Recursive Reflection Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_recursive_reflection.md)
+
 **[中文版](formal_theory_unshift_recursive_reflection.md) | [English Version]**
 
 ## Table of Contents

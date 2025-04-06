@@ -1,4 +1,4 @@
-# 绝对本体统一理论的严格形式化描述 [维度: 35] v36.0
+# 绝对本体统一理论的严格形式化描述 [维度: 35.0] v36.0
 
 **[中文版] | [English Version](formal_theory_absolute_ontological_unification_en.md)**
 

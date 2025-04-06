@@ -1,5 +1,7 @@
 # Omnidimensional Information Coherence Theory [Dimension: 16] v36.0
 
+[Chinese Version](formal_theory_omnidimensional_information_coherence.md)
+
 **[中文版](formal_theory_omnidimensional_information_coherence.md) | [English Version]**
 
 ## Table of Contents

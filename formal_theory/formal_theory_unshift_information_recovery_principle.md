@@ -1,4 +1,4 @@
-# UNSHIFT信息恢复原理 [维度: 2] v36.0
+# UNSHIFT信息恢复原理 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_information_recovery_principle_en.md)**
 
@@ -172,9 +172,9 @@ $`\text{UNSHIFT}(x_{noisy}) = \text{UNSHIFT}(x \oplus \text{SHIFT}(x)) = x`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 2.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 2.0]
 
 本理论被以下理论引用：
-- [UNSHIFT信息演化理论](formal_theory_unshift_information_evolution.md) [维度: 3]
-- [UNSHIFT量子相干性理论](formal_theory_unshift_quantum_coherence.md) [维度: 4] 
+- [UNSHIFT信息演化理论](formal_theory_unshift_information_evolution.md) [维度: 2.0]
+- [UNSHIFT量子相干性理论](formal_theory_unshift_quantum_coherence.md) [维度: 2.0] 

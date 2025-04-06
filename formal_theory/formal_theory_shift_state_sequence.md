@@ -1,4 +1,4 @@
-# SHIFT态序列理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT态序列理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_state_sequence_en.md)**
 
@@ -369,16 +369,16 @@ SHIFT态序列理论在宇宙本论理论谱系中被定位为维度1理论，�
 SHIFT态序列理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [序列信息论](formal_theory_sequence_information_theory.md) [维度: 2]
-   - [时间序列动力学](formal_theory_temporal_sequence_dynamics.md) [维度: 2]
+   - [序列信息论](formal_theory_sequence_information_theory.md) [维度: 1.0]
+   - [时间序列动力学](formal_theory_temporal_sequence_dynamics.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT状态循环理论](formal_theory_shift_state_cycle.md) [维度: 1]
-   - [SHIFT二元对称理论](formal_theory_shift_binary_symmetry.md) [维度: 1]
+   - [SHIFT状态循环理论](formal_theory_shift_state_cycle.md) [维度: 1.0]
+   - [SHIFT二元对称理论](formal_theory_shift_binary_symmetry.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

@@ -1,5 +1,7 @@
 # Strict Formalization of Mathematical Theory [Dimension: 15] v36.0
 
+[Chinese Version](formal_theory_mathematics.md)
+
 **[中文版](formal_theory_mathematics.md) | [English Version]**
 
 ## Table of Contents

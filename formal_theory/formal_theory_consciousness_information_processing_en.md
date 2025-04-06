@@ -1,5 +1,7 @@
 # Formal Description of Consciousness Information Processing Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_consciousness_information_processing.md)
+
 **[中文版](formal_theory_consciousness_information_processing.md) | [English Version]**
 
 ## Table of Contents

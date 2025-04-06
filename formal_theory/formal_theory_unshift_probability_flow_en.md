@@ -1,5 +1,7 @@
 # UNSHIFT Probability Flow Theory [Dimension: 2] v36.0
 
+[Chinese Version](formal_theory_unshift_probability_flow.md)
+
 **[中文版](formal_theory_unshift_probability_flow.md) | [English Version]**
 
 ## Table of Contents

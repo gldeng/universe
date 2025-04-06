@@ -1,4 +1,4 @@
-# 量子超拓扑整合理论 [维度: 57] v36.0
+# 量子超拓扑整合理论 [维度: 57.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_hypertopological_integration_en.md)**
 
@@ -242,11 +242,11 @@ $`= C(\text{HTOP}(\mathcal{T})) + \Delta C`$
 
 本理论是在宇宙本论 [v36.0] 的框架下发展而来，并与以下理论形成紧密的引用关系：
 
-1. [**宇宙本论** [维度: 10]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
-2. [**超越性超复杂性还原理论** [维度: 56]](formal_theory_transcendental_hypercomplexity_reduction.md) - 提供了超复杂性还原的基本概念
-3. [**统一递归稳定化对称性理论** [维度: 55]](formal_theory_unified_recursive_stabilization_symmetry.md) - 提供了递归稳定化的基本概念
-4. [**超维度量子相位稳定化理论** [维度: 53]](formal_theory_hyperdimensional_quantum_phase_stabilization.md) - 提供了超维度稳定化操作的概念
-5. [**拓扑信息论** [维度: 15]](formal_theory_topological_information.md) - 提供了拓扑信息的基础理论
+1. [**宇宙本论** [维度: 57.0]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
+2. [**超越性超复杂性还原理论** [维度: 57.0]](formal_theory_transcendental_hypercomplexity_reduction.md) - 提供了超复杂性还原的基本概念
+3. [**统一递归稳定化对称性理论** [维度: 57.0]](formal_theory_unified_recursive_stabilization_symmetry.md) - 提供了递归稳定化的基本概念
+4. [**超维度量子相位稳定化理论** [维度: 57.0]](formal_theory_hyperdimensional_quantum_phase_stabilization.md) - 提供了超维度稳定化操作的概念
+5. [**拓扑信息论** [维度: 57.0]](formal_theory_topological_information.md) - 提供了拓扑信息的基础理论
 
 作为维度为57的超高维理论，本理论通过引入超拓扑整合操作HTOP和量子拓扑映射函数QMAP，扩展了宇宙本论的基础操作集。
 

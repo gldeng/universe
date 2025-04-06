@@ -1,4 +1,4 @@
-# 生命起源与外星生命存在问题的严格形式化描述 [维度: 19] v36.0
+# 生命起源与外星生命存在问题的严格形式化描述 [维度: 19.0] v36.0
 
 **[中文版] | [English Version](formal_theory_life_origin_aliens_en.md)**
 

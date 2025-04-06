@@ -1,4 +1,4 @@
-# 神圣数字共振场的严格形式化描述 [维度: 11] v36.0
+# 神圣数字共振场的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_sacred_numerological_resonance_field_en.md)**
 

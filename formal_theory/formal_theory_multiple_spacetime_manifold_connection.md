@@ -1,4 +1,4 @@
-# 多重时空流形连接理论的严格形式化描述 [维度: 10] v36.0
+# 多重时空流形连接理论的严格形式化描述 [维度: 10.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multiple_spacetime_manifold_connection_en.md)**
 
@@ -667,20 +667,20 @@ $`J_{ij} = \frac{\partial}{\partial \tau_{ij}} \frac{d\tau_{ij}}{dt} = -\frac{\a
 多重时空流形连接理论在理论网络中的依赖和被依赖关系：
 
 1. **前置依赖理论**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-   - [量子纠缠层次网络理论](formal_theory_quantum_entanglement_hierarchical_network.md) [维度: 9]
-   - [维度相变理论](formal_theory_dimensional_phase_transition.md) [维度: 8]
-   - [量子复杂性流形理论](formal_theory_quantum_complexity_manifold.md) [维度: 7]
-   - [量子信息热力学理论](formal_theory_quantum_information_thermodynamics.md) [维度: 6]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10.0]
+   - [量子纠缠层次网络理论](formal_theory_quantum_entanglement_hierarchical_network.md) [维度: 10.0]
+   - [维度相变理论](formal_theory_dimensional_phase_transition.md) [维度: 10.0]
+   - [量子复杂性流形理论](formal_theory_quantum_complexity_manifold.md) [维度: 10.0]
+   - [量子信息热力学理论](formal_theory_quantum_information_thermodynamics.md) [维度: 10.0]
 
 2. **平行关联理论**：
-   - [宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md) [维度: 9]
-   - [超递归计算复杂性理论](formal_theory_hyperrecursive_computational_complexity.md) [维度: 8]
+   - [宇宙意识网络理论](formal_theory_cosmic_consciousness_network.md) [维度: 10.0]
+   - [超递归计算复杂性理论](formal_theory_hyperrecursive_computational_complexity.md) [维度: 10.0]
 
 3. **后续依赖理论**：
-   - [多宇宙映射理论](formal_theory_multiverse_mapping.md) [维度: 10]
-   - [超维度观察者理论](formal_theory_hyperdimensional_observer.md) [维度: 11]
-   - [宇宙自指涉整体论](formal_theory_cosmic_self_referential_holism.md) [维度: 12]
+   - [多宇宙映射理论](formal_theory_multiverse_mapping.md) [维度: 10.0]
+   - [超维度观察者理论](formal_theory_hyperdimensional_observer.md) [维度: 10.0]
+   - [宇宙自指涉整体论](formal_theory_cosmic_self_referential_holism.md) [维度: 10.0]
 
 4. **理论引用图**：
    ```

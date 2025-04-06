@@ -1,5 +1,7 @@
 # Strict Formalization of UNSHIFT Pattern Recognition Theory [Dimension: 1.5] v36.0
 
+[Chinese Version](formal_theory_unshift_pattern_recognition.md)
+
 **[English Version] | [中文版](formal_theory_unshift_pattern_recognition.md)**
 
 ## Table of Contents

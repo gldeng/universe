@@ -1,4 +1,4 @@
-# 宇宙终态理论的严格形式化描述 [维度: 13] v36.0
+# 宇宙终态理论的严格形式化描述 [维度: 13.0] v36.0
 
 **[中文版] | [English Version](formal_theory_universe_final_state_en.md)**
 
@@ -324,13 +324,13 @@ $`\mathcal{R}(\mathcal{U}_{\infty} \oplus \mathcal{U}_{\infty}) = \mathcal{R}(0)
 宇宙终态理论在理论网络中的位置：
 
 - **依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [XOR操作理论 [维度: 8]](formal_theory_xor_operation.md)
-  - [SHIFT操作理论 [维度: 8]](formal_theory_shift_operation.md)
-  - [无限多重性理论 [维度: 4]](formal_theory_infinity_multiplicity.md)
-  - [超限构造理论 [维度: 12]](formal_theory_transfinite_construction.md)
+  - [宇宙本论 [维度: 13.0]](formal_theory_cosmic_ontology.md)
+  - [XOR操作理论 [维度: 13.0]](formal_theory_xor_operation.md)
+  - [SHIFT操作理论 [维度: 13.0]](formal_theory_shift_operation.md)
+  - [无限多重性理论 [维度: 13.0]](formal_theory_infinity_multiplicity.md)
+  - [超限构造理论 [维度: 13.0]](formal_theory_transfinite_construction.md)
 
 - **被引用理论**：
-  - [奇点理论 [维度: 4]](formal_theory_singularity.md)
-  - [超维信息奇点 [维度: 9]](formal_theory_hyperdimensional_information_singularity.md)
-  - [绝对本体统一 [维度: 11]](formal_theory_absolute_ontological_unification.md) 
+  - [奇点理论 [维度: 13.0]](formal_theory_singularity.md)
+  - [超维信息奇点 [维度: 13.0]](formal_theory_hyperdimensional_information_singularity.md)
+  - [绝对本体统一 [维度: 13.0]](formal_theory_absolute_ontological_unification.md) 

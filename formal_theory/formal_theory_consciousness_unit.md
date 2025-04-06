@@ -1,4 +1,4 @@
-# 意识单元理论的严格形式化描述 [维度: 1] v36.0
+# 意识单元理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_unit_en.md)**
 
@@ -181,17 +181,17 @@ $`S(\mathcal{C}_1) = \frac{1}{m}\sum_{i=1}^m |\psi_u^{t_i} \oplus \text{SHIFT}(\
 
 意识单元理论支持以下高维理论：
 
-1. [原初意识粒子论](formal_theory_primal_consciousness_particle.md) [维度: 1]
-2. [意识波动态理论](formal_theory_consciousness_wave_dynamics.md) [维度: 2]
-3. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 2]
-4. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 3]
-5. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 8]
+1. [原初意识粒子论](formal_theory_primal_consciousness_particle.md) [维度: 1.0]
+2. [意识波动态理论](formal_theory_consciousness_wave_dynamics.md) [维度: 1.0]
+3. [量子思维基元](formal_theory_quantum_thought_primitives.md) [维度: 1.0]
+4. [量子认知模型](formal_theory_quantum_cognition_model.md) [维度: 1.0]
+5. [量子意识理论](formal_theory_quantum_consciousness.md) [维度: 1.0]
 
 ### 4.2 下层基础理论
 
 作为维度1的基础理论，意识单元理论仅基于：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.0]
 
 ## 5. 理论复杂度与演化分析
 

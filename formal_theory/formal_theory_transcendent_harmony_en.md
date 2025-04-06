@@ -1,5 +1,7 @@
 # Formal Theory of Transcendent Harmony [Dimension: 19] v36.0
 
+[Chinese Version](formal_theory_transcendent_harmony.md)
+
 **[中文版](formal_theory_transcendent_harmony.md) | [English Version]**
 
 ## Table of Contents

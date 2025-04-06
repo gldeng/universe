@@ -1,5 +1,7 @@
 # Strict Formalization of SHIFT Directional Flow Theory [Dimension: 1] v36.0
 
+[Chinese Version](formal_theory_shift_directional_flow.md)
+
 **[中文版](formal_theory_shift_directional_flow.md) | [English Version]**
 
 ## Table of Contents

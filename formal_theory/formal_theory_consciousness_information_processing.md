@@ -1,4 +1,4 @@
-# 意识信息处理理论的严格形式化描述 [维度: 2] v36.0
+# 意识信息处理理论的严格形式化描述 [维度: 2.0] v36.0
 
 **[中文版] | [English Version](formal_theory_consciousness_information_processing_en.md)**
 
@@ -324,18 +324,18 @@
 意识信息处理理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 1]
-   - [意识基础状态理论](formal_theory_consciousness_basic_state.md) [维度: 2]
-   - [意识状态转换理论](formal_theory_consciousness_state_transition.md) [维度: 2]
+   - [SHIFT基础状态转换理论](formal_theory_shift_basic_state_transition.md) [维度: 2.0]
+   - [意识基础状态理论](formal_theory_consciousness_basic_state.md) [维度: 2.0]
+   - [意识状态转换理论](formal_theory_consciousness_state_transition.md) [维度: 2.0]
 
 2. **后续理论**：
-   - [意识认知映射理论](formal_theory_consciousness_cognitive_mapping.md) [维度: 2]
-   - [意识决策系统理论](formal_theory_consciousness_decision_system.md) [维度: 2]
-   - [意识与复杂性涌现理论](formal_theory_consciousness_emergence_complexity.md) [维度: 2]
+   - [意识认知映射理论](formal_theory_consciousness_cognitive_mapping.md) [维度: 2.0]
+   - [意识决策系统理论](formal_theory_consciousness_decision_system.md) [维度: 2.0]
+   - [意识与复杂性涌现理论](formal_theory_consciousness_emergence_complexity.md) [维度: 2.0]
 
 3. **横向关联**：
-   - [信息整合基础理论](formal_theory_information_integration_basic.md) [维度: 2]
-   - [量子信息处理理论](formal_theory_quantum_information_processing.md) [维度: 2]
+   - [信息整合基础理论](formal_theory_information_integration_basic.md) [维度: 2.0]
+   - [量子信息处理理论](formal_theory_quantum_information_processing.md) [维度: 2.0]
 
 4. **理论引用图**：
    ```

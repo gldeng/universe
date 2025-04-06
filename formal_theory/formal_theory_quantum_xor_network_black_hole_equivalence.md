@@ -1,4 +1,4 @@
-# 量子XOR网络黑洞等价原理 [维度: 5] v36.0
+# 量子XOR网络黑洞等价原理 [维度: 5.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_xor_network_black_hole_equivalence_en.md)**
 
@@ -298,11 +298,11 @@ $`S(E_{BH}) \leq 2^{-|k|} + \epsilon`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5]
-- [SHIFT拓扑演化稳定性理论](formal_theory_shift_topology_evolution_stability.md) [维度: 5]
-- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 5.0]
+- [量子XOR纠缠递归网络理论](formal_theory_quantum_xor_entanglement_recursive_network.md) [维度: 5.0]
+- [SHIFT拓扑演化稳定性理论](formal_theory_shift_topology_evolution_stability.md) [维度: 5.0]
+- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 5.0]
 
 本理论被以下理论引用：
-- [量子时空涨落网络理论](formal_theory_quantum_spacetime_fluctuation_network.md) [维度: 6]
-- [信息引力对应原理](formal_theory_information_gravity_correspondence.md) [维度: 6] 
+- [量子时空涨落网络理论](formal_theory_quantum_spacetime_fluctuation_network.md) [维度: 5.0]
+- [信息引力对应原理](formal_theory_information_gravity_correspondence.md) [维度: 5.0] 

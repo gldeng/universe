@@ -1,5 +1,7 @@
 # Strict Formalization of Multidimensional Consciousness Dynamics [Dimension: 32] v36.0
 
+[Chinese Version](formal_theory_multidimensional_consciousness_dynamics.md)
+
 **[中文版](formal_theory_multidimensional_consciousness_dynamics.md) | [English Version]**
 
 ## Table of Contents

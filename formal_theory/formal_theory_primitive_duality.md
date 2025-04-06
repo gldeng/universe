@@ -1,4 +1,4 @@
-# 原始态二元理论的严格形式化描述 [维度: 1] v36.0
+# 原始态二元理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_primitive_duality_en.md)**
 
@@ -339,11 +339,11 @@ $`\{s^0, s^1, s^2, ..., s^T\} = \{\alpha, \beta\}`$
 原始态二元理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1]
-   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2]
+   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1.0]
+   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 1.0]
 
 3. **理论映射关系**：
    - 与FLIP理论构成平行描述，都是维度1的不同视角

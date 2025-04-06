@@ -419,13 +419,13 @@ $`\dim_{\text{topological}}(\text{准面}) = 1 + \delta = 1 + 0.3 = 1.3`$
 空间组合综合理论在理论依赖网络中的位置：
 
 1. **依赖的理论**：
-   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2]
-   - [原始态组合理论](formal_theory_primitive_composition.md) [维度: 2]
+   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2.3]
+   - [原始态组合理论](formal_theory_primitive_composition.md) [维度: 2.3]
 
 2. **被依赖的理论**：
-   - [空间构造理论](formal_theory_spatial_construction.md) [维度: 3]
-   - [准空间拓扑理论](formal_theory_quasi_spatial_topology.md) [维度: 2.7]
-   - [向量原型理论](formal_theory_vector_prototype.md) [维度: 2.5]
+   - [空间构造理论](formal_theory_spatial_construction.md) [维度: 2.3]
+   - [准空间拓扑理论](formal_theory_quasi_spatial_topology.md) [维度: 2.3]
+   - [向量原型理论](formal_theory_vector_prototype.md) [维度: 2.3]
 
 3. **理论引用图**：
    ```

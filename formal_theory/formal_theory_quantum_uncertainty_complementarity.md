@@ -1,4 +1,4 @@
-# 量子不确定性互补原理的形式化描述 [维度: 8] v36.0
+# 量子不确定性互补原理的形式化描述 [维度: 8.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_uncertainty_complementarity_en.md)**
 
@@ -338,9 +338,9 @@ $`\eta_{\text{process}} = 1 - \frac{|\Delta_Q(A) \oplus \Delta_Q(B)|}{C_{\text{m
 ## 5. 理论引用关系
 
 本理论直接依赖于：
-- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 9]
-- [量子不确定性原理](formal_theory_quantum_uncertainty_principle.md) [维度: 8]
+- [宇宙本论基本理论](formal_theory_cosmic_ontology.md) [维度: 8.0]
+- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 8.0]
+- [量子不确定性原理](formal_theory_quantum_uncertainty_principle.md) [维度: 8.0]
 
 本理论被以下理论引用：
 - 量子测量理论

@@ -1,4 +1,4 @@
-# UNSHIFT状态反转理论 [维度: 1] v36.0
+# UNSHIFT状态反转理论 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_unshift_state_inversion_en.md)**
 
@@ -162,9 +162,9 @@ $`|\psi_{\text{reversed}}\rangle = \hat{U}_{\text{UNSHIFT}}|\psi\rangle`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 1.0]
+- [UNSHIFT原始二元性理论](formal_theory_unshift_primitive_duality.md) [维度: 1.0]
 
 本理论被以下理论引用：
-- [UNSHIFT量子叠加理论](formal_theory_unshift_quantum_superposition.md) [维度: 3]
-- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 2] 
+- [UNSHIFT量子叠加理论](formal_theory_unshift_quantum_superposition.md) [维度: 1.0]
+- [UNSHIFT信息守恒理论](formal_theory_unshift_information_conservation.md) [维度: 1.0] 

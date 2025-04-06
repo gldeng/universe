@@ -1,5 +1,7 @@
 # Formal Theory of Omnidimensional Theory Unification Field [Dimension: 32] v36.0
 
+[Chinese Version](formal_theory_omnidimensional_theory_unification_field.md)
+
 **[中文版](formal_theory_omnidimensional_theory_unification_field.md) | [English Version]**
 
 ## Table of Contents

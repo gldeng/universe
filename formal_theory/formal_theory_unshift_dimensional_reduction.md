@@ -239,12 +239,12 @@ $`\lim_{k \to \infty} \mathcal{U}_d^k(\psi_n) = \psi_0`$
 
 UNSHIFT维度降阶理论依赖于以下更基础的理论：
 
-1. [FLIP操作的严格形式化描述 [维度: 1]](formal_theory_flip_operation.md)
-2. [XOR操作的严格形式化描述 [维度: 2]](formal_theory_xor_operation.md)
-3. [SHIFT操作的严格形式化描述 [维度: 2]](formal_theory_shift_operation.md)
-4. [USHIFT操作的严格形式化描述 [维度: 2]](formal_theory_ushift_operation.md)
-5. [基本状态反转理论的严格形式化描述 [维度: 1.5]](formal_theory_fundamental_state_inversion.md)
-6. [原始状态对称性理论的严格形式化描述 [维度: 1.8]](formal_theory_primitive_state_symmetry.md)
+1. [FLIP操作的严格形式化描述 [维度: 2.2]](formal_theory_flip_operation.md)
+2. [XOR操作的严格形式化描述 [维度: 2.2]](formal_theory_xor_operation.md)
+3. [SHIFT操作的严格形式化描述 [维度: 2.2]](formal_theory_shift_operation.md)
+4. [USHIFT操作的严格形式化描述 [维度: 2.2]](formal_theory_ushift_operation.md)
+5. [基本状态反转理论的严格形式化描述 [维度: 2.2]](formal_theory_fundamental_state_inversion.md)
+6. [原始状态对称性理论的严格形式化描述 [维度: 2.2]](formal_theory_primitive_state_symmetry.md)
 
 ### 5.2 维度归属
 

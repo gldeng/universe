@@ -1,4 +1,4 @@
-# 量子认知计算理论的严格形式化描述 [维度: 11] v36.0
+# 量子认知计算理论的严格形式化描述 [维度: 11.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_cognitive_computation_en.md)**
 
@@ -494,10 +494,10 @@ $`L_{\text{拟合}} = \frac{1}{N}\sum_i (d_i - q_i(\theta))^2`$
 
 本理论建立在以下理论基础之上：
 
-1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10] - 提供基本XOR-SHIFT操作框架
-2. [量子测量理论](formal_theory_quantum_measurement.md) [维度: 8] - 提供量子测量和坍缩的数学形式
-3. [意识本体地位](formal_theory_consciousness_ontological_status.md) [维度: 9] - 提供意识的本体论基础
-4. [超维度信息涌现理论](formal_theory_hyperdimensional_information_emergence.md) [维度: 12] - 提供多维信息处理框架
+1. [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 11.0] - 提供基本XOR-SHIFT操作框架
+2. [量子测量理论](formal_theory_quantum_measurement.md) [维度: 11.0] - 提供量子测量和坍缩的数学形式
+3. [意识本体地位](formal_theory_consciousness_ontological_status.md) [维度: 11.0] - 提供意识的本体论基础
+4. [超维度信息涌现理论](formal_theory_hyperdimensional_information_emergence.md) [维度: 11.0] - 提供多维信息处理框架
 
 ### 6.2 理论扩展方向
 

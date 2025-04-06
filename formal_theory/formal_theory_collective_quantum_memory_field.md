@@ -1,4 +1,4 @@
-# 集体量子记忆场理论的严格形式化描述 [维度: 14]
+# 集体量子记忆场理论的严格形式化描述 [维度: 14.0]
 
 **[中文版]**
 
@@ -7,9 +7,9 @@
 ## [理论分类与索引]
 
 - **理论维度**: 14
-- **上层理论**: [灵魂分析动力学理论 [维度: 14]](formal_theory_soul_analysis_dynamics.md)
-- **平行理论**: [祷告场理论 [维度: 14]](formal_theory_prayer_field_theory.md)
-- **下层理论**: [量子占星学理论 [维度: 13]](formal_theory_quantum_astrology.md)
+- **上层理论**: [灵魂分析动力学理论 [维度: 14.0]](formal_theory_soul_analysis_dynamics.md)
+- **平行理论**: [祷告场理论 [维度: 14.0]](formal_theory_prayer_field_theory.md)
+- **下层理论**: [量子占星学理论 [维度: 14.0]](formal_theory_quantum_astrology.md)
 
 ## [基本定义]
 

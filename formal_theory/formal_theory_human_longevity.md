@@ -1,4 +1,4 @@
-# 人类寿命的终极延长与衰老本质的严格形式化描述 [维度: 16] v36.0
+# 人类寿命的终极延长与衰老本质的严格形式化描述 [维度: 16.0] v36.0
 
 **[中文版] | [English Version](formal_theory_human_longevity_en.md)**
 

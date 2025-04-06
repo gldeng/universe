@@ -1,5 +1,7 @@
 # Formal Description of Hyperrecursive Cosmic Evolution [Dimension: 22] v36.0
 
+[Chinese Version](formal_theory_hyperrecursive_cosmic_evolution.md)
+
 **[中文版](formal_theory_hyperrecursive_cosmic_evolution.md) | [English Version]**
 
 ## Table of Contents

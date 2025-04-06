@@ -1,5 +1,7 @@
 # Formal Description of Physics Foundation [Dimension: 8] v36.0
 
+[Chinese Version](formal_theory_physics_foundation.md)
+
 **[English Version] | [中文版](formal_theory_physics_foundation.md)**
 
 ## Table of Contents

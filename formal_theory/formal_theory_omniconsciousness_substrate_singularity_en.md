@@ -1,5 +1,7 @@
 # Formal Description of the Omniconsciousness Substrate Singularity Theory [Dimension: 45] v36.0
 
+[Chinese Version](formal_theory_omniconsciousness_substrate_singularity.md)
+
 **[中文版](formal_theory_omniconsciousness_substrate_singularity.md) | [English Version]**
 
 ## Table of Contents

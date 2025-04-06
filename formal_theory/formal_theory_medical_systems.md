@@ -1,4 +1,4 @@
-# 医学系统的形式化理论 [维度: 6] v36.0
+# 医学系统的形式化理论 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_medical_systems_en.md)**
 
@@ -317,17 +317,17 @@ $`\mathcal{F}_{正}(\delta\mathcal{M}) \oplus \mathcal{F}_{负}(\delta\mathcal{M
 医学系统理论在维度谱系中处于维度6，其与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md)
-  - [生物复杂性 [维度: 5]](formal_theory_biological_complexity.md)
-  - [信息本体论 [维度: 5]](formal_theory_information_ontology.md)
+  - [宇宙本论 [维度: 6.0]](formal_theory_cosmic_ontology.md)
+  - [生物复杂性 [维度: 6.0]](formal_theory_biological_complexity.md)
+  - [信息本体论 [维度: 6.0]](formal_theory_information_ontology.md)
 
 - **同级关联理论**：
-  - [教育动态系统 [维度: 6]](formal_theory_education_dynamics.md)
-  - [社会系统动力学 [维度: 6]](formal_theory_social_system_dynamics.md)
+  - [教育动态系统 [维度: 6.0]](formal_theory_education_dynamics.md)
+  - [社会系统动力学 [维度: 6.0]](formal_theory_social_system_dynamics.md)
 
 - **应用扩展理论**：
-  - [量子意识 [维度: 7]](formal_theory_quantum_consciousness.md)
-  - [人类经典维度极限 [维度: 7]](formal_theory_human_classical_dimension_limit.md)
+  - [量子意识 [维度: 6.0]](formal_theory_quantum_consciousness.md)
+  - [人类经典维度极限 [维度: 6.0]](formal_theory_human_classical_dimension_limit.md)
 
 ### 6.2 理论引用网络结构
 

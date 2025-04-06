@@ -1,4 +1,4 @@
-# SHIFT基本点变换理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT基本点变换理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_point_transformation_en.md)**
 
@@ -360,17 +360,17 @@ SHIFT点变换理论在宇宙本论理论谱系中被定位为维度1理论，�
 SHIFT点变换理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [FLIP操作理论](formal_theory_flip_operation.md) [维度: 1.0]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT基本对称性理论](formal_theory_shift_elementary_symmetry.md) [维度: 1]
-   - [SHIFT状态序列理论](formal_theory_shift_state_sequence.md) [维度: 1]
-   - [XOR操作理论](formal_theory_xor_operation.md) [维度: 2]
+   - [SHIFT基本对称性理论](formal_theory_shift_elementary_symmetry.md) [维度: 1.0]
+   - [SHIFT状态序列理论](formal_theory_shift_state_sequence.md) [维度: 1.0]
+   - [XOR操作理论](formal_theory_xor_operation.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1]
-   - [原始涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
+   - [二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1.0]
+   - [原始涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

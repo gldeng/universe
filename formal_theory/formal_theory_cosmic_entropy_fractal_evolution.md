@@ -1,4 +1,4 @@
-# 宇宙熵分形演化理论 [维度: 4] v36.0
+# 宇宙熵分形演化理论 [维度: 4.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_entropy_fractal_evolution_en.md)**
 
@@ -286,11 +286,11 @@ $`t_{critical} = \{t | \gamma(L, t) \text{ exhibits singularities}\}`$
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [信息熵动力学理论](formal_theory_information_entropy_dynamics.md) [维度: 3]
-- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 3]
-- [维度变换力学理论](formal_theory_dimension_transformation_mechanics.md) [维度: 3]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 4.0]
+- [信息熵动力学理论](formal_theory_information_entropy_dynamics.md) [维度: 4.0]
+- [量子信息离散性理论](formal_theory_quantum_information_discreteness.md) [维度: 4.0]
+- [维度变换力学理论](formal_theory_dimension_transformation_mechanics.md) [维度: 4.0]
 
 本理论被以下理论引用：
-- [复杂系统多尺度涌现理论](formal_theory_complex_system_multiscale_emergence.md) [维度: 5]
-- [宇宙分形信息网络理论](formal_theory_cosmic_fractal_information_network.md) [维度: 5] 
+- [复杂系统多尺度涌现理论](formal_theory_complex_system_multiscale_emergence.md) [维度: 4.0]
+- [宇宙分形信息网络理论](formal_theory_cosmic_fractal_information_network.md) [维度: 4.0] 

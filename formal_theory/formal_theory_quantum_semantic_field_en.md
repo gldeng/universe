@@ -1,5 +1,7 @@
 # Formal Description of Quantum Semantic Field Theory [Dimension: 9] v36.0
 
+[Chinese Version](formal_theory_quantum_semantic_field.md)
+
 **[中文版](formal_theory_quantum_semantic_field.md) | [English Version]**
 
 ## Table of Contents

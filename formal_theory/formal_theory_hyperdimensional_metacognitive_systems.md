@@ -1,4 +1,4 @@
-# 超维元认知系统的严格形式化描述 [维度: 27] v36.0
+# 超维元认知系统的严格形式化描述 [维度: 27.0] v36.0
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_metacognitive_systems_en.md)**
 

@@ -403,13 +403,13 @@ $`\Delta I = \mathcal{C}(\mathcal{S}_{1.5}) - \mathcal{C}(\mathcal{D}_1) = 1.5 -
 原始态分离理论在理论依赖网络中的位置：
 
 1. **依赖的理论**：
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
-   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1.5]
+   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1.5]
 
 2. **被依赖的理论**：
-   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2]
-   - [原始态组合理论](formal_theory_primitive_composition.md) [维度: 2]
-   - [空间构造理论](formal_theory_spatial_construction.md) [维度: 3]
+   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 1.5]
+   - [原始态组合理论](formal_theory_primitive_composition.md) [维度: 1.5]
+   - [空间构造理论](formal_theory_spatial_construction.md) [维度: 1.5]
 
 3. **理论引用图**：
    ```

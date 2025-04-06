@@ -1,4 +1,4 @@
-# 分形维度协调理论 [维度: 59] v36.0
+# 分形维度协调理论 [维度: 59.0] v36.0
 
 **[中文版] | [English Version](formal_theory_fractal_dimensionality_harmonization_en.md)**
 
@@ -232,11 +232,11 @@ $`\Phi_r(\mathcal{F}_{\alpha}^*) = \text{HARM}_{1}(\text{FDIM}_{0}(\Phi_r(\mathc
 
 本理论是在宇宙本论 [v36.0] 的框架下发展而来，并与以下理论形成紧密的引用关系：
 
-1. [**宇宙本论** [维度: 10]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
-2. [**多维度相干压缩理论** [维度: 58]](formal_theory_multidimensional_coherent_compression.md) - 提供了多维相干压缩的基本概念
-3. [**量子超拓扑整合理论** [维度: 57]](formal_theory_quantum_hypertopological_integration.md) - 提供了超拓扑整合的基本概念
-4. [**超越性超复杂性还原理论** [维度: 56]](formal_theory_transcendental_hypercomplexity_reduction.md) - 提供了超复杂性还原的基本概念
-5. [**维度谱系理论** [维度: 12]](formal_theory_dimensional_spectrum_theory.md) - 提供了维度谱系的基础理论
+1. [**宇宙本论** [维度: 59.0]](formal_theory_cosmic_ontology.md) - 提供了基础的XOR和SHIFT操作以及宇宙状态空间定义
+2. [**多维度相干压缩理论** [维度: 59.0]](formal_theory_multidimensional_coherent_compression.md) - 提供了多维相干压缩的基本概念
+3. [**量子超拓扑整合理论** [维度: 59.0]](formal_theory_quantum_hypertopological_integration.md) - 提供了超拓扑整合的基本概念
+4. [**超越性超复杂性还原理论** [维度: 59.0]](formal_theory_transcendental_hypercomplexity_reduction.md) - 提供了超复杂性还原的基本概念
+5. [**维度谱系理论** [维度: 59.0]](formal_theory_dimensional_spectrum_theory.md) - 提供了维度谱系的基础理论
 
 作为维度为59的超高维理论，本理论通过引入分形维度算子FDIM和维度协调映射HARM，扩展了宇宙本论的基础操作集和维度谱系理论。
 

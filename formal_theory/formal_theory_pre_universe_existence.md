@@ -1,4 +1,4 @@
-# 宇宙起源之前的存在性严格形式化描述 [维度: 12] v36.0
+# 宇宙起源之前的存在性严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_pre_universe_existence_en.md)**
 

@@ -1,5 +1,7 @@
 # Formal Theory of Hyperdimensional Existence [Dimension: 27] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_existence.md)
+
 **[中文版](formal_theory_hyperdimensional_existence.md) | [English Version]**
 
 ## Table of Contents

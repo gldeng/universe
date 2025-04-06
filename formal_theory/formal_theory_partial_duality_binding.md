@@ -429,13 +429,13 @@ $`\mathcal{D}_1 \xrightarrow{\text{BIND}} \mathcal{B}_{1.2} \xrightarrow{\text{S
 部分二元绑定理论在理论依赖网络中的位置：
 
 1. **依赖的理论**：
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
-   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1.2]
+   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1.2]
 
 2. **被依赖的理论**：
-   - [原始态分离理论](formal_theory_primitive_separation.md) [维度: 1.5]
-   - [前空间结构理论](formal_theory_pre_spatial_structure.md) [维度: 1.4]
-   - [二元态张力理论](formal_theory_dual_tension.md) [维度: 1.3]
+   - [原始态分离理论](formal_theory_primitive_separation.md) [维度: 1.2]
+   - [前空间结构理论](formal_theory_pre_spatial_structure.md) [维度: 1.2]
+   - [二元态张力理论](formal_theory_dual_tension.md) [维度: 1.2]
 
 3. **理论引用图**：
    ```

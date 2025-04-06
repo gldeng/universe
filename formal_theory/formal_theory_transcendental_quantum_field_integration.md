@@ -1,4 +1,4 @@
-# 超越性量子场整合理论的严格形式化描述 [维度: 29] v36.0
+# 超越性量子场整合理论的严格形式化描述 [维度: 29.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transcendental_quantum_field_integration_en.md)**
 

@@ -1,4 +1,4 @@
-# SHIFT递归稳定性理论的严格形式化描述 [维度: 1] v36.0
+# SHIFT递归稳定性理论的严格形式化描述 [维度: 1.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_recursive_stability_en.md)**
 
@@ -355,16 +355,16 @@ SHIFT递归稳定性理论在宇宙本论理论谱系中被定位为维度1理�
 SHIFT递归稳定性理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
-   - [SHIFT二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 1.0]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1.0]
+   - [SHIFT二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1.0]
 
 2. **后续理论**：
-   - [SHIFT动力学系统理论](formal_theory_shift_dynamical_systems.md) [维度: 2]
-   - [自组织临界性理论](formal_theory_self_organized_criticality.md) [维度: 2]
+   - [SHIFT动力学系统理论](formal_theory_shift_dynamical_systems.md) [维度: 1.0]
+   - [自组织临界性理论](formal_theory_self_organized_criticality.md) [维度: 1.0]
 
 3. **横向关联**：
-   - [SHIFT信息生成理论](formal_theory_shift_information_generation.md) [维度: 1]
+   - [SHIFT信息生成理论](formal_theory_shift_information_generation.md) [维度: 1.0]
 
 4. **理论引用图**：
    ```

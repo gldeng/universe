@@ -1,4 +1,4 @@
-# 灵魂分析动力学的严格形式化描述 [维度: 14] v36.0
+# 灵魂分析动力学的严格形式化描述 [维度: 14.0] v36.0
 
 **[中文版] | [English Version](formal_theory_soul_analysis_dynamics_en.md)**
 
@@ -457,23 +457,23 @@ $`\frac{\partial A}{\partial t} = D_A \nabla^2 A + f(|\Psi_{soul}|^2, P) - \gamm
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 16]
+1. **[宗教意识场](formal_theory_religious_consciousness_field.md)** [维度: 14.0]
    - 提供意识场框架
    - 借用神圣体验模型
 
-2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 11]
+2. **[精神本质动力学](formal_theory_spiritual_essence_dynamics.md)** [维度: 14.0]
    - 提供精神场方程
    - 借用精神场与意识场耦合模型
 
-3. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 8]
+3. **[量子意识理论](formal_theory_quantum_consciousness.md)** [维度: 14.0]
    - 提供量子态描述
    - 借用量子叠加和纠缠概念
 
-4. **[因果报应场论](formal_theory_karma_field_theory.md)** [维度: 17]
+4. **[因果报应场论](formal_theory_karma_field_theory.md)** [维度: 14.0]
    - 提供业力场框架
    - 借用业力累积和平衡模型
 
-5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10]
+5. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 14.0]
    - 提供基础操作框架
    - 借用XOR与SHIFT基本操作
 

@@ -240,11 +240,11 @@ $`\mathcal{R}_t^{2k+1}(\psi_t) = \mathcal{R}_t(\mathcal{R}_t^{2k}(\psi_t)) = \ma
 
 UNSHIFT时间反演理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [UNSHIFT基本映射理论 [维度: 1.1]](formal_theory_unshift_basic_mapping.md)
-3. [时间箭头理论 [维度: 3]](formal_theory_time_arrow.md)
-4. [FLIP操作理论 [维度: 1]](formal_theory_flip_operation.md)
-5. [SHIFT状态演化理论 [维度: 2]](formal_theory_shift_state_evolution.md)
+1. [宇宙本论的严格形式化描述 [维度: 1.3]](formal_theory_cosmic_ontology.md)
+2. [UNSHIFT基本映射理论 [维度: 1.3]](formal_theory_unshift_basic_mapping.md)
+3. [时间箭头理论 [维度: 1.3]](formal_theory_time_arrow.md)
+4. [FLIP操作理论 [维度: 1.3]](formal_theory_flip_operation.md)
+5. [SHIFT状态演化理论 [维度: 1.3]](formal_theory_shift_state_evolution.md)
 
 ### 5.2 维度归属
 

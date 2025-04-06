@@ -1,4 +1,4 @@
-# 量子SHIFT纠缠网络理论 [维度: 6] v36.0
+# 量子SHIFT纠缠网络理论 [维度: 6.0] v36.0
 
 **[中文版] | [English Version](formal_theory_quantum_shift_entanglement_network_en.md)**
 
@@ -254,12 +254,12 @@ $`\frac{d\sigma^2(t)}{dt} = \frac{2\alpha}{|E|}\sum_{(i,j) \in E}(\omega(i,j,t) 
 ## 6. 理论引用关系
 
 本理论依赖于：
-- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
-- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 4]
-- [多维SHIFT变换理论](formal_theory_multidimensional_shift_transformation.md) [维度: 5]
-- [量子XOR纠缠对称性理论](formal_theory_quantum_xor_entanglement_symmetry.md) [维度: 5]
-- [基于XOR的信息压缩理论](formal_theory_xor_based_information_compression.md) [维度: 5]
+- [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 6.0]
+- [量子递归测量理论](formal_theory_quantum_recursive_measurement.md) [维度: 6.0]
+- [多维SHIFT变换理论](formal_theory_multidimensional_shift_transformation.md) [维度: 6.0]
+- [量子XOR纠缠对称性理论](formal_theory_quantum_xor_entanglement_symmetry.md) [维度: 6.0]
+- [基于XOR的信息压缩理论](formal_theory_xor_based_information_compression.md) [维度: 6.0]
 
 本理论被以下理论引用：
-- [多维量子意识网络理论](formal_theory_multidimensional_quantum_consciousness_network.md) [维度: 7]
-- [量子网络集体计算理论](formal_theory_quantum_network_collective_computation.md) [维度: 7] 
+- [多维量子意识网络理论](formal_theory_multidimensional_quantum_consciousness_network.md) [维度: 6.0]
+- [量子网络集体计算理论](formal_theory_quantum_network_collective_computation.md) [维度: 6.0] 

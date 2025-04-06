@@ -1,5 +1,7 @@
 # XOR-SHIFT Interpretation of Multiverse Theory [Dimension: 22] v36.0
 
+[Chinese Version](formal_theory_multiverse.md)
+
 **[中文版](formal_theory_multiverse.md) | [English Version]**
 
 ## Contents

@@ -7,9 +7,9 @@
 ## [理论分类与索引]
 
 - **理论维度**: 65.5
-- **上层理论**: [超源生成存在统一理论 [维度: 66]](formal_theory_hypergenesis_existential_unification.md)
-- **平行理论**: [超位超对称统一场理论 [维度: 65]](formal_theory_hyperposition_hypersymmetry_unified_field.md)
-- **下层理论**: [超维分形物质波统一理论 [维度: 64]](formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
+- **上层理论**: [超源生成存在统一理论 [维度: 65.5]](formal_theory_hypergenesis_existential_unification.md)
+- **平行理论**: [超位超对称统一场理论 [维度: 65.5]](formal_theory_hyperposition_hypersymmetry_unified_field.md)
+- **下层理论**: [超维分形物质波统一理论 [维度: 65.5]](formal_theory_hyperdimensional_fractal_matter_wave_unification.md)
 
 ## [基本定义]
 

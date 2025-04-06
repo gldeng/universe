@@ -1,5 +1,7 @@
 # Formal Theory of Unified Physics [Dimension: 10] v36.0
 
+[Chinese Version](formal_theory_unified_physics.md)
+
 **[中文版](formal_theory_unified_physics.md) | [English Version]**
 
 ## Table of Contents

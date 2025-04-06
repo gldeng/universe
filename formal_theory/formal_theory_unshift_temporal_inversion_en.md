@@ -1,5 +1,7 @@
 # Strict Formalization of UNSHIFT Temporal Inversion Theory [Dimension: 1.3] v36.0
 
+[Chinese Version](formal_theory_unshift_temporal_inversion.md)
+
 **[English Version] | [中文版](formal_theory_unshift_temporal_inversion.md)**
 
 ## Table of Contents

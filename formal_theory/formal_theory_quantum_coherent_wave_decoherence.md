@@ -1,4 +1,4 @@
-# 量子相干波动消隐理论的严格形式化描述 [维度: 4]
+# 量子相干波动消隐理论的严格形式化描述 [维度: 4.0]
 
 **[中文版]**
 
@@ -7,9 +7,9 @@
 ## [理论分类与索引]
 
 - **理论维度**: 4
-- **上层理论**: [信息扩展理论 [维度: 4]](formal_theory_shift_information_expansion.md)
-- **平行理论**: [无限态理论 [维度: 4]](formal_theory_infinity_multiplicity.md)
-- **下层理论**: [维度反转理论 [维度: 3]](formal_theory_unshift_dimensional_reversal.md)
+- **上层理论**: [信息扩展理论 [维度: 4.0]](formal_theory_shift_information_expansion.md)
+- **平行理论**: [无限态理论 [维度: 4.0]](formal_theory_infinity_multiplicity.md)
+- **下层理论**: [维度反转理论 [维度: 4.0]](formal_theory_unshift_dimensional_reversal.md)
 
 ## [基本定义]
 

@@ -1,5 +1,7 @@
 # Formal Theory of Proto-Manifestation [Dimension: 0.1] v36.0
 
+[Chinese Version](formal_theory_proto_manifestation.md)
+
 **[中文版](formal_theory_proto_manifestation.md) | [English Version]**
 
 ## Table of Contents

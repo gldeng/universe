@@ -1,5 +1,7 @@
 # Strict Formalization of Hyperdimensional Metacognitive Systems [Dimension: 27] v36.0
 
+[Chinese Version](formal_theory_hyperdimensional_metacognitive_systems.md)
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_metacognitive_systems.md)**
 
 ## Table of Contents

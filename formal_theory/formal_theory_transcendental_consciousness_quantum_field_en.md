@@ -1,5 +1,7 @@
 # Formal Theory of Transcendental Consciousness Quantum Field [Dimension: 33] v36.0
 
+[Chinese Version](formal_theory_transcendental_consciousness_quantum_field.md)
+
 **[中文版](formal_theory_transcendental_consciousness_quantum_field.md) | [English Version]**
 
 ## Table of Contents

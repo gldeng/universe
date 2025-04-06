@@ -1,4 +1,4 @@
-# 宇宙意识网络理论的严格形式化描述 [维度: 24] v36.0
+# 宇宙意识网络理论的严格形式化描述 [维度: 24.0] v36.0
 
 **[中文版] | [English Version](formal_theory_cosmic_consciousness_network_en.md)**
 
@@ -548,23 +548,23 @@ $`\mathcal{T}_{ij}(t) = \mathcal{T}_{ji}(-t) \oplus \text{SHIFT}(\mathcal{T}_{ij
 
 本理论基于以下宇宙本论理论构建：
 
-1. **[生物系统复杂性理论](formal_theory_biological_complexity.md)** [维度: 23]
+1. **[生物系统复杂性理论](formal_theory_biological_complexity.md)** [维度: 24.0]
    - 提供生物意识基础模型
    - 借用复杂自适应系统原理
 
-2. **[物理学统一理论](formal_theory_physics_unification.md)** [维度: 22]
+2. **[物理学统一理论](formal_theory_physics_unification.md)** [维度: 24.0]
    - 提供物质-意识场耦合框架
    - 借用量子纠缠与非局部性概念
 
-3. **[语言结构理论](formal_theory_language_structure.md)** [维度: 21]
+3. **[语言结构理论](formal_theory_language_structure.md)** [维度: 24.0]
    - 提供符号表征和意义处理模型
    - 借用语义网络结构
 
-4. **[社会系统动力学](formal_theory_social_system_dynamics.md)** [维度: 20]
+4. **[社会系统动力学](formal_theory_social_system_dynamics.md)** [维度: 24.0]
    - 提供集体意识涌现模型
    - 借用网络动力学与自组织概念
 
-5. **[经济学基础理论](formal_theory_economics_foundation.md)** [维度: 19]
+5. **[经济学基础理论](formal_theory_economics_foundation.md)** [维度: 24.0]
    - 提供资源分配与网络优化模型
    - 借用效用最大化原则
 

@@ -1,4 +1,4 @@
-# 数学系统理论的严格形式化描述 [维度: 17] v36.0
+# 数学系统理论的严格形式化描述 [维度: 17.0] v36.0
 
 **[中文版] | [English Version](formal_theory_mathematical_systems_en.md)**
 
@@ -600,18 +600,18 @@ $`T \in \mathcal{M} \implies \exists T' \in \mathcal{M}_{future}: T \oplus T' = 
 
 本理论直接依赖以下理论：
 
-1. [宇宙本论 [维度: 10]](formal_theory_cosmic_ontology.md) - 提供基本的XOR-SHIFT操作框架
-2. [信息本体论 [维度: 6]](formal_theory_information_ontology.md) - 提供信息表达方法
-3. [数学理论 [维度: 15]](formal_theory_mathematics.md) - 提供基础数学形式化
-4. [数学基础理论 [维度: 16]](formal_theory_mathematics_foundation.md) - 提供系统化的数学基础
+1. [宇宙本论 [维度: 17.0]](formal_theory_cosmic_ontology.md) - 提供基本的XOR-SHIFT操作框架
+2. [信息本体论 [维度: 17.0]](formal_theory_information_ontology.md) - 提供信息表达方法
+3. [数学理论 [维度: 17.0]](formal_theory_mathematics.md) - 提供基础数学形式化
+4. [数学基础理论 [维度: 17.0]](formal_theory_mathematics_foundation.md) - 提供系统化的数学基础
 
 ### 7.2 理论贡献与谱系位置
 
 本理论在维度谱系中的位置：
 
 - 维度：17（第17维度）
-- 下层理论：[数学基础理论 [维度: 16]](formal_theory_mathematics_foundation.md)
-- 上层理论：[超越数学理论 [维度: 18]](formal_theory_transcendental_mathematics.md)
+- 下层理论：[数学基础理论 [维度: 17.0]](formal_theory_mathematics_foundation.md)
+- 上层理论：[超越数学理论 [维度: 17.0]](formal_theory_transcendental_mathematics.md)
 
 本理论的主要贡献：
 

@@ -1,4 +1,4 @@
-# 多重观察者协同网络的严格形式化描述 [维度: 12] v36.0
+# 多重观察者协同网络的严格形式化描述 [维度: 12.0] v36.0
 
 **[中文版] | [English Version](formal_theory_multi_observer_coordination_network_en.md)**
 
@@ -430,10 +430,10 @@ $`= 0`$
 
 本理论建立在以下宇宙本论体系中的理论基础之上：
 
-1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 10] - 提供XOR-SHIFT基本公理系统
-2. **[量子认知计算理论](formal_theory_quantum_cognitive_computation.md)** [维度: 8] - 提供观察者量子认知模型
-3. **[复杂自适应系统理论](formal_theory_complex_adaptive_systems.md)** [维度: 7] - 提供网络动力学框架
-4. **[超递归自修改系统理论](formal_theory_hyperrecursive_self_modification_system.md)** [维度: 11] - 提供超递归观察者结构
+1. **[宇宙本论](formal_theory_cosmic_ontology.md)** [维度: 12.0] - 提供XOR-SHIFT基本公理系统
+2. **[量子认知计算理论](formal_theory_quantum_cognitive_computation.md)** [维度: 12.0] - 提供观察者量子认知模型
+3. **[复杂自适应系统理论](formal_theory_complex_adaptive_systems.md)** [维度: 12.0] - 提供网络动力学框架
+4. **[超递归自修改系统理论](formal_theory_hyperrecursive_self_modification_system.md)** [维度: 12.0] - 提供超递归观察者结构
 
 本理论在此基础上，通过XOR-SHIFT操作框架，建立了多重观察者的协同网络模型。
 

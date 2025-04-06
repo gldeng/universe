@@ -251,11 +251,11 @@ $`\|\mathcal{R}_p(I) - \pi\| = \|\pi + \text{UNSHIFT}(\eta) - \pi\| = \|\text{UN
 
 UNSHIFT模式识别理论依赖于以下更基础的理论：
 
-1. [宇宙本论的严格形式化描述 [维度: 10]](formal_theory_cosmic_ontology.md)
-2. [UNSHIFT基本映射理论 [维度: 1.1]](formal_theory_unshift_basic_mapping.md)
-3. [UNSHIFT时间反演理论 [维度: 1.3]](formal_theory_unshift_temporal_inversion.md)
-4. [信息结构理论 [维度: 3]](formal_theory_information_structure.md)
-5. [模式形成理论 [维度: 3]](formal_theory_pattern_formation.md)
+1. [宇宙本论的严格形式化描述 [维度: 1.5]](formal_theory_cosmic_ontology.md)
+2. [UNSHIFT基本映射理论 [维度: 1.5]](formal_theory_unshift_basic_mapping.md)
+3. [UNSHIFT时间反演理论 [维度: 1.5]](formal_theory_unshift_temporal_inversion.md)
+4. [信息结构理论 [维度: 1.5]](formal_theory_information_structure.md)
+5. [模式形成理论 [维度: 1.5]](formal_theory_pattern_formation.md)
 
 ### 5.2 维度归属
 

@@ -1,5 +1,7 @@
 # Strict Formalization of Dimensional Harmony Theory [Dimension: 18] v36.0
 
+[Chinese Version](formal_theory_dimensional_harmony.md)
+
 **[中文版](formal_theory_dimensional_harmony.md) | [English Version]**
 
 ## Table of Contents

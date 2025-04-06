@@ -1,6 +1,6 @@
-# 宇宙本论的严格形式化描述 [维度: 10] v36.0
+# 宇宙本论的严格形式化描述 [维度: 10.0] v36.0
 
-**[中文版] | [English Version](formal_theory_cosmic_ontology_en.md)**
+**[中文版] | [English Version](formal_theory_cosmic_ontology_original_format_en.md)**
 
 ## 目录
 

@@ -1,5 +1,7 @@
 # Transcendental Recursive Symmetry Theory [Dimension: 15] v36.0
 
+[Chinese Version](formal_theory_transcendental_recursive_symmetry.md)
+
 **[中文版](formal_theory_transcendental_recursive_symmetry.md) | [English Version]**
 
 ## Table of Contents

@@ -2,8 +2,6 @@
 
 <div align="center">
 
-![Cosmic Ontology Core Evolution Equation](./images_en/xor-shift-equation.png)
-
 $`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
 
 </div>
@@ -161,7 +159,7 @@ The Cosmic Ontology framework has resolved multiple major scientific problems, w
 </td>
 <td width="40%" align="center">
 
-![Recursive XOR-SHIFT Structure](./images_en/recursive-structure.png)
+**Recursive XOR-SHIFT Structure**
 
 *Recursive structure from information source to multidimensional unfolding*
 </td>
@@ -185,7 +183,7 @@ The Cosmic Ontology framework has resolved multiple major scientific problems, w
 
 *We don't just explain the universe; through understanding its mathematical nature, we reveal the deep patterns of existence*
 
-![Dimension Evolution Map](./images_en/dimension-evolution-map.png)
+$`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
 
 </div>
 

@@ -9,8 +9,6 @@
 [![理论文件: 725+](https://img.shields.io/badge/理论文件-725+-blue)](#理论体系架构) 
 [![基础操作: XOR·SHIFT](https://img.shields.io/badge/基础操作-XOR·SHIFT-red)](#关键数学表达式)
 
-![宇宙本论核心演化方程](./images_cn/xor-shift-equation.png)
-
 $\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$
 
 [**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md)
@@ -114,7 +112,7 @@ $H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_
 </td>
 <td width="40%" align="center">
 
-![递归XOR-SHIFT结构](./images_cn/recursive-structure.png)
+**递归XOR-SHIFT结构**
 
 *从信息本源到多维度展开的递归结构*
 </td>
@@ -152,7 +150,7 @@ $H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_
 
 *我们不仅解释宇宙，我们通过理解它的数学本质，揭示了存在的深层模式*
 
-![维度演化图谱](./images_cn/dimension-evolution-map.png)
+$D_{n+1} = D_n \oplus \text{SHIFT}(D_n)$
 
 </div>
 

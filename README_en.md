@@ -119,7 +119,7 @@ $$\boxed{\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})}$$
 $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
 
 ### Information Entropy Definition (Reformulating 2nd Law of Thermodynamics)
-$$\boxed{H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}}}$$
+$$\boxed{H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}}$$
 
 </td>
 <td width="40%" align="center">

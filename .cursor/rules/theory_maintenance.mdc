@@ -1,1 +1,6 @@
- 
+---
+description: 理论体系自动维护
+globs: formal_theory/*
+alwaysApply: false
+---
+此规则用于自动维护整个理论体系的一致性，确保所有理论文件都符合格式要求并且保持同步。

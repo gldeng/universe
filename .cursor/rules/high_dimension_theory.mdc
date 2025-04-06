@@ -1,1 +1,6 @@
- 
+---
+description: 创建高维度理论
+globs: 
+alwaysApply: false
+---
+用于创建D25及以上的高维度理论文件。高维度理论需要集成多个低维度理论的概念。

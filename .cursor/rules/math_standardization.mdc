@@ -1,1 +1,6 @@
- 
+---
+description: 数学表达标准化
+globs: formal_theory/*.md
+alwaysApply: false
+---
+此规则用于标准化形式化理论中的数学表达，确保所有数学公式和符号使用一致的格式。

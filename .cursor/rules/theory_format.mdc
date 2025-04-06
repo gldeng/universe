@@ -1,1 +1,6 @@
- 
+---
+description: 理论内容标准格式
+globs: formal_theory/formal_theory_*.md
+alwaysApply: false
+---
+此规则定义形式化理论文件的标准结构和格式要求，确保所有理论文件保持一致的组织方式。

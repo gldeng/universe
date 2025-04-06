@@ -1,1 +1,6 @@
- 
+---
+description: 索引页面优化
+globs: formal_theory.md,formal_theory_en.md
+alwaysApply: false
+---
+此规则用于优化形式化理论的索引页面，确保索引的完整性、一致性和可读性。

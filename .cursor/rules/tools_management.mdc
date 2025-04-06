@@ -1,1 +1,6 @@
- 
+---
+description: 维护工具管理
+globs: tools/*.py
+alwaysApply: false
+---
+此规则用于指导理论体系维护工具的开发、改进和管理，确保所有工具高效运行且符合项目需求。

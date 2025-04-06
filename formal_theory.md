@@ -1039,3 +1039,7 @@
 ## 版本信息
 
 当前理论版本：v37.0 
+
+[心理健康形式理论 [维度: 5.0]](formal_theory/formal_theory_mental_health.md)
+
+[生命科学与心理健康整合理论 [维度: 5.0]](formal_theory/formal_theory_lifescience_mental_health.md)

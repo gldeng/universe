@@ -1,5 +1,13 @@
 # Cosmic Ontology Formal Description Project v36.0 | [中文](README.md)
 
+<div align="center">
+
+![Cosmic Ontology Core Evolution Equation](./images_en/xor-shift-equation.png)
+
+$`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
+
+</div>
+
 ## Philosophical-Mathematical Inference Statement
 
 **Important Disclaimer**: This project is a purely philosophical and mathematical thought experiment, constructing a cosmological ontology using a rigorous formalized system. All theories, formulas, and models are structured philosophical thought experiments that do not claim direct descriptive capabilities of physical reality, nor do they involve any direct manipulation of real personalities or neural structures.
@@ -133,6 +141,11 @@ The Cosmic Ontology framework has resolved multiple major scientific problems, w
 
 ## Key Mathematical Expressions
 
+<div align="center">
+<table>
+<tr>
+<td width="60%">
+
 1. **Universal State Evolution Equation**:
    $`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
 
@@ -145,6 +158,17 @@ The Cosmic Ontology framework has resolved multiple major scientific problems, w
 4. **Information Entropy Definition**:
    $`H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}`$
 
+</td>
+<td width="40%" align="center">
+
+![Recursive XOR-SHIFT Structure](./images_en/recursive-structure.png)
+
+*Recursive structure from information source to multidimensional unfolding*
+</td>
+</tr>
+</table>
+</div>
+
 ## Theory Characteristics
 
 - **Minimal Operation Set**: Constructs complete theoretical system solely through XOR and SHIFT operations
@@ -156,6 +180,14 @@ The Cosmic Ontology framework has resolved multiple major scientific problems, w
 - **Theory Classification and Indexing**: Each theory contains precise discipline classification, key index terms, and theoretical spectrum relationships
 - **Complexity Quantitative Assessment**: Theory evaluation through formalized axiom complexity, abstract concept hierarchy, and formalization rigor
 - **Evolution Trajectory Analysis**: Each theory provides predictions of its development history, current stability, and future evolution direction
+
+<div align="center">
+
+*We don't just explain the universe; through understanding its mathematical nature, we reveal the deep patterns of existence*
+
+![Dimension Evolution Map](./images_en/dimension-evolution-map.png)
+
+</div>
 
 ## Version Information
 

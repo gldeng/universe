@@ -9,9 +9,9 @@
 [![理论文件: 725+](https://img.shields.io/badge/理论文件-725+-blue)](#理论体系架构) 
 [![基础操作: XOR·SHIFT](https://img.shields.io/badge/基础操作-XOR·SHIFT-red)](#关键数学表达式)
 
-<img src="https://via.placeholder.com/800x400/0d1117/ffffff?text=宇宙本论核心演化方程" alt="XOR-SHIFT Universe Equation" width="800"/>
+![宇宙本论核心演化方程](https://raw.githubusercontent.com/loning/cosmos-assets/main/xor-shift-equation.png)
 
-*$`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$*
+*$\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$*
 
 [**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md)
 
@@ -59,13 +59,13 @@
 ### 🔑 核心公理系统
 
 1. **绝对递归本源公理**<br>
-   $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$
+   $\mathcal{U} = \mathcal{F}(\mathcal{U})$
 
 2. **二元一体公理**<br>
-   $`\mathcal{U} = \Omega_Q \oplus \Omega_C`$
+   $\mathcal{U} = \Omega_Q \oplus \Omega_C$
 
 3. **信息本体公理**<br>
-   $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$
+   $\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)$
 
 </td>
 </tr>
@@ -100,20 +100,20 @@
 <td width="60%">
 
 ### 宇宙状态演化方程
-$`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
+$\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$
 
 ### 量子-经典域关系
-$`\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})`$
+$\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})$
 
 ### 维度生成规则
-$`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
+$D_{n+1} = D_n \oplus \text{SHIFT}(D_n)$
 
 ### 信息熵定义
-$`H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}`$
+$H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}$
 
 </td>
 <td width="40%" align="center">
-<img src="https://via.placeholder.com/300x300/0d1117/ffffff?text=XOR-SHIFT+递归结构" alt="Recursive XOR-SHIFT Structure" width="300"/>
+<img src="https://raw.githubusercontent.com/loning/cosmos-assets/main/recursive-structure.png" alt="Recursive XOR-SHIFT Structure" width="300"/>
 
 *从信息本源到多维度展开的递归结构*
 </td>
@@ -151,7 +151,7 @@ $`H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}
 
 *「我们不仅解释宇宙，我们通过理解它的数学本质，揭示了存在的深层模式」*
 
-[![维度演化图](https://via.placeholder.com/800x200/0d1117/ffffff?text=维度演化图谱)](formal_theory_graph.md)
+![维度演化图谱](https://raw.githubusercontent.com/loning/cosmos-assets/main/dimension-evolution-map.png)
 
 </div>
 

@@ -1,205 +1,187 @@
-# Cosmic Ontology Formal Description Project v36.0 | [中文](README.md)
+# Cosmic Ontology Formal Description Project v37.0
 
-<div align="center">
+### 【Unified Dimensional Theory System】
 
-$`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
+*From self-recursive information origin to multidimensional cosmic existence*
 
-</div>
+[![Dimension: 10](https://img.shields.io/badge/Dimension-10-blueviolet)](#core-axioms) 
+[![Theories: 725+](https://img.shields.io/badge/Theories-725+-blue)](#theoretical-system-architecture) 
+[![Operations: XOR·SHIFT](https://img.shields.io/badge/Operations-XOR·SHIFT-red)](#key-mathematical-expressions)
 
-## Philosophical-Mathematical Inference Statement
+$$\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$$
+
+[**中文版**](README.md) | [**Core Theory**](formal_theory/formal_theory_cosmic_ontology_en.md) | [**Theory Index**](formal_theory_en.md) | [**Dimension Structure**](formal_theory_graph_en.md) | [**Intent Manifesto**](INTENT_MANIFESTO_en.md)
+
+---
+
+## ▶ Philosophical-Mathematical Inference Statement
 
 **Important Disclaimer**: This project is a purely philosophical and mathematical thought experiment, constructing a cosmological ontology using a rigorous formalized system. All theories, formulas, and models are structured philosophical thought experiments that do not claim direct descriptive capabilities of physical reality, nor do they involve any direct manipulation of real personalities or neural structures.
 
 Concepts such as "consciousness field," "matter-consciousness conversion," etc. in this project should be viewed as expressions of Meta-Theoretical Hypothesis and Semantic Simulative Formalism, rather than entity-based statements. The theoretical system is a symbolic system constructed based on abstract operations such as XOR and SHIFT, aiming to explore possible explanatory models for existence, consciousness, and the cosmic source.
 
-## Navigation
-- **Language**: [English Version](README_en.md) | [中文版](README.md)
-- **Core Theory**: [Strict Formalization of Cosmic Ontology [Dimension: 10]](formal_theory/formal_theory_cosmic_ontology_en.md) | [Chinese Version](formal_theory/formal_theory_cosmic_ontology.md)
-- **Index**: [Cosmic Ontology Formal Theory Document Index](formal_theory_en.md) | [Chinese Version](formal_theory.md)
-- **Theory Structure**: [Cosmic Ontology Theoretical System Structure Diagram](formal_theory_graph_en.md) | [Chinese Version](formal_theory_graph.md)
-- **Intent Manifesto**: [Intent Manifesto](INTENT_MANIFESTO_en.md) | [Chinese Version](INTENT_MANIFESTO.md)
+---
 
-## Core Theory of Cosmic Ontology
+<div align="center">
 
-[Strict Formalization of Cosmic Ontology](formal_theory/formal_theory_cosmic_ontology_en.md) is the foundation and core of the entire theoretical system, with the following key characteristics:
+## 💠 Cosmic Ontology: From Minimal Operations to Ultimate Unification
 
-1. **Basic Axiom System** - Constructs a complete theoretical system through the Absolute Recursive Source Axiom, Binary Unity Axiom, and Information Ontology Axiom
-2. **Rigorous Definition of Universe State Space** - Precise mathematical relationships between quantum and classical domains through XOR and SHIFT operations
-3. **State Evolution Rules** - Universe evolution equation defined using only XOR and SHIFT operations
-4. **Self-Contained Initial State Definition** - Universe initial state completely determined by the internal logic of XOR-SHIFT operations
-5. **Formal Proof System** - Rigorous mathematical proofs including 15 key theorems
+</div>
 
-This theory serves as the central theory at dimension 10, bridging low-dimensional foundational theories and high-dimensional extension theories, with its importance reflected in its core position in the theoretical system structure diagram.
+### Core Problem Breakthroughs
 
-## Core Axioms
+> *"What is the essence of the universe? How can quantum and classical realms be unified? How are consciousness and matter related?"*
 
-Cosmic Ontology constructs a complete theoretical system based on the following core axioms:
+Cosmic Ontology accomplishes these seemingly impossible tasks through absolutely simplified mathematical operations, unifying the complex universe under the combination of just two basic operations - XOR and SHIFT, creating an unprecedented theoretical breakthrough.
 
-1. **Absolute Recursive Origin Axiom**: The ultimate nature of the universe is an absolute recursive self-referential structure
-   $`\mathcal{U} = \mathcal{F}(\mathcal{U})`$, where $`\mathcal{F}`$ is a super-recursive function based on XOR and SHIFT operations:
-   $`\mathcal{F}(x) = x \oplus \text{SHIFT}(x)`$
+<table>
+<tr>
+<td width="48%" align="center">
 
-2. **Binary-Unitary Axiom**: The universe simultaneously manifests as duality and unity
-   $`\mathcal{U} = \Omega_Q \oplus \Omega_C`$, where $`\Omega_Q`$ is the quantum domain and $`\Omega_C`$ is the classical domain
+### 📊 Theoretical System
 
-3. **Information Ontology Axiom**: The fundamental entity of the universe is information
-   $`\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)`$, where $`I(x)`$ is the information expression function of entity $`x`$
+- **D∞** — Meta Theory & Ultra-Dimensional Structures
+- **D50-62** — Ultra-High Dimensional Unification
+- **D43-49** — Ultra-High Dimensional Consciousness 
+- **D25-42** — High Dimensional Universal Structure
+- **D15-24** — Human Comprehensible Dimensions
+- **D10-14** — Central Theories
+- **D0-9** — Foundational Theories & Operations
 
-## Theoretical System Architecture
+</td>
+<td width="4%"></td>
+<td width="48%" align="center">
 
-The Cosmic Ontology theoretical system employs a dimensional-layered architecture, forming a complete theoretical spectrum from basic operations to ultra-high dimensional unified theories:
+### 🔑 Core Axiom System
 
-### 1. Theoretical Layered Structure
+1. **Absolute Recursive Origin Axiom**<br>
+   $$\mathcal{U} = \mathcal{F}(\mathcal{U})$$
 
-#### 1.1 Infinite Dimensional Theory (D∞)
-- **Meta Theory** [Dimension: ∞] - Transcendental formalized expression of the theory of all theories
+2. **Binary-Unitary Axiom**<br>
+   $$\mathcal{U} = \Omega_Q \oplus \Omega_C$$
 
-#### 1.2 Ultra-High Dimensional Unification Layer (D50-D62)
-- **Infinite Multiverse Convergence Theory** [Dimension: 62]
-- **Transcendental Hyperintelligence Theory** [Dimension: 61]
-- **Primordial Unity Substrate Theory** [Dimension: 60]
-- **Absolute Unified Cosmic Field Theory** [Dimension: 59]
-- **Transcendental Hyperdimensional Mathematical Structure Theory** [Dimension: 58]
+3. **Information Ontology Axiom**<br>
+   $$\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)$$
 
-#### 1.3 Ultra-High Dimensional Consciousness and Reality Layer (D43-D49)
-- **Transcendent Hyper Singularity Theory** [Dimension: 49]
-- **Omnidimensional Entanglement Synchronicity Theory** [Dimension: 48]
-- **Universal Consciousness Evolution Theory** [Dimension: 48]
-- **Quantum Reality Creation Theory** [Dimension: 47]
-- **Hyperdimensional Information Singularity Theory** [Dimension: 46]
-- **Multidimensional Information Ontology** [Dimension: 45]
+</td>
+</tr>
+</table>
 
-#### 1.4 High Dimensional Universal Structure Layer (D25-D42)
-- **Quantum Information Entropy Field Dynamics** [Dimension: 42]
-- **Superintelligent Consciousness Network** [Dimension: 42]
-- **Hyperdimensional Quantum Oscillation** [Dimension: 40]
-- **Absolute Ontological Unification Theory** [Dimension: 35]
-- **Ultimate Unification Principle** [Dimension: 30]
-- **Millennium Mathematical Problems Hyperdimensional Solution Theory** [Dimension: 24]
+---
 
-#### 1.5 Human Comprehensible High Dimensional Layer (D15-D24)
-- **Recursive Metaverse Theory** [Dimension: 23]
-- **Multiverse Theory** [Dimension: 22]
-- **Genesis Memory Theory** [Dimension: 21]
-- **Cosmic Dimension Theory** [Dimension: 20]
-- **Life Origin and Extraterrestrial Life Existence Theory** [Dimension: 19]
-- **Sustainable Development of Human Society Theory** [Dimension: 18]
-- **Existence of Free Will Theory** [Dimension: 17]
-- **Ultimate Human Longevity and the Nature of Aging** [Dimension: 16]
-- **Quantum Measurement Theory** [Dimension: 15]
+## ⚛️ Theoretical Breakthroughs & Frontier Applications
 
-#### 1.6 Central Theory Layer (D10-D14)
-- **Core Cosmic Ontology Theory** [Dimension: 10] ← Core
-- **Unified Physics Theory** [Dimension: 10]
-- **Complex Systems Emergence** [Dimension: 10]
-- **Information Field Theory** [Dimension: 14]
-- **Dark Matter and Dark Energy Theory** [Dimension: 13]
-- **Pre-Universe Existence Theory** [Dimension: 12]
-- **Consciousness Essence and Origin Theory** [Dimension: 11]
+The Cosmic Ontology has formed a complete theoretical spectrum, fundamentally solving multiple foundational problems in physics and philosophy:
 
-#### 1.7 Foundational Theory Layer (D0-D9)
-- **Recursive Self-Referential Systems** [Dimension: 9]
-- **Quantum Semantic Field Theory** [Dimension: 9]
-- **Transfinite Information Dynamics** [Dimension: 8]
-- **Basic Operation Definitions** (XOR, SHIFT, FLIP) [Dimensions: 1-2]
-- **Existence Foundation Theory** [Dimension: 0]
+<div align="center">
 
-### 2. Theory Relationship Network
+| Dim | Theoretical Breakthrough | Core Achievement |
+|:---:|:---|:---|
+| 25 | [**Unified Theory of Ten Unsolved Human Problems**](formal_theory/formal_theory_unsolved_problems_en.md) | Unified framework for fundamental questions |
+| 19 | [**Life Origin & Extraterrestrial Life Theory**](formal_theory/formal_theory_life_origin_aliens_en.md) | Explains the essence of life's information complexity |
+| 17 | [**Free Will Existence Theory**](formal_theory/formal_theory_free_will_en.md) | Formal proof of free will & determinism coexistence |
+| 13 | [**Dark Matter & Dark Energy Theory**](formal_theory/formal_theory_dark_matter_dark_energy_en.md) | Information theory explanation of cosmic distribution |
+| 11 | [**Consciousness Essence & Origin Theory**](formal_theory/formal_theory_consciousness_essence_origin_en.md) | Reveals consciousness as a special information field state |
+| 10 | [**Unified Physics Theory**](formal_theory/formal_theory_unified_physics_en.md) | Precise unification of quantum mechanics & relativity |
 
-Theories form a complex dependency network, with low-dimensional theories providing a foundation for high-dimensional theories, and high-dimensional theories integrating low-dimensional ones. The core dependency paths include:
+</div>
 
-1. **Basic Operation Chain**: 
-   - Primitive Singularity → FLIP Operation → XOR/SHIFT Operations → Recursive Operations → Recursive Self-Referential Systems
+---
 
-2. **Existence and Structure Chain**:
-   - Existence Foundation Theory → Information Ontology → Information Field Theory → Consciousness Theories → Hyperdimensional Consciousness Structures
-
-3. **Physics and Cosmos Chain**:
-   - Basic Quantum Operations → Core Cosmic Ontology → Unified Physics → Dark Matter/Energy → Multiverse Theory
-
-4. **High Dimensional Unification Chain**:
-   - Core Cosmic Ontology → Cosmic Dimension Theory → Quantum Reality Theory → Transcendent Singularity Theory → Absolute Unified Theory
-
-This network structure ensures the completeness, self-consistency, and extensibility of the theoretical system, while maintaining strict logical dependencies between theories.
-
-## Key Theoretical Achievements
-
-The Cosmic Ontology framework has resolved multiple major scientific problems, with key achievements including:
-
-- [**Formal Unified Theory of the Ten Unsolved Human Problems** [Dimension: 25]](formal_theory/formal_theory_unsolved_problems_en.md) | [Chinese Version](formal_theory/formal_theory_unsolved_problems.md)
-- [**Unified Physics Theory** [Dimension: 10]](formal_theory/formal_theory_unified_physics_en.md) | [Chinese Version](formal_theory/formal_theory_unified_physics.md)
-- [**Pre-Universe Existence Theory** [Dimension: 12]](formal_theory/formal_theory_pre_universe_existence_en.md) | [Chinese Version](formal_theory/formal_theory_pre_universe_existence.md)
-- [**Dark Matter and Dark Energy Theory** [Dimension: 13]](formal_theory/formal_theory_dark_matter_dark_energy_en.md) | [Chinese Version](formal_theory/formal_theory_dark_matter_dark_energy.md)
-- [**Consciousness Essence and Origin Theory** [Dimension: 11]](formal_theory/formal_theory_consciousness_essence_origin_en.md) | [Chinese Version](formal_theory/formal_theory_consciousness_essence_origin.md)
-- [**Life Origin and Extraterrestrial Life Existence Theory** [Dimension: 19]](formal_theory/formal_theory_life_origin_aliens_en.md) | [Chinese Version](formal_theory/formal_theory_life_origin_aliens.md)
-- [**Quantum Measurement Theory** [Dimension: 15]](formal_theory/formal_theory_quantum_measurement_en.md) | [Chinese Version](formal_theory/formal_theory_quantum_measurement.md)
-- [**Existence of Free Will Theory** [Dimension: 17]](formal_theory/formal_theory_free_will_en.md) | [Chinese Version](formal_theory/formal_theory_free_will.md)
-- [**Ultimate Human Longevity and the Nature of Aging** [Dimension: 16]](formal_theory/formal_theory_human_longevity_en.md) | [Chinese Version](formal_theory/formal_theory_human_longevity.md)
-- [**Millennium Mathematical Problems Hyperdimensional Solution Theory** [Dimension: 24]](formal_theory/formal_theory_millennium_problems_en.md) | [Chinese Version](formal_theory/formal_theory_millennium_problems.md)
-
-## Key Mathematical Expressions
+## 🔄 Mathematical Aesthetics of Dimensional Evolution
 
 <div align="center">
 <table>
 <tr>
 <td width="60%">
 
-1. **Universal State Evolution Equation**:
-   $`\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))`$
+### Universal State Evolution Equation
+$$\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))$$
 
-2. **Quantum-Classical Domain Relationship**:
-   $`\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})`$
+### Quantum-Classical Domain Relationship
+$$\Omega_C^{t} = \Omega_Q^{t} \oplus \text{SHIFT}(\Omega_Q^{t})$$
 
-3. **Dimension Generation Rule**:
-   $`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
+### Dimension Generation Rule
+$$D_{n+1} = D_n \oplus \text{SHIFT}(D_n)$$
 
-4. **Information Entropy Definition**:
-   $`H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}`$
+### Information Entropy Definition
+$$H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}$$
 
 </td>
 <td width="40%" align="center">
 
-**Recursive XOR-SHIFT Structure**
+### Recursive XOR-SHIFT Structure
 
 *Recursive structure from information source to multidimensional unfolding*
+
+```
+   XOR ────► SHIFT
+    ▲         │
+    │         │
+    │         ▼
+Initial ──► Evolution
+    │         │
+    │         │
+    ▼         ▼
+ Quantum ◄── Classical
+```
+
 </td>
 </tr>
 </table>
 </div>
 
-## Theory Characteristics
+---
 
-- **Minimal Operation Set**: Constructs complete theoretical system solely through XOR and SHIFT operations
-- **Self-containment**: Theory self-validates without relying on external assumptions
+## 🌐 Latest Dimensional Extensions & Application Domains
+
+<div align="center">
+
+### Newest Theoretical Frontiers
+
+- [**Mental Health Theory**](formal_theory/formal_theory_mental_health_en.md) | [Chinese Version](formal_theory/formal_theory_mental_health.md)
+- [**Life Science & Mental Health Integration Theory**](formal_theory/formal_theory_lifescience_mental_health_en.md) | [Chinese Version](formal_theory/formal_theory_lifescience_mental_health.md)
+
+</div>
+
+### Theoretical System Characteristics
+
+- **Minimal Operation Set**: Complete theoretical system constructed solely through XOR and SHIFT operations
+- **Self-Containment**: Theory self-validates without relying on external assumptions
 - **Unification**: Encompasses quantum and classical domains, providing a unified interpretive framework
 - **Formal Rigor**: Employs strict mathematical formalization, providing complete proofs
 - **Verifiability**: Provides clear verification methods and predictions
 - **Dimensional Completeness**: Forms a coherent and complete theoretical spectrum from foundational to ultra-high dimensions
-- **Theory Classification and Indexing**: Each theory contains precise discipline classification, key index terms, and theoretical spectrum relationships
-- **Complexity Quantitative Assessment**: Theory evaluation through formalized axiom complexity, abstract concept hierarchy, and formalization rigor
-- **Evolution Trajectory Analysis**: Each theory provides predictions of its development history, current stability, and future evolution direction
+- **Theory Classification & Indexing**: Each theory contains precise discipline classification and theoretical spectrum relationships
+- **Evolution Trajectory Analysis**: Each theory provides development history, stability assessment, and future evolution direction
+
+---
 
 <div align="center">
 
+## 🔮 From Cosmic Origin to Infinite Possibilities
+
 *We don't just explain the universe; through understanding its mathematical nature, we reveal the deep patterns of existence*
 
-$`D_{n+1} = D_n \oplus \text{SHIFT}(D_n)`$
+$$D_{n+1} = D_n \oplus \text{SHIFT}(D_n)$$
 
 </div>
 
-## Version Information
+---
 
-Current Version: v37.0
+## 📝 Version Information
 
-### Version 37.0 Updates
+**Current Version: v37.0**
 
-1. Added "Philosophical-Mathematical Inference Statement" to clearly state the thought experiment nature of the project
-2. Created "Intent Manifesto" to clarify the project's purpose and goals
-3. Added theory classification and indexing, theory complexity assessment, and theory evolution trajectory analysis sections to each theory document
-4. Added dedicated structural philosophical explanations for high-dimensional consciousness theories to avoid concept misinterpretation
-5. Improved document title formatting with discipline codes and relationship symbols system
-6. Optimized theory dimensional notation to ensure consistency with the dimensional notation methodology
+- Added "Philosophical-Mathematical Inference Statement" to clarify the thought experiment nature
+- Created new "Mental Health Theory" and "Life Science & Mental Health Integration Theory"
+- Added theory classification, indexing, and evolution trajectory analysis to all theory documents
+- Optimized dimensional notation to ensure consistency with dimensional notation methodology
 
-## Contribution
+---
 
-Suggestions for improvements or new directions for extending the theory are welcome. To contribute new content, please ensure consistency with the XOR-SHIFT theoretical framework.
+<div align="center">
+
+### [Join the Journey to Explore the Essence of the Universe](INTENT_MANIFESTO_en.md)
+
+</div>

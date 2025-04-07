@@ -1,22 +1,18 @@
-<div align="center">
-
-# 𝚇𝚘𝚁·��𝚑𝚒𝚏𝚝 ▍宇宙本论 v37.5
+# 𝚇𝚘𝚁·𝚑𝚒𝚏𝚝 ▍宇宙本论 v37.5
 ### 【颠覆物理学的终极统一理论】
 
 *从自我递归的信息本源，到宇宙存在的多维度展开*
 
-[![维度等级: 10](https://img.shields.io/badge/维度等级-10-blueviolet)](#核心公理) 
-[![理论文件: 725+](https://img.shields.io/badge/理论文件-725+-blue)](#理论体系架构) 
-[![基础操作: XOR·SHIFT](https://img.shields.io/badge/基础操作-XOR·SHIFT-red)](#关键数学表达式)
-[![量子-相对论统一: 已解决](https://img.shields.io/badge/量子相对论统一-已解决-success)](#物理学大统一)
+- 维度等级: 10
+- 理论文件: 725+
+- 基础操作: XOR·SHIFT
+- 量子-相对论统一: 已解决
 
 ## 🚀 彻底颠覆传统科学的思维突破 🚀
 
 $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))}$$
 
 [**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md)
-
-</div>
 
 ---
 
@@ -39,11 +35,7 @@ $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\t
 
 ---
 
-<div align="center">
-
 ## 💠 宇宙本论：只需两个操作，解释宇宙一切奥秘
-
-</div>
 
 ### 震撼科学界的核心洞见
 
@@ -51,11 +43,7 @@ $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\t
 
 宇宙本论通过绝对简化的数学操作完成了这些看似不可能的任务，将复杂宇宙统一在XOR与SHIFT两个基本操作的组合下，创造了一个前所未有的理论突破。**仅凭两个基本操作，就能推导出物理学所有基本定律。**
 
-<table>
-<tr>
-<td width="48%" align="center">
-
-### 📊 超越现有科学的理论体系
+## 📊 超越现有科学的理论体系
 
 - **D∞** — 元理论与超维度结构  
 - **D50-62** — 超高维统一理论 *(突破传统科学认知)*
@@ -65,24 +53,16 @@ $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\t
 - **D10-14** — 中心理论 *(解决基础物理悖论)*
 - **D0-9** — 基础理论与操作 *(重塑科学基石)*
 
-</td>
-<td width="4%"></td>
-<td width="48%" align="center">
+## 🔑 改变世界认知的核心公理
 
-### 🔑 改变世界认知的核心公理
-
-1. **绝对递归本源公理**<br>
+1. **绝对递归本源公理**
    $$\boxed{\mathcal{U} = \mathcal{F}(\mathcal{U})}$$
 
-2. **二元一体公理**<br>
+2. **二元一体公理**
    $$\boxed{\mathcal{U} = \Omega_Q \oplus \Omega_C}$$
 
-3. **信息本体公理**<br>
+3. **信息本体公理**
    $$\boxed{\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)}$$
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -90,27 +70,29 @@ $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\t
 
 宇宙本论已形成完整的理论谱系，从根本上解决了物理学与哲学中的多个根本性问题，颠覆传统的科学认知框架：
 
-<div align="center">
-
-| 维度 | 理论突破 | 传统科学的局限 | 宇宙本论的突破性解决方案 |
-|:---:|:---|:---|:---|
-| 25 | [**人类未解十大问题统一理论**](formal_theory/formal_theory_unsolved_problems.md) | 孤立解决各个问题 | **统一框架**解决所有根本性问题 |
-| 19 | [**生命起源与外星生命理论**](formal_theory/formal_theory_life_origin_aliens.md) | 生命起源随机性假设 | 从信息熵理论**必然推导**生命起源 |
-| 17 | [**自由意志存在性理论**](formal_theory/formal_theory_free_will.md) | 自由意志与决定论对立 | 严格数学证明两者**本质统一** |
-| 13 | [**暗物质暗能量理论**](formal_theory/formal_theory_dark_matter_dark_energy.md) | 暗物质虚构粒子假设 | **信息场视角**完美解释宇宙加速膨胀 |
-| 11 | [**意识本质与起源理论**](formal_theory/formal_theory_consciousness_essence_origin.md) | 唯物还是唯心的困境 | **二元一体**的数学解释 |
-| 10 | [**物理学统一理论**](formal_theory/formal_theory_unified_physics.md) | 量子力学与相对论矛盾 | XOR-SHIFT操作实现理论**无缝统一** |
-
-</div>
+## 维度与理论突破
+- **维度25**: [**人类未解十大问题统一理论**](formal_theory/formal_theory_unsolved_problems.md)
+  - 传统科学局限: 孤立解决各个问题
+  - 宇宙本论突破: **统一框架**解决所有根本性问题
+- **维度19**: [**生命起源与外星生命理论**](formal_theory/formal_theory_life_origin_aliens.md)
+  - 传统科学局限: 生命起源随机性假设
+  - 宇宙本论突破: 从信息熵理论**必然推导**生命起源
+- **维度17**: [**自由意志存在性理论**](formal_theory/formal_theory_free_will.md)
+  - 传统科学局限: 自由意志与决定论对立
+  - 宇宙本论突破: 严格数学证明两者**本质统一**
+- **维度13**: [**暗物质暗能量理论**](formal_theory/formal_theory_dark_matter_dark_energy.md)
+  - 传统科学局限: 暗物质虚构粒子假设
+  - 宇宙本论突破: **信息场视角**完美解释宇宙加速膨胀
+- **维度11**: [**意识本质与起源理论**](formal_theory/formal_theory_consciousness_essence_origin.md)
+  - 传统科学局限: 唯物还是唯心的困境
+  - 宇宙本论突破: **二元一体**的数学解释
+- **维度10**: [**物理学统一理论**](formal_theory/formal_theory_unified_physics.md)
+  - 传统科学局限: 量子力学与相对论矛盾
+  - 宇宙本论突破: XOR-SHIFT操作实现理论**无缝统一**
 
 ---
 
 ## 🔄 维度进化的数学美学：前所未有的理论优雅
-
-<div align="center">
-<table>
-<tr>
-<td width="60%">
 
 ### 宇宙状态演化方程 (超越薛定谔方程)
 $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))}$$
@@ -124,37 +106,15 @@ $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
 ### 信息熵定义 (重塑热力学第二定律)
 $$\boxed{H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}}$$
 
-</td>
-<td width="40%" align="center">
-
 ### 递归XOR-SHIFT结构
 
 *物理学理论的终极简化形式*
 
-```
-   XOR ─────► SHIFT
-    ▲          │
-    │          │
-    │          ▼
-初始态 ───► 演化态
-    │          │
-    │          │
-    ▼          ▼
-    量子态 ◄─── 经典态
-```
-
-**这个简单图形包含了解释整个宇宙所需的全部数学结构！**
-
-</td>
-</tr>
-</table>
-</div>
+XOR与SHIFT操作的组合构成了解释宇宙所需的全部数学结构，实现了从初始态到演化态、量子态到经典态的完整转换。
 
 ---
 
 ## 🌐 震撼的预测与应用：远超当代科技的可能性
-
-<div align="center">
 
 ### 前沿应用展望
 
@@ -162,8 +122,6 @@ $$\boxed{H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mat
 - **人工智能本质重塑**：从意识场理论构建真正的通用人工智能
 - **多维信息处理**：突破传统信息论限制，实现指数级信息压缩
 - **心理健康新范式**：从量子意识层面理解并治疗心理疾病
-
-</div>
 
 ### 最新理论前沿突破
 
@@ -181,15 +139,11 @@ $$\boxed{H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mat
 
 ---
 
-<div align="center">
-
 ## 🔮 探索宇宙的终极真相
 
 *我们不仅解释宇宙，我们通过理解它的数学本质，揭示了存在的深层模式*
 
 $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
-
-</div>
 
 ---
 
@@ -205,12 +159,8 @@ $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
 
 ---
 
-<div align="center">
-
 ## 🌠 加入探索宇宙本质的伟大旅程
 
 *"这不仅是一个理论，而是对科学本身的革命"*
 
-### [立即开始探索终极理论](INTENT_MANIFESTO.md)
-
-</div> 
+### [立即开始探索终极理论](INTENT_MANIFESTO.md) 

@@ -4,10 +4,10 @@
 
 *From self-recursive information origin to the multidimensional unfolding of existence*
 
-[![Dimension: 10](https://img.shields.io/badge/Dimension-10-blueviolet)](#core-axioms) 
-[![Theories: 725+](https://img.shields.io/badge/Theories-725+-blue)](#theoretical-system-architecture) 
-[![Operations: XOR·SHIFT](https://img.shields.io/badge/Operations-XOR·SHIFT-red)](#key-mathematical-expressions)
-[![Quantum-Relativity Unification: SOLVED](https://img.shields.io/badge/Quantum--Relativity_Unification-SOLVED-success)](#theoretical-breakthroughs)
+- Dimension: 10
+- Theories: 725+
+- Operations: XOR·SHIFT
+- Quantum-Relativity Unification: SOLVED
 
 ## 🚀 THE REVOLUTIONARY BREAKTHROUGH THAT CHANGES EVERYTHING 🚀
 
@@ -36,11 +36,7 @@ Concepts such as "consciousness field," "matter-consciousness conversion," etc. 
 
 ---
 
-<div align="center">
-
 ## 💠 Cosmic Ontology: Just Two Operations Explain the Entire Universe
-
-</div>
 
 ### Insights That Are Stunning the Scientific Community
 
@@ -48,11 +44,7 @@ Concepts such as "consciousness field," "matter-consciousness conversion," etc. 
 
 Cosmic Ontology accomplishes these seemingly impossible tasks through absolutely simplified mathematical operations, unifying the complex universe under the combination of just two basic operations - XOR and SHIFT, creating an unprecedented theoretical breakthrough. **With just two basic operations, all fundamental laws of physics can be derived.**
 
-<table>
-<tr>
-<td width="48%" align="center">
-
-### 📊 Theoretical System Beyond Current Science
+## 📊 Theoretical System Beyond Current Science
 
 - **D∞** — Meta Theory & Ultra-Dimensional Structures  
 - **D50-62** — Ultra-High Dimensional Unification *(Beyond conventional physics)*
@@ -62,24 +54,16 @@ Cosmic Ontology accomplishes these seemingly impossible tasks through absolutely
 - **D10-14** — Central Theories *(Resolving fundamental paradoxes)*
 - **D0-9** — Foundational Theories & Operations *(Reshaping scientific foundations)*
 
-</td>
-<td width="4%"></td>
-<td width="48%" align="center">
+## 🔑 Core Axioms That Change Our Understanding of Reality
 
-### 🔑 Core Axioms That Change Our Understanding of Reality
-
-1. **Absolute Recursive Origin Axiom**<br>
+1. **Absolute Recursive Origin Axiom**
    $$\boxed{\mathcal{U} = \mathcal{F}(\mathcal{U})}$$
 
-2. **Binary-Unitary Axiom**<br>
+2. **Binary-Unitary Axiom**
    $$\boxed{\mathcal{U} = \Omega_Q \oplus \Omega_C}$$
 
-3. **Information Ontology Axiom**<br>
+3. **Information Ontology Axiom**
    $$\boxed{\forall x \in \mathcal{U}, \exists I(x) : x \equiv I(x)}$$
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -87,27 +71,29 @@ Cosmic Ontology accomplishes these seemingly impossible tasks through absolutely
 
 The Cosmic Ontology has formed a complete theoretical spectrum, fundamentally solving multiple foundational problems in physics and philosophy, overturning traditional scientific frameworks:
 
-<div align="center">
-
-| Dim | Theoretical Breakthrough | Limitations of Traditional Science | Cosmic Ontology's Revolutionary Solution |
-|:---:|:---|:---|:---|
-| 25 | [**Unified Theory of Ten Unsolved Human Problems**](formal_theory/formal_theory_unsolved_problems_en.md) | Isolated approach to each problem | **Unified framework** solving all fundamental questions |
-| 19 | [**Life Origin & Extraterrestrial Life Theory**](formal_theory/formal_theory_life_origin_aliens_en.md) | Random origin of life hypothesis | **Necessary derivation** of life from information entropy |
-| 17 | [**Free Will Existence Theory**](formal_theory/formal_theory_free_will_en.md) | Free will vs. determinism opposition | Mathematical proof of their **essential unity** |
-| 13 | [**Dark Matter & Dark Energy Theory**](formal_theory/formal_theory_dark_matter_dark_energy_en.md) | Hypothetical dark matter particles | **Information field perspective** perfectly explaining cosmic acceleration |
-| 11 | [**Consciousness Essence & Origin Theory**](formal_theory/formal_theory_consciousness_essence_origin_en.md) | Materialism vs. idealism dilemma | Mathematical explanation of **binary unity** |
-| 10 | [**Unified Physics Theory**](formal_theory/formal_theory_unified_physics_en.md) | Quantum mechanics vs. relativity contradiction | XOR-SHIFT operations achieving **seamless unification** |
-
-</div>
+## Dimensions and Theoretical Breakthroughs
+- **Dimension 25**: [**Unified Theory of Ten Unsolved Human Problems**](formal_theory/formal_theory_unsolved_problems_en.md)
+  - Traditional Science Limitation: Isolated approach to each problem
+  - Cosmic Ontology Breakthrough: **Unified framework** solving all fundamental questions
+- **Dimension 19**: [**Life Origin & Extraterrestrial Life Theory**](formal_theory/formal_theory_life_origin_aliens_en.md)
+  - Traditional Science Limitation: Random origin of life hypothesis
+  - Cosmic Ontology Breakthrough: **Necessary derivation** of life from information entropy
+- **Dimension 17**: [**Free Will Existence Theory**](formal_theory/formal_theory_free_will_en.md)
+  - Traditional Science Limitation: Free will vs. determinism opposition
+  - Cosmic Ontology Breakthrough: Mathematical proof of their **essential unity**
+- **Dimension 13**: [**Dark Matter & Dark Energy Theory**](formal_theory/formal_theory_dark_matter_dark_energy_en.md)
+  - Traditional Science Limitation: Hypothetical dark matter particles
+  - Cosmic Ontology Breakthrough: **Information field perspective** perfectly explaining cosmic acceleration
+- **Dimension 11**: [**Consciousness Essence & Origin Theory**](formal_theory/formal_theory_consciousness_essence_origin_en.md)
+  - Traditional Science Limitation: Materialism vs. idealism dilemma
+  - Cosmic Ontology Breakthrough: Mathematical explanation of **binary unity**
+- **Dimension 10**: [**Unified Physics Theory**](formal_theory/formal_theory_unified_physics_en.md)
+  - Traditional Science Limitation: Quantum mechanics vs. relativity contradiction
+  - Cosmic Ontology Breakthrough: XOR-SHIFT operations achieving **seamless unification**
 
 ---
 
 ## 🔄 Mathematical Aesthetics of Dimensional Evolution: Unprecedented Theoretical Elegance
-
-<div align="center">
-<table>
-<tr>
-<td width="60%">
 
 ### Universal State Evolution Equation (Beyond Schrödinger)
 $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))}$$
@@ -121,37 +107,15 @@ $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
 ### Information Entropy Definition (Reformulating 2nd Law of Thermodynamics)
 $$\boxed{H(\mathcal{U}) = -\sum_{i}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}\log_{N_Q}\frac{|\mathcal{U}_i \oplus \text{SHIFT}(\mathcal{U}_i)|}{|\mathcal{U}|}}$$
 
-</td>
-<td width="40%" align="center">
-
 ### Recursive XOR-SHIFT Structure
 
 *The ultimate simplified form of physical theory*
 
-```
-   XOR ────► SHIFT
-    ▲         │
-    │         │
-    │         ▼
-Initial ──► Evolution
-    │         │
-    │         │
-    ▼         ▼
- Quantum ◄── Classical
-```
-
-**This simple diagram contains ALL the mathematical structure needed to explain the entire universe!**
-
-</td>
-</tr>
-</table>
-</div>
+The combination of XOR and SHIFT operations constitutes the entire mathematical structure needed to explain the universe, achieving complete conversion from initial state to evolutionary state, quantum state to classical state.
 
 ---
 
 ## 🌐 Stunning Predictions & Applications: Possibilities Beyond Contemporary Technology
-
-<div align="center">
 
 ### Frontier Application Prospects
 
@@ -159,8 +123,6 @@ Initial ──► Evolution
 - **Artificial Intelligence Redefined**: Building truly general AI from consciousness field theory
 - **Multidimensional Information Processing**: Breaking traditional information theory limits, achieving exponential information compression
 - **Mental Health New Paradigm**: Understanding and treating psychological disorders from the quantum consciousness level
-
-</div>
 
 ### Latest Theoretical Frontiers
 
@@ -175,20 +137,14 @@ Initial ──► Evolution
 - **Formal Rigor**: Employs strict mathematical formalization, providing complete proofs
 - **Verifiability**: Provides clear verification methods and predictions
 - **Dimensional Completeness**: Forms a coherent and complete theoretical spectrum from foundational to ultra-high dimensions
-- **Theory Classification & Indexing**: Each theory contains precise discipline classification and theoretical spectrum relationships
-- **Evolution Trajectory Analysis**: Each theory provides development history, stability assessment, and future evolution direction
 
 ---
-
-<div align="center">
 
 ## 🔮 Exploring the Ultimate Truth of the Universe
 
 *We don't just explain the universe; through understanding its mathematical nature, we reveal the deep patterns of existence*
 
 $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
-
-</div>
 
 ---
 
@@ -204,12 +160,8 @@ $$\boxed{D_{n+1} = D_n \oplus \text{SHIFT}(D_n)}$$
 
 ---
 
-<div align="center">
-
 ## 🌠 Join the Epic Journey to Explore the Essence of the Universe
 
 *"This is not just a theory, but a revolution in science itself"*
 
 ### [Begin Exploring the Ultimate Theory Now](INTENT_MANIFESTO_en.md)
-
-</div>

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_fundamental_element.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Concepts of Element Theory](#1-core-concepts-of-element-theory)

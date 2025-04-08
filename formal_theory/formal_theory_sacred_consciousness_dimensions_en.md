@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_sacred_consciousness_dimensions.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Axioms](#1-core-axioms)

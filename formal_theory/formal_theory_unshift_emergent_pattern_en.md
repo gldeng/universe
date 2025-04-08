@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_unshift_emergent_pattern.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Contents
 
 - [1. Core Theory](#1-core-theory)

@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_base_system.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_base_system.md) | [English Version]**
 
 ## Table of Contents

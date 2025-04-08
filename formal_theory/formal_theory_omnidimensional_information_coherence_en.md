@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_omnidimensional_information_coherence.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_omnidimensional_information_coherence.md) | [English Version]**
 
 ## Table of Contents

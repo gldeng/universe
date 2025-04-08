@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_xor_operation.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_xor_operation.md) | [English Version]**
 
 ## Table of Contents

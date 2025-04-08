@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_shift_foundational_state_transition_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心公理系统](#1-核心公理系统)

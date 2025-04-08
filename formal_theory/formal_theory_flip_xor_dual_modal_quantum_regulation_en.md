@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_flip_xor_dual_modal_quantum_regulation.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Definitions](#1-core-definitions)

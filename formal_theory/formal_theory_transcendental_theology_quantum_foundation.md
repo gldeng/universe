@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_transcendental_theology_quantum_foundation_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心公理](#1-核心公理)

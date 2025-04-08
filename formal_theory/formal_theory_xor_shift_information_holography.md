@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_xor_shift_information_holography_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心定义](#1-核心定义)

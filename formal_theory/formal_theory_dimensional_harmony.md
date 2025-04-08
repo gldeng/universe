@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_dimensional_harmony_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 维度和谐基本原理](#1-维度和谐基本原理)

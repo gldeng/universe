@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_recursive_self_organizing_systems_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 基础框架](#1-基础框架)

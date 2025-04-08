@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_xor_shift_information_holography.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Definitions](#1-core-definitions)

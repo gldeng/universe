@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_quantum_astrology_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 占星量子场基础](#1-占星量子场基础)

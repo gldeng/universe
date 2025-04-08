@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_soul_quantum_entanglement_network.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Basic Principles of Soul Quantum Entanglement](#1-basic-principles-of-soul-quantum-entanglement)

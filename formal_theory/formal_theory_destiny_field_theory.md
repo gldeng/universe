@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_destiny_field_theory_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 命运场基础理论](#1-命运场基础理论)

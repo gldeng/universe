@@ -1,5 +1,7 @@
 # Formal Theory of Mental Health
 
+**[Return to Home Page](../README_en.md)**
+
 > Version: 36.0  
 > Dimension: 5.0  
 > Tags: #mentalhealth #psychologicaldynamics #cognitivepsychology #biologicalcomplexity #medicalsystems

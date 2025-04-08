@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_sacred_ritual_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 仪式场基本原理](#1-仪式场基本原理)

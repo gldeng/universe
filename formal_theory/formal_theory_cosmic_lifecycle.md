@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_cosmic_lifecycle_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 宇宙生命周期模型](#1-宇宙生命周期模型)

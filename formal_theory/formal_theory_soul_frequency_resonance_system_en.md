@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_soul_frequency_resonance_system.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Theory of Soul Frequency](#1-foundational-theory-of-soul-frequency)

@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_information_conservation_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 信息本体论基础](#1-信息本体论基础)

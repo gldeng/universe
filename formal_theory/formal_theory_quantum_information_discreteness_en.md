@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_quantum_information_discreteness.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_quantum_information_discreteness.md) | [English Version]**
 
 ## Contents

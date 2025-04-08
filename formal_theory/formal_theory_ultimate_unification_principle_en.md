@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_ultimate_unification_principle.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_ultimate_unification_principle.md)**
 
 ## Table of Contents

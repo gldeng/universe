@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_transcendental_hypercomplex_metastate_dynamics.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundation Framework](#1-foundation-framework)

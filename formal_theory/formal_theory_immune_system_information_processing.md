@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_immune_system_information_processing_en.md)**
 
+**[返回首页](../README.md)**
+
 > 版本：36.0  
 > 标签：#免疫学 #信息处理 #自适应系统 #模式识别
 

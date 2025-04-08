@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_nonlinear_time_model.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_nonlinear_time_model.md) | [English Version]**
 
 ## Table of Contents

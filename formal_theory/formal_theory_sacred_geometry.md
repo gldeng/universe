@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_sacred_geometry_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 神圣几何基础公理](#1-神圣几何基础公理)

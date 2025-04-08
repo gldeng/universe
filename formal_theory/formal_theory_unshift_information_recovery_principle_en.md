@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_unshift_information_recovery_principle.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_unshift_information_recovery_principle.md) | [English Version]**
 
 ## Table of Contents

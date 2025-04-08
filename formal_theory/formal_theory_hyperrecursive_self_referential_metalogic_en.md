@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_hyperrecursive_self_referential_metalogic.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_hyperrecursive_self_referential_metalogic.md) | [English Version]**
 
 ## Table of Contents

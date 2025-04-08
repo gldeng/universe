@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_multidimensional_consciousness_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心公理体系](#1-核心公理体系)

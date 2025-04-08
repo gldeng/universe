@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_spiritual_essence_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 精神本质基本公理](#1-精神本质基本公理)

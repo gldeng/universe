@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_soul_quantum_entanglement_network_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 灵魂量子纠缠的基本原理](#1-灵魂量子纠缠的基本原理)

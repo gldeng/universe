@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_sacred_temporal_cycles_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 神圣时间基础理论](#1-神圣时间基础理论)

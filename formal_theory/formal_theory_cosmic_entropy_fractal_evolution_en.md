@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_cosmic_entropy_fractal_evolution.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Definitions](#1-core-definitions)

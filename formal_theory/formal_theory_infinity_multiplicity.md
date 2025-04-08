@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_infinity_multiplicity_en.md)**
 
+**[返回首页](../README.md)**
+
 ### 4.2 与反递归理论和奇点理论的关系
 
 无限态理论与反递归理论和奇点理论形成三角关系：

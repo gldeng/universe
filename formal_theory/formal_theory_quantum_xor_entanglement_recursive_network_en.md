@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_quantum_xor_entanglement_recursive_network.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Definitions](#1-core-definitions)

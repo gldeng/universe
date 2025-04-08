@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_dimensional_harmony.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_dimensional_harmony.md) | [English Version]**
 
 ## Table of Contents

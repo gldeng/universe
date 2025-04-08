@@ -1,5 +1,7 @@
 # Integrated Theory of Life Sciences and Mental Health
 
+**[Return to Home Page](../README_en.md)**
+
 > Version: 36.0  
 > Dimension: 5.0  
 > Tags: #lifesciences #mentalhealth #systemsbiology #cognitiveneuroscience #integrativemedicine

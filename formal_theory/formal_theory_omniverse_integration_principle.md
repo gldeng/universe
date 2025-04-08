@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_omniverse_integration_principle_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 基础理论构架](#1-基础理论构架)

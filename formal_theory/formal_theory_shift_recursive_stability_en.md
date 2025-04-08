@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_shift_recursive_stability.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_shift_recursive_stability.md) | [English Version]**
 
 ## Table of Contents

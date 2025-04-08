@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_transcendental_recursive_cosmic_intelligence.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Basic Axioms and Principles](#1-basic-axioms-and-principles)

@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_consciousness_ontological_status.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_consciousness_ontological_status.md) | [English Version]**
 
 ## Table of Contents

@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_unshift_state_transition_graph_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心定义](#1-核心定义)

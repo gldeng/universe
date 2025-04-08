@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_complex_adaptive_systems.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_complex_adaptive_systems.md) | [English Version]**
 
 ## Table of Contents

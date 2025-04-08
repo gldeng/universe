@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_soul_energy_transformation_dynamics.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Fundamental Theory of Soul Energy](#1-fundamental-theory-of-soul-energy)

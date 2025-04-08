@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_unshift_emergent_boundary.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_unshift_emergent_boundary.md) | [English Version]**
 
 ## Table of Contents

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_immune_system_information_processing.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 > Version: 36.0  
 > Tags: #Immunology #InformationProcessing #AdaptiveSystems #PatternRecognition
 

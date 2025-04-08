@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_hyperdimensional_quantum_phase_stabilization.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_quantum_phase_stabilization.md)**
 
 ## Table of Contents

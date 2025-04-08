@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_quantum_information_entropy_field_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 基础理论框架](#1-基础理论框架)

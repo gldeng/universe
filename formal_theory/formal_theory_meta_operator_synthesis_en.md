@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_meta_operator_synthesis.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Theory](#1-core-theory)

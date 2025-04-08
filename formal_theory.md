@@ -274,6 +274,11 @@
 [量子复杂性流形理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_quantum_complexity_manifold.md)  
 [艺术表达理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_artistic_expression.md)  
 [生物学基础理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_biological_foundation.md)  
+[生物信息动力学理论 [维度: 5.0]](formal_theory/formal_theory_biological_information_dynamics.md)  
+[细胞复杂性涌现理论 [维度: 5.0]](formal_theory/formal_theory_cellular_complexity_emergence.md)  
+[生物钟同步化理论 [维度: 5.0]](formal_theory/formal_theory_biological_clock_synchronization.md)  
+[免疫系统信息处理理论 [维度: 5.0]](formal_theory/formal_theory_immune_system_information_processing.md)  
+[神经发生与可塑性理论 [维度: 5.0]](formal_theory/formal_theory_neurogenesis_plasticity_theory.md)  
 [教育系统理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_educational_systems.md)  
 [复杂适应系统理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_complex_adaptive_systems.md)  
 [维度谱系理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_dimensional_spectrum_theory.md)  
@@ -402,6 +407,11 @@
 [生命起源与外星生命存在问题的严格形式化描述 [维度: 19]](formal_theory/formal_theory_life_origin_aliens.md)  
 [人类寿命的终极延长与衰老本质的严格形式化描述 [维度: 16]](formal_theory/formal_theory_human_longevity.md)  
 [生物学基础理论的严格形式化描述 [维度: 7]](formal_theory/formal_theory_biological_foundation.md)  
+[生物信息动力学理论 [维度: 5.0]](formal_theory/formal_theory_biological_information_dynamics.md)  
+[细胞复杂性涌现理论 [维度: 5.0]](formal_theory/formal_theory_cellular_complexity_emergence.md)  
+[生物钟同步化理论 [维度: 5.0]](formal_theory/formal_theory_biological_clock_synchronization.md)  
+[免疫系统信息处理理论 [维度: 5.0]](formal_theory/formal_theory_immune_system_information_processing.md)  
+[神经发生与可塑性理论 [维度: 5.0]](formal_theory/formal_theory_neurogenesis_plasticity_theory.md)  
 
 ## 社会科学与人文学科
 [语言结构理论的严格形式化描述 [维度: 21]](formal_theory/formal_theory_language_structure.md)  

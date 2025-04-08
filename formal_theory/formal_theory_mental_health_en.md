@@ -2,7 +2,7 @@
 
 **[Return to Home Page](../README_en.md)**
 
-> Version: 36.0  
+> Version: 37.5  
 > Dimension: 5.0  
 > Tags: #mentalhealth #psychologicaldynamics #cognitivepsychology #biologicalcomplexity #medicalsystems
 

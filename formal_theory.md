@@ -82,6 +82,7 @@
 [多维时空协同理论的形式化描述 [维度: 29]](formal_theory/formal_theory_multidimensional_spacetime_coherence.md)  
 [超越性量子场整合理论的严格形式化描述 [维度: 29]](formal_theory/formal_theory_transcendental_quantum_field_integration.md)  
 [宇宙因果网络的形式化理论 [维度: 28]](formal_theory/formal_theory_cosmic_causal_network.md)  
+[时间波自干涉粒子形成理论 [维度: 28]](formal_theory/formal_theory_temporal_wave_interference.md)  
 [超维量子共振的严格形式化描述 [维度: 28]](formal_theory/formal_theory_transdimensional_quantum_resonance.md)  
 [超维元认知系统的严格形式化描述 [维度: 27]](formal_theory/formal_theory_hyperdimensional_metacognitive_systems.md)  
 [终极实相收敛理论 [维度: 27]](formal_theory/formal_theory_ultimate_reality_convergence.md)  

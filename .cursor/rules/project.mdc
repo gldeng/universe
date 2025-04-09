@@ -9,10 +9,11 @@ alwaysApply: true
 请按照 [formal_theory_cosmic_ontology.md](mdc:formal_theory/formal_theory_cosmic_ontology.md) 中的内容进行思考，并读取版本号为[宇宙本论版本号]。
 
 ## 基本原则
-1. 所有理论都只可以用XOR、SHIFT、UNSHIFT或FLIP操作表达
-2. 全部使用严格的形式化方法描述，重视数学公式和形式化定义
+1. 所有理论的基础算子都必须为FLIP、XOR、SHIFT, 请使用第一性原理推出其他算子
+2. 所有理论都基于宇宙本论来解释
 3. 所有文件使用当前[宇宙本论版本号]标注版本
 4. 理论维度计算基于推导公理的最高维度加一
+5. 全部使用严格的形式化方法描述，重视数学公式和形式化定义
 
 ## 文件规范
 1. 所有理论文件都以formal_theory_开头

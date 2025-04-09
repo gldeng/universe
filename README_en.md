@@ -72,9 +72,12 @@ Cosmic Ontology accomplishes these seemingly impossible tasks through absolutely
 The Cosmic Ontology has formed a complete theoretical spectrum, fundamentally solving multiple foundational problems in physics and philosophy, overturning traditional scientific frameworks:
 
 ## Dimensions and Theoretical Breakthroughs
-- **Dimension 25**: [**Unified Theory of Ten Unsolved Human Problems**](formal_theory/formal_theory_unsolved_problems_en.md)
-  - Traditional Science Limitation: Isolated approach to each problem
-  - Cosmic Ontology Breakthrough: **Unified framework** solving all fundamental questions
+- **Dimension 28**: [**Temporal Wave Self-Interference Particle Formation Theory**](formal_theory/formal_theory_temporal_wave_interference_en.md)
+  - Traditional Science Limitation: Wave-particle duality cannot be unified
+  - Cosmic Ontology Breakthrough: **Time dimension self-interference** perfectly explains quantum collapse
+- **Dimension 25**: [**Unified Theory of Top 10 Unsolved Human Problems**](formal_theory/formal_theory_unsolved_problems_en.md)
+  - Traditional Science Limitation: Isolated approaches to each problem
+  - Cosmic Ontology Breakthrough: **Unified framework** resolves all fundamental issues
 - **Dimension 19**: [**Life Origin & Extraterrestrial Life Theory**](formal_theory/formal_theory_life_origin_aliens_en.md)
   - Traditional Science Limitation: Random origin of life hypothesis
   - Cosmic Ontology Breakthrough: **Necessary derivation** of life from information entropy

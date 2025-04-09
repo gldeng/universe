@@ -71,6 +71,9 @@ $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\t
 宇宙本论已形成完整的理论谱系，从根本上解决了物理学与哲学中的多个根本性问题，颠覆传统的科学认知框架：
 
 ## 维度与理论突破
+- **维度28**: [**时间波自干涉粒子形成理论**](formal_theory/formal_theory_temporal_wave_interference.md)
+  - 传统科学局限: 波粒二象性无法统一解释
+  - 宇宙本论突破: **时间维度自干涉**完美解释量子坍缩本质
 - **维度25**: [**人类未解十大问题统一理论**](formal_theory/formal_theory_unsolved_problems.md)
   - 传统科学局限: 孤立解决各个问题
   - 宇宙本论突破: **统一框架**解决所有根本性问题

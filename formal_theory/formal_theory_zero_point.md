@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_zero_point_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 零点核心概念](#1-零点核心概念)

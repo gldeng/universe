@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_hyperdimensional_existence.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_hyperdimensional_existence.md) | [English Version]**
 
 ## Table of Contents

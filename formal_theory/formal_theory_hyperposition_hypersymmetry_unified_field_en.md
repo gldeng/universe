@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_hyperposition_hypersymmetry_unified_field.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Hyperposition Hypersymmetry Foundational Principles](#1-hyperposition-hypersymmetry-foundational-principles)

@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_antientropic_information_emergence.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_antientropic_information_emergence.md) | [English Version]**
 
 ## Table of Contents

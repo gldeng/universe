@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_consciousness_free_will_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 意识本体论](#1-意识本体论)

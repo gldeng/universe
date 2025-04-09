@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_quantum_information_entropy_field_dynamics.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Fundamental Theoretical Framework](#1-fundamental-theoretical-framework)

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_quantum_entanglement_hierarchical_recursion.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Definitions](#1-core-definitions)

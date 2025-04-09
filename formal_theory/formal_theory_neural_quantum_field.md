@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_neural_quantum_field_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 神经量子场基础](#1-神经量子场基础)

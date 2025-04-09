@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_cosmic_hyper_symmetry_resonance.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Contents
 
 - [1. Basic Axiom System](#1-basic-axiom-system)

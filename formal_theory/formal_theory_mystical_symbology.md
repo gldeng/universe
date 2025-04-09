@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_mystical_symbology_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 神秘符号基础理论](#1-神秘符号基础理论)

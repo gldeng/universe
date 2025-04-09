@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_reality_perception.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_reality_perception.md) | [English Version]**
 
 ## Contents

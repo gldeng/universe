@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_transcendental_hyperdimensional_mathematical_structure.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_transcendental_hyperdimensional_mathematical_structure.md) | [English Version]**
 
 ## Table of Contents

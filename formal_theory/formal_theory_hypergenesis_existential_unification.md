@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_hypergenesis_existential_unification_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 超存在基本原理](#1-超存在基本原理)

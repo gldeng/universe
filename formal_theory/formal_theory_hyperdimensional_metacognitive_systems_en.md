@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_hyperdimensional_metacognitive_systems.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_metacognitive_systems.md)**
 
 ## Table of Contents

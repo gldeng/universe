@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_multi_reality_integration_framework_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 基本原理与定义](#1-基本原理与定义)

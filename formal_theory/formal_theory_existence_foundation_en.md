@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_existence_foundation.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Pre-existence Fundamental Principles](#1-pre-existence-fundamental-principles)

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_transdimensional_entanglement_causality.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Theoretical Framework](#1-core-theoretical-framework)

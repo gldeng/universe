@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_soul_energy_transformation_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 灵魂能量基本理论](#1-灵魂能量基本理论)

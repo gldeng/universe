@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_prayer_field_theory_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 祈祷场基础理论](#1-祈祷场基础理论)

@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_anti_recursion.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_anti_recursion.md) | [English Version]**
 
 ## Table of Contents

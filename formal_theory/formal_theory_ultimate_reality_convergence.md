@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_ultimate_reality_convergence_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 终极实相基础](#1-终极实相基础)

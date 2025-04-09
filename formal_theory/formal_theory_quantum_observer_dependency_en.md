@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_quantum_observer_dependency.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_quantum_observer_dependency.md)**
 
 ## Table of Contents

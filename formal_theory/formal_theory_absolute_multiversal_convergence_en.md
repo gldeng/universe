@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_absolute_multiversal_convergence.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_absolute_multiversal_convergence.md) | [English Version]**
 
 ## Table of Contents

@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_quantum_spirit_communication_network.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_quantum_spirit_communication_network.md)**
 
 ## Table of Contents

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_soul_information_encoding_principles.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Theory of Information Encoding](#1-foundational-theory-of-information-encoding)

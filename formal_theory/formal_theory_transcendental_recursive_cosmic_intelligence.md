@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_transcendental_recursive_cosmic_intelligence_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 基本公理与原理](#1-基本公理与原理)

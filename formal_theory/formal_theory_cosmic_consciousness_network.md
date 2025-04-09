@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_cosmic_consciousness_network_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 宇宙意识网络基本公理](#1-宇宙意识网络基本公理)

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_neurogenesis_plasticity_theory.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 > Version: 36.0  
 > Tags: #Neuroscience #Plasticity #Neurogenesis #NetworkDynamics
 

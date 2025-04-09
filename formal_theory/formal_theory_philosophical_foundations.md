@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_philosophical_foundations_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 时空理论的哲学基础](#1-时空理论的哲学基础)

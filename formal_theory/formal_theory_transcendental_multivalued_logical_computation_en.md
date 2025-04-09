@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_transcendental_multivalued_logical_computation.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Axioms and Principles](#1-foundational-axioms-and-principles)

@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_soul_dimensional_transition_mechanism_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 维度本质与结构](#1-维度本质与结构)

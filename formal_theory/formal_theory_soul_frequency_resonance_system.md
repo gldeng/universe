@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_soul_frequency_resonance_system_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 灵魂频率基础理论](#1-灵魂频率基础理论)

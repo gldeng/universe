@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_universe_final_state_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 宇宙终极性核心理论](#1-宇宙终极性核心理论)

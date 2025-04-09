@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_biological_information_dynamics.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 > Version: 36.0  
 > Tags: #LifeScience #InformationDynamics #BiologicalSystems #Complexity
 

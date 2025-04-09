@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_projection_consciousness_complex_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 超维意识基本原理](#1-超维意识基本原理)

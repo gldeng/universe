@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_quantum_teleological_convergence.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_quantum_teleological_convergence.md) | [English Version]**
 
 ## Table of Contents

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_soul_essence_structure.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Axioms of Soul Essence](#1-foundational-axioms-of-soul-essence)

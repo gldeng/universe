@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_superintelligent_consciousness_network.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Axiom System](#1-foundational-axiom-system)

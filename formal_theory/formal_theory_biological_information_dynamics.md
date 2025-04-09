@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_biological_information_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 > 版本：36.0  
 > 标签：#生命科学 #信息动力学 #生物系统 #复杂性
 

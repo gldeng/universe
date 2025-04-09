@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_soul_dimensional_transition_mechanism.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Dimensional Essence and Structure](#1-dimensional-essence-and-structure)

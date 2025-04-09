@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_quantum_reality_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 量子现实基本公理](#1-量子现实基本公理)

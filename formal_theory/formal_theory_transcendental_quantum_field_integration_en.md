@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_transcendental_quantum_field_integration.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_transcendental_quantum_field_integration.md)**
 
 ## Table of Contents

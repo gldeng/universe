@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_shift_flip_dual_transformation.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Theoretical Foundation](#1-theoretical-foundation)

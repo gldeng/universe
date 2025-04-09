@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_quantum_cognition_model_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 量子认知基础](#1-量子认知基础)

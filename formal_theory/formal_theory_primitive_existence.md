@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_primitive_existence_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 原始存在核心概念](#1-原始存在核心概念)

@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_quantum_measurement_feedback_control.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_quantum_measurement_feedback_control.md) | [English Version]**
 
 ## Table of Contents

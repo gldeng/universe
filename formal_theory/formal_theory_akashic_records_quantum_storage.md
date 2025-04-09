@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_akashic_records_quantum_storage_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心公理](#1-核心公理)

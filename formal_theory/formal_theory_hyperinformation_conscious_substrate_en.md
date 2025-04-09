@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_hyperinformation_conscious_substrate.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Theoretical Framework](#1-foundational-theoretical-framework)

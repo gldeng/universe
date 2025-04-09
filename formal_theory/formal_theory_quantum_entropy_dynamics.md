@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_quantum_entropy_dynamics_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 量子熵基本原理](#1-量子熵基本原理)

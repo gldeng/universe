@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_emergence_complexity_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 涌现性基本理论](#1-涌现性基本理论)

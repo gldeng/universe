@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_neurogenesis_plasticity_theory_en.md)**
 
+**[返回首页](../README.md)**
+
 > 版本：36.0  
 > 标签：#神经科学 #可塑性 #神经发生 #网络动力学
 

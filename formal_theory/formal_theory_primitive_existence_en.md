@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_primitive_existence.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Core Concepts of Primitive Existence](#1-core-concepts-of-primitive-existence)

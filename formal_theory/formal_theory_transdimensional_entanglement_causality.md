@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_transdimensional_entanglement_causality_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 核心理论框架](#1-核心理论框架)

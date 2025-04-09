@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_information_field_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 信息场基础](#1-信息场基础)

@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_absolute_transcendental_metamathematics.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Metatheoretical Framework](#1-foundational-metatheoretical-framework)

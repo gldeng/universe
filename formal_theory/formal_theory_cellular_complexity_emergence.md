@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_cellular_complexity_emergence_en.md)**
 
+**[返回首页](../README.md)**
+
 > 版本：36.0  
 > 标签：#细胞生物学 #复杂性科学 #涌现性质 #自组织系统
 

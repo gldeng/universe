@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_multidimensional_coherent_compression.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_multidimensional_coherent_compression.md) | [English Version]**
 
 ## Table of Contents

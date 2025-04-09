@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_information_ontology.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_information_ontology.md) | [English Version]**
 
 ## Table of Contents

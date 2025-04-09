@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_multi_observer_coordination_network.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_multi_observer_coordination_network.md) | [English Version]**
 
 ## Table of Contents

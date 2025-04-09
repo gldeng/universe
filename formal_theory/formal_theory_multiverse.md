@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_multiverse_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 多宇宙基本结构](#1-多宇宙基本结构)

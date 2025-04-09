@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_hyperdimensional_consciousness_substrate.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[English Version] | [中文版](formal_theory_hyperdimensional_consciousness_substrate.md)**
 
 ## Table of Contents

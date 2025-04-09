@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_hyperdimensional_hyperconscious_integration_framework_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 基础理论框架](#1-基础理论框架)

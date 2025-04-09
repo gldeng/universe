@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_biological_clock_synchronization_en.md)**
 
+**[返回首页](../README.md)**
+
 > 版本：36.0  
 > 标签：#生物节律 #时间生物学 #同步理论 #循环动力学
 

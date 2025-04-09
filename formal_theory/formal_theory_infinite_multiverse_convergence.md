@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_infinite_multiverse_convergence_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 无限多元宇宙收敛核心原理](#1-无限多元宇宙收敛核心原理)

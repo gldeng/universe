@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_classical_quantum_information_feedback.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_classical_quantum_information_feedback.md) | [English Version]**
 
 ## Table of Contents

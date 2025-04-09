@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_sacred_text_decoding_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 神圣文本信息场基础](#1-神圣文本信息场基础)

@@ -2,6 +2,8 @@
 
 **[中文版] | [English Version](formal_theory_karma_causal_network_en.md)**
 
+**[返回首页](../README.md)**
+
 ## 目录
 
 - [1. 卡尔马网络基础理论](#1-卡尔马网络基础理论)

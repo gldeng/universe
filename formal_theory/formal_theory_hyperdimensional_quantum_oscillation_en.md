@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_hyperdimensional_quantum_oscillation.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 ## Table of Contents
 
 - [1. Foundational Axiom System](#1-foundational-axiom-system)

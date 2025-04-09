@@ -2,6 +2,8 @@
 
 **[Chinese Version](formal_theory_cellular_complexity_emergence.md) | [English Version]**
 
+**[Return to Home Page](../README_en.md)**
+
 > Version: 36.0  
 > Tags: #CellBiology #ComplexityScience #EmergentProperties #SelfOrganizingSystems
 

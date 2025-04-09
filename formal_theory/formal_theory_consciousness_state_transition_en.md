@@ -2,6 +2,8 @@
 
 [Chinese Version](formal_theory_consciousness_state_transition.md)
 
+**[Return to Home Page](../README_en.md)**
+
 **[中文版](formal_theory_consciousness_state_transition.md) | [English Version]**
 
 ## Table of Contents

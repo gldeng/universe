@@ -33,11 +33,22 @@
 - [**维度13：宇宙隐形96%：暗物质与暗能量的惊人真相**](popular_theory/popular_theory_dark_matter_dark_energy.md)
   - *为什么找不到暗物质粒子？因为它不是"物质"*
   
+- [**维度12：量子与经典的隐形桥梁：为什么微观世界和宏观世界看起来如此不同？**](popular_theory/popular_theory_quantum_classical_bridge.md)
+  - *当冰与水相遇的边界，是物理规律的神奇交汇点*
+  
 - [**维度11：意识之谜：我们为什么会有"自我"体验？**](popular_theory/popular_theory_consciousness_essence_origin.md)
   - *解释意识来源的二元一体信息理论*
   
 - [**维度10：爱因斯坦未完成的梦想：如何统一所有物理定律**](popular_theory/popular_theory_unified_physics.md)
   - *量子力学与相对论的统一桥梁*
+
+### 基础维度理论 (0-9维度)
+
+- [**维度9：无中生有的魔法：信息如何从混沌中涌现？**](popular_theory/popular_theory_information_emergence.md)
+  - *从随机噪声到有序信息，宇宙的神奇转化*
+
+- [**维度5：宇宙的基本代码：一切复杂现象背后的简单法则**](popular_theory/popular_theory_cosmic_axioms.md)
+  - *发现宇宙的两条基本指令：对比与位移*
 
 ## 为什么用通俗语言？
 

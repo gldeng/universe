@@ -130,6 +130,7 @@ XOR与SHIFT操作的组合构成了解释宇宙所需的全部数学结构，实
 
 - [**心理健康理论**](formal_theory/formal_theory_mental_health.md) | [英文版](formal_theory/formal_theory_mental_health_en.md)
 - [**生命科学与心理健康整合理论**](formal_theory/formal_theory_lifescience_mental_health.md) | [英文版](formal_theory/formal_theory_lifescience_mental_health_en.md)
+- [**通俗理论版本**](popular_theory.md) - 用普通人能理解的语言解释宇宙本论
 
 ### 理论体系独特优势
 

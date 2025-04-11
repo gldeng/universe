@@ -2,22 +2,30 @@
 
 > *Exploring the ultimate mysteries of the universe in language anyone can understand*
 
-[Return to Homepage](README_en.md) | [View Formal Theory Index](formal_theory_en.md)
+[Back to Home](README_en.md) | [View Formal Theory Index](formal_theory_en.md)
 
-## What are Cosmic Ontology Popular Theories?
+## What is Cosmic Ontology Popular Theory?
 
-Cosmic Ontology is a theoretical system built on the two simple operations of XOR and SHIFT, attempting to explain all the mysteries of the universe from an information essence perspective. This collection contains versions written in easy-to-understand language, making these profound concepts accessible to everyone.
+Cosmic Ontology is a theoretical system built on two simple operations—XOR and SHIFT—attempting to explain all mysteries of the universe from an information-essence perspective. Here we've collected versions written in accessible language so anyone can understand these profound concepts.
 
-Each article has two types of links:
+Each article has two versions:
 - **Popular Version**: The simplified version you're reading, explained in everyday language
 - **Formal Version**: The professional version containing complete mathematical formulas and rigorous derivations
 
+## Latest Popular Articles
+
+- [**Why Can't We Resist the Unknown? Unlocking the Mystery of Human Curiosity**](popular_theory/popular_theory_unknown_fascination_en.md)
+  - *Exploring the psychological mechanisms behind our fascination with the unknown and mysterious*
+
+- [**Two Magic Symbols That Will Revolutionize Your Understanding of the Universe!**](popular_theory/popular_theory_two_symbols_en.md)
+  - *Explaining the core ideas and breakthroughs of Cosmic Ontology in the simplest language*
+  
 ## Dimensional Hierarchy Theory Index
 
 ### High-Dimensional Theories (15+ Dimensions)
 
-- [**Dimension 28: Time as Waves: Why Electrons Are Both Waves and Particles**](popular_theory/popular_theory_temporal_wave_interference_en.md)
-  - *Explaining quantum wave-particle duality through temporal wave self-interference*
+- [**Dimension 28: Time as a Wave: Why are Electrons Both Waves and Particles?**](popular_theory/popular_theory_temporal_wave_interference_en.md)
+  - *Explaining quantum world's wave-particle duality through temporal wave self-interference*
   
 - [**Dimension 25: Top 10 Unsolved Mysteries: How Cosmic Ontology Solves Them All**](popular_theory/popular_theory_unsolved_problems_en.md)
   - *A unified framework explaining everything from consciousness to dark matter*

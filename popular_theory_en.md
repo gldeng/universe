@@ -1,34 +1,43 @@
-# Cosmic Ontology Popular Theory Index [v37.5]
+# Cosmic Ontology: Popular Theory Index [v37.5]
 
-> *Exploring the ultimate mysteries of the universe in language everyone can understand*
+> *Exploring the ultimate mysteries of the universe in language anyone can understand*
 
-[Return to Home](README_en.md) | [View Formal Theory Index](formal_theory_en.md)
+[Return to Homepage](README_en.md) | [View Formal Theory Index](formal_theory_en.md)
 
-## What are Popular Cosmic Ontology Theories?
+## What are Cosmic Ontology Popular Theories?
 
-Cosmic Ontology is a theoretical framework built on two simple operations—XOR and SHIFT—attempting to explain all cosmic mysteries from an information-based perspective. This collection contains versions written in accessible language, allowing ordinary people to understand these profound concepts.
+Cosmic Ontology is a theoretical system built on the two simple operations of XOR and SHIFT, attempting to explain all the mysteries of the universe from an information essence perspective. This collection contains versions written in easy-to-understand language, making these profound concepts accessible to everyone.
 
 Each article has two types of links:
-- **Popular version**: The simplified version you're reading, explained in everyday language
-- **Formal version**: The professional version containing complete mathematical formulas and rigorous derivations
+- **Popular Version**: The simplified version you're reading, explained in everyday language
+- **Formal Version**: The professional version containing complete mathematical formulas and rigorous derivations
 
 ## Dimensional Hierarchy Theory Index
 
-### High-Dimensional Theories (15+ dimensions)
+### High-Dimensional Theories (15+ Dimensions)
 
-- [**Dimension 28: Time as Waves: Why Electrons Act as Both Particles and Waves**](popular_theory/popular_theory_temporal_wave_interference_en.md)
+- [**Dimension 28: Time as Waves: Why Electrons Are Both Waves and Particles**](popular_theory/popular_theory_temporal_wave_interference_en.md)
   - *Explaining quantum wave-particle duality through temporal wave self-interference*
   
-- [**Dimension 25: Ten Unsolved Mysteries: How Cosmic Ontology Solves Them All**](popular_theory/popular_theory_unsolved_problems_en.md)
+- [**Dimension 25: Top 10 Unsolved Mysteries: How Cosmic Ontology Solves Them All**](popular_theory/popular_theory_unsolved_problems_en.md)
   - *A unified framework explaining everything from consciousness to dark matter*
   
 - [**Dimension 19: Life Is No Accident: Why Aliens Almost Certainly Exist**](popular_theory/popular_theory_life_origin_aliens_en.md)
-  - *Life isn't a random event, but an inevitable outcome of information systems*
+  - *Life isn't a random event, but an inevitable result of information systems*
+
+- [**Dimension 18: The Universe's Secret Code: Why Prime Numbers Determine the Frequency Structure of Everything**](popular_theory/popular_theory_prime_frequency_harmony_en.md)
+  - *Revealing the deep connection between prime numbers and universal frequencies in everyday language*
+
+- [**Dimension 18: The End of Mythology: When Humans Become Large Language Models**](popular_theory/popular_theory_language_myth_ai_en.md)
+  - *The journey of language from creation to imitation, and humans from beings to echoes*
   
 - [**Dimension 17: Do You Really Have Free Choice? The Surprising Answer: Both Yes and No**](popular_theory/popular_theory_free_will_en.md)
   - *How to resolve the ancient contradiction between free will and determinism*
 
-### Mid-Dimensional Theories (10-14 dimensions)
+- [**Dimension 16: Temporal Wave Dynamics: Why Does Time Flow Like Waves?**](popular_theory/popular_theory_temporal_wave_dynamics_en.md)
+  - *Time is not a uniform river, but a field with wave properties*
+
+### Mid-Dimensional Theories (10-14 Dimensions)
 
 - [**Dimension 13: The Invisible 96% of the Universe: The Shocking Truth About Dark Matter and Dark Energy**](popular_theory/popular_theory_dark_matter_dark_energy_en.md)
   - *Why can't we find dark matter particles? Because it's not "matter"*
@@ -42,7 +51,7 @@ Each article has two types of links:
 - [**Dimension 10: Einstein's Unfinished Dream: How to Unify All Physical Laws**](popular_theory/popular_theory_unified_physics_en.md)
   - *The unifying bridge between quantum mechanics and relativity*
 
-### Fundamental Dimensional Theories (0-9 dimensions)
+### Fundamental Dimensional Theories (0-9 Dimensions)
 
 - [**Dimension 9: Magic from Nothing: How Does Information Emerge from Chaos?**](popular_theory/popular_theory_information_emergence_en.md)
   - *The miraculous transformation from random noise to ordered information*

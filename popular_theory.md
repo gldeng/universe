@@ -24,9 +24,18 @@
   
 - [**维度19：生命不是意外：为什么外星人几乎必然存在**](popular_theory/popular_theory_life_origin_aliens.md)
   - *生命不是随机事件，而是信息系统的必然结果*
+
+- [**维度18：宇宙的秘密代码：为什么素数决定万物的频率结构？**](popular_theory/popular_theory_prime_frequency_harmony.md)
+  - *用日常语言揭示素数与宇宙频率的深层联系*
+
+- [**维度18：神话终止之地：当人类沦为大语言模型的那一天**](popular_theory/popular_theory_language_myth_ai.md)
+  - *语言从创造到模仿，人类从存在者到回声者的过程*
   
 - [**维度17：你真的有自由选择吗？意外答案：既是又不是**](popular_theory/popular_theory_free_will.md)
   - *如何解决自由意志与决定论的古老矛盾*
+
+- [**维度16：时间波动力学：时间为什么像波浪一样流动？**](popular_theory/popular_theory_temporal_wave_dynamics.md)
+  - *时间不是均匀的河流，而是具有波动特性的场*
 
 ### 中维理论 (10-14维度)
 

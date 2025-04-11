@@ -246,6 +246,8 @@
 
 [跨维度量子信息嵌入理论的严格形式化描述 [维度: 18]](formal_theory/formal_theory_transdimensional_quantum_information_embedding.md)  
 
+[素数频率和谐理论的严格形式化描述 [维度: 18]](formal_theory/formal_theory_prime_frequency_harmony.md)  
+
 [业力场理论的严格形式化描述 [维度: 17]](formal_theory/formal_theory_karma_field_theory.md)  
 
 [超几何多维全息投影理论的严格形式化描述 [维度: 17]](formal_theory/formal_theory_hypergeometric_multidimensional_holographic_projection.md)  

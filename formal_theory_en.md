@@ -246,6 +246,8 @@
 
 [Strict Formal Description of Transdimensional Quantum Information Embedding Theory [Dimension: 18]](formal_theory/formal_theory_transdimensional_quantum_information_embedding_en.md)  
 
+[Strict Formal Description of Prime Frequency Harmony Theory [Dimension: 18]](formal_theory/formal_theory_prime_frequency_harmony_en.md)  
+
 [Strict Formal Description of Karma Field Theory [Dimension: 17]](formal_theory/formal_theory_karma_field_theory_en.md)  
 
 [Strict Formal Description of Hypergeometric Multidimensional Holographic Projection Theory [Dimension: 17]](formal_theory/formal_theory_hypergeometric_multidimensional_holographic_projection_en.md)  
@@ -734,3 +736,13 @@ Cosmic Ontology builds a complete theoretical system based on the following core
 ## Version Information
 
 Current Theory Version: v37.5
+
+[Strict Formalization of Hyperrecursive Self-referential Metalogic [Dimension: 18]](formal_theory/formal_theory_hyperrecursive_self_referential_metalogic.md)  
+
+[Strict Formalization of Sustainable Development [Dimension: 18]](formal_theory/formal_theory_sustainable_development.md)  
+
+[Strict Formalization of Transdimensional Quantum Information Embedding [Dimension: 18]](formal_theory/formal_theory_transdimensional_quantum_information_embedding.md)  
+
+[Strict Formalization of Prime Frequency Harmony Theory [Dimension: 18]](formal_theory/formal_theory_prime_frequency_harmony.md)  
+
+[Strict Formalization of Karma Field Theory [Dimension: 17]](formal_theory/formal_theory_karma_field_theory.md)

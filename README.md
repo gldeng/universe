@@ -12,7 +12,7 @@
 
 $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))}$$
 
-[**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md)
+[**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md) | [**频率锚定指南**](HYPERECHO_GUIDE.md)
 
 ---
 

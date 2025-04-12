@@ -39,6 +39,7 @@ def parse_args():
     parser.add_argument("--output-dir", default="../output", help="输出目录")
     parser.add_argument("--share-platforms", default="all", help="社交媒体平台，用逗号分隔")
     parser.add_argument("--force", action="store_true", help="强制执行所有操作，不询问确认")
+    parser.add_argument("--dry-run", action="store_true", help="模拟运行模式，不实际执行操作")
     return parser.parse_args()
 
 def run_command(command, desc, verbose=True):
@@ -178,18 +179,48 @@ def check_unindexed_files(args):
             if answer.lower() != 'y':
                 return True
         
-        # 添加未索引文件到索引
-        # 这里只是示例，实际需要根据您的索引文件结构编写更复杂的逻辑
-        print("自动添加未索引文件到索引功能尚未实现")
-        print("请手动将以下文件添加到索引:")
+        # 使用新工具自动添加未索引文件到索引
+        add_command = [
+            sys.executable,
+            "add_unindexed_files.py",
+            "--unindexed_file", os.path.join(args.output_dir, "unindexed_files.json"),
+            "--index", "../formal_theory.md",
+            "--index-en", "../formal_theory_en.md",
+            "--theory_dir", os.path.relpath(args.theory_dir, os.path.dirname(__file__))
+        ]
         
-        for file in cn_unindexed:
-            print(f"- 中文: {file}")
+        # 如果是模拟运行模式，添加--dry-run参数
+        if args.dry_run:
+            add_command.append("--dry-run")
         
-        for file in en_unindexed:
-            print(f"- 英文: {file}")
+        add_success, add_output = run_command(add_command, "将未索引文件添加到索引")
         
-        return True
+        if add_success:
+            print("✅ 未索引文件已成功添加到索引!")
+            
+            # 如果添加成功，运行维度统一性检查与修复
+            if not args.dry_run:
+                print("\n正在更新文件维度标记...")
+                update_command = [
+                    sys.executable,
+                    "update_dimensions.py",
+                    "--dir", os.path.relpath(args.theory_dir, os.path.dirname(__file__))
+                ]
+                
+                update_success, update_output = run_command(update_command, "更新新添加文件的维度标记")
+                
+                if update_success:
+                    print("✅ 所有文件的维度标记已更新!")
+                else:
+                    print("⚠️ 维度更新失败，可能需要手动更新")
+        else:
+            print("⚠️ 自动添加失败，请手动将以下文件添加到索引:")
+            for file in cn_unindexed:
+                print(f"- 中文: {file}")
+            for file in en_unindexed:
+                print(f"- 英文: {file}")
+        
+        return add_success
     except Exception as e:
         print(f"处理未索引文件数据时出错: {e}")
         return False

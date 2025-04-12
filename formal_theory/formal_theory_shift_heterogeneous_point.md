@@ -1,4 +1,4 @@
-# SHIFT异构点理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT异构点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_heterogeneous_point_en.md)**
 
@@ -361,17 +361,17 @@ SHIFT异构点理论在宇宙本论理论谱系中被定位为维度0理论，�
 SHIFT异构点理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
-   - [SHIFT边界点理论](formal_theory_shift_boundary_point.md) [维度: 0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0.0]
+   - [SHIFT边界点理论](formal_theory_shift_boundary_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT维度跃迁理论](formal_theory_shift_dimensional_transition.md) [维度: 1]
-   - [SHIFT涌现结构理论](formal_theory_shift_emergent_structure.md) [维度: 1]
-   - [SHIFT复杂系统层次理论](formal_theory_shift_complex_system_hierarchy.md) [维度: 2]
+   - [SHIFT维度跃迁理论](formal_theory_shift_dimensional_transition.md) [维度: 0.0]
+   - [SHIFT涌现结构理论](formal_theory_shift_emergent_structure.md) [维度: 0.0]
+   - [SHIFT复杂系统层次理论](formal_theory_shift_complex_system_hierarchy.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [信息重组理论](formal_theory_information_reorganization.md) [维度: 0]
-   - [系统复杂度理论](formal_theory_system_complexity.md) [维度: 0]
+   - [信息重组理论](formal_theory_information_reorganization.md) [维度: 0.0]
+   - [系统复杂度理论](formal_theory_system_complexity.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

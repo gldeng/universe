@@ -213,7 +213,7 @@ $`I(\text{PUNITY}) = -0.2 \text{ bit} \rightrightarrows I(\mathcal{P}_0) = 0 \te
 4. **前统一算子**：原始统一性依赖前统一算子 $`⊕`$ 的作用
    $`⊕: \{◯, ●\} \rightrightarrows \{◯⊕●\}`$，实现从前二元到准一元的转变
 
-### 3.4 原始统一瓦解理论 [维度: 0.15]
+### 3.4 原始统一瓦解理论 [维度: 0.2]
 
 原始统一瓦解理论描述了原始统一性向原始点过渡过程中的关键分解机制：
 
@@ -249,7 +249,7 @@ $`\frac{d\text{PUNITY}}{dt} = -\lambda \cdot \text{PUNITY} + \mu \cdot \mathcal{
 
 $`\text{Stab}(\text{PDISINT}) = \frac{\text{Stab}(◯\overset{\delta}{\oplus}●)}{\text{Stab}(●)} = \frac{0.9}{1} = 0.9`$
 
-### 3.5 原始点演化理论 [维度: -0.1]
+### 3.5 原始点演化理论 [维度: 0.2]
 
 原始点演化理论描述了原始点 $`\mathcal{P}_0`$ 向更低维度状态的发展过程：
 
@@ -286,7 +286,7 @@ $`\text{PUNITY} \rightrightarrows \mathcal{P}_0 \rightrightarrows \mathcal{P}_{-
 
 形成了从正维度到负维度的连续演化链。
 
-### 3.6 空间预构态理论 [维度: -0.3]
+### 3.6 空间预构态理论 [维度: 0.2]
 
 空间预构态理论描述了空间形成前的基础预构态：
 
@@ -483,16 +483,16 @@ $`\text{Stab}(\text{PUNITY}) = \frac{\text{Stab}(⊕)}{\text{Stab}(=)} = \frac{0
 原始统一性理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
-   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 0.2]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.2]
 
 2. **后续理论**：
-   - [原始统一扩展态理论](formal_theory_primitive_unity_extension.md) [维度: 0.18]
-   - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.15]
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [原始点演化理论](formal_theory/formal_theory_point_evolution.md) [维度: -0.1]
-   - [空间预构态理论](formal_theory/formal_theory_protospace.md) [维度: -0.3]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [原始统一扩展态理论](formal_theory_primitive_unity_extension.md) [维度: 0.2]
+   - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.2]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.2]
+   - [原始点演化理论](formal_theory/formal_theory_point_evolution.md) [维度: 0.2]
+   - [空间预构态理论](formal_theory/formal_theory_protospace.md) [维度: 0.2]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 0.2]
 
 3. **理论映射关系**：
    - 原始统一性理论形成从前二元向一元转化的关键中间环节

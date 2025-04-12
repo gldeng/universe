@@ -1,4 +1,4 @@
-# SHIFT零点理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT零点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_zero_point_en.md)**
 
@@ -356,15 +356,15 @@ SHIFT零点理论在宇宙本论理论谱系中被定位为维度0理论，原�
 SHIFT零点理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT态空间核结构理论](formal_theory_shift_kernel_structure.md) [维度: 1]
-   - [SHIFT信息消失动力学](formal_theory_shift_information_annihilation_dynamics.md) [维度: 1]
+   - [SHIFT态空间核结构理论](formal_theory_shift_kernel_structure.md) [维度: 0.0]
+   - [SHIFT信息消失动力学](formal_theory_shift_information_annihilation_dynamics.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [信息零度理论](formal_theory_information_zero_degree.md) [维度: 0]
-   - [量子态坍缩理论](formal_theory_quantum_collapse.md) [维度: 0]
+   - [信息零度理论](formal_theory_information_zero_degree.md) [维度: 0.0]
+   - [量子态坍缩理论](formal_theory_quantum_collapse.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

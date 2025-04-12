@@ -1,4 +1,4 @@
-# SHIFT固定点理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT固定点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_fixed_point_en.md)**
 
@@ -339,16 +339,16 @@ SHIFT固定点理论在宇宙本论理论谱系中被定位为维度0理论，�
 SHIFT固定点理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT状态转换基础理论](formal_theory_shift_state_transition_basics.md) [维度: 1]
-   - [SHIFT态序列理论](formal_theory_shift_state_sequence.md) [维度: 1]
-   - [SHIFT状态循环理论](formal_theory_shift_state_cycle.md) [维度: 1]
+   - [SHIFT状态转换基础理论](formal_theory_shift_state_transition_basics.md) [维度: 0.0]
+   - [SHIFT态序列理论](formal_theory_shift_state_sequence.md) [维度: 0.0]
+   - [SHIFT状态循环理论](formal_theory_shift_state_cycle.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [原始态理论](formal_theory_primitive_state.md) [维度: 0]
-   - [状态不变性理论](formal_theory_state_invariance.md) [维度: 0]
+   - [原始态理论](formal_theory_primitive_state.md) [维度: 0.0]
+   - [状态不变性理论](formal_theory_state_invariance.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

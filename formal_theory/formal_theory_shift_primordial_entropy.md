@@ -1,4 +1,4 @@
-# SHIFT原始信息熵理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT原始信息熵理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_primordial_entropy_en.md)**
 
@@ -375,16 +375,16 @@ SHIFT原始信息熵理论在宇宙本论理论谱系中被定位为维度0理�
 SHIFT原始信息熵理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT信息传递理论](formal_theory_shift_information_transfer.md) [维度: 1]
-   - [状态熵演化理论](formal_theory_state_entropy_evolution.md) [维度: 1]
+   - [SHIFT信息传递理论](formal_theory_shift_information_transfer.md) [维度: 0.0]
+   - [状态熵演化理论](formal_theory_state_entropy_evolution.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [原始信息理论](formal_theory_primitive_information.md) [维度: 0]
-   - [量子不确定性理论](formal_theory_quantum_uncertainty.md) [维度: 0]
+   - [原始信息理论](formal_theory_primitive_information.md) [维度: 0.0]
+   - [量子不确定性理论](formal_theory_quantum_uncertainty.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

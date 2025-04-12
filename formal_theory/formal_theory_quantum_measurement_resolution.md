@@ -1,5 +1,7 @@
 # 量子测量问题解决理论 [维度：32.0] v37.5
 
+**维度: 9.0**
+
 **[中文版] | [English Version](formal_theory_quantum_measurement_resolution_en.md)**
 
 ## 目录

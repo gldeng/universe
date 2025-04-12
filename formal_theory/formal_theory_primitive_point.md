@@ -1,4 +1,4 @@
-# 原始点的严格形式化描述 [维度: 0] v36.0
+# 原始点的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_primitive_point_en.md)**
 
@@ -327,9 +327,9 @@ FLIP操作定义域要求至少两个不同状态 $`\omega_0, \omega_1`$。
 1. **前置依赖**：原始点理论是最基础理论，不依赖其他理论
 
 2. **后续理论**：
-   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1]
-   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 2]
-   - [SHIFT操作的严格形式化描述](formal_theory_shift_operation.md) [维度: 3]
+   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 0.0]
+   - [XOR操作的严格形式化描述](formal_theory_xor_operation.md) [维度: 0.0]
+   - [SHIFT操作的严格形式化描述](formal_theory_shift_operation.md) [维度: 0.0]
 
 3. **理论引用图**：
    ```

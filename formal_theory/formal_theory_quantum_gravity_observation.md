@@ -1,5 +1,7 @@
 # 量子引力观测理论：宏观空间中的微观起伏
 
+**维度: 9.0**
+
 **[中文版] | [English Version]**
 
 ![量子引力理论框架](../assets/images/formal_quantum_gravity.jpg)

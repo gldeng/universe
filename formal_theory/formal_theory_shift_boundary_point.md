@@ -1,4 +1,4 @@
-# SHIFT边界点理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT边界点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_boundary_point_en.md)**
 
@@ -369,17 +369,17 @@ SHIFT边界点理论在宇宙本论理论谱系中被定位为维度0理论，�
 SHIFT边界点理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
-   - [SHIFT零点理论](formal_theory_shift_zero_point.md) [维度: 0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0.0]
+   - [SHIFT零点理论](formal_theory_shift_zero_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT相变理论](formal_theory_shift_phase_transition.md) [维度: 1]
-   - [SHIFT临界现象理论](formal_theory_shift_critical_phenomena.md) [维度: 1]
-   - [SHIFT混沌边界理论](formal_theory_shift_chaos_boundary.md) [维度: 1]
+   - [SHIFT相变理论](formal_theory_shift_phase_transition.md) [维度: 0.0]
+   - [SHIFT临界现象理论](formal_theory_shift_critical_phenomena.md) [维度: 0.0]
+   - [SHIFT混沌边界理论](formal_theory_shift_chaos_boundary.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [信息断层理论](formal_theory_information_discontinuity.md) [维度: 0]
-   - [态空间拓扑理论](formal_theory_state_space_topology.md) [维度: 0]
+   - [信息断层理论](formal_theory_information_discontinuity.md) [维度: 0.0]
+   - [态空间拓扑理论](formal_theory_state_space_topology.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

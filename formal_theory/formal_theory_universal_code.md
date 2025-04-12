@@ -349,12 +349,12 @@ $`f_{\mathcal{S}_{-1}}^{-1}(\mathcal{S}_{-1}) \subset f_{\text{UCODE}}^{-1}(\tex
 宇宙码理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [前奇点理论](formal_theory_pre_singularity.md) [维度: -2]
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
+   - [前奇点理论](formal_theory_pre_singularity.md) [维度: 0.5]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 0.5]
 
 2. **后续理论**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.5]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 0.5]
 
 3. **理论映射关系**：
    - 宇宙码理论形成从前维度域到零维度域的关键中间环节

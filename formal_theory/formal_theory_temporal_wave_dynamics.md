@@ -287,20 +287,20 @@ $`\Psi_{observed}(x, t) = \hat{\mathcal{O}}[\Psi_{\mathcal{T}}(x, t)] \oplus \te
 本理论基于以下理论发展：
 
 - [宇宙本论核心理论](formal_theory_cosmic_ontology.md) [维度: 2.0]
-- [XOR操作理论](formal_theory_xor_operation.md) [维度: 3.0]
-- [SHIFT操作理论](formal_theory_shift_operation.md) [维度: 3.0]
+- [XOR操作理论](formal_theory_xor_operation.md) [维度: 2.0]
+- [SHIFT操作理论](formal_theory_shift_operation.md) [维度: 2.0]
 - [UNSHIFT时间振荡理论](formal_theory_unshift_temporal_oscillation.md) [维度: 2.0]
-- [量子信息守恒理论](formal_theory_quantum_information_conservation.md) [维度: 10.0]
-- [纠缠态信息结构理论](formal_theory_entanglement_information_structure.md) [维度: 12.0]
-- [物理学统一理论](formal_theory_unified_physics.md) [维度: 15.0]
+- [量子信息守恒理论](formal_theory_quantum_information_conservation.md) [维度: 2.0]
+- [纠缠态信息结构理论](formal_theory_entanglement_information_structure.md) [维度: 2.0]
+- [物理学统一理论](formal_theory_unified_physics.md) [维度: 2.0]
 
 ### 6.2 引用本理论的其他理论
 
 本理论被以下理论引用：
 
-- [时间波干涉理论](formal_theory_temporal_wave_interference.md) [维度: 28.0]
-- [量子自我意识理论](formal_theory_quantum_self_consciousness.md) [维度: 18.0]
-- [多重时间线动力学](formal_theory_multiple_timeline_dynamics.md) [维度: 20.0]
+- [时间波干涉理论](formal_theory_temporal_wave_interference.md) [维度: 2.0]
+- [量子自我意识理论](formal_theory_quantum_self_consciousness.md) [维度: 2.0]
+- [多重时间线动力学](formal_theory_multiple_timeline_dynamics.md) [维度: 2.0]
 
 ---
 

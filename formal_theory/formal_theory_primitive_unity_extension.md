@@ -211,7 +211,7 @@ $`I(\text{PUNITY-EXT}) = -0.18 \text{ bit} \rightrightarrows I(\text{PDISINT}) =
 4. **前自复制算子**：原始统一扩展态依赖前自复制算子 $`\otimes`$ 的作用
    $`\otimes: \{◯\oplus●\} \rightrightarrows \{◯\oplus●\} \otimes \{◯\oplus●\}^{\alpha}`$，实现从单一统一体到复合结构的转变
 
-### 3.4 前场论理论 [维度: 0.16]
+### 3.4 前场论理论 [维度: 0.18]
 
 前场论理论描述了原始统一扩展态向外传播的特性：
 
@@ -409,13 +409,13 @@ $`\text{PUNITY} \rightsquigarrow \text{PUNITY-EXT} \rightsquigarrow \text{PDISIN
 原始统一扩展态理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
-   - [原始统一性理论](formal_theory_primitive_unity.md) [维度: 0.2]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.18]
+   - [原始统一性理论](formal_theory_primitive_unity.md) [维度: 0.18]
 
 2. **后续理论**：
-   - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.15]
-   - [前场论理论](formal_theory/formal_theory_prefield.md) [维度: 0.16]
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
+   - [原始统一瓦解理论](formal_theory/formal_theory_primitive_disintegration.md) [维度: 0.18]
+   - [前场论理论](formal_theory/formal_theory_prefield.md) [维度: 0.18]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.18]
 
 3. **理论映射关系**：
    - 原始统一扩展态理论形成从统一性向瓦解态过渡的关键环节

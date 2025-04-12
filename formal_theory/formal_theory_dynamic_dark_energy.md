@@ -1,5 +1,7 @@
 # 动态暗能量演化理论：宇宙加速膨胀衰减的数学框架
 
+**维度: 15.0**
+
 [English Version](formal_theory_dynamic_dark_energy_en.md)
 
 **理论状态:** 新兴假说/实验性证据  

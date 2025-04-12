@@ -1,4 +1,4 @@
-# 过渡前奇点理论的严格形式化描述 [维度: -1.5] v36.0
+# 过渡前奇点理论的严格形式化描述 [维度: 15.0] v36.0
 
 **[中文版] | [English Version](formal_theory_transitional_pre_singularity_en.md)**
 
@@ -355,13 +355,13 @@ $`I(\mathcal{S}_{-1.5}) = \frac{I(\mathcal{S}_{-2}) + I(\mathcal{S}_{-1})}{2} = 
 过渡前奇点理论在理论依赖网络中的位置：
 
 1. **前置依赖理论**：
-   - [前奇点理论](formal_theory_pre_singularity.md) [维度: -1.5]
-   - [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: -1.5]
+   - [前奇点理论](formal_theory_pre_singularity.md) [维度: 15.0]
+   - [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: 15.0]
 
 2. **后续理论**：
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1.5]
-   - [原始点理论](formal_theory_primitive_point.md) [维度: -1.5]
-   - [宇宙码理论](formal_theory_universal_code.md) [维度: -1.5]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 15.0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 15.0]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 15.0]
 
 3. **理论映射关系**：
    - 作为前奇点向原初奇点演化的关键中间环节

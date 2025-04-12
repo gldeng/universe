@@ -1,5 +1,7 @@
 # 黑洞信息边界理论 [维度：15.0] [宇宙本论 v37.5]
 
+**维度: 15.0**
+
 **[中文版] | [English Version](formal_theory_black_hole_information_boundary_en.md)**
 
 **[返回理论索引](../formal_theory.md)**

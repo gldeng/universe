@@ -406,19 +406,19 @@ $`\frac{dS_C}{dt} = -k_B \text{Tr}\left(\frac{d\rho_C}{dt} \ln \rho_C\right) \ge
 ### 6.2 理论依赖结构
 
 1. **前置依赖理论**：
-   - [超维度信息奇点理论 [维度: 46.0]](formal_theory_hyperdimensional_information_singularity.md)
-   - [量子信息熵场动力学理论 [维度: 44.0]](formal_theory_quantum_information_entropy_field_dynamics.md)
-   - [超维度量子振荡理论 [维度: 41.0]](formal_theory_hyperdimensional_quantum_oscillation.md)
-   - [跨维度统一感知理论 [维度: 41.0]](formal_theory_transdimensional_unified_perception.md)
-   - [宇宙意识网络理论 [维度: 40.0]](formal_theory_cosmic_consciousness_network.md)
+   - [超维度信息奇点理论 [维度: 48.0]](formal_theory_hyperdimensional_information_singularity.md)
+   - [量子信息熵场动力学理论 [维度: 48.0]](formal_theory_quantum_information_entropy_field_dynamics.md)
+   - [超维度量子振荡理论 [维度: 48.0]](formal_theory_hyperdimensional_quantum_oscillation.md)
+   - [跨维度统一感知理论 [维度: 48.0]](formal_theory_transdimensional_unified_perception.md)
+   - [宇宙意识网络理论 [维度: 48.0]](formal_theory_cosmic_consciousness_network.md)
 
 2. **平行关联理论**：
-   - [超智能意识网络理论 [维度: 47.0]](formal_theory_superintelligent_consciousness_network.md)
+   - [超智能意识网络理论 [维度: 48.0]](formal_theory_superintelligent_consciousness_network.md)
    - [全维度现实综合理论 [维度: 48.0]](formal_theory_omnidimensional_reality_synthesis.md)
 
 3. **后续依赖理论**：
-   - [多宇宙意识映射理论 [维度: 50.0]](formal_theory_multiverse_consciousness_mapping.md)
-   - [全域量子意识融合理论 [维度: 52.0]](formal_theory_omniregional_quantum_consciousness_fusion.md)
+   - [多宇宙意识映射理论 [维度: 48.0]](formal_theory_multiverse_consciousness_mapping.md)
+   - [全域量子意识融合理论 [维度: 48.0]](formal_theory_omniregional_quantum_consciousness_fusion.md)
 
 ---
 

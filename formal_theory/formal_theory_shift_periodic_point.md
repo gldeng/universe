@@ -1,4 +1,4 @@
-# SHIFT周期点理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT周期点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_periodic_point_en.md)**
 
@@ -383,16 +383,16 @@ SHIFT周期点理论在宇宙本论理论谱系中被定位为维度0理论，�
 SHIFT周期点理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT轨道理论](formal_theory_shift_orbit.md) [维度: 1]
-   - [SHIFT周期结构理论](formal_theory_shift_periodic_structure.md) [维度: 1]
-   - [SHIFT混沌边缘理论](formal_theory_shift_chaos_edge.md) [维度: 1]
+   - [SHIFT轨道理论](formal_theory_shift_orbit.md) [维度: 0.0]
+   - [SHIFT周期结构理论](formal_theory_shift_periodic_structure.md) [维度: 0.0]
+   - [SHIFT混沌边缘理论](formal_theory_shift_chaos_edge.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [信息循环理论](formal_theory_information_cycle.md) [维度: 0]
-   - [态空间拓扑理论](formal_theory_state_space_topology.md) [维度: 0]
+   - [信息循环理论](formal_theory_information_cycle.md) [维度: 0.0]
+   - [态空间拓扑理论](formal_theory_state_space_topology.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

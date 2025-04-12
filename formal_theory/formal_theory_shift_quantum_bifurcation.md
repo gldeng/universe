@@ -1,4 +1,4 @@
-# SHIFT量子分叉理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT量子分叉理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_quantum_bifurcation_en.md)**
 
@@ -348,12 +348,12 @@ SHIFT量子分叉理论在宇宙本论理论谱系中被定位为维度0理论�
 SHIFT量子分叉理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 10]
+   - [宇宙本论](formal_theory_cosmic_ontology.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 1]
-   - [SHIFT信息生成理论](formal_theory_shift_information_generation.md) [维度: 1]
-   - [SHIFT二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 1]
+   - [SHIFT原始态涌现理论](formal_theory_shift_primitive_emergence.md) [维度: 0.0]
+   - [SHIFT信息生成理论](formal_theory_shift_information_generation.md) [维度: 0.0]
+   - [SHIFT二元基础理论](formal_theory_shift_duality_foundation.md) [维度: 0.0]
 
 3. **理论引用图**：
    ```

@@ -1,4 +1,4 @@
-# SHIFT对称点理论的严格形式化描述 [维度: 0] v36.0
+# SHIFT对称点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_shift_symmetry_point_en.md)**
 
@@ -363,16 +363,16 @@ SHIFT对称点理论在宇宙本论理论谱系中被定位为维度0理论，�
 SHIFT对称点理论在理论依赖网络中的位置：
 
 1. **前置依赖**：
-   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0]
-   - [SHIFT零点理论](formal_theory_shift_zero_point.md) [维度: 0]
+   - [SHIFT固定点理论](formal_theory_shift_fixed_point.md) [维度: 0.0]
+   - [SHIFT零点理论](formal_theory_shift_zero_point.md) [维度: 0.0]
 
 2. **后续理论**：
-   - [SHIFT对称转换理论](formal_theory_shift_symmetry_transformation.md) [维度: 1]
-   - [SHIFT信息守恒理论](formal_theory_shift_information_conservation.md) [维度: 1]
+   - [SHIFT对称转换理论](formal_theory_shift_symmetry_transformation.md) [维度: 0.0]
+   - [SHIFT信息守恒理论](formal_theory_shift_information_conservation.md) [维度: 0.0]
 
 3. **横向关联**：
-   - [量子对称性理论](formal_theory_quantum_symmetry.md) [维度: 0]
-   - [时间可逆性理论](formal_theory_temporal_reversibility.md) [维度: 0]
+   - [量子对称性理论](formal_theory_quantum_symmetry.md) [维度: 0.0]
+   - [时间可逆性理论](formal_theory_temporal_reversibility.md) [维度: 0.0]
 
 4. **理论引用图**：
    ```

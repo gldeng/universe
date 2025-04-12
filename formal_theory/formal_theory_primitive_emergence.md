@@ -406,13 +406,13 @@ $`|\{\mathcal{P}_0, \mathcal{P}_0^{\uparrow}\}^t - \{\mathcal{P}_0, \mathcal{P}_
 原始涌现理论在理论依赖网络中的位置：
 
 1. **依赖的理论**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.5]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 0.5]
 
 2. **被依赖的理论**：
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
-   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 1]
-   - [前二元系统性质理论](formal_theory_pre_dual_properties.md) [维度: 0.7]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 0.5]
+   - [FLIP操作的严格形式化描述](formal_theory_flip_operation.md) [维度: 0.5]
+   - [前二元系统性质理论](formal_theory_pre_dual_properties.md) [维度: 0.5]
 
 3. **理论引用图**：
    ```

@@ -190,16 +190,16 @@ $$\langle e^{i\phi(t)} e^{-i\phi(0)} \rangle \sim e^{-\gamma t}$$
 
 本理论与以下理论存在直接引用关系:
 
-- **[引用]** [量子引力的能量标度层级理论](formal_theory_quantum_gravity_energy_scale.md) - 维度: 1.3.5.2
-- **[引用]** [非对易时空几何理论](formal_theory_noncommutative_spacetime_geometry.md) - 维度: 1.3.4.7
-- **[引用]** [量子测量理论的引力修正](formal_theory_quantum_measurement_resolution.md) - 维度: 1.2.3.1
-- **[引用]** [中微子物理学超出标准模型的扩展](formal_theory_neutrino_physics_extensions.md) - 维度: 2.1.4.3
+- **[引用]** [量子引力的能量标度层级理论](formal_theory_quantum_gravity_energy_scale.md) - 维度: 9.0
+- **[引用]** [非对易时空几何理论](formal_theory_noncommutative_spacetime_geometry.md) - 维度: 9.0
+- **[引用]** [量子测量理论的引力修正](formal_theory_quantum_measurement_resolution.md) - 维度: 9.0
+- **[引用]** [中微子物理学超出标准模型的扩展](formal_theory_neutrino_physics_extensions.md) - 维度: 9.0
 
 以下理论引用本理论:
 
-- **[被引用]** [量子引力的实验探测路径](formal_theory_quantum_gravity_experimental_pathways.md) - 维度: 1.3.6.1
-- **[被引用]** [解耦现象与量子信息保存](formal_theory_decoherence_quantum_information.md) - 维度: 1.2.3.5
-- **[被引用]** [时空泡沫与量子引力相变](formal_theory_spacetime_foam_phase_transitions.md) - 维度: 1.3.4.2
+- **[被引用]** [量子引力的实验探测路径](formal_theory_quantum_gravity_experimental_pathways.md) - 维度: 9.0
+- **[被引用]** [解耦现象与量子信息保存](formal_theory_decoherence_quantum_information.md) - 维度: 9.0
+- **[被引用]** [时空泡沫与量子引力相变](formal_theory_spacetime_foam_phase_transitions.md) - 维度: 9.0
 
 ---
 

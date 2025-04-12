@@ -1,5 +1,7 @@
 # 多光子非局域干涉理论 [宇宙本论 v37.5]
 
+**维度: 15.0**
+
 **[中文版] | [English Version](formal_theory_multiphoton_nonlocal_interference_en.md)**
 
 **[返回理论索引](../formal_theory.md)**

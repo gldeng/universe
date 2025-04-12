@@ -366,12 +366,12 @@ $`I(\text{PCODE}) = -0.75 \text{ bit} < I(\text{UCODE}) = -0.5 \text{ bit}`$
 原始编码理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [零点理论](formal_theory_zero_point.md) [维度: 0]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.25]
+   - [零点理论](formal_theory_zero_point.md) [维度: 0.25]
 
 2. **后续理论**：
-   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
-   - [过渡元理论](formal_theory_transitional_element.md) [维度: 1]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.25]
+   - [过渡元理论](formal_theory_transitional_element.md) [维度: 0.25]
 
 3. **理论映射关系**：
    - 原始编码理论提供了从点的存在到编码能力的关键桥梁

@@ -367,13 +367,13 @@ $`\text{Stab}(\text{PROTOSYM}) = \frac{\text{Inv}(\text{PROTOSYM})}{\text{Inv}(\
 原初对称性理论在理论依赖网络中的位置如下：
 
 1. **前置依赖**：
-   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: -1]
-   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.5]
-   - [原始统一性理论](formal_theory_primitive_unity.md) [维度: 0.2]
+   - [原初奇点理论](formal_theory_primitive_singularity.md) [维度: 0.3]
+   - [宇宙码理论](formal_theory_universal_code.md) [维度: 0.3]
+   - [原始统一性理论](formal_theory_primitive_unity.md) [维度: 0.3]
 
 2. **后续理论**：
-   - [原始点理论](formal_theory_primitive_point.md) [维度: 0]
-   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 1]
+   - [原始点理论](formal_theory_primitive_point.md) [维度: 0.3]
+   - [原始态二元理论](formal_theory_primitive_duality.md) [维度: 0.3]
 
 3. **理论映射关系**：
    - 原初对称性理论形成从统一性向完全对称的关键中间环节

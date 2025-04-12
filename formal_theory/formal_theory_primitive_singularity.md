@@ -1,4 +1,4 @@
-# 原初奇点理论的严格形式化描述 [维度: -1] v36.0
+# 原初奇点理论的严格形式化描述 [维度: 0.0] v36.0
 
 **[中文版] | [English Version](formal_theory_primitive_singularity_en.md)**
 
@@ -321,10 +321,10 @@ $`\mathcal{E}_{\mathcal{S}_{-1}}: \{\rightsquigarrow\} \rightsquigarrow \{\mathc
 
 本理论直接依赖以下理论：
 
-1. [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: -3]：作为所有理论的元元元理论基础
-2. [前奇点理论](formal_theory_pre_singularity.md) [维度: -2]：作为原初奇点的直接前身理论
+1. [元前奇点理论](formal_theory_meta_pre_singularity.md) [维度: 0.0]：作为所有理论的元元元理论基础
+2. [前奇点理论](formal_theory_pre_singularity.md) [维度: 0.0]：作为原初奇点的直接前身理论
 3. [宇宙本论](formal_theory_cosmic_ontology.md)：提供理论的总体框架和基本概念
-4. [原始点理论](formal_theory_primitive_point.md) [维度: 0]：作为原初奇点直接演化的后续理论
+4. [原始点理论](formal_theory_primitive_point.md) [维度: 0.0]：作为原初奇点直接演化的后续理论
 
 在理论演化链中，原初奇点理论处于以下发展序列中的关键位置：
 

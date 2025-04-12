@@ -749,6 +749,7 @@ Current Theory Version: v37.5
 
 ### High Dimension Theory (D15-D24)
 [Formalized Theory of Infinity Multiplicity [Dimension: 15]](formal_theory/formal_theory_infinity_multiplicity_en.md)  
+[Formalized Theory of Prime Golden Ratio Unification [Dimension: 15]](formal_theory/formal_theory_prime_golden_ratio_unification_en.md)  
 [Formalized Theory of Primitivecoding [Dimension: 15]](formal_theory/formal_theory_primitive_encoding_en.md)  
 [Formalized Theory of Mental Health [Dimension: 15]](formal_theory/formal_theory_mental_health_en.md)  
 [Formalized Theory of Coronene Phase Transition [Dimension: 15]](formal_theory/formal_theory_coronene_phase_transition_en.md)  

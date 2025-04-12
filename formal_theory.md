@@ -174,6 +174,7 @@
 
 ### 高维理论（D15-D24）
 [宇宙意识网络理论的严格形式化描述 [维度: 24]](formal_theory/formal_theory_cosmic_consciousness_network.md)  
+[primegoldenratiounification的严格形式化描述 [维度: 16.0]](formal_theory/formal_theory_prime_golden_ratio_unification.md)  
 [ternarymillenniumsolutions的严格形式化描述 [维度: 15]](formal_theory/formal_theory_ternary_millennium_solutions.md)  
 [darkergy演化的严格形式化描述 [维度: 15]](formal_theory/formal_theory_dark_energy_evolution.md)  
 [multiphotonnonlocalinterference的严格形式化描述 [维度: 15]](formal_theory/formal_theory_multiphoton_nonlocal_interference.md)  

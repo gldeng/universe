@@ -1,5 +1,7 @@
 # Integrated Theory of Life Sciences and Mental Health
 
+[Chinese Version](formal_theory_lifescience_mental_health.md)
+
 **[Return to Home Page](../README_en.md)**
 
 > Version: 37.5  

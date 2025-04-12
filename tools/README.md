@@ -6,6 +6,11 @@
 
 ### 主要工具
 
+- **universe_automation.py** - 宇宙本论项目自动化工作流
+  ```
+  python universe_automation.py --all
+  ```
+
 - **theory_to_json.py** - 将形式化理论文档转换为结构化JSON数据
   ```
   python theory_to_json.py --dir ../formal_theory --output formal_theories.json --verification
@@ -26,11 +31,19 @@
   python generate_theory_graph.py --output theory_graph.html --format html
   ```
 
+- **share_tool_generator.py** - 生成社交媒体分享工具
+  ```
+  python share_tool_generator.py --input ../formal_theory/formal_theory_xxx.md --platform weixin
+  ```
+
 ### 辅助工具
 
 - **check_md_links.py** - 检查文档中的Markdown链接是否有效
 - **check_updates.py** - 检查文档更新情况
-- **check_unindexed_files.py** - 查找未被索引的文件
+- **check_unindexed_files.py** - 检查未被索引的文件并生成报告
+  ```
+  python check_unindexed_files.py --dir ../formal_theory --output unindexed_files.json
+  ```
 - **math_expr_converter.py** - 转换数学表达式格式
 - **fix_math.py** - 修复数学表达式语法
 - **update_dimensions.py** - 更新理论维度标记

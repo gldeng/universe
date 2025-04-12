@@ -217,17 +217,17 @@ $`\mathcal{P}(\text{疾病}|\mathcal{D}) = \sigma(\int_{0}^{T} w(t) \cdot ||\mat
 生物钟同步化理论在维度谱系中处于维度5.0，与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [SHIFT周期结构 [维度: 4.0]](formal_theory_shift_cyclic_dynamics.md)
-  - [XOR信息熵稳定性 [维度: 4.0]](formal_theory_xor_information_entropy_stability.md)
-  - [SHIFT信息传输 [维度: 4.0]](formal_theory_shift_information_transmission.md)
+  - [SHIFT周期结构 [维度: 5.0]](formal_theory_shift_cyclic_dynamics.md)
+  - [XOR信息熵稳定性 [维度: 5.0]](formal_theory_xor_information_entropy_stability.md)
+  - [SHIFT信息传输 [维度: 5.0]](formal_theory_shift_information_transmission.md)
 
 - **同级关联理论**：
   - [生物信息动力学 [维度: 5.0]](formal_theory_biological_information_dynamics.md)
   - [细胞复杂性涌现 [维度: 5.0]](formal_theory_cellular_complexity_emergence.md)
 
 - **高阶扩展理论**：
-  - [超递归自组织系统 [维度: 6.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
-  - [量子-经典转换域 [维度: 6.0]](formal_theory_quantum_classical_boundary_dynamics.md)
+  - [超递归自组织系统 [维度: 5.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
+  - [量子-经典转换域 [维度: 5.0]](formal_theory_quantum_classical_boundary_dynamics.md)
 
 ### 4.2 理论引用网络结构
 

@@ -3,13 +3,14 @@
 
 import re
 import os
+import argparse
 
-def extract_dimensions_from_formal_theory():
+def extract_dimensions_from_formal_theory(index_file='../formal_theory.md'):
     """从formal_theory.md索引文件中提取各个理论的维度信息"""
     file_dimension_map = {}
     
     # 修改文件路径，索引文件位于根目录
-    with open('formal_theory.md', 'r', encoding='utf-8') as f:
+    with open(index_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
     # 提取所有文件维度信息
@@ -58,8 +59,14 @@ def update_dimension_in_file(file_path, dimension):
 
 def main():
     """主函数"""
+    # 解析命令行参数
+    parser = argparse.ArgumentParser(description='更新理论文件中的维度信息')
+    parser.add_argument('--dir', default='../formal_theory', help='理论文件目录')
+    parser.add_argument('--index', default='../formal_theory.md', help='索引文件路径')
+    args = parser.parse_args()
+    
     # 获取索引文件中的维度信息
-    file_dimension_map = extract_dimensions_from_formal_theory()
+    file_dimension_map = extract_dimensions_from_formal_theory(args.index)
     
     print(f"从索引文件中提取了 {len(file_dimension_map)} 个文件的维度信息")
     
@@ -67,7 +74,7 @@ def main():
     updated_count = 0
     for filename, dimension in file_dimension_map.items():
         # 构建完整文件路径 - 在formal_theory目录下寻找理论文件
-        file_path = os.path.join('formal_theory', filename)
+        file_path = os.path.join(args.dir, filename)
         
         if os.path.exists(file_path):
             if update_dimension_in_file(file_path, dimension):

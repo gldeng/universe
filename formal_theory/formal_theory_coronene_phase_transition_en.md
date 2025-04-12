@@ -1,5 +1,7 @@
 # Coronene Phase Transition Magnetic Coupling Theory [Dimension: 13.0] v37.5
 
+[Chinese Version](formal_theory_coronene_phase_transition.md)
+
 **[中文版](formal_theory_coronene_phase_transition.md) | [English Version]**
 
 **[Return to Homepage](../README_en.md)**

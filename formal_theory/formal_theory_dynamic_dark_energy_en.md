@@ -1,5 +1,7 @@
 # Dynamic Dark Energy Evolution Theory [Dimension: 31.5] v37.5
 
+[Chinese Version](formal_theory_dynamic_dark_energy.md)
+
 **[English Version] | [中文版](formal_theory_dynamic_dark_energy.md)**
 
 ## Table of Contents

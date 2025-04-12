@@ -201,17 +201,17 @@ $`\mathcal{H}(\mathcal{C}) = \mathcal{C} \oplus \text{SHIFT}(\mathcal{C} \oplus 
 细胞复杂性涌现理论在维度谱系中处于维度5.0，与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [SHIFT基本递归 [维度: 4.0]](formal_theory_shift_basic_recursion.md)
-  - [XOR信息熵稳定性 [维度: 4.0]](formal_theory_xor_information_entropy_stability.md)
-  - [FLIP操作 [维度: 4.0]](formal_theory_flip_operation.md)
+  - [SHIFT基本递归 [维度: 5.0]](formal_theory_shift_basic_recursion.md)
+  - [XOR信息熵稳定性 [维度: 5.0]](formal_theory_xor_information_entropy_stability.md)
+  - [FLIP操作 [维度: 5.0]](formal_theory_flip_operation.md)
 
 - **同级关联理论**：
   - [生物信息动力学 [维度: 5.0]](formal_theory_biological_information_dynamics.md)
   - [神经量子场论 [维度: 5.0]](formal_theory_neural_quantum_field.md)
 
 - **高阶扩展理论**：
-  - [FLIP基础涌现复杂性 [维度: 6.0]](formal_theory_flip_based_emergent_complexity.md)
-  - [超递归自组织系统 [维度: 6.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
+  - [FLIP基础涌现复杂性 [维度: 5.0]](formal_theory_flip_based_emergent_complexity.md)
+  - [超递归自组织系统 [维度: 5.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
 
 ### 4.2 理论引用网络结构
 

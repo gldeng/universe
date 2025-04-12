@@ -1,5 +1,7 @@
 # Multiphoton Non-local Interference Theory [Cosmic Ontology v37.5]
 
+[Chinese Version](formal_theory_multiphoton_nonlocal_interference.md)
+
 **[中文版](formal_theory_multiphoton_nonlocal_interference.md) | [English Version]**
 
 **[Return to Theory Index](../formal_theory_en.md)**

@@ -1,5 +1,7 @@
 # Neutrino Decoherence and Quantum Gravity Detection Theory [Dimension: 30.0] v37.5
 
+[Chinese Version](formal_theory_neutrino_decoherence_quantum_gravity.md)
+
 **[English Version] | [中文版](formal_theory_neutrino_decoherence_quantum_gravity.md)**
 
 ## Table of Contents

@@ -210,9 +210,9 @@ $`\mathcal{R}_N(\mathcal{N}, \mathcal{I}) = \mathcal{N} \oplus \text{SHIFT}(\Gam
 神经发生与可塑性理论在维度谱系中处于维度5.0，与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [XOR信息熵稳定性 [维度: 4.0]](formal_theory_xor_information_entropy_stability.md)
-  - [SHIFT状态转换基础 [维度: 4.0]](formal_theory_shift_state_transition_basics.md)
-  - [FLIP操作 [维度: 4.0]](formal_theory_flip_operation.md)
+  - [XOR信息熵稳定性 [维度: 5.0]](formal_theory_xor_information_entropy_stability.md)
+  - [SHIFT状态转换基础 [维度: 5.0]](formal_theory_shift_state_transition_basics.md)
+  - [FLIP操作 [维度: 5.0]](formal_theory_flip_operation.md)
 
 - **同级关联理论**：
   - [生物信息动力学 [维度: 5.0]](formal_theory_biological_information_dynamics.md)
@@ -220,8 +220,8 @@ $`\mathcal{R}_N(\mathcal{N}, \mathcal{I}) = \mathcal{N} \oplus \text{SHIFT}(\Gam
   - [免疫系统信息处理理论 [维度: 5.0]](formal_theory_immune_system_information_processing.md)
 
 - **高阶扩展理论**：
-  - [神经网络涌现意识 [维度: 6.0]](formal_theory_neural_network_emergent_consciousness.md)
-  - [超递归自组织系统 [维度: 6.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
+  - [神经网络涌现意识 [维度: 5.0]](formal_theory_neural_network_emergent_consciousness.md)
+  - [超递归自组织系统 [维度: 5.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
 
 ### 4.2 理论引用网络结构
 

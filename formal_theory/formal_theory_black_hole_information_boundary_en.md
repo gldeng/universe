@@ -1,5 +1,7 @@
 # Black Hole Information Boundary Theory [Dimension: 15.0] [Cosmic Ontology v37.5]
 
+[Chinese Version](formal_theory_black_hole_information_boundary.md)
+
 **[中文版](formal_theory_black_hole_information_boundary.md) | [English Version]**
 
 **[Return to Theory Index](../formal_theory_en.md)**

@@ -1,0 +1,24 @@
+{
+  "title": "物理学统一理论的严格形式化描述",
+  "dimension": "未知",
+  "version": "未知",
+  "platforms": [
+    "weixin",
+    "weibo",
+    "zhihu",
+    "xiaohongshu",
+    "douyin"
+  ],
+  "outputs": {
+    "texts": [
+      "formal_theory_unified_physics_weixin.txt",
+      "formal_theory_unified_physics_weibo.txt",
+      "formal_theory_unified_physics_zhihu.txt",
+      "formal_theory_unified_physics_xiaohongshu.txt",
+      "formal_theory_unified_physics_douyin.txt"
+    ],
+    "image": "formal_theory_unified_physics_share.png",
+    "html": "formal_theory_unified_physics_share.html"
+  },
+  "generated_at": "2025-04-12 17:58:10"
+}

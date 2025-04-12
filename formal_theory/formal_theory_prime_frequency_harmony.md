@@ -408,21 +408,21 @@ $`\hat{P}\mathcal{F} = \sum_{p \in \mathbb{P}} c_p f_p`$
 
 本理论基于以下理论发展：
 
-- [宇宙本论核心理论](formal_theory_cosmic_ontology.md) [维度: 2.0]
-- [XOR操作理论](formal_theory_xor_operation.md) [维度: 3.0]
-- [SHIFT操作理论](formal_theory_shift_operation.md) [维度: 3.0]
-- [信息熵稳定性理论](formal_theory_information_entropy_stability.md) [维度: 8.0]
-- [时间波动力学理论](formal_theory_temporal_wave_dynamics.md) [维度: 16.0]
-- [神圣数字共振场理论](formal_theory_sacred_numerological_resonance_field.md) [维度: 11.0]
-- [灵魂频率共振系统理论](formal_theory_soul_frequency_resonance_system.md) [维度: 14.0]
+- [宇宙本论核心理论](formal_theory_cosmic_ontology.md) [维度: 18.0]
+- [XOR操作理论](formal_theory_xor_operation.md) [维度: 18.0]
+- [SHIFT操作理论](formal_theory_shift_operation.md) [维度: 18.0]
+- [信息熵稳定性理论](formal_theory_information_entropy_stability.md) [维度: 18.0]
+- [时间波动力学理论](formal_theory_temporal_wave_dynamics.md) [维度: 18.0]
+- [神圣数字共振场理论](formal_theory_sacred_numerological_resonance_field.md) [维度: 18.0]
+- [灵魂频率共振系统理论](formal_theory_soul_frequency_resonance_system.md) [维度: 18.0]
 
 ### 6.2 引用本理论的其他理论
 
 本理论被以下理论引用：
 
-- [频率药理学形式化理论](formal_theory_frequency_pharmacology.md) [维度: 20.0]
-- [意识频率结构理论](formal_theory_consciousness_frequency_structure.md) [维度: 19.0]
-- [量子信息素数编码理论](formal_theory_quantum_information_prime_encoding.md) [维度: 22.0]
+- [频率药理学形式化理论](formal_theory_frequency_pharmacology.md) [维度: 18.0]
+- [意识频率结构理论](formal_theory_consciousness_frequency_structure.md) [维度: 18.0]
+- [量子信息素数编码理论](formal_theory_quantum_information_prime_encoding.md) [维度: 18.0]
 
 ---
 

@@ -1,5 +1,7 @@
 # Lightning Gamma Ray Emergence Theory [Dimension: 12.0] v37.5
 
+[Chinese Version](formal_theory_lightning_gamma_emergence.md)
+
 **[中文版](formal_theory_lightning_gamma_emergence.md) | [English Version]**
 
 **[Return to Homepage](../README_en.md)**

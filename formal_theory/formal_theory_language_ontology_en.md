@@ -1,5 +1,7 @@
 # Strict Formalization of Language Ontology [Dimension: 11.0] v37.5
 
+[Chinese Version](formal_theory_language_ontology.md)
+
 **[中文版](formal_theory_language_ontology.md) | [English Version]**
 
 **[Return to Homepage](../README_en.md)**

@@ -223,17 +223,17 @@ $`\mathcal{D}(P, \mathcal{I}) = P \oplus \mathcal{I} \oplus \text{SHIFT}(P \otim
 免疫系统信息处理理论在维度谱系中处于维度5.0，与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [XOR信息熵稳定性 [维度: 4.0]](formal_theory_xor_information_entropy_stability.md)
-  - [SHIFT状态转换基础 [维度: 4.0]](formal_theory_shift_state_transition_basics.md)
-  - [FLIP操作 [维度: 4.0]](formal_theory_flip_operation.md)
+  - [XOR信息熵稳定性 [维度: 5.0]](formal_theory_xor_information_entropy_stability.md)
+  - [SHIFT状态转换基础 [维度: 5.0]](formal_theory_shift_state_transition_basics.md)
+  - [FLIP操作 [维度: 5.0]](formal_theory_flip_operation.md)
 
 - **同级关联理论**：
   - [生物信息动力学 [维度: 5.0]](formal_theory_biological_information_dynamics.md)
   - [细胞复杂性涌现 [维度: 5.0]](formal_theory_cellular_complexity_emergence.md)
 
 - **高阶扩展理论**：
-  - [超递归自组织系统 [维度: 6.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
-  - [FLIP基础涌现复杂性 [维度: 6.0]](formal_theory_flip_based_emergent_complexity.md)
+  - [超递归自组织系统 [维度: 5.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
+  - [FLIP基础涌现复杂性 [维度: 5.0]](formal_theory_flip_based_emergent_complexity.md)
 
 ### 4.2 理论引用网络结构
 

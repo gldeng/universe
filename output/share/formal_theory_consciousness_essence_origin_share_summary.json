@@ -1,0 +1,24 @@
+{
+  "title": "意识的本质与起源的严格形式化描述",
+  "dimension": "未知",
+  "version": "未知",
+  "platforms": [
+    "weixin",
+    "weibo",
+    "zhihu",
+    "xiaohongshu",
+    "douyin"
+  ],
+  "outputs": {
+    "texts": [
+      "formal_theory_consciousness_essence_origin_weixin.txt",
+      "formal_theory_consciousness_essence_origin_weibo.txt",
+      "formal_theory_consciousness_essence_origin_zhihu.txt",
+      "formal_theory_consciousness_essence_origin_xiaohongshu.txt",
+      "formal_theory_consciousness_essence_origin_douyin.txt"
+    ],
+    "image": "formal_theory_consciousness_essence_origin_share.png",
+    "html": "formal_theory_consciousness_essence_origin_share.html"
+  },
+  "generated_at": "2025-04-12 17:58:10"
+}

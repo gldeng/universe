@@ -1,5 +1,7 @@
 # Prime Frequency Harmony Theory [Dimension: 18]
 
+[Chinese Version](formal_theory_prime_frequency_harmony.md)
+
 **[中文版](formal_theory_prime_frequency_harmony.md) | [English Version]**
 
 **[Return to Index](../README.md)**

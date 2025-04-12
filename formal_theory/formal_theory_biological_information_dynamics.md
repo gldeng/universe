@@ -192,17 +192,17 @@ $`P^{t+1} = P^t \oplus \text{SHIFT}(P^t \oplus S(P^t))`$
 生物信息动力学理论在维度谱系中处于维度5.0，其与其他理论的维度关系如下：
 
 - **基础依赖理论**：
-  - [信息本体论 [维度: 4.0]](formal_theory_information_ontology.md)
-  - [XOR信息熵稳定性 [维度: 4.0]](formal_theory_xor_information_entropy_stability.md)
-  - [SHIFT状态转换基础 [维度: 4.0]](formal_theory_shift_state_transition_basics.md)
+  - [信息本体论 [维度: 5.0]](formal_theory_information_ontology.md)
+  - [XOR信息熵稳定性 [维度: 5.0]](formal_theory_xor_information_entropy_stability.md)
+  - [SHIFT状态转换基础 [维度: 5.0]](formal_theory_shift_state_transition_basics.md)
 
 - **同级关联理论**：
   - [神经量子场论 [维度: 5.0]](formal_theory_neural_quantum_field.md)
   - [生命科学与心理健康整合理论 [维度: 5.0]](formal_theory_lifescience_mental_health.md)
 
 - **高阶扩展理论**：
-  - [超递归自组织系统 [维度: 6.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
-  - [维度转换固定点 [维度: 6.0]](formal_theory_dimensional_transformation_fixed_points.md)
+  - [超递归自组织系统 [维度: 5.0]](formal_theory_hyperrecursive_self_organizing_systems.md)
+  - [维度转换固定点 [维度: 5.0]](formal_theory_dimensional_transformation_fixed_points.md)
 
 ### 4.2 理论引用网络结构
 

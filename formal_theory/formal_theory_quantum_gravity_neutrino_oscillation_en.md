@@ -1,5 +1,7 @@
 # Theoretical Framework for Detecting Quantum Gravity Through Neutrino Oscillations [Dimension: D4+]
 
+[Chinese Version](formal_theory_quantum_gravity_neutrino_oscillation.md)
+
 **[中文版本](formal_theory_quantum_gravity_neutrino_oscillation.md) | [English Version]**
 
 **[Return to Theory Index](../formal_theory.md)**

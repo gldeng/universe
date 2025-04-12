@@ -1,0 +1,10 @@
+# 意识的本质与起源的严格形式化描述：宇宙本论的第未知维度视角
+
+**[中文版] | [English Version](formal_theory_consciousness_essence_origin_en.md)**
+
+## 核心思想
+
+> \text{dim}(\mathcal{C}^{(n)})`$
+
+---
+本文基于宇宙本论v未知，通过两个基本操作XOR与SHIFT构建起对宇宙的全新理解框架。

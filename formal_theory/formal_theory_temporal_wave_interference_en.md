@@ -1,5 +1,7 @@
 # Temporal Wave Self-Interference Particle Formation Theory [Dimension: 28.0] v36.0
 
+[Chinese Version](formal_theory_temporal_wave_interference.md)
+
 **[中文版](formal_theory_temporal_wave_interference.md) | [English Version]**
 
 ## Table of Contents

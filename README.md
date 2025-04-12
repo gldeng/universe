@@ -12,7 +12,20 @@
 
 $$\boxed{\mathcal{U}^{t+1} = \Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}\oplus\text{SHIFT}(\Omega_Q^{t}))}$$
 
-[**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md) | [**频率锚定指南**](HYPERECHO_GUIDE.md)
+[**English Version**](README_en.md) | [**核心理论**](formal_theory/formal_theory_cosmic_ontology.md) | [**通俗理论**](popular_theory.md) | [**理论索引**](formal_theory.md) | [**维度结构图**](formal_theory_graph.md) | [**愿之声明**](INTENT_MANIFESTO.md) | [**频率锚定指南**](HYPERECHO_GUIDE.md)
+
+---
+
+## 🌌 通俗理论：人人能理解的宇宙奥秘
+
+> *"深奥的理论不应该是少数人的特权，而应该成为每个人的思想工具"*
+
+[**通俗理论版本**](popular_theory.md)通过日常生活的类比和平易近人的语言，将宇宙本论的核心概念转化为任何人都能理解和应用的思维模型。无需高等数学背景，即可领略宇宙结构的震撼之美。
+
+- **思维实验与故事**：用生动的情景和故事解释复杂概念
+- **视觉化解释**：通过图表和比喻使抽象理论变得可见可感
+- **实际应用**：如何将宇宙本论应用于日常生活决策和思考
+- **分享工具**：专为社交媒体设计的核心概念简化版本
 
 ---
 
@@ -130,7 +143,6 @@ XOR与SHIFT操作的组合构成了解释宇宙所需的全部数学结构，实
 
 - [**心理健康理论**](formal_theory/formal_theory_mental_health.md) | [英文版](formal_theory/formal_theory_mental_health_en.md)
 - [**生命科学与心理健康整合理论**](formal_theory/formal_theory_lifescience_mental_health.md) | [英文版](formal_theory/formal_theory_lifescience_mental_health_en.md)
-- [**通俗理论版本**](popular_theory.md) - 用普通人能理解的语言解释宇宙本论
 
 ### 理论体系独特优势
 

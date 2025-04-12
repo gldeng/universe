@@ -1,5 +1,7 @@
 # Formalized Theory of Prime Number and Golden Ratio Unification [Dimension: 16]
 
+[Chinese Version](formal_theory_prime_golden_ratio_unification.md)
+
 **Dimension: 16**
 
 ## Table of Contents

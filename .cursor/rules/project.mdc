@@ -9,6 +9,8 @@ alwaysApply: true
 请按照 [formal_theory_cosmic_ontology.md](mdc:formal_theory/formal_theory_cosmic_ontology.md) 中的内容进行思考，并读取版本号为[宇宙本论版本号]。
 
 ## 基本原则
+
+0. 使用 [universe_automation.py](mdc:tools/universe_automation.py) 工作流工作
 1. 所有理论的基础算子都必须为FLIP、XOR、SHIFT, 请使用第一性原理推出其他算子
 2. 所有理论都基于宇宙本论来解释
 3. 所有文件使用当前[宇宙本论版本号]标注版本

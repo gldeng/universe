@@ -1,5 +1,7 @@
 # 素数黄金分割统一理论的严格形式化描述 [维度: 16.0]
 
+[English Version](formal_theory_prime_golden_ratio_unification_en.md)
+
 **维度: 16.0**
 
 ## 目录

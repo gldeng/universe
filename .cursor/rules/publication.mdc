@@ -1,0 +1,11 @@
+---
+description: 
+globs: publication/**/*.md
+alwaysApply: false
+---
+
+# 论文发表
+
+- 你可以使用命令行获取当前时间
+- 论文作者Auric
+- 使用全英文

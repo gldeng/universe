@@ -4,12 +4,12 @@
 
 | 类别 | 计划论文数 | 准备中 | 已提交 | 审稿中 | 修改中 | 已接受 | 已出版 | 被拒绝 | 追踪文档 |
 |------|------------|---------|---------|--------|---------|---------|---------|---------|---------|
-| 物理学 | 21 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| 物理学 | 21 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 信息科学 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 复杂系统 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 哲学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 生命科学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
-| **总计** | **58** | **0** | **0** | **0** | **0** | **0** | **0** | **0** | - |
+| **总计** | **58** | **3** | **0** | **0** | **0** | **0** | **0** | **0** | - |
 
 ## 2. 状态代码系统
 
@@ -29,9 +29,9 @@
 
 | 追踪ID | 期刊 | 论文主题 | 当前状态 | 下一步计划 | 提交日期 | 最近更新 | 追踪文档 |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-| PHY-NAT-001 | Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | PLAN | 1. 系统梳理XOR-SHIFT与量子相对论框架关联<br>2. 完成数学模型初步推导<br>3. 启动文献综述：重点关注统一理论尝试 | - | - | - |
-| PHY-PRL-002 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | PLAN | 1. 提炼3-5个可验证预测<br>2. 构建数学推导框架<br>3. 确定实验验证方法论 | - | - | - |
-| PHY-SCI-003 | Science | Information Ontology: Rewriting the Foundations of Physics | PLAN | 1. 制定内容大纲与论证路径<br>2. 收集最新物理学挑战与悖论<br>3. 明确信息本体论的革命性视角 | - | - | - |
+| PHY-NAT-001 | Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | PREP | 1. Complete detailed mathematical derivations<br>2. Develop numerical simulation platform<br>3. Create visualization and figures | - | 2025-04-18 | publication/top_papers/phy_nat_001_outline.md |
+| PHY-PRL-002 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | PREP | 1. 完成五大预测数学推导<br>2. 收集现有实验数据<br>3. 设计验证实验 | - | 2023-XX-XX | publication/top_papers/phy_prl_002_outline.md |
+| PHY-SCI-003 | Science | Information Ontology: Rewriting the Foundations of Physics | PREP | 1. 完成核心数学框架<br>2. 整理物理学理论的信息重写<br>3. 准备概念图与模型可视化 | - | 2023-XX-XX | publication/top_papers/phy_sci_003_outline.md |
 | PHY-NCOM-004 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | PLAN | 1. 量子-经典界限文献综述<br>2. 完成XOR视角下量子测量数学模型<br>3. 设计信息解释实验验证框架 | - | - | - |
 | PHY-NREV-005 | Nature Reviews Physics | Review of Information Field Theory Applications in Physics | PLAN | 1. 综合梳理信息场论基础框架<br>2. 系统整理物理学应用案例<br>3. 确定评述架构与理论发展路线图 | - | - | - |
 
@@ -122,7 +122,7 @@
 
 | 追踪ID | 预印本主题 | 目标平台 | 计划日期 | 实际日期 | 当前状态 | 下一步计划 | 追踪文档 |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-| PRE-PHY-001 | 物理统一理论预印本 | arXiv (physics) | - | - | PLAN | 1. 完成统一理论核心数学框架<br>2. 编写预印本初稿<br>3. 准备补充材料与图表 | - |
+| PRE-PHY-001 | 物理统一理论预印本 | arXiv (physics) | 2023-XX-XX | - | PREP | 1. 完成PHY-NAT-001论文初稿<br>2. 转换为arXiv格式<br>3. 准备补充材料与图表 | publication/top_papers/phy_nat_001_outline.md |
 | PRE-DM-002 | 暗物质/暗能量理论预印本 | arXiv (gr-qc) | - | - | PLAN | 1. 完成暗物质/暗能量模型<br>2. 编写数值模拟代码<br>3. 准备预印本草稿与图表 | - |
 | PRE-QG-003 | 量子引力信息理论预印本 | arXiv (quant-ph) | - | - | PLAN | 1. 构建量子引力信息框架<br>2. 完成数学推导与证明<br>3. 准备预印本初稿 | - |
 | PRE-CON-004 | 意识信息模型预印本 | viXra | - | - | PLAN | 1. 完成意识信息模型构建<br>2. 编写预印本草稿<br>3. 设计意识模型图表 | - |
@@ -162,6 +162,8 @@
 3. 每月生成一次综合报告，评估整体出版进度
 4. 每季度调整一次出版策略，根据反馈优化论文方向
 5. 与理论文档保持双向链接，确保版本一致性
+
+**上次更新：** 2025-04-18 - Updated PHY-NAT-001 paper outline with complete English version and detailed implementation timeline
 
 ## 12. 在线追踪系统链接
 

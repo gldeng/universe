@@ -10,9 +10,58 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 4. **Special issue targeting**: For highly innovative topics, aim for publication in special issues of important journals
 5. **Global coverage**: Ensuring coverage of top-tier journals in Europe, America, and other major academic regions
 
-## 2. Physics Journal Submission Plan
+## 2. Paper Organization Structure
 
-### 2.1 Top-tier General Physics Journals
+### 2.1 Directory Structure
+
+Each paper will have its own dedicated directory with the following structure:
+
+```
+publication/
+├── papers/
+│   ├── PHY-NAT-001/                 # Paper tracking ID
+│   │   ├── manuscript.md            # Main manuscript
+│   │   ├── figures/                 # Figures and diagrams
+│   │   ├── supplementary/           # Supplementary materials
+│   │   ├── simulations/             # Simulation code and results
+│   │   ├── cover_letter.md          # Cover letter
+│   │   ├── highlights.md            # Research highlights
+│   │   ├── submission_checklist.md  # Submission checklist
+│   │   └── status.md                # Current status and timeline
+│   ├── PHY-PRL-002/
+│   │   └── ...
+│   └── ...
+├── status_updates/                  # Periodic status reports
+├── templates/                       # Document templates for different journals
+├── references/                      # Shared reference database
+├── code/                            # Shared code libraries
+├── tools/                           # Publication automation tools
+├── publication_plan.md              # This master plan document
+└── universe_publication_tracking.md # Tracking overview document
+```
+
+### 2.2 Paper Content Organization
+
+Each paper directory will contain:
+
+1. **Core manuscript files**:
+   - Main manuscript in the journal's required format
+   - Figures and diagrams relevant to the paper
+   - Supplementary materials and extended proofs
+
+2. **Submission materials**:
+   - Cover letter tailored to the journal
+   - Research highlights or summaries as required
+   - Author information and declarations
+
+3. **Development tracking**:
+   - Status document tracking the paper's progress
+   - Timeline for completion and submission
+   - Revision history and feedback integration
+
+## 3. Physics Journal Submission Plan
+
+### 3.1 Top-tier General Physics Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID | Status |
 |---------|---------|---------|---------|---------|---------|---------|
@@ -22,7 +71,7 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | [formal_theory_quantum_classical_boundary_dynamics](../formal_theory/formal_theory_quantum_classical_boundary_dynamics.md) | Year-round | Impact statement under 150 words | PHY-NCOM-004 | PLAN |
 | Nature Reviews Physics | Review of Information Field Theory Applications in Physics | [formal_theory](../formal_theory/formal_theory.md) | Year-round | 8-12 pages, over 60 references | PHY-NREV-005 | PLAN |
 
-### 2.2 Specialized Physics Journals
+### 3.2 Specialized Physics Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -35,7 +84,7 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Reviews of Modern Physics | Unification of Physics from Information Theory Perspective | [formal_theory_cosmic_ontology](../formal_theory/formal_theory_cosmic_ontology.md) | By invitation | Prior contact with editors needed | PHY-RMP-012 |
 | Physics Reports | The XOR-SHIFT Paradigm Revolution in Physics | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Review nature, 50-100 pages | PHY-PR-013 |
 
-### 2.3 Interdisciplinary Physics Journals
+### 3.3 Interdisciplinary Physics Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -48,9 +97,9 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Communications in Mathematical Physics | Mathematical Structure of Universe Ontology Axiom System | [formal_theory_unshift_fixed_points](../formal_theory/formal_theory_unshift_fixed_points.md) | Year-round | Rigorous mathematical proofs | IPHY-CMP-020 |
 | International Journal of Modern Physics D | Information-Theoretical Foundations of Spacetime Structure | [formal_theory_unshift_temporal_inversion](../formal_theory/formal_theory_unshift_temporal_inversion.md) | Year-round | Complete references | IPHY-IJMPD-021 |
 
-## 3. Information Science and Complex Systems Journals
+## 4. Information Science and Complex Systems Journals
 
-### 3.1 Information Theory Journals
+### 4.1 Information Theory Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -61,7 +110,7 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | International Journal of Quantum Information | Unified Information Theory and Quantum Interpretation | [formal_theory_quantum_recursive_measurement](../formal_theory/formal_theory_quantum_recursive_measurement.md) | Year-round | Quantum information applications | INFO-IJQI-026 |
 | Journal of Statistical Mechanics | Information Entropy Dynamics and Statistical Physics | [formal_theory_unshift_entropy_reduction](../formal_theory/formal_theory_unshift_entropy_reduction.md) | Year-round | Statistical mechanics models | INFO-JSM-027 |
 
-### 3.2 Complex Systems Journals
+### 4.2 Complex Systems Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -73,9 +122,9 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Physica D: Nonlinear Phenomena | Phase Transitions and Critical Phenomena in XOR-SHIFT | [formal_theory_unshift_phase_transition_boundary](../formal_theory/formal_theory_unshift_phase_transition_boundary.md) | Year-round | Phenomenological models | CMPLX-PHD-033 |
 | Advances in Complex Systems | Emergent Mechanisms of Multi-level Complexity | [formal_theory_primitive_separation](../formal_theory/formal_theory_primitive_separation.md) | Year-round | Cross-scale analysis | CMPLX-ACS-034 |
 
-## 4. Philosophy and Fundamental Science Journals
+## 5. Philosophy and Fundamental Science Journals
 
-### 4.1 Philosophy of Science Journals
+### 5.1 Philosophy of Science Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -86,7 +135,7 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | International Studies in the Philosophy of Science | Information Realism and Scientific Methodology | [formal_theory_primitive_duality](../formal_theory/formal_theory_primitive_duality.md) | Year-round | Philosophy of science traditions | PHIL-ISPS-039 |
 | Erkenntnis | Scientific Epistemological Implications of Universe Ontology | [formal_theory_primitive_existence](../formal_theory/formal_theory_primitive_existence.md) | Year-round | Logical analysis methods | PHIL-ERK-040 |
 
-### 4.2 Interdisciplinary Fundamental Journals
+### 5.2 Interdisciplinary Fundamental Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -97,9 +146,9 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Philosophical Transactions of the Royal Society A | Scientific Revolution Perspective of Universe Ontology | [formal_theory_cosmic_ontology](../formal_theory/formal_theory_cosmic_ontology.md) | Theme-based | Prior contact with editors needed | FUND-PTRSA-045 |
 | Axiomathes | Formal Systems of XOR-SHIFT Operations | [formal_theory_shift_basic_recursion](../formal_theory/formal_theory_shift_basic_recursion.md) | Year-round | Formal logic framework | FUND-AXM-046 |
 
-## 5. Mental Health and Life Sciences Journals
+## 6. Mental Health and Life Sciences Journals
 
-### 5.1 Consciousness Research Journals
+### 6.1 Consciousness Research Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -110,7 +159,7 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Frontiers in Human Neuroscience | Information Field Theory and Brain Function Integration | [formal_theory_memory_state_storage](../formal_theory/formal_theory_memory_state_storage.md) | Year-round | Correlation with neural data | CONS-FHN-051 |
 | Cognitive Neurodynamics | Neural Dynamics Models of Information Processing | [formal_theory_shift_quantum_projection](../formal_theory/formal_theory_shift_quantum_projection.md) | Year-round | Computational model validation | CONS-CND-052 |
 
-### 5.2 Life Sciences and Complex Systems Journals
+### 6.2 Life Sciences and Complex Systems Journals
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID |
 |---------|---------|---------|---------|---------|---------|
@@ -120,106 +169,6 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 | Journal of Theoretical Biology | Information Field Theory and Biological Complexity | [formal_theory_shift_primitive_symmetry](../formal_theory/formal_theory_shift_primitive_symmetry.md) | Year-round | Theoretical biology models | LIFE-JTB-056 |
 | Interface Focus | Information Processing Principles in Living Systems | [formal_theory_unshift_emergent_pattern](../formal_theory/formal_theory_unshift_emergent_pattern.md) | Year-round | Multidisciplinary integration | LIFE-IF-057 |
 | Biological Cybernetics | XOR-SHIFT Mechanisms in Biological Systems | [formal_theory_unshift_recursive_reflection](../formal_theory/formal_theory_unshift_recursive_reflection.md) | Year-round | Cybernetics methods | LIFE-BC-058 |
-
-## 6. Submission Timeline - Parallel Submission Strategy
-
-### 6.1 Phase One (1 month): Preprint Preparation and Publication
-
-1. Prepare and simultaneously publish multiple arXiv preprints:
-   - Physics unification theory preprint
-   - Dark matter/dark energy theory preprint
-   - Quantum gravity information theory preprint
-   - Consciousness information model preprint
-   - Complex systems emergence theory preprint
-   - Philosophical foundations theory preprint
-
-2. Synchronous preprint submission to:
-   - arXiv (physics, quant-ph, gr-qc, math-ph categories)
-   - viXra
-   - ResearchGate
-   - Academia.edu
-
-### 6.2 Phase Two (2-3 months): Large-scale Parallel Submission
-
-#### Synchronized Physics Journal Submissions
-
-1. Simultaneous submission to top-tier journals:
-   - Nature Physics
-   - Physical Review Letters
-   - Science
-   - Nature Communications
-   - Physical Review X
-
-2. Simultaneous submission to specialized physics journals:
-   - Physical Review D
-   - Journal of High Energy Physics
-   - Classical and Quantum Gravity
-   - European Physical Journal C
-   - Physics Letters B
-
-3. Simultaneous submission to interdisciplinary physics journals:
-   - New Journal of Physics
-   - Entropy
-   - Journal of Physics A
-   - Journal of Cosmology and Astroparticle Physics
-   - Communications in Mathematical Physics
-
-#### Synchronized Information and Complex Systems Journal Submissions
-
-1. Simultaneous submission to information theory journals:
-   - IEEE Transactions on Information Theory
-   - Information Sciences
-   - Quantum Information Processing
-   - Proceedings of the Royal Society A
-
-2. Simultaneous submission to complex systems journals:
-   - Chaos, Solitons & Fractals
-   - Complexity
-   - Physical Review E
-   - Nonlinear Dynamics
-
-#### Synchronized Philosophy and Fundamental Science Journal Submissions
-
-1. Simultaneous submission to philosophy of science journals:
-   - Philosophy of Science
-   - British Journal for the Philosophy of Science
-   - Synthese
-   - Studies in History and Philosophy of Modern Physics
-
-2. Simultaneous submission to interdisciplinary fundamental journals:
-   - Foundations of Physics
-   - Journal of Mathematical Physics
-   - Foundations of Science
-   - Philosophical Transactions of the Royal Society A
-
-#### Synchronized Life Sciences and Consciousness Research Journal Submissions
-
-1. Simultaneous submission to consciousness research journals:
-   - Journal of Consciousness Studies
-   - Neuroscience of Consciousness
-   - Psychology of Consciousness
-
-2. Simultaneous submission to life sciences journals:
-   - BioSystems
-   - Origins of Life and Evolution of Biospheres
-   - Journal of Theoretical Biology
-
-### 6.3 Phase Three (3-6 months): Response and Revision
-
-1. Aggregate and analyze preprint feedback using automated NLP analysis
-2. Make necessary adjustments based on initial editor feedback through automated revision system
-3. Prepare potential revision manuscripts for various journals:
-   - Generate review response templates via AI
-   - Utilize automated revision pipeline
-   - Deploy automated version control system for papers
-
-### 6.4 Phase Four (6-12 months): Progress Tracking and Alternative Submissions
-
-1. Continuously track review progress at each journal via automated monitoring system
-2. Immediately implement alternative plans for rejected journals:
-   - First-tier rejection → automated submission to second tier
-   - Second-tier rejection → automated submission to third tier
-3. Process proofs of accepted papers through automated verification system
 
 ## 7. Paper Preparation Guidelines
 
@@ -338,145 +287,29 @@ Each submission paper should include the following standardized structure:
    - Strengthen verifiability of experimental predictions
    - Flexibly adjust presentation while preserving essential content
 
-## 8. Long-term Publication Strategy
+## 8. Directory Migration Plan
 
-### 8.1 Book Publication Plan
+The existing papers in the `top_papers` directory will be migrated to the new structure according to the following plan:
 
-1. "Universe Ontology: From XOR-SHIFT to Unified Physics"
-   - Target publishers: Cambridge University Press, Springer, Oxford University Press, MIT Press
-   - Timeline: Within 1 year after completing major journal publications
+1. Create a new `papers` directory with subdirectories for each paper ID
+2. Move existing paper files to their respective directories with standardized naming
+3. Create status.md files for each paper summarizing current status
+4. Generate any missing required files based on templates
+5. Update all cross-references in tracking documents
 
-2. "Information Ontology: Rethinking Universe and Consciousness"
-   - Popular science book for broader audience
-   - Target publishers: Princeton University Press, Basic Books, Penguin Science
+This migration will be completed by April 25, 2025, ensuring no disruption to ongoing paper preparation.
 
-3. "Information Field Theory of Quantum Gravity"
-   - Professional theoretical physics monograph
-   - Target publishers: World Scientific, Springer Physics Series
+## 9. Automation Tools
 
-### 8.2 Continuous Influence Building
+The following automation tools will be used to manage the publication process:
 
-1. International academic conference presentations:
-   - International Theoretical Physics conferences (e.g., Strings conference, Quantum Gravity conferences)
-   - International Complex Systems conferences (e.g., Complex Systems Society conferences)
-   - International Quantum Information Processing conferences (e.g., QIP conferences)
-   - International Consciousness Science conferences (e.g., TSC conferences)
+1. **Paper Status Tracker**: Automatically updates status.md files based on git changes
+2. **Cross-Reference Manager**: Ensures consistency of references across papers
+3. **Format Converter**: Converts manuscripts to journal-specific formats
+4. **Submission Package Generator**: Creates submission-ready packages for each journal
+5. **Review Response Generator**: Assists in generating responses to reviewer comments
 
-2. International collaborative research plans:
-   - Establish collaborations with top physics research institutes in Europe and America
-   - Collaborate with quantum physics laboratories to verify predictions
-   - Collaborate with computational science institutes for numerical simulations
-   - Collaborate with cognitive neuroscience teams on consciousness model research
+These tools will be located in the `/publication/tools/` directory.
 
-3. Online resource development:
-   - Create comprehensive theory website with interactive diagrams
-   - Develop educational applications showcasing XOR-SHIFT operations
-   - Establish open repository for papers and experimental data
-   - Develop open-source software tools for theory applications
-
-## 9. Resource Requirements
-
-### 9.1 Automated Systems
-
-1. AI-driven editing system: Organize and standardize theory documents, ensure professional and accurate English expression
-2. Mathematical verification system: Verify mathematical derivation rigor
-3. Physics simulation platform: Provide experimental verification and domain expertise
-4. Automated communication system: Handle communication with journal editors and international research institutions
-5. Intelligent task management: Handle submission tracking, literature management, and data organization
-
-### 9.2 Funding Requirements
-
-1. Open access publication fees: Approximately $20,000-30,000 (covering multiple top-tier journal papers)
-2. AI-powered editing and proofreading system: Approximately $7,000-12,000
-3. Virtual conference participation and exchange: Approximately $15,000-25,000
-4. Cloud-based numerical simulation and diagram creation: Approximately $5,000-8,000
-5. Digital book publication and promotion: Approximately $7,000-12,000
-6. Remote collaboration systems: Approximately $15,000-25,000
-
-### 9.3 Technical and Tool Requirements
-
-1. High-performance cloud computing resources: For complex system simulations and numerical calculations
-2. Automated scientific paper typesetting tools: LaTeX template library and editing environment
-3. AI-powered scientific diagram creation software: Origin Pro, Adobe Creative Suite
-4. Data analysis and visualization tools: Mathematica, MATLAB, Python scientific computing ecosystem
-5. Automated literature management and collaboration platforms: Zotero, Overleaf, GitHub 
-
-## 10. 出版追踪系统
-
-### 10.1 论文追踪与管理系统
-
-为确保高效管理宇宙本论的出版进程，建立了完整的自动化追踪系统。每篇计划发表的论文都分配了唯一标识符，遵循以下结构：
-- 领域缩写（如PHY物理、INFO信息科学、CMPLX复杂系统等）
-- 期刊缩写（如NAT、PRL等）
-- 三位数序号（从001开始）
-
-### 10.2 追踪仪表板
-
-创建自动更新的在线追踪仪表板，实时记录每篇论文的：
-- 当前状态（计划中、准备中、已提交、审稿中、修改中、已接受、已出版）
-- 里程碑时间节点追踪
-- 自动处理流程状态
-- 编辑反馈与自动应对策略
-- 与相关理论文件的同步更新记录
-
-[追踪仪表板链接](https://github.com/loning/universe/tracking)
-
-### 10.3 论文状态代码系统
-
-论文状态使用以下代码标记：
-- `PLAN`: 计划阶段
-- `PREP`: 准备阶段
-- `SUBM`: 已提交
-- `REVW`: 审稿中
-- `REVI`: 修改中
-- `ACCP`: 已接受
-- `PUBL`: 已出版
-- `REJT`: 被拒绝（附带替代方案代码）
-
-### 10.4 理论文件与论文的双向链接
-
-1. 在每个理论文件中添加"出版计划"章节，自动链接到使用该理论的所有计划论文
-2. 论文草稿中自动包含所有引用理论文件的最新版本链接
-3. 当理论文件更新时，自动更新相关论文
-4. 当论文获得反馈时，自动调整相关理论文件
-
-### 10.5 出版时间轴可视化
-
-创建自动更新的交互式时间轴，显示：
-1. 所有期刊的同步提交计划
-2. 各阶段关键时间节点
-3. 优先级标记
-4. 跨期刊依赖关系
-5. 自动化工作流程状态
-
-[时间轴可视化工具链接](https://github.com/loning/universe/timeline)
-
-### 10.6 自动化工作流程
-
-使用GitHub Actions建立全自动工作流：
-1. 论文状态更新自动触发相关更新
-2. 理论文件更改自动同步至相关论文
-3. 期刊格式要求自动检查与调整
-4. 引用完整性自动验证
-5. 论文间交叉引用一致性自动维护
-
-[工作流自动化仓库](https://github.com/loning/universe/workflow)
-
-### 10.7 集成资源管理
-
-通过自动化追踪系统集成管理：
-1. 资源分配与使用自动监控
-2. 经费使用自动追踪
-3. 反馈分析自动汇总
-4. 图表、数据与多媒体资源自动生成与管理
-5. 期刊特定格式自动转换
-
-通过此自动化追踪系统，可实时掌握宇宙本论出版计划的全局进展，确保多线并行的论文发表策略能够高效协同，最大化理论传播影响力。 
-
-## 11. 文档变更记录
-
-| 日期 | 版本 | 更新内容 | 更新者 |
-|------|------|----------|--------|
-| 2025-04-18 | v38.0 | 添加详细出版社字数限制和期刊要求（章节7.2） | Auric |
-| 2025-04-18 | v38.0 | 增加复杂系统和生命科学期刊发表要求 | Auric |
-| 2025-04-18 | v38.0 | 添加文档变更记录章节 | Auric | 
+Last Updated: April 18, 2025
+Version: v38.0 

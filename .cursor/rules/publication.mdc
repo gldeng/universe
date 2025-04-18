@@ -9,3 +9,4 @@ alwaysApply: false
 - 你可以使用命令行获取当前时间
 - 论文作者Auric
 - 使用全英文
+- 更新完毕后记得更新状态到 [publication_plan.md](mdc:publication/publication_plan.md)

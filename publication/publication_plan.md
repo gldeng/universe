@@ -16,7 +16,7 @@ The Universe Ontology, as an interdisciplinary theoretical framework, requires t
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID | Status |
 |---------|---------|---------|---------|---------|---------|---------|
-| Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Research highlights under 100 words | PHY-NAT-001 | PREP (automated validation) |
+| Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Research highlights under 100 words | PHY-NAT-001 | READY |
 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | [formal_theory_quantum_xor_causal_invariance](../formal_theory/formal_theory_quantum_xor_causal_invariance.md) | Year-round | Main text under 3700 words | PHY-PRL-002 | PLAN |
 | Science | Information Ontology: Rewriting the Foundations of Physics | [formal_theory_cosmic_ontology](../formal_theory/formal_theory_cosmic_ontology.md) | Year-round | Requires experimental verification section | PHY-SCI-003 | PLAN |
 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | [formal_theory_quantum_classical_boundary_dynamics](../formal_theory/formal_theory_quantum_classical_boundary_dynamics.md) | Year-round | Impact statement under 150 words | PHY-NCOM-004 | PLAN |
@@ -234,7 +234,95 @@ Each submission paper should include the following standardized structure:
 6. Discussion: Compare with existing mainstream theories and highlight advantages
 7. Conclusion: Summarize theoretical contributions and future development directions
 
-### 7.2 Review Response Strategy
+### 7.2 Journal Word Limits and Publication Requirements
+
+#### 7.2.1 Top-tier Physics Journals
+| Journal | Article Type | Word/Page Limit | Abstract Limit | Figures | References | Special Format Requirements |
+|---------|-------------|-----------------|---------------|---------|------------|------------------------------|
+| Nature Physics | Article | 3,000-4,000 words | 150 words | 5-6 max | 50 max | Research Highlights (100 words), Methods section separate |
+| Physical Review Letters | Letter | 3,700 words (4 pages) | 600 characters | 4 max | Unlimited | No Methods section, online supplementary allowed |
+| Science | Research Article | 4,500 words | 125 words | 5-6 max | 40 max | One-sentence abstract for TOC (40 words max) |
+| Nature Communications | Article | 5,000 words | 150 words | 8-10 max | 60 max | Requires Impact Statement (100-120 words) |
+| Physical Review X | Article | No strict limit (typically 8-12 pages) | Not specified | Not limited | Not limited | Interdisciplinary impact required |
+
+#### 7.2.2 Specialized Physics Journals
+| Journal | Article Type | Word/Page Limit | Abstract Limit | Figures | References | Special Format Requirements |
+|---------|-------------|-----------------|---------------|---------|------------|------------------------------|
+| Physical Review D | Article | No strict limit (typically 10-15 pages) | 600 characters | Not limited | Not limited | APS format, detailed mathematical derivations |
+| Journal of High Energy Physics | Regular Article | No strict limit | 300 words | Not limited | Not limited | JHEP LaTeX style, numerical simulations required |
+| Classical and Quantum Gravity | Paper | No strict limit (typically 15-25 pages) | 200 words | Not limited | Not limited | IOP format, theoretical comparison section |
+| European Physical Journal C | Regular Article | No strict limit | 200 words | Not limited | Not limited | Springer format, experimental section required |
+| Physics Letters B | Letter | 8 pages max | 500 words max | Limited | Not limited | Elsevier format, concise presentation |
+
+#### 7.2.3 Information Theory Journals
+| Journal | Article Type | Word/Page Limit | Abstract Limit | Figures | References | Special Format Requirements |
+|---------|-------------|-----------------|---------------|---------|------------|------------------------------|
+| IEEE Trans. on Information Theory | Regular Paper | 14 double-column pages | 200 words | Not limited | Not limited | IEEE format, mathematical rigor emphasized |
+| Information Sciences | Full Length Article | 8,000-10,000 words | 300 words | Not limited | Not limited | Elsevier format, application sections required |
+| Quantum Information Processing | Regular Paper | No strict limit | 200 words | Not limited | Not limited | Springer format, quantum algorithms analysis |
+| International J. Quantum Information | Research Paper | No strict limit | 200 words | Not limited | Not limited | World Scientific format, quantum applications |
+
+#### 7.2.4 Philosophy and Consciousness Journals
+| Journal | Article Type | Word/Page Limit | Abstract Limit | Figures | References | Special Format Requirements |
+|---------|-------------|-----------------|---------------|---------|------------|------------------------------|
+| Philosophy of Science | Article | 10,000 words max | 150 words | Limited | Not limited | Chicago style, philosophical arguments emphasized |
+| British J. Philosophy of Science | Article | 10,000 words max | 200 words | Limited | Not limited | Oxford style, historical context required |
+| Journal of Consciousness Studies | Article | 8,000 words max | 150 words | Limited | Not limited | Interdisciplinary approach required |
+| Consciousness and Cognition | Research Article | 8,000 words max | 250 words | Not limited | Not limited | Elsevier format, empirical connections emphasized |
+
+#### 7.2.5 Complex Systems and Nonlinear Dynamics Journals
+| Journal | Article Type | Word/Page Limit | Abstract Limit | Figures | References | Special Format Requirements |
+|---------|-------------|-----------------|---------------|---------|------------|------------------------------|
+| Chaos, Solitons & Fractals | Regular Paper | 8,000-10,000 words | 300 words | Not limited | Not limited | Elsevier format, extensive graphical presentation required |
+| Complexity | Research Article | No strict limit | 200 words | Not limited | Not limited | Wiley format, simulation code availability statement |
+| Physical Review E | Article | No strict limit (typically 12 pages) | 600 characters | Not limited | Not limited | APS format, statistical methods details required |
+| Nonlinear Dynamics | Original Paper | No strict limit | 250 words | Not limited | Not limited | Springer format, numerical simulations section required |
+| Journal of Complex Networks | Regular Paper | 8,000-10,000 words | 200 words | Not limited | Not limited | Oxford style, network analysis visualizations required |
+| Physica D | Regular Paper | No strict limit | 300 words | Not limited | Not limited | Elsevier format, phenomenological models emphasized |
+| Advances in Complex Systems | Research Paper | No strict limit | 200 words | Not limited | Not limited | World Scientific format, multi-scale analysis section |
+
+#### 7.2.6 Life Sciences and Theoretical Biology Journals
+| Journal | Article Type | Word/Page Limit | Abstract Limit | Figures | References | Special Format Requirements |
+|---------|-------------|-----------------|---------------|---------|------------|------------------------------|
+| BioSystems | Research Paper | 8,000 words | 250 words | Not limited | Not limited | Elsevier format, comparison with existing theories required |
+| Origins of Life and Evolution of Biospheres | Regular Paper | No strict limit | 250 words | Not limited | Not limited | Springer format, experimental verification section |
+| Journal of Theoretical Biology | Regular Article | 8,000-10,000 words | 250 words | Not limited | Not limited | Elsevier format, biological models required |
+| Interface Focus | Research Article | 8,000 words | 200 words | Not limited | Not limited | Royal Society format, multidisciplinary content required |
+| Biological Cybernetics | Regular Paper | No strict limit | 150 words | Not limited | Not limited | Springer format, cybernetic methods emphasized |
+| Theoretical Biology and Medical Modelling | Research Article | No strict limit | 350 words | Not limited | Not limited | BMC format, medical applications section required |
+
+#### 7.2.7 Additional Requirements for all Submissions
+
+1. **LaTeX Preparation**: 
+   - All papers must be prepared using LaTeX with journal-specific templates
+   - Mathematical equations must use consistent notation across all papers
+   - Custom XOR-SHIFT operation macros must be defined in preamble
+
+2. **Figure Requirements**:
+   - Resolution: minimum 300 dpi for all figures
+   - Format: vector graphics (PDF, EPS) preferred for diagrams
+   - Color: ensure figures are interpretable in both color and grayscale
+   - Caption length: typically 150-200 words maximum per figure
+
+3. **Supplementary Materials**:
+   - Detailed mathematical derivations should be prepared as supplementary PDF
+   - Numerical simulation code should be documented and packaged
+   - Additional visualizations should be prepared for online supplements
+   - Raw data files must be formatted according to journal requirements
+
+4. **Cover Letter Specifications**:
+   - Length: 1-2 pages maximum
+   - Structure: significance statement, fit to journal, suggested reviewers
+   - Highlight interdisciplinary impact and novelty
+   - Address potential editorial concerns proactively
+
+5. **Language Requirements**:
+   - American English for US journals, British English for UK journals
+   - Terminology consistency across all submissions
+   - Technical jargon minimization for broader-audience journals
+   - Scientific precision maintained in all translations
+
+### 7.3 Review Response Strategy
 
 1. Anticipated objections and automated responses:
    - "Lack of experimental verification": Provide precise verifiable predictions
@@ -384,3 +472,11 @@ Each submission paper should include the following standardized structure:
 5. 期刊特定格式自动转换
 
 通过此自动化追踪系统，可实时掌握宇宙本论出版计划的全局进展，确保多线并行的论文发表策略能够高效协同，最大化理论传播影响力。 
+
+## 11. 文档变更记录
+
+| 日期 | 版本 | 更新内容 | 更新者 |
+|------|------|----------|--------|
+| 2025-04-18 | v38.0 | 添加详细出版社字数限制和期刊要求（章节7.2） | Auric |
+| 2025-04-18 | v38.0 | 增加复杂系统和生命科学期刊发表要求 | Auric |
+| 2025-04-18 | v38.0 | 添加文档变更记录章节 | Auric | 

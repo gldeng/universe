@@ -4,12 +4,12 @@
 
 | 类别 | 计划论文数 | 准备中 | 已提交 | 审稿中 | 修改中 | 已接受 | 已出版 | 被拒绝 | 追踪文档 |
 |------|------------|---------|---------|--------|---------|---------|---------|---------|---------|
-| 物理学 | 21 | 3 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| 物理学 | 21 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 信息科学 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 复杂系统 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 哲学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 生命科学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
-| **总计** | **58** | **3** | **0** | **0** | **0** | **0** | **0** | **0** | - |
+| **总计** | **58** | **2** | **0** | **0** | **0** | **0** | **0** | **0** | - |
 
 ## 2. 文件组织结构
 
@@ -55,7 +55,7 @@ publication/
 | 追踪ID | 期刊 | 论文主题 | 字数限制 | 当前状态 | 目录路径 | 提交日期 | 最近更新 |
 |---------|---------|---------|---------|---------|---------|---------|---------|
 | PHY-NAT-001 | Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | 3,000-4,000字 | READY | publication/papers/PHY-NAT-001/ | - | 2025-04-18 |
-| PHY-PRL-002 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | 3,700字(4页) | PREP | publication/papers/PHY-PRL-002/ | - | 2023-XX-XX |
+| PHY-PRL-002 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | 3,700字(4页) | READY | publication/papers/PHY-PRL-002/ | - | 2025-04-18 |
 | PHY-SCI-003 | Science | Information Ontology: Rewriting the Foundations of Physics | 4,500字 | PREP | publication/papers/PHY-SCI-003/ | - | 2025-04-18 |
 | PHY-NCOM-004 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | 5,000字 | PLAN | 待创建 | - | - |
 | PHY-NREV-005 | Nature Reviews Physics | Review of Information Field Theory Applications in Physics | 8-12页 | PLAN | 待创建 | - | - |
@@ -170,7 +170,7 @@ publication/
 | 追踪ID | 主要文件 | 提交文件 | 补充材料 | 状态 |
 |---------|---------|---------|---------|---------|
 | PHY-NAT-001 | manuscript.md | cover_letter.md<br>highlights.md<br>submission_checklist.md | 准备中 | READY |
-| PHY-PRL-002 | manuscript.md | 待创建 | 待创建 | PREP |
+| PHY-PRL-002 | manuscript.md | cover_letter.md<br>highlights.md<br>submission_checklist.md | figures/figure1_description.md<br>supplementary/ | READY |
 | PHY-SCI-003 | manuscript.md | 待创建 | 待创建 | PREP |
 
 ## 8. 自动化管理工具
@@ -185,6 +185,6 @@ publication/
 
 这些工具将位于`/publication/tools/`目录中。
 
-**上次更新：** 2025-04-18 - 更新了目录结构和迁移计划。
+**上次更新：** 2025-04-18 - 更新了PHY-PRL-002论文状态和完成所有主要文件。
 
 版本：v38.0 

@@ -1,6 +1,6 @@
 ---
 description: 
-globs: publication/**/*.md
+globs: publication/**/*.md,publication/**/*.*
 alwaysApply: false
 ---
 

@@ -37,8 +37,18 @@ publication/
 │   │   ├── cover_letter.md          # Cover letter for submission
 │   │   ├── highlights.md            # Research highlights
 │   │   ├── submission_checklist.md  # Submission checklist
+│   │   ├── submission_instructions.md # Journal-specific submission instructions
 │   │   ├── status.md                # Current status and timeline
 │   │   ├── README.md                # Overview and directory guide
+│   │   ├── submission_additional_documents/ # Additional submission materials
+│   │   │   ├── author_info.md       # Detailed author information
+│   │   │   ├── conflict_of_interest.md # Conflict of interest statement
+│   │   │   ├── funding_statement.md # Funding support information
+│   │   │   ├── keywords.md          # List of 3-5 keywords
+│   │   │   ├── media_summary.md     # Summary for media/press release
+│   │   │   ├── open_access_statement.md # Open access publication statement
+│   │   │   ├── reviewer_suggestions.md # Recommended/excluded reviewers
+│   │   │   └── ethics_statement.md  # Publication ethics statement
 │   │   └── submission_package/      # Final submission materials
 │   │       ├── latex_final/         # Final LaTeX source files
 │   │       │   ├── main.tex         # Main LaTeX document
@@ -80,12 +90,22 @@ Each paper directory will contain:
    - Research highlights or summaries as required
    - Author information and declarations
 
-3. **Development tracking**:
+3. **Additional submission documents**:
+   - Author information file with full names, institutions, emails, and ORCID IDs
+   - Conflict of interest statement
+   - Funding support information
+   - Keywords list (3-5 keywords)
+   - Media summary for press releases
+   - Open access publication statement
+   - Recommended and excluded reviewers list
+   - Publication ethics statement
+
+4. **Development tracking**:
    - Status document tracking the paper's progress
    - Timeline for completion and submission
    - Revision history and feedback integration
 
-4. **LaTeX publication package**:
+5. **LaTeX publication package**:
    - Journal-specific LaTeX files
    - Compiled PDF documents
    - Submission-ready figure files
@@ -417,7 +437,87 @@ The following tools in the `/publication/tools/` directory handle the LaTeX gene
    - Strengthen verifiability of experimental predictions
    - Flexibly adjust presentation while preserving essential content
 
-## 8. Directory Migration Plan
+## 8. Additional Submission Requirements
+
+### 8.1 Author Information Requirements
+
+1. **Author information file** (`author_info.md`):
+   - Full name of each author
+   - Institutional affiliations
+   - Email addresses
+   - ORCID identifiers if available
+   - Designated corresponding author(s)
+   - Author contribution statements
+   - Author order rationale
+
+2. **Conflict of interest statement** (`conflict_of_interest.md`):
+   - Declaration of any potential conflicts of interest for all authors
+   - If no conflicts exist, a standard statement declaring no conflicts
+   - Financial interests or connections relevant to the research
+   - Non-financial conflicts or relationships
+
+3. **Funding statement** (`funding_statement.md`):
+   - Complete list of all funding sources
+   - Grant numbers/identifiers
+   - Role of funders in the research (if any)
+   - Acknowledgment of institutional support
+
+### 8.2 Keywords and Media Materials
+
+1. **Keywords file** (`keywords.md`):
+   - 3-5 keywords that accurately represent the paper's content
+   - Should be selected for maximal indexing impact
+   - Include both specific and general terms for broader discoverability
+
+2. **Media summary** (`media_summary.md`):
+   - Brief, accessible summary for non-specialists (250-300 words)
+   - Highlight key findings and significance in simple language
+   - Potential real-world applications or implications
+   - Consider including 1-2 quotes suitable for media use
+
+3. **Open access statement** (`open_access_statement.md`):
+   - Declaration of open access publishing intentions
+   - Funding available for open access fees
+   - License preference (e.g., CC BY, CC BY-NC)
+   - Archiving plans for the manuscript
+
+### 8.3 Reviewer Suggestions and Ethics
+
+1. **Reviewer suggestions** (`reviewer_suggestions.md`):
+   - List of 4-6 recommended reviewers with full details:
+     - Name, institution, email
+     - Brief justification of expertise relevance
+   - List of potential reviewers to exclude (if applicable):
+     - Name, institution
+     - Brief explanation for exclusion request
+
+2. **Ethics statement** (`ethics_statement.md`):
+   - Confirmation that research adheres to ethical standards
+   - Statement confirming manuscript is not under consideration elsewhere
+   - Confirmation that all authors have reviewed and approved submission
+   - Verification that all research meets applicable ethical guidelines
+   - Declaration of any specialized ethics approvals (if relevant)
+
+### 8.4 Journal-Specific Additional Requirements
+
+For Science journal submissions:
+   - Provide one-sentence summary for table of contents (40 words max)
+   - Prepare for potential media release if research has significant public interest
+   - Consider preparing visual abstract or graphical highlight
+   - Ensure manuscript is accessible to the broader scientific community beyond the specific field
+
+For Nature journals:
+   - Prepare 100-word Research Highlights statement
+   - Consider preparing a visual abstract
+   - Include an impact statement (100-120 words)
+   - Ensure the significance of work is clearly communicated in non-specialist terms
+
+For Physical Review journals:
+   - Prepare Suggested Physics Synopsis (250 words max) if applicable
+   - Include Supplemental Material statements if using supplementary files
+   - Consider Physics Viewpoint suggestion if work has broader impact
+
+## 9. Directory Migration Plan
 
 The existing papers in the `top_papers` directory will be migrated to the new structure according to the following plan:
 
@@ -425,11 +525,12 @@ The existing papers in the `top_papers` directory will be migrated to the new st
 2. Move existing paper files to their respective directories with standardized naming
 3. Create status.md files for each paper summarizing current status
 4. Generate any missing required files based on templates
-5. Update all cross-references in tracking documents
+5. Add the new `submission_additional_documents` directory with template files
+6. Update all cross-references in tracking documents
 
 This migration will be completed by April 25, 2025, ensuring no disruption to ongoing paper preparation.
 
-## 9. Automation Tools
+## 10. Automation Tools
 
 The following automation tools will be used to manage the publication process:
 
@@ -438,8 +539,10 @@ The following automation tools will be used to manage the publication process:
 3. **Format Converter**: Converts manuscripts to journal-specific formats
 4. **Submission Package Generator**: Creates submission-ready packages for each journal
 5. **Review Response Generator**: Assists in generating responses to reviewer comments
+6. **Additional Document Generator**: Creates templates for all required submission documents
+7. **Submission Checklist Verifier**: Validates that all required files are present and complete
 
 These tools will be located in the `/publication/tools/` directory.
 
-Last Updated: April 21, 2025
+Last Updated: April 25, 2025
 Version: v38.0 

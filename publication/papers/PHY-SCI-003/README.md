@@ -32,6 +32,7 @@ PHY-SCI-003/
 ├── cover_letter.md          # 提交信
 ├── highlights.md            # 研究亮点
 ├── submission_checklist.md  # 提交清单
+├── submission_instructions.md # Science期刊提交指南
 ├── status.md                # 当前状态和时间线
 ├── README.md                # 本文件
 └── submission_package/      # 最终提交材料
@@ -63,10 +64,11 @@ PHY-SCI-003/
 - 查看 `supplementary/` 目录获取补充材料和详细证明
 - 查看 `simulations/` 目录获取相关模拟代码
 - 查看 `status.md` 了解项目当前状态和时间线
+- 查看 `submission_instructions.md` 获取Science期刊详细提交流程指南
 
 ## 提交计划
 
-计划于2025年5月初提交至Science期刊。所有必要文件已完成并通过最终检查。详见 `submission_checklist.md` 和 `status.md`。
+计划于2025年5月初提交至Science期刊。所有必要文件已完成并通过最终检查。详见 `submission_checklist.md`、`submission_instructions.md` 和 `status.md`。
 
 ## 版权信息
 

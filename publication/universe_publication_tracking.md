@@ -23,7 +23,7 @@ publication/
 │   ├── PHY-NAT-001/                 # 论文追踪ID
 │   │   ├── manuscript.md            # 主要论文内容
 │   │   ├── outline.md               # 详细论文大纲
-│   │   ├── figures/                 # 图表和图片
+│   │   ├── figures/                 # 多个图表和图片
 │   │   │   ├── figure*.svg          # 图*矢量图
 │   │   │   ├── figure*_description.md # 图1详细说明
 │   │   │   └── ...

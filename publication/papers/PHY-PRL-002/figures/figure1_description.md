@@ -1,47 +1,47 @@
-# Figure 1: Universe Ontology Verification Pathways
+# Figure 1: Experimental Setup for Quantum Causal Invariance Test
 
-This figure illustrates the five key experimental pathways for testing Universe Ontology predictions.
+## Description
 
-## Panel A: Decoherence Timing Experiment
+This figure illustrates the proposed experimental setup for testing the Quantum Causal Invariance prediction derived from the Universe Ontology theory. The experiment is based on a modified quantum delayed-choice setup that implements XOR-SHIFT transformations.
 
-Schematic diagram of a molecular interferometry experiment using molecules with controlled information complexity. The diagram shows:
-1. Source of molecules with engineered information complexity
-2. Interferometer setup with path length control
-3. Detection system for measuring decoherence rates
-4. Graph showing predicted non-linear scaling vs standard theory
+## Key Components
 
-## Panel B: Entanglement Conservation Measurement
+### Panel A: Conceptual Overview
 
-Illustration of a multi-node quantum network for testing the XOR-SHIFT entanglement conservation law:
-1. Four-node quantum network configuration
-2. Bell-state measurement cascade
-3. Visualization of entanglement transfer patterns
-4. Graph comparing UO prediction to standard quantum theory predictions
+1. **Source (S)**: A source of polarization-entangled photon pairs
+2. **XOR-SHIFT Transformation Module (T)**: Implements the transformation $T_{\alpha,\beta}(q) = \alpha \cdot q \oplus \beta \cdot \text{SHIFT}(q)$
+3. **Measurement Apparatus (M)**: Quantum state tomography setup for measuring interference patterns
+4. **Control System (C)**: Electronic control for varying $\alpha$ and $\beta$ parameters with the constraint $\alpha \oplus \beta = 1$
 
-## Panel C: Gravity-Quantum Boundary Test
+### Panel B: XOR-SHIFT Implementation Details
 
-Diagram of a matter-wave interferometer in variable gravitational field:
-1. Schematic of apparatus with height-dependent phase shifts
-2. Plot of predicted phase shifts vs. height difference
-3. Comparison with standard quantum gravity models
-4. Critical threshold visualization
+1. **Phase-Dependent Beam Splitter**: Combines input state with reference state to implement XOR operation
+2. **Delay Line**: Implements SHIFT operation through controlled time delay
+3. **Variable Attenuators**: Control $\alpha$ and $\beta$ parameters
+4. **Feedback Loop**: Ensures the constraint $\alpha \oplus \beta = 1$ is maintained
 
-## Panel D: Vacuum Energy Fluctuation Experiment
+### Panel C: Expected Results
 
-Illustration of specialized Casimir force experiment:
-1. Metamaterial plate design with resonant structures
-2. Measurement apparatus configuration
-3. Predicted spectral signature of vacuum fluctuations
-4. Comparison with standard QFT predictions
+Graph showing:
+1. **X-axis**: Values of $\alpha$ (and corresponding $\beta = \alpha \oplus 1$)
+2. **Y-axis**: Interference pattern visibility
+3. **Solid line**: Universe Ontology prediction - constant visibility when $\alpha \oplus \beta = 1$
+4. **Dashed line**: Standard quantum mechanics prediction - variable visibility dependent on $\alpha$ values
+5. **Error bars**: Expected experimental uncertainty
 
-## Panel E: Non-Locality Limits Test
+## Technical Specifications
 
-Diagram of high-precision quantum correlation timing experiment:
-1. Entangled photon source with variable information encoding
-2. High-precision timing detection setup
-3. Information complexity variation methods
-4. Predicted correlation delays vs. information content
+- **Entangled Photon Source**: Type-II spontaneous parametric down-conversion (SPDC) with BBO crystal
+- **Wavelength**: 810 nm
+- **Polarization States**: Horizontal (H) and Vertical (V) polarizations
+- **Delay Line Range**: 0-300 fs in 10 fs steps
+- **Measurement Precision**: Interference visibility measurable to within ±0.01
+- **Data Collection**: 10^5 coincidence events per data point
 
-## Figure Caption
+## Key Insights
 
-**Figure 1: Experimental verification pathways for Universe Ontology.** (A) Molecular interferometry experiment for testing decoherence timing predictions, showing non-linear scaling with information complexity. (B) Multi-node quantum network for measuring XOR-SHIFT entanglement conservation effects. (C) Matter-wave interferometer for detecting gravitational modification of quantum phases. (D) Specialized Casimir force experiment for measuring distinctive vacuum energy fluctuation patterns. (E) High-precision correlation timing setup for testing non-locality information limits. Red lines indicate Universe Ontology predictions, blue lines show standard quantum theory predictions in each case. 
+This experimental setup tests a fundamental prediction of the Universe Ontology theory: that quantum causal relationships remain invariant under XOR-SHIFT transformations when $\alpha \oplus \beta = 1$. The visibility of the interference pattern serves as a direct measure of causal preservation. 
+
+According to standard quantum mechanics, the visibility should vary with different values of $\alpha$ and $\beta$. In contrast, the Universe Ontology theory predicts that visibility remains constant as long as the constraint $\alpha \oplus \beta = 1$ is satisfied.
+
+The experiment allows precise testing of the invariance condition by systematically varying the parameters and measuring the resulting interference patterns. Significant deviation from the predicted constant visibility would falsify this aspect of the Universe Ontology theory. 

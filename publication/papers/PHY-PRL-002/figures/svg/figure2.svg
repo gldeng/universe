@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+    <!-- Title -->
+    <text x="400" y="30" font-family="Arial" font-size="20" text-anchor="middle" font-weight="bold">Figure 2: XOR Invariance Interference Pattern</text>
+
+    <!-- Panel A: Experimental Setup -->
+    <rect x="50" y="60" width="700" height="220" fill="#f8f8f8" stroke="#333" stroke-width="1" />
+    <text x="400" y="80" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Panel A: Double-Path Interference Setup</text>
+
+    <!-- Laser source -->
+    <rect x="70" y="140" width="60" height="30" fill="#d5a6bd" stroke="#333" stroke-width="2" rx="5" ry="5" />
+    <text x="100" y="160" font-family="Arial" font-size="12" text-anchor="middle">Laser</text>
+    
+    <!-- First beam splitter -->
+    <rect x="180" y="140" width="30" height="30" fill="#9fc5e8" stroke="#333" stroke-width="2" rx="0" ry="0" />
+    <line x1="180" y1="140" x2="210" y2="170" stroke="#333" stroke-width="1" />
+    <text x="195" y="180" font-family="Arial" font-size="12" text-anchor="middle">BS₁</text>
+    
+    <!-- XOR Module (Upper Path) -->
+    <rect x="260" y="100" width="80" height="40" fill="#b6d7a8" stroke="#333" stroke-width="2" />
+    <text x="300" y="125" font-family="Arial" font-size="12" text-anchor="middle">XOR</text>
+    
+    <!-- Shift Module (Lower Path) -->
+    <rect x="260" y="170" width="80" height="40" fill="#ffe599" stroke="#333" stroke-width="2" />
+    <text x="300" y="195" font-family="Arial" font-size="12" text-anchor="middle">SHIFT</text>
+    
+    <!-- Phase controllers -->
+    <circle cx="380" cy="120" r="15" fill="#d9d2e9" stroke="#333" stroke-width="2" />
+    <text x="380" y="125" font-family="Arial" font-size="12" text-anchor="middle">φ₁</text>
+    
+    <circle cx="380" cy="190" r="15" fill="#d9d2e9" stroke="#333" stroke-width="2" />
+    <text x="380" y="195" font-family="Arial" font-size="12" text-anchor="middle">φ₂</text>
+    
+    <!-- Second beam splitter -->
+    <rect x="440" y="140" width="30" height="30" fill="#9fc5e8" stroke="#333" stroke-width="2" rx="0" ry="0" />
+    <line x1="440" y1="140" x2="470" y2="170" stroke="#333" stroke-width="1" />
+    <text x="455" y="180" font-family="Arial" font-size="12" text-anchor="middle">BS₂</text>
+    
+    <!-- Detectors -->
+    <rect x="520" y="100" width="60" height="30" fill="#ea9999" stroke="#333" stroke-width="2" rx="5" ry="5" />
+    <text x="550" y="120" font-family="Arial" font-size="12" text-anchor="middle">D₁</text>
+    
+    <rect x="520" y="180" width="60" height="30" fill="#ea9999" stroke="#333" stroke-width="2" rx="5" ry="5" />
+    <text x="550" y="200" font-family="Arial" font-size="12" text-anchor="middle">D₂</text>
+    
+    <!-- Analyzer -->
+    <rect x="620" y="140" width="80" height="40" fill="#f9cb9c" stroke="#333" stroke-width="2" />
+    <text x="660" y="165" font-family="Arial" font-size="12" text-anchor="middle">Analyzer</text>
+    
+    <!-- Connecting lines -->
+    <line x1="130" y1="155" x2="180" y2="155" stroke="#333" stroke-width="2" />
+    
+    <!-- Path from BS1 -->
+    <line x1="195" y1="140" x2="195" y2="120" stroke="#333" stroke-width="2" />
+    <line x1="195" y1="120" x2="260" y2="120" stroke="#333" stroke-width="2" />
+    
+    <line x1="195" y1="170" x2="195" y2="190" stroke="#333" stroke-width="2" />
+    <line x1="195" y1="190" x2="260" y2="190" stroke="#333" stroke-width="2" />
+    
+    <!-- Paths after modules -->
+    <line x1="340" y1="120" x2="380" y2="120" stroke="#333" stroke-width="2" />
+    <line x1="340" y1="190" x2="380" y2="190" stroke="#333" stroke-width="2" />
+    
+    <line x1="395" y1="120" x2="455" y2="120" stroke="#333" stroke-width="2" />
+    <line x1="455" y1="120" x2="455" y2="140" stroke="#333" stroke-width="2" />
+    
+    <line x1="395" y1="190" x2="455" y2="190" stroke="#333" stroke-width="2" />
+    <line x1="455" y1="190" x2="455" y2="170" stroke="#333" stroke-width="2" />
+    
+    <!-- Paths to detectors -->
+    <line x1="470" y1="140" x2="520" y2="115" stroke="#333" stroke-width="2" />
+    <line x1="470" y1="170" x2="520" y2="195" stroke="#333" stroke-width="2" />
+    
+    <!-- Path to analyzer -->
+    <line x1="580" y1="115" x2="620" y2="140" stroke="#333" stroke-width="2" />
+    <line x1="580" y1="195" x2="620" y2="180" stroke="#333" stroke-width="2" />
+
+    <!-- Panel B: Expected Interference Pattern -->
+    <rect x="50" y="300" width="700" height="280" fill="#f8f8f8" stroke="#333" stroke-width="1" />
+    <text x="400" y="320" font-family="Arial" font-size="16" text-anchor="middle" font-weight="bold">Panel B: Interference Pattern Results</text>
+
+    <!-- Graph axes -->
+    <line x1="150" y1="520" x2="650" y2="520" stroke="#333" stroke-width="2" /> <!-- X-axis -->
+    <line x1="150" y1="520" x2="150" y2="340" stroke="#333" stroke-width="2" /> <!-- Y-axis -->
+    
+    <!-- Axis labels -->
+    <text x="400" y="550" font-family="Arial" font-size="14" text-anchor="middle">Phase Difference (φ₁ - φ₂) in radians</text>
+    <text x="100" y="430" font-family="Arial" font-size="14" text-anchor="middle" transform="rotate(-90, 100, 430)">Interference Intensity</text>
+    
+    <!-- X-axis ticks -->
+    <line x1="150" y1="520" x2="150" y2="525" stroke="#333" stroke-width="1" />
+    <text x="150" y="535" font-family="Arial" font-size="10" text-anchor="middle">0</text>
+    
+    <line x1="250" y1="520" x2="250" y2="525" stroke="#333" stroke-width="1" />
+    <text x="250" y="535" font-family="Arial" font-size="10" text-anchor="middle">π/2</text>
+    
+    <line x1="350" y1="520" x2="350" y2="525" stroke="#333" stroke-width="1" />
+    <text x="350" y="535" font-family="Arial" font-size="10" text-anchor="middle">π</text>
+    
+    <line x1="450" y1="520" x2="450" y2="525" stroke="#333" stroke-width="1" />
+    <text x="450" y="535" font-family="Arial" font-size="10" text-anchor="middle">3π/2</text>
+    
+    <line x1="550" y1="520" x2="550" y2="525" stroke="#333" stroke-width="1" />
+    <text x="550" y="535" font-family="Arial" font-size="10" text-anchor="middle">2π</text>
+    
+    <line x1="650" y1="520" x2="650" y2="525" stroke="#333" stroke-width="1" />
+    <text x="650" y="535" font-family="Arial" font-size="10" text-anchor="middle">5π/2</text>
+    
+    <!-- Y-axis ticks -->
+    <line x1="145" y1="520" x2="150" y2="520" stroke="#333" stroke-width="1" />
+    <text x="140" y="525" font-family="Arial" font-size="10" text-anchor="end">0.0</text>
+    
+    <line x1="145" y1="460" x2="150" y2="460" stroke="#333" stroke-width="1" />
+    <text x="140" y="465" font-family="Arial" font-size="10" text-anchor="end">0.5</text>
+    
+    <line x1="145" y1="400" x2="150" y2="400" stroke="#333" stroke-width="1" />
+    <text x="140" y="405" font-family="Arial" font-size="10" text-anchor="end">1.0</text>
+    
+    <line x1="145" y1="340" x2="150" y2="340" stroke="#333" stroke-width="1" />
+    <text x="140" y="345" font-family="Arial" font-size="10" text-anchor="end">1.5</text>
+
+    <!-- Standard QM Prediction (dashed line) -->
+    <path d="M150,400 C175,340 225,520 250,400 C275,280 325,520 350,400 C375,280 425,520 450,400 C475,280 525,520 550,400 C575,280 625,520 650,400" 
+          stroke="#ff0000" stroke-width="2" stroke-dasharray="5,3" fill="none" />
+    
+    <!-- UO Prediction (solid line with distinct characteristics) -->
+    <path d="M150,400 C175,350 225,450 250,400 C275,350 325,450 350,400 C375,350 425,450 450,400 C475,350 525,450 550,400 C575,350 625,450 650,400" 
+          stroke="#0000ff" stroke-width="3" fill="none" />
+    
+    <!-- Data points with error bars -->
+    <circle cx="150" cy="400" r="4" fill="#333" />
+    <line x1="150" y1="390" x2="150" y2="410" stroke="#333" stroke-width="1" />
+    
+    <circle cx="250" cy="395" r="4" fill="#333" />
+    <line x1="250" y1="385" x2="250" y2="405" stroke="#333" stroke-width="1" />
+    
+    <circle cx="350" cy="400" r="4" fill="#333" />
+    <line x1="350" y1="390" x2="350" y2="410" stroke="#333" stroke-width="1" />
+    
+    <circle cx="450" cy="395" r="4" fill="#333" />
+    <line x1="450" y1="385" x2="450" y2="405" stroke="#333" stroke-width="1" />
+    
+    <circle cx="550" cy="400" r="4" fill="#333" />
+    <line x1="550" y1="390" x2="550" y2="410" stroke="#333" stroke-width="1" />
+    
+    <!-- Legend -->
+    <rect x="450" y="350" width="180" height="60" fill="white" stroke="#333" stroke-width="1" />
+    <line x1="460" y1="370" x2="490" y2="370" stroke="#0000ff" stroke-width="3" />
+    <text x="495" y="375" font-family="Arial" font-size="12">UO Prediction</text>
+    <line x1="460" y1="395" x2="490" y2="395" stroke="#ff0000" stroke-width="2" stroke-dasharray="5,3" />
+    <text x="495" y="400" font-family="Arial" font-size="12">Standard QM Prediction</text>
+    <circle cx="460" cy="420" r="4" fill="#333" />
+    <line x1="460" y1="415" x2="460" y2="425" stroke="#333" stroke-width="1" />
+    <text x="495" y="425" font-family="Arial" font-size="12">Experimental Data</text>
+</svg> 

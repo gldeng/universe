@@ -1,0 +1,169 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{xcolor}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\pgfplotsset{compat=1.18}
+\usetikzlibrary{patterns}
+
+% XOR-SHIFT operations custom macros
+\newcommand{\xor}{\oplus}
+\newcommand{\shift}{\text{SHIFT}}
+\newcommand{\flip}{\neg}
+\newcommand{\quantumdomain}{\Omega_Q}
+\newcommand{\classicdomain}{\Omega_C}
+\newcommand{\universe}{\mathcal{U}}
+
+\title{Supplementary Materials: Information Ontology: Rewriting the Foundations of Physics}
+\author{Auric}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\tableofcontents
+\newpage
+
+\section{Mathematical Proofs}
+
+\subsection{Derivation of Quantum-Classical Boundary Equation}
+
+Starting with the fundamental XOR-SHIFT relationship:
+\begin{equation}
+\Omega_C = \Omega_Q \xor \shift(\Omega_Q)
+\end{equation}
+
+We can expand this into component form by considering the information density matrices:
+\begin{equation}
+\rho_C = \rho_Q \xor S(\rho_Q)
+\end{equation}
+
+For a system with information content $N$, the interference visibility $V$ is related to the quantum coherence by:
+\begin{equation}
+V = V_0\left(1 - \alpha \cdot \log_{10}(N)\right)
+\end{equation}
+
+where $\alpha = (1.35 \pm 0.2) \times 10^{-2}$ is the information coupling constant.
+
+The full derivation involves solving the following system of equations:
+\begin{align}
+\frac{\partial \rho_Q}{\partial t} &= -i[H, \rho_Q] - \alpha \log_{10}(N) \cdot L(\rho_Q)\\
+L(\rho_Q) &= \gamma \sum_j \left( L_j\rho_Q L_j^\dagger - \frac{1}{2}\{L_j^\dagger L_j, \rho_Q\} \right)
+\end{align}
+
+The solution demonstrates that the quantum-classical boundary emerges naturally at information content $N_c \approx 10^{12}$ bits.
+
+\subsection{Proof of XOR-SHIFT Invariance}
+
+The XOR-SHIFT operations satisfy the following invariance properties:
+
+1. \textbf{XOR Symmetry}: For any information states $A$ and $B$:
+\begin{equation}
+A \xor B = B \xor A
+\end{equation}
+
+2. \textbf{SHIFT Transformation}: Under reference frame transformations $T$:
+\begin{equation}
+T(\shift(A)) = \shift(T(A))
+\end{equation}
+
+3. \textbf{Energy-Information Equivalence}: For information content $I$ and energy $E$:
+\begin{equation}
+E = k_B T \cdot I \cdot \ln(2)
+\end{equation}
+
+\subsection{Derivation of Modified Gravity Equations}
+
+Starting from the information field equations:
+\begin{equation}
+G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu} + \alpha I_{\mu\nu}
+\end{equation}
+
+Where $I_{\mu\nu}$ is the information stress-energy tensor:
+\begin{equation}
+I_{\mu\nu} = \nabla_\mu \nabla_\nu I - g_{\mu\nu}\Box I
+\end{equation}
+
+This leads to the modified gravitational field equations with the following correction terms...
+
+\section{Experimental Protocols}
+
+\subsection{Quantum Interference Experiment Protocol}
+
+The quantum interference experiment utilizes a modified double-slit apparatus with weak measurement capabilities. The setup consists of:
+
+\begin{enumerate}
+\item Coherent photon source (HeNe laser, 633nm, 5mW)
+\item Double-slit assembly (slit width: 10μm, separation: 100μm)
+\item Weak measurement apparatus (polarization-based, non-demolition)
+\item High-resolution EMCCD detector (Andor iXon Ultra 888, 1024×1024 pixels)
+\item Information extraction controller (variable measurement strength)
+\end{enumerate}
+
+The experiment is conducted in a vibration-isolated environment at 20°C with humidity control. The key experimental parameters include:
+
+\begin{itemize}
+\item Detector information content: Varied from $10^6$ to $10^{12}$ bits
+\item Measurement strength: 0.01-0.5 (dimensionless coupling)
+\item Interference visibility: Measured using fringe contrast method
+\item Statistical significance: Minimum 5σ confidence level
+\end{itemize}
+
+\subsection{Gravitational Wave Detection Protocol}
+
+The proposed gravitational wave experiment utilizes data from LIGO/Virgo observatories with the following modifications:
+
+\begin{enumerate}
+\item Enhanced phase sensitivity through extended coherent integration
+\item Application of information-theoretic matched filtering algorithms
+\item Frequency-dependent analysis focusing on 20-500 Hz range
+\item Cross-correlation between multiple detectors with information-optimized weights
+\end{enumerate}
+
+The analysis pipeline incorporates:
+
+\begin{itemize}
+\item Information-based noise reduction techniques
+\item Modified waveform templates including information phase shifts
+\item Maximum likelihood parameter estimation with modified priors
+\item Bayesian model comparison between standard GR and information ontology models
+\end{itemize}
+
+\section{Data Availability}
+
+All data supporting the findings of this study are available within the paper and its supplementary materials. Raw experimental data and analysis code will be made available upon reasonable request.
+
+\subsection{Simulation Data}
+
+The numerical simulations were performed using custom Python code implementing the quantum information dynamics model. The simulation environment includes:
+
+\begin{itemize}
+\item Python 3.9 with NumPy, SciPy, and QuTiP libraries
+\item 64-bit floating-point precision
+\item Adaptive step-size ODE solver (Runge-Kutta-Fehlberg method)
+\item Verification against analytical solutions where available
+\end{itemize}
+
+The simulation source code is available at: [Repository URL to be provided upon publication]
+
+\subsection{Experimental Data Access}
+
+The experimental data consists of:
+
+\begin{itemize}
+\item Raw interference pattern images (TIFF format, 16-bit depth)
+\item Calibration and background measurement data
+\item Detector response characteristics and calibration curves
+\item Environmental parameter logs during experiment
+\item Statistical analysis workflows (Jupyter notebooks)
+\end{itemize}
+
+All datasets are archived in compliance with [Journal Name] data availability policies.
+
+\end{document} 

@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1745044372.45695 "main.aux" "main.bbl" "main" 1745044373.05578 0
+["bibtex main"] 1745046471.73254 "main.aux" "main.bbl" "main" 1745046472.60221 0
   "./bibliography.bib" 1745044371.62245 2890 2e518f9760944227b1038b8d571196d8 ""
   "/usr/local/texlive/2025basic/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "main.aux" 1745044372.98643 5591 adc269cb485a50e5ba645818b0420b57 "pdflatex"
+  "main.aux" 1745046472.53189 8029 d7d6c3fdc8e0987b1d4132437a0856ac "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1745044372.47001 "/Users/loning/cursor/universe/publication/papers/PHY-SCI-003/submission_package/latex_final/main.tex" "main.pdf" "main" 1745044373.05588 0
-  "/Users/loning/cursor/universe/publication/papers/PHY-SCI-003/submission_package/latex_final/main.tex" 1745044337.94754 2478 bf7a9395681b6591cd015e5595a574e6 ""
+["pdflatex"] 1745046471.74816 "/Users/loning/cursor/universe/publication/papers/PHY-SCI-003/submission_package/latex_final/main.tex" "main.pdf" "main" 1745046472.60231 0
+  "/Users/loning/cursor/universe/publication/papers/PHY-SCI-003/submission_package/latex_final/main.tex" 1745046470.59466 2623 62e851c129a3b3b5c76c7894facc3e61 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/local/texlive/2025basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -83,12 +83,14 @@
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex" 1673816307 5628 dc0ee4ba7f3e40acae5600067ce833de ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex" 1601326656 321 cdd11262840e01e25374a2d458f15e99 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex" 1601326656 1319 0b2de5126c6cbc295f0eb77f7344b34d ""
+  "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypatterns.code.tex" 1601326656 770 82e332cc9cc48e06b8070d74393a185a ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex" 1601326656 325 36322b0789619b270aec5993d5a9ed08 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex" 1608933718 11518 738408f795261b70ce8dd47459171309 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex" 1673816307 186782 af500404a9edec4d362912fe762ded92 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex" 1601326656 8843 5533436db3e30fbad1e0440db6027dac ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex" 1601326656 7474 f05a7223b140f230922562ac6a9fede5 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex" 1608933718 85938 8e4ba97c5906e1c0d158aea81fe29af7 ""
+  "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/libraries/pgflibrarypatterns.code.tex" 1601326656 7936 49e55444d57eb69a380c6baa35094828 ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex" 1601326656 32995 ac577023e12c0e4bd8aa420b2e852d1a ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex" 1673816307 14526 4bc184b12436aa7f6490b2d2036870ef ""
   "/usr/local/texlive/2025basic/texmf-dist/tex/generic/pgf/math/pgfint.code.tex" 1557692582 3063 8c415c68a0f3394e45cfeca0b65f6ee6 ""
@@ -223,11 +225,12 @@
   "conclusion.tex" 1744973600.34192 2527 ea355f646d91fa4c0c74b9068ca51d9d ""
   "discussion.tex" 1744973600.34191 5628 06b36be4880e443102b5f45a06a63475 ""
   "figures/figure1.tex" 1744971251.10587 1778 16f08cacce3ee92318d89778b2580c80 ""
+  "figures/figure2.tex" 1745046445.26344 5409 a448d0dfb407f82ccb0e7c09e8e56b31 ""
   "introduction.tex" 1744970603.47004 2117 4ebf5c458b6492fd6cf4ce7bce0785bd ""
-  "main.aux" 1745044372.98643 5591 adc269cb485a50e5ba645818b0420b57 "pdflatex"
-  "main.bbl" 1745044372.46794 2240 9a758712e30464a0b538a38a4205a876 "bibtex main"
-  "main.out" 1745044372.9873 4614 bb63257d3d114c529c3aa80a620a3f9a "pdflatex"
-  "main.tex" 1745044337.94754 2478 bf7a9395681b6591cd015e5595a574e6 ""
+  "main.aux" 1745046472.53189 8029 d7d6c3fdc8e0987b1d4132437a0856ac "pdflatex"
+  "main.bbl" 1745046471.7456 2240 9a758712e30464a0b538a38a4205a876 "bibtex main"
+  "main.out" 1745046472.53284 4614 bb63257d3d114c529c3aa80a620a3f9a "pdflatex"
+  "main.tex" 1745046470.59466 2623 62e851c129a3b3b5c76c7894facc3e61 ""
   "methods.tex" 1744973600.34185 2352 91da8178c519225a10dd8670d1b85919 ""
   "theory.tex" 1744973600.34189 3602 13569bad0f884b615e00fb0d1705cc33 ""
   "verification.tex" 1744973600.3419 3662 cef6cbae76a9efce67251671cc0435e2 ""

@@ -14,6 +14,7 @@
 \usepackage{tikz}
 \usepackage{pgfplots} % 已安装此包
 \pgfplotsset{compat=1.18} % 已取消注释
+\usetikzlibrary{patterns} % 添加patterns库用于图2中的填充区域
 
 % Science specific formatting
 \doublespacing
@@ -57,6 +58,9 @@ Traditional physics has reached an impasse at the boundary between quantum and c
 
 % Include Figure 1
 \input{figures/figure1} % 已恢复图形，已安装pgfplots包
+
+% Include Figure 2
+\input{figures/figure2} % 添加实验预测图表
 
 \section{Discussion}
 \input{discussion}

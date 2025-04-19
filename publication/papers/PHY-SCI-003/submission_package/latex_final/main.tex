@@ -1,0 +1,74 @@
+\documentclass[12pt,letterpaper]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{authblk} % 已安装此包
+\usepackage{setspace}
+\usepackage{lineno}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{enumitem} % 已安装此包
+\usepackage{booktabs}
+\usepackage{multirow} % 已安装此包
+\usepackage{tikz}
+\usepackage{pgfplots} % 已安装此包
+\pgfplotsset{compat=1.18} % 已取消注释
+
+% Science specific formatting
+\doublespacing
+\linenumbers
+
+% XOR-SHIFT operations custom macros
+\newcommand{\xor}{\oplus}
+\newcommand{\shift}{\text{SHIFT}}
+\newcommand{\flip}{\neg}
+\newcommand{\quantumdomain}{\Omega_Q}
+\newcommand{\classicdomain}{\Omega_C}
+\newcommand{\universe}{\mathcal{U}}
+
+\title{Information Ontology: Rewriting the Foundations of Physics}
+
+% 使用authblk包的作者格式
+\author[1]{Auric}
+\affil[1]{Universe Ontology Research Group}
+
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+Traditional physics has reached an impasse at the boundary between quantum and classical domains, with unresolved questions about the nature of reality and information. This paper presents the Information Ontology framework, based on the Universe Ontology theory, which proposes that information differential operations (XOR) and information displacement operations (SHIFT) are the fundamental building blocks of physical reality. We demonstrate how this framework unifies quantum and classical phenomena through a single formalism, offering explanations for quantum measurement, wave-particle duality, and the origin of physical laws. The theory makes several testable predictions in quantum physics, cosmology, and information theory domains. Our framework provides a more economical and unified description of physical reality compared to existing theories, with implications for quantum gravity, dark energy, and consciousness research.
+\end{abstract}
+
+\section{Introduction}
+\input{introduction}
+
+\section{Methods}
+\input{methods}
+
+\section{Theory}
+\input{theory}
+
+\section{Verification}
+\input{verification}
+
+% Include Figure 1
+\input{figures/figure1} % 已恢复图形，已安装pgfplots包
+
+\section{Discussion}
+\input{discussion}
+
+\section{Conclusion}
+\input{conclusion}
+
+\section*{Acknowledgments}
+\input{acknowledgments}
+
+\section*{References}
+\bibliography{bibliography}
+\bibliographystyle{plain} % 使用系统内置的plain样式代替Science
+
+\end{document} 

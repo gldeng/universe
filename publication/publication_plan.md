@@ -116,7 +116,7 @@ Each paper directory will contain:
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID | Status |
 |---------|---------|---------|---------|---------|---------|---------|
-| Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Research highlights under 100 words | PHY-NAT-001 | READY |
+| Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Research highlights under 100 words | PHY-NAT-001 | FINAL_PDF |
 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | [formal_theory_quantum_xor_causal_invariance](../formal_theory/formal_theory_quantum_xor_causal_invariance.md) | Year-round | Main text under 3700 words | PHY-PRL-002 | PLAN |
 | Science | Information Ontology: Rewriting the Foundations of Physics | [formal_theory_cosmic_ontology](../formal_theory/formal_theory_cosmic_ontology.md) | Year-round | Requires experimental verification section | PHY-SCI-003 | LATEX |
 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | [formal_theory_quantum_classical_boundary_dynamics](../formal_theory/formal_theory_quantum_classical_boundary_dynamics.md) | Year-round | Impact statement under 150 words | PHY-NCOM-004 | PLAN |
@@ -371,9 +371,13 @@ The process for generating LaTeX files from Markdown includes the following step
    - Verify equation numbering and references
 
 4. **Figure Processing**:
-   - Convert SVG files to PDF for vector graphics
-   - Ensure proper resolution for bitmap graphics (600 dpi minimum)
-   - Generate LaTeX figure environments with captions
+   - Generate all figures in SVG format (for vector graphics) and high-quality PNG format (600 dpi minimum)
+   - Store both SVG and PNG versions in the figures directory for accessibility and web display
+   - Convert SVG files to PDF for final LaTeX embedding
+   - Ensure all PNG graphics maintain 600 dpi minimum resolution when embedded
+   - PDF files must embed (not link) all figure content to ensure portability
+   - Generate LaTeX figure environments with appropriate captions
+   - Maintain consistent figure naming convention across all formats (figure1.svg, figure1.png, figure1.pdf)
 
 5. **Bibliography Generation**:
    - Convert citations to BibTeX format
@@ -412,9 +416,13 @@ The following tools in the `/publication/tools/` directory handle the LaTeX gene
    - Converts between different citation formats
 
 4. **figure_processor.py**: Prepares figures for publication:
-   - Converts between file formats
-   - Ensures resolution requirements
-   - Optimizes for print or online viewing
+   - Generates and maintains consistent SVG, PNG, and PDF versions of all figures
+   - Ensures resolution requirements (600 dpi minimum for PNG)
+   - Optimizes figures for print (PDF) and online viewing (SVG/PNG)
+   - Embeds all figure content in PDF files (no linked images)
+   - Validates figure quality and format compatibility
+   - Maintains consistent naming conventions across all formats
+   - Automatically processes Markdown figure references for LaTeX
 
 5. **package_generator.py**: Creates final submission packages:
    - Assembles all required files according to journal guidelines

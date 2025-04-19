@@ -1,0 +1,9 @@
+Title: XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks
+Author: Auric
+Target Journal: Nature Physics
+Submission Date: August 2025
+Version: v38.0
+Compiled: Sat Apr 19 16:21:54 +08 2025
+Word Count: 3,982
+Figure Count: 5
+Supplementary Files: 3

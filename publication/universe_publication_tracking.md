@@ -4,12 +4,12 @@
 
 | 类别 | 计划论文数 | 准备中 | 已提交 | 审稿中 | 修改中 | 已接受 | 已出版 | 被拒绝 | 追踪文档 |
 |------|------------|---------|---------|--------|---------|---------|---------|---------|---------|
-| 物理学 | 21 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | - |
+| 物理学 | 21 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 信息科学 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 复杂系统 | 7 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 哲学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
 | 生命科学 | 12 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | - |
-| **总计** | **58** | **2** | **0** | **0** | **0** | **0** | **0** | **0** | - |
+| **总计** | **58** | **1** | **0** | **0** | **0** | **0** | **0** | **0** | - |
 
 ## 2. 文件组织结构
 
@@ -24,8 +24,8 @@ publication/
 │   │   ├── manuscript.md            # 主要论文内容
 │   │   ├── outline.md               # 详细论文大纲
 │   │   ├── figures/                 # 图表和图片
-│   │   │   ├── figure1.svg          # 图1矢量图
-│   │   │   ├── figure1_description.md # 图1详细说明
+│   │   │   ├── figure*.svg          # 图*矢量图
+│   │   │   ├── figure*_description.md # 图1详细说明
 │   │   │   └── ...
 │   │   ├── supplementary/           # 补充材料
 │   │   │   ├── mathematical_proofs.md  # 详细数学证明
@@ -86,7 +86,7 @@ publication/
 
 | 追踪ID | 期刊 | 论文主题 | 字数限制 | 当前状态 | 目录路径 | 提交日期 | 最近更新 |
 |---------|---------|---------|---------|---------|---------|---------|---------|
-| PHY-NAT-001 | Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | 3,000-4,000字 | READY | publication/papers/PHY-NAT-001/ | - | 2025-04-18 |
+| PHY-NAT-001 | Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | 3,000-4,000字 | LATEX | publication/papers/PHY-NAT-001/ | - | 2025-04-19 |
 | PHY-PRL-002 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | 3,700字(4页) | READY | publication/papers/PHY-PRL-002/ | - | 2025-04-18 |
 | PHY-SCI-003 | Science | Information Ontology: Rewriting the Foundations of Physics | 4,500字 | COMPLETED | publication/papers/PHY-SCI-003/ | - | 2025-04-19 |
 | PHY-NCOM-004 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | 5,000字 | PLAN | 待创建 | - | - |
@@ -332,9 +332,13 @@ publication/
    - 验证公式编号和引用
 
 4. **图表处理**:
-   - 将SVG转换为PDF矢量图
-   - 确保位图图像达到必要分辨率(最低600dpi)
-   - 生成带说明的LaTeX图表环境
+   - 首先生成所有图表的SVG矢量格式和高分辨率PNG格式(最低600dpi)
+   - 将两种格式的图表文件保存在figures目录中以便Web展示和访问
+   - 将SVG转换为PDF矢量格式用于LaTeX文档嵌入
+   - 确保所有PNG图像嵌入时保持高分辨率(最低600dpi)
+   - PDF文件必须嵌入(而非链接)所有图表内容以确保可移植性
+   - 生成带详细说明的LaTeX图表环境
+   - 维护所有格式间的一致图表命名约定(figure1.svg, figure1.png, figure1.pdf)
 
 5. **参考文献生成**:
    - 将引用转换为BibTeX格式
@@ -351,6 +355,12 @@ publication/
    - 根据期刊格式要求验证
    - 校验所有交叉引用、引用和图表编号
 
-**上次更新：** 2025-04-25 - 更新了目录结构，增加了额外提交文件要求，为PHY-SCI-003论文准备提交所需的全部文件。
+**上次更新：** 2025-04-25 - 更新了PHY-NAT-001论文状态为LaTeX转换阶段，完成所有提交所需文件，包括补充材料、额外提交文件和LaTeX源文件。
 
 版本：v38.0 
+
+**上次更新：** 2025-04-19 - 更新了图表处理流程，新增要求先生成SVG和PNG格式图表，然后再将内容嵌入PDF文件，以确保多平台可访问性和出版质量。
+
+**上次更新：** 2025-04-19 - 更新了图表处理流程，新增要求先生成SVG和PNG格式图表，然后再将内容嵌入PDF文件，以确保多平台可访问性和出版质量。
+
+版本：v38.0

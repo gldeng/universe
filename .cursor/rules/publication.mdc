@@ -7,7 +7,8 @@ alwaysApply: false
 # 论文发表
 
 - 你可以使用命令行获取当前时间
-- 论文作者Auric
+- 论文作者Auric 邮箱:auric@aelf.io
+- github: https://github.com/loning/universe/tree/cosmos/ + [项目文件绝对路径]
 - 使用全英文
 - 更新完毕后记得更新状态到 [publication_plan.md](mdc:publication/publication_plan.md)
 - 请严格按照目录格式

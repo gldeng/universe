@@ -116,7 +116,7 @@ Each paper directory will contain:
 
 | Journal Name | Submission Topic | Theory File | Deadline | Special Requirements | Tracking ID | Status |
 |---------|---------|---------|---------|---------|---------|---------|
-| Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Research highlights under 100 words | PHY-NAT-001 | FINAL_PDF |
+| Nature Physics | XOR-SHIFT Operations Unifying Quantum and Relativistic Frameworks | [formal_theory_unified_physics](../formal_theory/formal_theory_unified_physics.md) | Year-round | Research highlights under 100 words | PHY-NAT-001 | FINAL_PDF_UPDATED |
 | Physical Review Letters | Micro-physics Verification Predictions of Universe Ontology | [formal_theory_quantum_xor_causal_invariance](../formal_theory/formal_theory_quantum_xor_causal_invariance.md) | Year-round | Main text under 3700 words | PHY-PRL-002 | PLAN |
 | Science | Information Ontology: Rewriting the Foundations of Physics | [formal_theory_cosmic_ontology](../formal_theory/formal_theory_cosmic_ontology.md) | Year-round | Requires experimental verification section | PHY-SCI-003 | LATEX |
 | Nature Communications | Information Interpretation of Quantum-Classical Boundary | [formal_theory_quantum_classical_boundary_dynamics](../formal_theory/formal_theory_quantum_classical_boundary_dynamics.md) | Year-round | Impact statement under 150 words | PHY-NCOM-004 | PLAN |

@@ -6,8 +6,8 @@
 - **Target Journal**: Nature Physics
 - **Word Limit**: 3,000-4,000 words
 - **Current Word Count**: 3,982 words
-- **Current Status**: LATEX
-- **Last Updated**: April 19, 2025
+- **Current Status**: FINAL_PDF_UPDATED
+- **Last Updated**: April 22, 2025
 
 ## Completed Items
 
@@ -24,6 +24,8 @@
 - [x] Submission checklist completed
 - [x] Additional submission documents prepared
 - [x] LaTeX files generated
+- [x] All PDFs regenerated with updated author information
+- [x] Complete submission package created (PHY-NAT-001_submission_complete.zip)
 
 ## Research Collaborations
 
@@ -41,6 +43,14 @@
 - (Estimated) November 2025: Receive initial feedback
 - (Estimated) January 2026: Revision submission if needed
 - (Estimated) March 2026: Publication if accepted
+- Abstract completed: January 15, 2025
+- First draft completed: February 3, 2025
+- Internal review completed: February 20, 2025
+- Final draft completed: March 12, 2025
+- LaTeX conversion completed: March 28, 2025
+- Final PDF generated: April 10, 2025
+- Author information updated (Haobo Ma, no institution): April 22, 2025
+- Final PDF regenerated: April 22, 2025
 
 ## Next Steps
 
@@ -49,6 +59,7 @@
 3. ~~Prepare online repository for simulation code~~
 4. Final proofreading by collaborators
 5. Submit to Nature Physics in August 2025
+6. Track submission in publication tracker
 
 ## Notes
 

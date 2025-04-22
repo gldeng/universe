@@ -104,7 +104,7 @@ Quantum measurement is information extraction, where observation creates an XOR 
 
 Mathematically, measurement probability is derived as:
 
-$`P(a) = |\langle a|ψ⟩|^2 = |⟨a|ψ⟩|^2`$
+$`P(a) = |\langle a|ψ⟩|^{2} = |⟨a|ψ⟩|^{2}`$
 
 which emerges naturally from information operations without additional postulates.
 
@@ -176,7 +176,7 @@ incorporates quantum corrections Q_μν to Einstein's equations.
 
 Our framework predicts modified interference patterns in double-slit experiments with weak measurement, specifically:
 
-$`P(x) = |ψ(x)|^2 + α\frac{d^2|ψ(x)|^2}{dx^2}`$
+$`P(x) = |ψ(x)|^{2} + α\frac{d^2|ψ(x)|^{2}}{dx^2}`$
 
 where α is an information coupling constant.
 

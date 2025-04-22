@@ -69,11 +69,11 @@ $`|\psi\rangle = \alpha|0\rangle \oplus \beta S(|0\rangle) = \alpha|0\rangle \op
 
 The probability amplitudes emerge naturally through normalization:
 
-$`\langle \psi|\psi \rangle = |\alpha|^2 + |\beta|^2 + 2\text{Re}(\alpha^*\beta\langle 0|1 \rangle) = 1`$
+$`\langle \psi|\psi \rangle = |\alpha|^{2} + |\beta|^{2} + 2\text{Re}(\alpha^*\beta\langle 0|1 \rangle) = 1`$
 
 If the base states are orthogonal ($`\langle 0|1 \rangle = 0`$), then:
 
-$`|\alpha|^2 + |\beta|^2 = 1`$
+$`|\alpha|^{2} + |\beta|^{2} = 1`$
 
 This matches the standard quantum mechanical formulation of superposition states but arises naturally from information operations rather than being postulated.
 
@@ -115,7 +115,7 @@ Where $`|O_i\rangle = |O_0\rangle \oplus |i\rangle`$ represents the observer hav
 
 The probability of observing outcome $`i`$ is:
 
-$`P(i) = |c_i|^2 = |\langle i|\psi\rangle|^2`$
+$`P(i) = |c_i|^{2} = |\langle i|\psi\rangle|^{2}`$
 
 This matches the Born rule of quantum mechanics but derives from information extraction rather than wavefunction collapse.
 
@@ -123,11 +123,11 @@ This matches the Born rule of quantum mechanics but derives from information ext
 
 In standard quantum mechanics, the probability distribution in double-slit interference is:
 
-$`P_{std}(x) = |\psi(x)|^2`$
+$`P_{std}(x) = |\psi(x)|^{2}`$
 
 In information ontology, due to information coupling between dimensions, the probability includes a correction term:
 
-$`P_{info}(x) = |\psi(x)|^2 + \alpha\frac{d^2|\psi(x)|^2}{dx^2}`$
+$`P_{info}(x) = |\psi(x)|^{2} + \alpha\frac{d^2|\psi(x)|^{2}}{dx^2}`$
 
 Where $`\alpha`$ is the information coupling constant.
 
@@ -139,7 +139,7 @@ Where $`z`$ is the distance to the screen and $`A`$ is a normalization constant.
 
 The correction term evaluates to:
 
-$`\frac{d^2|\psi(x)|^2}{dx^2} = -\frac{8\pi^2 A^2}{\lambda^2}\left[\cos\left(\frac{2\pi dx}{\lambda z}\right) - \frac{d^2}{\lambda z}\sin\left(\frac{2\pi dx}{\lambda z}\right)x\right]`$
+$`\frac{d^2|\psi(x)|^{2}}{dx^2} = -\frac{8\pi^2 A^2}{\lambda^2}\left[\cos\left(\frac{2\pi dx}{\lambda z}\right) - \frac{d^2}{\lambda z}\sin\left(\frac{2\pi dx}{\lambda z}\right)x\right]`$
 
 This leads to an observable shift in the interference maxima positions by approximately:
 

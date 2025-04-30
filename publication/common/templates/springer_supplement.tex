@@ -1,0 +1,97 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{natbib}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{enumitem}
+
+% 设置支持Unicode的字体
+\setmainfont{DejaVu Serif}
+\setmathfont{XITS Math}
+
+% For tight lists
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Syntax highlighting
+\usepackage{fancyvrb}
+\usepackage{listings}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\OtherTok}[1]{#1}
+\usepackage{framed}
+\newenvironment{snugshade}{%
+  \begin{framed}%
+  \advance\leftmargin-\fboxsep%
+  \advance\rightmargin-\fboxsep%
+}{\end{framed}}
+
+% Page setup
+\geometry{a4paper, margin=1in}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    pdfauthor={$author$},
+    pdftitle={$title$},
+    pdfsubject={Supplementary Material},
+    pdfkeywords={Universe Ontology, Supplementary}
+}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Supplementary Material}
+\fancyhead[R]{Universe Ontology $version$}
+\fancyfoot[C]{Page \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Title information
+\title{$title$}
+\author{$author$}
+\date{$date$}
+
+% Listing style for code
+\lstset{
+    backgroundcolor=\color{gray!10},
+    basicstyle=\footnotesize\ttfamily,
+    breaklines=true,
+    captionpos=b,
+    commentstyle=\color{green!50!black},
+    frame=single,
+    keywordstyle=\color{blue},
+    showstringspaces=false,
+    stringstyle=\color{red},
+    numbers=left,
+    numberstyle=\tiny\color{gray},
+    numbersep=5pt
+}
+
+% Document
+\begin{document}
+
+\maketitle
+
+\section*{Supplementary Material}
+\addcontentsline{toc}{section}{Supplementary Material}
+
+$body$
+
+\end{document}

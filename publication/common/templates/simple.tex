@@ -1,0 +1,57 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{fontspec}
+\usepackage{unicode-math}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{geometry}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+% 设置支持Unicode的字体
+\setmainfont{DejaVu Serif}
+\setmathfont{XITS Math}
+
+% For tight lists
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Page setup
+\geometry{a4paper, margin=1in}
+
+% Hyperref setup
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=blue,
+    pdfauthor={$author$},
+    pdftitle={$title$},
+    pdfsubject={$title$},
+    pdfkeywords={Universe Ontology}
+}
+
+% Header and footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{$title$}
+\fancyhead[R]{Universe Ontology $version$}
+\fancyfoot[C]{Page \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Title information
+\title{$title$}
+\author{$author$}
+\date{$date$}
+
+% Document
+\begin{document}
+
+\maketitle
+
+$body$
+
+\end{document} 

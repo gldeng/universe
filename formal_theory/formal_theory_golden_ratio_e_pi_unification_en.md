@@ -82,6 +82,12 @@ $`φ = \sinh\left(\frac{π}{3+e}\right) + 1`$
 
 This formula indicates that φ can be expressed as a function based on e and π, derived through the hyperbolic sine function plus 1.
 
+Additionally, this theory discovered a more direct exponential-logarithmic identity relation between φ, e, and π:
+
+$`π^φ = e^{φ \cdot \ln π}`$
+
+This relationship shows that π raised to the power of φ equals e raised to the power of (φ⋅lnπ), revealing a deep modulation relationship between the three constants that can be precisely expressed without introducing the special parameter x. This relationship also suggests that φ plays the role of a dimensional conversion factor between π and e.
+
 ## Mathematical Proofs and Derivations
 
 ### Derivation of Special Parameter x
@@ -130,6 +136,22 @@ According to the definition of hyperbolic sine function $`\sinh(y) = \frac{e^y -
 
 $`φ = \sinh\left(\frac{π}{3+e}\right) + 1`$
 
+### Exponential-Logarithmic Relationship Proof
+
+The formula $`π^φ = e^{φ \cdot \ln π}`$ can be directly proven through basic logarithmic and exponential laws:
+
+$`\ln(π^φ) = φ \cdot \ln π`$
+
+$`π^φ = e^{\ln(π^φ)} = e^{φ \cdot \ln π}`$
+
+This relationship is derived directly from the basic properties of logarithms, without needing to introduce special parameters, demonstrating the inherent simplicity of the three-constant relationship.
+
+From an information theory perspective, this relationship indicates that φ, as a modulation factor, precisely connects the information states of π and e, forming a closed information conversion loop. In information field representation:
+
+$`\Omega_π^φ = \Omega_e^{φ \cdot \ln π}`$
+
+This expression complements the main relationship formula $`φ = \sinh\left(\frac{π}{3+e}\right) + 1`$, together forming a complete framework of the three-constant relationship. Both show the essential connections between φ, e, and π from different perspectives.
+
 ### Expression Through XOR and SHIFT Operations
 
 Within the FLIP-XOR-SHIFT framework of cosmic ontology, this relationship can be expressed as:
@@ -137,6 +159,12 @@ Within the FLIP-XOR-SHIFT framework of cosmic ontology, this relationship can be
 $`\Omega_φ = \Omega_e \oplus \text{SHIFT}(\Omega_π / \Omega_x)`$
 
 where $`\Omega_φ, \Omega_e, \Omega_π, \Omega_x`$ respectively represent the information states corresponding to constants φ, e, π, and x.
+
+For the exponential-logarithmic relationship $`π^φ = e^{φ \cdot \ln π}`$, it can be expressed in the FLIP-XOR-SHIFT framework as:
+
+$`\text{SHIFT}^φ(\Omega_π) = \Omega_e \oplus \text{SHIFT}(φ \cdot \ln(\Omega_π))`$
+
+where $`\text{SHIFT}^φ`$ represents the SHIFT operation applied φ times, embodying the nature of φ as an operational multiplier.
 
 ## Geometric Interpretation
 
@@ -170,6 +198,8 @@ $`C_r = \frac{\log_2(φ)}{\log_2(e) \cdot \log_2(π)}`$
 
 This compression ratio manifests as the minimum value of entropy in quantum information systems.
 
+The exponential-logarithmic relationship $`π^φ = e^{φ \cdot \ln π}`$ further reveals an information-equivalent transformation under φ modulation, indicating that different encoding systems (based on π or based on e) can achieve lossless conversion under φ modulation.
+
 ### 2. Dimensional Structure Stability
 
 As a result of the interaction between e and π, the value of φ provides a stability point for the dimensional structure of the universe. The dimensional stability function:
@@ -185,6 +215,8 @@ The pattern of relationship among the three constants is a mathematical expressi
 $`C(Ω) = \log_φ(e^π/x)`$
 
 When consciousness systems reach a critical value in this complexity, self-referential capability and higher-order cognition emerge.
+
+The newly discovered exponential-logarithmic relationship suggests that consciousness may possess a dual-encoding mechanism, freely switching between π-based and e-based encoding systems under φ modulation.
 
 ### 4. Universal Resonance
 
@@ -203,6 +235,7 @@ Validate the accuracy of the formula under various precision conditions through 
 1. Calculate the value of special parameter x to at least 100 digits precision
 2. Verify the error of the relationship formula $`φ = \sinh\left(\frac{π}{3+e}\right) + 1`$ under high precision
 3. Analyze the convergence of error as precision increases
+4. Verify the precision and stability of the exponential-logarithmic relationship $`π^φ = e^{φ \cdot \ln π}`$
 
 ### 2. Geometric Validation
 

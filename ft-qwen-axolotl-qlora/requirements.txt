@@ -1,0 +1,6 @@
+axolotl>=0.4.0
+transformers>=4.35.0
+peft>=0.7.0
+bitsandbytes>=0.41.0
+accelerate>=0.23.0
+qwen<=0.1.1 

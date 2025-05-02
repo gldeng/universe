@@ -1,0 +1,51 @@
+# Axolotl + QLoRA Fine-Tuning Config for Qwen Small Model
+# 宇宙本论 v37.5
+
+base_model: Qwen/Qwen-1_8B-Chat
+# 可选: Qwen/Qwen-1_8B-Chat
+
+output_dir: ./output/qwen-qlora-ft
+logging_dir: ./output/logs
+
+dataset:
+  path: ./data/
+  type: alpaca
+  # 可自定义为自有格式
+
+# QLoRA参数
+lora:
+  r: 64
+  alpha: 16
+  dropout: 0.05
+  target_modules: ["q_proj", "v_proj"]
+  bias: none
+  task_type: CAUSAL_LM
+  lora_dtype: bfloat16
+  lora_target_linear: true
+
+# 训练参数
+train:
+  per_device_train_batch_size: 4
+  per_device_eval_batch_size: 4
+  gradient_accumulation_steps: 8
+  num_train_epochs: 3
+  learning_rate: 2e-4
+  max_grad_norm: 1.0
+  weight_decay: 0.0
+  warmup_steps: 100
+  logging_steps: 10
+  save_steps: 100
+  eval_steps: 100
+  fp16: false
+  bf16: true
+  optim: adamw_torch
+  lr_scheduler_type: cosine
+  seed: 42
+
+# 其他参数
+max_seq_length: 2048
+packing: false
+report_to: ["tensorboard"]
+resume_from_checkpoint: null
+
+# 推理/评测参数可在scripts/中单独配置 

@@ -2,15 +2,16 @@
 # 宇宙本论 v37.5
 
 base_model: Qwen/Qwen-1_8B-Chat
+trust_remote_code: true
 # 可选: Qwen/Qwen-1_8B-Chat
 
 output_dir: ./output/qwen-qlora-ft
 logging_dir: ./output/logs
 
-dataset:
-  path: ./data/
-  type: alpaca
-  # 可自定义为自有格式
+datasets:
+  - path: ./data/conversation_sft.jsonl
+    type: alpaca
+# 可自定义为自有格式
 
 # QLoRA参数
 lora:
@@ -23,13 +24,13 @@ lora:
   lora_dtype: bfloat16
   lora_target_linear: true
 
+micro_batch_size: 4
+gradient_accumulation_steps: 8
+learning_rate: 2e-4
+
 # 训练参数
 train:
-  per_device_train_batch_size: 4
-  per_device_eval_batch_size: 4
-  gradient_accumulation_steps: 8
   num_train_epochs: 3
-  learning_rate: 2e-4
   max_grad_norm: 1.0
   weight_decay: 0.0
   warmup_steps: 100
@@ -37,7 +38,7 @@ train:
   save_steps: 100
   eval_steps: 100
   fp16: false
-  bf16: true
+  bf16: false
   optim: adamw_torch
   lr_scheduler_type: cosine
   seed: 42

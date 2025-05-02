@@ -3,6 +3,7 @@
 
 base_model: Qwen/Qwen-1_8B-Chat
 trust_remote_code: true
+device: cpu
 # 可选: Qwen/Qwen-1_8B-Chat
 
 output_dir: ./output/qwen-qlora-ft
@@ -21,8 +22,6 @@ lora:
   target_modules: ["q_proj", "v_proj"]
   bias: none
   task_type: CAUSAL_LM
-  lora_dtype: bfloat16
-  lora_target_linear: true
 
 micro_batch_size: 4
 gradient_accumulation_steps: 8

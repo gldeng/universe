@@ -32,7 +32,7 @@ This project provides a fine-tuning pipeline for Qwen small models using Axolotl
 # 推荐使用Python 3.10+
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install -r requirements.txt  # 确保axolotl==0.9.0
 ```
 
 ---
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 ## 快速开始 | Quick Start
 
 1. 准备训练数据，放入`data/`目录。
-2. 根据需求修改`config.yaml`。
+2. 根据需求修改`config.yaml`（已兼容axolotl 0.9.0）。
 3. 启动微调：
 
 ```bash
@@ -53,7 +53,7 @@ axolotl train config.yaml
 
 ## 主要依赖 | Main Dependencies
 
-- axolotl >= 0.4.0
+- axolotl == 0.9.0
 - transformers >= 4.35.0
 - peft >= 0.7.0
 - bitsandbytes >= 0.41.0
